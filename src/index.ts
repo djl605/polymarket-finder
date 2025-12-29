@@ -13,7 +13,7 @@ dotenv.config();
 /**
  * Main bot execution
  */
-async function main() {
+export async function main() {
   console.log('🤖 Polymarket Scanner Bot Starting...\n');
   console.log(`⏰ Run time: ${new Date().toISOString()}\n`);
 
@@ -94,7 +94,7 @@ async function main() {
         stateManager.cacheAnalysis(marketId, market.question, price, analysis);
         
         // Rate limiting for API calls
-        await sleep(2000);
+        await sleepImpl.sleep(2000);
       }
 
       // Calculate rank (lower = better)
@@ -173,14 +173,19 @@ async function main() {
   }
 }
 
-function sleep(ms: number): Promise<void> {
+export function sleep(ms: number): Promise<void> {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
+
+// For testing: export a function that can be replaced
+export const sleepImpl = {
+  sleep: (ms: number) => sleep(ms)
+};
 
 /**
  * Calculate rank for an analyzed market (lower = better)
  */
-function calculateRank(analysis: AIAnalysis): number {
+export function calculateRank(analysis: AIAnalysis): number {
   // Action ranking: strong_signal = 0, research = 10, skip = 1000
   let actionScore = 1000;
   if (analysis.suggestedAction === 'strong_signal') {
@@ -200,6 +205,8 @@ function calculateRank(analysis: AIAnalysis): number {
   return actionScore + confidenceScore;
 }
 
-// Run the bot
-main();
+// Run the bot if this file is executed directly (not imported for testing)
+if (require.main === module) {
+  main();
+}
 
