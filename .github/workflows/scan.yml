@@ -1,0 +1,75 @@
+name: Polymarket Scanner
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code from main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Fetch state from bot-state branch
+        run: |
+          git fetch origin bot-state:bot-state 2>/dev/null || echo "No bot-state branch yet"
+          if git show-ref --verify --quiet refs/heads/bot-state; then
+            git checkout bot-state -- state.json 2>/dev/null || echo "No state.json yet"
+          fi
+        continue-on-error: true
+      
+      - name: Build TypeScript
+        run: npm run build
+      
+      - name: Run scanner
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          MIN_MARKET_AGE_DAYS: ${{ vars.MIN_MARKET_AGE_DAYS || '7' }}
+          MAX_MARKET_VOLUME_DOLLARS: ${{ vars.MAX_MARKET_VOLUME_DOLLARS || '10000' }}
+          MAX_SPREAD_CENTS: ${{ vars.MAX_SPREAD_CENTS || '6' }}
+          MIN_MARKET_PROBABILITY: ${{ vars.MIN_MARKET_PROBABILITY || '0.15' }}
+          MAX_MARKET_PROBABILITY: ${{ vars.MAX_MARKET_PROBABILITY || '0.85' }}
+          ANALYSIS_CACHE_DAYS: ${{ vars.ANALYSIS_CACHE_DAYS || '3' }}
+          ALERT_COOLDOWN_DAYS: ${{ vars.ALERT_COOLDOWN_DAYS || '7' }}
+          MAX_ALERTS_PER_RUN: ${{ vars.MAX_ALERTS_PER_RUN || '5' }}
+        run: npm start
+      
+      - name: Commit state to bot-state branch
+        run: |
+          git config user.name "polymarket-bot[bot]"
+          git config user.email "polymarket-bot[bot]@users.noreply.github.com"
+          
+          # Create or checkout bot-state branch
+          git fetch origin bot-state:bot-state 2>/dev/null || git checkout --orphan bot-state
+          git checkout bot-state 2>/dev/null || git checkout --orphan bot-state
+          
+          # Remove all files except state.json
+          git rm -rf . 2>/dev/null || true
+          git checkout main -- state.json 2>/dev/null || true
+          
+          # If state.json exists, commit it
+          if [ -f state.json ]; then
+            git add state.json
+            git diff --quiet && git diff --staged --quiet || git commit -m "Update market state - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+            git push origin bot-state
+          else
+            echo "No state.json file to commit"
+          fi

@@ -1,0 +1,28 @@
+{
+  "lastRun": "2025-12-29T10:00:00.000Z",
+  "alertedMarkets": {
+    "example-market-id-123": {
+      "marketId": "example-market-id-123",
+      "question": "Will X happen by Y date?",
+      "alertedAt": "2025-12-29T10:00:00.000Z",
+      "price": 0.45
+    }
+  },
+  "cachedAnalyses": {
+    "example-market-id-456": {
+      "marketId": "example-market-id-456",
+      "question": "Will Y occur before Z?",
+      "lastAnalyzed": "2025-12-29T08:00:00.000Z",
+      "lastPrice": 0.32,
+      "analysis": {
+        "marketId": "example-market-id-456",
+        "question": "Will Y occur before Z?",
+        "fullAnalysis": "Complete AI reasoning chain here...",
+        "summary": "Market appears mispriced based on recent data...",
+        "confidence": "high",
+        "suggestedAction": "strong_signal"
+      }
+    }
+  }
+}
+

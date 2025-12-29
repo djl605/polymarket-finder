@@ -1,0 +1,39 @@
+import { Config } from './types';
+
+/**
+ * Load configuration from environment variables
+ */
+export function loadConfig(): Config {
+  const discordWebhookUrl = process.env.DISCORD_WEBHOOK_URL;
+  const openaiApiKey = process.env.OPENAI_API_KEY;
+  const exaApiKey = process.env.EXA_API_KEY;
+  
+  if (!discordWebhookUrl) {
+    throw new Error('DISCORD_WEBHOOK_URL environment variable is required');
+  }
+  
+  if (!openaiApiKey) {
+    throw new Error('OPENAI_API_KEY environment variable is required');
+  }
+  
+  if (!exaApiKey) {
+    throw new Error('EXA_API_KEY environment variable is required');
+  }
+
+  return {
+    discordWebhookUrl,
+    openaiApiKey,
+    exaApiKey,
+    screening: {
+      minMarketAgeDays: parseFloat(process.env.MIN_MARKET_AGE_DAYS || '7'),
+      maxTotalVolume: parseFloat(process.env.MAX_MARKET_VOLUME_DOLLARS || '10000'),
+      maxSpreadCents: parseFloat(process.env.MAX_SPREAD_CENTS || '6'),
+      minProbability: parseFloat(process.env.MIN_MARKET_PROBABILITY || '0.15'),
+      maxProbability: parseFloat(process.env.MAX_MARKET_PROBABILITY || '0.85'),
+    },
+    cacheMaxAgeDays: parseInt(process.env.ANALYSIS_CACHE_DAYS || '3', 10),
+    alertCooldownDays: parseInt(process.env.ALERT_COOLDOWN_DAYS || '7', 10),
+    maxAlertsPerRun: parseInt(process.env.MAX_ALERTS_PER_RUN || '5', 10),
+  };
+}
+
