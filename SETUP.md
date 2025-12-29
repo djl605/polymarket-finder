@@ -67,7 +67,7 @@ Go to: Actions → Polymarket Scanner → Run workflow
 3. **Three-stage AI research pipeline:**
    - Uses GPT-4o-mini to craft optimal search queries
    - Uses Exa AI to search Twitter, Reddit, news, forums
-   - Uses OpenAI o1-mini to reason through findings
+   - Uses OpenAI o4-mini to reason through findings
 4. Sends Discord alerts for interesting opportunities with full reasoning
 5. Tracks alerted markets to avoid duplicates
 
@@ -96,7 +96,7 @@ of information asymmetry from Reddit thread analyzing overlooked data...
 View on Polymarket • Order Book
 ```
 
-Plus the console will show the **full reasoning chain** from o1-mini.
+Plus the console will show the **full reasoning chain** from o4-mini.
 
 ## 🐛 Troubleshooting
 

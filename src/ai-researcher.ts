@@ -10,7 +10,7 @@ interface ExaResult {
 }
 
 /**
- * Uses Exa for web research + OpenAI o1-mini for reasoning
+ * Uses Exa for web research + OpenAI o4-mini for reasoning
  */
 export class AIResearcher {
   constructor(
@@ -36,7 +36,7 @@ export class AIResearcher {
       const researchContext = this.formatExaResults(exaResults);
       console.log(`   📚 Found ${exaResults.length} relevant sources`);
 
-      // Step 3: Use o1-mini for reasoning
+      // Step 3: Use o4-mini for reasoning
       console.log(`   🤖 Running AI reasoning...`);
       const prompt = this.buildReasoningPrompt(
         market.question,
@@ -195,7 +195,7 @@ ${r.text.length > 1500 ? '...' : ''}
   }
 
   /**
-   * Build a prompt for o1-mini reasoning
+   * Build a prompt for o4-mini reasoning
    */
   private buildReasoningPrompt(
     question: string,
@@ -248,7 +248,7 @@ CONFIDENCE: [low/medium/high]`;
   }
 
   /**
-   * Call OpenAI o1-mini for reasoning
+   * Call OpenAI o4-mini for reasoning
    */
   private async callOpenAIO1Mini(prompt: string): Promise<string> {
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
@@ -258,14 +258,14 @@ CONFIDENCE: [low/medium/high]`;
         'Authorization': `Bearer ${this.openaiApiKey}`,
       },
       body: JSON.stringify({
-        model: 'o1-mini',
+        model: 'o4-mini',
         messages: [
           {
             role: 'user',
             content: prompt,
           },
         ],
-        // o1 models don't support temperature, max_tokens, or system messages
+        // o4 models don't support temperature, max_tokens, or system messages
         // They use their own reasoning approach
       }),
     });

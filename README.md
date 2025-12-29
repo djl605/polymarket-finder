@@ -14,7 +14,7 @@ The bot looks for markets that are:
 
 When it finds candidates, it:
 1. **Researches** using Exa AI (neural search across Twitter, Reddit, news, forums)
-2. **Reasons** using OpenAI o1-mini to assess mispricing likelihood
+2. **Reasons** using OpenAI o4-mini to assess mispricing likelihood
 3. **Alerts** you via Discord for manual research
 
 These characteristics suggest markets that may be mispriced due to low attention.
@@ -27,7 +27,7 @@ These characteristics suggest markets that may be mispriced due to low attention
 - **State Management:** JSON file stored in separate `bot-state` branch
 - **Notifications:** Discord webhooks with rich embeds
 - **Web Research:** Exa AI (neural search across social media, news, forums)
-- **AI Reasoning:** OpenAI o1-mini (chain-of-thought reasoning for mispricing detection)
+- **AI Reasoning:** OpenAI o4-mini (chain-of-thought reasoning for mispricing detection)
 
 ## 🚀 Setup
 
@@ -56,7 +56,7 @@ npm install
 
 Add the following secrets to your GitHub repository:
 
-- `OPENAI_API_KEY` - for o1-mini reasoning (get from [OpenAI](https://platform.openai.com/api-keys))
+- `OPENAI_API_KEY` - for o4-mini reasoning (get from [OpenAI](https://platform.openai.com/api-keys))
 - `EXA_API_KEY` - for neural search (get from [Exa.ai](https://exa.ai/))
 
 ### 5. Adjust Screening Criteria (Optional)
@@ -117,7 +117,7 @@ npm start
 6. **Three-Stage AI Research Pipeline:**
    - **Stage 1:** GPT-4o-mini analyzes market and crafts optimal search query
    - **Stage 2:** Exa AI searches Twitter, Reddit, news, forums with optimized query
-   - **Stage 3:** OpenAI o1-mini reasons through findings to assess mispricing
+   - **Stage 3:** OpenAI o4-mini reasons through findings to assess mispricing
 7. **Alert:** Sends Discord notifications for markets worth researching (max 5 per run)
 8. **Track:** Saves alerted markets to prevent duplicate notifications
 
@@ -209,7 +209,7 @@ const enrichedMarkets = await fetcher.enrichWithOrderBooks(topCandidates, 100); 
 - **GitHub Actions:** Free (2,000 minutes/month for private repos, unlimited for public)
 - **GPT-4o-mini (query generation):** ~$0.001 per market
 - **Exa AI (search):** ~$0.10 per market (10 results with content)
-- **OpenAI o1-mini (reasoning):** ~$0.04 per market
+- **OpenAI o4-mini (reasoning):** ~$0.04 per market
 - **Total per market analyzed:** ~$0.14
 - **Daily cost:** 5 markets × 8 scans/day = ~$5.60/day
 - **Monthly cost:** ~$170/month

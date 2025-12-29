@@ -31,7 +31,7 @@ export async function main() {
     console.log(`     - Alert cooldown: ${config.alertCooldownDays} days`);
     console.log(`     - Max alerts per run: ${config.maxAlertsPerRun}`);
     console.log(`   AI:`);
-    console.log(`     - Reasoning: ${config.openaiApiKey ? 'OpenAI o1-mini' : 'Disabled'}`);
+    console.log(`     - Reasoning: ${config.openaiApiKey ? 'OpenAI o4-mini' : 'Disabled'}`);
     console.log(`     - Research: ${config.exaApiKey ? 'Exa AI' : 'Disabled'}\n`);
 
     // Initialize components

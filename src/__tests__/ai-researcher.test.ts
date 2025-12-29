@@ -73,7 +73,7 @@ describe('AIResearcher', () => {
         }),
       } as any);
 
-      // Mock o1-mini reasoning
+      // Mock o4-mini reasoning
       mockFetch.mockResolvedValueOnce({
         ok: true,
         json: async () => ({
@@ -269,9 +269,9 @@ CONFIDENCE: medium`,
       const result = await researcher.analyzeMarket(market);
 
       expect(result.fullAnalysis).toBeTruthy();
-      // Verify that o1-mini was called with formatted Exa results
-      const o1MiniCall = mockFetch.mock.calls[2];
-      const requestBody = JSON.parse(o1MiniCall[1]?.body as string);
+      // Verify that o4-mini was called with formatted Exa results
+      const o4MiniCall = mockFetch.mock.calls[2];
+      const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('Article 1');
       expect(requestBody.messages[0].content).toContain('Article 2');
     });
@@ -310,8 +310,8 @@ CONFIDENCE: low`,
       const result = await researcher.analyzeMarket(market);
 
       expect(result).toBeTruthy();
-      const o1MiniCall = mockFetch.mock.calls[2];
-      const requestBody = JSON.parse(o1MiniCall[1]?.body as string);
+      const o4MiniCall = mockFetch.mock.calls[2];
+      const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('No relevant sources found');
     });
 
