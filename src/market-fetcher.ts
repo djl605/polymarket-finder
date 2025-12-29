@@ -134,8 +134,18 @@ export class MarketFetcher {
     const ageInDays = (now.getTime() - createdAt.getTime()) / (1000 * 60 * 60 * 24);
 
     // Get outcome prices (probabilities)
-    const outcomePrices = market.outcomePrices || ['0.5', '0.5'];
+    // Note: outcomePrices comes as a JSON string from the API, e.g., "[\"0.6\", \"0.4\"]"
+    const outcomePricesRaw = market.outcomePrices || '["0.5", "0.5"]';
+    const outcomePrices = typeof outcomePricesRaw === 'string' 
+      ? JSON.parse(outcomePricesRaw) 
+      : outcomePricesRaw;
     const mainProbability = parseFloat(outcomePrices[0] || '0.5');
+
+    // Parse outcomes (also comes as JSON string)
+    const outcomesRaw = market.outcomes || '["Yes", "No"]';
+    const outcomes = typeof outcomesRaw === 'string' 
+      ? JSON.parse(outcomesRaw) 
+      : outcomesRaw;
 
     // Parse volume data
     const volume = parseFloat(market.volume || '0');
@@ -158,7 +168,7 @@ export class MarketFetcher {
       conditionId,
       question: market.question,
       description: market.description || '',
-      outcomes: market.outcomes || ['Yes', 'No'],
+      outcomes,
       active: market.active !== false,
       closed: market.closed || false,
       createdAt,

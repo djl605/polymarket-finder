@@ -24,8 +24,8 @@ describe('MarketFetcher', () => {
           closed: false,
           volume: '1000',
           volume24hr: '100',
-          outcomePrices: ['0.6', '0.4'],
-          outcomes: ['Yes', 'No'],
+          outcomePrices: '["0.6", "0.4"]', // API returns JSON string
+          outcomes: '["Yes", "No"]', // API returns JSON string
           startDate: '2024-01-01T00:00:00Z',
           endDate: '2024-12-31T00:00:00Z',
           tokens: [{ token_id: 'token123' }],
@@ -104,7 +104,7 @@ describe('MarketFetcher', () => {
           active: true,
           closed: false,
           volume: '1000',
-          outcomePrices: ['0.5', '0.5'],
+          outcomePrices: '["0.5", "0.5"]', // API returns JSON string
           startDate: tenDaysAgo.toISOString(),
           bestBid: '0.48',
           bestAsk: '0.51',
@@ -114,7 +114,7 @@ describe('MarketFetcher', () => {
           active: true,
           closed: false,
           volume: '50000',
-          outcomePrices: ['0.5', '0.5'],
+          outcomePrices: '["0.5", "0.5"]', // API returns JSON string
           startDate: tenDaysAgo.toISOString(),
           bestBid: '0.48',
           bestAsk: '0.51',
