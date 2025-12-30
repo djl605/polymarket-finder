@@ -50,6 +50,8 @@ jobs:
           ANALYSIS_CACHE_DAYS: ${{ vars.ANALYSIS_CACHE_DAYS || '3' }}
           ALERT_COOLDOWN_DAYS: ${{ vars.ALERT_COOLDOWN_DAYS || '7' }}
           MAX_ALERTS_PER_RUN: ${{ vars.MAX_ALERTS_PER_RUN || '5' }}
+          VERBOSE_LOGS: ${{ vars.VERBOSE_LOGS || 'false' }}
+          MAX_CONCURRENT_ANALYSES: ${{ vars.MAX_CONCURRENT_ANALYSES || '3' }}
         run: npm start
       
       - name: Commit state to bot-state branch
