@@ -9,6 +9,7 @@ export interface EnrichedMarket {
   market: any; // Raw market data from Gamma API
   tokenId: string;
   conditionId: string;
+  slug: string;
   question: string;
   description: string;
   outcomes: string[];
@@ -103,5 +104,7 @@ export interface Config {
   cacheMaxAgeDays: number;
   alertCooldownDays: number;
   maxAlertsPerRun: number;
+  maxConcurrentAnalyses: number;
+  verboseLogs: boolean;
 }
 

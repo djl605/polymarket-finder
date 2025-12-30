@@ -52,7 +52,7 @@ export class DiscordNotifier {
         {
           name: '🔗 Links',
           value: [
-            `[View on Polymarket](https://polymarket.com/event/${market.conditionId})`,
+            `[View on Polymarket](https://polymarket.com/event/${market.slug})`,
             market.tokenId ? `[Order Book](https://clob.polymarket.com/book?market=${market.tokenId})` : null,
           ].filter(Boolean).join(' • '),
           inline: false,

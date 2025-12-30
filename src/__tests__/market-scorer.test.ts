@@ -20,6 +20,7 @@ describe('MarketScorer', () => {
     market: {},
     tokenId: 'token123',
     conditionId: 'cond123',
+    slug: 'test-market',
     question: 'Test market?',
     description: 'Test description',
     outcomes: ['Yes', 'No'],

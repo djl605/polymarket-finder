@@ -52,6 +52,8 @@ describe('Config', () => {
       expect(config.cacheMaxAgeDays).toBe(3);
       expect(config.alertCooldownDays).toBe(7);
       expect(config.maxAlertsPerRun).toBe(5);
+      expect(config.maxConcurrentAnalyses).toBe(10);
+      expect(config.verboseLogs).toBe(false);
     });
 
     it('should load config with custom values from environment', () => {
@@ -66,6 +68,8 @@ describe('Config', () => {
       process.env.ANALYSIS_CACHE_DAYS = '7';
       process.env.ALERT_COOLDOWN_DAYS = '14';
       process.env.MAX_ALERTS_PER_RUN = '10';
+      process.env.MAX_CONCURRENT_ANALYSES = '20';
+      process.env.VERBOSE_LOGS = 'true';
       
       const config = loadConfig();
       
@@ -80,6 +84,8 @@ describe('Config', () => {
       expect(config.cacheMaxAgeDays).toBe(7);
       expect(config.alertCooldownDays).toBe(14);
       expect(config.maxAlertsPerRun).toBe(10);
+      expect(config.maxConcurrentAnalyses).toBe(20);
+      expect(config.verboseLogs).toBe(true);
     });
 
     it('should parse numeric values correctly', () => {
@@ -95,6 +101,28 @@ describe('Config', () => {
       expect(config.screening.minMarketAgeDays).toBe(3.5);
       expect(config.screening.maxTotalVolume).toBe(15000.75);
       expect(config.screening.maxSpreadCents).toBe(8.2);
+    });
+
+    it('should enforce minimum value of 1 for maxConcurrentAnalyses', () => {
+      process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
+      process.env.OPENAI_API_KEY = 'sk-test';
+      process.env.EXA_API_KEY = 'exa-test';
+      process.env.MAX_CONCURRENT_ANALYSES = '0';
+      
+      const config = loadConfig();
+      
+      expect(config.maxConcurrentAnalyses).toBe(1);
+    });
+
+    it('should handle negative maxConcurrentAnalyses', () => {
+      process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
+      process.env.OPENAI_API_KEY = 'sk-test';
+      process.env.EXA_API_KEY = 'exa-test';
+      process.env.MAX_CONCURRENT_ANALYSES = '-5';
+      
+      const config = loadConfig();
+      
+      expect(config.maxConcurrentAnalyses).toBe(1);
     });
   });
 });

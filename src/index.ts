@@ -32,12 +32,19 @@ export async function main() {
     console.log(`     - Max alerts per run: ${config.maxAlertsPerRun}`);
     console.log(`   AI:`);
     console.log(`     - Reasoning: ${config.openaiApiKey ? 'OpenAI o4-mini' : 'Disabled'}`);
-    console.log(`     - Research: ${config.exaApiKey ? 'Exa AI' : 'Disabled'}\n`);
+    console.log(`     - Research: ${config.exaApiKey ? 'Exa AI' : 'Disabled'}`);
+    console.log(`     - Concurrent analyses: ${config.maxConcurrentAnalyses}`);
+    console.log(`     - Verbose logs: ${config.verboseLogs ? 'Enabled' : 'Disabled'}\n`);
 
     // Initialize components
     const fetcher = new MarketFetcher();
     const scorer = new MarketScorer(config.screening);
-    const aiResearcher = new AIResearcher(config.openaiApiKey, config.exaApiKey);
+    const aiResearcher = new AIResearcher(
+      config.openaiApiKey,
+      config.exaApiKey,
+      config.maxConcurrentAnalyses,
+      config.verboseLogs
+    );
     const notifier = new DiscordNotifier(config.discordWebhookUrl);
     const stateManager = new StateManager();
 
@@ -52,8 +59,8 @@ export async function main() {
       return;
     }
 
-    // Step 2: Analyze ALL candidates (with caching)
-    console.log('🤖 Analyzing candidates...\n');
+    // Step 2: Analyze ALL candidates (with caching) - CONCURRENTLY
+    console.log(`🤖 Analyzing ${screenedMarkets.length} market${screenedMarkets.length === 1 ? '' : 's'} (up to ${config.maxConcurrentAnalyses} concurrent)...\n`);
 
     interface AnalyzedMarket {
       screenedMarket: ScreenedMarket;
@@ -61,9 +68,19 @@ export async function main() {
       rank: number; // Lower = better
     }
 
-    const analyzedMarkets: AnalyzedMarket[] = [];
+    interface AnalysisResult {
+      analyzedMarket: AnalyzedMarket;
+      logs: string[];
+    }
 
-    for (const market of screenedMarkets) {
+    // Track progress
+    let completed = 0;
+    const total = screenedMarkets.length;
+    const startTime = Date.now();
+
+    // Process all markets concurrently
+    const analysisPromises = screenedMarkets.map(async (market) => {
+      const logs: string[] = [];
       const marketId = market.conditionId;
       const price = market.mainProbability;
 
@@ -76,38 +93,60 @@ export async function main() {
         score,
       };
 
-      console.log(`📊 ${market.question.substring(0, 80)}...`);
-      console.log(`   ${reason}`);
+      logs.push(`📊 ${market.question.substring(0, 80)}...`);
+      logs.push(`   ${reason}`);
 
       // Check for cached analysis
       let analysis: AIAnalysis;
       if (stateManager.isCachedAnalysisFresh(marketId, config.cacheMaxAgeDays)) {
         const cached = stateManager.getCachedAnalysis(marketId)!;
         analysis = cached.analysis;
-        console.log(`   ♻️  Using cached analysis (${Math.round((Date.now() - new Date(cached.lastAnalyzed).getTime()) / (1000 * 60 * 60))}h old)`);
+        logs.push(`   ♻️  Using cached analysis (${Math.round((Date.now() - new Date(cached.lastAnalyzed).getTime()) / (1000 * 60 * 60))}h old)`);
       } else {
-        // Run AI analysis
-        analysis = await aiResearcher.analyzeMarket(screenedMarket);
-        console.log(`   AI: ${analysis.suggestedAction} (${analysis.confidence} confidence)`);
+        // Run AI analysis (pass logs buffer to keep organized)
+        analysis = await aiResearcher.analyzeMarket(screenedMarket, logs);
+        logs.push(`   AI: ${analysis.suggestedAction} (${analysis.confidence} confidence)`);
         
-        // Cache the analysis
-        stateManager.cacheAnalysis(marketId, market.question, price, analysis);
-        
-        // Rate limiting for API calls
-        await sleepImpl.sleep(2000);
+        // Cache the analysis (but NOT if it's a failed analysis)
+        if (!analysis.fullAnalysis.startsWith('Analysis failed:')) {
+          stateManager.cacheAnalysis(marketId, market.question, price, analysis);
+        }
       }
 
       // Calculate rank (lower = better)
       const rank = calculateRank(analysis);
       
-      analyzedMarkets.push({
-        screenedMarket,
-        analysis,
-        rank,
-      });
+      logs.push(''); // Empty line between markets
 
-      console.log('');
-    }
+      for (const log of logs) {
+        console.log(log);
+      }
+
+      // Update progress
+      completed++;
+      const percent = Math.round((completed / total) * 100);
+      const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+      process.stderr.write(`\r⏳ Progress: ${completed}/${total} (${percent}%) - ${elapsed}s elapsed`);
+
+      return {
+        analyzedMarket: {
+          screenedMarket,
+          analysis,
+          rank,
+        },
+        logs,
+      };
+    });
+
+    // Wait for all analyses to complete
+    const results: AnalysisResult[] = await Promise.all(analysisPromises);
+    
+    // Final progress update
+    const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
+    process.stderr.write(`\r✅ Completed ${total} market${total === 1 ? '' : 's'} in ${totalTime}s\n\n`);
+
+    // Extract analyzed markets for further processing
+    const analyzedMarkets: AnalyzedMarket[] = results.map(r => r.analyzedMarket);
 
     // Step 6: Sort by rank and alert top opportunities
     analyzedMarkets.sort((a, b) => a.rank - b.rank);

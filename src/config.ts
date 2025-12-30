@@ -34,6 +34,8 @@ export function loadConfig(): Config {
     cacheMaxAgeDays: parseInt(process.env.ANALYSIS_CACHE_DAYS || '3', 10),
     alertCooldownDays: parseInt(process.env.ALERT_COOLDOWN_DAYS || '7', 10),
     maxAlertsPerRun: parseInt(process.env.MAX_ALERTS_PER_RUN || '5', 10),
+    maxConcurrentAnalyses: Math.max(1, parseInt(process.env.MAX_CONCURRENT_ANALYSES || '10', 10)),
+    verboseLogs: process.env.VERBOSE_LOGS === 'true',
   };
 }
 

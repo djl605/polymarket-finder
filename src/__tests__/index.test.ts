@@ -59,12 +59,15 @@ describe('Bot Orchestration', () => {
     cacheMaxAgeDays: 3,
     alertCooldownDays: 7,
     maxAlertsPerRun: 5,
+    maxConcurrentAnalyses: 10,
+    verboseLogs: false,
   };
 
   const mockMarket: EnrichedMarket = {
     market: {},
     tokenId: 'token1',
     conditionId: 'cond1',
+    slug: 'test-market',
     question: 'Test market?',
     description: 'Test',
     outcomes: ['Yes', 'No'],
@@ -216,7 +219,12 @@ describe('Bot Orchestration', () => {
       // Verify components were instantiated
       expect(MarketFetcher).toHaveBeenCalled();
       expect(MarketScorer).toHaveBeenCalledWith(mockConfig.screening);
-      expect(AIResearcher).toHaveBeenCalledWith(mockConfig.openaiApiKey, mockConfig.exaApiKey);
+      expect(AIResearcher).toHaveBeenCalledWith(
+        mockConfig.openaiApiKey,
+        mockConfig.exaApiKey,
+        mockConfig.maxConcurrentAnalyses,
+        mockConfig.verboseLogs
+      );
       expect(DiscordNotifier).toHaveBeenCalledWith(mockConfig.discordWebhookUrl);
       expect(StateManager).toHaveBeenCalled();
 
@@ -293,7 +301,6 @@ describe('Bot Orchestration', () => {
       
       expect(alertCalls).toBeLessThanOrEqual(mockConfig.maxAlertsPerRun);
       expect(alertCalls).toBe(mockConfig.maxAlertsPerRun); // Should alert exactly max
-      expect(sleepImpl.sleep).toHaveBeenCalled(); // Sleep should have been called for rate limiting
     });
 
     it('should handle errors gracefully', async () => {

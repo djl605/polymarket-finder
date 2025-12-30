@@ -14,6 +14,7 @@ describe('DiscordNotifier', () => {
       market: {},
       tokenId: 'token123',
       conditionId: 'cond123',
+      slug: 'will-it-rain-tomorrow',
       question: 'Will it rain tomorrow?',
       description: 'This market resolves YES if it rains in NYC tomorrow.',
       outcomes: ['Yes', 'No'],
@@ -193,7 +194,7 @@ describe('DiscordNotifier', () => {
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
       const linksField = body.embeds[0].fields.find((f: any) => f.name === '🔗 Links');
       
-      expect(linksField.value).toContain('https://polymarket.com/event/cond123');
+      expect(linksField.value).toContain('https://polymarket.com/event/will-it-rain-tomorrow');
       expect(linksField.value).toContain('https://clob.polymarket.com/book?market=token123');
     });
 

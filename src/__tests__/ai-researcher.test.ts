@@ -14,6 +14,7 @@ describe('AIResearcher', () => {
       market: {},
       tokenId: 'token123',
       conditionId: 'cond123',
+      slug: 'will-it-rain-tomorrow',
       question: 'Will it rain tomorrow?',
       description: 'This market resolves YES if it rains in NYC tomorrow.',
       outcomes: ['Yes', 'No'],
@@ -99,13 +100,20 @@ CONFIDENCE: high`,
       expect(mockFetch).toHaveBeenCalledTimes(3);
     });
 
-    it('should throw error on API failures', async () => {
+    it('should return skip analysis on API failures instead of throwing', async () => {
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
       const market = createMockScreenedMarket();
 
+      // Mock fetch to reject
       mockFetch.mockRejectedValue(new Error('API error'));
 
-      await expect(researcher.analyzeMarket(market)).rejects.toThrow('API error');
+      const result = await researcher.analyzeMarket(market);
+      
+      // Should not throw, instead returns a skip analysis
+      expect(result.suggestedAction).toBe('skip');
+      expect(result.confidence).toBe('low');
+      expect(result.marketId).toBe('cond123');
+      expect(result.summary).toContain('Analysis failed');
     });
   });
 
@@ -318,6 +326,7 @@ CONFIDENCE: low`,
     it('should handle Exa API errors', async () => {
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
       const market = createMockScreenedMarket();
+      const logBuffer: string[] = [];
 
       mockFetch
         .mockResolvedValueOnce({
@@ -346,10 +355,11 @@ CONFIDENCE: medium`,
           }),
         } as any);
 
-      const result = await researcher.analyzeMarket(market);
+      const result = await researcher.analyzeMarket(market, logBuffer);
 
       expect(result).toBeTruthy();
-      expect(console.warn).toHaveBeenCalledWith(expect.stringContaining('Exa API error'));
+      // Error should be in the log buffer, not console.warn
+      expect(logBuffer.some(log => log.includes('Exa API error'))).toBe(true);
     });
   });
 });

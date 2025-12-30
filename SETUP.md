@@ -35,6 +35,16 @@ ALERT_COOLDOWN_DAYS=7                  # Minimum days between re-alerts
 MAX_ALERTS_PER_RUN=5                   # Maximum alerts per scan
 MIN_PROBABILITY=0.20
 MAX_PROBABILITY=0.80
+
+# Performance tuning
+MAX_CONCURRENT_ANALYSES=10             # Number of markets to analyze concurrently (default: 10)
+                                       # Note: Exa has built-in rate limiting (5 QPS)
+                                       # OpenAI Tier 1 (500 RPM): can use 10-20
+                                       # OpenAI Tier 2+ (5000+ RPM): can use 20-30
+                                       # If hitting Exa limits, reduce to 5
+
+# Optional: Enable verbose AI response logging (default: false)
+# VERBOSE_LOGS=true
 ```
 
 Run a test scan:
