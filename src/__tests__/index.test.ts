@@ -2,13 +2,6 @@
  * Tests for the main bot orchestration
  */
 
-// Mock the CLOB client before any imports
-jest.mock('@polymarket/clob-client', () => ({
-  ClobClient: jest.fn().mockImplementation(() => ({
-    getOrderBook: jest.fn(),
-  })),
-}));
-
 // Mock dotenv
 jest.mock('dotenv', () => ({
   config: jest.fn(),
