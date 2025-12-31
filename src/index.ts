@@ -62,11 +62,10 @@ export async function main() {
     // Step 2: Analyze ALL candidates (with caching) - CONCURRENTLY
     console.log(`🤖 Analyzing ${screenedMarkets.length} market${screenedMarkets.length === 1 ? '' : 's'} (up to ${config.maxConcurrentAnalyses} concurrent)...\n`);
 
-    interface AnalyzedMarket {
-      screenedMarket: ScreenedMarket;
-      analysis: AIAnalysis;
-      rank: number; // Lower = better
-    }
+interface AnalyzedMarket {
+  screenedMarket: ScreenedMarket;
+  analysis: AIAnalysis;
+}
 
     interface AnalysisResult {
       analyzedMarket: AnalyzedMarket;
@@ -113,9 +112,6 @@ export async function main() {
         }
       }
 
-      // Calculate rank (lower = better)
-      const rank = calculateRank(analysis);
-      
       logs.push(''); // Empty line between markets
 
       for (const log of logs) {
@@ -132,7 +128,6 @@ export async function main() {
         analyzedMarket: {
           screenedMarket,
           analysis,
-          rank,
         },
         logs,
       };
@@ -148,8 +143,8 @@ export async function main() {
     // Extract analyzed markets for further processing
     const analyzedMarkets: AnalyzedMarket[] = results.map(r => r.analyzedMarket);
 
-    // Step 6: Sort by rank and alert top opportunities
-    analyzedMarkets.sort((a, b) => a.rank - b.rank);
+    // Step 6: Sort by expected value (higher is better) and alert top opportunities
+    analyzedMarkets.sort((a, b) => b.analysis.expectedValue - a.analysis.expectedValue);
 
     let alertCount = 0;
 
@@ -176,7 +171,7 @@ export async function main() {
       const isRealert = stateManager.hasBeenAlerted(marketId);
       
       console.log(`🎯 ${screenedMarket.market.question.substring(0, 80)}...`);
-      console.log(`   ${analysis.suggestedAction} (${analysis.confidence} confidence)${isRealert ? ' [RE-ALERT]' : ''}`);
+      console.log(`   ${analysis.suggestedAction} (${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢)${isRealert ? ' [RE-ALERT]' : ''}`);
 
       await notifier.sendMarketAlert(screenedMarket, analysis, isRealert);
       
@@ -221,28 +216,6 @@ export const sleepImpl = {
   sleep: (ms: number) => sleep(ms)
 };
 
-/**
- * Calculate rank for an analyzed market (lower = better)
- */
-export function calculateRank(analysis: AIAnalysis): number {
-  // Action ranking: strong_signal = 0, research = 10, skip = 1000
-  let actionScore = 1000;
-  if (analysis.suggestedAction === 'strong_signal') {
-    actionScore = 0;
-  } else if (analysis.suggestedAction === 'research') {
-    actionScore = 10;
-  }
-
-  // Confidence ranking: high = 0, medium = 5, low = 10
-  let confidenceScore = 10;
-  if (analysis.confidence === 'high') {
-    confidenceScore = 0;
-  } else if (analysis.confidence === 'medium') {
-    confidenceScore = 5;
-  }
-
-  return actionScore + confidenceScore;
-}
 
 // Run the bot if this file is executed directly (not imported for testing)
 if (require.main === module) {

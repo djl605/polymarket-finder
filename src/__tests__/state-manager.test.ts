@@ -238,6 +238,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'high',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -255,6 +256,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -286,6 +288,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'high',
         suggestedAction: 'strong_signal',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -313,6 +316,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -327,6 +331,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'low',
         suggestedAction: 'skip',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -350,6 +355,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -376,6 +382,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       customStateManager.cacheAnalysis('market2', 'Test', 0.5, analysis);
@@ -434,6 +441,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -539,6 +547,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         suggestedAction: 'research',
+        expectedValue: 5.0,
       };
       
       stateManager.cacheAnalysis('market1', 'Test 1', 0.5, analysis);

@@ -61,6 +61,7 @@ export interface AIAnalysis {
   summary: string;            // Short excerpt for notifications
   confidence: 'low' | 'medium' | 'high';
   suggestedAction: 'skip' | 'research' | 'strong_signal';
+  expectedValue: number;      // Expected value in cents (probability × magnitude)
 }
 
 /**

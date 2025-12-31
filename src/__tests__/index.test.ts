@@ -7,7 +7,7 @@ jest.mock('dotenv', () => ({
   config: jest.fn(),
 }));
 
-import { main, calculateRank, sleep, sleepImpl } from '../index';
+import { main, sleep, sleepImpl } from '../index';
 import { MarketFetcher } from '../market-fetcher';
 import { MarketScorer } from '../market-scorer';
 import { AIResearcher } from '../ai-researcher';
@@ -86,6 +86,7 @@ describe('Bot Orchestration', () => {
     summary: 'Summary text',
     confidence: 'high',
     suggestedAction: 'research',
+    expectedValue: 5.0,
   };
 
   beforeEach(() => {
@@ -121,72 +122,6 @@ describe('Bot Orchestration', () => {
       alerts7Days: 0,
       alerts30Days: 0,
       totalCached: 0,
-    });
-  });
-
-  describe('calculateRank', () => {
-    it('should rank "strong_signal" highest (lowest number)', () => {
-      const analysis: AIAnalysis = {
-        marketId: 'test',
-        question: 'Test?',
-        fullAnalysis: 'Test',
-        summary: 'Test',
-        confidence: 'high',
-        suggestedAction: 'strong_signal',
-      };
-
-      expect(calculateRank(analysis)).toBe(0);
-    });
-
-    it('should rank "research" in the middle', () => {
-      const analysis: AIAnalysis = {
-        marketId: 'test',
-        question: 'Test?',
-        fullAnalysis: 'Test',
-        summary: 'Test',
-        confidence: 'high',
-        suggestedAction: 'research',
-      };
-
-      expect(calculateRank(analysis)).toBe(10); // research=10 + high=0
-    });
-
-    it('should rank "skip" lowest (highest number)', () => {
-      const analysis: AIAnalysis = {
-        marketId: 'test',
-        question: 'Test?',
-        fullAnalysis: 'Test',
-        summary: 'Test',
-        confidence: 'high',
-        suggestedAction: 'skip',
-      };
-
-      expect(calculateRank(analysis)).toBe(1000); // skip=1000 + high=0
-    });
-
-    it('should add confidence score to action score', () => {
-      const lowConfidence: AIAnalysis = {
-        marketId: 'test',
-        question: 'Test?',
-        fullAnalysis: 'Test',
-        summary: 'Test',
-        confidence: 'low',
-        suggestedAction: 'research',
-      };
-
-      const mediumConfidence: AIAnalysis = {
-        ...lowConfidence,
-        confidence: 'medium',
-      };
-
-      const highConfidence: AIAnalysis = {
-        ...lowConfidence,
-        confidence: 'high',
-      };
-
-      expect(calculateRank(lowConfidence)).toBe(20); // 10 + 10
-      expect(calculateRank(mediumConfidence)).toBe(15); // 10 + 5
-      expect(calculateRank(highConfidence)).toBe(10); // 10 + 0
     });
   });
 
