@@ -8,9 +8,17 @@ import { BotState, AlertedMarket, CachedAnalysis, AIAnalysis } from './types';
 export class StateManager {
   private stateFilePath: string;
   private state: BotState;
+  private cacheMinAgeDays: number;
+  private cacheMaxAgeDays: number;
 
-  constructor(stateFilePath: string = 'state.json') {
+  constructor(
+    stateFilePath: string = 'state.json',
+    cacheMinAgeDays: number = 4,
+    cacheMaxAgeDays: number = 10
+  ) {
     this.stateFilePath = path.resolve(stateFilePath);
+    this.cacheMinAgeDays = cacheMinAgeDays;
+    this.cacheMaxAgeDays = cacheMaxAgeDays;
     this.state = this.loadState();
   }
 
@@ -88,17 +96,15 @@ export class StateManager {
   }
 
   /**
-   * Check if cached analysis is still fresh (within N days)
+   * Check if cached analysis is still fresh (before expiry date)
    */
-  isCachedAnalysisFresh(marketId: string, maxAgeDays: number): boolean {
+  isCachedAnalysisFresh(marketId: string): boolean {
     const cached = this.getCachedAnalysis(marketId);
     if (!cached) return false;
 
-    const cachedDate = new Date(cached.lastAnalyzed);
     const now = new Date();
-    const ageInDays = (now.getTime() - cachedDate.getTime()) / (1000 * 60 * 60 * 24);
-
-    return ageInDays < maxAgeDays;
+    const expiryDate = new Date(cached.expiresAt);
+    return now < expiryDate;
   }
 
   /**
@@ -110,12 +116,20 @@ export class StateManager {
     price: number,
     analysis: AIAnalysis
   ): void {
+    const now = new Date();
+    
+    // Generate random expiry between configured min and max days
+    const randomDays = this.cacheMinAgeDays + Math.random() * (this.cacheMaxAgeDays - this.cacheMinAgeDays);
+    
+    const expiresAt = new Date(now.getTime() + randomDays * 24 * 60 * 60 * 1000);
+    
     this.state.cachedAnalyses[marketId] = {
       marketId,
       question,
-      lastAnalyzed: new Date().toISOString(),
+      lastAnalyzed: now.toISOString(),
       lastPrice: price,
       analysis,
+      expiresAt: expiresAt.toISOString(),
     };
   }
 

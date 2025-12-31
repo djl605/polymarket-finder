@@ -72,6 +72,7 @@ export interface CachedAnalysis {
   lastAnalyzed: string;
   lastPrice: number;
   analysis: AIAnalysis;
+  expiresAt: string;
 }
 
 /**
@@ -101,6 +102,7 @@ export interface Config {
   openaiApiKey: string;
   exaApiKey: string;
   screening: ScreeningCriteria;
+  cacheMinAgeDays: number;
   cacheMaxAgeDays: number;
   alertCooldownDays: number;
   maxAlertsPerRun: number;

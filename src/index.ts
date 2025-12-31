@@ -27,7 +27,7 @@ export async function main() {
     console.log(`     - Max spread: ${config.screening.maxSpreadCents}¢`);
     console.log(`     - Probability range: ${(config.screening.minProbability * 100).toFixed(0)}%-${(config.screening.maxProbability * 100).toFixed(0)}%`);
     console.log(`   Behavior:`);
-    console.log(`     - Cache age: ${config.cacheMaxAgeDays} days`);
+    console.log(`     - Cache expiry: ${config.cacheMinAgeDays}-${config.cacheMaxAgeDays} days (random per market)`);
     console.log(`     - Alert cooldown: ${config.alertCooldownDays} days`);
     console.log(`     - Max alerts per run: ${config.maxAlertsPerRun}`);
     console.log(`   AI:`);
@@ -46,7 +46,7 @@ export async function main() {
       config.verboseLogs
     );
     const notifier = new DiscordNotifier(config.discordWebhookUrl);
-    const stateManager = new StateManager();
+    const stateManager = new StateManager('state.json', config.cacheMinAgeDays, config.cacheMaxAgeDays);
 
     // Clean up old alerts
     stateManager.cleanupOldData(30);
@@ -98,7 +98,7 @@ export async function main() {
 
       // Check for cached analysis
       let analysis: AIAnalysis;
-      if (stateManager.isCachedAnalysisFresh(marketId, config.cacheMaxAgeDays)) {
+      if (stateManager.isCachedAnalysisFresh(marketId)) {
         const cached = stateManager.getCachedAnalysis(marketId)!;
         analysis = cached.analysis;
         logs.push(`   ♻️  Using cached analysis (${Math.round((Date.now() - new Date(cached.lastAnalyzed).getTime()) / (1000 * 60 * 60))}h old)`);

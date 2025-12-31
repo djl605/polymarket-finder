@@ -30,7 +30,8 @@ MIN_MARKET_PROBABILITY=0.15            # Minimum probability (15%)
 MAX_MARKET_PROBABILITY=0.85            # Maximum probability (85%)
 
 # Bot behavior
-ANALYSIS_CACHE_DAYS=3                  # How long to cache AI analyses (days)
+CACHE_MIN_AGE_DAYS=4                   # Minimum days before cache expires
+CACHE_MAX_AGE_DAYS=10                  # Maximum days before cache expires (random per market)
 ALERT_COOLDOWN_DAYS=7                  # Minimum days between re-alerts
 MAX_ALERTS_PER_RUN=5                   # Maximum alerts per scan
 MIN_PROBABILITY=0.20

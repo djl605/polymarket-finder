@@ -71,7 +71,8 @@ Customize screening by adding GitHub Variables (Settings → Secrets and variabl
 - `MAX_MARKET_PROBABILITY` (default: 0.85) - maximum probability (85%)
 
 **Bot Behavior:**
-- `ANALYSIS_CACHE_DAYS` (default: 3) - how long to cache AI analyses
+- `CACHE_MIN_AGE_DAYS` (default: 4) - minimum days before cache expires
+- `CACHE_MAX_AGE_DAYS` (default: 10) - maximum days before cache expires (random per market)
 - `ALERT_COOLDOWN_DAYS` (default: 7) - minimum days between re-alerts
 - `MAX_ALERTS_PER_RUN` (default: 5) - maximum alerts per scan
 

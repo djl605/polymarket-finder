@@ -247,7 +247,7 @@ describe('StateManager', () => {
       expect(cached?.analysis.confidence).toBe('high');
     });
 
-    it('should include timestamp in cached analysis', () => {
+    it('should include timestamp and expiry in cached analysis', () => {
       const analysis: AIAnalysis = {
         marketId: 'market1',
         question: 'Test',
@@ -262,6 +262,10 @@ describe('StateManager', () => {
       const cached = stateManager.getCachedAnalysis('market1');
       expect(cached?.lastAnalyzed).toBeDefined();
       expect(new Date(cached!.lastAnalyzed).getTime()).toBeLessThanOrEqual(Date.now());
+      
+      // Verify expiresAt is set and is in the future
+      expect(cached?.expiresAt).toBeDefined();
+      expect(new Date(cached!.expiresAt).getTime()).toBeGreaterThan(Date.now());
     });
   });
 
@@ -298,7 +302,7 @@ describe('StateManager', () => {
     });
 
     it('should return false for non-existent cache', () => {
-      expect(stateManager.isCachedAnalysisFresh('nonexistent', 3)).toBe(false);
+      expect(stateManager.isCachedAnalysisFresh('nonexistent')).toBe(false);
     });
 
     it('should return true for fresh cache', () => {
@@ -312,7 +316,7 @@ describe('StateManager', () => {
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
-      expect(stateManager.isCachedAnalysisFresh('market1', 3)).toBe(true);
+      expect(stateManager.isCachedAnalysisFresh('market1')).toBe(true);
     });
 
     it('should return false for stale cache', () => {
@@ -327,16 +331,67 @@ describe('StateManager', () => {
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
       
-      // Manually set old date
+      // Manually set expiry date to the past
       const cached = stateManager.getCachedAnalysis('market1');
       if (cached) {
-        const oldDate = new Date();
-        oldDate.setDate(oldDate.getDate() - 5);
-        cached.lastAnalyzed = oldDate.toISOString();
+        const pastDate = new Date();
+        pastDate.setDate(pastDate.getDate() - 1); // Expired yesterday
+        cached.expiresAt = pastDate.toISOString();
       }
       
-      expect(stateManager.isCachedAnalysisFresh('market1', 3)).toBe(false);
+      expect(stateManager.isCachedAnalysisFresh('market1')).toBe(false);
     });
+
+    it('should generate expiry between 4 and 10 days (default)', () => {
+      const analysis: AIAnalysis = {
+        marketId: 'market1',
+        question: 'Test',
+        fullAnalysis: 'Full analysis',
+        summary: 'Summary',
+        confidence: 'medium',
+        suggestedAction: 'research',
+      };
+      
+      stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
+      
+      const cached = stateManager.getCachedAnalysis('market1');
+      expect(cached?.expiresAt).toBeDefined();
+      
+      const now = new Date();
+      const expiryDate = new Date(cached!.expiresAt);
+      const daysUntilExpiry = (expiryDate.getTime() - now.getTime()) / (1000 * 60 * 60 * 24);
+      
+      // Should be between 4 and 10 days
+      expect(daysUntilExpiry).toBeGreaterThanOrEqual(4);
+      expect(daysUntilExpiry).toBeLessThanOrEqual(10);
+    });
+
+    it('should respect custom cache expiry range', () => {
+      const customStateManager = new StateManager(testStateFile, 2, 5);
+      
+      const analysis: AIAnalysis = {
+        marketId: 'market2',
+        question: 'Test',
+        fullAnalysis: 'Full analysis',
+        summary: 'Summary',
+        confidence: 'medium',
+        suggestedAction: 'research',
+      };
+      
+      customStateManager.cacheAnalysis('market2', 'Test', 0.5, analysis);
+      
+      const cached = customStateManager.getCachedAnalysis('market2');
+      expect(cached?.expiresAt).toBeDefined();
+      
+      const now = new Date();
+      const expiryDate = new Date(cached!.expiresAt);
+      const daysUntilExpiry = (expiryDate.getTime() - now.getTime()) / (1000 * 60 * 60 * 24);
+      
+      // Should be between 2 and 5 days (custom values)
+      expect(daysUntilExpiry).toBeGreaterThanOrEqual(2);
+      expect(daysUntilExpiry).toBeLessThanOrEqual(5);
+    });
+
   });
 
   describe('cleanupOldData', () => {

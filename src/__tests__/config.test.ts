@@ -49,7 +49,8 @@ describe('Config', () => {
       expect(config.screening.maxSpreadCents).toBe(6);
       expect(config.screening.minProbability).toBe(0.15);
       expect(config.screening.maxProbability).toBe(0.85);
-      expect(config.cacheMaxAgeDays).toBe(3);
+      expect(config.cacheMinAgeDays).toBe(4);
+      expect(config.cacheMaxAgeDays).toBe(10);
       expect(config.alertCooldownDays).toBe(7);
       expect(config.maxAlertsPerRun).toBe(5);
       expect(config.maxConcurrentAnalyses).toBe(10);
@@ -65,7 +66,8 @@ describe('Config', () => {
       process.env.MAX_SPREAD_CENTS = '10';
       process.env.MIN_MARKET_PROBABILITY = '0.2';
       process.env.MAX_MARKET_PROBABILITY = '0.8';
-      process.env.ANALYSIS_CACHE_DAYS = '7';
+      process.env.CACHE_MIN_AGE_DAYS = '2';
+      process.env.CACHE_MAX_AGE_DAYS = '14';
       process.env.ALERT_COOLDOWN_DAYS = '14';
       process.env.MAX_ALERTS_PER_RUN = '10';
       process.env.MAX_CONCURRENT_ANALYSES = '20';
@@ -81,7 +83,8 @@ describe('Config', () => {
       expect(config.screening.maxSpreadCents).toBe(10);
       expect(config.screening.minProbability).toBe(0.2);
       expect(config.screening.maxProbability).toBe(0.8);
-      expect(config.cacheMaxAgeDays).toBe(7);
+      expect(config.cacheMinAgeDays).toBe(2);
+      expect(config.cacheMaxAgeDays).toBe(14);
       expect(config.alertCooldownDays).toBe(14);
       expect(config.maxAlertsPerRun).toBe(10);
       expect(config.maxConcurrentAnalyses).toBe(20);
