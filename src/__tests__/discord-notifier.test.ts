@@ -42,6 +42,7 @@ describe('DiscordNotifier', () => {
     summary: 'Market appears fairly priced.',
     confidence: 'medium',
     suggestedAction: 'research',
+    expectedValue: 5.0,
     ...overrides,
   });
 

@@ -225,6 +225,194 @@ CONFIDENCE: low`,
       expect(result.suggestedAction).toBe('research');
       expect(result.confidence).toBe('medium');
     });
+
+    it('should parse expected value from response', async () => {
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
+      mockFetch
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [{ message: { content: 'test query' } }],
+          }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({ results: [] }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [
+              {
+                message: {
+                  content: `Analysis...
+EXPECTED_VALUE: 12.5
+SUMMARY: Strong evidence of mispricing.
+RECOMMENDATION: strong_signal
+CONFIDENCE: high`,
+                },
+              },
+            ],
+          }),
+        } as any);
+
+      const result = await researcher.analyzeMarket(market);
+
+      expect(result.expectedValue).toBe(12.5);
+      expect(result.suggestedAction).toBe('strong_signal');
+    });
+
+    it('should fallback to 10 for strong_signal when EV missing', async () => {
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
+      mockFetch
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [{ message: { content: 'test query' } }],
+          }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({ results: [] }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [
+              {
+                message: {
+                  content: `Analysis...
+SUMMARY: Strong evidence.
+RECOMMENDATION: strong_signal
+CONFIDENCE: high`,
+                },
+              },
+            ],
+          }),
+        } as any);
+
+      const result = await researcher.analyzeMarket(market);
+
+      expect(result.expectedValue).toBe(10);
+      expect(result.suggestedAction).toBe('strong_signal');
+    });
+
+    it('should fallback to 5 for research when EV missing', async () => {
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
+      mockFetch
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [{ message: { content: 'test query' } }],
+          }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({ results: [] }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [
+              {
+                message: {
+                  content: `Analysis...
+SUMMARY: Worth investigating.
+RECOMMENDATION: research
+CONFIDENCE: medium`,
+                },
+              },
+            ],
+          }),
+        } as any);
+
+      const result = await researcher.analyzeMarket(market);
+
+      expect(result.expectedValue).toBe(5);
+      expect(result.suggestedAction).toBe('research');
+    });
+
+    it('should fallback to 0 for skip when EV missing', async () => {
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
+      mockFetch
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [{ message: { content: 'test query' } }],
+          }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({ results: [] }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [
+              {
+                message: {
+                  content: `Analysis...
+SUMMARY: Market efficient.
+RECOMMENDATION: skip
+CONFIDENCE: low`,
+                },
+              },
+            ],
+          }),
+        } as any);
+
+      const result = await researcher.analyzeMarket(market);
+
+      expect(result.expectedValue).toBe(0);
+      expect(result.suggestedAction).toBe('skip');
+    });
+
+    it('should fallback when expected value format is invalid', async () => {
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
+      mockFetch
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [{ message: { content: 'test query' } }],
+          }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({ results: [] }),
+        } as any)
+        .mockResolvedValueOnce({
+          ok: true,
+          json: async () => ({
+            choices: [
+              {
+                message: {
+                  content: `Analysis...
+EXPECTED_VALUE: invalid_text
+SUMMARY: Strong signal.
+RECOMMENDATION: strong_signal
+CONFIDENCE: high`,
+                },
+              },
+            ],
+          }),
+        } as any);
+
+      const result = await researcher.analyzeMarket(market);
+
+      // Should fallback to 10 for strong_signal since parseFloat('invalid_text') = NaN
+      expect(result.expectedValue).toBe(10);
+      expect(result.suggestedAction).toBe('strong_signal');
+    });
   });
 
   describe('Exa integration', () => {
