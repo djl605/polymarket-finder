@@ -41,7 +41,6 @@ describe('DiscordNotifier', () => {
     fullAnalysis: 'Detailed analysis...',
     summary: 'Market appears fairly priced.',
     confidence: 'medium',
-    suggestedAction: 'research',
     expectedValue: 5.0,
     ...overrides,
   });
@@ -118,23 +117,23 @@ describe('DiscordNotifier', () => {
       expect(analysisField.value).toBe('Strong evidence of mispricing detected.');
     });
 
-    it('should use correct color for high confidence', async () => {
+    it('should use green color for high EV (>15)', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
       const market = createMockScreenedMarket();
-      const analysis = createMockAnalysis({ confidence: 'high' });
+      const analysis = createMockAnalysis({ expectedValue: 18.0 });
 
       await notifier.sendMarketAlert(market, analysis, false);
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
-      expect(body.embeds[0].color).toBe(0x00FF00); // Green
+      expect(body.embeds[0].color).toBe(0x00FF00); // Bright Green
     });
 
-    it('should use correct color for medium confidence', async () => {
+    it('should use orange color for medium EV (10-15)', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
       const market = createMockScreenedMarket();
-      const analysis = createMockAnalysis({ confidence: 'medium' });
+      const analysis = createMockAnalysis({ expectedValue: 12.5 });
 
       await notifier.sendMarketAlert(market, analysis, false);
 
@@ -142,11 +141,11 @@ describe('DiscordNotifier', () => {
       expect(body.embeds[0].color).toBe(0xFFA500); // Orange
     });
 
-    it('should use correct color for low confidence', async () => {
+    it('should use gray color for low EV (<10)', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
       const market = createMockScreenedMarket();
-      const analysis = createMockAnalysis({ confidence: 'low' });
+      const analysis = createMockAnalysis({ expectedValue: 5.0 });
 
       await notifier.sendMarketAlert(market, analysis, false);
 
@@ -154,34 +153,32 @@ describe('DiscordNotifier', () => {
       expect(body.embeds[0].color).toBe(0x808080); // Gray
     });
 
-    it('should format strong_signal action correctly', async () => {
+    it('should format high EV correctly', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
       const market = createMockScreenedMarket();
-      const analysis = createMockAnalysis({ suggestedAction: 'strong_signal' });
+      const analysis = createMockAnalysis({ expectedValue: 15.5 });
 
       await notifier.sendMarketAlert(market, analysis, false);
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
-      const recommendationField = body.embeds[0].fields.find((f: any) => f.name === '📈 Recommendation');
+      const evField = body.embeds[0].fields.find((f: any) => f.name === '💰 Expected Value');
       
-      expect(recommendationField.value).toContain('🚨');
-      expect(recommendationField.value).toContain('STRONG SIGNAL');
+      expect(evField.value).toContain('15.5¢');
     });
 
-    it('should format research action correctly', async () => {
+    it('should format low EV correctly', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
       const market = createMockScreenedMarket();
-      const analysis = createMockAnalysis({ suggestedAction: 'research' });
+      const analysis = createMockAnalysis({ expectedValue: 3.2 });
 
       await notifier.sendMarketAlert(market, analysis, false);
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
-      const recommendationField = body.embeds[0].fields.find((f: any) => f.name === '📈 Recommendation');
+      const evField = body.embeds[0].fields.find((f: any) => f.name === '💰 Expected Value');
       
-      expect(recommendationField.value).toContain('🔍');
-      expect(recommendationField.value).toContain('Worth researching');
+      expect(evField.value).toContain('3.2¢');
     });
 
     it('should include Polymarket links', async () => {

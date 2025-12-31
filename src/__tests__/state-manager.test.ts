@@ -237,7 +237,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis text',
         summary: 'Summary',
         confidence: 'high',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       
@@ -255,7 +254,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis',
         summary: 'Summary',
         confidence: 'medium',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       
@@ -287,7 +285,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis',
         summary: 'Summary',
         confidence: 'high',
-        suggestedAction: 'strong_signal',
         expectedValue: 5.0,
       };
       
@@ -295,7 +292,7 @@ describe('StateManager', () => {
       
       const cached = stateManager.getCachedAnalysis('market1');
       expect(cached?.marketId).toBe('market1');
-      expect(cached?.analysis.suggestedAction).toBe('strong_signal');
+      expect(cached?.analysis.expectedValue).toBe(5.0);
     });
   });
 
@@ -315,7 +312,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis',
         summary: 'Summary',
         confidence: 'medium',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       
@@ -330,7 +326,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis',
         summary: 'Summary',
         confidence: 'low',
-        suggestedAction: 'skip',
         expectedValue: 5.0,
       };
       
@@ -354,7 +349,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis',
         summary: 'Summary',
         confidence: 'medium',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       
@@ -381,7 +375,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full analysis',
         summary: 'Summary',
         confidence: 'medium',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       
@@ -440,7 +433,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full',
         summary: 'Summary',
         confidence: 'medium',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       
@@ -546,7 +538,6 @@ describe('StateManager', () => {
         fullAnalysis: 'Full',
         summary: 'Summary',
         confidence: 'medium',
-        suggestedAction: 'research',
         expectedValue: 5.0,
       };
       

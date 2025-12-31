@@ -21,7 +21,7 @@ export class DiscordNotifier {
     const embed = {
       title: `${titlePrefix}: ${market.question}`,
       description: market.description.substring(0, 500) || 'No description available',
-      color: this.getColorForConfidence(analysis.confidence),
+      color: this.getColorForEV(analysis.expectedValue),
       fields: [
         {
           name: '📊 Market Metrics',
@@ -37,12 +37,6 @@ export class DiscordNotifier {
           name: '🤖 AI Analysis',
           value: analysis.summary,
           inline: false,
-        },
-        {
-          name: '📈 Recommendation',
-          value: this.getActionEmoji(analysis.suggestedAction) + ' ' + 
-                 this.formatAction(analysis.suggestedAction),
-          inline: true,
         },
         {
           name: '🎲 Confidence',
@@ -138,39 +132,13 @@ export class DiscordNotifier {
     }
   }
 
-  private getColorForConfidence(confidence: string): number {
-    switch (confidence) {
-      case 'high':
-        return 0x00FF00; // Green
-      case 'medium':
-        return 0xFFA500; // Orange
-      case 'low':
-      default:
-        return 0x808080; // Gray
-    }
-  }
-
-  private getActionEmoji(action: string): string {
-    switch (action) {
-      case 'strong_signal':
-        return '🚨';
-      case 'research':
-        return '🔍';
-      case 'skip':
-      default:
-        return '⏭️';
-    }
-  }
-
-  private formatAction(action: string): string {
-    switch (action) {
-      case 'strong_signal':
-        return '**STRONG SIGNAL** - High priority research';
-      case 'research':
-        return 'Worth researching';
-      case 'skip':
-      default:
-        return 'Low priority';
+  private getColorForEV(expectedValue: number): number {
+    if (expectedValue > 15) {
+      return 0x00FF00; // Bright Green - High EV
+    } else if (expectedValue > 10) {
+      return 0xFFA500; // Orange - Medium EV
+    } else {
+      return 0x808080; // Gray - Low EV (shouldn't see in alerts, but for cached data)
     }
   }
 

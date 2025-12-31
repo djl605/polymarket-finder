@@ -105,7 +105,6 @@ export class AIResearcher {
         fullAnalysis: `Analysis failed: ${error instanceof Error ? error.message : 'Unknown error'}`,
         summary: 'Analysis failed due to API error',
         confidence: 'low',
-        suggestedAction: 'skip',
         expectedValue: 0,
       };
     } finally {
@@ -416,24 +415,17 @@ Use chain-of-thought reasoning to analyze whether this market is likely misprice
    - Expected value = (Probability of mispricing) × (Magnitude of mispricing)
    
    Examples:
-   - 80% chance of 15 cents mispricing = 12 cents expected value → strong_signal
-   - 40% chance of 20 cents mispricing = 8 cents expected value → research
-   - 90% chance of 3 cents mispricing = 2.7 cents expected value → research or skip
-   - 20% chance of 10 cents mispricing = 2 cents expected value → skip
+   - 80% chance of 15 cents mispricing = 12 cents expected value
+   - 40% chance of 20 cents mispricing = 8 cents expected value
+   - 90% chance of 3 cents mispricing = 2.7 cents expected value
+   - 20% chance of 10 cents mispricing = 2 cents expected value
 
-7. RECOMMENDATION: Should this be flagged for human research?
-   - Use EXACTLY one of: skip, research, strong_signal
-   - "skip" if expected value < 3 cents (low probability or small magnitude)
-   - "research" if expected value 3-8 cents (moderate opportunity worth investigating)
-   - "strong_signal" if expected value > 8 cents (high probability AND/OR large magnitude)
-
-8. CONFIDENCE: Rate your confidence in this assessment.
+7. CONFIDENCE: Rate your confidence in this assessment.
    - Use EXACTLY one of: low, medium, high (no other values or combinations)
 
-IMPORTANT: You must end your response with these four lines using ONLY the exact values specified:
+IMPORTANT: You must end your response with these three lines using ONLY the exact values specified:
 EXPECTED_VALUE: [numeric value in cents, e.g., 12.5]
 SUMMARY: [2-3 sentence summary of key findings for a notification]
-RECOMMENDATION: [EXACTLY one of: skip, research, strong_signal]
 CONFIDENCE: [EXACTLY one of: low, medium, high]`;
   }
 
@@ -517,34 +509,20 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
     const lowerResponse = response.toLowerCase();
 
     // Extract summary
-    const summaryMatch = response.match(/SUMMARY:\s*(.+?)(?=\nRECOMMENDATION:|$)/is);
+    const summaryMatch = response.match(/SUMMARY:\s*(.+?)(?=\nCONFIDENCE:|$)/is);
     const summary = summaryMatch 
       ? summaryMatch[1].trim().substring(0, 500)
       : this.extractKeySummary(response); // Fallback
-
-    // Extract recommendation
-    let suggestedAction: 'skip' | 'research' | 'strong_signal' = 'research';
-    if (lowerResponse.includes('recommendation: strong_signal') || 
-        lowerResponse.includes('recommendation: strong signal')) {
-      suggestedAction = 'strong_signal';
-    } else if (lowerResponse.includes('recommendation: skip')) {
-      suggestedAction = 'skip';
-    } else if (lowerResponse.includes('recommendation: research')) {
-      suggestedAction = 'research';
-    }
 
     // Extract expected value
     const evMatch = response.match(/EXPECTED_VALUE:\s*([\d.]+)/i);
     let expectedValue = 0;
     if (evMatch) {
         expectedValue = parseFloat(evMatch[1]);
-    } else {
-      // Fallback: try to infer from recommendation if EV not found
-      if (suggestedAction === 'strong_signal') {
-        expectedValue = 10; // Assume high EV for strong signals
-      } else if (suggestedAction === 'research') {
-        expectedValue = 5; // Assume moderate EV for research
-      }
+        // Handle NaN from invalid parse
+        if (isNaN(expectedValue)) {
+          expectedValue = 0;
+        }
     }
 
     // Extract confidence
@@ -561,7 +539,6 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
       fullAnalysis: response, // Keep the complete analysis
       summary,
       confidence,
-      suggestedAction,
       expectedValue,
     };
   }

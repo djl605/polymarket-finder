@@ -104,7 +104,7 @@ interface AnalyzedMarket {
       } else {
         // Run AI analysis (pass logs buffer to keep organized)
         analysis = await aiResearcher.analyzeMarket(screenedMarket, logs);
-        logs.push(`   AI: ${analysis.suggestedAction} (${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢)`);
+        logs.push(`   AI: ${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢`);
         
         // Cache the analysis (but NOT if it's a failed analysis)
         if (!analysis.fullAnalysis.startsWith('Analysis failed:')) {
@@ -153,8 +153,8 @@ interface AnalyzedMarket {
     for (const { screenedMarket, analysis } of analyzedMarkets) {
       const marketId = screenedMarket.market.conditionId;
 
-      // Skip if AI said skip
-      if (analysis.suggestedAction === 'skip') {
+      // Skip if expected value is not high enough (threshold: 10 cents)
+      if (analysis.expectedValue <= 10) {
         continue;
       }
 
@@ -171,7 +171,7 @@ interface AnalyzedMarket {
       const isRealert = stateManager.hasBeenAlerted(marketId);
       
       console.log(`🎯 ${screenedMarket.market.question.substring(0, 80)}...`);
-      console.log(`   ${analysis.suggestedAction} (${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢)${isRealert ? ' [RE-ALERT]' : ''}`);
+      console.log(`   ${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢${isRealert ? ' [RE-ALERT]' : ''}`);
 
       await notifier.sendMarketAlert(screenedMarket, analysis, isRealert);
       

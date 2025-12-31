@@ -85,8 +85,7 @@ describe('Bot Orchestration', () => {
     fullAnalysis: 'Full analysis text',
     summary: 'Summary text',
     confidence: 'high',
-    suggestedAction: 'research',
-    expectedValue: 5.0,
+    expectedValue: 15.0, // High EV to trigger alert
   };
 
   beforeEach(() => {
@@ -242,19 +241,34 @@ describe('Bot Orchestration', () => {
       await expect(main()).rejects.toThrow('process.exit called with 1');
     });
 
-    it('should skip markets with "skip" action', async () => {
-      const skipAnalysis: AIAnalysis = {
+    it('should skip markets with EV <= 10', async () => {
+      const lowEVAnalysis: AIAnalysis = {
         ...mockAnalysis,
-        suggestedAction: 'skip',
+        expectedValue: 8.0, // Below threshold
       };
 
       const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
-      mockResearcher.prototype.analyzeMarket = jest.fn().mockResolvedValue(skipAnalysis);
+      mockResearcher.prototype.analyzeMarket = jest.fn().mockResolvedValue(lowEVAnalysis);
 
       await main();
 
       const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
       expect(mockNotifier.prototype.sendMarketAlert).not.toHaveBeenCalled();
+    });
+
+    it('should alert markets with EV > 10', async () => {
+      const highEVAnalysis: AIAnalysis = {
+        ...mockAnalysis,
+        expectedValue: 12.5, // Above threshold
+      };
+
+      const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
+      mockResearcher.prototype.analyzeMarket = jest.fn().mockResolvedValue(highEVAnalysis);
+
+      await main();
+
+      const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
+      expect(mockNotifier.prototype.sendMarketAlert).toHaveBeenCalled();
     });
   });
 });
