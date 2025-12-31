@@ -104,7 +104,7 @@ interface AnalyzedMarket {
       } else {
         // Run AI analysis (pass logs buffer to keep organized)
         analysis = await aiResearcher.analyzeMarket(screenedMarket, logs);
-        logs.push(`   AI: ${analysis.suggestedAction} (${analysis.confidence} confidence)`);
+        logs.push(`   AI: ${analysis.suggestedAction} (${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢)`);
         
         // Cache the analysis (but NOT if it's a failed analysis)
         if (!analysis.fullAnalysis.startsWith('Analysis failed:')) {
