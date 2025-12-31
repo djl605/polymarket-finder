@@ -80,7 +80,7 @@ export class AIResearcher {
         researchContext
       );
       
-      const response = await this.callOpenAIO1Mini(prompt);
+      const response = await this.callReasoningModel(prompt);
       
       // Log the full response for debugging (only if verbose logging is enabled)
       if (this.verboseLogs) {
@@ -359,13 +359,32 @@ Use chain-of-thought reasoning to analyze whether this market is likely misprice
 
 5. MISPRICING ASSESSMENT: Given the current probability of ${(probability * 100).toFixed(1)}%, is there evidence of mispricing? If so, in which direction and by approximately how much?
 
-6. RECOMMENDATION: Should this be flagged for human research?
-   - Use EXACTLY one of: skip, research, strong_signal
-   - "skip" if the market appears efficiently priced or lacks actionable information
-   - "research" if there are moderate signs of mispricing worth investigating
-   - "strong_signal" if there is strong evidence of significant mispricing
+   ⚠️ CRITICAL CHECK: If you believe there is a LARGE mispricing (>15 cents), especially if you think something is highly likely or guaranteed but the market doesn't price it that way, STOP and re-verify:
+   - Do you truly understand the EXACT resolution criteria?
+   - Are there any edge cases, technicalities, or specific conditions in the market description that you might have missed?
+   - Could there be a valid reason the market prices this differently than you expect?
+   - Re-read the market question and description carefully before proceeding.
+   
+   Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions.
 
-7. CONFIDENCE: Rate your confidence in this assessment.
+6. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market by considering BOTH:
+   - PROBABILITY of mispricing: How likely is it that the market is actually mispriced? (0-100%)
+   - MAGNITUDE of mispricing: If mispriced, how large is the error? (cents)
+   - Expected value = (Probability of mispricing) × (Magnitude of mispricing)
+   
+   Examples:
+   - 80% chance of 15 point mispricing = 12 point expected value → strong_signal
+   - 40% chance of 20 point mispricing = 8 point expected value → research
+   - 90% chance of 3 point mispricing = 2.7 point expected value → research or skip
+   - 20% chance of 10 point mispricing = 2 point expected value → skip
+
+7. RECOMMENDATION: Should this be flagged for human research?
+   - Use EXACTLY one of: skip, research, strong_signal
+   - "skip" if expected value < 3 points (low probability or small magnitude)
+   - "research" if expected value 3-8 points (moderate opportunity worth investigating)
+   - "strong_signal" if expected value > 8 points (high probability AND/OR large magnitude)
+
+8. CONFIDENCE: Rate your confidence in this assessment.
    - Use EXACTLY one of: low, medium, high (no other values or combinations)
 
 IMPORTANT: You must end your response with these three lines using ONLY the exact values specified:
@@ -378,7 +397,7 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
    * Call OpenAI o4-mini for reasoning
    * Throws descriptive errors for upstream handling
    */
-  private async callOpenAIO1Mini(prompt: string): Promise<string> {
+  private async callReasoningModel(prompt: string): Promise<string> {
     try {
       const response = await fetch('https://api.openai.com/v1/chat/completions', {
         method: 'POST',
@@ -394,7 +413,7 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
               content: prompt,
             },
           ],
-          // o4 models don't support temperature, max_tokens, or system messages
+          // Reasoning models don't support temperature, max_tokens, or system messages
           // They use their own reasoning approach
         }),
       });
@@ -420,7 +439,7 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
         } else if (response.status === 403) {
           throw new Error('OpenAI forbidden (403) - Check API key permissions');
         } else if (response.status === 404) {
-          throw new Error('OpenAI model not found (404) - o4-mini may not be available for your account');
+          throw new Error('OpenAI model not found (404) - Model may not be available for your account');
         } else if (response.status === 500 || response.status === 502 || response.status === 503) {
           throw new Error(`OpenAI server error (${response.status}) - Service temporarily unavailable`);
         } else {

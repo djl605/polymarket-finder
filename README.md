@@ -104,26 +104,11 @@ npm run test:watch       # Watch mode
 3. **Research** - For each candidate:
    - GPT-4o-mini generates optimal search query
    - Exa AI searches recent discussions/news
-   - OpenAI o4-mini analyzes findings for mispricing
-4. **Alert** - Sends Discord notifications with analysis
+   - OpenAI o4-mini analyzes expected value (probability × magnitude of mispricing)
+4. **Alert** - Sends Discord notifications for opportunities worth investigating
 5. **Track** - Saves state to prevent duplicate alerts
 
 State is stored in a separate `bot-state` branch. Old data (>30 days) is auto-cleaned.
-
-## Cost Estimate
-
-Per market analyzed: ~$0.14
-- GPT-4o-mini (query): ~$0.001
-- Exa AI (search): ~$0.10
-- OpenAI o4-mini (reasoning): ~$0.04
-
-Daily: 5 markets × 8 runs = ~$5.60
-Monthly: ~$170
-
-To reduce costs:
-- Lower `MAX_ALERTS_PER_RUN`
-- Reduce scan frequency in `.github/workflows/scan.yml`
-- Increase screening thresholds to find fewer candidates
 
 ## Project Structure
 

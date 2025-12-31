@@ -74,7 +74,7 @@ describe('AIResearcher', () => {
         }),
       } as any);
 
-      // Mock o4-mini reasoning
+      // Mock AI reasoning
       mockFetch.mockResolvedValueOnce({
         ok: true,
         json: async () => ({
@@ -277,7 +277,7 @@ CONFIDENCE: medium`,
       const result = await researcher.analyzeMarket(market);
 
       expect(result.fullAnalysis).toBeTruthy();
-      // Verify that o4-mini was called with formatted Exa results
+      // Verify that reasoning model was called with formatted Exa results
       const o4MiniCall = mockFetch.mock.calls[2];
       const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('Article 1');
