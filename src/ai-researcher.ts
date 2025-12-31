@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import fetch, { Response } from 'node-fetch';
 import { AIAnalysis, EnrichedMarket, ScreenedMarket } from './types';
 
 interface ExaResult {
@@ -126,6 +126,47 @@ export class AIResearcher {
   }
 
   /**
+   * Extract rate limit information from OpenAI response headers
+   */
+  private extractRateLimitInfo(response: Response): string {
+    const limitRequests = response.headers.get('x-ratelimit-limit-requests');
+    const remainingRequests = response.headers.get('x-ratelimit-remaining-requests');
+    const limitTokens = response.headers.get('x-ratelimit-limit-tokens');
+    const remainingTokens = response.headers.get('x-ratelimit-remaining-tokens');
+    const resetRequests = response.headers.get('x-ratelimit-reset-requests');
+    const resetTokens = response.headers.get('x-ratelimit-reset-tokens');
+
+    const parts: string[] = [];
+
+    if (limitRequests && remainingRequests) {
+      parts.push(`Requests: ${remainingRequests}/${limitRequests}`);
+    }
+
+    if (limitTokens && remainingTokens) {
+      parts.push(`Tokens: ${remainingTokens}/${limitTokens}`);
+    }
+
+    // Format reset time if available
+    if (resetRequests) {
+      const resetDate = new Date(resetRequests);
+      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
+      if (secondsUntilReset > 0) {
+        parts.push(`Requests reset in: ${secondsUntilReset}s`);
+      }
+    }
+
+    if (resetTokens) {
+      const resetDate = new Date(resetTokens);
+      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
+      if (secondsUntilReset > 0) {
+        parts.push(`Tokens reset in: ${secondsUntilReset}s`);
+      }
+    }
+
+    return parts.length > 0 ? ` [${parts.join(', ')}]` : '';
+  }
+
+  /**
    * Generate an optimal search query using GPT-4o-mini
    */
   private async generateSearchQuery(question: string, description: string, metrics: string, logBuffer?: string[]): Promise<string> {
@@ -192,7 +233,8 @@ Provide ONLY the search query, nothing else.`;
 
         // Log different error types with helpful context
         if (response.status === 429) {
-          log(`   ⚠️  OpenAI rate limit hit for search query generation (429)`);
+          const rateLimitInfo = this.extractRateLimitInfo(response);
+          log(`   ⚠️  OpenAI rate limit hit for search query generation${rateLimitInfo}`);
           log(`   Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your OpenAI tier`);
         } else if (response.status === 401) {
           log(`   ❌ OpenAI authentication failed (401) - check your OPENAI_API_KEY`);
@@ -433,7 +475,8 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
 
         // Create descriptive error messages based on status code
         if (response.status === 429) {
-          throw new Error(`OpenAI rate limit exceeded (429). Consider reducing MAX_CONCURRENT_ANALYSES.`);
+          const rateLimitInfo = this.extractRateLimitInfo(response);
+          throw new Error(`OpenAI rate limit exceeded${rateLimitInfo}. Consider reducing MAX_CONCURRENT_ANALYSES.`);
         } else if (response.status === 401) {
           throw new Error('OpenAI authentication failed (401) - Check your OPENAI_API_KEY');
         } else if (response.status === 400) {
