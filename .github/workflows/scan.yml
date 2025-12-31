@@ -65,19 +65,25 @@ jobs:
           git config user.name "polymarket-bot[bot]"
           git config user.email "polymarket-bot[bot]@users.noreply.github.com"
           
+          # Save state.json to temp location before switching branches
+          if [ -f state.json ]; then
+            cp state.json /tmp/state.json
+          else
+            echo "No state.json file to commit"
+            exit 0
+          fi
+          
           # Create or checkout bot-state branch
           git fetch origin bot-state:bot-state 2>/dev/null || git checkout --orphan bot-state
           git checkout bot-state 2>/dev/null || git checkout --orphan bot-state
           
-          # Remove all files except state.json
+          # Remove all files from bot-state branch
           git rm -rf . 2>/dev/null || true
-          git checkout main -- state.json 2>/dev/null || true
           
-          # If state.json exists, commit it
-          if [ -f state.json ]; then
-            git add state.json
-            git diff --quiet && git diff --staged --quiet || git commit -m "Update market state - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
-            git push origin bot-state
-          else
-            echo "No state.json file to commit"
-          fi
+          # Restore state.json from temp location
+          cp /tmp/state.json state.json
+          
+          # Commit the state file
+          git add state.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update market state - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git push origin bot-state
