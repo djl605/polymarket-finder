@@ -50,6 +50,11 @@ export class DiscordNotifier {
           inline: true,
         },
         {
+          name: '💰 Expected Value',
+          value: `**${analysis.expectedValue.toFixed(1)}¢**`,
+          inline: true,
+        },
+        {
           name: '🔗 Links',
           value: [
             `[View on Polymarket](https://polymarket.com/event/${market.slug})`,
