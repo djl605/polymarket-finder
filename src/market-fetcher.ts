@@ -154,7 +154,7 @@ export class MarketFetcher {
     // Get the token ID for the primary outcome
     const tokenId = market.tokens?.[0]?.token_id || '';
     const conditionId = market.condition_id || market.conditionId || '';
-    const slug = market.slug || '';
+    const slug = market.events?.[0]?.slug || market.slug || '';
 
     // Get order book data directly from Gamma API
     // The Gamma API includes bestBid, bestAsk, and spread in the response
