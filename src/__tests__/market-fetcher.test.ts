@@ -47,17 +47,19 @@ describe('MarketFetcher', () => {
         minProbability: 0,
         maxProbability: 1,
       };
-      const markets = await fetcher.fetchActiveMarkets(criteria);
+      const result = await fetcher.fetchActiveMarkets(criteria);
 
-      expect(markets).toHaveLength(1);
-      expect(markets[0].question).toBe('Will it rain tomorrow?');
-      expect(markets[0].volume).toBe(1000);
-      expect(markets[0].mainProbability).toBe(0.6);
-      expect(markets[0].tokenId).toBe('token123');
-      expect(markets[0].conditionId).toBe('cond123');
-      expect(markets[0].bestBid).toBe(0.58);
-      expect(markets[0].bestAsk).toBe(0.61);
-      expect(markets[0].spread).toBeCloseTo(3, 1); // 0.03 * 100 = 3 cents
+      expect(result.markets).toHaveLength(1);
+      expect(result.totalFetched).toBe(1);
+      expect(result.totalScreened).toBe(1);
+      expect(result.markets[0].question).toBe('Will it rain tomorrow?');
+      expect(result.markets[0].volume).toBe(1000);
+      expect(result.markets[0].mainProbability).toBe(0.6);
+      expect(result.markets[0].tokenId).toBe('token123');
+      expect(result.markets[0].conditionId).toBe('cond123');
+      expect(result.markets[0].bestBid).toBe(0.58);
+      expect(result.markets[0].bestAsk).toBe(0.61);
+      expect(result.markets[0].spread).toBeCloseTo(3, 1); // 0.03 * 100 = 3 cents
     });
 
     it('should filter out closed markets', async () => {
@@ -88,10 +90,10 @@ describe('MarketFetcher', () => {
         minProbability: 0,
         maxProbability: 1,
       };
-      const markets = await fetcher.fetchActiveMarkets(criteria);
+      const result = await fetcher.fetchActiveMarkets(criteria);
 
-      expect(markets).toHaveLength(1);
-      expect(markets[0].question).toBe('Active market');
+      expect(result.markets).toHaveLength(1);
+      expect(result.markets[0].question).toBe('Active market');
     });
 
     it('should pre-filter high-volume markets when criteria provided', async () => {
@@ -134,10 +136,12 @@ describe('MarketFetcher', () => {
         maxProbability: 0.85,
       };
 
-      const markets = await fetcher.fetchActiveMarkets(criteria);
+      const result = await fetcher.fetchActiveMarkets(criteria);
 
-      expect(markets).toHaveLength(1);
-      expect(markets[0].question).toBe('Low volume market');
+      expect(result.markets).toHaveLength(1);
+      expect(result.totalFetched).toBe(2);
+      expect(result.totalScreened).toBe(1);
+      expect(result.markets[0].question).toBe('Low volume market');
     });
 
     it('should handle pagination', async () => {
@@ -172,9 +176,11 @@ describe('MarketFetcher', () => {
         minProbability: 0,
         maxProbability: 1,
       };
-      const markets = await fetcher.fetchActiveMarkets(criteria);
+      const result = await fetcher.fetchActiveMarkets(criteria);
 
-      expect(markets.length).toBe(150);
+      expect(result.markets.length).toBe(150);
+      expect(result.totalFetched).toBe(150);
+      expect(result.totalScreened).toBe(150);
       expect(mockFetch).toHaveBeenCalledTimes(2);
     });
 
@@ -223,10 +229,10 @@ describe('MarketFetcher', () => {
         minProbability: 0,
         maxProbability: 1,
       };
-      const markets = await fetcher.fetchActiveMarkets(criteria);
+      const result = await fetcher.fetchActiveMarkets(criteria);
 
-      expect(markets[0].ageInDays).toBeGreaterThanOrEqual(2.9);
-      expect(markets[0].ageInDays).toBeLessThanOrEqual(3.1);
+      expect(result.markets[0].ageInDays).toBeGreaterThanOrEqual(2.9);
+      expect(result.markets[0].ageInDays).toBeLessThanOrEqual(3.1);
     });
   });
 });

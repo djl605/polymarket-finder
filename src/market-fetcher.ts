@@ -13,9 +13,9 @@ export class MarketFetcher {
 
   /**
    * Fetch active markets from Gamma API with immediate filtering and enrichment
-   * Returns only markets that pass all screening criteria
+   * Returns only markets that pass all screening criteria, along with stats
    */
-  async fetchActiveMarkets(criteria: ScreeningCriteria): Promise<EnrichedMarket[]> {
+  async fetchActiveMarkets(criteria: ScreeningCriteria): Promise<{ markets: EnrichedMarket[]; totalFetched: number; totalScreened: number }> {
     try {
       console.log('📊 Fetching and screening markets from Gamma API...');
       
@@ -84,7 +84,11 @@ export class MarketFetcher {
       }
 
       console.log(`   ✅ Fetched ${totalFetched} total markets, ${totalKept} passed screening\n`);
-      return enrichedMarkets;
+      return {
+        markets: enrichedMarkets,
+        totalFetched,
+        totalScreened: totalKept,
+      };
 
     } catch (error) {
       console.error('❌ Error fetching markets:', error);

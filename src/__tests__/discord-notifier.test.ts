@@ -261,7 +261,7 @@ describe('DiscordNotifier', () => {
     it('should send summary notification successfully', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
-      await notifier.sendSummary(1000, 50, 5);
+      await notifier.sendSummary(1000, 50, 10, 5, 125.5);
 
       expect(mockFetch).toHaveBeenCalledTimes(1);
       expect(mockFetch).toHaveBeenCalledWith(
@@ -272,28 +272,47 @@ describe('DiscordNotifier', () => {
       );
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
-      expect(body.embeds[0].title).toBe('📊 Scan Complete');
-      expect(body.embeds[0].fields).toHaveLength(3);
+      expect(body.embeds[0].title).toBe('✅ Scan Complete');
+      expect(body.embeds[0].fields).toHaveLength(4);
     });
 
     it('should include correct statistics', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
-      await notifier.sendSummary(1000, 50, 5);
+      await notifier.sendSummary(1000, 50, 10, 5, 125.5);
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
       const fields = body.embeds[0].fields;
 
+      expect(fields[0].name).toBe('📊 Markets Screened');
       expect(fields[0].value).toBe('1000');
+      expect(fields[1].name).toBe('✓ Passed Pre-Screening');
       expect(fields[1].value).toBe('50');
-      expect(fields[2].value).toBe('5');
+      expect(fields[2].name).toBe('🆕 New AI Analyses');
+      expect(fields[2].value).toBe('10');
+      expect(fields[3].name).toBe('♻️ Cached Analyses');
+      expect(fields[3].value).toBe('5');
+      
+      // Runtime is in the description instead
+      expect(body.embeds[0].description).toContain('2m 5s');
+    });
+
+    it('should format runtime correctly when less than a minute', async () => {
+      mockFetch.mockResolvedValue({ ok: true } as any);
+
+      await notifier.sendSummary(1000, 50, 10, 5, 45.5);
+
+      const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
+      
+      // Runtime is shown in the description
+      expect(body.embeds[0].description).toContain('45s');
     });
 
     it('should handle errors gracefully', async () => {
       mockFetch.mockRejectedValue(new Error('Network error'));
 
       // Should not throw
-      await notifier.sendSummary(1000, 50, 5);
+      await notifier.sendSummary(1000, 50, 10, 5, 125.5);
 
       expect(console.error).toHaveBeenCalled();
     });

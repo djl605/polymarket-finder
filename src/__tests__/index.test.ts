@@ -97,7 +97,11 @@ describe('Bot Orchestration', () => {
     
     // Setup default mocks
     const mockFetcher = MarketFetcher as jest.MockedClass<typeof MarketFetcher>;
-    mockFetcher.prototype.fetchActiveMarkets = jest.fn().mockResolvedValue([mockMarket]);
+    mockFetcher.prototype.fetchActiveMarkets = jest.fn().mockResolvedValue({
+      markets: [mockMarket],
+      totalFetched: 100,
+      totalScreened: 1,
+    });
 
     const mockScorer = MarketScorer as jest.MockedClass<typeof MarketScorer>;
     mockScorer.prototype.calculateScore = jest.fn().mockReturnValue(0.5);
@@ -179,12 +183,17 @@ describe('Bot Orchestration', () => {
 
     it('should handle no markets found', async () => {
       const mockFetcher = MarketFetcher as jest.MockedClass<typeof MarketFetcher>;
-      mockFetcher.prototype.fetchActiveMarkets = jest.fn().mockResolvedValue([]);
+      mockFetcher.prototype.fetchActiveMarkets = jest.fn().mockResolvedValue({
+        markets: [],
+        totalFetched: 100,
+        totalScreened: 0,
+      });
 
       await main();
 
       const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
       expect(mockNotifier.prototype.sendMarketAlert).not.toHaveBeenCalled();
+      expect(mockNotifier.prototype.sendSummary).toHaveBeenCalledWith(100, 0, 0, 0, expect.any(Number));
     });
 
     it('should use cached analysis when available', async () => {
@@ -226,7 +235,11 @@ describe('Bot Orchestration', () => {
       }));
 
       const mockFetcher = MarketFetcher as jest.MockedClass<typeof MarketFetcher>;
-      mockFetcher.prototype.fetchActiveMarkets = jest.fn().mockResolvedValue(markets);
+      mockFetcher.prototype.fetchActiveMarkets = jest.fn().mockResolvedValue({
+        markets,
+        totalFetched: 1000,
+        totalScreened: 10,
+      });
 
       await main();
 

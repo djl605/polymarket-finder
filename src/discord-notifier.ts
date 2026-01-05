@@ -98,31 +98,48 @@ export class DiscordNotifier {
   async sendSummary(
     totalMarkets: number,
     screenedMarkets: number,
-    alertedMarkets: number
+    newAnalyses: number,
+    cachedAnalyses: number,
+    runtimeSeconds: number
   ): Promise<void> {
     try {
+      // Format runtime nicely
+      const runtimeMinutes = Math.floor(runtimeSeconds / 60);
+      const runtimeSecs = Math.floor(runtimeSeconds % 60);
+      const runtimeStr = runtimeMinutes > 0 
+        ? `${runtimeMinutes}m ${runtimeSecs}s` 
+        : `${runtimeSecs}s`;
+
       const embed = {
-        title: '📊 Scan Complete',
-        description: 'Market scanning completed successfully',
+        title: '✅ Scan Complete',
+        description: `Completed in **${runtimeStr}**`,
         color: 0x5865F2, // Discord blue
         fields: [
           {
-            name: 'Total Markets Analyzed',
+            name: '📊 Markets Screened',
             value: totalMarkets.toString(),
             inline: true,
           },
           {
-            name: 'Markets Screened',
+            name: '✓ Passed Pre-Screening',
             value: screenedMarkets.toString(),
             inline: true,
           },
           {
-            name: 'New Alerts Sent',
-            value: alertedMarkets.toString(),
+            name: '🆕 New AI Analyses',
+            value: newAnalyses.toString(),
+            inline: true,
+          },
+          {
+            name: '♻️ Cached Analyses',
+            value: cachedAnalyses.toString(),
             inline: true,
           },
         ],
         timestamp: new Date().toISOString(),
+        footer: {
+          text: 'Polymarket Scanner Bot',
+        },
       };
 
       await fetch(this.webhookUrl, {

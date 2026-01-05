@@ -17,6 +17,8 @@ dotenv.config();
 export async function main() {
   console.log('🤖 Polymarket Scanner Bot Starting...\n');
   console.log(`⏰ Run time: ${new Date().toISOString()}\n`);
+  
+  const mainStartTime = Date.now();
 
   try {
     // Load configuration
@@ -55,24 +57,31 @@ export async function main() {
     stateManager.cleanupOldData(30);
 
     // Step 1: Fetch and screen markets (filtering happens during fetch for efficiency)
-    const screenedMarkets = await fetcher.fetchActiveMarkets(config.screening);
+    const { markets: screenedMarkets, totalFetched, totalScreened } = await fetcher.fetchActiveMarkets(config.screening);
     
     if (screenedMarkets.length === 0) {
       console.log('✅ No opportunities found this scan');
+      const totalRuntime = (Date.now() - mainStartTime) / 1000;
+      await notifier.sendSummary(totalFetched, totalScreened, 0, 0, totalRuntime);
       return;
     }
 
     // Step 2: Analyze ALL candidates (with caching) - CONCURRENTLY
     console.log(`🤖 Analyzing ${screenedMarkets.length} market${screenedMarkets.length === 1 ? '' : 's'} (up to ${config.maxConcurrentAnalyses} concurrent)...\n`);
+    
+    // Track new vs cached analyses
+    let newAnalysesCount = 0;
+    let cachedAnalysesCount = 0;
 
-interface AnalyzedMarket {
-  screenedMarket: ScreenedMarket;
-  analysis: AIAnalysis;
-}
+    interface AnalyzedMarket {
+      screenedMarket: ScreenedMarket;
+      analysis: AIAnalysis;
+    }
 
     interface AnalysisResult {
       analyzedMarket: AnalyzedMarket;
       logs: string[];
+      usedCache: boolean;
     }
 
     // Track progress
@@ -100,10 +109,12 @@ interface AnalyzedMarket {
 
       // Check for cached analysis
       let analysis: AIAnalysis;
+      let usedCache = false;
       if (stateManager.isCachedAnalysisFresh(marketId)) {
         const cached = stateManager.getCachedAnalysis(marketId)!;
         analysis = cached.analysis;
         logs.push(`   ♻️  Using cached analysis (${Math.round((Date.now() - new Date(cached.lastAnalyzed).getTime()) / (1000 * 60 * 60))}h old)`);
+        usedCache = true;
       } else {
         // Run AI analysis (pass logs buffer to keep organized)
         analysis = await aiResearcher.analyzeMarket(screenedMarket, logs);
@@ -133,11 +144,21 @@ interface AnalyzedMarket {
           analysis,
         },
         logs,
+        usedCache,
       };
     });
 
     // Wait for all analyses to complete
     const results: AnalysisResult[] = await Promise.all(analysisPromises);
+    
+    // Count new vs cached analyses
+    for (const result of results) {
+      if (result.usedCache) {
+        cachedAnalysesCount++;
+      } else {
+        newAnalysesCount++;
+      }
+    }
     
     // Final progress update
     const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
@@ -193,7 +214,8 @@ interface AnalyzedMarket {
     stateManager.saveState();
 
     // Send summary
-    await notifier.sendSummary(0, screenedMarkets.length, alertCount);
+    const totalRuntime = (Date.now() - mainStartTime) / 1000;
+    await notifier.sendSummary(totalFetched, totalScreened, newAnalysesCount, cachedAnalysesCount, totalRuntime);
 
     // Print stats
     const stats = stateManager.getStats();
