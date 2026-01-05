@@ -31,11 +31,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
       
-      - name: Fetch state from bot-state branch
+      - name: Fetch state and research files from bot-state branch
         run: |
           git fetch origin bot-state:bot-state 2>/dev/null || echo "No bot-state branch yet"
           if git show-ref --verify --quiet refs/heads/bot-state; then
             git checkout bot-state -- state.json 2>/dev/null || echo "No state.json yet"
+            git checkout bot-state -- research/ 2>/dev/null || echo "No research directory yet"
           fi
         continue-on-error: true
       
@@ -65,12 +66,17 @@ jobs:
           git config user.name "polymarket-bot[bot]"
           git config user.email "polymarket-bot[bot]@users.noreply.github.com"
           
-          # Save state.json to temp location before switching branches
+          # Save state.json and research files to temp location before switching branches
           if [ -f state.json ]; then
             cp state.json /tmp/state.json
           else
             echo "No state.json file to commit"
             exit 0
+          fi
+          
+          # Save research directory if it exists
+          if [ -d research ]; then
+            cp -r research /tmp/research
           fi
           
           # Create or checkout bot-state branch
@@ -83,7 +89,13 @@ jobs:
           # Restore state.json from temp location
           cp /tmp/state.json state.json
           
-          # Commit the state file
+          # Restore research directory if it exists
+          if [ -d /tmp/research ]; then
+            cp -r /tmp/research .
+          fi
+          
+          # Commit the state file and research files
           git add state.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update market state - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git add research/*.md 2>/dev/null || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update market state and research - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
           git push origin bot-state

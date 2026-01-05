@@ -1,11 +1,17 @@
 import fetch from 'node-fetch';
 import { AIAnalysis, EnrichedMarket, ScreenedMarket } from './types';
+import { ResearchFileManager } from './research-file-manager';
+import * as fs from 'fs';
 
 /**
  * Sends Discord notifications for interesting markets
  */
 export class DiscordNotifier {
-  constructor(private webhookUrl: string) {}
+  constructor(
+    private webhookUrl: string,
+    private githubRepo?: string,
+    private researchFileManager?: ResearchFileManager
+  ) {}
 
   /**
    * Send a notification about an interesting market
@@ -53,6 +59,7 @@ export class DiscordNotifier {
           value: [
             `[View on Polymarket](https://polymarket.com/event/${market.slug})`,
             market.tokenId ? `[Order Book](https://clob.polymarket.com/book?market=${market.tokenId})` : null,
+            this.getResearchFileLink(analysis),
           ].filter(Boolean).join(' • '),
           inline: false,
         },
@@ -144,6 +151,29 @@ export class DiscordNotifier {
 
   private formatConfidence(confidence: string): string {
     return confidence.charAt(0).toUpperCase() + confidence.slice(1);
+  }
+
+  /**
+   * Generate a link to the research file on GitHub (if file exists)
+   */
+  private getResearchFileLink(analysis: AIAnalysis): string | null {
+    if (!this.githubRepo || !this.researchFileManager) {
+      return null;
+    }
+
+    // Generate the filepath using ResearchFileManager
+    const filepath = this.researchFileManager.getFilePath(analysis.marketId, analysis.question);
+    
+    // Only include link if the file actually exists
+    if (!fs.existsSync(filepath)) {
+      return null;
+    }
+
+    // Extract just the filename from the path
+    const filename = filepath.split('/').pop() || '';
+
+    const githubUrl = `https://github.com/${this.githubRepo}/blob/bot-state/research/${filename}`;
+    return `[Research Content](${githubUrl})`;
   }
 }
 

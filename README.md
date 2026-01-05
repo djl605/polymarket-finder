@@ -103,32 +103,45 @@ npm run test:watch       # Watch mode
 2. **Screen** - Filters by age, volume, probability, and spread
 3. **Research** - For each candidate:
    - GPT-4o-mini generates optimal search query
-   - Exa AI searches recent discussions/news
+   - Exa AI searches recent discussions/news (Twitter, Reddit, news sites)
+   - Research content is saved to markdown files for later review
    - OpenAI o4-mini analyzes expected value (probability × magnitude of mispricing)
 4. **Alert** - Sends Discord notifications for opportunities worth investigating
-5. **Track** - Saves state to prevent duplicate alerts
+   - Includes link to full research content on GitHub
+5. **Track** - Saves state and research files to prevent duplicate alerts
 
-State is stored in a separate `bot-state` branch. Old data (>30 days) is auto-cleaned.
+State and research files are stored in a separate `bot-state` branch. Old data (>30 days) is auto-cleaned.
 
 ## Project Structure
 
 ```
 polymarket-scanner/
 ├── src/
-│   ├── __tests__/              # Test files
-│   ├── index.ts                # Main orchestration
-│   ├── config.ts               # Environment config
-│   ├── market-fetcher.ts       # Polymarket API client
-│   ├── market-scorer.ts        # Scoring logic
-│   ├── ai-researcher.ts        # AI analysis
-│   ├── discord-notifier.ts     # Notifications
-│   ├── state-manager.ts        # State persistence
-│   └── types.ts                # TypeScript types
-├── .github/workflows/scan.yml  # GitHub Actions
+│   ├── __tests__/                  # Test files
+│   ├── index.ts                    # Main orchestration
+│   ├── config.ts                   # Environment config
+│   ├── market-fetcher.ts           # Polymarket API client
+│   ├── market-scorer.ts            # Scoring logic
+│   ├── ai-researcher.ts            # AI analysis
+│   ├── discord-notifier.ts         # Notifications
+│   ├── state-manager.ts            # State persistence
+│   ├── research-file-manager.ts    # Research file storage
+│   └── types.ts                    # TypeScript types
+├── .github/workflows/scan.yml      # GitHub Actions
 ├── package.json
 ├── tsconfig.json
 └── README.md
 ```
+
+## Research Files
+
+Each analyzed market generates a markdown file in the `research/` directory (stored in the `bot-state` branch) containing:
+- Market question and ID
+- Search query used
+- All sources found (title, URL, date, author, content)
+- Timestamp of research
+
+Discord alerts include a direct link to view the research content on GitHub, making it easy to review the data that informed the AI's analysis.
 
 ## Troubleshooting
 

@@ -1,5 +1,6 @@
 import fetch, { Response } from 'node-fetch';
-import { AIAnalysis, EnrichedMarket, ScreenedMarket } from './types';
+import { AIAnalysis, ScreenedMarket, ResearchContent } from './types';
+import { ResearchFileManager } from './research-file-manager';
 
 interface ExaResult {
   title: string;
@@ -28,7 +29,8 @@ export class AIResearcher {
     private openaiApiKey: string,
     private exaApiKey: string,
     maxConcurrentCalls: number = 10,
-    verboseLogs: boolean = false
+    verboseLogs: boolean = false,
+    private researchFileManager?: ResearchFileManager
   ) {
     this.maxConcurrentCalls = maxConcurrentCalls;
     this.verboseLogs = verboseLogs;
@@ -69,6 +71,23 @@ export class AIResearcher {
       const exaResults = await this.researchWithExa(searchQuery, logBuffer);
       const researchContext = this.formatExaResults(exaResults);
       log(`   📚 Found ${exaResults.length} relevant sources`);
+
+      // Save research content to file immediately (before AI reasoning)
+      if (this.researchFileManager && exaResults.length > 0) {
+        try {
+          const researchContent: ResearchContent = {
+            marketId: market.conditionId,
+            question: market.question,
+            searchQuery,
+            sources: exaResults,
+            researchedAt: new Date().toISOString(),
+          };
+          const filename = this.researchFileManager.saveResearchContent(researchContent);
+          log(`   💾 Research saved to: ${filename}`);
+        } catch (error) {
+          log(`   ⚠️  Failed to save research file: ${error instanceof Error ? error.message : error}`);
+        }
+      }
 
       // Step 3: Use o4-mini for reasoning
       log(`   🤖 Running AI reasoning...`);

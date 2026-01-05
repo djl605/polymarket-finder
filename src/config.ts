@@ -37,6 +37,7 @@ export function loadConfig(): Config {
     maxAlertsPerRun: parseInt(process.env.MAX_ALERTS_PER_RUN || '5', 10),
     maxConcurrentAnalyses: Math.max(1, parseInt(process.env.MAX_CONCURRENT_ANALYSES || '10', 10)),
     verboseLogs: process.env.VERBOSE_LOGS === 'true',
+    githubRepo: process.env.GITHUB_REPOSITORY, // Available in GitHub Actions
   };
 }
 

@@ -55,6 +55,7 @@ describe('Bot Orchestration', () => {
     maxAlertsPerRun: 5,
     maxConcurrentAnalyses: 10,
     verboseLogs: false,
+    githubRepo: 'test-owner/test-repo',
   };
 
   const mockMarket: EnrichedMarket = {
@@ -151,9 +152,14 @@ describe('Bot Orchestration', () => {
         mockConfig.openaiApiKey,
         mockConfig.exaApiKey,
         mockConfig.maxConcurrentAnalyses,
-        mockConfig.verboseLogs
+        mockConfig.verboseLogs,
+        expect.any(Object) // ResearchFileManager
       );
-      expect(DiscordNotifier).toHaveBeenCalledWith(mockConfig.discordWebhookUrl);
+      expect(DiscordNotifier).toHaveBeenCalledWith(
+        mockConfig.discordWebhookUrl, 
+        mockConfig.githubRepo,
+        expect.any(Object) // ResearchFileManager
+      );
       expect(StateManager).toHaveBeenCalled();
 
       // Verify workflow steps

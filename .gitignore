@@ -4,8 +4,10 @@ dist/
 .env
 .DS_Store
 state.json
+research/
 
 # Test files
 coverage/
 src/__tests__/test-state.json
+test-research/
 

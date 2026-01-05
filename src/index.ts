@@ -5,6 +5,7 @@ import { MarketScorer } from './market-scorer';
 import { AIResearcher } from './ai-researcher';
 import { DiscordNotifier } from './discord-notifier';
 import { StateManager } from './state-manager';
+import { ResearchFileManager } from './research-file-manager';
 import { EnrichedMarket, ScreenedMarket, AIAnalysis } from './types';
 
 // Load environment variables
@@ -39,13 +40,15 @@ export async function main() {
     // Initialize components
     const fetcher = new MarketFetcher();
     const scorer = new MarketScorer(config.screening);
+    const researchFileManager = new ResearchFileManager('research');
     const aiResearcher = new AIResearcher(
       config.openaiApiKey,
       config.exaApiKey,
       config.maxConcurrentAnalyses,
-      config.verboseLogs
+      config.verboseLogs,
+      researchFileManager
     );
-    const notifier = new DiscordNotifier(config.discordWebhookUrl);
+    const notifier = new DiscordNotifier(config.discordWebhookUrl, config.githubRepo, researchFileManager);
     const stateManager = new StateManager('state.json', config.cacheMinAgeDays, config.cacheMaxAgeDays);
 
     // Clean up old alerts

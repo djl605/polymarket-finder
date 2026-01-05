@@ -52,6 +52,23 @@ export interface ScreenedMarket {
 }
 
 /**
+ * Research content from Exa
+ */
+export interface ResearchContent {
+  marketId: string;
+  question: string;
+  searchQuery: string;
+  sources: Array<{
+    title: string;
+    url: string;
+    publishedDate?: string;
+    author?: string;
+    text: string;
+  }>;
+  researchedAt: string;
+}
+
+/**
  * AI analysis result
  */
 export interface AIAnalysis {
@@ -108,5 +125,6 @@ export interface Config {
   maxAlertsPerRun: number;
   maxConcurrentAnalyses: number;
   verboseLogs: boolean;
+  githubRepo?: string; // Optional GitHub repository (e.g., "owner/repo")
 }
 
