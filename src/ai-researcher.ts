@@ -1,4 +1,5 @@
 import fetch, { Response } from 'node-fetch';
+import Exa from 'exa-js';
 import { AIAnalysis, ScreenedMarket, ResearchContent } from './types';
 import { ResearchFileManager } from './research-file-manager';
 
@@ -18,6 +19,7 @@ export class AIResearcher {
   private readonly maxConcurrentCalls: number;
   private readonly minDelayMs = 100;
   private readonly verboseLogs: boolean;
+  private readonly exaClient: Exa;
   
   // Exa-specific rate limiting (5 QPS limit)
   private activeExaCalls = 0;
@@ -27,13 +29,14 @@ export class AIResearcher {
 
   constructor(
     private openaiApiKey: string,
-    private exaApiKey: string,
+    exaApiKey: string,
     maxConcurrentCalls: number = 10,
     verboseLogs: boolean = false,
     private researchFileManager?: ResearchFileManager
   ) {
     this.maxConcurrentCalls = maxConcurrentCalls;
     this.verboseLogs = verboseLogs;
+    this.exaClient = new Exa(exaApiKey);
   }
 
   /**
@@ -68,26 +71,10 @@ export class AIResearcher {
       log(`   🔎 Search query: "${searchQuery}"`);
 
       // Step 2: Perform web research using Exa with optimized query
-      const exaResults = await this.researchWithExa(searchQuery, logBuffer);
-      const researchContext = this.formatExaResults(exaResults);
+      const { results: exaResults, context: exaContext } = await this.researchWithExa(searchQuery, logBuffer);
+      // Use Exa's context string if available, otherwise format manually
+      const researchContext = exaContext || this.formatExaResults(exaResults);
       log(`   📚 Found ${exaResults.length} relevant sources`);
-
-      // Save research content to file immediately (before AI reasoning)
-      if (this.researchFileManager && exaResults.length > 0) {
-        try {
-          const researchContent: ResearchContent = {
-            marketId: market.conditionId,
-            question: market.question,
-            searchQuery,
-            sources: exaResults,
-            researchedAt: new Date().toISOString(),
-          };
-          const filename = this.researchFileManager.saveResearchContent(researchContent);
-          log(`   💾 Research saved to: ${filename}`);
-        } catch (error) {
-          log(`   ⚠️  Failed to save research file: ${error instanceof Error ? error.message : error}`);
-        }
-      }
 
       // Step 3: Use o4-mini for reasoning
       log(`   🤖 Running AI reasoning...`);
@@ -110,7 +97,32 @@ export class AIResearcher {
         log(`${'='.repeat(80)}\n`);
       }
 
-      return this.parseAIResponse(market.conditionId, market.question, response);
+      const analysis = this.parseAIResponse(market.conditionId, market.question, response);
+
+      // Save research content to file (after AI reasoning, so we can include the analysis)
+      if (this.researchFileManager && researchContext) {
+        try {
+          const researchContent: ResearchContent = {
+            marketId: market.conditionId,
+            question: market.question,
+            searchQuery,
+            contextString: researchContext, // The formatted context used for analysis
+            researchedAt: new Date().toISOString(),
+            analysis: {
+              fullAnalysis: analysis.fullAnalysis,
+              summary: analysis.summary,
+              confidence: analysis.confidence,
+              expectedValue: analysis.expectedValue,
+            },
+          };
+          const filename = this.researchFileManager.saveResearchContent(researchContent);
+          log(`   💾 Research saved to: ${filename}`);
+        } catch (error) {
+          log(`   ⚠️  Failed to save research file: ${error instanceof Error ? error.message : error}`);
+        }
+      }
+
+      return analysis;
     } catch (error) {
       // Log error but don't fail the job - return a skip analysis
       const errorMsg = `   ❌ Failed to analyze market: ${error instanceof Error ? error.message : error}`;
@@ -279,8 +291,9 @@ Provide ONLY the search query, nothing else.`;
   /**
    * Research a market using Exa's neural search
    * Implements rate limiting: max 5 concurrent calls, 250ms between calls
+   * Returns both the individual results and the formatted context string (if available)
    */
-  private async researchWithExa(searchQuery: string, logBuffer?: string[]): Promise<ExaResult[]> {
+  private async researchWithExa(searchQuery: string, logBuffer?: string[]): Promise<{ results: ExaResult[], context?: string }> {
     const log = (message: string) => {
       if (logBuffer) {
         logBuffer.push(message);
@@ -301,47 +314,38 @@ Provide ONLY the search query, nothing else.`;
     this.lastExaCallTime = Date.now();
 
     try {
-      const response = await fetch('https://api.exa.ai/search', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'x-api-key': this.exaApiKey!,
-        },
-        body: JSON.stringify({
-          query: searchQuery.substring(0, 500), // Ensure it's not too long
-          type: 'neural', // Semantic search
-          useAutoprompt: true, // Let Exa optimize the query further
+      const response = await this.exaClient.searchAndContents(
+        searchQuery.substring(0, 500), // Ensure it's not too long
+        {
+          type: 'deep', // Deep semantic search for better quality
           numResults: 10,
-          contents: {
-            text: { maxCharacters: 2000 }, // Get text content
-          },
-          category: 'tweet,discussion,news', // Focus on social + news
+          text: { maxCharacters: 2000 }, // Get text content from pages
+          context: true, // Get Exa's formatted context string for LLM consumption
           startPublishedDate: this.getDateDaysAgo(30), // Last 30 days
-        }),
-      });
-
-      if (!response.ok) {
-        if (response.status === 429) {
-          log(`   ⚠️  Exa rate limit hit. Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your Exa plan.`);
-        } else {
-          log(`   ⚠️  Exa API error: ${response.status}`);
         }
-        return [];
-      }
+      );
 
-      const data = await response.json() as any;
-      const results = data.results || [];
-
-      return results.map((r: any) => ({
+      const results = response.results || [];
+      const formattedResults = results.map((r: typeof results[number]) => ({
         title: r.title || '',
         url: r.url || '',
         publishedDate: r.publishedDate,
         author: r.author,
-        text: r.text || r.snippet || '',
+        text: r.text || '',
       }));
-    } catch (error) {
-      log(`   ⚠️  Error calling Exa API: ${error instanceof Error ? error.message : error}`);
-      return [];
+
+      return {
+        results: formattedResults,
+        context: response.context, // Exa's pre-formatted context string
+      };
+    } catch (error: any) {
+      // Handle Exa SDK errors
+      if (error.message?.includes('429') || error.message?.includes('rate limit')) {
+        log(`   ⚠️  Exa rate limit hit. Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your Exa plan.`);
+      } else {
+        log(`   ⚠️  Error calling Exa API: ${error instanceof Error ? error.message : error}`);
+      }
+      return { results: [] };
     } finally {
       this.activeExaCalls--;
     }

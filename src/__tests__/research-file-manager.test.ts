@@ -38,15 +38,7 @@ describe('ResearchFileManager', () => {
         marketId: '0x1234567890abcdef',
         question: 'Will Bitcoin reach $100k by end of 2024?',
         searchQuery: 'Bitcoin price prediction 2024 $100k',
-        sources: [
-          {
-            title: 'Bitcoin Analysis',
-            url: 'https://example.com/analysis',
-            publishedDate: '2024-01-01',
-            author: 'Crypto Expert',
-            text: 'Bitcoin has been showing strong momentum...',
-          },
-        ],
+        contextString: 'Source 1: Bitcoin Analysis\nURL: https://example.com/analysis\nBitcoin has been showing strong momentum...',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
@@ -59,24 +51,24 @@ describe('ResearchFileManager', () => {
       expect(content).toContain('# Research: Will Bitcoin reach $100k by end of 2024?');
       expect(content).toContain('**Market ID:** 0x1234567890abcdef');
       expect(content).toContain('**Search Query:** "Bitcoin price prediction 2024 $100k"');
-      expect(content).toContain('### Source 1: Bitcoin Analysis');
-      expect(content).toContain('**URL:** https://example.com/analysis');
+      expect(content).toContain('## Research Context');
       expect(content).toContain('Bitcoin has been showing strong momentum...');
     });
 
-    it('should handle markets with no sources', () => {
+    it('should handle markets with minimal context', () => {
       const researchContent: ResearchContent = {
         marketId: '0xabcdef123456',
         question: 'Will it rain tomorrow?',
         searchQuery: 'weather forecast rain',
-        sources: [],
+        contextString: 'No relevant sources found for this query.',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
       const filename = manager.saveResearchContent(researchContent);
       const content = fs.readFileSync(path.join(testDir, filename), 'utf-8');
 
-      expect(content).toContain('*No sources found for this market.*');
+      expect(content).toContain('## Research Context');
+      expect(content).toContain('No relevant sources found for this query.');
     });
 
     it('should sanitize filenames with special characters', () => {
@@ -84,7 +76,7 @@ describe('ResearchFileManager', () => {
         marketId: '0x123abc',
         question: 'Will @user #tag with $pecial & char$?',
         searchQuery: 'test query',
-        sources: [],
+        contextString: 'Test context',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
@@ -104,7 +96,7 @@ describe('ResearchFileManager', () => {
         marketId: '0x123',
         question: longQuestion,
         searchQuery: 'test',
-        sources: [],
+        contextString: 'Test context',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
@@ -114,53 +106,39 @@ describe('ResearchFileManager', () => {
       expect(filename.length).toBeLessThan(120);
     });
 
-    it('should include all source metadata when available', () => {
+    it('should include context string in output', () => {
       const researchContent: ResearchContent = {
         marketId: '0x456',
         question: 'Test market',
         searchQuery: 'test',
-        sources: [
-          {
-            title: 'Complete Article',
-            url: 'https://example.com',
-            publishedDate: '2024-01-01T10:00:00Z',
-            author: 'John Doe',
-            text: 'Full article text here',
-          },
-        ],
+        contextString: 'Complete Article\nURL: https://example.com\nPublished: 2024-01-01\nAuthor: John Doe\nFull article text here',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
       const filename = manager.saveResearchContent(researchContent);
       const content = fs.readFileSync(path.join(testDir, filename), 'utf-8');
 
-      expect(content).toContain('**URL:** https://example.com');
-      expect(content).toContain('**Published:** 2024-01-01T10:00:00Z');
-      expect(content).toContain('**Author:** John Doe');
+      expect(content).toContain('## Research Context');
+      expect(content).toContain('Complete Article');
+      expect(content).toContain('https://example.com');
+      expect(content).toContain('John Doe');
     });
 
-    it('should handle sources with missing optional fields', () => {
+    it('should handle simple context strings', () => {
       const researchContent: ResearchContent = {
         marketId: '0x789',
         question: 'Test market',
         searchQuery: 'test',
-        sources: [
-          {
-            title: 'Minimal Article',
-            url: 'https://example.com',
-            text: 'Some text',
-          },
-        ],
+        contextString: 'Minimal Article\nSome text',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
       const filename = manager.saveResearchContent(researchContent);
       const content = fs.readFileSync(path.join(testDir, filename), 'utf-8');
 
-      expect(content).toContain('### Source 1: Minimal Article');
-      expect(content).toContain('**URL:** https://example.com');
-      expect(content).not.toContain('**Published:**');
-      expect(content).not.toContain('**Author:**');
+      expect(content).toContain('## Research Context');
+      expect(content).toContain('Minimal Article');
+      expect(content).toContain('Some text');
     });
   });
 
@@ -204,7 +182,7 @@ describe('ResearchFileManager', () => {
         marketId: '0x111',
         question: 'Market 1',
         searchQuery: 'query1',
-        sources: [],
+        contextString: 'Context for market 1',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 
@@ -212,7 +190,7 @@ describe('ResearchFileManager', () => {
         marketId: '0x222',
         question: 'Market 2',
         searchQuery: 'query2',
-        sources: [],
+        contextString: 'Context for market 2',
         researchedAt: '2024-01-05T12:00:00.000Z',
       };
 

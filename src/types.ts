@@ -58,14 +58,14 @@ export interface ResearchContent {
   marketId: string;
   question: string;
   searchQuery: string;
-  sources: Array<{
-    title: string;
-    url: string;
-    publishedDate?: string;
-    author?: string;
-    text: string;
-  }>;
+  contextString: string; // Exa's pre-formatted context optimized for LLMs
   researchedAt: string;
+  analysis?: {
+    fullAnalysis: string;
+    summary: string;
+    confidence: 'low' | 'medium' | 'high';
+    expectedValue: number;
+  };
 }
 
 /**

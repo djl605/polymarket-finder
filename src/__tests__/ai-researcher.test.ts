@@ -1,9 +1,13 @@
 import { AIResearcher } from '../ai-researcher';
 import { EnrichedMarket, ScreenedMarket } from '../types';
 import fetch from 'node-fetch';
+import Exa from 'exa-js';
 
 jest.mock('node-fetch');
 const mockFetch = fetch as jest.MockedFunction<typeof fetch>;
+
+jest.mock('exa-js');
+const MockedExa = Exa as jest.MockedClass<typeof Exa>;
 
 describe('AIResearcher', () => {
   const mockOpenAIKey = 'sk-test-key';
@@ -35,12 +39,21 @@ describe('AIResearcher', () => {
     score: 0.5,
   });
 
+  const mockExaResults = (results: any[] = []) => {
+    MockedExa.mockImplementation(() => ({
+      searchAndContents: jest.fn().mockResolvedValue({ results }),
+    } as any));
+  };
+
   beforeEach(() => {
     jest.clearAllMocks();
     // Suppress console logs during tests
     jest.spyOn(console, 'log').mockImplementation();
     jest.spyOn(console, 'warn').mockImplementation();
     jest.spyOn(console, 'error').mockImplementation();
+    
+    // Default mock for Exa SDK
+    mockExaResults([]);
   });
 
   afterEach(() => {
@@ -60,19 +73,22 @@ describe('AIResearcher', () => {
         }),
       } as any);
 
-      // Mock Exa search
-      mockFetch.mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({
-          results: [
-            {
-              title: 'Weather forecast',
-              url: 'https://example.com',
-              text: 'Rain expected tomorrow',
-            },
-          ],
-        }),
-      } as any);
+      // Mock Exa SDK searchAndContents
+      const mockSearchAndContents = jest.fn().mockResolvedValue({
+        results: [
+          {
+            title: 'Weather forecast',
+            url: 'https://example.com',
+            text: 'Rain expected tomorrow',
+          },
+        ],
+      });
+      MockedExa.mockImplementation(() => ({
+        searchAndContents: mockSearchAndContents,
+      } as any));
+
+      // Recreate researcher to use the new mock
+      const researcherWithMock = new AIResearcher(mockOpenAIKey, mockExaKey);
 
       // Mock AI reasoning
       mockFetch.mockResolvedValueOnce({
@@ -91,21 +107,27 @@ CONFIDENCE: high`,
         }),
       } as any);
 
-      const result = await researcher.analyzeMarket(market);
+      const result = await researcherWithMock.analyzeMarket(market);
 
       expect(result.marketId).toBe('cond123');
       expect(result.question).toBe('Will it rain tomorrow?');
       expect(result.expectedValue).toBe(2.0);
       expect(result.confidence).toBe('high');
-      expect(mockFetch).toHaveBeenCalledTimes(3);
+      expect(mockFetch).toHaveBeenCalledTimes(2); // Only OpenAI calls now
+      expect(mockSearchAndContents).toHaveBeenCalledTimes(1);
     });
 
     it('should return skip analysis on API failures instead of throwing', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
       // Mock fetch to reject
       mockFetch.mockRejectedValue(new Error('API error'));
+      
+      // Mock Exa SDK
+      MockedExa.mockImplementation(() => ({
+        searchAndContents: jest.fn().mockResolvedValue({ results: [] }),
+      } as any));
+
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
       
@@ -119,19 +141,13 @@ CONFIDENCE: high`,
 
   describe('parseAIResponse', () => {
     it('should parse expected value and confidence from response', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
           }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({ results: [] }),
         } as any)
         .mockResolvedValueOnce({
           ok: true,
@@ -149,6 +165,14 @@ CONFIDENCE: high`,
           }),
         } as any);
 
+      // Mock Exa SDK
+      MockedExa.mockImplementation(() => ({
+        searchAndContents: jest.fn().mockResolvedValue({ results: [] }),
+      } as any));
+
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market);
 
       expect(result.expectedValue).toBe(12.5);
@@ -156,19 +180,13 @@ CONFIDENCE: high`,
     });
 
     it('should default to 0 EV and medium confidence when missing', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
           }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({ results: [] }),
         } as any)
         .mockResolvedValueOnce({
           ok: true,
@@ -183,6 +201,10 @@ CONFIDENCE: high`,
           }),
         } as any);
 
+      mockExaResults([]);
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market);
 
       expect(result.expectedValue).toBe(0); // Default when no EV found
@@ -190,19 +212,13 @@ CONFIDENCE: high`,
     });
 
     it('should convert NaN expected value to 0', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
           }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({ results: [] }),
         } as any)
         .mockResolvedValueOnce({
           ok: true,
@@ -220,6 +236,10 @@ CONFIDENCE: high`,
           }),
         } as any);
 
+      mockExaResults([]);
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market);
 
       // parseFloat('invalid_text') returns NaN, which should be converted to 0
@@ -227,19 +247,13 @@ CONFIDENCE: high`,
     });
 
     it('should parse old cached responses with RECOMMENDATION field (backward compatibility)', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
           }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({ results: [] }),
         } as any)
         .mockResolvedValueOnce({
           ok: true,
@@ -258,6 +272,10 @@ CONFIDENCE: medium`,
           }),
         } as any);
 
+      mockExaResults([]);
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market);
 
       // Should extract EV and confidence, ignoring the old RECOMMENDATION field
@@ -269,33 +287,12 @@ CONFIDENCE: medium`,
 
   describe('Exa integration', () => {
     it('should format Exa results correctly', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            results: [
-              {
-                title: 'Article 1',
-                url: 'https://example.com/1',
-                publishedDate: '2024-01-15',
-                author: 'John Doe',
-                text: 'Content about the market',
-              },
-              {
-                title: 'Article 2',
-                url: 'https://example.com/2',
-                text: 'More content',
-              },
-            ],
           }),
         } as any)
         .mockResolvedValueOnce({
@@ -314,30 +311,43 @@ CONFIDENCE: medium`,
           }),
         } as any);
 
+      // Mock Exa SDK with results
+      mockExaResults([
+        {
+          title: 'Article 1',
+          url: 'https://example.com/1',
+          publishedDate: '2024-01-15',
+          author: 'John Doe',
+          text: 'Content about the market',
+        },
+        {
+          title: 'Article 2',
+          url: 'https://example.com/2',
+          text: 'More content',
+        },
+      ]);
+
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market);
 
       expect(result.fullAnalysis).toBeTruthy();
       // Verify that reasoning model was called with formatted Exa results
-      const o4MiniCall = mockFetch.mock.calls[2];
+      const o4MiniCall = mockFetch.mock.calls[1]; // Second call (after query generation)
       const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('Article 1');
       expect(requestBody.messages[0].content).toContain('Article 2');
     });
 
     it('should handle empty Exa results', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
           }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({ results: [] }),
         } as any)
         .mockResolvedValueOnce({
           ok: true,
@@ -355,29 +365,30 @@ CONFIDENCE: low`,
           }),
         } as any);
 
+      // Mock Exa SDK with empty results
+      mockExaResults([]);
+
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market);
 
       expect(result).toBeTruthy();
-      const o4MiniCall = mockFetch.mock.calls[2];
+      const o4MiniCall = mockFetch.mock.calls[1]; // Second call (after query generation)
       const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('No relevant sources found');
     });
 
     it('should handle Exa API errors', async () => {
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
       const logBuffer: string[] = [];
 
+      // Mock search query generation
       mockFetch
         .mockResolvedValueOnce({
           ok: true,
           json: async () => ({
             choices: [{ message: { content: 'test query' } }],
           }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: false,
-          status: 500,
         } as any)
         .mockResolvedValueOnce({
           ok: true,
@@ -395,11 +406,19 @@ CONFIDENCE: medium`,
           }),
         } as any);
 
+      // Mock Exa SDK to throw an error
+      MockedExa.mockImplementation(() => ({
+        searchAndContents: jest.fn().mockRejectedValue(new Error('Exa API error')),
+      } as any));
+
+      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const market = createMockScreenedMarket();
+
       const result = await researcher.analyzeMarket(market, logBuffer);
 
       expect(result).toBeTruthy();
-      // Error should be in the log buffer, not console.warn
-      expect(logBuffer.some(log => log.includes('Exa API error'))).toBe(true);
+      // Error should be in the log buffer
+      expect(logBuffer.some(log => log.includes('Exa API'))).toBe(true);
     });
   });
 });
