@@ -9,6 +9,7 @@
  * 
  * Version History:
  * - 0.0: Initial implementation with Exa SDK, deep search, context parameter
+ * - 1.0: Major improvements by directly asking Exa for information relevant to the specific market question.
  */
-export const RESEARCH_VERSION = '0.0';
+export const RESEARCH_VERSION = '1.0';
 

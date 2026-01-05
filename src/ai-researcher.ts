@@ -67,11 +67,11 @@ export class AIResearcher {
 
       log(`   🔍 Researching market...`);
 
-      // Step 1: Generate optimal search query using GPT-4o-mini
-      const searchQuery = await this.generateSearchQuery(market.question, market.description, reason, logBuffer);
+      // Step 1: Use Exa AI search to search for articles related to the market question.
+      const searchQuery = `Provide information that could be relevant to predicting the following question: ${market.question}`;
       log(`   🔎 Search query: "${searchQuery}"`);
 
-      // Step 2: Perform web research using Exa with optimized query
+      // Step 2: Perform web research using Exa
       const { results: exaResults, context: exaContext } = await this.researchWithExa(searchQuery, logBuffer);
       // Use Exa's context string if available, otherwise format manually
       const researchContext = exaContext || this.formatExaResults(exaResults);
@@ -202,98 +202,6 @@ export class AIResearcher {
   }
 
   /**
-   * Generate an optimal search query using GPT-4o-mini
-   */
-  private async generateSearchQuery(question: string, description: string, metrics: string, logBuffer?: string[]): Promise<string> {
-    const log = (message: string) => {
-      if (logBuffer) {
-        logBuffer.push(message);
-      }
-    };
-
-    try {
-      const prompt = `You are a research assistant helping to find information about a prediction market.
-
-MARKET QUESTION:
-${question}
-
-MARKET DESCRIPTION & RULES:
-${description}
-
-MARKET METRICS:
-${metrics}
-
-TASK:
-Generate an optimal search query to find relevant discussions, news, and analysis about this market. The search will be used on Twitter, Reddit, news sites, and forums.
-
-GUIDELINES:
-- Focus on the core topic/event
-- Include key entities (people, organizations, events, dates)
-- Keep it concise (max 100 words)
-- Use natural language that would appear in discussions
-- If there are multiple aspects to research, focus on the most uncertain/important one
-
-OUTPUT:
-Provide ONLY the search query, nothing else.`;
-
-      const response = await fetch('https://api.openai.com/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${this.openaiApiKey}`,
-        },
-        body: JSON.stringify({
-          model: 'gpt-4o-mini',
-          messages: [
-            {
-              role: 'user',
-              content: prompt,
-            },
-          ],
-          temperature: 0.3, // Low temperature for focused output
-          max_tokens: 200,
-        }),
-      });
-
-      if (!response.ok) {
-        const errorBody = await response.text();
-        let errorMessage = '';
-        
-        try {
-          const errorJson = JSON.parse(errorBody);
-          errorMessage = errorJson.error?.message || errorBody;
-        } catch {
-          errorMessage = errorBody;
-        }
-
-        // Log different error types with helpful context
-        if (response.status === 429) {
-          const rateLimitInfo = this.extractRateLimitInfo(response);
-          log(`   ⚠️  OpenAI rate limit hit for search query generation${rateLimitInfo}`);
-          log(`   Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your OpenAI tier`);
-        } else if (response.status === 401) {
-          log(`   ❌ OpenAI authentication failed (401) - check your OPENAI_API_KEY`);
-        } else if (response.status === 400) {
-          log(`   ⚠️  OpenAI bad request (400): ${errorMessage.substring(0, 200)}`);
-        } else {
-          log(`   ⚠️  OpenAI API error (${response.status}): ${errorMessage.substring(0, 200)}`);
-        }
-        
-        return question; // Fallback to question
-      }
-
-      const data = await response.json() as any;
-      const generatedQuery = data.choices[0].message.content.trim();
-      
-      // Remove quotes if the model added them
-      return generatedQuery.replace(/^["']|["']$/g, '');
-    } catch (error) {
-      log(`   ⚠️  Error generating search query: ${error instanceof Error ? error.message : error}`);
-      return question; // Fallback
-    }
-  }
-
-  /**
    * Research a market using Exa's neural search
    * Implements rate limiting: max 5 concurrent calls, 250ms between calls
    * Returns both the individual results and the formatted context string (if available)
@@ -323,8 +231,7 @@ Provide ONLY the search query, nothing else.`;
         searchQuery.substring(0, 500), // Ensure it's not too long
         {
           type: 'deep', // Deep semantic search for better quality
-          numResults: 10,
-          text: { maxCharacters: 2000 }, // Get text content from pages
+          numResults: 5,
           context: true, // Get Exa's formatted context string for LLM consumption
           startPublishedDate: this.getDateDaysAgo(30), // Last 30 days
         }

@@ -65,14 +65,6 @@ describe('AIResearcher', () => {
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
       const market = createMockScreenedMarket();
 
-      // Mock search query generation
-      mockFetch.mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({
-          choices: [{ message: { content: 'NYC weather forecast tomorrow' } }],
-        }),
-      } as any);
-
       // Mock Exa SDK searchAndContents
       const mockSearchAndContents = jest.fn().mockResolvedValue({
         results: [
@@ -113,7 +105,7 @@ CONFIDENCE: high`,
       expect(result.question).toBe('Will it rain tomorrow?');
       expect(result.expectedValue).toBe(2.0);
       expect(result.confidence).toBe('high');
-      expect(mockFetch).toHaveBeenCalledTimes(2); // Only OpenAI calls now
+      expect(mockFetch).toHaveBeenCalledTimes(1); // Only 1 OpenAI call now (no search query generation)
       expect(mockSearchAndContents).toHaveBeenCalledTimes(1);
     });
 
@@ -141,29 +133,22 @@ CONFIDENCE: high`,
 
   describe('parseAIResponse', () => {
     it('should parse expected value and confidence from response', async () => {
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: `Analysis...
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: `Analysis...
 EXPECTED_VALUE: 12.5
 SUMMARY: Strong evidence of mispricing.
 CONFIDENCE: high`,
-                },
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       // Mock Exa SDK
       MockedExa.mockImplementation(() => ({
@@ -180,26 +165,19 @@ CONFIDENCE: high`,
     });
 
     it('should default to 0 EV and medium confidence when missing', async () => {
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: 'Some analysis without clear EV or confidence',
-                },
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: 'Some analysis without clear EV or confidence',
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       mockExaResults([]);
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
@@ -212,29 +190,22 @@ CONFIDENCE: high`,
     });
 
     it('should convert NaN expected value to 0', async () => {
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: `Analysis...
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: `Analysis...
 EXPECTED_VALUE: invalid_text
 SUMMARY: Some analysis.
 CONFIDENCE: high`,
-                },
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       mockExaResults([]);
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
@@ -247,30 +218,23 @@ CONFIDENCE: high`,
     });
 
     it('should parse old cached responses with RECOMMENDATION field (backward compatibility)', async () => {
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: `Analysis...
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: `Analysis...
 EXPECTED_VALUE: 8.5
 SUMMARY: Market shows some potential.
 RECOMMENDATION: research
 CONFIDENCE: medium`,
-                },
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       mockExaResults([]);
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
@@ -287,29 +251,22 @@ CONFIDENCE: medium`,
 
   describe('Exa integration', () => {
     it('should format Exa results correctly', async () => {
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: `Analysis...
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: `Analysis...
 EXPECTED_VALUE: 5.0
 SUMMARY: Test summary.
 CONFIDENCE: medium`,
-                },
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       // Mock Exa SDK with results
       mockExaResults([
@@ -334,36 +291,29 @@ CONFIDENCE: medium`,
 
       expect(result.fullAnalysis).toBeTruthy();
       // Verify that reasoning model was called with formatted Exa results
-      const o4MiniCall = mockFetch.mock.calls[1]; // Second call (after query generation)
+      const o4MiniCall = mockFetch.mock.calls[0]; // Only one OpenAI call now
       const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('Article 1');
       expect(requestBody.messages[0].content).toContain('Article 2');
     });
 
     it('should handle empty Exa results', async () => {
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: `Analysis...
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: `Analysis...
 EXPECTED_VALUE: 0
 SUMMARY: Test.
 CONFIDENCE: low`,
-                },
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       // Mock Exa SDK with empty results
       mockExaResults([]);
@@ -374,7 +324,7 @@ CONFIDENCE: low`,
       const result = await researcher.analyzeMarket(market);
 
       expect(result).toBeTruthy();
-      const o4MiniCall = mockFetch.mock.calls[1]; // Second call (after query generation)
+      const o4MiniCall = mockFetch.mock.calls[0]; // Only one OpenAI call now
       const requestBody = JSON.parse(o4MiniCall[1]?.body as string);
       expect(requestBody.messages[0].content).toContain('No relevant sources found');
     });
@@ -382,29 +332,22 @@ CONFIDENCE: low`,
     it('should handle Exa API errors', async () => {
       const logBuffer: string[] = [];
 
-      // Mock search query generation
-      mockFetch
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [{ message: { content: 'test query' } }],
-          }),
-        } as any)
-        .mockResolvedValueOnce({
-          ok: true,
-          json: async () => ({
-            choices: [
-              {
-                message: {
-                  content: `Analysis...
+      // Mock AI reasoning
+      mockFetch.mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: `Analysis...
 EXPECTED_VALUE: 0
 SUMMARY: Test.
 CONFIDENCE: medium`,
-                },
               },
-            ],
-          }),
-        } as any);
+            },
+          ],
+        }),
+      } as any);
 
       // Mock Exa SDK to throw an error
       MockedExa.mockImplementation(() => ({
