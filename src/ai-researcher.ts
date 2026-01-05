@@ -2,6 +2,7 @@ import fetch, { Response } from 'node-fetch';
 import Exa from 'exa-js';
 import { AIAnalysis, ScreenedMarket, ResearchContent } from './types';
 import { ResearchFileManager } from './research-file-manager';
+import { RESEARCH_VERSION } from './research-version';
 
 interface ExaResult {
   title: string;
@@ -98,6 +99,9 @@ export class AIResearcher {
       }
 
       const analysis = this.parseAIResponse(market.conditionId, market.question, response);
+      
+      // Add research version to analysis
+      analysis.researchVersion = RESEARCH_VERSION;
 
       // Save research content to file (after AI reasoning, so we can include the analysis)
       if (this.researchFileManager && researchContext) {
@@ -137,6 +141,7 @@ export class AIResearcher {
         summary: 'Analysis failed due to API error',
         confidence: 'low',
         expectedValue: 0,
+        researchVersion: "0.0",
       };
     } finally {
       // Ensure minimum delay between calls
@@ -563,6 +568,7 @@ CONFIDENCE: [EXACTLY one of: low, medium, high]`;
       summary,
       confidence,
       expectedValue,
+      researchVersion: RESEARCH_VERSION,
     };
   }
 

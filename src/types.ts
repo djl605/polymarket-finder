@@ -78,6 +78,7 @@ export interface AIAnalysis {
   summary: string;            // Short excerpt for notifications
   confidence: 'low' | 'medium' | 'high';
   expectedValue: number;      // Expected value in cents (probability × magnitude)
+  researchVersion: string;
 }
 
 /**
@@ -90,6 +91,7 @@ export interface CachedAnalysis {
   lastPrice: number;
   analysis: AIAnalysis;
   expiresAt: string;
+  researchVersion: string;
 }
 
 /**

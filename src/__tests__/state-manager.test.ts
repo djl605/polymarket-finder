@@ -92,6 +92,44 @@ describe('StateManager', () => {
       expect(content).toContain('\n');
       expect(content).toContain('  '); // Indentation
     });
+
+    it('should migrate old cached analyses to include researchVersion 0.0', () => {
+      // Create an old state file without researchVersion
+      const oldState = {
+        lastRun: new Date().toISOString(),
+        alertedMarkets: {},
+        cachedAnalyses: {
+          'market1': {
+            marketId: 'market1',
+            question: 'Test',
+            lastAnalyzed: new Date().toISOString(),
+            lastPrice: 0.5,
+            analysis: {
+              marketId: 'market1',
+              question: 'Test',
+              fullAnalysis: 'Full analysis',
+              summary: 'Summary',
+              confidence: 'high',
+              expectedValue: 5.0,
+              // Missing researchVersion - should be migrated to '0.0'
+            },
+            expiresAt: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString(),
+            // Missing researchVersion - should be migrated to '0.0'
+          }
+        }
+      };
+      
+      fs.writeFileSync(testStateFile, JSON.stringify(oldState, null, 2), 'utf-8');
+      
+      // Load the state - should trigger migration
+      const migratedStateManager = new StateManager(testStateFile);
+      
+      // Check that researchVersion was added
+      const cached = migratedStateManager.getCachedAnalysis('market1');
+      expect(cached).toBeDefined();
+      expect(cached?.researchVersion).toBe('0.0');
+      expect(cached?.analysis.researchVersion).toBe('0.0');
+    });
   });
 
   describe('hasBeenAlerted', () => {
@@ -238,6 +276,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'high',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -255,6 +294,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -286,6 +326,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'high',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -313,6 +354,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -327,6 +369,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'low',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -350,6 +393,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -376,6 +420,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       customStateManager.cacheAnalysis('market2', 'Test', 0.5, analysis);
@@ -434,6 +479,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
@@ -539,6 +585,7 @@ describe('StateManager', () => {
         summary: 'Summary',
         confidence: 'medium',
         expectedValue: 5.0,
+        researchVersion: '1.0',
       };
       
       stateManager.cacheAnalysis('market1', 'Test 1', 0.5, analysis);

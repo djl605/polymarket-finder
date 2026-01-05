@@ -30,6 +30,20 @@ export class StateManager {
       if (fs.existsSync(this.stateFilePath)) {
         const data = fs.readFileSync(this.stateFilePath, 'utf-8');
         const state = JSON.parse(data);
+        
+        // Migrate old cached analyses to include researchVersion if missing
+        if (state.cachedAnalyses) {
+          Object.keys(state.cachedAnalyses).forEach(marketId => {
+            const cached = state.cachedAnalyses[marketId];
+            if (!cached.researchVersion) {
+              cached.researchVersion = '0.0'; // Default for analyses created before versioning
+            }
+            if (cached.analysis && !cached.analysis.researchVersion) {
+              cached.analysis.researchVersion = '0.0'; // Default for analyses created before versioning
+            }
+          });
+        }
+        
         console.log(`📁 Loaded state: ${Object.keys(state.alertedMarkets).length} previously alerted markets`);
         return state;
       }
@@ -130,6 +144,7 @@ export class StateManager {
       lastPrice: price,
       analysis,
       expiresAt: expiresAt.toISOString(),
+      researchVersion: analysis.researchVersion,
     };
   }
 

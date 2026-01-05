@@ -55,6 +55,11 @@ export class DiscordNotifier {
           inline: true,
         },
         {
+          name: '🔬 Research Version',
+          value: `v${analysis.researchVersion}`,
+          inline: true,
+        },
+        {
           name: '🔗 Links',
           value: [
             `[View on Polymarket](https://polymarket.com/event/${market.slug})`,

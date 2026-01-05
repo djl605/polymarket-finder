@@ -87,6 +87,7 @@ describe('Bot Orchestration', () => {
     summary: 'Summary text',
     confidence: 'high',
     expectedValue: 15.0, // High EV to trigger alert
+    researchVersion: '1.0',
   };
 
   beforeEach(() => {
