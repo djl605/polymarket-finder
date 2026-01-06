@@ -262,7 +262,7 @@ describe('DiscordNotifier', () => {
     it('should send summary notification successfully', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
-      await notifier.sendSummary(1000, 50, 10, 5, 125.5);
+      await notifier.sendSummary(1000, 50, 10, 5, 0, 125.5);
 
       expect(mockFetch).toHaveBeenCalledTimes(1);
       expect(mockFetch).toHaveBeenCalledWith(
@@ -280,7 +280,7 @@ describe('DiscordNotifier', () => {
     it('should include correct statistics', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
-      await notifier.sendSummary(1000, 50, 10, 5, 125.5);
+      await notifier.sendSummary(1000, 50, 10, 5, 0, 125.5);
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
       const fields = body.embeds[0].fields;
@@ -298,10 +298,23 @@ describe('DiscordNotifier', () => {
       expect(body.embeds[0].description).toContain('2m 5s');
     });
 
+    it('should include cooldown field when markets are skipped', async () => {
+      mockFetch.mockResolvedValue({ ok: true } as any);
+
+      await notifier.sendSummary(1000, 50, 10, 5, 3, 125.5);
+
+      const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
+      const fields = body.embeds[0].fields;
+
+      expect(fields).toHaveLength(5);
+      expect(fields[4].name).toBe('⏸️ Skipped (Cooldown)');
+      expect(fields[4].value).toBe('3');
+    });
+
     it('should format runtime correctly when less than a minute', async () => {
       mockFetch.mockResolvedValue({ ok: true } as any);
 
-      await notifier.sendSummary(1000, 50, 10, 5, 45.5);
+      await notifier.sendSummary(1000, 50, 10, 5, 0, 45.5);
 
       const body = JSON.parse(mockFetch.mock.calls[0][1]?.body as string);
       
@@ -313,7 +326,7 @@ describe('DiscordNotifier', () => {
       mockFetch.mockRejectedValue(new Error('Network error'));
 
       // Should not throw
-      await notifier.sendSummary(1000, 50, 10, 5, 125.5);
+      await notifier.sendSummary(1000, 50, 10, 5, 0, 125.5);
 
       expect(console.error).toHaveBeenCalled();
     });

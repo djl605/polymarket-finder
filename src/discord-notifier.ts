@@ -105,6 +105,7 @@ export class DiscordNotifier {
     screenedMarkets: number,
     newAnalyses: number,
     cachedAnalyses: number,
+    skippedCooldown: number,
     runtimeSeconds: number
   ): Promise<void> {
     try {
@@ -115,32 +116,42 @@ export class DiscordNotifier {
         ? `${runtimeMinutes}m ${runtimeSecs}s` 
         : `${runtimeSecs}s`;
 
+      const fields = [
+        {
+          name: '📊 Markets Screened',
+          value: totalMarkets.toString(),
+          inline: true,
+        },
+        {
+          name: '✓ Passed Pre-Screening',
+          value: screenedMarkets.toString(),
+          inline: true,
+        },
+        {
+          name: '🆕 New AI Analyses',
+          value: newAnalyses.toString(),
+          inline: true,
+        },
+        {
+          name: '♻️ Cached Analyses',
+          value: cachedAnalyses.toString(),
+          inline: true,
+        },
+      ];
+
+      if (skippedCooldown > 0) {
+        fields.push({
+          name: '⏸️ Skipped (Cooldown)',
+          value: skippedCooldown.toString(),
+          inline: true,
+        });
+      }
+
       const embed = {
         title: '✅ Scan Complete',
         description: `Completed in **${runtimeStr}**`,
         color: 0x5865F2, // Discord blue
-        fields: [
-          {
-            name: '📊 Markets Screened',
-            value: totalMarkets.toString(),
-            inline: true,
-          },
-          {
-            name: '✓ Passed Pre-Screening',
-            value: screenedMarkets.toString(),
-            inline: true,
-          },
-          {
-            name: '🆕 New AI Analyses',
-            value: newAnalyses.toString(),
-            inline: true,
-          },
-          {
-            name: '♻️ Cached Analyses',
-            value: cachedAnalyses.toString(),
-            inline: true,
-          },
-        ],
+        fields,
         timestamp: new Date().toISOString(),
         footer: {
           text: 'Polymarket Scanner Bot',

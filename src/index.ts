@@ -62,7 +62,7 @@ export async function main() {
     if (screenedMarkets.length === 0) {
       console.log('✅ No opportunities found this scan');
       const totalRuntime = (Date.now() - mainStartTime) / 1000;
-      await notifier.sendSummary(totalFetched, totalScreened, 0, 0, totalRuntime);
+      await notifier.sendSummary(totalFetched, totalScreened, 0, 0, 0, totalRuntime);
       return;
     }
 
@@ -216,7 +216,7 @@ export async function main() {
 
     // Send summary
     const totalRuntime = (Date.now() - mainStartTime) / 1000;
-    await notifier.sendSummary(totalFetched, totalScreened, newAnalysesCount, cachedAnalysesCount, totalRuntime);
+    await notifier.sendSummary(totalFetched, totalScreened, newAnalysesCount, cachedAnalysesCount, skippedCount, totalRuntime);
 
     // Print stats
     const stats = stateManager.getStats();

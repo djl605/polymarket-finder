@@ -194,7 +194,7 @@ describe('Bot Orchestration', () => {
 
       const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
       expect(mockNotifier.prototype.sendMarketAlert).not.toHaveBeenCalled();
-      expect(mockNotifier.prototype.sendSummary).toHaveBeenCalledWith(100, 0, 0, 0, expect.any(Number));
+      expect(mockNotifier.prototype.sendSummary).toHaveBeenCalledWith(100, 0, 0, 0, 0, expect.any(Number));
     });
 
     it('should use cached analysis when available', async () => {
