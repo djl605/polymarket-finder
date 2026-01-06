@@ -84,69 +84,75 @@ export async function main() {
       usedCache: boolean;
     }
 
+    // Process all markets concurrently
+    const marketsToAnalyze = screenedMarkets
+      .filter(market => !stateManager.hasRecentlyAlerted(market.conditionId, config.alertCooldownDays));
+
+    const skippedCount = screenedMarkets.length - marketsToAnalyze.length;
     // Track progress
-    let completed = 0;
+    let completed = skippedCount;
     const total = screenedMarkets.length;
     const startTime = Date.now();
+    
 
-    // Process all markets concurrently
-    const analysisPromises = screenedMarkets.map(async (market) => {
-      const logs: string[] = [];
-      const marketId = market.conditionId;
-      const price = market.mainProbability;
+    const analysisPromises = marketsToAnalyze
+      .map(async (market) => {
+        const logs: string[] = [];
+        const marketId = market.conditionId;
+        const price = market.mainProbability;
 
-      // Calculate score and format reason string
-      const score = scorer.calculateScore(market);
-      const reason = scorer.buildReasonString(market);
-      const screenedMarket: ScreenedMarket = {
-        market,
-        reason,
-        score,
-      };
+        // Calculate score and format reason string
+        const score = scorer.calculateScore(market);
+        const reason = scorer.buildReasonString(market);
+        const screenedMarket: ScreenedMarket = {
+          market,
+          reason,
+          score,
+        };
 
-      logs.push(`📊 ${market.question.substring(0, 80)}...`);
-      logs.push(`   ${reason}`);
+        logs.push(`📊 ${market.question.substring(0, 80)}...`);
+        logs.push(`   ${reason}`);
 
-      // Check for cached analysis
-      let analysis: AIAnalysis;
-      let usedCache = false;
-      if (stateManager.isCachedAnalysisFresh(marketId)) {
-        const cached = stateManager.getCachedAnalysis(marketId)!;
-        analysis = cached.analysis;
-        logs.push(`   ♻️  Using cached analysis (${Math.round((Date.now() - new Date(cached.lastAnalyzed).getTime()) / (1000 * 60 * 60))}h old)`);
-        usedCache = true;
-      } else {
-        // Run AI analysis (pass logs buffer to keep organized)
-        analysis = await aiResearcher.analyzeMarket(screenedMarket, logs);
-        logs.push(`   AI: ${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢`);
-        
-        // Cache the analysis (but NOT if it's a failed analysis)
-        if (!analysis.fullAnalysis.startsWith('Analysis failed:')) {
-          stateManager.cacheAnalysis(marketId, market.question, price, analysis);
+        // Check for cached analysis
+        let analysis: AIAnalysis;
+        let usedCache = false;
+        if (stateManager.isCachedAnalysisFresh(marketId)) {
+          const cached = stateManager.getCachedAnalysis(marketId)!;
+          analysis = cached.analysis;
+          logs.push(`   ♻️  Using cached analysis (${Math.round((Date.now() - new Date(cached.lastAnalyzed).getTime()) / (1000 * 60 * 60))}h old)`);
+          usedCache = true;
+        } else {
+          // Run AI analysis (pass logs buffer to keep organized)
+          analysis = await aiResearcher.analyzeMarket(screenedMarket, logs);
+          logs.push(`   AI: ${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢`);
+          
+          // Cache the analysis (but NOT if it's a failed analysis)
+          if (!analysis.fullAnalysis.startsWith('Analysis failed:')) {
+            stateManager.cacheAnalysis(marketId, market.question, price, analysis);
+          }
         }
-      }
 
-      logs.push(''); // Empty line between markets
+        logs.push(''); // Empty line between markets
 
-      for (const log of logs) {
-        console.log(log);
-      }
+        for (const log of logs) {
+          console.log(log);
+        }
 
-      // Update progress
-      completed++;
-      const percent = Math.round((completed / total) * 100);
-      const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-      process.stderr.write(`\r⏳ Progress: ${completed}/${total} (${percent}%) - ${elapsed}s elapsed`);
+        // Update progress
+        completed++;
+        const percent = Math.round((completed / total) * 100);
+        const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+        process.stderr.write(`\r⏳ Progress: ${completed}/${total} (${percent}%) - ${elapsed}s elapsed`);
 
-      return {
-        analyzedMarket: {
-          screenedMarket,
-          analysis,
-        },
-        logs,
-        usedCache,
-      };
-    });
+        return {
+          analyzedMarket: {
+            screenedMarket,
+            analysis,
+          },
+          logs,
+          usedCache,
+        };
+      });
 
     // Wait for all analyses to complete
     const results: AnalysisResult[] = await Promise.all(analysisPromises);
@@ -162,7 +168,7 @@ export async function main() {
     
     // Final progress update
     const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
-    process.stderr.write(`\r✅ Completed ${total} market${total === 1 ? '' : 's'} in ${totalTime}s\n\n`);
+    process.stderr.write(`\r✅ Completed ${total} market${total === 1 ? '' : 's'} in ${totalTime}s${skippedCount > 0 ? ` (${skippedCount} skipped due to cooldown)` : ''}\n\n`);
 
     // Extract analyzed markets for further processing
     const analyzedMarkets: AnalyzedMarket[] = results.map(r => r.analyzedMarket);
@@ -179,11 +185,6 @@ export async function main() {
 
       // Skip if expected value is not high enough (threshold: 10 cents)
       if (analysis.expectedValue <= 10) {
-        continue;
-      }
-
-      // Skip if we've alerted recently (within cooldown period)
-      if (stateManager.hasRecentlyAlerted(marketId, config.alertCooldownDays)) {
         continue;
       }
 

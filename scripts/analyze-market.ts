@@ -2,6 +2,7 @@ import * as dotenv from 'dotenv';
 import fetch from 'node-fetch';
 import { AIResearcher } from '../src/ai-researcher';
 import { MarketFetcher } from '../src/market-fetcher';
+import { StateManager } from '../src/state-manager';
 import { ScreenedMarket } from '../src/types';
 
 // Load environment variables

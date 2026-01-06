@@ -217,12 +217,24 @@ describe('Bot Orchestration', () => {
       expect(mockNotifier.prototype.sendMarketAlert).toHaveBeenCalled();
     });
 
-    it('should respect alert cooldown', async () => {
+    it('should skip AI analysis for markets in cooldown', async () => {
       const mockStateManager = StateManager as jest.MockedClass<typeof StateManager>;
       mockStateManager.prototype.hasRecentlyAlerted = jest.fn().mockReturnValue(true);
+      mockStateManager.prototype.getCachedAnalysis = jest.fn().mockReturnValue({
+        marketId: 'cond1',
+        question: 'Test?',
+        lastAnalyzed: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString(), // 2 days ago
+        lastPrice: 0.5,
+        analysis: mockAnalysis,
+      });
 
       await main();
 
+      // Should skip AI analysis entirely for markets in cooldown
+      const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
+      expect(mockResearcher.prototype.analyzeMarket).not.toHaveBeenCalled();
+
+      // And should not send alert
       const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
       expect(mockNotifier.prototype.sendMarketAlert).not.toHaveBeenCalled();
     });
