@@ -11,6 +11,7 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "test:discord": "ts-node scripts/test-discord.ts",
+    "analyze-market": "ts-node scripts/analyze-market.ts",
     "type-check": "npx tsc --noEmit"
   },
   "keywords": [

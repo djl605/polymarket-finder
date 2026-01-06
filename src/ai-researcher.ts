@@ -45,8 +45,9 @@ export class AIResearcher {
    * Returns a default "skip" analysis if any errors occur
    * @param screenedMarket - The market to analyze
    * @param logBuffer - Optional array to collect log messages instead of outputting directly
+   * @param logResearch - If true, log the full research context (for single-market debugging)
    */
-  async analyzeMarket(screenedMarket: ScreenedMarket, logBuffer?: string[]): Promise<AIAnalysis> {
+  async analyzeMarket(screenedMarket: ScreenedMarket, logBuffer?: string[], logResearch: boolean = false): Promise<AIAnalysis> {
     while (this.activeCalls >= this.maxConcurrentCalls) {
       await this.sleep(50);
     }
@@ -76,6 +77,15 @@ export class AIResearcher {
       // Use Exa's context string if available, otherwise format manually
       const researchContext = exaContext || this.formatExaResults(exaResults);
       log(`   📚 Found ${exaResults.length} relevant sources`);
+
+      // Log the full research context if requested (for single-market debugging)
+      if (logResearch && researchContext) {
+        log(`\n${'='.repeat(80)}`);
+        log(`RESEARCH CONTEXT`);
+        log(`${'='.repeat(80)}`);
+        log(researchContext);
+        log(`${'='.repeat(80)}\n`);
+      }
 
       // Step 3: Use o4-mini for reasoning
       log(`   🤖 Running AI reasoning...`);

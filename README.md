@@ -89,6 +89,61 @@ Test Discord webhook:
 npm run test:discord
 ```
 
+## Analyze a Specific Market
+
+You can run AI analysis on a specific market without going through the normal bot workflow (no pre-screening, caching, or Discord notifications).
+
+### Via npm command
+
+```bash
+# Using the full Polymarket URL (easiest!)
+npm run analyze-market https://polymarket.com/event/will-bitcoin-hit-100k
+
+# Or just the slug from the URL
+npm run analyze-market will-bitcoin-hit-100k
+
+# For multi-outcome markets, specify which outcome to analyze:
+npm run analyze-market https://polymarket.com/event/most-rushing-yards-by-a-rookie-rb "Kyle Monangai"
+npm run analyze-market most-rushing-yards-by-a-rookie-rb "Ashton Jeanty"
+```
+
+**Required environment variables:**
+- `OPENAI_API_KEY` - Your OpenAI API key
+- `EXA_API_KEY` - Your Exa API key
+
+**Optional environment variables:**
+- `VERBOSE_LOGS=true` - Enable verbose logging to see the full AI response
+
+### Via GitHub Actions
+
+1. Go to the "Actions" tab in your GitHub repository
+2. Select "Analyze Specific Market" workflow
+3. Click "Run workflow"
+4. Enter the market URL, slug, or search keywords
+5. Click "Run workflow"
+
+The analysis results will be displayed in the GitHub Actions logs.
+
+**Required secrets:**
+- `OPENAI_API_KEY` - Your OpenAI API key  
+- `EXA_API_KEY` - Your Exa API key
+
+### What it does
+
+This feature:
+- ✅ Fetches the specified market from Polymarket
+- ✅ Runs AI research using Exa
+- ✅ Performs AI reasoning using OpenAI o4-mini
+- ✅ Logs the complete analysis to the console
+- ✅ Handles both binary markets (Yes/No) and multi-outcome markets
+- ❌ Does NOT check pre-screening criteria
+- ❌ Does NOT use or save to cache
+- ❌ Does NOT send Discord notifications
+
+**Note on multi-outcome markets:** For markets with multiple possible outcomes (e.g., "Who will win?" or "Which party wins?" - even if just 2 options), the script will list all outcomes and prompt you to specify which one to analyze. Add the outcome name as a second parameter.
+
+Perfect for ad-hoc analysis of interesting markets!
+
 ## Testing
 
 ```bash
@@ -127,7 +182,12 @@ polymarket-scanner/
 │   ├── state-manager.ts            # State persistence
 │   ├── research-file-manager.ts    # Research file storage
 │   └── types.ts                    # TypeScript types
-├── .github/workflows/scan.yml      # GitHub Actions
+├── scripts/
+│   ├── test-discord.ts             # Discord webhook test
+│   └── analyze-market.ts           # Single market analysis
+├── .github/workflows/
+│   ├── scan.yml                    # Scheduled bot runs
+│   └── analyze-market.yml          # Manual market analysis
 ├── package.json
 ├── tsconfig.json
 └── README.md

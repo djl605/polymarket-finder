@@ -1,0 +1,43 @@
+name: Analyze Specific Market
+
+on:
+  workflow_dispatch:
+    inputs:
+      market_id:
+        description: 'Market identifier (URL or slug)'
+        required: true
+        type: string
+      outcome:
+        description: 'Outcome name (for multi-outcome markets, e.g., "Republican" or "Kyle Monangai")'
+        required: false
+        type: string
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run market analysis
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          VERBOSE_LOGS: 'true'
+        run: |
+          if [ -z "${{ inputs.outcome }}" ]; then
+            npm run analyze-market "${{ inputs.market_id }}"
+          else
+            npm run analyze-market "${{ inputs.market_id }}" "${{ inputs.outcome }}"
+          fi
+

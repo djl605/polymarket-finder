@@ -53,7 +53,7 @@ export class MarketFetcher {
           }
 
           // Enrich the market with calculated fields
-          const market = this.enrichMarket(rawMarket);
+          const market = MarketFetcher.enrichMarketData(rawMarket);
 
           if (!this.meetsAllCriteria(market, criteria)) {
             continue;
@@ -132,20 +132,19 @@ export class MarketFetcher {
   /**
    * Process a single market with calculated metrics and order book data from Gamma API
    */
-  private enrichMarket(market: any): EnrichedMarket {
+  static enrichMarketData(market: any): EnrichedMarket {
     const now = new Date();
     const createdAt = new Date(market.startDate || market.createdAt || now);
     const ageInDays = (now.getTime() - createdAt.getTime()) / (1000 * 60 * 60 * 24);
 
     // Get outcome prices (probabilities)
-    // Note: outcomePrices comes as a JSON string from the API, e.g., "[\"0.6\", \"0.4\"]"
     const outcomePricesRaw = market.outcomePrices || '["0.5", "0.5"]';
     const outcomePrices = typeof outcomePricesRaw === 'string' 
       ? JSON.parse(outcomePricesRaw) 
       : outcomePricesRaw;
     const mainProbability = parseFloat(outcomePrices[0] || '0.5');
 
-    // Parse outcomes (also comes as JSON string)
+    // Parse outcomes
     const outcomesRaw = market.outcomes || '["Yes", "No"]';
     const outcomes = typeof outcomesRaw === 'string' 
       ? JSON.parse(outcomesRaw) 
@@ -160,8 +159,7 @@ export class MarketFetcher {
     const conditionId = market.condition_id || market.conditionId || '';
     const slug = market.events?.[0]?.slug || market.slug || '';
 
-    // Get order book data directly from Gamma API
-    // The Gamma API includes bestBid, bestAsk, and spread in the response
+    // Get order book data
     const bestBid = parseFloat(market.bestBid || '0');
     const bestAsk = parseFloat(market.bestAsk || '1');
     const spreadRaw = bestAsk - bestBid;
