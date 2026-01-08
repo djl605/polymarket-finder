@@ -439,6 +439,80 @@ describe('StateManager', () => {
 
   });
 
+  describe('isCachedAnalysisOlderThan', () => {
+    beforeEach(() => {
+      stateManager = new StateManager(testStateFile);
+    });
+
+    it('should return false for non-existent cache', () => {
+      expect(stateManager.isCachedAnalysisOlderThan('nonexistent', 1)).toBe(false);
+    });
+
+    it('should return false for cache newer than specified days', () => {
+      const analysis: AIAnalysis = {
+        marketId: 'market1',
+        question: 'Test',
+        fullAnalysis: 'Full analysis',
+        summary: 'Summary',
+        confidence: 'medium',
+        expectedValue: 5.0,
+        researchVersion: '1.0',
+      };
+      
+      stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
+      expect(stateManager.isCachedAnalysisOlderThan('market1', 1)).toBe(false);
+    });
+
+    it('should return true for cache older than specified days', () => {
+      const analysis: AIAnalysis = {
+        marketId: 'market1',
+        question: 'Test',
+        fullAnalysis: 'Full analysis',
+        summary: 'Summary',
+        confidence: 'medium',
+        expectedValue: 5.0,
+        researchVersion: '1.0',
+      };
+      
+      stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
+      
+      // Manually set old lastAnalyzed date
+      const cached = stateManager.getCachedAnalysis('market1');
+      if (cached) {
+        const oldDate = new Date();
+        oldDate.setDate(oldDate.getDate() - 2); // 2 days ago
+        cached.lastAnalyzed = oldDate.toISOString();
+      }
+      
+      expect(stateManager.isCachedAnalysisOlderThan('market1', 1)).toBe(true);
+    });
+
+    it('should return false for cache exactly at the threshold', () => {
+      const analysis: AIAnalysis = {
+        marketId: 'market1',
+        question: 'Test',
+        fullAnalysis: 'Full analysis',
+        summary: 'Summary',
+        confidence: 'medium',
+        expectedValue: 5.0,
+        researchVersion: '1.0',
+      };
+      
+      stateManager.cacheAnalysis('market1', 'Test', 0.5, analysis);
+      
+      // Manually set lastAnalyzed date to exactly 1 day ago
+      const cached = stateManager.getCachedAnalysis('market1');
+      if (cached) {
+        const exactlyOneDayAgo = new Date();
+        exactlyOneDayAgo.setDate(exactlyOneDayAgo.getDate() - 1);
+        cached.lastAnalyzed = exactlyOneDayAgo.toISOString();
+      }
+      
+      // Should return false because it's not OLDER than 1 day, it's exactly 1 day
+      expect(stateManager.isCachedAnalysisOlderThan('market1', 1)).toBe(false);
+    });
+  });
+
   describe('cleanupOldData', () => {
     beforeEach(() => {
       stateManager = new StateManager(testStateFile);

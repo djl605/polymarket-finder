@@ -302,5 +302,122 @@ describe('Bot Orchestration', () => {
       const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
       expect(mockNotifier.prototype.sendMarketAlert).toHaveBeenCalled();
     });
+
+    it('should refresh analysis older than 1 day before alerting', async () => {
+      // Setup: market with high EV and stale cached analysis
+      const staleAnalysis: AIAnalysis = {
+        ...mockAnalysis,
+        expectedValue: 15.0,
+        summary: 'Old summary',
+      };
+
+      const refreshedAnalysis: AIAnalysis = {
+        ...mockAnalysis,
+        expectedValue: 18.0,
+        summary: 'Refreshed summary',
+      };
+
+      const mockStateManager = StateManager as jest.MockedClass<typeof StateManager>;
+      mockStateManager.prototype.isCachedAnalysisFresh = jest.fn().mockReturnValue(false); // Not using cache during analysis phase
+      mockStateManager.prototype.isCachedAnalysisOlderThan = jest.fn().mockReturnValue(true); // Analysis is > 1 day old
+      mockStateManager.prototype.hasBeenAlerted = jest.fn().mockReturnValue(false);
+
+      // First call returns stale analysis, second call returns refreshed
+      const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
+      mockResearcher.prototype.analyzeMarket = jest.fn()
+        .mockResolvedValueOnce(staleAnalysis) // Initial analysis
+        .mockResolvedValueOnce(refreshedAnalysis); // Refresh
+
+      await main();
+
+      // Should have called analyzeMarket twice: once for initial, once for refresh
+      expect(mockResearcher.prototype.analyzeMarket).toHaveBeenCalledTimes(2);
+
+      // Should cache the refreshed analysis
+      expect(mockStateManager.prototype.cacheAnalysis).toHaveBeenCalledWith(
+        'cond1',
+        'Test market?',
+        0.5,
+        refreshedAnalysis
+      );
+
+      // Should alert with the refreshed analysis
+      const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
+      expect(mockNotifier.prototype.sendMarketAlert).toHaveBeenCalledWith(
+        expect.any(Object),
+        refreshedAnalysis,
+        false
+      );
+    });
+
+    it('should not refresh analysis newer than 1 day', async () => {
+      const recentAnalysis: AIAnalysis = {
+        ...mockAnalysis,
+        expectedValue: 15.0,
+        summary: 'Recent summary',
+      };
+
+      const mockStateManager = StateManager as jest.MockedClass<typeof StateManager>;
+      mockStateManager.prototype.isCachedAnalysisFresh = jest.fn().mockReturnValue(false);
+      mockStateManager.prototype.isCachedAnalysisOlderThan = jest.fn().mockReturnValue(false); // Analysis is < 1 day old
+      mockStateManager.prototype.hasBeenAlerted = jest.fn().mockReturnValue(false);
+
+      const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
+      mockResearcher.prototype.analyzeMarket = jest.fn().mockResolvedValue(recentAnalysis);
+
+      await main();
+
+      // Should only call analyzeMarket once (no refresh)
+      expect(mockResearcher.prototype.analyzeMarket).toHaveBeenCalledTimes(1);
+
+      // Should still alert with the recent analysis
+      const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
+      expect(mockNotifier.prototype.sendMarketAlert).toHaveBeenCalledWith(
+        expect.any(Object),
+        recentAnalysis,
+        false
+      );
+    });
+
+    it('should not cache failed analysis during refresh', async () => {
+      const staleAnalysis: AIAnalysis = {
+        ...mockAnalysis,
+        expectedValue: 15.0,
+      };
+
+      const failedAnalysis: AIAnalysis = {
+        marketId: 'cond1',
+        question: 'Test market?',
+        fullAnalysis: 'Analysis failed: API error',
+        summary: 'Analysis failed due to API error',
+        confidence: 'low',
+        expectedValue: 0,
+        researchVersion: '0.0',
+      };
+
+      const mockStateManager = StateManager as jest.MockedClass<typeof StateManager>;
+      mockStateManager.prototype.isCachedAnalysisFresh = jest.fn().mockReturnValue(false);
+      mockStateManager.prototype.isCachedAnalysisOlderThan = jest.fn().mockReturnValue(true);
+      mockStateManager.prototype.hasBeenAlerted = jest.fn().mockReturnValue(false);
+
+      const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
+      mockResearcher.prototype.analyzeMarket = jest.fn()
+        .mockResolvedValueOnce(staleAnalysis)
+        .mockResolvedValueOnce(failedAnalysis); // Refresh fails
+
+      await main();
+
+      // Should not cache the failed analysis
+      const mockStateManager2 = StateManager as jest.MockedClass<typeof StateManager>;
+      const cacheAnalysisCalls = (mockStateManager2.prototype.cacheAnalysis as jest.Mock).mock.calls;
+      
+      // Should have cached the initial analysis but not the failed refresh
+      expect(cacheAnalysisCalls.length).toBe(1);
+      expect(cacheAnalysisCalls[0][3]).toEqual(staleAnalysis);
+
+      // Should not send alert since EV is 0 for failed analysis
+      const mockNotifier = DiscordNotifier as jest.MockedClass<typeof DiscordNotifier>;
+      expect(mockNotifier.prototype.sendMarketAlert).not.toHaveBeenCalled();
+    });
   });
 });

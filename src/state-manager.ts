@@ -122,6 +122,20 @@ export class StateManager {
   }
 
   /**
+   * Check if cached analysis is older than N days
+   */
+  isCachedAnalysisOlderThan(marketId: string, days: number): boolean {
+    const cached = this.getCachedAnalysis(marketId);
+    if (!cached) return false;
+
+    const now = new Date();
+    const analyzedDate = new Date(cached.lastAnalyzed);
+    const daysSinceAnalysis = (now.getTime() - analyzedDate.getTime()) / (1000 * 60 * 60 * 24);
+
+    return daysSinceAnalysis > days;
+  }
+
+  /**
    * Save analysis to cache
    */
   cacheAnalysis(

@@ -180,7 +180,7 @@ export async function main() {
 
     console.log('📣 Sending alerts for top opportunities...\n');
 
-    for (const { screenedMarket, analysis } of analyzedMarkets) {
+    for (let { screenedMarket, analysis } of analyzedMarkets) {
       const marketId = screenedMarket.market.conditionId;
 
       // Skip if expected value is not high enough (threshold: 10 cents)
@@ -193,9 +193,39 @@ export async function main() {
         break;
       }
 
+      // Check if the analysis is more than 1 day old and refresh if needed
+      if (stateManager.isCachedAnalysisOlderThan(marketId, 1)) {
+        console.log(`🎯 ${screenedMarket.market.question.substring(0, 80)}...`);
+        console.log(`   🔄 Analysis is more than 1 day old, refreshing...`);
+        
+        // Refresh the analysis
+        const refreshedAnalysis = await aiResearcher.analyzeMarket(screenedMarket);
+        console.log(`   ✅ Refreshed: ${refreshedAnalysis.confidence} confidence, EV: ${refreshedAnalysis.expectedValue.toFixed(1)}¢`);
+        
+        // Update the cache with the refreshed analysis (but NOT if it's a failed analysis)
+        if (!refreshedAnalysis.fullAnalysis.startsWith('Analysis failed:')) {
+          stateManager.cacheAnalysis(
+            marketId,
+            screenedMarket.market.question,
+            screenedMarket.market.mainProbability,
+            refreshedAnalysis
+          );
+        }
+        
+        // Use the refreshed analysis for the alert
+        analysis = refreshedAnalysis;
+        
+        // Re-check if the refreshed analysis still meets the EV threshold
+        if (analysis.expectedValue <= 10) {
+          console.log(`   ⏭️  Skipping alert (refreshed EV too low)\n`);
+          continue;
+        }
+      } else {
+        console.log(`🎯 ${screenedMarket.market.question.substring(0, 80)}...`);
+      }
+
       const isRealert = stateManager.hasBeenAlerted(marketId);
       
-      console.log(`🎯 ${screenedMarket.market.question.substring(0, 80)}...`);
       console.log(`   ${analysis.confidence} confidence, EV: ${analysis.expectedValue.toFixed(1)}¢${isRealert ? ' [RE-ALERT]' : ''}`);
 
       await notifier.sendMarketAlert(screenedMarket, analysis, isRealert);
