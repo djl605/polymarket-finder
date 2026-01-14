@@ -338,34 +338,37 @@ Use chain-of-thought reasoning to analyze whether this market is likely misprice
 
 1. CONTEXT ANALYSIS: What is this market asking about? What would need to happen for it to resolve as YES vs NO?
 
-2. BASE RATE: What is a reasonable base rate or prior probability for this type of event?
+2. EVIDENCE EVALUATION: Based on the research findings above, what SPECIFIC EVIDENCE exists that indicates the current price of ${(probability * 100).toFixed(1)}% is incorrect?
+   - Look for concrete facts, events, or information that point toward a different probability
+   - Evaluate source credibility and recency
+   - Focus on affirmative evidence of mispricing
+   - Avoid reasoning like "there's no evidence supporting the current price" - that's not evidence FOR a mispricing
 
-3. EVIDENCE EVALUATION: Based on the research findings above, what evidence exists that would move the probability away from the base rate? Evaluate source credibility and recency.
+3. MARKET PSYCHOLOGY: Why might this market have low volume? Is it genuinely overlooked, or is it just boring/obvious?
 
-4. MARKET PSYCHOLOGY: Why might this market have low volume? Is it genuinely overlooked, or is it just boring/obvious?
-
-5. MISPRICING ASSESSMENT: Given the current probability of ${(probability * 100).toFixed(1)}%, is there evidence of mispricing? If so, in which direction and by approximately how much?
+4. MISPRICING ASSESSMENT: Given the current probability of ${(probability * 100).toFixed(1)}%, and the specific evidence you identified above, is there a mispricing? If so, in which direction and by approximately how much?
 
    ⚠️ CRITICAL CHECK: If you believe there is a LARGE mispricing (>15 cents), especially if you think something is highly likely or guaranteed but the market doesn't price it that way, STOP and re-verify:
    - Do you truly understand the EXACT resolution criteria?
+       - If you believe the resolution criteria have already been met and the market is still very mispriced, that is a very strong indication that you are missing something (for example, the qualifying event might have happened before the beginning of the market).
    - Are there any edge cases, technicalities, or specific conditions in the market description that you might have missed?
    - Could there be a valid reason the market prices this differently than you expect?
    - Re-read the market question and description carefully before proceeding.
    
    Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions.
 
-6. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market by considering BOTH:
-   - PROBABILITY of mispricing: How likely is it that the market is actually mispriced? (0-100%)
+5. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market by considering BOTH:
+   - STRENGTH of evidence: How strong and reliable is the specific evidence you found? How confident are you that it indicates a mispricing? (0-100%)
    - MAGNITUDE of mispricing: If mispriced, how large is the error? (cents)
-   - Expected value = (Probability of mispricing) × (Magnitude of mispricing)
+   - Expected value = (Strength of evidence) × (Magnitude of mispricing)
    
    Examples:
-   - 80% chance of 15 cents mispricing = 12 cents expected value
-   - 40% chance of 20 cents mispricing = 8 cents expected value
-   - 90% chance of 3 cents mispricing = 2.7 cents expected value
-   - 20% chance of 10 cents mispricing = 2 cents expected value
+   - 80% confidence in 15 cents mispricing = 12 cents expected value
+   - 40% confidence in 20 cents mispricing = 8 cents expected value
+   - 90% confidence in 3 cents mispricing = 2.7 cents expected value
+   - 20% confidence in 10 cents mispricing = 2 cents expected value
 
-7. CONFIDENCE: Rate your confidence in this assessment.
+6. CONFIDENCE: Rate your confidence in this assessment.
    - Use EXACTLY one of: low, medium, high (no other values or combinations)
 
 IMPORTANT: You must end your response with these three lines using ONLY the exact values specified:
