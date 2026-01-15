@@ -86,7 +86,7 @@ export async function main() {
 
     // Process all markets concurrently
     const marketsToAnalyze = screenedMarkets
-      .filter(market => !stateManager.hasRecentlyAlerted(market.conditionId, config.alertCooldownDays));
+      .filter(market => stateManager.canAlert(market.conditionId, config.alertCooldownDays));
 
     const skippedCount = screenedMarkets.length - marketsToAnalyze.length;
     // Track progress
@@ -168,7 +168,7 @@ export async function main() {
     
     // Final progress update
     const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
-    process.stderr.write(`\r✅ Completed ${total} market${total === 1 ? '' : 's'} in ${totalTime}s${skippedCount > 0 ? ` (${skippedCount} skipped due to cooldown)` : ''}\n\n`);
+    process.stderr.write(`\r✅ Completed ${total} market${total === 1 ? '' : 's'} in ${totalTime}s${skippedCount > 0 ? ` (${skippedCount} skipped due to cooldown/max alerts)` : ''}\n\n`);
 
     // Extract analyzed markets for further processing
     const analyzedMarkets: AnalyzedMarket[] = results.map(r => r.analyzedMarket);

@@ -43,6 +43,7 @@ describe('StateManager', () => {
             question: 'Test market',
             alertedAt: '2024-01-01T00:00:00.000Z',
             price: 0.5,
+            alertCount: 1,
           },
         },
         cachedAnalyses: {},
@@ -68,7 +69,7 @@ describe('StateManager', () => {
     it('should save state to file', () => {
       stateManager = new StateManager(testStateFile);
       
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test market',
         alertedAt: new Date().toISOString(),
@@ -130,6 +131,33 @@ describe('StateManager', () => {
       expect(cached?.researchVersion).toBe('0.0');
       expect(cached?.analysis.researchVersion).toBe('0.0');
     });
+
+    it('should migrate old alerted markets to include alertCount', () => {
+      // Create an old state file without alertCount
+      const oldState = {
+        lastRun: new Date().toISOString(),
+        alertedMarkets: {
+          'market1': {
+            marketId: 'market1',
+            question: 'Test',
+            alertedAt: new Date().toISOString(),
+            price: 0.5,
+            // Missing alertCount - should be migrated to 1
+          }
+        },
+        cachedAnalyses: {}
+      };
+      
+      fs.writeFileSync(testStateFile, JSON.stringify(oldState, null, 2), 'utf-8');
+      
+      // Load the state - should trigger migration
+      const migratedStateManager = new StateManager(testStateFile);
+      
+      // Verify alertCount was added
+      migratedStateManager.saveState();
+      const savedData = JSON.parse(fs.readFileSync(testStateFile, 'utf-8'));
+      expect(savedData.alertedMarkets.market1.alertCount).toBe(1);
+    });
   });
 
   describe('hasBeenAlerted', () => {
@@ -142,7 +170,7 @@ describe('StateManager', () => {
     });
 
     it('should return true for alerted market', () => {
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: new Date().toISOString(),
@@ -164,7 +192,7 @@ describe('StateManager', () => {
     });
 
     it('should return true for recently alerted market', () => {
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: new Date().toISOString(),
@@ -179,7 +207,7 @@ describe('StateManager', () => {
       const oldDate = new Date();
       oldDate.setDate(oldDate.getDate() - 10);
       
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: oldDate.toISOString(),
@@ -195,7 +223,7 @@ describe('StateManager', () => {
       exactlySevenDaysAgo.setDate(exactlySevenDaysAgo.getDate() - 7);
       exactlySevenDaysAgo.setHours(exactlySevenDaysAgo.getHours() - 1); // Just over 7 days
       
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: exactlySevenDaysAgo.toISOString(),
@@ -207,13 +235,65 @@ describe('StateManager', () => {
     });
   });
 
+  describe('canAlert', () => {
+    beforeEach(() => {
+      stateManager = new StateManager(testStateFile);
+    });
+
+    it('should return true for market never alerted', () => {
+      expect(stateManager.canAlert('new-market', 7)).toBe(true);
+    });
+
+    it('should return false for market alerted twice', () => {
+      const alert = {
+        marketId: 'market1',
+        question: 'Test',
+        alertedAt: new Date().toISOString(),
+        price: 0.5,
+      };
+      
+      // Alert twice
+      stateManager.markAsAlerted(alert);
+      stateManager.markAsAlerted(alert);
+      
+      expect(stateManager.canAlert('market1', 7)).toBe(false);
+    });
+
+    it('should return false for market alerted once within cooldown', () => {
+      const alert = {
+        marketId: 'market1',
+        question: 'Test',
+        alertedAt: new Date().toISOString(),
+        price: 0.5,
+      };
+      
+      stateManager.markAsAlerted(alert);
+      expect(stateManager.canAlert('market1', 7)).toBe(false);
+    });
+
+    it('should return true for market alerted once outside cooldown', () => {
+      const oldDate = new Date();
+      oldDate.setDate(oldDate.getDate() - 10);
+      
+      const alert = {
+        marketId: 'market1',
+        question: 'Test',
+        alertedAt: oldDate.toISOString(),
+        price: 0.5,
+      };
+      
+      stateManager.markAsAlerted(alert);
+      expect(stateManager.canAlert('market1', 7)).toBe(true);
+    });
+  });
+
   describe('markAsAlerted', () => {
     beforeEach(() => {
       stateManager = new StateManager(testStateFile);
     });
 
     it('should mark market as alerted', () => {
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test market',
         alertedAt: new Date().toISOString(),
@@ -224,8 +304,39 @@ describe('StateManager', () => {
       expect(stateManager.hasBeenAlerted('market1')).toBe(true);
     });
 
+    it('should set alertCount to 1 for first alert', () => {
+      const alert = {
+        marketId: 'market1',
+        question: 'Test',
+        alertedAt: new Date().toISOString(),
+        price: 0.5,
+      };
+      
+      stateManager.markAsAlerted(alert);
+      stateManager.saveState();
+      
+      const savedData = JSON.parse(fs.readFileSync(testStateFile, 'utf-8'));
+      expect(savedData.alertedMarkets.market1.alertCount).toBe(1);
+    });
+
+    it('should increment alertCount for subsequent alerts', () => {
+      const alert = {
+        marketId: 'market1',
+        question: 'Test',
+        alertedAt: new Date().toISOString(),
+        price: 0.5,
+      };
+      
+      stateManager.markAsAlerted(alert);
+      stateManager.markAsAlerted(alert);
+      stateManager.saveState();
+      
+      const savedData = JSON.parse(fs.readFileSync(testStateFile, 'utf-8'));
+      expect(savedData.alertedMarkets.market1.alertCount).toBe(2);
+    });
+
     it('should update lastRun timestamp', () => {
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: new Date().toISOString(),
@@ -239,15 +350,15 @@ describe('StateManager', () => {
       expect(savedData.lastRun).toBeDefined();
     });
 
-    it('should overwrite existing alert', () => {
-      const alert1: AlertedMarket = {
+    it('should overwrite existing alert data while incrementing count', () => {
+      const alert1 = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: '2024-01-01T00:00:00.000Z',
         price: 0.5,
       };
       
-      const alert2: AlertedMarket = {
+      const alert2 = {
         marketId: 'market1',
         question: 'Test Updated',
         alertedAt: '2024-01-02T00:00:00.000Z',
@@ -260,6 +371,7 @@ describe('StateManager', () => {
       
       const savedData = JSON.parse(fs.readFileSync(testStateFile, 'utf-8'));
       expect(savedData.alertedMarkets.market1.price).toBe(0.6);
+      expect(savedData.alertedMarkets.market1.alertCount).toBe(2);
     });
   });
 
@@ -522,14 +634,14 @@ describe('StateManager', () => {
       const oldDate = new Date();
       oldDate.setDate(oldDate.getDate() - 40);
       
-      const oldAlert: AlertedMarket = {
+      const oldAlert = {
         marketId: 'old-market',
         question: 'Old',
         alertedAt: oldDate.toISOString(),
         price: 0.5,
       };
       
-      const recentAlert: AlertedMarket = {
+      const recentAlert = {
         marketId: 'recent-market',
         question: 'Recent',
         alertedAt: new Date().toISOString(),
@@ -572,7 +684,7 @@ describe('StateManager', () => {
     });
 
     it('should not remove recent data', () => {
-      const alert: AlertedMarket = {
+      const alert = {
         marketId: 'market1',
         question: 'Test',
         alertedAt: new Date().toISOString(),
@@ -601,14 +713,14 @@ describe('StateManager', () => {
     });
 
     it('should count total alerts correctly', () => {
-      const alert1: AlertedMarket = {
+      const alert1 = {
         marketId: 'market1',
         question: 'Test 1',
         alertedAt: new Date().toISOString(),
         price: 0.5,
       };
       
-      const alert2: AlertedMarket = {
+      const alert2 = {
         marketId: 'market2',
         question: 'Test 2',
         alertedAt: new Date().toISOString(),
@@ -629,14 +741,14 @@ describe('StateManager', () => {
       const oldDate = new Date();
       oldDate.setDate(oldDate.getDate() - 10);
       
-      const recentAlert: AlertedMarket = {
+      const recentAlert = {
         marketId: 'recent',
         question: 'Recent',
         alertedAt: recentDate.toISOString(),
         price: 0.5,
       };
       
-      const oldAlert: AlertedMarket = {
+      const oldAlert = {
         marketId: 'old',
         question: 'Old',
         alertedAt: oldDate.toISOString(),

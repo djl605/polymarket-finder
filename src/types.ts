@@ -95,13 +95,20 @@ export interface CachedAnalysis {
 }
 
 /**
- * Record of an alerted market
+ * Input for marking a market as alerted (alertCount is managed internally)
  */
-export interface AlertedMarket {
+export interface AlertMarketInput {
   marketId: string;
   question: string;
   alertedAt: string;
   price: number;
+}
+
+/**
+ * Record of an alerted market (stored in state)
+ */
+export interface AlertedMarket extends AlertMarketInput {
+  alertCount: number;
 }
 
 /**

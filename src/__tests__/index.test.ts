@@ -119,6 +119,7 @@ describe('Bot Orchestration', () => {
     mockStateManager.prototype.cleanupOldData = jest.fn();
     mockStateManager.prototype.isCachedAnalysisFresh = jest.fn().mockReturnValue(false);
     mockStateManager.prototype.hasRecentlyAlerted = jest.fn().mockReturnValue(false);
+    mockStateManager.prototype.canAlert = jest.fn().mockReturnValue(true);
     mockStateManager.prototype.cacheAnalysis = jest.fn();
     mockStateManager.prototype.markAsAlerted = jest.fn();
     mockStateManager.prototype.saveState = jest.fn();
@@ -217,9 +218,9 @@ describe('Bot Orchestration', () => {
       expect(mockNotifier.prototype.sendMarketAlert).toHaveBeenCalled();
     });
 
-    it('should skip AI analysis for markets in cooldown', async () => {
+    it('should skip AI analysis for markets that cannot be alerted', async () => {
       const mockStateManager = StateManager as jest.MockedClass<typeof StateManager>;
-      mockStateManager.prototype.hasRecentlyAlerted = jest.fn().mockReturnValue(true);
+      mockStateManager.prototype.canAlert = jest.fn().mockReturnValue(false);
       mockStateManager.prototype.getCachedAnalysis = jest.fn().mockReturnValue({
         marketId: 'cond1',
         question: 'Test?',
@@ -230,7 +231,7 @@ describe('Bot Orchestration', () => {
 
       await main();
 
-      // Should skip AI analysis entirely for markets in cooldown
+      // Should skip AI analysis entirely for markets that cannot be alerted
       const mockResearcher = AIResearcher as jest.MockedClass<typeof AIResearcher>;
       expect(mockResearcher.prototype.analyzeMarket).not.toHaveBeenCalled();
 

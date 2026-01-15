@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import { BotState, AlertedMarket, CachedAnalysis, AIAnalysis } from './types';
+import { BotState, AlertMarketInput, CachedAnalysis, AIAnalysis } from './types';
 
 /**
  * Manages bot state persistence using a JSON file
@@ -40,6 +40,16 @@ export class StateManager {
             }
             if (cached.analysis && !cached.analysis.researchVersion) {
               cached.analysis.researchVersion = '0.0'; // Default for analyses created before versioning
+            }
+          });
+        }
+        
+        // Migrate old alerted markets to include alertCount if missing
+        if (state.alertedMarkets) {
+          Object.keys(state.alertedMarkets).forEach(marketId => {
+            const alert = state.alertedMarkets[marketId];
+            if (typeof alert.alertCount !== 'number') {
+              alert.alertCount = 1; // Default for markets alerted before alert count tracking
             }
           });
         }
@@ -95,10 +105,34 @@ export class StateManager {
   }
 
   /**
+   * Check if a market can be alerted (has been alerted less than 2 times and cooldown has passed)
+   */
+  canAlert(marketId: string, cooldownDays: number): boolean {
+    const alert = this.state.alertedMarkets[marketId];
+    
+    // Never alerted before - can alert
+    if (!alert) return true;
+    
+    // Already alerted 2 or more times - cannot alert
+    if (alert.alertCount >= 2) return false;
+    
+    // Alerted once, check cooldown
+    return !this.hasRecentlyAlerted(marketId, cooldownDays);
+  }
+
+  /**
    * Mark a market as alerted
    */
-  markAsAlerted(alertedMarket: AlertedMarket): void {
-    this.state.alertedMarkets[alertedMarket.marketId] = alertedMarket;
+  markAsAlerted(input: AlertMarketInput): void {
+    const existing = this.state.alertedMarkets[input.marketId];
+    
+    // If market was previously alerted, increment count; otherwise start at 1
+    const alertCount = existing ? existing.alertCount + 1 : 1;
+    
+    this.state.alertedMarkets[input.marketId] = {
+      ...input,
+      alertCount
+    };
     this.state.lastRun = new Date().toISOString();
   }
 
