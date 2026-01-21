@@ -11,7 +11,6 @@
  * - 0.0: Initial implementation with Exa SDK, deep search, context parameter
  * - 1.0: Major improvements by directly asking Exa for information relevant to the specific market question.
  * - 1.1: Focus on specific evidence and also hinted that if it thinks the resolution criteria have already been met, it's probably wrong.
- * - 2.0: Moved to using Exa research exclusively instead of Exa for search and ChatGPT for analysis.
  */
-export const RESEARCH_VERSION = '2.0';
+export const RESEARCH_VERSION = '1.1';
 
