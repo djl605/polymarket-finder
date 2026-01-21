@@ -1,19 +1,21 @@
-import fetch, { Response } from 'node-fetch';
 import Exa from 'exa-js';
 import { AIAnalysis, ScreenedMarket, ResearchContent } from './types';
 import { ResearchFileManager } from './research-file-manager';
 import { RESEARCH_VERSION } from './research-version';
 
-interface ExaResult {
-  title: string;
-  url: string;
-  publishedDate?: string;
-  author?: string;
-  text: string;
+/**
+ * Output schema for structured research results
+ */
+interface ResearchOutput {
+  analysis: string;
+  links: Array<{ url: string; description: string }>;
+  expectedValue: number;
+  summary: string;
+  confidence: 'low' | 'medium' | 'high';
 }
 
 /**
- * Uses Exa for web research + OpenAI o4-mini for reasoning
+ * Uses Exa's Research API for integrated web research + AI analysis
  */
 export class AIResearcher {
   private activeCalls = 0;
@@ -22,14 +24,17 @@ export class AIResearcher {
   private readonly verboseLogs: boolean;
   private readonly exaClient: Exa;
   
-  // Exa-specific rate limiting (5 QPS limit)
+  // Exa-specific rate limiting
   private activeExaCalls = 0;
-  private readonly maxConcurrentExaCalls = 5; // Stay under 5 QPS limit
+  private readonly maxConcurrentExaCalls = 5;
   private lastExaCallTime = 0;
-  private readonly minExaDelayMs = 250; // 4 calls per second max
+  private readonly minExaDelayMs = 250;
+  
+  // Research API polling settings
+  private readonly researchPollIntervalMs = 10000; // Poll every 10 seconds
+  private readonly researchMaxWaitMs = 300000; // Max 5 minutes
 
   constructor(
-    private openaiApiKey: string,
     exaApiKey: string,
     maxConcurrentCalls: number = 10,
     verboseLogs: boolean = false,
@@ -41,11 +46,11 @@ export class AIResearcher {
   }
 
   /**
-   * Analyze a screened market using web research + AI reasoning
+   * Analyze a screened market using Exa's Research API
    * Returns a default "skip" analysis if any errors occur
    * @param screenedMarket - The market to analyze
    * @param logBuffer - Optional array to collect log messages instead of outputting directly
-   * @param logResearch - If true, log the full research context (for single-market debugging)
+   * @param logResearch - If true, log the full research report (for single-market debugging)
    */
   async analyzeMarket(screenedMarket: ScreenedMarket, logBuffer?: string[], logResearch: boolean = false): Promise<AIAnalysis> {
     while (this.activeCalls >= this.maxConcurrentCalls) {
@@ -68,65 +73,106 @@ export class AIResearcher {
 
       log(`   🔍 Researching market...`);
 
-      // Step 1: Use Exa AI search to search for articles related to the market question.
-      const searchQuery = `Provide information that could be relevant to predicting the following question: ${market.question}`;
-      log(`   🔎 Search query: "${searchQuery}"`);
-
-      // Step 2: Perform web research using Exa
-      const { results: exaResults, context: exaContext } = await this.researchWithExa(searchQuery, logBuffer);
-      // Use Exa's context string if available, otherwise format manually
-      const researchContext = exaContext || this.formatExaResults(exaResults);
-      log(`   📚 Found ${exaResults.length} relevant sources`);
-
-      // Log the full research context if requested (for single-market debugging)
-      if (logResearch && researchContext) {
-        log(`\n${'='.repeat(80)}`);
-        log(`RESEARCH CONTEXT`);
-        log(`${'='.repeat(80)}`);
-        log(researchContext);
-        log(`${'='.repeat(80)}\n`);
-      }
-
-      // Step 3: Use o4-mini for reasoning
-      log(`   🤖 Running AI reasoning...`);
-      const prompt = this.buildReasoningPrompt(
+      // Build research instructions for Exa's Research API
+      const currentDate = new Date().toLocaleDateString('en-US', { 
+        year: 'numeric', 
+        month: 'long', 
+        day: 'numeric' 
+      });
+      
+      const instructions = this.buildResearchInstructions(
         market.question,
         market.description,
         reason,
         market.mainProbability,
-        researchContext
+        currentDate
       );
       
-      const response = await this.callReasoningModel(prompt);
+      log(`   🤖 Submitting research task to Exa...`);
+
+      // Use Exa's Research API (integrated search + analysis with structured output)
+      const { output: researchOutput, cost } = await this.performResearch(instructions, logBuffer);
       
-      // Log the full response for debugging (only if verbose logging is enabled)
-      if (this.verboseLogs) {
+      log(`   ✅ Research complete`);
+
+      // Log the full research analysis if requested (for single-market debugging)
+      if (logResearch && researchOutput.analysis) {
         log(`\n${'='.repeat(80)}`);
-        log(`AI RESPONSE FOR: ${market.question.substring(0, 70)}...`);
+        log(`RESEARCH ANALYSIS`);
         log(`${'='.repeat(80)}`);
-        log(response);
+        log(researchOutput.analysis);
+        log(`${'='.repeat(80)}`);
+        log(`SOURCES (${researchOutput.links.length})`);
+        log(`${'='.repeat(80)}`);
+        researchOutput.links.forEach((link, i) => {
+          log(`[${i + 1}] ${link.description}`);
+          log(`    ${link.url}`);
+        });
+        log(`${'='.repeat(80)}`);
+        log(`Expected Value: ${researchOutput.expectedValue} cents`);
+        log(`Summary: ${researchOutput.summary}`);
+        log(`Confidence: ${researchOutput.confidence}`);
+        log(`Cost: $${cost.total.toFixed(4)} (${cost.numSearches} searches, ${cost.numPages} pages, ${cost.reasoningTokens.toLocaleString()} tokens)`);
         log(`${'='.repeat(80)}\n`);
       }
 
-      const analysis = this.parseAIResponse(market.conditionId, market.question, response);
-      
-      // Add research version to analysis
-      analysis.researchVersion = RESEARCH_VERSION;
+      // Log verbose output if enabled
+      if (this.verboseLogs) {
+        log(`\n${'='.repeat(80)}`);
+        log(`RESEARCH ANALYSIS FOR: ${market.question.substring(0, 70)}...`);
+        log(`${'='.repeat(80)}`);
+        log(researchOutput.analysis);
+        log(`\nSOURCES (${researchOutput.links.length}):`);
+        researchOutput.links.forEach((link, i) => {
+          log(`  [${i + 1}] ${link.description}`);
+          log(`      ${link.url}`);
+        });
+        log(`\nCOST: $${cost.total.toFixed(4)} (${cost.numSearches} searches, ${cost.numPages} pages, ${cost.reasoningTokens.toLocaleString()} tokens)`);
+        log(`${'='.repeat(80)}\n`);
+      }
 
-      // Save research content to file (after AI reasoning, so we can include the analysis)
-      if (this.researchFileManager && researchContext) {
+      // Convert structured output to AIAnalysis
+      const analysis: AIAnalysis = {
+        marketId: market.conditionId,
+        question: market.question,
+        fullAnalysis: researchOutput.analysis,
+        summary: researchOutput.summary,
+        confidence: researchOutput.confidence,
+        expectedValue: researchOutput.expectedValue,
+        researchVersion: RESEARCH_VERSION,
+      };
+
+      // Save research content to file
+      if (this.researchFileManager && researchOutput.analysis) {
         try {
+          // Format complete research output including sources
+          const contextString = [
+            '=== ANALYSIS ===',
+            researchOutput.analysis,
+            '',
+            '=== SOURCES ===',
+            ...researchOutput.links.map((link, i) => 
+              `[${i + 1}] ${link.description}\n    ${link.url}`
+            ),
+            '',
+            '=== RESULTS ===',
+            `Expected Value: ${researchOutput.expectedValue} cents`,
+            `Confidence: ${researchOutput.confidence}`,
+            `Summary: ${researchOutput.summary}`,
+          ].join('\n');
+
           const researchContent: ResearchContent = {
             marketId: market.conditionId,
             question: market.question,
-            searchQuery,
-            contextString: researchContext, // The formatted context used for analysis
+            searchQuery: instructions,
+            contextString, // Complete formatted research output
             researchedAt: new Date().toISOString(),
             analysis: {
               fullAnalysis: analysis.fullAnalysis,
               summary: analysis.summary,
               confidence: analysis.confidence,
               expectedValue: analysis.expectedValue,
+              links: researchOutput.links,
             },
           };
           const filename = this.researchFileManager.saveResearchContent(researchContent);
@@ -139,6 +185,7 @@ export class AIResearcher {
       return analysis;
     } catch (error) {
       // Log error but don't fail the job - return a skip analysis
+      console.log(error);
       const errorMsg = `   ❌ Failed to analyze market: ${error instanceof Error ? error.message : error}`;
       log(errorMsg);
       log(`   ⏭️  Skipping this market and continuing...`);
@@ -171,147 +218,15 @@ export class AIResearcher {
   }
 
   /**
-   * Extract rate limit information from OpenAI response headers
+   * Build research instructions for Exa's Research API
    */
-  private extractRateLimitInfo(response: Response): string {
-    const limitRequests = response.headers.get('x-ratelimit-limit-requests');
-    const remainingRequests = response.headers.get('x-ratelimit-remaining-requests');
-    const limitTokens = response.headers.get('x-ratelimit-limit-tokens');
-    const remainingTokens = response.headers.get('x-ratelimit-remaining-tokens');
-    const resetRequests = response.headers.get('x-ratelimit-reset-requests');
-    const resetTokens = response.headers.get('x-ratelimit-reset-tokens');
-
-    const parts: string[] = [];
-
-    if (limitRequests && remainingRequests) {
-      parts.push(`Requests: ${remainingRequests}/${limitRequests}`);
-    }
-
-    if (limitTokens && remainingTokens) {
-      parts.push(`Tokens: ${remainingTokens}/${limitTokens}`);
-    }
-
-    // Format reset time if available
-    if (resetRequests) {
-      const resetDate = new Date(resetRequests);
-      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
-      if (secondsUntilReset > 0) {
-        parts.push(`Requests reset in: ${secondsUntilReset}s`);
-      }
-    }
-
-    if (resetTokens) {
-      const resetDate = new Date(resetTokens);
-      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
-      if (secondsUntilReset > 0) {
-        parts.push(`Tokens reset in: ${secondsUntilReset}s`);
-      }
-    }
-
-    return parts.length > 0 ? ` [${parts.join(', ')}]` : '';
-  }
-
-  /**
-   * Research a market using Exa's neural search
-   * Implements rate limiting: max 5 concurrent calls, 250ms between calls
-   * Returns both the individual results and the formatted context string (if available)
-   */
-  private async researchWithExa(searchQuery: string, logBuffer?: string[]): Promise<{ results: ExaResult[], context?: string }> {
-    const log = (message: string) => {
-      if (logBuffer) {
-        logBuffer.push(message);
-      }
-    };
-    // Wait if we've hit the Exa concurrency limit (5 QPS)
-    while (this.activeExaCalls >= this.maxConcurrentExaCalls) {
-      await this.sleep(50);
-    }
-
-    // Enforce minimum delay between Exa calls
-    const timeSinceLastCall = Date.now() - this.lastExaCallTime;
-    if (timeSinceLastCall < this.minExaDelayMs) {
-      await this.sleep(this.minExaDelayMs - timeSinceLastCall);
-    }
-
-    this.activeExaCalls++;
-    this.lastExaCallTime = Date.now();
-
-    try {
-      const response = await this.exaClient.searchAndContents(
-        searchQuery.substring(0, 500), // Ensure it's not too long
-        {
-          type: 'deep', // Deep semantic search for better quality
-          numResults: 5,
-          context: true, // Get Exa's formatted context string for LLM consumption
-          startPublishedDate: this.getDateDaysAgo(30), // Last 30 days
-        }
-      );
-
-      const results = response.results || [];
-      const formattedResults = results.map((r: typeof results[number]) => ({
-        title: r.title || '',
-        url: r.url || '',
-        publishedDate: r.publishedDate,
-        author: r.author,
-        text: r.text || '',
-      }));
-
-      return {
-        results: formattedResults,
-        context: response.context, // Exa's pre-formatted context string
-      };
-    } catch (error: any) {
-      // Handle Exa SDK errors
-      if (error.message?.includes('429') || error.message?.includes('rate limit')) {
-        log(`   ⚠️  Exa rate limit hit. Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your Exa plan.`);
-      } else {
-        log(`   ⚠️  Error calling Exa API: ${error instanceof Error ? error.message : error}`);
-      }
-      return { results: [] };
-    } finally {
-      this.activeExaCalls--;
-    }
-  }
-
-  /**
-   * Format Exa results for the AI prompt
-   */
-  private formatExaResults(results: ExaResult[]): string {
-    if (results.length === 0) {
-      return 'No relevant sources found.';
-    }
-
-    return results
-      .map((r, i) => {
-        return `
-[Source ${i + 1}] ${r.title}
-URL: ${r.url}
-${r.publishedDate ? `Date: ${r.publishedDate}` : ''}
-${r.author ? `Author: ${r.author}` : ''}
-
-${r.text.substring(0, 1500)}
-${r.text.length > 1500 ? '...' : ''}
----`;
-      })
-      .join('\n\n');
-  }
-
-  /**
-   * Build a prompt for o4-mini reasoning
-   */
-  private buildReasoningPrompt(
+  private buildResearchInstructions(
     question: string,
     description: string,
     metrics: string,
     probability: number,
-    researchContext: string
+    currentDate: string
   ): string {
-    const currentDate = new Date().toLocaleDateString('en-US', { 
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
-    });
-    
     return `Analyze this prediction market for mispricing:
 
 CURRENT DATE: ${currentDate}
@@ -328,17 +243,12 @@ Current probability: ${(probability * 100).toFixed(1)}%
 
 This market has low total trading volume and a tight bid-ask spread, suggesting it may be overlooked by the broader market.
 
-RESEARCH FINDINGS:
-${researchContext}
-
-IMPORTANT: Base your analysis on the RESEARCH FINDINGS above, which contain current information. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
-
 TASK:
-Use chain-of-thought reasoning to analyze whether this market is likely mispriced:
+Research relevant information from the web and analyze whether this market is likely mispriced. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome of the market. Use chain-of-thought reasoning to analyze the following:
 
 1. CONTEXT ANALYSIS: What is this market asking about? What would need to happen for it to resolve as YES vs NO?
 
-2. EVIDENCE EVALUATION: Based on the research findings above, what SPECIFIC EVIDENCE exists that indicates the current price of ${(probability * 100).toFixed(1)}% is incorrect?
+2. EVIDENCE EVALUATION: Based on your research findings, what SPECIFIC EVIDENCE exists that indicates the current price of ${(probability * 100).toFixed(1)}% is incorrect?
    - Look for concrete facts, events, or information that point toward a different probability
    - Evaluate source credibility and recency
    - Focus on affirmative evidence of mispricing
@@ -369,147 +279,127 @@ Use chain-of-thought reasoning to analyze whether this market is likely misprice
    - 20% confidence in 10 cents mispricing = 2 cents expected value
 
 6. CONFIDENCE: Rate your confidence in this assessment.
-   - Use EXACTLY one of: low, medium, high (no other values or combinations)
+   - Use EXACTLY one of: low, medium, high
 
-IMPORTANT: You must end your response with these three lines using ONLY the exact values specified:
-EXPECTED_VALUE: [numeric value in cents, e.g., 12.5]
-SUMMARY: [2-3 sentence summary of key findings for a notification]
-CONFIDENCE: [EXACTLY one of: low, medium, high]`;
+OUTPUT FORMAT:
+Your response will be automatically structured into JSON with these fields:
+- analysis: Your complete analysis (all 6 sections above)
+- links: Links to the sources you used for your analysis with a brief description of the content
+- expectedValue: Numeric value in cents (e.g., 12.5)
+- summary: 2-3 sentence summary of key findings for a notification
+- confidence: Exactly one of: "low", "medium", or "high"`;
   }
 
   /**
-   * Call OpenAI o4-mini for reasoning
-   * Throws descriptive errors for upstream handling
+   * Perform research using Exa's Research API
+   * This includes both web search and AI analysis in one step
+   * Returns the structured ResearchOutput and cost data
    */
-  private async callReasoningModel(prompt: string): Promise<string> {
+  private async performResearch(instructions: string, logBuffer?: string[]): Promise<{
+    output: ResearchOutput;
+    cost: { numPages: number; numSearches: number; reasoningTokens: number; total: number };
+  }> {
+    const log = (message: string) => {
+      if (logBuffer) {
+        logBuffer.push(message);
+      }
+    };
+
+    // Wait if we've hit the Exa concurrency limit
+    while (this.activeExaCalls >= this.maxConcurrentExaCalls) {
+      await this.sleep(50);
+    }
+
+    // Enforce minimum delay between Exa calls
+    const timeSinceLastCall = Date.now() - this.lastExaCallTime;
+    if (timeSinceLastCall < this.minExaDelayMs) {
+      await this.sleep(this.minExaDelayMs - timeSinceLastCall);
+    }
+
+    this.activeExaCalls++;
+    this.lastExaCallTime = Date.now();
+
     try {
-      const response = await fetch('https://api.openai.com/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${this.openaiApiKey}`,
+      // Define the output schema for structured JSON response
+      const outputSchema = {
+        type: 'object',
+        properties: {
+          analysis: {
+            type: 'string',
+            description: 'Complete chain-of-thought analysis covering all 6 sections'
+          },
+          links: {
+            type: 'array',
+            description: 'Links to the sources you used for your analysis with a brief description of the content',
+            items: {
+              type: 'object',
+              properties: {
+                url: { type: 'string', description: 'The URL of the source' },
+                description: { type: 'string', description: 'A brief description of the content' }
+              },
+              required: ['url', 'description']
+            }
+          },
+          expectedValue: {
+            type: 'number',
+            description: 'Expected value in cents (e.g., 12.5)'
+          },
+          summary: {
+            type: 'string',
+            description: '2-3 sentence summary of key findings for a notification'
+          },
+          confidence: {
+            type: 'string',
+            enum: ['low', 'medium', 'high'],
+            description: 'Confidence level in the assessment'
+          }
         },
-        body: JSON.stringify({
-          model: 'o4-mini',
-          messages: [
-            {
-              role: 'user',
-              content: prompt,
-            },
-          ],
-          // Reasoning models don't support temperature, max_tokens, or system messages
-          // They use their own reasoning approach
-        }),
+        required: ['analysis', 'expectedValue', 'summary', 'confidence']
+      };
+
+      // Start the research task
+      const researchTask = await this.exaClient.research.create({
+        instructions,
+        model: 'exa-research', // Use standard model for balance of speed and quality
+        outputSchema,
       });
 
-      if (!response.ok) {
-        const errorBody = await response.text();
-        let errorMessage = '';
-        
-        try {
-          const errorDetails = JSON.parse(errorBody);
-          errorMessage = errorDetails.error?.message || errorBody;
-        } catch {
-          errorMessage = errorBody;
+      const researchId = researchTask.researchId;
+      log(`   ⏳ Research task started (ID: ${researchId}), waiting for completion...`);
+      const result = await this.exaClient.research.pollUntilFinished(researchId, {
+        pollInterval: this.researchPollIntervalMs,
+        timeoutMs: this.researchMaxWaitMs,
+      });
+
+      // Check if the result has the output field (completed status)
+      if (result.status === 'completed' && 'output' in result) {
+        const parsed = result.output.parsed as ResearchOutput | undefined;
+        if (parsed) {
+          // Extract cost data (always available on completed status)
+          const cost = result.costDollars;
+          
+          // Log cost information
+          log(`   💰 Research cost: $${cost.total.toFixed(4)} (${cost.numSearches} searches, ${cost.numPages} pages, ${cost.reasoningTokens.toLocaleString()} tokens)`);
+
+          return { output: parsed, cost };
         }
-
-        // Create descriptive error messages based on status code
-        if (response.status === 429) {
-          const rateLimitInfo = this.extractRateLimitInfo(response);
-          throw new Error(`OpenAI rate limit exceeded${rateLimitInfo}. Consider reducing MAX_CONCURRENT_ANALYSES.`);
-        } else if (response.status === 401) {
-          throw new Error('OpenAI authentication failed (401) - Check your OPENAI_API_KEY');
-        } else if (response.status === 400) {
-          throw new Error(`OpenAI bad request (400): ${errorMessage.substring(0, 200)}`);
-        } else if (response.status === 403) {
-          throw new Error('OpenAI forbidden (403) - Check API key permissions');
-        } else if (response.status === 404) {
-          throw new Error('OpenAI model not found (404) - Model may not be available for your account');
-        } else if (response.status === 500 || response.status === 502 || response.status === 503) {
-          throw new Error(`OpenAI server error (${response.status}) - Service temporarily unavailable`);
-        } else {
-          throw new Error(`OpenAI API error (${response.status}): ${errorMessage.substring(0, 200)}`);
-        }
-      }
-
-      const data = await response.json() as any;
-      
-      if (!data.choices || !data.choices[0] || !data.choices[0].message) {
-        throw new Error('OpenAI response missing expected data structure');
-      }
-
-      return data.choices[0].message.content;
-    } catch (error) {
-      // Re-throw with context if it's already our error
-      if (error instanceof Error && error.message.includes('OpenAI')) {
-        throw error;
       }
       
-      // Wrap other errors (network issues, etc.)
-      throw new Error(`OpenAI API call failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      // Fallback: if no parsed output, throw an error
+      throw new Error('Research completed but no parsed output was returned');
+    } catch (error: any) {
+      // Handle Exa SDK errors
+      if (error.message?.includes('429') || error.message?.includes('rate limit')) {
+        log(`   ⚠️  Exa rate limit hit. Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your Exa plan.`);
+      } else {
+        log(`   ⚠️  Error calling Exa Research API: ${error instanceof Error ? error.message : error}`);
+      }
+      throw error;
+    } finally {
+      this.activeExaCalls--;
     }
   }
 
-  /**
-   * Parse the AI response to extract structured data
-   */
-  private parseAIResponse(marketId: string, question: string, response: string): AIAnalysis {
-    const lowerResponse = response.toLowerCase();
-
-    // Extract summary
-    const summaryMatch = response.match(/SUMMARY:\s*(.+?)(?=\nCONFIDENCE:|$)/is);
-    const summary = summaryMatch 
-      ? summaryMatch[1].trim().substring(0, 500)
-      : this.extractKeySummary(response); // Fallback
-
-    // Extract expected value
-    const evMatch = response.match(/EXPECTED_VALUE:\s*([\d.]+)/i);
-    let expectedValue = 0;
-    if (evMatch) {
-        expectedValue = parseFloat(evMatch[1]);
-        // Handle NaN from invalid parse
-        if (isNaN(expectedValue)) {
-          expectedValue = 0;
-        }
-    }
-
-    // Extract confidence
-    let confidence: 'low' | 'medium' | 'high' = 'medium';
-    if (lowerResponse.includes('confidence: high')) {
-      confidence = 'high';
-    } else if (lowerResponse.includes('confidence: low')) {
-      confidence = 'low';
-    }
-
-    return {
-      marketId,
-      question,
-      fullAnalysis: response, // Keep the complete analysis
-      summary,
-      confidence,
-      expectedValue,
-      researchVersion: RESEARCH_VERSION,
-    };
-  }
-
-  /**
-   * Extract a short summary for notifications
-   */
-  private extractKeySummary(response: string): string {
-    // Try to extract the mispricing assessment section
-    const mispricingMatch = response.match(/5\.\s*MISPRICING ASSESSMENT:(.*?)(?=6\.|$)/is);
-    if (mispricingMatch) {
-      return mispricingMatch[1].trim().substring(0, 400);
-    }
-
-    // Fall back to first substantial paragraphs
-    const paragraphs = response
-      .split('\n\n')
-      .filter(p => p.trim().length > 50)
-      .slice(0, 2);
-    
-    return paragraphs.join(' ').substring(0, 400);
-  }
 
   /**
    * Get ISO date string for N days ago

@@ -40,7 +40,6 @@ describe('Bot Orchestration', () => {
 
   const mockConfig = {
     discordWebhookUrl: 'https://discord.com/webhook/test',
-    openaiApiKey: 'sk-test',
     exaApiKey: 'exa-test',
     screening: {
       minMarketAgeDays: 7,
@@ -155,7 +154,6 @@ describe('Bot Orchestration', () => {
       expect(MarketFetcher).toHaveBeenCalled();
       expect(MarketScorer).toHaveBeenCalledWith(mockConfig.screening);
       expect(AIResearcher).toHaveBeenCalledWith(
-        mockConfig.openaiApiKey,
         mockConfig.exaApiKey,
         mockConfig.maxConcurrentAnalyses,
         mockConfig.verboseLogs,

@@ -98,13 +98,7 @@ async function main() {
   }
 
   // Load API keys from environment
-  const openaiApiKey = process.env.OPENAI_API_KEY;
   const exaApiKey = process.env.EXA_API_KEY;
-  
-  if (!openaiApiKey) {
-    console.error('❌ Error: OPENAI_API_KEY environment variable is required');
-    process.exit(1);
-  }
   
   if (!exaApiKey) {
     console.error('❌ Error: EXA_API_KEY environment variable is required');
@@ -114,7 +108,6 @@ async function main() {
   const verboseLogs = process.env.VERBOSE_LOGS === 'true';
   
   console.log('✅ Configuration loaded');
-  console.log(`   OpenAI API Key: ${openaiApiKey.substring(0, 10)}...`);
   console.log(`   Exa API Key: ${exaApiKey.substring(0, 10)}...`);
   console.log(`   Verbose logs: ${verboseLogs}\n`);
 
@@ -230,7 +223,6 @@ async function main() {
 
   // Initialize AI researcher (no research file manager for console output only)
   const aiResearcher = new AIResearcher(
-    openaiApiKey,
     exaApiKey,
     1, // Single concurrent call
     verboseLogs

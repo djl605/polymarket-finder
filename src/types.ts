@@ -58,13 +58,14 @@ export interface ResearchContent {
   marketId: string;
   question: string;
   searchQuery: string;
-  contextString: string; // Exa's pre-formatted context optimized for LLMs
+  contextString: string; // Complete research output including analysis and sources
   researchedAt: string;
   analysis?: {
     fullAnalysis: string;
     summary: string;
     confidence: 'low' | 'medium' | 'high';
     expectedValue: number;
+    links?: Array<{ url: string; description: string }>;
   };
 }
 
@@ -125,7 +126,6 @@ export interface BotState {
  */
 export interface Config {
   discordWebhookUrl: string;
-  openaiApiKey: string;
   exaApiKey: string;
   screening: ScreeningCriteria;
   cacheMinAgeDays: number;
