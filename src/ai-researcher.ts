@@ -312,7 +312,7 @@ ${r.text.length > 1500 ? '...' : ''}
       day: 'numeric' 
     });
     
-    return `Analyze this prediction market for mispricing:
+    return `Evaluate this prediction market to determine if there is credible evidence of mispricing:
 
 CURRENT DATE: ${currentDate}
 
@@ -326,40 +326,47 @@ MARKET METRICS:
 ${metrics}
 Current probability: ${(probability * 100).toFixed(1)}%
 
-This market has low total trading volume and a tight bid-ask spread, suggesting it may be overlooked by the broader market.
-
-RESEARCH FINDINGS:
-${researchContext}
-
-IMPORTANT: Base your analysis on the RESEARCH FINDINGS above, which contain current information. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
+IMPORTANT CONTEXT:
+This market has low total trading volume and a tight bid-ask spread. Low volume markets present a mixed picture:
+- They may be correctly priced if the outcome is straightforward or there's broad consensus
+- They may be inefficient if the price is being set by one or a few over-confident traders rather than aggregating diverse information
+- They may be overlooked by informed traders who could correct mispricings
 
 TASK:
-Use chain-of-thought reasoning to analyze whether this market is likely mispriced:
+I have gathered some relevant research materials which are shared with you at the bottom of this prompt. Your job is to review the research materials and objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Use chain-of-thought reasoning to analyze the following:
 
 1. CONTEXT ANALYSIS: What is this market asking about? What would need to happen for it to resolve as YES vs NO?
 
-2. EVIDENCE EVALUATION: Based on the research findings above, what SPECIFIC EVIDENCE exists that indicates the current price of ${(probability * 100).toFixed(1)}% is incorrect?
-   - Look for concrete facts, events, or information that point toward a different probability
+2. EVIDENCE EVALUATION: Based on the research findings below, evaluate ALL relevant evidence:
+   - What SPECIFIC EVIDENCE suggests the current price of ${(probability * 100).toFixed(1)}% might be incorrect?
+   - What evidence SUPPORTS the current market price as reasonable?
    - Evaluate source credibility and recency
-   - Focus on affirmative evidence of mispricing
-   - Avoid reasoning like "there's no evidence supporting the current price" - that's not evidence FOR a mispricing
+   - Consider both bullish and bearish perspectives
+   - Be especially skeptical of evidence that seems too obvious - if it's that clear, why hasn't the market already priced it in?
 
-3. MARKET PSYCHOLOGY: Why might this market have low volume? Is it genuinely overlooked, or is it just boring/obvious?
+3. MARKET EFFICIENCY ANALYSIS: Evaluate the reliability of this market's price:
+   - What reasonable interpretation could justify the current ${(probability * 100).toFixed(1)}% price?
+   - Could this represent genuine consensus among informed traders, or might it reflect the view of just one or a few participants?
+   - Is the low volume because the outcome is obvious/uncontroversial, or because informed traders haven't engaged with this market yet?
 
-4. MISPRICING ASSESSMENT: Given the current probability of ${(probability * 100).toFixed(1)}%, and the specific evidence you identified above, is there a mispricing? If so, in which direction and by approximately how much?
+4. MISPRICING ASSESSMENT: Given the current probability of ${(probability * 100).toFixed(1)}%, what does the evidence indicate?
+    - Weigh the evidence on both sides objectively
+    - Consider whether this market shows signs of efficiency or inefficiency
+    - Only conclude there is mispricing if you have specific, credible evidence that appears to be missing from the current price
 
-   ⚠️ CRITICAL CHECK: If you believe there is a LARGE mispricing (>15 cents), especially if you think something is highly likely or guaranteed but the market doesn't price it that way, STOP and re-verify:
+   ⚠️ CRITICAL CHECK - CHALLENGE YOUR REASONING: If you believe there is significant mispricing (especially > 20 cents), STOP and rigorously verify:
+   - While low-volume markets can be inefficient, large mispricings are rare. What could YOU be missing or misunderstanding?
    - Do you truly understand the EXACT resolution criteria?
-       - If you believe the resolution criteria have already been met and the market is still very mispriced, that is a very strong indication that you are missing something (for example, the qualifying event might have happened before the beginning of the market).
-   - Are there any edge cases, technicalities, or specific conditions in the market description that you might have missed?
-   - Could there be a valid reason the market prices this differently than you expect?
+       - If you believe the resolution criteria have already been met or that the outcome is nearly certain, yet the market is still very mispriced, that is almost certainly a sign that you are missing something important (for example, the qualifying event might have happened before the market started, or there's a technicality you don't understand).
+   - What is the MOST CHARITABLE interpretation of why informed traders arrived at this price?
+   - Could there be information or context that traders have that isn't readily available to you?
    - Re-read the market question and description carefully before proceeding.
    
-   Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions.
+   Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions, overconfidence in publicly available information.
 
-5. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market by considering BOTH:
-   - STRENGTH of evidence: How strong and reliable is the specific evidence you found? How confident are you that it indicates a mispricing? (0-100%)
-   - MAGNITUDE of mispricing: If mispriced, how large is the error? (cents)
+5. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market:
+   - STRENGTH of evidence: How strong and reliable is the specific evidence you found? Consider whether this information is truly missing from the current price or likely already considered by traders. (0-100%)
+   - MAGNITUDE of mispricing: If genuinely mispriced, how large is the error? (cents)
    - Expected value = (Strength of evidence) × (Magnitude of mispricing)
    
    Examples:
@@ -374,7 +381,13 @@ Use chain-of-thought reasoning to analyze whether this market is likely misprice
 IMPORTANT: You must end your response with these three lines using ONLY the exact values specified:
 EXPECTED_VALUE: [numeric value in cents, e.g., 12.5]
 SUMMARY: [2-3 sentence summary of key findings for a notification]
-CONFIDENCE: [EXACTLY one of: low, medium, high]`;
+CONFIDENCE: [EXACTLY one of: low, medium, high]
+
+IMPORTANT: The research findings you will use are below. Base your analysis ONLY on the RESEARCH FINDINGS, which contain current information. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
+
+RESEARCH FINDINGS:
+${researchContext}`;
+
   }
 
   /**
