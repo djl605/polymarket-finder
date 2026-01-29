@@ -52,6 +52,11 @@ export class MarketFetcher {
             continue;
           }
 
+          // skip sports markets
+          if (rawMarket.sportsMarketType) {
+            continue;
+          }
+
           // Enrich the market with calculated fields
           const market = MarketFetcher.enrichMarketData(rawMarket);
 
