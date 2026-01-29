@@ -351,6 +351,7 @@ I have gathered some relevant research materials which are shared with you at th
 
 4. MISPRICING ASSESSMENT: Given the current probability of ${(probability * 100).toFixed(1)}%, what does the evidence indicate?
     - Weigh the evidence on both sides objectively
+    - Consider the timeline. There is likely more uncertainty about markets that won't resolve for a long time.
     - Consider whether this market shows signs of efficiency or inefficiency
     - Only conclude there is mispricing if you have specific, credible evidence that appears to be missing from the current price
 
@@ -362,7 +363,7 @@ I have gathered some relevant research materials which are shared with you at th
    - Could there be information or context that traders have that isn't readily available to you?
    - Re-read the market question and description carefully before proceeding.
    
-   Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions, overconfidence in publicly available information.
+   Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions, over-confidence that a few sources represent consensus.
 
 5. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market:
    - STRENGTH of evidence: How strong and reliable is the specific evidence you found? Consider whether this information is truly missing from the current price or likely already considered by traders. (0-100%)
