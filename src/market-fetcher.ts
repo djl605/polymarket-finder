@@ -54,6 +54,7 @@ export class MarketFetcher {
 
           // skip sports markets
           if (rawMarket.sportsMarketType) {
+            console.log(`   Skipping sports market ${rawMarket.question} (sportsMarketType: ${rawMarket.sportsMarketType})`);
             continue;
           }
 
