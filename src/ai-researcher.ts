@@ -1,4 +1,4 @@
-import fetch, { Response } from 'node-fetch';
+import OpenAI from 'openai';
 import Exa from 'exa-js';
 import { AIAnalysis, ScreenedMarket, ResearchContent } from './types';
 import { ResearchFileManager } from './research-file-manager';
@@ -21,6 +21,7 @@ export class AIResearcher {
   private readonly minDelayMs = 100;
   private readonly verboseLogs: boolean;
   private readonly exaClient: Exa;
+  private readonly openaiClient: OpenAI;
   
   // Exa-specific rate limiting (5 QPS limit)
   private activeExaCalls = 0;
@@ -29,7 +30,7 @@ export class AIResearcher {
   private readonly minExaDelayMs = 250; // 4 calls per second max
 
   constructor(
-    private openaiApiKey: string,
+    openaiApiKey: string,
     exaApiKey: string,
     maxConcurrentCalls: number = 10,
     verboseLogs: boolean = false,
@@ -38,6 +39,7 @@ export class AIResearcher {
     this.maxConcurrentCalls = maxConcurrentCalls;
     this.verboseLogs = verboseLogs;
     this.exaClient = new Exa(exaApiKey);
+    this.openaiClient = new OpenAI({ apiKey: openaiApiKey });
   }
 
   /**
@@ -170,46 +172,6 @@ export class AIResearcher {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
 
-  /**
-   * Extract rate limit information from OpenAI response headers
-   */
-  private extractRateLimitInfo(response: Response): string {
-    const limitRequests = response.headers.get('x-ratelimit-limit-requests');
-    const remainingRequests = response.headers.get('x-ratelimit-remaining-requests');
-    const limitTokens = response.headers.get('x-ratelimit-limit-tokens');
-    const remainingTokens = response.headers.get('x-ratelimit-remaining-tokens');
-    const resetRequests = response.headers.get('x-ratelimit-reset-requests');
-    const resetTokens = response.headers.get('x-ratelimit-reset-tokens');
-
-    const parts: string[] = [];
-
-    if (limitRequests && remainingRequests) {
-      parts.push(`Requests: ${remainingRequests}/${limitRequests}`);
-    }
-
-    if (limitTokens && remainingTokens) {
-      parts.push(`Tokens: ${remainingTokens}/${limitTokens}`);
-    }
-
-    // Format reset time if available
-    if (resetRequests) {
-      const resetDate = new Date(resetRequests);
-      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
-      if (secondsUntilReset > 0) {
-        parts.push(`Requests reset in: ${secondsUntilReset}s`);
-      }
-    }
-
-    if (resetTokens) {
-      const resetDate = new Date(resetTokens);
-      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
-      if (secondsUntilReset > 0) {
-        parts.push(`Tokens reset in: ${secondsUntilReset}s`);
-      }
-    }
-
-    return parts.length > 0 ? ` [${parts.join(', ')}]` : '';
-  }
 
   /**
    * Research a market using Exa's neural search
@@ -392,68 +354,96 @@ ${researchContext}`;
   }
 
   /**
+   * Extract rate limit information from OpenAI error headers
+   */
+  private extractRateLimitInfo(headers?: Record<string, string>): string {
+    if (!headers) return '';
+
+    const limitRequests = headers['x-ratelimit-limit-requests'];
+    const remainingRequests = headers['x-ratelimit-remaining-requests'];
+    const limitTokens = headers['x-ratelimit-limit-tokens'];
+    const remainingTokens = headers['x-ratelimit-remaining-tokens'];
+    const resetRequests = headers['x-ratelimit-reset-requests'];
+    const resetTokens = headers['x-ratelimit-reset-tokens'];
+
+    const parts: string[] = [];
+
+    if (limitRequests && remainingRequests) {
+      parts.push(`Requests: ${remainingRequests}/${limitRequests}`);
+    }
+
+    if (limitTokens && remainingTokens) {
+      parts.push(`Tokens: ${remainingTokens}/${limitTokens}`);
+    }
+
+    // Format reset time if available
+    if (resetRequests) {
+      const resetDate = new Date(resetRequests);
+      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
+      if (secondsUntilReset > 0) {
+        parts.push(`Requests reset in: ${secondsUntilReset}s`);
+      }
+    }
+
+    if (resetTokens) {
+      const resetDate = new Date(resetTokens);
+      const secondsUntilReset = Math.ceil((resetDate.getTime() - Date.now()) / 1000);
+      if (secondsUntilReset > 0) {
+        parts.push(`Tokens reset in: ${secondsUntilReset}s`);
+      }
+    }
+
+    return parts.length > 0 ? ` [${parts.join(', ')}]` : '';
+  }
+
+  /**
    * Call OpenAI o4-mini for reasoning
    * Throws descriptive errors for upstream handling
    */
   private async callReasoningModel(prompt: string): Promise<string> {
     try {
-      const response = await fetch('https://api.openai.com/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${this.openaiApiKey}`,
-        },
-        body: JSON.stringify({
-          model: 'o4-mini',
-          messages: [
-            {
-              role: 'user',
-              content: prompt,
-            },
-          ],
-          // Reasoning models don't support temperature, max_tokens, or system messages
-          // They use their own reasoning approach
-        }),
+      const response = await this.openaiClient.chat.completions.create({
+        model: 'o4-mini',
+        messages: [
+          {
+            role: 'user',
+            content: prompt,
+          },
+        ],
+        // Reasoning models don't support temperature, max_tokens, or system messages
+        // They use their own reasoning approach
       });
 
-      if (!response.ok) {
-        const errorBody = await response.text();
-        let errorMessage = '';
-        
-        try {
-          const errorDetails = JSON.parse(errorBody);
-          errorMessage = errorDetails.error?.message || errorBody;
-        } catch {
-          errorMessage = errorBody;
-        }
-
-        // Create descriptive error messages based on status code
-        if (response.status === 429) {
-          const rateLimitInfo = this.extractRateLimitInfo(response);
-          throw new Error(`OpenAI rate limit exceeded${rateLimitInfo}. Consider reducing MAX_CONCURRENT_ANALYSES.`);
-        } else if (response.status === 401) {
-          throw new Error('OpenAI authentication failed (401) - Check your OPENAI_API_KEY');
-        } else if (response.status === 400) {
-          throw new Error(`OpenAI bad request (400): ${errorMessage.substring(0, 200)}`);
-        } else if (response.status === 403) {
-          throw new Error('OpenAI forbidden (403) - Check API key permissions');
-        } else if (response.status === 404) {
-          throw new Error('OpenAI model not found (404) - Model may not be available for your account');
-        } else if (response.status === 500 || response.status === 502 || response.status === 503) {
-          throw new Error(`OpenAI server error (${response.status}) - Service temporarily unavailable`);
-        } else {
-          throw new Error(`OpenAI API error (${response.status}): ${errorMessage.substring(0, 200)}`);
-        }
-      }
-
-      const data = await response.json() as any;
+      const content = response.choices[0]?.message?.content;
       
-      if (!data.choices || !data.choices[0] || !data.choices[0].message) {
+      if (!content) {
         throw new Error('OpenAI response missing expected data structure');
       }
 
-      return data.choices[0].message.content;
-    } catch (error) {
+      return content;
+    } catch (error: any) {
+      // Handle OpenAI SDK errors with descriptive messages
+      if (error instanceof OpenAI.APIError) {
+        console.log(error);
+        // Create descriptive error messages based on status code
+        if (error.status === 429) {
+          const rateLimitInfo = this.extractRateLimitInfo(error.headers as Record<string, string>);
+          throw new Error(`OpenAI rate limit exceeded${rateLimitInfo}. Consider reducing MAX_CONCURRENT_ANALYSES.`);
+        } else if (error.status === 401) {
+          throw new Error('OpenAI authentication failed (401) - Check your OPENAI_API_KEY');
+        } else if (error.status === 400) {
+          throw new Error(`OpenAI bad request (400): ${error.message.substring(0, 200)}`);
+        } else if (error.status === 403) {
+          throw new Error('OpenAI forbidden (403) - Check API key permissions');
+        } else if (error.status === 404) {
+          throw new Error('OpenAI model not found (404) - Model may not be available for your account');
+        } else if (error.status === 500 || error.status === 502 || error.status === 503) {
+          throw new Error(`OpenAI server error (${error.status}) - Service temporarily unavailable`);
+        } else {
+          throw new Error(`OpenAI API error (${error.status}): ${error.message.substring(0, 200)}`);
+        }
+      }
+      
       // Re-throw with context if it's already our error
       if (error instanceof Error && error.message.includes('OpenAI')) {
         throw error;
