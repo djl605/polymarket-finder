@@ -9,7 +9,7 @@ interface ExaResult {
   url: string;
   publishedDate?: string;
   author?: string;
-  text: string;
+  summary: string;
 }
 
 /**
@@ -204,7 +204,7 @@ export class AIResearcher {
         {
           type: 'deep', // Deep semantic search for better quality
           numResults: 5,
-          context: true, // Get Exa's formatted context string for LLM consumption
+          summary: true, // Get Exa's formatted context string for LLM consumption
           startPublishedDate: this.getDateDaysAgo(30), // Last 30 days
         }
       );
@@ -215,7 +215,7 @@ export class AIResearcher {
         url: r.url || '',
         publishedDate: r.publishedDate,
         author: r.author,
-        text: r.text || '',
+        summary: r.summary || '',
       }));
 
       return {
@@ -251,8 +251,8 @@ URL: ${r.url}
 ${r.publishedDate ? `Date: ${r.publishedDate}` : ''}
 ${r.author ? `Author: ${r.author}` : ''}
 
-${r.text.substring(0, 1500)}
-${r.text.length > 1500 ? '...' : ''}
+${r.summary.substring(0, 1500)}
+${r.summary.length > 1500 ? '...' : ''}
 ---`;
       })
       .join('\n\n');

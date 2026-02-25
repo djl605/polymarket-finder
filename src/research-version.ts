@@ -13,6 +13,7 @@
  * - 1.1: Focus on specific evidence and also hinted that if it thinks the resolution criteria have already been met, it's probably wrong.
  * - 1.2: Updated prompt to be more objective and less biased towards mispricing.
  * - 1.3: Updated prompt to suggest not assume consensus from a few sources and to consider the timeline of the market.
+ * - 1.3.1: Updated SDK call to set summary=true to get summaries again.
  */
-export const RESEARCH_VERSION = '1.3';
+export const RESEARCH_VERSION = '1.3.1';
 
