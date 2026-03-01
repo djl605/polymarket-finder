@@ -52,7 +52,7 @@ describe('AIResearcher', () => {
 
   const mockExaResults = (results: any[] = []) => {
     MockedExa.mockImplementation(() => ({
-      searchAndContents: jest.fn().mockResolvedValue({ results }),
+      search: jest.fn().mockResolvedValue({ results }),
     } as any));
   };
 
@@ -75,18 +75,18 @@ describe('AIResearcher', () => {
     it('should perform full analysis with all API keys', async () => {
       const market = createMockScreenedMarket();
 
-      // Mock Exa SDK searchAndContents
-      const mockSearchAndContents = jest.fn().mockResolvedValue({
+      // Mock Exa SDK search
+      const mockSearch = jest.fn().mockResolvedValue({
         results: [
           {
             title: 'Weather forecast',
             url: 'https://example.com',
-            text: 'Rain expected tomorrow',
+            summary: 'Rain expected tomorrow',
           },
         ],
       });
       MockedExa.mockImplementation(() => ({
-        searchAndContents: mockSearchAndContents,
+        search: mockSearch,
       } as any));
 
       // Mock OpenAI SDK
@@ -112,7 +112,7 @@ CONFIDENCE: high`,
       expect(result.expectedValue).toBe(2.0);
       expect(result.confidence).toBe('high');
       expect(mockCreate).toHaveBeenCalledTimes(1);
-      expect(mockSearchAndContents).toHaveBeenCalledTimes(1);
+      expect(mockSearch).toHaveBeenCalledTimes(1);
     });
 
     it('should return skip analysis on API failures instead of throwing', async () => {
@@ -122,14 +122,14 @@ CONFIDENCE: high`,
       
       // Mock Exa SDK
       MockedExa.mockImplementation(() => ({
-        searchAndContents: jest.fn().mockResolvedValue({ results: [] }),
+        search: jest.fn().mockResolvedValue({ results: [] }),
       } as any));
 
       const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
-      
+
       // Should not throw, instead returns a skip analysis
       expect(result.expectedValue).toBe(0);
       expect(result.confidence).toBe('low');
@@ -332,7 +332,7 @@ CONFIDENCE: low`,
 
       // Mock Exa SDK to throw an error
       MockedExa.mockImplementation(() => ({
-        searchAndContents: jest.fn().mockRejectedValue(new Error('Exa API error')),
+        search: jest.fn().mockRejectedValue(new Error('Exa API error')),
       } as any));
 
       // Mock OpenAI SDK
