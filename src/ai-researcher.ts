@@ -199,13 +199,17 @@ export class AIResearcher {
     this.lastExaCallTime = Date.now();
 
     try {
-      const response = await this.exaClient.searchAndContents(
+      const response = await this.exaClient.search(
         searchQuery.substring(0, 500), // Ensure it's not too long
         {
-          type: 'deep', // Deep semantic search for better quality
+          type: "auto",
           numResults: 5,
-          summary: true, // Get Exa's formatted context string for LLM consumption
-          startPublishedDate: this.getDateDaysAgo(30), // Last 30 days
+          startPublishedDate: this.getDateDaysAgo(30),
+          excludeDomains: ["polymarket.com", "kalshi.com"],
+          contents: {
+            summary: true,
+            context: true,
+          }
         }
       );
 

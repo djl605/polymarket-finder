@@ -24,7 +24,7 @@
   "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5",
-    "exa-js": "^1.0.12",
+    "exa-js": "^2.4.0",
     "node-fetch": "^2.7.0",
     "openai": "^4.24.1"
   },

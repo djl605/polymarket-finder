@@ -14,6 +14,7 @@
  * - 1.2: Updated prompt to be more objective and less biased towards mispricing.
  * - 1.3: Updated prompt to suggest not assume consensus from a few sources and to consider the timeline of the market.
  * - 1.3.1: Updated SDK call to set summary=true to get summaries again.
+ * - 1.3.2: Updated Exa SDK version
  */
-export const RESEARCH_VERSION = '1.3.1';
+export const RESEARCH_VERSION = '1.3.2';
 
