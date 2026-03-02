@@ -1,7 +1,7 @@
 # Research: Will Russia capture Hryshyne by April 30, 2026?
 
 **Market ID:** 0x80d2b85ff5d0e78cfabba704a0d2c5ba650ee3e38aa7ee4636936f8a230a9e95
-**Researched At:** March 1, 2026 at 06:06:34 AM UTC
+**Researched At:** March 2, 2026 at 02:57:40 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia capture Hryshyne by April 30, 2026?"
 
 ---
@@ -9,46 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 12.0¢
+**Expected Value:** 5.0¢
 
 ### Summary
 
-Recent ISW and independent reporting show Ukrainian forces holding Hryshyne and Russian advances stalled just 2 km away since December, suggesting the 66% probability is likely overstated by ~20 cents. With low trading volume and minimal new signs of an imminent push, the market appears inefficiently high.
+Recent ISW and Ukrainian reports show strong Ukrainian control of Hryshyne and stalled Russian advances; the planned Russian offensive remains unproven, making the market’s 76.5% level likely modestly overstated. However, given the public nature of these assessments and low volume, the actual mispricing is limited.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- The market asks whether Russian forces will have captured the specified intersection in Hryshyne (48.326824° N, 37.081821° E) by April 30, 2026, as shown by persistent red shading (“Assessed Russian Control”, “Assessed Russian Advance…”, or “Assessed Russian Gains…”) on the ISW map (or, failing that, DeepStateMap or credible consensus reporting). If the intersection is ever shaded red under those layers (and persists through the next ISW update), the market resolves YES; otherwise NO.  
+1. CONTEXT ANALYSIS
+The market asks whether Russia will have captured the precise intersection in Hryshyne (48.326824° N, 37.081821° E) by 23:59 ET April 30, 2026, as evidenced by ISW map shading (“Assessed Russian Control,” “Advance,” or “Gains”). A “Yes” requires Russian control persisting through a full ISW update cycle; any subsequent loss is irrelevant once first captured. “No” if shading never appears or doesn’t persist.
 
-2. EVIDENCE EVALUATION  
-Bearish evidence (arguing price too high):  
-- 2026-02-18 Mezha report: “Ukrainian Forces Clear Eastern Hryshyne from Russian Invaders.” Ukraine recently regained control, suggesting Russian forces lack current control and must re-assault. (Recency: 11 days ago; source: news outlet, moderate credibility.)  
-- 2026-02-26 ISW assessment: Since early December’s capture of nearby Pokrovsk, Russian forces have “failed to capture Hryshyne, located just two kilometers northwest,” with “no significant advances” through Feb. 25. This indicates stalled momentum and raises doubts they’ll succeed by April. (Recency: 4 days ago; source: ISW, high credibility.)  
+2. EVIDENCE EVALUATION
+Bullish for Russia (arguing current 76.5% is reasonable or even low):
+ • Feb 27 ISW (Nardone): Russian artillery prepping areas near Kramatorsk and Fortress Belt in Donetsk Oblast—signals an imminent major offensive that could roll up defensive lines toward Hryshyne.
+ • Negotiations (Russia in Review Feb 20–27): Contention over fortified Donetsk areas could yield concessions or localized ceasefire giving Russia de jure control (though de facto control is required).
+Bearish for Russia (arguing price too high):
+ • Feb 18 report (Mezha): Ukrainian forces have cleared eastern Hryshyne, demonstrating strong defenses; large Russian casualties (1.25 M+) undermine offensive capacity.
+ • Feb 25 ISW (Bern): After Pokrovsk capture, Russians have not made further operational advances; seizure of rest of Donetsk not imminent.
+ • Feb 24 ISW (Glynn): Ukrainian counterattacks around Kupyansk show momentum, stabilizing front and retarding Russian advances.
+Source credibility and recency: All sources are from late February 2026, primary (ISW) and secondary (Mezha). ISW assessments are authoritative for mapping resolution. Mezha’s local combat report aligns with ISW’s control assessments.
 
-Bullish evidence (arguing price reasonable or too low):  
-- 2025-12-31 ISW: Russia’s daily advance rate rose to 13.24 km² in 2025 (vs. 9.87 km² in 2024) and new operational tactics (extended-range drones, infiltration, mass small-group assaults) could drive renewed offensives toward Hryshyne. (Recency: 2 months; source: ISW, high credibility.)  
-- 2026-01-31 ISW: Kremlin remains focused on Donetsk Oblast; recent advances near Lyman and Kostyantynivka-Druzhkivka signal ongoing offensive potential. (Recency: 1 month; source: ISW, high credibility.)  
-- Geopolitical context: No full ceasefire, and Russia’s strategic imperative to secure Donetsk may prompt renewed push.  
+3. MARKET EFFICIENCY ANALYSIS
+A 76.5% price implies traders are highly confident of a successful Russian offensive within two months. Given the market’s $5.8 K volume and 1¢ spread, it may reflect one or a few informed traders’ views rather than broad consensus. The low volume could indicate either clarity of outcome (if Russians were obviously on the cusp) or simply that few have engaged; here the evidence of stalled advances suggests the latter.
 
-Synthesis: The most recent, highly credible evidence (ISW Feb. 25 + Mezha Feb. 18) both point to Ukrainian control and stalled Russian advance as of late February. Earlier evidence of increased Russian momentum is now countered by current operational stagnation just 2 km from Hryshyne.  
+4. MISPRICING ASSESSMENT
+• The bearish evidence (Ukraine cleared Hryshyne; stalled Russian advances; Ukrainian momentum) suggests a lower probability than 76.5%.  
+• The bullish case rests on an untested upcoming offensive and negotiation outcomes, both uncertain.  
+• There is no sign that decisive offensive success is imminent enough to justify a >¾ probability.  
+• It is plausible the market is overpriced by roughly 10–20 cents.  
+However, traders likely already know the February 18 clearing and ISW assessments, so any remaining mispricing is modest.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 66% price would reflect confidence that Russia will overcome the current resistance and resume rapid advances. But total volume is low ($4k), suggesting few informed traders engaged. The tight spread could mask overconfidence by a single participant or a small band.  
-- The market may be efficient if insiders anticipate a major spring offensive; but if they knew of a planned push in March, we’d likely see preparatory indications (troop movements, logistics buildup) that we haven’t.  
-- Alternately, traders may simply have defaulted to “Russia eventually wins Donetsk” without updating for the latest ISW reports.  
+5. EXPECTED VALUE CALCULATION
+Strength of evidence for mispricing: 50% (publicly available, but underscores rosy Russian prospects seem overstated).  
+Estimated magnitude: 10 cents.  
+Expected value = 0.5 × 10 cents = 5 cents.
 
-4. MISPRICING ASSESSMENT  
-- Given stalled operations and recent Ukrainian hold on Hryshyne, a rational probability might be closer to 40–50%, not 66%.  
-- Absent clear signs of an imminent Russian offensive, the price appears too high by ~15–25 cents.  
-- There is no glaring technicality or resolution ambiguity to justify 66%. The resolution criteria are straightforward, and ISW data are reliable and available.  
-
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 60% (ISW Feb. 25 and Mezha Feb. 18 are recent and credible, but some uncertainty remains about future Russian operations).  
-- Magnitude of mispricing: 20 cents (difference between market price 66% and my estimated 45–50%).  
-- Expected value = 0.60 × 20 cents = 12 cents.  
-
-EXPECTED_VALUE: 12.0  
-SUMMARY: Recent ISW and independent reporting show Ukrainian forces holding Hryshyne and Russian advances stalled just 2 km away since December, suggesting the 66% probability is likely overstated by ~20 cents. With low trading volume and minimal new signs of an imminent push, the market appears inefficiently high.  
+EXPECTED_VALUE: 5  
+SUMMARY: Recent ISW and Ukrainian reports show strong Ukrainian control of Hryshyne and stalled Russian advances; the planned Russian offensive remains unproven, making the market’s 76.5% level likely modestly overstated. However, given the public nature of these assessments and low volume, the actual mispricing is limited.  
 CONFIDENCE: medium
 
 ---
@@ -61,66 +59,42 @@ Title: Ukrainian Forces Clear Eastern Hryshyne from Russian Invaders | Ukraine n
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://mezha.net/eng/bukvy/ukrainian-forces-clear-eastern-hryshyne-from-russian-invaders/
-Summary: Ukrainian forces have successfully cleared the eastern village of Hryshyne from Russian invaders, indicating a significant military advancement for Ukraine in the ongoing conflict. This development suggests that Russia's control over the area is diminishing, which could impact their ability to capture Hryshyne by the projected date of April 30, 2026. The situation remains fluid, with ongoing military operations and strategic maneuvers from both sides. Monitoring the progress of Ukrainian forces and any potential Russian counteroffensives will be crucial in predicting the future status of Hryshyne.
+Summary: Ukrainian forces have successfully cleared the eastern village of Hryshyne from Russian invaders, marking a significant military achievement. This operation is part of ongoing efforts by Ukraine to reclaim territory occupied by Russian forces. The current situation suggests that Ukrainian defenses are strong in this area, which may impact Russia's ability to capture Hryshyne by the projected date of April 30, 2026. Additionally, the broader context of military losses reported by Ukraine, including over 1.25 million Russian military casualties, indicates challenges for Russia in sustaining its offensive capabilities. Overall, the recent developments favor Ukrainian control, making it less likely that Russia will successfully capture Hryshyne in the near future.
 
-Title: Assessed Control of Terrain in the Russo-Ukrainian War, January 30, 2026 at 1:30 PM ET
-Author: 
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://understandingwar.org/map/russo-ukrainian-war-january-30-2026/
-Summary: The webpage titled "Assessed Control of Terrain in the Russo-Ukrainian War, January 30, 2026" provides an analysis of the current territorial control in the ongoing conflict between Russia and Ukraine. As of January 30, 2026, the assessment indicates the strategic positions of both Russian and Ukrainian forces, which are crucial for understanding potential future developments, including the likelihood of Russia capturing specific locations such as Hryshyne.
+Title: Russian Offensive Campaign Assessment | DEC 2025–NOW | ISW
+Author: Esther Nardone
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-updates-2/
+Summary: The Russian Offensive Campaign Assessment indicates that Russian forces are currently preparing for a significant offensive against Ukraine's defenses, particularly targeting the Fortress Belt in Donetsk Oblast. As of February 27, 2026, Russian artillery has begun shelling areas near Kramatorsk, which is part of the fortified cities that have been crucial to Ukrainian defenses since 2014. This artillery preparation suggests an imminent ground assault phase is expected soon.
 
-To predict whether Russia will capture Hryshyne by April 30, 2026, consider the following factors highlighted in the report:
-
-1. **Current Control**: The webpage details the areas under Russian and Ukrainian control as of late January 2026. Understanding the proximity of Russian forces to Hryshyne and their operational capabilities will be essential.
-
-2. **Military Strategy**: The analysis may include insights into the military strategies employed by both sides, including offensive and defensive maneuvers that could influence the battle for Hryshyne.
-
-3. **Logistical Support**: The effectiveness of supply lines and reinforcements for Russian forces could impact their ability to sustain an offensive towards Hryshyne.
-
-4. **Ukrainian Resistance**: The resilience and tactical responses of Ukrainian forces in defending key locations like Hryshyne will also play a critical role in determining the outcome.
-
-5. **Geopolitical Factors**: Broader geopolitical dynamics, including international support for Ukraine and any shifts in Russian military strategy,
-
-Title: Russian Offensive Campaign Assessment, December 31, 2025
-Author: Jordan Glynn
-Published Date: 2025-12-31T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-december-31-2025/
-Summary: The "Russian Offensive Campaign Assessment" from December 31, 2025, provides insights into the evolving dynamics of the conflict between Russia and Ukraine, which could be relevant for predicting whether Russia will capture Hryshyne by April 30, 2026. 
-
-Key points include:
-
-1. **Increased Rate of Advance**: In 2025, Russian forces improved their average rate of advance to 13.24 square kilometers per day, up from 9.87 square kilometers in 2024. This increase was marked by a peak in November, suggesting potential momentum that could influence future operations.
-
-2. **Operational Changes**: Russian forces adopted a new operational template that includes prolonged battlefield air interdiction (BAI), tactical interdiction, infiltration missions, and mass small group assaults. These tactics have enabled significant advances in various directions, indicating a strategic shift that may enhance their effectiveness in capturing specific targets like Hryshyne.
-
-3. **Technological Adaptations**: The introduction of advanced drone technology, including fiber optic UAVs with extended ranges and "mothership" drones, has improved Russian capabilities in interdicting Ukrainian ground lines of communication. This technological edge could facilitate further territorial gains.
-
-4. **Casualty Rates**: Despite the advances, Russian forces suffered substantial casualties, with 416,570 reported in 2025. The high casualty rates may impact their operational sustainability and willingness to engage in further aggressive actions.
-
-5. **Recent Tactical Shifts
-
-Title: Russian Offensive Campaign Assessment, January 30, 2026 | ISW
-Author: Nadia Sleiman
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://isw.pub/UkrWar013026
-Summary: The Russian Offensive Campaign Assessment from January 30, 2026, provides insights that could be relevant for predicting whether Russia will capture Hryshyne by April 30, 2026. Key points include:
-
-1. **Current Military Operations**: Russian forces have recently made advances near Lyman and in the Kostyantynivka-Druzhkivka tactical area, indicating ongoing military activity and potential for further territorial gains.
-
-2. **Strategic Focus**: The Kremlin continues to prioritize territorial control, particularly in Donetsk Oblast, which suggests that Hryshyne, located within this region, may be a target for future offensives.
-
-3. **Moratorium on Strikes**: The Kremlin agreed to a temporary moratorium on striking Ukrainian energy infrastructure at the request of US President Trump, which may affect operational strategies and troop movements in the short term. However, this does not indicate a long-term ceasefire, and Russian forces are likely to continue their offensive operations.
-
-4. **War Crimes and Tactics**: Reports of extrajudicial executions of Ukrainian POWs and increased violence against civilians suggest a brutal approach by Russian forces, which could impact their operational effectiveness and international response.
-
-5. **Domestic Justifications**: The Kremlin's narrative around the peace negotiations indicates a reluctance to make concessions, suggesting that Russia may continue aggressive military actions to achieve its objectives.
-
-Overall, while recent advances indicate potential for capturing Hryshyne, the situation remains fluid
+Given this context, the likelihood of Russia capturing Hryshyne by April 30, 2026, hinges on the effectiveness of their upcoming offensive operations and the resilience of Ukrainian defenses in that area. The current military activities indicate a strategic push by Russia, which may increase the chances of capturing key locations like Hryshyne if the offensive is successful. However, the outcome will depend on various factors, including Ukrainian countermeasures and the overall dynamics of the battlefield leading up to that date.
 
 Title: Russian Offensive Campaign Assessment, Feb. 25, 2026 | ISW
 Author: Stefaniia Bern
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-25-2026/
-Summary: The Russian Offensive Campaign Assessment from February 25, 2026, indicates that Russian forces have not made significant advances since capturing Pokrovsk, which they completed in early December 2025. Despite claims from Russian officials that the seizure of Pokrovsk would facilitate further advances in Donetsk Oblast, Russian forces have failed to capture Hryshyne, located just two kilometers northwest of Pokrovsk. The assessment highlights that Russian forces have not significantly progressed in that direction since December 2025, suggesting that the capture of Hryshyne is unlikely by April 30, 2026. The slow and costly nature of the campaign for Pokrovsk, combined with the lack of operational momentum beyond this town, points to challenges for Russia in achieving further territorial gains in the near term.
+Summary: Based on the Institute for the Study of War's (ISW) assessment from February 25, 2026, it is difficult to predict whether Russia will capture Hryshyne by April 30, 2026. The report states that Russian forces have failed to capitalize on the seizure of Pokrovsk and make further operationally significant advances, suggesting that the seizure of the rest of Donetsk Oblast is not imminent. The report also notes that ISW has not observed Ukrainian forces operating in Pokrovsk since late January 2026, indicating that Russian forces likely captured the town sometime in the past few weeks. The Russian campaign for Pokrovsk has been ongoing for almost two years.
+
+
+Title: Russian Offensive Campaign Assessment, February 24, 2026 | ISW
+Author: Jordan Glynn
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-24-2026/
+Summary: As of February 24, 2026, the situation in the ongoing conflict between Russia and Ukraine indicates that Russia is facing significant challenges in its military campaign. Recent Ukrainian successes on the battlefield, particularly around Kupyansk, suggest that Ukrainian forces are gaining momentum and have made substantial territorial gains. This includes the liberation of at least 183 square kilometers and stabilization of control over key areas.
+
+Given these developments, the likelihood of Russia capturing Hryshyne by April 30, 2026, appears uncertain. The current battlefield dynamics do not favor a quick Russian recovery of lost territory, and Ukrainian forces have demonstrated their capability to conduct effective counterattacks. Therefore, while it is difficult to predict with certainty, the recent trends suggest that Russian advances may be hindered, impacting their ability to capture Hryshyne within the specified timeframe.
+
+Title: Russia in Review, Feb. 20–27, 2026
+URL: https://www.russiamatters.org/news/russia-review/russia-review-feb-20-27-2026
+Summary: The "Russia in Review" for the week of February 20–27, 2026, highlights significant developments in the ongoing conflict between Russia and Ukraine, which could impact predictions regarding the capture of Hryshyne by April 30, 2026. 
+
+1. **Negotiations Progress**: Russian and Ukrainian negotiators have narrowed their differences to two main issues: Ukraine's postwar security guarantees and control over fortified areas in the Donetsk region, where Hryshyne is located. This suggests that any resolution or change in control could hinge on these negotiations, which are set to continue in early March.
+
+2. **U.S. Involvement**: The U.S. has formally cautioned Ukraine against striking American economic interests in Russia, indicating a complex geopolitical landscape that could influence military actions. The U.S. is also involved in facilitating peace talks, which could affect the dynamics on the ground.
+
+3. **Military Situation**: The ongoing military actions and the extent of damage to U.S. companies operating in Ukraine could impact Ukraine's military capabilities and strategic decisions, potentially affecting its ability to hold or recapture territories like Hryshyne.
+
+4. **Statements from Leaders**: Ukrainian President Volodymyr Zelenskyy expressed hope for an end to the war this year, while former U.S. President Donald Trump indicated a desire for a swift resolution. The outcomes of upcoming negotiations may influence military strategies and territorial control.
+
+Overall, the situation remains fluid, and
 
 

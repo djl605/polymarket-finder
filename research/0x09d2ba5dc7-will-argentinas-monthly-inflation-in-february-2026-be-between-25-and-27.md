@@ -1,7 +1,7 @@
 # Research: Will Argentina’s monthly inflation in February 2026 be between 2.5% and 2.7%?
 
 **Market ID:** 0x09d2ba5dc7a731cfd13044d37ed62351f469d637bd4e3daba2fc2a8fe2d51828
-**Researched At:** March 1, 2026 at 06:06:07 AM UTC
+**Researched At:** March 2, 2026 at 02:56:37 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Argentina’s monthly inflation in February 2026 be between 2.5% and 2.7%?"
 
 ---
@@ -9,42 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 15.0¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-The Central Bank’s REM survey projects February inflation at 2.1%, and January’s 2.9% print makes a drop into 2.5–2.7% unlikely; the market’s 55.5% “Yes” thus appears significantly overpriced. Low trading volume suggests this price may reflect one or a few traders rather than a broad consensus.
+January’s 2.9% MoM inflation and an upward methodological bias make a 2.5–2.7% February print unlikely, suggesting the market’s 46% YES price may be modestly too high. However, limited forward-looking forecasts and low trading volume mean the mispricing is probably small.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Argentina’s official, unadjusted CPI MoM change for February 2026 will fall between 2.5% and 2.7% inclusive. A report of 2.5%, 2.6%, or 2.7% resolves to YES; anything below 2.5% or above 2.7% resolves to NO.
+The market asks whether Argentina’s CPI MoM change for February 2026 will fall between 2.5% and 2.7% (inclusive, rounded to one decimal). It resolves YES if INDEC reports 2.5%, 2.6%, or 2.7%; NO otherwise (i.e., if it’s ≤2.4% or ≥2.8%).
 
 2. EVIDENCE EVALUATION  
-Bearish (NO) evidence:  
-• INDEC data show January 2026 inflation at 2.9% MoM, up from 2.8% in December, signaling an accelerating trend that makes a sharp fall into 2.5–2.7% less likely.  
-• The Central Bank’s Market Expectations Survey (REM) of February 10 projects February MoM inflation at ~2.1%, well below the 2.5% threshold. REM forecasts are drawn from a wide panel of analysts and are typically incorporated quickly into market prices.
+Bearish (against YES):  
+- January MoM inflation was 2.9% (above the upper bound) and December was 2.8%, showing an upward short-run trend.  
+- AInvest notes a new CPI methodology that “prioritizes faster-growing services” and creates an upward bias.  
+- Food, utilities and other key categories remain under price pressure, with little evidence of a sharp slowdown heading into February.  
 
-Bullish (YES) evidence:  
-• Core inflation (excl. regulated prices) in January was 2.6%—inside the bracket—which might carry over partly into February if regulated‐price adjustments slow the headline rate.  
-• Political turmoil and the aborted CPI methodology overhaul could keep headline inflation stickier than private forecasts expect, potentially preventing a drop below 2.7%.
+Bullish (for YES):  
+- Some commentary (AInvest) expected January to print around 2.5% under the new methodology; possibly February could revert toward that level.  
+- Deloitte’s outlook hints at stabilization over 2026, though without specific monthly targets.  
 
-Source credibility & recency:  
-All data stem from INDEC releases (Jan data published Feb 10) and the Central Bank’s REM survey—both authoritative and extremely recent. Bloomberg and MercoPress reporting simply restate those official figures and surveys.
+Source credibility is moderate: all are second-hand reports based on INDEC data, but they are recent (Feb 2026) and consistent on January’s 2.9% reading. There is no obvious “smoking gun” that market participants have missed, only a clear trend of inflation running above the 2.7% cap.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 55.5% “Yes” price implies a moderate tilt for a February outcome inside 2.5–2.7%. Traders undoubtedly know January’s 2.9% print and the REM’s 2.1% forecast. Low volume suggests few participants; the narrow spread indicates those participants agree on ~55%. It could reflect a single trader’s cautious view rather than broad consensus.
+A 46% price suggests roughly even odds. That could reflect genuine division between traders expecting continued acceleration vs. those expecting policy-driven moderation. Low volume means price might be set by a few, but the clear upward trend in headline inflation should be widely known. The split may simply reflect uncertainty over how quickly inflation will adjust under the new methodology, rather than a large informational gap.
 
 4. MISPRICING ASSESSMENT  
-Given the credible REM forecast of 2.1% and January’s 2.9%, the probability of February landing in 2.5–2.7% is likely below even odds. If we assume REM forecasts have an error distribution that assigns ≤30% chance to the 2.5–2.7% interval, the market at 55.5% is materially overpriced. There is no strong counter‐evidence that would comfortably justify >50% without assuming large, unexplained shock risks.
+Given January’s 2.9% print and methodological bias upward, the probability of falling into 2.5–2.7% seems well below 46%. A more realistic ballpark might be ~30%. That implies a mispricing of roughly 16 cents. However, forecasts for February are scant, and traders may be giving some weight to stabilization hopes. I see a potential 10–15 cent mispricing but with considerable uncertainty.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 60% (given credible, recent official data and survey)  
-Magnitude of mispricing: ~25 cents (market ~55.5% vs. ~30% True)  
-Expected value = 0.6 × 25 cents = 15 cents
+Strength of evidence: 40% (trend is clear, but no detailed February forecast)  
+Magnitude of mispricing: 10 cents (conservatively)  
+Expected value = 0.40 × 10 cents = 4 cents
 
-EXPECTED_VALUE: 15  
-SUMMARY: The Central Bank’s REM survey projects February inflation at 2.1%, and January’s 2.9% print makes a drop into 2.5–2.7% unlikely; the market’s 55.5% “Yes” thus appears significantly overpriced. Low trading volume suggests this price may reflect one or a few traders rather than a broad consensus.  
+EXPECTED_VALUE: 4.0  
+SUMMARY: January’s 2.9% MoM inflation and an upward methodological bias make a 2.5–2.7% February print unlikely, suggesting the market’s 46% YES price may be modestly too high. However, limited forward-looking forecasts and low trading volume mean the mispricing is probably small.  
 CONFIDENCE: low
 
 ---
@@ -57,47 +57,42 @@ Title: Argentina Consumer Price Index (MoM) increased to 2.9% in January from pr
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.fxstreet.com/news/argentina-consumer-price-index-mom-increased-to-29-in-january-from-previous-28-202602101916
-Summary: In January 2023, Argentina's Consumer Price Index (CPI) increased by 2.9% month-over-month, up from 2.8% in December 2022. This trend indicates a slight acceleration in inflation rates, which could be relevant for predicting future inflation trends, including February 2026. 
-
-To assess whether Argentina's monthly inflation in February 2026 will fall between 2.5% and 2.7%, consider the following factors:
-
-1. **Historical Trends**: The recent increase in CPI suggests a continuing inflationary environment, which may influence future rates.
-2. **Economic Policies**: Government measures to control inflation, such as monetary policy adjustments or fiscal interventions, could impact inflation rates.
-3. **External Factors**: Global economic conditions, trade relationships, and commodity prices can also affect domestic inflation.
-4. **Market Sentiment**: Investor confidence and consumer behavior may shift based on economic indicators leading up to February 2026.
-
-Monitoring these elements will provide insights into potential inflation outcomes in Argentina for the specified period.
+Summary: In January 2026, Argentina's Consumer Price Index (CPI) increased to 2.9% month-over-month, up from 2.8% in December 2025. This rise in inflation may indicate a continuing trend of increasing prices, which could impact predictions for February 2026. Given the current trajectory of inflation, it appears less likely that February's monthly inflation will fall between 2.5% and 2.7%. Monitoring economic indicators and trends leading up to February will be crucial for making a more accurate prediction.
 
 Title: Argentina: January inflation hits 2.9% and 12-month rate reaches 32.4%, INDEC says — MercoPress
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://en.mercopress.com/2026/02/10/argentina-january-inflation-hits-2.9-and-12-month-rate-reaches-32.4-indec-says
-Summary: In January 2026, Argentina's inflation rate was reported at 2.9%, with a 12-month rate of 32.4%, according to INDEC. The monthly increase was primarily driven by a 4.7% rise in food and non-alcoholic beverages and a 4.1% increase in restaurants and hotels. The core CPI rose by 2.6%, while regulated prices increased by 2.4%. 
+Summary: In January 2026, Argentina's inflation rate was reported at 2.9%, with a 12-month rate of 32.4%, according to the national statistics agency INDEC. This figure represents a slight increase from December's rate. The most significant contributors to the monthly inflation were food and non-alcoholic beverages, which rose by 4.7%, and restaurants and hotels, which increased by 4.1%. Seasonal items saw a rise of 5.7%, while core CPI and regulated prices increased by 2.6% and 2.4%, respectively.
 
-Economy Minister Luis Caputo indicated that the government postponed a planned overhaul of the Consumer Price Index (CPI) methodology, which has sparked controversy, particularly following the resignation of INDEC's chief. Analysts from the central bank's Market Expectations Survey (REM) project a monthly inflation rate of around 2.1% for both February and March 2026, suggesting a potential downward trend in inflation. 
+The context surrounding these inflation figures includes ongoing controversies regarding the government's decision to delay a planned overhaul of the Consumer Price Index (CPI) methodology, which could impact future inflation readings. Given the current trend of rising prices, particularly in essential categories, predicting a monthly inflation rate between 2.5% and 2.7% for February 2026 may be challenging, as January's rate was already higher than this range.
 
-Given this context, the projected inflation for February 2026 appears to be below the range of 2.5% to 2.7%, indicating that it is unlikely to fall within that range based on current forecasts.
+Title: Argentina's Inflation Data Flow: A Disruption to Rate-Cut Bets
+Author: AInvest
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.ainvest.com/news/argentina-inflation-data-flow-disruption-rate-cut-bets-2602/
+Summary: In February 2026, Argentina's monthly inflation is expected to be influenced by several key factors. The recent resignation of Statistics Director Marco Lavagna has introduced uncertainty regarding the new inflation methodology, which prioritizes faster-growing services like utilities and rent. This change is likely to create an upward bias in reported inflation figures. 
 
-Title: Argentina Inflation Sped Up for a Fifth Month in January - Bloomberg
-Author: Patrick Gillespie
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.bloomberg.com/news/articles/2026-02-10/argentina-inflation-sped-up-for-fifth-straight-month-in-january
-Summary: In January 2026, Argentina's inflation accelerated for the fifth consecutive month, indicating a persistent upward trend in prices. This rise in inflation coincides with political instability, highlighted by the resignation of the head of the national statistics agency due to a disagreement with President Javier Milei. Given this context, predicting February's inflation rate is challenging. The ongoing economic turmoil and leadership changes may contribute to continued inflationary pressures, making it uncertain whether the monthly inflation will fall within the 2.5% to 2.7% range. Monitoring these developments will be crucial for making an informed prediction.
+The January data, which will be the first to utilize this new methodology, is anticipated to show a monthly rise of approximately 2.5%. However, the sharp 2.8% increase in December raises concerns about potential volatility in the inflation rate. Additionally, persistent high prices for beef and utility costs could pose risks to disinflation efforts.
 
-Title: Inflation in January 2026 Was 2.9 per Cent and Maintained the Upward Trend Recorded 8 Months Ago
+Given these dynamics, while the expectation for February's inflation is within the 2.5% to 2.7% range, the new methodology and external economic pressures could lead to fluctuations that may affect this prediction.
+
+Title: Argentina Inflation Accelerates in January
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
-URL: https://ground.news/article/consumer-price-index-increased-by-29-per-cent-in-january-over-schedule
-Summary: In January 2026, Argentina's inflation rate was reported at 2.9%, marking the highest level since March 2025 and continuing an upward trend observed over the past eight months. This increase has raised concerns regarding the accuracy of the National Institute of Statistics and Censuses (INDEC) methodology for calculating inflation, particularly in light of recent controversies surrounding the agency's leadership and data reporting practices.
+URL: https://tradingeconomics.com/argentina/inflation-rate-mom/news/524743
+Summary: Argentina's monthly inflation in January 2026 was 2.9%, higher than the 2.8% in December and the expected 2.5%. Several sectors saw price changes: recreation/culture slowed, while restaurants/hotels accelerated. Food and non-alcoholic beverages saw a significant increase to 4.7%. Year-on-year inflation rose to 32.4% in January, up from 31.5% in December. Given the increasing trend, it is difficult to predict if February's inflation will be between 2.5% and 2.7%.
 
-Given the current inflation rate of 2.9% and the ongoing upward trend, predicting that February 2026's inflation will fall between 2.5% and 2.7% may be optimistic. The consistent rise in inflation over the previous months suggests a potential for continued increases rather than a decrease. Additionally, the categories driving inflation, such as non-alcoholic foods and beverages, indicate persistent pressures on prices.
 
-Overall, while external factors and economic policies could influence February's inflation, the current trajectory suggests that it may remain above the 2.5% to 2.7% range.
+Title: Global economic outlook 2026 | Deloitte Insights
+Published Date: 2025-12-19T00:00:00.000Z
+URL: https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook-2026.html
+Summary: The Deloitte Insights report on the global economic outlook for 2026 highlights significant trends that may impact Argentina's inflation rates. Following two years of macroeconomic adjustments, Argentina is expected to enter 2026 with a more stable economic framework, characterized by fiscal consolidation and a managed exchange-rate regime. These measures aim to address chronic imbalances and restore stability.
 
-Title: BBVA Research Lifts Its 2026 Inflation Forecasts For Argentina To 22% As CPI Higher Than Expected In January | MarketScreener
-Author: MT Newswires
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.marketscreener.com/news/bbva-research-lifts-its-2026-inflation-forecasts-for-argentina-to-22-as-cpi-higher-than-expected-in-ce7e5adddc8aff21
-Summary: BBVA Research has raised its inflation forecast for Argentina in 2026 to 22%, citing higher-than-expected Consumer Price Index (CPI) figures for January. This adjustment indicates a concerning trend in inflation, which may influence expectations for February's monthly inflation rate. Given the current economic climate and the recent CPI data, analysts may need to consider various factors, including economic policies, external market conditions, and domestic factors, to predict whether February's inflation will fall between 2.5% and 2.7%. The recent increase in inflation forecasts suggests that there is a possibility of continued upward pressure on prices in the short term.
+The report notes that the U.S. trade policies have influenced global economic dynamics, potentially affecting Argentina's trade relationships and inflation. As Argentina continues to navigate these changes, the focus on technological innovation and investment may also play a role in shaping economic conditions.
+
+While the report does not provide specific predictions for monthly inflation rates, the ongoing adjustments and the economic environment suggest that inflation could stabilize. However, the potential for volatility remains, particularly if external factors or domestic policies shift unexpectedly.
+
+In summary, while the groundwork for stability is being laid, the actual inflation rate in February 2026 will depend on various factors, including the effectiveness of Argentina's economic policies and external economic conditions.
 
 
