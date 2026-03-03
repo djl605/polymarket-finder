@@ -1,49 +1,51 @@
 # Research: Will EUR/USD hit 1.14 (Low) in 2026?
 
 **Market ID:** 0xce3db986c20f4bfc4bb65f467f124e269833abee42a7442a8244be7b4ffbbb8a
-**Researched At:** March 1, 2026 at 02:34:24 PM UTC
+**Researched At:** March 3, 2026 at 02:57:33 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will EUR/USD hit 1.14 (Low) in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 10.8¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Research forecasts a gradual EUR/USD uptrend with strong support near 1.17 and no 2026 targets as low as 1.14, suggesting the market’s 47% probability overstates the downside risk. Low trading volume and divergence from major bank outlooks point to inefficiency.
+Research is mixed—some see 1.14 as a plausible tail outcome under dollar weakness, while key support levels and neutral forecasts suggest it’s less likely. A small overpricing (~5 cents) at 30% confidence yields an expected value of ~1.5 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the EUR/USD hourly low (Investing.com “L”) will fall to 1.14 or below at any point in 2026. A “Yes” requires at least one finalized hourly candle low ≤ 1.14 before year-end; otherwise, it resolves “No.”
+The market asks whether EUR/USD will record an hourly‐candle low at or below 1.1400 at any time through December 31, 2026. A “Yes” requires a single finalized hourly low ≤ 1.14; failing that by end of 2026 yields “No.”
 
 2. EVIDENCE EVALUATION  
-– Bearish signals: Recent five-day bearish momentum breaching 1.1850 (FXStreet 2026-02-16), and geopolitical/US data risks (FXStreet 2026-02-12) could push EUR/USD lower.  
-– Bullish forecasts: Commerzbank (2026-02-13) expects 1.19 in Q1 and 1.22 by year-end, underpinned by Fed cuts to 2.75% vs. ECB at 2.0%. FCS API (2026-02-16) identifies strong 100-period SMA support at 1.16855. Medium-term bank forecasts (Morgan Stanley, Danske) also see recoveries above 1.20 before any lower levels.  
-– Source credibility: All studies published within February 2026 from reputable banks and FX analysts. No specific 1.14 forecast for 2026, only for 2027 (Morgan Stanley).  
-– Over-confidence check: If knock-in were near-certain, the market would be at a much lower probability. The lack of any analyst targeting 1.14 this year argues the 47% is likely too high.
+Bearish signals (supporting >69.5%):  
+- Morgan Stanley (Nov 2025) sees EUR/USD falling to 1.16 by end 2026 with possible extension to 1.14 if Fed cuts and renewed dollar weakness occur.  
+- Morningstar (Apr 2025) highlights structural dollar weakness amid tariff risks and recession fears, suggesting space for a drop toward 1.14 if trends persist.
+
+Bullish or neutral signals (undercutting 69.5%):  
+- FCS API (Feb 2026) points to firm support at the 200-hour EMA near 1.1569 and a narrow consolidation; without a catalyst, a sharp descent to 1.14 is unlikely.  
+- DailyForex (Mar 2026) emphasizes choppy trading driven by Fed policy, but does not forecast a move down to 1.14 this year—more range-bound action is expected.  
+- RoboForex (Mar 2026) identifies key technical levels but offers no clear path toward a 1.14 low absent a major breakdown in momentum.
+
+Sources are recent (Nov 2025–Mar 2026) and from established FX research firms, but forecasts vary. No source provides definitive odds; most see 1.14 as a tail outcome requiring an unusual catalyst.
 
 3. MARKET EFFICIENCY ANALYSIS  
-– A 47% price could reflect traders pricing non-negligible tail risks (e.g., Fed holds rates high, renewed global stress).  
-– Low volume suggests few players; the price may stem from a single bearish bettor rather than broad consensus.  
-– Given prominent bank forecasts show steady euro strength, informed traders would assign a significantly lower chance of 1.14 being hit.
+A 69.5% implied chance suggests traders believe dollar weakness or dovish Fed policy will materialize. Low trading volume may mean few participants are setting this price, but it also could reflect broad agreement that a drop to 1.14 is more likely than not, given current dollar‐euro dynamics. The tight spread implies at least two‐sided interest, so it’s not purely a lone whale.
 
 4. MISPRICING ASSESSMENT  
-– Weighing robust bullish medium-term outlooks and support levels against transient USD strength, the true probability likely lies in the mid-teens, not near 50%.  
-– No major technicality or resolution misinterpretation seems in play.  
-– The market shows inefficiency from low engagement and lack of alignment with recent bank projections.
+There’s no single high-confidence forecast signaling a near certainty or impossibility of 1.14. Major catalysts (tariff escalations, Fed pivots) could push price lower, but absent those, current support levels argue against a 4% move. On balance the market’s ~70% seems slightly elevated relative to most analytical scenarios that put 1.14 in the tail rather than the base case—but not so far off as to indicate a >20-cent mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (bullish consensus, no 1.14 targets in 2026): 40%  
-Magnitude of mispricing (47%–20% ≈ 27 ¢): 27  
-Expected value = 0.40 × 27 ¢ = 10.8 ¢
+Strength of evidence for mild overpricing: ~30%  
+Estimated magnitude of mispricing: ~5 cents  
+Expected value = 0.30 × 5 cents = 1.5 cents
 
-EXPECTED_VALUE: 10.8  
-SUMMARY: Research forecasts a gradual EUR/USD uptrend with strong support near 1.17 and no 2026 targets as low as 1.14, suggesting the market’s 47% probability overstates the downside risk. Low trading volume and divergence from major bank outlooks point to inefficiency.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.5  
+SUMMARY: Research is mixed—some see 1.14 as a plausible tail outcome under dollar weakness, while key support levels and neutral forecasts suggest it’s less likely. A small overpricing (~5 cents) at 30% confidence yields an expected value of ~1.5 cents.  
+CONFIDENCE: low
 
 ---
 
@@ -51,67 +53,35 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: EUR/USD: Gradual rise to 1.22 by year-end – Commerzbank
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.fxstreet.com/news/eur-usd-gradual-rise-to-122-by-year-end-commerzbank-202602130904
-Summary: Commerzbank's forecast for the EUR/USD exchange rate suggests a gradual increase, predicting it will reach 1.19 in Q1 2026 and rise to 1.22 by year-end. This outlook is based on a robust US economic growth rate of approximately 3% and a stable Euro area environment. The bank anticipates the Federal Reserve will cut interest rates to 2.75% by March 2026, while the European Central Bank will maintain rates at 2.0%. 
+Title: EURUSD forecast and analysis for today, 3 March 2026: key levels & trading scenarios - RoboForex
+Author: RoboForex Ltd
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://roboforex.com/beginners/analytics/forex-forecast/currencies/eur-usd-forecast-2026-03-03/
+Summary: The RoboForex analysis for March 3, 2026, indicates that the EUR/USD currency pair is influenced by key technical levels and trading scenarios. While specific price targets like 1.14 are not explicitly forecasted, the analysis emphasizes monitoring support and resistance levels, market momentum, and potential breakout or reversal signals. The current trend and volatility patterns suggest that traders should watch for significant price movements around established levels, which could either support or hinder the pair reaching a low of 1.14 in 2026. Overall, the outlook depends on how EUR/USD interacts with these key levels amid ongoing market dynamics.
 
-Given this context, the likelihood of EUR/USD hitting a low of 1.14 in 2026 appears low, as the forecast indicates a steady upward trend rather than a decline. The economic conditions and interest rate expectations outlined by Commerzbank suggest that the euro is expected to strengthen against the dollar throughout the year.
-
-Title: EUR/USD Price Forecast: Next on the downside comes 1.1815
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.fxstreet.com/analysis/eur-usd-price-forecast-next-on-the-downside-comes-11815-202602121910
-Summary: The EUR/USD currency pair is currently experiencing a pullback, trading around the 1.1850 level after a recent rebound that stalled just above 1.1900. The outlook remains cautiously optimistic, with the potential for a move towards the 1.2000 mark if market sentiment remains stable. However, the US Dollar has gained some traction due to geopolitical tensions and speculation about Russia's financial strategies, which could influence the pair's trajectory.
-
-Key factors to consider for predicting whether EUR/USD will hit 1.14 in 2026 include:
-
-1. **Current Trends**: The pair is currently on a downward correction, which could indicate potential for further declines if the US Dollar continues to strengthen.
-
-2. **US Economic Indicators**: Upcoming US economic data, particularly the Consumer Price Index (CPI), could impact the USD's strength and, consequently, the EUR/USD rate.
-
-3. **Federal Reserve Policies**: The Fed's recent decision to maintain interest rates suggests a cautious approach to monetary policy, which could influence market confidence and the USD's performance.
-
-4. **Geopolitical Factors**: Ongoing tensions, such as those involving Iran and Russia, may affect investor sentiment and currency valuations.
-
-5. **Market Sentiment**: The overall market sentiment towards the Eurozone and the US economy will play a crucial role in determining the direction of the EUR/USD pair.
-
-In summary, while the current trend shows a pullback, various economic and geopolitical factors will be critical in
-
-Title: EUR/USD Price Forecast: Further losses could extend to 1.1760
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.fxstreet.com/analysis/eur-usd-price-forecast-further-losses-could-extend-to-11760-202602161842
-Summary: The EUR/USD currency pair is currently experiencing a bearish trend, having recently breached the 1.1850 level and continuing its decline for five consecutive days. This downward movement is attributed to a strengthening US Dollar, influenced by recent US CPI data and upcoming economic indicators, including the FOMC Minutes. Analysts suggest that unless there is a significant shift in market sentiment, the pair may face further losses, potentially extending to levels around 1.1760.
-
-Given the current trajectory and the Federal Reserve's recent tone, which indicates a cautious optimism about growth while acknowledging persistent inflation, the outlook for EUR/USD remains uncertain. The pair's ability to rebound above the 1.1900 mark is hindered by resistance, and the next significant upside target is seen at 1.2000. 
-
-For predicting whether EUR/USD will hit 1.14 in 2026, it is essential to monitor ongoing economic developments, particularly in the US, as well as shifts in market sentiment towards the Eurozone. The current bearish trend and the Fed's stance on interest rates could influence the pair's movement significantly in the coming months and years.
+Title: EUR/USD Forex Forecast for March 2026
+Author: Adam Lemon
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.dailyforex.com/forex-technical-analysis/2026/03/eurusd-forex-forecast-march-2026/241892
+Summary: The forecast for EUR/USD in March 2026 suggests a highly choppy trading environment throughout February and likely into March, primarily driven by US monetary policy and US dollar movements. The US Federal Reserve's potential rate cuts are uncertain, with recent economic data indicating a less dovish stance than previously expected. Resistance levels around 1.23 are significant, and the pair's movement will largely depend on US economic indicators and policy decisions rather than European factors, which are expected to remain relatively flat. Given this context, while the pair may experience declines, the forecast does not strongly indicate a move down to 1.14 in 2026.
 
 Title: Euro to Dollar Forecast: Analysts Split as EUR/USD Eyes Recovery ...
 Author: Tim Boyer 
 						 British Pound to Dollar Forecast: GBP/USD Holds Above 1.31 Ahead of Budget Risk
 Published Date: 2025-11-24T00:00:00.000Z
 URL: https://www.currencynews.co.uk/forecast/20251124-44626_euro-to-dollar-forecast-analysts-split-eur-usd-eyes-recovery-from-1-15.html
-Summary: The article discusses the current outlook for the Euro to Dollar (EUR/USD) exchange rate, which recently tested the 1.15 mark amid market volatility and changing expectations regarding Federal Reserve policy. Analysts are divided on the future trajectory of the EUR/USD rate. 
+Summary: The EUR/USD exchange rate recently tested 1.15 amid market volatility and reduced expectations of a December Fed rate cut. Analysts are divided on the currency's future trajectory. Danske Bank anticipates the euro could strengthen to around 1.22 over the next year, suggesting potential upward movement. Conversely, Morgan Stanley forecasts a rise to approximately 1.23 by mid-2026, followed by a decline to 1.16 by the end of 2026, with a possibility of dropping further to 1.14. Overall, while some forecasts indicate the potential for EUR/USD to reach 1.14 in 2026, others suggest it may stay above that level, depending on Fed policy developments and market volatility.
 
-- **Short-term Outlook**: The immediate pressure on the EUR/USD is influenced by uncertainties surrounding Fed policy and rate differentials. 
-
-- **Medium-term Predictions**: 
-  - **Danske Bank** predicts a recovery to 1.22 within 12 months.
-  - **Morgan Stanley** anticipates a rise to 1.23 by Q2 2026, followed by a decline to 1.16 by the end of 2026, and further losses to 1.14 in 2027.
-
-Given these forecasts, while there is a possibility of the EUR/USD hitting 1.14 in 2026, it is expected to experience fluctuations, with some analysts predicting a recovery above 1.20 before any potential decline. Thus, the outlook remains uncertain, and monitoring Fed policy changes will be crucial for future predictions.
-
-Title: EURUSD Price Target & Analysis | FCS API Data | February 2026
+Title: EURUSD Price Today & 2026 Outlook | FCS API Analysis
 Author: FCS API
 Published Date: 2026-02-16T00:00:00.000Z
-URL: https://fcsapi.com/blog/euro-u-s-dollar-forecast-2026-the-1-16855-level-is-everything
-Summary: The analysis of the EUR/USD pair suggests that while the current price is at 1.18558, there is a significant support level at the 100-period simple moving average (SMA) of 1.16855. This SMA has previously acted as a strong floor, indicating that a pullback to this level is possible and could serve as a key trading opportunity. 
+URL: https://fcsapi.com/blog/euro-u-s-dollar-forecast-2026-the-1-1569-level-is-everything
+Summary: The analysis indicates that the EUR/USD currently trades around 1.18568, with a bullish short-term trend supported by the EMA 200 at 1.1569, which acts as a strong long-term support level. The pair shows low volatility and is consolidating within a narrow range, with resistance near 1.1876 and support around 1.1569. Given the current signals and the modest six-month performance (+1.77%), there is no immediate indication of a sharp decline toward 1.14. However, the overall outlook remains uncertain, and a significant move would depend on breaking key resistance or support levels. For 2026, the forecast remains cautious, emphasizing that without a catalyst, the pair is unlikely to approach the 1.14 low, especially considering the current bullish momentum and support levels.
 
-Despite the current bullish price action, the overall market signals are mixed, with oscillators indicating selling pressure. The immediate resistance is at 1.18762, and a break above this level requires more momentum than the market currently possesses. The analysis highlights that the market is in a fragile state, with a one-week performance of +0.39%, suggesting underlying support but also uncertainty.
-
-To predict whether EUR/USD will hit the low of 1.14 in 2026, it's crucial to monitor the price action around the SMA 100 and the overall market sentiment. If the pair tests and holds above this support level, it may indicate a stronger upward trend, making a drop to 1.14 less likely. Conversely, a failure to maintain this support could lead to further declines. Thus, keeping an eye on these key levels and market signals will be essential for making accurate predictions.
+Title: Dollar Hits 3-Year Low Against the Euro in Tariff Turmoil - Morningstar
+Author: Valerio Baselli
+Published Date: 2025-04-11T00:00:00.000Z
+URL: https://www.morningstar.com/markets/dollar-hits-3-year-low-against-euro-tariff-turmoil
+Summary: The recent decline of the US dollar to a three-year low against the euro, driven by tariff tensions between the US and China, recession fears, and shifts in investor sentiment, suggests continued dollar weakness. Factors such as European investors repatriating capital, concerns over US economic growth amid rising tariffs, and potential de-dollarization are contributing to the dollar's decline. Market analysts indicate that the EUR/USD exchange rate is influenced heavily by confidence in the dollar, with current overvaluation of around 4%. Given these dynamics, if the trend persists and confidence in the US economy remains fragile, EUR/USD could approach or surpass the 1.14 level in 2026.
 
 
