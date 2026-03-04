@@ -1,7 +1,7 @@
 # Research: Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?
 
 **Market ID:** 0xa298a49eea7784adea08c72ea36098842160bdb84d43c991f1b36c83aa3887de
-**Researched At:** March 1, 2026 at 06:05:04 AM UTC
+**Researched At:** March 4, 2026 at 04:17:26 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?"
 
 ---
@@ -9,43 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 16.0¢
+**Expected Value:** 7.5¢
 
 ### Summary
 
-Recent Feb 20/26 polls consistently show Deb Haaland leading Sam Bregman by 20–30 points, with Bregman stuck around mid-20s even after a scandal hit Haaland. The market’s 41.5% price thus appears to overweight tail scenarios without supporting evidence, suggesting a ~20-cent overpricing.
+Recent polling consistently shows Bregman at ~25% support, yet the market prices him at 37.5%, indicating a likely overvaluation of roughly 12.5 points. Low volume and limited data suggest this is a modest inefficiency.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Sam Bregman will emerge as the winner of the June 2, 2026 Democratic primary for New Mexico governor. A “YES” resolution requires Bregman to outpoll Deb Haaland (or any other Democratic candidate) in that primary; a “NO” resolution covers Haaland winning or any other outcome (including no primary).
+The market asks: “Will Sam Bregman win the 2026 New Mexico Governor Democratic primary?”  
+- YES if Bregman is the overall winner (including any run-off) of the June 2, 2026 Democratic primary.  
+- NO if he loses or if no primary occurs.  
 
 2. EVIDENCE EVALUATION  
-Bullish for Bregman (supports ≈41.5%):  
-• Undecided voters are large (18–29% in polls). If Haaland’s support erodes further (e.g., through additional scandals), undecideds could tilt toward Bregman.  
-• Bregman has leveraged high–profile stances (e.g., prosecuting ICE) and has spent ~$300 K on ads, indicating an active, well-funded effort.  
-• His local DA background and tribal government ties may resonate with key New Mexico constituencies.
+Bullish for Bregman (higher than 37.5%):  
+- Epstein revelation poll (Feb 26): Haaland support dips from 56% to 46% after negative headlines; Bregman edges up to 25%. The controversy could continue undermining Haaland.  
+- Bregman’s strong local ties, $300k+ ad spend, and tribal connections might close a 20-point gap.  
 
-Bearish for Bregman (argues price is too high):  
-• Two independent Feb 20/26 polls (n≈696) show Haaland leading 56–26 (18% undecided) and 46–25 after an Epstein‐related reveal (29% undecided), implying Bregman is behind by roughly 20–30 points. Even if all undecideds swung to him, he would barely overtake.  
-• Haaland’s national profile and grassroots network (2,500+ signatures) appear far more robust than Bregman’s current infrastructure.  
-• No indication in these polls or filing reports that Bregman has closed the gap meaningfully; his support remains static around mid-20s.
+Bearish vs. current 37.5% price:  
+- Internal poll (Feb 20): Haaland leads 56%–26%. Bregman is at 26%, implying closer to a 25–30% win probability, not 37.5%.  
+- Haaland’s deep statewide network, fundraising advantage, and Native American profile remain intact despite one story.  
+- No evidence of dramatic momentum swing; the market’s 37.5% overshoots all published polling.  
 
-Source credibility and recency: Both polls come from the New Mexico Political Report and date from Feb 20 and Feb 26, 2026—very recent and likely representative of likely primary voters. The official filing report (Feb 4) and candidate profiles (Feb 27) add context but no contrary data.
+Source credibility and recency: Both polls are from the same outlet (New Mexico Political Report) in late February—reasonably current but limited in number and breadth. Other articles offer qualitative background but no quantitative shift.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 41.5% price suggests traders believe Bregman has nearly a 4-in-10 shot. A charitable interpretation is that they’ve priced in a large upside swing from undecided voters and potential Haaland missteps. However, low volume ($4.9 K) and tight spread (3¢) hint that a small group of traders may be setting prices without significant counter-orders. Given how out-of-line 41.5% is with consistent 25–30 point polling deficits, this price likely overweights tail risks.
+- A 37.5% price might reflect uncertainty over late-breaking controversies or unreported primary dynamics.  
+- Low $4.9k volume and a narrow spread suggest few traders set the price, not broad consensus.  
+- If outcome were obvious, volume might be even lower or price closer to 0% or 100%. Instead, the market likely sits where an over-exposed trader left it.  
 
 4. MISPRICING ASSESSMENT  
-Poll data imply Bregman’s win probability is <15%, even allowing for undecided volatility—much lower than 41.5%. To justify 41.5%, one needs to believe Haaland’s support will crater by >30 points in three months, a scenario for which there is no current evidence beyond the Epstein story’s modest impact (10-point drop, yet Bregman didn’t gain). No other sources suggest a major reversal. Therefore the market is likely overpriced Bregman by roughly 20 cents or more.
+- The most credible poll puts Bregman’s support at ~25%. Even giving him credit for upside from the Epstein story, his true win probability likely sits closer to 25–30%.  
+- The market’s 37.5% overstates his chances by ~7.5–12.5 points. There’s no strong evidence of further erosion in Haaland’s support or major campaign events favoring Bregman beyond what’s already reflected in polls.  
+- This appears to be a modest inefficiency driven by low volume and limited information aggregation.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (poll-based, recent, credible) ≈80%  
-Estimated magnitude of mispricing ≈20 cents  
-Expected value = 0.80 × 20 cents = 16 cents
+- Strength of evidence: 60% (single-source polling, plausible but not airtight).  
+- Magnitude of mispricing: ≈12.5 cents (37.5% – 25%).  
+- Expected value ≈ 0.60 × 12.5 = 7.5 cents.  
 
-EXPECTED_VALUE: 16.0  
-SUMMARY: Recent Feb 20/26 polls consistently show Deb Haaland leading Sam Bregman by 20–30 points, with Bregman stuck around mid-20s even after a scandal hit Haaland. The market’s 41.5% price thus appears to overweight tail scenarios without supporting evidence, suggesting a ~20-cent overpricing.  
+EXPECTED_VALUE: 7.5  
+SUMMARY: Recent polling consistently shows Bregman at ~25% support, yet the market prices him at 37.5%, indicating a likely overvaluation of roughly 12.5 points. Low volume and limited data suggest this is a modest inefficiency.  
 CONFIDENCE: medium
 
 ---
@@ -58,47 +63,30 @@ Title: New poll shows Haaland still comfortably ahead of Bregman as Dem. primary
 Author: Pat Davis
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://nmpoliticalreport.com/2026/02/20/new-poll-shows-haaland-still-comfortably-ahead-of-bregman-as-dem-primary-for-gov-heats-up/
-Summary: A recent poll indicates that Deb Haaland is significantly leading Sam Bregman in the Democratic primary for the New Mexico governor's race, with Haaland at 56% and Bregman at 26%, leaving 18% of voters undecided. This 30-point lead is consistent with previous polling data, suggesting that Haaland's support remains strong as the primary approaches. Bregman has attempted to gain traction through a high-profile pledge to prosecute ICE agents and has invested heavily in advertising, with a campaign budget exceeding $300,000. Despite these efforts, the polling suggests he has not made significant gains against Haaland's established lead. Given this information, Bregman's chances of winning the primary appear slim unless he can significantly shift voter sentiment in the remaining weeks.
+Summary: A recent internal poll indicates that Democratic candidate Deb Bregman trails incumbent Congresswoman Deb Haaland significantly in the 2026 New Mexico gubernatorial primary, with Haaland leading 56% to Bregman's 26% among likely voters. Despite Bregman's substantial campaign spending, including over $300,000 on advertising, Haaland maintains a comfortable 30-point lead. Given the current polling data and the large margin, it appears unlikely that Bregman will win the primary election.
 
 Title: Bregman polling: Epstein stories lowered Haaland support in Dem. gov primary - New Mexico Political Report
 Author: Pat Davis
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://nmpoliticalreport.com/2026/02/20/new-poll-bregman-022526/
-Summary: Recent polling indicates that Sam Bregman is trailing Deb Haaland in the Democratic primary for the New Mexico governor's race, with Haaland holding a 56% to 26% lead, and 18% of voters still undecided. However, a new poll suggests that recent revelations about Haaland's past flight on a private jet linked to Jeffrey Epstein have negatively impacted her support. After voters were informed about this connection, Haaland's support dropped to 46%, while Bregman rose to 25%. This shift occurred shortly after the news broke, indicating that the Epstein-related stories may influence voter perceptions and decisions. The poll, conducted with 696 likely Democratic primary voters, highlights the potential for changing dynamics as the election approaches. Bregman's campaign appears to be leveraging this information to gain traction among voters.
+Summary: A recent poll conducted shortly after news emerged about Deb Haaland’s 2014 flight on Jeffrey Epstein’s private jet indicates a potential impact on her support among Democratic primary voters. The poll shows Haaland’s support dropping from 56% to 46% after questions about her connection to Epstein were introduced, while Bregman’s support increased to 25%. The timing suggests that negative revelations about Haaland’s past associations may have weakened her lead, and Bregman’s campaign is actively leveraging this information. While Haaland remains ahead, the shift in voter support highlights a more competitive primary race, with Bregman gaining ground. This context suggests that Bregman’s chances of winning could improve if the Epstein-related controversy continues to influence voter perceptions.
 
 Title: NM Governor Candidates Officially File; Deb Haaland to Face District Attorney Sam Bregman in Democratic Primary - Native News Online
 Author: Shaun Griswold
 Published Date: 2026-02-04T00:00:00.000Z
 URL: https://nativenewsonline.net/currents/nm-governor-candidates-officially-file-deb-haaland-to-face-district-attorney-sam-bregman-in-democratic-primary
-Summary: In the upcoming 2026 New Mexico Governor Democratic primary, Deb Haaland and Sam Bregman are the main candidates. Deb Haaland, a prominent figure and former Secretary of the Interior, has a strong grassroots support base, evidenced by her collection of over 2,500 signatures to officially enter the race. She emphasizes her deep connection to New Mexico and her experience in statewide campaigns, which may resonate well with voters.
+Summary: Deb Haaland has officially filed to run for New Mexico governor, emphasizing her Native American heritage, extensive political experience, and focus on tribal sovereignty, energy, and education. She has gathered over 2,500 signatures to qualify for the Democratic primary. Her main opponent in the primary is Sam Bregman, the Bernalillo County District Attorney, who also submitted his signatures. Bregman’s background includes working relationships with tribal governments, which may influence the primary race. While Haaland's statewide experience and Native heritage position her as a prominent candidate, Bregman’s local government experience and connections with tribal communities could be significant factors. The primary election is scheduled for June 2, 2026, with the outcome uncertain at this stage.
 
-On the other hand, Sam Bregman, the Bernalillo County District Attorney, also brings significant experience and established relationships with tribal governments, which could appeal to voters concerned about tribal sovereignty and local governance. The primary election is set for June 2, 2026, with the general election following on November 3.
+Title: The Roundhouse Report: Bregman accuses Haaland of running scared | News | santafenewmexican.com
+Author: Daniel J. Chacón dchacon@sfnewmexican.com
+Published Date: 2026-03-01T00:00:00.000Z
+URL: http://www.santafenewmexican.com/news/roundhouse_report/the-roundhouse-report-bregman-accuses-haaland-of-running-scared/article_a0ef327c-d37a-4fa0-916b-eef6eb2178a2.html
+Summary: The article reports on a political dispute at the New Mexico State Legislature, where Sam Bregman has accused Congresswoman Deb Haaland of "running scared" in the context of ongoing political tensions. Bregman, a prominent Democratic figure, is involved in intra-party debates, but there is no specific information about his candidacy for governor or his prospects in the 2026 Democratic primary. The coverage focuses on recent legislative conflicts rather than Bregman's electoral ambitions or likelihood of winning future statewide elections.
 
-Factors to consider in predicting Bregman's chances include his local political experience, the strength of his campaign infrastructure, and his ability to connect with voters on key issues. Haaland's established national profile and advocacy for Native American rights may give her an edge, but Bregman's local ties and legal background could also play a crucial role in the primary outcome.
-
-Title: The cowboy hat-wearing Jewish lawyer running for governor of New Mexico
+Title: Sam Bregman: The cowboy hat-wearing Jewish lawyer running for governor of New Mexico
 Author: Gabby Deutch
 Published Date: 2026-02-27T00:00:00.000Z
-URL: https://jewishinsider.com/2026/02/new-mexico-gubernatorial-candidate-sam-bregman-jewish-lawyer/
-Summary: Sam Bregman, a Democratic candidate for the 2026 New Mexico gubernatorial primary, is a Jewish lawyer known for his distinctive cowboy hat. He is running against former Interior Secretary Deb Haaland. To assess Bregman's chances of winning the primary, consider factors such as his legal background, political experience, campaign strategies, and voter demographics. Additionally, analyze Haaland's incumbency and popularity, as well as the political climate in New Mexico leading up to the election. Bregman's unique identity and approach may resonate with certain voter segments, but competition from established figures like Haaland could pose significant challenges.
-
-Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The document does not provide specific information about Sam Bregman or the 2026 New Mexico Governor Democratic primary election. However, it outlines the competitive landscape of gubernatorial races in New Jersey and Virginia, highlighting key candidates, their backgrounds, and current polling data. 
-
-To predict whether Sam Bregman will win the Democratic primary in New Mexico, consider the following factors that are relevant based on the document's insights into other races:
-
-1. **Candidate Background**: Analyze Bregman's political experience, public perception, and any previous electoral performances, similar to how Mikie Sherrill's military and prosecutorial background is seen as an asset in New Jersey.
-
-2. **Party Support and Endorsements**: Look into the endorsements Bregman has received, as endorsements can significantly influence primary outcomes, as seen with Sherrill and Ciattarelli.
-
-3. **Voter Engagement**: Assess the level of enthusiasm and engagement among Democratic voters in New Mexico, akin to the Democratic base's mobilization in New Jersey.
-
-4. **Polling Data**: If available, review any polling data for Bregman compared to his competitors within the Democratic primary, similar to the polling statistics provided for New Jersey candidates.
-
-5. **Campaign Strategy**: Consider Bregman's fundraising efforts and campaign strategy, particularly in terms of grassroots support and public financing, which are crucial for success in primary elections.
-
-In summary, while the document does not directly address Sam Bregman, understanding the dynamics
+URL: https://ji.news/4t77f
+Summary: Sam Bregman is a Democratic candidate running for governor of New Mexico in 2026, challenging former Interior Secretary Deb Haaland in the primary. Known for his distinctive cowboy hat and Jewish heritage, Bregman is a prominent lawyer with a notable public profile. While the article highlights his background, campaign, and personal branding, it does not provide specific polling data, campaign momentum, or electoral support indicators. Therefore, predicting his chances of winning the primary based solely on this information is challenging. Factors such as his campaign strategy, voter reception, and the strength of his opponents will ultimately influence the election outcome.
 
 
