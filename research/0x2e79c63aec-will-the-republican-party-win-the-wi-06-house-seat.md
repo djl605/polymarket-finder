@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the WI-06 House seat?
 
 **Market ID:** 0x2e79c63aeca11414035c4e5c998c13941c46c89cd0e9285a62fd2b98cb55a624
-**Researched At:** March 1, 2026 at 06:01:04 AM UTC
+**Researched At:** March 5, 2026 at 02:57:18 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the WI-06 House seat?"
 
 ---
@@ -9,42 +9,40 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 0.5¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-There’s no district-specific polling or fundraising data on WI-06, and its strong GOP history makes an 84.5% chance plausible. Without concrete contrary evidence, the market appears roughly efficient.
+WI-06’s status as a solidly Republican district, coupled with state GOP fundraising advantages, supports the current ~85% price; limited direct polling and pending redistricting introduce modest uncertainty but not enough to indicate a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Republican Party will win Wisconsin’s 6th Congressional District seat in the November 4, 2026 midterms. It resolves YES if the winning candidate is ballot-listed (or caucuses) as Republican, NO otherwise.
+This market asks: “Will the Republican Party win Wisconsin’s 6th congressional district seat in the November 4, 2026 midterm?” A YES resolves if the GOP‐affiliated candidate (ballot‐listed or caucus‐aligned) wins; NO if a Democrat or other party does.
 
 2. EVIDENCE EVALUATION  
-• No direct polling or fundraising data for WI-06 in the research materials. The only district-specific fundraising story was for WI-7, and another article covered WI-3.  
-• Decision Desk HQ notes that GOP figures like state House Speaker Robin Vos are retiring and redistricting could reshape WI-06, but offers no firm direction on competitiveness.  
-• Historical partisanship: WI-06 is generally a safe Republican seat (e.g., GOP incumbents have won by large margins in recent cycles). No evidence of a credible Democratic surge here.  
-• Bearish factors: national political environment, Trump approval ratings, GOP primary fights—but none are quantified for this district.  
-• Bullish factors: incumbency, district lean, lack of Democratic traction in research.  
-• All sources are recent (Feb 2026) and credible for what they cover, but none provide data directly on WI-06.
+Bearish (against 84.5%):  
+• National generic ballot shows Democrats ahead by ~5.4 points as of March 2026, suggesting a modest tailwind for Dem challengers.  
+• Ongoing court‐ordered redistricting in WI could redraw WI-06 toward a more balanced map, adding uncertainty.  
+Bullish (for 84.5%):  
+• Historical lean: WI-06 has been reliably Republican (former Rep. Grothman won by large margins). No evidence of a strong Democratic prospect or well‐financed Dem challenger yet.  
+• Other WI districts (07, 08) show Republicans with substantial fundraising edges, implying GOP organizational strength state‐wide.  
+• Midterms typically disadvantage the president’s party (Democrat), offsetting national generic‐ballot nuances.  
+Credibility & recency: All sources date Feb–Mar 2026 and are reputable local/state political reporters or aggregators. None provide direct WI-06 polling or candidate info, so the market is pricing in structural lean plus legal map risk.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• An ~85% price is plausible given a safe GOP seat with little publicized contest.  
-• Low volume and narrow spread suggest few traders but also little disagreement—possibly because the outcome seems straightforward.  
-• Informed traders may view this as low-information, low-priority, hence limited trading.
+The 84.5% level plausibly reflects a consensus that WI-06 is strong R-leaning but subject to some electoral cycle and redistricting uncertainty. Low volume likely stems from the race being seen as non‐competitive by most, rather than informed traders neglecting it.
 
 4. MISPRICING ASSESSMENT  
-• No specific evidence of material developments that would push true probability substantially above or below 84.5%.  
-• Given lack of counter-evidence and known district lean, the market price is not obviously mispriced by more than a few cents.  
-• It appears reasonably efficient for a low-interest, low-volatility forecast.
+There’s no specific, credible signal that Republicans are dramatically over‐ or under‐valued; absent direct district polling or candidate quality shifts, a baseline of ~85% is defensible. Potential redistricting risk might shave a few percent, but insufficient to argue a >20 cent mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 10% (no direct data on WI-06 beyond baseline partisan lean)  
-• Magnitude of mispricing: 5¢ (small potential error)  
-• Expected value = 10% × 5¢ = 0.5¢
+Strength of evidence that price is wrong: ~40% (limited direct info, plausible but weak signals).  
+Magnitude of mispricing if wrong: ~5 cents.  
+Expected value ≈ 40% × 5 cents = 2 cents.
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: There’s no district-specific polling or fundraising data on WI-06, and its strong GOP history makes an 84.5% chance plausible. Without concrete contrary evidence, the market appears roughly efficient.  
+EXPECTED_VALUE: 2.0  
+SUMMARY: WI-06’s status as a solidly Republican district, coupled with state GOP fundraising advantages, supports the current ~85% price; limited direct polling and pending redistricting introduce modest uncertainty but not enough to indicate a large mispricing.  
 CONFIDENCE: low
 
 ---
@@ -57,38 +55,34 @@ Title: GOP leads fundraising in Wisconsin's 7th Congressional District
 Author: Laura Schulte
 Published Date: 2026-02-03T00:00:00.000Z
 URL: https://eu.jsonline.com/story/news/politics/2026/02/03/gop-leads-fundraising-in-wisconsins-7th-congressional-district/88420643007/
-Summary: The Republican Party is currently leading in fundraising efforts for the upcoming election in Wisconsin's 7th Congressional District, which is significant as they aim to succeed U.S. Rep. Tom Tiffany, who is running for governor. Key Republican candidates include Michael Alfonso, who has raised over $313,000; Jessi Ebben, with more than $316,000 raised; and Paul Wassgren, who has contributed $1.5 million of his own funds, totaling nearly $100,000 raised. The district has a strong Republican history, with Tiffany winning by over 25 percentage points in 2024. Both parties are preparing for contested primaries, with the primary election set for August 11 and the general election on November 3. Given the strong fundraising and Republican support in the district, the GOP appears well-positioned to maintain control of the seat.
+Summary: The article details the fundraising efforts of Republican candidates vying for Wisconsin's 7th Congressional District, which is a solidly Republican seat. Leading candidates include Michael Alfonso, Jessi Ebben, and Paul Wassgren, all of whom have raised substantial funds, with Wassgren notably contributing $1.5 million of his own money. Alfonso, endorsed by Trump, and Ebben, a former GOP primary candidate, demonstrate strong financial backing, indicating a competitive primary. The district's history shows a significant Republican advantage, with Tiffany winning by over 25 percentage points in 2024. While this information pertains specifically to WI-07, the strong fundraising and Trump-endorsed candidates suggest the Republican Party has a solid foundation to retain the seat, which may be indicative of similar strengths in WI-06, especially if the political climate remains favorable to Republicans.
+
+Title: Rep. Tony Wied way ahead of Democratic challengers in campaign funds
+Author: Jesse Lin
+Published Date: 2026-02-03T00:00:00.000Z
+URL: https://eu.greenbaypressgazette.com/story/news/politics/2026/02/03/rep-tony-wied-way-ahead-of-democratic-challengers-in-campaign-funds/88475638007/
+Summary: The article details that in the 8th Congressional District race, incumbent Republican Rep. Tony Wied significantly outperforms Democratic challengers in campaign funds, with over $353,000 cash on hand and approximately $675,000 raised, compared to Democrats’ much lower totals. Wied’s strong financial position, bolstered by substantial contributions from political committees and notable individual donors like Elon Musk, suggests a robust campaign advantage. While this information pertains specifically to WI-08, it indicates that Republican incumbents in Wisconsin districts currently hold a significant fundraising edge, which could be a positive predictor for the Republican Party's chances of winning the WI-06 House seat as well.
 
 Title: Competitive congressional race heats up
 Author: 
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://spectrumnews1.com/wi/milwaukee/news/2026/02/13/wisconsin-congression-cooke-van-orden
-Summary: The competitive congressional race in Wisconsin's third district is heating up, with Democrat Rebecca Cooke challenging Republican incumbent Derrick Van Orden. Recent fundraising reports indicate Cooke has outpaced Van Orden, raising over $1.1 million compared to his $931,000 in the last quarter of 2025. This race is significant as it could impact the Republican Party's control of the House, especially given the thin margins they currently hold.
+Summary: The article discusses the competitive Wisconsin's 3rd congressional district race between Democrat Rebecca Cooke and Republican incumbent Derrick Van Orden, highlighting that Cooke recently outfundraised Van Orden with over $1.1 million compared to $931,000. While fundraising success is notable, it does not guarantee victory, as other factors like candidate strategy, voter resonance, and national political conditions—particularly Donald Trump's approval rating—will influence the outcome. The race is gaining national attention due to tight redistricting and partisan dynamics, making it a key contest for Democrats aiming to flip the House. Although the article focuses on WI-03, the insights about fundraising, candidate positioning, and national political climate are relevant for predicting outcomes in Wisconsin's 6th district (WI-06), where similar factors such as campaign resources, candidate appeal, and broader political trends will impact whether the Republican Party can secure that seat.
 
-Political analysts suggest that while fundraising is important, other factors will also influence the election outcome, such as candidate appeal, voter resonance, and national political conditions, particularly Donald Trump's approval ratings. Cooke is running for the seat for the third time, having previously lost to Van Orden in 2024 by about 11,000 votes. The primary election is set for August 11, with Cooke positioning herself as a candidate focused on healthcare and economic issues, while Van Orden's campaign emphasizes his commitment to delivering results for Wisconsin families.
+Title: Generic Congressional Ballot: Latest Polls | Silver Bulletin
+Author: Nate Silver
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls
+Summary: The webpage provides an overview of the current state of the generic congressional ballot as of March 2026, showing Democrats holding a slight lead of approximately 5.4 percentage points over Republicans. While the overall national polling indicates a stable Democratic advantage, specific state-level dynamics, such as in Texas, suggest that local races could be competitive, with Democrats potentially overperforming expectations by around five points. 
 
-Overall, the dynamics of this race, including fundraising, candidate quality, and broader political trends, will be crucial in predicting whether the Republican Party can retain the WI-06 House seat.
+However, the site emphasizes that individual House races, including WI-06, depend heavily on local factors, candidate quality, and primary outcomes. The Texas primary results and the broader polling trends suggest that while Democrats currently have a slight edge nationally, the outcome in WI-06 will be influenced by state-specific campaign developments, voter turnout, and primary performance. 
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:00:49.220Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article discusses key House seats that could influence the 2026 elections, with a focus on the dynamics in Wisconsin, particularly the WI-06 district. It highlights that Wisconsin state House Speaker Robin Vos, a significant Republican figure, has announced he will not seek reelection in 2026. This could impact Republican strategies and voter sentiment in the district. Additionally, the article notes ongoing redistricting efforts that may affect the competitiveness of various seats, including potential changes in the WI-06 district. The political landscape is further complicated by conflicts within the Republican Party, particularly regarding endorsements and primary challenges, which could influence voter turnout and party cohesion. Overall, the outcome for the WI-06 seat will depend on these evolving factors, including redistricting and the Republican Party's ability to maintain unity and appeal to voters.
+In summary, the national polling environment favors Democrats slightly, but predicting the WI-06 race requires considering local primary results, candidate strength, and voter engagement rather than relying solely on national trends.
 
 Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
 Author: Geoffrey Skelley
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://open.substack.com/pub/decisiondeskhq/p/the-key-house-seats-in-2026-1
-Summary: The article discusses key House seats for the upcoming 2026 elections, focusing on various factors that could influence outcomes, including redistricting and candidate dynamics. In Wisconsin, the WI-06 House seat is particularly relevant as it may be affected by the political landscape shaped by recent events, such as the announcement of Wisconsin state House speaker Robin Vos not seeking reelection. Vos has been a significant figure in Wisconsin politics, and his departure could impact Republican strategies in the district.
-
-Additionally, the article highlights ongoing redistricting efforts in New York and Utah, which may indirectly affect the competitive landscape in Wisconsin. The shifting dynamics in these states suggest that Republicans may face challenges in maintaining their majority, particularly if they cannot adapt to changes in voter sentiment or district boundaries.
-
-Overall, while the article does not provide a definitive prediction for the WI-06 seat, it emphasizes the importance of local political shifts and redistricting outcomes in determining the likelihood of a Republican victory.
-
-Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1?isFreemail=true&post_id=188458309&publication_id=5685429&r=1b661k&triedRedirect=true
-Summary: The article discusses key House races for the 2026 elections, with a focus on various factors influencing the outcomes. Regarding the WI-06 House seat, it highlights the retirement of Wisconsin state House Speaker Robin Vos, a significant Republican figure, which could impact the party's strength in the district. Additionally, the political landscape is affected by redistricting efforts and potential challenges from Democrats. The article notes that redistricting in Wisconsin and other states may create more competitive races, which could influence the Republican Party's chances in WI-06. Overall, the dynamics surrounding candidate retirements, redistricting, and local political sentiments will be crucial in predicting whether the Republican Party can retain this seat.
+Summary: The webpage provides an overview of the upcoming 2026 U.S. House elections, highlighting key races and redistricting developments. Notably, Wisconsin's political landscape is affected by recent changes: Wisconsin State House Speaker Robin Vos announced he will not seek reelection, and the state's redistricting process has faced legal challenges. A court-ordered redistricting map, which could alter the partisan composition of districts, is a significant factor. The map's implementation may influence the competitiveness of Wisconsin's districts, including WI-06. Given the court's intervention and the potential for district boundaries to shift, the outcome of WI-06 in 2026 could be uncertain, with redistricting playing a crucial role in determining whether Republicans can hold or gain that seat.
 
 

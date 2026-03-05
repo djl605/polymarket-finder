@@ -1,52 +1,55 @@
 # Research: Will a team from LCK (South Korea) win LoL Worlds 2026?
 
 **Market ID:** 0xbfc776a7f419fdc9bec5f026cb6bd115db75e22664f5d99873e4c330676015f8
-**Researched At:** March 1, 2026 at 06:10:33 AM UTC
+**Researched At:** March 5, 2026 at 02:56:58 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will a team from LCK (South Korea) win LoL Worlds 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 6.0¢
+**Confidence:** Low
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Domestic LCK form is strong and one analyst pegs their Worlds odds at 90%, but gaps in LPL/LEC data and occasional LCK inconsistencies justify the market’s ~70% probability. There’s no clear >20-point mispricing; any edge is small.
+While multiple credible sources forecast an LCK victory, they lack balanced analysis of rival regions. The 71% probability reasonably reflects both LCK strength and uncertainty about international competition, leaving no clear mispricing signal.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will a team from the LCK (South Korea) win LoL Worlds 2026 by December 31, 2026 ET?” A “YES” resolves if the champion’s region is LCK; any other region (LPL, LEC, LCP, LCS, CBLOL) or no winner by year-end resolves “NO.”
+The market asks: “Will a team from South Korea’s LCK win the 2026 LoL World Championship?” A “YES” settlement requires an LCK team to be the first‐place winner by December 31, 2026 ET; otherwise it settles “NO.”
 
 2. EVIDENCE EVALUATION  
-Bullish (LCK win)  
-• Jordan Marney (Esports Insider, 2026-01-14) assigns a 90% chance to LCK (especially T1), citing historical dominance and recent form.  
-• Gen.G is undefeated in the 2026 LCK Cup playoffs (Feb 2026), showing strong teamwork, with domestic previews forecasting continued dominance.  
-• Dplus KIA exhibits robust statistics (57% map win, 64% first blood) and is heavily favored over DRX, indicating depth in LCK talent beyond just T1/Gen.G.  
+Bullish for LCK (suggesting the 71% price may be too low):  
+• Jordan Marney (Mar 2026): 90% chance for an LCK win, singling out T1’s continued dominance.  
+• Korea Herald (Mar 2, 2026): Gen.G’s LCK Cup victory reinforces LCK’s international pedigree.  
+• Inven Global (Mar 3, 2026): Gen.G’s roster stability and strategic cohesion likely translate to Worlds success.  
+• Inven Global (Feb 26, 2026) & 1v1Me (Feb 14): Dplus KIA and BNK FEARX performances underscore depth of LCK region.  
 
-Bearish (LCK might not win)  
-• Gen.G’s two-week break before Worlds could disrupt momentum.  
-• Dplus KIA and DK have shown occasional inconsistency under pressure; their struggles hint at vulnerabilities to exploit by top LPL or LEC teams when Worlds arrives.  
-• No data on LPL or other regions in these findings; we lack balanced evidence of rival leagues’ strength in 2026.  
+Bearish against LCK (suggesting 71% may be too high):  
+• No dedicated research on rival regions (LPL, LEC, etc.) is provided. Chinese LPL, in particular, has historically been LCK’s chief competitor.  
+• Domestic form doesn’t guarantee international victory; meta shifts and cross‐regional adaptation matter.  
 
-Source credibility: All sources are from January–February 2026, reputable within esports journalism. The 90% forecast is a single analyst’s view, possibly overconfident.  
+Source credibility and recency are solid (all March 2026), but they focus narrowly on LCK Cup outcomes and predictions rather than full international field analysis.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 70.5% price implies the market is factoring in both LCK’s historical strength and uncertainty about form, meta shifts, and foreign competition. Low volume could mean informed scalpers haven’t fully engaged, or most traders agree that LCK is favored but not overwhelmingly so.  
+• A 71% price can be justified as reflecting broad consensus that LCK will be favored but not a near‐lock (allowing for strong LPL/LEC contenders).  
+• Low volume suggests few active traders, but tight spread implies those who have traded agree roughly on the odds. It may simply be an uncontroversial market with general agreement rather than overlooked.  
 
 4. MISPRICING ASSESSMENT  
-The strongest bullish data (90% estimate) comes from one author and may overstate confidence; the market’s ~70% reflects a more conservative consensus acknowledging LPL/LEC threats and small domestic cracks. There’s no clear, overlooked data suggesting a >20-point mispricing.  
+• The bullish case (90%) is one side of the story; without comparable analysis of other regions, a 20% gap over the market isn’t solidly substantiated.  
+• No clear “smoking gun” data on LPL vs. LCK head‐to‐head or meta adaptability gaps is missing from the market.  
+• The 71% reflects reasonable uncertainty about LPL strength and Worlds‐specific variables.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 40% (single-author forecast vs broader uncertainties)  
-Magnitude of mispricing: 15 cents (market at 70.5% vs bullish view near 85–90%)  
-Expected value = 0.40 × 15¢ = 6¢  
+Strength of evidence: ~40% (research is credible but one‐sided)  
+Magnitude of mispricing: ~10¢ (potential undervaluation if LCK really sits nearer 80%)  
+Expected value = 0.40 × 10¢ = 4.0¢  
 
-EXPECTED_VALUE: 6  
-SUMMARY: Domestic LCK form is strong and one analyst pegs their Worlds odds at 90%, but gaps in LPL/LEC data and occasional LCK inconsistencies justify the market’s ~70% probability. There’s no clear >20-point mispricing; any edge is small.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 4.0  
+SUMMARY: While multiple credible sources forecast an LCK victory, they lack balanced analysis of rival regions. The 71% probability reasonably reflects both LCK strength and uncertainty about international competition, leaving no clear mispricing signal.  
+CONFIDENCE: low
 
 ---
 
@@ -56,69 +59,31 @@ CONFIDENCE: medium
 
 Title: Our 90/50/10 predictions for LoL esports in 2026
 Author: Jordan Marney
-Published Date: 2026-01-14T00:00:00.000Z
 URL: https://esportsinsider.com/lol-esports-predictions-2026
-Summary: The article predicts a 90% chance that a team from the LCK (League of Legends Champions Korea), particularly T1, will win the LoL World Championship in 2026. T1 has dominated the competitive scene and the World Championship in recent years, showcasing exceptional performance and skill. The analysis suggests that the LCK's strong track record and consistent success make them the frontrunners for the title. Additionally, the article hints at a potential decline in the performance of European teams, which could further solidify LCK's chances. Overall, the predictions strongly favor an LCK victory at Worlds 2026.
+Summary: Based on the 2026 LoL esports predictions, there is a strong 90% likelihood that an LCK (South Korean) team, particularly T1, will win the World Championship. T1 has dominated the scene in recent years, consistently performing at the top level and maintaining their competitive edge. The article emphasizes T1's recent success and the ongoing strength of the LCK region, making it highly probable that an LCK team will secure the title in 2026.
 
-Title: LCK Cup 2026 Playoffs Preview: DK Battles An Undefeated Gen.G - Total Apex Entertainment
-Author: Devin Morris
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://totalapexentertainment.com/gaming/e-sports/tournaments/lck-cup-geng-dk-preview/
-Summary: The LCK Cup 2026 Playoffs feature a critical matchup between Dplus KIA (DK) and the undefeated Gen.G Esports, which could provide insights into the potential success of LCK teams at the upcoming LoL Worlds 2026. Gen.G has demonstrated dominance in the tournament, not losing a single game thus far, while DK has shown inconsistency, struggling against teams like DRX. 
+Title: 2026 LCK Cup wraps up, Gen.G reigns supreme - The Korea Herald
+Author: Lee Yoon-seo
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.koreaherald.com/article/10685040
+Summary: The 2026 LCK Cup concluded with Gen.G emerging as the champion, reaffirming South Korea's strong presence in competitive League of Legends. Historically, LCK teams like Gen.G have demonstrated high skill levels and strategic prowess, often performing well in international tournaments such as the World Championship. While winning the LCK Cup indicates a team's current form and potential, predicting LoL Worlds 2026 success also depends on factors like team development, meta adaptability, and international competition dynamics. Nonetheless, Gen.G's victory suggests they will be a formidable contender and possibly a strong candidate to challenge for the World title in 2026.
 
-Key factors to consider for predicting an LCK team's performance at Worlds include:
+Title: Chovy Says Roster Stability Key To 2026 LCK Cup Win - Inven Global
+Author: Seoho "Ruudi" Yoon
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.invenglobal.com/articles/20275/chovy-says-roster-stability-key-to-2026-lck-cup-win
+Summary: The article reports on Gen.G's victory at the 2026 LCK Cup, emphasizing the importance of roster stability for future success. Gen.G's team, praised for their cohesive performance and strategic draft choices, demonstrated strong individual and team play, securing a decisive 3-0 win over BNK FEARX in the finals held in Hong Kong. Key factors highlighted include effective communication, understanding of roles, and consistent execution, which contributed to their dominance. The team’s head coach and players expressed confidence in their current form and potential for continued growth, with some suggesting that if the team maintains stability and adapts well to meta changes, they could be strong contenders for the upcoming World Championship. The success of BNK FEARX also indicates a rising level of competition within the LCK, suggesting that South Korean teams remain formidable on the international stage. Overall, the emphasis on roster stability and team cohesion suggests that a well-maintained LCK team like Gen.G could be a strong candidate to win LoL Worlds 2026.
 
-1. **Gen.G's Form**: Their undefeated streak indicates strong teamwork and strategy, essential for success in high-stakes tournaments like Worlds. However, their two-week break raises concerns about maintaining momentum.
-
-2. **DK's Challenges**: Despite having a talented roster, DK's recent performance has been shaky, marked by coordination issues and a lack of experience. Their previous encounter with Gen.G resulted in a decisive 2-0 loss, highlighting vulnerabilities that could be exploited by other teams at Worlds.
-
-3. **Historical Performance**: LCK teams have a strong track record at Worlds, often reaching the later stages of the tournament. The outcome of the LCK Cup could serve as a barometer for their readiness and adaptability against international competition.
-
-In summary, while Gen.G appears poised for success, DK's ability to overcome their struggles will be crucial in determining the overall strength of LCK teams heading into Worlds 2026.
-
-Title: Gen.G vs Dplus in League of Legends LCK Cup 2026 Playoffs: Prediction, head-to-head, livestream details, and more
-Author: Debayan Saha
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.sportskeeda.com/esports/gen-g-vs-dplus-league-legends-lck-cup-2026-playoffs-prediction-head-to-head-livestream-details
-Summary: The upcoming match between Gen.G and Dplus in the League of Legends LCK Cup 2026 Playoffs on February 14, 2026, could provide insights into the potential for a South Korean team to win the LoL Worlds 2026. Gen.G has demonstrated remarkable performance, remaining undefeated in the tournament and showcasing a strong roster that has not changed since last year. Their previous victory over Dplus (2-0) indicates their current dominance. 
-
-As the playoffs progress, the outcome of this match will be crucial; the winner will advance to face the victor of the T1-FEARX series, further shaping the competitive landscape. If Gen.G continues its winning streak, it could bolster the chances of an LCK team claiming the World Championship title. The match is not an elimination round, meaning both teams have room for strategic play, but Gen.G's current form suggests they are strong contenders for the Worlds title. 
-
-For fans and analysts, observing this match will be key to understanding the strength of LCK teams heading into the World Championship.
+Title: 2026 LCK Cup Finals Preview - Inven Global
+Author: Hongje "Koer" Kim
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.invenglobal.com/articles/20254/2026-lck-cup-finals-preview
+Summary: The 2026 LCK Cup Finals, held in Hong Kong for the first time overseas, feature top South Korean teams competing for a spot in the international First Stand Tournament. Gen.G, already qualified and considered the favorite, dominated the group stage and playoffs, demonstrating strong form and head-to-head dominance over potential finalists BNK FEARX and Dplus KIA. BNK FEARX and Dplus KIA are vying for the remaining finals spot, with BNK FEARX showing disciplined macro play and Dplus KIA demonstrating resilience through extended series. Given Gen.G's consistent performance and qualification, South Korean teams are well-positioned to be strong contenders in the 2026 LoL Worlds.
 
 Title: Dplus KIA vs DRX 2026 LCK Cup Playoffs Preview, Predictions & Best Bets | 1v1Me Blog
 Author: 1v1Me
 Published Date: 2026-02-14T00:00:00.000Z
 URL: https://www.1v1me.com/blog/dplus-kia-vs-drx-2026-lck-cup-playoffs-preview-picks
-Summary: The article provides an in-depth preview of the 2026 LCK Cup playoffs match between Dplus KIA and DRX, highlighting key statistics and predictions that could inform broader insights about the LCK's performance in international competitions like LoL Worlds 2026.
-
-### Key Insights:
-1. **Team Performance**: Dplus KIA is favored to win against DRX, showcasing superior statistics such as a 57% map win rate and a 64.3% first blood rate. Their previous match against DRX ended in a decisive victory, indicating strong form and execution.
-
-2. **Strengths and Weaknesses**:
-   - **Dplus KIA**: Known for strong early-game aggression, effective teamfight coordination, and better macro play. Their ability to control objectives and maintain lane pressure positions them as a formidable contender.
-   - **DRX**: Despite qualifying for playoffs, they have struggled with consistency and coordination, which could hinder their performance in high-stakes matches.
-
-3. **Betting Predictions**: The article suggests betting on Dplus KIA to win, with a prediction of a 3-0 sweep, emphasizing their dominance in early-game scenarios and overall synergy.
-
-### Implications for LoL Worlds 2026:
-Given Dplus KIA's strong showing in the LCK Cup playoffs, their performance could be indicative of the LCK's potential at Worlds. If they maintain this level of play, they could be strong contenders for the championship.
-
-Title: Dplus KIA vs DRX 2026 LCK Cup playoffs: Preview and picks
-Author: Hannan Mundia
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://win.gg/dplus-kia-drx-lck-cup-playoffs-preview-picks/
-Summary: The article provides a preview of the upcoming match between Dplus KIA and DRX in the 2026 LCK Cup playoffs, highlighting key statistics and insights that could be relevant for predicting the performance of LCK teams in the League of Legends World Championship 2026.
-
-**Key Insights:**
-1. **Team Performance**: Dplus KIA has shown a stronger performance in the LCK Cup, with a map win rate of 57% compared to DRX's 50%. Dplus also excels in securing first blood (64.3% vs. DRX's 50%) and first tower (64.3% vs. 33.3%).
-
-2. **Matchup Dynamics**: The article suggests that Dplus KIA has a significant advantage over DRX, particularly in individual player skill and team cohesion. DRX has struggled with communication and strategy, which could hinder their performance in high-stakes matches.
-
-3. **Betting Odds**: Dplus KIA is favored to win the match with odds of 1.18, while DRX's odds are at 4.56. This disparity indicates a general expectation of Dplus KIA's superiority in the matchup.
-
-4. **Potential for Success**: If Dplus KIA continues to perform at this level, they could be strong contenders for the World Championship. Their current form and roster strength suggest they may have a better chance of advancing far in international competitions compared to DRX.
-
-In summary,
+Summary: The webpage provides a detailed preview of the 2026 LCK Cup playoffs, highlighting Dplus KIA's strong performance and dominance over DRX, including key stats like higher map win rates, early-game advantages, and superior team synergy. Dplus KIA is favored to win their first-round match convincingly, with predictions leaning toward a 3-0 sweep. While the content focuses on the LCK Cup and its current competitive landscape, it underscores the strength and consistency of top South Korean teams like Dplus KIA. This suggests that if such teams continue their high level of play, they could be strong contenders for the 2026 LoL World Championship. Therefore, a team from the LCK, especially one demonstrating dominant form like Dplus KIA, might have a good chance of winning LoL Worlds 2026.
 
 

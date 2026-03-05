@@ -1,7 +1,7 @@
 # Research: Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?
 
 **Market ID:** 0x86275930e1848974485dcea1038dde4f9a7bd06d0b56a9e85e004651cc306230
-**Researched At:** March 1, 2026 at 06:05:09 AM UTC
+**Researched At:** March 5, 2026 at 02:56:46 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?"
 
 ---
@@ -9,42 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 3.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-News of Bennet’s strong petition haul and established profile justify a favorite’s edge, but in the absence of formal polling and with a credible opponent, the 76% market probability may overstate his lead by roughly 10–15 points. The data are too thin for confident arbitrage.
+No public polling or delegate metrics exist to justify a nearly 80% chance for Bennet, but insiders might hold private data; the market price is defensible absent clear counter‐evidence. Expected mispricing is small.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Michael Bennet will win the June 30, 2026 Colorado Democratic gubernatorial primary. A “YES” settlement requires Bennet to be the overall top vote‐getter (including any run‐off). A “NO” settlement occurs if another candidate (e.g., Phil Weiser) wins or if no primary occurs.  
+The market asks: “Will Michael Bennet win the 2026 Colorado Governor Democratic primary?” YES if Bennet secures the Democratic nomination on June 30, 2026 (whether via a plurality or runoff); NO if another Democrat wins or no primary occurs.
 
 2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• Bennet submitted 17,000+ petition signatures on Feb 28, well above the 12,000‐signature threshold, demonstrating strong early organizational strength (Colorado Springs Gazette, 2/28).  
-• As a sitting U.S. Senator, Bennet has high name recognition, fundraising infrastructure, and legislative experience (Colorado Politics & Denver Gazette, 2/21).  
+Bullish signals for Bennet (supporting ~80%):  
+• He’s a sitting U.S. Senator with statewide name recognition and fundraising prowess.  
+• Media coverage (forums, debates on housing, policy pitches) portrays him as a lead contender.  
 
-Bearish/uncertain indicators:  
-• No public scientific polling data yet released; available polling is unscientific and anecdotal (Coloradopols, 12/29).  
-• Phil Weiser is also well‐funded and experienced as Attorney General; the Feb 21 forums highlighted a potentially close contest (Colorado Politics, Denver Gazette, & Coloradonewsline).  
-• Weiser’s later petition effort could signal a deliberate strategy rather than actual weakness; nearly all credible campaigns will qualify.  
+Bearish or neutral signals (undermining ~80%):  
+• His chief rival, Phil Weiser, is also a well‐funded statewide officeholder, making the primary competitive.  
+• No public polls or hard data quantifying Bennet’s lead. Gambit notes “early polling remains uneven” and candidate fields are still forming.  
+• The race isn’t yet settled; caucus/assembly thresholds, delegate processes, and voter turnout dynamics could swing either way.  
 
-Source credibility and recency are high (local outlets, Feb 2026). However, all data point to a competitive race rather than a slam dunk.  
+All sources (GJSentinel, Sentinel Colorado, Denver Gazette, Colorado Politics, Gambit) are credible and current (Feb–Mar 2026). None provides polling or delegate‐count data, so any precise probability is speculative. If it were truly lopsided, we’d expect more public evidence (e.g., robust polling, early delegate totals), which we don’t see.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 76% price implies a strong consensus that Bennet is the favorite—but no formal polls exist yet. Low volume (≈$6.5K) and tight spread suggest a few traders may have moved the market based on organizational news (signatures) rather than broad polling or endorsements. Informed traders may still be awaiting polls or caucus results before adjusting their positions further.  
+• A ~79.5% price might reflect private/internal polling or Democratic‐insider consensus rather than public data.  
+• Low $6.7 K volume and tight spread imply a small but potentially informed trader pool; the market could be efficient on private information or simply unchallenged.  
+• The primary “just starting” suggests greater uncertainty than an ~80% probability implies, unless insiders hold strong surveys.
 
 4. MISPRICING ASSESSMENT  
-Given the lack of hard polling and the existence of a credible rival (Weiser), the market’s 76% may slightly overstate Bennet’s current odds. Without clear evidence of a commanding lead in voter intent, a probability closer to 60–65% might be more defensible. However, the 17K signatures and Bennet’s stature justify a favorite’s premium. There’s no glaring 20+-point mispricing; at most a 10–15-point overestimate.  
+No hard evidence indicates the market is off by >20 c. The price could reflect information not publicly available (e.g., internal polling, endorsements). Absent contrary data, the most charitable interpretation is that traders are incorporating private candidate‐specific metrics. Thus, we see at most a modest potential mispricing, if any.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price >65% is too high: 30%  
-Magnitude of potential mispricing: ~10 cents  
-Expected value ≈ 30% × 10 cents = 3 cents  
+Strength of evidence for mispricing: 20% (low public visibility into private data)  
+Magnitude of mispricing: ~10 c (given the unclear public margin)  
+Expected value = 20% × 10 c = 2 c
 
-EXPECTED_VALUE: 3.0  
-SUMMARY: News of Bennet’s strong petition haul and established profile justify a favorite’s edge, but in the absence of formal polling and with a credible opponent, the 76% market probability may overstate his lead by roughly 10–15 points. The data are too thin for confident arbitrage.  
+EXPECTED_VALUE: 2  
+SUMMARY: No public polling or delegate metrics exist to justify a nearly 80% chance for Bennet, but insiders might hold private data; the market price is defensible absent clear counter‐evidence. Expected mispricing is small.  
 CONFIDENCE: low
 
 ---
@@ -53,54 +55,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Colorado Politics
-Author: Ernest Luning
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://www.coloradopolitics.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
-Summary: In the upcoming 2026 Colorado Democratic gubernatorial primary, U.S. Senator Michael Bennet and Attorney General Phil Weiser are the leading candidates. Both are well-funded and experienced politicians, which suggests a competitive race. Bennet has a strong political background as a sitting senator, while Weiser brings experience as the state's attorney general. 
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The Gambit Forecaster's March 2026 report primarily analyzes Senate and gubernatorial races, emphasizing that most contests remain within stable partisan environments, with the 2026 primaries just beginning. While the report does not specifically address the Colorado gubernatorial Democratic primary or Michael Bennet's candidacy, it highlights that candidate fields are still settling, and early polling remains uneven. The model indicates some emerging Democratic pathways in Senate races, but gubernatorial races are largely influenced by institutional and candidate effects. Given that primaries are just starting and candidate fields are still forming, predicting Bennet's chances in the Colorado Democratic gubernatorial primary at this stage remains uncertain.
 
-The primary is set for June 30, 2026, and will be crucial in determining the Democratic nominee for the general election, which is considered safe for Democrats. Voter support is currently building for both candidates, indicating a potentially close contest. The primary process begins in early March, where candidates must secure at least 30% of delegate support or gather sufficient signatures to qualify.
+Title: Bennet, Weiser face off in gubernatorial forum | Colorado | gjsentinel.com
+Author: NATHAN DEAL Nathan.Deal@gjsentinel.com
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.gjsentinel.com/news/colorado/bennet-weiser-face-off-in-gubernatorial-forum/article_1b883d9a-3116-4aa1-95f8-824009a37fc5.html
+Summary: The article reports on a recent gubernatorial forum in Colorado where U.S. Senator Michael Bennet and opponent Weiser debated key issues. Bennet emphasized his experience, focus on education, and bipartisan efforts, positioning himself as a seasoned leader. The event highlighted Bennet's campaign strategies and the political landscape leading into the 2026 Democratic primary. While the article does not explicitly predict election outcomes, Bennet's active campaigning and established political presence suggest he is a significant contender. However, the primary race's competitiveness will depend on factors such as voter support, campaign dynamics, and opposition strength.
 
-Factors that could influence Bennet's chances include his established political presence, fundraising capabilities, and voter sentiment leading up to the primary. Additionally, the dynamics of the race against Weiser, who may appeal to different segments of the Democratic base, will be critical in predicting the outcome. Overall, while Bennet has advantages, the competitive nature of the primary and the strategies employed by both candidates will ultimately determine the result.
+Title: Vying for voters, Bennet, Weiser spar over state housing crisis remedies - Sentinel Colorado
+Author: Chase Woodruff, Colorado Newsline
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://sentinelcolorado.com/state-and-region-news/colorado-news-state-and-region-news/vying-for-voters-bennet-weiser-spar-over-state-housing-crisis-remedies/
+Summary: The article discusses a political debate between Senator Michael Bennet and his Democratic primary opponent, Weiser, over solutions to Colorado’s housing crisis. Bennet emphasizes the need for strong leadership, stating, "We need to put a governor in who will make this their number one priority, and it’s mine," highlighting his commitment to addressing housing issues. The sparring reflects differing approaches and priorities within the Democratic race, with Bennet positioning himself as a dedicated leader on housing reform. While the article does not explicitly analyze election prospects, Bennet’s active engagement and clear stance on housing suggest he is positioning himself strongly in the primary. However, without additional polling or campaign dynamics, predicting his primary victory remains uncertain.
 
 Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Denver Gazette
 Author: Ernest Luning
 Published Date: 2026-02-21T00:00:00.000Z
 URL: https://www.denvergazette.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
-Summary: Michael Bennet and Phil Weiser are the main Democratic candidates vying for the Colorado gubernatorial nomination ahead of the 2026 primary. In a recent candidate forum, both emphasized their qualifications and visions for the state. Bennet, a U.S. Senator, highlighted his legislative experience and focus on issues like healthcare and education. Weiser, the state Attorney General, underscored his legal background and commitment to public safety and justice reform.
+Summary: The 2026 Colorado gubernatorial race features U.S. Senator Michael Bennet and Attorney General Phil Weiser as leading Democratic contenders vying to succeed term-limited Governor Jared Polis. Both candidates are well-funded and have established political profiles, with Bennet representing Denver and Weiser also based there. The primary, scheduled for June 30, is highly competitive, with over two dozen Republicans also seeking the office, though the general election is considered safely Democratic. The outcome of the primary will depend on their respective support within the party, campaign strategies, and delegate support at caucuses and assemblies. Given Bennet’s prominence and fundraising, he is a strong contender, but the primary remains competitive, and no definitive prediction can be made at this stage.
 
-Factors that could influence Bennet's chances in the primary include his established political presence, fundraising capabilities, and voter appeal based on his track record in the Senate. Additionally, the dynamics of voter sentiment within the Democratic base, particularly regarding key issues, will play a crucial role. As the primary approaches, monitoring polling data and endorsements will provide further insights into his likelihood of success.
-
-Title: Michael Bennet, Phil Weiser clash at Colorado Young Democrats ...
-Author: Chase Woodruff
-Published Date: 2026-01-11T00:00:00.000Z
-URL: https://coloradonewsline.com/2026/01/11/michael-bennet-phil-weiser-governor-forum/
-Summary: In a recent forum hosted by the Colorado Young Democrats, U.S. Senator Michael Bennet and Colorado Attorney General Phil Weiser, both vying for the Democratic nomination for governor, presented their visions and strategies to a crowd of Democratic supporters. The event highlighted their differing approaches to key issues, which could influence their chances in the upcoming primary.
-
-Bennet emphasized the need for a comprehensive vision to address significant income and wealth inequality in the U.S., framing the election as a pivotal moment for Colorado's future. He positioned himself as a candidate focused on long-term solutions. In contrast, Weiser, drawing on his personal history as a descendant of Holocaust survivors, stressed the importance of fighting for opportunities and criticized Bennet for his past votes supporting Trump Cabinet nominees, suggesting a more combative approach to governance.
-
-Both candidates are seen as strong contenders, with the winner of the primary likely to secure the governorship in November. Their performance and the clarity of their messages during forums like this one will be crucial in swaying Democratic voters ahead of the June 30 primary. The ongoing debates about their qualifications and strategies will play a significant role in predicting Bennet's chances in the primary election.
-
-Title: Democrat Michael Bennet turns in petitions for Colorado’s gubernatorial primary, plans to skip caucuses - Colorado Springs Gazette
-Author: Ernest Luning ernest.luning@coloradopolitics.com
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://gazette.com/2026/02/28/democrat-michael-bennet-turns-in-petitions-for-colorados-gubernatorial-primary-plans-to-skip-caucuses/
-Summary: Michael Bennet, a U.S. Senator and Democratic candidate for Colorado's gubernatorial primary, has submitted over 17,000 signatures to qualify for the June 30 primary, significantly exceeding the required 12,000. He has opted to skip the caucus and assembly process, which could impact his campaign strategy. Bennet is competing against Attorney General Phil Weiser, who has not yet circulated petitions. The primary election landscape is competitive, with numerous Republican candidates also vying for their party's nomination. Bennet's strong grassroots support, as evidenced by the large number of signatures, and his established political presence may enhance his chances in the primary. However, the outcome will depend on voter engagement and the effectiveness of both candidates' campaigns leading up to the election.
-
-Title: Who Will be the Democratic Nominee for Governor in 2026?
-Author: 
-Published Date: 2025-12-29T00:00:00.000Z
-URL: https://www.coloradopols.com/diary/219664/who-will-be-the-democratic-nominee-for-governor-in-2026
-Summary: The article discusses the upcoming 2026 Democratic primary for Governor of Colorado, focusing on two prominent candidates: Senator Michael Bennet and Attorney General Phil Weiser. As the election cycle heats up, the piece invites readers to predict who will emerge as the Democratic nominee, emphasizing that the winner of this primary is expected to be a strong contender in the general election. 
-
-Key points relevant to predicting Bennet's chances include:
-
-1. **Candidate Profiles**: Michael Bennet is a well-known figure with significant political experience, having served as a U.S. Senator. His established presence may give him an advantage in the primary.
-
-2. **Polling Engagement**: The article features an unscientific poll where readers can express their predictions about the primary outcome, indicating active engagement and interest in the race.
-
-3. **Voter Sentiment**: The ongoing updates to the poll results will reflect changing perceptions among voters, which could provide insights into Bennet's standing as the primary approaches.
-
-Overall, while the article does not provide definitive predictions, it highlights the competitive nature of the primary and suggests that Bennet's established political background may position him favorably against Weiser and any other potential candidates.
+Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Colorado Politics
+Author: Ernest Luning
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://www.coloradopolitics.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
+Summary: The 2026 Colorado Democratic gubernatorial primary features U.S. Senator Michael Bennet and Attorney General Phil Weiser competing for the party’s nomination to succeed term-limited Governor Jared Polis. Both candidates are well-funded and have established political profiles, with Bennet representing Denver and Weiser also based there. The primary race is expected to be highly competitive, despite Colorado's general election being considered safely Democratic. The primary process begins in March, with candidates needing at least 30% support at caucuses or sufficient petition signatures to qualify. Given their prominence and resources, Bennet has a strong chance, but the outcome will depend on delegate support and campaign dynamics leading up to the June 30 primary.
 
 
