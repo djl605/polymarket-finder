@@ -1,7 +1,7 @@
 # Research: Will Bilibili Gaming Gaming win the LPL 2026 Split 1 playoffs?
 
 **Market ID:** 0x1d7bdee527d419a48abf7a315fca23d1878c05795b7867e2384734fcb1929c2d
-**Researched At:** March 1, 2026 at 02:34:00 PM UTC
+**Researched At:** March 6, 2026 at 04:18:00 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Bilibili Gaming Gaming win the LPL 2026 Split 1 playoffs?"
 
 ---
@@ -9,48 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Bilibili Gaming’s strong quarter- and semifinal performances justify optimism, but uncertainty around potential final opponents and internal cohesion supports a cautious 58% market probability. There’s no clear evidence of a large mispricing, yielding a low expected value for further investigation.
+Bilibili’s strong playoff form and betting odds support a high win probability, but chaining public odds suggests 70% may be slightly optimistic. No clear >20¢ mispricing is evident.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Bilibili Gaming (BLG) will win the LPL 2026 Split 1 Playoffs (Jan 14–Mar 1, 2026). A “YES” requires BLG to progress through quarterfinals, semifinals, and finals and be declared sole (or alphabetically first co-) winner by Riot Games or credible consensus. A “NO” occurs if they lose at any playoff stage or if the split is canceled/postponed past Apr 1.
+The market asks whether Bilibili Gaming will be the champion of the LPL 2026 Split 1 Playoffs (Jan 14–Mar 1). A “YES” resolution requires Bilibili to win all required playoff matches and be crowned the sole winner (or alphabetically first co-winner). A “NO” covers any other champion, ties where another team is first alphabetically, postponement/cancellation after April 1, 2026, or no declared winner by then.
 
 2. EVIDENCE EVALUATION  
-Bullish Evidence  
-• QF performance: On Feb 25 BLG beat Ninjas in Pyjamas 3-0, dominating gold (60K vs 47K) and KDA (8.29 vs 3.14).  
-• Semifinal preview (Feb 26): Bilibili consistently outperformed Weibo Gaming, having beaten them earlier this season and shown steadier form.  
-• Defending champions: Analysts note BLG’s playoff experience and strong roster cohesion, suggesting resilience under pressure.  
+Bullish indicators  
+• Recent playoff sweeps: Tit Krajnik (Mar 3) notes Bilibili swept Ninjas in Pyjamas and Weibo Gaming, demonstrating strong momentum.  
+• Betting odds for upper-bracket final: Jur Dava (Mar 4) reports Bilibili at –303 (∼75% implied) versus JDG in the UB final, signaling heavy favoritism.  
+• Consistency vs JDG: JDG has shown instability in knockouts, whereas Bilibili appears more consistent under pressure.  
 
-Bearish/Uncertain Evidence  
-• Opponent strength: Research focuses on QF/SF; nothing on potential finals opponents (e.g., JD Gaming, RNG). Those teams could pose tougher matchups.  
-• Internal frictions: A Jan 30 preview mentioned internal conflicts, which might resurface under high stakes.  
-• Bookmaker odds are for single matches, not tournament win—so no direct “championship” implied probability.  
+Bearish/inconclusive indicators  
+• JDG head-to-head edge: JDG beat Bilibili twice in the group stage, showing they can beat them.  
+• Playoffs unpredictability: Jur Dava cautions that playoff series can swing, and winning the UB final doesn’t guarantee the championship.  
+• No direct data on grand-final odds: We lack a clear market or expert estimate for Bilibili’s chances in the grand final, which would be needed to validate a 70% overall probability.  
 
-Source Credibility & Recency  
-• All sources are dated Jan 30 to Feb 26, 2026—highly relevant and from reputable esports tip sites and statistical match reports.  
-• No retrospective bias: all are forward‐looking previews or just‐completed match summaries.
+Source credibility & recency  
+• All sources are dated Mar 3–Mar 4, 2026, and come from esports betting analysis sites. They are timely but somewhat informal; their odds likely reflect public bookmaker lines more than deep proprietary insights.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 58% chance implies cautious optimism. Given BLG’s strong QF and SF form but unknown final opponent, traders may discount their future matchups.  
-• Low volume suggests a small group of informed or speculative traders set the price; tight spread indicates agreement among them, though broader interest seems muted.  
-• The outcome isn’t a foregone conclusion—multiple strong LPL teams remain, so 58% is plausible as an aggregate estimate.
+• A 70% price aligns roughly with a 75% implied chance to win the UB final, but it implicitly assumes a high (>90%) chance to then win the grand final, which seems optimistic.  
+• Low $6 k volume suggests few active traders; the price may reflect a consensus of retail bettors or a single liquidity provider rather than broad institutional interest.  
+• The current tight spread (2¢) implies that, despite low volume, bookmakers or market‐makers are comfortable quoting these odds, possibly because they see no value edge.
 
 4. MISPRICING ASSESSMENT  
-• No evidence of a large (>20 ¢) mispricing. BLG’s dominant early playoff play supports a probability above 50%, but uncertainty about finals opponents and internal issues justifies tempering confidence below the 75–80% one might infer from single‐match odds.  
-• The current price likely reflects real tournament risk—one upset in semis/final can derail even favorites.
+• No hard evidence of a ≥20¢ mispricing. The 70% figure seems somewhat higher than one would derive by chaining publicly available odds (∼75% → UB final × assumed 60–70% → GF ≈45–53%).  
+• However, without detailed grand final odds, it’s unclear whether informed traders have better data on the likely finalist.  
+• The market appears reasonable given known playoff form, though it may slightly overstate Bilibili’s championship odds. There is no conclusive sign of large inefficiency.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 20% (limited to early rounds, no clear missing data).  
-• Magnitude of mispricing: estimate 5 ¢ underpricing if traders undervalue BLG’s championship odds by a small margin.  
-• Expected value = 20% × 5 ¢ = 1 ¢.
+• Strength of evidence: 30% (weaker due to lack of direct championship odds)  
+• Magnitude of mispricing: 5¢ (a small overestimate)  
+• Expected value ≈ 30% × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Bilibili Gaming’s strong quarter- and semifinal performances justify optimism, but uncertainty around potential final opponents and internal cohesion supports a cautious 58% market probability. There’s no clear evidence of a large mispricing, yielding a low expected value for further investigation.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Bilibili’s strong playoff form and betting odds support a high win probability, but chaining public odds suggests 70% may be slightly optimistic. No clear >20¢ mispricing is evident.  
 CONFIDENCE: medium
 
 ---
@@ -59,54 +59,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Weibo Gaming vs Bilibili Gaming Betting Tips – Bilibili Gaming To Defeat Weibo Gaming in LPL Playoffs
+Title: JD Gaming vs Bilibili Gaming Betting Tips – LPL Split 1 Grand Final Ticket on The Line
 Author: Tit Krajnik 
-             26 Feb 2026
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.freetips.com/esports/weibo-gaming-vs-bilibili-gaming-betting-tips-20260226-0020/
-Summary: Bilibili Gaming is favored to win against Weibo Gaming in the upcoming LPL 2026 Split 1 semifinals on February 27. Bilibili has shown a more consistent performance throughout the season, including decisive victories and a strong showing in the quarterfinals against Ninjas in Pyjamas. In contrast, Weibo Gaming has struggled with inconsistency, having previously lost to Bilibili earlier this year, which positions them as underdogs in this matchup. Given these factors, Bilibili Gaming is expected to dominate, making them a strong candidate to advance further in the playoffs.
+             03 Mar 2026
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.freetips.com/esports/jd-gaming-vs-bilibili-gaming-betting-tips-20260303-0025/
+Summary: Bilibili Gaming has demonstrated strong form in the LPL 2026 Split 1 playoffs, sweeping past teams like Ninjas in Pyjamas and Weibo Gaming with dominant performances. They are currently positioned as the favorites to advance further, especially after their consistent results. While JD Gaming reached the upper bracket final through an upset against Anyone’s Legend, their recent performance is less stable. Based on recent form and playoff momentum, Bilibili Gaming is more likely to win the Split 1 playoffs.
 
-Title: LPL Split 1 2026: Playoffs betting preview, odds and favorites
-Author: Naerlyn Théophile
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.jaxon.gg/lpl-playoffs-betting-preview/
-Summary: The LPL Split 1 2026 playoffs are approaching, and Bilibili Gaming's chances of winning can be assessed through various factors highlighted in the betting preview. Key points to consider include:
-
-1. **Current Form**: Analyze Bilibili Gaming's recent performance in the split, including their win-loss record and any standout players or strategies that have emerged.
-
-2. **Matchups**: Look at potential matchups in the playoffs. Bilibili Gaming's performance against other top teams in the league will be crucial. Historical data on their head-to-head results can provide insights.
-
-3. **Betting Odds**: The betting odds from various sportsbooks can indicate public and expert sentiment regarding Bilibili Gaming's chances. Favorable odds may suggest confidence in their ability to perform well.
-
-4. **Team Dynamics**: Consider the team's synergy, communication, and any recent roster changes. A cohesive team often performs better under pressure.
-
-5. **Meta and Strategy**: The current game meta can significantly impact team performance. If Bilibili Gaming has adapted well to the meta, they may have an advantage.
-
-By evaluating these aspects, you can form a more informed prediction about Bilibili Gaming's likelihood of winning the LPL 2026 Split 1 playoffs.
-
-Title: LPL 2026 Playoffs Picks Feb 25: Weibo Vs IG, Bilibili Vs NiP
+Title: Jd Gaming Vs Bilibili Gaming Lpl Split 1 2026 Betting Preview
 Author: Jur Dava
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://esportbet.com/lpl-2026-split-1-knockout-stage-betting-predictions-wednesday-february-25/
-Summary: The LPL 2026 Split 1 playoffs are heating up, with Bilibili Gaming set to face Ninjas in Pyjamas on February 25 at 17:00 CST. Bilibili Gaming, the defending champions, are considered strong contenders, especially after their impressive performance in the regular season. They have a solid roster and experience in high-stakes matches, which could give them an edge in this knockout stage.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://esportbet.com/jd-gaming-vs-bilibili-gaming-betting-predictions-lpl-2026-split-1-ub-final/
+Summary: The webpage provides a detailed preview of the upcoming LPL 2026 Split 1 upper bracket final between JD Gaming and Bilibili Gaming, scheduled for March 4, 2026. Bilibili Gaming is favored with odds of approximately -303, indicating a strong betting confidence in their victory, while JD Gaming has odds around +225. Historically, JD Gaming has defeated Bilibili Gaming twice during the group stage, but recent form suggests JDG has struggled in the knockout stage, narrowly winning against top opponents and showing signs of inconsistency. The match's outcome could hinge on current team form, recent performances, and how well Bilibili Gaming adapts to JDG's strategies. While Bilibili Gaming appears to have a favorable position based on betting odds and recent performance, the unpredictable nature of playoffs means that their victory in the overall LPL 2026 Split 1 playoffs is not guaranteed.
 
-To predict whether Bilibili Gaming will win the playoffs, consider their recent form, head-to-head matchups against Ninjas in Pyjamas, and the overall performance of both teams throughout the season. Bilibili's odds are currently favorable at $1.33, indicating confidence from bookmakers in their chances. Additionally, the matchup against Ninjas in Pyjamas, who previously defeated Invictus Gaming, will be crucial in assessing Bilibili's potential success.
+Title: Bilibili Gaming VS JD Gaming LoL Betting Tips, Stream, LiveScore ...
+URL: https://egamersworld.com/lol/match/lGMCPupSV/bilibili-gaming-vs-jd-gaming-6pdvM3s3oM
+Summary: The webpage provides comprehensive coverage of Bilibili Gaming's recent matches, betting tips, live scores, and team rankings within the esports scene, particularly focusing on League of Legends (LoL). While it does not explicitly forecast future tournament outcomes like the LPL 2026 Split 1 playoffs, it offers valuable insights into Bilibili Gaming's current form, performance history, and competitive standing. Monitoring their recent results, head-to-head matchups, and betting trends can help assess their potential to succeed in upcoming playoffs. For precise predictions, consider analyzing their recent performance consistency, roster stability, and how they compare to other top LPL teams.
 
-For further insights, keep an eye on player performances, team strategies, and any last-minute changes leading up to the match.
+Title: Weibo Gaming Vs Bilibili Gaming Picks | LPL 2026 Playoffs, Feb 27
+Author: Jur Dava
+URL: https://esportbet.com/weibo-gaming-vs-bilibili-gaming-betting-tips-lpl-2026-split-1-playoffs/
+Summary: The webpage provides detailed insights into the upcoming LPL 2026 Split 1 playoffs match between Weibo Gaming and Bilibili Gaming, scheduled for February 27, 2026. Bilibili Gaming is favored to win this specific match, with the best odds at 1.22 compared to Weibo Gaming's 4.00. Both teams have demonstrated strong performances in the playoffs so far, with Bilibili Gaming finishing the group stage in second place (6-4) and winning their first playoff match against Ninjas in Pyjamas, while Weibo Gaming finished third (5-5) and swept Invictus Gaming in the first round. Historically, Weibo Gaming lost to Bilibili Gaming in the opening week of the split but will be aiming for revenge. While Bilibili Gaming has shown consistent form and is currently favored in this matchup, the webpage does not provide definitive predictions on whether Bilibili Gaming will ultimately win the entire LPL 2026 Split 1 playoffs, only insights into their current form and odds for this specific match.
 
-Title: Bilibili Gaming vs Invictus Gaming Betting Tips – Invictus Gaming Can Challenge BLG in LPL 2026 Split 1
-Author: Tit Krajnik 
-             30 Jan 2026
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://www.freetips.com/esports/bilibili-gaming-vs-invictus-gaming-betting-tips-20260130-0021/
-Summary: In the upcoming LPL 2026 Split 1, Bilibili Gaming (BLG) is currently positioned favorably with four wins out of six matches, showcasing a strong roster despite some internal conflicts. Their recent performance indicates a solid chance of success as they head into the playoffs. In contrast, Invictus Gaming (IG) has struggled to capitalize on advantageous situations, leading to unpredictable outcomes in their matches. While BLG is favored to win against IG in their upcoming matchup, IG's talent should not be overlooked. Overall, BLG's current form and team dynamics suggest they are well-equipped to contend for the playoffs, making them a strong candidate for success in the LPL 2026 Split 1 playoffs.
-
-Title: Bilibili Gaming vs Ninjas in Pyjamas.CN at Round 1 LPL Split 1 2026 event | League of Legends match | LOLTV.gg
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://loltv.gg/match/2026-02-25-round-1-4-lpl-split-1-2026
-Summary: In the Round 1 match of the LPL Split 1 2026, Bilibili Gaming (BLG) faced off against Ninjas in Pyjamas.CN (NIP) on February 25, 2026. BLG emerged victorious with a decisive score of 3-0 in a best-of-five series. Key statistics from the match include BLG achieving a gold total of 60K and a KDA of 8.29, while NIP struggled with a vision score of 51.4 and a lower overall performance.
-
-To assess Bilibili Gaming's potential success in the LPL 2026 Split 1 playoffs, consider their strong performance in this match, including their ability to secure kills (19 to NIP's 7) and their overall dominance in gameplay metrics. Their current form, as demonstrated in this match, suggests they are a formidable contender for the playoffs.
+Title: JD Gaming VS Bilibili Gaming match result - LoL - EGamersWorld
+URL: https://egamersworld.com/lol/match/QotFJVAMT/jd-gaming-vs-bilibili-gaming-4qHrwej74
+Summary: The webpage provides detailed coverage of a recent League of Legends match between JD Gaming and Bilibili Gaming, including live results, betting tips, and match history. While it offers comprehensive data on team performances, recent results, and rankings within the current competitive landscape, it does not contain specific information about Bilibili Gaming's prospects or performance trends related to the 2026 LPL Split 1 playoffs. To assess Bilibili Gaming's chances of winning the 2026 playoffs, additional data such as team roster stability, historical performance, development trajectory, and upcoming competitive results would be necessary.
 
 

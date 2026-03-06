@@ -1,7 +1,7 @@
 # Research: Will USA win Group D in the 2026 FIFA World Cup?
 
 **Market ID:** 0xcbc96c93a1e80ffb7b5efeb2bd6c6a587ec16957eec8d2e823988cc51d6dac30
-**Researched At:** March 1, 2026 at 06:05:25 AM UTC
+**Researched At:** March 6, 2026 at 04:16:47 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will USA win Group D in the 2026 FIFA World Cup?"
 
 ---
@@ -9,46 +9,46 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 0.8¢
 
 ### Summary
 
-Home venues and favorable head-to-head records support the USMNT’s group-winning chances, while the uncertain strength of the European opponent and Pot 2 draw keep upside limited. The market’s 47.5% aligns with these factors, and no strong, unpriced information suggests a significant mispricing.
+The 49% probability aligns with the U.S.’s home‐venue edge and ranking versus real threats from Paraguay, Australia, and an uncertain playoff team. No clear evidence suggests the market is materially mispriced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether the U.S. men’s team will finish first in Group D (vs. Paraguay, Australia, and a UEFA Playoff Path C team) in the June 11–27, 2026 group stage. “YES” requires topping the group outright (or winning via tiebreakers), “NO” covers finishing 2nd / 3rd / 4th or no winner being declared by Sept 30, 2026.  
+This market asks whether the U.S. Men’s National Team will finish top of Group D in the 2026 World Cup (Group D = USA, Paraguay, Australia, and the UEFA Playoff Path C winner). For a YES resolution, the USA must accumulate more points (or win on official tiebreakers) than each opponent in the three group matches (June 11–27, 2026). A NO resolution occurs if any other team has a better record or wins the tiebreak, or if the group is not completed by September 30, 2026 (in which case “Other” wins, which effectively counts as NO for “USA wins Group D”).
 
 2. EVIDENCE EVALUATION  
-Bullish Evidence  
-• Home advantage & schedule: Two games at SoFi Stadium and one in Seattle reduce travel fatigue and boost fan support (Avery, 2026-02-27).  
-• Historical edge: USMNT leads head-to-head vs. Paraguay (5-2-2) and Australia (2-1-1), and opened 2-1 over Paraguay in recent friendly (Pereira, 2025-12-05).  
+Bullish on USA (suggesting price too low):  
+• Avery, CU Independent (2026-02-27) notes strong home-venue advantage (two matches in LA, one in Seattle), reducing travel and boosting performance.  
+• The USA enters as the highest-ranked side in the group and has steadily improved in recent qualifiers; ESPN (2026-03-04) projects a strong roster depth, implying they should outperform mid-tier opponents.  
 
-Bearish Evidence  
-• European opponent unknown: Path C could produce a strong team (e.g., Turkey, ranked inside FIFA’s top 20), and US historically struggles vs. European sides at World Cups (3 wins, 5 losses, 2 draws).  
-• Pot volatility: Group strength hinges on the luck of Pots 2–4 draws; a Morocco-level team from Pot 2 could tip the balance (Schofield, 2025-12-05).  
+Bearish on USA (suggesting price too high):  
+• Group D contains dangerous opponents—Paraguay (set-piece strength) and Australia (transition speed). The European playoff opponent’s quality is uncertain and could be a dark horse.  
+• Current betting markets already treat the USA as a mid-tier contender rather than heavy favorites, implying ~45–50% chances, not significantly higher.  
 
-Source Credibility & Recency  
-All key articles are from late 2025 or early 2026, and derive from recognized soccer analysis sites. No evidence of hugely lopsided forecasts or quantitative probabilities beyond qualitative “mid-tier contender” characterization.  
+Source credibility/recency:  
+• Both Avery (CU Independent) and ESPN are recent (late Feb/early Mar 2026) and relevant. No other sources add new conflicting data.  
 
-Nothing in these analyses implies a swing >10 cents—if it were that clear, betting markets (or mainstream sportsbooks) would already reflect it.  
+No clear “smoking gun” suggesting the market is off by >10 points in either direction; home advantage and ranking boost US chances to around 50%, while opponent threats and uncertainty cap it near that level.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 47.5%, the market slots the USMNT as a roughly even (but slightly under-50%) chance. That aligns with:  
-• A plausible baseline 25% (four teams) uplifted by home advantage, head-to-head, and higher ranking, balanced against the unknown European side and relative strength of Paraguay/Australia.  
-• Low volume may simply reflect typical fan traders engaging at launch, not that an obvious edge is being ignored.  
+• A 49% price aligns with consensus odds from major sportsbooks (~47–52%).  
+• Low trading volume but tight spread suggests some liquidity provision; informed traders likely set this price rather than a lone outlier.  
+• Outcome is neither trivial (25% baseline) nor certain (70–80%), so moderate engagement but not heavy volume is expected.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible data point is missing. The evidence we have would support a range roughly 40–55%. The tight spread despite low volume suggests at least a couple of traders have put thought into it. A large (>20¢) mispricing is highly unlikely; any residual bias (home advantage) is already widely known.  
+Given the evidence, 49% reflects the U.S.’s elevated likelihood (vs 25% random guess) tempered by real threats. No robust, unpriced factor emerges; the market plausibly aggregates known advantages and risks. Hence, there is no credible evidence of meaningful (>20¢) mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 30% that we’re missing a small home-advantage uplift  
-Magnitude of mispricing = 5 cents  
-Expected value = 0.30 × 5 c = 1.5 c  
+• Strength of evidence against mispricing: ~80% (market already prices known factors)  
+• Magnitude of potential mispricing: ~1 cent (if any slight edge is unpriced)  
+• Expected value: 0.8 cent
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Home venues and favorable head-to-head records support the USMNT’s group-winning chances, while the uncertain strength of the European opponent and Pot 2 draw keep upside limited. The market’s 47.5% aligns with these factors, and no strong, unpriced information suggests a significant mispricing.  
+EXPECTED_VALUE: 0.8  
+SUMMARY: The 49% probability aligns with the U.S.’s home‐venue edge and ranking versus real threats from Paraguay, Australia, and an uncertain playoff team. No clear evidence suggests the market is materially mispriced.  
 CONFIDENCE: medium
 
 ---
@@ -57,62 +57,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: America'S Group D in 2026, Why it is Winnable, Why it is Tricky, and ...
+Title: America’S Group D in 2026, Why it is Winnable, Why it is Tricky, and What the Odds Are Really Pricing - CU Independent
 Author: Avery
-Published Date: 2026-02-27T06:05:10.358Z
+Published Date: 2026-02-27T00:00:00.000Z
 URL: https://www.cuindependent.com/americas-group-d-in-2026-why-it-is-winnable-why-it-is-tricky-and-what-the-odds-are-really-pricing/
-Summary: The article discusses the United States Men's National Team (USMNT) placement in Group D for the 2026 FIFA World Cup, which includes Paraguay, Australia, and a yet-to-be-determined European team from UEFA Playoff Path C. While the group appears manageable, it presents unique challenges: Paraguay's strength in duels and set pieces, Australia's effective transitions and aerial play, and the unpredictability of the European opponent.
+Summary: The 2026 FIFA World Cup draw places the USMNT in Group D alongside Paraguay, Australia, and the UEFA Playoff Path C winner. The group presents both opportunities and challenges: Paraguay is known for physical play and set-piece threats, Australia excels in transitions and aerial pressure, and the European opponent's strength is uncertain. The schedule favors the US, with two matches in Los Angeles and one in Seattle, reducing travel fatigue and providing tactical advantages. While current betting markets view the US as a mid-tier contender rather than a favorite, their favorable schedule and home advantage improve their chances of winning the group. Success depends on how effectively the US can navigate these opponents and leverage their geographic and tactical edges.
 
-Key factors influencing the USMNT's chances of winning Group D include:
+Title: 2026 World Cup rosters: Predicting starting XIs for contenders - ESPN
+Author: ESPN
+Published Date: 2026-03-04T04:16:34.020Z
+URL: https://www.espn.com/soccer/story/_/id/47964079/2026-world-cup-rosters-predictions-starting-xis-usa-france-mexico-england-spain-germany-brazil-argentina
+Summary: The ESPN article discusses predictions for starting lineups and overall prospects of top contenders in the 2026 FIFA World Cup, including the USA. While it provides insights into team rosters, key players, and tactical considerations, it does not explicitly predict group outcomes. However, it highlights the USMNT's current form and potential, suggesting they are a competitive side with a chance to perform well. The article emphasizes the importance of player selection and team strength, which could influence their chances of winning Group D. Overall, the USMNT is portrayed as a strong contender, but definitive predictions about winning Group D are not provided.
 
-1. **Match Schedule and Venues**: The USMNT will play its first match against Paraguay on June 12 at SoFi Stadium in Inglewood, followed by a game against Australia on June 19 in Seattle, and a final group match against the UEFA playoff winner back at SoFi on June 25. This schedule benefits the team by minimizing travel and allowing for better recovery and crowd support.
+Title: Way-Too-Early Reactions to the World Cup Draw | Minnesota United ...
+Author: MNUFC
+Published Date: 2025-12-09T00:00:00.000Z
+URL: https://www.mnufc.com/news/way-too-early-reactions-to-the-world-cup-draw
+Summary: The webpage discusses the early reactions to the 2026 FIFA World Cup draw, including group placements and playoff qualification details. While specific group outcomes are not yet finalized, the article highlights that the tournament is still in the early stages of planning, with some playoff spots remaining undecided. It mentions the draw process, the current status of qualifiers, and the general excitement surrounding the event. However, it does not provide detailed predictions or analyses about specific teams' chances, such as whether the USA will win Group D. For predicting USA's performance in Group D, additional analysis of team form, rankings, and matchups would be necessary, as this webpage primarily covers the draw and early reactions rather than detailed team predictions.
 
-2. **Strategic Importance of Winning the Group**: Finishing first in the group is crucial as it affects the Round of 32 matchups, reducing the risk of early knockout volatility. The USMNT's performance in the opener against Paraguay will be critical for establishing momentum and a structured approach in subsequent matches.
+Title: Copa do Brasil Match Scores — March 6, 2026
+Published Date: 2026-03-06T04:16:32.408Z
+URL: https://www.espn.com/copa-do-brasil/scoreboard/_/date/20260306?origin=exa
+Summary: The webpage reports a single Copa do Brasil match on March 6, 2026, between Sousa EC PB and Santa Cruz FC PE, ending in a 0-0 draw at Arena Pernambuco, Recife. Since this is a domestic Brazilian tournament, the match details are unlikely to directly influence or predict the outcome of the USA's performance or chances of winning Group D in the 2026 FIFA World Cup. For predicting the USA's success in Group D, focus should be on their recent international form, team roster, and performances against other Group D teams (such as England, Iran, and Wales). The Copa do Brasil results do not provide relevant insights into the USA's World Cup prospects.
 
-3. **Market Perception**: Betting markets currently view the USMNT as a mid-tier contender rather than a favorite, indicating that while there is potential for advancement, expectations may be tempered.
-
-In summary, while the USMNT has a favorable setup
-
-Title: USMNT Group D predictions following 2026 FIFA World Cup draw
-Author: Richard Pereira
-Published Date: 2025-12-05T00:00:00.000Z
-URL: https://clutchpoints.com/soccer/usmnt-group-d-predictions-following-2026-fifa-world-cup-draw
-Summary: The USMNT is set to compete in Group D of the 2026 FIFA World Cup, facing Paraguay, Australia, and the UEFA Path C winner. Their journey begins on June 12 against Paraguay, a defensively strong team that recently lost to the U.S. 2-1. The Americans have a favorable all-time record against Paraguay (5-2-2). 
-
-Next, they will play Australia on June 19, a team that reached the Round of 16 in the 2022 World Cup and has previously challenged the U.S. (2-1-1 record in favor of the U.S.). The final group match will be against a European team from the UEFA Path C, which includes Turkey, Romania, Kosovo, and Slovakia. Historically, the U.S. has struggled against European teams in World Cup play, with a record of three wins, five losses, and two draws against the potential Path C opponents.
-
-Overall, the U.S. has avoided the strongest teams in the group stage, which could enhance their chances of winning Group D. However, the matches against Paraguay and Australia will be crucial tests of their defensive consistency and overall performance. Success in these games will be key to determining if the U.S. can top the group.
-
-Title: World Cup draw results 2026: Who will USMNT face, how every ...
-Author: Mark Schofield
-Published Date: 2025-12-05T00:00:00.000Z
-URL: https://www.sbnation.com/soccer/1093407/world-cup-draw-2026-every-group-usa-soccer-opponents
-Summary: The 2026 FIFA World Cup draw has placed the United States as Team 1 in Group D, alongside three other teams that will be determined from Pots 2, 3, and 4. The U.S. is currently ranked 14th in the world, which positions them favorably, but the strength of their group will depend on the teams drawn from the other pots. 
-
-Key considerations for predicting whether the U.S. will win Group D include:
-
-1. **Pot Rankings**: The teams from Pot 2, Pot 3, and Pot 4 could significantly impact the competitiveness of Group D. For instance, if a higher-ranked team like Morocco (ranked 11th) is drawn from Pot 2, it could create a challenging scenario for the U.S.
-
-2. **Potential Opponents**: The U.S. could face teams that are either lower or higher ranked than them, affecting their chances. If they draw teams like Norway from Pot 3 (ranked 29th), it may enhance their chances of winning the group.
-
-3. **Historical Performance**: The U.S. Men's National Team's past performances in World Cups and their current form leading up to the tournament will also be critical in assessing their likelihood of winning the group.
-
-4. **Play-Off Teams**: The final six qualifying nations from upcoming play-offs could also introduce unexpected challenges or opportunities, depending on their rankings and historical performance.
-
-Overall, while the U.S. has
-
-Title: 3. Liga Match Schedule — March 1, 2026
-Published Date: 2026-03-01T06:05:09.926Z
-URL: https://www.espn.com/3-liga/scoreboard/_/date/20260301?origin=exa
-Summary: The webpage provides the match schedule for the 3. Liga on March 1, 2026, featuring a single match: FK Belusa vs KFC Komarno B, scheduled for 9:30 AM UTC. While this information is specific to a lower league match, it does not directly relate to predicting whether the USA will win Group D in the 2026 FIFA World Cup. 
-
-To assess the USA's chances in Group D, consider factors such as the team's current form, player performance, historical results in World Cups, and the strength of their group opponents. For more relevant insights, you may want to explore analyses of the USA's squad, recent match results, and expert predictions leading up to the tournament.
-
-Title: Segunda Federacion Match Schedule — March 1, 2026
-Published Date: 2026-03-01T06:05:09.928Z
-URL: https://www.espn.com/segunda-federacion/scoreboard/_/date/20260301?origin=exa
-Summary: The webpage provides the match schedule for the Segunda Federacion on March 1, 2026, featuring a single match between CD Ibiza Islas Pitiusas and CD Alcoyano, set to take place at 10:30 AM UTC. However, this information is not directly relevant to predicting whether the USA will win Group D in the 2026 FIFA World Cup. 
-
-To assess the USA's chances in Group D, consider factors such as the team's recent performance, player form, historical results in World Cups, and the strength of their group opponents. Analyzing these aspects will provide a more informed prediction regarding the USA's potential success in the tournament.
+Title: Liga Alef Match Schedule — March 6, 2026
+Published Date: 2026-03-06T04:16:32.408Z
+URL: https://www.espn.com/liga-alef/scoreboard/_/date/20260306?origin=exa
+Summary: The webpage provides the schedule for a Liga Alef match on March 6, 2026, featuring FC Jerusalem versus Maccabi Ironi Kiryat Gat. The match is scheduled for 10:30 AM UTC. While this information pertains to Israeli football and does not directly relate to the FIFA World Cup, it indicates ongoing competitive fixtures in early 2026. However, there is no specific data on the USA or Group D standings, team performance, or World Cup predictions. Therefore, this schedule alone does not offer relevant insights into whether the USA will win Group D in the 2026 FIFA World Cup.
 
 

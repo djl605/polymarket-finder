@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the TX-25 House seat?
 
 **Market ID:** 0xadff68049a692b53429b54ea3d66a27ff04d9c663e8bb0d0f861d99b6364d0fd
-**Researched At:** March 1, 2026 at 06:00:39 AM UTC
+**Researched At:** March 6, 2026 at 04:16:07 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the TX-25 House seat?"
 
 ---
@@ -9,43 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.4¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Despite demographic shifts and broader Texas trends favoring Democrats, there’s no district‐specific polling or fundraising data to overturn the 16% estimate for TX-25. The market price appears defensible given the seat’s Republican lean and lack of new hard information.
+No district‐specific general‐election data exist for TX-25; statewide and national trends modestly help Democrats but likely aren’t strong enough to move the probability far from 15%. The market price appears reasonable given current information.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks: “Will a Democrat win TX-25 in November 2026?” It resolves YES if the Democratic nominee (e.g., William Marks) is officially certified as the victor, NO otherwise.
+The market asks whether the Democratic Party’s nominee will win Texas’s 25th congressional district seat in the November 4, 2026 general election. A “YES” resolution requires the Democrat to lead in the official FEC-reported results (or credible media consensus) when the election is called; a “NO” means the Republican (or any non‐Democrat) wins.
 
 2. EVIDENCE EVALUATION  
-Bullish (for Dems) evidence:  
-• Marks’ campaign prioritizes mobilizing Black and Hispanic voters (43% of VAP) in a district where turnout gaps have favored Anglos, suggesting upside if he closes that gap.  
-• Recent Democratic wins in Texas and national “sixth-year jinx” trends may signal a tailwind.  
-• GOP primary intraparty competition (Paxton vs. Cornyn) could divert resources/attention.
+Bullish signals (undermine 15% price):  
+• YouGov/Economist (Feb 17, 2026): nationwide Democratic lead expanding in House races. General wave could tighten competitive Texas seats.  
+• UT Senate primary poll (Feb 25): Democrat Jasmine Crockett leads by double digits in her Senate primary, implying strong name recognition and organizational strength that could carry over if she or a similar candidate contests TX-25.  
+• UH Hobby Center (Feb 9): Crockett commands 47% in an open Democratic primary and has a positive net favorability.  
 
-Bearish evidence:  
-• No direct TX-25 polling or fundraising data indicating a tight race; the seat is widely seen as a Republican stronghold.  
-• Historical turnout patterns in midterms have disadvantaged the groups Marks is targeting.  
-• Dem primary strength (Crockett vs. Talarico) has limited bearing on a distinct, more conservative district.
+Bearish signals (support 15% price):  
+• No district‐specific general election polling for TX-25—only statewide or Senate‐primary snapshots.  
+• ELLIS Insight (Feb 24): Texas redistricting and incumbent vulnerabilities favor Republicans in many districts; TX-25 is not flagged as a likely flip.  
+• Long‐term fundamentals: Texas leans Republican; TX-25’s past performance in midterms suggests a GOP lean or strong incumbent advantage.  
 
-Source credibility and recency: All findings are recent (Jan–Feb 2026) from reputable outlets (Lonestar Left, Reuters, Texas Tribune, Decision Desk HQ). None provide hard quantitative forecasts for TX-25.
+Source recency and credibility are good (Feb 2026 polls by reputable outlets), but none directly measure TX-25 in the general election. Given the absence of district‐specific data, the market likely incorporates generic Republican lean and the uphill path for Democrats.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 16% price aligns with a GOP‐leaning district where Democratic success requires a significant turnout surge. Low volume could simply reflect consensus among a few traders that this is a long‐shot. The narrow spread (4¢) suggests any new hard data (e.g., polling, big fundraising) would move the price but hasn’t arrived yet.
+A 15% probability coheres with a GOP‐favored district in a state trending Republican at the midterm. Low volume suggests few active traders, but the tight spread (2¢) indicates the price isn’t drifting but reflects a consensus (albeit possibly among a small group). Informed traders may have stepped back due to lack of new TX-25 data. The price likely represents a rough aggregation of national wave expectations and Texas fundamentals, rather than misinformed exuberance.
 
 4. MISPRICING ASSESSMENT  
-There is no direct, credible evidence—such as local polling or compelling fundraising/reporting—that clearly contradicts the market’s ~16% view. Demographic potential and statewide trends are known factors that traders likely baked in already. Absent specific, district‐level polling data, we lack grounds to assert a mispricing >~5¢.
+We lack specific general‐election polling for TX-25, so any claim of mispricing must rest on extrapolations from statewide or national trends—an inherently weak basis. While Democrats enjoy some momentum, Texas midterms have historically underperformed that wave in suburban and rural districts. No clear, credible evidence suggests the true probability deviates materially from ~15%. The price seems neither obviously too low nor too high given current information gaps.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~10%  
-Magnitude of possible mispricing: ~4¢  
-Expected value = 10% × 4¢ = 0.4¢
+Strength of evidence (that price is mispriced): 30%  
+Plausible magnitude of mispricing: 5¢  
+Expected value = 0.30 × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 0.4  
-SUMMARY: Despite demographic shifts and broader Texas trends favoring Democrats, there’s no district‐specific polling or fundraising data to overturn the 16% estimate for TX-25. The market price appears defensible given the seat’s Republican lean and lack of new hard information.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: No district‐specific general‐election data exist for TX-25; statewide and national trends modestly help Democrats but likely aren’t strong enough to move the probability far from 15%. The market price appears reasonable given current information.  
 CONFIDENCE: medium
 
 ---
@@ -54,53 +54,40 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Meet The Candidates: William Marks For Texas Congressional District 25
-Author: Michelle H. Davis
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.lonestarleft.com/p/meet-the-candidates-william-marks?triedRedirect=true
-Summary: William Marks, a combat veteran and former public servant, is running for the Texas Congressional District 25 seat, aiming to unseat the incumbent Republican. His campaign focuses on increasing voter participation among Black and Latino communities, which historically have lower turnout rates compared to Anglo voters. The district, which includes parts of Tarrant County and surrounding rural areas, has a diverse demographic makeup, with 51% of the voting-age population being Anglo and over 43% being Black and Hispanic. 
-
-Despite being labeled a Republican stronghold, the district's competitiveness is underscored by its demographic diversity and the potential for increased voter engagement. Marks' strategy emphasizes addressing the turnout gap, as midterm participation rates have been low, particularly among minority voters. The success of the Democratic Party in winning the TX-25 seat may hinge on Marks' ability to mobilize these communities and challenge the prevailing assumptions about the district's electoral viability.
+Title: Democrats expand their lead in the 2026 congressional election
+Author: David Montgomery   Senior data journalist
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://today.yougov.com/politics/articles/54122-democrats-expand-lead-2026-congressional-election-february-13-16-2026-economist-yougov-poll
+Summary: The article reports that Democrats are expanding their lead in the 2026 congressional elections overall, indicating a favorable trend for the party. While it does not provide specific details about individual districts like TX-25, the broader national shift suggests increased Democratic momentum and voter support, which could positively influence the outcome of competitive House seats in Texas, including TX-25. This trend implies that Democrats may have a better chance of winning or maintaining the seat in the upcoming election.
 
 Title: Crockett leads Talarico by double digits in Texas Senate poll
 Author: Gabby Birenbaum
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.texastribune.org/2026/02/25/texas-senate-poll-crockett-talarico-university-of-texas-paxton-cornyn-hunt-2026/
-Summary: In a recent poll conducted by the University of Texas’ Texas Politics Project, Dallas U.S. Rep. Jasmine Crockett is leading fellow Democrat James Talarico by double digits in the Senate Democratic primary. This significant lead may indicate strong support for Crockett within the Democratic base, which could be a positive sign for the party's overall prospects in upcoming elections, including the TX-25 House seat.
+Summary: The recent Texas Senate primary poll indicates that Dallas U.S. Rep. Jasmine Crockett, a Democrat, is leading her opponent James Talarico by double digits, suggesting strong support within the Democratic base. While this poll specifically pertains to the Senate primary, Crockett's significant lead reflects her growing popularity and political strength. If similar trends of support and momentum continue, her strong performance in the primary could positively influence her chances in the general election for the TX-25 House seat. However, as the poll focuses on the primary, additional factors such as general election dynamics, opponent strength, and voter turnout will also be critical in predicting whether the Democratic Party will win the TX-25 seat.
 
-On the Republican side, the poll shows Ken Paxton and John Cornyn in a tight race, potentially heading for a runoff. The competitive nature of the Republican primary could divert resources and attention away from the general election, impacting the Democratic Party's chances in TX-25.
+Title: Texas Primaries 2026 | University of Houston
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.uh.edu/hobby/primary2026/
+Summary: The webpage provides insights into Texas primary election dynamics in 2026, focusing on statewide races and voter preferences. While it does not directly address the TX-25 House seat, it highlights key factors relevant to predicting its outcome:
 
-Given these dynamics, the Democratic Party's chances of winning the TX-25 House seat may hinge on the strength of their primary candidates and the ability to mobilize voters in a potentially divided Republican landscape.
+- Democratic primary frontrunner Jasmine Crockett leads with 47% support among likely voters, indicating strong Democratic backing.
+- Crockett's favorable opinion (45%) and relatively low unfavorable rating (37%) suggest solid voter approval.
+- The Republican primary features incumbent Sen. John Cornyn and Attorney General Ken Paxton, with Paxton currently leading in primary support (38%) and favorable opinions (41%), though he also faces significant unfavorable ratings (48%). Cornyn trails slightly in support but remains competitive.
+- Voter sentiment and candidate popularity in statewide races reflect a potentially favorable environment for Democrats, especially if Crockett maintains her lead and favorable ratings.
+- The primary results and voter attitudes toward key figures like Crockett and Paxton could influence the general election dynamics in TX-25, especially considering the broader political climate and voter preferences indicated in the survey.
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:00:25.662Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses key U.S. House seats to watch for the 2026 elections, focusing on factors that could influence party control. While it does not specifically address the TX-25 House seat, it provides context that could be relevant for predicting outcomes in competitive districts like TX-25.
+In summary, Crockett's strong primary support and favorable public opinion suggest a promising position for the Democratic Party in TX-25, but the overall competitiveness will depend on primary outcomes, candidate campaigns, and voter turnout.
 
-Key points to consider for TX-25 include:
+Title: February 24, 2026 – The ELLIS Insight
+Author: Jim Ellis
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.ellisinsight.com/2026/02/24/
+Summary: The article primarily discusses the upcoming Texas primary races in 2026, focusing on incumbent challenges and potential shifts in the state's congressional delegation. Notably, it highlights that some Democratic incumbents, such as Julie Johnson in District 32, face tough re-election prospects due to redistricting that favors Republicans, and that Colin Allred, a prominent Democratic candidate, is running for District 33 instead of the Senate. While the article does not directly address TX-25, it indicates a competitive environment for Democrats in Texas, with incumbents potentially vulnerable and significant primary challenges. Overall, the political landscape suggests that Democratic hold on certain Texas House seats, including TX-25, could be uncertain, depending on primary outcomes and redistricting effects.
 
-1. **Political Climate**: The article highlights the overall political landscape and trends that may affect various districts, including shifts in voter sentiment and party dynamics.
-
-2. **Redistricting**: Changes in district boundaries can significantly impact election outcomes. The article mentions ongoing redistricting efforts, which could alter the demographics and political leanings of TX-25.
-
-3. **Candidate Dynamics**: The piece notes the importance of candidate profiles and their appeal to voters, which will be crucial in TX-25 as candidates emerge and campaign strategies develop.
-
-4. **Historical Context**: Understanding past election results in TX-25, including voter turnout and party performance, can provide insights into potential outcomes in 2026.
-
-5. **National Trends**: Broader national trends, such as voter engagement and key issues influencing the electorate, will also play a role in determining the likelihood of a Democratic win in TX-25.
-
-For a more precise prediction, it would be beneficial to analyze specific polling data, candidate profiles, and local issues that resonate with voters in the TX-25 district as the election approaches.
-
-Title: Texas Democrat's win a 'wake-up call' for Republicans ahead of 2026
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.facebook.com/Reuters/posts/texas-democrats-win-a-wake-up-call-for-republicans-ahead-of-2026-electionsclick-/1456093229714738/
-Summary: The recent victory of a Texas Democrat has been described as a "wake-up call" for Republicans, particularly in the context of the upcoming 2026 elections. This suggests a shifting political landscape in Texas that could impact future races, including the TX-25 House seat. Analysts may interpret this win as indicative of changing voter sentiments, which could favor Democratic candidates in traditionally Republican strongholds. Factors such as demographic changes, voter turnout, and the effectiveness of campaign strategies will be crucial in predicting whether the Democratic Party can secure the TX-25 seat in the next election.
-
-Title: Election 2026 will be a big Democratic year, unless President Trump ...
-Author: Bob Loevy
-Published Date: 2026-01-26T00:00:00.000Z
-URL: https://www.coloradopolitics.com/2026/01/26/election-2026-will-be-a-big-democratic-year-unless-president-trump-avoids-the-sixth-year-jinx-bob-loevy/
-Summary: The article discusses the potential for a significant Democratic victory in the 2026 elections, particularly in the context of the historical "sixth-year" jinx that often affects the incumbent president's party. With Donald Trump serving a split-term presidency, the upcoming midterm elections could see the Democrats gaining ground, especially if the historical trend holds true. The analysis suggests that the Democrats could capitalize on this pattern to win key seats, including the TX-25 House seat. Factors influencing this outcome may include voter sentiment, economic conditions, and Trump's political standing as the elections approach.
+Title: 2026 primary election results and highlights: Texas, North Carolina ...
+Published Date: 2026-03-05T04:15:56.604Z
+URL: https://www.ms.now/liveblog/2026-primaries-election-updates
+Summary: The webpage provides coverage of the 2026 primary election results and highlights in Texas, North Carolina, and Arkansas. While specific details about individual House races, including TX-25, are not explicitly provided in the excerpt, the focus on primary outcomes suggests insights into candidate performances and party dynamics within these states. To assess the likelihood of the Democratic Party winning TX-25, one would need to analyze recent primary results, candidate nominations, and shifts in voter support highlighted in these elections. Overall, understanding the current political landscape in Texas, including primary trends and candidate strengths, can inform predictions about the upcoming general election outcome in TX-25.
 
 

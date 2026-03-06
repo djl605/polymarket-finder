@@ -1,7 +1,7 @@
 # Research: Will Trump pardon Keonne Rodriguez before 2027?
 
 **Market ID:** 0x54701be7ec2f8ae91308ef7ca1e28720f74664e3d3dc446ceef76e86a785e579
-**Researched At:** March 1, 2026 at 06:03:58 AM UTC
+**Researched At:** March 6, 2026 at 04:17:28 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump pardon Keonne Rodriguez before 2027?"
 
 ---
@@ -9,42 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 0.5¢
 
 ### Summary
 
-Balanced evidence on Trump’s crypto-pardon past versus Rodriguez’s low profile and a chaotic clemency process suggests the 20% price is reasonable, with no clear mispricing. Limited volume likely reflects general indifference rather than overlooked information.
+No research mentions Keonne Rodriguez specifically, so the market’s ~20% price aligns with Trump’s general pardoning patterns and potential new oversight, indicating no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether, during Trump’s (second) presidential term between December 16, 2025 and December 31, 2026, he will issue a pardon, commutation, or reprieve for Keonne Rodriguez. A “Yes” requires an official White House action (pardon, commutation, or reprieve) for Rodriguez in that window; otherwise it resolves “No.”
+The market asks whether Donald Trump will grant a pardon, commutation, or reprieve to Keonne Rodriguez between December 16, 2025 and December 31, 2026. A "Yes" requires an official presidential clemency action in that window; otherwise it settles "No."
 
 2. EVIDENCE EVALUATION  
-Bullish (Higher than 20%):  
-- 2025-12-15 report: Trump is reviewing Rodriguez’s case and has pardoned crypto figures like Zhao and Ulbricht.  
-- Crypto-community advocacy frames Rodriguez as a privacy-tool developer unfairly prosecuted, which mirrors prior successful pardon lobbying.  
+Bullish on YES (imply higher probability):  
+• Trump has historically granted large numbers of pardons (1,700+), often to politically connected or high-profile figures (Vanity Fair).  
+• He uses pardons for allies and as political favors, suggesting potential for further clemency.  
 
-Bearish (Lower than 20%):  
-- Rodriguez lacks the high-profile status or political connections of past pardonees.  
-- The pardon office under Trump is described as “decimated,” decisions driven by personal ties and limited White House bandwidth.  
-- Dozens of pardon requests compete for scarce attention in a chaotic process; one year left in the term means many candidates ahead of him.  
+Bearish on YES (supporting current ~20%):  
+• No source mentions Keonne Rodriguez, his case, or his connections—no indication he’s on Trump’s radar.  
+• Proposed Pardon Integrity Act (Rep. Bacon) could impose new checks if enacted, reducing unilateral pardons. That bill hasn’t passed and faces veto risk, but it signals increased scrutiny.  
+• Chaos and selectivity in Trump’s process: some high-profile lobbying fails (e.g., Greg Lindberg), underscoring unpredictability and suggesting only a minority of petitions succeed.
 
-All sources are recent (Dec 2025–Mar 2026) and from credible outlets (MEXC news, Vanity Fair, New York Magazine). None point to near-certainty; bullish signals are known to the market and qualitative.
+Source recency/credibility:  
+• All articles are from Feb–Mar 2026, reputable outlets. None address Rodriguez specifically.  
+
+No evidence appears “too obvious” or overlooked; the lack of any mention of Rodriguez suggests traders are pricing in generic pardon odds rather than case-specific intel.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 20% probability plausibly reflects a consensus: Trump’s crypto-pardon history gives some chance but Rodriguez’s low profile and an unpredictable, politicized pardon process cap the likelihood. Low volume suggests limited trading interest rather than clear arbitrage.
+• A 19.5% probability is consistent with Trump’s historical pardon rate (~10–20% of applicants) adjusted for his prolific use.  
+• Low volume may reflect the niche nature of the question and absence of public detail on Rodriguez. It doesn’t necessarily imply mispricing; informed traders likely see insufficient actionable info.  
 
 4. MISPRICING ASSESSMENT  
-There is no clear, overlooked catalyst that would push the odds substantially above or below 20%. Both upside factors (crypto precedent, advocacy) and downside factors (limited connections, chaotic process) seem already priced in. The market shows signs of reasonable efficiency given low volume and balanced narratives.
+• There’s no specific credible information about Rodriguez’s situation or advocacy efforts that would shift probability materially.  
+• Legislative risk (Pardon Integrity Act) marginally bearish, but bill is unpassed and likely limited in scope.  
+• Traders likely defaulted to a base-rate estimate. The 19.5% price is a reasonable aggregation of general pardon behavior and uncertainty around new oversight.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is mispriced = 20% (qualitative, no new data).  
-Plausible mispricing magnitude = ~5 cents.  
-Expected value = 0.20 × 5 = 1.0 cents.
+• Strength of evidence: 10% (almost no case‐specific data).  
+• Magnitude of mispricing: 5¢ (worst‐case small adjustment).  
+• Expected value = 10% × 5¢ = 0.5¢
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Balanced evidence on Trump’s crypto-pardon past versus Rodriguez’s low profile and a chaotic clemency process suggests the 20% price is reasonable, with no clear mispricing. Limited volume likely reflects general indifference rather than overlooked information.  
+EXPECTED_VALUE: 0.5  
+SUMMARY: No research mentions Keonne Rodriguez specifically, so the market’s ~20% price aligns with Trump’s general pardoning patterns and potential new oversight, indicating no clear mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -53,58 +59,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Trump Eyes Pardon Review for Samourai Wallet Developer Keonne ...
-Author: 
-Published Date: 2025-12-15T00:00:00.000Z
-URL: https://www.mexc.co/news/277810
-Summary: Former President Donald Trump has expressed intentions to review the case of Keonne Rodriguez, a developer of the Samourai Wallet, for a potential pardon. This consideration follows Trump's recent clemency actions for other figures in the cryptocurrency space, such as Changpeng Zhao and Ross Ulbricht. Rodriguez, along with co-founder William Lonergan Hill, was sentenced to prison for operating a cryptocurrency mixing service deemed an unlicensed money transmitter, facing sentences of five and four years, respectively.
+Title: The Scenius State of Regulation (Issue # 41)
+Author: Scenius Analyst
+URL: https://sceniuscapital.substack.com/p/the-scenius-state-of-regulation-issue-534
+Summary: The webpage provides a monthly overview of global cryptocurrency regulation developments as of early 2026, focusing on policies in the US, Canada, and other regions. Key points include upcoming US regulatory proposals for stablecoins, with the FDIC planning to introduce rules for stablecoin issuers by December 2025, and congressional discussions highlighting ongoing uncertainty around stablecoin definitions and regulation. In Canada, stablecoin regulation is considered unlikely to significantly impact markets, emphasizing payments innovation instead. Additionally, US states like Connecticut are cracking down on unlicensed prediction markets, and law enforcement continues to address crypto-related crimes, such as a Maryland man sentenced for aiding North Korea’s infiltration of US tech firms. While these regulatory trends indicate increased oversight and evolving legal frameworks, there is no specific information directly addressing a potential pardon for Keonne Rodriguez by Trump before 2027.
 
-The push for Rodriguez's pardon is driven by advocacy from privacy supporters and the crypto community, who argue that the developers should not be held liable for the misuse of their privacy software by third parties. The case raises significant questions about the legal responsibilities of software developers in the cryptocurrency sector, particularly concerning privacy tools.
+Title: Republican congressman backs bill to limit Trump's pardon power - nj.com
+Author: Nick Moyle | NJ.com
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://www.nj.com/politics/2026/02/a-republican-just-broke-ranks-to-limit-trumps-pardon-power-and-it-could-change-everything.html
+Summary: The article discusses a proposed bill, the Pardon Integrity Act, which aims to limit the president's unilateral pardon power by requiring congressional notification and establishing a process for Congress to challenge pardons. Notably, Rep. Don Bacon, a Republican, has co-sponsored this legislation, signaling some bipartisan concern over the potential abuse of pardon authority. The bill's context is heightened scrutiny of President Trump’s extensive use of pardons, including over 1,500 pardons during his second term, notably for January 6 rioters. Given this legislative push and the focus on oversight, if such laws are enacted before 2027, they could influence whether Trump might pardon individuals like Keonne Rodriguez, as any future pardon would likely be subject to congressional review and approval processes.
 
-Given Trump's history of pardoning individuals in the crypto realm and the ongoing advocacy efforts, there is a possibility that Rodriguez could receive a pardon before 2027, especially if public and political support continues to grow.
+Title: Trump’s Wild West Wing Pardons: Inside the Absolutions of Todd Chrisley, Carlos Watson, Sidney Powell, and Other Boldface Pardonees | Vanity Fair
+Author: Willem Marx
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.vanityfair.com/news/story/presidential-pardons-trumps-america
+Summary: The article details Donald Trump's extensive use of presidential pardons, granting clemency to over 1,700 individuals since 2016, often involving high-profile or politically connected figures. It highlights the chaotic and politicized nature of these pardons, including cases like Greg Lindberg, who sought a pardon amid legal troubles but was ultimately denied. The process appears influenced by personal connections, lobbying efforts, and strategic considerations, with some pardons serving to benefit allies or individuals with close ties to Trump. Given this pattern, predicting whether Trump will pardon Keonne Rodriguez before 2027 would depend on Rodriguez's legal circumstances, connections, and whether his case aligns with Trump's typical pardon criteria—favoring political allies, high-profile figures, or cases with personal significance.
+
+Title: Filing: Nvidia says it plans to rent $26B worth ...
+URL: https://www.techmeme.com/251120/p2
+Summary: The webpage discusses recent developments related to U.S. AI regulation policies under President Trump, including plans for a broad executive order to preempt state AI laws and establish federal oversight. While it highlights Trump's efforts to centralize AI regulation and challenge state-level restrictions, there is no specific information about individual pardons, including Keonne Rodriguez. Therefore, the content does not provide relevant details or indicators that could help predict whether Trump will pardon Keonne Rodriguez before 2027.
 
 Title: THEY BEG HIS PARDON | Vanity Fair | MARCH 2026
 Author: ANNA PEELE
 Published Date: 2026-03-01T00:00:00.000Z
 URL: https://archive.vanityfair.com/article/2026/3/1/they-beg-his-pardon
-Summary: The article "They Beg His Pardon" by Willem Marx in Vanity Fair explores the dynamics of the pardon system under Donald Trump's administration, particularly highlighting the influence of lobbyists and personal connections in securing pardons. It details high-profile cases, including that of Greg Lindberg, illustrating how the process often involves a mix of strategic lobbying, timing, and personal relationships rather than a straightforward assessment of justice.
-
-While the article does not specifically mention Keonne Rodriguez or predict his chances of receiving a pardon, it emphasizes that the pardon process is heavily influenced by who advocates for the individual and the political climate at the time. Given Trump's history of granting pardons to those with significant connections or who have garnered public attention, the likelihood of Rodriguez receiving a pardon before 2027 could depend on similar factors—such as the strength of his advocacy, any connections he may have to influential figures, and the political landscape as Trump's term progresses. 
-
-For a more accurate prediction regarding Rodriguez, one would need to consider his specific circumstances, the nature of his conviction, and any ongoing efforts to lobby for his pardon.
-
-Title: The Scenius State of Regulation (Issue # 41)
-Author: Scenius Analyst
-Published Date: 2026-01-06T00:00:00.000Z
-URL: https://sceniuscapital.substack.com/p/the-scenius-state-of-regulation-issue-534
-Summary: The article "The Scenius State of Regulation (Issue # 41)" primarily focuses on the evolving landscape of regulation affecting digital assets, particularly in the U.S., Canada, and the Caribbean. It discusses recent developments in stablecoin regulations, the actions of financial regulators, and the implications of these regulations on the broader financial market.
-
-While the content does not directly address the question of whether Trump will pardon Keonne Rodriguez before 2027, it highlights the regulatory environment that could influence political decisions and actions. Understanding the regulatory landscape, especially regarding financial and digital assets, may provide context for political maneuvers and decisions made by figures like Trump, particularly as they relate to economic factors and public sentiment.
-
-For insights into potential pardons, one might consider the political climate, public opinion, and Trump's historical patterns of decision-making regarding pardons. However, the article does not provide specific information relevant to predicting a pardon for Keonne Rodriguez.
-
-Title: Trump’s Pardon Office Is ‘Totally Decimated’
-Author: Matt Stieb
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://nymag.com/intelligencer/article/trump-pardon-office-decimated-ghislaine-maxwell.html
-Summary: The article discusses the significant changes and challenges faced by the Office of the Pardon Attorney during Trump's presidency, highlighting how the office was largely undermined and replaced by political allies and lobbyists. Under Trump's administration, the process of granting pardons became more centralized and less transparent, with key staff members, including Liz Oyer, being excluded from decision-making. This shift raises questions about the criteria and motivations behind pardons granted during this time.
-
-Regarding the specific query about whether Trump will pardon Keonne Rodriguez before 2027, the article does not provide direct information about Rodriguez or any specific upcoming pardons. However, it suggests that Trump's pardoning decisions may be influenced by personal connections and political considerations rather than a formal review process, which could impact the likelihood of Rodriguez receiving a pardon. The lack of transparency and the focus on pardoning allies may indicate that any future pardons will follow a similar pattern.
-
-Title: Trump’s Wild West Wing Pardons: Inside the Absolutions of Todd Chrisley, Carlos Watson, Sidney Powell, and Other Boldface Pardonees | Vanity Fair
-Author: Willem Marx
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://vanityfair.com/news/story/presidential-pardons-trumps-america
-Summary: The article discusses the dynamics of presidential pardons during Donald Trump's administration, highlighting the cases of various high-profile individuals who sought clemency. It emphasizes the chaotic environment in the White House leading up to Trump's departure, where numerous pardon requests were made, including that of Greg Lindberg, an insurance mogul. The piece notes that Trump granted over 1,700 pardons during his first term, but not all requests were fulfilled, as seen with Lindberg's case.
-
-For predicting whether Trump will pardon Keonne Rodriguez before 2027, consider the following factors mentioned in the article:
-
-1. **High-Profile Cases**: The article indicates that Trump has been open to pardoning individuals with significant public profiles or connections, suggesting that Rodriguez's visibility or connections could influence his chances.
-
-2. **Lobbyist Influence**: The involvement of lobbyists and advocates in pushing for pardons is highlighted. If Rodriguez has strong advocates or lobbyists working on his behalf, it could increase the likelihood of a pardon.
-
-3. **Timing and Political Climate**: The context of Trump's political situation and any potential return to office could affect his willingness to grant pardons. If he regains influence or office, he may be more inclined to issue pardons.
-
-4. **Public Sentiment and Legal Standing**: The article suggests that pardons are often influenced by public opinion and the legal circumstances surrounding the individuals. If Rodriguez's case garners public support or if there are compelling legal arguments for his pardon
+Summary: The article examines the high-stakes and often opaque process of presidential pardons during Donald Trump's administration, highlighting how pardons are influenced by political connections, lobbying efforts, and personal relationships. It details specific cases, such as Greg Lindberg, whose pardon was sought but ultimately not granted, despite significant efforts and legal counsel. The piece underscores that pardons can be part of a broader pattern of favor-trading, with some high-profile individuals—like Silk Road founder Ross Ulbricht, reality TV star Todd Chrisley, and others—receiving clemency, while others, such as Lindberg, remain unpardoned. Given this context, predicting whether Trump will pardon Keonne Rodriguez before 2027 involves understanding the discretionary, often politically motivated nature of his pardon decisions, the influence of lobbying, and the precedent of selective clemency for certain high-profile or politically connected individuals.
 
 

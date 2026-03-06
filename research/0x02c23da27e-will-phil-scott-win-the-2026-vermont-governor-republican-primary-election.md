@@ -1,7 +1,7 @@
 # Research: Will Phil Scott win the 2026 Vermont Governor Republican primary election?
 
 **Market ID:** 0x02c23da27e72ea0b2823e6399a59a056f12c5d5d52462561362412db398253e9
-**Researched At:** March 1, 2026 at 06:09:44 AM UTC
+**Researched At:** March 6, 2026 at 04:17:06 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Phil Scott win the 2026 Vermont Governor Republican primary election?"
 
 ---
@@ -9,44 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Polling and lack of GOP challengers support a high probability that Scott wins the 2026 Republican primary, and an 83% price reasonably balances his incumbency strength against the unpredictability of intra‐party contests. There’s no clear, missing information indicating a large mispricing.
+Scott’s strong approval (74%) and absence of GOP challengers support an ~85–90% chance he wins the primary; the market’s 82.5% price reasonably folds in a small risk he won’t run or faces an upset. No clear mispricing above a few cents is evident.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether incumbent Governor Phil Scott will win the 2026 Vermont Republican gubernatorial primary on August 11, 2026. It resolves to YES if Scott emerges as the overall winner (including any run‐off), and NO if he loses, withdraws, or if no primary occurs (resolving to “Other,” which counts as NO).
+- The market asks whether incumbent Gov. Phil Scott will win the Vermont GOP gubernatorial primary on August 11, 2026.  
+- A YES requires (a) Scott to declare or qualify for the primary ballot and (b) receive the most votes in that primary (or face no opponent). A NO includes any challenger winning or Scott not running (or no primary).  
 
 2. EVIDENCE EVALUATION  
-Bullish evidence  
-• Multiple February 2026 polls show Scott at a 74% approval rating—the highest in the nation for 14 consecutive quarters—suggesting broad voter support.  
-• No major Republican challengers are reported, and his strong fundraising and popularity give him an organizational edge.  
-Bearish considerations  
-• Approval ratings reflect the general electorate, not just the Republican primary base, which may be more conservative and less enthusiastic about a moderate incumbent.  
-• Lack of named intra‐party challengers in reporting may simply reflect focus on general election dynamics; potential GOP challengers could emerge later.  
-Source credibility and recency  
-• All sources are from reputable news outlets or the VT GOP, dated February 2026—highly relevant and recent.
+Bullish (supports ~82.5% or higher):  
+- Herald News (Feb 6 2026) reports Scott’s approval at 74% statewide and #1 nationally, implying very strong GOP base support.  
+- Ballotpedia/NPR note no serious Republican challenger has emerged; Democrats are scrambling just to field anyone, suggesting intra-party opposition is weak to nonexistent.  
+- Historically, incumbents with high approval rarely lose primaries; if unopposed, he automatically prevails.  
+
+Bearish (suggests price might be too high):  
+- Scott has not formally announced his 2026 candidacy; risk he retires or changes plans before the filing deadline (May 28).  
+- A primary challenge from a more conservative Republican is theoretically possible, though none have surfaced in public reports.  
+
+Source credibility is strong for local reporting (Herald News, Seven Days) and NPR/Ballotpedia summaries. All are recent (Feb–Mar 2026). No significant contradictory evidence was found.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A sitting governor with no obvious primary opposition and strong poll numbers could justify an 83% win probability among informed traders.  
-• Low volume and tight spread suggest a few participants confident in the outcome, but also minimal new information flow.  
-• The market may reflect the consensus view that Scott’s incumbency and popularity make a primary loss unlikely, while still pricing in the nonzero chance of a late challenger or intra‐party backlash.
+- A price of 82.5% plausibly folds in (a) a small risk of Scott not running or facing an upset and (b) a near-certainty of victory if he runs.  
+- The $0 volume suggests the market is lightly tapped but likely “obvious” enough that few traders see mispricing.  
+- The low engagement likely reflects consensus rather than ignorance: incumbents at >70% approval almost never lose primaries.  
 
 4. MISPRICING ASSESSMENT  
-• There is no concrete evidence of an overlooked challenger or scandal that would materially alter Scott’s prospects.  
-• The 83% probability appears reasonable given high general approval offset by the typical unpredictability of primaries and potential for unforeseen intra‐party dynamics.  
-• No specific, credible information is missing that would suggest a >20‐point mispricing.
+- There is no specific, credible evidence of a challenger or a looming retirement.  
+- The main uncertainty is Scott’s formal decision to run. Traders appear to discount a ~15–20% risk he does not run or is unexpectedly challenged.  
+- That assessment is reasonable; no clear 20-cent gap emerges between available public facts and the market price.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is wrong: 20% (some uncertainty about primary electorate vs. general approval)  
-• Plausible magnitude of mispricing: 5¢  
-• Expected value ≈ 20% × 5¢ = 1¢
+- Strength of evidence that price is already reasonable: ~60% (solid approval data and historical precedent).  
+- Potential mispricing magnitude if undervalued (very modest): ~5 cents.  
+- Expected value = 60% × 5 cents = 3 cents.  
 
-EXPECTED_VALUE: 1  
-SUMMARY: Polling and lack of GOP challengers support a high probability that Scott wins the 2026 Republican primary, and an 83% price reasonably balances his incumbency strength against the unpredictability of intra‐party contests. There’s no clear, missing information indicating a large mispricing.  
+EXPECTED_VALUE: 3  
+SUMMARY: Scott’s strong approval (74%) and absence of GOP challengers support an ~85–90% chance he wins the primary; the market’s 82.5% price reasonably folds in a small risk he won’t run or faces an upset. No clear mispricing above a few cents is evident.  
 CONFIDENCE: medium
 
 ---
@@ -55,50 +58,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Vermont Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/VT.html
+Summary: As of the latest available information, the 2026 Vermont primary election results have not been announced, including for the Republican gubernatorial race. Governor Phil Scott, a prominent Republican figure, has not yet been declared the winner or even officially announced his candidacy for the 2026 primary. Without current results or candidate declarations, it is too early to predict whether Phil Scott will win the Republican primary. Factors such as his previous popularity, campaign developments, and potential challengers will influence the outcome as the election approaches.
+
+Title: Vermont gubernatorial election, 2026
+URL: https://ballotpedia.org/Vermont_gubernatorial_election,_2026
+Summary: The webpage provides an overview of the upcoming 2026 Vermont gubernatorial election, including details about the election cycle, potential candidates, and the political landscape. Vermont's 2026 elections will feature various state offices, including the governor, lieutenant governor, attorney general, and other state legislative positions. Phil Scott, the current governor, is a prominent Republican figure who has previously won statewide elections. While the page does not specify his intentions or campaign plans for 2026, his incumbency and popularity suggest he could be a strong contender in the Republican primary. However, without explicit information on his candidacy or challengers, predicting his likelihood of winning the Republican primary remains uncertain. Factors such as his past electoral success, approval ratings, and potential opposition will influence the primary outcome.
+
+Title: 2026 Gubernatorial Race Overview
+URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
+Summary: The provided webpage does not contain information about Phil Scott or the Vermont gubernatorial race, including details about the 2026 Republican primary or any relevant political dynamics in Vermont. It primarily covers the New Jersey and Virginia gubernatorial races, with details on candidates, polling, and campaign strategies. Therefore, there is no relevant information to predict whether Phil Scott will win the 2026 Vermont Republican primary.
+
 Title: Vermont Gov. Phil Scott is most popular in America: See poll
 Author: Margie Cullen
 Published Date: 2026-02-06T00:00:00.000Z
 URL: https://www.heraldnews.com/story/news/politics/2026/02/06/vermont-gov-phil-scott-is-most-popular-in-america-see-poll/88533081007/
-Summary: Vermont Governor Phil Scott has consistently maintained high popularity, recently being ranked as the most popular governor in the U.S. with a 74% approval rating, according to a Morning Consult poll. This marks his 14th consecutive quarter at the top. His net approval rating of +55 points is significantly higher than that of the next most popular governor, Wyoming's Mark Gordon. 
-
-Given this strong approval, Scott's chances in the 2026 Vermont Governor Republican primary could be favorable. His popularity is not only a reflection of his performance but also suggests a solid base of support among voters, which is crucial for primary elections. Additionally, the poll indicates that other New England governors, such as Maura Healey and Ned Lamont, also enjoy high approval ratings, which may influence the political landscape in Vermont.
-
-In summary, Phil Scott's sustained popularity and high approval ratings position him well for the upcoming primary, making it likely that he will be a strong contender.
+Summary: Vermont Governor Phil Scott maintains a strong approval rating nationally, ranking as the most popular governor in America with a 74% approval and only 19% disapproval, resulting in a net approval of +55 points. He has held this top position for 14 consecutive quarters, indicating consistent public support. In Vermont, a predominantly Democratic state, Scott's popularity remains high, suggesting he has a solid base of approval among voters. While specific primary election data is not provided, his widespread popularity and high approval ratings, both statewide and nationally, suggest he is a strong contender to win the Republican primary in 2026.
 
 Title: Democrats Struggle to Find Candidate to Take on Scott | Seven Days
 Author: Kevin McCallum
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/
-Summary: As of now, there are no Democratic candidates officially challenging Republican Governor Phil Scott for the upcoming 2026 election, which raises concerns about his potential re-election. Scott has maintained a high approval rating of 74%, making him the most popular governor in the nation for the 14th consecutive quarter. This popularity, combined with his strong fundraising capabilities, positions him favorably for the Republican primary.
-
-Democratic insiders express frustration over the lack of prominent challengers, with State Treasurer Mike Pieciak being viewed as a potential candidate but currently hesitant to run. Pieciak's indecision stems from personal challenges and a focus on his current role, despite previous indications of interest in the gubernatorial race. The absence of credible opposition could further solidify Scott's chances of winning the primary and securing a sixth term. 
-
-Overall, Scott's high approval ratings, lack of Democratic challengers, and his established political presence suggest a strong likelihood of his success in the upcoming election.
-
-Title: Gov. Phil Scott Named America's Most Popular Governor for 14th Consecutive Quarter
-Author: VT Republican Party
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://vtgop.substack.com/p/gov-phil-scott-named-americas-most
-Summary: Governor Phil Scott has been named America's most popular governor for the 14th consecutive quarter, boasting a remarkable 74% approval rating and the lowest disapproval rate among his peers. This popularity is attributed to his independent decision-making and alignment with the interests of Vermonters, as noted by VTGOP Chairman Paul Dame. Despite attempts by Democrats to associate him with the Trump administration, Scott's support remains strong. His popularity is seen as a significant advantage for Republicans in the upcoming elections, providing political capital for legislative goals. Given these factors, Scott's high approval ratings and strong voter trust may position him favorably for the 2026 Vermont Governor Republican primary election.
-
-Title: Vermont Gov. Phil Scott is most popular in America: See poll
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: http://www.burlingtonfreepress.com/story/news/politics/2026/02/06/vermont-gov-phil-scott-is-most-popular-in-america-see-poll/88533081007/
-Summary: Vermont Governor Phil Scott has consistently maintained a high approval rating, recently reported at 74%, making him the most popular governor in the United States according to a Morning Consult poll. His net approval rating of +55 points is significantly higher than that of his closest competitor, Wyoming's Governor Mark Gordon. Scott's popularity is notable even in a predominantly Democratic state, which may influence his chances in the upcoming 2026 Republican primary. 
-
-In the context of the 2026 Vermont Governor Republican primary election, Scott's sustained popularity, as evidenced by his 14 consecutive quarters at the top of approval ratings, suggests he is a strong candidate. Additionally, the approval ratings of other New England governors indicate a favorable political climate for Republican candidates in the region, with Scott outperforming his peers. 
-
-Given these factors, Scott's high approval ratings and established popularity could position him well for a successful run in the primary, although the political landscape may evolve as the election approaches.
-
-Title: Vermont Gov. Phil Scott is most popular in America: See poll
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://eu.tauntongazette.com/story/news/politics/2026/02/06/vermont-gov-phil-scott-is-most-popular-in-america-see-poll/88533081007/
-Summary: Vermont Governor Phil Scott has been identified as the most popular governor in America, according to a recent Morning Consult poll. He boasts a 74% approval rating and a net approval rating of +55 points, significantly higher than the next most popular governor, Wyoming's Mark Gordon. Scott's popularity is notable given Vermont's predominantly Democratic political landscape, which includes figures like Senator Bernie Sanders.
-
-In the context of the upcoming 2026 Vermont Governor Republican primary election, Scott's sustained high approval ratings could indicate strong support among Republican voters. His consistent performance over 14 consecutive quarters as the top-rated governor suggests he has maintained a favorable image, which may bolster his chances in the primary.
-
-Additionally, the approval ratings of other New England governors show that Scott is leading by a considerable margin, which could further enhance his credibility and appeal within the Republican party. Given these factors, Scott's popularity and approval ratings could play a crucial role in predicting his success in the 2026 primary election.
+Summary: The article highlights that Vermont Democrats are struggling to find a strong candidate to challenge incumbent Republican Governor Phil Scott in the 2026 election. Despite Scott's high approval ratings—74% according to Morning Consult, making him the most popular governor in the nation—no prominent Democrat has officially announced a run, and potential contenders like State Treasurer Mike Pieciak remain hesitant. The primary deadline is May 28, giving time for candidates to enter, but Scott's strong popularity and fundraising advantage make him a formidable opponent. Given these factors, Scott's chances of winning the Republican primary appear strong, especially if no significant challengers emerge.
 
 

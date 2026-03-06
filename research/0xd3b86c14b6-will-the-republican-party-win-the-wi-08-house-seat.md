@@ -1,51 +1,56 @@
 # Research: Will the Republican Party win the WI-08 House seat?
 
 **Market ID:** 0xd3b86c14b6d6c3147bde6cc311319aedd8baa683d64a69ba61166001ac661fee
-**Researched At:** March 1, 2026 at 06:01:03 AM UTC
+**Researched At:** March 6, 2026 at 04:16:10 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the WI-08 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.0¢
+**Confidence:** Medium
+**Expected Value:** 1.0¢
 
 ### Summary
 
-All provided research addresses Wisconsin’s 3rd District, not the 8th, so there is no direct evidence to assess or challenge the current 81.5% probability. In absence of WI-08–specific data, we can’t identify any credible mispricing.
+WI-08 remains historically a safe Republican seat, and while redistricting introduces some uncertainty, there is no concrete data showing the GOP win probability is off by more than a few cents. Given the low volume but narrow spread, the 80.5% price appears reasonable.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Republican Party’s candidate will win Wisconsin’s 8th Congressional District seat in the U.S. House on November 4, 2026.  
-– YES if a candidate listed (or identified) as Republican at the time all races are called wins the general election in WI-08.  
-– NO otherwise (i.e., a Democrat or non-aligned candidate who caucuses with Democrats wins).
+The market asks: Will the Republican Party win Wisconsin’s 8th congressional district seat in the 2026 U.S. House midterms? It resolves YES if the eventual winner is listed or caucuses as Republican; NO otherwise.
 
 2. EVIDENCE EVALUATION  
-All five research items focus on Wisconsin’s 3rd District (Van Orden vs. Cooke) or on statewide redistricting and political climate. None provides polling, fundraising, candidate lineups, or voter dynamics specifically for WI-08.  
-– No material on WI-08’s incumbent or challenger, fundraising, polling, redistricting effects, or local issues.  
-– Therefore there is no direct bullish or bearish evidence to suggest the 81.5% price for WI-08 is too high or too low.  
-– Source credibility and recency are fine, but irrelevant because they cover the wrong district.
+A. Bearish for GOP (suggests price too high):  
+• Redistricting uncertainty: Decision Desk HQ notes a court-ordered map in WI could shift some districts toward Democrats, potentially making WI-08 more competitive than historical norms.  
+• National environment: Trump’s low approval could depress GOP turnout, and a Democratic wave midterm could upset safe seats. (Implied by CNN’s reference to Democrats targeting Trump-leaning areas.)  
+
+B. Bullish for GOP (supports current ~80%):  
+• Historical lean: CNN calls WI-08 a “securely red” district in Trump country. No specific competitive signal has emerged.  
+• No primary data: NPR reports no candidate results yet; absent a strong Democratic nominee or intra-GOP fracture, baseline stability favors the incumbent party.  
+
+C. Source credibility and recency:  
+• Decision Desk HQ (Skelley) 2/23/26 – reputable analyst, but doesn’t specify WI-08 PVI or candidate info.  
+• CNN Politics 2/15/26 – established outlet, directly labels WI-08 as red.  
+• NPR 3/5/26 – factual on lack of data.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-– With only $865 traded, the price may reflect a single trader’s view or an offhand consensus that WI-08 is safely Republican.  
-– Low volume could mean the outcome is seen as obvious (hence no one trades) or simply overlooked by those with more precise info.  
-– Without district‐specific data, we cannot discern whether informed traders have already priced in relevant factors.
+• Price justification: Reflects a consensus that WI-08 remains firmly GOP even amid redistricting noise.  
+• Low volume/spread: Could stem from obvious nature of this district rather than ignorance; few traders needed to set price near its long-term equilibrium.  
+• Alternative: If truly overlooked, an informed trader might have traded already; the tight spread suggests someone actively managing a position.  
 
 4. MISPRICING ASSESSMENT  
-– No district‐specific evidence is present to challenge the 81.5% price.  
-– In absence of any WI-08‐focused research, we cannot identify missing information that would shift the probability by any non-trivial amount.  
-– Thus there is no credible basis on the provided data to assert a mispricing >1–2¢.
+• No direct polling or candidate shocks in research. The main “bearish” signal is redistricting, but that is speculative and undifferentiated across districts.  
+• Absent clear evidence that the new map swings WI-08 by >10–15 points, there’s no reason to believe the market’s ~80% GOP win probability is off by more than a few cents.  
 
 5. EXPECTED VALUE CALCULATION  
-– STRENGTH of evidence: 0% (no relevant data on WI-08)  
-– MAGNITUDE of mispricing: 0¢ (we lack any information to adjust price)  
-– Expected value = 0% × 0¢ = 0¢
+• Strength of evidence that price is wrong: ~20% (redistricting risk is real but unspecified).  
+• Magnitude of potential mispricing: ~5 cents (small shift if map leans slightly more Democratic than assumed).  
+• Expected value ≈ 20% × 5¢ = 1¢.
 
-EXPECTED_VALUE: 0  
-SUMMARY: All provided research addresses Wisconsin’s 3rd District, not the 8th, so there is no direct evidence to assess or challenge the current 81.5% probability. In absence of WI-08–specific data, we can’t identify any credible mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1  
+SUMMARY: WI-08 remains historically a safe Republican seat, and while redistricting introduces some uncertainty, there is no concrete data showing the GOP win probability is off by more than a few cents. Given the low volume but narrow spread, the 80.5% price appears reasonable.  
+CONFIDENCE: medium
 
 ---
 
@@ -53,54 +58,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Van Orden, Cooke fundraising running head-to-head in 3rd District
-Author: Laura Schulte
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://eu.jsonline.com/story/news/politics/2026/02/02/van-orden-cooke-fundraising-running-head-to-head-in-3rd-district/88420659007/
-Summary: In the competitive race for Wisconsin's 3rd Congressional District, incumbent Republican Derrick Van Orden is facing Democrat Rebecca Cooke. Fundraising efforts show a close contest, with Van Orden raising over $4.3 million overall in 2025, while Cooke led in the most recent filing period. The district, which includes key areas like Stevens Point, La Crosse, and Eau Claire, is considered a battleground, having been won by Van Orden in 2024 by a narrow margin of 2.8 points.
-
-Van Orden, a retired Navy SEAL, has a significant cash reserve of $2.7 million and has spent about $2.1 million so far. His tenure has been marked by controversy, including a public feud with Democratic Rep. Mark Pocan and a history of inflammatory social media posts. The upcoming Democratic primary on August 11 will determine Cooke's challenger in the November general election, which could influence the dynamics of the race.
-
-Given the tight fundraising landscape and the district's competitive nature, the Republican Party's chances of retaining the WI-08 House seat will depend on voter turnout, the effectiveness of campaign strategies, and the outcome of the Democratic primary.
-
-Title: Democratic challenger Rebecca Cooke outraises US Rep. Derrick Van Orden - WPR
-Author: Rich Kremer
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.wpr.org/news/democratic-challenger-rebecca-cooke-outraises-us-rep-derrick-van-orden
-Summary: In the competitive landscape of Wisconsin's congressional races, recent fundraising dynamics indicate a significant shift that could impact the Republican Party's chances in the WI-08 House seat. Democratic challenger Rebecca Cooke has recently outraised incumbent Republican Congressman Derrick Van Orden for the first time, bringing in approximately $1.2 million compared to Van Orden's $931,000 during the last quarter of 2025. This fundraising success, particularly with support from political action committees, suggests growing momentum for Cooke's campaign.
-
-Despite Cooke's recent fundraising advantage, Van Orden maintains a substantial financial edge overall, with nearly $3 million in the bank compared to Cooke's $2.5 million. Additionally, both candidates are positioned as key players in the broader battle for control of the U.S. House, making the WI-08 seat a focal point for both parties.
-
-The Republican primary landscape is also noteworthy, with significant financial activity in the race to replace outgoing U.S. Rep. Tom Tiffany in the 7th District, indicating a potentially costly and competitive environment for Republicans statewide. This context suggests that while Cooke's fundraising success is promising for Democrats, the overall financial resources and established incumbency of Van Orden could still play a crucial role in the outcome of the WI-08 House seat.
-
-Title: Competitive congressional race heats up
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://mynews13.com/fl/orlando/news/2026/02/13/wisconsin-congression-cooke-van-orden
-Summary: The article discusses the competitive congressional race in Wisconsin's third district, where Democrat Rebecca Cooke is challenging Republican incumbent Derrick Van Orden. As the election approaches, various factors could influence the outcome, including voter sentiment, campaign strategies, and party support. The race is significant as Democrats aim to regain control of the House, making it crucial to monitor polling data, fundraising efforts, and local issues that resonate with voters. Key indicators to consider for predicting the Republican Party's chances in the WI-08 House seat include Cooke's campaign momentum, Van Orden's incumbency advantages, and the overall political climate in Wisconsin.
-
-Title: Milwaukee Journal Sentinel - Milwaukee and Wisconsin breaking news and investigations
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: http://ww.jsonline.com/story/news/politics/elections/2026/02/23/will-wisconsin-maintain-8-congressional-districts-gilbert/88709362007/
-Summary: The Milwaukee Journal Sentinel's coverage includes various political developments in Wisconsin that could influence the outcome of the WI-08 House seat election. Key articles highlight the dynamics within the Democratic Party as candidates navigate undecided voters in the gubernatorial primary, which may affect voter turnout and preferences in the House race. Additionally, Governor Tony Evers expresses optimism about potential bipartisan agreements on key issues, which could sway moderate voters.
-
-The Republican Party's strategies and responses to these developments, including their stance on housing and gun laws, are also crucial. The party's ability to address voter concerns and present a unified front will be significant in predicting their chances in the upcoming election. Overall, the political landscape in Wisconsin is evolving, and these factors will play a critical role in determining the outcome of the WI-08 House seat.
-
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
+Title: The Key House Seats in 2026 - by - Decision Desk HQ - Substack
 Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:00:49.357Z
+Published Date: 2026-02-23T00:00:00.000Z
 URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses key U.S. House seats that could determine the majority in the upcoming 2026 elections, with a focus on various political dynamics and candidate movements. Specifically regarding the WI-08 House seat, it highlights the following relevant points:
+Summary: The article discusses the upcoming 2026 U.S. House elections, highlighting key races and redistricting developments. Notably, Wisconsin's political landscape is shifting, with Wisconsin State House Speaker Robin Vos announcing he will not seek reelection, amid ongoing conflicts with Trump and potential impacts on GOP strategies. Redistricting efforts in Wisconsin and other states are significant, with courts ordering redraws that could alter the competitiveness of certain districts. While the article does not specify WI-08 directly, the broader context suggests that redistricting and political dynamics in Wisconsin could influence the competitiveness of the WI-08 seat. Given Vos's departure and the ongoing redistricting, the seat's outcome may hinge on how district boundaries are redrawn and the overall partisan environment in 2026.
 
-1. **Current Political Landscape**: The Republican Party has historically held the WI-08 seat, but shifts in voter sentiment and demographic changes could influence the outcome.
+Title: Wisconsin Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/WI.html
+Summary: The current NPR coverage of Wisconsin's 2026 primary election results indicates that no results have been reported yet for the governor's races or the U.S. House contests, including WI-08. As the primary results are not available, it is too early to assess the competitiveness or likely outcome of the WI-08 House seat. Factors such as candidate nominations, campaign developments, and voter registration trends will be crucial in predicting whether the Republican Party is favored to win this seat.
 
-2. **Redistricting Impact**: The article notes ongoing redistricting efforts in Wisconsin, which could alter the boundaries and voter demographics of the WI-08 district, potentially affecting Republican chances.
+Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
+Author: Geoffrey Skelley
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://open.substack.com/pub/decisiondeskhq/p/the-key-house-seats-in-2026-1
+Summary: The article discusses upcoming key House races and redistricting developments for the 2026 elections, with particular attention to competitive districts and political shifts. Notably, Wisconsin's political landscape is highlighted: Wisconsin State House Speaker Robin Vos announced he will not seek re-election, amid a history of conflicts with Trump and influence over conservative legislation. Redistricting in Wisconsin is also significant; a court-ordered map may favor Democrats by moving certain districts into more competitive territory. While specific details about WI-08 are not provided, these factors suggest increased competitiveness for Wisconsin districts, including potential shifts in voter dynamics due to redistricting and political realignments. This context indicates that the WI-08 seat could be more contested than in previous cycles, making the Republican hold less certain.
 
-3. **Candidate Dynamics**: The retirement of influential Republican figures, such as Wisconsin state House speaker Robin Vos, may open the field for new candidates, impacting the party's strategy and voter appeal.
+Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
+Author: Geoffrey Skelley
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1?isFreemail=true&post_id=188458309&publication_id=5685429&r=1b661k&triedRedirect=true
+Summary: The article discusses the upcoming 2026 U.S. House elections, highlighting key races and redistricting developments. Notably, Wisconsin’s political landscape is shifting, with Wisconsin State House Speaker Robin Vos announcing he will not seek reelection, amid ongoing conflicts with Trump and potential primary challenges. Redistricting in Wisconsin remains uncertain; although Vos's departure and district boundary changes could influence the competitiveness of certain seats, the article does not specify the current partisan leanings of WI-08. Overall, redistricting and candidate decisions in Wisconsin could impact the likelihood of a Republican hold or gain in WI-08, but specific predictions are not provided.
 
-4. **Election Trends**: The article suggests monitoring local and national trends, including voter turnout and party alignment, as these factors will be crucial in predicting the outcome of the WI-08 seat.
-
-Overall, while the Republican Party has a strong historical presence in WI-08, the evolving political landscape, redistricting, and candidate changes will be critical in determining their chances in the 2026 elections.
+Title: These are the districts that will decide House control | CNN Politics
+Author: Ronald Brownstein
+Published Date: 2026-02-15T00:00:00.000Z
+URL: https://us.cnn.com/2026/02/15/politics/house-control-districts-vis
+Summary: The 2026 House control is heavily influenced by districts in Trump-leaning areas, with Republicans defending many seats in these strongholds. While Democrats aim to capitalize on President Trump’s low approval ratings to gain seats, many Republican districts remain securely red, including in Wisconsin’s WI-08. Given the current landscape, WI-08 is likely to remain a Republican-leaning district, making a GOP victory there plausible, especially as the overall battle for House control hinges on districts in Trump country where Republicans hold a significant advantage.
 
 

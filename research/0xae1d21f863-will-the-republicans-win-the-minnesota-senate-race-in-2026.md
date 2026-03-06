@@ -1,7 +1,7 @@
 # Research: Will the Republicans win the Minnesota Senate race in 2026?
 
 **Market ID:** 0xae1d21f8632f37e11493fef7307b4d09c6b27697be5c820806a840559b1b2e06
-**Researched At:** March 1, 2026 at 05:59:10 AM UTC
+**Researched At:** March 6, 2026 at 04:19:30 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republicans win the Minnesota Senate race in 2026?"
 
 ---
@@ -9,40 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Current Emerson polls and historical midterm trends support a low-teens win probability for Republicans in Minnesota’s 2026 Senate race. There is no credible evidence suggesting a large mispricing.
+Recent Emerson polls show Democrats leading by 6–7 points with state history favoring Democrats, making a 15% GOP win probability consistent with public data. Low trading volume likely reflects consensus rather than a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Republican nominee wins Minnesota’s open 2026 U.S. Senate seat (including any run-offs). A “YES” resolves if the GOP nominee is ultimately called the winner by AP, Fox, and NBC (or via official certification); a “NO” if any other candidate wins.
+The market asks whether the Republican nominee will win Minnesota’s U.S. Senate seat in the November 2026 general election (including any run-offs). A YES resolution requires the GOP nominee to be certified the winner by AP, Fox, and NBC (or via state certification); otherwise it resolves NO.
 
 2. EVIDENCE EVALUATION  
-Bullish for Republicans:  
-• Newsweek notes Republicans are “within 10 points” of Democrats (Emerson poll), implying a competitive two-party margin.  
-• Minnesota has trended slightly more competitive recently, and the eventual GOP nominee could outperform early polling.  
-Bearish for Republicans:  
-• Multiple Emerson polls (2/11/26) show Democratic leads of ~6–7 points (47–41, 49–42), suggesting sub-20% win probabilities for trailing candidates.  
-• Historical midterm patterns (CFR) and Trump’s low approval tend to depress GOP performance.  
-• Minnesota’s D-lean and two decades of Democratic Senate control imply structural disadvantage.  
-Credibility & Recency: Emerson College and CFR analyses are timely (Feb ’26) and widely cited. No source credibly suggests R win odds materially above ~20%. There is no obvious “hidden” factor that would justify, say, a 40% or higher probability.
+Bullish (for GOP >15%)  
+• Fundraising strength: Republican contenders (e.g. Adam Schwarze, Michele Tafoya) lead early fundraising, suggesting strong base support and campaign resources.  
+• Historical competitiveness: Minnesota has occasionally swung and was close in 2018 and 2020 cycles; late swings or national tides could tighten race.  
+
+Bearish (for GOP <15%)  
+• Emerson polls (2/11/26): Flanagan leads Tafoya by 6 points (47–41%) and Craig by 7 (47–40%), with ±3% MOE, implying Democrats ahead by a solid margin.  
+• State lean: Minnesota’s recent federal elections have favored Democrats; analysts view GOP chances as uphill.  
+• Multiple sources (Emerson College Polling, The Center Square) consistently show a Democratic advantage, with little evidence of an impending major shift.  
+
+Source credibility: Emerson College Polling is reputable and recent (Feb ’26). The Center Square summaries (Feb ’23) reiterate the polling and fundraising picture. No evidence seems overlooked that would justify boosting GOP odds dramatically above 15%.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 15.5% price aligns with a trailing candidate down 6–7 points, consistent with standard election swing-distribution models. Low volume likely reflects that this is an out-year race with broad consensus rather than an ignored inefficiency. Informed traders appear to have set this probability in line with public polls and historical midterm dynamics.
+A 15% price aligns with a D+6 polling gap plus historical lean—roughly a 12–18% implied GOP win chance using logit conversion. Low volume likely reflects a non-contested view among traders rather than poor liquidity: those focused on competitive seats likely bypass Minnesota as a “lean D” race.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, credible evidence that Republicans’ win chance is mis-set by more than a few cents. Polls, historical trends, and national dynamics all point to a low-teens win probability for the GOP. No major variable (e.g., breakthrough candidate, wave shift) is currently unpriced.
+There is no clear, credible evidence that GOP win odds are materially above or below the current 15%. Polls, fundraising, and state history are already public and likely embedded in the price. Potential tail-risks (e.g. wave election) are hard to quantify but small enough that a ±5% error is plausible; nothing suggests a >20¢ mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that this is mispriced: ~10% (very weak)  
-Magnitude of mispricing if any: ~2¢  
-Expected value ≈ 10% × 2¢ = 0.2¢ ≈ 0¢
+Strength of evidence that price is approximately correct: ~40% (polls are solid but uncertainty remains).  
+Magnitude of mispricing if any: ~5¢ (small deviation around 15%).  
+Expected value = 40% × 5¢ = 2¢.
 
-EXPECTED_VALUE: 0  
-SUMMARY: Current Emerson polls and historical midterm trends support a low-teens win probability for Republicans in Minnesota’s 2026 Senate race. There is no credible evidence suggesting a large mispricing.  
+EXPECTED_VALUE: 2  
+SUMMARY: Recent Emerson polls show Democrats leading by 6–7 points with state history favoring Democrats, making a 15% GOP win probability consistent with public data. Low trading volume likely reflects consensus rather than a significant mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -55,53 +57,30 @@ Title: Republicans’ Chances of Flipping Minnesota Senate Seat: Poll - Newsweek
 Author: 
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://newsweek.com/republicans-chances-of-flipping-minnesota-senate-seat-poll-11507674
-Summary: A recent Emerson College Poll indicates that Republicans are within 10 points of Democratic candidates for the open U.S. Senate seat in Minnesota, previously held by retiring Senator Tina Smith. This race is significant as control of the Senate could be influenced by outcomes in closely contested states like Minnesota, where Democrats have traditionally held both Senate seats. The political landscape is polarized, and voter sentiment is shifting, making the 2026 election a critical battleground for both parties. Factors such as the candidates' appeal and national political trends will likely play a crucial role in determining the outcome.
-
-Title: United States Senate election in Minnesota, 2026 - Ballotpedia
-URL: https://ballotpedia.org/United_States_Senate_election_in_Minnesota,_2026
-Summary: The 2026 United States Senate election in Minnesota is shaping up to be a significant political event, with implications for both state and national dynamics. Key factors to consider when predicting whether Republicans will win include:
-
-1. **Current Political Landscape**: Minnesota has historically leaned Democratic, but recent trends show increasing competitiveness for Republicans. Analyzing voter demographics and recent election results can provide insights into potential shifts.
-
-2. **Candidates**: The identity of the candidates running for the Senate seat will be crucial. If a strong Republican candidate emerges, it could enhance their chances. Conversely, if the incumbent or a well-known Democratic candidate runs, it may favor the Democrats.
-
-3. **Voter Sentiment**: Public opinion polls leading up to the election will be vital. Tracking issues that resonate with Minnesota voters, such as healthcare, economy, and social issues, can indicate which party may have the upper hand.
-
-4. **National Trends**: The broader national political climate, including the performance of the Republican Party in other states and the popularity of the sitting president, can influence local races.
-
-5. **Campaign Strategies**: The effectiveness of campaign strategies, including fundraising, outreach efforts, and advertising, will play a significant role in shaping voter perceptions and turnout.
-
-6. **Historical Context**: Reviewing past Senate races in Minnesota, including voter turnout and party performance, can provide context for the 2026 election.
-
-By considering these factors, one can better assess the likelihood of a Republican victory in the upcoming
-
-Title: Democrats lead GOP rivals in key Minnesota races: Poll
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://ground.news/article/democrats-lead-gop-rivals-in-key-minnesota-races-poll
-Summary: A recent Emerson College Polling survey indicates that Democrats are currently leading in key Minnesota races, including the Senate race for 2026. Senator Amy Klobuchar, a Democrat, is running for governor and is significantly ahead of her potential Republican challengers, such as MyPillow CEO Mike Lindell and Minnesota House Speaker Lisa Demuth. This trend suggests that Republicans may face challenges in securing a win in the upcoming Senate race, given the current polling data showing strong Democratic support. The dynamics of the race could change as the election approaches, but the current outlook favors the Democrats.
-
-Title: Midterm Elections Are Nine Months Away
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.cfr.org/articles/midterm-elections-are-nine-months-away
-Summary: The article discusses the upcoming midterm elections in the U.S., highlighting the potential for a divided government as Republicans currently hold a narrow advantage in both the House and Senate. Historically, midterm elections tend to favor the opposition party, often serving as a referendum on the sitting president's performance. Given that President Trump's approval ratings are low, this could negatively impact Republican candidates, including those in competitive races like the Minnesota Senate race.
-
-The article notes that the dynamics of voter preferences and turnout will be crucial in determining outcomes. With Republicans holding a slight edge in the House (218 to 214) and a stronger lead in the Senate (53 to 47), any shift in voter sentiment could significantly influence the results. The historical trend shows that the president's party typically loses seats during midterms, which could bode poorly for Republicans in Minnesota if this trend continues.
-
-In summary, while Republicans have a chance to win the Minnesota Senate race, their success will depend on voter turnout, sentiment towards President Trump, and the broader political landscape as the election approaches.
+Summary: The Emerson College Polling indicates that Republicans are within 10 points of Democratic candidates for Minnesota's 2026 Senate race, suggesting a competitive contest. Currently, Democratic candidates Peggy Flanagan and Angie Craig lead Republican Michele Tafoya in polls, with Flanagan at 47% and Craig at 47%, compared to Tafoya's 41% and 40%, respectively. However, the poll's margin of error (±3%) and the state's recent Democratic leanings imply that Republicans face an uphill battle. Political analysts note that Minnesota voters tend to favor Democrats, and national political climate may further favor Democratic candidates. Overall, while the race is competitive, current data suggests Democrats have an advantage, making a Republican victory uncertain but not impossible.
 
 Title: Minnesota 2026 Poll: Democrats Lead GOP as Voters Cite Threats to Democracy - Emerson Polling
 Author: Camille Mumford
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://emersoncollegepolling.com/minnesota-2026-poll-democrats-lead-gop-as-voters-cite-threats-to-democracy/
-Summary: The Emerson College Polling survey indicates that Democrats currently hold a lead in the Minnesota Senate race for 2026. Key findings include:
+Summary: The Emerson College Polling indicates that Democratic candidates currently lead in Minnesota's 2026 races, including for the U.S. Senate. Specifically, Democratic incumbent Lieutenant Governor Peggy Flanagan leads Republican Michele Tafoya in hypothetical matchups (47% vs. 41%), and Democratic Rep. Angie Craig also holds a lead over Tafoya. Overall, voters favor Democratic candidates for both the Senate and the state legislature, with a 49% support for Democrats in the House compared to 42% for Republicans. Additionally, voters' top concerns are threats to democracy, immigration, and the economy, with a significant portion expressing disapproval of Trump’s handling of recent incidents. These factors suggest a Democratic advantage in the upcoming Senate race, though voter sentiment and issues like threats to democracy are prominent influences.
 
-- **Candidates**: Democratic candidates, including Lieutenant Governor Peggy Flanagan and Rep. Angie Craig, are ahead of Republican Michele Tafoya in hypothetical matchups. Flanagan leads Tafoya 47% to 41%, while Craig has a similar lead of 47% to 40%.
-  
-- **Voter Sentiment**: A significant portion of voters (56%) disapprove of Donald Trump's presidency, which may impact Republican support. Additionally, 28% of voters cite threats to democracy as the top issue, potentially favoring Democratic candidates who emphasize this concern.
+Title: Republicans' chances of flipping Minnesota Senate seat: Poll
+Author: 
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://www.msn.com/en-us/news/politics/republicans-chances-of-flipping-minnesota-senate-seat-poll/ar-AA1Waa3D
+Summary: The article discusses recent polling data indicating the current political landscape for the Minnesota Senate race. While specific poll results are not detailed here, the focus is on assessing Republicans' chances of flipping the seat in upcoming elections. Factors influencing this include recent voter trends, candidate strengths, and statewide political dynamics. Historically, Minnesota has been a battleground state with competitive races, and current polling suggests that Republicans may have a viable path to victory in 2026, though the outcome remains uncertain. Overall, the data points to a potentially competitive race, emphasizing the importance of campaign strategies and voter engagement in determining whether Republicans can secure the seat in 2026.
 
-- **Generic Ballot**: In a generic ballot for the Minnesota House of Representatives, Democratic-Farmer-Labor candidates lead Republicans 49% to 42%, suggesting a favorable environment for Democrats.
+Title: Flanagan leads polling, Craig tops fundraising in U.S. Senate race | Minnesota | thecentersquare.com
+Author: Elyse Apel | The Center Square
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html
+Summary: The upcoming Minnesota U.S. Senate race in 2026 is currently viewed as likely to favor the Democrats, with the seat held by Democrat Sen. Amy Klobuchar, who is running for governor. Polls show Democratic candidate Lt. Gov. Peggy Flanagan leading in voter support, though some polls indicate a smaller margin or more undecided voters. However, in fundraising, Republican candidates—including former NBA player Royce White, broadcaster Michele Tafoya, and Navy SEAL Adam Schwarze—are gaining ground, with Schwarze leading in campaign funds. Historically, Republicans have struggled to win Minnesota Senate seats, with the last victory in 2002. The race is expected to be competitive but remains favorably inclined toward the Democrats, making a Republican win less likely based on current trends.
 
-These factors indicate a challenging landscape for Republicans in the upcoming Senate race, making it less likely for them to secure a win based on current polling data.
+Title: Flanagan leads polling, Craig tops fundraising in U.S. Senate race | News | mesabitribune.com
+Author: Elyse Apel | The Center Square
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.mesabitribune.com/around_the_web/news/flanagan-leads-polling-craig-tops-fundraising-in-u-s-senate-race/article_da00a6b9-a349-5d43-8cf5-cbaf3dce4b63.html
+Summary: The 2026 Minnesota U.S. Senate race is currently considered likely to favor the Democrats, with incumbent Senator Amy Klobuchar, a Democrat, holding the seat since 2006 and planning to run for governor instead. On the Democratic side, Lt. Gov. Peggy Flanagan leads in polls (49% vs. Craig's 36%) but trails in fundraising ($811,000 vs. Craig's $3.8 million). The Republican primary features notable candidates like former NBA player Royce White, broadcaster Michele Tafoya, and Navy SEAL Adam Schwarze, with Schwarze leading in fundraising. However, overall, the race is viewed as leaning Democratic, and historically, Republicans have struggled to win Minnesota Senate seats since 2002. This suggests that, barring significant shifts, the Republicans face an uphill battle to win the seat in 2026.
 
 

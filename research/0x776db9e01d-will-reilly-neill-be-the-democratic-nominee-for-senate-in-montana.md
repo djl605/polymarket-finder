@@ -1,49 +1,61 @@
 # Research: Will Reilly Neill be the Democratic nominee for Senate in Montana?
 
 **Market ID:** 0x776db9e01d9c8559071df4a0d42e9e03d9ee943dc61ce2e11378491da42dc42d
-**Researched At:** March 1, 2026 at 06:04:56 AM UTC
+**Researched At:** March 6, 2026 at 04:16:39 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Reilly Neill be the Democratic nominee for Senate in Montana?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 7.6¢
 
 ### Summary
 
-Public research offers no direct primary‐race data, so the 79% estimate rests on private or assumed insights. There’s insufficient evidence of a large mispricing.
+Public polling only measures general‐election matchups and offers no direct read on the Democratic primary, yet the market prices Neill at 79% likely reflecting insider‐only information. Absent confirmation of an uncontested primary, the price appears somewhat high, though nonpublic filings could justify it.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Reilly Neill will win the Democratic primary for U.S. Senate in Montana in 2026. A “YES” outcome requires Neill to outpace all other Democratic candidates in the primary; “NO” covers any other nominee or no primary.
+The market asks: “Will Reilly Neill be the Democratic nominee for Senate in Montana?”  
+– YES resolves if Neill wins the 2026 Montana Democratic U.S. Senate primary.  
+– NO resolves if any other candidate wins or if no primary occurs (resolves to “Other”).  
 
 2. EVIDENCE EVALUATION  
-Bullish for Neill:  
-• Active, statewide retail campaign with rural outreach (Glendive town hall).  
-• Positions (term-limits pledge, balancing conservative and liberal stances) that may appeal to Montana Democrats.  
-Bearish or neutral:  
-• No primary polling or fundraising figures to confirm frontrunner status.  
-• General-election polls show Daines leading Neill 55.7–37%, indicating low name recognition and possible weak party support.  
-• Jon Tester’s public support for potential independent Seth Bodnar underscores Democratic unease, though Bodnar isn’t in the primary.  
-Overall, none of the sources offers direct primary‐contest evidence. Credibility is moderate (local press, advocacy group, reputable polling outlets), but they don’t speak to intra‐party dynamics. If Neill were as sure a nominee as 79% implies, we’d expect primary polling or party endorsements already public—yet none appear.
+Bearish (price too high):  
+• No direct primary polling. The general‐election polls only show Neill’s strength head‐to‐head versus Daines (≈37%), not her status in a multi‐candidate Democratic primary.  
+• The Newsweek and Daily Montanan pieces explicitly note her candidacy remains unconfirmed; they highlight her as a contender but do not report her leading a field in a Democratic‐only survey.  
+• The term‐limits pledge piece says nothing about party nomination status.  
+• The report that Daines withdrew and Bodnar is running as an independent doesn’t implicate Neill or suggest she’s the de facto nominee.  
+
+Bullish (price reasonable):  
+• One poll suggests Neill is the “leading” Democratic candidate in public discourse, implying name recognition and fundraising might already outpace rivals.  
+• No heavyweight Democrat appears publicly to challenge her (at least per the cited reporting), which could imply an uncontested path.  
+
+Source credibility/recency: all sources are from February 2026, credible news outlets and organizational press releases. None directly track the Democratic primary.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 79% price may reflect a single informed trader’s view that Neill is the strongest Dem candidate based on inside knowledge (e.g., fundraising lead or endorsements) that’s not in public reports. Low volume suggests most informed participants may be unengaged, or the consensus is viewed as obvious by a few. Without primary-specific data, price may be a rough guess rather than a robust aggregate.
+• A 79% price could reflect an insider consensus (e.g., party insiders, donors) believing Neill has effectively cleared the field, despite a lack of public‐facing polling.  
+• Low volume suggests either the outcome is viewed as a foregone conclusion by those “in the know,” or simply that the market hasn’t attracted primary‐watchers.  
+• If insiders know no other major Democrats are filing, they would price it high. Public signals, however, remain thin.  
 
 4. MISPRICING ASSESSMENT  
-There is no clear, public evidence that the market is off by a large margin. No primary polling, endorsement announcements, or fundraising tallies suggest a competing candidate overtaking Neill. Conversely, absence of positive data also doesn’t prove 79% is accurate. Given the uncertainty and low trading, any mispricing is likely small (<10¢) and based on private info.
+• The public evidence doesn’t strongly justify a near-80% probability. Without primary polling or a clear lack of opponents, 79% seems aggressive.  
+• However, a fully unopposed or lightly contested primary would rationalize a high probability.  
+• We lack clear proof of either contested or uncontested status. The market could be reflecting nonpublic information (e.g., candidate filings).  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20% (public info doesn’t directly contradict price).  
-Magnitude of mispricing: ~5¢ (any bias is likely modest).  
-Expected value = 0.20 × 5¢ = 1.0¢.
+• Strength of evidence that the market is mispriced (public evidence gap on actual primary status): ~40%  
+• Magnitude of potential mispricing: assume the “true” public‐facing probability is closer to 60% (vs. 79%), so ~19¢ mispricing.  
+• Expected value = 0.40 × 19¢ ≈ 7.6¢ → round to 7.6 cents  
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Public research offers no direct primary‐race data, so the 79% estimate rests on private or assumed insights. There’s insufficient evidence of a large mispricing.  
-CONFIDENCE: low
+6. CONFIDENCE  
+medium  
+
+EXPECTED_VALUE: 7.6  
+SUMMARY: Public polling only measures general‐election matchups and offers no direct read on the Democratic primary, yet the market prices Neill at 79% likely reflecting insider‐only information. Absent confirmation of an uncontested primary, the price appears somewhat high, though nonpublic filings could justify it.  
+CONFIDENCE: medium
 
 ---
 
@@ -51,44 +63,33 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: U.S. Senate candidate Reilly Neill stops in Glendive, emphasizes listening to constituents | News | rangerreview.com
-Author: Brendan Heidner
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://www.rangerreview.com/news/u-s-senate-candidate-reilly-neill-stops-in-glendive-emphasizes-listening-to-constituents/article_81df30c3-c0d3-45df-bd6f-22d8c2584e8e.html
-Summary: Reilly Neill, a Democratic candidate for the U.S. Senate from Montana, is actively campaigning and prioritizing constituent engagement. During a recent town hall in Glendive, she emphasized the importance of listening to voters and addressing their concerns. Neill, who has previous political experience in the Montana House of Representatives, identifies as an independent-leaning Democrat, balancing conservative views on issues like the Second Amendment with more liberal stances on social responsibility.
-
-Her campaign focuses on four key issues: universal healthcare, agricultural sustainability, affordability, and consistent presence for constituents. Neill has been gathering feedback from voters to shape her policies, particularly regarding healthcare and agricultural infrastructure. She has made multiple visits to eastern Montana, indicating a strong commitment to understanding local priorities.
-
-As Neill continues to build her campaign and connect with voters, her ability to resonate with constituents and address their needs will be crucial in determining her chances of becoming the Democratic nominee for Senate in Montana. Her proactive approach and emphasis on community engagement suggest she is positioning herself as a strong candidate within the party.
-
 Title: Reilly Neill Pledges to Support Term Limits on Congress - U.S. Term Limits
 Author: Donna Velasco
 Published Date: 2026-02-05T00:00:00.000Z
 URL: https://termlimits.com/reilly-neill-pledges-to-support-term-limits-on-congress/
-Summary: Reilly Neill, a 2026 U.S. Senate candidate from Montana, has publicly pledged to support term limits for Congress by signing an amendment that proposes limiting House members to three terms and Senate members to two terms. This pledge aligns him with incumbent Senator Steve Daines, who has also signed the commitment. The U.S. Term Limits organization, which advocates for these changes, highlights that over 87% of Americans support term limits, indicating a strong public desire for a shift away from career politicians towards citizen legislators.
+Summary: Reilly Neill, a 2026 U.S. Senate candidate in Montana, has publicly pledged support for congressional term limits through U.S. Term Limits, a nonpartisan organization advocating for limiting terms of elected officials. His pledge aligns with a broader bipartisan movement, with over 150 congressional signers, and enjoys significant public support—87% of Americans favor term limits, according to Pew Research. While Neill's support for term limits demonstrates a commitment to citizen-led governance, there is no information indicating his political party affiliation or whether he is the Democratic nominee for Montana's Senate seat. Therefore, predicting his nomination status based solely on this pledge is not possible.
 
-While Neill's commitment to term limits may resonate positively with voters who favor such reforms, it is essential to consider other factors influencing his candidacy, such as party support, fundraising, and campaign strategy. The Democratic nomination process will also depend on the dynamics within the party and the presence of other candidates. Therefore, while Neill's pledge may enhance his appeal among certain voter demographics, it is not the sole determinant of whether he will secure the Democratic nomination for Senate in Montana.
-
-Title: Democrats' Chances of Flipping Montana Senate Seat—Poll
-Published Date: 2026-02-25T06:04:39.449Z
+Title: Democrats’ Chances of Flipping Montana Senate Seat—Poll - Newsweek
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.newsweek.com/democrats-chances-flipping-montana-senate-seat-poll-11575698
-Summary: The article discusses the current political landscape in Montana as Democrats aim to flip the Senate seat currently held by Republican Senator Steve Daines. A recent poll indicates that Daines maintains a lead over potential Democratic challengers, suggesting a challenging environment for the Democrats. The piece highlights that the Democratic Party is exploring candidates in more conservative states to broaden their chances in the upcoming November 2026 midterms.
-
-While the article does not specifically mention Reilly Neill as a candidate, it implies that the Democratic nominee will need to overcome significant hurdles given Daines' strong position. For Reilly Neill to be a viable nominee, he would likely need to demonstrate substantial support within the party and appeal to a broader electorate in a predominantly conservative state. The dynamics of the race, including polling data and candidate positioning, will be crucial in determining his chances of securing the nomination.
+Summary: The article discusses the current political landscape for Montana's Senate race ahead of the 2026 midterms. Republican Senator Steve Daines maintains a lead over potential Democratic rivals, including Reilly Neill, in early polling. While the poll indicates Daines's strong position, it does not confirm the Democratic nominee, and Reilly Neill's candidacy remains unconfirmed at this stage. The outcome depends on future primary results and campaign developments.
 
 Title: Poll shows Daines with sizable lead over Democratic, independent challengers • Daily Montanan
 Author: Micah Drew
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://dailymontanan.com/2026/02/24/poll-shows-daines-with-sizable-lead-over-democratic-independent-challengers/
-Summary: A recent poll indicates that incumbent Republican U.S. Senator Steve Daines holds a significant lead over potential challengers, including Democratic candidate Reilly Neill, as he seeks a third term. In a direct matchup, Daines garners 55.7% of the vote compared to Neill's 37%. If independent candidate Seth Bodnar enters the race, Daines still leads with 50.6% to Bodnar's 41.6%. The poll suggests that Neill's recognition and support may be limited, as Bodnar's presence as an independent could complicate the dynamics of the race. 
+Summary: The recent poll indicates that Reilly Neill is currently the leading Democratic candidate for Montana's U.S. Senate race, with a projected support of approximately 37% in a two-way matchup against incumbent Senator Steve Daines. While the poll does not confirm Neill as the official Democratic nominee, her significant support suggests she is a strong contender for the Democratic nomination. The survey also highlights that potential independent candidate Seth Bodnar's support diminishes if Democrats run Neill, implying that Neill's candidacy could influence the primary outcome. Overall, Neill appears to be a prominent Democratic contender, making her a likely nominee based on current polling data.
 
-The survey, conducted by American Pulse Research & Polling, highlights that Neill's chances of becoming the Democratic nominee could be influenced by Bodnar's potential candidacy and the overall voter sentiment in Montana. Given that the poll shows Daines with a strong lead and Neill's relatively low recognition, it raises questions about her viability as the Democratic nominee. The results reflect a Republican-leaning voter base, with 50% identifying as Republican, which may further challenge Neill's prospects. 
+Title: Poll shows Daines with sizable lead over Democratic, independent challengers | Montana News | montanarightnow.com
+Author: Micah Drew
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.montanarightnow.com/news/state/poll-shows-daines-with-sizable-lead-over-democratic-independent-challengers/article_e708d4b9-d660-5436-be68-a281cd28a7c4.html
+Summary: A recent poll indicates that Senator Daines currently holds a sizable lead over Democratic and independent challengers in Montana. While the poll suggests Daines's strong position in the upcoming Senate race, it does not provide specific information about Reilly Neill's candidacy or her prospects of securing the Democratic nomination. Therefore, based on this source, there is no direct evidence to determine whether Reilly Neill will be the Democratic nominee for Senate in Montana.
 
-Overall, while Neill is currently positioned as the leading Democratic candidate, her ability to secure the nomination may depend on her campaign's effectiveness in increasing her visibility and support among voters, especially in light of Daines' strong polling numbers.
-
-Title: Tester slams Democrats, voices support for potential independent in ...
-Published Date: 2026-01-16T00:00:00.000Z
-URL: https://www.mtpr.org/montana-news/2026-01-16/tester-slams-democrats-voices-support-for-potential-independent-in-senate-race
-Summary: Former U.S. Senator Jon Tester has recently expressed support for a potential independent candidate, Seth Bodnar, in the upcoming 2026 Senate race in Montana, which has raised concerns among Democrats. Tester criticized the Democratic Party, suggesting it has been detrimental to his past campaigns and indicating that Bodnar, with his military and academic credentials, might have a better chance as an independent. This situation complicates the Democratic primary, where four candidates are already vying for the nomination against incumbent Republican Senator Steve Daines. Given this context, Reilly Neill's chances of becoming the Democratic nominee may be influenced by the party's internal dynamics and Tester's endorsement of an independent candidate, which could sway voter sentiment and affect the overall Democratic strategy in the race.
+Title: Morning Digest: Montana Sen. Steve Daines quits reelection bid at filing deadline
+Author: David Nir
+URL: https://www.the-downballot.com/p/morning-digest-montana-sen-steve
+Summary: Montana Senator Steve Daines unexpectedly withdrew from his reelection bid just before the candidate filing deadline, paving the way for a potential replacement. Daines, a Republican, had been seeking a third term and was backed by former President Trump. His withdrawal came shortly after Democrat Jon Tester urged the party to support Seth Bodnar, an independent candidate criticizing Daines as a Washington insider. Bodnar announced his candidacy against Daines, indicating a possible shift in the race dynamics. There is no current information suggesting Reilly Neill is involved or being considered as a candidate for Montana Senate at this time.
 
 

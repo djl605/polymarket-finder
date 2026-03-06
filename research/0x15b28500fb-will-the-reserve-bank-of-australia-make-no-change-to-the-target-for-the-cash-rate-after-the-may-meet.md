@@ -1,7 +1,7 @@
 # Research: Will the Reserve Bank of Australia make no change to the target for the cash rate after the May Meeting?
 
 **Market ID:** 0x15b28500fbbbe23185f4e343fe7ff39921a0e56334472a6c6bc1ddf7c3e2d6da
-**Researched At:** March 1, 2026 at 06:08:42 AM UTC
+**Researched At:** March 6, 2026 at 04:16:30 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Reserve Bank of Australia make no change to the target for the cash rate after the May Meeting?"
 
 ---
@@ -9,43 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 9.0¢
 
 ### Summary
 
-A 72% implied chance of a May rate hike matches major banks’ forecasts, with only residual uncertainty around quarterly CPI data and RBA caution. There’s no clear mispricing large enough to exploit.
+Analyst consensus strongly favors a May rate hike, suggesting the market’s 35% probability of no change is overstated by roughly 15 c. Low volume and few contrarian bets likely explain the inflated price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The question asks whether the RBA will leave its cash rate unchanged at the conclusion of its May 5, 2026 meeting. A “YES” settlement (no change) requires the Board to hold the rate at its pre‐May meeting level (currently 3.85%). A “NO” settlement requires any change (almost certainly a 25 bps hike, since cuts are not in the recent discourse).
+The market asks: “Will the RBA make no change to the cash rate at its May 5, 2026 meeting?”  
+- YES resolves if the RBA leaves the cash rate unchanged in May.  
+- NO resolves if the RBA hikes or cuts the rate in May.
 
 2. EVIDENCE EVALUATION  
-Bearish for “no change” (i.e. bullish on a hike):  
-- As of Feb 26, all four major banks (ANZ, CBA, Westpac, NAB) forecast a 25 bps May hike to 4.10%, driven by inflation above the 2–3% band.  
-- ANZ was the last holdout; its shift suggests near‐universal consensus.  
-Bullish for “no change”:  
-- ANZ’s own economist cautioned that arguments for a hike aren’t definitive and the RBA stresses patience.  
-- Underlying inflation trends (three‐month annualised) are slowing.  
-- The final quarterly CPI reading is due Apr 29, just before the meeting; if it surprised on the downside, the Board might delay.  
-Source credibility and recency: All February 26 reports from established financial news outlets. The information is fresh and directly pertinent to the May meeting.  
+Bearish (NO change unlikely, so YES probability should be lower than 35%):  
+- April Glover (Mar 5) – “Another cash rate hike is ‘on the cards’ for May…major banks widely expect a double rate hike.”  
+- CBA/NAB/Westpac/ANZ reactions (post-Feb hike) – All expect further increases in May.  
+- Westpac IQ (Feb 5) – Explicit expectation of at least one more rate hike in May.  
+- Brooke Cooper (Feb 26) – All four major banks forecast a May hike, tying decision to April CPI.
+
+Bullish (supports current 35% no-change):  
+- ANZ (Emma Duffy, Feb 26) – Notes slowing spending and unclear data; RBA’s path not predetermined, decision hinges on late-Apr CPI.  
+
+Source credibility: All sources are major news outlets or bank research, published within the last month. Recency is high. The consensus is strongly tilted toward a May hike, with only ANZ cautioning that a hold remains possible if incoming data disappoints.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 28% market‐implied chance of no change equates to a 72% chance of a hike. That aligns closely with the big‐bank consensus (effectively 100% minus a small margin of caution).  
-- Low volume may reflect the outcome’s straightforward nature: most traders agree a hike is likely.  
-- It could also reflect a single trader setting price, but that price mirrors external forecasts, suggesting genuine consensus.  
+A 35% chance of no change implies a 65% chance of a hike. That doesn’t fully accord with near-universal forecasts of a May hike (perhaps 80–90% certainty among experts). Low volume suggests the price may reflect a few contrarian beliefs, not a broad consensus.
 
 4. MISPRICING ASSESSMENT  
-- There is no compelling evidence of large mispricing. The market price sits between a near‐certainty of a hike and a residual “patience” tail risk.  
-- Even if one argued the probability of no change should be lower (say 10–20%), that represents at most an 8–18 cent discrepancy—small enough given remaining economic uncertainty.  
+Evidence indicates the probability of no change is below 35% (more likely in the 10–20% range). The market price likely overstates the chance of no change by ~15–20 c. No obvious resolution-criteria subtleties are being overlooked. The most charitable case for 35% is that traders are waiting for the late-Apr CPI before committing—yet bank forecasts have already baked in that data sensitivity.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is misaligned: 40% (some room for debate but no smoking gun).  
-- Magnitude of potential mispricing: ~5 cents (mid‐point of possible 8–18 cent range).  
-- Expected value = 40% × 5 cents = 2 cents.  
+Strength of evidence: 60% (well-supported but not ironclad)  
+Magnitude of mispricing: 15 cents  
+Expected value = 0.60 × 15 c = 9 c
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: A 72% implied chance of a May rate hike matches major banks’ forecasts, with only residual uncertainty around quarterly CPI data and RBA caution. There’s no clear mispricing large enough to exploit.  
+EXPECTED_VALUE: 9  
+SUMMARY: Analyst consensus strongly favors a May rate hike, suggesting the market’s 35% probability of no change is overstated by roughly 15 c. Low volume and few contrarian bets likely explain the inflated price.  
 CONFIDENCE: medium
 
 ---
@@ -54,52 +55,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Another cash rate hike is 'on the cards' for May, economists warn
+Author: April Glover 12:29pm Mar 5, 2026
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.9news.com.au/national/interest-rates-expert-says-another-hike-coming-in-may/e2047d98-a00a-449f-a103-3a46c4a7af32
+Summary: The article indicates that Australian economists and major banks widely expect the Reserve Bank of Australia (RBA) to increase the cash rate in May, with predictions of a double rate hike next month. Despite recent modest economic growth and softer January spending figures, experts like Harry McAuley suggest another rate hike is likely, driven by ongoing economic considerations and market chatter. This consensus points to a high probability that the RBA will not hold the rate steady after the May meeting, making a rate increase more probable than no change.
+
+Title: Interest rates to rise in May? ANZ joins the believers
+Author: Emma Duffy
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.savings.com.au/news/anz-now-tips-rba-cash-rate-hike-in-may
+Summary: The article indicates that ANZ and other major banks now expect a 25 basis point increase in the RBA cash rate in May, raising it from 3.85% to 4.1%. However, ANZ emphasizes that this outlook is not definitive, citing factors such as slowing household spending growth and a downward trend in certain inflation measures, which suggest the case for a rate hike is less certain. The RBA has also stated that its monetary policy path is not predetermined and that decisions depend on upcoming data, including the quarterly CPI report due in late April. Given these considerations, there remains a possibility that the RBA may choose to hold the rate steady after the May meeting, especially if inflation data or economic conditions do not justify a hike.
+
 Title: Last domino falls: ANZ finally forecasts May RBA hike
 Author: Brooke Cooper
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.yourmortgage.com.au/mortgage-news/anz-last-big-four-bank-to-forecast-may-rba-rate-rise
-Summary: The ANZ has revised its forecast, now predicting a 25 basis point rate hike by the Reserve Bank of Australia (RBA) at the May meeting, following new inflation data that showed a rise in underlying consumer prices. This change marks ANZ as the last of the big four banks to anticipate a rate increase, which is attributed to inflation remaining above the RBA's target band of 2% to 3%. 
+Summary: The article indicates that while all four major banks now forecast a May RBA rate hike, none expect the Reserve Bank of Australia (RBA) to change the cash rate at its June meeting. The RBA's decision-making appears closely tied to upcoming quarterly inflation data, with the next Consumer Price Index (CPI) release in late April likely influencing policy. RBA Governor Michele Bullock has emphasized patience and noted inflation remains slightly elevated but not accelerating rapidly. Given this cautious stance and the timing of inflation data, it is probable that the RBA will hold the cash rate steady after the May meeting, awaiting further inflation evidence before making a move.
 
-Despite the expectation of a May hike, ANZ's head of Australian economics, Adam Boyton, cautioned that the arguments for this increase are not definitive, and the RBA may not be in a rush to raise rates further. RBA Governor Michele Bullock emphasized the need for patience, noting that while inflation is elevated, it is not spiraling out of control.
+Title: RBA lifts cash rate to 3.85%: Bank reactions from CBA, ...
+Author: Harrison Astbury
+URL: https://www.savings.com.au/news/big-four-banks-react-to-rba-decision-february-2026
+Summary: The Reserve Bank of Australia (RBA) increased the cash rate to 3.85% in February 2026, marking the first hike in over two years, citing rising inflationary pressures and stronger private demand. The RBA indicated that inflation is unlikely to return to its 2.6% target until June 2028, suggesting a cautious approach to monetary policy. Major banks, including CBA, NAB, Westpac, and ANZ, responded by raising their variable home loan rates by 0.25%, effective from mid-February, reflecting expectations of continued rate hikes. Economists and bank analysts anticipate further increases, with NAB projecting another rate rise in May, implying that the RBA may maintain or even tighten its stance rather than hold rates steady after the May meeting. Given the current inflation outlook and capacity pressures, it is unlikely the RBA will make no change to the cash rate at that time.
 
-Currently, all major banks forecast a rate hike in May, but none expect a change in the cash rate at the upcoming meeting next month. The January Consumer Price Index (CPI) data is part of a series that will inform the quarterly figure, with the final readings due in late April. The RBA typically prefers to adjust rates during monetary policy meetings that follow the release of quarterly CPI data.
-
-If the May meeting results in a hike, ANZ anticipates it will be the last in the current cycle, with the cash rate expected to stabilize at 4.1% for an extended period. For mortgage holders, a 25 basis point increase could lead to higher repayments, adding approximately
-
-Title: ANZ now tips RBA cash rate hike in May - Savings.com.au
-Author: Emma Duffy
-Published Date: 2026-02-26T06:08:25.719Z
-URL: https://www.savings.com.au/news/anz-now-tips-rba-cash-rate-hike-in-may
-Summary: ANZ has revised its forecast for the Reserve Bank of Australia's (RBA) cash rate, now anticipating a 25 basis point increase in May, raising it from 3.85% to 4.1%. This expectation follows recent inflation data, which showed a steady annual headline inflation rate of 3.8% and a slight increase in the underlying inflation measure to 3.4%. Despite this, ANZ cautions that the case for a May hike is not as definitive as market predictions suggest, noting a downward trend in the three-month annualised month-on-month trimmed mean inflation and a slowdown in household spending growth.
-
-ANZ's head of Australian economics, Adam Boyton, emphasized that while a rate hike is likely, the RBA has indicated it is not on a predetermined path, making future decisions uncertain. The next quarterly Consumer Price Index (CPI) data will be released on April 29, just before the RBA's meeting on May 3-4, which will be crucial for determining the cash rate's future. Currently, there is little expectation for a rate change at the RBA's March meeting, with only a 13% chance of a hike being priced in for that time.
-
-In summary, while a rate increase in May seems probable, the RBA's future decisions will depend on upcoming economic data, particularly the CPI, making it difficult to predict whether there will be no change to the cash rate after the May meeting.
-
-Title: ANZ the last big bank to tip May RBA rate rise, is now the time to fix? | Canstar
-Author: Laine Gordon
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.canstar.com.au/finance-news/anz-tips-may-rba-hike-february-2026/
-Summary: ANZ has recently updated its cash rate forecast, predicting that the Reserve Bank of Australia (RBA) will increase the cash rate to 4.10% in May, influenced by recent inflation figures. This marks a shift from their previous stance, indicating that economic conditions are prompting a reassessment of interest rates. The article discusses the implications of this forecast and whether it may be a suitable time for borrowers to consider fixing their interest rates. Given this context, the likelihood of the RBA making no change to the cash rate after the May meeting appears low, as ANZ's prediction suggests an impending hike.
-
-Title: ANZ joins big banks tipping May rate hike | Australian Broker News
-Author: Jonalyn Cueto
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.brokernews.com.au/news/breaking-news/anz-joins-big-banks-tipping-may-rate-hike-288964.aspx
-Summary: ANZ has revised its cash rate forecast, now predicting that the Reserve Bank of Australia (RBA) will increase the cash rate to 4.10% in May 2026. This marks a shift from their previous expectation of holding the rate at 3.85%. All four major banks in Australia, including ANZ, Commonwealth Bank, Westpac, and NAB, now anticipate a single 25-basis-point hike in May, followed by a prolonged pause at the new rate.
-
-The change in ANZ's outlook was influenced by recent Consumer Price Index (CPI) data, indicating persistent inflation above the target range. Financial analysis suggests that if the RBA does proceed with the hike, borrowers could see significant increases in their monthly mortgage repayments—up to $90 for a $600,000 mortgage. 
-
-Additionally, there is ongoing debate about whether borrowers should consider locking in fixed rates, as current analysis shows that fixed rates could offer savings compared to variable rates, especially if further hikes occur. If the RBA maintains the rate after the May hike, borrowers could potentially save thousands over the fixed term.
-
-In summary, while the RBA is expected to raise the cash rate in May, the future direction of rates beyond that remains uncertain, hinging on inflation trends and economic conditions.
-
-Title: ANZ revises cash rate call after latest inflation data | Mortgage Professional Australia
+Title: Play in May, don't go away
 Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.mpamag.com/au/news/general/anz-revises-cash-rate-call-after-latest-inflation-data/566664
-Summary: ANZ has revised its cash rate forecast, now expecting the Reserve Bank of Australia (RBA) to increase the cash rate to 4.10% in May, aligning with the predictions of other major banks like Commonwealth Bank, Westpac, and NAB. This shift follows recent consumer price index data indicating persistent inflation, prompting all four banks to anticipate a rate hike. Borrowers should prepare for potential increases in monthly repayments, with estimates suggesting an additional $90 per month for a $600,000 loan if rates rise in May. 
-
-Experts indicate that the cash rate is nearing neutral, implying that significant fluctuations in rates may not occur in the near future. This context suggests that while a rate hike is expected in May, the likelihood of further changes after that meeting may be limited, depending on future inflation data and economic conditions. Therefore, predicting no change to the cash rate post-May could hinge on the RBA's assessment of ongoing inflation trends and economic stability.
+Published Date: 2026-02-05T00:00:00.000Z
+URL: https://www.westpaciq.com.au/economics/2026/02/rba-update-6-february-2026
+Summary: The Westpac IQ article indicates that the Reserve Bank of Australia (RBA) is expected to raise the cash rate again in May due to higher-than-anticipated inflation and stronger demand growth. While the RBA considers recent inflation increases to be largely temporary, the current outlook suggests at least one more rate hike in May. The RBA's dissatisfaction with inflation trajectories implies that further tightening could be necessary beyond May if inflation remains elevated. However, if inflation shows signs of turning around by August, the RBA may adopt a wait-and-see approach, potentially holding rates steady after May. Overall, the expectation is for a rate increase in May, with no definitive indication that the RBA will make no change afterward, but future decisions will depend on incoming economic data.
 
 

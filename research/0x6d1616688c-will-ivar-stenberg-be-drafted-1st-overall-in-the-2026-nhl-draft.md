@@ -1,7 +1,7 @@
 # Research: Will Ivar Stenberg be drafted 1st overall in the 2026 NHL Draft?
 
 **Market ID:** 0x6d1616688cd3d1a21532e66ba3c60d6295c6c7d455fc9c410dce0b692d4ab15f
-**Researched At:** March 1, 2026 at 06:09:14 AM UTC
+**Researched At:** March 6, 2026 at 04:18:33 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Ivar Stenberg be drafted 1st overall in the 2026 NHL Draft?"
 
 ---
@@ -9,45 +9,46 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 7.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Consensus scouting ranks Ivar Stenberg as the clear No. 1 2026 prospect, implying >50% odds, yet the market at 34% appears to understate his chances by ~15¢. Team preferences and draft volatility inject uncertainty, so while the market likely undervalues him, risk remains.
+Ivar Stenberg is widely viewed as the consensus top prospect and insiders say the Canucks will pick him if they win the lottery, but the draft lottery’s unpredictability leaves a roughly one‐third chance overall. No clear new information suggests the market’s 33% price is off by more than a few cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Ivar Stenberg be selected first overall in the June 26–27, 2026 NHL Draft?”  
-• YES if Stenberg is definitively announced as the No. 1 pick by the live NHL draft broadcast or credible consensus reporting by July 12, 2026.  
-• NO/Other if any other player is chosen first, if the draft is canceled, or if the first pick isn’t known by the deadline.
+The market asks: “Will Ivar Stenberg be selected first overall in the 2026 NHL Draft (June 26–27, 2026)?” It resolves YES if the eventual No. 1 pick is Ivar Stenberg; NO otherwise. Two things must happen: (a) whichever team wins the draft lottery must hold the desire and roster need to pick Stenberg first, and (b) no cancellation/postponement beyond July 12, 2026, changes the outcome.
 
 2. EVIDENCE EVALUATION  
-Bullish on Stenberg (>50% implied):  
-• Multiple January–February 2026 prospect rankings (ProHockeyRumors, The Hockey News, USA Today, Sportsnet, Reddit/NHL analysts) consistently list Stenberg as the new consensus #1 prospect, overtaking former favorite Gavin McKenna.  
-• Scouts cite his standout World Juniors performance, 200-foot game, playmaking IQ, and strong SHL stats (7 G, 21 A) as reasons he projects to a first-line NHL forward, traits top picks possess.  
+Bullish Evidence (supports >33%):  
+• Multiple independent scouting boards (Tony Ferrari, Sporting News, Reddit analyst Wheeler, Worldnews.com) rank Stenberg as the consensus top prospect.  
+• Canucks insiders report Vancouver plans to take Stenberg with their top pick if they win the lottery.  
+• His SHL numbers (37 GP, 32 PTS) and gold-medal performance at the 2026 World Juniors bolster his profile.  
 
-Bearish/tempered view:  
-• Early mock drafts also highlight close competition from centers Gavin McKenna, Tynan Lawrence and winger Keaton Verhoeff; late‐season slumps, team positional needs, and performance fluctuations can sway the final decision.  
-• Draft outcomes depend on the selecting team’s roster gaps and risk tolerance; many franchises historically favor elite centers over wingers with the top pick.
+Bearish Evidence (supports <33%):  
+• None of the sources attach a numeric probability to “Stenberg = No. 1 pick.” They only note “favored,” not guaranteed.  
+• The draft lottery outcome remains highly uncertain; insiders only say “if they win the lottery,” which most teams will not.  
+• No reporting on other teams’ precise landing-spot preferences or potential trades for the first pick.  
+
+Source Credibility & Recency  
+All cited scouting/ranking reports are from late Feb–early Mar 2026. The insider dump on Canucks intent (Mar 1) is the most direct but still contingent on a lottery win. All sources are credible but stop short of a firm probability.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 34% price could reflect draft‐day uncertainties (injury risk, team preferences, competing prospects) rather than a pure scouting consensus.  
-• Low volume and tight spread suggest few traders are active—price may reflect one or two skeptical participants rather than broad information aggregation.  
-• If informed observers truly view Stenberg as the clear No. 1, we’d expect price >50%. The low engagement hints at overlooked bullish info.
+A 33% price plausibly blends two inputs: (a) the chance Vancouver or whoever lands No. 1 will pick Stenberg (close to 100% among top prospects) and (b) the lottery odds of landing that pick (historically 15–20% for worst team, somewhat lower for mid-tiers). If traders assume Vancouver has ~30% lottery odds and that Stenberg is a near-lock, ~30% total makes sense. Low volume may simply reflect straightforward consensus: top prospect + draft lottery = ~1 in 3 odds.
 
 4. MISPRICING ASSESSMENT  
-• All recent, credible scouting reports firmly place Stenberg atop the class, yet the market implies only a one‐in‐three chance. Even discounting volatility and team fit, the traders’ price appears to understate consensus.  
-• Lacking any major negative development or insider reason to expect a dramatic falloff, a fair mid‐point probability might be ~50–55%, implying ~15–20¢ upside from 34%.  
-• Before concluding, one must acknowledge missing team‐specific intel and draft‐day variables—but nothing in the resolution criteria or current news suggests a non‐Stenberg pick is the most likely outcome.
+There is no clear “missing” fact that would shift the price meaningfully. We lack any insider information that another club covets a different player or that Stenberg’s stock will drop dramatically. Conversely, nothing suggests his actual probability exceeds ~40% absent extraordinary certainty on lottery outcome. A 33% market price sits comfortably in the plausible range given:  
+– 15–25% estimated lottery odds × ~90–100% “will pick top screener” = ~15–25% baseline, plus small upside for trade scenarios or slight over-performance of forecasting models.  
+No specific credible evidence argues for a >20-point mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 50% (solid consensus but draft uncertainties remain)  
-• Magnitude of mispricing: 15¢ (mid‐range of 50–55% implied vs. 34% current)  
-• EV = 0.50 × 15₵ = 7.5₵
+Strength of evidence that price is off: ~20% (few concrete data on lottery odds or team intentions)  
+Magnitude of plausible mispricing: ~5 cents  
+Expected value ≈ 0.20 × 5 c = 1 c
 
-EXPECTED_VALUE: 7.5  
-SUMMARY: Consensus scouting ranks Ivar Stenberg as the clear No. 1 2026 prospect, implying >50% odds, yet the market at 34% appears to understate his chances by ~15¢. Team preferences and draft volatility inject uncertainty, so while the market likely undervalues him, risk remains.  
+EXPECTED_VALUE: 1  
+SUMMARY: Ivar Stenberg is widely viewed as the consensus top prospect and insiders say the Canucks will pick him if they win the lottery, but the draft lottery’s unpredictability leaves a roughly one‐third chance overall. No clear new information suggests the market’s 33% price is off by more than a few cents.  
 CONFIDENCE: low
 
 ---
@@ -56,39 +57,33 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Ivar Stenberg Emerging As Potential First Overall Pick
-Author: Ethan Hetu  |
-  at January 21, 2026 9:37 am
-Published Date: 2026-01-21T00:00:00.000Z
-URL: https://www.prohockeyrumors.com/2026/01/ivar-stenberg-emerging-as-potential-first-overall-pick.html
-Summary: Ivar Stenberg has emerged as a strong contender for the first overall pick in the 2026 NHL Draft, challenging the previously favored Gavin McKenna. Initially, McKenna was seen as the clear top prospect due to his impressive scoring record in the WHL, but recent developments have shifted the spotlight onto Stenberg, a winger playing in the SHL. 
+Title: It is now known who the Vancouver Canucks plan to select 1st overall in the 2026 NHL Entry Draft
+Author: 
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.canucksdaily.com/nhl-team/vancouver-canucks/it-is-now-known-who-the-vancouver-canucks-plan-to-select-1st-overall-in-the-2026-nhl-entry-draft
+Summary: Vancouver Canucks are currently favored to select Ivar Stenberg with the first overall pick in the 2026 NHL Draft, according to insider reports. The team has Stenberg ranked higher than other top prospects like Gavin McKenna, citing his impressive performance in the Swedish Hockey League (37 games, 32 points) and his standout showing at the 2026 IIHF World Juniors, where he led Sweden to a gold medal. While draft positions can change, recent evaluations suggest Stenberg is a strong candidate to be the top pick if Vancouver wins the lottery.
 
-As of January 2026, notable scouting reports have begun to favor Stenberg, with analysts like Jason Bukala declaring him the new No. 1 prospect. This change in rankings follows a strong performance at the World Junior Championships, which showcased Stenberg's skills and potential. 
+Title: 2026 NHL Draft Rankings: Gavin McKenna, Ivar Stenberg continue star as top prospects on big board - Worldnews.com
+Author: system
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://article.wn.com/view/2026/03/03/2026_NHL_Draft_Rankings_Gavin_McKenna_Ivar_Stenberg_continue/
+Summary: The 2026 NHL Draft rankings highlight Ivar Stenberg as a top prospect, continuing his strong performance on the big board alongside Gavin McKenna. While Stenberg is recognized as a leading talent, the article does not specify his likelihood of being drafted first overall. Given the current rankings, he remains a highly regarded player, but whether he will be selected 1st overall depends on team preferences and draft day decisions.
 
-While McKenna was once considered a lock for the top pick, his recent drop in rankings—falling to fourth in some assessments—indicates that the competition is heating up. The evolving landscape of draft predictions suggests that Stenberg's chances of being drafted first overall are increasing, making him a key player to watch as the draft approaches.
+Title: 2026 NHL Draft Rankings: Gavin McKenna, Ivar Stenberg continue star as top prospects on big board | Sporting News
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.sportingnews.com/us/nhl/news/2026-nhl-draft-rankings-top-prospects-big-board/5a96d7a86b347e17ade228d3
+Summary: The 2026 NHL Draft rankings highlight Ivar Stenberg as a top prospect, continuing his strong performance and recognition among leading players like Gavin McKenna. While Stenberg is considered a highly talented player and a potential top pick, current rankings and scouting reports suggest he is among the elite prospects but do not definitively indicate he will be drafted first overall. Draft outcomes depend on team needs, player development, and draft day decisions, so although Stenberg is a prominent candidate, predicting him as the first overall pick remains uncertain based on available rankings.
+
+Title: r/hockey on Reddit: 2026 NHL Draft ranking: Ivar Stenberg takes top ...
+Author: 
+URL: https://www.reddit.com/r/hockey/comments/1qi6jbq/2026_nhl_draft_ranking_ivar_stenberg_takes_top/
+Summary: The Reddit post discusses the midseason ranking of prospects for the 2026 NHL Draft, highlighting Ivar Stenberg as the top-ranked player ahead of Gavin McKenna, according to analyst Wheeler's top 64 prospects. While Stenberg currently holds the top spot in these rankings, there is no definitive prediction that he will be drafted first overall. Draft positions depend on team needs, player development, and other factors closer to the draft date. Therefore, although Stenberg is a leading candidate for a high draft position, it is uncertain whether he will be selected first overall in 2026.
 
 Title: 2026 NHL Draft Rankings: Ferrari's February Top 64 Has Stenberg Above McKenna
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://thehockeynews.com/news/latest-news/2026-nhl-draft-rankings-stenberg-stays-above-mckenna-in-ferrari-s-february-top-64
-Summary: Ivar Stenberg is currently ranked as the top prospect for the 2026 NHL Draft, maintaining his position since the initial rankings. His strong performance at the World Juniors has bolstered his status, showcasing his well-rounded game, 200-foot intelligence, and cerebral playmaking skills. While Gavin McKenna was initially viewed as the consensus No. 1 pick, his inconsistent season has allowed Stenberg to rise in prominence. Other contenders for the top pick include Tynan Lawrence and Keaton Verhoeff, but Stenberg's combination of skill and hockey IQ makes him a strong candidate for the first overall selection. Overall, his consistent ranking and impressive attributes suggest a favorable outlook for being drafted first overall.
-
-Title: NHL mock draft 2026: Ivar Stenberg leads pre-Olympics edition
-Author: 
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://www.usatoday.com/story/sports/nhl/draft/2026/01/30/nhl-mock-draft-2026-pre-olympics-edition/88424577007/
-Summary: The NHL mock draft for 2026 highlights Ivar Stenberg as a leading prospect, alongside Gavin McKenna and Keaton Verhoeff. As the scouting cycle progresses, the competition among top talents is intensifying, with players like Chase Reid and Caleb Malhotra also making significant strides. Stenberg's performance, along with the fluctuating rankings of these prospects, suggests that while he is a strong candidate for the first overall pick, the final decision will depend on his continued development and performance leading up to the draft. Factors such as team needs and the overall draft landscape will also play crucial roles in determining whether Stenberg secures the top spot.
-
-Title: Scout's Analysis: Ranking the top prospects for the 2026 NHL Draft - Sportsnet.ca
-Author: Jason Bukala
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://www.sportsnet.ca/nhl/article/scouts-analysis-ranking-the-top-prospects-for-the-2026-nhl-draft/
-Summary: Ivar Stenberg is currently ranked as the top prospect for the 2026 NHL Draft, following an impressive performance at the World Juniors and strong offensive production in the SHL with Frolunda, where he has recorded 7 goals and 21 assists. His ability to play effectively in all three zones and his mature approach to the game bolster his chances of being a first-round pick. Stenberg's NHL projection indicates he could become a first-line forward, contributing both at even strength and on the power play. Given his current trajectory and performance, he is a strong candidate for the first overall pick in the upcoming draft.
-
-Title: r/hockey on Reddit: 2026 NHL Draft ranking: Ivar Stenberg takes top ...
-Author: 
-Published Date: 2026-01-20T00:00:00.000Z
-URL: https://www.reddit.com/r/hockey/comments/1qi6jbq/2026_nhl_draft_ranking_ivar_stenberg_takes_top/
-Summary: Ivar Stenberg has been ranked as the top prospect for the 2026 NHL Draft, surpassing Gavin McKenna in the midseason rankings released by NHL analyst Scott Wheeler. This ranking suggests a strong likelihood of Stenberg being a top contender for the first overall pick. Factors contributing to his high ranking may include his performance metrics, skill set, and potential impact on the ice, which are critical for teams evaluating draft prospects. For a more detailed analysis, you can refer to the full rankings on the New York Times website.
+Summary: Ivar Stenberg remains the top-ranked prospect for the 2026 NHL Draft according to Tony Ferrari's February rankings, maintaining his position as the most likely first overall pick. His well-rounded game, 200-foot intelligence, cerebral playmaking, and skill set make him an ideal candidate for the top spot. While other prospects like Gavin McKenna, Tynan Lawrence, and Keaton Verhoeff are also considered strong contenders, Stenberg's consistent performance, especially highlighted during the world juniors, supports the prediction that he could be drafted first overall.
 
 

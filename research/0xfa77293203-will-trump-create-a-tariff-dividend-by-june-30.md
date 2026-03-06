@@ -1,7 +1,7 @@
 # Research: Will Trump create a tariff dividend by June 30?
 
 **Market ID:** 0xfa772932032462681258298f5b3471dd5f2f5ee514b51558db05a39556d5e97f
-**Researched At:** March 1, 2026 at 06:04:04 AM UTC
+**Researched At:** March 6, 2026 at 04:17:35 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump create a tariff dividend by June 30?"
 
 ---
@@ -9,42 +9,46 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.2¢
+**Expected Value:** 4.9¢
 
 ### Summary
 
-Expert analyses and legal hurdles strongly support a low chance of a tariff dividend by June 30, and no clear catalyst has emerged to push the probability far above its current 25%. The market price appears reasonable, with only a small mispricing potential if legal timing is faster than expected.
+No recent legislative or executive actions, combined with legal setbacks and funding shortfalls, make the 17% market price appear overstated; a fair probability is closer to 10%, implying a modest mispricing of around 7 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether, by 11:59 PM ET on June 30, 2026, the Trump Administration will have formally created a tariff dividend/rebate (via signed legislation or executive action) clearly tied to tariff revenues and directed at individual U.S. taxpayers. A “Yes” requires an official act within the window; otherwise it resolves “No.”
+The market asks whether President Trump will formally create a tariff dividend or rebate—by signing legislation or taking executive action—on or before June 30, 2026. A “Yes” requires a legally valid program that explicitly ties a payment to tariff revenue; anything less (mere proposals, speeches, or routine tax refunds) resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish (higher probability) arguments:  
-- Trump publicly reiterated in early February that he’s seriously considering $2,000 tariff checks and claims executive authority to distribute tariff revenues.  
-- A favorable Supreme Court ruling on tariff legality (expected soon) could remove legal obstacles.  
+Bearish evidence (arguing price too high):  
+- Fox 5 New York (2026-03-01): No proposals or legislative drafts; Treasury’s $133 billion in import taxes falls short of funding a meaningful dividend; recent court rulings have struck down key tariffs.  
+- Oklahoma.com (2026-02-25): A 2/20 Supreme Court ruling undercuts Trump’s unilateral tariff authority, casting doubt on any downstream dividend.  
+- CNBC (2026-02-23): Experts deem $2,000 checks “less likely,” citing political pushback and implementation hurdles.  
+- Newsweek (2026-02-11): Trump still discussing tariffs but offers no timeline; no formal steps toward a June 30 program.  
+- The Hill: No active pursuit by lawmakers; debate remains theoretical.  
+All sources are recent (February–March 2026) and from mainstream outlets. They uniformly judge the chance of a dividend by June 30 as very low.
 
-Bearish (lower probability) arguments:  
-- CNBC experts (Feb 23) call it “less likely” by June 30 due to political, economic, and administrative complexities.  
-- Legal challenges (e.g., Costco’s suit) leave tariff revenues in flux until SCOTUS decision; timing and litigation risk remain high.  
-- No concrete legislation or executive order has been introduced as of late February.  
-
-All sources are recent (Feb and Nov 2025–Feb 2026) and credible (CNBC, Newsweek, regional press). None point to an imminent qualifying act, supporting a low-to-moderate probability.
+Bullish evidence (arguing price reasonable):  
+- Trump’s repeated public endorsements of a $2,000 “tariff dividend” could generate last-minute executive action.  
+- Low-volume markets often capture only a handful of traders’ high-conviction views; some may assign a small “surprise” probability to political gambits.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 25% price aligns with widespread expert skepticism plus the possibility that legal clarity or a last-minute executive action could push it over the line. The low trading volume likely reflects limited public interest rather than a glaring information gap; informed traders appear to have already factored in key risks and catalysts.
+A 17% price could represent:  
+- A “just in case” probability that Trump overrides legal and funding obstacles via some novel executive maneuver.  
+- The conviction of a lone trader unchallenged in a thin-volume market.  
+Given zero signs of bill drafting or political momentum, informed traders appear under-engaged; the tight spread likely masks inefficiency.
 
 4. MISPRICING ASSESSMENT  
-No strong evidence suggests the market is significantly mispriced. Both bullish and bearish considerations appear balanced around a low–mid‐20% probability, consistent with expert commentary and the absence of any definitive advance by the administration or Court.
+The cumulative evidence strongly suggests the chance is closer to 5–10% than 17%. Absent any legislative text or administrative roadmap within four months, 17% likely overstates the risk of a political surprise. No contradictory data appear missing; the key resolution criteria (formal action tied to tariff revenue) remain unmet.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price should differ: 40% (experts agree on low odds, but legal timing could swing probability slightly).  
-Magnitude of plausible mispricing: ~3¢ (market might underweight a swift SCOTUS decision or over‐weight procedural inertia).  
-Expected value = 40% × 3¢ = 1.2¢
+Strength of evidence: 70% (uniform, recent, credible sources)  
+Estimated mispricing magnitude: ~7 cents (17% vs. an estimated fair probability of ~10%)  
+Expected value = 0.70 × 7 cents ≈ 4.9 cents
 
-EXPECTED_VALUE: 1.2  
-SUMMARY: Expert analyses and legal hurdles strongly support a low chance of a tariff dividend by June 30, and no clear catalyst has emerged to push the probability far above its current 25%. The market price appears reasonable, with only a small mispricing potential if legal timing is faster than expected.  
+EXPECTED_VALUE: 4.9  
+SUMMARY: No recent legislative or executive actions, combined with legal setbacks and funding shortfalls, make the 17% market price appear overstated; a fair probability is closer to 10%, implying a modest mispricing of around 7 cents.  
 CONFIDENCE: medium
 
 ---
@@ -53,54 +57,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Stimulus payment March 2026, IRS direct deposit relief, tariff dividend & tax refund fact check | FOX 5 New York
+Author: Sam Kosmas
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.fox5ny.com/news/stimulus-payment-march-2026-irs-direct-deposit-relief-tariff-dividend-tax-refund-fact-check
+Summary: There is no current indication that President Trump plans to create a tariff dividend by June 30, 2026. While Trump has previously promoted the idea of issuing a $2,000 dividend funded by import taxes, no recent official proposals or legislative actions have been announced to implement such a program. The Treasury has collected over $133 billion from import taxes, but estimates suggest that funding a broad tariff dividend would require significantly more revenue than currently available. Additionally, legal challenges and court rulings have already struck down some of Trump's tariffs, and there is no confirmed plan or timeline for new tariffs or dividend payments. Therefore, based on current information, it is unlikely that a tariff dividend will be created by June 30, 2026.
+
+Title: Are $2,000 dividend checks coming? Trump address tariffs at State of the Union
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: http://www.oklahoman.com/story/business/economy/2026/02/25/trump-2000-tariff-dividend-checks-coming-state-of-the-union/88860721007/
+Summary: The webpage discusses the possibility of $2,000 dividend checks from Trump related to tariffs, which he promised last fall. However, a February 20 Supreme Court ruling determined that Trump lacked the authority to impose sweeping tariffs unilaterally, casting doubt on the future of such dividend payments. The ruling may impact the administration's ability to implement or distribute tariff-related rebates. Additionally, reports indicate tariffs have significantly increased costs for American households—over $1,000 annually in 2025—with potential increases in 2026. Given the legal setback and ongoing economic impacts, it is uncertain whether Trump will create a tariff dividend by June 30.
+
 Title: Trump's $2,000 tariff dividend checks are less likely, experts say
 Author: Jessica Dickler
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html
-Summary: Experts are increasingly skeptical about the likelihood of Trump implementing $2,000 tariff dividend checks by June 30. Various factors contribute to this uncertainty, including political dynamics, economic conditions, and the feasibility of such a program. Analysts suggest that the complexities involved in executing a tariff dividend may hinder its realization within the proposed timeframe. For those looking to predict the outcome, it is essential to consider these expert opinions and the broader economic context surrounding tariff policies.
-
-Title: Who qualifies for the potential $2,000 tariff dividend? Here's what to ...
-Author: MAX ZAHN      November 10, 2025   5 min read
-Published Date: 2025-11-10T00:00:00.000Z
-URL: https://finance.yahoo.com/news/know-trumps-promise-2-000-193000257.html
-Summary: The article discusses the potential for a $2,000 tariff dividend promised by Trump, but does not provide specific details on whether this dividend will be created by June 30. To predict the likelihood of this happening, consider the following factors:
-
-1. **Political Climate**: The current political environment and Trump's administration's stance on tariffs could influence the implementation of the dividend.
-
-2. **Economic Conditions**: Economic indicators such as inflation, trade balances, and public sentiment towards tariffs may affect the decision to create a dividend.
-
-3. **Legislative Support**: The level of support from Congress and other political figures for the tariff dividend will be crucial in determining its feasibility.
-
-4. **Public Reaction**: How the public responds to the idea of a tariff dividend could sway political decisions leading up to the deadline.
-
-5. **Previous Promises**: Analyzing Trump's track record on similar promises may provide insight into the likelihood of this dividend being realized.
-
-For the most accurate prediction, keep an eye on developments in these areas leading up to June 30.
-
-Title: Are you getting $2,000 Trump tariff check? Odds say not this year
-Author: Maria Francis
-Published Date: 2026-02-03T00:00:00.000Z
-URL: http://www.pnj.com/story/news/2026/02/03/stimulus-check-2026-status-update-what-odds-of-getting-2000-trump-tariff-dividend-refund-payment/88487355007/
-Summary: The article discusses the uncertainty surrounding the potential for a $2,000 tariff dividend proposed by former President Donald Trump. While Trump has suggested that the dividend could be issued toward the end of the year, the actual implementation hinges on a pending Supreme Court decision regarding the legality of the tariffs that would fund this payment. 
-
-In November, Trump indicated that the dividend would benefit middle and lower-income individuals, funded by tariff revenues. However, legal challenges from businesses like Costco, which are seeking refunds on tariffs, could impact the situation significantly. The Supreme Court's ruling, expected soon, will clarify the status of these tariffs and whether refunds will be necessary, which could ultimately affect the feasibility of the proposed dividend by June 30. 
-
-Given these factors, the odds of Trump creating a tariff dividend by the specified date appear low, contingent on legal outcomes and political developments.
-
-Title: Who could qualify for Trump's suggested $2K tariff rebate? What's ...
-Author: by Addy Bink
-Published Date: 2025-11-11T00:00:00.000Z
-URL: https://thehill.com/homenews/nexstar_media_wire/5600285-who-could-qualify-for-trumps-suggested-2k-tariff-rebate-whats-happened-in-the-past/
-Summary: The article discusses former President Donald Trump's proposal for a $2,000 tariff rebate, which aims to provide financial relief to American consumers affected by tariffs on imported goods. The potential beneficiaries of this rebate would likely include middle-class families and individuals who have faced increased costs due to tariffs. 
-
-While the specifics of the implementation remain unclear, the article highlights that similar proposals have been made in the past, often facing challenges in Congress regarding funding and political support. The timeline for such a rebate, particularly by June 30, is uncertain and would depend on various factors, including legislative approval and economic conditions.
-
-In summary, while Trump's tariff dividend proposal could offer significant financial relief, its actualization by the specified date hinges on political negotiations and economic circumstances.
+Summary: The article discusses the likelihood of former President Donald Trump issuing $2,000 tariff dividend checks, a proposal linked to his trade policies. Experts suggest that such dividend payments are less probable than previously anticipated. Factors influencing this include economic considerations, political dynamics, and the practical challenges of implementing large-scale dividend distributions tied to tariffs. Given current assessments, it appears unlikely that Trump will create a tariff dividend by June 30.
 
 Title: Are Trump’s Tariff Checks Coming in February? What To Know - Newsweek
 Author: 
 Published Date: 2026-02-11T00:00:00.000Z
-URL: https://newsweek.com/trumps-tariff-checks-coming-february-dividends-11502453
-Summary: The article discusses the potential for tariff "dividends" as part of President Trump's trade policy, specifically mentioning $2,000 rebate checks that he has promised to distribute. In a recent NBC News interview, Trump indicated that he is seriously considering sending out these checks, which were initially announced in November. He emphasized that he has the authority to do so due to the substantial revenue generated from tariffs. However, the White House has not provided a specific timeline for when these checks will be distributed, leaving uncertainty about whether they will be available by June 30. The administration's commitment to the tariff dividend program suggests that there may be developments in the coming months, but no definitive date has been confirmed.
+URL: http://newsweek.com/trumps-tariff-checks-coming-february-dividends-11502453
+Summary: The article reports that President Trump has expressed serious interest in distributing $2,000 rebate checks funded by tariffs, initially announced in November. He indicated that Americans would receive these "tariff dividends" at some point, emphasizing his unique authority to do so due to tariff revenue. However, there is no specific timeline provided, and a White House official has only confirmed ongoing discussions without confirming a set date. Based on this information, there is no clear indication that Trump will create a tariff dividend by June 30; the plans remain uncertain and dependent on future decisions.
+
+Title: Where does Trump's $2000 tariff rebate promise stand ...
+URL: https://thehill.com/homenews/nexstar_media_wire/5660951-where-does-trumps-2000-tariff-rebate-promise-stand-heading-into-2026/
+Summary: The article discusses the status of former President Trump's promise to provide a $2,000 tariff rebate, with a focus on the timeline leading into 2026. While the rebate was a campaign pledge aimed at offsetting tariffs imposed during his administration, there is no indication that such a rebate has been implemented or is actively being pursued by current policymakers. The coverage highlights ongoing tariff policies, recent tariff adjustments, and political debates surrounding tariffs, but does not suggest any concrete steps toward delivering a tariff dividend or rebate by June 30 or any specific date. Therefore, based on current information, it appears unlikely that Trump will create a tariff dividend by June 30.
 
 

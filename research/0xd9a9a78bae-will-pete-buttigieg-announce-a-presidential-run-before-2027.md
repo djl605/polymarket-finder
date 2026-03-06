@@ -1,7 +1,7 @@
 # Research: Will Pete Buttigieg announce a Presidential run before 2027?
 
 **Market ID:** 0xd9a9a78baeeda8e32538e0391a579f79f8d4b763537bc3c071ad39912f56c565
-**Researched At:** March 1, 2026 at 06:06:59 AM UTC
+**Researched At:** March 6, 2026 at 04:16:21 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Pete Buttigieg announce a Presidential run before 2027?"
 
 ---
@@ -13,37 +13,40 @@
 
 ### Summary
 
-Buttigieg’s own public statements strongly suggest he won’t decide before 2027, while his poll strength justifies a modest chance; a 15.5% probability aligns with available evidence. No clear mispricing over several cents is apparent in this low‐volume market.
+No clear evidence that Buttigieg will announce a 2028 run before 2027, but his profile makes a modest chance plausible. The 16% market price reflects this balance and shows no obvious large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Pete Buttigieg will officially announce a 2028 presidential campaign by 12/31/2026. A “Yes” requires a public declaration (speech, social media, etc.) on or before that date; otherwise it resolves “No.”
+– The market asks whether Pete Buttigieg will officially announce a 2028 presidential campaign before 11:59 PM ET on December 31, 2026.  
+– A “Yes” requires a clear public statement from Buttigieg declaring his candidacy; anything short of that (e.g. exploratory committee, hints) yields “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (i.e., suggests <15.5% chance):  
-• In January and February 2026 interviews, Buttigieg explicitly said he is “a long way from any kind of decision,” and “I don’t know” if he’ll run in 2028.  
-• He is publicly focusing on policy advocacy (EVs, affordability), not campaign announcements, and supporting other Democratic candidates rather than laying groundwork for his own.  
-
-Bullish evidence (i.e., suggests >15.5% chance):  
-• Early polling in New Hampshire shows him leading potential Democratic contenders with ~20% support and a 72% favorable rating.  
-• His active visits to key early states (NH), and positioning alongside figures like Newsom and Beshear, indicate campaign mode.  
-
-Source credibility and recency: All items are from January–February 2026, local and national news outlets, and a reputable university poll, thus timely and reliable. The bullish signals (poll strength, ground visits) are noted, but Buttigieg’s own repeated disclaimers weigh heavily against an imminent announcement.
+Bullish signals (supporting >16%):  
+• Buttigieg’s strong early polling in New Hampshire (Fox, Feb 2026) and his high profile from 2020 and as Transportation Secretary suggest he’s well positioned.  
+• Multiple analyses (VoteHub, TheWeek, CNN) note he’s among the top potential contenders and is already doing groundwork in early primary states.  
+Bearish signals (supporting <16%):  
+• In January 2026 he explicitly said he “doesn’t know” if he’ll run, offering no commitment to announce before 2027 (BridgeMI).  
+• None of the cited articles provides any plan or timeline indicating a formal bid announcement in 2026.  
+Source credibility: All are mainstream political outlets with recent dates. None report insider confirmation of an imminent announcement.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 15.5% probability can be rationalized as the current consensus: Buttigieg is a strong potential candidate (20% poll share), but his stated hesitancy and the long timeline push odds down. Low volume suggests limited trading interest, but the tight spread implies any engaged traders agree around this mid‐teens probability. It’s unlikely to be dominated by one overconfident trader, since both bullish and bearish signals are well known.
+– A 16% price implies informed traders believe there’s modest chance he’ll front-load an announcement more than three years before the election.  
+– Low volume suggests few traders are placing bets; the tight spread may reflect one or two parties setting both sides.  
+– It’s equally plausible that 16% reflects a consensus “long-shot but not negligible” view rather than a miscalibration.  
 
 4. MISPRICING ASSESSMENT  
-No single piece of credible evidence suggests the market is off by more than a few cents. Buttigieg’s own statements make an early announcement improbable, while his popularity justifies a nonzero chance. Given the timeline and uncertainty, a mid‐teens price is defensible. There’s no clear overlooked factor that would move the price significantly.
+– No strong, overlooked information points to a high probability (e.g. leaked campaign plans) nor to zero chance.  
+– The current price squarely sits between “unlikely” (he’d wait until 2027) and “possible given his profile.”  
+– No large, credible data point is missing from the market price.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is mispriced: ~20% (some bearish tilt but mostly already priced in)  
-Plausible magnitude of mispricing: ~5 cents  
-Expected value = 20% × 5¢ = 1¢
+– Strength of evidence for mispricing: 20% (no solid contrary info).  
+– Magnitude of possible mispricing: ~5 cents (market could be slightly high or low).  
+– Expected value ≈ 20% × 5 cents = 1 cent.  
 
-EXPECTED_VALUE: 1  
-SUMMARY: Buttigieg’s own public statements strongly suggest he won’t decide before 2027, while his poll strength justifies a modest chance; a 15.5% probability aligns with available evidence. No clear mispricing over several cents is apparent in this low‐volume market.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: No clear evidence that Buttigieg will announce a 2028 run before 2027, but his profile makes a modest chance plausible. The 16% market price reflects this balance and shows no obvious large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -52,38 +55,37 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Way Too Early 2028 Democratic Primary Power Rankings - VoteHub
+Author: Zachary Donnini
+URL: https://votehub.com/2026/01/08/way-too-early-2028-democratic-primary-power-rankings/
+Summary: The article discusses the early landscape of the 2028 Democratic primary, highlighting Pete Buttigieg as a potential contender. While Buttigieg has demonstrated presidential campaign experience and remains a notable figure, the analysis suggests he would need to significantly boost his support—particularly among Black voters and the left—to secure the nomination. The article does not specify whether Buttigieg plans to run in 2028 or whether he might announce a campaign before 2027. Given his established profile and the importance of early announcements in primaries, it is plausible that he could consider declaring his candidacy prior to 2027, but there is no definitive information or indication from the article confirming such plans.
+
 Title: Michigan's Buttigieg: 'I don't know' if presidential run will come in 2028
 Author: Paula Gardner
-Published Date: 2026-01-14T00:00:00.000Z
 URL: https://bridgemi.com/business-watch/michigans-buttigieg-i-dont-know-if-presidential-run-will-come-in-2028/
-Summary: Pete Buttigieg, the former U.S. Transportation Secretary, recently expressed uncertainty about a potential presidential run in 2028 during an interview at the Detroit Auto Show. When asked if he would run again, he simply stated, "I don’t know." This ambiguity suggests that any announcement regarding his candidacy is not imminent, particularly before 2027. 
+Summary: Pete Buttigieg, the former U.S. Transportation Secretary and Michigan resident, has not committed to running for president again and stated he "doesn't know" if he will seek the 2028 nomination. During a visit to the Detroit Auto Show in January 2026, he offered little insight into his future political plans, emphasizing uncertainty about a presidential bid before 2027. While he remains a prominent political figure with potential ambitions, there is no definitive indication that he will announce a presidential run prior to 2027.
 
-Buttigieg's focus during the event was primarily on the auto industry, especially the future of electric vehicles (EVs), which he remains enthusiastic about despite recent challenges in production and adoption. He emphasized the importance of the U.S. leading in EV technology, indicating that while he is engaged in political and industry discussions, he has not committed to a presidential campaign.
+Title: Democrats are making 2028 moves. Here's what to know - CNN
+Author: Zachary B. Wolf
+URL: https://www.cnn.com/2025/07/17/politics/2028-presidential-election-democrats-analysis
+Summary: Democrats are actively preparing for the 2028 presidential race, with potential candidates like Pete Buttigieg, Gavin Newsom, and others engaging in early campaigning efforts such as visiting primary states and workshop events. Notably, Buttigieg has already been involved in outreach activities, though there is no explicit indication from the article that he plans to announce a presidential run before 2027. The ongoing early groundwork suggests he and others are positioning themselves for future campaigns, but a formal announcement prior to 2027 remains uncertain based on current information.
 
-Given his current stance and the lack of a definitive timeline for his decision, it appears unlikely that Buttigieg will announce a presidential run before 2027.
+Title: 13 potential 2028 presidential candidates for both major parties
+Author: By
+ David Faris   
+ 
+ 
+ 
+published
+ 
+16 April 2025
+URL: https://theweek.com/politics/2028-presidential-candidates-democrat-republican
+Summary: Based on current indications, Pete Buttigieg is positioning himself as a potential 2028 Democratic presidential candidate. After serving as Secretary of Transportation until 2025, he has avoided running for a Senate seat and is considered a strong contender for the upcoming election cycle. While there is no official announcement yet, political insiders suggest he is preparing for a presidential bid, making it plausible that he could announce his candidacy before 2027.
 
-Title: Pete Buttigieg on 2028 presidential campaign talk: 'Long way from any kind of decision like that'
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://ground.news/article/pete-buttigieg-on-2028-presidential-campaign-talk-long-way-from-any-kind-of-decision-like-that
-Summary: During a recent visit to New Hampshire, Pete Buttigieg addressed speculation about a potential presidential run in 2028, stating that he is "a long way from any kind of decision like that." Despite this, he remains a prominent figure in early polling, leading among likely Democratic primary voters in New Hampshire with 20% support, according to a recent University of New Hampshire Survey Center poll. His favorable opinion rating stands at 72% among surveyed residents. Buttigieg's sustained popularity and his previous experience in the 2020 primary contribute to ongoing interest in his political future. However, he has not indicated any immediate plans to announce a candidacy before 2027.
-
-Title: Pete Buttigieg on 2028 presidential campaign talk: 'Long way from any kind of decision like that' | WBAL Baltimore News
+Title: Pete Buttigieg leads 2028 Democratic presidential poll in New Hampshire | Fox News
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.wbal.com/pete-buttigieg-on-2028-presidential-campaign-talk-long-way-from-any-kind-of-decision-like-that
-Summary: Pete Buttigieg, the former Transportation Secretary, recently addressed speculation about a potential presidential run in 2028 during a visit to New Hampshire. He emphasized that he is "a long way from any kind of decision" regarding a campaign. Instead, Buttigieg stated his focus for the next year will be on supporting deserving causes and candidates, as well as advocating for measures to improve affordability and quality of life in the state and country. This suggests that while he remains a prominent figure with a supportive base, any announcement regarding a presidential run is not imminent and may not occur before 2027.
-
-Title: Is Pete Buttigieg running for president? What he said in NH
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://fosters.com/story/news/politics/2026/02/20/pete-buttigieg-president-nh-chris-pappas-dhs-ice-elections/88767300007/
-Summary: During his recent visit to New Hampshire, Pete Buttigieg did not confirm whether he will run for president in 2028, despite speculation and a favorable poll showing him leading potential Democratic candidates in the state. While he expressed appreciation for the support he received, he maintained a non-committal stance, stating, “We’ll see what the future holds.” His visit included supporting Rep. Chris Pappas' Senate campaign and engaging with local residents, which suggests he is actively positioning himself for a potential run. However, he refrained from affirming support for New Hampshire's first-in-the-nation primary status, indicating a cautious approach as he navigates his political future. Given these factors, it remains uncertain if Buttigieg will announce a presidential run before 2027.
-
-Title: Poll: Buttigieg early leader in 2028 Democratic presidential primary
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.fosters.com/story/news/politics/2026/02/19/poll-buttigieg-early-leader-in-2028-democratic-presidential-primary/88755845007/
-Summary: A recent poll indicates that Pete Buttigieg is currently leading the potential candidates for the 2028 Democratic presidential primary, with 20% of likely Democratic voters supporting him. This support has increased slightly since October, and he enjoys a favorable opinion from 72% of respondents. Buttigieg is actively engaging with voters in New Hampshire, a key early primary state, suggesting he is positioning himself for a potential run. However, no candidates have officially declared their candidacies yet. Speculation about his intentions is heightened by his upcoming visits to early primary states alongside other potential candidates like Gavin Newsom and Andy Beshear. Given this context, Buttigieg's announcement of a presidential run before 2027 remains uncertain but seems plausible if he continues to build momentum and support.
+URL: http://www.foxnews.com/politics/buttigieg-newsom-aoc-top-three-new-2028-poll-key-presidential-primary-state
+Summary: The article reports that Pete Buttigieg is currently leading in a 2028 Democratic presidential poll in New Hampshire, indicating his rising prominence within the party. While it does not explicitly state Buttigieg's future plans, his strong polling position suggests he may be positioning himself for a potential presidential bid. Historically, candidates often announce runs several years before the election, and Buttigieg's current lead could imply he is considering a future campaign. However, there is no definitive information in the article confirming whether he will announce a presidential run before 2027.
 
 

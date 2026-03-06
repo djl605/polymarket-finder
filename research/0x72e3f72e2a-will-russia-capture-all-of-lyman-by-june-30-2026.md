@@ -1,7 +1,7 @@
 # Research: Will Russia capture all of Lyman by June 30, 2026?
 
 **Market ID:** 0x72e3f72e2a21d601b73d188674f5fe6b2baf3d8c709f5d77c9835f124a71f96e
-**Researched At:** March 1, 2026 at 06:06:26 AM UTC
+**Researched At:** March 6, 2026 at 04:18:55 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia capture all of Lyman by June 30, 2026?"
 
 ---
@@ -13,38 +13,38 @@
 
 ### Summary
 
-Recent ISW assessments show Russia’s build-up but also significant operational stagnation and Ukrainian resistance, yielding an outcome that is unlikely but feasible. A 24.5% price aligns with these mixed signals, and there’s no clear evidence of a large mispricing.
+Russian advances around Lyman remain incremental and heavily contested, while Ukrainian defenses have recently stiffened—supporting a mid-30% probability. There’s no clear sign of a large mispricing, so further investigation likely has low expected value.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Russian forces will achieve full control of Lyman municipality by 11:59 PM ET on June 30, 2026, as indicated by persistent “Assessed Russian Control,” “Advance,” or “Gains” shading on the ISW map. A “Yes” requires the entire municipality shaded red for at least one full update cycle; subsequent losses after first capture are irrelevant. A “No” results if that condition is never met by the deadline.
+The market asks whether Russian forces will have full tactical control of the municipality of Lyman, Donetsk Oblast, by 11:59 PM ET June 30, 2026, as reflected by contiguous red shading on the ISW map (or alternate sources if ISW is unavailable). A YES requires Russia to occupy and consolidate control over the entire municipality for at least one full ISW update cycle before the deadline; any later losses don’t affect resolution. A NO occurs if, by the cutoff, any part remains under Ukrainian control or contested.
 
 2. EVIDENCE EVALUATION  
-Bullish (higher probability) arguments:  
-• ISW (Feb 19) notes Russia’s long-term commitment and strategy to press in Donetsk Oblast, implying they may muster another push at Lyman.  
-• ISW (Feb 27) reports ongoing Russian build-up and artillery interdiction ahead of a Spring–Summer offensive near the Fortress Belt, which includes Lyman—demonstrating intent and capability to renew the assault.
+Bullish (for YES) arguments:  
+• Russia’s strategic determination: The Feb 2 ISW assessment notes Russia’s unchanged maximal war aims, refusal of concessions, and stated intent to seize key Ukrainian territories by mid-2026.  
+• Incremental advances: Reports from The Eye Newspapers (Mar 2) and the Feb 12 ISW map show steady forward pushes around Lyman, indicating ongoing pressure.  
 
-Bearish (lower probability) arguments:  
-• ISW (Feb 25) highlights that since December 2025, post-Pokrovsk capture, there have been no operationally significant advances toward Lyman; Russians still fail to secure positions only 2 km from Pokrovsk.  
-• ISW (Feb 24) describes recent robust Ukrainian counterattacks in Kharkiv and Donetsk axes and notes Russian attrition and command problems, undercutting prospects for a rapid advance into Lyman.  
-• The Eye Newspapers (Feb 25) likewise underscores fluid fighting and Ukrainian recaptures in adjacent areas, indicating stiff resistance and an uncertain timeline.
+Bearish (for YES) arguments:  
+• Stalemated frontline: The Eye Newspapers (Mar 2) highlights persistent, intense Ukrainian resistance, recaptures of nearby settlements, and a fluid, contested front.  
+• Ukrainian counteroffensives: The Mar 3 ISW assessment documents recent Ukrainian gains and fortified defenses in the Lyman sector, plus potential boosts from Western long-range fires (e.g., Tomahawks, though not yet delivered).  
+• No decisive breakthroughs: None of the ISW briefs (Feb 12, Mar 2, Mar 3) report Russia having fully encircled or taken Lyman, nor a collapse of Ukrainian positions.  
 
-Source credibility: All are recent (Feb 19–27, 2026), from ISW’s daily assessments—widely used by analysts—and a reputable regional outlet. No evidence appears so new or extreme that traders couldn’t have priced it in.
+Source credibility and recency: All sources are from early March 2026 or February 2026 ISW updates—highly relevant and timely. ISW is authoritative on control mapping; The Eye Newspapers appears less widely cited but reports consistent with known front dynamics.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 24.5% price reflects an “unlikely but plausible” outcome: Russia will attempt but probably fail absent a major breakthrough. Low volume suggests limited attention rather than divergent extreme views; the narrow spread implies at least two active participants see roughly the same odds. Given the mixed signals—intent vs. current stalemate—the market price is a reasonable equilibrium.
+A 32.5% price implies modest confidence in a Russian victory by June 30. This aligns with a scenario where Russia may redouble efforts but remains uncertain against entrenched Ukrainian defenses. The zero trading volume suggests few participants have weighed in; the tight spread may simply reflect a default auto-pricing or one participant’s view. However, the split between credible bullish intent and strong Ukrainian resistance could naturally center around ~30%.
 
 4. MISPRICING ASSESSMENT  
-There is no clear gap between the qualitative assessments and a ~25% probability. Bearish analyses could push estimates nearer 10–15%, but bullish preparations justify a nontrivial tail. The absence of a decisive new offensive or collapse of Ukrainian defenses limits the upside. No specific overlooked factor (e.g., imminent collapse signals) emerges from the findings.
+No clear, specific, credible evidence is omitted that would dramatically shift probability by >20 points. The contested nature of the battlefield, combined with both sides’ capabilities and intentions, reasonably produces a mid-range probability. The low volume raises some inefficiency risk, but there’s no “smoking gun” data showing imminent collapse of Ukrainian defenses or, conversely, certain Russian failure that traders have missed.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market is mispriced: 40% (evidence is moderate but not definitive)  
-Plausible magnitude of mispricing: 5 cents (market likely within a few cents of fair odds)  
-Expected value = 0.40 × 5 = 2.0 cents
+Strength of evidence that the market is mispriced: 40% (some uncertainty, but no glaring omission).  
+Magnitude of possible mispricing: ~5 cents (worst-case minor drift if new major offensive data emerges).  
+Expected value = 40% × 5 cents = 2 cents
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Recent ISW assessments show Russia’s build-up but also significant operational stagnation and Ukrainian resistance, yielding an outcome that is unlikely but feasible. A 24.5% price aligns with these mixed signals, and there’s no clear evidence of a large mispricing.  
+EXPECTED_VALUE: 2  
+SUMMARY: Russian advances around Lyman remain incremental and heavily contested, while Ukrainian defenses have recently stiffened—supporting a mid-30% probability. There’s no clear sign of a large mispricing, so further investigation likely has low expected value.  
 CONFIDENCE: medium
 
 ---
@@ -55,56 +55,31 @@ CONFIDENCE: medium
 
 Title: Russian Forces Advance on Lyman: Latest Developments from Ukraine
 Author: The Eye Newspapers
-Published Date: 2026-02-25T00:00:00.000Z
+Published Date: 2026-03-02T00:00:00.000Z
 URL: https://themunicheye.com/Russian-Forces-Advance-on-Lyman%3A-Latest-Developments-from-Ukraine-8514
-Summary: Recent developments in the conflict around Lyman, Ukraine, indicate that Russian forces have made significant territorial gains, capturing settlements such as Iwaniwka and Terny. The Institute for the Study of War (ISW) reports ongoing intense fighting in nearby Chasiv Yar, where Ukrainian troops have managed to reclaim some positions despite Russian advances. The situation remains fluid, with both sides contesting control in areas like Torezk and Velyka Novosilka.
+Summary: The latest reports from January 2025 indicate that Russian forces are making incremental advances in northeastern Ukraine, including near Lyman. Russian units have captured settlements like Iwaniwka and Terny, and are pushing into areas around Torezk, Velyka Novosilka, Kurakhove, and Kupiansk. Ukrainian forces have recaptured some positions, notably in Chasiv Yar and southwest of Torezk, but the front lines remain highly contested with ongoing intense fighting. Given the current pace of territorial gains and the persistent resistance by Ukrainian troops, it is uncertain whether Russia will fully capture Lyman by June 30, 2026. The situation remains fluid, with Russian advances limited and Ukrainian defenses actively countering Russian movements.
 
-As of now, Russian forces have achieved minimal advances near Kurakhove and northeast of Kupiansk, while Ukrainian forces have successfully defended certain positions. The front lines are dynamic, with ongoing military operations and the establishment of defensive structures by Russian troops.
+Title: Russian Offensive Campaign Assessment, February 2, 2026
+Author: Christopher Solomon
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-2-2026/
+Summary: The February 2, 2026, Russian offensive assessment indicates that Russia remains committed to its maximal war aims, including the complete capture of Ukrainian territories such as Lyman. Russian officials, notably Dmitry Medvedev, reaffirmed that Russia’s demands—Ukraine’s neutrality, demilitarization, and the dismantling of its current government—have not changed and that Russia considers the Ukrainian government illegitimate. Russia continues to reject international security guarantees involving foreign troops on Ukrainian territory and emphasizes its willingness to use nuclear deterrence to secure concessions. Given Russia’s persistent demands, refusal to accept NATO security guarantees, and ongoing military pressure, there is a significant likelihood that Russia aims to capture key strategic locations like Lyman by mid-2026. However, the outcome depends on the evolving battlefield dynamics, Ukrainian resistance, and potential international responses.
 
-Given these developments, predicting whether Russia will capture all of Lyman by June 30, 2026, is complex. The current military situation suggests that while Russia has made gains, Ukrainian forces are actively resisting and reclaiming territory. The outcome will depend on various factors, including military strategies, troop morale, and external support for both sides.
+Title: Lyman Tactical Area, February 12, 2026 | ISW
+Author: 
+Published Date: 2026-02-13T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-february-12-2026-at-130-pm-et/
+Summary: As of February 12, 2026, the ISW assessment indicates that Russian forces are actively engaged in the Lyman tactical area, with ongoing efforts to control key terrain. The current control status suggests that Russia has made some advances, but the area remains contested. Given the dynamic nature of the conflict, factors such as troop movements, supply lines, and Ukrainian resistance will influence whether Russia can fully capture Lyman by June 30, 2026. Continued fighting and strategic adjustments are likely to determine the eventual outcome within this timeframe.
 
-Title: Russian Offensive Campaign Assessment, FEB 19, 2026 | ISW
-Author: Adam Grace
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/
-Summary: The Russian Offensive Campaign Assessment from February 19, 2026, indicates that Russia's strategic objectives in Ukraine extend beyond territorial control, focusing on regime change and the imposition of Ukrainian neutrality. Key insights include:
+Title: Russian Offensive Campaign Assessment, March 2, 2026 | ISW
+Author: Nadia Sleiman
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-2-2026/
+Summary: The provided webpage does not contain specific information about the military situation in Lyman or predictions regarding its capture by Russia. Instead, it focuses on Russia's diplomatic efforts to position itself as a mediator in the Middle East, recent developments in the Iran-Gulf tensions, and the impact of Middle Eastern conflicts on global oil markets and Russia’s economy. There is no detailed analysis or military assessment related to the specific battlefield situation in Lyman or timelines for its potential capture.
 
-1. **Long-term Goals**: Russian President Vladimir Putin aims to overthrow Ukraine's democratically-elected government and replace it with a pro-Russian regime. This suggests that military actions, including the capture of key locations like Lyman, are part of a broader strategy rather than isolated territorial gains.
-
-2. **Intelligence Insights**: European intelligence sources report that Putin does not intend to quickly end the war, indicating a sustained military effort. This could imply that Russia will continue to push for control over strategic areas, including Lyman, as part of its overarching goals.
-
-3. **Kremlin's Position**: Senior Kremlin officials, including Foreign Minister Sergei Lavrov, have rejected any peace resolution that does not meet all of Russia's demands, further suggesting that military operations will persist until these objectives are achieved.
-
-4. **Military Strategy**: The ongoing rejection of negotiations and insistence on maximalist demands indicate that Russia may intensify its military efforts in contested regions, potentially impacting the situation in Lyman.
-
-Given these factors, the likelihood of Russia capturing all of Lyman by June 30, 2026, appears contingent on the continuation of its military campaign and the absence of significant Ukrainian resistance or international intervention.
-
-Title: Russian Offensive Campaign Assessment, Feb. 25, 2026 | ISW
-Author: Stefaniia Bern
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-25-2026/
-Summary: The Russian Offensive Campaign Assessment from February 25, 2026, indicates that while Russian forces have successfully captured the town of Pokrovsk, they have not made significant advances beyond it, particularly towards Lyman. The assessment notes that Russian forces have not observed any operationally significant movements northwest or west from Pokrovsk since December 2025, and they have yet to capture Hryshyne, located just two kilometers away. This suggests that the Russian military's ability to extend its control further into Donetsk Oblast, including Lyman, is currently limited.
-
-Additionally, the lengthy and costly battle for Pokrovsk, which took nearly two years, reflects challenges that may hinder rapid advances in the region. The report emphasizes that the Kremlin's claims of imminent further gains in Donetsk are not substantiated by current operational realities. Therefore, based on the assessment, it appears unlikely that Russia will capture all of Lyman by June 30, 2026, given the current stagnation in their offensive capabilities and the fortified defenses in the area.
-
-Title: Russian Offensive Campaign Assessment, February 24, 2026 | ISW
-Author: Jordan Glynn
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-24-2026/
-Summary: As of February 24, 2026, the situation on the battlefield indicates that Russia is facing significant challenges in its offensive operations against Ukraine. Recent Ukrainian successes, particularly in the Kupyansk area, have demonstrated that Russian claims of inevitable victory are unfounded. Ukrainian forces have made substantial territorial gains, liberating approximately 200 square kilometers in various regions, including Kupyansk, Oleksandrivka, and Hulyaipole.
-
-Despite ongoing Russian efforts to stabilize their positions and prepare for a Spring-Summer 2026 offensive, Ukrainian counterattacks have disrupted these plans. The current dynamics suggest that while Russian forces may attempt to regain lost ground, they are likely to be hindered by their attrition and the need to first establish stable defensive positions.
-
-Given these developments, predicting that Russia will capture all of Lyman by June 30, 2026, appears uncertain. The ongoing Ukrainian counterattacks and the vulnerabilities within Russian command and control systems indicate that achieving total control over Lyman may be more challenging for Russia than previously anticipated.
-
-Title: Russian Offensive Campaign Assessment, Feb. 27, 2026 | ISW
-Author: Stefaniia Bern
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://isw.pub/UkrWar022726
-Summary: The Russian Offensive Campaign Assessment from February 27, 2026, indicates that Russian forces are preparing for a significant offensive against Ukraine's Fortress Belt in Donetsk Oblast, which includes Lyman. Recent artillery strikes on Bilenke, near Kramatorsk, suggest that Russia is initiating preparations for a ground assault in the near term. The assessment highlights that Russian forces are conducting a battlefield air interdiction campaign to degrade Ukrainian defenses, which could impact the situation in Lyman.
-
-Additionally, reports indicate that Russia is reinforcing its military presence in the Slovyansk direction, suggesting a focus on offensive operations in this area. However, the assessment notes that a successful capture of the Fortress Belt, including Lyman, would likely require substantial time, manpower, and resources, and Russian forces have struggled to concentrate the necessary resources for a decisive operation.
-
-In summary, while there is an active Russian military buildup and preparation for an offensive, the complexity and resource demands of capturing Lyman by June 30, 2026, remain uncertain.
+Title: Russian Offensive Campaign Assessment, March 3, 2026 | ISW
+Author: Nadia Sleiman
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-3-2026/
+Summary: The March 3, 2026, ISW assessment highlights ongoing Ukrainian advances and Russian defenses in the context of the broader Ukraine conflict. Ukrainian forces have recently regained more territory than they lost in late February 2026, indicating a possible strengthening of Ukrainian positions. Meanwhile, Russia continues to defend key areas like Lyman, which remains a strategic focal point. Russia's ability to capture all of Lyman by June 30, 2026, depends on several factors: the strength and resilience of Ukrainian defenses, ongoing Ukrainian counteroffensives, and the impact of Western military aid, particularly if Ukraine receives advanced long-range weapons like Tomahawk missiles (which the US has denied but could significantly enhance Ukrainian strike capabilities). Russian forces may attempt to intensify efforts to encircle or seize Lyman, but Ukrainian recent territorial gains and ongoing defensive preparations suggest that the outcome by mid-2026 remains uncertain, with the potential for continued contestation rather than a definitive Russian capture.
 
 
