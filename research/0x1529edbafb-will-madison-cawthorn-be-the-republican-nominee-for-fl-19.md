@@ -1,7 +1,7 @@
 # Research: Will Madison Cawthorn be the Republican nominee for FL-19?
 
 **Market ID:** 0x1529edbafb824abafb135b50229badd58d073215c8f965ede564be9fbd120fe1
-**Researched At:** March 1, 2026 at 02:34:47 PM UTC
+**Researched At:** March 6, 2026 at 02:48:25 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Madison Cawthorn be the Republican nominee for FL-19?"
 
 ---
@@ -9,48 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.2¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-The Fratto endorsement slightly boosts Cawthorn’s chances, but a crowded field and lack of polling keep his odds around 20%. There’s no strong evidence of a multi‐cent mispricing.
+Recent MAGA endorsement of Cawthorn boosts his profile, but no polling or clear frontrunner status supports a ~17% market price. The evidence neither indicates a large mispricing nor the definitive rise or fall of his odds.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Madison Cawthorn be the Republican nominee for Florida’s 19th Congressional District in the August 18, 2026 primary?” A “YES” requires Cawthorn to win that primary and be officially designated by November 3, 2026. A “NO” includes any other nominee or a failure to announce by the cutoff.
+- The market asks whether Madison Cawthorn will secure the Republican nomination for Florida’s 19th Congressional District, decided by a primary on August 18, 2026.  
+- YES if Cawthorn wins that primary and is officially declared the nominee by party sources by November 3, 2026; NO otherwise (including “Other” if no nominee is named by that deadline).  
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• February 25, 2026 – Johnny Fratto (a fellow MAGA‐aligned candidate) suspended his campaign and endorsed Cawthorn, consolidating part of the MAGA vote. Source: FloridaPolitics.com (recent, credible local outlet).  
-• Cawthorn’s prior congressional service could lend name recognition and fundraising advantages.  
+Bullish evidence (suggesting price may be too low):  
+- 2026-02-25: Johnny Fratto (a MAGA‐aligned candidate) dropped out and endorsed Cawthorn, indicating consolidation of the MAGA faction behind him and likely boosting his ground organization and fundraising.  
 
-Bearish signals:  
-• February 19, 2026 – Reports note a crowded primary in CD-19 with contenders like Catalina Lauf and Jim Oberweis emphasizing local issues (e.g., water quality). Cawthorn must convince voters he cares about CD-19’s priorities despite his outsider/background controversies. Source: The Floridian (local political site).  
-• No public polling demonstrates a significant lead for Cawthorn; his national controversies could depress GOP primary support in a new district.  
-Neutral/indirect:  
-• Legal questions around insurrection disqualification (Fourth Circuit opinion, BBC’s 14th Amendment piece) could color perceptions but have not disqualified him to date.  
-• Ballotpedia provides broad election context but no candidate‐specific data.
+Bearish evidence (supporting the 17% price):  
+- No public polling or clear frontrunner emerges in the February 2026 reporting—articles from 2026-02-19 and earlier emphasize a still-crowded field and do not cite any candidate leading by more than single digits.  
+- Cawthorn’s well-documented controversies and legal/financial baggage (2025-09-05 WLOS report) could suppress his share of the Republican electorate.  
+- His candidacy is relatively recent, and although he has name recognition, it remains unclear if that translates into primary votes against local or better-funded opponents.  
 
-No single piece of evidence strongly contradicts a ~20% chance, nor is there overwhelming proof he’s likely to win. Both side’s arguments appear priced in at a mid‐teens to low‐20s probability.
+Source credibility and recency:  
+- The Fratto endorsement (FloridaPolitics.com, 2026-02-25) and Floridian Press coverage (2026-02-19) are current and locally focused, but neither includes polling data. WLOS (2025-09) and Fox (2025-10) provide background but not up-to-date performance metrics.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 19.8% price plausibly reflects a consensus that Cawthorn has nonzero name recognition and a MAGA base but faces a crowded field and potential local‐issues deficits.  
-• Low $448 trading volume suggests limited participation but also a narrow spread (5.4¢), indicating the few active traders agree on this mid‐range probability.  
-• It’s unclear whether more informed FL‐19 specialists have engaged; but absence of polling data likely leaves the market cautious.
+- A 17% probability could reflect a roughly even split among 5–7 viable candidates in a crowded MAGA-leaning primary.  
+- The zero-volume, tight-spread market suggests thin participation; the price may hinge on one liquidity provider rather than broad consensus.  
+- Low engagement could indicate either that informed traders have priced in the obvious uncertainties or that the race hasn’t attracted serious attention.  
 
 4. MISPRICING ASSESSMENT  
-• Bullish Fratto endorsement might bump Cawthorn’s probability slightly above 20%, but lack of concrete polling or broad endorsements keeps the view conservative.  
-• No clear, high‐quality evidence (e.g., internal campaign polling, major party endorsements beyond Fratto, fundraising leads) is missing from the market price.  
-• Given remaining uncertainty and standard primary volatility, a ~20% market probability appears neither obviously too low nor too high.
+- There’s no direct evidence (e.g., polling) that Cawthorn’s odds are materially higher or lower than the market’s 17%.  
+- The Fratto endorsement is a bullish data point but unlikely to swing his win probability by more than a few percentage points absent follow-up: we lack evidence of comparable withdrawals or coalescing support.  
+- Given the absence of disqualifying developments but also the persistent uncertainties (crowded field, controversies), a mid-teens probability is plausible. There is no compelling sign of > 20¢ mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~10% (we have only modest signals).  
-Estimated magnitude of mispricing if any: ~2 cents.  
-Expected value = 10% × 2¢ = 0.2¢
+- Strength of missing evidence (polls or more endorsements): ~30%  
+- Magnitude of potential mispricing: ~5¢  
+- Expected value = 30% × 5¢ ≈ 1.5¢  
 
-EXPECTED_VALUE: 0.2  
-SUMMARY: The Fratto endorsement slightly boosts Cawthorn’s chances, but a crowded field and lack of polling keep his odds around 20%. There’s no strong evidence of a multi‐cent mispricing.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Recent MAGA endorsement of Cawthorn boosts his profile, but no polling or clear frontrunner status supports a ~17% market price. The evidence neither indicates a large mispricing nor the definitive rise or fall of his odds.  
 CONFIDENCE: medium
 
 ---
@@ -63,49 +62,29 @@ Title: Johnny Fratto leaves CD 19 field, endorses Madison Cawthorn to succeed By
 Author: Jacob Ogles
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://floridapolitics.com/archives/782224-johnny-fratto-leaves-cd-19-field-endorses-madison-cawthorn-to-succeed-byron-donalds/
-Summary: Johnny Fratto has officially suspended his campaign for Florida's 19th Congressional District (CD 19) and endorsed Madison Cawthorn as his successor. This endorsement is significant as both Fratto and Cawthorn are aligned with the MAGA wing of the Republican Party, which may consolidate support for Cawthorn among voters who favor this faction. The dynamics of the race could be influenced by Fratto's decision, potentially increasing Cawthorn's chances of becoming the Republican nominee. Factors to consider in predicting Cawthorn's nomination include his previous congressional experience, the level of support from the MAGA base, and the reactions of other candidates in the race.
+Summary: Johnny Fratto, a Naples Republican and member of the MAGA wing, has suspended his congressional campaign in Florida's 19th District and endorsed former U.S. Rep. Madison Cawthorn to succeed Byron Donalds. Fratto's endorsement suggests strong support within the party's MAGA faction for Cawthorn's candidacy. Given Fratto's influence and the current political dynamics, Cawthorn's prospects for securing the Republican nomination appear favorable, especially among MAGA-aligned voters. However, as the race was previously crowded, the ultimate nomination will depend on ongoing campaign developments and voter preferences.
+
+Title: Madison Cawthorn aims to make a political comeback, announces ...
+Published Date: 2025-10-01T00:00:00.000Z
+URL: https://www.foxnews.com/politics/madison-cawthorn-aims-make-political-comeback-announces-run-congress
+Summary: Madison Cawthorn, a former Congressman known for his conservative stance and controversial presence in politics, has announced his intention to make a political comeback by running for Congress again. While the article details his campaign efforts and ambitions, it does not specify the current status of his candidacy or his prospects in the upcoming race for Florida's 19th Congressional District (FL-19). To determine whether Cawthorn is likely to be the Republican nominee for FL-19, one should consider his previous political influence, campaign momentum, support within the Republican Party, and the competitive landscape of the district. However, as of now, there is no definitive information confirming his nomination or the likelihood of him securing it.
 
 Title: Republican Candidates Looking to Replace Byron Donalds in Congress Talk About Water Issue, Needs of CD 19 Voters (Part 1) · The Floridian
 Author: Javier Manjarres
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://floridianpress.com/2026/02/republican-candidates-looking-to-replace-byron-donalds-in-congress-talk-about-water-issue-needs-of-cd-19-voters-part-1/
-Summary: The article discusses the competitive race among Republican candidates vying to replace Byron Donalds in Florida's 19th District, focusing on key issues such as water quality, which is a significant concern for local voters. Among the candidates, Madison Cawthorn is mentioned alongside others like Catalina Lauf and Jim Oberweis, as they engage with constituents at a fundraising event.
+Summary: The article discusses the upcoming Republican primary race to replace Byron Donalds in Florida's 19th District, highlighting various candidates' efforts to appeal to voters on key issues like water quality. Notably, Madison Cawthorn, a former U.S. Representative, is among the candidates participating in the race. While the article details the candidates' positions and campaign activities, it does not specify whether Madison Cawthorn is the frontrunner or the likely nominee. Therefore, based on this information, it is unclear if Madison Cawthorn will be the Republican nominee for FL-19.
 
-Cawthorn's prospects for becoming the Republican nominee may hinge on his ability to address pressing local issues, particularly water quality, which has been a priority for Donalds. The candidates, including Cawthorn, are emphasizing their plans to tackle environmental concerns and secure funding for water quality projects, which could resonate with voters. 
-
-Given the importance of these issues and the candidates' strategies to connect with the Republican base, Cawthorn's chances of securing the nomination will likely depend on his effectiveness in articulating his stance on these matters and differentiating himself from his opponents in a crowded field.
-
-Title: The 14th Amendment plan to disqualify Trump, explained - BBC
-Published Date: 2024-02-07T00:00:00.000Z
-URL: https://www.bbc.com/news/world-us-canada-66690276
-Summary: The article discusses a legal strategy involving the 14th Amendment aimed at disqualifying Donald Trump from the 2024 presidential ballot due to his alleged role in the January 6 Capitol riot. This strategy has gained traction in states like Colorado and Maine, where courts have ruled that Trump should be barred from the ballot under Section 3 of the 14th Amendment, which prohibits individuals who have engaged in insurrection from holding office. These rulings are currently on hold pending appeals, with the Supreme Court expected to make a final decision.
-
-While the article does not directly address Madison Cawthorn or his candidacy for FL-19, the implications of Trump's legal challenges could influence the broader Republican landscape, including the dynamics of candidate nominations. If Trump's disqualification were to proceed, it might shift the focus and support within the party, potentially impacting Cawthorn's chances as a nominee. Additionally, Cawthorn's own political future may be affected by the ongoing legal and political ramifications surrounding Trump and the Republican Party's response to insurrection-related issues.
+Title: Report: Former US Rep. Madison Cawthorn plans political ... - WLOS
+Author: Kelly Doty
+Published Date: 2025-09-05T00:00:00.000Z
+URL: https://wlos.com/news/election/madison-cawthorn-plans-political-comeback-florida-former-representative-western-north-carolina-district-11-controversies-congress-primary-chuck-edwards
+Summary: Madison Cawthorn, a former U.S. Representative from North Carolina, is planning a political comeback by running for Florida’s 19th Congressional District seat, which will be open due to Rep. Byron Donalds' campaign for governor. Cawthorn has met with Republican lawmakers to discuss his bid. However, his previous political career was marred by controversies, including claims of involvement in inappropriate activities, firearms violations, and other scandals that contributed to his 2022 primary defeat. After relocating to Florida, he faces ongoing legal and political challenges, such as a suspended license for unpaid fines. While he is actively pursuing a congressional run, his prospects as the Republican nominee remain uncertain, given his controversial history and the competitive nature of the race.
 
 Title: [PDF] Appellee, v. BARBARA L - Fourth Circuit Court of Appeals
 Author: 
 Published Date: 2022-05-24T00:00:00.000Z
 URL: https://www.ca4.uscourts.gov/opinions/221251.p.pdf
-Summary: The document is a published opinion from the Fourth Circuit Court of Appeals regarding the case of Madison Cawthorn v. Barbara Lynn Amalfi et al. The case centers on constitutional issues related to disqualification from office under the Fourteenth Amendment, specifically concerning individuals who have engaged in insurrection or rebellion. The court reversed and vacated a lower court's decision, indicating a significant legal ruling that may impact Cawthorn's political future.
-
-While the document does not directly address Cawthorn's candidacy for the Republican nomination for Florida's 19th congressional district (FL-19), the outcome of this case could influence his eligibility and public perception. Given the legal context surrounding disqualification and the involvement of various political parties and amici curiae, Cawthorn's standing within the Republican Party may be affected by the ruling and ongoing legal interpretations of his actions.
-
-For predicting whether Madison Cawthorn will be the Republican nominee for FL-19, consider factors such as the implications of this court ruling, his current political support, and the dynamics within the Republican Party in Florida.
-
-Title: Florida elections, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Florida_elections,_2026
-Summary: The webpage from Ballotpedia provides comprehensive information about the upcoming 2026 elections in Florida, including details on federal, state, and local elections. While it does not specifically mention Madison Cawthorn or his candidacy for the Republican nomination in Florida's 19th congressional district (FL-19), it outlines the election landscape that could influence such predictions.
-
-Key points relevant to predicting Cawthorn's chances include:
-
-1. **Election Context**: The page discusses various offices up for election, including U.S. Congress, which encompasses the FL-19 seat. Understanding the competitive landscape and other candidates in the race will be crucial.
-
-2. **Political Climate**: The dynamics of the Republican Party in Florida, including voter sentiment and party support, will play a significant role in Cawthorn's nomination prospects.
-
-3. **Election Dates and Processes**: The webpage provides information on important election dates and procedures, which are essential for gauging the timeline of Cawthorn's campaign efforts.
-
-4. **Ballot Measures and Local Issues**: Local ballot measures and issues may also impact voter turnout and preferences, indirectly affecting Cawthorn's nomination.
-
-For a more accurate prediction regarding Madison Cawthorn's candidacy, it would be beneficial to monitor local political developments, polling data, and party endorsements as the election date approaches.
+Summary: The provided document is a court opinion from the Fourth Circuit Court of Appeals concerning a legal case involving Madison Cawthorn, who is identified as the plaintiff-appellee. The case involves multiple parties, including North Carolina election officials and political parties, and addresses constitutional issues related to election law and eligibility. The opinion discusses historical constitutional provisions, specifically the 14th Amendment's disqualification clause for insurrection or rebellion, and the legislative actions taken to remove such disqualifications. While the case's focus is on legal and constitutional questions, it does not directly address Madison Cawthorn's candidacy or prospects for the FL-19 district in Florida. Therefore, the document provides context on legal challenges and constitutional standards that could influence Cawthorn's eligibility or political future but does not contain specific information about his potential to be the Republican nominee for FL-19.
 
 

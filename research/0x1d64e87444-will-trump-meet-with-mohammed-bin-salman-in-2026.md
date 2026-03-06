@@ -1,7 +1,7 @@
 # Research: Will Trump meet with Mohammed bin Salman in 2026?
 
 **Market ID:** 0x1d64e87444a527dc7363c4c4f9b1ba3d4096944d4e15f98ebb0c6ec065efc63b
-**Researched At:** March 1, 2026 at 02:33:15 PM UTC
+**Researched At:** March 6, 2026 at 02:47:36 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump meet with Mohammed bin Salman in 2026?"
 
 ---
@@ -9,46 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Publicly reported high-level engagements in late 2025, strong U.S.–Saudi strategic ties, and Trump’s planned attendance at the Saudi-linked FII conference all support a likely 2026 meeting, aligning with a ~69% probability. No clear, unpriced bearish factor emerged to justify a large deviation.
+No announced in-person meeting for Trump and MBS in 2026 exists, yet the market’s 64% seems to price in a high likelihood based on past meetings and Trump’s attendance at a Saudi conference. Absent concrete scheduling, the probability is likely closer to 50–55%, implying modest overpricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump and Saudi Crown Prince Mohammed bin Salman (MBS) will have at least one in-person, interactive meeting between January 1 and December 31, 2026. A “Yes” requires any face-to-face encounter; a “No” means none.
+The market asks whether former U.S. President Donald Trump (now back in the White House as of early 2026) will have an in-person encounter with Saudi Crown Prince Mohammed bin Salman anytime between January 1 and December 31, 2026. For a YES resolution, both must physically meet and interact during that window; any phone calls or remote discussions do not count.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports ≥69%):  
-• Trump hosted MBS in November 2025 at the White House (AP/Fortune, Pakistan TV), demonstrating a renewal of high-level ties.  
-• Ongoing transactional and defense partnerships (GIS Reports) give both parties reason to meet again in 2026.  
-• Trump is slated to attend the Saudi-hosted Future Investment Initiative (FII) conference in Miami March 26-29, 2026 (Reuters). Even though no official meeting is announced yet, MBS or senior Saudi delegation will likely attend—and a bilateral encounter is plausible.  
 
-Bearish (undermines 69%):  
-• AP News notes geopolitical headwinds—regional tensions, differing priorities, and the unresolved Palestinian-Israel issues—that could delay or limit meetings.  
-• No explicit confirmation from either side that MBS will attend FII or any other event with Trump in 2026.  
+Bullish (supports ≥64%):  
+• Reuters (2026-02-13) reports President Trump will attend the Saudi Future Investment Initiative (FII) conference in Miami March 26–29. That high-profile Saudi event could draw MBS, making an encounter plausible.  
+• Multiple reports (Mar 1) document MBS lobbying Trump by phone on Iran strikes—evidence of ongoing high-level engagement and mutual strategic interests that could lead to a face-to-face meeting.  
+• Trump and MBS met as recently as November 18, 2025 (CNBC), demonstrating they will schedule meetings when strategic interests align.
 
-Source credibility and recency:  
-All research is from reputable wire services (AP, Reuters) or subject-matter reports dated February 2026 or earlier. No stale or obviously biased outlets.
+Bearish (supports <64%):  
+• None of the sources confirm MBS will travel to Miami or appoint a U.S. visit in 2026. The FII conference may proceed without MBS’s presence.  
+• All lobbying took place via phone calls; no in-person summit or public schedule has been announced.  
+• Low trading volume and absence of new, concrete meeting plans suggest the market may be extrapolating past relationship patterns without fresh confirmation.
+
+Source credibility and recency: Reuters and CNBC are highly credible and recent. SMH and LatestLY mirror the same lobbying story; credible for evidence of ties but do not mention a planned meeting.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 69% price aligns with a view that past cooperation plus planned high-profile events (FII) make a meeting likely but not guaranteed.  
-• Low volume (≈$2.4 K) and tight spread imply few active traders but possibly informed ones, or simply that this event is unsurprising and uncontroversial enough that most traders haven’t bothered to trade much.
+A 64% price could reflect (a) the assumption that a major US-Saudi event or bilateral meeting is highly likely given strategic ties, (b) informed traders pricing in the FII conference as a probable locus for MBS to attend, or (c) one or two overconfident participants extrapolating from the 2025 meeting and lobbying calls. Low total volume (≈$2.4K) suggests limited trading interest—either because it’s seen as obvious or because no one has dug into the scheduling details.
 
 4. MISPRICING ASSESSMENT  
-• No strong, specific evidence suggests the market systematically under- or over-prices the meeting.  
-• While headwinds exist, the balance of publicly available evidence points toward at least one 2026 meeting.  
-• Given the question’s simplicity and credible evidence on both sides, 69% seems a reasonable consensus estimate.  
+There is solid evidence of high-level engagement but no direct confirmation of an in-person meeting in 2026. The market’s 64% may overstate the probability—absent an announced Saudi-US summit involving MBS, meeting risk remains notably below “almost certain.” However, given Trump’s attendance at a Saudi-hosted event and their recent history, the true probability likely sits around 50–55%. That suggests a modest overpricing, perhaps on the order of 10–15 cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is correct: ~80%  
-Magnitude of possible mispricing: ~5 cents  
-Expected value ≈ 0.80 × 5 cents = 4 cents  
+Strength of evidence that price is too high: ~60% (moderate confidence given lack of scheduling).  
+Estimated mispricing magnitude: ~15 cents.  
+Expected value = 60% × 15¢ = 9¢
 
-EXPECTED_VALUE: 4  
-SUMMARY: Publicly reported high-level engagements in late 2025, strong U.S.–Saudi strategic ties, and Trump’s planned attendance at the Saudi-linked FII conference all support a likely 2026 meeting, aligning with a ~69% probability. No clear, unpriced bearish factor emerged to justify a large deviation.  
+EXPECTED_VALUE: 9.0  
+SUMMARY: No announced in-person meeting for Trump and MBS in 2026 exists, yet the market’s 64% seems to price in a high likelihood based on past meetings and Trump’s attendance at a Saudi conference. Absent concrete scheduling, the probability is likely closer to 50–55%, implying modest overpricing.  
 CONFIDENCE: medium
 
 ---
@@ -57,37 +55,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Headwinds for Trump in persuading the Saudi crown prince to agree to normalize ties with Israel
-URL: https://apnews.com/article/trump-saudi-arabia-israel-abraham-accords-mbs-24efae2972c9c4a488fcda5ff8c5ad1f
-Summary: The article discusses the challenges Donald Trump faces in persuading Saudi Crown Prince Mohammed bin Salman (MBS) to normalize relations with Israel during his upcoming visit to Washington. Key factors influencing this potential meeting include Trump's previous administration's efforts to broker peace in the Middle East, the current geopolitical climate, and MBS's strategic interests. The piece highlights that while Trump aims to leverage his past relationships and diplomatic initiatives, there are significant headwinds, such as regional tensions and differing priorities between the U.S. and Saudi Arabia. 
-
-For predicting whether Trump will meet with MBS in 2026, consider the evolving political landscape, Trump's ongoing influence in U.S. politics, and Saudi Arabia's foreign policy objectives at that time. The dynamics of U.S.-Saudi relations and the broader Middle Eastern context will also play crucial roles in determining the likelihood of such a meeting.
-
 Title: Trump expected to attend Saudi FII conference in Miami, sources say | Reuters
 Author: Hadeel Al Sayegh
 Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.reuters.com/world/us/trump-expected-attend-saudi-fii-conference-miami-sources-say-2026-02-13/?link_source=ta_bluesky_link&taid=698f1bae11ecd2000128b1f3&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
-Summary: Donald Trump is expected to attend the Future Investment Initiative (FII) conference in Miami from March 26-29, 2026, marking his second consecutive appearance since returning to the White House. The event will be hosted by Yasir Al-Rumayyan, the governor of Saudi Arabia's Public Investment Fund. Trump's participation underscores the significance of U.S.-Saudi economic partnerships, particularly as Saudi Arabia seeks to attract private sector investment for its Vision 2030 economic transformation program.
+URL: http://reuters.com/world/us/trump-expected-attend-saudi-fii-conference-miami-sources-say-2026-02-13/
+Summary: The article reports that U.S. President Donald Trump is expected to attend the Saudi Future Investment Initiative (FII) conference in Miami from March 26-29, marking his second appearance since returning to the White House. The event is a platform for Saudi Arabia to strengthen economic ties with international investors, particularly as the kingdom shifts its Vision 2030 economic reform strategy toward greater private sector involvement due to funding challenges. Trump’s participation underscores the ongoing importance of Gulf-U.S. economic partnerships, especially following recent investment and defense agreements between Saudi Arabia and the U.S., including Riyadh’s commitment to invest up to $1 trillion in the U.S. The article does not mention any scheduled meetings between Trump and Crown Prince Mohammed bin Salman in 2026; however, Trump’s continued engagement with Saudi economic initiatives suggests ongoing diplomatic and economic relations, which could influence future interactions.
 
-While the article does not explicitly confirm a meeting between Trump and Saudi Crown Prince Mohammed bin Salman (MBS), the context suggests that Trump's attendance at such a high-profile event could facilitate discussions with MBS, especially given their history of collaboration on investment and defense agreements. The FII conference aims to engage North and South American business leaders, which may also provide an opportunity for Trump and MBS to connect. However, no official comments have been made by the FII Institute, Saudi officials, or the White House regarding a specific meeting between the two leaders.
+Title: Mohammed bin Salman: Saudi crown prince secretly lobbied Trump to attack Iran
+Author: Melanie Swan, Kieran Kelly
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.smh.com.au/world/middle-east/saudi-crown-prince-secretly-lobbied-trump-to-attack-iran-20260302-p5o6ln.html
+Summary: In early 2026, Mohammed bin Salman, the Saudi crown prince, reportedly lobbied then-US President Donald Trump multiple times via phone calls to advocate for military strikes against Iran. These efforts highlight a close diplomatic engagement and suggest that discussions between the two leaders regarding regional security and Iran's actions were ongoing. Given their direct communication and the strategic importance of their relationship, there is a possibility that a meeting could occur in 2026, especially considering the high-level talks and shared interests in regional stability and countering Iran.
 
-Title: Trump expected to treat Saudi crown prince as a full ally, with multibillion-dollar deals on F-35s and AI infrastructure
-Author: The Associated Press
-URL: https://fortune.com/2025/11/18/trump-mbs-crown-prince-f35-normalization-ai-investments-khashoggi/
-Summary: In November 2025, President Donald Trump is set to host Saudi Crown Prince Mohammed bin Salman (MBS) at the White House, marking MBS's first visit since the controversial killing of journalist Jamal Khashoggi in 2018. The meeting signifies a renewed alliance between the U.S. and Saudi Arabia, with Trump emphasizing the importance of MBS in shaping the future of the Middle East. During this visit, they are expected to announce significant multibillion-dollar deals, including F-35 fighter jets and advancements in AI infrastructure. Given the strengthening ties and Trump's favorable view of the crown prince, it is plausible that Trump may meet with MBS again in 2026, especially if ongoing geopolitical dynamics continue to favor their partnership.
+Title: Saudi Arabia Crown Prince Mohammed Bin Salman Urged Donald Trump To Strike Iran, Called Him Multiple Times Privately: Report | 🌎 LatestLY
+Author: Kabir
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.latestly.com/world/saudi-arabia-crown-prince-mohammed-bin-salman-urged-donald-trump-to-strike-iran-called-him-multiple-times-privately-report-7335152.html
+Summary: The webpage reports on a recent revelation that Saudi Crown Prince Mohammed Bin Salman urged then-President Donald Trump to strike Iran and reportedly made multiple private calls to him regarding this matter. While the article emphasizes the diplomatic and strategic communications between MBS and Trump, it does not specify whether a meeting between Trump and MBS is scheduled or will occur in 2026. Therefore, based on this information, there is no direct indication or confirmation that Trump and Mohammed Bin Salman will meet in 2026.
 
-Title: U.S.-Saudi transactional ties and strategic ambitions – GIS Reports
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.gisreportsonline.com/r/us-saudi-trump/
-Summary: The article discusses the evolving relationship between the U.S. and Saudi Arabia under President Donald Trump, particularly highlighting the strategic and transactional nature of their ties. In 2025, Trump and Crown Prince Mohammed bin Salman (MbS) solidified their partnership through significant agreements, including defense deals and Saudi Arabia's designation as a "major non-NATO ally." The relationship is driven by mutual interests: Trump aims to boost U.S. economic growth through Saudi investments, while MbS seeks to enhance Saudi Arabia's global standing.
+Title: Mohammed bin Salman: Saudi crown prince secretly lobbied Trump to attack Iran
+Author: Melanie Swan, Kieran Kelly
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://news.smh.com.au/world/middle-east/saudi-crown-prince-secretly-lobbied-trump-to-attack-iran-20260302-p5o6ln.html
+Summary: In 2026, Mohammed bin Salman, the Saudi crown prince, actively lobbied former US President Donald Trump to consider launching military strikes against Iran, emphasizing his support for such actions during multiple phone calls. The Saudi leadership, alongside Israel, sought US intervention amid ongoing tensions and Iran's retaliatory attacks across the Middle East. While these diplomatic efforts highlight MBS's influence and strategic engagement with the US, there is no publicly available information confirming a scheduled or planned meeting between Trump and MBS in 2026.
 
-Given the warming relations and ongoing strategic collaboration, it is plausible that Trump may meet with MbS in 2026, especially if both leaders continue to prioritize economic and defense partnerships. The context of regional stability and the U.S.'s interests in the Middle East will likely influence the likelihood and timing of such a meeting.
-
-Title: Saudi crown prince says two-state solution key to Israel normalization talks
-Author: Web Desk
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.pakistantv.com/article/trump-welcomes-saudi-crown-prince-to-white-house
-Summary: In a recent meeting between Saudi Crown Prince Mohammed bin Salman and US President Donald Trump, the crown prince emphasized the importance of a two-state solution to the Israeli-Palestinian conflict as a prerequisite for Saudi Arabia's participation in the Abraham Accords. This meeting, which took place in the Oval Office, highlighted Trump's ongoing efforts to strengthen ties with Saudi Arabia and promote regional peace initiatives. Bin Salman also announced a significant increase in Saudi investments in the US, indicating a deepening economic relationship. Given the context of their discussions and the strategic interests involved, it is plausible that Trump and bin Salman could meet again in 2026, especially if diplomatic efforts regarding Israel and the Palestinian issue continue to evolve.
+Title: Trump meets with Saudi Crown Prince Mohammed bin Salman
+Author: Dan Mangan
+Published Date: 2025-11-18T00:00:00.000Z
+URL: https://www.cnbc.com/2025/11/18/trump-saudi-arabia-mohammed-bin-salman-mbs.html
+Summary: The article reports that President Donald Trump met with Saudi Crown Prince Mohammed bin Salman in the Oval Office on November 18, 2025. During the meeting, both leaders addressed questions about the 2018 killing of journalist Jamal Khashoggi, with Trump dismissing inquiries and describing the incident as "things happen," while bin Salman expressed regret over the event and emphasized ongoing efforts to improve Saudi Arabia's investigative processes. Given that the meeting took place in late 2025 and involved direct engagement between Trump and bin Salman, this suggests a continued diplomatic relationship. However, the article does not specify plans for future meetings beyond 2025. Therefore, predicting whether Trump will meet with bin Salman in 2026 remains uncertain, but the 2025 encounter indicates the possibility of ongoing diplomatic interactions.
 
 

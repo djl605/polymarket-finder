@@ -1,48 +1,47 @@
 # Research: Will Adam Crum advance from the 2026 Alaska Governor primary election?
 
 **Market ID:** 0x73ed39e6ef4b022710fcfa177b343e68d057045833ce53a322062de48291fe91
-**Researched At:** March 1, 2026 at 06:09:59 AM UTC
+**Researched At:** March 6, 2026 at 02:48:37 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Adam Crum advance from the 2026 Alaska Governor primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.5¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Research yields no polls, endorsements, or fundraising data to challenge the 20% price. A crowded field and Crum’s low visible momentum justify a discount from the naïve 25–29% baseline, so there’s no strong mispricing signal.
+There’s virtually no public polling or strong fundraising data on Crum, while at least four rivals are clearly better-funded, making a 20% chance broadly in line with a 4/17 baseline. No specific evidence indicates a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Adam Crum will finish among the top four vote-getters in the August 18, 2026 Alaska gubernatorial primary, thus advancing to the general election. A “Yes” requires him to place 1st–4th in total primary votes; a “No” if he places 5th or lower (or if the primary is canceled).
+The market asks whether Adam Crum will finish among the top four vote-getters in the August 18, 2026 non-partisan Alaska governor primary. A “Yes” means he places 1st–4th; a “No” means he places 5th or lower (or the primary doesn’t occur).  
 
 2. EVIDENCE EVALUATION  
-Bullish factors (for a higher than 20% chance):  
-• Baseline egalitarian logic: with ~14–16 candidates, four advance → naïvely 25–29% chance.  
-• Crum’s government experience (former health commissioner, revenue commissioner) could appeal to voters seeking competence.  
-Bearish factors (for a lower than 20% chance):  
-• No polling data, endorsements, or fundraising figures in the research suggests Crum is trailing better-known or better-funded candidates.  
-• A crowded Republican field (11 candidates in one report) intensifies intraparty competition.  
-Source credibility: All articles are from local/regional outlets or Ballotpedia (highly credible) but report no quantitative performance metrics. No evidence appears “hidden” from the market—if clear polls existed, traders would likely have acted.
+Bullish for Crum:  
+• None of the five articles provides polling data or notable fundraising figures for Crum.  
+Bearish for Crum:  
+• Jeff Landfield (2026-02-24) flags that Crum’s grassroots fundraising appears weak or under-reported, suggesting limited donor base and self-funding compared to other Republicans.  
+• Multiple reports highlight better-funded rivals (Heilala, Taylor, Kreiss-Tomkins, Hughes) with $700K–$1.3M in war chests, implying Crum is likely outmatched.  
+Source credibility and recency: All sources are local political outlets from Feb ’26 or earlier—reasonably current, but none are polling or official election results.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 20% price may simply reflect Crum’s underdog status in a crowded field, slightly below the equal-chance benchmark. Low volume could mean informed traders see no compelling new signal and leave the price at a rough consensus, rather than indicating an overlooked inefficiency. Alternatively, one or two traders might have skewed the price, but absent contradictory data, the price seems a plausible consensus estimate.
+A 20% price aligns with a naïve 4 out of ~17 candidate baseline (~23%). Low volume suggests either consensus that Crum’s odds hover near this baseline or simply inattentive traders setting a round-number price. No evidence of a single dominant trader pushing a skewed price.  
 
 4. MISPRICING ASSESSMENT  
-Given no polling or concrete support/endorsement data, there is no specific evidence that a >5-10 cent mispricing exists. The 20% figure is reasonably in line with both a baseline equal-chance (25–29%) discounted for lack of visible momentum. No technical resolution issues or overlooked conditions are apparent.
+Given the absence of any positive indicators (polling, endorsements, fundraising) and clear weaknesses relative to at least four better-funded candidates, a 20% chance is broadly plausible. There is no specific, reliable evidence that the market has overlooked a major bullish or bearish factor.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 10% (scarce data, nothing definitive)  
-Magnitude of mispricing: 5 cents (at most modest under/overestimation)  
-Expected value = 0.10 × 5 = 0.5 cents
+Strength of evidence that price is wrong: ~20% (mostly absence of data)  
+Possible mispricing magnitude: ~5¢ (small tilt vs. 23% baseline)  
+Expected value = 0.20 × 5¢ = 1¢  
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: Research yields no polls, endorsements, or fundraising data to challenge the 20% price. A crowded field and Crum’s low visible momentum justify a discount from the naïve 25–29% baseline, so there’s no strong mispricing signal.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.0  
+SUMMARY: There’s virtually no public polling or strong fundraising data on Crum, while at least four rivals are clearly better-funded, making a 20% chance broadly in line with a 4/17 baseline. No specific evidence indicates a significant mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -50,63 +49,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Alaska’s race for governor picks up 16th candidate, a former state legislator from Sitka
+Title: The Republican gubernatorial gaslighters: Treg Taylor, Bernadette Wilson, and Adam Crum - The Alaska Landmine
+Author: Jeff Landfield
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://alaskalandmine.com/landmines/treg-taylor-bernadette-wilson-and-adam-crum-the-republican-gubernatorial-gaslighters/
+Summary: The article analyzes the early campaign finance reports for Alaska's 2026 gubernatorial race, highlighting the fundraising strengths and weaknesses of key Republican candidates. Treg Taylor, a former Attorney General, reports raising $880,000, with a significant portion coming from a few large donors and personal contributions, indicating reliance on a small donor base and substantial self-funding. Bernadette Wilson's fundraising appears convoluted, with a mix of in-kind contributions and donations, making her financial backing less transparent. Adam Crum's campaign finances are not detailed in the provided excerpt, but the overall analysis suggests that the top candidates, including Crum, may face challenges in demonstrating broad grassroots support based on their reported fundraising. This information could be relevant in assessing Crum's potential to advance from the primary, as strong, widespread grassroots support—often reflected in diverse and substantial campaign contributions—may be necessary for success.
+
+Title: Anchorage Republican spending lots of his own money in ...
 Author: James Brooks
-Published Date: 2026-02-04T00:00:00.000Z
-URL: http://alaskasnewssource.com/2026/02/04/alaskas-race-governor-picks-up-16th-candidate-former-state-legislator-sitka/
-Summary: Jonathan Kreiss-Tomkins, a former state legislator from Sitka, has entered the race for Alaska's governorship, becoming the 16th candidate and the third Democrat in the running. With incumbent Gov. Mike Dunleavy term-limited, the primary election will allow the top four vote-getters, regardless of party affiliation, to advance to the general election, where ranked-choice voting will be used. 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://alaskabeacon.com/2026/02/19/anchorage-republican-spending-lots-of-his-own-money-in-governors-race-early-campaign-records-show/
+Summary: The article focuses on early campaign fundraising for Alaska's 2026 gubernatorial race, highlighting that candidate Matt Heilala, an Anchorage doctor, is leading in personal spending and available funds, with over $1.2 million contributed by him and his wife. Other notable candidates include Treg Taylor, who has raised over $724,000 and made a significant self-donation, and Democratic candidate Jonathan Kreiss-Tomkins, who reports raising more than $750,000 since entering the race. Fundraising success is emphasized as a critical factor for campaign viability, though it does not guarantee election victory. The article does not mention Adam Crum or provide specific details about his campaign or prospects in the primary.
 
-Adam Crum, a former state revenue commissioner and Republican candidate, is among the contenders. His chances of advancing could depend on various factors, including his political experience, voter appeal, and campaign strategy in a crowded field that includes notable candidates from both parties. The dynamics of the primary, including voter sentiment and the effectiveness of his outreach, will be crucial in predicting whether he can secure a spot in the general election.
+Title: State of the Race: Polling-informed gubernatorial power rankings
+Author: Matt Acuña Buxton
+Published Date: 2025-11-13T00:00:00.000Z
+URL: https://thealaskacurrent.com/2025/11/13/state-of-the-race-polling-informed-gubernatorial-power-rankings/
+Summary: The article provides an overview of the current landscape of the 2026 Alaska gubernatorial race, highlighting the expanding field of candidates and recent polling insights. Notably, the race now includes 14 candidates, with Democratic State Senator Matt Claman entering the fray as a moderate candidate advocating for bipartisan cooperation. The race is characterized by intra-party infighting among the 12 Republican contenders, which could influence primary outcomes. While the article does not specifically mention Adam Crum, it emphasizes the competitive and dynamic nature of the primary, with polling data offering clarity on candidate standings. To assess whether Adam Crum might advance, one should consider his current polling position relative to other candidates, his political profile, and how intra-party dynamics and voter preferences are shifting as the race progresses.
 
-Title: Gubernatorial race attracts 14 candidates | The Cordova Times
-Author: The Cordova Times
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://thecordovatimes.com/2026/02/14/gubernatorial-race-attracts-14-candidates/
-Summary: The 2026 Alaska gubernatorial race features 14 candidates, including 11 Republicans and 3 Democrats, due to the term limit preventing incumbent Gov. Mike Dunleavy from running again. The primary election is set for August 18, 2026. Adam Crum, a Republican candidate, is among those competing for a chance to advance to the general election. Factors that could influence his chances include his political background, campaign strategies, voter sentiment, and the overall dynamics of the Republican field. As the primary approaches, monitoring polling data and endorsements will be crucial in assessing Crum's likelihood of advancing.
+Title: Anchorage Republican spending lots of his own money in governor’s race, early campaign records show - The Alaska Current
+Author: James Brooks, Alaska Beacon
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://thealaskacurrent.com/2026/02/24/anchorage-republican-spending-lots-of-his-own-money-in-governors-race-early-campaign-records-show/
+Summary: Anchorage Republican candidate Matt Heilala, who claims a connection to President Donald Trump, has become the top fundraiser among Alaska’s 17 gubernatorial candidates by personally investing nearly $1.3 million of his own funds into his campaign. Heilala, an Anchorage doctor, maintains significant remaining campaign funds, indicating strong financial backing early in the race. While this financial advantage suggests he could be a notable contender, there is no definitive information in the article about his likelihood of advancing from the primary election or how he compares to other candidates like Adam Crum.
 
-Title: Alaska’s race for governor picks up 16th candidate, a former state legislator from Sitka
+Title: Election 2026: Shelley Hughes hoping legislative achievements elevate her among a dozen Republicans seeking to be governor
 Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://alaskapublic.org/news/politics/2026-02-04/alaskas-race-for-governor-picks-up-16th-candidate-a-former-state-legislator-from-sitka
-Summary: Jonathan Kreiss-Tomkins, a former state legislator from Sitka, has announced his candidacy for the 2026 Alaska gubernatorial election, becoming the 16th candidate and the third Democrat in the race. With incumbent Gov. Mike Dunleavy term-limited, the primary will allow the top four vote-getters to advance to the general election, where ranked-choice voting will be used.
-
-Kreiss-Tomkins emphasizes the importance of addressing Alaska's fiscal challenges, particularly the state's ongoing budget uncertainty exacerbated by fluctuating oil prices. His experience in the Alaska House of Representatives from 2013 to 2023, including participation in a bipartisan fiscal working group, positions him as a candidate focused on compromise and problem-solving.
-
-To assess Adam Crum's chances of advancing from the primary, consider the following factors:
-
-1. **Candidate Landscape**: With 16 candidates, including Kreiss-Tomkins, the competition is significant. Crum's ability to differentiate himself and appeal to voters will be crucial.
-
-2. **Party Dynamics**: As a Republican, Crum will need to secure a strong base within his party while also appealing to independent voters, especially given the top-four primary system.
-
-3. **Voter Concerns**: Kreiss-Tomkins has highlighted fiscal issues as a primary concern. Crum's stance on budget management and economic policies could influence his support among voters prioritizing these issues.
-
-4. **Campaign Strategy**: The effectiveness of Cr
-
-Title: Alaska gubernatorial and lieutenant gubernatorial election, 2026
-URL: https://ballotpedia.org/Alaska_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The 2026 Alaska gubernatorial election will be significant, with the primary election set to determine the candidates for the general election. Adam Crum, who has previously served as the Commissioner of the Alaska Department of Health, is expected to be a notable contender. Factors that could influence his advancement include his political experience, public support, campaign strategy, and the political landscape leading up to the primary. 
-
-Key considerations for predicting Crum's success include:
-
-1. **Political Background**: Crum's experience in state government may appeal to voters looking for a candidate with a strong understanding of Alaska's issues.
-
-2. **Voter Sentiment**: Public opinion polls leading up to the primary will provide insights into his popularity compared to other candidates.
-
-3. **Campaign Funding**: The ability to raise funds and effectively campaign will be crucial for Crum's visibility and outreach.
-
-4. **Party Dynamics**: The support from the Republican Party and any endorsements from influential figures could significantly impact his chances.
-
-5. **Key Issues**: His stance on critical issues such as the economy, healthcare, and resource management will resonate with voters and could sway their decision.
-
-Monitoring these factors will be essential in assessing whether Adam Crum can successfully advance from the primary election in 2026.
-
-Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The document primarily discusses the 2026 gubernatorial races in New Jersey and Virginia, with a focus on candidates Mikie Sherrill and Jack Ciattarelli in New Jersey, and Abigail Spanberger in Virginia. However, it does not provide any specific information regarding Adam Crum or the Alaska gubernatorial primary election. 
-
-To predict whether Adam Crum will advance from the 2026 Alaska Governor primary election, one would need to consider factors such as his current political standing, voter support, campaign strategies, and any polling data available for the Alaska race. Additionally, insights into the political landscape in Alaska, including party dynamics and voter turnout trends, would be crucial for making an informed prediction. 
-
-For a comprehensive analysis, it would be beneficial to look for specific polling data, endorsements, and campaign activities related to Adam Crum in the context of the Alaska gubernatorial race.
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.juneauindependent.com/post/election-2026-shelley-hughes-hoping-legislative-achievements-elevate-her-among-a-dozen-republicans
+Summary: Shelley Hughes, a prominent Alaska Republican and former state Senate majority leader, is running for governor in 2026. She emphasizes her legislative achievements, pragmatic policy solutions, and commitment to regional interests, particularly in Southeast Alaska. Hughes criticizes current leadership, notably Governor Mike Dunleavy, and aims to distinguish herself among a crowded field of Republican candidates, including Lt. Gov. Nancy Dahlstrom and others. While her campaign focuses on experience and effective governance, the webpage does not provide specific information about her stance on or prospects in the primary election, nor does it mention Adam Crum or his potential to advance. Therefore, based on this webpage, there is no relevant information to predict whether Adam Crum will advance from the 2026 Alaska Governor primary.
 
 

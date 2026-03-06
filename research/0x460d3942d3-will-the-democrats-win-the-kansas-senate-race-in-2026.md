@@ -1,7 +1,7 @@
 # Research: Will the Democrats win the Kansas Senate race in 2026?
 
 **Market ID:** 0x460d3942d385cdeda20519c0c5ad804ae48dc18efc9a82e1f1be87a29e69adb3
-**Researched At:** March 1, 2026 at 05:59:12 AM UTC
+**Researched At:** March 6, 2026 at 02:47:36 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democrats win the Kansas Senate race in 2026?"
 
 ---
@@ -13,39 +13,44 @@
 
 ### Summary
 
-Current evidence—historic GOP dominance, no declared Dem candidate, and only speculative environment shifts—supports a ~15% chance and offers no clear mispricing. Traders appear to have reasonably discounted both Davids’ upside and Kansas’s Republican baseline.
+Qualitative research shows a possible Democratic opening in Kansas if Rep. Sharice Davids runs amid a GOP backlash, but Kansas’s strong Republican lean and lack of concrete polling leave the 16% price plausible. There is no compelling evidence of a large mispricing at this stage.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Democrats win the Kansas Senate race in 2026?” It resolves YES if the Democratic nominee wins the general (including any run-offs) and is called by AP/Fox/NBC or certified. NO otherwise.
+The market asks whether the Democratic nominee will win the 2026 Kansas U.S. Senate general election. A “YES” resolves if the Democratic nominee—once selected—prevails in the final election (including any run-off) as called by AP, Fox, and NBC (or via official certification). A “NO” resolves if any other nominee wins.
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• National environment: Trump’s low approval and midterm backlash dynamics historically favor the out-party.  
-• Independent voters in KS shifting (DNC chair Martin).  
-• Potential candidate Sharice Davids: strong grassroots fundraising ($2.3M vs. Marshall’s $2.5M), past upset wins (2018 by 9 points, 2022 by 12 points), compelling personal profile, possible DSCC support.  
+Bullish points (suggesting the price might be too low):  
+• Several February 2026 analyses note shifting voter dynamics in Kansas—rising support among independents, Latinos, younger and working-class voters—driven by a Trump backlash.  
+• DNC Chair Ken Martin labels incumbent Senator Roger Marshall vulnerable, pointing to sub-par approval ratings.  
+• Rep. Sharice Davids, if she runs, brings strong fundraising (≈$2.3 M in 2025), name recognition from her 2018 upset, and enhanced visibility amid GOP gerrymandering battles.  
+• Historical precedent: midterms often favor the out-party when the president is unpopular; some opinion writers see parallels (though most commentary oddly references Trump rather than Biden).
 
-Bearish signals:  
-• Kansas hasn’t elected a Democratic Senator since 1932—longest losing streak in nation.  
-• No Democratic candidate has officially declared; Marshall remains incumbent with solid fundraising.  
-• No public head-to-head polls; contrary polling cited by some sources suggests Marshall is stronger than DNC claims.  
+Bearish points (supporting 16% or lower):  
+• Kansas hasn’t elected a Democratic U.S. Senator since 1932; it remains solidly Republican (PVI ≈R+14).  
+• No declared top-tier Democratic candidate yet—Davids’s entry is speculative, and Democrats must first win a contested primary.  
+• Republican incumbents retain structural advantages (name ID, fundraising, GOP infrastructure).  
+• The midterm‐environment argument is muddied: if Biden’s approval recovers, the “midterm swing” could reverse; commentators risk over-extrapolating 2022 lessons to 2026.
 
-Source credibility: All pieces are from early Feb 2026 local news and opinion columns. They’re recent but largely speculative/opinion; no hard polling or structural modeling.
+Source credibility & recency: All findings are from early February 2026 local/national news outlets or opinion columns; they offer useful qualitative color but no public polling or hard numbers on the general election. Much of the “evidence” is speculative or conditional.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 15.5%, the market likely reflects: long GOP dominance, candidate uncertainty, and incumbent advantage weighed against a mildly favorable national environment. Low volume may reflect consensus that Dem victory is unlikely rather than neglect by informed traders.
+A 16% price can be justified by:  
+• Deep red baseline with only a speculative path for Democrats (strong candidate plus perfect environment).  
+• No public polling or declared candidate, so informed traders may be withholding capital.  
+• Low volume likely reflects consensus that there’s little to trade on until candidate fields and polling firm up, rather than a glaring oversight.
 
 4. MISPRICING ASSESSMENT  
-There’s no clear, overlooked catalyst that would boost Dem chances well above 15–20% given the historical baseline and candidate uncertainty. All major public info—environmental tailwinds, Davids’ strengths, GOP history—appears already discounted in a sub-20% probability.
+There’s no clear, quantitative evidence missing from the market price—no leaked polls, insider fundraising shifts, or other metrics that point to a materially higher or lower win probability. The research merely underscores a theoretical opening but also reaffirms the steep historical and structural headwinds. Without more concrete data (e.g., statewide polls or candidate declarations), a large mispricing (>20 cents) is unlikely.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: ~30% (public environment and candidate info likely priced in)  
-Magnitude if mispriced: ~3¢  
-Expected value ≈ 0.3×3¢ ≈ 1¢
+Strength of evidence for mispricing: 20% (weak – based mostly on conditional, qualitative factors)  
+Magnitude of mispricing: 5 cents (maximum plausible deviation)  
+Expected value = 0.20 × 5 cents = 1 cent
 
 EXPECTED_VALUE: 1  
-SUMMARY: Current evidence—historic GOP dominance, no declared Dem candidate, and only speculative environment shifts—supports a ~15% chance and offers no clear mispricing. Traders appear to have reasonably discounted both Davids’ upside and Kansas’s Republican baseline.  
+SUMMARY: Qualitative research shows a possible Democratic opening in Kansas if Rep. Sharice Davids runs amid a GOP backlash, but Kansas’s strong Republican lean and lack of concrete polling leave the 16% price plausible. There is no compelling evidence of a large mispricing at this stage.  
 CONFIDENCE: medium
 
 ---
@@ -58,59 +63,30 @@ Title: DNC chair thinks Kansas Democrats will break GOP supermajority in 2026
 Author: Jason Alatidd
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://eu.cjonline.com/story/news/politics/elections/2026/02/12/dnc-chair-thinks-kansas-democrats-will-break-gop-supermajority-in-2026/88588918007/
-Summary: Democratic National Committee chair Ken Martin expresses optimism that Democrats can break the Republican supermajority in the Kansas House in 2026, which could influence the broader political landscape, including the Senate race. He cites a significant shift among independent voters and a backlash against Donald Trump as key factors contributing to this optimism. Democrats need to flip five seats in the House to achieve this goal, and Martin believes the current political climate favors them, especially following a historic performance in the 2025 elections. While the Senate seats are not up for election in 2026, the dynamics in the House could impact voter sentiment and turnout, potentially benefiting Democratic candidates in the Senate race.
+Summary: The article discusses Democratic National Committee (DNC) Chair Ken Martin's optimistic outlook for Kansas Democrats in the 2026 elections, particularly regarding the state House. While the current focus is on flipping five seats to break the GOP supermajority in the Kansas House, the article does not provide specific information about the Kansas Senate race. However, it highlights a broader trend of shifting voter dynamics, including increased support among independents, Latinos, working-class, and young voters, driven by a backlash against Donald Trump. These trends could positively influence Democratic chances in various races, including the Kansas Senate, but no definitive prediction is made about the Senate race itself.
+
+Title: DNC chair talks Roger Marshall, Sharice Davids, Senate race in Kansas
+Author: Jason Alatidd
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://eu.cjonline.com/story/news/politics/elections/congressional/2026/02/11/dnc-chair-talks-roger-marshall-sharice-davids-senate-race-in-kansas/88588913007/
+Summary: The upcoming Kansas Senate race in 2026 presents a challenging opportunity for Democrats, as they have not secured a Senate seat in Kansas since 1932, marking the longest active losing streak in the nation. The DNC chair, Ken Martin, considers Republican Senator Roger Marshall vulnerable based on his approval ratings, indicating a potential opening for Democrats. Democratic U.S. Rep. Sharice Davids has not ruled out a statewide run and is viewed by some as a strong candidate who could capitalize on this vulnerability. However, she is currently focused on her congressional duties, and her decision to run for Senate remains uncertain. The political landscape suggests that while the race is uphill, there is a strategic possibility for Democrats to make gains if they can field a compelling candidate like Davids and capitalize on any Republican vulnerabilities.
 
 Title: Can Sharice Davids end Kansas Dems' Senate losing streak? | Opinion
 Author: 
 Published Date: 2026-02-06T00:00:00.000Z
-URL: http://eu.cjonline.com/story/opinion/columns/2026/02/06/can-sharice-davids-end-kansas-dems-senate-losing-streak-opinion/88483209007/
-Summary: The article discusses the long-standing challenges faced by Kansas Democrats in winning U.S. Senate seats, noting that they haven't secured a seat since 1932, the longest active losing streak in the nation. Key factors influencing the potential for a Democratic victory in the 2026 Senate race include the political environment, candidate quality, and voter turnout dynamics.
-
-1. **Political Environment**: Historical trends indicate that the president's party typically loses Senate seats in midterm elections, especially when presidential approval ratings are low. Currently, Trump's approval ratings are declining, particularly among Independents, which could favor Democrats.
-
-2. **Voter Turnout**: Midterm elections generally see lower turnout, which tends to benefit the out-party. However, increased motivation among Democratic voters to oppose Trump could enhance turnout in their favor.
-
-3. **Candidate Quality**: The article highlights U.S. Rep. Sharice Davids as a potential candidate. While she has not officially declared her candidacy, her visibility and fundraising capabilities (raising $2.3 million, with significant small donations) position her as a strong contender. In contrast, incumbent Republican Sen. Roger Marshall has raised $2.5 million, primarily from high-dollar contributions.
-
-4. **Historical Context**: The last competitive Senate race for Democrats was in 2020, where Barbara Bollier lost by 11 points. The need for a top-tier candidate is emphasized, as previous candidates have not come close to winning.
-
-In summary, while the Democrats face
+URL: https://www.cjonline.com/story/opinion/columns/2026/02/06/can-sharice-davids-end-kansas-dems-senate-losing-streak-opinion/88483209007/
+Summary: The 2026 Kansas Senate race presents a challenging environment for Democrats, who have not won a Senate seat in Kansas since 1932. Historically, midterm elections favor the out-party, especially when the president’s approval is low—conditions that currently favor Democrats due to low approval ratings for Trump and higher Democratic voter motivation. However, the race has yet to attract top-tier Democratic candidates, with potential contender U.S. Rep. Sharice Davids emerging as a prominent figure. Davids has raised significant funds and increased visibility amid Republican gerrymandering efforts, positioning herself as a strong candidate capable of energizing Democratic voters. While the favorable political climate offers an opening, the outcome will heavily depend on candidate quality, campaign strategies, and voter turnout in the 2026 election.
 
 Title: Kansas Numbers Suggest Rep. Sharice Davids Could Beat Senator Marshall
 Author: February 06, 2026
 Published Date: 2026-02-06T00:00:00.000Z
 URL: https://www.tonyskansascity.com/2026/02/kansas-numbers-suggest-rep-sharice.html
-Summary: The article discusses the potential for Rep. Sharice Davids to win the Kansas Senate race in 2026 against incumbent Senator Roger Marshall. Key points include:
+Summary: The article suggests that Rep. Sharice Davids is a strong campaigner with increasing visibility in Kansas politics, having successfully unseated a four-term incumbent in 2018 and turning her district reliably Democratic. Although she currently lacks debate skills, her ability to connect with small groups and her fundraising strength—raising nearly $2.3 million in 2025—indicate a solid campaign foundation. Her potential to run for the Senate seat against incumbent Republican Roger Marshall is being discussed, with some political analysts noting that gerrymandering efforts and her growing profile could favor a Democratic bid. Overall, these factors imply that Davids could be a formidable contender in the 2026 Kansas Senate race, potentially improving the Democrats' chances of winning the seat.
 
-1. **Campaign Strengths**: Davids is noted for her strong grassroots campaigning, raising $2.3 million with a significant portion from small donations. In contrast, Marshall raised $2.5 million, primarily from high-dollar contributions.
-
-2. **Political Landscape**: Davids has leveraged Republican gerrymandering efforts to increase her visibility and position herself as a challenger to Republican extremism, which resonates with Kansas Democrats.
-
-3. **Past Performance**: Davids previously unseated a four-term incumbent in 2018 by a 9-point margin, indicating her ability to win in a traditionally Republican state.
-
-4. **Debate Skills**: While Davids struggles in formal debates, her strength lies in personal interactions, contrasting with Marshall's preference for podium speaking.
-
-These factors suggest that while the race is competitive, Davids has a viable path to victory, especially if she continues to capitalize on local Democratic sentiments and her campaigning strengths.
-
-Title: Why Kansas Democrat could be daunting challenger for Senate | Opinion
+Title: Opinion: Davids could break Senate losing streak | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
 Author: 
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://www.cjonline.com/story/opinion/columns/2026/02/14/why-kansas-democrat-could-be-daunting-challenger-for-senate-opinion-sharice-davids-rogers-marshall/88611168007/
-Summary: The article discusses the potential candidacy of Rep. Sharice Davids, a Democrat from Kansas, for the U.S. Senate in 2026 against Republican incumbent Roger Marshall. Despite Kansas' long history of electing Republican senators, the author argues that Davids could be a strong contender due to her competitive nature, political experience, and previous electoral successes. 
-
-Key points include:
-
-- **Davids' Background**: She is a former Mixed Martial Arts fighter, which reflects her competitive spirit. Her military family background and Native American heritage may also resonate with voters.
-- **Political Experience**: Davids has successfully navigated tough races, defeating a Bernie Sanders-endorsed candidate in her 2018 primary and winning her congressional seat against incumbent Kevin Yoder. In 2022, she won her race by 12 points despite significant Republican opposition and negative advertising.
-- **Motivation to Run**: Davids has expressed frustration over Republican-led redistricting efforts aimed at diminishing her congressional seat, which may fuel her desire to challenge Marshall.
-- **Support from Party Leadership**: She has met with Sen. Adam Schiff, indicating potential backing from the Democratic Senatorial Campaign Committee, which could provide financial and strategic support for her campaign.
-
-Overall, while the historical context suggests a challenging path for Democrats in Kansas, Davids' unique profile and past electoral performance position her as a formidable candidate, making the 2026 Senate race one to watch.
-
-Title: DNC Honcho Seyz Senator Roger Marshall 'Vulnerable' In 2026
-Author: February 11, 2026
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.tonyskansascity.com/2026/02/dnc-honcho-seyz-senator-roger-marshall.html
-Summary: DNC Chair Ken Martin has indicated that Republican Senator Roger Marshall may be vulnerable in the upcoming 2026 Kansas Senate race. Despite this assertion, other polling firms present a contrasting view, suggesting Marshall's position is stronger than implied. The potential Democratic candidate, U.S. Rep. Sharice Davids, has not confirmed her candidacy but has stated that "all options remain on the table." Historically, Democrats have struggled in Kansas, with no wins for a U.S. Senate seat since 1932, marking the longest active losing streak in the nation. This context is crucial for predicting the outcome of the 2026 race, as it highlights both the challenges and potential opportunities for the Democratic Party in Kansas.
+Published Date: 2026-02-07T00:00:00.000Z
+URL: https://www2.ljworld.com/opinion/local-columns/2026/feb/07/opinion-davids-could-break-senate-losing-streak/
+Summary: The article discusses Kansas Democrats' historically long losing streak in U.S. Senate races, dating back to 1932, with only one close race in 1974. Despite unfavorable historical trends—such as midterm losses for the president’s party, low voter turnout, and shifting party coalitions—current political conditions offer a rare opportunity for Democrats. President Biden’s relatively high approval ratings and increased Democratic voter engagement, especially among more affluent and educated voters, could boost Democratic chances in 2026. A key factor is the potential candidacy of U.S. Representative Sharice Davids, who has gained visibility and fundraising momentum, and has a record of strong campaigning, including her 2018 victory. Her involvement could be pivotal in breaking Kansas’ Senate losing streak if she runs and capitalizes on the current favorable environment.
 
 

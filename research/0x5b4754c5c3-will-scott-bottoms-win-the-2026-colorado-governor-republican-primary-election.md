@@ -1,51 +1,56 @@
 # Research: Will Scott Bottoms win the 2026 Colorado Governor Republican primary election?
 
 **Market ID:** 0x5b4754c5c3a1c7ecb4a5c415e68c90e2d78fae7f8eb31803e3fc7c3ac3e63b0d
-**Researched At:** March 1, 2026 at 06:05:13 AM UTC
+**Researched At:** March 6, 2026 at 02:48:28 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Scott Bottoms win the 2026 Colorado Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.5¢
+**Confidence:** Low
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Fundraising and campaign-visibility data show Bottoms trailing clear frontrunners Marx and Kirkmeyer, suggesting his ~19.5% chance is plausible or even slightly generous; no new polling or endorsements indicate a large mispricing. Confidence in a small edge is low.
+Early credible sources list only Marx and Kirkmeyer as viable GOP candidates; Bottoms is absent, making a ~20% market price appear too generous. Given low volume and lack of polling, the market seems overpriced by ~10 cents for Bottoms.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Scott Bottoms will finish first in the June 30, 2026 Colorado GOP gubernatorial primary (including any run-off). For YES, Bottoms must outpoll and outlast all other Republican candidates (e.g., Victor Marx, Barb Kirkmeyer, etc.) and be officially announced the winner by the Colorado Republican Party; any other outcome (including “no primary”) resolves NO/Other.
+This market asks: “Will Scott Bottoms win the 2026 Colorado Republican gubernatorial primary?” A YES requires Bottoms to finish first in the June 30, 2026 GOP primary (including any run-off). A NO covers any other winner or if no GOP primary occurs.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports >19.5%):  
-- Bottoms’ “outsider” message and sensational FBI/pedophile-ring claims could energize a committed base.  
-- Lacking polling data, low-volume markets sometimes underprice insurgent candidates with passionate followings.  
+Bearish (price too high)  
+• Invisible primary (2026-02-06): Profiles only Victor Marx and Barbara Kirkmeyer as leading contenders; Bottoms is not mentioned at all, suggesting negligible early support or name recognition.  
+• Colorado Sun (2026-02-09): Party is in disarray financially and leadership-wise; without strong infrastructure or endorsements, a lower-profile outsider like Bottoms faces steeper hurdles.  
+• Candidate forum report (2026-02-10): Despite a public forum, no polling or endorsements highlight Bottoms, again implying he’s not a frontrunner.  
 
-Bearish (suggests <19.5%):  
-- Fundraising: he’s fourth with ~$131K vs. Marx’s ~$625K and Kirkmeyer’s ~$381K, indicating low institutional support and limited campaign infrastructure.  
-- Invisible-primary reporting names Marx and Kirkmeyer as clear frontrunners; Bottoms isn’t featured among emerging leaders.  
-- No credible statewide polling shows him competitive with the top two.  
+Bullish (price reasonable)  
+• Gambit Forecaster (2026-03-01): The primary is still fluid with no established frontrunner and substantial uncertainty on how spending, voter preferences, or late entrants will shift the race. Early polling is scarce; models may assign a baseline probability to every declared candidate.  
 
-All sources are from January–February 2026 and reputable; none provide direct polling but consistently rank Bottoms well behind the leading fundraisers.
+Source credibility: All four relevant reports are from February/March 2026—recent and from reputable local and political-analysis outlets. The absence of Bottoms in the top-candidate coverage strongly implies his chance is <<20%. The Gambit note on fluidity is valid but not specific to Bottoms.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 19.5% price could reflect a belief that a fragmented field (possibly 5–10 viable candidates) gives lower-tier candidates nontrivial upset odds—and/or the views of one or two traders bullish on his base-mobilizing rhetoric. Low volume and absence of polling suggest informed traders may not be deeply engaged, but the tight spread implies at least some confidence in the price.
+At 19.5%, this price may reflect a default “anybody but the top two” allocation rather than genuine Bottoms belief. Low volume (just $1.3 K) and narrow spread suggest either a single active trader or two-party speculative quoting, not broad consensus. Informed bettors appear uninterested or unconvinced by Bottoms’ prospects, which argues for inefficiency.
 
 4. MISPRICING ASSESSMENT  
-There’s no clear, overlooked indicator (e.g., new major endorsement, surprising poll) missing from the market. Fundraising deficits and lack of polling make a sub-20% chance reasonable. At most, the market might slightly overstate his odds by a few points, but nothing approaching a >20¢ mispricing.
+Given the dearth of evidence for Bottoms as a credible contender and the strong showing of two others, 19.5% seems overstated. A more realistic estimate might be in the 5–10% range until polling or fundraising changes the picture. Thus, the market may be overpriced by roughly 10 cents.
+
+⚠️ CRITICAL CHECK  
+We’ve confirmed the resolution criteria and timing; no technical trick is apparent. It’s simply early, but early coverage already omits Bottoms, so traders likely over-allocated probability.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: ~30% (fundraising gap is solid but without polling, uncertainty remains)  
-Magnitude of mispricing: ~5¢  
-Expected value = 30% × 5¢ ≈ 1.5¢
+Strength of evidence: ~40% (moderate confidence in lack of Bottoms support)  
+Magnitude of mispricing: ~10 cents  
+Expected value = 0.4 × 10 cents = 4 cents
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Fundraising and campaign-visibility data show Bottoms trailing clear frontrunners Marx and Kirkmeyer, suggesting his ~19.5% chance is plausible or even slightly generous; no new polling or endorsements indicate a large mispricing. Confidence in a small edge is low.  
-CONFIDENCE: medium
+6. CONFIDENCE  
+low
+
+EXPECTED_VALUE: 4.0  
+SUMMARY: Early credible sources list only Marx and Kirkmeyer as viable GOP candidates; Bottoms is absent, making a ~20% market price appear too generous. Given low volume and lack of polling, the market seems overpriced by ~10 cents for Bottoms.  
+CONFIDENCE: low
 
 ---
 
@@ -53,37 +58,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: CMU hosts governor candidate forum | Colorado | gjsentinel.com
-Author: NATHAN DEAL Nathan.Deal@gjsentinel.com
-Published Date: 2026-02-10T00:00:00.000Z
-URL: http://gjsentinel.com/news/colorado/cmu-hosts-governor-candidate-forum/article_e2561f22-c1f5-4f59-97c6-9b07e4088dd0.html
-Summary: The article discusses a governor candidate forum hosted by Colorado Mesa University (CMU), where various candidates, including Scott Bottoms, participated. While the text does not provide specific polling data or predictions regarding the 2026 Colorado Governor Republican primary election, it highlights the importance of such forums in allowing candidates to present their platforms and engage with voters. Observing candidate performances in these forums, their responses to key issues, and voter engagement can offer insights into their chances in the primary. For a more accurate prediction regarding Scott Bottoms' chances, consider factors such as his campaign strategy, public reception, and endorsements leading up to the election.
-
-Title: Leaders begin to emerge in the GOP governor fundraising race
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://www.koaa.com/news/politics/leaders-begin-to-emerge-in-the-gop-governor-fundraising-race
-Summary: In the GOP race for the Colorado Governor's seat, fundraising efforts are becoming a significant indicator of candidate viability. Currently, the leading fundraiser is Victor Marx, with $625,193, followed by State Senator Barb Kirkmeyer at $381,466. Scott Bottoms, a House Representative, has raised $131,538, placing him fourth among the candidates. The fundraising gap suggests that Bottoms may face challenges in gaining traction against his competitors, particularly as Marx's campaign has recently reported raising an additional $300,000, nearing a total of $1 million. Given these financial standings and the competitive landscape, Scott Bottoms' chances of winning the 2026 Republican primary may be influenced by his ability to increase fundraising and visibility in the coming months.
-
-Title: Gubernatorial Candidate Teases Pedophile Ring Reveal if He Wins Race
-Author: Sean Beedle
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://coloradotimesrecorder.com/2026/02/gubernatorial-candidate-teases-pedophile-ring-reveal-if-he-wins-race/76612/
-Summary: Scott Bottoms, a Republican gubernatorial candidate in Colorado, has stirred controversy with his claims of insider knowledge about active pedophile rings within the state's government. During a recent town hall event, he asserted that "pedophilia runs through our House, our Senate, and our governor's office," and mentioned his collaboration with the FBI on this issue. Bottoms' rhetoric resonates with certain voter segments concerned about various societal issues, including public school curricula and perceived threats from globalism and sharia law. His sensational claims may appeal to a base that values strong, provocative statements, but they could also alienate moderate voters. The outcome of the 2026 Republican primary may depend on how these factors influence voter sentiment and turnout.
-
 Title: The invisible primary in Colorado: Republican governor
 Author: 
 Published Date: 2026-02-06T00:00:00.000Z
 URL: https://www.co-political-landscape.org/the-invisible-primary-in-colorado-republican-governor/
-Summary: The article discusses the current landscape of the Republican primary for the 2026 Colorado gubernatorial election, focusing on frontrunners Victor Marx and Barbara Kirkmeyer. Marx has raised approximately $620,000, significantly more than Kirkmeyer's $380,000, with a majority of his contributions coming from individual donors, many of whom are new to Colorado politics. In contrast, Kirkmeyer's support is more localized, with a higher percentage of her donors being Colorado residents. 
+Summary: The webpage analyzes the current landscape of the 2026 Colorado Republican gubernatorial primary, focusing on leading candidates Victor Marx and Barbara Kirkmeyer. Marx, a self-described "high risk humanitarian," has raised approximately $620,000 primarily from individual donors, many outside Colorado, with a significant portion of new donors unfamiliar with Colorado politics. Kirkmeyer, a state senator, has raised about $380,000 mostly from Colorado residents and established Republican supporters. Marx's fundraising advantage and broader donor base suggest he is a prominent contender, though the race remains competitive. Notably, Scott Bottoms is not mentioned as a major candidate or frontrunner in this analysis, indicating he currently has limited visibility or support in the early primary landscape. Therefore, predicting whether Scott Bottoms will win the primary based on this information is challenging, as he does not appear to be a leading figure at this stage.
 
-While the article does not mention Scott Bottoms as a candidate, understanding the fundraising dynamics and donor demographics of the leading candidates could provide insight into the competitive environment. Given that Marx has a substantial financial advantage and a broader base of support from outside Colorado, he may be positioned favorably in the primary. However, Kirkmeyer's established connections within the Colorado Republican community could also play a crucial role. 
+Title: Colorado GOP enters peak of campaign season facing big financial and leadership problems - The Colorado Sun
+Author: Jesse Paul
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://coloradosun.com/2026/02/09/colorado-gop-financial-leadership-issues-2026/?member=&tier=
+Summary: The Colorado Republican Party is currently facing significant challenges as it approaches the 2026 campaign season. Key issues include leadership instability, exemplified by the resignation of Vice Chairman Richard Holtorf—the second vice chair to step down within a year—and severe financial difficulties, such as the party needing to secure a bank loan to cover expenses. These internal problems may impact the party’s ability to mount a strong primary campaign. While Scott Bottoms is a candidate in the Republican primary for governor, the party’s leadership turmoil and financial instability could influence the primary dynamics and his prospects. Overall, the party’s current struggles suggest potential hurdles for any candidate, including Bottoms, in securing a decisive victory in the upcoming primary.
 
-Overall, predicting Scott Bottoms' chances would require additional context about his campaign strategy, fundraising, and support base compared to these frontrunners.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The Gambit Forecaster's March 2026 report analyzes the current landscape of Senate and gubernatorial races, emphasizing that primary elections are just beginning and candidate fields are still settling. While the report primarily focuses on national and statewide electoral trends, it highlights that early polling and campaign dynamics are still evolving, with some races showing increased uncertainty. Specifically for Colorado's 2026 Republican gubernatorial primary, the report suggests that the race remains fluid, with no definitive frontrunner established yet. Factors such as candidate quality, campaign spending, and shifting voter preferences will be crucial in determining the outcome. Given the early stage of the cycle and the model's emphasis on uncertainty and volatility in key races, predicting Scott Bottoms' chances requires close monitoring of primary polling and campaign developments as they unfold.
 
-Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Colorado Politics
-Author: Ernest Luning
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://www.coloradopolitics.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
-Summary: The article discusses the Democratic primary for Colorado's gubernatorial race, focusing on U.S. Senator Michael Bennet and Attorney General Phil Weiser as the leading candidates. While it does not directly address the Republican primary or Scott Bottoms, it highlights the competitive nature of the upcoming elections, with over two dozen Republicans vying for their party's nomination. The Republican primary has not been won by a GOP candidate since 2002, indicating a challenging environment for Republican candidates. Given that the general election is considered safe for Democrats, the dynamics within the Republican primary, including candidate popularity and funding, will be crucial in predicting Scott Bottoms' chances. The article suggests that the primary will be significant, as it will determine the Republican candidate who will face the Democratic nominee in a state leaning heavily Democratic.
+Title: 2026 Gubernatorial Race Overview
+URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
+Summary: The provided webpage does not contain any information about Scott Bottoms, Colorado, or the 2026 Colorado gubernatorial Republican primary election. It primarily offers an overview of the 2026 New Jersey gubernatorial race, including candidate backgrounds, polling data, campaign strategies, and endorsements. Therefore, there is no relevant information to predict whether Scott Bottoms will win the Colorado Republican primary in 2026.
+
+Title: CMU hosts governor candidate forum | Colorado | gjsentinel.com
+Author: NATHAN DEAL Nathan.Deal@gjsentinel.com
+Published Date: 2026-02-10T00:00:00.000Z
+URL: http://gjsentinel.com/news/colorado/cmu-hosts-governor-candidate-forum/article_e2561f22-c1f5-4f59-97c6-9b07e4088dd0.html
+Summary: The article reports on a governor candidate forum hosted by Colorado Mesa University (CMU), featuring various candidates vying for the state's Republican nomination in the 2026 gubernatorial race. While it provides details about the event, candidate positions, and the overall political landscape, it does not specify individual candidate prospects or polling data related to Scott Bottoms. Therefore, based on this information alone, there is no direct evidence to predict whether Scott Bottoms will win the 2026 Republican primary for Colorado governor.
 
 

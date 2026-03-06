@@ -1,7 +1,7 @@
 # Research: Will Rick Jackson win the 2026 Georgia Governor Republican primary election?
 
 **Market ID:** 0x79d5f2d519b21ebcb57ea1f926b5f37beecb2b8c41a3d44f06e206240f4e31dc
-**Researched At:** March 1, 2026 at 06:05:16 AM UTC
+**Researched At:** March 6, 2026 at 02:48:28 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Rick Jackson win the 2026 Georgia Governor Republican primary election?"
 
 ---
@@ -9,50 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 0.3¢
 
 ### Summary
 
-Recent polls and expert commentary show a very competitive GOP primary with Jackson’s funding and momentum balanced by Burt Jones’s Trump endorsement, aligning closely with a ~55% win probability for Jackson. No single factor suggests a >10-cent deviation from the market price.
+Polls and candidate resources suggest Jackson is a slight favorite but under 50% support, making 53.5% a reasonable price. No compelling evidence of large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- The market asks: “Will Rick Jackson win the 2026 Georgia Governor Republican primary?”  
-- YES if Jackson emerges as the overall winner (outright or via runoff). NO if any other candidate wins or if no primary occurs.  
+This market asks whether Rick Jackson will win the Georgia Republican gubernatorial primary on May 19, 2026 (including any required run-off). A "YES" requires Jackson finishing first, either outright in the primary or by securing more votes than his opponent in a run-off. A "NO" occurs if any other candidate wins.
 
 2. EVIDENCE EVALUATION  
-Bullish on Jackson (supports >54.5%):  
-• Multiple February polls show Jackson tied for lead or holding a narrow advantage (e.g., 24% in one poll vs. Jones’s 22%).  
-• He is self-funding up to $50 million and has spent millions on ads and staff, accelerating name recognition.  
-• Trump’s base may fragment; some Trump-aligned strategists (e.g., Brian Robinson) have switched to Jackson, indicating momentum.  
+Bullish for Jackson (supports ~53.5% price):  
+• Multiple February polls put Jackson in the lead (24 – 48%) in a multi-candidate field.  
+• He has pledged at least $50 million of personal funds and has strong ties to Trump’s base.  
+• Entry upset expectations; he commands media attention and a consolidated conservative donor network.  
 
-Bearish on Jackson (suggests <54.5%):  
-• Lt. Gov. Burt Jones retains Trump’s formal endorsement, which still carries weight among GOP primary voters.  
-• No poll shows any candidate above 50%, making a runoff almost certain; in a head-to-head, Jones may consolidate anti-Jackson voters.  
-• Jackson’s raw polling numbers (16–24%) are modest in a crowded field, leaving him vulnerable if he cannot grow support further.  
+Bearish (suggests price could be too high):  
+• No poll shows Jackson above 50%; he may need a run-off and could face a more united rival.  
+• Lt. Gov. Burt Jones is Trump-endorsed and brings statewide office experience; Chris Carr is also a strong contender.  
+• Questions about Jackson’s prior state contracts and campaign attacks could diminish swing-voter appeal.  
 
-Source credibility and recency: all sources are from February 2026 and include established outlets (SavannahNow, AJC, Sportsbook Review), so they are timely and reliable.  
-
-None of the evidence is so obvious that the market could not already incorporate it; the data are exactly what most active traders would be monitoring.  
+All sources are recent (Feb–Mar 2026) and from credible regional and national outlets. Nothing in the research indicates a >20% mispricing; most data imply a competitive but edge-Jackson race.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 54.5% price can be justified if informed traders believe Jackson’s funding and momentum outweigh Jones’s endorsement edge, especially in a runoff scenario where Jackson might attract anti-establishment voters.  
-• Low volume suggests either consensus (everyone agrees roughly 55/45) or just one or two traders maintaining a position. But given the tight spread, at least some liquidity has converged around this view.  
-• It’s possible that more sophisticated political bettors aren’t active here, but the existing trades align well with public polling and narrative.  
+At 53.5%, the market modestly tilts toward Jackson, consistent with his lead in low-majority polls plus abundant funding. The low $1.9 K volume likely reflects either consensus that Jackson is the slight favorite or simply lack of active arbitrage interest. No signs that one lone trader is pushing an extreme view—the price aligns with publicly available poll aggregates and known campaign dynamics.
 
 4. MISPRICING ASSESSMENT  
-• The balance of polling (tight race), endorsements (Jones’s Trump advantage), and Jackson’s self‐funding suggests a close contest. A mid-50s probability for Jackson is neither obviously too high nor too low.  
-• There is no single piece of high‐confidence “missing” information that would shift probability by >20 points.  
-• Given the uncertainty of runoffs and the evolving field, a small mispricing (e.g., a few cents) is possible, but nothing substantial enough to declare a clear edge.  
+Given the evidence, 53.5% is broadly in line with Jackson’s current 24–48% polling lead plus his fundraising advantage. There’s no clear, overlooked factor that would move the probability by more than a few cents. Run-off uncertainty and rival strengths are already baked into a mid-50s price.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 40% (polls and endorsements are somewhat equivocal; no clear one-sided reveal)  
-• Estimated magnitude of mispricing: 5 cents  
-• Expected value = 40% × 5 cents = 2 cents  
+Strength of evidence that price is wrong: ~10% (small uncertainty given balanced bullish/bearish points)  
+Magnitude of mispricing if any: ~3 cents  
+Expected value = 10% × 3 cents = 0.3 cents
 
-EXPECTED_VALUE: 2  
-SUMMARY: Recent polls and expert commentary show a very competitive GOP primary with Jackson’s funding and momentum balanced by Burt Jones’s Trump endorsement, aligning closely with a ~55% win probability for Jackson. No single factor suggests a >10-cent deviation from the market price.  
+EXPECTED_VALUE: 0.3  
+SUMMARY: Polls and candidate resources suggest Jackson is a slight favorite but under 50% support, making 53.5% a reasonable price. No compelling evidence of large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -61,51 +54,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Georgia Governor Election Odds & Prediction - Sportsbook Review
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.sportsbookreview.com/picks/more-sports/georgia-governor-election-odds-prediction-market-2026/
-Summary: The 2026 Georgia Governor Republican primary election is shaping up to be highly competitive, particularly between Burt Jones, the current lieutenant governor, and Rick Jackson, a billionaire healthcare executive. As of now, Burt Jones had a strong lead in prediction markets, with nearly an 80% chance of winning the nomination in mid-December. However, his support has been declining since Rick Jackson announced his candidacy on February 3, 2023.
-
-Jackson is self-funding his campaign with up to $50 million and has a notable connection to former President Trump, who has endorsed Jones. Polling indicates that Jackson is gaining traction and currently holds a slight advantage. It's important to note that Georgia's primary system requires a runoff if no candidate secures over 50% of the vote, which could further complicate the race.
-
-In summary, while Burt Jones initially appeared to be the frontrunner, Rick Jackson's significant financial backing and strategic positioning could make him a formidable contender in the Republican primary. The evolving dynamics of the race will be crucial in predicting the outcome.
-
 Title: Who is leading Georgia governor's race? Recent polls favor Rick Jackson
 Author: Vanessa Countryman
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.savannahnow.com/story/news/2026/02/12/who-is-leading-georgia-governors-race-recent-polls-favor-rick-jackson/88640694007/
-Summary: Recent polling indicates that Rick Jackson is currently a leading candidate in the Republican primary for the 2026 Georgia governor's race, with varying support across different polls. A co/efficient poll from February 8-9 shows Jackson at 24%, while another poll from Cygnal on February 5-6 had him trailing Burt Jones, who was at 22%. The competition among Republican candidates is tight, with Jackson and Jones consistently showing the strongest performances, though their rankings fluctuate by poll.
+Summary: Recent polling indicates that Rick Jackson is currently leading the Republican race for Georgia governor, with support around 24% to 48% among various polls. While no candidate has a definitive majority, Jackson's position as a frontrunner suggests he has a strong chance of winning the Republican primary. However, support is divided among multiple contenders, including Burt Jones and others, and margins vary by poll. Therefore, Jackson's prospects are promising but not guaranteed, and the race remains competitive as the primary approaches.
 
-On the Democratic side, former Atlanta Mayor Keisha Lance Bottoms shows a significant lead over her competitors, which could impact the overall dynamics of the election. Key upcoming dates include early voting from April 27 to May 15 and the primary election on May 19. Voter registration closes on April 20, and absentee ballot requests are due by May 8.
-
-Given the current polling landscape and the competitive nature of the Republican primary, Jackson's chances of winning will depend on his ability to maintain or grow his support leading up to the election.
+Title: Rick Jackson comes out ahead in Georgia governor race polling
+Author: Emily Hallas
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://www.washingtonexaminer.com/news/campaigns/state/4453961/rick-jackson-ahead-georgia-governor-race-polling-despite-leadership-support-burt-jones/
+Summary: The article reports that Rick Jackson currently leads in Georgia governor race polling, indicating a favorable position among voters. While this suggests Jackson has a strong chance in upcoming elections, it does not provide specific insights into the 2026 Republican primary or long-term electoral prospects. Factors such as changing political dynamics, campaign developments, and voter sentiment closer to 2026 will influence his chances. Therefore, Jackson's current polling lead is a positive indicator but not a definitive predictor of his success in the 2026 Republican primary.
 
 Title: Opinion: Rick Jackson’s surprise entry makes GOP gubernatorial primary a real race
 Author: Erick Erickson  – AJC Contributor
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://images.ajc.com/opinion/2026/02/rick-jacksons-surprise-entry-makes-gop-gubernatorial-primary-a-real-race/
-Summary: Rick Jackson's recent entry into the GOP gubernatorial primary has transformed a previously predictable race into a competitive one. Initially, Lt. Gov. Burt Jones, endorsed by Donald Trump, appeared to have a clear path to the nomination, but Jackson's candidacy introduces a significant challenge. Jackson, a self-made billionaire with a strong conservative track record and philanthropic efforts, is seen as a formidable contender, especially among Trump supporters.
-
-The dynamics of the race have shifted, with Jackson now competing directly with Jones, who has faced scrutiny regarding his integrity and motivations for seeking the governorship. While Jones has the advantage of statewide election experience and Trump's endorsement, doubts about his commitment to the role and potential ethical concerns could hinder his campaign.
-
-Strategist Brian Robinson's shift from supporting Attorney General Chris Carr to Jackson indicates a growing momentum for Jackson, complicating the race for Carr and Secretary of State Brad Raffensperger. The primary landscape suggests that Jackson's appeal as an outsider and his financial backing could resonate with voters, making him a serious contender for the Republican nomination in the 2026 Georgia gubernatorial race.
+Summary: Rick Jackson's entry into the 2026 Georgia Republican gubernatorial primary has significantly altered the race dynamics. Traditionally, the primary was expected to favor Lt. Gov. Burt Jones, President Trump’s endorsed candidate, due to his statewide experience and Trump’s backing. However, Jackson, a self-made billionaire and major conservative donor, has introduced a formidable challenge by entering as a well-funded Trump supporter, splitting the vote in a race that was previously seen as predictable. Jackson's background from Techwood projects and his financial independence contrast with Jones, who faces scrutiny over integrity and family business ties. Jackson's substantial resources and Trump support increase his chances of competing effectively, making the primary more unpredictable. Ultimately, Jackson's success will depend on his ability to consolidate support and navigate the race's intra-party dynamics, but his entry has made the outcome less certain than before.
 
 Title: Why Rick Jackson says he’ll be Trump’s ‘favorite governor’
 Author: Greg Bluestein
 Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/
-Summary: Rick Jackson, a billionaire and newcomer in Georgia's gubernatorial race, has pledged to invest at least $50 million of his own funds to secure the Republican nomination against his rival, Lt. Gov. Burt Jones, who is backed by Donald Trump. Jackson's entry into the race has already disrupted the GOP contest, indicating his serious commitment to winning. He emphasizes that his campaign is not about personal ambition but rather about addressing the needs of Georgia voters. Given his substantial financial backing and strategic positioning, Jackson could potentially be a strong contender in the 2026 Republican primary. However, his success will depend on voter reception and how effectively he can leverage his resources against the established support for Jones.
+URL: https://click-em.ajc.com/s/c/KJNdaBaXY5KYMjR_xvHpIP75yZjd2iGoLvAdeFDwtBxURzD4xgurLg_HS31cCaLSr8lB-D2sUgl33msE8H4O8zMXrFFuSg0TrY1oZUcoYi2BenPtiamNBflnNUD4IihSbskhMo4sjw2bfAI6sVSmzC4-0hnib78q0TtTrs4dkoWWPKkm_cCnoqth1YOoDVpMZ5k-Eb06BQWgwxHtuzDGR119yz70YY6ck-iTX1Y5GcXQdj0ZJp4deYMFhY1lxBQuQOcM3UOUB1jZbVkHla9RsIsTmb0burxaDq9Kx_LcWFD-LKF8VWOU0Cp-f2lpcXa6LRBo_dl1Rb6dbPzUa_cuw6_YvyqNYZD0D3JbvWlF_MrARJZ37mOVbUSeUehiRom4kuIiE83qa89NGl8hIWnEBaxL-UXI7JHxVbwDApoiA9VxT0pPmWKbnSFGe0mtMOoa6SeSsC6-DIVmmoiN6gnP2XYP02kOn8No-3cIzrsS1C5VLLm4onMXsQGuUfCXjrZPYXuFo_bTvDZF7Oi7IFJNsVARh7ITOWoiw6Kdq5t6PnVg_zIqxsWY2ckQDyyjHP3gkUjKCLhNBCXFe7oYVgBUglmb03ycNezaj2QbZQwH3FWgwIsUo-5cyCuId5jw5gaQJAWDISBTd_PE/K2dWWtSf0SNSLx1ka91tOzcraRDxG8BP/17
+Summary: Rick Jackson, a billionaire businessman and candidate in Georgia’s 2026 gubernatorial race, has shifted from supporting Lt. Gov. Burt Jones to actively challenging Trump-backed rivals, pledging at least $50 million of his own fortune to win the Republican primary. Jackson positions himself as a strong supporter of Donald Trump, emphasizing loyalty and alignment with Trump’s political influence. His significant financial resources and strategic focus on appealing to Trump’s base suggest he aims to be a formidable contender. However, the race is highly competitive, with other prominent candidates like Attorney General Chris Carr and Lt. Gov. Burt Jones. Jackson’s success will depend on his ability to mobilize Trump supporters and differentiate himself in a crowded field.
 
-Title: Rick Jackson’s campaign for governor resets fight for MAGA base in Georgia
-Author: Greg Bluestein ,  Tia Mitchell ,  Patricia Murphy  and  Adam Beam
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://images.ajc.com/politics/2026/02/rick-jacksons-campaign-for-governor-resets-fight-for-maga-base-in-georgia/
-Summary: Rick Jackson's entry into the Georgia gubernatorial race has significantly reshaped the dynamics among Republican candidates vying for the MAGA base. Currently, Lt. Gov. Burt Jones leads the GOP field with 22% support, while Jackson follows closely at 16%, according to a recent Cygnal poll. This poll indicates that Jackson's substantial investment in advertising—over $4 million—has begun to make an impact, despite him being relatively unknown.
-
-The competition is intensifying, with Jones launching a seven-figure ad campaign to reinforce his support from Trump, while Jackson's campaign is rapidly organizing and reaching out to voters. Additionally, Jackson's strategic hiring of veteran political operatives is strengthening his campaign infrastructure.
-
-The race is also marked by a divide between candidates who align more closely with Trump and those who are attempting to appeal to mainstream Republican voters, such as Attorney General Chris Carr and Secretary of State Brad Raffensperger. Carr has distanced himself from Trump-style politics, which could influence voter sentiment.
-
-As the primary approaches, the battle for Trump's endorsement is heating up, with Jackson's allies urging Trump to reconsider his support for Jones. The evolving landscape suggests that Jackson's chances could improve if he continues to gain traction and if the MAGA base becomes more fragmented. Overall, while Jackson has made a strong start, the outcome of the primary will depend on how effectively he can consolidate support and navigate the ongoing competition.
+Title: Rick Jackson promises to ‘unwind’ Jackson Healthcare state contracts if elected
+Author: Asia Simone Burns
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://click-em.ajc.com/s/c/t6fteyq99veRMmhkKGAe_00bWvJF04V6H_AjliSiYZQD7m4WUmo0oCwN4GwuH3evTLRRq470VIgabe4vR2-nUezAqNaBLKKhjd6Cb0BK5t29zOssmmbNefQ_tqEQfFLIzuoV1RpEomiUZXFf12oLdhWLzXjJGSkZjTBIHgLas7mjqyMeJZOSdEmP8oFPYydNCvCL5wUNUBAmmE8_yFkZskoyvbaeM6h048XYIWWtQXT2ufxL68urIC_Lt5oLUeZV_LwjDI6ESf8rtb01aiY471kMgLfQxC6YSH9mwNMR1kGEPUJjYyUt9qpjDGQbnNlTSViVrwslx73m3WS1SAD6OIfw4646bYbijZxcn9LXhAQTVc2YvZ3fRKMaXUyExB0O5xgZnmFXvwPPtHc1eannnZvZw1armNqwRIiYZaucRiCpWsjshtYHiTAI-97HalXDrLJcTWQm7hsyWm7zeyRggIn9KiptGInFDg4MfsUF/zlzh9DSXGOGGJDivQiVhMcrf9wYQiTw2/18
+Summary: Rick Jackson, a billionaire healthcare executive and Republican candidate for Georgia governor in 2026, has a history of significant business dealings with the state. His company, Jackson Healthcare, received over $1 billion from state agencies for providing nurses during the COVID-19 pandemic, with contracts signed in 2020. Jackson has pledged to terminate all state contracts if elected. His campaign has involved attacks on political opponents and emphasizes his business background. Jackson's financial influence and prior government contracts may impact his primary election prospects, but his stance on ending state contracts and his business reputation are key factors that could influence voter support in the Republican primary.
 
 

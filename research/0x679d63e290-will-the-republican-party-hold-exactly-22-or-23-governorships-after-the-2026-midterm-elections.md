@@ -1,7 +1,7 @@
 # Research: Will the Republican Party hold exactly 22 or 23 governorships after the 2026 midterm elections?
 
 **Market ID:** 0x679d63e29063458d948854f5cc700e724cdc16af3761f7707921ae0865795fad
-**Researched At:** March 1, 2026 at 06:09:58 AM UTC
+**Researched At:** March 6, 2026 at 02:48:42 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party hold exactly 22 or 23 governorships after the 2026 midterm elections?"
 
 ---
@@ -9,48 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Battleground states offer roughly equal chances of Republicans gaining or losing multiple seats, making a tight “22 or 23” outcome plausibly low and the 20% price reasonable. Low trading volume hints at limited engagement rather than a glaring mispricing.
+Forecasters across Ballotpedia, Gambit, and CNN/NJ.com uniformly expect Republicans to retain at least 24 governorships, making a 3–4‐seat net loss—and thus exactly 22 or 23 seats—less likely than the market’s 21% price. Low trading volume suggests this overestimate may persist uncorrected.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Republicans hold exactly 22 or 23 governorships after the November 3, 2026 elections?”  
-– YES if the GOP’s net change across all governorships is 0 or –1 (they start with 23).  
-– NO if they lose ≥2 seats (≤21) or gain ≥1 seat (≥24).
+This market pays out if, after the November 3, 2026 gubernatorial elections (including any required runoffs), the Republican Party controls exactly 22 or exactly 23 of the 50 U.S. governorships. Since Republicans enter 2026 with 26 governorships (18 incumbents up for election plus 8 “off‐year” seats), a YES means a net loss of 3 seats (to 23) or 4 seats (to 22).
 
 2. EVIDENCE EVALUATION  
-Bullish (supports YES):  
-• MultiState (02/23/26) reports 23 current GOP governorships, with many “safe” Republican seats (e.g., Alabama, Florida, Texas). Trifecta control in several states makes losses less likely.  
-• Ballotpedia (02/11/26) labels Iowa as Lean R and California as Safe D, reducing the pool of likely net changes.  
-
-Bearish (supports NO):  
-• Ballotpedia (02/11 & 02/18/26) flags five open or toss-up Democratic seats (MI, MN, NV, WI, KS) that GOP could pick up—two or more pickups would push them to ≥25, making YES false.  
-• Toss-ups in traditionally Republican open-seat states (KS, IA, GA) risk losses that could exceed one seat.  
-• Yahoo/YouGov poll (02/18/26) shows low confidence in electoral integrity (23%), potentially depressing turnout for one party and adding volatility.
-
-Source credibility is high for Ballotpedia and MultiState; the Yahoo poll is moderately credible but speaks more to turnout than seat counts. None of this looks “too obvious”—if it were a layup, informed traders would have already arbitraged it away.
+Bullish (higher YES probability):  
+• Multiple open Republican seats (9 R‐held term‐limited or open contests) create potential vulnerability.  
+• Early toss‐ups in swing states (MI, NV, WI, IA, KS, MN, CA) could conceivably swing against the GOP in multiples.  
+Bearish (lower YES probability):  
+• CNN/NJ.com (2/19/26): GOP holds 26, facing toss-ups that nevertheless “make it unlikely they will fall below 24.”  
+• Ballotpedia (2/11, 2/18/26) and Gambit Forecaster (3/1/26): incumbency advantage, many races leaning or likely Republican, stable partisan fundamentals.  
+Source credibility and recency: all sources are from Feb–Mar 2026 and well‐regarded election trackers. None offer precise probabilities of net –3/–4 GOP seats, but consensus leans toward Republicans retaining at least 24 seats, making a 3–4‐seat drop relatively unlikely.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 20% probability implies traders see a high chance of a swing of ≥2 seats in either direction.  
-• Low volume (≈$2.3 K) and narrow spread (4¢) suggest either one or a few active traders or that the outcome is seen as too uncertain to draw much capital.  
-• Given the roughly equal number of competitive seats on both sides, 20% could well be a consensus forecast of a large net shift.
+A 21% price implies a material chance of net GOP losses of 3–4. Given the incumbency edge and forecasts, a lower probability (perhaps in the 10–15% range) seems more plausible. Low volume suggests only a handful of traders have set this price—either they see plausible downside risk to the GOP or there’s simply not enough attention to correct an overestimate. The tight spread indicates those participants agree, but that may not reflect the broader pool of informed bettors.
 
 4. MISPRICING ASSESSMENT  
-• No single, overlooked fact jumps out; battleground analyses already factor in both risks and opportunities.  
-• The balance of safe seats versus multiple toss-ups supports a material chance of a net ≥2 swing.  
-• The market price thus looks neither obviously too high nor too low.  
+Evidence tilts toward the market overpricing the probability of Republicans ending up at exactly 22 or 23 governorships. The major forecasters do not foresee losses of 3–4 seats in aggregate, and key battlegrounds generally tilt Republican or favor incumbents. While the true probability is uncertain, it likely lies below 21%, perhaps closer to 10–15%.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 30% (moderate uncertainty, no smoking gun)  
-• Magnitude of mispricing: 5 cents (even if off, unlikely to exceed this)  
-• Expected value = 0.3 × 5 cents = 1.5 cents
+Strength of evidence for mispricing: ~40% (moderately reliable forecasts but no precise aggregate model)  
+Magnitude of mispricing: ~10 cents (market at 21% vs. true ~11–15%)  
+Expected value ≈ 0.40 × 10¢ = 4.0¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Battleground states offer roughly equal chances of Republicans gaining or losing multiple seats, making a tight “22 or 23” outcome plausibly low and the 20% price reasonable. Low trading volume hints at limited engagement rather than a glaring mispricing.  
+EXPECTED_VALUE: 4.0  
+SUMMARY: Forecasters across Ballotpedia, Gambit, and CNN/NJ.com uniformly expect Republicans to retain at least 24 governorships, making a 3–4‐seat net loss—and thus exactly 22 or 23 seats—less likely than the market’s 21% price. Low trading volume suggests this overestimate may persist uncorrected.  
 CONFIDENCE: medium
 
 ---
@@ -63,70 +54,30 @@ Title: A look at gubernatorial battlegrounds in 2026 - Ballotpedia News
 Author: 
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://news.ballotpedia.org/2026/02/11/a-look-at-gubernatorial-battlegrounds-in-2026/
-Summary: The article from Ballotpedia discusses the gubernatorial elections in 2026, highlighting seven key battleground states that could influence the overall balance of power among governorships. The states identified are California, Iowa, Kansas, Michigan, Minnesota, Nevada, and Wisconsin. 
+Summary: The 2026 gubernatorial elections feature seven key battleground states—Wisconsin, Nevada, Minnesota, Michigan, Kansas, Iowa, and California—where control is highly competitive or uncertain. Incumbents in Wisconsin, Minnesota, and California are not seeking re-election, increasing turnover risk. Several races are rated as toss-ups or leaning Republican, notably Nevada, Michigan, Kansas, and Iowa, indicating potential shifts in party control. The overall competitiveness, incumbency status, and recent election trends suggest a dynamic race that could influence whether the Republican Party maintains or gains enough governorships to reach 22 or 23 seats post-election.
 
-1. **California**: Incumbent Gavin Newsom (D) is term-limited, with 24 candidates already filed for the primary, indicating a competitive race.
-   
-2. **Iowa**: Incumbent Kim Reynolds (R) is not seeking re-election. The race is rated Lean Republican, suggesting a potential Republican advantage.
-
-3. **Kansas**: Incumbent Laura Kelly (D) is term-limited. The race is rated Lean Republican by some sources and a toss-up by others, indicating uncertainty.
-
-4. **Michigan**: Incumbent Gretchen Whitmer (D) is term-limited, and the race is considered a toss-up, which could swing either way.
-
-5. **Minnesota**: Incumbent Tim Walz (D) is not running for re-election, with a crowded field of candidates, primarily Republicans, suggesting a competitive environment.
-
-6. **Nevada**: Incumbent Joe Lombardo (R) is running, but the race is rated as a toss-up, indicating a highly competitive scenario.
-
-7. **Wisconsin**: Incumbent Tony Evers (D) is not seeking re-election, and the race is rated as
-
-Title: 2026 Governors and Legislatures | MultiState
-Author: MultiState
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.multistate.us/resources/2026-governors-and-legislatures
-Summary: The webpage provides a detailed chart of gubernatorial and legislative partisan control for each state as of 2026. It lists the current governors, their party affiliations, and the composition of state legislatures. 
-
-To predict whether the Republican Party will hold exactly 22 or 23 governorships after the 2026 midterm elections, consider the following key points from the chart:
-
-- **Current Republican Governorships**: As of now, there are 23 Republican governors listed, including states like Alabama, Florida, and Texas.
-- **Upcoming Elections**: Several states with Republican governors, such as Indiana and Mississippi, have elections scheduled in 2026. The outcomes in these states will significantly influence the total number of Republican governorships.
-- **Competitive States**: States like Arizona and Georgia, currently under Republican control, could be competitive in the upcoming elections, potentially impacting Republican retention.
-- **Trifecta Control**: The chart indicates states where Republicans have trifecta control (governorship and both legislative chambers), which may provide advantages in maintaining governorships.
-
-Overall, the Republican Party's ability to hold 22 or 23 governorships will depend on the outcomes of the elections in these key states and the political climate leading up to the midterms.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report indicates that most gubernatorial races remain within stable partisan environments, with limited immediate volatility. While the overall landscape favors incumbents and established fundamentals, the model has expanded uncertainty in some races, though no specific predictions about exact governorship counts are provided. The forecast emphasizes that early campaign dynamics, candidate fields, and polling remain fluid, making precise predictions about whether Republicans will hold exactly 22 or 23 governorships uncertain at this stage. The model's recent methodological updates aim to better capture regional and national influences, but definitive outcomes for individual states, including the total number of governorships held by Republicans, are still subject to change as campaigns develop.
 
 Title: A look at this year's gubernatorial battlegrounds - Ballotpedia News
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://news.ballotpedia.org/2026/02/18/a-look-at-this-years-gubernatorial-battlegrounds/
-Summary: The article from Ballotpedia discusses the upcoming gubernatorial elections in 2026, where elections are taking place in 36 states, with 18 of those having no incumbent running for re-election. Currently, both Democrats and Republicans hold 18 governorships each. 
-
-Key battleground states that could influence the Republican Party's chances of holding 22 or 23 governorships include:
-
-1. **California**: Incumbent Gavin Newsom (D) is term-limited, and while 24 candidates are running, the race is currently rated as *Solid* or *Safe Democratic*. However, the presence of multiple viable Democratic candidates could allow GOP candidates to perform better than expected.
-
-2. **Iowa**: With incumbent Kim Reynolds (R) not seeking re-election, the race is rated as *Lean* or *Likely Republican*. Historical trends show that Iowa has not elected a Democratic governor since 2006, but recent special elections indicate a potential shift.
-
-3. **Kansas**: Incumbent Laura Kelly (D) is term-limited, and the race is rated as either *Lean Republican* or a *Toss-Up*. This state has a unique political dynamic, with a veto-proof majority in the legislature for one party and the governorship held by the other.
-
-4. **Michigan**: Incumbent Gretchen Whitmer (D) is also term-limited, and the race features 14 candidates. The outcome here could significantly impact the
+Summary: The 2026 gubernatorial elections are taking place in 36 states, with Democrats and Republicans each currently holding 18 of the offices up for election. Key battleground states include California, Iowa, Kansas, Michigan, Minnesota, and Nevada, among others. Several states feature competitive races with no incumbent running, and forecasters rate some contests as leaning or likely Republican or Democratic, indicating potential shifts in party control. Notably, Kansas has a veto-proof legislature controlled by one party while the governor's office is held by the other, and Michigan's race is a toss-up. Given the current balance and competitive nature of these races, the outcome could influence whether the Republican Party ends up holding exactly 22 or 23 governorships after the elections.
 
 Title: Ballotpedia Reports: Gubernatorial Races to Watch in 2026
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.digitaljournal.com/pr/news/newsfile/ballotpedia-reports-gubernatorial-races-watch-1457692453.html
-Summary: The 2026 gubernatorial elections will feature 36 races, with 15 incumbents term-limited, including six Democrats and nine Republicans. Key states to watch include:
+Summary: The 2026 gubernatorial elections feature 36 races, with nearly half being open seats due to term limits—six Democrats and nine Republicans. Key races include open contests in Wisconsin, Minnesota, Michigan, Georgia, Colorado, and California, among others. Several incumbent Republicans, such as Kevin Stitt in Oklahoma, are term-limited, likely leading to competitive primaries. The political landscape is dynamic, with states like Georgia and Colorado emerging as battlegrounds. Given the current partisan distribution and the number of open seats, the Republican Party's ability to hold exactly 22 or 23 governorships will depend on primary outcomes, candidate quality, and shifting state-level political dynamics. The overall balance could be influenced by whether Republicans successfully defend their open seats and how competitive the primaries are in key states.
 
-- **Georgia**: Incumbent Brian Kemp (R) is term-limited, leading to an open race in a battleground state.
-- **Oklahoma**: Incumbent Kevin Stitt (R) is also term-limited, and the GOP primary is expected to be decisive in this solidly Republican state.
-- **California**: Incumbent Gavin Newsom (D) is term-limited, with a competitive field of candidates that could affect party dynamics.
-- **Michigan**: Incumbent Gretchen Whitmer (D) is term-limited, making this a critical race for both parties.
-- **Wisconsin**: Incumbent Tony Evers (D) is not seeking re-election, creating an open contest.
-
-The outcomes in these states, particularly in battlegrounds like Georgia and Michigan, will be crucial in determining whether the Republican Party can secure 22 or 23 governorships post-election. The dynamics of open seats and the competitive nature of these races suggest that the Republican Party's ability to maintain or increase its governorships will depend on voter turnout and candidate appeal in these key states.
-
-Title: Poll: As the 2026 midterm elections approach, just 23% of ... - Yahoo
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.yahoo.com/news/politics/article/poll-as-the-2026-midterm-elections-approach-just-23-of-americans-are-confident-the-vote-will-not-be-rigged-221139207.html
-Summary: A recent Yahoo/YouGov poll reveals that as the 2026 midterm elections approach, only 23% of Americans are confident that the voting process will not be 'rigged.' This lack of confidence may influence voter turnout and party support, potentially impacting the Republican Party's ability to maintain or gain governorships. Additionally, 59% of U.S. adults oppose former President Trump's suggestion for Republicans to "take over the voting" in 15 states, indicating a significant portion of the electorate may resist partisan control over elections. These sentiments could affect the political landscape and the Republican Party's performance in the upcoming elections, making it challenging to predict whether they will hold exactly 22 or 23 governorships post-election.
+Title: CNN: Democratic governorship drought could continue in 2026 midterm elections - nj.com
+Author: Nick Moyle | NJ.com
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://www.nj.com/politics/2026/02/why-democrats-are-facing-a-major-wake-up-call-in-this-years-governor-races.html
+Summary: The article indicates that prior to the 2026 midterm elections, Republicans hold at least 26 governorships, with some races considered toss-ups and leaning Republican. Polling and analysis suggest that Republicans are likely to maintain their majority of governorships, which has been a long-standing trend since 2012. Given the current projections and the difficulty Democrats face in flipping governorships—especially in states won by Trump in 2024—it is unlikely that Republicans will drop below 24 governorships. Therefore, it is more probable that after the 2026 elections, the Republican Party will hold around 24 to 26 governorships, making it unlikely they will hold exactly 22 or 23.
 
 
