@@ -1,7 +1,7 @@
 # Research: Will the Edmonton Oilers make the NHL Playoffs?
 
 **Market ID:** 0x49c35962962f712e04da2134f14987045a3ad7ab13d7bce17967e7a291fbf87c
-**Researched At:** March 1, 2026 at 05:59:31 AM UTC
+**Researched At:** March 7, 2026 at 02:33:46 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Edmonton Oilers make the NHL Playoffs?"
 
 ---
@@ -9,47 +9,51 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Qualitative analyses show the Oilers are a likely playoff team but with noticeable risk—evidence neither strongly underprices nor overprices the 82% market. Any mispricing is small and unquantified.
+The Oilers’ current third-place but under-.500 status and late-season volatility justify a mid-70s playoff probability; no new credible information suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Edmonton Oilers will finish the 2025–26 NHL regular season qualified for the Western Conference playoffs (top three in each division plus two wild-cards). It resolves YES if they clinch a playoff berth by any official means before elimination; NO if mathematically eliminated or finish outside the qualifiers.
+The market asks whether the Edmonton Oilers will qualify for the 2025–26 NHL playoffs under the league’s official format (top 3 in Pacific or one of two Western Conference wild-cards). “Yes” requires them to finish in a playoff spot; “No” if they finish outside.
 
 2. EVIDENCE EVALUATION  
-Bearish signals (could argue price too high):  
-• Feb 5 Edmonton Journal: “uncertain playoff prospects,” “current trajectory does not guarantee a playoff appearance,” citing inconsistency, injuries, coaching questions, and strong competition.  
-• Feb 23 OilersNation: Oilers sit mid-pack after 24 games left, need to overtake rivals in Central/West; their season has been streaky (5–4–3, 6–6–2, then better Dec/early Jan, then a three-game skid).  
-• ESPN Bubble Watch (Feb 25): Omits Oilers from top tiers and implies bubble status; suggests they are on the playoff borderline rather than locked in.
+Bearish signals  
+• As of March 2, the Oilers are 29-24-8, third in the Pacific but have played more games than Vegas and Seattle, both within striking distance.  
+• Defensive lapses and goaltending issues persist, per TSN and Yahoo Sports, suggesting risk of a late‐season slide.  
+• They’re fighting to stay in the race rather than pushing for division control, increasing volatility around a .500 record.  
 
-Bullish signals (supports ~82%):  
-• They have elite scorers (McDavid, Draisaitl) and recent championship-caliber experience (Finalists last season), likely factored into a high win probability.  
-• Their December surge (9–5–1) and strong January start (3–1–1) show they can go on stretch runs.  
-• Low spread (6¢) indicates at least some trader conviction and possibly insider confidence.
+Bullish signals  
+• Connor McDavid and Leon Draisaitl remain elite; historically the team rallies down the stretch.  
+• Roster tweaks (waiving depth players, potential goalie acquisitions) show management is addressing weaknesses.  
+• A third‐place slot even with a mediocre record often morphs into a wild-card berth.  
 
-Source credibility and recency:  
-• Edmonton Journal and OilersNation are local, speak to team health and standings as of late Feb 2026—timely but qualitative.  
-• ESPN’s bubble watch is reputable but doesn’t give Oilers-specific metrics—useful for context but non-quantitative.  
-• No research provides a precise model or probability to directly challenge 82%.
+Source credibility and recency  
+• Yahoo Sports, The Hockey News, and TSN reports are from March 2, 2026, offering up-to-date, detailed analysis.  
+• ESPN’s projection from October 2025 is older but noted roster upgrades that have at least partly materialized.  
+
+No source cites a >75% or <50% chance; all highlight a close race. Nothing leaps beyond what markets likely know—if that level of insight were game-changing, informed traders would already act.
 
 3. MARKET EFFICIENCY ANALYSIS  
-The narrow 6¢ spread suggests some depth of belief, even if volume is low ($3.5 K). Price could reflect broad consensus among informed fans expecting a likely but not certain berth. Alternatively, one or two over-confident traders could have set it if truly under-engaged. The compressed spread may simply indicate the sport’s off-season low liquidity rather than price accuracy.
+• 75.5% can reflect consensus: a playoff‐bound team that’s underperforming but with enough star power to finish strong.  
+• Low volume may simply signal that the outcome feels “obvious enough” to most participants rather than overlooked.  
+• There’s no sign of a one‐sided or stale quote; the narrow spread suggests at least two active participants.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, quantifiable gap: bearish commentary and standings imply a lower probability, but bullish factors (star power, past success) and no contrary numeric projections leave room around ~80%. No source cites e.g. a 50% chance or <60% that would strongly contradict 82%.  
-Given the mixed but qualitative evidence, large mispricing (>20¢) is unlikely; at most a small edge in either direction, but no concrete data indicates a multi-ten-cent disparity.
+• No specific, credible new evidence indicates the market is off by more than a few cents.  
+• The margin of error is likely small: the team’s position is precarious but not dire, matching mid‐70s probability.  
+• The uncertain late‐season dynamics argue against declaring a large mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 20% (qualitative, non-numerical)  
-Magnitude of mispricing: 5¢ (plausible small bias if any)  
-Expected value = 20% × 5¢ = 1¢
+• Strength of evidence: 30% that there’s any mispricing (given mixed signals but no clear informational edge).  
+• Magnitude: ~5 cents at most (the market is tight around a plausible mid-70s forecast).  
+• Expected value = 0.30 × 5 cents = 1.5 cents
 
-EXPECTED_VALUE: 1  
-SUMMARY: Qualitative analyses show the Oilers are a likely playoff team but with noticeable risk—evidence neither strongly underprices nor overprices the 82% market. Any mispricing is small and unquantified.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: The Oilers’ current third-place but under-.500 status and late-season volatility justify a mid-70s playoff probability; no new credible information suggests a large mispricing.  
 CONFIDENCE: low
 
 ---
@@ -58,73 +62,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: A closer look at the Western Conference playoff race and where the Oilers stand
+Title: The State Of The Oilers And Their Playoff Position - Yahoo Sports
+Author: Caprice St-Pierre Mon, March 2, 2026 at 8:20 p.m. UTC · 3 min read
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://ca.sports.yahoo.com/news/state-oilers-playoff-position-202056276.html
+Summary: The Edmonton Oilers are currently positioned third in the Pacific Division with a record of 29-24-8, but they have played more games than most teams in their division, which could impact their playoff prospects. Their recent performance includes a narrow 5-4 loss to San Jose, highlighting defensive struggles despite strong individual efforts from players like McDavid. While they are still in the playoff race, their position is precarious, especially with other teams like Vegas and Seattle having fewer games played and similar or better records. The team's ability to secure a playoff spot will depend on their performance in upcoming games and how other divisional teams perform in their remaining matches.
+
+Title: The State Of The Oilers And Their Playoff Position
 Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://oilersnation.com/news/western-conference-playoff-race-where-edmonton-oilers-stand
-Summary: The Edmonton Oilers are currently in a competitive position within the Western Conference playoff race as the 2025-26 NHL season resumes after the Winter Olympics. Their performance has been inconsistent, with early records of 5-4-3 and 6-6-2 in October and November, followed by a stronger December (9-5-1) and a solid start to January (3-1-1). However, they faced challenges leading up to the Olympic break, including a three-game losing streak, capped by a 4-3 loss to the Calgary Flames.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://thehockeynews.com/nhl/edmonton-oilers/latest-news/the-state-of-the-oilers-and-their-playoff-position
+Summary: The Edmonton Oilers are currently positioned third in the Pacific Division with a record of 29-24-8, but they have played more games than most teams in their division, which could impact their playoff prospects. Their recent performance has been inconsistent, including a recent 5-4 loss to San Jose and defensive lapses that have hindered their success. While they are still in the playoff hunt, they face challenges such as limited control over other teams' game schedules and the pressure of upcoming crucial matches. The team has made roster adjustments, including waiving players like Andrew Mangiapane and Alec Regula, to strengthen their playoff push. Overall, their ability to secure a playoff spot depends on their performance in upcoming games and how other divisional teams fare, but they are approaching a critical juncture in their season.
 
-As of now, the Oilers have 24 games remaining in the regular season and are positioned in the middle of the playoff race. The standings indicate that while the top three teams in the Central Division are likely secure, the Oilers will need to capitalize on their remaining games to improve their playoff chances. Their current performance trends and the competitive nature of the Western Conference will be crucial factors in determining whether they can secure a playoff spot.
-
-Title: Post-Olympics NHL Bubble Watch: Every team's playoff chances - ESPN
-Author: Greg Wyshynski
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.espn.co.uk/nhl/story/_/id/48016481/nhl-2025-26-olympics-stanley-cup-playoffs-bubble-watch-standings-projections
-Summary: The ESPN article titled "Post-Olympics NHL Bubble Watch: Every team's playoff chances" provides an updated overview of NHL teams' playoff prospects following the Olympics. While the text does not specifically mention the Edmonton Oilers, it discusses the overall playoff landscape, which can be useful for predicting their chances.
-
-To assess the Oilers' playoff potential, consider the following factors highlighted in the article:
-
-1. **Current Standings and Performance**: The article likely includes the Oilers' current record and recent performance trends, which are critical indicators of their playoff viability.
-
-2. **Key Players and Injuries**: The impact of star players and any injuries affecting the team could be discussed, influencing their chances of making the playoffs.
-
-3. **Competition**: The playoff picture includes the performance of other teams in the Western Conference, which directly affects the Oilers' chances.
-
-4. **Post-Olympics Momentum**: The article may touch on how teams have performed after the Olympic break, which could indicate whether the Oilers can capitalize on any momentum or setbacks from other teams.
-
-For a precise prediction regarding the Edmonton Oilers' playoff chances, it would be beneficial to look at their specific record, player conditions, and the competitive landscape as detailed in the full article.
-
-Title: Stanley Cup Playoffs conference finals predictions by NHL.com
-Published Date: 2025-05-19T00:00:00.000Z
-URL: https://www.nhl.com/news/2025-stanley-cup-playoffs-conference-finals-predictions-by-nhl-writers
-Summary: The NHL.com article primarily focuses on predictions for the 2025 Stanley Cup Playoffs conference finals, specifically the matchups between the Florida Panthers and Carolina Hurricanes in the Eastern Conference, and the Dallas Stars and Edmonton Oilers in the Western Conference. 
-
-Key points relevant to predicting whether the Edmonton Oilers will make the playoffs include:
-
-1. **Current Performance**: The Oilers are competing in the Western Conference Final against the Dallas Stars. Their performance in this series will be crucial for their playoff success.
-
-2. **Recent History**: The Oilers reached the Stanley Cup Final last season but lost to the Panthers in a seven-game series. This experience could impact their performance positively or negatively.
-
-3. **Predictions**: NHL.com staff overwhelmingly predict the Dallas Stars to defeat the Oilers in the Western Conference Final, suggesting that the Oilers may struggle in this matchup.
-
-4. **Team Dynamics**: The Oilers are looking to make a second consecutive trip to the Final, indicating a strong team that has previously succeeded in the playoffs.
-
-Overall, while the Oilers are currently in the playoffs, their chances of advancing further are seen as uncertain based on expert predictions. Their ability to perform against the Stars will be a significant factor in determining their playoff fate.
-
-Title: Stanley Cup? No guarantee Oilers even make the playoffs at this rate | Edmonton Journal
+Title: Oilers’ issues run deeper than goaltending woes
 Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: http://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers/stanley-cup-edmonton-oilers-nhl-playoffs
-Summary: The Edmonton Journal article discusses the uncertain playoff prospects for the Edmonton Oilers, emphasizing that their current performance raises doubts about their ability to qualify for the NHL playoffs. Key points include:
-
-1. **Current Performance**: The Oilers are struggling, and their recent games have not shown the improvement needed to secure a playoff spot.
-
-2. **Team Dynamics**: There are concerns about team cohesion and effectiveness, which could impact their chances as the season progresses.
-
-3. **Competition**: The article highlights the competitive landscape of the NHL, suggesting that other teams are performing better, making it harder for the Oilers to clinch a playoff berth.
-
-4. **Injury Reports**: Player injuries and their recovery timelines could also play a significant role in the Oilers' playoff chances.
-
-5. **Coaching and Strategy**: The effectiveness of the coaching staff and their strategies moving forward will be crucial in determining the team's success.
-
-Overall, the article suggests that while the Oilers have the potential to turn things around, their current trajectory does not guarantee a playoff appearance.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.tsn.ca/nhl/article/oilers-issues-run-deeper-than-goaltending-woes/
+Summary: The Edmonton Oilers, despite their recent resilience and strong offensive talent led by Connor McDavid and Leon Draisaitl, are currently struggling to secure their playoff spot. Historically, the team has shown the ability to rally late in the season, but this year they are fighting to stay in the playoff race rather than pushing for a division title. Key issues include a lack of depth at forward early in McDavid's tenure and ongoing goaltending problems, with recent calls for acquiring goalies like Binnington or Bobrovsky. Their goal differential since 2020-21 is +69, which is decent but not indicative of dominance. Given these factors, their chances of making the playoffs are uncertain and depend heavily on their ability to address these issues and improve their performance in the remaining weeks.
 
 Title: Predicting where every NHL team finishes in 2025-26 - ESPN
 Author: Greg Wyshynski
 Published Date: 2025-10-08T00:00:00.000Z
 URL: https://www.espn.com/nhl/story/_/id/46521675/nhl-2025-26-teams-standings-predictions-stanley-cup-playoffs-divisions
-Summary: The ESPN article predicts the standings for the 2025-26 NHL season, highlighting the Colorado Avalanche as the favorites to win the Stanley Cup. The Edmonton Oilers, who have faced challenges in recent seasons, are mentioned as a team that has lost consecutive Stanley Cup Finals. The article suggests that the Oilers, along with other teams like the Dallas Stars and Vegas Golden Knights, are part of a competitive landscape in the Western Conference. 
+Summary: The article discusses predictions for the final standings of NHL teams in the 2025-26 season, including key trades, team performances, and roster changes that could influence playoff outcomes. Specifically for the Edmonton Oilers, recent acquisitions such as Jason Dickinson and Colton Dach suggest strategic moves to bolster their roster. While the article does not provide a definitive answer on whether the Oilers will make the playoffs, it highlights that their current roster improvements and team dynamics are factors that could enhance their chances of qualifying. Overall, the prediction depends on how these changes translate into on-ice performance relative to other teams in the league.
 
-While the article does not explicitly state whether the Oilers will make the playoffs, it implies that their recent struggles could impact their chances. For a more accurate prediction regarding the Oilers' playoff prospects, consider their current roster strength, performance trends, and competition within their division.
+Title: 7 storylines heading into 2025 Stanley Cup Final rematch between ...
+Author: Dan Rosen
+Published Date: 2025-06-02T00:00:00.000Z
+URL: https://www.nhl.com/news/2025-stanley-cup-final-storylines-florida-panthers-edmonton-oilers
+Summary: The article focuses on the upcoming 2025 Stanley Cup Final rematch between the Florida Panthers and Edmonton Oilers, highlighting key storylines such as the significance of this repeat matchup, the historical rarity of teams defending their championship, and the Oilers' pursuit of their first Stanley Cup since 1990. It emphasizes the performances of star players Connor McDavid and Leon Draisaitl, who are aiming to cement their legacies by winning the title. While the article does not directly address the Oilers' playoff prospects, their presence in the Stanley Cup Final indicates they successfully qualified for the playoffs and advanced through the postseason to reach this stage.
 
 

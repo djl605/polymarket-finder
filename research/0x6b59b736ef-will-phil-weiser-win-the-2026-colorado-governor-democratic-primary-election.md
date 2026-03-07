@@ -1,7 +1,7 @@
 # Research: Will Phil Weiser win the 2026 Colorado Governor Democratic primary election?
 
 **Market ID:** 0x6b59b736ef8ec2c0f88139eb426dfcdbe7a0549e3415884f28b07a9b66602544
-**Researched At:** March 1, 2026 at 06:05:14 AM UTC
+**Researched At:** March 7, 2026 at 02:34:25 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Phil Weiser win the 2026 Colorado Governor Democratic primary election?"
 
 ---
@@ -9,51 +9,51 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 10.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Early polling and a two-candidate dynamic suggest Weiser’s chances (~40–50%) are far above the 18.5% market price, and low trading volume hints at an underpriced market. This implies an expected edge of roughly 10 cents.
+Early, low‐credibility polling gives Weiser 50% support, but methodological gaps and race volatility justify skepticism. The market’s 18% price plausibly reflects uncertainty, possible challengers, and polling instability, yielding only a small expected mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Phil Weiser win the June 30, 2026 Colorado Democratic gubernatorial primary?”  
-• YES if Weiser finishes first among all Democratic candidates in that primary (including a run-off or second round if held).  
-• NO if any other Democrat (e.g., Michael Bennet or a third‐party entrant) wins, or if no primary occurs (in which case it resolves “Other”).
+The market asks: “Will Phil Weiser win the 2026 Colorado Democratic gubernatorial primary?”  
+• YES if Weiser is the overall plurality winner of the June 30, 2026 Democratic primary (including any run-off).  
+• NO otherwise (including no primary or a different winner).
 
 2. EVIDENCE EVALUATION  
-Bullish for Weiser (i.e. suggesting price underestimates his chances):  
-• December 2025 ColoradoPols diary poll shows Weiser at ~50% support vs. Bennet at ~55% (polling overshoot but implies a two-man race at roughly parity). If that head-to-head is the right model, Weiser’s win probability could be ~45–50%, not 18.5%.  
-• Both Colorado Politics (Feb 21) and Denver Gazette (Feb 21) note Weiser’s strong profile as AG in a safely Democratic state, which should translate into a robust primary showing.  
-Bearish (i.e. suggesting price may be reasonable or even high):  
-• Denver Post (Feb 1) finds that outside spending for Bennet “has surpassed” Weiser, possibly shifting activism, mailers, and turnout efforts Bennet’s way.  
-• No recent public polling since late 2025; race dynamics (ground game, endorsements) are still evolving.  
-Source Credibility & Recency:  
-• Ernest Luning (Colorado Politics & Denver Gazette) is a credible state‐politics reporter; pieces are from 02/21/2026.  
-• Denver Post / Nick Coltrain on spending is also credible (02/01/2026).  
-• ColoradoPols diary on polling has less methodological transparency and is older (12/29/2025).  
+Bullish on Weiser (>18% chance):  
+• ColoradoPols poll (undated) shows Weiser commanding ~50% support among likely Democratic primary voters, implying he’s the clear front-runner.  
+• Weiser’s status as sitting Attorney General gives name recognition, fundraising, and party‐establishment backing in a safely Democratic state.  
+
+Bearish on Weiser (<18% chance):  
+• The ColoradoPols poll lacks methodological transparency (sample size, field dates), making it unreliable.  
+• Gambit Forecaster notes early‐cycle instability in primaries and uneven polling quality; models aren’t yet fully calibrated on 2026 primaries.  
+• Media coverage emphasizes a two-way Bennet-Weiser contest but stresses uncertainty; both are well‐funded and experienced, making an outright Weiser win far from locked.  
+• Potential entry of additional credible Democrats (e.g., lower‐tier candidates) or a run‐off scenario could dilute Weiser’s vote share.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A ~18.5% price implies Weiser is a heavy underdog, which conflicts with a two-candidate scenario and the early poll suggesting near-parity.  
-• Total volume is low ($1.6 k) and spread tight, hinting that few traders have expressed this view; if one or two contrarians set the price, it may not reflect broad consensus.  
-• If the race were truly this one-sided, we’d likely see newspaper commentary or internal party chatter making that clear—but coverage still describes it as competitive.
+• An 18% probability could reflect:  
+   – The view that Bennet, with national profile, is the stronger candidate.  
+   – Hedge against unknown entrants or run-off risk.  
+   – Incorporation of polling volatility given the early stage.  
+• Low $1.6K volume means price may be set by a few traders, but the tight 2¢ spread suggests even those few are in close accord.  
+• If many informed insiders believe the race is competitive rather than a runaway, they’d anchor around mid‐teens for each candidate rather than 50%.
 
 4. MISPRICING ASSESSMENT  
-• The price appears too low relative to:  
-  – A two-person race with a poll‐implied ~45% win rate for Weiser.  
-  – His institutional advantages in a Democratic‐leaning state.  
-• Absent new disqualifying developments, a baseline “coin flip” model between two major candidates suggests ~40–50%, not <20%.  
-• No technical resolution quirks or hidden eligibility issues appear to invalidate that model.  
-Conclusion: There is reasonably credible evidence that the market underprices Weiser’s win probability by on the order of ~20 cents.
+• The lone piece of “hard” polling (50% for Weiser) contrasts with 18% but is low‐credibility.  
+• No high-quality, recent public polls corroborate that level of support.  
+• Given early stage, modeling uncertainty, and possible field changes, 18% is within a plausible range.  
+• There’s no specific, credible evidence traders are overlooking that would justify >20¢ deviation from 18%.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is too low: ~50% (poll+two-candidate logic vs. current price).  
-• Magnitude of mispricing: ~20 cents (difference between ~40–45% fair odds and 18.5% market).  
-• Expected value ≈ 0.50 × 20 cents = 10 cents.
+• Strength of evidence for mispricing (poll vs. market): ~40% (poll is dubious).  
+• Magnitude of potential mispricing if poll were accurate: ~5¢ (50%–18% = 32¢, but discount for poll unreliability).  
+• Expected value ≈ 0.4 × 5¢ = 2¢.
 
-EXPECTED_VALUE: 10.0  
-SUMMARY: Early polling and a two-candidate dynamic suggest Weiser’s chances (~40–50%) are far above the 18.5% market price, and low trading volume hints at an underpriced market. This implies an expected edge of roughly 10 cents.  
+EXPECTED_VALUE: 2  
+SUMMARY: Early, low‐credibility polling gives Weiser 50% support, but methodological gaps and race volatility justify skepticism. The market’s 18% price plausibly reflects uncertainty, possible challengers, and polling instability, yielding only a small expected mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -62,73 +62,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Who Will be the Democratic Nominee for Governor in 2026?
+URL: https://www.coloradopols.com/diary/219664/who-will-be-the-democratic-nominee-for-governor-in-2026
+Summary: The webpage provides current polling data and candidate standings for various Colorado political races, including the 2026 Democratic primary for governor. Notably, Phil Weiser is listed as a potential Democratic candidate for governor, with a polling lead of 50%. The data suggests he is a prominent contender within the Democratic field, which could indicate a strong position to win the primary if he maintains or improves his standing. However, as the race is still in the early stages, and primary outcomes depend on numerous factors such as campaign dynamics, voter preferences, and potential challengers, it remains uncertain whether Phil Weiser will secure the nomination.
+
+Title: Bennet, Weiser face off in gubernatorial forum | Colorado | gjsentinel.com
+Author: NATHAN DEAL Nathan.Deal@gjsentinel.com
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.gjsentinel.com/news/colorado/bennet-weiser-face-off-in-gubernatorial-forum/article_1b883d9a-3116-4aa1-95f8-824009a37fc5.html
+Summary: The article covers a gubernatorial forum in Colorado where incumbent Attorney General Phil Weiser and challenger Bennet face off, discussing their policies and campaign positions. While it provides insights into Weiser's platform and the dynamics of the race, it does not offer specific polling data or election outcome predictions. Therefore, predicting whether Phil Weiser will win the 2026 Democratic primary requires considering his current campaign momentum, voter support, and the competitive landscape, which are not detailed in this article.
+
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report analyzes the current landscape of U.S. Senate and gubernatorial races, emphasizing that the cycle is still in early calibration with many races exhibiting stability, though some show emerging volatility. While specific candidate outcomes, such as Phil Weiser's prospects in the Colorado Democratic primary, are not directly addressed, the report highlights that candidate fields are still settling, and high-quality polling remains uneven. The model now incorporates more rigorous polling calibration and considers national and state-level correlations, which could influence primary outcomes. Overall, predicting Weiser's primary victory would depend on ongoing primary polling, candidate dynamics, and how national and state factors evolve as the cycle progresses.
+
 Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Colorado Politics
 Author: Ernest Luning
 Published Date: 2026-02-21T00:00:00.000Z
 URL: https://www.coloradopolitics.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
-Summary: In the lead-up to the 2026 Colorado gubernatorial primary, U.S. Senator Michael Bennet and Attorney General Phil Weiser are the two prominent Democratic candidates vying for the nomination to succeed term-limited Governor Jared Polis. Both candidates are well-known and well-funded, which suggests a competitive primary race. 
+Summary: The upcoming Democratic primary for Colorado's governor features U.S. Senator Michael Bennet and Attorney General Phil Weiser, both Denver residents, competing to succeed term-limited Governor Jared Polis. While Colorado's general election is considered safely Democratic, the primary contest between Bennet and Weiser is highly competitive, with both candidates well-funded and experienced. The primary process begins in early March, and the outcome remains uncertain, making it difficult to predict whether Phil Weiser will win the nomination.
 
-Key factors to consider in predicting whether Phil Weiser will win the primary include:
-
-1. **Political Background**: Weiser's experience as Attorney General may resonate with voters who prioritize legal and public safety issues. His established presence in state politics could give him an edge.
-
-2. **Voter Support**: Early indications show that voters are lining up behind both candidates, but the dynamics of their campaigns and voter outreach efforts will be crucial as the primary approaches.
-
-3. **Primary Date**: The primary is scheduled for June 30, 2026, and will be critical in determining the Democratic nominee. The outcome may hinge on voter turnout and engagement in the months leading up to the election.
-
-4. **Republican Opposition**: The general election is considered safe for Democrats, as the GOP has not won the governorship since 2002. This context may influence Democratic voter enthusiasm and turnout in the primary.
-
-5. **Campaign Strategies**: The candidates' differing visions for Colorado's future and their campaign strategies will play a significant role in shaping voter preferences.
-
-Overall, while Weiser has a strong chance due to his political experience and the Democratic stronghold in Colorado,
-
-Title: Third-party spending will shape Colorado’s Democratic primary for governor. Here’s who’s fueling it.
-Author: Nick Coltrain  |  ncoltrain@denverpost.com  | The Denver Post
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.denverpost.com/2026/02/01/colorado-governor-race-big-donors-pacs/
-Summary: The article discusses the significant influence of third-party spending on the 2026 Colorado Democratic primary for governor, particularly focusing on the financial backing for candidates Phil Weiser and Michael Bennet. It highlights that outside support for Bennet has surpassed that for Weiser, which could impact their chances in the primary. The involvement of large donors and political action committees (PACs) is emphasized, suggesting that financial resources will play a crucial role in shaping the election outcome. Given this context, the disparity in funding may be a critical factor in predicting whether Phil Weiser can secure a victory in the primary.
-
-Title: Who Will be the Democratic Nominee for Governor in 2026?
-Published Date: 2025-12-29T00:00:00.000Z
-URL: https://www.coloradopols.com/diary/219664/who-will-be-the-democratic-nominee-for-governor-in-2026
-Summary: The webpage discusses potential candidates for the Democratic nomination for Governor of Colorado in 2026, with a focus on Phil Weiser, who is currently polling at 50% for the nomination. Other notable candidates include Michael Bennet, who is also a strong contender with a 55% polling rate. The article provides insights into the political landscape and dynamics within the Democratic Party, which could influence the primary election outcome. Factors such as voter sentiment, campaign strategies, and endorsements will be critical in determining whether Weiser can secure the nomination against his competitors. Overall, while Weiser is currently a strong candidate, the evolving political environment will play a significant role in the final outcome.
-
-Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Denver Gazette
-Author: Ernest Luning
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://www.denvergazette.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
-Summary: In the lead-up to the 2026 Colorado Governor Democratic primary, candidates U.S. Senator Michael Bennet and Attorney General Phil Weiser are actively campaigning and presenting their platforms. Both candidates participated in a forum hosted by the Colorado Young Democrats, where they outlined their visions for the state. 
-
-To assess Phil Weiser's chances of winning the primary, consider the following factors:
-
-1. **Political Background**: Weiser's experience as Attorney General may appeal to voters looking for a candidate with a strong legal background and a focus on justice and public safety.
-
-2. **Campaign Strategy**: Analyze Weiser's campaign messaging and outreach efforts, particularly among key demographics and party activists, which can significantly influence primary outcomes.
-
-3. **Polling Data**: Look for any available polling data that reflects voter preferences within the Democratic base, as this can provide insights into his standing against Bennet.
-
-4. **Endorsements and Support**: Endorsements from influential figures or organizations within the Democratic Party could bolster Weiser's campaign and sway undecided voters.
-
-5. **Voter Sentiment**: Understanding the current political climate in Colorado, including issues that resonate with voters, will be crucial in predicting primary results.
-
-Overall, while Weiser has a solid political foundation, his success will depend on his campaign effectiveness and how well he connects with the electorate leading up to the primary.
-
-Title: Leading Colorado governor candidates spar over best housing ...
-Author: Chase Woodruff
-Published Date: 2026-02-25T06:04:56.496Z
-URL: https://www.durangoherald.com/articles/leading-colorado-governor-candidates-spar-over-best-housing-approach/
-Summary: The article discusses the ongoing debate among leading candidates for the Colorado governor's race, focusing on their differing approaches to housing issues. While the text does not directly address Phil Weiser's candidacy or his chances in the 2026 Democratic primary, understanding the political landscape and key issues can provide context for predicting his success.
-
-To assess Weiser's potential in the primary, consider the following factors highlighted in the article:
-
-1. **Housing Policy Stances**: The candidates are sparring over their housing strategies, which may resonate with voters concerned about affordability and availability. Weiser's position on these issues could significantly impact his appeal to the Democratic base.
-
-2. **Candidate Dynamics**: The article implies a competitive environment among candidates, suggesting that Weiser will need to differentiate himself effectively to gain traction.
-
-3. **Voter Sentiment**: The focus on housing indicates that this issue is a priority for Colorado voters. Weiser's ability to address and propose solutions to housing challenges may influence his primary prospects.
-
-4. **Political Climate**: The broader political context, including party unity and voter turnout, will also play a crucial role in determining the outcome of the primary.
-
-In summary, while the article does not provide explicit predictions about Weiser's chances, analyzing his stance on housing and understanding the competitive dynamics among candidates will be essential for forecasting his success in the 2026 Democratic primary.
+Title: Littwin: Weiser wants Colorado off sidelines in redistricting ...
+Author: Mike Littwin
+URL: https://coloradosun.com/2025/11/02/phil-weiser-colorado-redistricting-wars-opinion-littwin/
+Summary: Phil Weiser, Colorado's Attorney General and 2026 gubernatorial candidate, advocates for Colorado to participate in redistricting efforts despite constitutional restrictions delaying changes until 2028. He emphasizes the importance of addressing gerrymandering and election norms, especially amid national redistricting trends influenced by political strategies like those seen in Texas and North Carolina. Weiser supports strengthening Colorado’s redistricting commission to counteract partisan gerrymandering, which he views as detrimental to democracy. While his stance indicates a proactive approach to shaping electoral districts, there is no specific information in the article about his prospects or campaign strategies for winning the 2026 Democratic primary for governor.
 
 

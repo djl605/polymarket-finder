@@ -1,7 +1,7 @@
 # Research: Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?
 
 **Market ID:** 0x58c721843501296a0330b5edfbd5b9f5529af7fc3296b2c4be45e4e026d41387
-**Researched At:** March 1, 2026 at 06:09:01 AM UTC
+**Researched At:** March 7, 2026 at 02:34:43 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Indian National Congress (INC) win the most seats in the 2026 Kerala Legislative Assembly election?"
 
 ---
@@ -9,42 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 2.0¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-A recent large-sample Lok Poll survey predicts UDF winning 81–86 seats, supporting the current 71% price, while known risks (INC’s internal weaknesses, BJP rise) appear already reflected. There is no clear, unpriced evidence of a large mispricing.
+Surveys predict a solid UDF win but don’t break out INC’s standalone seats, and anti-LDF votes may split with the BJP. In the absence of clear party-level forecasts, the 68.5% price appears broadly reasonable with minimal mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Indian National Congress (INC) will win the greatest number of seats in Kerala’s 2026 Legislative Assembly election (140 seats total). A YES resolution requires INC (via UDF alliance) to secure a plurality of seats—likely 71 or more seats given multi-party competition. A NO resolution covers either another party/alliance winning most seats or a tie-breaker resolving against INC.
+This market asks whether the Indian National Congress (INC) will individually win more seats than any other single party in Kerala’s 2026 Legislative Assembly election. A “YES” resolution requires INC to top the seat tally outright; a “NO” includes any other single party (e.g., CPI(M) of the LDF, BJP) winning as many or more seats, or resolution to “Other” if unresolved by October 31, 2026.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (supports ~71%):  
-• Lok Poll Mega Pre-Poll (Feb 2026): UDF (led by INC) projected 81–86 seats and 43–45% vote share. Sample size large (42 000), recent, and aligns with Vote Vibe.  
-• Historical anti-incumbency: LDF’s 10-year incumbency has generated voter fatigue, which typically boosts the opposition in Kerala’s alternating pattern.  
+Bullish (supports ~68.5%):  
+- Two late-Feb Lok Poll surveys project a UDF victory of 81–86 seats, implying the Congress-led alliance will dominate (but they do not break out INC’s seat share).  
+- Anti-incumbency after ten years of LDF rule historically favors the UDF, and recent local results show momentum against LDF.  
 
-Bearish evidence (argues price may be too high):  
-• Organizational weaknesses: INC’s internal divisions, alliance fragility (loss of Kerala Congress M), and BJP making inroads could dilute UDF votes.  
-• Onmanorama survey: BJP emerging as a credible third force may split anti-LDF votes, reducing UDF’s seat share.  
-• Uncertain translation of vote-share leads into seats; past favorable polls have sometimes over-estimated UDF outcomes.
+Bearish (casts doubt on 68.5%):  
+- The BasisPointInsight analysis highlights UDF’s internal fragility and growing BJP presence, creating uncertainty.  
+- Rajeev Ramachandran notes that anti-LDF votes may split between INC and BJP, reducing INC’s seat haul below expectations.  
+- None of the sources specify INC’s standalone seats, meaning current pricing may overestimate INC’s share within UDF.  
 
-No single piece of evidence strongly contradicts the polls. Both bullish and bearish points are already well known to informed traders; none appears glaringly omitted. Source credibility is high for the Lok Poll survey, moderate for opinion pieces. 
+All sources are from Feb–Mar 2026, credible and recent. Surveys may have sampling error or fail to capture intra-alliance seat distribution.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-The 71% price aligns well with a recent large-sample poll forecasting ~60% seat share for UDF. Low volume may reflect that the outcome is perceived as plausible but far off in time—thus few are trading heavy. The tight spread suggests consensus among the few participants rather than active arbitrage.
+A 68.5% price aligns with a consensus that anti-incumbency heavily favors the opposition alliance. Low volume could reflect that most informed traders see this as a straightforward anti-LDF tilt and haven’t arbitraged small edge, or simply lack detailed party-level seat estimates.  
 
 4. MISPRICING ASSESSMENT  
-There is no clear gap between public polling data and the market price. Both bullish forecasts (~81–86 seats) and known uncertainties (alliance risks, BJP rise) seem already priced in around 70–75%. No specific, credible data suggests a >10-cent mispricing.
+There is no clear sign of a >20-cent mispricing. Surveys indicate a comfortable UDF majority but don’t directly translate to INC’s individual seat count. Potential BJP vote splitting and UDF’s organizational weaknesses are likely already considered by traders given the market’s tight spread.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of mispricing evidence: ~20% (bears may be underweighted)  
-Plausible mispricing magnitude: ~10 cents  
-Expected value ≈ 20% × 10 = 2 cents
+Strength of evidence that there is mispricing: ~30% (the absence of party-level breakdown is a moderate gap).  
+Magnitude if mispriced: ~3 cents (small adjustment if INC underperforms alliance).  
+Expected value = 0.30 × 3 cents ≈ 1 cent.  
 
-EXPECTED_VALUE: 2  
-SUMMARY: A recent large-sample Lok Poll survey predicts UDF winning 81–86 seats, supporting the current 71% price, while known risks (INC’s internal weaknesses, BJP rise) appear already reflected. There is no clear, unpriced evidence of a large mispricing.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: Surveys predict a solid UDF win but don’t break out INC’s standalone seats, and anti-LDF votes may split with the BJP. In the absence of clear party-level forecasts, the 68.5% price appears broadly reasonable with minimal mispricing.  
 CONFIDENCE: low
 
 ---
@@ -53,60 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Kerala assembly elections: Lok Poll's survey predicts decisive victory for Congress led UDF - The South First | News, Politics, Sports, Entertainment & Live Updates
-Author: South First Desk
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://thesouthfirst.com/kerala/kerala-assembly-elections-lok-polls-survey-predicts-decisive-victory-for-congress-led-udf/
-Summary: The Lok Poll's recent "Mega Pre-Poll Survey" suggests a strong likelihood of victory for the Indian National Congress (INC), leading the United Democratic Front (UDF), in the upcoming 2026 Kerala Legislative Assembly elections. Conducted between February 9 and 24, the survey sampled 42,000 respondents and predicts the UDF could secure between 81 to 86 seats, with a vote share of 43 to 45 percent. Key factors contributing to this forecast include the UDF's alliance cohesion, reduced vote leakage, and community consolidation. This aligns with earlier predictions from the Vote Vibe Poll, reinforcing the INC's favorable position ahead of the elections.
-
 Title: BasisPointInsight.com - Kerala 2026: When History Favours Congress, But Politics Doesn’t by Amitabh Tiwari
 Author: Amitabh Tiwari
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.basispointinsight.com/Story/kerala-2026--when-history-favours-congress--but-politics-doesn-t_9ca7b68ad43c.html
-Summary: The article discusses the political landscape of Kerala as it approaches the 2026 Legislative Assembly election, focusing on the Indian National Congress (INC) and its prospects. Historically, Kerala has seen alternating power between the United Democratic Front (UDF), led by the INC, and the Left Democratic Front (LDF). However, the LDF, under Pinarayi Vijayan, broke this pattern by winning consecutive terms in 2016 and 2021, which was unprecedented in the state's political history.
+Summary: The 2026 Kerala Legislative Assembly election is expected to be highly competitive. Historically, Kerala's politics follow a pattern of alternating power between the Left Democratic Front (LDF) and the United Democratic Front (UDF), with the LDF having recently secured back-to-back victories in 2016 and 2021. However, by 2026, the LDF will have governed for a decade, leading to voter fatigue, which typically favors the opposition. The UDF, led by Congress, has gained some momentum from recent local elections, with voter dissatisfaction centered on issues like price rise, corruption, and unemployment—classic anti-incumbency factors. Nonetheless, the Congress-led UDF remains politically fragile, with organizational and alliance challenges. Additionally, the rise of the BJP and shifting social dynamics, including minority voting patterns, complicate predictions. Overall, while anti-incumbency favors the UDF, internal weaknesses and evolving electoral influences make the outcome uncertain.
 
-As of now, anti-incumbency sentiment is palpable, with a significant portion of voters rating the LDF's performance negatively, primarily due to issues like price rises, corruption, and unemployment. This sentiment could favor the UDF, which is seeking to capitalize on the LDF's fatigue after a decade in power.
+Title: Kerala assembly elections: Lok Poll's survey predicts decisive victory for Congress led UDF - The South First | News, Politics, Sports, Entertainment & Live Updates
+Author: South First Desk
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://thesouthfirst.com/kerala/kerala-assembly-elections-lok-polls-survey-predicts-decisive-victory-for-congress-led-udf/
+Summary: The Lok Poll survey predicts a decisive victory for the Congress-led United Democratic Front (UDF) in the 2026 Kerala Legislative Assembly elections, projecting it to win 81–86 seats with a 43–45% vote share. The survey indicates that factors such as alliance cohesion, reduced vote leakage, and community consolidation—particularly among Christians and Muslim voters—favor the UDF. Challenges for the incumbent Left Democratic Front (LDF), including credibility issues stemming from the Sabarimala scam and anti-incumbency sentiments, are also noted. If these trends persist, the UDF appears poised to secure a comfortable majority, suggesting that the Indian National Congress (INC), as the leading party within the UDF, is likely to win the most seats in the upcoming election.
 
-However, the UDF's ability to convert this anti-incumbency into electoral success is uncertain. The party faces challenges in organization, alliances, and credibility, which are crucial for winning elections. The article highlights the importance of social arithmetic in Kerala's politics, noting that the UDF traditionally relies on minority votes, while the LDF has made inroads into these constituencies.
-
-In summary, while historical trends and current voter sentiment suggest a potential advantage for the INC, its success will depend on overcoming internal weaknesses and effectively mobilizing support among key demographics.
+Title: കേരള നിയമസഭാ തിരഞ്ഞെടുപ്പ്: യുഡിഎഫിന് 81-86 സീറ്റുകൾ, അധികാരത്തിലെത്തുമെന്ന് ലോക്പോൾ സർവേ | Kerala Election: Lokpoll Survey Predicts UDF Victory with 81-86 Seats
+Author: ന്യൂസ് ഡെസ്ക്
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://www.mathrubhumi.com/election/kerala-assembly-election-2026/kerala-assembly-election-lokpoll-survey-predicts-udf-victory-wnbl7ejm
+Summary: The recent Lokpoll survey predicts a victory for the United Democratic Front (UDF), led by the Indian National Congress (INC), in the 2026 Kerala Legislative Assembly election, with an estimated 81-86 seats out of 140. The survey indicates strong support for the UDF across various regions, especially in northern and central Kerala, where Muslim and Christian votes are consolidating in favor of the Congress-led alliance. Factors contributing to this outlook include dissatisfaction with the incumbent Left Democratic Front (LDF) government over issues like the Sabarimala gold ornament controversy and corruption allegations, as well as regional political dynamics such as internal party disputes within the LDF and voter shifts in southern Kerala. The survey also suggests that the BJP's influence remains limited, primarily confined to certain northern districts. Overall, these insights support the prediction that the Indian National Congress, as the leading party in the UDF, is poised to secure the most seats in the upcoming election.
 
 Title: Why anti-incumbency, favourable surveys fail to cheer Congress in Kerala
 Author: Rajeev Ramachandran
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://thefederal.com/category/states/south/kerala/kerala-elections-2026-anti-incumbency-against-ldf-failes-to-calm-congress-vote-split-nda-bjp-229438
-Summary: The article discusses the challenges faced by the Indian National Congress (INC) in Kerala, despite favorable surveys and an anti-incumbency sentiment against the ruling Left Democratic Front (LDF). Key points include:
+Summary: The 2026 Kerala Legislative Assembly elections present a complex scenario for the Indian National Congress (INC). Despite over 53% of voters expressing a desire to oust the current Left Democratic Front (LDF) government, anti-incumbency sentiment is fragmented, with significant support for the BJP-led NDA as well. Recent surveys indicate that while there is widespread dissatisfaction with the Pinarayi Vijayan-led government, this discontent may not translate into a decisive victory for the Congress alone, due to organizational challenges and the potential splitting of anti-Left votes among multiple opposition parties. The Congress's focus remains on candidate selection and organizational strength rather than solely targeting the ruling alliance's policies. Overall, the electoral landscape suggests that although anti-incumbency is strong, the presence of multiple opposition factions could prevent the Congress from securing the most seats in 2026.
 
-1. **Electoral Landscape**: The INC has historically struggled in Kerala, where the LDF and the United Democratic Front (UDF) have alternated power. Current surveys suggest a potential shift, but past performance indicates that surveys do not always translate into electoral success.
-
-2. **Voter Sentiment**: While there is some anti-incumbency sentiment, it is not strong enough to guarantee a win for the INC. The party must address local issues and connect with voters more effectively to capitalize on this sentiment.
-
-3. **Party Dynamics**: Internal divisions within the INC and competition from other parties, including the Bharatiya Janata Party (BJP), complicate its chances. The party needs to unify its base and present a compelling alternative to the LDF.
-
-4. **Strategic Focus**: The INC's strategy moving forward will be crucial. It must focus on grassroots mobilization and addressing the concerns of key demographics to improve its chances in the upcoming election.
-
-In summary, while there are factors that could favor the INC in the 2026 Kerala Legislative Assembly election, significant challenges remain that could hinder its ability to secure the most seats.
-
-Title: Onmanorama Assembly Poll Survey 2: BJP may emerge as credible third force in Kerala | Kerala Assembly Elections 2026 predictions | Kerala News | Opinion Poll
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.onmanorama.com/news/kerala/2026/02/26/survey-kerala-assembly-elections-2026-bjp-seats-third-force.html
-Summary: The Onmanorama Assembly Poll Survey indicates that the BJP is emerging as a credible third force in Kerala, suggesting a shift in voter sentiment that could impact the traditional dominance of the INC and CPI(M). While the survey does not directly predict the INC's performance, it highlights a growing expectation among voters for the BJP to secure a significant number of seats, which could dilute the INC's chances of winning the most seats. The evolving political landscape, with the BJP gaining traction, may challenge the INC's historical stronghold in the upcoming 2026 Kerala Legislative Assembly elections.
-
-Title: What are the predictions for the winner of the next assembly election ...
-Author: 
-Published Date: 2025-03-07T00:00:00.000Z
-URL: https://www.quora.com/What-are-the-predictions-for-the-winner-of-the-next-assembly-election-between-UDF-and-LDF-in-Kerala
-Summary: The upcoming 2026 Kerala Legislative Assembly election predictions for the Indian National Congress (INC) hinge on several factors based on recent electoral trends. In the 2021 elections, the United Democratic Front (UDF), led by Congress, maintained a stable vote share of approximately 39.47%, despite losing to the Left Democratic Front (LDF). This stability is notable given the rise of the National Democratic Alliance (NDA), which has siphoned off votes from UDF, particularly from traditional voter bases like the Nair and Ezhava communities.
-
-Key considerations for the 2026 election include:
-
-1. **Vote Share Trends**: Historically, UDF has commanded a vote share between 40% to 45%. The recent elections showed a slight improvement in their vote share, indicating potential resilience.
-
-2. **Impact of Alliances**: The UDF's performance was affected by the loss of key allies, such as Kerala Congress (M), which switched to LDF. The ability to regain or maintain alliances could significantly influence UDF's seat count.
-
-3. **Voter Turnout**: The 2021 election saw a reduced voter turnout of 74.5%, down from 77.35% in 2016. A higher turnout in 2026 could favor UDF if they can mobilize their base effectively.
-
-4. **Pro-Incumbency Wave**: The 2021 election was marked by an unusual pro-incumbency wave, which has
+Title: Congress inches closer to finalising candidate list for Assembly polls in Kerala - The Hindu
+Author: G Anand
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.thehindu.com/news/national/kerala/congress-inches-closer-to-finalising-candidate-list-for-assembly-polls-in-kerala/article70699326.ece
+Summary: The Indian National Congress (INC) in Kerala is in the process of finalizing its candidate list for the 2026 Legislative Assembly elections, with the Central Election Committee reviewing initial nominations next week. The party plans to contest at least 60 constituencies, including key seats like Palakkad, where candidate selection remains uncertain. Prominent leaders such as K. Muraleedharan, Ramesh Chennithala, and others are expected to contest, with many sitting MLAs likely to run again. The party aims for a united front, having minimized factional disputes during candidate selection. While the INC is actively preparing its candidate lineup, the outcome of the election will depend on various factors, including candidate performance, alliance dynamics, and voter sentiment. Given these preparations, the INC appears to be positioning itself strongly, but predicting whether it will secure the most seats remains uncertain until the election results are declared.
 
 

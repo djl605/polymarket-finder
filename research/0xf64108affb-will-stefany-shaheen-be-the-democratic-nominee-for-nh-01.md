@@ -1,56 +1,59 @@
 # Research: Will Stefany Shaheen be the Democratic nominee for NH-01?
 
 **Market ID:** 0xf64108affb6c655b7a50d662d2c508bef1897e40bb3106f7405552c177c92d78
-**Researched At:** March 1, 2026 at 06:04:30 AM UTC
+**Researched At:** March 7, 2026 at 02:34:17 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Stefany Shaheen be the Democratic nominee for NH-01?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.0¢
+**Confidence:** Low
+**Expected Value:** 0.5¢
 
 ### Summary
 
-The qualitative evidence (family brand vs. Dean Kamen scandal and intra-party friction) appears already reflected in a mid-60s probability. No clear signal indicates a >20¢ mispricing.
+There is insufficient public polling or challenger data to show a clear mispricing; the 62.5% chance reflects reasonable baseline expectations for a Shaheen candidacy in a low-visibility primary.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Stefany Shaheen will win the Democratic nomination for New Hampshire’s 1st Congressional District in the September 8, 2026 primary. It resolves YES if she is officially announced as the nominee by November 3, 2026, 11:59 PM ET (and remains the nominee through election day), and NO otherwise.
+This market asks whether Stefany Shaheen will emerge as the Democratic nominee for New Hampshire’s 1st Congressional District in the 2026 midterms. It resolves YES if she is officially named the Democratic nominee by September 8, 2026; it resolves NO if another candidate wins the primary or if no nominee is announced by November 3, 2026 (11:59 PM ET).
 
 2. EVIDENCE EVALUATION  
-Bullish Evidence (supports ~62%):  
-•  Shaheen benefits from name recognition, fundraising networks, and her health-care advocacy (CloseUp, Nov 2025).  
-•  Early encouragement and exploratory support across NH (WMUR, Apr 2025) suggest a base of backing.  
-
-Bearish Evidence (argues price may be high):  
-•  The Dean Kamen/Epstein revelations (Union Leader 2/3/26; InDepthNH 2/4/26) have become a sustained storyline. Criticism from party figures (e.g., Rep. Heath Howard) over her response raises questions about judgment.  
-•  Divergence from party leadership (her public opposition to Senator Shaheen’s shutdown deal) could alienate some Democratic insiders.  
-
-Source Credibility & Recency  
-•  All sources are local/state outlets or niche sites, published January–February 2026. They are timely, but no hard polling or fundraising numbers are cited.
-
-Nothing in the research points to a definitive shift in the race. The Kamen controversy may dent her support, but traders likely priced in that uncertainty already.  
+a. Evidence suggesting 62.5% may be incorrect  
+   - No publicly available primary polling or internal campaign data on Shaheen’s standing versus other declared or prospective Democratic contenders.  
+   - Conflicting signals on her level of commitment: one article labels her “a candidate running for Congress,” another says she is still “considering” a run. Uncertainty on her formal entry and campaign infrastructure.  
+   - No mention of endorsements, fundraising totals, or rivals in research materials—key inputs for a nomination probability.  
+b. Evidence supporting 62.5% as reasonable  
+   - She carries a prominent Democratic family name (daughter of Sen. Jeanne Shaheen), likely boosting visibility and donor interest.  
+   - She’s taken clear policy positions (e.g., opposing the shutdown deal on healthcare grounds), indicating an organized campaign platform.  
+   - Lack of high-profile opponents mentioned in coverage could imply an uncontested or lightly contested field so far.  
+c. Source credibility and recency  
+   - All articles are from reputable local news (WMUR, NHJournal) or dated early March 2026—highly relevant and recent.  
+   - No piece provides hard polling, fundraising, or internal polling data.  
+d. Bullish vs. bearish  
+   - Bullish: Name recognition, early policy visibility, apparent lack of marquee primary challengers.  
+   - Bearish: No confirmed entry, no data on opposition strength, no polling or endorsement evidence.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-•  A 62% probability coheres with “leading but contested.”  
-•  Low volume + tight spread suggests either one well-informed trader or a shared consensus among those few.  
-•  The lack of polling means many informed observers might be sidelined, but no single overlooked fact jumps out.
+   - A 62.5% price could reflect a consensus “gut feeling” that a Shaheen with her pedigree will face little serious primary opposition.  
+   - Low $6.5 K volume and tight spread suggest pricing by a few active participants rather than broad institutional consensus.  
+   - It may simply be overlooked by active political bettors—insufficient attention rather than strong conviction.  
 
 4. MISPRICING ASSESSMENT  
-•  No clear >20¢ mispricing emerges. The mixed qualitative evidence seems already incorporated into a mid-60s price.  
-•  The timeline (6+ months to primary) entails genuine uncertainty; a 62% price is reasonable.
+   - There is no concrete data (polling, fundraising, endorsements) omitted from the price that would shift odds by >20 c.  
+   - The market price fits a back-of-the-envelope “establishment dynast” baseline in a state where that usually matters.  
+   - Without evidence of a dark-horse challenger or her campaign faltering, 62.5% is a defensible ballpark.  
 
 5. EXPECTED VALUE CALCULATION  
-•  Strength of new evidence (vs. what the market likely knows): ~20%  
-•  Plausible magnitude of mispricing: ~5 cents  
-=> Expected value ≈ 1 cent
+   - Strength of evidence for mispricing: ~10% (very weak, mostly absence of data)  
+   - Plausible magnitude if wrong: ~5 c (given typical primary uncertainty)  
+   - EV = 10% × 5 c = 0.5 c  
 
-EXPECTED_VALUE: 1  
-SUMMARY: The qualitative evidence (family brand vs. Dean Kamen scandal and intra-party friction) appears already reflected in a mid-60s probability. No clear signal indicates a >20¢ mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 0.5  
+SUMMARY: There is insufficient public polling or challenger data to show a clear mispricing; the 62.5% chance reflects reasonable baseline expectations for a Shaheen candidacy in a low-visibility primary.  
+CONFIDENCE: low
 
 ---
 
@@ -58,48 +61,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Stefany Shaheen called out for ties to Dean Kamen after Epstein revelations | State | unionleader.com
-Author: Kevin Landrigan Union Leader Staff
-Published Date: 2026-02-03T00:00:00.000Z
-URL: http://www.unionleader.com/news/politics/state/stefany-shaheen-called-out-for-ties-to-dean-kamen-after-epstein-revelations/article_f1feb9c5-0afa-4559-9d98-44acbce52809.html
-Summary: The article discusses Stefany Shaheen's connections to Dean Kamen in light of recent revelations regarding Kamen's ties to Jeffrey Epstein. This scrutiny may impact Shaheen's political standing and her chances of becoming the Democratic nominee for New Hampshire's 1st Congressional District (NH-01). Factors to consider include public perception of her associations, the political climate in New Hampshire, and the reactions from party leaders and voters. As the situation evolves, these elements could play a significant role in predicting her nomination prospects.
-
-Title: Stefany Shaheen’s Dean Kamen Ties Become a Political Problem | InDepthNH.org
-Author: DAMIEN FISHER, InDepthNH.org  (InDepthNH.org)  |   February 3, 2026
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://indepthnh.org/2026/02/03/stefany-shaheens-dean-kamen-ties-become-a-problem/
-Summary: Stefany Shaheen's ties to Dean Kamen, a prominent inventor linked to Jeffrey Epstein, have become a significant political issue as she campaigns for the Democratic nomination in New Hampshire's 1st Congressional District (NH-01). Following the release of documents by the U.S. Department of Justice revealing Kamen's ongoing communication with Epstein after his conviction, Kamen has faced scrutiny, leading to his suspension from FIRST, a youth science organization he founded. 
-
-Shaheen, who has been compensated significantly by Kamen's Advanced Regenerative Manufacturing Institute (ARMI), expressed support for an independent investigation into Kamen's actions but has faced criticism for not condemning him outright. Opponent Rep. Heath Howard has called her response inadequate, questioning her judgment and character, which could impact her campaign.
-
-The evolving situation surrounding Kamen and Shaheen's responses may influence voter perceptions and her viability as the Democratic nominee for NH-01, particularly regarding her ability to navigate controversies and maintain moral clarity in her campaign.
-
-Title: Stefany Shaheen considers running in 1st Congressional District
+Title: Stefany Shaheen explains opposition to shutdown deal
 Author: Adam Sexton
-Published Date: 2025-04-14T00:00:00.000Z
-URL: https://www.wmur.com/article/stefany-shaheen-new-hampshire-1st-district/64477376
-Summary: Stefany Shaheen, the daughter of U.S. Senator Jeanne Shaheen, is considering a run for the Democratic nomination in New Hampshire's 1st Congressional District. She has expressed that recent political and healthcare issues, particularly cuts to the National Institutes of Health and challenges faced by small businesses, have motivated her to contemplate this campaign. Shaheen, who has experience as a small business owner and is an advocate for health policy due to her daughter's type one diabetes, believes her personal experiences resonate with many constituents in New Hampshire.
+URL: https://www.wmur.com/article/stefany-shaheen-opposition-shutdown-deal-closeup/69452181
+Summary: Stefany Shaheen, a candidate running for Congress, emphasizes her commitment to healthcare reform, motivated by her personal experience with her daughter's Type 1 diabetes. She opposes the recent bipartisan deal that ended the government shutdown, criticizing it for not extending crucial health care tax credits, which could lead to significant premium increases for families in New Hampshire. Shaheen advocates for legislative action to extend these credits before premiums rise in January. She maintains independence from her mother, Senator Jeanne Shaheen, despite political tensions within their party, and aligns herself with policies she believes are right for her constituents. Her focus on healthcare issues and willingness to oppose party lines suggest she is positioning herself as a candidate with a strong healthcare platform, which could influence her prospects as the Democratic nominee for NH-01.
 
-While she acknowledges that her family name may influence her candidacy—potentially benefiting her within the Democratic Party—she emphasizes her unique experiences and commitment to serving the community. As she weighs her options, she has received encouragement from various individuals across the state, indicating a level of support that could be crucial for her campaign.
-
-Factors that could influence her chances of becoming the Democratic nominee include her ability to connect with voters on key issues, the strength of her campaign strategy, and the dynamics of the Democratic primary field. Overall, her decision to run will depend on her assessment of these elements and the support she garners as she moves forward.
+Title: Who Will Win in 2026? The Granite State Guru Sees All!
+Author: Michael Graham
+URL: https://nhjournal.com/who-will-win-in-2026-the-granite-state-guru-sees-all/
+Summary: The article does not mention Stefany Shaheen or provide specific information about her potential candidacy for NH-01. Instead, it offers a broad outlook on New Hampshire's political landscape in 2026, including predictions about U.S. Senate races, gubernatorial contests, and comparisons to past election years like 2018 and 2006. The focus is on the overall political climate, key figures like Chris Pappas and John Sununu, and the influence of national trends, especially related to Donald Trump. Therefore, there is no direct information or prediction regarding Stefany Shaheen's candidacy for NH-01 in this article.
 
 Title: The Many Rantings of John: 5 Thoughts on Jeanne Shaheen's Retirement
-Author: 
-Published Date: 2026-02-28T00:00:00.000Z
+Author: John T
+Published Date: 2026-03-03T00:00:00.000Z
 URL: http://theworldofjot29.blogspot.com/2025/03/5-thoughts-on-jeanne-shaheens-retirement.html?m=1
-Summary: The article discusses the retirement of Senator Jeanne Shaheen and its implications for the Democratic Party in New Hampshire. It highlights Shaheen's significant political legacy as the first woman to serve as both Governor and Senator of the state. The author suggests that her retirement may not be as detrimental to Democrats as some believe, considering the challenges posed by her age and recent electoral dynamics.
+Summary: The article discusses Jeanne Shaheen's retirement from the U.S. Senate representing New Hampshire, highlighting her historic career as the first woman in U.S. history to serve as both a governor and senator from her state. Her departure is seen by some as a potential opportunity for Democrats, though her age and the political landscape suggest challenges for her successor. The piece also mentions her successful 2008 Senate campaign against John Sununu and notes the possibility of her son, Stefany Shaheen, running for her seat. While the article does not explicitly confirm Stefany Shaheen's candidacy for NH-01, it implies that her potential run could be a significant factor in the upcoming election, especially given her political background and family legacy.
 
-A key point of interest for predicting whether Stefany Shaheen, Jeanne Shaheen's daughter, will be the Democratic nominee for NH-01 is the mention of Chris Sununu, the former New Hampshire Governor, as a potential candidate in the upcoming race. The article implies that the political landscape is shifting, and the Democratic Party may need to consider new candidates, including Stefany Shaheen, especially if established figures like Chris Sununu enter the race.
-
-Overall, while the article does not directly address Stefany Shaheen's candidacy, the context of Jeanne Shaheen's retirement and the potential for new Democratic candidates suggests that her nomination could be a possibility, depending on the evolving political dynamics in New Hampshire.
-
-Title: Stefany Shaheen explains opposition to shutdown deal | CloseUp
+Title: Stefany Shaheen considers running in 1st Congressional ...
 Author: Adam Sexton
-Published Date: 2025-11-17T00:00:00.000Z
-URL: https://www.wmur.com/article/stefany-shaheen-opposition-shutdown-deal-closeup/69452181
-Summary: Stefany Shaheen, daughter of U.S. Senator Jeanne Shaheen, is currently running for Congress in New Hampshire's 1st District (NH-01) and has publicly opposed a government shutdown deal negotiated by her mother. This opposition has garnered backlash from within her own party, as her stance diverges from her mother's actions. Stefany's campaign is heavily focused on healthcare, driven by personal experiences with the healthcare system, particularly after her daughter was diagnosed with type one diabetes. She emphasizes the importance of extending Affordable Care Act tax credits to prevent significant premium increases for families in New Hampshire.
+URL: https://www.wmur.com/article/stefany-shaheen-new-hampshire-1st-district/64477376
+Summary: Stefany Shaheen, daughter of Senator Jeanne Shaheen, is currently considering a run for New Hampshire's 1st Congressional District. She is an entrepreneur and health policy advocate, motivated by concerns over national issues such as medical research funding, tariffs, and small business stability. Shaheen emphasizes her personal experiences, including her background as a small business owner and her child's Type 1 diabetes, as key reasons for her potential candidacy. She acknowledges that her family name will influence perceptions but intends to distinguish her own experiences and approach from her mother's legacy. Her decision to run remains under consideration, and her candidacy could impact the Democratic primary race for NH-01.
 
-Her independent stance on the shutdown deal may resonate with voters seeking a candidate who prioritizes healthcare reform over party loyalty. However, her opposition to her mother's deal could also alienate some party members. As the primary approaches, her ability to navigate these dynamics and maintain support from both constituents and party leaders will be crucial in determining her chances of becoming the Democratic nominee for NH-01.
+Title: Ayotte child advocate nominee withdraws after public hearing
+Author: Adam Sexton
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.wmur.com/article/diana-fenton-withdraws-nh-child-advocate-nominee/70596102
+Summary: The article reports that Diana Fenton, the governor’s nominee for Child Advocate, withdrew her candidacy after a contentious public hearing where opposition was voiced regarding her qualifications. While the focus is on Fenton’s withdrawal, there is no mention of Stefany Shaheen or any information related to her potential candidacy for NH-01. Therefore, based on this webpage, there is no relevant information to predict whether Stefany Shaheen will be the Democratic nominee for NH-01.
 
 

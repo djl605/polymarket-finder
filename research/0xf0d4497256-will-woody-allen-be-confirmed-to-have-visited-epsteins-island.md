@@ -1,7 +1,7 @@
 # Research: Will Woody Allen be confirmed to have visited Epstein’s island?
 
 **Market ID:** 0xf0d4497256b9de806bcdce789fc490102fa15b43231d509237ef93f39a7b0c6c
-**Researched At:** March 1, 2026 at 06:05:44 AM UTC
+**Researched At:** March 7, 2026 at 02:35:30 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Woody Allen be confirmed to have visited Epstein’s island?"
 
 ---
@@ -9,46 +9,46 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.5¢
+**Expected Value:** 4.8¢
 
 ### Summary
 
-There is extensive context on Allen’s friendship with Epstein but no direct evidence of an island visit; the 19.5% price plausibly reflects the small chance of later revelations. No clear mispricing is apparent given current public records.
+Multiple reputable Feb 6 reports unanimously show no evidence of Woody Allen ever visiting Epstein’s island, making a “Yes” outcome more unlikely than the current 18% price implies. While future document releases could yield surprises, the market seems modestly overestimating that risk.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-- The market asks whether by June 30, 2026, public evidence will confirm Woody Allen visited Little St. James (Epstein’s island).  
-- YES requires flight logs, photos/videos, court records, sworn testimony, or public confirmation from Allen himself clearly placing him on the island.  
-- NO if no such evidence becomes public by the deadline.
+1. CONTEXT ANALYSIS  
+– The market asks whether, by June 30, 2026, “evidence is made public confirming that Woody Allen previously visited Little St. James.” A “Yes” needs hard proof (flight logs, photos/videos, sworn testimony, court records, or public admission) that Allen set foot on Epstein’s island before that cut-off. Otherwise it resolves “No.”  
 
 2. EVIDENCE EVALUATION  
-Bullish (Yes) arguments:  
-- Multiple February 2026 articles reveal a close personal friendship: Epstein facilitated a White House tour for Allen in 2015 and they dined together.  
-- Allen’s inclusion in Epstein’s inner social circle raises plausible chance he visited the island.  
-Bearish (No) arguments:  
-- None of the released emails or documents explicitly mention Allen visiting Little St. James.  
-- The February 3 CTV news summary of Epstein files lists high-profile names but not Allen’s name tied to island visits.  
-- November 2025 document dump likewise lacks any direct reference.  
-Source credibility and recency: all are mainstream news outlets citing U.S. Justice Department releases or House Committee documents; recency is February 2026.
+Bullish for “Yes” (suggesting price is too low):  
+• The Epstein file releases are ongoing and additional tranche(s) could surface new island-visit records. Government releases within 48 hours of June 30 extend the window. Traders might underprice this tail risk.  
+
+Bearish for “Yes” (suggesting price is too high):  
+• Five independent Feb 6 articles (AP, Inquirer, NY1, Independent, Redacted) all document Allen’s social ties and the White House tour, but explicitly note “no evidence” of any island visit.  
+• Allen’s own camp denies illicit involvement or island trips.  
+• No credible rumors, flight logs, or eyewitness accounts linking him to Little St. James have emerged despite heavy scrutiny of Epstein associates.  
+
+Source credibility & recency  
+• All sources are reputable news outlets or direct file summaries, dated Feb 6 2026 (4 weeks old). They cover the latest unsealed documents. No contradictory evidence has surfaced since.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- 19.5% reflects a low-probability but non-negligible chance based on social proximity and possibility of undisclosed logs or testimony.  
-- Low $7k volume and tight 3¢ spread: price likely set by a handful of traders with some info but little liquidity for arbitrage.  
-- Informed traders may have considered these friendship details but see no hard evidence yet.  
+• A price of 18% can be justified as a mix of: (a) low but non-zero chance that hidden evidence emerges, (b) room for additional file releases, and (c) general uncertainty around Epstein investigations.  
+• Low volume ($7.7 K) and tight spread (2¢) suggest either one active trader or a few with similar Bayesian priors. Informed traders may see 18% as “about right” given the absence of evidence but non-zero leak risk.  
 
 4. MISPRICING ASSESSMENT  
-- No new documents or credible leaks directly suggest Allen visited the island before market start.  
-- If anything, insiders would have leaked or been reported if flight logs existed; absence suggests low likelihood.  
-- No clear mispricing: the market’s 19.5% seems to capture a modest tail risk of future evidence.  
+• The documented research shows zero direct evidence of island visits; public confirmation seems unlikely.  
+• The 18% price appears generous: the likelihood of new, definitive island-visit evidence within ~4 months seems under 10%.  
+• However, uncertainty about pending government releases and unexamined private records might justify a small positive tail.  
+• I see no sign that there’s a >20¢ mispricing; rather a modest overestimate.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is misaligned: very low (~10%), since no missing info appears.  
-- Potential magnitude of mispricing if wrong: small (≈5¢), because even if some leak emerges it likely bumps price modestly.  
-- Expected value ≈ 10% × 5¢ = 0.5¢.
+• STRENGTH of evidence that price is too high: 60% (the existing record is clear and no leads point to an island visit).  
+• MAGNITUDE of mispricing: ~8¢ (true probability closer to ~10% vs. 18%).  
+• Expected value = 0.60 × 8¢ = 4.8¢.  
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: There is extensive context on Allen’s friendship with Epstein but no direct evidence of an island visit; the 19.5% price plausibly reflects the small chance of later revelations. No clear mispricing is apparent given current public records.  
+EXPECTED_VALUE: 4.8  
+SUMMARY: Multiple reputable Feb 6 reports unanimously show no evidence of Woody Allen ever visiting Epstein’s island, making a “Yes” outcome more unlikely than the current 18% price implies. While future document releases could yield surprises, the market seems modestly overestimating that risk.  
 CONFIDENCE: medium
 
 ---
@@ -57,43 +57,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Jeffrey Epstein helped arrange White House visit for Woody Allen
+Title: New Epstein documents reveal Woody Allen's White House visit | AP News
 Author: 
 Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.cp24.com/news/world/2026/02/06/epstein-emails-show-he-helped-arrange-white-house-visit-for-woody-allen/
-Summary: The article discusses the relationship between Woody Allen and Jeffrey Epstein, highlighting that Epstein helped arrange a White House visit for Allen and his wife, Soon-Yi Previn, in 2015. Emails released by the U.S. Justice Department reveal that Epstein used his connections to facilitate this tour, despite his status as a registered sex offender. The correspondence shows that Allen and Epstein were close friends, often dining together and supporting each other amid media scrutiny over allegations of sexual misconduct.
+URL: https://uat.apnews.com/article/woody-allen-jeffrey-epstein-previn-farrow-0e53f8176fd47318e3d4477f3fc967e9
+Summary: Recent emails and records reveal that Woody Allen had a documented relationship with Jeffrey Epstein, including social interactions and visits to Epstein's residence, such as a White House tour arranged with Epstein's assistance in 2015. However, there is no publicly available evidence or record indicating that Allen visited Epstein’s private island. The information primarily details their social connections and shared acquaintances, but does not confirm any visits to Epstein’s island.
 
-While the article does not provide direct evidence regarding a visit to Epstein's island, it emphasizes the depth of their friendship and the social circles they shared, which included other notable figures. The nature of their relationship and Epstein's history of hosting influential individuals could suggest a likelihood of Allen having visited the island, but no specific confirmation is provided in the text. Thus, while the article offers context about their friendship, it does not answer the query directly regarding a visit to Epstein's island.
-
-Title: Epstein emails show he helped arrange White House visit for Woody Allen – NBC Connecticut
-Author: 
+Title: Woody Allen Sexual Assault Allegations | Epstein Files
+Author: Redacted Report
 Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.nbcconnecticut.com/news/national-international/epstein-emails-show-helped-arrange-white-house-visit-for-woody-allen/3697024/
-Summary: The recent release of emails from Jeffrey Epstein's records reveals that he facilitated a White House visit for filmmaker Woody Allen and his wife, Soon-Yi Previn, in 2015. This relationship, characterized by mutual support during media scrutiny over allegations of sexual misconduct, highlights the close ties between Allen and Epstein, who were neighbors in New York City. The emails show Epstein reaching out to former White House counsel Kathy Ruemmler to arrange the tour, indicating a level of influence and connection Epstein had, despite his criminal history as a registered sex offender. 
-
-While this information underscores the nature of Allen's relationship with Epstein, it does not provide direct evidence regarding whether Allen visited Epstein's private island. The existing connections and social interactions between Allen and Epstein suggest a complex relationship, but further evidence would be needed to confirm any visits to the island.
+URL: https://redactedreport.substack.com/p/woody-allen-sexual-assault-allegations
+Summary: The unsealed Epstein files reveal a long-standing association between Jeffrey Epstein and Woody Allen, with documented social interactions spanning over a decade, including dinners, social gatherings, and shared events up until 2019. While these records show a close social relationship, there is no direct evidence or confirmation that Woody Allen visited Epstein’s island. Allen’s representatives have stated that their interactions with Epstein did not involve any business or illicit activities, and the records primarily highlight social connections rather than specific locations or criminal involvement.
 
 Title: Epstein emails show he helped arrange White House visit for Woody Allen
-Author: The Associated Press
+Author: Hillel Italie
 Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.kltv.com/2026/02/06/epstein-emails-show-he-helped-arrange-white-house-visit-woody-allen/
-Summary: The article discusses the relationship between Woody Allen and Jeffrey Epstein, highlighting how Epstein facilitated a White House visit for Allen and his wife in 2015. Emails released by the Justice Department reveal that Allen, Epstein, and his wife were close friends and often dined together, sharing emotional support amid media scrutiny over allegations of sexual misconduct. The correspondence indicates that Epstein used his connections to help the couple tour the White House, despite his own legal troubles as a registered sex offender.
+URL: http://www.inquirer.com/news/nation-world/epstein-woody-allen-white-house-trump-20260205.html
+Summary: The article reveals that Woody Allen had a close relationship with Jeffrey Epstein, including social interactions such as dinners, movie screenings, and a 2015 White House tour arranged with Epstein's help. Emails show Epstein used his connections to facilitate the White House visit for Allen and his wife, despite Epstein's criminal background. Allen and Epstein maintained a friendship over the years, with frequent communication and social gatherings, though there is no mention of Allen visiting Epstein’s private island or any similar location.
 
-While the article does not directly address whether Woody Allen visited Epstein's island, it emphasizes the longstanding friendship and mutual support between Allen and Epstein, which may suggest a level of trust and involvement that could be relevant to predicting Allen's potential presence on Epstein's island. However, no specific evidence or confirmation of such a visit is provided in the text.
+Title: Epstein emails show he helped arrange White House visit for Woody Allen
+Author: 
+Published Date: 2026-02-06T00:00:00.000Z
+URL: https://ny1.com/nyc/all-boroughs/ap-top-news/2026/02/06/epstein-emails-show-he-helped-arrange-white-house-visit-for-woody-allen
+Summary: The article reveals that Woody Allen had a close relationship with Jeffrey Epstein, including social interactions, dinners, and a 2015 White House tour arranged with Epstein's help. Allen, his wife Soon-Yi Previn, and Epstein were neighbors and friends, frequently dining together and attending events. While Allen's association with Epstein is well-documented through emails and social activities, there is no mention of Allen visiting Epstein’s private island or any direct evidence linking him to Epstein’s criminal activities or locations such as Epstein’s island.
 
-Title: There are many famous names in the Epstein files - CTV News
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.ctvnews.ca/world/article/there-are-many-famous-names-in-the-epstein-files/
-Summary: The recent release of documents related to Jeffrey Epstein includes numerous high-profile names, but there is no specific mention of Woody Allen visiting Epstein's island. The documents highlight various celebrities and public figures, such as Donald Trump, Bill Clinton, and Elon Musk, with some individuals expressing interest in attending events associated with Epstein. However, the inclusion of a name does not imply involvement in or knowledge of Epstein's criminal activities. As of now, there is no direct evidence or confirmation regarding Woody Allen's presence on Epstein's island. Further investigations and document releases may provide more clarity in the future.
-
-Title: 5 revelations from the latest Jeffrey Epstein document dump by ...
-Author: by Emily Brooks
-Published Date: 2025-11-13T00:00:00.000Z
-URL: https://thehill.com/homenews/house/5604871-epstein-documents-house-committee/
-Summary: The recent document release related to Jeffrey Epstein includes significant revelations that may impact discussions about his connections with various high-profile individuals, including Woody Allen. The documents, totaling 20,000 pages, feature correspondence and records that could shed light on Epstein's relationships with influential figures. Notably, the files contain emails where Epstein claimed that President Trump "knew about the girls," suggesting he had knowledge of the activities surrounding Epstein's network.
-
-While the documents do not explicitly confirm Woody Allen's presence on Epstein's island, they may provide context regarding Epstein's connections and the extent of his social circle, which included numerous celebrities and powerful individuals. The ongoing scrutiny of these documents could lead to further insights into who visited Epstein's properties, including the infamous island.
-
-For those interested in the potential confirmation of Woody Allen's visits, monitoring the analysis of these documents and any emerging testimonies or evidence will be crucial. The revelations from this document dump may serve as a foundation for understanding the broader implications of Epstein's relationships and activities.
+Title: Emails reveal Epstein helped arrange Woody Allen’s White House visit | The Independent
+Author: 
+Published Date: 2026-02-06T00:00:00.000Z
+URL: https://www.the-independent.com/news/world/americas/woody-allen-epstein-files-wife-b2915113.html
+Summary: Recent emails reveal that Woody Allen, his wife Soon-Yi Previn, and Jeffrey Epstein visited the White House in December 2015, facilitated by Epstein's connections. The records show that Allen and Previn had a close relationship with Epstein, often dining together and attending events, though there is no evidence indicating they visited Epstein’s private island. The emails primarily detail their White House tour and social interactions, but do not mention any visits to Epstein’s island.
 
 

@@ -1,52 +1,48 @@
 # Research: Will Iga Świątek be the 2026 Women’s Wimbledon Winner?
 
 **Market ID:** 0x0dfc21fa42873f2180bbf61265b6c759a96e1b350ea153d46f7f1943bef78385
-**Researched At:** March 1, 2026 at 02:33:41 PM UTC
+**Researched At:** March 7, 2026 at 02:35:00 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Iga Świątek be the 2026 Women’s Wimbledon Winner?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-The 15% market probability aligns closely with bookmakers’ implied odds (12.5–16.7%) and incorporates both Świątek’s strengths and her grass-court history. No credible evidence of significant mispricing is found.
+There is no specific, credible data showing Iga Świątek’s chances in 2026 Wimbledon materially differ from the market’s 15% estimate. Limited grass‐court performance and sparse forward projections leave the price plausibly in line with public odds. Further investigation has low expected value.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Iga Świątek be the winner of the 2026 Wimbledon Women’s Singles?” It resolves YES if she wins that tournament, NO if she does not (including withdrawal before play due to injury or other reasons). A cancellation or no-decision by Aug 31, 2026 resolves to “Other,” but that is a separate bucket.
+The market asks: “Will Iga Świątek win the 2026 Women’s Wimbledon Singles?” A YES requires Świątek to be the official champion (June 29–July 12, 2026); any disqualification, withdrawal before the tournament, or outright loss means NO (and “Other” only if the tournament is canceled/postponed past Aug 31, 2026).
 
 2. EVIDENCE EVALUATION  
-Bullish factors  
-• Serena ex-coach Rick Macci predicts Świątek will be world No. 1 by May 2026 and emphasizes her 2025 Wimbledon victory, mental toughness, and six total Slams.  
-• Bookmaker futures at BetMGM (+500 → 16.7%) and BetRivers (+700 → 12.5%) place her roughly in the 12–17% range, aligning with a 15% implied probability.  
-Bearish factors  
-• Historical grass struggles: she’s made only one Wimbledon quarterfinal in five attempts.  
-• Strong rivals (Sabalenka, Rybakina, Gauff) also have proven grass records, and Sabalenka, though without a final yet, is in peak form.  
-Source credibility and recency  
-• All sources dated Jan–Feb 2026 from reputable outlets (ESPN, TheScore, major sportsbooks, Tennis365).  
-• None present dramatic new information; bookmakers’ odds are the main quantitative reference.
+• Bearish points:  
+  – theScore (Feb 2026) lists Świątek at +850 (≈10–11% implied) for 2025; she has only one QF in five Wimbledon attempts and no grass titles.  
+  – None of the “early favourites” previews for 2024/2025/2026 even rank her among the top contenders.  
+• Bullish points:  
+  – Recent strong showings on hard courts (Indian Wells) signal top‐tier form, but no grass evidence.  
+  – No source projects a leap in her grass‐court prowess by 2026—though that’s unknown.  
+Overall, there’s no specific data forcing a 15% probability up or down; most sources lack forward‐looking 2026 estimates for Świątek.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 15% price sits squarely between major sportsbooks’ implied probabilities (12.5–16.7%), suggesting broad consensus rather than a lone outlier.  
-• Low $692 volume could reflect limited attention but is consistent with the odds traded elsewhere.  
-• If there were a glaring edge (e.g., injury news or breakthrough grass results), informed bettors would likely have moved this market more aggressively.
+At 15%, the market may simply apply a modest overround to public odds (~10%) anticipating form improvements or upsets. Low volume suggests few active traders, but the bid/ask tightness points to a single informed (or overconfident) participant rather than broad consensus. The lack of detailed 2026 forecasts could explain why more traders haven’t adjusted the price.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible information appears missing. Experts note her grass-court questions, and odds already reflect that uncertainty. Bookies’ odds and expert commentary are fully in line with the 15% market probability. There is no strong evidence of > 20 cent mispricing.
+There is no clear, high‐credibility evidence that 15% is far off. While her grass results are subpar, she remains one of the world’s top players, which rationally supports a mid‐teens chance. Without deeper analytics on her future grass strategy or shifts in the competitive field, a material mispricing (>0.20) is unsubstantiated.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~5% (almost zero)  
-Magnitude of potential mispricing: ~0 cents  
-Expected value ≈ 0.05 × 0 = 0 cents
+Strength of evidence that price is wrong: ~20%  
+Maximum plausible mispricing magnitude: ~5¢  
+EV = 0.20 × 5¢ = 1.0¢
 
-EXPECTED_VALUE: 0.0  
-SUMMARY: The 15% market probability aligns closely with bookmakers’ implied odds (12.5–16.7%) and incorporates both Świątek’s strengths and her grass-court history. No credible evidence of significant mispricing is found.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.0  
+SUMMARY: There is no specific, credible data showing Iga Świątek’s chances in 2026 Wimbledon materially differ from the market’s 15% estimate. Limited grass‐court performance and sparse forward projections leave the price plausibly in line with public odds. Further investigation has low expected value.  
+CONFIDENCE: low
 
 ---
 
@@ -54,60 +50,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Wimbledon 2026 Betting Odds & Predictions | Early Favourites
+Author: Mick Burrows
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.johnnybet.com/wimbledon-predictions-2
+Summary: The webpage primarily discusses Wimbledon 2025, including early betting odds and predictions, with no specific mention of Iga Świątek or her prospects for 2026. It highlights that Aryna Sabalenka and Coco Gauff are current favorites for 2025, with odds of 11/4 and 6/1 respectively, and notes that the women's tournament is highly competitive. Since Świątek is not listed among the top contenders for 2025, and there is no information about her potential performance or likelihood of winning in 2026, it is difficult to predict her chances based solely on this source. For accurate future predictions, one should consider her current form, past performances, and potential changes in the competitive landscape leading up to 2026.
+
+Title: Wimbledon 2026 Betting Odds & Predictions | Early Favourites
+Author: Daniel Price
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.johnnybet.com/wimbledon-betting-odds
+Summary: The webpage provides current betting odds and predictions for Wimbledon 2024, highlighting key contenders in both men's and women's singles. For the women's tournament, Barbora Krejcikova is the current favorite to win Wimbledon 2024, with odds of 7/10. While the site discusses betting odds and predictions for 2024, it does not provide specific information or projections regarding Iga Świątek's potential to win Wimbledon in 2026. Therefore, predicting Świątek's future success at Wimbledon would require additional insights beyond the 2024 betting landscape.
+
+Title: Iga Swiatek returns to Indian Wells 2026 with a chance to make history as the first woman to win the title three times | International Sports News - The Times of India
+Author: Global Sports Desk  / TIMESOFINDIA.COM /   Mar 03, 2026, 18:29 IST
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://timesofindia.indiatimes.com/sports/international-sports/iga-swiatek-returns-to-indian-wells-2026-with-a-chance-to-make-history-as-the-first-woman-to-win-the-title-three-times/articleshow/128971466.cms
+Summary: The article discusses Iga Świątek's return to Indian Wells in 2026, highlighting her potential to make history by becoming the first woman to win the tournament three times. While it emphasizes her strong performance and historical significance at Indian Wells, it does not provide specific information about her prospects or performance at Wimbledon or predictions for the 2026 Women’s Wimbledon Championship. Therefore, based on this source, there is no direct information relevant to predicting whether Świątek will win the 2026 Women’s Wimbledon.
+
 Title: Way-too-early Grand Slam predictions for the rest of 2026 - ESPN
 Author: D'Arcy Maine
 Published Date: 2026-02-01T00:00:00.000Z
 URL: https://www.espn.com/tennis/story/_/id/47789264/grand-slam-predictions-french-open-wimbledon-us-open
-Summary: The ESPN article discusses early predictions for the remaining Grand Slam tournaments in 2026, including Wimbledon. While it does not specifically mention Iga Świątek as a predicted winner, it highlights key players and trends that could influence her chances. Factors such as current player form, injuries, and historical performance at Wimbledon are crucial for making predictions. Świątek's recent performances, including her ranking and any potential rivalries, will also play a significant role in determining her likelihood of winning. For a more tailored prediction, consider her performance in the lead-up tournaments and her head-to-head records against top competitors.
+Summary: The article offers early predictions for upcoming Grand Slam tournaments in 2026, emphasizing recent notable performances and player trajectories. While it highlights the achievements of players like Carlos Alcaraz and Elena Rybakina, it does not specifically mention Iga Świątek or provide detailed insights into her current form or prospects. Therefore, based on the information available, predicting Świątek's potential to win the 2026 Women’s Wimbledon remains uncertain, as her recent performance details and future outlook are not addressed in this summary.
 
 Title: Wimbledon odds: Who's favored for the men's, women's tournaments? | theScore.com
-Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.thescore.com/atp/news/3304515
-Summary: Iga Świątek's odds for the 2025 Wimbledon tournament are currently set at +850, making her one of the top contenders, though not the favorite. Historically, she has struggled on grass, having only reached the quarterfinals once in five appearances at Wimbledon. This lack of success on the surface raises questions about her potential to win in 2026. 
-
-The current favorite, Aryna Sabalenka, has never reached a Wimbledon final, and other strong competitors like Coco Gauff and Elena Rybakina also have mixed records at the tournament. Given the wide-open nature of the women's draw and Świątek's previous challenges on grass, predicting her as the 2026 winner may be optimistic unless she significantly improves her performance on this surface.
-
-Title: Women's Wimbledon Odds 2026 | Bookies' Ladies Wimbledon Tennis Betting
-Author: 
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://www.justbookies.com/ladies-wimbledon-tennis-odds/
-Summary: To assess Iga Świątek's chances of winning the 2026 Women's Wimbledon, consider the following factors based on current betting odds and player performance:
-
-1. **Current Odds**: As of April 2025, Iga Świątek is listed with odds of 5/1 from various bookmakers, indicating she is among the favorites to win the tournament.
-
-2. **Recent Performance**: Świątek's consistent performance in recent tournaments will be crucial. Her ability to perform well on grass courts, particularly in the lead-up to Wimbledon, will impact her chances.
-
-3. **Competition**: Key competitors include Aryna Sabalenka and Elena Rybakina, who also have strong odds (10/3 and 5/1, respectively). Monitoring their form and head-to-head matchups against Świątek will provide insights into her potential success.
-
-4. **Injury Status**: Any injuries or fitness issues leading up to the tournament could significantly affect her performance.
-
-5. **Historical Performance**: Analyzing her past performances at Wimbledon and other Grand Slam events can offer insights into her ability to handle the pressure of major tournaments.
-
-Overall, while Świątek is a strong contender based on current odds and her skill level, various factors will ultimately determine her success in the 2026 Women's Wimbledon.
-
-Title: 2026 Women's Wimbledon Betting Odds
-Author: Ron Halfback
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.sportsbetting3.com/odds/womens-wimbledon-betting-odds
-Summary: To assess whether Iga Świątek could be the 2026 Women’s Wimbledon winner, consider the following key factors from the latest betting odds and insights:
-
-1. **Current Odds**: As of the latest update, Iga Świątek is listed with futures odds of +500 at BetMGM and +700 at BetRivers. These odds indicate that she is viewed as one of the top contenders for the title, suggesting confidence in her potential performance.
-
-2. **Competitors**: Other strong competitors include Aryna Sabalenka (+275), Elena Rybakina (+500), and Mirra Andreeva (+700). The competitive landscape will play a crucial role in Świątek's chances, as she will need to outperform these players.
-
-3. **Recent Performance**: While the webpage does not provide specific recent match results, analyzing Świątek's performance in the lead-up to Wimbledon, including her results in other Grand Slam tournaments and the WTA Tour, will be essential for predicting her chances.
-
-4. **Playing Surface**: Wimbledon is played on grass, which can favor certain playing styles. Świątek's adaptability to grass courts and her historical performance on this surface will be critical in evaluating her potential success.
-
-5. **Injury Status**: Keeping track of any injuries or fitness issues leading up to the tournament is vital, as these can significantly impact a player's performance.
-
-6. **Betting Trends**: Monitoring how the odds change as the tournament
-
-Title: Serena Williams' ex-coach predicts when Iga Swiatek will return to ...
-Author: Oli Dickson Jefford
-Published Date: 2025-12-06T00:00:00.000Z
-URL: https://www.tennis365.com/tennis-news/bold-iga-swiatek-wta-rankings-prediction-made-serena-williams-ex-coach
-Summary: Rick Macci, former coach of Serena Williams, predicts that Iga Świątek will reclaim her world No. 1 ranking by the end of May 2026, coinciding with the start of the French Open. Currently ranked second, Świątek has a strong track record, including six Grand Slam titles, with her most recent victory at Wimbledon in 2025. She has spent a total of 125 weeks at the top of the WTA Rankings, showcasing her competitive edge. Macci emphasizes her mental strength and skill, suggesting she will be a formidable contender for the 2026 Wimbledon title. However, she faces a significant points gap of 2,475 behind current No. 1 Aryna Sabalenka, who has held the top position since October 2024. This context indicates that while Świątek has the potential to win Wimbledon again, her path will depend on her performance leading up to the tournament and her ability to close the ranking gap.
+Author: Eric Patterson
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://www.thescore.com/news/3304515
+Summary: The current odds for the 2025 Wimbledon women's tournament favor Aryna Sabalenka (+240), with Coco Gauff and Elena Rybakina also considered strong contenders (+550 each). Iga Świątek is priced at +850, indicating a lower likelihood based on recent performance. Historically, Świątek has struggled on grass, reaching only one quarterfinal in five attempts, and has not demonstrated significant success at Wimbledon. Given the lack of recent titles or deep runs on grass, and the tournament's competitive and unpredictable nature, predicting her as the 2026 winner remains uncertain. Her chances would depend on improvements in grass-court performance and overall form leading up to that year.
 
 

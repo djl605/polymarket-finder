@@ -1,49 +1,50 @@
 # Research: Will Cori Bush be the Democratic nominee for MO-01?
 
 **Market ID:** 0x74efaa758c3c08921bd143b0a1696b54890834d073fc6df01dfb75f6f4e38528
-**Researched At:** March 3, 2026 at 04:22:02 AM UTC
+**Researched At:** March 7, 2026 at 02:34:16 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Cori Bush be the Democratic nominee for MO-01?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Research provides no concrete polling or fundraising data to suggest Cori Bush’s chances differ materially from the current 28% market price; her grassroots strength is offset by an incumbent rematch disadvantage. The price is plausibly rational, and there’s no obvious gap signaling mispricing.
+Bush has announced her rematch campaign, but her 2024 primary loss to Wesley Bell and lack of polling data reinforce the market’s ~33% estimate. There is no strong evidence for a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Cori Bush will be the officially‐announced Democratic nominee for Missouri’s 1st Congressional District in the August 4, 2026 primary (resolving YES if she wins that primary and the nominee is officially named by November 3, 2026; NO otherwise).
+The market asks whether Cori Bush will secure the Democratic nomination for Missouri’s 1st Congressional District on August 4, 2026. “YES” requires that she wins the primary and is officially named the nominee by Nov 3, 2026; “NO” covers any other candidate (including Wesley Bell or a different contender) prevailing or no nominee by that date.
 
 2. EVIDENCE EVALUATION  
-Bullish for Bush (YES):  
-• Multiple February 2026 reports confirm she’s formally filed for a rematch against Wesley Bell and has strong grassroots/anti–big-money credentials.  
-Bearish (NO):  
-• Wesley Bell defeated Bush in the 2024 primary and is the incumbent; no polling or fundraising figures suggest Bush holds a clear lead.  
-• Filing period remains open until March 31, and other contenders could emerge.  
-Credibility & Recency: All sources are from February 2026 and local outlets or Facebook posts; none provide hard data on likely primary vote shares. There’s no obvious “smoking gun” suggesting her probability is far from 28%.
+Bullish evidence for Bush:  
+• She has held the seat before (2019–2023) and retains name recognition.  
+• Multiple Feb 2026 filings confirm she’s actively campaigning and raising her profile.  
+
+Bearish evidence against Bush:  
+• In 2024 she lost to Wesley Bell, who is again her opponent and now the de-facto front-runner.  
+• No polling or fundraising figures favoring Bush are cited; her past controversies (AIPAC opposition, criticism over key votes) may still weigh on primary voters.  
+
+Source credibility: All Feb 2026 media reports are recent but largely descriptive—they confirm candidacy but offer no quantitative edge or polling data. There is no clear evidence suggesting either candidate holds a decisive lead today.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 28% chance for Bush plausibly reflects her underdog status vs. an incumbent who beat her last cycle.  
-• Low volume could mean only a few participants set the price, but the available qualitative landscape gives no clear reason to believe price is wildly off.  
-• Absent early polling or strong fundraising data, it’s unsurprising informed traders might peg her chances below 50%.
+A 33% price implies the market sees Bush as an underdog versus Bell or others, which aligns with her 2024 loss and Bell’s incumbency advantage. Low volume/ tight spread suggests a few traders may be setting the rating, but it is also plausible that informed participants agree that Bush’s path is difficult without a clear edge. The absence of polling data or fresh developments means few new signals exist to shift probability strongly.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence from the supplied research indicates a large mispricing. Both sides’ factors—Bush’s name recognition vs. her 2024 primary loss and Bell’s incumbency—are likely already baked into a sub-30% estimate.  
+No specific, credible information appears missing. With two known contenders, a competitive rematch, and no public opinion data, a mid-30s probability seems consistent with the known risk factors. There is no firm basis to declare a large (>20¢) mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: low (≈10%)  
-Magnitude of possible mispricing: small (≈2¢)  
-Expected value ≈ 10% × 2¢ = 0.2¢ → rounded to 0¢
+Strength of evidence that price is off: ~20% (limited, qualitative data only)  
+Potential mispricing magnitude: ~10¢ (at most a small edge)  
+Expected value = 20% × 10¢ = 2.0¢
 
-EXPECTED_VALUE: 0  
-SUMMARY: Research provides no concrete polling or fundraising data to suggest Cori Bush’s chances differ materially from the current 28% market price; her grassroots strength is offset by an incumbent rematch disadvantage. The price is plausibly rational, and there’s no obvious gap signaling mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 2.0  
+SUMMARY: Bush has announced her rematch campaign, but her 2024 primary loss to Wesley Bell and lack of polling data reinforce the market’s ~33% estimate. There is no strong evidence for a significant mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -51,33 +52,36 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: We know how power protects itself. In MO-01, Wesley Bell is backed ...
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.facebook.com/PoliticalRevolution/posts/we-know-how-power-protects-itselfin-mo-01-wesley-bell-is-backed-by-big-money-and/1210973077851912/
-Summary: The webpage discusses the political landscape in Missouri's 01st Congressional District (MO-01), highlighting that Wesley Bell is backed by large financial interests and Super PACs that also support MAGA candidates, indicating a significant influence of big money in the race. In contrast, Cori Bush is portrayed as a steadfast advocate for workers and tenants, known for taking tough votes in Congress and refusing to accept big money influence. She has signed the Fight Oligarchy pledge, demonstrating her commitment to fighting corporate influence and oligarchic power. The post emphasizes her grassroots support and portrays her as the candidate aligned with progressive, anti-establishment values. While it does not explicitly state her current status as the Democratic nominee, the focus on her activism, endorsements, and opposition to big money suggests she is a leading contender and favored candidate within the Democratic primary for MO-01.
+Title: Cori Bush enters race to reclaim House seat in Missouri | JNS | clevelandjewishnews.com
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: http://clevelandjewishnews.com/jns/cori-bush-enters-race-to-reclaim-house-seat-in-missouri/article_a336a039-dd59-58fc-b517-fb814e6c12a7.html
+Summary: Cori Bush has announced her intention to run again for her House seat in Missouri, specifically aiming to reclaim her position in MO-01. Her decision to enter the race indicates her desire to secure the Democratic nomination for this district. While the article confirms her candidacy, it does not provide details about her current standing in the race, the competitiveness of other candidates, or the overall primary landscape. Therefore, her potential to become the Democratic nominee will depend on factors such as her campaign strength, support within the party, and the dynamics of the primary contest.
 
 Title: Bush, Bell file to run for Missouri's first district
 Author: 
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://spectrumlocalnews.com/mo/st-louis/news/2026/02/24/bush--bell-file-for-rematch
-Summary: Cori Bush and Wesley Bell have both filed to run for Missouri's 1st congressional district in the upcoming 2026 election, signaling a rematch after Bell's victory in the 2024 primary. Bush, a former Congresswoman, emphasizes her ability to work across party lines and deliver results, while Bell focuses on serving the district's constituents. The primary filing period runs until March 31, amid ongoing uncertainty regarding congressional district maps. Given Bush's previous prominence and her decision to run again, she remains a significant contender for the Democratic nomination in MO-01.
+Summary: Cori Bush and Wesley Bell have both filed to run for Missouri's 1st congressional district in the upcoming election, indicating a rematch after Bell's victory in 2024. Bush emphasizes her ability to work across party lines and deliver results, suggesting she remains a strong contender within the Democratic primary. The primary filing period runs until March 31, with the primary scheduled for August 4, amid ongoing uncertainty about district maps. Bush's previous experience and her focus on constituent service could influence her chances of securing the Democratic nomination for MO-01.
 
 Title: Cori Bush enters race to reclaim House seat in Missouri - Worldnews.com
 Author: system
 Published Date: 2026-02-27T00:00:00.000Z
 URL: https://article.wn.com/view/2026/02/27/Cori_Bush_enters_race_to_reclaim_House_seat_in_Missouri/
-Summary: Cori Bush has announced her candidacy to reclaim her House seat in Missouri's 1st Congressional District. She has publicly criticized pro-Israel lobbying groups like AIPAC and emphasized her stance against accepting corporate PAC contributions, positioning herself as a progressive challenger. While her entry into the race indicates her intent to run for the Democratic nomination, there is no definitive information yet confirming her as the nominee. Her campaign's success will depend on various factors, including primary competition and voter support within the Democratic Party.
+Summary: Cori Bush has announced her intention to run for her former House seat in Missouri, emphasizing her stance against corporate influence in politics, notably criticizing AIPAC and refusing to accept contributions from corporate PACs. Her decision to re-enter the race suggests she is actively seeking the Democratic nomination for Missouri's 1st Congressional District. However, the summary does not specify her current standing in the primary race or whether she is the leading candidate, so her prospects for securing the Democratic nomination remain uncertain based on this information alone.
+
+Title: Former St. Louis Congressmember Cori Bush Runs for Seat Again After AIPAC Targeted Her in 2024 – Radio Free
+Author: Post author 
+									 								 
+								 
+									By  Democracy Now!
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.radiofree.org/2026/02/27/former-st-louis-congressmember-cori-bush-runs-for-seat-again-after-aipac-targeted-her-in-2024/
+Summary: Cori Bush, a former St. Louis Congressmember, has announced her intention to run again for the MO-01 seat. Her previous tenure and ongoing political activity suggest she remains a prominent figure within the Democratic Party in Missouri. The article notes that her campaign has faced targeted opposition, notably from AIPAC in 2024, which indicates she may be a contentious or influential candidate. While specific details about her current campaign status or the likelihood of her securing the Democratic nomination are not provided, her continued candidacy and the attention she receives imply she is a significant contender in the upcoming primary.
 
 Title: Could a single 'no' vote cost Cori Bush her House seat?
 Author: Amanda Becker
-Published Date: 2024-08-01T00:00:00.000Z
 URL: https://19thnews.org/2024/08/cori-bush-wesley-bell-missouri-primary/
-Summary: The article discusses the political vulnerability of Rep. Cori Bush in Missouri, focusing on her 2021 infrastructure bill vote, which has drawn criticism from her Democratic opponent and significant spending by pro-Israel groups in ads. While the piece highlights her contested position and the impact of her legislative decisions, it does not explicitly state her current standing in the primary race or whether she is the Democratic nominee for MO-01. However, the intense scrutiny and opposition she faces suggest her re-election prospects could be challenged, making her status as the Democratic nominee uncertain.
-
-Title: Former St. Louis Congressmember Cori Bush Runs for Seat Again After AIPAC Targeted Her in 2024 | Democracy Now!
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: http://www.democracynow.org/2026/2/27/cori_bush
-Summary: The webpage reports that former St. Louis Congressmember Cori Bush is running again for her congressional seat in Missouri's 1st district in 2024. While it highlights her political activities and recent campaign efforts, it does not specify her current standing within the Democratic primary or her prospects of securing the nomination. There is no information indicating whether she is the leading candidate or favored to become the Democratic nominee for MO-01. Therefore, based on this source, it remains uncertain whether Cori Bush will be the Democratic nominee for Missouri's 1st district in 2024.
+Summary: The article discusses the potential impact of a single 'no' vote by Rep. Cori Bush on her re-election prospects in Missouri's 1st Congressional District. Bush's vote on the 2021 infrastructure bill has faced criticism from her Democratic opponent and has been targeted by pro-Israel groups through substantial advertising. The coverage highlights the political scrutiny Bush is under and suggests that her stance on key votes could influence her chances of securing the Democratic nomination for MO-01.
 
 

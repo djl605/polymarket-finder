@@ -1,7 +1,7 @@
 # Research: Will Korn Ferry (KFY) beat quarterly earnings?
 
 **Market ID:** 0x9eea6255ed05b3e87ecfc99ba34b8349ed18cab9264ca84151e438aaf6880f35
-**Researched At:** March 3, 2026 at 04:24:13 AM UTC
+**Researched At:** March 7, 2026 at 02:35:50 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Korn Ferry (KFY) beat quarterly earnings?"
 
 ---
@@ -9,49 +9,50 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.2¢
+**Expected Value:** 13.2¢
 
 ### Summary
 
-Consensus analyst estimates (~$1.31 EPS) and KFY’s consistent quarterly beats imply a >90% chance of exceeding the $1.23 strike, suggesting the market’s 80.5% probability is too low. Low trading volume likely left this clear arbitrage opportunity uncorrected, yielding an estimated edge of ~7 c.
+KFY management guided Q4 EPS of $1.22—1¢ below the $1.23 strike—suggesting a likely miss, yet the market sits at 82% “Yes.” Historical beats exist but don’t outweigh explicit guidance, pointing to a ~60% true probability and a ~22c overpricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Korn Ferry’s next quarterly non-GAAP EPS will exceed $1.23 when it reports (expected March 10, 2026). A “Yes” requires actual non-GAAP EPS > $1.23; otherwise “No.”  
+The market asks whether Korn Ferry will report non-GAAP EPS > $1.23 in its March 2026 release. A “Yes” requires EPS strictly above $1.23; $1.23 or below resolves “No.”  
 
 2. EVIDENCE EVALUATION  
-Bullish evidence  
-- Marketbeat reports the Q2 2026 non-GAAP EPS was $1.33 vs consensus $1.31, and projects Q3 2026 EPS at $1.31.  
-- Public.com’s Mar 10/26 summary (albeit dated on report day) notes EPS rose to $1.32 beating a $1.26 consensus, and fee revenues and its Executive Search segment are growing.  
-- KFY has a history of beating estimates: Q3 2025 EPS $1.19 vs $1.13, Q4 2024 beat by 12.5%, Q2 2026 beat by $0.02.  
-- Technical momentum (breaking the 50-day MA) suggests strong investor confidence.  
+Bearish evidence:  
+- On December 9 2025 management guided Q4 CY2025 EPS of $1.22, below the $1.23 strike. Guidance is a primary indicator and typically errs on the conservative side, but analysts often align estimates to guidance closely.  
+- This 1¢ shortfall versus strike implies management expects to miss.  
 
-Bearish/new risk considerations  
-- Executive turnover, consultant reliance, currency swings, and macro uncertainties could depress results.  
-- None of the sources forecast a downside below $1.23, however; they all assume consensus around $1.26–$1.31.  
+Bullish evidence:  
+- Historical pattern: KFY has beaten consensus for several quarters, often by ~5%. In Q3 2025 it beat by $0.06. If they repeat that surprise, EPS could be ~1.29.  
+- Positive technical momentum (stock breaking its 50-day MA) could reflect improving fundamentals behind the scenes.  
 
-Source credibility & recency  
-- Marketbeat and StockTwits are timely, credible for basic financials; Public.com insights post-earnings are less useful pre-report. All evidence is from late 2025/early 2026.  
+Source credibility & recency:  
+- Guidance from a December 2025 press release: high credibility, fairly recent relative to a March 2026 report.  
+- Historical beat data from March 2025: credible, but further back (one year ago).  
+- Technical milestone: lower informational value for near-term EPS but supports general sentiment.  
 
-Obviousness check  
-- If beating $1.23 were trivial given a $1.31 consensus, the market should be trading closer to 95–99%. The current 80.5% suggests this wasn’t fully arbitraged out—likely due to low volume.  
+Why the market might already price this:  
+- Those following guidance likely see a slight miss probability >50%. That the market is at 82% “Yes” suggests either traders expect a reversal from guidance (a large surprise upside) or uninformed momentum chasers are pricing “Yes.”  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A consensus around $1.31 vs a $1.23 strike implies a very high probability of a “Yes” result, justifying something north of ~90%.  
-- The low $565 volume and tight spread suggest few traders have engaged; price may reflect only a handful of private beliefs rather than broad consensus.  
-- The outcome is straightforward (just beating a fixed strike), so the low volume likely indicates oversight rather than genuine uncertainty.  
+An 82% probability could reflect a view that KFY’s beats are mechanical (a habit of 5% upside) and that guidance is just conservative. But with low volume ($1.7 K) and tight spread, a single optimist or small group could dominate the price. True informed consensus may lie closer to 50–60%, given the explicit $1.22 guidance.  
 
 4. MISPRICING ASSESSMENT  
-Weighing both sides, the bullish case is strong, the consensus strike‐beat appears almost certain, and no credible bearish estimate suggests sub-$1.23 EPS. This points to the market being undervalued on a “Yes” result. Given historical beats and current analyst forecasts, a price closer to 90–95% seems more defensible, implying a mispricing on the order of ~10–15 c.  
+Weighing guidance (strong signal for a miss) against historical beat patterns:  
+- Likely true probability of a beat is closer to 60% than 82%.  
+- No indication of an imminent outlier event that would swing EPS well above guidance.  
+- The 22-point gap suggests overpricing.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 60% (consensus forecasts are public but low volume suggests they aren’t fully priced in)  
-Magnitude of mispricing: 12 c (difference between 80.5 c and a more justified ~92.5 c)  
-Expected value = 60% × 12 c = 7.2 c  
+Strength of evidence: 60% (guidance is credible and directly relevant)  
+Magnitude of mispricing: 22 cents (82%–60%)  
+Expected value = 0.60 × 22 c = 13.2 c  
 
-EXPECTED_VALUE: 7.2  
-SUMMARY: Consensus analyst estimates (~$1.31 EPS) and KFY’s consistent quarterly beats imply a >90% chance of exceeding the $1.23 strike, suggesting the market’s 80.5% probability is too low. Low trading volume likely left this clear arbitrage opportunity uncorrected, yielding an estimated edge of ~7 c.  
+EXPECTED_VALUE: 13.2  
+SUMMARY: KFY management guided Q4 EPS of $1.22—1¢ below the $1.23 strike—suggesting a likely miss, yet the market sits at 82% “Yes.” Historical beats exist but don’t outweigh explicit guidance, pointing to a ~60% true probability and a ~22c overpricing.  
 CONFIDENCE: medium
 
 ---
@@ -64,20 +65,29 @@ Title: Korn/Ferry Int. (KFY) Earnings: Latest Report, Earnings Call & Financials
 Author: 
 Published Date: 2026-03-10T00:00:00.000Z
 URL: https://public.com/stocks/kfy/earnings
-Summary: Korn/Ferry International (KFY) recently reported its Q3 2025 earnings on March 11, 2025, with an actual EPS of $1.19, surpassing analysts' estimates of $1.13 by 5.31%. Historically, KFY has demonstrated strong earnings performance, often beating expectations, with previous quarters showing positive surprises (e.g., a 12.5% beat in Q4 2024). The company’s upcoming earnings report is scheduled for June 12, 2025, with analysts projecting an EPS of $1.23. Given its recent earnings beat and consistent positive surprises in prior quarters, there is a favorable indication that KFY may continue to beat earnings expectations in the upcoming quarter.
+Summary: Korn/Ferry International (KFY) recently reported its Q3 2025 earnings on March 11, 2025, with an actual EPS of $1.19, surpassing the analyst estimate of $1.13 by 5.31%. Historically, KFY has shown a pattern of beating earnings estimates, with previous quarters also exceeding expectations (e.g., Q4 2024 and Q1 2025). The company’s upcoming earnings report is scheduled for June 12, 2025, with analysts projecting an EPS of $1.23. Given recent performance and positive earnings surprises, there is a favorable outlook for KFY to beat its next quarterly earnings estimate.
 
-Title: Korn/Ferry Int. (KFY) Stock Forecast: Analyst Ratings, Predictions & Price Target 2026
+Title: Korn Ferry (NYSE:KFY) Beats Q3 CY2025 Sales Expectations
 Author: 
-Published Date: 2026-03-10T00:00:00.000Z
-URL: https://public.com/stocks/kfy/forecast-price-target
-Summary: Korn/Ferry International (KFY) recently reported a strong financial performance, with fee revenues increasing by 3% year-over-year and 6% quarter-over-quarter to $712 million, surpassing analyst expectations of $690 million. Earnings per share also rose by 5% year-over-year to $1.32, exceeding the consensus estimate of $1.26. The company's Executive Search segment experienced significant growth of 14% year-over-year, indicating robust demand. These positive indicators suggest that Korn Ferry is currently performing well financially, which could increase the likelihood of beating upcoming quarterly earnings. However, potential risks such as executive turnover, reliance on skilled consultants, currency fluctuations, and economic uncertainties could impact future performance. Overall, recent strong results support the possibility of exceeding quarterly earnings expectations.
+Published Date: 2025-12-09T00:00:00.000Z
+URL: https://www.theglobeandmail.com/investing/markets/stocks/KFY/pressreleases/36525999/korn-ferry-nysekfy-beats-q3-cy2025-sales-expectations/
+Summary: Korn Ferry (NYSE:KFY) reported strong Q3 CY2025 results, with revenue of $729.8 million—7% above analyst estimates—and adjusted EPS of $1.33, surpassing expectations by 1.4%. The company also beat analyst estimates for adjusted EBITDA. However, its Q4 CY2025 revenue guidance of $687 million and EPS guidance of $1.22 are both below analyst forecasts, indicating cautious outlook. Overall, recent quarterly performance exceeded expectations, but the upcoming quarter's guidance suggests potential challenges. This mixed outlook should be considered when predicting if Korn Ferry will beat future quarterly earnings.
+
+Title: Korn Ferry (KFY) Earnings Reports & Dates | FXEmpire
+Author: 
+Published Date: 2026-03-11T00:00:00.000Z
+URL: https://www.fxempire.com/stocks/kfy/earnings
+Summary: Korn Ferry (KFY) recently closed at $67.96, with a slight after-market increase to $68.02. The webpage provides earnings report dates and historical performance data but does not specify upcoming earnings release dates or past earnings results. To predict whether KFY will beat quarterly earnings, consider analyzing recent financial performance, analyst forecasts, and historical earnings surprises, which are not detailed here. Monitoring upcoming earnings reports and market sentiment will be crucial for making an informed prediction.
 
 Title: Korn Ferry Stock Hit A Key Technical Milestone After 2 Months
+Published Date: 2025-12-09T00:00:00.000Z
 URL: https://stocktwits.com/news-articles/markets/equity/korn-ferry-stock-hit-a-key-technical-milestone-after-2-months-what-s-driving-the-rally/cLIs2U1RENh
-Summary: Korn Ferry (KFY) recently achieved a significant technical milestone by breaking above its 50-day moving average after over two months, with shares rising nearly 4% following a stronger-than-expected second-quarter report. This positive technical and fundamental momentum suggests increased investor confidence, which could enhance the likelihood of the company beating its upcoming quarterly earnings estimates. However, for a definitive prediction, additional details on earnings guidance, analyst forecasts, and broader market conditions would be necessary.
+Summary: Korn Ferry's stock recently surged nearly 4%, breaking above its 50-day moving average for the first time in over two months, following a stronger-than-expected second-quarter report. This positive technical milestone suggests increased investor confidence and momentum, which could indicate potential for the company to beat upcoming quarterly earnings. However, further analysis of upcoming earnings guidance and market conditions is needed for a definitive prediction.
 
-Title: Korn/Ferry International (KFY) Earnings Date and Reports 2026
-URL: https://www.marketbeat.com/stocks/NYSE/KFY/earnings/
-Summary: Korn/Ferry International (KFY) reported Q2 2026 earnings on December 9, 2025, with an EPS of $1.33, beating analysts' consensus estimate of $1.31 by $0.02, and revenue of $729.80 million, exceeding the expected $705.16 million. The company's trailing EPS is $4.93 with a P/E ratio of 13.47, and earnings are forecasted to grow approximately 13% next year. The upcoming Q3 earnings are estimated to be $1.31 per share, with the report scheduled for March 10, 2026. Given the recent positive earnings surprise and upward revenue trend, there is a favorable indication that KFY may beat its upcoming quarterly earnings estimates.
+Title: Korn Ferry to Report Quarterly Earnings via Live Webcast on March 9, 2026 - 02.03.2026
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.wallstreet-online.de/nachricht/20565571-korn-ferry-to-report-quarterly-earnings-via-live-webcast-on-march-9-2026
+Summary: Korn Ferry is scheduled to report its quarterly earnings via a live webcast on March 9, 2026. While specific financial details or analyst expectations are not provided in the summary, the upcoming webcast indicates the company's transparency and readiness to communicate its financial performance. To assess whether Korn Ferry (KFY) will beat earnings expectations, investors should consider recent company performance, industry trends, and analyst forecasts, which are not detailed in this summary. Monitoring the webcast and related financial news around the date will be crucial for insights into whether KFY is positioned to surpass quarterly earnings estimates.
 
 

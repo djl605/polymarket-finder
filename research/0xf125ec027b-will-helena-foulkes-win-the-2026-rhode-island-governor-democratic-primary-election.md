@@ -1,7 +1,7 @@
 # Research: Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?
 
 **Market ID:** 0xf125ec027b10cfc944d90a8e12558a05191214a774501382d85bed74773a2b23
-**Researched At:** March 1, 2026 at 06:08:31 AM UTC
+**Researched At:** March 7, 2026 at 02:34:32 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"
 
 ---
@@ -13,12 +13,38 @@
 
 ### Summary
 
-Recent UNH polls show Foulkes with a solid lead but 40% undecided and potential new entrants (Raimondo, Shekarchi) make an 80.5% win probability look overstated. Low trading volume also raises questions about how widely this view is held.
+Recent UNH polls show Helena Foulkes leading Dan McKee by ~16 points, but with 40% undecided and six months to go, an 82.5% win probability seems overstated. Low volume suggests the price may reflect few traders rather than broad consensus.
 
 ### Full Analysis
 
+1. CONTEXT ANALYSIS  
+The market asks whether Helena Foulkes will win the Democratic primary for Rhode Island governor on September 8, 2026. A “YES” requires Foulkes to secure the plurality (or majority, including any run-off) of votes in that primary; “NO” covers any other winner or if no primary occurs.
+
+2. EVIDENCE EVALUATION  
+Bullish evidence (supports ~82.5% price):  
+• Three University of New Hampshire polls (Feb 24–25) show Foulkes leading Dan McKee by double digits (34–35% vs. 18–19%), with low approval for McKee and consistent Foulkes momentum.  
+• Foulkes’s high-profile housing plan (millionaires tax for 20,000 homes) generates positive press and may boost her credibility among primary voters.  
+
+Bearish evidence (suggests price could be too high):  
+• Roughly 40% of likely primary voters remain undecided in those polls; volatility among undecided could swing a close primary.  
+• Polling is still early (6+ months until the primary); campaign developments, fundraising gaps, or outside endorsements could reshape the field.  
+• Low trading volume (Total Vol: $0) raises the possibility that this 82.5% price reflects one or two traders’ priors, not broad market consensus.
+
+All sources are recent (late Feb–early Mar 2026) and from credible outlets/universities. However, there is no polling data after early March to capture developments.
+
+3. MARKET EFFICIENCY ANALYSIS  
+An 82.5% probability could be justified by multiple consistent polls showing double-digit leads, low approval of the incumbent, and Foulkes’s strong messaging. But zero volume suggests limited information aggregation: if many traders agreed, we’d expect at least some turnover. The tight spread implies the same trader(s) posted both bids and asks to fix the price. It may not represent diversified market wisdom.
+
+4. MISPRICING ASSESSMENT  
+Weighing evidence: polling gives Foulkes a strong but not overwhelming advantage (35% support vs. 19%, 40% undecided). Turning a ~15-point poll lead into an 82.5% win probability six months out seems aggressive. A reasonable win probability might be closer to 60–70%, implying mispricing of ~12.5–22.5 cents. Given the undecided bloc and time for campaign dynamics to shift, the 82.5% price likely overstates Foulkes’s near-term certainty.
+
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence (poll reliability + market structure concerns): 60%  
+Magnitude of mispricing (estimated around 15 cents): 15 cents  
+Expected value = 60% × 15 cents = 9 cents
+
 EXPECTED_VALUE: 9  
-SUMMARY: Recent UNH polls show Foulkes with a solid lead but 40% undecided and potential new entrants (Raimondo, Shekarchi) make an 80.5% win probability look overstated. Low trading volume also raises questions about how widely this view is held.  
+SUMMARY: Recent UNH polls show Helena Foulkes leading Dan McKee by ~16 points, but with 40% undecided and six months to go, an 82.5% win probability seems overstated. Low volume suggests the price may reflect few traders rather than broad consensus.  
 CONFIDENCE: medium
 
 ---
@@ -31,56 +57,30 @@ Title: Foulkes maintains double-digit lead over McKee in UNH survey - Ocean Stat
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.oceanstatemedia.org/politics/elections/foulkes-maintains-double-digit-lead-over-mckee-in-unh-survey
-Summary: A recent UNH survey indicates that Helena Bounanno Foulkes holds a significant double-digit lead over incumbent Governor Dan McKee among Rhode Island Democratic primary voters. The survey reveals that many voters remain undecided, which could impact the final outcome. Foulkes' current lead suggests a favorable position as she prepares for a potential rematch against McKee in the 2026 primary. Factors such as voter sentiment, campaign strategies, and the undecided voter demographic will be crucial in predicting the election's outcome.
+Summary: A recent UNH survey indicates that Helena Foulkes currently holds a double-digit lead over incumbent Governor Dan McKee among Rhode Island Democratic primary voters. Many voters remain undecided, but Foulkes's lead suggests she has significant support at this stage. While primary outcomes can change, the survey's results imply that Foulkes is a strong contender to win the 2026 Democratic primary for Rhode Island governor.
+
+Title: Foulkes calls for millionaires tax to help fund 20,000 new R.I. homes
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.bostonglobe.com/2026/03/02/metro/foulkes-millionaires-tax-housing-governors-race-ri/
+Summary: Helena Foulkes has proposed a comprehensive housing plan for Rhode Island, emphasizing the need to address the state's housing shortage, which is currently the worst in the nation. Her plan includes implementing a 3% tax on incomes over $1 million to create a $1 billion revolving loan fund aimed at building over 20,000 affordable homes and apartments. She advocates for a constitutional amendment to protect this funding and emphasizes leveraging private, federal, and philanthropic dollars. While her platform is focused on substantial housing development and addressing affordability, her success in the Democratic primary will depend on broader electoral factors, including voter support for her housing policies and her challenge to incumbent Governor Daniel J. McKee.
+
+Title: McKee still trails Foulkes in R.I. governor race in latest UNH poll
+Author: PBN Staff
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://pbn.com/mckee-still-trails-foulkes-in-r-i-governor-race-in-latest-unh-poll/
+Summary: The latest UNH poll indicates that Helena Foulkes currently trails in the Rhode Island governor race, suggesting she is not leading among Democratic candidates at this time. While this data provides insight into her current standing, it does not definitively predict her success in the 2026 Democratic primary. Factors such as campaign development, voter sentiment, and future polling will influence her prospects for winning the primary election.
 
 Title: UNH Poll: Foulkes Leads McKee, Few Want Raimondo to… | Go Local Prov
 Author: 
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.golocalprov.com/politics/unh-poll-foulkes-leads-mckee-few-want-raimondo-to-run-again
-Summary: A recent UNH poll indicates that Helena Foulkes is currently leading Dan McKee in the Democratic primary for the Rhode Island Governor's race, with 35% support compared to McKee's 19%. Notably, a significant portion of voters, 40%, remain undecided, which could impact the final outcome. The poll's findings align with previous surveys conducted in September and November 2025, suggesting a consistent trend in voter preferences.
+Summary: A recent UNH poll indicates that Helena Foulkes currently leads in the 2026 Rhode Island Democratic primary, with 35% support compared to Governor Dan McKee's 19%. However, a significant 40% of likely Democratic primary voters remain undecided, suggesting the race is still competitive. The poll's methodology has been criticized by McKee's campaign for potential inaccuracies, but overall, Foulkes appears to have a strong position at this stage. Given the high level of undecided voters, her chances of winning the primary could improve or diminish depending on campaign developments and voter engagement moving forward.
 
-Additionally, the poll explored voter sentiment regarding former Governor Gina Raimondo's potential candidacy, revealing that few voters want her to run again. This could influence the dynamics of the primary, especially if she decides to enter the race.
-
-However, McKee's campaign has criticized the poll's methodology, claiming it does not accurately reflect the demographics of typical Rhode Island primary voters, which could raise questions about the reliability of Foulkes' lead.
-
-In summary, while Foulkes currently holds a lead, the high percentage of undecided voters and concerns about polling accuracy suggest that the race remains competitive and unpredictable.
-
-Title: McKee and Foulkes gear up for primary rematch in R.I. governor's race
+Title: New poll shows Foulkes leading McKee in governor's race
 Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.bostonglobe.com/2026/02/19/metro/mckee-foulkes-democratic-primary-ri-governors-race/?p1=Article_Feed_AuthorQuery
-Summary: The upcoming Democratic primary for the Rhode Island governor's race on September 8, 2026, features incumbent Dan McKee and challenger Helena Foulkes, who previously finished just 3 percentage points behind McKee in 2022. Early voting begins on August 19, which is crucial as nearly 20% of votes were cast early in the last primary. 
-
-Foulkes aims to leverage McKee's corporate ties to CVS during the opioid crisis against him, while McKee will frame Foulkes as too aligned with corporate interests. Foulkes is expected to gain support from voters who backed former candidate Nellie Gorbea, potentially enhancing her chances. 
-
-The race dynamics are influenced by McKee's established support among union leaders and his base in Blackstone Valley, while Foulkes may benefit from local discontent over issues like the Washington Bridge incident. However, reliable polling data is currently lacking, making it difficult to predict the outcome definitively.
-
-Title: 2026 Rhode Island gubernatorial election - Wikipedia
-URL: https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election
-Summary: The 2026 Rhode Island gubernatorial election is set for November 3, 2026, with incumbent Governor Dan McKee, a Democrat, seeking re-election. Helena Foulkes, a prominent figure in the Democratic Party, is expected to be a significant contender in the Democratic primary. 
-
-To assess her chances of winning the primary, consider the following factors:
-
-1. **Political Background**: Foulkes has a strong background in both business and public service, having previously served as the CEO of CVS Health. Her experience may appeal to voters looking for leadership and management skills.
-
-2. **Incumbent Dynamics**: McKee's incumbency could be a double-edged sword. While incumbents often have advantages such as name recognition and established donor networks, dissatisfaction with his administration could create an opening for challengers like Foulkes.
-
-3. **Voter Sentiment**: Public opinion polls leading up to the primary will be crucial. If Foulkes can position herself as a fresh alternative to McKee and resonate with key voter demographics, her chances could improve.
-
-4. **Campaign Strategy**: Foulkes' campaign strategy, including her messaging, fundraising efforts, and ability to mobilize grassroots support, will significantly influence her success in the primary.
-
-5. **Party Support**: Endorsements from influential party members and organizations can bolster her campaign and sway undecided voters.
-
-Monitoring these aspects will provide insights into Foulkes' likelihood of winning the Democratic primary in
-
-Title: 2026 is likely to be a roller-coaster year for RI politics. Here's why
-Author: Katherine Gregg
-Published Date: 2026-01-13T00:00:00.000Z
-URL: https://www.providencejournal.com/story/news/politics/2026/01/13/2026-key-political-races-rhode-island-governor-mckee-helena-foulkes-attorney-general-congress/87352110007/
-Summary: The 2026 Rhode Island gubernatorial race is shaping up to be competitive, particularly for the Democratic primary. Incumbent Governor Dan McKee is facing significant challenges due to low approval ratings, largely stemming from his handling of the Washington Bridge closure. Helena Foulkes, a former CVS executive, is a key challenger who previously came within 3 percentage points of defeating McKee in the 2022 primary. 
-
-Political analysts suggest that Foulkes could capitalize on McKee's unpopularity, especially if key Democratic players, including public employee and construction trade unions, decide to support her instead. The dynamics of the race will also depend on whether House Speaker K. Joseph Shekarchi enters the race, potentially splitting the Democratic vote. 
-
-Overall, Foulkes' previous close call against McKee and the current political climate indicate she has a viable path to victory in the primary, but the outcome will hinge on voter sentiment and party support as the election approaches.
+Published Date: 2026-02-24T00:00:00.000Z
+URL: http://shelbystar.com/story/news/politics/elections/2026/02/24/new-poll-shows-foulkes-leading-mckee-in-governors-race/88840539007/
+Summary: Helena Foulkes currently leads in the Democratic primary race for Rhode Island governor, holding a 16-point advantage over incumbent Gov. Dan McKee according to a recent University of New Hampshire Survey Center poll. With 34% of likely Democratic primary voters supporting Foulkes, compared to 18% for McKee, and 40% undecided, her lead suggests strong momentum. The poll also indicates low approval ratings for McKee, with only 18% of Rhode Island residents approving of his performance. Despite McKee's campaign disputing the poll's methodology, Foulkes' consistent lead and the declining popularity of McKee imply she has a significant chance of winning the primary.
 
 
