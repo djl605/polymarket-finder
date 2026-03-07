@@ -1,7 +1,7 @@
 # Research: Will Antonio Reynoso be the Democratic nominee for NY-07?
 
 **Market ID:** 0xdc00146a77dbe0f17e69b4c5d71e9358b0e9eaae4908ab993e0fff0c566abb11
-**Researched At:** March 2, 2026 at 04:22:35 AM UTC
+**Researched At:** March 7, 2026 at 04:08:38 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Antonio Reynoso be the Democratic nominee for NY-07?"
 
 ---
@@ -9,43 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Multiple high-profile endorsements bolster Reynoso’s chances, but a crowded progressive field and absence of polling justify a sub-30% probability. No clear large mispricing is evident.
+Strong progressive and labor endorsements position Reynoso as a leading contender, but credible opponents and no polling keep the race competitive. A 30.5% probability appears roughly in line with the available evidence, with limited sign of significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Antonio Reynoso be the Democratic nominee for NY-07?” It resolves YES if he is officially announced as the Democratic nominee by the November 3, 2026 deadline; NO otherwise (including if another candidate wins or no nominee is announced).
+The market asks: “Will Antonio Reynoso be the Democratic nominee for NY-07?” It resolves YES if he wins the June 23, 2026 Democratic primary for NY-07; NO otherwise (including if no nominee is announced by Nov 3).  
 
 2. EVIDENCE EVALUATION  
 Bullish evidence for Reynoso:  
-• He has secured multiple major endorsements in February 2026 (WFP, RWDSU, outgoing Rep. Velázquez, key City Council members).  
-• His profile (progressive, Brooklyn roots) matches the district’s liberal electorate.  
-• These endorsements bring organizational capacity and grassroots turnout.  
+• Endorsements from NY AG Letitia James, retiring incumbent Nydia Velázquez, the Working Families Party, Hotel and Gaming Trades Council, and New York Progressive Action Network. (All Feb–Mar 2026; credible, recent local sources.)  
+• WFP backing is a powerful signal among progressives, likely translating to volunteers, funding, and turnout.  
 
-Bearish/countervailing evidence:  
-• He is competing against at least two other well-connected progressives (Claire Valdez with UAW/DSA backing, Julie Won, Tiffany Cabán) in a likely crowded primary.  
-• No public polling yet to quantify his lead or lack thereof; vote-splitting among progressives could dilute his share.  
-• Endorsements are valuable but not determinative—NY primaries often hinge on ground game and name recognition beyond labor/left-wing circles.  
+Bearish/offsetting evidence:  
+• Other credible progressive candidates: Assemblymember Claire Valdez (backed by Mayor Mamdani and some WFP members) and Councilmember Julie Won. The progressive vote may split.  
+• No public polling cited. Endorsements don’t guarantee vote share or name recognition among rank-and-file voters.  
 
-Sources are current (Feb 2026) and credible (party endorsements, reputable local outlets). However, endorsement news is “easy to price in,” so their mere existence isn’t proof of mispricing.
+Nothing in these articles suggests an overwhelming lock on the nomination—just that Reynoso is a leading contender. A 30.5% probability fits a scenario where he is one of three viable candidates with institutional support but facing competitive peers.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 28.5% price implies gamblers see roughly three or four viable contenders, each with ~20–30% odds. Low volume suggests limited engagement, but the tight spread (3¢) hints that at least two sides are willing to trade at near that probability. It could represent genuine consensus that while Reynoso is a top tier contender, the field is open and uncertain.
+• A 30.5% price could reflect aggregation of endorsement news plus market skepticism about split progressive field and absence of polling.  
+• Low volume and tight spread suggest the price may be driven by a few traders, but it aligns with the uncertainty implied by the research.  
+• Informed traders might view endorsements as necessary but not sufficient to secure a majority, hence the sub-50% price.  
 
 4. MISPRICING ASSESSMENT  
-No evidence of a >20¢ error. The strongest bullish signal (unanimous progressive-labor endorsements) is well known and likely already priced in. The lack of polling or a clear frontrunner justifies the market’s modest probability. Any undervaluation appears small (<10¢) and speculative given current information.  
+No evidence indicates a glaring miss: endorsements are strong but contested, other candidates remain credible, and the primary is still months away. A 30.5% probability seems reasonable given the information.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is off by ~5¢: 30%  
-- Magnitude of mispricing: 5¢  
-- Expected value = 0.30 × 5¢ = 1.5¢
+Strength of evidence that the market is mispriced: 20% (endorsements arguably already priced in).  
+Magnitude if mispriced: 5¢ (small under- or over-valuation possible).  
+Expected value = 20% × 5¢ = 1.0¢  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Multiple high-profile endorsements bolster Reynoso’s chances, but a crowded progressive field and absence of polling justify a sub-30% probability. No clear large mispricing is evident.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: Strong progressive and labor endorsements position Reynoso as a leading contender, but credible opponents and no polling keep the race competitive. A 30.5% probability appears roughly in line with the available evidence, with limited sign of significant mispricing.  
 CONFIDENCE: low
 
 ---
@@ -54,39 +54,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: NY AG Backs Brooklyn's Reynoso For Congress  - BKReader
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.bkreader.com/policy-government/ny-ag-backs-brooklyns-reynoso-for-congress-11945830
+Summary: The article reports that Brooklyn Borough President Antonio Reynoso has received endorsements from prominent figures and organizations, including New York Attorney General Letitia James, the New York Working Families Party, the Hotel and Gaming Trades Council, and the New York Progressive Action Network. James expressed confidence that Reynoso would advocate for working-class interests in Congress and fight against the current presidential agenda. These endorsements suggest strong support within progressive and labor circles, positioning Reynoso as a leading candidate for the Democratic nomination in NY-07.
+
+Title: Letitia James endorses Antonio Reynoso to succeed Velazquez
+Author: Brooklyn Eagle Staff
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://brooklyneagle.com/371534/ag-james-endorses-reynoso-to-succeed-velazquez/
+Summary: New York Attorney General Letitia James has endorsed Brooklyn Borough President Antonio Reynoso in his bid to succeed Nydia Velazquez in Congress. James highlighted Reynoso’s progressive record on issues like affordable housing, jobs, and justice, emphasizing his ability to fight for working-class interests. Reynoso has secured endorsements from the Working Families Party, Velazquez herself, and other community groups. His primary opponents include Queens Assemblymember Claire Valdez and Queens Councilmember Julie Won. Given the strong endorsements and support from key progressive groups, Reynoso is positioned as a leading candidate for the Democratic nomination in NY-07.
+
 Title: WFP endorses Brooklyn Borough President Antonio Reynoso in NY-7 Congressional race – QNS
 Author: Shane O’Brien
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://qns.com/2026/02/wfp-endorses-antonio-reynoso/
-Summary: The New York Working Families Party (WFP) has endorsed Brooklyn Borough President Antonio Reynoso in the race for New York's 7th Congressional District, which is significant as it positions him as a leading candidate among progressive contenders. Reynoso is competing against Assembly Member Claire Valdez and Council Member Julie Won to succeed outgoing U.S. Rep. Nydia Velázquez, who is not seeking re-election after 33 years. The district is known for its liberal leanings, making the Democratic primary crucial.
-
-Reynoso has received notable endorsements, including one from Velázquez, and is viewed favorably by the WFP, which describes him as the "best candidate" for representing working families. WFP's state director praised Reynoso's commitment to issues such as immigrant rights, tenant protections, and labor support. Additionally, he has garnered endorsements from various City Council Members and other prominent figures, strengthening his position.
-
-In contrast, Valdez has secured endorsements from influential groups like the United Auto Workers and the Democratic Socialists of America, while Won has yet to announce significant endorsements. The upcoming Democratic primary in June will be pivotal in determining the nominee for NY-07, and Reynoso's strong backing from the WFP and other endorsements could enhance his chances of securing the nomination.
+Summary: The article reports that Brooklyn Borough President Antonio Reynoso has received the endorsement of the New York Working Families Party (WFP) in the race to succeed Nydia Velázquez in New York’s 7th Congressional District. Reynoso has also secured endorsements from several local officials and organizations, positioning him as a leading candidate in this highly competitive Democratic primary. The district is known for its liberal leaning, with three progressive candidates vying for the nomination. While Reynoso's endorsements and support from progressive groups like the WFP suggest strong backing, the race remains competitive with other candidates, such as Assembly Member Claire Valdez and Council Member Julie Won, also actively campaigning. Given the district's Democratic-leaning nature and Reynoso's significant endorsements, he is a prominent contender to become the Democratic nominee for NY-07.
 
 Title: Working Families Party endorses Reynoso for congress, breaking with Mamdani • Brooklyn Paper
 Author: Kirstyn Brendlen
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.brooklynpaper.com/working-families-party-endorse-reynoso-congress/
-Summary: The Working Families Party (WFP) has endorsed Antonio Reynoso for the Democratic primary in New York's 7th Congressional District, a significant boost to his candidacy. Reynoso is competing against Assembly Member Claire Valdez and Council Member Julie Won, both from Queens, to succeed retiring U.S. Rep. Nydia Velázquez. WFP state director Jasmine Gripper emphasized Reynoso's trustworthiness and capability to advocate for working families, suggesting strong grassroots support. Reynoso has a history of WFP endorsements, dating back to his City Council run in 2013, indicating a solid foundation within the progressive movement. His campaign focuses on issues like affordable housing, universal childcare, and immigrant support, positioning him as a strong candidate in a left-leaning district. Given this backing and his established political relationships, Reynoso appears well-positioned to be a leading contender for the Democratic nomination in NY-07.
+Summary: Antonio Reynoso has received the endorsement of the influential Working Families Party for the Democratic primary in NY-7, a key indicator of strong support within progressive circles. He is running against Assembly Member Claire Valdez and Council Member Julie Won to succeed retiring U.S. Rep. Nydia Velázquez. Reynoso is also endorsed by Velázquez herself and several other prominent progressive politicians, which enhances his prospects. While the WFP's endorsement is significant, there is a notable split within the party, with some members supporting Valdez and the mayor endorsing her as well. Overall, Reynoso's backing from the WFP and other progressive leaders suggests he is a strong contender to secure the Democratic nomination for NY-7.
 
-Title: RWDSU ENDORSES ANTONIO REYNOSO FOR CONGRESSIONAL DISTRICT 7 (NY-7) — Retail, Wholesale and Department Store Union (RWDSU)
-Author: Written By  Chelsea Connor
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.rwdsu.org/news/reynoso-endorsement-ny7-2026
-Summary: The Retail, Wholesale and Department Store Union (RWDSU) has officially endorsed Antonio Reynoso for the Democratic nomination in New York's 7th Congressional District (NY-7). This endorsement underscores Reynoso's strong commitment to labor issues and his history of advocating for working families, which could enhance his chances of securing the nomination. His experience as an organizer, New York City Council member, and Borough President demonstrates his dedication to union members and labor rights. The RWDSU's active support, including mobilizing its members across various industries in NY-7, may significantly influence the primary election dynamics. Reynoso himself has expressed gratitude for the endorsement, emphasizing the importance of union support in his campaign against corporate interests. Overall, his strong backing from a major union and his established record in public service position him favorably in the race for the Democratic nomination.
-
-Title: Working Families Party backs Reynoso in NY-07 congressional bid
-Author: Brooklyn Eagle Staff
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://brooklyneagle.com/370846/working-families-party-backs-reynoso-in-ny-07-congressional-bid/
-Summary: The Working Families Party has officially endorsed Brooklyn Borough President Antonio Reynoso in his bid for New York's 7th Congressional District, positioning him as a successor to outgoing Rep. Nydia Velázquez. This endorsement, announced on February 24, 2026, highlights Reynoso's commitment to protecting immigrants, advocating for tenants, and supporting labor rights. State Director Jasmine Gripper emphasized Reynoso's trustworthiness within the movement. Reynoso expressed gratitude for the endorsement and pledged to oppose former President Trump's agenda while representing the interests of Brooklyn and Queens.
-
-Given the Working Families Party's backing and Reynoso's political experience as a former City Council member and current borough president, he is well-positioned to be a strong candidate for the Democratic nomination in NY-07. The party's endorsement process, which includes a thorough questionnaire and interview, suggests that Reynoso meets their criteria for support, potentially increasing his chances of securing the nomination.
-
-Title: New York political predictions for 2026
-Published Date: 2025-12-22T00:00:00.000Z
-URL: https://www.cityandstateny.com/politics/2025/12/new-york-political-predictions-2026/410330/
-Summary: The article discusses the competitive political landscape in New York as the 2026 elections approach, focusing on key races, including the Democratic nomination for NY-07. Antonio Reynoso, the Brooklyn Borough President, is a prominent contender in this race. Political experts suggest that the NY-07 district is favorable for an ultraprogressive candidate, which aligns with Reynoso's profile. However, the presence of multiple candidates, such as Assembly Member Claire Valdez and City Council Members Julie Won and Tiffany Cabán, could complicate his chances by splitting the vote. The outcome will depend on Reynoso's ability to run an aggressive campaign and effectively connect with voters in a potentially crowded field.
+Title: Working Families Party Backs Reynoso for Congress, Breaking With Mamdani - The New York Times
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.nytimes.com/2026/02/23/nyregion/antonio-reynoso-wfp-endorsement-congress.html
+Summary: The article reports that the Working Families Party has endorsed Brooklyn Borough President Antonio Reynoso in a competitive Democratic primary for New York’s congressional seat, breaking with Mayor Zohran Mamdani’s preferred candidate, Assemblywoman Claire Valdez. The endorsement is significant, likely boosting Reynoso’s campaign with additional support, volunteers, and influence among progressives. The process also highlights internal political dynamics, with Mamdani’s efforts to sway party support toward his preferred socialist candidate facing challenges. While the endorsement strengthens Reynoso’s position, it does not guarantee he will secure the Democratic nomination for NY-07, as primary outcomes depend on various factors including voter preferences and campaign dynamics.
 
 

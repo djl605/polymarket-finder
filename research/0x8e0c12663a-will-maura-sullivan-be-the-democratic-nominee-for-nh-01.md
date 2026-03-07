@@ -1,7 +1,7 @@
 # Research: Will Maura Sullivan be the Democratic nominee for NH-01?
 
 **Market ID:** 0x8e0c12663aac3ff057b2b3954864e2370ec1a9c94992104996f79f7da097cda1
-**Researched At:** March 1, 2026 at 06:04:29 AM UTC
+**Researched At:** March 7, 2026 at 04:08:43 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Maura Sullivan be the Democratic nominee for NH-01?"
 
 ---
@@ -9,42 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.5¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-Mixed signals from local endorsements and fundraising versus polling deficit and reputational issues leave Sullivan’s chances near the 22% market price. There’s insufficient credible evidence of a sizeable mispricing.
+Current evidence (local endorsements, modest donations, and trailing poll position) aligns with a ~21% chance; no clear new data suggests a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Maura Sullivan will win the Democratic nomination for NH-01’s September 8, 2026 primary. A YES requires her to prevail over all Democratic challengers (notably Stefany Shaheen) and be formally announced by Nov 3, 2026.
+This market asks whether Maura Sullivan will be the Democratic nominee in New Hampshire’s 1st Congressional District, with resolution determined by an official announcement by November 3, 2026. For a YES, Sullivan must win the Democratic primary on September 8, 2026 (or be named the nominee by that date). A NO includes any other candidate winning or no nominee by the cutoff.
 
 2. EVIDENCE EVALUATION  
-Bullish on Sullivan:  
-• Feb 17 WMUR: 38 endorsements in Manchester (Board of Aldermen, School Committee), signaling strong local organization.  
-• Sepacoast fundraising (though outdated 2018 data) and Union Leader: she’s attracting varied donors including ICE-linked executives—indicating financial viability.  
+Bullish for Sullivan (suggesting price too low):  
+• WMUR (2026-02-17): 38 Manchester local endorsements (Board of Aldermen, School Committee) signal growing local strength and organizational ground game.  
+• Union Leader (2026-03-01): $9,000 donation from ICE-data firm executives could reflect some network of high-value donors.  
 
-Bearish on Sullivan:  
-• WMUR notes she trails Stefany Shaheen in polls of likely primary voters.  
-• Breitbart (partisan but fundraising figures plausible): GOP momentum pressures Dems; her refusal to condemn political violence may alienate moderates.  
-• Only a fraction of endorsements and funds are statewide (NH-01 spans Manchester to Portsmouth region).  
+Bearish (supporting ~21%):  
+• WMUR notes “polling leader remains Stefany Shaheen,” implying Sullivan trails in surveys. No public polls show Sullivan leading.  
+• No major state- or national-level endorsements; her funding and support remain modest.  
 
-Source credibility and recency: WMUR (Feb 17, 2026) and Union Leader (Feb 27, 2026) are timely and local; Breitbart is partisan but fundraising data aligns with nonpartisan FEC filings. No direct primary polling beyond WMUR’s qualitative note.
+Source credibility and recency: Both WMUR and Union Leader are credible NH outlets; their dates (Feb–Mar 2026) are current. The PDF and gubernatorial articles are irrelevant. No glaring new data that overturns the market’s assessment.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 22% price implies traders see Sullivan as an underdog vs Shaheen and possibly others. Low $411 volume and 4¢ spread mean few participants but a consensus price need not reflect only one bettor; it could be the intersection of a small group. Given the long timeline and modest media coverage, informed traders may have limited new, price-moving info.
+A 21% price reasonably captures a second-tier candidate with some local backing but trailing the clear polling leader. Low volume is consistent with a niche congressional primary that lacks broad trader interest. The tight 2¢ spread suggests at least one active liquidity provider, not necessarily a diverse consensus, but also no arbitrage opportunity given slim information edges.
 
 4. MISPRICING ASSESSMENT  
-No single data point suggests Sullivan’s odds are dramatically higher or lower than 22%. Endorsements matter, but they are geographically concentrated. Fundraising is strong but not overwhelmingly so versus Shaheen. No broad polling, and primary dynamics remain fluid. Thus there’s insufficient credible evidence of a >10¢ mispricing in either direction.
+There’s no specific, credible information missing that would push Sullivan’s odds dramatically above or below 21%. Endorsements and a small donation haul are likely already factored in. The market reflects her status as a credible contender but not the frontrunner. No sign of a >20¢ mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~30% (some localized signals but no statewide poll).  
-Plausible mispricing magnitude: ~5 cents.  
-Expected value ≈ 30% × 5¢ = 1.5¢
+Strength of evidence that price is off: ~10% (weak minor signals).  
+Plausible magnitude: ~3¢ (small bump if anything).  
+EV ≈ 0.10 × 3¢ = 0.3¢ → round to 0¢ for practical purposes.  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Mixed signals from local endorsements and fundraising versus polling deficit and reputational issues leave Sullivan’s chances near the 22% market price. There’s insufficient credible evidence of a sizeable mispricing.  
+EXPECTED_VALUE: 0.0  
+SUMMARY: Current evidence (local endorsements, modest donations, and trailing poll position) aligns with a ~21% chance; no clear new data suggests a significant mispricing.  
 CONFIDENCE: low
 
 ---
@@ -53,52 +52,36 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Executives with ICE data mining firm gave Maura Sullivan's campaign $9,000 | State | unionleader.com
+Author: Kevin Landrigan Union Leader Staff
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.unionleader.com/news/politics/state/executives-with-ice-data-mining-firm-gave-maura-sullivans-campaign-9-000/article_734e3233-aca0-45eb-a5a2-e70a19761ddc.html
+Summary: The article reports that executives from an ICE data mining firm donated $9,000 to Maura Sullivan's campaign. While it highlights the financial support Sullivan has received, it does not provide information about her current standing in the Democratic primary or her prospects of becoming the nominee for NH-01. Therefore, based on this source alone, there is no direct information to predict whether Maura Sullivan will be the Democratic nominee for NH-01.
+
 Title: Maura Sullivan highlights growing support in Manchester
 Author: Adam Sexton
 Published Date: 2026-02-17T00:00:00.000Z
 URL: https://www.wmur.com/article/maura-sullivan-manchester-congress-campaign-021726/70397011
-Summary: Maura Sullivan is gaining significant traction in her campaign for Congress in New Hampshire's 1st Congressional District, particularly in Manchester, where she has secured 38 endorsements, including a majority of the Board of Aldermen and the School Committee. Local leaders, like Alderwoman-at-large June Trisciani, emphasize Sullivan's commitment and presence in the community, noting her long-standing involvement in local Democratic campaigns even before her candidacy. Sullivan aims to maintain the legacy of outgoing Congressman Chris Pappas, focusing on local budget issues and infrastructure needs. However, she faces competition from Stefany Shaheen, who is currently leading in polling for the Democratic primary. Sullivan's ability to connect with voters and her growing support in Manchester could be pivotal in determining her chances of becoming the Democratic nominee for NH-01.
+Summary: Maura Sullivan is gaining significant support in Manchester as she campaigns for the Democratic nomination in New Hampshire’s 1st Congressional District. She has secured endorsements from 38 local leaders, including a majority of Manchester’s Board of Aldermen and School Committee members, highlighting strong local backing. Sullivan has been actively involved in supporting local Democratic efforts even before officially running, demonstrating her commitment and presence in the community. She emphasizes continuity with current Congressman Chris Pappas and aims to address local infrastructure and education needs. While the polling leader remains Stefany Shaheen, Sullivan’s growing support in Manchester and her active engagement suggest she is a notable contender in the primary race.
 
-Title: Seacoastonline.com: Local News, Politics & Sports in Portsmouth, NH
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: http://www.seacoastonline.com/news/20180416/maura-sullivan-leads-nh-congress-race-fundraising
-Summary: Maura Sullivan is currently leading the fundraising efforts in the race for the Democratic nomination for New Hampshire's First Congressional District, having raised $480,000 in the first quarter of 2018 and a total of $910,000 since announcing her candidacy. This significant financial backing positions her favorably compared to her competitors. However, only 20% of her contributions came from within New Hampshire, leading to criticism and the "carpetbagger" label from rival campaigns.
+Title: [PDF] 2026 Gubernatorial Race Overview
+Published Date: 2025-09-12T00:00:00.000Z
+URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
+Summary: The provided document does not contain any information about Maura Sullivan or the New Hampshire-01 (NH-01) congressional race. It primarily covers the 2026 New Jersey gubernatorial race and a brief overview of Virginia’s gubernatorial contest, focusing on current candidates, polling, endorsements, and political dynamics. Therefore, it does not offer relevant details to predict whether Maura Sullivan will be the Democratic nominee for NH-01.
 
-Chris Pappas, another candidate, raised over $205,000 in the same period, with more than 80% of his contributions from New Hampshire, indicating strong local support. Other candidates like Deaglan McEachern and Levi Sanders have also entered the race, but their fundraising figures are considerably lower, with Sanders struggling to gain traction despite his famous father, Bernie Sanders.
-
-Overall, Sullivan's strong fundraising performance is a positive indicator for her candidacy, but the criticism regarding her local support could impact her chances. The dynamics of local support versus fundraising will be crucial in determining whether she secures the Democratic nomination.
-
-Title: Executives with ICE data mining firm gave Maura Sullivan's campaign $9,000 | State | unionleader.com
-Author: Kevin Landrigan Union Leader Staff
+Title: 4 Questions About the Governor's Race
+Author: Steve Marchand
 Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.unionleader.com/news/politics/state/executives-with-ice-data-mining-firm-gave-maura-sullivans-campaign-9-000/article_734e3233-aca0-45eb-a5a2-e70a19761ddc.html
-Summary: Executives from an ICE data mining firm contributed $9,000 to Maura Sullivan's campaign, which may influence her standing in the Democratic primary for New Hampshire's 1st Congressional District (NH-01). This financial backing could be significant in assessing her viability as a candidate, especially in a competitive political landscape. Observers may want to consider how this contribution aligns with her campaign strategy and voter sentiment, as well as the potential implications of accepting funds from a controversial source. Overall, while the contribution is a positive indicator of financial support, it remains to be seen how it will affect her chances of becoming the Democratic nominee.
+URL: https://thepoliticsofnewhampshire.substack.com/p/4-questions-about-the-governors-race
+Summary: The article primarily discusses the New Hampshire gubernatorial race and recent developments, notably that Portsmouth Mayor Deaglan McEachern has decided not to run for governor, which may influence the Democratic primary field. It highlights ongoing political dynamics, potential candidates, and strategic moves related to the state's elections. However, it does not mention Maura Sullivan or provide specific information about her candidacy or prospects for the Democratic nomination in NH-01. Therefore, based on this source, there is no relevant information to predict whether Maura Sullivan will be the Democratic nominee for NH-01.
 
-Title: Republican Anthony DiLorenzo Surges Ahead in NH-01 as Fundraising Crushes Democrat Field
-Author: Jasmyn Jordan
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.breitbart.com/politics/2026/02/06/republican-anthony-dilorenzo-surges-ahead-in-nh-01-as-fundraising-crushes-democrat-field/
-Summary: Maura Sullivan, a key Democratic contender in New Hampshire's First Congressional District, has raised $518,000 in her first quarter, making her the top fundraiser among Democrats but significantly trailing Republican Anthony DiLorenzo, who raised $833,000. The competitive landscape in NH-01 has shifted towards Republicans, with the district moving nearly four points in their favor since 2020. Sullivan's campaign faces challenges, including her recent refusal to condemn political violence, which has drawn criticism and could impact her viability as a candidate. Given DiLorenzo's strong fundraising and the GOP's momentum, Sullivan's ability to secure the Democratic nomination may depend on her fundraising performance and public perception in the coming months.
+Title: 2026 United States Senate election in Maine
+URL: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine
+Summary: The provided webpage details the 2026 U.S. Senate election in Maine, including information about the incumbent senator Susan Collins (Republican) and the election date (November 3, 2026). However, it does not contain specific information about Maura Sullivan or her potential candidacy for New Hampshire's 1st congressional district (NH-01). 
 
-Title: The NH-02 Primary Audit: – The Sullivan County NH Republican Committee
-Author: Kevin Tyson
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://sullivannhgop.com/2026/02/21/the-nh-02-primary-audit/
-Summary: The webpage discusses the upcoming 2026 Republican primary for New Hampshire's 2nd Congressional District, focusing on the two candidates: Victor Orlando and Lily Tang Williams. While it primarily addresses Republican candidates and their positions on key issues, it does not provide direct information about Maura Sullivan or the Democratic nomination for NH-01. 
+To predict whether Maura Sullivan will be the Democratic nominee for NH-01, relevant factors include her previous political experience, her visibility within the Democratic Party, her campaign history, and the overall political landscape in New Hampshire. Since the webpage focuses solely on Maine's Senate race and does not mention Sullivan or New Hampshire races, it offers limited direct insight.
 
-To predict whether Maura Sullivan will be the Democratic nominee for NH-01, consider the following factors that may be relevant:
-
-1. **Current Political Landscape**: Analyze the competitiveness of the Democratic primary in NH-01 and any potential challengers Sullivan may face.
-  
-2. **Past Performance**: Review Sullivan's previous election results and her support within the Democratic Party, especially in comparison to other candidates.
-
-3. **Voter Sentiment**: Gauge the current political climate and voter priorities in NH-01, which could influence her chances.
-
-4. **Party Support**: Investigate endorsements and support from key Democratic figures and organizations, which can significantly impact nomination outcomes.
-
-5. **Campaign Strategy**: Assess Sullivan's campaign strategy, fundraising efforts, and outreach to voters, which are crucial for securing the nomination.
-
-While the webpage does not directly address these points, they are essential for evaluating Maura Sullivan's likelihood of becoming the Democratic nominee for NH-01.
+**In summary:**  
+The webpage provides context about Maine's 2026 Senate race but does not contain information pertinent to Maura Sullivan's potential nomination for NH-01. Additional data on Sullivan's political background, her campaign activities, and the Democratic primary landscape in New Hampshire would be necessary for an informed prediction.
 
 

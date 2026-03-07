@@ -1,7 +1,7 @@
 # Research: Will Revolut launch a USD stablecoin in 2026?
 
 **Market ID:** 0xd72f8ae72767e80d4021a1f447e492fcbb23533e6b5b6645b22bec3d893a2aee
-**Researched At:** March 1, 2026 at 02:33:47 PM UTC
+**Researched At:** March 7, 2026 at 04:09:26 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Revolut launch a USD stablecoin in 2026?"
 
 ---
@@ -9,41 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Research shows Revolut has regulatory licenses and internal plans hinting at a USD stablecoin, but no public trials or launch announcements exist yet. A 59% probability reasonably balances strategic intent against execution/regulatory uncertainty and low market adoption.
+Public tests so far cover only a GBP stablecoin and no USD coin has a confirmed 2026 launch; the market’s 59% probability may be slightly optimistic but lacks clear 20 ¢ mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Revolut will have its own USD-pegged stablecoin, fully launched and transferrable/tradable, by Dec 31, 2026. A “Yes” requires Revolut to issue and enable transfers/trading of a proprietary USD stablecoin; pure announcements or swaps into existing stablecoins (e.g., USDC) don’t qualify.  
+The market asks whether Revolut will have an actively transferable/tradable USD-pegged stablecoin by Dec 31, 2026. To resolve YES, Revolut must publicly launch and enable users to transfer or trade a USD stablecoin (not merely announce it) before that cutoff; otherwise it resolves NO.
 
 2. EVIDENCE EVALUATION  
 Bullish signals:  
-• Oct 2025 LinkedIn report says Revolut is “poised to launch USD and Euro stablecoins,” backed by a MiCA license in Cyprus and integration plans for AI-driven programmable money. This suggests strategic commitment and regulatory groundwork.  
-• Ongoing FCA sandbox testing of a GBP stablecoin (Feb 2026) and dollar-to-stablecoin swap capabilities (Oct 2025) show stablecoin technology development and regulatory engagement. An IPO in 2026 may further incentivize a product rollout.  
-
+• 2025-10-26 LinkedIn post (Ectors) reports “planning to launch USD and Euro stablecoins” with near-term focus on programmable money.  
+• Revolut has a clear stablecoin strategy tied to its planned IPO and digital-asset expansion.  
 Bearish signals:  
-• No direct, credible confirmation of a USD stablecoin launch exists; all research describes plans or tests but not an imminent launch. GBP trials are explicit, USD remains speculative.  
-• Stablecoin usage remains a tiny fraction of global payments (<0.02%), implying product-market fit and regulatory hurdles could delay or derail a USD launch.  
-
-All sources are recent (Oct 2025–Feb 2026). The LinkedIn item may reflect PR rather than a binding roadmap; CoinCentral and Finimize note only GBP-coin testing.  
+• As of early 2026 (Reuters 2/25, CoinCentral 2/25, TFN 2/26, CryptoSlate 3/3), all public testing is for a GBP-pegged coin in the UK sandbox; no USD stablecoin trial or committed roadmap is disclosed.  
+• U.S. stablecoin issuance faces heavier regulatory hurdles than UK’s FCA sandbox.  
+Source credibility: Reuters and major crypto news sites are highly credible and recent; the LinkedIn post is less formal and undated on timing, so its launch timeframe is speculative.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 59% price plausibly reflects a split between strong strategic intent (MiCA license, roadmap talk) and execution uncertainty (no public USD trials, small stablecoin usage). Low volume may simply reflect niche interest rather than wide disagreement; price seems set by an informed few rather than noise traders.  
+A 59% price could reflect traders extrapolating from Revolut’s broad stablecoin ambitions or a single optimist betting on multi-coin launches. Low volume (0 $ total vol) suggests limited information aggregation; informed traders may view U.S. regulation as a significant barrier and thus have stayed out.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, credible evidence of a large mispricing. The bullish LinkedIn piece and regulatory licenses support >50% odds but remain non-binding; bearish absence of USD-specific trials or launch announcements tempers confidence. Given remaining uncertainty and a long resolution horizon, a mid-50s probability is reasonable.  
+While Revolut clearly intends to issue stablecoins, current evidence shows only GBP testing underway and no USD coin confirmed for 2026. This suggests market probability of 59% may be modestly overstated (perhaps ~45-55%), but there’s no smoking-gun mispricing nor >20 cent gap. The market’s view is defensible given company announcements, but concrete plan details for USD remain absent.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~30% (bullish intent well known; execution uncertainty likely priced in).  
-Magnitude of mispricing if wrong: ~5 cents (price might tilt a few points but not swing >10 cents).  
-Expected value: 0.30 × 5 cents = 1.5 cents.  
+Strength of evidence: ~30% (some credible bearish signals but also strategic intent)  
+Magnitude of mispricing: ~10 cents (market may be 5–10 pts too high)  
+Expected value = 0.30 × 10 ¢ = 3 ¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Research shows Revolut has regulatory licenses and internal plans hinting at a USD stablecoin, but no public trials or launch announcements exist yet. A 59% probability reasonably balances strategic intent against execution/regulatory uncertainty and low market adoption.  
+EXPECTED_VALUE: 3.0  
+SUMMARY: Public tests so far cover only a GBP stablecoin and no USD coin has a confirmed 2026 launch; the market’s 59% probability may be slightly optimistic but lacks clear 20 ¢ mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -53,38 +51,33 @@ CONFIDENCE: medium
 *The following context was generated by Exa AI and provided to the analysis model:*
 
 Title: Revolut to launch USD and Euro stablecoin, disrupting traditional ...
+Author: Maarten Ectors
 Published Date: 2025-10-26T00:00:00.000Z
 URL: https://www.linkedin.com/posts/mectors_revolut-secures-mica-license-in-cyprusis-activity-7388273708047544320-BJnE
-Summary: Revolut is poised to launch USD and Euro stablecoins, which could significantly disrupt traditional banking and finance systems. The company plans to allow customers to transfer funds to and from these stablecoins at no cost, potentially marking a shift away from conventional payment methods like cards and bank accounts. This move aligns with the growing trend of programmable money, where transactions can be automated through AI and digital assistants. As Revolut has secured a MiCA license in Cyprus, it is well-positioned to implement these innovations. Given these developments, it is likely that Revolut will indeed launch a USD stablecoin by 2026, as they are actively working on integrating AI and stablecoin technologies into their services.
+Summary: Revolut is planning to launch USD and Euro stablecoins, enabling customers to transfer funds between their accounts and stablecoins at zero cost. This move signals a shift towards programmable money, potentially disrupting traditional banking and payment systems. The integration of stablecoins with AI and digital workers could lead to fully automated investment management and financial services, including AI-driven portfolio management and instant cross-border transactions with minimal fees. While the post does not specify a launch date, the emphasis on upcoming stablecoin offerings and innovative financial integrations suggests Revolut's stablecoins could be introduced in the near future, possibly by 2026.
 
 Title: Revolut Has a Stablecoin in Testing and a Huge IPO in Its Sights - CoinCentral
 Author: Trader Edge
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://coincentral.com/revolut-has-a-stablecoin-in-testing-and-a-huge-ipo-in-its-sights/
-Summary: Revolut is currently testing a pound-pegged stablecoin as part of the UK's Financial Conduct Authority (FCA) sandbox program, which includes various use cases such as payments and crypto trading. While there is no specific mention of a USD stablecoin in the article, the company's ongoing developments in stablecoin technology could indicate potential future expansions into other currencies, including the USD. Additionally, Revolut is planning a significant IPO in 2026, aiming for a valuation of at least $150 billion, which may influence its product offerings, including stablecoins. Thus, while a USD stablecoin is not confirmed, Revolut's active engagement in the stablecoin space suggests it could be a possibility in the future.
+Summary: Revolut is currently testing a pound-pegged stablecoin through the FCA’s sandbox program, with use cases including payments, wholesale settlement, and crypto trading. While there is no specific mention of a USD stablecoin, the ongoing development of stablecoins by Revolut indicates an active interest in expanding its digital asset offerings. Given the company's focus on stablecoin testing and its strategic plans for a significant IPO valuation (at least $150 billion), it is plausible that Revolut may consider launching additional stablecoins, potentially including USD-pegged ones, in 2026. However, no official confirmation or detailed plans for a USD stablecoin have been announced yet.
 
-Title: Revolut Launches Dollar-to-Stablecoin Swaps Under New EU ...
-Published Date: 2025-10-31T00:00:00.000Z
-URL: https://www.financemagnates.com/fintech/revolut-launches-dollar-to-stablecoin-swaps-under-eu-crypto-license/
-Summary: Revolut has recently launched a feature allowing users to swap U.S. dollars for stablecoins (specifically USD Coin and Tether) at a 1:1 rate, without any fees or hidden costs. This initiative follows the company's acquisition of a Markets in Crypto-Assets license from CySEC, which enables them to operate more freely within the EU's regulatory framework. The service is available to Revolut's 65 million users, allowing exchanges of up to $578,630 every 30 days across supported blockchains like Ethereum, Solana, and Tron.
+Title: Revolut enters UK stablecoin sandbox, eyes $100B valuation ahead of IPO — TFN
+Author: Vignesh R
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://techfundingnews.com/revolut-fca-stablecoin-sandbox-100b-valuation/
+Summary: Revolut has entered the UK FCA's stablecoin sandbox, indicating active development and regulatory engagement in digital currency projects. The company is aiming for a valuation of around $100 billion ahead of its IPO, highlighting its growth ambitions in fintech and digital assets. While specific plans for a USD stablecoin are not detailed, Revolut's involvement in stablecoin regulation and its strategic growth suggest potential future launches, possibly including USD-pegged stablecoins, as part of its broader expansion into digital currencies.
 
-While the current focus is on facilitating dollar-to-stablecoin swaps, the launch of this feature does not explicitly indicate plans for Revolut to introduce its own USD stablecoin in 2026. However, the regulatory advancements and the growing interest in stablecoin transactions could suggest that such a development might be feasible in the future.
+Title: Revolut's stablecoin test targets its 12M UK users - CryptoSlate
+Author: Andjela Radmilac
+Published Date: 2026-03-03T04:09:09.854Z
+URL: https://cryptoslate.com/revolut-pound-stablecoin-uk-sandbox-trial/
+Summary: Revolut is currently testing a GBP-pegged stablecoin aimed at its 12 million UK users, indicating its interest in integrating digital assets and blockchain-based financial products. While there is no direct mention of plans to launch a USD stablecoin in 2026, Revolut's exploration of stablecoins suggests a strategic move toward expanding its digital currency offerings. The company's ongoing development in this area could potentially include USD-pegged stablecoins in the future, depending on regulatory developments, market demand, and technological advancements.
 
-Title: Revolut Will Test A Pound-Pegged Stablecoin In The UK - Finimize
-Author: 
+Title: Revolut to test stablecoin in UK trial | Reuters
+Author: Phoebe Seers
 Published Date: 2026-02-25T00:00:00.000Z
-URL: https://finimize.com/content/revolut-will-test-a-pound-pegged-stablecoin-in-the-uk
-Summary: Revolut is currently focused on testing a British pound-pegged stablecoin in the UK under the Financial Conduct Authority's (FCA) sandbox, which indicates a cautious approach by UK regulators towards stablecoins. This trial involves Revolut alongside other fintech companies and aims to explore various applications, including consumer payments and crypto trading. 
-
-While there is no direct mention of a USD stablecoin in the current plans, the success of the GBP stablecoin could influence Revolut's future decisions regarding other currencies, including the USD. The broader context suggests that if the GBP trial proves effective and gains regulatory approval, it may pave the way for Revolut to consider launching a USD stablecoin or similar products in the future. However, the current focus remains on the GBP, and any developments regarding a USD stablecoin would depend on the outcomes of this trial and regulatory responses.
-
-Title: Stablecoins draw attention, but are still a tiny market
-Published Date: 2026-02-25T14:33:34.317Z
-URL: https://www.americanbanker.com/payments/news/stablecoins-draw-attention-but-are-still-a-tiny-market
-Summary: The article discusses the current state of stablecoins, highlighting recent announcements from companies like Revolut, Tether, and Circle aimed at enhancing their stablecoin offerings. Despite the growing interest and investment in stablecoins, the overall market remains small, with approximately $300 billion in circulation as of early 2026, a significant increase from under $30 billion in 2020. Projections suggest that the stablecoin supply could reach between $3 trillion and $4 trillion by 2030.
-
-However, McKinsey's analysis indicates that stablecoin payments account for only about 0.02% of global payment volume, totaling around $390 billion in 2025. This suggests that while there is momentum in the stablecoin market, actual usage in payments is limited.
-
-Given this context, the potential for Revolut to launch a USD stablecoin in 2026 may depend on several factors, including regulatory developments, market demand, and competition from other fintechs and banks. The current focus on expanding stablecoin profiles by major players indicates a strategic interest in capturing a larger share of the payments market, which could influence Revolut's decision-making regarding a USD stablecoin launch.
+URL: https://www.reuters.com/sustainability/boards-policy-regulation/revolut-test-stablecoin-uk-trial-2026-02-25/
+Summary: Revolut is planning to test a stablecoin pegged to the British pound within the UK’s regulatory sandbox, starting this quarter. The trial involves small companies and aims to explore use cases such as payments, wholesale settlement, and crypto trading. While Revolut has not announced plans for a USD stablecoin, its focus on issuing a pound-denominated stablecoin suggests that future developments could depend on regulatory outcomes and market demand. The broader stablecoin market has seen significant growth, but UK regulators remain cautious, emphasizing clear branding and consumer protections.
 
 

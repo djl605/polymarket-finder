@@ -1,57 +1,54 @@
 # Research: Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?
 
 **Market ID:** 0x00925aafdbb3fbec14b49f343eb430ddb9cc1f827e5934b5513703d13f2851de
-**Researched At:** March 1, 2026 at 06:09:49 AM UTC
+**Researched At:** March 7, 2026 at 04:08:55 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-Polling shows Hong at about 11% among decided voters with 65% undecided, and there’s no dominant frontrunner, making a 24.9% win probability plausible. No clear, credible evidence suggests a mispricing larger than a few cents.
+Early polling shows Hong at only ~11% support with 65% undecided, but in a crowded field a ~27% win probability is plausible for one of four frontrunners. No specific credible missing info suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- Market asks if Francesca Hong will be the overall winner of the August 11, 2026, Wisconsin Democratic gubernatorial primary.  
-- YES if her name appears first in the certified primary results; NO if any other Democrat wins or there is no primary.  
+- The market asks whether Francesca Hong will win the August 11, 2026 Democratic primary for Wisconsin governor. A “YES” pays if she is the overall plurality (including any run-off); “NO” if another candidate wins or no primary is held.  
 
 2. EVIDENCE EVALUATION  
-Bullish on Hong >24.9%:  
-- Feb 11–19 Marquette poll: Hong ties Barnes at 11% among decided voters, within a 6.3-point margin of error, suggesting she’s competitive at this early stage.  
-- 65% of Dem primary voters undecided means a breakout performance is possible.  
-- No clear front‐runner: crowded field and historical parallels (2018) leave room for a candidate who stands out.  
+Bullish / Overpricing signals:  
+• Hong leads among decided voters in recent Marquette polls (11% vs. 10% for Barnes), suggesting she is one of the front-runners.  
+• Large undecided bloc (65%) leaves room for her to consolidate progressive voters as the campaign unfolds.  
 
-Bearish on Hong <24.9%:  
-- Hong’s 11% share of decided votes implies her base is small; translating that into a win requires dominating undecideds in a diverse field.  
-- Barnes and Rodriguez have higher name recognition and fundraising clout.  
-- No evidence Hong has significantly surged since late February; no major endorsements or polling upticks.  
+Bearish / Underpricing signals:  
+• Current polling support (11%) is far below her win probability implied by a 27% market price—she would need to leapfrog several rivals to reach a plurality.  
+• No major endorsements, fundraising or organizational breakthroughs cited in the research that would justify more than doubling her current polling share.  
 
-All sources are credible (Marquette Univ., Wisconsin Watch, Urban Milwaukee), recent (Jan–Feb 2026), but none present conclusive signals that the market has overlooked.  
+Source credibility & recency: All studies are from late February/early March 2026, from reputable outlets (Marquette poll via Urban Milwaukee, WiscNews, WISN), but sample sizes and methodological details are not provided.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 24.9% probability aligns with a three‐to‐four‐way race where each top candidate has a ~20–30% chance if the field remains fluid.  
-- Low volume could reflect genuine uncertainty rather than a lone trader’s view.  
-- Informed participants likely factor in late‐breaking endorsements, fundraising dynamics, and primary turnout shifts.  
+- A 27.3% price may simply reflect her status as one of 3–4 viable candidates in a crowded field (three or four-way tie often implies ~25% win odds apiece early on).  
+- Low total volume ($3.1K) and tight spread (2.5¢) suggests some liquidity but limited participation—price could be set by a handful of traders or one liquidity provider.  
+- The early timing (5 months before the primary) means high uncertainty; that often translates into mid-20s win probabilities for frontier candidates.  
 
 4. MISPRICING ASSESSMENT  
-- No specific, credible evidence indicates the price misses key known factors.  
-- Polls show wide undecided margins, a crowded field, and no clear frontrunner, making ~25% plausible.  
-- Given the timeline and uncertainty, a small inefficiency (<5¢) is possible but not clearly supported.  
+- No specific new information (endorsements, scandal, fundraising surge) is missing from the price that would shift win odds by more than ~5–10¢.  
+- Polling gap between 11% measured support and 27% implied win probability is not unusual this far out in a multi-candidate primary.  
+- Most charitable interpretation: informed traders view her as one of roughly four evenly matched candidates, hence ~25–30% win odds.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence for mispricing: 20% (evidence is weak/ambiguous)  
-- Magnitude of mispricing: 5 cents (small potential drift)  
-- Expected value = 20% × 5 cents = 1 cent  
+- Strength of evidence that price is off: ~20% (polls vs. price discrepancy but within normal early-race variance)  
+- Potential magnitude of mispricing: ~5¢ (price might be slightly high if no consolidation occurs)  
+- Expected value = 20% × 5¢ = 1¢  
 
 EXPECTED_VALUE: 1  
-SUMMARY: Polling shows Hong at about 11% among decided voters with 65% undecided, and there’s no dominant frontrunner, making a 24.9% win probability plausible. No clear, credible evidence suggests a mispricing larger than a few cents.  
-CONFIDENCE: low
+SUMMARY: Early polling shows Hong at only ~11% support with 65% undecided, but in a crowded field a ~27% win probability is plausible for one of four frontrunners. No specific credible missing info suggests a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -59,58 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Opinion | Hong shows strength in Wisconsin governor race | John Nichols | captimes.com
+Author: John Nichols
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://captimes.com/opinion/john-nichols/opinion-hong-shows-strength-in-wisconsin-governor-race/article_f3a2b3d4-f23c-48ca-866a-e8732da33784.html
+Summary: The article discusses Francesca Hong’s political strength and potential in Wisconsin, highlighting her progressive stance, community engagement, and growing influence within the Democratic Party. While it emphasizes her increasing visibility and support base, it does not provide specific predictions about her chances in the 2026 Democratic primary for Wisconsin governor. Factors such as her policy positions, campaign strategy, and the political landscape leading up to the election will be critical in assessing her likelihood of winning.
+
 Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban Milwaukee
 Author: Rich Kremer
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
-Summary: A recent Marquette University poll indicates that Francesca Hong, a Madison state representative, is among the candidates in the 2026 Democratic primary for Wisconsin governor. While she is competing against notable figures like former Lt. Gov. Mandela Barnes, the poll reveals that many voters remain undecided. Barnes currently has higher name recognition but does not dominate as the clear favorite among Democratic voters. This suggests that while Hong has a chance, her success will depend on her ability to increase her visibility and appeal to undecided voters as the primary approaches. Factors such as campaign strategy, voter engagement, and responses to key issues will be crucial in determining her chances of winning the primary.
+Summary: The Marquette University Law School poll indicates that Francesca Hong currently has a similar level of support as Mandela Barnes among Democratic primary voters, with both candidates essentially tied within the margin of error. While Barnes has higher name recognition, this has not yet translated into a decisive lead in voter preference. Given that a significant portion of voters remain undecided (65%), and the current support levels are very close, it is uncertain whether Hong will win the 2026 Democratic primary. The outcome will likely depend on future campaign dynamics and voter mobilization efforts.
 
-Title: Poll: Hong, Barnes top Democratic primary, but most undecided
-Author: Rich Kremer
+Title: Who’s leading in Wisconsin’s race for governor?
+Author: KIMBERLY WETHAL kwethal@madison.com
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://wiscnews.com/news/state-regional/government-politics/elections/article_1d2d8f68-861d-50f5-b137-780cc8901025.html
+Summary: The article reports that in the Wisconsin governor race, Democrat Rep. Francesca Hong is leading among Democratic candidates according to a Marquette Law School poll. However, it does not specify her margin of lead or the likelihood of her winning the Democratic primary. Given her current lead in the poll, she appears to be a strong contender, but further polling data and campaign developments would be necessary to accurately predict her chances of winning the 2026 Democratic primary.
+
+Title: Did Francesca Hong win the Democratic primary for Wisconsin governor?
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.jsonline.com/story/news/factcheck/2026/02/27/did-francesca-hong-win-the-democratic-primary-for-wisconsin-governor/88887112007/
+Summary: Francesca Hong has not yet won the 2026 Wisconsin Democratic primary for governor, as the election is scheduled for August 11, 2026. Currently, she is a candidate, and polls show she has about 11% support among voters, with a significant 65% undecided. Since the primary has not occurred, it is too early to predict whether she will win.
+
+Title: Majority of WI voters say they're undecided in governor's race
+Author: Matt Smith
 Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.wpr.org/news/marquette-poll-hong-barnes-democratic-primary-governor-supreme-court-undecided
-Summary: A recent Marquette University poll indicates that Francesca Hong and former Lt. Gov. Mandela Barnes are leading candidates in the Democratic primary for the 2026 Wisconsin gubernatorial election, but a significant portion of voters remain undecided. The poll, conducted from February 11-19, 2026, found that 65% of Democratic primary voters had not made a choice. Among those who did, Hong and Barnes are nearly tied, with 11% supporting Hong and 10% supporting Barnes, a difference that falls within the poll's margin of error of 6.3%.
-
-Despite Barnes having higher name recognition—over 50% compared to his opponents—this recognition has not translated into a clear lead in voter preference. The poll also revealed that 58% of respondents had only heard "a little" about the candidates, and 35% had heard "nothing at all." This suggests that name recognition alone may not be sufficient for Barnes to secure the nomination, leaving the race open for Hong and other candidates.
-
-Given the high level of undecided voters and the close polling numbers, predicting Hong's chances of winning the primary will depend on her ability to increase her visibility and appeal to voters in the coming months.
-
-Title: No clear front-runner in Wisconsin governor's race
-Author: Brittany Carloni / Wisconsin Watch
-Published Date: 2026-01-26T00:00:00.000Z
-URL: https://wisconsinwatch.org/2026/01/in-wisconsin-governors-race-democrats-have-a-range-of-options-with-no-clear-front-runner/
-Summary: The article discusses the competitive landscape of the 2026 Wisconsin Democratic gubernatorial primary, highlighting that there is currently no clear front-runner among the candidates. Francesca Hong is one of several candidates vying for the nomination, alongside notable figures like Lt. Gov. Sara Rodriguez and former Lt. Gov. Mandela Barnes. 
-
-Key points relevant to predicting Francesca Hong's chances include:
-
-1. **Diverse Candidate Pool**: The primary features a range of candidates with varying political experiences and backgrounds, which could dilute support among voters.
-
-2. **Recent Fundraising and Forum Performance**: Recent campaign finance reports and performances at candidate forums indicate that no candidate has emerged as a dominant force, suggesting that the race is still very much open.
-
-3. **Historical Context**: The current primary mirrors the 2018 Democratic primary, where multiple candidates competed without a clear leader, which could imply a similar outcome this year.
-
-4. **Voter Sentiment**: The article notes that primary voters will have many options, which may affect Hong's ability to consolidate support.
-
-Overall, while Francesca Hong has the potential to be a strong candidate, her success will depend on her ability to stand out in a crowded field and connect with voters as the primary approaches.
-
-Title: Marquette Law School Poll – A Comprehensive Look at the ...
-Author: Charles Franklin
-Published Date: 2026-02-25T06:09:31.475Z
-URL: https://law.marquette.edu/poll/
-Summary: The Marquette Law School Poll provides insights into public opinion that could be relevant for predicting the outcome of the 2026 Wisconsin Governor Democratic primary election, particularly regarding key issues that may influence voter sentiment. While the poll primarily focuses on national issues, it reflects broader trends in voter attitudes that could impact local elections.
-
-1. **Public Opinion on Leadership and Authority**: The poll indicates a significant portion of the public (63%) supports limiting presidential authority on tariffs, suggesting a desire for checks on executive power. This sentiment may resonate with voters seeking candidates who advocate for accountability and transparency in governance.
-
-2. **Economic Concerns**: A majority (56%) of respondents believe tariffs hurt the U.S. economy. Candidates who address economic issues and propose solutions to mitigate economic challenges may gain favor among voters, especially if they align with the prevailing public sentiment.
-
-3. **Voter Engagement**: The poll's methodology, which includes a sample of 1,003 adults nationwide, highlights the importance of understanding voter demographics and preferences. Candidates like Francesca Hong may need to engage with constituents on issues that matter to them, as reflected in polling data.
-
-4. **Trends in Approval Ratings**: The poll also shows a decline in approval ratings for the U.S. Supreme Court, which may indicate a broader dissatisfaction with established institutions. Candidates who position themselves as reformers or who challenge the status quo could appeal to voters looking for change.
-
-In summary, while the Marquette Law School Poll does not directly
-
-Title: 2026 Wisconsin gubernatorial election - Wikipedia
-URL: https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election
-Summary: The 2026 Wisconsin gubernatorial election is set for November 3, 2026, with incumbent Governor Tony Evers, a Democrat, expected to run for re-election. Francesca Hong, a current state representative, is considered a potential candidate for the Democratic primary. Factors that could influence her chances of winning the primary include her political experience, popularity among constituents, fundraising capabilities, and the overall political climate leading up to the election. Additionally, the dynamics within the Democratic Party, including support from key party figures and grassroots organizations, will play a crucial role in her campaign. As the election date approaches, monitoring polling data, endorsements, and campaign strategies will provide further insights into her likelihood of success in the primary.
+URL: https://wisn.com/article/majority-of-wisconsin-voters-say-theyre-undecided-in-battle-for-governor/70498674
+Summary: The recent Marquette Law School poll indicates that a significant majority of Wisconsin Democratic primary voters—65%—are currently undecided about their candidate choice for governor in 2026. Among those who have expressed preferences, State Rep. Francesca Hong leads with 11%, closely followed by Mandela Barnes at 10%. Other candidates, such as Sara Rodriguez, David Crowley, Joel Brennan, Missy Hughes, and Kelda Roys, have lower support percentages. Given the high level of voter indecision and the relatively small lead for Hong among decided voters, predicting her victory at this stage remains uncertain. The primary race appears highly competitive, with many voters yet to commit, suggesting that the outcome could change as campaigns progress.
 
 

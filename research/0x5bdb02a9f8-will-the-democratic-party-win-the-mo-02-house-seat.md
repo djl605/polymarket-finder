@@ -1,50 +1,51 @@
 # Research: Will the Democratic Party win the MO-02 House seat?
 
 **Market ID:** 0x5bdb02a9f816135f1a7f897291a0f9243eeb79c658a5589ba1205eb12dcfbb65
-**Researched At:** March 1, 2026 at 06:03:06 AM UTC
+**Researched At:** March 7, 2026 at 04:09:51 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the MO-02 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 0.6¢
 
 ### Summary
 
-Despite Democratic midterm tailwinds, the newly drawn MO-02 district appears to favor Republicans and there’s no district-specific polling to support a >20% Dem chance. With only a small implied edge for Democrats relative to the GOP lean and low trading volume, there’s no strong signal of major mispricing.
+The district’s strong Republican lean, incumbent advantage, and already‐known redistricting uncertainty support a Democratic win probability in the low‐to mid-20% range. No specific evidence suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market is a binary on whether a Democratic‐party candidate wins Missouri’s 2nd Congressional District in the 2026 midterms (election day November 4, 2026). It resolves YES if the winning candidate on the final certified House election results is affiliated with or caucuses with the Democratic Party; otherwise NO.
+The market asks whether the Democratic Party will win Missouri’s 2nd Congressional District seat on November 4, 2026. A YES resolution requires a Democrat to be the ballot‐listed or caucus‐aligned winner when certified; NO if a Republican wins.
 
 2. EVIDENCE EVALUATION  
-Bearish (suggests price too high):  
-• Local reporting (KSHB, KCUR) shows the newly approved or court‐contested map carves Kansas City into districts that favor Republicans. Incumbent Republicans (e.g., Ann Wagner in MO‐02) should benefit.  
-• No MO‐02–specific polling is cited; general generic‐ballot leads for Democrats rarely overcome a Republican lean at PVI + 5–10.  
-Bullish (supports price):  
-• Midterm “out‐of‐power” effect historically aids the president’s opposition party and could boost Democrats into the low‐20s.  
-• Generic congressional polls (NYT) show Democrats up by small single digits, implying some tailwind.  
-Credibility & recency: All sources date February 2026 and are credible. However, none quantify Dem chances specifically in MO‐02 and no candidate has yet distinguished themselves.  
+Bullish for Democrats (suggesting price is too low):  
+• Democratic primary is competitive but Fred Wellman’s strong fundraising and endorsements make him a credible challenger to Ann Wagner, potentially narrowing the margin in the general.  
+• If redistricting litigation reverts MO-02 to more Democratic‐friendly 2022 boundaries, the general election becomes more competitive than under the current GOP‐drawn map.  
+
+Bearish (supporting the 24% price):  
+• Incumbent Ann Wagner (R) has held the seat since 2013 in a reliably Republican district (PVI around R+9).  
+• The prevailing 2025 map strongly favors Republicans; litigation outcome is uncertain, so GOP advantage is the base case.  
+• No polling or modeling evidence suggests Dems exceed a 25% win probability; generic midterm environment likely favors the out-of-power party modestly, but Missouri’s lean is strongly GOP.  
+
+All sources are recent local political coverage (Feb 2026) but none provide hard polling or demographic shifts that would clearly move win probabilities by >5 points. The redistricting uncertainty is already public and likely priced in.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 22% price could simply reflect a synthesis of district GOP lean plus national Democratic midterm tailwinds.  
-• The $1,125 in volume and 6¢ spread suggest only one or two liquidity providers; informed specialists might not have engaged deeply.  
-• The outcome is not yet clear but the basic redistricting tilt is obvious, so if the price is incorrect it’s likely only by a few cents.
+The tight spread in a low‐volume market suggests one or a few traders set the price based on the district’s historical GOP lean (R+9), a generic midterm swing, and redistricting litigation risk. Informed traders may see the race as straightforwardly GOP‐favored, so they haven’t separately arbitraged this market. Low engagement likely reflects low perceived mispricing and the general consensus that Dem odds are under 30%.
 
 4. MISPRICING ASSESSMENT  
-Given the strong evidence of a Republican‐tilting map partially offset by generic Democratic midterm gains, there’s no clear missing nugget of information that would justify a large (>20¢) difference from 22%. At most, the market might be ~5¢ “rich” on Dem chances, but this is within noise given low volume and lack of MO‐02–specific data.
+There is no specific, credible evidence of a major factor missing from the 24% price. The district’s underlying partisan lean and incumbent advantage, plus redistricting uncertainty (already public), support a Dem win chance in the low‐to mid‐20% range. Without new polling or a clear legal outcome on map changes, a >20-point mispricing is unlikely.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30%  
-Magnitude of mispricing: 5¢  
-Expected value = 0.30 × 5¢ = 1.5¢
+Strength of evidence that price is mispriced: 20%  
+Magnitude of potential mispricing: ~3 cents  
+Expected value = 20% × 3 cents = 0.6 cents
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Despite Democratic midterm tailwinds, the newly drawn MO-02 district appears to favor Republicans and there’s no district-specific polling to support a >20% Dem chance. With only a small implied edge for Democrats relative to the GOP lean and low trading volume, there’s no strong signal of major mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 0.6  
+SUMMARY: The district’s strong Republican lean, incumbent advantage, and already‐known redistricting uncertainty support a Democratic win probability in the low‐to mid-20% range. No specific evidence suggests a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -52,70 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:02:45.322Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article discusses key U.S. House seats to watch in the 2026 elections, focusing on factors that could influence outcomes, including redistricting and candidate dynamics. For the Missouri's 2nd Congressional District (MO-02), the summary highlights the following relevant points:
-
-1. **Redistricting Impact**: Changes in district boundaries can significantly affect electoral competitiveness. The article notes ongoing redistricting efforts in various states, which could influence the political landscape in MO-02.
-
-2. **Candidate Dynamics**: The political climate and candidate selection will play a crucial role. The article mentions various candidates and their potential impacts on their respective races, which could be relevant for MO-02.
-
-3. **Political Trends**: The broader trends in voter sentiment and party strength in Missouri, as well as the national mood leading up to the elections, will also be critical in predicting whether the Democratic Party can secure the MO-02 seat.
-
-4. **Historical Context**: Understanding past election results in MO-02, including any shifts in voter demographics or party alignment, could provide insights into the likelihood of a Democratic victory.
-
-Overall, while the article does not specifically address MO-02, it emphasizes the importance of redistricting, candidate dynamics, and historical voting patterns as key factors in predicting election outcomes.
-
-Title: Missouri candidates file for Congress amid uncertainty over new district map
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.kshb.com/news/local-news/missouri/kansas-city/missouri-candidates-file-for-congress-amid-uncertainty-over-new-district-map
-Summary: The article discusses the recent filing of candidates for Missouri's U.S. House seats amid uncertainty regarding a new congressional district map. Key points relevant to predicting the Democratic Party's chances in the MO-02 House seat include:
-
-1. **New District Map**: The recently approved map splits Kansas City into three districts, which could impact voter demographics and party representation. The changes may favor Republican candidates, as noted by Congressman Emanuel Cleaver, who is running for reelection in a district that has been altered to potentially make it easier for Republicans to challenge him.
-
-2. **Candidate Dynamics**: Cleaver, a Democrat, is facing renewed competition from Republican Sean Smith, who believes the new district has more Republican voters. Smith's strategy involves emphasizing his Republican values more prominently in his campaign.
-
-3. **Political Landscape**: The article highlights that the new map could be a "game changer" for Missouri politics, suggesting that the shifting boundaries may create a more competitive environment for both parties.
-
-4. **Voter Engagement**: Cleaver emphasizes the importance of connecting with voters, regardless of the urban-rural divide, which could be crucial for his campaign's success.
-
-Overall, the Democratic Party's chances in the MO-02 House seat will depend on how effectively Cleaver can engage with voters in the newly configured district and whether the Republican candidates can capitalize on the map changes.
+Title: Democrats' race to take on US Rep. Ann Wagner in Missouri heats up over one candidate's money | Politics | kdhnews.com
+Author: Joe Holleman - St. Louis Post-Dispatch (TNS)
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://kdhnews.com/news/politics/democrats-race-to-take-on-us-rep-ann-wagner-in-missouri-heats-up-over-one/article_00912f83-877a-5e88-9f4b-edbdb9c65c82.html
+Summary: The Democratic primary race for Missouri's 2nd Congressional District is intensifying ahead of the August primaries, with candidates Joan VonDras and Fred Wellman competing to challenge incumbent Republican Ann Wagner in the November election. Wellman, considered the frontrunner, has raised significantly more funds and garnered key endorsements, including from major trade unions and prominent Democrats. VonDras, a former schoolteacher, emphasizes her fiscal responsibility and grassroots engagement, despite criticism from Wellman regarding her personal campaign loans. The outcome of this primary could influence the Democrats' chances of unseating Wagner, who has held the seat since 2013. Given Wellman's financial backing and endorsements, he appears to have a strong position to secure the Democratic nomination, potentially increasing the party's prospects in the general election.
 
 Title: With congressional map in limbo, Missouri candidates flock to file for 2026 election | KCUR - Kansas City news and NPR
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.kcur.org/politics-elections-and-government/2026-02-25/missouri-congressional-map-2026-election-gerrymandering
-Summary: The Missouri congressional map is currently uncertain due to ongoing legal challenges regarding a Republican-favoring redistricting plan. This situation complicates the electoral landscape for candidates, including those vying for the MO-02 House seat. Congressman Emanuel Cleaver, a Democrat, expressed concerns about the unpredictability of the constituency he may face in the upcoming election, highlighting that many candidates are filing without a clear understanding of the district's boundaries. The outcome for the Democratic Party in the MO-02 seat will depend on the final resolution of the redistricting lawsuit and the political dynamics within the district, which has been altered to lean more Republican. As candidates continue to file, the evolving situation could significantly impact the Democratic Party's chances in this race.
+Summary: The article discusses the ongoing uncertainty surrounding Missouri's congressional redistricting map, which impacts candidate filings for the 2026 election. Although Secretary of State Denny Hoskins states that the Republican-favoring map from 2025 is currently in effect, a court case challenges this, potentially requiring candidates to run within the boundaries drawn in 2022. This legal dispute creates a complex environment for candidates, including Rep. Emanuel Cleaver II, who represents Missouri's 5th District. The outcome of this legal challenge and redistricting process could influence the competitiveness of districts, including MO-02. Given the current legal limbo and the shifting political landscape, predicting whether the Democratic Party will win the MO-02 House seat remains uncertain.
+
+Title: Missouri candidates file for Congress amid uncertainty over new district map
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://www.kshb.com/news/local-news/missouri/kansas-city/missouri-candidates-file-for-congress-amid-uncertainty-over-new-district-map
+Summary: Candidates filed for Missouri's U.S. House seats amid ongoing legal disputes over the state's new congressional district map, which was approved in September and includes significant boundary changes, such as splitting Kansas City into three districts. Incumbent Democrat Emanuel Cleaver is running for reelection in the 5th District, which now extends from Kansas City to Jefferson City, potentially making it more competitive for Republicans. Several Democrats, including Hartzell Gray, have filed to challenge Republican incumbents like Mark Alford, who now represents a different district due to the new map. The outcome for the Democratic Party in the MO-02 seat remains uncertain, as legal challenges and redistricting could influence electoral competitiveness.
 
 Title: Cleaver and 4 Republicans file for Missouri’s gerrymandered 5th District | KCUR - Kansas City news and NPR
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.kcur.org/politics-elections-and-government/2026-02-25/emanuel-cleaver-missouri-5th-district-2026-election
-Summary: The article discusses U.S. Rep. Emanuel Cleaver II's decision to run for re-election in Missouri's 5th Congressional District, which has been redrawn by Republicans to favor their candidates. This redistricting, influenced by President Trump, aims to make it more challenging for Democrats to win in the area. Cleaver, a long-serving Democratic incumbent, filed for re-election despite ongoing uncertainties regarding the district's boundaries and the legality of the new map. 
+Summary: The article discusses Missouri's 5th Congressional District, where incumbent Democrat Emanuel Cleaver II has filed for re-election amid a contentious redistricting process driven by Republican efforts, influenced by President Trump, to redraw district boundaries and make it more challenging for Democrats to win. While the focus is on the 5th District, the broader context of gerrymandering and partisan redistricting in Missouri suggests a highly competitive environment for Democratic candidates. Although specific details about the MO-02 seat are not provided, the emphasis on redistricting tactics indicates that the outcome for Democratic victories in Missouri House seats, including MO-02, may depend heavily on how district boundaries are finalized and upheld by courts.
 
-To predict whether the Democratic Party will win the MO-02 House seat, consider the following factors:
-
-1. **Redistricting Impact**: The new gerrymandered map is designed to disadvantage Democrats, which could affect their chances in the election.
-
-2. **Incumbency Advantage**: Cleaver's long tenure and experience may provide him with an edge, but the altered district dynamics could counteract this.
-
-3. **Voter Sentiment**: Local political climate, voter turnout, and sentiment towards the Democratic Party in the wake of redistricting will be crucial.
-
-4. **Republican Opposition**: The strength and appeal of the Republican candidates running against Cleaver will also play a significant role in the election outcome.
-
-5. **National Trends**: Broader national trends in voter behavior and party support during the election cycle could influence local races, including MO-02.
-
-These elements will be critical in assessing the likelihood of a Democratic victory in the upcoming election for the MO-02 House seat.
-
-Title: The Race for Congress: Latest 2026 Polls - NYTimes.com
-URL: https://www.nytimes.com/interactive/polls/congressional-vote-2026.html
-Summary: The latest polling data from The New York Times indicates that the Democratic Party currently holds a modest advantage in the generic congressional ballot ahead of the 2026 elections. While Democrats lead in most recent polls, the margins are typically single digits. This suggests a competitive landscape for congressional races, including the MO-02 House seat. 
-
-Factors influencing the outcome include ongoing redistricting efforts, which could significantly affect the Democratic vote share needed to retake the House. The historical trend shows that the party out of power often gains ground in midterm elections, which may favor Democrats in this context. However, the specific dynamics of the MO-02 race, including local issues and candidate profiles, will also play a crucial role in determining the winner. 
-
-For a more precise prediction, it would be beneficial to monitor specific polls targeting the MO-02 district as the election date approaches.
+Title: Emanuel Cleaver, four Republicans file for Missouri’s 5th Congressional District | Jefferson City News Tribune
+Author: The Missouri Independent
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.newstribune.com/news/2026/feb/26/emanuel-cleaver-four-republicans-file-for/?news-politics-elections=
+Summary: The article primarily discusses the upcoming Missouri congressional races, focusing on incumbent U.S. Rep. Emanuel Cleaver's re-election bid in Missouri's 5th District amid ongoing redistricting disputes. Cleaver, a Democrat, has filed to run despite uncertainty over the district boundaries, which have been redrawn by Republicans and are currently under legal review. Four Republican candidates have also filed to challenge him, including Sean Smith and Taylor Burks. The district's boundaries are contested, with court decisions pending on whether the new map is in effect for this election cycle. While the article provides detailed information about the Missouri 5th District race, it does not mention the MO-02 House seat or its potential outcomes. Therefore, the information is not directly relevant to predicting whether the Democratic Party will win the MO-02 seat.
 
 

@@ -1,49 +1,51 @@
 # Research: Will Partido Popular win 28-31 seats in the 2026 Castilla y León regional election?
 
 **Market ID:** 0xc8be3973a77732011c7d882fe39a7c12c8679773b0cac0a79b715da63ac6e29f
-**Researched At:** March 2, 2026 at 04:23:35 AM UTC
+**Researched At:** March 7, 2026 at 04:09:41 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Partido Popular win 28-31 seats in the 2026 Castilla y León regional election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 1.5¢
 
 ### Summary
 
-CIS polling shows PP narrowly leading but seat translation is uncertain; conflicting data leave wide scope for outcomes. A 35% market price reasonably reflects that uncertainty, so no clear mispricing emerges.
+Recent, credible polls center PP seat estimates at 30–33 (SocioMétrica) and 28–38 (CIS), implying a ~40–50% chance of 28–31 seats. The market’s 36% price is slightly below but within polling margins, so there’s no strong evidence of significant mispricing.
 
 ### Full Analysis
 
-CONTEXT ANALYSIS  
-The market asks whether PP will win between 28 and 31 seats (inclusive) in the 2026 Castilla y León Cortes election on March 15. A “YES” requires PP to finish with at least 28 seats but no more than 31; otherwise it resolves “NO.”
+1. CONTEXT ANALYSIS  
+The market asks whether PP will win between 28 and 31 seats (inclusive) in the March 15, 2026 Castilla y León election. A YES requires PP’s seat count in the official JEC results to be ≥28 and ≤31; any other outcome resolves to NO.
 
-EVIDENCE EVALUATION  
-Bullish for YES:  
-• CIS Feb 20 poll shows PP narrowly leading PSOE by 1.1 points in the region, suggesting PP is strong enough to approach its previous 31-seat result (2022).  
-• PP incumbency and historical strength in rural provinces could translate 32%+ vote shares into around 30 seats.  
+2. EVIDENCE EVALUATION  
+Bullish for YES:
+• SocioMétrica (Mar 2) projects PP at 30–33 seats, implying a strong chance (≈50%) of landing in 30–31.  
+• CIS (Feb 20) gives a range of 28–38 seats; the lower half (28–31) is plausible and often cited.  
+Bearish for YES:
+• NC Report (Mar 2) centers on 32 seats, outside the 28–31 band—if accurate, the market should price lower.  
+• Poll seat estimates cluster at or just above our target band, suggesting a nontrivial chance PP overshoots 31.  
+Credibility & Recency: All polls are within the last three weeks, from respected firms (CIS, NC Report, SocioMétrica). There’s no strong outlier; the balanced range of seat‐count forecasts has not been fully factored if one expected a higher probability for 28–31.
 
-Bearish for YES:  
-• Other CIS data on Feb 16 indicate a virtual tie between PP and PSOE, highlighting volatility and raising the risk PP falls below 28 or rebounds above 31.  
-• A different CIS release on Feb 16 puts PSOE nearly 10 points ahead nationally, potentially dragging PP’s regional performance down.  
-Credibility/Recency: CIS polls of Feb 20 are authoritative and two weeks old; SocioMétrica is less region-specific. No evidence is so clear that it couldn’t already be priced in.
+3. MARKET EFFICIENCY ANALYSIS  
+• A 36% price is broadly consistent with an average poll‐implied probability (~40–45%) once one allows for margins of error and seat‐allocation volatility.  
+• Low volume may reflect both the niche regional focus and general polling consensus, not necessarily a unilateral mispricing by one trader.  
 
-MARKET EFFICIENCY ANALYSIS  
-A 35% probability reflects the tight seat band (narrow 28–31 range) and polling uncertainty. Low volume suggests limited trading interest, but PP insiders and poll watchers likely have this same imperfect data. The price thus plausibly aggregates the chance that PP’s vote share lands them just in that seat window, rather than mispricing due to neglect.
+4. MISPRICING ASSESSMENT  
+• Polls suggest a roughly 40–50% chance of 28–31 seats; the market at 36% is slightly below that range but within plausible error bands.  
+• No single credible source points to a probability near 20% or below that would indicate >10¢ mispricing.  
+• Given poll uncertainties and seat‐allocation idiosyncrasies, the market’s 36% seems reasonable: it neither ignores polls nor overweights them.  
 
-MISPRICING ASSESSMENT  
-No strong, unaccounted-for evidence indicates the market is off by more than a few cents. Polls give conflicting seat projections, and translating vote share to seats involves distributional nuances (D’Hondt method). The existing 35% likely reflects the genuine balance of risks around that 28–31 threshold.
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence that price is wrong: ≈30%  
+Estimated magnitude of mispricing: ≈5¢  
+Expected value ≈ 30% × 5¢ = 1.5¢  
 
-EXPECTED VALUE CALCULATION  
-Strength of evidence: 20% (polls are authoritative but not definitive on seat counts)  
-Magnitude of mispricing: 10 cents (small band and polling ambiguity)  
-Expected value = 0.2 × 10c = 2c
-
-EXPECTED_VALUE: 2.0  
-SUMMARY: CIS polling shows PP narrowly leading but seat translation is uncertain; conflicting data leave wide scope for outcomes. A 35% market price reasonably reflects that uncertainty, so no clear mispricing emerges.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.5  
+SUMMARY: Recent, credible polls center PP seat estimates at 30–33 (SocioMétrica) and 28–38 (CIS), implying a ~40–50% chance of 28–31 seats. The market’s 36% price is slightly below but within polling margins, so there’s no strong evidence of significant mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -51,42 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: The Pp Would Win the Elections in Castile and León without an Absolute Majority, with the Psoe at 1.1 Points and a Reversal of Vox, According to the Cis
+Title: [A] CASTILLA Y LEÓN · Encuesta SocioMétrica 02/03/2026: PP 31,6% (30/33) · PSOE 27,3% (23/26) · VOX 20,8% (18/21) · UPL 6,3% (4/5) · IU-MS-VQ 3,6% (0/1) · PODEMOS-AV 2,2% · SALF 2,0% · MEV 1,2% · XAV 1,0% (1) · SY 0,9% (1/2)
 Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.electografica.com/2026/03/castilla-y-leon-encuesta-sociometrica-260302.html
+Summary: The recent SocioMétrica survey conducted in Castilla y León indicates that the Partido Popular (PP) currently holds approximately 31.6% of voter support, translating to an estimated 30-33 seats out of 81 in the upcoming regional election scheduled for March 2026. This positions PP as the leading party, with a strong chance of securing between 28 and 31 seats, potentially maintaining or slightly exceeding its current representation. The survey also shows PP's support remains stable or slightly increasing compared to previous data, and the party's leader, Alfonso Fernández Mañueco, continues to lead the government in a minority position. Given these figures, it is plausible that PP will win within the 28-31 seat range, possibly solidifying its position as the dominant party in Castilla y León's regional parliament.
+
+Title: [A] CASTILLA Y LEÓN · Encuesta NC Report 02/03/2026: PP 35,6% (32/33) · PSOE 27,6% (26/27) · VOX 17,9% (15/16) · UPL 4,9% (3) · IU-MS-VQ 3,8% (1) · PODEMOS-AV 2,0% · SY 1,4% (2) · XAV 1,2% (1)
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.electografica.com/2026/03/castilla-y-leon-encuest-nc-report-260302.html
+Summary: The recent NC Report poll from March 2026 indicates that the Partido Popular (PP) in Castilla y León is projected to secure approximately 35.6% of the vote, translating to an estimated 32 out of 33 seats in the current electoral framework. Given the slight increase in vote share compared to previous data and the trend of PP's growth, it is plausible that PP could win between 28 and 31 seats in the upcoming regional election. The party's lead over other parties, combined with its recent electoral gains, suggests a strong likelihood of securing a majority or a plurality within the 82-seat legislature.
+
+Title: l PP ganaría las elecciones con el 33,4% de los votos y lograría entre 28 y 38 escaños, según el CIS
+Author: Ical
 Published Date: 2026-02-20T00:00:00.000Z
-URL: https://ground.news/article/cis-publishes-poll-on-elections-in-castile-and-leon-a-week-away-for-the-campaign
-Summary: According to a recent CIS poll, the Partido Popular (PP) is projected to win the upcoming elections in Castile and León, although they may not achieve an absolute majority. The poll indicates that the PP is leading with a margin of 1.1 points over the PSOE, while Vox is experiencing a decline in support. This trend suggests that the PP is in a strong position heading into the 2026 regional elections. If the current polling trends continue, it is plausible that the PP could secure between 28 to 31 seats, depending on voter turnout and potential shifts in party support as the election date approaches.
+URL: https://www.laopiniondezamora.es/castilla-leon/2026/02/20/pp-ganaria-elecciones-33-4-127080794.html
+Summary: The recent CIS pre-election study indicates that the Partido Popular (PP) is projected to win between 28 and 38 seats in the 2026 Castilla y León regional election, with a vote share of approximately 33.4%. The specific number of seats within this range depends on the province, but overall, the PP is expected to be the leading force and may need to form a coalition to govern. The study also highlights strong regional support for the PP in provinces such as Ávila, Burgos, Palencia, Salamanca, and Segovia, where it is predicted to be the most voted party. Given these projections, it is plausible that the PP could secure the 28-31 seats range, aligning with the lower to mid part of the forecasted spectrum.
 
-Title: A virtual tie between the PP and PSOE in the regional elections of Castilla y León
-Author: 
+Title: El CIS de Tezanos augura que el PP ganaría las elecciones en Castilla y León
+Author: Raúl Ruano
 Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n
-Summary: The webpage discusses a recent survey indicating a virtual tie between the Partido Popular (PP) and the Partido Socialista Obrero Español (PSOE) in the regional elections of Castilla y León. This close competition suggests that the electoral landscape is highly uncertain, which could impact predictions for future elections, including the 2026 regional election. Factors such as voter sentiment, party strategies, and potential shifts in public opinion will be crucial in determining whether the PP can secure between 28-31 seats. The current polling data may serve as a baseline for understanding trends leading up to the 2026 elections.
+URL: https://www.diariodecastillayleon.es/castilla-y-leon/260220/104941/el-cis-de-tezanos-augura-que-el-pp-ganara-las-elecciones-en-castilla-y-leon.html
+Summary: The recent CIS survey by Tezanos predicts that the Partido Popular (PP) in Castilla y León could secure between 28 and 38 seats in the 2026 regional elections, with a likely outcome around 33.4% of the vote. Specifically, the minimum forecast of 28 seats aligns with their previous low in 2019, while the upper estimate suggests they could come close to a majority if they reach 38 seats. The survey indicates that PP is favored to win the election, but will likely need to form a coalition, possibly with VOX, to govern. Therefore, it is plausible that the PP could win between 28 and 31 seats, consistent with the lower to mid-range predictions of the survey.
 
-Title: Advance on study results 3545 'Preelectoral elecciones autonómicas 2026. Comunidad autónoma de Castilla y León'
-Author: 
+Title: El PP de Mañueco volvería a ganar en Castilla y León pero sin mayoría absoluta, según el CIS
+Author: Josep M. Calvet
 Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.cis.es/en/w/avance-de-resultados-del-estudio-3545-preelectoral-elecciones-auton%C3%B3micas-2026.-comunidad-aut%C3%B3noma-de-castilla-y-le%C3%B3n-
-Summary: The webpage provides an advance on study results related to the pre-electoral landscape for the 2026 regional elections in Castilla y León, specifically focusing on the Partido Popular (PP). While the document does not directly predict the number of seats the PP will win, it likely includes relevant polling data and public opinion insights that could inform such predictions. 
-
-To assess whether the PP might secure 28-31 seats, one should consider the following factors typically analyzed in pre-electoral studies: current voter sentiment towards the PP, historical voting patterns in the region, and the party's performance in recent elections. Additionally, the CIS's methodology and the specifics of their polling data could provide insights into the electorate's preferences and potential shifts in support leading up to the election.
-
-For a more accurate prediction, reviewing the detailed results and analyses from the CIS study, including voter demographics and key issues influencing the electorate, would be essential.
-
-Title: [G] ESPAÑA · Encuesta SocioMétrica 16/02/2026: PP 32,1% (140) · PSOE 25,0% (98) · VOX 18,4% (66) · SUMAR 7,2% (11) · PODEMOS 4,2% (4) · SALF 2,5%
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.electografica.com/2026/02/encuesta-sociometrica-260216.html
-Summary: The recent SocioMétrica survey from February 16, 2026, indicates that the Partido Popular (PP) is projected to receive 32.1% of the vote, translating to approximately 140 seats in the upcoming general elections. This strong showing suggests a solid position for the PP nationally. However, specific predictions for the Castilla y León regional election may differ due to local dynamics and voter behavior.
-
-In the same survey, the PSOE is at 25.0% (98 seats), VOX at 18.4% (66 seats), and other parties like SUMAR and Podemos are significantly lower. The PP's current lead could imply a favorable outcome for them in regional elections, but local factors and the political landscape in Castilla y León will ultimately determine their seat count.
-
-Given the PP's national strength, they may be well-positioned to secure a substantial number of seats in Castilla y León, but whether they will specifically achieve 28-31 seats will depend on regional voter turnout and preferences.
-
-Title: The PSOE is almost 10 points ahead of the PP in voting intentions
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.cis.es/en/w/el-psoe-se-sit%C3%BAa-casi-10-puntos-por-delante-del-pp-en-intenci%C3%B3n-de-voto
-Summary: The webpage discusses recent voting intentions in Spain, indicating that the PSOE (Spanish Socialist Workers' Party) is leading the Partido Popular (PP) by nearly 10 points. This information is crucial for predicting the PP's performance in the upcoming 2026 Castilla y León regional election, as it reflects current public sentiment and party popularity. If the trend continues, it may suggest challenges for the PP in securing 28-31 seats. Analyzing the factors influencing these voting intentions, such as public opinion on key issues, party leadership, and regional dynamics, could further inform predictions about the PP's electoral prospects.
+URL: https://www.lavanguardia.com/politica/20260220/11471343/encuesta-cis-castilla-leon-manueco.html
+Summary: The latest CIS preelectoral survey indicates that the Partido Popular (PP) in Castilla y León, led by Alfonso Fernández Mañueco, is projected to win between 28 and 38 seats in the upcoming 2026 regional election. This range suggests that the PP is likely to secure a victory, potentially winning the 28-31 seats specified in your question. However, they would not achieve an outright majority, which requires more than half of the total seats. The survey also shows that the PP's vote share is estimated at around 33.4%, and their current seat count is 31. The results imply that while the PP is favored to win, the exact number of seats could vary within the predicted range, and their ability to govern may depend on coalition dynamics.
 
 

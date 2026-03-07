@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the TX-22 House seat?
 
 **Market ID:** 0x6acf586f3e821528af375ad66d7a76f30abdbf8197cc5cfee069abee6e3f6156
-**Researched At:** March 1, 2026 at 06:00:32 AM UTC
+**Researched At:** March 7, 2026 at 04:09:56 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the TX-22 House seat?"
 
 ---
@@ -9,39 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Current research shows a strong GOP field and no clear Democratic frontrunner in TX-22, aligning with the 15.5% Democratic win probability. There’s no credible indication of a large mispricing.
+Primary returns show strong GOP support and no polling suggests a Democratic surge, making a 15% chance for Greene-Scott plausible. Low volume indicates traders are using broad heuristics rather than new data, but there’s no clear missing information to justify a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Democratic Party win TX-22 in November 2026?” A YES requires a Democratic‐affiliated (or caucus‐aligned) candidate to prevail in the general election; a NO means a Republican (or other) wins.
+The market asks whether the Democratic nominee will win the November 4, 2026 general election in Texas’s 22nd Congressional District. A “YES” requires Marquette Greene-Scott (the Democratic nominee) to outpoll Trever Nehls (the Republican nominee) or any other non-Democrat once all votes are certified. A “NO” occurs if a Republican (or other non-Democrat) wins.
 
 2. EVIDENCE EVALUATION  
-Bullish (for Dems) arguments:  
-• Open seat with no incumbent, which historically boosts competitiveness.  
-• Suburban districts nationally have trended modestly Democratic in recent cycles.  
-Bearish (for Dems) arguments:  
-• All sources emphasize strong Republican contenders—Trever Nehls (Trump endorsement, military background) and a second GOP candidate—while naming no Democratic frontrunner, implying lower Dem profile/funding.  
-• Sabato and Decision Desk note Texas remains GOP-dominated at the statewide level, and redistricting appears not to have radically shifted TX-22 toward Dems.  
-Source credibility is high and recent (Feb 2026). There’s no clear “hidden” Dem surge unpriced.
+Bullish for Democrats (undermining a 15% price):  
+- Incumbent R-Congressman Troy Nehls is not running, potentially reducing the Republican’s incumbency advantage.  
+- The district includes suburban counties (Harris, Fort Bend, Brazoria) where Democrats have made inroads in recent cycles.  
+
+Bearish for Democrats (supporting a low price):  
+- Primary results (Mar 3–4, 2026): Trever Nehls swept 75.7% on the GOP side across all counties, while Greene-Scott led only with 54.6% among five D-primary candidates, suggesting weaker intraparty consolidation.  
+- County-level vote shares show consistent 73–80% support for Nehls in R-leaning areas.  
+- No general-election polling suggests any Democrat surge; historical voting patterns sharply favor Republicans.
+
+Credibility & Recency: All data are from March 2026 primary reports by FOX 26 and NBC News, high credibility and fully up-to-date on nominees.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 15.5% price fits a district considered safely red but not impermeable. Low volume likely reflects consensus that this race is low-probability for Democrats rather than disinterest or an obscure technicality. If an informed contrarian had strong evidence, they’d trade.
+A 15% probability could reflect:  
+- Consensus that without an incumbent but with strong GOP primaries, a Democrat faces steep odds (≈1-in-6).  
+- The low $856 volume implies few participants; traders may be using heuristic (e.g., “R-leaning TX district = ~10–20% Dem chance”) rather than in-depth polling.  
+- The absence of any general-election polls or detailed voter‐modeling leaves room for slight inefficiencies, but no glaring omission.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence suggests the Dem win probability is materially above or below ~15%. Given the lack of a standout Democratic candidate and the district’s history, the market price appears reasonable. A small bias (± 3¢) might exist, but nothing to justify a > 10¢ adjustment.
+Given limited evidence of Democratic momentum and strong GOP primary performance, a mid‐teens probability seems reasonable. There is no specific polling or turnout data omitted from the market that would imply, say, a 40% chance. Likewise, nothing in the research suggests Democrats are basically doomed (<5%). Absent new general‐election polling or significant fundraising/debate dynamics, the 15% price aligns with known factors.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20%  
-Magnitude of possible mispricing: 5¢  
-Expected value = 20% × 5¢ = 1¢
+Strength of evidence that price is wrong: ~20% (no decisive omissions).  
+Potential magnitude of mispricing: ~10 cents (unlikely to be off by >20 cents).  
+Expected value = 20% × 10c = 2 c.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Current research shows a strong GOP field and no clear Democratic frontrunner in TX-22, aligning with the 15.5% Democratic win probability. There’s no credible indication of a large mispricing.  
+EXPECTED_VALUE: 2  
+SUMMARY: Primary returns show strong GOP support and no polling suggests a Democratic surge, making a 15% chance for Greene-Scott plausible. Low volume indicates traders are using broad heuristics rather than new data, but there’s no clear missing information to justify a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -50,72 +56,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Meet the candidates in the race for Texas’ 22nd Congressional District
-Author: Claire Goodman
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://preview-prod.w.houstonchronicle.com/neighborhood/katy/article/meet-candidates-race-texas-22nd-congressional-21296946.php
-Summary: The race for Texas’ 22nd Congressional District is shaping up to be competitive, especially with no incumbent running after Rep. Troy Nehls opted not to seek reelection. The district, which includes suburbs like Sugar Land, Katy, and parts of southwest Houston, is currently attracting a diverse field of candidates.
+Title: U.S. representative for Texas’ 22nd Congressional District: Primary election results | FOX 26 Houston
+Author: Ronnie Marley
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.fox26houston.com/news/texas-march-primary-house-district-22
+Summary: The primary election results for Texas' 22nd Congressional District indicate that Marquette Greene-Scott secured the Democratic nomination, while Trever Nehls won the Republican nomination. The district, covering parts of Harris, Fort Bend, and Brazoria counties, is highly contested, especially since incumbent Troy Nehls announced he would not seek re-election. With five Democrats and two Republicans vying for the November ballot, the race is closely watched. The outcome will depend on the general election dynamics, candidate campaigns, and voter turnout, but the Democratic candidate has secured the nomination, making the party a key contender in the upcoming race.
 
-**Key Republican Candidates:**
-1. **Trever Nehls**: A retired U.S. Army colonel and former Fort Bend County constable, he is running to succeed his twin brother, Troy Nehls. Trever emphasizes his alignment with former President Trump and aims to advocate for conservative priorities, including lowering everyday costs, securing the U.S.-Mexico border, and supporting law enforcement. His military background and Trump endorsement may appeal to the Republican base.
-
-2. **Rebecca Clark**: Another Republican candidate, though specific details about her platform were not provided in the text.
-
-**Democratic Candidates**: The summary does not provide specific names or platforms for Democratic candidates, which could be crucial for assessing their chances against the Republican candidates. The absence of an incumbent may create an opportunity for Democrats to capitalize on any dissatisfaction with Republican policies or candidates.
-
-**Factors Influencing the Election**:
-- **Voter Sentiment**: The political climate, including local issues such as immigration, healthcare, and infrastructure, will play a significant role in shaping voter preferences.
-- **Party Dynamics**: The strength of the Republican candidates, particularly Trever Nehls' connection to Trump
-
-Title: Meet the candidates in the race for Texas’ 22nd Congressional District
-Author: Claire Goodman
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.houstonchronicle.com/neighborhood/katy/article/meet-candidates-race-texas-22nd-congressional-21296946.php
-Summary: The race for Texas’ 22nd Congressional District is shaping up to be competitive, especially with no incumbent running after Rep. Troy Nehls opted not to seek reelection. The primary elections on March 3, 2026, will feature a crowded field of candidates, including notable Republican contenders like Trever Nehls, who is endorsed by former President Donald Trump and emphasizes conservative priorities such as border security and energy production.
-
-While the article primarily discusses Republican candidates, it does not provide information on Democratic candidates or their platforms, which are crucial for assessing the likelihood of a Democratic victory in this district. The outcome may depend on factors such as voter turnout, the effectiveness of campaign strategies, and the political climate closer to the election date. 
-
-To predict whether the Democratic Party will win the TX-22 House seat, it would be important to analyze the Democratic candidates' positions, their campaign funding, voter demographics in the district, and any shifts in public opinion leading up to the election.
-
-Title: Prediction markets insight into possible election outcomes
+Title: Texas House District 22 Primary Election Live Results 2026 - NBC News
 Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/02/24/prediction-markets-insight-into-possible-election-outcomes
-Summary: The article discusses the role of prediction markets, particularly Polymarket, in forecasting election outcomes, including the Texas 22nd Congressional District (TX-22) race. Following recent controversies involving Republican U.S. Rep. Tony Gonzales, prediction markets have shifted their odds, now favoring his opponent, Brand. This shift indicates a potential vulnerability for Gonzales, which could impact the Democratic Party's chances in the TX-22 race. The dynamics of prediction markets suggest that public sentiment and recent events can significantly influence electoral predictions, making them a useful tool for assessing the likelihood of a Democratic victory in this district.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/texas-us-house-district-22-results
+Summary: The current primary election results for Texas House District 22 show that Marquette Greene-Scott leads the Democratic race with 54.6% of the vote, while her main competitor, Chris Fernandez, has 18.5%, and Robert Thomas has 15.1%. On the Republican side, Trever Nehls has secured a commanding lead with 75.7% of the votes, with Rebecca Clark trailing at 24.3%. County-level results indicate strong support for Nehls in Brazoria, Fort Bend, and Harris counties, with Nehls consistently garnering around 73-80% of the vote. Greene-Scott's lead in the Democratic primary suggests she is the likely Democratic candidate in the general election. Given the current voting trends and the significant Republican support for Nehls, the outcome of the general election will depend on the broader political climate and voter turnout, but the primary results favor the Republican candidate at this stage.
 
-Title: Sabato's Crystal Ball - UVA Center for Politics
-Published Date: 2026-02-26T06:00:18.718Z
-URL: https://centerforpolitics.org/crystalball/
-Summary: The webpage "Sabato's Crystal Ball" offers insights into upcoming elections, including the Texas primaries, which are crucial for predicting outcomes in various races, such as the TX-22 House seat. Key factors to consider for the Democratic Party's chances in TX-22 include:
+Title: Texas House District 21 Primary Election Live Results 2026 - NBC News
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/texas-us-house-district-21-results
+Summary: The current primary election results for Texas House District 21 show that Kristin Hook has secured a significant lead among Democratic candidates with approximately 60% of the vote, while Regina Vanburg trails with around 28%. On the Republican side, Mark Teixeira leads with about 61%, followed by Weston Martinez with roughly 9.5%. These results are based on nearly complete vote counts in the district's counties, indicating strong support for the leading candidates. While this data pertains specifically to District 21, it suggests that the Democratic candidate Kristin Hook has a solid chance of winning her district. However, predicting the outcome for the TX-22 House seat requires similar detailed results from that district, which are not provided here. The overall trend indicates competitive races, but without district-specific data for TX-22, it's difficult to determine the likelihood of a Democratic victory there.
 
-1. **Primary Dynamics**: The Texas primaries are highlighted as significant, with both parties contesting the seat currently held by Sen. John Cornyn (R-TX). The outcomes of these primaries could influence the Democratic Party's strategy and candidate selection for the TX-22 House seat.
+Title: Q&A: Democratic candidates in Texas' 2026 Senate primary
+Author: Kayla Guo, Gabby Birenbaum
+URL: https://www.texastribune.org/2026/02/04/on-the-issues-a-qa-with-the-texas-democrats-running-for-u-s-senate/
+Summary: The article features a Q&A with Democratic candidates Jasmine Crockett and James Talarico running for the U.S. Senate in Texas, highlighting their positions on major issues such as international policy and taxes. While it provides insight into their policy stances and differences, it does not address specific electoral predictions or the likelihood of the Democratic Party winning the TX-22 House seat. Therefore, it offers context on Democratic candidates' priorities but lacks direct information relevant to predicting the outcome of the TX-22 House race.
 
-2. **Political Landscape**: The site discusses the broader trend of one-party dominance in many states, with 41 out of 50 states having all statewide executive offices held by the same party. This polarization may impact voter sentiment and turnout in TX-22.
-
-3. **Open Seats**: The webpage notes a surge in open House seats due to retirements, suggesting that the TX-22 seat may be more competitive than in previous elections, depending on the candidates who emerge from the primaries.
-
-4. **Historical Context**: The analysis includes references to uncontested races and the implications of incumbency, which can provide context for the competitiveness of the TX-22 seat.
-
-Overall, monitoring the Texas primaries and understanding the political dynamics in the state will be crucial for predicting whether the Democratic Party can secure the TX-22 House seat.
-
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:00:18.718Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses the key U.S. House seats to watch in the upcoming 2026 elections, with a focus on factors that could influence party control. While it does not specifically mention the TX-22 House seat, it provides insights into the broader electoral landscape that could be relevant for predicting outcomes in specific districts like TX-22.
-
-Key points to consider for the TX-22 seat include:
-
-1. **Political Climate**: The article highlights the importance of understanding the overall political environment, including voter sentiment and party dynamics, which can significantly impact individual races.
-
-2. **Redistricting Effects**: Changes in district boundaries due to redistricting can alter the demographics and political leanings of a seat. The article notes ongoing redistricting discussions, which could affect TX-22.
-
-3. **Candidate Dynamics**: The potential candidates for both parties and their appeal to voters are crucial. The article mentions various political figures and their electoral strategies, which could provide context for TX-22 candidates.
-
-4. **Historical Trends**: Analyzing past election results in TX-22 and similar districts can offer insights into voting patterns and potential shifts in party support.
-
-5. **Local Issues**: The article suggests that local issues and candidate positions will play a significant role in voter decision-making, which is essential to consider for TX-22.
-
-In summary, while the article does not directly address the TX-22 House seat, it provides a framework for understanding the factors that could
+Title: 2026 primary election results and highlights: Texas, North Carolina ...
+URL: https://www.ms.now/liveblog/2026-primaries-election-updates
+Summary: The webpage provides coverage of the 2026 primary election results and highlights from Texas, North Carolina, and Arkansas. While it details the outcomes of various primaries, it does not specify the candidates or the current political landscape of the TX-22 House seat. To assess the likelihood of the Democratic Party winning TX-22, additional information such as recent polling, candidate profiles, voter demographics, and historical voting patterns in that district would be necessary. The page primarily offers election results and highlights from the primaries, which may serve as a starting point for understanding the broader electoral context but does not directly address the specific dynamics of TX-22.
 
 

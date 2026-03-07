@@ -1,7 +1,7 @@
 # Research: Will Robert De Zerbi be appointed as manager of Tottenham?
 
 **Market ID:** 0xff8bc0dd39890cb2093d4001e9a794ee019430034913c0de34beb871301e0d98
-**Researched At:** March 1, 2026 at 06:05:48 AM UTC
+**Researched At:** March 7, 2026 at 04:10:13 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Robert De Zerbi be appointed as manager of Tottenham?"
 
 ---
@@ -9,42 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 4.5¢
 
 ### Summary
 
-De Zerbi is frequently cited as a top contender but faces multiple rivals and may be taking a break, so a 22.5% chance aligns with available reporting. There is no clear “smoking-gun” suggesting large mispricing.
+The research shows both strong rumours favouring De Zerbi and credible reports he’s on break and other contenders exist, making a ~22.5% market price reasonable rather than clearly mispriced. Low volume likely reflects genuine uncertainty, not an obvious arbitrage.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Roberto De Zerbi will be appointed Tottenham’s next permanent manager by 31 Dec 2026 (announced before then). YES resolves if Spurs officially name De Zerbi as their permanent manager; NO resolves if someone else is chosen or no permanent manager is appointed by the deadline. Interim appointments do not count.
+The market asks whether Roberto De Zerbi will be announced as Tottenham’s next permanent manager by 31 Dec 2026. A “YES” resolution requires an official Tottenham announcement naming De Zerbi as permanent boss; if no permanent appointment by the cutoff or if someone else is named, it resolves “NO.”
 
 2. EVIDENCE EVALUATION  
-Bullish signals (supporting a higher probability than 22.5%):  
-• Multiple mid-February reports (Football Insider, iNews, tothesource) name De Zerbi as a leading candidate, citing his Premier League experience, attractive playing style, and Spurs’ urgent needs.  
-• Competing suitors (Man Utd) and fan-favorite Pochettino mean he is not certain, but insiders suggest Spurs could win the race.  
-
-Bearish signals (supporting a lower probability):  
-• Spurs plan to install interim manager Igor Tudor for the rest of the season, delaying any permanent hire until summer, which widens the candidate pool.  
-• A February report cites sources close to De Zerbi saying he is taking a break and may not be ready to step into a new job immediately.  
-• Tottenham is still evaluating multiple candidates, and there’s no sign a deal is imminent.
-
-Sources are recent (Feb 2026) and moderately credible (mixture of established outlets and fan sites). None report that negotiations are advanced enough to imply near-certainty.
+Bullish Evidence (supports higher than 22.5%):  
+• Betting markets (13/8 odds, implied ~38%) list De Zerbi as strong favourite, suggesting informed money sees >30% chance.  
+• Multiple outlets (Football Insider, Tothelaneandback) report Tottenham have agreed terms or view him as leading candidate, indicating advanced negotiations.  
+Bearish Evidence (supports lower than 22.5%):  
+• “People close to De Zerbi” report (Feb 12) that he’s taking a sabbatical after Marseille, not actively seeking a job; club may choose interim or other options.  
+• Competition from Mauricio Pochettino (post–World Cup) and Manchester United creates uncertainty about timing and final choice.  
+Credibility & Recency: All sources are February 2026, plausible but vary in reliability (official-sounding report vs. rumor-based blogs). No single source is definitive.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 22.5% probability fits a scenario in which there are roughly four to five strong candidates of roughly equal standing, with De Zerbi being one of them. The tight spread suggests even low‐volume traders agree on a mid‐teens to low‐twenties percent chance. There’s no publicly visible “smoking-gun” that informed traders have missed, nor clear evidence one way or the other.
+• A 22.5% price plausibly reflects De Zerbi’s strong candidacy offset by his stated break, other contenders, and timing ambiguity.  
+• Low volume means the price may simply reflect a few traders’ balanced view rather than broad information aggregation.  
+• The outcome isn’t obvious yet—club strategy, candidate availability, and negotiations could all shift—so low engagement is unsurprising.
 
 4. MISPRICING ASSESSMENT  
-No single source indicates De Zerbi is a near-lock (e.g., no reported signed agreement), nor is he considered a long-shot. The current price seems to reflect the balance of informed speculation: plausible but far from inevitable. There is insufficient credible evidence to conclude a large (>20 c) mispricing.  
+• There’s no smoking-gun evidence that market has overlooked a near-certainty; research shows both strong interest and genuine obstacles.  
+• The gap between implied-bookie odds (~36–38%) and market’s 22.5% might hint at undervaluation, but could equally reflect bookmakers’ margin or over-optimism.  
+• Timeline risk (e.g., waiting for Pochettino), De Zerbi’s break, and other candidates justify a sub-30% probability—no clear >20 cent mispricing emerges.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market is missing a clear signal: 20%  
-Plausible magnitude of mispricing if it exists: 5 c  
-Expected value = 20% × 5 c = 1 c
+• Strength of evidence for mispricing: ~30% (mixed signals, weak single source).  
+• Magnitude of mispricing if present: ~15 cents (bookies vs market gap).  
+• Expected value: 0.30 × 15 cents = 4.5 cents.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: De Zerbi is frequently cited as a top contender but faces multiple rivals and may be taking a break, so a 22.5% chance aligns with available reporting. There is no clear “smoking-gun” suggesting large mispricing.  
+EXPECTED_VALUE: 4.5  
+SUMMARY: The research shows both strong rumours favouring De Zerbi and credible reports he’s on break and other contenders exist, making a ~22.5% market price reasonable rather than clearly mispriced. Low volume likely reflects genuine uncertainty, not an obvious arbitrage.  
 CONFIDENCE: medium
 
 ---
@@ -53,44 +54,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: People close to Roberto De Zerbi share next Tottenham manager update
+Author: Samuel Fabre
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://www.tottenhamhotspurnews.com/news/people-close-to-roberto-de-zerbi-share-next-tottenham-manager-update/
+Summary: Roberto De Zerbi, a prominent candidate for Tottenham's managerial position, is currently not seeking new employment after leaving Marseille in February 2026. Despite being linked with Tottenham in recent years and being considered a strong fit due to his aggressive, man-to-man pressing style, he has publicly stated he is taking a break from management to evaluate his options. Given his current unavailability and focus on a break, it is unlikely he will be appointed as Tottenham's manager in the immediate future. The club may need to consider other candidates or interim options until De Zerbi becomes available.
+
 Title: Revealed: This is why Tottenham want to hire Roberto De Zerbi after deal agreed
 Author: Pete O'Rourke, Transfer Correspondent
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://www.footballinsider247.com/revealed-this-is-why-tottenham-want-to-hire-roberto-de-zerbi-after-deal-agreed/
-Summary: Tottenham Hotspur is actively considering Roberto De Zerbi as a leading candidate for their permanent managerial position following the sacking of Thomas Frank. De Zerbi, who recently left Marseille after their Champions League exit, has a strong track record from his time at Brighton and is viewed favorably in managerial circles. His Premier League experience and current availability make him an attractive option for Spurs, especially as they seek a replacement who can secure the team's survival this season.
+Summary: Tottenham is strongly considering Roberto De Zerbi for their managerial position following their sacking of Thomas Frank. De Zerbi, who recently left Marseille after a successful stint in Ligue 1 and has Premier League experience from his time at Brighton, is viewed as a leading candidate due to his impressive track record and availability. Tottenham's interest is heightened by his reputation and previous consideration, and he is seen as a potential "ready-made" replacement to lead the club after the current interim period. While Tottenham is also exploring other high-profile options like Mauricio Pochettino, De Zerbi remains a prominent contender, and his appointment could depend on whether the club aims for an immediate solution or a summer transfer.
 
-While De Zerbi is a primary target, Tottenham is also exploring other candidates, including Mauricio Pochettino, who may be interested in returning to the club in the summer. The club plans to appoint an interim manager, Igor Tudor, for the remainder of the season, but they are preparing for a more permanent solution as they approach the summer transfer window.
+Title: What Roberto De Zerbi thinks about taking over at Tottenham Hotspur - Spurs Web
+Author: Bharad Thirumalai
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://www.spurs-web.com/spurs-news/what-roberto-de-zerbi-thinks-about-taking-over-at-tottenham-hotspur/
+Summary: Roberto De Zerbi is interested in becoming Tottenham's next manager, viewing the role as a logical career step. He is keen to start immediately after leaving Marseille, indicating a readiness to take the position soon. While Tottenham is considering him as a candidate, there is competition from Manchester United. The club also has the option to wait for Mauricio Pochettino, who is interested in returning but is not available until after the summer World Cup. The decision hinges on whether Tottenham opts to appoint De Zerbi promptly or wait for Pochettino's availability.
 
-In summary, while De Zerbi is a strong contender for the Tottenham managerial role, the final decision will depend on various factors, including competition from other clubs and the outcomes of the current season.
-
-Title: Roberto De Zerbi’s immediate stance on Tottenham job revealed following Thomas Frank exit
-Author: Jamie Brown
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.thespurs.news/news/how-roberto-de-zerbi-immediately-feels-about-taking-the-tottenham-job-after-thomas-franks-sacking/
-Summary: Roberto De Zerbi has emerged as a potential candidate for the Tottenham Hotspur managerial position following the sacking of Thomas Frank. After being dismissed from his role at Marseille due to inconsistent results, De Zerbi is reportedly open to the opportunity at Tottenham, especially now that key figures like Fabio Paratici and Daniel Levy, with whom he previously had reservations about working, are no longer involved in the club's operations.
-
-Alex Crook, a sports journalist, indicated that De Zerbi's availability might not be coincidental and that Spurs had previously shown interest in him. However, Danny Murphy has expressed concerns about De Zerbi, suggesting he could be a problematic appointment due to his tendency to become overconfident after achieving success.
-
-In summary, while De Zerbi is a strong contender for the Tottenham job and is open to the role, opinions on his suitability vary, which could influence the decision-making process regarding his appointment.
-
-Title: Roberto De Zerbi ready to pick Tottenham over Man Utd job
-Author: Mark Douglas, Pete Hall, Kat Lucas
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://inews.co.uk/sport/football/roberto-de-zerbi-next-tottenham-manager-4229132
-Summary: Roberto De Zerbi is a strong candidate for the managerial position at Tottenham Hotspur, particularly following his recent departure from Marseille. He is viewed as a logical choice after leading Marseille to a second-place finish in Ligue 1 and is known for his attacking style of play, which has garnered admiration during his time at Brighton. Despite Manchester United also considering him for their managerial vacancy, Tottenham's urgency in their search for a replacement for Thomas Frank could give them an advantage in securing De Zerbi's services.
-
-The context surrounding Tottenham's current situation is critical; the club is facing potential relegation and needs a manager capable of uniting a fractured squad. De Zerbi's reputation for fostering team cohesion could make him an appealing option for Spurs. Additionally, while Mauricio Pochettino remains a fan favorite, there is no consensus on his return, which could further open the door for De Zerbi's appointment. Overall, his readiness to take on a new challenge and the pressing needs of Tottenham suggest that he could be a likely choice for the managerial role.
+Title: Next Tottenham Manager Odds: De Zerbi Strong Favourite to Replace Sacked Frank
+Author: 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://bookies.com/uk/news/next-tottenham-manager-odds-roberto-de-zerbi-favourite-to-replace-sacked-thomas-frank
+Summary: Roberto De Zerbi is currently the strong favorite to be appointed as Tottenham's next permanent manager, with odds of 13/8. Other potential candidates include John Heitinga, Robbie Keane, Mauricio Pochettino, Ryan Mason, Gareth Southgate, Oliver Glasner, Marco Silva, and Ruben Amorim, with varying odds. The betting odds suggest a high likelihood of De Zerbi's appointment, making him the most probable choice based on current betting markets.
 
 Title: Roberto De Zerbi likely to succeed Thomas Frank at Tottenham
 Author: Rohan Sengupta
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://tothelaneandback.com/2026/02/12/roberto-de-zerbi-new-tottenham-boss-thomas-frank/
-Summary: Roberto De Zerbi is a strong candidate to succeed Thomas Frank as manager of Tottenham Hotspur following Frank's recent sacking due to poor performance. The club is currently in a precarious position, facing a relegation battle and seeking a new manager for the third time in eight months. De Zerbi, who recently left Marseille, is reportedly eager to take on the role at Tottenham and may prioritize this opportunity over interest from Manchester United. The club could opt for an interim manager until the end of the season, but De Zerbi's readiness to step in suggests he is a serious contender for the position.
-
-Title: People close to Roberto De Zerbi share next Tottenham manager update
-Author: Samuel Fabre
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.tottenhamhotspurnews.com/news/people-close-to-roberto-de-zerbi-share-next-tottenham-manager-update/
-Summary: Roberto De Zerbi has been a prominent candidate to replace Thomas Frank as Tottenham's manager, especially following Frank's recent dismissal. However, sources close to De Zerbi indicate that he is currently not seeking a new managerial position and is taking a break after his departure from Marseille. Despite his successful track record, including guiding Brighton to European football, De Zerbi's unavailability may lead Tottenham to consider other options, including an interim manager before a permanent appointment. Thus, while De Zerbi would be a strong fit for Tottenham, his current decision to step back from management complicates the likelihood of his appointment.
+Summary: Roberto De Zerbi is considered a strong candidate to succeed Thomas Frank as Tottenham's manager following Frank's recent sacking. Reports indicate that De Zerbi is prepared to take on a new managerial role immediately after leaving Marseille, and Tottenham is among the clubs interested in appointing him. Although Manchester United is also in the running, De Zerbi appears inclined to choose Tottenham, suggesting a high likelihood of his appointment as the club's next manager.
 
 

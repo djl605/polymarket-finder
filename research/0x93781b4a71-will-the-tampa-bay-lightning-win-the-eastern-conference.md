@@ -1,7 +1,7 @@
 # Research: Will the Tampa Bay Lightning win the Eastern Conference?
 
 **Market ID:** 0x93781b4a7161d8b862042d5c06d6516cd90661fe879278ecd1e3813c6c9b8f8d
-**Researched At:** March 2, 2026 at 02:53:34 PM UTC
+**Researched At:** March 7, 2026 at 04:07:19 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Tampa Bay Lightning win the Eastern Conference?"
 
 ---
@@ -9,49 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-The market’s 34% chance closely matches 2/1 bookmaker odds and balances rival injuries against Buffalo’s surge and Florida’s strength, with no clear gap indicating mispricing. Low volume likely reflects limited but informed participation rather than a major inefficiency.
+High-quality models pegged Tampa Bay’s conference-winning odds around 50% in early February; a post-slump/injury adjustment might lower that to ~40%, vs. the market’s 32.5%, suggesting only a modest ~7.5¢ undervaluation.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Tampa Bay Lightning will win the 2025-26 Eastern Conference in the NHL playoffs. A “YES” requires Tampa Bay to advance through the first two playoff rounds and then win the Eastern Conference Final; a “NO” occurs if they are eliminated at any stage.
+The market asks: “Will the Tampa Bay Lightning win the Eastern Conference during the 2025-26 NHL Playoffs?”  
+• YES if Tampa Bay emerges as Eastern Conference champion (i.e., wins the Eastern Conference Final).  
+• NO if they’re eliminated before that or another team wins.  
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for Tampa Bay:  
-• 888sport (Oct 2025) preseason odds at 2/1 imply a 33.3% chance—very close to the market’s 34.0%.  
-• Losses by rival teams: Florida Panthers lost Aleksander Barkov to season-ending injury; Toronto Maple Leafs traded Mitch Marner—both increase Tampa’s relative strength.
+Bullish evidence:  
+• The Athletic (Feb 6) projects a >99% playoff berth and a 51% chance to reach the Stanley Cup Final (i.e., win the conference). Dom Luszczyszyn’s models are widely cited and current as of early February.  
+• ESPN Power Rankings (Feb 27) rank Tampa Bay 2nd league-wide, citing a .702 points percentage and top status in the East, implying a strong base rate.  
+• CBS preview (Mar 7) shows a solid 3.45 GF/2.61 GA but notes a four-game skid and key injuries (Nick Paul, Gage Goncalves returning ~Mar 11).  
 
 Bearish evidence:  
-• SI (Mar 2, 2026) reports Buffalo Sabres surging, now only four points behind Tampa Bay in division standings and boasting strong defense and offense—heightening competition.  
-• Bold Predictions (Dec 2025) foresee Florida Panthers eyeing a third straight championship and other Eastern contenders strengthening via prospects and rising stars.
+• Recent four-game losing streak may dampen momentum.  
+• Injury absence of role-players and backup goalie issues (per theScore.com’s Feb 26 article) raise risk.  
+• Eastern Conference rivals (e.g. Hurricanes) are strong; division futures odds tie Tampa Bay at +125 with Carolina.  
+• Avalanche lead overall Stanley Cup odds (~20%) per social-media projections, suggesting Tampa Bay’s league-wide title chances are lower than 51%.  
 
-Source credibility and recency:  
-• 888sport and ESPN preseason pieces are October 2025 (baseline but somewhat dated).  
-• SI is current (Mar 2, 2026) and directly relevant to playoff competition.  
-• Bold Predictions is December 2025—useful for context on competitive landscape but not Tampa-specific.
-
-No single source provides a glaring contradiction to the 34.0% price. Preseason odds set the baseline, while mid-season developments (rival injuries vs. rising Sabres) roughly offset.
+Source credibility: Dom Luszczyszyn (The Athletic) and ESPN are high; CBS and theScore are moderate. All data are within 2–5 weeks of today, so reasonably up-to-date.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The Lightning’s implied chance (34%) aligns with established 2/1 bookmaker odds and likely reflects both upside (weakened rivals) and downside (emerging Sabres, Panthers’ dominance).  
-• Low volume and tight spread suggest only a handful of traders are engaged but may be those with good information.  
-• The lack of significant market movement after key news (Barkov injury, Sabres’ surge) implies these factors were already anticipated or quickly priced in.
+• A 32.5% price could reflect traders heavily discounting Tampa Bay’s four-game slump and injury risk.  
+• Low $965 volume and tight 5¢ spread suggests few active traders—possibly a lone overconfident bearish speculator rather than broad consensus.  
+• Alternatively, the price could be a consensus acknowledging both Tampa Bay’s class-of-the-East status and late-season fragility.  
 
 4. MISPRICING ASSESSMENT  
-• No evidence suggests a >20¢ mispricing. Both bullish and bearish mid-season developments appear largely accounted for.  
-• The market’s 34.0% falls squarely between preseason expectations and current competition outlook, indicating neither extreme optimism nor pessimism.
+Comparing the 51% simulated chance vs. a 32.5% market price yields a 18.5-point gap. But the team’s recent slump and roster risks likely shave odds below 51%. A back-of-the-envelope adjustment might pull the true probability nearer to ~40%, leaving a potential ~7.5-cent undervaluation. This is neither conclusive nor large enough to confidently declare gross mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that a mispricing exists: 10% (trades low-volume but aligns with public odds).  
-• Magnitude of possible mispricing: 0¢ (market seems fairly priced).  
-• Expected value = 10% × 0¢ = 0¢.
+Strength of evidence that price is off (i.e. simulations underpriced): ~40%  
+Magnitude of mispricing if true: ~7.5¢  
+Expected value ≈ 40% × 7.5¢ = 3¢  
 
-EXPECTED_VALUE: 0  
-SUMMARY: The market’s 34% chance closely matches 2/1 bookmaker odds and balances rival injuries against Buffalo’s surge and Florida’s strength, with no clear gap indicating mispricing. Low volume likely reflects limited but informed participation rather than a major inefficiency.  
+EXPECTED_VALUE: 3  
+SUMMARY: High-quality models pegged Tampa Bay’s conference-winning odds around 50% in early February; a post-slump/injury adjustment might lower that to ~40%, vs. the market’s 32.5%, suggesting only a modest ~7.5¢ undervaluation.  
 CONFIDENCE: medium
 
 ---
@@ -60,48 +59,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Predicting where every NHL team finishes in 2025-26 - ESPN
-Author: Greg Wyshynski
-Published Date: 2025-10-08T00:00:00.000Z
-URL: https://www.espn.com/nhl/story/_/id/46521675/nhl-2025-26-teams-standings-predictions-stanley-cup-playoffs-divisions
-Summary: This ESPN article by Greg Wyshynski predicts the finishing positions for all NHL teams in the 2025-26 season. While the article isn't provided, it would likely include the author's predictions for the Tampa Bay Lightning's performance, including their chances of winning the Eastern Conference.
-
-
-Title: Tampa Bay Lightning Playoff Picture: Chances, Bracket, Seed for 2026 | BetMGM
+Title: Tampa Bay Lightning vs. Toronto Maple Leafs - NHL Game Preview - March 7, 2026 - CBS Sports
 Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://sports.betmgm.com/en/blog/nhl/tampa-bay-lightning-playoff-picture-chances-bracket-seed-bm25/
-Summary: I am sorry, but this webpage does not contain the information needed to answer the user's question. The webpage is a directory of links to sports betting information, and does not contain any specific analysis of the Tampa Bay Lightning's chances of winning the Eastern Conference.
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://www.cbssports.com/nhl/gametracker/preview/NHL_20260307_TB@TOR/
+Summary: The upcoming NHL game between the Tampa Bay Lightning and Toronto Maple Leafs on March 8, 2026, at Scotiabank Arena may influence playoff standings, but specific details relevant to predicting whether the Lightning will win the Eastern Conference include their recent performance and injury status. The Lightning have a higher goals-for average (3.45) compared to their goals-against (2.61), indicating a strong offensive and defensive balance. However, they have recently dropped four straight games, which could impact their confidence and momentum. Key injuries for Tampa Bay include Nick Paul and Gage Goncalves, with Paul expected to return around March 11. The team's current form and injury situation are important factors in assessing their chances of clinching the conference title.
 
+Title: As of February 2026, projections show the Stanley Cup race is tight ...
+Published Date: 2026-02-06T00:00:00.000Z
+URL: https://www.facebook.com/groups/1555910907995362/posts/4218643678388725/
+Summary: Projections as of February 2026 indicate a competitive Stanley Cup race, with the Colorado Avalanche leading the odds at around 20%. While specific odds for the Tampa Bay Lightning are not provided, their performance and standing in the Eastern Conference are crucial factors. Historically strong, the Lightning's chances depend on their current season performance, injury status, and how they compare to other top Eastern teams. Monitoring their recent results and standings will help assess their likelihood of winning the Eastern Conference this season.
 
-Title: Sabres' Case as Stanley Cup Contender Increasing Every Game
-Published Date: 2026-03-02T10:53:13.400Z
-URL: https://www.si.com/onsi/breakaway/buffalo-sabres/case-stanley-cup-contender-increasing-every-game
-Summary: The Buffalo Sabres are currently a strong contender in the Eastern Conference, recently defeating the Tampa Bay Lightning 6-2, which highlights their growing confidence and performance. With 35 victories this season, the Sabres are just four points behind the Lightning for the division lead. Their success is attributed to a solid roster, including a Norris Trophy candidate defenseman and a cohesive forward group. This winning momentum suggests that the Lightning may face increased competition from the Sabres, impacting their chances of winning the Eastern Conference. As the Sabres continue to build belief in their abilities, the Lightning will need to maintain their performance to secure their position.
+Title: NHL 2025-26 Stanley Cup playoff chances and projected standings - The Athletic
+Author: Dom Luszczyszyn
+Published Date: 2026-02-06T00:00:00.000Z
+URL: https://www.nytimes.com/athletic/6694758/2026/02/06/nhl-2025-26-stanley-cup-playoff-chances-and-projected-standings/?redirected=1
+Summary: The Tampa Bay Lightning currently have a high projected chance (>99%) of making the playoffs and a 51% probability of reaching the Stanley Cup final, indicating strong postseason prospects. Their current points total is 78, and they are ranked within the Atlantic Division, which is highly competitive. Given their high likelihood of playoff qualification and favorable standing, they are well-positioned to contend for the Eastern Conference title, though the exact probability of winning the conference is not specified. Overall, their strong performance metrics suggest they are a leading contender to win the Eastern Conference this season.
 
-Title: Bold predictions for 2026 include Ovechkin re-signing, Sharks ...
-Published Date: 2025-12-31T00:00:00.000Z
-URL: https://www.nhl.com/news/bold-nhl-predictions-for-2026
-Summary: The article discusses bold predictions for the NHL in 2026, including significant events and player performances that could impact teams like the Tampa Bay Lightning. Key highlights include:
+Title: NHL Power Rankings: New 1-32 poll, over/under bet for each team - ESPN
+Author: Sean Allen and Victoria Matiash
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.espn.com/nhl/story/_/id/48047537/nhl-power-rankings-2025-26-top-teams-players-poll-best-bets
+Summary: The Tampa Bay Lightning are currently ranked 2nd in the NHL Power Rankings with a points percentage of 70.2%, indicating strong performance and status as a top contender in the Eastern Conference. They are considered the class of the East and are on pace to win their division, with a projected over/under points total of 113.5, which they are favored to surpass. Their upcoming schedule includes key games against BUF, MIN, and WPG, which could influence their standing. Overall, their consistent performance and division positioning suggest a high likelihood of competing strongly for the Eastern Conference title.
 
-1. **Upcoming Events**: The NHL will host its first outdoor game in Florida on January 2, 2026, and the players will participate in the Olympic Winter Games in February, which could influence team dynamics and player performance.
-
-2. **Florida Panthers' Dominance**: The Florida Panthers are predicted to aim for a third consecutive championship, which could affect the competitive landscape in the Eastern Conference.
-
-3. **Player Performances**: Predictions include Morgan Geekie potentially scoring over 50 goals, showcasing the emergence of strong players that could shift the balance of power in the conference.
-
-4. **Draft Implications**: The 2026 NHL Draft will feature top prospects like Gavin McKenna, whose addition to any team could alter playoff prospects.
-
-While the article does not directly address the Lightning's chances, the overall competitive environment in the Eastern Conference, influenced by these events and player performances, will be crucial in determining their success.
-
-Title: NHL Eastern Conference Predictions & Tips (2025/26) | 888sport Blog
-Author: 888sport
-Published Date: 2025-10-20T00:00:00.000Z
-URL: https://www.888sport.com/blog/ice-hockey/nhl-eastern-conference-predictions
-Summary: The 2025-26 NHL season sees the Tampa Bay Lightning positioned as a strong contender in the Eastern Conference, with odds of 2/1 to win. The Lightning have consistently been a powerhouse, having won two Stanley Cups in recent years. This season, they benefit from the weakened status of their main competitors, particularly the Florida Panthers and Toronto Maple Leafs, who have lost key players to injury and trades. 
-
-The Panthers are facing challenges with the loss of superstar Aleksander Barkov to a season-ending injury, while the Maple Leafs have lost Mitch Marner to the Vegas Golden Knights. This shift in dynamics could favor the Lightning, who remain a formidable team. 
-
-Additionally, the Atlantic Division is competitive, but with the rise of teams like the Ottawa Senators and Montreal Canadiens, the Lightning's experience and depth could prove advantageous. Overall, given their historical performance and the current landscape of the division, the Lightning are well-positioned to contend for the Eastern Conference title this season.
+Title: NHL futures odds: Best value bets to finish 1st in each division | theScore.com
+Author: Alex Moretto
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.thescore.com/nhl/news/2149842/nhl-futures-odds-best-value-bets-to-finish-1st-in-each-division
+Summary: The article primarily discusses division race odds and predictions for the NHL's Central and East Divisions, with a focus on teams competing for top spots and home-ice advantage. Regarding the Tampa Bay Lightning, it highlights their current position in the Central Division, where they are tied with the Hurricanes at +125 odds to finish first, but notes their cautious approach to Vasilevskiy's workload and struggles with backup goaltending, which could impact their ability to secure the division title. While the Lightning are a strong team, their current form and the challenges they face in the division suggest that winning the Eastern Conference is uncertain. The article emphasizes the Hurricanes' advantage in the Central and the competitive nature of the East Division, but does not explicitly analyze their prospects for the Eastern Conference title.
 
 

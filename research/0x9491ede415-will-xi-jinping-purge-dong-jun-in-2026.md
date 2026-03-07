@@ -1,7 +1,7 @@
 # Research: Will Xi Jinping purge Dong Jun in 2026?
 
 **Market ID:** 0x9491ede41573b5c58be84b8ea4940616fe78566ea403f979bb455342700149f8
-**Researched At:** March 1, 2026 at 06:01:21 AM UTC
+**Researched At:** March 7, 2026 at 04:09:58 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Xi Jinping purge Dong Jun in 2026?"
 
 ---
@@ -9,48 +9,52 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.6¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-Although Xi’s military purges have been extensive, none of the cited sources identify Dong Jun as under investigation or in crisis, making the 16% probability a plausible baseline. There is no strong evidence of a significant mispricing in either direction.
+Specialist analyses from Jamestown indicate Dong Jun is a favored candidate for CMC promotion and has survived past purges, suggesting his risk of purge in 2026 is significantly below the current 21.5% price and that the market is likely overpriced by about 10 cents. Low trading volume and broad purge narratives may have prevented this specific information from being fully priced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Xi Jinping will purge Dong Jun by December 31, 2026. “Yes” if credible reporting describes Dong Jun’s removal, resignation, or expulsion from office/CCP as a “purge,” “ousting,” or tied to corruption, political disfavor, etc., before that date. Otherwise “No.”
+The market asks: Will Xi Jinping purge (remove/resign with “purge”-style language or CCP-expel) Defense Minister Dong Jun by December 31, 2026?  
+– YES if Dong is publicly characterized as ousted/purged for corruption, lack of favor, etc., or expelled from the Party.  
+– NO if he leaves for routine reasons, is promoted or leaves with neutral language.
 
 2. EVIDENCE EVALUATION  
-Evidence suggesting mispricing (i.e., price should be higher than 16%):  
-• Merics (Jan 2025) shows two defense ministers already purged for corruption, implying a pattern and potential third target.  
-• Multiple recent Purges (Zhang Youxia, Liu Zhenli in Feb 2026) reinforce Xi’s willingness to remove top PLA officers, even loyalists, to tighten control.  
+Bullish for PURGE (> downside to market price):  
+• Andrew Erickson (2026-02-17): Describes wide PLA Navy purges and notes it’s “plausible” Dong could be targeted given Xi’s anti-corruption drive. Source is expert but speculative regarding Dong specifically.  
+• Merics (2025-01-08): Outlines Xi’s broadening purge from corruption to loyalty, showing precedent for even favored officers being removed. Again, plausible but no direct rumor about Dong.  
 
-Evidence supporting 16% as reasonable:  
-• None of the sources mention Dong Jun specifically or any investigation into him. NAVY commanders have been less exposed than defense ministers or Politburo members.  
-• Andrew Erickson (Feb 2026) notes PLAN build-up continues, suggesting Dong Jun remains in favor. No leaks or rumors target him.  
-• Purges so far have hit those with concrete allegations of corruption or disloyalty; no such public allegations exist for Dong Jun.  
+Bearish for PURGE (Supports current price as too high):  
+• Jamestown (2026-02-15 & 02-12): Two detailed pieces emphasizing Dong Jun is a leading contender for a CMC seat, enjoys strong “Fujian Clique” loyalty ties, survived prior purges unscathed, and is viewed as indispensable for Xi’s military restructuring. These are timely, focused analyses.  
+• India’s World (2026-02-20): Documents recent CMC dismissals but does not mention Dong Jun, implying he’s not on the chopping block. Offers strong pattern evidence but no direct link to Dong.  
 
-Source credibility and recency:  
-• Merics and Sino Insider are credible on Chinese security affairs; reports range from Jan 2025–Feb 2026, all recent enough to matter.  
-• No source directly implicates Dong Jun, suggesting the market isn’t missing a known scandal.  
+Credibility:  
+– Jamestown and Merics are specialized, recent, and focused on PLA politics—highly credible.  
+– Erickson’s bookshelf compilation is credible on trends but speculative on future individual targets.  
+– India’s World is less focused on Dong but credible re CMC patterns.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 16% probability may represent consensus minority view that Dong Jun is vulnerable (by analogy to other PLA purges) but lacks specific evidence.  
-• Low volume: could be a few speculators betting on rumors or trend extrapolation, but no large trades on inside info.  
-• Informed traders likely ambivalent absent concrete signs; they’ve set a modest probability reflecting historical purge rates among senior officers.
+– A 21.5% price implies traders see a meaningful minority risk. That could reflect “plausible purge” due to Xi’s unpredictability.  
+– Low volume suggests few traders; could be anchored to broader purge narrative rather than Dong-specific facts.  
+– Informed PLA watchers likely know of Dong’s favor with Xi and his CMC prospects, so if they engaged they’d lower the price. The lack of volume suggests they haven’t factored him in, implying inefficiency.
 
 4. MISPRICING ASSESSMENT  
-• No direct or strong signals pointing to Dong Jun’s imminent purge are missing from the market.  
-• Given the absence of targeted reporting, the market’s 16% baseline risk seems justifiable.  
-• No sign the market overlooked a publicized event or technicality that would force resolution now.
+– The core counter-purge evidence (Jamestown) seems strong and likely underweights in the market.  
+– The bullish evidence is generic: purges happen, but no sign Dong is vulnerable now.  
+– Reasoned probability might be closer to ~10% than ~21.5%.  
+– Possible mispricing magnitude: ~10–12 cents too high.  
+– Largest pitfall: Could Dong get caught up unexpectedly? Yes, but informed sources see him as safe.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20% (no direct intel on Dong Jun)  
-Magnitude of mispricing: 3 cents (even if slight adjustment, it would be small)  
-Expected value = 0.20 × 3 = 0.6 cents
+– Strength of evidence: The Jamestown analyses are specific, recent, and credible—~60% that market overpriced.  
+– Magnitude of mispricing: ~10 cents.  
+– Expected value ≈ 0.6 × 10¢ = 6¢
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: Although Xi’s military purges have been extensive, none of the cited sources identify Dong Jun as under investigation or in crisis, making the 16% probability a plausible baseline. There is no strong evidence of a significant mispricing in either direction.  
+EXPECTED_VALUE: 6  
+SUMMARY: Specialist analyses from Jamestown indicate Dong Jun is a favored candidate for CMC promotion and has survived past purges, suggesting his risk of purge in 2026 is significantly below the current 21.5% price and that the market is likely overpriced by about 10 cents. Low trading volume and broad purge narratives may have prevented this specific information from being fully priced.  
 CONFIDENCE: medium
 
 ---
@@ -59,69 +63,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Xi's second purge of China's military | Merics
-Published Date: 2025-01-08T00:00:00.000Z
-URL: https://merics.org/en/comment/xis-second-purge-chinas-military
-Summary: The article discusses the ongoing anti-corruption campaign within China's military, led by President Xi Jinping, which has intensified significantly since mid-2023. Key points include:
-
-1. **Recent Purges**: Admiral Miao Hua's suspension marks a continuation of a series of high-profile removals, including two consecutive defense ministers, Li Shangfu and Wei Fenghe, both dismissed for corruption. If confirmed, Dong Jun would be the third defense minister in a row to face similar consequences.
-
-2. **Implications for Military Morale**: The increasing number of purges and investigations could impact the morale and credibility of the People’s Liberation Army (PLA), potentially affecting Xi's confidence in the military and China's willingness to engage in conflict.
-
-3. **Focus on Corruption**: Xi's campaign targets not only high-ranking officers but also key departments within the PLA, including the Rocket Force, which oversees missile and nuclear capabilities.
-
-Given this context, the likelihood of Xi Jinping purging Dong Jun in 2026 may hinge on ongoing investigations and the broader trajectory of Xi's anti-corruption efforts within the military. If the trend of removing officials for corruption continues, Dong Jun could be at risk, especially if he is implicated in any scandals.
-
 Title: The China Navy Leadership: Corruption & Capabilities Bookshelf
 Published Date: 2026-02-17T00:00:00.000Z
 URL: https://www.andrewerickson.com/2026/02/the-china-navy-leadership-corruption-capabilities-bookshelf-2/
-Summary: The webpage discusses the ongoing anti-corruption campaign under Xi Jinping, particularly within the People's Liberation Army Navy (PLAN) and broader military leadership. Since Xi took power in 2012, there has been a significant purge of military officials, with over 12 PLAN officers at the Rear Admiral level or above dismissed, alongside numerous high-ranking officials across various military branches. The article highlights the recent disappearance of PLAN Political Commissar ADM Yuan Huazhi and his replacement by VADM Leng Shaojie, indicating the Party's control mechanisms at play.
+Summary: The webpage discusses ongoing personnel purges within China's military and political leadership under Xi Jinping, highlighting extensive removals of senior officials across the Party, State, and Military sectors since 2012. Notably, high-ranking PLA Navy officers, including Rear Admirals and political commissars like Yuan Huazhi, have been dismissed or replaced, signaling Xi’s efforts to tighten Party control and combat corruption. While these purges indicate significant internal discipline, they do not necessarily impair the PLA Navy’s operational capabilities, which continue to advance. Given Xi’s intensified anti-corruption campaign and the strategic importance of naval leadership, it is plausible that key figures, including Dong Jun, could be targeted for removal in 2026 if deemed necessary by Xi’s political and military objectives.
 
-Xi's anti-corruption efforts are intensifying, with a plenary session of the CCP Central Commission for Discipline Inspection emphasizing the need to combat corruption, which Xi identifies as a major threat to the Communist Party. Despite the high-profile removals, the article argues that these actions should not be equated with incompetence, as the PLAN's capabilities and operational readiness continue to improve.
+Title: Xi's second purge of China's military | Merics
+Published Date: 2025-01-08T00:00:00.000Z
+URL: https://merics.org/en/comment/xis-second-purge-chinas-military
+Summary: The article details Xi Jinping’s ongoing and expanding anti-corruption campaign within China's military, notably within the PLA. Over the past year, multiple high-ranking officers, including defense ministers and leaders of key military branches, have been removed or investigated for corruption and disloyalty. The recent suspension of Admiral Miao Hua, a close Xi appointee responsible for political loyalty and promotions within the PLA, indicates that the campaign is broadening beyond corruption to include political disloyalty. Given Xi’s history of targeted purges and the current trend of removing even Xi-favored officers, there is a significant likelihood that Xi may continue to pursue further purges, including potentially targeting Dong Jun in 2026, especially if corruption or disloyalty allegations emerge.
 
-Given this context, predicting whether Xi Jinping will purge Dong Jun in 2026 may depend on several factors, including Dong's alignment with Xi's policies, his performance within the military, and the broader political climate surrounding anti-corruption efforts. The ongoing purges suggest that any official perceived as a threat or not fully aligned with Xi's agenda could be at risk.
+Title: Defense Minister Dong Jun Leading Contender for CMC Seat
+Author: The Jamestown Foundation
+Published Date: 2026-02-15T00:00:00.000Z
+URL: https://jamestown.substack.com/p/defense-minister-dong-jun-leading
+Summary: The article indicates that Defense Minister Dong Jun is a prominent contender for a seat on the Central Military Commission (CMC) as Xi Jinping seeks to rebuild the body following recent purges. Dong Jun's extensive operational experience, loyalty ties to Xi through the "Fujian Clique," and prior training in Russia suggest he is viewed favorably by Xi. Although Xi has recently purged several high-ranking military officials, Dong remains an intact and trusted figure, making his purge less likely in 2026. However, given Xi's history of consolidating power through military purges, his future actions could still be unpredictable.
 
-Title: Analyzing the purge of He Weidong, Miao Hua, and seven other ...
-Published Date: 2025-10-20T00:00:00.000Z
-URL: https://sinoinsider.com/2025/10/analyzing-the-purge-of-he-weidong-miao-hua-and-seven-other-senior-military-officers/
-Summary: The article discusses the recent purge of nine senior military officers, including He Weidong and Miao Hua, as part of Xi Jinping's ongoing anti-corruption campaign within the People's Liberation Army (PLA). The Central Military Commission (CMC) announced that these generals were expelled from the Communist Party and the military due to serious violations of Party discipline and duty-related crimes. This move is seen as a strategy by Xi to consolidate his control over the PLA and eliminate potential threats to his leadership.
-
-Key points relevant to predicting whether Xi Jinping will purge Dong Jun in 2026 include:
-
-1. **Anti-Corruption Campaign**: Xi's commitment to the anti-corruption campaign suggests that any military officer, including Dong Jun, could be at risk if they are perceived to violate Party discipline or are associated with corruption.
-
-2. **Political Loyalty**: The purged generals were criticized for betraying their loyalty to the Party and undermining its authority. If Dong Jun shows any signs of disloyalty or dissent, he may face similar consequences.
-
-3. **Control Over the Military**: Xi's actions indicate a focus on maintaining strict control over the military. Any officer who poses a challenge to this control, whether through influence or power, could be targeted.
-
-4. **Current Political Climate**: The political environment within the PLA is tense, with heightened scrutiny on senior officers. This atmosphere increases the likelihood of further purges as Xi seeks to reinforce his authority.
-
-In summary, the ongoing anti-cor
-
-Title: Xi Jinping Military Purges Shake China’s PLA Leadership
-Author: Ben Solis
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://amac.us/newsline/national-security/do-purges-of-top-chinese-military-officials-reveal-cracks-in-xi-jinpings-armor/
-Summary: The article discusses the ongoing military purges within China's People’s Liberation Army (PLA) under President Xi Jinping, highlighting a pattern of instability and paranoia within the Chinese Communist Party (CCP). In 2025, a significant anti-corruption campaign led to the targeting of nearly a million officials, suggesting a crackdown on dissent and corruption that may also serve to consolidate Xi's power. 
-
-Key figures, including high-ranking generals, have been removed or disappeared, with General Zhang Youxia's recent ousting being particularly notable as he was Xi's closest military ally. This trend indicates that Xi is willing to eliminate even his most trusted associates to maintain control, raising questions about the future of other military leaders, including Dong Jun.
-
-Given this context, predicting whether Xi Jinping will purge Dong Jun in 2026 may depend on Dong's loyalty, perceived threats to Xi's authority, and the ongoing dynamics within the PLA and CCP. If Dong is seen as a potential rival or if he becomes embroiled in any controversies, he could be at risk of being targeted in the same manner as other high-ranking officials.
+Title: Defense Minister Dong Jun Leading Contender for CMC Seat - Jamestown
+Author: 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://jamestown.org/defense-minister-dong-jun-leading-contender-for-cmc-seat/
+Summary: The article highlights that Defense Minister Dong Jun is a prominent contender for a seat on China's Central Military Commission (CMC), with strong backing from Xi Jinping due to his loyalty, operational experience, and ties to Xi's "Fujian Clique." Despite recent military purges that have reduced the CMC's size and shaken elite ranks, Dong remains the only three-star officer to have survived investigations unscathed. Xi Jinping is actively working to rebuild the CMC with officers who possess combat command experience and loyalty, suggesting that Dong's current standing and connections position him favorably in this process. Given these factors, there is no immediate indication of an imminent purge of Dong Jun in 2026; rather, he appears to be a key figure in Xi's plans to restore the CMC's leadership.
 
 Title: Discipline and Power: Xi Jinping’s 2026 Military Purges | India's World
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://indiasworld.in/discipline-and-power-xi-jinpings-2026-military-purges/
-Summary: The article discusses the recent military purges in China under Xi Jinping, particularly focusing on the removal of General Zhang Youxia and General Liu Zhenli in January 2026 due to "serious disciplinary violations." This marks a significant shift from previous purges, which were often framed as anti-corruption measures. The current purges suggest a consolidation of power and ideological alignment within the military, as Xi Jinping emphasizes "in-depth political rectification."
-
-Given this context, predicting whether Xi Jinping will purge General Dong Jun in 2026 may depend on several factors:
-
-1. **Political Climate**: The ongoing purges indicate a tightening grip on military leadership, suggesting that any perceived disloyalty or failure to align with Xi's vision could lead to further removals.
-
-2. **Dong Jun's Position**: As a member of the military hierarchy, Dong Jun's loyalty and performance will be scrutinized. If he is seen as a potential threat or not fully aligned with Xi's policies, he could be at risk.
-
-3. **Historical Precedents**: The article highlights that purges have become more frequent since Xi took power in 2013, indicating a trend of eliminating those who do not conform to Xi's leadership style or who may have connections to previous administrations.
-
-In summary, while the article does not specifically mention Dong Jun, the current environment of military purges under Xi Jinping suggests that any high-ranking official could be vulnerable, depending on their loyalty and alignment with Xi's
+Summary: The article details a significant purge within China's military leadership in 2026, notably the investigation and removal of top generals Zhang Youxia and Liu Zhenli for serious disciplinary violations, marking a rare instance of serving military officials on the Central Military Commission (CMC) being dismissed while still in office. These actions are framed as part of Xi Jinping’s broader effort of “political rectification” and ideological consolidation within the PLA, moving beyond previous anti-corruption campaigns to emphasize disciplinary and ideological discipline. Historically, Xi’s anti-corruption drives since 2013 have targeted high-ranking officials, including former vice chairmen Guo Boxiong and Xu Caihou, who were expelled for graft. Given this context, the purge of Zhang and Liu signals a strategic move to tighten control over the military and reinforce Xi’s authority. While the article does not mention Dong Jun specifically, the pattern of high-profile purges suggests that Xi’s approach to consolidating power involves targeting senior military figures for disciplinary violations, making it plausible that any other high-ranking official, such as Dong Jun, could be subject to similar scrutiny or purges in 2026 if deemed necessary for Xi’s political objectives.
 
 
