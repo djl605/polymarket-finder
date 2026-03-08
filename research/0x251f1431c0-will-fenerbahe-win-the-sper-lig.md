@@ -1,7 +1,7 @@
 # Research: Will Fenerbahçe win the Süper Lig?
 
 **Market ID:** 0x251f1431c02356f7539f668cde61b9788faff667cd19223172ce38a8e8c03cc5
-**Researched At:** March 2, 2026 at 04:22:04 AM UTC
+**Researched At:** March 8, 2026 at 02:34:01 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Fenerbahçe win the Süper Lig?"
 
 ---
@@ -9,43 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.3¢
+**Expected Value:** 8.4¢
 
 ### Summary
 
-Independent models assign Fenerbahçe ~34–35% title odds versus the market’s 28%, suggesting a modest undervaluation of about 6.5 cents. However, margin-of-error, head-to-head risks, and bookmaker adjustments likely account for most of this gap.
+Fenerbahçe’s title chance per credible models ranges 22–35%, substantially above the market’s 16%, indicating the market may be undervalued by ~12 cents. Low volume suggests mispricing due to trader inattention rather than true consensus.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Fenerbahçe will be officially crowned 2025–26 Süper Lig champions by the Turkish Football Federation before July 31, 2026. “Yes” resolves if they finish with the highest points (or win a deciding metric); “No” if any other team wins or if Fenerbahçe is mathematically eliminated before season’s end.
+This market asks whether Fenerbahçe will finish top of the 2025–26 Süper Lig and be officially crowned champions. YES requires Fenerbahçe to complete the season with the most points (or win a tiebreaker); NO occurs if they are mathematically eliminated before season’s end or another team finishes above them.
 
 2. EVIDENCE EVALUATION  
-Bullish on Fenerbahçe:  
-• StatsUltra model (undated but presumably current) gives Fenerbahçe a 35% chance → ~7-point gap above the market’s 28%.  
-• Euro Club Index’s AI forecast (Feb 11, 2026) assigns Galatasaray a 65.7% win probability and implies Fenerbahçe ~34.3%.  
-• Fenerbahçe unbeaten (13 W, 7 D) with +44 goal difference in recent reports, demonstrating consistent form and strong offense/defense.  
+Bullish on Fenerbahçe (suggesting price too low):  
+• StatsUltra’s real‐time model gives Fenerbahçe a 35% title probability based on strength ratings, recent form, and simulation of remaining fixtures—more than double the 16% market price.  
+• Mynet’s AI forecast assigns a 43.8% chance, noting Fenerbahçe and Galatasaray likely finish level on points but Fenerbahçe could prevail via tiebreaker scenarios.  
 
-Bearish on Fenerbahçe:  
-• All independent forecasts still rank Galatasaray as clear favorites (over 60%), underscoring the uphill battle for Fenerbahçe despite good form.  
-• Fenerbahçe trails by three points plus inferior goal difference (+28 vs +33) as of Feb 6; direct matchups and conversion of draws into wins remain key uncertainties.  
-• No major insider news of injuries or squad changes to materially shift probabilities.  
+Bearish on Fenerbahçe (supporting a low price):  
+• Two independent AI‐driven articles (Trend and Milliyet) both put Fenerbahçe at roughly a 21.6% chance after their draw with Antalyaspor and Galatasaray’s surge to ~78%.  
+• Current standings (trailing Galatasaray by 4–5 points with ~10 matches left) present a meaningful uphill battle.
 
-Sources are recent (Feb 2026), but none claim extraordinary predictive accuracy beyond standard statistical models. The 6–7-point gap between independent forecasts (~34–35%) and the market’s 28% suggests a modest undervaluation, but it could reflect bookmaker margins, head-to-head risks, or unpublicized team news.
+Source credibility and recency:  
+• StatsUltra (daily updated, model‐driven) is high credibility.  
+• Mainstream Turkish sports outlets (Habertürk, Trend, Milliyet, Mynet) are timely (Mar 2, 2026) but rely on generic “AI” narratives with less transparent methodology.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 28% price could be justified by cautious traders weighting Galatasaray’s superior form and points lead, combined with head-to-head fixtures. Low total volume hints this market may track a handful of directional bets rather than deep consensus. Alternatively, it may mirror betting-odds pricing (typically 30–35% for a secondary favorite).
+• A 16% price could reflect a strong consensus among a few pessimistic traders, especially given low volume ($3.7 k) and negligible arbitrage pressure.  
+• However, widely published probability models (21–44%) suggest a range much higher than 16%, implying the market hasn’t fully incorporated available forecasts.  
+• Low volume more likely indicates oversight by informed traders rather than obvious consensus (if it were obvious, volume would be higher).
 
 4. MISPRICING ASSESSMENT  
-The two independent quantitative forecasts average ~34.5%; the market at 28% implies a ~6.5-point mispricing. However, model error and unpriced factors (e.g., upcoming fixture difficulty) could explain this gap. Lacking any exogenous shock or overlooked public information, the deviation is small and within a reasonable range for risk margins.
+• The market price (16%) sits well below the lower bound of independent forecasts (~21.6%) and far below StatsUltra’s 35%.  
+• No resolution criteria changes or hidden penalties appear to explain such a deep discount.  
+• It is plausible informed traders simply haven’t engaged, leaving price anchored by a few bearish positions.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 50% (models plausible but not ironclad)  
-Magnitude of mispricing ≈ 6.5 cents  
-Expected value ≈ 0.5 × 6.5 = 3.25 cents
+• Strength of evidence: 70% (StatsUltra’s model plus multiple independent forecasts).  
+• Estimated magnitude of mispricing: ~12 cents (midpoint between 16% and a conservative 28% consensus).  
+• Expected value = 0.70 × 12 = 8.4 cents.
 
-EXPECTED_VALUE: 3.3  
-SUMMARY: Independent models assign Fenerbahçe ~34–35% title odds versus the market’s 28%, suggesting a modest undervaluation of about 6.5 cents. However, margin-of-error, head-to-head risks, and bookmaker adjustments likely account for most of this gap.  
+EXPECTED_VALUE: 8.4  
+SUMMARY: Fenerbahçe’s title chance per credible models ranges 22–35%, substantially above the market’s 16%, indicating the market may be undervalued by ~12 cents. Low volume suggests mispricing due to trader inattention rather than true consensus.  
 CONFIDENCE: medium
 
 ---
@@ -55,64 +59,31 @@ CONFIDENCE: medium
 *The following context was generated by Exa AI and provided to the analysis model:*
 
 Title: Süper Lig Forecast - StatsUltra
-Author: 
 URL: https://statsultra.com/forecasts/super-lig/
-Summary: The Süper Lig forecast for the 2025/26 season indicates that Fenerbahçe has a 35% chance of winning the title, while Galatasaray leads with a 63% probability. Fenerbahçe's projected points total is 79, with a goal difference of +47, reflecting a strong performance. However, their title odds suggest they are currently seen as underdogs compared to Galatasaray. 
+Summary: Fenerbahçe currently holds a strong position in the Süper Lig with a high strength rating of 67.9, and they are closely competing for the title. The model predicts a 35% chance of Fenerbahçe winning the league based on current performance data and simulations of the remaining season. Their proximity to Galatasaray, which has a 63% chance, indicates a competitive race. The prediction is based on ongoing performance metrics, recent match outcomes, and daily updated simulations, making Fenerbahçe a significant contender for the title this season.
 
-For further context, Trabzonspor is in third place with a significantly lower chance of winning (10%), indicating a competitive gap at the top. The forecast also highlights the relegation battle, with teams like Kayserispor (64% chance of relegation) and Fatih Karagümrük (88% chance) struggling at the bottom, but this does not directly impact Fenerbahçe's title chances.
+Title: Süper Lig'de şampiyonluk ihtimalleri açıklandı! (24. hafta) - Futbol Haberleri
+Author: Habertürk
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://haberturk.com/super-lig-de-sampiyonluk-ihtimalleri-aciklandi-24-hafta-3866334-spor
+Summary: The current Süper Lig standings show Fenerbahçe in second place with 54 points, trailing Galatasaray, which has 58 points. The league is competitive, with Fenerbahçe closely behind the leaders. Their position suggests they are strong contenders, but whether they will win depends on their remaining matches and performance relative to Galatasaray and other competitors. The current point gap indicates Fenerbahçe has a chance, but they need consistent results to overtake Galatasaray and secure the championship.
 
-In summary, while Fenerbahçe is a strong contender, they face stiff competition from Galatasaray, making their path to winning the Süper Lig challenging.
-
-Title: Turkey Super Lig Predictions and Betting Tips - Football
-URL: https://www.sportytrader.com/en/betting-tips/football/turkey/super-lig-121/
-Summary: To assess whether Fenerbahçe will win the Süper Lig, consider the following factors highlighted in the predictions and betting tips:
-
-1. **Current Form**: Analyze Fenerbahçe's recent match performances, including wins, losses, and draws. Consistency in form is crucial for title contention.
-
-2. **Head-to-Head Records**: Review Fenerbahçe's performance against other top teams in the league, as historical matchups can indicate potential outcomes.
-
-3. **Injury Reports**: Check for any key player injuries or suspensions that could impact Fenerbahçe's performance in upcoming matches.
-
-4. **Betting Odds**: Current betting odds can provide insights into how bookmakers view Fenerbahçe's chances. Favorable odds may suggest confidence in their ability to win.
-
-5. **Statistical Predictions**: The webpage lists probabilities for various matches, which can be indicative of Fenerbahçe's chances against specific opponents.
-
-6. **League Standings**: Monitor Fenerbahçe's position in the league table, as being in the top spots increases their likelihood of winning the title.
-
-By considering these elements, you can form a more informed prediction regarding Fenerbahçe's chances of winning the Süper Lig.
-
-Title: Galatasaray Unstoppable Charge: Latest Süper Lig Standings, Dominant 2025-2026 Performance, Key Stars, and Title Race Insights - Yorkshire Herald
-Author: Arshi
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://yorkshireherald.co.uk/galatasaray-puan-durumlari/
-Summary: Galatasaray is currently leading the Trendyol Süper Lig 2025-2026 season with 49 points, six points ahead of second-placed Fenerbahçe, who have 46 points. Fenerbahçe remains unbeaten with 13 wins and 7 draws, showcasing a strong performance but trailing in goal difference (+28) compared to Galatasaray's impressive +33. 
-
-To predict whether Fenerbahçe can win the Süper Lig, consider the following factors:
-
-1. **Current Form**: Fenerbahçe's unbeaten streak indicates resilience, but they need to convert draws into wins to close the gap with Galatasaray.
-
-2. **Upcoming Fixtures**: Analyzing Fenerbahçe's upcoming matches against lower-ranked teams could provide opportunities to gain crucial points.
-
-3. **Head-to-Head Matches**: Fenerbahçe's performance in direct encounters with Galatasaray will be pivotal in determining their title chances.
-
-4. **Injury Reports**: The health and availability of key players can significantly impact Fenerbahçe's performance in the remaining matches.
-
-5. **Tactical Adjustments**: Managerial strategies and adjustments in gameplay could enhance Fenerbahçe's chances of overcoming Galatasaray's lead.
-
-Overall, while Fenerbahçe is in a strong position, they will need to improve their results in the coming matches to challenge Galatasaray for the title effectively.
-
-Title: New predictions from artificial intelligence for the Super League championship.
+Title: Yapay zeka, Süper Lig'in şampiyonunu açıkladı! Fenerbahçe'nin puan kaybı sonrası... - Galeri - Trend Spor
 Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://en.haberler.com/new-predictions-from-artificial-intelligence-for-2209451
-Summary: According to predictions from the AI-powered platform Euro Club Index, Fenerbahçe is projected to finish second in the Süper Lig with 80 points, trailing behind Galatasaray, which is expected to win the championship with 83 points and a probability of 65.7%. The top five teams are anticipated to include Galatasaray, Fenerbahçe, Trabzonspor, Göztepe, and Beşiktaş. Given these predictions, Fenerbahçe is unlikely to win the Süper Lig this season, as they are expected to finish three points behind Galatasaray.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://m.sabah.com.tr/trend/galeri/spor/yapay-zeka-super-ligin-sampiyonunu-acikladi-fenerbahcenin-puan-kaybi-sonrasi
+Summary: Based on the latest analysis after 24 weeks of the Süper Lig, Fenerbahçe currently has a 21.6% chance of winning the title, which decreased following a draw with Antalyaspor. In contrast, Galatasaray's chances have increased to 78.2% after their recent victory over Alanyaspor. The league standings show Fenerbahçe in second place with 77 points, behind Galatasaray's 81 points. While Fenerbahçe remains a strong contender, their likelihood of winning the Süper Lig has diminished, especially if they do not secure more wins in upcoming matches.
 
-Title: Fenerbahçe vs Gençlerbirligi: predictions, odds, head to head, where to watch, and more!
+Title: Yapay zeka tahmin etti! İşte Süper Lig şampiyonu - Galatasaray - Spor Haberleri
 Author: 
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.apwin.com/predictions/fenerbahce-vs-genclerbirligi-prediction-super-lig-09-02-2026/
-Summary: Fenerbahçe is currently performing strongly in the Turkish league, holding an impressive record of 13 wins, 7 draws, and no losses in 20 matches, which translates to an average of 2.3 points per game. They have scored a total of 61 goals this season, averaging 2.25 goals per game, with standout players like Anderson Souza Conceição contributing 11 goals and Marco Asensio providing 6 assists. Defensively, Fenerbahçe has conceded only 17 goals in the league, averaging 0.85 goals against per game.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.milliyet.com.tr/skorer/galeri/yapay-zeka-tahmin-etti-iste-super-lig-sampiyonu-7547570
+Summary: The recent developments in the Süper Lig, particularly after the 24th week, indicate that Galatasaray is currently favored to win the league, with a winning probability of 78.1%, up from 56.1%. Fenerbahçe's chances have decreased to 21.6%, down from previous assessments, and their position is now second behind Galatasaray. The latest match results show Galatasaray maintaining their lead, while Fenerbahçe's performance has been slightly weaker, including a draw against Antalyaspor. Overall, based on current standings, recent match outcomes, and AI predictions, Galatasaray is more likely to secure the championship than Fenerbahçe.
 
-Given their solid offensive and defensive statistics, along with their current unbeaten streak, Fenerbahçe appears to be a strong contender for winning the Süper Lig this season. Their upcoming match against Gençlerbirligi is expected to be competitive, but predictions suggest a low-scoring affair, indicating a focus on defense. Overall, Fenerbahçe's consistent performance and strong squad depth position them favorably in the league standings, enhancing their chances of clinching the title.
+Title: Böylesi görülmedi: Süper Lig'de tarihi son! Fenerbahçe mi? Galatasaray mı? Yapay zeka şampiyonu açıkladı - Süper Lig
+Author: Mynet
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.mynet.com/boylesi-gorulmedi-super-lig-de-tarihi-son-fenerbahce-mi-galatasaray-mi-yapay-zeka-sampiyonu-acikladi-481717-myspor
+Summary: According to a recent AI-supported season forecast, Fenerbahçe has a 43.8% chance of winning the Süper Lig, with the most likely scenario predicting both Fenerbahçe and Galatasaray finishing the season with 81 points. However, Galatasaray is favored to win the title due to superior goal difference or head-to-head record if both teams end with equal points. The prediction indicates that Fenerbahçe's chances are significant but not the majority, and the outcome will depend on the results of remaining matches.
 
 

@@ -1,51 +1,46 @@
 # Research: Unit FDV above $1B one day after launch?
 
 **Market ID:** 0x2d2be55da0447bc9e4fd4f14f4c8ea3a81031fb44ff8105b23469d6b4ef1e60b
-**Researched At:** March 1, 2026 at 06:07:36 AM UTC
+**Researched At:** March 8, 2026 at 02:35:27 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Unit FDV above $1B one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.0¢
+**Confidence:** Low
+**Expected Value:** 7.2¢
 
 ### Summary
 
-With no Unit-specific tokenomics revealed, the 19% probability aligns with baseline odds that only a handful of projects ever top $1 B FDV day-one. Neither strong bullish nor bearish signals are missing, so there’s no compelling mispricing.
+Analogous token-launch markets uniformly assign <15% odds to clearing $1 B FDV day-one, whereas this market prices 28.5%. In absence of Unit-specific bullish data, the “Yes” side looks overstated by ~15–20 cents, yielding ~7 c expected value.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: will Unit’s governance token have a Fully Diluted Valuation (FDV) exceeding $1 billion at 4 PM ET one calendar day after its public launch (i.e., tradable on a public exchange)? “Yes” requires total supply × price > $1 billion at that time; otherwise, or if no launch by Dec 31 2027, it resolves “No.”
+The market asks whether Unit’s governance token will have a fully diluted valuation (FDV) exceeding $1 billion exactly one day (4:00 PM ET) after its public, tradable launch. “Yes” requires total token supply × market price > $1 billion at that timestamp; otherwise “No.” If Unit never launches by end-2027, it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish signals:  
-• Fabric ($ROBO) market shows 99% odds only for $50 M and $100 M FDVs, implying $1 B is essentially zero for a typical new token (Prediction Circle, 2026-02-26).  
-• AInvest’s post-launch review of Fabric’s $400 M FDV (2026-02-10) notes immediate unlocks drove selling pressure and capped FDV well below $1 B; similar dynamics likely for most projects.  
-• Low trading volume ($1.4 K) and tight spread suggest minimal engagement and no strong bullish capital behind a $1 B scenario.
-
-Bullish signals:  
-• Break-out launches like Aptos ($10 B FDV) and Starknet ($11 B) show that top-tier protocols can far exceed $1 B on day one (2025-07-20 discussion).  
-• Narrative-driven tokens (FELIX) and innovative mechanics (Flying Tulip’s capital protection, 2026-01-31) can spike valuations rapidly—though these are outliers and rely on whale participation.
-
-Source credibility and recency are solid (early 2026, specialized analysis).
+Bearish analogies:  
+• USD.AI: analysts see FDV of $270–320 M, not close to $1 B; they assign ~50/50 odds just to hit $1 B.  
+• Paradex: leading FDV estimate ~$300 M at 22% probability; only 1% chance to hit $750 M.  
+• Fabric, Hyperlend, Hurupay: each market assigns near-zero odds to thresholds anywhere near $1 B.  
+No bullish research shows a new token easily clearing $1 B on day 1 without massive existing TVL or revenue. Source dates range Feb–Mar 2026 and appear credible for similar token launches. No overly obvious bullish case emerges that the market has missed.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 19% price can be seen as a baseline “long-shot” probability for any new token to clear $1 B day-one FDV, reflecting that a few marquee launches have done it but most have not. Low volume hints at few participants rather than broad consensus, but absence of contradictory info (e.g., tokenomics releasing strong upside) means no obvious mispricing gap.
+A 28.5% price could reflect one or two aggressive bulls, given low $2.7 K volume. Alternatively, traders might factor in Unit’s brand or private-round pricing we lack. Low turnover could stem from general disinterest or lack of data, not certainty.
 
 4. MISPRICING ASSESSMENT  
-No project-specific details on Unit’s token supply, unlock schedule, or exchange listings have surfaced, so traders likely lack firm data and defaulted to a ~20% long-shot estimate. There’s no concrete bullish indicator (like precommitment or unique mechanics) missing from the price, nor clear bearish overshoot. A >20 ¢ mispricing appears unlikely.
+Analogous markets put single-day launch FDVs well below $1 B, often in the low hundreds of millions, implying “Yes” probability nearer 5–15%. Absent specific evidence Unit is an outlier, the 28.5% price appears overstated by roughly 15–20 cents. However, hidden private-sale valuations or partnerships could justify higher odds, so mispricing isn’t iron-clad.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence against large mispricing: ≈20%  
-Potential magnitude if wrong: ≈5 ¢  
-Expected value ≈20% × 5 ¢ = 1 ¢
+Strength of evidence (analogy to multiple markets, no direct counter-evidence): 40%  
+Estimated magnitude of mispricing: ~18 cents  
+Expected value = 40% × 18 c = 7.2 c
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: With no Unit-specific tokenomics revealed, the 19% probability aligns with baseline odds that only a handful of projects ever top $1 B FDV day-one. Neither strong bullish nor bearish signals are missing, so there’s no compelling mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 7.2  
+SUMMARY: Analogous token-launch markets uniformly assign <15% odds to clearing $1 B FDV day-one, whereas this market prices 28.5%. In absence of Unit-specific bullish data, the “Yes” side looks overstated by ~15–20 cents, yielding ~7 c expected value.  
+CONFIDENCE: low
 
 ---
 
@@ -53,74 +48,44 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Here's Why USD.AI FDV Could Be $270M–$320M One Day After Launch!
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://whales.market/blog/usd-ai-chip-fdv-prediction/
+Summary: The article analyzes USD.AI's valuation prospects, suggesting its Fully Diluted Valuation (FDV) could reach $270M–$320M shortly after launch, based on multiple valuation methods and current market data. While the protocol's Total Value Locked (TVL) is approximately $450 million and revenue is modest, these figures indicate a nascent but growing platform. The key consideration for surpassing a $1 billion FDV within a day is whether USD.AI can significantly accelerate user adoption, increase TVL, and expand revenue streams rapidly post-launch. Currently, the market's trading volume and the near-coin-flip probability of valuation suggest high uncertainty, but substantial growth in user engagement and protocol activity would be necessary to reach a $1B FDV immediately after launch.
+
+Title: Paradex FDV above ___ one day after launch? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://predictioncircle.com/event/paradex-fdv-above-one-day-after-launch
+Summary: The webpage analyzes prediction markets regarding Paradex's Fully Diluted Valuation (FDV) one day after launch. Currently, the leading estimate is around $300 million, with a 22% probability, followed by $500 million at 6%, and a surprise scenario at $750 million with 1%. Heavy trading activity and shifting odds suggest market participants are actively reassessing expectations. The market's resolution depends on whether Paradex's token FDV exceeds a specified threshold (e.g., $1 billion) within one day post-launch, based on credible, publicly available data. Key factors influencing predictions include the level of trading volume, the distribution of crowd participation versus financial backing, and official announcements. While current odds favor a valuation below $1 billion, market dynamics and new information could alter this outlook.
+
 Title: Fabric ($ROBO) FDV above ___ one day after launch? - Prediction Market Odds & Analysis
 Author: Prediction Circle
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://predictioncircle.com/event/fabric-fdv-above-one-day-after-launch
-Summary: The prediction market for Fabric ($ROBO) is currently assessing the likelihood of its Fully Diluted Valuation (FDV) exceeding $1 billion one day after launch. As of now, the market shows a leading expectation of $50 million at a 99% probability, with $100 million closely following at 98%. This indicates a competitive environment, but neither outcome approaches the $1 billion mark.
+Summary: The webpage analyzes prediction markets regarding Fabric ($ROBO) and its potential fully diluted valuation (FDV) one day after launch. Currently, the market strongly anticipates an FDV above $50 million, with a 99% probability, and nearly as high for $100 million at 98%. Heavy trading activity ($656K traded) and active interest (10 markets, over 300 days remaining) indicate significant market engagement and shifting expectations. 
 
-The total trading volume is $659,000, with 309 days remaining in the market, suggesting significant interest among traders. The "Crowd vs Money" analysis indicates that while many are watching the $50 million and $100 million outcomes, the actual financial backing for these predictions is relatively low, hinting at a lack of strong conviction.
+The prediction market allows traders to bet on whether Fabric’s FDV will surpass specific thresholds, with outcomes based on on-chain data and credible reporting. The market will resolve to "Yes" if the FDV exceeds the specified amount within one day of launch, defined as 4:00 PM ET the following day. If Fabric’s token is not launched or not tradable by December 31, 2026, the market will resolve to "No." 
 
-For predicting whether the FDV will exceed $1 billion, it’s essential to monitor market sentiment, trading volume, and any developments related to the token's launch and performance. The resolution of this market will rely on verified on-chain data and credible reporting, with the FDV calculated based on the total token supply multiplied by the token price one day post-launch.
+While current odds favor a valuation above $50M, the market remains competitive, with no clear favorite for surpassing $1B. To predict whether the FDV will exceed $1B, one should consider the current market sentiment, trading volume, and the high level of participation, but note that such a high valuation would require a significant increase from current expectations.
 
-Title: FELIX FDV Above ___ One Day After Launch? Let's Break Down the Narrative Fuel
-Author: AInvest
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.ainvest.com/news/felix-fdv-day-launch-break-narrative-fuel-2602/
-Summary: The article discusses the launch of the FELIX crypto-native meme token, which has garnered significant attention due to its unique origin story involving an AI persona and a viral social media campaign. Key points relevant to predicting whether the Fully Diluted Valuation (FDV) will exceed $1 billion one day after launch include:
+Title: Hyperlend FDV above ___ one day after launch? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://predictioncircle.com/event/hyperlend-fdv-above-one-day-after-launch
+Summary: The prediction market for Hyperlend's Fully Diluted Valuation (FDV) indicates a high likelihood—68%—that the FDV will be above $20 million one day after launch, with minimal support for the $50 million scenario. Currently, $1.8 million has been traded, reflecting significant market interest and active participation. The market's resolution depends on whether Hyperlend's token FDV exceeds the specified threshold (e.g., $1 billion) based on on-chain data and credible sources, with the event expected to be resolved approximately 24 hours after launch. Key factors influencing predictions include market sentiment, token transferability, and official announcements. Heavy trading activity and the alignment of crowd interest and capital backing suggest that market dynamics could provide insights into whether the FDV surpasses $1 billion shortly after launch.
 
-1. **Launch Dynamics**: FELIX was listed on exchanges XT and WEEX shortly after its launch, creating a sense of urgency and FOMO among investors. This rapid listing strategy is typical for narrative-driven tokens and can drive initial price surges.
-
-2. **FDV Calculation**: The FDV is a theoretical market cap based on the token's price and total supply. It reflects community sentiment and investor confidence rather than traditional fundamentals, making it highly speculative.
-
-3. **Market Performance**: The token experienced a 59.60% price increase within the first week, indicating strong narrative strength. However, the trading volume of $1.45 million suggests that the market is still volatile and heavily influenced by a few large investors (whales).
-
-4. **Community Sentiment**: The FDV's trajectory will depend on the conviction of early holders (whether they hold onto their tokens or sell) and the liquidity provided by the exchanges. A strong initial holder base could support a higher FDV.
-
-5. **Prediction Factors**: Analysts are focusing on price action and circulating supply stability in the first 24 hours post-launch as critical indicators for predicting whether the FDV
-
-Title: Fabric's $400M Valuation: Was the FDV Above the Launch Price One Day Later?
-Author: AInvest
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.ainvest.com/news/fabric-400m-valuation-fdv-launch-price-day-2602/
-Summary: The article discusses Fabric's $400 million fully diluted valuation (FDV) following its token sale on January 26, 2026. Key points relevant to predicting whether Fabric's FDV could exceed $1 billion one day after launch include:
-
-1. **Immediate Liquidity Risks**: The token sale allowed for 100% unlocking at the Token Generation Event (TGE), meaning all tokens were immediately tradable. This setup can lead to significant selling pressure, impacting market valuation.
-
-2. **Market Performance Post-Launch**: Data indicated that the FDV did not exceed the token price one day after launch, suggesting that initial market dynamics can heavily influence perceived value.
-
-3. **Comparison with Peers**: Fabric's FDV is notably higher than some competitors in the AI/robotics sector, such as Sentient ($200 million) and Grass ($127 million), but lower than Virtuals ($540 million). This context is crucial for assessing future growth potential.
-
-4. **Valuation Context**: The leap from a $20 million funding round to a $400 million FDV is significant, indicating speculative valuation. Achieving a $1 billion FDV would require substantial market confidence and performance.
-
-5. **Future Selling Pressure**: A substantial 40% of the public allocation is reserved for partner communities, which could lead to increased selling activity, further complicating the path to a higher valuation.
-
-In summary, while Fabric's strong backing and innovative pedigree provide a foundation for growth,
-
-Title: Given the launch FDVs of Aptos at $10B, Starknet at $11B, and Sui ...
-Published Date: 2025-07-20T00:00:00.000Z
-URL: https://www.facebook.com/groups/coinsaviglobal/posts/1078573357118137/
-Summary: The webpage appears to be inaccessible due to a temporary block on Facebook, preventing any content from being viewed. However, based on the title, it discusses the launch Fully Diluted Valuation (FDV) of various blockchain projects, specifically Aptos at $10 billion, Starknet at $11 billion, and Sui. 
-
-For predicting whether a unit FDV will exceed $1 billion one day after launch, consider the following factors:
-
-1. **Market Sentiment**: The initial reception of the project by the community and investors can significantly impact its FDV.
-2. **Project Fundamentals**: The technology, use case, and team behind the project are critical in determining its long-term viability and initial valuation.
-3. **Comparative Analysis**: Look at similar projects that launched with high FDVs and their performance post-launch.
-4. **Market Conditions**: General market trends and conditions at the time of launch can influence valuations significantly.
-
-These elements can help gauge the likelihood of a project achieving an FDV above $1 billion shortly after its launch.
-
-Title: Flying Tulip FDV could be $1B-$1.3B after launch. Here's Why!
+Title: Hurupay FDV above ___ one day after launch? Predictions &... | Polymarket
 Author: 
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://whales.market/blog/flying-tulip-fdv-price-prediction/
-Summary: The article discusses the potential for Flying Tulip's fully diluted valuation (FDV) to reach between $1B and $1.3B shortly after its launch. This prediction is based on several factors, including the capital raised, innovative token mechanics, and current market conditions. 
+Published Date: 2026-02-22T00:00:00.000Z
+URL: http://poly.market/hurupay
+Summary: The webpage details a prediction market on Polymarket regarding Hurupay's Fully Diluted Valuation (FDV) one day after launch, with outcomes based on different valuation thresholds. Key points relevant to predicting whether the Unit FDV will exceed $1 billion include:
 
-Flying Tulip, a DeFi protocol led by Andre Cronje, aims to raise up to $1B from community and institutional investors, with a total supply of 10 billion FT tokens. The project features a unique variable supply model and a built-in capital protection mechanism through its Perpetual Put option, which allows investors to redeem their contributions at any time while their tokens are locked in an NFT. This structure provides downside protection for early investors, which could enhance demand and support a higher FDV.
-
-The capital raised will be invested in low-risk yield strategies, expected to generate around 4% annual yield, further contributing to the project's financial stability and attractiveness. However, it's important to note that FT tokens purchased on secondary markets do not carry the same redemption rights, exposing those investors to market risks.
-
-Overall, the combination of innovative token mechanics, capital protection, and a solid yield strategy positions Flying Tulip favorably for achieving an FDV above $1B shortly after launch.
+- The current market is focused on whether Hurupay's FDV surpasses specific amounts (e.g., $5M, $10M, $20M, etc.), with trading volumes and probabilities indicating community sentiment.
+- As of the latest data, the market shows a significant trading volume ($220K) and varying probabilities for different valuation thresholds, with the highest likelihood (28%) assigned to a $5M valuation.
+- The market's resolution depends on the actual FDV at 4:00 PM ET the day after launch, which is influenced by factors such as token supply, token price, project adoption, and market conditions.
+- To predict if the Unit FDV will exceed $1B, consider the project's scope, tokenomics, growth prospects, and current market sentiment, as reflected in the trading activity and odds for lower valuation thresholds.
+- The market's structure suggests that if the token's total supply and price lead to an FDV over $1B, the "Yes" outcome will become more probable, increasing the likelihood of the market resolving in favor of the threshold being exceeded.
 
 

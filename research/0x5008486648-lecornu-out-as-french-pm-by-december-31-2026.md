@@ -1,7 +1,7 @@
 # Research: Lecornu  out as French PM by December 31, 2026?
 
 **Market ID:** 0x5008486648e1504fc35d468ab774f4e081b9f93f6879840519656af94bdf5cc8
-**Researched At:** March 1, 2026 at 06:04:59 AM UTC
+**Researched At:** March 8, 2026 at 02:34:49 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Lecornu  out as French PM by December 31, 2026?"
 
 ---
@@ -9,39 +9,44 @@
 ## AI Analysis
 
 **Confidence:** High
-**Expected Value:** 44.2¢
+**Expected Value:** 50.9¢
 
 ### Summary
 
-Widespread reporting (Feb 27–28) confirms Lecornu resigned, which by the market’s rules immediately fixes the outcome to “Yes.” The current 53.5% price is therefore severely underpricing that certainty.
+Lecornu publicly resigned on March 2, 2026, and the market’s own rules say any resignation announcement automatically resolves to “Yes.” The market remains at 43.5%, creating a ~56.5¢ mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Sébastien Lecornu will be out of office at any time between December 4, 2025 and December 31, 2026. A resignation or removal announced before December 31, 2026 immediately resolves to “Yes.” If he remains PM continuously throughout that window, it resolves “No.”
+This market asks whether Sébastien Lecornu will be out of the office of French Prime Minister at any point between December 4, 2025 and December 31, 2026, with any public announcement of resignation/removal automatically resolving it to “Yes.” A “Yes” outcome requires that Lecornu leaves office or announces his departure before the end of 2026; a “No” means he stays continuously in the role through December 31, 2026.
 
 2. EVIDENCE EVALUATION  
-Bearish (supports “Yes”):  
-• Two credible newswire reports (Parapolitika and Panorama, Feb 27–28, 2026) state Lecornu has resigned and Macron will appoint a new PM within 48 hours.  
-• Panorama quotes Lecornu ruling out a return to the role.  
-These are authoritative, recent, and directly state the resolution criterion has been met.  
-
-Bullish (supports “No”):  
-• None of the research suggests Lecornu might retract his resignation or that the resignation isn’t effective. Any counter would need to show he remained in office, which no source does.  
+– Evidence for mispricing:  
+  • Multiple independent outlets (Panorama March 2, Parapolitika Feb 27, Drimble March 1/2) report that Lecornu officially resigned on March 2, 2026, and Macron is appointing a successor within 48 hours.  
+  • The market’s own rules state that any announced resignation before the end date instantly resolves to “Yes.” Lecornu’s resignation announcement has already occurred.  
+– Evidence supporting current price:  
+  • None of the research suggests reversal or that Lecornu will survive this departure, and there’s no credible counter‐story indicating he remains.  
+– Source credibility and recency:  
+  • All articles are dated late February to early March 2026 from news aggregators and international correspondents. Their reports are consistent and directly relevant to the resolution criteria.  
+– Bullish vs bearish:  
+  • Bearish (Yes) evidence is overwhelming and immediate; there is no bullish case for him remaining in office through year‐end 2026.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 53.5%, the market is deeply at odds with widespread press that Lecornu resigned. Low volume suggests few participants, and no logical reason informed traders would leave this unpriced if they’d seen the coverage.  
+– Justifiable interpretation of 43.5%: Possibly no one has traded or noticed the automatic‐resolution clause, leading to inertia rather than true consensus.  
+– Low volume: Likely because traders missed the resignation announcement’s impact on resolution rather than because the outcome is genuinely uncertain.
 
 4. MISPRICING ASSESSMENT  
-The effective resolution trigger (resignation announcement) occurred on February 27–28, 2026, within the covered window. The market should have immediately jumped to 100% “Yes.” The 46.5-point gap indicates severe mispricing. There’s no plausible overlooked technicality.  
+– The market should have resolved to 100% immediately upon Lecornu’s resignation announcement.  
+– Current price at 43.5% implies a 56.5¢ underpricing.  
+– No plausible alternative interpretation of the rules or timeline invalidates this.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 95% (multiple reputable, recent confirmations).  
-Magnitude of mispricing: 46.5 cents.  
-Expected value ≈ 0.95 × 46.5 c = 44.2 c
+– Strength of evidence: 90% (multiple clear, recent, independent confirmations of resignation translating to “Yes” per market rules)  
+– Magnitude of mispricing: 56.5 cents  
+– Expected value = 0.90 × 56.5 ≈ 50.9 cents
 
-EXPECTED_VALUE: 44.2  
-SUMMARY: Widespread reporting (Feb 27–28) confirms Lecornu resigned, which by the market’s rules immediately fixes the outcome to “Yes.” The current 53.5% price is therefore severely underpricing that certainty.  
+EXPECTED_VALUE: 50.9  
+SUMMARY: Lecornu publicly resigned on March 2, 2026, and the market’s own rules say any resignation announcement automatically resolves to “Yes.” The market remains at 43.5%, creating a ~56.5¢ mispricing.  
 CONFIDENCE: high
 
 ---
@@ -52,40 +57,32 @@ CONFIDENCE: high
 
 Title: Sebastien Lecornu resigns, Macron to announce new French prime minister within 48 hours
 Author: 
-Published Date: 2026-02-28T00:00:00.000Z
+Published Date: 2026-03-02T00:00:00.000Z
 URL: https://en.panorama.com.al/doreheqja-e-sebastien-lecornu-macron-do-te-shpalle-kryeministrin-e-ri-te-frances-brenda-48-oreve/
-Summary: Sébastien Lecornu has resigned as France's acting prime minister, and President Emmanuel Macron is set to announce a new prime minister within 48 hours. Lecornu emphasized that while the National Assembly remains divided, there is potential for compromise and a parliamentary majority against early elections. He indicated that a new government could be formed quickly, with a draft budget expected soon. Lecornu will temporarily manage current affairs but has ruled out returning to the prime minister role, stating that the conditions for his continuation do not exist. This context suggests that Lecornu's departure is definitive, making it unlikely he will return to the position by December 31, 2026.
-
-Title: France’s Lecornu outlines end-of-mandate agenda, rules out running for president – POLITICO
-Author: 
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://www.politico.eu/article/france-lecornu-outlines-end-mandate-agenda-rules-out-running-president/
-Summary: French Prime Minister Sébastien Lecornu has outlined his agenda for the remainder of his mandate, emphasizing that he does not intend to run for president in the upcoming election. He plans to focus on key issues, including the long-awaited energy programming law, which will define France's energy strategy through 2035 and includes the construction of new nuclear reactors. Lecornu also aims to increase defense spending and address healthcare and housing shortages. He is expected to conduct a government reshuffle before municipal elections in February 2026. Given these developments, Lecornu's position as PM could be influenced by the success of his initiatives and the political landscape leading up to the elections, making it uncertain whether he will remain in office by December 31, 2026.
+Summary: Sébastien Lecornu resigned as acting French Prime Minister amid political negotiations following President Emmanuel Macron's decision to appoint a new prime minister within 48 hours. Macron is expected to announce the successor soon, with discussions ongoing about forming a new government and passing a draft budget. Lecornu indicated he would remain temporarily in office to manage current affairs but has expressed that he resigned due to unfavorable conditions for his continued role. Given the current political context and the swift appointment process, it is unlikely Lecornu will remain in the position until December 31, 2026.
 
 Title: French PM Sébastien Lecornu resigns after just 26 days in office
 Author: newsroom
 Published Date: 2026-02-27T00:00:00.000Z
 URL: https://en.parapolitika.gr/world/69835/french-pm-sebastien-lecornu-resigns-after-just-26-days-in-office/
-Summary: Sébastien Lecornu's resignation as French Prime Minister after just 26 days in office highlights significant instability within the French government and raises questions about the future of political leadership in France. His brief tenure, the shortest in the EU, followed the collapse of François Bayrou's government and reflects deepening political polarization in the National Assembly. Lecornu's inability to form a cabinet that could garner bipartisan support, particularly with the center-left Socialist Party, contributed to his downfall.
+Summary: Sébastien Lecornu's brief tenure as French Prime Minister lasted only 26 days, making him one of the shortest-serving leaders in the EU. His resignation followed a failed cabinet presentation and ongoing political instability in France, characterized by a lack of consensus and polarization within the National Assembly. The political turmoil has negatively impacted financial markets, with the euro falling against the dollar and concerns mounting over France's ability to implement necessary budget reforms amid economic and geopolitical pressures. Lecornu's inability to secure broader support, particularly from the center-left Socialist Party, and the ongoing crisis suggest deepening political instability. Given these circumstances, and considering the historical context of rapid government changes in France, it is uncertain whether Lecornu will remain in office until December 31, 2026. The current climate indicates a high likelihood of further political upheaval before that date.
 
-The political climate in France is marked by uncertainty, with President Macron facing pressure for early elections from opposition parties, including Marine Le Pen's. Financial markets reacted negatively to Lecornu's resignation, indicating concerns about France's capacity to implement necessary budget cuts amid a debt crisis. This turmoil could hinder France's ability to respond effectively to both domestic and geopolitical challenges, potentially impacting the stability of future leadership.
+Title: Lecornu: snel nieuwe premier, partijen niet happig op nieuwe Franse verkiezingen | Buitenlands nieuws
+Author: drimble.nl
+Published Date: 2026-03-02T00:00:00.000Z
+URL: http://www.drimble.nl/buitenlands-nieuws/104029004/lecornu-snel-nieuwe-premier-partijen-niet-happig-op-nieuwe-franse-verkiezingen.html
+Summary: French Premier Sébastien Lecornu anticipates that President Macron will appoint a new prime minister within 48 hours, following a recent meeting. Currently, most parliamentary parties are not in favor of new elections, suggesting political stability in the near term. Given these developments, there is no immediate indication that Lecornu will be replaced before December 31, 2026; however, political dynamics could change depending on future events and government stability.
 
-Given these factors, predicting Lecornu's status as Prime Minister by December 31, 2026, seems unlikely, as his resignation suggests a fragile political environment where leadership changes could occur frequently. The ongoing political crisis and lack of consensus in the National Assembly may lead to further instability, making it difficult for any Prime Minister, including Lecornu, to maintain their position for an extended period.
-
-Title: France: Prime Minister Sebastian Lecornu resigns from office
-Author: newsroom
+Title: Lecornu verwacht binnen 48 uur nieuwe Franse premier | Buitenlands nieuws
+Author: drimble.nl
 Published Date: 2026-02-27T00:00:00.000Z
-URL: https://en.parapolitika.gr/world/69444/france-prime-minister-sebastian-lecornu-resigns-from-office/
-Summary: Sebastian Lecornu has resigned as Prime Minister of France after less than a month in office, with President Emmanuel Macron accepting his resignation. This abrupt departure raises questions about the stability of the French government and the potential for further changes in leadership. Given the short tenure and the context of ongoing political challenges in France, it may be relevant to consider the implications of Lecornu's resignation for future political dynamics and the likelihood of his successors maintaining their positions until December 31, 2026.
+URL: http://www.drimble.nl/buitenlands-nieuws/104028850/lecornu-verwacht-binnen-48-uur-nieuwe-franse-premier.html
+Summary: French Prime Minister Sébastien Lecornu anticipates that a new premier will be appointed within 48 hours, following recent parliamentary consultations. While he expects the current political impasse to be resolved without new elections, there is no specific indication in the article about his own tenure ending by December 31, 2026. Therefore, based on this information, predicting Lecornu's departure as French PM by that date remains uncertain and not directly supported by the current developments.
 
-Title: French PM faces new no-confidence votes as budget reaches final hurdle - RFI
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: http://rfi.fr/en/france/20260202-french-pm-faces-new-no-confidence-votes-as-budget-faces-final-hurdle
-Summary: French Prime Minister Sebastien Lecornu is currently facing significant political challenges as he navigates the 2026 budget process. He has invoked article 49.3 to push the budget through parliament without a vote, a move that has sparked two new no-confidence motions from opposition parties, including the hard-left France Unbowed (LFI) and the far-right National Rally (RN). This decision marks a shift from his earlier commitment to seek parliamentary approval, reflecting the difficulties he has encountered in negotiations.
-
-Lecornu's government has faced a series of no-confidence votes recently, and while he is expected to survive the latest challenges due to support from the Socialist party, the political landscape remains unstable. The budget aims to reduce the deficit to 5% of GDP by 2026, but the scrapping of pension reforms has complicated these goals.
-
-Given the ongoing political tensions and the potential for further no-confidence motions, predicting Lecornu's position as Prime Minister by December 31, 2026, is uncertain. His ability to maintain support within parliament and manage opposition will be crucial in determining his future.
+Title: Lecornu verwacht binnen 48 uur nieuwe Franse premier | Buitenlands nieuws
+Author: drimble.nl
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://drimble.nl/buitenlands-nieuws/104033603/lecornu-verwacht-binnen-48-uur-nieuwe-franse-premier.html
+Summary: Lecornu has been engaged in recent political negotiations in France, holding discussions with all parliamentary parties over the past two days. He is confident that the current political deadlock can be resolved without the need for new elections. Given his proactive approach and the ongoing efforts to stabilize the government, there is no immediate indication of Lecornu stepping down as Prime Minister before December 31, 2026. However, political circumstances could change, and his tenure will likely depend on the success of these negotiations and the broader political climate in France.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?
 
 **Market ID:** 0x0f1843cae1fa85c263c1f8118554fcff73f8af53d58d0f9fa5283490e69a7d94
-**Researched At:** March 1, 2026 at 02:35:16 PM UTC
+**Researched At:** March 8, 2026 at 02:34:54 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?"
 
 ---
@@ -9,47 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 6.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Early polls show Barnes with only ~10% committed support and 65% undecided, and no clear frontrunner has emerged, suggesting the market’s 51.5% price is likely too high. Low volume and a wide field heighten mispricing risk, but runway for campaign shifts keeps the error moderate.
+Early 2026 polling shows Barnes with top name recognition but no decisive lead amid 65% undecided voters, and fundraising favors other candidates. A 41% win probability is consistent with current uncertainty; there’s no strong signal of material mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Mandela Barnes will win the August 11, 2026 Wisconsin Democratic gubernatorial primary. It resolves YES if he is declared the overall winner (including any run-off), NO if another candidate wins or “Other” if no primary occurs.
+The market asks whether Mandela Barnes will emerge as the overall winner of the August 11, 2026 Wisconsin Democratic gubernatorial primary (including any run-off). A “YES” resolves if Barnes tops the field; “NO” if any other Democrat wins or if the primary does not occur.
 
 2. EVIDENCE EVALUATION  
-Bullish for Barnes (supports ~51.5% price)  
-• Name recognition: Marquette poll (Feb 11–19) shows highest name recognition among Dem candidates.  
-• Established network: Former lieutenant governor status implies fundraising and endorsements not captured in early polling.  
-• Timeline length: Six months remain for campaigning, giving Barnes time to consolidate undecideds.
+Bullish evidence for Barnes  
+• Name recognition: Marquette polling (Feb 2026) ranks Barnes highest among Democratic candidates.  
+• Early mover advantage: As a statewide runner-up in 2018, Barnes has existing campaign infrastructure.  
 
-Bearish on Barnes (suggests price too high)  
-• Voter preference: Same Marquette poll finds only 10% support for Barnes vs 11% for Francesca Hong among the 35% decided voters—inside a 6.3% margin of error.  
-• Weak frontrunner status: Multiple news pieces (Wisconsin Watch, Tone Madison) emphasize no clear leader, with other credible contenders (Rodriguez, Crowley) in the mix.  
-• High undecided share: 65% undecided in February indicates an open field; name recognition alone doesn’t guarantee vote share.  
+Bearish evidence  
+• Polling volatility and indecision: Marquette finds 65% of Dem primary voters undecided and Barnes tied with Rep. Francesca Hong within margin of error.  
+• No clear frontrunner: January fundraising reports show Milwaukee County Exec David Crowley raising more money, and early polls find no candidate above 10–15%.  
+• Field still stabilizing: Gambit Forecaster (Mar 1) notes volatile, evolving race dynamics; it refrains from projecting Barnes specifically.  
 
-Source credibility and recency: All polls and analysis are from reputable local outlets and Marquette University, published late Jan–Feb 2026.  
+Source credibility & recency  
+All cited polls and analyses date from Jan–Mar 2026, from reputable outlets (WPR/Urban Milwaukee, Marquette University, Gambit Forecaster). They uniformly depict an unsettled race with little that would lock in a >40% win probability for any one candidate.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• Justification for 51.5%: Traders may view early name recognition and institutional advantages as sufficiently indicative of eventual nominee status.  
-• Low volume risk: $5.4K turnover and narrow spread suggest that pricing may be driven by only a few participants rather than broad consensus.  
-• Ambiguity vs. oversight: The wide-open field could either deter other traders (if they deem it too early) or attract those bullish on Barnes—hard to tell which.
+• 41% is a plausible consensus: It reflects Barnes’s recognition offset by a huge undecided majority and competitive fundraising by rivals.  
+• Low volume may simply reflect early-stage uncertainty: informed traders may be waiting for voter preference consolidation or further polls before committing more capital.  
+• No obvious insider edge is visible; price likely aggregates limited publicly available data rather than idiosyncratic bias.
 
 4. MISPRICING ASSESSMENT  
-• The market seems to overstate Barnes’s win probability given current polling: with only ~10% committed support and no frontrunner, a sub-50% win chance is more plausible today.  
-• Yet the long runway and Barnes’s advantages prevent concluding an extreme mispricing >20c—most likely error lies in the 10–20c range.  
-• No disqualifying technicalities are missed; resolution terms are clear and haven’t changed.
+There is no concrete evidence of a >20-cent mispricing. Early polls leave outcome wide open, and 41% aligns with a scenario in which Barnes captures a plurality of a fragmented field but still faces a 60% chance of losing. The market price thus appears neither materially too high nor too low.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 30% (poll data strongly suggests under-50% chance but future shifts possible)  
-• Magnitude of mispricing: 20 cents (market at 51.5% vs an estimated ~30–35% true chance)  
-• Expected value ≈ 0.30 × 20 = 6 cents
+Strength of evidence that price is off by ≥5 cents: ~30%  
+Magnitude of potential mispricing: ~5 cents  
+Expected value ≈ 0.30 × 5 = 1.5 cents
 
-EXPECTED_VALUE: 6.0  
-SUMMARY: Early polls show Barnes with only ~10% committed support and 65% undecided, and no clear frontrunner has emerged, suggesting the market’s 51.5% price is likely too high. Low volume and a wide field heighten mispricing risk, but runway for campaign shifts keeps the error moderate.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Early 2026 polling shows Barnes with top name recognition but no decisive lead amid 65% undecided voters, and fundraising favors other candidates. A 41% win probability is consistent with current uncertainty; there’s no strong signal of material mispricing.  
 CONFIDENCE: low
 
 ---
@@ -58,50 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban Milwaukee
-Author: Rich Kremer
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
-Summary: A recent Marquette University poll indicates that while former Lt. Gov. Mandela Barnes has the highest name recognition among candidates in the 2026 Wisconsin Democratic primary for governor, he does not have a definitive lead in voter preference. The poll reveals that many voters remain undecided, which could significantly impact the outcome. Additionally, Francesca Hong, a state representative, is emerging as a strong contender. The dynamics of the race suggest that Barnes' recognition may not translate into votes, making the primary outcome uncertain. Factors such as voter sentiment, campaign strategies, and the performance of other candidates will be crucial in predicting whether Barnes can secure a victory in the primary.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The Gambit Forecaster's March 2026 report analyzes the current landscape of U.S. Senate and gubernatorial races, emphasizing that the primary season is just beginning and candidate fields are still stabilizing. While the forecast relies heavily on historical data and primary polling, it notes increased uncertainty and volatility in key races, including some Democratic pathways emerging in Senate contests. However, specific information about the Wisconsin gubernatorial Democratic primary, including Mandela Barnes's prospects, is not detailed in this report. The analysis suggests that early indicators and candidate dynamics are still evolving, making it difficult to definitively predict Barnes's chances in the 2026 Wisconsin Democratic gubernatorial primary at this stage.
 
 Title: Poll: Hong, Barnes top Democratic primary, but most undecided
 Author: Rich Kremer
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.wpr.org/news/marquette-poll-hong-barnes-democratic-primary-governor-supreme-court-undecided
-Summary: A recent Marquette University poll indicates that while former Lt. Gov. Mandela Barnes has the highest name recognition among candidates in the 2026 Wisconsin Democratic primary, he is not the clear frontrunner. The poll, conducted from February 11-19, revealed that 65% of Democratic primary voters remain undecided. Among those who have made a choice, Barnes and state Rep. Francesca Hong are nearly tied, with 10% supporting Barnes and 11% supporting Hong, a difference that falls within the poll's margin of error of 6.3%. This suggests that despite his name recognition from previous campaigns, Barnes has not secured a significant lead in voter preference. Additionally, 58% of voters reported only limited knowledge of the candidates, indicating that there is still potential for shifts in voter sentiment as the primary approaches.
+Summary: A recent Marquette University Law School poll indicates that while former Lt. Gov. Mandela Barnes has the highest name recognition among Democratic candidates for Wisconsin governor in 2026, he is not a clear frontrunner. The poll shows that 65% of Democratic primary voters remain undecided, and among those who have chosen, Barnes and Madison state Rep. Francesca Hong are essentially tied within the margin of error. Barnes's recognition stems from previous statewide campaigns, but this has not yet translated into a decisive lead in voter support. Overall, the primary remains highly competitive and unpredictable at this stage.
 
-Title: Marquette Law School Poll – A Comprehensive Look at the ...
-Author: Charles Franklin
-Published Date: 2026-02-25T14:34:58.266Z
-URL: https://law.marquette.edu/poll/
-Summary: The Marquette Law School Poll provides insights into public opinion that could be relevant for predicting the outcome of the 2026 Wisconsin Governor Democratic primary election, particularly regarding voter sentiment and key issues. While the poll primarily focuses on national issues, it reflects broader trends in public opinion that may influence local elections.
-
-1. **Public Sentiment on Leadership**: The poll indicates a general disapproval of the U.S. Supreme Court's handling of cases related to President Trump, with 56% of respondents disapproving of the Court's job performance. This discontent may resonate with voters seeking change in leadership, potentially benefiting candidates like Mandela Barnes who position themselves as alternatives to the status quo.
-
-2. **Economic Concerns**: A significant portion of the public (56%) believes that tariffs hurt the U.S. economy. Economic issues often play a crucial role in elections, and candidates who can effectively address economic concerns may gain an advantage. Barnes may need to articulate a clear economic vision that aligns with voter sentiments.
-
-3. **Voter Engagement**: The poll's methodology, which involved 1,003 adults nationwide, suggests a robust engagement with current political issues. High engagement levels can translate to higher voter turnout, which is critical for primary elections. Barnes's campaign strategies should focus on mobilizing voters who are concerned about economic policies and judicial decisions.
-
-4. **Demographic Insights**: While the poll does not specifically target Wisconsin demographics, understanding national trends can help predict local voter behavior. Barnes's
+Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban Milwaukee
+Author: Rich Kremer
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
+Summary: A recent Marquette University Law School poll indicates that while former Lt. Governor Mandela Barnes has the highest name recognition among Democratic candidates for Wisconsin governor in 2026, he is not the leading choice among Democratic voters. The poll also shows many voters remain undecided, and other candidates, such as Madison state Rep. Francesca Hong, are also vying for support. These factors suggest that Barnes's chances of winning the primary are uncertain and will depend on how voter preferences evolve as the campaign progresses.
 
 Title: No clear front-runner in Wisconsin governor's race
 Author: Brittany Carloni / Wisconsin Watch
 Published Date: 2026-01-26T00:00:00.000Z
 URL: https://wisconsinwatch.org/2026/01/in-wisconsin-governors-race-democrats-have-a-range-of-options-with-no-clear-front-runner/
-Summary: The Wisconsin governor's race for the Democratic primary in 2026 is currently wide open, with no clear front-runner among the candidates, including Mandela Barnes. Recent fundraising reports and performances at candidate forums indicate a competitive field with various options for voters, showcasing a mix of political experience, gender, and racial backgrounds. 
-
-Barnes, a former lieutenant governor, is part of a diverse group of candidates that includes Lt. Gov. Sara Rodriguez, Milwaukee County Executive David Crowley, and others. The lack of a dominant candidate suggests that the primary could be influenced by factors such as campaign strategies, voter turnout, and the candidates' ability to connect with the electorate. 
-
-Given the historical context of the Democratic primary in 2018, where multiple candidates competed without a clear leader, the dynamics of this race may similarly evolve as the election date approaches. Observers should monitor fundraising trends, candidate debates, and public sentiment to better gauge Barnes' chances of winning the primary.
+Summary: As of early 2026, the Wisconsin Democratic primary for governor features a diverse field, including former U.S. Senate candidate Mandela Barnes, who previously gained statewide recognition. However, recent campaign finance reports show no clear front-runner, with candidates like Milwaukee County Executive David Crowley leading in fundraising. Voter preferences remain uncertain, with a significant portion of Democratic voters still undecided, as indicated by an October 2025 poll where 81% had not made up their minds. The outcome of the primary remains unpredictable, and Barnes's previous statewide exposure does not guarantee victory.
 
 Title: What's ahead in Wisconsin politics in 2026? - Tone Madison
 Author: Christina Lieffring
 Published Date: 2026-01-12T00:00:00.000Z
 URL: https://tonemadison.com/articles/whats-ahead-in-wisconsin-politics-in-2026/
-Summary: The article from Tone Madison discusses the political landscape in Wisconsin as it approaches the 2026 elections, focusing on key figures and potential candidates. Notably, Mandela Barnes, who previously ran for U.S. Senate, is highlighted as a significant contender for the Democratic primary for governor. The piece includes insights from Madison politics reporters who analyze Barnes' previous campaign performance, his political alliances, and the current state of the Democratic Party in Wisconsin.
-
-Factors influencing Barnes' chances include his established name recognition, the evolving political climate, and the Democratic Party's strategies leading up to the primary. The article suggests that while Barnes has a strong base, he will face challenges from other potential candidates and must navigate the party's dynamics effectively to secure the nomination.
-
-In summary, Barnes' prospects in the 2026 Democratic primary will depend on his ability to leverage his past experiences, maintain party support, and respond to the political environment as it develops.
+Summary: The article discusses the upcoming political landscape in Wisconsin for 2026, highlighting key elections such as the Wisconsin Supreme Court race and local government contests. While it provides insights into the state's political climate, campaign dynamics, and voter engagement, it does not specifically address or provide information about Mandela Barnes's prospects or chances in the 2026 Democratic primary for Wisconsin Governor. Therefore, based on this content, there is no relevant information to predict whether Mandela Barnes will win the Democratic primary in 2026.
 
 

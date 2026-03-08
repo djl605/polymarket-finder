@@ -1,7 +1,7 @@
 # Research: Will Nate Morris be the Republican nominee for Senate in Kentucky?
 
 **Market ID:** 0x060e72bc4bb6b08e29d1ed0ec3a3fd348dc0aa5e2dd1d162cfb076005582f2ba
-**Researched At:** March 1, 2026 at 06:04:49 AM UTC
+**Researched At:** March 8, 2026 at 02:34:48 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Nate Morris be the Republican nominee for Senate in Kentucky?"
 
 ---
@@ -9,43 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 5.0¢
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Current polling places Morris at roughly 14–28% with a large undecided share, suggesting a win probability closer to 25–30% rather than 39.7%, though endorsements could yet swing undecideds. The market may modestly overvalue his surge potential.
+Current polling places Morris at only 17–20%, trailing Barr and Cameron, yet the market assigns him a 34% win chance. While his momentum and funding are real, there’s no clear evidence he’ll double his support, implying a likely ~15¢ overpricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Nate Morris will finish first in the May 19, 2026 Kentucky Republican Senate primary. “YES” resolves if he receives a plurality of votes over all other GOP candidates; “NO” if any other candidate wins or if no primary occurs.
+The market asks whether Nate Morris will win the May 19, 2026 Republican Senate primary in Kentucky. A “YES” requires Morris to finish first in that primary (or be declared the nominee in the event of a convention or no primary), while “NO” covers any other winner or no primary.
 
 2. EVIDENCE EVALUATION  
-Bearish (suggesting 39.7% is too high):  
-• Ground.news (2026-02-05) poll: Morris at only 14% behind Barr (24%) and Cameron (21%), with 38% undecided.  
-• Jasmyn Jordan/Breitbart (2026-02-28): Morris at 21% among likely voters—well below 50%.  
-• All polls consistently show a three-way race; no candidate above ~30%. Morris is generally in third or tied for second.  
-Bullish (supporting ~40%):  
-• Fabrizio, Lee & Associates polling (Breitbart/Feb 4, WCBM/Feb 4) shows Morris tied for first with 28%, and surging to 42% once voters learn of Kirk’s endorsement.  
-• $10 million Musk super-PAC & high-profile endorsements (Trump, Kirk) could break the deadlock, giving him a path to plurality in a crowded field.  
-Source credibility: Polling data come from reputable firms (Fabrizio Lee), but partisan outlets (Breitbart, Townhall) may highlight favorable numbers. Ground.news poll lacks detailed methodology. All data are within the last month.
+Bearish evidence (suggesting price too high):  
+• Independent polls (Barr campaign release, Feb 6) put Morris at just 17%, trailing Andy Barr (28%) and Daniel Cameron (27%).  
+• Local reporting (Lucas Aulbach, Feb 23) shows him about 10 points behind the leaders, currently still in third place.  
+Bullish evidence (supporting some upside):  
+• Morris has surged since June, gaining ~10–13 points over several months and raising big money (a $10 M Elon Musk PAC donation) plus Trump‐aligned endorsements, suggesting momentum could continue.  
+• Ballotpedia notes he leads in fundraising, endorsements, and media attention, which may translate to late gains.  
+Source credibility and recency: independent polls and Aulbach reporting are fairly credible and as recent as late February 2026; campaign press releases and Breitbart articles are partisan. No indication of firm Trump endorsement or new polls above 20% yet.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A ~40% price could reflect:  
-• A rough average of competing poll outcomes (~20–30% base support plus “surge potential”).  
-• The high undecided share (38%) shifting toward Morris late.  
-However, low volume means few traders may have set 39.7% based on headline endorsement stories rather than a weighted view of all polls. The tight spread suggests the market maker sees no strong arbitrage demand, not necessarily consensus among experts.
+A 34.4% price implies a belief Morris could nearly double his current 17–20% polling share before May. Low trading volume and tight spreads hint that a small number of bullish traders, rather than broad consensus, may be setting the price. If the outcome were truly obvious, more volume would likely test the price; its low volume suggests uncertainty or lack of broader engagement.
 
 4. MISPRICING ASSESSMENT  
-Given that most static polls place Morris below 30% and no clear frontrunner is guaranteed, a 39.7% win probability appears somewhat inflated. It likely overemphasizes his fundraising and endorsements without fully accounting for entrenched opponents and a large undecided bloc. Yet the endorsement “surge” effect is real and underpolling of that momentum is possible. There’s no single glaring omission in the price—just balanced uncertainty.
+Given consistent polling in the high teens and only moderate momentum gains so far, a >30% win probability seems high. Even allowing for continued momentum, doubling support in three months is speculative. There is no clear evidence of a slam‐dunk Trump endorsement or a collapse of both Barr’s and Cameron’s bases. This points to a likely mispricing of around 15 cents (34% price vs an implied ~19% fair chance based on current data).
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for ~10-15¢ overpricing: 50%  
-Magnitude of mispricing: ~10¢  
-Expected value = 0.50 × 10¢ = 5.0¢
+Strength of evidence: ~60% (polls are fairly reliable but momentum could surprise)  
+Magnitude of mispricing: ~15 cents  
+Expected value = 60% × 15 cents = 9 cents
 
-EXPECTED_VALUE: 5.0  
-SUMMARY: Current polling places Morris at roughly 14–28% with a large undecided share, suggesting a win probability closer to 25–30% rather than 39.7%, though endorsements could yet swing undecideds. The market may modestly overvalue his surge potential.  
+EXPECTED_VALUE: 9  
+SUMMARY: Current polling places Morris at only 17–20%, trailing Barr and Cameron, yet the market assigns him a 34% win chance. While his momentum and funding are real, there’s no clear evidence he’ll double his support, implying a likely ~15¢ overpricing.  
 CONFIDENCE: medium
 
 ---
@@ -54,49 +50,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Nate Morris: Being Called the ‘JD Vance 2.0’ Is the ‘Greatest Compliment
-Author: Jasmyn Jordan
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.breitbart.com/politics/2026/02/28/exclusive-nate-morris-being-called-the-jd-vance-2-0-is-the-greatest-compliment-i-could-receive-as-a-candidate/
-Summary: Nate Morris is currently a candidate in the competitive Republican Senate primary in Kentucky, with recent polling indicating a tight race among him and two other candidates, Daniel Cameron and Andy Barr. Morris, who describes himself as an outsider and disruptor, has gained significant momentum, aided by a $10 million super PAC investment from Elon Musk and the endorsement of the late Charlie Kirk, which he considers transformational for his campaign.
+Title: Nate Morris still trails in Kentucky Senate primary but gains in polls
+Author: Lucas Aulbach
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://eu.gainesville.com/story/News/politics/elections/2026/02/23/nate-morris-kentucky-senate-republican-primary-gaining-polls/88739610007/
+Summary: Nate Morris is currently trailing in the Kentucky Republican Senate primary but has gained significant momentum recently. Polls show him about 10 points behind frontrunners U.S. Rep. Andy Barr and former Attorney General Daniel Cameron, though he has made notable progress since entering the race in June. Morris has received substantial support, including a $10 million PAC donation from Elon Musk and endorsements from figures associated with Donald Trump. Despite still being in third place, Morris's campaign is surging, and he believes he is peaking at the right time ahead of the May 19 primary. His increasing support and recent momentum suggest he could potentially close the gap further, but it remains uncertain whether he will secure the nomination.
 
-Polling data shows Morris at 21% among likely Republican primary voters, with a notable lead when voters are informed of Kirk's endorsement. He emphasizes the importance of honoring Kirk's legacy and believes his campaign resonates with voters seeking change from established political figures. Morris also discusses legislative priorities, including election integrity measures, which he argues are crucial for restoring trust in the electoral process.
+Title: Nate Morris: Surging Polls Prove Kentuckians Sick of McConnell Machine
+Author: Sean Moran
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://www.breitbart.com/politics/2026/02/08/exclusive-nate-morris-surge-in-the-polls-a-testament-that-kentuckians-sick-of-the-mcconnell-machine/
+Summary: Nate Morris is gaining significant support in Kentucky's Republican Senate primary, with recent polls showing a 13% increase in backing since August and a 20% rise following endorsements from figures like Charlie Kirk. Morris positions himself as an outsider and a businessperson aligned with Trump-style politics, contrasting with established candidates like Rep. Andy Barr, who has seen no polling movement despite heavy spending by Mitch McConnell's campaign. Morris's surge suggests growing voter dissatisfaction with the traditional "McConnell machine" and indicates he could be a strong contender for the Republican nomination.
 
-Given these dynamics, Morris's chances of becoming the Republican nominee hinge on his ability to maintain and build upon his current support, leverage endorsements effectively, and address key voter concerns leading up to the May primary.
-
-Title: Elon Musk and Charlie Kirk-Backed Nate Morris Surges in Kentucky
-Author: Bradley Jaye 			 
-			 4 Feb 2026
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.breitbart.com/politics/2026/02/04/elon-musk-and-charlie-kirk-backed-nate-morris-surges-double-digits-in-kentucky-senate-race/amp/
-Summary: Nate Morris is gaining significant traction in the Republican Senate primary in Kentucky, positioning himself as a strong contender against established candidates Daniel Cameron and Andy Barr. Recent polling indicates that Morris is in a statistical tie for second place, despite being less known than his opponents. His support is growing rapidly, particularly among voters familiar with all three candidates, where he leads with 28% compared to Cameron's 26% and Barr's 25%.
-
-Key factors influencing Morris's rise include endorsements from influential figures like Donald Trump and the late Charlie Kirk, which have proven to be decisive in GOP politics. Kirk's endorsement, in particular, has shown to nearly double Morris's support when voters are aware of it. Additionally, Morris has a substantial financial advantage, bolstered by a $10 million donation from Elon Musk to his Super PAC, which is expected to enhance his visibility and messaging as the primary approaches.
-
-Morris's campaign focuses on strong conservative issues, such as an immigration moratorium and election integrity measures, which resonate with the MAGA base. As primary election day nears, his ability to capitalize on endorsements and financial backing, along with a compelling campaign message, will be critical in determining whether he secures the Republican nomination.
-
-Title: Nate Morris Surges Double Digits in the KY Senate Race After Backing of Elon Musk, Charlie Kirk - WCBM News-Talk Radio
+Title: Barr, Cameron, Morris, and nine others running in Republican primary for U.S. Senate in Kentucky on May 19 - Ballotpedia News
 Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://wcbm.com/national-headline/nate-morris-surges-double-digits-in-the-ky-senate-race-after-backing-of-elon-musk-charlie-kirk/
-Summary: Nate Morris has recently gained significant traction in the Kentucky Senate Republican primary, largely attributed to endorsements from high-profile figures like Elon Musk and Charlie Kirk. A recent poll by Fabrizio, Lee & Associates indicates that Morris has more than tripled his vote share, leading among voters familiar with all candidates. His support surged to 42% when voters were informed of Kirk's endorsement.
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://news.ballotpedia.org/2026/02/23/barr-cameron-morris-and-nine-others-running-in-republican-primary-for-u-s-senate-in-kentucky-on-may-19/
+Summary: Nate Morris is currently leading in polling, fundraising, endorsements, and media attention among the Republican candidates vying for the U.S. Senate seat in Kentucky in the May 19, 2026 primary. He has garnered support from notable figures such as Vice President J.D. Vance, Donald Trump Jr., Turning Point USA, and Elon Musk, which could position him favorably for an endorsement from Trump. Morris presents himself as a political outsider and emphasizes his alignment with America First Republican principles, distancing himself from establishment figures like Mitch McConnell. While Barr and Cameron have greater state-level name recognition and resources, Morris's recent lead in key campaign metrics suggests he is a strong contender to secure the Republican nomination.
 
-Morris's campaign focuses on a strict immigration policy, advocating for a moratorium on new immigration and the deportation of illegal immigrants. His favorable rating has increased dramatically since August, suggesting a growing appeal among Republican voters. The backing of influential supporters and a strong campaign message position him as a formidable contender for the nomination.
+Title: Nate Morris still trails in Kentucky Senate primary but gains in polls
+Author: Lucas Aulbach
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://eu.knoxnews.com/story/News/politics/elections/2026/02/23/nate-morris-kentucky-senate-republican-primary-gaining-polls/88739610007/
+Summary: Nate Morris is currently trailing in the Kentucky Senate primary but has been gaining momentum, closing the gap with frontrunners U.S. Rep. Andy Barr and former Attorney General Daniel Cameron. Recent polls show Morris about 10 points behind the leaders, but he has made significant gains since entering the race in June 2024. His campaign has received notable support, including a $10 million donation from Elon Musk's PAC and endorsements from figures associated with Donald Trump, such as Benny Johnson. Morris's increasing popularity among Republican voters and recent surge in polling suggest he could potentially secure the Republican nomination, though he is not yet the front-runner.
 
-Overall, if Morris continues to capitalize on his endorsements and maintain voter awareness, he could very well secure the Republican nomination for Senate in Kentucky.
-
-Title: Nate Morris Surges Double Digits in the KY Senate Race After Backing of Elon Musk, Charlie Kirk
-Author: Amy Curtis
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://gp.townhall.com/tipsheet/amy-curtis/2026/02/04/ky-poll-n2670676
-Summary: Nate Morris has recently gained significant traction in the Kentucky Senate race, reportedly tripling his vote share in the Republican primary following endorsements from prominent figures like Elon Musk and Charlie Kirk. This surge positions him as a strong contender to replace retiring Senator Mitch McConnell. The outcome of this primary is crucial, as it will influence the balance of power in the Senate. Given the backing from influential supporters and his rising popularity, Morris appears to be a serious candidate for the Republican nomination.
-
-Title: Republicans Locked in 3-Way Race to Succeed McConnell in Kentucky: Poll
+Title: Back-to-Back Independent Polls Put Barr in First Place in KY GOP Senate Primary - Andy Barr for Senate
 Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://ground.news/article/exclusive-charlie-kirk-backed-kentucky-senate-candidate-nate-morris-surging-in-race-to-replace-mitch-mcconnell
-Summary: The Republican primary race to succeed Mitch McConnell in Kentucky is currently competitive, with Rep. Andy Barr leading in early polling at 24%, followed closely by Daniel Cameron at 21% and Nate Morris at 14%. A significant portion of voters, 38%, remain undecided. The primary is scheduled for May 19, 2026, allowing time for campaigns to influence undecided voters. 
-
-Nate Morris's campaign has received substantial financial backing, including a notable $1.4 million contribution from Elon Musk to his super PAC, which may enhance his visibility and support. However, the current polling suggests he is trailing behind Barr and Cameron. The dynamics of the race could shift as the primary date approaches, but as of now, Morris faces challenges in gaining the necessary traction to secure the nomination.
+Published Date: 2026-02-06T00:00:00.000Z
+URL: https://barrforsenate.com/press-release/back-to-back-independent-polls-put-barr-in-first-place-in-ky-gop-senate-primary/
+Summary: Recent independent polls indicate that Andy Barr is leading in the Kentucky GOP Senate primary, with 28% support compared to Daniel Cameron's 27% and Nate Morris's 17%. Barr's rising popularity is attributed to his record of supporting President Trump’s policies, while Morris trails significantly despite substantial campaign spending. Given the current polling data, it appears unlikely that Nate Morris will secure the Republican nomination for Kentucky's Senate seat.
 
 

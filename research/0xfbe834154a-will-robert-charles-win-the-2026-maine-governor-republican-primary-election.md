@@ -1,7 +1,7 @@
 # Research: Will Robert Charles win the 2026 Maine Governor Republican primary election?
 
 **Market ID:** 0xfbe834154a7b7d8ec4ccd0f5468b58a113bdbf0e7c0a41876ae8b014ab94631b
-**Researched At:** March 1, 2026 at 06:08:33 AM UTC
+**Researched At:** March 8, 2026 at 02:34:54 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Robert Charles win the 2026 Maine Governor Republican primary election?"
 
 ---
@@ -9,48 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.5¢
+**Expected Value:** 8.0¢
 
 ### Summary
 
-Current polls give Charles a 28% plurality in a crowded field, which rarely translates into a 56.5% win chance absent very strong consolidation of undecided voters. The market may be modestly overpriced by ~15 cents, but uncertainty remains high.
+Recent polls show Charles leads with under 30% support and a large undecided bloc, suggesting true win odds closer to mid-40s rather than 61%. The market may be overvaluing his frontrunner advantage by ~16¢, yielding ~8¢ expected value.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Bobby (“Robert”) Charles will win the June 9, 2026 Republican gubernatorial primary in Maine. It resolves YES if he is the outright nominee (including any run‐off), NO otherwise.
+The market asks whether Robert “Bobby” Charles will win the June 9, 2026 Maine Republican gubernatorial primary (including any run-off). A YES resolution requires him to emerge as the overall winner; NO covers any other victor or no primary.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence  
-• Two contemporaneous polls (Feb 24) show Charles in the lead, with 28% support versus 12% for his nearest competitor. In a fragmented multi-candidate field, a 16-point lead can translate into a strong win probability.  
-• Pine Tree Poll headline calls it a “massive primary lead,” suggesting Charles may be polling even higher in some samples.  
-• His debate performance has not drawn major criticism and highlights resonant issues (immigration, drug policy), which may further consolidate support.
+Bearish evidence (points to overpricing):  
+• Three recent polls (Feb 24, Mar 4, Mar 5) show Charles leading with only 26–28% support in a crowded field.  
+• Roughly one-third of GOP voters remain undecided, and multiple credible challengers exist.  
+• A plurality lead in a multi-candidate race generally translates into win probabilities well below 60%, absent clear coalescing momentum.  
 
-Bearish evidence  
-• No poll shows Charles above 30%. A 28% plurality typically yields well below 56.5% win probability in an open primary with half-a-dozen credible contenders.  
-• Former Gov. Paul LePage’s standing (“good results” in the same poll) could consolidate the anti-Charles vote if he campaigns aggressively.  
-• The state GOP environment and a “likely Democratic” general landscape could depress turnout dynamics unexpectedly.
+Bullish evidence (supports ~61%):  
+• All polls consistently place Charles firmly in first place by 10–16 points, suggesting frontrunner status.  
+• Low name-recognition challengers may struggle to break through, increasing Charles’s eventual path to victory.  
 
-Source credibility & recency  
-• All polling is from late February 2026 (very recent) and comes from credible local outlets.  
-• Ballotpedia/Cook rating is lower-resolution for the primary but warns of a challenging environment overall.
+Credibility & recency: Polls are from late Feb and early Mar 2026, reputable local outlets but sample sizes/details unknown. No contradictory evidence; the undecided share is the key wildcard.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 56.5% price implies bettors view him as more than twice as likely to win as his current polling share. That can be rational if bettors believe undecideds will break heavily for the frontrunner or that other candidates will fade.  
-• Low $775 volume suggests few active traders; could reflect consensus among the handful paying attention or simply that most view the contest as non-actionable until conventions/endorsements shift the field.
+• A 61% price could reflect informed judgment that undecideds will coalesce or that Charles will solidify his position as lesser-known candidates drop out.  
+• Low $1.8 K volume and a 4¢ spread indicate sparse trading—price may stem from a few confident traders rather than broad consensus.  
+• The outcome isn’t obvious, so the low volume likely reflects limited attention rather than universal agreement.
 
 4. MISPRICING ASSESSMENT  
-• If Charles truly holds only ~28% support and faces a resurging LePage or consolidating second-place contender, his win probability is likely in the 35–45% range now—well below 56.5%.  
-• On the other hand, leaders in multi-way primaries often earn >50% win odds even with sub-30% polling if undecideds coalesce.  
-• There’s no clear evidence of a >20-cent mispricing—more a modest ~15-cent overvaluation given current data.
+• Poll-implied win chances likely hover around 40–45%, far below 61%.  
+• Some premium for frontrunner status is justified, but the undecided bloc and crowded field argue against >60% odds.  
+• No clear technical misinterpretation of market rules appears.  
+• Reasonable estimate of true win odds: ≈45%, implying a ~16-cent overpricing.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is too high: ~50% (polls vs. market gap)  
-• Magnitude of mispricing if real: ~15 cents  
-• Expected value = 0.50 × 15 = 7.5 cents
+Strength of evidence: 50% (moderate confidence that polls undercut a 61% win probability)  
+Magnitude of mispricing: 16¢  
+Expected value = 0.50 × 16¢ = 8¢
 
-EXPECTED_VALUE: 7.5  
-SUMMARY: Current polls give Charles a 28% plurality in a crowded field, which rarely translates into a 56.5% win chance absent very strong consolidation of undecided voters. The market may be modestly overpriced by ~15 cents, but uncertainty remains high.  
+EXPECTED_VALUE: 8  
+SUMMARY: Recent polls show Charles leads with under 30% support and a large undecided bloc, suggesting true win odds closer to mid-40s rather than 61%. The market may be overvaluing his frontrunner advantage by ~16¢, yielding ~8¢ expected value.  
 CONFIDENCE: medium
 
 ---
@@ -63,46 +62,30 @@ Title: Pine Tree Poll Shows Bad News for Collins and Mills, Good Results for LeP
 Author: Seamus Othot
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.themainewire.com/2026/02/pine-tree-poll-shows-bad-news-for-collins-and-mills-good-results-for-lepage-and-gives-bobby-charles-massive-primary-lead/
-Summary: The Pine Tree Poll indicates a significant lead for Bobby Charles in the Republican primary for the 2026 Maine Governor election, suggesting he is a strong contender. The poll shows unfavorable results for incumbent Senators Susan Collins and Angus King, while former Governor Paul LePage is performing well, which could influence the primary dynamics. Given Charles's substantial lead, he appears well-positioned to win the primary, but the overall political landscape, including LePage's popularity and Collins's challenges, may also play a crucial role in the final outcome.
+Summary: The Pine Tree Poll indicates that Bobby Charles is leading significantly in the upcoming Maine Republican primary, suggesting a strong chance of victory. Conversely, the poll shows unfavorable results for incumbent Senator Susan Collins and other candidates like Mills, while highlighting favorable outcomes for LePage. This data implies that Bobby Charles has a substantial primary lead, making him a likely contender to win the 2026 Maine Governor Republican primary.
+
+Title: New poll sheds light on key Maine primary races
+Author: WABI News Desk
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.wabi.tv/2026/03/05/new-poll-sheds-light-key-maine-primary-races/
+Summary: The provided article does not mention Robert Charles or any details about the Republican gubernatorial primary race in Maine. It states that Bobby Charles leads the Republican primary with 26%, but there is no information indicating whether he will win the nomination or details about other Republican candidates. Therefore, based on this information, it is unclear if Robert Charles will win the 2026 Maine Republican gubernatorial primary.
+
+Title: New poll breaks down key political races in Maine in 2026
+Author: Adam Bartow
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.wmtw.com/article/races-tightening-new-poll-key-races-senate-governor-cd2-maine/70607703
+Summary: The recent poll indicates that Bobby Charles currently leads the Republican primary for Maine governor with 28% support, holding a 16-point lead over his closest rival, Garret Mason. However, approximately one-third of Republican voters remain undecided, and the field includes several candidates with single-digit support. Given the sizable undecided segment and the current lead, Charles's victory is plausible but not guaranteed, as the race remains competitive and fluid at this stage.
 
 Title: Poll shows frontrunners in Maine governor’s race
 Author: 
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://spectrumlocalnews.com/me/maine/politics/2026/02/24/poll-shows-frontrunners-in-maine-governor-s-race
-Summary: A recent poll indicates that former U.S. Assistant Secretary of State Bobby Charles is currently the frontrunner in the Republican primary for the 2026 Maine governor's race, with 28% support. He is significantly ahead of his closest competitor, former Maine Senate Majority Leader Garrett Mason, who has 12%. Other Republican candidates include David Jones (7%), Ben Midgley (6%), Jonathan Bush (5%), Robert Wessels (4%), and Sen. Jim Libby (2%).
+Summary: The recent poll indicates that in the 2026 Maine Republican gubernatorial race, Bobby Charles currently leads with 28% support among Republican voters, making him the frontrunner at this stage. However, with 31% of respondents undecided and several other candidates like Garrett Mason, David Jones, Ben Midgley, Jonathan Bush, Robert Wessels, and Jim Libby also in the race, the primary remains highly competitive and unpredictable. Given the current support levels and the significant undecided voter percentage, Robert Charles's chances will depend on his ability to consolidate support and outperform other candidates as the primary approaches.
 
-With the primary scheduled for June 9, there is still time for dynamics to shift, as several candidates remain in the race. The poll reflects a competitive landscape, but Charles's lead suggests he is in a strong position to potentially win the primary, barring any significant changes in voter sentiment or campaign developments.
-
-Title: Candidates for Maine governor Troy Jackson, Bobby Charles exchange jabs in Auburn debate
+Title: Maine Primary Election Results 2026 : NPR
 Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.pressherald.com/2026/02/25/candidates-for-maine-governor-troy-jackson-bobby-charles-exchange-jabs-in-auburn-debate
-Summary: In a recent debate held in Auburn, Maine, gubernatorial candidates Troy Jackson and Bobby Charles engaged in a heated exchange, addressing key issues such as immigration, affordability, and drug addiction. The debate was characterized by personal attacks and a competitive atmosphere, which may influence voter perceptions ahead of the 2026 Republican primary. 
-
-To assess Bobby Charles' chances of winning the primary, consider the following factors highlighted in the debate:
-
-1. **Debate Performance**: Charles' ability to articulate his positions and counter Jackson's criticisms could sway undecided voters. His performance in this debate may be indicative of his overall campaign strategy and effectiveness.
-
-2. **Key Issues**: The topics discussed, including immigration and drug addiction, resonate with many voters. Charles' stance on these issues and how they align with the concerns of the Republican base will be crucial.
-
-3. **Voter Sentiment**: The debate's tone and the candidates' interactions may reflect broader voter sentiments. If Charles successfully positions himself as a strong alternative to Jackson, it could enhance his appeal.
-
-4. **Campaign Strategy**: Observing how Charles capitalizes on this debate in his campaign messaging moving forward will be important. His ability to connect with voters on pressing issues will be a determining factor in the primary.
-
-Overall, while the debate provided insights into both candidates, Charles' success in the primary will depend on his ability to resonate with Republican voters and effectively communicate his vision for Maine.
-
-Title: Maine gubernatorial election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Maine_gubernatorial_election,_2026
-Summary: The 2026 Maine gubernatorial election is set for November 3, 2026, with the Republican primary date still pending. As of now, the race is rated as "Likely Democratic" by the Cook Political Report, indicating a challenging environment for Republican candidates. Key factors to consider in predicting Robert Charles's chances in the Republican primary include his political background, campaign strategy, fundraising capabilities, and voter sentiment leading up to the election. Additionally, the dynamics of the Republican field, including potential challengers and their appeal to the electorate, will play a crucial role. For the most accurate predictions, monitoring polling data and voter engagement in the lead-up to the primary will be essential.
-
-Title: Two Maine candidates for governor face off in Auburn
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://spectrumlocalnews.com/me/maine/politics/2026/02/26/two-maine-candidates-for-governor-face-off-in-auburn
-Summary: In a recent debate in Auburn, Republican candidate Bobby Charles and Democratic candidate Troy Jackson presented starkly different visions for Maine's future. Charles, an attorney and former Naval Intelligence Officer, emphasized issues such as fentanyl overdoses, illegal immigration, and a bloated welfare budget, claiming Maine is in a "state of peril." He criticized Jackson, who has served as a legislator for 22 years, for not addressing these problems.
-
-Polling data indicates that Charles currently leads the Republican primary field with 28% support, while Jackson is in third place among Democrats at 16%. The debate highlighted both candidates' accusations of hypocrisy and ethics violations, with Jackson focusing on creating a fair tax system and reducing local property taxes, while Charles proposed eliminating the income tax over four years and reducing regulations on businesses.
-
-As Charles competes against several other Republican candidates, including former Senate Majority Leader Garrett Mason and healthcare tech executive Jonathan Bush, his ability to resonate with voters on key issues such as drug enforcement and economic reform will be crucial in determining his success in the upcoming primary on June 9, 2026.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/ME.html
+Summary: The NPR webpage for the 2026 Maine Primary Election Results currently shows no available results or detailed candidate information for the governor's race, including the Republican primary. As such, there is no data to assess or predict whether Robert Charles will win the 2026 Maine Republican gubernatorial primary. Voter registration deadlines and upcoming contests are noted, but specific candidate standings or polling data are not yet available.
 
 

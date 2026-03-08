@@ -1,7 +1,7 @@
 # Research: Will Zach Wahls be the Democratic nominee for Senate in Iowa?
 
 **Market ID:** 0x74e889ae900369de63774bf2ff1eca10ccc3e0295301425f6b4e32f4399aeec8
-**Researched At:** March 2, 2026 at 04:22:21 AM UTC
+**Researched At:** March 8, 2026 at 02:34:41 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Zach Wahls be the Democratic nominee for Senate in Iowa?"
 
 ---
@@ -9,53 +9,50 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 3.6¢
 
 ### Summary
 
-Current polling (30%–23% with 42% undecided) and mixed campaign signals support a roughly one-third chance for Wahls, matching the 33% market price. No clear, credible evidence of a large mispricing emerges.
+An internal poll shows Wahls leading by 18 points, suggesting the 33% price may be conservative, but absence of public polling and a still-competitive primary argue against a large mispricing. Investigating further may edge value by a few cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Zach Wahls be the Democratic nominee for Senate in Iowa?”  
-• YES if Wahls wins the 2026 Iowa Democratic U.S. Senate primary.  
-• NO if any other Democrat wins, if the primary is canceled or does not occur, or if the result announced is “Other.”  
+The market asks: Will State Senator Zach Wahls win the June 2026 Democratic primary for U.S. Senate in Iowa? A “Yes” requires Wahls to finish first (or sole winner) in that primary; a “No” includes any other nominee or no primary.  
 
 2. EVIDENCE EVALUATION  
-Bullish (for Wahls)  
-• NRSC poll (Feb 19): Wahls leads Turek 30%–23%, with 42% undecided. A 7-point lead in a three-way race is meaningful—if he holds or grows it, he could finish first.  
-• Wahls campaign internal poll (Newsweek, Feb 25): Double-digit lead over Turek. While likely biased, it suggests the campaign believes its ground game is strong.  
+Bullish evidence (Wahls likely):  
+• Newsweek (2026-02-25) internal poll: Wahls leads Turek by 18 points, with strong name recognition and favorability.  
+• Guest op-ed (The Gazette, 2026-02-27) praises Wahls as the strongest general-election candidate, signaling institutional support.  
+• National Democratic interest: reporting suggests party operatives view Wahls as the best general-election pick.  
 
-Bearish (against Wahls)  
-• Massive undecided bloc (42%) means volatility; Turek or a late entrant/endorsement swing could overtake Wahls.  
-• Sage endorsement of Turek may shift some progressive voters away from Wahls.  
-• Fundraising challenges noted by Belin could hamper Wahls’s ability to close out the campaign.  
+Bearish evidence (Wahls vulnerable):  
+• Press Citizen (2026-03-02): race “competitive and heated,” no clear primary leader as late as early March.  
+• Endorsement swing: Nathan Sage withdrew and backed Turek, criticizing Wahls as “artificial”—signal of intra-party dissent.  
+• Lack of independent, publicly released polls; current leads may not survive undecided voters or GOTV.  
 
-Source credibility & recency  
-• NRSC poll is external, date Feb 19 (recent, moderately credible).  
-• Newsweek internal poll is current but likely optimistic.  
-• Gazette and Substack articles describe endorsements and fundraising but offer no hard numbers on voter movement.  
+Source credibility: Press Citizen and The Gazette are reputable local outlets. Newsweek’s internal poll lacks full methodology disclosure and may overstate forward-looking support. All pieces are within the last two weeks, so recency is high.  
 
-Nothing in these sources indicates a near-certainty; all point to a competitive race with Wahls in the lead but far from a lock.  
+Because no publicly verifiable polls corroborate the +18 point margin, and because intra-party dynamics remain fluid with undecideds and endorsements still influencing, the evidence for a >50% win probability is suggestive but not definitive.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 33% price aligns closely with Wahls’s ~30% share in the NRSC poll and gives him some added edge for being “on top” in early ballots.  
-• Low volume suggests few participants, but the narrow spread (6¢) implies they agree on roughly one-third odds.  
-• It is plausible informed traders see a 30–40% win probability given high undecideds and mixed signals—consistent with a 33% price.  
+A 33% price could reflect:  
+• Conservative weighting of a single internal poll amid a still-competitive race.  
+• Risk discount for low-information (only one disclosed poll) and long horizon to the June primary.  
+• Potential that only a handful of traders have staked out a view, keeping the price anchored below wider consensus.  
+
+Low volume may stem from lack of public polling rather than obvious outcome. If institutional players aren’t convinced by the internal poll, they may stay sidelined.  
 
 4. MISPRICING ASSESSMENT  
-• No specific, credible evidence suggests a >20¢ deviation. Polling data and campaign signals seem mostly priced in.  
-• The race is fluid; undecideds and endorsements could swing it, so a one-third probability is defensible.  
-• Without fresh polling or a dramatic event, large mispricing seems unlikely.  
+The internal poll argues for a materially higher win probability (perhaps 60–70%), but without corroboration or independent confirmation, sensible traders may cap upside at ~40–50%. The gap between 33% and, say, 45% is under 12¢. Given remaining uncertainty (undecideds, campaign dynamics, low‐information environment), there’s no blockbuster mispricing (>20¢).  
 
 5. EXPECTED VALUE CALCULATION  
-• STRENGTH of evidence: 50% (moderately confident markets have digested the polling).  
-• MAGNITUDE of mispricing: 0 cents (no clear mispricing).  
-• Expected value = 0.50 × 0 = 0.0 cents.  
+Strength of evidence that price is too low: ~30% (single poll, no public replication).  
+Magnitude of plausible mispricing: ~12¢.  
+Expected value ≈ 0.30 × 12¢ = 3.6¢  
 
-EXPECTED_VALUE: 0.0  
-SUMMARY: Current polling (30%–23% with 42% undecided) and mixed campaign signals support a roughly one-third chance for Wahls, matching the 33% market price. No clear, credible evidence of a large mispricing emerges.  
+EXPECTED_VALUE: 3.6  
+SUMMARY: An internal poll shows Wahls leading by 18 points, suggesting the 33% price may be conservative, but absence of public polling and a still-competitive primary argue against a large mispricing. Investigating further may edge value by a few cents.  
 CONFIDENCE: medium
 
 ---
@@ -64,34 +61,36 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: NEW NRSC POLL: Wahls leading Turek in Iowa Democrat Primary – NRSC
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.nrsc.org/press-releases/new-nrsc-poll-wahls-leading-turek-in-iowa-democrat-primary-2026-02-19/
-Summary: A recent NRSC poll indicates that Zach Wahls is currently leading Josh Turek by 7 points in the Iowa Democratic primary, with Wahls receiving 30% of the vote compared to Turek's 23%. Notably, 42% of voters remain undecided, which could significantly impact the final outcome. Wahls is aligned with the more progressive wing of the Democratic Party, appealing to the party's radical voting base, while Turek is seen as the establishment candidate. This dynamic suggests that Wahls has a strong chance of securing the nomination, especially if he can maintain or grow his lead as the primary approaches. However, the high percentage of undecided voters indicates that the race is still competitive and could shift as more voters make their decisions.
+Title: Zach Wahls, Josh Turek go head to head as Iowa Senate primary narrows
+Author: Stephen Gruber-Miller 
+, 
+ Brianne Pfannenstiel
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://press-citizen.com/story/news/politics/elections/2026/03/02/zach-wahls-josh-turek-iowa-senate-primary/88743124007/
+Summary: Zach Wahls is currently one of the two leading candidates in Iowa's Democratic Senate primary, which has narrowed to a contest between him and Josh Turek. Wahls, a state senator known for defending gay marriage, positions himself as a progressive energizing working-class supporters, particularly organized labor. Turek, a moderate and former Paralympian, emphasizes electability in a general election, appealing to independents and disaffected Republicans. Neither candidate has a clear lead yet, and the race is becoming more competitive and heated. External factors, such as national Democratic and Republican influences and polling, suggest that Wahls remains a strong contender, with some Republican-leaning polls indicating he could be a formidable candidate in the general election. The outcome will depend on primary dynamics and broader electoral factors in Iowa.
 
 Title: Zach Wahls' chances of beating Josh Turek in Iowa Senate race: Poll - Newsweek
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
-URL: https://newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588
-Summary: Zach Wahls is currently leading State Representative Josh Turek by double digits in the Democratic primary for Iowa's open U.S. Senate seat, according to a recent internal poll from Wahls' campaign. This primary is significant as it follows Republican Senator Joni Ernst's decision not to seek reelection, creating a rare opportunity for Democrats to expand their presence in a closely divided Senate. The Cook Political Report has categorized the Iowa Senate race as "likely Republican," indicating that while Wahls has a strong lead in the primary, the general election may still present challenges. Overall, Wahls' current polling advantage suggests he is well-positioned to become the Democratic nominee.
+URL: https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588
+Summary: A recent internal poll indicates that Democratic State Senator Zach Wahls currently leads State Representative Josh Turek by 18 percentage points in the Iowa Democratic primary for the U.S. Senate seat, with Wahls holding a significant advantage in name recognition and favorability ratings. While public polling shows Wahls ahead of Turek, the race remains competitive with a notable percentage of undecided voters. Given Wahls' lead in the primary and his active campaign messaging focused on addressing economic issues and challenging the political establishment, he appears well-positioned to secure the Democratic nomination for the Iowa Senate seat.
 
 Title: Former candidate Sage endorses Turek, criticizes Wahls in Iowa Democrats’ U.S. Senate primary | The Gazette
 Author: Jeff Linder
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://www.thegazette.com/campaigns-elections/former-candidate-sage-endorses-turek-criticizes-wahls-in-iowa-democrats-u-s-senate-primary/
-Summary: In the Iowa Democratic Senate primary, former candidate Sage has publicly endorsed fellow candidate Turek while criticizing Zach Wahls. This endorsement could influence voter perceptions and support dynamics within the party. Wahls, who has been a prominent figure in the race, may face challenges due to this criticism and the backing of Turek by Sage, which could sway undecided voters. The evolving endorsements and public opinions will be crucial in predicting whether Wahls can secure the Democratic nomination.
+Summary: Nathan Sage, a former Democratic candidate for Iowa’s U.S. Senate, has endorsed state Rep. Josh Turek over state Sen. Zach Wahls, citing personal interactions that led him to perceive Turek as more genuine. Sage described Wahls as "artificial" and noted that his engagement with Wahls felt transactional. Both Turek and Wahls are competing for the Democratic nomination in Iowa’s open-seat Senate race, but Sage’s endorsement and comments suggest a preference for Turek. Given the current political landscape and projections from national forecasters indicating a likely Republican victory, Wahls’s prospects as the Democratic nominee may face challenges, especially considering the lack of strong endorsement from Sage and the overall competitive environment.
 
-Title: Zach Wahls' chances of beating Josh Turek in Iowa Senate race: Poll - Newsweek
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://europe.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588
-Summary: Zach Wahls is currently leading State Representative Josh Turek by double digits in the Democratic primary for Iowa's open U.S. Senate seat, according to a recent internal poll from Wahls' campaign. This significant lead suggests that Wahls has a strong chance of becoming the Democratic nominee. The article emphasizes the importance of this primary race, particularly as it could impact the broader political landscape in Iowa, especially with Republican Senator Joni Ernst also in the mix. Overall, Wahls' current polling advantage positions him favorably in the race for the nomination.
+Title: My Take on the Iowa Democratic Senate Primary
+Author: Robert Leonard
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://rleonard.substack.com/p/my-take-on-the-iowa-democratic-senate
+Summary: Nathan Sage, a grassroots candidate with a strong working-class background, initially ran for the Democratic Senate primary in Iowa but withdrew and endorsed Josh Turek. Sage expressed strong negative opinions about Zach Wahls, criticizing him as insincere and career-oriented, and favoring Turek due to shared rural roots and military service. Given Sage’s withdrawal and endorsement of Turek, combined with his open criticism of Wahls, the likelihood of Wahls securing the Democratic nomination appears uncertain and may depend on how the primary unfolds among remaining candidates.
 
-Title: Sizing up Wahls vs. Turek after Democratic primary shake-up
-Author: Laura Belin
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://laurabelin.substack.com/p/sizing-up-wahls-vs-turek-after-democratic
-Summary: The article discusses the recent developments in the Iowa Democratic primary, particularly focusing on the candidates Zach Wahls and Josh Turek. Following the withdrawal of Nathan Sage from the Senate race due to financial constraints, the dynamics between Wahls and Turek have shifted. Wahls, known for his grassroots support and advocacy for working-class issues, is positioned as a strong contender. The piece highlights the challenges candidates face in fundraising and the influence of money in politics, which could impact Wahls' campaign strategy and viability. As the primary approaches, Wahls' ability to mobilize support and resources will be crucial in determining if he secures the Democratic nomination for Senate in Iowa.
+Title: Wahls is our best bet to beat Hinson | The Gazette
+Author: Elijah Decious
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.thegazette.com/guest-columnists/wahls-is-our-best-bet-to-beat-hinson/
+Summary: The article advocates for Zach Wahls as the best candidate to challenge incumbent Republican Senator Joni Ernst in Iowa. It highlights Wahls' grassroots approach, his focus on addressing everyday issues like healthcare, housing, and costs, and his willingness to confront corruption and special interests—traits that resonate with Iowa voters. The piece emphasizes Wahls' ability to earn trust through genuine engagement and his anti-corruption stance, positioning him as a strong contender who can unite Democrats, independents, and disillusioned voters. While it does not explicitly confirm his candidacy, the positive portrayal and emphasis on his qualities suggest he is a leading figure in the Democratic primary race for the Iowa Senate seat.
 
 

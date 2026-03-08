@@ -1,7 +1,7 @@
 # Research: Will Aryna Sabalenka win the 2026 Women’s French Open?
 
 **Market ID:** 0x04b07eb732d888c94096b4fc46dc747b745e06749c21ed2e633ca7e1a6586647
-**Researched At:** March 1, 2026 at 06:10:49 AM UTC
+**Researched At:** March 8, 2026 at 02:35:10 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Aryna Sabalenka win the 2026 Women’s French Open?"
 
 ---
@@ -9,46 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.0¢
+**Expected Value:** 0.4¢
 
 ### Summary
 
-Bet odds imply Sabalenka’s win chances closer to 28–31%, above the market’s 21.5%, but that gap is largely explained by bookmaker vig and clay-court uncertainty. There is no clear, large (>20¢) mispricing given the competitive field and low market volume.
+Sabalenka’s ~26.5% chance matches multiple independent sportsbook odds (26.7–28.6%) and is supported by her recent Grand Slam performance on clay; there’s no credible evidence of a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Aryna Sabalenka will win the 2026 Women’s French Open (Roland Garros), resolving YES if she lifts the Women’s Singles trophy and NO otherwise (including if she withdraws before play or loses).  
+The market asks whether Aryna Sabalenka will win the 2026 Women’s French Open singles title (May 18–June 7, 2026). It resolves YES only if she is the tournament champion; if she cannot possibly win (e.g., is eliminated or withdraws) it resolves NO; if the tournament is canceled, postponed past July 31, or yields no champion it resolves OTHER.
 
 2. EVIDENCE EVALUATION  
 Bullish evidence:  
-• ESPN (2026-02-01) and Tennis365 (2026-01-01) both rank Sabalenka among the top contenders, citing her World No. 1 status, recent Grand Slam finals, and strong clay adaptability—but they stress a competitive field (Swiatek, Gauff, Andreeva).  
-• Betting futures (BetMGM +225, BetRivers +220) imply a ~28–31% implied win probability, above the market’s 21.5%.  
+- Multiple sportsbooks list Sabalenka at roughly +250 to +275 (~26.7–28.6% implied probability).  
+- She was 2025 runner-up and 2024 semifinalist, and has clay-court titles (three Madrid Opens).  
+- ESPN and sports-betting analyses cite her consistent top-5 ranking and motivation for a first major on clay.
 
-Bearish evidence:  
-• No direct recent clay-specific statistics; no mention that she’s beaten top clay specialists (e.g., Swiatek) head-to-head on clay, suggesting uncertainty.  
-• Competition on clay favors specialists (Swiatek four-time Roland Garros champ) which may justify discounting raw book odds.  
+Bearish/uncertain evidence:  
+- She had some early exits in 2025 majors (though overshadowed by her deep French runs).  
+- Some odds pages (FanDuel Research, Canada Sports Betting) still list her chance as “TBD,” reflecting residual uncertainty and other contenders (Swiatek, Gauff).
 
-Source credibility: All sources (ESPN, WTA, major bookmakers) are reputable and current (Jan–Feb 2026).  
+Source credibility and recency:  
+- ESPN and reputable sportsbooks (SportsBettingSites, JustBookies) are credible; all data from February 2026, so highly relevant.
 
-Neither side provides hard data that the market has clearly missed; betting odds do suggest somewhat higher fair probability, but they include vig and reflect alternative risk appetites.  
+No source strongly contradicts the ~26–28% probability; instead, independent odds markets converge around the current 26.5%.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 21.5% probability can reflect a consensus that Sabalenka is in the top tier but slightly behind Swiatek on her favorite surface, or simply underpricing due to low-volume illiquidity. The $590 volume and 5¢ spread imply minimal engagement—so the price could equally be one or two traders’ opinions rather than broad consensus.  
+- The 26.5% price aligns tightly with broad sportsbook consensus.  
+- Low volume likely reflects how distant the tournament is and limited market attention, not systematic mispricing.  
+- Informed bettors have established this probability already in larger betting markets, and this market has simply tracked that consensus.
 
 4. MISPRICING ASSESSMENT  
-The primary numerical anchor (futures odds ~28–31%) exceeds the market’s 21.5% by ~6–9¢. However, accounting for vig and clay-surface uncertainty likely explains most of that gap. No specific, high-confidence evidence suggests >20¢ mispricing.  
+- There is no clear, credible evidence that the market has overlooked any material factor that would shift her win probability by more than a few percentage points.  
+- The current price appears efficient, reflecting known form, surface strengths, competition, and betting-market odds.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: ~50% (bettor odds vs. market price)  
-Magnitude of mispricing: ~6¢  
-Expected value = 0.5 × 6¢ = 3¢  
+- Strength of evidence: 20% (evidence strongly supports current pricing).  
+- Magnitude of potential mispricing: ~2 cents.  
+- Expected value ≈ 0.2 × 2 = 0.4 cents.
 
-6. CONFIDENCE  
-medium  
-
-EXPECTED_VALUE: 3  
-SUMMARY: Bet odds imply Sabalenka’s win chances closer to 28–31%, above the market’s 21.5%, but that gap is largely explained by bookmaker vig and clay-court uncertainty. There is no clear, large (>20¢) mispricing given the competitive field and low market volume.  
+EXPECTED_VALUE: 0.4  
+SUMMARY: Sabalenka’s ~26.5% chance matches multiple independent sportsbook odds (26.7–28.6%) and is supported by her recent Grand Slam performance on clay; there’s no credible evidence of a significant mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -57,63 +59,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Tennis Futures | 2026 Women's French Open | SBS
+Author: Trent Reinsmith
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://www.sportsbettingsites.com/blog/iga-swiatek-win-2026-womens-french-open-futures/
+Summary: Aryna Sabalenka is one of the top betting favorites to win the 2026 Women’s French Open, with odds around +250 to +275 across various sportsbooks, indicating strong confidence in her potential to secure the title. Last year, Sabalenka reached the semifinals, losing to Coco Gauff. The tournament begins on May 24, 2026, at Roland Garros in Paris. While Sabalenka's recent performance and high betting odds suggest she is a serious contender, the competition includes other top players like Iga Swiatek and Coco Gauff. Her previous semifinal appearance and current betting favorability make her a key player to watch for a potential victory.
+
 Title: Way-too-early Grand Slam predictions for the rest of 2026 - ESPN
 Author: D'Arcy Maine
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.espn.com/tennis/story/_/id/47789264/grand-slam-predictions-french-open-wimbledon-us-open
-Summary: The ESPN article discusses early predictions for the remaining Grand Slam tournaments of 2026, including the Women's French Open. Aryna Sabalenka, currently a top contender, has shown strong performance in recent tournaments, maintaining her position at the top of the WTA rankings. Factors influencing her potential success at the French Open include her recent form, head-to-head matchups against other top players, and her adaptability on clay courts. The article suggests that while Sabalenka is a favorite, the competition remains fierce, with other strong players also in contention. Overall, her chances appear promising, but the outcome will depend on her performance leading up to the tournament and during the event itself.
+URL: https://www.espn.in/tennis/story/_/id/47789264/grand-slam-predictions-french-open-wimbledon-us-open
+Summary: Aryna Sabalenka, who was the runner-up at the 2025 French Open, is motivated to win her first major on clay and has demonstrated strong performance on similar surfaces, including three Madrid Open titles. Despite a challenging 2025 season with early exits at some Grand Slams, she remains a top contender for the 2026 French Open, especially given her past success and desire to claim her first major title on clay.
 
-Title: Sabalenka & Gauff success, Alcaraz & Sinner dominate: 2026 Grand ...
-Author: Oli Dickson Jefford
-Published Date: 2026-01-01T00:00:00.000Z
-URL: https://www.tennis365.com/tennis-features/predicting-grand-slam-singles-champions-2026-sinner-alcaraz-sabalenka-swiatek
-Summary: The article discusses predictions for the 2026 Grand Slam tournaments, highlighting Aryna Sabalenka's strong potential to win the Women's French Open. Sabalenka successfully defended her US Open title in 2025 and has reached the finals at the Australian Open multiple times, indicating her competitive edge. The women's singles field is expected to be tight, with notable contenders like Iga Swiatek, Coco Gauff, and others. However, Sabalenka's recent form and experience in high-stakes matches position her as a strong candidate for the title at Roland Garros.
-
-Title: 2026 Women's French Open Betting Odds
-Author: Ron Halfback
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.sportsbetting3.com/odds/womens-french-open-betting-odds
-Summary: To assess Aryna Sabalenka's chances of winning the 2026 Women’s French Open, consider the following key points from the latest betting odds and insights:
-
-1. **Current Odds**: Aryna Sabalenka is listed with futures odds of +225 at BetMGM and +220 at BetRivers, indicating she is among the top contenders for the title, closely matched with Iga Swiatek, who also has odds of +225 at BetMGM.
-
-2. **Competitors**: The primary competition includes Iga Swiatek, Cori Gauff, and Mirra Andreeva, all of whom have strong odds as well. Swiatek's equal odds suggest a highly competitive field.
-
-3. **Tournament Structure**: The French Open is played at Roland Garros, with matches starting in late May and culminating in early June. Monitoring the odds as the tournament progresses can provide insights into Sabalenka's performance and potential adjustments in her betting line.
-
-4. **Form and Performance**: While the webpage does not provide specific recent performance data, Sabalenka's historical performance in Grand Slam tournaments and her current form leading up to the event will be crucial in predicting her success.
-
-5. **Betting Insights**: The site offers a tennis betting guide and handicapping tips, which could provide additional strategies for evaluating Sabalenka's chances based on matchups and conditions during the tournament.
-
-In summary, Aryna Sabalenka is a strong candidate
-
-Title: Burning questions: Can Sabalenka hold No. 1? Does 2026 deliver a ...
-Published Date: 2025-12-26T00:00:00.000Z
-URL: https://www.wtatennis.com/news/4421341/burning-questions-which-player-has-the-best-chance-of-winning-her-first-slam-in-2026
-Summary: The article discusses key questions surrounding the WTA Tour as the 2026 season approaches, particularly focusing on Aryna Sabalenka's potential to maintain her status as World No. 1 and her chances at winning major titles, including the French Open. 
-
-To predict whether Sabalenka will win the 2026 Women’s French Open, consider the following points highlighted in the article:
-
-1. **Current Form and Ranking**: Sabalenka's performance leading up to the French Open will be crucial. As the reigning World No. 1, her consistency and ability to handle pressure will be tested throughout the season.
-
-2. **Competition**: The article mentions other top players, including Amanda Anisimova and Coco Gauff, who are also in contention for major titles. Their performance in the lead-up to the French Open could impact Sabalenka's chances.
-
-3. **Previous Performance**: Analyzing Sabalenka's past performances on clay and at the French Open specifically will provide insights into her potential success. Her ability to adapt her game to the clay surface will be a key factor.
-
-4. **Injury and Fitness**: The offseason and early tournaments will reveal her physical condition. Any injuries or fitness issues could hinder her performance.
-
-5. **Mental Resilience**: Sabalenka's mental toughness, especially in high-stakes matches, will be critical. The article hints at the importance of handling pressure as she aims to defend her ranking and pursue another Grand Slam
-
-Title: Aryna Sabalenka vs: Elena Rybakina: Tennis expert reveals 2026 Australian Open women's final picks, bets, predictions - CBS Sports
+Title: Ladies' French Open Tennis Odds 2026 | Women's French Open Betting
 Author: 
-Published Date: 2026-01-31T00:00:00.000Z
-URL: http://www.cbssports.com/tennis/news/2026-australian-open-womens-final-odds-prediction-expert-picks-sabalenka-2-5-games-vs-rybakina/
-Summary: The article discusses the upcoming 2026 Australian Open women's final between Aryna Sabalenka and Elena Rybakina, providing insights that could be relevant for predicting Sabalenka's performance in future tournaments, including the 2026 Women’s French Open. 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://www.justbookies.com/ladies-french-open-tennis-odds/
+Summary: The webpage provides betting odds for the 2026 Women’s French Open, highlighting Aryna Sabalenka as a strong contender with odds around 5/2 across multiple bookmakers. This indicates she is considered one of the top favorites to win the tournament. Her consistent high placement in the odds suggests a significant likelihood of victory, making her a key player to watch when assessing the potential winner of the 2026 Women’s French Open.
 
-Sabalenka, a four-time Grand Slam champion, is currently the top seed and a favorite in the final against Rybakina, who is the fifth seed and has previously won Wimbledon. The odds indicate Sabalenka as a -165 favorite, suggesting strong confidence in her ability to win. Additionally, Sabalenka's recent form includes victories in both the 2023 and 2024 Australian Opens, showcasing her consistency on hard courts.
+Title: French Open Odds & Betting Sites | Latest Predictions
+Author: 
+Published Date: 2026-02-13T00:00:00.000Z
+URL: https://www.canadasportsbetting.ca/betting-odds/tennis/french-open/
+Summary: The webpage provides current and upcoming odds for the 2026 French Open, including the women's singles winner. As of now, specific odds for Aryna Sabalenka are not available ("TBD"). The 2025 women's champion was Coco Gauff, who defeated Aryna Sabalenka, indicating Sabalenka's strong competition level. To predict Sabalenka's chances in 2026, consider her recent performance, ranking, and the absence of current odds—these suggest that her prospects are uncertain at this time. Monitoring future odds and expert predictions once they are released will be essential for a more accurate assessment.
 
-Expert predictions from Jose Onorato favor Sabalenka to win by at least 2.5 games, reflecting her dominance in recent matches. This performance history, combined with her experience in high-stakes matches, positions her as a strong contender for future Grand Slam events, including the French Open. 
-
-Overall, Sabalenka's track record and current form suggest she could be a favorite for the 2026 Women’s French Open, depending on her performance in the Australian Open final and any potential injuries or changes in form leading up to the French Open.
+Title: French Open Betting Odds for 2026 Men's and Women's Tournaments | FanDuel Research
+Author: 
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.fanduel.com/research/french-open-betting-odds-for-2026-men-s-women-s-tournaments-2026
+Summary: The webpage provides betting odds and predictions for the 2026 French Open, including insights into player performances and tournament favorites. While specific odds for Aryna Sabalenka are not detailed, the site offers general information on women's tennis predictions, player prop bets, and tournament analyses that could inform her chances. To assess whether Sabalenka might win the 2026 Women's French Open, consider her recent performance trends, head-to-head records, and betting odds trends available on the platform closer to the tournament date.
 
 

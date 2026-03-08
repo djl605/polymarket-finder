@@ -1,58 +1,56 @@
 # Research: Will Zach Lahn win the 2026 Iowa Governor Republican primary election?
 
 **Market ID:** 0x1d019f06ed90710a2defd8d71224a1d36a30293aeb59d38ce428c4e6bb55d366
-**Researched At:** March 1, 2026 at 02:35:07 PM UTC
+**Researched At:** March 8, 2026 at 02:34:47 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Zach Lahn win the 2026 Iowa Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 3.0¢
+**Confidence:** Medium
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Lahn is a well-funded outsider with niche issue appeals but lacks polling, major endorsements, or fundraising leads against higher-profile rivals. The 26.3% price thus seems modestly stretched but uncertain.
+There’s no polling or fundraising data to suggest Lahn’s win probability is materially different from ~18%, and media coverage only confirms he’s a visible but unproven contender. The current price appears broadly reasonable given the uncertainty.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Zach Lahn win the June 2, 2026 Iowa Republican gubernatorial primary?” A “YES” (pays $1) requires Lahn to finish first outright (including any run-off); anything else—including him placing second or third or no primary—resolves “NO.”
+The market asks: “Will Zach Lahn win the June 2, 2026 Iowa GOP gubernatorial primary?” A YES requires Lahn to top all other Republican candidates in that primary (including any run-off). NO covers any other winner or no primary.
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• Lahn is self-funded, has an “Iowa First” brand, and has drawn some health-focused endorsements.  
-• His “Melania” screening play aims to court Trump voters in Iowa.  
+Bullish on Lahn  
+• Recent media coverage (Daily Beast, Des Moines Register, Radio Iowa, Carlson appearance) shows Lahn running a visible, policy-driven campaign on issues like big ag, data centers, farmland ownership, public health.  
+• Media mentions demonstrate some traction and grassroots attention, but none cite polling or strong donor backing.  
+Bearish on Lahn  
+• No published polls place Lahn as frontrunner or even among top tier.  
+• No Trump endorsement yet, despite overt attempts (Melania screening).  
+• The field includes established state legislators who likely have deeper networks and funding.  
 
-Bearish signals:  
-• He is one of at least five well-known contenders (e.g. U.S. Rep. Randy Feenstra), none of whom appear to have stepped aside or capitulated.  
-• No public polling shows Lahn leading or near the top; local press has covered his issue pitches but not rising poll numbers.  
-• Recent endorsements (Trump’s or otherwise) have not materialized, and Trump backs nobody yet.  
-• His most visible stunts (film screening) are labeled “cringe” by national outlets.  
-
-Credibility & recency: All sources are from Feb–Nov 2025/26, local Iowa outlets and national commentary—reasonably current but offering no hard polling. No obvious data that the market has missed; the absence of strong polling is itself telling.
+Source credibility and recency  
+• All articles are from February 2026, credible local and national outlets. None include quantitative support for Lahn’s standing or odds.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 26.3% price implies he is seen as one of the top two or three in a crowded field, rather than a pure long-shot.  
-• Low $2K volume & tight spread suggest a few players set the price rather than deep aggregate wisdom.  
-• The field is fluid, and informed traders may indeed be sitting out until polling emerges.
+• A ~18.4% price implies traders believe Lahn is an outside contender but not a prohibitive long shot.  
+• Low volume suggests either consensus around “mid-teens” chance or simply lack of engagement by informed traders.  
+• Lack of granular info (polls, fundraising totals) means few data points for price discovery.  
 
 4. MISPRICING ASSESSMENT  
-• There is no clear polling or fundraising edge for Lahn and substantial downside risk from better-known rivals.  
-• A “fair share” in a six-way might be ~17%; 26% implies he has real traction—yet we lack evidence of that traction.  
-• However, no single data point (e.g. a major endorsement or poll) is missing from the market that would make him a >50% favorite.  
-
-Conclusion: There is some reason to suspect a modest overpricing (e.g. by ~10 cents), but evidence is weak and ambiguous. Traders might simply be over-weighting small endorsements or his self-funding.
+• No concrete data supports raising the probability significantly above ~20%.  
+• Equally, no evidence suggests Lahn is so weak that <10% would be more accurate.  
+• The market price sits in a reasonable “ballpark” given his visible but unquantified campaign.  
+• No overlooked resolution criteria or technicality appear relevant.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 30% (informative but incomplete)  
-• Magnitude of mispricing: 10 ¢ (26% vs. a more realistic ~16%)  
-• Expected value = 0.3 × 10 ¢ = 3 ¢
+• Strength of evidence that the market is mispriced: ~20% (no specific mispricing signal)  
+• Potential mispricing magnitude: ~5¢ (if price should be 15%–20% instead of 18.4%)  
+• Expected value ≈ 20% × 5¢ = 1¢  
 
-EXPECTED_VALUE: 3  
-SUMMARY: Lahn is a well-funded outsider with niche issue appeals but lacks polling, major endorsements, or fundraising leads against higher-profile rivals. The 26.3% price thus seems modestly stretched but uncertain.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1  
+SUMMARY: There’s no polling or fundraising data to suggest Lahn’s win probability is materially different from ~18%, and media coverage only confirms he’s a visible but unproven contender. The current price appears broadly reasonable given the uncertainty.  
+CONFIDENCE: medium
 
 ---
 
@@ -64,43 +62,30 @@ Title: GOP Iowa Gov Hopeful Zach Lahn Makes Cringe Play for Trump With Melania S
 Author: 
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.thedailybeast.com/gop-iowa-gov-hopeful-zach-lahn-makes-cringe-play-for-trump-with-melania-screening/
-Summary: Zach Lahn, a Republican gubernatorial hopeful in Iowa, is attempting to secure support for the 2026 primary by hosting a free screening of the film "Melania," which focuses on former First Lady Melania Trump. This event, dubbed a “LFG Rally & Melania Film Showing,” aims to attract attention and potentially gain the endorsement of Donald Trump, who has not yet endorsed any candidate in the race to replace retiring Governor Kim Reynolds. 
-
-Lahn's strategy reflects a broader trend among GOP candidates, as other politicians have also hosted similar screenings to curry favor with Trump. The Iowa gubernatorial race includes several contenders, such as Adam Steen and Eddie Andrews, making the competition for the Republican nomination fierce. 
-
-While Trump's endorsements are highly coveted, recent events have shown that they do not guarantee success, as evidenced by the loss of a Trump-backed candidate in a Texas special election. Lahn's appeal to Trump supporters and his ability to connect with the base will be crucial in determining his chances in the primary. The effectiveness of his strategy, alongside the dynamics of the race and the performance of other candidates, will ultimately influence whether he can secure the nomination.
+Summary: Zach Lahn, a Republican candidate for Iowa governor, recently hosted a free screening of Melania Trump's movie in an apparent effort to garner support and potentially secure President Trump's endorsement, which has yet to be announced. While Lahn's strategic move indicates his attempt to align himself with Trump’s influence, there is no indication of his current standing in the primary race or evidence suggesting he is favored to win. Other GOP candidates include current and former state legislators, but the race remains competitive and uncertain. Overall, Lahn's recent campaign activity reflects efforts to boost his visibility, but it does not provide conclusive insight into his prospects for winning the 2026 Republican primary.
 
 Title: The Des Moines Register - Des Moines, Iowa, News and Sports
 Author: 
 Published Date: 2026-02-19T00:00:00.000Z
 URL: http://archive.desmoinesregister.com/story/news/politics/elections/2026/02/19/zach-lahn-iowa-cancer-crisis-big-agriculture/88703534007/
-Summary: The webpage from the Des Moines Register does not provide specific information about Zach Lahn or the 2026 Iowa Governor Republican primary election. However, it includes various local news articles and sports updates relevant to Iowa, which may indirectly reflect the political climate or public interest in candidates. For insights into Lahn's chances, consider looking for articles on his campaign activities, polling data, endorsements, and public reception, which are typically covered in local news outlets. For a more targeted analysis, you may want to explore dedicated political coverage or opinion pieces discussing the Republican primary landscape in Iowa.
+Summary: The provided webpage contains recent news and events from Des Moines, Iowa, including weather updates, sports highlights, and local stories. However, there is no information related to Zach Lahn or details about the 2026 Iowa Governor Republican primary election. Therefore, the webpage does not offer any relevant data or insights to predict whether Zach Lahn will win the primary.
 
 Title: Zach Lahn says Iowa must confront big ag as it fights rise in cancer
 Author: Brianne Pfannenstiel
 Published Date: 2026-02-19T00:00:00.000Z
 URL: http://www.desmoinesregister.com/story/news/politics/elections/2026/02/19/zach-lahn-iowa-cancer-crisis-big-agriculture/88703534007/
-Summary: Zach Lahn, a Republican gubernatorial candidate in Iowa, is emphasizing the state's rising cancer rates as a critical issue in his campaign. He identifies the agriculture industry as a significant factor contributing to these rates, calling it the "elephant in the room." Lahn argues that addressing cancer is paramount for Iowa's future, stating that success cannot be claimed if the state continues to have one of the highest cancer rates in the nation.
-
-His campaign focuses on the need for independent research into agricultural chemicals and the potential banning of harmful substances, while also advocating for the health of farmers. Lahn's stance resonates with voters concerned about public health and environmental issues, particularly in a state where agriculture is a key economic driver.
-
-Lahn is one of five Republicans vying for the party's nomination in the June primary elections and has received endorsements from groups aligned with health initiatives. His ability to connect health concerns with agricultural practices may appeal to a broad base of voters, including those who prioritize both economic and health issues.
-
-Factors that could influence Lahn's chances in the primary include his campaign's focus on a pressing public health issue, his endorsements, and his appeal to both traditional Republican values and health-conscious voters. As the primary approaches, his effectiveness in communicating these themes and addressing voter concerns will be crucial in predicting his success.
-
-Title: Iowa politics: Zach Lahn launches campaign for Iowa governor - KCCI
-Published Date: 2025-11-06T00:00:00.000Z
-URL: https://www.kcci.com/article/fifth-republican-launches-campaign-for-iowa-governor/69277806
-Summary: Zach Lahn has officially launched his campaign for the Iowa governor's seat, positioning himself as a sixth-generation Iowan, farmer, and businessman. His campaign is built around an "Iowa First" agenda, which focuses on strengthening rural communities, protecting local land, improving health outcomes, supporting families, and defending the unborn. Lahn aims to challenge major agricultural and pharmaceutical companies, promising to take legal action against them for what he describes as greed and corruption affecting Iowans.
-
-Lahn enters a competitive Republican primary, joining candidates such as Randy Feenstra, Eddie Andrews, Brad Sherman, and Adam Stein. The primary landscape is particularly open as incumbent Governor Kim Reynolds has opted not to seek a third term. Lahn's self-funded outsider status and his emphasis on local issues may resonate with voters looking for change, but his success will depend on his ability to differentiate himself in a crowded field and connect with the electorate's concerns. 
-
-Overall, Lahn's campaign strategy and the dynamics of the Republican primary will be crucial factors in predicting his chances of winning the nomination in 2026.
+Summary: Zach Lahn, a Republican candidate for Iowa governor, emphasizes the importance of addressing the state's rising cancer rates, which he considers the most urgent issue facing Iowa. He highlights the role of the agriculture industry as a significant factor in this health crisis, referring to it as the "elephant in the room." While he underscores the need for action on health and environmental concerns linked to agriculture, there is no information in the article about his chances of winning the 2026 Republican primary election.
 
 Title: Lahn pledges as Iowa governor he'd change policy on data centers - Radio Iowa
 Author: O. Kay Henderson
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.radioiowa.com/2026/02/19/lahn-pledges-as-iowa-governor-hed-change-policy-on-data-centers/
-Summary: Zach Lahn, a Republican candidate for Iowa governor, is positioning himself as a strong opponent of current data center policies, advocating for significant changes that could resonate with voters concerned about local impacts. During a recent campaign event, he criticized the rapid construction of large data centers near Cedar Rapids, arguing that they disrupt farmland and offer insufficient job creation in exchange for substantial tax incentives. Lahn proposed imposing higher property taxes on data centers to benefit local communities, emphasizing a commitment to prioritize Iowans' interests over corporate incentives. His rhetoric, which includes references to former President Trump, aims to galvanize support by portraying current policies as detrimental to Iowa residents. The attractiveness of Iowa for data centers, due to low costs and stable power, may also play a role in shaping voter opinions. Lahn's stance could influence his chances in the primary, particularly among constituents who prioritize local economic impacts and fiscal responsibility.
+Summary: Zach Lahn, a Republican candidate for Iowa governor in 2026, has taken a strong stance against the current development of data centers in the state. He criticizes the rapid construction of large data centers near Cedar Rapids, describing the land clearing as excessive and likening the construction to a military installation. Lahn proposes implementing higher property taxes—up to five times the current rate—for data centers, with the revenue used to lower property taxes for local residents. He also opposes the substantial tax rebates granted to companies like QTS, which plans a $750 million investment but has pledged only minimal job creation. Lahn's rhetoric emphasizes a platform of prioritizing Iowa’s interests over corporate incentives, positioning himself as a candidate who would oppose what he perceives as unfair economic deals. His strong anti-data center stance and populist messaging suggest he is appealing to voters concerned about land use, tax policies, and corporate influence, which could influence his prospects in the Republican primary.
+
+Title: Zach Lahn on Tucker Carlson: What His Campaign Means for Iowa's Land and Future — Hoksey Native Seeds
+Author: Written By  Hoksey Native Seeds
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://hokseynativeseeds.com/blog/zach-lahn-on-tucker-carlson-what-his-campaign-means-for-iowas-land-and-future
+Summary: Zach Lahn recently appeared on Tucker Carlson's show, highlighting key issues affecting Iowa's land, agriculture, and rural communities. He emphasized the growing land ownership crisis, with 25% of Iowa farmland now owned by out-of-state investors, making it difficult for young farmers to compete. Lahn also pointed out Iowa's significant brain drain, where many young, educated residents leave for better economic opportunities elsewhere, resulting in substantial economic losses for the state. Additionally, he raised concerns about environmental health, specifically the potential links between agricultural chemicals and rising cancer rates in Iowa. These positions reflect Lahn's focus on rural sustainability, land conservation, and public health, which could influence his prospects in the 2026 Republican primary for Iowa governor.
 
 

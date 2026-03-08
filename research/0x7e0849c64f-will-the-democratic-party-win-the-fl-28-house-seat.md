@@ -1,48 +1,53 @@
 # Research: Will the Democratic Party win the FL-28 House seat?
 
 **Market ID:** 0x7e0849c64f34bd2f04583b60fe9393441caa05aad07799e1a19a2f8e0eb2aa37
-**Researched At:** March 1, 2026 at 06:02:44 AM UTC
+**Researched At:** March 8, 2026 at 02:35:28 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the FL-28 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.5¢
+**Confidence:** Medium
+**Expected Value:** 0.3¢
 
 ### Summary
 
-With only indirect evidence from heavily Republican CD-27 and statewide GOP dominance, a 15% Democratic win probability in FL-28 seems reasonable. No strong signals suggest a material mispricing.
+FL-28 is a solidly Republican district, with only indirect statewide polling and historic trends suggesting Democrats remain underdogs; no credible district-specific data indicates a >5¢ mispricing. The 16% price likely reflects a modest but realistic upset chance.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether a Democratic‐affiliated candidate wins the U.S. House seat in Florida’s 28th district on November 4, 2026. A “YES” resolution requires that the officially declared victor in FL-28 be a Democrat (ballot affiliation or caucus intent); “NO” if the winner is Republican or independent.
+This market asks: “Will the Democratic Party win FL-28 in the November 4, 2026 U.S. House midterms?” A YES requires the Democrat on the ballot (or who caucuses Democratic) to beat all opponents and be certified as the winner; NO if a Republican (or non-Dem who caucuses GOP) wins.
 
 2. EVIDENCE EVALUATION  
-• Bearish (supports low Dem odds):  
-  – Strong GOP trend in neighboring CD-27: Salazar (R) carried it by 20 points, Trump double-digit, and it’s rated “Solid Republican.”  
-  – Florida GOP trifecta since 1999 and Democrats’ “death spiral” diminishing funding, candidate quality, and state‐level clout (McKown‐Dawson).  
-• Bullish (would raise price):  
-  – General statewide demographic shifts (youth, minorities) potentially favoring Democrats over the long run (Iospa), though this may not materialize by 2026 or in this specific district.  
-  – Importance of ground game and candidate quality could flip a close district—but no data on FL-28’s actual candidates or fundraising.  
-• Credibility & recency: All sources are from early 2026 or late-2025; CD-27 data is directly relevant to regional political environment. No direct polling or fundraising figures exist for CD-28.
+Bearish (supports low probability):  
+• Florida has trended Republican for years (“death spiral”), with GOP trifecta since ’99 and strong statewide margins (Eli McKown-Dawson, 2/13/26).  
+• No district‐level polling shows a serious Democratic surge in FL-28; incumbency advantage likely for Republican Randy Fine (though not named in polls).  
+• Statewide polls (Sun-Sentinel 3/4/26; Newsweek 3/4/26) show Democrats still behind by single digits but not enough to flip a safe GOP seat.
+
+Bullish (suggests price could be too low):  
+• Recent statewide polls show narrowing margins (within single digits), indicating a competitive environment that could boost a strong challenger like Jennifer Jenkins (Tampa Bay Times 2/12/26).  
+• Democratic enthusiasm and undecided voters could produce surprise upsets, though no specific evidence for FL-28.  
+
+Source credibility is high (reputable outlets, early March ’26). All evidence is recent, but none directly measures FL-28 dynamics or fundraising/campaign infrastructures.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 15% price aligns with a consensus that FL-28 is heavily Republican-leaning with only a long‐shot Democratic path. Low $691 volume and narrow spread suggest a few traders have set this and that no new, clear signal has emerged to move it. The lack of direct CD-28 data may have deterred deeper liquidity.
+• 16% could reflect a consensus view that this is a safe Republican seat with a small upset chance.  
+• $0 volume and 4¢ spread suggest minimal trading interest; likely set by one or a few bettors who view the district as GOP-leaning.  
+• Low volume likely due to uncontroversial nature of the race, not clear mispricing.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence indicates Dem chances are materially higher (e.g., >30%) or lower (e.g., <5%) than 15%. Given GOP strength in CD-27, statewide Republican control, and absence of data on a strong Dem candidate, the 15% market price appears defensible.
+No clear, district-specific data is missing. The market price aligns with historical voting patterns and statewide polling. There’s no strong evidence of >5¢ mispricing; at most a few cents wide for unexpected developments.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 10% (low—indirect regional data, no CD-28 specifics)  
-• Magnitude of possible mispricing: 5¢ (worst‐case small bias)  
-• Expected value = 0.1 × 5¢ = 0.5¢
+Strength of evidence for mispricing: ~10% (low)  
+Magnitude of mispricing if any: ~3¢  
+Expected value = 10% × 3¢ = 0.3¢
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: With only indirect evidence from heavily Republican CD-27 and statewide GOP dominance, a 15% Democratic win probability in FL-28 seems reasonable. No strong signals suggest a material mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 0.3  
+SUMMARY: FL-28 is a solidly Republican district, with only indirect statewide polling and historic trends suggesting Democrats remain underdogs; no credible district-specific data indicates a >5¢ mispricing. The 16% price likely reflects a modest but realistic upset chance.  
+CONFIDENCE: medium
 
 ---
 
@@ -50,71 +55,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Florida's 27th Congressional District: What Most People Get Wrong - Ponderworthy
-Author: Lorraine Sato
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://ponderworthy.com/floridas-27th-congressional-district-what-most-people-get-wrong-1asj
-Summary: The article discusses Florida's 27th Congressional District, highlighting its complex political landscape and demographic diversity, which could provide insights for predicting outcomes in nearby districts, such as the FL-28 House seat. 
+Title: Florida poll: Democrats within single digits in governor, Senate races
+Author: Anthony Man  |  aman@sunsentinel.com  | South Florida Sun Sentinel
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.sun-sentinel.com/2026/03/04/florida-poll-shows-republicans-lead-democrats-in-statewide-races-but-only-by-single-digits/
+Summary: The article reports that Democratic candidates for Florida governor and U.S. Senate are currently within single digits of their Republican opponents in statewide polling, indicating a competitive political environment. While Democrats have historically struggled in Florida, recent polls show their candidates, such as Jerry Demings and David Jolly, gaining ground against Republican frontrunners like Byron Donalds. The poll also highlights that partisanship heavily influences voter preferences, with Republicans maintaining an advantage but showing signs of narrowing margins. Although the article focuses on statewide races, the overall political climate suggests that Democratic efforts could potentially impact other races, including the FL-28 House seat, especially if Democratic candidates continue to close the gap and mobilize their base.
 
-Key points include:
+Title: Democrats’ Chances of Defeating Republicans To Flip Florida: New Poll - Newsweek
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://newsweek.com/democrats-chances-of-defeating-republicans-to-flip-florida-new-poll-11620342
+Summary: The article discusses recent polling data indicating that Democrats in Florida are gaining ground in statewide races, with the potential for closer competition than in previous years. While Republicans currently hold a significant advantage in voter registration and recent election results, Democrats are energized and see opportunities, especially as many voters remain unfamiliar with key Democratic candidates. In the gubernatorial and U.S. Senate races, Democrats are narrowing the gap, with some polls showing a smaller margin of Republican lead and a notable share of undecided voters. Although the article does not specifically address the FL-28 House seat, the overall trend suggests increased Democratic competitiveness in Florida, which could positively influence the prospects of Democratic candidates in individual districts like FL-28.
 
-1. **Demographics**: The district is predominantly Hispanic (74%), comprising various groups with distinct political priorities, including Cuban-Americans, Venezuelan expats, and Colombians. This diversity complicates predictions as different communities may lean towards different parties based on their unique experiences and views.
+Title: Can Democrats retake the US House? It could depend on Florida
+Author: 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: http://www.tampabay.com/news/florida-politics/elections/2026/02/12/hakeem-jeffries-democrats-house-control-congress/
+Summary: The article emphasizes that the outcome of the Democratic Party's efforts to retake the U.S. House, particularly in Florida, may hinge on key races like FL-28. Florida's political landscape is pivotal, with recent developments including candidate challenges and redistricting efforts. Notably, Democrat Jennifer Jenkins has switched races to challenge incumbent Republican Randy Fine in FL-28, indicating a competitive contest. Florida's redistricting and political dynamics, along with candidate strategies, will significantly influence whether Democrats can secure the FL-28 seat in upcoming elections.
 
-2. **Political Trends**: The district has shifted significantly towards the Republican Party, with current representative Maria Elvira Salazar winning by over 20 points in the last election and Trump also carrying the district by double digits. This trend suggests a challenging environment for Democrats in the region.
-
-3. **Key Issues**: While foreign policy, particularly regarding Cuba and Venezuela, is important, local concerns such as the affordability crisis and healthcare access are increasingly driving voter sentiment. Salazar's bipartisan support for extending Affordable Care Act subsidies indicates that local issues may transcend party lines.
-
-4. **Election Dynamics**: The upcoming elections are expected to reflect the district's current classification as "Solid Republican," which could influence voter turnout and party strategies in neighboring districts like FL-28.
-
-In summary, understanding the demographic diversity, shifting political trends, and key local issues in Florida's 27th District can provide valuable context for predicting the Democratic Party's chances in the FL-28 House seat.
-
-Title: Richard Lamondin campaign reports nearing $700K raised toward flipping CD 27
-Author: Jesse Scheckner
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://floridapolitics.com/archives/777119-richard-lamondin-campaign-reports-nearing-700k-raised-toward-flipping-cd-27/
-Summary: Richard Lamondin, a Democratic candidate for Florida's 27th Congressional District (CD 27), has reported raising nearly $700,000 for his campaign, positioning himself as a strong contender to flip the seat. His fundraising includes over $230,000 from the last quarter and $433,000 in cash on hand as he enters 2026. Lamondin's campaign claims he is the leading fundraiser in the race, supported by more than 2,200 bipartisan grassroots donors. He emphasizes his commitment to creating opportunities and advocating for Miami-Dade families, suggesting a focus on community representation. Given these factors, Lamondin's strong fundraising and grassroots support could be indicative of the Democratic Party's potential to win the FL-28 House seat, especially if he successfully mobilizes voters and builds a coalition leading up to the election.
+Title: Can Democrats retake the US House? It could depend on Florida | National | union-bulletin.com
+Author: Michael Van Sickler - Tampa Bay Times (TNS)
+Published Date: 2026-02-13T00:00:00.000Z
+URL: https://www.union-bulletin.com/news/national/can-democrats-retake-the-us-house-it-could-depend-on-florida/article_829647ac-11d7-5828-b775-b3e06bc2a46a.html
+Summary: The article discusses the potential for Democrats to retake control of the U.S. House, emphasizing that Florida's political landscape, including key districts like FL-28, could play a decisive role. It highlights recent electoral trends, candidate dynamics, and voter sentiment in Florida, suggesting that the outcome in FL-28 may depend on factors such as candidate appeal, campaign strategies, and statewide political shifts. While specific predictions are not provided, the analysis indicates that Florida's evolving political environment is crucial for Democrats aiming to win the FL-28 House seat.
 
 Title: Can Democrats escape their Florida death spiral?
 Author: Eli McKown-Dawson
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.natesilver.net/p/can-democrats-escape-their-florida
-Summary: The article discusses the challenges facing the Democratic Party in Florida, highlighting a significant decline in their political power in the state. Once a swing state, Florida has seen Republicans maintain a trifecta of control since 1999, with Democrats last holding a majority in the Congressional delegation in 1988. The piece likens the party's struggles to a "death spiral," where repeated losses lead to diminished funding and fewer quality candidates, making recovery increasingly difficult.
-
-For predicting the outcome of the FL-28 House seat, consider the following factors mentioned in the article:
-
-1. **Historical Context**: The Democrats' long-term decline in Florida, particularly in recent elections, suggests a challenging environment for regaining seats.
-   
-2. **Republican Dominance**: The sustained Republican control over state politics indicates a strong base that may be difficult for Democrats to overcome.
-
-3. **Voter Trends**: Analyzing recent voting patterns and demographic shifts in the district could provide insights into potential outcomes.
-
-4. **Candidate Quality**: The ability of the Democratic Party to field strong, appealing candidates will be crucial in contesting the seat.
-
-5. **Campaign Funding**: The financial health of the Democratic Party in Florida will impact their ability to compete effectively in elections.
-
-These elements combined can help gauge the likelihood of a Democratic victory in the FL-28 House seat.
-
-Title: Blue Alert: Why Democrats are poised to win in 2028 and 2032
-Author: by Roman Iospa, opinion contributor
-Published Date: 2025-01-25T00:00:00.000Z
-URL: https://thehill.com/opinion/5105555-democrats-poised-to-win-2028-election/
-Summary: The article "Blue Alert: Why Democrats are poised to win in 2028 and 2032" discusses the favorable conditions for the Democratic Party in upcoming elections, which may provide insights into their chances in specific races like the FL-28 House seat. Key factors highlighted include:
-
-1. **Demographic Shifts**: The authors argue that changing demographics in key states, including Florida, may favor Democrats, particularly as younger and more diverse voters become a larger part of the electorate.
-
-2. **Voter Engagement**: Increased voter engagement among traditionally Democratic-leaning groups, such as minorities and young people, is expected to bolster Democratic chances in competitive districts.
-
-3. **Policy Positioning**: The article suggests that Democrats' focus on issues like healthcare, climate change, and social justice resonates with voters, potentially giving them an edge in local races.
-
-4. **Republican Challenges**: The authors note that internal divisions within the Republican Party and dissatisfaction with current leadership could weaken GOP candidates, making it easier for Democrats to gain ground.
-
-5. **Historical Trends**: The piece references historical voting patterns that indicate a trend toward Democratic victories in suburban districts, which may include FL-28.
-
-In summary, while the article does not specifically address the FL-28 House seat, the broader trends and factors discussed could indicate a favorable environment for Democrats in that race.
-
-Title: Democrats see a path to win the U.S. Senate but it's narrow
-Published Date: 2026-01-14T00:00:00.000Z
-URL: https://www.ctvnews.ca/world/article/democrats-believe-they-can-take-the-us-senate-these-are-the-seats-they-would-need-to-win/
-Summary: The article discusses the Democratic Party's potential path to winning the U.S. Senate, highlighting the narrow margins and specific seats they need to target. While it does not directly address the FL-28 House seat, understanding the broader context of Democratic strategies and electoral dynamics could provide insights. The Democrats are focusing on competitive races and leveraging local issues to gain an advantage. For predicting the outcome of the FL-28 seat, consider factors such as voter demographics, recent election trends in Florida, and the candidates' campaign strategies. Additionally, the article emphasizes the importance of grassroots mobilization and voter turnout, which are critical in closely contested districts like FL-28.
+Summary: The article discusses Florida's shift from a swing state to a Republican-leaning stronghold, highlighting decades of Democratic decline in the state. Historically competitive, Florida has seen Democrats lose ground, with Republicans holding a trifecta since 1999 and winning statewide races consistently, including recent presidential elections. The state's Democratic Party has experienced a "death spiral," characterized by repeated losses, reduced funding, and difficulty attracting quality candidates, making future gains challenging. Given this trend, the likelihood of Democrats winning the FL-28 House seat appears low unless there's a significant political shift or blue wave.
 
 

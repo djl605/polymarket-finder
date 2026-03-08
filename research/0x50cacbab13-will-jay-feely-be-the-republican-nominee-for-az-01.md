@@ -1,51 +1,52 @@
 # Research: Will Jay Feely be the Republican nominee for AZ-01?
 
 **Market ID:** 0x50cacbab136ddc10400b43c4509e3e3553968027eded0736ab1413caa0e85f6e
-**Researched At:** March 1, 2026 at 06:04:36 AM UTC
+**Researched At:** March 8, 2026 at 02:34:41 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jay Feely be the Republican nominee for AZ-01?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** High
-**Expected Value:** 63.0¢
+**Confidence:** Low
+**Expected Value:** 3.0¢
 
 ### Summary
 
-An AP article from 2026-02-12 reports Jay Feely has withdrawn from the AZ-01 GOP primary, making his nomination impossible. The market’s 70% probability is therefore grossly overstated and represents a ~70-cent mispricing.
+Feely’s Trump backing and fundraising support the ~76.5% price, while lack of public polling and a credible challenger in Chaplik introduce real uncertainty. No clear mispricing >10¢ emerges from current evidence.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Jay Feely be the Republican nominee for AZ-01 in the 2026 midterms?”  
-A YES resolution requires him to remain an active candidate, participate in the August 4, 2026 primary, win that primary, and be officially nominated (and not replaced). A NO resolution occurs if he withdraws, loses, or another candidate secures the nomination (or if no nominee is named by Nov. 3, 2026, in which case it resolves to “Other,” still counting as NO for Feely).
+The market asks: “Will Jay Feely be the Republican nominee for AZ-01 (August 4, 2026 primary)?” A YES resolution requires Feely to win the August 4 primary and be officially certified by November 3, 2026. NO resolves if another candidate is certified or no nominee is announced by the deadline.
 
 2. EVIDENCE EVALUATION  
-Bullish on YES:  
-- No direct polling or grassroots support data for Feely—no evidence implies a base case.  
-- Articles noting general contest dynamics (KTAR, AZ Central) mention him as a contender but lack any support metrics.
+Bearish (price too high):  
+- No public polls in AZ-01 show Feely leading; absence of objective polling leaves real uncertainty.  
+- Joseph Chaplik, a sitting state rep, resigned to focus on this race and may consolidate local support. His fundraising is unreported but could be competitive.  
+- Low trading volume suggests few participants, raising the risk that this price reflects one trader’s overconfidence rather than broad consensus.  
 
-Bearish on YES:  
-- AP story (2026-02-12): “Arizona GOP candidate Jay Feely has recently dropped out of the primary race,” narrowing the field to two. This directly implies Feely cannot be the nominee. Source is highly credible, very recent, and directly relevant.  
-- Given withdrawal, he cannot win; the remaining candidates will compete without him.
+Bullish (price reasonable):  
+- Feely has high-profile backing (President Trump’s support) and leads fundraising with over \$725k, both strong positive signals for GOP primary voters.  
+- Name recognition from an NFL career and current media presence could translate into strong primary turnout.  
+- The gap between YES bids (76.5%) and asks (79.5%) is only 3¢, implying participants believe the 0.5 probability swing band is well supported.  
 
-No conflicting high-quality evidence: other articles only speculate on candidate fields or party dynamics, but none contradict his withdrawal.
+Source credibility & recency: All items are from early 2026, highly relevant. The APG Admin report on Chaplik is local and credible for candidate developments; the ESPN and Clay & Buck pieces confirm Feely’s candidacy but add little predictive power.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 70%, the market implies strong confidence Feely wins. That is hard to reconcile with a public, AP-reported exit. Low volume could indicate that no informed traders have yet arbitraged this clear disqualifier. A genuine consensus of insiders would have priced Feely’s withdrawal to near 0%.
+A 76.5% price can be justified by Feely’s Trump endorsement and fundraising edge. In a low-volume market of a down-ballot primary, few informed traders may have chosen to allocate capital, leaving one confident participant to set the price. Alternatively, a consensus of those few may indeed back >75% odds.  
 
 4. MISPRICING ASSESSMENT  
-The AP withdrawal report is definitive: Feely is out and thus has zero chance of nomination. The market price of 70% is therefore almost certainly incorrect by the full 70‐point gap. It appears to reflect stale or non-aggregated information. Given the clarity and source credibility, this is a large mispricing.
+Given the mix of strong assets (endorsement, fundraising) and the lack of public polling or clear data on Chaplik’s resources, a 76.5% probability is plausible. There is no specific new evidence indicating that traders have overlooked a critical factor large enough to move the price by >20¢. At most, one might argue for a modest 5–10¢ adjustment—but confidence in that is low without polling.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 90% (AP withdrawal is clear and recent).  
-Magnitude of mispricing: 70 cents (market at 70% vs. true ~0%).  
-Expected value = 0.90 × 70 = 63 cents.
+- Strength of evidence for mispricing: 30% (some uncertainty, no direct poll data).  
+- Magnitude of possible mispricing: ~10¢.  
+Expected value = 0.30 × 10¢ = 3.0¢ (rounded to 3.0).  
 
-EXPECTED_VALUE: 63.0  
-SUMMARY: An AP article from 2026-02-12 reports Jay Feely has withdrawn from the AZ-01 GOP primary, making his nomination impossible. The market’s 70% probability is therefore grossly overstated and represents a ~70-cent mispricing.  
-CONFIDENCE: high
+EXPECTED_VALUE: 3.0  
+SUMMARY: Feely’s Trump backing and fundraising support the ~76.5% price, while lack of public polling and a credible challenger in Chaplik introduce real uncertainty. No clear mispricing >10¢ emerges from current evidence.  
+CONFIDENCE: low
 
 ---
 
@@ -53,46 +54,31 @@ CONFIDENCE: high
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: President Donald Trump announced his endorsement for Mark ...
-Author: 
-Published Date: 2025-11-03T00:00:00.000Z
-URL: https://www.facebook.com/KTARNews/posts/president-donald-trump-announced-his-endorsement-for-mark-lamb-the-former-sherif/1262846702525822/
-Summary: President Donald Trump has endorsed Mark Finchem for a position in Arizona, which could influence the Republican primary landscape in the state. This endorsement may impact the dynamics of the race for AZ-01, where Jay Feely is a candidate. Observing Trump's endorsements and their effects on other candidates could provide insights into Feely's chances of securing the Republican nomination. Additionally, analyzing voter sentiment and support for Finchem could help predict the overall direction of the Republican primary in Arizona.
+Title: Jay Feely to run for House of Representatives in Arizona
+Author: Josh Weinfuss
+URL: https://www.espn.com/nfl/story/_/id/44804971/jay-feely-run-house-representatives-arizona
+Summary: Jay Feely, a former NFL kicker, has announced his intention to run for the U.S. House of Representatives in Arizona. However, there is no information indicating whether he will secure the Republican nomination for AZ-01. Additional details about his campaign, primary race, or party support are not provided, so it remains uncertain if he will become the Republican nominee.
+
+Title: Arizona Congressional Candidate Jay Feely Hangs with C&B in DC
+Author: George Prayias
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.clayandbuck.com/arizona-congressional-candidate-jay-feely-hangs-with-cb-in-dc
+Summary: The webpage discusses Arizona Congressional candidate Jay Feely, a former NFL kicker and current NFL analyst, who is running for Congress in Arizona’s 5th district. He appeared on Clay and Buck’s show to discuss his campaign and current news topics. While the article highlights Feely’s political ambitions and media presence, it does not provide specific information about his prospects or likelihood of securing the Republican nomination for AZ-01. Therefore, based on this content, there is no direct evidence or prediction regarding whether Jay Feely will become the Republican nominee for AZ-01.
+
+Title: Chaplik Steps Down from Legislature to Go All-In on Congressional Bid - Arizona Progress Gazette
+Author: APG Admin
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://arizonaprogressgazette.com/chaplik-steps-down-from-legislature-to-go-all-in-on-congressional-bid/
+Summary: Joseph Chaplik, a Scottsdale Republican state representative, announced his resignation from the Arizona Legislature to fully focus on his campaign for Arizona's 1st Congressional District, which is currently held by David Schweikert. The district includes Scottsdale, north Phoenix, and Cave Creek. Chaplik's decision reflects a commitment to dedicate himself entirely to the congressional race, acknowledging the difficulty of managing both roles simultaneously. The primary race is competitive, with former NFL kicker Jay Feely, backed by President Trump, leading in fundraising with over $725,000. Given Feely's significant financial advantage and high-profile backing, he is a strong contender for the Republican nomination in AZ-01.
 
 Title: Congress in Arizona: Who is running in 2026?
 Author: KTAR.com
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://ktar.com/arizona-election-news/congress-in-arizona-2026/5799364/?show=comments
-Summary: The article discusses the upcoming 2026 congressional elections in Arizona, where all nine House seats will be contested. It highlights that many potential candidates, including incumbents, have shown interest in running. While specific details about Jay Feely's candidacy are not mentioned, the context suggests that he may be among the contenders for the Republican nomination in AZ-01. To predict his chances, it would be important to consider factors such as his political background, support within the Republican Party, and the competitive landscape of the primary race. For more detailed insights, monitoring local political developments and candidate announcements will be crucial.
+Summary: The article discusses the upcoming 2026 Arizona congressional elections, highlighting that all nine of Arizona's House seats are contested, with many incumbents and potential candidates expressing interest. While it mentions key figures like Reps. Andy Biggs and David Sc, it does not specify candidates for AZ-01 or mention Jay Feely. Therefore, there is no information in the article to predict whether Jay Feely will be the Republican nominee for AZ-01 in 2026.
 
-Title: Arizona GOP candidate drops out of primary, narrowing field to two
-Author: Sejal Govindarao, Associated Press
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.news4jax.com/news/politics/2026/02/12/arizona-gop-candidate-drops-out-of-primary-narrowing-field-to-two/
-Summary: Arizona GOP candidate Jay Feely has recently dropped out of the primary race, which has now narrowed the field to two remaining candidates. This development could significantly impact the dynamics of the Republican nomination for Arizona's 1st Congressional District (AZ-01). With Feely's exit, the remaining candidates will likely compete more aggressively for support, making it crucial to monitor their campaigns and voter engagement strategies. The outcome of this primary will be pivotal in determining who ultimately secures the Republican nomination for AZ-01.
-
-Title: Rep. Joseph Chaplik resigns to focus on congressional bid
-Author: Ray Stern 
-, 
- Laura Gersony
-Published Date: 2026-02-20T00:00:00.000Z
-URL: http://www.pnj.com/story/news/politics/elections/2026/02/20/rep-joseph-chaplik-resigns-to-focus-on-congressional-bid/88766111007/
-Summary: Rep. Joseph Chaplik has resigned from the Arizona Legislature to focus on his campaign for the Republican nomination in Arizona's 1st Congressional District (AZ-01). His departure is strategic, as he believes it will allow him to better serve his constituents and supporters while campaigning. Chaplik is a conservative member of the Arizona Freedom Caucus and has previously faced criticism for his controversial social media posts and support of conspiracy theories. He has a track record of legislative accomplishments, including a flat-rate income tax and a law banning mask mandates for minors without parental consent. 
-
-As Chaplik enters a competitive primary for AZ-01, he will be contending against other notable Republican candidates, including Jay Feely. The dynamics of the primary race, including Chaplik's established political presence and legislative achievements, will be crucial in determining whether Feely can secure the nomination.
-
-Title: Are these candidates running on the GOP ticket Republicans?
-Author: Ray Stern
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://azcentral.com/story/news/politics/arizona/2026/02/26/are-these-arizona-gop-candidates-actually-republicans/88844689007/
-Summary: The article discusses the candidacies of several individuals running as Republicans in Arizona, particularly in the competitive Legislative District 9, where the dynamics could influence the broader political landscape, including the AZ-01 race. Key points include:
-
-1. **Candidate Backgrounds**: James "Jimmy" Holmes, Fernando Monarrez, and John Pochervina have faced scrutiny for their recent party affiliations, with Holmes previously running as a Democrat and Monarrez endorsing a Democrat before switching to the GOP. This raises questions about their loyalty and alignment with traditional Republican values.
-
-2. **Impact on GOP Dynamics**: The presence of these candidates could split the Republican vote, potentially benefiting Democratic candidates in the upcoming elections. This is particularly relevant in a district identified as competitive due to its narrow voter split.
-
-3. **Current GOP Candidates**: Brad Bettencourt, a long-time Republican candidate, is concerned about the implications of these new entrants on his campaign strategy and overall Republican chances in the district.
-
-While the article does not directly address Jay Feely's candidacy for AZ-01, understanding the shifting allegiances and the competitive nature of Arizona's political landscape could provide context for predicting his chances as the Republican nominee. Factors such as voter sentiment towards party loyalty and candidate backgrounds will be crucial in determining the outcome.
+Title: Poll: Arizona's top candidates include mix of GOP, Democrats
+URL: https://www.myheraldreview.com/poll-arizona-s-top-candidates-include-mix-of-gop-democrats/article_7e52a7be-592f-4ae9-954e-e448b8d39002.html
+Summary: The webpage discusses a recent poll highlighting Arizona's leading political candidates, featuring a mix of Republican and Democratic contenders. While it provides insights into current voter preferences and candidate standings, it does not specifically mention Jay Feely or provide detailed information about his candidacy for AZ-01. Therefore, based on this source alone, there is no clear indication or prediction regarding whether Jay Feely will secure the Republican nomination for Arizona's 1st Congressional District.
 
 

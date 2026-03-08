@@ -1,7 +1,7 @@
 # Research: Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?
 
 **Market ID:** 0xfbda5ef76fac8f2daa92edb8ddec2f8b9646c8ccaa344e359f99d73f908d4d53
-**Researched At:** March 1, 2026 at 06:07:00 AM UTC
+**Researched At:** March 8, 2026 at 02:34:35 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?"
 
 ---
@@ -9,51 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 0.5¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-No research directly addresses Shin Yong-han’s standing in Chungcheongbuk, so there’s no credible evidence for a large mispricing around the 30.5% market price. The low-volume market could reflect genuine underdog consensus rather than a clear inefficiency.
+Early February polls show Shin Yong-han at ~12% in a crowded Democratic primary and trailing the incumbent, implying true win odds closer to ~10–15%, versus a 30% market price—suggesting modest overpricing. However, low trading volume and potential future momentum keep uncertainty high.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Shin Yong-han will win the June 3, 2026 Chungcheongbuk Province gubernatorial election. A YES resolution requires that he is officially declared the winner by a consensus of credible reporting (or, if contested, by the National Election Commission). NO (or “Other”) resolves if any other candidate wins or the result isn’t known by Dec 31, 2026 11:59 PM ET.
+This market asks whether Shin Yong-han will win the June 3, 2026 Chungcheongbuk Province governor’s election. A “YES” requires him first to secure the Democratic Party nomination in a crowded primary and then defeat the People’s Power Party nominee (likely the incumbent Kim Young-hwan or another strong challenger) in the general election. A “NO” covers either losing the primary or losing the general election (or the election not being decided by year-end, which is unlikely).
 
 2. EVIDENCE EVALUATION  
-A. Evidence suggesting mispricing  
-- None of the research materials mention Shin Yong-han or his standing in Chungcheongbuk.  
-- We lack polls or local analyses; if Shin has strong local support unreported here, the market could understate his chances.
-
-B. Evidence supporting the 30.5% price  
-- All articles focus on national or Gyeonggi-level contests, not Chungcheongbuk, implying limited public data.  
-- Chungcheongbuk has historically leaned against the ruling party; without clear data on Shin’s party or profile, ~30% seems a plausible underdog price.
-
-C. Source credibility and recency  
-- All sources are from February 2026, credible Korean news outlets.  
-- None are directly on point for this race; they only provide general context.
-
-D. Bullish vs. bearish  
-- Bullish: If Shin is backed by a popular local machine, the market may underprice him.  
-- Bearish: In absence of local polling or high-profile endorsements, 30.5% may already reflect the best available information.
+Bullish for Shin (implying market underpricing):  
+• His appointment as acting head of the Presidential Committee on Local Autonomy (Mar 5) raises his profile.  
+• Early polls label him a “top three” Democratic contender.  
+Bearish for Shin (implying price too high):  
+• A Feb 8 poll shows him at only 12.3% support, trailing Kim Young-hwan’s 13.9% and two fellow Democratic hopefuls roughly equal, in a multi-way race.  
+• No clear frontrunner has emerged; undecided voters are high, but consolidation may favor the incumbent party’s candidate.  
+Credibility & recency: All sources are February–early March 2026, from reputable Korean outlets (연합뉴스, 중부매일, 뉴스1). They consistently depict a highly fragmented field with no single Democratic candidate dominating.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 30.5% price could reflect a solitary trader’s view or low‐stakes consensus that Shin is an underdog.  
-- Low volume but tight spread suggests some liquidity but no deep engagement.  
-- The outcome isn’t obvious or uncontroversial; informed traders simply may not have focused on this province yet.
+A 30% price could reflect P(primary win) ≈ 30% (3-way tie) × P(general win) ≈ 100% (if anti-incumbent swing) or more likely 30%×30% = 9%. Informed traders might be embedding anticipated coattail effects, party consolidation, or Shin’s national-level appointment—factors not captured in raw polls. Low trading volume suggests few participants are active; it’s unclear if this reflects consensus or inattentiveness.
 
 4. MISPRICING ASSESSMENT  
-- We have no direct, credible evidence that Shin’s true win probability deviates materially (±20 cents) from 30.5%.  
-- Given the long horizon and sparse data, modest inefficiencies are possible, but nothing concrete here.  
-- The most charitable view is that traders set 30.5% based on historical voting patterns and Shin’s unknown profile.
+Combined primary/general odds based on polls (~33%×≈30%) suggest ~10% win probability, far below the 30% market price. There is credible evidence (multi-candidate poll share, incumbent advantage) that Shin’s chance is materially lower. That said, markets may price in future momentum or local party shifts not yet public, so a modest overpricing is plausible but uncertainty is high.  
+
+⚠️ CRITICAL CHECK: The resolution criteria are straightforward (official NEC results), and no disqualifying technicality exists. The most charitable view is that traders foresee post-primaries vote consolidation and national political swings boosting Shin well above baseline poll numbers, justifying part of the gap.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence for mispricing: ~10% (we really have no direct info).  
-- Potential magnitude if mispriced: ~5 cents (small given uncertainty).  
-- Expected value: 0.10 × 5 cents = 0.5 cents
+Strength of evidence: 40% (polls are reliable but early and noisy)  
+Estimated mispricing: ~15 cents (market 30% vs implied ~15%)  
+Expected value = 0.40×15¢ = 6.0¢
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: No research directly addresses Shin Yong-han’s standing in Chungcheongbuk, so there’s no credible evidence for a large mispricing around the 30.5% market price. The low-volume market could reflect genuine underdog consensus rather than a clear inefficiency.  
+6. CONFIDENCE  
+low
+
+EXPECTED_VALUE: 6.0  
+SUMMARY: Early February polls show Shin Yong-han at ~12% in a crowded Democratic primary and trailing the incumbent, implying true win odds closer to ~10–15%, versus a 30% market price—suggesting modest overpricing. However, low trading volume and potential future momentum keep uncertainty high.  
 CONFIDENCE: low
 
 ---
@@ -62,87 +55,38 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Song, Han, Cho By-Election Bids Spark 'Mini General Election' Hype
+Title: [중부매일 여론조사] 민주 신용한·노영민·송기섭 ‘3강’… 국힘 김영환 우세 < 선거 < 정치 < 기사본문 - 중부매일 - 충청권 대표 뉴스 플랫폼
 Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.chosun.com/english/national-en/2026/02/23/TGNN6N77JJELNP6JU3LSSBLFUY/
-Summary: The article discusses the upcoming by-elections for the National Assembly in South Korea, which are generating significant speculation due to the involvement of high-profile candidates from both ruling and opposition parties. Key figures mentioned include Song Young-gil, Han Dong-hoon, and Cho Kuk, with potential implications for the political landscape in the region. 
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://www.jbnews.com/news/articleView.html?idxno=1498599
+Summary: The recent public opinion survey indicates that Shin Yong-han is a strong contender in the 2026 Chungcheongbuk Province gubernatorial election, currently ranking as one of the top three candidates among Democratic Party hopefuls, with a support rate of approximately 12.3%. He is closely followed by other Democratic candidates, such as Song Ki-seop and Noh Young-min, who also have similar levels of support, suggesting a competitive race within the party. 
 
-While the article does not directly address Shin Yong-han or the Chungcheongbuk Province gubernatorial election, it highlights the competitive nature of the political environment leading up to the elections. Factors such as candidate popularity, party dynamics, and the potential for by-elections to shift political allegiances could influence the outcome of the gubernatorial race. 
+On the opposition side, incumbent Governor Kim Young-hwan of the People’s Power Party leads with a support rate of around 13.9%, and other candidates like Jo Gil-hyung are also gaining traction. The survey shows that no candidate has secured an outright majority, and a significant portion of voters remain undecided or indifferent, indicating a potentially volatile electoral landscape.
 
-For predicting Shin Yong-han's chances, consider the following relevant points:
-1. **Political Climate**: The heightened competition and potential for major candidates to emerge could impact voter sentiment.
-2. **Party Support**: The backing of major parties and the performance of candidates in the by-elections may sway public opinion.
-3. **Local Issues**: Key issues in Chungcheongbuk Province and how candidates address them will be crucial for voter appeal.
+Given Shin Yong-han's current standing and the regional support distribution, his chances depend on his ability to consolidate Democratic support and appeal to undecided voters. The election remains competitive, with no clear frontrunner at this stage, but Shin Yong-han's position as a leading Democratic candidate makes him a notable contender to watch.
 
-Overall, while the article does not provide direct insights into Shin Yong-han's candidacy, understanding the broader electoral context and dynamics could help in predicting his chances in the gubernatorial election.
+Title: 여야 충북지사 예비후보들 경선 앞두고 '얼굴 알리기' 행보 가속 | 연합뉴스
+Author: 전창해
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.yna.co.kr/view/AKR20260305146300064
+Summary: The article discusses the upcoming 6·3 local elections in Chungcheongbuk Province, focusing on the activities of the major candidates preparing for the Democratic and Republican primaries. Shin Yong-han, a Democratic Party candidate, has recently been appointed as the acting head of the Presidential Committee on Local Autonomy, following the resignation of the previous chair to run for governor of Gyeongnam Province. He emphasizes his commitment to regional development and his role in managing national-level administrative tasks during this interim period. The article highlights the competitive landscape, with other candidates like Song Ki-seop, Han Beom-deok, and 조길형 actively promoting their policies and campaign strategies. While Shin Yong-han's current position and visibility are noted, there is no specific indication of his likelihood of winning the 2026 gubernatorial election, as the election is still in the early stages of candidate positioning and campaign development.
 
-Title: 20th presidential election - NamuWiki
+Title: [지선 D-100] 충북지사 후보 난립에 예선부터 진땀 승부 예고 | 연합뉴스
+Author: 전창해
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://www.yna.co.kr/amp/view/AKR20260220108800064
+Summary: The 2026 Chungcheongbuk Province gubernatorial election is highly competitive, with multiple candidates from both major parties. Shin Yong-han, a prominent figure in the Democratic Party and a member of the Presidential Committee on Local Autonomy, has officially announced his candidacy. He is known for his previous political experience, including serving as a member of the National Assembly and his involvement in local governance. However, the race is currently characterized by a lack of clear frontrunners, with several candidates from both the Democratic Party and the opposition 국민의힘 (People Power Party) vying for the position. The election landscape is further complicated by internal party dynamics, potential candidate shifts, and the overall political climate leading up to the election. Given the current state of the race, it remains uncertain whether Shin Yong-han will secure victory, as the competition is expected to be intense and unpredictable.
+
+Title: [6·3지선 충북지사] 차기 '도백' 누구?…후보 난립에 경쟁 치열 - 뉴스1
 Author: 
-Published Date: 2026-02-24T06:06:46.545Z
-URL: https://en.namu.wiki/w/%EC%A0%9C20%EB%8C%80%20%EB%8C%80%ED%86%B5%EB%A0%B9%20%EC%84%A0%EA%B1%B0
-Summary: The webpage on the 20th presidential election provides a historical context for South Korean elections, including the timeline and details of previous elections. While it does not directly address the 2026 Chungcheongbuk Province gubernatorial election or Shin Yong-han, understanding the political landscape and voter behavior from past elections can be useful for making predictions.
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://news1.kr/local/sejong-chungbuk/6073715
+Summary: The 2026 Chungcheongbuk Province gubernatorial election is highly competitive, with multiple candidates from major parties, including Shin Yong-han from the Democratic Party. Several other prominent contenders are also vying for the position, such as 노영민, 송기섭, 한범덕 (Democratic Party), and 김영환, 윤갑근, 윤희근, 조길형 (People's Power Party). The election race is intensifying as candidates officially declare their intentions, especially around the Lunar New Year holiday period. Given the crowded field and the competitive political landscape, predicting Shin Yong-han's victory remains uncertain at this stage. The outcome will likely depend on campaign dynamics, voter sentiment, and party support leading up to the election.
 
-Key points to consider for predicting Shin Yong-han's chances include:
-
-1. **Historical Trends**: Analyze the outcomes of previous gubernatorial elections in Chungcheongbuk Province to identify patterns in voter preferences and party dominance.
-
-2. **Political Climate**: Assess the current political environment, including public sentiment towards the ruling party and any significant issues that may influence voter turnout and preferences.
-
-3. **Candidate Popularity**: Evaluate Shin Yong-han's public image, previous electoral performance, and any endorsements or support from influential political figures or parties.
-
-4. **Voter Demographics**: Consider the demographics of the electorate in Chungcheongbuk Province, including age, socioeconomic status, and key issues that resonate with voters.
-
-5. **Campaign Strategies**: Examine Shin Yong-han's campaign strategies and how they compare to his opponents, including messaging, outreach efforts, and engagement with local communities.
-
-By synthesizing these factors, one can form a more informed prediction regarding Shin Yong-han's prospects in the upcoming election.
-
-Title: Kim Dong-yeon Leads Polls for Gyeonggi Governor Democratic Primary - Seoul Economic Daily
-Author: Suwon - Son Dae-Seon
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://en.sedaily.com/society/2026/02/25/kim-dong-yeon-leads-polls-for-gyeonggi-governor-democratic
-Summary: The article discusses Kim Dong-yeon's strong lead in the Democratic Party's gubernatorial candidate preference polls for Gyeonggi Province, following the Lunar New Year holiday. While it does not directly address Shin Yong-han or the Chungcheongbuk Province gubernatorial election, it provides insights into factors that could be relevant for predicting election outcomes in general.
-
-Key points include:
-
-1. **Poll Performance**: Kim Dong-yeon leads in multiple polls, indicating strong support among party members. This suggests that candidates with established popularity and support within their party may have an advantage.
-
-2. **Administrative Achievements**: Kim's success is attributed to his track record of effective governance and policy implementation, which resonates with voters. Candidates who can demonstrate tangible accomplishments may similarly enhance their chances.
-
-3. **Policy Focus**: Kim's emphasis on economic initiatives and public welfare, along with climate crisis responses, has broadened his appeal. Candidates who align their platforms with pressing regional issues and demonstrate proactive governance may attract more voters.
-
-4. **Alignment with Central Policies**: Kim's alignment with the national administration's real estate policies has helped consolidate support. Candidates who can effectively align with or support broader governmental initiatives may benefit from increased party cohesion and voter confidence.
-
-5. **Voter Demographics**: The article notes that appealing to younger and moderate voters is crucial for expanding support. Understanding the demographics and key issues that resonate with voters in Chungcheongbuk Province could be vital for predicting Shin Yong-han
-
-Title: Democratic Party crowds Gyeonggi race as PPP stalls in South Korea - CHOSUNBIZ
-Author: 
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://biz.chosun.com/en/en-policy/2026/02/16/ZBKOK2QHT5C5NBLH6AEY4F6ELU/?outputType=amp
-Summary: The article discusses the political landscape in South Korea as the Democratic Party of Korea prepares for the upcoming Gyeonggi gubernatorial election, highlighting the lack of candidates from the opposition People Power Party (PPP). While it does not directly address Shin Yong-han or the Chungcheongbuk Province gubernatorial election, it provides insights into the dynamics of candidate selection and electoral strategies that could be relevant for predicting outcomes in other regions, including Chungcheongbuk.
-
-Key points include:
-
-1. **Democratic Party Dominance**: The Democratic Party has a strong track record in Gyeonggi, having won the last two elections. This suggests a favorable environment for their candidates, which could influence voter sentiment in other provinces.
-
-2. **Candidate Landscape**: The Democratic Party has multiple candidates vying for the Gyeonggi governorship, indicating a competitive primary that could strengthen their eventual nominee. In contrast, the PPP has yet to field any candidates, which may weaken their position.
-
-3. **Political Strategy**: The article notes that the Democratic Party is focused on selecting a candidate with a strong chance of winning, which could reflect broader strategies applicable to other gubernatorial races, including Chungcheongbuk.
-
-4. **Opposition Challenges**: The PPP's struggle to present a strong candidate could be a significant factor in upcoming elections, including in Chungcheongbuk, where the absence of a prominent opponent may benefit the Democratic Party.
-
-Overall, while the article does not specifically mention Shin Yong-h
-
-Title: Lawmaker Han Declares Gyeonggi Governor Bid, Pledges to Fulfill Lee's Pragmatism - Seoul Economic Daily
-Author: Suwon - Son Dae-Seon
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://en.sedaily.com/society/2026/02/12/lawmaker-han-declares-gyeonggi-governor-bid-pledges-to
-Summary: Lawmaker Han Jun-ho has officially announced his candidacy for the Gyeonggi Province gubernatorial election, emphasizing his commitment to continue the pragmatic governance style of former President Lee Jae-myung. Han's campaign focuses on collaboration with the central government, addressing real estate and transportation issues, and implementing innovative projects like the "P10 Project" and the "GTX Ring" for improved infrastructure.
-
-While Han faces criticism regarding his administrative experience, he highlights over 21 years in various leadership roles across sectors, including IT, finance, and broadcasting. He defends recent government tax measures as necessary normalization rather than punitive actions and urges patience for policy consistency, citing the government's short time in office.
-
-Han's relationship with Lee Jae-myung is a significant aspect of his campaign, as he positions himself as the candidate best suited to uphold Lee's policies. His confidence in polling suggests he believes name recognition will shift once the election campaign intensifies.
-
-For predicting the outcome of the 2026 Chungcheongbuk Province gubernatorial election, consider factors such as Han's political alignment with Lee, his proposed policies, and his ability to connect with voters on local issues, as well as the overall political climate in South Korea leading up to the election.
+Title: 신현광 영동군의장 "선당후사 자세로 충북도의원 출마" | 연합뉴스
+Author: 박병기
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://www.yna.co.kr/view/AKR20260210080700064?section=local%2Fchungbuk%2Findex
+Summary: Shin Hyun-kwang, the incumbent Yongdong County Council Chair, announced his intention to run for the Chungbuk Provincial Council as a member of the People’s Power Party, emphasizing a strategic move for regional benefit and party unity. Although initially considered a candidate for Yongdong County Mayor, he shifted focus to the provincial council, citing a "selfless" attitude and a desire to contribute to regional development. His decision has intensified competition within the party, with other candidates like Jeong Young-chul, Kim Guk-ki, and Yoon Seok-jin also vying for the county mayor position. Shin's move indicates a strong political positioning and support within his party, but the outcome of the 2026 election will depend on various factors, including intra-party dynamics, voter support, and regional political trends.
 
 

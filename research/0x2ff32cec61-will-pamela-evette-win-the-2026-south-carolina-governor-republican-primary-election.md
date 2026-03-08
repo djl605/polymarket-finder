@@ -1,7 +1,7 @@
 # Research: Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?
 
 **Market ID:** 0x2ff32cec61a2e9924b5e1207974fdb171efe4568bff1aff58b3d15b26237b36b
-**Researched At:** March 1, 2026 at 06:08:46 AM UTC
+**Researched At:** March 8, 2026 at 02:34:59 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?"
 
 ---
@@ -9,45 +9,49 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 8.0¢
+**Expected Value:** 10.8¢
 
 ### Summary
 
-Recent polls show Evette leading only in the low 20s with over 40% undecided and multiple viable challengers; while the McMaster endorsement helps, there is no basis in the data for a 65% win probability today, suggesting the market is likely overpricing her chances by about 20 cents.
+Recent Feb 2026 polling puts Evette at 16% in a fragmented field with 30% undecided, and her own internal data show her trailing third place—hardly consistent with a 58% win probability. Despite strong fundraising and McMaster’s endorsement, there’s no new evidence suggesting the market has priced in the major surge she’d need.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Lt. Gov. Pamela Evette will be the overall winner of the June 9, 2026 South Carolina Republican gubernatorial primary (including any runoff). A “YES” requires Evette to finish either first with a majority in the first round or, failing that, to prevail in a runoff between the top two. A “NO” covers any other candidate winning outright or in a runoff, or no primary occurring.
+The market asks whether Lt. Gov. Pamela Evette will win the June 9, 2026 South Carolina Republican gubernatorial primary (including any run-off). A “YES” requires her to finish first—or place top two in the first round and then win the run-off; a “NO” covers any other outcome or no primary.
 
 2. EVIDENCE EVALUATION  
-Bullish on Evette (supports ~65% price):  
-• Incumbent endorsement: Gov. Henry McMaster’s Feb 12 endorsement gives Evette establishment backing, fundraising leverage, and a rally-the-base boost.  
-• Statewide office: As Lt. Gov., she has higher visibility than many rivals, potentially converting undecided voters once she consolidates the conservative and Trump-aligned factions.  
+Bullish signals:  
+• Q4 2025 fundraising leader ($962K cash, $1M+ with in-kind) with strong grassroots in Pee Dee and SCGOP’s $50K gift (Mar 3 Yahoo).  
+• Endorsement by Gov. McMaster, alignment with his policies, self-branding as a “Trump Republican” (Feb 12 Goupstate).  
+• Early 2025 poll gave her a slight edge (31%), showing at least periodic front-runner status.  
 
-Bearish on Evette (suggests price too high):  
-• Early polling fragmentation:  
-  – Trafalgar (Feb 7): Evette leads at 21.9% vs. Wilson 20.1%, Mace 17.3%, with 43% undecided.  
-  – SCPC (Feb 7): Mace 18%, Evette & Wilson tied at 12%, 43% undecided.  
-  – An Oct 2025 Trafalgar poll showed Evette at just 20% with 41% undecided.  
-  These numbers imply no candidate is close to a majority, and with three plus candidates, a runoff is likely. Even if Evette leads, converting undecideds is uncertain.  
-• High volatility: Over 40% “undecided” in polls four months out signals large swings are possible in either direction.  
+Bearish signals:  
+• Feb 9 poll: Evette at 16% vs. Wilson 23%, Mace 17%, Norman 12%; 30% undecided—she’d need an outsized share (~two-thirds) of undecideds merely to lead first round.  
+• Feb 24 internal poll: reportedly in fourth place behind Wilson, Mace, Norman, suggesting her own campaign views are underestimating her chances absent a surge.  
 
-Source credibility is solid (local reputable pollsters and established news outlets) and recent (Feb 2026). No evidence indicates an extreme tail event or hidden “slam-dunk” factor that would push win probability to 65% today.
+Source credibility & timing:  
+• Polling outlets (FITSNews) have small/sample-size uncertainty and undisclosed methodology.  
+• Fundraising and endorsements are solid but not determinative.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 65% probability can be rationalized if traders overweight the McMaster endorsement and Evette’s incumbency benefits, assuming she consolidates establishment support and benefits from Trump alignment. Low volume may reflect a lack of specialist traders in SC Republican polling rather than clear consensus; it may also indicate that the market liques out to one or two strong hands rather than a broad information aggregation.
+• A 58% probability implies strong consensus on her eventual momentum and run-off victory.  
+• Low $1.9K volume and 2¢ spread imply few traders—price may reflect one bullish view rather than broad information aggregation.  
+• The field is fragmented with high undecided rates—experienced traders might stay on sidelines until after filing closes (Mar 30) and more polls emerge.
 
 4. MISPRICING ASSESSMENT  
-Given the polls showing Evette under 25% with >40% undecided and significant competition (Wilson, Mace, Norman, Kimbrell), a 65% win probability seems high. Even accounting for her endorsement and incumbency, there is no credible path in current data suggesting she has two-to-one odds. A more plausible win probability would be in the 35–45% range today. Thus the market appears to be overpricing Evette’s chances by roughly 20–30 cents.
+• Taking the Feb 9 poll at face value suggests her first-round probability is well under 40%, and even lower for outright run-off win.  
+• To justify 58%, she’d need to capture roughly two-thirds of undecideds and outperform stronger initial numbers from Wilson/Mace, which recent internal data contest.  
+• No clear top-tier evidence (e.g., additional polls, major endorsements beyond McMaster) indicates a sudden swing—strong fundraising alone rarely flips 40+ points.  
+Thus the market appears overpriced by ~18 cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 40% (moderate confidence in poll-based probability estimate vs. market price)  
-Magnitude of mispricing: 20 cents (market 65% vs. estimated ~45%)  
-Expected value = 0.40 × 20 = 8 cents
+Strength of evidence that price is too high: ~60% (polls and internal polling are credible but limited).  
+Magnitude of mispricing: ~18 cents.  
+Expected value = 0.60 × 18 cents = 10.8 cents.
 
-EXPECTED_VALUE: 8.0  
-SUMMARY: Recent polls show Evette leading only in the low 20s with over 40% undecided and multiple viable challengers; while the McMaster endorsement helps, there is no basis in the data for a 65% win probability today, suggesting the market is likely overpricing her chances by about 20 cents.  
+EXPECTED_VALUE: 10.8  
+SUMMARY: Recent Feb 2026 polling puts Evette at 16% in a fragmented field with 30% undecided, and her own internal data show her trailing third place—hardly consistent with a 58% win probability. Despite strong fundraising and McMaster’s endorsement, there’s no new evidence suggesting the market has priced in the major surge she’d need.  
 CONFIDENCE: medium
 
 ---
@@ -56,55 +60,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: South Carolina Lt. Gov. Pamela Evette is set to make a major ...
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.facebook.com/abcnews4/posts/south-carolina-lt-gov-pamela-evette-is-set-to-make-a-major-campaign-announcement/1364435492393246/
-Summary: South Carolina Lt. Gov. Pamela Evette is scheduled to make a significant campaign announcement on Thursday at 11 a.m. in Columbia. This announcement could provide insights into her strategy and intentions for the upcoming 2026 South Carolina Governor Republican primary election. Observers may want to consider her current political standing, public support, and any key issues she addresses during the press conference, as these factors will be crucial in predicting her chances of winning the primary.
+Title: SC governor's race: Evette leads fundraising. See how others fared
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.yahoo.com/news/articles/sc-governors-race-evette-leads-100203600.html
+Summary: Pamela Evette led the fourth quarter 2025 fundraising for the South Carolina governor's race, raising approximately $962,000 in cash contributions and exceeding $1 million with in-kind donations. Her campaign has strong grassroots support across the state, especially in the Pee Dee region, and backing from key Republican entities like the South Carolina Republican Party, which donated $50,000. While fundraising success indicates solid campaign momentum, it does not guarantee primary victory. However, her substantial financial support and widespread regional outreach suggest she is a prominent contender in the upcoming Republican primary.
 
-Title: Evette, Wilson, and Mace Locked in Tight Three-Way Race for SC Governor – WRHI
-Author: Tom Hyslip
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.wrhi.com/2026/02/evette-wilson-and-mace-locked-in-tight-three-way-race-for-sc-governor-209793
-Summary: The race for the 2026 South Carolina Governor Republican primary is highly competitive, primarily among three candidates: **Lt. Gov. Pamela Evette**, **Attorney General Alan Wilson**, and **U.S. Rep. Nancy Mace**. Recent polling data presents a mixed picture of Evette's chances:
-
-1. **Polling Insights**: 
-   - According to a **Trafalgar Group** poll, Evette leads with **21.9%** support among likely GOP voters, closely followed by Wilson at **20.1%** and Mace at **17.3%**.
-   - Conversely, a **South Carolina Policy Council (SCPC)** poll shows Mace in the lead at **18%**, with Evette and Wilson tied at **12%**. This discrepancy highlights a divided electorate, with **43%** of Republicans still undecided, indicating potential volatility in voter preferences.
-
-2. **Debate Opportunities**: 
-   - A three-part debate series is scheduled, starting on **March 17** at Coastal Carolina University. This platform could significantly impact voter perceptions and candidate standings, allowing Evette to solidify her lead or for challengers to gain momentum.
-
-3. **Incumbency and Experience**: 
-   - Evette's position as Lt. Governor may provide her with an advantage due to her statewide visibility and experience, which could resonate with voters looking for continuity in leadership.
-
-In summary, while Evette currently shows strong polling numbers,
+Title: New Poll Shows Alan Wilson Leading 'Fragmented' S.C. Governor's ...
+Author: Will Folks
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.fitsnews.com/2026/02/09/new-poll-shows-alan-wilson-leading-fragmented-s-c-governors-race/
+Summary: A recent campaign-based poll indicates that South Carolina Lieutenant Governor Pamela Evette currently holds 16% support among likely Republican primary voters, placing her just behind U.S. Congresswoman Nancy Mace (17%) and ahead of Ralph Norman (12%). The poll shows a significant 30% of voters remain undecided. While incumbent Attorney General Alan Wilson leads the race with 23%, the data suggests a fragmented field with no clear frontrunner. Wilson is viewed favorably by 47% of voters, whereas Evette's favorability is not specified but is implied to be lower. Given the high undecided percentage and the competitive support levels among candidates, Evette's prospects depend on her ability to sway undecided voters and improve her favorability before the primary.
 
 Title: SC Gov. McMaster endorses Pamela Evette in governor election
 Author: Bella Carpentier
 Published Date: 2026-02-12T00:00:00.000Z
 URL: http://goupstate.com/story/news/politics/2026/02/12/south-carolina-gov-mcmaster-endorses-pamela-evette-in-governor-race/88642232007/
-Summary: South Carolina Governor Henry McMaster has officially endorsed Lieutenant Governor Pamela Evette for the upcoming 2026 gubernatorial election. This endorsement, announced on February 12, 2026, is significant as McMaster highlighted Evette's business background and her alignment with conservative values, particularly her support for Donald Trump. Evette aims to continue the policies implemented during McMaster's administration, such as tax cuts and increased teacher pay.
+Summary: South Carolina Lieutenant Governor Pamela Evette has received a significant endorsement from incumbent Governor Henry McMaster, who praised her business background and alignment with his policies. The endorsement was announced on February 12, during a campaign event in Columbia, where McMaster expressed trust and confidence in Evette. She aims to continue McMaster’s achievements, such as tax cuts and increased teacher pay, and is positioning herself as a "Trump Republican," emphasizing her support for former President Trump's policies. Evette faces competition from other Republican candidates, including Attorney General Alan Wilson and U.S. Reps. Nancy Mace and Ralph Norman. Wilson has highlighted a desire for "new leadership," and Mace has emphasized her focus on serving the people rather than seeking endorsements. The primary election is scheduled for June 9, with candidate filing due by March 30. Given McMaster’s strong backing and her alignment with key conservative policies, Evette is positioned as a prominent contender in the Republican primary.
 
-Evette faces competition in the Republican primary from Attorney General Alan Wilson, State Senator Josh Kimbrell, and U.S. Representatives Nancy Mace and Ralph Norman. Polls indicate that Evette is in a tight race with Wilson and Mace, suggesting a competitive primary landscape. Wilson has positioned himself as a candidate for "new leadership," while Mace has also made statements regarding her campaign strategy.
+Title: Early poll gives SC lieutenant governor edge in 2026 race - WCSC
+Author: Nick Reagan
+Published Date: 2025-03-12T00:00:00.000Z
+URL: https://www.live5news.com/2025/03/12/early-poll-gives-sc-lieutenant-governor-edge-2026-race/
+Summary: Early polling indicates that South Carolina Lt. Gov. Pamela Evette currently holds a slight lead among likely Republican voters in the 2026 governor’s race, with 31% support compared to U.S. Rep. Nancy Mace’s 29% and Attorney General Alan Wilson’s 27%. While no candidates have officially announced their campaigns yet, Evette's current polling position suggests she could be a strong contender. However, as the race is still in its early stages, the outcome remains uncertain and will depend on future campaign developments and candidate announcements.
 
-Evette's endorsement from McMaster is seen as a crucial boost, as she described it as the "biggest endorsement in South Carolina." However, the presence of multiple strong candidates in the Republican primary could impact her chances. The dynamics of the race, including voter sentiment and campaign strategies, will be essential in predicting whether Evette can secure a victory in the primary.
-
-Title: Gov. McMaster endorses Lt. Gov. Pamela Evette to be next SC Governor
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://abcnews4.com/newsletter-daily/pamela-evette-to-make-major-campaign-announcement-lt-governor-south-carolina-gubernatorial-race-columbia-sc-2026-republican-primary
-Summary: Governor Henry McMaster has officially endorsed Lt. Gov. Pamela Evette as the next candidate for South Carolina Governor, which could significantly bolster her chances in the upcoming 2026 Republican primary. Evette, who was elected as the 93rd Lieutenant Governor of South Carolina, made a major campaign announcement in Columbia, indicating her readiness to run for the governorship. 
-
-Factors that may influence her success in the primary include her established political experience, the backing of the current governor, and her ability to connect with Republican voters in South Carolina. Additionally, the political landscape, voter sentiment, and her campaign strategies will play crucial roles in determining her chances of winning the primary election.
-
-Title: Evette notches slight lead in latest governor's race poll - WCSC
-Author: 
-Published Date: 2025-10-06T00:00:00.000Z
-URL: https://www.live5news.com/2025/10/06/evette-notches-slight-lead-latest-governors-race-poll/
-Summary: The latest poll from the Trafalgar Group indicates that Lt. Gov. Pamela Evette is currently leading the Republican primary race for the South Carolina governor's seat, with approximately 20% of likely Republican voters supporting her. This places her ahead of U.S. Rep. Nancy Mace, who has about 16%, and Attorney General Alan Wilson, who garners 12%. Despite Evette's lead, a significant 41% of voters remain undecided, suggesting that the race is still very much open.
-
-Evette's campaign spokesperson attributes her lead to growing voter awareness of her loyalty to President Trump and her conservative accomplishments as Lt. Governor. However, both Evette and Wilson have lower name recognition compared to Mace, with 41% of voters unfamiliar with Evette. In contrast, only 12% of voters have never heard of Mace, although she has a higher unfavorable rating among respondents.
-
-Critics from Mace's and Wilson's campaigns have dismissed the poll's credibility, labeling it as misleading and pointing out that Evette's support has dropped significantly since earlier polls. Given the high percentage of undecided voters and the ongoing dynamics of the race, it remains uncertain whether Evette will secure the nomination in the 2026 primary.
+Title: Pamela Evette's Dilemma: Keep Chasing Trump? Or Start Chasing Votes? - FITSNews
+Author: FITSNews
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.fitsnews.com/2026/02/24/pamela-evettes-dilemma-keep-chasing-trump-or-start-chasing-votes/
+Summary: Pamela Evette, South Carolina's lieutenant governor, is seeking to become the state's next governor in 2026. Despite receiving an endorsement from Governor Henry McMaster, her internal polling indicates she remains in fourth place among Republican primary candidates, trailing behind other prominent figures like Alan Wilson, Nancy Mace, and Ralph Norman. Political strategists suggest that Evette should focus on improving her standing rather than relying solely on McMaster's endorsement or Trump’s support, which appears uncertain. Her current position suggests she faces significant challenges in securing the Republican nomination for governor.
 
 

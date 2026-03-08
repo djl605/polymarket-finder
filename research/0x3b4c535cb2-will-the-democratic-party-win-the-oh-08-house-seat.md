@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the OH-08 House seat?
 
 **Market ID:** 0x3b4c535cb25bf843126659849a63844b91bc157a7ff9bc304219fe5702bd3991
-**Researched At:** March 1, 2026 at 06:07:04 AM UTC
+**Researched At:** March 8, 2026 at 02:35:30 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the OH-08 House seat?"
 
 ---
@@ -13,39 +13,37 @@
 
 ### Summary
 
-The 16.5% price reflects Ohio’s Republican-tilted redistricting partially offset by Kaptur’s incumbency and fundraising edge. No strong evidence suggests a significant mispricing.
+Ohio’s 8th District is an open seat but remains GOP‐leaning after redistricting and strong Trump support, making a 16% Democratic win probability plausible. No clear local polling or standout candidate news suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: Will the Democrats win Ohio’s 8th congressional district on Nov 4, 2026? “YES” if the Democrat on the ballot (or caucusing as a Democrat) carries the final certified result; “NO” if the Republican (or non-Democrat caucuser) wins.
+This market asks whether a Democratic‐affiliated candidate will win Ohio’s 8th Congressional District in the November 4, 2026 midterms. A “YES” resolution requires the Democrat who appears on the ballot (or caucuses as one) to be declared the winner by credible media consensus or, if ambiguous, by official FEC results.
 
 2. EVIDENCE EVALUATION  
-Bullish for Democrats (suggesting the 16.5% might be too low):  
-• Incumbency and name recognition: Marcy Kaptur’s decades in office generally give her a strong personal vote share.  
-• Fundraising advantage: Recent reports show Kaptur outraising GOP challengers, easing the path to competitive messaging and turnout operations.  
-• State party coordination: Ohio Democrats have endorsed incumbents and are mobilizing around key issues, which could slightly boost turnout in traditionally strong areas.  
-
-Bearish for Democrats (suggesting the 16.5% might be reasonable or even too high):  
-• Republican-drawn redistricting: The new OH-08 boundaries tilt more heavily Republican, making this her toughest race ever. Analysts uniformly describe it as a toss-up or slight GOP lean.  
-• No public polling: In the absence of internal or external polls showing a late surge, markets default to the redistricting baseline, heavily favoring Republicans.  
-• Low trading volume implies limited information flow—if there were private polls showing a closer race, volume would likely spike.
-
-Source credibility is solid (recent local and national outlets, redistricting analyses) but none provide an explicit win‐probability.
+Evidence suggesting the 16.0% price might be too high:  
+ • Ballotpedia notes an open seat with no incumbent and “fairer” redistricting under Ohio’s amendment, which could narrow the GOP tilt and give Democrats a somewhat better chance than in a strongly gerrymandered map.  
+Evidence supporting the 16.0% price:  
+ • NOTUS and CNN both emphasize that Ohio districts (including OH-08) have been redrawn or oriented to favor Republicans, echoing Trump‐leaning results, making flips unlikely.  
+ • National generic ballot shows Democrats ahead by ~5 points, but local demographics and Trump support in this district likely outweigh the modest national tailwind.  
+Source credibility and recency:  
+ • All sources are from Feb–Mar 2026, reputable outlets (CNN, Nate Silver, Ballotpedia, local news). None provide specific polling in OH-08, leaving key candidate‐quality and turnout data unpriced.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 16.5% price fits a model where Republicans hold a ~80-85% base probability after redistricting, slightly trimmed by Kaptur’s incumbency and fundraising edge. Low volume likely reflects the race’s obscurity to most bettors rather than a glaring inefficiency, and the narrow 3¢ spread suggests the few active traders see no obvious arbitrage.
+ • A 16.0% price aligns with a consensus that OH-08 is a GOP‐leaning open seat with some national Democratic momentum but insufficient to overcome the local partisan tilt.  
+ • Low volume could reflect both the district’s clear Republican lean (making it uninteresting to many traders) and the absence of local polling. It might also mean only a handful of traders with partisan‐leaning views are active.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, missing piece of evidence indicating a large deviation from an ~15–25% Democratic win probability. All public factors—redistricting, incumbency, fundraising, party mobilization—appear in line with the current price. No credible sign of a >10¢ mispricing.
+ • No strong evidence indicates the market is missing a major development (e.g., a standout Democratic recruit); conversely, the lack of local polls means small shifts aren’t yet fully reflected.  
+ • Given the available information, a modest undervaluation (a few cents) is possible but nothing like a 20¢ mispricing. The most charitable interpretation is that informed traders have set 16% in light of solid GOP advantages and only an average Democratic environment.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20% (scant evidence of undervaluation)  
-Magnitude of mispricing: 5¢ (at most a small underpricing if any)  
-Expected value = 0.20 × 5¢ = 1¢
+ • Strength of evidence against large mispricing: ~30% (no compelling local upside found).  
+ • Magnitude of potential mispricing: ~5¢ (a small, incremental correction if any).  
+ • Expected value = 30% × 5¢ = 1.5¢ → round to 1¢ expected value.
 
 EXPECTED_VALUE: 1  
-SUMMARY: The 16.5% price reflects Ohio’s Republican-tilted redistricting partially offset by Kaptur’s incumbency and fundraising edge. No strong evidence suggests a significant mispricing.  
+SUMMARY: Ohio’s 8th District is an open seat but remains GOP‐leaning after redistricting and strong Trump support, making a 16% Democratic win probability plausible. No clear local polling or standout candidate news suggests a large mispricing.  
 CONFIDENCE: low
 
 ---
@@ -58,51 +56,30 @@ Title: Marcy Kaptur Faces Her Toughest Race Yet After Ohio’s Republican Redist
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.notus.org/2026-election/ohio-marcy-kaptur-democratic-reelection-redistricting
-Summary: Marcy Kaptur, a long-serving Democratic representative, is facing a challenging election for the OH-08 House seat following significant Republican redistricting in Ohio. This redistricting has altered the political landscape, making the race more competitive. Kaptur's district has seen demographic shifts and increased Republican influence, which could impact her chances of re-election. Analysts suggest that voter sentiment, local issues, and Kaptur's ability to connect with constituents will be crucial in determining the outcome. Given these factors, the Democratic Party's prospects in winning the OH-08 seat appear uncertain, hinging on Kaptur's campaign strategy and voter turnout.
+Summary: The article discusses the challenging electoral environment for Democratic Rep. Marcy Kaptur in Ohio's 9th Congressional District, which has been redrawn to favor Republicans and is now more conservative, with President Trump winning the district by over 10 points in 2024. Although Kaptur has historically won competitive elections since 1982, her recent narrow victory and the district's new political landscape suggest increased difficulty. Seven Republicans are competing for the nomination to challenge her, with some openly confident about flipping the seat. While this analysis focuses on Ohio's 9th District, it highlights the broader trend of Republican efforts to target Democratic-held districts in Ohio, including the 8th District, indicating a potentially challenging environment for Democrats in similar districts.
 
-Title: Republicans Set to Flip OH-09, Retire Marcy Kaptur - NRCC
-Author: Zach Bannon
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.nrcc.org/2026/02/04/republicans-set-to-flip-oh-09-retire-marcy-kaptur/
-Summary: The NRCC article discusses the Republican strategy to flip the OH-09 House seat, currently held by long-serving Democrat Marcy Kaptur, who is expected to retire. The piece highlights four dynamic Republican candidates vying for the nomination, emphasizing their unique backgrounds and fresh perspectives. The NRCC expresses confidence that whoever wins the primary will effectively challenge Kaptur and provide better representation for Northwest Ohio.
-
-For predicting whether the Democratic Party will win the OH-08 House seat, consider the following factors:
-
-1. **Incumbency**: Marcy Kaptur has a long tenure, which typically benefits incumbents.
-2. **Candidate Dynamics**: The strength and appeal of the Republican candidates in the primary could influence the general election outcome.
-3. **Voter Sentiment**: Local voter sentiment towards the Democratic Party and its policies, especially in light of Kaptur's retirement, will be crucial.
-4. **Historical Trends**: Analyze past election results in OH-08 to gauge how competitive the district has been for Democrats versus Republicans.
-
-These elements can help assess the likelihood of a Democratic victory in the upcoming election.
-
-Title: Incumbent Ohio Dems outpace GOP challengers in fundraising
+Title: Seventy-eight candidates are running for Ohio’s 15 U.S. House districts — the second-most since 2014 - Ballotpedia News
 Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://spectrumnews1.com/oh/cleveland/news/2026/02/12/ohio-fundraising-landsman-kaptur
-Summary: The article discusses the fundraising efforts of incumbent Ohio Democrats, specifically Reps. Marcy Kaptur and Greg Landsman, who are significantly outpacing their Republican challengers despite facing challenges from redistricting. With midterm elections approaching, their strong fundraising leads could be crucial in maintaining Democratic control in competitive districts. The balance of power in Congress may hinge on these races, particularly for the Ohio 8th House seat, as both parties prepare for a tight contest. This information suggests that the Democratic Party's fundraising advantage could positively influence their chances of winning the OH-08 House seat.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://news.ballotpedia.org/2026/03/02/seventy-eight-candidates-are-running-for-ohios-15-u-s-house-districts-the-second-most-since-2014/
+Summary: The 2026 Ohio U.S. House elections feature a highly competitive landscape, with 78 candidates across all districts—46 Democrats and 32 Republicans—indicating increased electoral engagement. In Ohio’s 8th district, no incumbents are running for re-election, and the primary is contested, which could influence the outcome. The district's political dynamics are further shaped by recent redistricting, as Ohio adopted a new congressional map following a constitutional amendment aimed at fairer district boundaries. Since primary elections are decided by plurality vote, candidate support and campaign strategies will be crucial. Overall, the competitive candidate field and recent redistricting suggest a potentially close race, making the Democratic Party’s chances in OH-08 uncertain and highly dependent on campaign performance and voter turnout.
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:06:48.240Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article discusses the key U.S. House seats that could determine the majority in the upcoming 2026 elections, with a focus on various factors influencing these races. For the specific question regarding the Democratic Party's chances in the OH-08 House seat, the article highlights the importance of local dynamics, candidate profiles, and recent political trends in Ohio.
+Title: These are the districts that will decide House control | CNN Politics
+Author: Ronald Brownstein
+Published Date: 2026-02-15T00:00:00.000Z
+URL: https://us.cnn.com/2026/02/15/politics/house-control-districts-vis
+Summary: The 2026 House election landscape is heavily influenced by districts that lean toward former President Donald Trump, making them challenging for Democrats to flip. Specifically, many districts, including Ohio's 8th (OH-08), are characterized by strong Republican support, with fewer vulnerable seats available for Democrats to target. While Democrats remain optimistic about regaining the House with a relatively small gain of just three seats, the heavily Republican-leaning districts—like OH-08—pose significant hurdles. The overall trend suggests that districts in Trump-stronghold areas are less likely to favor Democrats, indicating that winning OH-08 may be difficult given the current political terrain.
 
-Key points relevant to predicting the outcome for the OH-08 seat include:
+Title: Ohio’s 2026 primary ballot shapes up: See which candidates made it and which didn’t - cleveland.com
+Author: Jeremy Pelzer, cleveland.com
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://www.cleveland.com/news/2026/02/ohios-2026-primary-ballot-shapes-up-see-which-candidates-made-it-and-which-didnt.html
+Summary: The article details Ohio’s 2026 primary ballot, highlighting the candidates who have qualified for statewide offices, including the U.S. Senate, governor, secretary of state, and Ohio Supreme Court. Key Democratic candidates include Sherrod Brown for U.S. Senate and Amy Acton for governor, with multiple candidates vying for the Democratic nomination for secretary of state. The primary races are still being finalized, with some protests possible. While the article provides insight into the competitive nature of various primaries, it does not specifically address the Ohio-08 House seat or its potential outcome. Therefore, predicting whether the Democratic Party will win the OH-08 seat based solely on this information is limited, as the article focuses on statewide races and candidate qualification processes rather than district-level contests.
 
-1. **Political Landscape**: Ohio has been a battleground state with fluctuating support for both parties. The article suggests examining recent voting patterns and demographic shifts in the district.
-
-2. **Candidate Influence**: The profiles of candidates running for the OH-08 seat will be crucial. The article emphasizes the significance of candidate appeal and campaign strategies in local elections.
-
-3. **Redistricting Effects**: Changes in district boundaries due to redistricting can impact party strength. The article notes that Ohio's redistricting process could favor one party over the other, making it essential to analyze the new district map.
-
-4. **Voter Sentiment**: Understanding voter sentiment and key issues that resonate with constituents in OH-08 will be vital. The article suggests monitoring local polls and community concerns leading up to the election.
-
-Overall, while the article does not provide a definitive prediction for the OH-08 seat, it underscores the importance of these factors in assessing the Democratic Party's chances in the upcoming election.
-
-Title: Ohio Democrats set 2026 midterm slate: Amy Acton, congressional incumbents lead the way
-Author: 
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.abc6onyourside.com/news/local/ohio-democrats-set-2026-slate-acton-congressional-incumbents-lead-the-way-politics-elections-midterms
-Summary: The Ohio Democratic Party has recently endorsed Dr. Amy Acton for governor and Justice Jennifer Brunner for reelection to the Ohio Supreme Court, alongside supporting the state's five Democratic congressional incumbents. This strategic move aims to unify the party against perceived threats to democracy from Republican leadership. The focus on key issues such as affordability and public school funding, championed by Acton, may resonate with voters in the upcoming elections. The incumbents' established presence and the party's coordinated efforts could influence the competitiveness of the OH-08 House seat, especially as they aim to mobilize support against Republican candidates. The outcome will depend on voter sentiment regarding these issues and the effectiveness of the Democratic campaign strategy leading up to the midterms.
+Title: Generic Congressional Ballot: Latest Polls | Silver Bulletin
+Author: Nate Silver
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls
+Summary: The current national generic congressional ballot shows Democrats holding a consistent lead of approximately 5.4 to 5.6 points over Republicans since early February, indicating a relatively stable advantage for Democrats heading into the midterms. While this national trend suggests a favorable environment for Democrats, local races like Ohio's 8th Congressional District (OH-08) can be influenced by state-specific factors, candidate quality, and district demographics. The ongoing primary races in Texas highlight the importance of state-level dynamics, especially in competitive Senate contests, which could impact overall party momentum. However, the national polling average does not provide specific insights into Ohio's district-level race. Therefore, predicting the outcome of the OH-08 House seat would require additional local polling data, candidate information, and district-specific political trends beyond the national generic ballot figures.
 
 

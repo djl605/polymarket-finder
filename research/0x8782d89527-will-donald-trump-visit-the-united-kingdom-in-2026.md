@@ -1,57 +1,63 @@
 # Research: Will Donald Trump visit the United Kingdom in 2026?
 
 **Market ID:** 0x8782d89527979fd2d97ab44448a7249cdcf83cfddb0c2968216b4ad7a2d42704
-**Researched At:** March 2, 2026 at 02:53:30 PM UTC
+**Researched At:** March 8, 2026 at 02:34:33 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Donald Trump visit the United Kingdom in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 8.0¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-No public or official sources confirm a 2026 UK visit by Trump, yet the market is at 79.5%, suggesting it may be ~20¢ too high. Low trading volume and lack of formal plans imply an overpricing of about 20¢.
+Recent credible reporting shows rising UK–US tensions and no announced 2026 UK visit by Trump, but absence of plans isn’t definitive and past precedent keeps the probability high. Evidence of a large mispricing is weak.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump will physically enter UK territory (land or maritime) at any point from January 1 to December 31, 2026. A “Yes” means he visits; a “No” means he does not.  
+The market asks whether President Trump will physically enter the UK between Jan 1 and Dec 31, 2026. A “Yes” requires any official or private trip landing on UK soil (maritime or terrestrial). If he does not set foot there in that period, it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish for a visit (supports ~80%):  
-- Trump–UK ties remain strong. He’s already had two state visits (the latest in September 2025), signaling willingness to travel.  
-- Ongoing high-stakes talks (NHS drug pricing, Chagos Islands, Ukraine/Gaza) could warrant in-person meetings.  
-- 2026 marks the 250th US anniversary, which could draw Trump for commemorations.  
+Bullish on “Yes” (supports ~84.5%):  
+• Historical precedent: Trump made a state visit in mid-2025 and is likely to maintain high-profile UK ties.  
+• UK–US “special relationship” typically produces reciprocal visits.  
 
-Bearish against (~20–40%):  
-- No official announcement or invitation for a 2026 UK trip appears in recent sources (Feb 2026 phone call, Politico, Telegraph, GOV.UK).  
-- High-level issues have been handled remotely (e.g., phone calls), suggesting Washington may not prioritize a visit.  
-- No scheduled summits or UK-hosted events requiring a presidential visit in 2026 have been reported.  
+Bearish on “Yes” (suggests lower probability):  
+• All four March 2026 articles (Independent, AOL, Reuters, Politico, BBC) report rising diplomatic tensions—Trump publicly criticizes Starmer, calls him “no Churchill,” and expresses disappointment in UK support on Iran.  
+• None of the reports mention any planned or rumored Trump trip to the UK in 2026, and two explicitly note no indication of such a visit.  
+• Tension could deter a formal visit in 2026; news coverage focuses on King Charles’s US trip, not a Trump UK trip.  
 
-All sources are recent (Feb 2026) and credible (GOV.UK, AP/Politico, Telegraph). The absence of any formal plan or invitation is notable, given how public state visits are arranged. If this were already under serious negotiation, one might expect leaks or official preliminary announcements.  
+Source credibility & recency: Reuters, BBC, Independent, Politico are high credibility; all dated early March 2026, very recent.  
+
+Obvious bearish evidence (no announced trip) would likely already be priced in if consensus were strong.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 79.5% price could reflect genuine consensus that Trump’s enthusiasm for UK pageantry and pressing bilateral issues make a visit almost certain.  
-- Conversely, low $3k volume and tight spreads hint that a small number of traders—or even one—may have imposed a bullish bias untested by broader market engagement.  
-- The outcome is neither trivial nor locked in: it remains sufficiently uncertain that informed traders might still add liquidity if there were hard intel.  
+• A mid-80s probability can be rationalized by “default” belief that the US and UK heads of state trade visits at least once per term.  
+• Low $3 k volume & tight spread could mean either (a) the consensus view is clear, so few trades occur, or (b) a small number of confident traders are propping up the price without broader engagement.  
+• Lack of new, strong signals either way may have deterred active trading.  
 
 4. MISPRICING ASSESSMENT  
-- There is no direct confirmation of plans in any credible source.  
-- Traders may be extrapolating from past state visits without accounting for the absence of 2026 scheduling.  
-- A rational expectation might be closer to ~60%, leaving ~20¢ of overpricing.  
-- A >20¢ mispricing challenges me to consider unobserved invitations or private negotiations—none of which surfaced in public channels.  
+• No concrete plans for a visit have been reported; tensions arguably reduce likelihood.  
+• However, absence of a public announcement is not strong proof no visit will occur, and past behavior makes a UK stop plausible.  
+• There is no specific, credible negative information that the market has missed.  
+• Likewise, no affirmative signals of a planned 2026 visit have emerged that the market has overlooked.  
+
+Conclusion: No clear mispricing. The current 84.5% could reflect a reasonable balance of historical precedent and diplomatic uncertainty.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is overstated: 40%  
-Estimated overpricing magnitude: 20¢  
-Expected value = 0.40 × 20¢ = 8¢  
+Strength of evidence for mispricing: 20% (weak negative signals).  
+Magnitude of mispricing if any: ~5 cents.  
+Expected value = 20% × 5¢ = 1.0¢
 
-EXPECTED_VALUE: 8  
-SUMMARY: No public or official sources confirm a 2026 UK visit by Trump, yet the market is at 79.5%, suggesting it may be ~20¢ too high. Low trading volume and lack of formal plans imply an overpricing of about 20¢.  
-CONFIDENCE: medium
+6. CONFIDENCE  
+low
+
+EXPECTED_VALUE: 1.0  
+SUMMARY: Recent credible reporting shows rising UK–US tensions and no announced 2026 UK visit by Trump, but absence of plans isn’t definitive and past precedent keeps the probability high. Evidence of a large mispricing is weak.  
+CONFIDENCE: low
 
 ---
 
@@ -59,40 +65,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: PM call with President Trump of the United States: 17 February 2026 - GOV.UK
+Title: As Trump turns on the UK, the King’s trip to Washington in April looks more fraught than ever | The Independent
 Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.gov.uk/government/news/pm-call-with-president-trump-of-the-united-states-17-february-2026
-Summary: On February 17, 2026, UK Prime Minister Keir Starmer had a phone call with U.S. President Donald Trump, where they discussed various international issues, including the situation in Ukraine and Gaza, as well as Iran's nuclear program. While the call emphasized their commitment to peace and stability, there was no mention of a potential visit by Trump to the UK in 2026. Therefore, based on this information, it is unclear whether Donald Trump will visit the United Kingdom in 2026. Further developments or announcements would be needed to make a more accurate prediction.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.independent.co.uk/news/world/americas/king-charles-america-donald-trump-keir-starmer-b2931570.html
+Summary: The article discusses the strained diplomatic relations between the US and the UK, highlighting President Donald Trump's recent criticisms of UK Prime Minister Sir Keir Starmer and the potential impact on the "special relationship." It also details King Charles's upcoming visit to Washington in April, which is complicated by recent family scandals involving Prince Andrew, who is under investigation for misconduct related to Jeffrey Epstein. Given the current tensions and the focus on diplomatic challenges, there is no indication or mention of Donald Trump planning a visit to the UK in 2026.
 
-Title: Donald Trump: Keir Starmer must not give away Chagos Islands in deal
-Author: Connor Stringer
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://telegraph.co.uk/us/politics/2026/02/18/donald-trump-britain-must-not-give-away-chagos-islands/
-Summary: In a recent statement, Donald Trump cautioned UK Prime Minister Keir Starmer against making a deal that would involve giving away the Chagos Islands. Trump characterized such a move as a "big mistake," indicating his strong opposition to any potential transfer of sovereignty over the islands. This warning comes amid ongoing discussions about the future of the Chagos Islands, which have been a point of contention between the UK and Mauritius. 
+Title: King's US visit 'can't come quickly enough' as Donald Trump's fury at Keir Starmer grows - AOL
+Author: AOL
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.aol.com/articles/kings-us-visit-cant-come-191008197.html
+Summary: The article indicates that a royal visit to the United States by King Charles is planned to mark the 250th anniversary of American independence, with the timing still uncertain but described as "very soon." While the visit is primarily to the U.S., there is speculation about a potential reciprocal visit by the Prince and Princess of Wales to the U.S. in July, which could be a significant diplomatic event. Regarding Donald Trump’s visit to the UK, the article does not specify any plans for him to visit the UK in 2026. Instead, it highlights ongoing tensions between the UK and the U.S., Trump’s critical remarks about UK political figures, and the strategic use of royal diplomacy to improve relations. Therefore, based on current information, there is no clear indication that Donald Trump will visit the UK in 2026.
 
-While the article does not directly address Trump's travel plans, his active engagement in UK political matters could suggest a continued interest in UK affairs, potentially influencing whether he might visit in 2026. However, without specific information on planned visits or events, it remains uncertain if Trump will travel to the UK that year.
+Title: Trump says UK's Starmer is no Winston Churchill after rift over Iran strikes | Reuters
+Author: Nandita Bose
+Published Date: 2026-03-03T00:00:00.000Z
+URL: http://polling.reuters.com/world/europe/trump-says-sad-see-us-uk-relationship-is-not-what-it-was-2026-03-03/
+Summary: The article reports on a tense diplomatic exchange between Donald Trump and UK Prime Minister Keir Starmer, highlighting Trump's criticism of Britain's support for U.S. military actions against Iran. Trump expressed disappointment with the UK, comparing Starmer unfavorably to Winston Churchill and criticizing the limited UK involvement in Iran strikes. While the article details ongoing tensions and disagreements over military cooperation and foreign policy, it does not mention any plans or indications of Donald Trump visiting the United Kingdom in 2026.
 
-Title: Will Donald Trump's second state visit be a diplomatic disaster?
-Author: The Week UK
-Published Date: 2025-09-15T00:00:00.000Z
-URL: https://theweek.com/politics/will-donald-trumps-second-state-visit-be-a-diplomatic-disaster
-Summary: The article discusses Donald Trump's upcoming second state visit to the UK, highlighting the complex diplomatic landscape surrounding the event. Key figures like Prime Minister Keir Starmer and King Charles III are expected to navigate sensitive topics such as trade and Ukraine amidst public division over Trump's leadership. A recent poll shows mixed feelings among the British public about the visit, with some viewing it as legitimizing a controversial figure. The visit is further complicated by recent political tensions, including a far-right rally in London and the sacking of the UK ambassador over ties to Jeffrey Epstein, which could overshadow the proceedings.
-
-While the primary goal of the visit is to strengthen the emotional connection between Trump and Britain, analysts suggest that the broader aim is to reinforce the geopolitical relationship between the two nations. Given the current political climate and Trump's divisive reputation, predicting whether he will visit the UK in 2026 remains uncertain. Factors such as ongoing political dynamics, public sentiment, and Trump's own political ambitions will likely influence any future visits.
-
-Title: Trump's UK visit will mix trade and tech talks with royal pomp - KCRG
-Author: Associated Press, JILL LAWLESS and MICHELLE L. PRICE
-Published Date: 2025-09-16T00:00:00.000Z
-URL: https://www.kcrg.com/2025/09/16/trumps-uk-visit-will-mix-trade-tech-talks-will-royal-pomp/
-Summary: The article discusses Donald Trump's recent state visit to the United Kingdom, highlighting the blend of trade and technology discussions with royal ceremonies. During this two-day visit, Trump engaged in talks with Prime Minister Keir Starmer and was hosted by King Charles III at Windsor Castle. The visit aims to reinforce the U.K.-U.S. relationship, especially in light of upcoming celebrations for the 250th anniversary of the United States. 
-
-While the article does not provide direct information about a potential visit in 2026, it notes that Trump is the first U.S. president to receive a second state visit to the U.K., indicating a strong diplomatic relationship. Given the historical context and Trump's fondness for royal pageantry, it is plausible that he may consider another visit in the future, especially if it aligns with significant anniversaries or events. However, the article does not confirm any plans for a 2026 visit.
-
-Title: Donald Trump still isn’t done with Britain’s NHS – POLITICO
+Title: Trump says UK-US relationship ‘not like it used to be’ – POLITICO
 Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.politico.eu/article/donald-trump-us-uk-national-health-service-nhs-medicine-price/
-Summary: The article discusses ongoing negotiations between the Trump administration and the U.K. regarding drug pricing for the National Health Service (NHS). U.S. officials are preparing to revisit a drug pricing deal before the end of Trump's term, which could impact the U.K.'s pharmaceutical spending and trade relations. While the focus is on these negotiations, there is no direct mention of a potential visit by Donald Trump to the United Kingdom in 2026. However, the context of U.S.-U.K. relations and Trump's administration's actions may influence future diplomatic engagements, including a possible visit.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.politico.eu/article/donald-trump-says-uk-us-relationship-not-like-it-used-to-be-keir-starmer-iran/
+Summary: The article reports that Donald Trump has expressed disappointment with the current state of the UK-US relationship, criticizing British Prime Minister Keir Starmer's stance on Iran and the UK's hesitancy to fully support U.S. military actions. Trump highlighted a perceived decline in the strength of the "special relationship" and contrasted it with stronger ties he claims exist with France and Germany. While he comments on political dynamics and recent UK elections, there is no mention or indication of any plans or intentions for Trump to visit the UK in 2026.
+
+Title: Trump belittles Starmer with 'no Churchill' jibe but can the special relationship recover? - BBC News
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.bbc.co.uk/news/articles/c4gqqdy847jo
+Summary: The article discusses the deteriorating state of the relationship between Donald Trump and the UK, particularly highlighting Trump's recent public belittling of UK Prime Minister Keir Starmer by comparing him unfavorably to Winston Churchill. Despite a history of strong diplomatic ties rooted in the "special relationship" established by Churchill, recent events—such as Trump's personal insults and a decline in mutual warmth—suggest tensions are rising. However, historical context indicates that such conflicts do not necessarily preclude future cooperation or visits. Notably, Trump previously visited the UK for a state visit just six months prior, which was marked by positive diplomatic gestures. While current tensions are high, there is no explicit indication in the article that Trump’s 2026 visit is definitively canceled or imminent, but the strained relations could influence future diplomatic plans.
 
 

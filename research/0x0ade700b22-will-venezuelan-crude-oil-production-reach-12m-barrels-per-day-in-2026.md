@@ -1,50 +1,56 @@
 # Research: Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?
 
 **Market ID:** 0x0ade700b2236988fe36cd542748df50f58b241562b51ecdc6e28d8161eaf0652
-**Researched At:** March 3, 2026 at 02:56:51 PM UTC
+**Researched At:** March 8, 2026 at 02:35:23 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Mixed forecasts from credible sources (EIA, Reuters, U.S. agencies) project recovery to ~1.2 m bpd by mid-2026, but structural and sanction‐related risks cloud the outlook. The 40% price plausibly balances these upside and downside factors, and there is no strong specific evidence of a significant mispricing.
+Public EIA and U.S. forecasts suggest a mid-2026 recovery to ~1.2 m bpd under favorable conditions, but structural headwinds and capex needs temper that outlook. A 45% market price sits near the midpoint of assessed scenarios, with no strong evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Venezuela’s monthly crude production (as reported by OPEC’s secondary‐source data) will reach at least 1.2 million bpd in any month of 2026. A “Yes” requires a single monthly reading ≥1,200 tb/d; otherwise, it resolves “No” after the December 2026 report (or by Feb 28, 2027, if that report is missing).
+The market asks whether Venezuelan crude oil production will hit at least 1.2 million barrels/day in any single month of 2026 per OPEC’s “secondary sources” figures. A “Yes” requires that in one of the monthly OPEC reports (Jan–Dec 2026) Venezuela’s line-item reaches ≥ 1200 tb/d (1,200 thousand bpd). Otherwise it resolves “No” after the Dec-2026 report (or by Feb 28 2027 if the Dec report is delayed).
 
 2. EVIDENCE EVALUATION  
-Bullish evidence:  
-• EIA forecasts (Reuters, AInvest) project recovery to ~1.1–1.2 m bpd by mid-2026 given sanctions relief, export licenses for Chevron/Vitol/Trafigura, and investment inflows.  
-• U.S. government sees a possible 30–40% output rise in 2026, implying a jump from ~1.0 to ~1.3–1.4 m bpd if growth materializes.  
+Bullish signals:  
+• EIA/Reuters (Feb 10) forecast recovery to ~1.2 m bpd by mid-2026 under eased sanctions and continued policy support.  
+• U.S. statement (WorldOil, Feb 18) sees a 30–40% uplift in 2026, implying upside above 1 m bpd, potentially topping 1.2 m.  
+• Orinoco Belt ramp-up (Longbridge, Feb 9): output near 1 m bpd, signaling positive growth trends that could accelerate.  
 
-Bearish evidence:  
-• Production only recently climbed back to ~1.0 m bpd (AInvest, Toth, Longbridge) after a drop to 0.83 m bpd, illustrating volatility and shipping/logistical bottlenecks under U.S. oversight.  
-• Structural underinvestment, financial controls, and political risk may slow ramp-up beyond current ~1.0 m bpd levels, making an extra 200 tb/d increase uncertain.  
+Bearish signals:  
+• AInvest (Feb 20) notes production at 830 kbpd in Jan 2026, rebound to ~1 m kbpd still well below 1.2 m; reaching the target requires $10 billion in fresh investment, reforms, and higher Brent prices.  
+• Deepdive (Feb 8) stresses that exports jumping to 800 kbpd reflect logistics relaunch rather than sustained production gains; structural constraints (underinvestment, financial controls) persist.  
 
-All sources are from Feb 2026 and credible (EIA, Reuters, specialized analysts). No single forecast is definitive; most projections of ~1.2 m bpd are conditional on sustained policy reforms and capital inflows.
+Source credibility & recency: All findings are from reputable industry/energy research (AInvest, EIA via Reuters, U.S. Govt statements), all published Feb 2026–Feb 20 2026, so highly timely.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 40% implied probability sits between optimistic mid-year recovery scenarios (~50–60% chance based on bullish forecasts) and downside scenarios where structural barriers keep output sub-1.2 m. The tight spread and low volume suggest a few informed traders are likely setting the price, but the consensus view appears to balance upside potential against operational/policy risks.
+A 45% probability implies roughly equal upside/downside. Given the conditionality on sanctions relief, large capex, political stability, and oil‐price dynamics, 45% sits near the midpoint of bullish vs. bearish scenarios. The low volume could reflect that most interested traders either believe the balance of risks is well known or that the specifics of monthly OPEC data lessen the appeal for quick trading. There’s no glaring sign that the price stems solely from one over-confident participant, as the assumptions align with publicly stated forecasts.
 
 4. MISPRICING ASSESSMENT  
-No clear, specific evidence is missing from the current price. Bullish forecasts likely already priced in by those traders focusing on sanctions relief, while bearish structural concerns are embedded in the sub-50% level. There is no indication of a >20 ¢ mispricing given the conditional and mixed nature of the projections.
+• No clear, actionable information appears omitted. The research consensus shows a plausible 40–60% chance contingent upon reform and investment, consistent with a 45% market price.  
+• Uncertainties (political, financial controls, underinvestment) justify discounting bullish forecasts.  
+• There’s no >20¢ gap between market and what the aggregate of these forecasts implies.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: low (~30%) – the reports are well‐known and traders likely factored them in.  
-• Potential magnitude: small (~5 ¢) – the range of forecasts is tight around 1.2 m, so even a misestimation would only move the market marginally.  
-• Expected value = 30% × 5 ¢ ≈ 1.5 ¢  
+Strength of evidence: 30% (public forecasts already factored into market)  
+Magnitude of mispricing: 10 cents (max likely deviation)  
+Expected value = 0.30 × 10  = 3 cents
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Mixed forecasts from credible sources (EIA, Reuters, U.S. agencies) project recovery to ~1.2 m bpd by mid-2026, but structural and sanction‐related risks cloud the outlook. The 40% price plausibly balances these upside and downside factors, and there is no strong specific evidence of a significant mispricing.  
-CONFIDENCE: low
+6. CONFIDENCE  
+medium
+
+EXPECTED_VALUE: 3  
+SUMMARY: Public EIA and U.S. forecasts suggest a mid-2026 recovery to ~1.2 m bpd under favorable conditions, but structural headwinds and capex needs temper that outlook. A 45% market price sits near the midpoint of assessed scenarios, with no strong evidence of a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,30 +62,30 @@ Title: Venezuela's 2026 Oil Production: Can It Hit 1.1-1.2 Million BPD?
 Author: AInvest
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://www.ainvest.com/news/venezuela-2026-oil-production-hit-1-1-1-2-million-bpd-2602/
-Summary: Venezuela's oil production experienced a sharp decline to 830,000 bpd in January 2026 due to a U.S. naval blockade disrupting exports, but has since rebounded to approximately 1 million bpd after U.S.-authorized traders helped clear storage. Historically, Venezuela's pre-blockade average was around 2.19 million bpd, with a recent target of 1.1-1.2 million bpd for 2026. Achieving this goal depends heavily on the success of recent sanctions relief measures, reforms, and investment inflows, which face challenges from ongoing financial controls and high Brent prices. The EIA projects a potential recovery to 1.1-1.2 million bpd by mid-2026 if reforms succeed, but long-term growth remains uncertain due to structural underinvestment and U.S. oversight.
+Summary: Venezuela's oil production experienced a sharp decline to 830,000 bpd in January 2026 due to a U.S. naval blockade, but has since rebounded to approximately 1 million bpd following U.S.-authorized exports to clear storage. While this recovery marks progress, it remains below Venezuela's pre-blockade average of 2.19 million bpd and the targeted 1.1-1.2 million bpd for 2026. The country's ability to reach 1.2 million bpd depends on successful implementation of sanctions relief, reforms, and attracting over $10 billion in investment. However, ongoing challenges such as financial controls, low Brent prices (~$57/b), and structural underinvestment pose significant hurdles. The EIA projects a potential recovery to 1.1-1.2 million bpd by mid-2026 if reforms succeed, but long-term growth may be hindered by U.S. oversight and persistent underinvestment.
 
 Title: U.S. says Venezuela oil output could rise 30%–40% in 2026
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://worldoil.com/news/2026/2/18/u-s-says-venezuela-oil-output-could-rise-30-40-in-2026/
-Summary: The U.S. predicts that Venezuela's oil output could increase by 30% to 40% in 2026. While specific production targets are not detailed, this projected growth suggests a significant rise in Venezuelan crude oil production. If current levels are considered, such an increase could bring Venezuela closer to or potentially surpass the 1.2 million barrels per day mark by 2026, depending on baseline figures and the pace of development. This forecast indicates a positive outlook for Venezuelan oil production growth, which may support reaching or exceeding the 1.2 million barrels per day threshold in 2026.
+Summary: The U.S. predicts that Venezuela's oil output could increase by 30%–40% in 2026. This suggests a significant potential rise in Venezuelan crude production, which may bring it closer to or beyond the 1.2 million barrels per day mark, depending on current baseline levels and the pace of production growth. The forecast indicates a positive outlook for Venezuelan oil output, contingent on factors such as political stability, investment, and infrastructure development.
 
 Title: Venezuelan oil output could return to pre-blockade level by mid-2026, EIA says | Reuters
 Author: Shariq Khan
 Published Date: 2026-02-10T00:00:00.000Z
 URL: http://in.mobile.reuters.com/business/energy/venezuelan-oil-output-could-return-pre-blockade-level-by-mid-2026-eia-says-2026-02-10/
-Summary: Venezuelan crude oil production is expected to recover to pre-blockade levels, potentially reaching around 1.2 million barrels per day by mid-2026. The U.S. government's expanded licenses and eased sanctions, including allowing more companies like Vitol, Trafigura, and Chevron to export Venezuelan oil, are facilitating the reversal of production cuts. PDVSA has already increased output from about 1 million bpd to nearly 1 million bpd, with further growth anticipated as sanctions relax. The EIA forecasts that Venezuela's oil output could return to pre-blockade levels (~1.2 million bpd) by mid-2026, driven by these policy changes and increased export activity.
-
-Title: Venezuela’s Heavy Sour Comeback: From 300,000 bpd Now to 500,000 by Q3 2026, What Gets Repriced
-Author: Gyula Toth
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://gyulatoth559216.substack.com/p/venezuelas-heavy-sour-comeback-from
-Summary: Venezuelan crude oil production has recently increased to approximately 1 million barrels per day (bpd), with exports at around 800,000 bpd as of February 2026. The country is experiencing a significant revival of heavy sour crude exports, particularly to U.S. Gulf Coast refineries, with exports expected to reach 300,000 bpd in March 2026, primarily via Chevron and Valero. If current export programs and refinery capacities are sustained, there is potential for Venezuelan crude flows to reach 400,000–500,000 bpd by Q3 2026. However, whether production will hit 1.2 million bpd depends on the ability to further ramp up output beyond current levels, which is uncertain given the recent recovery and infrastructure investments. The ongoing easing of sanctions and refinery upgrades support a positive outlook, but reaching 1.2 million bpd within 2026 remains contingent on sustained production growth and market conditions.
+Summary: Venezuelan crude oil production is expected to recover to pre-blockade levels, approaching 1.2 million barrels per day (bpd) by mid-2026. Recent U.S. government actions, including expanded licenses and eased sanctions, have facilitated increased exports and lifted production from around 1 million bpd to nearly 1 million bpd. The U.S. Energy Information Administration (EIA) forecasts that with continued policy support, Venezuela's oil output could return to approximately 1.2 million bpd by mid-2026, aligning with pre-blockade levels.
 
 Title: EXCLUSIVE-Venezuela boosts oil output in Orinoco Belt, country's production approaches 1 million bpd, sources say
 Author: 
 Published Date: 2026-02-09T00:00:00.000Z
 URL: https://longbridge.com/en/news/275334443
-Summary: Venezuela's oil production in the Orinoco Belt has recently increased significantly, approaching 1 million barrels per day (bpd), driven by a boost in output from PDVSA after the easing of previous U.S.-imposed restrictions. The current production level suggests a strong upward trend, with over 500,000 bpd from the Orinoco region alone, up more than 100,000 bpd since early January 2026. While this indicates positive momentum toward higher production, reaching 1.2 million bpd in 2026 would require a substantial and sustained increase beyond current levels. Factors such as ongoing political developments, infrastructure capacity, and the impact of sanctions will influence whether Venezuelan crude oil production can reach 1.2 million bpd within the year.
+Summary: Venezuela's oil production in the Orinoco Belt has recently increased significantly, approaching 1 million barrels per day (bpd), with over 500,000 bpd produced in the region alone. This rise follows the easing of previous restrictions and a reversal of earlier output cuts, indicating a positive trend in Venezuelan crude oil output. However, whether production will reach 1.2 million bpd in 2026 depends on continued growth, infrastructure development, and the stability of political and economic conditions. Currently, the trend suggests potential for further increases, but reaching 1.2 million bpd within the year remains uncertain.
+
+Title: Venezuela exports surge to 800k BPD but output recovery still constrained
+Author: ER Velasco
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://thedeepdive.ca/venezuela-exports-rebound-us-licenses/
+Summary: Venezuela's crude oil exports surged to approximately 800,000 barrels per day (bpd) in January 2026, up significantly from December's 498,000 bpd, primarily due to the lifting of US-imposed restrictions and the release of previously trapped inventories. This rebound was driven more by the resumption of trading and shipping activities following the end of a December oil blockade—including US sanctions and tanker seizures—rather than a substantial increase in actual production. Although exports are approaching pre-blockade levels, they remain below last year's average of 847,000 bpd by about 47,000 bpd. Production data indicates that the increase in exports reflects improved logistics and licensing rather than a structural rise in output. Therefore, while exports are recovering, the current data suggests that Venezuelan crude oil production may still face constraints preventing it from reaching 1.2 million bpd in 2026.
 
 

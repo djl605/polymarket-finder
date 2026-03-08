@@ -1,55 +1,53 @@
 # Research: Will the Democrats win the Vermont governor race in 2026?
 
 **Market ID:** 0x5dacb3919e3eb6372770cba85c42e0f980ddf18b1a767751de700ee272269233
-**Researched At:** March 3, 2026 at 04:22:09 AM UTC
+**Researched At:** March 8, 2026 at 02:33:55 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democrats win the Vermont governor race in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 1.2¢
 
 ### Summary
 
-Incumbent Phil Scott’s 74% approval and no marquee Democratic challenger support a low win probability; the 17.5% price is plausible and lacks clear mispricing.
+With no strong Democratic candidate announced and Gov. Scott highly popular, the 17% probability reflects the consensus outlook; there is no clear, unpriced development suggesting mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- Question asks whether the Democratic nominee will win Vermont’s 2026 gubernatorial election.  
-- A “YES” resolution requires the Democratic nominee to be declared the winner by AP, Fox, and NBC (or via official certification). A “NO” includes any other outcome, chiefly reelection of incumbent Republican Phil Scott or a win by another party/independent.
+The market asks whether the Democratic nominee will win Vermont’s 2026 gubernatorial election. “YES” if the officially certified or AP/Fox/NBC–called winner on election night is the Democratic nominee; “NO” otherwise (including independent or third-party victors).  
 
 2. EVIDENCE EVALUATION  
-Bearish (suggests 17.5% may be too high)  
-- “Democrats Struggle to Find Candidate”: As of Feb 2026 no high-profile Democrat has declared, only three lesser-known candidates showing interest, indicating a weak bench. (Seven Days, 2026-02-11)  
-- Phil Scott’s popularity: 74% approval and +55 net score make him a formidable incumbent in a state where incumbency and cross-party appeal matter. (Morning Consult poll, 2026-02-06)  
+Bearish for Democrats (supports ≲17%):  
+• No leading Democratic challenger. As of Feb 11, only minor candidates have declared, and top potential contender Mike Pieciak remains undecided.  
+• Incumbent Republican Phil Scott’s approval sits at ~74%, suggesting strong reelection odds.  
+• No polling data on Vermont’s general election or Democratic primary are available yet.  
 
-Bullish (supports 17.5% is reasonable or even low)  
-- Vermont’s general electorate has a Democratic tilt in statewide races; history suggests a non-zero baseline for Democrats even against a popular incumbent.  
-- Potential late entry: absence of a candidate now doesn’t preclude a strong contender emerging mid-year, which markets may underweight.  
+Bullish (could push price higher than 17% if):  
+• A high-profile candidate emerges—still plausible before filing deadlines.  
+• Partisan fundamentals in Vermont favor Democrats in statewide races over the long run (per Gambit Forecaster), though they have yet to field a contender here.  
 
-Source credibility and recency are strong (local reputable outlets, polls from Feb 2026). There is no direct evidence that would move the probability dramatically above or below 17.5%, only indicative trends.
+Source credibility/recency: All data are from February–early March 2026 in established outlets (Seven Days, Gambit). There is no more current or direct poll of the general election.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 17.5% price aligns with a consensus view that Democrats are long shots but not impossible, given Vermont’s partisan lean.  
-- Low volume could reflect consensus that there’s little new information until a challenger emerges, rather than negligence.  
-- Alternatively, a few active traders with strong convictions could set the price, but absence of wide trading doesn’t prove mispricing if outcome seems unlikely enough to deter casual bets.
+• At 17%, the market likely aggregates the clear fact of Scott’s popularity and the absence of a strong Democratic challenger.  
+• Low volume and tight spread suggest a few savvy bettors set this price based on common knowledge, not deep divergent views.  
+• The lack of new polling or candidate announcements means few informed traders have more precise information to move the price.  
 
 4. MISPRICING ASSESSMENT  
-- No specific, credible information appears omitted. Key factors—incumbent approval, lack of challenger—are public and arguably baked into the sub-20% probability.  
-- Uncertainty about Scott’s running decision and any late-entering Democrats adds small optionality, plausibly justifying a floor around 15–20%.  
-- Without polling on a declared Democrat vs. Scott matchup or news of a rising challenger, we lack grounds for >5¢ deviation from 17.5%.
+All available evidence points to Democrats being long shots unless a significant new development occurs. There is no specific, credible indicator—no new polls or candidate news—that the market has missed. The current 17% appears a reasonable consensus, not obviously too high or low.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 30% (some bearish signals but no smoking gun)  
-- Magnitude of mispricing: 5¢ (max plausible adjustment downward)  
-- Expected value = 30% × 5¢ = 1.5¢
+Strength of evidence that price is accurate: 40%  
+Magnitude of potential mispricing: ~3¢ (small, given no fresh info)  
+Expected value = 0.40 × 3¢ = 1.2¢  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Incumbent Phil Scott’s 74% approval and no marquee Democratic challenger support a low win probability; the 17.5% price is plausible and lacks clear mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.2  
+SUMMARY: With no strong Democratic candidate announced and Gov. Scott highly popular, the 17% probability reflects the consensus outlook; there is no clear, unpriced development suggesting mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -57,33 +55,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Foulkes' fundraising advantage over McKee persists as 2026 vote nears
-Author: Patrick Anderson
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://burlingtonfreepress.com/story/news/politics/state/2026/02/02/foulkes-fundraising-advantage-over-mckee-persists-as-2026-vote-nears/88478053007/
-Summary: The article details the fundraising dynamics between Democratic candidates Helena Foulkes and incumbent Governor Dan McKee in Rhode Island's 2026 gubernatorial race. Foulkes has maintained a significant fundraising advantage, raising over $558,000 in the last quarter of 2025 and accumulating $2.8 million overall, compared to McKee's $1.1 million. Despite McKee's incumbency, he has struggled to energize donors, partly due to Foulkes' ability to attract out-of-state contributions. Foulkes's strong financial position and sustained fundraising success suggest she is a formidable contender, with her campaign emphasizing her momentum and support. While this information pertains specifically to Rhode Island, it indicates a competitive primary environment with a well-funded challenger potentially capable of unseating an incumbent. However, since the query concerns Vermont's 2026 governor race, this Rhode Island case highlights the importance of fundraising strength, candidate momentum, and donor enthusiasm as key factors that could influence the outcome in Vermont as well.
-
-Title: So… Molly Gray Is the… Outsider? | The Vermont Political Observer.
-Author: John S. Walters
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://thevpo.org/2026/02/10/so-molly-gray-is-the-outsider/
-Summary: The article analyzes the Vermont Democratic primary for lieutenant governor, highlighting the prominent candidacies of Molly Gray and Ryan McLaren, both well-connected insiders with broad support from various Democratic and Progressive figures. Gray, a former lieutenant governor, has secured numerous endorsements, positioning her as a strong contender. McLaren also boasts significant endorsements from key political figures and organizations. The race features a mix of established insiders and perceived outsiders, with both candidates claiming broad appeal across the ideological spectrum. While the focus is on the lieutenant governor race, the discussion underscores the competitive and dynamic nature of Vermont Democratic politics, which could influence the broader political landscape, including the 2026 governor race. However, the article does not directly address the likelihood of Democrats winning the gubernatorial election, but the strong intra-party competition and candidate support suggest an active and potentially unpredictable primary environment that could impact future statewide races.
-
 Title: Democrats Struggle to Find Candidate to Take on Scott | Seven Days
 Author: Kevin McCallum
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/
-Summary: The article highlights that as of early 2026, the Vermont Democratic Party faces significant challenges in fielding a strong candidate to challenge incumbent Republican Governor Phil Scott. Despite Scott's high approval ratings—74% and recognition as the most popular governor in the nation—no prominent Democrats have officially entered the race, and only three lesser-known candidates have shown interest. State Treasurer Mike Pieciak, considered the most viable potential contender, is currently hesitant to run, citing a focus on his current duties. The lack of a credible Democratic challenger raises concerns about the party's ability to unseat Scott in the upcoming election, especially given his strong popularity and fundraising advantage. This situation suggests that unless a prominent candidate emerges soon, the Democrats may face an uphill battle to win the 2026 Vermont gubernatorial race.
+Summary: Currently, no prominent Democratic candidate has announced a run against Governor Phil Scott in Vermont's 2026 election, with only three Democrats stepping up to challenge Lt. Gov. John Rodgers. Despite Scott's high approval ratings (74%), the lack of a strong Democratic contender suggests uncertainty about the party's prospects. State Treasurer Mike Pieciak, considered a leading potential opponent, is hesitant to run due to personal challenges and strategic considerations, though he remains open to the possibility. The Democratic Party faces a challenge in fielding a credible candidate capable of overcoming Scott's popularity and fundraising strength. Therefore, predicting the Democrats' chances in the 2026 governor race remains uncertain, heavily dependent on whether a compelling candidate emerges in the coming months.
 
-Title: Vermont Gov. Phil Scott is most popular in America: See poll
-Author: Margie Cullen
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://eu.burlingtonfreepress.com/story/news/politics/2026/02/06/vermont-gov-phil-scott-is-most-popular-in-america-see-poll/88533081007/
-Summary: Vermont Governor Phil Scott, a Republican, is currently the most popular governor in the United States, with a high approval rating of 74% and a net approval of +55 points, according to a Morning Consult poll. His sustained popularity over 14 consecutive quarters suggests strong bipartisan support, even in a traditionally Democratic-leaning state. While Scott's popularity indicates he may be a formidable candidate in future elections, the current political landscape shows that Vermont's voters favor Democratic governors like Ned Lamont and Maura Healey. However, Scott's high approval ratings and cross-party appeal could influence the 2026 Vermont governor race, making it potentially competitive for both parties.
+Title: Vermont Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/VT.html
+Summary: The NPR webpage for the Vermont Primary Election Results 2026 currently shows no available results for the governor's race or other contests, indicating that the election has not yet concluded or results have not been reported. As such, there is no current data to assess the likelihood of Democrats winning the Vermont governor race in 2026. To make an informed prediction, one would need to consider factors such as historical voting patterns, polling data, candidate profiles, and recent political developments in Vermont, none of which are provided on this page at this time.
+
+Title: New poll shows Foulkes leading McKee in governor's race
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://burlingtonfreepress.com/story/news/politics/elections/2026/02/24/new-poll-shows-foulkes-leading-mckee-in-governors-race/88840539007/
+Summary: The article reports a recent poll indicating that Helena Foulkes leads Governor Dan McKee by 16 points in the Democratic primary for Rhode Island's gubernatorial race, with Foulkes favored by 34% of likely Democratic voters compared to McKee's 18%. The poll also shows low approval ratings for McKee, with only 18% of Rhode Island residents approving of his job performance. McKee's campaign disputes the poll's methodology, citing under-sampling of seniors, a key demographic. Given Foulkes' lead in Rhode Island and the low approval ratings for McKee, the poll suggests a challenging environment for incumbents and could imply a competitive Democratic primary. However, since this data pertains specifically to Rhode Island, its direct relevance to Vermont's 2026 governor race is limited. Nonetheless, the trend of incumbents facing challenges and the importance of candidate popularity could be relevant factors in predicting Vermont's outcome.
 
 Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
 URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The provided document does not include specific information about Vermont's 2026 gubernatorial race or its candidates. It primarily covers the New Jersey and Virginia races, highlighting candidate backgrounds, polling data, campaign dynamics, and endorsements. For Vermont, there are no details on potential candidates, party strategies, or polling trends that could directly inform predictions about whether Democrats will win the 2026 governor race. Therefore, based on this source, there is no relevant information to predict the outcome of Vermont's gubernatorial election.
+Summary: The provided document does not include specific information about Vermont's 2026 gubernatorial race. It primarily covers the New Jersey and Virginia races, highlighting candidate backgrounds, polling data, campaign strategies, and endorsements. Therefore, it offers no direct insights or predictions relevant to whether Democrats will win the Vermont governor race in 2026.
+
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report indicates that gubernatorial races, including Vermont's, are largely influenced by institutional and candidate factors, with fundamental partisan trends remaining stable. While the overall model shows some increased uncertainty and volatility in key races, there is no specific indication that the Vermont governor race is highly competitive or trending toward a Republican upset. Historically, Vermont leans Democratic in statewide elections, and the report suggests that Democratic candidates may have a narrow but consistent pathway to victory in some races. Therefore, based on current fundamentals and the stability of Vermont's partisan environment, it is more likely that Democrats will maintain their hold on the Vermont governor's race in 2026.
 
 
