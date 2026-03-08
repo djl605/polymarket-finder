@@ -1,7 +1,7 @@
 # Research: Lisa Murkowski leaves the Republican Party in 2026?
 
 **Market ID:** 0x304d0fa4874853ab011215531cdd12d05f05a4e4ffe7fc3da40076b742dc358f
-**Researched At:** March 1, 2026 at 06:05:50 AM UTC
+**Researched At:** March 8, 2026 at 04:21:30 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Lisa Murkowski leaves the Republican Party in 2026?"
 
 ---
@@ -9,42 +9,46 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-Research shows Murkowski has voiced discontent and “considered” leaving the GOP, but has made no formal announcement and benefits from remaining. A 21.5% chance reasonably balances her ideological rifts against the rarity of a midterm party switch.
+No credible evidence suggests Murkowski plans to leave the GOP in 2026; her recent statements emphasize party affiliation and Senate service. The 18.5% price appears to overestimate her exit risk by roughly 8–13 cents, yielding an expected value around 6 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Senator Lisa Murkowski will officially announce leaving the Republican Party (including becoming an independent) by December 31, 2026. A “Yes” requires a public statement of departure or party switch; otherwise it resolves “No.”
+The market asks whether Senator Lisa Murkowski will publicly announce by December 31, 2026 that she is leaving the Republican Party (including declaring herself an independent or joining another party). A “Yes” requires an explicit announcement; otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish (Yes) signals:  
-• June 2025 interviews show Murkowski openly “considering” a switch and dissatisfaction with the two-party system.  
-• February 2026 statements opposing Trump’s election bill highlight growing rifts with GOP leadership.  
+Bullish (Yes) arguments:  
+- Murkowski’s history of breaking with her party (e.g., opposing Trump’s election bill) shows she is an independent thinker and willing to defy party leadership.  
+- Ongoing GOP polarization and potential primary challenges in Alaska could push her toward an independent status.
 
-Bearish (No) signals:  
-• Despite frustration, Murkowski repeatedly affirms her alignment with Republican values, especially on Alaska’s oil and gas issues.  
-• She holds a secure six-year Senate term (next up in 2028), making a midterm party jump rare and potentially costly (committee assignments, campaign infrastructure).  
-• No formal announcement to date, and party switches by sitting senators are historically very uncommon.
+Bearish (No) arguments:  
+- February 2026 statements: Murkowski explicitly announced she will not run for Alaska governor and intends to remain in the U.S. Senate under the Republican label.  
+- FactCheck profile: no hint of any plan to leave the GOP; covers her policy independence but no party departure.  
+- Recent news (Feb 2026) shows issue-based dissent, not party exit plans.
 
-All sources are recent and credible (The Hill, NBC, MSN). None report a concrete plan or timetable for an actual switch—only ongoing contemplation and policy disagreements, which markets likely already price in.
+Source credibility and recency: all research is from reputable outlets in Feb 2026 and highly relevant; no credible signals of a party departure.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 21.5% probability plausibly reflects the small but non-zero chance of a rare midterm switch given her well-publicized discontent. Low volume suggests few active traders but also that no major new information has been overlooked—her interviews and dissent have been public for months.
+- A ~18.5% price could reflect a cautious outside chance given her maverick streak.  
+- Low volume suggests that few traders have deeply researched this niche question, but the tight spread implies enough liquidity to reflect a rough consensus.  
+- Given the absence of any announced intention or leaks, the market may be slightly overpricing tail risk.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, actionable information missing from the current price. Evidence on both sides is known and long-standing; the market’s 21.5% seems a reasonable aggregation of her ideological tensions balanced against the high hurdle for a sitting senator to change parties. Thus, no credible mispricing >5¢ is apparent.
+- The research provides no specific reason to believe there is an imminent party exit. A well-informed trader might price this closer to ~5–10%.  
+- The current 18.5% likely overstates actual risk by ~8–13 cents.  
+- There is no indication of a technicality or missed resolution condition.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that market is efficient/no mispricing): 20%  
-Magnitude of mispricing: ~5¢  
-Expected value = 0.20 × 5 = 1.0¢
+- Strength of evidence: ~50% (recent, credible, directly on point but low signal for speculative outcome)  
+- Magnitude of mispricing: ~12 cents  
+- Expected value ≈ 50% × 12 cents = 6 cents
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Research shows Murkowski has voiced discontent and “considered” leaving the GOP, but has made no formal announcement and benefits from remaining. A 21.5% chance reasonably balances her ideological rifts against the rarity of a midterm party switch.  
+EXPECTED_VALUE: 6  
+SUMMARY: No credible evidence suggests Murkowski plans to leave the GOP in 2026; her recent statements emphasize party affiliation and Senate service. The 18.5% price appears to overestimate her exit risk by roughly 8–13 cents, yielding an expected value around 6 cents.  
 CONFIDENCE: medium
 
 ---
@@ -53,37 +57,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Lisa Murkowski says she has thought about switching to Democratic ...
-Author: by Mychael Schnell
-Published Date: 2025-06-24T00:00:00.000Z
-URL: https://thehill.com/homenews/senate/5366218-murkowski-considering-senate-switch/
-Summary: Senator Lisa Murkowski has publicly acknowledged that she has considered switching to the Democratic Party but remains cautious about making such a significant change. In a recent interview, she expressed her frustrations with the two-party system and indicated that while she sometimes feels uncomfortable within the Republican Party, she generally aligns more closely with its values. Murkowski has major policy disagreements with Democrats, particularly regarding issues like oil and gas drilling in Alaska, which she believes are critical for her constituents.
+Title: Lisa Murkowski Won’t Run for Governor
+Author: Taegan Goddard
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://politicalwire.com/2026/02/09/lisa-murkowski-wont-run-for-governor/
+Summary: Lisa Murkowski announced in February 2026 that she will not run for governor of Alaska and intends to continue serving in the U.S. Senate, emphasizing her commitment to her current role over a potential state-level bid. There is no indication from her statements or recent reports that she plans to leave the Republican Party in 2026.
 
-Despite her openness to the idea of becoming an independent who might caucus with Democrats, she emphasized that any decision would need to prioritize the effectiveness of her representation for Alaskans. Murkowski's political future remains uncertain, especially with the evolving dynamics within both parties and her ongoing contemplation of her role in the Senate. Her potential departure from the Republican Party could significantly impact the balance of power in Congress, making her a key figure to watch as the 2026 elections approach.
-
-Title: Lisa Murkowski may leave GOP to become independent, she reveals
-Published Date: 2025-06-25T00:00:00.000Z
-URL: https://cbsaustin.com/news/nation-world/lisa-murkowski-may-leave-gop-to-become-independent-she-reveals-gd-politics-trump-news-alabama
-Summary: Senator Lisa Murkowski has indicated the possibility of leaving the Republican Party to become an independent, as revealed in a recent podcast interview. During the discussion, she expressed openness to exploring options beyond the current political status quo, suggesting that her values would remain unchanged regardless of her party affiliation. Murkowski has previously diverged from GOP positions, particularly in opposition to some actions taken by the Trump administration. Her contemplation of independence reflects a growing discontent with the Republican Party's direction and her desire to better serve Alaskans. This context may be relevant in predicting whether she will officially leave the GOP in 2026.
+Title: Murkowski says she prefers D.C. gig to running for governor of Alaska
+Author: 
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://alaskawatchman.com/2026/02/08/murkowski-prefers-d-c-gig-to-running-for-governor-of-alaska/
+Summary: In 2026, Senator Lisa Murkowski expressed a strong preference to remain in her U.S. Senate role rather than run for governor of Alaska, citing her commitment to her current position and its importance for her state and the country. Although asked about a potential gubernatorial run, she indicated she is not interested in leaving her Senate seat, which she has held for 24 years. Murkowski has a history of breaking with her party, often supporting Democrats, but there is no indication from this article that she plans to leave the Republican Party in 2026.
 
 Title: GOP Sen. Lisa Murkowski comes out against Trump's election bill, with a warning to her party
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.msn.com/en-us/news/politics/gop-sen-lisa-murkowski-comes-out-against-trump-s-election-bill-with-a-warning-to-her-party/ar-AA1W4FQk
-Summary: GOP Senator Lisa Murkowski has publicly opposed former President Trump's election bill, signaling a potential rift within the Republican Party. Her stance may indicate growing tensions among party members regarding election integrity and party alignment. Murkowski's warning to her party suggests she is concerned about the direction it is taking, which could influence her future decisions, including her affiliation with the Republican Party. This context may be relevant for predicting whether she might leave the party in 2026, as her current dissent could reflect broader ideological shifts that might lead her to reconsider her party loyalty.
+Summary: The article reports that GOP Senator Lisa Murkowski publicly opposed former President Trump's election bill, issuing a warning to her party. Her stance indicates ongoing intra-party divisions and her willingness to challenge party lines on key issues. While the article does not specify her future political plans or intentions to leave the Republican Party, her opposition to Trump's legislation and her independent approach suggest she may continue to act independently within the party. This context could be relevant when considering whether Murkowski might leave the Republican Party by 2026, especially if her disagreements with the party's direction persist.
+
+Title: Lisa Murkowski Archives - FactCheck.org
+Author: 
+URL: https://www.factcheck.org/person/lisa-murkowski/
+Summary: The webpage provides a profile of U.S. Senator Lisa Murkowski, highlighting her political actions, voting record, and public statements. It details her positions on issues such as gun legislation, reproductive rights, environmental concerns, and her responses to political attacks. Notably, Murkowski has shown independence within her party, voting for gun safety measures and opposing certain genetically engineered fish approvals. The content does not mention any plans or indications of her leaving the Republican Party in 2026. Therefore, based on this information, there is no evidence or relevant context suggesting that Lisa Murkowski will leave the Republican Party in 2026.
 
 Title: GOP Sen. Lisa Murkowski comes out against Trump's election bill, with a warning to her party
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.nbcnews.com/politics/congress/gop-sen-lisa-murkowski-comes-trumps-election-bill-warning-party-rcna258353
-Summary: In a recent statement, GOP Senator Lisa Murkowski of Alaska publicly opposed the SAVE Act, a sweeping election bill backed by former President Donald Trump that would impose federal voting requirements, including proof of citizenship. Murkowski emphasized that Republicans had previously opposed federal election laws, arguing that election regulations should be left to the states. She highlighted the constitutional authority of states to manage federal elections and criticized "one-size-fits-all mandates" from Washington, particularly in unique states like Alaska.
-
-Murkowski's stance reflects a growing divide within the Republican Party regarding election laws and federal intervention. Her opposition to the SAVE Act, which has significant support among GOP senators, raises questions about her alignment with party leadership and could indicate a potential shift in her political affiliations. As the political landscape evolves, her future within the Republican Party may be influenced by ongoing debates over election integrity and federal versus state control.
-
-Title: Murkowski becomes first Senate Republican to speak out against Trump election bill
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.msn.com/en-us/news/politics/murkowski-becomes-first-senate-republican-to-speak-out-against-trump-election-bill/ar-AA1W9oIh
-Summary: Lisa Murkowski has recently made headlines as the first Senate Republican to publicly oppose a bill related to the Trump election. This stance may indicate her growing divergence from party lines, which could be relevant when considering her political future and potential departure from the Republican Party. Observers might speculate that her opposition to Trump-aligned policies could lead her to reassess her party affiliation by 2026, especially if the party continues to align closely with Trump's agenda. However, further context on her political motivations and the evolving landscape of the Republican Party will be crucial in predicting any potential shift.
+Summary: In 2026, Senator Lisa Murkowski publicly opposed the Trump-backed SAVE Act, a sweeping federal election bill requiring proof of U.S. citizenship to vote nationwide. She emphasized her longstanding stance that election laws should be left to states, criticizing federal mandates and highlighting her opposition to efforts that would federalize election regulations. Her stance indicates a divergence from the Republican Party's push for such legislation, but there is no information suggesting she left the Republican Party in 2026.
 
 

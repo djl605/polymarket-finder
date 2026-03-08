@@ -1,47 +1,48 @@
 # Research: Will Trump's approval rating hit 35% in 2026?
 
 **Market ID:** 0xd2e96e78b5a59e12b4d60d6b8426aa93dc6edf2ed7d711509481050c347856b3
-**Researched At:** March 1, 2026 at 02:33:17 PM UTC
+**Researched At:** March 8, 2026 at 04:19:40 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump's approval rating hit 35% in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.5¢
 
 ### Summary
 
-Recent high-credibility polls show Trump’s approval drifting in the high-30s with a modest downward trend but no clear catalyst for a fall to ≤ 35% with more than ~30% probability. The current 30% market price appears reasonable given poll volatility and historical stability.
+Polls in Feb ’26 show Trump around 36–37% and trending down, but Silver Bulletin’s smoothing means brief dips likely won’t register. With no clear catalyst for a sustained crash below 35%, a 30.5% probability seems reasonable and not obviously mispriced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether, at any point in 2026, Silver Bulletin’s finalized approval rating for Donald Trump will be ≤ 35%. A “Yes” requires at least one data point in 2026 at or below 35%. A “No” means every finalized Silver Bulletin rating throughout 2026 stays above 35%.
+The market asks whether the Green-line approval rating on Silver Bulletin will ever fall to 35% or below on any finalized weekly datapoint between Jan 1 and Dec 31, 2026. A “Yes” requires at least one finalized reading ≤ 35%, otherwise “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish (supports a drop to ≤ 35%):  
-- Multiple polls show a steady decline: Pew (Jan 29) at 37%, Strength In Numbers/Verasight (Feb 24) at 37%, CNN (Feb 23) at 36%, and Qantas mid-Feb at 43% but with a strong downward trend since 2025.  
-- Silver Bulletin reports net approval weakening to –14.9; strong disapproval up to 45%. Poll‐to‐poll volatility (~1–2%) makes a dip below 35% plausible at least once.  
-Bearish (supports no drop below 35%):  
-- Current polling averages in the high-30s, not yet ≤ 35%. No major new scandal or crisis is widely anticipated that would drive a further steep fall. Historical U.S. presidential approvals tend to stabilize around an equilibrium with limited short-term swings.  
-Source credibility: Pew, Reuters/Ipsos, CNN, and Nate Silver’s aggregation are all high credibility and very recent (Jan–Feb 2026).  
+Bullish for YES (i.e., a dip):  
+• Verasight (2/24) and CNN (2/23) polls show Trump at 37% and 36% respectively and trending downward, with independents especially souring.  
+• Pew (1/29) concurs at 37% (down from 40%), signaling a continued weak floor.  
+Bearish for YES:  
+• USA Today (2/27) still finds Trump at ~43% approval; mixed signals across pollsters.  
+• Silver Bulletin’s own summary (3/1) suggests the smoothed Green line is still “well under” 35%—likely a misstatement conflating net approval with raw approval, but it highlights that small fluctuations may be dampened by smoothing.  
+Credibility & Recency: All sources are February–March 2026, from reputable pollsters. No single poll is definitive, and Silver Bulletin smoothing means isolated dips might not register.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 30% probability fits a scenario where traders recognize the downward trend but also note his approval heavy base in the high-30s and limited evidence of an imminent shock. Low volume may simply reflect that this is viewed as a niche question with a straightforward, moderately uncertain outcome rather than a grossly mispriced opportunity.
+A 30.5% chance can be rationalized by the fact that—even if raw polls briefly touch 35%—the smoothed trend line may never quite cross that threshold unless the drop is both sharp and sustained. Low volume could reflect that informed traders recognize the smoothing nuance and see a lower probability, rather than the market being “forgotten.”
 
 4. MISPRICING ASSESSMENT  
-No clear, unpriced catalyst emerges from the research. The ~2-point gap from current ~37% polls to the 35% threshold, combined with historic polling volatility, reasonably yields a roughly one-in-three chance of dipping to ≤ 35% at least once. There is no specific credible evidence that this probability should be materially higher or lower by more than a few cents.
+There’s no glaring omission: traders likely know about smoothing and the mixed poll signals. The downtrend is clear, but the magnitude needed to dislodge the smoothed series below 35% is uncertain. Without evidence of a forthcoming shock large enough to overcome smoothing, 30.5% appears defensible.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that mispricing exists: 30%  
-Magnitude of mispricing if any: 5¢  
-Expected value = 0.30 × 5¢ = 1.5¢
+Strength of evidence that price is wrong: ~30% (mixed polls, smoothing nuance)  
+Magnitude of mispricing if wrong: ~5 ¢ (unlikely to be off by > 10 ¢)  
+Expected value = 30% × 5 ¢ = 1.5 ¢
 
 EXPECTED_VALUE: 1.5  
-SUMMARY: Recent high-credibility polls show Trump’s approval drifting in the high-30s with a modest downward trend but no clear catalyst for a fall to ≤ 35% with more than ~30% probability. The current 30% market price appears reasonable given poll volatility and historical stability.  
-CONFIDENCE: low
+SUMMARY: Polls in Feb ’26 show Trump around 36–37% and trending down, but Silver Bulletin’s smoothing means brief dips likely won’t register. With no clear catalyst for a sustained crash below 35%, a 30.5% probability seems reasonable and not obviously mispriced.  
+CONFIDENCE: medium
 
 ---
 
@@ -49,40 +50,36 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: What is Trump's approval rating now? See latest polls in February 2026
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.usatoday.com/story/news/politics/2026/02/27/donald-trump-approval-rating-latest-polls-february-2026/88878712007/
-Summary: As of mid-February 2026, Donald Trump's approval rating stands at 43%, with a significant 56% disapproval rating according to a Quantas Insights poll. The poll indicates that 54% of respondents strongly disapprove of his performance, while only 38% strongly approve. Notably, younger voters aged 18 to 44 show a high disapproval rate of 70%. 
-
-Additionally, a Reuters/Ipsos poll reveals a decline in support for Trump on immigration, dropping from 50% approval earlier in his term to just 38%. Historical data from sources like the New York Times and RealClearPolitics shows that Trump's approval ratings have been net negative since the spring of his first year back in office, with fluctuations but a general downward trend.
-
-Given these trends, predicting whether Trump's approval rating will hit 35% in 2026 seems plausible, especially considering the current trajectory and the intensity of disapproval among key demographics.
-
 Title: Ahead of State of the Union, Trump's approval falls to new low of 37%
 Author: G. Elliott Morris
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.gelliottmorris.com/p/ahead-of-state-of-the-union-address
-Summary: Ahead of his State of the Union address, Donald Trump's approval rating has dropped to a new low of 37%, according to a February 2026 Strength In Numbers/Verasight poll. This decline is significant as it marks a net -22 approval rating, with Trump underwater or tied on all tracked issues, including immigration and border security, which were previously seen as strengths. The poll also indicates that Democrats hold a 10-point lead over Republicans on the generic ballot, the largest margin recorded. Given these trends, Trump's approval rating is facing considerable challenges, making it plausible that it could fall to 35% or lower in 2026, especially if voter discontent continues and his upcoming messaging fails to resonate.
+Summary: The February 2026 Strength In Numbers/Verasight poll indicates that Donald Trump's approval rating has fallen to a new low of 37%, with significant declines across key issues, including border security and tariffs. Given the current downward trend and the fact that his approval is already below 40%, it is plausible that his rating could approach or dip below 35% in 2026, especially if negative perceptions persist or worsen. However, predicting an exact figure depends on future political developments, campaign dynamics, and public sentiment.
 
 Title: Trump's approval rating with independents hits a new low ahead of ...
 Author: Ariel Edwards-Levy, Jennifer Agiesta
-Published Date: 2026-02-23T14:33:00.890Z
+Published Date: 2026-02-23T00:00:00.000Z
 URL: https://www.cnn.com/2026/02/23/politics/trump-approval-rating-independents-cnn-poll
-Summary: As of February 2026, Donald Trump's approval rating stands at 36%, with a notable decline in support among key demographic groups, particularly independents, where his approval has dropped to 26%. A recent CNN poll indicates that only 32% of Americans believe Trump has prioritized the right issues, while 68% feel he has neglected the country's most pressing problems. Additionally, 61% of respondents believe his policies are steering the country in the wrong direction. Given these trends, particularly the significant drops in approval among independents and younger voters, it appears challenging for Trump to regain momentum. The upcoming State of the Union address may provide an opportunity for him to rally support, but the current sentiment suggests that reaching a 35% approval rating could be difficult without addressing the concerns highlighted in the poll.
+Summary: The CNN poll indicates that Donald Trump's approval rating among all adults remains at 36%, with a significant decline among independents to a new low of 26%. His approval among independents has decreased by 15 points over the past year, and his overall support among key demographics, including Latino Americans and younger voters, has also declined notably. Given this downward trend and the current approval levels, it is uncertain whether Trump’s approval rating will reach 35% in 2026, but the data suggests it is approaching that threshold and could potentially fall below it if negative trends continue.
+
+Title: What is Trump's approval rating now? See latest polls in February 2026
+Author: Josh Kelly 
+, 
+ Victoria E. Freile
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.usatoday.com/story/news/politics/2026/02/27/donald-trump-approval-rating-latest-polls-february-2026/88878712007/
+Summary: The latest polls in February 2026 indicate that Donald Trump's approval rating remains below 50%, with recent figures showing a disapproval rate of around 56% and approval at approximately 43%. Polls also reveal a significant decline in support on key issues like immigration, with only 38% approval—down from 50% earlier in his term. Historically, Trump's approval rating has been net negative since spring of his first year back in office, with fluctuations but an overall downward trend into 2026. Given current trends and the high disapproval levels, it is plausible that Trump's approval rating could approach or potentially hit 35% in 2026 if negative sentiment persists or worsens.
 
 Title: Trump Approval Rating: Latest Polls | Silver Bulletin
 Author: Nate Silver
-Published Date: 2026-02-26T00:00:00.000Z
+Published Date: 2026-03-01T00:00:00.000Z
 URL: https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin
-Summary: As of February 24, 2026, Donald Trump's net approval rating stands at -14.9, reflecting a significant decline in popularity. Recent polls indicate extreme disapproval, with net ratings as low as -27 from CNN and -21 from Ipsos/The Washington Post. The data shows that the percentage of Americans who strongly approve of Trump has decreased from 34% at his inauguration to just 24%, while those who strongly disapprove have increased from 31% to 45%. This trend suggests that Trump's approval rating is unlikely to rebound to 35% in the near future, as the decline is primarily driven by shifts in strong approval and disapproval rather than moderate opinions. Overall, the current polling landscape indicates a challenging environment for Trump to regain higher approval ratings.
+Summary: The latest polls as of March 2026 indicate that Donald Trump's approval rating is currently around a net -13.0, with some variation among different pollsters. Most recent data suggest his approval remains below 35%, with the overall trend showing a slight improvement from mid-February but still well under the 35% threshold. Given the current polling averages and recent results, it appears unlikely that Trump's approval rating will reach 35% in 2026 without significant positive shifts in public opinion.
 
 Title: Confidence in Trump Dips, and Fewer Now Say They Support His ...
 Author: Hannah Hartig and Jocelyn Kiley
 Published Date: 2026-01-29T00:00:00.000Z
 URL: https://www.pewresearch.org/politics/2026/01/29/confidence-in-trump-dips-and-fewer-now-say-they-support-his-policies-and-plans/
-Summary: The Pew Research Center's report indicates a decline in President Donald Trump's approval rating, which currently stands at 37%, down from 40% in the fall of 2025. This downward trend suggests a growing dissatisfaction among the American public regarding his job performance. Additionally, the report highlights that a significant portion of Americans, more than two-to-one, believe Trump's actions have been worse than expected. 
-
-As public sentiment continues to shift negatively, with rising calls from Democrats for their leaders to oppose Trump, it raises concerns about his ability to maintain or improve his approval rating. Given these factors, the likelihood of Trump's approval rating hitting 35% in 2026 appears plausible, especially if the current trend continues.
+Summary: The Pew Research Center's January 2026 survey indicates that Donald Trump's approval rating is currently at 37%, which is slightly below the 35% threshold mentioned in your question. The data shows a decline from 40% in the fall of 2025, suggesting a downward trend in his approval ratings. Given this recent decrease and the overall negative perception reflected in the survey—such as only 27% supporting most of his policies and a majority expressing little or no confidence in his leadership abilities—it is plausible that his approval rating could dip below 35% later in 2026. However, since the current rating is just above 35%, whether it will hit that exact threshold depends on future developments and public opinion shifts.
 
 

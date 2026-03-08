@@ -1,54 +1,61 @@
 # Research: Will Islam Makhachev be the UFC Welterweight Champion on December 31, 2026?
 
 **Market ID:** 0xc0f31bcf5266102629e42f887466dd2345b8966dd5aa0ec8125d6aa233cb3a19
-**Researched At:** March 1, 2026 at 06:10:59 AM UTC
+**Researched At:** March 8, 2026 at 04:20:48 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Islam Makhachev be the UFC Welterweight Champion on December 31, 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Given Makhachev’s recent welterweight title win, elite skills, and a lack of clear emerging threats, a ~67.5% retention probability is plausible. There’s no strong, specific evidence suggesting the market is mispriced by more than a few cents.
+Available forecasts are split between a single bullish projection and broader uncertainty about Makhachev’s move to welterweight and the division’s volatility. At 66.5%, the market price reasonably reflects both his talent and the lack of concrete scheduling or matchup info. No credible missing evidence suggests a mispricing larger than a few cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Islam Makhachev will hold the UFC Welterweight Championship on December 31, 2026 at 12 PM ET. “Yes” requires that he (a) move into the welterweight division if not already there, (b) win (or have won) the belt, and (c) still be champion at that moment (i.e. not have been stripped, vacated, or defeated). “No” covers any other outcome (another champion, belt vacant, interim champ, etc.).
+The market asks whether Islam Makhachev will be the official UFC Welterweight Champion at 12:00 PM ET on December 31, 2026.  
+- YES if by that time he holds the undisputed welterweight belt (no interim champions count).  
+- NO if someone else holds it, the belt is vacant, or he never wins it.
 
 2. EVIDENCE EVALUATION  
 Bullish signals  
-• Bloody Elbow (Feb 7 2026) reports Makhachev as the current UFC Welterweight Champion after beating Jack Della Maddalena and notes a frontrunner challenger. Having already claimed the belt by early Feb 2026 suggests he can establish reign momentum.  
-• His elite grappling, fight IQ, and championship résumé at lightweight (per BetMGM and Yahoo/Sports) suggest strong ability to defend at a higher class.  
-• Few confirmed challengers: management hints at a clear next opponent, implying UFC’s matchmaking may favor him (i.e. fewer dangerous stylistic matchups).
+• Nick Baldwin (The Score) predicts Makhachev “will remain” welterweight champion at end-2026, stating he won the belt in November 2026. This implies a roughly 100% chance of him still holding it 1–2 months later.  
+• A speculative “bold predictions” video also highlights his projected dominance if he transitions successfully.  
 
-Bearish signals  
-• Transition from lightweight to welterweight still recent; adaptation risk vs. naturally larger opponents remains untested long-term.  
-• The welterweight division is deep: Morales, Prates, Garry and others present varied threats. A single loss strips his title.  
-• No confirmed defense dates; extended inactivity can open door to injury, weight‐cut issues, or interim belts.  
-• External odds page (OddsShark, Dec 2025) doesn’t even list him among top welterweight futures, implying the broader betting market may be skeptical or slow to update.
+Bearish/uncertainty signals  
+• ESPN notes Makhachev vacated his lightweight title to move up, but offers no assurance he captures or retains welterweight gold. It emphasizes the competitiveness of that division.  
+• MMA Fighting and Yahoo Sports panels don’t mention him at all for end-2026 champions, underscoring the unpredictability and fluidity of UFC titles.  
 
-Source credibility/recency  
-All sources are within the last three months and from known MMA outlets. Bloody Elbow’s statement that he is “current champion” conflicts with broader consensus that he remains a lightweight titleholder as of early 2026; this ambiguity may reflect editorial error rather than hidden information.
+Source credibility  
+• ESPN and MMA Fighting are high-credibility, but they don’t back the bullish thesis directly.  
+• Baldwin’s article is plausible but speculative; the “bold video” is lower-credibility.  
+
+Recency  
+• All sources are from late 2025 or early 2026—timely for a December 2026 outcome—but none cite concrete fight cards, opponents, or contractual details.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 67.5% chance implies two-to-one odds on retention. That level can be justified if traders believe (a) he’s already beaten the division’s best, (b) UFC will give him only handpicked challengers, and (c) he’ll defend once or twice safely before year-end. Low volume means this price could reflect one or two MMA enthusiasts rather than wide professional consensus, but the narrow spread suggests at least some willingness to trade around this view.
+• A 66.5% probability can be justified if informed fans believe: (a) he wins the title at UFC 322 in Nov 2026, and (b) no credible challenger dethrones him in the remaining weeks of 2026.  
+• Low volume and tight spreads suggest a few confident traders rather than broad institutional agreement.  
+• The absence of detailed fight schedules or injury reports means many informed bettors may still be waiting for clearer signals before trading heavily.
 
 4. MISPRICING ASSESSMENT  
-The key unknowns are (1) how many defenses he’ll face before Dec 31, 2026, (2) the timetable and opponent quality, and (3) his injury and weight‐cut stability. None of the research provides a clear probability model for those, so there’s no smoking-gun that the market is 20+ cents off. A 67.5% probability seems neither obviously too high (given his current champion status and skills) nor too low (given deep competition and uncertainty).
+• No strong, specific evidence is missing that would move probability by more than a few cents.  
+• Bullish one-article forecasts are counterbalanced by reputable outlets pointing to division volatility.  
+• Given the long time horizon and lack of concrete fight data, a mid-60s probability seems neither obviously too high nor too low.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 20% (the evidence is speculative, no clear model gap)  
-• Magnitude of potential mispricing: 5 cents (small margin around a plausible 65–70% fair value)  
-Expected value = 0.20 × 5 c = 1 c
+Strength of evidence (that price is wrong): 30%  
+Magnitude of mispricing: 5¢  
+Expected value = 0.30 × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Given Makhachev’s recent welterweight title win, elite skills, and a lack of clear emerging threats, a ~67.5% retention probability is plausible. There’s no strong, specific evidence suggesting the market is mispriced by more than a few cents.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.5  
+SUMMARY: Available forecasts are split between a single bullish projection and broader uncertainty about Makhachev’s move to welterweight and the division’s volatility. At 66.5%, the market price reasonably reflects both his talent and the lack of concrete scheduling or matchup info. No credible missing evidence suggests a mispricing larger than a few cents.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,62 +63,28 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: 2026 UFC champion predictions: Which 11 fighters will end the year ...
+Title: Predicting UFC champions at end of 2026
+Author: Nick Baldwin
+URL: https://thescore.com/mma/news/3447525
+Summary: As of the end of 2026, Islam Makhachev is predicted to remain the UFC Welterweight Champion. The article indicates that Makhachev, who became champion at UFC 322 in November by defeating Jack Della Maddalena, is expected to maintain his reign through 2026. His dominance in the division suggests he will continue to hold the title at year's end.
+
+Title: 2026 UFC champion predictions: Which 11 fighters will end ...
 Author: Ben Fowlkes Uncrowned Thu, January 1, 2026 at 2:00 PM UTC · 13 min read
-Published Date: 2026-01-01T00:00:00.000Z
 URL: https://sports.yahoo.com/mma/article/2026-ufc-champion-predictions-which-11-fighters-will-end-the-year-with-ufc-gold-islam-makhachev-ilia-topuria-140000779.html
-Summary: The article discusses predictions for UFC champions by the end of 2026, including a focus on Islam Makhachev, who currently holds the UFC Welterweight Championship. Key factors influencing his potential to retain the title include his recent performance, fighting style, and competition in the welterweight division. The analysis suggests that while Makhachev is a strong contender, the dynamic nature of the sport and emerging challengers could impact his championship status. For a more accurate prediction, consider Makhachev's upcoming fights, training regimen, and the performance of other top fighters in the division.
+Summary: The article discusses predictions for UFC champions in 2026, highlighting that these forecasts are inherently uncertain due to the sport's volatility and the potential for inactivity or organizational changes to alter titleholders. Specifically, it notes that Tom Aspinall is widely expected to remain the UFC Heavyweight Champion through 2026, as all seven expert panelists agree on his continued reign. However, the article does not mention Islam Makhachev or the welterweight division, nor does it provide any specific insights into Makhachev’s future as a champion or his potential to hold the welterweight title by the end of 2026.
 
-Title: Odds for UFC Champions at the End of 2026
-Author: 
-Published Date: 2025-12-15T00:00:00.000Z
-URL: https://www.oddsshark.com/ufc/future-champions-betting-odds
-Summary: The webpage discusses the odds for UFC champions at the end of 2026, focusing on various divisions, including the welterweight division. While it does not specifically mention Islam Makhachev as a contender for the welterweight title, it provides insights into the current landscape of the UFC and potential future champions.
+Title: UFC 2026 Champions REVEALED: Bold Predictions That ...
+URL: https://millions.co/against-the-fence-fightnight-atf/social-media-post/video/ufc-2026-champions-revealed-bold-predictions-will-shock-you-fv86tv
+Summary: The article discusses bold predictions for UFC champions in 2026, highlighting Islam Makhachev's dominance at welterweight as a key storyline. It suggests that Makhachev is expected to be a significant contender and possibly a reigning champion by the end of 2026, given his current trajectory of domination in the division. However, the prediction is part of a broader, speculative overview of potential titleholders, emphasizing the unpredictable nature of UFC outcomes.
 
-To predict whether Makhachev will be the UFC Welterweight Champion by December 31, 2026, consider the following points:
+Title: MMA Rank 50-1: Which stars could shine the brightest in ...
+Author: ESPN staff
+URL: https://www.espn.com/mma/story/_/id/47674818/mma-rank-2026-which-fighters-best-year
+Summary: The article discusses the dynamic landscape of UFC champions and rising stars, highlighting recent title changes and emerging contenders. Notably, Islam Makhachev, who held the lightweight title in 2025, vacated his belt to move up a division, indicating a shift in his career trajectory. The ranking projections for 2026 suggest that Makhachev's future success depends on his ability to adapt and compete at higher weight classes, but the article does not specify whether he will attain or retain the welterweight title by the end of 2026. Given his move up from lightweight and the competitive nature of the welterweight division, predicting his championship status on December 31, 2026, remains uncertain.
 
-1. **Current Division Status**: Makhachev is primarily known as a lightweight champion, and his move to welterweight would depend on several factors, including his performance in upcoming fights and the competition in that division.
-
-2. **Competitors**: The page lists various fighters and their odds for championship titles, which can help gauge the competition Makhachev would face if he transitions to welterweight.
-
-3. **Fighter Performance**: Makhachev's fighting style, skill set, and ability to adapt to the welterweight division will be crucial in determining his chances.
-
-4. **Betting Odds**: While the specific odds for Makhachev in the welterweight division are not mentioned, analyzing the odds for other top contenders can provide context for his potential success.
-
-In summary, while the webpage does not directly address Makhachev's chances at welterweight, understanding the competitive landscape and his current standing in the UFC will be key to making an informed prediction.
-
-Title: Islam Makhachev's manager reveals who is frontrunner to fight the UFC champion next as talks begin
-Author: Jamie Theodosi
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://bloodyelbow.com/2026/02/07/islam-makhachevs-manager-reveals-who-is-frontrunner-to-fight-the-ufc-champion-next-as-talks-begin/
-Summary: Islam Makhachev, the current UFC welterweight champion, has several contenders vying for a title shot following his victory over Jack Della Maddalena. Notable fighters such as Michael Morales, Carlos Prates, and Ian Machado Garry have all made strong cases for challenging Makhachev. However, Makhachev's management has indicated a clear frontrunner for his next fight, although specific details on who that is were not disclosed in the article. 
-
-Given Makhachev's inactivity since winning the title and the rising competition in the welterweight division, his status as champion by December 31, 2026, will depend on the outcome of his next fight and how he performs against these challengers. The dynamics of the division and the potential for matchups will be crucial in determining whether he retains his championship status.
-
-Title: UFC: Predicting Who Will Be Champion in Every Male Weight Class ...
-Author: Tyler Fell
-Published Date: 2025-12-31T00:00:00.000Z
-URL: https://www.givemesport.com/predicting-every-ufc-champion-end-of-2025-mma/
-Summary: The article discusses predictions for UFC champions across all male weight classes by the end of 2026, including insights into current fighters, their performance trends, and potential matchups. While Islam Makhachev is primarily a lightweight competitor, the analysis suggests that his skills and trajectory could influence his chances of moving up to welterweight. Factors such as his grappling prowess, fight IQ, and potential matchups against top welterweights are considered crucial in determining whether he could capture the welterweight title by December 31, 2026. The article emphasizes the dynamic nature of the UFC landscape, where fighters can rise or fall rapidly based on performance and circumstances.
-
-Title: Islam Makhachev: MMA Record, UFC Title, Next Fight & Earnings | BetMGM
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://sports.betmgm.ca/en/blog/ufc/islam-makhachev-mma-record-ufc-title-next-fight-earnings-bm05/
-Summary: Islam Makhachev is a prominent mixed martial artist with a strong MMA record and current UFC Lightweight Champion status. To assess his potential as a UFC Welterweight Champion by December 31, 2026, consider the following factors:
-
-1. **Current Title and Weight Class**: Makhachev holds the Lightweight title, and moving to Welterweight would require him to adapt to a new weight class and face different competitors.
-
-2. **Fighting Style and Skills**: Known for his grappling and striking abilities, Makhachev's skill set may translate well to the Welterweight division, but he would need to contend with larger opponents.
-
-3. **Upcoming Fights**: His next fight and performance will be crucial. Success in upcoming bouts could solidify his status and momentum as he considers a move to Welterweight.
-
-4. **Competition Landscape**: The Welterweight division is competitive, featuring fighters with diverse styles. Makhachev's ability to navigate this landscape will impact his championship prospects.
-
-5. **Training and Preparation**: His training regimen and ability to adapt to the challenges of a new weight class will be vital for his success.
-
-6. **Injury History and Longevity**: Makhachev's health and ability to maintain peak performance over the next few years will influence his chances of capturing the title.
-
-Overall, while Makhachev has the talent and current championship experience, predicting his future as a Welterweight Champion
+Title: Predictions: Who will be the 11 UFC champions at the end ...
+Author: Jed Meshew
+URL: https://www.mmafighting.com/latest-news/464679/predictions-who-will-be-the-11-ufc-champions-at-the-end-of-2026
+Summary: The article discusses predictions for UFC champions across all divisions at the end of 2026, highlighting the sport's unpredictability. While it does not specifically mention Islam Makhachev or the welterweight division, it provides context on the fluidity of UFC titles, with many champions changing within a year. Notably, the lightweight division, where Makhachev competes, has seen frequent title changes, and there is speculation about potential shifts, including fighters moving between weight classes. Given the history of rapid title changes and the current uncertainty in divisions like heavyweight and light heavyweight, predicting Makhachev's status as welterweight champion on December 31, 2026, remains highly uncertain.
 
 

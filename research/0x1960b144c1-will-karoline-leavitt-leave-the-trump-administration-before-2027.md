@@ -1,7 +1,7 @@
 # Research: Will Karoline Leavitt leave the Trump administration before 2027?
 
 **Market ID:** 0x1960b144c14900701330156dfc592272d97e42084ccc28ad4c653bf8c1f2bcb6
-**Researched At:** March 1, 2026 at 05:59:59 AM UTC
+**Researched At:** March 8, 2026 at 04:19:36 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Karoline Leavitt leave the Trump administration before 2027?"
 
 ---
@@ -13,43 +13,41 @@
 
 ### Summary
 
-Current reporting underscores both Leavitt’s strong MAGA standing and only speculative internal rifts, suggesting the ~38.5% chance of her departure before 2027 reasonably reflects normal turnover risk and little more. Expected mispricing is minimal.
+No direct or insider-driven evidence suggests Karoline Leavitt will leave by year-end 2026; the 33.5% price appears to reflect a baseline churn probability in a low-volume market. There is no clear mispricing large enough to exploit.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Karoline Leavitt, Trump’s White House Press Secretary, will leave (resign, be removed, or otherwise cease to hold her appointment) before December 31, 2026. YES resolves if an official announcement of her departure occurs at any point before that deadline; otherwise it resolves NO.
+The market asks whether Karoline Leavitt will announce her departure or otherwise cease serving in the Trump administration by Dec 31, 2026 (11:59 PM ET). “Yes” requires a formal announcement or public reporting of her exit before that deadline; absent such news it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-– Bearish for YES (i.e., she stays, supporting a low probability of departure):  
-  • Boston Globe (1/31/26) profiles her as a “MAGA star,” deeply aligned with Trump, with high visibility and popularity among his base.  
-  • Feb 18 Roll Call transcript shows she is fully engaged in her duties with no hint of stepping aside soon.  
-– Bullish for YES (i.e., supports a higher departure risk):  
-  • Feb 9 article notes a “subtle split,” as she attended Super Bowl solo, hinting at distancing or friction.  
-  • RFK Jr. dust-up on Feb 2 created internal tensions she had to manage, suggesting ongoing stress and possible fallout.  
-– Credibility/Recency: All items are within February 2026 from reputable outlets (Boston Globe, Roll Call) or moderately credible commentary sites. None report an imminent exit, only speculation about rifts.  
-– No dramatic new developments (no resignation hints, no leaks of an internal purge).
+Bullish (supports leaving):  
+• Articles note turbulence and turnover in Trump’s inner circle (e.g., February 22 “Yikes…” piece), implying nonzero churn risk.  
+• Leavitt’s public gaffes and legal setbacks for the administration (“Babbling Idiot” piece) could erode confidence in her tenure.
+
+Bearish (supports staying):  
+• None of the sources report any credible rumors, insider reports, official leaks, or direct indications that Leavitt plans to resign or will be removed.  
+• Multiple recent pieces focusing on her active promotion of Trump’s agenda (Mirror, Daily Beast) suggest she remains engaged and in good standing.  
+
+Source credibility/recency: All sources are from late February 2026—timely but none cite named insiders or concrete plans for her exit.
 
 3. MARKET EFFICIENCY ANALYSIS  
-– 38.5% could reflect historical turnover of press secretaries (average tenure ~16 months), plus political volatility. She’s held the role for about 12 months now.  
-– Low volume suggests a handful of traders set the price, but the spread is tight, implying at least some liquidity and consensus.  
-– The facts on loyalty and public profile likely support her staying, while commentators have flagged potential friction—but nothing definitive.
+• A 33.5% price could simply reflect a baseline turnover probability for a press secretary in a turbulent administration without any special inside information.  
+• Zero trading volume suggests limited engagement—likely a handful of traders setting a “guesstimate” rather than a strongly informed consensus.  
+• The tight spread points to minimal action rather than high confidence.
 
 4. MISPRICING ASSESSMENT  
-– The evidence of a “rift” is circumstantial and already public; informed traders likely priced in a modest chance of departure.  
-– Nothing in the research suggests a >20¢ mispricing.  
-– The 38.5% probability seems a reasonable compromise between her strong base support and normal White House staff churn.
+• There is no specific, credible evidence indicating a strong >20 cent mispricing.  
+• The price aligns with a plausible churn rate (~30%) given Trump’s historical turnover but lacks signals that would push the odds dramatically higher or lower.  
+• We see no overlooked resolution condition or fresh rumor that would imply a large adjustment.
 
 5. EXPECTED VALUE CALCULATION  
-– Strength of evidence that the price is off: low, maybe 20%, since we lack a clear signal of imminent departure.  
-– Magnitude of mispricing if any: small, around 10¢.  
-– Expected value ≈ 20% × 10¢ = 2¢
+Strength of evidence (0–100%): 20% (no concrete signals)  
+Magnitude of potential mispricing (cents): 10¢ (small drift around plausible baseline)  
+Expected value = 20% × 10¢ = 2¢
 
-6. CONFIDENCE  
-Given the limited and mostly circumstantial evidence, confidence is low.
-
-EXPECTED_VALUE: 2  
-SUMMARY: Current reporting underscores both Leavitt’s strong MAGA standing and only speculative internal rifts, suggesting the ~38.5% chance of her departure before 2027 reasonably reflects normal turnover risk and little more. Expected mispricing is minimal.  
+EXPECTED_VALUE: 2.0  
+SUMMARY: No direct or insider-driven evidence suggests Karoline Leavitt will leave by year-end 2026; the 33.5% price appears to reflect a baseline churn probability in a low-volume market. There is no clear mispricing large enough to exploit.  
 CONFIDENCE: low
 
 ---
@@ -58,37 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Karoline Leavitt Makes Subtle Split From Trump With Flashy Trip To Super Bowl 2026
+Title: ‘Yikes’: Trump’s Inner Circle Implodes — Pregnant Karoline Leavitt Sidelined as 26-Year-Old Brunette Steps In, Critics Call Out His Most Predictable Habit
+Author: Angelina
+Published Date: 2026-02-22T00:00:00.000Z
+URL: https://atlantablackstar.com/2026/02/22/yikes-trumps-inner-circle-implodes-pregnant-karoline-leavitt-sidelined-as-26-year-old-brunette-steps-in-critics-call-out-his-most-predictable-habit/
+Summary: The article highlights recent upheavals within Donald Trump's inner circle, focusing on the appointment of 26-year-old Chamberlain Harris to the Commission of Fine Arts, a move criticized for perceived favoritism and superficial qualifications. Harris, nicknamed the “ballroom czar,” has faced scrutiny over her professional background and her close ties to Trump, who is known for favoring women based on appearance. The piece also discusses Trump's pattern of appointing women based on looks and his controversial comments about women, suggesting a culture of superficiality and favoritism. While the article does not directly mention Karoline Leavitt's role or future, it implies a turbulent environment within Trump's administration, which could influence her tenure. Given the ongoing chaos and Trump's unpredictable appointments, there is uncertainty about whether Leavitt will remain in the administration before 2027.
+
+Title: ‘Babbling Idiot’: Karoline Leavitt Scoffed at a Simple Question from a Reporter— Then Watched Her Entire Argument Collapse in Public
+Author: A.L. Lee
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://atlantablackstar.com/2026/02/28/karoline-leavitt-scoffed-at-a-simple-question-from-a-reporter-then-watched-her-entire-argument-collapse-in-public/
+Summary: The article highlights a tense exchange involving White House Press Secretary Karoline Leavitt, where she dismissively responded to a reporter's question about President Trump being falsely labeled a racist. Her confident stance was undermined by a recent federal court ruling that struck down Trump's executive order to remove a slavery exhibit, emphasizing ongoing legal and political challenges to the administration's handling of historical and racial issues. Given Leavitt's public display of bravado amidst these controversies and the mounting legal setbacks, her future within the Trump administration before 2027 remains uncertain, especially considering the political volatility and potential shifts in personnel.
+
+Title: Karoline Leavitt trolls beg 'please resign' as she makes U-turn after humiliating Trump - The Mirror US
+Author: Ellie Hook
+Published Date: 2026-02-22T00:00:00.000Z
+URL: https://www.themirror.com/entertainment/celebrity-news/karoline-leavitt-maga-minute-aliens-1698181
+Summary: Karoline Leavitt, a 28-year-old White House press secretary and supporter of Donald Trump, actively promotes his administration's achievements through her social media series "MAGA Minute." She highlights recent events such as Trump's meetings, speeches, and policy initiatives, including discussions on UFOs and alien files. There is no information in the article suggesting her plans to leave the Trump administration before 2027; her current activities indicate ongoing support and engagement with Trump's political messaging.
+
+Title: Karoline Leavitt Snaps as She Is Cornered on Trump’s Shifting Story
 Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.thelist.com/2096345/karoline-leavitt-subtle-split-from-trump-super-bowl-2026/
-Summary: Karoline Leavitt, the White House Press Secretary, recently attended Super Bowl LX, marking a potential shift in her relationship with Donald Trump. While she has been a staunch supporter of the president, her decision to attend the event without him—who opted out citing travel concerns—suggests a subtle distancing. Leavitt's participation in the Super Bowl, particularly in a glamorous setting, contrasts with Trump's absence and raises questions about her loyalty and future within the administration. Observers are curious about her stance on the halftime show, especially given Trump's criticism of the performer, Bad Bunny. This divergence in public appearances and opinions could indicate a growing rift, which may influence whether she remains in her position through 2027.
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://thelooker.thedailybeast.com/karoline-leavitt-lashes-out-at-press-over-trumps-shifting-story/
+Summary: The article details Karoline Leavitt's recent defensive stance as White House press secretary amid conflicting narratives about the Trump administration's claims regarding Iran’s nuclear capabilities. She defended President Trump’s assertions that a covert military operation successfully destroyed Iran’s nuclear facilities, despite contradictory remarks from Trump’s envoy suggesting Iran may still be close to obtaining nuclear material. Leavitt criticized media coverage for sensationalism and emphasized Trump’s ultimate authority on Iran policy. There is no information in the article about her future plans or whether she intends to leave the administration before 2027.
 
-Title: 'About to Lose His Job’: RFK Jr. Drops Bombshell, Calls Trump the Worst on His Own Team as Karoline Leavitt Rushes In to Clean Up the Fallout
-Author: Y. Kyles
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://atlantablackstar.com/2026/02/01/karoline-leavitt-scrambles-to-save-trumps-healthy-image-after-rfk-jr-s-expose/
-Summary: The article discusses recent comments made by Robert F. Kennedy Jr. regarding President Donald Trump's eating habits, which he described as "really bad food." This revelation has sparked controversy within Trump's administration, leading to a response from White House Press Secretary Karoline Leavitt, who attempted to clarify the situation. The mixed messages from both Kennedy and Leavitt have fueled speculation about the dynamics within the Trump administration.
-
-Given the context, predicting whether Karoline Leavitt will leave the Trump administration before 2027 may hinge on several factors: her ability to manage internal conflicts, the fallout from Kennedy's comments, and her overall standing within the administration. If she continues to face challenges in damage control or if internal tensions escalate, it could increase the likelihood of her departure. Conversely, if she successfully navigates these issues and maintains support, she may remain in her position.
-
-Title: up 2.91% since Trump took office. Karoline Leavitt lied again this ...
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.facebook.com/christinaloreynews/posts/fact-check-the-average-monthly-rent-in-the-us-in-2026-is-1698-up-291-since-trump/1319583266655582/
-Summary: The post discusses the average monthly rent in the U.S. in 2026, which is reported to be $1,698, reflecting a 2.91% increase since Donald Trump took office. The author, Christina Lorey, accuses Karoline Leavitt of lying about this statistic. While the content primarily focuses on rent statistics and a fact-check against Leavitt's claims, it does not provide direct information about her future in the Trump administration or any indications of her potential departure before 2027. For insights into Leavitt's political trajectory, one might need to consider her public statements, political alliances, and any ongoing controversies she may be involved in.
-
-Title: White House press secretary Karoline Leavitt has become a MAGA star
+Title: Karoline Leavitt Goes on Frantic Posting Spree to Sell SOTU ‘Win’
 Author: 
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://www.bostonglobe.com/2026/01/31/nation/karoline-leavitt-press-secretary/
-Summary: Karoline Leavitt, the 28-year-old White House press secretary, has gained significant attention and popularity within the MAGA movement since her appointment a year ago. As the youngest person to hold this position, she has reshaped the role by attracting large crowds to press briefings, which now include a mix of traditional journalists and new media influencers. Leavitt's tenure has been marked by her staunch defense of President Trump and his policies, earning her both praise from conservatives and criticism from Democrats for her combative style.
-
-Her ability to engage with the media and the public, along with her close alignment with Trump, suggests she is a key figure in his administration. However, her future in the role remains uncertain, as the political landscape can change rapidly. Factors that could influence her decision to stay or leave before 2027 include her relationship with Trump, the administration's performance, and any potential shifts in public or political support. Given her current prominence and the backing she receives from Trump, it seems likely she will remain in her position unless significant changes occur within the administration or her own career aspirations lead her elsewhere.
-
-Title: Karoline Leavitt Holds a Press Briefing at The White House - Roll Call
-Author: Roll Call FiscalNote
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://rollcall.com/factbase/trump/transcript/donald-trump-press-briefing-karoline-leavitt-the-white-house-february-18-2026/
-Summary: In a press briefing held on February 18, 2026, Karoline Leavitt addressed various topics related to the Trump administration, including immigration, law enforcement, and economic policies. While the briefing did not directly discuss her future plans or intentions regarding leaving the administration, her active role in the press event suggests she remains engaged in current political issues. To predict whether Leavitt will leave the Trump administration before 2027, one might consider her involvement in ongoing initiatives, her public statements, and any potential shifts in the administration's strategy or personnel. Additionally, monitoring her interactions with key stakeholders and any emerging political dynamics could provide further insights into her tenure.
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://www.thedailybeast.com/karoline-leavitt-goes-on-frantic-posting-spree-to-sell-sotu-win/
+Summary: Karoline Leavitt, the White House press secretary, actively promoted President Trump's State of the Union address by posting over 30 times in an hour, emphasizing positive headlines and framing the speech as a significant win for Trump. Her social media activity was highly focused on defending and praising Trump’s policies and performance during the speech, despite some fact-checking revealing discrepancies in the claims made by Trump. There is no publicly available information in the provided content indicating her intentions or plans regarding her tenure in the Trump administration or whether she will leave before 2027.
 
 

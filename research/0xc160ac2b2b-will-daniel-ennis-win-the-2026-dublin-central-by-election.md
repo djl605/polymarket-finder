@@ -1,7 +1,7 @@
 # Research: Will Daniel Ennis win the 2026 Dublin-central by-election?
 
 **Market ID:** 0xc160ac2b2b5f9a500cc4893611c65e45f50c4b8dbd204a2e8675329261373b0a
-**Researched At:** March 1, 2026 at 05:59:44 AM UTC
+**Researched At:** March 8, 2026 at 04:19:50 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Daniel Ennis win the 2026 Dublin-central by-election?"
 
 ---
@@ -9,51 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.5¢
+**Expected Value:** 12.0¢
 
 ### Summary
 
-highlights the uphill nature of by-elections (higher thresholds) and need to consolidate several coalition votes—no clear evidence SocD leads polls.  
-
-Bullish evidence (supporting 71%):  
-• Manifold: SocD are part of a rising progressive coalition (Labour, Greens) that could unify behind Ennis.  
-• Extra.ie: Ennis’s “united front” pitch might peel moderate FG/FF votes.  
-• Irish Independent: notes surge in SocD popularity that could boost him.
-
-Source credibility and recency: All sources are fr
+Public polling and expert analyses center on a roughly 50% chance for Ennis, far below the market’s 72%. Lacking evidence of hidden catalysts, this suggests a ~20¢ overpricing with ~60% confidence.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Daniel Ennis (Social Democrats) will win the Dublin Central by-election, likely held April–May 2026 under Ireland’s PR-STV system. A “YES” requires Ennis to top the polls after all vote transfers, securing over 50% of the final count. A “NO” covers any other candidate’s victory or failure to hold an election by March 31, 2027.
+This market asks whether Daniel Ennis, the Social Democrats candidate, wins the 2026 Dublin Central by-election. It resolves to YES if Ennis is declared the victor by official Oireachtas results (or credible media consensus) by March 31, 2027. It resolves to NO if any other candidate wins (including “Other” if the election fails to occur or is not decided).
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (suggesting 71% is too high):  
-• Extra.ie (Feb 15): rates Ennis 5/10 (50%) despite early entry, citing multiple Sinn Féin candidates and independent Gerard Hutch as vote-splitters.  
-• TheJournal.ie (Feb 25): Janice Boylan’s strong SF nomination increases competition for progressive transfers.  
-• Irish Independent (Feb 15): media scrutiny of Ennis’s father’s alleged ties to Gerry Hutch could depress support.  
-• Manifold summary: highlights the uphill nature of by-elections (higher thresholds) and need to consolidate several coalition votes—no clear evidence SocD leads polls.  
+Bearish on 72%:  
+• Polling and pundit ratings place Ennis at a roughly even-money shot. Extra.ie rates him 5/10 (50%). DublinPeople notes Social Dem support at 13% vs Sinn Féin’s established strength in the area.  
+• RTE analysis emphasizes this as “Mary Lou’s [McDonald’s] to lose,” pointing to Sinn Féin’s historical dominance and McDonald’s popularity. Ennis must rely on transfers and cross-party consolidation—uncertainties not trivial.  
+• Labour fielding a candidate (Ruth O’Dea) may split centre-left transfers that Ennis hopes to capture.  
 
-Bullish evidence (supporting 71%):  
-• Manifold: SocD are part of a rising progressive coalition (Labour, Greens) that could unify behind Ennis.  
-• Extra.ie: Ennis’s “united front” pitch might peel moderate FG/FF votes.  
-• Irish Independent: notes surge in SocD popularity that could boost him.
+Bullish on 72%:  
+• Early campaign unity and organizational strength for Social Democrats suggests substantial momentum. Cedar Lounge notes his profile rising amid disenchantment with major parties.  
+• Low total volume and narrow spread imply possibly few traders holding informed, confident views based on internal data or local intelligence not publicly available.  
 
-Source credibility and recency: All sources are from mid-Feb to late Feb 2026 (up to two weeks old), from recognized outlets (Irish Independent, TheJournal, national sites) plus a market summary. No formal polling data is cited.
+Sources are recent (Feb–Mar 2026) and from a mix of local media, party-trackers, and well-known outlets (RTE, TheJournal). None provide direct forecast >60%.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 71% price could reflect an internal poll or deep-green SocD supporters on the market, but low $4.4K volume and 2¢ spread suggest only a few traders have shaped the price. It’s plausible the market has simply mirrored the narrative of a “progressive wave” without fully weighting SF’s ground game and vote transfers. Conversely, it may be correct if traders have undisclosed data on progressive unity.
+A 72% price could reflect a belief that Sinn Féin will fail to mobilize enough transfers—an argument not deeply covered by public analyses. It could also reflect private polling or ground-game insights by a handful of traders. The low volume invites caution: if truly obvious, high-stakes insiders would likely trade more, so the current price may be anchored by a few over-confident bets.
 
 4. MISPRICING ASSESSMENT  
-Given the balance of evidence—moderate independent ratings (~50%), strong SF contender, PR-STV hurdles, potential negative media—71% looks optimistic. A reasonable fair probability might be closer to 55–60%. That implies a 10–15¢ overpricing. No hidden technicalities appear to justify such high confidence already.
+Given publicly available evidence centering on a mid-range probability (~50%) and significant uncertainties (transfer flows, turnout, multiple credible challengers), a 72% probability looks overstated. No strong, credible source suggests Ennis has better than two-in-three odds. I see no hidden technicalities in the resolution criteria. The most charitable interpretation is a small circle of insiders betting on superior ground operations—but absent that, I judge the market overpriced by about 20 cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (moderately reliable but no formal polls)  
-Magnitude of mispricing: 15¢  
-Expected value: 0.50 × 15¢ = 7.5¢
+Strength of evidence = 60% (reasonably consistent signal across multiple sources).  
+Magnitude of mispricing = 20 cents (72% vs. ~52% implied fair).  
+Expected value = 0.6 × 20 = 12 cents.
 
-EXPECTED_VALUE: 7.5  
-SUMMARY: Current research suggests Ennis’s win probability is nearer 50–60%, given strong Sinn Féin competition and PR-STV transfer risks, so the market’s 71% looks ~15¢ too high. Low volume further hints at an overconfident few shaping price.  
+EXPECTED_VALUE: 12  
+SUMMARY: Public polling and expert analyses center on a roughly 50% chance for Ennis, far below the market’s 72%. Lacking evidence of hidden catalysts, this suggests a ~20¢ overpricing with ~60% confidence.  
 CONFIDENCE: medium
 
 ---
@@ -62,42 +53,38 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Who will win the 2026 Dublin Central by-election? | Manifold
-URL: https://manifold.markets/vatscove/who-will-win-the-2026-dublin-centra
-Summary: The 2026 Dublin Central by-election, triggered by Paschal Donohoe's resignation, is set to take place in April or May 2026. Daniel Ennis, representing the Social Democrats, is one of several candidates vying for the seat. The election will utilize Ireland's proportional representation single transferable vote (PR-STV) system, requiring the winning candidate to secure over 50% of the votes after transfers.
-
-Ennis faces competition from notable candidates, including Ray McAdam (Fine Gael), who is seen as a continuity candidate, and Janice Boylan (Sinn Féin), who is expected to represent her party. The political landscape suggests that the progressive block, which includes the Social Democrats, Labour, and the Greens, may play a crucial role in determining the outcome. 
-
-Given that the Social Democrats have been part of a coalition of progressive parties, Ennis's chances may hinge on the ability to consolidate support from these groups. However, by-elections are generally more challenging to win due to the higher vote threshold compared to general elections. 
-
-In summary, while Daniel Ennis has a chance, his success will depend on the dynamics of the progressive coalition and the overall voter sentiment leading up to the election.
-
 Title: Revealed: The runners in the Dublin Central by-election... and their chances
 Author: 
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://extra.ie/2026/02/15/news/dublin-central-by-election-runners
-Summary: Daniel Ennis, the Social Democrats candidate for the 2026 Dublin Central by-election, has a moderate chance of victory, rated at 5/10. His early entry into the race and the party's united front position him well to attract votes from Fine Gael and Fianna Fáil supporters, as well as from Green and Labour voters. This strategic positioning could allow him to replicate a surprise win similar to that of Tony Gregory in past elections. However, the overall dynamics of the election, including the presence of multiple candidates from Sinn Féin and the independent candidacy of Gerard Hutch, introduce uncertainties that could impact his chances.
+Summary: Daniel Ennis, the Social Democrats candidate in the 2026 Dublin Central by-election, is considered a potential surprise contender. He is running early and with party unity, aiming to attract votes from Fine Gael, Fianna Fáil, Green, and Labour supporters. While he has a moderate chance of victory (rated 5/10), his success depends on his ability to consolidate votes from various parties and capitalize on any voter dissatisfaction. Overall, Ennis's victory is uncertain but plausible, contingent on campaign dynamics and voter turnout.
 
-Title: Janice Boylan selected as Sinn Féin's candidate to contest Dublin Central by-election
-Author: Jane Moore
+Title: So, who is not going to win the Dublin Central by-election? – The Cedar Lounge Revolution
+Author: Author    WorldbyStorm
 Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.thejournal.ie/janice-boylan-selected-sinn-fein-candidate-dublin-central-by-election-6967220-Feb2026/
-Summary: Janice Boylan has been selected as Sinn Féin's candidate for the upcoming Dublin Central by-election, having won the nomination over Gillian Sherratt during the party's convention. This selection is significant as it positions Boylan as a key contender in the electoral race, which could impact predictions regarding the outcome of the by-election, including the chances of other candidates like Daniel Ennis. Factors to consider in predicting Ennis's chances include Boylan's political experience, party support, and voter sentiment in Dublin Central, as well as the overall political landscape leading up to the election.
+URL: https://cedarlounge.wordpress.com/2026/02/25/so-who-is-not-going-to-win-the-dublin-central-by-election/
+Summary: Daniel Ennis, the Social Democrats candidate, has increased his profile ahead of the 2026 Dublin Central by-election, suggesting he is actively campaigning and gaining recognition. However, the article indicates that the race is primarily between Sinn Féin and Social Democrats, with other candidates like Mary Fitzpatrick (Fianna Fáil) and Gerard Hutch also in the mix, though their chances appear less certain. Given the current political landscape and polling trends, Ennis has a notable presence, but it remains uncertain whether he will secure victory in the by-election.
 
-Title: Nominations open for Fine Gael candidate for Dublin Central bye-election - Fine Gael
-Author: Fine Gael Press Office
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.finegael.ie/nominations-open-for-fine-gael-candidate-for-dublin-central-bye-election/
-Summary: Fine Gael has opened nominations for its candidate in the upcoming Dublin Central bye-election, with the nomination period running until March 6, 2026. A selection convention will occur on March 23, where members will vote for the candidate, who must be nominated by two Fine Gael members from Dublin Central. Minister Neale Richmond has been appointed as the Director of Elections for this bye-election and emphasized the party's commitment to winning the seat previously held by Paschal Donohoe. The outcome of the election may hinge on the party's campaign strategy and the candidate's ability to resonate with voters, which could include Daniel Ennis if he is nominated. Observers should consider the party's historical performance in the constituency and the current political climate to gauge Ennis's chances of winning.
+Title: Labour joins the running for the Dublin Central by-election
+Author: Eoghan Dalton
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://thejournal.ie/dublin-central-by-election-who-is-running-6972493-Mar2026/
+Summary: The article reports that Labour has officially entered the race for the Dublin Central by-election, with Ruth O'Dea, a community activist and TD staffer, selected as the party's candidate. The current TD for Dublin Central is Marie Sherlock, also from Labour. There is no information provided about other candidates, their campaign strategies, or polling data. To predict whether Daniel Ennis might win, additional details such as his political background, campaign efforts, voter support, and the overall political climate in Dublin Central would be necessary.
 
-Title: ‘My dad never mentioned his past to me’: Soc Dem candidate on facing his late father’s associate Gerry Hutch in Dublin by-election | Irish Independent
-Author: 
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://www.independent.ie/irish-news/my-dad-never-mentioned-his-past-to-me-soc-dem-candidate-on-facing-his-late-fathers-associate-gerry-hutch-in-dublin-by-election/a886680327.html
-Summary: Daniel Ennis, the Social Democrats' candidate for the Dublin Central by-election, is navigating a complex political landscape as he faces scrutiny related to his late father, Geoffrey, who was reportedly connected to notorious figure Gerry Hutch. Ennis has expressed that he is not worried about media portrayals of his family history, despite warnings from his mother about potential negative coverage following his father's death in 2016. 
+Title: Dublin Central set for heated, high-stakes by-election
+Author: Sandra Hurley
+Published Date: 2026-02-21T00:00:00.000Z
+URL: http://dj.rte.ie/news/analysis-and-comment/2026/0221/1559623-byelections-2026/
+Summary: The 2026 Dublin Central by-election is highly anticipated and considered a high-stakes contest, with significant media attention. The election, scheduled for 22 May alongside Galway West, will serve as a key test for Sinn Féin's leader, Mary Lou McDonald, and her party's support in the constituency. Sinn Féin has historically performed well in Dublin Central, and McDonald’s personal popularity adds to the expectation that the party aims to secure a second seat there. 
 
-As the election approaches, factors influencing Ennis's chances may include public perception of his family's past, the Social Democrats' rising support, and the political climate in Dublin Central. The party has recently seen a surge in popularity, which could bolster Ennis's campaign. However, the association with Hutch may pose challenges, potentially impacting voter sentiment. 
+The Social Democrats are actively campaigning for their candidate, Councillor Daniel Ennis, indicating strong organizational effort. However, the overall political landscape suggests that Sinn Féin's dominance makes the seat "Mary Lou’s to lose," with many analysts viewing the by-election as a challenge for the party to maintain its lead. The outcome may hinge on the party’s ability to mobilize support and secure transfers, especially given internal disagreements over candidate selection. 
 
-Overall, Ennis's ability to distance himself from his father's legacy while capitalizing on his party's momentum will be crucial in predicting his success in the upcoming by-election.
+While Daniel Ennis is a prominent contender, the broader context implies that Sinn Féin's established strength in the area and McDonald's leadership position make his victory uncertain but plausible, contingent on effective campaign strategies and transfer flows.
+
+Title: Greens plan comeback in Dublin Central as tensions grow in SF over by-election candidate
+Author: Mike Finnerty
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://dublinpeople.com/news/dublin/articles/2026/02/11/dub-central-by-election/
+Summary: The upcoming 2026 Dublin Central by-election, triggered by Pascal Donohoe’s resignation, features several candidates, including North Inner City Councillor Daniel Ennis for the Social Democrats. The Green Party has selected Janet Horner, a long-standing local councillor, as their candidate, aiming to restore their influence after recent electoral setbacks. Other contenders include independent Malachy Steenson, People Before Profit’s Eoghan Ó Ceannabháin, and potential candidates from Fine Gael and Sinn Féin. Polls indicate a decline in Green support, with the party polling around 2% in Dublin, and a rise in support for the Social Democrats, which is currently at 13%. Given the competitive field and recent voting trends, Daniel Ennis’s chances of winning are uncertain, but he is positioned as a significant contender among a diverse group of candidates.
 
 

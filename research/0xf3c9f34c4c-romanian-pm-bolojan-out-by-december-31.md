@@ -1,7 +1,7 @@
 # Research: Romanian PM Bolojan out by December 31?
 
 **Market ID:** 0xf3c9f34c4c01a62b56d4273ed22cc42580586feaa41271778787aacfd4a8d0b8
-**Researched At:** March 1, 2026 at 05:59:53 AM UTC
+**Researched At:** March 8, 2026 at 04:19:53 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Romanian PM Bolojan out by December 31?"
 
 ---
@@ -9,45 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.5¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-A formal PM‐rotation pact secures Bolojan’s tenure until April 2027, making removal before Dec 2026 unlikely aside from total coalition collapse. The current 27.5% price overstates risk, implying a mispricing of roughly 12.5 cents.
+Recent credible reporting describes no immediate threat to Bolojan’s tenure beyond normal coalition fragility and budget negotiations, so the ~60% market probability appears reasonable and any mispricing is small.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Ilie Bolojan be out of the Prime Minister role at any point by Dec 31, 2026?” YES if he resigns, is dismissed, disqualified or otherwise prevented from serving any time between now and that date; NO if he remains PM uninterrupted.
+The market asks whether Ilie Bolojan will lose his position as Romania’s Prime Minister at any point between its creation (mid-February 2026) and 11:59 PM ET on December 31, 2026. “Yes” means he resigns, is dismissed, detained, disqualified or otherwise prevented from fulfilling his duties; “No” means he remains in office throughout.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports higher Yes probability):  
-• Coalition tensions: PSD has threatened to withhold support if its budget demands aren’t met, and Bolojan himself warns that “coming weeks” and the budget vote will test the coalition’s cohesion. Government collapse is a recognized risk in Romania’s multi-party coalitions.  
+Bearish (arguing price too high):  
+• All February 2026 reports emphasize that Bolojan’s government is functioning and that any change hinges on a loss of parliamentary support, but do not point toward an imminent collapse or no-confidence vote.  
+• Bolojan repeatedly frames his tenure around delivering a credible budget and urges coalition responsibility, suggesting no concrete faction is mobilizing against him.  
+• No reporting indicates formal coalition splits or major defections in the last month.  
 
-Bearish (supports lower Yes probability):  
-• Rotation agreement: According to Bolojan (Feb 4), the coalition has a formal rotation pact placing a PNL PM (Bolojan) in office until Apr 2027, with PSD taking over thereafter. That strongly insulates him from removal before Dec 31, 2026, absent an extraordinary collapse of the entire coalition.  
-• Budget focus: Bolojan’s strongest public statements (Feb 13/18) emphasize delivering a credible 2026 budget, not his own fate, and he criticizes PSD’s “unfair game” tactics. He indicates no coalition discussion on PSD’s solidarity measures, suggesting the budget will pass and stabilize the government.  
-• Economic outlook: He forecasts recession recovery in H2 2026, reducing political pressure if signs of stabilization materialize.
+Bullish (arguing price too low / supports current price):  
+• Bolojan’s own comments underscore that serving is “very demanding” and he has privately considered resignation if pressures mount.  
+• He acknowledges that a loss of support will trigger replacement, and Romanian coalitions have historically been fragile.  
+• Uncertainty around budget approval could spark intra-coalition conflict leading to his exit.  
 
-All sources are recent (Feb 4–18, 2026) and from reputable Romanian outlets (StiripeSurse, Mediafax). The rotation pact is the most concrete safeguard, making pre-2027 removal an outlier.
+All sources are recent (Feb 2026) and from credible Romanian outlets. None provides a smoking-gun near-term trigger.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 27.5% price implies a near one-in-four chance of PM removal. That could reflect:  
-• A genuine consensus that the coalition is fragile, especially around a contested budget vote.  
-• Or it may simply be the view of a small number of active traders in a low‐volume market.  
-
-Given the tight spread but low volume ($4.2 k), it’s plausible informed traders have set a consensus around moderate risk, but it might also reflect under‐engagement by those aware of the rotation agreement.
+A ~60% chance is defensible given typical volatility in Romanian coalition politics over a 10-month horizon. Low volume suggests few traders are deeply engaged, but the tight spread indicates there has been at least one informed liquidity provider. It is plausible this is a genuine consensus rather than a lone voice: the market has had two weeks to adjust to Bolojan’s public statements.
 
 4. MISPRICING ASSESSMENT  
-The formal rotation agreement secures Bolojan until April 2027, making removal before Dec 2026 unlikely unless the entire coalition collapses—an event without precedent under such a pact. The market’s 27.5% seems elevated versus the strong structural safeguard. While budget tensions present some risk, the evidence points to a lower probability (perhaps ~15%). There is credible evidence (the rotation covenant) missing from a simple reading of “coalition tensions,” suggesting a mispricing.
+There is no clear, non-priced-in event pointing to a large divergence from 59.5%. The evidence neither strongly contradicts nor overwhelmingly supports a >20-point mispricing. The most charitable reading is that the market has baked in routine coalition risk and budget uncertainty. Any leftover mispricing is likely small.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (rotation pact): 60%  
-Estimated mispricing magnitude: 12.5 cents (27.5% minus a fair estimate of ~15%)  
-Expected value = 0.60 × 12.5 ≈ 7.5 cents
+Strength of evidence for mispricing: ~30% (some signals and historic fragility, but no proximate trigger)  
+Magnitude of mispricing: ~5 cents (if price should be closer to ~55%)  
+Expected value = 30% × 5 cents = 1.5 cents
 
-EXPECTED_VALUE: 7.5  
-SUMMARY: A formal PM‐rotation pact secures Bolojan’s tenure until April 2027, making removal before Dec 2026 unlikely aside from total coalition collapse. The current 27.5% price overstates risk, implying a mispricing of roughly 12.5 cents.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Recent credible reporting describes no immediate threat to Bolojan’s tenure beyond normal coalition fragility and budget negotiations, so the ~60% market probability appears reasonable and any mispricing is small.  
 CONFIDENCE: medium
 
 ---
@@ -60,36 +58,30 @@ Title: PM Bolojan: New Gov't will follow if the current one can no longer act or
 Author: Cătălin Lupășteanu
 Published Date: 2026-02-13T00:00:00.000Z
 URL: http://www.stiripesurse.ro/pm-bolojan-new-govt-will-follow-if-the-current-one-can-no-longer-act-or-loses-support_3858962
-Summary: Prime Minister Ilie Bolojan indicated that if the current government loses support or is unable to function effectively, a new government will be established. He emphasized the importance of political responsibility and the potential for a new coalition to form if the existing one breaks down. Bolojan expressed confidence in his role and the necessity of passing key legislative packages, including the budget, to ensure the government's stability. His comments suggest that if the current coalition fails to maintain its majority or address pressing issues, a change in leadership could occur, potentially aligning with the user's query about his position by December 31.
-
-Title: PM Bolojan: Coming weeks will show to what extent the coalition functions - Stiripesurse
-Author: Andreea Năstase
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.stiripesurse.ro/pm-bolojan-coming-weeks-will-show-to-what-extent-the-coalition-functions_3857536
-Summary: Prime Minister Ilie Bolojan has indicated that the coming weeks will be critical in assessing the functionality of the current governing coalition in Romania. He expressed concerns about the coalition's dynamics and the need for effective collaboration to achieve the results for which it was formed. Bolojan emphasized the importance of political stability for Romania but warned that ongoing tensions within the coalition could jeopardize its effectiveness. He mentioned upcoming challenges, including budget formulation and administrative packages, which will serve as tests for the coalition's consistency and ability to govern.
-
-Bolojan also commented on the potential risks posed by the Social Democratic Party (PSD) and its leadership, suggesting that if coalition tensions escalate, it could undermine the coalition's strength and stability. He hopes for a stable environment that allows for predictability in governance, as frequent changes in leadership could hinder progress.
-
-Given this context, the coalition's performance in the upcoming weeks, particularly in addressing key governance issues, will be crucial in determining Bolojan's tenure as Prime Minister. If the coalition fails to demonstrate effective collaboration and resolve internal conflicts, it could lead to his departure by the end of the year.
+Summary: Prime Minister Ilie Bolojan stated that the current government will be replaced if it becomes unable to perform its duties or loses parliamentary support. He emphasized that a new government would follow based on the existing majority, suggesting a potential change if the coalition collapses. Bolojan highlighted his responsibility to act in Romania's best interest and called for political responsibility from leaders. There is no specific indication or prediction in his statements about Bolojan's departure by December 31; rather, he underscored the likelihood of government change if current support erodes.
 
 Title: Bolojan: The issue is not whether Prime Minister remains or leaves, but delivering serious budget - Stiripesurse
 Author: Cătălin Lupășteanu
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.stiripesurse.ro/bolojan-the-issue-is-not-whether-prime-minister-remains-or-leaves-but-delivering-serious-budget_3860289
-Summary: Romanian Prime Minister Ilie Bolojan emphasized that the key issue is not his potential departure from office but rather the necessity of delivering a responsible and financially viable state budget. In response to threats from the Social Democratic Party (PSD) leader Sorin Grindeanu regarding political support contingent on the inclusion of certain solidarity measures in the budget, Bolojan criticized this approach as an "unfair game." He stated that any proposals must be backed by a clear funding source and that there have been no coalition discussions regarding the PSD's proposed measures. Bolojan's focus remains on creating a budget that ensures predictability for Romania, suggesting that his position may be secure if he can navigate these financial discussions effectively. Thus, while political tensions exist, the emphasis on budgetary responsibility may influence the likelihood of his staying in office beyond December 31.
+Summary: Prime Minister Ilie Bolojan emphasizes that the primary concern is delivering a serious, financially sustainable budget, rather than his own tenure. He states that no coalition discussions have taken place regarding the proposed solidarity measures, and any proposals must be backed by clear funding sources to be considered. Bolojan criticizes unfunded proposals and underscores the importance of budget predictability and responsible governance. His comments suggest that his continuation as Prime Minister is contingent on the successful formulation and approval of a credible, well-funded budget, rather than on political support alone.
 
-Title: Ilie Bolojan: From the second half of this year, we will see things settle down
+Title: Ilie Bolojan vorbește despre demisie: „Când nu voi mai fi premier, va fi o ușurare pentru că este o activitate foarte solicitantă și foarte dificilă”
+Author: Cătălina Burghelea
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.romaniatv.net/ilie-bolojan-vorbeste-despre-demisie-cand-nu-voi-mai-fi-premier-va-fi-o-usurare-pentru-ca-este-o-activitate-foarte-solicitanta-si-foarte-dificila_9394525.html
+Summary: Romanian Prime Minister Ilie Bolojan has publicly expressed that serving as prime minister is highly demanding and challenging. He has considered resignation amid internal coalition tensions and criticisms but emphasizes his commitment to fulfilling his responsibilities for the country's benefit. Bolojan highlights the importance of political support, teamwork, and responsibility in maintaining government stability. While he has not announced any plans to resign by December 31, his comments suggest that his tenure could be uncertain if internal pressures persist. His focus remains on guiding Romania through difficult times, with an acknowledgment that his departure might be a relief for him personally, but no definitive indication that he will step down by the end of 2023.
+
+Title: Ilie Bolojan: "Când acest guvern nu va mai avea susținere parlamentară, Coaliția va găsi o altă soluție" • Newsweek România
 Author: 
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://newsweek.ro/politica/ilie-bolojan-cand-acest-guvern-nu-va-mai-avea-sustinere-parlamentara-coalitia-gasi-alta-solutie
+Summary: Romanian Prime Minister Ilie Bolojan stated that when the current government loses parliamentary support, the coalition will find an alternative solution, but he did not indicate an imminent departure. He emphasized that there are no signals suggesting a change in leadership and highlighted internal party discussions focused on personnel performance rather than government measures. Bolojan also addressed internal party tensions and the importance of professional leadership, suggesting that any leadership change would depend on parliamentary support and political developments, but he did not explicitly confirm or deny his own potential departure by December 31.
+
+Title: Ilie Bolojan a vorbit din nou de demisie: "Pentru mine, vă rog să mă credeţi, va fi o uşurare". Ce spune de raportul privind anularea alegerilor
+Author: Viorel Dobran
 Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.mediafax.ro/english/ilie-bolojan-from-the-second-half-of-this-year-we-will-see-things-settle-down-23686663
-Summary: Romanian Prime Minister Ilie Bolojan has indicated that the country is currently experiencing a temporary technical recession, which he believes will stabilize in the second half of the year as the effects of austerity measures diminish. He emphasized that the current economic challenges stem from necessary but difficult decisions and that positive signs regarding inflation are emerging. Bolojan expects that by the latter half of 2026, conditions will be favorable for economic growth due to ongoing recovery measures and adjustments in various sectors, including energy.
-
-Given this context, predicting whether Bolojan will remain in office until December 31 could depend on the success of these economic strategies and public perception of his leadership during this transitional period. If the anticipated stabilization and growth do not materialize, it could lead to increased pressure on his administration, potentially affecting his tenure.
-
-Title: The more political agreements are observed, the better Romania's outlook is (PM Bolojan) - Stiripesurse
-Author: Andreea Năstase
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.stiripesurse.ro/the-more-political-agreements-are-observed-the-better-romanias-outlook-is-pm-bolojan_3856053
-Summary: Prime Minister Ilie Bolojan emphasized that Romania's future depends on the adherence to political agreements and the quality of inter-party relations, rather than the individual in the prime ministerial role. He stated that the governing coalition, which includes PSD, PNL, USR, UDMR, and national minority groups, has a rotation agreement for the prime minister position. According to this agreement, the PNL will designate the prime minister from June 2025 to April 2027, followed by the PSD from April 2027 to December 2028. This suggests that Bolojan's tenure is secure until at least April 2027, making it unlikely for him to be out of office by December 31, 2026, unless unforeseen political developments occur.
+URL: https://www.romaniatv.net/ilie-bolojan-a-vorbit-din-nou-de-demisie-pentru-mine-va-rog-sa-ma-credeti-va-fi-o-usurare_9402499.html
+Summary: Romanian Prime Minister Ilie Bolojan has indicated that his departure is linked to the government's ability to maintain support and implement necessary reforms. He stated that if the current government loses backing and cannot fulfill its responsibilities, a change in leadership is inevitable, and he would consider it a relief. Bolojan emphasized his commitment to acting in the country's best interest and acknowledged that a government change could occur if parliamentary support diminishes. There is no specific mention of a fixed timeline for his departure, but his comments suggest that his continuation in office depends on political stability and support, with potential for change by the end of 2023 if conditions change.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Jeremy Moss be the Democratic nominee for MI-11?
 
 **Market ID:** 0x105b2ca798a000f8f618239bb63cd71b1bc77550409e0c4cd19ef76daad5943f
-**Researched At:** March 1, 2026 at 06:04:18 AM UTC
+**Researched At:** March 8, 2026 at 04:20:06 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jeremy Moss be the Democratic nominee for MI-11?"
 
 ---
@@ -13,43 +13,46 @@
 
 ### Summary
 
-Endorsements and Moss’s profile support a high win probability, but absence of DCCC backing and unknown challengers leave modest residual uncertainty. There’s no clear evidence of large mispricing.
+Current evidence (a PAC endorsement and incumbency) supports Moss as the clear favorite, but lack of polling or challenger information leaves modest residual uncertainty. There is no credible sign of a large mispricing away from 77.5%.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- The market asks if Jeremy Moss will win the Democratic primary for Michigan’s 11th Congressional District on August 4, 2026.  
-- YES resolves if an official Democratic nominee announcement names Moss on or before November 3, 2026; NO (“Other”) if someone else is nominated or no nominee is named by that deadline.  
+The market asks whether Jeremy Moss will be the Democratic nominee in Michigan’s 11th congressional district primary, which is held August 4, 2026; if by November 3, 2026 (11:59 PM ET) no nominee is announced, the market resolves to “Other.” A YES outcome requires Moss to file, run a primary campaign, and win the August 4 nomination; a NO would mean he either doesn’t run, withdraws, loses to another Democrat, or no nominee is named by the cutoff date.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (supports ~74.5%):  
-- DMFI PAC endorsed Moss on 2026-02-19 as their preferred non‐incumbent in MI-11, signaling establishment backing and access to PAC resources.  
-- Moss is Michigan’s first openly gay state senator, chairs the Senate Elections Committee, and has high name recognition and legislative accomplishments (e.g., election integrity bills).  
-- PrideSource (2026-01-21) profiles Moss as a bold, experienced progressive with grassroots appeal.  
+Bullish evidence (supports ~77.5%):  
+ • DMFI PAC endorsement (2/19/2026): Moss has at least one well-funded pro-Israel Democratic PAC behind him, suggesting fundraising and organizational support.  
+ • Moss’s incumbency in the Michigan Senate gives him name recognition and an existing campaign apparatus, a common advantage in primaries.  
 
-Bearish/ambiguous evidence (suggests price could be too high):  
-- No mention of DCCC support or “Red to Blue” programming for Moss, whereas other Michigan candidates (e.g., Sean McCann in MI-4) are in DCCC pipelines.  
-- No research on primary challengers in MI-11—absence of data may understate latent competition.  
-- Michigan governor’s race dynamics (MLive 2026-02-24) could divert party resources and voter attention elsewhere.  
+Bearish/uncertain evidence (suggests price might be too high):  
+ • No publicly available primary polling or reporting of declared challengers in MI-11—unknown strength and number of competitors.  
+ • Ballotpedia and PBS summaries offer no direct insight into his declared candidacy or competitor field, leaving a gap in concrete data on his campaign’s viability relative to opponents.  
 
-Source credibility and recency: All sources are dated Jan–Feb 2026, come from known outlets (PrideSource, DMFI, Detroit News, official Moss website, MLive), and directly address Moss’s viability or broader Democratic strategy in Michigan.  
+Source credibility & recency:  
+ • DMFI PAC press release is primary and recent (Feb 2026) but reflects just one interest group.  
+ • Other sources (Ballotpedia, PBS, MLIVE, NJ.com) are credible but contain no direct data on MI-11 candidates, so they are unhelpful for precise forecasting.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 74.5% price could reflect genuine consensus that Moss, with high profile and key endorsements, is the frontrunner in a likely low‐entry field.  
-- Low $530 volume suggests pricing may rely on one or a few traders rather than broad liquidity.  
-- Alternatively, low volume could mean the race is seen as settled enough that few want to trade.  
+ • A 77.5% price may reflect a single well-informed trader’s view that Moss’s state-legislature prominence and early PAC support make him the presumptive favorite, with no significant challengers yet visible.  
+ • The low $0 volume suggests minimal participation; however, if it truly seems uncontroversial that Moss will run and win the primary, informed traders may see no arbitrage opportunity.  
+ • Alternatively, the market could simply be keyed off the DMFI PAC endorsement without deeper vetting of the field.
 
 4. MISPRICING ASSESSMENT  
-- No clear evidence of a large (>20¢) mispricing: research shows strong support but no direct data on challengers or DCCC backing.  
-- The market likely prices in both Moss’s advantages and residual uncertainty about the primary field.  
+ • We lack concrete polling or competitor data that would materially shift the probability away from ~77.5%.  
+ • No evidence of a strong challenger or comment from mainstream Michigan political reporting that Moss is endangered.  
+ • Given the early endorsement and incumbent status, a ~77.5% chance is plausible, and we have no specific, credible evidence suggesting >20¢ mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 20% (we have only partial info on challengers/DCCC stance).  
-- Magnitude of potential mispricing: 3¢ (small possible overestimate).  
-- Expected value = 20% × 3¢ = 0.6¢ ≈ 1¢  
+ • Strength of evidence that price is off: 20% (limited direct data on challengers or polling)  
+ • Plausible magnitude of mispricing: 5¢ (small given no glaring omissions)  
+ • Expected value = 0.20 × 5¢ = 1.0¢
 
-EXPECTED_VALUE: 1  
-SUMMARY: Endorsements and Moss’s profile support a high win probability, but absence of DCCC backing and unknown challengers leave modest residual uncertainty. There’s no clear evidence of large mispricing.  
+6. CONFIDENCE  
+low  
+
+EXPECTED_VALUE: 1.0  
+SUMMARY: Current evidence (a PAC endorsement and incumbency) supports Moss as the clear favorite, but lack of polling or challenger information leaves modest residual uncertainty. There is no credible sign of a large mispricing away from 77.5%.  
 CONFIDENCE: low
 
 ---
@@ -58,48 +61,31 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Why Jeremy Moss Won't Be Bringing a Pie Chart to a Knife Fight as ...
+Title: Nov. 17, 2023 - Sen. Jeremy Moss | OFF THE RECORD | Season 53 | Episode 20 - PBS
 Author: 
-Published Date: 2026-01-21T00:00:00.000Z
-URL: https://pridesource.com/article/jeremy-moss-2026-campaign
-Summary: The article discusses Jeremy Moss, Michigan's first openly gay state senator, as he prepares to run for the U.S. Congress in 2026. Moss emphasizes the importance of boldness in political campaigns and argues that issues like marriage equality are still not fully resolved, indicating a need for continued advocacy. He outlines his vision for the Democratic Party, suggesting that it must adopt a more assertive stance to succeed in upcoming elections. Given his experience and commitment to progressive values, Moss is positioning himself as a strong candidate for the Democratic nomination in MI-11. His focus on bold policies and social justice may resonate with voters, potentially enhancing his chances of securing the nomination.
+URL: https://www.pbs.org/video/nov-17-2023-sen-jeremy-moss-off-the-record-iqxmwe/
+Summary: The episode features Sen. Jeremy Moss discussing ethics in the Michigan legislature and current political developments, including the ongoing 54/54 split in the Michigan House and U.S. Rep. Dan Kildee's decision not to seek re-election. While the discussion provides insight into Moss's perspectives on Michigan politics, it does not specifically address his potential candidacy for the MI-11 congressional seat or his prospects as a Democratic nominee. Therefore, the episode offers context on Moss's political environment and ethical considerations but lacks direct information about his likelihood of becoming the Democratic nominee for MI-11.
 
-Title: DMFI PAC Announces 2026 Majority Project; Endorses First Slate of Non-Incumbent Candidates for the 2026 Cycle - DMFI PAC
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/
-Summary: DMFI PAC has endorsed Jeremy Moss as a candidate for Michigan's 11th congressional district (MI-11) in the 2026 election cycle. This endorsement is part of DMFI PAC's Majority Project, which aims to elect pro-Israel Democrats and secure a Democratic majority in the House. The organization emphasizes the importance of candidates who can build broad coalitions and win in competitive elections, which is crucial for the party's success in November.
+Title: Michigan elections, 2026 - Ballotpedia
+URL: https://ballotpedia.org/Michigan_elections,_2026
+Summary: The webpage provides an overview of the 2026 elections in Michigan, including federal, state, and local races, but does not specify candidate details or predictions regarding Jeremy Moss or the MI-11 congressional district. To assess whether Jeremy Moss might be the Democratic nominee for MI-11, one would need to consider his current political position, past election performance, potential challengers, and the overall political landscape in Michigan's 11th district. Since the page lacks specific candidate information, additional sources focusing on Michigan's congressional races and Jeremy Moss's political activities are recommended for a more accurate prediction.
 
-Moss's endorsement suggests he aligns with DMFI PAC's values, particularly regarding support for Israel and the U.S.–Israel relationship, which resonates with a significant portion of Democratic voters. Given the competitive nature of MI-11 and the strategic focus of DMFI PAC on electing candidates who can effectively govern, Moss's chances of becoming the Democratic nominee will likely depend on his ability to appeal to a broad base and navigate the primary process successfully. 
-
-Overall, his endorsement by DMFI PAC positions him favorably within the party, but the outcome will ultimately depend on the dynamics of the primary race and voter sentiment as the election approaches.
-
-Title: Democrats add McCann to program that mentors top recruits for Congress
-Author: Melissa Nann Burke
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.detroitnews.com/story/news/politics/2026/02/23/democrats-add-sean-mccann-to-program-that-mentors-top-recruits-for-congress-michigan-bill-huizenga/88810993007/
-Summary: The article discusses the Democratic Congressional Campaign Committee's (DCCC) recent decision to include state Sen. Sean McCann in its "Red to Blue" program, which supports top candidates in competitive districts for the upcoming 2026 elections. This designation highlights the DCCC's focus on flipping the seat currently held by Republican U.S. Rep. Bill Huizenga in Michigan's 4th Congressional District. McCann, who has raised over $554,000 and received endorsements from prominent Democrats, is running against Diop Harris in a primary contest.
-
-While the article does not directly address Jeremy Moss or the MI-11 race, it indicates that the DCCC is actively supporting candidates in Michigan, suggesting a strategic focus on competitive districts. For predicting whether Jeremy Moss will be the Democratic nominee for MI-11, it would be relevant to consider his current standing in the party, any endorsements he may have, and the level of support he receives from the DCCC compared to other candidates in the race.
-
-Title: Sen. Moss Statement on State-Run Elections - Senator Jeremy Moss
-Author: admin
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://senatedems.com/moss/2026/02/05/state-run-elections/
-Summary: Senator Jeremy Moss recently issued a statement opposing President Trump's suggestion to federalize elections, emphasizing the importance of state control over election processes as outlined in the U.S. Constitution. Moss, who has been active in strengthening Michigan's election integrity and protecting voter rights, highlighted his role in passing legislation that aligns Michigan with federal election standards while safeguarding voters from ballot rejection due to clerical errors. His strong stance against federal intervention and commitment to local election integrity may influence his candidacy for the Democratic nomination in MI-11. As a prominent figure in Michigan politics and the current Chairman of the Senate Elections Committee, his actions and public statements could be pivotal in shaping his nomination prospects.
+Title: Longtime pollster makes early prediction on Democratic frontrunners for the 2028 nomination - nj.com
+Author: Lauren Sforza | NJ.com
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://www.nj.com/politics/2026/02/pollster-nate-silver-explains-his-draft-picks-for-the-2028-democratic-primary.html
+Summary: The article discusses early predictions for the 2028 Democratic presidential primary, focusing on pollster Nate Silver's draft of potential frontrunners. Silver's top pick is California Governor Gavin Newsom, followed by figures like Alexandria Ocasio-Cortez, Pete Buttigieg, and Gretchen Whitmer. The analysis emphasizes polling trends and prediction markets but does not mention Jeremy Moss or specific congressional districts like MI-11. Therefore, the information is not directly relevant to predicting whether Jeremy Moss will be the Democratic nominee for MI-11.
 
 Title: The Michigan governor’s race is a toss-up. These three things could decide the outcome.  - mlive.com
 Author: Matthew Miller | mmiller@mlive.com
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.mlive.com/politics/2026/02/the-michigan-governors-race-is-a-toss-up-these-three-things-could-decide-the-outcome.html
-Summary: The article discusses the competitive landscape of the Michigan governor's race, highlighting key factors that could influence its outcome. While it does not directly address Jeremy Moss or his candidacy for MI-11, understanding the dynamics of the Democratic primary could provide context for his potential nomination.
+Summary: The article discusses Michigan’s gubernatorial race, emphasizing its status as a highly competitive, toss-up contest influenced by three key factors. While it does not directly address Jeremy Moss or the MI-11 congressional district, the focus on Michigan politics highlights the importance of voter sentiment, candidate dynamics, and campaign strategies in the state. For predicting Jeremy Moss’s potential nomination, insights into statewide political trends, voter preferences, and the competitiveness of Democratic candidates in Michigan could be relevant, although specific details about Moss’s campaign or the MI-11 race are not provided in this article.
 
-1. **Democratic Frontrunner**: Jocelyn Benson is currently the leading Democratic candidate for governor, which may impact the overall party dynamics and influence other Democratic candidates, including Moss.
-
-2. **Political Climate**: The race is characterized by a three-way contest among Benson, Republican John James, and independent Mike Duggan, suggesting a highly competitive environment that could affect the strategies of Democratic candidates in other races, including MI-11.
-
-3. **Voter Sentiment**: The article notes that voter sentiment and engagement will be crucial in determining the outcomes of various races. If Benson performs well, it could bolster the chances of other Democratic candidates like Moss.
-
-In summary, while the article does not specifically mention Jeremy Moss, the competitive nature of the governor's race and the performance of the Democratic frontrunner could be relevant factors in predicting his potential nomination for MI-11.
+Title: DMFI PAC Announces 2026 Majority Project; Endorses First Slate of Non-Incumbent Candidates for the 2026 Cycle - DMFI PAC
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/
+Summary: The DMFI PAC has endorsed Jeremy Moss for MI-11 in the 2026 election cycle, indicating strong support from the organization focused on electing pro-Israel Democrats. While endorsements are a positive indicator, they do not guarantee nomination. Factors such as primary competition, campaign dynamics, and voter preferences will ultimately determine if Moss secures the Democratic nomination for MI-11.
 
 

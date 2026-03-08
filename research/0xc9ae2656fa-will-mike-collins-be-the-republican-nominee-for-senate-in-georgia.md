@@ -1,7 +1,7 @@
 # Research: Will Mike Collins be the Republican nominee for Senate in Georgia?
 
 **Market ID:** 0xc9ae2656fa5f75ea4626d490a89398d75222f37624c1dd32c3ebe763c4ecec77
-**Researched At:** March 1, 2026 at 06:00:15 AM UTC
+**Researched At:** March 8, 2026 at 04:19:50 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Mike Collins be the Republican nominee for Senate in Georgia?"
 
 ---
@@ -9,43 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.5¢
+**Expected Value:** 12.5¢
 
 ### Summary
 
-Current polls show Collins in the lead with roughly one‐third support and significant undecided votes; while endorsements bolster his case, a 75% win probability likely overstates his position by about 10–20 points. There’s modest evidence of overpricing but insufficient certainty for a large play.
+Current polls show Collins leading with ~30–34% but leave 40% undecided, making an 83.5% win probability appear overstated by about 20–25 cents given the remaining uncertainty. Low volume and lack of consolidating endorsements further suggest the market may be inefficiently high.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Mike Collins be the Republican nominee for Senate in Georgia?” It resolves YES if he wins the GOP primary (plurality in a multi‐candidate field), NO if any other candidate does or if the primary never occurs.
+CONTEXT ANALYSIS:
+The market asks whether Mike Collins will win the Georgia Republican Senate primary. A “YES” requires Collins to finish first in the GOP primary; any other winner or no primary yields “NO.”
 
-2. EVIDENCE EVALUATION  
-Bullish for Collins (supports ~75% pricing):  
-• Two Feb 2026 polls (Rasmussen, Trump‐backed Townhall poll) show Collins leading with ≈34–35.5%, well ahead of Carter (11–19%) and Dooley (11%).  
-• Trump’s public endorsement and 40 state‐legislator endorsements give him institutional muscle.  
-• His district base and media narrative (“strong contender” across multiple outlets) suggest momentum could grow as undecideds break.
+EVIDENCE EVALUATION:
+Bullish evidence:
+• Two recent polls (Rasmussen Feb 19: Collins 34%, nearest rival 19%; Emerson Mar 5: Collins 30% with 40% undecided) show Collins leading the field.  
+• Plurality leads often convert to ultimate victories in multi-candidate primaries.  
+Bearish evidence:
+• High undecided share (40%) leaves room for surges by rivals, especially if Trump backs someone else.  
+• No indication yet of a major endorsement or fundraising advantage that could consolidate undecided voters around Collins.  
+Credibility/recency:
+• Polls are from late Feb/early Mar 2026 (very recent) but margins of error and sample composition are unclear.  
+• News analyses highlight volatile intra-party dynamics and the MAGA influence, underscoring ongoing uncertainty.
 
-Bearish on 75% price:  
-• He polls below 50%; ~36% of GOP primary voters are undecided/other. A late surge by an opponent or consolidation of the anti-Collins vote could derail him.  
-• Kemp’s backing of Derek Dooley and Carter’s established name could shake out late.  
-• Low volume and tight spread hint that pricing may reflect few informed traders rather than broad consensus.
+MARKET EFFICIENCY ANALYSIS:
+• A rational trader might peg Collins’s win chance above his vote share due to vote splitting, perhaps in the 50–60% range today—but 83.5% implies near inevitability.  
+• Low volume and tight spread suggest a small group of confident traders may be skewing the price upward, rather than a broad consensus.  
+• The tight spread despite low volume hints at minimal resistance to push the price lower, possibly because many informed traders aren’t participating.
 
-Source credibility/recency: All research is from reputable outlets in Dec ’25–Feb ’26. Rasmussen has a slight Republican lean but aligns with Townhall’s data; AJC, The Hill, Georgia Recorder are mainstream and slightly more neutral.
+MISPRICING ASSESSMENT:
+Given Collins’s polling lead but large undecided block and uncertain endorsements, an 83.5% probability appears overstated by roughly 20–25 cents. No major missing technicalities seem to justify that level of certainty, and traders may be underweighting the volatility of a multi-candidate race with late surges possible.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 75% probability can be rationalized if traders believe a split field lets Collins win comfortably with 35–40% and that undecideds will favor him. Low volume suggests either a consensus “no‐brainer” or simply a lack of engagement from partisan‐betting professionals. The tight spread hints at one or two liquidity providers rather than deep market conviction.
+EXPECTED VALUE CALCULATION:
+Strength of evidence: 50%  
+Estimated mispricing magnitude: 25 cents  
+Expected value = 0.5 × 25 = 12.5 cents
 
-4. MISPRICING ASSESSMENT  
-Given polls ~35% and fragmentation, a win probability nearer 55–65% seems more plausible than 75%. The market may be overstating his chance by ≈10–20 points. However, the evidence isn’t definitive—undecideds could coalesce behind him, and late endorsements matter. No single source indicates that his win is nearly certain, so a 75% price looks somewhat overconfident but not egregiously so.
-
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (uncertainty around undecideds and field dynamics): ~30%  
-Magnitude of mispricing: ~15¢ (market 75¢ vs. more defensible ~60¢)  
-Expected value = 0.30 × 15¢ = 4.5¢
-
-EXPECTED_VALUE: 4.5  
-SUMMARY: Current polls show Collins in the lead with roughly one‐third support and significant undecided votes; while endorsements bolster his case, a 75% win probability likely overstates his position by about 10–20 points. There’s modest evidence of overpricing but insufficient certainty for a large play.  
+EXPECTED_VALUE: 12.5  
+SUMMARY: Current polls show Collins leading with ~30–34% but leave 40% undecided, making an 83.5% win probability appear overstated by about 20–25 cents given the remaining uncertainty. Low volume and lack of consolidating endorsements further suggest the market may be inefficiently high.  
 CONFIDENCE: medium
 
 ---
@@ -58,35 +58,28 @@ Title: Poll: Rep. Mike Collins Leads in Georgia GOP Senate Primary
 Author: Katherine Hamilton
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.breitbart.com/politics/2026/02/19/poll-rep-mike-collins-leads-in-georgia-gop-senate-primary/
-Summary: Rep. Mike Collins is currently leading in the Georgia Republican Senate primary, according to a recent poll by Rasmussen Reports. He has garnered 34% support among likely Republican primary voters, significantly ahead of his closest competitor, Rep. Buddy Carter, who has 19%, and Derek Dooley, who trails with 11%. The poll indicates that 36% of respondents are either supporting other candidates or are undecided.
+Summary: A recent Rasmussen Reports poll indicates that Rep. Mike Collins leads among likely Georgia Republican primary voters with 34% support, significantly ahead of competitors Derek Dooley (11%) and Rep. Buddy Carter (19%). Collins, representing Georgia’s 10th congressional district and a trucking company owner, is vying to become the Republican nominee to challenge Democrat Sen. Jon Ossoff in Georgia. The poll results suggest Collins has a strong chance of securing the nomination, making him a leading contender in the upcoming primary.
 
-Collins, who represents Georgia's 10th congressional district and has a background in trucking, is positioning himself as a strong contender for the seat currently held by Democrat Sen. Jon Ossoff, who is considered vulnerable in the upcoming election. The support for Collins suggests he may have a favorable chance of becoming the Republican nominee, especially if he can maintain or grow his lead as the primary approaches.
+Title: The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video
+Author: Faiz Siddiqui
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.washingtonpost.com/politics/2025/07/28/mike-collins-republican-ossoff-georgia-senate-2026/42f66fc8-6ba4-11f0-aab6-8141d7095676_story.html
+Summary: The webpage primarily reports on recent geopolitical events, including Israel's military strikes on Iran, the death of Iran’s supreme leader, protests outside the White House, and related international security developments. It also features an exclusive interview with former President Trump expressing his desire for freedom for the Iranian people and discusses recent military actions, including missile strikes on U.S. bases and Iran's retaliations. There is no information related to Mike Collins or the upcoming Georgia Senate race.
 
-Title: 2026 Primaries: Key Senate and Governor Races - The Hill
-Published Date: 2025-12-28T00:00:00.000Z
-URL: https://thehill.com/homenews/campaign/5661246-senate-gubernatorial-races-2026/
-Summary: The article discusses the key Senate and gubernatorial races to watch in the 2026 primaries, with a focus on various candidates and their potential impact. Regarding Mike Collins, the piece highlights the competitive landscape in Georgia's Republican primary, where he is one of several candidates vying for the nomination. Factors influencing his chances include his alignment with party values, fundraising capabilities, and the political climate in Georgia. The article suggests that Collins' performance in early campaigning and voter engagement will be crucial in determining whether he secures the nomination. For a more detailed analysis, you can read the full article [here](https://thehill.com/homenews/campaign/5661246-senate-gubernatorial-races-2026/).
+Title: Five big political questions for Georgia going into 2026
+Author: Niles Francis
+URL: https://georgiarecorder.com/2025/12/18/five-big-political-questions-for-georgia-going-into-2026/
+Summary: The article discusses key political developments in Georgia leading into 2026, focusing on the state's upcoming gubernatorial transition, the Republican primary landscape, and the Democratic Senate race. It highlights ongoing intra-party conflicts within the Georgia GOP, particularly around the influence of former President Trump and the MAGA movement, with potential candidates like Lt. Gov. Burt Jones, Attorney General Chris Carr, and Secretary of State Brad Raffensperger vying for the Republican nomination. The article also emphasizes U.S. Sen. Jon Ossoff's efforts to secure a second term amid a turbulent political climate. While it does not mention Mike Collins specifically, the discussion of the Republican primary dynamics suggests that the party is still in flux, and the outcome of the primary—including whether Collins might secure the nomination—is uncertain. The intra-party battles and the influence of Trump’s endorsement could significantly impact Collins’s prospects as a Republican Senate candidate in Georgia.
 
-Title: Trump Gives Strongest Backing Yet to Georgia's Mike Collins
-Author: Scott McClallen
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://gp.townhall.com/tipsheet/print/2671608
-Summary: Former President Donald Trump has shown strong support for U.S. Rep. Mike Collins (R-GA) during a recent visit to Georgia, which could influence Collins' chances in the upcoming Republican primary for Senate. Trump referred to Collins as "a friend" and expressed confidence in his candidacy, stating, "He's a good guy." Recent polling data indicates that Collins is currently leading with 35.5% support among Georgia Republicans, significantly ahead of his nearest competitor, Buddy Carter, who has 11%. This backing from Trump, combined with Collins' established local presence as a businessman and Chamber of Commerce president, positions him favorably as a potential nominee. However, the primary landscape remains competitive, with a notable percentage of undecided voters.
+Title: Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field - Emerson Polling
+Author: Camille Mumford
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://emersoncollegepolling.com/georgia-2026-poll-senator-ossoff-starts-re-election-near-50-and-outpaces-gop-field/
+Summary: The Emerson College Polling indicates that in the upcoming Republican primary for Georgia's Senate race, Mike Collins currently holds the most support among Republican voters, with 30% backing him. However, a significant 40% remain undecided, suggesting the race is still competitive. Collins has a plurality of support among voters over 50 and men, but support among younger voters and women is more divided. Overall, while Collins is the leading candidate at this stage, the high level of undecided voters means the nomination is still uncertain.
 
 Title: These are the 10 questions that will shape Georgia politics in 2026
 Author: Greg Bluestein
-Published Date: 2025-12-30T00:00:00.000Z
 URL: https://www.ajc.com/politics/2025/12/these-are-the-10-questions-that-will-shape-georgia-politics-in-2026/
-Summary: The article discusses the political landscape in Georgia as it heads into the 2026 elections, highlighting key questions that could influence outcomes. One significant focus is on U.S. Rep. Mike Collins, who is running for the Senate. His candidacy is set against a backdrop of shifting political dynamics, including the impact of Donald Trump's influence on Republican candidates and voter sentiment. The article suggests that Collins' chances of securing the Republican nomination will depend on his ability to navigate these complexities and appeal to a party base that is still grappling with Trump's legacy. Factors such as voter turnout, party unity, and the overall political climate in Georgia will be crucial in determining whether Collins can emerge as the nominee.
-
-Title: GOP Senate primary anyone's game as candidates compete for ...
-Author: Ross Williams
-Published Date: 2025-08-22T00:00:00.000Z
-URL: https://georgiarecorder.com/2025/08/22/gop-senate-primary-anyones-game-as-candidates-compete-for-votes-and-endorsements/
-Summary: As the GOP Senate primary in Georgia heats up, Congressman Mike Collins has emerged as a strong contender, launching his campaign with significant endorsements from 40 GOP state legislators. His popularity is bolstered by personal connections and a notable legislative record, including the Laken Riley Act, which has resonated with voters following a tragic local incident. 
-
-However, the primary remains competitive with two other high-profile candidates: U.S. Rep. Buddy Carter and former football coach Derek Dooley, who has the backing of Governor Brian Kemp. While Collins currently holds a slight lead in polls over Carter and is significantly ahead of Dooley, political strategist Brian Robinson cautions that endorsements may not guarantee success, as translating political capital into votes can be challenging.
-
-The race is still in its early stages, with over eight months until the primary, leaving room for shifts in momentum. Collins' current position is strong, but the dynamics could change as the campaign progresses and more endorsements or strategies come into play.
+Summary: The article discusses Georgia's political landscape heading into 2026, highlighting key questions that will influence the state's politics, including the potential Republican Senate nomination. U.S. Rep. Mike Collins, who is actively running for the Senate, is a prominent figure in this context. His campaign and the broader Republican primary dynamics are likely to be shaped by intra-party competition, voter sentiment, and the influence of national figures like Donald Trump. The political environment is highly uncertain, with recent elections and shifting alliances indicating that Collins's chances depend on factors such as his campaign strategy, support within the party, and how other Republican contenders perform. Overall, while Collins is a significant contender, the outcome remains unpredictable amid the evolving political landscape.
 
 

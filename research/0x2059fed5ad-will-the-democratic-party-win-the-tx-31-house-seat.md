@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the TX-31 House seat?
 
 **Market ID:** 0x2059fed5ad3788f380ce344482bb5b36b37348ec24c4c5ce000c7c54f08632ec
-**Researched At:** March 1, 2026 at 06:00:47 AM UTC
+**Researched At:** March 8, 2026 at 04:21:19 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the TX-31 House seat?"
 
 ---
@@ -9,47 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Given TX-31’s strong Republican history and absence of specific polling or candidate data, the 18% Democratic probability appears reasonable. Broader Texas special election overperformance by Democrats is likely already reflected in the price, so no clear mispricing emerges.
+All recent, credible sources rate TX-31 as solidly Republican with no new polling or demographic data to justify a large adjustment from 17%, so any mispricing is likely under 5 cents and yields minimal expected value.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-• The market asks: “Will the Democratic Party win the TX-31 U.S. House seat in Nov. 2026?” YES if the ballot-listed (or caucus-declared) winner is a Democrat; NO otherwise.
+1. CONTEXT ANALYSIS  
+The market asks whether the Democratic nominee will win Texas’s 31st Congressional District in the Nov. 4, 2026 general election. A “YES” resolves if the Democrat wins the seat; “NO” if the Republican (incumbent John Carter) or another non-Democrat wins.
 
-2. EVIDENCE EVALUATION
-Bullish (Dem win) signals
-• Special election in TX-18 (Jan 2026): Dem Christian Menefee won in a competitive D+3 district, narrowing GOP House majority (CNN, 01/31/26). Suggests Dems can find openings in Texas.
-• State Senate special (Feb 2026): Democrats overperformed, fueling talk of a “blue wave” in Texas (USA Today, 02/04/26).
+2. EVIDENCE EVALUATION  
+Bullish (for Democratic upset) evidence:  
+• District was redrawn in August 2025 (Ballotpedia), which could hypothetically make it more competitive—but no data on the net partisan shift.  
+• Historically competitive races are cited (AP), but no polling or demographic breakdown is available.  
 
-Bearish (Dem underdog) signals
-• Historical voting in TX-31 heavily favors Republicans; no RFK polling or candidate dynamism data contradicts that (Transparency USA).
-• Sabato’s Crystal Ball highlights polarization and one‐party dominance in Texas; traditionally Republican congressional districts like 31 remain difficult for Dems (UVA, 02/26/26).
-• No specific polling, candidate quality, or fundraising data for TX-31 indicates a Democratic upset.
+Bearish (for Democratic win) evidence:  
+• Cook Political Report rates the district “Solid Republican” (NYT).  
+• Incumbent Carter’s long tenure and rural base (Fox 7) suggest entrenched GOP support.  
+• No primary vote counts yet and projected GOP vs. Dem turnout in primaries heavily favors Republicans (NBC).  
 
-Source credibility and recency
-• All sources (CNN, USA Today, Transparency USA, UVA) are recent (Jan–Mar 2026) and reputable. None, however, directly analyze TX-31’s unique traits.
+All sources are recent (Mar 2026) and credible but provide only qualitative, not quantitative, general-election forecasts. Key missing data (e.g., general-election polling, post-redistricting partisan index) is likely already priced in by informed traders.
 
-3. MARKET EFFICIENCY ANALYSIS
-• A Republican lean plus possibility of a national wave could justify an ~18% Democratic chance.
-• Low volume (≈$487) and tight spread suggests one or a few confident traders rather than broad consensus.
-• Alternatively, the rarity of TX-31-specific polling might deter wider trading, even if informed traders agree on ~20% tail risk.
+3. MARKET EFFICIENCY ANALYSIS  
+• A 17% probability aligns with a solid-GOP rating but leaves room for upset scenarios.  
+• The $0 volume and tight spread suggest a market maker set the price or a single trader, but the probability matches broad qualitative consensus.  
+• Low engagement likely reflects obvious GOP lean rather than overlooked mispricing.
 
-4. MISPRICING ASSESSMENT
-• No decisive, TX-31-specific data (polls, fundraising, candidate profiles) contradicts an ~18% probability.
-• Broader Texas overperformance by Dems in special elections suggests some left-tail risk, but likely already priced in.
-• No direct evidence of an unrecognized tipping factor, nor a technical resolution nuance.
+4. MISPRICING ASSESSMENT  
+No specific, credible evidence indicates the price deviates materially from the district’s solid Republican baseline. Absent new polling or demographic data, shifting the price by more than a few cents would require information beyond these sources.
 
-5. EXPECTED VALUE CALCULATION
-• Strength of evidence for mispricing: ~20% (limited, indirect).
-• Magnitude of plausible mispricing: ~3 cents.
-• Expected value ≈ 0.2 × 3 = 0.6 cents, rounded to 1 cent.
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence: 30% (qualitative indicators only)  
+Magnitude of mispricing: 5 cents (maximum plausible deviation)  
+Expected value = 0.30 × 5 cents = 1.5 cents
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Given TX-31’s strong Republican history and absence of specific polling or candidate data, the 18% Democratic probability appears reasonable. Broader Texas special election overperformance by Democrats is likely already reflected in the price, so no clear mispricing emerges.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: All recent, credible sources rate TX-31 as solidly Republican with no new polling or demographic data to justify a large adjustment from 17%, so any mispricing is likely under 5 cents and yields minimal expected value.  
 CONFIDENCE: low
 
 ---
@@ -58,62 +55,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Texas House of Representatives District 31 Election - Transparency USA
+Title: Texas 31st Congressional District Primary Election Results 2026 - The New York Times
 Author: 
 Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.transparencyusa.org/tx/race/texas-house-of-representatives-district-31-75922
-Summary: The Texas House of Representatives District 31 election is a key race that could influence the balance of power in the state legislature. To predict whether the Democratic Party will win this seat, consider the following factors:
+URL: https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-31-primary.html
+Summary: The Texas 31st Congressional District primary election results for 2026 show no reported votes or candidate data at this time. The district is rated as a "Solid Republican" by The Cook Political Report, indicating a strong Republican advantage in the upcoming general election. Currently, no candidates from either party have reported vote counts, making it difficult to predict the outcome. Given the district's partisan leaning, it is more likely that the Republican candidate will win the seat, but definitive results are pending.
 
-1. **Historical Voting Trends**: Analyze past election results in District 31 to see how the district has voted in previous cycles. Look for patterns in voter turnout and party preference.
+Title: Texas House District 31 Primary Election Live Results 2026 - NBC News
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/texas-us-house-district-31-results
+Summary: The current election results for Texas House District 31 show no votes counted yet for either Republican or Democratic candidates, with all vote counts at zero. The expected remaining votes are approximately 85,000 for Republicans and 36,000 for Democrats, indicating a higher potential voter turnout for the GOP. The Republican candidates include incumbent John Carter, William Abel, and David Berry, while the Democratic candidates are Stuart Whitlow and Justin Early. Given the early stage of counting and the higher expected votes for Republicans, the district currently leans toward a Republican victory, but final results will depend on the remaining votes.
 
-2. **Candidate Profiles**: Evaluate the candidates running for the seat. Assess their political experience, campaign strategies, and public appeal. Strong candidates can significantly impact election outcomes.
+Title: Justin Early wins Democratic nomination for U.S. House in Texas' 31st Congressional District |  | kten.com
+Author: AP
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.kten.com/justin-early-wins-democratic-nomination-for-u-s-house-in-texas-31st-congressional-district/article_629bb741-8aaf-5c19-a7e9-b5658c2adf3d.html
+Summary: Justin Early has secured the Democratic nomination for Texas' 31st Congressional District, positioning him as the Democratic candidate in the upcoming U.S. House race. While this confirms Democratic participation, the outcome remains uncertain, as the district's competitiveness depends on various factors including voter demographics, campaign dynamics, and the strength of opposition candidates. Historically, Texas' 31st District has seen competitive races, and Early's nomination is a key step, but predicting a Democratic win requires considering broader electoral trends and the specific campaign developments leading up to the election.
 
-3. **Campaign Financing**: Review the financial backing for both Democratic and Republican candidates. A well-funded campaign can enhance outreach and voter engagement.
+Title: Texas' 31st Congressional District election, 2026 - Ballotpedia
+URL: https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026
+Summary: The 2026 election for Texas' 31st Congressional District features incumbent Republican John Carter running for re-election. The primary was held on March 3, 2026, with a general election scheduled for November 3, 2026. The district was redrawn in August 2025, potentially impacting electoral dynamics. As of now, no Democratic candidate is listed, but additional candidates may emerge following the primary. Factors influencing the Democratic Party's chances include the district's recent voting history, the political climate in Texas, and the strength of Democratic candidates in the upcoming election.
 
-4. **Voter Demographics**: Understand the demographics of District 31, including age, race, and socioeconomic status. Shifts in these demographics can influence party support.
-
-5. **Current Political Climate**: Consider the broader political environment, including national trends and local issues that may sway voters. Factors such as economic conditions, public opinion on key issues, and recent events can play a crucial role.
-
-6. **Polling Data**: Look for any available polling data that reflects voter sentiment leading up to the election. Polls can provide insights into which party may have an advantage.
-
-For more detailed information and analysis, visit the [Transparency USA website](https://www.transparencyusa.org/tx/race/texas-hous).
-
-Title: Redistricting target TX-35 attracts crowded primary races
-Author: Olivia Borgula
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.texastribune.org/2026/02/28/texas-35th-congressional-district-republican-democratic-primaries-trump/
-Summary: The article discusses the competitive landscape of Texas' 35th Congressional District, which has been redrawn to favor the Republican Party. This district is witnessing crowded primary races for both parties, with notable candidates like Air Force veteran Carlos De La Cruz, who has received an endorsement from former President Donald Trump. The Democrats are also optimistic about their chances in the upcoming elections, indicating a potentially competitive race.
-
-While the article primarily focuses on TX-35, it highlights the broader context of Texas politics, where redistricting has significant implications for party dynamics. The competitive nature of the primaries in TX-35 could reflect similar trends in neighboring districts, including TX-31. Factors such as candidate endorsements, party strategies, and voter sentiment will be crucial in predicting the outcome of the Democratic Party's chances in TX-31.
-
-Title: Sabato's Crystal Ball - UVA Center for Politics
-Published Date: 2026-02-26T06:00:32.742Z
-URL: https://centerforpolitics.org/crystalball/
-Summary: The webpage "Sabato's Crystal Ball" from the UVA Center for Politics offers insights into upcoming elections, including the Texas primaries and the political landscape affecting House races. For predicting whether the Democratic Party will win the TX-31 House seat, consider the following relevant points:
-
-1. **Texas Primaries**: The Texas primaries are a significant event, with both major parties contesting key seats. The outcomes here could influence the dynamics of the TX-31 race.
-
-2. **Political Polarization**: The site notes that many states, including Texas, exhibit one-party dominance, which may affect the competitiveness of Democratic candidates in traditionally Republican districts like TX-31.
-
-3. **House Retirements**: The current election cycle is marked by a high number of open House seats due to retirements, which could create opportunities for Democrats if they can capitalize on voter sentiment and mobilization.
-
-4. **Recent Trends**: The analysis of uncontested races and the overall political climate in Texas may provide context for the viability of Democratic candidates in TX-31.
-
-For a more accurate prediction, it would be beneficial to monitor polling data, candidate profiles, and voter turnout trends as the election approaches.
-
-Title: Democrat Christian Menefee wins special US House runoff in Texas, shrinking GOP majority even further | CNN Politics
-Author: Molly English
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://www.cnn.com/2026/01/31/politics/texas-18th-special-election-democrats-republicans
-Summary: Democrat Christian Menefee's recent victory in the special election for Texas' 18th Congressional District has implications for the Democratic Party's prospects in upcoming elections, including the TX-31 House seat. Menefee's win narrows the Republican majority in the House, which currently stands at 218 Republicans to 213 Democrats, following recent resignations and deaths among GOP members. This shift indicates a potential trend favoring Democrats in Texas, particularly in light of the ongoing political dynamics and voter sentiment in the state.
-
-The TX-31 seat, which is currently held by Republicans, may be influenced by factors such as voter turnout, the political landscape shaped by recent elections, and the effectiveness of Democratic campaigning strategies. Additionally, the context of Menefee's victory, which followed a period of vacancy in the 18th District due to the deaths of previous representatives, suggests that Democratic candidates could capitalize on voter fatigue with Republican leadership.
-
-As the political climate evolves, especially with upcoming elections and potential runoffs, the Democratic Party's ability to mobilize support and address local issues will be crucial in determining their chances in the TX-31 House seat.
-
-Title: Blue wave forming? Democrat's Texas romp may be biggest sign yet.
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.usatoday.com/story/news/politics/2026/02/03/democrat-texas-win-blue-wave-sign/88478528007/
-Summary: The recent special elections in Texas, particularly a significant state Senate race, indicate a strong performance by Democrats, which may suggest a potential "blue wave" in the state. This trend of Democratic overperformance could be a critical factor in predicting the outcome of the upcoming TX-31 House seat election. Analysts view the Texas results as a "wake-up call" for the GOP, highlighting shifting voter sentiments that could favor Democratic candidates. As the political landscape evolves, these developments may provide insights into the likelihood of a Democratic victory in TX-31.
+Title: 2026 Election: Here are the candidates for Texas' 31st Congressional District | FOX 7 Austin
+Author: Lisette Lopez
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.fox7austin.com/election/2026-election-candidates-texas-district-31-congress
+Summary: The Texas 31st Congressional District race features incumbent Republican John Carter, seeking his 12th term since 2003, against several Republican challengers, with the primary election scheduled for March 3. Carter has focused his campaign on his record supporting rural Texas communities, while his opponents, including Valentina Gomez and Vince Offer, have criticized his age and political record. The district encompasses Central Texas communities such as Round Rock, Pflugerville, Killeen, Temple, and Georgetown. On the Democratic side, candidates include Stuart Whitlow and Justin Early. Given Carter's long-standing incumbency and focus on rural support, along with the district's current Republican representation, the likelihood of a Democratic win appears uncertain and would depend on factors such as voter turnout, campaign dynamics, and any shifts in voter sentiment.
 
 

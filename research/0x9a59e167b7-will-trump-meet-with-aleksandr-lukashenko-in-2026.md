@@ -1,7 +1,7 @@
 # Research: Will Trump meet with Aleksandr Lukashenko in 2026?
 
 **Market ID:** 0x9a59e167b7111dcfbd1b42b55a1105cfea20989105d1b65a267fb81419bc02a2
-**Researched At:** March 1, 2026 at 05:59:57 AM UTC
+**Researched At:** March 8, 2026 at 04:19:36 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump meet with Aleksandr Lukashenko in 2026?"
 
 ---
@@ -9,41 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.2¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-The invitation via Trump’s “Board of Peace” and Lukashenko’s refusal to attend the initial meeting largely offset each other, making a 19% probability reasonable. No specific, credible new information suggests a large mispricing.
+Recent February reporting shows Lukashenko has declined Trump’s invitation and faces visa/logistical hurdles, making a 2026 meeting unlikely but not impossible. The current 17% probability appears to reflect these obstacles and remaining tail risks, with no clear evidence of large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump and Belarusian President Aleksandr Lukashenko will meet in person at any point in 2026. A “Yes” requires a documented, in-person encounter where both interact; anything short of that—video calls, private photo-ops without interaction, or representation by a surrogate—resolves “No.”
+The market asks whether Donald Trump and Belarusian President Aleksandr Lukashenko will meet in person at any point during 2026. A “Yes” requires any documented in-person interaction (bilateral or multilateral setting) within the calendar year; otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish signals (supporting >19%):  
-• The CNN Jan 22 article reports Trump’s “Board of Peace” includes Lukashenko as an invited member, suggesting at least one organized venue for a potential in-person meeting.  
-• U.S. diplomatic efforts in Eastern Europe (per Russia Analytical Report) have revived high-level contacts in the region, increasing the chance that Trump might engage Lukashenko if strategic interests align.
+Bearish (supports low probability):  
+• Feb 11–20, 2026 reporting from Vedomosti, Interfax, REFORM.news, Al-Monitor, and Kyiv Independent shows Lukashenko declined Trump’s Feb 19 Peace Council invitation due to prior commitments, sanctions‐related airspace/logistics issues, and visa refusals for his delegation.  
+• No future meeting is scheduled or publicly under discussion; Belarus was unable even to send its foreign minister.  
+• Kremlin influence and ongoing EU/US sanctions create diplomatic headwinds that make a future Trump–Lukashenko meeting unlikely.  
 
-Bearish signals (supporting <19%):  
-• reform.news (Feb 11) notes Lukashenko declined the inaugural Washington Peace Council meeting—sending his foreign minister instead—citing late notice, scheduling conflicts, and EU sanctions hampering travel.  
-• No credible reporting to date confirms any later invitation or scheduling of a bilateral meeting; Russia Offensive Campaign Assessment and RedState piece focus on other geopolitical actors (Putin, Takaichi) with no indication Lukashenko will overcome travel/logistical hurdles in 2026.  
+Bullish (supports some nonzero chance):  
+• Lukashenko formally acceded to Trump’s Board of Peace initiative, indicating some willingness to engage.  
+• There remain nine+ months in 2026, and meetings could occur at third-party venues (UNGA in New York, multilateral summits) if logistical/diplomatic obstacles are eased.  
 
-Credibility and recency: CNN and ISW are reputable and recent. reform.news is less established but cites plausible logistical issues.
+Source credibility and recency: all articles are February 2026, from established Russian and Western media outlets; information is both timely and reliable. There is no clear “smoking gun” indicating a meeting is underway, nor is there evidence that the market has overlooked a scheduled trip or summit.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 19% price plausibly reflects mixed signals: an invitation exists (bullish) but the invitee has so far refused (bearish). Low volume and narrow spread suggest a handful of traders have balanced these data points; there’s no glaring information vacuum that would deter informed participation.
+A 17% probability can be interpreted as a consensus view that, despite initial invitations, substantive geopolitical and logistical barriers make a meeting unlikely but not impossible. The low volume and tight spread suggest few participants are active; but because the negatives are so pronounced, 17% is plausibly the collective estimate of remaining tail‐risk. Informed traders may view the question as too speculative to trade heavily.
 
 4. MISPRICING ASSESSMENT  
-No clear, specific information appears overlooked. The market likely already factors in both the Board of Peace invitation and Lukashenko’s initial refusal. Any further developments (easing sanctions, new invitations) would be priced once reported. A >20-cent correction would require evidence that either a meeting is already scheduled or impossible, which we lack.
+There is no strong contradictory evidence that a meeting is already planned or that obstacles will vanish; similarly, there is no hidden bullish catalyst unaccounted for. The market’s 17% sits comfortably between “virtually zero” (given current refusals) and “some chance” (future multilateral events). No obvious mispricing above a few cents is evident.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is misaligned: 10%  
-Possible magnitude of mispricing: ~2 cents  
-Expected value ≈ 0.1 × 2 = 0.2 cents
+Strength of evidence that the market has already priced in available information: ~80%  
+Magnitude of potential mispricing: ~5 cents (if anything)  
+Expected value = 0.8 × 5¢ = 4¢  
 
-EXPECTED_VALUE: 0.2  
-SUMMARY: The invitation via Trump’s “Board of Peace” and Lukashenko’s refusal to attend the initial meeting largely offset each other, making a 19% probability reasonable. No specific, credible new information suggests a large mispricing.  
+Given that even a 5¢ adjustment is speculative and the evidence leans toward the market already reflecting known obstacles, one would likely conclude no actionable mispricing.
+
+EXPECTED_VALUE: 4  
+SUMMARY: Recent February reporting shows Lukashenko has declined Trump’s invitation and faces visa/logistical hurdles, making a 2026 meeting unlikely but not impossible. The current 17% probability appears to reflect these obstacles and remaining tail risks, with no clear evidence of large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -52,56 +55,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: What is Trump's 'Board of Peace' and who is joining? Here's ... - CNN
-Author: Helen Regan, Kara Fox
-Published Date: 2026-01-22T00:00:00.000Z
-URL: https://www.cnn.com/2026/01/22/world/trump-board-of-peace-explainer-intl-hnk
-Summary: The article discusses Donald Trump's "Board of Peace," which aims to address global conflicts and has attracted support from various leaders, including Aleksandr Lukashenko, the president of Belarus. While the board has garnered backing from Middle Eastern monarchs and other nations, it has struggled to attract Western allies, with only Hungary representing Western Europe at a recent signing ceremony. The board's purpose has evolved from focusing on Gaza reconstruction to a broader mandate, which has raised concerns among U.S. allies. Given that Lukashenko is among the invited leaders, it is plausible that Trump may meet with him in 2026, especially considering the board's ongoing activities and the geopolitical dynamics at play.
+Title: Лукашенко ответил Трампу отказом на приглашение посетить США - Ведомости
+Author: 
+Published Date: 2026-02-11T00:00:00.000Z
+URL: http://www.vedomosti.ru/politics/articles/2026/02/11/1175554-lukashenko-otvetil-trampu?from=newsline
+Summary: President Alexander Lukashenko of Belarus declined an invitation to attend the first meeting of Donald Trump's "Council of Peace" in the United States on February 19, 2026, due to prior commitments and logistical challenges, including potential issues arising from EU sanctions and airspace restrictions. Lukashenko's absence indicates he will not participate in this event, and Belarus will be represented by Foreign Minister Maxim Ryzhenkov. There is no indication that a meeting between Trump and Lukashenko is scheduled or likely in 2026 based on current information.
 
-Title: Russia Analytical Report, Feb. 9–17, 2026
-URL: https://www.russiamatters.org/news/russia-analytical-report/russia-analytical-report-feb-9-17-2026
-Summary: The Russia Analytical Report from February 9–17, 2026, primarily focuses on the ongoing negotiations between Russia and Ukraine, with significant involvement from the U.S. and its former President Donald Trump. While the report does not directly address a potential meeting between Trump and Belarusian leader Aleksandr Lukashenko, it highlights the geopolitical dynamics and U.S. influence in Eastern Europe, which could be relevant for predicting such a meeting.
-
-Key points include:
-
-1. **U.S.-Brokered Talks**: The report discusses U.S.-brokered negotiations in Geneva aimed at resolving the Russia-Ukraine conflict, indicating a heightened U.S. diplomatic presence in the region. This involvement suggests that U.S. leaders, including Trump, may be more engaged with Eastern European leaders, including Lukashenko, as part of broader strategic discussions.
-
-2. **Pressure on Ukraine**: Trump is reported to be pressuring Ukraine to make concessions to Russia, which reflects his administration's approach to foreign policy in the region. If Trump were to meet with Lukashenko, it could be in the context of discussing Belarus's role in the Russia-Ukraine conflict or broader regional stability.
-
-3. **Geopolitical Context**: The report emphasizes the complexities of U.S.-Russia relations and the ongoing tensions in Eastern Europe. Any potential meeting between Trump and Lukashenko would likely be influenced by these dynamics, particularly if it aligns with U.S. interests in mitigating Russian influence.
-
-In summary, while the report does
+Title: Лукашенко не поедет на первое заседание Совета мира, инициированного Трампом
+Author: 
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://www.interfax.ru/world/1072203
+Summary: The article reports that Belarusian President Alexander Lukashenko will not attend the first meeting of the World Council initiated by U.S. President Donald Trump, scheduled for February 19 in Washington. The decision is due to prior commitments and logistical challenges, including sanctions and airspace restrictions over the EU. Belarus will be represented by Foreign Minister Maxim Ryzhenkov. The event follows Lukashenko's recent formal accession to the Council of the World, which Trump proposed to him earlier. While the article does not specify future meetings, the context indicates ongoing diplomatic engagement between Lukashenko and the U.S., suggesting that future interactions, including potential meetings with Trump, could be possible but are not confirmed for 2026.
 
 Title: Peace Council: Why Lukashenka Did Not Really Fly To Washington – REFORM.news (formerly REFORM.by)
 Author: reform.news
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://reform.news/en/peace-council-why-lukashenka-did-not-really-fly-to-washington/
-Summary: The article discusses why Belarusian leader Alyaksandr Lukashenka declined an invitation to the first meeting of the Peace Council in Washington, which was extended by Donald Trump. Instead of attending, Lukashenka will be represented by Foreign Minister Maksim Ryzhankou. The official reason given for Lukashenka's absence includes a late invitation and a pre-planned work schedule, along with potential logistical issues due to EU sanctions affecting air travel.
+Summary: The article explains that Belarusian President Aleksandr Lukashenko declined to attend the inaugural Peace Council meeting in Washington, citing a late invitation, prior commitments, and logistical issues related to sanctions and airspace restrictions. Instead, Belarus will be represented by Foreign Minister Maksim Ryzhankou. Despite Lukashenko’s previous publicized invitation and Trump’s personal appeal, he chose not to participate, possibly due to strategic considerations, such as a call from the Kremlin or other undisclosed political factors. This decision suggests that future interactions between Trump and Lukashenko in 2026 are uncertain and may depend on evolving geopolitical dynamics, including Belarus’s international relations and internal political calculations.
 
-Despite the opportunity to engage with Trump and other leaders, Lukashenka's refusal raises questions about his willingness to break from international isolation. The article suggests that this decision could impact future relations, as Trump may view the refusal negatively, potentially affecting any future meetings between the two leaders.
-
-In summary, while Lukashenka's absence from the Peace Council meeting indicates a missed opportunity for direct engagement with Trump, it also leaves open the question of whether future meetings will occur, depending on the evolving political landscape and Lukashenka's willingness to engage with the U.S.
-
-Title: Russian Offensive Campaign Assessment, FEB 19, 2026 | ISW
-Author: Adam Grace
+Title: Belarus, issued rare invitation to Board of Peace, says it received no visas - AL-Monitor: The Middle Eastʼs leading independent news source since 2012
+Author: 
 Published Date: 2026-02-19T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/
-Summary: The webpage titled "Russian Offensive Campaign Assessment, FEB 19, 2026" from the Institute for the Study of War discusses the ongoing conflict in Ukraine and Russian President Vladimir Putin's strategic objectives. Key points include:
+URL: http://www.al-monitor.com/originals/2026/02/belarus-issued-rare-invitation-board-peace-says-it-received-no-visas
+Summary: Belarus was invited to participate in U.S. President Donald Trump's inaugural Board of Peace meeting in Washington, but its delegation, including Foreign Minister Maxim Ryzhenkov, did not receive visas despite completing all required procedures. The invitation was extended as part of efforts to normalize relations, with Belarusian President Alexander Lukashenko agreeing to join the board. However, the failure to secure visas raises questions about the likelihood of a direct meeting between Trump and Lukashenko in 2026, suggesting that such a meeting may be unlikely unless diplomatic obstacles are resolved.
 
-1. **Putin's Objectives**: European intelligence sources indicate that Putin's goals extend beyond merely controlling Ukrainian territory. He aims to remove Ukrainian President Volodymyr Zelensky and impose Ukrainian neutrality, suggesting a long-term commitment to the conflict.
-
-2. **Stability in the Region**: The assessment implies that any territorial concessions by Ukraine, such as ceding Donetsk Oblast, would not satisfy Putin's ambitions, indicating a potential for continued instability in Eastern Europe.
-
-3. **Geopolitical Context**: The ongoing war and its implications for NATO and European security are crucial, as Putin's actions may influence broader geopolitical dynamics, including relationships with leaders like Aleksandr Lukashenko of Belarus.
-
-While the webpage does not directly address a potential meeting between Trump and Lukashenko, understanding Putin's unwavering objectives and the regional security landscape could provide context for any future diplomatic engagements involving these leaders. If Trump were to engage with Lukashenko, it might be influenced by the evolving situation in Ukraine and the broader implications for U.S.-Russia relations.
-
-Title: Thoughts on the Upcoming Trump-Takaichi Meeting – RedState
-Author: Erik Durneika
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.redstate.com/erik-durneika/2026/02/28/the-upcoming-trump-takaichi-meeting-n2199661
-Summary: The article discusses the upcoming meeting between President Trump and Japanese Prime Minister Sanae Takaichi on March 19, 2026. It highlights the strengthening of U.S.-Japan relations, particularly in the context of growing Chinese aggression in the Western Pacific. The author notes Takaichi's close ideological ties to former Prime Minister Shinzo Abe, with whom Trump had a strong friendship, suggesting that this meeting could further solidify their partnership.
-
-While the article does not directly address a potential meeting between Trump and Belarusian President Aleksandr Lukashenko in 2026, it emphasizes Trump's focus on international relationships and strategic alliances, particularly in response to geopolitical challenges. This context may provide insight into Trump's diplomatic priorities and his likelihood of engaging with various world leaders, including Lukashenko, depending on the political climate and U.S. interests at that time.
+Title: Belarus unable to secure visas for Trump's Board of Peace meeting
+Author: 
+Published Date: 2026-02-20T00:00:00.000Z
+URL: http://kyivindependent.com/belarus-unable-to-secure-visas-board-of-peace/
+Summary: Belarus was unable to secure visas for its delegation, including Foreign Minister Maxim Ryzhenkov, to attend the inaugural meeting of the U.S.-initiated Board of Peace, which was invited by Donald Trump. The Board, aimed at addressing global conflicts and possibly expanding its mandate beyond the Gaza peace plan, is chaired by Trump. Given Belarus's support for Russia's invasion of Ukraine and its inability to participate in the meeting, there is no indication of a planned or likely meeting between Trump and Belarusian President Alexander Lukashenko in 2026.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Hamas agree to disarm by June 30?
 
 **Market ID:** 0x2cd4df599867b14e835436e67e524cd04bbd67eaa6454c07b294d9dd0470e6b7
-**Researched At:** March 1, 2026 at 06:01:22 AM UTC
+**Researched At:** March 8, 2026 at 04:21:20 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Hamas agree to disarm by June 30?"
 
 ---
@@ -9,44 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.5¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-All recent, credible sources show Hamas firmly rejecting disarmament, suggesting the 21% market price may be modestly too high but not dramatically mispriced. There’s no indication of a coming policy shift, so any edge is small.
+Recent, credible reports uniformly show Hamas leadership rejecting any disarmament absent broader political guarantees, suggesting the market’s 23.5% probability is likely too high; a fair price may be closer to 10%. However, small upside scenarios keep some nonzero chance alive.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Hamas will officially announce by June 30, 2026 that it will disarm (partially or completely) in Gaza. A “Yes” resolution requires a formal policy declaration by Hamas leadership (or a widely reported consensus that such a policy is in place). Any conditional or informal intent does not qualify—only a clear, authoritative announcement of disarmament qualifies. Otherwise, it resolves “No.”
+The market asks whether Hamas will issue a formal, credible announcement by June 30, 2026, committing to relinquish or dismantle its military forces in Gaza (partial or complete). A “Yes” resolution requires a public, official policy directive from top Hamas leaders, or broad, credible reporting confirming such a disarmament process; anything less—informal statements, conditional plans, or preliminary negotiations—yields “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (suggesting the price is too high):  
-- Feb 16 Scahill (Dropsite News): Hamas “will not unilaterally disarm” despite U.S. / Israeli pressure; Naim states no willingness absent security guarantees.  
-- Feb 8 Al Jazeera: Khaled Meshaal rejects disarmament while occupation continues; disarmament seen as undermining resistance.  
-- Feb 8 AFP (The Hindu): Top Hamas leader rejects disarmament or foreign rule in Gaza.  
-All three are recent (February 2026) and from reputable news outlets with direct leader quotes. They consistently show Hamas opposing disarmament.
+Bearish (supports NO, price too high):  
+• Five independent reports (Feb. 8 & Feb. 16, 2026) from credible outlets (Al Jazeera, AFP via The Hindu, Malay Mail, Dropsite News) consistently quote senior Hamas figures (Meshaal, Basem Naim) flatly rejecting any unilateral or partial disarmament absent a comprehensive political settlement and security guarantees.  
+• Hamas ties weapons to Palestinian resistance rights and refuses to disarm under ongoing occupation.  
+• No sign of formal negotiation proposals from Hamas leadership to disarm by the June deadline.
 
-Bullish evidence (suggesting some chance of disarmament):  
-- Feb 16 The National: Israel’s 60-day ultimatum adds pressure; outcome hinges on Gaza public sentiment, internal politics, and mediation by Qatar/Egypt/Turkey.  
-- Dec 30 Times of Israel: Trump’s warning of “hell to pay” underscores high stakes and potential incentive for Hamas to concede for reconstruction aid.  
-These are credible but point to pressure rather than firm indications Hamas will comply.
+Bullish (supports YES, price reasonable):  
+• U.S.-brokered ceasefire talks include demilitarization as a term—traders may assign some nonzero chance that Hamas, under intense external pressure (Trump-Netanyahu threats), pivots to at least stage-one disarmament or hands over a class of weapons to a future Palestinian Authority.  
+• History of surprise announcements in high-stakes conflicts could create low-probability paths to a formal commitment.
 
-Overall, there is no indication Hamas is softening. The bearish evidence is high‐quality, recent, and unanimous, whereas bullish signs are only indirect pressures.
+Source credibility: All sources are recent (Feb. 8–16) and from established news agencies. Their consistency strengthens the bearish case; the absence of counter-evidence reduces confidence in a shift before late June.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 21% probability could reflect a small tail chance that under severe military threat or mediated deal Hamas grudgingly agrees to a staged disarmament. Alternatively, it may simply reflect one or two over-confident traders betting on a negotiated settlement. Low volume suggests limited scrutiny; however, the unanimity of public Hamas statements likely already informs traders. The price is unlikely driven by new private info.
+A 23.5% price could reflect a small faction within Hamas or external actors forcing a last-minute concession, or simply a floor reflecting the market’s view that zero is too extreme. Low volume suggests few traders are following the nuance—either because the outcome seems clear (and they’re not betting) or because only a handful of bettors are setting the price.
 
 4. MISPRICING ASSESSMENT  
-Given the strength and consistency of public rejections by Hamas, the true probability may be lower than 21%. However, there is still a slim possibility of a last-minute deal under external pressure, so 21% isn’t obviously absurd. There’s no clear missing fact that would justify a >10 cent adjustment. Thus, while the market may be modestly overestimating Hamas’s chance of disarmament, there isn’t strong evidence of a large mispricing.
+Given uniform, recent rejections by top Hamas leaders and no sign of formal negotiations toward disarmament, the market’s 23.5% seems overstated. A more defensible probability might lie in the single-digit range (5–10%). While small upside paths exist, they are not evident in the public record. Thus, I see mispricing of roughly 10–15 cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is slightly too high: ~50%  
-Estimated magnitude of mispricing: ~5 cents (true probability closer to 15–18%)  
-Expected value = 0.50 × 5 cents = 2.5 cents
+Strength of evidence ~50% (coverage is strong but future dynamics always uncertain)  
+Magnitude ~12 cents (current 23.5% minus a more realistic ~10–11% fair price)  
+Expected value = 0.5 × 12 cents = 6 cents
 
-EXPECTED_VALUE: 2.5  
-SUMMARY: All recent, credible sources show Hamas firmly rejecting disarmament, suggesting the 21% market price may be modestly too high but not dramatically mispriced. There’s no indication of a coming policy shift, so any edge is small.  
+EXPECTED_VALUE: 6  
+SUMMARY: Recent, credible reports uniformly show Hamas leadership rejecting any disarmament absent broader political guarantees, suggesting the market’s 23.5% probability is likely too high; a fair price may be closer to 10%. However, small upside scenarios keep some nonzero chance alive.  
 CONFIDENCE: medium
 
 ---
@@ -59,32 +57,31 @@ Title: Exclusive: Hamas Says It Will Not Unilaterally Disarm as Trump and Netany
 Author: Jeremy Scahill
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://www.dropsitenews.com/p/trump-netanyahu-demands-hamas-disarmament-gaza-board-peace-negotiations-mladenov
-Summary: Hamas has explicitly stated that it will not unilaterally disarm, despite increasing pressure from President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, who are demanding immediate disarmament as a condition for any reconstruction efforts in Gaza. Senior Hamas official Basem Naim indicated that Netanyahu is seeking justifications to continue military aggression against Gaza. Trump has suggested a potential two-month deadline for Palestinians to surrender their weapons, with threats of resuming large-scale conflict if demands are not met. Given Hamas's firm stance against disarmament and the lack of guarantees for Palestinian security or sovereignty, it appears unlikely that Hamas will agree to disarm by the proposed June 30 deadline.
+Summary: Hamas has explicitly stated it will not unilaterally disarm or submit to total demilitarization of Gaza. Senior Hamas leader Basem Naim emphasized that disarmament is a political issue, not solely security-based, and linked any potential negotiations on weapons to a comprehensive political process, including a long-term ceasefire and Palestinian statehood. The group rejects the notion of disarmament without addressing broader political and humanitarian concerns and insists that Palestinian resistance weapons are a legitimate right. Given these positions, and the lack of formal negotiations or proposals from Hamas, it appears unlikely that Hamas would agree to disarm by June 30 without significant political developments and guarantees.
 
 Title: Hamas leader rejects disarmament while Israeli occupation of Gaza continues | Israel-Palestine conflict News | Al Jazeera
 Author: Al Jazeera Staff
 Published Date: 2026-02-08T00:00:00.000Z
 URL: https://aljazeera.com/news/2026/2/8/hamas-leader-rejects-disarmament-while-israeli-occupation-of-gaza-continues
-Summary: Hamas leader Khaled Meshaal has firmly rejected the idea of disarming Palestinian factions in Gaza, arguing that disarmament would leave the occupied people vulnerable to elimination by Israel. Speaking at the Al Jazeera Forum, he emphasized that discussions about Hamas handing over its weapons are part of a long-standing effort to undermine Palestinian armed resistance. Meshaal stated that disarmament is not feasible while the Palestinian people remain under occupation and called for conditions that would allow for reconstruction and peace, rather than simply demanding disarmament. He indicated that Hamas is open to dialogue through mediators like Qatar, Turkey, and Egypt, but insists that any approach must prioritize the rights and safety of the Palestinian people. Given this context, it seems unlikely that Hamas will agree to disarm by June 30 without significant changes in the current political and military landscape.
+Summary: Hamas’s leader abroad, Khaled Meshaal, firmly rejects disarmament of Palestinian factions in Gaza, emphasizing that disarming would render Palestinians vulnerable to Israeli violence, which is equipped with advanced weaponry. Meshaal indicates that Hamas’s position is that disarmament is unrealistic without a conducive environment for reconstruction and relief, and that ongoing Israeli occupation and military actions hinder disarmament efforts. Despite international pressure, including from the US demanding Hamas’s disarmament, Meshaal suggests that Hamas has proposed a long-term truce (5-10 years) as an alternative to disarmament, with guarantees from mediating countries. Given these positions and the ongoing Israeli military operations, it is unlikely that Hamas will agree to disarm by June 30.
 
 Title: Top Hamas leader rejects disarmament or 'foreign rule' - The Hindu
 Author: AFP
 Published Date: 2026-02-08T00:00:00.000Z
 URL: https://www.thehindu.com/news/international/top-hamas-leader-rejects-disarmament-or-foreign-rule/article70607769.ece
-Summary: A top Hamas leader has firmly rejected the idea of disarmament and any form of foreign rule, indicating a strong stance against relinquishing arms. This position suggests that Hamas is unlikely to agree to disarm by the proposed deadline of June 30. The leader's statements reflect a commitment to maintaining their military capabilities and autonomy, which could hinder any negotiations aimed at disarmament. Therefore, based on the current leadership's rejection of disarmament, it appears improbable that Hamas will agree to disarm by the specified date.
+Summary: A senior Hamas leader, Khaled Meshal, has firmly rejected the idea of disarmament and foreign intervention in Gaza. He emphasized that resistance against occupation is a right of the Palestinian people and stated that Hamas would not accept foreign rule or disarmament as part of any ceasefire or reconstruction process. While Hamas has indicated it might consider handing over weapons to a future Palestinian authority, it maintains that disarmament is a red line. The ongoing U.S.-brokered ceasefire involves plans for demilitarization, but Hamas's stance suggests it is unlikely to agree to disarmament by June 30, especially under external pressure, unless there are significant shifts in negotiations or political circumstances.
 
-Title: Israel tells Hamas to disarm in 60 days or army will 'complete mission' in Gaza | The National
-Author: Amr  Mostafa
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.thenationalnews.com/news/mena/2026/02/16/israel-tells-hamas-disarm-in-60-days-or-army-will-complete-mission-in-gaza/
-Summary: Israel has issued an ultimatum to Hamas, demanding that the group disarm within 60 days or face military action to "complete the mission" in Gaza. This deadline places significant pressure on Hamas, raising questions about their willingness to comply. Factors influencing Hamas's decision may include internal political dynamics, public sentiment in Gaza, potential international support, and the consequences of military escalation. The situation remains fluid, and Hamas's response will likely depend on these complex considerations.
+Title: Top Hamas leader rejects disarmament
+or ‘foreign rule’
+Author: Agence France-Presse
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://tribune.net.ph/2026/02/08/top-hamas-leader-rejects-disarmamentor-foreign-rule
+Summary: A senior Hamas leader, Khaled Meshal, has firmly rejected the idea of disarming or accepting foreign intervention in Gaza, emphasizing that resistance is a right under occupation. Hamas considers disarmament a red line and has indicated it might consider handing over weapons only to a future Palestinian authority, not as part of current negotiations. The ongoing US-backed ceasefire includes a plan for Gaza’s demilitarization, but Hamas’s stance suggests it is unlikely to agree to disarmament by June 30. The group’s position remains that as long as occupation persists, resistance—including armed resistance—will continue.
 
-Title: Meeting PM, Trump warns of 'hell to pay' if Hamas doesn't disarm in ...
+Title: Top Hamas leader rejects disarmament or ‘foreign rule’ | Malay Mail
 Author: 
-Published Date: 2025-12-30T00:00:00.000Z
-URL: https://www.timesofisrael.com/meeting-pm-trump-warns-of-hell-to-pay-if-hamas-doesnt-disarm-in-very-short-time/
-Summary: In a recent meeting with Israeli Prime Minister Netanyahu, former President Donald Trump issued a stern warning to Hamas, stating there would be "hell to pay" if the group does not disarm within a "very short" timeframe. Trump emphasized the alignment between his administration and Israel on various security issues, despite some differences regarding Syria, Turkey, and the West Bank. He also expressed support for potential Israeli Defense Forces (IDF) strikes should Iran advance its missile and nuclear capabilities. 
-
-Given this context, predicting whether Hamas will agree to disarm by June 30 hinges on several factors, including the pressure from international actors like the U.S. and Israel, internal dynamics within Hamas, and the broader geopolitical landscape in the region. Trump's strong stance may increase pressure on Hamas, but the group's historical resistance to disarmament and ongoing conflicts may complicate any potential agreement.
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://beta.malaymail.com/news/world/2026/02/08/top-hamas-leader-rejects-disarmament-or-foreign-rule/208520
+Summary: A senior Hamas leader, Khaled Meshal, has firmly rejected disarmament and foreign intervention in Gaza, emphasizing that resistance and weapons are a right under occupation. Despite a US-brokered ceasefire in Gaza progressing into its second phase, which includes demilitarization and Israeli troop withdrawal, Hamas maintains that disarmament is a red line. The group has indicated it might consider handing over weapons to a future Palestinian authority, but no concrete commitment has been made. Given Hamas's stance and the ongoing negotiations, it is unlikely that Hamas will agree to disarm by June 30.
 
 

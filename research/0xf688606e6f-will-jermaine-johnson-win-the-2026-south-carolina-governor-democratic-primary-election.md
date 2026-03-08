@@ -1,7 +1,7 @@
 # Research: Will Jermaine Johnson win the 2026 South Carolina Governor Democratic primary election?
 
 **Market ID:** 0xf688606e6f30e1c55c595ccb992d095e8c9ffe2153154aeec6609eb002f201ee
-**Researched At:** March 1, 2026 at 06:08:33 AM UTC
+**Researched At:** March 8, 2026 at 04:20:19 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jermaine Johnson win the 2026 South Carolina Governor Democratic primary election?"
 
 ---
@@ -9,47 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 4.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-No public polling or quantitative data supports a 75.5% win probability for Johnson, though informed insiders may possess nonpublic intel. With evidence weak on both sides, any mispricing is likely modest.
+Public research provides no polling or fundraising data to contradict the market’s 78.5% price for Johnson’s primary win; the high probability may reflect private insights rather than mispricing. Without quantitative evidence of underperformance, any mispricing is likely under 10¢.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether state Rep. Jermaine Johnson will win the June 9, 2026 Democratic primary for South Carolina governor (including any run-off). YES occurs if he finishes first among Democratic candidates; NO if another Democrat does or if no Democratic primary is held (or “Other” for no primary).  
+The market asks whether Jermaine Johnson will win the Democratic primary for South Carolina governor on June 9, 2026. A “YES” resolution requires Johnson to finish first (including any run-off), while “NO” covers any other outcome or no primary.
 
 2. EVIDENCE EVALUATION  
-Bearish (price too high):  
-• No recent polling: None of the research findings supply head-to-head or multi-candidate polls indicating Johnson holds a 75%+ lead in a two-person or larger Democratic field.  
-• Field size unclear: One source notes two Democrats in a seven-candidate gubernatorial field; if it’s just two Democrats, a 75.5% implied win rate is far above a coin-flip baseline without strong polling.  
-• Lack of fundraising/endorsement data: No data on relative fundraising, establishment endorsements, or grassroots organizing advantage that would justify such a lopsided probability.  
-
-Bullish (price reasonable):  
-• Early front-runner signals: Multiple recent interviews highlight Johnson’s platform resonance with urban and rural Democratic voters and emphasis on coalition-building, which could indicate campaign momentum even absent public polling.  
-• Incumbent base: As a sitting state representative, he may enjoy name recognition and party infrastructure support not detailed in the summaries but known to informed insiders.  
-
-Source credibility & recency: All items are from early 2026, credible local news outlets, but none provide quantitative measures of Johnson’s standing.  
+Bullish case:   
+• Johnson is a three-term state lawmaker with statewide visibility (delivered Democratic response to State of the State).  
+• He’s actively campaigning with town halls and grassroots outreach.  
+Bearish case:  
+• No polling data or fundraising figures on Johnson vs. opponent Mullins McLeod—unknown if Johnson leads.  
+• Research findings contain zero quantitative indicators of voter support; absence of evidence suggests uncertainty.  
+Credibility: All sources date from February–late February 2026 and are from local outlets (Fox Carolina, WRHI, ABC Columbia). They’re credible for event reporting but do not address vote shares.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• Justified interpretation: A handful of well-informed traders may have private polling or fundraising intel suggesting Johnson is the clear frontrunner, pushing price toward 75.5%.  
-• Low volume caveat: $4.4K total volume over 80 days suggests limited engagement; price could reflect one or two overconfident participants or undisclosed data.  
-• Obvious outcome? Given the lack of public polls, it’s not yet obvious to the broader market—arguing that low volume stems from insufficient public info rather than consensus on a foregone conclusion.  
+A 78.5% price could reflect insider knowledge (e.g., private polling) or simple consensus that an experienced legislator will out-raise and out-organize an under-the-radar opponent. Low volume leaves open the possibility that few traders are setting the price, but equally could indicate broad agreement that Johnson is strongly favored.
 
 4. MISPRICING ASSESSMENT  
-We lack any concrete, public evidence that Johnson’s win probability is near 75%. Conversely, absent private data, the market could be incorporating nonpublic fundraising/endorsement poll info. On balance, there’s weak evidence of mispricing rather than strong evidence the market is correct. A large (>20¢) mispricing claim would be speculative; a small mispricing (5–15¢) is plausible but evidence is thin.  
+No public polling or fundraising data are missing from the market pricing, but we lack any quantitative benchmarks to challenge the 78.5% probability. The market may well be pricing in private polls or Democratic-party insiders’ views. Without specific evidence that Johnson is underperforming, there’s no strong case that 78.5% is off by more than a few cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: ~20% (scarce public data).  
-Plausible magnitude of mispricing: ~20¢.  
-Expected value = 20% × 20¢ = 4¢.  
+Strength of evidence for mispricing: ~20% (no direct data to contradict market).  
+Plausible magnitude of mispricing: ~10¢.  
+Expected value = 20% × 10¢ = 2¢.
 
-6. CONFIDENCE  
-low  
-
-EXPECTED_VALUE: 4  
-SUMMARY: No public polling or quantitative data supports a 75.5% win probability for Johnson, though informed insiders may possess nonpublic intel. With evidence weak on both sides, any mispricing is likely modest.  
+EXPECTED_VALUE: 2.0  
+SUMMARY: Public research provides no polling or fundraising data to contradict the market’s 78.5% price for Johnson’s primary win; the high probability may reflect private insights rather than mispricing. Without quantitative evidence of underperformance, any mispricing is likely under 10¢.  
 CONFIDENCE: low
 
 ---
@@ -62,44 +54,29 @@ Title: One on one with SC governor candidate Jermaine Johnson
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://www.foxcarolina.com/video/2026/02/23/one-one-with-sc-governor-candidate-jermaine-johnson/
-Summary: In a recent interview, Jermaine Johnson, a Democratic candidate for the South Carolina governor's race, shared insights into his campaign and vision for the state. Key points from the discussion include his focus on addressing economic disparities, improving education, and enhancing healthcare access. Johnson emphasized the importance of community engagement and building a coalition of support among diverse voter groups. His platform aims to resonate with both urban and rural constituents, which could be crucial in the Democratic primary. 
+Summary: The webpage features an interview with South Carolina gubernatorial candidate Jermaine Johnson, a Democrat, discussing his campaign and perspectives. However, it does not provide specific information about his current polling, campaign momentum, or other factors directly relevant to predicting his chances of winning the 2026 South Carolina Democratic primary election. To assess his likelihood of victory, additional data such as polling results, campaign funding, voter support, and opponent analysis would be necessary.
 
-As the election approaches, factors such as voter turnout, campaign funding, and responses to current political issues will play significant roles in determining his chances of winning the primary. Johnson's ability to connect with voters and articulate his policies effectively will be essential in predicting his success in the 2026 South Carolina Governor Democratic primary election.
+Title: Gubernatorial Candidate Jermaine Johnson to Hold Town Hall in Lancaster – WRHI
+Author: Tom Hyslip
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.wrhi.com/2026/02/gubernatorial-candidate-jermaine-johnson-to-hold-town-hall-in-lancaster-210198
+Summary: The article details Gubernatorial Candidate Jermaine Johnson's upcoming town hall event in Lancaster, SC, scheduled for February 26, 2026. Johnson, a three-term Democratic state lawmaker from Richland County, launched his gubernatorial campaign in October 2025, emphasizing issues like healthcare, infrastructure, and education. He gained prominence by delivering the Democratic response to the State of the State address, criticizing current administration policies on rural hospitals and roads. The town hall aims to engage local voters through a Q&A session, part of his broader effort to build a statewide coalition ahead of the June primary. His personal story of overcoming adversity and his focus on "kitchen table issues" suggest he is positioning himself as a relatable candidate, but the article does not provide polling data or other indicators to predict his primary election success.
 
-Title: Why Jermaine Johnson is running for SC governor
-Author: Bella Carpentier
-Published Date: 2026-02-02T00:00:00.000Z
-URL: http://greenvilleonline.com/story/news/politics/2026/02/02/why-jermaine-johnson-running-sc-governor/88300699007/
-Summary: Jermaine Johnson, a Democratic State Representative from Richland, has officially announced his candidacy for the South Carolina governor's race, joining a competitive field of seven candidates, which includes two Democrats and five Republicans. His decision to run follows months of deliberation and statewide travel with an exploratory committee. As a newcomer to the gubernatorial race, Johnson's chances in the 2026 Democratic primary will depend on various factors, including his campaign strategies, voter outreach, and the political landscape in South Carolina leading up to the election. Observers should consider his experience, the support he garners from party leaders, and his ability to connect with voters on key issues as indicators of his potential success in the primary.
-
-Title: South Carolina gubernatorial candidate Jermaine Johnson interview
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.greenvilleonline.com/videos/news/2026/02/02/watch-video-interview-with-sc-gubinatorial-candidate-jermaine-johnson/88071327007/
-Summary: In an interview with The Greenville News, South Carolina gubernatorial candidate Jermaine Johnson discussed his campaign strategies and key issues he plans to address. To assess his chances of winning the 2026 Democratic primary, consider the following factors highlighted in the interview:
-
-1. **Campaign Focus**: Johnson emphasized his commitment to addressing economic inequality, education reform, and healthcare access, which resonate with many Democratic voters.
-
-2. **Voter Engagement**: He mentioned plans to engage with diverse communities across South Carolina, aiming to build a broad coalition of support.
-
-3. **Political Landscape**: The interview provides insights into the current political climate in South Carolina, including potential challengers and the Democratic Party's strategies.
-
-4. **Public Reception**: Johnson's previous political experience and public perception were discussed, which could influence voter sentiment leading up to the primary.
-
-These elements are crucial in predicting his viability in the upcoming election. For more detailed insights, you can watch the full interview [here](https://www.greenvilleonline.com/videos/news/2026/).
+Title: Evette, Wilson, and Mace Locked in Tight Three-Way Race for SC Governor – WRHI
+Author: Tom Hyslip
+Published Date: 2026-02-07T00:00:00.000Z
+URL: https://www.wrhi.com/2026/02/evette-wilson-and-mace-locked-in-tight-three-way-race-for-sc-governor-209793
+Summary: The article discusses the 2026 South Carolina Republican primary race, highlighting a three-way contest among Lt. Gov. Pamela Evette, Attorney General Alan Wilson, and U.S. Rep. Nancy Mace. Polls show varying support levels: Trafalgar Group's survey favors Evette, while the South Carolina Policy Council's poll indicates Mace leading. A significant portion of voters remain undecided, suggesting potential shifts before the primary. The upcoming debate schedule provides candidates an opportunity to influence voter preferences. However, the article does not mention any Democratic candidates or primary race details, so it offers no information relevant to predicting whether Jermaine Johnson will win the Democratic primary for governor.
 
 Title: [PDF] 2026 Gubernatorial Race Overview
 Published Date: 2025-09-12T00:00:00.000Z
 URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The document primarily discusses the 2026 gubernatorial races in New Jersey and Virginia, with a focus on candidates Mikie Sherrill and Jack Ciattarelli in New Jersey, and Abigail Spanberger in Virginia. It does not provide specific information about Jermaine Johnson or the South Carolina gubernatorial race. 
+Summary: The provided document does not contain any information about Jermaine Johnson or the South Carolina Democratic primary election for governor in 2026. It primarily covers the New Jersey and Virginia gubernatorial races, including candidate backgrounds, polling data, campaign strategies, and endorsements. Therefore, it does not offer relevant insights or predictions regarding Jermaine Johnson's potential success in the South Carolina Democratic primary.
 
-To predict whether Jermaine Johnson will win the 2026 South Carolina Governor Democratic primary, one would need to consider factors such as his political background, campaign strategy, fundraising efforts, voter engagement, and polling data specific to South Carolina. Additionally, understanding the dynamics of the Democratic primary in South Carolina, including the presence of other candidates and the political landscape, would be crucial. 
-
-For a more accurate prediction, further information on Jermaine Johnson's candidacy, his platform, and the current political climate in South Carolina would be necessary.
-
-Title: A new survey of South Carolina's 2026 gubernatorial election shows ...
-Published Date: 2025-12-02T00:00:00.000Z
-URL: https://www.facebook.com/fitsnews/posts/a-new-survey-of-south-carolinas-2026-gubernatorial-election-shows-the-palmetto-s/1339252874665494/
-Summary: The webpage does not contain specific information regarding Jermaine Johnson or the 2026 South Carolina Governor Democratic primary election, as it appears to be a blocked Facebook post. To predict whether Jermaine Johnson will win the primary, consider factors such as his political experience, current popularity, campaign strategy, and any recent polling data related to the Democratic primary candidates in South Carolina. Additionally, analyzing voter demographics and historical voting trends in the state could provide further insights. For the most accurate predictions, keep an eye on upcoming surveys and political analyses as the election date approaches.
+Title: SC primary for Governor is June 9 - ABC Columbia
+Author: ABC Columbia Staff
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://www.abccolumbia.com/2026/02/12/sc-primary-for-governor-is-june-9/
+Summary: The 2026 South Carolina gubernatorial primary is scheduled for June 9, with the general election on November 3. On the Democratic side, candidates include Jermaine Johnson and Mullins McLeod, while the Republican race features figures like Alan Wilson, Nancy Mace, Ralph Norman, and Pamela Evette. Given the current information, it is too early to predict whether Jermaine Johnson will win the Democratic primary, as election outcomes depend on various factors such as campaign dynamics, voter preferences, and political developments closer to the primary date.
 
 

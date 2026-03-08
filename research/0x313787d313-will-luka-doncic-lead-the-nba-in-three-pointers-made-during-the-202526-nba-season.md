@@ -1,51 +1,55 @@
 # Research: Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season?
 
 **Market ID:** 0x313787d313815069851d81a35de415dcfd9e223ced2a0ab19fcf9ad367ff0a76
-**Researched At:** March 2, 2026 at 04:22:05 AM UTC
+**Researched At:** March 8, 2026 at 04:19:21 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.5¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Luka’s high volume and efficiency support some chance of leading in 3PM/game, but team struggles and elite competition justify a mid-20% probability. No clear omitted factor or statistical anomaly suggests a large mispricing.
+Recent high-volume games confirm Luka’s 3P ability but no season‐long averages or rival stats are provided, so a 33.2% chance reasonably captures his upside versus specialized shooters. No clear mispricing edge is identified.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks: “Will Luka Doncic finish the 2025–26 NBA regular season with the highest three-pointers made per-game average among qualified players?” YES if he leads the league in 3PM/game (tie‐broken by games played, then last-name alphabetical). NO otherwise.
+The market asks: “Will Luka Doncic lead the NBA in three-pointers made per game in 2025–26?”  
+YES if, at season’s end, no qualified player has a higher 3PM/game average than Luka; NO otherwise. Tiebreakers (games played, last-name alphabetical) apply but are unlikely to sway a true leader.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence  
-• ESPN (2/26/26) shows Doncic is making six 3PT per contest in hot scoring outings and consistently attempts high volume.  
-• theScore (2/20/26) notes he’s historically among favorites, with playmaking and ability to generate his own looks.  
+Bullish evidence:  
+• Recent high‐volume games – 6 threes on Feb 26 (ESPN) and 7 threes in three quarters on Mar 7 (Newsday) – suggest he can sustain a >3/game clip in bursts.  
+• As team’s primary scorer and usage leader (season preview), he’s likely to continue launching treys even on a 21-42 Mavericks squad.
 
-Bearish evidence  
-• Mavericks are 21–39 (standings as of 3/2/26) and losing often, which may suppress efficient 3-point opportunities or lead to lower usage.  
-• Competition from Stephen Curry, Damian Lillard, and emerging specialists on OKC/SA could outpace him in per-game 3PM.  
-• Neither source gives his current 3PM/game ranking—if he’s already outside the top 3, it’s difficult to climb into the lead.  
+Bearish or neutral evidence:  
+• No published season average or projection shows Luka leading the league; other prolific shooters (e.g., Curry/Young) are unmentioned but pose competition.  
+• theScore preview omits him in 3PM odds, indicating oddsmakers may view him as a long shot.  
+• Standings data show overall team struggles, potentially limiting pace and volume.  
 
-Source credibility/recency: All are high-quality and from late February 2026, so very recent. Evidence largely qualitative; no glaring omission.
+Source credibility & recency: All sources are from Feb–Mar 2026 and reputable (ESPN, AP, ESPN preview). There’s no obvious outdated or unreliable data. None of this evidence definitively pins the season leader, so a 33.2% probability fits the mix of respect for his ability and recognition of strong competitors.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 25.8% probability can be rationally justified: traders balance his scoring prowess (high volume & efficiency) against a losing team context and stiff competition. Low volume suggests limited arbitrage but not necessarily mispricing—likely a few knowledgeable bettors set this mid‐range probability reflecting uncertainty.
+At low volume (~$8.5K) with a tight spread, price likely reflects a small cadre of traders who see Luka as a plausible but not favorite pick (implied favorite perhaps Curry/Trae/others). The uncertainty around his true season 3PM average vs. rivals justifies a sub-50% price rather than a heavily skewed market.
 
 4. MISPRICING ASSESSMENT  
-No strong indication that any major factor (e.g. a league-leading 3PM/game stat already locked in, a major injury announcement, or a sudden trade) is missing. The current price appears to incorporate both bullish and bearish angles appropriately. I do not find credible evidence of a >20¢ mispricing.
+No clear mispricing emerges:  
+• Bullish evidence is balanced by lack of data on league‐wide 3PM rates and competition from elite shooters.  
+• No outsized contradiction (e.g., Luka already leading) exists.  
+• The 33.2% price sensibly captures both his high ceiling and the risk he’s beaten by more specialized 3-point specialists.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: 10% (small, because evidence is qualitative and likely already priced)  
-Magnitude of mispricing if any: 5¢ (very small potential edge)  
-Expected value = 10% × 5¢ = 0.5¢  
+Strength of evidence against mispricing = 20% (no strong missing info)  
+Potential magnitude of mispricing = 5¢ (if any)  
+EV = 20% × 5¢ = 1¢
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: Luka’s high volume and efficiency support some chance of leading in 3PM/game, but team struggles and elite competition justify a mid-20% probability. No clear omitted factor or statistical anomaly suggests a large mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: Recent high-volume games confirm Luka’s 3P ability but no season‐long averages or rival stats are provided, so a 33.2% chance reasonably captures his upside versus specialized shooters. No clear mispricing edge is identified.  
+CONFIDENCE: low
 
 ---
 
@@ -57,77 +61,29 @@ Title: NBA Daily Stats Leaders - February 26, 2026 - National Basketball Associa
 Author: 
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.espn.com/nba/dailyleaders/_/date/20260226/sort/threePointFieldGoalsMade
-Summary: On February 26, 2026, Luka Doncic had a strong performance, scoring 41 points with 8 assists and 8 rebounds in a game against the Phoenix Suns. He made 12 of 21 field goals, including 6 of 11 three-point attempts, and also converted 11 of 12 free throws. His shooting efficiency and ability to score from beyond the arc are critical indicators of his potential to lead the NBA in three-pointers made for the 2025–26 season.
-
-Currently, Doncic ranks among the top players in the league, showcasing consistent scoring and playmaking abilities. To assess his chances of leading in three-pointers made, consider his current shooting percentages, volume of attempts, and overall performance trends throughout the season. His recent stats suggest he is a strong contender for this title, especially if he maintains or improves his three-point shooting efficiency.
+Summary: Luka Doncic scored 6 three-pointers in the game on February 26, 2026, bringing his total to 11 three-pointers made in that game. This performance indicates a strong shooting ability from beyond the arc. Throughout the season, Doncic has demonstrated consistent three-point shooting, with notable games featuring multiple three-pointers. Given his current form and shooting volume, he is a significant contender to lead the NBA in three-pointers made during the 2025–26 season.
 
 Title: Best bets to lead NBA in points, rebounds, assists, 3-pointers | theScore.com
 Author: C Jackson Cowart
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://www.thescore.com/nba/news/2198539
-Summary: To assess whether Luka Doncic will lead the NBA in three-pointers made during the 2025-26 season, consider the following insights from the betting odds and player performance trends:
+Summary: The article discusses betting odds for NBA statistical leaders in various categories, including points, rebounds, assists, and three-pointers. Luka Doncic is highlighted as a strong contender for leading in assists, with +600 odds, indicating he is a notable candidate for that category. However, for three-pointers made, the article does not specify odds or predictions for Luka Doncic. Given his current reputation as a prolific scorer and shooter, and considering his past performance, he could be a relevant player to watch for leading in three-pointers in the 2025–26 season, but the article does not provide specific insights or projections for that category.
 
-1. **Current Performance**: Luka Doncic has consistently been a strong performer in three-point shooting, often ranking among the top players in this category. His ability to create his own shot and take high-volume attempts makes him a prime candidate for leading in three-pointers.
-
-2. **Betting Odds**: While the specific odds for Doncic leading in three-pointers for the 2025-26 season are not provided, historically, he has been listed among the favorites in previous seasons. Monitoring his odds closer to the season will provide insight into how bookmakers view his chances.
-
-3. **Team Dynamics**: The Dallas Mavericks' roster and their offensive strategy will significantly impact Doncic's three-point opportunities. If the team maintains a strong supporting cast that can space the floor, it could enhance his chances of leading in this category.
-
-4. **Injury History**: Doncic's health will be crucial. If he can stay injury-free, he will have more opportunities to accumulate three-pointers throughout the season.
-
-5. **Competition**: Other players, such as Stephen Curry and Damian Lillard, are also strong contenders for leading in three-pointers. Analyzing their performance and any changes in their teams will be essential in making a prediction.
-
-In summary, while Doncic has the skill set
-
-Title: NBA Leaders | theScore.com
-Author: The Associated Press
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://thescore.com/nba/news/2537481
-Summary: To assess whether Luka Doncic will lead the NBA in three-pointers made during the 2025–26 season, consider the following relevant factors based on his current performance and statistics:
-
-1. **Current Performance**: As of January 5, Doncic is averaging 34.0 points per game, showcasing his scoring ability. His shooting proficiency, particularly from beyond the arc, will be crucial in determining his potential to lead in three-pointers.
-
-2. **Historical Context**: Doncic has consistently been among the top scorers in the league, and his ability to create his own shot and shoot from long range positions him well for leading in three-pointers.
-
-3. **Competition**: Evaluate other top shooters in the league, such as Stephen Curry, who has historically dominated in three-pointers made. The competitive landscape will influence Doncic's chances.
-
-4. **Team Dynamics**: The Dallas Mavericks' offensive strategy and roster changes leading up to the 2025–26 season will impact Doncic's opportunities to shoot three-pointers. If the team adds more shooting talent or changes its play style, it could either help or hinder his chances.
-
-5. **Injury History**: Doncic's health and ability to play a full season will be critical. Injuries can significantly affect a player's performance and availability.
-
-6. **Shooting Volume**: Doncic's three-point attempts per game will be a key statistic to monitor. A higher volume of attempts, combined with
-
-Title: NBA Daily Stats Leaders - February 26, 2026 - National Basketball Association - ESPN
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.espn.com/nba/dailyleaders/_/date/20260226/sort/threePointFieldGoalsMade/gameId/401810710
-Summary: On February 26, 2026, Luka Doncic showcased an impressive performance, scoring 41 points, along with 8 assists and 8 rebounds in a game against the Phoenix Suns. His scoring ability and overall contributions make him a strong candidate for leading the NBA in various statistical categories, including three-pointers made. 
-
-To assess his potential to lead in three-pointers made for the 2025–26 season, consider the following factors:
-
-1. **Current Performance**: Doncic's recent game stats indicate he is in excellent form, suggesting he is capable of maintaining high scoring and shooting efficiency.
-
-2. **Shooting Style**: Doncic is known for his ability to shoot from long range, which is critical for leading in three-pointers made.
-
-3. **Team Dynamics**: The effectiveness of his team, the Los Angeles Lakers, and their offensive strategies will impact his opportunities to take and make three-point shots.
-
-4. **Season Trends**: Monitoring his three-point shooting percentage and attempts throughout the season will provide insights into his likelihood of leading in this category.
-
-Overall, Doncic's current performance and skill set position him as a strong contender for leading the NBA in three-pointers made during the 2025–26 season.
+Title: Luka Doncic scores 44 points in 3 quarters to lead Lakers past Pacers 128-117 without LeBron - Newsday
+Author: The Associated Press March 7, 2026 1:02 am
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://upgrade.newsday.com/beta/app/sports/basketball/lakers-pacers-score-luka-doncic-m82444
+Summary: Luka Doncic demonstrated exceptional scoring ability in a recent game, tallying 44 points in just three quarters, including seven three-pointers on a 14-for-25 shooting night. He has established himself as a prolific scorer, with the most 40-point games in the NBA this season, surpassing other top players like Anthony Edwards. Doncic's performance indicates a strong likelihood of maintaining high three-point shooting volume, which could position him as a leading candidate to lead the NBA in three-pointers made during the 2025–26 season.
 
 Title: NBA Standings — 2025-26 Season
-Published Date: 2026-03-02T04:21:43.645Z
+Published Date: 2026-03-08T04:19:07.040Z
 URL: https://www.nba.com/standings?origin=exa
-Summary: To assess whether Luka Doncic will lead the NBA in three-pointers made during the 2025-26 season, consider the following relevant factors from the current standings and team performance:
+Summary: The provided standings for the 2025-26 NBA season do not include individual player statistics, such as Luka Doncic's three-point shooting performance. However, the Dallas Mavericks, where Doncic plays, have a current record of 21-42, indicating a challenging season overall. To predict whether Luka Doncic will lead the league in three-pointers made, one would need to consider his previous season performance, current shooting volume, and efficiency, none of which are detailed in the standings. Therefore, additional player-specific data is necessary for an accurate prediction.
 
-1. **Team Performance**: The Dallas Mavericks are currently struggling with a record of 21 wins and 39 losses, placing them 12th in the Western Conference. This poor performance could impact Doncic's opportunities to score, including three-pointers, as the team may not be in competitive situations often.
-
-2. **Individual Performance**: Doncic's ability to lead in three-pointers will depend on his shooting efficiency and volume. While the standings do not provide specific stats on his three-point shooting, his overall performance in previous seasons and his role as a primary scorer will be crucial.
-
-3. **Competition**: The current standings show other teams with strong shooting performances, such as the Oklahoma City Thunder and the San Antonio Spurs, who have players likely competing for the top spot in three-pointers made. The performance of these teams and their players will be significant in determining if Doncic can outpace them.
-
-4. **Recent Trends**: The Mavericks' recent games indicate a struggle, with a 2-8 record in their last ten games. This trend may affect Doncic's ability to take and make three-pointers if the team is not performing well overall.
-
-In summary, while Doncic has the talent to lead in three-pointers, his success will depend on the Mavericks' overall
+Title: 2025-26 NBA season preview: Rankings, predictions, odds
+Author: ESPN
+Published Date: 2025-10-20T00:00:00.000Z
+URL: https://www.espn.com/nba/story/_/id/46617842/2025-26-nba-season-preview-rankings-predictions-odds-more
+Summary: The article provides a comprehensive preview of the 2025–26 NBA season, including team rankings, player performances, injuries, and predictions. While it does not specifically forecast individual player stats such as Luka Doncic's three-point shooting, it highlights Doncic's prominence as a key player for the Dallas Mavericks and discusses overall team strategies and player health that could influence his performance. Factors relevant to predicting whether Doncic will lead in three-pointers made include his role as a primary scorer, recent injury status, team offensive schemes, and his historical three-point shooting volume. Notably, Doncic's offensive usage and the team's offensive system will be critical in determining his potential to lead the league in three-pointers during the upcoming season.
 
 
