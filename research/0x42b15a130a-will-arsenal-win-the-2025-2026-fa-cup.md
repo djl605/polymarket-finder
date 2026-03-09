@@ -1,7 +1,7 @@
 # Research: Will Arsenal win the 2025-2026 FA Cup?
 
 **Market ID:** 0x42b15a130a3faf475c6c23a8e451b6a03c742b7934c5b1c66c503c85b1b5c267
-**Researched At:** March 1, 2026 at 06:11:40 AM UTC
+**Researched At:** March 9, 2026 at 04:28:06 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Arsenal win the 2025-2026 FA Cup?"
 
 ---
@@ -9,45 +9,51 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Arsenal’s strong form and cup performance justify them as top contenders, but knockout volatility keeps their overall win‐probability in the low‐to‐mid 20s. There is no specific evidence of a substantial mispricing.
+Arsenal’s strong form and squad depth justify a healthy chance in the FA Cup, while the competition’s unpredictability and a tricky upcoming tie against Mansfield Town limit confidence. The market’s 29.5% probability aligns with both bullish club strengths and historical cup variance, with no clear mispricing signal.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Arsenal will emerge as the winner of the 2025-26 FA Cup. A “Yes” resolution requires Arsenal to win each knockout tie (4th round, 5th round, quarter-final, semi-final, and final) by June 30, 2026. A “No” resolves if they are eliminated at any stage.
+This market asks whether Arsenal will be the champions of the 2025–26 FA Cup. To resolve as YES, Arsenal must progress through each knockout round—beating Wigan (already done), then Mansfield Town in the fifth round, and subsequently winning quarter-final, semi-final, and final matches. Any elimination at any stage resolves as NO; cancellation or no winner by June 30, 2026 resolves as OTHER.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (supports >24%):  
-• Arsenal sit atop the Premier League with 56 points and are in outstanding form.  
-• They crushed Wigan Athletic 4-0 in the 4th round, scoring all goals in the first half and demonstrating depth (Madueke, Jesus, Martinelli, Saka).  
-• Squad depth and tactical adaptability have been highlighted across multiple reputable outlets (USA Today, Tribal Football, The Standard, AP).  
+Bullish evidence  
+• Standard (Feb 15) reports a 4–0 demolition of Wigan, highlighting attacking firepower and defensive solidity.  
+• SoccerOrator (Feb 28) notes Arsenal’s league-leading form, deep squad, and unbeaten Emirates record versus Chelsea, implying strong knockout pedigree.  
+• Rowdie (Feb 14) emphasizes squad maturity under Arteta and overall competitiveness in cups.  
 
-Bearish/neutral considerations (supports ≤24%):  
-• FA Cup is a knockout competition prone to upsets—historically even top teams have sub-30% win probabilities at the 4th round stage.  
-• No information on upcoming opponents, potential fixture congestion (Premier League, Champions League), or key injuries beyond “questionables.”  
-• Betting-market odds (e.g., −1100 vs Wigan) reflect heavy favoritism in individual matches, but long term cup accumulation of risk reduces overall win odds.  
+Bearish evidence  
+• SI (Feb 18) ranks Arsenal among 17 still with “ambitions,” warns that underdogs like League One’s Mansfield Town can and do upset top sides in the FA Cup’s famed unpredictability.  
+• No source offers a clear probability edge above the ~30% level; the competition’s large field and one-off nature drive variance.  
 
-Source credibility is high (associated press, established soccer analysts) and recency is maximal (mid-Feb 2026). There is no evidence of overlooked negative factors (no reported tactical weaknesses or fixture pitfalls) but also no quantitative model suggesting Arsenal’s overall cup win probability should be substantially higher than low-to-mid twenties percent.
+Source credibility and recency  
+All sources are from February 2026, directly relevant and credible in sports journalism. None, however, provide quantitative win‐probabilities or models specific to the FA Cup path.  
+
+No single piece of evidence points to a dramatically higher or lower probability than the current 29.5%. If anything, the unpredictability of knockout cups suggests that even a top team rarely exceeds ~30–35% implied odds.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• 24.0% is consistent with bookmakers’ FA Cup‐winning odds for top Premier League sides once you factor in the randomness of knockout ties.  
-• Low volume may reflect ample coverage by bookmakers rather than a dearth of interest; informed traders likely see no easy edge.  
-• The spread is tight, suggesting two-sided interest—not just a lone confident bettor.
+Interpretations justifying 29.5%  
+• Arsenal’s status as one of the very strongest clubs in England, combined with favorable draws thus far, could justify ~30% odds in a 64-team knockout.  
+• FA Cup history—where even top clubs win only ~1 in 3 attempts when finalists—matches this ballpark.  
+
+Low volume could mean:  
+• Informed traders see the price as “about right” and have moved on.  
+• The market hasn’t attracted specialist soccer‐cup bettors, leaving a single or few traders to set price.  
 
 4. MISPRICING ASSESSMENT  
-No clear mispricing: all available evidence points to Arsenal being strong contenders but still subject to knockout volatility. A ~24% probability is within the plausible consensus range for a top Premier League team at this stage, and there is no specific, credible data indicating a >20-cent mispricing.
+Weighing both sides: Arsenal’s demonstrated form supports a strong chance, but the SI article’s caution about upsets and the highly variable nature of knockout cups counterbalance it. No evidence suggests a >20-cent mispricing. The market sits plausibly mid-range of normative bookmaker odds (~3/1, or ~25–30%).
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that a mispricing exists: 10% (trivial)  
-Magnitude if mispriced: 0–5¢  
-Expected value ~ 0.5¢ → effectively zero
+Strength of evidence: 20% (limited to qualitative match reports and general club form, with no direct quantitative edge)  
+Magnitude of mispricing: 5 cents (at most, given lack of clear undervaluation)  
+Expected value = 20% × 5¢ = 1¢
 
-EXPECTED_VALUE: 0  
-SUMMARY: Arsenal’s strong form and cup performance justify them as top contenders, but knockout volatility keeps their overall win‐probability in the low‐to‐mid 20s. There is no specific evidence of a substantial mispricing.  
+EXPECTED_VALUE: 1  
+SUMMARY: Arsenal’s strong form and squad depth justify a healthy chance in the FA Cup, while the competition’s unpredictability and a tricky upcoming tie against Mansfield Town limit confidence. The market’s 29.5% probability aligns with both bullish club strengths and historical cup variance, with no clear mispricing signal.  
 CONFIDENCE: medium
 
 ---
@@ -56,54 +62,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Arsenal vs. Wigan Athletic: FA Cup betting odds, prediction, pick
+Title: The Favourites for the 2025–26 FA Cup—Ranked
 Author: 
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://prosoccerwire.usatoday.com/story/sports/soccer/epl/2026/02/15/arsenal-vs-wigan-athletic-fa-cup-betting-odds-prediction-pick/88683027007/
-Summary: Arsenal is currently in strong form, sitting at the top of the Premier League table with 56 points, and they recently advanced past Portsmouth in the FA Cup with a convincing 4-1 victory. They are set to face Wigan Athletic, who are struggling in League One, currently in 22nd place and suffering from four consecutive defeats. Historically, Arsenal has a favorable record against Wigan, having previously defeated them in the 2013-14 FA Cup semifinal.
-
-For the upcoming match, predictions heavily favor Arsenal, with an expected scoreline of 4-0. Given their current league performance and Wigan's struggles, Arsenal appears well-positioned to advance further in the FA Cup, enhancing their chances of winning the tournament this season.
-
-Title: FA Cup fourth round: Arsenal net four first-half goals to crush Wigan - TribalFootball.com
-Author: 
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://www.tribalfootball.com/article/soccer-fa-cup-fa-cup-fourth-round-arsenal-net-four-first-half-goals-to-crush-wigan-57baff97-de50-4ef8-8c02-7f87e4acec5b
-Summary: In the FA Cup fourth round match, Arsenal showcased a dominant performance by defeating Wigan 4-0, with all goals scored in the first half. This victory highlights Arsenal's attacking prowess, as they became the first Premier League team to score four goals within the first 30 minutes of an FA Cup match. Key players included Noni Madueke, who created multiple chances, and Gabriel Jesus, who continued to add to his impressive FA Cup goal tally.
-
-Arsenal's strong form in cup competitions, exemplified by this match, suggests they could be serious contenders for the 2025-2026 FA Cup. Their ability to maintain pressure and score early could be crucial in future matches. Additionally, the team's recent performances indicate a solid squad depth and tactical adaptability, which are essential for success in knockout tournaments.
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.si.com/soccer/favourites-2025-26-fa-cup-ranked
+Summary: The article ranks potential favorites for the 2025–26 FA Cup, highlighting that as many as 17 teams still have ambitions to win, regardless of their league standings. Arsenal, a Premier League club, faces a challenging fifth-round opponent, Mansfield Town, which is a League One team. Mansfield's manager, Nigel Clough, aims to emulate his father’s success and potentially cause an upset by defeating Arsenal. The ranking considers team quality, squad depth, priorities, and upcoming opponents, suggesting that while Arsenal is a strong contender, their progress depends on their performance in upcoming matches and the difficulty of their opponents. The article emphasizes that the FA Cup remains a prestigious and unpredictable competition, where underdogs can still triumph.
 
 Title: Arsenal vs Wigan: FA Cup prediction, kick-off time, team news, TV, live stream, h2h results, odds today | The Standard
 Author: Alex Young, Matt Verri
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://www.standard.co.uk/sport/football/arsenal-fc-vs-wigan-prediction-kick-off-time-latest-team-news-tv-live-stream-h2h-results-odds-fa-cup-2026-preview-today-b1270959.html
-Summary: Arsenal recently showcased their strong performance in the FA Cup by defeating Wigan Athletic 4-0 in the fourth round. The Gunners scored all four goals within the first 30 minutes, with notable contributions from players like Noni Madueke, Gabriel Martinelli, and Gabriel Jesus. This decisive victory highlights Arsenal's attacking prowess and ability to dominate lower-league teams.
+Summary: The recent FA Cup match saw Arsenal convincingly defeat Wigan 4-0, with all goals scored within the first 27 minutes, showcasing their strong attacking performance and effective early game strategy. Key players like Gabriel Jesus and Gabriel Martinelli contributed significantly, and the team demonstrated solid defensive organization after the initial onslaught. The match also highlighted Arsenal's depth, with debut appearances by young players. While this victory indicates good form and confidence, predicting their success in the 2025-2026 FA Cup would require considering factors such as team development, squad stability, management, competition strength, and potential changes over the coming seasons.
 
-To assess Arsenal's chances of winning the 2025-2026 FA Cup, consider their current form, squad depth, and performance in recent matches. The team's ability to score early and maintain control, as demonstrated against Wigan, suggests they could be strong contenders. Additionally, the inclusion of young talents like Marli Salmon and Tommy Setford indicates a commitment to developing a robust squad for future competitions.
-
-Overall, Arsenal's recent success and strategic player development could bode well for their prospects in the upcoming FA Cup season.
-
-Title: Arsenal vs Wigan Predictions, Picks & Odds for Sunday’s FA Cup Match
-Author: 
+Title: Can Arsenal Win It All in 2025/26? Predictions for the Premier League, Champions League and FA Cup - Rowdie
+Author: TomasHvizdak
 Published Date: 2026-02-14T00:00:00.000Z
-URL: https://www.covers.com/soccer/arsenal-vs-wigan-predictions-picks-sunday-february-15-2026
-Summary: The article provides insights into the upcoming FA Cup match between Arsenal and Wigan, which could be relevant for predicting Arsenal's chances of winning the 2025-2026 FA Cup. Key points include:
+URL: https://www.rowdie.co.uk/can-arsenal-win-it-all-in-2025-26-predictions-for-the-premier-league-champions-league-and-fa-cup/
+Summary: The webpage discusses Arsenal's prospects for the 2025/26 season across major competitions, including the Premier League, Champions League, and FA Cup. It highlights that Arsenal has become a mature and competitive team under Mikel Arteta, with strong squad rebuilding and improved performance. For the FA Cup specifically, while the article emphasizes Arsenal's overall rising competitiveness and squad depth, it does not provide detailed predictions or specific probabilities regarding their chances of winning the FA Cup in 2025/26. However, their enhanced stability and squad strength suggest they could be strong contenders in knockout competitions like the FA Cup.
 
-1. **Current Form**: Arsenal is currently leading the Premier League, indicating strong performance, while Wigan is struggling in League One, having lost several recent matches.
+Title: 2025-26 predictions: Premier League, Champions League, Golden Boot
+Author: ESPN
+URL: https://www.espn.com/soccer/story/_/id/45938943/predictions-premier-league-champions-league-golden-boot-2025-2026
+Summary: The webpage provides predictions and analyses for the 2025-26 European soccer season, including the Premier League, Champions League, and individual awards like the Golden Boot. While it discusses team performances, player form, and league standings, it does not specifically address the FA Cup or predict whether Arsenal will win it in the 2025-26 season. Therefore, there is no direct information available on Arsenal's chances or prospects for winning the FA Cup during that season.
 
-2. **Player Performance**: Gabriel Jesus is highlighted as a key player for Arsenal, having scored four goals this season despite limited playtime. His ability to score is emphasized, particularly against a Wigan defense that has been weak, allowing an average of 12.2 shots per game.
-
-3. **Match Predictions**: The betting analyst predicts that Arsenal is unlikely to face an upset against Wigan, suggesting a strong likelihood of victory for Arsenal in this match.
-
-4. **Injuries**: Arsenal has several key players listed as questionable, which could impact their performance. However, their overall squad depth and current form may mitigate these concerns.
-
-5. **Betting Odds**: Arsenal is heavily favored with odds of -1100, indicating strong expectations for their victory.
-
-Overall, the combination of Arsenal's strong league performance, key player contributions, and favorable odds suggests they are well-positioned to advance in the FA Cup, supporting the notion that they could win the tournament this season.
-
-Title: Arsenal routs Wigan 4-0 on no-surprise Sunday as Premier League teams advance to 5th round
-Author: Associated Press
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://www.wsls.com/sports/2026/02/15/no-more-fa-cup-upsets-as-fulham-leeds-sunderland-and-wolves-reach-5th-round-arsenal-faces-wigan/
-Summary: Arsenal's recent performance in the FA Cup, highlighted by their dominant 4-0 victory over Wigan Athletic, showcases their strong form as they advance to the 5th round of the tournament. The match featured key contributions from players like Noni Madueke and Bukayo Saka, indicating a well-rounded team effort. As they continue to progress in the competition, their current momentum and the quality of their squad could be significant factors in predicting their chances of winning the 2025-2026 FA Cup. Additionally, the success of other Premier League teams in the tournament may also influence Arsenal's path to the title.
+Title: 2025/26 Arsenal vs Chelsea Prediction, Preview & Betting Tips
+Author: admin
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://soccerorator.com/2025-26-arsenal-vs-chelsea-prediction-preview-betting-tips-2/
+Summary: The webpage provides detailed insights into the upcoming Premier League match between Arsenal and Chelsea on March 1, 2026, at the Emirates Stadium. Arsenal, currently leading the league with 61 points and a strong home record, is considered the favorite to win this fixture, especially given their recent dominant performance against Tottenham and their unbeaten record against Chelsea in recent meetings. Chelsea, under Liam Rosenior, is on an upward trajectory with six unbeaten league matches, but historically struggles against Arsenal at the Emirates. While the article focuses on this specific match, it does not directly address the FA Cup or Arsenal's prospects in that competition. However, given Arsenal's strong league form and home advantage, their likelihood of success in domestic cup competitions like the FA Cup could be inferred as favorable, especially if they maintain their current form and squad strength.
 
 

@@ -1,51 +1,50 @@
 # Research: Will Matt Claman advance from the 2026 Alaska Governor primary election?
 
 **Market ID:** 0x4427ce55f5fc0cc00f2708f914c585442bce7eede689d5daec4671449dc25f8d
-**Researched At:** March 1, 2026 at 06:10:05 AM UTC
+**Researched At:** March 9, 2026 at 04:27:27 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Matt Claman advance from the 2026 Alaska Governor primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.0¢
+**Confidence:** Low
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Available research provides no quantitative polling or fundraising data showing Claman is clearly in or out of the top four; a 15% chance in a 17-candidate race is in line with current qualitative signals. There’s no strong evidence of significant mispricing.
+Matt Claman’s moderate fundraising and low profile in a 17-candidate field make a 15% chance of finishing top four plausible. There is no specific new information indicating a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Anchorage state Sen. Matt Claman will finish in the top four vote-getters in the August 18, 2026 non-partisan Alaska gubernatorial primary. A “Yes” requires Claman to place 1st–4th; all other outcomes—including no primary—resolve as “No.”
+The market asks whether Sen. Matt Claman will finish in the top four vote-getters in the August 18, 2026 Alaska gubernatorial primary. It resolves YES if he places in the top four, NO otherwise (including if the primary is canceled).
 
 2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• A crowded field (currently 17 candidates) could split the Republican vote, giving a well-positioned moderate like Claman an opening.  
-• Claman’s reputation for bipartisanship and his high-profile constitutional amendment proposal may broaden his appeal beyond just Democrats.  
+Bullish evidence (for Claman):  
+• He is a sitting state senator with executive experience (former acting Anchorage mayor) and emphasizes bipartisan, fiscally balanced priorities (KRBD, Feb 18, 2026).  
+• He has $226K cash on hand and early fundraising of $229K, suggesting an organized campaign (Downing, Feb 17; Watchman, Feb 18, 2026).  
 
-Bearish indicators:  
-• No publicly released polling data specifically showing Claman polling in the top four. The Buxton article mentions new “polling insights” but gives no numbers.  
-• Significant self-funding by at least one Republican (Heilala with $1.3 M), leaving Claman’s fundraising status opaque and possibly weak in comparison.  
-• Lack of specific financial or visibility advantages in the early fundraising reports; candidates with stronger war chests typically have higher primary viability.  
+Bearish evidence (against Claman):  
+• In a 17-candidate field, ten candidates have amassed $4.3 M collectively; Republican Matt Heilala alone has $1.3 M. Claman’s $229K lags far behind top contenders (AP, Feb 18; ADN, Feb 19, 2026).  
+• No polling data or major media mention of Claman as a frontrunner.  
 
-All sources are from late 2025 to Feb 2026 and appear credible for gauging early race dynamics, but none provide quantitative polling or fundraising data placing Claman in a clear top-4 slot.
+Credibility/Recency: All sources are February 2026 and from reputable local outlets; no public polls yet.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 15% probability roughly aligns with a moderate’s odds in a 17-way race when factoring vote splitting. The low $863 volume and tight spread suggest one or a handful of traders have set that price, but it’s also consistent with an aggregate view of moderate but not leading chances. There’s no sign informed traders would ignore a huge mispricing here; they could easily enter.
+A 15% probability is below the naive 23.5% (4/17) baseline, reflecting Claman’s weaker fundraising and low name-recognition. Low volume could reflect lack of new, granular info rather than consensus inefficiency. Informed traders may simply view him as a mid-tier candidate with long odds.
 
 4. MISPRICING ASSESSMENT  
-No specific data point—poll, donor report, or endorsement—strongly contradicts the 15% level. Equally, there’s no affirmative evidence Claman is a clear frontrunner. Given the absence of quantitative polling in the research, the market price appears reasonable pending more data. No credible sign of >20¢ mispricing.
+No concrete evidence suggests a >10¢ mispricing. The market’s 15% seems reasonable given his fundraising deficit and absence from top polling. No hidden technicality in resolution criteria applies.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (no clear missing fact): ≈20%  
-Plausible mispricing magnitude: ~5¢  
-Expected value = 20% × 5¢ ≈ 1¢
+Strength of evidence for mispricing: 20%  
+Magnitude of mispricing if any: ~10¢  
+Expected value = 0.20 × 10¢ = 2¢  
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Available research provides no quantitative polling or fundraising data showing Claman is clearly in or out of the top four; a 15% chance in a 17-candidate race is in line with current qualitative signals. There’s no strong evidence of significant mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 2  
+SUMMARY: Matt Claman’s moderate fundraising and low profile in a 17-candidate field make a 15% chance of finishing top four plausible. There is no specific new information indicating a significant mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -53,45 +52,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: State of the Race: Polling-informed gubernatorial power rankings
-Author: Matt Acuña Buxton
-Published Date: 2025-11-13T00:00:00.000Z
-URL: https://thealaskacurrent.com/2025/11/13/state-of-the-race-polling-informed-gubernatorial-power-rankings/
-Summary: The article discusses the evolving landscape of the 2026 Alaska gubernatorial race, highlighting the entry of Anchorage Democratic state Sen. Matt Claman as the 14th candidate. Claman, known for his moderate stance, emphasizes his legislative experience and ability to collaborate across party lines. The piece notes significant developments, including infighting among the 12 Republican candidates and new polling data that clarifies the race dynamics. 
+Title: Sen. Matt Claman talks public safety, education in his gubernatorial campaign - KRBD
+Author: Sydney Dauphinais
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.krbd.org/2026/02/17/sen-matt-claman-talks-public-safety-education-in-his-gubernatorial-campaign/
+Summary: Sen. Matt Claman is running for governor of Alaska in 2026, emphasizing priorities such as public safety, education, economic growth, and bipartisan collaboration. His experience includes serving as acting mayor of Anchorage during the 2009 financial crisis and over 38 years as a practicing lawyer in Alaska. Claman aims to propose a balanced budget early in his term, focusing on sustainable investments in key public services and avoiding reliance on large savings draws. His campaign highlights a commitment to working across political divides and addressing community needs, which could influence his prospects in the primary election.
 
-To assess Claman's chances of advancing in the primary, consider the following factors mentioned in the article:
+Title: Sen. Claman reports $229,407 raised in his bid for governor - Alaska Story
+Author: Suzanne Downing
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://thealaskastory.com/sen-claman-reports-229407-raised-in-his-bid-for-governor/
+Summary: Senator Matt Claman has reported raising $229,407 in his initial campaign finance filing for the 2026 Alaska gubernatorial race, with significant contributions from attorneys, lobbyists, unions, and a notable $100,000 donation from Tom Loushin. His campaign expenditures are modest at $12,585.97, and he has no outstanding debts. While early fundraising indicates support, there is no information yet on his polling or primary performance, so it is too soon to determine if he will advance from the primary election.
 
-1. **Candidate Field**: Claman joins a crowded field of 14 candidates, which could dilute votes among similar candidates.
-2. **Polling Insights**: Recent polling results provide insights into voter preferences and candidate viability, which are crucial for predicting Claman's performance.
-3. **Political Positioning**: Claman's moderate approach may appeal to a broader electorate, potentially attracting independent and moderate Republican voters.
-4. **Party Dynamics**: The infighting among Republican candidates could create opportunities for Claman to position himself as a stable alternative.
+Title: 10 candidates report six-figure hauls from early fundraising in Alaska governor’s race
+Author: 
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race
+Summary: The article reports that in the 2026 Alaska governor’s race, ten candidates have collectively raised over $4.3 million early in the campaign. Notably, Anchorage podiatrist and Republican Matt Heilala has contributed nearly $1.3 million of his own funds, making up over 94% of his total raised amount, and has also garnered nearly 350 smaller donors, raising an additional $60,000. Heilala’s significant self-funding and substantial early fundraising suggest he is a serious contender. However, the article does not mention Matt Claman or provide specific details about his campaign finances or standing. Therefore, predicting whether Matt Claman will advance from the primary based solely on this information is not possible.
 
-These elements will be key in determining whether Claman can secure a spot in the primary election.
+Title: Money matters: Some Alaska governor candidates are flush, others struggling
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://alaskawatchman.com/2026/02/18/money-matters-some-alaska-governor-candidates-are-flush-others-struggling/
+Summary: Matt Claman, a Democratic candidate for the 2026 Alaska Governor primary, has reported campaign contributions of approximately $229,407 with $226,201 cash on hand. Compared to leading candidates like Republican Matt Heilala, who has raised over $1.36 million, Claman's fundraising is significantly lower. The financial reports suggest that Claman is a less prominent contender in terms of campaign funds, which may impact his ability to compete effectively in the primary. However, fundraising is just one factor; other elements such as campaign strategy, public support, and political dynamics will also influence whether he advances.
 
-Title: Anchorage Republican spending lots of his own money in governor’s race, early campaign records show - The Alaska Current
-Author: James Brooks, Alaska Beacon
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://thealaskacurrent.com/2026/02/24/anchorage-republican-spending-lots-of-his-own-money-in-governors-race-early-campaign-records-show/
-Summary: Matt Heilala, an Anchorage Republican candidate for the 2026 Alaska governor's race, has significantly funded his campaign with nearly $1.3 million of his own money, giving him a strong financial position compared to his competitors. As of now, he has over $1 million remaining after early expenditures, placing him at the top of the fundraising leaderboard among the 17 candidates in the race. His financial backing and visibility, including claims of a personal connection to former President Donald Trump, could influence voter perception and support.
-
-In contrast, Matt Claman's position in the primary election remains unclear based on the available information. Factors such as campaign funding, public support, and overall candidate visibility will be crucial in determining whether Claman can advance in the primary. The dynamics of the race, including Heilala's strong financial backing and the crowded field, will also play a significant role in shaping the outcome.
-
-Title: Alaska gubernatorial and lieutenant gubernatorial election, 2026
-URL: https://ballotpedia.org/Alaska_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The 2026 Alaska gubernatorial election will take place on November 3, 2026, with primary elections scheduled prior to that date. As of now, the filing deadline for candidates is still pending. Matt Claman, a notable figure in Alaskan politics, is expected to be a candidate in the primary. To assess his chances of advancing, consider factors such as his previous electoral performance, current political climate, party support, and any potential challengers he may face in the primary. Additionally, voter sentiment and key issues affecting Alaskan voters leading up to the election will be crucial in predicting his success. For the latest updates and detailed information on the election process, visit the [Ballotpedia page](https://ballotpedia.org/Alaska_gubernatorial_and_lieutenant_gubernatorial_election,_2026).
-
-Title: Anchorage lawmaker pitches constitutional amendment to lower override vote threshold on budget vetoes - Anchorage Daily News
-Author: Mari Kanagy
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.adn.com/politics/alaska-legislature/2026/02/24/anchorage-lawmaker-pitches-constitutional-amendment-to-lower-override-vote-threshold-on-budget-vetoes/
-Summary: Senator Matt Claman of Anchorage is currently advocating for a constitutional amendment aimed at reducing the legislative vote threshold required to override a governor's veto on budget and appropriations bills from three-quarters to two-thirds. This proposal, which would empower the legislature against the governor's vetoes, reflects ongoing tensions regarding budget control in Alaska, especially under Governor Mike Dunleavy's administration, which has seen significant vetoes of budget items. Claman argues that the current threshold, the highest in the nation, gives the executive branch excessive power over the state budget, and believes that the amendment would restore balance between the governor and the legislature.
-
-The resolution must be approved by two-thirds of both legislative chambers before being placed on the ballot for voter consideration, as constitutional amendments cannot be vetoed by the governor. Claman's push for this amendment may influence his political standing and prospects in the upcoming 2026 Alaska Governor primary election, particularly if it resonates with voters concerned about legislative power and budgetary control. His ability to navigate this issue and garner support could be pivotal in determining his advancement in the primary.
-
-Title: Early fundraising totals for Alaska governor race released | Local News | frontiersman.com
-Author: James Brooks Alaska Beacon
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.frontiersman.com/news/early-funding-totals-for-alaska-governor-race-released/article_0b29b5e5-6bbc-44db-9acc-414dad592894.html
-Summary: The article discusses early fundraising totals for the Alaska governor race, highlighting the financial backing candidates have received as they prepare for the 2026 primary election. While specific figures for Matt Claman are not detailed, the overall fundraising landscape can provide insights into his potential competitiveness. Candidates with strong financial support often have better resources for campaigning, outreach, and voter engagement, which can significantly influence their chances of advancing in the primaries. Monitoring Claman's fundraising performance relative to his opponents may offer predictive value regarding his advancement in the election.
+Title: Candidates pour money into Alaska governor’s race - Anchorage Daily News
+Author: Iris Samuels
+Published Date: 2026-02-19T00:00:00.000Z
+URL: http://www.adn.com/politics/2026/02/18/candidates-pour-money-into-alaska-governors-race/
+Summary: The article discusses the fundraising efforts of candidates in the 2026 Alaska governor’s race, highlighting that several candidates, including prominent Republicans, are investing significant personal funds into their campaigns. Matt Heilala, a candidate in the race, has contributed over $1.28 million of his own money. The race features a crowded field with 17 candidates, including Democrats, Republicans, and independents, with total combined fundraising exceeding $4.3 million. Notably, some candidates have reported minimal or no fundraising. While the article provides detailed insights into the financial backing of various candidates, it does not mention Matt Claman or provide specific information about his campaign or chances of advancing from the primary.
 
 

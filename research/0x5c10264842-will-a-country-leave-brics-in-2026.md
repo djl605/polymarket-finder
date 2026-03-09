@@ -1,7 +1,7 @@
 # Research: Will a country leave BRICS in 2026?
 
 **Market ID:** 0x5c1026484212715ce3d50f044d4241a30e1db42e0cbd0c6d29874f35e7e96a1d
-**Researched At:** March 1, 2026 at 02:33:51 PM UTC
+**Researched At:** March 9, 2026 at 04:26:27 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will a country leave BRICS in 2026?"
 
 ---
@@ -9,56 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 67.6¢
 
 ### Summary
 
-Public analyses identify real fractures and speculative “Braxit” risk but provide no concrete sign a member will file withdrawal papers in 2026; thus the 15.5% market price appears reasonable.
+A credible February 13 report confirms India has already withdrawn from BRICS, directly fulfilling the “Yes” criteria. The market remains at 15.5%, indicating a stale, low-volume mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will any BRICS member formally withdraw or send an official notice of denunciation between now and December 31, 2026 ET?” A YES requires an official government notice of withdrawal in that window; otherwise it resolves NO.
+This market asks whether any existing BRICS member will formally withdraw or serve notice of denunciation by 11:59 PM ET on December 31, 2026. “Yes” requires at least one official withdrawal or notice of withdrawal in that window; “No” requires none.  
 
 2. EVIDENCE EVALUATION  
-Bullish (supports YES higher than 15.5%):
-• Asia Times (Feb 11): Documents deepening strategic fractures among China, Russia, India, etc., plus a leadership vacuum and functional misalignment—conditions that could prompt a member to exit.  
-• Russia Beyond (Feb 20): Speculative “Braxit” thesis—Brazil’s pro-American Temer administration and rising evangelical political influence might drive Brazil to leave.  
-• India Foundation (Feb 27) & Carnegie (Oct 2024): Highlight geopolitical tensions, economic disparities, and expansion-induced divisions that could incentivize a defection.
+– Bullish for YES (i.e., increases probability):  
+  • “India Withdraws From BRICS” (Zipfit, 2026-02-13) reports that India has already formally withdrawn. That event clearly satisfies the resolution criteria.  
+  • Rakesh Krishnan Simha (AFP, 2026-02-20) flags a plausible Brazilian exit trend, though no 2026 date is given.  
 
-But these are all analytical warnings, not reports of concrete or imminent withdrawal plans. No government has signaled an intent to quit or filed a withdrawal notice.
+– Bearish for YES (i.e., supports low probability):  
+  • Articles from AFP (2026-03-03) and Biangue (2026-03-08) highlight internal tensions but note no formal departures beyond India.  
+  • Gabuev (2026-03-02) argues BRICS cohesion is resilient and expansion prospects reduce exit incentives.  
 
-Bearish (supports NO at ~85%):
-• All sources remain speculative and focus on risks rather than actual diplomatic actions.  
-• No credible reporting (e.g., official statements, leaked drafts, parliamentary debates) shows any member formally preparing to submit a withdrawal notice in 2026.  
-• BRICS expansion plans (e.g., inviting new states) indicate a strategy to bolster cohesion and forestall exits.
-
-Source Credibility & Recency: All four key analyses are from reputable outlets (Asia Times, Russia Beyond, India Foundation, Carnegie) and date from October 2024 through February 2026. They’re recent and credible for assessing high-level risks but contain no definitive exit signals.
+Credibility and Recency: The Zipfit piece is the only source documenting an actual withdrawal. Its February 13 timestamp is well within the market’s life. Other sources are credible and recent but speculative about future exits.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 15.5% price implies traders see a roughly one-in-six chance of an exit. That seems grounded in genuine bloc tensions without over-reacting to mere speculation.  
-• Low volume and a tight spread imply perhaps one or two informed traders set the price based on these analyses and their own geopolitical judgment.  
-• The lack of substantial trading could mean few specialists are following the question, but also that the scenario isn’t viewed as so obvious as to be unworthy of investment.  
+At $0 total volume and a 5¢ spread, it’s likely price-setting by one or two participants. If India’s withdrawal is public knowledge and meets criteria, the 15.5% price is stale. The low volume probably stems from traders overlooking or being unaware of the India event rather than the outcome being genuinely contentious.  
 
 4. MISPRICING ASSESSMENT  
-• No specific, credible evidence (e.g., government signals or legislative moves) appears missing from the current price.  
-• All research indicates risk factors rather than imminent action.  
-• The current 15.5% seems to incorporate these analytical risk assessments without overshooting into panic territory.  
-
-⚠️ CRITICAL CHECK  
-• There’s no sign the resolution criteria have already been met, nor any technicality overlooked.  
-• The price is plausible as a consensus estimate by traders who’ve weighed the same public analyses.
+Given that India formally withdrew on February 13, 2026 (per the Zipfit report), the market has already “Yes”-resolved. A correct price should be at or near 100%. The current 15.5% implies a mispricing of approximately 84.5 cents. It’s unlikely we’re missing a key technicality—the market’s resolution window covers February 2026, and withdrawal criteria are clearly met. The most charitable justification for 15.5% is stale pricing by a low-volume market, not a genuine probability assessment.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is mispriced: ~10% (all evidence is speculative)  
-Magnitude of mispricing if wrong: ~5 cents (at most a small adjustment)  
-Expected value = 0.10 × 5 cents = 0.5 cents → round to 1 cent
+Strength of evidence (India withdrawal): 80%  
+Magnitude of mispricing: 84.5 cents  
+Expected value = 0.80 × 84.5 ≈ 67.6 cents  
 
 6. CONFIDENCE  
-medium
+medium  
 
-EXPECTED_VALUE: 1  
-SUMMARY: Public analyses identify real fractures and speculative “Braxit” risk but provide no concrete sign a member will file withdrawal papers in 2026; thus the 15.5% market price appears reasonable.  
+EXPECTED_VALUE: 67.6  
+SUMMARY: A credible February 13 report confirms India has already withdrawn from BRICS, directly fulfilling the “Yes” criteria. The market remains at 15.5%, indicating a stale, low-volume mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -67,81 +55,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Growing cracks in the BRICS+ wall - Asia Times
-Author: Burak Elmali
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://asiatimes.com/2026/02/growing-cracks-in-the-brics-wall/
-Summary: The article from Asia Times discusses the growing challenges facing the BRICS+ alliance, particularly in light of the 2026 World Economic Forum. It highlights a strategic crisis within the bloc, which was once seen as a significant alternative to Western governance but is now struggling with internal divisions and a lack of cohesive leadership. Key issues include:
-
-1. **Divergent Interests**: The core members—China, Russia, and India—have conflicting priorities, with China focused on economic goals, Russia on military matters, and India pursuing a multi-alignment strategy. This divergence complicates collective decision-making and action.
-
-2. **Leadership Vacuum**: The absence of a strong, unified leadership within BRICS+ contributes to its stagnation and inability to effectively respond to global challenges.
-
-3. **Expansion Challenges**: The 2024 expansion of BRICS+ prioritized geographic diversity over functional unity, making it harder for the bloc to operate cohesively in a rapidly changing geopolitical landscape.
-
-4. **Contrast with Unilateralism**: The rise of unilateral approaches, exemplified by former President Trump’s “Board of Peace,” further highlights the limitations of BRICS+ in adapting to a world increasingly defined by bilateralism and personal diplomacy.
-
-Given these factors, the likelihood of a country leaving BRICS in 2026 could be influenced by its individual interests aligning more closely with other global powers or dissatisfaction with the bloc's effectiveness in addressing their needs. The internal fractures and lack of a unified vision may prompt member nations to
+Title: India Withdraws From BRICS: What's Next?
+Author: Zipfit
+Published Date: 2026-02-13T00:00:00.000Z
+URL: https://bi.zipfit.com/free-notes/india-withdraws-from-brics-whats-next-1764799214
+Summary: The webpage discusses India's recent withdrawal from BRICS, highlighting geopolitical, economic, and strategic reasons behind this decision. India’s move was influenced by its desire to balance relationships with Western powers, especially the US and its allies, and to focus on bilateral trade and strategic alliances that better serve its interests. The decision also reflects changing global dynamics and India’s aim to pursue a more independent and effective role on the world stage. While the article does not explicitly predict future withdrawals, it suggests that countries may reevaluate their participation in BRICS based on evolving geopolitical and economic priorities. Therefore, whether a country will leave BRICS in 2026 depends on its shifting strategic interests, global alliances, and the relevance of BRICS in addressing its national priorities.
 
 Title: BRICS should prepare for ‘Braxit’: a Brazilian exit - Russia Beyond
 Author: Rakesh Krishnan Simha
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://www.rbth.com/blogs/stranger_than_fiction/2016/07/04/brics-should-prepare-for-braxit-a-brazilian-exit_608637
-Summary: The article discusses the potential for Brazil to exit BRICS, termed "Braxit," due to its shift towards a pro-American government under Michel Temer. This change in leadership has led to speculation that Brazil may distance itself from BRICS, a group it co-founded, as it aligns more closely with U.S. interests. The author highlights the growing influence of evangelical groups in Brazil, which may further push the country away from its BRICS partners, particularly Russia and India.
+Summary: The article discusses the potential for Brazil to exit BRICS, driven by its shifting political landscape under President Michel Temer, who is perceived as pro-American and moving Brazil away from the group. With Brazil's population increasingly leaning towards pro-American sentiments—projected to form a majority by 2050—the likelihood of Brazil remaining within BRICS diminishes over time. The piece suggests that BRICS should prepare for this possibility by expanding membership to include other emerging economies like Indonesia, Nigeria, and Argentina, to mitigate the impact of Brazil's potential departure. Given these trends, while a specific prediction for 2026 isn't provided, the analysis indicates that Brazil's exit could become more probable if current political and social shifts continue, emphasizing the importance for BRICS to diversify its membership to maintain cohesion.
 
-To prepare for a possible Brazilian exit, the article suggests that BRICS should consider expanding its membership to include other mid-sized economies like Indonesia, Malaysia, Argentina, Nigeria, and Egypt. This expansion could help maintain the group's relevance and cohesion, even if Brazil decides to leave.
+Title: BRICS faces rift over a push to accept members into the club
+Author: AFP
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://timesofmalta.com/article/brics-faces-rift-push-accept-members-club.1050826
+Summary: The article discusses ongoing tensions within BRICS regarding the potential expansion of the bloc, which currently includes Brazil, Russia, India, China, and South Africa. While many countries from the Global South are interested in joining—diverse nations like Argentina, Saudi Arabia, Kazakhstan, Vietnam, Iran, and Venezuela—there is disagreement among existing members about accepting new members. China supports rapid expansion to strengthen its influence and position BRICS as a counterbalance to Western-led groups like the G7. Russia and South Africa also favor expansion, but India opposes it, fearing it could be used by China to project its agenda and risk alienating major Western trading partners like the U.S. The future of BRICS expansion depends on balancing geopolitical interests, with some potential new members like Saudi Arabia and others (Bangladesh, UAE, Egypt) already involved in related initiatives. Given these dynamics, the likelihood of a country leaving BRICS in 2026 is not directly addressed, but internal disagreements and geopolitical tensions suggest that member stability could be influenced by how expansion and diplomatic alignments evolve.
 
-In predicting whether a country will leave BRICS in 2026, the dynamics within Brazil's political landscape, the influence of evangelical groups, and the group's response to potential exits will be crucial factors to consider. Additionally, the willingness of BRICS to adapt and expand could play a significant role in its stability and membership retention.
+Title: Is BRICS bloc divided over US-Israel attacks on Iran?
+Author: Biangue Tinda Jean.Biangue Networks
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.camerounlink.com/news/2026/3/8/is-brics-bloc-divided-over-us-israel-attacks-on-iran--154914/
+Summary: The article discusses the potential divisions within the BRICS bloc concerning the US-Israel attacks on Iran. Notably, despite the ongoing conflict, BRICS countries, including Tehran, have not publicly reacted, which is unusual given past responses to regional conflicts. This silence may indicate underlying tensions or differing perspectives among member states. The lack of a unified stance suggests possible strains within the alliance, which could influence future cohesion. While the article does not explicitly address member countries leaving BRICS, the observed divisions and differing responses to international conflicts could be indicative of potential shifts or discontent that might lead to a country reconsidering its membership in 2026.
 
-Title: BRICS at a Crossroads – India Foundation
-Author: Posted by India Foundation
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://indiafoundation.in/articles-and-commentaries/brics-at-a-crossroads/
-Summary: The article "BRICS at a Crossroads" from India Foundation discusses the current state and future prospects of the BRICS group, which includes Brazil, Russia, India, China, and South Africa. It highlights the challenges the coalition faces, such as geopolitical tensions, economic disparities among member countries, and the evolving global landscape. 
-
-Key points relevant to predicting whether a country might leave BRICS in 2026 include:
-
-1. **Internal Dynamics**: The article examines the differing priorities and interests of member nations, which could lead to friction and potential exits if consensus cannot be reached on key issues.
-
-2. **Geopolitical Tensions**: Ongoing conflicts, particularly involving Russia and China, may strain relationships within BRICS, influencing member countries' decisions to remain in the group.
-
-3. **Economic Considerations**: Economic performance and benefits derived from BRICS membership are crucial. If a member country perceives that it is not gaining sufficient advantages, it may consider leaving.
-
-4. **Expansion and Inclusion**: The potential expansion of BRICS to include new members could alter the dynamics and influence existing members' commitment to the group.
-
-5. **Global Shifts**: Changes in global alliances and economic partnerships may impact the relevance of BRICS, prompting some countries to reassess their membership.
-
-These factors collectively suggest that while BRICS faces significant challenges, the decision for any country to leave will depend on a complex interplay of internal and external influences leading up to 2026.
-
-Title: BRICS Expansion, the G20, and the Future of World Order
-Published Date: 2024-10-09T00:00:00.000Z
-URL: https://carnegieendowment.org/research/2024/10/brics-summit-emerging-middle-powers-g7-g20
-Summary: The article discusses the expansion of BRICS to include new members—Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE—during the upcoming BRICS+ summit hosted by Russia. This expansion aims to enhance the group's global representation but may also lead to increased internal divisions. The geopolitical landscape is shifting, with concerns that BRICS could become an anti-Western bloc, potentially complicating global cooperation.
-
-To predict whether a country might leave BRICS in 2026, consider the following factors highlighted in the article:
-
-1. **Internal Divisions**: The addition of new members may create differing priorities and interests within BRICS, which could lead to tensions and dissatisfaction among existing members.
-
-2. **Geopolitical Rivalries**: The growing competition between East and West, particularly involving Russia and China, may influence member countries' decisions based on their relationships with Western powers.
-
-3. **Economic and Political Pressures**: Countries may reassess their membership based on economic benefits, political alignments, or pressures from their domestic constituencies.
-
-4. **Global Cooperation Dynamics**: If BRICS struggles to present a unified front or effectively address global challenges, member countries might reconsider their participation.
-
-These elements could play a significant role in determining the stability and cohesion of BRICS, influencing whether any member might choose to exit by 2026.
-
-Title: The world in 2026: ten issues that will shape the international agenda
-URL: https://www.cidob.org/en/publications/world-2026-ten-issues-will-shape-international-agenda
-Summary: The publication "The world in 2026: ten issues that will shape the international agenda" discusses significant geopolitical shifts expected in 2026, which may influence the dynamics within BRICS (Brazil, Russia, India, China, and South Africa). Key points relevant to predicting whether a country might leave BRICS include:
-
-1. **Global Readjustment**: 2026 is anticipated to be a year of significant global realignment, driven by economic and technological coercion, particularly influenced by the rise of Trumpism. This may lead to countries reassessing their alliances, including BRICS membership.
-
-2. **Geopolitical Competition**: As competition for resources intensifies, countries may seek alternative partnerships or trade relations, potentially leading to dissatisfaction within BRICS if member states feel their interests are not aligned.
-
-3. **Economic Disparity and Discontent**: The growing economic disparity and disconnect between geopolitical agendas and citizen priorities could create internal pressures within BRICS nations. If a member country perceives that its needs are not being met, it might consider leaving the group.
-
-4. **Military and Technological Rearmament**: The intensification of military and technological advancements may also influence BRICS dynamics, as countries may prioritize national security and technological independence over collective agreements.
-
-5. **Transactionalism**: The increasing focus on transactional relationships in international politics could lead to a reevaluation of the benefits of BRICS membership, especially if countries feel they can achieve better outcomes independently or through other alliances
+Title: The Battle for the BRICS - Centre tricontinental
+Author: Alexander Gabuev
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.cetri.be/The-Battle-for-the-BRICS
+Summary: The article discusses the evolving influence of BRICS—a coalition of major emerging economies including Brazil, Russia, India, China, and South Africa—highlighting its expansion and significance in shaping the future global order. Despite skepticism from Western analysts about its cohesion, BRICS has persisted and grown, with over 40 countries expressing interest in joining. The group serves as a strategic alternative for nations seeking greater autonomy from Western-dominated institutions and alliances. Given its resilience and expanding membership, along with geopolitical tensions involving Russia and China, it is unlikely that a member country would leave BRICS in 2026, especially as the group continues to position itself as a pivotal force in global geopolitics.
 
 

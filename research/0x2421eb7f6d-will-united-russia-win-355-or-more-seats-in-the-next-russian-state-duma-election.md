@@ -1,47 +1,49 @@
 # Research: Will United Russia win 355 or more seats in the next Russian State Duma election?
 
 **Market ID:** 0x2421eb7f6db120f7fa8a4bac72805d412a397b3d99bcb1202a05cf9b35f63176
-**Researched At:** March 3, 2026 at 04:24:43 AM UTC
+**Researched At:** March 9, 2026 at 04:26:23 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will United Russia win 355 or more seats in the next Russian State Duma election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Structural advantages and opposition repression suggest United Russia could exceed 355 seats, but public discontent and lack of quantitative polling leave substantial uncertainty. No strong, specific evidence indicates the market’s 35% probability is off by more than ~10 cents.
+Current polling (40–43%) and insider scenarios cap UR around 310–320 seats, making a 355-seat super-majority unlikely. The market’s 34.5% probability appears overstated by roughly 15¢.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether United Russia will win at least 355 of the 450 seats in the September 2026 State Duma election (a super-majority of ~79%). A YES requires United Russia to pick up a net +41 seats from its current 314, through both the party-list vote and single-member districts. A NO means they fall short of that threshold.
+The market asks whether United Russia (UR) will win at least 355 of the 450 Duma seats in the Sept 2026 election. YES requires UR to secure a super-majority (~79% of seats), which under a 225-list/225-single mandate system means (a) winning virtually all 225 single-mandate districts and (b) roughly 130+ list seats (≈58%+ of the party list vote). NO occurs if either they lose more than a handful of single-mandate districts or fall short of dramatically high list‐vote shares.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (suggesting market underestimates probability):  
-• Institutional advantages: NEST (Feb 2026) notes United Russia’s opaque control over procedures and a history of manipulation, calling a super-majority “highly likely.”  
-• Opposition squeeze: Riddle (Feb 2026) and Moscow Times (Feb 2026) document Kremlin quotas and crackdowns on systemic opposition (Communists, LDPR, etc.), which should shrink their vote-share and free up seats for United Russia. Historically they have crossed 355 seats under similar conditions.  
-Bearish evidence (suggesting market overestimates):  
-• Public discontent: Meduza (Feb 2026) reports rising prices and slumping polls, prompting a last-minute propaganda push—an implicit sign that United Russia’s support may be weaker than usual. No hard polling on seat projections is provided.  
-Source credibility/recency: All four are from Feb 2026, drawing on expert analyses or insider reporting. None include formal quantitative seat forecasts; they describe structural biases and propaganda efforts but not numerics.
+Bullish evidence (supports higher probability):  
+• Vedomosti (Mar 2): Polls at 40–43% vs 28–33% five years ago. Suggests UR may outperform 2021.  
+• RuNews24 (Mar 3): Same poll boost indicates likely stronger majority; calls it a “significant electoral victory.”  
+Bearish evidence (supports lower probability):  
+• DOXA (Feb 11): Kremlin insiders expect UR to cede ~10–13 single-mandate seats; even with high turnout and favorable conditions, 355+ seats is “unlikely” given typical list‐vote shares.  
+• RuNews24 (“Three Scenarios,” Mar 2): Targeting 55% vote share and moderate outcome; explicitly calls 355+ seats improbable under a “stable, realistic” scenario.  
+Seat math: 43% list vote → ~97 list seats; 212–215 single-mandate wins (if UR concedes 10–13) → ~309–312 total. To get 355, UR needs both near-total district sweeps AND ≥58% list share—unsupported by current 40–43% polling.  
+Sources are recent (Feb–Mar 2026) and credible for Russian electoral context, but none quantify seat projections beyond general “strong majority” rhetoric on the bullish side. Bearish sources directly address seat counts.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 35% probability and a 6¢ spread, volume is low. This could reflect genuine uncertainty about opposition strength and voter backlash, or simply a lack of trader engagement. The wide range of expert opinions (from “highly likely” to “at risk”) may justify a middle-of-the-road price. It’s plausible a handful of traders leaning bearish on United Russia have set this level, but equally plausible that informed participants see real economic risk.
+A 34.5% price could reflect (a) traders’ belief in aggressive electoral manipulation raising list support above polls, (b) allowance for unexpected realignments, or (c) simple illiquidity/low volume. Volume ($2.4 K) is low; spread tight (5¢) suggests one or few traders may be setting the price. That said, the consensus among expert commentary appears to cap UR at ~310–320 seats absent extreme fraud.
 
 4. MISPRICING ASSESSMENT  
-While structural factors (state control, opposition repression) point toward a >50% chance of a super-majority, the absence of concrete polling data and signs of public discontent introduce meaningful uncertainty. There is no direct, credible evidence of a >20¢ error in the 35% price—experts note potential for both outcome swing and manipulation. Without a formal seat projection or a clear quantitative model implying a much higher probability, it is premature to call this mispriced.
+The preponderance of seat-by-seat estimates and credible insider commentary point to total seats well below 355. No bullish source provides a detailed pathway to 355+, whereas bearish sources do. The market’s 34.5% thus seems too high by approximately 10–20¢. Large mispricing (>20¢) is unlikely given the evidence; a more modest overestimate (~15¢) is plausible.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that price is wrong): 20%  
-Magnitude of mispricing (plausible error): 10 cents  
-Expected value = 0.20 × 10 cents = 2 cents
+Strength of evidence (consistent seat math & insider scenarios): ~60%  
+Magnitude of mispricing: ~15¢  
+Expected value = 60% × 15¢ = 9¢
 
-EXPECTED_VALUE: 2  
-SUMMARY: Structural advantages and opposition repression suggest United Russia could exceed 355 seats, but public discontent and lack of quantitative polling leave substantial uncertainty. No strong, specific evidence indicates the market’s 35% probability is off by more than ~10 cents.  
-CONFIDENCE: low
+EXPECTED_VALUE: 9  
+SUMMARY: Current polling (40–43%) and insider scenarios cap UR around 310–320 seats, making a 355-seat super-majority unlikely. The market’s 34.5% probability appears overstated by roughly 15¢.  
+CONFIDENCE: medium
 
 ---
 
@@ -49,32 +51,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: What to expect from Russia’s 2026 elections – New Eurasian Strategies Centre
-Author: NEST Centre
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://nestcentre.org/how-the-kremlin-is-preparing-for-the-2026-state-duma-elections/
-Summary: The upcoming 2026 Russian State Duma elections are unlikely to result in a significant shift in power, with United Russia expected to maintain its dominant position. Currently holding 70% of the seats (314 out of 450), United Russia benefits from institutional advantages and control over electoral procedures, which remain opaque. The election will include 12 registered parties, with only a few, such as the Greens and the Party of Pensioners, having a realistic chance to surpass the 5% threshold needed for representation. Given these factors, United Russia is projected to retain its majority, but whether it will secure 355 or more seats (a supermajority) depends on the electoral dynamics, voter turnout, and potential manipulation. However, the regime's control over the electoral process suggests a high likelihood of United Russia achieving or exceeding this threshold.
-
-Title: Prices are up, polls are down, and Kremlin officials think propaganda can fix the problem before the parliamentary elections, Meduza sources say — Meduza
+Title: «Единая Россия» может улучшить результат пятилетней давности на думских выборах - Ведомости
 Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: http://meduza.io/en/feature/2026/02/20/prices-are-up-polls-are-down-and-kremlin-officials-think-propaganda-can-fix-the-problem-before-the-parliamentary-elections-meduza-sources-say
-Summary: The article reports that Kremlin officials are actively directing pro-government media to promote United Russia’s social initiatives ahead of the 2026 State Duma elections, aiming to bolster the ruling party’s image amid declining polls and rising prices. Media outlets are instructed to emphasize positive coverage of bills like prioritizing student housing for families and benefits for war participants, with headlines crafted to favor United Russia. This coordinated propaganda effort suggests the Kremlin is attempting to influence public perception and support for United Russia, which could impact the party’s electoral performance. However, the article does not provide specific polling data or predictions regarding whether United Russia will secure 355 or more seats in the upcoming election.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.vedomosti.ru/politics/articles/2026/03/02/1179911-edinaya-rossiya-mozhet-uluchshit-rezultat-pyatiletnei-davnosti-na-viborah?from=newsline
+Summary: The article indicates that United Russia (ЕР) is currently experiencing a significant increase in electoral support, with current support levels estimated at 40–43%, compared to 28–33% five years ago. This boost in support suggests that the party could achieve better results in the upcoming September 2026 State Duma elections than in 2021, potentially securing a more convincing constitutional majority. The support base is expected to expand socially, including political elites, business, and middle-class groups, especially amid favorable conditions such as economic growth and political stability. Given these trends, there is a strong possibility that United Russia could win 355 or more seats in the next election, surpassing the previous results and consolidating its dominance in the Duma.
 
-Title: The Shrinking Quota for the Systemic Opposition – Riddle Russia
+Title: «Единая Россия» может оставить парламентской оппозиции лишь 10–13 одномандатных округов на выборах в Госдуму 2026 года — DOXA
 Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://ridl.io/the-shrinking-quota-for-the-systemic-opposition/
-Summary: The article discusses the evolving political landscape of Russia's systemic opposition, focusing on how the Kremlin has historically managed opposition parties like CPRF, LDPR, and AJust Russia since 2014. These parties received informal quotas—such as reserved parliamentary seats and gubernatorial positions—in exchange for their support of Crimea's annexation. This arrangement, designed by Vyacheslav Volodin and maintained under Sergei Kiriyenko, ensured a controlled and predictable opposition environment, with vetted candidates and administrative resources favoring them. Over time, this system has been increasingly constrained, reducing the opposition's influence and the Kremlin's ability to rely on these parties as a counterbalance. This context is relevant for predicting the upcoming State Duma election, as the shrinking space for systemic opposition suggests that United Russia's chances of securing a dominant majority—such as 355 or more seats—may be influenced by the diminished role and effectiveness of these opposition parties.
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://doxa.team/news/2026-02-11-edro-gosduma
+Summary: The upcoming 2026 Russian State Duma elections are expected to see significant consolidation of electoral districts by the ruling party, United Russia. According to sources close to the Kremlin, United Russia may only leave 10–13 out of 225 single-mandate districts for opposition parties, marking the minimal number of competitive districts in recent election cycles. The strategy involves primarily contesting most districts with direct candidates, while "agreement" districts—where weaker or non-competitive candidates are nominated—are used to maintain the appearance of political competition. This approach suggests a tightening of the electoral landscape, with the ruling party aiming to secure a dominant majority. Given these developments, combined with the anticipated high voter turnout (around 55%) facilitated by remote and multi-day voting, and the overall political environment, it is unlikely that United Russia will secure 355 or more seats, which would require winning a supermajority of the 450-seat parliament.
 
-Title: Regions Calling: Kremlin Clamps Down on Communists Ahead of State Duma Elections - The Moscow Times
-Author: Leyla Latypova
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.themoscowtimes.com/2026/02/20/regions-calling-kremlin-clamps-down-on-communists-ahead-of-state-duma-elections-a91997
-Summary: The article discusses the Kremlin's recent efforts to tighten control over opposition parties, particularly the Communist Party, ahead of the upcoming State Duma elections. Authorities are cracking down on Communist members and supporters, exemplified by the detention and surveillance of regional activists and political figures, such as those in the Altai region. This increased repression suggests the Kremlin aims to suppress opposition influence and secure a dominant victory. Historically, United Russia has maintained a strong majority, often winning over 355 seats, aided by such restrictive measures. The current political climate indicates that the Kremlin is actively working to ensure a significant majority, making it plausible that United Russia could secure 355 or more seats in the next election.
+Title: Выборы в Госдуму-2026: как «Единая Россия» хочет победить
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.ura.news/news/1053074110
+Summary: The article reports that the United Russia party has officially launched its election campaign for the 2026 State Duma elections, with Vladimir Yakušev, Secretary of the General Council, emphasizing the importance of pre-election activities such as electronic primaries via Gosuslugi. These primaries serve as a key mechanism for candidate selection and voter engagement, aiming to ensure that trusted candidates represent the party. The campaign's success depends heavily on the organization and discipline of these preliminary votes. The party's goal is to secure a stable parliamentary majority and reinforce its leadership as Russia's main political force. The involvement of prominent figures, including Heroes of Russia and veterans of special operations, highlights the campaign's focus on patriotic and veteran support. Given these efforts, the party aims to maintain or strengthen its majority, which could influence the likelihood of winning 355 or more seats.
 
-Title: United Russia - Wikipedia
-URL: https://en.wikipedia.org/wiki/United_Russia
-Summary: United Russia is the dominant political party in Russia, holding a significant majority in the State Duma, the lower house of parliament. Historically, it has maintained strong electoral support, often securing a large proportion of seats in national elections. The party's popularity is influenced by factors such as government policies, leadership stability under Vladimir Putin, and its alignment with state interests. While specific projections for the next election are uncertain, understanding United Russia's current dominance, electoral trends, and political environment can help assess the likelihood of it winning 355 or more seats. Given its recent electoral performance and political influence, it is plausible that United Russia could achieve or surpass this seat threshold, but this depends on campaign dynamics, opposition strength, and voter turnout.
+Title: Благоприятный старт кампании: эксперты прогнозируют рост поддержки власти
+Author: Автор:  Наталья Никифорова
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://mail.runews24.ru/politics/03/03/2026/blagopriyatnyij-start-kampanii-ekspertyi-prognoziruyut-rost-podderzhki-vlasti?browser=mobile
+Summary: The article indicates that support for the ruling party, United Russia, is currently between 40–43%, which is higher than five years ago (28–33%). This increased support, combined with a favorable electoral environment and potential expansion of the party's supporter base—including political elites, business, and certain social groups—suggests a strong likelihood of improved election results. Experts predict that United Russia could surpass its previous performance and secure a more confident majority in the State Duma. While specific seat counts are not provided, the trend points toward a significant electoral victory, potentially exceeding 355 seats.
+
+Title: Три сценария выборов в Госдуму: что готовит Кремль?
+Author: Автор:  Наталья Никифорова
+Published Date: 2026-03-02T00:00:00.000Z
+URL: http://www.runews24.ru/politics/02/03/2026/tri-sczenariya-vyiborov-v-gosdumu-chto-gotovit-kreml?browser=mobile
+Summary: The upcoming Russian State Duma elections are expected to proceed under a realistic scenario, with the ruling party, United Russia, aiming for a result around 55% of the vote and a 50% voter turnout. The campaign will emphasize themes of national pride and confidence, leveraging ideological narratives such as "party of the country," "party of the people," and "party of the future." The election is projected to feature approximately eight parties, with a focus on maintaining stability and social-economic guarantees. Given these strategic priorities and target results, it is unlikely that United Russia will secure 355 or more seats, as the campaign aims for a moderate, stable outcome rather than a supermajority.
 
 

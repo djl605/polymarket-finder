@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the NC-13 House seat?
 
 **Market ID:** 0xf8a4a549f0937ec98b00be5f260f5688e85fe8d3bad51d2664106203f3e07e32
-**Researched At:** March 1, 2026 at 06:03:21 AM UTC
+**Researched At:** March 9, 2026 at 04:25:15 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the NC-13 House seat?"
 
 ---
@@ -13,38 +13,37 @@
 
 ### Summary
 
-With no polling or fundraising data indicating a stronger Democratic performance and NC-13’s historical GOP lean, a 16% probability seems reasonable. Low volume likely reflects genuine lack of new information rather than a major mispricing.
+The 15% probability aligns with primary vote shares, historical voting patterns, and a challenging midterm climate for Democrats. There’s no clear new evidence suggesting a materially higher Democratic chance.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Democratic Party’s candidate will win North Carolina’s 13th congressional district in the November 4, 2026, general election. A “YES” resolution requires that the victor is officially listed (or caucuses) as a Democrat; a “NO” resolution means a Republican (or non-Democrat) wins.
+The market asks: “Will the Democratic Party win NC-13 in the Nov. 4, 2026 U.S. House elections?” It resolves YES if the Democrat who appears on the November general-election ballot (or later identified caucus choice) wins the seat, NO otherwise.
 
 2. EVIDENCE EVALUATION  
-Bullish (for higher Dem probability):  
-- Sabato’s Crystal Ball notes that open seats (if NC-13 is open) can be competitive and that district redistricting in NC has shifted some boundaries, potentially improving Dem chances.  
-- Decision Desk HQ flags redistricting impact on NC-13 demographics, suggesting the new lines could include more urban or suburban voters.  
-
-Bearish (for lower Dem probability):  
-- No polls or concrete data show Democrats running ahead; the AP profile of candidates highlights internal party disagreements but not unusually strong Dem appeal to swing voters.  
-- NC-13 has historically leaned Republican (no evidence in these pieces of a sudden demographic or political realignment).  
-- The NPR and Ellis Insight pieces focus on NC-4 dynamics, not NC-13, offering little direct support for a Dem breakthrough in a reliably GOP district.  
-
-Source credibility and recency: All sources are from late February 2026 and early March 2026; they’re credible reporting but indirect. None provide quantitative polling or fundraising figures for NC-13.
+• Bearish for Democrats (supports low price):  
+  – Republican Brad Knott won his primary with ~89.9% in a district where GOP turnout and margins in key counties (Harnett, Granville, Caswell) are very strong.  
+  – CNN (Feb 4) highlights a tough midterm environment for Democrats, redistricting favoring Republicans, and narrowed map.  
+  – Sabato’s Crystal Ball notes North Carolina’s broader tilt toward Republicans in 2026.  
+• Bullish for Democrats (would argue price too low):  
+  – Paul Barringer won the Dem primary decisively (59.1%). In a competitive midterm that still features national swings, a capable Democratic campaign could outperform.  
+  – No general-election polling yet; turnout dynamics and candidate quality could tighten beyond 15%.  
+• Source credibility/recency: All sources are from Q1 2026 and well-established (NBC, AP, CNN, Sabato/UVA).
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 16% price implies a modest but non-zero chance—plausible given a GOP lean but recognizing that open seats/redistricting can produce surprises. The very low trading volume (under $1,000) suggests this market hasn’t drawn much specialized attention; the narrow spread indicates even the few traders perceive low volatility. It’s equally plausible that the price reflects consensus among a handful of traders rather than broad information aggregation.
+• A 15% price plausibly reflects GOP lean and tough environment but allows for the chance of an upset (open seat, quality Dem candidate).  
+• With only $0 volume and 39 days old, the price could reflect a single trader’s view or a small consensus. However, the consistency of external analysis with a low Dem chance suggests informed participants aren’t finding hidden value here.
 
 4. MISPRICING ASSESSMENT  
-No specific, recent polling or fundraising data is missing that would dramatically uplift the Dem probability well above 16%. The redistricting narrative could nudge the chance slightly higher, but absent numbers, traders reasonably anchor around a low-teens probability. There’s no clear sign of a >20-cent mispricing here—more a lack of detailed info than a glaring oversight.
+No concrete polling or structural factor from Q1 2026 indicates Democrats have >20% win probability. Primary results show party bases are behaving as expected. Broad national and state trends point to a Republican advantage. There’s no specific missing insight that would move the fair price materially from 15%.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: 20%  
-Likely magnitude of mispricing: 5 cents  
-Expected value = 20% × 5 cents = 1 cent
+• Strength of evidence of mispricing: ~20% (limited upside evidence)  
+• Magnitude of potential mispricing: ~5 cents (if true win odds are closer to 10%)  
+EV = 20% × 5¢ = 1¢  
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: With no polling or fundraising data indicating a stronger Democratic performance and NC-13’s historical GOP lean, a 16% probability seems reasonable. Low volume likely reflects genuine lack of new information rather than a major mispricing.  
+EXPECTED_VALUE: 1  
+SUMMARY: The 15% probability aligns with primary vote shares, historical voting patterns, and a challenging midterm climate for Democrats. There’s no clear new evidence suggesting a materially higher Democratic chance.  
 CONFIDENCE: medium
 
 ---
@@ -53,84 +52,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: North Carolina House District 13 Primary Election Live Results 2026 - NBC News
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-us-house-district-13-results
+Summary: The primary election results for North Carolina House District 13 show that Democrat Paul Barringer has secured a significant lead with 59.1% of the votes, while Republican Brad Knott has won the Republican primary with approximately 89.9%. County-level results indicate strong support for Knott in districts like Harnett, Granville, and Caswell, with over 89% of votes in each. Barringer's lead suggests a competitive Democratic presence, but the Republican candidate's consistent strong showing in key counties indicates a potentially competitive general election. Overall, the outcome will depend on campaign dynamics and voter turnout in the upcoming general election.
+
+Title: Paul Barringer wins Democratic nomination for U.S. House in North Carolina's 13th Congressional District | Politics | nbcrightnow.com
+Author: AP
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.nbcrightnow.com/politics/paul-barringer-wins-democratic-nomination-for-u-s-house-in-north-carolinas-13th-congressional-district/article_aeac217d-7f90-59fd-9860-1dd14c6af217.html
+Summary: Paul Barringer has secured the Democratic nomination for North Carolina's 13th Congressional District. The article details his victory in the primary race, positioning him as the Democratic candidate in the upcoming election. To assess the likelihood of the Democratic Party winning the NC-13 House seat, one would need to consider factors such as Barringer's campaign platform, voter demographics, historical voting patterns in the district, and the strength of his Republican opponent. However, this article primarily confirms Barringer's nomination and does not provide additional insights into electoral prospects or campaign dynamics.
+
 Title: See where candidates for North Carolina's 13th US House District disagree with their own party | Ap | thederrick.com
 Author: Danielle Battaglia - The News & Observer (Raleigh) (TNS)
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.thederrick.com/ap/politics/see-where-candidates-for-north-carolinas-13th-us-house-district-disagree-with-their-own-party/article_b0b93d84-1313-5a02-b1a5-fb881d57f8f7.html
-Summary: The article discusses the candidates for North Carolina's 13th US House District and highlights where they diverge from their party lines. This information is crucial for predicting the Democratic Party's chances of winning the NC-13 House seat. Key factors to consider include:
+Summary: The article discusses the positions of candidates vying for North Carolina's 13th U.S. House District, highlighting instances where some candidates have diverged from their party’s official stance. While it does not explicitly predict election outcomes, understanding these intra-party disagreements and candidate positions can offer insights into the political dynamics and voter sentiments within the district. Such nuances may influence the likelihood of the Democratic Party winning the seat, especially if candidate divergences impact party unity or voter perception.
 
-1. **Candidate Positions**: The article outlines specific issues where candidates may disagree with their party's mainstream views, which could influence voter perception and support.
-
-2. **Voter Sentiment**: Understanding the local electorate's response to these divergences can provide insight into the viability of Democratic candidates in a historically competitive district.
-
-3. **Party Dynamics**: The internal disagreements within the party may affect campaign strategies and voter mobilization efforts, impacting overall election outcomes.
-
-4. **Historical Context**: Analyzing past election results in NC-13 can help gauge the district's political leanings and the potential for a Democratic victory.
-
-These elements combined will be instrumental in assessing the likelihood of the Democratic Party securing the NC-13 House seat in the upcoming election.
-
-Title: N.C. primary in 4th district could be a crystal ball for Democrats : NPR
-Author: By                  
-   
-       
-      Colin Campbell
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.npr.org/2026/02/28/nx-s1-5726425/nc-primary-election-foushee-allam
-Summary: The North Carolina primary in the 4th district is seen as a significant indicator for the Democratic Party's future, particularly in the context of the upcoming NC-13 House seat election. In this primary, incumbent Rep. Valerie Foushee faces a challenge from progressive Durham County Commissioner Nida Allam, who is supported by prominent figures like Bernie Sanders. This race reflects a broader trend within the Democratic Party, where voters are increasingly favoring candidates with more progressive platforms, especially on issues like immigration and foreign policy.
-
-The outcome of the 4th district primary could provide insights into voter sentiment and the direction of the Democratic Party in North Carolina, which may influence the NC-13 race. Given the recent trend of upset victories in Democratic primaries, as seen in New Jersey, the results could signal whether the party is leaning towards more moderate or progressive candidates. The involvement of outside PACs and national donors in the 4th district race further underscores the stakes for the Democratic caucus, making it a crucial barometer for the party's chances in the NC-13 House seat.
+Title: Why Democrats might struggle to achieve another midterm 'blue wave' in the US House | CNN Politics
+Author: Arit John
+URL: https://www.cnn.com/2026/02/04/politics/cnn-house-roundup
+Summary: The article discusses the current political landscape for the upcoming midterm elections, highlighting that Democrats face a narrower map due to redistricting and increased polarization. While Democrats have historically gained seats in midterms, recent trends suggest they are less popular now, and the environment is more challenging. The outcome for specific seats like NC-13 will depend on factors such as voter sentiment on key issues like the economy and immigration, as well as ongoing redistricting efforts. Overall, Democrats have some advantages but face a steep climb, making the prediction of winning the NC-13 House seat uncertain and contingent on evolving political dynamics.
 
 Title: Sabato's Crystal Ball - UVA Center for Politics
-Published Date: 2026-02-26T06:03:04.719Z
 URL: https://centerforpolitics.org/crystalball/
-Summary: The webpage "Sabato's Crystal Ball" from the UVA Center for Politics offers insights into upcoming elections, including the 2026 House races. For predicting whether the Democratic Party will win the NC-13 House seat, consider the following relevant points:
-
-1. **Political Landscape**: The site discusses trends in party dominance across states, highlighting that many states exhibit significant political polarization. Understanding the local political climate in North Carolina, particularly in the NC-13 district, is crucial.
-
-2. **Incumbency and Open Seats**: The analysis notes a trend of open House seats due to retirements, which could impact competitiveness. If NC-13 is an open seat, it may present an opportunity for Democrats, especially if they can mobilize voters effectively.
-
-3. **Primary Dynamics**: The webpage emphasizes the importance of primaries, particularly in Texas, which may reflect broader trends. Observing the Democratic primary candidates and their appeal could provide insights into the party's chances in NC-13.
-
-4. **Historical Context**: The site references past uncontested races and the implications of such scenarios. If the Democratic candidate in NC-13 faces minimal opposition, it could enhance their chances of winning.
-
-5. **Voter Sentiment**: The articles often analyze voter sentiment and turnout, which are critical factors in any election. Engaging with local polling data and voter demographics in NC-13 will be essential for making an informed prediction.
-
-Overall, while the webpage does not provide a direct prediction
-
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:03:04.719Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses key U.S. House seats that could determine the majority in the 2026 elections, with a focus on various political dynamics and candidates. For the North Carolina 13th District (NC-13), factors to consider include:
-
-1. **Candidate Landscape**: The article highlights potential candidates and their political backgrounds, which can influence voter sentiment. Understanding who is running for both parties will be crucial in predicting the outcome.
-
-2. **Redistricting Impact**: Changes in district boundaries can significantly affect election results. The article notes recent redistricting efforts in North Carolina, which may alter the demographics and political leanings of NC-13.
-
-3. **Political Climate**: The broader political environment, including national trends and local issues, will play a role. The article suggests monitoring voter sentiment and key issues that resonate with constituents in NC-13.
-
-4. **Historical Context**: Analyzing past election results in NC-13 can provide insights into voting patterns and shifts in party support, which are essential for making predictions about the Democratic Party's chances.
-
-5. **External Factors**: National political dynamics, such as the performance of the Biden administration and the Republican Party's strategies, could also influence the election outcome in NC-13.
-
-Overall, a combination of candidate profiles, redistricting effects, local political issues, historical voting trends, and national influences will be critical in assessing whether the Democratic Party can win the NC-13 House seat in 
-
-Title: February 25, 2026 – The ELLIS Insight
-Author: Jim Ellis
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.ellisinsight.com/2026/02/25/
-Summary: The article discusses the competitive landscape of the NC-4 House seat, focusing on the Democratic primary between incumbent Rep. Valerie Foushee and challenger Nida Allam. While this is not directly about the NC-13 seat, it provides insights into the dynamics of Democratic contests in North Carolina, which could be relevant for predicting outcomes in other districts, including NC-13.
-
-Key points include:
-
-1. **Incumbent Strength**: Foushee, a two-term incumbent, faces a significant challenge from Allam, indicating that incumbents may not have guaranteed success in Democratic primaries, which could reflect broader trends in the party.
-
-2. **Outside Spending**: Allam benefits from substantial outside funding, including from pro-Palestinian and progressive groups, suggesting that financial backing can significantly influence primary outcomes. This could be a factor to consider for NC-13, where similar dynamics may play out.
-
-3. **Voter Demographics**: The NC-4 district has a high minority voting age population, which is crucial for understanding voter behavior. NC-13's demographic composition should be analyzed similarly to gauge potential support for Democratic candidates.
-
-4. **Key Issues**: Allam's opposition to the AI data center highlights how local issues can sway voter sentiment. Identifying key local issues in NC-13 could provide insights into the Democratic Party's chances there.
-
-5. **Political Climate**: The article reflects a competitive political environment within the Democratic Party in North Carolina, suggesting that
+Summary: The webpage from Sabato's Crystal Ball provides analysis and updates on upcoming and ongoing political races, including primary elections and general election forecasts. While it does not specifically mention the NC-13 House seat, it highlights key factors such as primary challenges, incumbent vulnerabilities, and party dominance in states. Notably, North Carolina's political landscape is discussed in the context of primaries and potential shifts, which could influence the likelihood of Democratic success in NC-13. The site emphasizes the importance of primary results, candidate competitiveness, and broader state-level party control in assessing the race's outcome.
 
 

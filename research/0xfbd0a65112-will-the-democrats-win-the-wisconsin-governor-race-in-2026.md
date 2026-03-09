@@ -1,7 +1,7 @@
 # Research: Will the Democrats win the Wisconsin governor race in 2026?
 
 **Market ID:** 0xfbd0a65112e26d9a2a68dc47f8a95c6c14d22650cb4837c5429b546726661b71
-**Researched At:** March 1, 2026 at 05:59:12 AM UTC
+**Researched At:** March 9, 2026 at 04:25:10 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democrats win the Wisconsin governor race in 2026?"
 
 ---
@@ -9,44 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 0.5¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Primary polls show very high undecided rates among voters and no clear Democratic frontrunner, indicating substantial uncertainty that isn’t fully reflected in a 72.5% price—but Wisconsin’s recent Democratic wins and turnout advantage justify a price in the mid-70s. There is no strong, specific evidence of a >5¢ mispricing.
+Current research shows very high early-stage uncertainty in both parties’ primaries and no general-election polling, balanced by a slight Democratic incumbency edge. There’s insufficient credible evidence of a large mispricing, so only a small expected correction (~10 cents) is plausible.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Democratic nominee will win the November 2026 Wisconsin gubernatorial election. YES resolves if the certified winner is the Democratic nominee; NO if any other party’s nominee or an independent wins.
+The market asks whether the Democratic nominee wins the November 2026 Wisconsin governor’s race, resolving YES if the Democratic nominee is called the winner (or certified) and NO otherwise.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports 72.5%):  
-• Wisconsin has trended purple with Democratic Gov. Tony Evers winning in 2018 and 2022. 2026’s environment may favor Democrats if national tides remain benign.  
-• High Democratic turnout intention (73% “certain to vote” in Marquette poll) suggests baseline strength.  
-
-Bearish (undermines 72.5%):  
-• No general-election polling is cited—only Democratic and Republican primary polls showing two-thirds of voters undecided. That high undecided rate implies general election uncertainty is also high.  
-• A crowded Democratic primary with low name recognition could produce a nominee weaker than anticipated or leave the party divided.  
-
-Source credibility and recency: All polls are from late February 2026 and from reputable local (Marquette) and state media, so timely and trustworthy—but none directly measure general-election head-to-head.  
+Bearish (against 80.5%)  
+• All polls (Marquette, Urban Milwaukee, WKOW, JSOnline) show very high undecided rates (~65%) in both primaries and low name recognition, indicating we’re still six months from the general and fundamentals could shift.  
+• 2026 is a midterm under a Democratic president—historical midterm headwinds often favor Republicans in gubernatorial contests.  
+Bullish (for 80.5%)  
+• Wisconsin has elected a Democratic governor twice in recent cycles (Evers in 2018 and 2022), suggesting a slight structural Democratic tilt at the state executive level.  
+• Gambit Forecaster labels the state environment “stable partisan” with no model-driven shift against Democrats yet.  
+Source credibility/recency  
+• All polls and the Gambit model are from late Feb–early Mar 2026 and professionally conducted. None directly model the general election, so they carry limited predictive value at this stage.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 72.5% price could reflect:  
-• Informed traders pricing in Wisconsin’s recent Democratic wins and turnout edge.  
-• Some hedging against late-breaking GOP momentum or a weak nominee emerging from a chaotic primary.  
-Low volume might simply reflect that few traders specialize in 2026 Wisconsin politics, not necessarily a mispricing.
+• A price of 80.5% could reflect a consensus that, despite early uncertainty, Democrats have a modest structural edge plus incumbency carryover from Evers’s two terms.  
+• Low volume (under $10 k) means just a few traders could have set the price, but the tight spread suggests at least some liquidity.  
+• The early‐stage nature and mixed signals (high undecided vs. stable fundamentals) could deter further informed trading until after primaries.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, specific evidence that the market is off by >10¢. We lack any general election polling or a frontrunner with known advantages or liabilities. The high undecided rates in both primaries point toward considerable uncertainty, suggesting a mid-70s forecast may actually understate risk to Democrats. Conversely, Wisconsin’s incumbency and turnout trends support the probability. Without stronger evidence either way, we should not declare a meaningful mispricing.
+• No clear, specific missing data: primary dynamics are too fluid and no general‐election polls exist yet.  
+• Historical midterm patterns and present high uncertainty argue for a lower probability than 80.5%, but the Democratic incumbency advantage pulls the other way.  
+• Overall, there’s insufficient evidence of a > 20 cent mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~10% (we have only indirect evidence).  
-Plausible magnitude of mispricing: ~5¢.  
-Expected value = 10% × 5¢ = 0.5¢.
+• Strength of evidence for mispricing: 20% (polls show huge early uncertainty but that may already be baked in).  
+• Magnitude of mispricing: 10 cents (a modest correction if midterm headwinds are underweighted).  
+• Expected value = 0.20 × 10 cents = 2 cents.
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: Primary polls show very high undecided rates among voters and no clear Democratic frontrunner, indicating substantial uncertainty that isn’t fully reflected in a 72.5% price—but Wisconsin’s recent Democratic wins and turnout advantage justify a price in the mid-70s. There is no strong, specific evidence of a >5¢ mispricing.  
+EXPECTED_VALUE: 2.0  
+SUMMARY: Current research shows very high early-stage uncertainty in both parties’ primaries and no general-election polling, balanced by a slight Democratic incumbency edge. There’s insufficient credible evidence of a large mispricing, so only a small expected correction (~10 cents) is plausible.  
 CONFIDENCE: low
 
 ---
@@ -55,17 +55,29 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Who’s leading in Wisconsin’s race for governor?
+Author: KIMBERLY WETHAL kwethal@madison.com
+Published Date: 2026-02-26T00:00:00.000Z
+URL: http://www.wiscnews.com/news/state-regional/government-politics/elections/article_1d2d8f68-861d-50f5-b137-780cc8901025.html
+Summary: The article reports that in the Wisconsin governor's race, current polling by Marquette Law School indicates that Democratic candidates, including former Lt. Gov. Mandela Barnes and Rep. Francesca Hong, are leading within their party ahead of the August primaries. Republican U.S. Rep. Tom Tiffany also leads among Republicans. While the poll provides insight into the current state of party support, it does not predict the final outcome of the general election in 2026. Factors such as campaign developments, voter turnout, and broader political trends will influence whether Democrats can secure victory in the governor's race.
+
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report indicates that gubernatorial races, including Wisconsin, are still largely influenced by fundamental factors such as institutional and candidate effects. While the overall model remains cautious, recent updates show that the Wisconsin governor race is within a stable partisan environment, with no significant shifts suggesting a high likelihood of a Democratic victory at this stage. The forecast emphasizes that the race's outcome will depend on candidate dynamics and campaign developments, as the cycle progresses and more polling and campaign data become available.
+
 Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban Milwaukee
 Author: Rich Kremer
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
-Summary: A recent Marquette University poll indicates that the Democratic primary for the Wisconsin governor's race in 2026 is competitive, with former Lt. Gov. Mandela Barnes and state Rep. Francesca Hong leading among candidates. However, a significant portion of voters remains undecided, which could impact the overall outcome. Barnes has the highest name recognition but does not have a definitive lead in voter preference, suggesting that while he is a strong contender, the race is still open. Other candidates include Joel Brennan, Lt. Gov. Sara Rodriguez, and Milwaukee County Executive David Crowley, among others. The undecided voter demographic could play a crucial role in determining whether Democrats can secure a victory in the upcoming election.
+Summary: The Marquette University Law School poll indicates that among Democratic primary voters in Wisconsin, there is no clear frontrunner, with former Lt. Gov. Mandela Barnes and Madison State Rep. Francesca Hong essentially tied in recognition and support, both receiving around 11-12% of votes. Barnes has higher overall name recognition due to previous statewide campaigns, but this has not yet translated into a decisive lead in voter preference. Other Democratic candidates, such as Lt. Gov. Sara Rodriguez and Milwaukee County Executive David Crowley, have minimal support. Given that a significant portion of voters remain undecided (65%), the primary race is still highly competitive. This suggests that the Democratic nomination—and potentially the general election—remains unpredictable at this stage, and the outcome will depend on future campaign developments and voter mobilization.
 
 Title: About two-thirds of voters undecided in Democratic, Republican gubernatorial primaries | Race for Governor | wkow.com
 Author: Caroline Dade
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.wkow.com/news/governor-race/about-two-thirds-of-voters-undecided-in-democratic-republican-gubernatorial-primaries/article_7e170555-8db7-4fbe-85b9-910cae089d43.html
-Summary: A recent report indicates that approximately two-thirds of voters in Wisconsin remain undecided in both the Democratic and Republican gubernatorial primaries. This significant level of uncertainty among voters could impact the outcome of the 2026 Wisconsin governor race. Factors influencing voter decisions may include candidates' platforms, campaign strategies, and current political dynamics. The undecided voter demographic suggests that both parties have opportunities to sway opinions as the election approaches. Understanding voter sentiment and engagement in the lead-up to the primaries will be crucial for predicting the likelihood of a Democratic victory in the upcoming race. For more details, visit the full article [here](https://www.wkow.com/news/governor-race/about-two-thirds-of-voters-undecided-in-democratic-republican-gubernatorial-primaries/article_7e170555-8db7-4fbe-85b9-910cae089d43.html).
+Summary: The upcoming Wisconsin gubernatorial race in 2026 is still highly uncertain, with a significant majority of voters in both parties remaining undecided. A recent Marquette Law School poll indicates that 65% of Democratic primary voters have not yet chosen a candidate, and similar indecision exists among Republican voters, with 63% undecided. Among Democratic candidates, Rep. Francesca Hong leads in name recognition at 29%, but only 11% support her, and most voters have limited awareness of the other candidates. For the Republicans, U.S. Rep. Tom Tiffany is the most recognized candidate, but only 46% of voters know him, and he currently has a slightly negative net favorability rating. Given the high levels of voter indecision and low candidate recognition, it is too early to predict whether Democrats will win the 2026 governor race in Wisconsin.
 
 Title: Marquette poll finds Wisconsin voters undecided in governor's race
 Author: Molly Beck 
@@ -73,31 +85,6 @@ Author: Molly Beck
  Jessie Opoien
 Published Date: 2026-02-25T00:00:00.000Z
 URL: http://www.jsonline.com/story/news/politics/elections/2026/02/25/marquette-poll-finds-wisconsin-voters-undecided-in-governors-race/88827849007/
-
-Title: New Marquette Law School Poll finds large majorities of Wisconsin voters undecided on candidates for state Supreme Court, governor – Marquette Law School Poll
-Author: Charles Franklin
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://law.marquette.edu/poll/2026/02/25/mlsp87-release/
-Summary: The Marquette Law School Poll reveals significant uncertainty among Wisconsin voters regarding the upcoming 2026 governor race, which could impact predictions about a Democratic victory. Key findings include:
-
-1. **Candidate Recognition**: A large field of Democratic candidates lacks a clear frontrunner, with many voters unfamiliar with the candidates. This could hinder the party's ability to consolidate support.
-
-2. **Voter Undecidedness**: Approximately 66% of voters are undecided about the Supreme Court candidates, indicating a general lack of engagement that may also reflect on the governor race. High undecided rates can be detrimental to a party's chances.
-
-3. **Voter Turnout**: Among likely voters, 73% of Democrats, 67% of Republicans, and 62% of independents are certain to vote, suggesting that while Democrats are motivated, they need to convert undecided voters to secure a win.
-
-4. **Public Sentiment**: Recent shifts in public opinion show a growing disapproval of data centers and a preference for property tax reductions over increased school funding, which may influence voter priorities in the governor race.
-
-Overall, the lack of candidate recognition and high undecided rates among voters could pose challenges for Democrats in the 2026 Wisconsin governor race.
-
-Title: New Marquette Law School Poll finds large majorities of Wisconsin voters undecided on candidates for state Supreme Court, governor | Marquette Today
-Author: Kevin Conway
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://today.marquette.edu/2026/02/new-marquette-law-school-poll-finds-large-majorities-of-wisconsin-voters-undecided-on-candidates-for-state-supreme-court-governor/
-Summary: The recent Marquette Law School Poll indicates that a significant majority of Wisconsin voters remain undecided about candidates for the upcoming 2026 governor race, which could impact the Democratic Party's chances of winning. Currently, 66% of registered voters have not made a decision on whom to support for the state Supreme Court election, and a similar trend is observed among the Democratic candidates for governor, where no clear leader has emerged. 
-
-The poll shows that a large field of Democratic candidates lacks widespread recognition, with many voters still unfamiliar with their platforms. Only 6% of respondents reported having heard a lot about the court race, suggesting low engagement and awareness among the electorate. This lack of clarity and knowledge about candidates could hinder the Democrats' ability to mobilize support effectively.
-
-Additionally, the survey reveals that while 73% of Democrats are certain to vote in the Supreme Court election, the overall uncertainty among voters could play a crucial role in the upcoming governor race. As the election approaches, the Democrats will need to increase voter awareness and solidify their candidate's appeal to improve their chances of winning in 2026.
+Summary: The recent Marquette poll indicates that Wisconsin voters are largely undecided in the upcoming governor's race, with 65% of registered voters unsure of their preferred Democratic candidate and a similar percentage undecided among Republican voters. Key Democratic contenders, including Francesca Hong and Mandela Barnes, have low name recognition and high percentages of voters with no opinion. Barnes, despite being more well-known, has a nearly equal split of favorable and unfavorable views, suggesting limited voter support at this stage. On the Republican side, U.S. Rep. Tom Tiffany also faces low recognition, with over half of voters having no opinion. Given the high levels of voter indecision and low candidate familiarity six months before the election, it is difficult to predict whether Democrats will win in 2026.
 
 

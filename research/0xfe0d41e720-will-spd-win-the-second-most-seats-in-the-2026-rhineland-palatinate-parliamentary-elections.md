@@ -1,52 +1,50 @@
 # Research: Will SPD win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?
 
 **Market ID:** 0xfe0d41e720744005920170b517923ccac56bfb3944bbe8161ff3de63b9ea0830
-**Researched At:** March 2, 2026 at 04:24:10 AM UTC
+**Researched At:** March 9, 2026 at 04:25:47 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will SPD win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 6.0¢
+**Confidence:** Medium
+**Expected Value:** 4.0¢
 
 ### Summary
 
-SPD currently leads the CDU in polls and was first in 2021; there’s no clear evidence they’ll slip to runner-up, so the market’s 51% chance looks overpriced. Low trading volume suggests this mispricing may persist.
+Recent late-Feb polls unanimously show CDU at 28% vs SPD at 27%, implying roughly a 60% chance SPD finishes second behind CDU and ahead of AfD. The market’s 61% price closely matches polling-derived probabilities, so there is no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether the SPD will finish in exactly second place (by seat count, with ties broken by vote totals) in the March 22, 2026 Rhineland-Palatinate Landtag election. A YES means SPD comes in runner-up; a NO means they finish first, third, lower, or election doesn’t occur by July 31.
+The market asks: “Will SPD finish with the second-most seats in the March 22, 2026 Rhineland-Palatinate Landtag election?”  It resolves YES if SPD takes exactly the No. 2 spot by seats (with ties broken by votes then alphabet).  It resolves NO if SPD finishes first, third, lower, or the election doesn’t occur by July 31, 2026.
 
 2. EVIDENCE EVALUATION  
-Bearish on YES (i.e. bullish on SPD finishing first or not second):  
-• Historical baseline: 2021 SPD led with 35.7% vs CDU 27.7%.  
-• Recent trend survey (Feb 25): SPD gaining momentum vs CDU and appears to be pulling ahead.  
-• PolitPro/Wikipedia summaries: SPD remains the strongest party in polls, with CDU trailing and Greens/other parties much smaller.  
-• National AfD rise (WashPo) may not translate to Rhineland-Palatinate; AfD polls in the state remain under double digits.  
+Bullish for YES:  
+- Five independent polls published Feb 24–26 show CDU ~28%, SPD ~27%, AfD ~19%, Greens ~9%.  That gap puts SPD almost certain to finish second (behind CDU, ahead of AfD).  
+- Turnout and coalition preference data all point to a tight CDU–SPD race but still favor SPD landing squarely in #2.  
 
-Bullish on YES:  
-• No specific polling indicates SPD slipping to runner-up behind CDU or AfD.  
-• “Fluctuating support” language on Wikipedia could imply volatility.  
+Bearish for YES (i.e. risks of NO):  
+- Poll margin is only ~1 pp, sample error ±3 pp, so SPD could overtake CDU and finish first (resolving NO).  
+- A surge by AfD beyond current polling could, in theory, bump SPD to #3, though none of the polls suggest AfD anywhere near 27%.  
 
-Source credibility: PolitPro and Wikipedia (citing ongoing polls) are reasonably current. The Ground.news survey is recent (Feb 25) but could be regionally less reliable. No hard polling numbers showing SPD below CDU.
+All sources are very recent (late Feb 2026), from reputable German media and pollsters.  There is no new evidence challenging the SPD-vs-CDU margin or the AfD’s placement.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 51% price implies traders see a coin-flip for SPD landing second. But low volume ($2.9 k) and absence of public polls showing SPD trailing suggest this may be driven by a small number of views (e.g. over-weighing AfD rise). If informed traders largely agree SPD will lead, they’d price YES <50%.
+A 61% price implies traders see ~61% chance SPD ends up second.  Given a roughly 1 pp polling gap with noise, that probabilistic interpretation is reasonable: if one models each party’s vote share as a normal distribution around its mean with, say, σ≈3 pp, the chance SPD<CDU is around 60%, and chance SPD>AfD effectively 100%.  Low volume is consistent with a market that mostly just tracks the public polls; there’s no obvious information asymmetry or big divergent view among informed traders.
 
 4. MISPRICING ASSESSMENT  
-Given SPD’s historical lead and recent polling suggesting they continue to top the CDU, a >50% chance to finish exactly second seems too high. I estimate the true probability of runner-up is closer to ~30–35%, implying a mispricing of ~16–21 cents.
+The current 61% aligns well with the polls’ implied probability that SPD trails CDU but remains above AfD.  There is no credible evidence of a large (>20 ¢) mispricing.  Polling uncertainty explains the sub-100% probability.  Absent new qualitative insights (e.g. late campaign events, regional swings not captured in polls), the market appears reasonably efficient.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: ~30% (polling signals but no precise data)  
-Magnitude of mispricing: ~20 cents  
-Expected value ≈ 0.30 × 20 = 6 cents
+- Strength of evidence that price is correct: 80% (strong, consistent polls)  
+- Magnitude of mispricing if any: ~5 ¢ at most  
+Expected value = 0.80 × 5 ¢ = 4 ¢
 
-EXPECTED_VALUE: 6  
-SUMMARY: SPD currently leads the CDU in polls and was first in 2021; there’s no clear evidence they’ll slip to runner-up, so the market’s 51% chance looks overpriced. Low trading volume suggests this mispricing may persist.  
-CONFIDENCE: low
+EXPECTED_VALUE: 4.0  
+SUMMARY: Recent late-Feb polls unanimously show CDU at 28% vs SPD at 27%, implying roughly a 60% chance SPD finishes second behind CDU and ahead of AfD. The market’s 61% price closely matches polling-derived probabilities, so there is no clear mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -54,52 +52,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Rhineland-Palatinate State Election Results | Detailed Data & Seat Allocation
+Title: RLP-Landtagswahl 2026: Umfrage sieht SPD im Aufschwung
 Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://politpro.eu/en/rhineland-palatinate/election/1963-03-31/state-election
-Summary: The webpage provides detailed information on the Rhineland-Palatinate state election results, including data on seat allocation and polling trends. To assess whether the Social Democratic Party (SPD) will secure the second most seats in the 2026 elections, consider the following points:
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.tz.de/politik/rlp-landtagswahl-2026-umfrage-sieht-spd-im-aufschwung-zr-94187386.html
+Summary: A recent survey indicates that the SPD in Rhineland-Palatinate is gaining ground ahead of the March 22, 2026, state elections. The SPD currently holds 27% of voter support, just behind the CDU at 28%, with the gap narrowing compared to previous months. The poll suggests a close race between these two parties, with the SPD's upward trend increasing its chances of securing the second-largest number of seats. Additionally, the survey shows that a coalition between SPD and CDU is the most favored among voters, which could influence seat distribution. Overall, the SPD's improving polling numbers suggest it is well-positioned to win the second most seats in the upcoming election.
 
-1. **Current Polling Trends**: The site features links to current polling data, which can indicate the SPD's popularity leading up to the election. Analyzing these trends will help gauge their potential performance.
+Title: Landtagswahl RLP: SPD mit CDU laut Umfrage jetzt fast gleichauf - SWR Aktuell
+Author: SWR Aktuell
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.swr.de/swraktuell/rheinland-pfalz/umfrage-rlp-trend-februar-2026-spd-und-cdu-fast-gleichauf-100.html
+Summary: The recent poll indicates a close race between the CDU and SPD in Rheinland-Pfalz, with CDU at 28% and SPD at 27%, both roughly matching their previous election results. The AfD is projected to significantly increase its share to around 19%, potentially doubling its previous 8.3%. The Greens and Linke are each around 9% and 5%, respectively, with other parties collectively at 7%. Voter preferences for the next government favor a coalition led by the SPD (35%) over CDU (30%), with a notable portion (19%) supporting an AfD-led government. Given the current standings, the SPD is unlikely to secure the second most seats, as CDU remains slightly ahead, but the race remains very competitive.
 
-2. **Historical Performance**: Reviewing past election results can provide context on the SPD's electoral strength in Rhineland-Palatinate, helping to predict future outcomes.
+Title: Landtagswahl in Rheinland-Pfalz: SPD und CDU vor Wahl in Rheinland-Pfalz in etwa gleichauf | DIE ZEIT
+Author: pip
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.zeit.de/politik/deutschland/2026-02/landtagswahlen-rheinland-pfalz-umfrage-spd-cdu
+Summary: A recent survey conducted by Infratest dimap indicates that, three weeks before the March 22, 2026, Rhineland-Palatinate state election, the SPD is slightly ahead of the CDU in voter support—27% compared to the CDU's 28%. The SPD has gained one percentage point since January, while the CDU has lost one. The current government coalition of SPD, Greens, and FDP remains popular among 44% of respondents, though 50% are dissatisfied. The survey also shows potential coalition preferences, with a significant 39% favoring a coalition between SPD and CDU. Given these figures, the SPD is positioned to secure the second-highest number of seats, likely trailing the CDU but maintaining a strong parliamentary presence.
 
-3. **Political Landscape**: The webpage includes information on other political parties and coalitions, which is crucial for understanding the competitive environment the SPD will face.
+Title: RLP-Trend: CDU und SPD liefern sich Kopf-an-Kopf-Rennen - SWR Aktuell
+Author: SWR Aktuell
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.swr.de/swraktuell/rheinland-pfalz/rlp-trend-cdu-und-spd-liefern-sich-kopf-an-kopf-rennen-vor-landtagswahl-100.html
+Summary: The current polling trend in Rheinland-Pfalz indicates a very close race between the SPD and CDU, with the CDU holding only a slight lead. Approximately four weeks before the 2026 state elections, surveys suggest that both parties are neck and neck, making the outcome uncertain. This tight contest implies that the SPD has a strong chance of securing the second-most seats, but the narrow margin means the result remains highly competitive and dependent on voter turnout and campaign developments in the final weeks.
 
-4. **Coalition Dynamics**: The coalition calculator tool can help analyze potential alliances that may affect the SPD's seat count, as coalition politics often play a significant role in parliamentary outcomes.
-
-For a more accurate prediction, it would be beneficial to monitor ongoing polls and any shifts in voter sentiment as the election date approaches.
-
-Title: 2026 Rhineland-Palatinate state election - Wikipedia
-URL: https://en.wikipedia.org/wiki/2026_Rhineland-Palatinate_state_election
-Summary: The 2026 Rhineland-Palatinate state election is set to elect the 19th Landtag of Rhineland-Palatinate. In the previous 2021 elections, the Social Democratic Party (SPD) emerged as the strongest party with 35.7% of the vote, while the Christian Democratic Union (CDU) followed with 27.7%. The Greens gained ground, becoming the third strongest party with 9.3%, and the Alternative for Germany (AfD) dropped to fourth with 8.3%. The Free Democratic Party (FDP) and the Free Voters also secured seats.
-
-As the SPD currently leads in popularity, its ability to maintain or improve its standing will be crucial for predicting whether it can secure the second most seats in 2026. Recent opinion polls indicate fluctuating support for the SPD, CDU, and Greens, which could impact the election outcome. The SPD's coalition with the Greens and FDP, which was reaffirmed after the 2021 elections, may also influence voter sentiment and party dynamics leading up to 2026. 
-
-Overall, the SPD's past performance, current polling trends, and coalition stability will be key factors in determining its chances of winning the second most seats in the upcoming election.
-
-Title: Rhineland-Palatinate Election Polls & Voting Intentions 2026 - PolitPro
-URL: https://politpro.eu/en/rhineland-palatinate
-Summary: The webpage from PolitPro provides insights into the current election polls and trends for the upcoming 2026 parliamentary elections in Rhineland-Palatinate. As of now, the Social Democratic Party (SPD) is a significant player in the political landscape of the region. To assess whether the SPD will secure the second most seats, it's essential to consider the latest opinion polls, which indicate the party's current standing relative to its competitors.
-
-The SPD's performance in previous elections, voter sentiment, and coalition possibilities are also crucial factors. The webpage includes links to detailed opinion polls, political party profiles, and a coalitions calculator, which can help analyze the SPD's potential to gain seats based on current voting intentions. 
-
-For a more accurate prediction, examining the trends in voter preferences leading up to the election, as well as any shifts in political alliances or emerging issues, will be vital. Overall, while the SPD has a strong historical presence, its ability to secure the second most seats will depend on various dynamic factors leading up to the election.
-
-Title: Germany's nationalist AfD party hopes to take power in 2026
-Author: Aaron Wiener
-Published Date: 2026-01-13T00:00:00.000Z
-URL: https://www.washingtonpost.com/world/2026/01/13/afd-party-germany-state-elections/
-Summary: The article discusses the rising popularity of Germany's nationalist Alternative for Germany (AfD) party, which is now nearly tied with the Christian Democratic Union (CDU) as the most popular party in the country. The AfD, known for its far-right stance and labeled as "right-wing extremist," has positioned itself as a significant player in German politics, particularly if the current CDU-SPD coalition falters. 
-
-While the focus is primarily on the AfD's ambitions for power in the 2026 federal elections, the implications for other parties, including the Social Democratic Party (SPD), are noteworthy. The SPD, as part of the ruling coalition, may face challenges in maintaining its seat count if the AfD continues to gain traction. The dynamics of the coalition and the potential collapse of the CDU-SPD partnership could significantly influence the SPD's performance in the upcoming Rhineland-Palatinate parliamentary elections.
-
-In summary, the AfD's growing influence and the stability of the current coalition are critical factors that could impact the SPD's chances of securing the second most seats in the 2026 elections.
-
-Title: Trend Change Before Rlp State Election 2026? New Survey Shows Shift – Comrades on the Rise
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://ground.news/article/rhineland-palatinate-prime-minister-schweitzer-wants-to-turn-the-elections
-Summary: A recent survey indicates a significant shift in voter sentiment ahead of the 2026 Rhineland-Palatinate parliamentary elections, scheduled for March 22. The Social Democratic Party (SPD) appears to be gaining momentum, positioning itself competitively against the Christian Democratic Union (CDU). The survey suggests that the SPD is moving ahead of the CDU, which could imply a strong chance for the SPD to secure the second most seats in the upcoming elections. This trend may reflect changing political dynamics within the region, making the SPD a key player to watch as the election date approaches.
+Title: Rheinland-Pfalz & Saarland: SPD rückt bis auf einen Prozentpunkt an CDU ran - ntv.de
+Author: n-tv NACHRICHTEN
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.n-tv.de/regionales/rheinland-pfalz-und-saarland/SPD-rueckt-bis-auf-einen-Prozentpunkt-an-CDU-ran-id30406035.html
+Summary: A recent poll conducted by Infratest dimap indicates a close race between the SPD and CDU in Rheinland-Pfalz, with the SPD trailing the CDU by just one percentage point—27% compared to the CDU's 28%. The SPD has gained one percentage point since January, while the CDU has lost one. The survey also shows the SPD's leader, Minister President Alexander Schweitzer, leading in direct voter preference, with 34% support compared to CDU candidate Gordon Schnieder's 17%. Given these trends, the SPD is positioned to potentially secure the second-largest number of seats in the upcoming 2026 state election, possibly surpassing other parties like the AfD, which currently holds 19%.
 
 

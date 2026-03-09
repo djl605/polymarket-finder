@@ -1,57 +1,52 @@
 # Research: Will the number of Republican House members who retire in 2026 be between 32 and 35 inclusive?
 
 **Market ID:** 0xfacaaf8ca81b788f8da594acaf23af2ef90037d82580b91357be35f97229e3a5
-**Researched At:** March 1, 2026 at 06:10:11 AM UTC
+**Researched At:** March 9, 2026 at 04:27:33 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the number of Republican House members who retire in 2026 be between 32 and 35 inclusive?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 24.0¢
 
 ### Summary
 
-With 30 GOP retirements already announced and historical norms pointing to mid-30s retirements, a 35% chance that the final total lands between 32 and 35 seems reasonable. No specific, credible evidence suggests a large mispricing.
+With 32 retirements already confirmed and only a small tail risk of exceeding 35, the fair probability of landing in [32–35] is likely 75–90%, well above the market’s 33%, implying significant upside.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the total number of Republican House members who retire (i.e., do not seek reelection to their current seats) in 2026 be between 32 and 35 inclusive?” A YES outcome requires at least 32 and at most 35 retirements by the final filing deadline (~late August 2026). A NO outcome occurs if the final count is ≤31 or ≥36.
+The market asks whether the total number of retiring Republican U.S. House members in 2026 will land in the inclusive range [32, 35] by the late-August filing deadline. A “YES” requires at least 32 but no more than 35 retirements; a “NO” occurs if retirements end up ≤31 or ≥36.
 
 2. EVIDENCE EVALUATION  
-A. Bearish on YES (evidence that the probability should be lower than 35%):  
-- Newsweek (Feb 6) reports 30 Republicans already announced retirements. That leaves room for only 2–5 more. If the trend slows or if fewer incumbent retirements occur late in the cycle, the final tally could fall below 32.  
-- Historical peak: in 2020 there were 36 GOP retirements; if 2026 ends up at or above that, it would push the total above 35, making NO also possible.  
-- Ballotpedia pieces show just 11 Republicans out of 51 total House members not running, implying possible ambiguity in definitions or data—suggesting uncertainty about how many retire vs. run for other offices.  
+Bullish for YES:  
+• NBC (Mar 5) reports 32 Republicans have already announced retirements—meeting the lower bound TODAY.  
+• PJ Media (Mar 3) notes 31 confirmed with a high likelihood of a few more, making the [32–35] range very plausible.  
+• Terry Lawson (Feb 8) sees 30 announced and expects at least 2–5 additional retirements, again pointing squarely into [32–35].  
+All three are recent, credible news outlets specializing in political coverage.
 
-B. Bullish on YES (evidence that the probability should be higher than 35%):  
-- Historical retirement patterns: ~10% of members retire; for Republicans that may translate into mid-30s retirements, making the 32–35 band squarely in line with expectations.  
-- The Newsweek trend (30 already) plus 6–7 months left before deadlines makes it quite plausible that 2–5 more announcements will occur as competitive districts crystallize and as member circumstances change.  
-
-C. Source credibility and recency:  
-- All cited articles are from early February 2026, highly recent. Newsweek and AP are generally reliable aggregators; Ballotpedia is authoritative on election data but its counts focus on different definitions (retiring vs. seeking other offices).  
-- The conflicting Republican totals between Newsweek (30) and Ballotpedia (11) highlight definitional differences rather than definitive new information.  
+Bearish/NO risk:  
+• Further retirements could push the total beyond 35; e.g., if 4+ more Republicans step down, the market resolves NO. However, most retirements occur early, and to exceed 35 would require an unusually large late wave.  
+• The Washington Post and Examiner pieces describe rising overall retirements but do not break out Republican numbers precisely, offering no concrete evidence that GOP retirements will exceed 35.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 35% price implies traders see a roughly one‐in‐three chance that retirements land in that narrow range. Given current data (30 retirements) and historical norms (mid-30s retirements), that seems plausible.  
-- Low volume suggests only a few informed traders have engaged—but the fact that the price is not extreme (near 0% or 100%) implies at least some consensus that the outcome is uncertain.  
-- The market could be overlooked by institutional traders since retirements are less dramatic than seat‐level contests, but the available public data likely reflects most of what informed participants know.  
+A 33% probability implies traders see a two-thirds chance of either too few (<32) or too many (≥36). But with 32 already locked in, the only risk is overshooting the top of the band.  
+• If informed traders recognize that 32 is firm and that only a small late-cycle tail risk remains of hitting ≥36, the fair price for “YES” might be closer to 70–80%.  
+• Low volume and tight spread suggest a handful of participants pricing in a large overshoot risk or simply setting an initial exploratory price.
 
 4. MISPRICING ASSESSMENT  
-- There is no clear, specific piece of evidence (e.g., leaked retirements, dramatic shifts in political climate) missing from public view that would shift the probability by >20 cents.  
-- The main uncertainty is how many additional retirements will occur; that uncertainty is already priced in.  
-- Thus, while low volume implies potential inefficiency, there’s no credible gap between available data and the market price large enough to justify a significant bet.  
+All available evidence points to the lower bound of 32 being met and to a modest chance of overshoot beyond 35—likely in the 10–25% range. Thus a more reasonable probability of “YES” is on the order of 75–90%, substantially above the current 33%. There is no credible evidence suggesting retirements will collapse back below 32, and the odds of ≥36 are quite low given typical announcement timing.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that the market is mispriced: ~20% (weak, because we lack concrete leads on retirements).  
-- Magnitude of potential mispricing: ~5 cents (small, given the narrow outcome band and current announcements).  
-- Expected value ≈ 20% × 5 cents = 1 cent.  
+Strength of evidence: 60% (multiple recent, independent reports and a confirmed floor of 32).  
+Estimated magnitude of mispricing: ~40 cents (market at 33% vs. fair estimate ~75%).  
+Expected value = 0.60 × 40 cents = 24 cents
 
-EXPECTED_VALUE: 1  
-SUMMARY: With 30 GOP retirements already announced and historical norms pointing to mid-30s retirements, a 35% chance that the final total lands between 32 and 35 seems reasonable. No specific, credible evidence suggests a large mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 24.0  
+SUMMARY: With 32 retirements already confirmed and only a small tail risk of exceeding 35, the fair probability of landing in [32–35] is likely 75–90%, well above the market’s 33%, implying significant upside.  
+CONFIDENCE: medium
 
 ---
 
@@ -59,60 +54,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Here Are the 30 House Republicans Bailing on 2026 Midterm Reelection Bids - Newsweek
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: http://mag.newsweek.com/house-republicans-not-running-reelection-2026-midterms-11480651
-Summary: The article from Newsweek reports that 30 House Republicans, including notable figures like Mark Amodei and Elise Stefanik, have announced they will not seek reelection in the 2026 midterms. This number is part of a broader trend, as a total of 51 lawmakers (30 Republicans and 21 Democrats) have already ruled out their bids for reelection. Historically, around 10% of House members retire each year, with fluctuations between parties. The 2026 cycle is already seeing a significant number of retirements compared to previous years, such as 2020, when 36 Republicans chose not to run again.
+Title: 52 House Members Aren't Running for Re-Election, Making the Midterms a Crapshoot for Both Parties – PJ Media
+Author: Rick Moran
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://pjmedia.com/rick-moran/2026/03/03/52-house-members-arent-running-for-re-election-making-the-midterms-a-crapshoot-for-both-parties-n4950184
+Summary: In 2026, a record-high number of 52 House members are retiring, with 31 Republicans and 21 Democrats leaving. Historically, retirements have varied, but this year’s figures suggest a significant exodus, potentially surpassing the previous high of 65 in 1992. The retirements are driven by factors such as age, pursuit of higher office, redistricting, and political pressures, including difficulties related to former President Trump. Given that 31 Republicans are already confirmed to retire, it is highly likely that the total Republican retirements will fall within the range of 32 to 35, considering the ongoing decision-making process and the possibility of additional retirements before the primaries.
 
-Given this context, predicting whether the number of Republican retirements will fall between 32 and 35 seems plausible, as the current count is already at 30, and the trend suggests that more retirements could occur as the election approaches. Factors influencing this could include political pressures, personal decisions, and the overall climate within the Republican Party as they navigate potential challenges in maintaining their majority.
+Title: Here Are The Numerous Republicans Reportedly Leaving Congress
+Author: Terry Lawson
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://polinews.org/here-are-the-numerous-republicans-reportedly-leaving-congress/
+Summary: A recent trend shows a significant number of Republican House members, including Nevada's Mark Amodei, announcing they will not seek reelection in 2026, with the total now at 30. Historically, about 10% of House members retire annually, with previous years seeing between 33 and 52 lawmakers stepping down, predominantly Republicans. Factors influencing these retirements include internal party pressures, the impact of Donald Trump's influence over Congress, and the anticipation of a challenging reelection environment post-2026 midterms. Given these patterns and the current trajectory, it is plausible that the number of Republican House retirements in 2026 could fall within the range of 32 to 35.
+
+Title: House lawmakers are heading for the exit at fastest rate in decades
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/congress/house-lawmaker-retirements-hit-second-century-rcna261850
+Summary: The article reports that 32 House Republicans have announced they will not seek re-election in 2026, which is within the range of 32 to 35. Given that this number is already confirmed and the total departures for the cycle are high—second only to 2018—it is plausible that the number of retiring Republican House members could remain within this range, especially considering current trends and the fact that many GOP lawmakers are pursuing other political opportunities like gubernatorial or Senate races.
 
 Title: Where House and Senate retirements stand in 2026
 Author: Rachel Schilke
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.washingtonexaminer.com/news/4040585/where-house-retirements-stand-end-2025/
-Summary: The article discusses the current landscape of retirements among House and Senate members as the 2026 elections approach. While specific numbers for Republican retirements are not detailed, the overall trend indicates a significant number of retirements could occur, influenced by various factors such as political climate, individual member circumstances, and electoral pressures.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.washingtonexaminer.com/%22https:/www.washingtonexaminer.com/news/4040585/where-house-senate-retirements-stand-2026/%22
+Summary: The article discusses the current landscape of retirements among House and Senate members leading up to 2026, highlighting trends and factors influencing congressional turnover. While specific numbers of retirements are not detailed, it emphasizes that retirements are a significant factor shaping future congressional composition, with some indications that retirements among House Republicans could be substantial. Given the context, if historical patterns and current signals suggest a notable number of Republican House members may retire, it is plausible that the number could fall within the range of 32 to 35. However, precise predictions would require detailed data on current retirements and political dynamics, which the article suggests are evolving but not definitively quantified.
 
-To predict whether the number of Republican House members retiring in 2026 will fall between 32 and 35, consider the following points:
-
-1. **Historical Trends**: Analyze past retirement rates among Republicans in previous election cycles, particularly in midterm years, to gauge potential patterns.
-
-2. **Political Climate**: The current political environment, including approval ratings and key issues, may impact members' decisions to retire. If Republicans face challenges in maintaining their majority, this could lead to increased retirements.
-
-3. **Member Demographics**: The age and tenure of current Republican House members may also play a role. A higher concentration of older members could suggest a greater likelihood of retirements.
-
-4. **Electoral Pressure**: Members in competitive districts may opt to retire rather than risk losing their seats, especially if they perceive a challenging election ahead.
-
-5. **Party Strategy**: The Republican Party's strategy for the 2026 elections, including potential recruitment of new candidates, could influence current members' decisions to retire.
-
-Overall, while the article does not provide specific predictions, these factors could help inform an assessment of whether the number of Republican retirements will indeed fall within the
-
-Title: Tracking U.S. House retirement announcements | AP News
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://apnews.com/projects/2026-congressional-retirements-tracker
-Summary: The AP News article on tracking U.S. House retirement announcements provides a methodology for analyzing congressional retirements, including data on party makeup and historical trends. It distinguishes between members who retire, resign, or die in office, which is crucial for understanding retirement patterns. The article notes that retirement announcements are manually collected from news reports and official releases, and it includes specific cases of representatives who announced retirements but resigned before their terms ended.
-
-To predict whether the number of Republican House members retiring in 2026 will fall between 32 and 35, one could analyze historical retirement trends, particularly focusing on the Republican party's retirement rates in previous election cycles. The article suggests that retirement patterns can vary significantly based on political climate, upcoming elections, and individual member decisions. Therefore, examining past data, including the number of retirements in previous cycles and any shifts in party dynamics, could provide insights into the likelihood of reaching that specific range of retirements in 2026.
-
-Title: Rep. Barry Loudermilk becomes the 50th U.S. House member who is not seeking re-election in 2026 - Ballotpedia News
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://news.ballotpedia.org/2026/02/06/rep-barry-loudermilk-becomes-the-50th-u-s-house-member-who-is-not-seeking-re-election-in-2026/
-Summary: Rep. Barry Loudermilk (R-Ga.) recently announced he will not seek re-election in 2026, becoming the 50th U.S. House member to do so. His retirement adds to a growing trend, with 59 members of Congress (including 9 senators) opting out of the upcoming election cycle. Among the 50 House members not running again, 10 are Republicans who are retiring from public office, while others are pursuing different political positions, such as governor or U.S. Senate seats.
-
-As of early February 2026, the Republican Party has a solid hold on Loudermilk's district, rated as Solid Republican by The Cook Political Report and Safe Republican by Sabato’s Crystal Ball. This context suggests that while Loudermilk's retirement is significant, it is part of a broader pattern of Republican retirements, which could influence predictions about the total number of Republican House retirements in 2026. 
-
-Given that there are currently 10 Republican retirements among the 50 total, the possibility of reaching a total of 32 to 35 Republican retirements seems plausible, especially considering historical trends of retirements in previous election cycles.
-
-Title: Mark Amodei becomes the 51st U.S. House member who is not seeking re-election in 2026 - Ballotpedia News
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://news.ballotpedia.org/2026/02/09/mark-amodei-becomes-the-51st-u-s-house-member-who-is-not-seeking-re-election-in-2026/
-Summary: Rep. Mark Amodei (R-Nev.) recently announced he will not seek re-election in 2026, becoming the 51st U.S. House member to do so. His retirement adds to a growing trend, as 11 Republicans, including Amodei, are among those not running for re-election. The current political landscape indicates that the 2026 general election for Amodei's district is rated as Solid Republican, suggesting a stable environment for GOP incumbents. 
-
-Historically, the number of Republican retirements has varied, with 11 Republicans retiring this cycle compared to previous years where the total number of retirements was lower (e.g., 8 in 2024). If the trend continues, it is plausible that the number of Republican retirements could fall within the range of 32 to 35, especially considering that 51 House members have already announced their decision not to run again. 
-
-Overall, the current data suggests a significant number of retirements, but predicting whether it will specifically fall between 32 and 35 will depend on future announcements and the political climate as the election approaches.
+Title: More lawmakers are quitting Congress ahead of the midterm elections - Washington Post
+Author: Marianna Sotomayor
+Published Date: 2026-02-22T00:00:00.000Z
+URL: https://www.washingtonpost.com/politics/interactive/2026/congress-midterms-lawmakers-quit/?itid=sf_politics_toptable_1_2
+Summary: The article reports a significant increase in congressional retirements ahead of the 2026 midterm elections, with 68 lawmakers (both House and Senate) announcing they will not seek reelection. Notably, 31 of these are running for other offices, such as governor or Senate, indicating a trend of lawmakers leaving Capitol Hill for other political roles. While the article highlights that the number of retirements is higher than in recent cycles, it does not specify the exact number of retiring House Republicans. Therefore, based on the information provided, it is unclear whether the number of retiring Republican House members in 2026 will fall between 32 and 35 inclusive.
 
 

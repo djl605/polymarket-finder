@@ -1,54 +1,51 @@
 # Research: Will Carnita Atwater win the 2026 Tennessee Governor Democratic primary election?
 
 **Market ID:** 0x7351fc78d06ad1bf25ee4e4f07d6e404451ba7ea062a4ce968ccdea9145a1ec3
-**Researched At:** March 2, 2026 at 02:55:50 PM UTC
+**Researched At:** March 9, 2026 at 04:27:16 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Carnita Atwater win the 2026 Tennessee Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 0.5¢
 
 ### Summary
 
-There is no quantitative evidence (polling, fundraising, endorsements) suggesting Atwater’s win probability deviates materially from 20.5%, and known competition (e.g., Jerri Green) supports the market’s outsider valuation. Investigation upside is limited.
+Evidence is too sparse to conclude the 15.5% price is materially mispriced; no polling, fundraising, or endorsement data are missing that would swing the probability drastically. Early uncertainty and low trading volume make the current estimate plausible in absence of contrary data.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Carnita Atwater will win the Tennessee Democratic gubernatorial primary on August 6, 2026. A YES requires her to secure the most votes (including any run-off); NO covers any other winner or no primary occurring.
+The market asks: “Will Carnita Atwater win the 2026 Tennessee Governor Democratic primary?” It resolves YES if she emerges as the overall winner (including any run-off) of the Aug. 6, 2026 Democratic primary, and NO otherwise (or “Other” if no primary occurs).
 
 2. EVIDENCE EVALUATION  
-Bullish for Atwater:  
-- News‐Herald (Feb 25) notes active local campaigning, signaling organizational engagement.  
-- Tennessee Democratic Party’s improved resources (Vivian Jones, Feb 15) could benefit all Democratic hopefuls, including Atwater.  
-
-Bearish or neutral:  
-- No polling, fundraising figures, endorsements, or internal data on Atwater’s standing have emerged.  
-- A high‐profile contender, Jerri Green, is already leading on education policy (Andy Spears, Feb 16), suggesting strong intra‐party competition.  
-- General 2022 gubernatorial context shows Democrat performance varies by state, but Tennessee remains a challenging environment.  
-
-Source credibility is moderate to high (regional press, Tennessean, Wikipedia), but none provide quantitative support for a >20% win probability for Atwater. The absence of direct polling or fund‐raising data implies the market price may simply reflect a rough estimate of an underdog candidacy in a red‐leaning state.
+• No polling, fundraising totals, endorsement lists, or statewide polling data on Atwater vs. her main rival (Jerri Green) are provided in the research.  
+• All sources either note that results aren’t yet available (NPR) or describe a local Feb. 21 candidate forum in Rutherford County, which by itself offers no quantitative measure of statewide support.  
+• There is no indication that Atwater has a substantial statewide organization or leads in surveys; nor is there evidence she is a distant long-shot beyond generic early uncertainty.  
+• Source credibility is high but informationally thin and all are from early March 2026—too soon for meaningful metrics.  
+• Bullish case: only two gubernatorial Democrats are named, implying a two-candidate contest where each might start near 50%; no evidence that Green vastly outpaces Atwater.  
+• Bearish case: absence of broader polling or fundraising might suggest Atwater has not broken out of obscurity, justifying a sub-20% probability.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 20.5% price could reflect:  
-- Genuine consensus that Atwater is an outsider against better‐known opponents, with roughly one‐in‐five odds in a contested primary.  
-- A single or few traders setting an uninformed estimate in a low‐volume market.  
-Given no major public information gaps (polls, endorsements) and presence of a standout rival, the price does not scream obvious mispricing.
+• A 15.5% price could simply reflect an uninformed estimate by one or two traders amid low volume, rather than aggregated expert opinion.  
+• Alternatively, it could reflect a genuine (but unpublicized) view that Atwater is a second-tier candidate in a low-profile primary.  
+• Low trading volume likely stems from the lack of public data rather than a clear, uncontested outcome.  
 
 4. MISPRICING ASSESSMENT  
-No concrete polling or fundraising edge for Atwater has emerged that the market appears to ignore. Conversely, known competition from Jerri Green suggests caution against overvaluing Atwater. With no strong evidence in either direction, we cannot confidently assert a mispricing beyond a few cents.
+• No concrete polling or fundraising numbers are missing from the market price—traders have almost no hard data to go on.  
+• The 15.5% figure sits comfortably within an plausible “guess range” given total uncertainty (e.g., 5–30%).  
+• There is no specific, credible evidence indicating the price is off by more than a few cents.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 20% (scant, mostly qualitative)  
-Magnitude of mispricing = ~5¢ (max plausible error in such a market)  
-Expected value ≈ 0.20 × 5¢ = 1¢
+• Strength of evidence: 10% (very limited).  
+• Magnitude of mispricing: conservatively 5¢ (if you believe it’s slightly off).  
+• Expected value = 0.10 × 5¢ = 0.5¢  
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: There is no quantitative evidence (polling, fundraising, endorsements) suggesting Atwater’s win probability deviates materially from 20.5%, and known competition (e.g., Jerri Green) supports the market’s outsider valuation. Investigation upside is limited.  
-CONFIDENCE: low
+EXPECTED_VALUE: 0.5  
+SUMMARY: Evidence is too sparse to conclude the 15.5% price is materially mispriced; no polling, fundraising, or endorsement data are missing that would swing the probability drastically. Early uncertainty and low trading volume make the current estimate plausible in absence of contrary data.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,55 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Tennessee Democrats play the long game, eye state resurgence
-Author: Vivian Jones
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://www.tennessean.com/story/news/politics/2026/02/15/tn-democrats-future-elections/88181129007/
-Summary: This article discusses the Tennessee Democratic Party's strategy for the upcoming elections. Key points include:
+Title: Tennessee Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/TN.html
+Summary: The webpage provides the upcoming 2026 Tennessee primary election results, including races for governor, U.S. Senate, and U.S. House, but currently no results are available. Since Carnita Atwater is a candidate in the Democratic primary for governor, there is no existing data or results to assess her chances of winning at this time. To predict her success, one would need to consider factors such as her campaign momentum, voter support, polling data, and historical primary trends, none of which are provided on this page.
 
-*   **Focus on the Long Game:** The party is prioritizing building a strong foundation through local elections and organizing efforts, rather than solely focusing on statewide races.
-*   **Emphasis on Down-Ballot Races:** The party is targeting races like school boards and county commissions to increase the number of Democratic elected officials.
-*   **Increased Resources:** The Tennessee Democratic Party is receiving support from the Democratic National Committee (DNC) and raising more money from in-state donors.
-*   **County-Level Organization:** Local parties are now organized in all 95 counties in Tennessee.
+Title: Updates on Tennessee 2026 state legislature primaries - Memphis Local, Sports, Business & Food News | Daily Memphian
+Author: Bill Dries
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://dailymemphian.com/section/metroelections/article/60496/taylor-faces-potential-democratic-challenger-2026
+Summary: The article reports that all 13 incumbent state House members and three state senators representing Shelby County have filed their petitions for the 2026 Tennessee legislative primaries, with the deadline for challengers set for March 10. While it provides updates on local political activity and candidate filings, it does not specify any candidates for the gubernatorial race, including Carnita Atwater. Therefore, there is no direct information in this article to predict whether Carnita Atwater will win the 2026 Tennessee Democratic primary for governor.
 
-While the article doesn't mention specific candidates for the 2026 Tennessee Governor's race, the strategies and resources discussed could be relevant to Carnita Atwater's campaign if she were to run. The success of the party's overall strategy, fundraising efforts, and ability to build a strong base at the local level could influence the outcome of the primary.
+Title: Democrats in Rutherford Co. to hold forum for governor, Congress seats
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://eu.tennessean.com/story/news/2026/02/19/democrats-in-rutherford-co-to-hold-forum-for-governor-congress-seats/88739731007/
+Summary: The upcoming "When Women Lead: Candidate Forum" in Rutherford County on February 21, 2026, will feature two candidates vying for the Democratic nomination for Tennessee governor—Dr. Carnita Atwater and Jerri Green—as well as Victoria Broderick, who is running for U.S. House District 4. The event provides an opportunity to observe their campaign positions and public engagement, which could offer insights into their support within the Democratic base. While the forum itself does not predict election outcomes, it may serve as a platform to gauge candidate momentum and voter interest ahead of the primary.
 
+Title: Democrats in Rutherford Co. to hold forum for governor, Congress seats
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://www.tennessean.com/story/news/2026/02/19/democrats-in-rutherford-co-to-hold-forum-for-governor-congress-seats/88739731007/
+Summary: The upcoming "When Women Lead: Candidate Forum" in Rutherford County on February 21, 2026, will feature two candidates vying for the Democratic nomination for Tennessee governor—Dr. Carnita Atwater and Jerri Green—as well as Victoria Broderick, who is running for U.S. House District 4. The event provides an opportunity to observe their campaign positions, debate skills, and voter engagement strategies. While the forum itself does not predict election outcomes, it offers valuable insights into Atwater's campaign momentum and voter support, which could influence her chances in the Democratic primary.
 
-Title: Gubernatorial candidate Green stops in Lenoir City on campaign trail | News | news-herald.net
-Author: Adam Delahoussaye adam.delahoussaye@news-herald.net
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.news-herald.net/news/gubernatorial-candidate-green-stops-in-lenoir-city-on-campaign-trail/article_b703faaf-3f1f-4b05-a498-e510d633d53e.html
-Summary: The article discusses gubernatorial candidate Carnita Atwater's recent campaign stop in Lenoir City as part of her efforts leading up to the 2026 Tennessee Governor Democratic primary election. While the text does not provide specific polling data or predictions regarding her chances of winning, it highlights her engagement with local communities and voters, which can be a crucial factor in her campaign's success. Observing her campaign strategy, public reception, and key issues she addresses may offer insights into her potential performance in the primary. Additionally, monitoring the political landscape, including her opponents and voter sentiment, will be essential for predicting the outcome of the election.
-
-Title: Fritts makes it official | State | themountainpress.com
-Author: Adam Delahoussaye adam.delahoussaye@news-herald.net
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.themountainpress.com/news/state/fritts-makes-it-official/article_7f203a97-b863-5ebd-acc3-3437c555c895.html
-Summary: I am sorry, but this webpage does not contain any information about Carnita Atwater or the 2026 Tennessee Governor Democratic primary election. The webpage is a directory for the Mountain Press newspaper.
-
-
-Title: 2022 United States gubernatorial elections - Wikipedia
-URL: https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections
-Summary: The 2022 United States gubernatorial elections, held on November 8, 2022, involved 36 states and three territories. The elections were part of the midterm elections and saw the Democratic Party perform better than anticipated, gaining two seats while the Republican Party lost two, resulting in a close popular vote. The Democrats secured 49.29% of the vote compared to the Republicans' 49.05%. 
-
-For predicting Carnita Atwater's chances in the 2026 Tennessee Governor Democratic primary, consider the following factors from the 2022 elections: 
-
-1. **Democratic Performance**: The 2022 elections showed a strong Democratic presence in key states, which could indicate a favorable environment for Democratic candidates in upcoming elections.
-
-2. **Voter Sentiment**: The outcomes in states like Michigan and Pennsylvania, where Democrats performed well, suggest that voter sentiment may be shifting, potentially benefiting candidates like Atwater.
-
-3. **Local Dynamics**: Tennessee's political landscape, including demographic changes and local issues, will be crucial in assessing Atwater's viability. 
-
-4. **Primary Competition**: The level of competition within the Democratic primary and Atwater's ability to mobilize support will also be significant factors.
-
-Overall, while the 2022 elections provide some context, local dynamics and Atwater's campaign strategy will ultimately determine her chances in the 2026 primary.
-
-Title: Green Stands Up for Tennessee Public Schools | by Andy Spears | Feb, 2026 | Medium
-Author: Andy Spears
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://building.theatlantic.com/green-stands-up-for-tennessee-public-schools-7e98a3a86f49
-Summary: The article discusses Jerri Green, a prominent Democratic candidate for Governor of Tennessee, who is a strong advocate for public schools. In contrast to leading Republican candidates who support expanding the state's school voucher program, Green calls for an end to this initiative, emphasizing the need for robust public education and responsible use of taxpayer funds. Her stance against privatization and for investment in public schools could resonate with voters concerned about education issues, potentially influencing her chances in the Democratic primary. 
-
-While the article does not mention Carnita Atwater directly, understanding Green's position on education and her appeal to Democratic voters may provide insights into the primary landscape and the factors that could affect Atwater's candidacy. The outcome of the primary could hinge on candidates' education policies, voter sentiment towards public versus private schooling, and overall Democratic unity on these issues.
+Title: Democrats in Rutherford Co. to hold forum for governor, Congress seats
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: http://dnj.com/story/news/2026/02/19/democrats-in-rutherford-co-to-hold-forum-for-governor-congress-seats/88739731007/
+Summary: The "When Women Lead: Candidate Forum" in Rutherford County on February 21, 2026, will feature three Democratic candidates: Dr. Carnita Atwater and Jerri Green competing for the Tennessee governor's seat, and Victoria Broderick running for U.S. House District 4. The event offers an opportunity to observe their positions and campaign strategies, which could provide insights into their support within the party. However, the forum alone does not predict primary election outcomes, as factors like campaign momentum, voter turnout, and statewide support will also influence the result.
 
 

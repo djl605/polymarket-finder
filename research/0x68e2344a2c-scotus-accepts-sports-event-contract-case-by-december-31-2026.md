@@ -1,7 +1,7 @@
 # Research: SCOTUS accepts sports event contract case by December 31, 2026?
 
 **Market ID:** 0x68e2344a2ce725ca99f3b93df06f27a71f3a893a38e8a6a78f8d85bd2698eb20
-**Researched At:** March 2, 2026 at 02:53:58 PM UTC
+**Researched At:** March 9, 2026 at 04:27:53 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: SCOTUS accepts sports event contract case by December 31, 2026?"
 
 ---
@@ -9,42 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Ongoing district-court conflicts and a pivotal Maryland decision make cert plausible, but no qualifying case is yet ripe for Supreme Court review this year. A ~42.5% probability reasonably balances the litigation’s importance against procedural delay, with no clear mispricing above a few cents.
+Given the circuit splits and high-level lobbying, a moderate chance that SCOTUS takes up sports‐contract cert is justified, but the Court’s limited docket and uncertain petition timing cap the probability. No clear evidence of a large mispricing exists.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether SCOTUS will grant certiorari by 12/31/2026 in a case explicitly about sports-event contracts (derivatives status, CFTC preemption of gambling laws, or legality of offerings). A “Yes” requires an order on the SCOTUS docket by that date; “No” covers any failure to do so.
+The market asks whether SCOTUS will grant certiorari by Dec 31, 2026 in a case squarely about sports event contracts and their treatment under the Commodity Exchange Act or state gambling laws. “Yes” requires an order granting cert in a qualifying case posted to the official docket by that deadline; anything short of that (no grant, grant in a tangential case, or grant after the cutoff) resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish for YES (pushing price up):  
-- McCann (2/26/26): Highlighted conflicting district rulings (e.g., Tennessee injunction for Kalshi) creating a circuit split ripe for SCOTUS review.  
-- Tyler (2/10/26): A pivotal Maryland decision plus multiplying state suits suggest the issue is attracting national attention and could reach SCOTUS quickly.  
+Bullish for “Yes”:  
+• Multiple federal‐circuit splits and injunctions (e.g., Tennessee court favoring Kalshi) make SCOTUS review more likely.  
+• Industry heavyweights (PENN’s CEO) are explicitly lobbying for a fast cert grant.  
+• CFTC’s public regulatory posture highlights unresolved federal/state conflicts.  
 
-Bearish for YES (pushing price down):  
-- Neither article identifies an existing circuit‐level split—MD decision and TN injunction aren’t yet at appellate resolution—so a petition likely won’t be ripe for SCOTUS until late 2026 or 2027.  
-- Tyler flags Congress as a possible resolution path, which could defer a SCOTUS cert grant past 2026.  
-- Westforth Sports v. City of Chicago (2/2/26) is on personal-jurisdiction, not sports contracts, so doesn’t qualify, underscoring that no qualifying petition is yet before SCOTUS.  
+Bearish for “Yes”:  
+• SCOTUS grants only ~70 cases per term—competition for cert is fierce and this niche may not make the cut.  
+• Congress might legislate, defusing judicial need.  
+• Conflicting CFTC statements could mean administrative rather than judicial resolution.  
 
-Source credibility is high (Sportico, The Gaming Boardroom, SCOTUSblog), and all are recent. Nothing suggests traders have overlooked a publicly known petition or split—they’ve likely priced in the theoretical conflict but also the procedural timeline.  
+All sources are from Feb–Mar 2026 and come from reputable legal and industry outlets. None point to a filed petition on SCOTUS’s cert “merits docket” yet.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 42.5% implies recognition of (a) cert is plausible given growing litigation, and (b) the procedural delay and absence of a ripe petition reduce odds. Low volume likely reflects a niche topic and uncertainty over whether any qualifying case even reaches SCOTUS by year’s end. It plausibly represents modest consensus among the few specialists who trade here.
+The 56% price plausibly reflects informed bettors balancing a high likelihood of a circuit split appeal with the low absolute probability of SCOTUS picking this specific gamble. Low volume suggests a handful of specialists rather than deep consensus, but the spread is tight, indicating at least some engagement by informed parties.  
 
 4. MISPRICING ASSESSMENT  
-There is no indication of a filed petition on the merits or a pending circuit split ripe for SCOTUS decision within this calendar year. All evidence points to an uncertain but clearly bounded timeline: appellate briefing and circuit rulings still pending. A sub-50% price seems reasonable; there is no credible evidence for a >20-cent gap.  
+There is no clear, publicly available signal that the probability should be dramatically above or below 56%. The case’s novelty and strategic importance argue for a price above 50%, yet SCOTUS’s limited docket and competing agenda caps it well below certainty. No specific, credible data point is missing here that would support >20¢ mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market already reflects known litigation dynamics and procedural timeline: ~40%.  
-Magnitude of potential mispricing if traders underweight the Tennessee/MD conflict: ~5¢.  
-Expected value ≈ 40% × 5¢ = 2.0¢.
+Strength of evidence: 30% (info is recent and solid but likely already baked in)  
+Magnitude of mispricing: 5¢ (if anything, the error is small)  
+Expected value = 0.30 × 5¢ = 1.5¢  
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Ongoing district-court conflicts and a pivotal Maryland decision make cert plausible, but no qualifying case is yet ripe for Supreme Court review this year. A ~42.5% probability reasonably balances the litigation’s importance against procedural delay, with no clear mispricing above a few cents.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Given the circuit splits and high-level lobbying, a moderate chance that SCOTUS takes up sports‐contract cert is justified, but the Court’s limited docket and uncertain petition timing cap the probability. No clear evidence of a large mispricing exists.  
 CONFIDENCE: medium
 
 ---
@@ -53,50 +54,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: U.S. Supreme Court Could Have Final Say on Sports Prediction Markets
-Author: Michael McCann
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.sportico.com/law/analysis/2026/scotus-sports-prediction-markets-kalshi-1234885638/
-Summary: The U.S. Supreme Court may soon decide the fate of sports prediction markets, as conflicting rulings from federal district judges raise the possibility of intervention. A recent case in Tennessee involves Kalshi, a federally regulated prediction market, which has been granted an injunction against state officials who argue that it must comply with state sports betting laws. Kalshi contends that it is not obligated to follow these laws, citing the Commodity Exchange Act of 1936, which grants regulatory authority over commodities and futures to the Commodity Futures Trading Commission (CFTC).
+Title: SCOTUS accepts sports event contract case by...? · Market Ahead
+Author: Market Ahead
+URL: https://www.marketahead.com/event/scotus-accepts-sports-event-contract-case-by-july-31-2026
+Summary: The webpage details a prediction market event regarding whether the U.S. Supreme Court (SCOTUS) will grant certiorari to a case concerning the legality, regulation, or jurisdiction over sports event contracts by July 31, 2026. The case must address issues such as whether sports outcome contracts are regulated derivatives under the Commodity Exchange Act, federal preemption of state gambling laws by the Commodity Futures Trading Commission, or the legality of sports contracts offered by federally licensed markets. The event is active, with a deadline of December 31, 2026, for the outcome, and the market will resolve "Yes" if certiorari is granted before that date. This information is relevant for predicting whether SCOTUS will accept such a case by December 31, 2026, as the decision depends on the court's certiorari grant, which is publicly confirmed via official legal channels.
 
-The Supreme Court's review could hinge on various factors, including the balance between federal authority and states' rights, as well as the business-friendly tendencies of the justices. Given the current legal landscape and the complexities involved, predicting whether the Supreme Court will accept a case regarding sports event contracts by December 31, 2026, remains uncertain. However, the ongoing legal disputes and the potential for a Supreme Court ruling suggest that developments in this area are likely to unfold in the near future.
+Title: Prediction Markets At A Crossroads: The Continued Jurisdictional Battle Over Event Contracts - Commodities/Derivatives/Stock Exchanges - United States
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://dev.mondaq.com/unitedstates/commoditiesderivativesstock-exchanges/1750376/prediction-markets-at-a-crossroads-the-continued-jurisdictional-battle-over-event-contracts
+Summary: The article discusses ongoing legal and regulatory battles in the U.S. over prediction markets, particularly sports event contracts. The CFTC asserts federal jurisdiction, claiming these contracts are derivatives ("swaps") and thus preempt state regulation, as evidenced by recent court rulings like the Tennessee federal court's preliminary injunction favoring Kalshi. Conversely, some state regulators in Nevada, Massachusetts, and Tennessee challenge this view, emphasizing traditional police powers over gambling. The legal landscape is fractured, with federal courts increasingly supporting CFTC's preemption stance, while state courts pursue enforcement actions. Given the recent judicial developments and the CFTC's firm stance, there is a significant likelihood that the Supreme Court could accept a case related to sports event contracts by the end of 2026 to clarify jurisdictional authority.
+
+Title: PENN CEO Hopes Prediction Market Lawsuits Get to SCOTUS ASAP
+Author: 
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.covers.com/industry/penn-prediction-markets-supreme-court-sports-betting-thescore-february-2026
+Summary: The article highlights PENN Entertainment's CEO, Jay Snowden, expressing a strong desire for the U.S. Supreme Court to quickly address the legal uncertainties surrounding prediction markets, particularly those related to sports event contracts. Currently, the legal landscape is highly unclear, with ongoing litigation involving regulators and prediction markets, which are viewed by some regulators as illegal gambling. PENN is cautious about launching its own prediction market platform due to the risk to its valuable gaming licenses, emphasizing the importance of legal clarity. Snowden’s comments suggest that a Supreme Court decision on the legality of prediction markets could significantly influence the industry, and he advocates for expedited judicial review, implying that a ruling by December 31, 2026, would be highly impactful for predicting the future of prediction markets and their intersection with sports betting regulation.
 
 Title: Prediction markets: Will Supreme Court or Congress settle the issue? – The Gaming Boardroom
 Author: Steve Tyler
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://thegamingboardroom.com/2026/02/10/prediction-markets-will-supreme-court-or-congress-settle-the-issue/
-Summary: This article discusses the legal battle over sports prediction markets, which could be relevant to predicting whether the Supreme Court will accept a case related to sports event contracts by December 31, 2026. Key points include:
+Summary: If the Supreme Court accepts the sports event contract case by December 31, 2026, it could significantly influence the ongoing legal battle over prediction markets. Currently, states, tribes, and prediction‑market firms are engaged in a complex dispute over whether these markets are regulated as gambling under state law or fall under federal oversight by the CFTC. A Supreme Court decision would likely clarify whether prediction markets related to sports events are permissible under existing federal law or if state regulation prevails. This ruling could either uphold the federal oversight framework, potentially allowing prediction markets to operate more freely, or affirm state authority, leading to increased regulation and licensing requirements at the state level. The case's outcome may also impact the broader regulatory landscape, possibly prompting Congress to intervene with new legislation. Overall, acceptance of the case by SCOTUS would be a pivotal moment, potentially resolving the legal ambiguity and shaping the future of sports prediction markets in the U.S.
 
-*   **Multiplying Lawsuits:** Numerous states are taking action against prediction markets, indicating a growing legal challenge.
-*   **Maryland Decision:** A pivotal federal court decision in Maryland has spurred more state suits.
-*   **State vs. Federal Authority:** States and tribes argue prediction markets cannot avoid state regulation by claiming CFTC authority.
-*   **Geofencing:** The increasing use of geofencing weakens operators' legal claims.
-*   **CFTC Involvement:** The CFTC's potential role is uncertain, but it could change its stance.
-*   **Possible Endgames:** The dispute could be resolved through continued litigation, a Supreme Court decision (potentially in 2028), or Congressional action.
-
-The outcome of this dispute will reshape who controls licensing, revenue, and integrity controls for sports prediction markets, making it a key factor in determining if the Supreme Court will get involved.
-
-
-Title: New Trick, Same Crime? Insider Trading on Prediction Markets
-Published Date: 2026-02-26T14:53:36.677Z
-URL: https://www.kslaw.com/news-and-insights/new-trick-same-crime-insider-trading-on-prediction-markets
-Summary: The article "New Trick, Same Crime? Insider Trading on Prediction Markets" discusses the implications of insider trading within the context of prediction markets, particularly as they relate to sports events and contracts. It highlights the legal challenges and regulatory scrutiny these markets face, especially in light of potential insider information influencing market outcomes. 
-
-As the Supreme Court of the United States (SCOTUS) considers cases related to sports event contracts, understanding the dynamics of prediction markets could be crucial. The article suggests that if insider trading is prevalent in these markets, it may affect the legitimacy of predictions regarding sports contracts, including those SCOTUS might review. 
-
-For your query about whether SCOTUS will accept a sports event contract case by December 31, 2026, the insights from the article imply that ongoing legal interpretations of prediction markets and insider trading could influence the Court's decisions on related cases. Thus, monitoring developments in this area could provide relevant context for predicting SCOTUS's actions.
-
-Title: Will 'Sinners' win at Oscars? When will Maduro fall? Place your bets.
-Published Date: 2026-02-25T14:53:36.677Z
-URL: https://www.usatoday.com/story/news/politics/2026/02/25/prediction-markets-polymarket-kalshi-politics-sports-trump/88640927007/
-Summary: The article discusses the rise of prediction markets like Kalshi and Polymarket, which allow users to bet on various outcomes, including political events and cultural phenomena like the Oscars. While it doesn't directly address the specific query about the Supreme Court's acceptance of a sports event contract case by December 31, 2026, it highlights how these markets can reflect public sentiment and expectations regarding future events. Users can gauge the likelihood of such legal decisions based on betting trends and market movements, which may provide insights into the SCOTUS's potential actions. For more precise predictions, monitoring the betting odds related to the case could be beneficial.
-
-Title: Westforth Sports, Inc. v. City of Chicago - SCOTUSblog
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.scotusblog.com/cases/case-files/westforth-sports-inc-v-city-of-chicago/
-Summary: The case of **Westforth Sports, Inc. v. City of Chicago** is currently pending before the Supreme Court, with a focus on whether the due process clause of the Fourteenth Amendment permits a state to assert specific personal jurisdiction over a non-resident seller of legal products based on the foreseeability of those products being transported into the state by third parties. The petition for a writ of certiorari was filed on December 23, 2025, and the Court is expected to discuss the case in a conference on February 20, 2026. 
-
-Given the timeline and the nature of the case, it is uncertain whether the Supreme Court will accept the case by December 31, 2026. The outcome will depend on the Court's deliberations and the significance of the jurisdictional issues raised, particularly in relation to sports event contracts and the implications for non-resident sellers.
+Title: The CFTC is Losing the Prediction Markets Narrative - Full Court Press
+Author: Alper Ozgit
+Published Date: 2026-03-07T04:27:41.483Z
+URL: https://www.fullcourtpress.io/p/the-cftc-is-losing-the-prediction-markets-narrative
+Summary: The article discusses the evolving stance of the Commodity Futures Trading Commission (CFTC) regarding prediction markets and sports event contracts. CFTC Chair Mike Selig emphasizes a regulatory approach that treats prediction markets similarly to other heavily regulated futures exchanges, suggesting they can coexist with state-regulated sports gambling. However, this position conflicts with legal interpretations by former CFTC official Brian Quintenz, who asserts that all event contracts are commodities futures requiring regulation and cannot be traded off-exchange or in unregulated contexts. The ongoing legal debate centers on whether sports event contracts are permissible and if state-regulated sportsbooks can trade them, with the CFTC's current contradictory stance raising questions about future regulatory and judicial decisions. This context is relevant to predicting whether the Supreme Court might accept a case challenging the legality of sports event contracts by December 31, 2026.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Cindy Holscher win the 2026 Kansas Governor Democratic primary election?
 
 **Market ID:** 0x8bb083247bc0525ae99c364b72394f3cd8e8d15bd4ed7ce08bd71079bba2bda6
-**Researched At:** March 1, 2026 at 06:08:13 AM UTC
+**Researched At:** March 9, 2026 at 04:27:11 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Cindy Holscher win the 2026 Kansas Governor Democratic primary election?"
 
 ---
@@ -9,43 +9,46 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.5¢
+**Expected Value:** 0.1¢
 
 ### Summary
 
-No clear polling or fundraising data has surfaced to suggest a large mispricing. A 21% chance fits a competitive, three-way Kansas Democratic primary and the state’s general swing environment.
+Research shows no specific polling or fundraising data on Cindy Holscher, making the 22.5% price a reasonable early‐stage estimate rather than a clear misprice. Market’s low volume reflects information scarcity more than obvious inefficiency.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Cindy Holscher will win the August 4, 2026 Kansas Democratic gubernatorial primary (including any run-off). It resolves YES if she is the overall plurality winner among Democratic candidates; NO otherwise (including “Other” if no primary occurs).
+The market asks whether Cindy Holscher will emerge as the winner of the Kansas Democratic gubernatorial primary on August 4, 2026. A YES resolution requires that she finish first in that contest (including any run-off), as officially announced by the Kansas Democratic Party (or via overwhelming credible reporting). A NO resolution covers any other winner or if the Democratic primary does not occur.
 
 2. EVIDENCE EVALUATION  
-Bullish for Holscher:  
-• Kansas Reflector (2025-11-25) calls her “one of the leading candidates,” notes her rural upbringing and grassroots strengths, and parallels with Gov. Kelly’s cross-base appeal.  
-• WIBW (2026-02-04) highlights her track record of winning in Republican areas and a platform targeting economic/affordability issues, which could energize working families.  
-• DNC chair optimism (CJOnline 2026-02-12) about Democrats breaking GOP supermajorities suggests an improving statewide environment for Democratic nominees.  
+Bullish for Holscher  
+• Anna Kaminski (2025-11-25) describes Holscher as a grassroots campaigner with rural appeal and Johnson County base—traits that could help her consolidate a moderate Democratic electorate in Kansas.  
+Bearish or Neutral  
+• NPR (2026-03-02) reports no primary results or polls yet; no direct data on Holscher’s standing.  
+• Gambit Forecaster (2026-03-01) notes that candidate fields are unsettled and early polling is uneven, with no specific mention of Holscher.  
+• Two DNC-focused articles (2026-02-11 and 2026-02-12) provide no information on the gubernatorial primary or her competitors.  
+Source Credibility & Recency  
+• All sources are from late 2025 to early 2026, credible but lacking decisive polling or fundraising data.  
 
-Bearish or neutral:  
-• No direct polling on the primary; the field includes at least one well-funded rival (Ethan Corson) also courting rural voters.  
-• Historical Democratic underperformance in Kansas (Hutch News 2026-02-11) underscores general uphill battles for statewide Democrats.  
-• NBC (2026-01-01) notes crowded primaries and emphasizes candidate quality but provides no firm data on Holscher’s relative standing.  
-
-Source credibility is high (local political reporters, major news outlets), but recency varies (Nov 2025 to Feb 2026). No clear, recent polling or fundraising figures are missing from the market, suggesting traders may already account for the uncertainty.
+Nothing in the findings suggests a clear probability >30% nor below 15%. The absence of specific polling or matchup data renders the 22.5% figure plausible as an informed guess rather than an obvious misprice.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 21% probability implies Holscher is viewed as an underdog in a fragmented primary. In a three-way race, equal odds would be ~33%; discounting for competition and Kansas’s Democratic struggles could justify 20–25%. Low volume suggests limited participation, but the tight spread (~4¢) implies at least two active traders. The lack of hard polling or fundraising data may deter wider engagement, but it doesn’t signal a glaring arbitrage.
+• The 22.5% price could reflect consensus that Holscher has a nonzero but modest chance in a still-fluid field.  
+• $0 total volume and a tight 3¢ spread suggest price-setting by one or a few traders, but absence of trading interest might also indicate a genuinely unremarkable, information‐scarce market.  
+• Informed Kansas insiders may be awaiting primary polls or fundraising tallies before trading; hence low volume likely reflects genuine data scarcity rather than oversight.
 
 4. MISPRICING ASSESSMENT  
-While Holscher has strengths, there is no missing polling or internal data that would swing her odds dramatically upward or downward. The current price sits comfortably within plausible ranges given a contested three-way primary and Kansas’s political profile. I find no specific credible evidence of a >10¢ mispricing.
+• No high‐credibility evidence is missing that would dramatically raise or lower her win probability by >20 cents.  
+• Given the early stage and lack of competitor data, the current price neither leaps out as over‐ nor undervalued.  
+• A charitable interpretation is that traders have priced in Holscher’s grassroots strength balanced against typical uncertainties in a multi-candidate Democratic primary.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30% (moderate confidence that no major data are missing)  
-Magnitude of mispricing: 5¢ (max plausible gap given uncertainty)  
-Expected value = 0.30 × 5¢ = 1.5¢
+• Strength of evidence against mispricing: ~10% (sources are credible but nonspecific).  
+• Magnitude of potential mispricing: ~1 cent.  
+• Expected value = 10% × 1 cent = 0.1 cent.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: No clear polling or fundraising data has surfaced to suggest a large mispricing. A 21% chance fits a competitive, three-way Kansas Democratic primary and the state’s general swing environment.  
+EXPECTED_VALUE: 0.1  
+SUMMARY: Research shows no specific polling or fundraising data on Cindy Holscher, making the 22.5% price a reasonable early‐stage estimate rather than a clear misprice. Market’s low volume reflects information scarcity more than obvious inefficiency.  
 CONFIDENCE: low
 
 ---
@@ -54,62 +57,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Kansas Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/KS.html
+Summary: The webpage provides the 2026 Kansas primary election results, including contests for governor, U.S. Senate, and U.S. House, but currently, no results are available. Since Cindy Holscher is a Democratic candidate for governor, her chances in the Democratic primary cannot be assessed at this time due to the absence of recent or preliminary results. To predict her likelihood of winning, additional information such as polling data, campaign momentum, voter registration trends, and her support within the Democratic electorate would be necessary once results or relevant indicators become available.
+
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report primarily analyzes the broader landscape of Senate and gubernatorial races, emphasizing that the cycle is still in early calibration with many races remaining uncertain. While specific candidate outcomes, such as Cindy Holscher's potential victory in the Kansas Democratic gubernatorial primary, are not directly addressed, the report highlights that candidate fields are still settling, and early polling remains uneven. It notes that the race environment is influenced heavily by fundamental factors and candidate effects, with some Democratic pathways emerging in Senate contests. However, since the report focuses on overall trends and methodological updates rather than individual primaries, it suggests that predicting Holscher's primary success would require more specific, up-to-date polling data and candidate dynamics within Kansas.
+
 Title: Kansas Democratic candidates for governor shaping 2026 ...
 Author: Anna Kaminski
 Published Date: 2025-11-25T00:00:00.000Z
 URL: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
-Summary: Cindy Holscher, a state senator from Johnson County, is one of the leading candidates for the Kansas Democratic Party's nomination for governor in the 2026 election. During a recent candidate forum, she emphasized her commitment to grassroots campaigning and her rural upbringing, positioning herself as a candidate who understands the needs of rural voters. Holscher advocates for lower living costs and aims to challenge extremism, particularly from figures like former President Donald Trump.
-
-Her campaign strategy focuses on connecting with voters beyond the Democratic base, similar to the successful approach of outgoing Democratic Governor Laura Kelly, who performed well in both urban and rural areas. Holscher's ability to resonate with a broader electorate and her emphasis on delivering results could be pivotal in her primary bid. Additionally, her opponent, Ethan Corson, has also highlighted the importance of engaging rural voters, indicating a competitive primary landscape.
-
-Overall, Holscher's grassroots approach, focus on rural issues, and commitment to addressing economic concerns may enhance her chances in the primary, but the outcome will depend on her ability to mobilize support across party lines and differentiate herself from Corson.
-
-Title: Three Democrats running for Kansas governor outline priorities
-Author: Claire Decatur
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.wibw.com/2026/02/04/three-democrats-running-kansas-governor-outline-priorities/
-Summary: Cindy Holscher, one of three Democrats running for the Kansas governor position in 2026, emphasizes her track record of winning in traditionally Republican areas and defeating GOP incumbents. Her campaign priorities include lowering property taxes, expanding Medicaid, raising the minimum wage, providing free school lunches, legalizing medical marijuana, and eliminating taxes on essential products for women and babies. Holscher's focus on addressing the affordability crisis and her appeal to working families could resonate with voters. Additionally, her experience as a state senator and her commitment to education funding may strengthen her candidacy. The Democratic primary will take place on August 4, 2026, with the filing deadline set for June 1.
+Summary: Cindy Holscher, a Kansas State Senator from Johnson County, is running for the Democratic nomination for governor in 2026. She emphasizes a grassroots campaign rooted in her rural upbringing, focusing on issues like lowering the cost of living and standing up to extremism. Holscher highlights her ability to connect with voters outside urban areas, particularly in rural Kansas, and positions herself as a fighter who can deliver results and win tough races. Her campaign strategy involves building support through community engagement and demonstrating her commitment to representing diverse Kansans, which could enhance her prospects in the Democratic primary.
 
 Title: DNC chair talks Roger Marshall, Sharice Davids, Senate race in Kansas
 Author: Jason Alatidd
 Published Date: 2026-02-11T00:00:00.000Z
 URL: http://www.hutchnews.com/story/news/politics/elections/congressional/2026/02/11/dnc-chair-talks-roger-marshall-sharice-davids-senate-race-in-kansas/88588913007/
-Summary: The article primarily discusses the Kansas Senate race and the potential candidacy of Democratic U.S. Rep. Sharice Davids against Republican U.S. Sen. Roger Marshall. While it does not directly address Cindy Holscher or the 2026 Kansas Governor Democratic primary, it provides context about the Democratic Party's current standing in Kansas, which may indirectly affect Holscher's chances.
-
-Key points include:
-
-1. **Democratic Challenges in Kansas**: The DNC chair, Ken Martin, highlighted the historical difficulty for Democrats in Kansas, noting that no Democrat has won a U.S. Senate seat since 1932. This context suggests a challenging environment for any Democratic candidate, including Holscher.
-
-2. **Potential for Democratic Gains**: Despite the historical challenges, Martin expressed optimism about the upcoming elections, indicating that there are opportunities for Democrats to expand their influence in Kansas. This could bode well for Holscher if she can capitalize on any shifts in voter sentiment.
-
-3. **Sharice Davids' Position**: While Davids is currently a focus for the Senate race, her potential candidacy could influence the dynamics of the Democratic primary, including Holscher's campaign. If Davids decides to run for Senate, it may open up the gubernatorial race for other candidates like Holscher.
-
-4. **Voter Sentiment**: Martin mentioned that Roger Marshall is seen as vulnerable, which could reflect a broader shift in voter attitudes that might also impact the gubernatorial primary
+Summary: The article discusses the upcoming Kansas Senate race, highlighting that Democratic U.S. Rep. Sharice Davids has not ruled out a statewide run and is considered a strong potential candidate. The DNC chair, Ken Martin, views Republican Sen. Roger Marshall as vulnerable, emphasizing the historical difficulty Democrats face in Kansas securing Senate seats since 1932. While Davids has not officially announced a run for Senate and is currently focused on her congressional duties, her recent tour of Kansas and her statements suggest she is considering a statewide campaign. However, the article does not provide specific information about the Kansas Democratic primary for governor or any candidates like Cindy Holscher, so predictions about her chances in the 2026 Democratic primary for governor cannot be directly inferred from this content.
 
 Title: DNC chair thinks Kansas Democrats will break GOP supermajority in 2026
 Author: Jason Alatidd
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://eu.cjonline.com/story/news/politics/elections/2026/02/12/dnc-chair-thinks-kansas-democrats-will-break-gop-supermajority-in-2026/88588918007/
-Summary: The article discusses the optimism of Democratic National Committee chair Ken Martin regarding the potential for Kansas Democrats to break the Republican supermajority in the state legislature by 2026. Martin cites a favorable political climate, including a backlash against Donald Trump and a shift in independent voters towards the Democratic Party, as key factors contributing to this optimism. He notes that Democrats need to flip five seats in the House to achieve this goal.
-
-While the article does not directly address Cindy Holscher's candidacy for the 2026 Kansas Governor Democratic primary, it highlights a broader trend of increasing support for Democrats among various voter demographics, including independents, Latinos, and young voters. This shift could be relevant for Holscher's chances, as it suggests a potentially more favorable environment for Democratic candidates in upcoming elections. Additionally, the success of Democratic leaders like Brandon Woodard in the House may influence the overall momentum for the party in Kansas, which could impact Holscher's campaign.
-
-Title: 10 races for governor to watch in 2026 - NBC News
-Author: 
-Published Date: 2026-01-01T00:00:00.000Z
-URL: https://www.nbcnews.com/politics/2026-election/10-races-governor-watch-2026-rcna248043
-Summary: The article discusses key gubernatorial races to watch in 2026, highlighting the political landscape and dynamics that could influence outcomes, including the Kansas governor's race. While it does not specifically mention Cindy Holscher, it provides context that may be relevant for predicting her chances in the Democratic primary.
-
-1. **Political Climate**: The 2026 elections will serve as a referendum on President Trump's influence and the economy, which could impact voter sentiment in Kansas.
-
-2. **Democratic Strategy**: Democrats are looking to build on previous victories in states like New Jersey and Virginia, focusing on issues like affordability and the economy. Holscher's campaign will need to align with these themes to resonate with voters.
-
-3. **Primary Dynamics**: The article notes that several states, including Kansas, will have crowded primaries. Holscher will need to navigate potential competition from other Democratic candidates, which could affect her chances.
-
-4. **Voter Sentiment**: The overall mood of the electorate, particularly in battleground states, will be crucial. If Kansas reflects broader trends favoring Democrats, it could bode well for Holscher.
-
-5. **Candidate Quality**: The article emphasizes the importance of candidate quality and electability in primaries. Holscher's appeal and campaign strategy will be critical in distinguishing her from other candidates.
-
-In summary, while the article does not directly address Cindy Holscher's prospects, understanding the broader political context and dynamics of the Democratic primary in Kansas will
+Summary: The article discusses the optimism of Democratic National Committee chair Ken Martin regarding the potential for Kansas Democrats to break the GOP supermajority in the Kansas House in 2026. While it highlights recent shifts in voter behavior—such as increased support from independents, Latinos, working-class, and young voters—and the Democrats' efforts to flip five House seats, it does not provide specific information about individual candidates like Cindy Holscher or details about the gubernatorial primary. Therefore, based on this content, there is no relevant information to predict whether Cindy Holscher will win the 2026 Kansas Democratic primary for governor.
 
 

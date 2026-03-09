@@ -1,7 +1,7 @@
 # Research: Will Julie Johnson be the Democratic nominee for TX-33?
 
 **Market ID:** 0x6a5695fb003f6ceb9075445d9a8d2b16c142c148de52cd8826c8dad60ff7483f
-**Researched At:** March 2, 2026 at 02:54:21 PM UTC
+**Researched At:** March 9, 2026 at 04:25:31 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Julie Johnson be the Democratic nominee for TX-33?"
 
 ---
@@ -9,42 +9,40 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 3.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Both incumbency and the U.S. Chamber endorsement support Johnson’s ~70% chance, but a key local editorial backing Allred and lack of polling leave room for a modest (~5–10¢) mispricing. No definitive data suggest a large mispricing.
+Julie Johnson’s advancement to a runoff against a strong predecessor leaves her eventual nomination highly uncertain; current news offers no clear edge for either side. In the absence of polling or major endorsements, the 20% market price cannot be confidently labeled a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Rep. Julie Johnson will secure the Democratic nomination for Texas’s newly redrawn 33rd Congressional District in the March 3, 2026 primary. A YES resolution requires official party certification by election night naming Johnson as the nominee; a NO resolution covers either another Democratic candidate winning (e.g., Colin Allred) or no nominee by November 3.
+The market asks whether Julie Johnson will be the official Democratic nominee for Texas’s 33rd Congressional District. A “YES” resolution requires Johnson to win the May 2026 primary runoff against Colin Allred (after neither cleared 50% on March 3). A “NO” includes Allred winning, a surprise candidate replacing either before Nov 3, or no nominee by the deadline.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for Johnson (supporting a ~70% price):  
-• Incumbency: Johnson currently serves in Congress and is actively campaigning in the district (CBS Texas, 2/11), giving her name recognition and fundraising advantages.  
-• Major endorsement: The U.S. Chamber of Commerce endorsement (2/12) signals establishment/business support, potentially positive in a moderate-leaning primary.
-
-Bearish evidence (suggesting price may be too high):  
-• Newspaper endorsement: The Dallas Morning News editorial recommends Colin Allred over Johnson (2/5), reflecting local media influence on moderate suburban Democrats.  
-• Competitive field: Ballotpedia notes multiple Democratic contenders; no public polls cited make the dynamics uncertain.  
-• Redistricting: The new map favors Republicans, possibly dampening turnout patterns and making the Democratic primary more contested among moderates/centrists.
-
-Source credibility and recency: All sources date from early February 2026, directly on point. None provide polling data, so we lack quantified public-opinion measures.
+– Bullish for Johnson:  
+  • She’s the incumbent U.S. Representative, a powerful structural advantage in primaries.  
+  • News reports (AP, CBS, NBC) emphasize her fundraising chops and legislative record, which help in runoffs.  
+– Bearish for Johnson:  
+  • She failed to secure 50% outright, indicating the base is split.  
+  • Allred is her well-known predecessor with deep ties and a solid campaign infrastructure.  
+  • No public polling or endorsements clearly favoring Johnson post-runoff qualification.  
+– Credibility & recency: All sources are from March 4, 2026, and reputable (AP, NBC, CBS). They uniformly note a competitive but undecided race.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 69% price could reflect a consensus that incumbency plus a high‐profile endorsement outweigh the DMN endorsement of Allred. Low $3.5k volume means a handful of traders may be setting price; but the tight 4¢ spread suggests at least two-sided interest. The outcome may seem straightforward to some (“incumbent advantage”) resulting in low engagement by poll‐watchers, rather than pure neglect.
+A 20% probability could reflect: (a) a view that incumbency is a weak advantage vs. a strong ex-incumbent; (b) one trader’s opinion setting the price in a thin market; or (c) genuine consensus that Johnson is a substantial underdog. The zero trading volume suggests limited engagement by informed participants rather than broad agreement.
 
 4. MISPRICING ASSESSMENT  
-There is no conclusive evidence that the market has ignored a major fact. We lack public polling to strongly contradict the 69%; equally, the DMN editorial suggests the race could be closer than a 70/30 split. The most charitable view is that traders balanced Johnson’s incumbency and endorsement against Allred’s media support to land near 70%. Absent a clear new development (e.g., leaked polls showing 50/50), a >20¢ mispricing is unlikely. A modest mispricing (~5–10¢) is possible but unsupported by strong public data.
+There’s no firm polling or insider intel showing Johnson’s odds diverge sharply from 50/50 or favor her heavily enough to justify a >20¢ mispricing. Conversely, nothing indicates she’s a near-lock under 20%. Absent clear quantitative leads or major endorsements, the 20% quote sits reasonably in the gray zone of low-volume, uncertain runoffs.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 35% (limited to endorsements, no polls)  
-Magnitude of mispricing: 8¢ (possible slight overpricing of Johnson’s chances)  
-Expected value = 0.35 × 8¢ = 2.8¢ → ~3¢
+Strength of evidence (unclear/predominantly qualitative): ~30%  
+Magnitude of potential mispricing (small, say 5¢ max): ~5¢  
+Expected value ≈ 30% × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 3  
-SUMMARY: Both incumbency and the U.S. Chamber endorsement support Johnson’s ~70% chance, but a key local editorial backing Allred and lack of polling leave room for a modest (~5–10¢) mispricing. No definitive data suggest a large mispricing.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Julie Johnson’s advancement to a runoff against a strong predecessor leaves her eventual nomination highly uncertain; current news offers no clear edge for either side. In the absence of polling or major endorsements, the 20% market price cannot be confidently labeled a significant mispricing.  
 CONFIDENCE: low
 
 ---
@@ -53,38 +51,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Democratic Congresswoman Julie Johnson discusses her campaign for the 33rd Congressional District - CBS Texas
+Title: Democrat Julie Johnson advances to primary runoff election in Texas' 33rd Congressional District |  | kten.com
+Author: AP
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://kten.com/democrat-julie-johnson-advances-to-primary-runoff-election-in-texas-33rd-congressional-district/article_daba164d-3e41-51e9-84ad-5a4edac78ec6.html
+Summary: Julie Johnson has advanced to the primary runoff election in Texas' 33rd Congressional District, indicating she is a leading candidate among Democrats. Her progression suggests a strong chance of securing the Democratic nomination, but the outcome will depend on the runoff election results.
+
+Title: Democrat Julie Johnson advances to primary runoff election in Texas' 33rd Congressional District
 Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.cbsnews.com/texas/video/democratic-congresswoman-julie-johnson-discusses-her-campaign-for-the-33rd-congressional-district/
-Summary: Democratic Congresswoman Julie Johnson is actively campaigning for the 33rd Congressional District in Texas. In a recent interview, she outlined her campaign priorities and addressed criticisms she has faced. Key factors that could influence her chances of becoming the Democratic nominee for TX-33 include her ability to resonate with voters on critical issues, her response to opposition, and the overall political landscape in the district. Monitoring her campaign strategies and voter engagement will be essential in predicting her nomination prospects. For more details, you can watch the full interview on CBS Texas [here](https://www.cbsnews.com/texas/video/democratic-con).
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www2.startribune.com/democrat-julie-johnson-advances-to-primary-runoff-election-in-texas-33rd-congressional-district/601592678/
+Summary: Democrat Julie Johnson has advanced to the primary runoff election in Texas' 33rd Congressional District, indicating she is a leading candidate within her party. Her progression to the runoff suggests she has strong support among Democratic voters in the district, making her a significant contender for the Democratic nomination. However, the outcome of the runoff will ultimately determine if she becomes the Democratic nominee for TX-33.
 
-Title: U.S. Chamber Endorses Rep. Julie Johnson for Texas' 33rd Congressional District | U.S. Chamber of Commerce
+Title: Democrat Julie Johnson advances to primary runoff election in Texas' 33rd Congressional District - Netscape News
 Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.uschamber.com/improving-government/u-s-chamber-endorses-rep-julie-johnson-for-texas-33rd-congressional-district
-Summary: The U.S. Chamber of Commerce has officially endorsed Rep. Julie Johnson for Texas's 33rd Congressional District, highlighting her practical approach to Congress and commitment to policies that support small businesses and economic growth. Johnson expressed her honor in receiving the endorsement, emphasizing her focus on responsible leadership amid economic challenges. This endorsement could bolster her candidacy and influence her chances of becoming the Democratic nominee for TX-33, as it reflects support from a significant business organization. However, the ultimate decision will depend on various factors, including the Democratic primary landscape and voter sentiment in the district.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://isp.netscape.com/news/world/story/0001/20260304/0847b0d041f744f5b6b5cbbb855b1285
+Summary: Julie Johnson has advanced to the primary runoff election in Texas' 33rd Congressional District, indicating she is a leading candidate among Democrats. While this progression suggests she is a strong contender, the outcome of the runoff will determine if she secures the Democratic nomination for TX-33.
 
-Title: We recommend in the Democratic primary for 33rd Congressional District
+Title: Julie Johnson, Colin Allred advance to runoff in Texas' 33rd Congressional District Democratic primary - CBS Texas
 Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://sportsday.dallasnews.com/opinion/we-recommend/2026/02/01/33rd-congressional-district-democratic-primary/
-Summary: The Dallas Morning News recommends Colin Allred over Julie Johnson in the Democratic primary for the 33rd Congressional District. Both candidates are well-qualified, but the editorial board believes Allred is better equipped to address current political and economic issues. The district was redrawn to favor Republicans.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.cbsnews.com/texas/news/texas-33rd-district-democratic-primary-results-allred-johnson/
+Summary: Julie Johnson and Colin Allred advanced to a runoff in Texas' 33rd Congressional District Democratic primary after neither secured over 50% of the vote. The upcoming May runoff will determine the Democratic nominee for the November election. Both candidates have strong local recognition and fundraising support, with Johnson emphasizing her legislative work on healthcare and her experience in the Texas House, while Allred highlights his congressional record and local roots. The outcome of the runoff will decide if Johnson becomes the Democratic nominee for TX-33.
 
-
-Title: Texas' 33rd Congressional District election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Texas%27_33rd_Congressional_District_election,_2026
-Summary: This Ballotpedia page is about the 2026 election for Texas' 33rd Congressional District. It notes that Texas redrew its congressional district boundaries in August 2025, and voters will elect representatives under the new map in 2026. The page links to other relevant elections in Texas for 2026. This page does not contain information that could be used to predict if Julie Johnson will be the Democratic nominee.
-
-
-Title: The Dallas Morning News Candidate Q&A: U.S. House District 33 - Democrat
+Title: Rep. Julie Johnson heads to Democratic primary runoff against predecessor Colin Allred
 Author: 
-Published Date: 2026-02-03T00:00:00.000Z
-URL: http://beta.dallasnews.com/projects/2026/dallas-texas-primary-election-voter-guide/us-house-district-33-democrat/?candidate=julie-johnson
-Summary: The Dallas Morning News has published a Candidate Q&A for the Democratic candidates running in U.S. House District 33, which includes responses from Colin Allred, Zeeshan Hafeez, Julie Johnson, and Carlos Quintanilla. Each candidate answered a series of questions, with a limit of 200 words per response, allowing them to directly address voters. 
-
-To predict whether Julie Johnson will be the Democratic nominee for TX-33, consider her responses in comparison to her opponents, as well as her campaign strategy, voter appeal, and any endorsements she may have received. The complete voter guide linked in the article can provide additional context on her platform and how it aligns with the priorities of the district's electorate. 
-
-For a more informed prediction, analyze the candidates' positions on key issues, their past electoral performance, and any polling data available leading up to the primary election.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-election/julie-johnson-colin-allred-texas-house-primary-election-runoff-rcna261354
+Summary: Rep. Julie Johnson is headed to a Democratic primary runoff against her predecessor, Colin Allred, in Texas's 33rd District. Neither candidate secured a majority in the initial vote. The race has been competitive, with key issues including immigration enforcement and stock trading related to ICE. Johnson has criticized Allred's voting record on immigration and has emphasized her own opposition to ICE funding. Given the runoff is between Johnson and Allred, and neither has secured outright victory yet, Johnson is a strong contender to become the Democratic nominee for TX-33, but the outcome will depend on the runoff election results.
 
 

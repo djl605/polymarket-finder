@@ -1,56 +1,52 @@
 # Research: Will Steve Hilton advance from the 2026 California Governor primary election?
 
 **Market ID:** 0x583a505658647660175c2e0aa70b4a460d8c34a6b3f46251ce5f9f46e9886c50
-**Researched At:** March 1, 2026 at 06:05:07 AM UTC
+**Researched At:** March 9, 2026 at 04:27:09 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Steve Hilton advance from the 2026 California Governor primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 4.0¢
+**Confidence:** Low
+**Expected Value:** 0.2¢
 
 ### Summary
 
-Current polling shows Hilton leading a fragmented field by a margin within polling error, justifying a near-50% price. No clear unpriced information suggests a large mispricing.
+Current polling shows Hilton leading with 14–17% in a crowded field, which plausibly translates to roughly even odds of a top-two finish given the undecided vote and margin of error. There is no clear, omitted information that would justify a substantial (>20¢) mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Steve Hilton will finish among the top two vote-getters in California’s “top-two” June 2, 2026, non-partisan primary for governor. A “Yes” resolution requires Hilton to place first or second by vote share. A “No” outcome includes him finishing third or lower, dropping out before the general, or no primary by December 31, 2026.
+This market asks whether Steve Hilton will finish among the top two vote-getters in California’s non-partisan primary on June 2, 2026, thereby advancing to the general election. A “Yes” resolves if he places first or second by vote share; otherwise (including if the primary is canceled) it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish Indicators  
-• Emerson College poll (Feb 18, 2026): Hilton leads with 17%, ahead of two close runners-up at 14%. He holds a plurality in a fragmented field, giving him a clear chance at one of two slots.  
-• IVP Benchmark poll: While toplines differ by likely vs. high-propensity turnout models, Hilton consistently ranks near the top, supported by voter concern over cost of living, immigration, and corruption.  
-• “Perfect storm” analysis: If two Republicans consolidate ~20%-25% support each, they could crowd out a splintered Democratic field.
+Bullish evidence (supports >47.5%):  
+• Multiple February polls (Emerson College) show Hilton leading the pack with 14–17% support, a 3-point margin over the nearest rival.  
+• He holds the Republican fundraising edge and draws significant independent support in a state top-two system, making a second-place finish likely even with sub-20% share.  
+• With only two serious Republicans in the race, one GOP candidate virtually assured of a top-two finish; Hilton appears best-positioned.
 
-Bearish Indicators  
-• Fragmentation and undecided: Emerson’s 20% undecided could coalesce around prominent Democrats (e.g., Porter, Swalwell) if campaign momentum shifts.  
-• California’s Democratic lean: Historical statewide office races favor Democrats; Democratic candidates may eventually consolidate, pushing Hilton to third.  
-• IVP poll’s high-propensity model shows divergence from the broader likely voter universe, suggesting turnout assumptions may erode Hilton’s lead.
+Bearish evidence (supports <47.5%):  
+• His raw support remains in the mid-teens, leaving ~21% undecided and substantial room for surges by Democrats (Katie Porter, Tom Steyer) or other contenders.  
+• The 3-point poll lead is within typical margin of error; momentum could shift over the next three months.  
+• California’s volatile political environment and historically low GOP turnout introduce uncertainty about replicating current polling.
 
-Source Credibility & Recency  
-Emerson College and IVP polls are timely and methodologically robust, though margins of error (~±3–4%) and turnout model variability inject substantial uncertainty. Media analyses (Sacramento Observer, KCRA, LA Mag, stateaffairs) are consistent on a competitive, fluid race but rely on these same poll data.
+All sources are from February 2026 (very recent); credibility is moderate to high (Emerson polling, established reporters). There is no evidence of a dramatic late entrant or scandal that would drastically change his odds—markets would likely have reacted.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 50.5% price reflects the tight race implied by splits within MOE: a 17%±4 leader versus 14%±4 rivals, leaving ~48–52% chance Hilton cracks top two. Low volume suggests limited liquidity rather than consensus failure—the spread is tight, indicating available capital is content with this midpoint. It may simply mirror the near-coin-flip uncertainly shown in current polls.
+A 47.5% price implies roughly even odds, reflecting both Hilton’s lead and the uncertainty from undecideds and potential surges by other candidates. The zero‐volume, tight‐spread environment suggests that only a few traders have expressed views; however, their view may rationally mirror public polling. The lack of liquidity likely stems from both the race’s complexity and the fact that most retail traders have not engaged deeply yet.
 
 4. MISPRICING ASSESSMENT  
-No specific evidence—new fundraising disclosures, endorsements, or sharply divergent polling—appears to be missing. The major polls’ margins overlap, and undecideds are substantial. Even bearish arguments (D consolidation, turnout swings) are likely already internalized given the race’s public coverage. The price neither seems extremely too high (>20 cents mispriced) nor obviously too low. 
+Given that the leading poll share (17%) is small but top-two requires only finishing in the top half of a crowded field, Hilton’s implied chance may well be nearer 50%. There is no specific, credible data missing from the current price that would call for a >20-point adjustment. The market’s mid-price seems a reasonable aggregate of Hilton’s narrow lead and the uncertainty ahead.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: moderate (≈40%), since polls show some downside risk but not a definitive mispricing opportunity.  
-• Magnitude of mispricing: small (≈10 cents), given the overlap of poll MOEs and the market’s ~50% placement in the “uncertain” zone.  
-Expected value = 40% × 10 cents = 4 cents.
+Strength of evidence: 20% (limited edge to argue a minor mispricing)  
+Magnitude of mispricing: 1 cent (if any, very small)  
+Expected value = 20% × 1¢ = 0.2¢
 
-6. CONFIDENCE  
-The assessment relies on standard polling data interpretation, recognizes low volume but tight spread, and finds no glaring information gap.  
-
-EXPECTED_VALUE: 4.0  
-SUMMARY: Current polling shows Hilton leading a fragmented field by a margin within polling error, justifying a near-50% price. No clear unpriced information suggests a large mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 0.2  
+SUMMARY: Current polling shows Hilton leading with 14–17% in a crowded field, which plausibly translates to roughly even odds of a top-two finish given the undecided vote and margin of error. There is no clear, omitted information that would justify a substantial (>20¢) mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -58,55 +54,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Who will win the 2026 election for governor of California?
+URL: https://www.predictit.org/markets/detail/8166/Who-will-win-the-2026-election-for-governor-of-California
+Summary: The webpage from PredictIt discusses betting markets related to the 2026 California gubernatorial election but does not provide specific information about Steve Hilton's candidacy or prospects. To assess whether Steve Hilton might advance from the primary, consider factors such as his political background, recent public visibility, endorsements, polling data, and the overall political landscape in California. Currently, there is limited publicly available information indicating Hilton's active campaign or strong support in the primary race. Monitoring upcoming polls, campaign developments, and endorsements will be essential for more accurate predictions.
+
+Title: Steve Hilton jumps to the lead in California governor's race
+Author: Zain Khan
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://nypost.com/2026/02/18/us-news/steve-hilton-jumps-to-the-lead-in-california-governors-race/
+Summary: Steve Hilton currently leads the California governor's race in the primary, with 17% support among likely voters, according to a recent Emerson College Poll. He has gained 5 points since December and is the only Republican candidate with significant backing, holding a narrow lead over Sheriff Chad Bianco among Republican voters. Hilton also has notable support among independents. With the primary scheduled for June 2, and given his fundraising advantage and recent polling momentum, Hilton appears well-positioned to advance to the general election, especially if he maintains or increases his support among voters.
+
+Title: Steve Hilton remains in the lead in Calif. governor's race
+Author: Zain Khan
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://trib.al/vXxetbh
+Summary: Steve Hilton currently leads in the 2026 California gubernatorial race, holding a slight edge in recent polls with 14% support among likely voters. The state's top-two primary system allows the two candidates with the most votes to advance to the general election, regardless of party. Given Hilton's lead over other candidates, including Democrat Katie Porter and GOP Sheriff Chad Bianco, he has a strong chance of progressing beyond the primary. However, voter sentiment indicates significant frustration with the state's direction and prioritizes issues like cost of living and taxes, which could influence the primary outcome. Overall, Hilton's current polling position suggests a favorable outlook for his advancement to the general election.
+
+Title: Republican Steve Hilton surges ahead in California governor’s race | KTLA
+Author: 
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://share.google/ndsqc7iZKcG201Nqj
+Summary: Steve Hilton, a Republican and former strategy director for British Prime Minister David Cameron, is currently leading in the 2026 California gubernatorial race with 17% support among likely voters, according to a February 2026 Emerson College Polling survey. His support has increased by five points since December, indicating growing momentum. The race remains competitive, with Hilton closely followed by Republican Chad Bianco at 14%, and Democrats Katie Porter and Tom Steyer at 10% and 9%, respectively. Notably, 21% of voters remain undecided. The primary is scheduled for June 2, 2026, and the top two candidates, regardless of party, will advance to the November general election. Given Hilton's current polling lead and support from a significant portion of independent voters, he has a strong chance of advancing from the primary, though the race remains fluid with potential for other candidates to gain ground.
+
 Title: Q&A With California Gubernatorial Candidate Steve Hilton: “California Can Be Golden Again”  - The Sacramento Observer
 Author: CBM Newswire
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://sacobserver.com/2026/02/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again/
-Summary: Steve Hilton, a Republican gubernatorial candidate in California, aims to "restore the California dream" by addressing issues like housing affordability, small business struggles, and failing schools. He attributes these challenges to "ideological extremism" and "political corruption," advocating for accountability and transparency in governance. Hilton's background includes experience in business, government, and media, which he believes sets him apart from competitors like Katie Porter and Xavier Becerra. His campaign focuses on fighting for working families who feel neglected by current leadership. Given his emphasis on common-sense solutions and his personal narrative of optimism turned to frustration, Hilton's appeal to middle-class voters and small business owners may influence his chances in the primary election. However, the presence of established candidates and the political landscape will also play significant roles in determining whether he advances.
-
-Title: New IVP 2026 California Governor Poll: What the Toplines Don't Tell ...
-Published Date: 2026-02-24T06:04:50.384Z
-URL: https://ivn.us/posts/new-ivp-2026-california-governor-poll-what-the-toplines-dont-tell-you-2026-02-23
-Summary: The article discusses the dynamics of the 2026 California Governor race, focusing on a recent poll by IVP that offers deeper insights beyond the topline numbers. While a February Emerson College Poll shows Republican Steve Hilton leading in a broader likely voter universe, the IVP Benchmark Poll targets high-propensity voters, revealing different turnout assumptions and potential pathways to victory.
-
-Key factors influencing Hilton's chances include voter preferences on critical issues such as affordability, immigration, and corruption perception. The IVP Poll employs multivariate regression analysis to identify consistent predictive variables, suggesting that the race remains competitive and open. Political consultants reviewed both polls to assess alignment and divergence in turnout assumptions, indicating that while Hilton is currently positioned favorably, the evolving landscape and voter engagement strategies will be crucial in determining whether he advances from the primary. 
-
-Overall, Hilton's advancement will depend on his ability to mobilize support among high-propensity voters and navigate the complex political environment leading up to the election.
-
-Title: New survey shows 5-way gridlock in California governor's race
-Author: Nijzel Dotson
-Published Date: 2026-02-26T06:04:50.384Z
-URL: https://www.kcra.com/article/california-governors-race-5-way-tie-survey/70507002
-Summary: A recent survey indicates a competitive landscape in the California governor's race, with five candidates in a state of gridlock. While the article primarily discusses a proposed tax on billionaires and the political dynamics surrounding it, it highlights the involvement of notable figures like Senator Bernie Sanders, who is rallying support for the tax initiative. This suggests that candidates' positions on key issues, such as taxation and healthcare, could significantly influence their standing in the primary.
-
-To predict whether Steve Hilton will advance from the 2026 California Governor primary election, consider the following factors:
-
-1. **Current Polling**: Analyze Hilton's current standing in polls compared to other candidates. The survey indicates a tight race, so understanding his support level is crucial.
-
-2. **Key Issues**: Hilton's stance on major issues, including taxation and healthcare, will be pivotal. The proposed billionaire tax is gaining traction, and candidates' responses to such initiatives may sway voters.
-
-3. **Campaign Strategy**: Hilton's campaign effectiveness, including fundraising, outreach, and public engagement, will impact his chances. The article mentions increased volunteer activity for initiatives, which could reflect broader mobilization efforts.
-
-4. **Political Endorsements**: Endorsements from influential figures or organizations could enhance Hilton's visibility and credibility, potentially boosting his campaign.
-
-5. **Voter Sentiment**: Public sentiment towards the current administration and major state issues, such as water shortages and healthcare, will also play a role in determining primary outcomes.
-
-Overall,
-
-Title: “The perfect storm”: Could 2 Republicans lock Democrats out of ...
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://pro.stateaffairs.com/ca/elections/the-perfect-storm-could-2-republicans-lock-democrats-out-of-californias-governors-race
-Summary: The article discusses the potential dynamics of the 2026 California Governor primary election, focusing on the possibility of two Republican candidates, including Steve Hilton, potentially locking Democrats out of the race. It analyzes the current political landscape in California, including voter demographics, party affiliations, and recent election trends. Key factors that could influence Hilton's chances of advancing include his appeal to moderate voters, the strength of his campaign strategy, and the overall Republican momentum in the state. The piece suggests that if Republicans can consolidate their support and effectively mobilize their base, Hilton could have a viable path to the primary, but it remains contingent on various political developments leading up to the election.
-
-Title: Steve Hilton Leads Early in Fragmented California Governor Race
-Author: Devon James
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://lamag.com/news-and-politics/california-governor-poll-shows-fragmented-2026-race-as-steve-hilton-takes-early-lead/
-Summary: Steve Hilton currently leads in the early polling for the 2026 California Governor race, with 17% support among likely voters, according to a recent Emerson College poll. He is followed closely by Democratic Rep. Eric Swalwell and Riverside County Sheriff Chad Bianco, both at 14%. Other candidates, including former Rep. Katie Porter and billionaire Tom Steyer, have 10% and 9% support, respectively, while over 20% of voters remain undecided.
-
-Hilton's campaign focuses on government accountability, tax reduction, easing business regulations, and addressing homelessness and public safety. His messaging resonates with voters frustrated by the high cost of living in California, which is a significant concern for many respondents. The political landscape is fragmented, with no incumbent, making the race fluid as candidates vie for attention leading up to the June top-two primary.
-
-Given Hilton's current lead and the issues he emphasizes, his chances of advancing to the November election appear favorable, but the high percentage of undecided voters indicates that the race could still shift as it progresses.
+Summary: Steve Hilton, a Republican candidate for California governor in 2026, emphasizes his diverse experience in business, government, and media, and his commitment to restoring the "California dream" by addressing issues like housing affordability, high taxes, and political corruption. He criticizes current redistricting practices and advocates for a truly independent process to ensure fair representation. Hilton positions himself as a candidate offering fresh, practical solutions rooted in accountability and common sense, aiming to appeal to voters frustrated with the state's current leadership. His background and platform suggest he is actively campaigning to advance from the primary election, with a focus on reform and addressing core issues affecting California residents.
 
 

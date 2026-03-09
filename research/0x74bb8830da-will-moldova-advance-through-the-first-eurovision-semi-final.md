@@ -1,52 +1,59 @@
 # Research: Will Moldova advance through the first Eurovision Semi-Final?
 
 **Market ID:** 0x74bb8830da1ebc834556013f83254287655c2c48e51f0c6bdacf214b34d20d90
-**Researched At:** March 1, 2026 at 02:33:54 PM UTC
+**Researched At:** March 9, 2026 at 04:27:48 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Moldova advance through the first Eurovision Semi-Final?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Available research offers no fresh, specific insight into Moldova’s 2026 semi-final performance, and public odds position them as an underdog. Without credible new data, the 77.5% price appears unsupported but not clearly mispriced by more than a few cents.
+Moldova’s Eurovision entry shows enough public and jury support to justify a ~78% qualification probability, and neither bullish nor bearish factors appear neglected. The market price seems reasonable, with only minor upside for a small mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Moldova’s entry will rank among the top 10 qualifiers from the first semi-final on May 12, 2026. A “Yes” requires Moldova to finish in the qualifying positions as officially announced; a “No” if they fail to qualify, are eliminated early, or if the semi-final does not take place.
+The market asks whether Moldova’s 2026 Eurovision entry (Satoshi performing “Viva, Moldova!”) will finish in the top 10 of Semi-Final 1 on May 12, 2026. “Yes” requires Moldova to qualify for the Grand Final; “No” if it fails to place in the top 10 or the event is canceled/delayed past June 30.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence:
-• 2023 Neurovision study (UCL) found Moldova elicited above-average physiological engagement, suggesting a “shock hit” potential.  
-Bearish evidence:
-• Recent odds for Eurovision 2026 heavily favor Sweden, Israel, Finland, Greece, Austria, and France—none of which reference Moldova, implying bookmakers see Moldova as an underdog.  
-Neutral/insufficient:
-• Dress-rehearsal blog does not cover Moldova, indicating little publicly shared early‐March buzz.  
-• No current betting odds or fan polls explicitly include Moldova, suggesting limited market data.  
+Bullish evidence  
+• Moldova won its national selection with unanimous jury and public support, indicating domestic and diaspora enthusiasm.  
+• Positive fan reception and strategic guest performance in Ukraine suggest extra goodwill points.  
+• Automatic qualifiers (Germany, Italy) vote in Semi-Final 1, potentially boosting Moldova’s tally.  
+• Moldova has a history of strong semi-final showings (e.g., 3rd place in 2017).  
 
-All sources are credible in their domains but lack recency or specificity on Moldova’s actual song, staging, or jury/public reaction.
+Bearish evidence  
+• Drawn in the first half of the show, historically a slight disadvantage compared with second-half performers.  
+• Early betting odds (WhatOdds, TheSportsGeek) do not list Moldova among top qualifiers—focus is on Ukraine, Malta, Denmark, etc.  
+• Semi-final lineup strength remains uncertain, but several competitors are stronger market favorites.  
+
+Source credibility  
+• Newsmaker.md (Feb 9) provides detailed regional insights and is likely on traders’ radars.  
+• Eurovoix and mainstream betting sites (Feb 8–18) corroborate general field strength but don’t single out Moldova as over/under-priced.  
+
+No single piece of information appears neglected by the market. The positive factors and moderate disadvantages are likely baked into the ~78% price.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 77.5% price could reflect early insider knowledge (e.g. positive private previews) not publicly reported.  
-• Alternatively, a small group of optimistic traders (influenced by the Neurovision findings) may have set and maintained the price, with few others trading.  
-• Low volume may stem from the event’s distance (two months out) and lack of detailed public data rather than consensus.
+• A ~77.5% price implies traders see Moldova as a solid qualifier but not a lock—consistent with historical qualifier rates for mid-tier entries.  
+• Low volume and tight spread suggest a few informed bettors set the price, but the mix of pros/cons makes the probability plausible rather than an outlier.  
+• The outcome is widely regarded as likely but not certain; this kind of market often sees limited liquidity because the risk/reward of trading around 80¢ is low.
 
 4. MISPRICING ASSESSMENT  
-There is no concrete, recent evidence indicating that Moldova’s qualification chances deviate materially from ~50–60%; the sole specialized model (Neurovision) is two years old and may not apply to 2026. Conversely, absence of public discussion could mean private previews are very strong—but we have no direct confirmation. Lacking specific, credible new data, there is insufficient proof of a >10¢ mispricing.
+No strong evidence of >20¢ mispricing. Both upside and downside factors are publicly known and moderate. The price aligns with qualitative signals and typical bookmaker margins for a mid-field qualifier. No technical resolution quirks are overlooked.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of missing‐evidence signal: ~20% (very weak)  
-Potential mispricing magnitude: ~5¢ (small)  
-Expected value ≈ 20%×5¢ = 1¢
+Strength of evidence = 20% (low conviction in any hidden mispricing)  
+Magnitude of mispricing = 10¢ (at most minor adjustment)  
+Expected value = 0.2 × 10¢ = 2¢
 
-EXPECTED_VALUE: 1  
-SUMMARY: Available research offers no fresh, specific insight into Moldova’s 2026 semi-final performance, and public odds position them as an underdog. Without credible new data, the 77.5% price appears unsupported but not clearly mispriced by more than a few cents.  
-CONFIDENCE: low
+EXPECTED_VALUE: 2.0  
+SUMMARY: Moldova’s Eurovision entry shows enough public and jury support to justify a ~78% qualification probability, and neither bullish nor bearish factors appear neglected. The market price seems reasonable, with only minor upside for a small mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -54,71 +61,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: The Science of Eurovision
+Title: Евровидение 2026: Молдова, Украина, Румыния. Участники и шансы - NewsMaker
+Author: Евгений Шоларь
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://newsmaker.md/ru/sasha-bognibov-ne-spasyot-rumyniyu-chto-izvestno-o-shansah-moldovy-i-nashih-sosedei-na-evrovidenii-2026
+Summary: The article discusses Moldova's prospects in Eurovision 2026, focusing on their entry by Satoshi in the first semi-final. Moldova is placed in the first semi-final, which reduces its chances of receiving votes from neighboring countries Ukraine and Romania, as they compete in the second semi-final. However, Moldova benefits from performing on the same day as countries like Germany and Italy, which automatically qualify for the final and are influential voters. The positive reception of Moldova's song among fans and the strategic move of Satoshi to be the first foreign guest at Ukraine's national selection suggest a serious effort to reach the final. Historically, performances in the second half of semi-finals have higher chances of advancing, but Moldova's placement in the first half does not eliminate the possibility of qualification. Overall, Moldova's advancement depends on the song's reception, strategic positioning, and voting patterns, but there are reasons to be cautiously optimistic.
+
+Title: Tonight: 🇷🇴 Romania Selects for Eurovision 2026 & 🇸🇲 San Marino Song Contest 2026 Semi-Final One - Eurovoix
+Author: Anthony Granger
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://eurovoix.com/2026/03/04/tonight-eurovision-2026-march-4/
+Summary: The provided webpage details the national selections and semi-final events occurring tonight for Eurovision 2026, specifically focusing on Romania's national final and San Marino's semi-final. There is no information about Moldova's participation, performance, or chances of advancing in the Eurovision Semi-Final. Therefore, based on this webpage, there is no relevant data to predict whether Moldova will advance through the first Eurovision Semi-Final.
+
+Title: Eurovision 2026 Top 10 Odds: Best Value Picks Right Now | WhatOdds.io
 Author: 
-Published Date: 2023-05-09T00:00:00.000Z
-URL: https://blog.sciencemuseumgroup.org.uk/the-science-of-eurovision/
-Summary: The article discusses a scientific approach to predicting the popular vote in the Eurovision Song Contest, focusing on an experiment called Neurovision conducted by researchers at University College London. They analyze biological responses, such as heart rate and skin conductance, to assess audience engagement with the songs. For Eurovision 2023, the researchers tested eight songs and predict that Moldova will perform surprisingly well, ranking it as the top contender based on physiological data, despite being an outsider in betting odds. This suggests that Moldova could have a strong chance of advancing through the first Eurovision Semi-Final, as their model indicates it may be a "shock hit."
-
-Title: Eurovision 2026 Odds: Leading Contenders
-Author: News Team
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://news.williamhill.com/specials/eurovision-2026-leading-contenders/
-Summary: The article discusses the odds and leading contenders for the Eurovision 2026 Song Contest, which will take place in Vienna on May 16. While it primarily focuses on the favorites—Israel (7/2), Finland (9/2), and Greece (7/1)—it does not specifically mention Moldova's chances. 
-
-To predict whether Moldova will advance through the first semi-final, consider the following factors:
-
-1. **Historical Performance**: Analyze Moldova's past results in Eurovision, particularly in semi-finals, to gauge their consistency and appeal.
-
-2. **Current Odds**: While the article does not provide specific odds for Moldova, checking current betting markets could offer insights into how bookmakers view their chances.
-
-3. **Song and Artist Quality**: The strength of Moldova's entry, including the song's appeal and the artist's performance style, will significantly influence their chances.
-
-4. **Competition**: Assess the overall strength of the other entries in the semi-final, as a strong field can impact Moldova's likelihood of advancing.
-
-5. **Public and Jury Reception**: Consider how well Moldova's entry resonates with both the public and juries, as this dual appeal is crucial for advancing in Eurovision.
-
-For a more accurate prediction, keep an eye on Moldova's song reveal and any promotional activities leading up to the contest.
-
-Title: Escnation Blog: Semi 1 - Dress rehearsal 3 + Predictions
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://escnation-live.blogspot.com/2025/05/semi-1-dress-rehearsal-3-predictions.html
-Summary: The blog post provides insights from the third dress rehearsal of the first Eurovision Semi-Final, focusing on the performances and camerawork of various countries, but does not specifically mention Moldova. To predict whether Moldova will advance, consider the following general observations from the rehearsal:
-
-1. **Camerawork and Performance Quality**: The effectiveness of camerawork and the artists' vocal performances are crucial. Countries like Ukraine and Sweden showed improvements, while others like Spain and Azerbaijan struggled with messy camerawork and performance delivery.
-
-2. **Audience Reaction**: The blog notes that Albania received the loudest cheer in the media center, indicating strong audience support, which can be a good predictor of advancement.
-
-3. **Vocal Performance**: Artists who delivered strong vocal performances, like Belgium and Norway, are more likely to advance. Conversely, those who seemed nervous or underperformed may face challenges.
-
-4. **Overall Energy and Engagement**: Performances that successfully engage the audience and match the energy of the song, as seen with Poland and Ukraine, are more likely to succeed.
-
-While Moldova's specific performance details are not covered, analyzing these factors from the other performances may help gauge its chances in the semi-final.
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://whatodds.io/blog/eurovision-2026-top-10-odds-best-value-picks
+Summary: The provided webpage focuses on betting odds and predictions for Eurovision 2026, highlighting strong entries and market favorites. While Moldova is not explicitly mentioned among the confirmed or highly favored countries in the current top odds, the analysis emphasizes that many countries, including Moldova, will have their songs finalized by mid-March, and semi-final lineups will be set by the end of March. The key insight is that countries with confirmed entries and strong national final results—such as Ukraine, Malta, Denmark, Greece, Bulgaria, Israel, and Estonia—are more likely to qualify for the final. Since Moldova is not listed among these, its chances of advancing depend on its national selection results and how well its entry performs in semi-final voting. Overall, Moldova's advancement is uncertain based on this information, but the focus on known strong contenders suggests it may face stiff competition.
 
 Title: 2026 Eurovision Odds, Predictions, Best Bets
-Author: Kyle Eve in Entertainment
+Author: Kyle Eve
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.thesportsgeek.com/blog/eurovision-odds/
-Summary: The webpage provides insights into the betting odds and predictions for the Eurovision Song Contest 2025, focusing on the favorites to win. While it does not specifically mention Moldova's chances of advancing through the first semi-final, it highlights key competitors and their odds, which can indirectly inform predictions.
+Summary: The provided webpage primarily discusses the betting odds and predictions for the 2026 Eurovision Song Contest, highlighting top contenders such as Israel, Finland, Greece, and Sweden. It details historical winners, current favorites, and market trends but does not include specific information about Moldova or its chances of advancing through the first semi-final. Therefore, based on this source, there is no relevant data to predict Moldova's likelihood of progressing in the semi-final.
 
-Currently, the top favorites include Sweden (+200), Austria (+250), France (+500), and Israel (+650). These countries are expected to perform strongly, potentially overshadowing other entries like Moldova. The odds suggest that Sweden and Austria are particularly strong contenders, which could impact Moldova's chances if they are in the same semi-final.
-
-For a more accurate prediction regarding Moldova's advancement, it would be beneficial to consider their historical performance, the strength of their entry, and how they compare to other competitors in the semi-final. The article emphasizes that updates on performers will be provided, which could further clarify Moldova's position as the contest approaches. 
-
-In summary, while the webpage does not directly address Moldova's prospects, understanding the competitive landscape and the odds of other countries can help gauge their likelihood of advancing.
-
-Title: Latvia: The betting odds ahead of the Supernova 2026 final - Eurovision News | Music | Fun
-Author: Giorgos Mantzaridis
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://eurovisionfun.com/en/2026/02/latvia-the-betting-odds-ahead-of-the-supernova-2026-final/
-Summary: The webpage discusses the betting odds for Latvia's Supernova 2026 final, which is crucial for selecting its representative for the Eurovision Song Contest. While the focus is on Latvia, understanding the dynamics of national selection events like Supernova can provide insights into broader Eurovision trends, including Moldova's chances in the first semi-final.
-
-Key points include:
-- **Top Contenders**: Atvara is the frontrunner with a 40% chance of winning, followed by Emilija and Kautkaili. The performances and audience reactions are critical in determining outcomes, suggesting that unexpected results can occur.
-- **Live Performances**: The importance of live performances in influencing both public and jury votes is emphasized, which is a common factor in Eurovision competitions.
-- **General Trends**: Historical data from previous Eurovision contests indicates that betting odds can shift dramatically based on live performances and audience engagement.
-
-While this article does not directly address Moldova's prospects, it highlights the unpredictability of Eurovision events and the significance of live performances, which are relevant factors to consider when predicting whether Moldova will advance in the semi-final.
+Title: 🇲🇩 Moldova: Satoshi Performs New Version of "Viva, Moldova!" at Vidbir Final - Eurovoix
+Author: Anthony Granger
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://eurovoix.com/2026/02/08/satoshi-performs-new-version-viva-moldova/
+Summary: Satoshi, representing Moldova in Eurovision 2026, performed a new version of "Viva, Moldova!" during the Ukrainian national final, Vidbir 2026, as a guest act. He secured his spot in Eurovision by winning Moldova's national selection with maximum points from jury and public votes. He is scheduled to perform in the first half of the first semi-final on May 12. Moldova has a history of strong Eurovision performances, notably finishing third in 2017, and has participated multiple times since debuting in 2005. Given Satoshi's recent victory in Moldova's selection and Moldova's previous competitive track record, there is a positive indication that Moldova could advance through the first semi-final, though the outcome will depend on the overall competition and voting dynamics.
 
 

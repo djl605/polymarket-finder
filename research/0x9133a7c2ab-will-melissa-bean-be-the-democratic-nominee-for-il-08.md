@@ -1,52 +1,53 @@
 # Research: Will Melissa Bean be the Democratic Nominee for IL-08?
 
 **Market ID:** 0x9133a7c2abc25ff946a40572cce99b91078287817e513359fcf00bd8cdfacf1a
-**Researched At:** March 1, 2026 at 06:04:36 AM UTC
+**Researched At:** March 9, 2026 at 04:27:36 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Melissa Bean be the Democratic Nominee for IL-08?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-Bean’s fundraising edge, endorsements, and prior incumbency justify a moderate favorite status, while a crowded field and lack of polling maintain significant uncertainty. A 55% market probability appears reasonable, with no clear mispricing.
+Research shows a crowded, uncertain primary with no recent polls confirming Bean as the clear frontrunner, yet her name recognition and endorsements justify a high win probability. There is no specific new information indicating a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Melissa Bean will be the officially nominated Democratic candidate in Illinois’ 8th District primary on March 17, 2026. A “YES” resolution requires Bean to win the March 17 primary; “NO” covers any other nominee or no nomination by November 3, 2026.
+The market asks whether Melissa Bean will win the Democratic nomination for Illinois’s 8th Congressional District primary on March 17, 2026. A YES resolution requires Bean to finish first (presumably by plurality) in the Democratic primary; any other nominee or failure to name a nominee resolves as NO.
 
 2. EVIDENCE EVALUATION  
-Bullish on Bean (supports ≈55% price):  
-• Fundraising edge: Bean holds ~$1 million vs. Ahmed’s ~$835 k, plus significant recent haul ($766 k last quarter).  
-• Establishment endorsements: U.S. Sen. Tammy Duckworth and former Speaker Nancy Pelosi boost her appeal among mainstream Democrats.  
-• Name recognition & prior service: She represented the district 2005–2011, giving her a built-in network.  
+Bullish evidence  
+• Bean’s prior tenure (2005–2011) and strong name recognition in IL-08.  
+• High-profile endorsements noted in the Feb. 27 Chicago Tribune article.  
+• A splintered eight-candidate field could allow a plurality winner; if Bean polls even in the mid-20s, she could secure the nomination.  
 
-Bearish on Bean (argues price may be high):  
-• Competitive field: Eight candidates, including Junaid Ahmed ($1.2 M raised, strong progressive backing) and Yasmeen Bankole (local ties), ensure a crowded race.  
-• Generational/divide factor: Voter sentiment may favor fresh faces or progressive stances on issues like Israel, where moderate positioning can be a liability.  
-• No public polls: Lack of up-to-date polling means fundraising and endorsements may not fully capture voter momentum.  
+Bearish evidence  
+• No recent polling data showing Bean clearly leading; the most recent August poll (10% support, large undecided) suggests volatility.  
+• Multiple credible challengers (Ahmed, Khot, Morrison, Bankole, etc.) with progressive appeal, fundraising, and campaign activity.  
+• Coverage from Feb. 6 and Feb. 25 Sun-Times articles emphasizes a generational/ideological divide and uncertain dynamics.  
 
-All sources are recent (Jan–Feb 2026) and credible local outlets. None presents a shock development that the market seems to have missed.
+Source credibility & recency  
+All sources are reputable local outlets (Chicago Sun-Times, Tribune) and date from February 2026. However, they lack up-to-the-minute polling or early March tracking data.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 55% price reasonably reflects a slight edge for Bean given her resources and endorsements, balanced by a competitive field and absence of polling. Low volume could simply reflect that informed traders see a moderately predictable outcome and are not deploying large capital, rather than any dramatic oversight.
+A 71% price could reflect informed traders baking in Bean’s structural advantages (name, endorsements) plus vote splitting among progressives. Alternatively, low volume ($4.5K) suggests a few traders may have driven price without broad consensus or new public polling, meaning inefficiencies are possible—yet no clear new information (e.g., fresh polls showing Bean surging or faltering) is missing.
 
 4. MISPRICING ASSESSMENT  
-No single piece of credible evidence suggests Bean’s odds should swing by more than a few cents. The balance of established advantages and meaningful competition supports a mid-50s probability. Without polls or late-breaking dynamics, assumed inefficiency remains small.
+There is insufficient specific evidence to declare a >20-cent mispricing. The uncertainty highlighted in all research—no dominating polling, crowded field—argues against excessive confidence at 71%. Yet Bean’s advantages make sub-50% pricing likewise hard to justify. The market price appears broadly reasonable given known factors; any mispricing is likely within a few cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is significantly off: ~20%  
-Plausible magnitude of mispricing: ~5¢  
-Expected value ≈ 20% × 5¢ = 1¢  
+Strength of evidence that price is mispriced: 20%  
+Magnitude of mispricing estimate: 5 cents  
+Expected value = 0.20 × 5¢ = 1.0¢
 
 EXPECTED_VALUE: 1.0  
-SUMMARY: Bean’s fundraising edge, endorsements, and prior incumbency justify a moderate favorite status, while a crowded field and lack of polling maintain significant uncertainty. A 55% market probability appears reasonable, with no clear mispricing.  
-CONFIDENCE: low
+SUMMARY: Research shows a crowded, uncertain primary with no recent polls confirming Bean as the clear frontrunner, yet her name recognition and endorsements justify a high win probability. There is no specific new information indicating a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -58,52 +59,28 @@ Title: Melissa L. Bean, Democratic candidate for Illinois 8th Congressional Dist
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://chicago.suntimes.com/elections/2026/candidate-questionnaires/melissa-l-bean-illinois-primary-8th-congressional-district
-Summary: Melissa L. Bean is a Democratic candidate running for the Illinois 8th Congressional District in the 2026 elections. She previously served in Congress from 2005 to 2011 and has a background in education from Roosevelt University and Oakton Community College. Her campaign website is [melissabeanforcongress.com](http://melissabeanforcongress.com).
+Summary: Melissa L. Bean is a Democratic candidate running for Illinois's 8th Congressional District in the 2026 election. She has previous political experience from 2005 to 2011 and holds a B.A. from Roosevelt University, with education also from Oakton Community College. Her campaign website is [melissabeanforcongress.com](http://melissabeanforcongress.com). While the webpage provides her background and policy positions, it does not specify whether she is the official Democratic nominee or her current standing in the primary race. Therefore, based on this information alone, it is unclear if Melissa Bean will be the Democratic nominee for IL-08.
 
-To assess her chances of becoming the Democratic nominee, consider her prior political experience, which may lend her credibility and name recognition among voters. Additionally, her responses to key issues in a candidate questionnaire, which cover topics such as the economy, immigration, and democracy, could indicate her alignment with the Democratic base and voter priorities.
-
-Factors influencing her nomination will likely include her campaign strategy, fundraising efforts, and the political landscape closer to the primary date. Monitoring her engagement with constituents and responses to current events will also provide insight into her viability as a candidate.
+Title: What to know about Illinois' 8th Congressional District Democratic primary
+URL: https://chicago.suntimes.com/elections/2026/02/06/what-to-know-about-illinois-8th-congressional-district-democratic-primary
+Summary: The Illinois 8th Congressional District Democratic primary features a competitive race among eight candidates, including Melissa Bean. The seat is currently held by U.S. Rep. Raja Krishnamoorthi, who is running for the retiring U.S. Sen. Dick Durbin’s seat. The primary includes familiar faces such as Junaid Ahmed, Yasmeen Bankole, Sanjyot Dunung, Neil Khot, Kevin Morrison, Dan Tully, and Ryan Vetticad. Given the crowded field, predicting the nominee requires considering each candidate’s campaign strength, voter support, and political background. Melissa Bean’s prospects depend on her campaign strategy and voter appeal relative to her opponents.
 
 Title: Crowded primary for Krishnamoorthi's suburban House seat underscores Democrats' generational divide - Chicago Sun-Times
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://chicago.suntimes.com/elections/2026/02/25/illinois-primary-melissa-bean-junaid-ahmed-kevin-morrison-yasmeen-bankole
-Summary: The article discusses the competitive Democratic primary for the suburban House seat currently held by Raja Krishnamoorthi, highlighting a generational divide within the party. Several candidates, including Melissa Bean, are vying for the nomination, each representing different factions and priorities within the Democratic Party. The primary is characterized by a mix of established figures and newer voices, reflecting broader trends in Democratic politics. Factors influencing the nomination include candidate experience, fundraising capabilities, and alignment with voter concerns in the district. As the primary approaches, the dynamics among candidates will be crucial in determining whether Bean can secure the nomination for IL-08.
+Summary: The upcoming Democratic primary for Illinois' 8th Congressional District features a crowded field of candidates, including former U.S. Rep. Melissa Bean, who is seeking to regain the seat she lost 16 years ago. The race also includes candidates with more progressive platforms, highlighting a potential generational and ideological divide within the Democratic Party. The primary's outcome may hinge on voter preferences between experienced candidates like Bean and newer, progressive voices. This dynamic suggests that the nomination could go to either Bean or a candidate aligned with the progressive wing, making her chances uncertain but notable given her prior congressional experience.
 
-Title: Bean, Ahmed lead 8th Congressional primary fundraising - Chronicle Media
-Author: Joe DeRosier
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://chronicleillinois.com/election/bean-ahmed-lead-8th-congressional-primary-fundraising/
-Summary: Melissa Bean and Junaid Ahmed are the leading candidates in the Democratic primary for Illinois' 8th Congressional District, with Bean, a former Congresswoman, currently holding a slight edge in available funds. As of the end of 2026, Bean has over $1 million on hand after raising $766,000 in the last quarter, while Ahmed has raised a total of $1.2 million but has $835,615 available. 
+Title: Illinois' changing 8th District features wide-open Democratic primary
+Author: Robert McCoppin  |  rmccoppin@chicagotribune.com  | Chicago Tribune
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://trib.al/9wwClz8
+Summary: Melissa Bean is a prominent candidate in Illinois' 8th Congressional District Democratic primary, with significant name recognition and legislative experience. She has received notable endorsements from prominent figures like U.S. Senators and Representatives. However, the primary race is highly competitive, with multiple candidates including Junaid Ahmed, Neil Khot, and others, all actively campaigning and raising substantial funds. Polls from August indicated Bean leading with 10% of the vote amid a large, undecided electorate. Given the crowded field, recent polling, and ongoing campaign dynamics, it remains uncertain whether Bean will secure the Democratic nomination.
 
-Bean has significant endorsements from prominent figures, including U.S. Senator Tammy Duckworth and former Speaker Nancy Pelosi, which may bolster her candidacy. In contrast, Ahmed has garnered support from progressive leaders and organizations, indicating a strong grassroots backing. 
-
-Other candidates, such as Neil Khot and Dan Tully, trail behind in fundraising and endorsements, which could impact their viability in the race. Given Bean's established political background and financial resources, along with her endorsements, she may be a strong contender for the Democratic nomination, but Ahmed's progressive appeal and fundraising prowess could challenge her position. The outcome will likely depend on voter sentiment as the primary approaches.
-
-Title: What to know about Illinois' 8th Congressional District Democratic primary - WBEZ Chicago
+Title: A changing Illinois 8th District sets stage for wide-open Democratic primary to replace Rep. Krishnamoorthi - Worldnews.com
 Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.wbez.org/government-politics/elections/2026/02/17/what-to-know-about-illinois-8th-congressional-district-democratic-primary
-Summary: The Democratic primary for Illinois' 8th Congressional District is competitive, with eight candidates vying for the nomination to replace U.S. Rep. Raja Krishnamoorthi, who is running for U.S. Sen. Dick Durbin’s seat. Among the candidates is Melissa Bean, a former congresswoman who previously represented the district from 2005 to 2011. 
-
-To assess Melissa Bean's chances of becoming the Democratic nominee, consider the following factors:
-
-1. **Candidate Background**: Bean has prior congressional experience, which may appeal to voters looking for established leadership. Her history in the district could provide her with a strong base of support.
-
-2. **Current Political Landscape**: The primary includes notable candidates such as Junaid Ahmed, who previously challenged Krishnamoorthi, and Yasmeen Bankole, a local trustee with connections to the current representative. The dynamics among these candidates could influence Bean's chances.
-
-3. **Voter Sentiment**: Understanding the priorities and preferences of Democratic voters in the district will be crucial. Issues such as healthcare, education, and local economic development may resonate differently with the electorate.
-
-4. **Campaign Strategy**: How effectively Bean and her opponents campaign, including fundraising, outreach, and messaging, will significantly impact their chances in the primary.
-
-5. **Endorsements and Support**: Any endorsements from influential figures or organizations could bolster Bean's candidacy and sway undecided voters.
-
-Overall, while Melissa Bean has a
-
-Title: Moderate Democrat faces off against anti-Israel challengers in ...
-Author: Marc Rod
-Published Date: 2026-01-23T00:00:00.000Z
-URL: https://jewishinsider.com/2026/01/former-rep-melissa-bean-illinois-8th-congressional-district-primary/
-Summary: The article discusses the political landscape in suburban Chicago, focusing on Melissa Bean, a moderate Democrat, as she faces anti-Israel challengers in the Democratic primary for Illinois' 8th congressional district (IL-08). The piece highlights the tensions within the party regarding Israel, with some candidates adopting more critical stances. Given the increasing polarization on this issue, Bean's moderate position may appeal to centrist voters, but she must navigate challenges from more progressive opponents. The outcome of the primary will likely depend on voter sentiment regarding Israel and how effectively Bean can rally support among moderate Democrats and the Jewish community. This context is crucial for predicting her chances of securing the Democratic nomination.
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://article.wn.com/view-lemonde/2026/02/27/A_changing_Illinois_8th_District_sets_stage_for_wideopen_Dem/
+Summary: Melissa Bean, a former U.S. Representative who previously held Illinois' 8th District seat from 2005 to 2011, is currently a leading contender in the Democratic primary to replace Rep. Raja Krishnamoorthi, who is leaving the seat to run for U.S. Senate. Despite facing attacks from opponents, Bean's prior legislative experience and name recognition give her a significant advantage. However, the political landscape has shifted since her last tenure, and the primary remains highly competitive, making her nomination uncertain at this stage.
 
 

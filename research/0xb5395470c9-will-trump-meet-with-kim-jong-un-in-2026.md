@@ -1,7 +1,7 @@
 # Research: Will Trump meet with Kim Jong Un in 2026?
 
 **Market ID:** 0xb5395470c9b87f5ae8ffc719c1376aa89b493adf083e01cb8064e683fbaa18fc
-**Researched At:** March 1, 2026 at 05:59:40 AM UTC
+**Researched At:** March 9, 2026 at 04:25:08 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump meet with Kim Jong Un in 2026?"
 
 ---
@@ -9,43 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.5¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-Both Trump’s openness and Kim’s nuclear preconditions are well publicized and likely already priced in. The current 37% probability reasonably reflects the mixed signals, with at most a small overpricing bias of a few cents.
+Current reporting shows both Trump and Kim express openness to talks but no concrete schedule, while deep strategic barriers remain. The 28% price reasonably balances these factors; there’s no clear miss.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump and Kim Jong Un will meet in person at any point in 2026 (Jan 1–Dec 31). A “Yes” requires an in-person encounter with interaction; otherwise “No.”
+This market asks whether former President Donald Trump and North Korean leader Kim Jong Un will meet in person at any point during 2026. “Yes” requires a face-to-face interaction (even a brief encounter) between Trump and Kim within Jan 1–Dec 31, 2026 (ET).
 
 2. EVIDENCE EVALUATION  
-Bullish (supports a meeting):  
- • Yonhap (2026-02-27) reports Trump is “open to dialogue without preconditions.”  
- • Kim has publicly left the door open to U.S. talks (Euronews 02-26, BBC 02-26, Japan Times 02-26).  
- • Trump’s prior history of meetings with Kim suggests he might seize another opportunity if diplomatic conditions allow.  
+Bullish signals (supporting a higher probability than 28%):  
+- Reuters (2026-03-02): Kim remains open to talks depending on U.S. posture; Trump could leverage his past rapport.  
+- Yonhap (2026-02-27): White House says Trump “remains open” to dialogue with Kim “without any preconditions.”  
+- Euronews (2026-02-26): Kim shuns Seoul but “leaves door open” to U.S. dialogue, implicitly including past interlocutors like Trump.  
 
-Bearish (argues against a meeting):  
- • Chatham House (01-07) notes Kim refuses to talk unless the U.S. abandons denuclearization demands; his New Year’s address omitted any mention of engagement.  
- • Kim continues to expand his nuclear arsenal, raising the diplomatic cost of any summit.  
- • No concrete meeting plans or schedules have been announced.  
+Bearish signals (supporting a lower probability):  
+- Chatham House (2026-01-07): Kim says he will refuse talks unless the U.S. abandons denuclearization demands—an unlikely policy shift under a Biden administration.  
+- Stalled nuclear negotiations since 2019; current U.S.–North Korea tensions (Iran/Israel strikes) may harden Kim’s stance.  
 
-Source credibility is high for Yonhap, BBC, Chatham House; recency is within the last two months. None of this is surprising or likely unpriced: openness and impasses have coexisted for years.
+All sources are recent (Jan–Mar 2026) and credible (Reuters, Yonhap, Euronews, Chatham House). The bullish evidence is forward-looking statements of openness, but no concrete plans. The bearish view emphasizes strategic barriers and U.S. policy continuity. Neither side provides a calendar event or firm proposal.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 37% probability plausibly balances Trump’s willingness against Kim’s nuclear preconditions and the volatile U.S.–N.K. relationship. Low volume suggests the market isn’t heavily traded, but these same public signals have been available for months, so major new insights aren’t being overlooked.
+A 28% price could reflect the market’s consensus: past Trump–Kim summits make a repeat not implausible, but structural hurdles (U.S. policy, Kim’s demands, Trump’s non-office status) cap upside. Low volume and tight spreads suggest a few savvy speculators rather than wide engagement, but the balance of open-door statements versus substantive impasse plausibly yields ~30%.
 
 4. MISPRICING ASSESSMENT  
-No single piece of credible, untapped information suggests a swing of more than a few percentage points. Both sides’ positions—open-but-conditional vs. high barriers—are well known and likely already priced in. A small overpricing bias (perhaps 3–7 cents) may exist, but nothing near a 20 cent mispricing.
+No evidence of a scheduled meeting or imminent breakthrough; no signals of an imminent negotiating track that traders have missed. The key open question—U.S. policy flexibility on denuclearization—is widely reported. Any large (>20¢) mispricing claim would ignore these well-publicized constraints. The most charitable interpretation is that 28% fairly balances optimism about Trump’s personal diplomacy and pessimism about geopolitical realities.
 
 5. EXPECTED VALUE CALCULATION  
- • Strength of evidence: Medium (50%)—the case for slight overpricing is plausible but not ironclad.  
- • Magnitude of mispricing: ~5 cents.  
- • Expected value = 50% × 5 cents = 2.5 cents.
+Strength of evidence that price is wrong: 20% (mixed signals, but no clear new info)  
+Magnitude of mispricing: ≈0 cents (no concrete directional edge)  
+Expected value ≈ 0 cents
 
-EXPECTED_VALUE: 2.5  
-SUMMARY: Both Trump’s openness and Kim’s nuclear preconditions are well publicized and likely already priced in. The current 37% probability reasonably reflects the mixed signals, with at most a small overpricing bias of a few cents.  
+EXPECTED_VALUE: 0  
+SUMMARY: Current reporting shows both Trump and Kim express openness to talks but no concrete schedule, while deep strategic barriers remain. The 28% price reasonably balances these factors; there’s no clear miss.  
 CONFIDENCE: medium
 
 ---
@@ -54,42 +53,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Iran strikes spotlight chances for North Korea to resume nuclear talks with Trump | Reuters
+Author: Heejin Kim
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://reuters.com/world/china/iran-strikes-spotlight-chances-north-korea-resume-nuclear-talks-with-trump-2026-03-02
+Summary: The article discusses recent U.S. and Israeli military strikes on Iran, which are believed to strengthen North Korea's nuclear ambitions under Kim Jong Un. Despite past summits between Kim and Trump in 2018 and 2019, negotiations on North Korea's nuclear arsenal have stalled, largely due to international sanctions and strategic tensions. Kim has recently emphasized building more nuclear weapons but remains open to talks depending on U.S. attitudes. The geopolitical climate, including U.S. actions against Iran and North Korea's response, suggests heightened tensions that could influence the likelihood of a future meeting between Trump and Kim in 2026. The article indicates that while Kim is open to dialogue, current U.S. policies and regional conflicts may impact the prospects of such a summit occurring.
+
 Title: (LEAD) White House says Trump remains open to dialogue with Kim 'without any preconditions' | Yonhap News Agency
 Author: Song Sang-ho
 Published Date: 2026-02-27T00:00:00.000Z
 URL: https://en.yna.co.kr/view/AEN20260227000251315
-Summary: The White House has stated that former President Donald Trump remains open to dialogue with North Korean leader Kim Jong Un "without any preconditions." This indicates a willingness to engage in discussions, which could suggest potential for a future meeting. However, the specifics of any such meeting in 2026 remain uncertain and would depend on various geopolitical factors, including the state of U.S.-North Korea relations, ongoing diplomatic efforts, and developments in North Korea's nuclear program. The openness to dialogue is a positive sign, but concrete plans or commitments for a meeting have not been established.
+Summary: The White House has stated that former President Donald Trump remains open to engaging in dialogue with North Korean leader Kim Jong Un, emphasizing that such discussions would occur "without any preconditions." This indicates a willingness from Trump's side to consider direct talks with North Korea, potentially influencing the likelihood of a meeting in 2026. However, there are no specific details or confirmations about scheduled or planned meetings between Trump and Kim in the upcoming year. The statement reflects an openness to diplomacy, which could be relevant when assessing the possibility of a summit in 2026.
 
 Title: Kim Jong-un vows no ties with Seoul but leaves door open to US talks
-Published Date: 2026-02-26T05:59:26.873Z
+Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.euronews.com/2026/02/26/north-korea-shuns-relations-with-south-as-kim-jong-un-says-it-could-get-along-with-us
-Summary: In a recent statement, North Korean leader Kim Jong-un expressed a firm stance against establishing relations with South Korea, while simultaneously indicating a willingness to engage in dialogue with the United States. This development suggests that North Korea may be open to negotiations with the U.S., which could potentially influence future interactions involving key figures like Donald Trump. Given Trump's history of meetings with Kim Jong-un, this openness to U.S. talks could be a significant factor in predicting whether a meeting between Trump and Kim will occur in 2026. The evolving diplomatic landscape and Kim's current position may create opportunities for renewed discussions, depending on the political climate and Trump's own ambitions.
-
-Title: North Korea could 'get along' with US, says Kim Jong Un
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.bbc.com/news/articles/c0q3747jvnwo
-Summary: In a recent address during North Korea's five-yearly party congress, Kim Jong Un expressed a willingness for the United States and North Korea to "get along," contingent upon the U.S. recognizing North Korea's nuclear capabilities. He emphasized that the future of U.S.-North Korea relations hinges on the U.S. attitude and policies, particularly regarding its "hostile" stance. Kim's remarks suggest a potential openness to dialogue with the U.S., especially with President Trump’s upcoming visit to China, indicating a desire for direct engagement without involving South Korea, which he labeled as the North's "most hostile entity."
-
-Kim also reiterated North Korea's commitment to expanding its nuclear arsenal, stating that the country would focus on increasing the number of nuclear weapons and enhancing operational capabilities. This ongoing development of nuclear capabilities, despite international sanctions, complicates the geopolitical landscape.
-
-Given these dynamics, the potential for a meeting between Trump and Kim in 2026 could depend on several factors, including the U.S. approach to North Korea's nuclear program, the evolving political climate, and Kim's willingness to engage diplomatically. The current statements suggest that while Kim is open to dialogue, significant challenges remain, particularly regarding nuclear disarmament and regional tensions.
-
-Title: North Korea could ‘get on well' with U.S., Kim says, while spurning South Korea - The Japan Times
-Author: Jesse Johnson
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.japantimes.co.jp/news/2026/02/26/asia-pacific/north-korea-kim-jong-un-us-trump-nukes/
-Summary: In a recent statement, North Korean leader Kim Jong Un expressed a willingness for North Korea to "get on well" with the United States, indicating a potential openness to diplomatic engagement. This comes amid a backdrop of strained relations with South Korea, which Kim has spurned. The context of Kim's remarks suggests a possible shift in North Korea's foreign policy, particularly towards the U.S., which could influence future meetings.
-
-Given this development, the likelihood of a meeting between Trump and Kim Jong Un in 2026 may hinge on several factors, including the political climate in the U.S., Trump's own ambitions, and North Korea's ongoing diplomatic strategies. Kim's recent comments may signal an interest in rekindling dialogue, which could create an opportunity for a meeting, especially if Trump seeks to leverage such an event for political gain. However, the situation remains fluid, and further developments will be crucial in predicting the feasibility of such a meeting.
+Summary: Kim Jong-un has stated that North Korea will not establish ties with South Korea but remains open to engaging with the United States. While he has rejected dialogue with Seoul, Kim has indicated a willingness to potentially have discussions with U.S. officials, suggesting a possible avenue for diplomatic talks. This stance implies that, despite current tensions with South Korea, there remains a possibility for future negotiations between North Korea and the U.S., which could include meetings with leaders such as Donald Trump.
 
 Title: North Korea in 2026: Will the US and South Korean push for talks ...
 Published Date: 2026-01-07T00:00:00.000Z
 URL: https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed
-Summary: In 2026, the potential for a meeting between US President Donald Trump and North Korean leader Kim Jong Un appears uncertain. While both Trump and South Korea's President Lee Jae-myung have expressed a desire to revive dialogue with North Korea, Kim has made it clear that he will not engage unless the US abandons its focus on denuclearization. This stance significantly lowers the likelihood of talks compared to previous years.
+Summary: The article indicates that prospects for a meeting between Donald Trump and Kim Jong Un in 2026 are unlikely. While US and South Korean leaders express interest in reviving dialogue with North Korea, Kim Jong Un has explicitly stated he would refuse talks unless the US abandons its focus on denuclearization. North Korea shows less interest in engaging with Seoul and is more inclined to negotiate with Washington, but the current diplomatic environment suggests that a direct meeting with Trump this year is improbable.
 
-Additionally, Kim's recent New Year’s address did not mention the US or South Korea, indicating a shift in focus towards domestic issues and economic development. The upcoming Ninth Party Congress of the Workers’ Party of Korea may provide further clarity on North Korea's policy direction, but as of now, there is little indication that Kim is willing to negotiate with either Washington or Seoul.
-
-Overall, the current political climate suggests that a meeting between Trump and Kim in 2026 is improbable unless there are significant changes in the US's approach to North Korea's nuclear ambitions.
+Title: US-North Korea talks: What could happen now? - BBC
+Published Date: 2018-03-09T00:00:00.000Z
+URL: https://www.bbc.com/news/world-asia-43340272
+Summary: The article discusses the historic potential meeting between U.S. President Donald Trump and North Korean leader Kim Jong-un, scheduled for as early as May 2018. This would be the first face-to-face meeting between sitting leaders of the two nations, marking a significant diplomatic breakthrough. The exact location and details are still uncertain, with possibilities including Panmunjom or a neutral country like China. The primary agenda is denuclearization, though North Korea has not committed to fully abandoning its nuclear arsenal. Other issues include the return of Americans held in North Korea, recognition of North Korea as a nuclear state, and the possibility of a peace treaty, which might involve U.S. troop withdrawals from South Korea. Given the historical context and the ongoing nature of diplomatic negotiations, predicting whether Trump will meet Kim in 2026 remains uncertain, as it depends on the outcomes of ongoing talks and political developments over the coming years.
 
 

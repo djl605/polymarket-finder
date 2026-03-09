@@ -1,7 +1,7 @@
 # Research: Relay FDV above $100M one day after launch?
 
 **Market ID:** 0xc9f02df8613beff1bfd7fd9536f0eca2e3db5f3b5052e9f7ea44627da2ef2a1e
-**Researched At:** March 1, 2026 at 06:09:25 AM UTC
+**Researched At:** March 9, 2026 at 04:25:46 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Relay FDV above $100M one day after launch?"
 
 ---
@@ -9,47 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Relay’s strong usage metrics and Series B support make a >$100 M FDV plausible, but key tokenomics (supply, unlock schedule) remain undisclosed, justifying the 62.5% market price. There’s no clear, actionable mispricing large enough to exploit.
+With no concrete data on Relay’s tokenomics, launch date, or exchange commitments, the 62.5% probability fairly balances bullish analogs (e.g. Fabric) against bearish uncertainty (e.g. Bitway’s unknown TGE). There is no compelling evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Relay’s governance token have a fully diluted valuation (FDV) above $100 million exactly 24 hours after its token launch (at 4 PM ET the next calendar day)?”  
-– YES requires: (a) Relay actually issues a publicly tradable governance token before 11:59 PM ET on 12/31/2027, (b) the token supply × opening price at the 4 PM snapshot exceeds $100 million.  
-– NO if: Relay never issues a token by the deadline, or if at that 4 PM snapshot the FDV is ≤ $100 million.
+This market asks whether Relay’s governance token will have a Fully Diluted Valuation (FDV) above $100 million at 4 PM ET on the calendar day after its launch (i.e., total supply × price > $100 M). If the token is publicly tradable by then and crosses that valuation threshold, the market resolves “Yes.” Otherwise—or if no token launch occurs by 31 Dec 2027, 11:59 PM ET—it resolves “No.”  
 
 2. EVIDENCE EVALUATION  
-Bullish signals (supporting > 100 M FDV):  
-• Relay has demonstrable traction: $20 billion processed, 100 million tx across 85+ chains with 99.9% reliability.  
-• Strong backers (Archetype, USV) and $17 million Series B on 2/5/26. Projects with real usage often command sizeable token valuations.  
-• Comparable protocols (e.g., Arbitrum’s token debut) have leapt into the hundreds of millions or billions in FDV.  
+Bullish signals (arguing price too low):  
+• Successful analogs: Fabric (ROBO) saw ~98% odds for >$100 M FDV one day post-launch, driven by strong community and on-chain data.  
+• Mint Ventures commentary: Projects with deep pockets, strong community engagement, and innovative tokenomics can clear $100 M FDV quickly on well-established chains like Solana. Relay could benefit from similar factors if it has solid backers and utility.  
 
-Bearish signals (suggesting < 100 M FDV or high uncertainty):  
-• Market context is a broad altcoin bear—new tokens often struggle to find buyers at lofty caps until a full bull cycle unfolds.  
-• Key token details (total supply, distribution schedule, TGE mechanism, initial liquidity commitments) remain undisclosed, injecting meaningful uncertainty.  
-• Relay’s core product (cross‐chain infrastructure) may attract more usage than speculative token demand, damping initial price.  
+Bearish signals (arguing price too high):  
+• Bitway example: Markets remain uncertain without a confirmed TGE date and clear liquidity metrics; $100 M+ FDV targets are treated as high-risk. Relay’s launch date is likewise unannounced.  
+• FELIX case: Meme/narrative tokens can overshoot early but depend entirely on hype and liquidity; failures are common. Without evidence of strong narrative traction or listing commitments for Relay, hitting $100 M is speculative.  
+• Hurupay: Another “above $100 M one day post-launch” market at ~3% probability, showing some tokens simply flop.
 
-Source credibility/recency: The Relay Series B article is dated 2026-02-05—very recent and directly relevant to the token launch. The Mint Ventures overview is broader on altcoin cycles, less specific to Relay but timely. The Fabric and Arbitrum reports provide useful analogs but differ in ecosystem and tokenomics. All sources are from well-known crypto research outlets or the project’s own Radar blog, making them moderately credible for trend analysis.
+Source credibility/recency: All research is from Feb 2026, within one month of this market’s creation (Mar 2026). AInvest and Prediction Circle are established analysts for these markets.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 62.5% implied probability can be rational if traders are uncertain about undisclosed token details (supply, unlock schedule, listing timing) despite strong fundamentals. Low volume (under $8.5K) and a tight spread suggest either one or few informed traders set prices, or the market is broadly unengaged pending clearer tokenomics. If it were an obvious slam dunk or bust, volume would likely be higher.
+• A 62.5% price could reflect genuine consensus that Relay’s tokenomics and community may be strong enough to surpass $100 M FDV, but balanced by uncertainty around launch timing, exchange listings, and real demand.  
+• Zero volume suggests few participants—possibly only one or two opinionated traders set this mid-range price. The 5¢ spread is surprisingly tight, hinting at a maker order rather than broad engagement.  
+• The outcome is neither trivial (like Fabric) nor deemed impossible (like Hurupay), so the low volume likely reflects genuine ambiguity rather than complete consensus.
 
 4. MISPRICING ASSESSMENT  
-– No specific missing fact: the critical unknowns are token supply and vesting; those ceilings/curves govern FDV at launch but are not public.  
-– If informed traders have priced in realistic tokenomics scenarios (e.g., a 200 M supply with a $0.50 opening price = $100 M FDV), 62.5% seems to reflect balanced risk between bear market headwinds and project traction.  
-– There’s insufficient evidence of a > 20¢ misprice. The risk around unknown token metrics alone could justify a mid-range probability.
+No specific, credible data on Relay’s token supply, fundraising size, listed venues, or pre-launch commitments are missing from the price. Given the parallels to Bitway (uncertainty without TGE details) and FELIX (dependence on narrative/liquidity), 62.5% seems a plausible midpoint. There is no robust evidence to suggest the market is off by more than a few cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is incorrect: ~30% (substantial unknowns but no glaring omission)  
-Magnitude of potential mispricing: ~5 cents (not large given the uncertainty)  
-Expected value = 0.30 × 5 c = 1.5 c
+Strength of evidence: 20% (minimal direct data)  
+Magnitude of mispricing: 5 cents maximum  
+Expected value ≈ 20% × 5 cents = 1 cent
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Relay’s strong usage metrics and Series B support make a >$100 M FDV plausible, but key tokenomics (supply, unlock schedule) remain undisclosed, justifying the 62.5% market price. There’s no clear, actionable mispricing large enough to exploit.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: With no concrete data on Relay’s tokenomics, launch date, or exchange commitments, the 62.5% probability fairly balances bullish analogs (e.g. Fabric) against bearish uncertainty (e.g. Bitway’s unknown TGE). There is no compelling evidence of a large mispricing.  
 CONFIDENCE: low
 
 ---
@@ -58,76 +55,33 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Mint Ventures's Profile | Binance Square
-Author: 
-URL: https://www.binance.com/en/square/profile/mint_ventures
-Summary: The Mint Ventures profile on Binance Square discusses various investment strategies and projects within the cryptocurrency space, focusing on long-term potential amidst market cycles. Key insights include:
+Title: Bitway Prediction Market: Can the $80M FDV Moonshot Hit 1 Day After Launch?
+Author: AInvest
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.ainvest.com/news/bitway-prediction-market-80m-fdv-moonshot-hit-1-day-launch-2602/
+Summary: The article discusses a prediction market centered on whether Bitway's fully diluted valuation (FDV) will exceed $80 million one day after its token launch. Currently, the market shows active betting with $82,758 in wagers, indicating community engagement and speculation. However, the absence of a confirmed token generation event (TGE) date and the lack of clear price signals suggest significant uncertainty. The high FDV target, combined with substantial dilution (79x raise), presents a high-risk, high-reward scenario. To predict if FDV could surpass $100 million one day after launch, factors such as the project's utility, whale participation, liquidity, and market sentiment would be critical. The current market activity reflects skepticism about achieving such an aggressive valuation immediately post-launch, emphasizing the speculative and uncertain nature of this moonshot.
 
-1. **Market Trends**: The analysis highlights the current bear market for altcoins, contrasting it with historical patterns where altcoins typically surged post-bull market initiation. Bitcoin's market dominance has increased significantly, which may influence the performance of new projects.
-
-2. **Investment Targets**: The series "Sifting for Gold" identifies promising projects across different sectors, including lending (Aave, MakerDAO), staking (Lido), and trading (Uniswap). These projects are evaluated for their fundamental strengths and long-term viability.
-
-3. **Hyperliquid**: This project has gained attention for its unique economic model, which includes community token allocation and revenue redistribution. Its innovative approach could position it favorably for rapid growth post-launch.
-
-4. **Solana Ecosystem**: The profile notes significant growth in the Solana blockchain, with projects like Solayer and Metaplex showing strong performance metrics. The increasing number of active addresses and transaction fees on Solana suggests a robust environment for new projects.
-
-5. **Valuation Insights**: The discussion on Ethena, which experienced a significant market cap fluctuation, indicates that projects can achieve high FDVs quickly, but market conditions and investor sentiment play crucial roles in sustaining that value.
-
-For predicting whether a project can achieve an FDV above $100M one day after launch, consider
-
-Title: Relay Raises Series B and Launches the Relay Chain
-Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://radar.relay.link/relay-raises-17m-series-b/
-Summary: Relay has recently raised $17 million in a Series B funding round led by Archetype and Union Square Ventures, coinciding with the launch of the Relay Chain, an interoperability infrastructure designed to facilitate seamless cross-chain transactions. The platform aims to simplify the fragmented landscape of on-chain money, where users can transact across multiple blockchains without needing to navigate complex processes.
-
-Key features of Relay include:
-- **Asset Routing**: Converts user-held assets to the required format for transactions.
-- **Crosschain Execution**: Instantly routes transactions across over 85 networks without manual intervention.
-- **Transaction Completion**: Ensures high reliability with automatic completion or reversion of transactions, boasting over 99.9% reliability.
-
-Relay has already achieved significant traction, processing over $20 billion in volume and completing more than 100 million transactions. It supports major chains like Solana, Bitcoin, and Ethereum, making it a critical player in the on-chain economy.
-
-Given this robust infrastructure and the growing demand for cross-chain capabilities, it is plausible that Relay's fully diluted valuation (FDV) could exceed $100 million shortly after launch, especially considering its established user base and partnerships with popular applications like Phantom and MetaMask.
+Title: FELIX FDV Above ___ One Day After Launch? Let's Break Down the Narrative Fuel
+Author: AInvest
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.ainvest.com/news/felix-fdv-day-launch-break-narrative-fuel-2602/
+Summary: The article discusses FELIX, a meme token launched through a viral social media narrative rather than traditional fundamentals. Its FDV (Fully Diluted Valuation) is highly dependent on early holder conviction and exchange liquidity, with no underlying metrics backing its valuation. The token experienced a rapid price surge of 59.60% within the first week, driven by FOMO and narrative hype, with significant trading volume ($1.45M). Its launch involved sequential listings on exchanges XT and WEEX, creating liquidity and momentum. Predicting whether FELIX's FDV exceeds $100 million one day after launch hinges on the strength of early community support and liquidity, rather than intrinsic value, as the valuation is primarily narrative-driven.
 
 Title: Fabric ($ROBO) FDV above ___ one day after launch? - Prediction Market Odds & Analysis
 Author: Prediction Circle
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://predictioncircle.com/event/fabric-fdv-above-one-day-after-launch
-Summary: The prediction market for Fabric ($ROBO) indicates a competitive landscape regarding its Fully Diluted Valuation (FDV) one day after launch. Currently, the market shows a strong expectation for an FDV of $50M at a 99% probability and a close second for $100M at 98%. This suggests that while $50M is seen as highly likely, there is also significant confidence in the possibility of reaching $100M.
+Summary: The prediction market indicates a high likelihood (~98%) that Fabric's (ROBO) Fully Diluted Valuation (FDV) will be above $100 million one day after launch. Currently, the market shows strong interest and confidence in the $50 million threshold, with near certainty (99%) that FDV exceeds this amount, and a 98% probability for surpassing $100 million. Trading volume is substantial at $659K, with active participation from over 100 traders. The market's signals suggest that, based on current sentiment, on-chain data, and credible reporting, Fabric's valuation is expected to be significantly above $100 million shortly after its launch.
 
-With a total trading volume of $659K and 10 active markets, the interest in this event is notable, with 309 days remaining for trading. The "Crowd vs Money" analysis reveals that while many participants are watching the $50M outcome, there is less financial backing compared to the $100M outcome, which could indicate a divergence between public sentiment and actual financial commitment.
+Title: Hurupay FDV above ___ one day after launch? Predictions &... | Polymarket
+Author: 
+Published Date: 2026-02-22T00:00:00.000Z
+URL: http://poly.market/hurupay
+Summary: The market predicts whether Hurupay's Fully Diluted Valuation (FDV) will exceed specific thresholds one day after launch, with current data indicating a $201,755 valuation at the $1M threshold. The market's resolution depends on whether Hurupay's token, which must be actively tradable and publicly transferable, reaches the specified FDV. As of now, the market shows low probability (around 3%) that the FDV will surpass $100M, with buy and sell prices for this outcome at approximately 4.0¢ and 97.9¢ respectively. The outcome hinges on Hurupay's token launch and its subsequent trading activity, with the market scheduled to resolve on January 1, 2027.
 
-To predict whether the FDV will exceed $100M, consider the current market dynamics, trader sentiment, and the overall trading activity. The resolution of this market will depend on verified on-chain data and credible reporting, with the FDV calculated based on the total token supply and price. The outcome will be determined by the token's active trading status one day post-launch, defined as 4:00 PM ET the day after.
-
-Title: Arbitrum (ARB) Deep Due Diligence Investment Report 2025
-URL: https://www.thestandard.io/blog/arbitrum-arb-deep-due-diligence-investment-report-2025
-Summary: The Arbitrum (ARB) Deep Due Diligence Investment Report 2025 provides insights into Arbitrum's potential for achieving a fully diluted valuation (FDV) above $100 million shortly after its launch. Key factors to consider include:
-
-1. **Market Leadership**: Arbitrum is the largest Layer-2 scaling solution for Ethereum, utilizing Optimistic Rollup technology to enhance transaction throughput and reduce fees. Its dominance is evidenced by consistently high total value locked (TVL) and user activity, often surpassing Ethereum itself in daily transactions.
-
-2. **Strong Ecosystem**: With major decentralized applications (DApps) like GMX, Uniswap, and Aave deployed on its platform, Arbitrum has a diversified TVL that peaked around $3.2 billion. This robust ecosystem can drive demand for the ARB token, potentially leading to a rapid increase in FDV.
-
-3. **Community Governance and Tokenomics**: The introduction of the ARB token in March 2023, along with a significant airdrop to over 600,000 addresses, has established a community governance model. This decentralized approach may enhance user engagement and investment interest, contributing to a higher FDV.
-
-4. **Strong Backing and Team**: Founded by notable computer scientists and backed by substantial funding ($120 million in Series B), Arbitrum benefits from a strong foundation and expertise in blockchain technology, which can instill confidence in investors.
-
-Given these factors, Arbit
-
-Title: Abstract's Token Launch: Will the FDV Moonshot or Crash?
-Author: AInvest
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.ainvest.com/news/abstract-token-launch-fdv-moonshot-crash-2602/
-Summary: The article discusses the upcoming launch of Abstract's token, focusing on its Fully Diluted Valuation (FDV) and the potential for it to exceed $100 million one day post-launch. Key points relevant to this prediction include:
-
-1. **Community Engagement**: The Pudgy Penguins community is heavily invested in the token's success, with over 150 million transactions and a 40% retention rate in the last 30 days, indicating strong user engagement and a supportive ecosystem.
-
-2. **Market Sentiment**: There is a split in market sentiment, with bullish expectations from the Pudgy Penguins supporters who believe in a moonshot, contrasted by bearish concerns about potential dilution. The FDV-to-market cap ratio stands at 0.71, raising fears of a price collapse due to unlocked token supply and aggressive vesting schedules.
-
-3. **Prediction Market**: A prediction market is active, with outcomes hinging on whether the FDV surpasses the $100 million mark shortly after launch. This market will resolve in late 2027, reflecting the ongoing uncertainty and speculation surrounding the token's performance.
-
-4. **Liquidity Concerns**: Abstract's current Total Value Locked (TVL) is $20.6 million, and there is minimal whale activity on exchanges, suggesting liquidity challenges that could impact the token's price movement.
-
-5. **Tokenomics Strategy**: The Abstract team is proactively engaging users through incentive structures, aiming to build momentum before the token generation event (TGE),
+Title: Mint Ventures's Profile | Binance Square
+Author: 
+URL: https://www.binance.com/en/square/profile/mint_ventures
+Summary: The webpage discusses various long-term investment prospects within the crypto sector, emphasizing projects with strong fundamentals and market potential. Notably, it highlights the importance of assessing projects' market capitalization and valuation metrics, such as Fully Diluted Valuation (FDV). For predicting whether a project could relay an FDV above $100 million shortly after launch, key factors include the project's initial funding, community engagement strategies (e.g., Hyperliquid's revenue redistribution), and its position within the market (e.g., Solana's rapid growth and staking projects like Solayer). Projects with substantial backing, innovative economic models, and strong community support are more likely to achieve high FDV quickly post-launch.
 
 

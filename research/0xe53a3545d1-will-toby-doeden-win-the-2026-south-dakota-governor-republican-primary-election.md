@@ -1,56 +1,50 @@
 # Research: Will Toby Doeden win the 2026 South Dakota Governor Republican primary election?
 
 **Market ID:** 0xe53a3545d1b55e0075b3f4863d538e959dc722c066293a0f41ce5a429ee9fcd0
-**Researched At:** March 1, 2026 at 06:09:33 AM UTC
+**Researched At:** March 9, 2026 at 04:27:15 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Toby Doeden win the 2026 South Dakota Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 23.8¢
+**Confidence:** Low
+**Expected Value:** 2.0¢
 
 ### Summary
 
-All available recent simulations and finance reports put Doeden’s win probability at around 0–2%, far below the market’s 36.5%. There is strong, consistent bearish evidence and no bullish counterevidence, indicating a likely >30¢ mispricing.
+There is no strong polling or fundraising data suggesting Doeden leads a field of established Republicans, so 36.5% seems optimistic, but evidence is too sparse to pin a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Toby Doeden will emerge as the winner of the June 2, 2026 South Dakota Republican primary for governor (including any runoff). A “YES” requires him to secure a plurality (or majority via runoff) of Republican primary votes; a “NO” covers any other contender winning or no primary occurring.
+The market asks whether Toby Doeden wins the June 2, 2026 South Dakota Republican gubernatorial primary. A “YES” requires Doeden to outpoll all Republican contenders (incumbent Gov. Rhoden, Rep. Johnson, Speaker Hansen, etc.), including any run-off; “NO” covers any other winner or no primary.  
 
 2. EVIDENCE EVALUATION  
-Bearish on Doeden (suggests 36.5% too high)  
-• Race Lab simulations (Northern Plains News, 2026-02-04) assign him only a 0–2% win probability, positioning Rhoden and Johnson as overwhelming frontrunners.  
-• Financial filings (SoDakCampaigns, 2026-02-03): $103K in donations, $2.01 M self-loan, $2.07 M spent, $41K left; heavy personal–family funding but little grassroots support.  
-• Momentum concerns (SoDakCampaigns, 2026-02-13): drop in social-media activity and comparative stagnation vs. active Rhoden and Johnson campaigns.
+Bullish for Doeden (higher than 36.5%):  
+• Dana Hess (Dec 2025) notes that lesser-known candidates can overperform using newspaper ads (83% readership), implying Doeden could punch above his weight if well-funded.  
 
-Bullish on Doeden (supports ~36.5%)  
-• None of the research reports any positive indicator—no internal polling showing him competitive, no major endorsements, no late-breaking scandal or gaffe by opponents.
+Bearish for Doeden (lower than 36.5%):  
+• Tom Lawrence (Feb 2026) lists Doeden among three high-profile opponents—incumbent Rhoden, a sitting congressman, and a state House speaker—without any polling or endorsements favoring Doeden.  
+• The June 2025 analysis of early entrants emphasizes that the race is dominated by established figures; Doeden appears not to have a recognized base yet.  
+• No polling or fundraising data is cited showing Doeden leading or even in second place.  
 
-Source credibility & recency  
-• Race Lab and SoDakCampaigns are recent (Feb 2026) and directly focused on SD GOP primary. Though not official party polls, their analyses are data-driven and timely.
+Source recency and credibility are moderate: all are within the last three months to a year and come from known South Dakota outlets. None provide quantitative metrics (polls, fundraising) for Doeden.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 36.5% price implies a credible view that he’s a near-one-third chance to win; this contrasts sharply with simulation and finance data.  
-• Low $913 volume and 3¢ spread suggest pricing is set by very few traders, likely without deep local insight.  
-• If the outcome were truly unclear, we'd expect more volume; conversely, if it were obvious he has almost no chance, the price would be near zero. The ambiguous middle ground hints at inattentive liquidity rather than informed consensus.
+A 36.5% price could reflect genuine uncertainty in a four-plus-candidate field, where an even split is ~25% but any candidate could break out. The low $1.8 K volume and tight spread suggest one or two traders may set the price, not a broad consensus. Informed traders might be waiting for polls.  
 
 4. MISPRICING ASSESSMENT  
-• Specific credible evidence (simulations, fundraising, momentum) points to win odds closer to 1–5%, far below the market’s 36.5%.  
-• No counter-evidence justifies a one-in-three chance.  
-• Timeline: with three months to go, endorsement and polling windows are opening, but nothing in the research suggests a sudden reversal is likely.  
-• Large (>20 ¢) mispricing is rare, but here we have multiple independent, recent sources all pointing in the same direction. The charitable interpretation of the 36.5% price is that very few amateur speculators bid it up, not that informed traders foresee a comeback.
+No direct quantitative evidence supports a >10-cent underpricing or overpricing. The lack of polling or public backing for Doeden argues the market may be too optimistic, but the “newspaper ad” angle tempers that. Without concrete data, a mispricing conclusion is weak.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 70% (multiple credible, recent sources all align bearish).  
-• Magnitude of mispricing: ~34 ¢ (market 36.5% vs. my ~2.5% midpoint of simulations).  
-• Expected value = 0.70 × 34 ¢ ≈ 23.8 ¢
+Strength of evidence: 20% (fairly weak—mostly absence of data)  
+Magnitude of mispricing: 10¢ (speculative overpricing)  
+Expected value = 0.2 × 10 = 2 cents  
 
-EXPECTED_VALUE: 23.8  
-SUMMARY: All available recent simulations and finance reports put Doeden’s win probability at around 0–2%, far below the market’s 36.5%. There is strong, consistent bearish evidence and no bullish counterevidence, indicating a likely >30¢ mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 2  
+SUMMARY: There is no strong polling or fundraising data suggesting Doeden leads a field of established Republicans, so 36.5% seems optimistic, but evidence is too sparse to pin a large mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -58,43 +52,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: 2025 EOY Reports: Doeden for Governor: $103k raised plus a $2.01M loan, $2.07M spent, and $41k cash on hand. – South Dakota War College
-Author: @SoDakCampaigns
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://dakotawarcollege.com/2025-eoy-reports-doeden-for-governor-103k-raised-plus-a-2-01m-loan-2-07m-spent-and-41k-cash-on-hand/
-Summary: Toby Doeden's campaign finance report reveals significant insights into his viability for the 2026 South Dakota Governor Republican primary election. He raised a total of $103,000, with a notable $2.01 million loan, and spent $2.07 million, leaving him with only $41,000 cash on hand. The bulk of his fundraising appears to come from family and close associates, raising concerns about grassroots support. Over $20,000 of the raised amount is attributed to individuals with the last name Doeden, suggesting a reliance on personal connections rather than broad public appeal. His substantial spending, particularly the large loan, raises questions about financial management and campaign strategy. Overall, the lack of grassroots backing and heavy reliance on personal funds may hinder his chances in the primary.
+Title: Analysis: Early 2026 gubernatorial announcements sees similar ...
+Published Date: 2025-06-12T00:00:00.000Z
+URL: https://www.sdpb.org/politics/2025-06-12/analysis-early-2026-gubernatorial-announcements-sees-similar-candidates
+Summary: The article analyzes early 2026 South Dakota gubernatorial race developments, noting that initial candidate announcements suggest a field with familiar contenders. While specific candidates are not detailed in the provided excerpt, the focus is on the pattern of candidate entries and the likelihood of incumbents or well-known figures running. To predict Toby Doeden's chances in the Republican primary, it’s important to consider whether he has announced his candidacy, his political profile, and how he compares to other announced or potential candidates. Currently, there is no direct information indicating Doeden's candidacy or support level, but the trend of early candidate announcements suggests that the primary may feature established or recognizable figures, which could influence Doeden's prospects.
 
-Title: New simulations show South Dakota GOP governor race narrowing to two candidates: Race Lab Simulation
-Author: Northern Plains News, LLC
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://northernplainsnews.substack.com/p/new-simulations-show-south-dakota
-Summary: The latest Race Lab simulations indicate that Toby Doeden is unlikely to win the 2026 South Dakota Republican gubernatorial primary. Current projections show Doeden with a win probability of only 0–2%, significantly trailing behind the leading candidates, Gov. Larry Rhoden and Rep. Dusty Johnson. 
+Title: Assessing SD gubernatorial candidates’ property tax proposals
+Author: Alexander Rifaat
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://www.kotatv.com/2026/02/10/assessing-sd-gubernatorial-candidates-property-tax-proposals/
+Summary: The article discusses various proposals and debates surrounding property tax reform in South Dakota, which is a key issue in the upcoming 2026 gubernatorial race. Incumbent Gov. Larry Rhoden has proposed allowing counties to choose to replace property taxes with a local sales tax increase, aiming for a more equitable distribution based on county-specific factors. Other candidates are presenting their own property tax plans, reflecting the importance of this issue in the primary race. While the article does not mention Toby Doeden specifically, understanding the candidates' positions on property tax reform and their approaches to local versus state-level solutions could be relevant in predicting his chances in the Republican primary.
 
-Doeden's campaign has faced challenges, including a lack of financial resources, with only $41,000 cash on hand after raising $103,000 and spending $2.07 million, primarily from a self-financed loan. In contrast, Rhoden and Johnson have stronger financial positions, with Rhoden holding approximately $512,000 in cash and Johnson around $1 million. 
+Title: Campaign season brings decisions about news and propaganda
+Author: Dana Hess
+Published Date: 2025-12-27T00:00:00.000Z
+URL: https://southdakotasearchlight.com/2025/12/27/campaign-season-brings-decisions-about-news-and-propaganda/
+Summary: The article emphasizes the importance of newspaper advertising in political campaigns, suggesting that candidates who strategically utilize newspapers could outperform expectations. While it does not specifically mention Toby Doeden's chances in the 2026 South Dakota Governor Republican primary, it highlights that lesser-known candidates who invest in newspaper ads might "punch above their weight" and make races more competitive. Given the significance placed on newspaper readership—where 83% of South Dakotans read newspapers and 85% of those voters participate in elections—effective newspaper advertising could be a key factor for Doeden or any candidate aiming to succeed in the primary.
 
-The simulations suggest that the race is increasingly a contest between Rhoden and Johnson, with Doeden's path to victory effectively closing unless an unexpected event occurs. Overall, the data points to a very slim chance for Doeden to secure a win in the primary.
-
-Title: Hansen, Doeden for Gov campaigns seem to be running out of steam. – South Dakota War College
-Author: @SoDakCampaigns
+Title: Ahlers steps forward to run for governor as the SDDP seeks to slay the Republican Dragon that dominates state politics  — The South Dakota Standard
+Author: Tom Lawrence
 Published Date: 2026-02-13T00:00:00.000Z
-URL: https://dakotawarcollege.com/hansen-doeden-for-gov-campaigns-seem-to-be-running-out-of-steam/
-Summary: The article discusses the current state of Toby Doeden's campaign for the 2026 South Dakota Governor Republican primary, suggesting that both Doeden and his opponent, Hansen, are struggling to maintain momentum. It notes a significant drop in Doeden's social media activity following a Super Bowl event, raising questions about the vitality of his campaign. In contrast, incumbent Governor Rhoden is actively engaging in campaign events, and Dusty Johnson's campaign is gaining traction with new TV commercials. The overall sentiment indicates that both Doeden and Hansen may have peaked too early, leaving their campaigns appearing stagnant compared to their competitors. This context suggests challenges for Doeden in the upcoming primary, as he may need to revitalize his campaign to remain competitive.
+URL: https://www.sdstandardnow.com/home/ahlers-steps-forward-as-the-sddp-seeks-to-slay-the-republican-dragon-that-dominates-state-politics
+Summary: The article does not provide specific information about Toby Doeden's prospects in the 2026 South Dakota Republican primary for governor. It mentions that Doeden is one of the candidates vying for the Republican nomination, alongside Gov. Larry Rhoden, Congressman Dusty Johnson, and State Speaker Jon Hansen. However, there are no details on his campaign strength, support level, or likelihood of winning the primary. Therefore, based on the available information, it is not possible to predict whether Toby Doeden will win the 2026 Republican primary for South Dakota governor.
 
-Title: 2025 EOY Reports: Doeden for Governor: $103k raised plus a $2.01M loan, $2.07M spent, and $41k cash on hand. – South Dakota War College
-Author: @SoDakCampaigns
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://bit.ly/4qaXvtL
-Summary: Toby Doeden's campaign finance report for the 2025 end-of-year period reveals significant financial activity that may impact his chances in the 2026 South Dakota Governor Republican primary election. He raised a total of $103,000, primarily from itemized donations, with over $20,000 coming from family members. Additionally, he loaned his campaign $2.01 million, leading to a total expenditure of $2.07 million, leaving him with only $41,000 cash on hand.
-
-The report indicates a lack of grassroots support, as most of his funding appears to come from personal loans and family contributions rather than widespread community backing. This raises concerns about the viability of his campaign strategy and suggests that his financial management may reflect how he would govern if elected. Given these factors, analysts may view his chances of winning the primary as uncertain, particularly if he cannot demonstrate broader appeal beyond his immediate financial network.
-
-Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The document primarily discusses the 2026 gubernatorial races in New Jersey and Virginia, focusing on candidates Mikie Sherrill and Jack Ciattarelli in New Jersey, and Abigail Spanberger in Virginia. However, it does not provide any information about Toby Doeden or the South Dakota Governor Republican primary election. 
-
-To predict whether Toby Doeden will win the 2026 South Dakota Governor Republican primary, you would need to consider factors such as his political background, campaign strategy, fundraising efforts, voter sentiment in South Dakota, and any polling data available closer to the election date. Additionally, insights into his opponents and their strengths or weaknesses would be crucial for a comprehensive prediction. 
-
-For specific information on Toby Doeden's candidacy, it would be beneficial to consult resources focused on South Dakota politics or recent news articles covering the state's gubernatorial race.
+Title: South Dakota Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/SD.html
+Summary: The current South Dakota Primary Election Results webpage for 2026, hosted by NPR, does not yet have any results available for the governor's race or other contests. As no data is provided on candidates or voting outcomes, it is not possible to predict whether Toby Doeden will win the Republican primary for governor. Monitoring future updates on this page will be necessary for any developments or results related to the race.
 
 

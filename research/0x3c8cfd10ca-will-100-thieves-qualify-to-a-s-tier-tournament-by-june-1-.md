@@ -1,7 +1,7 @@
 # Research: Will 100 Thieves qualify to a S-tier tournament by June 1 ? 
 
 **Market ID:** 0x3c8cfd10ca70703a9dc5c9f3bdaceb168c160ccf426f56f9a84576752ace8081
-**Researched At:** March 4, 2026 at 04:16:09 AM UTC
+**Researched At:** March 9, 2026 at 04:25:43 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will 100 Thieves qualify to a S-tier tournament by June 1 ? "
 
 ---
@@ -9,41 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Available reports show mixed signals on 100 Thieves’ S-Tier qualification—strong playoff runs and new coaching versus inconsistent losses and unknown VRS standings. There’s no clear evidence that the 25.5% price is significantly off.
+The mixed research on 100 Thieves—strong roster vs. inconsistent Tier 2 results—supports a roughly 36.5% chance and doesn’t reveal a clear >5 cent mispricing. Ongoing qualifiers and VRS ranking battles still determine their fate, suggesting current pricing is reasonable.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether 100 Thieves’ CS2 roster will appear in the main bracket or group stage of any Liquipedia-classified S-Tier event concluding by June 1, 2026. A “Yes” requires them to either earn direct invites or advance through qualifiers into the main event of at least one S-Tier tournament (e.g., ESL Pro League, BLAST events, IEMs) before the deadline. A “No” means they fail to do so.
+This market asks whether the 100 Thieves CS2 roster will make the main event or group stage of at least one Liquipedia-classified S-Tier CS2 tournament that concludes by June 1, 2026. A “Yes” requires them to either:  
+• Earn direct qualification via VRS ranking and receive an invitation (e.g., PGL Astana)  
+• Advance through open or closed qualifiers into the main bracket or group stage of any S-Tier event before 11:59 PM ET on June 1.  
 
 2. EVIDENCE EVALUATION  
 Bullish signals:  
-• Recent strong performance – playoff berth at DraculaN Season 5 (Dust2.us, 2026-02-24).  
-• Momentum in the VRS grind with a “flying start” (Hotspawn, 2026-03-02), and recruitment of coach gla1ve plus a fully settled roster (Vpesports, 2026-02-04).  
+• High-caliber roster (device, gla1ve, rain, poiii) with EU relocation for practice (CS2.ad, 2026-02-19)  
+• Early VRS climb momentum, potential to crack top-25 and secure an invite to PGL Astana (Epicplayz 2026-03-01; Hotspawn 2026-03-02)  
+• Upset over NiP in group stage at Roman Imperium Cup V suggests they can compete with established teams (Dust2.us, 2026-02-21)  
 
 Bearish signals:  
-• Upset losses to NiP and ENCE, raising consistency concerns (magic, 2026-02-21; Dust2.us, 2026-02-25).  
-• No concrete VRS points or current ranking positions provided; early qualifiers remain challenging.  
+• Early elimination in DraculaN Season 5, poor map scores signal inconsistency (Dust2.us, 2026-02-25)  
+• Quarterfinal exit in Roman Imperium Cup V—strong in groups but fell short in knockouts (Dust2.us, 2026-02-21)  
+• Lingering concerns about roster cohesion and performance under pressure (Hotspawn 2026-03-02)  
 
-Source credibility is medium: all pieces are recent but none include hard qualification metrics (e.g., VRS standings). The research leaves qualification likelihood ambiguous, so neither extreme seems justified.
+Credibility & recency: All sources date from late February to early March 2026, directly relevant and from recognized CS2/Esports outlets. The bullish claims rest mostly on potential (VRS ranking climb) while the bearish evidence is concrete match outcomes. None definitively prove or disprove qualification is likely, suggesting the market has priced in mixed signals.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 25.5% probability can reflect genuine uncertainty given mixed results, multiple qualification hurdles, and no clear VRS data. Low volume ($8.2 K) may simply indicate this niche question hasn’t drawn broad attention rather than a strong single-trader bias.
+A 36.5% price can be justified by balancing roster quality (higher upside) against rocky Tier 2 results and limited runway. Low volume and tight spreads imply few traders but possibly well-informed ones—outcome isn’t binary-obvious yet many unknowns remain (schedule of S-Tier qualifiers, exact VRS cutoff). The market might simply reflect a cautious consensus rather than a stale, mispriced quote.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, missing piece of information that clearly tilts probability much above or below 25.5%. The available research underscores both upside potential (playoff runs, strategic changes) and downside risk (inconsistent results, opaque ranking progress). Thus, there’s no credible evidence of a large mispricing.
+No specific piece of credible, public evidence suggests the market is off by more than ~5–10 cents. The roster’s star power is well known; their early losses temper expectations. No sign they’ve already clinched or guaranteed qualification. Given the balanced and recent reporting, most relevant info seems priced in. Large (>20 c) mispricing is unlikely.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 20% (research is generic, lacking key VRS data)  
-Magnitude of mispricing: 5 cents (possible small error band)  
-Expected value = 20% × 5 cents = 1 cent  
+Strength of evidence that mispricing exists: 30%  
+Estimated magnitude: 5 cents  
+Expected value = 0.30 * 5 cents = 1.5 cents  
 
-EXPECTED_VALUE: 1  
-SUMMARY: Available reports show mixed signals on 100 Thieves’ S-Tier qualification—strong playoff runs and new coaching versus inconsistent losses and unknown VRS standings. There’s no clear evidence that the 25.5% price is significantly off.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: The mixed research on 100 Thieves—strong roster vs. inconsistent Tier 2 results—supports a roughly 36.5% chance and doesn’t reveal a clear >5 cent mispricing. Ongoing qualifiers and VRS ranking battles still determine their fate, suggesting current pricing is reasonable.  
 CONFIDENCE: low
 
 ---
@@ -52,34 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: 100 Thieves spark Major debate after NiP upset
-Author: magic
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://community.skin.club/en/news/100-thieves-major-vrs-debate-roman-imperium
-Summary: The article discusses a recent upset in a major Counter-Strike tournament where 100 Thieves were defeated by Ninjas in Pyjamas (NiP), sparking debate within the esports community. While the focus is on the match outcome and its implications for team rankings and perceptions, there is no specific information about 100 Thieves' qualification prospects for upcoming S-tier tournaments or their current standings. To assess whether 100 Thieves will qualify for an S-tier event by June 1, additional data on their current tournament points, ranking trajectory, recent performance, and qualification criteria for upcoming major tournaments would be necessary.
-
-Title: 100 Thieves: A Flying Start To The VRS Grind, But One Major Concern Lingers - Hotspawn
+Title: 100 Thieves może wskoczyć nawet na 25. pozycję w rankingu VRS i otrzymać zaproszenie na PGL Astana - EPICPLAYZ.pl
 Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.hotspawn.com/counter-strike/news/100-thieves-cs2-roster-vrs-climb
-Summary: The article discusses 100 Thieves' recent performance in the VRS (Valorant Rankings System) grind, highlighting a strong start but noting a significant concern that could impact their qualification prospects for top-tier (S-tier) tournaments by June 1. While specific details about their current standings or results are limited, the focus is on their early momentum and the lingering issue—likely related to consistency, roster stability, or performance gaps—that may hinder their ability to secure qualification. The upcoming tournament schedule includes major events such as ESL Pro League Season 23, BLAST Open Spring 2026, and Intel Extreme Masters Brazil and Rio 2026, which are critical opportunities for 100 Thieves to improve their ranking and qualify for S-tier competitions. Their progress will depend on their performance in these key tournaments and whether they can address the major concern identified.
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://epicplayz.pl/p/167615-100-thieves-moze-wskoczyc-nawet-na-25-pozycje-w-rankingu-vrs-i-otrzymac-zaproszenie-na-pgl-astana
+Summary: The article discusses the potential rise of 100 Thieves in the VRS ranking, suggesting they could climb to as high as 25th place and secure an invitation to the PGL Astana tournament. While the focus is on their ranking prospects, there is no specific information about their current performance, recent results, or qualification status for upcoming S-tier tournaments. Therefore, based on this source alone, it is unclear whether 100 Thieves will qualify for an S-tier event by June 1. Additional performance data and tournament results would be needed for a more accurate prediction.
 
 Title: 100 Thieves taken down by ENCE, fall to lower bracket at DraculaN Season 5 - Dust2.us
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.dust2.us/news/70985/100-thieves-taken-down-by-ence-fall-to-lower-bracket-at-draculan-season-5
-Summary: The article reports that 100 Thieves were eliminated by ENCE and thus fell to the lower bracket at DraculaN Season 5. While this indicates a setback in their current tournament run, it does not provide specific information about their overall performance trajectory, ranking, or qualification status for upcoming S-tier tournaments. To assess whether 100 Thieves will qualify for a major S-tier event by June 1, additional data such as their recent results, current ranking, points accumulation, and qualification criteria are needed. Based solely on this match outcome, their chances cannot be definitively predicted.
+Summary: 100 Thieves were eliminated early in the DraculaN Season 5 tournament after a 2-0 loss to ENCE, dropping them to the lower bracket. They struggled on both maps—Ancient and Anubis—failing to reach double digits in either, indicating current performance challenges. Their defeat suggests they may need significant improvements to qualify for upcoming S-tier tournaments by June 1.
 
-Title: 100 Thieves cruise to playoffs at DraculaN Season 5 - Dust2.us
+Title: 100 Thieves eliminated from Roman Imperium Cup V by BetBoom - Dust2.us
 Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.dust2.us/news/70965/100-thieves-cruise-to-playoffs-at-draculan-season-5
-Summary: The article reports that 100 Thieves performed strongly at the DraculaN Season 5 tournament, securing a spot in the playoffs. While this indicates a positive trajectory and competitive performance, it does not specify their overall ranking or points accumulated toward qualification for S-tier tournaments. To determine if they will qualify by June 1, additional context on their current standings, points, and the qualification criteria for S-tier events is needed. Based on their recent success, they are likely in a good position, but definitive qualification depends on their ongoing results and the tournament's qualification process.
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://www.dust2.us/news/70872/100-thieves-eliminated-from-roman-imperium-cup-v-by-betboom
+Summary: The article reports that 100 Thieves participated in the Roman Imperium Cup V, their first LAN appearance, where they finished in 5th-8th place after losing to BetBoom in the quarterfinals. They managed an impressive victory against NIP in the group stage but ultimately fell short in the knockout stage. Their performance included a challenging loss on Dust2 and a competitive match on Nuke, which they won in overtime. While this result demonstrates competitive potential, there is no specific information about their qualification prospects for upcoming S-tier tournaments by June 1. Additional details on their ranking, recent form, or qualification criteria would be needed to assess their chances accurately.
 
-Title: 100 Thieves CS2 2026: Why Nadeshot’s New Strategy Is High Risk
-Author: Vpesports
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://vpesports.com/more-esports/100-thieves-cs2-2026-roster-strategy
-Summary: The article details 100 Thieves' strategic plans and challenges for their CS2 2026 season, emphasizing their high-risk approach under Nadeshot’s leadership. The team, fully rostered since January, has yet to participate in major events, with preparations delayed due to media commitments. Their first competitive opportunities include open qualifiers for IEM Atlanta in early February, aiming to secure a top 4 spot for further qualification. Subsequent tournaments in Portugal and Romania will serve as crucial tests of their readiness. The organization has also recruited legendary coach gla1ve, signaling a focus on elevating their competitive level. Additionally, 100 Thieves is expanding into other esports like Apex Legends, indicating a broad strategic push. Central to their success is navigating the Valve Ranking System (VRS), which determines their qualification prospects for top-tier tournaments. Given these plans and the importance of VRS positioning, their ability to qualify for an S-tier event by June 1 hinges on strong performances in early qualifiers and tournaments, as well as effective ranking management.
+Title: 100 Thieves: A Flying Start To The VRS Grind, But One Major Concern Lingers - Hotspawn
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.hotspawn.com/counter-strike/news/100-thieves-cs2-roster-vrs-climb
+Summary: The article highlights 100 Thieves' strong start in the VRS (Valorant Ranking System) grind, indicating promising performance early in their campaign. However, it also mentions a significant concern that could impact their qualification prospects for top-tier (S-tier) tournaments by June 1. While their initial momentum is positive, the lingering issue—potentially related to team consistency, roster stability, or performance under pressure—may influence their ability to secure qualification for prestigious events within the specified timeframe.
+
+Title: 100 Thieves CS2: New Roster, Schedule &amp; News 2026
+Author: CS2.ad Editorial Team
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://blog.cs2.ad/100-thieves-cs2/
+Summary: As of February 2026, 100 Thieves CS2 has recently returned to competitive play with a roster featuring top-tier European talent, including veterans like device and gla1ve, and promising players like rain and poiii. The team is actively competing in early 2026, participating in qualifiers and Tier 2 events such as DraculaN Season 5 and the Roman Imperium Cup, with plans to secure a spot in the Valve Regional Standings (VRS). Their strategic move to Serbia for European-based training aims to enhance their competitiveness against the world's best teams. Given their current schedule of open qualifiers and Tier 2 tournaments leading up to June, their performance in these events will be critical for qualification to S-tier tournaments by June 1.
 
 

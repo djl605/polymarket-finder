@@ -1,56 +1,53 @@
 # Research: Will Russia capture all of Kostyantynivka by June 30, 2026?
 
 **Market ID:** 0x445895d68e167bf457e645ceab3b3e45661ea5d90d5453ede6d107e651377e4b
-**Researched At:** March 1, 2026 at 06:06:26 AM UTC
+**Researched At:** March 9, 2026 at 04:25:59 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia capture all of Kostyantynivka by June 30, 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-Current 15.5% odds align with publicly reported Ukrainian defensive gains and persistent battlefield contestation, and no compelling new evidence suggests a major mispricing. The low volume and long time horizon justify some uncertainty, but I find no basis for thinking the market is off by more than a few cents.
+ISW and Ukrainian sources show Russia aiming for April footholds but heavy Ukrainian defense suggests full capture by end-June is far from certain. The mixed evidence aligns with a ~17% probability and offers no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Russia will have full, sustainable control of the municipality of Kostyantynivka (Donetsk Oblast) as shown by persistent red shading on ISW’s daily map by 11:59 PM ET on June 30, 2026. A “Yes” resolution requires that *all* of Kostyantynivka is assessed as Russian-held (excluding mere infiltration areas) for at least one full ISW update cycle before that deadline; any later Ukrainian recapture is irrelevant. If that never occurs, it resolves “No.”
+The market asks whether Russia will fully control (per ISW map shading) the municipality of Kostyantynivka, Donetsk Oblast, by 11:59 PM ET on June 30, 2026. A “Yes” requires the entire municipality shaded in any Russian-controlled red category on the ISW map (or fallback sources) with persistence through an ISW update cycle. Partial, temporary, or infiltration-only control, or only announced settlements without actual control, would not count.
 
 2. EVIDENCE EVALUATION  
-Bearish (Yes probability too high):  
-- ISW (Feb 1) reports Ukrainian gains near Kostyantynivka–Druzhkivka and a proactive Ukrainian defense with advanced tactics (fiber-optic drones), suggesting Russia faces growing difficulty to achieve a complete city capture by June.  
-- Multiple ISW terrain-control maps (Feb 1, 2, 10) consistently show contested or Ukrainian-held sectors around Kostyantynivka, with no indication of imminent Russian breakthrough.  
-- Russian operational challenges and sustained Ukrainian resilience imply the sub-20% “Yes” odds may already understate Ukrainian strength.
+Bullish (higher probability):  
+• Ostro (Mar 7) reports Russian command prioritizing end-April infiltration and footholds, suggesting momentum toward eventual full control. Small-unit urban infiltration could expand incrementally.  
+• Russian forces have made measured gains per ISW (Feb 10–Mar 2), indicating an active offensive.
 
-Bullish (Yes probability too low):  
-- Russia continues to press offensives in Donetsk and has improved drone capabilities (ISW Feb 16) which could tip heavies and logistics in Russia’s favor over the next four months.  
-- The strategic importance of Kostyantynivka may lead Russia to allocate disproportionate resources to ensure capture before the northern campaigning season ends, a factor not fully priced in if traders focus on the current stalemate.
+Bearish (lower probability):  
+• All four ISW assessments (Feb 10, Feb 24, Feb 27, Mar 2) stress that control remains contested, with Ukrainian defenses robust and logistical countermeasures (drones, vehicles) improving.  
+• Persistent Ukrainian resistance and logistical challenges make rapid full capture by June uncertain.
 
-Source Credibility & Recency: All from ISW and contemporaneous (Feb 2026), highly reputable for front-line control assessments.
+Source Credibility & Recency:  
+ISW is a leading real-time analyst of the conflict; Ostro cites Ukrainian military statements. All data are within one month of the current date, so recency is high.
+
+Nothing in the research suggests a near-certainty or a collapse in Ukrainian defense that traders might have missed. Conversely, Russian intentions alone do not guarantee success. The mixed signals—Russian intent vs. uncertain battlefield progress—align with a sub-20% chance.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 15.5% price implies traders view a Russian full-capture as unlikely but not impossible.  
-- Low volume (≈$3.5 K total, 9 days old) suggests prices could reflect just a few views. However, the tight spread (1 ¢) may indicate even low-volume traders agree broadly on the low probability.  
-- The event is sufficiently distant (4 months out) that uncertainty remains high; informed traders might be waiting for clearer operational signals before reallocating capital.
+A 17% probability reasonably reflects the balance between an aggressive Russian timetable and strong Ukrainian defense. Low volume could simply reflect limited trader interest rather than mispricing; the tight 2 ¢ spread suggests informed traders are comfortable with that estimate. There is no strong sign of a lone trader skewing the price: the bid-ask is tight and volume, while low, is nontrivial ($6.5K).
 
 4. MISPRICING ASSESSMENT  
-- There is no glaring piece of missing public information. The Ukrainian advances are well known and likely already priced in.  
-- The factors that could push Russia to redouble efforts (drone upgrades, strategic priority) are also public and probably reflected in that ≈15% baseline.  
-- No specific, credible evidence suggests a large divergence (>10 cents) between current odds and the true probability.  
-- The market’s long horizon plus contested battlefield dynamics justify retaining >10% chance.
+Given current open-source intelligence, no clear evidence indicates a >10 ¢ mispricing. The 17% price captures both Russian offensive aims and Ukrainian resilience. The market’s view appears neither overly pessimistic nor optimistic relative to available data.
 
 5. EXPECTED VALUE CALCULATION  
-Evidence strength that price is off by >10 cents: ~20% (some uncertainty remains, but no strong signal).  
-Magnitude of mispricing if any: ~5 cents.  
-Expected value ≈ 0.20 × 5 cents = 1 cent
+Strength of evidence missing from current price: 50% (evidence is mixed and likely already priced in)  
+Magnitude of mispricing: 2 ¢  
+Expected value = 0.50 × 2 ¢ = 1 ¢
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Current 15.5% odds align with publicly reported Ukrainian defensive gains and persistent battlefield contestation, and no compelling new evidence suggests a major mispricing. The low volume and long time horizon justify some uncertainty, but I find no basis for thinking the market is off by more than a few cents.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1  
+SUMMARY: ISW and Ukrainian sources show Russia aiming for April footholds but heavy Ukrainian defense suggests full capture by end-June is far from certain. The mixed evidence aligns with a ~17% probability and offers no clear mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -58,85 +55,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Ukrainian forces advance near Kostiantynivka: ISW identifies new frontline hotspots
+Title: Росіяни хочуть зайти у Костянтинівку до кінця квітня, — ЗСУ | ОстроВ
 Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://newsukraine.rbc.ua/news/ukrainian-forces-advance-near-kostiantynivka-1769935442.html
-Summary: The recent report from the Institute for the Study of War (ISW) indicates that Ukrainian forces have made significant advances near Kostiantynivka, particularly along the Kostiantynivka–Druzhkivka tactical axis. This suggests a strengthening of Ukrainian positions in the area, which could hinder Russian efforts to capture the city. 
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://www.ostro.org/news/rosiyany-hochut-zajty-u-kostyantynivku-do-kintsya-kvitnya-zsu-i550260
+Summary: The Russian military aims to advance into Kostyantynivka by the end of April 2026, with their command instructing units to push forward at all costs. Russian forces are reportedly avoiding large-scale assaults, instead infiltrating the city with small infantry groups to establish footholds within urban areas. Ukrainian officials, including President Zelensky and Commander-in-Chief Syrsky, have responded by implementing a combined logistics strategy that leverages aerial and ground-based drone systems for safer transportation and increased funding for vehicles and FPV drones. The situation remains tense, with ongoing efforts to bolster Ukrainian defenses and adapt logistics amidst Russian attempts to secure the city. Given these developments, the timeline for Russia to fully capture Kostyantynivka by June 30, 2026, appears aggressive but uncertain, depending on the effectiveness of Ukrainian resistance and logistical countermeasures.
 
-Additionally, while Russian forces have been reported to make advances in other directions, such as Pokrovsk and Huliaipole, the ongoing Ukrainian operations in the northern Kharkiv region and their use of advanced tactics, including fiber-optic drones, indicate a proactive defense strategy. 
-
-The situation remains fluid, with both sides experiencing operational challenges. Ukrainian forces are reportedly facing intensified Russian attacks, but their recent gains and strategic responses may impact the likelihood of a complete Russian capture of Kostyantynivka by June 30, 2026. Overall, the current dynamics suggest that while Russia may attempt to exert pressure, the Ukrainian advances and resilience could complicate their objectives.
-
-Title: Kostyantynivka–Druzhkivka Tactical Area, February 1, 2026 | ISW
+Title: Kostyantynivka-Druzhkivka Tactical Area, March 2, 2026 | ISW
 Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-february-1-2026-at-130-pm-et/
-Summary: The webpage from the Institute for the Study of War (ISW) provides an assessment of the control of terrain in the Kostyantynivka–Druzhkivka Tactical Area as of February 1, 2026. Key insights relevant to predicting whether Russia will capture all of Kostyantynivka by June 30, 2026, include:
-
-1. **Current Control Dynamics**: The report outlines the current territorial control in the region, which is critical for understanding the strategic situation. It details which forces are in control of specific areas, indicating potential vulnerabilities or strengths.
-
-2. **Military Assessments**: The analysis includes evaluations of military capabilities and operations by both Russian and Ukrainian forces, which can influence the likelihood of territorial changes in the coming months.
-
-3. **Historical Context**: Understanding previous engagements and shifts in control in the Kostyantynivka area may provide insights into future trends and the potential for Russia to consolidate its hold.
-
-4. **Strategic Importance**: The significance of Kostyantynivka in the broader context of the conflict may affect military priorities and resource allocation, impacting the feasibility of a complete capture by the specified date.
-
-5. **External Factors**: The report may also touch on geopolitical factors, including international support for Ukraine and potential changes in Russian military strategy, which could influence the outcome.
-
-For a more accurate prediction, it would be beneficial to analyze ongoing military operations, troop movements, and any shifts in
-
-Title: Assessed Control of Terrain in the Kostyantynivka-Druzhkivka Tactical Area, February 10, 2026 at 1:30 PM ET
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-february-10-2026-at-130-pm-et/
-Summary: The webpage provides an assessment of the control of terrain in the Kostyantynivka-Druzhkivka tactical area as of February 10, 2026. It details the current military situation, including the positions held by Russian and Ukrainian forces. Key factors influencing the potential for Russia to capture all of Kostyantynivka by June 30, 2026, include:
-
-1. **Current Control**: The assessment indicates which areas are under Russian control and which remain contested or under Ukrainian defense. Understanding the dynamics of these territories is crucial for predicting future developments.
-
-2. **Military Engagements**: The report likely discusses recent military engagements, troop movements, and strategic operations that could impact the balance of power in the region.
-
-3. **Logistical Support**: The effectiveness of supply lines and reinforcements for both Russian and Ukrainian forces will play a significant role in determining the outcome of the conflict in Kostyantynivka.
-
-4. **International Factors**: External support for Ukraine or changes in Russian military strategy could also influence the situation on the ground.
-
-5. **Historical Context**: Previous patterns of territorial control and shifts in military strategy in the region may provide insights into future trends.
-
-This information can help assess the likelihood of Russia capturing Kostyantynivka by the specified date. For a more detailed understanding, reviewing the full assessment and related analyses would be beneficial.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-march-2-2026-at-130-pm-et/
+Summary: The ISW assessment as of March 2, 2026, indicates ongoing military activity in the Kostyantynivka-Druzhkivka area, with control of terrain still contested between Russian and Ukrainian forces. The situation remains dynamic, with no definitive indication that Russia will secure full control of Kostyantynivka by June 30, 2026. Factors influencing this include persistent Ukrainian resistance, logistical challenges faced by Russian forces, and ongoing tactical adjustments. Given the current trajectory, Russia's ability to capture all of Kostyantynivka within this timeframe appears uncertain, and continued monitoring of battlefield developments is essential for more accurate predictions.
 
 Title: Assessed Control of Terrain near Kostyantynivka, February | ISW
 Author: 
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-february-2-2026-at-130-pm-et/
-Summary: The webpage from the Institute for the Study of War (ISW) provides an assessment of the control of terrain near Kostyantynivka as of February 2, 2026. It details the current military situation, including territorial control dynamics, which are crucial for predicting the likelihood of Russia capturing the entire city by June 30, 2026. 
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-february-27-2026-at-130-pm-et/
+Summary: The webpage provides an assessment of territorial control near Kostyantynivka as of February 27, 2026, within the context of the ongoing Russian-Ukrainian conflict. It details the current military situation, including Russian advances and Ukrainian defenses in the area. The analysis highlights that Russian forces have made some territorial gains but face stiff Ukrainian resistance. Given the current pace of operations, logistical challenges, and Ukrainian defensive efforts, it remains uncertain whether Russia will be able to fully capture Kostyantynivka by June 30, 2026. Factors such as ongoing combat dynamics, troop movements, and potential Ukrainian counteroffensives are critical in predicting future control of the town.
 
-Key points to consider include:
+Title: Kostyantynivka-Druzhkivka Tactical Area, February 10, 2026 | ISW
+Author: 
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-kostyantynivka-druzhkivka-tactical-area-february-10-2026-at-130-pm-et/
+Summary: The ISW assessment as of February 10, 2026, indicates ongoing Russian efforts to control the Kostyantynivka-Druzhkivka tactical area. While Russia has made some territorial advances, the control remains contested, with Ukrainian forces actively resisting Russian advances. Given the current pace and intensity of fighting, it is uncertain whether Russia will fully capture Kostyantynivka by June 30, 2026. Factors such as Ukrainian resistance, logistical challenges, and potential Ukrainian counteroffensives could influence the outcome. Therefore, predicting complete Russian capture of Kostyantynivka by mid-2026 remains uncertain, but ongoing hostilities suggest continued conflict in the region.
 
-1. **Current Control**: The assessment indicates which forces currently hold key areas around Kostyantynivka, providing insight into the strength and positioning of both Russian and Ukrainian military units.
-
-2. **Military Operations**: The ongoing military operations and strategies employed by both sides can influence the outcome. Understanding recent offensives or defensive maneuvers is essential for forecasting future developments.
-
-3. **Geographical Factors**: The terrain's geography may affect military tactics and the feasibility of capturing urban areas, which is critical in urban warfare scenarios.
-
-4. **External Support**: The level of support from allies, including military aid and resources, can impact Ukraine's ability to defend against Russian advances.
-
-5. **Historical Context**: Previous engagements and shifts in control in the region can provide context for current dynamics and potential future outcomes.
-
-This information collectively aids in assessing the probability of Russia fully capturing Kostyantynivka by the specified date. For a more detailed analysis, refer to the full assessment on the ISW website.
-
-Title: NEW: Russian officials are unlikely to deviate from their original war ...
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.facebook.com/InstitutefortheStudyofWar/posts/new-russian-officials-are-unlikely-to-deviate-from-their-original-war-demands-du/1341935827978691/
-Summary: The recent analysis from the Institute for the Study of War indicates that Russian officials are unlikely to change their war demands in the upcoming US-Ukrainian-Russian talks, suggesting a continued commitment to their current military objectives. Key insights relevant to predicting whether Russia will capture Kostyantynivka by June 30, 2026, include:
-
-1. **Current Military Dynamics**: Both Ukrainian and Russian forces have recently made advances in the Kostyantynivka-Druzhkivka tactical area, indicating an ongoing and contested battlefield situation.
-
-2. **Russian Strategy**: Russia may attempt to exploit temporary ceasefires or moratoriums on strikes to project a false sense of concession, which could affect their operational strategies in the region.
-
-3. **Drone Capabilities**: Russia is investing in drone technology and developing specialized units to enhance their battlefield effectiveness, which could impact their ability to conduct operations around Kostyantynivka.
-
-4. **Adaptation of Tactics**: The Kremlin is reportedly adapting its tactics for sabotage attacks in Europe, which may also influence their operational focus in Ukraine.
-
-These factors suggest a complex and evolving military landscape, making it difficult to predict with certainty whether Russia will capture Kostyantynivka by the specified date. Continued monitoring of troop movements and strategic developments will be essential for a clearer assessment.
+Title: Control of Terrain near Kostyantynivka, February 24, 2026 | ISW
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-near-kostyantynivka-february-24-2026-at-130-pm-et/
+Summary: The webpage provides an assessment of territorial control near Kostyantynivka as of February 24, 2026, indicating ongoing military dynamics between Russia and Ukraine. While specific details about current control levels are not provided here, the assessment suggests active combat and shifting frontlines. To predict whether Russia will capture all of Kostyantynivka by June 30, 2026, one should consider factors such as current territorial gains, Ukrainian resistance, logistical capabilities, and potential reinforcements. The ongoing nature of the conflict and recent control assessments imply that the situation remains fluid, making precise predictions challenging without further detailed intelligence.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?
 
 **Market ID:** 0x125d64e41a8b3225d81e84ec1fbeb58b1d8091fa9d54a9f500e01a00586baf9a
-**Researched At:** March 1, 2026 at 06:01:54 AM UTC
+**Researched At:** March 9, 2026 at 04:26:56 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?"
 
 ---
@@ -9,45 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Flanagan’s consistent polling lead supports a high win probability, but Craig’s large fundraising advantage and a sizable undecided vote share suggest the market could be modestly overpricing Flanagan by around 5–10¢. Overall, there’s no clear >20¢ mispricing, and 75% remains a reasonable consensus.
+Flanagan’s sizable polling lead and incumbency support a a strong probability, but her fundraising disadvantage and field fluidity leave real uncertainty. The 79.5% market price plausibly balances these factors, with no clear, unpriced information indicating a mispricing >15 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Lt. Gov. Peggy Flanagan will win the August 11, 2026 Minnesota Democratic primary for U.S. Senate. A YES resolution requires Flanagan to secure the plurality of votes among Democratic candidates; a NO includes any other winner or no primary occurring.  
+The market asks whether Lt. Gov. Peggy Flanagan will win Minnesota’s August 11, 2026 Democratic primary for U.S. Senate. A “YES” means she is officially declared the nominee by the Minnesota Democratic Party; “NO” covers any other candidate or no primary.
 
 2. EVIDENCE EVALUATION  
-• Bearish (price too high):  
-  – February GQR poll: Flanagan leads 49% vs. Craig’s 36% with 15% undecided. That undecided block could swing heavily to Craig, narrowing Flanagan’s lead.  
-  – Fundraising gap: Craig holds $3.8 M cash-on-hand vs. Flanagan’s $811 k, potentially enabling Craig to out-advertise and close the polling gap.  
-  – Early poll; dynamics can shift over the next five months.  
-• Bullish (price reasonable):  
-  – Consistent polling advantage across multiple sources in late Feb 2026.  
-  – Flanagan’s strong grassroots outreach and party establishment support as Lt. Gov.  
-  – Democratic-leaning electorate for an open Amy Klobuchar seat.  
-• Credibility/recency: All polls and articles are from Feb 2026, credible outlets (GQR, Center Square, CBS, MinnPost).  
+Bullish on Flanagan (supports ~80%):  
+• Polling edge: Recent February poll shows Flanagan at 49% vs. Craig 36%, a large margin in an early field.  
+• Incumbent advantage: As sitting lieutenant governor with strong name recognition and a statewide tour/caucus effort, she has institutional and grassroots momentum.  
+Bearish on Flanagan (suggests <80%):  
+• Fundraising gap: Angie Craig holds $3.8 M vs. Flanagan’s $0.8 M cash-on-hand, a nearly 5× advantage that could matter in outreach/advertising.  
+• Early-stage uncertainty: Gambit Forecaster (Mar 1) labels Minnesota’s primary “fluid” and not yet favoring any candidate definitively. Other credible reporting cautions that additional contenders or late surges (e.g., precinct caucus delegates) could alter dynamics.  
+All sources are from late February/early March 2026 and appear credible for this stage. None predicts final shares; most stress uncertainty, which argues against an extremely high certainty.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 75% price implies a strong consensus that early polling advantages and party support will persist despite Craig’s funding edge.  
-• Low $2.3 k volume and tight spread suggest one or few traders with conviction rather than broad liquidity.  
-• The outcome may appear clear to casual traders but still attracts low-volume trading because few specialized bettors are active.  
+• A 79.5% price could reflect a consensus view: Flanagan’s polling lead plus incumbency advantage give her a strong, but not overwhelming, edge.  
+• Low volume means one or two informed traders could have set the price, but they likely anchored it to public polling and known fundraising figures.  
+• That the market isn’t at 90–95% suggests traders recognize fundraising and field uncertainties. The price sits in a plausible range for a leader who still faces meaningful challenges.
 
 4. MISPRICING ASSESSMENT  
-• While Craig’s fundraising advantage and undecideds inject non-trivial risk, there is no concrete sign of a late-breaking trend or scandal that Flanagan’s campaign cannot weather.  
-• The price may modestly overstate Flanagan’s lead—perhaps by 5–10¢—but no evidence of a >20¢ mispricing.  
-• Charitable interpretation: Informed participants have factored in both polling leads and the financing gap to settle near 75%.  
+No clearly omitted, material fact: major polls, fundraising totals, caucus activity and expert forecasts are all public and seem factored in. The margin between bullish and bearish signals (e.g., ~13-point poll lead vs. fundraising deficit) roughly balances to a 70–85% chance band. A >20-point mispricing would imply ignoring either the fundraising gap or her polling edge entirely, which is unlikely. The market’s ~80% probability sits inside a reasonable consensus interval.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is off by ~10¢: ~40% (uncertainty about fundraising impact and voter shifts).  
-• Magnitude of mispricing: ~10¢  
-• Expected value = 0.40 × 10¢ = 4.0¢  
+Strength of evidence for mispricing: 20% (some uncertainty but no obvious missing data)  
+Magnitude of mispricing: 15 cents (maximum plausible error given conflicting signals)  
+Expected value = 0.20 × 15¢ = 3.0¢
 
-EXPECTED_VALUE: 4.0  
-SUMMARY: Flanagan’s consistent polling lead supports a high win probability, but Craig’s large fundraising advantage and a sizable undecided vote share suggest the market could be modestly overpricing Flanagan by around 5–10¢. Overall, there’s no clear >20¢ mispricing, and 75% remains a reasonable consensus.  
+EXPECTED_VALUE: 3.0  
+SUMMARY: Flanagan’s sizable polling lead and incumbency support a a strong probability, but her fundraising disadvantage and field fluidity leave real uncertainty. The 79.5% market price plausibly balances these factors, with no clear, unpriced information indicating a mispricing >15 cents.  
 CONFIDENCE: medium
 
 ---
@@ -56,39 +52,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Flanagan leads polling, Craig tops fundraising in U.S. Senate race | News | mesabitribune.com
-Author: Elyse Apel | The Center Square
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.mesabitribune.com/around_the_web/news/flanagan-leads-polling-craig-tops-fundraising-in-u-s-senate-race/article_da00a6b9-a349-5d43-8cf5-cbaf3dce4b63.html
-Summary: In the current U.S. Senate race in Minnesota, Peggy Flanagan is leading in polling, which suggests strong support among voters. Meanwhile, her opponent, who is not named in the provided text, is excelling in fundraising efforts. The dynamics of polling and fundraising are crucial indicators of a candidate's viability in securing the nomination. Flanagan's polling lead could position her favorably for the Democratic nomination, but the fundraising success of her opponent may also play a significant role in the overall outcome. Observers should monitor both polling trends and fundraising developments as the race progresses to better predict Flanagan's chances of becoming the Democratic nominee.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The webpage provides a detailed March 2026 forecast for U.S. Senate and gubernatorial races, emphasizing that the election cycle is still in early calibration with primary elections imminent. While the model indicates a structural tilt toward Republican control of the Senate, it also highlights emerging Democratic pathways, especially in key states, suggesting some potential for Democratic gains. The forecast notes that candidate fields are still settling, and polling data remains uneven, making predictions uncertain. For Minnesota, where Peggy Flanagan is a prominent Democratic figure, the report suggests that the race's dynamics are still fluid, with no definitive indication that Flanagan will secure the Democratic nomination. The model's recent adjustments aim to improve accuracy by better accounting for national and state-level factors, but the overall picture remains one of early-stage uncertainty.
 
 Title: Peggy Flanagan vs. Angie Craig: Who Will Win Minnesota's Primary?
 Author: The Center Square The Center Square Published: February 24, 2026
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://krocnews.com/flanagan-craig-primary-race/
-Summary: In the competitive Minnesota Senate primary, Peggy Flanagan currently leads in polling, with a recent GQR poll showing her at 49% compared to U.S. Rep. Angie Craig at 36%. However, 15% of voters remain undecided, indicating potential volatility in the race. Despite Flanagan's polling advantage, Craig significantly outpaces her in fundraising, holding $3.8 million in cash-on-hand versus Flanagan's $811,000. Both candidates have spent similar amounts on their campaigns, with Craig disbursing $3 million compared to Flanagan's $2.5 million.
+Summary: Peggy Flanagan currently leads in polling for Minnesota's Democratic primary for the U.S. Senate, with a recent poll showing her at 49% compared to Angie Craig's 36%. However, Craig has significantly outpaced Flanagan in fundraising, with $3.8 million cash-on-hand versus Flanagan's $811,000. Both candidates have spent similar amounts on their campaigns. The primary will be decided on August 11. While Flanagan has strong polling support, fundraising disparities and the competitive nature of the race suggest that the outcome remains uncertain. The race is considered a key contest in the 2026 election, with the Democratic candidate likely to face Republican contenders in the general election.
 
-The primary election is set for August 11, 2026, and while Flanagan's lead in polls suggests she may be a strong contender for the Democratic nomination, Craig's financial resources could play a crucial role in her ability to close the gap. Additionally, the overall political landscape favors Democrats, as the seat is currently held by U.S. Sen. Amy Klobuchar, who is not seeking re-election. This context makes Flanagan a likely candidate for the nomination, but Craig's fundraising prowess could influence the outcome.
+Title: Flanagan leads polling, Craig tops fundraising in U.S. Senate race | News | mesabitribune.com
+Author: Elyse Apel | The Center Square
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.mesabitribune.com/around_the_web/news/flanagan-leads-polling-craig-tops-fundraising-in-u-s-senate-race/article_da00a6b9-a349-5d43-8cf5-cbaf3dce4b63.html
+Summary: Peggy Flanagan currently leads in polling for the U.S. Senate race in Minnesota, indicating strong support among voters. While her lead in polls suggests she is a prominent contender, the article does not specify her current status in the Democratic primary or whether she has officially secured the nomination. Additionally, other candidates and factors could influence the outcome. Therefore, based on available information, Peggy Flanagan is a leading figure in the race, but it remains uncertain if she will definitively become the Democratic nominee for Senate in Minnesota.
 
-Title: In Minnesota, an open Senate seat draws high-profile Democrats
-Author: Grace Panetta
-Published Date: 2025-07-18T00:00:00.000Z
-URL: https://19thnews.org/2025/07/minnesota-senate-primary-2026/
-Summary: The article discusses the upcoming Senate primary in Minnesota, focusing on high-profile candidates vying for the open seat left by retiring Senator Tina Smith. Notably, Minnesota's Lieutenant Governor Peggy Flanagan is among the prominent Democrats running for this position. The piece highlights the competitive nature of the race, with Flanagan's candidacy being significant due to her established political presence and support within the party. Factors that could influence her chances of becoming the Democratic nominee include her political experience, fundraising capabilities, and the overall dynamics of the primary race against other candidates. As the election approaches, monitoring endorsements, voter sentiment, and campaign strategies will be crucial in predicting her likelihood of securing the nomination.
-
-Title: Peggy Flanagan, Angie Craig prepare to face off in bid for DFL ...
-Published Date: 2026-01-04T00:00:00.000Z
-URL: https://www.cbsnews.com/minnesota/news/peggy-flanagan-angie-craig-dfl-caucus-us-senate-prep/
-Summary: Peggy Flanagan and Angie Craig are set to compete for the Democratic-Farmer-Labor (DFL) nomination for the U.S. Senate seat in Minnesota. Flanagan, currently the Lieutenant Governor, has a strong political background and significant support within the party, while Craig, a sitting U.S. Representative, also has a solid base and experience in federal politics. The race is expected to be competitive, with both candidates bringing unique strengths to their campaigns. Factors influencing the nomination could include fundraising capabilities, endorsements, and voter sentiment leading up to the primary election. As the election approaches, monitoring their campaign strategies and public reception will be crucial in predicting who might secure the nomination.
+Title: Peggy Flanagan | Voices for Progress
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://v4pcandidates.org/senator-2024/peggy-flanagan/
+Summary: Peggy Flanagan, the Lieutenant Governor of Minnesota since 2019 and a member of the Minnesota House of Representatives from 2015 to 2019, is a prominent Democratic candidate in Minnesota's upcoming Senate race. She has a strong background as a community organizer and advocate for Indigenous communities, being of Irish and Ojibwe descent and a citizen of the White Earth Nation. Flanagan has announced her candidacy for the 2026 Senate race, which is expected to be highly competitive due to Minnesota's shifting political landscape and the open seat following Senator Tina Smith's retirement. With her extensive political experience and community ties, Flanagan is a significant contender for the Democratic nomination, though the primary race will include other candidates such as US Rep. Angie Craig.
 
 Title: Flanagan, Craig take fight to precinct caucuses roiled by ICE action
 Author: Ana Radelat
-Published Date: 2026-02-03T00:00:00.000Z
 URL: http://www.minnpost.com/national/washington/2026/02/flanagan-craig-take-fight-to-precinct-caucuses-roiled-by-ice-operation-while-tafoya-makes-her-political-debut/
-Summary: The article discusses the upcoming precinct caucuses in Minnesota, which are crucial for candidates vying for the Democratic nomination for the U.S. Senate seat currently held by retiring Sen. Tina Smith. Key contenders include Rep. Angie Craig and Lt. Gov. Peggy Flanagan, both of whom are actively campaigning for support among party members.
-
-Flanagan has been engaging with party volunteers through a statewide tour, emphasizing her commitment to involving Minnesotans in the political process. Her campaign strategy focuses on building grassroots support, which is essential in the caucus system. In contrast, Craig is also making a significant effort to be present at a majority of the caucus events, indicating her strong campaign presence.
-
-The outcome of these caucuses will be pivotal in determining the delegates who will support candidates at the DFL organizing conventions, ultimately influencing the nomination process. Given Flanagan's proactive outreach and campaign strategy, her chances of becoming the Democratic nominee will depend on her ability to mobilize support at these caucuses compared to Craig.
+Summary: The article discusses the upcoming Minnesota party caucuses, which serve as the initial step in the campaign process for the U.S. Senate seat being vacated by Tina Smith. Key Democratic contenders include Lt. Gov. Peggy Flanagan and Rep. Angie Craig, both actively campaigning to garner support from party volunteers. Flanagan has been engaging with voters through a statewide tour and emphasizes grassroots participation, while Craig plans to attend most caucuses. The outcome of these caucuses will influence the selection of delegates and the eventual Democratic nominee. Given Flanagan's active campaign efforts and her focus on grassroots engagement, she is a significant contender for the Democratic nomination.
 
 

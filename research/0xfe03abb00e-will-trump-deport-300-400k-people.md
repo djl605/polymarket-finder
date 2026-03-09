@@ -1,7 +1,7 @@
 # Research: Will Trump deport 300-400k people?
 
 **Market ID:** 0xfe03abb00e18ab3a241a77ad5d0d170d95610c881a84422a2206c615eb696b03
-**Researched At:** March 1, 2026 at 05:59:44 AM UTC
+**Researched At:** March 9, 2026 at 04:25:12 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump deport 300-400k people?"
 
 ---
@@ -9,42 +9,49 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Recent credible reports detail a massive ramp-up in ICE funding, personnel, quotas, and tech—suggesting FY 2026 removals could exceed 300k—while legal and logistical constraints temper certainty. A 30% market price appears slightly low but not dramatically mispriced.
+Current reporting shows Trump’s administration has ramped up ICE capacity, making 300k+ removals plausible, but legal, budgetary, and logistical limits keep it from being likely. The 28% price reasonably balances these factors, and there’s no clear missing information indicating a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether ICE removals in FY 2026 will total between 300,000 and 400,000. A YES requires at least a ~10% increase over FY 2024’s 271,484 removals, and up to ~50% more. A NO occurs if removals stay below 300k or exceed 400k.
+The market asks: “Will ICE remove between 300,000 and 400,000 non-citizens in FY2026?” It resolves YES if the FY2026 ICE Annual Report shows removals ≥300,000 and ≤400,000, NO otherwise.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for ≥300k:  
-• Multiple Feb 2026 reports note Trump has massively boosted ICE funding, hired thousands of new agents, set a 3,000-per-day arrest quota (theoretical capacity >1 M arrests/year), expanded warrantless-entry authority, and rolled out face-ID tech—strong infrastructure to push removals well past 300k.  
-• CQ Researcher confirms an aggressive deportation agenda targeting broad segments of the undocumented population, not just criminals.  
+Bullish for YES (higher removals):  
+• USA Today (2026-02-07) – Trump is hiring thousands of new ICE/Border Patrol agents, deploying facial recognition, boosting detention capacity, and has a daily arrest quota of 3,000. These measures could plausibly push removals above 300k.  
+• AP News (2026-02-25) – ICE arrests have jumped from ~8.5k/month (Dec 2024) to ~32.7k/month (Sep 2025), implying a ramp-up in enforcement that might translate into more removals.
 
-Bearish/uncertainty factors:  
-• “Softer touch” rhetoric and self-deportation strategy may shift focus to voluntary departures, which don’t count as ICE removals.  
-• Legal, logistical, and diplomatic constraints—court backlogs, foreign acceptance of deportees, detention capacity—have historically limited removals well below theoretical arrest capacities.  
-• Baseline growth from 271k to 300k (+29k) is plausible but not guaranteed.  
+Bearish for YES (removals stay <300k or exceed 400k):  
+• American Immigration Council – Historically the U.S. has removed fewer than 500k annually and most removals are border apprehensions. Moving from 271k (FY2024) to >300k would be a substantial logistical and legal lift.  
+• ABC News – Cost estimates for removing 300–400k annually range from $88 billion to $315 billion, suggesting budgetary and capacity constraints could keep numbers below 300k or stall above ~300k but struggle to maintain near 400k.
 
-All sources are from reputable outlets (USA Today, Migration Policy Institute, CQ Researcher) and dated mid-2025 to Feb 2026—timely and credible.
+Source credibility and recency: All sources are from early 2026, reputable outlets or specialized think tanks. None provide precise forecasts, just outlines of capabilities and constraints.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 30% price could reflect cautious balancing of very strong enforcement signals against real operational/legal bottlenecks. Low volume suggests either consensus that the question is marginal or simply low trader interest. It’s plausible that a few well-informed participants set the price around their median estimate (~30–40%), and others have not engaged.
+• A 28% price implies traders see removal of 300–400k as plausible but unlikely.  
+• Low volume suggests few participants, but the tight 6¢ spread indicates those participants agree on the assessment.  
+• The difficulty of projecting ICE removals (dependent on legal backlogs, court decisions, budgets) could deter broader engagement, keeping volume low despite clear stakes.
 
 4. MISPRICING ASSESSMENT  
-Evidence modestly favors a YES probability above 30%—perhaps in the 40–60% range—implying a potential undervaluation of ~10–30 cents. However, logistical constraints and self-deportation focus inject real uncertainty. No single factor guarantees removals above 300k. A large mispricing (>20¢) seems unlikely given the balanced nature of the arguments and the fact that the key policy moves are public.
+• No piece of evidence clearly contradicts or radically diverges from the 28% implied probability.  
+• Intensified enforcement makes a jump above 300k plausible, but logistical, legal, and fiscal headwinds cap realistic upside.  
+• The 28% price reasonably reflects significant upside potential offset by major constraints.  
+• There is no strong, specific signal (e.g., a leaked budget doubling deportation capacity) missing from public view that would justify a >20 cent bias.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for undervaluation: ~40%  
-Magnitude of mispricing: ~15¢  
-EV = 0.40 × 15¢ = 6.0¢
+• Strength of evidence that market is mispriced: ~30% (there’s plausible upside but no decisive new data).  
+• Estimated magnitude of mispricing: ~10 cents (if one believed chances closer to ~35–40%, but uncertain).  
+• Expected value ≈ 30% × 10 cents = 3 cents.
 
-EXPECTED_VALUE: 6.0  
-SUMMARY: Recent credible reports detail a massive ramp-up in ICE funding, personnel, quotas, and tech—suggesting FY 2026 removals could exceed 300k—while legal and logistical constraints temper certainty. A 30% market price appears slightly low but not dramatically mispriced.  
+6. CONFIDENCE  
+medium
+
+EXPECTED_VALUE: 3  
+SUMMARY: Current reporting shows Trump’s administration has ramped up ICE capacity, making 300k+ removals plausible, but legal, budgetary, and logistical limits keep it from being likely. The 28% price reasonably balances these factors, and there’s no clear missing information indicating a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -58,57 +65,27 @@ Author: Trevor Hughes
 , 
  Lauren Villagran
 Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.usatoday.com/story/news/politics/2026/02/07/trump-softer-touch-ice-mass-deportation/88497160007/
-Summary: President Trump has indicated a commitment to a mass deportation strategy, despite suggesting that immigration agents could adopt a "softer touch." His administration is set to enhance enforcement efforts significantly, with billions in funding allocated to bolster ICE operations, including the hiring of thousands of new agents and the construction of large detention facilities. 
-
-Key factors influencing the likelihood of deporting 300,000 to 400,000 individuals include:
-
-1. **Increased Funding and Resources**: The administration is investing heavily in the detention and deportation system, which suggests a capacity to process and deport large numbers of immigrants.
-
-2. **Arrest Quotas**: ICE has set a daily apprehension target of 3,000 immigrants, indicating a systematic approach to achieving high deportation numbers.
-
-3. **Expanded Authority**: New directives allow ICE agents to enter homes without warrants, potentially increasing the number of deportations.
-
-4. **Technological Advancements**: The use of facial recognition technology and extensive databases could streamline the identification and apprehension of undocumented immigrants.
-
-Given these developments, the infrastructure and policies in place strongly support the possibility of deporting 300,000 to 400,000 individuals under Trump's administration.
+URL: http://www.usatoday.com/story/news/politics/2026/02/07/trump-softer-touch-ice-mass-deportation/88497160007/
+Summary: The article indicates that the Trump administration is intensifying its immigration enforcement efforts, including hiring thousands of new ICE and Border Patrol agents, deploying advanced facial recognition technology, and increasing detention capacity with billions of dollars in funding. A key enforcement goal is to meet an arrest quota of 3,000 immigrants daily, with policies allowing home entries without warrants. While Trump has expressed a desire for a "softer touch," the administration's actions suggest a focus on large-scale deportations. Given these measures, it is plausible that the administration could deport between 300,000 to 400,000 people, aligning with its aggressive enforcement objectives.
 
 Title: Can the Trump Administration's “Self-Deportation” Campaign ...
 Author: Muzaffar Chishti, Colleen Putzel-Kavanaugh Muzaffar Chishti and Colleen Putzel-Kavanaugh
-Published Date: 2025-06-18T00:00:00.000Z
 URL: https://www.migrationpolicy.org/article/trump-self-deportation
-Summary: The article from the Migration Policy Institute discusses the Trump administration's "self-deportation" campaign, which aimed to encourage undocumented immigrants to leave the U.S. voluntarily rather than through direct deportation. It highlights the administration's policies and rhetoric that contributed to a climate of fear among immigrant communities, potentially leading to increased voluntary departures.
+Summary: The article examines the Trump administration's "self-deportation" campaign, which aimed to encourage undocumented immigrants to leave the U.S. voluntarily through increased enforcement and public messaging. It discusses the scope and impact of immigration enforcement policies, including efforts to deter unauthorized presence and the potential for mass deportations. While specific figures like deportation numbers are not definitively provided, the analysis suggests that the administration's policies could lead to significant deportations, potentially reaching hundreds of thousands, depending on enforcement intensity and operational capacity. The article emphasizes that predicting exact deportation figures requires considering policy implementation, resource allocation, and legal constraints.
 
-In terms of predicting whether Trump will deport 300-400k people, the article suggests that while the administration's aggressive stance on immigration enforcement could lead to higher deportation numbers, the actual outcomes depend on various factors, including public sentiment, legal challenges, and the effectiveness of the self-deportation strategy. The article emphasizes that the administration's focus on self-deportation may not directly correlate with the number of deportations, as many undocumented immigrants may choose to remain in the U.S. despite the pressures.
+Title: Trump wants a mass deportation program. How much could it cost?
+Author: ABC News
+URL: https://abcnews.com/Politics/trump-mass-deportation-program-cost/story%3Fid%3D115318034
+Summary: A mass deportation effort by Trump targeting 300,000 to 400,000 people annually could cost between approximately $88 billion and $315 billion per year. The high costs stem from expenses related to detaining large numbers of individuals, constructing and staffing detention centers, and executing widespread raids. Specifically, deporting one million immigrants annually might require building detention capacity 24 times greater than current facilities, with costs including detention, staffing, and logistics. While theoretically feasible, such operations would be extremely costly and logistically challenging, making the deportation of 300,000 to 400,000 people per year a significant financial and operational undertaking.
 
-Overall, while the Trump administration's policies could lead to significant deportations, the specific number of 300-400k remains uncertain and influenced by multiple dynamics within the immigration landscape.
+Title: Mass Deportation - American Immigration Council
+URL: https://www.americanimmigrationcouncil.org/report/mass-deportation/
+Summary: The report from the American Immigration Council indicates that mass deportation efforts in the U.S. are highly complex and costly, with estimates exceeding $315 billion for a one-time operation targeting approximately 13 million undocumented immigrants. Historically, the U.S. has deported fewer than 500,000 individuals annually, primarily apprehended at the border rather than those already residing in the country. Given these figures, deporting 300,000 to 400,000 people would represent a significant increase over recent annual deportations but remains far below the scale of a mass deportation campaign. The logistical challenges, costs, and institutional capacity required suggest that such a large-scale operation would be unprecedented and extremely resource-intensive. Therefore, while deporting 300-400k individuals is conceivable within current enforcement capabilities, it would still be a substantial undertaking with considerable fiscal and operational implications.
 
-Title: Trump vows 'softer touch' but ICE to forge ahead with mass deportation
+Title: Trump has made sweeping changes to immigration enforcement | AP News
 Author: 
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://eu.delawareonline.com/story/news/politics/2026/02/07/trump-softer-touch-ice-mass-deportation/88497160007/
-Summary: President Trump has indicated a potential shift towards a "softer touch" in immigration enforcement, particularly in response to local concerns about aggressive tactics used by ICE. However, despite this rhetoric, his administration is set to intensify its mass deportation efforts, with plans to significantly increase funding for ICE, hire thousands of new agents, and implement strict arrest quotas requiring the apprehension of 3,000 immigrants daily. This suggests a strong likelihood that deportations could reach the range of 300,000 to 400,000 individuals, especially given the administration's commitment to expanding detention facilities and utilizing advanced surveillance technologies. The combination of these factors points towards a robust enforcement strategy that may lead to high deportation numbers in the near future.
-
-Title: CQ Researcher - U.S. Immigration Policy
-Author: — By Lorna Collier
-Published Date: 2025-06-27T00:00:00.000Z
-URL: https://cqpress.sagepub.com/cqresearcher/report/us-immigration-policy-cqresrre20250627
-Summary: The CQ Researcher report on U.S. Immigration Policy discusses the Trump administration's aggressive stance on deportation, aiming to remove all 13 million unauthorized immigrants in the U.S. Since taking office, President Trump has implemented numerous executive orders to facilitate this goal, with Immigration and Customs Enforcement (ICE) focusing on deporting individuals deemed as the "worst of the worst" criminals. The report highlights recent arrests, such as those at Delta Downs Racetrack, as part of this crackdown. Given this context, predicting whether Trump will deport 300-400k people hinges on the administration's ongoing enforcement strategies, legal challenges to these policies, and the operational capacity of ICE to carry out mass deportations.
-
-Title: Trump vows 'softer touch' but ICE to forge ahead with mass deportation
-Author: Trevor Hughes 
-, 
- Lauren Villagran
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://thenorthwestern.com/story/news/politics/2026/02/07/trump-softer-touch-ice-mass-deportation/88497160007/
-Summary: In a recent interview, President Trump suggested a "softer touch" in immigration enforcement, particularly in response to local concerns about aggressive tactics. However, despite this rhetoric, his administration is poised to continue a robust mass deportation strategy, with plans to significantly increase funding for Immigration and Customs Enforcement (ICE) and hire thousands of new agents. 
-
-Key points include:
-
-- **Funding and Resources**: The administration is allocating billions of dollars to enhance the detention and deportation system, preparing to detain tens of thousands more individuals.
-- **Agent Deployment**: Thousands of new ICE and Border Patrol agents are being rapidly trained and deployed, with an arrest quota of 3,000 immigrants daily.
-- **Enforcement Tactics**: New directives allow agents to enter homes without warrants, and advanced technology, including facial recognition, is being utilized to identify individuals.
-
-Given these developments, the likelihood of Trump deporting 300-400k people appears high, as the administration's infrastructure and policies are geared towards aggressive enforcement rather than a reduction in deportations.
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://apnews.com/article/trump-immigration-border-security-deportations-c06c989b1b1e85522c0d44c4d36fd9fb
+Summary: The article details significant changes in immigration enforcement under President Trump’s administration, emphasizing increased deportation efforts. It highlights a substantial rise in ICE arrests, which grew from around 8,500 in December 2024 to over 32,700 by September 2025, indicating a more aggressive enforcement stance. While border apprehensions have decreased sharply, the surge in ICE arrests suggests a focus on removing individuals already within the U.S. or those targeted for deportation. Given this trend, there is a possibility that Trump’s administration could aim to deport between 300,000 to 400,000 people, aligning with the increased enforcement activity and ICE arrest figures.
 
 

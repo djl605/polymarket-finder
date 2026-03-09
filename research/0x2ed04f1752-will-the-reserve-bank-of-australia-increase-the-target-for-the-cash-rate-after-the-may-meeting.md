@@ -1,54 +1,52 @@
 # Research: Will the Reserve Bank of Australia increase the target for the cash rate after the May Meeting?
 
 **Market ID:** 0x2ed04f1752e07f0bc7eb940d869779080f51f989ff81e812a951401f525298a1
-**Researched At:** March 2, 2026 at 02:54:19 PM UTC
+**Researched At:** March 9, 2026 at 04:25:30 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Reserve Bank of Australia increase the target for the cash rate after the May Meeting?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.3¢
+**Confidence:** Medium
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Major banks uniformly forecast a May rate hike, and the RBA’s data-dependent guidance is already well publicized, suggesting the 72.5% price is broadly appropriate. Any mispricing appears small (under 10¢) and hinges on the April CPI outcome, so there’s limited edge.
+Major banks and economists almost uniformly forecast a May rate increase, consistent with the 80.5% market probability, while the RBA’s data-dependent stance leaves only modest residual uncertainty. There is no clear, unpriced evidence suggesting a large deviation from the current price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the RBA will raise its cash rate target at the May 5, 2026 meeting. “YES” if the Board increases the rate above the pre‐May level (currently 3.85%); “NO” if it holds or cuts.
+This market asks whether the RBA will raise its cash-rate target at its May 5, 2026 meeting (relative to the rate immediately beforehand). It resolves YES if the Board announces any increase (e.g. +25 bps or more), and NO if it holds or cuts the rate.
 
 2. EVIDENCE EVALUATION  
-Bullish for a hike (supporting current 72.5%):  
-- ANZ (Feb 26) and other major banks now forecast +25 bp in May, citing underlying inflation rising to 3.4% yr/yr and CPI remaining above target.  
-- CommBank economists (Feb 1) signaled a likely second hike in May after the February move.  
+Bullish signals (supporting the 80.5% YES probability):  
+• Multiple major banks (Commonwealth, Westpac, NAB, ANZ) and public economists forecast a May hike to around 4.10%.  
+• Underlying inflation remains above target (3.4% year to January) and consumer spending, while soft, hasn’t arrested inflation pressures.  
+• Recent commentary from economists and news sources (9News, YourMortgage, Savings.com) emphasizes that a May increase is “on the cards” and widely expected.  
 
-Bearish/contra (suggesting price may be too high):  
-- RBA Governor Bullock has emphasized “patience” and data-dependence; the Board typically waits for quarterly CPI (due Apr 29) before deciding.  
-- ANZ’s own economist cautioned the case for May is “not definitive,” highlighting moderating household spending and lower trimmed mean inflation.  
+Bearish signals (suggesting some chance of no hike):  
+• RBA Governor has stressed patience and data-dependency; they’ve signaled that the May decision hinges on late-April CPI and other incoming data.  
+• ANZ, despite forecasting a hike, remains cautious and notes the path of rates is uncertain.  
+• Modest possibility of moderation in inflation or a renewed hold if the CPI print surprises to the downside.  
 
-Source credibility and recency:  
-- All forecasts are from credible major banks, published within the last month. No truly novel or outlier view has emerged.
+Source credibility is high—these are leading banks and mainstream news outlets—and recency is good (Feb–Mar 2026).
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 72.5% price aligns with a broad consensus view among bank economists.  
-- Low volume/tight spread likely reflects that traders see this as a well‐telegraphed event rather than a high-uncertainty one; the price could stem from a handful of active participants but mirrors public forecasts.  
+A price of ~80% plausibly reflects consensus among professional forecasters and reflects their collective view that a May hike is more likely than not. The low volume and tight spread suggest few traders but also that authorized bettors find the outcome relatively straightforward, leaving little room for arbitrage.
 
 4. MISPRICING ASSESSMENT  
-- No specific evidence points to a large (>20¢) mispricing.  
-- A modest risk remains that RBA delays until June if April CPI surprises on the downside, implying the true probability might be slightly below 72.5% (perhaps ~65%).  
-- However, that 7.5¢ gap is small relative to known uncertainties, and most informed views already factor in data-dependence.
+No strong indicator of a large (>20 c) mispricing. The evidence mostly supports a high-probability hike, with some residual uncertainty (data risk) but not enough to drive the true probability much below ~70–75%. There’s no isolated new data point or contrarian analysis that market participants seem to have missed.
 
 5. EXPECTED VALUE CALCULATION  
-- STRENGTH of evidence: 30% (moderate confidence that the market modestly overstates the odds)  
-- MAGNITUDE of mispricing: ~7.5 ¢  
-- Expected value = 0.30 × 7.5 ¢ = 2.25 ¢
+Strength of evidence for mispricing: ~40% (some uncertainty but no glaring omission)  
+Estimated magnitude of mispricing: ~5 c  
+Expected value = 0.40 × 5 = 2 c
 
-EXPECTED_VALUE: 2.3  
-SUMMARY: Major banks uniformly forecast a May rate hike, and the RBA’s data-dependent guidance is already well publicized, suggesting the 72.5% price is broadly appropriate. Any mispricing appears small (under 10¢) and hinges on the April CPI outcome, so there’s limited edge.  
-CONFIDENCE: low
+EXPECTED_VALUE: 2  
+SUMMARY: Major banks and economists almost uniformly forecast a May rate increase, consistent with the 80.5% market probability, while the RBA’s data-dependent stance leaves only modest residual uncertainty. There is no clear, unpriced evidence suggesting a large deviation from the current price.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,51 +54,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Another cash rate hike is 'on the cards' for May, economists warn
+Author: April Glover 12:29pm Mar 5, 2026
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.9news.com.au/national/interest-rates-expert-says-another-hike-coming-in-may/e2047d98-a00a-449f-a103-3a46c4a7af32
+Summary: The article indicates that Australian economists and the major banks are strongly predicting a further increase in the cash rate in May, with some experts suggesting a potential double rate hike. Despite recent positive economic growth and softer January spending figures, there is significant market expectation of a rate rise during the Reserve Bank of Australia's (RBA) third meeting of the year. The increased speculation has already impacted consumer behavior, leading to a slight decline in discretionary spending. Given these signals, it is highly likely that the RBA will consider increasing the cash rate after the May meeting, especially if economic conditions and inflation pressures persist.
+
 Title: Last domino falls: ANZ finally forecasts May RBA hike
 Author: Brooke Cooper
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.yourmortgage.com.au/mortgage-news/anz-last-big-four-bank-to-forecast-may-rba-rate-rise
-Summary: ANZ has recently changed its forecast, now predicting a 25 basis point increase in the Reserve Bank of Australia's (RBA) cash rate at the May meeting, following new inflation data that showed a rise in underlying consumer prices. The Consumer Price Index (CPI) indicated that trimmed mean inflation increased from 3.3% to 3.4% year-on-year, moving further from the RBA's target of 2% to 3%. Despite this forecast, ANZ's head of Australian economics, Adam Boyton, cautioned that the case for a May hike is not definitive, as the RBA appears to be in no rush to raise rates. RBA Governor Michele Bullock emphasized the need for patience, noting that while inflation is elevated, it is not spiraling out of control. 
+Summary: The Reserve Bank of Australia (RBA) is expected to consider a potential cash rate increase at its May meeting, driven by recent inflation data showing underlying consumer prices rising faster than anticipated—specifically, a 3.4% increase over the year to January, above the RBA’s 2-3% target. ANZ Bank now forecasts a 25 basis point hike in May, marking the likely end of the current rate hike cycle, with the cash rate possibly remaining at 4.1% for an extended period afterward. However, the RBA’s governor has indicated a cautious approach, emphasizing patience and the need for further data, especially as inflation remains elevated but not accelerating rapidly. The upcoming quarterly Consumer Price Index (CPI) data, due in late April, will be crucial in informing future policy decisions. Overall, while a rate hike in May is anticipated, there is no definitive indication that the RBA will increase the target rate beyond that point, and the central bank appears to prefer a gradual, data-dependent approach.
 
-Additionally, the impact of the recent February rate hike is still being felt by mortgage holders, and the RBA typically prefers to adjust rates during monetary policy meetings that follow the release of quarterly CPI data. The upcoming CPI readings will play a crucial role in shaping future monetary policy decisions. Overall, while a May rate hike is anticipated, the RBA's approach remains cautious, and further increases post-May are uncertain.
-
-Title: ANZ now tips RBA cash rate hike in May - Savings.com.au
-Author: Emma Duffy
-Published Date: 2026-02-26T14:54:03.875Z
+Title: Interest rates to rise in May? ANZ joins the believers
+Author: Hanan Dervisevic
+Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.savings.com.au/news/anz-now-tips-rba-cash-rate-hike-in-may
-Summary: ANZ has revised its forecast, predicting a 25 basis point increase in the Reserve Bank of Australia's (RBA) cash rate in May, raising it from 3.85% to 4.1%. This expectation aligns with sentiments from other major banks, but ANZ cautions that the situation is not straightforward. Recent inflation data shows Australia's annual headline inflation steady at 3.8%, with underlying inflation rising to 3.4%. Despite these figures, ANZ notes that the case for a May rate hike is not as clear-cut as market pricing suggests, citing a decline in household spending growth and a trend of lower trimmed mean inflation.
+Summary: The article indicates that ANZ and other major banks now expect a 25 basis point increase in the RBA's cash rate in May, raising it from 3.85% to 4.1%. However, ANZ emphasizes that the decision is not predetermined, citing the RBA's recent statements that the path of interest rates remains uncertain and data-dependent. The upcoming quarterly CPI data, due in late April, will likely influence the RBA's decision, with past patterns suggesting rate adjustments are often made after CPI releases. Market expectations for a rate hike in March are low, but the probability of a May increase has risen slightly. Overall, while a rate hike in May appears probable, it is not guaranteed, and future moves depend on inflation and economic data.
 
-ANZ's head of Australian economics, Adam Boyton, indicated that while a rate hike is likely, the RBA has emphasized that its policy path is not predetermined. The next quarterly Consumer Price Index (CPI) data will be released on April 29, just before the RBA's May meeting on May 3-4. Currently, there is little expectation for a rate increase at the RBA's March meeting, with only a 13% chance of a hike being priced in for that month. Most analysts believe that if a hike occurs in May, it may be the last one for 2026. 
-
-In summary, while a rate increase in May is anticipated, the RBA's future decisions will depend on upcoming economic data and are not guaranteed.
-
-Title: Second hike likely in May after RBA lifts cash rate to 3.85%
+Title: RBA March 2026 Meeting Preview: Will Rates Rise Again?
 Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.commbank.com.au/articles/newsroom/2026/02/commbank-economists-on-the-rba-interest-rate-decision.html
-Summary: The Reserve Bank of Australia (RBA) has raised interest rates and signaled another move is likely. This article suggests a second hike could occur in May.
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://www.financedirectory.net.au/blog/rba-march-2026-meeting-preview-will-rates-rise-again
+Summary: The upcoming March 2026 RBA meeting is widely expected to result in a hold at the current cash rate of 3.85%, with most major banks and economists predicting no change this month. However, forecasts for May vary: the Commonwealth Bank, Westpac, and NAB anticipate a further rate hike to around 4.10%, while ANZ expects rates to remain steady through the end of 2026. The decision to increase the cash rate after May will depend heavily on inflation data and how effectively previous rate hikes have influenced inflation and economic activity. If inflation remains elevated or shows signs of persistent upward pressure, the RBA may consider raising rates again post-May. Conversely, if inflation shows signs of moderation, the bank might pause or hold rates steady.
 
-
-Title: RBA interest rate outlook for 2026: What's next and how to plan ahead
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.aussie.com.au/insights/articles/rba-interest-rate-cut-outlook/
-Summary: In February 2026, the RBA increased the cash rate to 3.85% after three cuts in 2025. The RBA has stated that future decisions will be data-dependent, with the Board focused on ensuring inflation moves sustainably back to target before considering any future changes. Major banks have mixed views, with some expecting rates to remain restrictive if inflation proves sticky, while others see scope for easing later in 2026 if inflation returns to the RBA’s 2-3% target band.
-
-
-Title: Review of the Yield Target - Reserve Bank of Australia
-URL: https://www.rba.gov.au/monetary-policy/reviews/yield-target/index.html
-Summary: The Reserve Bank of Australia's (RBA) review of its yield target, which was in place from March 2020 until November 2021, offers insights that may be relevant for predicting potential changes to the cash rate target after the May Meeting. Key points from the review include:
-
-1. **Economic Context**: The yield target was implemented to lower funding costs and support credit during the pandemic when interest rates were already low. The RBA's decisions were heavily influenced by downside risks to employment and inflation, aiming to provide insurance against severe economic outcomes.
-
-2. **Forward Guidance and Market Response**: The yield target initially helped ease financial conditions but became less effective as market participants reassessed their expectations for the cash rate. This suggests that the RBA's forward guidance may need to adapt to changing market perceptions.
-
-3. **Lessons Learned**: The review indicates that the RBA plans to strengthen its scenario analysis when making policy decisions, particularly regarding unconventional measures like yield targets. This could imply a more flexible approach to adjusting the cash rate based on evolving economic conditions.
-
-4. **Market Volatility**: The exit from the yield target was marked by disorderly market conditions, which may influence the RBA's caution in making future rate adjustments.
-
-5. **Future Considerations**: If the RBA considers unconventional policies again, it will weigh the lessons learned from the yield target experience, including the effectiveness and risks of alternative tools like bond purchase programs.
-
-In summary, while the RBA's
+Title: 'Live' chance of interest rate hike at March RBA meeting amid oil ...
+Author: Patrick Commins
+Published Date: 2026-03-03T04:25:16.719Z
+URL: https://www.theguardian.com/australia-news/2026/mar/03/live-chance-of-interest-rate-hike-at-march-rba-meeting-amid-oil-price-spikes-affecting-inflation-governor-says
+Summary: The Reserve Bank of Australia (RBA) is considering a potential interest rate hike at its upcoming March meeting due to elevated inflation (3.8%) and a tight labor market (unemployment at 4.1%). While most market expectations favor a rate increase in May, RBA Governor Michele Bullock indicated that the March meeting is a "live" option, especially given recent oil price spikes caused by geopolitical tensions in Iran. The central bank typically overlooks temporary energy price shocks, but ongoing elevated inflation and unanchored inflation expectations could prompt earlier action. The recent surge in oil prices, linked to attacks on Iran and disruptions in Middle Eastern shipping routes, poses a risk to economic growth and inflation control. Therefore, there is a possibility that the RBA may increase the cash rate after the May meeting, potentially as soon as March, depending on inflation developments and energy price trends.
 
 
