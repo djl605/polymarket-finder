@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the NC-07 House seat?
 
 **Market ID:** 0x16783c25129111d46a927bd3ac7379fa729d485ceeb0960d7ec9697b648aea9f
-**Researched At:** March 1, 2026 at 06:03:16 AM UTC
+**Researched At:** March 9, 2026 at 03:02:28 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the NC-07 House seat?"
 
 ---
@@ -9,49 +9,51 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 0.6¢
 
 ### Summary
 
-There’s scant district-specific evidence suggesting NC-07 is as competitive as a 16.5% price would understate—forecasters and the DCCC aren’t targeting it, and redistricting impacts remain unclear. Thus, while a slight uptick in Dem chances is possible, any mispricing is small.
+The 15% price aligns with NC-07’s strong Republican lean and incumbent Rouzer’s dominance; there’s no polling or other data indicating a meaningful underpricing of Democratic chances, so any mispricing is likely under 5 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will a Democratic candidate win North Carolina’s 7th Congressional District in the November 4, 2026 general election?”  
-– YES resolves if the Democrat on the ballot (or who ultimately caucuses Democratic) is certified by credible reporting or the FEC as the winner.  
-– NO resolves if the Republican (or any non-Democrat) wins.
+The market asks: “Will the Democratic Party win the NC-07 U.S. House seat in the Nov 4, 2026 general election?” YES pays if the Democrat (currently Kimberly Hardy) is the victor; NO pays if the Republican (incumbent David Rouzer) wins or any other non-Democrat.  
 
 2. EVIDENCE EVALUATION  
-Bullish (price too low):  
-• Generic House trend: By November 2025, analysts (Kondik) noted a slight shift toward Democrats in median House ratings, suggesting some formerly safe Republican seats could become competitive.  
-• Redistricting uncertainty: Decision Desk HQ flags ongoing NC redistricting that could make NC-07 more favorable to Democrats if boundaries shift toward suburban/trending-D areas.  
-• Down-ballot lift from high-profile Dem campaigns: Politico notes a potential Roy Cooper Senate run and open Tillis seat could mobilize Democrats statewide, possibly boosting NC-07 turnout.
+Bearish (Republican-win) evidence  
+• Incumbent strength: Rouzer has held NC-07 since 2014 and won the 2026 primary with over 80% of the vote (Spencer, 2026-03-04). Incumbents typically enjoy name recognition and fundraising advantages.  
+• District partisanship: NC-07 includes several reliably Republican counties; recent boundary changes (2020 redistricting) have not meaningfully shifted it toward Democrats. No credible source suggests a Cook PVI swing to competitive.  
 
-Bearish (price reasonable or too high):  
-• No direct DCCC investment: Unlike NC-11, NC-07 is not in DCCC’s “Red to Blue” program, implying Democrats see a low chance to flip it.  
-• Historic lean: NC-07 has consistently elected Republicans; no research cites a strong Democratic candidate or polling here.  
-• Absence from rating upgrades: Major forecasters haven’t reclassified NC-07 as a toss-up, focusing instead on more marginal districts.
+Bullish (Dem-win) evidence  
+• Turnout and campaign dynamics: General election turnout could differ from primaries, and a strong national environment for Democrats could help Hardy. However, no polling or quality fundraising data for Hardy is available.  
+• Broader trends: Rising Democratic engagement in other NC districts (NC-11) suggests party momentum, but that doesn’t directly translate to NC-07.  
 
-Source credibility & recency: All findings are from late 2025 to early 2026 and come from reputable outlets (Center for Politics, Decision Desk HQ, Politico, local news), but none provide direct polling or district-specific analysis for NC-07.
+Evidence quality and recency  
+• Spencer’s primary results (Mar 4, 2026) are recent and directly about NC-07.  
+• No dedicated polling for NC-07 general race, reducing ability to challenge a baseline.  
+• Secondary analyses (NC-11, NC-01) are indirectly relevant and don’t contradict the district’s safe-R profile.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-– A 16.5% price aligns with a safe-R seat being only modestly flippable under a pro-Dem environment.  
-– Low volume likely reflects low interest because the district is viewed as uncompetitive, not necessarily overlooked inefficiency.  
-– The tight spread suggests at least one liquidity provider sees this as a fair estimate rather than a one-sided bet.
+• A 15% probability implies the market views NC-07 as strongly Republican, which is consistent with historical margins and no contrary data.  
+• Low volume could reflect that informed traders see this seat as a predictable R-hold and thus haven’t engaged heavily, rather than active disagreement.  
+• The tight spread (2¢) suggests whoever has set the market is confident in their price.  
 
 4. MISPRICING ASSESSMENT  
-– No strong, specific evidence indicates that redistricting or statewide dynamics will swing NC-07 sufficiently to push its win probability above, say, 25–30%.  
-– The absence of targeted investment or rating upgrades implies informed traders already consider it a low-probability flip.  
-– Any mispricing is likely small (<10 cents) given the thin evidence and the district’s history.
+• No specific data (polls, fundraising, scandal, demographic shift) appears to be missing that would materially boost Democratic chances above 15%.  
+• Equally, nothing dramatic suggests Rouzer is at serious risk.  
+• A small upward or downward adjustment (±3–5 cents) could be justified if new information arrives, but current evidence supports the mid-teens probability.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~30% (district-level data is missing; generic cues already known)  
-Magnitude of mispricing: ~5¢ (the upside from 16.5% to maybe 20% if one is optimistic)  
-Expected value = 0.30 × 5 = 1.5¢ ≈ 2¢
+Strength of evidence that price is correct (i.e., low mispricing risk): ~80%  
+Magnitude of likely mispricing if any: ~3 cents  
+Expected value = 0.20 × 3 = 0.6 cents (on the bearish side, roughly)  
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: There’s scant district-specific evidence suggesting NC-07 is as competitive as a 16.5% price would understate—forecasters and the DCCC aren’t targeting it, and redistricting impacts remain unclear. Thus, while a slight uptick in Dem chances is possible, any mispricing is small.  
+6. CONFIDENCE  
+medium  
+
+EXPECTED_VALUE: 0.6  
+SUMMARY: The 15% price aligns with NC-07’s strong Republican lean and incumbent Rouzer’s dominance; there’s no polling or other data indicating a meaningful underpricing of Democratic chances, so any mispricing is likely under 5 cents.  
 CONFIDENCE: medium
 
 ---
@@ -60,76 +62,37 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: National Dems eye North Carolina's 11th District, add candidate to 'Red to Blue' program
+Title: US House District 7 election results for the 2026 primary in NC
+Author: Renee Spencer
+Published Date: 2026-03-04T00:00:00.000Z
+URL: http://starnewsonline.com/story/news/politics/elections/2026/03/03/us-house-district-7-election-results-for-the-2026-primary-in-nc/88886720007/
+Summary: U.S. Rep. David Rouzer, a Republican, secured his nomination for North Carolina’s 7th Congressional District in the 2026 primary with over 80% of the vote. He will face Democratic candidate Kimberly Hardy and Libertarian Maad Abu-Ghazalah in the November general election. The district, which includes counties like New Hanover, Brunswick, Pender, Columbus, and parts of Robeson and Cumberland, has undergone significant boundary changes since 2020. Rouzer has served in Congress since 2014 and is seeking his seventh term. The district's political leaning and recent election results suggest a strong Republican presence, but the outcome will depend on campaign dynamics and voter turnout in the general election.
+
+Title: Democrat Ager wins in NC-11, will face Rep. Edwards
+Author: Cory Vaillancourt
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://smokymountainnews.com/news/item/40956-nc11-democrats
+Summary: Jamie Ager, a Democrat from Fairview, won the Democratic primary in North Carolina's 11th Congressional District with 65% of the vote, positioning himself for a November matchup against incumbent Republican Rep. Chuck Edwards. Ager's campaign, bolstered by significant fundraising and national Democratic support, focused on regional issues such as hurricane recovery, economic challenges, and affordability concerns. The district, historically considered safely Republican, has seen increased Democratic engagement, with primary turnout surpassing previous mid-term levels. While this victory indicates growing Democratic momentum in the district, it does not directly predict the outcome in North Carolina's 7th Congressional District. The NC-07's political dynamics, candidate profiles, and recent voting trends would need to be analyzed separately to assess the likelihood of a Democratic win there.
+
+Title: Jamie Ager projected to win Democratic primary in North Carolina's 11th Congressional District - CBS News
+Author: By
+                        
+              
+                   Caitlin  Yilek
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.cbsnews.com/amp/news/north-carolina-jamie-ager-11th-district-democratic-primary-results-2026-midterm-electins/
+Summary: Jamie Ager, a Democrat and fourth-generation farmer, has won the Democratic primary in North Carolina's 11th Congressional District and will face Republican incumbent Chuck Edwards in the upcoming general election. Although the district is rated "likely Republican" by the Cook Political Report, Democrats see a potential opportunity to flip the seat, especially as the district has shifted more toward Democrats in 2024. Ager's campaign has received significant support from the Democratic Congressional Campaign Committee and endorsements from pragmatic Democrats. The district has faced challenges, including slow recovery efforts after severe flooding in 2024, which have drawn criticism of Edwards. While this race is not directly related to NC-07, the Democratic Party's efforts to regain seats in North Carolina, including districts like the 11th, suggest a broader strategy that could influence outcomes in other districts such as NC-07.
+
+Title: The Latest: Texas GOP Senate race heads to runoff. Democrats too early to call | Associated Press National | nvdaily.com
+Author: The Associated Press
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.nvdaily.com/associated_press_national/the-latest-primary-voters-head-to-the-polls-in-texas-north-carolina-and-arkansas/article_7df75944-4ba0-515f-a83e-a8fc026edefb.html
+Summary: The article reports on recent primary election developments in Texas and other states, highlighting key races and candidate performances. Notably, in Texas, longtime Senator John Cornyn and MAGA supporter Ken Paxton are headed to a runoff in the Republican Senate primary. On the Democratic side, Congresswoman Jasmine Crockett and State Rep. James Talarico are in a close race for the Democratic nomination, with Talarico expressing confidence despite ongoing vote counts and voter confusion in Dallas County. The results indicate a competitive political landscape, but there is no specific information about the NC-07 House seat or the Democratic Party's prospects there.
+
+Title: Who is Ahead in North Carolina's 1st Congressional District? - The New York Times
 Author: 
 Published Date: 2026-02-24T00:00:00.000Z
-URL: https://wlos.com/news/local/north-carolina-11th-congressional-district-2026-jamie-ager-chuck-edwards-republican-red-blue-program-democratic-congressional-campaign-committee
-Summary: The Democratic Congressional Campaign Committee (DCCC) is intensifying its efforts in North Carolina's 11th Congressional District, indicating a belief that this traditionally Republican seat could be competitive in the upcoming 2026 elections. They have added Democratic candidate Jamie Ager to their "Red to Blue" program, which aims to support candidates in districts that have the potential to flip from Republican to Democratic control. This strategic move suggests that national Democrats are optimistic about their chances in this district, which could provide insights into the broader electoral landscape, including the NC-07 House seat. Factors such as candidate strength, voter sentiment, and demographic shifts will be crucial in predicting the outcome for both the NC-11 and NC-07 districts.
-
-Title: Democrats sense opportunity in storm-ravaged NC-11
-Author: Cory Vaillancourt
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://smokymountainnews.com/news/item/40868-democrats-sense-opportunity-in-storm-ravaged-nc-11
-Summary: The article discusses the Democratic Party's prospects in North Carolina's 11th Congressional District (NC-11), which has been affected by recent disasters and political instability. Democrats are optimistic about their chances to flip the seat currently held by Republican Rep. Chuck Edwards, especially given the district's history of turmoil following the tenures of former Reps. Mark Meadows and Madison Cawthorn. 
-
-Key factors influencing the race include:
-
-1. **Voter Sentiment**: The district has faced significant challenges, including the aftermath of Hurricane Helene, which has left voters frustrated with Edwards' failure to secure recovery funding. This discontent may sway voters towards Democratic candidates.
-
-2. **National Trends**: There is a perceived shift against Republicans nationally, with Democrats experiencing a series of unexpected victories in 2025, suggesting a potential "blue wave" in the upcoming elections.
-
-3. **Candidate Landscape**: Five Democratic candidates are vying for the nomination, indicating a competitive primary that could energize the base and attract undecided voters.
-
-4. **Republican Challenges**: Trump's declining popularity among key demographics, including unaffiliated and suburban voters, could further weaken Republican support in the district.
-
-Overall, while the article focuses on NC-11, it highlights broader trends and dynamics that could also inform predictions about the Democratic Party's chances in NC-07, particularly regarding voter dissatisfaction and shifting political tides.
-
-Title: House Rating Changes: Six Moves Toward Democrats, Although ...
-Author: Kyle Kondik
-Published Date: 2025-11-19T00:00:00.000Z
-URL: https://centerforpolitics.org/crystalball/house-rating-changes-six-moves-toward-democrats-although-topline-remains-close/
-Summary: The article discusses recent changes in House ratings, indicating a slight shift toward Democrats, which could be relevant for predicting the outcome of the NC-07 House seat. Key points include:
-
-1. **Democratic Favorability**: Democrats are currently favored to flip the House majority in the upcoming elections, needing to gain only three seats compared to their previous performance.
-
-2. **Impact of Redistricting**: The ongoing redistricting process has complicated the electoral landscape, but recent changes in several states have slightly benefited Democrats. The median House seat has shifted toward them, which could influence competitive races like NC-07.
-
-3. **Potential Supreme Court Ruling**: A significant ruling from the U.S. Supreme Court on Section Two of the Voting Rights Act could alter the dynamics by affecting majority-minority districts. However, any ruling is expected to come too late to impact the 2026 elections significantly.
-
-4. **Local Context**: The article does not specifically mention NC-07, but it highlights that races in traditionally Republican areas, such as TN-7, may not be as secure for Republicans as previously thought. This could suggest a more competitive environment for Democrats in similar districts.
-
-In summary, while the article does not directly address NC-07, the overall trend toward Democratic favorability and the complexities introduced by redistricting may provide a more optimistic outlook for Democratic candidates in that district.
-
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:03:00.828Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article discusses the political landscape and key House seats for the upcoming 2026 elections, with a focus on factors that could influence outcomes, including redistricting and candidate dynamics. For the North Carolina 7th (NC-07) House seat, the following points are relevant:
-
-1. **Redistricting Impact**: The article highlights ongoing redistricting efforts that could affect various districts, including NC-07. Changes in district boundaries can significantly alter the competitiveness of a seat.
-
-2. **Political Climate**: The overall sentiment towards the Democratic Party in North Carolina, influenced by local and national issues, will play a crucial role. The article suggests that shifts in voter sentiment could favor Democrats if they capitalize on key issues.
-
-3. **Candidate Dynamics**: The strength and appeal of the candidates running for the NC-07 seat will be critical. The article notes that candidate profiles and their alignment with voter priorities can sway election outcomes.
-
-4. **Historical Context**: Understanding past election results in NC-07 can provide insights into potential Democratic chances. The article may reference trends from previous elections that could indicate whether the seat is leaning more Democratic or Republican.
-
-In summary, the Democratic Party's chances of winning the NC-07 seat will depend on redistricting outcomes, the political climate, candidate appeal, and historical voting patterns in the district.
-
-Title: Who will win the Senate in the midterms? The answers to these 5 ...
-Author: 
-Published Date: 2025-07-13T00:00:00.000Z
-URL: https://www.politico.com/news/2025/07/13/senate-battleground-2026-midterms-00449589
-Summary: The article discusses the upcoming Senate midterm elections and highlights key factors that could influence the Democratic Party's chances in various races, including North Carolina. While it primarily focuses on the Senate, insights can be drawn regarding the political landscape in NC-07, which may impact the House seat.
-
-1. **Democratic Recruitment**: The potential candidacy of former North Carolina Governor Roy Cooper is crucial. His strong political brand and fundraising capabilities could energize the Democratic base, which may also benefit House candidates in the region, including NC-07.
-
-2. **Republican Retirements**: The retirement of Republican Senator Thom Tillis opens up the political field, potentially making it easier for Democrats to gain traction in both Senate and House races. This shift could lead to increased competitiveness in NC-07.
-
-3. **Political Climate**: The article notes that Democrats need to net four Senate seats to flip the chamber, indicating a highly competitive environment. If Democrats perform well in statewide races, it could create a favorable atmosphere for House candidates, including those in NC-07.
-
-4. **Voter Sentiment**: The dynamics of voter sentiment in North Carolina, particularly in swing districts like NC-07, will be influenced by national issues and local Democratic strategies, which are still being shaped by key figures like Cooper.
-
-In summary, while the article does not directly address the NC-07 House seat, the political developments in North Carolina, particularly regarding high-profile Democratic candidates and Republican retirements, could significantly
+URL: https://www.nytimes.com/interactive/polls/north-carolina-us-house-1-polls-2026.html
+Summary: The article focuses on North Carolina's 1st Congressional District and indicates that the district has become more challenging for Democrats, including Representative Don Davis, due to recent redistricting efforts by the Republican-controlled General Assembly. The district has shifted to favor Republicans, with the Cook Political Report rating it as leaning Republican in 2026. Davis, a Democrat, is running for re-election but faces a competitive Republican primary, with several candidates vying for the seat. Given the redistricting and current political landscape, the district's competitiveness suggests that Democrats may face difficulties in maintaining this seat. While this information pertains specifically to NC-01, it highlights the broader trend of redistricting and partisan shifts that could similarly impact other districts like NC-07. Therefore, predicting the outcome for the NC-07 House seat would require considering similar redistricting effects, party competitiveness, and candidate strength in that district.
 
 

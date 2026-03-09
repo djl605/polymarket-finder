@@ -1,7 +1,7 @@
 # Research: Will EUR/USD hit 1.24 (High) in 2026?
 
 **Market ID:** 0xaa15864c0149ea2ae27e0e55f25f146ce35f85573af20ef317df3c97f0f0307e
-**Researched At:** March 1, 2026 at 06:09:10 AM UTC
+**Researched At:** March 9, 2026 at 03:02:43 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will EUR/USD hit 1.24 (High) in 2026?"
 
 ---
@@ -9,46 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 1.3¢
 
 ### Summary
 
-Major banks’ forecasts center around a 1.17–1.22 year-end EUR/USD, implying <50% odds of any 1.24 spike, yet realized hourly-high volatility could justify up to ~58%. No strong, specific evidence of a >20 cent mispricing is apparent.
+Institutional forecasts generally place the chance of EUR/USD hitting 1.24 by end-2026 in the mid-30s to low-40% range. The market’s 42.5% price sits near the high end but lacks clear evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market resolves YES if any Investing.com hourly “H” for EUR/USD reaches ≥1.2400 at any time through the end of 2026. A sustained daily close is not needed—just one finalized hourly high spike before Dec 31 2026 ET. Otherwise it resolves NO.
+The market asks whether EUR/USD will trade at or above 1.24 at least once on an hourly candle on or before the end of 2026. A “Yes” requires any hourly high ≥1.24; “No” if no hourly candle reaches that threshold.
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (suggesting a lower probability than 58.5%):  
-- RBC (Jan 2026) projects EUR/USD at 1.17 by end-2026 and 1.24 only by end-2027, implying slim odds of a 1.24 spike in 2026.  
-- J.P. Morgan (via Forex Revolution) targets 1.20 by end-2026; ING sees 1.22.  
-- Cambridge Currencies’ base case is 1.18–1.22, with >1.24 only in an aggressive Fed-cut scenario.
+Bullish views  
+• MUFG (Forex Revolution) explicitly forecasts EUR/USD hitting 1.24 by late 2026.  
+• RBC Capital Markets outlines a mild USD depreciation/momentum that could carry EUR/USD toward 1.24 if macro trends persist.  
+• Cambridge Currencies’ optimistic scenario assigns a 35–40% chance of 1.24–1.26 under aggressive Fed cuts and robust eurozone growth.
 
-Bullish evidence (supporting a higher probability):  
-- MUFG (Forex Revolution) explicitly forecasts a 1.24 endpoint.  
-- Fed rate cuts (2–3), Germany’s €1 trillion stimulus, and mild USD depreciation highlight a favorable macro backdrop.  
-- The high-of-hour criterion allows tail-spike potential beyond closing-rate forecasts.
+Bearish/moderate views  
+• J.P. Morgan (Forex Revolution) and Commerzbank cap year-end near 1.20–1.22, viewing 1.24 as unlikely.  
+• FCS API highlights only modest gains and low-confidence technical signals, arguing against a rapid rise to 1.24 absent major drivers.
 
-Source credibility and recency are strong (major banks, Jan–Feb 2026). The bearish view is the mainstream consensus, but traders may be pricing in intraday volatility spikes, which are not captured by end-of-day forecasts.
+Source credibility & recency  
+All sources are published in early 2026 by reputable financial institutions or data providers; forecasts reflect current macro expectations.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 58.5% price could reflect:  
-- Consensus on a moderate but real chance of a 4–5% intraday uptick given realized FX volatility.  
-- Awareness that only one hourly spike is needed, not a sustained move.  
-- Low volume suggests limited arbitrage, but the narrow spread indicates at least one informed participant (or algorithm) deems this fair.
+• At 42.5%, the market slightly exceeds the 35–40% “optimistic” probability from Cambridge Currencies and aligns with MUFG’s forecasted possibility.  
+• Low volume/spread suggests a small group of traders set the price, but the consensus from multiple forecasts also clusters around a 35–45% chance.  
+• The range of institutional forecasts (20–40% chance) implies genuine uncertainty; the market price sits near the high end but not beyond the plausible range.
 
 4. MISPRICING ASSESSMENT  
-There is no single, credible forecast explicitly assigning >50% odds to ≥1.24 intraday in 2026; most assign well under 50%. However, high-volatility spikes make a one-off 4–5% rally plausible. The market price appears broadly consistent with pricing in a tail event rather than pure fundamental forecasts. No clear evidence of a >20 cent mispricing emerges.
+• No glaring omission: key drivers (Fed cuts, eurozone growth) are well known and appear priced in.  
+• The market isn’t confidently pricing a sure thing (>50%) but reflects a meaningful chance.  
+• Differences among forecasts justify a mid-40s probability.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is mispriced: 20% (bearish consensus but accounting for intraday volatility may already be priced).  
-Magnitude of potential mispricing: 10 cents (market ~58.5% vs. fundamental tilt ~40–45%).  
-Expected value = 20% × 10 cents = 2 cents.
+• Strength of evidence: ~50% (multiple independent forecasts pointing toward a ~35–40% range with some upside)  
+• Magnitude of possible mispricing: ~2.5¢ (market at 42.5% vs. top-side institutional 40%)  
+Expected value = 0.50 × 2.5¢ = 1.25¢
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Major banks’ forecasts center around a 1.17–1.22 year-end EUR/USD, implying <50% odds of any 1.24 spike, yet realized hourly-high volatility could justify up to ~58%. No strong, specific evidence of a >20 cent mispricing is apparent.  
+EXPECTED_VALUE: 1.25  
+SUMMARY: Institutional forecasts generally place the chance of EUR/USD hitting 1.24 by end-2026 in the mid-30s to low-40% range. The market’s 42.5% price sits near the high end but lacks clear evidence of a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -57,53 +58,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: [PDF] Currency Report Card & 2026 Trades - RBC Capital Markets
-Published Date: 2026-01-13T00:00:00.000Z
-URL: https://www.rbccm.com/assets/rbccm/docs/fx/currency-report-card.pdf
-Summary: The RBC Capital Markets' "Currency Report Card & 2026 Trades" provides insights into foreign exchange forecasts and actionable trades for 2026. While the report does not specifically predict the EUR/USD hitting 1.24, it outlines key themes that could influence currency movements, including mild USD depreciation, Asian strength from CNY resilience, and emerging market political risks.
-
-For EUR/USD, the report suggests monitoring the broader trends affecting the Euro and USD. The Euro's performance may be influenced by the overall strength of the Eurozone economy and monetary policy decisions by the European Central Bank. Conversely, the USD's trajectory is expected to experience mild depreciation, which could support a rise in EUR/USD.
-
-The report includes a range of trade recommendations, such as shorting USD against various currencies, which may indirectly impact the EUR/USD rate. Investors should consider these factors and the expected annualized return of 9.8% from the recommended trades when assessing the potential for EUR/USD to reach 1.24 in 2026. 
-
-Overall, while the report does not provide a direct prediction for EUR/USD, it offers valuable context and strategic insights that could be relevant for forecasting its future movements.
+Title: Forex Revolution: Currency Predictions and Strategies for 2026
+URL: https://xaubot.com/forex-predictions-strategies-2026/
+Summary: The forecast for EUR/USD in 2026 is generally positive, with most major banks predicting a range between 1.20 and 1.24 as the euro gains strength amid a weakening US dollar. MUFG expects the euro to reach 1.24 by the end of 2026, supported by European economic growth and increased spending. J.P. Morgan targets around 1.20, while ING anticipates approximately 1.22. Overall, the consensus suggests that EUR/USD could approach or slightly surpass 1.24, making it a plausible high for 2026 given the expected dollar weakness and euro support.
 
 Title: EUR/USD Forecast 2026: Euro to Dollar Exchange Rate Predictions
-Published Date: 2026-02-03T00:00:00.000Z
 URL: https://cambridgecurrencies.com/eur-usd-forecast-2026/
-Summary: The EUR/USD exchange rate is projected to strengthen in 2026, with forecasts suggesting it could reach between $1.20 and $1.24 by year-end. Key factors influencing this potential rise include:
+Summary: The 2026 EUR/USD outlook suggests the euro is poised to strengthen against the dollar, with most forecasts predicting a range of $1.20 to $1.24 by year-end. Key factors influencing this include potential aggressive US Federal Reserve rate cuts (possibly 2-3 more in 2026), which could widen the interest rate differential in favor of the euro, and significant fiscal stimulus in Germany boosting eurozone growth. The ECB is expected to hold rates steady at 2.00%, while the Fed may cut from 3.50-3.75%, creating a favorable environment for euro appreciation. 
 
-1. **US Federal Reserve Rate Cuts**: Analysts anticipate 2-3 additional rate cuts by the Fed in 2026, which could weaken the dollar further.
-2. **Eurozone Economic Stimulus**: Germany's €1 trillion fiscal stimulus is expected to boost economic growth in the eurozone, supporting the euro's value.
-3. **Current Trends**: The euro has started 2026 strong, trading around $1.1830 after a 14% gain against the dollar in 2025, marking its best performance in nearly a decade.
+The most optimistic scenario, with a 35-40% probability, envisions EUR/USD reaching $1.24-$1.26 if the Fed cuts rates more aggressively, European markets outperform US assets, and concerns about dollar reserve currency status increase. However, the base case predicts the pair will hover between $1.18 and $1.22, with a moderate chance of reaching 1.24 if the Fed’s rate cuts accelerate and eurozone growth remains robust. Overall, while hitting 1.24 is possible, it depends on the pace of US rate cuts and eurozone economic momentum.
 
-The base case scenario suggests that EUR/USD will trade within a range of $1.18 to $1.22 for most of the year, but there is potential for it to exceed $1.24 if the Fed's rate cuts are more aggressive than expected. Thus, while hitting $1.24 is plausible, it will depend on the interplay of these economic factors throughout the year.
+Title: [PDF] Currency Report Card & 2026 Trades - RBC Capital Markets
+URL: https://www.rbccm.com/assets/rbccm/docs/fx/currency-report-card.pdf
+Summary: The RBC Capital Markets 2026 FX Outlook suggests a generally mild USD depreciation amid front-end currency compression, with sustained Asian strength driven by CNY resilience and persistent carry dynamics. The report highlights specific currency trades and inflection points, including a short EUR/NOK position and long CNH vs USD/EUR, indicating a cautious outlook on the euro's strength relative to the dollar. While the report does not explicitly forecast EUR/USD levels, the overall theme of a mild USD depreciation and euro resilience suggests that EUR/USD could approach higher levels, potentially nearing or surpassing 1.24 in 2026 if these trends persist. However, the outlook emphasizes volatility and risk, so actual movements will depend on evolving geopolitical, economic, and monetary factors.
 
-Title: Euro to Dollar Forecast: EUR/USD Jumps to 7-Week Best as Fed ...
-Author: Tim Boyer 
-						 British Pound to Dollar Forecast: GBP/USD Holds 1.34 Despite UK Recession Fears
-Published Date: 2025-12-11T00:00:00.000Z
-URL: https://www.currencynews.co.uk/forecast/20251211-44787_euro-to-dollar-forecast-eur-usd-jumps-to-7-week-best-as-fed-divisions-deepen.html
-Summary: The Euro to Dollar (EUR/USD) exchange rate recently surged to a 7-week high, surpassing 1.17, following a divided decision by the Federal Reserve on interest rates. This unexpected outcome has created uncertainty around the dollar, as markets anticipated a more hawkish stance from Fed Chair Powell. Analysts from ING suggest that while the EUR/USD may consolidate in the high 1.16s for the near term, longer-term projections remain optimistic for the euro, with some banks forecasting a potential rise to 1.24 by 2026. Factors influencing this outlook include the performance of US jobs data and any upgrades to growth forecasts from the European Central Bank (ECB). Overall, while immediate gains may be limited, the long-term sentiment leans towards a stronger euro against the dollar.
+Title: EURUSD Price Today & 2026 Outlook | FCS API Analysis
+Author: FCS API
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://fcsapi.com/blog/euro-u-s-dollar-forecast-2026-the-1-1569-level-is-everything
+Summary: The analysis indicates that EUR/USD currently trades around 1.1857, with a bullish short-term trend supported by the EMA 200 at 1.1569, which acts as a strong long-term support level. Despite low-confidence signals and mixed oscillator indicators, the overall trend remains upward, with potential resistance near 1.1876. The six-month performance shows modest gains (~1.77%), and the currency is in a low-volatility phase, suggesting a possible upcoming significant move depending on whether resistance or support levels break. However, the current data and signals do not strongly support a rapid rise to 1.24 in 2026. The outlook suggests cautious optimism, with the long-term support being a key factor in future price movements.
 
-Title: Forex Revolution: Currency Predictions and Strategies for 2026
-Published Date: 2026-01-03T00:00:00.000Z
-URL: https://xaubot.com/forex-predictions-strategies-2026/
-Summary: The article discusses predictions for the EUR/USD currency pair in 2026, with several major banks forecasting a positive outlook for the euro against the US dollar. Key insights include:
-
-- **Predictions**: MUFG expects the EUR/USD to reach 1.24 by the end of 2026, while J.P. Morgan targets 1.20 and ING sees it at 1.22. The consensus among these banks suggests a range of 1.20 to 1.24, indicating a potential for the euro to strengthen as the dollar weakens.
-
-- **Factors Influencing the Dollar**: The US dollar is anticipated to weaken due to expected rate cuts by the Federal Reserve, which may lower the appeal of holding dollars. This contrasts with other central banks, like the European Central Bank, which may maintain steady rates, benefiting the euro.
-
-- **Market Conditions**: The article notes that slower US growth and high debt levels could contribute to the dollar's decline, while increased spending in Europe may support the euro's rise.
-
-In summary, the outlook for EUR/USD hitting 1.24 in 2026 is supported by forecasts from major financial institutions, driven by anticipated changes in monetary policy and economic conditions in the US and Europe.
-
-Title: Euro to Dollar Forecast: 1.17 by 2026, 1.24 by 2027 say RBC
-Author: Tim Boyer 
-						 Euro to Dollar Forecast: EUR Dips to 1.1370 on USD Short-Covering
-Published Date: 2025-05-11T00:00:00.000Z
-URL: https://www.currencynews.co.uk/forecast/20250511-43017_euro-to-dollar-forecast-1-17-by-2026-1-24-by-2027-say-rbc.html
-Summary: RBC Capital Markets forecasts that the EUR/USD exchange rate will reach 1.17 by the end of 2026, with a further increase to 1.24 by the end of 2027. They highlight several factors that could support the Euro, including a potential end to US exceptionalism, which would strengthen the Euro against the Dollar, especially if the Federal Reserve lowers interest rates. Additionally, increased capital flows into the Euro area and fiscal stimulus in the Eurozone are expected to bolster the Euro. However, RBC notes that while they anticipate a rise in the exchange rate, it may not surpass 1.20 until the Fed significantly narrows the short-term rate gap in 2026. This context suggests that while hitting 1.24 in 2026 is possible, it will depend on economic developments and monetary policy shifts.
+Title: EUR/USD: Gradual rise to 1.22 by year-end – Commerzbank
+Author: 
+Published Date: 2026-02-13T00:00:00.000Z
+URL: https://www.fxstreet.com/news/eur-usd-gradual-rise-to-122-by-year-end-commerzbank-202602130904
+Summary: Commerzbank forecasts a gradual appreciation of the EUR/USD pair, expecting it to reach approximately 1.22 by the end of 2026. The bank's outlook is based on a constructive view of the euro relative to the dollar, supported by a robust Eurozone economy and expectations of a US Federal Reserve rate cut to 2.75% by early 2026. While US GDP growth is projected at around 3%, the forecast suggests a moderate upward trajectory rather than a sharp rise. Given this outlook, reaching a high of 1.24 in 2026 appears unlikely within the bank's predicted range, which targets a maximum of about 1.22 by year-end.
 
 

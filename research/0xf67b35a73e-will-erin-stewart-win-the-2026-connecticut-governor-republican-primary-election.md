@@ -1,7 +1,7 @@
 # Research: Will Erin Stewart win the 2026 Connecticut Governor Republican primary election?
 
 **Market ID:** 0xf67b35a73ee7b84b1427f0d1462ddcf8c3942201c91d9573f192ff19aaba7bbf
-**Researched At:** March 1, 2026 at 06:05:19 AM UTC
+**Researched At:** March 9, 2026 at 03:04:15 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Erin Stewart win the 2026 Connecticut Governor Republican primary election?"
 
 ---
@@ -9,50 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Current data on Stewart’s primary chances is mixed and indirect—older exploratory polls favor her but recent general-election and favorability surveys suggest Fazio may lead. With no direct GOP primary polling and low market volume, the 54.5% price plausibly reflects balanced uncertainty rather than clear mispricing.
+Polls show Stewart leading but with a large undecided bloc and a strong Fazio challenge, making her win chance plausibly in the high-40s to low-60s. A 54.5% market price falls squarely in that range, so there is no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Erin Stewart will emerge as the winner of the Connecticut Republican primary for governor on August 11, 2026. A YES means Stewart tops all other GOP contenders (including any run‐off); a NO means any other candidate wins or no primary occurs (resolving to “Other”).
+This market asks whether Erin Stewart will emerge as the winner of the Connecticut Republican gubernatorial primary scheduled for August 11, 2026. A “YES” outcome requires Stewart to top the field—either outright in the first round or via any run-off; “NO” covers any other nominee or failure to hold the primary.
 
 2. EVIDENCE EVALUATION  
 Bullish for Stewart:  
-• 2025 OnMessage exploratory poll (Aug 2025) gave her 42% vs. Fazio’s 13% among GOP voters—though that survey was internally commissioned, now six months old, and criticized by opponents for bias.  
-• Her résumé as a six-term New Britain mayor in a Democratic city demonstrates strong local ground game and name recognition among grassroots Republicans.
+- A Stewart campaign poll (Feb 12) shows her leading with 39% support versus Fazio’s 16% and McCaughey’s 9%, though 34% remain undecided.  
+- Stewart has deployed $200K in targeted TV ads, potentially boosting name recognition.
 
-Bearish for Stewart:  
-• Feb 26 2026 Bristol Press poll reports Mike Fazio is viewed more favorably than Stewart among voters—suggesting she may trail him in the primary, though it’s unclear if that sample was restricted to Republicans.  
-• Feb 25 2026 CTMirror poll shows her far behind incumbent Lamont in general election match-ups; while not a direct GOP primary gauge, weak general‐election standing can indicate vulnerabilities in broader appeal.
+Bearish/mixed for Stewart:  
+- Two independent polls (Feb 26–27) measure favorability rather than direct primary votes: Fazio net +39% vs Stewart net +18%, and both at roughly 40% favorability with 33–34% undecided.  
+- Undecided voters represent a large swing group; Stewart’s current floor (~39% support) does not yet guarantee a majority in a multi-candidate field.  
+- Questions have been raised about the methodology of her campaign-commissioned poll.
 
-Source Credibility & Recency:  
-• The two Feb 2026 polls are recent but neither focuses explicitly on the Republican primary electorate.  
-• The August 2025 survey is early stage and by a partisan consultant, so its methodology and objectivity are questionable.
+All sources are recent (Feb 2026) and reasonably credible, but none offers a conclusive win probability. The mixed polling—with one internal poll crowning her frontrunner status and multiple independent polls showing a tighter race—suggests substantial uncertainty remains.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• With only ~$1.9 k in volume and a 3¢ spread, price discovery is thin; one or two traders could be setting the 54.5%.  
-• The absence of dedicated GOP primary polling leaves room for diverging interpretations: some may lean on Stewart’s exploratory numbers, others on her weaker favorability signals.  
-• Low volume likely reflects both genuine uncertainty and lack of focused data on the primary rather than an obvious foregone conclusion.
+- The 54.5% price could reflect a modest “favorite” adjustment for the current frontrunner in a multi-candidate primary—many prediction-market traders might give a lead candidate slight favorite status even amid undecided voters.  
+- Low volume implies the price may rest on a small number of participants, but it could also indicate no obvious arbitrage opportunity given the existing uncertainty.
 
 4. MISPRICING ASSESSMENT  
-• Bullish and bearish signals roughly offset, but neither side commands definitive evidence.  
-• The market’s midpoint pricing (~55%) can reasonably capture balanced uncertainty.  
-• There’s no strong indication of a >20¢ error: direct primary polls are lacking, so traders’ split judgment is understandable.
+No strong, overlooked evidence suggests Stewart’s win probability exceeds or falls below 54.5% by a large margin. The high undecided rate and mixed favorability data imply her win chances could plausibly lie anywhere from the high-40s to low-60s percentile. The current price of 54.5% sits squarely in that band, so we find no clear mispricing >20 cents.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (due to mixed, indirect data)  
-• Magnitude of mispricing: 5¢ (small likely error band)  
-=> Expected value = 0.20 × 5¢ = 1¢
+- Strength of evidence against large mispricing: ~30% (mixed signaling, large undecided share)  
+- Magnitude of plausible mispricing: ~10 cents  
+- Expected value = 0.30 × 10 cents = 3 cents
 
-6. CONFIDENCE  
-low
-
-EXPECTED_VALUE: 1  
-SUMMARY: Current data on Stewart’s primary chances is mixed and indirect—older exploratory polls favor her but recent general-election and favorability surveys suggest Fazio may lead. With no direct GOP primary polling and low market volume, the 54.5% price plausibly reflects balanced uncertainty rather than clear mispricing.  
+EXPECTED_VALUE: 3  
+SUMMARY: Polls show Stewart leading but with a large undecided bloc and a strong Fazio challenge, making her win chance plausibly in the high-40s to low-60s. A 54.5% market price falls squarely in that range, so there is no clear mispricing.  
 CONFIDENCE: low
 
 ---
@@ -61,57 +54,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Poll: Lamont's long-shot challenger is far behind, but slightly less so
-Author: Mark Pazniokas
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://ctmirror.org/2026/02/25/poll-lamont-elliott-stewart-fazio-governor-approval/
-Summary: The article discusses a recent poll indicating that Erin Stewart, a challenger to incumbent Governor Ned Lamont in the 2026 Connecticut gubernatorial race, is trailing but has narrowed the gap slightly. While Stewart remains significantly behind Lamont, the poll suggests a potential shift in voter sentiment that could impact her chances in the Republican primary. Factors influencing her campaign include voter demographics, key issues resonating with constituents, and her ability to mobilize support against Lamont's incumbency. As the primary approaches, monitoring these dynamics will be crucial in assessing Stewart's viability as a candidate.
+Title: New Polling From Erin Stewart’s Gubernatorial Campaign Shows Commanding Lead For Former New Britain Mayor - Erin Stewart – Republican For Governor 2026
+Author: 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://erinforct.com/new-polling-from-erin-stewarts-gubernatorial-campaign-shows-commanding-lead-for-former-new-britain-mayor/
+Summary: Recent polling indicates that Erin Stewart, former mayor of New Britain, holds a significant lead in the Connecticut Republican gubernatorial primary. A survey conducted by a reputable firm shows Stewart capturing 39% support among likely Republican primary voters, with her closest competitor, State Senator Ryan Fazio, at 16%, and Betsy McCaughey at 9%. Approximately 34% remain undecided. The campaign and polling experts suggest Stewart's strong position and voter support could make her the frontrunner to secure the Republican nomination in 2026. However, some opponents have questioned the poll's methodology, labeling it as potentially biased, though the poll's credibility is supported by its professional backing. Overall, the data suggests a favorable outlook for Stewart's chances in the primary, contingent on maintaining voter support and navigating intra-party competition.
+
+Title: Poll: Fazio most popular GOP hopeful for governor; Dems like Lamont
+Author: Paul Hughes
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://preview-prod.w.ctpost.com/election/article/nutmeg-state-poll-governor-fazio-stewart-lamont-21943827.php
+Summary: The latest Nutmeg State Poll indicates that among likely Republican primary voters in Connecticut, Ryan Fazio is the most favored candidate for the 2026 gubernatorial race, with a favorability rating of 42%. In comparison, former New Britain Mayor Erin Stewart has a slightly lower favorability rating of 40%, but also has a notable 22% of likely Republican voters viewing her unfavorably. Fazio's net favorability is higher (39%) compared to Stewart's (18%), suggesting he currently has a stronger position among Republican primary voters. While Stewart remains a significant contender, these poll results imply that Fazio may have an advantage in the upcoming Republican primary.
+
+Title: Erin Stewart Rips Lamont, Calls For ‘something Different’ In New TV Ads; Spends $200K - Erin Stewart – Republican For Governor 2026
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://erinforct.com/erin-stewart-rips-lamont-calls-for-something-different-in-new-tv-ads-spends-200k/
+Summary: Erin Stewart has launched a significant campaign for Connecticut governor in 2026, investing $200,000 in TV ads to promote her platform of “something different.” Her commercials criticize incumbent Democratic Gov. Ned Lamont, highlighting issues like corruption and taxes, and emphasize her support for law enforcement. Stewart plans to target viewers during popular UConn basketball games and sports broadcasts, aiming to build recognition early in the race. While her campaign strategy involves strong media presence and direct criticism of Lamont, her success in winning the Republican primary remains uncertain, as she faces other candidates like Betsy McCaughey.
 
 Title: Poll: Fazio more favorable than Stewart; Lamont leads | News | bristolpress.com
 Author: Claudia S. Hilario @thebristolpress
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.bristolpress.com/news/poll-fazio-more-favorable-than-stewart-lamont-leads/article_f0f159fb-8808-4515-8491-cbfcba79228d.html
-Summary: A recent poll indicates that Republican candidate Mike Fazio is currently viewed more favorably than Erin Stewart among voters. Additionally, Democratic incumbent Governor Ned Lamont is leading in the overall race. This information suggests that Stewart may face challenges in the upcoming 2026 Connecticut Governor Republican primary election, particularly if Fazio maintains or increases his favorable perception among voters. The dynamics of voter favorability and party support will be crucial in predicting the outcome of the primary.
+Summary: A February 2026 statewide poll indicates that among likely Republican primary voters, Erin Stewart has a favorable opinion from 40% of respondents, with 22% viewing her unfavorably and 33% undecided. While she maintains a positive favorability rating, her support is not overwhelming compared to other candidates like State Senator Ryan Fazio, who has a higher favorability of 42%. The poll's results suggest that Stewart is a notable contender but still has room to grow her support base. Her chances of winning the 2026 Connecticut Republican primary will depend on her ability to convert undecided voters and improve her favorability relative to her competitors.
 
-Title: New polling reveals hypothetical match-up between two potential ...
+Title: New polling tests favorability of GOP candidates in Connecitcut’s gubernatorial race
 Author: 
-Published Date: 2025-08-22T00:00:00.000Z
-URL: https://cthosp.org/daily-news-clip/exclusive-new-polling-reveals-hypothetical-match-up-between-two-potential-ct-gubernatorial-candidates/
-Summary: Recent polling data suggests that New Britain Mayor Erin Stewart, while not yet an official candidate for the 2026 gubernatorial election, may have a competitive edge in the Republican primary. A survey conducted by her exploratory campaign indicates that she leads State Senator Ryan Fazio significantly, with 42% support compared to Fazio's 13%. This suggests strong backing among Republican voters for Stewart at this early stage.
-
-However, in a hypothetical general election match-up against incumbent Governor Ned Lamont, Stewart trails by eight percentage points, with Lamont receiving 50% support to Stewart's 42%. This indicates potential challenges for Stewart in the broader electoral landscape, particularly among independent voters, where Lamont's favorability ratings are nearly tied.
-
-The polling firm, OnMessage, has a history of working with Republican candidates, which may influence perceptions of the poll's credibility. Additionally, there are criticisms from Fazio's camp regarding the poll's design, suggesting that it may have been crafted to favor Stewart's candidacy.
-
-In summary, while Stewart shows promise in the Republican primary, her ability to win the primary and subsequently challenge Lamont effectively will depend on her campaign's momentum, voter sentiment, and how she addresses the criticisms surrounding the polling data.
-
-Title: Who is Republican Erin Stewart, a candidate for Connecticut governor?
-Author: Paul Hughes
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://preview-prod.w.ctpost.com/connecticut/article/ct-governor-race-2026-erin-stewart-21316478.php
-Summary: Erin Stewart, a Republican candidate for the 2026 Connecticut gubernatorial election, has a notable political background that may influence her chances in the primary. She served as the mayor of New Britain, becoming the youngest and second woman to hold the position when elected at 26. Stewart has been re-elected five times, demonstrating strong local support despite the Democratic majority in her city. Her recent victory in 2023, where she won a sixth term by over 1,800 votes, further solidifies her political standing.
-
-Stewart's experience as the longest-serving Republican mayor in New Britain and her prior role on the Board of Education contribute to her qualifications. However, her success in the primary will depend on various factors, including her ability to appeal to a broader Republican base, the strategies of her opponents, and the political climate leading up to the election. Given her established track record and local popularity, she may have a competitive edge, but the outcome will ultimately hinge on voter sentiment and campaign dynamics as the election approaches.
-
-Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The document primarily discusses the 2026 gubernatorial races in New Jersey and Virginia, with a focus on candidates Mikie Sherrill and Jack Ciattarelli in New Jersey, and Abigail Spanberger in Virginia. However, it does not provide specific information about Erin Stewart or the Connecticut gubernatorial race.
-
-To predict whether Erin Stewart will win the 2026 Connecticut Governor Republican primary election, consider the following factors that are typically relevant in gubernatorial primaries:
-
-1. **Candidate Background**: Analyze Stewart's political experience, public service record, and any previous electoral performances. Her visibility and engagement with grassroots supporters can also be crucial.
-
-2. **Party Dynamics**: Look at the current political landscape within the Connecticut Republican Party, including endorsements, fundraising capabilities, and voter sentiment.
-
-3. **Polling Data**: While the document does not include Connecticut-specific polling, general trends in Republican primaries and voter registration statistics can provide insights into her potential support.
-
-4. **Competitors**: Identify other candidates in the Republican primary and assess their strengths, weaknesses, and public appeal.
-
-5. **Key Issues**: Understand the primary issues that resonate with Republican voters in Connecticut, such as economic policies, public safety, and social issues, and how Stewart positions herself on these topics.
-
-6. **Historical Context**: Review past gubernatorial primary outcomes in Connecticut to gauge trends and voter behavior.
-
-In summary, while the document does not directly address Erin Stewart's candidacy, analyzing her political background,
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.yahoo.com/news/articles/polling-tests-favorability-gop-candidates-214541388.html
+Summary: A recent University of New Hampshire poll indicates that Erin Stewart and Republican state Sen. Ryan Fazio are currently viewed with similar favorability, both around 40%. The poll does not include a primary contest, so it does not provide direct insights into the primary race. However, Stewart's current standing suggests she is a notable contender. Additionally, her upcoming campaign ads could influence her visibility and support. Overall, while Stewart is a significant candidate, her chances of winning the 2026 Connecticut Republican primary will depend on her campaign efforts, voter support dynamics, and how she compares to other GOP contenders as the race develops.
 
 

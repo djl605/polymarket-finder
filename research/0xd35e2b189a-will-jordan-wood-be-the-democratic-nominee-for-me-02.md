@@ -1,63 +1,49 @@
 # Research: Will Jordan Wood be the Democratic nominee for ME-02?
 
 **Market ID:** 0xd35e2b189a895c0a4dc9e2884a2cafaec0cadaefc08be06502e13eb0950e49ab
-**Researched At:** March 1, 2026 at 06:07:39 AM UTC
+**Researched At:** March 9, 2026 at 03:04:06 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jordan Wood be the Democratic nominee for ME-02?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 4.0¢
 
 ### Summary
 
-With only indirect indicators (general-election polling showing Wood trailing and no definitive primary polling), there’s no strong evidence that the 30.5% probability is mispriced. The market’s price fits a realistic mid-field contender scenario.
+Jordan Wood polls at just 12% with a distant third-place position; while 38% undecided leaves uncertainty, a realistic surge scenario suggests his win probability is closer to 18–20%, not 28.5%. The low‐volume market likely overprices his chances by ~8–10 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Jordan Wood will secure the Democratic nomination in Maine’s 2nd District primary on June 9, 2026. It resolves YES if Wood is officially named the Democratic nominee by that date (or is the last remaining candidate), NO if another Democrat wins, and “Other” if no nominee is announced by November 3, 2026.
+The market asks whether Jordan Wood will win the June 9, 2026 Democratic primary in Maine’s 2nd Congressional District. A “YES” settles if he is officially nominated by that date; any other nominee or failure to name him by Nov 3, 2026 resolves as “NO.”
 
 2. EVIDENCE EVALUATION  
-a. Evidence suggesting the price might be too high (bearish factors):  
-   • General-election polls (UNH poll, WGME, 92 Moose) show Wood trailing LePage by 4 points (44%–48%), whereas other Democratic contenders (Baldacci, Dunlap) each trail by only 1 point in head-to-head matchups. This implies Wood may be a weaker candidate in the eyes of the broader electorate—which often correlates with intra-party strength in a crowded primary.  
-   • No polling data on the actual Democratic primary, but if Wood is perceived as weaker in the general, Democratic activists and donors may favor other nominees.  
+Bearish evidence (suggests price is too high):  
+• A March 5 WABI poll shows Wood at just 12% support, trailing Joe Baldacci’s 36%, with 38% still undecided. Absent a major surge, 12% current support points to low win probability.  
+• His own Substack highlights grassroots struggles and funding shortfalls, with no reported endorsements or fundraising windfalls.  
 
-b. Evidence supporting the current price (bullish factors):  
-   • The Press Herald fundraising article indicates that multiple Democrats are in the race and that fundraising totals are a key driver of viability. Although the summary doesn’t say Wood leads in fundraising, the fact that he is mentioned among top fundraisers suggests he has some institutional support.  
-   • The primary is still four months away; undecided and late-deciding voters, as well as potential endorsements, could swing dynamics in Wood’s favor.  
+Bullish evidence (supports a ~28.5% price):  
+• 38% undecided leaves room for a dramatic late‐breaking campaign surge. With three months to go and a low‐information primary, volatility could boost a well‐organized underdog.  
 
-c. Source credibility and recency:  
-   • Press Herald and University of New Hampshire polls are credible local sources, all published in February 2026—very recent.  
-   • The fundraising piece is from a reputable local outlet and focuses on hard numbers, though specifics for Wood are not given.  
-
-d. Skepticism:  
-   • If Wood truly led fundraising by a wide margin, the market might price him above 30%, but that detail is absent.  
-   • Primary polling is lacking; any assumptions about primary strength from general-election polls are indirect.
+Credibility & recency: The WABI poll (Mar 5) is a credible, recent snapshot of the primary; Wood’s Substack is firsthand but self-serving. Other sources are silent on this specific primary.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 30.5% price can be interpreted as reflecting a three-to-one field with Wood neither a prohibitive favorite nor a long shot.  
-• Tight bid-ask despite low volume suggests maybe one or two informed players have set this view.  
-• Low volume could indicate both that (a) the race is not top-tier nationally and (b) local specialists haven’t heavily traded. But the tight spread hints they aren’t confident enough to risk large positions.
+A zero-volume, tight‐spread market likely reflects one or a few traders’ views rather than broad consensus. The low volume suggests informed traders haven’t engaged, not that the outcome is obvious. The 28.5% price plausibly encodes uncertainty around the large undecided bloc but may overstate Wood’s realistic path.
 
 4. MISPRICING ASSESSMENT  
-• There is no direct primary polling on Wood, and the indirect signals (general-election deficits) point modestly against him.  
-• No single piece of new, strong evidence stands out that would move the implied probability by more than a few points.  
-• It is plausible that informed local bettors view him as a mid-pack contender in a 3–5 person primary, consistent with ~30%.  
-
-⚠️ CRITICAL CHECK:  
-I’m not missing a key qualification or resolution rule—the market is straightforward. Without clear contradictory data (e.g., he’s topping fundraising or early primary polling), I cannot justify believing the market is mispriced by more than a few cents.
+Given Wood’s 12% in the latest poll, even generously allocating half of the undecided to him yields ~31% raw support, but historical undecided breakdowns tend to favor frontrunners. A more realistic peak might be closer to 18–20%. Thus the market’s 28.5% appears overstated by ~8–10 cents. No evidence of a >20 cent mispricing is found, and the race is far from settled.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence (that price is accurate): ~70% (no clear mispricing signals)  
-• Magnitude of mispricing: ~0 cents (no actionable deviation)  
-Expected value ≈ 70% × 0 cents = 0 cents
+Strength of evidence: 40%  
+Magnitude of mispricing: 10 cents  
+Expected value = 0.4 × 10 cents = 4 cents
 
-EXPECTED_VALUE: 0  
-SUMMARY: With only indirect indicators (general-election polling showing Wood trailing and no definitive primary polling), there’s no strong evidence that the 30.5% probability is mispriced. The market’s price fits a realistic mid-field contender scenario.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 4.0  
+SUMMARY: Jordan Wood polls at just 12% with a distant third-place position; while 38% undecided leaves uncertainty, a realistic surge scenario suggests his win probability is closer to 18–20%, not 28.5%. The low‐volume market likely overprices his chances by ~8–10 cents.  
+CONFIDENCE: low
 
 ---
 
@@ -65,41 +51,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Who’s raised the most money in the race for Maine’s 2nd District?
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.pressherald.com/2026/02/02/whos-raised-the-most-money-in-the-race-for-maines-2nd-district/
-Summary: The article discusses the fundraising landscape for the upcoming race in Maine's 2nd District, where multiple Democratic candidates, including Jordan Wood, are vying to succeed U.S. Rep. Jared Golden. It highlights the financial backing each candidate has received, which is a crucial factor in determining their viability and competitiveness in the primary election. The analysis of fundraising totals can provide insights into the candidates' support levels and potential to secure the Democratic nomination. Therefore, understanding the fundraising dynamics, including who has raised the most money and the sources of their contributions, will be relevant in predicting whether Jordan Wood will emerge as the Democratic nominee for ME-02. For more detailed information, you can read the full article [here](https://www.pressherald.com/2026/02/02/whos-raised).
+Title: I'm out - Jordan Wood for Congress
+Author: Jordan Wood
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://jordanwoodmaine.substack.com/p/im-out
+Summary: Jordan Wood is actively campaigning for Maine’s 2nd Congressional District seat, running as a Democrat against Republican Paul LePage. His campaign emphasizes the high stakes of the race, highlighting LePage’s substantial campaign funds and the influence of Trump’s political machine. Wood positions himself as a champion for working families and a defender against what he describes as a fascist administration, aiming to secure a Democratic majority in the House. Despite facing significant financial challenges and the threat of losing due to LePage’s substantial backing, Wood continues to seek grassroots support and donations to sustain his campaign. While the summary indicates his strong intent to run and his efforts to secure the nomination, it does not explicitly confirm whether he will be the Democratic nominee, as that depends on the primary outcome and other electoral factors.
 
-Title: Poll: Platner with big lead in Senate primary, frontrunners in Maine ...
+Title: 2026 Democratic Primary Preview Series: Maine (Brief #15) - USRESIST NEWS
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.usresistnews.org/2026/02/27/2026-democratic-primary-preview-series-maine/
+Summary: The article does not mention Jordan Wood or provide any information about him or the ME-02 congressional race. It primarily focuses on the 2026 Maine Senate race, highlighting Senator Susan Collins’ moderate stance, her potential vulnerabilities, and the Democratic primary contenders—Graham Platner and Governor Janet Mills. Therefore, there is no relevant information in this source to predict whether Jordan Wood will be the Democratic nominee for Maine’s 2nd Congressional District.
+
+Title: New poll sheds light on key Maine primary races
+Author: WABI News Desk
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.wabi.tv/2026/03/05/new-poll-sheds-light-key-maine-primary-races/
+Summary: A recent poll indicates that in Maine’s Second Congressional District Democratic primary, Joe Baldacci currently leads with 36% support, while Jordan Wood has 12%. However, a significant 38% of voters remain undecided. This suggests that while Wood is not the frontrunner at this stage, the large undecided voter base means his chances could improve with further campaigning. Therefore, Wood's potential to become the Democratic nominee remains uncertain and depends on future campaign developments and voter shifts.
+
+Title: New poll breaks down key political races in Maine in 2026
 Author: Adam Bartow
-Published Date: 2026-02-25T06:07:22.906Z
-URL: https://www.wmtw.com/article/poll-platner-lead-frontrunners-race-maine-governor/70478746
-Summary: The recent Pine Tree State Poll indicates that the race for Maine's 2nd Congressional District (ME-02) is competitive, with several candidates vying for the Democratic nomination. While Jordan Wood is mentioned as one of the potential challengers, the poll highlights that former Republican Governor Paul LePage is currently leading in matchups against Democratic candidates, including Joe Baldacci, Matt Dunlap, and Jordan Wood. However, the poll also notes that many voters remain undecided, which could significantly impact the outcome. Given the current dynamics and the presence of undecided voters, it is uncertain whether Jordan Wood will secure the Democratic nomination for ME-02.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.wmtw.com/article/races-tightening-new-poll-key-races-senate-governor-cd2-maine/70607703
+Summary: The provided webpage does not mention Jordan Wood or the ME-02 congressional race, focusing instead on Maine's 2026 political landscape, including upcoming gubernatorial and Senate primaries. It highlights that Graham Platner leads the Democratic primary for Senate, while other candidates like Janet Mills and Susan Collins are also in the race. The analysis emphasizes the wide-open nature of the gubernatorial primaries and the current polling standings, but there is no specific information about Jordan Wood or the ME-02 congressional race. Therefore, based on this webpage, there is no relevant data to predict whether Jordan Wood will be the Democratic nominee for Maine's 2nd congressional district.
 
 Title: Poll shows LePage with slight edge in race for Maine's 2nd Congressional District
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://wgme.com/news/local/poll-shows-lepage-with-slight-edge-in-race-for-maines-2nd-congressional-district
-Summary: A recent University of New Hampshire poll indicates that former Governor Paul LePage has a slight edge in the race for Maine's 2nd Congressional District, which could impact Jordan Wood's chances as a Democratic nominee. LePage leads state Senator Joe Baldacci by one point (48% to 47%) and has a similar one-point lead over state auditor Matt Dunlap (47% to 46%). Wood, who initially ran as a Democrat for Senate, is trailing LePage by four points (44% to 48%). 
-
-The current seat is held by moderate Democrat Jared Golden, who has opted not to seek reelection, opening the field for new candidates. Given LePage's competitive position and Wood's current polling numbers, predicting Wood as the Democratic nominee may depend on his ability to consolidate support among Democratic voters and differentiate himself from his opponents in the primary.
-
-Title: LePage Holding a Slim Edge in One of Maine’s Biggest Races
-Author: Matt James Matt James Published: February 25, 2026
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://92moose.fm/lepage-maine-lead-congressional-race/
-Summary: In the context of the upcoming race for Maine's 2nd Congressional District (ME-02), a recent University of New Hampshire poll indicates that former Governor Paul LePage is currently leading against various Democratic contenders, including Jordan Wood. LePage holds a narrow advantage over Wood, with 48% support compared to Wood's 44%. 
-
-Jordan Wood, who previously ran for the U.S. Senate, has shifted his focus to this congressional race following the announcement that incumbent Congressman Jared Golden will not seek reelection. The competition is expected to be tight, as LePage's leads over other Democratic candidates, such as Joe Baldacci and Matt Dunlap, are also within a single percentage point.
-
-Given the close margins and the competitive nature of the race, Wood's chances of becoming the Democratic nominee will likely depend on his campaign strategy and ability to mobilize support in the district as the election approaches. Analysts suggest that the race will remain highly competitive, making it difficult to predict the outcome at this stage.
-
-Title: Maine lawmakers and candidates on joint attack on Iran - WGME
-Published Date: 2026-02-28T23:07:22.906Z
-URL: https://wgme.com/news/local/maine-lawmakers-and-candidates-on-arrest-of-maduro-and-potential-us-control-of-venezuela
-Summary: The article discusses the reactions of Maine lawmakers and candidates, including Governor Janet Mills, to the recent joint military attack by the U.S. and Israel on Iran. Governor Mills criticized President Trump for escalating tensions and failing to consult Congress, framing it as a reckless move that endangers military personnel. While the article primarily focuses on the political implications of the attack, it does not directly address Jordan Wood or his candidacy for the Democratic nomination in Maine's 2nd Congressional District (ME-02). 
-
-For predicting whether Jordan Wood will be the Democratic nominee for ME-02, consider the following factors: his public stance on current issues, including foreign policy and military actions, his alignment with party leadership, and any endorsements or support he may receive from influential figures in the Democratic Party in Maine. Additionally, monitoring local political dynamics and voter sentiment in response to recent events may provide insights into his candidacy.
+Summary: A recent University of New Hampshire poll indicates that former Governor Paul LePage currently holds a slight lead over his Democratic opponents in Maine’s 2nd Congressional District primary, with LePage leading Joe Baldacci by one percentage point (48% to 47%) and also slightly ahead of Matt Dunlop and Jordan Wood. Specifically, LePage has a four-point advantage over Wood (48% to 44%). While these figures suggest LePage is favored at this stage, the poll does not definitively determine the primary outcome, and the race remains competitive. Therefore, Jordan Wood's chances of becoming the Democratic nominee are uncertain and depend on future campaign developments and voter turnout.
 
 

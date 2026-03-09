@@ -1,7 +1,7 @@
 # Research: Will Steve Marshall be the Republican nominee for Senate in Alabama?
 
 **Market ID:** 0xbe2113835fff9936d39836cf7a27d371df885a74b77659167361b8e847dc788b
-**Researched At:** March 1, 2026 at 02:34:47 PM UTC
+**Researched At:** March 9, 2026 at 03:03:51 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Steve Marshall be the Republican nominee for Senate in Alabama?"
 
 ---
@@ -9,42 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 7.5¢
 
 ### Summary
 
-Recent polls show Marshall leading with about 26% support and a high share of undecided voters, suggesting his win probability may be underpriced at 19%, though Trump’s endorsement of Moore and fluid dynamics justify some discount. Given low volume and balanced uncertainties, there appears to be a modest mispricing worth roughly 8 cents with moderate confidence.
+Recent polls show Marshall leading a five-way field at ~26% with high undecided rates, implying a win probability closer to 30–40%, materially above the market’s 15.5%. Low volume and Trump‐base strength suggest the market may be undervaluing his chances by about 15¢.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Steve Marshall will win the May 19, 2026 Alabama Republican Senate primary. YES if he finishes first among Republican candidates; NO (or “Other”) if he doesn’t (including if the primary doesn’t occur).
+The market asks whether Steve Marshall will win Alabama’s Republican U.S. Senate primary on May 19, 2026. A “YES” outcome requires Marshall to secure a plurality of votes among Republican primary voters; “NO” covers any other candidate winning or no primary occurring.
 
 2. EVIDENCE EVALUATION  
-Bullish for Marshall (i.e. price too low):  
-• A Feb 9 poll shows Marshall leading with 26% vs. Moore’s 17%, and he outperforms Moore in key regions (Birmingham, Huntsville, Montgomery).  
-• Trump’s endorsement of Moore appears less decisive than usual: while 59% say they usually favor Trump’s pick, only 43% back Moore specifically.  
-• Nearly half of voters remain undecided, giving Marshall room to grow.  
+Bullish for Marshall  
+• Two February polls (WSFA 2/19; ALReporter 2/9) show Marshall leading the field at ~26% vs. Barry Moore at ~17%, with 43–50% undecided. In a five-way race, a 25–26% first-place share often converts into a plurality win.  
+• Alabama Daily News reports Marshall already dominates Trump-aligned voters two-to-one, suggesting Trump’s late endorsement of Moore may shift few votes.  
+• Marshall has strong favorable ratings and geographic strengths in key population centers (Birmingham, Huntsville, Montgomery).  
 
-Bearish for Marshall (i.e. price too high):  
-• Barry Moore has the high-profile Trump endorsement plus Club for Growth backing, which could consolidate conservative votes.  
-• Opinion pieces argue Moore is the prohibitive favorite; entrenched networks and financial support may swing late deciders.  
+Bearish / Unstable Factors  
+• Koplowitz’s October 2025 poll had Jared Hudson leading at 27% and Marshall trailing at ~24%, highlighting volatility and the risk of surge by other candidates.  
+• 43–50% undecided voters mean fortunes could swing, especially if Moore or Hudson consolidate support or if a new entrant picks up steam.  
+• Trump’s endorsement carries weight with 88% approval among Alabama GOP; late shifts are possible.  
 
-Source credibility/recency: All sources are from Feb 2026, local journalists and a reputable poll. The poll sample and methodology aren’t fully detailed, and editorial opinions may carry author bias.  
+Source credibility and recency are high: multiple reputable local outlets, with the most relevant polling from February 2026. None of the evidence is so obvious that it’s unlikely to already be priced in, but the combination of Marshall’s lead and the crowded field suggests the market’s 15.5% is conservative.
 
 3. MARKET EFFICIENCY ANALYSIS  
-The 19% price implies traders are discounting Marshall’s current lead, perhaps factoring in Moore’s organizational advantage or the large undecided bloc. Low volume (≈$3.3K) suggests either consensus that he’s an underdog or simply a lack of trader engagement. Given polling shows 26% now—and that could rise—19% may understate his median probability, but it might also reasonably account for late shifts toward Moore.
+• A 15.5% price could reflect a single low-confidence trader or risk-averse position, not broad consensus.  
+• Low volume (≈$4 k) hints at limited engagement by informed participants rather than obvious predictability.  
+• Alternatively, traders may distrust early polling in crowded primaries, expecting major shifts before May.
 
 4. MISPRICING ASSESSMENT  
-Polling data suggests Marshall’s win probability could be closer to 25–30%, not 19%. That gap (≈6–11 cents) could represent modest mispricing. However, the high number of undecideds and Moore’s endorsement introduce real uncertainty. There’s no glaring oversight (e.g., a withdrawn candidacy or technicality), so only a moderate deviation from fair value seems plausible.
+• Marshall’s consistent front-runner status in recent polls points to a win probability substantially above 15.5%, perhaps in the 30–40% range.  
+• Uncertainty remains, but there’s credible evidence (poll leads, core Trump-base support) missing from the current price.  
+• No indication that resolution criteria are misunderstood or that the event already happened.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (poll lead + upside vs. endorsement risk) ~50%  
-Magnitude of mispricing ~8 cents  
-Expected value ≈ 0.50 × 8 = 4 cents
+Strength of evidence = 50% (moderate, given remaining uncertainty)  
+Magnitude of mispricing = 15¢ (market at 15.5% vs. estimated true probability ≈30–35%)  
+Expected value = 50% × 15¢ = 7.5¢
 
-EXPECTED_VALUE: 4  
-SUMMARY: Recent polls show Marshall leading with about 26% support and a high share of undecided voters, suggesting his win probability may be underpriced at 19%, though Trump’s endorsement of Moore and fluid dynamics justify some discount. Given low volume and balanced uncertainties, there appears to be a modest mispricing worth roughly 8 cents with moderate confidence.  
+EXPECTED_VALUE: 7.5  
+SUMMARY: Recent polls show Marshall leading a five-way field at ~26% with high undecided rates, implying a win probability closer to 30–40%, materially above the market’s 15.5%. Low volume and Trump‐base strength suggest the market may be undervaluing his chances by about 15¢.  
 CONFIDENCE: medium
 
 ---
@@ -53,58 +58,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Column: What the data says about Trump's endorsement in Alabama's ...
+Author: Alabama Daily News
+URL: https://aldailynews.com/column-marshalls-surprising-strength-with-trump-voters/
+Summary: The data indicates that Attorney General Steve Marshall currently leads in support among Alabama Republican primary voters, especially within Trump’s core base—holding a significant advantage over Congressman Barry Moore before Trump’s endorsement. Marshall already consolidates roughly twice the support of Moore among Trump-aligned voters, suggesting that Trump’s endorsement may have limited impact in shifting the existing voter preferences. Additionally, Marshall maintains strong favorable ratings and leads geographically across key markets, including areas represented by Moore. While Trump’s endorsement and high overall approval (88%) among Alabama Republicans could bolster Moore’s chances, the current data suggests Marshall’s existing support base and regional strength position him as a formidable candidate. Therefore, unless Moore can significantly sway undecided voters or convert Marshall supporters, Marshall remains a strong contender to secure the Republican nomination for Senate.
+
 Title: Marshall says he will run in the Republican primary on May 19
 Author: Talia Cavalline
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://www.wtvm.com/2026/02/23/alabama-ag-marshall-announces-us-senate-bid-presents-school-safety-award/
-Summary: Steve Marshall, the Alabama Attorney General, has officially announced his candidacy for the U.S. Senate seat being vacated by Tommy Tuberville, with the Republican primary scheduled for May 19. Marshall emphasizes his extensive experience in law enforcement and his accomplishments as Attorney General, including securing significant funding for opioid settlements and advocating for community safety. His campaign focuses on accountability, supporting Alabama's agriculture, and enhancing school safety. Given his established political presence and leadership in state issues, he may be a strong contender for the Republican nomination. However, the outcome will depend on various factors, including voter sentiment and competition within the party.
-
-Title: Seven candidates are running in the Republican primary for the U.S. Senate in Alabama on May 19, 2026 - NewsBreak
-Author: Briana Ryan
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.newsbreak.com/ballotpedia-news-1529859/4488986101841-seven-candidates-are-running-in-the-republican-primary-for-the-u-s-senate-in-alabama-on-may-19-2026
-Summary: The Republican primary for the U.S. Senate in Alabama on May 19, 2026, features seven candidates, with Steve Marshall being one of the frontrunners alongside Jared Hudson and Barry Moore. Incumbent Senator Tommy Tuberville is not seeking re-election, as he is running for governor. 
-
-Marshall's chances of becoming the Republican nominee may be influenced by several factors:
-
-1. **Polling and Media Attention**: As of now, Marshall is among the leading candidates in both polling and media coverage, which could enhance his visibility and support among voters.
-
-2. **Endorsements**: The primary landscape is significantly shaped by endorsements, particularly from influential figures like former President Donald Trump. Barry Moore has received Trump's endorsement, which could sway Republican voters in Alabama, a state where Trump's influence is substantial.
-
-3. **Candidate Profiles**: Marshall's background and political experience will also play a role. As the current Attorney General of Alabama, he has a notable political profile, which may appeal to voters looking for established leadership.
-
-4. **Voter Sentiment**: The overall political climate and voter sentiment leading up to the primary will be critical. Factors such as economic issues, community safety, and local concerns will likely influence voter preferences.
-
-In summary, while Steve Marshall is a strong candidate for the Republican nomination, his success will depend on his ability to maintain momentum in polling, navigate endorsements, and resonate with the electorate's priorities as the primary date approaches.
+Summary: Steve Marshall, Alabama's Attorney General, has announced his candidacy for the U.S. Senate seat being vacated by Sen. Tommy Tuberville. He is running in the Republican primary scheduled for May 19. Marshall emphasizes his experience working with federal law enforcement over 30 years, his leadership in securing significant opioid settlement funds for Alabama, and his commitment to public safety, including school safety. His platform focuses on holding people accountable, supporting Alabama's agriculture industry, and upholding the rule of law. Given his active campaign announcement and platform, he is positioning himself as a strong contender for the Republican nomination.
 
 Title: GOP candidates vie for Alabama U.S. Senate seat as nearly half of voters remain undecided
 Author: Katie Ring
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.wsfa.com/2026/02/19/gop-candidates-vie-alabama-us-senate-seat-nearly-half-voters-remain-undecided/?outputType=apps
-Summary: Steve Marshall, the current Attorney General of Alabama, is one of five Republican candidates vying for the U.S. Senate seat being vacated by Tommy Tuberville. In a recent forum, Marshall emphasized his conservative record and experience, claiming a 9% lead in a poll released shortly before the event. His campaign is bolstered by a strong focus on key issues such as election security and agriculture, appealing to voters who want their voices heard in Washington.
+Summary: Five Republican candidates, including Attorney General Steve Marshall, are competing for Alabama's U.S. Senate seat vacated by Tommy Tuberville. Marshall currently leads in polls by 9% and emphasizes his conservative record. Other notable contenders are Congressman Barry Moore, endorsed by President Trump and Vice President Vance, and three newcomers—Dr. Dale Deas, Jr., Navy SEAL Jared Hudson, and businessman Rodney Walker. With nearly half of voters still undecided, Marshall's lead and his emphasis on his conservative achievements suggest he is a strong contender, but the race remains competitive.
 
-Marshall's main competitor, Congressman Barry Moore, has received endorsements from prominent figures like President Trump, which could influence voter sentiment. Additionally, there are three political newcomers in the race, including Dr. Dale Deas, Jr., who is relatively unknown but optimistic about gaining recognition in the coming months.
-
-With nearly half of voters still undecided, Marshall's established political presence and conservative credentials may position him favorably as the Republican nominee, but the dynamics of the race could shift as the election approaches.
+Title: Shocking new poll reveals a surprising frontrunner in Alabama's ...
+Author: Howard Koplowitz | hkoplowitz@al.com
+URL: https://www.al.com/politics/2025/10/shocking-new-poll-reveals-a-surprising-frontrunner-in-alabamas-us-senate-race.html
+Summary: A recent poll indicates that Jared Hudson, a former Navy SEAL and small business owner, is currently the leading candidate in Alabama’s GOP primary for U.S. Senate, with 27% support. He has surpassed Alabama Attorney General Steve Marshall, who trails by three points, and U.S. Rep. Barry Moore, who is significantly behind. Despite Marshall's substantial fundraising efforts, Hudson's recent polling suggests he has gained notable momentum. The primary race remains competitive, with 36% of respondents still undecided. Given these dynamics, Marshall's prospects as the Republican nominee are uncertain, and the race appears to be more open than previously expected.
 
 Title: Poll finds Trump endorsements not decisive as Alabama GOP primaries remain wide open
 Author: Bill Britt
 Published Date: 2026-02-09T00:00:00.000Z
 URL: https://www.alreporter.com/2026/02/09/poll-finds-trump-endorsements-not-decisive-as-alabama-gop-primaries-remain-wide-open/
-Summary: A recent poll indicates that Steve Marshall currently leads the Republican primary for U.S. Senate in Alabama, holding 26% support compared to Barry Moore's 17%. Despite Donald Trump's endorsement of Moore, it has not significantly impacted the race, as 43% of voters remain undecided. Marshall's advantage stems from his statewide familiarity and strong performance in major population centers like Birmingham, Huntsville, and Montgomery, where he has a favorable rating of +28 compared to Moore's +8. 
-
-Additionally, the poll reveals that while 59% of voters are generally more likely to support a candidate endorsed by Trump, only 43% feel the same about Moore specifically. This suggests that Trump's endorsement may not be as decisive as previously thought. 
-
-In the lieutenant governor race, Secretary of State Wes Allen leads with 23%, while John Wahl, who has low name recognition and only 6% support, has also received a Trump endorsement that appears to have minimal impact. 
-
-Overall, Marshall's established profile and current lead, combined with the limited effectiveness of Trump's endorsement for Moore, suggest that Marshall is in a strong position to be the Republican nominee for Senate in Alabama, though the high number of undecided voters indicates that the race remains fluid.
-
-Title: Opinion | Trump endorsement makes Barry Moore prohibitive favorite in U.S. Senate race
-Author: Steve Flowers
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.alreporter.com/2026/02/18/opinion-trump-endorsement-makes-barry-moore-prohibitive-favorite-in-u-s-senate-race/
-Summary: The article discusses the impact of Donald Trump's endorsement of Congressman Barry Moore on the upcoming U.S. Senate race in Alabama. With Trump's backing and support from the influential "Club for Growth," Moore is positioned as the frontrunner for the Republican nomination. The piece highlights Moore's long-standing loyalty to Trump and his conservative voting record, suggesting he will likely continue the conservative legacy of the seat previously held by Jeff Sessions.
-
-While the article does not directly address Steve Marshall's candidacy, it emphasizes the strength of Moore's campaign, which could overshadow other potential candidates, including Marshall. The dynamics of endorsements and financial backing from organizations like the Club for Growth are crucial factors in determining the Republican nominee. Therefore, unless Marshall secures significant endorsements or support, his chances of becoming the nominee may be diminished in light of Moore's strong position.
+Summary: The recent Alabama GOP primary poll indicates that Attorney General Steve Marshall currently leads U.S. Representative Barry Moore in the race for the Republican nomination for U.S. Senate, with a 9-point advantage (26% to 17%). Despite Moore’s endorsement from former President Trump, the endorsement has not significantly shifted support, and a large portion of voters remain undecided (43%). Marshall’s strength lies in statewide familiarity and support in major population centers, particularly Birmingham, Huntsville, and Montgomery, where he maintains a favorable net rating. The race remains highly fluid, with a substantial undecided voter base, suggesting that the nomination is still open and could change as campaigns develop.
 
 

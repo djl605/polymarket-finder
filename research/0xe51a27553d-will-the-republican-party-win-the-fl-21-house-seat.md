@@ -1,57 +1,59 @@
 # Research: Will the Republican Party win the FL-21 House seat?
 
 **Market ID:** 0xe51a27553dbbb2d411964180dbb904650fbed5533f29a3c6814c4070f29cefd3
-**Researched At:** March 1, 2026 at 06:02:41 AM UTC
+**Researched At:** March 9, 2026 at 03:02:22 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the FL-21 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 1.0¢
 
 ### Summary
 
-The incumbency and district’s R lean justify a high win probability; Democratic fundraising and an independent bid soften but don’t overturn that advantage, implying only a minor mispricing (~5 cents).
+District-level fundamentals (incumbent funding, historical lean) support a high GOP win probability, and available polls are statewide or hypothetical, leaving no clear 20-cent mispricing signal. A modest mispricing (<10 cents) is possible but weakly supported.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the Republican Party’s nominee will win Florida’s 21st Congressional District in the November 4, 2026, House election. A YES resolution requires that the ballot‐listed or caucus‐declared Republican wins a plurality of votes in CD-21. A NO resolution occurs if a Democrat or independent (who caucuses with Democrats) wins.
+1. CONTEXT ANALYSIS
+- Market question: “Will the Republican Party win the FL-21 House seat in Nov 2026?”  
+- YES if the Republican nominee (likely incumbent Brian Mast or another GOP primary winner) carries the general election plurality. NO if a Democrat or independent (e.g. Robert Ott) wins.
 
-2. EVIDENCE EVALUATION  
-Bullish for Republicans (supports ~83.5%):  
-- Historical lean: CD-21 has been in Republican hands (Brian Mast) and Florida has trended R in midterms.  
-- No incumbent retirement: No credible report suggests Mast is stepping down. Incumbency advantage remains strong.  
-- National environment: Decision Desk HQ notes that, absent a strong wave and with redistricting only modestly shifting CD-21, Republicans remain favored.  
+2. EVIDENCE EVALUATION
+a. Bearish signals on GOP win chance (suggesting price too high)
+  • PSI poll (2/21/26): In a generic General Election matchup, Democrat David Jolly leads a Republican (Byron Donalds) 42.3%–35.8%, with 21.5% undecided. While not district-specific, it implies a fluid environment and substantial undecided vote that could swing away from Republicans.  
+  • Statewide polls (3/4/26): Republicans hold only single-digit leads in Governor/Senate races despite a 1.5M voter registration advantage, and many voters remain undecided or have low name recognition for Dem candidates. This suggests a closer environment than traditional Florida GOP dominance.  
+  • Independent entry: Robert Ott’s campaign could siphon moderate votes, potentially depressing the GOP plurality.
 
-Bearish (suggests price may be too high):  
-- Democratic fundraising: Pia Dandiya raised $1.16 M in 2025, the highest for any Dem challenger in CD-21, indicating serious financial viability.  
-- Independent entry: Robert Ott’s independent bid could split the center-left/moderate vote in unpredictable ways—either siphoning from Democrats (good for R) or from Republicans if he appeals to moderates.  
-- Redistricting uncertainty: Ongoing boundary changes could slightly improve Democratic chances.  
+b. Bullish signals supporting 83.5%
+  • Incumbent advantage: Brian Mast’s incumbency and reported $2.3M cash reserve create a strong financial and name-ID advantage in FL-21 specifically.  
+  • Partisan lean: FL-21 has historically tilted Republican; statewide swings may understate the GOP margin in a safe district.  
+  • Lack of district-level polling: The key PSI and statewide polls are not FL-21 specific, so their county-level translates may be limited.
 
-Source credibility & recency:  
-- Dandiya (Feb 3, 2026) and Ott (Feb 17, 2026) are timely and from local politics outlets. Decision Desk HQ (Feb 23, 2026) is an established forecasting newsletter. All are credible but do not definitively tilt the race by >10–15 points.  
+c. Source credibility and recency
+  • All sources are from Feb–Mar 2026 and from recognized outlets/polling institutes. However, none provide rigorous district-level data for FL-21 and all show large undecideds.  
+  • Geoffrey Skelley article notes no major redistricting changes affecting FL-21, implying continuity.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- 83.5% could reflect a consensus that an incumbent R will cruise to re‐election absent a major wave.  
-- Low volume suggests a few enthusiasts set the price, but the narrow spread hints traders are comfortable with that consensus.  
-- If insider polling existed showing a tighter race, we’d expect sharper price moves or higher volume.  
+3. MARKET EFFICIENCY ANALYSIS
+- A price of 83.5% can reflect a consensus that despite a more competitive statewide climate, FL-21 remains strongly Republican due to incumbency and district lean.  
+- Low volume likely reflects consensus among a small group of traders who deem the question straightforward, not a lack of information or market neglect.  
+- No trader appears to be arbitraging away any obvious edge, suggesting no glaring mispricing.
 
-4. MISPRICING ASSESSMENT  
-- The biggest new data is Dandiya’s fundraising, but $1.16 M in a midterm CD-21 challenge remains well below typical incumbency war chests.  
-- Ott’s independent candidacy adds noise but probably won’t push the R win probability below ~75%.  
-- No strong evidence of a >10-point mispricing; most factors appear already priced in given the R lean.  
+4. MISPRICING ASSESSMENT
+- There is no district-specific polling or concrete signal that GOP win odds differ materially from ~80–85%.  
+- The independent candidacy and statewide tightening introduce upside uncertainty, but do not strongly argue that 83.5% is off by >10 points.  
+- Given current evidence, any correction would be modest (e.g. 5–10 cents), and confidence in a larger miss is low.
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence for mispricing: ~30% (fundraising and redistricting add some downside risk, but not decisive)  
-- Estimated magnitude of mispricing: ~5 cents (price might be at ~83.5% vs. “true” ~80%)  
-- Expected value = 0.30 × 5 cents = 1.5 cents  
+5. EXPECTED VALUE CALCULATION
+- Strength of evidence: 20% (polls are indirect and undecided)  
+- Magnitude of mispricing: 5 cents  
+- Expected value = 0.20 × 5 = 1 cent
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The incumbency and district’s R lean justify a high win probability; Democratic fundraising and an independent bid soften but don’t overturn that advantage, implying only a minor mispricing (~5 cents).  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.0  
+SUMMARY: District-level fundamentals (incumbent funding, historical lean) support a high GOP win probability, and available polls are statewide or hypothetical, leaving no clear 20-cent mispricing signal. A modest mispricing (<10 cents) is possible but weakly supported.  
+CONFIDENCE: medium
 
 ---
 
@@ -59,52 +61,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Pia Dandiya tops $1.16M raised in 2025 as Democrats’ best-funded challenger in CD 21
-Author: Jesse Scheckner
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://floridapolitics.com/archives/777825-pia-dandiya-tops-1-16m-raised-in-2025-as-democrats-best-funded-challenger-in-cd-21/
-Summary: Pia Dandiya has emerged as the most well-funded Democratic challenger in Florida's 21st Congressional District (CD 21), raising over $1.16 million in 2025. This significant fundraising achievement positions her strongly against the incumbent Republican, Brian Mast, as the 2026 election approaches. Dandiya's financial backing may indicate robust support within the Democratic base, potentially impacting the Republican Party's chances of retaining the seat. The dynamics of voter sentiment, fundraising capabilities, and campaign strategies will be crucial in predicting the outcome of the FL-21 House seat race.
-
 Title: Psychologist, educator Robert Ott launches independent CD 21 bid, promises ‘real, workable solutions’
 Author: Jesse Scheckner
 Published Date: 2026-02-17T00:00:00.000Z
 URL: https://floridapolitics.com/archives/780558-psychologist-educator-robert-ott-launches-independent-cd-21-bid-promises-real-workable-solutions/
-Summary: Robert Ott, a psychologist and educator, has announced his candidacy for Florida's 21st Congressional District (CD 21) as an independent candidate. His campaign focuses on providing "real, workable solutions" to issues facing the community, drawing from his personal experiences, including overcoming homelessness during the Great Recession. Ott's entry into the race adds a new dynamic to the competition for the FL-21 House seat, which has traditionally been held by Republicans. 
+Summary: Robert Ott, a psychologist and educator, has entered the race for Florida’s 21st Congressional District as an independent candidate, emphasizing bipartisan solutions and community-focused policies such as lowering housing costs, improving senior care, expanding mental health support, and increasing teacher pay. Ott’s independent status aims to position him as a mediator capable of bridging political divides. The district is currently held by Republican U.S. Rep. Brian Mast, who has significant financial backing with over $2.3 million cash on hand. While Mast is the incumbent and well-funded, Ott’s entry as a bipartisan alternative could influence the race dynamics. The district also features several Democratic contenders, with Pia Dandiya leading in campaign funds. Given Mast’s strong financial position and incumbency, the likelihood of a Republican victory remains high, but Ott’s independent candidacy introduces a potential variable that could impact the traditional party advantage.
 
-As the election approaches, the Republican Party's chances of retaining the FL-21 seat may be influenced by several factors, including Ott's appeal as an independent candidate, voter sentiment regarding current Republican policies, and the overall political climate in Florida. Ott's background in psychology and education may resonate with voters seeking change, potentially impacting Republican support. 
-
-In summary, while the Republican Party has historically held the FL-21 seat, Ott's candidacy could challenge their dominance, making the outcome of the election uncertain.
-
-Title: Antione Fields announces HD-21 campaign, pledging to fight for working families and take on corporate influence in Tallahassee - Alachua Chronicle
-Author: Jennifer Cabrera
+Title: The Public Sentiment Institute's First Poll Shows Competitive Environment Emerging in Florida
+Author: The Public Sentiment Institute
 Published Date: 2026-02-21T00:00:00.000Z
-URL: https://alachuachronicle.com/antione-fields-announces-hd-21-campaign-pledging-to-fight-for-working-families-and-take-on-corporate-influence-in-tallahassee/
-Summary: Antione Fields has announced his candidacy for Florida House District 21, emphasizing a campaign focused on supporting working families and combating corporate influence in politics. As a progressive Democrat, Fields aims to address issues like rising living costs, healthcare, and the need for democracy reform. He criticizes the current political climate in Tallahassee for prioritizing corporate interests over the needs of everyday Floridians. Fields' platform includes advocating for universal healthcare, a living wage, and paid family leave, positioning himself as a candidate who refuses corporate PAC money to maintain independence from special interests.
+URL: https://tpsiofficial.substack.com/p/the-public-sentiment-institutes-first
+Summary: The recent Public Sentiment Institute poll indicates a highly competitive and fluid political environment in Florida, with significant voter indecision in both primaries and general elections. In the Republican primary, Byron Donalds leads with 29.7% support but nearly half of Republican voters (46.7%) remain undecided, suggesting the race could shift. In the general election matchups, Democrat David Jolly holds a modest lead over Republican candidates (42.3% vs. 35.8% against Byron Donalds), but with a large undecided voter share (21.5%), the outcome remains uncertain. The high level of voter indecision and the potential for persuasion imply that the FL-21 House seat could be competitive, and the Republican Party's chances depend on candidate definition, issue framing, and voter turnout in the coming months.
 
-Given the context of Fields' campaign, the Republican Party's chances of winning the FL-21 House seat may hinge on several factors: the effectiveness of Fields' progressive messaging in appealing to voters facing economic challenges, the political landscape in North Central Florida, and the overall sentiment towards the Republican leadership in the area. Fields' focus on affordability and social justice issues could resonate with constituents who feel neglected by current policies, potentially impacting Republican support. Additionally, voter turnout and engagement in response to Fields' campaign could also play a crucial role in determining the outcome of the election.
+Title: Poll: Democrats in Striking Distance of Republicans in Florida Midterms | Sunny 98.5 | Florida News
+Author: Karen Curtis
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://sunny985.iheart.com/featured/florida-news/content/2026-03-04-poll-democrats-in-striking-distance-of-republicans-in-florida-midterms/
+Summary: The article discusses recent polling data indicating that Republicans in Florida, including candidates like Byron Donalds, are facing closer-than-expected races in statewide elections, with Democrats gaining ground. While Republicans still hold a voter advantage and have historically dominated Florida politics, the current polls show Democrats are within striking distance in key races, including the governor and Senate contests. This suggests a potentially more competitive environment for Republican candidates, which could influence outcomes in individual districts like FL-21. However, specific polling data for FL-21 is not provided, so while the overall trend indicates increased competitiveness for Republicans, predicting the outcome of the FL-21 House seat remains uncertain without district-specific polling.
 
-Title: Palm Beach Post: Local News, Politics & Sports in W. Palm Beach, FL
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.palmbeachpost.com/news/20200731/six-gop-candidates-compete-in-us-house-district-21
-Summary: The article discusses the competitive landscape of the Republican primary for the U.S. House District 21 seat in Florida, highlighting six candidates with varying degrees of conservatism. Leading the race is Laura Loomer, a controversial figure known for her far-right views and significant fundraising ability, having raised over $1 million despite being banned from major social media platforms. Loomer's campaign has shifted from her earlier provocative style to a more polished approach, emphasizing her determination to have a voice in Congress. The dynamics of the race, including Loomer's fundraising prowess and the diverse political spectrum of the candidates, could influence the Republican Party's chances of winning the FL-21 House seat. Additionally, Loomer's ability to attract followers on alternative social media platforms may play a role in mobilizing support among conservative voters.
+Title: Are Florida voters sending an early warning? Latest poll numbers
+Author: Jim Rosica
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://floridatoday.com/story/news/state/2026/03/04/are-florida-voters-sending-an-early-warning-latest-poll-numbers/88972324007/
+Summary: The recent Florida statewide polls indicate that Republicans currently hold a modest advantage in the 2026 races, with single-digit leads in both the governor’s race and the U.S. Senate contest. Republicans also have a significant voter registration lead of nearly 1.5 million over Democrats. However, many voters remain undecided, and Democratic candidates have low name recognition, suggesting that the race remains competitive. While the Republican Party enjoys a partisan advantage, the strength of this lead may be less pronounced than in previous years, especially given the midterm election context. These trends suggest that while Republicans have an edge, the outcome for specific races like FL-21 will depend on candidate recognition and voter turnout.
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
+Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
 Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:02:26.249Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses key House seats that could influence the 2026 elections, focusing on the dynamics of various districts. While it does not specifically mention the FL-21 House seat, it provides insights into broader trends and factors that could impact Republican chances in Florida.
-
-Key points relevant to predicting the Republican Party's chances in the FL-21 seat include:
-
-1. **Political Landscape**: The article outlines the current political climate and potential shifts in voter sentiment, which are crucial for understanding how Republican candidates might perform in Florida.
-
-2. **Redistricting Effects**: Changes in district boundaries can significantly affect election outcomes. The article notes ongoing redistricting efforts, which could alter the demographics and political leanings of the FL-21 district.
-
-3. **Candidate Dynamics**: The piece highlights the importance of candidate appeal and local issues. The effectiveness of the Republican candidate in addressing constituents' concerns will be pivotal.
-
-4. **National Trends**: The overall performance of the Republican Party in the 2026 elections, influenced by national issues and voter turnout, will also play a critical role in determining the outcome in FL-21.
-
-In summary, while the article does not directly address the FL-21 seat, it provides context on factors that could influence Republican success in that district, including redistricting, candidate dynamics, and the broader political environment leading up to the election.
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1?isFreemail=true&post_id=188458309&publication_id=5685429&r=1b661k&triedRedirect=true
+Summary: The article discusses the upcoming 2026 U.S. House elections, highlighting key redistricting developments and political shifts that could influence seat outcomes. Notably, redistricting efforts in states like New York and Utah are reshaping districts, potentially affecting party control. While specific details about Florida's 21st district (FL-21) are not provided, the overall context indicates that redistricting and candidate decisions (such as potential challenges from prominent figures like Kristi Noem or Robin Vos) could impact the competitiveness of districts like FL-21. The evolving political landscape, including court rulings on district boundaries and candidate strategies, suggests that the outcome in FL-21 will depend on how these factors play out, but no definitive prediction is made in the article.
 
 

@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the WI-08 House seat?
 
 **Market ID:** 0xa3c6a0301ccd056f68b20bfaa2ec38f8d81608d3e9b7f49b68eff93562d66fd7
-**Researched At:** March 1, 2026 at 06:01:13 AM UTC
+**Researched At:** March 9, 2026 at 03:02:16 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the WI-08 House seat?"
 
 ---
@@ -9,40 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 0.2¢
 
 ### Summary
 
-Recent reporting labels WI-08 competitive but shows no clear polling advantage for Democrats, while incumbency and a midterm environment favor Republicans. An 18% Dem‐win probability appears reasonable, with only a small potential mispricing.
+No district‐specific polling or candidate intel for WI-08 was found; broad national indicators are likely already priced in, and an 18% chance aligns with a historically safe GOP seat facing a moderate Democratic national environment. Low volume reflects lack of local data, not a clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Democratic Party win Wisconsin’s 8th Congressional District in November 2026?” It resolves YES if the Dem nominee (e.g. Amanda Stuck) wins the general election, NO otherwise.
+The market asks whether the Democratic Party will win Wisconsin’s 8th Congressional District on Nov 4, 2026. YES requires a Democratic‐affiliated candidate to defeat the incumbent or win an open seat; NO means a Republican or non‐Democrat (caucusing with Republicans) wins.
 
 2. EVIDENCE EVALUATION  
-Bullish for Democrats:  
-• BayNews9 (2026-02-13) describes WI-08 as “competitive,” noting active campaigning and key local issues, but offers no firm polling gap or trendline.  
-Bearish for Democrats:  
-• Incumbent advantage: Mike Gallagher is a sitting two-term Republican in a district that leans R in midterms.  
-• National environment: 2026 is a midterm under a Democratic president, historically favoring the opposition party.  
-Neutral/contextual:  
-• Decision Desk HQ (2026-02-23) and Sabato’s Crystal Ball (2026-02-26) emphasize factors like redistricting and turnout but give no strong tilt.  
-Credibility: All sources are recent (February 2026) and reputable, but none supply definitive polling showing a Dem lead.
+Bullish for Democrats (which would argue price is too low):  
+- National generic ballot polling shows Democrats +5.4 to +5.6 points (Nate Silver, 2026-03-02), implying a tailwind in many districts.  
+- Overall Democratic fundraising advantage in key battleground seats (Reuters, 2026-02-23) could translate into more resources nationally.
+
+Bearish for Democrats (supporting 18%):  
+- No research source offers any specific poll, candidate profile, or local dynamic for WI-08. All district‐specific attention is on WI-03, not WI-08.  
+- WI-08 is historically a safe Republican district; the market’s 18% aligns with a modest upset probability given a GOP lean likely well above five points.  
+- The single article hinting at WI-08 was speculative about potential redistricting after 2030, not relevant to 2026 outcome.
+
+Source credibility and recency are solid (Reuters, Nate Silver), but none provides direct WI-08 data. The generic ballot and fundraising figures are broad indicators already likely priced in.
 
 3. MARKET EFFICIENCY ANALYSIS  
-An 18% price aligns with a consensus that the district remains Republican-leaning but not uncompetitive. The low $394 volume suggests few traders have weighed in, but the narrow 4¢ spread indicates those who have see little disagreement.
+An 18% price plausibly reflects:  
+- Consensus among traders that WI-08 is a firm Republican seat.  
+- Low volume driven by lack of public information on candidates, not obvious inefficiency.  
+- The market’s tight spread suggests at least one informed participant, but the lack of follow‐up trades hints that few others have strong divergent views.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, high-quality evidence that the market has overlooked. The fundamental factors (incumbency, district lean, midterm trend) are likely already priced in. Any mispricing is small (a few percentage points) and within typical forecast error.
+There is no specific, credible evidence of a large mispricing. Broad indicators (national ballot, fundraising) are already factored in, and no local polling or candidate news for WI-08 was omitted. A small tail risk could push the real probability slightly above 18%, but likely by only a few cents.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 20% (no clear contrarian signal)  
-• Magnitude of mispricing: 5¢ (max plausible gap)  
-• Expected value: 20% × 5¢ = 1.0¢
+Strength of evidence for mispricing: 10% (low, given absence of direct data)  
+Magnitude of mispricing: 2 cents (max plausible under‐pricing of the tail)  
+Expected value = 10% × 2c = 0.2 cents
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Recent reporting labels WI-08 competitive but shows no clear polling advantage for Democrats, while incumbency and a midterm environment favor Republicans. An 18% Dem‐win probability appears reasonable, with only a small potential mispricing.  
+EXPECTED_VALUE: 0.2  
+SUMMARY: No district‐specific polling or candidate intel for WI-08 was found; broad national indicators are likely already priced in, and an 18% chance aligns with a historically safe GOP seat facing a moderate Democratic national environment. Low volume reflects lack of local data, not a clear mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -51,59 +56,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Democratic challenger Rebecca Cooke outraises US Rep. Derrick Van Orden - WPR
-Author: Rich Kremer
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.wpr.org/news/democratic-challenger-rebecca-cooke-outraises-us-rep-derrick-van-orden
-Summary: In the competitive race for Wisconsin's 3rd Congressional District (WI-08), Democratic challenger Rebecca Cooke has recently outraised incumbent Republican Congressman Derrick Van Orden for the first time, bringing in approximately $1.2 million compared to Van Orden's $931,000 between October and December 2025. This fundraising shift indicates a potentially favorable trend for the Democratic Party as they aim to reclaim the seat. Both candidates have raised around $1 million each in the earlier part of the election cycle, highlighting the race's competitiveness.
-
-Despite Cooke's recent fundraising success, Van Orden still maintains a financial advantage with nearly $3 million in the bank compared to Cooke's $2.5 million. Additionally, Cooke faces a primary challenge from Eau Claire City Council President Emily Berge, which could impact her campaign's focus and resources.
-
-The dynamics of this race are crucial as both parties view the seat as vital for control of the U.S. House of Representatives. The outcome may hinge on voter sentiment, campaign strategies, and the effectiveness of fundraising efforts as the election approaches.
-
 Title: Competitive congressional race heats up
 Author: 
 Published Date: 2026-02-13T00:00:00.000Z
-URL: https://baynews9.com/fl/tampa/news/2026/02/13/wisconsin-congression-cooke-van-orden
-Summary: The article discusses the intensifying competition in the congressional race for Wisconsin's 8th District (WI-08). Key candidates include Republican incumbent Mike Gallagher and Democratic challenger Amanda Stuck. The race is characterized by significant fundraising efforts, with both candidates actively campaigning and engaging with voters. Polling data indicates a competitive landscape, with factors such as voter turnout, party affiliation, and local issues playing crucial roles in determining the outcome. The article highlights the importance of the race in the broader context of the Democratic Party's chances to gain ground in traditionally Republican areas. This information could be relevant for predicting whether the Democratic Party will win the WI-08 House seat.
+URL: https://mynews13.com/fl/orlando/news/2026/02/13/wisconsin-congression-cooke-van-orden
+Summary: The webpage discusses the competitive race in Wisconsin's third congressional district, where Democrat Rebecca Cooke has recently outfundraised Republican incumbent Derrick Van Orden, collecting over $1.1 million compared to his $931,000 in late 2025. Cooke, running for the third time, previously lost to Van Orden in 2024, and this is her final bid. The race is gaining national attention due to its competitiveness, influenced by broader political factors such as Donald Trump's approval ratings and redistricting outcomes. While the focus is on WI-03, the information highlights a competitive Democratic effort in Wisconsin, which could be indicative of a broader Democratic push in the state. However, specific details about WI-08 are not provided, so direct predictions about that seat cannot be made solely from this webpage.
 
-Title: Van Orden, Cooke fundraising running head-to-head in 3rd District
-Author: Laura Schulte
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://eu.jsonline.com/story/news/politics/2026/02/02/van-orden-cooke-fundraising-running-head-to-head-in-3rd-district/88420659007/
-Summary: The race for Wisconsin's 3rd Congressional District (WI-08) is highly competitive, with incumbent Republican Derrick Van Orden and Democrat Rebecca Cooke closely matched in fundraising efforts. Van Orden has raised over $4.3 million in 2025, while Cooke led in the most recent filing period. The Democratic primary on August 11 will determine Cooke's opponent in the November general election, which is crucial for the party's chances. The district, which includes key areas like Stevens Point and La Crosse, is considered a battleground, having been won by Van Orden in 2024 by a narrow margin of 2.8 points. The outcome will likely depend on voter turnout, campaign strategies, and national party support, making it a critical seat to watch for the Democratic Party's prospects in the upcoming election.
+Title: Generic Congressional Ballot: Latest Polls | Silver Bulletin
+Author: Nate Silver
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls
+Summary: The current national generic congressional ballot shows Democrats holding a consistent lead of approximately 5.4 to 5.6 points over Republicans, indicating a relatively stable advantage heading into the midterms. While this provides a broad national context, specific predictions for WI-08 would depend on local factors, candidate dynamics, and campaign developments. The Texas primary analysis highlights that even a modest overperformance (around 5 points) can be significant in close races, suggesting that small shifts in voter sentiment could impact WI-08. Overall, the steady Democratic lead nationally suggests a favorable environment for Democrats, but local race-specific factors will ultimately determine the outcome in WI-08.
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:00:54.542Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses the key U.S. House seats to watch in the 2026 elections, with a focus on factors that could influence outcomes, including the WI-08 House seat. 
+Title: Democrats outpace Republicans in fundraising for key US House races | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point
+Author: Thomson Reuters
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://wsau.com/2026/02/23/democrats-outpace-republicans-in-fundraising-for-key-us-house-races/
+Summary: The article highlights that Democrats currently have a fundraising advantage over Republicans in key competitive U.S. House districts, including those held by incumbents. Democratic candidates in battleground districts have raised significantly more money than Republican challengers, which could bolster their campaign efforts. However, control of the House remains closely contested, with Republicans holding a narrow majority. While fundraising disparities suggest Democrats may have an edge in some races, other factors such as candidate recruitment, district redraws, and overall political dynamics will influence the outcome of specific races like WI-08.
 
-Key points relevant to predicting whether the Democratic Party will win the WI-08 seat include:
+Title: Will Wisconsin maintain 8 congressional districts? | Gilbert
+Author: 
+Published Date: 2026-02-23T00:00:00.000Z
+URL: http://thenorthwestern.com/story/news/politics/elections/2026/02/23/will-wisconsin-maintain-8-congressional-districts-gilbert/88709362007/
+Summary: The article discusses Wisconsin's potential loss of a congressional seat following the 2030 Census due to slower population growth, which could impact political representation and district boundaries. Currently, Democrats hold two of Wisconsin's eight House seats, including WI-08, with the rest held by Republicans. If Wisconsin loses a seat and the district map is redrawn, the political landscape could shift, potentially affecting the competitiveness of WI-08. The outcome depends on future population trends, redistricting decisions, and whether Democrats can regain or hold onto the western Wisconsin seat in upcoming elections.
 
-1. **Current Political Landscape**: The article highlights the shifting dynamics in various districts, including Wisconsin, where historical voting patterns and recent election results are crucial for understanding potential outcomes.
-
-2. **Redistricting Impact**: Changes in district boundaries due to redistricting can significantly affect electoral competitiveness. The article notes ongoing legal battles and decisions regarding redistricting in New York, which may set precedents for other states, including Wisconsin.
-
-3. **Candidate Dynamics**: The retirement of influential political figures, such as Wisconsin state House speaker Robin Vos, could create opportunities for new candidates. The article suggests that the political climate and candidate profiles will be pivotal in determining the seat's outcome.
-
-4. **Voter Sentiment**: The piece emphasizes the importance of voter sentiment and turnout, particularly in swing districts like WI-08, which could be influenced by national trends and local issues leading up to the election.
-
-Overall, while the article does not provide a definitive prediction, it outlines critical factors and current events that could shape the Democratic Party's chances in the WI-08 House seat in 2026.
-
-Title: Sabato's Crystal Ball
-Published Date: 2026-02-26T06:00:54.542Z
-URL: https://centerforpolitics.org/crystalball/
-Summary: The webpage "Sabato's Crystal Ball" offers insights into upcoming elections, including the 2026 House races. For predicting whether the Democratic Party will win the WI-08 House seat, consider the following relevant points:
-
-1. **Political Landscape**: The site discusses trends in political polarization, noting that many states exhibit one-party dominance. Understanding the political climate in Wisconsin, particularly in the 8th district, is crucial.
-
-2. **Incumbency and Open Seats**: The analysis highlights a significant number of House retirements, leading to fewer incumbents seeking reelection. If the WI-08 seat is open or contested, this could influence the Democratic Party's chances.
-
-3. **Recent Election Trends**: The site tracks historical voting patterns and recent election results in Wisconsin, which can provide context for the Democratic Party's competitiveness in the district.
-
-4. **Primary Dynamics**: The upcoming primaries, particularly in Texas and other states, may set the tone for the national landscape, impacting fundraising and candidate visibility for the Democratic Party in WI-08.
-
-For a more precise prediction, it would be beneficial to monitor specific candidate announcements, polling data, and voter sentiment as the election approaches.
+Title: DCCC adds Cooke to its 'Red to Blue' program - WisPolitics
+Author: JR Ross SA
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.wispolitics.com/2026/dccc-adds-cooke-to-its-red-to-blue-program/
+Summary: The Democratic Congressional Campaign Committee (DCCC) has added Rebecca Cooke to its 'Red to Blue' program, which supports candidates aiming to flip GOP-held seats. Cooke, a nonprofit leader, is running in Wisconsin’s 3rd Congressional District, not the 8th. She has demonstrated strong fundraising, raising $1.2 million in Q4 and ending 2025 with over $2.5 million in cash, slightly behind GOP incumbent Derrick Van Orden. Cooke secured her nomination after winning a three-way primary and faces opponents Emily Berge and Rodney Rave. While Cooke's campaign is well-supported and she has shown financial strength, her district (WI-03) differs from WI-08, so these details may not directly predict the outcome in WI-08.
 
 

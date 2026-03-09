@@ -1,57 +1,56 @@
 # Research: Will the Republicans win the Georgia Senate race in 2026?
 
 **Market ID:** 0x54e4e816cc5868e2f933c6bbc597e3313bdad382be3ecf7eaa4d8fa5c3f1a1bd
-**Researched At:** March 1, 2026 at 05:59:16 AM UTC
+**Researched At:** March 9, 2026 at 03:02:02 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republicans win the Georgia Senate race in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Early polling gives Ossoff a narrow lead but a typical midterm environment and strong GOP approval suggest slightly higher chances for Republicans than a 19.1% price implies; however, Ossoff’s fundraising and incumbent advantages offset most upside. No clear large mispricing is evident.
+Early polling shows Ossoff leading by 3–8 points, but midterm headwinds and undecided voters could boost GOP chances closer to 30%, above the market’s 19% price. Given low volume and early timing, any mispricing is modest.
 
 ### Full Analysis
 
-Context Analysis:
-The market asks whether the Republican nominee will win Georgia’s U.S. Senate seat in November 2026 (including any required runoff). YES resolves if the GOP nominee prevails outright or after a runoff; NO if the Democratic nominee wins or an independent wins.
+1. CONTEXT ANALYSIS  
+The market asks for the probability that the Republican nominee wins the 2026 Georgia U.S. Senate seat (including any run-off). YES resolves if the Republican nominee finishes first in the general (or run-off); NO if the Democratic nominee, an independent, or other party wins.
 
-Evidence Evaluation:
-Bullish for GOP (price too low):
-• Midterm trend: The president’s party often loses ground in midterms; Georgia’s 2022 and 2024 results favored Republicans (Kemp +8, Trump win), suggesting a swing environment.
-• GOP base strength: Trump approval at 80% in Georgia, Kemp at 71%—a strong Republican electorate.
-• Primary consolidation: Early polling shows Collins leading and poised to unite the MAGA base, potentially improving turnout and general-election positioning.
+2. EVIDENCE EVALUATION  
+Bullish for Republicans (i.e. PRICE TOO LOW):  
+• Midterm trend: Historically the president’s party loses ground in midterms (often 5–10 points), which could erode Ossoff’s current 3–8-point polling lead.  
+• Undecideds: General-election polling shows ~9–10% undecided; if these lean toward the GOP in a Republican-friendly year, the race could tighten or flip.  
+• Primary uncertainty: 40% of GOP primary voters undecided; a strong Trump-favored nominee could consolidate the base and improve general-election performance.  
 
-Bearish for GOP (price too high):
-• Incumbent advantage: Ossoff’s $25 million war chest and strong GOTV operation, combined with framing the race on voting rights, gives him significant defensive assets.
-• GOP fragmentation: A splintered primary could leave scars heading into November, hurting fundraising and unity.
-• Early general polls: Rasmussen and RaceToTheWh summaries show Ossoff with a narrow lead, implying roughly even odds rather than a heavy GOP underdog.
+Bearish for Republicans (i.e. PRICE TOO HIGH):  
+• Incumbent advantage: Ossoff polling at roughly 47–49% across multiple Emerson surveys, with consistent leads of 3–8 points even after undecideds.  
+• Demographics: Ossoff’s strength among independents, women, and voters under 50 suggests a resilient coalition.  
+• Early polling: These are snapshots nine months out; large shifts are possible but no current sign of a looming GOP landslide.  
 
-Source Credibility & Recency:
-All sources date from January–February 2026 and are respected (AJC/Atlanta, Breitbart for polling specifics, RaceToTheWh for aggregated forecasts). None are stale, but general polls have wide margins of error this far from election.
+All polls are recent (Mar 5, 2026) and from a credible academic firm (Emerson). They agree on a narrow Democratic lead; none directly model midterm headwinds or primary fallout.
 
-Market Efficiency Analysis:
-• The 19.1% price aligns with a view that Ossoff is heavily favored—plausible if one assumes unified GOP weakness.
-• Low volume (≈$9.6 K) suggests price may reflect few traders, but the tight spread implies at least some liquidity and consensus.
-• It could be “ignored” by many informed traders but priced by those who believe state fundamentals heavily favor Democrats even in a midterm.
+3. MARKET EFFICIENCY ANALYSIS  
+• A 19% chance for Republicans is consistent with an incumbent Democrat holding a modest polling lead, but adjusted downward for the midterm penalty.  
+• Low volume suggests few traders are active, but the tight spread implies any informed trader could bite if the price diverges strongly from their own model.  
+• The early date and unsettled GOP primary likely keep sophisticated players sidelined, leaving price anchored near a default “incumbent-lead” model.
 
-Mispricing Assessment:
-• Evidence of mispricing is weak: bullish midterm and GOP approval stats point to some upside for Republicans, but Ossoff’s fundraising and incumbent edge balance that.
-• No specific, credible data point (e.g. a new poll showing GOP advantage or a major scandal) appears omitted from the current price.
-• Any mispricing is likely small (<5 cents), reflecting only minor optimism about GOP midterm swing and candidate consolidation.
+4. MISPRICING ASSESSMENT  
+• A midterm swing of even 5 points could turn a 5-point Democratic lead into a 0-to-2-point advantage, equating to roughly a 30%–35% chance for a GOP win—well above 19%.  
+• However, this relies on standard midterm effects and assumes undecideds break GOP-leaning, which may already be baked into the price.  
+• No glaring omissions (like a resolved primary or scandal) are missing; the market likely reflects a rough consensus on narrow Democratic advantage plus midterm drag.
 
-Expected Value Calculation:
-• Strength of evidence for mispricing: ~30% (midterm swing potential vs incumbent).
-• Magnitude: ~5 cents.
-• Expected value ≈ 30% × 5 cents = 1.5 cents.
+5. EXPECTED VALUE CALCULATION  
+• Strength of evidence: 40% (poll leads are real but midterm adjustment speculative)  
+• Magnitude of mispricing: 10 cents (GOP win chance nearer 30% vs. price 19%)  
+• Expected value = 40% × 10 cents = 4 cents
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Early polling gives Ossoff a narrow lead but a typical midterm environment and strong GOP approval suggest slightly higher chances for Republicans than a 19.1% price implies; however, Ossoff’s fundraising and incumbent advantages offset most upside. No clear large mispricing is evident.  
-CONFIDENCE: low
+EXPECTED_VALUE: 4  
+SUMMARY: Early polling shows Ossoff leading by 3–8 points, but midterm headwinds and undecided voters could boost GOP chances closer to 30%, above the market’s 19% price. Given low volume and early timing, any mispricing is modest.  
+CONFIDENCE: medium
 
 ---
 
@@ -59,62 +58,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: As Republicans fight it out in tight primary field, Ossoff goes on the offensive
-Author: Greg Bluestein
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://images.ajc.com/politics/2026/02/as-republicans-splinter-ossoff-seizes-the-offensive-in-a-changing-senate-race/
-Summary: In the lead-up to the 2026 Georgia Senate race, Democratic incumbent Jon Ossoff is strategically positioning himself against a divided Republican field vying for Donald Trump's endorsement. As GOP candidates Buddy Carter, Mike Collins, and Derek Dooley compete for the MAGA base, Ossoff is focusing on themes of voting rights and anti-corruption, framing the election as critical for the nation's future. 
+Title: Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field - Emerson Polling
+Author: Camille Mumford
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://emersoncollegepolling.com/georgia-2026-poll-senator-ossoff-starts-re-election-near-50-and-outpaces-gop-field/?utm_source=Iterable&utm_medium=email&utm_campaign=TheMorningJolt&utm_content=13069074
+Summary: The Emerson College Polling indicates that Democratic Senator Jon Ossoff currently holds a lead in Georgia's 2026 Senate race, with approximately 47-49% support against potential Republican opponents, and a significant portion of voters (around 9-10%) undecided. Among Republican primary contenders, Rep. Mike Collins leads with 30% support, but 40% remain undecided, suggesting an open and competitive primary. Voter preferences are influenced by factors such as President Trump's endorsement, which 47% of Republican primary voters say makes them more likely to support a candidate. Overall, Ossoff's strong support among independents, women, and voters under 50, combined with the current polling margins, suggest that while the race is competitive, Democrats may have an advantage at this stage. However, primary dynamics and candidate support could shift the outcome before the general election.
 
-Ossoff, who is considered the most vulnerable Democratic incumbent, has a significant financial advantage with $25 million in campaign funds, outpacing his Republican rivals. Polling indicates that Collins leads the GOP field but faces challenges, including an ethics investigation that Ossoff is likely to exploit if he advances. 
-
-Republican strategists express concern over their candidates' inability to effectively challenge Ossoff or unify their base, suggesting that the race may not be as competitive as previously thought. Ossoff's campaign is characterized by a strong organizational presence and a clear strategy to tie his opponents to Trump, which could impact their appeal to moderate voters. 
-
-Overall, the dynamics of the race, including Ossoff's fundraising prowess and the GOP's internal struggles, will be crucial in predicting the outcome of the 2026 Senate race in Georgia.
-
-Title: Georgia Senate 2026 Election Polls and Predictions - Jon Ossoff Re ...
-URL: https://www.racetothewh.com/senate/georgia26
-Summary: The 2026 Georgia Senate race is shaping up to be competitive, with incumbent Democrat Jon Ossoff seeking re-election after his victory over Republican David Perdue in 2021. Republicans are eager to reclaim the seat, especially after Donald Trump's narrow win in Georgia during the 2024 presidential election. Key Republican contenders include Congressman Mike Collins, Congressman Buddy Carter, and Football Coach Derek Dooley, who has the endorsement of Governor Kemp.
-
-The race will be influenced by various factors, including polling data, historical trends, candidate appeal, and fundraising efforts. The current forecasts suggest a challenging environment for Republicans, who have lost the last three Senate elections in Georgia. As the election approaches, ongoing polling and candidate dynamics will be critical in assessing the likelihood of a Republican victory in this pivotal race.
-
-Title: Poll: Rep. Mike Collins Leads in Georgia GOP Senate Primary
-Author: Katherine Hamilton
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.breitbart.com/politics/2026/02/19/poll-rep-mike-collins-leads-in-georgia-gop-senate-primary/
-Summary: Rep. Mike Collins is currently leading in the Georgia GOP Senate primary, according to a recent Rasmussen Reports poll. He has 34% support among likely Republican primary voters, significantly ahead of Rep. Buddy Carter at 19% and newcomer Derek Dooley at 11%. The primary is set for May 19, 2026, and if no candidate secures over 50% of the vote, a runoff will occur between the top two candidates.
-
-Collins is viewed favorably by voters seeking a "Trump Republican," with 40% of that demographic supporting him. His campaign emphasizes his experience and local ties, contrasting with Dooley, who is portrayed as an outsider. The poll indicates that Collins or Carter would likely defeat Dooley in a runoff, with Collins projected to lead by 13 points.
-
-The general election will see the Republican nominee challenge incumbent Democrat Jon Ossoff, who is considered vulnerable. Current polling suggests Ossoff has a narrow lead over Collins, making the race competitive. Overall, Collins' strong primary position and alignment with Trump-supporting voters could enhance Republican chances in the upcoming Senate race.
-
-Title: The GOP Senate Seats Most at Risk in 2026 Midterms—Ranked - Newsweek
+Title: Jon Ossoff's chances of losing to Republicans in Georgia Senate race—Poll - Newsweek
 Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: http://www.newsweek.com/gop-senate-seats-at-risk-2026-midterms-11483878
-Summary: The article discusses the vulnerability of several Republican-held Senate seats in the upcoming 2026 midterms, highlighting that the GOP's position may be more precarious than previously thought. While the focus is primarily on North Carolina, Maine, and Texas as key battlegrounds for potential Democratic pickups, it does not specifically address the Georgia Senate race. However, it mentions that internal GOP polling indicates a challenging landscape for Republicans, suggesting that they may face difficulties in retaining seats.
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.newsweek.com/jon-ossoffs-chances-of-losing-to-republicans-in-georgia-senate-race-poll-11630742
+Summary: The latest Emerson College Polling indicates that Democrat Jon Ossoff currently leads in hypothetical matchups against Republican contenders in Georgia's 2026 Senate race, with Ossoff holding a slight edge over candidates like Mike Collins, Buddy Carter, and Derek Dooley. Ossoff maintains strong support among independents, women, and voters under 50. However, the race remains competitive, with a notable percentage of voters undecided. Historically, midterm elections tend to favor the opposition party, and factors such as economic concerns, immigration policies, and foreign policy issues like the Iran war could influence voter sentiment. While Ossoff's current polling advantage suggests a favorable position, the race's outcome will depend on various dynamic factors closer to the election.
 
-Factors influencing the Republican chances in Georgia could include the overall sentiment reflected in private polling, the dynamics of the primary elections, and the performance of candidates on key issues like the economy and public safety. The article notes that the GOP still holds a slight advantage according to various political forecasts, but the increasing competitiveness of races, including those in states like Georgia, could impact their chances significantly.
+Title: Jon Ossoff Starts Re-Election Bid Near 50%
+Author: Taegan Goddard
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://politicalwire.com/2026/03/05/jon-ossoff-starts-re-election-near-50/
+Summary: A recent Emerson College poll indicates that Democratic Senator Jon Ossoff is currently leading potential Republican opponents in Georgia's 2026 Senate race, with Ossoff garnering around 47-49% support compared to Republican challengers who trail by margins of 3-8%. Ossoff's support is notably strong among independents, voters under 50, and women, suggesting a solid base heading into the election. While these early poll results show an advantage for Ossoff, the race remains competitive, and future developments could influence the outcome.
 
-In summary, while the article does not provide direct insights into the Georgia Senate race, it indicates a general trend of uncertainty for Republicans, which could be relevant for predicting their success in that state.
+Title: Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field - Emerson Polling
+Author: Camille Mumford
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://click-em.ajc.com/s/c/MluR9wUtLDB-v5krEggZMPwcKZ_TDQbKezK6jVM1qmTJ9X37mmheA1a250eNvVrv55cBeNMyJ2S78mVRcrGPel1a-8l_m1sVjuOY0nrf-JidiLdg3oFfpQOrKI0N4UMHwJ7vKOQ9HWdBfW_nont1Q7Scv3XEucfolnwT7in3g3hr3lHubeoXEnIeO5jSElaFHti-4DQ97tKF0Td13ETTQ5wJAPY_6oUZWxEZFxLNytM0dRagLKmbRpvf9f5zwB67gHFgNb3timQLaL9sirDvhE0UK8K4VqtqX1mR-EuuTAPcPyzAecj-whbiG7VuxgHFbjvKR6UwlKrSl7JBe8FpOnvirrNkdFT15oAuIE2t72iV2ShwfQsAQEPl2paOVMhRiV3Jex30mIhM5h2pYg5-Gx6czjnSFKCON1-gFq4YP1hjpVoKVbS6-QWpsW5T6xqbMS55m__bdNoqG_lo4Ut7kck9i7LTi27snUE_TO0R0wvpxZRV2RU/cim_167AclpvUMpTJsZ_eLr6eYRIOtZG/18
+Summary: The Emerson College Polling indicates that Democratic Senator Jon Ossoff currently holds a lead in Georgia's 2026 Senate race, with approximately 47-48% support against Republican contenders like Rep. Buddy Carter, Rep. Mike Collins, and Derek Dooley, who trail by several points. Ossoff's support is bolstered by strong backing among independents, women, and voters under 50. In the Republican primary, Mike Collins leads with 30% support, but 40% remain undecided, suggesting the primary race is still competitive. Voter attitudes toward Trump’s endorsement are mixed, with nearly half of Republican primary voters more likely to support candidates endorsed by Trump. Overall, Ossoff's current polling advantage and the undecided primary electorate suggest that the race remains competitive, but Democrats have a notable lead at this stage.
 
-Title: Georgia Statewide 2026 Republican Primary - co/efficient
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://coefficient.org/ga-gov-2026-gop-primary/
-Summary: The webpage provides insights into the Georgia Statewide 2026 Republican Primary, which could be relevant for predicting the outcome of the Republicans in the Georgia Senate race in 2026. Key findings include:
-
-1. **Trump Approval**: A high approval rating for Donald Trump at 80%, with only 14% disapproving. This suggests strong support for Trump-aligned candidates.
-
-2. **Kemp Approval**: Governor Brian Kemp has a 71% approval rating, indicating a favorable view among voters that could benefit Republican candidates.
-
-3. **GOP Primary Candidates**: Rick Jackson leads the GOP primary ballot with 24%, followed by Burt Jones at 16%. However, a significant 42% of voters remain undecided, indicating potential volatility in voter preferences.
-
-4. **Voter Demographics**: The Republican base is primarily composed of Trump supporters (48%), with fiscal conservatives (22%) and Christian conservatives (18%) also represented. This demographic breakdown may influence candidate selection and campaign strategies.
-
-5. **Regional Support**: Approval ratings vary by region, with higher support in areas like Albany (93% for Trump) and lower in others, which could affect campaign focus and resource allocation.
-
-6. **Undecided Voters**: The high percentage of undecided voters (42% for the governor ballot) suggests that candidates will need to engage effectively to sway these voters.
-
-Overall, the strong approval ratings for Trump and Kemp, along with the undecided voter segment,
+Title: Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field - Emerson Polling
+Author: Camille Mumford
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://click-em.ajc.com/s/c/yDAkZNIckua58awvealYOvHQN0CWbIkowdVhgdfRX9TK5FVN5A4mjYWgQoAMM1vrFDiOYO5iQIhXl1lTY49gXSTJmrlw_H_2C69NwkCHFi9HbjJdKMULI1EiBTUbi_fjCdicEfjcEQDagy3xfw-fPXyY4ndC3floUVSJFU9skCKCPENFSQon6npYTZU8j7X_zK2wuvUVZPhUCf1p6ORsIMePpOVEOrx6tqtta7VdH3yY2agx7lH5bvjlWfuwghDpdNf76npjP7Ma2Sg8lkZkpVRSWoHh75PZ6_zRHeseEdKrsHx_rzQ23LWqi2FdMesWrbg3DsnOW95nTXkDzpL81UoHLLtXHv447dcLjG973o9OyfSWYhRbQqO6OVrn0m9kuwfZukSoOOG3m7ZxJroaNC686BPlZ5__TTMNfi018XnTGvBcRkNIrSXyq9WGnmuMjZrcOT6LSaGAx9EOlcGqcOX1WJUsF_69ws89MOB5LMijkfSn8wY/4Cx23UtkqOMlZ5COAO_X535H1VXp20G8/18
+Summary: The Emerson College Polling indicates that Democratic Senator Jon Ossoff currently holds a lead in Georgia's 2026 Senate race, with approximately 47-48% support against Republican contenders like Rep. Buddy Carter and Rep. Mike Collins, who trail by around 4-5 percentage points. Ossoff's support is bolstered by strong backing among independents, women, and voters under 50. In the Republican primary, Mike Collins leads with 30% support, but 40% remain undecided, suggesting a competitive primary. The political landscape shows a divided electorate, with President Trump’s approval at 42% among Georgia voters and Governor Kemp’s approval at 46%. Voter preferences are influenced by issues like the economy and housing, and support for Trump’s endorsement varies among candidates. Overall, Ossoff's current polling advantage suggests he is favored to win re-election, but the race remains competitive, especially given the sizable undecided and primary support margins.
 
 

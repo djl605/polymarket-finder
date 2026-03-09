@@ -1,7 +1,7 @@
 # Research: Will Charles Booker be the Democratic nominee for Senate in Kentucky?
 
 **Market ID:** 0xbe2222c3e698a48d69713948ead153e2acd9ca56705d3e36f39db7d78f22d5f6
-**Researched At:** March 1, 2026 at 06:04:42 AM UTC
+**Researched At:** March 9, 2026 at 03:04:05 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Charles Booker be the Democratic nominee for Senate in Kentucky?"
 
 ---
@@ -9,42 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 2.0¢
+**Expected Value:** 7.5¢
 
 ### Summary
 
-Recent polls show Booker leading a fragmented field with only ~30% support and 43% undecided, implying his win chance may be lower than 71% but not drastically so. There’s insufficient evidence of a large mispricing in this market.
+While Booker has organizational momentum and favorable op-eds, there’s no concrete polling or full field analysis to support an 85% nomination probability. Zero trading volume suggests this price is a default rather than informed consensus, indicating likely overpricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Charles Booker be the Democratic nominee for Senate in Kentucky?” For YES, Booker must win the 2026 Kentucky Democratic Senate primary (a simple plurality in a contested field). NO resolves if he loses to another Democrat or if no primary is held.
+The market asks whether Charles Booker will emerge as the Democratic nominee in Kentucky’s 2026 U.S. Senate primary. It resolves YES if he wins that primary, NO if any other Democrat wins or if there is no primary.
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• Opinion endorsements (Feb 10) emphasize Booker’s grassroots strength and favorable internal polling vs. GOP, suggesting strong campaign momentum.  
-• WHAS11 (Feb 25) reports Booker’s active “40 for 40” plan and growing local resonance, which could consolidate progressive and younger voters.  
-• Emerson poll (Feb 5) shows Booker leading at 30% in a multi‐candidate primary; if he captures the majority of undecideds or benefits from vote‐splitting, a plurality win is plausible.  
+Bullish signals  
+- 2026-02-10 Courier-Journal op-ed: Booker is “strong and viable,” leading in unnamed primary polls, with grassroots momentum and broad appeal.  
+- WHAS11 (2026-02-25): Booker is running an active, well-organized campaign, rolling out policy proposals (“40 for 40”), targeting affordability, and positioning himself as a leading progressive.  
 
-Bearish signals:  
-• That same Emerson poll leaves 43% undecided and McGrath at 19%, plus other undeclared candidates; Booker’s 30% is a narrow plurality, not a commanding lead.  
-• High undecided share means volatility; consolidation by other camps could erode his edge.  
+Bearish signals  
+- USResist (2026-02-27): The Democratic field is undefined; Kentucky remains deeply Republican at the federal level, and no data on Booker’s margin or definitive frontrunner status was given.  
+- Lack of official candidate filing announcements for Booker; other potential contenders (e.g., Pam Stevenson) may split the vote.  
+- No publicly available quantitative polling data specifying Booker's exact lead or vote share.  
 
-Source credibility and recency: all polling and reporting are from February 2026 and appear methodologically sound, but no poll shows Booker above 35%.  
+Source credibility & recency  
+- All sources are within the past three weeks and from recognizable local/regional outlets or opinion sections. The op-ed and local news pieces signal momentum but lack hard polling numbers or fieldwide analysis.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 71% price implies traders believe Booker’s lead plus vote‐splitting yields a ~70/30 shot. Low $1857 volume and narrow spread suggest few participants but some consensus. The outcome is uncontroversial enough that no major information shock is expected before the primary, possibly deterring further volume.
+- The $0 volume and narrow spread imply the price was set by a single liquidity provider, not by consensus.  
+- A price of 85% could reflect an intuitive “he’s the only high-profile Democrat running” view, but without trading, it isn’t battle-tested by diverse market participants.  
+- Low engagement likely results from a combination of market obscurity and genuine uncertainty about the full candidate lineup.
 
 4. MISPRICING ASSESSMENT  
-No clear large mispricing (>20¢) emerges. The evidence suggests Booker has an advantage but still faces a contested primary with many undecided voters. A mid‐60s to low‐70s percent chance is reasonable. Lacking signs that traders are ignoring key data, there’s no strong case for a substantial correction.
+- There’s no robust polling or opponent profile to justify an 85% probability.  
+- The evidence suggests Booker is a leading candidate but does not quantify his lead or account for other entrants.  
+- Given the prolonged timeline until the August/May 2026 primary and an unclear field, assuming an 85% win probability seems inflated by at least ~20–25 points.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 40% (some polling suggests narrower win chances than 71%).  
-Magnitude of potential mispricing: 5¢ (unlikely to be off by more than a few cents).  
-Expected value = 0.40 × 5¢ = 2.0¢
+- Strength of evidence against 85%: ~30% (limited, qualitative backing; no firm polls)  
+- Estimated magnitude of mispricing: ~25 cents  
+- Expected value = 0.30 × 25 = 7.5 cents
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Recent polls show Booker leading a fragmented field with only ~30% support and 43% undecided, implying his win chance may be lower than 71% but not drastically so. There’s insufficient evidence of a large mispricing in this market.  
+EXPECTED_VALUE: 7.5  
+SUMMARY: While Booker has organizational momentum and favorable op-eds, there’s no concrete polling or full field analysis to support an 85% nomination probability. Zero trading volume suggests this price is a default rather than informed consensus, indicating likely overpricing.  
 CONFIDENCE: low
 
 ---
@@ -57,33 +62,29 @@ Title: Charles Booker, Pam Stevenson have our support for US Senate | Opinion
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: http://eu.courier-journal.com/story/opinion/contributors/2026/02/10/charles-booker-pam-stevenson-kentucky-us-senate-democrats/88299018007/
-Summary: The opinion piece endorses both Charles Booker and Pam Stevenson for the Democratic nomination in the Kentucky Senate race. The authors highlight Booker's strong grassroots support, favorable polling, and his connection with voters, particularly noting his involvement in the 2020 protests in Louisville. A recent poll indicates that Booker is leading in the Democratic primary and is competitive against the Republican frontrunner. The co-endorsement suggests that both candidates have significant merits, but Booker's energized campaign and broad appeal may position him favorably for the nomination. Overall, his viability as a candidate and the support he has garnered could indicate a strong chance of him becoming the Democratic nominee.
+Summary: The article indicates that Charles Booker is a strong and viable candidate in the Kentucky Senate race, currently leading in Democratic primary polling and maintaining a well-organized grassroots campaign. He resonates broadly across diverse voter groups and is considered a serious contender, even within a competitive primary. While the article does not explicitly confirm he will be the Democratic nominee, his polling strength and campaign momentum suggest a high likelihood of securing the nomination.
+
+Title: 2026 Democratic Primary Preview Series: Kentucky (Brief #14) - USRESIST NEWS
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.usresistnews.org/2026/02/27/2026-democratic-primary-preview-series-kentucky/
+Summary: The article discusses Kentucky's 2026 Democratic primary landscape, highlighting the retirement of Republican Senator Mitch McConnell and the challenges Democrats face in competing for his open seat. While Democrats have a foothold in statewide politics through Governor Andy Beshear, Kentucky remains a strongly Republican state at the federal level, with no Democrat winning a U.S. Senate race there since 1992. The primary race for the Senate seat will likely be competitive, but the article does not specify potential candidates, including Charles Booker. Given the state's partisan dynamics and the absence of detailed candidate information, it remains uncertain whether Charles Booker will secure the Democratic nomination for Senate in Kentucky.
+
+Title: Moderate Amy McGrath has just won the Democratic ...
+Author: Hij802
+URL: https://www.reddit.com/r/PoliticalDiscussion/comments/his2kb/moderate_amy_mcgrath_has_just_won_the_democratic/
+Summary: The article discusses Amy McGrath's victory in the Democratic primary for Kentucky's Senate seat, defeating progressive Charles Booker. While Booker gained significant momentum and close polling margins, experts suggest that neither candidate had a strong chance of defeating incumbent Mitch McConnell due to Kentucky's political landscape, characterized by polarization and Trump's popularity. Commentators note that Booker’s strong primary performance could boost his future political prospects, even if he doesn't secure the nomination. Overall, McGrath's win indicates the Democratic establishment's preference, but the race remains competitive given Kentucky's voting trends and McConnell's unpopularity. This context is relevant for assessing whether Booker might become the Democratic nominee in future elections.
 
 Title: Booker leans on grassroots, affordability in third Kentucky Senate bid | whas11.com
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.whas11.com/video/news/local/booker-makes-third-senate-bid-as-kentucky-democrats-trail-in-fundraising/417-051a465e-a1f8-45dc-aa8f-86c4a83d21ff
-Summary: Charles Booker is actively campaigning for the Democratic nomination for the U.S. Senate in Kentucky, emphasizing a grassroots approach and a focus on affordability. His campaign includes a "40 for 40" plan aimed at addressing cost-of-living issues, and he has made calls to abolish ICE. Booker is positioning himself against incumbent Mitch McConnell, leveraging a strategy that resonates with local voters. His reliance on grassroots support may play a crucial role in his bid for the nomination, making him a significant contender in the upcoming election.
+Summary: Charles Booker is actively campaigning in Kentucky's Senate race, emphasizing a grassroots approach, affordability, and a focus on cost-of-living issues. He has proposed the “40 for 40” plan and advocates for abolishing ICE. Booker is positioning himself as a progressive candidate, contrasting his campaign style with traditional political strategies, and is critical of Mitch McConnell’s playbook. While he is a prominent contender in the Democratic primary, the summary does not specify whether he has secured the nomination, but his active campaigning and platform suggest he is a leading candidate for the Democratic nomination.
 
-Title: Independent poll shows new leader in GOP race to succeed McConnell
-Author: Lucas Aulbach
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.record-courier.com/story/News/politics/elections/2026/02/05/andy-barr-takes-lead-in-new-poll-on-kentucky-us-senate-race/88524931007/
-Summary: The article discusses an independent poll indicating that Andy Barr has emerged as the leading candidate in the GOP race to succeed Mitch McConnell in Kentucky. While the focus is primarily on the Republican candidates, this development could impact the Democratic side, particularly Charles Booker. As the Democratic nominee, Booker's chances may be influenced by the strength of the GOP candidate and voter sentiment in the state. Understanding the dynamics of the GOP race, including Barr's position, could provide insights into the overall electoral landscape and Booker's potential viability as a nominee.
-
-Title: Kentucky 2026 Poll: GOP Voters Split in Three-Way Primary to Succeed McConnell - Emerson Polling
-Author: Camille Mumford
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/
-Summary: The Emerson College Polling survey indicates that Charles Booker currently leads the Democratic primary for the Senate nomination in Kentucky, with 30% of Democratic voters supporting him. His main competitor, Amy McGrath, has 19% support, while 43% of voters remain undecided. Notably, Booker has a strong lead among most age groups, except for voters aged 70 and over, who favor McGrath by a small margin. Given these dynamics, Booker's position as the frontrunner suggests he has a significant chance of becoming the Democratic nominee, but the high percentage of undecided voters could impact the final outcome as the primary approaches.
-
-Title: Charles Booker on Kentucky Senate race to unseat 'privileged ...
-Author: AOL
-URL: https://www.aol.com/charles-booker-kentucky-senate-race-135000740.html
-Summary: Charles Booker is a prominent candidate in the Kentucky Senate race, aiming to unseat the incumbent Republican, Rand Paul. His campaign focuses on addressing issues such as economic inequality, healthcare access, and social justice, positioning himself as a representative of the working class against what he describes as "privileged" politicians. Booker's grassroots approach and strong community ties have garnered significant support, particularly among younger voters and marginalized communities.
-
-As the Democratic primary approaches, Booker's ability to mobilize these demographics will be crucial in determining his chances of becoming the Democratic nominee. His campaign has also emphasized the importance of voter engagement and turnout, which could play a pivotal role in a state that has leaned Republican in recent elections. Observers note that if he can effectively communicate his vision and connect with a broader base, he may have a strong shot at securing the nomination. 
-
-Overall, Booker's campaign strategy, voter outreach efforts, and the political landscape in Kentucky will be key factors in predicting whether he will be the Democratic nominee for Senate.
+Title: Charles Booker prioritizes humanity, building a future for all | News | madisoncourier.com
+Author: BOB DEMAREE Paxton Media Group
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.madisoncourier.com/carroll_news_democrat/news/charles-booker-prioritizes-humanity-building-a-future-for-all/article_3d24a10d-de42-53fb-88b7-613251545a8e.html
+Summary: The webpage appears to be inaccessible or not fully loaded, so specific details from the article are unavailable. However, based on current political context and recent developments, Charles Booker is a prominent Democratic figure in Kentucky, known for his progressive platform and previous campaigns for U.S. Senate. While he has gained significant support within the Democratic Party and among voters seeking progressive change, there has been no official announcement confirming his candidacy for the upcoming Senate race. His prior campaigns suggest he is a strong contender and could potentially seek the nomination, but without official confirmation, it remains uncertain whether he will be the Democratic nominee for Kentucky's Senate seat.
 
 

@@ -1,47 +1,49 @@
 # Research: Will the Central Bank of Colombia announce an increase at the April meeting?
 
 **Market ID:** 0xd2a649593be744abdf506e46d7e482770f2071a5560f2e0c4639bdf2d6798718
-**Researched At:** March 3, 2026 at 04:23:15 AM UTC
+**Researched At:** March 9, 2026 at 03:02:35 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Central Bank of Colombia announce an increase at the April meeting?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 0.6¢
 
 ### Summary
 
-Research is mixed: a strong hawkish pivot in January supports a hike, but underlying inflation trends and split policymaker views temper expectations. The current 75% probability is plausible, with only a small (~5 cent) potential mispricing.
+Recent, credible surveys overwhelmingly predict a 50 bps hike in April, matching the 84.5% market probability; only one cautious take suggests a pause, which seems already priced in. No clear evidence of significant mispricing emerges, so any inefficiency appears minimal.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether BanRep will raise its policy rate at the April 30, 2026 meeting relative to the pre-meeting level. A “YES” means any increase (e.g. from 9.25% to ≥9.5%), “NO” means no change or a cut.
+The market asks whether Colombia’s central bank will announce a tightening (any increase in the policy rate) at its April 30, 2026 meeting. A “YES” resolves if the post-meeting rate exceeds the pre-meeting rate; “NO” if it stays the same or falls.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports a hike >75%):  
-• Bloomberg (Feb 23) reports a hawkish pivot on Jan 30, 2026 with an unexpected rate hike and signals of further tightening; peso resilience and carry-trade flows reinforce the case for another increase in April.  
-Bearish (suggests <75%):  
-• Investing.com (Feb 22) notes earlier cuts in April 2025 and an easing stance; without clear guidance or fresh inflation data, a hike remains “uncertain.”  
-• FXEmpire (Mar 1) highlights stable inflation (4.8%) and split policymaker views, suggesting an increase is unlikely absent new inflationary or external pressures.  
-Source credibility: Bloomberg is high-credibility and recent; investing.com and FXEmpire are reputable but give neutral/contrarian views. No single narrative dominates.
+Bullish (YES) evidence:  
+• Three independent surveys (Valora Analitik 2/17, La FM 2/17, Valora Analitik 2/18) unanimously project a 50 bps hike in April, taking the rate to ~11.50%.  
+• A March 3 Valora Analitik article underscores persistent inflation drivers (wages, services, deficits) making an April hike plausible.  
+
+Bearish (NO) evidence:  
+• A 2/23 BloombergLinea piece argues the bank may pause in April to assess the full impact of recent hikes.  
+
+All sources are recent (late Feb–early Mar 2026) and from established financial outlets. The bulk of evidence supports a high likelihood of an April increase; the lone cautionary view may already be priced in given the market’s sub-90% level.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 75% price could reflect broad consensus on continued tightening after the Jan 30 move, especially if traders expect persistent inflation. Alternatively, it may be driven by a few hawkish traders. Low volume means limited liquidity but the narrow spread suggests at least two-sided bets, implying some support for the current price.
+The tight 5 ¢ spread and 84.5% price likely reflect broad consensus, not just one trader. Low volume seems attributable to the outcome’s perceived obviousness rather than neglect. There’s no strong sign informed participants are missing key data.
 
 4. MISPRICING ASSESSMENT  
-Evidence is balanced. The bearish view lacks a catalyst for April, while the bullish view hinges on continued inflation or FX pressures that are not yet manifest. There is no glaring missing data (e.g. a surprise CPI print). A modest downward adjustment (5–10 cents) might be justifiable if one heavily weights the recent easing trend, but the hawkish signal in Jan 2026 likely already priced in.
+Given multiple surveys forecasting a hike, the 84.5% price is reasonable. The single “wait-and-see” bearish outlook appears already factored in by setting the price below 90%. No specific, credible evidence suggests a >20 ¢ mispricing; any residual inefficiency is likely a few cents at most.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~30% (mixed signals, no clear consensus that the market is wrong)  
-Magnitude of mispricing: ~5 cents (if one assumed the hike was only ~70% likely rather than 75%)  
-Expected value = 0.30 × 5 cents = 1.5 cents
+Strength of evidence for mispricing: 20%  
+Estimated magnitude of mispricing: 3 ¢  
+Expected value = 0.20 × 3 ¢ = 0.6 ¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Research is mixed: a strong hawkish pivot in January supports a hike, but underlying inflation trends and split policymaker views temper expectations. The current 75% probability is plausible, with only a small (~5 cent) potential mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 0.6  
+SUMMARY: Recent, credible surveys overwhelmingly predict a 50 bps hike in April, matching the 84.5% market probability; only one cautious take suggests a pause, which seems already priced in. No clear evidence of significant mispricing emerges, so any inefficiency appears minimal.  
+CONFIDENCE: medium
 
 ---
 
@@ -49,31 +51,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Colombia Interest Rate Decision
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://ca.investing.com/economic-calendar/colombian-interest-rate-decision-497
-Summary: The Banco de la República Colombia recently announced a lower-than-expected interest rate of 9.25% in its April 2025 decision, down from the previous 9.50%. Historically, the bank's rate has fluctuated around 9.50%, with recent cuts indicating a possible easing stance. Market expectations and recent rate trends suggest the central bank may consider maintaining or lowering rates further, especially if economic conditions or inflation pressures warrant. However, without explicit guidance or upcoming economic data, predicting an increase at the April meeting remains uncertain. Traders and analysts should monitor official statements and economic indicators for clearer signals.
+Title: BanRep volvería a aumentar con fuerza las tasas de interés en marzo por expectativas de mayor inflación
+Author: Valora Analitik
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://www.valoraanalitik.com/banrep-volveria-a-aumentar-con-fuerza-las-tasas-de-interes-en-marzo-por-expectativas-de-mayor-inflacion/
+Summary: The Banco de la República (Colombia's Central Bank) is expected to continue tightening monetary policy through 2024 due to persistent inflation concerns. The latest survey indicates a strong likelihood of a 75 basis point increase in March, raising the interest rate from 10.25% to 11%. Following this, smaller increases are projected for April (around 50 basis points to 11.50%) and June (at least 25 basis points to 11.75%). These increases are driven by high inflation expectations, with projections for February inflation reaching 5.76%, the highest since September 2024. Given the current trajectory and inflation outlook, it is plausible that the Central Bank may announce an additional rate hike at the April meeting to further curb inflationary pressures.
 
-Title: Colombia Hawkish Pivot Masks Underlying Woes for Peso - Bloomberg
-Author: Nicolle Yapur
+Title: Tasas de interés subirían a 11% en marzo, según encuesta del Banco de la República
+Author: La FM
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://amp.lafm.com.co/economia/tasas-interes-aumento-marzo-banco-republica-economia-gustavo-petro-390819
+Summary: The Banco de la República (Colombia's Central Bank) anticipates a potential increase in interest rates, with a median projection of a 75 basis point hike in March, raising the rate from 10.25% to 11%. Market expectations suggest that the policy will remain restrictive in the coming months, with further moderate increases—such as a 50 basis point rise in April—potentially bringing the rate to 11.50%. The Central Bank has indicated that additional rate hikes may be necessary if inflation expectations do not decrease, especially considering recent inflationary pressures influenced by wage increases and fiscal deficits. Given these signals, there is a significant likelihood that the Bank could announce an interest rate increase at the April meeting.
+
+Title: Analistas siguen aumentando sus expectativas de tasas de interés para 2026; proyección de inflación bajó
+Author: Valora Analitik
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.valoraanalitik.com/analistas-siguen-aumentando-expectativas-tasas-interes/
+Summary: The latest financial survey indicates that despite recent rate hikes, analysts expect the Banco de la República to continue increasing interest rates throughout 2026, with the rate projected to reach 11.50% by April 2026 and 11.75% by December. The central bank has already raised the rate to 10.25% in January 2023. Given these expectations and the ongoing inflation pressures (projected to remain above the target range until the end of 2026), it is likely that the Central Bank may announce another rate increase at the April meeting to curb inflation and stabilize the economy.
+
+Title: Inflación 2026: ¿Por qué el mercado no cede ante el Banco Central de Colombia?
+Author: 
 Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.bloomberg.com/news/articles/2026-02-23/colombia-hawkish-pivot-masks-underlying-woes-for-peso
-Summary: The Bloomberg article indicates that Colombia's peso has remained resilient despite economic and political challenges, largely due to a recent unexpectedly hawkish monetary policy shift by the Central Bank. On January 30, the bank implemented a larger-than-anticipated interest rate hike and signaled the possibility of further increases, which has helped stabilize the peso and support the carry trade. This aggressive stance suggests the Central Bank is committed to tightening monetary policy, making an interest rate increase at the upcoming April meeting plausible. However, ongoing economic pressures and government efforts to bolster dollar reserves could influence future decisions. Overall, the recent hawkish signals point toward a higher likelihood of an interest rate hike in April, contingent on economic data and inflation trends.
+URL: https://www.bloomberglinea.com/latinoamerica/colombia/inflacion-2026-por-que-el-mercado-no-cede-ante-el-banco-centra-de-colombia/
+Summary: The Colombian Central Bank's recent aggressive monetary policy actions, including a 100 basis point rate hike in January to 10.25%, aimed at controlling inflation, have not yet fully anchored inflation expectations. Despite these measures, market indicators and surveys suggest persistent inflation pressures, with expectations for 2026 remaining above the 3% target—around 6.3% to 6.4%. The market's cautious response indicates that investors and analysts are awaiting more concrete evidence of sustained inflation control before adjusting their outlooks. Given this context, it is uncertain whether the Central Bank will announce an additional rate increase at the April meeting, as it may prefer to observe the impact of current measures before making further adjustments.
 
-Title: Colombia Interest Rate & Central Bank Decisions | FXEmpire
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.fxempire.com/macro/colombia/interest-rate
-Summary: The Central Bank of Colombia maintained its benchmark interest rate at 9.25% in June 2025, with a split among policymakers regarding future moves. Recent inflation declined to 4.8%, driven by lower food and electricity prices, while economic activity grew by 2.7% year-on-year in May, supported by domestic demand. External factors such as global trade tensions and US policy normalization continue to influence monetary policy decisions. The Bank has indicated that future rate changes will depend on inflation trends, economic growth, and external risks. Given the current stability and cautious stance, an interest rate increase at the April meeting appears unlikely unless inflation or external conditions change significantly.
-
-Title: The Board of Directors of Banco de la República notifies updates to ...
-URL: https://www.banrep.gov.co/en/news/bdbr-notifies-updates-some-calendar
-Summary: The Banco de la República has updated its calendar for monetary policy meetings and related publications. The upcoming key meeting is scheduled for April 27, 2024, with the monetary policy interest rate decision announced on April 30, 2024. The Bank's decision will be communicated through a press release and press conference on the same day, with the Monetary Policy Report published two business days later. Notably, the Bank adjusts its meeting schedule to hold monetary policy decisions on the last business day of each month, and the timing of publications is aligned accordingly. Given these scheduled dates and the Bank's recent communication practices, any decision to increase the interest rate at the April meeting will likely be announced on April 30, 2024.
-
-Title: Latam Weekly: Banxico Guidance, Colombia and Peru GDP, and US ...
-Published Date: 2025-05-09T00:00:00.000Z
-URL: https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.latam-weekly.latam-weekly--may-9--2025-.html
-Summary: The Latam Weekly report indicates that Colombia's Q1 GDP is expected to show solid growth, with a rebound in March following weaker February figures. While the report emphasizes positive economic momentum in Colombia, it does not specify upcoming Central Bank decisions. However, the overall economic outlook suggests resilience, which could influence the Central Bank's stance. Given the recent growth data and the context of regional monetary policies, there is no immediate indication of an increase at the upcoming April meeting; instead, the focus remains on assessing ongoing economic trends and external factors such as US-China trade talks.
+Title: Colombia y México, los únicos países de América Latina en los que la inflación y las tasas están subiendo en 2026
+Author: Valora Analitik
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.valoraanalitik.com/colombia-y-mexico-los-unicos-paises-de-america-latina-en-los-que-la-inflacion-y-las-tasas-estan-subiendo-en-2026/
+Summary: The Colombian economy is experiencing persistent inflation driven by factors such as a significant increase in the minimum wage (23.7%), rising prices in sectors like services, transportation, and food, and ongoing adjustments in wages and prices. In response, the Banco de la República has already raised interest rates by 100 basis points to 10.25%, citing inflation expectations, inflation in services, and a growing current account deficit. Projections indicate inflation will remain elevated at around 6.3% by the end of 2026 before decreasing to 3.7% in 2027. Given these ongoing inflationary pressures and the recent rate hike, it is plausible that the Central Bank may consider further tightening at the upcoming April meeting to anchor inflation expectations and prevent further inflation persistence.
 
 

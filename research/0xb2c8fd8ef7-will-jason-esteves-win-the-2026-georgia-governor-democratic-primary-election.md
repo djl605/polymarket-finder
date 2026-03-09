@@ -1,54 +1,51 @@
 # Research: Will Jason Esteves win the 2026 Georgia Governor Democratic primary election?
 
 **Market ID:** 0xb2c8fd8ef77fbf037e184ff482e8422587682d55fe4a9c9c478ec973d1c98ed1
-**Researched At:** March 4, 2026 at 02:46:44 PM UTC
+**Researched At:** March 9, 2026 at 03:04:19 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jason Esteves win the 2026 Georgia Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Current research shows Esteves is an underdog behind higher-profile rivals with no polling indicating a breakout; a 15% win probability appears reasonable, and there’s no strong evidence of a large mispricing.
+Recent polls peg Esteves at ~3% in a seven-way race dominated by other candidates, yet the market assigns him a 20% win chance. The large spread between polling evidence and market price combined with low trading volume suggests significant overpricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Jason Esteves win the 2026 Georgia Democratic primary for governor?” A YES means Esteves emerges as the overall winner (including any runoff). A NO means any other candidate wins or no primary occurs.
+The market asks whether Jason Esteves will emerge as the winner of the Georgia Democratic gubernatorial primary on May 19, 2026 (including any run-off). A YES means he either wins outright with >50% or wins a post-primary run-off; a NO covers any other winner or no primary.  
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• Bluestein (1/26) reports Esteves has ramped up aggressive attacks to carve out a distinct niche and boost his visibility among Democratic voters.  
-• He has a base as a state senator and education advocate, which could translate into grassroots support if his messaging resonates.
+Bullish for Esteves:  
+• Mar 6 ad buy (Bluestein) signals he’s mounting a serious bid.  
+• Seven-way field means vote could splinter.  
 
-Bearish signals:  
-• Ballotpedia and CBS46 (2/26–3/3) identify Keisha Lance Bottoms and Geoff Duncan as the leading contenders in polls, fundraising, and media coverage, with Esteves trailing.  
-• No polling data or expert forecasts currently place Esteves above low-teens in win probability.
+Bearish vs 20% price:  
+• Feb 12 Online Athens poll: Bottoms ~40%, Thurmond ~?%, others tiny; Esteves ~3%.  
+• Ballotpedia: three established leaders in polling, fundraising, media; Esteves is a distant fourth/fifth.  
+• No new polling post-ad buy to justify a >6× jump from 3% to 20%.  
 
-Source credibility and recency: All articles are from reputable outlets (AJC, Ballotpedia, CBS46) dated January–March 2026. None provide polling that contradicts the market’s implied 15%.
+Sources are recent (Feb–Mar 2026) and credible (local pollster, Ballotpedia, AJC reporting). The bearish evidence is specific and concrete; bullish evidence is only campaign activity without measurable impact.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 15% price is consistent with an underdog in a crowded seven-way primary where two candidates are clearly leading.  
-• Low volume likely reflects limited public interest and the absence of clear polling to guide traders, not necessarily a huge information gap.  
-• Informed state-politics followers would know the frontrunners and likely peg Esteves’s odds in the low-teens.
+A 20% price could reflect a belief that late movers can surge in low-info fields or that Esteves could scrape into a run-off. But given low volume ($6.3K) and tight spread, it’s more likely one or two overconfident traders are setting the price. If the outcome were truly 20%, you’d expect heavier action from scalpers looking to sell into the strength.  
 
 4. MISPRICING ASSESSMENT  
-• No credible evidence suggests his win probability should be materially higher or lower than 15%.  
-• Given competing stronger names and lack of polling upside, a 15% chance seems like a fair consensus estimate.  
-• Absent new data (fundraising surges, standout polls, major endorsements), we lack justification for a >10-cent adjustment.
+Evidence points to his win probability being in the low single digits, not 20%. No credible data support a sudden surge. The poll gap is too wide for market traders to have overlooked—mispricing is likely.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (weak signals for mispricing)  
-• Magnitude of mispricing: 5 cents (max plausible error)  
-• Expected value = 0.20 × 5 = 1 cent
+Strength of evidence (polls vs. price): ~60%  
+Estimated magnitude of mispricing: ~15 cents  
+Expected value ≈ 0.60 × 15 cents = 9 cents  
 
-EXPECTED_VALUE: 1  
-SUMMARY: Current research shows Esteves is an underdog behind higher-profile rivals with no polling indicating a breakout; a 15% win probability appears reasonable, and there’s no strong evidence of a large mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 9.0  
+SUMMARY: Recent polls peg Esteves at ~3% in a seven-way race dominated by other candidates, yet the market assigns him a 20% win chance. The large spread between polling evidence and market price combined with low trading volume suggests significant overpricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,31 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Why Jason Esteves is sharpening his attacks in Georgia's governor's race - AJC.com
+Title: Jason Esteves jolts Democratic race for governor with first major ad buy
 Author: Greg Bluestein
-URL: https://www.ajc.com/politics/2026/01/why-jason-esteves-is-sharpening-his-attacks-in-georgias-governors-race/
-Summary: Jason Esteves is actively sharpening his campaign strategies and increasing his attacks on Democratic rivals, including former Lt. Gov. Geoff Duncan and ex-Atlanta Mayor Keisha Lance Bottoms. Facing a challenging position in polls, Esteves is emphasizing contrast to differentiate himself and appeal to voters. His campaign warns that his opponents' positions could jeopardize the party's chances in the general election. The race is competitive, with Esteves adopting a more aggressive approach to improve his prospects. While the outcome of the Democratic primary remains uncertain, his intensified campaign tactics suggest he is striving to secure the nomination by appealing to party voters and highlighting differences with his rivals.
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://m.ajc.com/politics/2026/03/jason-esteves-jolts-democratic-race-for-governor-with-first-major-ad-buy/
+Summary: Jason Esteves, a former state senator and Democratic candidate for governor, has made a significant move in the 2026 Georgia Democratic primary by launching his first major ad buy, signaling a strong campaign effort. His entrance and advertising strategy suggest he is actively competing for voter support in the primary race. However, there is no definitive information on his current polling or overall standing relative to other candidates. While his campaign activities indicate a serious bid, predicting his likelihood of winning the primary would require additional data on voter preferences, campaign momentum, and support from key demographics.
 
-Title: Georgia Governor Election Odds & Prediction 2026 | How 2026 Race is Trading at Prediction Markets
-Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.sportsbookreview.com/picks/more-sports/georgia-governor-election-odds-prediction-market-2026/
-Summary: The webpage discusses the 2026 Georgia gubernatorial race, highlighting recent prediction market trends and political dynamics. While the focus is on the general election and party prospects, it notes that Democrats, led by figures like former Atlanta mayor Keisha Lance Bottoms, are optimistic about flipping the governor's seat amid a recent leftward shift in Georgia's political landscape. The Democratic chance of winning the governorship has decreased from 61.6% to 51.4% over recent months, reflecting increased competition. The Republican primary is highly contested, with current lieutenant governor Burt Jones experiencing a decline in support after billionaire Rick Jackson entered the race. Although Jason Esteves is not mentioned in the webpage, the overall context suggests a competitive Democratic primary with potential for key candidates like Keisha Lance Bottoms. Therefore, predicting whether Jason Esteves will win the 2026 Democratic primary requires additional specific information about his candidacy, as the webpage does not provide details on him.
-
-Title: LIST: Candidates who have qualified in Georgia’s May primary
-Author: Tim Darnell
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://cbs46.com/2026/03/03/list-candidates-who-have-qualified-georgias-may-primary/
-Summary: The 2026 Georgia primary features several Democratic candidates vying for statewide offices, including the governor's race where Keisha Lance Bottoms, Geoff Duncan, Jason Esteves, and others are competing. Jason Esteves is running for governor as a Democrat, but the primary field also includes prominent figures like Bottoms and Duncan. Since the primary election is still upcoming and no polling data or recent campaign developments are provided, it is unclear who holds a leading position or has a higher chance of winning. Therefore, predicting whether Jason Esteves will win the Democratic primary for governor in 2026 remains uncertain at this stage.
+Title: Jason Esteves jolts Democratic race for governor with first major ad buy
+Author: Greg Bluestein
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://click-em.ajc.com/s/c/CKvS9wjFVmpvIWwi2Znsroc0Zj2QmY8VnVjufWnGQ2NTpKQPN4pi46e7CDKtPrOlk3ZPdCddsIis6Z9Ese27qjsR8h6TA8sGhxvKaYMVqwt-ApFz-1lk7mpU_r0lAHrWFeLyR-uG7xS3czPx9nlO9udB7cvJo_-an_fzgU5uPtFpu7TcePOKI2W7prHnX32esTOWa9EegZB9zf2cRVEeD64kL_uKOqzjGWJm3_WVWw-Vlp3zZm_TFhIFNBUzSMM3LQxv6k50-6uglL6kBDypVpG2FDBFA4D9GQQvzP6MmttXf637jRdqvctuYR9Dz8czVFqVX4TRYDsWXf__pvma5IOBTiwrSCJ-mgfRUAF3C8fbPvgNJVC0UGvYnY9LwgKOmmmZewdPoR40iK4WEFBY6E9oxUkhPrkhPRCDcRBa9hnbU5jn8xtGsk8ezXH46c0SGKAd1Oxi0nFX5ArZ2tu-kPAZN0xc2vpmGUY4sjXaEQ/AwsFYR9xOwa88ZfJNFIQFY2TCS8kdB4T/18
+Summary: Jason Esteves, a Democratic candidate for governor in Georgia, has recently made a significant impact in the race by making his first major ad buy, signaling strong campaign momentum. His entrance into the race and active campaigning suggest he is a notable contender. However, there is no definitive information in the article about his current polling status or overall chances of winning the Democratic primary. His recent campaign activities indicate he is a serious candidate, but predicting his victory would require additional data on voter support and primary dynamics.
 
 Title: Seven candidates are running in the Democratic primary for Georgia governor - Ballotpedia News
 Author: 
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://news.ballotpedia.org/2026/02/11/seven-candidates-are-running-in-the-democratic-primary-for-georgia-governor/
-Summary: Jason Esteves, a Georgia state senator, lawyer, and former Atlanta Public Schools member, is one of seven candidates in the 2026 Democratic primary for Georgia governor. Currently, four candidates—Keisha Bottoms, Geoff Duncan (who recently switched from Republican to Democrat), Jason Esteves, and Michael Thurmond—lead in polling, fundraising, and media coverage. While Esteves has a notable background in education and law, there is limited information on his current campaign momentum or voter support compared to frontrunners like Bottoms and Duncan. Given the crowded field and the early stage of the race, it remains uncertain whether Esteves will secure the nomination.
+Summary: Seven candidates are competing in the 2026 Democratic primary for Georgia governor, with Jason Esteves being one of them. Esteves, a former Georgia state senator, public school teacher, lawyer, and member of the Atlanta Public Schools board, emphasizes priorities such as lowering living costs, expanding healthcare access, supporting small businesses, increasing education funding, and overturning Georgia's abortion ban. While he is actively campaigning, the leading contenders—Keisha Bottoms, Geoff Duncan (who recently switched from Republican to Democrat), and Michael Thurmond—currently lead in polling, fundraising, and media coverage. Given the current landscape, Esteves faces significant competition, and his chances of winning will depend on his ability to increase visibility and support among Democratic primary voters.
 
-Title: Georgia gubernatorial election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Georgia_gubernatorial_election,_2026
-Summary: The webpage provides an overview of the 2026 Georgia gubernatorial election, including information on various state and local races, election procedures, and candidate details. However, it does not specify current polling data, candidate standings, or political developments related to Jason Esteves or the Democratic primary race. To assess whether Jason Esteves is likely to win the 2026 Democratic primary, one would need to consider factors such as his political background, campaign momentum, endorsements, fundraising, and voter support, none of which are detailed on this page. Therefore, predicting his primary victory based solely on this webpage is not feasible; additional current political analysis and polling data are necessary.
+Title: Who is leading Georgia governor's race? Recent polls favor Rick Jackson
+Author: Vanessa Countryman
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://amp.onlineathens.com/story/news/2026/02/12/who-is-leading-georgia-governors-race-recent-polls-favor-rick-jackson/88640694007/
+Summary: Current polling indicates that former Atlanta Mayor Keisha Lance Bottoms leads the Democratic primary for Georgia governor by a significant margin, with support around 40%, far ahead of her closest rival, Mike Thurmond. Other candidates, including Jason Esteves, have much lower support levels, with recent polls showing Esteves at approximately 3%. Given this data, Jason Esteves is unlikely to win the Democratic primary based on current voter preferences.
+
+Title: Georgia Governor Election Odds & Prediction 2026 | How 2026 Race is Trading at Prediction Markets
+Author: 
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.sportsbookreview.com/picks/more-sports/georgia-governor-election-odds-prediction-market-2026/
+Summary: The webpage discusses the current landscape of the 2026 Georgia gubernatorial race, highlighting the political dynamics and prediction market trends. It notes a recent shift toward Democratic optimism, with the party's chances of winning the governorship decreasing from 61.6% to 51.4% over a few months, reflecting a more competitive environment. Key Democratic figures, such as former Atlanta mayor Keisha Lance Bottoms, are considered potential candidates, though specific details about her candidacy are not provided. On the Republican side, the primary race is highly competitive, with Lieutenant Governor Burt Jones initially leading but facing challenges from billionaire Rick Jackson, who plans to self-fund his campaign and has Trump’s endorsement. The primary is scheduled for May 19, and a runoff would occur if no candidate secures over 50%. While Jason Esteves is mentioned as a Democratic contender, the webpage does not provide detailed information about his candidacy or prospects. Therefore, predicting whether Jason Esteves will win the 2026 Democratic primary remains uncertain based on the current information.
 
 

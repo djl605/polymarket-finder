@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the TN-05 House seat?
 
 **Market ID:** 0x71792f15b53b90c8c0f2d272337c5edd00c7dfe56d9f035fa2a8a726aca36b7f
-**Researched At:** March 1, 2026 at 06:07:59 AM UTC
+**Researched At:** March 9, 2026 at 03:02:10 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the TN-05 House seat?"
 
 ---
@@ -9,48 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-The 18.5% price aligns with an R +8 baseline district turned “competitive” by modest Democratic gains and Ogles’s vulnerabilities; no clear new information suggests a large mispricing.
+Public ratings classify TN-05 as “likely Republican,” implying ~20% Dem odds, which aligns closely with the 17.5% market price. DCCC optimism is balanced by structural Republican lean, and there’s no clear overlooked information to suggest a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will a Democrat win TN-05 on Nov. 4, 2026?” YES if the Democrat crosses the finish line first and is party-affiliated (ballot listing or caucus intent); NO if the Republican (or third party/independent who caucuses GOP) wins.
+The market asks whether the Democrat (Chaz Molder) will win TN-05 on Nov. 4, 2026. “YES” resolves if Molder (or another Democrat) wins the general election; “NO” if the Republican (incumbent Andy Ogles) or another non-Democrat wins.
 
 2. EVIDENCE EVALUATION  
-Bullish (dem win) evidence  
-• DCCC “Red to Blue” inclusion of Chaz Molder (Pamphleteer, Feb 24, 2026) signals heavy national resources against an R +8 baseline.  
-• Cook Political Report now marks TN-05 as competitive (DCCC press release, Feb 11, 2026), reflecting Ogles’s weak fundraising ($200 k) and ethics controversies.  
-• Local Democratic enthusiasm post-2025 special (CNN Dec 18, 2025) and citywide wins by Democrats suggest improved turnout operations.
+Bullish on Democrats:  
+•  DCCC has elevated Molder to its Red-to-Blue program, signaling resources, training, and fundraising (Feb 23 DCCC; Jones 2/23; Pamphleteer).  
+•  Cook Political Report and Inside Elections have shifted TN-05 from “solid R” to “likely R,” indicating enhanced competitiveness.  
+•  Ogles faces fundraising shortfalls and ethics controversies (DCCC 2/11), which typically depress incumbent reelection odds.
 
-Bearish (GOP retains) evidence  
-• District registration and prior performance remain R +8—a solid Republican cushion.  
-• Incumbency advantage of Ogles persists; fundraising gaps (even if small) and name recognition still favor him in a midterm.  
-• No redistricting has altered TN-05 boundaries to materially shift the partisan lean.
-
-Source credibility/recency  
-• DCCC materials are current but biased toward framing Republican weakness.  
-• The Pamphleteer and Cook shifts are recent (Feb 2026) and reflect insiders’ strategic decisions.  
-• The 2025 analyses add background on structural hurdles but no new data since late ’25.
-
-Nothing in these sources points to a >20 ppt flip chance; most imply a tough uphill battle with modest shifts.
+Bearish on Democrats / supports current 17.5% price:  
+•  All sources still characterize the district as “likely R” or historically GOP-leaning due to gerrymandered lines. “Likely R” classifications often map to ~15–25% win probability for the underdog.  
+•  Molder’s path remains uphill: no current public polling, potential intra-party primary competition, and an incumbent with previous strong margins.  
+•  Source biases: most details come from DCCC materials or friendly outlets, likely overstating flip chances; objective third-party ratings still lean Republican.
 
 3. MARKET EFFICIENCY ANALYSIS  
-An 18.5% price is consistent with an R +8 district that becomes merely “competitive” in insider models. Low volume likely reflects the fringe interest in a deep-red district, not a glaring arbitrage. A few well-informed traders (DCCC watchers) could set the price, but given the alignment with other forecasters (Cook’s “leans R”), the market’s view appears to echo broader consensus.
+•  A 17.5% price aligns with a “likely Republican” tilt (20% Democrat chance).  
+•  Low $0 volume and tight spread suggest one or two traders set the price, but it also matches publicly available political handicaps.  
+•  Informed traders may see little arbitrage opportunity because publicly discussed shift to “likely R” already implies ~20% for Dems.
 
 4. MISPRICING ASSESSMENT  
-No specific new data (e.g., a scandal so big it swings >20 points, or redistricting changes) is missing. All current evidence—structural lean, DCCC targeting, candidate profiles—seems already priced in. We see no credible drift to suggest the true probability is, say, 5% or 40%. The most charitable interpretation: informed traders see a low-probability but not negligible chance, and have set 18.5% accordingly.
+•  No clear, credible information appears missing from the 17.5% price.  
+•  The DCCC’s bullish framing is balanced by Cook and Inside Elections’ still-Republican lean, which the market reflects.  
+•  No technical resolution issues or time-bound misinterpretations are evident.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 10% (weak).  
-Magnitude if mispriced: 5 cents (unlikely to be more).  
-EV ≈ 10% × 5¢ = 0.5¢
+•  Strength of evidence against mispricing: 20% (the evidence largely confirms market consensus, not a gap).  
+•  Magnitude of potential mispricing: ~5 cents (17.5% vs. a best-guess 20% fair price).  
+•  EV = 20% × 5¢ = 1¢
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: The 18.5% price aligns with an R +8 baseline district turned “competitive” by modest Democratic gains and Ogles’s vulnerabilities; no clear new information suggests a large mispricing.  
+EXPECTED_VALUE: 1  
+SUMMARY: Public ratings classify TN-05 as “likely Republican,” implying ~20% Dem odds, which aligns closely with the 17.5% market price. DCCC optimism is balanced by structural Republican lean, and there’s no clear overlooked information to suggest a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -59,50 +56,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Ogles challenger Chaz Molder named priority candidate as DCCC eyes TN-5 flip
+Author: Vivian Jones
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://eu.tennessean.com/story/news/politics/2026/02/23/ogles-challenger-chaz-molder-named-priority-candidate-as-dccc-eyes-tn-5-flip/88785925007/
+Summary: The Democratic Congressional Campaign Committee (DCCC) has designated Chaz Molder, the Democratic candidate for Tennessee's 5th Congressional District, as a priority candidate in its "Red to Blue" program, signaling confidence in flipping the seat in the upcoming election. Molder, who is currently the mayor of Columbia, TN, and the frontrunner in the Democratic primary, has received substantial campaign support, including staffing, training, fundraising, and strategic advice. He faces Republican incumbent Andy Ogles in the general election. Although the district has historically favored Republicans due to gerrymandering, Molder's prior electoral experience and the DCCC's backing suggest a potential shift, especially if Democratic efforts continue to gain momentum.
+
 Title: Democrats Target TN D-5 to Regain House Majority
 Author: The Pamphleteer
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://pamphleteer.co/newsletter/democrats-target-tn-d-5-to-regain-house-majority/
-Summary: The Democratic Party is focusing on Tennessee's 5th Congressional District (TN-05) as a key target to regain House majority, currently held by Republican Andy Ogles. Despite the district's Republican lean (R +8), the Democratic Congressional Campaign Committee (DCCC) has included Democratic candidate Chaz Molder, the mayor of Columbia, in its "Red to Blue" program, which aims to provide additional resources to competitive races. Molder's background includes winning the mayoral seat in a traditionally Republican area, which may bolster his appeal. The DCCC's strategic investment in this race indicates a serious effort to challenge Ogles and potentially flip the seat, making it a significant contest to watch in the upcoming election.
+Summary: The Democratic Party is actively targeting Tennessee’s 5th Congressional District (TN-05), a traditionally Republican-leaning area that includes parts of Nashville and surrounding counties. The Democratic Congressional Campaign Committee has designated this seat as a priority for flipping, with Chaz Molder, the mayor of Columbia, TN, identified as the leading Democratic candidate. Molder has a record of winning in tough districts and is considered the party’s top contender, though he faces competition from other Democratic candidates, including Nashville Councilmember Mike Cortese. On the Republican side, incumbent Representative Andy Ogles faces challenges from Charlie Hatcher and others, with concerns about his fundraising and past controversies potentially weakening his position. Overall, while the district remains solidly Republican, the Democrats’ focused efforts and Molder’s profile suggest a strategic push to flip the seat, though it remains a competitive race.
+
+Title: Chaz Molder Added to DCCC’s Coveted ‘Red to Blue’ Program - DCCC
+Author: jalango@dccc.org
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://dccc.org/chaz-molder-added-to-dcccs-coveted-red-to-blue-program/
+Summary: Chaz Molder, a strong Democratic candidate and mayor of Columbia, Tennessee, has been added to the DCCC’s competitive ‘Red to Blue’ program, indicating significant support from the Democratic Congressional Campaign Committee. Molder has a proven track record of winning in a historically Republican-leaning district (TN-05), having defeated an incumbent Republican to become the youngest mayor in Columbia’s history. The race for TN-05 is increasingly viewed as winnable for Democrats, with political analysts like Cook Political Report and Inside Elections shifting the race in favor of Democrats. Molder’s local leadership, community engagement, and campaign experience suggest he has a solid chance to flip the district, especially as national prognosticators now see the seat as a potential Democratic pickup in the upcoming election.
 
 Title: Andy Ogles and Cory Mills Poised to be Most Unelectable Republicans in Congress - DCCC
 Author: jalango@dccc.org
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://dccc.org/andy-ogles-and-cory-mills-poised-to-be-most-unelectable-republicans-in-congress/
-Summary: The Democratic Party's chances of winning the TN-05 House seat appear to be improving, primarily due to the vulnerabilities of incumbent Republican Andy Ogles. Recent reports highlight significant issues for both Ogles and fellow Republican Cory Mills, including weak fundraising and ethics controversies. Ogles has raised only $200,000 amidst allegations of campaign finance violations, while Mills has faced serious allegations including domestic violence and stolen valor, resulting in a mere $60,000 raised last quarter.
+Summary: The webpage reports that Republican incumbents Andy Ogles and Cory Mills are facing significant challenges in their re-election bids due to weak fundraising and ethics issues, including campaign finance violations, allegations of domestic violence, stolen valor, and shady business dealings. Both have seen declining support within their party, with no contributions from key GOP fundraising committees. Recent political analyses, such as the Cook Political Report, have shifted their districts from "solid" to "likely" Republican, indicating increased vulnerability. Democratic strategists see potential to flip these districts in 2026, especially given the incumbents' vulnerabilities and the Democrats' focus on strong candidate recruitment and fundraising. This context suggests that the Democrats have an opportunity to contest and possibly win these seats, including TN-05, in future elections.
 
-These challenges have led to a shift in predictions by the Cook Political Report, now considering TN-05 a competitive district for Democrats in the upcoming 2026 midterms. The Democratic Congressional Campaign Committee has also included this district on its list of "districts in play," indicating a strategic focus on unseating Ogles. Given these factors, the Democratic Party may have a viable opportunity to win the TN-05 seat in the next election.
-
-Title: What would it take for Democrats to win the 5th, 6th and 9th districts ...
-Author: Dwayne Yancey
-Published Date: 2025-12-09T12:00:00.000Z
-URL: https://cardinalnews.org/2025/12/09/what-would-it-take-for-democrats-to-win-the-5th-6th-and-9th-districts-as-currently-drawn-heres-the-math/
-Summary: The article discusses the factors influencing Democratic chances in specific districts, including the 5th, 6th, and 9th districts. To predict whether the Democratic Party will win the TN-05 House seat, it is essential to consider demographic trends, voter turnout, and historical voting patterns in the area. The analysis suggests that Democrats would need to focus on increasing voter engagement, addressing local issues that resonate with constituents, and potentially adjusting their campaign strategies to appeal to a broader audience. Additionally, understanding the political landscape and the influence of key local figures could play a significant role in shaping the outcome. For a more detailed prediction, examining recent election results and shifts in voter sentiment in TN-05 would be crucial.
-
-Title: In a close 2025 defeat, Democrats see the beginnings of a 2026 red ...
-Author: John King
-Published Date: 2025-12-18T12:00:00.000Z
-URL: https://www.cnn.com/2025/12/18/politics/tennessee-midterm-elections-2026-aotm
-Summary: The article discusses the recent dynamics in Tennessee's 7th Congressional District, highlighting a special election where the Democratic candidate lost by 9 points, a significant improvement from a 22-point loss a year prior. This shift has sparked optimism among local Democrats, who are energized to make Nashville and its suburbs a battleground in the upcoming 2026 midterms. Key figures, like Megan Schwalm and Lisa Quigley, express a mix of hope and concern, acknowledging the challenges posed by gerrymandering but emphasizing the importance of strategic campaigning and mobilization. The growing enthusiasm among Democrats suggests potential for a competitive race for the TN-05 House seat, making it a focal point for future electoral efforts.
-
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:07:45.531Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses the key U.S. House seats to watch in the 2026 elections, focusing on factors that could influence party control. While it does not specifically mention the TN-05 House seat, it provides insights into the broader electoral landscape that could be relevant for predicting outcomes in specific districts like TN-05.
-
-Key points to consider for TN-05 include:
-
-1. **Redistricting Effects**: The article touches on redistricting, which can significantly alter the political dynamics of a district. Understanding any recent changes to TN-05's boundaries could provide insight into its competitiveness.
-
-2. **Political Climate**: The overall political environment, including the performance of the Democratic Party in previous elections and current approval ratings, will impact their chances in TN-05. The article highlights the importance of local and national trends in shaping voter sentiment.
-
-3. **Candidate Dynamics**: The potential candidates for both parties, their appeal, and campaign strategies will be crucial. The article mentions notable figures and races, suggesting that candidate strength can sway election outcomes.
-
-4. **Voter Turnout**: Historical turnout rates in TN-05 and the mobilization efforts by both parties will be critical. The article emphasizes the role of voter engagement in determining election results.
-
-5. **National Trends**: The article discusses how national issues and party strategies could influence local races. Observing how these factors play out in Tennessee could provide clues about the Democratic Party's chances in TN-05.
-
-
+Title: Former US Rep. Jim Cooper backs Chaz Molder in Ogles challenge
+Author: Vivian Jones
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://eu.commercialappeal.com/story/news/politics/2026/02/09/former-us-rep-jim-cooper-backs-chaz-molder-in-ogles-challenge/88584480007/
+Summary: Former U.S. Rep. Jim Cooper has endorsed Democrat Chaz Molder in the race to challenge Republican incumbent Andy Ogles for Tennessee's 5th Congressional District seat. The race has gained attention as the Cook Political Report shifted its rating from "solid Republican" to "likely Republican," indicating increased competitiveness. Molder's campaign is supported by the Democratic Congressional Campaign Committee, which aims to flip the seat in 2026. Cooper's endorsement highlights growing Democratic efforts to unseat Ogles, who has maintained strong margins in recent elections. While the district has been historically Republican, recent redistricting and shifting political dynamics suggest the race could be more competitive than in previous years.
 
 

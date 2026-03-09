@@ -1,52 +1,50 @@
 # Research: Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?
 
 **Market ID:** 0x78e794527d21a251948dba9042c49197dc783349d76742daba2d2f048b707c29
-**Researched At:** March 2, 2026 at 02:54:26 PM UTC
+**Researched At:** March 9, 2026 at 03:02:46 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Gavin McKenna be drafted 1st overall in the 2026 NHL Draft?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.5¢
 
 ### Summary
 
-Despite strong recent performances and broad support in credible mock drafts, draft lottery mechanics and competing prospects justify the market’s 60.5% price. There’s no clear sign of a large mispricing.
+Current scouting reports firmly place McKenna as the leading candidate, while standard uncertainties in prospect development justify a ~30% counterweight; together these support a ~68% market price and imply no actionable mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Gavin McKenna will be selected first overall at the 2026 NHL Draft (June 26–27, 2026). A YES requires that the draft’s No. 1 pick is definitively McKenna, while any other player—or ambiguity by July 12, 2026—resolves as NO/Other.
+The market asks whether Gavin McKenna will be selected first overall at the June 26–27, 2026 NHL Draft. A resolution of “YES” requires that on draft day a team uses the No. 1 pick on McKenna; a “NO” outcome covers any other player being picked first or, in the rare event of cancellation or ambiguity past July 12, resolution to “Other.”
 
 2. EVIDENCE EVALUATION  
-Bullish evidence:  
-• Feb 27, 2026 Yahoo Sports mock has McKenna as the leading candidate, citing his recent play, team needs, and comparisons to fellow prospects Stenberg and Verhoeff.  
-• Feb 22 piece (Canucks Army) highlights a record-setting eight-point game and 41 points in 27 NCAA contests, suggesting he’s become “indisputable” as the top pick.  
-• NHL.com (Sept 2025) and NHL.com (Jan 2025) describe McKenna as a “generational player,” dominating CHL/WHL and shining at WJC, indicating long-term consensus on his elite status.  
+Bullish evidence for McKenna >68%:  
+• Sporting News Canada (Mar 3, 2026): McKenna is the consensus No. 1 prospect, bolstered by a 10-point weekend and strong scouting reports.  
+• Onward State (Feb 27, 2026): He ranks top among NCAA freshmen in scoring and has standout highlight games. Comparisons to past No. 1 picks underscore that his trajectory is in line with prior first-overall selections.
 
-Bearish/uncertainty factors:  
-• Other top prospects (Ivar Stenberg, Keaton Verhoeff) remain in contention.  
-• Draft dynamics (lottery results, team positional needs, potential trades) introduce unpredictability.  
-• No reported injuries yet, but future performance dips or team strategies could alter intentions.  
+Bearish/uncertainty evidence:  
+• USA Today / Worldnews articles (Mar 4, 2026): Emphasize developmental variability; note top prospects often have “growth questions” and that physical maturation, injuries, or other college players could leapfrog him. No specific competitor named, but the general volatility of player development implies nonzero risk he can be passed over.  
+• No single source gives odds, and none mention a supermajority consensus above ~70–75%.  
 
-All sources are recent (late Feb 2026 or earlier) and from credible outlets (NHL.com, Yahoo Sports). None implies that his status is locked-in at >80%, and the presence of rival prospects and draft contingencies tempers certainty.
+Source credibility and recency: all articles are from late February to early March 2026, high recency. Sporting News Canada and Onward State are niche but credible for draft scouting; USA Today is mainstream but offers general uncertainty rather than specific counterarguments.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 60.5% probability fits a scenario where informed traders recognize McKenna as the current favorite but still assign material risk to lottery variability, team fit, or surprise draft moves. The low volume could reflect general consensus rather than neglect—if the outcome seems straightforward, few participants need to trade.
+A 68% price aligns with a view that McKenna is the favorite but recognizes ~30% chance of surprise (injury, other prospects, team needs). Low $2.3K volume and narrow spread suggest a few model-driven or fan traders set this price; however, the draft market’s relative obscurity may mean that most hockey-draft professionals haven’t engaged here, leaving room for small inefficiencies but not large ones.
 
 4. MISPRICING ASSESSMENT  
-No clear, overlooked evidence suggests a large gap between the 60.5% price and true odds. While McKenna’s surge boosts his probability above 50%, lingering uncertainties around lottery and team preference justify a mid-60s valuation. There is no indication of a >20-point mispricing.
+No single piece of credible, specific information appears omitted. Traders likely priced in both his top-prospect status and standard draft-day uncertainties. The evidence neither indicates a >20-point gap (e.g., that he is virtually certain or a longshot). The spread between bullish and bearish points (roughly 75% top‐board probability vs. 60–65% allowance for risk) roughly brackets the 68% price.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of overlooked evidence: 30% (some bullish data might slightly exceed market view, but not decisively)  
-Estimated magnitude of mispricing: 5 ¢ (if market mildly undervalues McKenna)  
-Expected value = 30% × 5 ¢ = 1.5 ¢
+Strength of evidence that price is wrong: ~30% (no clear mispricing signal).  
+Potential magnitude of mispricing if any: ~5¢ (price maybe 65–70%, but unlikely outside this).  
+Expected value ≈ 30% × 5¢ = 1.5¢
 
 EXPECTED_VALUE: 1.5  
-SUMMARY: Despite strong recent performances and broad support in credible mock drafts, draft lottery mechanics and competing prospects justify the market’s 60.5% price. There’s no clear sign of a large mispricing.  
-CONFIDENCE: low
+SUMMARY: Current scouting reports firmly place McKenna as the leading candidate, while standard uncertainties in prospect development justify a ~30% counterweight; together these support a ~68% market price and imply no actionable mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -54,41 +52,38 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: NHL mock draft: Gavin McKenna inches closer to reclaiming the top pick - Yahoo Sports
-Author: Eric Cruikshank, The Hockey News Fri, February 27, 2026 at 11:06 AM UTC · 7 min read
+Title: 2026 NHL Draft Rankings: Gavin McKenna, Ivar Stenberg continue star as top prospects on big board | Sporting News Canada
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.sportingnews.com/ca/nhl/news/2026-nhl-draft-rankings-top-prospects-big-board/5a96d7a86b347e17ade228d3
+Summary: Gavin McKenna is currently ranked as the top prospect for the 2026 NHL Draft, maintaining his position at the forefront of the big board. Standing 5'11" and weighing 170 pounds, he plays as a left winger for Penn State in the NCAA. His recent performance has been impressive, notably achieving a 10-point weekend against Ohio State after the World Juniors, which has further solidified his status as a leading candidate for the first overall pick. Given his consistent top ranking, strong NCAA performance, and the high regard from NHL scouting reports, there is a significant likelihood that Gavin McKenna could be drafted first overall in 2026.
+
+Title: Sports News, Scores, Predictions and Analysis - USA TODAY
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: http://sportswire.usatoday.com/story/sports/nhl/draft/2026/03/04/nhl-draft-rankings-gavin-mckenna-prospects-questions/88974198007/
+Summary: The webpage provides a broad overview of recent sports news, including updates on various leagues, tournaments, and player performances across multiple sports such as hockey, basketball, football, tennis, and more. However, it does not contain specific information about Gavin McKenna or details related to his prospects in the 2026 NHL Draft. To assess whether Gavin McKenna might be drafted first overall, one would need to consider his performance, scouting reports, and rankings from NHL draft analysts, none of which are included on this page.
+
+Title: NHL draft rankings: Gavin McKenna, top prospects aren't perfect
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://eu.usatoday.com/story/sports/nhl/draft/2026/03/04/nhl-draft-rankings-gavin-mckenna-prospects-questions/88974198007/
+Summary: The article discusses the inherent imperfections in top NHL prospects' games, emphasizing that even elite players like Connor McDavid or Sidney Crosby have weaknesses. It highlights that prospects, including Gavin McKenna, are still developing physically, mentally, and tactically at ages 17-18. While specific details about McKenna's skills or draft position are not provided, the focus on growth potential and the variability in player development suggests that predicting McKenna's likelihood of being drafted first overall in 2026 remains uncertain. His future draft position will depend on his continued development and performance leading up to the draft.
+
+Title: NHL draft rankings: Biggest question for Gavin McKenna and top players - Worldnews.com
+Author: system
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://article.wn.com/view/2026/03/04/NHL_draft_rankings_Biggest_question_for_Gavin_McKenna_and_to/
+Summary: The article discusses the NHL draft rankings and highlights the key prospects, including Gavin McKenna. While it emphasizes the biggest questions surrounding McKenna and other top players, it does not definitively state whether he will be drafted first overall in the 2026 NHL Draft. The focus is on evaluating his potential and the uncertainties that could influence his draft position, suggesting that his selection as the first overall pick remains uncertain and depends on team evaluations and draft day decisions.
+
+Title: Comparing Gavin McKenna To Previous Top NHL Prospects In College Hockey | Onward State
+Author: Michael Zeno
 Published Date: 2026-02-27T00:00:00.000Z
-URL: https://sports.yahoo.com/articles/nhl-mock-draft-gavin-mckenna-110600172.html
-Summary: The article discusses the prospects for the 2026 NHL Draft, highlighting Gavin McKenna as a leading candidate for the first overall pick. As the draft approaches, McKenna's performance and potential are under scrutiny, especially in light of the NHL trade deadline and the return from the Olympic break. The draft class also includes notable players like Ivar Stenberg and Keaton Verhoeff, but McKenna is positioned as a standout talent. Factors influencing his likelihood of being drafted first overall include his recent performances, team needs, and comparisons with other top prospects. Overall, McKenna's skills and the evolving dynamics of the draft will play a crucial role in determining his draft position.
+URL: https://onwardstate.com/2026/02/27/comparing-gavin-mckenna-to-previous-top-nhl-prospects-in-college-hockey/
+Summary: Gavin McKenna, an 18-year-old freshman from Whitehorse, Yukon, has emerged as a top contender for the 2026 NHL Draft's first overall pick. His recent performances, including a record-breaking eight-point game and a game-winning overtime goal, have significantly boosted his profile. Statistically, he ranks fifth in college hockey points and second in points per game among freshmen, indicating his strong offensive capabilities. 
 
-Title: Gavin McKenna’s recent production could make him the indisputable first overall pick
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://canucksarmy.com/news/gavin-mckenna-recent-production-indisputable-first-overall-pick-2026-nhl-draft
-Summary: Gavin McKenna's recent performance in the NCAA has significantly boosted his prospects for being the first overall pick in the 2026 NHL Draft. In a standout game against Ohio State, he recorded an impressive eight points, setting a new Penn State record for points in a single game. This performance has propelled him to second in the NCAA for points per game, with a total of 41 points (12 goals and 29 assists) in 27 games.
+However, comparisons with other top college prospects like Macklin Celebrini and Adam Fantilli highlight the high standards and expectations for the top draft spot. Celebrini, who won the Hobey Baker Award and was drafted first overall in 2023, set a high benchmark with his immediate impact and NHL success. Fantilli also demonstrated significant potential in his college career.
 
-Initially, there were doubts about his ability to secure the top draft position, but his recent surge in production has alleviated those concerns. McKenna's consistent scoring and playmaking abilities, particularly in high-stakes games, suggest he is solidifying his status as a top prospect. As he continues to perform at this level, he is increasingly likely to be considered the indisputable first overall pick in the upcoming draft.
-
-Title: Should the Canucks draft Gavin McKenna if they get the No. 1 pick? | Ottawa Sun
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: http://www.ottawasun.com/sports/hockey/nhl/vancouver-canucks/2026-nhl-draft-should-canucks-pick-gavin-mckenna
-Summary: I am sorry, but this document does not contain any information that could be relevant to predicting whether Gavin McKenna will be drafted 1st overall in the 2026 NHL Draft. The document is a news article from the Ottawa Sun, but it only contains links to other articles and advertisements.
-
-
-Title: McKenna, projected No. 1 pick in 2026 NHL Draft, quickly wowing ...
-Published Date: 2025-09-29T00:00:00.000Z
-URL: https://www.nhl.com/news/projected-top-pick-gavin-mckenna-quickly-wowing-penn-state-university
-Summary: Gavin McKenna, a freshman forward at Penn State University, is currently projected to be the No. 1 pick in the 2026 NHL Draft. His impressive performance during preseason practices has highlighted his exceptional skill, work ethic, and unique game intelligence. Coach Guy Gadowsky praised McKenna for his speed, conditioning, and ability to navigate game situations effectively, describing him as a "generational player." 
-
-Last season, McKenna dominated the Canadian Hockey League, earning player of the year honors in the CHL and the WHL, where he recorded 129 points (41 goals, 88 assists) in just 56 games. He acknowledges the transition to NCAA hockey, noting the increased size and speed of players compared to the WHL, which may present challenges. However, his strong performance and adaptability suggest he is well-positioned to maintain his status as a top prospect leading up to the draft. 
-
-Overall, McKenna's combination of talent, work ethic, and positive demeanor makes him a strong candidate for being drafted first overall in 2026.
-
-Title: McKenna, projected top pick in 2026 NHL Draft, impressing at WJC
-Published Date: 2025-01-01T00:00:00.000Z
-URL: https://www.nhl.com/news/projected-top-2026-pick-gavin-mckenna-impressing-at-world-juniors
-Summary: Gavin McKenna, a 17-year-old forward, is currently projected to be the top pick in the 2026 NHL Draft, showcasing significant talent at the 2025 IIHF World Junior Championship (WJC). As the youngest player on Canada's roster, he has impressed coaches and teammates alike with his offensive creativity and playmaking abilities. McKenna has already made a mark in the Western Hockey League (WHL), leading the league with 60 points in just 30 games this season and previously earning rookie of the year honors.
-
-His performance at the WJC includes one goal and 17 shots on goal over four games, where he has played a prominent role on the team. Coaches have noted his exceptional vision and playmaking skills, comparing him to other top talents like Connor McDavid and Connor Bedard. While he is still working on his defensive game, his offensive prowess and ability to perform under pressure suggest a strong likelihood of being drafted first overall, provided he continues to develop and maintain his current trajectory.
+While McKenna's current trajectory and skill level position him as a strong candidate for the top pick, the decision will depend on his continued development, performance in upcoming seasons, and how NHL scouts evaluate his potential relative to other prospects.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?
 
 **Market ID:** 0x6a9cec83f126fe719234360176ec90d6e9ddf7738dd18fc24591acfa4ffeb438
-**Researched At:** March 1, 2026 at 06:10:02 AM UTC
+**Researched At:** March 9, 2026 at 03:04:23 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?"
 
 ---
@@ -9,45 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 0.0¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Local reporting details active filings by other Republicans but none by Blas Jr., suggesting he’s not yet a frontrunner; a crowded field implies roughly equal win odds per candidate, making the 23% price reasonable. No specific polling or endorsement data indicates a material mispricing.
+No recent reporting offers data on Blas Jr.’s support, endorsements, or polling, so an 18% win probability is a reasonable placeholder in a multi-candidate GOP field. With negligible volume and no clear frontrunner, there’s no credible evidence of a sizable mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Frank F. Blas Jr. win the August 1, 2026 Guam Republican gubernatorial primary?” It resolves YES if he is the overall winner (including any run-off), NO otherwise.  
+The market asks whether Frank F. Blas Jr. will emerge as the winner of the August 1, 2026 Republican primary for Governor of Guam. A “YES” resolution requires that Blas Jr. place first in that primary (including any run-off), while “NO” covers any other candidate or no primary.
 
 2. EVIDENCE EVALUATION  
-Bearish points (against Blas Jr. winning):  
-• Recent local coverage (Pacific Daily News, Guam Daily Post) highlights early filings by San Agustin–San Nicolas and Ada Calvo, with dozens picking up packets—no mention of Blas Jr.’s own filing or campaign activity, suggesting he hasn’t yet staked out a high-profile position.  
-• Crowded field: multiple credible contenders have already emerged; vote-splitting makes it harder for any one candidate.  
-
-Bullish/supporting 23%:  
-• A fragmented primary means the winner could prevail with a plurality well under 50%; if there are 4–5 serious candidates, a ~20–25% win probability per candidate is mathematically plausible.  
-• No polling yet, so the market may simply be using a “baseline” equal-share assumption among leading Republicans.  
-
-Source credibility and recency: All reports are from February 2026 by established Guam outlets. No direct polling or endorsements data exist.  
+• Evidence for mispricing (bearish on YES):  
+  – None of the five recent news pieces mention Blas Jr.’s polling, endorsements, fundraising or base support, suggesting zero public signal that he’s leading.  
+  – The first‐to‐file team (San Agustin–San Nicolas) and Ada-Calvo filings get prominent coverage, implying they may be front-runners.  
+  – Gambit Forecaster’s March 2026 report covers Senate and governor races broadly but omits Blas Jr., indicating he’s not yet seen as a key player.  
+• Evidence supporting 18% (bullish on YES as reasonable):  
+  – The absence of any data on Blas Jr. means his probability is highly uncertain; 18% is a plausible low‐single‐digit chance in a multi-candidate field.  
+  – Low volume and tight spread suggest this is a “placeholder” price set by a small number of traders, consistent with little information available.  
+• Source credibility and recency:  
+  – All sources are from late February to early March 2026, so recency is good, but none provide candidate‐specific metrics.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• Interpretation for 23%: With ~4–5 candidates, equal-split odds (~20–25%) match the market.  
-• Informed-trader activity: Low volume could mean few traders care, but the price aligns with a neutral, crowd-splitting default.  
-• Obviousness: The lack of polling and absence from news argue that the market is not overlooking a major development—it’s simply pricing a multi-way race.  
+• Justification for 18%: in a field of 4–6 GOP candidates, an 18% implied probability roughly corresponds to “one in five” chance—consistent with no one obviously ahead.  
+• Consensus vs. idiosyncratic view: volume = $0 suggests the price reflects one or two initial orders rather than broad consensus.  
+• Low volume likely stems from lack of data on Blas Jr. rather than consensus that he’s a fringe candidate.
 
 4. MISPRICING ASSESSMENT  
-• No concrete data (polls, fundraising, endorsements) points to a clear deviation from 23%.  
-• The market appears neither obviously too high nor too low given the information vacuum.  
-• No specific, credible evidence that Blas Jr.’s true chances differ materially from ~23%.  
+• No specific evidence is missing that would push his win probability significantly above or below ~18%.  
+• The uncertainty is high, but nothing indicates a >20 cent mispricing.  
+• The most charitable interpretation: traders set a neutral low‐probability estimate in absence of data.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 20% (low confidence in any missing insight)  
-Magnitude of mispricing = 0¢ (no clear mispricing to exploit)  
-Expected value = 20% × 0¢ = 0.0¢  
+• Strength of evidence that price is wrong: ~20% (very limited direct evidence).  
+• Magnitude of possible mispricing: ≤5 cents.  
+• Expected value: 20% × 5 cents = 1 cent.
 
-EXPECTED_VALUE: 0.0  
-SUMMARY: Local reporting details active filings by other Republicans but none by Blas Jr., suggesting he’s not yet a frontrunner; a crowded field implies roughly equal win odds per candidate, making the 23% price reasonable. No specific polling or endorsement data indicates a material mispricing.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: No recent reporting offers data on Blas Jr.’s support, endorsements, or polling, so an 18% win probability is a reasonable placeholder in a multi-candidate GOP field. With negligible volume and no clear frontrunner, there’s no credible evidence of a sizable mispricing.  
 CONFIDENCE: low
 
 ---
@@ -56,64 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: 'A Guam that succeeds': Blas, Okada open gubernatorial campaign headquarters in Hagåtña | News | guampdn.com
+Author: Jerick Sablan Pacific Daily News
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://www.guampdn.com/news/a-guam-that-succeeds-blas-okada-open-gubernatorial-campaign-headquarters-in-hag-t-a/article_1d62c70e-f012-490a-8532-91b6fefb57d2.html
+Summary: The article reports on the opening of gubernatorial campaign headquarters in Hagåtña by candidates Blas and Okada, signaling active campaign efforts for the upcoming election. While it highlights their campaign activities and the political landscape in Guam, it does not provide specific information about Frank F. Blas Jr.'s prospects or strategies for the 2026 Guam Republican primary election. Therefore, it offers limited insights into predicting whether Blas Jr. will win the primary, as it lacks details on his campaign platform, support base, or electoral dynamics relevant to that race.
+
 Title: San Agustin-San Nicolas team first to file 2026 gubernatorial candidacy; Ada-Calvo to file Wednesday | News | guampdn.com
 Author: Pacific Daily News
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.guampdn.com/news/san-agustin-san-nicolas-team-first-to-file-2026-gubernatorial-candidacy-ada-calvo-to-file/article_7239e6f5-a921-4377-afee-2c68dcded6d5.html
-Summary: The article reports that the San Agustin-San Nicolas team has officially filed their candidacy for the 2026 gubernatorial election in Guam, marking them as the first to do so. Additionally, Ada Calvo is set to file her candidacy on Wednesday. While the article does not directly address Frank F. Blas Jr.'s chances in the Republican primary, it highlights the competitive landscape of the upcoming election, with multiple candidates emerging early. 
+Summary: The article reports that the San Agustin-San Nicolas team was the first to file for the 2026 Guam gubernatorial race, with Ada-Calvo planning to file on Wednesday. However, it does not mention Frank F. Blas Jr. or provide any information about his candidacy or prospects in the Republican primary. Therefore, there is no relevant information in this article to predict whether Frank F. Blas Jr. will win the 2026 Guam Republican gubernatorial primary.
 
-To predict whether Frank F. Blas Jr. will win the primary, consider factors such as his political experience, previous election performance, public support, and the strategies of his opponents, including the newly announced candidates. The early filing of candidates like San Agustin and San Nicolas may indicate a crowded field, which could impact Blas Jr.'s chances depending on how well he can differentiate himself and appeal to voters.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The webpage provides a general overview of the 2026 U.S. Senate and gubernatorial races, emphasizing the evolving landscape, key uncertainties, and methodological updates in forecasting models. However, it does not include specific information about individual candidates such as Frank F. Blas Jr. or details about the Guam Republican primary. Therefore, it offers no direct insights or predictions regarding Blas Jr.'s chances in the 2026 Guam Governor Republican primary election.
+
+Title: Hundreds attend Josh-Tina gubernatorial rally | News | guampdn.com
+Author: John Merjilla For Pacific Daily News
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.guampdn.com/news/hundreds-attend-josh-tina-gubernatorial-rally/article_c98d0bc9-2cc2-4a05-af36-e6b4ad830ac6.html
+Summary: The article reports on a recent gubernatorial rally in Guam attended by hundreds of supporters, featuring candidates including Josh and Tina. While it highlights the active political engagement and campaign events leading up to Guam's elections, it does not mention Frank F. Blas Jr. or provide specific information about his candidacy or prospects in the 2026 Guam Republican primary. Therefore, based on this source, there is no relevant information to predict whether Frank F. Blas Jr. will win the 2026 Guam Governor Republican primary.
 
 Title: Ada-Calvo files gubernatorial candidacy with over 2K signatures | News | guampdn.com
 Author: Pacific Daily News
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.guampdn.com/news/ada-calvo-files-gubernatorial-candidacy-with-over-2k-signatures/article_f812cc14-3a47-46c1-a272-bc5018782f57.html
-Summary: Ada Calvo has officially filed her candidacy for the gubernatorial election in Guam, securing over 2,000 signatures to qualify for the ballot. This move adds her to the growing list of candidates for the 2026 election, which includes notable figures like Frank F. Blas Jr. As the political landscape evolves, Calvo's entry could influence voter dynamics and strategies within the Republican primary. Observers may want to consider factors such as Calvo's political background, campaign strategies, and public reception, alongside Blas Jr.'s existing support and campaign efforts, to better predict the outcome of the primary election.
-
-Title: A week before candidacy filing opens, dozens pick up candidate packets | News | guampdn.com
-Author: Haidee Eugenio Gilbert Pacific Daily News
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.guampdn.com/news/a-week-before-candidacy-filing-opens-dozens-pick-up-candidate-packets/article_e00c1c80-04ed-45e1-80da-d48f48556a6a.html
-Summary: As of now, the article discusses the upcoming candidacy filing for the 2026 Guam Governor Republican primary election, highlighting that many individuals have already picked up candidate packets. While it does not specifically mention Frank F. Blas Jr. or his chances in the election, the context suggests a competitive political landscape is forming as candidates prepare to enter the race. 
-
-To predict whether Frank F. Blas Jr. will win the primary, consider factors such as his previous political experience, public support, campaign strategy, and the profiles of other candidates who may also be running. The article indicates a growing interest in the election, which could impact voter turnout and preferences. 
-
-For a more informed prediction, keep an eye on polling data, endorsements, and campaign developments as the election date approaches.
-
-Title: Press Release and Executive Orders - Governor of Guam
-URL: https://governor.guam.gov/press-release-and-executive-orders/
-Summary: The webpage provides recent press releases and executive orders from the Governor of Guam, which may offer insights into the political landscape leading up to the 2026 Guam Governor Republican primary election. Key points that could be relevant for predicting Frank F. Blas Jr.'s chances include:
-
-1. **Recent Political Developments**: The page lists various press releases that highlight current issues and initiatives in Guam, such as financial statements showing a surplus, civil-military coordination efforts, and responses to homelessness. Understanding these issues may indicate the priorities of the electorate.
-
-2. **Public Sentiment**: Statements made by the Governor and other officials can reflect public sentiment and political trends. For example, the press release on the passing of notable figures and community initiatives may resonate with voters.
-
-3. **Political Appointments and Nominations**: The nomination of individuals to key positions, such as the CHamoru Land Trust Commission, may influence party dynamics and voter support.
-
-4. **Transparency and Accountability**: The Governor's office has been involved in transparency efforts, such as FOIA requests regarding hiring practices and partnerships. This focus on accountability could impact voter perceptions of candidates, including Blas Jr.
-
-5. **Electoral Context**: The webpage does not provide direct information about Frank F. Blas Jr.'s campaign or standing within the Republican Party, but understanding the broader political context and issues highlighted in the press releases may help gauge his potential support.
-
-Overall, while the webpage does not specifically address Blas Jr
-
-Title: Candidates can begin submitting petitions | Local News | postguam.com
-Author: Nestor Licanto I The Guam Daily Post
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.postguam.com/news/local/candidates-can-begin-submitting-petitions/article_6fa0fd3f-144b-484e-8fd2-29311978bcb4.html
-Summary: The article from Post Guam announces that candidates can start submitting their petitions for the upcoming elections. While it does not specifically mention Frank F. Blas Jr. or his chances in the 2026 Guam Governor Republican primary election, understanding the context of the election process and candidate participation is crucial for predicting outcomes.
-
-To assess Frank F. Blas Jr.'s potential success in the primary, consider the following factors:
-
-1. **Candidate Landscape**: The number and popularity of other candidates entering the race can influence his chances. If he faces strong competition, it may affect his likelihood of winning.
-
-2. **Political Climate**: Current political issues and public sentiment in Guam leading up to the election will play a significant role. Analyzing voter concerns and preferences can provide insights into his appeal.
-
-3. **Campaign Strategy**: The effectiveness of his campaign, including outreach, messaging, and fundraising efforts, will be critical in swaying voters.
-
-4. **Past Performance**: Reviewing his previous electoral performances and public service record can help gauge his support base and voter loyalty.
-
-5. **Party Support**: The level of backing he receives from the Republican Party and influential party members can impact his visibility and credibility among voters.
-
-These elements combined will help in forming a prediction regarding Frank F. Blas Jr.'s chances in the primary election.
+Summary: The article reports that Ada-Calvo has officially filed her candidacy for governor of Guam, submitting over 2,000 signatures to qualify for the election. While it provides details about her campaign launch and signature collection, it does not mention Frank F. Blas Jr. or any specifics about the 2026 Guam gubernatorial race or the Republican primary. Therefore, there is no information in this article that could be used to predict whether Frank F. Blas Jr. will win the 2026 Guam Republican primary election.
 
 

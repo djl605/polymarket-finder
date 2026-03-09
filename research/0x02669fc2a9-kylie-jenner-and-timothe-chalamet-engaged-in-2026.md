@@ -1,7 +1,7 @@
 # Research: Kylie Jenner and Timothée Chalamet engaged in 2026?
 
 **Market ID:** 0x02669fc2a99383d7b3cd667db3143c0aa34e20347e78d7f992f4e669f71821b4
-**Researched At:** March 1, 2026 at 06:08:22 AM UTC
+**Researched At:** March 9, 2026 at 03:04:58 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Kylie Jenner and Timothée Chalamet engaged in 2026?"
 
 ---
@@ -9,43 +9,40 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 7.0¢
 
 ### Summary
 
-Despite multiple rumors (ring purchase, insider chatter, public affection), there’s no confirmed timeline or announcement, so the 44.5% price reasonably balances credible signals and persistent uncertainty. No clear, unpriced evidence suggests a significant mispricing.
+There’s no current evidence of an engagement, yet the market implies a 42.5% chance by year-end—likely overstating the odds by ~15–17 cents. Recent credible sources report a serious relationship but no engagement rumors.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Kylie Jenner and Timothée Chalamet will officially announce an engagement by Dec 31, 2026. A “Yes” resolution requires an announcement (or marriage) within that window; absence of such an announcement yields “No.”
+The market asks whether Kylie Jenner and Timothée Chalamet will have announced an engagement by Dec 31, 2026 (or marriage). “Yes” requires a public announcement by one of them or their reps (or credible media consensus). “No” applies if no such announcement occurs by year-end.
 
 2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• IMDb (Feb 9): Chalamet reportedly bought a $300K, 150-diamond ring; insiders note matching rings and pregnancy whispers.  
-• Elle/Us Weekly (Jan 30): A source says they’re discussing 2026 engagement; living together part‐time; Jenner’s family supportive.  
-• The Mirror (Jan 17) and Daily Mail (Jan 5): Point to public affection, award-speech shout-outs, fan speculation that a proposal is imminent.  
-
-Bearish indicators:  
-• All reporting remains unconfirmed; neither Jenner nor Chalamet has made any public announcement.  
-• The Times of India (Feb 2) quotes Chalamet deflecting engagement questions—he’s positive but noncommittal.  
-• Tabloid nature of several sources (IMDb News, Mirror, Daily Mail) undermines credibility, and more reputable outlets offer only second-hand speculation.  
-
-Given that no firm dates or direct confirmations exist, the bulk of information is rumor‐driven and likely factored into the current ~45% estimate.
+– Bearish: All five recent articles (Elle, Page Six, IMDb) from early March 2026 note they’re dating seriously but explicitly report no engagement rumors or plans.  
+– Bullish: Their relationship is described as “serious” with family support, which could plausibly lead to engagement within the year—but no concrete rumors or insider leaks.  
+– Sources are reputable and up-to-date; no obvious engagement reporting has been missed.  
+– If a clear engagement were imminent, tabloids would likely already be speculating—yet none are.
 
 3. MARKET EFFICIENCY ANALYSIS  
-The 44.5% price plausibly represents informed traders balancing serious relationship signals against the lack of a definitive timeline or official word. Low volume may simply reflect general ambivalence: enough rumor to make it interesting, but insufficient hard news to mobilize large stakes. It’s unlikely a single trader dominates price discovery since the figure sits near a natural “coin-flip” midpoint for a high-profile but unconfirmed event.
+– A 42.5% price could reflect general optimism about a high-profile couple over a long horizon.  
+– Low volume and tight spread suggest few active traders; price may hinge on a small group rather than broad consensus.  
+– The absence of current rumors indicates limited new information for traders to drive price higher.
 
 4. MISPRICING ASSESSMENT  
-No strong, fresh, or credible evidence appears missing from the price. All public intel is rumor or deflected statements, and any insiders leaks are already in circulation. There’s no sign of a >20-cent mispricing. The most charitable interpretation is that the 44.5% roughly captures the couple’s serious status balanced against standard celebrity rumor volatility.
+– Given zero direct evidence of engagement and typical celebrity timelines, a fair probability might be closer to ~25–30%, not 42.5%.  
+– That implies a potential overpricing of roughly 12.5–17.5 cents.  
+– No technicalities or resolution criteria misunderstandings appear to affect this; the market seems to be pricing in speculative optimism.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~20% (speculative, second-hand).  
-Magnitude of possible mispricing: ~5¢.  
-Expected value ≈ 0.20 × 5¢ = 1¢.
+– Strength of evidence: 40% (sources are recent and credible but long-term outcomes remain uncertain)  
+– Estimated magnitude of mispricing: ~17.5 cents  
+– Expected value = 0.40 × 17.5 = 7.0 cents
 
-EXPECTED_VALUE: 1  
-SUMMARY: Despite multiple rumors (ring purchase, insider chatter, public affection), there’s no confirmed timeline or announcement, so the 44.5% price reasonably balances credible signals and persistent uncertainty. No clear, unpriced evidence suggests a significant mispricing.  
+EXPECTED_VALUE: 7.0  
+SUMMARY: There’s no current evidence of an engagement, yet the market implies a 42.5% chance by year-end—likely overstating the odds by ~15–17 cents. Recent credible sources report a serious relationship but no engagement rumors.  
 CONFIDENCE: medium
 
 ---
@@ -54,34 +51,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Kylie Jenner Engaged? Timothee Chalamet Just Bought a Ring! - IMDb
+Title: Kylie Jenner and Timothée Chalamet Have a Public Date 1 Day After the 2026 Actor Awards
 Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.imdb.com/news/ni65176801/
-Summary: Recent rumors suggest that Kylie Jenner and Timothée Chalamet may be engaged, fueled by reports that Chalamet purchased a $300,000 engagement ring featuring 150 diamonds. Insiders have indicated that the couple has been spotted wearing matching rings, which has intensified speculation about their relationship status. Additionally, there are whispers about the possibility of Jenner being pregnant with Chalamet's child. While concrete confirmation is lacking, these developments could be pivotal in predicting whether the couple will officially announce their engagement in 2026. For more details, visit the full article on IMDb.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.elle.com/culture/celebrities/a70595033/kylie-jenner-timothee-chalamet-podcast-date-photo/
+Summary: There is no evidence or indication from the provided information that Kylie Jenner and Timothée Chalamet are engaged in 2026. Their recent public appearances, including attending events together, sharing kisses during a photo shoot, and celebrating Chalamet’s birthday with a surprise screening, suggest they are dating and in a close relationship. However, no details point to an engagement or plans for marriage.
 
-Title: Timothee Chalamet Opens Up About Kylie Jenner and Wedding Plans | - The Times of India
-Author: TOI Entertainment Desk  / etimes.in /  Updated: Feb 02, 2026, 14:29 IST
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/timothee-chalamet-quizzed-about-girlfriend-kylie-jenner-and-marriage-plans-actor-reacts-watch/articleshow/127853931.cms
-Summary: Timothée Chalamet recently addressed questions about his relationship with Kylie Jenner and their potential wedding plans. While he did not confirm any engagement, his responses suggest a positive outlook on their relationship. The couple has been in the spotlight, and fans are curious about their future together. As of now, there are no official announcements regarding an engagement in 2026, but Chalamet's openness about their relationship indicates that they are serious about each other. For more details, you can visit the full article on The Times of India.
+Title: Kylie Jenner reunites with Timothée Chalamet after skipping Actor Awards
+Author: Audrey Rock
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://pagesix.com/2026/03/03/celebrity-news/kylie-jenner-reunites-with-timothee-chalamet-after-skipping-actor-awards
+Summary: There is no information indicating that Kylie Jenner and Timothée Chalamet are engaged in 2026. The article details their ongoing relationship, including recent public appearances and shared events in 2026, but does not mention any engagement or plans for marriage.
 
-Title: Timothee Chalamet fans predict he will PROPOSE to Kylie Jenner
-Author: Amelia Wynne
-Published Date: 2026-01-05T00:00:00.000Z
-URL: https://www.dailymail.co.uk/tvshowbiz/article-15434797/Timothee-Chalamet-fans-predict-PROPOSE-girlfriend-Kylie-Jenner.html
-Summary: Fans are speculating that Timothée Chalamet may propose to Kylie Jenner if he wins an Oscar, fueled by his emotional speech at the Critics Choice Awards. This speculation arises from their public appearances and the nature of their relationship, leading many to believe that an engagement could be on the horizon in 2026. The article discusses the couple's dynamic and the excitement among fans regarding the possibility of a proposal.
-
-Title: Kylie Jenner and Timothée Chalamet Are Talking About Getting Engaged in 2026
+Title: Kylie Jenner & Timothee Chalamet Update: Source Reveals How Serious They are & What Kylie's Family Thinks - IMDb
 Author: 
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://www.elle.com/culture/celebrities/a70192252/kylie-jenner-timothee-chalamet-engagement-plans-2026/
-Summary: Kylie Jenner and Timothée Chalamet are reportedly discussing the possibility of getting engaged in 2026, as confirmed by a source to *Us Weekly*. The couple, who have been dating for three years, have shown increasing seriousness in their relationship, with Chalamet publicly acknowledging Jenner during his acceptance speech at the Critics Choice Awards. Sources indicate that they have a strong dynamic, with Jenner joking that Chalamet is "already her husband." Additionally, they are said to be living together part-time, and Jenner's family is supportive of their relationship, viewing Chalamet positively. This context suggests that an engagement could indeed be on the horizon for the couple in 2026.
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.imdb.com/news/ni64768752/
+Summary: There is no information indicating that Kylie Jenner and Timothée Chalamet are engaged in 2026. The latest reports highlight that their relationship is serious and they are very happy together, with family support, but no mention of an engagement.
 
-Title: Timothee Chalamet shows 'signs' that he will 'soon' propose to Kylie ...
-Author: Angelica Cheyenne
-Published Date: 2026-01-17T00:00:00.000Z
-URL: https://www.themirror.com/entertainment/celebrity-news/timothee-chalamet-kylie-jenner-engagement-1621459
-Summary: Timothée Chalamet and Kylie Jenner, who have been dating for nearly three years, are showing signs that an engagement may be on the horizon. Recent public displays of affection, including Chalamet's heartfelt acknowledgments of Jenner during his acceptance speeches at the Critics' Choice Awards and Golden Globes, have fueled speculation about a potential proposal. Relationship expert Kara Francis noted a noticeable shift in their public image as a couple, highlighting Jenner's increased presence at events with Chalamet and his social media posts featuring her. While no specific timeline for an engagement has been confirmed, these developments suggest that Chalamet may be considering taking their relationship to the next level in 2026.
+Title: Kylie Jenner & Timothée Chalamet Relationship Status Update: Where Does the Couple Stand at the End of 2024? - IMDb
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.imdb.com/news/ni65005989/
+Summary: As of late 2024, Kylie Jenner and Timothée Chalamet are publicly seen as a couple, with recent reports highlighting their affectionate behavior at a movie premiere afterparty. There is no publicly available information indicating that they were engaged in 2026. Their relationship appears to be ongoing, but details about a possible engagement in 2026 are not mentioned or confirmed in the sources.
+
+Title: Kylie Jenner Subtly Shuts Down Timothée Chalamet Breakup Rumors - IMDb
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.imdb.com/news/ni65430394/
+Summary: Kylie Jenner and Timothée Chalamet were rumored to be in a relationship in 2026. Despite speculation about a breakup—particularly after Timothée's absence from Kylie’s birthday celebration—Kylie subtly confirmed they were still together by liking his movie trailer on Instagram. The couple appeared to be maintaining their relationship amid ongoing rumors, with Kylie publicly supporting Timothée during that period.
 
 

@@ -1,56 +1,58 @@
 # Research: Will the Democratic Party win the FL-02 House seat?
 
 **Market ID:** 0x4eea3b138681836438cc0b234ec1324be6a15b3fba9dd1b490f3414f033b4414
-**Researched At:** March 1, 2026 at 06:02:01 AM UTC
+**Researched At:** March 9, 2026 at 03:03:26 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the FL-02 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.5¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-FL-02’s strong GOP history, a solid Republican field, and looming redistricting headwinds support a low Dem probability. In the absence of district-specific polling or a standout Democratic candidate, the 16% price seems reasonable, with limited upside from new information.
+The 15.5% price roughly matches a Cook-rated R+8 seat, open-seat midterm dynamics, and lack of strong Democratic contenders, so there’s no strong evidence of a substantive mispricing. Low volume likely reflects absence of new data rather than clear inefficiency.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- The market asks: “Will a Democrat win FL-02 on Nov 3, 2026?” YES if the Democrat on the ballot (or caucusing as a Democrat) receives the plurality of votes in the general election; NO otherwise.  
+The market asks whether a Democratic candidate will win Florida’s 2nd Congressional District in the Nov. 4, 2026 midterms. YES resolves if a Democrat on the ballot (or caucusing as a Democrat) is declared the winner via credible reporting or FEC data; NO if a Republican wins.
 
 2. EVIDENCE EVALUATION  
-Bearish (against Dem win):  
-• Historical GOP lean: FL-02 has consistently elected Republicans by comfortable margins.  
-• Open seat advantage for GOP: With no incumbent, Republicans still benefit from local party infrastructure and name recognition (e.g., legacy of retiring GOP Rep. Neal Dunn).  
-• Candidate quality: The strongest GOP entrant is Purple Heart veteran Luke Murphy, who appeals to moderates, while the Democratic field is less defined and lacks a standout.  
-• Redistricting risk: State GOP is actively pursuing mid-decade map redraws, potentially making FL-02 more favorable to Republicans despite the 2010 anti-gerrymandering amendment.  
+Bullish (higher Dem chance than 15.5%):  
+• Redistricting slightly reduces GOP edge, per Jim Rosica (Feb 23).  
+• Open seat dynamics sometimes boost the minority party when incumbency is gone.  
+• Tallahassee (Dem “anchor” in district) may turnout strongly.  
 
-Bullish (for Dem win):  
-• National environment: Low approval for President Trump could suppress GOP turnout or boost Dems in swing districts.  
-• Open race dynamics: An incumbent absence can tighten margins if the Democratic campaign executes well on turnout and messaging.  
+Bearish (lower Dem chance):  
+• Cook Report rates FL-02 R+8 (Call, Feb 15).  
+• Incumbent Republican Neal Dunn retiring—open seat leans GOP more, given 5-Republican candidate field pledging Trump agenda.  
+• Midterm headwinds historically hurt president’s party; if a Democrat occupies the White House in 2026, further drag on Dems.  
+• No high-profile Dem (Gwen Graham explicitly declined).  
 
-Credibility & recency: All sources are from Feb 2026, credible regional and national outlets. None cite actual polls of FL-02, so there’s no strong data suggesting Democrats have a >16% shot right now.  
+Credibility & Recency:  
+• Cook Report and CNN/Brownstein are reputable and current (mid-Feb 2026).  
+• Local reporting (Gainesville Sun) likewise credible.  
+• No general-election polling exists yet, so all evidentiary weight comes from seat lean, candidate announcements, and historical midterm patterns.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 16% probability can be justified by: (a) GOP’s strong baseline; (b) a modest allowance for favorable national shifts or an unexpectedly strong Dem nominee.  
-- Low $2k volume means few traders have weighed in; but the tight 2¢ spread suggests even those few are in broad agreement.  
-- The lack of polling and concrete candidate renomination events means traders may be unwilling to deviate far from a conservative baseline.  
+• A 15.5% price aligns roughly with an R+8 baseline—experts might convert that into ~10–20% Dem win‐probability, adjusting for open-seat and midterm factors.  
+• $0 traded volume over 40 days suggests one or a few traders set this price; lack of engagement could reflect scarcity of firm data, not necessarily mispricing.  
+• Informed traders may simply be waiting on primary results, candidate fundraising, and polling before trading.
 
 4. MISPRICING ASSESSMENT  
-- No specific, credible information (e.g., district-level polling, unexpectedly strong fundraising by a Democrat, confirmed new lines that favor Dems) appears missing from the 16% price.  
-- All key factors (historical partisanship, candidate quality, redistricting threat, national climate) seem already factored in.  
-- Given the lead time (eight months to primaries, eight more to the general), uncertainty is high, but nothing suggests Democrats have >20% chance.  
+No specific polling or new structural change is unpriced. The district’s R+8 lean and midterm disadvantage for the president’s party justify a sub-20% Dem chance. Absence of strong Dem candidates further supports a low probability. The 15.5% figure sits plausibly in the 10–20% range experts would assign now. We lack targeted evidence suggesting a >5-cent deviation.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that the market is mispriced: 10% (weak: we see no glaring oversight).  
-- Magnitude of mispricing if any: 5¢ (small; the market could be off by a few points but not 20+).  
-- Expected value = 0.10 × 5¢ = 0.5¢  
+Strength of evidence that market is inefficient: ~20% (low clarity beyond partisan lean).  
+Potential magnitude of mispricing: ~5 cents (difference between 15.5% and a possible “true” 10% estimate).  
+Expected value ≈ 20% × 5 cents = 1 cent.
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: FL-02’s strong GOP history, a solid Republican field, and looming redistricting headwinds support a low Dem probability. In the absence of district-specific polling or a standout Democratic candidate, the 16% price seems reasonable, with limited upside from new information.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: The 15.5% price roughly matches a Cook-rated R+8 seat, open-seat midterm dynamics, and lack of strong Democratic contenders, so there’s no strong evidence of a substantive mispricing. Low volume likely reflects absence of new data rather than clear inefficiency.  
+CONFIDENCE: low
 
 ---
 
@@ -58,64 +60,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Florida's 2nd Congressional District election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Florida%27s_2nd_Congressional_District_election,_2026
-Summary: The 2026 election for Florida's 2nd Congressional District (FL-02) will be significant as it is an open race, with no incumbent running for re-election. The general election is scheduled for November 3, 2026, following the primaries on August 18, 2026. This context is crucial for predicting the Democratic Party's chances of winning the seat.
-
-Key factors to consider include:
-
-1. **Incumbent Status**: The absence of an incumbent can lead to more competitive races, as both parties will be vying for an open seat.
-
-2. **Candidate Landscape**: The official candidates for both the Democratic and Republican primaries will play a critical role. The strength, appeal, and campaign strategies of these candidates will influence voter turnout and preferences.
-
-3. **Historical Voting Trends**: Analyzing past election results in FL-02 can provide insights into voter behavior and party strength in the district. Understanding the demographics and political leanings of the electorate will be essential.
-
-4. **National Political Climate**: The broader political environment leading up to the election, including issues of national importance and local concerns, will impact voter sentiment.
-
-5. **Voter Turnout**: Mobilization efforts by both parties and the engagement of key voter demographics will be crucial in determining the outcome.
-
-Overall, while the Democratic Party has opportunities in this open race, the outcome will depend on various dynamic factors leading up to the election.
-
-Title: Can Democrats retake the US House? It could depend on Florida | National | union-bulletin.com
-Author: Michael Van Sickler - Tampa Bay Times (TNS)
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.union-bulletin.com/news/national/can-democrats-retake-the-us-house-it-could-depend-on-florida/article_829647ac-11d7-5828-b775-b3e06bc2a46a.html
-Summary: The article discusses the potential for the Democratic Party to regain control of the U.S. House of Representatives, emphasizing the significance of Florida in this effort. Specifically, it highlights the FL-02 House seat as a critical battleground. Factors influencing the outcome include demographic shifts, voter turnout, and local political dynamics. The piece suggests that the Democratic Party's success in FL-02 could hinge on effective campaigning and addressing key issues that resonate with voters in the district. Understanding these elements may provide insights into whether the Democratic Party can win the FL-02 House seat.
-
 Title: Florida's CD 2 race: Record 8 candidates, Purple Heart veteran joins
 Author: James Call
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://www.gainesville.com/story/news/state/2026/02/15/floridas-cd-2-race-record-8-candidates-purple-heart-veteran-joins/88664230007/
-Summary: The race for Florida's 2nd Congressional District (CD 2) has attracted a record eight candidates, including notable entrants like Iraq War veteran Luke Murphy, who is running as a Republican. Murphy emphasizes bipartisan collaboration and aims to continue the legacy of retiring Congressman Neal Dunn, a staunch ally of Donald Trump. The Republican field consists of four candidates, all pledging to support Trump's agenda, while three Democrats are also vying for the seat, seeking to challenge the Republican majority.
+Summary: The Florida 2nd Congressional District race features a record eight candidates—three Democrats and five Republicans—all under 50. The district, spanning Tallahassee to Panama City, is currently represented by retiring Republican Neal Dunn, a Trump ally. The GOP candidates uniformly pledge to support Trump’s agenda, while Democratic contenders aim to challenge GOP control. Notably, Republican candidate Luke Murph, an Iraq War veteran and Purple Heart recipient, emphasizes bipartisan collaboration and veteran support. Political analysts suggest the district leans Republican, with the Cook Report giving Republicans an eight-point advantage. The outcome for the Democratic Party securing this seat remains uncertain, but current trends and candidate profiles indicate a competitive race favoring Republicans.
 
-Key factors influencing the Democratic Party's chances in FL-02 include:
+Title: Poll: Elijah Manley leads CD 20 Primary as most voters want Sheila Cherfilus-McCormick to resign
+Author: Jesse Scheckner
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://floridapolitics.com/archives/778790-poll-elijah-manley-leads-cd-20-primary-as-most-voters-want-sheila-cherfilus-mccormick-to-resign
+Summary: The article focuses on the upcoming Democratic primary in Florida’s 20th Congressional District, where Elijah Manley is leading over incumbent Sheila Cherfilus-McCormick, who faces significant legal issues including federal indictment related to misappropriation of COVID-19 funds. Polls show most voters believe Cherfilus-McCormick should resign, with only 22% supporting her re-election. Manley currently holds a favorable position among primary voters, whereas Cherfilus-McCormick's support is declining due to her legal troubles. While this information pertains specifically to FL-20, it highlights potential challenges for Democratic candidates facing legal and political controversies, which could influence party success in other districts like FL-02.
 
-1. **Candidate Profiles**: The Democratic candidates are younger and may appeal to a more diverse voter base. Their strategies will be crucial in countering the established Republican presence.
+Title: Gwen Graham reveals plan for Florida’s 2nd Congressional District
+Author: Jim Rosica
+Published Date: 2026-02-23T00:00:00.000Z
+URL: http://staugustine.com/story/news/state/2026/02/23/gwen-graham-wont-run-for-florida-2nd-congressional-district/88826919007/
+Summary: Gwen Graham, a former Democratic congresswoman and daughter of Florida political family patriarch Bob Graham, has announced she will not run for Florida’s 2nd Congressional District seat due to family reasons. The district, which includes Panama City and Tallahassee, has historically leaned Republican but has seen redistricting that has reduced the GOP advantage. The seat is currently open, with incumbent Republican Neal Dunn indicating he may not seek re-election and possibly resigning early, which could further influence the race dynamics. The candidate field is now the largest in recent history, with eight contenders vying for the seat. The outcome for the Democratic Party's chances depends on the candidate selection, district demographics, and the political climate leading up to the election.
 
-2. **Voter Sentiment**: The district has historically leaned Republican, but changing demographics and voter attitudes could play a significant role in the upcoming election.
+Title: Election Impact: 5 Key House Races to Watch in 2026
+URL: https://pac.org/impact/election-impact-5-key-house-races-to-watch-in-2026
+Summary: The article highlights key House races to watch in 2026, emphasizing districts with competitive dynamics that could influence overall party control. While it does not specifically mention Florida's 2nd District (FL-02), it provides insights into districts with similar characteristics—such as shifts in voter preferences, incumbent vulnerabilities, and potential open-seat opportunities—that could inform predictions about FL-02. For example, districts like Maine’s 2nd and Minnesota’s 2nd, where incumbents face potential challenges or open-seat scenarios, suggest that districts with changing voter demographics or uncertain candidate decisions are pivotal. Understanding these patterns can help assess whether Democrats might retain or flip FL-02, especially considering factors like incumbent strength, district partisan leanings, and candidate recruitment.
 
-3. **Bipartisan Appeal**: Murphy's focus on listening to constituents and his military background may attract moderate voters, potentially impacting Democratic strategies.
-
-4. **Political Climate**: The current political landscape, including national trends and local issues, will significantly affect voter turnout and preferences.
-
-Overall, the outcome will depend on how effectively the Democratic candidates can mobilize support and differentiate themselves from their Republican counterparts in this competitive race.
-
-Title: Can Democrats retake the US House? It could depend on Florida
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: http://www.tampabay.com/news/florida-politics/elections/2026/02/12/hakeem-jeffries-democrats-house-control-congress/
-Summary: The article discusses the potential for the Democratic Party to regain control of the U.S. House, emphasizing the critical role Florida plays in this scenario. Specifically, it highlights the significance of the FL-02 House seat, which could be pivotal in determining the overall outcome for Democrats. Factors influencing the race include the political landscape in Florida, voter demographics, and the strategies employed by candidates. The piece suggests that the success of Democrats in Florida, particularly in contested districts like FL-02, will be essential for their chances of winning back the House.
-
-Title: Can Democrats retake the US House? It could depend on Florida  | Fresno Bee
-Author: Al Drago
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.fresnobee.com/news/nation-world/national/article314685832.html
-Summary: The Democratic Party's chances of winning the FL-02 House seat are influenced by several key factors highlighted in the article. Firstly, Democrats are aiming to retake the U.S. House of Representatives, needing to overcome a slim deficit of 218-214. Polls indicate that President Trump's approval ratings are at historic lows, which could benefit Democrats in their campaign efforts.
-
-However, the outcome may hinge significantly on potential redistricting efforts in Florida. State Republicans are considering a mid-decade redrawing of congressional boundaries, which could impact seats currently held by Democrats, including those in districts like FL-02. This move is controversial, as Florida voters passed a constitutional amendment in 2010 aimed at preventing gerrymandering for political gain. Voting rights groups are actively opposing any attempts to redraw districts for partisan advantage.
-
-Additionally, Florida Governor Ron DeSantis has called for a special session to discuss redistricting, coinciding with an anticipated U.S. Supreme Court ruling that could affect how districts are drawn nationwide. The implications of this ruling could either bolster or undermine Democratic efforts in Florida.
-
-In summary, while Democrats have a favorable national context, the specific dynamics of the FL-02 seat will depend heavily on the outcome of redistricting efforts and the political landscape leading up to the elections.
+Title: These are the districts that will decide House control | CNN Politics
+Author: Ronald Brownstein
+Published Date: 2026-02-15T00:00:00.000Z
+URL: https://us.cnn.com/2026/02/15/politics/house-control-districts-vis
+Summary: The 2026 House election landscape is heavily influenced by districts that lean toward former President Donald Trump, with Republicans defending many seats in these "Trump country" areas. The GOP's chances of maintaining control hinge on their ability to hold onto districts that voted narrowly or against Trump in 2024, making these areas critical battlegrounds. While Democrats are favored to regain the House with a relatively small gain of three seats, the race in districts like Florida's 2nd (FL-02) could be challenging due to the district's political leanings and recent redistricting impacts. Overall, predicting the outcome for FL-02 requires considering its voting history, redistricting effects, and the broader national trend of congressional elections serving as referendums on the sitting president's performance.
 
 

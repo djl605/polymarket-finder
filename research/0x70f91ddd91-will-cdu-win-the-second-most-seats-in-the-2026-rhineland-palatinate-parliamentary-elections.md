@@ -1,7 +1,7 @@
 # Research: Will CDU win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?
 
 **Market ID:** 0x70f91ddd91e8fae6e9a5f95885addb8d918e2536dee9863b7426e7f73395521f
-**Researched At:** March 4, 2026 at 02:48:03 PM UTC
+**Researched At:** March 9, 2026 at 03:03:00 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will CDU win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?"
 
 ---
@@ -9,40 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Polls show CDU remains competitive but faces strong challenges from both SPD and the Greens, so a roughly 40% chance of finishing second aligns with the evidence. No clear, unpriced factor suggests a large mispricing.
+Polls show CDU and SPD neck-and-neck, with a small risk of Greens upsetting the rank-order, making a 39.5% chance of CDU finishing second a plausible reflection of current uncertainty. No strong, overlooked evidence suggests a mispricing above ~5 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether the CDU will finish second by number of seats in the 19th Landtag of Rhineland-Palatinate following the March 22, 2026 election. YES if CDU ranks exactly second (after applying seat counts, then vote totals, then alphabetical tie-breakers); NO if CDU finishes first, third, lower, or the election is not held by July 31, 2026.  
+This market asks whether the CDU will finish with the second-most seats in the Rheinland-Pfalz Landtag election on March 22, 2026. “YES” means some other party finishes first and the CDU finishes second; “NO” covers scenarios in which the CDU finishes first, third, or lower (or if no vote occurs by July 31, 2026).
 
 2. EVIDENCE EVALUATION  
-• Bearish for CDU-second:  
-  – 2026-02-25 survey (Ground News) shows SPD gaining momentum and possibly overtaking CDU, implying CDU might drop below second.  
-  – Wikipedia summary indicates the Greens have risen to become the second-strongest party in polls, which, if it holds, pushes CDU to third.  
-• Bullish for CDU-second:  
-  – DeutscheWelle “DeutschlandTrend” hints at ongoing CDU popularity, though no seat projections are given.  
-  – INSA Jan 2026 poll notes CDU remains a major contender in RLP, suggesting a decent chance of finishing second if SPD holds or leads but CDU keeps clear of the Greens.  
-• Credibility & recency: All polls are within ~1–2 months of the election, from known pollsters or consensus reporting, but data is partial (often lacking full seat models).  
-• Skepticism: If these trends were decisive, a higher-volume market would likely reflect them. The mixed signals—SPD surge vs. Green rise vs. CDU holding—make the true probabilities murky.  
+Bullish for YES (CDU second):  
+• Recent polls (Infratest dimap 26 Feb; Politpro 1 Mar; Volksfreund 20 Feb) show CDU at ~28–29%, SPD at ~26–27%. A narrow SPD lead in some polls would make CDU runner-up.  
+• CDU’s support has been stable, and absent a clear surge by Greens/AfD, finishers behind the SPD are bunched, so a small polling shift could land CDU in second.  
+
+Bearish for YES:  
+• Polls are ambiguous on whether the CDU trails or leads the SPD; if CDU actually leads, they’d place first, not second.  
+• Wikipedia summary flags Greens resurgence, potentially overtaking CDU into second, pushing CDU to third in a tight multi-party field.  
+• No polling firm shows Greens close enough to reliably push CDU to third, but the risk exists given volatility late in the campaign.  
+
+Source credibility/recency: All polls are from late February/early March 2026 by reputable firms (Infratest dimap, Politpro) and regional reporting (Volksfreund), so reasonably reliable and up-to-date.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 39.5% price plausibly reflects the market’s synthesis of conflicting polling: CDU strong enough to stay ahead of the Greens (for second) in some scenarios, but vulnerable to both SPD surges and Green gains. Low volume could indicate either that the outcome is viewed as too close (discouraging large bets) or that only a few traders with limited conviction have set the price.  
+A 39.5% price could reflect:  
+– Consensus that CDU likely either leads or comes in third (if Greens surge), making a pure second-place finish only plausible if SPD narrowly overtakes.  
+– Low volume suggests few traders are active, but those who have traded likely incorporate tight poll margins and possible volatility.  
+– The absence of heavy trading may simply reflect low interest rather than mispricing.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, unaccounted-for piece of evidence that would move the probability by >20 points. The market’s ~40% fairly captures the contest’s three-way tension. No technical misinterpretation of resolution criteria is evident.  
+Given roughly equal odds from polls for CDU to trail or lead SPD—and a smaller risk of a Green surge—the chance of a clean second-place finish plausibly lies between 35–50%. A 39.5% market price falls neatly in that range. There is no clear, omitted scenario or data point pushing us to believe the price is off by more than a few cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of missing evidence: 20% (the current data is already imperfectly priced)  
-Magnitude of mispricing: 5¢ (at most a small tilt, given mixed polls)  
-Expected value = 20% × 5¢ = 1¢  
+Strength of evidence: 40% (polls are narrow and evolving; no definitive edge)  
+Magnitude of mispricing: 5 cents (if any)  
+Expected value = 0.40 × 5 = 2.0 cents
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Polls show CDU remains competitive but faces strong challenges from both SPD and the Greens, so a roughly 40% chance of finishing second aligns with the evidence. No clear, unpriced factor suggests a large mispricing.  
+EXPECTED_VALUE: 2  
+SUMMARY: Polls show CDU and SPD neck-and-neck, with a small risk of Greens upsetting the rank-order, making a 39.5% chance of CDU finishing second a plausible reflection of current uncertainty. No strong, overlooked evidence suggests a mispricing above ~5 cents.  
 CONFIDENCE: medium
 
 ---
@@ -51,29 +56,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Trend Change Before Rlp State Election 2026? New Survey Shows Shift – Comrades on the Rise
+Title: Rhineland-Palatinate: Election Polls & Voting Intentions 2026
 Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://ground.news/article/rhineland-palatinate-prime-minister-schweitzer-wants-to-turn-the-elections
-Summary: A recent survey indicates a shifting political landscape ahead of the Rhineland-Palatinate state election scheduled for March 22, 2026. The CDU is currently leading in polls, with expectations to win the most seats. However, the SPD appears to be gaining momentum, positioning itself as a strong contender and potentially overtaking the CDU to become the second-largest party in the state parliament. The race is expected to be closely contested, with the SPD's recent rise suggesting it could secure the second-most seats in the upcoming election.
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://politpro.eu/en/rhineland-palatinate/opinion-polls/2026
+Summary: The polling data for the 2026 Rhineland-Palatinate parliamentary elections indicates that the CDU is currently leading among parties, with recent polls showing support around 28-29%. The SPD follows closely behind, with support levels around 26-27%. Other parties like AfD, Greens, and Left have lower support percentages. Given the recent trend, the CDU appears poised to secure the second most seats, potentially behind the leading party, with the possibility of winning the second-largest share of seats in the upcoming election.
 
-Title: 2026 Rhineland-Palatinate state election
+Title: Landtagswahl Rheinland-Pfalz: Wahlumfrage vom 26.02.2026 von Infratest dimap | Sonntagsfrage #ltwrlp
+Author: Philipp Guttmann
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://dawum.de/Rheinland-Pfalz/Infratest_dimap/2026-02-26/
+Summary: The latest poll from Infratest dimap dated February 26, 2026, indicates that the CDU is projected to secure approximately 28% of the vote, slightly ahead of the SPD at 27%. This suggests that the CDU is likely to win the second most seats in the upcoming Rhineland-Palatinate state election on March 22, 2026, potentially positioning it as the second-largest party after the SPD. The poll also shows the CDU maintaining a stable position compared to previous results, with a marginal change of -1% from earlier surveys. Overall, based on current polling data, the CDU appears poised to be the runner-up in terms of seat count in the 2026 election.
+
+Title: 2026 Rhineland-Palatinate state election - Wikipedia
 URL: https://en.wikipedia.org/wiki/2026_Rhineland-Palatinate_state_election
-Summary: The 2026 Rhineland-Palatinate state election will determine the composition of the 19th Landtag. In the previous 2021 election, the SPD led with 35.7%, while the CDU received 27.7%, making it the second-largest party at that time. The Greens were third, and the AfD was fourth, with notable shifts in voter support. Opinion polls leading up to 2026 suggest that the CDU's support remains significant, but the Greens have gained prominence, now ranking as the second strongest party in the current political landscape. Given the recent trends and polling data, the CDU is positioned to potentially secure the second-largest number of seats, but the Greens are also strong contenders for that position.
+Summary: The 2026 Rhineland-Palatinate state election will determine the composition of the 19th Landtag. In the 2021 election, the SPD led with 35.7%, followed by the CDU at 27.7%, with the Greens, AfD, FDP, and Free Voters also represented. The previous election results and opinion polls suggest that the CDU's support remains below the SPD, but the Greens have gained prominence, now being the second strongest party before the election. Polling data indicates that the CDU's support is still significant but likely behind the SPD, with the Greens potentially vying for the second position. Therefore, based on recent trends and polling, it is uncertain whether the CDU will secure the second most seats, but current indications favor the Greens or CDU competing closely for that position.
 
-Title: Germany's "DeutschlandTrend" opinion poll shows that the ...
-Author: 
-URL: https://www.facebook.com/deutschewellenews/posts/germanys-deutschlandtrend-opinion-poll-shows-that-the-far-right-alternative-for-/1234740348681277/
-Summary: The webpage references Germany's "DeutschlandTrend" opinion poll, which assesses public sentiment and political support within Germany. While the specific poll details are not fully provided in the excerpt, such polls typically gauge voter preferences for major political parties, including the CDU (Christian Democratic Union). Given the context, the poll's insights into CDU's current popularity and trends in voter support could be relevant for predicting its performance in future elections, such as the 2026 Rhineland-Palatinate parliamentary elections. However, without detailed polling data or recent trends, it is difficult to definitively forecast whether CDU will secure the second most seats in that election.
+Title: Landtagswahl in RLP 2026: Nur noch große Koalition möglich?
+Author: Robert Märländer
+Published Date: 2026-02-20T00:00:00.000Z
+URL: https://www.volksfreund.de/region/rheinland-pfalz/landtagswahl-in-rlp-2026-umfragen-zeigen-ampel-unter-druck_aid-136890061
+Summary: Recent polls for the 2026 Rhineland-Palatinate Landtagswahl indicate that the CDU is leading with approximately 28-29% of voter support, closely followed by the SPD at around 27-29%. The CDU's strong polling position suggests it is likely to secure the second most seats in the election, potentially behind or tied with the SPD. The results also show a fragmented political landscape, with the AfD at around 19%, and smaller parties like the Greens, Linke, and Freie Wähler polling between 5-9%. Given these figures, the CDU appears well-positioned to win the second-largest number of seats, making a coalition with the SPD or other parties a key consideration for forming a government.
 
-Title: Germany Election Poll: Latest Survey by INSA (January 2, 2026)
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://politpro.eu/en/germany/opinion-polls/insa-2026-01-02/parliamentary-election
-Summary: The latest INSA poll from January 2026 indicates current voting trends in Germany, including regional elections such as Rhineland-Palatinate. While specific seat projections are not detailed in the summary, the poll data can offer insights into the relative support levels for major parties like the CDU. Historically, the CDU has been a significant contender in Rhineland-Palatinate, and current polling figures suggest they are likely to remain competitive. To determine if the CDU will secure the second most seats in the upcoming Rhineland-Palatinate parliamentary elections, one should analyze the current polling support for CDU compared to other parties, recent electoral performance, and potential coalition dynamics. The poll's trends imply that CDU support remains strong, but precise seat predictions would require detailed vote share data and coalition calculations.
-
-Title: The impact of election information shocks on populist party ...
-URL: https://www.sciencedirect.com/science/article/pii/S0176268021000847
-Summary: The article examines how election information shocks influence voter preferences for populist parties, specifically analyzing the case of Germany. It investigates the impact of sudden, unexpected information events during election campaigns on the electoral support for populist parties like the AfD. The study employs empirical methods to assess how these shocks alter vote intentions and party support, with a focus on heterogeneity across regions and voter segments. Key findings suggest that information shocks can significantly sway voter behavior, potentially benefiting or harming populist parties depending on the nature of the information and regional contexts. While the research centers on populist parties, its insights into electoral dynamics, voter responsiveness to information shocks, and regional voting patterns could be relevant for predicting outcomes in future elections, such as the 2026 Rhineland-Palatinate parliamentary elections. Specifically, understanding how unexpected information might influence voter support for major parties like the CDU could help assess their chances of securing the second most seats.
+Title: German Greens vie with conservatives for top spot in state poll - Yahoo
+Published Date: 2026-03-08T16:02:35.547Z
+URL: https://www.yahoo.com/news/articles/german-greens-vie-conservatives-top-155811842.html
+Summary: The article reports that in the Baden-Württemberg state election, the German Greens are competing closely with Chancellor Friedrich Merz's conservative Christian Democrats (CDU) for the top spot, indicating a significant Green resurgence in a traditionally conservative region. Outgoing Premier Winfried Kretschmann's participation highlights ongoing political shifts, with the far-right Alternative for Germany also gaining strength. While this focuses on Baden-Württemberg, the emerging trend of Greens gaining ground and the CDU's competitive position may suggest similar dynamics in neighboring states like Rhineland-Palatinate. Therefore, the CDU's prospects of securing the second most seats in the 2026 Rhineland-Palatinate elections could be influenced by these regional political shifts, with the Greens potentially challenging CDU dominance based on recent electoral trends.
 
 

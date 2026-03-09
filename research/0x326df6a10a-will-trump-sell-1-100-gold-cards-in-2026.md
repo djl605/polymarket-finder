@@ -1,49 +1,49 @@
 # Research: Will Trump sell 1-100 Gold Cards in 2026?
 
 **Market ID:** 0x326df6a10a6cdd74bdc1ef77906037e90b1f1d6dd1fdcbf6580aea62de094a96
-**Researched At:** March 2, 2026 at 02:54:53 PM UTC
+**Researched At:** March 9, 2026 at 03:01:58 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump sell 1-100 Gold Cards in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 13.6¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Recent, credible reporting indicates the program is set to sell thousands of Gold Cards per day—making a 1–100 sales outcome very unlikely. The market’s 22.7% chance of limited sales appears significantly overstated, implying a mispricing of roughly 17–18¢.
+Conflicting reports—one suggesting a premium, limited program with no sales so far and another claiming mass issuance—leave the true issuance volume highly uncertain. A price near 17.9% reasonably reflects this ambiguity, and there’s no clear, credible signal of large mispricing at this time.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This is a binary question on whether Trump’s administration will sell between 1 and 100 “Gold Cards” in 2026. A “YES” requires selling at least one but no more than a hundred cards by December 31, 2026; a “NO” occurs if zero cards are sold or more than 100.
+The market asks whether Trump will sell between 1 and 100 “Gold Cards” in calendar 2026. A YES means at least one but no more than 100 individuals complete purchases by Dec 31 2026; a NO means either zero sales or more than 100 sales.
 
 2. EVIDENCE EVALUATION  
-Bullish (for YES):  
-• The program only launched applications in late February 2026, so initial take-up might be slow and regulatory or implementation delays could limit sales under 100.  
-• Details on eligibility and processing are still being finalized, leaving uncertainty on throughput.  
-
-Bearish (for NO):  
-• A February 16, 2026 report (Y-Axis) states the U.S. plans to issue 1,000 Gold Cards daily, targeting 10 million total—implying a capacity far above 100 in a single year.  
-• Another February 27, 2026 article projects potential issuance of up to 200,000 visas, with preliminary registration already open.  
-Credibility: Y-Axis appears to be a specialized immigration analysis site; dates are very recent. Other sources (Pollak PLLC, WIONews) confirm launch but give no volume; no credible source suggests a cap near 100.  
+Bullish (YES) view:  
+• The Y-Axis article (2026-02-25) claims a plan to sell up to millions of cards annually (1,000/day to 10 million/year), implying it’s virtually certain Trump will sell at least 100 by year’s end. If true, the YES probability should approach 100%.  
+Bearish (NO) view:  
+• WION (2026-02-11) describes a $1 million premium offering with no disclosed volume, suggesting very few or no cards sold in 2026.  
+• The US Gold Card Visa Research Team (2026-02-28) reports zero verified recipients so far; complex processing and confidentiality likely delay sales.  
+Source credibility: WION and the program-research site are moderately credible; the Y-Axis blog is less authoritative and internally inconsistent (price vs. volume mismatches). No clear official confirmation of large-scale issuance exists.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 22.7%, the market may reflect traders’ caution about rollout risks or assume a pilot phase. However, the authoritative report of 1,000 daily sales strongly contradicts a sub-100 outcome. Low volume suggests few participants, possibly missing the Y-Axis insight.
+• The 17.9% price plausibly reflects genuine uncertainty among informed traders about program scale, rollout speed, and processing timeline.  
+• Low volume and tight spreads may simply reflect balanced bearish and bullish views rather than one-sided overconfidence.  
+• Because no actual sales have been reported yet, the outcome remains highly uncertain and likely correctly priced at a single-digit or low-double-digit percentage.
 
 4. MISPRICING ASSESSMENT  
-Given the high‐volume sales plan, the true probability of selling no more than 100 cards is likely <5%. The market’s 22.7% is thus overstated by roughly 17–18 cents. Checked resolution criteria: time window and volume targets align with the Y-Axis data, so no technicality is overlooked.
+There is no specific, credible evidence that the probability deviates substantially from ~18%. The key official data needed (actual issuance numbers or clear policy rollout) is not yet available. Both sides hinge on unverified or conflicting reports, so the market price is a reasonable midpoint given current ambiguity.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 80% (recent specialized reporting)  
-Magnitude of mispricing: ~17.7¢  
-Expected value ≈ 0.8 × 17.7 = 14.16¢, round to 13.6¢.
+Strength of evidence that price is wrong: ~20% (conflicting, low-clarity)  
+Magnitude of mispricing if wrong: ~5¢  
+Expected value = 0.20 × 5¢ = 1¢
 
-EXPECTED_VALUE: 13.6  
-SUMMARY: Recent, credible reporting indicates the program is set to sell thousands of Gold Cards per day—making a 1–100 sales outcome very unlikely. The market’s 22.7% chance of limited sales appears significantly overstated, implying a mispricing of roughly 17–18¢.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: Conflicting reports—one suggesting a premium, limited program with no sales so far and another claiming mass issuance—leave the true issuance volume highly uncertain. A price near 17.9% reasonably reflects this ambiguity, and there’s no clear, credible signal of large mispricing at this time.  
+CONFIDENCE: low
 
 ---
 
@@ -51,57 +51,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: US will sell 1,000 Gold Cards daily—Priced at $5M Each
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.y-axis.com.au/blog/the-us-is-selling-1000-gold-cards-daily-each-priced-at-dollar-5-million/
-Summary: The article discusses the U.S. government's plan to sell 1,000 Gold Cards daily, priced at $5 million each, as a new pathway to U.S. citizenship for wealthy investors. This initiative, introduced by Trump, aims to replace the existing EB-5 investor visa program, which required job creation and a lower investment threshold. The Gold Card offers permanent residency without job creation requirements, making it more accessible for affluent individuals.
-
-Key points relevant to predicting whether Trump will sell 1-100 Gold Cards in 2026 include:
-- The U.S. plans to issue a total of 10 million Gold Cards, indicating a significant push to attract wealthy investors.
-- The Gold Card program is designed to reduce fraud and streamline the immigration process for investors.
-- The absence of congressional approval for Gold Card applications suggests that the program could be implemented flexibly and potentially expanded in the future.
-
-Given these factors, if the demand for Gold Cards remains strong and the program is successful, it is plausible that Trump could sell 1-100 Gold Cards in 2026 as part of this ongoing initiative.
-
-Title: U.S. Introduces $5 Million 'Trump Card' Visa Program for Global Investors
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.y-axis.com/news/trump-linked-website-selling-golden-visas-here-what-you-need-to-know-before-you-buy-in/
-Summary: The U.S. has launched a new visa program called the Trump Card, which requires a $5 million investment for foreign nationals seeking permanent residency. This initiative is designed to attract high-value investors and is expected to replace the existing EB-5 visa program, which has a lower investment threshold. The program aims to generate significant revenue, potentially up to $1 trillion, if 200,000 visas are issued.
-
-While the Trump Card visa has garnered attention, specific details about the application process, eligibility, and implementation are still being finalized. Interested applicants can currently register their intent at trumpcard.gov, but full application procedures are pending. 
-
-Given this context, predicting whether Trump will sell 1-100 Gold Cards in 2026 may depend on the program's success, investor interest, and the overall economic climate. The Trump Card's branding and association with Trump could influence its marketability, but the actual sales will hinge on the program's operational details and investor confidence.
-
-Title: Trump Gold Card Updates, Cost, Eligibility, EB-5 Options | Pollak PLLC
-Author: Karen-Lee Pollak
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.pollakimmigration.com/blog/trump-gold-visa-program-updates
-Summary: This webpage discusses the Trump Gold Card program, an immigration pathway for permanent residence through a financial gift to the U.S. government. Key features include using existing EB-1 and EB-2 visa categories and expedited petition review. The program, also known as the "Trump gold visa," launched with the Trumpcard.gov portal. The article mentions the program was announced in the fall of 2025, followed by an Executive Order and the launch of the application portal. The article does not provide any information that could be used to predict the number of Gold Cards that will be sold in 2026.
-
-
-Title: Trump Wants To Offer Wealthy Immigrants ‘Gold Cards’ For $5 Million | Journal
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://vocal.media/journal/trump-wants-to-offer-wealthy-immigrants-gold-cards-for-5-million
-Summary: Donald Trump's proposal for a $5 million "gold card" for wealthy immigrants has sparked significant discussion about its potential implications and feasibility. This initiative is characterized as a luxurious status symbol that could offer exclusive privileges, such as access to high-level investments and elite networking opportunities. However, the concept raises questions about its actual existence—whether it is a tangible product, a marketing strategy, or simply a symbolic gesture.
-
-The proposal aligns with Trump's history of bold, attention-grabbing ideas, which often generate substantial media buzz and public engagement. Critics express concerns that such a card could exacerbate economic inequality and reflect elitism, especially in a climate where wealth disparity is a pressing issue.
-
-To predict whether Trump will sell 1-100 gold cards in 2026, consider the following factors:
-
-1. **Public Interest and Demand**: The level of interest from wealthy immigrants and potential buyers will influence the viability of the gold card concept.
-2. **Political Climate**: Trump's political standing and public perception in 2026 will play a crucial role in whether he can successfully market such an initiative.
-3. **Economic Conditions**: The state of the economy and attitudes toward wealth and privilege at that time may affect the appeal of a luxury item like the gold card.
-4. **Marketing Strategy**: If Trump positions the gold card as a unique investment opportunity, it may attract buyers, but it will require a solid marketing strategy to convert interest into sales.
-
-Overall, while the idea of selling gold cards could align
-
 Title: Trump Launches $1 Million ‘Gold Card’ Offering Path to Citizenship
 Author: 
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://www.wionews.com/short-videos/trump-launches-1-million-gold-card-offering-path-to-citizenship-1765426756191
-Summary: Former President Donald Trump has introduced a $1 million "Gold Card" program that offers a pathway to U.S. citizenship. This initiative is part of his broader strategy to appeal to voters and generate revenue. The program's success in selling 1-100 Gold Cards in 2026 could depend on several factors, including public sentiment towards immigration policies, Trump's political standing at that time, and the overall economic climate. Observing the initial response to the Gold Card offering and its alignment with Trump's campaign strategies may provide insights into its potential sales in the future.
+Summary: The webpage reports that former President Donald Trump has introduced a new program offering a "Gold Card" for $1 million, which provides a pathway to U.S. citizenship. Details about the number of cards available or future plans for selling additional cards are not specified. Given the high price and exclusive nature of this offering, it is unlikely that Trump will sell 1-100 Gold Cards in 2026, as the program appears to be a limited, premium initiative rather than a mass-market product.
+
+Title: US will sell 1,000 Gold Cards daily—Priced at $5M Each
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://www.y-axis.com.au/blog/the-us-is-selling-1000-gold-cards-daily-each-priced-at-dollar-5-million/
+Summary: The article reports that the US plans to sell 10 million Gold Cards daily, each priced at $5 million, as a new pathway to US permanent residency and citizenship. This initiative aims to replace the existing EB-5 investor visa program, eliminating job creation requirements and streamlining the process for wealthy investors. Given the current plan to sell 10 million Gold Cards annually, averaging approximately 27,397 cards per day, it is highly unlikely that only 1 to 100 Gold Cards will be sold in 2026. Instead, the US government intends to facilitate a significantly larger volume of sales, suggesting that in 2026, the number of Gold Cards sold could be in the millions, aligning with the daily sales target.
+
+Title: Market moves & themes that mattered: February 2026
+URL: https://www.janushenderson.com/en-se/advisor/article/market-moves-themes-that-mattered-february-2026/
+Summary: The February 2026 market update highlights strong performance in gold, which rose over 10% and continued its upward trend for the seventh consecutive month, driven by geopolitical tensions, Middle East conflicts, and safe-haven demand. Gold's recent gains suggest increased investor interest in precious metals amid geopolitical and economic uncertainties. While the report does not mention "Gold Cards" or any specific sales by Trump, the rising gold prices and ongoing geopolitical tensions could influence market perceptions and potential product launches related to gold assets. However, there is no direct information indicating whether Trump will sell 1-100 Gold Cards in 2026.
+
+Title: Has Anyone Actually Received a Trump Gold Card Visa? [2026 Status] | US Gold Card Visa Program
+Author: Gold Card Visa Research Team
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://usgoldcardvisaprogram.com/has-anyone-received-gold-card/
+Summary: As of February 2026, no verified individuals have received a Trump Gold Card Visa, despite government claims of tens of thousands of applicants and purchases. The program, launched in December 2025, involves a complex process with multiple steps, including a $1 million non-refundable gift, but no confirmed approvals have been publicly reported. Factors such as privacy concerns, early processing stages, potential confidentiality agreements, and the distinction between registering interest and receiving approval suggest that selling 1-100 Gold Cards in 2026 remains uncertain. The lack of verified recipients indicates that, at this stage, it is unlikely that Trump will sell multiple Gold Cards within the year.
+
+Title: The American public deserves to know how the Trump ... - Facebook
+URL: https://www.facebook.com/ElizabethWarren/posts/the-american-public-deserves-to-know-how-the-trump-administration-decided-to-sel/1414779073349920/
+Summary: The webpage appears to be a Facebook post by Elizabeth Warren, discussing concerns about transparency and accountability related to the Trump administration. It emphasizes the importance of the American public knowing how decisions were made during Trump's tenure, especially regarding sensitive or significant actions. While the content does not directly address the sale of Gold Cards or specific predictions about such events in 2026, it highlights themes of government transparency, accountability, and public awareness that could be relevant when considering the likelihood of Trump engaging in high-profile or controversial sales or ventures in the future.
 
 

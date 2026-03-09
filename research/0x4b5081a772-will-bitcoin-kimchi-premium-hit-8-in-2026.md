@@ -1,54 +1,46 @@
 # Research: Will Bitcoin kimchi premium hit 8% in 2026?
 
 **Market ID:** 0x4b5081a772fea03086e2c09b2c522651401ec47e2f8cdcc9a081f075d27be6b8
-**Researched At:** March 3, 2026 at 04:22:55 AM UTC
+**Researched At:** March 9, 2026 at 03:04:58 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Bitcoin kimchi premium hit 8% in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 9.0¢
+**Confidence:** Medium
+**Expected Value:** 30.0¢
 
 ### Summary
 
-Current research shows the kimchi premium at ~1.5–2%, with no forecasts approaching 8% absent a major regulatory or demand shock; low-volume suggests this market is likely overpricing extreme spikes.
+With current kimchi premiums at ~1–2% and no credible path to 8% absent a major regulatory or demand shock, the market’s 64.5% “Yes” price appears significantly overstated. Volume is low and likely driven by a small number of bettors rather than informed consensus.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether at any point from now until December 31, 2026 the daily Bitcoin Korea Premium Index will reach or exceed 8%. A “Yes” requires a one-day value ≥ 8%; otherwise “No.”
+The market asks whether the daily Bitcoin kimchi premium index (as published by CryptoQuant) will ever reach 8% or higher at any point from now through December 31, 2026. A “Yes” requires at least one day with a Korea premium ≥ 8%; otherwise the market resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish points (lower probability of 8%):  
-• Recent actual premiums are only ~1.45–2.18% (Feb 11–25, 2026).  
-• No research source forecasts anywhere near 8% in 2026.  
-• The Complete Guide explains drivers (capital controls, local demand), but gives no basis for a four-to-five-fold jump this year.  
-Bullish points (higher probability of 8%):  
-• ScienceDirect notes that in high–capital-control regimes, regional spreads can spike and persist when shocks occur. A sudden regulatory shift or demand surge in Korea could push premiums sharply upward.  
-• Crypto markets remain highly volatile; a global bull run could exacerbate local bottlenecks.  
-
-Source credibility/recency: All sources are from February 2026 or earlier 2026; reasonably current. No single source directly forecasts an 8% peak. The bearish evidence (actual premiums far below 8%) is concrete; bullish is theoretical.
+• Bearish indicators – current premium ~0.5–1.9% (Bloomingbit, ITTimes, AInvest). Historical peaks near 55% occurred under extreme capital controls years ago. Today’s stringent regulations and low liquidity (AInvest) make an 8% move seem to require major easing or a sudden surge in local demand, neither of which has credible catalysts in 2026.  
+• Bullish counterpoints – overall bullish Bitcoin price outlook (Polymarket: ~89% chance of $75k), which could lift local premiums if domestic demand spikes or global arbitrage is constrained. Yet none of the sources identify a policy shift or demand shock likely to propel the premium from ~2% to 8% within the year.  
+• Source credibility & recency – all data are from late Feb/early Mar 2026, from reputable market commentators (AInvest, Bloomingbit, ITTimes). They uniformly report subdued premiums with no emerging trend toward 8%.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 67% price implies traders assign better-than-even odds to a near-quadrupling of the premium.  
-• Low volume ($469) suggests few participants—likely an overconfident bull(s) rather than broad consensus.  
-• The outcome is far from obvious: if it were, volume would likely be higher. The tight spread simply reflects low liquidity and one market-maker.  
+• A 64.5% “Yes” price implies traders believe a high‐impact regulatory or demand shock is more probable than not. Given low $545 volume and tight spread, it’s plausible this figure reflects one or two overconfident bets rather than broad informed consensus. Informed participants likely find the event unlikely, explaining the low engagement.
 
 4. MISPRICING ASSESSMENT  
-• The market appears to overvalue the chance of hitting 8% given current trends and lack of any concrete catalysts.  
-• A scenario with a 25–35% probability of 8% premium seems more plausible unless one expects a major Korean regulatory or demand shock.  
-• No technicalities or resolution ambiguities are being overlooked.  
+• Objective weighing—strong evidence that the premium remains near 1–2% with no clear path to 8% in 2026. The 64.5% implied probability appears materially overstated by at least 20–30¢.  
+• Critical check—no indication that resolution criteria are misunderstood; the market start date and index definition are clear. There are no hidden rules or recent regulatory announcements suggesting imminent premium spikes.  
+• Charitable interpretation—perhaps a trader anticipates an unspecified capital control or geopolitical event boosting local demand. But without any cited catalyst, it seems traders have not properly discounted the regulatory drag.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30% (solid data on current premiums but limited forward-looking insight)  
-Magnitude of mispricing: ~30 cents (realistic price might be around 35–40%, not 67%)  
-Expected value = 0.30 × 30 = 9 cents
+• Strength of evidence: ~60% (multiple consistent sources, current data, but always some uncertainty about future regulation)  
+• Magnitude of mispricing: ~50¢ (market should be closer to 20% probability than 64.5%)  
+• Expected value = 0.60 × 50¢ = 30¢
 
-EXPECTED_VALUE: 9  
-SUMMARY: Current research shows the kimchi premium at ~1.5–2%, with no forecasts approaching 8% absent a major regulatory or demand shock; low-volume suggests this market is likely overpricing extreme spikes.  
-CONFIDENCE: low
+EXPECTED_VALUE: 30  
+SUMMARY: With current kimchi premiums at ~1–2% and no credible path to 8% absent a major regulatory or demand shock, the market’s 64.5% “Yes” price appears significantly overstated. Volume is low and likely driven by a small number of bettors rather than informed consensus.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,33 +48,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Complete Guide to Cryptocurrency Kimchi Premium Arbitrage
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.gate.com/crypto-wiki/article/complete-guide-to-cryptocurrency-kimchi-premium-arbitrage-20260206
-Summary: The webpage provides a comprehensive overview of the Kimchi Premium arbitrage in cryptocurrency markets, focusing on the phenomenon where Bitcoin and other cryptocurrencies trade at higher prices on South Korean exchanges compared to global markets. This premium arises due to factors like local demand, capital controls, and market inefficiencies. Historically, the Kimchi Premium has fluctuated based on market conditions, regulatory environment, and capital flow dynamics. While the guide explains how traders exploit this arbitrage opportunity, it does not specify future price levels or the likelihood of the premium reaching 8% in 2026. Predicting such a specific future premium involves analyzing market trends, regulatory developments, and capital movement patterns, which are influenced by macroeconomic factors and crypto market maturity. Therefore, while understanding the factors influencing the Kimchi Premium can inform forecasts, the webpage does not provide direct data or forecasts regarding the premium hitting 8% in 2026.
-
-Title: [Breaking] Bitcoin Falls Below $67,000… Kimchi Premium at 2.18%
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://en.bloomingbit.io/feed/news/105948
-Summary: The article reports that Bitcoin's price has recently fallen below $67,000, with the Kimchi premium—a measure of the price difference between Bitcoin in South Korea and other markets—standing at 2.18%. The Kimchi premium indicates strong local demand for Bitcoin in Korea, which can influence price dynamics. While the premium has increased from previous levels, there is no indication it is approaching 8% in 2026. Factors such as market volatility, regulatory developments, and local demand trends will impact future premiums. Currently, the premium's rise to 8% appears unlikely without significant shifts in market conditions or increased local demand in Korea.
-
-Title: Cryptomarket discounts - ScienceDirect.com
-Author: 
-URL: https://www.sciencedirect.com/science/article/pii/S026156062300164X
-Summary: The article examines Bitcoin price disparities across global exchanges, highlighting significant and persistent discounts influenced by market segmentation, location-specific factors, and capital controls. Variability in discounts is notably higher in countries with tighter capital restrictions, driven by local supply-demand shocks and mining activities. While the study does not specifically address future price premiums like the "kimchi premium," its findings suggest that regional market segmentation and capital controls can cause substantial and persistent price deviations. Therefore, if similar market conditions persist or intensify, it is plausible that Bitcoin's kimchi premium could approach or exceed 8% in 2026, especially in markets with strong capital restrictions and localized trading dynamics.
+Title: Bitcoin's Kimchi Premium: A 1.29% Signal of Local Demand or Regulatory Friction?
+Author: AInvest
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.ainvest.com/news/bitcoin-kimchi-premium-1-29-signal-local-demand-regulatory-friction-2603/
+Summary: The current Bitcoin Kimchi premium in South Korea stands at approximately 1.20%, significantly lower than its historical peaks of nearly 55%. This subdued premium reflects strict regulatory measures, capital controls, and reduced market liquidity, which limit arbitrage opportunities and suppress local demand signals. Regulatory tightening, including increased oversight and penalties for operational errors, alongside the delisting of certain tokens like FLOW, has further decreased market depth and liquidity. While some market participants predict the premium could reach over 8% by the end of 2026, the current regulatory environment and liquidity constraints suggest that substantial increases in the premium would require a significant easing of these restrictions or a surge in local demand that overcomes existing friction. Therefore, whether the Kimchi premium will hit 8% in 2026 depends heavily on regulatory developments and market liquidity conditions in South Korea.
 
 Title: Bitcoin Shows 1.46% Kimchi Premium in Korean Market on February 22 |
 Author: 
 Published Date: 2026-02-22T00:00:00.000Z
 URL: https://www.ittimes.com/news/articleViewAmp.html?idxno=83395
-Summary: The current Bitcoin kimchi premium in Korea is approximately 1.46% as of February 22, 2026, with Bitcoin trading at a higher price on South Korean exchanges compared to global platforms like Binance. Historically, the kimchi premium has fluctuated based on local demand, market conditions, and regulatory factors. While the premium is currently modest, significant increases—such as reaching 8%—would likely require substantial shifts in market dynamics, including heightened local demand, regulatory changes, or supply constraints in Korea. Predicting an 8% premium in 2026 would depend on these evolving factors, but current trends suggest such a sharp increase would be notable and potentially driven by unique market conditions.
+Summary: The current Bitcoin kimchi premium in South Korea is approximately 1.46%, with Bitcoin trading at a higher price on local exchanges like Upbit compared to global platforms such as Binance. Similar premiums are observed across major altcoins, generally ranging from 1.3% to 1.5%. Historically, the kimchi premium fluctuates based on local demand, market sentiment, and regulatory factors. While the premium has recently been modest, significant increases—such as reaching 8%—would likely require substantial shifts in these factors, including heightened local demand, restrictions on international trading, or market speculation. Predicting an 8% premium by 2026 would depend on future market dynamics, regulatory environment, and investor behavior in South Korea.
 
-Title: [Market] Bitcoin tops $66,000… Kimchi premium at 1.45%
+Title: [Market] Bitcoin briefly gives up $66,000… Kimchi premium 0.50%
 Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://en.bloomingbit.io/feed/news/106728
-Summary: The recent data shows Bitcoin trading above $66,000, with a current price of approximately $66,145, reflecting a 4.91% increase from the previous day. The kimchi premium, which measures the price difference between South Korean exchanges and global markets, stands at about 1.45%. Historically, the kimchi premium has fluctuated based on market demand, regulatory factors, and capital flows in South Korea. While the premium has recently been around 1.45%, there is no indication from current trends that it is approaching 8% in 2026. Factors influencing future premiums include local market conditions, investor sentiment, and broader crypto market dynamics.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://en.bloomingbit.io/feed/news/107034
+Summary: The article reports that the current kimchi premium for major cryptocurrencies, including Bitcoin, stands at 0.50%. As of early March 2026, Bitcoin briefly dipped below $66,000, trading around $65,944, down 1.25% from the previous day. While the kimchi premium has increased from previous levels, there is no indication it is approaching 8% in the near term. Given the current premium and market conditions, a significant jump to 8% within 2026 appears unlikely based on this data.
+
+Title: [Market Update] Bitcoin tops $68,000… Korea premium at 1.90%
+Author: 
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://en.bloomingbit.io/feed/news/106255
+Summary: The current Bitcoin kimchi premium remains around 1.90%, with Bitcoin trading at approximately $68,129, down slightly from previous levels. Historically, the premium has fluctuated within the 1% range, and there is no indication from recent data that it is trending toward higher levels like 8%. Market factors such as regional demand, trading volumes, and broader cryptocurrency market trends influence the premium. Given the current stable premium and market conditions, a significant jump to 8% in 2026 appears unlikely without substantial shifts in regional trading dynamics or regulatory changes.
+
+Title: Polymarket: 89% Chance Bitcoin Hits $75,000 in 2026 | Phemex News
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://phemex.com/news/article/polymarket-predicts-89-chance-of-bitcoin-reaching-75000-in-2026-64732
+Summary: Polymarket's prediction data indicates a generally bullish outlook for Bitcoin by 2026, with an 89% chance of reaching $75,000 and a 75% chance of hitting $80,000. While these figures suggest strong upward momentum, the summary does not specifically address the Bitcoin kimchi premium or its potential to reach 8%. The kimchi premium, which reflects the price difference between Bitcoin in South Korea and other markets, can be influenced by factors such as market liquidity, regulatory changes, and regional demand. Given the overall positive market sentiment and Bitcoin's price trajectory projected by Polymarket, there is a possibility that regional premiums like the kimchi premium could increase, but specific predictions for an 8% kimchi premium in 2026 are not provided.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Justin Story be the Republican nominee for FL-09?
 
 **Market ID:** 0x15073e709553c34a801a4169cc8c155f4e7098c68d4e2b593d3676c19023a6fb
-**Researched At:** March 1, 2026 at 06:09:11 AM UTC
+**Researched At:** March 9, 2026 at 03:02:57 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Justin Story be the Republican nominee for FL-09?"
 
 ---
@@ -9,46 +9,40 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.5¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-There’s no direct data on Justin Story’s campaign strength; Chalifoux’s sizable fundraising lead and absence of endorsements for Story support the current 21% as plausible. Without specialized inside information, there’s no clear mispricing.
+No research evidence pertains to Justin Story or the FL-09 primary; the 21.5% price merely reflects an uninformed multi-candidate prior and shows no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market is asking whether Justin Story will emerge as the Republican nominee for Florida’s 9th Congressional District in the August 18, 2026, primary (or be officially designated by November 3 if delayed). For a YES resolution, Story must win the GOP primary (or be formally announced as nominee by party sources). Any other candidate winning or no announcement by the deadline resolves to NO.
+The market asks whether Justin Story will secure the Republican nomination for Florida’s 9th Congressional District in the August 18, 2026 primary. For a “YES” resolution, Story must formally file, win the GOP primary, and be officially announced by 11:59 PM ET on November 3, 2026; any other nominee or a failure to nominate him resolves to “NO.”
 
 2. EVIDENCE EVALUATION  
-Bullish for Story (suggesting price is too low):  
-- None of the research pieces mention Story’s fundraising haul or endorsements, implying either he is quietly self-funded or not yet competing at Chalifoux’s level. But that’s not positive evidence—just absence.  
-
-Bearish for Story (suggesting price is too high):  
-- Thomas Chalifoux has $2 million in 2025 fundraising, dwarfing any known Story war chest.  
-- No reported endorsements or local party backing for Story, whereas endorsements often coalesce early in Florida GOP races.  
-- Research on other races (HD 71, FL-06) shows endorsements matter; Story has no reported high-profile backers.  
-
-Source credibility & recency: All articles are from February 2026 and published by credible local outlets. None offer direct polling or investor insight on Story.  
-
-Nothing in the evidence definitively undercuts the 21% probability—it simply highlights that Story’s strengths (if any) aren’t public. If the race were truly a foregone conclusion, the market would likely reflect a much lower price, but it sits at 21%, implying some chance Story has unreported strengths (e.g., grassroots support, internal RNC backing, or late donations).
+– None of the provided research articles mention Justin Story or the FL-09 race; all focus on gubernatorial polls for Byron Donalds.  
+– There is zero direct polling, fundraising, endorsement, or campaign‐launch information on Story.  
+– Source credibility is high but irrelevant: all findings are recent and from reputable Florida political outlets, yet unrelated to FL-09.  
+– Without any bullish or bearish signals on Story, there is no basis to doubt or confirm the 21.5% price.
 
 3. MARKET EFFICIENCY ANALYSIS  
-The 21% price could represent:  
-- A consensus that Chalifoux is the front‐runner but Story has a nontrivial path (primaries can be unpredictable).  
-- Pricing by a few traders who know Story’s internal polling or donor commitments not yet public.  
-- Low volume because few traders feel confident in placing a strong probability without more data.  
+– In absence of candidate‐specific info, a 20–25% win‐probability roughly aligns with an evenly divided multi-candidate field (4–5 serious contenders).  
+– The zero trading volume suggests this market may not have drawn multiple informed participants, but the posted price still reflects a plausible prior.  
+– Low volume likely stems from scarcity of public data on Story rather than an obvious outcome.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, credible evidence pointing to a multi‐cent mispricing. We lack direct data on Story’s campaign organization, donor lists, endorsements, or polling. Chalifoux’s financial advantage argues the market might even be slightly overestimating Story. Conversely, the absence of public info doesn’t prove inefficiency; it may simply reflect true uncertainty.
+– No missing credible information that would swing probability by >5–10 cents.  
+– Given long horizon and lack of visibility into FL-09 contenders, a uniform‐field prior is the most charitable explanation for 21.5%.  
+– There is no specific evidence pointing to a significant mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is wrong: very low (10%)—no direct info on Story to challenge 21%  
-- Magnitude of potential mispricing: minimal (<5 cents), since price seems reasonable absent new data  
-Expected value ≈ 10% × 5¢ = 0.5¢
+– Strength of evidence: 0% (no relevant data).  
+– Magnitude of mispricing: 0 cents (no actionable discrepancy found).  
+– Expected value = 0% × 0 = 0 cents.
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: There’s no direct data on Justin Story’s campaign strength; Chalifoux’s sizable fundraising lead and absence of endorsements for Story support the current 21% as plausible. Without specialized inside information, there’s no clear mispricing.  
+EXPECTED_VALUE: 0.0  
+SUMMARY: No research evidence pertains to Justin Story or the FL-09 primary; the 21.5% price merely reflects an uninformed multi-candidate prior and shows no clear mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -57,48 +51,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Darren Soto raises less than most targeted Dems as Thomas Chalifoux closes 2025 with $2M
-Author: Jacob Ogles
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://floridapolitics.com/archives/777962-darren-soto-raises-less-than-most-targeted-dems-as-thomas-chalifoux-closes-2025-with-2m/
-Summary: Darren Soto, a Democratic incumbent in Florida's 9th Congressional District (FL-09), has raised less campaign funding compared to other targeted Democratic candidates, which could impact his re-election prospects. Meanwhile, Republican challenger Thomas Chalifoux has closed 2025 with a significant $2 million in campaign funds, positioning him strongly for the upcoming election. The financial dynamics suggest that Chalifoux may be a formidable opponent, potentially influencing the Republican nomination process. 
+Title: Poll: Byron Donalds holds 40-point lead in GOP Governor Primary | Florida News | miamitimesonline.com
+Author: Drew Wilson, Florida Politics
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.miamitimesonline.com/news/florida/poll-byron-donalds-holds-40-point-lead-in-gop-governor-primary/article_2bbd88f2-c2a2-4b5e-bf95-b47a1eba1413.html
+Summary: The provided webpage primarily reports on a recent poll indicating Byron Donalds's strong lead in the Florida GOP gubernatorial primary, with 44% support among likely Republican voters and significant backing from key conservative and media-consuming groups. It does not mention Justin Story or provide any information about his candidacy or prospects for the FL-09 congressional race. Therefore, based on this webpage, there is no relevant information to predict whether Justin Story will be the Republican nominee for FL-09.
 
-Justin Story's candidacy for the Republican nomination remains uncertain, but the financial strength of Chalifoux could affect Story's chances if he is also in the running. The competitive fundraising landscape indicates that whoever can secure substantial backing may have an advantage in the nomination process. Therefore, monitoring fundraising efforts and endorsements for both Story and Chalifoux will be crucial in predicting who will emerge as the Republican nominee for FL-09.
+Title: Poll: Byron Donalds leads Jerry Demings, David Jolly in hypothetical Governor's race matchups
+Author: A.G. Gancarski
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://floridapolitics.com/archives/783191-donalds-jolly-demings-poll/
+Summary: The provided webpage discusses a Florida political poll focusing on potential gubernatorial race matchups, highlighting that U.S. Rep. Byron Donalds leads in hypothetical scenarios against Democratic candidates Jerry Demings and David Jolly. Donalds shows strong support among Republican voters, especially those backing Trump, but minimal crossover appeal among Democrats and Black voters. While the poll offers insights into Donalds' current standing in statewide races, it does not provide specific information about Justin Story or FL-09 congressional district nominations. Therefore, based on this webpage, there is no relevant data to predict whether Justin Story will be the Republican nominee for FL-09.
 
-Title: Jared Moskowitz trails most targeted Dems in fundraising, ends 2025 with $1M for CD 23 defense
-Author: Jesse Scheckner
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://floridapolitics.com/archives/778403-jared-moskowitz-trails-most-targeted-dems-in-fundraising-ends-2025-with-1m-for-cd-23-defense/
-Summary: Jared Moskowitz, a Democratic candidate, is currently trailing behind other targeted Democrats in fundraising efforts, concluding 2025 with $1 million earmarked for his defense in Congressional District 23 (CD 23). This financial positioning may influence the dynamics of upcoming elections, including the Republican nomination for Florida's 9th Congressional District (FL-09). While the article does not directly address Justin Story's candidacy or his chances of becoming the Republican nominee for FL-09, understanding the fundraising landscape and the competitive environment in nearby districts could provide insights into the broader electoral strategies and potential outcomes for Republican candidates in Florida.
+Title: New FL Gubernatorial Poll: Donalds Up by 6 vs. Jolly, 7 Over Demings – Tallahassee Reports
+Author: Staff
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://tallahasseereports.com/2026/03/04/new-fl-gubernatorial-poll-donalds-up-by-6-vs-jolly-7-over-demings/
+Summary: The article reports on a recent Florida political poll indicating that Republican candidates, including Byron Donalds for governor and Ashley Moody for U.S. Senate, currently hold modest leads over their Democratic opponents. Donalds leads former Rep. David Jolly by six points and Orange County Mayor Jerry Demings by seven points. The poll also shows that Florida voters favor Republican figures like Ron DeSantis and have mixed opinions on Donald Trump’s approval, with a slight unfavorable tilt. While these results reflect a general Republican advantage in the state, they do not provide specific insights into the candidacy or prospects of Justin Story for FL-09.
 
-Title: Randy Fine Claims Rick Staly Endorsement; Staly Indicates Otherwise | WNDB - News Daytona Beach
-Author: Chris Gollon
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.newsdaytonabeach.com/stories/randy-fine-claims-rick-staly-endorsement-staly-indicates-otherwise,152373
-Summary: The article discusses a controversy surrounding U.S. Rep. Randy Fine's claim that all six sheriffs in Florida's 6th congressional district, including Sheriff Rick Staly, endorsed him for re-election. While five sheriffs explicitly endorsed Fine, Staly clarified that he has not endorsed Fine for the 2026 election, despite having done so in 2025. Staly stated he would not participate in the upcoming election due to a potential conflict of interest with one of Fine's opponents, Charles Gambaro, who is a member of the Palm Coast City Council. The Fine campaign's assertion about Staly's endorsement raises questions about the accuracy of their claims, which could impact voter perception and Fine's campaign strategy.
-
-This information may be relevant for predicting whether Justin Story will be the Republican nominee for FL-09, as it highlights the dynamics within the Republican party and the importance of endorsements in shaping candidate viability. Understanding the endorsement landscape and any potential conflicts of interest among candidates could provide insights into the nomination process.
-
-Title: Greg Steube endorses Melton Little in HD 71 Republican Primary
+Title: 9 Republican Senators endorse Byron Donalds for Governor as he builds GOP support
 Author: Jesse Mendoza
-Published Date: 2026-01-30T00:00:00.000Z
-URL: https://floridapolitics.com/archives/777034-greg-steube-endorses-melton-little-in-hd-71-republican-primary/
-Summary: The article discusses U.S. Rep. Greg Steube's endorsement of Melton Little in the Republican primary for Florida's House District 71, a seat currently held by term-limited Rep. Will Robinson. Steube, who has known Little for over 20 years, emphasizes Little's conservative values and commitment to representing Manatee County. While this information is specific to HD 71 and does not directly address the query about Justin Story's candidacy for FL-09, it highlights the importance of endorsements in Republican primaries, which could be a relevant factor in predicting Story's chances. Understanding the dynamics of endorsements and candidate support in local races may provide insights into the broader Republican nomination landscape, including FL-09.
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://floridapolitics.com/archives/782665-9-republican-senators-endorse-byron-donalds-for-governor-as-he-builds-gop-support/
+Summary: The article reports that Byron Donalds has garnered significant support from nine prominent Republican Senators, along with endorsements from former President Donald Trump, Elon Musk, a majority of Florida Sheriffs, 17 members of Florida’s congressional delegation, and 75% of the Florida House Republican caucus. These endorsements highlight Donalds’ strong standing within the GOP and his alignment with the "American First" agenda, emphasizing his conservative credentials, support for law enforcement, border security, and opposition to woke ideologies. While the article underscores Donalds’ growing momentum in the GOP primary for Florida governor, it does not provide specific information about Justin Story or his potential to be the Republican nominee for FL-09.
 
-Title: Republican Party (United States)
-URL: https://en.wikipedia.org/wiki/Republican_Party_(United_States)
-Summary: The Republican Party (United States) is a major political party in the U.S., known for its conservative positions on various issues. To predict whether Justin Story will be the Republican nominee for Florida's 9th Congressional District (FL-09), consider the following factors:
-
-1. **Party Dynamics**: The Republican Party's internal dynamics, including endorsements from influential party members and local party support, can significantly impact a candidate's chances.
-
-2. **Primary Elections**: The outcome of the Republican primary in FL-09 will be crucial. Analyze polling data, voter sentiment, and the presence of other candidates in the race.
-
-3. **Campaign Strategy**: Justin Story's campaign strategy, including fundraising efforts, outreach to voters, and responses to key issues, will play a role in his nomination prospects.
-
-4. **Political Climate**: The broader political landscape, including national trends affecting Republican candidates and local issues specific to FL-09, will influence voter decisions.
-
-5. **Past Performance**: Review Justin Story's previous electoral performance, if applicable, and his political experience, which can bolster his candidacy.
-
-For more detailed insights, consider examining recent news articles, polling data, and statements from party officials regarding the FL-09 race.
+Title: Byron Donalds cruising in race for Florida governor, new poll finds | Tribune | dailygazette.com
+Author: Alexandra Glorioso, Miami Herald
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.dailygazette.com/tribune/byron-donalds-cruising-in-race-for-florida-governor-new-poll-finds/article_160275ee-1d03-534e-b61f-fd4f80e424b8.html
+Summary: The article discusses Byron Donalds's strong lead in the Florida Republican primary race for governor, with 62% support among GOP voters and significant backing from President Trump’s endorsement, which has notably increased his favorability. While the focus is on the gubernatorial race, there is no information provided about Justin Story or his potential candidacy for FL-09. Therefore, based on this article, there is no relevant data to predict whether Justin Story will be the Republican nominee for FL-09.
 
 

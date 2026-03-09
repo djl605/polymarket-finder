@@ -1,7 +1,7 @@
 # Research: Will Roma finish in the top 4 in the 2025-26 Serie A season?
 
 **Market ID:** 0xc08d2c4adafae24cb956c6baee9c0ed5ebb2d95656ad51aa61ba4e54878758cf
-**Researched At:** March 2, 2026 at 04:22:03 AM UTC
+**Researched At:** March 9, 2026 at 03:01:58 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Roma finish in the top 4 in the 2025-26 Serie A season?"
 
 ---
@@ -9,43 +9,52 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 2.8¢
 
 ### Summary
 
-Roma sits just outside the top 4 with 13–14 games left. The market’s 53.5% roughly aligns with a 46% Opta baseline plus a bit of momentum premium. No large, overlooked factor suggests a major mispricing.
+Recent standings and a coach’s simulation suggest a ~46% chance for Roma to finish top 4 vs the market’s 39%, a small gap under 10 ¢. Low volume and narrow spread indicate genuine uncertainty, and no >20 ¢ mispricing is evident.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market bets on whether AS Roma will finish in Serie A’s 2025-26 season in one of the top four positions. A “YES” resolution requires Roma to rank 1–4 on points (with official tiebreakers if necessary) when the season ends. Anything else, including cancellation, resolves as “NO.”
+The market asks whether AS Roma will finish among the top four teams in Italy’s Serie A at the end of the 2025-26 season. A “Yes” resolves if, after all 38 league matches, Roma is officially ranked 1st–4th, applying tiebreakers if needed; otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish evidence:  
-• Late-Feb Opta supercomputer projection (via FotMob, Feb 14) gave Roma a 46.3% chance with 14 games left and cited improving form under Gasperini (e.g. victory over Cagliari, Donyell Malen’s scoring).  
-• March 1 draw with Juventus (3-3) demonstrates Roma can earn points off direct rivals.  
+Bullish evidence (higher than 39%):  
+• 2026-02-28 standings (27/38 games played): Roma sits 4th with 51 points and +18 GD—projecting to ~72 points over 38 matches, usually enough for top 4.  
+• Gasperini on 2026-02-14 run‐of‐season model: ~46.3% chance given 14 games left, placing Roma narrowly behind in the pack.  
+• Preseason Opta supercomputer: considered Roma contenders under Gasperini, implicitly in the top‐4 mix.  
 
-Bearish evidence:  
-• As of Feb 1, Roma sat 5th with 43 points—two behind Juventus in 4th and four behind Napoli in 3rd—with 14 matches to play (Profilenews, Feb 2). They’ve dropped eight games, indicating inconsistency.  
-• No major new information (injuries, transfers, managerial changes) has meaningfully shifted odds since the Opta projection.
+Bearish evidence (lower than 39%):  
+• Gasperini’s own latest comments (2026-02-28) warn that head-to-head fixtures (e.g., vs Juventus, Napoli) and remaining form could swing Roma out of 4th—highlighting volatility.  
+• Tight race with Juventus and Napoli; a couple of slip-ups could drop Roma below fourth.  
 
-Credibility & recency: All sources are from Feb – Mar 2026 and directly relevant. None signal a dramatic change that the market hasn’t priced in.
+Credibility & recency:  
+• Standings and Gasperini quotes are from Feb 2026—very recent and directly on‐point.  
+• Opta preseason model is older (Aug 2025) and less predictive now that three–quarters of the season is done.  
+• U17 women’s data is irrelevant.
+
+None of the bullish signals suggest a >20-point gap from market pricing, and the coach’s own simulations (~46%) are only modestly above 39%. Conversely, emphasis on key fixtures justifies caution.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 53.5% price modestly exceeds the 46.3% computer projection, but recent positive results (3-3 vs Juve) could justify a small upward revision.  
-• Low total volume ($5.3 K) and a narrow spread (3 ¢) suggest a few active traders set the price; it could reflect genuine, limited expert interest rather than widespread consensus.  
-• The outcome remains uncertain with 13–14 matches left against strong opponents, so a mid-50s% probability is not implausible.
+• 39% can be read as a conservative consensus reflecting both Roma’s current 4th-place standing and the difficulty of head-to-head games.  
+• Low total volume hints that few traders are active; however, the narrow spread (2 ¢) suggests those who have traded agree on the odds.  
+• If outcome seemed evident (>60% or <20%), more volume would likely follow; instead volume is low, indicating genuine uncertainty rather than consensus on an extreme outcome.
 
 4. MISPRICING ASSESSMENT  
-No glaring, unpriced factor emerges. The difference between the market (53.5%) and earlier Opta model (46.3%) is plausibly driven by Roma’s momentum and key draws. There’s no specific, credible evidence that the market is off by >20 ¢; any potential mispricing would be modest.
+• The highest independent probability estimate is ~46% (Gasperini’s model), only ~7 points above.  
+• There’s no strong source implying a conviction swing >20 points missing from the market.  
+• Likely the 39% price is a reasonable aggregation of: current points‐projection (~70+ pts), volatility in key matches, and head-to-head risks.  
+Conclusion: No credible, large (>20 ¢) mispricing is evident.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is miscalibrated: ~30% (the only real signal is the Opta baseline vs market).  
-Plausible magnitude of mispricing: ~5 ¢.  
-Expected value = 0.30 × 5 ¢ = 1.5 ¢.
+Strength of evidence that price is mispriced: ~40% (the coach’s 46% vs market 39% is noted but modest).  
+Magnitude of possible mispricing: ~7 ¢.  
+Expected value ≈ 0.40 × 7 ¢ = 2.8 ¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Roma sits just outside the top 4 with 13–14 games left. The market’s 53.5% roughly aligns with a 46% Opta baseline plus a bit of momentum premium. No large, overlooked factor suggests a major mispricing.  
+EXPECTED_VALUE: 2.8  
+SUMMARY: Recent standings and a coach’s simulation suggest a ~46% chance for Roma to finish top 4 vs the market’s 39%, a small gap under 10 ¢. Low volume and narrow spread indicate genuine uncertainty, and no >20 ¢ mispricing is evident.  
 CONFIDENCE: medium
 
 ---
@@ -54,44 +63,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Ranking Italian Serie A season 2025 2026
+Author: 
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://soccerpredict.info/ranking-italy/
+Summary: The current Serie A 2025-26 season standings show AS Roma in 4th place with 51 points after 27 matches, with a record of 16 wins, 3 draws, and 8 losses. They have a positive goal difference of +18. The top three teams—Inter Milan, AC Milan, and Napoli—are ahead, but Roma remains within reach of a top-four finish. Given their current form, points tally, and position, Roma has a strong chance to finish in the top 4 if they maintain or improve their performance for the remainder of the season.
+
 Title: Gasperini insists Roma must 'fight until the end' in top-four battle
 Author: 
 Published Date: 2026-02-14T00:00:00.000Z
 URL: https://www.fotmob.com/news/i5va3w2d4abc1b768tiphq0pt-gasperini-insists-roma-must-fight-until-end-top-four-battle
-Summary: Gian Piero Gasperini emphasizes the need for Roma to "fight until the end" in their pursuit of a Champions League spot as they prepare to face Napoli. Currently, Roma sits fifth in Serie A, tied on points with fourth-place Juventus and three points behind Napoli in third. With 14 matches remaining, the competition for the top four is intensifying, and the Opta supercomputer gives Roma a 46.3% chance of securing a Champions League position, although their most likely finish is fifth at 30.1%.
+Summary: Gian Piero Gasperini emphasizes that Roma must continue fighting until the end of the 2025-26 Serie A season to secure a Champions League spot, despite currently being in fifth place and closely trailing Napoli and Juventus. With 14 matches remaining, Roma's chances of finishing in the top four are approximately 46.3%, but their most probable position is fifth. Key upcoming matches against Napoli and Juventus are crucial, as they could significantly influence Roma's final standing. The team's performance, particularly in these head-to-head fixtures, will be vital in determining whether Roma can secure a top-four finish.
 
-Gasperini acknowledges the unpredictable nature of the league, noting that several teams, including Inter, Juventus, and Milan, are also in contention. He stresses that while upcoming matches against Napoli and Juventus are crucial, they are not necessarily decisive for Roma's Champions League aspirations. The team's recent form includes a 2-0 victory over Cagliari, and players like Donyell Malen, who has been scoring consistently, could play a key role in their success.
+Title: Gasperini insists Serie A top-four race will not be decided by Roma-Juventus matchup | beIN SPORTS
+Author: Roma and Juventus are separated by four points in the battle for a top-four Serie A finish, ahead of doing battle at the Stadio Olimpico.
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://www.beinsports.com/en-us/soccer/serie-a/articles/gasperini-insists-serie-a-top-four-race-will-not-be-decided-by-roma-juventus-matchup-2026-02-28
+Summary: Gian Piero Gasperini emphasizes that the upcoming Roma-Juventus match will not determine the outcome of the Serie A top-four race. Currently, Roma sits fourth, just ahead of Juventus by four points, with Napoli in third. Despite recent setbacks, including Roma's consecutive league defeats and Champions League exit, the race remains competitive. The match's result is unlikely to be decisive for final standings, suggesting that other factors and remaining fixtures will influence whether Roma secures a top-four finish in the 2025-26 Serie A season.
 
-Overall, Roma's chances of finishing in the top four will depend on their ability to maintain momentum and perform well in critical matches against direct rivals.
-
-Title: Serie A Standings 2026: Inter Extend Lead as Juventus Fourth
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.profilenews.com/en/serie-a-standings-2026/
-Summary: As of February 1, 2026, Roma is currently positioned fifth in the Serie A standings with 43 points, trailing Juventus, who holds the fourth spot with 45 points. The top four teams are Inter Milan (55 points), AC Milan (47 points), Napoli (46 points), and Juventus (45 points). 
-
-Given the current standings, Roma is just two points behind Juventus, indicating that they are still in contention for a top-four finish. However, the competition is tight, with teams like Como (41 points) and Atalanta (36 points) also vying for European qualification. 
-
-To predict whether Roma will finish in the top four, consider their upcoming fixtures, form, and performance against direct rivals. The ongoing race for European spots remains competitive, and Roma will need to secure consistent results in the remaining matches of the season to enhance their chances.
-
-Title: Serie A Match Scores — March 1, 2026
-Published Date: 2026-03-02T04:21:44.041Z
-URL: https://www.espn.com/serie-a/scoreboard/_/date/20260301?origin=exa
-Summary: On March 1, 2026, AS Roma played against Juventus in a high-scoring match that ended in a 3-3 draw. This result reflects Roma's current standing in the Serie A, where they have a record of 16 wins, 3 draws, and 8 losses (16-3-8). As of this match, they are performing well, but their overall position in the league table is crucial for predicting whether they will finish in the top 4 for the 2025-26 season.
-
-To assess Roma's chances of a top 4 finish, consider the following factors:
-1. **Current Standing**: Roma's performance in this match indicates they are competitive, but their overall record and points tally will determine their league position.
-2. **Remaining Matches**: The number of matches left in the season and the strength of their opponents will significantly impact their ability to secure a top 4 finish.
-3. **Competition**: Analyze the performance of other teams in the league, particularly those currently in the top 4, to gauge Roma's chances.
-
-For a more accurate prediction, keep an eye on their upcoming fixtures and how they perform against other top teams in the league.
+Title: U17 European Championship, Women, Qualification Match Scores — March 9, 2026
+Published Date: 2026-03-09T15:01:40.620Z
+URL: https://www.espn.com/u17-european-championship-women-qualification/scoreboard/_/date/20260309?origin=exa
+Summary: The webpage reports the results of a women's U17 European Championship qualification match held on March 9, 2026, where Czechia defeated Romania 5-0. This match is part of the youth women's tournament and does not provide information related to men's professional football or Serie A standings. Therefore, it offers no relevant data to predict whether Roma will finish in the top 4 of the 2025-26 Serie A season.
 
 Title: Serie A Predictions 2025-26: The Opta Supercomputer Projections
 Author: Joel Sritharan
 Published Date: 2025-08-21T00:00:00.000Z
 URL: https://theanalyst.com/articles/serie-a-predictions-2025-26-opta-supercomputer
-Summary: The Opta supercomputer's predictions for the 2025-26 Serie A season suggest that Roma's chances of finishing in the top four are uncertain. Last season, Roma narrowly missed out on Champions League qualification, finishing just one point shy. With new head coach Gian Piero Gasperini at the helm, the team is expected to improve, but they will face stiff competition from other clubs, particularly Inter, Napoli, and potentially AC Milan and Lazio, who have experienced coaches returning.
-
-The supercomputer simulations indicate that while Roma has the potential to secure a top-four finish, their success will depend on consistent performance throughout the season and overcoming rivals who are also vying for Champions League spots. Key factors will include the team's ability to capitalize on scoring opportunities and strengthen their defense, as they aim to improve upon last season's performance.
+Summary: The Opta supercomputer's projections for the 2025-26 Serie A season suggest that Roma, under new head coach Gian Piero Gasperini, will aim to improve their previous performance, where they narrowly missed Champions League qualification by a single point. While the article highlights Roma's ambitions and coaching change, it does not explicitly predict their final league position. However, given the competitive landscape and Roma's efforts to advance further, there is a possibility they could contend for a top 4 finish.
 
 

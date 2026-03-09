@@ -1,7 +1,7 @@
 # Research: Will Victor Marx win the 2026 Colorado Governor Republican primary election?
 
 **Market ID:** 0x0b94b4e361a4797c94c4802dec1080f7d60005c04885a8930e931e62b12ea879
-**Researched At:** March 4, 2026 at 04:15:51 AM UTC
+**Researched At:** March 9, 2026 at 03:04:08 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Victor Marx win the 2026 Colorado Governor Republican primary election?"
 
 ---
@@ -9,49 +9,40 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Fundraising and grassroots signals make Marx a competitive frontrunner but his avoidance of key forums and lack of polling leave his true support uncertain. The 41% price is consistent with these mixed signals, and there’s no strong evidence of a large mispricing.
+There is no solid, objective polling or endorsement data to show Marx’s win probability should differ materially from 40%, given both his reported grassroots appeal and documented campaign evasions in a crowded field. The market’s low volume suggests uncertainty rather than clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Victor Marx will be the overall winner of Colorado’s 2026 Republican gubernatorial primary on June 30, 2026. A “YES” outcome requires Marx to secure the plurality (or majority, including any run-off) of votes among all declared GOP candidates; a “NO” covers any other winner or the absence of a primary.  
+This market asks whether Victor Marx will emerge as the overall winner of Colorado’s June 30, 2026 Republican gubernatorial primary. A “YES” resolves if Marx tops the field (including any run-off), a “NO” if any other candidate wins or the primary does not occur.
 
 2. EVIDENCE EVALUATION  
-Bullish Evidence (supports >41%):  
-• Invisible-primary fundraising leader: Marx has raised $620K vs. Kirkmeyer’s $380K, suggesting strong financial backing and outreach.  
-• Unconventional grassroots: Campaign claims thousands of petition signatures and delegate support, indicating real organizational momentum.  
-
-Bearish Evidence (supports <41%):  
-• Evasive campaigning: Marx has cancelled key local forums and avoided debates, limiting voter contact in critical counties.  
-• Unclear appeal: Focus on low-information voters may not translate into primary turnout among party‐active Republicans.  
-
-Source credibility and recency:  
-• Fundraising numbers from co-political-landscape.org (Feb 2026) appear reliable for financial positioning.  
-• Articles on campaign tactics are anecdotal and may overstate or misinterpret his voter-engagement strategy.  
-
-No public polling data or early vote tallies exist, so markets rely on fundraising and campaign‐style signals that are already widely reported.  
+Bullish points:  
+- Marx has launched a high-energy “Rescue Tour,” reporting large crowds in Golden and Greeley and broad appeal beyond the GOP base (source: Team Victor update, 2/16/26).  
+Bearish points:  
+- Independent reporting (Glendale Cherry Creek Chronicle, 2/18/26) documents Marx canceling local forums and avoiding in-person voter engagement amid security concerns, raising transparency and grassroots depth questions.  
+- He is one of a record 19 GOP candidates (Ernest Luning, 10/3/25), making the race highly fragmented; no public polling data currently available to show he leads.  
+Neutral/uncertain:  
+- Gambit Forecaster (3/1/26) notes that fundamentals, party environment, and early polling are still fluid, implying Marx’s chances are unsettled.  
+Credibility: The most informative sources are independent news outlets and Gambit Forecaster; the campaign’s own updates are inherently biased. No objective polling or delegate estimates exist to validate a 40% win probability.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 41% probability plausibly reflects a competitive multi-candidate field where Marx’s financial edge gives him the lead but his idiosyncratic campaign style caps him below a 50% likelihood.  
-• Low volume (≈$2K) likely indicates few traders have strong private insights; price may simply track publicly available summaries.  
-• The narrow spread (4¢) suggests those few traders are in rough agreement about his mid-40s win chance.  
+A 40% probability could reflect an informed trader’s subjective weighting of Marx’s grassroots momentum versus his crowded-field disadvantage and campaign opacity. However, zero external polling and $0 volume suggest price may simply mirror one or two opinions rather than broad consensus.
 
 4. MISPRICING ASSESSMENT  
-No compelling new data points—no polls, endorsements, or campaign reversals—appear missing from market consensus.  
-• Potential mispricing scale: under- or overvaluing Marx by perhaps 3–5¢ if his grassroots is stronger/weaker than visible.  
-• But with no clear directional signal, a large (>20¢) mispricing is unlikely.  
+There is no clear, overlooked empirical signal—public polls, fundraising parity data, or endorsement tallies—that would justify shifting Marx’s chances by more than, say, 10 cents. The 40% price sits plausibly in a wide range of uncertainty given current data void.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing ≈20% (low confidence that we’ve uncovered a systematic error)  
-• Magnitude of mispricing ≈5¢  
-Expected value = 20% × 5¢ = 1¢  
+Strength of evidence for mispricing: ~20% (low confidence in specific, missing data).  
+Possible magnitude of error: ~10 cents.  
+Expected value = 0.20 × 10 cents = 2 cents.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Fundraising and grassroots signals make Marx a competitive frontrunner but his avoidance of key forums and lack of polling leave his true support uncertain. The 41% price is consistent with these mixed signals, and there’s no strong evidence of a large mispricing.  
+EXPECTED_VALUE: 2  
+SUMMARY: There is no solid, objective polling or endorsement data to show Marx’s win probability should differ materially from 40%, given both his reported grassroots appeal and documented campaign evasions in a crowded field. The market’s low volume suggests uncertainty rather than clear mispricing.  
 CONFIDENCE: low
 
 ---
@@ -60,28 +51,31 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Colorado Primary Election Results 2026 : NPR
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://apps.npr.org/primary-election-results-2026/states/CO.html
-Summary: There are currently no available results or candidate-specific information for the 2026 Colorado primary elections, including the Republican gubernatorial race. As of now, no data indicates who is leading or favored in the primary. To assess Victor Marx's chances, additional information about his campaign, polling data, and candidate standings would be necessary once results or relevant updates are released.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The Gambit Forecaster's March 2026 report primarily analyzes the broader landscape of Senate and gubernatorial races, emphasizing that the 2026 midterms are still in early stages with candidate fields settling and polling data evolving. While specific details about individual candidates like Victor Marx are not provided, the report notes that gubernatorial races generally remain within stable partisan environments, with candidate effects and institutional factors playing significant roles. The model indicates that early in the cycle, fundamental factors and primary polling are still shaping forecasts, and uncertainty remains high. Therefore, predicting Victor Marx's chances in the Colorado Republican primary would require considering his current standing in primary polling, his campaign's ability to mobilize support, and how he compares to other Republican contenders, all within the context of Colorado's stable partisan environment and the early stage of campaign development.
+
+Title: Colorado gubernatorial and lieutenant ...
+URL: https://ballotpedia.org/Colorado_gubernatorial_and_lieutenant_gubernatorial_election,_2026
+Summary: The webpage provides an overview of the 2026 Colorado gubernatorial election, including key dates such as the primary on June 30, 2026, and the filing deadline on March 18, 2026. While it details the election process, candidate filing procedures, and general election information, it does not specify any candidates, including Victor Marx, or current polling data. Therefore, predicting whether Victor Marx will win the Republican primary requires additional information such as his campaign status, polling results, political support, and campaign momentum, none of which are available on this page.
+
+Title: Ministry founder, 'high-risk' missionary Victor Marx joins ...
+Author: Ernest Luning
+URL: https://www.coloradopolitics.com/2025/10/03/ministry-founder-high-risk-missionary-victor-marx-joins-colorados-republican-gubernatorial-primary/
+Summary: Victor Marx, a Christian ministry leader and founder of All Things Possible Ministry, has entered Colorado’s 2026 Republican gubernatorial primary. A Marine veteran and survivor of child abuse, Marx emphasizes his experience in high-risk trauma intervention and positions himself as a leader of conviction committed to fighting for families and restoring justice. His campaign launch included a rally in Colorado Springs, where he invoked prominent conservative figures and supporters. Marx is one of 19 Republican candidates vying for the governorship, setting a record for the party in Colorado. His background as a high-risk missionary and his emphasis on courage and leadership suggest he is positioning himself as a strong outsider candidate, but with many competitors, his chances will depend on his ability to distinguish himself within a crowded field.
 
 Title: The Curious Campaign Of Victor Marx - Glendale Cherry Creek Chronicle
 Author: Ashe in America
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://glendalecherrycreek.com/2026/02/the-curious-campaign-of-victor-marx/
-Summary: The article highlights Victor Marx's unconventional and somewhat evasive campaign tactics in Colorado's 2026 Republican gubernatorial primary. Despite outraising opponents, Marx has avoided direct voter engagement by canceling appearances at key local events, such as a forum in Elbert County and a Parker Conservatives gathering, citing concerns over personal attacks and distractions. His strategy appears to focus on communicating primarily with low-information voters and avoiding contentious debates, possibly to maintain a controlled image. These behaviors suggest a campaign that is less about grassroots outreach and more about selective messaging, which could impact his ability to secure broad support in the primary.
+Summary: The article highlights Victor Marx's unconventional and somewhat evasive campaign approach for the 2026 Colorado Republican gubernatorial primary. Despite leading in fundraising, Marx has been avoiding in-person voter engagement by canceling or skipping key local events and forums, citing concerns over personal attacks and distractions. Notably, he withdrew from a scheduled appearance at a grassroots event after threats forced its cancellation, raising questions about his campaign's transparency and grassroots support. His strategy appears to focus on minimizing direct voter interaction and controlling the narrative, which could impact his ability to secure broad support in the primary.
 
 Title: TEAM VICTOR WEEKLY UPDATE February 16, 2026
 Author: 
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://www.victor2026.com/post/team-victor-weekly-update-february-16-2026
-Summary: Victor Marx's 2026 Colorado gubernatorial campaign emphasizes integrity, conviction, and a grassroots movement that challenges traditional GOP establishment politics. He has gained significant momentum through direct engagement with unaffiliated voters, Democrats, and first-time volunteers, building a broad base of support outside conventional party channels. Marx advocates for a new Republican Party rooted in courage, faith, and accountability, and is actively working to secure ballot access via petitions and delegate support. His approach has attracted thousands of signatures and delegate backing, positioning him as a serious contender. While the outcome of the primary remains uncertain, his strong grassroots effort and distinct messaging suggest he has a competitive chance to win the Republican nomination.
-
-Title: The invisible primary in Colorado: Republican governor
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.co-political-landscape.org/the-invisible-primary-in-colorado-republican-governor/
-Summary: Victor Marx currently leads in campaign fundraising among Colorado's Republican primary candidates for governor, having raised approximately $620,000 compared to Barbara Kirkmeyer's $380,000 as of January 2026. Marx's support base is characterized by a higher proportion of out-of-state donors and many new contributors who have not previously donated to Colorado candidates, indicating a potentially expanding or unconventional supporter base. In contrast, Kirkmeyer's donors are predominantly Colorado residents with established ties to the state's Republican community. While fundraising advantage and donor demographics suggest Marx has a strong financial position, the race remains competitive with multiple candidates, and fundraising alone may not determine the primary outcome.
+Summary: Victor Marx's recent campaign activities highlight a focus on authentic leadership, grassroots engagement, and a departure from traditional party politics. He has gained significant momentum through face-to-face interactions with voters, volunteers, and delegates, emphasizing values like courage, faith, integrity, and accountability. His "Rescue Tour" has successfully attracted enthusiastic support across Colorado, with events in Golden and Greeley drawing large crowds and media attention. Marx's approach appeals to unaffiliated voters, Democrats, and first-time volunteers, indicating broad-based grassroots backing. While the summary does not provide specific polling data or electoral projections, his emphasis on building a genuine movement and mobilizing volunteers suggests a strong grassroots foundation that could enhance his chances in the Republican primary.
 
 

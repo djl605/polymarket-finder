@@ -1,56 +1,51 @@
 # Research: Ukraine peace referendum passed before 2027?
 
 **Market ID:** 0xaea40d8fdffd33ead8f696f6b9dc0eb33d5c3ed0d31b57751e255bc7466a5c1d
-**Researched At:** March 1, 2026 at 06:10:36 AM UTC
+**Researched At:** March 9, 2026 at 03:03:36 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Ukraine peace referendum passed before 2027?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 3.5¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Zelenskyy’s public commitments give the referendum some chance, but legal hurdles under martial law, lack of ceasefire, and tough Russian demands make passage before 2027 unlikely. A ~22% price reasonably balances these factors, and there’s no clear missing information that indicates a large mispricing.
+Stalled peace talks over territorial integrity versus Zelensky’s conditional referendum plan and U.S. pressure yield a plausible ~25–30% chance that a vote could occur and pass by end-2026. No clear new data suggests a significant deviation from the current 26.5% price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS
-This market asks whether Ukraine will officially pass a nationwide peace‐deal referendum on the Russo-Ukrainian War by December 31, 2026. For a “Yes” resolution, Ukraine must (a) hold a nationwide vote on a peace agreement before 2027 and (b) see a majority of valid votes cast in favor. Any subsequent legal challenges do not affect resolution.
+The market asks whether Ukraine will officially hold and pass a nationwide peace referendum on a Russo-Ukrainian peace deal by December 31, 2026. “Yes” requires (a) a peace agreement negotiated, (b) a referendum called and held before end-2026, and (c) a majority of valid votes in favor. Absent any one of these—no deal, no vote, or vote defeats the proposal—the market resolves “No.”
 
 2. EVIDENCE EVALUATION
-Bullish signals (supporting >22%):
-• Multiple February 2026 statements by President Zelenskyy committing to a peace referendum and suggesting spring 2026 timing.  
-• U.S. and EU pressure: rumored deadlines (some reports cite May 15 or June 2026) to finalize a deal and hold a vote.  
-• Contemplated bipartisan benefits: pairing referendum with presidential elections to boost turnout.
-
-Bearish signals (supporting <22%):
-• Martial law remains in effect, legally barring elections until a ceasefire or constitutional amendments—parliament lacks two-thirds support.  
-• No ceasefire in sight; Russia continues to demand Ukrainian territorial concessions Ukraine rejects (e.g., Donbas withdrawal).  
-• Security guarantees and full ceasefire conditions repeatedly cited by Zelenskyy as prerequisites.  
-• Complex international negotiations (EU consensus, U.S.–Russia diplomacy) likely extend past 2026.
-
-Source credibility and recency:
-All sources are February 2026 reporting from established outlets (RBC-Ukraine, The Independent, The Times), thus recent and credible. None provide novel insider intelligence beyond public statements.
+Bullish (supports >26.5%):
+• Zelensky’s Feb 13 statements (RBC, Independent, MSN) commit to public referendum approval, potentially within months of a deal, even tying it to spring elections.  
+• U.S. pressure to end conflict by summer 2026 and reported May 2026 target for elections+referendum (Times) could accelerate scheduling if talks break through.  
+Bearish (supports <26.5%):
+• Mar 3 LB.ua reports 20-point peace plan stalemated over territorial disputes, with Zelensky refusing Donbas concessions, making a deal—and thus a referendum—unlikely soon.  
+• Martial law, displaced voters, and ongoing hostilities impose serious logistical/legal hurdles to holding national votes this year.  
+Credibility/Recency: All sources date Feb–Mar 2026 and are reputable regional/international outlets. No single report dramatically alters the balance beyond public knowledge.
 
 3. MARKET EFFICIENCY ANALYSIS
-• A 22% price plausibly reflects low but nonzero odds given Zelenskyy’s stated intent, tempered by real legal, security, and diplomatic barriers.  
-• Low $8.4 K volume and tight spread suggest one or a few informed traders have set this consensus view.  
-• The outcome is far from obvious—security prerequisites and constitutional hurdles are unresolved—so sparse engagement by broader market participants is expected.
+A 26.5% price plausibly prices in a modest chance of breakthrough negotiations plus U.S. diplomatic pressure versus serious obstacles. Low volume suggests few traders but bid-ask is tight, implying whoever set the book sees this as a “fair” mid-point rather than an arbitrage opportunity. The dearth of trades may reflect either consensus or lack of interest, not necessarily deep mispricing.
 
 4. MISPRICING ASSESSMENT
-We see no clear evidence the market is missing major, credible information that would push the probability substantially higher or lower. The balance of bullish intent vs. bearish legal and security impediments is consistent with ~20% odds. Large mispricing (>20 cents) would require hidden imminent ceasefire or parliamentary supermajority news—which we lack.
+There is no specific, novel evidence missing from the price. Stalled negotiations imply a low probability; Zelensky’s conditional referendum intent tempers that with remote upside. A ~25–30% chance captures that balance. No strong signal suggests a >0.20 shift; the factors noted seem already public and likely priced in.
 
 5. EXPECTED VALUE CALCULATION
-Strength of evidence that price is correct (i.e., that there is no large mispricing): ~70%  
-Magnitude of potential mispricing if we’re wrong: ~5 cents  
-Expected value = 70% × 5 cents ≈ 3.5 cents
+Strength of evidence that market is mispriced: 20%  
+Magnitude of potential mispricing: 5¢  
+Expected value = 0.20 × 5¢ = 1¢  
 
-EXPECTED_VALUE: 3.5  
-SUMMARY: Zelenskyy’s public commitments give the referendum some chance, but legal hurdles under martial law, lack of ceasefire, and tough Russian demands make passage before 2027 unlikely. A ~22% price reasonably balances these factors, and there’s no clear missing information that indicates a large mispricing.  
-CONFIDENCE: medium
+6. CONFIDENCE  
+low  
+
+EXPECTED_VALUE: 1  
+SUMMARY: Stalled peace talks over territorial integrity versus Zelensky’s conditional referendum plan and U.S. pressure yield a plausible ~25–30% chance that a vote could occur and pass by end-2026. No clear new data suggests a significant deviation from the current 26.5% price.  
+CONFIDENCE: low
 
 ---
 
@@ -62,42 +57,30 @@ Title: Referendum in Ukraine - Zelenskyy announces dates | RBC-Ukraine
 Author: 
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://newsukraine.rbc.ua/news/peace-deal-only-with-public-approval-zelenskyy-1771018021.html
-Summary: Ukrainian President Volodymyr Zelenskyy has indicated that a referendum on any peace agreement with Russia would require public approval and could potentially occur within a few months. He emphasized that such a referendum would enhance security guarantees for Ukraine and gain international recognition if conducted properly. Zelenskyy also mentioned the possibility of holding the referendum alongside presidential elections to boost voter turnout and legitimacy.
-
-Recent discussions suggest that the U.S. is advocating for elections and a referendum to be held before May 15, 2024. However, Zelenskyy has expressed concerns about announcing elections on the anniversary of Russia's invasion, citing the need for secure conditions before setting a date. Given these factors, the timeline for a peace referendum in Ukraine remains uncertain, but there is a possibility it could occur before 2027, contingent on security and political developments.
+Summary: Ukrainian President Volodymyr Zelenskyy has emphasized that any peace agreement with Russia must be approved through a national referendum, which could be held within a few months if a genuine compromise is reached. He suggests that a referendum would bolster Ukraine's security and international legitimacy. Zelenskyy also considers the possibility of holding the referendum simultaneously with presidential elections to increase voter participation. While there have been discussions about the timing of elections and referendums, Zelenskyy has indicated that security conditions are a prerequisite for announcing election dates. Given these statements, if a peace deal is achieved and approved via referendum, it is plausible that such a vote could occur before 2027, contingent on the progress of negotiations and security stability.
 
 Title: Zelensky gives major update on potential Ukraine peace deal referendum | The Independent
 Author: 
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.independent.co.uk/bulletin/news/zelensky-ukraine-russia-peace-deal-referendum-b2919687.html
-Summary: Ukrainian President Volodymyr Zelensky has indicated that Ukraine is open to holding a referendum on any peace agreement with Russia, but only under specific conditions. He emphasized that elections and a referendum would only take place once there are firm security guarantees and a ceasefire in place. Zelensky also made it clear that he would not support a "bad deal" to end the war, suggesting that the terms of any potential agreement are crucial. This context implies that a referendum before 2027 is uncertain and heavily dependent on the establishment of security and peace conditions.
-
-Title: Zelensky ‘planning Ukraine election and peace deal vote in spring’
-Author: Maxim Tucker, Kyiv | Bruno Waterfield, Brussels
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.thetimes.com/world/russia-ukraine-war/article/elections-peace-deal-news-latest-d7nl59klq
-Summary: President Zelensky is exploring the possibility of holding elections in Ukraine amidst ongoing martial law, which currently prohibits such votes. He has tasked officials to assess how elections can be conducted legally during wartime, with a report expected by the end of February. The urgency is partly due to pressure from the Trump administration, which has set a deadline for a peace deal by May 15, 2026, to secure U.S. security guarantees for Ukraine.
-
-Zelensky has indicated that elections could only occur once necessary security guarantees are established, emphasizing the need for a ceasefire. However, significant hurdles remain, including the requirement for constitutional amendments that would need two-thirds support from parliament, which Zelensky currently lacks. Additionally, lifting martial law would complicate military commitments and restrictions on movement for fighting-age men.
-
-Given these complexities, the likelihood of a peace referendum passing before 2027 hinges on the resolution of these legal and security issues, as well as the political dynamics within Ukraine and its relationship with international allies.
-
-Title: Zelensky ‘planning Ukraine election and peace deal referendum in spring’ | The Independent
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.the-independent.com/news/world/europe/ukraine-zelensky-election-peace-deal-referendum-b2918091.html
-Summary: Ukrainian President Volodymyr Zelensky is reportedly planning to announce a spring election and a referendum on a peace deal with Russia, with an expected announcement on February 24. This move comes amid pressure from the United States, which has set a June deadline for Ukraine and Russia to finalize a peace agreement to end the ongoing conflict. 
-
-Zelensky indicated that the U.S. is eager for a resolution, suggesting that negotiations may intensify as summer approaches. However, significant challenges remain, particularly regarding Russia's insistence on Ukraine's withdrawal from the contested Donbas region, a demand that Ukraine has firmly rejected.
-
-The European Union is also working on its own peace plan, emphasizing the need for consensus among European allies before any agreement is reached. EU foreign policy chief Kaja Kallas highlighted the importance of placing conditions on Russia rather than Ukraine, advocating for a balanced approach to negotiations.
-
-Given this context, the likelihood of a peace referendum passing before 2027 may depend on the success of upcoming negotiations, the political landscape in Ukraine following the spring elections, and the evolving dynamics of international pressure on both Ukraine and Russia.
+Summary: Ukrainian President Zelensky has emphasized that Ukraine is open to holding a referendum on a peace agreement with Russia, but only if certain conditions are met, including firm security guarantees and a ceasefire. He has stated he would not endorse a "bad deal" through a referendum and remains committed to ensuring any peace process aligns with Ukraine’s security interests. Zelensky's comments, made ahead of the Munich Security Conference, suggest that the timing of a potential Ukraine peace referendum depends heavily on the progress of negotiations, security conditions, and Ukraine’s strategic considerations. Given these factors, a referendum passing before 2027 would likely require significant developments in Ukraine-Russia peace talks, security assurances, and political consensus within Ukraine.
 
 Title: Peace deal only with public approval - Zelenskyy names possible referendum timeline
 Author: 
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.msn.com/en-us/news/world/peace-deal-only-with-public-approval-zelenskyy-names-possible-referendum-timeline/ar-AA1WjEBt
-Summary: Ukrainian President Volodymyr Zelenskyy has stated that any peace deal with Russia will require public approval through a referendum. He has indicated a possible timeline for this referendum, suggesting it could occur before 2027. This implies that the Ukrainian government is considering the sentiments of its citizens in the peace process, which could significantly influence the likelihood of a referendum passing. Factors such as public opinion, ongoing conflict dynamics, and international relations will play crucial roles in determining whether a peace referendum can be successfully held and passed before 2027.
+Summary: Ukrainian President Zelenskyy emphasizes that any peace agreement must be approved by the public, suggesting that a referendum could be part of the process. He has indicated the possibility of holding a referendum within the next few years to legitimize peace deals, with some discussions pointing toward a timeline that could see such a vote before 2027. This approach underscores the importance of public support in Ukraine’s peace negotiations and suggests that a referendum might be a key step in ratifying any future peace agreement.
+
+Title: Zelensky ‘planning Ukraine election and peace deal vote in spring’
+Author: Joshua Thurston
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://www.thetimes.com/world/russia-ukraine-war/article/elections-peace-deal-news-latest-d7nl59klq?gaa_at=eafs&gaa_n=AWEtsqc2rCMlUgN0la-A3dhfCrB3WGujwCh6wN_sIpNyYnFJ7tt6IJs1VLD3&gaa_sig=nX6D6Y9YJxVrCud-trSurr8vgCi7HSSIcOF7HOelPW6O5zZlTJfAKH1N7QMIfZydXXuXdeuOfvjhMU6wXJQbjA%3D%3D&gaa_ts=698c6d41
+Summary: President Zelensky is reportedly planning to announce a referendum on any potential peace agreement with Russia during a spring election in Ukraine, possibly as early as May 2026. This referendum would be held alongside a national election, with discussions underway between US and Ukrainian officials. However, holding elections faces significant challenges, including the ongoing martial law, displacement of millions, and military deployments. The timing is influenced by pressure from the US, which aims for the conflict to end by summer 2026, and there is an urgency to prepare for the vote within approximately six months. Given these factors, if the referendum passes, it could feasibly occur before 2027, contingent on political, legal, and security conditions.
+
+Title: Zelenskyy: Talks on 20-point peace plan stall over territorial dispute as president vows not to abandon Donbas
+Author: Anzhelika Syzonenko    , Yuliya Bilyachenko
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://en.lb.ua/news/2026/03/03/37570_zelenskyy_talks_20point_peace.html
+Summary: The article reports that discussions on a 20-point peace plan between Ukraine, Russia, and the United States have stalled primarily over territorial disputes, particularly regarding Donbas. Ukraine's President Zelenskyy firmly opposes Russian demands for troop withdrawals from Donbas, emphasizing Ukraine's intention to retain control and reject territorial exchanges. Zelenskyy also rejects the idea of a unilateral Ukrainian troop withdrawal, viewing it as a threat to Ukraine’s security and territorial integrity. The ongoing negotiations involve complex issues such as demilitarized zones, control of border regions, and joint management of strategic sites like the Zaporizhzhya Nuclear Power Plant. Given the current stalemate and Ukraine’s strong stance on maintaining territorial integrity, it is unlikely that a peace referendum favoring territorial concessions would pass before 2027.
 
 

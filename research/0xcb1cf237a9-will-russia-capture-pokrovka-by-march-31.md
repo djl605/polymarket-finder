@@ -1,51 +1,51 @@
 # Research: Will Russia capture Pokrovka by March 31?
 
 **Market ID:** 0xcb1cf237a91ebdaa27b577c294cf4f46f7e4670aed437037c55bd05bb06e80c9
-**Researched At:** March 3, 2026 at 04:23:45 AM UTC
+**Researched At:** March 9, 2026 at 03:02:51 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia capture Pokrovka by March 31?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Recent reports show active but indecisive fighting near Pokrovka, with Ukrainian forces mounting effective defenses and making gains elsewhere, supporting a low ~20% chance. There is no credible evidence that price omits key information, so the 21.5% probability appears reasonable.
+ISW and local sources show continued contested fighting and redeployments away from Pokrovka, suggesting roughly 30%–35% chance of capture by March 31. No strong new information indicates a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Russian forces will have established and maintained control over the specific intersection at 50.802224° N, 35.379423° E in Pokrovka, Sumy Oblast, by March 31 2026, as evidenced by “red” shading on the ISW map (or equivalent control), sustained through an ISW update cycle. A “Yes” requires an actual shift of control to Russia (including via negotiated settlement with de facto control), sustained and documented on the ISW map (or credible replacement). A “No” means Russia never achieves that sustained control by the cutoff time.  
+The market asks whether Russian forces will control the specific intersection in Pokrovka on the ISW map (persistent red shading) by March 31, 2026. A “Yes” requires any part of that grid point to be shaded as assessed Russian control/gains on ISW (or DeepStateMap if unavailable), sustained through an update cycle, or actual control via combat or negotiated settlement (not merely announced). Otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish for Russia (higher probability than 21.5%):  
-• ISW Feb 17 map shows active operations in the broader Pokrovsk agglomeration, indicating Russian forces are engaged in eastern Sumy/Donetsk areas, so a localized breakthrough remains possible if they concentrate forces on Pokrovka.  
-• Continued Russian strikes and pressure described by the Kyiv Independent suggest they retain offensive capacity on secondary axes.  
+Bullish (higher chance):  
+• ISW (Mar 5) reports ongoing Russian offensives in the Pokrovsk direction with incremental advances and pressure beyond Pokrovka—continued operations could reach the intersection within weeks.  
+• Local Ukrainian sources note heavy Russian focus and accumulation of forces prepping a spring offensive in the area.  
 
-Bearish for Russia (lower probability than 21.5%):  
-• The Eye Newspapers’ report on fluid, contested advances near Pokrovsk (Donetsk region) emphasizes unpredictability and strong Ukrainian counter-fire, arguing against a clear Russian capture by month’s end.  
-• Tokyo Today’s report of Ukrainian gains in Zaporizhzhia—first net gains since 2024—and disrupted Russian comms implies Ukrainian forces are on the ascendancy and have resources to shore up Sumy lines.  
-• Russia in Review notes a continuing stalemate and active negotiations rather than a decisive offensive push in Sumy, further implying low odds of a sudden breakthrough.  
+Bearish (lower chance):  
+• ISW maps (Mar 1, Mar 3) still show contested terrain with Ukrainian defenses holding key northern approaches in Pokrovsk agglomeration, no near-term breakthrough.  
+• Russian redeployments (Mar 7 ISW) highlight a strategic shift of elite units to southern fronts, suggesting Pokrovka may not be a priority by month-end.  
+• Reports of remaining Ukrainian control positions and logistical challenges imply uncertainty in seizing this specific intersection so soon.
 
-Source recency and credibility: All reports are from late February/early March 2026 and come from established open-source analysts or reputable media; ISW mapping is the official resolution source. No single report claims imminent capture of Pokrovka; most point to uncertainty or Ukrainian resilience.  
+Source credibility and recency: All findings are from March 1–8, 2026, by ISW and credible regional reporting. No single source indicates an imminent capture; information is balanced and current.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 21.5% probability coheres with a view that a modest Russian effort could succeed in a fluid frontline but faces strong Ukrainian defenses and resupply; this lines up with the mixed signals. Low volume may simply reflect that few traders focus on this specific location in Sumy, but those who do likely have the same open-source maps and news the market maker used.  
+A 30.5% probability plausibly aggregates: continued Russian pressure gives non-zero chance, but strong defenses and redeployments elsewhere cap upside. Low volume may reflect the small niche interest, not necessarily a mispricing, as informed traders likely track ISW daily but may lack actionable breakthroughs.
 
 4. MISPRICING ASSESSMENT  
-No credible evidence suggests price is materially too low or too high. Bullish points (active operations) are already priced into a ~20% chance, and bearish developments (Ukrainian momentum, stalled offensives) equally point to the same low probability. We see no missing information: no reported massing of Russian forces around Pokrovka or collapse of Ukrainian defenses. The 21.5% looks like a reasonable consensus.  
+No clear evidence the market has missed any major developments. Both ISW and local reporting indicate uncertainty persists. Any mispricing is likely small (under ~5 ¢), as the main factors (frontline pace, unit movements) are already public. A large mispricing (>20 ¢) is unlikely given that event timing, contested control, and map criteria remain ambiguous.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 60% (sources are timely and directly relevant)  
-Magnitude of mispricing: 0¢ (no strong case for >1–2 cent mispricing)  
-Expected value = 0.6 × 0 = 0 cents  
+Strength of evidence for mispricing: ~30% (evidence is balanced but not definitive)  
+Estimated magnitude of mispricing: ~5 ¢  
+Expected value = 30% × 5 ¢ = 1.5 ¢
 
-EXPECTED_VALUE: 0  
-SUMMARY: Recent reports show active but indecisive fighting near Pokrovka, with Ukrainian forces mounting effective defenses and making gains elsewhere, supporting a low ~20% chance. There is no credible evidence that price omits key information, so the 21.5% probability appears reasonable.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.5  
+SUMMARY: ISW and local sources show continued contested fighting and redeployments away from Pokrovka, suggesting roughly 30%–35% chance of capture by March 31. No strong new information indicates a large mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -53,32 +53,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Russian Forces Advance Near Pokrovsk Amid Intensified Conflict
-Author: The Eye Newspapers
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://themunicheye.com/russian-forces-advance-pokrovsk-intensified-conflict-7289
-Summary: The recent Russian military advances near Pokrovsk in the Donetsk region indicate increased pressure and ongoing fighting in the area. Despite Russian gains, the conflict remains highly fluid, with Ukrainian resistance actively countering Russian advances using artillery and other tactics. The war's progression is unpredictable, with both sides experiencing fluctuating territorial control and heavy casualties. Given the current escalation and the unpredictable nature of the conflict, it is uncertain whether Russia will successfully capture Pokrovsk by March 31, as the situation could change rapidly based on military developments and Ukrainian resistance.
-
-Title: Ukraine - The Kyiv Independent
+Title: Terrain in the Pokrovsk Direction, March 5, 2026 | ISW
 Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://api.kyivindependent.com/ukraine-war-latest-update-2026-01-29/
-Summary: The Kyiv Independent reports ongoing developments in Ukraine's conflict, including recent Russian attacks resulting in civilian casualties, such as the death of three toddlers and another individual in Kharkiv Oblast. Russia has also threatened the families of Ukrainian prisoners of war to register Starlink terminals, indicating continued psychological and informational pressure. Additionally, Russia has broken the energy ceasefire, complicating Ukraine's efforts to maintain stability amid the conflict. Western nations, including the US, are providing increased military support to Ukraine through NATO-led initiatives, with more arms purchases underway. Kyiv faces severe hardships, notably in its hardest-hit districts, where residents cope with a lack of heating amid the energy crisis, and civil society is calling for government action. These ongoing military, political, and humanitarian challenges suggest that Russia's efforts to capture strategic areas like Pokrovka remain persistent, but the situation is complex and evolving.
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-pokrovsk-direction-march-5-2026-at-130-pm-et/
+Summary: The ISW assessment as of March 5, 2026, indicates ongoing Russian military operations in the Pokrovsk direction, with control of terrain still contested. The map shows areas of active fighting, with Russian forces making incremental advances but facing Ukrainian resistance. Given the current pace and terrain conditions, Russia has not yet secured full control of Pokrovka. Predicting whether Russia will capture Pokrovka by March 31 depends on factors such as the intensity of ongoing offensives, logistical support, Ukrainian defenses, and potential reinforcements. Based on current trends, a swift capture appears uncertain, but continued Russian pressure could increase the likelihood of eventual control within the remaining weeks.
 
-Title: Assessed Control of Terrain in the Pokrovsk Agglomeration, | ISW
+Title: Terrain in the Pokrovsk Direction, March 1, 2026 | ISW
 Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-pokrovsk-agglomeration-february-17-2026-at-130-pm-et/
-Summary: The assessment of terrain control in the Pokrovsk Agglomeration as of February 17, 2026, indicates ongoing military activity with fluctuating territorial control. While specific details about Pokrovka are limited, the broader context suggests that Russian forces are actively engaged in the region, with terrain control status subject to change due to ongoing combat operations. Given the current dynamics, predicting whether Russia will capture Pokrovka by March 31 requires monitoring recent advances, troop movements, and territorial gains or losses in the area. The situation remains fluid, and continued military developments over the coming weeks will be critical in assessing the likelihood of Russia capturing Pokrovka within that timeframe.
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-pokrovsk-direction-march-1-2026-at-130-pm-et/
+Summary: The ISW assessment as of March 1, 2026, indicates ongoing Russian military operations in the Pokrovsk direction, with control of terrain still contested. The terrain map suggests active front-line movements and areas of Russian advances, but no definitive indication that Russia is close to fully capturing Pokrovka. Given the current pace and nature of the conflict, predicting whether Russia will capture Pokrovka by March 31 remains uncertain. Factors such as Ukrainian resistance, logistical challenges, and potential reinforcements could influence the outcome.
 
-Title: Ukraine's military makes gains in southeast region of Zaporizhzhia, Kyiv says - Japan Today
+Title: Pokrovsk Agglomeration, March 3, 2026 | ISW
 Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://japantoday.com/category/world/ukraine's-military-makes-gains-in-southeast-region-of-zaporizhzhia-kyiv-says
-Summary: Ukrainian forces have recently made significant gains in the southeast Zaporizhzhia region, retaking nine settlements since late January and advancing along the frontline. Commander-in-Chief Oleksandr Syrskyi reports that for the first time since summer 2024, Ukrainian troops have regained more territory than Russian forces have captured, with recent operations pushing Russian troops back near five villages. The Ukrainian military has also disrupted Russian communications by limiting their access to Starlink, impacting their battlefield awareness. Given these ongoing advances and strategic disruptions, the likelihood of Russia capturing Pokrovka by March 31 appears low, as Ukrainian forces are actively consolidating control and pushing back Russian positions in the area.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://understandingwar.org/map/assessed-control-of-terrain-in-the-pokrovsk-agglomeration-march-3-2026-at-130-pm-et/
+Summary: The ISW assessment as of March 3, 2026, indicates ongoing Russian efforts to control the Pokrovsk Agglomeration in Ukraine. While Russia is actively engaged in military operations in the area, the current terrain control status suggests that the situation remains fluid, with Ukrainian defenses still holding parts of the region. Given the dynamic nature of the conflict, predicting whether Russia will capture Pokrovka by March 31 depends on several factors, including the intensity of Russian offensive operations, Ukrainian resistance, logistical support, and potential international aid. As of now, there is no definitive indication that Russia will definitively capture Pokrovka within that timeframe, but continued Russian pressure could influence the outcome.
 
-Title: Russia in Review, Feb. 20–27, 2026
-URL: https://www.russiamatters.org/news/russia-review/russia-review-feb-20-27-2026
-Summary: The recent developments in the Russia-Ukraine conflict indicate ongoing negotiations and military tensions in eastern Ukraine, particularly around the Donetsk region. Negotiators have narrowed their core issues to Ukraine’s security guarantees and control over heavily fortified areas, including parts of Donetsk where 190,000 residents remain. Ukrainian President Zelenskyy suggests a potential end to the war within this year, while U.S. figures like Trump express hopes for a swift resolution, possibly within a month. Russia continues military operations, with significant strikes impacting Ukrainian infrastructure and U.S. interests in the region. Given the current stalemate and ongoing military activity, predicting Russia’s specific capture of Pokrovka by March 31 remains uncertain, but the situation suggests continued conflict rather than imminent victory.
+Title: Russian Offensive Campaign Assessment, March 7, 2026 | ISW
+Author: Nadia Sleiman
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-7-2026/
+Summary: The recent Russian military redeployments suggest a strategic shift toward southern Ukraine, particularly in response to Ukrainian counterattacks in Zaporizhia and Dnipropetrovsk oblasts. Elite units such as the 68th Army Corps, naval infantry from the Pacific Fleet, and the 76th Airborne Division have been moved from eastern Ukraine to bolster southern fronts, especially around Hulyaipole and Polohy. These redeployments indicate Russia is prioritizing its efforts in the south, possibly to strengthen defenses or prepare for offensive actions. Given these movements, Russia's ability to capture Pokrovka by March 31 depends on whether these redeployed forces are directed specifically toward that objective. Currently, the focus appears to be on responding to Ukrainian advances in the south, making a successful capture of Pokrovka less certain unless further offensive operations are launched.
+
+Title: Покровськ після чотирьох місяців боїв. Місто втрачене чи ні?
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.radiosvoboda.org/a/pokrovsk-pislya-chotyrokh-misyatsiv-boyiv/33697767.html
+Summary: The situation in Pokrovsk remains uncertain as of early March 2026. Despite Russian forces reportedly controlling most of the city, Ukrainian military officials and analysts indicate that Ukrainian troops still hold northern positions and continue to defend certain areas. Russian forces are accumulating strength for a potential spring offensive, with reports suggesting they are advancing beyond the city toward nearby settlements. While some sources, like ISW, suggest the city may have been fully captured, Ukrainian military representatives deny complete occupation and emphasize ongoing resistance. Given the active military operations, troop movements, and strategic importance of the area, predicting whether Russia will fully capture Pokrovsk by March 31 remains uncertain, but the conflict is ongoing with no definitive conclusion yet.
 
 
