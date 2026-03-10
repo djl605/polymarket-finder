@@ -1,60 +1,48 @@
 # Research: U.S. agrees to a new trade deal with "Australia" before 2027?
 
 **Market ID:** 0x7531c660ca20317d50ca9dd3a3b1df7659509bb6a415ac1f026c63be5061afb3
-**Researched At:** March 3, 2026 at 04:22:08 AM UTC
+**Researched At:** March 10, 2026 at 04:17:43 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: U.S. agrees to a new trade deal with "Australia" before 2027?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.4¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-No concrete negotiations or deal framework for a U.S.–Australia FTA have been reported despite indirect momentum from tariffs and critical-minerals talks, making the 16% market probability appear reasonable. There is no credible evidence of a significant mispricing.
+There is strategic rationale for a U.S.–Australia FTA but no concrete negotiations have been reported. A 15% probability plausibly reflects a low but nonzero chance; no strong evidence of a large mispricing emerges.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-- Market asks: Will the U.S. enact a free trade agreement with Australia by Dec 31, 2026?
-- YES requires a formal FTA signed into law via Senate ratification or a Congressional-Executive Agreement before the deadline.
-- NO if no agreement is enacted by that date.
+1. CONTEXT ANALYSIS  
+The market asks: Will the U.S. enact a free‐trade agreement (FTA) with Australia—either via Senate‐ratified treaty or Congressional‐Executive Agreement signed into law—by December 31, 2026? A “Yes” requires final Congressional (treaty) or joint‐resolution approval and Presidential signature before that deadline. Absent such enactment, it resolves “No.”
 
-2. EVIDENCE EVALUATION
-Bullish signals (arguing price too low):
-- Recent Trump tariffs have pushed Australia to accelerate trade talks (The Age, Feb 23). Might motivate a U.S. deal.
-- U.S. plans a critical-minerals bloc using Australia’s template (AFR, Feb 3) hint at closer economic alignment that could morph into an FTA.
-- Australia’s successful EU deal (AFR, Feb 13) shows Canberra is actively pursuing FTAs.
+2. EVIDENCE EVALUATION  
+Bullish signals (increase P):  
+• CRS report (2026-02-27): Highlights strong U.S.–Australia strategic/economic ties under Biden, with potential impetus to negotiate a new deal amid China countermeasures. Credible and recent.  
+Bearish signals (decrease P):  
+• No reporting (all other sources) of actual U.S.–Australia trade talks or negotiation launches. Australia is focused on an imminent EU FTA. Trump’s tariff policy has strained bilateral trade, making an FTA politically harder.  
+• PwC, tax foundation, Brisbane Times: No direct evidence of U.S.–Australia FTA negotiations.  
 
-Bearish signals (price reasonable or too high):
-- No research finding confirms formal U.S.–Australia FTA negotiations launched or advanced.
-- USTR’s 2025 report lists no pending Australia FTA (Mar 2025).
-- Trump’s tariff regime and recent Supreme Court curtailment (BBC, Feb 25) create legal/political headwinds for a new FTA.
-- Tariff-driven tensions may instead deter broad US concessions needed for an FTA.
+Overall, we see broad strategic alignment but zero concrete negotiating steps or official U.S. proposals. If the chance were that traders had overlooked a hidden negotiating track, we’d expect at least a leaked technical working group—no such reports exist.
 
-Source Credibility & Recency:
-- All sources are from Q1 2026 (very recent). The Age, AFR, BBC, USTR are reputable. None report concrete U.S.–Australia deal talks.
+3. MARKET EFFICIENCY ANALYSIS  
+A 15% price plausibly reflects “low‐but‐not‐zero” odds given strategic context. Low volume/tight spread implies maybe one or two participants; it may simply encode a back‐of‐envelope “unlikely but possible” view. Informed traders may not engage due to scant actionable intel; the market may not be obviously off.
 
-3. MARKET EFFICIENCY ANALYSIS
-- A 16% probability plausibly reflects broad uncertainty: some strategic alignment but no formal negotiation.
-- Low $808 volume and small spread suggest limited, perhaps cautious, engagement rather than a confident consensus.
-- Informed traders likely have the same lack of concrete deal progress, so 16% could be a genuine reflection of available info.
+4. MISPRICING ASSESSMENT  
+There is no clear evidence of a large mispricing. No announcements or leaks would push probability dramatically higher; absence of talks pulls it lower, but 15% already prices in a small chance. Without specific missing information, the current price appears within a reasonable subjective range (say 5–20%).  
 
-4. MISPRICING ASSESSMENT
-- No clear evidence that an FTA is imminent, nor any overlooked factor pushing probability much higher or lower.
-- The information cited seems fully consistent with a low single-digit to low-teens probability.
-- No large (>20¢) mispricing signal emerges: the market’s price aligns with the lack of formal talks and significant political/legal barriers.
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence that price is wrong: ~30% (evidence is weak and circumstantial)  
+Estimated magnitude of mispricing: ~5¢ (if anything)  
+Expected value = 30% × 5¢ = 1.5¢
 
-5. EXPECTED VALUE CALCULATION
-- Strength of evidence that price is mispriced: ~20% (very weak bullish/bearish signals).
-- Estimated magnitude of mispricing: ~2¢.
-- Expected value = 0.20 × 2¢ = 0.4¢.
-
-EXPECTED_VALUE: 0.4  
-SUMMARY: No concrete negotiations or deal framework for a U.S.–Australia FTA have been reported despite indirect momentum from tariffs and critical-minerals talks, making the 16% market probability appear reasonable. There is no credible evidence of a significant mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.5  
+SUMMARY: There is strategic rationale for a U.S.–Australia FTA but no concrete negotiations have been reported. A 15% probability plausibly reflects a low but nonzero chance; no strong evidence of a large mispricing emerges.  
+CONFIDENCE: low
 
 ---
 
@@ -65,29 +53,29 @@ CONFIDENCE: medium
 Title: New Trump tariffs supercharge efforts for Australia-EU free trade deal
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.theage.com.au/national/new-trump-tariffs-supercharge-efforts-for-australia-eu-free-trade-deal-20260223-p5o4sx.html
-Summary: The recent developments indicate that U.S. President Donald Trump's implementation of new tariffs has significantly accelerated negotiations for a multibillion-dollar free trade agreement between Australia and the European Union. While the article primarily focuses on the impact of Trump's tariffs on EU-Australia trade talks, it highlights a broader context of ongoing international trade negotiations involving Australia. The heightened trade tensions and tariff policies may influence Australia's trade strategies and negotiations with other major partners, including the U.S. and EU. Although there is no explicit confirmation of a U.S.-Australia trade deal before 2027, the article suggests that recent U.S. tariff policies are energizing Australia's efforts to secure new trade agreements, potentially including a deal with the U.S. in the near future.
+URL: https://www.brisbanetimes.com.au/national/new-trump-tariffs-supercharge-efforts-for-australia-eu-free-trade-deal-20260223-p5o4sx.html
+Summary: The article reports that recent U.S. tariffs introduced by Donald Trump have accelerated efforts to establish a multibillion-dollar free trade agreement between Australia and the European Union. While the focus is on the EU-Australia trade negotiations, the development suggests a broader context of intensified trade diplomacy involving Australia and major economic partners, including the U.S. and EU. The increased tariffs may serve as leverage or motivation for Australia to pursue or expedite new trade agreements, potentially including a deal with the U.S., before 2027.
 
-Title: US to use Australian critical minerals deal as template in trade bloc
-Author: Jessica Gardner
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.afr.com/policy/foreign-affairs/us-to-use-australian-minerals-deal-as-template-in-trade-bloc-20260204-p5nzbx
-Summary: The article discusses the U.S. government's intention to model its approach to critical minerals trade agreements on Australia's existing deals. Specifically, the U.S. aims to create a trade bloc with allied nations that includes price guarantees and measures to counter China's market manipulation in critical minerals vital for defense and technology. Australia's resources minister, Madeleine King, expressed opposition to tariffs on Chinese minerals, emphasizing a stance against tariffs and highlighting Australia's resistance to such measures. The U.S. is seeking to strengthen international cooperation on critical minerals, with Australia positioned as a key partner. This strategic alignment suggests the potential for a formalized trade agreement or partnership between the U.S. and Australia before 2027, based on Australia's existing critical minerals framework and the U.S. effort to build an allied trade bloc.
+Title: Australia and EU set to ink landmark free trade agreement - ABC News
+Author: 
+Published Date: 2026-02-14T00:00:00.000Z
+URL: https://www.abc.net.au/news/2026-02-14/australia-and-eu-sign-landmark-free-trade-agreement/106344826
+Summary: The article discusses Australia's imminent free trade agreement with the European Union (EU), expected to be signed within weeks after years of negotiations. The deal aims to reduce tariff barriers, especially for agricultural exports like beef and lamb, and address issues related to working rights, labour mobility, and geographical indicators. Both sides have made significant progress, with the final hurdle likely related to red meat exports. The agreement could enhance trade with the EU, Australia's third-largest trading partner, and strengthen strategic ties amid global economic challenges. While the article does not mention the U.S., the focus on Australia’s trade negotiations suggests that a similar agreement with the U.S. before 2027 is not indicated or discussed.
 
-Title: Australia-EU trade deal: Breakthrough reached after intense negotiations
-Author: Andrew Tillett
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.afr.com/world/europe/australia-eu-zero-in-on-free-trade-deal-after-breakthrough-talks-20260213-p5o289
-Summary: The article reports that after two days of intense negotiations in Brussels, Australia and the European Union have nearly finalized a comprehensive free trade agreement, with only formal signatures remaining. While the focus is on the Australia-EU deal, the breakthrough indicates a significant diplomatic development in Australia's trade negotiations. Although specific details about future U.S.-Australia trade agreements are not discussed, the successful EU deal suggests Australia is actively pursuing and securing major trade pacts. This context could imply that Australia may continue to strengthen its trade relationships, potentially increasing the likelihood of new agreements, including with the U.S., before 2027.
+Title: Trump Tariffs: The Economic Impact of the Trump Trade War
+Author: Erica York
+URL: https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/
+Summary: The webpage details the impact of Trump-era tariffs, including recent legal rulings and tariff implementations. Notably, tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were struck down by the Supreme Court, leading President Trump to impose a 10% tariff under Section 122, affecting approximately $1.2 trillion in imports. These tariffs increased the average household tax burden by around $1,000 in 2025, with remaining tariffs under Section 232 adding about $400 per household in 2026. The tariffs raised the average applied tariff rate to 6.7% in 2026, with effective tariff revenue estimated at $660 billion from 2026-2035, and a potential GDP reduction of 0.2%. While the legal challenges and tariff adjustments suggest a period of tariff uncertainty, there is no specific mention of negotiations or agreements with Australia before 2027.
 
-Title: What tariffs has Trump introduced and why? - BBC
-Published Date: 2026-02-25T04:21:47.962Z
-URL: https://www.bbc.com/news/articles/cn93e12rypgo
-Summary: The article explains that former President Donald Trump implemented various tariffs, primarily as a means to boost US manufacturing, create jobs, and reduce the trade deficit by taxing imported goods. Trump used tariffs to target specific countries, including China, Mexico, and Iran, often citing national security and economic fairness as reasons. However, many of these tariffs faced legal challenges; notably, the US Supreme Court ruled in 2026 that Trump exceeded his authority when imposing certain tariffs without congressional approval. The new 10% global tariff introduced after this ruling aims to replace previous negotiated rates with trading partners, including the UK, India, and the EU. While Trump's use of tariffs was politically motivated, focusing on protecting US industries and addressing perceived exploitation, the approach has been controversial, with critics arguing it raises prices for consumers and disrupts global trade. This context suggests that future trade negotiations, such as a potential deal with Australia before 2027, could be influenced by the US's ongoing tariff policies, legal constraints, and strategic economic interests.
+Title: U.S.-Australia Relations: Background and Issues for Congress - EveryCRSReport.com
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.everycrsreport.com/reports/R48875.html
+Summary: The report highlights that U.S.-Australia relations have historically been strong, encompassing defense, security, and economic ties, with recent developments emphasizing strategic alignment against China and joint defense initiatives like AUKUS. However, under the Biden administration, efforts have been made to strengthen trade relations, though recent U.S. policies, including tariffs and reviews of alliances like AUKUS, have introduced some strain. The Australian government, led by Prime Minister Albanese, faces domestic economic challenges and environmental concerns, which could influence future trade negotiations. Given the ongoing strategic partnership and the emphasis on economic cooperation, there is potential for the U.S. to pursue a new trade deal with Australia before 2027, especially as both nations seek to bolster economic and security ties amid regional geopolitical tensions.
 
-Title: [PDF] FOREIGN TRADE BARRIERS - USTR
-Published Date: 2025-03-01T00:00:00.000Z
-URL: https://ustr.gov/sites/default/files/files/Press/Reports/2025NTE.pdf
-Summary: The 2025 National Trade Estimate Report by USTR provides a comprehensive overview of foreign trade barriers faced by the United States, including updates on trade agreements and negotiations. While it details U.S. trade policy, barriers, and ongoing negotiations with various countries and regions, it does not specify any new trade deal with Australia scheduled before 2027. The report emphasizes the U.S. commitment to advancing trade agreements and addressing barriers but does not confirm or announce a specific new trade deal with Australia prior to that year.
+Title: US Announces New Tariff Measures Amid Greenland ...
+Author: PricewaterhouseCoopers
+URL: https://www.pwc.ie/services/tax/insights/us-tariffs-19012026.html
+Summary: The webpage discusses recent shifts in global trade policies, including the implementation of new tariffs and their economic impacts. While it highlights ongoing changes in international trade dynamics, it does not specifically mention a trade deal between the U.S. and Australia or any agreements scheduled before 2027. Therefore, based on this source, there is no direct information indicating that the U.S. has agreed to a new trade deal with Australia prior to 2027.
 
 

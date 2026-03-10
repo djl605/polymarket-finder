@@ -1,52 +1,53 @@
 # Research: GRVT FDV above $200M one day after launch?
 
 **Market ID:** 0x0f2158e04dec35565e6b30b7c9fa0e32f80ec29d6662956c21f0b0e498af6fd7
-**Researched At:** March 5, 2026 at 04:21:22 AM UTC
+**Researched At:** March 10, 2026 at 04:17:07 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: GRVT FDV above $200M one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 5.0¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-GRVT’s ambitious roadmap supports optimism, but lack of tokenomics and very low volume imply the 67% probability may be slightly too high. There is modest uncertainty but no large mispricing.
+With no specific data on GRVT’s tokenomics, TVL, or partnerships, the 38.5% price plausibly reflects genuine uncertainty rather than a clear mispricing. Analogous post-launch FDV markets vary widely, and GRVT’s market remains too low-volume to signal a >5 cent inefficiency.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether GRVT’s fully diluted valuation (FDV = total token supply × token price) will exceed $200 million at 4 PM ET on the calendar day after its public token launch. A “Yes” requires both (a) a token launch by December 31, 2027 and (b) a one-day-post-launch price × supply that gives FDV > $200M. Otherwise it resolves “No.”
+This market asks whether GRVT’s governance token will have a Fully Diluted Valuation (total supply × price) exceeding \$200 million exactly 24 hours after its public, tradable launch (4 PM ET on the following day). A “Yes” requires: (a) GRVT token launch before end of 2027, (b) active trading, and (c) price × total supply > \$200 M at that timestamp. Otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• The Feb 27 Grvt Roadmap promises a unified “earn/trade/invest/pay” platform and capital­ efficiency innovations that could drive strong demand and justify a > $200 M FDV if execution is credible.  
-• Comparable early FDV markets (e.g. Fabric’s 99% for > $50 M) show token markets can rally sharply on strong narratives.  
+Bullish analogies:  
+- USD.AI’s projected FDV of \$270–\$320 M one day post-launch, using TVL, early revenues, and partnerships methodology, suggests that projects with strong fundamentals can exceed \$200 M FDV.  
+- StandX’s market assigns ~70% to >\$200 M FDV with good liquidity; Fabric saw >\$100 M FDV at ~98% probability, illustrating that well-backed launches often clear high thresholds.  
 
-Bearish/uncertain signals:  
-• No publicly available tokenomics: without clarity on total supply, lockups, vesting schedules or initial sale size, projecting > $200 M FDV is speculative.  
-• Low pre-launch volume ($4 K total) and tight spread hint that one or few traders set the price; no broad on-chain or retail interest data has been priced in.  
-• Analogous project Puffpaw—with $12 M revenue and $10 M funding—only projects a $50–100 M FDV, suggesting $200 M may be ambitious for a new protocol without real revenues.  
-• Abstract’s case warns of dilution risk: large unlocked supplies or aggressive vesting could crash post-launch prices, undermining a sustained FDV > $200 M.  
+Bearish considerations:  
+- GRVT’s specific fundamentals (TVL, revenue, partnerships) are unknown—unlike USD.AI, StandX or Fabric—so blindly applying USD.AI’s values is speculative.  
+- StandX’s own 59% tilt toward >\$200 M indicates caution even for projects with visible on-chain momentum; a 38.5% market reflects uncertainty around GRVT’s actual launch metrics.
 
-Source credibility is moderate: the Grvt roadmap is primary (official, Feb 27 2026), but no tokenomic whitepaper exists yet. Third-party analyses (Fabric, Puffpaw, Abstract) are recent and relevant for methodology but not directly about GRVT.
+Source credibility/recency:  
+All referenced analyses are from March 2026 and come from recognized market-analysis outlets (Whales.Market, Prediction Circle, AInvest). They are recent and relevant, but none address GRVT directly.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 67% price could reflect a single optimist’s conviction based on the strong roadmap, not a consensus. Low volume suggests limited information aggregation; if the outcome were obvious, we’d expect more liquidity and participation. Informed traders may be awaiting tokenomic details before trading heavily.
+- A 38.5% probability could reflect genuine uncertainty due to GRVT’s undisclosed fundamentals; it’s plausible that informed traders withheld capital until tokenomics and partnerships are announced.  
+- Low total volume (~\$7.9 K) and tight spread suggest a market driven by few participants rather than broad consensus. This diminishes confidence that the price aggregates diverse information.  
+- The low volume likely stems from limited public data on GRVT, not because the outcome is trivial.
 
 4. MISPRICING ASSESSMENT  
-Given the absence of supply/vesting details, a 67% probability may overstate certainty. Yet the roadmap’s ambition could justify optimism above 50%. I see no > 20 cent mispricing: the market neither looks deeply mispriced cheap nor obviously overvalued. At best there’s a modest overpricing risk of ~10¢.
+No definitive project-specific data on GRVT’s tokenomics, TVL, or partnerships is provided. Without such info, we cannot identify a clear bias in the 38.5% price. Analogous markets show a wide range of probabilities depending on fundamentals; GRVT’s market fits within that range given current opacity. There is no concrete missing evidence that would swing the probability by more than a few cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (moderate uncertainty, missing tokenomic data).  
-Magnitude of mispricing: ~10 cents.  
-Expected value = 0.5 × 10c = 5c  
+Strength of evidence that price omits critical info: ~20% (we lack GRVT-specific data).  
+Magnitude of potential mispricing: ~5 cents (small uncertainty range).  
+Expected value ≈ 20% × 5 cents = 1 cent.
 
-EXPECTED_VALUE: 5  
-SUMMARY: GRVT’s ambitious roadmap supports optimism, but lack of tokenomics and very low volume imply the 67% probability may be slightly too high. There is modest uncertainty but no large mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: With no specific data on GRVT’s tokenomics, TVL, or partnerships, the 38.5% price plausibly reflects genuine uncertainty rather than a clear mispricing. Analogous post-launch FDV markets vary widely, and GRVT’s market remains too low-volume to signal a >5 cent inefficiency.  
+CONFIDENCE: low
 
 ---
 
@@ -54,42 +55,50 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Grvt Roadmap 2026
+Title: Here's Why USD.AI FDV Could Be $270M–$320M One Day After Launch!
 Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://grvt.io/blog/grvt-2026-roadmap/
-Summary: The Grvt roadmap aims to revolutionize capital efficiency in crypto by unifying earning, trading, investing, and payments around a single programmable balance. Its core mission is to create an exchange that maximizes your capital's productivity—allowing the same assets to earn yield, back margin positions, and stay exposed to price movements simultaneously, eliminating traditional capital drag. The platform plans to develop a comprehensive ecosystem comprising a yield layer with prime brokerage and Layer 1 yield integrations, an investment layer with managed vaults, a multi-market trading venue for spot and derivatives across crypto and traditional finance, and a seamless payments layer—all under a unified margin system. This integrated approach is designed to significantly enhance capital utility and efficiency, which could positively influence investor perception and valuation. If Grvt successfully executes this ambitious roadmap, it has the potential to reach a fully diluted valuation (FDV) above $200 million, especially considering its focus on maximizing capital productivity and reducing fragmentation in crypto financial services.
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://whales.market/blog/usd-ai-chip-fdv-prediction/
+Summary: The article primarily discusses USD.AI's valuation prospects, projecting a fully diluted valuation (FDV) between $270 million and $320 million shortly after launch, based on multiple valuation methods and current market data. It highlights the protocol's fundamentals, including its TVL (~$450M), revenue figures, and recent partnerships, notably with PayPal. While the focus is on USD.AI's potential FDV, the detailed valuation approaches and market signals suggest that similar methodologies could be applied to assess whether a project like GRVT might surpass a $200 million FDV one day after launch. Key factors to consider include initial market volume, tokenomics, early revenue, partnerships, and overall market conditions, which influence early valuation estimates.
+
+Title: Predict.fun FDV above ___ one day after launch? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://predictioncircle.com/event/predictfun-fdv-above-one-day-after-launch
+Summary: The webpage provides insights into prediction markets related to the fully diluted valuation (FDV) of crypto projects shortly after launch. Specifically, it details how market participants are currently assessing the likelihood of Predict.fun's FDV exceeding certain thresholds, with a focus on the $50M mark one day after launch. The market shows a high confidence (91%) that the FDV will surpass $50M, supported by significant trading volume ($1.1M) and active participation.
+
+Key points relevant to predicting whether GRVT's FDV will be above $200M one day after launch include:
+
+- **Market Dynamics:** The prediction market reflects real-time trader sentiment based on on-chain data, market momentum, and credible reporting. Heavy trading activity and high participation suggest strong market interest and confidence.
+- **Odds and Confidence:** For the $50M threshold, traders currently favor a 91% probability, indicating high confidence in surpassing that level. Similar confidence levels could be expected for higher thresholds like $200M, though typically lower than for smaller thresholds.
+- **Market Resolution:** The market will resolve to "Yes" if the FDV exceeds the specified threshold (e.g., $200M) one day after launch, based on verified data such as token supply and price.
+- **Factors Influencing FDV:** The FDV depends on total token supply and market price at the time of resolution. Market sentiment, project fundamentals, tokenomics, and broader market conditions will influence these factors.
+- **Historical
+
+Title: StandX FDV above ___ one day after launch? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://predictioncircle.com/event/standx-fdv-above-one-day-after-launch
+Summary: The prediction market for StandX's Fully Diluted Valuation (FDV) indicates a 70% likelihood that its FDV will be above $200 million one day after launch, with current trader sentiment favoring a $200M valuation at 59%. The market has seen $850K in trading volume, with active participation and a focus on outcomes around the $200M and $400M thresholds. Key factors influencing predictions include on-chain data, regulatory developments, and market momentum. The market resolution depends on whether StandX's token, once launched and tradable, exceeds the specified FDV within 24 hours, based on credible sources. While traders currently lean toward a $200M valuation, the market remains cautious, with some backing for higher valuations, reflecting uncertainty and the waiting for new information.
 
 Title: Fabric ($ROBO) FDV above ___ one day after launch? - Prediction Market Odds & Analysis
 Author: Prediction Circle
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://predictioncircle.com/event/fabric-fdv-above-one-day-after-launch
-Summary: The webpage analyzes prediction markets related to the Fully Diluted Valuation (FDV) of crypto projects shortly after launch. Currently, for Fabric ($ROBO), the market indicates a high probability (99%) that its FDV will exceed $50 million, with a near certainty (98%) for over $100 million, based on active trading and significant market interest (~$659K traded). The market's signals show broad participation but relatively low capital backing for higher thresholds, suggesting cautious optimism about Fabric's valuation.
+Summary: The webpage analyzes prediction markets related to the valuation of Fabric ($ROBO) one day after launch, highlighting current market sentiment and activity. Key points include:
 
-Key factors influencing predictions include real-time trader sentiment, on-chain data, and credible reporting, with the market resolution based on whether Fabric's token FDV surpasses the specified threshold one day after launch. The analysis emphasizes that such prediction markets reflect collective expectations rather than official projections, and the "Crowd vs Money" metric reveals widespread interest but varying conviction levels.
+- The market currently assigns a 99% probability that Fabric's Fully Diluted Valuation (FDV) will exceed $50 million one day after launch, with a close 98% probability for surpassing $100 million.
+- Heavy trading volume ($656K) and active participation (106 participants) indicate significant market interest and potential shifts in expectations.
+- Multiple outcomes are being considered, with the market resolving to "Yes" if Fabric's FDV exceeds the specified threshold based on on-chain data and credible sources.
+- The analysis emphasizes that market odds reflect trader sentiment and capital commitment, not official projections, and that the event's resolution depends on publicly verifiable data.
+- For predicting whether GRVT's FDV will be above $200 million one day after launch, similar market dynamics and sentiment indicators could be relevant, especially considering the current high probabilities and active trading signals observed in Fabric's case.
 
-While this specific analysis pertains to Fabric, the methodology and market dynamics described can inform predictions about other projects like GRVT. For GRVT to have an FDV above $200 million one day after launch, similar market signals—such as high participation, significant trading volume, and strong backing—would be necessary. Monitoring trader sentiment, on-chain metrics, and the distribution of capital commitments would be crucial in assessing the likelihood of GRVT reaching that valuation threshold.
+This context suggests that if the market's confidence and trading activity for Fabric are strong, similar patterns might inform expectations for GRVT's valuation milestone.
 
-Title: Frontier Digital Ventures (ASX:FDV) Is In A Strong Position To Grow Its Business - Simply Wall St News
-Author: 
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://simplywall.st/stocks/au/media/asx-fdv/frontier-digital-ventures-shares/news/frontier-digital-ventures-asxfdv-is-in-a-strong-position-to
-Summary: Frontier Digital Ventures (ASX:FDV) is currently in a strong financial position with AU$11 million in cash and no debt, and a low annual cash burn of AU$509,000, providing a substantial cash runway. Despite a 6% decline in operating revenue, the company has significantly reduced its cash burn by 92%, indicating improved efficiency. Its ability to grow depends on future revenue expansion and reaching cash flow breakeven, which analysts expect may occur before exhausting its cash reserves. Regarding the potential for FDV to surpass a market cap of AU$200 million ("above $200M") after launch, the company's current financial stability and growth prospects suggest it could support valuation increases if it successfully scales its business and attracts investor interest. However, market valuation will ultimately depend on its revenue growth, profitability trajectory, and investor sentiment post-launch.
-
-Title: Puffpaw FDV Could Be $50M-$100M After Launch. Here's Why!
-Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://whales.market/blog/puffpaw-price-prediction/
-Summary: The webpage provides a detailed overview of Puffpaw, a DePIN project built on Berachain that combines hardware, blockchain, and revenue-generating activities focused on vape-to-earn. Puffpaw has already generated over $12 million in revenue primarily through pod and device sales, indicating strong real-world business fundamentals. The project has raised $10 million across funding rounds and features a unique ecosystem where users buy smart vapes and pods, track usage, reduce nicotine, and earn $VAPE tokens, which can be reinvested into the ecosystem.
-
-While the article does not directly address the valuation or FDV (Fully Diluted Valuation) of Puffpaw, its strong revenue base, active user engagement, and innovative model suggest a potentially high valuation post-launch. Specifically, the project’s revenue and user growth could support a significant FDV, possibly in the range of $50M to $100M shortly after launch, depending on tokenomics, sell pressure, and market sentiment.
-
-Regarding the user’s query about GRVT (a different token) achieving an FDV above $200M one day after launch, the webpage’s insights imply that Puffpaw’s valuation is driven by tangible revenue and active ecosystem engagement, which could justify high FDV levels. However, without specific tokenomics details or market conditions, predicting an FDV above $200M for GRVT remains speculative. The strong revenue and real-world traction of Puffpaw suggest that high valuations are possible if similar fundamentals apply to GRVT, but
-
-Title: Abstract's Token Launch: Will the FDV Moonshot or Crash?
+Title: Fabric's $400M Valuation: Was the FDV Above the Launch Price One Day Later?
 Author: AInvest
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.ainvest.com/news/abstract-token-launch-fdv-moonshot-crash-2602/
-Summary: The article discusses Abstract's upcoming token launch, highlighting the intense community-driven hype led by the Pudgy Penguins, who see the token as a potential moonshot based on strong engagement metrics (150M+ transactions, 40% 30-day retention). However, market fears of dilution pose a significant risk; with a FDV-to-market cap ratio of 0.71, there's concern that unlocked tokens and vesting schedules could lead to a price crash shortly after launch. The prediction market, resolving in late 2027, will determine whether the FDV remains above $200 million one day post-launch. Key factors influencing this outcome include token supply size, vesting terms, liquidity (current TVL of $20.6M), and market sentiment. The community's bullish stance contrasts with market skepticism about dilution risks, making the FDV math the critical determinant of whether the token's valuation will sustain or collapse immediately after launch.
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://www.ainvest.com/news/fabric-400m-valuation-fdv-launch-price-day-2602/
+Summary: The article discusses Fabric's recent token launch with a $400 million fully diluted valuation (FDV), which was not above the token price one day after launch, indicating initial market skepticism about its valuation. Key factors influencing future FDV include the large 100% token unlock at TGE, which creates immediate liquidity risks, and the significant 40% public allocation reserved for partner communities, potentially leading to future selling pressure. While Fabric's pedigree—backed by Stanford, Pantera Capital, Coinbase Ventures, and industry giants like NVIDIA—adds credibility, the token sale structure and early market dynamics suggest caution. To predict whether GRVT's FDV will surpass $200 million one day after launch, consider similar factors: the initial unlock strategy, the distribution plan, the project's backing, and how the market perceives its valuation relative to peers.
 
 

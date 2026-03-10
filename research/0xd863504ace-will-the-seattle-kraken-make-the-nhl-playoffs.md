@@ -1,7 +1,7 @@
 # Research: Will the Seattle Kraken make the NHL Playoffs?
 
 **Market ID:** 0xd863504ace8a3a34e261e7c1fa1d0119805746d2bec8a8db9f2aea006ff19909
-**Researched At:** March 1, 2026 at 02:33:16 PM UTC
+**Researched At:** March 10, 2026 at 04:16:50 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Seattle Kraken make the NHL Playoffs?"
 
 ---
@@ -9,43 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.5¢
+**Expected Value:** 15.6¢
 
 ### Summary
 
-The Kraken’s current .563 point percentage, recent win streaks, and trade-deadline flexibility support an ~38.5% playoff probability amid a tight Western Conference race. No clear, unpriced information suggests a >20-cent mispricing.
+Current standings and expert analysis point to >50% odds for the Kraken to hold a playoff spot with 22 games left, yet the market sits at 34%, indicating a likely ~25-cent undervaluation. Low volume suggests this price reflects a few bearish trades rather than broad agreement.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Seattle Kraken will finish the 2025–26 NHL regular season in a playoff spot (top three in the Pacific Division or one of the two Western Conference wild-card slots). A “Yes” requires them to maintain or improve their current standing; a “No” if they fall out of playoff range or become mathematically eliminated.  
+The market asks whether the Seattle Kraken will finish the 2025–26 regular season qualified for the NHL Playoffs under the official format (top three in the Pacific Division or one of two Wild Card spots in the Western Conference).  As of March 10, 2026 with 22 games remaining, the Kraken sit in a Wild Card position and control a game in hand, but must hold off other contenders in their division and conference.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence  
-- Record and standings: At 27-22-9 (63 points in 56 games, .563 point percentage) they sit 3rd in the Pacific and 5th in the West. Historically, teams in this range make the playoffs ~40% of the time, consistent with a ~38.5% implied probability.  
-- Recent form: Four straight wins including a head-to-head over Vegas, 6–2–0 in last eight pre-Olympic break, strong defensive play under Coach Lambert.  
-- Cap flexibility and trade deadline: $22 million in cap space and Eberle’s retention (or strategic rental trades) could bolster scoring.  
+Bearish signals (supporting a sub-50% chance):  
+• Their offense has inconsistently delivered all season and still must overcome a concentrated Pacific Division (Vegas, Edmonton, Calgary).  
+• Key pending UFAs may be traded out ahead of the deadline, potentially weakening the roster depth.  
 
-Bearish evidence  
-- Tight division: Ducks, Kings and Oilers are within a few points; the race for two wild-card spots is crowded.  
-- Inconsistency: The Kraken have oscillated in and out of contention and have only made the playoffs once in four seasons.  
-- Schedule challenges: Five games before March 6 and 26 in 50 days post-deadline, with some matchups effectively “playoff elimination” games.  
+Bullish signals (suggesting >50% chance):  
+• Marko Zlomislic (Mar 4) reports the Kraken hold the second Wild Card spot with 67 points in 60 games (1.12 PPG) and a game in hand over the Golden Knights, plus a slight edge over LA and San Jose.  
+• John Barr (Feb 25) notes elite goaltending from Philipp Grubauer and solid defensive play have lifted them into third in the Pacific at the Olympic break.  
+• Multiple analysts describe the team as “optimistic” or “strongly positioned,” implying this performance is sustainable.  
 
-All sources (NHL.com, Seattle Hockey Daily, FOX 13 Seattle, Pacific North Hockey) are current (Feb–Mar 2026) and credible. None present a clear, game-changing data point unaccounted for by a ~38.5% market price.  
+Credibility & recency: All sources are dated Feb 25–Mar 7, 2026 and come from established hockey reporters (ESPN, regional beat writers).  None point to a looming collapse or a dramatically tougher remaining schedule.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A ~38.5% price reasonably reflects both the team’s above-average but not dominant performance and the competitive Western Conference. The low volume likely reflects this mid-range probability being uncontroversial rather than extreme disagreement.  
+A 34% price implies traders see them as long shots despite their current standing and game in hand.  With only ~$4.9K traded and a tight spread, the price could reflect one or two bearish trades rather than broad consensus.  It’s unlikely informed participants have all walked away if there really were >50% odds.
 
 4. MISPRICING ASSESSMENT  
-No specific, material information appears missing. The team’s standings, recent results, and trade-deadline flexibility are well-covered and likely already priced in. There is no credible basis to believe the market misprices their chance by more than a few cents.  
+Given they control their own destiny (game in hand, holding a Wild Card), plus strong goaltending and defensive metrics, the Kraken’s true probability seems closer to 55–60%.  The market at 34% underprices by roughly 20–25 cents.  We see no indication of a rule or hidden technicality that would invalidate this reading if the Kraken maintain pace.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 10% (market already reflects most known factors)  
-Magnitude of mispricing: 5 cents (at most a small inefficiency)  
-Expected value = 10% × 5 cents = 0.5 cents  
+Strength of evidence: 60% (solid, recent standings data but lacking a full schedule breakdown)  
+Magnitude of mispricing: 26 cents (estimated true win probability ~60% vs market’s 34%)  
+Expected value = 0.60 × 26 cents = 15.6 cents
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: The Kraken’s current .563 point percentage, recent win streaks, and trade-deadline flexibility support an ~38.5% playoff probability amid a tight Western Conference race. No clear, unpriced information suggests a >20-cent mispricing.  
+EXPECTED_VALUE: 15.6  
+SUMMARY: Current standings and expert analysis point to >50% odds for the Kraken to hold a playoff spot with 22 games left, yet the market sits at 34%, indicating a likely ~25-cent undervaluation. Low volume suggests this price reflects a few bearish trades rather than broad agreement.  
 CONFIDENCE: medium
 
 ---
@@ -54,45 +53,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Seattle Kraken trade deadline plans revealed: Jordan Eberle decision could change the organization
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.seattlehockeydaily.com/nhl-team/seattle-kraken/seattle-kraken-trade-deadline-plans-revealed-jordan-eberle-decision-could-change-the-organization
-Summary: The Seattle Kraken's chances of making the NHL playoffs hinge significantly on their upcoming trade deadline decisions, particularly regarding forward Jordan Eberle. Currently, the team holds a record of 27-22-9 and is in contention for a playoff spot in the Pacific Division, thanks to improved defensive play under coach Lane Lambert. Eberle, who leads the team with 20 goals, has a full no-trade clause, making his retention crucial for the team's offensive stability.
+Title: NHL playoff standings: Resetting the postseason races - ESPN
+Author: ESPN Staff
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://www.espn.com/nhl/story/_/id/48126724/nhl-playoffs-bracket-standings-2026-wild-card-bracket-games-matchups
+Summary: The article discusses the current NHL playoff standings and the ongoing race to secure postseason spots. It highlights recent team performances, injuries, and trades that could influence playoff qualification. Notably, teams like the Colorado Avalanche, New Jersey Devils, and others are vying for playoff positions, with some teams making strategic roster moves to improve their chances. While specific details about the Seattle Kraken's current standing are not provided, the overall context suggests that their playoff prospects depend on their performance in upcoming games and how other teams in their conference are performing. Monitoring their recent results, injury status, and remaining schedule will be crucial in assessing whether the Kraken are likely to make the playoffs.
 
-If Eberle stays, the Kraken may seek to acquire another top-six forward to enhance their scoring capabilities. Conversely, if the management opts to trade him, they could pursue rental players to bolster their lineup. The team also has significant cap space, approximately $22.07 million, which allows for strategic moves, including potential salary retention on trades.
+Title: 3 factors that will decide if Seattle Kraken make playoffs this ...
+Author: Andy Eide
+URL: https://sports.mynorthwest.com/nhl/seattle-kraken/3-factors-decided-if-seattle-kraken-make-playoffs/1657783
+Summary: The Seattle Kraken's prospects for making the NHL Playoffs hinge on three key factors: their offensive improvement, defensive stability, and overall team cohesion. General Manager Ron Francis has actively strengthened the team this summer by adding offensive players like Andre Burakovsky and Oliver Bjorkstrand, aiming to boost scoring and power play efficiency. However, last season's struggles with scoring and defensive lapses highlight the need for continued improvement. The team's success will depend on whether these roster enhancements translate into consistent wins and whether they can maintain defensive solidity throughout the season. Ultimately, the Kraken's playoff chances will be determined by their ability to score more goals, tighten their defense, and build cohesive team chemistry.
 
-Additionally, the future of young center Shane Wright could play a pivotal role in any trade discussions, as moving him could yield a strong return to strengthen the roster. Overall, the Kraken's decisions leading up to the trade deadline will be critical in determining their playoff prospects.
+Title: Predicting where every NHL team finishes in 2025-26
+Author: Greg Wyshynski
+URL: https://www.espn.com/nhl/story/_/id/46521675/nhl-2025-26-teams-standings-predictions-stanley-cup-playoffs-divisions
+Summary: The article predicts the standings for the 2025-26 NHL season, with a focus on team performances and playoff prospects. While it highlights the Colorado Avalanche as the Stanley Cup winner and discusses division-by-division outlooks, it does not specifically mention the Seattle Kraken's chances of making the playoffs. However, the detailed analysis of team strengths, recent performances, and division dynamics can provide context for assessing the Kraken's potential playoff qualification. Notably, the article emphasizes the competitive nature of divisions like the Atlantic, where teams such as Tampa Bay, Toronto, and Florida are contending, and discusses the importance of team form, key players, and recent trends that could influence playoff outcomes across the league.
 
-Title: Kraken returning to action seeking to join postseason party | FOX 13 Seattle
-Author: Curtis Crabtree
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.fox13seattle.com/sports/kraken-return-action-seeking-join-postseason-party
-Summary: The Seattle Kraken are currently in a strong position to make the NHL playoffs, sitting in third place in the Pacific Division with 63 points, which is their second-best record through 56 games in franchise history. They return to action after a three-week break for the Winter Olympics, facing a challenging schedule with five games before the trade deadline on March 6 and 26 games in total over the next 50 days. Forward Jared McCann emphasized the importance of maintaining focus and treating every game like a playoff match. The Kraken were performing well before the break, winning six of their last eight games, which bodes well for their playoff aspirations. Their current point percentage of .563 ranks them fifth in the Western Conference, indicating a competitive standing as they aim to join the Mariners and Seahawks in playoff appearances this season.
+Title: Seattle Kraken Have Flexibility Ahead Of 2026 NHL Trade Deadline - Oregon Sports News
+Author: Marko Zlomislic
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://oregonsportsnews.com/seattle-kraken-have-flexibility-ahead-of-2026-nhl-trade-deadline/
+Summary: The Seattle Kraken are currently positioned as the second wildcard team in the Western Conference with 67 points in 60 games, just three points behind division leader Vegas Golden Knights and holding a game in hand. They have a slight edge over other potential playoff contenders like the Los Angeles Kings and San Jose Sharks. With approximately six weeks remaining in the regular season, prognosticators are generally optimistic about their chances of making the playoffs. However, their ability to secure a postseason spot will depend on their performance in upcoming games and strategic decisions ahead of the March 6 trade deadline, especially considering five key players set to become unrestricted free agents this summer.
 
-Title: Big Kraken Win Sets Up Pivotal Confrontations - Pacific North Hockey
-Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://pacificnorthhockey.com/seattle/2026/02/01/kraken-pivotal-games
-Summary: The Seattle Kraken's recent performance suggests a competitive race for the NHL playoffs. After a 3-2 victory against the Pacific Division-leading Vegas Golden Knights, the Kraken have won four consecutive games and are now just three points behind both Vegas and the Edmonton Oilers. However, their playoff position remains precarious, as they have fluctuated in and out of playoff contention throughout the season.
-
-Upcoming matches against the Anaheim Ducks and Los Angeles Kings are critical, as both teams are vying for the second wild card spot in the Western Conference, just two points behind the Kraken. These games are described as "mini-playoff matches," emphasizing their importance in the standings as the regular season approaches its final stretch.
-
-The Kraken have only made the playoffs once in their four-year history, which adds pressure to secure a spot this season. With a tightly contested division and several teams within striking distance, the outcome of the next few games will be pivotal in determining whether the Kraken can clinch a playoff berth.
-
-Title: Kraken Have Proven They Are ‘Good’ Team
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.nhl.com/kraken/news/upon-further-review-kraken-have-proven-they-are-good-team
-Summary: The Seattle Kraken have demonstrated their potential as a competitive team in the NHL, particularly as they head into a break before the 2026 Winter Olympic Games. Despite facing significant injuries and setbacks, they have maintained a strong position in the Pacific Division, currently tied with the Anaheim Ducks at 63 points. Head coach Lane Lambert has expressed confidence in his players' belief in their playoff capabilities, emphasizing that their performance has improved significantly over the past two months.
-
-The Kraken's success can be attributed to their defensive-oriented system, which has begun to yield consistent results after a rocky start. They recently completed a challenging stretch of 17 games in January, showcasing their ability to compete at a high level. The NHL's current landscape, characterized by parity among teams, suggests that the Kraken have a viable chance of making the playoffs if they continue to build on their recent performance and maintain consistency.
-
-Title: Bold predictions for 2026 include Ovechkin re-signing, Sharks ...
-Published Date: 2025-12-31T00:00:00.000Z
-URL: https://www.nhl.com/news/bold-nhl-predictions-for-2026
-Summary: The article discusses bold predictions for the NHL in 2026, including potential playoff outcomes. While it does not specifically mention the Seattle Kraken's chances, it highlights key players and trends that could impact playoff scenarios. Notably, Morgan Geekie, who has been performing exceptionally well, is predicted to score over 50 goals, indicating that strong individual performances could influence team success. Additionally, the article mentions the competitive landscape with teams like the Florida Panthers aiming for a third consecutive championship, suggesting that the playoff race will be intense. 
-
-For the Seattle Kraken, their playoff prospects will likely depend on maintaining strong performances from key players, such as Geekie, and navigating a competitive division. The overall success of the Kraken in the upcoming season will be influenced by their ability to capitalize on individual talents and adapt to the evolving dynamics of the league.
+Title: Kraken Roundtable: The final push
+Author: John Barr
+URL: https://soundofhockey.com/2026/02/25/kraken-roundtable-final-push-for-playoffs/
+Summary: The Seattle Kraken are currently in a strong position to make the NHL Playoffs, sitting third in the Pacific Division at the Olympic break. Their success is attributed mainly to solid defensive structure and improved goaltending, particularly the performance of Philipp Grubauer, who has significantly outperformed expectations this season. The team has also shown resilience in back-to-back games, earning crucial points that bolster their playoff chances. With key players returning from injury and a cohesive team buy-in under coach Lane Lambert, the Kraken's outlook for the final stretch appears promising. However, their fate will depend on how they manage upcoming roster decisions, especially regarding pending unrestricted free agents, and their continued performance in the remaining games.
 
 

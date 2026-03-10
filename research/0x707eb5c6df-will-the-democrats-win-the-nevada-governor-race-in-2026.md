@@ -1,7 +1,7 @@
 # Research: Will the Democrats win the Nevada governor race in 2026?
 
 **Market ID:** 0x707eb5c6df23e32e0b770dd0ccd1245abb7fac0dcfd24d8b68dd99e5ca737180
-**Researched At:** March 3, 2026 at 02:55:35 PM UTC
+**Researched At:** March 10, 2026 at 04:16:44 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democrats win the Nevada governor race in 2026?"
 
 ---
@@ -9,47 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-Polls show a dead heat between Ford and Lombardo with large undecided shares and a well-approved GOP incumbent, supporting a marginally Democratic-favored 51.5% price. No clear unpriced catalyst suggests only a minor mispricing, if any.
+Recent, reputable polls show a near-dead heat with significant undecideds and mixed approval ratings, aligning with a roughly 50% probability. There is no credible evidence indicating a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Democratic nominee will win Nevada’s 2026 governor’s race. A “YES” requires the Democratic candidate (likely AG Aaron Ford) to receive a plurality and be called by AP, Fox, and NBC (or certified). A “NO” if the Republican (incumbent Joe Lombardo) or any other candidate wins.
+This market asks whether the Democratic nominee will win Nevada’s 2026 governor’s race against the Republican nominee (and any third-party or independent doesn’t count). It resolves YES if the Democrat gets called the winner by AP, Fox, and NBC (or is officially certified if they deadlock), otherwise NO.
 
 2. EVIDENCE EVALUATION  
 Bullish for Democrats:  
-- 2025 Emerson poll shows a 41–41 tie with 18% undecided; Ford leads among Hispanics and women.  
-- Despite a tied race, Trump’s high disapproval in Nevada could tilt undecideds toward Democrats.  
-- NV Dems highlight Lombardo’s policy missteps and economic frustrations, arguing vulnerability.
+• Emerson poll (early Mar 2026) shows Ford (D) tied 41-41 with Lombardo (R) and 18% undecided. Ford leads among Hispanics and women.  
+• Gambit forecaster notes emerging narrow Democratic pathways and increasing volatility.  
+• Lombardo’s approval is low (34%) and criticized for scandals per the Nevada Democratic Party.  
 
 Bearish for Democrats:  
-- Feb 2026 reporting (RGJ) shows Gov. Lombardo with >50% approval and leading early forecasts—incumbency advantage.  
-- Emerson poll’s large undecided bloc could break for the incumbent, especially independents.  
-- No recent public poll shows a Democratic lead; most indicate a toss-up or slight GOP edge.
+• KTNV poll (recent) gives Lombardo 40% to Ford’s 37% and 23% undecided—a slight R edge within margin of error.  
+• Republican incumbent advantage and strong independent support for Lombardo in Emerson poll.  
 
-Source credibility/recency:  
-- Emerson poll (11/2025) is reputable and timely for a 2026 race.  
-- RGJ forecast (2/2026) is local and current.  
-- NV Dems release is partisan and less objective.  
-- Washington Post Middle East coverage and Ballotpedia page offer little direct predictive value.
+Source credibility and recency: Emerson, KTNV, and Gambit are recent (Feb–Mar 2026), reputable for state-level polling and forecasting; the NV Dem Party piece is heavily partisan. The undecided share (18–23%) suggests significant room for shifts, but neither side has a clear majority edge that markets haven’t already priced in.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At $2.2K volume and a 5¢ spread, the 51.5% price may reflect one or few informed traders pricing a near-dead heat with a slight Democratic tilt (possibly factoring minority turnout and Trump drag). Low volume could indicate the race is seen as a standard toss-up rather than a glaring opportunity.
+A ~50% price reflects a consensus that this is a true toss-up. Low volume likely stems from the race still being in early stages with many undecideds. There is no single overwhelming datapoint unaccounted for; informed traders appear to have aggregated the tight polling and incumbent factors.
 
 4. MISPRICING ASSESSMENT  
-The evidence points to a true toss-up: tied polls, a popular GOP incumbent, and undecided voters. The current 51.5% implies a marginal Democratic edge that is justifiable but not strongly supported by data. The market does not appear mispriced by more than a few cents; any deviation is smaller than typical transaction costs. No clear, unpriced information emerges.
+All credible, recent polls show a dead heat or slight R lead within MOE. No specific, reliable new information suggests Democrats have more than a coin-flip advantage or that they are underpriced. The market’s 49.5% is the most charitable reflection of current uncertainty.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence against large mispricing: 30%  
-Estimated max mispricing magnitude: 3¢  
-Expected value = 0.30 × 3¢ = 0.9¢ ≈ 1.0¢
+Strength of evidence: 90% (polls are strong, relevant, and recent).  
+Magnitude of mispricing: 0 cents (no clear mispricing).  
+Expected value = 90% × $0 = $0 (0 cents).
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Polls show a dead heat between Ford and Lombardo with large undecided shares and a well-approved GOP incumbent, supporting a marginally Democratic-favored 51.5% price. No clear unpriced catalyst suggests only a minor mispricing, if any.  
+EXPECTED_VALUE: 0  
+SUMMARY: Recent, reputable polls show a near-dead heat with significant undecideds and mixed approval ratings, aligning with a roughly 50% probability. There is no credible evidence indicating a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -58,32 +53,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Nevada 2026 Poll: Dead Heat for Governor, U.S. Senators Rosen ...
+Title: Nevada 2026 Poll: Dead Heat for Governor, U.S. Senators Rosen and ...
 Author: Camille Mumford
-Published Date: 2025-11-21T00:00:00.000Z
 URL: https://emersoncollegepolling.com/nevada-2026-poll/
-Summary: The Emerson College Polling indicates a highly competitive Nevada governor race in 2026, with incumbent Republican Joe Lombardo and Democratic Attorney General Aaron Ford tied at 41% support each, and 18% undecided. Lombardo has an advantage among independents, but a significant portion of voters remain undecided. Ford performs better among Hispanic voters and women. Governor Lombardo’s approval rating is 34% (disapproval 36%), while both U.S. Senators Rosen and Cortez Masto hold negative approval ratings (disapproval over 40%). Overall, Democratic incumbents face challenges with divided support within their base, and President Trump’s disapproval among Nevada voters suggests a potentially unfavorable environment for Democrats. These factors suggest a close and uncertain race, with no clear Democratic advantage predicted at this stage.
+Summary: The Emerson College Polling indicates a highly competitive Nevada governor race in 2026, with incumbent Republican Joe Lombardo and Democratic Attorney General Aaron Ford tied at 41% support each, and 18% undecided. Lombardo has a strong lead among independents, but a significant portion of voters remain undecided. Ford performs better among Hispanic voters and women. Governor Lombardo's approval rating is 34%, while both U.S. Senators Rosen and Cortez Masto have negative approval ratings, suggesting potential challenges for Democratic candidates. Overall, the race appears evenly matched, and voter preferences could shift as the election approaches.
 
-Title: Gov. Lombardo shows over 50% approval, edge in 2026 election forecasts
-Author: Mark Robison
-Published Date: 2026-02-02T00:00:00.000Z
-URL: http://www.rgj.com/story/news/politics/elections/2026/02/02/gov-lombardo-nevada-2026-election-forecasts/88481683007/
-Summary: Nevada Governor Joe Lombardo currently holds over 50% approval ratings and is leading in early election forecasts for 2026. His strong approval suggests he has a solid base of support, which could make it challenging for Democrats to secure a victory in the upcoming gubernatorial race. However, as the election approaches, factors such as campaign dynamics, opposition strategies, and voter turnout will influence the final outcome.
+Title: New poll shows Lombardo has slight lead in 2026 governor matchup
+Author: 
+URL: https://www.ktnv.com/news/new-poll-shows-lombardo-has-slight-lead-in-2026-governor-matchup
+Summary: A recent poll indicates that incumbent Republican Governor Joe Lombardo leads Democratic Attorney General Aaron Ford in Nevada's 2026 gubernatorial race, with Lombardo at 40% and Ford at 37%, and 23% undecided. The race is within the margin of error, suggesting a competitive contest. Both candidates are viewed positively by voters. While Lombardo currently has a slight advantage, the significant undecided voter percentage means the outcome remains uncertain, and Democratic prospects could improve as the campaign progresses.
 
 Title: Most Vulnerable Republican Governor Panicking About Election Odds After Another Disastrous News Week  - Nevada Democratic Party
 Author: cromero@nvdems.com
 Published Date: 2026-02-09T00:00:00.000Z
 URL: https://nvdems.com/most-vulnerable-republican-governor-panicking-about-election-odds-after-another-disastrous-news-week/
-Summary: The webpage highlights Nevada Governor Joe Lombardo's struggles amid a tumultuous political and economic environment. Lombardo, identified as the most vulnerable incumbent in the nation, faces mounting criticism due to his handling of issues such as rising costs, declining tourism, and controversial ties to wealthy interests like Elon Musk’s Boring Company. His leadership has coincided with economic hardships for Nevadans, including soaring grocery prices, high home prices, and increased healthcare premiums, while he has refused to oppose Republican policies like Trump’s tariffs. Recent political moves, such as launching a re-election campaign during a cyberattack and skipping key hearings, suggest a defensive posture. Democratic Party spokesperson Kate Sosland emphasizes Lombardo’s failures and scandals, implying that his vulnerabilities could favor Democratic prospects in the 2026 Nevada gubernatorial race.
+Summary: The webpage highlights significant challenges faced by Nevada's Republican Governor Joe Lombardo, who is described as the most vulnerable incumbent in the nation. His leadership has been marred by scandals, including a cover-up related to the Boring Company tunnel project and a lack of accomplishments, with critics pointing to his prioritization of personal and political interests over constituent needs. Under his tenure, Nevada has experienced economic difficulties such as rising costs of groceries, soaring home prices, and declining tourism. Lombardo's alignment with national Republican policies, including support for Trump’s tariffs and budget decisions that increase healthcare costs, has further alienated voters. Democratic Party officials criticize Lombardo's handling of these issues and suggest that his campaign efforts are primarily attempts to distract from his failures. Given these factors, the political environment appears unfavorable for Lombardo, indicating a potential advantage for Democratic candidates in the 2026 Nevada governor race.
 
-Title: The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video
-Author: Mark Berman  and  Perry Stein
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.washingtonpost.com/politics/2025/07/28/nevada-governor-2026-lombardo-aaron-ford-democrats/7b07c468-6c06-11f0-aab6-8141d7095676_story.html
-Summary: The webpage reports on ongoing military conflicts in the Middle East, highlighting Israel's strikes on Iran and Lebanon, U.S. military involvement, and regional instability. It details recent Israeli airstrikes, U.S. and Israeli casualties, and the spread of conflict across the Middle East within 72 hours. The U.S. is considering the possibility of deploying ground troops into Iran, amid heightened tensions and regional violence. While the content focuses on international security developments, it does not directly address U.S. domestic politics or the Nevada governor race. Therefore, this webpage provides context on the current geopolitical climate, which could influence political dynamics, but does not offer specific information relevant to predicting the Democratic candidate's chances in Nevada's 2026 gubernatorial election.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report indicates that gubernatorial races, including Nevada's, are still largely influenced by fundamental factors such as institutional and candidate effects. While most races remain within stable partisan environments, the model has begun to recognize increased uncertainty and volatility in some contests. Specifically for Nevada, the report suggests that the race is not yet settled, with early indications showing potential Democratic pathways to victory emerging, though these are narrow and still developing. The overall environment remains dynamic, and the outcome will depend on how candidate dynamics and regional factors evolve as the campaign progresses.
 
-Title: Nevada gubernatorial election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Nevada_gubernatorial_election,_2026
-Summary: The Nevada gubernatorial election in 2026 is part of broader state and local elections scheduled for that year, with multiple offices and ballot measures also on the ballot. While specific candidate details and polling data are not provided, the election's outcome will depend on factors such as current political trends, voter sentiment, and campaign dynamics leading up to 2026. Historically, Nevada has been a battleground state with competitive races, and the Democratic Party's chances will hinge on their ability to mobilize voters and address key issues. Monitoring ongoing political developments, candidate announcements, and polling closer to the election will be essential for assessing whether Democrats are favored to win the governorship.
+Title: DNC Rules and Bylaws Committee Members - MassInsider
+URL: https://massinsider.net/press-releases/43490
+Summary: The webpage discusses Nevada's strategic importance in the Democratic presidential primary process, emphasizing Nevada's role as the first caucus state in 2028 and its ability to test candidates' appeal across diverse demographics. It highlights Nevada's diverse electorate, including Latino, Black, Asian American, Native American, working-class, and independent voters, whose voting patterns significantly influence election outcomes. The focus on Nevada's early position aims to strengthen Democratic chances in future general elections by selecting a candidate capable of mobilizing a broad coalition. While the content centers on presidential primaries and election strategies, it underscores Nevada's critical role in shaping Democratic success, which could indirectly influence down-ballot races like the governor's race in 2026.
 
 

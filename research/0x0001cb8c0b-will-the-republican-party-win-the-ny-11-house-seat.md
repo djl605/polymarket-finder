@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the NY-11 House seat?
 
 **Market ID:** 0x0001cb8c0b39aeb614ab9a43867595317f06ede9c011661513065c638fbbefda
-**Researched At:** March 1, 2026 at 02:34:06 PM UTC
+**Researched At:** March 10, 2026 at 04:19:25 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the NY-11 House seat?"
 
 ---
@@ -9,43 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-The market’s 42% chance reflects the core legal uncertainty over redistricting (SCOTUS appeal vs. court-ordered redraw) and incumbent strength. No clear quantitative data is omitted, so a large mispricing isn’t evident.
+The Supreme Court’s stay preserves an extremely GOP-leaning district, and no credible contrary evidence suggests a significant Democratic chance beyond what’s already priced in. The 84.5% market probability appears reasonable.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Republican Party win NY-11 in Nov 2026?” YES if the GOP candidate (most likely Malliotakis or her successor) wins the general election; NO otherwise. Key hinge: district lines in effect on election day.
+The market pays out if a Republican wins NY-11 on Nov 4, 2026. YES = GOP candidate (likely incumbent Malliotakis or another Republican) takes the seat; NO = Democrat or independent wins or caucuses with Democrats.
 
 2. EVIDENCE EVALUATION  
-Bullish for Republicans (pushing true probability >42%):  
-- GOP emergency SCOTUS appeal (Feb 12) signals they may succeed in delaying/redrawing back to the status quo lines favorable to Staten Island. If successful, their base remains intact.  
-- Incumbent advantage: Malliotakis has name recognition and fundraising; absent a strong Democratic recruit, that matters.  
+Bullish (for YES):  
+• Supreme Court stayed a lower-court order to redraw NY-11, leaving a district that Trump carried by 25pts in ’24 and Malliotakis by 28pts.  
+• Incumbent advantage: Malliotakis held the seat in a solid GOP district and has praised the ruling.  
+• Midterm trend: The president’s party (Democrats) historically loses ground, benefiting Republicans.  
+All four news articles (Silive, NY Mag, Bloomberg Gov’t, Gothamist, Press & Sun-Bulletin) from Mar 3 are recent, credible, and point to a stable, heavily Republican district.
 
-Bearish for Republicans (suggesting true probability <42%):  
-- All four sources (Feb 2–22) document sustained court orders to redraw CD-11 to correct minority‐dilution, likely adding Democratic Manhattan precincts. SCOTUS emergency relief is rare at this stage, so the new map probably holds.  
-- Silive.com notes new boundaries could tilt heavily Democratic, eroding Malliotakis’s base.  
-
-Source credibility: All are recent local/regional outlets or official statements; no partisan polling or clear odds. No explicit polling data or quantitative modeling, only legal‐map uncertainty.
+Bearish (for YES):  
+• Underlying legal challenge remains unresolved; the stay is temporary and could be overturned, though no firm timeline.  
+• Demographic shifts and turnout fluctuations can never be ruled out in a midterm.  
+However, no article provides concrete Democratic inroads or a strong challenger.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 42% price plausibly reflects:  
-- Informed traders balancing GOP’s appeal chances vs. likely map changes.  
-- The tight spread suggests at least two active participants, but $1,835 total vol implies little deeper engagement. Traders may have sized up the legal risk and incumbent advantage without hard polling.
+An 84.5% price reflects a consensus that the seat is very likely to stay Republican given its baseline lean, the stay, and incumbency. Low volume suggests few active traders but the available news is clear and uncontroversial, so the market may simply be lightly trafficked rather than misinformed.
 
 4. MISPRICING ASSESSMENT  
-No firm mispricing signal >5¢ emerges. The central uncertainty—SCOTUS outcome—could swing lines dramatically, and both sides’ scenarios appear acknowledged in a sub‐50% GOP chance. With no polling, no alternative demographic model, and the legal fight unresolved, the market’s mid-40s pricing seems a charitable consensus, not a lone overconfident bettor.
+All major visible risks (legal reversal, turnout swings) appear already priced into the ~15.5% tail for a Democratic upset. There’s no overlooked factor with sufficient credibility or magnitude to justify adjusting the price by more than a few cents.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence against large mispricing: ~30% (legal uncertainty dominates, with no missing fact).  
-Magnitude of potential mispricing: ~5¢ (even if map edges more Democratic, that seems already priced).  
-Expected value ≈ 30% × 5¢ = 1.5¢
+Strength of evidence that price is correct: ~80%  
+Max plausible mispricing magnitude: ~5 cents  
+Expected value ≈ 0.80 × 5 cents = 4 cents  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The market’s 42% chance reflects the core legal uncertainty over redistricting (SCOTUS appeal vs. court-ordered redraw) and incumbent strength. No clear quantitative data is omitted, so a large mispricing isn’t evident.  
+EXPECTED_VALUE: 4  
+SUMMARY: The Supreme Court’s stay preserves an extremely GOP-leaning district, and no credible contrary evidence suggests a significant Democratic chance beyond what’s already priced in. The 84.5% market probability appears reasonable.  
 CONFIDENCE: medium
 
 ---
@@ -54,44 +53,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: NY-11: Republicans File Emergency Appeal to SCOTUS to Stop Partisan Gerrymander - New York Republican State Committee
-Author: Arena Admin
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://nygop.org/ny-11-republicans-file-emergency-appeal-to-scotus-to-stop-partisan-gerrymander/
-Summary: The New York Republican Party has filed an emergency appeal to the U.S. Supreme Court to halt a Manhattan Supreme Court decision regarding redistricting in NY-11, which they claim is a partisan gerrymander. The appeal, led by Representative Nicole Malliotakis and the New York State Republican Elections Commissioner, argues that the decision violates both state and federal constitutions and is racially motivated. NYGOP Chair Ed Cox criticized the ruling, stating it disrupts the election process and undermines the existing congressional map, which has been stable since 1982. The outcome of this legal battle could significantly impact the Republican Party's chances in the upcoming elections for the NY-11 House seat, as it may affect voter demographics and district boundaries.
+Title: NY-11 to remain as is: U.S. Supreme Court sides with Rep. Malliotakis’ attorneys - silive.com
+Author: Paul Liotta | pliotta@siadvance.com
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.silive.com/news/2026/03/ny-11-to-remain-as-is-us-supreme-court-sides-with-rep-malliotakis-attorneys.html
+Summary: The U.S. Supreme Court has upheld the current boundaries of New York's 11th Congressional District, which includes Staten Island and parts of Brooklyn, preventing a redistricting that could have altered the district's composition. The decision blocks efforts to redraw the district in a way that might have favored different political outcomes, affirming the district's existing configuration. Given that the district remains as is, and considering Rep. Nicole Malliotakis, a Republican, currently represents the district, the ruling suggests that the district's political landscape will likely remain stable in the upcoming elections. This stability could favor the Republican Party's chances of retaining the seat in the next House election.
 
-Title: Court Ordered CD11 Redraw in New York Sparks High-Stakes Appeals
-Author: Editor
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://redistrictingonline.org/2026/02/22/court-ordered-cd11-redraw-in-new-york-sparks-high-stakes-appeals/
-Summary: The ongoing legal battle surrounding New York's 11th Congressional District (NY-11) could significantly impact the Republican Party's chances of winning the seat. A state trial court recently ruled that the district violates the New York Constitution's anti-vote dilution provision, prompting a court-ordered redraw by the Independent Redistricting Commission. This decision has led to high-stakes appeals, with Republicans contesting the ruling while the case has reached the U.S. Supreme Court's emergency docket.
+Title: Supreme Court Jumps In to Save Nicole Malliotakis’s Job
+Author: Nia Prater
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://nymag.com/intelligencer/article/supreme-court-saves-nycs-lone-republican-house-district.html
+Summary: The U.S. Supreme Court has temporarily halted efforts to redraw New York's 11th Congressional District, which could help incumbent Republican Nicole Malliotakis retain her seat in the upcoming midterm elections. A court ruling had previously found the district's boundaries unconstitutional, alleging racial dilution of Black and Latino voters, but the Supreme Court's emergency stay, supported by Justice Alito, prevents the redistricting from proceeding for now. Malliotakis praised the decision, emphasizing that it preserves voters' ability to elect a representative reflecting their values. This legal development likely reduces the chances of redistricting efforts that could have made her seat more vulnerable, potentially benefiting her prospects in the upcoming election.
 
-As the redistricting process unfolds, the political landscape may shift, potentially affecting voter demographics and party dynamics in the district. The outcome of these appeals and the subsequent redraw will be crucial in determining whether the Republican Party can maintain or regain control of the NY-11 seat. Factors such as voter turnout, party alignment, and the effectiveness of campaign strategies in the newly drawn district will also play a significant role in the upcoming elections.
+Title: Supreme Court Boosts GOP’s Chances of Keeping NYC House Seat
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://news.bgov.com/bloomberg-government-news/nycs-only-republican-in-congress-wins-supreme-court-decision
+Summary: The U.S. Supreme Court's decision to uphold the boundaries of New York's 11th Congressional District favors Republican incumbent Rep. Nicole Malliotakis. The district, which includes Staten Island and part of southwestern Brooklyn, strongly leans Republican, having supported Trump by 25 percentage points and Malliotakis by 28 points in the 2024 election. This ruling prevents a previous state court decision that deemed the district an unlawful racial gerrymander, thereby increasing the likelihood of the Republican Party retaining the seat in the upcoming election.
 
-Title: The Battle Over New York’s 11th Congressional District Lines Has Only Just Begun | THE CITY — NYC News
-Author: Lilly Sabella
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.thecity.nyc/2026/02/02/congress-redistricting-staten-island-judge-map/
-Summary: The future of the NY-11 House seat, currently held by Republican Rep. Nicole Malliotakis, is uncertain due to ongoing redistricting disputes. An independent commission tasked with redrawing the district's boundaries has paused its work amid pending appeals, which could significantly impact the electoral landscape. The district currently encompasses all of Staten Island and parts of southern Brooklyn, but proposed changes could shift parts of southern Manhattan into the district, potentially altering voter demographics.
+Title: Supreme Court halts redistricting fight over Staten Island’s NY-11 seat - Gothamist
+Author: Brigid Bergin Published Mar 2, 2026 at 8:20 p.m. ET Share Facebook Twitter Reddit Email
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://beta.gothamist.com/news/supreme-court-halts-redistricting-fight-over-staten-islands-ny-11-seat
+Summary: The U.S. Supreme Court has temporarily halted efforts to redraw Staten Island’s NY-11 congressional district lines, preserving the current map for the 2026 midterm elections. A lower court had previously ruled that the existing boundaries disenfranchise Black and Hispanic voters, prompting a redistricting order that would have potentially favored Democratic representation. However, the Supreme Court’s conservative majority granted a stay, with Justice Samuel Alito citing concerns about racial discrimination in the lower court’s order. This decision prevents any redistricting changes before the upcoming midterms, maintaining the status quo. As the district is currently represented by Republican Nicole Malliotakis, the ruling could influence the political landscape, but the outcome of the upcoming election remains uncertain, especially given the ongoing legal and partisan debates over district boundaries.
 
-The Supreme Court ruling that deemed the existing district boundaries unconstitutional was based on concerns that they dilute the voting power of Black and Brown residents. This ruling has prompted legal challenges from Malliotakis, who is actively involved in the appeal process. As candidates prepare for the upcoming primary elections, the outcome of the redistricting and the legal battles surrounding it will be crucial in determining whether the Republican Party can maintain control of the NY-11 seat. The evolving political dynamics and demographic shifts will be key factors to monitor in predicting the election results.
-
-Title: Staten Island is the only NYC district with a Republican in Congress, but is that about to change? - silive.com
-Author: Advance Local Express Desk
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.silive.com/politics/2026/02/staten-island-is-the-only-nyc-district-with-a-republican-in-congress-but-is-that-about-to-change.html
-Summary: The future of the NY-11 House seat, currently held by Republican Rep. Nicole Malliotakis, is uncertain due to a recent court ruling that allows for the redrawing of Staten Island's congressional district. This decision could significantly impact the upcoming elections, as the new map may shift the district's boundaries to include more Democratic-leaning areas in Lower Manhattan, potentially increasing the chances for a Democratic challenger.
-
-Key points to consider:
-
-1. **Court Ruling**: A state Appellate Division court has lifted a stay on a lower court's order to redraw the district, which Republicans argue is a politically motivated gerrymander. The U.S. Supreme Court may ultimately decide the fate of this redistricting.
-
-2. **Democratic Advantage**: The proposed changes could bring in voters from areas that overwhelmingly supported Democrats in the last presidential election, which may jeopardize Malliotakis's position.
-
-3. **Gerrymandering Debate**: The conflict centers around accusations of gerrymandering versus the need to enhance minority voting rights. Republicans claim the redraw is a partisan maneuver, while Democrats argue it is necessary to empower underrepresented communities.
-
-4. **Election Uncertainty**: As legal deadlines pass and the situation evolves, the uncertainty surrounding the district's boundaries and the potential for a Democratic challenge could influence the Republican Party's chances of retaining the seat.
-
-Overall, the outcome of the legal battles and the potential redistricting will be crucial in determining whether the Republican Party can
+Title: NY House seat redraw blocked by Supreme Court. How it impacts election
+Author: Chris McKenna
+Published Date: 2026-03-03T00:00:00.000Z
+URL: http://pressconnects.com/story/news/politics/2026/03/03/ny-house-seat-redraw-blocked-by-supreme-court-how-it-impacts-election/88957989007/
+Summary: The U.S. Supreme Court blocked efforts to redraw New York's 11th Congressional District, currently represented by Republican Rep. Nicole Malliotakis. The court's conservative majority halted a state court-ordered redistricting plan aimed at increasing minority voters' influence, which could have favored Democrats. This decision preserves the current district boundaries, potentially benefiting the Republican incumbent in the upcoming election. The ruling reflects ongoing national debates over gerrymandering and electoral fairness, with the court citing concerns about racial discrimination in the proposed redistricting. Given the court's decision and the current political landscape, the Republican Party's chances of retaining the NY-11 seat appear favorable, though electoral outcomes remain uncertain.
 
 

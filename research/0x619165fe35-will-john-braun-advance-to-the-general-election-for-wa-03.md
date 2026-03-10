@@ -1,50 +1,62 @@
 # Research: Will John Braun advance to the general election for WA-03?
 
 **Market ID:** 0x619165fe3568255c0a048d9350b5011c19f17bcec0474e867a1a983e6411ceff
-**Researched At:** March 1, 2026 at 06:04:16 AM UTC
+**Researched At:** March 10, 2026 at 04:18:27 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will John Braun advance to the general election for WA-03?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 1.0¢
 
 ### Summary
 
-Given Braun’s clear fundraising lead among challengers and no sign of a stronger third candidate, an ~81% chance of finishing in the top two looks reasonable; there’s no strong polling or campaign development suggesting a large mispricing.
+With no strong polling or notable challengers in WA-03’s primary, Braun’s ~80% chance of advancing seems a reasonable prior. There’s insufficient credible evidence of a >5¢ mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether John Braun, a Republican state senator, will finish among the top two vote-getters in the nonpartisan WA-03 primary on August 4, 2026. A “Yes” resolution requires Braun to outpoll all but one candidate; a “No” occurs if he finishes third or lower, or if no primary occurs.  
+This market asks: “Will John Braun finish in the top two vote-getters in Washington’s non-partisan primary for U.S. House District 3 on August 4, 2026?”  
+• YES if Braun is one of the top two in the August primary; NO otherwise (including if no primary occurs).  
+• In WA’s top-two system, any two candidates—regardless of party—advance, so Braun must outperform all but one other candidate.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports ≈81%):  
-- As of Feb. 2026, Braun leads other GOP challengers by a wide margin ($800K raised vs. $50K and $43K) and is plainly the top Republican in a district that in recent cycles has split roughly 52–48 in favor of the Democrat.  
-- No other high-profile Democrat or independent has emerged to threaten the incumbent and Braun’s spot in the top two.  
+Bullish (supports ~80%):  
+• District lean: WA-03 is a swing district but narrowly favored Democrats; the incumbent Marie Gluesenkamp Perez has to date faced limited serious primary opposition, so the biggest hurdle for Braun is outpolling any other Republican challengers. If he remains the only major Republican in the race, he virtually locks up one slot.  
+• Name recognition: As a current state senator and committee chair, Braun has an existing base in parts of the district.  
+• Lack of credible challengers: No major competitor named in the research; the FEC listing shows no crowded field so far.  
 
-Bearish (suggests price could be too high):  
-- Incumbent Marie Gluesenkamp Perez holds a massive financial lead ($3.24M vs. $800K), signaling strong name recognition and organizational advantage even in the nonpartisan primary.  
-- No polling is available; fundraising alone may not translate into vote share, especially in a jungle primary where total turnout and candidate mix can shift unpredictably.  
+Bearish (suggests price may be too high):  
+• No independent polling: The only “poll” cited is from the state GOP via Voter Science LLC, with undisclosed methods—this is low-credibility, one-sided data.  
+• Incumbent’s cross-party appeal: The blog on Rep. Perez highlights her moderate profile in a swing district. If Perez outperforms expectations, she could claim both top spots with another Democrat or independent, potentially bumping Braun to third.  
+• Uncertainty about candidate field: We don’t know if other Republicans or strong independents will enter.
 
-All sources are recent (Jan–Feb 2026) and from credible local reporting. There’s no obvious blockbuster evidence (e.g., internal polls or sudden entry of a third strong candidate) that the market has missed.  
+Source Credibility & Recency  
+• FEC data (2026-03-01): Authoritative but no candidate list.  
+• Seattle Times (2026-03-05): High credibility but not specific to WA-03.  
+• Voter Science poll (undated methods): Low transparency, potential bias.  
+• Blog posts: Contextually useful but not quantitative.
 
 3. MARKET EFFICIENCY ANALYSIS  
-An 81% price plausibly reflects consensus that Braun is the likely second-place finisher behind the incumbent, factoring in his fundraising lead among challengers and the lack of other serious contenders. The tight spread despite low volume suggests a few participants with similar information rather than broad arbitrage. Because the primary is still five months away and uncertainties remain (turnout, campaign dynamics), some expert traders may simply be waiting for clearer polling.  
+• Justification for 80.5%: If informed traders assume Braun is the de facto Republican standard-bearer in a two-slot primary, his odds of finishing top two are high absent strong intra-party or independent challengers.  
+• Low volume risk: With $0 volume to date, the price could simply reflect an initial trader’s estimate, not a consensus. But the tight 3¢ spread suggests some passive quoting.  
+• Obvious outcome vs. lack of engagement: It may be “obvious” to locals that Braun is likely second, so few bother trading; or insiders may lack detailed polls and are reluctant to move the price much.
 
 4. MISPRICING ASSESSMENT  
-There is no strong, specific evidence indicating a >20-cent mispricing. The market seems to have priced in Braun’s fundraising edge, district partisanship, and incumbent advantage reasonably. Absent polling showing he’s underperforming or a new entrant, the 81% probability is defensible.  
+• No hard polling or field data missing: The market price seems to bake in Braun facing minimal competition. If a credible challenger emerged, the price would adjust.  
+• No evidence of >20¢ mispricing: Without substantive contrary data (e.g., an independent poll showing Braun trailing two others), there’s no clear error of that magnitude.  
+• Charitable interpretation: Price reflects a reasonable prior—incumbent Perez first, Braun second in an otherwise weak primary field.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence against mispricing: 20% (low-to-moderate – we lack polling or contrary signals)  
-Magnitude of possible mispricing: 5 cents (small – minor shifts could occur)  
-Expected value = 0.20 × 5 cents = 1 cent  
+• Strength of evidence for mispricing: 20% (no strong contrarian info).  
+• Magnitude of mispricing: 5¢ (small if any).  
+• EV ≈ 20% × 5¢ = 1¢
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Given Braun’s clear fundraising lead among challengers and no sign of a stronger third candidate, an ~81% chance of finishing in the top two looks reasonable; there’s no strong polling or campaign development suggesting a large mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: With no strong polling or notable challengers in WA-03’s primary, Braun’s ~80% chance of advancing seems a reasonable prior. There’s insufficient credible evidence of a >5¢ mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -52,50 +64,36 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Two lesser-known candidates for Third Congressional District seat showing signs of life in fundraising reports | Nisqually Valley News
+Title: 2026 Election United States House - Washington - District 03 - FEC.gov
 Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.yelmonline.com/stories/two-lesser-known-candidates-for-third-congressional-district-seat-showing-signs-of-life-in,395949
-Summary: As of early February 2026, John Braun, a state senator and Republican candidate for Washington's Third Congressional District, has shown strong fundraising capabilities, raising over $800,000 by the end of 2025. This positions him as a significant challenger to incumbent Democrat Marie Gluesenkamp Perez, who leads with approximately $3.24 million in her campaign fund. Additionally, Braun's fundraising success, along with the fact that he is the most likely general election challenger, suggests he has a viable path to advance to the general election. However, he faces competition from other candidates, including Brent Hennrich, who has recently raised over $50,000, and Republican Antony Barran, who has raised just over $43,000. The overall dynamics of the race, including Braun's fundraising momentum and the incumbent's substantial lead, will be critical in determining whether he advances to the general election.
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.fec.gov/data/elections/house/WA/03/2026/
+Summary: The webpage provides details about the 2026 U.S. House election for Washington's 3rd District (WA-03), including candidate financial data, filing deadlines, and election reporting requirements. However, it does not specify current candidates or their campaign statuses, including John Braun. To determine if John Braun will advance to the general election, additional information such as his current candidacy status, primary election results, and campaign activity would be needed.
 
-Title: The initiatives: Restoring parents' rights and protecting girls' sports - John Braun
-Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://johnbraun.src.wastateleg.org/democrats-refuse-hold-hearings-initiatives/
-Summary: The webpage discusses initiatives led by John Braun, focusing on restoring parents' rights and protecting girls' sports. While it does not directly address Braun's electoral prospects for WA-03, understanding his legislative priorities and public stance on these issues could provide insights into his appeal to voters. Braun's emphasis on parental rights and sports equity may resonate with specific voter demographics, potentially influencing his chances in the upcoming election. For a more comprehensive prediction, consider factors such as his previous election performance, current polling data, and the political landscape in Washington State.
+Title: Tuesday results put incumbents on notice in 2026 primaries | The Seattle Times
+Author: Marianna Sotomayor
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.seattletimes.com/nation-world/nation-politics/tuesday-results-put-incumbents-on-notice-in-2026-primaries/
+Summary: The article discusses recent primary election results highlighting challenges faced by incumbents across both parties, with a focus on Texas and North Carolina races. Notably, some incumbents, including Rep. Dan Crenshaw (R-Texas), lost their primaries, indicating vulnerabilities for established lawmakers. The results also reflect broader political trends: Democratic voters favoring new, younger candidates, and Republican voters seeking candidates aligned with Trump. Redistricting has added complexity, with some incumbents, such as in Texas, competing in runoff races due to new district boundaries. While the article does not mention Washington State or WA-03 specifically, the overall trend suggests incumbents may face increased challenges in upcoming elections, especially if they are perceived as vulnerable or if redistricting impacts their districts.
 
-Title: [PDF] General Election November3 - Washington Secretary of State
-URL: https://www.sos.wa.gov/sites/default/files/2022-05/--ed28thurston.pdf
-Summary: The document is the 2020 General Election Voters’ Pamphlet for Washington State, providing essential information for voters regarding the election process, including registration deadlines, ballot submission guidelines, and details about candidates and measures on the ballot. 
+Title: The Many Rantings of John: Marie Gluesenkamp Perez: Primary at Your Own Risk
+Author: Posted by
+ 
+ 
+ 
+ John T
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://theworldofjot29.blogspot.com/2025/05/marie-gluesenkamp-perez-primary-at-your.html
+Summary: The webpage discusses the challenges faced by Democratic incumbents in swing districts, highlighting that successful election strategies often require moderate candidates who appeal to a diverse electorate. Specifically, it mentions Rep. Marie Gluesenkamp Perez of Washington's 3rd district, who is facing primary challenges due to her vote on the SAVE Act and the broader political dynamics in swing districts. The article emphasizes that winning in such districts typically involves running moderate candidates rather than ideological extremes, and notes the importance of incumbents' ability to maintain cross-party support. While the article does not directly address John Braun or WA-03, the context suggests that electoral success in this district may depend on candidate moderation and the district's political leanings, especially given the district's history and the current national political climate.
 
-To assess whether John Braun will advance to the general election for WA-03, consider the following relevant points from the pamphlet:
+Title: More pseudodata: The Washington State Republican Party says it polled WA-03 with Voter Science LLC, but won't show its work
+Author: Andrew Villeneuve
+URL: https://www.nwprogressive.org/weblog/2025/08/more-pseudodata-the-washington-state-republican-party-says-it-polled-wa-03-with-voter-science-llc-but-wont-show-its-work.html
+Summary: The Washington State Republican Party claims to have conducted polling indicating that Republican challenger John Braun, among others, could potentially unseat Democratic Rep. Marie Gluesenkamp Perez in WA-03. The poll was conducted by Voter Science LLC, a firm specializing in data, AI, and voter outreach strategies, though the company does not publicly disclose its polling methodology. Voter Science has a history of working with Republican campaigns and has been paid for surveys and research related to WA-03 and other districts. While the party promotes Braun's prospects based on this polling, the lack of transparency about the poll's details makes it difficult to assess its reliability. Therefore, whether Braun will advance to the general election remains uncertain and depends on the actual electoral dynamics and the credibility of the polling data.
 
-1. **Candidate Information**: The pamphlet includes a section dedicated to candidates running for various offices, including U.S. Representative for WA-03. Review the profiles and positions of John Braun and his opponents to gauge their popularity and support.
-
-2. **Voting Process**: Voter registration deadlines are critical. Ensure that Braun's supporters are registered by October 26 to vote in the primary election, as this will directly impact his chances of advancing.
-
-3. **Election Dates**: The primary election occurs before the general election on November 3. John Braun must secure enough votes in the primary to advance.
-
-4. **Political Party Support**: The pamphlet lists contact information for the Washington State Democrats and Republicans, which may provide insights into party backing for Braun and his campaign strategies.
-
-5. **Voter Engagement**: The pamphlet emphasizes the importance of voter turnout and engagement, which can influence Braun's chances. Analyzing voter sentiment and turnout in WA-03 could provide predictive insights.
-
-In summary, to predict John Braun's advancement to the general election, consider his campaign's visibility, voter registration efforts,
-
-Title: Citizens' issue priorities respond to national conditions, less so to ...
-Author: Henrik Bech Seeberg*   Affiliation:   Department of Political Science, Aarhus University , Denmark
-Published Date: 2026-01-02T00:00:00.000Z
-URL: https://www.cambridge.org/core/journals/european-journal-of-political-research/article/citizens-issue-priorities-respond-to-national-conditions-less-so-to-parties-issue-emphases/DA135F71372AF7C4D0F4A48D809035F0
-Summary: The article "Citizens’ issue priorities respond to national conditions, less so to parties’ issue emphases" explores how public priorities are influenced more by national circumstances than by the issues emphasized by political parties. This research could be relevant in predicting electoral outcomes, including whether John Braun will advance to the general election for WA-03, as it suggests that voter priorities may shift based on current national issues rather than party platforms.
-
-To assess Braun's chances, consider the current national conditions and how they resonate with voters in WA-03. If Braun aligns with pressing national issues that are significant to his constituents, he may have a better chance of advancing. Additionally, understanding the political landscape and how other candidates are addressing these issues could provide further insights into his electoral prospects. 
-
-For a more detailed analysis, examining local polling data, voter sentiment regarding national issues, and Braun's campaign strategies would be beneficial.
-
-Title: [PDF] General Election November 8 - sos.wa.gov
-URL: https://www.sos.wa.gov/sites/default/files/2023-05/ed18_proof.pdf
-Summary: The webpage provides essential information regarding the 2022 General Election in Washington State, including voter registration deadlines, voting procedures, and details about candidates and measures on the ballot. While it does not specifically address John Braun's candidacy for WA-03 or predict his advancement to the general election, it outlines the voting process and emphasizes the importance of voter participation. 
-
-To assess John Braun's chances of advancing, consider factors such as his campaign performance, voter sentiment, and polling data leading up to the election. Additionally, reviewing the candidates listed in the pamphlet and their platforms may provide insights into Braun's competitiveness in the election. For the most accurate predictions, monitor local news and election analysis as the election date approaches.
+Title: John Braun Archives - Page 3 of 9
+Author: ericcampbell
+URL: https://johnbraun.src.wastateleg.org/tag/john-braun/page/3/
+Summary: The webpage provides information about John Braun, a Republican senator representing the 20th Legislative District in Washington, serving parts of Thurston, Cowlitz, Lewis, and Clark counties. Braun is involved in key Senate committees such as Ways and Means and Rules. The content highlights Braun's stance on government transparency, particularly criticizing Governor Inslee's extension of the COVID-19 state of emergency and advocating for clearer communication and local government autonomy. While the page details Braun's legislative focus and political positions, it does not specify his electoral prospects or whether he is running for or will advance to the general election for WA-03.
 
 

@@ -1,7 +1,7 @@
 # Research: Will St. Pauli be relegated from the Bundesliga after the 2025–26 season?
 
 **Market ID:** 0xd1fccf29139e6be18e434fef88096472e89d134657b1e8e54423cf41b4d60856
-**Researched At:** March 1, 2026 at 05:58:54 AM UTC
+**Researched At:** March 10, 2026 at 04:16:55 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will St. Pauli be relegated from the Bundesliga after the 2025–26 season?"
 
 ---
@@ -9,42 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Recent wins have improved St. Pauli’s morale, but their low point total, poor consistency, injuries, and tough schedule still point to relegation odds near 50%. With no clear 20¢+ mispricing and a balanced set of bullish/bearish factors, the market’s 45.5% appears reasonable, yielding minimal EV for further investigation.
+Recent AI simulations imply roughly a 40% relegation risk, slightly above the market’s 34.5%, but those models overcount “playoff entry” and St. Pauli currently sits outside the bottom three. The mixed signal—data-driven bears vs. current table bulls—suggests the market price is reasonable and any mispricing is small.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether FC St. Pauli will finish the 2025–26 Bundesliga season in one of the bottom two spots (automatic relegation) or fail to complete the season by 1 Oct 2026. A “Yes” requires St. Pauli ending 17th or 18th (or a season cancellation), “No” means they finish 1–16 or the season completes normally.
+The market asks whether FC St. Pauli will be officially relegated from the Bundesliga after the 2025–26 season—which requires finishing in one of the two automatic relegation spots or finishing third-from-bottom and then losing the relegation playoff. A “Yes” means St. Pauli is demoted; “No” means they survive (or the season isn’t completed).  
 
 2. EVIDENCE EVALUATION  
-Bearish signs (higher relegation risk):  
-• As of late Feb, St. Pauli sat 17th with 17 points from ~22 matches—well below the ~33 points usually needed to stay up.  
-• They endured a nine-match losing streak, scored poorly, have a low €23.5 M wage budget, and face tough upcoming fixtures (e.g. Bayer Leverkusen).  
-• Injury-crisis reports suggest key players unavailable, limiting their ability to sustain a turnaround.
+Bearish (higher relegation chance) evidence  
+• Opta AI simulation (Feb 24) gives 29.1% chance of direct relegation plus 21.8% chance of entering the playoff; if we assume roughly a 50% playoff loss rate, that implies ~40% overall relegation risk.  
+• NDR KI projections (Feb 12) and data-driven analyses list St. Pauli at 17th with mediocre attack and defensive leaks, flagging them as one of the likeliest drop candidates.  
+• Historical trend analyses note that teams in St. Pauli’s current zone have a high turnover in the season’s final third.  
 
-Bullish signs (survival hope):  
-• Two crucial wins in Feb—2-1 over Stuttgart and 2-1 over Werder Bremen—demonstrate resilience and a morale boost.  
-• Coach cites strong “siege mentality,” and the squad has shown it can punch above its weight in big matches.  
+Bullish (lower relegation chance) evidence  
+• As of Matchday 23 (Mar 1), St. Pauli sits outside the bottom three, above Heidenheim, Bremen, and Wolfsburg, who look more vulnerable right now.  
+• Statistical articles point to volatility in late-season tables: St. Pauli could still string together enough form to climb to safety, a nuance risk models may overstate.  
 
-Source credibility and recency: all reports are from credible outlets (Bundesliga.com, The Guardian, theScore.com) and within the past 3–4 weeks. The mixed form narrative (long losing streak vs. two recent wins) is well known, so a ~45–55% probability band seems appropriate.
+Source credibility & recency  
+• All sources are from Feb 12–Mar 1 2026 and drawn from reputable data-driven platforms (Opta, Bundesliga.com, NDR). None are obviously stale.  
+• The one simulation that most exceeds market odds overstates playoff risk by quoting “playoff entry” rather than outright relegation.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-At $0.455 with $8 k total volume and 1¢ spread, the market reflects a near-even split among the few active traders. The tight spread suggests some confidence in the price, but low volume indicates limited liquidity—possibly a handful of participants, though none appear to be arbitraging a glaring mispricing. Given clear but conflicting public signals, the current price plausibly aggregates all known info.
+• A 34.5% price could reflect traders translating the Opta simulation’s 29.1% direct drop and a ~50% chance of failing the playoff into ~40%, then discounting for St. Pauli’s current league position above the danger zone.  
+• Low volume means this pricing could hinge on a few participants—however the narrow bid-ask spread suggests there’s not much disagreement about the range.  
+• The outcome isn’t obvious (too much season left), so the low volume more likely reflects peripheral interest than settled consensus.  
 
 4. MISPRICING ASSESSMENT  
-No glaring omission appears. Both the deep deficit in points and the brief resurgence are public knowledge; traders likely priced each in. The remaining fixtures and historical survival thresholds argue for slightly >50% relegation probability, but the momentum of recent wins argues the opposite—canceling out large mispricing potential. No evidence supports a >20 ¢ gap from fair value.
+• The market price is slightly below the ~40% implied by the AI chain (direct + playoff) but above a pure “outside relegation zone” reading.  
+• No single piece of analysis shows a decisive, widely overlooked factor that would swing probabilities by >20 c.  
+• Given season volatility and model uncertainty (especially playoff odds), 34.5% sits comfortably between bearish (~40–50%) and bullish (~25–30%) estimates.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30% (info is solid but yields no clear edge)  
-Magnitude of mispricing: 5 cents (a small tilt possible)  
-Expected value = 30% × 5 c = 1.5 c
+Strength of evidence that price is wrong: ~30%  
+Potential mispricing magnitude: ~10 c (market vs. AI-implied ~40%)  
+Expected value = 0.30 × 10 c = 3 c  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Recent wins have improved St. Pauli’s morale, but their low point total, poor consistency, injuries, and tough schedule still point to relegation odds near 50%. With no clear 20¢+ mispricing and a balanced set of bullish/bearish factors, the market’s 45.5% appears reasonable, yielding minimal EV for further investigation.  
+EXPECTED_VALUE: 3.0  
+SUMMARY: Recent AI simulations imply roughly a 40% relegation risk, slightly above the market’s 34.5%, but those models overcount “playoff entry” and St. Pauli currently sits outside the bottom three. The mixed signal—data-driven bears vs. current table bulls—suggests the market price is reasonable and any mispricing is small.  
 CONFIDENCE: medium
 
 ---
@@ -53,62 +59,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Bundesliga relegation odds: Who's headed down? | theScore.com
-Author: Alex Moretto
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://thescore.com/fra_fed/news/1973393
-Summary: The webpage discusses the current relegation odds in the Bundesliga, focusing on teams at the bottom of the table as the season progresses. While it does not specifically mention St. Pauli, it provides insights into the relegation battle, which could be relevant for predicting their future performance.
-
-Key points include:
-
-1. **Relegation Structure**: The bottom two teams are automatically relegated, while the 16th-placed team enters a playoff for survival. This structure is crucial for understanding the stakes for any team, including St. Pauli.
-
-2. **Current Bottom Teams**: The article lists teams currently in danger of relegation, such as Paderborn, Werder Bremen, and Fortuna Dusseldorf, along with their odds of going down. This context can help gauge the competitiveness of teams around St. Pauli.
-
-3. **Performance Analysis**: The article highlights the importance of upcoming matches and the ability of teams to secure points against rivals. St. Pauli's performance in critical matches will be essential for their survival.
-
-4. **Odds and Predictions**: The odds provided for various teams indicate which clubs are favored to be relegated. Monitoring these odds over time can give insights into St. Pauli's chances as they compete in the league.
-
-While the article does not directly address St. Pauli, understanding the dynamics of relegation and the performance of teams currently in danger can help in predicting their fate in the 2025–26 season.
-
-Title: St Pauli plotting their next miracle in tantalising Bundesliga survival battle
-Author: Andy Brassell
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.theguardian.com/football/2026/feb/09/st-pauli-stuttgart-plotting-miracle-bundesliga-survival-battle
-Summary: St. Pauli's recent performance in the Bundesliga has been a rollercoaster, marked by a significant victory against Stuttgart that reignited their hopes for survival. After a dismal stretch of nine consecutive defeats, their unexpected win against a strong Stuttgart side, who were in Champions League contention, has brought them back into the relegation battle. This victory was crucial, as it not only boosted their morale but also positioned them just two points behind struggling teams like Werder Bremen and Wolfsburg.
-
-Despite their low wage budget of approximately €23.5 million— the lowest in the league—St. Pauli has shown resilience and unity, which coach Alexander Blessin attributes to their "siege mentality." The team's ability to defy expectations and capitalize on their opponents' weaknesses will be key in the remaining matches of the season. With the relegation battle heating up, St. Pauli's fate will depend on their continued performance and the struggles of their rivals. If they can maintain their recent form and leverage their unity, they may avoid relegation, but the competition remains fierce.
-
-Title: St. Pauli sink Werder Bremen in relegation six-pointer | Bundesliga
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.bundesliga.com/en/bundesliga/news/st-pauli-werder-bremen-match-report-highlights-matchday-23-36146
-Summary: St. Pauli's recent performance in the Bundesliga is critical for assessing their chances of relegation after the 2025–26 season. In a vital match against Werder Bremen, St. Pauli secured a 2-1 victory, with goals from Hauke Wahl and Joel Chima Fujita. This win was crucial as both teams were struggling near the bottom of the table, with St. Pauli having won only one of their last eight matches prior to this game, while Bremen was winless in 12 league games.
-
-The match highlighted St. Pauli's ability to capitalize on opportunities, despite Bremen's dominance in possession during the first half. The victory could provide a much-needed boost in confidence for St. Pauli as they fight to avoid relegation. However, their overall form leading up to this match raises concerns about their consistency and ability to secure points in upcoming fixtures.
-
-To predict whether St. Pauli will be relegated, one should consider their current form, remaining fixtures, and the performance of other teams in the relegation zone. The outcome of future matches will be crucial in determining their fate in the league.
-
-Title: St. Pauli vs. Werder Bremen preview: Team news and predicted lineups – Bundesliga 2026
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://bulinews.com/pauli-werder-bremen-preview-true-relegation-six-pointer
-Summary: The upcoming match between St. Pauli and Werder Bremen is crucial for both teams as they fight to avoid relegation from the Bundesliga. St. Pauli, currently in the relegation zone, has had a tumultuous season, initially showing promise but suffering a nine-match losing streak that has left them near the bottom of the table. Despite a recent victory against VfB Stuttgart, they were heavily defeated 4-0 by Bayer Leverkusen, raising concerns about their defensive capabilities.
-
-St. Pauli's chances of survival hinge on their ability to solidify their defense and capitalize on counter-attacks, as they have shown potential in previous matches. However, they are facing an injury crisis, with several key players unavailable, which could impact their performance.
-
-On the other hand, Werder Bremen is also struggling, having extended their winless streak with a recent loss to Bayern Munich. They need to secure points in this match to improve their standing and avoid relegation.
-
-Given the current form and circumstances of both teams, the outcome of this match could significantly influence St. Pauli's chances of remaining in the Bundesliga after the 2025–26 season. A win could provide a much-needed boost, while a loss could deepen their relegation woes.
+Title: KI hat berechnet: So wahrscheinlich ist ein St. Pauli-Abstieg
+Author: Kurt Krink
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://stpauli24.mopo.de/2026/02/24/ki-hat-berechnet-so-wahrscheinlich-ist-ein-st-pauli-abstieg.html
+Summary: The article discusses a simulation by an AI-powered supercomputer from the analysis platform "Opta," which predicts the likelihood of FC St. Pauli's relegation at the end of the current season. According to the simulation, there is just over a 50% chance that St. Pauli will finish in one of the bottom three positions, with a 29.1% probability of direct relegation and a 21.8% chance of entering relegation via playoff. The AI considers the direct relegation of 1. FC Heidenheim almost certain (93.8%), with Wolfsburg and Werder Bremen also at risk, though with lower probabilities. This data suggests a significant risk of relegation for St. Pauli in the current season, which could impact their status in the Bundesliga after the 2025–26 season if these predictions hold true.
 
 Title: Bundesliga relegation battle 2025/26: Who is in trouble at the wrong end of the table? | Bundesliga
 Author: 
-Published Date: 2026-02-08T00:00:00.000Z
+Published Date: 2026-03-01T00:00:00.000Z
 URL: https://www.bundesliga.com/en/bundesliga/news/bundesliga-relegation-battle-25-26-pauli-hamburg-bremen-35922
-Summary: St. Pauli is currently in a precarious position in the Bundesliga relegation battle for the 2025/26 season, sitting in 17th place with 17 points. Their season began positively, earning seven points from their first three matches, including a notable win in the Hamburg derby. However, they have struggled significantly since then, losing nine consecutive matches and failing to score consistently, which was a problem last season as well.
+Summary: St. Pauli is currently not in the relegation zone and is positioned higher than teams like Heidenheim, Werder Bremen, and Wolfsburg, which are in serious danger of relegation. As of Matchday 23, Werder Bremen remains in deep trouble after a loss in a crucial relegation match, and Heidenheim sits at the bottom of the table with only 14 points. Wolfsburg is also in the relegation zone with 20 points. St. Pauli's recent performance and league position suggest they are less likely to face relegation in the 2025–26 season compared to the teams at the bottom of the table.
 
-Recently, St. Pauli achieved a crucial 2-1 victory against Stuttgart, which has brought them closer to the teams above them, specifically Werder Bremen and Wolfsburg, who are just two points ahead. This win could serve as a turning point for the team, but their overall performance has been inconsistent, particularly in scoring goals.
+Title: Datenanalyse: So endet die Saison für St. Pauli, HSV, Werder und Wolfsburg | ndr.de
+Author: Florian Neuhauss
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://annewill.blog.ndr.de/sport/fussball/datenanalyse-nordclubs-in-not-st-pauli-steigt-ab-hsv-rettet-sich,datenanalyse-abstiegskampf-100.html
+Summary: The analysis indicates that St. Pauli is currently positioned at the 17th place in the Bundesliga, just five points behind their city rivals. Data suggests that the team struggles offensively, averaging only about one goal per game, and has defensive vulnerabilities, conceding a high number of goals. While their defensive stability is noted as a positive factor, their limited goal-scoring and overall performance place them at risk of relegation. The prognosis based on current data and trends points to a challenging remaining season, with a significant possibility of relegation if these issues persist.
 
-To assess the likelihood of St. Pauli's relegation, consider their current form, upcoming fixtures (including a challenging match against Bayer Leverkusen), and their ability to maintain momentum after the recent win. Their position in the table and the performance of teams around them will also be critical as the season progresses.
+Title: FC St. Pauli im Abstiegskampf, Statistik macht Hoffnung
+Author: 
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://www.shz.de/sport/fc-st-pauli/artikel/fc-st-pauli-im-abstiegskampf-statistik-macht-hoffnung-49907230
+Summary: The article discusses FC St. Pauli's challenging position in the Bundesliga during the 2025–26 season, with 17 points after 22 matches, placing them near the relegation zone (second to last). The team is currently two points away from the relegation playoff spot and three points from safety. Historical statistics from previous seasons suggest that, despite their current predicament, there is still a possibility for the team to avoid relegation, as the league standings can change significantly in the remaining matches. Overall, while the situation is serious, the data indicates that the outcome remains uncertain, and St. Pauli's relegation is not yet assured.
+
+Title: KI-Berechnung zur Bundesliga: Die Tabelle am Ende der Saison 2025/2026 | ndr.de
+Author: ndr.de
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://m.ndr.de/sport/fussball/ki-prognose-so-geht-es-fuer-hsv-st-pauli-oder-wolfsburg-in-der-bundesliga-aus,bundesliga-tabelle-122.html
+Summary: Based on a data-driven KI analysis of the Bundesliga season 2025/2026, FC St. Pauli currently ranks 17th with 29 points after 21 matches, indicating a high risk of relegation. The predictive model suggests that St. Pauli's position and points total make it likely they will be relegated at the end of the season. Conversely, other Nordclubs like HSV and Werder Bremen are also in danger, but St. Pauli appears most vulnerable according to the current projections.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?
 
 **Market ID:** 0xbd5f01bc9f7d8214b9200773c72573987f0964f7bc4347fa6f1106ce9d1722c5
-**Researched At:** March 2, 2026 at 04:22:57 AM UTC
+**Researched At:** March 10, 2026 at 04:18:31 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?"
 
 ---
@@ -9,49 +9,55 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.3¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-There is no clear evidence of a large mispricing; the 63.5% probability reasonably reflects Perkins’s prior nomination plus the uncertainty of her formal entry and potential intra‐party challengers. Any edge appears small (~5¢) given the sparse current data.
+No concrete polling, fundraising, or endorsement data have emerged to indicate a >10¢ mispricing; both Perkins’s name recognition and challenger announcements make a mid-60s probability plausible. With low volume but no glaring missing information, the 62% price appears broadly reasonable.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-– Question: Will Jo Rae Perkins be the Republican nominee in Oregon’s 2026 U.S. Senate primary?  
-– YES if she (a) formally files, (b) wins her party’s nomination vote; NO if she loses or someone else is nominated, or if no primary occurs (in which case it resolves “Other”).  
+The market asks: “Will Jo Rae Perkins be the Republican nominee for U.S. Senate in Oregon (2026)?”  
+– YES if, following the May 19, 2026 Oregon GOP primary, Perkins finishes first among all Republican candidates.  
+– NO if any other candidate wins the primary, if the primary does not occur, or if “Other” is the outcome.  
 
 2. EVIDENCE EVALUATION  
-Bullish (supports ~63%):  
-• Perkins was the 2020 GOP nominee, giving her name recognition and an organizational base.  
-• No prominent challengers have publicly declared for the 2026 Senate primary as of late February 2026.  
-• Republican Party might prefer a seasoned nominee rather than risk an open contest late in the cycle.  
+Bullish for Perkins (supports ~62%):  
+• Name recognition and campaign infrastructure from her 2020 run as GOP nominee.  
+• No polling or fundraising data on challengers publicly available yet; absence of data may favor the incumbent name.  
+• QAnon‐linked candidates (e.g., Marjorie Taylor Greene) have prevailed in GOP primaries elsewhere.  
 
-Bearish (suggests price may be too high):  
-• As of late Feb. 2026, Perkins is only a “potential” candidate, with no formal announcement cited—she could opt out.  
-• Her QAnon association is a liability; party insiders may recruit or rally around a less controversial alternative.  
-• Several sources (Ballotpedia, Newsweek, Substack) list multiple potential or emerging GOP figures in Oregon (e.g., rising state legislators or local officeholders) who might enter the race.  
+Bearish for Perkins (suggests price may be too high):  
+• State Sen. David Brock Smith has announced a bona fide campaign—he brings local political experience and may consolidate establishment support.  
+• Filing deadline for non-incumbents just passed; other credible state or federal legislators may join, diluting Perkins’s share.  
+• Perkins’s QAnon associations could alienate moderate GOP voters in a state where the party is relatively moderate.  
 
 Source credibility and recency:  
-• All findings are from reputable outlets or aggregators within the past few weeks (Feb. 2026) except the 2020 Newsweek story, which is background only.  
+• OregonLive (Mar 4) on Brock Smith is local, credible, very recent.  
+• Newsweek piece on Perkins appears to misstate that she “already won” the 2026 primary—likely conflating 2020 facts. Date unclear, so treat with caution.  
+• Ballotpedia confirms key dates but lacks candidate detail.  
+• The Nina.az page is irrelevant.  
+
+No strong, new polling or financial disclosure data is missing from public records; traders likely know that Perkins is running again and that Brock Smith has joined.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 63.5% price is plausibly a synthesis of Perkins’s prior nomination experience offset by uncertainty around her formal entry and intra-party opposition.  
-• Low volume suggests sparse engagement—either because informed traders don’t see a clear arbitrage or because the primary field is still forming.  
-• With no new polling or fundraising data publicly available, traders may be anchoring on Perkins’s baseline 2020 performance.  
+• A 62% price could reflect a genuine early consensus: Perkins’s name ID plus weak field of challengers to date.  
+• Low volume suggests few participants; this could be because insiders view the race as too early/uncertain or simply haven’t traded.  
+• The tight spread (2¢) indicates interest from a small number of traders rather than broad liquidity.  
 
 4. MISPRICING ASSESSMENT  
-• There’s no strong, specific evidence of a large mispricing. Both sides of the argument (her advantage from incumbency of candidacy vs. potential avoidance by party elites) seem already priced in at roughly even odds.  
-• The market’s mid‐60s probability is a defensible early‐cycle estimate given that declarations and endorsements have yet to materialize.  
-• Any mispricing is likely small (<10 cents) and largely speculative at this stage.  
+• There is no specific, credible evidence—e.g., new polls, major endorsements, fundraising numbers—pointing to a large (>20¢) mispricing.  
+• Challenger campaigns are nascent, and historical precedent (Perkins won in 2020) argues she could well be favored, but no definitive sign she’s a lock.  
+• The market’s 62% probability sits plausibly between a flip of a coin (50%) and near certainty; absent new data, it may be a reasonable early valuation.  
 
 5. EXPECTED VALUE CALCULATION  
-– Strength of evidence: 25% (early stage, very limited candidate info)  
-– Magnitude of mispricing: 5 cents (small potential correction as the field develops)  
-– Expected value = 25% × 5¢ = 1.25¢  
+• Strength of evidence: 20% (no hard polling/fundraising data, only qualitative factors)  
+• Magnitude of mispricing: 10¢ (max plausible error without new numbers)  
+• Expected value = 0.20 × 10¢ = 2¢  
 
-EXPECTED_VALUE: 1.3  
-SUMMARY: There is no clear evidence of a large mispricing; the 63.5% probability reasonably reflects Perkins’s prior nomination plus the uncertainty of her formal entry and potential intra‐party challengers. Any edge appears small (~5¢) given the sparse current data.  
+EXPECTED_VALUE: 2  
+SUMMARY: No concrete polling, fundraising, or endorsement data have emerged to indicate a >10¢ mispricing; both Perkins’s name recognition and challenger announcements make a mid-60s probability plausible. With low volume but no glaring missing information, the 62% price appears broadly reasonable.  
 CONFIDENCE: low
 
 ---
@@ -60,48 +66,29 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Oregon Senate Candidate Who 'Stands With' QAnon Distances ...
-Author: 
-Published Date: 2020-05-21T00:00:00.000Z
-URL: https://www.newsweek.com/oregon-senate-candidate-who-stands-qanon-distances-herself-conspiracy-theory-1505863
-Summary: Jo Rae Perkins has recently secured the Republican nomination for the U.S. Senate in Oregon. However, her candidacy has been controversial due to her public support for the QAnon conspiracy theory, which she expressed in a now-deleted video shortly after winning the nomination. In the video, Perkins stated, "I stand with Q and the team," and used the QAnon slogan "where we go one, we go all." Following backlash, she claimed her words were taken out of context and distanced herself from being labeled a "follower" of QAnon, asserting that she values free speech.
+Title: Oregon Republican lawmaker announces run for U.S. Senate  - oregonlive.com
+Author: Shaanth Nanguneri  |  Oregon Capital Chronicle
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.oregonlive.com/politics/2026/03/oregon-republican-lawmaker-announces-run-for-us-senate.html
+Summary: Oregon state Senator David Brock Smith, a Republican from Port Orford, has announced his candidacy for the U.S. Senate, seeking the GOP nomination. Smith emphasizes his deep roots in southwest Oregon, his background as a former restaurant owner, and his experience in local government and community leadership. While the announcement does not specify policy positions, his extensive local involvement suggests a focus on regional and community issues. There is no mention of Jo Rae Perkins or her potential candidacy in this article, so her prospects as the Republican nominee remain unaddressed here.
 
-Perkins will compete against incumbent Democratic Senator Jeff Merkley in the upcoming election. Given her recent nomination and the controversy surrounding her statements, her position as the Republican nominee may be influenced by public perception and media coverage leading up to the election.
+Title: Oregon Senate Candidate Who 'Stands With' QAnon Distances Herself From Conspiracy Theory
+Author: 
+URL: https://www.newsweek.com/oregon-senate-candidate-who-stands-qanon-distances-herself-conspiracy-theory-1505863
+Summary: Jo Rae Perkins is currently the Republican nominee for the U.S. Senate in Oregon, having secured her nomination after winning the GOP primary. She publicly expressed support for QAnon conspiracy theories in a now-deleted social media video, which she later claimed was taken out of context and does not reflect her beliefs. Despite her past endorsement of QAnon slogans, Perkins has distanced herself from fully endorsing the conspiracy theory, stating she appreciates free speech and does not believe "everything" about QAnon. She is set to face Democratic Senator Jeff Merkley in the upcoming November election.
+
+Title: United States Senate election in Oregon, 2026
+URL: https://ballotpedia.org/United_States_Senate_election_in_Oregon,_2026
+Summary: The 2026 Oregon U.S. Senate election will determine who fills the Class II Senate seat currently held by Democrat Jeff Merkley. The primary is scheduled for May 19, 2026, with incumbents filing by March 3, 2026, and non-incumbents by March 10, 2026. While specific candidates for the Republican nomination, including Jo Rae Perkins, are not listed, her potential candidacy could be influenced by the primary dynamics, candidate filings, and party strategies leading up to the election. Monitoring candidate filings and party endorsements closer to the filing deadlines will provide clearer insights into her prospects as the Republican nominee.
 
 Title: 2026 United States Senate election in Oregon
 Author: www.azur.en-us.nina.az
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.dl1.en-us.nina.az/2026_United_States_Senate_election_in_Oregon.html
-Summary: The webpage discusses the upcoming 2026 United States Senate election in Oregon, which will be significant for both major parties. Jo Rae Perkins, a Republican who previously ran for the Senate in 2020, is a potential candidate for the Republican nomination. Factors influencing her nomination could include her previous campaign experience, party support, and the political landscape in Oregon leading up to the election. Additionally, the dynamics within the Republican Party, including endorsements and primary competition, will play a crucial role in determining whether she secures the nomination. For a more accurate prediction, monitoring her campaign activities and public reception as the election date approaches will be essential.
+Summary: The webpage does not provide specific information about Jo Rae Perkins or her potential candidacy for the Republican nomination for the U.S. Senate in Oregon in 2026. It primarily contains general references to various topics and figures, but no details on current or upcoming Senate race candidates. Therefore, there is no relevant information available on this webpage to predict whether Jo Rae Perkins will be the Republican nominee for Oregon's Senate seat in 2026.
 
-Title: The GOP Senate Seats Most at Risk in 2026 Midterms—Ranked - Newsweek
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: http://www.newsweek.com/gop-senate-seats-at-risk-2026-midterms-11483878
-Summary: The article from Newsweek discusses the GOP Senate seats most at risk in the upcoming 2026 midterms, providing a ranked analysis of vulnerable Republican incumbents. While it does not specifically mention Jo Rae Perkins, it highlights the competitive landscape in Oregon, where the Republican Party is seeking to regain ground. Factors influencing the nomination process include the political climate, voter sentiment, and potential challengers within the party. For Perkins to secure the nomination, she would need to navigate these dynamics effectively, especially in a state that has leaned Democratic in recent elections. The article serves as a backdrop for understanding the challenges and opportunities facing Republican candidates like Perkins in Oregon.
-
-Title: Republicans offer Oregon voters attractive alternatives to continued Democratic failure
-Author: Mark Hester
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://oregonroundup.substack.com/p/republicans-offer-oregon-voters-attractive
-Summary: The article discusses the competitive landscape of the Republican primary for the Oregon governor's race, highlighting multiple qualified candidates such as Christine Drazan, Chris Dudley, and Ed Diehl. While the focus is primarily on the gubernatorial race, it underscores the broader context of Republican dynamics in Oregon, which could influence Senate nominations as well. 
-
-Jo Rae Perkins is not mentioned in the article, suggesting that her candidacy may not be a central focus among the leading Republican contenders at this time. The article emphasizes the lack of serious competition for the Democratic nominee, Tina Kotek, which could impact Republican strategies and candidate visibility in the upcoming elections. 
-
-For predicting whether Jo Rae Perkins will be the Republican nominee for Senate, consider the following factors:
-1. **Candidate Visibility**: Perkins' recognition and campaign efforts compared to other Republican candidates.
-2. **Party Dynamics**: The strength and unity of the Republican Party in Oregon, especially in light of the competitive gubernatorial primary.
-3. **Voter Sentiment**: Public opinion regarding Perkins and her alignment with Republican values in Oregon.
-4. **Fundraising and Support**: Perkins' ability to raise funds and garner endorsements compared to other potential candidates.
-
-Overall, while the article does not directly address Perkins, the competitive environment among Republican candidates could influence her chances in the Senate race.
-
-Title: United States Senate election in Oregon, 2026 - Ballotpedia
-URL: https://ballotpedia.org/United_States_Senate_election_in_Oregon,_2026
-Summary: The webpage from Ballotpedia discusses the upcoming United States Senate election in Oregon scheduled for 2026. While it does not specifically mention Jo Rae Perkins or her candidacy, it provides a comprehensive overview of the election landscape, including potential candidates, party dynamics, and election timelines. 
-
-To predict whether Jo Rae Perkins will be the Republican nominee, consider her previous candidacy in the 2020 Senate election, where she was the Republican nominee but lost to incumbent Senator Jeff Merkley. Her past performance and current political activities could influence her chances. Additionally, the webpage may include updates on other potential Republican candidates and the overall political climate in Oregon leading up to the election, which could impact Perkins' nomination prospects.
-
-For the most accurate prediction, keep an eye on local political developments, endorsements, and polling data as the election date approaches.
+Title: A QAnon Supporter Is Headed to Congress
+URL: https://www.nytimes.com/2020/11/03/us/politics/qanon-candidates-marjorie-taylor-greene.html
+Summary: Marjorie Taylor Greene, a supporter of the QAnon conspiracy theory, was elected to the U.S. House of Representatives in Georgia, marking a significant political victory for the movement. Her election, along with other QAnon-linked candidates, highlights the movement's growing influence within the Republican Party, especially amid the broader context of conspiracy theories gaining traction in American politics. The article discusses how the movement originated online and has moved into mainstream political arenas, partly fueled by former President Trump's promotion of related conspiracy theories. While Greene's victory was expected due to her district's conservative leaning, the overall trend suggests an increasing presence of QAnon supporters in Congress, raising questions about the movement's future impact depending on political developments, including Trump's electoral success. This context may be relevant when considering the likelihood of Jo Rae Perkins, a known QAnon supporter, becoming the Republican nominee for Oregon's Senate race, as the movement's influence appears to be expanding within the party.
 
 

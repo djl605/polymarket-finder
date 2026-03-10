@@ -1,51 +1,51 @@
 # Research: Will Lindsay James be the Democratic Nominee for IA-02?
 
 **Market ID:** 0x61dec1e8cfadf7b822c9820ba9d4111fc04afb3696ade1ad219869d09aee3674
-**Researched At:** March 5, 2026 at 04:20:52 AM UTC
+**Researched At:** March 10, 2026 at 04:19:59 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Lindsay James be the Democratic Nominee for IA-02?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 2.0¢
 
 ### Summary
 
-With only one strong endorsement and no data on challengers or polling, the 69% price appears reasonable given residual uncertainty. There’s no credible evidence of a mispricing larger than a few cents.
+The single strong data point is a late-February endorsement by the Iowa Teamsters, supporting a favorite status but not guaranteeing the nomination amid unknown challengers. With no polling or competitor data, there’s no clear mispricing beyond a few cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Lindsay James be the Democratic nominee for Iowa’s 2nd Congressional District in the June 2, 2026 primary?” It resolves YES if, by official Democratic Party sources (e.g., Democrats.org), James is named the nominee; NO if another candidate wins the primary or no nominee is announced by Nov 3, 2026.
+The market asks whether Lindsay James will be the Democratic nominee in IA-02’s June 2, 2026 primary. YES resolves if official Democratic sources (e.g., Democrats.org) list James as the nominee; NO resolves if another candidate is nominated or if no nominee is announced by November 3, 2026.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for James:  
-• EMILY’s List endorsement on Dec 3, 2025—signals strong institutional support and fundraising boost.  
-• No documented serious primary challengers thus far in research.  
+Bullish evidence for James (supporting ~69%):  
+• Multiple reports (Feb 24–25, 2026) confirm the Iowa Teamsters— the state’s largest union—endorsed her, signaling organized-labor strength in the primary.  
+• Active on-the-ground campaigning (e.g., recent Mason City event) raises her visibility.  
 
-Bearish/uncertain factors:  
-• No public polling or fundraising tallies comparing James to potential rivals.  
-• Other IA-02 Democrats (e.g., local officeholders) could enter late.  
-• Brian Meyer’s recruitment efforts might yield well-funded challengers.  
+Bearish/missing evidence (suggesting the price could be too high):  
+• No polling data on the Democratic primary field or James’s vote share.  
+• Lack of detail on competing candidates or other major endorsements.  
+• Endorsement doesn’t guarantee the nomination—IA-02 Dem primary could attract well-funded opponents or late-breaking entrants.  
 
-Source credibility and recency: the EMILY’s List endorsement (Dec 2025) is the only directly relevant, credible, and recent item. The rest of the research mentions no direct competition or polling; absence of evidence is weak confirmation rather than proof.
+Source credibility/recency: All sources are from late February 2026, reputable local reporting on endorsements. No obvious conflicts, but they focus solely on one union’s support.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 69% price can reflect a consensus that James’s endorsement plus lack of known opposition make her the frontrunner but with inevitable uncertainty around late entrants. Low volume could simply be due to few traders focusing on a relatively low-profile primary contest. It may not be driven by a single over-confident trader, given the bid-ask spread is tight.
+A 69% price could reflect a consensus that union backing and incumbency in the State House make James the prohibitive favorite. Low volume suggests few participants—perhaps insiders comfortable with that probability, or low overall interest. It might be efficient if the union endorsement is widely understood to be decisive; it might be inefficient if traders have overlooked other credible candidates or lack polling insights.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence suggests a >10¢ mispricing. The single EMILY’s List endorsement is almost certainly already priced in. The absence of polling is typical at this stage and doesn’t imply 30% uncertainty is too high. Therefore, no strong case for significant mispricing.
+The only hard evidence is a union endorsement; nothing indicates a >20-point swing missing from the price. Absent data on fundraising, polls, or rival campaigns, there’s no strong case that 69% is materially off. The primary is still months away, leaving time for challenges to emerge.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that price is off): 20%  
-Magnitude of mispricing: 5¢  
-Expected value = 0.20 × 5¢ = 1¢
+Strength of evidence (very limited beyond the endorsement): 20%  
+Magnitude of plausible mispricing: 10 cents  
+Expected value = 20% × 10 cents = 2 cents
 
-EXPECTED_VALUE: 1  
-SUMMARY: With only one strong endorsement and no data on challengers or polling, the 69% price appears reasonable given residual uncertainty. There’s no credible evidence of a mispricing larger than a few cents.  
-CONFIDENCE: low
+EXPECTED_VALUE: 2  
+SUMMARY: The single strong data point is a late-February endorsement by the Iowa Teamsters, supporting a favorite status but not guaranteeing the nomination amid unknown challengers. With no polling or competitor data, there’s no clear mispricing beyond a few cents.  
+CONFIDENCE: medium
 
 ---
 
@@ -53,33 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Republicans tease 2nd District campaign announcements after ...
-Author: Robin Opsahl
-Published Date: 2025-09-04T00:00:00.000Z
-URL: https://iowacapitaldispatch.com/2025/09/04/republicans-tease-2nd-district-campaign-announcements-after-hinsons-jump-to-senate-race/
-Summary: The article discusses potential Republican candidates for Iowa’s 2nd Congressional District in 2026, notably former Rep. Rod Blum and State Rep. Shannon Lundgren, both considering runs following Rep. Ashley Hinson’s decision to run for Senate. There is no mention of Lindsay James or any Democratic candidates in this context. Therefore, based on this source, there is no information indicating whether Lindsay James will be the Democratic nominee for IA-02.
+Title: Iowa Teamsters endorse Democrat Lindsay James
+Author: Lee-Gazette Des Moines Bureau
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://nonpareilonline.com/news/local/article_4e48751c-b952-4f76-81c2-c8eaee3bfe16.html
+Summary: The Iowa Teamsters, including the state's largest union, have officially endorsed Democratic State Representative Lindsay James in her campaign for Iowa’s 2nd Congressional District. This union endorsement suggests strong support from organized labor, which could bolster her prospects in the Democratic primary and potentially influence her chances of securing the Democratic nomination for IA-02.
 
-Title: Three campaigns end, one begins, and lots of legislative news
-Author: Laura Belin
-Published Date: 2026-01-27T00:00:00.000Z
-URL: https://laurabelin.substack.com/p/three-campaigns-end-one-begins-and
-Summary: The article primarily covers recent legislative and political developments in Iowa, including the end of three campaigns and the start of a new one, along with legislative news. It highlights reactions to a tragic incident involving Alex Pretti, a Minneapolis ICU nurse shot and killed by Border Patrol agents, with Iowa Democratic candidates condemning the violence and calling for federal agents to withdraw from Minneapolis. While the piece discusses Iowa political figures and ongoing campaigns, it does not provide specific information about Lindsay James or her prospects as the Democratic nominee for Iowa's 2nd Congressional District (IA-02). Therefore, based on this content, there is no relevant information to predict whether Lindsay James will be the Democratic nominee for IA-02.
+Title: Iowa Teamsters endorse Democrat Lindsay James in Iowa’s 2nd District race - Electricity.com
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://article.wn.com/view-electricity/2026/02/25/Iowa_Teamsters_endorse_Democrat_Lindsay_James_in_Iowa_s_2nd__t/
+Summary: Iowa Teamsters, including the state's largest union, have endorsed Democratic state Rep. Lindsay James in her campaign for Iowa’s 2nd Congressional District. This significant union support suggests strong backing within the Democratic base, which could enhance her prospects of securing the Democratic nomination. Additionally, James is actively campaigning in the district, and her endorsements, along with her visibility in local events, position her as a prominent candidate in the race. While endorsement alone does not guarantee nomination, it indicates she is a leading contender among Democratic candidates for IA-02.
 
-Title: EMILY's List endorses Lindsay James for Congress | The Gazette
-Author: Katie Mills Giorgio
-Published Date: 2025-12-03T00:00:00.000Z
-URL: https://www.thegazette.com/campaigns-elections/campaign-almanac-emilys-list-endorses-lindsay-james-for-congress/
-Summary: Lindsay James has received an endorsement from EMILY’s List, a prominent political action committee that supports Democratic women candidates. This endorsement indicates strong backing within the Democratic Party and could bolster her chances of securing the Democratic nomination for Iowa's 2nd Congressional District (IA-02). However, the article does not specify her current primary status or the likelihood of her becoming the nominee, only highlighting her endorsement.
+Title: Iowa Teamsters endorse Democrat Lindsay James in Iowa’s 2nd District race - Worldnews.com
+Author: system
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://article.wn.com/view/2026/02/25/Iowa_Teamsters_endorse_Democrat_Lindsay_James_in_Iowa_s_2nd__t/
+Summary: The Iowa Teamsters, including the state's largest union, have officially endorsed Democratic State Representative Lindsay James in her campaign for Iowa’s 2nd Congressional District. This endorsement from a significant labor organization could bolster her candidacy and influence her prospects in the Democratic primary. While the article confirms her endorsement, it does not specify whether she has secured the Democratic nomination, leaving the outcome of her bid for the nomination uncertain. However, the union's support indicates strong backing within labor circles, which may positively impact her chances of becoming the Democratic nominee for IA-02.
 
-Title: "A little more aggressive"—a first look at Brian Meyer as House ...
-Author: Laura Belin
-Published Date: 2025-05-10T00:00:00.000Z
-URL: https://www.bleedingheartland.com/2025/05/10/a-little-more-aggressive-a-first-look-at-brian-meyer-as-house-minority-leader/
-Summary: The article focuses on Brian Meyer’s recent election as Iowa House Democratic minority leader and his strategic plans for 2026, emphasizing a more aggressive approach centered on economic "kitchen table issues" to regain seats in mid-sized cities and industrial towns. Meyer is prioritizing direct voter engagement and candidate recruitment, with a focus on economic concerns rather than social issues like abortion. He is working with other Democratic leaders to build a decentralized leadership team and increase outreach. While the article mentions Meyer’s leadership and efforts to strengthen the Democratic caucus, it does not provide specific information about Lindsay James’s candidacy or prospects for the IA-02 district nomination. Therefore, based on this content, there is no direct indication whether Lindsay James will be the Democratic nominee for IA-02.
+Title: Iowa Teamsters endorse Democrat Lindsay James in Iowa’s 2nd District race - Steel.com
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://article.wn.com/view-steel/2026/02/24/Iowa_Teamsters_endorse_Democrat_Lindsay_James_in_Iowa_s_2nd_/
+Summary: The Iowa Teamsters, including the state's largest union, have endorsed Democratic state Rep. Lindsay James in her campaign for Iowa’s 2nd Congressional District. James is actively campaigning in the district, with her candidacy gaining support from key labor organizations. While endorsements from unions and local political figures bolster her prospects, there is no definitive information yet confirming her as the official Democratic nominee. The race features other candidates and endorsements, and the nomination process will depend on upcoming primary results.
 
-Title: How Election Rules Affect Who Wins | Journal of Legal Analysis
-Published Date: 2024-04-06T00:00:00.000Z
-URL: https://academic.oup.com/jla/article/16/1/1/7641615
-Summary: The article examines how election rules influence electoral outcomes, focusing on the effects of different laws and policies on candidate success. It discusses how election laws can serve as tools for political targeting, shaping who wins based on legal frameworks. The modeling approaches outlined analyze the impact of various election regulations, considering both partisan and racial effects, and explore the limits of countermobilization efforts. Additionally, the paper addresses the complexities of multiple simultaneous policy changes affecting election results. While it provides a comprehensive understanding of how legal and policy factors influence electoral success, it does not specifically analyze individual candidates like Lindsay James or predict her potential to become the Democratic nominee for IA-02. However, understanding these legal dynamics can offer context on the factors that might advantage or hinder candidates in primary races.
+Title: 5 things to know about Josh Turek's and Lindsay James' campaign stop in Mason City - Worldnews.com
+Author: system
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://article.wn.com/view/2026/02/19/5_things_to_know_about_Josh_Tureks_and_Lindsay_James_campaig/
+Summary: Lindsay James, a Democratic U.S. District 2 Congressional candidate, recently participated in a campaign event in Mason City alongside U.S. Senate candidate Rep. Josh Turek. The event highlights her active campaign efforts within the district. While the article details her campaign activities and presence in Mason City, it does not specify her current standing in the race or whether she is the leading candidate to secure the Democratic nomination for IA-02.
 
 

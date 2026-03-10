@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?
 
 **Market ID:** 0xa2694315da159a18f38a07951f3b3871eadfe501442f3c8a4d623eeff1f6ac50
-**Researched At:** March 1, 2026 at 02:34:37 PM UTC
+**Researched At:** March 10, 2026 at 04:19:51 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?"
 
 ---
@@ -9,49 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.0¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-With only four confirmed by-election seats and no clear route to reach ten, the 17.5% probability seems to reflect a small-chance scenario rather than a major mispricing. Local election polling won’t directly translate into parliamentary pickups.
+The DPK would need an almost perfect sweep of likely ten by-elections—a high bar not fully supported by local polling or seat-level forecasts—suggesting the market’s 37% chance is likely too high by ~15 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Democratic Party of Korea (DPK) win 10 or more National Assembly seats in the by-elections held June 3, 2026?”  
-– YES resolves if DPK wins at least ten by-election seats on that date.  
-– NO if they win nine or fewer, or if results are unknown by year-end (auto‐resolves NO).  
-Only seats formally up for by-election on June 3, 2026 count; uncontested seats don’t matter.
+The market asks whether the Democratic Party of Korea (DPK) will win ten or more parliamentary seats in the June 3, 2026 by-elections. At least four seats are already confirmed to be contested; additional vacancies (likely from incumbents running for mayor/governor) could raise the total to as many as ten. A YES outcome requires the DPK to win at least ten seats out of however many end up on the ballot; a NO outcome occurs if they win nine or fewer or if fewer than ten seats are contested and they can’t reach the threshold.
 
 2. EVIDENCE EVALUATION  
-Bearish (arguing 10+ is extremely unlikely):  
-• “Mini-General Election” piece notes only four seats are confirmed vacant; more vacancies require incumbents resigning to run in local polls—an uncertain process. Even if a handful more seats open, reaching ten contests is hard.  
-• All research otherwise focuses on local/regional elections (governor mayors, etc.), not parliamentary by-election totals. Strong local poll leads (65% vs 20%) don’t translate to multiplying by-election seats.  
-• No source indicates anywhere near ten separate National Assembly vacancies.  
+Bullish signals  
+• A Feb. 13 poll shows the DPK leading 65%–20% in voter preference for local elections, and a 65% approval of President Lee, suggesting strong momentum.  
+• The party’s leadership has pledged transparent, competitive nominations (“four no’s, four strengths”), potentially boosting candidate quality.  
+• Reports highlight opposition candidate shortages in key regions, possibly easing the DPK’s path in some races.  
 
-Bullish (supporting >0% chance):  
-• High-profile candidates (Song Young-gil, etc.) signal DPK might pick up every available slot.  
-• PPP’s candidate shortages and internal strife could create additional vacancies or lower PPP performance.  
-• DPK’s strong public sentiment (55% “support government momentum”) could pressure more incumbents to resign and run locally, expanding vacancies.
+Bearish signals  
+• Only four by-elections are confirmed so far. Even if up to ten seats are eventually contested, the DPK would need to sweep nearly 100% of races—an ambitious bar.  
+• Local election polling doesn’t map directly onto parliamentary by-elections; regional dynamics and incumbency play large roles.  
+• None of the sources project a specific seat count, and the “mini general election” framing underscores unpredictability in high-profile districts like Incheon Gyeyang-eul.  
 
-Credibility & Recency: All articles are from credible Korean outlets in Feb 2026. But their focus is on local elections, not confirming parliamentary vacancy counts.
+Source credibility is high (UPI, Seoul Economic Daily, Korea Pro); all are recent (Feb–Mar 2026). However, none provide seat‐level forecasts, suggesting that markets have only broad signals to price on.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 17.5% price plausibly reflects a small tail risk that (a) more than four seats open if several MPs step down to run for local posts, and (b) DPK sweeps all of them. Informed traders likely recognize that while the DPK is strong locally, converting that into ten by-election seats requires an unusual level of vacancies. Low volume is probably because most traders see this as near-impossible and haven’t engaged.
+A 37% probability roughly implies traders believe there's a moderate chance of a near-perfect DPK sweep of all ten races. This could reflect a single optimist or a genuine consensus that the DPK’s local tails will lift by-election outcomes. The zero trading volume signals the latter may not have been stress-tested; informed arbitrageurs could yet adjust price if they deem it off.
 
 4. MISPRICING ASSESSMENT  
-There’s no specific credible evidence of mispricing:  
-– The improbability of creating ≥10 vacancies is the key constraint; research doesn’t understate that.  
-– Local poll strength doesn’t directly imply by-election seat count.  
-– The market price seems to capture only the small chance of extraordinary vacancy creation plus a DPK sweep.  
+Given the requirement of winning ten races—and that only four are confirmed so far—the market’s 37% seems high. Even with 65% average support, sweeping ten competitive races is unlikely. A more realistic probability might be in the low 20s. Thus there is credible evidence the market is overpriced by perhaps 12–17 cents.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: 30% (research doesn’t reveal any hidden path to ten seats)  
-Magnitude of mispricing if price is off: ~10¢ (best-case misestimation between 17.5% and true ~8%)  
-Expected value = 0.30 × 10¢ = 3¢
+Strength of evidence: 40% (correlation between local polls and by-election sweeps is uncertain)  
+Magnitude of mispricing: ~15 cents  
+Expected value = 0.4 × 15 ¢ = 6 ¢
 
-EXPECTED_VALUE: 3  
-SUMMARY: With only four confirmed by-election seats and no clear route to reach ten, the 17.5% probability seems to reflect a small-chance scenario rather than a major mispricing. Local election polling won’t directly translate into parliamentary pickups.  
+EXPECTED_VALUE: 6.0  
+SUMMARY: The DPK would need an almost perfect sweep of likely ten by-elections—a high bar not fully supported by local polling or seat-level forecasts—suggesting the market’s 37% chance is likely too high by ~15 cents.  
 CONFIDENCE: medium
 
 ---
@@ -60,80 +54,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Ruling Party Eyes 10 Regions as Opposition Struggles with Candidate Shortage - Seoul Economic Daily
-Author: Roh Hae-Cheol
+Title: DP leader Jeong vows local election win with new nomination rules - UPI.com
+Author: Asia Today and translated by UPI
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.upi.com/Top_News/World-News/2026/03/08/democratic-party-june-3-local-election/7351773018624/
+Summary: Democratic Party leader Jeong Cheong-rae has committed to winning South Korea's June 3 local elections by implementing a transparent nomination process based on his "four no's, four strengths" policy, aiming to select competitive candidates while avoiding unjust exclusions. The party plans to finalize candidate nominations by April 20, with the upcoming elections serving as a significant political test ahead of the national convention, where Jeong may seek another term as party leader. While the article emphasizes the party's focus on local election success and internal candidate selection strategies, it does not provide specific information about the number of seats the Democratic Party of Korea is expected to win in the upcoming parliamentary by-elections.
+
+Title: South Korea’s June elections will test Lee’s governing power nationwide - Korea Pro
+Author: joonha.park
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://koreapro.org/?p=2213209
+Summary: The article discusses South Korea’s upcoming June 3, 2026 local elections, which serve as a significant test of President Lee Jae Myung’s ability to translate his political strength into effective regional governance. While the elections primarily focus on mayors and governors across 17 metropolitan and provincial jurisdictions—including key cities like Seoul and Busan—the results are viewed as an early indicator of the ruling party’s nationwide political momentum. Historically, local elections in South Korea can influence parliamentary outcomes, and the Democratic Party of Korea’s performance in these elections may provide insights into its potential success in the upcoming parliamentary by-elections. However, the article does not specify the number of seats the Democratic Party of Korea is expected to win, nor does it directly address the likelihood of winning 10 or more seats. Instead, it emphasizes the elections’ role as a barometer of the ruling party’s regional and national strength ahead of broader legislative contests.
+
+Title: Mini General Election Looms as Up to 10 Seats Face By-Elections - Seoul Economic Daily
+Author: Jin Dong-Yeong
 Published Date: 2026-02-22T00:00:00.000Z
-URL: https://en.sedaily.com/politics/2026/02/22/ruling-party-eyes-10-regions-as-opposition-struggles-with
-Summary: The upcoming June 3, 2026, local elections in South Korea are pivotal for the Democratic Party of Korea (DPK) as they aim to reclaim 10 regions currently held by the opposition People Power Party (PPP). The DPK's strategy focuses on defending its stronghold in the Honam region while targeting key battlegrounds like Seoul, Busan, and Gyeonggi Province. The elections are seen as a midterm assessment of the Lee Jae-myung administration, with a DPK victory potentially solidifying its reform momentum and influencing the 2028 general elections.
-
-The DPK is capitalizing on the PPP's internal struggles, including a candidate shortage and dissatisfaction with incumbent governors. DPK Secretary General Cho Seung-rae has emphasized the need to oust PPP governors, framing the elections as a referendum on the government's performance over the past four years. Key candidates from the DPK are actively campaigning against PPP incumbents, particularly in major cities like Seoul, where the outcome could reflect public support for the government's policies.
-
-Given the DPK's strategic focus on reclaiming these regions and the PPP's vulnerabilities, the likelihood of the DPK winning 10 or more seats appears favorable, contingent on effective campaigning and voter turnout.
+URL: https://en.sedaily.com/politics/2026/02/22/mini-general-election-looms-as-up-to-10-seats-face-by
+Summary: The upcoming South Korean by-elections, coinciding with the June 3, 2026 local elections, are expected to be highly competitive, potentially resembling a "mini general election." Four constituencies have been confirmed for by-elections, with additional seats likely to be contested as incumbent lawmakers announce candidacies, including those seeking mayoral positions in Seoul, Busan, and Incheon. Notably, Incheon Gyeyang-eul, formerly held by President Lee Jae-myung, is anticipated to be a fiercely contested battleground, featuring prominent figures from both the Democratic Party of Korea (DPK) and opposition parties. The DPK's prospects in these by-elections will depend on the number of seats they secure, particularly in key districts like Incheon Gyeyang-eul and Gyeonggi Pyeongtaek-eul, where heavyweight candidates are expected to compete. Given the high-profile candidacies and the strategic importance of these districts, the outcome could significantly influence the DPK's overall performance in the 2026 parliamentary by-elections.
 
 Title: Ruling Party Leads Opposition 65% to 20% in June Local Election Poll - Seoul Economic Daily
 Author: Kim Byeong-Jun
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://en.sedaily.com/news/2026/02/13/ruling-party-leads-opposition-65-percent-to-20-percent-in
-Summary: The latest poll indicates a strong lead for the ruling Democratic Party of Korea (DPK) ahead of the June 3 local elections, with 65% of respondents favoring the DPK compared to just 20% for the opposition People Power Party (PPP). This significant 45-point advantage suggests a favorable environment for the DPK, which could translate into winning 10 or more seats in the upcoming parliamentary by-elections.
+Summary: The recent June local election poll indicates strong support for the ruling Democratic Party of Korea, with 65% of respondents predicting a victory for the ruling party compared to 20% for the opposition. The survey, conducted among 1,012 adults nationwide, shows a significant lead for the Democratic Party, suggesting favorable public sentiment ahead of the June 3, 2026, parliamentary by-elections. Given the current high approval ratings for President Lee Jae-myung (65% positive) and the positive perception of government policies—particularly in real estate and economic areas—these trends point toward a strong electoral performance for the ruling party. While specific seat predictions are not provided, the substantial lead in voter support and approval ratings imply that the Democratic Party of Korea could potentially secure 10 or more seats in the upcoming by-elections.
 
-Key insights from the survey conducted by KStat Research include:
-
-- **Public Sentiment**: 55% of respondents view the elections as a way to support government momentum, while only 34% see it as a means to check the government. This indicates a generally positive perception of the DPK's performance.
-  
-- **Candidate Preferences**: In Seoul, the DPK's candidate, Jung Won-oh, leads with 34%, while the PPP's incumbent mayor, Oh Se-hoon, trails at 26%. The DPK's advantage in candidate preference could bolster their chances of securing more seats.
-
-- **Voter Concerns**: Issues such as housing prices and cost of living are top concerns for voters, which the DPK has been addressing through its policies. Positive public sentiment towards the government's economic measures may further enhance the DPK's electoral prospects.
-
-- **Approval Ratings**: President Lee Jae-myung enjoys a 65% approval rating, with positive assessments largely driven by economic policies. High approval ratings for the president can positively influence the party
-
-Title: Democratic Party Vows to Oust 'Yoon Kids' in June Local Elections - Seoul Economic Daily
+Title: Ruling Party Eyes 10 Regions as Opposition Struggles with Candidate Shortage - Seoul Economic Daily
 Author: Roh Hae-Cheol
 Published Date: 2026-02-22T00:00:00.000Z
-URL: https://en.sedaily.com/politics/2026/02/22/democratic-party-vows-to-oust-yoon-kids-in-june-local
-Summary: The Democratic Party of Korea is intensifying its campaign efforts ahead of the June 3, 2026 local elections, positioning the vote as a critical referendum on the current government and local administrations. Key strategies include:
-
-1. **Targeting 'Yoon Kids'**: The party aims to oust local leaders affiliated with former President Yoon Suk-yeol, whom they label as incompetent. This includes major metropolitan areas like Incheon and Daejeon, which are crucial for their electoral strategy.
-
-2. **Candidate Selection**: The Democratic Party is focusing on transparency in candidate nominations, implementing a grievance system for those unfairly excluded and ensuring that unqualified candidates are eliminated from consideration.
-
-3. **Use of Technology**: An AI Strategy Team has been established to analyze public opinion and media trends, which could provide insights into voter sentiment and help shape campaign strategies.
-
-4. **Public Sentiment**: The party is framing the elections as a chance to punish the current administration for perceived failures, which may resonate with voters dissatisfied with local governance.
-
-5. **Preparations Timeline**: Nominations for candidates are set to be completed by mid-April, allowing time for campaigning and public engagement.
-
-These factors suggest that the Democratic Party is strategically positioning itself to potentially secure a significant number of seats in the upcoming elections, depending on public response to their campaign and the performance of their candidates.
-
-Title: June 3 Local Elections: Strong Lead for "Government Stability" Argument... Ruling Party Shows Strength in Gyeonggi, Busan, Gangwon and Beyond - 아시아경제
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://cm.asiae.co.kr/en/article/2026021910045047376
-Summary: The article discusses the upcoming June 3, 2026 local elections in South Korea, highlighting the ruling party's strong position based on recent opinion polls. Key points include:
-
-1. **Ruling Party Support**: Polls indicate that 53% to 55% of respondents favor the ruling party, while the Democratic Party of Korea (DPK) garners 44% to 46% support. This suggests a competitive landscape, but the ruling party currently holds an advantage.
-
-2. **Presidential Approval Ratings**: President Lee Jaemyung's approval ratings are high, ranging from 63% to 65%, which positively influences the ruling party's standing in the polls.
-
-3. **Regional Polls**: In major cities like Seoul and Busan, the DPK candidates show varying levels of support against their opposition. For instance, Jeong Wonoh (DPK) leads in Seoul, while Jeon Jaesoo (DPK) is ahead in Busan.
-
-4. **Challenges for the DPK**: Despite some positive indicators, the DPK faces challenges, particularly in regions where incumbent local government heads from the opposition party are struggling. The article notes that public sentiment is shifting, which could impact the DPK's performance.
-
-In summary, while the DPK shows potential for winning seats, particularly in urban areas, the ruling party's current strength and high presidential approval ratings may pose significant challenges. The outcome will depend on voter sentiment leading up to the elections
-
-Title: Song, Han, Cho By-Election Bids Spark 'Mini General Election' Hype
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.chosun.com/english/national-en/2026/02/23/TGNN6N77JJELNP6JU3LSSBLFUY/
-Summary: The upcoming parliamentary by-elections in South Korea, scheduled for June 3, 2026, are generating significant speculation regarding the Democratic Party of Korea's (DPK) potential to secure 10 or more seats. Key factors influencing this prediction include:
-
-1. **High-Profile Candidates**: Prominent figures such as former DPK leader Song Young-gil are expected to run in critical districts like Incheon Gyeyang, which is a stronghold for the ruling party. His candidacy, along with others, could bolster the DPK's chances.
-
-2. **Vacant Districts**: The by-elections will take place in four confirmed districts, with the possibility of more if current lawmakers step down to pursue mayoral positions. The DPK's ability to capitalize on these vacancies will be crucial.
-
-3. **Opposition Dynamics**: The participation of major candidates from the opposition, including Han Dong-hoon and Cho Kuk, may complicate the DPK's efforts. The Rebuilding Korea Party, led by Cho, is targeting districts where the DPK has faced challenges, potentially impacting the DPK's seat count.
-
-4. **Public Sentiment and Scandals**: The DPK's recent controversies, including the "envelope scandal," could affect voter sentiment. However, Song's recent acquittal may help mitigate some negative perceptions.
-
-5. **Strategic Districts**: The DPK is focusing on districts where it has historically performed well, but competition
+URL: https://en.sedaily.com/politics/2026/02/22/ruling-party-eyes-10-regions-as-opposition-struggles-with
+Summary: The upcoming June 3, 2026 local elections in South Korea are pivotal, with the Democratic Party of Korea aiming to reclaim at least 10 regions currently held by the opposition, particularly targeting key battlegrounds like Seoul, Busan, and Gyeonggi Province. The ruling party's strategy focuses on defending its traditional stronghold in the Honam region and recapturing regions lost to the People Power Party (PPP), which currently holds eight regional governorships. The election is viewed as a significant midterm assessment of the Lee Jae-myung administration's governance, with potential implications for future national elections, including the 2028 presidential race. The Democratic Party sees Seoul as a critical target, with a victory there potentially signaling a landslide. Meanwhile, the opposition PPP faces internal struggles and candidate shortages, which could hinder their performance. Given these dynamics, the Democratic Party's success in winning 10 or more seats in the by-elections will depend on their ability to capitalize on opposition weaknesses and mobilize support in key regions.
 
 

@@ -1,7 +1,7 @@
 # Research: U.S. agrees to a new trade deal with "Japan" before 2027?
 
 **Market ID:** 0xfe61b06cd6643f489a4781a327cdf06bfd639e95151d938c801758a4bea41b73
-**Researched At:** March 4, 2026 at 04:15:10 AM UTC
+**Researched At:** March 10, 2026 at 04:17:44 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: U.S. agrees to a new trade deal with "Japan" before 2027?"
 
 ---
@@ -9,43 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.3¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-While multiple sources describe a major US–Japan trade agreement as “sealed” or “activated” in early 2026, none confirm it has become law via Senate ratification or a congressional–executive agreement. Credible reporting also notes the deal remains stuck in committee, supporting the market’s 18% chance of legal passage by end-2026. The evidence does not indicate a clear mispricing.
+Despite USTR intent, no formal Japan negotiations have begun and reporting shows only tariff‐maintenance talks under the 2022 deal, making an FTA by end-2026 unlikely. The market’s 18.5% likely overstates the probability by about 8 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether the U.S. will have a legally enacted free‐trade agreement (FTA) with Japan by December 31, 2026 (11:59 PM ET). A “Yes” requires passage of such an FTA into U.S. law—either as a treaty ratified by the Senate or a Congressional–Executive Agreement signed by the President—by that deadline. Otherwise it resolves “No.”
+The market asks whether the U.S. will have a new, legally binding free‐trade agreement with Japan enacted into U.S. law by Dec 31, 2026. A “Yes” requires that an agreement be negotiated, signed, and then either ratified by the Senate (as an FTA treaty) or passed as a Congressional‐Executive Agreement and signed by the President by the deadline. Otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• Two Feb 18, 2026 announcements (CFO Times; Times of India) describe a “massive” $550 billion US–Japan trade deal as “activated” or “sealed.”  
-• A VOA editorial (Feb 20) calls it “signed” and notes major investments underway.  
-• A BDO briefing (Aug 2025) details reciprocal tariffs and quota removals, implying a broad agreement framework.  
+Bullish evidence (increasing probability):  
+• USTR statement (Mar 3 2026) of intent to pursue binding Agreements on Reciprocal Trade with Japan, reducing barriers and enforcing reciprocity.  
+• Strategic alignment on digital services, agriculture, critical minerals and energy projects (multi‐billion‐dollar initiatives) could accelerate negotiations.  
 
-Bearish signals:  
-• A Feb 13, 2026 Japan Times article—high credibility—reports the $550 billion commitment “stuck in committee,” citing unresolved implementation gaps and no formal legal ratification.  
-• None of the bullish pieces explicitly states the deal has completed the required U.S. legal process (Senate ratification or congressional-executive passage).  
+Bearish evidence (decreasing probability):  
+• No negotiations with Japan have formally begun (USTR says “not yet underway”).  
+• Multiple news articles (Mar 7 2026 Japan Times, Reuters, Mainichi) describe Japan seeking to avoid unfavorable tariffs under existing 2022 deal, not negotiating a new FTA.  
+• The “historic trade deal” reported Feb 2025 appears to be an investment package, not an FTA requiring Senate/legislative approval under congressional rules.  
+• Typical FTA negotiation through ratification takes multiple years; domestic political resistance and tariff disputes further slow progress.  
 
-Source credibility/recency:  
-• Japan Times and VOA are reliable and current. CFO Times and Times of India may overstate “activation” without clarifying legal enactment. BDO is a credible tax/trade adviser but discusses high-level frameworks rather than final law.  
+Source credibility and recency: All items are from credible outlets in Mar 2026. None report a formal negotiating mandate, draft text, or legislative push toward FTA status.
 
 3. MARKET EFFICIENCY ANALYSIS  
-An 18% probability plausibly reflects broad skepticism that an FTA will clear Congress and be signed into law by end-2026, despite high‐profile announcements. The low volume and tight spread suggest a small group of traders set the price, but not an obvious consensus mispricing. Informed participants likely appreciate the unresolved committee hurdles and legislative challenges.
+An 18.5% price could reflect a judgment that formal talks will commence this year and conclude rapidly, then clear Congress. But given zero trading volume, this price may simply reflect one or two optimistic traders. No broad traction among informed participants suggests the price could be set by overconfidence rather than genuine consensus.
 
 4. MISPRICING ASSESSMENT  
-I find no clear indication that the market is materially mispricing the probability. The bullish claims do not demonstrate legal enactment, while the credible bearish report explains why ratification remains uncertain. 18% seems a reasonable consensus view of passing by December 2026.
+Given the lack of any formal talks, no draft agreement, and the multi-year historical timeline for FTAs, a sub–10% probability seems more plausible. The market’s 18.5% probably overstates the chance by roughly 8 cents. There is no evidence of a near-term legislative push or negotiation endpoint.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 25% (no clear missing information that would push the price materially higher or lower)  
-• Magnitude of potential mispricing: ~5 cents (unlikely >10 cents)  
-• Expected value ≈ 0.25 × 5 cents = 1.25 cents
+Strength of evidence that price is too high: ~50% (moderate).  
+Estimated mispricing magnitude: ~8 cents.  
+Expected value = 0.50 × 8 cents = 4 cents.
 
-EXPECTED_VALUE: 1.3  
-SUMMARY: While multiple sources describe a major US–Japan trade agreement as “sealed” or “activated” in early 2026, none confirm it has become law via Senate ratification or a congressional–executive agreement. Credible reporting also notes the deal remains stuck in committee, supporting the market’s 18% chance of legal passage by end-2026. The evidence does not indicate a clear mispricing.  
+EXPECTED_VALUE: 4.0  
+SUMMARY: Despite USTR intent, no formal Japan negotiations have begun and reporting shows only tariff‐maintenance talks under the 2022 deal, making an FTA by end-2026 unlikely. The market’s 18.5% likely overstates the probability by about 8 cents.  
 CONFIDENCE: medium
 
 ---
@@ -54,33 +54,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: US-Japan Trade Deal 2026: The Massive $550 Billion Economic Win
-Author: Dr. Dinesh Sharma
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://cfostimes.com/us-japan-trade-deal-2026-massive-investment-guide/
-Summary: The US-Japan Trade Deal 2026, activated on February 18, 2026, signifies a historic bilateral agreement with a $550 billion commitment. Key components include the launch of major infrastructure projects such as Ohio's $33 billion Portsmouth Power Plant, a $2.1 billion Gulf of Mexico crude export terminal, and a $600 million synthetic diamond facility to reduce reliance on China. Additionally, the deal fosters a "Trilateral AI Corridor" involving Nvidia chips in India, strengthening global tech collaboration. The agreement leverages reciprocal tariffs—starting with a 15% baseline—to incentivize substantial US and Japanese investments across energy, critical minerals, logistics, and AI sectors. This strategic framework indicates a significant, proactive US-Japan partnership set to shape economic and technological alliances well before 2027.
+Title: USTR Seeks Binding Trade Deals With Korea, Japan, EU - Seoul Economic Daily
+Author: Park Min-Ju
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://en.sedaily.com/international/2026/03/04/ustr-seeks-binding-trade-deals-with-korea-japan-eu
+Summary: The USTR is actively pursuing the upgrade of trade frameworks with key partners, including Japan, into legally binding Agreements on Reciprocal Trade (ARTs). While negotiations with Japan are not yet underway, the USTR has indicated a strong intent to negotiate such binding agreements with multiple countries, including Japan, to reduce tariffs and non-tariff barriers, and to address issues like digital services discrimination and agricultural trade barriers. The U.S. aims to enforce these agreements to ensure reciprocal market access and to bolster manufacturing and export sectors. Given the USTR's recent efforts and commitments, there is a possibility that a binding trade deal with Japan could be negotiated and finalized before 2027, especially if the U.S. continues to prioritize reducing trade deficits and expanding market access.
 
-Title: US, Japan seal ‘massive’ trade deal; Tokyo to invest $550 billion in America; key details of the pact - The Times of India
-Author: TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Feb 18, 2026, 08:23 IST
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://timesofindia.indiatimes.com/business/international-business/us-japan-seal-massive-trade-deal-tokyo-to-invest-550-billion-in-america-key-details-of-the-pact/articleshow/128488072.cms
-Summary: The article reports that the U.S. and Japan have recently finalized a significant trade agreement, described as a "massive" deal. Under this pact, Tokyo has committed to invest approximately $550 billion in the United States. While the specific timeline for the agreement's implementation isn't explicitly stated, the coverage suggests the deal was recently sealed, indicating it is active or imminent. This development reflects a strengthening of economic ties between the two nations and could influence future trade negotiations. Given the recent nature of the agreement, it is relevant to consider that the U.S. and Japan have indeed entered into a new trade deal prior to 2027.
+Title: Japan asks U.S. not to treat it unfavorably under new tariffs - The Japan Times
+Author: Francis Tang
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://www.japantimes.co.jp/business/2026/03/07/economy/japan-us-trade-chiefs-talk/
+Summary: The article reports that Japan has requested the United States not to treat it unfavorably under new tariffs, highlighting ongoing trade negotiations and concerns over tariff policies. While specific details about a new trade deal are not provided, the emphasis on Japan's appeal suggests active diplomatic efforts to maintain favorable trade relations. This context indicates that Japan is seeking to prevent adverse tariff measures, which could be relevant when assessing the likelihood of a new trade agreement being reached with the U.S. before 2027.
 
 Title: Historic Trade Deal With Japan
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://editorials.voa.gov/a/historic-trade-deal-with-japan/8115867.html
-Summary: The webpage reports that the United States and Japan have recently signed an historic trade agreement, announced by President Trump on February 18, 2025. The deal includes Japan’s commitment of $550 billion to invest in key U.S. sectors, with initial projects totaling $36 billion. These projects encompass the development of the largest natural gas power plant in Ohio, a deepwater crude oil export facility in the Gulf of America, and the establishment of synthetic industrial diamond manufacturing capacity in the U.S. The agreement aims to strengthen the U.S.-Japan alliance, promote mutual economic benefits, enhance energy security, and support U.S. industrial growth. Given the timing and scope of this deal, it indicates a significant and formalized trade partnership between the U.S. and Japan established before 2027.
+Summary: The article reports that the U.S. has recently signed a historic trade deal with Japan, announced by President Trump on February 18, 2025. The agreement involves Japan committing $550 billion to U.S. investments, with initial projects totaling $36 billion in sectors like power generation, oil and gas, and advanced manufacturing. Key projects include building the largest natural gas power plant in Ohio, a deepwater crude oil export facility in the Gulf of America, and establishing domestic synthetic industrial diamond manufacturing. This deal aims to strengthen U.S.-Japan economic ties, enhance energy security, and promote mutual growth. Given the timing of the announcement and the scope of commitments, it is highly likely that the agreement was finalized before 2027.
 
-Title: Latest Reciprocal Tariff News & Trade Deal Updates
-Published Date: 2025-08-05T00:00:00.000Z
-URL: https://www.bdo.com/insights/tax/major-new-trade-deals-for-reciprocal-tariffs-and-more-tariff-related-announcements
-Summary: The webpage details recent developments in U.S. trade policy, including new reciprocal tariff agreements and trade deals with Japan and the EU. Notably, the U.S. and Japan announced a strategic trade and investment agreement on July 23, involving Japan's commitment to invest $550 billion in the U.S. across sectors like manufacturing, defense, and energy. The deal also includes a revised 15% reciprocal tariff on Japanese goods, replacing previous higher rates, and removes import quotas on vehicles and parts, allowing unlimited exports from Japan. Given these negotiations and agreements finalized in 2024, it is highly likely that the U.S. and Japan will maintain or strengthen their trade relationship before 2027, making a new trade deal with Japan plausible within that timeframe.
+Title: Japan asked US not to disadvantage Tokyo under new tariff rules | Reuters
+Author: Makiko Yamazaki
+Published Date: 2026-03-07T00:00:00.000Z
+URL: http://reut.rs/3OWBJwW
+Summary: Japan has requested assurances from the U.S. that its goods will not be disadvantaged under recent tariff measures, specifically seeking to prevent a potential 15% tariff from being applied to Japanese imports. During a meeting in Washington, Japan's trade minister emphasized the importance of maintaining favorable treatment under the current trade agreement, which set a baseline 15% tariff on most Japanese imports, down from higher previous rates. Both countries reaffirmed their commitment to last year's trade deal, despite the U.S. imposing a new 10% blanket tariff that could rise to 15%, creating uncertainty about future trade relations. Discussions also covered Japan-U.S. cooperation on energy, critical minerals, and investment projects, including nuclear power initiatives and energy-related investments. These developments suggest ongoing negotiations and efforts to preserve favorable trade terms, but there is no explicit indication of a new comprehensive trade deal being agreed upon before 2027.
 
-Title: Japan’s $550 billion capital commitment to the U.S. stuck in committee - The Japan Times
-Author: Francis Tang
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://beta.japantimes.co.jp/business/2026/02/13/economy/akazawa-dc-lutnick/
-Summary: The article reports that Japan's $550 billion commitment to support U.S. industries and technologies is currently stalled in committee, with ongoing negotiations over implementation details. Although Japan's trade minister Ryosei Akazawa reached a handshake agreement with U.S. officials, including a promise from President Trump last July to lower tariffs in exchange for this financial pledge, significant gaps remain. These unresolved issues suggest that a formal, finalized trade deal between the U.S. and Japan may not be secured before 2027. The negotiations are still in progress, and the deal's approval depends on resolving these key differences.
+Title: Japan asks US not to slap higher tariffs in weeks before Takaichi's visit - The Mainichi
+Author: 
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://mainichi.jp/english/article/20260307/p2g/00m/0na/002000c
+Summary: Japan's industry minister Ryosei Akazawa urged the U.S. not to impose higher tariffs than those agreed upon in their 2022 trade deal, amid ongoing negotiations and preparations for Prime Minister Sanae Takaichi's upcoming visit to the U.S. in March 2026. Despite the U.S. Supreme Court invalidating some of President Trump's tariffs, the U.S. plans to implement a new 10% global tariff, with considerations to raise it to 15%. Japan has expressed its expectation to be treated in line with the July 2022 bilateral agreement, which included commitments for significant U.S. investments and tariff reductions. The two countries are actively collaborating on joint projects, including energy and AI infrastructure, indicating ongoing efforts to strengthen economic ties. This context suggests that while there is cooperation and adherence to existing agreements, the potential for a new comprehensive trade deal before 2027 remains uncertain, especially given the current tariff disputes and diplomatic negotiations.
 
 

@@ -1,54 +1,51 @@
 # Research: Will Duke Rodriguez win the 2026 New Mexico Governor Republican primary election?
 
 **Market ID:** 0x0c048cf588a0127e8591f98c08f84dd23685def967bd60338703260c5fb32669
-**Researched At:** March 2, 2026 at 02:55:31 PM UTC
+**Researched At:** March 10, 2026 at 04:18:06 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Duke Rodriguez win the 2026 New Mexico Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 11.2¢
 
 ### Summary
 
-Duke Rodriguez cleared all legal challenges by late February, removing a key uncertainty. However, absence of any polling or endorsement data and the presence of multiple GOP contenders mean 17.5% remains plausible and no clear mispricing emerges.
+Multiple independent reports show Duke Rodriguez garnered only 39 delegate votes—far below the 20% threshold—and historical precedent suggests minimal rebound chances. His petition victory kept him on the ballot but does little to close the gap on front‐runners, making the 21% price likely too high.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Duke Rodriguez win the June 2, 2026 New Mexico Republican gubernatorial primary?” It resolves YES if he emerges as the overall winner (in any required run-off), NO otherwise.
+The market asks: “Will Duke Rodriguez win the 2026 New Mexico Governor Republican primary?” It resolves YES if Rodriguez is the overall first‐place finisher in the June 2, 2026 Republican gubernatorial primary (including any run‐off). It resolves NO if any other candidate wins or if the primary does not occur (resolving to “Other”).
 
 2. EVIDENCE EVALUATION  
-Bullish factors:  
-• Two recent court rulings (Feb 25 and 27) dismissed challenges to his ballot eligibility, removing key legal uncertainty. Successfully defending residency challenges may improve voter and donor perceptions.  
-• He’s a former state Cabinet secretary with business credentials, possibly giving him name recognition and fundraising ability.  
+Bearish Evidence (against Rodriguez):  
+• 2026-03-08 Local News/Santa Fe New Mexican: Only two GOP candidates cleared the delegate threshold; Rodriguez isn’t named among them.  
+• 2026-03-08 KOB: At the GOP pre-primary convention, Rodriguez won just 39 votes—well below the ~20% threshold—while Gregg Hull (239 votes) and Doug Turner (104) qualified automatically. Rodriguez must now gather ≥8,000 petition signatures by March 17 to get on the ballot.  
+• 2026-03-08 ABQ Journal & Piñon Post: Both confirm Rodriguez’s 39‐vote showing at convention indicates weak party support; historical precedent suggests low-delegate candidates rarely rebound to win the nomination.  
 
-Bearish factors:  
-• No polling data on his standing vs. other GOP contenders; Ballotpedia lists multiple candidates, suggesting vote splits.  
-• New Mexico Republicans are a smaller base in a blue-lean state; primary turnout dynamics are uncertain.  
-• No endorsements or fundraising figures in the research to signal front-runner status.
+Bullish Evidence (for Rodriguez):  
+• 2026-03-04 Yahoo Finance: Rodriguez prevailed in two lawsuits, securing his place on the ballot and clearing legal challenges around residency and petition access. This vindicates his campaign’s organizational strength and keeps him in play.  
 
-Quality & recency: All court-case articles are from late February 2026 and credible (local press). Ballotpedia is a standard reference but has no direct projections.
+Source Credibility & Recency  
+All items are dated March 4–8, 2026, from local New Mexico news outlets and a candidate press release. Convention vote totals from multiple independent sources (Santa Fe New Mexican, KOB, ABQ Journal, Piñon Post) are highly credible and consistent. The Yahoo piece is a campaign‐issued summary of court rulings; it’s relevant but less informative on electability than delegate‐vote data.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 17.5% probability could reflect:  
-• Market consensus that he’s one of several viable candidates but not the clear frontrunner.  
-• Staleness: traders priced in pre-court risk and have only partially updated.  
-• Low volume indicates either consensus among the few active traders or lack of attention by those with deeper intel.
+A 21% price implies Rodriguez has roughly one‐in‐five odds. One could justify this if traders believe he’ll (a) overcome signature hurdles, (b) surge with outsider appeal, or (c) benefit from unforeseen candidate dropouts or scandals. However, with only 39 convention votes and no public polling showing momentum, the market likely overweights his ballot‐access victory and underweights delegate setbacks. Low volume (≈$4.5k) plus a tight spread suggests few active traders—perhaps one overconfident supporter is propping up the price.
 
 4. MISPRICING ASSESSMENT  
-There’s no solid public polling or endorsement news unpriced here. The main new info—the dismissal of legal challenges—likely caused a modest upward revision, but without concrete polling, it’s unclear if 17.5% is too low. No evidence of a large (>20¢) gap.
+Given consistent, recent delegate data showing Rodriguez as a distant third, a 21% win probability seems generous. No evidence suggests a near-term reversal of his weak standing. The courts did not boost his vote share, only his eligibility. Unless traders anticipate an improbable post-convention surge or mass dropout of frontrunners, the 21¢ price tag is likely too high.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20% (legal wins help but no polling)  
-Magnitude of mispricing: 5¢ (sizeable but not large)  
-Expected value = 20% × 5¢ = 1¢
+Strength of evidence: 70% (multiple consistent, credible reports of low delegate support)  
+Estimated mispricing magnitude: 16 cents (true win odds closer to ~5%)  
+Expected value = 0.70 × 16¢ = 11.2¢
 
-EXPECTED_VALUE: 1  
-SUMMARY: Duke Rodriguez cleared all legal challenges by late February, removing a key uncertainty. However, absence of any polling or endorsement data and the presence of multiple GOP contenders mean 17.5% remains plausible and no clear mispricing emerges.  
-CONFIDENCE: low
+EXPECTED_VALUE: 11.2  
+SUMMARY: Multiple independent reports show Duke Rodriguez garnered only 39 delegate votes—far below the 20% threshold—and historical precedent suggests minimal rebound chances. His petition victory kept him on the ballot but does little to close the gap on front‐runners, making the 21% price likely too high.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,48 +53,36 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: GOP governor candidate Duke Rodriguez faces court challenges | Local News | santafenewmexican.com
-Author: Nicholas Gilmore ngilmore@sfnewmexican.com
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://santafenewmexican.com/news/local_news/gop-governor-candidate-duke-rodriguez-faces-court-challenges/article_45cbc7ba-7bc8-41a0-bd4e-d8e0bb72c969.html
-Summary: Duke Rodriguez, a GOP candidate for the New Mexico governor's race, is currently facing multiple court challenges that could impact his campaign. These legal issues may affect his viability as a candidate in the upcoming 2026 Republican primary election. Factors such as public perception, the outcomes of these court cases, and his ability to navigate the political landscape will be crucial in determining his chances of winning the primary. Additionally, the dynamics within the Republican party and the overall political climate in New Mexico leading up to the election will also play significant roles in his potential success.
+Title: Only two GOP governor candidates clear ballot threshold at convention | Local News | santafenewmexican.com
+Author: Nathan Brown nbrown@sfnewmexican.com
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.santafenewmexican.com/news/local_news/only-two-gop-governor-candidates-garner-enough-support-to-make-primary-ballot/article_0da0109b-7d8b-4ecc-a846-82ac72a13ca7.html
+Summary: The article reports that only two GOP gubernatorial candidates have secured enough support at the recent convention to clear the ballot threshold for the upcoming New Mexico Republican primary. While it highlights the current standings and support levels of these candidates, it does not specifically mention Duke Rodriguez or provide detailed insights into his campaign status or prospects. Therefore, predicting whether Duke Rodriguez will win the 2026 Republican primary requires additional information about his campaign momentum, delegate support, and overall political landscape in New Mexico.
 
-Title: Attorney: Judge rules gubernatorial candidate Rodriguez may remain on Republican primary ballot | Elections | santafenewmexican.com
-Author: Daniel J. Chacón dchacon@sfnewmexican.com
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.santafenewmexican.com/news/elections/attorney-judge-rules-duke-rodriguez-qualified-to-be-on-the-ballot/article_799dda33-ee5a-42bd-ba4f-d1f441646c58.html
-Summary: I am sorry, but I am unable to answer the question. The provided text is just a webpage with links to different sections of the Santa Fe New Mexican website. There is no information about Duke Rodriguez or the 2026 New Mexico Governor Republican primary election.
+Title: Candidate Duke Rodriguez Defeats Two Lawsuits Attempting to Remove Him from Ballot
+Author: Run With Duke      Wed, March 4, 2026 at 4:17 PM GMT+1   3 min read
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://finance.yahoo.com/news/candidate-duke-rodriguez-defeats-two-151700428.html
+Summary: Duke Rodriguez has successfully defended his place on the 2026 New Mexico Republican primary ballot by winning two legal cases that challenged his candidacy, specifically regarding residency and ballot access qualifications. The courts dismissed both lawsuits, citing procedural issues and emphasizing that voters, not judges, should decide the election. With these legal hurdles cleared, Rodriguez is positioned to appear on the primary ballot and campaign on issues such as crime, healthcare, immigration, and economic development. His recent courtroom victories suggest he has a strong chance to compete effectively in the primary, though the outcome will ultimately depend on voter support.
 
+Title: New Mexico GOP selects candidates for primary ballot - KOB.com
+Author: Robert Towne
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.kob.com/new-mexico/new-mexico-gop-selects-candidates-for-primary-ballot/
+Summary: Duke Rodriguez participated in the New Mexico GOP pre-primary convention and received 39 votes, which was insufficient to qualify for the primary ballot based on delegate votes. However, he claims to have over 8,000 signatures, which, under state law, could allow him to appear on the ballot if he files the necessary paperwork by March 17. The leading candidates for governor are Greggory D. Hull with 239 votes and Doug W. Turner with 104 votes, both of whom qualified for the primary ballot. Given the current delegate results and the signature route, Rodriguez's chances depend on his ability to meet ballot qualification requirements and his campaign's support compared to the frontrunners.
 
-Title: Duke Rodriguez weathers another court challenge, as judge dismisses lawsuit filed by GOP rival
-Author: Dan Boyd 
-                     Dan 
-                     Boyd
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.abqjournal.com/news/duke-rodriguez-weathers-another-court-challenge-as-judge-dismisses-lawsuit-filed-by-gop-rival/2990649
-Summary: Duke Rodriguez has successfully navigated legal challenges regarding his eligibility to run for governor, as a judge recently dismissed a lawsuit questioning his residency requirements under the state Constitution. This ruling allows him to remain on the ballot for the upcoming June primary election. The lawsuit was filed by James Ellison, a fellow Republican candidate, who failed to meet procedural deadlines for the challenge. Rodriguez, a former state Cabinet secretary and current CEO of a major medical cannabis company, has positioned himself as a political outsider and has faced scrutiny over his residency, having lived in both New Mexico and Arizona. His ability to overcome these legal hurdles may bolster his campaign, but ongoing questions about his eligibility could impact voter perception. As he continues to campaign, his success will depend on how effectively he addresses these concerns and connects with Republican voters in New Mexico.
+Title: Rio Rancho mayor Gregg Hull wins GOP pre-primary backing in New Mexico governor race
+Author: Algernon D’Ammassa 
+                     Algernon 
+                     D’Ammassa
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.abqjournal.com/news/rio-rancho-mayor-favorite-for-governor-at-gop-pre-primary-convention/2996066
+Summary: The recent Republican pre-primary convention in New Mexico saw Gregg Hull, the Mayor of Rio Rancho, secure strong delegate support for the gubernatorial race, with other candidates like Doug Turner and Duke Rodriguez also vying for the nomination. Hull received 239 votes, indicating significant backing among delegates. Rodriguez, who has faced legal challenges regarding residency requirements and questioned the convention's process, secured 39 votes. While Rodriguez remains a contender for the 2024 primary, his recent legal issues and the convention's results suggest he may face challenges in securing the nomination. Given the current political landscape and his recent hurdles, predicting his success in the 2026 Republican primary is uncertain, but his recent performance indicates he is a notable figure within the party.
 
-Title: Judge dismisses second complaint against GOP gov. candidate Duke Rodriguez | Local News | santafenewmexican.com
-Author: Daniel J. Chacón dchacon@sfnewmexican.com
-Published Date: 2026-02-27T00:00:00.000Z
-URL: http://santafenewmexican.com/news/local_news/judge-dismisses-second-complaint-against-gop-gov-candidate-duke-rodriguez/article_ccf85de5-4260-4812-9294-96ed5110376b.html
-Summary: I am sorry, but this webpage does not contain any information that would be helpful in predicting whether Duke Rodriguez will win the 2026 New Mexico Governor Republican primary election. The article only states that a judge dismissed a second complaint against him.
-
-
-Title: New Mexico gubernatorial and lieutenant gubernatorial election, 2026
-URL: https://ballotpedia.org/New_Mexico_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The webpage on the 2026 New Mexico gubernatorial and lieutenant gubernatorial election provides an overview of the upcoming election, including details about the candidates, election dates, and relevant political context. While it does not specifically mention Duke Rodriguez or provide direct predictions regarding his chances in the Republican primary, several factors can be considered for predicting his potential success:
-
-1. **Candidate Landscape**: The webpage may include information about other candidates running in the Republican primary, which can influence Rodriguez's chances. Understanding the strengths and weaknesses of his opponents is crucial.
-
-2. **Political Climate**: The current political environment in New Mexico, including voter sentiment and key issues, will play a significant role in the primary outcome. Analyzing recent polls or trends in voter preferences could provide insights.
-
-3. **Party Support**: The level of support Rodriguez receives from the Republican Party and influential party figures can impact his campaign's viability. Endorsements and funding are critical components.
-
-4. **Campaign Strategy**: Rodriguez's campaign strategy, including messaging, outreach efforts, and engagement with key voter demographics, will be essential in determining his success.
-
-5. **Historical Context**: Reviewing past Republican primary results in New Mexico may offer context for Rodriguez's potential performance, including voter turnout and demographic shifts.
-
-For a more detailed analysis, consider checking the latest updates on candidate announcements, polling data, and political commentary leading up to the primary election.
+Title: Only two make the cut: GOP delegates narrow gov’s race ahead of June primary
+Author: Piñon Post
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://pinonpost.com/only-two-make-the-cut-gop-delegates-narrow-govs-race-ahead-of-june-primary/
+Summary: The recent New Mexico GOP pre-primary convention indicates that Duke Rodriguez, who received only 39 delegate votes and did not meet the 20% support threshold to automatically qualify for the June primary ballot, faces significant challenges in securing a spot in the 2026 Republican gubernatorial primary. While some candidates can still pursue ballot access through petition signatures, Rodriguez's low delegate support suggests he may have limited momentum. Historically, candidates with minimal delegate backing at early conventions often struggle to gain traction in subsequent primaries, making it unlikely that Rodriguez will win the 2026 Republican primary for governor without substantial additional support or campaign efforts.
 
 

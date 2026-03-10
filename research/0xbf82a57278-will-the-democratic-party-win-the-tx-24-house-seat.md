@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the TX-24 House seat?
 
 **Market ID:** 0xbf82a572782390429938d214ca2379b48025a0502e1add9e869493d5537845c4
-**Researched At:** March 1, 2026 at 06:00:42 AM UTC
+**Researched At:** March 10, 2026 at 04:19:27 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the TX-24 House seat?"
 
 ---
@@ -13,43 +13,41 @@
 
 ### Summary
 
-TX-24 was redrawn into a solid Republican district and the incumbent Democrat chose to run elsewhere, justifying a low ~17.5% Dem chance. Outlier Democratic overperformance in other Texas races is interesting but not specific enough to suggest a large mispricing.
+Current research—strong Dem primary performance but no general-election polling and long-standing GOP lean—provides no clear contradiction of a 15.5% Dem win probability. Thus the market appears reasonably priced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Democratic Party will win the U.S. House seat for Texas’s 24th Congressional District in November 2026. A “YES” resolves if the Democratic‐affiliated candidate (ballot‐listed or caucus‐aligned) is declared the winner by credible reporting or official FEC results; “NO” if a Republican (or non-Democrat caucusing Republican) wins.
+The market asks whether the Democratic Party will win TX-24’s U.S. House seat on Nov 4, 2026. A YES resolution requires the Democratic nominee to prevail in the general election; NO if a Republican (or non-D/R caucusing member) wins.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (Dem win >17.5%):  
-• NBC News (2026-02-02): Democrat Taylor Rehmet won a deep-red Texas state Senate district by 14 points in a seat Trump won by 17 in 2024, signaling shifting voter sentiment in formerly safe GOP areas. This suggests that Republican map advantages may be weakening. Credible source, recent.  
-• Broader national trend: Democrats outperforming in recent gubernatorial races (NJ, VA) may portend coattail effects and increased turnout that could lift Dems in red-leaning districts.  
+Bullish for Democrats:  
+• NBC News (2026-03-03) primary returns show three Dem candidates splitting ~100% of reported primary votes and projected runoff leader Kevin Burge at ~48%, indicating healthy Dem turnout and contest.  
+• Jim Ellis (2026-02-24) notes redistricting and candidate quality (Colin Allred) could tilt TX-24 toward Democrats.  
 
-Bearish evidence (supporting ≤17.5%):  
-• Jim Ellis (2026-02-24): Redistricting has made the 24th District strongly Republican, and the incumbent Democrat (Julie Johnson) opted to run elsewhere (TX-33), leaving no incumbent Democrat. Polls and maps indicate TX-24 now favors Republicans heavily. Credible political analyst.  
-• Sabato’s Crystal Ball (2026-02-26): Highlights competitive primaries but underscores one-party dominance in many Texas districts; no sign that TX-24 has flipped to lean Democratic. Trusted source.  
+Bearish for Democrats:  
+• NYT’s overview (2026-02-24) lists TX-24 as not a tossup—most data aggregate TX shows Dems unlikely to flip the seat given historical GOP lean.  
+• No general-election polling for TX-24; Republicans still favored in a low-turnout, midterm environment.  
 
-Evidence gaps/efficiency:  
-• No direct public polling on the TX-24 general election. Traders appear pricing off new PVI and open‐seat disadvantage.  
-• Low volume indicates few participants; the 17.5% price plausibly reflects the district’s redrawn lean rather than deep debate over special factors.
+Credibility & Recency: All sources are credible and from late Feb–early Mar 2026. However, no direct general-election polls exist. Primary strength doesn’t directly translate to general success in a GOP-leaning midterm district.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 17.5% probability matches a rough R+10 to R+12 lean with typical partisan model (implying a 15–20% Dem chance).  
-• The tight spread suggests one or two informed traders set price, not broad activity—but their view aligns with redistricting data.  
-• The market’s low volume likely stems from an uncontroversial forecast: it’s a solid Republican seat post-redistricting, so few incentives to trade.
+• A 15.5% probability could reflect consensus that TX-24 remains safely Republican despite a competitive Dem primary.  
+• Low volume suggests few traders; but given the lack of contrary general-election data, 15.5% may simply mirror public polling inertia and historical partisanship.  
+• Informed traders may see no actionable edge until general polls emerge.
 
 4. MISPRICING ASSESSMENT  
-• Bullish signals from outlier state Senate flips hint Democrats might overperform, but those are one-off and not clearly predictive for this specific district.  
-• No candidate announcements or unique local factors in TX-24 emerged that would flip the race beyond the price’s built-in 17.5% “long shot.”  
-• Without direct general‐election polling, and given credible redistricting analysis, there’s no clear, specific evidence that informed traders have overlooked.
+• No strong evidence that a >20 cent mispricing exists; bullish signals (primary) are weak proxies for general-election outcome.  
+• The market likely incorporates known redistricting effects and historical voting patterns.  
+• We lack any direct contrarian, credible data that is not already reflected in the price.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (weak direct support for mispricing)  
-• Magnitude of mispricing: 5 ¢ (if we assume market should be ~20–25%)  
-• Expected value = 0.20 × 5 ¢ = 1 ¢
+Strength of evidence that price is wrong: ~20%  
+Plausible mispricing magnitude: ~5 cents  
+Expected value = 20% × 5 cents = 1 cent
 
-EXPECTED_VALUE: 1  
-SUMMARY: TX-24 was redrawn into a solid Republican district and the incumbent Democrat chose to run elsewhere, justifying a low ~17.5% Dem chance. Outlier Democratic overperformance in other Texas races is interesting but not specific enough to suggest a large mispricing.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: Current research—strong Dem primary performance but no general-election polling and long-standing GOP lean—provides no clear contradiction of a 15.5% Dem win probability. Thus the market appears reasonably priced.  
 CONFIDENCE: low
 
 ---
@@ -58,48 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Jasmine Crockett's Chances of Beating James Talarico Days Before ...
-Published Date: 2026-02-27T06:00:24.451Z
-URL: https://www.newsweek.com/jasmine-crocketts-chances-of-beating-james-talarico-days-before-primary-11594126
-Summary: The article discusses the upcoming Democratic primary in Texas, where Representative Jasmine Crockett is set to compete against state Representative James Talarico. This primary is significant as it could influence the Democratic Party's chances in the TX-24 House seat during the November midterms. The race has been marked by contention, reflecting the broader challenges and dynamics within Texas politics as Democrats aim to make gains in a traditionally Republican stronghold. Factors such as voter turnout, campaign strategies, and public sentiment towards both candidates will be crucial in predicting the outcome of the primary and, subsequently, the general election for the TX-24 seat.
-
-Title: Crockett leads Talarico by double digits in Texas Senate poll
-Author: Gabby Birenbaum
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.texastribune.org/2026/02/25/texas-senate-poll-crockett-talarico-university-of-texas-paxton-cornyn-hunt-2026/
-Summary: A recent poll indicates that Jasmine Crockett is leading James Talarico by double digits in the Democratic primary for the Texas Senate seat. This strong performance by Crockett could be a positive indicator for the Democratic Party's chances in the upcoming elections, particularly in the TX-24 House seat. Additionally, on the Republican side, Ken Paxton and John Cornyn are closely matched, suggesting a competitive landscape that could influence voter turnout and party dynamics. The outcome of the primary could significantly impact the Democratic Party's strategy and prospects in the TX-24 race.
-
-Title: Democratic victory in deep-red Texas district casts a pall over GOP plans to keep the House
+Title: Texas House District 24 Primary Election Live Results 2026 - NBC News
 Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.nbcnews.com/politics/2026-election/democratic-victory-deep-red-texas-district-casts-pall-gop-plans-keep-h-rcna257060
-Summary: The recent victory of Democrat Taylor Rehmet in a historically Republican Texas state Senate district has raised significant concerns for the GOP regarding their hold on the House, particularly in the TX-24 district. Rehmet won by 14 points in a district that Trump had carried by 17 points in 2024, indicating a substantial shift in voter sentiment. This result is part of a broader trend where Democrats have been outperforming Republicans in various elections across the country, including recent gubernatorial races in New Jersey and Virginia.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/texas-us-house-district-24-results
+Summary: The current primary results for Texas House District 24 indicate that the Democratic candidates—Kevin Burge, TJ Ware, and Jon Buchwald—are leading, with Kevin Burge projected to advance to the runoff with approximately 48% of the vote, followed by TJ Ware with 26.1%, and Jon Buchwald with 25.9%. The Republican incumbent, Beth Van Duyne, has not yet received any votes in the reported results. Given the Democratic candidates' strong showing in the primary and the district's voting patterns, there is a potential for the Democratic Party to win the seat in the upcoming general election, especially if the Democratic candidate maintains momentum. However, the final outcome will depend on the general election campaign dynamics, voter turnout, and how the candidates perform in the general election.
 
-Rehmet's win, while largely symbolic since the Legislature is out of session, suggests that the GOP's congressional map, designed to gain additional House seats, may not be as effective as intended. The outcome has prompted questions about the viability of Republican candidates in districts that were previously considered safe. Rehmet's success, despite being outspent by millions, highlights potential vulnerabilities for the GOP in upcoming elections, including the TX-24 House seat.
-
-Overall, the Democratic Party's recent performance in traditionally red areas, combined with shifting voter dynamics, could indicate a more competitive landscape for the TX-24 House seat in the future.
-
-Title: Sabato's Crystal Ball
-Published Date: 2026-02-26T06:00:24.451Z
-URL: https://centerforpolitics.org/crystalball/
-Summary: Sabato's Crystal Ball provides insights into upcoming elections, including the Texas primaries, which are crucial for predicting outcomes in key races like the TX-24 House seat. As of February 2026, the Texas primary season is set to begin, with significant attention on both parties' primaries for the Senate seat currently held by Sen. John Cornyn (R-TX) and various House races. The analysis highlights the competitive landscape in Texas, where incumbents may face challenges in their primaries, potentially impacting the Democratic Party's chances in TX-24.
-
-Additionally, the site notes a broader trend of one-party dominance in many states, which could influence voter sentiment and turnout. Understanding the dynamics of local races, voter registration trends, and the political climate in Texas will be essential for predicting whether the Democratic Party can secure the TX-24 seat. For more detailed analysis and updates, you can visit the [Sabato's Crystal Ball](https://centerforpolitics.org/crystalball/) website.
+Title: Who is Ahead in Texas's 21st Congressional District? - The New York Times
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.nytimes.com/interactive/polls/texas-us-house-21-polls-2026.html
+Summary: The webpage provides an overview of the 2026 Texas House elections, highlighting that Republicans currently hold a narrow majority (218-214) with three vacant seats. Most districts, including TX-24, are not expected to change hands, as only a small number are considered tossups or leaning toward a party. Redistricting efforts and numerous retirements, primarily among Republicans, add uncertainty to the race outcomes. While Democrats face a challenging path to retake the House, their chances depend on holding solid seats, winning leaning districts, and flipping some tossups. For TX-24 specifically, the current data does not indicate a clear advantage for either party, but the district's competitiveness may be influenced by ongoing redistricting and candidate dynamics.
 
 Title: February 24, 2026 – The ELLIS Insight
 Author: Jim Ellis
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.ellisinsight.com/2026/02/24/
-Summary: The article discusses the upcoming Texas primary elections, highlighting potential challenges for incumbents, particularly in the context of the Democratic Party's prospects in the TX-24 House seat. 
+Summary: The webpage discusses the upcoming Texas primaries on March 3, 2026, highlighting potential challenges for incumbents from both parties. Notably, several Democratic incumbents face tough races due to redistricting, with some districts becoming more Republican-leaning. Specifically, in the Dallas-Fort Worth area, Rep. Julie Johnson's district has shifted to favor Republicans, and Colin Allred's decision to run for her seat suggests he has a strong chance of winning the Democratic primary, potentially securing the TX-24 House seat. Overall, the race dynamics, candidate strengths, and redistricting impacts indicate that Democrats may have a favorable chance in TX-24, especially if Allred wins the primary and maintains his name recognition and resources.
 
-Key points relevant to predicting the Democratic Party's chances in TX-24 include:
+Title: Who is Ahead in Texas's 34th Congressional District? - The New York Times
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.nytimes.com/interactive/polls/texas-us-house-34-polls-2026.html
+Summary: The webpage provides detailed polling and candidate information for Texas's 34th Congressional District in 2026, highlighting a competitive race between incumbent Democrat Vicente Gonzalez and Republican challenger Mayra Flores. Gonzalez faces a challenging re-election amid redistricting that has made the district more competitive, with recent polls indicating a significant lead for Flores. While this data pertains specifically to TX-34, it underscores the broader electoral volatility in Texas, especially in districts with recent redistricting and shifting voter dynamics. This context suggests that predicting the Democratic Party's chances in the TX-24 House seat should consider similar factors: redistricting impacts, candidate competitiveness, and recent polling trends in Texas's congressional races.
 
-1. **Incumbent Dynamics**: The current Democratic incumbent, Rep. Julie Johnson, is facing significant challenges due to redistricting that has transformed her district into a Republican-leaning area. This shift may hinder her re-election efforts.
-
-2. **Competition**: Johnson's decision to run in the newly drawn 33rd District, after the retirement of Rep. Marc Veasey, puts her in direct competition with former Rep. Colin Allred, who has strong name recognition and fundraising capabilities. Polling indicates that Allred is favored to win, which could diminish Johnson's chances.
-
-3. **Voter Sentiment**: The article notes that the new district maps and polling suggest a shift in voter sentiment that may not favor Johnson, making it difficult for her to secure a win in the upcoming election.
-
-Overall, the Democratic Party's prospects in the TX-24 House seat appear uncertain, particularly with the competitive landscape and the challenges faced by the incumbent.
+Title: Who is Ahead in Texas's 29th Congressional District? - The New York Times
+Author: 
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.nytimes.com/interactive/polls/texas-us-house-29-polls-2026.html
+Summary: The webpage provides an overview of the 2026 Texas House races, highlighting that Republicans currently hold a narrow majority in the House, with 218 seats compared to Democrats' 214, and three seats vacant. While specific details about the TX-24 district are limited, the overall context indicates that most districts are not highly competitive, with only a small number considered tossups or leaning toward one party. Redistricting efforts and numerous retirements could influence the competitiveness of districts like TX-24. Given the Democrats' narrow margin and the potential for shifts due to redistricting and retirements, the outcome in TX-24 remains uncertain, but it could be a key battleground in the midterm elections.
 
 

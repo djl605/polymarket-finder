@@ -1,7 +1,7 @@
 # Research: U.S. agrees to a new trade deal with "Canada" before 2027?
 
 **Market ID:** 0x81e8f9fd1c08c597b716ea800a97c6d04d60c985a2c388bc6d77a0f85e643df8
-**Researched At:** March 1, 2026 at 06:00:05 AM UTC
+**Researched At:** March 10, 2026 at 04:17:41 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: U.S. agrees to a new trade deal with "Canada" before 2027?"
 
 ---
@@ -13,39 +13,42 @@
 
 ### Summary
 
-Early‐stage talks and review of USMCA without any signed or ratified agreement justify the market’s 20% probability. No credible evidence suggests a sizable mispricing.
+The market’s sub-20% probability aligns with the slow, unresolved nature of US-Canada trade talks, the challenging issues on the table, and the U.S. election calendar—no credible new information suggests a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the U.S. will have enacted a new free‐trade agreement with Canada by Dec 31, 2026 (either via Senate ratification or Congressional-Executive Agreement). “Yes” requires a negotiated deal, formal signing, and passage into U.S. law before the end of 2026. Absent those steps, it resolves “No.”
+This market asks whether the U.S. will enact a new free-trade agreement with Canada into law by Dec 31, 2026. “Yes” requires a signed agreement that clears Congress (either via Senate ratification or a Congressional-Executive Agreement). Anything short of that—mere announcements, incomplete talks, or preserving the existing USMCA without a new treaty—resolves to “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (supports current 20%):  
-- All reporting (Reuters 2/25, BNNBloomberg 2/26) indicates only initial meetings and reviews of USMCA, not a full renegotiation or new agreement.  
-- Political timelines: even if talks start now, negotiating, drafting, Senate debate, potential amendments and votes could easily push past year-end.  
-- CUSMA only expires in 2036; the U.S. may prefer addressing targeted issues without a wholesale new deal.  
+Bullish signals (would push price up):  
+- Reuters (Mar 6) and CBC (Mar 6) report that high-level talks have resumed and are deemed “constructive,” indicating political will on both sides to keep USMCA alive and potentially negotiate new terms.  
+- Both sides reportedly prefer preserving trade ties, and the Biden administration has broader geopolitical reasons to avoid tariffs or trade breakdowns with Canada.  
 
-Bullish evidence (could push probability higher):  
-- Canadian opposition leader Poilievre’s call (2/26) for an all-party working group signals Canadian political momentum for an expeditious follow-up deal.  
-- U.S. Trade Rep Greer (2/25) says the U.S. is open to Canadian proposals and faces a July 1 deadline to notify Congress of any USMCA changes—this creates a narrow window to wrap up a deal this year.  
-- TD Economics Q&A (2/12) notes strong economic fundamentals in both countries and geopolitical incentives to shore up supply chains.  
+Bearish signals (support low price ~20%):  
+- Talks only just resumed mid-March, and core disputes (dairy, wine, spirits, steel/aluminum tariffs) remain unresolved.  
+- No draft text, no official timeline for conclusion, and U.S. negotiators characterize issues with Canada as more challenging than with Mexico.  
+- Even if headway is made, Congress must pass new legislation in a presidential election year, which typically slows trade-deal approvals.  
 
-Credibility and recency: All sources are highly credible, dated late February 2026. None report formal agreement text or congressional action.  
+Source credibility and recency: Reuters, CBC, and Yahoo Finance/BBC are all current, reputable outlets reporting as of Mar 6, 2026. None indicate a breakthrough or imminent final text.
+
+Skepticism: If resolution were imminent (say >50% odds), we’d see leaked drafts or formal negotiating schedules beyond mere “continuation of talks.” No such signals exist.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 20% price reasonably captures the early‐stage nature of talks, significant legislative hurdles, and competing political priorities in both capitals. Low volume suggests limited trader engagement, but the tight spread implies at least one informed party or consensus view. There’s no sign that insiders have priced in an imminent deal (else price would be higher).
+- A 19.5% price plausibly reflects informed traders acknowledging the difficulty and typical 12–18-month timeline for comprehensive agreements, plus U.S. election uncertainty.  
+- Low volume could simply mean few traders care to allocate capital when both bullish and bearish narratives are well-known; there’s no obvious information arbitrage.  
+- Alternatively, one or two overconfident traders might have set the price, but without fresh bullish catalysts, others haven’t stepped in to push it materially lower or higher.
 
 4. MISPRICING ASSESSMENT  
-No clear, actionable information appears missing. The articles outline initial talks but no concrete timelines or deal structures. Given the complexity and legislative process, 20% seems appropriate. A larger mispricing (>10¢) would require evidence of an advanced draft or bipartisan U.S. support, which we do not have.
+No specific, credible evidence suggests the market has overlooked a near-term breakthrough. All major outlets report only early-stage talks. Given the complexity and political calendar, ~20% seems reasonable. There’s no red flag (e.g., a signed treaty already delivered, or Congress pre-clearing legislation) that the market has missed.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that there is mispricing: 10% (insufficient to upend price)  
-Magnitude of potential mispricing: 0¢ (none identified)  
-Expected value = 10% × 0¢ = 0¢  
+- Strength of evidence that price is correct (i.e., minimal mispricing): 80%  
+- Magnitude of potential mispricing: effectively 0¢ (no clear edge)  
+- Expected value ≈ 80% × 0¢ = 0¢
 
 EXPECTED_VALUE: 0  
-SUMMARY: Early‐stage talks and review of USMCA without any signed or ratified agreement justify the market’s 20% probability. No credible evidence suggests a sizable mispricing.  
+SUMMARY: The market’s sub-20% probability aligns with the slow, unresolved nature of US-Canada trade talks, the challenging issues on the table, and the U.S. election calendar—no credible new information suggests a significant mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -54,49 +57,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Poilievre calls for all-party working group on renewing trade deal with U.S. | Politics | thecanadianpressnews.ca
-Author: Sarah Ritchie The Canadian Press
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.thecanadianpressnews.ca/politics/poilievre-calls-for-all-party-working-group-on-renewing-trade-deal-with-u-s/article_736bc867-4a1a-58f5-8706-801741c17821.html
-Summary: Pierre Poilievre, the leader of the Conservative Party of Canada, has called for the establishment of an all-party working group aimed at renewing the trade deal with the United States. This initiative reflects a growing concern over the current trade dynamics and aims to foster bipartisan cooperation to enhance Canada's trade relationship with the U.S. As the political landscape evolves, this working group could play a crucial role in shaping future negotiations and agreements, potentially influencing whether a new trade deal is reached before 2027. The outcome of these discussions may significantly impact Canada's economic strategy and trade policies moving forward.
-
-Title: US, Canada to meet in coming weeks on trade, Greer says | Reuters
-Author: Susan Heavey
-Published Date: 2026-02-25T00:00:00.000Z
-URL: http://reuters.com/business/autos-transportation/us-canada-meet-coming-weeks-trade-greer-says-2026-02-25/
-Summary: U.S. Trade Representative Jamieson Greer announced that U.S. and Canadian trade officials are planning to meet in Washington, D.C., in the coming weeks to discuss potential trade agreements. Greer indicated that the U.S. is open to Canadian proposals for addressing existing gaps in the United States-Mexico-Canada Agreement (USMCA). Recent tensions over trade issues have prompted these discussions, with the Trump administration reviewing the USMCA and facing a deadline to notify Congress about any changes by July 1. The U.S. is particularly focused on reshoring production and preventing Canada from being used as a conduit for Chinese goods. The outcome of these upcoming meetings could significantly influence the likelihood of a new trade deal between the U.S. and Canada before 2027.
-
-Title: CUSMA review: LeBlanc to meet U.S. officials next week
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.bnnbloomberg.ca/business/politics/2026/02/26/canada-says-private-government-conversations-on-cusma-pact-are-not-discouraging/
-Summary: Canada's Trade Minister Dominic LeBlanc is set to meet with U.S. officials next week to discuss the Canada-United States-Mexico Agreement (CUSMA). LeBlanc expressed optimism about the potential for renewing the agreement, which does not expire until 2036, emphasizing that the upcoming discussions are not a renegotiation but rather a review. He anticipates more specific proposals from the U.S. administration, indicating a willingness to collaborate on trade matters. This context suggests that while a new trade deal before 2027 is not guaranteed, there is a proactive approach from Canada to engage with the U.S. on trade issues, which could influence future agreements.
-
-Title: Explainer: What are prediction markets? - Canadian Affairs
+Title: Explainer: What are prediction markets?
 Author: Sam Forster
-Published Date: 2026-01-28T00:00:00.000Z
 URL: https://www.canadianaffairs.news/2026/01/28/explainer-what-are-prediction-markets/
-Summary: Prediction markets are online platforms where users can trade contracts based on the likelihood of specific events occurring, such as the U.S. agreeing to a new trade deal with Canada before 2027. These markets operate on a "yes-or-no" basis, allowing participants to bet on the outcome of future events. The growing popularity of prediction markets stems from their ability to aggregate diverse opinions and insights, potentially offering valuable forecasts on political and economic developments.
+Summary: Prediction markets are online platforms where users trade contracts based on whether specific events will occur, such as a trade deal between the U.S. and Canada before 2027. These markets aggregate diverse opinions and information, reflecting the collective belief in the likelihood of an event—e.g., a contract trading at $0.80 suggests an 80% chance of the event happening. They are considered potentially more accurate than polls because they continuously update with new information. However, concerns include insider trading and market manipulation, especially in thinly traded markets, which could distort predictions. Understanding how prediction markets operate can help assess the probability of the U.S. and Canada reaching a trade agreement before 2027.
 
-In the context of your query about a U.S.-Canada trade deal, monitoring prediction markets could provide insights into the likelihood of such an agreement being reached before 2027. Factors influencing these predictions may include current trade relations, economic conditions, and political climates in both countries. As these markets evolve, they may serve as a useful tool for gauging public sentiment and expert opinions regarding future trade negotiations. 
+Title: Canada calls discussions with US on USMCA 'constructive' | Reuters
+Author: Promit Mukherjee
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.reuters.com/business/canadian-minister-us-canada-trade-meet-us-trade-chief-washington-2026-03-06/
+Summary: Canada and the U.S. are engaging in constructive discussions regarding the review of the USMCA trade agreement, with plans to continue negotiations and further talks in the coming days. While the review process is underway, U.S. negotiators have indicated that negotiations with Canada are more challenging due to unresolved issues such as dairy, wine, and spirits market restrictions. The U.S. has already initiated the review process with Mexico, and bilateral discussions with Canada are scheduled to begin around March 16. There is no indication yet that the U.S. will finalize a new trade deal with Canada before 2027, as negotiations are ongoing and complex issues remain unresolved.
 
-For more detailed analysis and updates on prediction markets, you can refer to the full article [here](https://www.canadianaffairs.news/2026/01/28/explainer-what-are-prediction-markets/).
+Title: Canada-U.S. trade talks have restarted. Here's what's at stake | CBC News
+Author: Mike Crawley    ·  CBC News    ·  Posted: Mar 06, 2026 4:00 AM EST | Last Updated: March 6
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.cbc.ca/news/politics/trump-tariffs-trade-canada-us-cusma-usmca-leblanc-greer-9.7116887
+Summary: The recent restart of Canada-U.S. trade negotiations, including face-to-face talks between Canadian Trade Minister Dominic LeBlanc and U.S. Trade Representative Jamieson Greer, signals a potential shift toward resolving ongoing trade disputes. Despite ongoing U.S. tariffs on Canadian steel, aluminum, and other sectors, the renewed dialogue is viewed as a positive development. The talks are occurring amid threats from the U.S. to impose new tariffs, break up the existing CUSMA agreement into separate deals, or terminate it altogether, which could jeopardize Canadian exports. The current negotiations are also intertwined with efforts to address tariffs and renegotiate key provisions of CUSMA, including access to Canada's dairy market and rules on Canadian content for streaming platforms. While the U.S. has shown willingness to negotiate, significant hurdles remain, and the outcome before 2027 depends on whether the U.S. is prepared to make concessions and reach a comprehensive agreement that addresses Canada's core concerns.
 
-Title: Questions? We've Got Answers - TD Economics
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://economics.td.com/ca-questions-answers
-Summary: The TD Economics Q&A discusses various economic issues impacting the U.S. and Canadian economies, which could be relevant for predicting the likelihood of a new U.S.-Canada trade deal before 2027. Key points include:
+Title: Canada and US resume trade talks after months-long pause
+Author: Nadine Yousif - Senior Canada reporter      Fri, March 6, 2026 at 12:25 PM EST   4 min read
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://finance.yahoo.com/news/canada-us-resume-trade-talks-172538461.html
+Summary: Canada and the U.S. have resumed high-level trade discussions after a months-long pause, focusing on the USMCA (US-Mexico-Canada Agreement). The talks, led by Canadian Minister Dominic LeBlanc and U.S. Trade Representative Jamieson Greer, aim to address issues related to the agreement's review and ongoing sector-specific tariffs, particularly on steel, aluminum, and automobiles. While some tariffs are expected to remain regardless of the review's outcome, both countries express a desire to preserve the USMCA, which is crucial for Canada's auto industry and trade relations. The U.S. has previously considered scrapping or renegotiating the USMCA, but both Canada and Mexico favor maintaining it. The ongoing discussions suggest a possibility of a new or revised trade deal before 2027, especially if negotiations on tariffs and sector-specific issues are resolved positively.
 
-1. **CUSMA Review**: The upcoming review of the Canada-United States-Mexico Agreement (CUSMA) is a significant factor. Negotiations and outcomes from this review could influence future trade agreements.
-
-2. **U.S. Tariffs**: Canada is adjusting to existing U.S. tariffs, which may affect the dynamics of trade negotiations. The economic impact of these tariffs on Canadian exports could motivate the U.S. to seek a new deal.
-
-3. **Economic Strength**: Both economies are showing surprising strength, which might create a favorable environment for negotiations. A robust economic outlook could incentivize both countries to solidify trade relations.
-
-4. **Housing Market and Consumer Impacts**: The state of the housing market and consumer behavior in both countries could also play a role in shaping trade discussions, especially if housing affordability initiatives are considered.
-
-5. **Geopolitical Factors**: Ongoing geopolitical tensions and trade dynamics, including the U.S. dollar's performance and investor sentiment, could influence the urgency and terms of a new trade agreement.
-
-Overall, the interplay of these factors suggests that while a new trade deal is possible, it will depend on the outcomes of current negotiations, economic conditions, and geopolitical developments leading up to 2027.
+Title: Canada and US resume trade talks after months-long pause
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: http://www.bbc.com/news/articles/cvg50j7y2l3o
+Summary: The article reports that Canada and the U.S. have resumed high-level trade talks after a months-long pause, focusing on the USMCA (United States-Mexico-Canada Agreement). The negotiations were previously halted in October over disputes related to tariffs and trade policies, particularly concerning sector-specific tariffs on Canadian steel, aluminum, and automobiles. While both countries aim to preserve the USMCA, some tariffs are expected to remain regardless of the review outcome. U.S. and Mexican officials are also engaging in bilateral discussions on the agreement. The resumption of talks indicates ongoing efforts to maintain and potentially renegotiate trade relations, with key issues including tariffs, the future of USMCA, and sector-specific trade concerns. This context suggests that any future U.S.-Canada trade deal before 2027 would depend on the outcomes of these ongoing negotiations and the willingness of both governments to reach new agreements or modifications.
 
 

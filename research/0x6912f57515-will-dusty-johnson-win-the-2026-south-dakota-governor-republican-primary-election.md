@@ -1,59 +1,59 @@
 # Research: Will Dusty Johnson win the 2026 South Dakota Governor Republican primary election?
 
 **Market ID:** 0x6912f57515190db649735f6d70f004291335136da50ea181632f6d5e6f89a0d4
-**Researched At:** March 1, 2026 at 06:09:33 AM UTC
+**Researched At:** March 10, 2026 at 04:18:14 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Dusty Johnson win the 2026 South Dakota Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-The market’s 41.5% probability aligns closely with recent, credible Race Lab simulations (41–44%) and there’s no specific new evidence suggesting a significant mispricing. Low volume appears due to niche interest, not conflicting data.
+Available polling (28% for Johnson, 20% undecided) and campaign‐strength indicators neither strongly undercut nor justify a large divergence from the 39.5% market price. No clear, credible data is missing that would support a large (>20 ¢) mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Dusty Johnson win the 2026 South Dakota Republican gubernatorial primary on June 2, 2026?” A YES resolution requires Johnson to be the overall primary winner (including any runoff). A NO resolution would occur if any other candidate wins or if no primary occurs (resolves to “Other”).
+The market asks: “Will Dusty Johnson win the June 2, 2026 South Dakota Republican gubernatorial primary?” YES if he is the overall primary winner (including any run-off), NO otherwise (or if no primary occurs).  
 
 2. EVIDENCE EVALUATION  
-Bullish on Johnson (supports a higher price than 41.5%):  
-• 2025 poll (Apr 28 2025): Johnson led narrowly with 28% vs. Rhoden 27% and 20% undecided; strong war chest ($5.9 M) and name recognition.  
-• Fundraising edge: As of early 2026, Johnson has raised roughly $1.6 M vs. Rhoden’s ~$491 K, giving Johnson greater outreach capacity.  
-• Ballotpedia analysis (Feb 18 2026): Emphasizes Johnson’s national profile and state GOP lean, suggesting a strong underlying baseline for Johnson.  
+Bullish (supports >39.5%):  
+• Early poll (Nov ’25) had Johnson at 28% vs. Rhoden 27% with 20% undecided → he’s a top contender and could pick up undecideds.  
+• His strong community engagement and clear policy platform (Rapid City Post) may boost name ID and turnout.  
+• Rhoden hasn’t formally declared—some poll share may shift to Johnson if Rhoden declines or other entrants underperform.  
 
-Bearish on Johnson (supports a lower price or in‐line with 41.5%):  
-• Race Lab simulations (Feb 4 2026): Assign Rhoden a 54–58% win probability and Johnson 41–44%, precisely matching the market’s 41.5%. This is the most recent and quantitative modeling.  
-• Incumbency advantage: Rhoden as sitting governor may sway GOP primary voters despite fundraising differences.  
-• Crowded field: Even if two main contenders, the presence of minor candidates means Johnson may struggle to clear 35% to win outright and might face a runoff.  
+Bearish (supports <39.5%):  
+• That same poll shows Johnson at only 28%, far below 39.5%; undecided voters could break against him.  
+• Other candidates (Doeden, Hansen) have rising support, and primaries are volatile.  
+• No new polls since Nov ’25—Johnson’s standing may have slipped or consolidated against him.  
 
-Credibility and Recency:  
-• The Race Lab simulation is from Feb 2026—highly relevant and methodologically transparent.  
-• The poll is older (Apr 2025) but illustrates the early competitiveness; however, many voters were undecided then.  
-• Finance reports (Feb 2026) are firm but primarily explain resources, not vote shares.  
+Source credibility/recency:  
+• The Nov ’25 poll is credible local media but now four months old.  
+• Gambit report offers no SD-governor specifics.  
+• Other articles discuss strategy or engagement, not vote shares.  
 
-None of the research points to a material edge for Johnson that the market hasn’t priced. In particular, the Feb 2026 simulation aligns almost exactly with the 41.5% probability.
+No evidence strongly contradicts the market price; nor is there a new poll or insider intel that would demand a >20-point correction.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The market’s 41.5% matches the most recent, credible Race Lab simulations (41–44%).  
-• Low volume may reflect a niche state‐level primary that few traders care about rather than a lack of information.  
-• It’s plausible that several informed participants (e.g. simulation authors or state politics watchers) have driven the price to this level.  
+• A 39.5% price could reflect Johnson’s leading status plus his ability to consolidate undecideds, internal campaign info, and risk of late entrants.  
+• Zero volume suggests few participants, but the tight spread implies at least one liquidity provider confident in this estimate.  
+• Low volume likely reflects early stage and small market profile rather than a glaring oversight.  
 
 4. MISPRICING ASSESSMENT  
-Given strong concordance between market price and the best available public simulation—and absent any clear driver (e.g. a breaking news event or internal polling)—there is no credible evidence of a mispricing larger than a few cents.  
+Given the age and mixed nature of the evidence, there is no clear, specific information missing that would imply a large mispricing. The market price plausibly incorporates Johnson’s current lead, undecided voters, potential entrants, and campaign strength.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is already correct: ~90%  
-Estimated magnitude of mispricing: ~0 cents  
-Expected value = 90% × 0 cents = 0 cents  
+Strength of evidence for mispricing: 20% (weak, no clear new data)  
+Plausible magnitude of mispricing: 5 ¢  
+Expected value = 0.20 × 5 ¢ = 1 ¢  
 
-EXPECTED_VALUE: 0  
-SUMMARY: The market’s 41.5% probability aligns closely with recent, credible Race Lab simulations (41–44%) and there’s no specific new evidence suggesting a significant mispricing. Low volume appears due to niche interest, not conflicting data.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: Available polling (28% for Johnson, 20% undecided) and campaign‐strength indicators neither strongly undercut nor justify a large divergence from the 39.5% market price. No clear, credible data is missing that would support a large (>20 ¢) mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -61,60 +61,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Poll: Johnson, Rhoden set pace in South Dakota governor's race
-Author: Stu Whitney
-Published Date: 2025-04-28T00:00:00.000Z
-URL: https://www.sdnewswatch.org/poll-dusty-johnson-larry-rhoden-south-dakota-john-thune-kristi-noem/
-Summary: A recent poll indicates that U.S. Rep. Dusty Johnson and incumbent Gov. Larry Rhoden are leading the race for the 2026 South Dakota Republican primary, with Johnson at 28% and Rhoden at 27%. Attorney General Marty Jackley follows with 18%, while 20% of voters remain undecided. Johnson's significant campaign fund of $5.9 million and strong name recognition position him as a major contender. However, he faces challenges from other candidates and potential perceptions of being too moderate. Rhoden, who has a much smaller campaign fund of about $91,000, will need to effectively communicate his vision to compete. The primary requires a candidate to secure 35% of the vote to avoid a runoff, making the undecided voters a critical factor in the outcome. Overall, Johnson's financial backing and established political presence give him an edge, but the crowded field and voter sentiments will play a crucial role in determining the primary winner.
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report primarily focuses on Senate and gubernatorial races, emphasizing that the 2026 midterms are still in early calibration, with primaries just beginning. While the report highlights that the Senate remains structurally tilted toward Republicans and most gubernatorial races are in stable partisan environments, it notes increased uncertainty and volatility in certain races, especially in the Senate, where Democratic pathways are emerging. The methodology has been refined to better account for polling consistency and correlated state movements, which could influence predictions. However, the report does not provide specific insights into individual primary races, including the South Dakota Republican gubernatorial primary featuring Dusty Johnson. Therefore, based on this report, there is no direct information to predict whether Dusty Johnson will win the 2026 South Dakota Republican gubernatorial primary.
 
-Title: New simulations show South Dakota GOP governor race narrowing to two candidates: Race Lab Simulation
-Author: Northern Plains News, LLC
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://northernplainsnews.substack.com/p/new-simulations-show-south-dakota
-Summary: Recent simulations indicate that the South Dakota Republican governor race is narrowing to a contest primarily between Governor Larry Rhoden and Representative Dusty Johnson. According to the latest Race Lab simulations, Rhoden has a win probability of approximately 54-58%, while Johnson stands at 41-44%. Other candidates, Jon Hansen and Toby Doeden, are significantly trailing with minimal chances of winning.
+Title: Recent Poll has Rhoden, Johnson ahead in 2026 Republican primary
+Author: Blake Troli
+URL: https://www.kotatv.com/2025/11/06/recent-poll-has-rhoden-johnson-ahead-2026-republican-primary/
+Summary: The recent poll indicates that Dusty Johnson is currently a leading contender in the 2026 South Dakota Republican primary for governor, closely trailing Governor Larry Rhoden with only a 1% difference (Johnson at 28%, Rhoden at 27%). Support for other potential candidates, Toby Doeden and Jon Hansen, has increased, but Johnson and Rhoden remain the top contenders. Johnson has maintained his support level since spring, while Rhoden has yet to officially declare his candidacy but is considering running. Given the tight race and the presence of undecided voters (around 20%), the outcome remains uncertain, but Johnson's current polling position suggests he has a strong chance of winning the primary.
 
-Key factors influencing the race include campaign finance and governing choices. Rhoden has raised about $491,000 and has a stable financial position with $512,000 cash on hand, but his governing decisions have introduced some exposure. In contrast, Johnson has raised around $1.6 million, providing him with strong campaign flexibility and options for scaling his outreach efforts.
-
-The candidates' approaches to property tax relief have also differentiated them, with Rhoden advocating for a more complex legislative solution and Johnson proposing a straightforward rebate for homeowners. This contrast may resonate with voters looking for immediate solutions.
-
-Overall, while Johnson has a fighting chance, the current simulations suggest that Rhoden remains in a stronger position as the primary approaches.
-
-Title: Ballotpedia Reports: Gubernatorial Races to Watch in 2026
+Title: South Dakota Primary Election Results 2026 : NPR
 Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.digitaljournal.com/pr/news/newsfile/ballotpedia-reports-gubernatorial-races-watch-1457692453.html
-Summary: The 2026 South Dakota gubernatorial race is significant as incumbent Governor Larry Rhoden (R) is facing a challenge from U.S. Representative Dusty Johnson in the Republican primary. Johnson's candidacy is noteworthy given his established political presence and the state's solid Republican leanings, which often dictate that the primary winner is likely to secure the governorship. 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/SD.html
+Summary: The webpage provides the latest available results for South Dakota's 2026 primary elections, including races for governor, U.S. Senate, and U.S. House, but currently, no results have been reported. Since Dusty Johnson is a U.S. Congressman and not a gubernatorial candidate, and the results for the Republican primary are not yet available, there is no specific information on his prospects or the likelihood of him winning the 2026 South Dakota Governor Republican primary. To assess his chances, one would need to consider his current political standing, campaign developments, and voter preferences as the race progresses.
 
-Key factors to consider when predicting Johnson's chances include:
+Title: Campaign season brings decisions about news and propaganda
+Author: Dana Hess
+URL: https://southdakotasearchlight.com/2025/12/27/campaign-season-brings-decisions-about-news-and-propaganda/
+Summary: The article emphasizes the importance of newspaper advertising in upcoming elections, suggesting that candidates who effectively utilize local newspaper ads could outperform expectations. While it discusses statewide races and the potential for surprises in the 2026 election, it does not specify or predict the outcome of Dusty Johnson's chances in the South Dakota Republican primary for governor. Instead, it highlights that well-targeted newspaper campaigns can significantly influence election results by reaching engaged voters who read newspapers and participate in elections.
 
-1. **Incumbent Dynamics**: Rhoden, who became governor in January 2025, may have the advantage of incumbency, but Johnson's national profile as a U.S. Representative could attract significant support.
-
-2. **Voter Sentiment**: South Dakota's political landscape is traditionally Republican, which may favor Johnson, especially if he can mobilize support among party loyalists and capitalize on any dissatisfaction with Rhoden's administration.
-
-3. **Campaign Strategies**: The effectiveness of Johnson's campaign strategy, including fundraising, outreach, and messaging, will be crucial in swaying undecided voters and solidifying his base.
-
-4. **Polling Data**: As the primary approaches, polling data will provide insights into voter preferences and the competitive landscape between Johnson and Rhoden.
-
-5. **Endorsements and Support**: Key endorsements from influential figures or organizations within the Republican Party could significantly impact Johnson's chances.
-
-Overall, while Johnson has a strong chance due to the Republican nature of South Dakota politics, the outcome will depend on various dynamic factors leading up to the primary
-
-Title: Ahlers Joins 2026 South Dakota Governor’s Race
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.kotaradio.com/2026/02/10/ahlers-joins-2026-south-dakota-governors-race/
-Summary: Dan Ahlers, a former state lawmaker and current executive director of the South Dakota Democratic Party, has officially entered the 2026 South Dakota governor's race, emphasizing a focus on problem-solving over partisanship. He will launch his campaign in Sioux Falls and needs to gather 1,232 signatures from registered Democrats by March 31 to qualify for the primary ballot. 
-
-On the Republican side, U.S. Rep. Dusty Johnson is one of four candidates vying for the nomination, alongside Gov. Larry Rhoden, House Speaker Jon Hansen, and businessman Toby Doeden. Each Republican candidate must collect 2,171 signatures by the same deadline. 
-
-To predict Dusty Johnson's chances in the primary, consider factors such as his incumbency as a U.S. Representative, the political landscape in South Dakota, and the dynamics of the Republican voter base. The presence of multiple candidates in the Republican primary could also influence his chances, depending on how votes are split among them.
-
-Title: South Dakota Governor Hopefuls File 2025 Finance Reports | NEWS RADIO KOTA-AM 1380AM/100.7FM
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.kotaradio.com/2026/02/02/2883/
-Summary: The article discusses the recent campaign finance reports filed by candidates for the 2025 South Dakota gubernatorial race. Key figures include Republican House Speaker Jon Hansen, who raised $188,771.98, and incumbent Republican Governor Larry Rhoden, who reported $491,285.87 in contributions, bolstered by support from significant political action committees. In contrast, Democratic candidate Robert Arnold raised only $4,000.36. Notably, Republican U.S. Rep. Dusty Johnson previously reported raising $1.6 million, indicating strong financial backing.
-
-To assess Dusty Johnson's chances in the 2026 Republican primary, consider his substantial fundraising compared to other candidates, which suggests strong support. Additionally, the backing from influential PACs and the overall financial landscape of his competitors could play a crucial role in predicting his success.
+Title: Congressman Dusty Johnson Talks Stock Show, State Vision, and the Path Ahead - The Rapid City Post
+Author: Chris Hornick
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://rapidcitypost.com/congressman-dusty-johnson-talks-stock-show-state-vision-and-the-path-ahead/
+Summary: The article highlights Congressman Dusty Johnson's strong community engagement, particularly at the Black Hills Stock Show, emphasizing his long-standing participation and connection to South Dakota's cultural events. Johnson advocates for strategic long-term planning and leadership to improve the state's economic outlook, criticizing current state leadership for lacking vision. He proposes economic initiatives such as attracting data centers through competitive tax policies, which could generate significant revenue and reduce property taxes. Johnson also supports property tax relief for homeowners, including tax credits and holidays for first-time buyers, aiming to bolster the local economy and address concerns of young residents. Additionally, he emphasizes rural health funding, rodeo and cultural events, and tribal relations, positioning himself as a proactive leader focused on economic growth and community well-being. While these positions demonstrate his commitment to South Dakota's development, the article does not directly address his prospects in the 2026 Republican primary for governor.
 
 

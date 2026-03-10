@@ -1,55 +1,59 @@
 # Research: Will the Democratic Party win the MN-08 House seat?
 
 **Market ID:** 0xf83d984df52349f3b30fc061e888582d411c16bcf8c9710e3d2d3e1c5b075afe
-**Researched At:** March 1, 2026 at 06:02:59 AM UTC
+**Researched At:** March 10, 2026 at 04:17:06 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the MN-08 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-There is no direct polling or candidate‐specific data for MN-08, and most research focuses on MN-01. A vague poll suggests general Democratic momentum, but it’s too unspecific to revise the 19.5% price meaningfully.
+Recent polls hint at Democratic leads in Minnesota and even in MN-08, but lack of district-specific numbers and the seat’s GOP tilt mean the market’s 19% likely already reflects these signals. There’s no clear, sizable mispricing.
 
 ### Full Analysis
 
-CONTEXT ANALYSIS:
-The market asks whether the Democratic Party will win Minnesota’s 8th Congressional District seat in the U.S. House on November 4, 2026. A “Yes” resolution requires the ballot‐listed (or caucus‐declared) winner to be a Democrat; any Republican or other affiliation yields “No.”
+1. CONTEXT ANALYSIS  
+This market asks whether the Democratic Party will win Minnesota’s 8th Congressional District in the November 4, 2026 midterm. A “YES” resolution requires the elected representative to be a Democrat (ballot‐listed or caucus affiliation), while “NO” covers any Republican or third‐party winner.
 
-EVIDENCE EVALUATION:
-Bullish evidence:
-• A February 11 poll (MSN) broadly states Democrats lead GOP rivals in key MN races including MN-08—but offers no margins or methodology, limiting its weight.
-• DCCC’s greater investment in MN (notably targeting MN-01) implies a Democratic push that could create statewide tailwinds benefiting MN-08.
-Bearish evidence:
-• All detailed findings focus on MN-01; no specific polling or incumbency info for MN-08 is provided.
-• Historical context (not in findings but implied by lack of MD-08 focus) suggests MN-08 is not seen as competitive, supporting a low win probability near the market’s 19.5%.
-Source credibility:
-• DCCC announcements and local outlets (MinnPost, KTTC) are reliable for MN politics but do not address MN-08 specifically.
-• The lone MN-08 reference is a secondary news summary with no polling detail.
-Overall, there’s no strong, direct evidence contradicting or greatly supporting the 19.5% price.
+2. EVIDENCE EVALUATION  
+Bullish for Democrats:  
+• MSN poll (2026-02-11) reports Democrats leading in key Minnesota races including MN-08. No margin or methodology details are given, so precision is unknown.  
+• Emerson College statewide poll (2026-02-11) shows a strong Democratic environment in Minnesota and voter disapproval of Republican policies, suggesting tailwinds that could help D-leaning districts.  
 
-MARKET EFFICIENCY ANALYSIS:
-• A 19.5% price plausibly reflects consensus that MN-08 remains a Republican‐leaning district, with only modest Democratic momentum statewide.
-• Low volume and narrow spread suggest either a clear noncompetitive outlook (dissuading trade) or limited trader interest—both consistent with a likely safe GOP seat.
-• Informed traders may view MN-08 as off the competitive map, hence the market sits idle around a low probability.
+Bearish or neutral:  
+• No district‐specific polling numbers or margins for MN-08 are provided; the MSN article doesn’t quantify the lead or sample size.  
+• MN-08 is historically a Republican‐leaning, rural district (current incumbent Pete Stauber, R, reelected in 2024), which isn’t directly addressed by the research.  
+• All other cited materials focus on MN-01 or statewide trends, so their applicability to the unique demographics of MN-08 is limited.  
 
-MISPRICING ASSESSMENT:
-• No specific, credible data on candidate quality, district polling, or demographic shifts in MN-08 is missing from the market price.
-• Indirect signs of Democratic strength in adjacent districts are too weak to justify a >20 cent revision.
-• The most charitable interpretation is that informed traders see minimal path to a Democratic win, consistent with the sub-20% price.
+Source recency and credibility:  
+• All polls are from February 2026, making them recent. Emerson College is a known pollster; the MSN summary lacks detail on sample and error.  
 
-EXPECTED VALUE CALCULATION:
-Strength of evidence that price is mispriced: 20%  
-Potential magnitude of mispricing: 5 cents  
-Expected value = 20% × 5 cents = 1 cent
+3. MARKET EFFICIENCY ANALYSIS  
+• A 19% probability implies traders see MN-08 as solidly Republican, with a small chance of a Democratic upset.  
+• Low $0 volume suggests this price could reflect a few informed views or simply the baseline partisan lean rather than an aggregated consensus.  
+• However, the tight spread (2¢) indicates that even if volume is low, the market maker has little reason to quote wide spreads—implying confidence that 19% is a reasonable estimate given available public information.  
+
+4. MISPRICING ASSESSMENT  
+• The only direct poll of MN-08 shows a Democratic lead but lacks granular data. Without specific margins or district weighting, it’s unclear how much that shifts the implied probability.  
+• Statewide Democratic strength does not necessarily translate to a D flip in a rural, GOP-leaning district.  
+• There is no evidence of a dramatic shift in district boundaries or a high‐profile Democratic recruit that would justify a >0.20 price gap from 19%.  
+
+5. EXPECTED VALUE CALCULATION  
+• Strength of evidence that price is wrong: low (~20%)—the MSN poll is suggestive but underspecified.  
+• Magnitude of mispricing if wrong: small (~5 cents), given that district lean likely keeps Democrats under 30%.  
+• Expected value = 20% × 5¢ = 1¢
+
+6. CONFIDENCE  
+medium
 
 EXPECTED_VALUE: 1.0  
-SUMMARY: There is no direct polling or candidate‐specific data for MN-08, and most research focuses on MN-01. A vague poll suggests general Democratic momentum, but it’s too unspecific to revise the 19.5% price meaningfully.  
-CONFIDENCE: low
+SUMMARY: Recent polls hint at Democratic leads in Minnesota and even in MN-08, but lack of district-specific numbers and the seat’s GOP tilt mean the market’s 19% likely already reflects these signals. There’s no clear, sizable mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -61,37 +65,30 @@ Title: DCCC Adds MN-01 To Districts In Play As Democrats Further Expand Battlefi
 Author: jalango@dccc.org
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://dccc.org/dccc-adds-mn-01-to-districts-in-play-as-democrats-further-expand-battlefield-for-2026-midterms/
-Summary: The Democratic Congressional Campaign Committee (DCCC) has added Minnesota's 1st Congressional District (MN-01) to its list of targeted districts for the 2026 midterms, indicating a strategic push to reclaim the House majority. This decision comes as Democrats aim to capitalize on growing dissatisfaction among Minnesota voters towards Republican incumbent Brad Finstad, who is criticized for his record on healthcare and rising costs. DCCC Chair Suzan DelBene emphasized that Finstad's policies have negatively impacted families and farmers, suggesting that voters are ready for change. The DCCC's recent successes in special elections, including a notable 20% overperformance in Minnesota, bolster their confidence in unseating Finstad. While this information pertains to MN-01, it reflects broader trends that could influence the Democratic Party's performance in nearby districts, including MN-08, as they aim to expand their electoral battlefield.
+Summary: The Democratic Congressional Campaign Committee (DCCC) has expanded its "Districts in Play" list to include Minnesota's 1st Congressional District (MN-01), signaling increased efforts to flip this seat from Republican to Democratic control in the 2026 midterms. The DCCC is targeting Republican incumbent Brad Finstad, citing his unpopularity due to policies that have raised costs, undermined affordable healthcare, and hurt working families in Minnesota. Recent Democratic overperformance in special elections, including a 20% overperformance in a Minnesota special election, suggests a favorable environment for Democrats in the state. While this specific article does not address MN-08 directly, the overall strategy indicates that Democrats are actively working to expand their competitive districts in Minnesota, which could positively influence their chances in neighboring districts like MN-08.
+
+Title: New poll, fundraising show Jake Johnson within striking distance of Brad Finstad - Post Bulletin | Rochester Minnesota news, weather, sports
+Author: 
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://www.postbulletin.com/news/local/new-poll-fundraising-shows-jake-johnson-within-striking-distance-of-brad-finstad?0000018b-d45c-d2c7-a3ff-dc5c32630001-page=9
+Summary: The article discusses a recent poll indicating a competitive race in Minnesota’s 1st Congressional District, where Democrat Jake Johnson is within 3 points of incumbent Republican Brad Finstad, with a significant 15% of voters undecided. The district leans conservative, and Finstad has historically won comfortably in past elections. However, the new poll and the district being labeled as "in play" by the Democratic Congressional Campaign suggest increased competitiveness for the upcoming election. While this information pertains specifically to MN-01, it highlights a broader trend of shifting dynamics and potential opportunities for Democrats in Minnesota's congressional races, which could influence predictions about other districts like MN-08.
 
 Title: Voting history of Minnesota’s First Congressional District ahead of midterm election
 Author: Brock Bergey
 Published Date: 2026-02-27T00:00:00.000Z
 URL: https://www.kttc.com/2026/02/27/voting-history-minnesotas-first-congressional-district-ahead-midterm-election/
-Summary: The article provides an analysis of the voting history in Minnesota's First Congressional District (CD 1) as the midterm elections approach. It highlights that the district has experienced a mix of Democratic-Farmer-Labor (DFL) and Republican victories since 2000, with the GOP winning seven times and the DFL six times over 13 elections. The GOP has held the seat since 2019. 
+Summary: The article reviews the voting history of Minnesota’s First Congressional District (CD 1) from 2000 to 2024, highlighting a pattern of divided political outcomes between the Democratic-Farmer-Labor (DFL) Party and Republicans. Historically, Republicans have won 7 of the 13 elections during this period, holding the seat since 2019, while Democrats have secured 6 wins. Notably, the largest Democratic victory occurred in 2008, and the closest Republican win was in 2018. The district has experienced boundary changes over the years, with its current configuration in place since 2022. Voter turnout in recent elections has been below 378,000 votes, with a population of approximately 718,000. Given this history of competitive races and recent shifts, predicting the outcome for the MN-08 seat would require considering similar factors—such as district boundary changes, voter turnout, and historical voting patterns—though the article specifically focuses on CD 1, which may differ from MN-08.
 
-Key data points include:
-- The largest DFL victory margin occurred in 2008, with over 98,000 votes, while the smallest margin was a Republican win by just 1,315 votes in 2018.
-- Recent election results show fluctuating support, with the DFL winning in years like 2006, 2008, 2012, and 2014, while the GOP has had strong showings in 2020 and 2022.
-- The district's current population is approximately 718,000, with fewer than 378,000 votes cast in the last general election.
-
-Given this history, the upcoming election's outcome may hinge on voter turnout, demographic shifts, and the political climate leading up to the election. The mixed results suggest that while the GOP has a recent advantage, the DFL has previously secured significant victories, indicating a competitive race ahead.
-
-Title: Finstad faces a serious challenge in tough election year for GOPers
-Author: Ana Radelat
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.minnpost.com/national/washington/2026/02/in-a-tough-election-year-for-house-republicans-brad-finstad-faces-a-serious-challenge/
-Summary: The article discusses the competitive landscape of the MN-01 congressional race, where Republican Rep. Brad Finstad faces a significant challenge from Democrat Jake Johnson, a high school math teacher. Johnson, who is backed by influential teachers' unions and the national Democratic Party, is positioning himself as a centrist candidate, which may resonate with moderate voters in the district. This context is crucial for understanding the dynamics in other Minnesota districts, including MN-08, as it highlights the potential for Democratic gains in traditionally Republican areas amid a tough election year for the GOP. The outcome in MN-01 could serve as a bellwether for Democratic prospects in MN-08, especially if Johnson's campaign successfully mobilizes support and reflects broader trends in voter sentiment across the state.
-
-Title: GOP Goes on Defense in Minnesota’s First Congressional District
-Author: sshively@dfl.org
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://dfl.org/gop-goes-on-defense-in-minnesotas-first-congressional-district/
-Summary: The GOP is facing challenges in Minnesota's First Congressional District (CD1) as recent polling indicates a tight race between Republican Congressman Brad Finstad and Democratic challenger Jake Johnson, with Finstad leading by just 3% and 15% of voters undecided. Nearly half of CD1 voters express a desire for a new representative, reflecting dissatisfaction with current leadership. The Democratic Congressional Campaign Committee (DCCC) has identified this district as a target for flipping to Democratic control in the 2026 midterms, citing broken promises by Republicans regarding healthcare costs and community safety. DFL Party Chair Richard Carlbom emphasizes that the GOP lacks resources and support, which could hinder their campaign efforts. This context suggests that the Democratic Party may have a favorable opportunity to win the MN-08 House seat, especially if they can capitalize on voter discontent and mobilize support effectively.
+Title: Minnesota 2026 Poll: Democrats Lead GOP as Voters Cite Threats to Democracy - Emerson Polling
+Author: Camille Mumford
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://emersoncollegepolling.com/minnesota-2026-poll-democrats-lead-gop-as-voters-cite-threats-to-democracy/
+Summary: The Emerson College Polling indicates that Minnesota voters currently favor Democratic candidates in statewide races, with Democrats leading Republicans for governor, U.S. Senate, and the state legislature. Specifically, Democratic candidates like Amy Klobuchar and Peggy Flanagan are leading their Republican opponents by significant margins. Voters also show a preference for Democratic-leaning policies, with a majority disapproving of the Trump administration's handling of certain issues and expressing concern over threats to democracy, which is now the top issue for many. Given these statewide trends favoring Democrats and the current voter sentiment, there is a potential advantage for Democratic candidates in the MN-08 House seat, especially if these trends persist through the election cycle.
 
 Title: Democrats lead GOP rivals in key Minnesota races: Poll
 Author: 
 Published Date: 2026-02-11T00:00:00.000Z
 URL: https://www.msn.com/en-us/news/politics/democrats-lead-gop-rivals-in-key-minnesota-races-poll/ar-AA1W86js
-Summary: A recent poll indicates that Democrats are leading their GOP rivals in key races in Minnesota, including the MN-08 House seat. This trend suggests a favorable environment for Democratic candidates in the upcoming elections. Factors contributing to this lead may include voter sentiment, demographic shifts, and local issues that resonate with constituents. Monitoring these dynamics could provide insights into the likelihood of a Democratic victory in MN-08.
+Summary: The article reports that Democrats currently hold a lead over Republican rivals in key Minnesota races, including the MN-08 House seat. A recent poll indicates that Democratic candidates are favored to win in this district, suggesting a potential advantage for Democrats in the upcoming election. Factors such as voter sentiment, polling data, and recent campaign developments could influence the outcome, but current trends favor the Democratic Party's success in retaining the MN-08 seat.
 
 

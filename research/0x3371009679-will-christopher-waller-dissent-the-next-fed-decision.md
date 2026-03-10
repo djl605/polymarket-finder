@@ -1,7 +1,7 @@
 # Research: Will Christopher Waller dissent the next Fed Decision?
 
 **Market ID:** 0x337100967945465e72bb276d6db87d9d73c9c6ecae16c30994bb0fcf6ce975d1
-**Researched At:** March 2, 2026 at 02:54:18 PM UTC
+**Researched At:** March 10, 2026 at 04:19:39 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Christopher Waller dissent the next Fed Decision?"
 
 ---
@@ -9,44 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.2¢
+**Expected Value:** 15.0¢
 
 ### Summary
 
-Waller’s own “coin flip” description and dovish lean suggest a slightly >50% dissent chance, so the market’s 57% is plausible. No clear 20c+ mispricing; any error seems under 10c.
+Pre–data research pegs Waller’s dissent chance at ~50%, suggesting 76.5% may be too high, but traders likely have post–jobs data implying a tilt toward dissent. No clear evidence of a >20 c mispricing without that data.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Fed Governor Christopher Waller will dissent (i.e. vote against the committee’s majority decision) on the target federal funds rate at the March 17–18, 2026 FOMC meeting. A “Yes” outcome requires that Waller votes against the rate-decision—most likely meaning he wants a rate cut while the FOMC holds rates steady. A “No” outcome means he votes with the consensus decision.
+This market asks whether Fed Governor Christopher Waller will dissent (vote against the majority) on the target federal funds rate at the March 17–18, 2026 FOMC meeting. “Yes” requires him to cast a dissenting vote on the rate decision; “No” if he votes with the consensus.  
 
 2. EVIDENCE EVALUATION  
-Bullish for YES (i.e. a dissent):  
-• Waller has recently dissented (in January) in favor of cutting rates, and he reiterated dovish bias in speeches.  
-• He explicitly framed his next vote as “close to a coin flip,” hinting at roughly 50% odds. A dovish tilt might push that above 50%.
+Evidence suggesting 76.5% may be too high:  
+- All cited articles (Central Banking, AInvest, Bloomberg, AP) date from late February, pre–February jobs release, and uniformly describe Waller’s next vote as “close to a coin flip.” This implies roughly 50% chance of dissent prior to seeing February labor data.  
+- No source provides post–jobs‐report updates; thus a ~75% probability seems to exceed the uncertainty Waller himself expressed.  
 
-Bearish for YES (i.e. in favor of NO dissent):  
-• Four separate February reports (Central Banking, Morningstar, SahmCapital, InvestmentNews, Finimize) all highlight that the February jobs report and CPI data (Mar 6 and Mar 11) will be the “make-or-break” inputs.  
-• January’s surprisingly solid payrolls (130–172k private jobs) led him to signal he could support a pause (i.e. no dissent) if labor data holds up.  
-• CME FedWatch shows a 96% chance the FOMC will hold rates in March—if Waller goes with the consensus, that is a NO dissent.
+Evidence supporting the current price:  
+- Waller dissented in January in favor of a rate cut and last meeting leaned toward easing without new data. If February’s employment figures disappointed (an inference traders may have), his predisposition toward cutting could push his dissent probability above 50%.  
+- Market participants likely observed the March 6 jobs report (not detailed in our research) and concluded the labor market is faltering enough to tilt Waller’s “coin flip” strongly toward dissent.  
 
-Source credibility & recency: All five research items are from Feb 23–25, 2026, quoting Waller directly or reputable Fed trackers. They are timely and high-credibility.
-
-No obvious “missed” evidence—if February data swings weak, dissent odds rise; if strong, they fall. That dynamic is exactly what traders are pricing.
+Source credibility and recency:  
+- All sources are reputable (Bloomberg, AP, Central Banking) and very recent (Feb 23–24, 2026). However, they only cover Waller’s pre-data uncertainty, not actual February outcomes.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 57% probability implies the market views Waller as slightly more likely than a coin flip to dissent. That aligns with his dovish bias plus the coin-toss language. Low $2.1k volume means prices could reflect just a few traders, but the tight spread suggests some confidence. Traders may simply be embedding a 50% base with a small dovish tilt.
+- A 76.5% price could reflect traders’ assessment of the actual February jobs figures, which are not provided in our research.  
+- Low volume suggests few informed Fed specialists trade this contract, but the narrow spread implies any available information has been swiftly incorporated.  
+- It’s plausible that informed traders, seeing soft labor numbers, ramped the dissent probability well above 50%.  
 
 4. MISPRICING ASSESSMENT  
-Given the “coin flip” rhetoric and the dovish history, a ’Yes’ probability around 50–55% is defensible. A 57% price is within a plausible range—no glaring 20-cent+ mispricing emerges. Any overstatement of dissent odds appears modest (<10c).
+- Without the post-report data, the evidence we have indicates a roughly 50% baseline, so 76.5% could be an overestimate by ~25 c.  
+- However, if the unreported February report was weak enough to move markets, a 75%+ probability is defendable.  
+- No specific missing fact from our sources clearly warrants a >20 c adjustment.  
+- The most charitable interpretation is that traders have seen labor data and believe Waller’s coin-flip heavily favors dissent.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that price is roughly correct): ~60%  
-Magnitude of potential mispricing: ~7 cents  
-Expected value = 0.60 × 7c ≈ 4.2 cents
+Strength of evidence that price is too high: 60%  
+Magnitude of potential mispricing: 25 c  
+Expected value ≈ 60% × 25 c = 15 c  
 
-EXPECTED_VALUE: 4.2  
-SUMMARY: Waller’s own “coin flip” description and dovish lean suggest a slightly >50% dissent chance, so the market’s 57% is plausible. No clear 20c+ mispricing; any error seems under 10c.  
+EXPECTED_VALUE: 15  
+SUMMARY: Pre–data research pegs Waller’s dissent chance at ~50%, suggesting 76.5% may be too high, but traders likely have post–jobs data implying a tilt toward dissent. No clear evidence of a >20 c mispricing without that data.  
 CONFIDENCE: medium
 
 ---
@@ -59,43 +62,30 @@ Title: Waller: my next FOMC vote is ‘close to a coin flip’ - Central Banking
 Author: 
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://www.centralbanking.com/central-banks/monetary-policy/7975238/waller-my-next-fomc-vote-is-close-to-a-coin-flip
-Summary: Christopher Waller, a member of the Federal Reserve Board, indicated that his vote on the next Federal Open Market Committee (FOMC) decision regarding interest rates is uncertain, describing it as “close to a coin flip.” In a recent speech, he highlighted concerns about the job market, noting that the US is experiencing “close to zero net job creation” for 2025, which suggests a weak and fragile economic environment. Waller's previous stance leaned towards further easing of rates, even in the absence of new data. This context suggests that his decision could hinge on upcoming economic indicators, particularly related to employment and inflation, making it difficult to predict whether he will dissent in the next Fed decision.
+Summary: Christopher Waller indicated that his stance on the upcoming Federal Reserve interest rate decision is highly uncertain, describing it as “close to a coin flip.” He highlighted concerns about a weak and fragile U.S. job market, citing near-zero net job creation in 2025. During the previous FOMC meeting, Waller leaned toward further easing of monetary policy, even without new data. His comments suggest he may be inclined to dissent or vote differently from the majority, depending on evolving economic conditions.
 
-Title: Fed's Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision | Morningstar
+Title: Waller's Labor Market Test: The March Fed Decision in Focus
+Author: AInvest
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.ainvest.com/news/waller-labor-market-test-march-fed-decision-focus-2602/
+Summary: The likelihood of Christopher Waller dissenting at the next Federal Reserve decision depends heavily on the upcoming February jobs report. Waller's stance is currently data-dependent, with his vote hinging on whether the labor market shows sustained strength or signs of weakening. If the February data confirms a resilient labor market, Waller is expected to support maintaining current rates, aligning with a more cautious approach to rate cuts. Conversely, if the report indicates deterioration, he is likely to dissent and advocate for a rate cut, as he did in January. Therefore, the key factor influencing his decision is whether the labor market demonstrates continued robustness or fragility in the upcoming data.
+
+Title: Fed’s Waller Says March Rate Call Depends on Labor Market (2)
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.morningstar.com/news/marketwatch/2026022362/feds-waller-says-next-jobs-report-not-supreme-court-ruling-will-be-key-for-march-interest-rate-decision
-Summary: Federal Reserve Governor Christopher Waller has indicated that the upcoming February jobs report will be crucial in determining whether he will dissent from the Fed's decision regarding interest rates in March. Waller has been advocating for interest rate cuts, expressing concerns about a weakening labor market. He previously dissented during the Fed's January meeting after three consecutive rate cuts. 
+URL: https://news.bloomberglaw.com/banking-law/feds-waller-says-march-rate-call-depends-on-labor-market-2
+Summary: Federal Reserve Governor Christopher Waller indicated that his support for a potential interest rate cut at the upcoming March meeting depends heavily on labor market data. If February’s labor data shows continued strength similar to January, Waller may favor maintaining current rates, aligning with the consensus. Conversely, if labor market conditions weaken or are revised downward, Waller’s stance could shift toward supporting a rate reduction. This suggests that Waller’s decision to dissent or support the Fed’s policy will be influenced by upcoming labor market indicators, making his position somewhat contingent on forthcoming economic data.
 
-Waller noted that while the January jobs report showed a surprising increase of 172,000 private sector jobs, he remains cautious, suggesting that this data might not be indicative of a sustained trend. He described the likelihood of the February jobs report being strong or weak as a "coin flip," with the results set to be released on March 6. The market currently anticipates a 96% chance that the federal funds rate will remain stable between 3.5% and 3.75%. 
-
-In summary, Waller's decision to dissent or support the Fed's March interest rate decision will heavily depend on the strength of the upcoming jobs report.
-
-Title: Waller Signals Tight Fed Vote On March Interest Rates
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.sahmcapital.com/news/content/waller-signals-tight-fed-vote-on-march-interest-rates-2026-02-25
-Summary: Christopher Waller, a Federal Reserve Governor, indicated that the decision on interest rates for March is uncertain, describing it as a "coin toss." His stance hinges on the upcoming February labor market report, which will be released shortly before the Federal Open Market Committee (FOMC) meeting on March 17–18. Waller noted that if the labor market data mirrors January's strong performance, it may be appropriate to maintain current interest rates.
-
-Previously, Waller advocated for easing monetary policy due to a weak labor market, but the January report showing the addition of 130,000 jobs has shifted his perspective. He emphasized that the forthcoming employment and Consumer Price Index data, due on March 6 and 11, will significantly influence his decision. Currently, there is a 96.1% probability, according to the CME Group Fed Watch tool, that the FOMC will keep rates steady in March, with potential cuts anticipated later in the year.
-
-In summary, Waller's vote will likely depend on the labor market data released before the FOMC meeting, making it crucial to monitor those reports for insights into whether he might dissent from the consensus.
-
-Title: Fed’s Waller says March rate decision hinges on whether jobs rebound proves ‘signal or noise’ - InvestmentNews
+Title: Fed's Waller says rate cut in March is a 'coin flip' following a strong US jobs report | AP News
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.investmentnews.com/equities/feds-waller-says-march-rate-decision-hinges-on-whether-jobs-rebound-proves-signal-or-noise/265395
-Summary: Christopher Waller stated that the March rate decision hinges on whether the recent jobs rebound is a "signal or noise." He favored a rate cut in January due to slowing hiring and rising employment risks, but the January employment report showed stronger-than-expected hiring. Waller emphasized that the February employment figures will be critical in determining the FOMC's next move. If the February data aligns with the January report, holding the policy rate steady may be appropriate.
+URL: https://apnews.com/article/waller-inflation-interest-rates-728aa0b00b5d3291169cb807472332d6
+Summary: Federal Reserve Governor Christopher Waller indicated that the decision to cut rates in March is uncertain, describing it as a "coin flip" based on upcoming economic data, particularly the February jobs report. While strong job gains in January suggest the possibility of maintaining current rates, Waller also noted that if February's employment figures weaken or are revised downward, a rate cut could be appropriate. His cautious stance and the potential for economic data to sway his view imply that Waller may dissent from the majority decision at the next Fed meeting, depending on the labor market's performance.
 
-
-Title: Fed’s Waller Could Back A Rate Pause If Jobs Stay Strong - Finimize
+Title: Fed's Waller says rate cut in March is a 'coin flip' following a strong US jobs report | AP News
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
-URL: https://finimize.com/content/feds-waller-could-back-a-rate-pause-if-jobs-stay-strong
-Summary: Christopher Waller, a Federal Reserve Governor, indicated that he might support holding interest rates steady at the upcoming March 17–18 meeting, contingent on the February jobs report showing strong hiring. His recent comments reflect a shift from his previous stance in January, where he advocated for a rate cut due to signs of cooling job growth. Waller now emphasizes that if the February jobs data is solid, it could justify a pause in rate adjustments. However, if the data weakens or if January's job gains are revised down, he may reconsider and support a rate cut.
-
-Waller also noted that recent inflation increases are largely due to tariff-related factors, which he believes will diminish over time. This perspective suggests that the Fed's focus may shift more towards employment data rather than inflation concerns if tariff effects subside.
-
-Given the proximity of the jobs report to the Fed meeting, it will play a crucial role in shaping expectations for rate decisions. If the job market remains robust, it could lead to a delay in easing bets, while a weaker report might prompt investors to anticipate a rate cut sooner. Waller's decision will likely hinge on the strength of the upcoming jobs data, making it a key factor in predicting his stance on the next Fed decision.
+URL: https://uat.apnews.com/article/waller-inflation-interest-rates-728aa0b00b5d3291169cb807472332d6
+Summary: Federal Reserve Governor Christopher Waller indicated that the decision to cut interest rates in March is highly uncertain, describing it as a "coin flip" based on upcoming economic data. He emphasized that if February’s jobs report shows continued strong employment gains similar to January, the Fed might hold rates steady and monitor inflation and labor market progress. Conversely, if the employment gains diminish or are revised downward, a rate cut could be appropriate. Waller's stance suggests he is closely watching upcoming data and has not committed to dissenting from the Fed's decision, but his cautious outlook indicates he may oppose rate cuts if economic indicators weaken.
 
 

@@ -1,51 +1,48 @@
 # Research: Will the Bank of Israel decrease the Bank of Israel Interest Rate after the March decision?
 
 **Market ID:** 0x073b8e53dab8741113c618f53d1ee6e09934e287d559d4eb1c1dbf7162d522cf
-**Researched At:** March 2, 2026 at 02:53:50 PM UTC
+**Researched At:** March 10, 2026 at 04:18:54 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Bank of Israel decrease the Bank of Israel Interest Rate after the March decision?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 13.5¢
 
 ### Summary
 
-The split between easing inflation and persistent geopolitical risks supports a sub-50% chance of a March rate cut, making the 41.5% price reasonable. No clear, unpriced information emerges to justify a substantial correction.
+Economists and credible forecasts imply roughly even odds (≈50%) of a March rate cut, whereas the market prices only 22.5%, indicating a likely undervaluation. Low volume and a tight spread suggest this price reflects few traders’ views rather than broad informed consensus.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Bank of Israel will cut its benchmark interest rate at the March 30, 2026 meeting, relative to the pre–March level (4%). A “YES” resolution requires the reported policy rate to fall below 4% (e.g., to 3.75%), while “NO” covers holding at 4% or a rate increase.
+The market asks whether the Bank of Israel will lower its policy rate at the March 30, 2026 decision (i.e., cut from the 4.0% level set in February). It resolves YES only if the announced rate is strictly below 4.0%; any hold or hike resolves NO.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports a cut, implying the current 41.5% is too low):  
-• Bloomberg (2/23) reports a slight majority of surveyed economists expect a cut to 3.75%, citing easing inflation and a strong currency.  
-• Inflation has hit a multi-year low (1.8%), and OECD (2025) notes downward price pressures which could justify a more accommodative stance.  
-
-Bearish (supports holding, implying current price is too high):  
-• Reuters and Ground.news (2/23) highlight heightened Iran tensions, a tighter labor market, and elevated risk premia; BoI cited these in February for keeping rates unchanged.  
-• OECD stresses a cautious policy stance amid fiscal headwinds and regional instability, suggesting the Bank may prioritize stability over cuts.  
-
-Source Credibility/Recency:  
-All cited articles are late February or early March 2026 from reputable outlets (Bloomberg, Reuters, OECD). Their analyses focus on the same core drivers—geopolitics vs. inflation—and show no decisive new data forcing a re-rating.
+Bullish for a cut (suggesting the 22.5% price is too low):  
+• AInvest (2026-03-06): BOI forecasts gradual easing to 3.5% by year-end, strong 5.2% growth and sub-2% inflation imply room to cut if geopolitical risks and budget passage cooperate.  
+• Bloomberg/Altstein (2026-02-23): 8 of 15 economists (≈53%) expect a 25 bp cut in March.  
+Bearish for a cut (supporting low price):  
+• JPMorgan/Reuters (2026-03-02): Forecasts a hold in March, pushing the first cut to May. High-credibility global bank.  
+• Reuters/Scheer (2026-02-23) & AInvest (2026-02-26): Emphasize Iran tensions and an unpassed 2026 budget as key constraints, arguing BOI is likely to remain cautious in March.  
+Assessment: Sources are recent and credible; economists are roughly split, but a slight majority favor a March cut. Nothing in the research suggests an extreme (>80%) probability of no cut.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 41.5%, the market reflects a nearly balanced view: inflation’s downward trend argues for cuts, but geopolitical risk argues for caution. Low volume could mean few active participants, but the tight spread implies those participants are relatively well informed and in consensus that the odds lie below 50%.
+A 22.5% price implies traders see almost no chance of a cut—far below the near-50% consensus implied by multiple surveys. Low volume (≈$6k) and a tight spread suggest pricing by a few over-confident participants rather than broad aggregation. If the market truly believed geopolitics/budget ruled out a cut, there would likely be substantial evidence of imminent escalation or budget failure; the research does not provide that.
 
 4. MISPRICING ASSESSMENT  
-No material evidence appears overlooked. The major drivers (inflation, regional security, labor market) are well publicized and likely already priced in. The split in economist forecasts and central-bank statements justifies a sub-50% probability without signaling a >20-point mispricing.
+Given the ensemble of forecasts (≈45–55% chance of cut), the market’s 22.5% is materially too low. No technical resolution misunderstandings are evident. This appears to be a low-volume inefficiency rather than a fully informed consensus.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: 20% (there is balanced but inconclusive directional info).  
-Plausible magnitude of mispricing: ~5 cents.  
-Expected value ≈ 20% × 5 cents = 1 cent.
+Strength of evidence: 60% (multiple credible sources pointing to ~50% cut chance)  
+Magnitude of mispricing: ~22.5 cents (50% implied fair − 22.5% market)  
+Expected value = 0.60 × 22.5c ≈ 13.5c
 
-EXPECTED_VALUE: 1  
-SUMMARY: The split between easing inflation and persistent geopolitical risks supports a sub-50% chance of a March rate cut, making the 41.5% price reasonable. No clear, unpriced information emerges to justify a substantial correction.  
-CONFIDENCE: low
+EXPECTED_VALUE: 13.5  
+SUMMARY: Economists and credible forecasts imply roughly even odds (≈50%) of a March rate cut, whereas the market prices only 22.5%, indicating a likely undervaluation. Low volume and a tight spread suggest this price reflects few traders’ views rather than broad informed consensus.  
+CONFIDENCE: medium
 
 ---
 
@@ -53,55 +50,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Gold price prediction today: How will gold prices react this week to Middle East tensions? Key levels to watch out - The Times of India
-Author: TOI Business Desk  / TIMESOFINDIA.COM /   Mar 02, 2026, 11:37 IST
+Title: Bank of Israel Navigates Geopolitical Risk vs. 5.2% Growth Forecast in March 30 Decision—Hold or Cut?
+Author: AInvest
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.ainvest.com/news/bank-israel-navigates-geopolitical-risk-5-2-growth-forecast-march-30-decision-hold-cut-2603/
+Summary: The Bank of Israel's upcoming March 30, 2026, decision on interest rates is uncertain, with market expectations split between a hold and a 25 basis point cut. The central bank's own forecast suggests a gradual easing, aiming for a 3.5% rate by year-end, down from the current 4.0%. This aligns with the country's strong economic growth forecast of 5.2% for 2026 and declining inflation to 1.8%, indicating room for monetary easing. However, geopolitical risks, particularly Iran tensions, and an unfinalized 2026 budget constrain policy flexibility. The bank is closely monitoring February CPI data and staff forecasts to assess disinflation sustainability. Given these factors, a rate decrease post-March is plausible if economic momentum persists and geopolitical tensions do not escalate significantly.
+
+Title: JPMorgan expects Israel central bank to stay on hold in March, next rate cut could now come in May | MarketScreener
+Author: Reuters
 Published Date: 2026-03-02T00:00:00.000Z
-URL: https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-march-02-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128938579.cms
-Summary: The article discusses the impact of ongoing tensions in the Middle East on gold prices, highlighting key levels to watch. While it primarily focuses on gold price predictions, it indirectly relates to broader economic conditions that could influence central bank decisions, including the Bank of Israel's interest rate. Factors such as geopolitical instability often lead to fluctuations in gold prices, which can reflect investor sentiment and economic stability. If tensions escalate, it may prompt the Bank of Israel to consider a rate decrease to support the economy. However, specific predictions about the Bank of Israel's interest rate decision after March are not directly addressed in the article. For a clearer understanding, monitoring economic indicators and geopolitical developments will be crucial.
-
-Title: Israel Faces Close Call on Interest Rates as Iran Tensions Loom - Bloomberg
-Author: Galit Altstein
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.bloomberg.com/news/articles/2026-02-23/israel-faces-close-call-on-interest-rates-as-iran-tensions-loom?srnd=homepage-americas
-Summary: The article discusses the upcoming decision by the Bank of Israel regarding interest rates amidst rising tensions with Iran. A slight majority of economists predict a decrease in the base rate to 3.75%, while others anticipate it will remain at 4%. The decision is influenced by factors such as lower inflation and a strong currency, balanced against the uncertainties of a potential US-led conflict with Iran. This context suggests that if geopolitical tensions escalate, the Bank may opt to maintain or even increase rates to stabilize the economy, while a decrease could occur if inflation continues to decline and economic conditions remain stable. Thus, the outcome of the March decision will likely hinge on both domestic economic indicators and international geopolitical developments.
-
-Title: Bank of Israel Keeps Rates Steady Amid Fears of Iran Confrontation
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://ground.news/article/after-two-cuts-bank-of-israel-leaves-interest-rate-unchanged-finance-minister-attacks
-Summary: The Bank of Israel has decided to maintain its interest rate at 4%, citing geopolitical risks related to a potential confrontation with Iran and a current inflation rate of 1.8%. This decision comes amid rising uncertainty in the region, which has slightly increased Israel's risk premium. The central bank's stance suggests that external factors, particularly geopolitical tensions, will play a significant role in future monetary policy decisions. 
-
-To predict whether the Bank of Israel will decrease interest rates after the March decision, consider the following factors:
-1. **Geopolitical Stability**: Any escalation or de-escalation in tensions with Iran could influence the Bank's decision.
-2. **Inflation Trends**: If inflation continues to ease or remains stable, it may provide room for a rate cut.
-3. **Economic Indicators**: Broader economic conditions, including growth rates and employment figures, will also be critical in shaping future rate decisions.
-
-Monitoring these elements will be essential in assessing the likelihood of a rate decrease in the upcoming months.
+URL: https://www.marketscreener.com/news/jpmorgan-expects-israel-central-bank-to-stay-on-hold-in-march-next-rate-cut-could-now-come-in-may-ce7e5cdcdc8cf321
+Summary: JPMorgan forecasts that the Bank of Israel is likely to hold its interest rate steady in March, with the next potential rate cut now expected to occur in May. This suggests a cautious monetary policy stance in the near term, possibly influenced by current economic conditions and inflation concerns. Therefore, based on JPMorgan's outlook, a decrease in the Bank of Israel's interest rate is not anticipated immediately after the March decision but may happen later in May.
 
 Title: Bank of Israel keeps rates steady amid fears of Iran confrontation | Reuters
 Author: Steven Scheer
 Published Date: 2026-02-23T00:00:00.000Z
 URL: http://reuters.com/markets/asia/bank-israel-keeps-rates-steady-amid-fears-iran-confrontation-2026-02-23/
-Summary: The Bank of Israel has maintained its benchmark interest rate at 4% amid geopolitical uncertainties, particularly concerning potential confrontations with Iran. This decision follows two previous rate cuts in November and January. Despite easing inflation, which recently hit a 4.5-year low of 1.8%, the central bank cited risks associated with geopolitical developments and a tight labor market as reasons for its cautious stance.
+Summary: The Bank of Israel has maintained its short-term interest rate at 4% amid geopolitical tensions related to Iran, despite recent inflation easing to 1.8%, the lowest in 4.5 years. The central bank cited concerns over potential escalation with Iran and its impact on economic stability, along with a tight labor market, as reasons for holding rates steady. While inflation pressures have lessened, the bank remains cautious due to geopolitical risks and market conditions. Economists are divided on whether the rate will be cut in the upcoming March meeting, with some expecting a reduction and others anticipating no change. The decision will likely continue to weigh inflation trends against geopolitical uncertainties, especially U.S.-Iran tensions and their potential impact on Israel.
 
-Looking ahead to the next policy meeting on March 30, analysts had anticipated a possible rate reduction due to declining price pressures. However, the ongoing tensions with Iran and the potential for U.S. military action complicate the outlook. The central bank has indicated that while rates may eventually trend down to around 3.5% this year, various risks—including geopolitical factors and fiscal developments—could influence future decisions.
+Title: Bank of Israel's Hold: What Was Priced In?
+Author: AInvest
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.ainvest.com/news/bank-israel-hold-priced-2602/
+Summary: The Bank of Israel maintained its benchmark interest rate at 4.0% on February 23, 2026, aligning with market expectations and signaling a cautious, data-dependent stance. Key factors influencing future rate decisions include the passage of the 2026 budget by March—critical for fiscal stability—and regional geopolitical tensions, particularly concerning Iran. While inflation has moderated to 1.8%, the strength of the shekel and fiscal uncertainties serve as counterbalancing factors. The central bank's guidance post-March will be pivotal; if the budget is approved and regional tensions ease, there is potential for rate cuts. Conversely, unresolved fiscal or geopolitical risks could lead to continued hold or even rate hikes. Therefore, the likelihood of a rate decrease after the March decision depends heavily on fiscal developments and regional stability.
 
-In summary, while there is a possibility of a rate decrease after the March meeting, the Bank of Israel's decision will likely depend on the evolving geopolitical landscape and its impact on inflation and economic activity.
-
-Title: [PDF] OECD Economic Surveys: Israel 2025 (EN)
-URL: https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/oecd-economic-surveys-israel-2025_18e45b04/d6dd02bc-en.pdf
-Summary: The OECD Economic Survey for Israel 2025 provides insights into the country's economic situation and policies, which can help inform predictions about the Bank of Israel's interest rate decisions. Key points relevant to the query include:
-
-1. **Inflation Trends**: The report indicates that inflation is currently above the target of 3%, driven by supply disruptions and other price pressures. The Bank of Israel may consider lowering interest rates if inflation trends downward and stabilizes.
-
-2. **Macroeconomic Stability**: The survey suggests that real economic activity is expected to pick up as geopolitical tensions ease. If economic growth strengthens, the Bank may be less inclined to decrease interest rates.
-
-3. **Monetary Policy Stance**: The report emphasizes the importance of maintaining a careful monetary policy stance to manage inflation and ensure financial stability. A cautious approach may suggest that the Bank of Israel will prioritize controlling inflation over reducing rates.
-
-4. **Financial Stability**: The resilience of financial markets and the need for banks to maintain strong capital buffers are highlighted. If financial stability remains intact, this could provide the Bank with more flexibility in adjusting interest rates.
-
-5. **Fiscal Policy Considerations**: The report notes that public finances are under stress, which may influence the Bank's decisions. If fiscal policy is constrained, the Bank might opt for a more accommodative monetary policy to support growth.
-
-Overall, while the Bank of Israel's decision will depend on various factors, including inflation trends and economic growth, the OECD report suggests that
+Title: Israel Faces Close Call on Interest Rates as Iran Tensions Loom - Bloomberg
+Author: Galit Altstein
+Published Date: 2026-02-23T00:00:00.000Z
+URL: http://origin.www.bloomberg.com/news/articles/2026-02-23/israel-faces-close-call-on-interest-rates-as-iran-tensions-loom?srnd=undefined
+Summary: The upcoming March decision by the Bank of Israel on interest rates is highly uncertain, with a narrow majority of economists (8 out of 15) predicting a rate cut to 3.75%, while others expect rates to remain unchanged at 4%. The decision is influenced by competing factors: a desire to lower inflation and maintain a strong currency versus geopolitical uncertainties stemming from tensions with Iran, including potential conflict, missile capabilities, nuclear developments, and disruptions in key oil shipping routes like the Strait of Hormuz. These geopolitical risks could prompt the central bank to hold rates steady to safeguard economic stability amid regional tensions.
 
 

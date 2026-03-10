@@ -1,46 +1,59 @@
 # Research: Will Belgium advance through the first Eurovision Semi-Final?
 
 **Market ID:** 0x36b2227bbdc6a644e1174c77592c686d1f040f22a691e06e24e4002371394e9c
-**Researched At:** March 4, 2026 at 04:15:28 AM UTC
+**Researched At:** March 10, 2026 at 04:19:07 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Belgium advance through the first Eurovision Semi-Final?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.0¢
+**Confidence:** Low
+**Expected Value:** 1.8¢
 
 ### Summary
 
-Given Belgium’s recent non-qualification, lack of standout pre-contest buzz, and historical semi-final survival rates, the 38.5% market price appears appropriate; no clear mispricing stands out.
+Research shows mixed signals—strong rehearsal performance but historical unpredictability—supporting a roughly 50/50 chance. There’s no clear missing data to justify a large deviation from a 51.5% market probability.
 
 ### Full Analysis
 
-CONTEXT ANALYSIS  
-The market asks whether Belgium’s entrant (Essyla with “Dancing on the Ice”) will finish in the top 10 of the first Eurovision 2026 semi-final (May 12). A YES requires Essyla to be among the ten qualifiers; a NO if she places 11th–last, is eliminated via rule changes, or if the semi-final doesn’t occur by June 30.
+1. CONTEXT ANALYSIS  
+This market resolves YES if Belgium’s act finishes among the qualifiers in Eurovision 2026 Semi-Final 1 (top ~10 out of ~17 entries), and NO if they fail to qualify, are eliminated, or the semi‐final does not occur by the deadline.
 
-EVIDENCE EVALUATION  
-Bullish: Essyla has a credible artistic background (The Voice Belgique alumna, co-writer of her entry) and may deliver a polished performance.  
-Bearish:  
-• Belgium failed to qualify in Semi-Final 1 in 2025 and analyses (Dimivision, Euronews) forecast similar struggles without insider intel on staging or song impact.  
-• No early betting odds for 2026 suggest limited confidence from bettors.  
-No sources provide strong indications that Essyla’s song will notably outperform expectations. All reports are recent (Feb-May 2025–26) and from reputable fan/journalist outlets.
+2. EVIDENCE EVALUATION  
+Bullish indicators  
+• Recent dress rehearsal (“Escnation Blog”) rates Belgium’s live staging as “very good” despite a minor vocal crack, suggesting a solid performance that could secure jury and televote support.  
+• Essyla’s profile (The Voice Belgique alum, successful domestic EP) points to a capable vocalist with emotional connection, which often resonates in semi‐final voting.
 
-MARKET EFFICIENCY ANALYSIS  
-A ~38.5% price matches Belgium’s recent qualification history (often sub-50%) and lacks both strong positive catalysts and widespread trading interest. Low volume may reflect niche focus rather than overwhelming mispricing; informed traders likely applied a baseline success rate absent clearer inputs.
+Bearish indicators  
+• Historical pattern: Belgium failed to qualify in 2025 due to technical and choreography issues (“Dimivision”), and past surprises where high-odds favorites have flopped (“Freya Bjornson”).  
+• No evidence of standout televote‐winning gimmick or uniquely viral choreography has surfaced yet, which often drives semi‐final qualification.
 
-MISPRICING ASSESSMENT  
-No specific, credible evidence indicates the market has overlooked material positive or negative factors. The 38.5% probability appears reasonable given the lack of detailed staging info, Belgium’s 2025 elimination, and historical semi-final qualification rates (circa 40%).  
-   
-EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20%  
-Potential magnitude if mispriced: ~5¢  
-Expected value ≈ 20% × 5¢ = 1¢
+Source credibility & recency  
+• Escnation Blog (Mar 1 2026) is timely and based on live rehearsal observation—moderately credible.  
+• Dimivision and Freya Bjornson’s retrospectives highlight general unpredictability but are less directly tied to the 2026 entry.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Given Belgium’s recent non-qualification, lack of standout pre-contest buzz, and historical semi-final survival rates, the 38.5% market price appears appropriate; no clear mispricing stands out.  
-CONFIDENCE: medium
+Overall, nothing in the research suggests a decisive edge dramatically above or below the market’s ~51.5%. The mixed signals and the unpredictable nature of Eurovision semi-finals align with a near-50/50 probability.
+
+3. MARKET EFFICIENCY ANALYSIS  
+• A 51.5% price plausibly reflects balanced sentiment among informed Eurovision bettors who’ve seen rehearsals but recognize uncertainty.  
+• Low $3.8K volume likely stems from niche interest and tight spread rather than a clear mispricing—traders may deem this too close to coin-flip to overweight.  
+• No singular well-informed powerhouse seems to have overridden the market; the split stance is consistent with available evidence.
+
+4. MISPRICING ASSESSMENT  
+• No strong missing information: staging visuals, jury tastes, and televote dynamics appear priced in.  
+• The qualification criteria are straightforward and not misunderstood.  
+• Even if one weighted Belgium’s rehearsal slightly higher or lower, the implied edge remains small (<10 cents).  
+Conclusion: Insufficient evidence of a meaningful mispricing.
+
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence that price is wrong: 30%  
+Plausible size of mispricing: 6 cents  
+Expected value = 0.30 × 6 cents = 1.8 cents
+
+EXPECTED_VALUE: 1.8  
+SUMMARY: Research shows mixed signals—strong rehearsal performance but historical unpredictability—supporting a roughly 50/50 chance. There’s no clear missing data to justify a large deviation from a 51.5% market probability.  
+CONFIDENCE: low
 
 ---
 
@@ -48,34 +61,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Eurovision's Semi-final Shakeup
+Author: Freya Bjornson
+URL: https://medium.com/@freya_b/eurovisions-semi-final-shakeup-75fadf17cdf5
+Summary: The article highlights the unpredictability of Eurovision semi-final results, emphasizing that even with high odds, favorites like Belgium can fail to qualify, as seen in the first semi-final where Belgium, predicted to finish 6th with an 88% chance, did not qualify. Predictions are primarily based on public opinion and betting odds, which are influenced by Eurovision fans' engagement, social media activity, and prior exposure to songs through rehearsals and videos. These factors can skew expectations, making accurate predictions challenging. Given Belgium's strong pre-competition standing but unexpected non-qualification, it suggests that factors beyond initial predictions—such as staging, live performance, and voting dynamics—play a significant role. Therefore, while Belgium's chances in the first semi-final might appear favorable based on predictions, the outcome remains uncertain, and viewers should consider the unpredictable nature of Eurovision voting.
+
+Title: Escnation Blog: Semi 1 - Dress rehearsal 3 + Predictions
+Author: 
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://escnation-live.blogspot.com/2025/05/semi-1-dress-rehearsal-3-predictions.html
+Summary: The semi-final rehearsal reports highlight Belgium's performance as having some unique camera angles and a vocal crack in the final note, but overall it was very good. The artist's performance was strong, though not flawless, with a minor vocal issue noted. Given the positive aspects and the overall quality of the performance, Belgium appears to have a solid chance of advancing, but the outcome will depend on how it compares to other entries in the semi-final.
+
 Title: Belgium: Essyla to Eurovision 2026 with "Dancing on the Ice"
 Author: 19 February 2026
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://eurovisionworld.com/esc/belgium-essyla-to-eurovision-2026-with-dancing-on-the-ice
-Summary: Belgium's representative for Eurovision 2026 is singer Essyla, who was internally selected by broadcaster RTBF. She will perform her song "Dancing on the Ice," co-written by Essyla and collaborators. Essyla, born Alice Van Eesbeeck, gained recognition on *The Voice Belgique* in 2021 and has a background influenced by French chansons, jazz, folk, rock, and funk. Her music often explores themes of empowerment and young women's experiences. While her selection and background suggest she is a talented and emotionally resonant artist, there is no specific information about her staging, song style, or previous Eurovision performance history that could directly predict her chances of advancing through the first semi-final.
+Summary: Belgium's representative for Eurovision 2026 is Essyla, who was internally selected by RTBF. She will perform her song "Dancing on the Ice," co-written by her and others. Essyla, from Walloon Brabant, gained recognition from *The Voice Belgique* and has a background influenced by French chansons, jazz, folk, rock, and funk. Her music focuses on themes like empowerment and youth experiences. While her selection indicates a strong, emotionally driven entry, there is no specific information about her staging or the song's style to directly assess her chances of advancing through the first semi-final. Historically, Belgium has participated 66 times since 1956 and won once in 1986.
 
-Title: Eurovision 2025: Looking back at the semis and predicting the final
+Title: Eurovision 2025: Looking back at the semis and predicting ...
 Author: Published by Dimivision
-Published Date: 2025-05-17T00:00:00.000Z
 URL: https://dimivision.com/2025/05/17/eurovision-2025-looking-back-at-the-semis-and-predicting-the-final/
-Summary: The article reviews the Eurovision 2025 semi-final performances, noting that Belgium's entry faced technical issues with the sound mix and a visual approach that was appreciated but may not have resonated widely. The performance was described as a love-it-or-not affair, and despite the visual appeal, Belgium did not qualify for the final. Based on this analysis, Belgium is unlikely to advance through the first semi-final.
+Summary: The article reviews the Eurovision 2025 semi-final performances, noting that Belgium's entry faced technical issues with the sound mix and a performance that was visually appreciated but lacked tight choreography. Despite the visual appeal, Belgium did not qualify for the final, indicating challenges in the live execution and audience reception. Therefore, based on this analysis, Belgium is unlikely to advance through the first Eurovision Semi-Final.
 
 Title: ESSYLA to represent Belgium at Eurovision 2026 - ESCXTRA.com
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://escxtra.com/2026/02/20/essyla-to-represent-belgium-at-eurovision-2026/
-Summary: Belgium will be represented by the young singer-songwriter ESSYLA (Alice Van Eesbeeck) at Eurovision 2026 in Vienna, Austria, this May. ESSYLA gained fame from The Voice Belgique and has released her debut EP "I’ll Be Okay." She co-wrote and composed her entry "Dancing On The Ice," which suggests she is actively involved in her performance. While the article highlights her background and participation, it does not provide specific details about her song's style, previous Eurovision performance history, or the competition's context. Therefore, predicting whether Belgium will advance through the first semi-final based solely on this information is challenging. Factors such as her song's appeal, staging, and the overall contest dynamics will influence her chances.
-
-Title: KAJ heats up the first Eurovision semi-final as 10 acts progress and ...
-Author: 
-Published Date: 2025-05-14T00:00:00.000Z
-URL: https://www.euronews.com/culture/2025/05/14/kaj-heats-up-the-first-eurovision-semi-final-as-10-acts-progress-and-five-are-sent-home
-Summary: Belgium did not advance from the first Eurovision semi-final held in Switzerland. The semi-final featured 15 competing countries, with 10 progressing to the grand final. While the article highlights the acts that qualified—such as Sweden, the Netherlands, Iceland, Norway, San Marino, Estonia, Ukraine, Portugal, Poland, and Albania—Belgium is not listed among the successful qualifiers. Therefore, based on this semi-final, Belgium will not be competing in Saturday’s Eurovision final.
-
-Title: Eurovision 2025 betting odds, tips & predictions - talkSPORT
-Author: Betting Reporter
-Published Date: 2025-05-16T00:00:00.000Z
-URL: https://talksport.com/betting/3139411/eurovision-betting-odds-2025/
-Summary: The provided webpage focuses on betting odds and predictions for Eurovision 2025, highlighting top contenders such as Sweden, Austria, France, and others. It details the current favorites, with Sweden's entry "Bara Bada Bastu" by KAJ leading the betting market, and Austria's "Wasted Love" by JJ also considered a strong contender. While the webpage emphasizes overall betting trends, odds, and potential winners, it does not include specific information about the semi-finalists, their qualification prospects, or the semi-final structure itself. Therefore, it offers limited insight into whether Belgium will advance through the first Eurovision Semi-Final.
+Summary: ESSYLA, a young singer-songwriter known for her appearance on The Voice Belgique and her debut EP "I’ll Be Okay," has been selected by Belgium's RTBF to represent the country at Eurovision 2026 in Vienna. Her collaboration "Dancing On The Ice" was co-written with Nicolas d’Avell, Emil Stengele, and Barbara Petitjean. While her selection highlights her rising profile, there is no specific information about her chances of advancing through the Eurovision Semi-Final. Factors influencing her potential success include her previous chart success in Belgium and her emerging international presence, but predictions about semi-final advancement would depend on her performance, song reception, and competition in the semi-final.
 
 

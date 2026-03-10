@@ -1,7 +1,7 @@
 # Research: Will Robert Peters be the Democratic Nominee for IL-02?
 
 **Market ID:** 0xfc7329b7f987d110fd46ab4f570720c193fb7f6a8838708c1814ac326d7a5bf7
-**Researched At:** March 1, 2026 at 06:04:24 AM UTC
+**Researched At:** March 10, 2026 at 04:18:26 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Robert Peters be the Democratic Nominee for IL-02?"
 
 ---
@@ -9,39 +9,48 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 5.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-The market’s 26% probability aligns with a crowded ten-candidate primary and Peters’s profile as one of several plausible frontrunners; no new polling or endorsements suggest a material mispricing.
+Research shows Peters has solid progressive backing but faces a crowded, well-funded field and no public polls indicating he’s outperforming a mid-teens chance. The 16% price appears reasonable, with no strong evidence of large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Robert Peters will be the officially announced Democratic nominee for Illinois’s 2nd Congressional District by the primary on March 17, 2026 (or by Nov 3 if delayed). A YES resolves if Peters wins the primary; NO if any other candidate wins or no nominee is announced.
+The market asks: “Will Robert Peters be the Democratic nominee for IL-02?” A YES resolution requires that Peters win the March 17, 2026 Democratic primary for Illinois’s 2nd District and be officially announced by party sources by Nov 3, 2026. A NO includes any other nominee or failure to name one by the cutoff.
 
 2. EVIDENCE EVALUATION  
-Bullish points (raise probability above 26%):  
-• Peters is a sitting state senator with legislative accomplishments (public safety, transit, housing), giving him name recognition and an organization.  
-• His campaign platform aligns with progressive voters; Jewish Insider notes he’s energized the far-left base.  
-Bearish points (lower probability below 26%):  
-• The primary field has ten candidates (WBEZ), including established local figures. With no public polling or marquee endorsements yet reported, his frontrunner status is unproven.  
-• His pivot to a critical stance on Israel (Jewish Insider) may alienate moderate and Black voters in IL-02, a district with a significant African American electorate.  
-Source credibility is high (recent local media and an academic paper). None of the evidence provides concrete polling or fundraising numbers; both sides of the argument are plausible and likely known to traders.
+Bullish signals  
+• Progressive endorsements: Bernie Sanders (per WBEZ), Working Families Party, Indivisible Chicago South Side—these signal strong grassroots/activist support.  
+• Legislative record: State Sen. Peters has concrete achievements (minimum wage, bail reform), suggesting appeal to core Democratic primary voters.  
+
+Bearish signals  
+• Crowded field (10+ candidates): per Chicago Tribune and WBEZ, including well-funded moderate Donna Miller and ex-Congressman Jesse Jackson Jr., both with higher name recognition and institutional support.  
+• Leading fundraiser: Miller reportedly outpaces Peters on money, critical in low-turnout primaries.  
+• No public polling favoring Peters: None of the research provides polling numbers to suggest he’s currently leading.  
+
+Credibility & recency  
+All four sources are from Feb-Mar 2026 and credible outlets (Tribune, WBEZ, Working Families Party). They consistently portray a competitive race with no clear frontrunner.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 26% chance implies traders see Peters as one of the top three contenders (10 candidates → ~10% equal share; top 3 → ~30%). Low volume suggests a handful of informed participants set the price, but the level is consistent with a semi-crowded primary. If he has secured early organizational advantages, a mid-20s probability is justifiable.
+• 16% can reflect a realistic share of a 10-plus candidate field—roughly equal to a mid-tier contender supported by strong but narrow coalitions.  
+• Low volume may mean few participants but could also reflect that insiders view no large arbitrage opportunity; 16% sits naturally between underdog (single digits) and frontrunner (~30–40%).  
+• If an informed trader had strong inside polling or donor intel showing Peters is surging well above 16%, one would expect more activity. The absence of that suggests no large hidden signal.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible data (polls, fundraising, endorsements) appears to be missing. The main unknowns—strength of endorsements, exact vote splits, name recognition relative to the rest—are exactly the information that would move a thinly traded market. A large (>20¢) mispricing would require evidence that Peters is either undisputed frontrunner or a nonfactor; such evidence isn’t present.
+• No specific polling or fundraising data missing from the market’s pricing.  
+• Endorsements and record are likely already baked into the price; they justify a non-zero probability but not a favorite’s price.  
+• The primary still two weeks away, so uncertainty is correctly high.  
+Conclusion: No credible evidence of a sizable mispricing; 16% aligns with Peters’s profile as a well-endorsed but still secondary candidate in a large field.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence against mispricing: ~90% (we have high‐quality, recent sources and balanced arguments)  
-Magnitude of plausible mispricing: ~0–5¢ (any error is small given uncertainty)  
-Expected value ≈ 90% × 5¢ = 4.5¢ → rounded conservatively to 5¢
+Strength of evidence against mispricing: ~30%  
+Magnitude of possible mispricing: ~5¢  
+EV = 30% × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 5  
-SUMMARY: The market’s 26% probability aligns with a crowded ten-candidate primary and Peters’s profile as one of several plausible frontrunners; no new polling or endorsements suggest a material mispricing.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Research shows Peters has solid progressive backing but faces a crowded, well-funded field and no public polls indicating he’s outperforming a mid-teens chance. The 16% price appears reasonable, with no strong evidence of large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -54,79 +63,30 @@ Title: Robert Peters, Democratic candidate for Illinois 2nd Congressional Distri
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://chicago.suntimes.com/elections/2026/candidate-questionnaires/robert-peters-illinois-primary-2nd-congressional-district
-Summary: Robert Peters is a Democratic candidate running for the U.S. House of Representatives in Illinois' 2nd Congressional District. Currently serving as an Illinois State Senator, Peters has a background in social sciences from Kansas State University. His campaign focuses on key issues such as the economy, immigration, democracy, and federal funding, as outlined in a candidate questionnaire provided by the Chicago Sun-Times and WBEZ.
+Summary: The webpage provides an overview of Robert Peters, a Democratic candidate for Illinois' 2nd Congressional District, including his background as a State Senator, his education, and his campaign website. However, it does not specify his current polling status, support level, or any endorsements that would indicate his likelihood of securing the Democratic nomination. Therefore, based on this information alone, it is not possible to predict whether Robert Peters will be the Democratic nominee for IL-02.
 
-To assess his chances of becoming the Democratic nominee for IL-02, consider the following factors:
+Title: Robert Peters US House IL-02 | Indivisible
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://indivisible.org/candidates/robert-peters-for-us-house-il-02/
+Summary: Robert Peters is a community organizer and Illinois State Senator known for his advocacy on workers' rights, healthcare, and economic justice. He has a strong record of legislative achievements, including ending cash bail, raising the minimum wage, and expanding healthcare access. Endorsed by Indivisible Chicago South Side, he is actively campaigning for the Democratic nomination to represent Illinois’ 2nd district in Congress. His platform emphasizes protecting social safety nets, instituting Medicare for All, and lowering housing costs. Given his endorsements and active campaign, he is a significant contender for the Democratic nomination in IL-02.
 
-1. **Political Experience**: Peters has prior experience as a state senator, which may enhance his credibility and appeal to voters.
-
-2. **Campaign Platform**: His responses to key issues in the candidate questionnaire can indicate his alignment with the priorities of the Democratic electorate in the district.
-
-3. **Voter Engagement**: The effectiveness of his campaign strategies, including outreach and engagement with constituents, will be crucial in building support.
-
-4. **Competitors**: The presence and strength of other candidates in the Democratic primary could significantly impact his chances.
-
-5. **Endorsements and Support**: Any endorsements from influential figures or organizations within the Democratic Party could bolster his candidacy.
-
-6. **Demographics of the District**: Understanding the political leanings and demographics of IL-02 can provide insight into his potential support base.
-
-For more detailed information about his campaign and positions, you can visit his campaign website at [robertpetersforcongress.com](http://www.robertp
-
-Title: Illinois Democrat Robert Peters pivots from AIPAC outreach to anti-Israel crusade
-Author: Matthew Kassel
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://jewishinsider.com/2026/02/robert-peters-illinois-democratic-primary-house-seat-aipac/
-Summary: Illinois State Senator Robert Peters has shifted his political stance from engaging with AIPAC (American Israel Public Affairs Committee) to adopting a more critical position on Israel, making this pivot a central theme of his campaign. This change comes as he seeks the Democratic nomination for Illinois' 2nd congressional district (IL-02). Peters, who is aligned with the far-left faction of the Democratic Party, is leveraging his anti-Israel rhetoric to galvanize support among progressive voters, particularly in the context of rising tensions surrounding U.S.-Israel relations.
-
-His previous outreach to pro-Israel groups contrasts sharply with his current campaign strategy, which emphasizes criticism of AIPAC and its influence on U.S. policy. This shift may resonate with constituents who prioritize progressive values and are critical of traditional pro-Israel stances. As the primary approaches, Peters' ability to consolidate support within the Democratic base will be crucial in determining his chances of securing the nomination for IL-02. 
-
-In summary, Peters' evolving stance on Israel could significantly impact his campaign dynamics and voter support, making it a key factor in predicting his potential as the Democratic nominee.
+Title: Crowded Democratic primary in Illinois’ 2nd District race
+Author: Jake Sheridan  |  jsheridan@chicagotribune.com  | Chicago Tribune
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.chicagotribune.com/2026/03/05/illinois-2nd-district-crowded-democratic-primary-emerges-in-illinois-2nd-district-race-to-replace-us-rep-robin-kelly/
+Summary: The Illinois 2nd Congressional District Democratic primary features a diverse and crowded field of candidates, including state Sen. Robert Peters, who positions himself as the true progressive in the race. While Peters has garnered high-profile endorsements and emphasizes his progressive stance, the primary also includes other prominent contenders such as Cook County Commissioner Donna Miller, who promotes a moderate approach, and former Congressman Jesse Jackson Jr., leveraging his extensive institutional experience. The race is competitive, with candidates sharing similar policy goals like expanding healthcare and investing in the Southland, but diverging in campaign styles and tactics. The outcome hinges on factors such as name recognition, campaign funding, and voter preferences, making Peters’ nomination uncertain at this stage.
 
 Title: What to know about the 2nd Congressional District Democratic primary race - WBEZ Chicago
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.wbez.org/government-politics/elections/2026/02/17/what-to-know-2nd-congressional-district-democratic-primary
-Summary: The Democratic primary for Illinois' 2nd Congressional District is highly competitive, especially following U.S. Rep. Robin Kelly's decision to run for the Senate, which has opened the field to ten Democratic candidates. Among them is Robert Peters, who is a notable figure in the race. 
+Summary: The 2nd Congressional District Democratic primary features a competitive race with 10 candidates, including State Senator Robert Peters, who has garnered progressive support and received an endorsement from U.S. Senator Bernie Sanders. The primary is significant because the winner is highly likely to become the district's next representative, given the district's Democratic leaning. While Cook County Commissioner Donna Miller currently leads in fundraising, Peters' backing from progressive circles positions him as a notable contender. The primary outcome will determine the Democratic nominee for Illinois' 2nd District, with the general election likely favoring the Democratic candidate.
 
-To assess Peters' chances of becoming the Democratic nominee, consider the following factors:
-
-1. **Candidate Landscape**: With ten candidates vying for the nomination, Peters will need to distinguish himself among a diverse field. Key competitors may include established local politicians and activists.
-
-2. **Campaign Strategy**: Peters' campaign strategy, including his messaging, outreach efforts, and fundraising capabilities, will play a crucial role in his success. His ability to connect with voters on key issues relevant to the district will be critical.
-
-3. **Voter Demographics**: Understanding the demographics of the 2nd District, including voter preferences and turnout patterns, can provide insights into Peters' potential support base.
-
-4. **Endorsements and Support**: Any endorsements from influential local leaders or organizations could significantly boost Peters' visibility and credibility in the race.
-
-5. **Public Engagement**: Peters' participation in forums and debates, as well as his engagement with community issues, will be important in shaping public perception and support.
-
-Overall, while Robert Peters has the potential to be a strong candidate, his success will depend on how effectively he navigates the competitive primary landscape and resonates with the electorate.
-
-Title: [PDF] Primary Elections and the Quality of Elected Officials1
-Author: 
-URL: https://haas.berkeley.edu/wp-content/uploads/Primary-Elections-and-the-Quality-of-Elected-Officials.pdf
-Summary: The paper "Primary Elections and the Quality of Elected Officials" by Shigeo Hirano and James M. Snyder Jr. discusses the significance of primary elections in the U.S. electoral system, particularly in safe constituencies where one party dominates. It argues that primaries are crucial for selecting high-quality candidates, especially in districts where voter loyalty strongly favors one party. The authors highlight that about 60% of congressional districts are considered safe, making primaries particularly impactful in these areas.
-
-For predicting whether Robert Peters will be the Democratic nominee for IL-02, consider the following insights from the paper:
-
-1. **Dominance of Safe Constituencies**: If IL-02 is a safe Democratic seat, the primary election will likely determine the nominee. The competitiveness of the primary could be a key factor.
-
-2. **Candidate Quality**: The paper suggests that primaries can effectively select high-quality candidates. Evaluating Peters' qualifications and public support compared to potential challengers may provide insights into his chances.
-
-3. **Voter Loyalties**: Understanding the voter demographics and loyalties in IL-02 will be crucial. If the district has a strong Democratic base, Peters may have an advantage.
-
-4. **Historical Context**: The paper notes that incumbents often face little competition in primaries, but if Peters is not an incumbent, the level of competition he faces could influence his nomination prospects.
-
-Overall, analyzing the political landscape of IL-02, including voter loyalty and the competitiveness of
-
-Title: Illinois State Senator Robert Peters
-Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://senatorrobertpeters.com/
-Summary: Illinois State Senator Robert Peters is an influential figure in Illinois politics, particularly known for his recent legislative efforts aimed at improving public safety, transit reform, and housing rights for domestic violence survivors. His support for significant measures, such as the establishment of the Northern Illinois Transit Authority and laws enhancing transparency in violent crime investigations, showcases his commitment to addressing pressing community issues.
-
-As for his potential candidacy for the Democratic nomination for Illinois' 2nd Congressional District (IL-02), Peters' active role in state legislation and his focus on community needs could position him favorably among Democratic voters. His recent initiatives, which emphasize public safety and support for vulnerable populations, may resonate well with constituents looking for a candidate who prioritizes social justice and effective governance.
-
-However, the decision on whether he will run for the IL-02 seat will depend on various factors, including party dynamics, potential challengers, and his own political aspirations. Monitoring his public statements and campaign activities in the lead-up to the election will provide further insights into his intentions regarding the nomination.
+Title: WFP Endorses Robert Peters for Congress in IL-02  - Working Families Party
+Author: Charles Monaco
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://workingfamilies.org/2026/02/wfp-endorses-robert-peters-for-congress-in-il-02/
+Summary: The Working Families Party has endorsed State Senator Robert Peters for Illinois’s 2nd congressional district, citing his strong advocacy for working-class issues, criminal justice reform, and independence from corporate interests. Peters has a track record of fighting for minimum wage increases and lowering healthcare costs, aligning with progressive priorities. While the endorsement highlights his suitability as a candidate committed to community and progressive values, it does not confirm whether he will secure the Democratic nomination for IL-02.
 
 
