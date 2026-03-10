@@ -1,53 +1,54 @@
 # Research: Will the Republican Party win the NC-13 House seat?
 
 **Market ID:** 0x0536145e60528ca32583b13961a328a679b868f9fc6a775c2845776d8aa70cbe
-**Researched At:** March 1, 2026 at 06:03:20 AM UTC
+**Researched At:** March 10, 2026 at 03:02:58 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the NC-13 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.5¢
+**Confidence:** Medium
+**Expected Value:** 1.2¢
 
 ### Summary
 
-Given strong signals from redistricting and midterm dynamics but no concrete polling or PVI, the 83.5% probability may be slightly overconfident yet lacks definitive counter‐data; small expected edge (~2.5¢) warrants low‐stakes follow-up.
+Primary vote shares near 90% for the Republican nominee and a “Solid Republican” district rating align well with an 83% market probability. With no credible contrary evidence, the current price appears reasonable, and any mispricing is small.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Republican Party’s nominee will win the newly redrawn NC-13 U.S. House seat on November 4, 2026. A “YES” resolution requires that the winner on election night (or, if disputed, in the official FEC-certified results) be affiliated with or caucus with the GOP; “NO” resolves if a non‐Republican (Democrat or independent caucusing with Democrats) wins.
+- The market asks whether the Republican nominee will win the NC-13 U.S. House seat on November 4, 2026. A “YES” resolves if the Republican wins, “NO” if the Democrat (or other) wins.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports >83.5%):  
-• Multiple Republican candidates united behind Trump’s agenda signal a motivated base and high turnout in a district likely redrawn to favor Republicans.  
-• National GOP enthusiasm and favorable midterm environment (presidential party often loses seats) may boost Republican chances.  
+Bullish for Republicans (supports 83%):  
+- NYT/NBC primary returns (Mar 3–4): Brad Knott captured ~89.9% of the GOP primary vote; in counties within NC-13 he carried 89.4–91.9% in the primary, indicating strong GOP base.  
+- Cook Political Report: District rated “Solid Republican.”  
+- AP confirms the Republican nominee is locked in, reducing uncertainty on candidate quality.  
 
-Bearish (suggests price too high):  
-• No public general‐election polling or Cook PVI data for NC-13—without clear partisan index, 83.5% may overstate confidence.  
-• Historically Democratic since 1882; lack of evidence on how redistricting shifted margins.  
-• Competitive GOP primary (5-way) could leave intra‐party wounds or produce a weak nominee.  
+Bearish (suggesting price might be too high):  
+- No material evidence of a scandal, redistricting change, surge in Democratic turnout, or unusually strong Democrat in the general has appeared.  
+- One article notes multiple Democratic challengers, but none show signs of seriously narrowing a near-90% primary GOP base.  
 
-Source credibility/recency: All articles are from February 2026 by reputable outlets, but none offer hard numbers (polls, PVI) for general election. Analyses focus on candidate positioning and primary dynamics, not final head-to-head matchup.
+All sources (NYT, NBC, AP, Cook) are credible and recent (March 2026). No obvious “missing” information that the market appears to have overlooked.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 83.5% price could reflect informed traders’ view that redistricting has made NC-13 a safe GOP seat, combined with 2026 midterm tailwinds.  
-• Low $38 volume risks being set by one or two overconfident traders rather than broad consensus.  
-• Alternatively, low engagement could mean the race is so obviously leaning GOP that few bother to trade—trading “yes” is seen as a no‐brainer.
+- The 83% likely reflects consensus among informed traders that a “Solid R” seat will hold.  
+- $0 volume suggests either very few traders needed to trade to that level or the outcome is viewed as nearly assured, so no one saw value in shifting the price.  
+- It’s plausible that the market maker’s prior (80–85% for a “Solid R” seat in midterms) dominates, rather than being set by a lone over-confident trader.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible data (e.g., public PVI or general‐election polls) appears missing from the market price, but the absence of polling also means there’s significant uncertainty. Given historical Democratic lean, the lack of hard corrective information suggests caution before trusting an 83.5% probability. However, without a clear counter‐vailing data point—such as a neutral poll showing <50% GOP support—we cannot confidently assert a large mispricing.
+- No specific, credible evidence suggests a >10–20 point error. All known fundamentals (strong primary margin, partisan lean) point to a high probability Republican win, consistent with 83%.  
+- Given the long horizon, some small uncertainty remains (e.g. national environment, candidate dynamics), justifying a sub-90% but high probability.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market is mispriced: 25% (no hard data either way)  
-Magnitude of potential mispricing: 10¢ (could be overconfident by a small margin)  
-Expected value = 0.25 × 10¢ = 2.5¢
+- Strength of evidence (that price is fair): ~60% (moderately strong).  
+- Magnitude of mispricing: ~2 cents (small, given lack of contrary signals).  
+- EV = 60% × 2¢ = 1.2¢
 
-EXPECTED_VALUE: 2.5  
-SUMMARY: Given strong signals from redistricting and midterm dynamics but no concrete polling or PVI, the 83.5% probability may be slightly overconfident yet lacks definitive counter‐data; small expected edge (~2.5¢) warrants low‐stakes follow-up.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.2  
+SUMMARY: Primary vote shares near 90% for the Republican nominee and a “Solid Republican” district rating align well with an 83% market probability. With no credible contrary evidence, the current price appears reasonable, and any mispricing is small.  
+CONFIDENCE: medium
 
 ---
 
@@ -55,62 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: North Carolina 13th Congressional District Primary Election Results 2026 - The New York Times
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: http://mobile.nytimes.com/interactive/2026/us/elections/results-north-carolina-us-house-13-primary.html
+Summary: The recent primary election results for North Carolina's 13th Congressional District indicate a strong Republican showing, with Brad Knott securing the Republican nomination by a significant margin (approximately 89.9% of votes). The district is rated as "Solidly Republican" by The Cook Political Report, suggesting a favorable environment for the Republican candidate in the upcoming general election. Given Knott's decisive primary victory and the district's partisan rating, it is likely that the Republican Party has a strong chance of winning the NC-13 House seat in the general election.
+
+Title: North Carolina House District 13 Primary Election Live Results 2026 - NBC News
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-us-house-district-13-results
+Summary: The current primary results for North Carolina House District 13 indicate a strong likelihood of a Republican victory. Incumbent Brad Knott has secured approximately 89.9% of the vote in the Republican primary, with nearly all votes counted and an estimated remaining 700 votes. In the general election, county-level results show Knott leading significantly in counties like Caswell, Franklin, Granville, and Harnett, with percentages ranging from approximately 89.4% to 91.9%. These consistent margins across multiple counties suggest a solid base of support for the Republican candidate. Conversely, the Democratic primary was won by Paul Barringer with about 59.1% of the vote, but the Republican candidate's dominant performance in the general election counties indicates a strong chance that the Republican Party will win the NC-13 House seat.
+
+Title: Brad Knott wins Republican nomination for U.S. House in North Carolina's 13th Congressional District | National | guardonline.com
+Author: AP
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.guardonline.com/news/national/brad-knott-wins-republican-nomination-for-u-s-house-in-north-carolinas-13th-congressional-district/article_bf6ddac3-8547-52ce-86bb-b55a6817417c.html
+Summary: Brad Knott has secured the Republican nomination for the U.S. House in North Carolina's 13th Congressional District. This development indicates that he will be the Republican candidate in the upcoming election. To assess the likelihood of the Republican Party winning the seat, one would need to consider factors such as Knott's campaign strength, voter demographics, historical voting patterns in the district, and the overall political climate. However, the article confirms that the Republican candidate is now determined, which is a key step in predicting the outcome of the race.
+
 Title: See where candidates for North Carolina's 13th US House District disagree with their own party | Ap | thederrick.com
 Author: Danielle Battaglia - The News & Observer (Raleigh) (TNS)
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.thederrick.com/ap/politics/see-where-candidates-for-north-carolinas-13th-us-house-district-disagree-with-their-own-party/article_b0b93d84-1313-5a02-b1a5-fb881d57f8f7.html
-Summary: The article discusses the candidates for North Carolina's 13th US House District and highlights where they diverge from their party lines. Understanding these differences can provide insights into the dynamics of the race and potential voter sentiment. Key factors to consider include:
-
-1. **Candidate Positions**: The candidates' stances on critical issues may resonate differently with constituents, influencing their chances of winning. Notably, any significant disagreements with party platforms could attract independent or moderate voters.
-
-2. **Voter Demographics**: Analyzing the demographics of the district, including party affiliation, age, and socioeconomic status, can help predict electoral outcomes. Shifts in these demographics may favor one party over the other.
-
-3. **Political Climate**: The current political environment, including national trends and local issues, will impact voter turnout and preferences. Republican candidates may need to align their messages with broader party themes while addressing local concerns.
-
-4. **Campaign Strategies**: The effectiveness of each candidate's campaign strategy, including outreach efforts and fundraising, will play a crucial role in their ability to mobilize voters.
-
-By examining these aspects, one can better gauge the likelihood of the Republican Party securing the NC-13 House seat in the upcoming election.
+Summary: The webpage discusses the candidates challenging incumbent Republican Rep. Brad Knott in North Carolina's 13th Congressional District. It highlights that there are three Democratic challengers—Paul Barringer, Frank Pierce, and Alexander Nicholi—and one Republican challenger, Sid Sharma. The article emphasizes the importance of understanding each candidate's policy positions and disagreements with their own party to assess electoral prospects. While specific policy differences or campaign strategies are not detailed, the presence of multiple challengers from both parties suggests a competitive race. Given the current political landscape and candidate diversity, predicting whether the Republican Party will retain the seat depends on factors such as candidate appeal, voter turnout, and campaign dynamics, which are not explicitly analyzed in the article.
 
 Title: ‘Toss-up': No clear front-runner in GOP race for redrawn Eastern NC district - NewsBreak
 Author: Luciana Perez
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.newsbreak.com/raleigh-news-observer-1592485/4489467316294-toss-up-no-clear-front-runner-in-gop-race-for-redrawn-eastern-nc-district
-Summary: The GOP race for the redrawn NC-1 Congressional District, previously a Democratic stronghold, is currently competitive with no clear front-runner among five Republican candidates. With early voting underway and the primary election approaching, the divided field may lead to a runoff if no candidate secures at least 30% of the vote. Candidates are actively campaigning across the district's 23 counties, but face challenges in gaining name recognition and appealing to diverse voter interests, from coastal issues to agriculture. Political observers note that without a significant endorsement, such as from former President Trump, the race remains unpredictable. Public polling is limited, making it difficult to gauge voter preferences. Overall, the outcome is uncertain, and the dynamics of the primary could influence the Republican Party's chances in the upcoming general election for the NC-13 House seat.
-
-Title: In NC's 1st Congressional District, 5 Republicans are vying to face U.S. Rep. Don Davis | WUNC News
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.wunc.org/politics/2026-02-27/in-ncs-1st-congressional-district-5-republicans-are-vying-to-face-u-s-rep-don-davis
-Summary: In North Carolina's 1st Congressional District, five Republican candidates are competing for the chance to challenge incumbent U.S. Rep. Don Davis in the upcoming election. The dynamics of this primary race could significantly influence the Republican Party's chances of winning the NC-13 House seat. Key factors to consider include the candidates' platforms, fundraising capabilities, and voter sentiment in the district. The outcome of the primary will likely shape the Republican strategy and appeal to voters in the general election, making it crucial for predicting the party's success in NC-13.
-
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:03:04.381Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article discusses the competitive landscape of the U.S. House of Representatives for the 2026 elections, highlighting key districts that could influence the majority. Regarding the North Carolina 13th District (NC-13), the piece does not provide specific details about this seat but emphasizes the broader context of redistricting and electoral dynamics that could affect Republican chances.
-
-Key points relevant to predicting the outcome for NC-13 include:
-
-1. **Redistricting Impact**: The article notes ongoing redistricting efforts in various states, which can significantly alter the political landscape. Changes in district boundaries could either strengthen or weaken Republican candidates in NC-13.
-
-2. **Political Climate**: The overall sentiment towards the Republican Party, influenced by national trends and local issues, will play a crucial role. The article references conflicts within the party and challenges faced by incumbents, which could reflect broader voter sentiments.
-
-3. **Competitiveness of Seats**: The discussion of competitive districts suggests that NC-13 could be a battleground, depending on how redistricting affects its demographics and political leanings.
-
-4. **Local Candidates**: The success of Republican candidates in NC-13 will also depend on their appeal to local voters, which is influenced by their positions on key issues and their ability to connect with constituents.
-
-In summary, while the article does not directly address NC-13, understanding the implications of redistricting, the political climate, and candidate dynamics will be essential for predicting whether the Republican Party
-
-Title: Election 2026: Republican quintet focused to flip U.S. House seat | North Carolina | thecentersquare.com
-Author: Alan Wooten | The Center Square
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.thecentersquare.com/north_carolina/article_0d1d8d46-519b-43b0-bc72-88d91ba26174.html
-Summary: In the upcoming 2026 election, five Republican candidates are vying to flip the NC-13 House seat, which has not been held by a Republican since 1882. The candidates—Laurie Buckhout, Asa Buck, Bobby Hanig, Ashley-Nicole Russell, and Eric Rouse—are united in their support for former President Donald Trump and his policies, indicating a strong alignment with the "America First" agenda. 
-
-During a recent forum, they emphasized key issues such as rural healthcare and government spending, while largely avoiding direct criticism of their Democratic opponent, Rep. Don Davis. Each candidate brings a unique background: Buckhout has experience in the Trump administration, Hanig has legislative experience, Buck is transitioning from a long tenure as sheriff, Rouse has local government experience, and Russell positions herself as an outsider.
-
-The candidates are actively seeking Trump's endorsement, which could significantly influence their chances in the primary election set for March 3, following a lengthy absentee voting period. Their collective focus on eliminating the U.S. Department of Education and addressing local family concerns suggests a strategy aimed at appealing to conservative voters in the district.
-
-Given the candidates' alignment with Trump and their emphasis on key issues, the Republican Party's chances of winning the NC-13 seat will likely depend on voter sentiment towards Trump, local economic concerns, and the candidates' ability to differentiate themselves from each other and from Davis.
+Summary: The article discusses the upcoming Republican primary for North Carolina's 1st Congressional District, a seat historically leaning Democratic but now more competitive. With five GOP candidates vying for the nomination, no clear front-runner has emerged due to limited name recognition, diverse voter preferences across a large, rural district, and no candidate having secured significant fundraising advantages. The race is considered highly competitive and could go to a runoff if no candidate receives at least 30% of the vote. While the district's political landscape is shifting, the outcome remains uncertain, and the primary's result will influence the Republican Party's chances in the general election. This suggests that predicting a Republican win in NC-13 requires considering the primary's unpredictable nature and the candidates' ability to appeal across a diverse and geographically expansive district.
 
 

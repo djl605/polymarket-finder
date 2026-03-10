@@ -1,7 +1,7 @@
 # Research: Will Ukraine agree to give up the rest of Donbas before 2027?
 
 **Market ID:** 0xbac2d74fbb7ab5f72b557605538376485d1a093bd9a526584b33153a83a74d97
-**Researched At:** March 6, 2026 at 04:19:48 AM UTC
+**Researched At:** March 10, 2026 at 03:01:30 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Ukraine agree to give up the rest of Donbas before 2027?"
 
 ---
@@ -9,41 +9,36 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 8.6¢
+**Expected Value:** 8.0¢
 
 ### Summary
 
-Recent high-level Ukrainian statements consistently reject ceding Donbas, suggesting the market’s 19.5% probability is likely too high, though a small tail risk remains under extreme pressure. Given low trading volume, the price appears modestly mispriced by about 10 cents.
+Public statements from Zelensky and broad Ukrainian opposition make a concession deal before 2027 highly unlikely, suggesting the market’s 18.5% may be overstated by roughly 10 cents. With strong, recent, and credible evidence favoring “No,” there appears to be modest mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether, by December 31, 2026, Ukraine and Russia will publicly agree to Ukraine cede de facto control of its remaining major cities in Donetsk and Luhansk Oblasts (Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, Pokrovsk). A “Yes” requires a mutually acknowledged diplomatic deal (or overwhelming credible reporting). Military conquest alone does not count; it must be part of a negotiated agreement before the deadline.
+The market asks whether Ukraine will formally agree—via a mutual, publicly announced diplomatic deal—to cede de facto military control of Kramatorsk, Sloviansk, Kostiantynivka, Druzhkivka, and Pokrovsk by Dec 31, 2026. A “Yes” requires an official agreement (or overwhelming credible reporting) in which Kyiv concedes these cities; absent that, it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish (low‐probability) evidence:  
-• March 2–3, 2026 statements by President Zelenskyy (Interfax, LB.ua, KyivPost) flatly refuse territorial concessions, rejecting any swap or freeze of Donbas. He brands Russian demands as unreasonable and underscores Donbas’s strategic importance.  
-• December 2025 Euronews analysis underscores Russia’s strong interest, but notes a voluntary Ukrainian cession is unlikely without major diplomatic breakthroughs or collapse in Western support.  
-
-Bullish (higher‐probability) counterpoints:  
-• Atlantic Council warns Russia will apply sustained pressure, possibly yielding a diplomatic settlement if conflict drags on or NATO hesitates. Europe’s fatigue or a negotiated “frozen” front could induce Ukraine to compromise under duress.  
-• Historical negotiations (e.g., 1999 Yugoslav-Kosovo) show that territorial freezes can be packaged as peace deals even without sovereignty recognition—so Ukraine might reluctantly accept a ceasefire line to secure Western guarantees.  
-
-Source credibility and recency: Zelenskyy’s remarks are direct and within days of market date, highly credible. Atlantic Council and Euronews provide strategic context but are less immediate. No obvious reason the market hasn’t priced in Zelenskyy’s firm stance—yet low volume suggests few active participants.
+Bearish evidence (favoring “No”, i.e. unlikely to cede):  
+- Multiple February 2026 statements from President Zelensky in Kyiv Post, Axios, Pravda, and RBC-Ukraine consistently emphasize unacceptability of any deal ceding Donbas and note that any referendum would reject such terms.  
+- Zelensky’s strategic rationale (freezing frontline vs. full concession) and domestic political constraints make a deal before 2027 highly improbable.  
+No bullish evidence (favoring “Yes”) appears in the research. All sources are recent (Feb 2026), credible (major outlets), and directly quote Ukraine’s leadership and public sentiment.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 19.5% price plausibly reflects a small but non‐zero chance of a pressured settlement or “frozen” front, consistent with war‐fatigue scenarios. The narrow bid‐ask spread despite zero volume suggests one or few initial liquidity providers set this odds, possibly reflecting headline‐driven views without deep war‐game modeling. Informed traders may have stayed on the sidelines if they see the probability as nearer to 5–10%, leaving the price artificially high.
+At 18.5% on zero volume over 125 days, the price could reflect one or a few contrarian bets rather than broad consensus. Informed traders could easily arb this if they believed there was near-zero real chance; the absence of trades suggests either they agree the tail risk is nonzero (e.g. extreme outside pressure) or simply haven’t engaged.  
 
 4. MISPRICING ASSESSMENT  
-Balancing Zelenskyy’s unambiguous refusal (arguing for <10%) against low‐probability “forced compromise” tail risks (justifying >0%), the 19.5% seems elevated. There’s no sign of an imminent breakthrough; key Western backers remain supportive of Ukraine’s territorial integrity. Thus the market likely overstates the chance by ~9–12 cents. Large mispricings (>20 cents) are rare and absent here; the bias stems from low engagement rather than a new diplomatic surge.
+Given unanimous public opposition from Ukraine’s leadership and no countervailing signals, a “Yes” outcome seems closer to a single‐digit probability. Pricing at 18.5% likely overstates Ukraine’s willingness to concede. A more defensible probability might be 5–10%, implying a mispricing of roughly 8–13 cents.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 90% (Zelenskyy’s direct, recent statements are strong)  
-Magnitude of mispricing: ≈9.5 cents (market at 19.5% vs. an informed view near 10%)  
-Expected value = 0.90 × 9.5 cents = 8.6 cents
+Strength of evidence: 80% (consistent, credible, recent, unanimous)  
+Magnitude of mispricing: ~10 cents (difference between 18.5% and ~8%)  
+Expected value = 0.8 × 10 cents = 8 cents
 
-EXPECTED_VALUE: 8.6  
-SUMMARY: Recent high-level Ukrainian statements consistently reject ceding Donbas, suggesting the market’s 19.5% probability is likely too high, though a small tail risk remains under extreme pressure. Given low trading volume, the price appears modestly mispriced by about 10 cents.  
+EXPECTED_VALUE: 8  
+SUMMARY: Public statements from Zelensky and broad Ukrainian opposition make a concession deal before 2027 highly unlikely, suggesting the market’s 18.5% may be overstated by roughly 10 cents. With strong, recent, and credible evidence favoring “No,” there appears to be modest mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -52,31 +47,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Zelenskyy: Talks on 20-point peace plan stall over territorial dispute as president vows not to abandon Donbas
-Author: Valentyna Mereshchuk
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://en.lb.ua/news/2026/03/03/37570_zelenskyy_talks_20point_peace.html
-Summary: President Zelenskyy has firmly rejected Ukraine's withdrawal from Donbas, emphasizing that Ukraine will not abandon its territories or its residents there. Discussions on a 20-point peace plan have stalled primarily over territorial disputes, with Russia demanding Ukraine withdraw from Donbas and the U.S. proposing a territorial exchange—an idea Zelenskyy opposes, viewing it as detrimental to Ukraine's interests. Zelenskyy asserts that Ukraine's current position is to maintain control and not to freeze the front line or capitulate, citing the strategic importance of Donbas for Ukraine's security. He also criticizes Russia's demand for unilateral troop withdrawal as unreasonable and warns that withdrawing troops could allow Russian forces to advance further into Ukraine. Given Zelenskyy's strong stance against ceding Donbas and the current diplomatic deadlock, it is unlikely Ukraine will agree to give up the rest of Donbas before 2027.
-
-Title: Zelenskyy: We are not talking about exchanging small border territories for the large territory of Donbas that we control today
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: http://en.interfax.com.ua/news/general/1148495.html
-Summary: President Volodymyr Zelenskyy has emphasized that Ukraine is not willing to exchange small border territories for the larger Donbas region that it currently controls. He clarified that Russia's primary objective remains the full capture of Donbas, and Ukraine will not consider ceding significant parts of it in negotiations. Zelenskyy highlighted that while Russian forces find it difficult to hold border areas, Ukraine's military efforts aim to push them out, and there is no indication of Ukraine relinquishing the rest of Donbas before 2027. This stance suggests that Ukraine is committed to defending its territorial integrity and is unlikely to agree to surrender the remaining parts of Donbas in the near future.
-
-Title: Zelensky Won’t Swap Prime Donbas Land for Easy-to-Liberate Border Area
+Title: Zelensky Says Ukrainians Would Reject Deal Handing Donbas to Russia
 Author: Yuliia Zavadska
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.kyivpost.com/post/71053
-Summary: Ukrainian President Zelensky has explicitly stated that Ukraine will not exchange its strategically vital Donbas territory for easier-to-liberate border areas, emphasizing the differing strategic significance of these regions. Zelensky's stance underscores Ukraine's commitment to defending its core territories and suggests that negotiations or territorial concessions are unlikely to involve relinquishing Donbas before 2027. The focus remains on resisting Russian advances in Donbas, which Moscow covets, rather than trading it for less critical border regions. This position indicates that Ukraine is unlikely to agree to give up the rest of Donbas in the near future, especially before 2027.
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.kyivpost.com/post/70282
+Summary: Ukrainian President Zelensky has emphasized that Ukrainians would strongly oppose any deal requiring Kyiv to unilaterally withdraw from Donbas and hand it over to Russia, especially via a referendum. Zelensky's stance indicates that Ukraine is unlikely to agree to cede the region before 2027, as such a move would face significant domestic opposition. The Ukrainian leadership remains committed to defending Donbas and prioritizes negotiations that respect Ukraine's sovereignty and the will of its people.
 
-Title: Putin's next move? Five Russian attack scenarios Europe ...
-Author: ktalley
-URL: https://www.atlanticcouncil.org/in-depth-research-reports/report/putins-next-move-five-russian-attack-scenarios-europe-must-prepare-for/
-Summary: The Atlantic Council report analyzes potential Russian attack scenarios in Europe, emphasizing that Russia, under Putin, is likely to pursue aggressive actions if it cannot secure a decisive victory in Ukraine. Key threats include possible occupations of strategic areas such as Norway’s Svalbard archipelago, Åland Islands, eastern Estonia, Gotland, and a land bridge to Kaliningrad. Russia aims to rebuild its military strength, recover territories, and test NATO’s resolve, especially in the context of prolonged conflicts or frozen situations in Ukraine. The report suggests that Russia’s strategic ambitions are driven by desires to enhance prestige, weaken NATO, and expand its influence in Europe. Given this context, Russia’s actions could influence Ukraine’s willingness to negotiate or make concessions, including potential territorial compromises like Donbas, especially if Moscow perceives opportunities to achieve strategic gains without full-scale conflict escalation.
+Title: Zelensky says Ukrainian public won't let him hand Russia territory
+Author: Barak Ravid,Dave Lawler
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://www.axios.com/2026/02/17/ukraine-russia-negotiations-zelensky-donbas
+Summary: Ukrainian President Zelensky has emphasized that the Ukrainian public would strongly oppose any peace agreement involving unilateral withdrawal from the Donbas region, which remains partly under Ukrainian control. Zelensky indicated that Ukraine is unlikely to cede territory to Russia, especially given the public's resistance and the importance of maintaining territorial integrity. As negotiations continue, Zelensky has expressed skepticism about Russia's genuine desire for peace and criticized external pressures, including comments from former U.S. President Trump, urging Ukraine to make concessions. Given these positions, it appears unlikely that Ukraine would agree to relinquish the rest of Donbas before 2027, especially without significant shifts in public opinion or diplomatic circumstances.
 
-Title: Why does Russia want Ukraine's Donbas?
-URL: https://www.euronews.com/2025/12/12/why-does-russia-want-ukraines-donbas
-Summary: The article explores Russia's strategic and geopolitical motivations for wanting control over Ukraine's Donbas region. Russia aims to secure its influence in eastern Ukraine due to the region's economic significance, particularly its industrial and coal resources, and its symbolic importance as a historically Russian-speaking area. Russia also seeks to prevent Ukraine's integration into Western institutions like NATO and the EU, viewing Donbas as a buffer zone against Western influence. Additionally, Russia's military campaigns and political objectives are driven by a desire to assert dominance and weaken Ukraine's sovereignty. Given these factors, Russia's interest in Donbas is deeply rooted in both economic interests and broader geopolitical ambitions, making a swift or voluntary Ukrainian concession unlikely before 2027 without significant diplomatic or military developments.
+Title: Ukrainians will reject any peace deal that hands Donbas to Russia – Zelenskyy | Ukrainska Pravda
+Author: 
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://www.pravda.com.ua/eng/news/2026/02/17/8021523/
+Summary: Ukrainian President Volodymyr Zelenskyy has stated that Ukraine will reject any peace agreement that involves unilaterally ceding Donbas to Russia, emphasizing that such a deal would be unacceptable to the Ukrainian people. Zelenskyy highlighted that any resolution must involve the sovereignty of Ukraine and the inclusion of its citizens in Donbas, rejecting Russia's claims of sovereignty over the region. He expressed openness to negotiations, including troop withdrawals, but insisted that Russia must first pull back forces to a comparable distance. Zelenskyy also indicated that any peace deal would require a referendum in Ukraine, and that Ukrainians would likely reject an agreement that results in the loss of their land and citizenship. Currently, Ukraine favors freezing the front line in Donbas rather than ceding territory, while Russia insists on taking all of Donbas, either through negotiations or force. Given these positions, it appears unlikely that Ukraine would agree to give up the rest of Donbas before 2027, especially without significant changes in negotiations or international pressure.
+
+Title: Ukrainians will not agree to deal handing Donbas to Russia, Zelenskyy says | RBC-Ukraine
+Author: 
+Published Date: 2026-02-17T00:00:00.000Z
+URL: https://newsukraine.rbc.ua/news/which-deal-with-russia-ukraine-will-never-1771357844.html
+Summary: President Zelenskyy has firmly stated that Ukraine will not accept any peace deal that grants Russia control over all of Donbas, emphasizing that such an agreement would be rejected in a Ukrainian referendum. He highlighted that Ukrainians are unlikely to support territorial concessions beyond a freeze on current front lines, which could be acceptable if the agreement simply stabilizes the situation without further territorial loss. Zelenskyy also noted that any peace agreement involving the withdrawal of Ukrainian troops from Donbas would be emotionally unacceptable to the Ukrainian people and unlikely to pass a referendum. Given these positions, it is improbable that Ukraine would agree to cede the rest of Donbas before 2027, especially if such concessions involve full territorial surrender.
+
+Title: Zelensky says Russia wants Ukraine to leave Donbas ...
+URL: https://www.facebook.com/KyivPost/posts/zelensky-says-russia-wants-ukraine-to-leave-donbas-to-regroup-for-future-offensi/1532535985420991/
+Summary: The article reports Ukrainian President Zelensky's warning that Russia aims for Ukraine to leave the Donbas region to regroup for future offensives. Zelensky cautions that a withdrawal could enable Russia to deploy up to one million troops elsewhere, potentially leading to a large-scale invasion. He emphasizes that Russia's strategic goal is to weaken Ukraine by pressuring its territorial integrity, and he warns against any Ukrainian concessions in Donbas, as they could be exploited by Russia to intensify military operations. The historical context of broken treaties with Russia over the region underscores the risks associated with territorial compromises. This information suggests that Ukraine is likely to resist ceding Donbas before 2027, given the strategic and security implications highlighted by Zelensky.
 
 

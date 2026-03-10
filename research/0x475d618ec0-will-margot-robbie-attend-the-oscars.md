@@ -1,50 +1,53 @@
 # Research: Will Margot Robbie attend the Oscars?
 
 **Market ID:** 0x475d618ec0400594ae03be24a9f9b4d249e18627d1a3d9f6c2c5d47a138f73d1
-**Researched At:** March 4, 2026 at 04:16:06 AM UTC
+**Researched At:** March 10, 2026 at 03:03:40 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Margot Robbie attend the Oscars?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 1.0¢
 
 ### Summary
 
-There is no substantive new information that would materially shift Margot Robbie’s ~69% attendance probability; existing predictions and schedule data are already in line with the market. A minor logistical risk from her Tropfest commitment could slightly reduce her chances, but not enough to flag significant mispricing.
+All available reporting is speculative and broadly consistent with a ~71% chance; no clear private information or overlooked factor suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Margot Robbie will be physically present at the 98th Academy Awards ceremony on March 15, 2026. A “Yes” resolution requires credible reporting that she attends any part of the live event before March 31, 2026. “No” resolves if she does not attend, the ceremony is canceled/postponed beyond the cutoff, or no credible attendance reports emerge.
+This market asks whether Margot Robbie will be physically present at the 98th Academy Awards ceremony on March 15, 2026. It resolves “Yes” if she attends any part of the event; “No” otherwise (including cancellation or postponement past March 31).
 
 2. EVIDENCE EVALUATION  
-Bullish (supports ~69%):  
-• Covers.com prediction (2026-02-18) pegs her attendance at ~67%, driven by her status as a frequent nominee/winner.  
-• As a high-profile Oscar contender (e.g., “Wuthering Heights”) with industry expectations, she has both incentive and precedent to attend.  
-Bearish (argues price too high):  
-• No direct reporting confirms her Oscar plans; other articles (Gold Derby, Variety, Hollywood Reporter) lack any attendance details.  
-• She’s booked to preside at Tropfest in Sydney on Feb 22, which could complicate travel logistics for the March 15 ceremony—though a 3-week gap leaves ample time.  
-Source credibility: Covers.com is a known sports/entertainment odds aggregator; Variety and Hollywood Reporter are reputable but silent on attendance. All sources are within the past month.
+Bullish (supports ~71%):  
+• Robbie is a major star with recent blockbuster success (“Barbie”), ongoing awards buzz, and a new high-profile role. Major pillars of betting commentary (covers.com, Gold Derby) cite industry prominence as a key driver of attendance.  
+• Historically, top-tier actors often attend regardless of nomination status, both for networking and visibility.  
+Bearish (pulls price lower):  
+• She did not receive a Best Actress nomination this year (IMDb article on “outrage”), which could reduce her incentive to attend.  
+• No source provides a direct commitment or insider tip that she will definitely be there. All available reporting is speculative.  
+Source credibility & recency:  
+• Covers.com, Gold Derby, and IMDb are reputable entertainment-industry outlets; the most recent is from March 9, 2026. No direct insider confirmations exist.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The market’s 69% aligns closely with Covers.com’s 67% estimate, suggesting consensus rather than idiosyncratic pricing.  
-• Low $8k volume and tight 6¢ spread hint at limited but focused trading; the outcome is neither trivial (some uncertainty exists) nor heavily disputed.  
-• Absence of conflicting, hard information likely keeps informed traders at parity, rather than withholding.
+• A 71% price can reflect consensus that Robbie’s star power outweighs her non-nominee status.  
+• Low volume suggests few traders have taken a position, but the outcome is straightforward enough that many may consider it a foregone conclusion.  
+• If any well-informed trader had contrary private info (e.g., a scheduling conflict), they’d likely trade; the lack of trading may imply few such concerns exist.
 
 4. MISPRICING ASSESSMENT  
-No clear, credible evidence is missing. Travel commitments (Tropfest) may introduce minor risk of cancellation but probably already factored into existing odds. The Covers.com figure corroborates the market. There’s no new revelation (e.g., injury, schedule conflict) that would move probability by more than a few cents.
+• No clear, credible evidence has been omitted: industry commentary and historical patterns are already priced in.  
+• The main uncertainty—her personal plans or last-minute factors—is inherently unobservable.  
+• A large mispricing (≥20¢) is implausible given the market mechanics and lack of contradictory data.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (sources largely silent on attendance specifics).  
-• Magnitude of mispricing: 5¢ (at most a slight overestimate if logistical risk is under-priced).  
-Expected value = 0.20 × 5¢ = 1¢
+• Strength of evidence for mispricing: 20% (little concrete data missing)  
+• Magnitude of potential mispricing: 5¢ (small tail risk of non-attendance)  
+• Expected value ≈ 0.2 × 5¢ = 1.0¢
 
 EXPECTED_VALUE: 1.0  
-SUMMARY: There is no substantive new information that would materially shift Margot Robbie’s ~69% attendance probability; existing predictions and schedule data are already in line with the market. A minor logistical risk from her Tropfest commitment could slightly reduce her chances, but not enough to flag significant mispricing.  
-CONFIDENCE: medium
+SUMMARY: All available reporting is speculative and broadly consistent with a ~71% chance; no clear private information or overlooked factor suggests a large mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -53,32 +56,28 @@ CONFIDENCE: medium
 *The following context was generated by Exa AI and provided to the analysis model:*
 
 Title: Who Will Attend the 2026 Oscars? Prediction Market Picks
-Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.covers.com/entertainment/oscars-prediction-markets-attendance
-Summary: Based on current prediction market data, Margot Robbie has a 67¢ chance (approximately 67%) of attending the 2026 Oscars, indicating a moderate likelihood. She is considered a perennial nominee and previous winner, making her a strong candidate to attend. Despite some skepticism reflected in the market, her status as a high-profile actress suggests she is likely to be present on the red carpet.
+Summary: The webpage discusses prediction markets and betting odds related to the 2026 Oscars, focusing on which celebrities and industry figures are likely to attend. While it does not provide specific information about Margot Robbie's attendance, it highlights that such predictions are influenced by factors like celebrity prominence, recent nominations or awards, and industry buzz. To assess whether Margot Robbie will attend, one might consider her current engagement in Oscar-nominated projects, her past attendance patterns, and industry speculation reflected in betting markets.
 
-Title: 'Wuthering Heights' instant Oscar odds for the period romance
+Title: Oscars outrage: 5 reasons why Margot Robbie (‘Barbie’) was robbed of a Best Actress bid - IMDb
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.imdb.com/news/ni64412112/
+Summary: Despite Margot Robbie's acclaimed portrayal of Barbie and her nomination as a producer for Best Picture, she was notably snubbed for a Best Actress Oscar nomination. Industry perceptions suggest that actors may have viewed her role as not sufficiently challenging or transformative to warrant a nomination, contributing to her exclusion. Given this context, there is no explicit indication from the article that Margot Robbie will attend the Oscars; her attendance remains uncertain based on the information provided.
+
+Title: 'Wuthering Heights' instant Oscar predictions: Will Margot ...
 Author: Ethan Alter
-Published Date: 2026-02-11T00:00:00.000Z
 URL: https://www.goldderby.com/film/2026/wuthering-heights-margot-robbie-jacob-elordi-2027-oscar-odds/
-Summary: The webpage discusses the upcoming 2026 Oscars, highlighting key contenders and their odds, with a focus on the film "Wuthering Heights," starring Margot Robbie and Jacob Elordi. While it emphasizes the film's awards prospects, including nominations for Margot Robbie, it does not provide specific information about her attendance at the Oscars. To predict whether Margot Robbie will attend, consider her recent award activity, her prominence in the industry, and her history of attending or skipping such events. However, based solely on this webpage, there is no direct indication of her plans to attend the Oscars.
+Summary: The webpage discusses the upcoming Oscars and highlights "Wuthering Heights," an adaptation that is generating awards buzz, particularly mentioning Margot Robbie's involvement. While it provides odds and predictions for various categories, it does not specify whether Margot Robbie will attend the Oscars. However, given her prominent role and the film's recognition, her attendance is plausible but not confirmed by the provided information.
 
-Title: Margot Robbie to Walk Black Carpet at Tropfest 2026
-Author: Lauren McNamara
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://au.variety.com/2026/film/news/tropfest-black-carpet-margot-robbie-32809/
-Summary: Margot Robbie is scheduled to walk the black carpet at Tropfest 2026 in Sydney on February 22, where she will serve as Jury President. She has expressed enthusiasm for supporting emerging filmmakers and celebrating storytelling. While her attendance at Tropfest indicates her active engagement in major events, there is no specific information confirming her plans to attend the Oscars.
+Title: Margot Robbie's Next Starring Role Revealed, Will Adapt Classic Novel - IMDb
+Author: 
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.imdb.com/es/news/ni64844105/
+Summary: Margot Robbie is set to star in an upcoming film adaptation of the classic gothic novel "Wuthering Heights," produced by her company LuckyChap and MRC, with Emerald Fennell directing. While her recent projects include the successful "Barbie" live-action film, there is no specific information indicating her attendance at the Oscars. Given her prominent role in high-profile films and industry recognition, it is plausible she might attend, but no definitive details are provided in the current sources.
 
-Title: 2026 Oscars Best Actress Predictions
-Author: Clayton Davis
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://variety.com/lists/2026-oscars-best-actress-predictions
-Summary: The article focuses on the 2026 Oscars Best Actress predictions, highlighting leading contenders such as Jessie Buckley and Renate Reinsve, with insights into the competitive race. While it discusses current frontrunners and the overall awards landscape, it does not provide specific information about Margot Robbie's attendance at the Oscars. Therefore, there is no relevant detail indicating whether Margot Robbie will attend the ceremony.
-
-Title: Feinberg Forecast: Oscar Projections as Voting Gets Underway
-Author: Scott Feinberg
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.hollywoodreporter.com/lists/2026-oscar-winner-predictions-feinberg-forecast-voting/
-Summary: The article discusses the current status of Oscar predictions as voting begins for the 2026 Academy Awards, with final voting running from February 26 to March 5. It features Scott Feinberg’s updated projections on potential winners across categories, based on industry trends and voting patterns. While it provides insights into frontrunners and award contenders, it does not mention Margot Robbie’s attendance or participation in the ceremony. Therefore, there is no specific information in this article relevant to whether Margot Robbie will attend the Oscars.
+Title: BU Film Experts Predict the Oscars | BU Today
+URL: https://www.bu.edu/articles/2024/bu-film-experts-predict-the-oscars/
+Summary: The article discusses the 96th Academy Awards, highlighting the competitive race among nominated films and industry reactions. It features insights from BU film experts Harvey Young and Jonathan Foltz, who share their favorite films of 2023 and opinions on the nominations. Notably, Margot Robbie's film "Barbie" is a significant contender, with the film having earned over $1.5 billion and being part of the cultural phenomenon "Barbenheimer." While the article does not explicitly state whether Margot Robbie will attend the Oscars, her film's prominence and the overall buzz suggest she is likely to be present, especially given her role in a major Best Picture nominee.
 
 

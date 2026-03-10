@@ -1,56 +1,51 @@
 # Research: Will the Bank of Russia make no change to the key rate after the April Meeting?
 
 **Market ID:** 0xd8bf450eca48e2649bc0945b71e449f2c80cd893d56208f31fed7a8687afadad
-**Researched At:** March 3, 2026 at 04:23:48 AM UTC
+**Researched At:** March 10, 2026 at 03:04:04 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Bank of Russia make no change to the key rate after the April Meeting?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.5¢
+**Confidence:** Medium
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Current research points to ongoing rate cuts by April but emphasizes data-dependence, which plausibly explains a 34% chance of no change. There’s slight room for a small mispricing (~5c) but no clear large deviation.
+Research shows split odds on a hold vs a cut, with no clear consensus that deviates sharply from the market’s 34.5% hold price. Low volume means limited liquidity but no strong mispricing signal.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Bank of Russia will leave its key rate unchanged at its April 24, 2026 meeting versus the level immediately beforehand. YES (“no change”) if the April decision does not alter the key rate; NO (“change”) if they either raise or cut.
+The market asks whether the Bank of Russia will leave its key rate unchanged after its April 24, 2026 meeting. It resolves YES if the April decision keeps the rate at the same level it was immediately before that meeting; it resolves NO if the bank either raises or cuts the rate.  
 
 2. EVIDENCE EVALUATION  
-a. Bearish on NO change (i.e. bullish on further cuts):  
-   - Reuters (2/13) quotes Governor Nabiullina hinting at further rate reductions subject to inflation trends.  
-   - Moscow Times (2/13) notes the Bank’s baseline plan for further 2026 cuts once inflation nears 4%, currently at 6.3%.  
-   - Izvestia (2/13) and TASS (2/13) both project additional easing through 2026, forecasting year-end rates of 13.5–14.5%.  
-   - The pattern of six consecutive cuts since mid-2024 suggests policy inertia toward further easing.
+Bullish for NO-change (i.e. a cut likely):  
+• AInvest (Mar 5) polls show a slight >50% tilt toward a 50 bp cut vs hold (~49%) at April 29.  
+• Analysts in Gabdullin’s Mar 2 article project further easing to ~14.5% by late April.  
 
-b. Bullish on NO change:  
-   - All sources stress decisions are data-dependent; if inflation remains sticky or the economy shows mixed signals, the Bank may pause in April after an expected March cut.  
-   - No source explicitly forecasts the April meeting; conditionality leaves open the possibility of a hold as officials “evaluate the need for further cuts.”
+Bullish for YES-hold:  
+• AInvest also reports nearly 50:50 odds, suggesting hold is almost as likely as a cut.  
+• GBAF and NES Centre analyses describe a cautious stance, indicating the bank may pause to monitor mixed inflation signals (inflation rose back to 6% in Jan, but disinflation trends persist).  
+• Pastushenko (Mar 2) notes the bank’s 2026 rate outlook of 13.5–14.5% implies potential pauses in a multi-step easing cycle.  
 
-c. Source credibility and recency: All are February 2026 reports from reputable outlets. No overly obvious “slam dunk” signals that the market must have missed.
+Source credibility and recency: AInvest is timely and quantitative (Mar 5), others are qualitative and slightly older (late Feb–early Mar). None provide overwhelmingly one-sided odds. Market at 34.5% undervalues hold relative to AInvest’s near-50% estimate but may incorporate additional hawkish data (e.g., Jan inflation uptick, oil‐price risks) not fully captured in pre-March analyses.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-– A 34% chance of no change implies two-thirds odds on further cuts, aligning with the narrative of ongoing easing.  
-– Low volume but tight spread suggests either a small group of informed traders or a consensus view on continued cuts.  
-– The conditional nature of the decision (inflation permitting) likely deters casual volume, leaving only specialists trading.
+A 34.5% chance of hold could reflect informed traders weighing dovish guidance against a recent inflation uptick and oil-price risks. Low volume/tight spread suggests either consensus among a few specialists or that the decision is viewed as low-stakes. The lack of strong directional conviction in the research is consistent with a sub-50% hold probability.  
 
 4. MISPRICING ASSESSMENT  
-– The evidence moderately supports a >66% probability of further cuts by April, so the market’s 34% for a hold may be slightly too high.  
-– However, the data-dependence caveat means a pause is plausible, justifying why traders price a nonnegligible 34%.  
-– There is no clear, overlooked datapoint that would shift the “no change” probability by more than ~10–15 cents.
+There is no clear, actionable divergence between available independent forecasts (~49% hold vs ~51% cut) and the market’s 34.5% hold price that exceeds typical noise in a low-volume market. No credible evidence strongly indicates a mispricing >10 cents.  
 
 5. EXPECTED VALUE CALCULATION  
-– Strength of evidence: ~50% (sources credible but conditional)  
-– Potential mispricing magnitude: ~5 cents (market may modestly overprice a hold)  
-– Expected value = 0.50 × 5c = 2.5 cents
+Strength of evidence: ~40% (mixed signals, no strong directional consensus)  
+Magnitude of mispricing: ~10 cents (if any)  
+Expected value = 0.40 × 10 cents = 4 cents  
 
-EXPECTED_VALUE: 2.5  
-SUMMARY: Current research points to ongoing rate cuts by April but emphasizes data-dependence, which plausibly explains a 34% chance of no change. There’s slight room for a small mispricing (~5c) but no clear large deviation.  
-CONFIDENCE: low
+EXPECTED_VALUE: 4.0  
+SUMMARY: Research shows split odds on a hold vs a cut, with no clear consensus that deviates sharply from the market’s 34.5% hold price. Low volume means limited liquidity but no strong mispricing signal.  
+CONFIDENCE: medium
 
 ---
 
@@ -58,34 +53,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Russia's central bank signals rates to come down further after surprise 50bp cut | Reuters
-Author: Elena Fabrichnaya
-Published Date: 2026-02-13T00:00:00.000Z
-URL: http://in.mobile.reuters.com/business/finance/russian-central-bank-cuts-key-rate-by-50-basis-points-155-2026-02-13/
-Summary: The Bank of Russia recently cut its key interest rate by 50 basis points to 15.5%, signaling a potential for further reductions depending on inflation trends. The central bank's governor, Elvira Nabiullina, indicated confidence in lowering rates in upcoming meetings, though emphasized that future decisions would depend on inflation data. Despite raising its inflation forecast to 4.5–5.5%, the bank does not anticipate a wave of inflation and considers current price rises as temporary. The bank's baseline scenario suggests the average rate could be between 13.5% and 14.5% in 2026. Given these signals, it is plausible that after the April meeting, the Bank of Russia may choose to hold rates steady rather than make further cuts, especially if inflation remains within or above the forecasted range.
+Title: Bank of Russia's April Decision: A 50bp Cut or Hold?
+Author: AInvest
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.ainvest.com/news/bank-russia-april-decision-50bp-cut-hold-2603/
+Summary: The Bank of Russia's April 29 policy meeting is highly uncertain, with market odds nearly evenly split between a 50 basis point rate cut (51%) and holding rates steady (50%). Recent signals from Governor Nabiullina have been dovish, suggesting a willingness to lower rates, especially after the February decision to cut the key rate by 50 basis points to 15.5%. However, conflicting economic data complicates the outlook: inflation rose to 6% in January, driven by services and VAT hikes, reversing previous disinflation progress. Additionally, the bank has lowered its oil price forecast, which could impact inflation and economic growth projections. A rate hold would contradict recent guidance and could lead to increased market volatility, while a cut would reinforce the easing stance. The decision hinges on how new data and commentary influence the market's near-even odds, making a no-change outcome plausible but not certain.
 
-Title: Russian Central Bank Trims Key Rate, Sees a More Balanced Economy Ahead - The Moscow Times
-Author: The Moscow Times
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://themoscowtimes.com/2026/02/13/russian-central-bank-slashes-key-rate-sees-more-balanced-economy-ahead-a91941
-Summary: The Russian Central Bank has recently reduced its key interest rate to 15.5%, marking a continuation of a series of rate cuts initiated last year. Policymakers indicated that the economy is gradually returning to balanced growth despite short-term inflation increases caused by tax hikes and expanded small business levies. The Bank expects to lower borrowing costs further in 2026, contingent on inflation approaching its 4% target, which stood at 6.3% as of early February. Given the cautious stance and the conditional nature of future rate adjustments—dependent on inflation trends—there is a possibility that the Bank of Russia may choose to hold the rate steady after the April meeting if inflation remains above target or economic conditions do not warrant further cuts.
+Title: Russian Central Bank Holds Key Rate at 21% Amid | GBAF
+URL: https://www.globalbankingandfinance.com/RUSSIA-CENBANK-RATES-b2b215ea-e435-4e08-b59c-7c011521fab7/
+Summary: The Russian Central Bank has maintained its key interest rate at 21%, indicating a cautious stance amid ongoing economic considerations. This decision reflects the bank's assessment of current inflation, economic stability, and external factors influencing Russia's financial environment. Given this steady policy, it suggests that unless significant economic shifts occur, the Bank of Russia may opt to keep the rate unchanged after the April Meeting. However, future adjustments will likely depend on inflation trends and geopolitical developments impacting Russia's economy.
 
-Title: The Central Bank has started to regularly reduce the key rate. What you need to know | Economic News | Izvestia | 13.02.2026
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: http://www.iz.ru/en/2042435/2026-02-13/central-bank-has-started-regularly-reduce-key-rate-what-you-need-know
-Summary: The Central Bank of Russia has been actively reducing its key interest rate, lowering it to 15.5% in February 2026, marking the sixth consecutive decrease from a peak of 21%. This ongoing easing reflects efforts to stimulate economic growth while keeping inflation under control. The Bank also updated its medium-term forecast, projecting further rate declines to around 13.5–14.5% in 2026, with continued reductions in 2027 and 2028. The next policy decision is scheduled for March 20, 2026. Given the current trend of gradual rate cuts and the Bank's focus on supporting economic revival, it is uncertain whether the Bank of Russia will hold the rate steady after the April meeting; the likelihood leans toward continued adjustments rather than no change.
+Title: Key rate, rouble appreciation, and fiscal risks in 2026 – New Eurasian Strategies Centre
+Author: Sergey Aleksashenko
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://nestcentre.org/key-rate-rouble-appreciation-and-fiscal-risks-in-2026/
+Summary: The Bank of Russia recently lowered the key rate from 16% to 15.5%, citing easing inflationary pressures, but maintains a tight monetary policy with the potential for further easing if needed. Despite the rate cut, inflation remains a concern, and the neutral rate is estimated around 10–11%. The economy experienced stagnation in 2025, with growth driven mainly by manufacturing serving the armed forces, while other sectors declined. The central bank’s monetary policy remains cautious due to ongoing inflation risks, sanctions, and the war economy's influence. The Minister of Economic Development predicts a recovery in growth rates may only occur by late 2026 or 2027, depending on factors like oil prices and federal budget conditions. Given these dynamics, the Bank of Russia may choose to hold the key rate steady after the April meeting to monitor inflation and economic recovery progress, especially since the economy is still in a phase of disinflation and interest rate adjustments are ongoing.
 
-Title: Bank of Russia cuts key rate by 0.5 percentage points to 15.5% per annum -  Business & Economy - TASS
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://tass.com/economy/2086347
-Summary: The Bank of Russia reduced its key rate by 0.5 percentage points to 15.5% in February 2026, citing ongoing disinflation and balanced economic growth. The central bank indicated it would evaluate the need for further rate cuts at upcoming meetings based on inflation trends and expectations. Its macroeconomic forecasts for 2026 project GDP growth of 0.5-1.5%, with inflation expected to decline to around 4-5.5%. The bank also adjusted its oil price assumptions downward for 2026-2028. Given its cautious stance and ongoing assessment of inflation dynamics, it is possible that after the April meeting, the Bank of Russia may choose to hold the rate steady rather than make further changes.
+Title: Чего ждут от ключевой ставки 20 марта: прогнозы — за снижение, но без гарантий
+Author: Автор статьи:  Татьяна Пастушенко
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://xn----dtbeec7ak4ay9j.xn--p1ai/blog/stavka-tsb-na-razvilke-rynok-zhdet-snizheniya-v-marte-no-regulyator-mozhet-pritormozit/
+Summary: The article discusses expectations surrounding the Bank of Russia's key rate decision scheduled for March 20, 2026. Analysts generally anticipate a continued reduction in the rate, following a 50 basis point decrease in February to 15.5%. However, they emphasize that the Central Bank may pause or adjust its approach depending on inflation trends and inflation expectations. The Bank's outlook for 2026 suggests an average rate of 13.5–14.5%, indicating a cautious stance with potential pauses. Given this context, if inflation remains stable and risks are manageable, the Bank of Russia might choose to keep the rate unchanged after the April meeting, especially considering the possibility of a cautious approach to monetary policy adjustments.
 
-Title: Russian central bank unexpectedly cuts policy rate by 50 basis points
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.anews.com.tr/world/2026/02/13/russian-central-bank-unexpectedly-cuts-policy-rate-by-50-basis-points
-Summary: The Bank of Russia has demonstrated a cautious approach to monetary policy, having implemented six consecutive rate cuts since July 2024, bringing the key rate down to 15.5% in February 2026. Despite recent reductions, the bank emphasizes that monetary conditions will remain tight, with forecasts indicating the rate could range between 13.5% and 14.5% this year, depending on inflation trends. The central bank expects inflation to decline to 4.5-5.5% in 2026 and stay on target thereafter. Given its recent pattern of gradual rate adjustments and its focus on inflation control, it is plausible that the Bank of Russia may choose to hold the rate steady after the April meeting if inflation remains on its projected path and economic conditions stabilize.
+Title: Что будет с ключевой ставкой в марте: экономисты дали прогноз
+Author: Тимур ГАБДУЛЛИН
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://prufy.ru/news/economika/181312-chto_budet_s_klyuchevoy_stavkoy_v_marte_ekonomisty_dali_prognoz/
+Summary: The article discusses the prospects of the Bank of Russia potentially lowering the key interest rate in the coming months, with a focus on the upcoming March 20 meeting. After a reduction from 16% to 15.5% in February, experts suggest that further easing is likely, with predictions of the rate decreasing to around 14.5% by late April. Economists highlight that the central bank's tone will be cautious, and any significant rate cuts depend on inflation trends and inflation expectations. Risks such as budgetary factors and oil prices could influence the pace of rate reductions. Therefore, if inflation remains subdued, the Bank of Russia may decide to hold the rate steady after the April meeting, but a continued decrease is also plausible.
 
 

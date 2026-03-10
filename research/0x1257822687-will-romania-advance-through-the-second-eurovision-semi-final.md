@@ -1,7 +1,7 @@
 # Research: Will Romania advance through the second Eurovision Semi-Final?
 
 **Market ID:** 0x1257822687d9dfb189c8d93c7704d6efc1e4df5d3b74f1d2329741eca01d1f22
-**Researched At:** March 5, 2026 at 02:57:00 PM UTC
+**Researched At:** March 10, 2026 at 03:03:00 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Romania advance through the second Eurovision Semi-Final?"
 
 ---
@@ -13,38 +13,44 @@
 
 ### Summary
 
-With no details on Romania’s selected song or its semi-final competition, and balanced historical data—a strong qualification record offset by last year’s failure—51% appears a reasonable price. There is no credible evidence of a significant mispricing.
+Romania’s 55.5% price aligns with a 10/18 baseline and balanced against historical qualification strength (78%) versus current song-specific weaknesses (jury pick, early draw, low win odds), producing no clear mispricing. CONFIDENCE: medium
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Romania will be among the qualifiers from the Eurovision 2026 Second Semi-Final on May 14. “Yes” means Romania’s selected entrant reaches the Grand Final; “No” means they are eliminated in that semi-final or, by June 30, the semi-final doesn’t occur or no one advances.
+- The market asks whether Romania will finish among the top 10 qualifiers in the Eurovision 2026 Second Semi-Final on May 14, 2026.  
+- YES if Romania’s entry “Choke Me” by Alexandra Căpitănescu ranks in the top 10 of Semi-Final 2; NO otherwise or if disqualified.
 
 2. EVIDENCE EVALUATION  
-Bullish (supports >51%):  
-• Romania has a strong historical qualification record (19 finals in 23 attempts).  
-• National broadcaster TVR is running a structured Selecția Națională with jury voting, suggesting a professional selection.  
-Bearish (supports <51%):  
-• Romania failed to qualify in 2023, scoring zero in its semi-final—showing vulnerability.  
-• No information on the quality or appeal of the 2026 entry is available; we don’t even know which song won on March 4 or its running order in the Eurovision semi.  
-Credibility/recency: All sources are from February–early March 2026, reputable fan outlets (Eurovoix, ESCXTRA). They provide process details, but no predictive metrics on semi-final outcome.
+Bullish evidence (supports >50%):  
+- Historically Romania has qualified 14/18 times since semi-finals began (~78%).  
+- Semi-Final 2 has 18 entries, so if all else equal a 55.6% “random” chance baseline exists.  
+- Alexandra has prior TV-show success and jury support in the national final.
+
+Bearish evidence (supports <50%):  
+- Bookmakers give Romania just 1% to win overall and rank them low (19th), implying weak song favor among punters.  
+- Romania’s entry was jury-selected with no televote input; televoting accounts for 50% of semi-final results, potentially misaligned with public taste.  
+- Romania drew into the first half of the semi-final, which historically underperforms relative to later slots.  
+- Recent failure in 2023 (zero points) highlights volatility and risk.
+
+Source credibility: all sources are recent (early March 2026) and from reputable Eurovision media and bookmakers. None provide explicit semi-final advance odds.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 51% price plausibly reflects genuine uncertainty: historical bias toward qualification balanced by last year’s zero-point failure and unknown song quality.  
-• Low volume likely stems from lack of actionable information pre-song release, not necessarily mispricing by uninformed traders.  
-• The tight spread implies the few trades that have occurred are in near-agreement.
+- A 55.5% price closely matches a uniform 10/18 (55.6%) baseline, adjusted modestly for Romania’s stronger-than-random historical qualification rate (~78%) but offset by weaker 2026 song reception indicators.  
+- Low volume suggests limited engagement but not necessarily a strong mispricing; the price reflects a plausible consensus between historical strength and current song’s perceived weaknesses.
 
 4. MISPRICING ASSESSMENT  
-There is no specific evidence of a sizeable mispricing. Without knowing the song’s quality, staging draw, or semi-final competitor pool, the 51% probability is a defensible “coin-flip plus a slight historical edge.” No credible information appears omitted.
+- There is no clear, high-confidence evidence pointing to a >10¢ mispricing. Historical qualification rates and baseline odds would argue for a somewhat higher price (~60–65%), but negative signals (jury selection, first-half draw, low win odds) offset that.  
+- No new quantitative data (e.g. polling or in-market semi-final odds) is missing that would shift the probability materially beyond the current ~55.5%.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that market is mispriced: 0% (no missing factors identified)  
-Magnitude of mispricing: 0 cents (market appears fairly priced)  
-Expected value: 0 cents
+- STRENGTH of evidence: 30% (mixed historic vs. current song signals).  
+- MAGNITUDE of mispricing: 0¢ (no credible error detected).
+
+Expected value = 30% × 0¢ = 0¢
 
 EXPECTED_VALUE: 0  
-SUMMARY: With no details on Romania’s selected song or its semi-final competition, and balanced historical data—a strong qualification record offset by last year’s failure—51% appears a reasonable price. There is no credible evidence of a significant mispricing.  
-CONFIDENCE: medium
+SUMMARY: Romania’s 55.5% price aligns with a 10/18 baseline and balanced against historical qualification strength (78%) versus current song-specific weaknesses (jury pick, early draw, low win odds), producing no clear mispricing. CONFIDENCE: medium
 
 ---
 
@@ -52,33 +58,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Tonight: 🇷🇴 Romania Selects for Eurovision 2026 & 🇸🇲 San Marino Song Contest 2026 Semi-Final One - Eurovoix
-Author: Anthony Granger
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://eurovoix.com/2026/03/04/tonight-eurovision-2026-march-4/
-Summary: The article reports on Romania's national selection process for Eurovision 2026, highlighting that Romania is currently in the process of choosing its representative for the upcoming contest. While specific details about the competing entries or Romania's chances in the semi-final are not provided, the focus on the selection indicates ongoing efforts to field a strong entry. Historically, Romania has participated in Eurovision with varying success, and their advancement depends on the quality of their entry, performance, and competition in the semi-final. No definitive information is available to predict whether Romania will advance through the second Eurovision Semi-Final, but the ongoing selection process suggests they are actively preparing to compete.
+Title: Ce șanse are România să câștige Eurovision 2026. Casele de pariuri au publicat cotele
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://ziare.com/eurovision-2026/sanse-viena-finala-cote-case-pariuri-alexandra-capitanescu-1998426
+Summary: Romania, represented by Alexandra Căpitănescu with the song "Choke me!", has modest chances of winning Eurovision 2026, with bookmakers assigning a 1% probability of victory and placing Romania at 19th in overall odds. While specific odds for advancing through the second semi-final are not provided, Romania's relatively low ranking and odds suggest it may face challenges in progressing beyond the semi-final stage. The country's current standing indicates that advancing to the final is uncertain and likely depends on performance and competition dynamics during the semi-final.
 
-Title: TVR reveals running order for Selecția Națională 2026 - ESCXTRA.com
+Title: Eurovision Prediction 2026 – Round 8 – Poland, Portugal, Romania, Sweden - ESCXTRA.com
 Author: 
 Published Date: 2026-03-02T00:00:00.000Z
-URL: https://escxtra.com/2026/03/02/tvr-reveals-running-order-for-selectia-nationala-2026/
-Summary: The webpage details Romania's national selection for Eurovision 2026, Selecția Națională, including the confirmed running order for the final on March 4. The final features 12 finalists, with a jury-only vote determining the winner, who will represent Romania at Eurovision in Vienna later this May. Romania has participated in Eurovision 23 times, reaching the final 19 times, with best results of two third-place finishes in 2005 and 2010. Notably, Romania's recent Eurovision history includes a 15th place finish in 2023 with "D.G.T. (Off and On)" by Theodore Andre, which scored no points in the semi-final. While the webpage does not specify which finalists are likely to advance, understanding Romania's past performances and the current selection process can inform predictions about Romania's chances in the semi-final.
+URL: https://escxtra.com/2026/03/02/eurovision-prediction-2026-round-8-poland-portugal-romania-sweden/
+Summary: The webpage provides an overview of the Eurovision Prediction 2026 season, focusing on national finals in Poland, Portugal, Romania, and Sweden. It details how fans can participate in predicting the winners of these national selections, including Romania’s Selecția Națională 2026, with deadlines around early March. While it explains the prediction platform and rules, it does not specify the current status or likelihood of Romania's entry advancing through the second Eurovision Semi-Final. Therefore, for predicting Romania's advancement, one should consider Romania's national final results, the strength of their selected entry, and historical semi-final performance, but this specific webpage does not provide detailed insights into Romania's semi-final prospects.
 
-Title: Romania: Here are the finalists for Selecția Națională 2026
-Author: Rasmus Petersen 12 February 2026
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://eurovisionworld.com/esc/romania-here-are-the-finalists-for-selectia-nationala-2026
-Summary: The webpage details Romania's selection process for Eurovision 2026, focusing on the Selecția Națională final held on March 4, 2026. Ten finalists were chosen through auditions from 101 submissions, with two additional wildcard entries selected based on YouTube views, making a total of 11 finalists. The winner, determined solely by jury vote, will represent Romania in Vienna. However, the webpage does not provide information about Romania's chances of advancing through the Eurovision semi-finals, such as past performance, song style, or semifinal placement. Therefore, predicting Romania's progression in the semi-final would require additional context beyond this selection overview.
+Title: 🇷🇴 TES Ranks: Selecția Națională 2026 - Final - That Eurovision Site
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://thateurovisionsite.com/2026/03/04/tes-ranks-selectia-nationala-2026-final/
+Summary: The article discusses Romania's national selection process for Eurovision 2026, highlighting the 12 finalists and ranking their songs. The top contenders include Yguana with "Happy Birthday," Olivia Addams with "Croco," Antonio Pican with "Humans," and WRS with "All the Way." The rankings suggest a competitive field, with "Happy Birthday" currently favored. Historically, Romania has participated in Eurovision since 1994, with their best results being two third-place finishes in 2005 and 2010. In recent years, Romania has struggled to qualify for the final, as seen in 2023 when Theodor Andrei's entry did not advance past semi-finals. Given Romania's past semi-final challenges and the current competitive landscape, predicting their advancement through the second semi-final remains uncertain, but their recent track record indicates they face significant hurdles.
 
-Title: 🇷🇴 Romania: Selecția Națională 2026 Semi-Finalists Revealed - Eurovoix
-Author: Neil Farren
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://eurovoix.com/2026/02/06/romania-selectia-nationala-2026-semi-finalists-revealed/
-Summary: The article announces the semi-finalists for Romania's Selecția Națională 2026, the national selection process for Romania's Eurovision entry. While it details the competing artists and songs, it does not specify which acts will advance to the Eurovision semi-finals. Historically, Romania has participated in Eurovision with varying success, and the national selection results can influence their chances. However, without specific information on the finalists or their previous performance, predicting Romania's advancement through the second Eurovision semi-final remains uncertain. Factors such as song appeal, jury and public votes, and overall competition strength will ultimately determine their progression.
+Title: Romania: Alexandra Căpitănescu wins Selecția Națională 2026 – to Eurovision with "Choke Me"
+Author: Justina Helgeson 4 March  2026
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://eurovisionworld.com/esc/romania-alexandra-capitanescu-wins-selectia-nationala-2026-to-eurovision-with-choke-me
+Summary: Romania's representative for Eurovision 2026 is Alexandra Căpitănescu with the song "Choke Me," selected through Romania's national final, Selecția Națională 2026. The song, which explores themes of emotional overwhelm and self-criticism, was chosen solely by jury vote. Alexandra, in her early 20s, gained recognition after winning Vocea României at age 19 and has several popular singles. She will perform in Semi-final 2 on May 14 in Vienna, competing for a spot in the Grand Final. Historically, Romania has participated 23 times since 1994, with their best results being third place in 2005 and 2010, but they finished with zero points in 2023. Romania has qualified for the final 14 out of 18 times since semi-finals were introduced in 2004.
 
-Title: What Happens When You Disqualify Six Eurovision Juries?
-Author: Ben Robertson
-URL: https://escinsight.com/2022/10/06/happens-disqualify-six-eurovision-juries/
-Summary: The article explores the impact of disqualifying six Eurovision juries, highlighting how jury votes influence contest outcomes. While it does not specifically address Romania's chances in the second semi-final, understanding jury dynamics and the potential consequences of jury disqualifications can inform predictions. If jury votes are disqualified or disregarded, the contest may shift more heavily toward televoting results, which could benefit or hinder Romania depending on its televote support. Overall, the article emphasizes that jury disqualifications can significantly alter voting patterns, making predictions about Romania's advancement more uncertain if jury influence is diminished.
+Title: Alexandra Căpitănescu wins Selecția națională in Romania
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://escxtra.com/2026/03/04/alexandra-capitanescu-wins-selectia-nationala-in-romania/
+Summary: Alexandra Căpitănescu has been selected to represent Romania at Eurovision 2026 with her song “Choke me,” following Romania’s return to the contest after a two-year hiatus. The selection was made solely by a jury during Selecția națională, with a top 3 announced but no final order. Romania will perform in the first half of the second semi-final in Vienna on May 14. While the country’s previous entries and the quality of this year’s selection suggest potential, whether Romania will advance depends on the song’s reception, performance, and competition in the semi-final. The absence of televoting in the selection process indicates the entry was judged primarily on jury criteria, which may influence its chances of progressing.
 
 

@@ -1,7 +1,7 @@
 # Research: Epstein storage units raided in 2026?
 
 **Market ID:** 0x3d5635f53b64e4e5be8dd69d16dade2c787d41dd8d8032ba7dad6f232fde2db5
-**Researched At:** March 5, 2026 at 04:21:06 AM UTC
+**Researched At:** March 10, 2026 at 03:04:01 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Epstein storage units raided in 2026?"
 
 ---
@@ -13,38 +13,45 @@
 
 ### Summary
 
-Available reporting reveals Epstein’s computers are stored in units but no 2026 raid is yet planned or reported, making a ~19% chance reasonable. There is no clear, unpriced catalyst suggesting large mispricing.
+All recent reporting indicates no 2026 raid on Epstein’s units, and there’s no credible leak or plan suggesting an imminent one; 18.5% seems a plausible assessment of remaining uncertainty rather than a mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether any private individual or government authority will discover and examine the contents of a storage unit rented by or on behalf of Jeffrey Epstein by December 31, 2026. For a “Yes” resolution, an authorized search of a qualifying unit must occur within the market’s timeframe and reveal items tied to Epstein. A “No” resolution follows if no such examination happens by the deadline.
+This market asks whether any private individual or government authority will discover and examine the contents of a storage unit previously rented by or on behalf of Jeffrey Epstein by 11:59 PM ET on December 31, 2026. For a “Yes” resolution, someone must find and look through one of Epstein’s old storage units (still containing Epstein‐related items) within the market’s timeframe. Otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish signals (higher chance of a raid):  
-- Feb 25, 2026, Palm Beach Post article reveals that Epstein’s team clandestinely removed computers in 2005 and stored them in multiple units across Palm Beach County and beyond. Ongoing payments—potentially handled by his estate—suggest the units may still exist and contain devices of interest. Prosecutors believe these hold critical evidence, raising the prospect that law enforcement or journalists will seek them out.  
-Bearish signals (lower chance):  
-- No public article or congressional record to date reports any actual 2026 raid or even an announced plan to raid. Other official sources (FBI summaries, congressional records) remain silent on new searches, implying law enforcement has not prioritized or scheduled such actions.  
-Source credibility & recency:  
-- The Palm Beach Post report (Feb 25, 2026) is recent and specific regarding storage locations and potential evidence. Other sources (FBI statements, congressional documents) are credible but negative on any ongoing search.  
-Overall, there is reasonable doubt about whether public or private actors will secure warrants and execute a raid before year-end. If it were obviously imminent, we would likely already see credible reporting on planned searches, yet none exist.
+Bullish (raises probability):  
+• Recent reporting (Feb 2026) reveals at least six Epstein units remain untouched and hold potentially crucial evidence. Publicizing these may spur investigators to act this year.  
+• Ongoing investigations into Epstein’s network could lead to fresh subpoenas and court orders targeting those units.  
+
+Bearish (lowers probability):  
+• All five sources (Telegraph via AOL, Palm Beach Post, Substack, NY Post) explicitly state no record of any raid or examination in 2026 to date.  
+• Units have been untouched since Epstein’s death in 2019 despite repeated FBI interest—suggesting logistical, legal, or resource hurdles.  
+• None of the articles cite any immediate plan or credible insider tip about an imminent raid.  
+
+Source credibility and recency:  
+• All are February 2026 investigative news reports from established outlets. They are recent and credible on the question of past activity but offer no roadmap for future raids.
+
+Nothing in these sources points to a large mispricing. If anything, the market’s 18.5% slightly exceeds a naive baseline (say 10–15%) given the publicity of the units, but it still reflects significant uncertainty.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 19% price can be justified by weighing:  
-- Known existence of units with potential evidence (raises odds above zero).  
-- Lack of any announced search or public lead teams pursuing these units to date (keeps odds relatively low).  
-Low volume likely reflects the niche nature of this question; informed traders may see no clear edge. The tight spread suggests at least a few traders agree on the roughly one-in-five chance, rather than a completely idle market.
+• A ~20% chance can be defended as the reasonable chance a raid finally occurs before year-end given both strong incentive and legal complexity.  
+• Low volume likely reflects niche interest rather than a consensus error; informed traders may find limited value in trading this long-horizon, process-risk question.  
+• No sign one person dominates pricing—spread is tight and price has hovered since launch.  
 
 4. MISPRICING ASSESSMENT  
-No evidence points to a large, overlooked catalyst that would make a raid nearly certain (which would imply a severe underpricing). Nor is there a compelling case that no raid could ever happen (which would indicate overpricing). The balance of evidence supports a low-to-moderate probability, consistent with the current 19% quote.
+• No specific evidence (e.g., court filings, leaked raid warrants, insider statements) is missing from the current price.  
+• The market appears neither obviously too high (no planned raids) nor too low (publicity could force action).  
+• Concluding mispricing would require evidence of an imminent raid or conversely proof no raid could occur, neither of which exists.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price omits a major factor: ~10% (no strong unpriced info)  
-Magnitude of potential mispricing: ~0¢ (current price seems in line with available evidence)  
-Expected value = 10% × 0¢ = 0¢
+Strength of evidence for mispricing:  5%  
+Magnitude of mispricing: 0 cents  
+Expected value = 5% × 0 cents = 0.0 cents  
 
-EXPECTED_VALUE: 0  
-SUMMARY: Available reporting reveals Epstein’s computers are stored in units but no 2026 raid is yet planned or reported, making a ~19% chance reasonable. There is no clear, unpriced catalyst suggesting large mispricing.  
+EXPECTED_VALUE: 0.0  
+SUMMARY: All recent reporting indicates no 2026 raid on Epstein’s units, and there’s no credible leak or plan suggesting an imminent one; 18.5% seems a plausible assessment of remaining uncertainty rather than a mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -53,27 +60,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: BREAKING: Six Storage Units Belonging To Jeffrey Epstein Have Been Discovered, Completely Untouched By ANYONE, Including The FBI
+Author: Dean Blundell
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://substack.com/app-link/post?isFreemail=false&post_id=189010832&publication_id=4163578&r=1rxmt4&token=eyJ1c2VyX2lkIjoxMDczODUwMTYsInBvc3RfaWQiOjE4OTAxMDgzMiwiaWF0IjoxNzcxOTM4NjU4LCJleHAiOjE3NzQ1MzA2NTgsImlzcyI6InB1Yi00MTYzNTc4Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.It_NcrYfVjGmj-2sYSzx38M-YgnR3tbFV4lqGM1d-Vk
+Summary: There is no record or evidence indicating that Jeffrey Epstein's storage units were raided in 2026. In fact, reports suggest that multiple storage units belonging to Epstein, which reportedly contained computers, photographs, discs, and other materials, were never searched or seized by authorities, including the FBI. These units, maintained until Epstein's death in 2019, remain untouched, raising questions about missing evidence and the thoroughness of investigations into Epstein's estate. The discovery of these untouched storage units highlights potential gaps in the investigation and suggests that crucial evidence may still be unrecovered.
+
 Title: Epstein hid computers in storage units in Palm Beach County and beyond
 Author: Hannah Phillips
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.palmbeachpost.com/story/news/crime/2026/02/25/epstein-hid-computers-in-storage-units-in-palm-beach-county-and-beyond/88838961007/
-Summary: The article reveals that Jeffrey Epstein had private investigators remove and store computers from his Palm Beach mansion before a police raid in 2005. These computers were kept in storage units across Palm Beach County and beyond, with Epstein making ongoing payments to a storage facility until his death in 2019. During the 2005 raid, the FBI found the computers had been removed, leaving only loose wires and keyboards. Investigations indicated that Epstein’s team fought to prevent the computers from being recovered, and emails suggest that private investigators, including Paul Lavery and Bill Riley, handled the equipment and delivered it to storage. Prosecutors believed these computers contained critical evidence related to Epstein’s sex-trafficking activities, including emails, payment records, and surveillance footage. The ongoing payments and the handling of the computers imply they could be relevant to future investigations or searches, such as a raid in 2026.
+Summary: Jeffrey Epstein had private investigators remove and store computers from his Palm Beach estate before a police raid in 2005, with some units located in Palm Beach County and others beyond. These computers, believed to contain critical evidence related to his sex-trafficking activities—such as emails, payment records, and surveillance footage—were deliberately hidden and later disappeared during the investigation. Epstein continued paying for storage units until his death in 2019. The FBI and prosecutors sought to recover these computers, but they were removed and not recovered during the initial raid. The recent mention of storage units being raided in 2026 suggests renewed investigations or discoveries related to Epstein’s hidden evidence, possibly connected to the ongoing efforts to uncover all relevant materials linked to his criminal activities.
 
-Title: The FBI pored over Jeffrey Epstein's bank records and emails. It searched his homes. ...
-URL: https://www.facebook.com/thenewindianxpress/posts/the-fbi-pored-over-jeffrey-epsteins-bank-records-and-emails-it-searched-his-home/1378079407696447/
-Summary: The FBI conducted an extensive investigation into Jeffrey Epstein, examining his bank records, emails, and multiple properties in New York, Florida, and the Virgin Islands. Despite years of investigation, including interviews with victims and analysis of seized videos and photos, authorities found limited evidence linking Epstein to a sex trafficking ring involving powerful men. Internal records indicate that the seized materials did not depict abuse or implicate others, and a 2025 memo noted the lack of evidence supporting the existence of a broader trafficking network. There is no publicly available information suggesting that Epstein's storage units were raided in 2026 or that they contained significant evidence related to such activities.
+Title: Exclusive: Epstein hid secret files in storage units across US - AOL
+Author: AOL
+Published Date: 2026-02-22T00:00:00.000Z
+URL: https://www.aol.com/articles/exclusive-epstein-hid-secret-files-212710178.html
+Summary: The Telegraph reports that Jeffrey Epstein secretly rented and used multiple storage units across the United States, including in Florida and New York, to house computers, photographs, and other materials from his properties, including his private island. Despite ongoing investigations, US authorities have not publicly raided these storage units, raising the possibility that they may contain unseen evidence related to Epstein and his associates. Epstein's efforts to move equipment ahead of police raids and his use of private detectives to manage these storage units suggest they could hold potentially incriminating or compromising material. However, as of the latest reports in 2026, there is no confirmed record of these storage units being raided by authorities.
 
-Title: Researchers say no evidence of TikTok censorship, but they remain wary
-Author: Bobby Allyn
-URL: https://www.npr.org/2026/02/04/nx-s1-5701409/tiktok-censorship-report-epstein
-Summary: The article discusses claims of TikTok censorship related to topics like Jeffrey Epstein, ICE, and other sensitive issues following a U.S. ownership change. Despite viral social media accusations that TikTok was suppressing such content, a study by eight academics analyzing over 100,000 videos found no evidence of targeted censorship. Instead, a platform outage appears to have caused widespread disruptions across categories, including political topics. There is no indication from the research that Epstein-related content or storage units were specifically raided or censored in 2026.
+Title: Jeffrey Epstein stashed secret files in storage units across US that may include unseen evidence: report
+Author: Zoe Hussain
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://nypost.com/2026/02/23/us-news/jeffrey-epstein-stashed-secret-files-in-storage-units-across-us-that-may-include-unseen-evidence-report
+Summary: The report indicates that Jeffrey Epstein secretly stored computers, photographs, and other items across multiple storage units nationwide, some dating back to 2003 and maintained until his death in 2019. These units, which housed materials from his residences including items from his Caribbean island, were used to conceal potentially critical evidence related to his sex-trafficking activities. Notably, U.S. authorities may have never raided these storage facilities, leaving the possibility that unseen evidence remains unrecovered. Private investigators moved materials into these units ahead of search warrants, and Epstein's payments to these facilities continued until his death. The existence of these hidden storage units and their contents could be significant in ongoing investigations, especially considering the lack of recorded raids and the potential for undisclosed evidence.
 
-Title: Congressional Record
-URL: https://www.congress.gov/119/crec/2025/12/17/171/213/CREC-2025-12-17-senate.pdf
-Summary: The provided Congressional Record from December 17, 2025, details Senate proceedings, including the appointment of an acting President pro tempore, legislative discussions on the National Defense Authorization Act for Fiscal Year 2026, and nominations confirmed by the Senate. There is no mention of any events related to Epstein storage units or raids occurring in 2026. Therefore, this record does not contain information relevant to predicting or understanding the incident involving Epstein storage units raided in 2026.
-
-Title: live.house.gov, U.S. House of Representatives
-URL: https://live.house.gov/?date=2025-09-10
-Summary: The webpage provides live coverage and legislative updates from the U.S. House of Representatives, including current floor activity, bills, votes, and committee meetings. As of September 10, 2025, there are no recent bills passed or enacted, and no recorded votes or legislative actions. The site offers real-time streaming, legislative records, and links to congressional resources. However, it does not contain specific information about events in 2026, such as the raid on Epstein storage units. For predicting details about the 2026 raid, this source offers no direct or relevant information; it primarily tracks legislative proceedings and congressional activities up to the current session.
+Title: Jeffrey Epstein Stashed 'Computers and Photographs' in ...
+Author: AOL
+URL: https://www.aol.com/articles/jeffrey-epstein-stashed-computers-photographs-165802790.html
+Summary: There is no record of Jeffrey Epstein's storage units being raided in 2026. Instead, reports indicate that Epstein maintained several secret storage units across the U.S., which he used to hide potentially incriminating evidence, including computers, photographs, and documents related to his alleged trafficking activities. These units were never officially raided by authorities during his lifetime, although evidence from his homes—such as computers, binders with underage girls' names, and media files—was recovered during earlier searches. Notably, Epstein took measures to move and hide items, possibly to evade detection, but there is no information suggesting a raid on his storage units occurred in 2026.
 
 

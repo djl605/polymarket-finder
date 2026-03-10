@@ -1,7 +1,7 @@
 # Research: Will Trump meet with Xi Jinping in March 2026?
 
 **Market ID:** 0x5179363b387fe5cbff77c8ff4b549a73b57c2eaba4116de188b44efd651b6f2e
-**Researched At:** March 9, 2026 at 03:03:32 PM UTC
+**Researched At:** March 10, 2026 at 03:06:02 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump meet with Xi Jinping in March 2026?"
 
 ---
@@ -9,49 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 15.0¢
+**Expected Value:** 14.0¢
 
 ### Summary
 
-Multiple high-credibility reports schedule Trump in China starting March 31 for a Xi meeting, making a March encounter much more likely than the 44.5% price implies. The main uncertainty is the exact date and possible Iran-related delays.
+Multiple high-credibility sources report Trump’s China trip is explicitly scheduled March 31–April 2 for a meeting with Xi, making a late-March encounter highly likely. The market’s 52.5% price appears to underweight this scheduling evidence by roughly 17–18¢.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump and Xi Jinping will have an in-person meeting anytime between March 1 and March 31, 2026, ET. A “Yes” requires them to physically interact before 11:59 PM ET on March 31. A “No” if no such encounter occurs in that window.
+The market asks whether Donald Trump and Xi Jinping will meet in person between March 1 and March 31, 2026. A “Yes” requires any face-to-face interaction in that window; a “No” if no such interaction occurs.
 
 2. EVIDENCE EVALUATION  
-Bullish (meeting likely in March):  
-• Bloomberg (Feb 20) – Trump’s trip to China is scheduled for March 31–April 2, with a “high-stakes meeting” with Xi on that trip.  
-• AFR reproduces Bloomberg’s schedule.  
-• NBC (Mar 5) – Meeting is set to begin “around March 31,” with no signs of delay despite Middle East tensions.  
-• SCMP & CNBC (Mar 8) – China publicly says the summit remains on track for March, emphasizes “thorough preparations,” and Wang Yi underscores importance of pushing it ahead despite Iran.  
+Bullish evidence (supports “Yes”):  
+• Bloomberg (Feb 20) and AFR (Feb 20) both report Trump is scheduled to travel to China March 31–April 2, 2026 “for a high-stakes meeting with Xi Jinping.”  
+• Reuters (Mar 8) and CNBC (Mar 8) note both sides are preparing for an end-of-March summit, stressing the agenda is set and high-level talks are vital.  
 
-Bearish (uncertainty/remains unconfirmed):  
-• None of the sources confirm a specific date in March; details are still “speculative” or “pending.”  
-• Coordination and diplomatic clearances may delay the summit into April.  
-• Ongoing Iran tensions could force a last-minute postponement or push the formal meeting into April 1–2, which would fall outside the contract window.
+Bearish evidence (supports uncertainty):  
+• Neither Reuters nor CNBC provide a firm, official date for the meeting; details are still under negotiation.  
+• If the only meeting occurs on April 1 or 2, it would fall outside the market’s resolution window.  
 
-Source credibility: Bloomberg, NBC, CNBC are high-credibility. SCMP is reputable for China coverage. All are recent (Feb 20–Mar 8).
+Source credibility is high (Bloomberg, Reuters, CNBC) and all are recent. The bullish signal of a confirmed visit strongly suggests a meeting on March 31, but scheduling details leave some residual risk that the actual encounter could slip into April.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A reasonable interpretation of 44.5%: traders recognize a meeting is likely but are discounting schedule risk (no firm March date) and geopolitical uncertainty.  
-• Low volume suggests few participants; price may reflect cautious, conservative traders rather than a broad consensus.  
-• The outcome is not completely trivial (date ambiguity), so informed traders might be sidelined until a firm date is announced.
+A 52.5% price could reflect traders’ caution about the precise meeting date (end-of-month timing) despite scheduling reports. Low volume and tight spreads imply few participants—possibly one or two—setting the price, and not broad consensus from institutional or diplomatic insiders.
 
 4. MISPRICING ASSESSMENT  
-• The core missing information: sources strongly imply the summit is planned to start March 31, making a March meetup probable.  
-• The 44.5% price seems too low given multiple well-sourced schedules.  
-• There is genuine date-window risk, but not enough to halve the implied probability.  
-• A more charitable view of informed traders: they may be waiting for an official date announcement before pushing price higher, so current pricing partly reflects information timing, not a fundamental doubt that the meeting will occur in March.
+Given multiple high-credibility sources reporting a scheduled late-March trip explicitly for a Xi-meeting, the true probability of a March 31 meeting is likely in the 70–85% range, not 52.5%. The 52.5% price underweights strong scheduling evidence by ~17–32 cents. A charitable interpretation of the 52.5% price is that traders are factoring in the small chance the meeting happens only in early April, but they may be over-discounting that risk.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price understates true chance: ~60% (credible, but scheduling detail still fluid)  
-Estimated magnitude of mispricing: ~25 cents (price likely should be ~70%)  
-Expected value = 0.60 × 25 = 15 cents
+Strength of evidence: 80% (high-quality, recent scheduling reports)  
+Magnitude of mispricing: ~17.5 cents (true probability ~70–85% vs. 52.5%)  
+Expected value = 0.80 × 17.5 c = 14.0 c  
 
-EXPECTED_VALUE: 15  
-SUMMARY: Multiple high-credibility reports schedule Trump in China starting March 31 for a Xi meeting, making a March encounter much more likely than the 44.5% price implies. The main uncertainty is the exact date and possible Iran-related delays.  
+EXPECTED_VALUE: 14.0  
+SUMMARY: Multiple high-credibility sources report Trump’s China trip is explicitly scheduled March 31–April 2 for a meeting with Xi, making a late-March encounter highly likely. The market’s 52.5% price appears to underweight this scheduling evidence by roughly 17–18¢.  
 CONFIDENCE: medium
 
 ---
@@ -60,34 +52,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: China says 'thorough preparations' needed as Trump-Xi meeting ...
+Title: China says 'thorough preparations' needed ahead of Trump-Xi meeting - CNBC
 Author: Evelyn Cheng
-Published Date: 2026-03-08T15:03:14.635Z
 URL: https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html
-Summary: The article reports that China emphasizes the need for "thorough preparations" ahead of a potential meeting between Trump and Xi Jinping. The timing of the meeting remains uncertain, with discussions influenced by ongoing international tensions, notably the Iran situation. While there is speculation about a possible summit in March 2026, no definitive confirmation has been provided. The emphasis on careful planning suggests that if the meeting occurs, it will be a significant diplomatic event requiring extensive coordination.
+Summary: China's Foreign Minister Wang Yi indicated that preparations are underway for a high-level meeting between U.S. President Donald Trump and Chinese President Xi Jinping, with the agenda already set. While Trump is scheduled to visit China from March 31 to April 2, Beijing has not yet confirmed the exact dates of the visit or the meeting with Xi. The discussions are part of ongoing efforts to improve U.S.-China relations amid tensions over Iran, trade tariffs, and regional conflicts. The timing of the trip and meeting remains uncertain, but both sides recognize the importance of strategic engagement.
 
-Title: Is Trump’s China trip still on? Despite Iran, Wang Yi sees potential | South China Morning Post
-Author: 
+Title: China says US talks vital as Trump targets Beijing's key partners | Reuters
+Author: Liz Lee
 Published Date: 2026-03-08T00:00:00.000Z
-URL: http://www.ays.scmp.com/news/china/diplomacy/article/3345888/trumps-china-trip-still-despite-iran-wang-yi-sees-potential?module=top_story&pgtype=homepage
-Summary: Despite ongoing tensions related to US strikes on Iran, Chinese Foreign Minister Wang Yi indicated that the planned summit between Donald Trump and Xi Jinping remains on track for March 2026. China has not officially confirmed Trump's visit but has been in communication with the US regarding the trip. Wang emphasized the importance of high-level engagement and fostering a positive atmosphere, suggesting that the meeting could still occur if both sides prepare thoroughly and manage differences. The upcoming summit, expected to be the first US leader visit to China in nine years, hinges on diplomatic preparations amid complex international developments.
+URL: https://www.reuters.com/world/china/china-says-us-talks-vital-trump-targets-beijings-key-partners-2026-03-08/
+Summary: China emphasizes the importance of US-China dialogue to prevent misunderstandings and escalation, with Foreign Minister Wang Yi highlighting the need for thorough preparations for high-level talks. While a summit between Xi Jinping and Donald Trump is anticipated for the end of March 2026, China has not officially confirmed the meeting. The context includes ongoing US actions in Iran and Venezuela, which test China's strategic partnerships, and geopolitical tensions stemming from Trump's foreign policy initiatives, such as the "Donroe Doctrine" and threats in Latin America. The upcoming summit's confirmation remains uncertain, but both sides acknowledge the agenda is on the table, emphasizing dialogue's vital role for global stability.
+
+Title: China Hails 'Landmark' Year in US Ties Despite Widening Iran War - Yahoo Finance
+URL: https://finance.yahoo.com/news/china-hails-landmark-us-ties-224030688.html
+Summary: The webpage discusses China's perspective on its recent diplomatic achievements with the United States, highlighting a "landmark" year in bilateral relations despite ongoing tensions related to Iran and other geopolitical issues. While it emphasizes China's positive outlook and strategic engagement with the U.S., it does not provide specific details about future meetings between Xi Jinping and Donald Trump, especially regarding a potential encounter in March 2026. Therefore, the content suggests a context of complex diplomatic relations but lacks concrete information to predict whether Trump will meet with Xi Jinping in that timeframe.
 
 Title: Trump Plans China Trip for Xi Meeting Focused on Trade, Taiwan Issues - Bloomberg
 Author: Jennifer A Dlouhy
 Published Date: 2026-02-20T00:00:00.000Z
 URL: http://origin.www.bloomberg.com/news/articles/2026-02-20/trump-will-travel-to-china-in-late-march-for-high-stakes-xi-meet?srnd=undefined
-Summary: President Donald Trump is scheduled to travel to China from March 31 to April 2, 2026, for a high-stakes meeting with Xi Jinping. The discussions are expected to focus on restoring and managing the strained trade relationship between the U.S. and China, as well as addressing tensions related to Taiwan. This trip indicates a planned direct engagement between the two leaders in late March 2026, suggesting that a meeting with Xi Jinping is highly likely to occur during this visit.
+Summary: US President Donald Trump is scheduled to travel to China from March 31 to April 2, 2026, for a high-stakes meeting with Xi Jinping. The agenda is expected to focus on restoring stability in the trade relationship and addressing tensions related to Taiwan. This trip indicates a significant diplomatic effort to navigate complex US-China relations during Trump's second term.
 
 Title: US President Donald Trump and Chinese President Xi Jinping will meet in China in late March
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://m.afr.com/world/north-america/trump-will-travel-to-china-in-late-march-for-high-stakes-xi-meeting-20260221-p5o48c
-Summary: US President Donald Trump is scheduled to travel to China from March 31 to April 2, 2026, for a high-stakes meeting with Chinese President Xi Jinping. This meeting aims to address ongoing tensions in trade relations and issues surrounding Taiwan, amid recent developments such as the US Supreme Court's move to strike down tariffs on exports, which could influence the dynamics of US-China negotiations. The timing and context suggest that a meeting between Trump and Xi in late March 2026 is planned and likely to occur.
-
-Title: Trump's China summit with Xi Jinping just got a lot more complicated
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.nbcnews.com/world/asia/trumps-china-summit-xi-jinping-just-got-lot-complicated-rcna261453
-Summary: The article indicates that President Trump’s upcoming meeting with Xi Jinping is scheduled to begin around March 31, 2026. Despite recent U.S. military actions against Iran and China's limited response, Beijing has not confirmed any plans to delay or cancel the visit. Experts suggest that the Iran conflict may increase the urgency for the meeting, especially given the importance of China’s trade relations with the Middle East and the U.S.’s regional security interests. Overall, there is no indication of a postponement, making it likely that Trump will meet with Xi Jinping in late March 2026.
+Summary: US President Donald Trump is scheduled to travel to China from March 31 to April 2, 2026, for a high-level meeting with Chinese President Xi Jinping. The meeting aims to address ongoing tensions in trade relations and issues surrounding Taiwan, amid recent developments such as the US Supreme Court's decision to strike down tariffs on exports. This scheduled visit indicates a planned engagement between the two leaders in late March 2026, making a meeting highly likely during this period.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Ed Markey be the Democratic nominee for Senate in Massachusetts?
 
 **Market ID:** 0x4808488e54a414ee180be47feebba96166cad42fff4cc5c363733c42b6357d4e
-**Researched At:** March 1, 2026 at 06:02:19 AM UTC
+**Researched At:** March 10, 2026 at 03:02:16 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Ed Markey be the Democratic nominee for Senate in Massachusetts?"
 
 ---
@@ -9,44 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 2.0¢
+**Expected Value:** 0.2¢
 
 ### Summary
 
-Recent polls show Markey leading Moulton by 12 points and enjoying strong favorability, which—combined with incumbency—supports a high win probability. Although a naive reading of the poll implies only ~60% chance, the market’s 81.5% can reasonably include undecided voters breaking for the incumbent and historic performance. There’s no clear evidence of a large unpriced shift.
+Strong, recent progressive endorsements and lack of contrary polling support the 82% probability of Markey winning the primary. No clear evidence of a meaningful mispricing emerges given the public information and incumbent advantages.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Ed Markey will win the 2026 Massachusetts Democratic Senate primary. “YES” requires Markey to be the official nominee; “NO” covers losing the primary or no primary happening.
+The market asks: “Will Ed Markey win the 2026 Massachusetts Democratic Senate primary?”  
+– YES resolves if Markey is officially declared the Democratic nominee after the primary.  
+– NO resolves if any other Democrat (e.g., Seth Moulton) wins or if no primary occurs (resolves “Other”).  
 
 2. EVIDENCE EVALUATION  
-Bullish for Markey  
-• Feb 26 UNH poll: Markey leads Moulton 35%–23% (±3.8%), net favorability +33 vs +13.  
-• Incumbent advantage, strong approval (54% in UMass poll), proven ability to fend off younger challengers (beat Kennedy III in 2020).  
-Bearish for Markey  
-• Challenger theme: generational shift, age (79) could become larger liability.  
-• Early poll still leaves >40% undecided; dynamics may change before a September primary.  
-Source credibility/recency: All polls are from late Feb 2026, established survey centers or reputable local outlets. No obvious rogue data.
+Bearish signals (suggesting price may be too high):  
+• Seth Moulton’s entry as a moderate challenger frames a generational contest; party voters might favor new leadership.  
+• A recent unspecified poll warns Markey’s lead could shrink if a challenger gains traction.  
+
+Bullish signals (supporting ~82%):  
+• Multiple credible outlets (Boston Globe, Mass Daily News) report Ayanna Pressley and Michelle Wu endorsing Markey on Mar 2, showing solid progressive unity.  
+• Late-2023 polling (cited by Swampscott Tides) already pointed to a sizeable lead for Markey, consistent with ongoing momentum.  
+• Markey’s incumbency since 2013 and name recognition likely confer significant advantage in a low‐turnout primary.  
+
+Source credibility and recency: All endorsements and polling references are from early March 2026, drawn from high-reputation outlets (Boston Globe, CBS News). No new high-quality polling contradicts the narrative.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 12-point lead in early two-candidate polling implies roughly a 60% “win” probability if only Markey/Moulton were on the ballot, but markets often incorporate incumbency strength and fundraising.  
-• Low volume could reflect that informed traders see the outcome as routine and haven’t engaged, rather than a clustering of uninformed bets.  
-• The tight spread (3¢) suggests at least one liquidity provider believes the price is fair.
+• A price of 82% plausibly reflects insider consensus on Markey’s entrenched support and endorsement network.  
+• Low volume could simply reflect an obvious outcome that few bettors feel compelled to trade on, rather than a lone overconfident trader.  
+• No glaring informational blind spot is evident; the key endorsements and challenger announcement are already public and likely factored in.  
 
 4. MISPRICING ASSESSMENT  
-• If you take the raw 35–23 poll at face value among a two-candidate head-to-head, that implies a ~60% chance, below the 81.5% market price.  
-• However, that poll likely excluded undecideds or “other” options; incumbency and past performance against young challengers justify a premium.  
-• No specific evidence of a late-breaking challenger, scandal, or polling shift that the market has overlooked.  
-Thus, while the market may appear a bit rich versus a simplistic poll interpretation, it plausibly builds in other real advantages for Markey. No clear >20¢ mispricing emerges.
+• There is no strong, specific evidence of a >20-point mispricing. The balance of evidence (endorsements, incumbency, lack of contrary polling) aligns with a high probability for Markey.  
+• Any remaining uncertainty (Moulton’s viability, Markey’s age) is already priced in at the ~18% chance of loss.  
 
-5. EXPECTED VALUE  
-Strength of evidence (mispricing): 20%  
-Magnitude of mispricing: 10¢  
-Expected value = 0.2 × 10¢ = 2¢
+5. EXPECTED VALUE CALCULATION  
+• Strength of evidence for mispricing: ~10% (low).  
+• Magnitude of mispricing if wrong: ~2 cents.  
+→ Expected value ≈ 10% × 2¢ = 0.2¢  
 
-EXPECTED_VALUE: 2  
-SUMMARY: Recent polls show Markey leading Moulton by 12 points and enjoying strong favorability, which—combined with incumbency—supports a high win probability. Although a naive reading of the poll implies only ~60% chance, the market’s 81.5% can reasonably include undecided voters breaking for the incumbent and historic performance. There’s no clear evidence of a large unpriced shift.  
+EXPECTED_VALUE: 0.2  
+SUMMARY: Strong, recent progressive endorsements and lack of contrary polling support the 82% probability of Markey winning the primary. No clear evidence of a meaningful mispricing emerges given the public information and incumbent advantages.  
 CONFIDENCE: low
 
 ---
@@ -55,41 +58,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Markey leads Moulton in new MA Senate poll. See numbers
+Title: Pressley endorses Markey for reelection in US Senate race
 Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: http://www.seacoastonline.com/story/news/politics/2026/02/26/markey-leads-moulton-in-new-ma-senate-poll-see-numbers/88858684007/
-Summary: A recent poll from the University of New Hampshire Survey Center indicates that Senator Ed Markey is currently leading Rep. Seth Moulton in the Democratic primary for the U.S. Senate in Massachusetts. The poll shows Markey with 35% support among likely Democratic primary voters, compared to Moulton's 23%. This represents a slight increase for Markey since a previous poll in November. Additionally, Markey enjoys a higher net favorability rating of +33, compared to Moulton's +13.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.bostonglobe.com/2026/03/02/metro/markey-pressley-senate-endorsement-2026-midterms/?p1=Article_Recirc_InThisSection
+Summary: Congresswoman Ayanna Pressley has endorsed incumbent Senator Ed Markey for his re-election bid, citing their collaborative efforts on issues such as immigration, civil rights, and transit funding. Despite speculation about a potential challenge from Pressley herself, she announced she will seek re-election to her House seat instead. Markey remains ahead in polls, though a recent survey suggests his lead could diminish if a primary challenger, such as Alex Rikleen, gains traction. Overall, Markey's strong alliances within the Democratic Party and ongoing legislative work suggest he is well-positioned to secure the Democratic nomination for the Massachusetts Senate seat.
 
-The poll also reveals that both candidates have a significant lead over Republican challenger John Deaton in a general election scenario, with Moulton performing slightly better than Markey. The survey, conducted online with 670 Massachusetts residents, has a margin of error of +/- 3.8%.
-
-Given Markey's current lead and popularity, he appears to be in a strong position to secure the Democratic nomination for Senate in Massachusetts.
-
-Title: Markey leads Moulton in new MA Senate poll. See numbers
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.wickedlocal.com/story/news/politics/2026/02/26/markey-leads-moulton-in-new-ma-senate-poll-see-numbers/88858684007/
-Summary: A recent poll from the University of New Hampshire Survey Center indicates that Senator Ed Markey is currently leading Representative Seth Moulton in the Democratic primary for the U.S. Senate in Massachusetts. Markey holds a 35% to 23% advantage among likely Democratic primary voters, which is a slight increase from a previous poll in November. Additionally, Markey enjoys a higher net favorability rating of +33 compared to Moulton's +13, suggesting stronger overall support.
-
-The poll also shows that both candidates lead Republican challenger John Deaton by significant margins in a general election scenario, with Moulton performing slightly better than Markey. The survey, conducted online with 670 Massachusetts residents, has a margin of error of +/- 3.8%.
-
-Given these numbers, Markey's current lead and favorability could position him favorably as the Democratic nominee for Senate, although the primary is still ongoing and dynamics may change as the election approaches.
-
-Title: Why do younger Democrats keep challenging Ed Markey? Is it his age?
-Author: Margie Cullen
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.capecodtimes.com/story/news/politics/2026/02/17/why-do-younger-democrats-keep-challenging-ed-markey-is-it-his-age/88473187007/
-Summary: Ed Markey, a 79-year-old senator from Massachusetts, has faced challenges from younger Democrats, notably Rep. Seth Moulton, who is running against him in the 2026 midterm elections. Moulton's campaign emphasizes a desire for new leadership and has drawn attention to Markey's age, suggesting that this could be a factor in the primary race. Despite these challenges, Markey maintains a solid approval rating of 54% among Massachusetts voters, with polls indicating that many believe he deserves re-election. His progressive stance, including co-sponsoring the Green New Deal, resonates well in a progressive state. However, the repeated challenges from prominent figures like Moulton and Joe Kennedy III indicate a growing sentiment among some Democrats for a generational shift in leadership. The outcome of the primary will likely depend on voter sentiment regarding age, leadership style, and Markey's established popularity.
-
-Title: Seth Moulton will challenge Ed Markey in Massachusetts Senate ...
-Published Date: 2025-10-15T00:00:00.000Z
+Title: Seth Moulton will challenge Ed Markey in Massachusetts Senate race in 2026
 URL: https://www.cbsnews.com/boston/news/seth-moulton-ed-markey-massachusetts-senate-race-2026/
-Summary: U.S. Rep. Seth Moulton has announced his intention to challenge incumbent Senator Ed Markey for the Democratic nomination in the 2026 Massachusetts Senate race. Moulton, a moderate Democrat, argues that the party needs to embrace a new generation of leadership, especially as Markey, who has been in Congress since 1976 and would be 80 at the start of a potential new term, represents the older guard. This primary contest is highly anticipated, as it pits two prominent figures in a heavily Democratic state against each other. Markey previously faced a challenge from Rep. Joe Kennedy III in 2020, which he successfully overcame. The dynamics of this race, including Moulton's appeal to younger voters and Markey's established political history, will be crucial in predicting whether Markey can secure the nomination again.
+Summary: Seth Moulton, a moderate U.S. Representative from Massachusetts, has announced he will challenge incumbent Senator Ed Markey in the 2026 Democratic primary. Markey, first elected to Congress in 1976 and serving as a senator since 2013, is nearing 80 years old, prompting Moulton to argue for generational change within the party. The race is highly anticipated, featuring two prominent Democratic figures in Massachusetts. Markey's recent campaign history includes a primary challenge from Joe Kennedy III in 2020. While Markey remains active in his role, Moulton's entry suggests a competitive primary that could influence Markey's chances of securing the Democratic nomination for the 2026 Senate race.
 
-Title: Why younger Democrats keep challenging Ed Markey, according to experts
-Author: Margie Cullen
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.milforddailynews.com/story/news/politics/2026/02/18/ed-markey-ma-senator-why-younger-democrats-challenging-experts/88722618007/
-Summary: Younger Democrats are increasingly challenging Massachusetts Senator Ed Markey, with Rep. Seth Moulton being the latest to announce a primary run against him in the 2026 midterm elections. Moulton's campaign is partly driven by concerns over Markey's age (79) and a perceived need for new leadership. Despite these challenges, Markey remains a popular figure in Massachusetts, holding a 54% approval rating according to a recent UMass poll, with many voters believing he deserves re-election. His progressive credentials, including co-sponsoring the Green New Deal, resonate well in the state, which is known for its progressive electorate. However, the dynamics of the race could shift as younger candidates continue to emerge, reflecting a generational divide within the party. The outcome of the primary will depend on various factors, including voter sentiment towards Markey's long tenure and the appeal of his challengers.
+Title: Ayanna Pressley endorses 79-year-old Ed Markey for Senate as the progressive wing closes ranks against Seth Moulton - Mass Daily News
+Author: MDN Staff
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.massdailynews.com/2026/03/02/ayanna-pressley-endorses-79-year-old-ed-markey-senate
+Summary: Congresswoman Ayanna Pressley has endorsed incumbent Senator Ed Markey for his 2026 re-election campaign, signaling strong support from Massachusetts' progressive wing. Markey, a long-standing senator since 2013 with a history in Congress since 1976, has recently adopted a progressive stance, advocating for policies like abolishing ICE, impeaching Trump, and passing the Green New Deal. His primary challenger is Congressman Seth Moulton, a Marine veteran and pragmatist who criticizes Markey's approach as more focused on social media than substantive policy. The recent endorsements from prominent progressive figures, including Pressley and Boston Mayor Michelle Wu, suggest that Markey maintains significant support within the Democratic base, which could favor his prospects of securing the Democratic nomination.
+
+Title: Ayanna Pressley Endorses Ed Markey in 2026 Democratic Senate Primary – Swampscott Tides
+Author: Monica Sager
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://swampscotttides.org/featured/ayanna-pressley-endorses-ed-markey-in-2026-democratic-senate-primary/
+Summary: Ed Markey, a longstanding Democratic senator from Massachusetts, is currently leading in polling and has received endorsements from prominent figures like Rep. Ayanna Pressley and various labor and advocacy groups. Polls from late 2023 show Markey with a significant lead over challenger Rep. Seth Moulton, suggesting a strong position to secure the Democratic nomination for the Massachusetts Senate seat in 2026.
+
+Title: Pressley endorses Markey for reelection in US Senate race
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.bostonglobe.com/2026/03/02/metro/markey-pressley-senate-endorsement-2026-midterms/?s_campaign=spoint%3Anewsletter
+Summary: Congresswoman Ayanna Pressley has endorsed incumbent Senator Ed Markey for his reelection bid, citing their collaborative efforts on progressive legislation and shared commitment to justice for Massachusetts residents. Despite speculation about a potential primary challenge from within the Massachusetts Democratic delegation, Pressley announced she will seek reelection in her district instead of running against Markey. Markey remains ahead in polls, though a recent survey suggests his lead could diminish if a primary challenger gains traction. Overall, Pressley's endorsement and ongoing political support indicate that Markey is positioned favorably to secure the Democratic nomination for the Massachusetts Senate seat.
 
 

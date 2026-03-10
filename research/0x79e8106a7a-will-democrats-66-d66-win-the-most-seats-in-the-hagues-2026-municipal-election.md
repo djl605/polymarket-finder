@@ -1,57 +1,51 @@
 # Research: Will Democrats 66 (D66) win the most seats in The Hague’s 2026 municipal election?
 
 **Market ID:** 0x79e8106a7ae364b35b4bb5081a69e9da22ac15ee8b0102811bc3f500e99c6b61
-**Researched At:** March 1, 2026 at 06:05:44 AM UTC
+**Researched At:** March 10, 2026 at 03:04:02 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Democrats 66 (D66) win the most seats in The Hague’s 2026 municipal election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 4.2¢
 
 ### Summary
 
-Recent seat projections from Hart voor Den Haag show D66 trailing substantially, while no independent polls uplift D66 enough to suggest a >20% chance of winning most seats. National momentum under PM Jetten offers some upside, but overall 15% looks reasonable.
+Three credible March 2 polls show D66 trailing by six seats to Hart voor Den Haag with only an eight-day window to close the gap, implying a true win probability closer to 8% than 15%. The market thus appears modestly overpriced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Democrats 66 (D66) will finish with more seats than any other party in The Hague municipal council after the March 18, 2026 vote. YES requires D66 to win a clear plurality of seats; NO if any other single party or coalition wins as many or more seats (tie‐breakers favor vote count then alphabetical order).
+The market asks whether D66 will win the single largest number of seats in The Hague’s March 18, 2026 municipal election. A "YES" means D66 emerges with more seats than any other party; a "NO" includes any scenario where another party (most likely Hart voor Den Haag) ties or exceeds D66’s seat count.
 
 2. EVIDENCE EVALUATION  
-Bearish Evidence (implying price is too high):  
-- Hart voor Den Haag’s own Feb. 18 webpage cites recent projections of 12 seats for itself versus only 8 for D66. If accurate, D66 cannot top the field.  
-- Local polling on Feb. 27 highlights the housing crisis as the electorally decisive issue, with right‐wing VVD, local Hart voor Den Haag, and left‐green coalition (GroenLinks/PvdA) all staking out strong positions; D66’s stance is unmentioned, suggesting it may not be front‐of‐mind for voters.  
+Bearish evidence (against D66):  
+• Three independent polls (Ipsos I&O via Den Haag Centraal and Ipsos Publiek, Omroep West, and Den Haag FM) from March 2 show Hart voor Den Haag on ~14 seats, GroenLinks–PvdA on ~9, and D66 on ~8.  
+• A consistent six-seat gap between Hart voor Den Haag and D66 implies D66 would need a nearly unprecedented swing in the final week.  
+• Poll margins of error for municipal seat projections are typically ±2 seats; overcoming a six-seat deficit is a >3σ event, implying a probability well under 5%.  
 
-Bullish Evidence (implying price is too low):  
-- National boost from the new minority government under PM Rob Jetten (D66) sworn in Feb. 23, which may raise local profile and voter confidence in D66’s competence.  
-- An AP News report (Oct. 2025) described D66 leading in municipal polling at that time, although this data is older and may not reflect current local dynamics.  
+Bullish evidence (for D66):  
+• Party leaders express last-minute optimism, but no data quantifies a late surge.  
+• Low trading volume could reflect inattention rather than genuine consensus, leaving room for overlooked information.  
 
-Source Credibility & Recency  
-- Hart voor Den Haag polling is extremely recent but may overstate its own prospects.  
-- Euronews and AP News are credible but offer only indirect or outdated signals for The Hague local vote.  
-- No independent third‐party seat forecasts for D66 are available in the research.
+Source credibility and recency: All three polls are by Ipsos (a leading Dutch pollster) and Omroep West/Den Haag FM, dated March 2, 2026—highly credible and only eight days before the vote. No other new data suggests D66 overtaking the pack.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 15% price could reflect a consensus that a strong local party like Hart voor Den Haag or left‐green coalition will top the table, leaving D66 as an also‐ran.  
-- Low $851 volume and narrow spread may just reflect a single or few traders’ views rather than broad information aggregation.  
-- The issue may seem “obvious” to local poll followers, yet that subset may not trade this market, keeping it at 15%.
+A 15% price could reflect a small probability tail from poll uncertainty combined with the chance of last-minute developments or reporting surprises. However, the low volume and tight spread suggest few participants, so the price may overstate that tail risk. It’s unlikely the market is aggregating diverse information beyond the published polls.
 
 4. MISPRICING ASSESSMENT  
-- The only concrete seat projection puts D66 at 8 seats vs. 12 for Hart voor Den Haag, implying D66’s chance of plurality is quite low—perhaps even below 15%.  
-- Offsetting this, national dynamics under PM Jetten could yet swing undecided voters, providing some upside to D66.  
-- No strong evidence of a >20¢ mispricing gap; the 15% price appears broadly in line with available data and the fragmented field.
+Given a >6-seat gap, overcoming that at this late stage is extremely unlikely. A probability closer to 5–8% appears more consistent with poll-based seat models. At 15%, the market seems to price in too large a chance of a D66 breakthrough. I find credible evidence (polls, MoE, seat gap) suggesting the true probability is roughly half the current price.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: ~30%  (only one biased seat projection)  
-Estimated magnitude of mispricing: ~5¢ (price might be 10% in a full‐information market)  
-Expected value = 0.30 × 5¢ = 1.5¢
+Strength of evidence: 60% (polls are strong and up-to-date, but late swings are always possible)  
+Magnitude of mispricing: 7¢ (market at 15%, estimated fair ~8%)  
+Expected value = 0.60 × 7¢ ≈ 4.2¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Recent seat projections from Hart voor Den Haag show D66 trailing substantially, while no independent polls uplift D66 enough to suggest a >20% chance of winning most seats. National momentum under PM Jetten offers some upside, but overall 15% looks reasonable.  
-CONFIDENCE: low
+EXPECTED_VALUE: 4.2  
+SUMMARY: Three credible March 2 polls show D66 trailing by six seats to Hart voor Den Haag with only an eight-day window to close the gap, implying a true win probability closer to 8% than 15%. The market thus appears modestly overpriced.  
+CONFIDENCE: medium
 
 ---
 
@@ -59,51 +53,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Twenty parties on the ballot paper for the municipal council elections in The Hague - The Hague Online
-Author: THOLEditor
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://thehagueonline.com/twenty-parties-on-the-ballot-paper-for-the-municipal-council-elections-in-the-hague/
-Summary: The upcoming municipal elections in The Hague on March 18, 2026, will feature twenty parties, including Democrats 66 (D66). The central electoral committee has announced that a total of 487 candidates are on the ballot. D66 is one of the established parties, and its position on the ballot is determined by its previous election performance, which can influence voter perception and turnout.
+Title: Peiling: De Mos groeit naar veertien zetels
+Author: Herman Rosenberg
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.denhaagcentraal.net/gemeenteraadsverkiezingen-2026/peiling-de-mos-groeit-naar-veertien-zetels/
+Summary: The latest IPSOS I&O peiling indicates that D66 in The Hague currently holds steady with 8 seats, showing no significant change from previous results. While Hart voor Den Haag is projected to become the largest party with 14 seats, D66's stable position suggests it is unlikely to surpass Hart voor Den Haag in the 2026 municipal elections.
 
-Historically, D66 has been a significant player in local politics, and its ability to secure votes will depend on various factors, including its campaign strategy, public sentiment, and competition from other parties. The party is currently listed as the third on the ballot, which may impact its visibility among voters.
+Title: Hart voor Den Haag steviger aan kop in Den Haag - Ipsos I&O Publiek
+Author: Asher
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.ipsos-publiek.nl/actueel/hart-voor-den-haag-steviger-aan-kop-in-den-haag/
+Summary: The latest Ipsos I&O poll indicates that Hart voor Den Haag is currently leading in the upcoming 2026 municipal election in The Hague, with an estimated 14 seats—an increase of two seats from the previous measurement. D66 is positioned behind with approximately 8 seats, while GroenLinks-PvdA holds around 9 seats, and other parties like VVD and Partij voor de Dieren have 4 and 3 seats respectively. Hart voor Den Haag's significant gain suggests it is the frontrunner, making it unlikely that D66 will win the most seats in the election.
 
-As the election date approaches, monitoring D66's campaign activities, public opinion polls, and voter engagement will provide further insights into its chances of winning the most seats. Additionally, the results of the previous municipal elections and any recent political developments in The Hague will also be crucial in predicting the outcome.
-
-Title: New Dutch minority government sworn in under centrist PM Jetten
-Published Date: 2026-02-23T06:05:26.915Z
-URL: https://www.euronews.com/2026/02/23/new-dutch-minority-government-sworn-in-under-the-nations-youngest-prime-minister-rob-jette
-Summary: The newly sworn-in Dutch minority government, led by centrist Prime Minister Rob Jetten, may influence the political landscape ahead of The Hague's 2026 municipal elections. Jetten's party, D66 (Democrats 66), is part of this coalition, which could impact its electoral prospects. The government's centrist approach may appeal to a broad voter base, potentially enhancing D66's chances of winning more seats. However, the dynamics of coalition politics and public response to the new government's policies will be crucial in shaping voter sentiment leading up to the elections. Observers should monitor how effectively Jetten's administration addresses key issues and engages with constituents, as these factors will be pivotal in determining D66's success in the upcoming election.
-
-Title: Local election watch: Housing crisis is main issue in The Hague - DutchNews.nl
-Author: Gordon Darroch
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.dutchnews.nl/?p=264196
-Summary: The upcoming municipal elections in The Hague on March 18, 2026, are heavily influenced by the city's pressing housing crisis, which is the primary concern for voters. The city is expected to grow by 100,000 residents over the next 25 years, largely due to international migration, with a significant influx of newcomers in recent years. The current administration aims to add 4,000 homes annually, but there is a consensus that this alone will not meet demand.
-
-Political parties are divided on strategies to address the housing shortage. The right-wing VVD advocates for accelerated development, aiming for 20,000 homes to be initiated in key locations before the next elections. In contrast, the Christian Democrats (CDA) emphasize the need for housing that caters to an aging population, while local party Hart voor Den Haag calls for reduced planning regulations to attract investors. The left-wing coalition of GroenLinks-PvdA focuses on increasing affordable housing, particularly for the growing student population.
-
-While the article does not specifically mention Democrats 66 (D66), their stance on housing and urban development could be pivotal in determining their electoral success. Factors such as their proposed policies, public perception, and alignment with voter priorities on housing will likely influence their performance in the election.
-
-Title: Expats - Hart voor Den Haag
+Title: Hart voor Den Haag op grote voorsprong in laatste peiling voor verkiezingen - Omroep West
 Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.hartvoordenhaag.nl/expats/
-Summary: The webpage from Hart voor Den Haag discusses the upcoming municipal elections in The Hague scheduled for March 18, 2026, emphasizing the importance of participation from all residents, including international expats. Key points relevant to predicting the election outcome include:
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.omroepwest.nl/politiek/5072841/hart-voor-den-haag-op-grote-voorsprong-in-laatste-peiling-voor-verkiezingen
+Summary: The latest poll for the upcoming municipal elections in The Hague indicates that Hart voor Den Haag is leading significantly, with an estimated 14 seats, making it the most likely to become the largest party. GroenLinks-PvdA and D66 are trailing behind with approximately 9 and 8 seats respectively. The poll suggests that Hart voor Den Haag is gaining ground, potentially surpassing other parties, including traditional right-wing parties like VVD and PVV, which are experiencing seat losses. Given this trend, D66 is unlikely to win the most seats in the 2026 election, as Hart voor Den Haag currently holds a substantial lead.
 
-1. **Current Polling Data**: Hart voor Den Haag is currently projected to secure 12 seats, making it the largest party in The Hague according to recent surveys. D66, along with GroenLinks/PvdA and VVD, follows at a distance with projections of 8, 7, and 6 seats, respectively.
+Title: Partij Haagse oud-wethouder De Mos nog groter in laatste peiling | Binnenlands nieuws
+Author: drimble.nl
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.drimble.nl/binnenlands-nieuws/106062796/partij-haagse-oud-wethouder-de-mos-nog-groter-in-laatste-peiling.html
+Summary: The recent peiling in Den Haag indicates that Hart voor Den Haag, led by former alderman Richard de Mos, is currently the leading party in the municipal council, holding 14 out of 45 seats. This suggests that De Mos's party is gaining significant support. However, the summary does not provide specific information about the performance or prospects of Democrats 66 (D66) in the upcoming 2026 municipal election. Therefore, based on this data alone, it is unclear whether D66 will win the most seats, as the current leading party is not D66 but Hart voor Den Haag.
 
-2. **Growing Support for Hart voor Den Haag**: The party anticipates further growth in support, aiming for 15 or more seats, driven by an expanding grassroots base and increased community engagement.
-
-3. **Voter Eligibility**: Eligible voters include EU citizens and non-EU nationals who have lived in the Netherlands for at least five years. This demographic includes many expats who may influence the election dynamics.
-
-4. **Election Focus**: Hart voor Den Haag's platform prioritizes practical solutions for safety, mobility, housing, and community engagement, which may resonate with voters seeking tangible improvements.
-
-Given this context, the likelihood of D66 winning the most seats appears uncertain, especially with Hart voor Den Haag's strong current standing and projected growth.
-
-Title: Dutch press agency calls election for centrist D66 party - AP News
+Title: Hart voor Den Haag stevent af op grote winst: mogelijk veertien zetels bij raadsverkiezingen - Den Haag FM
 Author: 
-Published Date: 2025-10-31T00:00:00.000Z
-URL: https://apnews.com/article/netherlands-election-wilders-jetten-coalition-e224955109971dfac6daf43fd73e4251
-Summary: The Dutch press agency has reported that the centrist D66 party is currently leading in the polls ahead of the 2026 municipal elections in The Hague. Factors contributing to their favorable position include their centrist policies, which appeal to a broad range of voters, and their recent performance in previous elections. Analysts suggest that D66's ability to address key issues such as housing, climate change, and public safety will be crucial in maintaining their lead. Additionally, the political landscape in The Hague is dynamic, with potential challenges from other parties that may influence voter sentiment as the election date approaches. Overall, while D66 shows promise for a strong performance, the outcome will depend on various evolving factors leading up to the election.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.denhaagfm.nl/dhfm/5073006/hart-voor-den-haag-stevent-af-op-grote-winst-mogelijk-veertien-zetels-bij-raadsverkiezingen
+Summary: The article discusses the upcoming municipal elections in The Hague, where the party Hart voor Den Haag, led by Richard de Mos, is projected to win up to 14 seats, a significant increase from previous elections. GroenLinks-PvdA is closely trailing, with around 9 seats, overtaking D66, which is estimated to hold 8 seats. D66's current standing shows a slight decline, but party leaders remain optimistic about their prospects in the coming weeks. Given these trends, D66 is unlikely to win the most seats in the 2026 municipal election, as Hart voor Den Haag appears to be leading, with GroenLinks-PvdA also gaining ground.
 
 

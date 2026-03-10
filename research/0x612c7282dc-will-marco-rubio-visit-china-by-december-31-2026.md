@@ -1,7 +1,7 @@
 # Research: Will Marco Rubio visit China by December 31, 2026?
 
 **Market ID:** 0x612c7282dc540fb6382a282f516b979f28946227920ee8d5e7f108c6d8292cdd
-**Researched At:** March 5, 2026 at 04:20:51 AM UTC
+**Researched At:** March 10, 2026 at 03:03:56 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Marco Rubio visit China by December 31, 2026?"
 
 ---
@@ -9,47 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.5¢
+**Expected Value:** 24.0¢
 
 ### Summary
 
-There’s no public sign Rubio intends to visit China by December 31, 2026, yet the market is at 82.5%. Given ongoing tensions and no announced plans, a fair probability may be closer to 65–70%, implying a ~12–17 cent overpricing.
+With no announcements or credible indications that Rubio will travel to China—and given strained U.S.–China relations under Trump 2.0—a 79% probability looks overstated. Low trading volume and a likely overconfident trader further support a ≈40-point overpricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether U.S. Secretary of State Marco Rubio will physically enter China (land or territorial waters) by 11:59 PM ET on December 31, 2026. A “Yes” resolution requires an actual trip onto Chinese soil or into Chinese waters within the period; anything short of entry (e.g., overflight or Chinese officials visiting him) does not count.
+The market asks whether U.S. Secretary of State Marco Rubio will physically enter China (land or maritime territory) by 11:59 PM ET on December 31, 2026. A “Yes” requires an actual, on-the-ground visit; anything short of that (no trip, only airspace crossing, or only virtual/diplomatic meetings outside China) would resolve as “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish (supports high probability):  
-• Ongoing diplomacy. Rubio met China’s FM Wang Yi in Munich in February 2026, signaling Washington and Beijing remain in dialogue. That institutional engagement could pave the way for a reciprocal trip.  
-• Trump’s planned April 2026 Beijing visit may create opportunities for senior U.S. officials (including Rubio) to follow up later in the year.
+Bullish for YES (supports ~79%):  
+• Rubio’s February 2026 meeting with Wang Yi in Munich underlines ongoing high-level U.S.–China dialogue ahead of Trump’s planned April summit, implying groundwork that could include a direct visit.  
+• China has signaled willingness to host U.S. counterparts to stabilize ties; as SoS, Rubio is a logical interlocutor.
 
-Bearish (suggests price too high):  
-• No public announcement of Rubio planning or scheduling a China visit by year-end 2026. All reports note meetings in Europe (Munich) but no inbound trip to China.  
-• Context of heightened US–China tensions in a “Trump 2.0” era (tariffs, sanctions, transactional diplomacy) makes a high-profile China visit by a senior U.S. official less obvious.  
-• If the trip were under serious consideration, leaks or official invitations would likely have surfaced by mid-February 2026; none have.
+Bearish for YES (suggests overpricing):  
+• No announcement or credible leak of any official Rubio trip to China by year-end 2026. Major outlets (Bloomberg, CNN) report diplomatic engagements but explicitly note no China plans for Rubio.  
+• Trump 2.0’s transactional, adversarial China policy (tariffs, sanctions) reduces incentives for a high-profile Rubio visit.  
+• Zero trading volume indicates few participants—likely an overconfident lone trader rather than a broad information aggregation.
 
-Credibility & recency: All sources are February 2026 and reputable (Bloomberg, CNN, ANI, China Briefing). None directly address Rubio’s travel to China, so any inference about his personal itinerary is circumstantial.
+Source credibility: Bloomberg and CNN are reputable and recent (Feb 2026). Their lack of trip announcements is meaningful. The China Briefing timeline corroborates a tense environment. No research finding hints at a concrete plan for Rubio to go.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A price of 82.5% might reflect traders assuming that because diplomacy is active, senior officials will almost certainly visit China at some point in 2026.  
-• Low volume ($552) and tight spread (1 cent) suggest few participants set the price; it may not have been stress-tested by China watchers or professional Asia–Pacific analysts.  
-• The simplicity of “Rubio meets Wang Yi in Munich” could have led a single overconfident trader to push the price up absent solid trip plans, while others haven’t stepped in to correct it.
+A 79% consensus could be explained if informed insiders know of a pending trip, but no public signals support that. Low volume and tight spread suggest one or two liquidity-providing traders. It seems more plausible they set a high price on circumstantial logic, not diversified evidence. The market’s age (21 days) without any news implies inattention from informed players, not inevitability.
 
 4. MISPRICING ASSESSMENT  
-• There is no specific evidence of Rubio’s intent or planned trip to China by year’s end, yet the market is pricing nearly certainty.  
-• Given the remaining 10 months timeframe, while a trip is possible, an 82.5% probability seems above most informed expectations absent an explicit announcement or invitation.  
-• A fairer consensus estimate might lie closer to 60–70%, implying a possible overpricing of ~12–22 cents.  
-• No technical resolution quirks or already-met criteria are overlooked: Rubio has not yet entered China.
+Given absent trip announcements, the nominal adversarial context, and zero volume, a 79% probability appears overstated by roughly 40 to 50 points. There is no strong, missing piece of public information that could justify such a high price. The charitable interpretation is that insiders know more, but that feels unlikely given diplomatic sensitivities; leaks would normally emerge. Thus there is credible evidence of overpricing.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is too high: moderate (50%)—absence of announced plans is a solid negative signal but does not rule out a late-year trip.  
-• Estimated magnitude of mispricing: ~15 cents (difference between 82.5% market and a 67.5% “fair” estimate).  
-• Expected value = 50% × 15 cents = 7.5 cents
+Strength of evidence = 60% (sources are solid but absence of evidence is a weaker signal than positive evidence)  
+Estimated magnitude of mispricing = 40 cents  
+Expected value = 0.60 × 40 cents = 24 cents  
 
-EXPECTED_VALUE: 7.5  
-SUMMARY: There’s no public sign Rubio intends to visit China by December 31, 2026, yet the market is at 82.5%. Given ongoing tensions and no announced plans, a fair probability may be closer to 65–70%, implying a ~12–17 cent overpricing.  
+EXPECTED_VALUE: 24  
+SUMMARY: With no announcements or credible indications that Rubio will travel to China—and given strained U.S.–China relations under Trump 2.0—a 79% probability looks overstated. Low trading volume and a likely overconfident trader further support a ≈40-point overpricing.  
 CONFIDENCE: medium
 
 ---
@@ -62,27 +57,21 @@ Title: China’s Wang Yi Meets US’ Rubio Ahead of Planned Trump-Xi Summit - Bl
 Author: Jeanny Yu
 Published Date: 2026-02-14T00:00:00.000Z
 URL: https://www.bloomberg.com/news/articles/2026-02-14/china-s-wang-yi-meets-us-rubio-ahead-of-planned-trump-xi-summit
-Summary: Chinese Foreign Minister Wang Yi met with U.S. Secretary of State Marco Rubio in Munich ahead of President Trump's planned visit to Beijing in April 2026. During the meeting, Wang emphasized the importance of mutual respect and called for China and the U.S. to strengthen dialogue and cooperation across various fields to promote stable relations. While the meeting indicates ongoing diplomatic engagement and a willingness to improve bilateral ties, there is no specific information about Rubio's personal travel plans or intentions to visit China by December 31, 2026.
+Summary: Chinese Foreign Minister Wang Yi met with U.S. Secretary of State Marco Rubio in Munich amid preparations for President Trump’s planned visit to Beijing in April 2026. During the meeting, Wang emphasized the importance of mutual respect and called for China and the U.S. to enhance dialogue and cooperation across various fields to promote stable relations. While the meeting indicates ongoing diplomatic engagement, there is no specific information suggesting Rubio’s personal plans or intentions to visit China by December 31, 2026.
 
 Title: As Rubio tries to make amends, China looks to woo Europe | CNN
 Author: Simone McCarthy
 Published Date: 2026-02-15T00:00:00.000Z
 URL: http://www.cnn.com/2026/02/15/china/us-china-munich-rubio-wang-intl-hnk
-Summary: The article discusses recent diplomatic exchanges between the US and China amid shifting global alliances. US Secretary of State Marco Rubio emphasized the importance of US-European ties and called for rebuilding international security frameworks, reflecting a period of reevaluation in US foreign policy. Meanwhile, China's Foreign Minister Wang Yi highlighted China and the EU as partners, advocating for cooperation, free trade, and opposition to bloc confrontation, implicitly contrasting with US policies. China is also seeking to maintain stable relations with the US, especially ahead of a potential visit by Donald Trump to China this spring. Given these diplomatic dynamics and China's efforts to balance relations with both the US and Europe, there is no direct indication that Rubio plans to visit China by December 31, 2026.
-
-Title: Marco Rubio meets Chinese foreign minister Wang Yi in Munich, ahead of proposed Trump-Xi Summit
-Author: ANI
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://theprint.in/world/marco-rubio-meets-chinese-foreign-minister-wang-yi-in-munich-ahead-of-proposed-trump-xi-summit/2854846/
-Summary: The article reports that U.S. Senator Marco Rubio met Chinese Foreign Minister Wang Yi in Munich ahead of a proposed Trump-Xi summit. The meeting signifies ongoing diplomatic engagement between U.S. and Chinese officials, highlighting efforts to manage bilateral relations amid geopolitical tensions. While the discussion underscores diplomatic openness, there is no specific indication or announcement of Rubio planning a visit to China by December 31, 2026. Therefore, based on this information, it remains uncertain whether Rubio will visit China within that timeframe.
-
-Title: SECRETARY RUBIO: We are going to destroy Iran's missiles and ...
-URL: https://www.facebook.com/statedept/posts/secretary-rubio-we-are-going-to-destroy-irans-missiles-and-their-missile-launche/1360660752759853/
-Summary: The webpage features a statement from Secretary Rubio, asserting that the United States plans to destroy Iran's missile capabilities, missile launchers, and navy to prevent Iran from advancing its military threats. Rubio emphasizes that acting promptly offers the highest chance of success in achieving these objectives. The post reflects a strong U.S. stance on countering Iran's military infrastructure, with some public comments expressing support for decisive action and optimism about the strategic goals. There is no mention of Marco Rubio's travel plans or any indication of a visit to China by December 31, 2026. Therefore, this webpage provides no relevant information to predict whether Marco Rubio will visit China by that date.
+Summary: The article discusses recent diplomatic efforts by U.S. Secretary of State Marco Rubio and China's Foreign Minister Wang Yi, highlighting their contrasting approaches at the Munich Security Conference. Rubio emphasized the importance of the U.S.-Europe alliance and the need to rebuild the international system, while Wang Yi positioned China and the EU as partners working against unilateralism and bloc confrontation. Despite tensions and shifts in global alliances, China is also seeking to maintain stable relations with the U.S., especially ahead of a potential visit by Donald Trump to China later in 2026. Given these diplomatic dynamics and China's interest in fostering cooperation with the U.S., there is no indication from the article that Rubio plans to visit China by December 31, 2026.
 
 Title: US-China Relations in the Trump 2.0 Era: A Timeline
 Author: China Briefing
 URL: https://www.china-briefing.com/news/us-china-relations-in-the-trump-2-0-implications/
-Summary: The webpage provides a timeline and analysis of US-China relations during the Trump 2.0 era, starting from Trump's re-inauguration in January 2025 through February 2026. It highlights a shift toward more aggressive US policies, including increased tariffs, sanctions on Chinese companies, and a focus on short-term economic and strategic gains. The approach is characterized by unpredictability and a transactional stance, with less emphasis on long-term diplomacy. While it does not mention Marco Rubio specifically or predict individual visits to China, the overall context suggests heightened tensions and a cautious, strategic environment for US political figures engaging with China. Given the emphasis on escalating confrontations and the unpredictable US approach, a visit by Rubio to China before December 31, 2026, would depend on evolving diplomatic and geopolitical factors, which remain uncertain based on this timeline.
+Summary: The webpage provides a timeline and analysis of US-China relations during the Trump 2.0 era, starting from Trump's re-election in January 2025 through February 2026. It highlights that Trump’s second term is characterized by intensified trade confrontations, increased tariffs, and sanctions aimed at achieving economic self-sufficiency, with a focus on short-term strategic gains rather than long-term diplomacy. The approach is unpredictable, emphasizing transactional policies and a more aggressive stance toward China. While the timeline details key developments and potential consequences for China’s economy and geopolitics, it does not mention specific visits or diplomatic plans involving individual US politicians like Marco Rubio. Therefore, predicting whether Rubio will visit China by December 31, 2026, based solely on this source is not feasible, but the overall context suggests a period of heightened US-China tensions and strategic competition.
+
+Title: Trump suggests he'll focus on Cuba next but wants to 'wait a couple of ...
+URL: https://apnews.com/video/trump-suggests-hell-focus-on-cuba-next-but-wants-to-wait-a-couple-of-weeks-ec83c00827f642e9bbea3acc86875fec
+Summary: The article reports that former President Donald Trump has indicated he plans to focus on Cuba next but wants to "wait a couple of weeks" before doing so. There is no mention of Marco Rubio or any plans related to China in the provided content. Therefore, based on this information, there is no relevant data to predict whether Marco Rubio will visit China by December 31, 2026.
 
 

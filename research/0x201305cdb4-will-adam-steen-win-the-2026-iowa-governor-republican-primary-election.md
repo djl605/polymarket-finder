@@ -1,50 +1,49 @@
 # Research: Will Adam Steen win the 2026 Iowa Governor Republican primary election?
 
 **Market ID:** 0x201305cdb4e6a8c4b4c48f1e24835fce62fbfc75efd608255e36c7d504fde6c8
-**Researched At:** March 4, 2026 at 04:16:43 AM UTC
+**Researched At:** March 10, 2026 at 03:02:14 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Adam Steen win the 2026 Iowa Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Available reporting shows a competitive five-candidate primary with no polling or endorsements indicating Steen is under- or overvalued; a ~16.5% chance is in line with a mid-tier candidate in such a field. No credible mispricing evidence emerges.
+Given only anecdotal momentum and endorsements without polling data, a ~21.5% win probability for Steen in a five-person GOP field is reasonable. There is no clear, credible evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Adam Steen will emerge as the winner of the June 2, 2026 Iowa Republican gubernatorial primary (including any run-off). A YES resolution requires Steen to secure either a plurality (or a majority in a run-off) of votes among all GOP primary candidates.
+The market asks whether Adam Steen will emerge as the winner of the June 2, 2026 Iowa GOP gubernatorial primary. YES requires him to secure the most votes (outright or via a runoff if that applies), NO covers any other winner or if the primary doesn’t occur.
 
 2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• Steen has raised ~$500K, leverages business and state-gov experience, is running an active grassroots “retail politics” operation (KCCI 3/2).  
-• Positive profile pieces emphasize his pragmatic leadership and intra-party goodwill (Radio Iowa 2/11).  
-Bearish indicators:  
-• Five-candidate field; no published polling data showing Steen in front (all articles note competitive, crowded race without numbers).  
-• No major endorsements or signs of breakout momentum beyond early fundraising.  
-Source credibility: All outlets are reputable local news but offer only qualitative descriptions; none provide hard polling or predictive analytics.
+Bullish bullets   
+• AP (2/15) notes “momentum” for Steen based on weak front-runner attendance, straw-poll wins, and key conservative endorsements.  
+• Two state legislators (Stone on 3/3; Gehlbach on 3/5) have publicly backed him.  
+Bearish bullets  
+• No statewide polling or hard numbers on vote intention.  
+• He’s one of at least five GOP contenders; fundraising (~$500K) likely trails better-known rivals.  
+• Articles emphasize name-ID building and retail campaigning, not real voter share.  
+Source Credibility & Recency: All items are from credible outlets (AP, KCCI, Gazette) within the last month. But none supply vote-share data, only anecdotal momentum.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 16.5% price aligns with a mid-tier candidate in a five-person primary absent polling (≈1/5 = 20%).  
-• Low volume likely reflects scarce public data rather than consensus mispricing.  
-• If informed traders had actionable intel (e.g., internal polls), they’d likely have driven a larger market move.
+A 21.5% price implies Steen is seen as a mid-tier contender in a crowded field—plausible if two others lead. Low $536 volume suggests little liquidity; price may reflect a handful of traders’ rough guesstimate rather than broad consensus. Alternatively, traders may simply have split probabilities across five candidates (~20%), giving Steen a slight edge for momentum.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence indicates the market has overlooked a major factor. All available reporting highlights a competitive field with no clear frontrunner. Given the absence of quantitative data, 16.5% seems a defensible consensus estimate.
+No strong, unanalyzed info suggests he’s dramatically more or less likely than ~20%. The absence of polling and heavyweights’ endorsements means genuine uncertainty. There’s insufficient evidence to call a >5¢ mispricing one way or the other.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the price is wrong: ~20% (limited and qualitative).  
-Magnitude of possible mispricing: ~0¢ (no clear directional bias).  
-Expected value ≈ 20%×0¢ = 0¢.
+Strength of evidence that price is wrong: ~30%  
+Estimated magnitude of mispricing: ~5¢  
+Expected value = 30% × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 0  
-SUMMARY: Available reporting shows a competitive five-candidate primary with no polling or endorsements indicating Steen is under- or overvalued; a ~16.5% chance is in line with a mid-tier candidate in such a field. No credible mispricing evidence emerges.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.5  
+SUMMARY: Given only anecdotal momentum and endorsements without polling data, a ~21.5% win probability for Steen in a five-person GOP field is reasonable. There is no clear, credible evidence of a large mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -52,30 +51,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Close Up: Iowa's crowded Republican primary for governor - KCCI
-Published Date: 2026-03-02T04:16:32.267Z
+Title: Close Up: Iowa's crowded Republican primary for governor
 URL: https://www.kcci.com/article/close-up-iowa-politics-crowded-republican-primary-for-governor/70496432
-Summary: The article discusses the current crowded Republican primary race for Iowa governor, focusing on five candidates, including Adam Steen. Steen, a former head of Iowa’s Department of Administrative Services with a background in business and government, is actively campaigning through retail politics and grassroots efforts. He emphasizes his experience, faith, and commitment to Iowa’s culture, raising approximately $500,000 to fund his campaign. While he is positioning himself as a strong contender with a focus on local engagement and his ability to lead from day one, the race remains highly competitive with multiple candidates vying for the nomination. Given the current context, Steen's prospects depend on his ability to increase name recognition, secure funding, and differentiate himself in a crowded field. Predicting his success in the 2026 primary would require considering his ongoing campaign momentum, voter support, and how well he can outperform other candidates in future elections.
+Summary: The article provides an overview of the current Republican primary race for Iowa governor, focusing on five candidates, including Adam Steen. Steen, a former head of Iowa’s Department of Administrative Services, emphasizes his business background and government experience, highlighting his campaign efforts to increase name recognition through retail politics across the state. He has raised approximately $500,000 and is actively campaigning in small towns, engaging voters on issues such as water quality, tax policy, and education. Steen positions himself as a fighter for Iowa families, with a platform rooted in preserving Iowa’s culture and addressing local concerns. However, the article does not provide information on his current polling, popularity, or specific strategies for winning the primary. Given the crowded field and the lack of detailed electoral data, predicting Steen’s chances of winning the 2026 Republican primary remains uncertain based solely on this information.
 
-Title: Iowa gubernatorial and lieutenant gubernatorial election ...
-URL: https://ballotpedia.org/Iowa_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The webpage provides an overview of the 2026 Iowa gubernatorial and lieutenant gubernatorial elections, including upcoming state and federal races. While it details the election timeline, participating offices, and general election information, it does not specify candidates, polling data, or primary race dynamics. To assess Adam Steen's chances of winning the Republican primary for Iowa governor, one would need additional information such as current polling, campaign activity, endorsements, and political landscape specifics. As of now, this webpage serves as a general resource on the 2026 election framework without specific insights into individual candidates like Adam Steen.
+Title: Iowa governor's race: Adam Steen pitches business background and conservative views
+Author: Amanda Rooker
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://www.kcci.com/article/adam-steen-pitches-business-background-conservative-views-run-iowa-governor/70636401
+Summary: Adam Steen is actively campaigning across Iowa for the Republican nomination for governor, emphasizing his business background, leadership experience in the state's Department of Administrative Services, and conservative values. He is engaging voters through small-town events, focusing on issues like water quality, education, and protecting traditional cultural values. Steen has raised approximately $500,000 for his campaign and is prioritizing increasing his name recognition. While he promotes a strong faith-based and conservative platform, his success in winning the 2026 Republican primary will depend on his ability to expand support beyond his current base, navigate the crowded primary field, and appeal to moderate voters.
 
-Title: Adam Steen explains his campaign for Iowa governor
-Author: Sarah Watson
-Published Date: 2026-02-10T00:00:00.000Z
-URL: http://qctimes.com/news/local/government-politics/article_ff405dfc-d841-4abd-b057-035fad9144ba.html
-Summary: The article details Adam Steen's campaign for Iowa governor, including his motivations, policy positions, and campaign strategies. Steen emphasizes his commitment to conservative principles, economic growth, and addressing local issues. While it provides insight into his current campaign efforts and political stance, it does not offer specific information about his prospects or likelihood of winning the 2026 Republican primary election. Therefore, predicting his success in the 2026 primary based solely on this article is not feasible.
+Title: Steen is the GOP candidate soaring to new heights | The Gazette
+Author: AP
+Published Date: 2026-02-15T00:00:00.000Z
+URL: https://thegazette.com/staff-columnists/steen-is-the-gop-candidate-soaring-to-new-heights/
+Summary: Adam Steen is gaining momentum in the 2026 Iowa Republican gubernatorial primary, partly due to the perceived weaknesses of front-runner U.S. Rep. Randy Feenstra, who has been absent from key events and has not received endorsements from notable figures like Donald Trump or Bob Vander Plaats. Steen’s campaign emphasizes his faith and conservative values, framing the election as a "battle of good vs. evil," particularly criticizing public school ideologies. His recent wins in unofficial straw polls and endorsements from influential conservatives suggest growing support. However, his success will depend on his ability to maintain this momentum and consolidate support against other GOP candidates.
 
-Title: Iowa GOP candidate for governor Steen emphasizes business background - Radio Iowa
-Author: O. Kay Henderson
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.radioiowa.com/2026/02/11/iowa-gop-candidate-for-governor-steen-emphasizes-business-background/
-Summary: Adam Steen, a Republican candidate for Iowa governor, emphasizes his extensive business background and experience in state government to appeal to voters. He served five years as director of the Iowa Department of Administrative Services, where he implemented significant reforms such as reducing state agencies from 37 to 16 and facilitating the sale of state-owned farmland to local farmers. Steen positions himself as a pragmatic, people-first leader with a faith-based foundation, advocating for efficient stewardship of taxpayer dollars and administrative competence. He maintains positive relations with other GOP candidates and has pledged to support the Republican nominee if he does not win the primary. His background as a business leader and his operational experience suggest he is a serious contender, but his success in the primary will depend on voter reception to his platform and campaign dynamics.
+Title: Iowa House leader backs Adam Steen in GOP governor’s race - Worldnews.com
+Author: system
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://article.wn.com/view/2026/03/03/Iowa_House_leader_backs_Adam_Steen_in_GOP_governor_s_race/
+Summary: Henry Stone, an Iowa House Republican leader from Forest City, has publicly endorsed Adam Steen in the 2026 GOP governor’s race, citing Steen’s commitment to conservative leadership. While this endorsement indicates political support and could influence voter perception, it alone does not determine the election outcome. Factors such as Steen’s campaign strategy, voter base, opposition candidates, and broader political climate will also significantly impact whether he wins the Republican primary.
 
-Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The provided document does not contain any information about Adam Steen, the Iowa gubernatorial race, or the 2026 Republican primary election in Iowa. It primarily covers the 2026 New Jersey gubernatorial race, including candidate profiles, polling data, campaign strategies, and endorsements for the New Jersey race. Therefore, it offers no relevant insights or predictions regarding Adam Steen's potential to win the Iowa Republican primary.
+Title: State Rep. Dan Gehlbach backs Adam Steen for governor
+Author: Lee-Gazette Des Moines Bureau
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://wcfcourier.com/news/state-regional/government-politics/elections/article_4e169481-a48d-4856-a543-bb17c0bcc17c.html
+Summary: State Rep. Dan Gehlbach has publicly endorsed Republican gubernatorial candidate Adam Steen, citing Steen’s conservative principles and approach to governance. While this endorsement indicates some level of support within the party, it does not provide enough information to predict Steen’s likelihood of winning the 2026 Iowa Republican primary. Factors such as campaign dynamics, other candidates’ strategies, voter sentiment, and broader political trends will also significantly influence the primary outcome.
 
 

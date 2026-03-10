@@ -1,61 +1,50 @@
 # Research: Will Extended launch a token by June 30 2026?
 
 **Market ID:** 0xfe4425817cc4ac71bf9f9da024a5341090fb6022da114061b1a1af53117213b0
-**Researched At:** March 4, 2026 at 04:15:01 AM UTC
+**Researched At:** March 10, 2026 at 03:01:47 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Extended launch a token by June 30 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 8.5¢
+**Confidence:** Low
+**Expected Value:** 0.5¢
 
 ### Summary
 
-The price (67%) largely reflects bullish industry momentum but ignores that comparable projects (Ostium, MegaETH) have no imminent token plans and haven’t met launch milestones. Absent any Extended announcement, a mid-50s probability is more defensible, suggesting modest overpricing.
+No direct evidence on Extended’s token launch exists in the research, making the current 45.5% price a reasonable reflection of true uncertainty. There is no credible signal suggesting a significant >5 cent mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-- The market asks whether Extended will officially launch a publicly transferable governance token by 11:59 PM ET on June 30, 2026.  
-- For YES: Extended must hold a Token Generation Event (TGE) or similar, mint a governance token, and list it on at least one public exchange or allow public trading by the deadline. Announcements alone don’t suffice.  
-- For NO: Either no TGE occurs by that date, or the token isn’t publicly tradable/transferable by that time.
+1. CONTEXT ANALYSIS  
+The market asks whether Extended will officially launch a publicly tradable governance token by 11:59 PM ET on June 30, 2026. For a “Yes” resolution, Extended must announce, issue, and enable active trading of its token before that deadline; mere announcements or plans do not qualify.
 
-2. EVIDENCE EVALUATION
-Bullish Evidence (supports ~67%):
-- Industry trend: Mark James (2026-02-04) notes many top projects (LayerZero, EigenLayer, Monad, Scroll) plan TGEs in H1 2026. Extended could follow suit to stay competitive.
-- No direct bearish signals from Extended itself; absence of announcements might simply reflect confidentiality until close to launch.
+2. EVIDENCE EVALUATION  
+– No research finding mentions Extended or plans for its token launch.  
+– Ostium is focusing on scaling operations and not token issuance (bearish analogue, but unrelated).  
+– MetaMask’s airdrop is on a different timeline (post-Q3 2026) and unrelated to Extended.  
+– The token-launch playbook outlines general best practices but gives no signal on Extended’s readiness or partnerships.  
+– edgeX’s token event shows a cautious market even when fundamentals are strong, illustrating that a sub-50% probability can be reasonable amid uncertainty.
 
-Bearish Evidence (suggests <67%):
-- AInvest on Ostium (2026-02-16): a closely analogous platform is focusing on scaling and infrastructure, with no token plans. If Extended mirrors Ostium, it may delay token issuance past June 2026.
-- AInvest on MegaETH (2026-02-19) & Squiffs/The Defiant (2026-02-06): even when a project is ready to TGE, unmet performance KPIs delayed MegaETH’s token launch. Extended may face similar build-out hurdles.
-- No mention in the March 2026 MetaMask airdrop summary (Zipmex, 2026-03-03) of token issuance timelines—indicative that even prominent wallets delay firm dates until later.
+3. MARKET EFFICIENCY ANALYSIS  
+– A 45.5% price plausibly reflects genuine uncertainty due to lack of public roadmaps or firm commitments from Extended.  
+– Low volume suggests most informed traders may simply be waiting for an announcement rather than betting either side.  
+– The tight spread indicates even the few participants agree that there’s roughly even odds.
 
-Source Credibility & Recency
-- AInvest, The Defiant, and ICOholder are credible industry observers; all reports are from February–March 2026, directly relevant and recent.
+4. MISPRICING ASSESSMENT  
+– There is no specific, credible evidence indicating Extended’s path to launch is materially more or less likely than 45.5%.  
+– Given the absence of disconfirming or confirming information in the research, the market price appears neither obviously too high nor too low.  
+– Any large (>20 cents) mispricing claim would ignore the key fact that we have zero direct intel on Extended’s token plans.
 
-3. MARKET EFFICIENCY ANALYSIS
-- A 67% price could reflect a broad consensus that “everyone expects a 2026 TGE.” But low $4.7 K volume implies few traders.  
-- Informed traders may be split: trend-followers bullish, project-analysts bearish due to no announcements.  
-- The market may be under-engaged by investors with project-level insight.
+5. EXPECTED VALUE CALCULATION  
+– Strength of evidence: ~10% (we have no direct data).  
+– Magnitude of potential mispricing: ~5 cents (markets rarely misprice by more without better info).  
+– Expected value ≈ 10% × 5 cents = 0.5 cents.
 
-4. MISPRICING ASSESSMENT
-- The evidence points to modest overpricing: the industry trend justifies >50%, but analogues lacking token plans and no Extended announcements argue against such a high probability so early.  
-- A 67% probability seems ~10–20 points too high; a more defensible mid-50s probability emerges when weighing both sides.  
-- No technicality suggests a nearly certain outcome or that criteria have already been met.
-
-5. EXPECTED VALUE CALCULATION
-- Strength of evidence that price is overstated: ~50%  
-- Estimated magnitude of overpricing: ~17 cents  
-- Expected value = 0.50 × 17 c = 8.5 c
-
-6. CONFIDENCE
-- medium
-
-EXPECTED_VALUE: 8.5  
-SUMMARY: The price (67%) largely reflects bullish industry momentum but ignores that comparable projects (Ostium, MegaETH) have no imminent token plans and haven’t met launch milestones. Absent any Extended announcement, a mid-50s probability is more defensible, suggesting modest overpricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 0.5  
+SUMMARY: No direct evidence on Extended’s token launch exists in the research, making the current 45.5% price a reasonable reflection of true uncertainty. There is no credible signal suggesting a significant >5 cent mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -67,29 +56,28 @@ Title: Will Ostium launch a token by Q3 2026?
 Author: AInvest
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://www.ainvest.com/news/ostium-launch-token-q3-2026-2602/
-Summary: Based on the current information about Ostium, a similar platform focused on synthetic perpetual futures for real-world assets, there is no indication that Ostium plans to launch a token by Q3 2026. The company has prioritized scaling its existing operations, expanding into new markets, and building its infrastructure, supported by a recent $27.8 million funding round. Their focus remains on growth and platform development rather than token issuance at this stage. Given these priorities and the absence of any announced token plans, it is unlikely that Ostium will launch a token by June 30, 2026.
+Summary: The article indicates that Ostium, a platform focused on synthetic perpetual futures for real-world assets, is unlikely to launch a token by Q3 2026. The company's current priorities are scaling operations and expanding into new markets, supported by a recent $20 million Series A funding round aimed at growth rather than token development. Given this focus on infrastructure and market expansion, and no mention of plans for a token launch, it is reasonable to infer that Ostium's emphasis remains on platform growth rather than issuing a token in the near term. Therefore, if your question pertains to Ostium, it is unlikely they will launch a token by June 30, 2026.
 
 Title: MetaMask Airdrop: How to Qualify for $MASK Token in 2026 - Zipmex
-Published Date: 2026-03-03T04:14:47.528Z
 URL: https://zipmex.com/blog/metamask-airdrop/
-Summary: The webpage details MetaMask's upcoming $MASK token airdrop in 2026, emphasizing that eligibility is likely tied to participation in the MetaMask Rewards program, which rewards user engagement through activities like token swaps, trading, bridging assets, and earning points. While MetaMask has confirmed the launch of the $MASK token and indicated that accumulated points may influence airdrop distribution, there is no specific mention of a timeline or a firm date such as June 30, 2026, for the token launch. The most recent information suggests the token could be launched in Q3-Q4 2026, but no definitive date is provided. Therefore, based on the webpage, there is no concrete evidence to predict whether Extended will launch a token by June 30, 2026.
+Summary: The webpage discusses the upcoming MetaMask $MASK token airdrop, expected in Q3-Q4 2026, with no official confirmation of a specific launch date. MetaMask, a leading self-custodial crypto wallet with over 143 million downloads, plans to distribute the $MASK token, which is linked to governance rights and platform decentralization. Participation in MetaMask’s Rewards program—by using the wallet, swapping tokens, trading perpetuals, bridging assets, and earning points—can increase eligibility for the airdrop. The timeline indicates that the token launch is anticipated after extensive community engagement and reward accumulation, but there is no mention of the Extended project or its potential token launch by June 30, 2026. Therefore, based on this information, there is no clear evidence to suggest that Extended will launch a token by that date.
 
-Title: Blockchain Mainnet Token Launch: Top TGEs to Watch 2026
-Author: Mark James
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://icoholder.com/blog/blockchain-mainnet-token-launch-top-tges-to-watch-2026/
-Summary: Based on the upcoming blockchain mainnet token launches anticipated in 2026, several high-profile projects are planning to introduce tokens within the year. Notably, LayerZero, EigenLayer, Monad, and Scroll are all expected to conduct TGEs in 2026, with some scheduled as early as the first quarter. While specific dates are not always publicly confirmed, the general timeline suggests that major token launches are likely to occur throughout 2026, including the first half of the year. Therefore, there is a reasonable possibility that Extended could launch its token by June 30, 2026, especially if it aligns with industry trends of strategic, well-prepared mainnet token releases during this period.
+Title: Sherlock — How to Launch a Crypto Token in 2026: The Complete Playbook
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://sherlock.xyz/post/how-to-launch-a-crypto-token-in-2026-the-complete-playbook
+Summary: The webpage provides a comprehensive guide to launching a crypto token in 2026, emphasizing current trends and best practices. Key points include the importance of selecting the right blockchain—Solana for retail-facing tokens, Base for rapid growth and retail access, and Ethereum or its L2s for institutional liquidity and DeFi projects. It highlights dominant launchpad platforms like Pump.fun on Solana and structured options like Binance Launchpad, noting their differing costs and audiences. The rise of AI agents is a significant development, automating vulnerability detection, liquidity management, and community engagement, which streamlines the launch process and ongoing token management. While the guide does not specify a launch date, it suggests that successful token launches are increasingly reliant on multi-chain strategies, AI integration, and choosing the right launchpad, all of which are crucial considerations for predicting whether Extended can launch a token by June 30, 2026.
 
-Title: MegaETH Unveils Token Buyback and TGE Plan - "The Defiant"
-Author: Squiffs
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://thedefiant.io/news/blockchains/megaeth-unveils-token-buyback-and-tge-plan
-Summary: MegaETH, an Ethereum Layer 2 blockchain set to launch its mainnet on February 9, has outlined a token generation event (TGE) contingent on achieving specific network performance milestones. These include establishing $500 million in USDM circulation, deploying 10 apps with over 100,000 transactions across 25,000 wallets, or hosting three apps generating at least $50,000 daily fees for 30 days. Post-launch, MegaETH plans to conduct MEGA token buybacks using fees from proximity markets and yield from its stablecoin USDM. The project emphasizes community-driven development and questions the necessity of tokens beyond equity, reflecting a broader industry debate. Despite anticipation, pre-market derivatives value MEGA at approximately $1.3 billion, only modestly above its ICO price, and the overall Layer 2 landscape remains complex, with industry leaders like Vitalik Buterin calling for more unique offerings outside of scaling solutions. This context suggests that the timing and success of MegaETH’s token launch depend heavily on achieving these performance KPIs, which are uncertain and may influence whether a token is launched by June 30, 2026.
+Title: UXM Token Analysis 2026: Features, and Monthly Price Forecast
+Author: Orion Blockwell
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://cardence.io/news/uxmuniversal-x-money-crypto-price-prediction/
+Summary: The provided webpage does not mention Extended or any plans related to launching a new token by June 30, 2026. It focuses on Universal X Money (UXM), its features, market behavior, and price forecasts for 2026, but does not provide information about other projects or specific token launch timelines. Therefore, there is no relevant data on whether Extended will launch a token by that date.
 
-Title: MegaETH's Token Launch: The TGE Conditions & Timeline (Spoiler: Not Yet)
+Title: edgeX FDV above $2B one day after launch? The 40% Probability Play
 Author: AInvest
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.ainvest.com/news/megaeth-token-launch-tge-conditions-timeline-spoiler-2602/
-Summary: Based on the current status of MegaETH's token launch, the project has not yet conducted the Token Generation Event (TGE). The launch has been delayed due to incomplete on-chain activity and unmet key milestones. Specifically, only 5 of the required 10 "Mega Mafia" apps are live, and USDM circulation is only about 7% of the $500 million target. The primary trigger for the TGE is achieving a 30-day on-chain supply of over $500 million USDM, which is currently far from being met (only about 7%). Given these conditions and the ongoing efforts to build adoption and on-chain activity, it is unlikely that MegaETH will launch its token by June 30, 2026.
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.ainvest.com/news/edgex-fdv-2b-day-launch-40-probability-play-2602/
+Summary: The article discusses edgeX's upcoming token generation event (TGE), now scheduled for March 31, 2026, after a delay to prioritize stability amid volatile market conditions. Despite market skepticism—only a 40% probability that edgeX's fully-distributed valuation (FDV) will exceed $2 billion within 24 hours of launch—edgeX demonstrates strong operational fundamentals. It processes $2.28 billion in daily trading volume, ranks fourth among perpetual DEXs, and generates revenue four times higher than its peer Lighter at similar valuation levels. The market's cautious outlook appears to underestimate edgeX's actual performance and competitive advantages. Given these factors, if edgeX maintains its operational momentum, there is a plausible chance it could launch a token by June 30, 2026, especially if market conditions stabilize and investor confidence improves.
 
 

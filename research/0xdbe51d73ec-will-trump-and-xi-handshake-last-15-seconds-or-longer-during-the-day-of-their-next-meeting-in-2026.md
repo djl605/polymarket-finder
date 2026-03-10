@@ -1,7 +1,7 @@
 # Research: Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026?
 
 **Market ID:** 0xdbe51d73ec97dc8c38299b83d01a0bf4c4f4f882ff493da3ef6c4dc763a30282
-**Researched At:** March 2, 2026 at 02:54:36 PM UTC
+**Researched At:** March 10, 2026 at 03:03:42 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump and Xi handshake last 15 seconds or longer during the day of their next meeting in 2026?"
 
 ---
@@ -13,43 +13,40 @@
 
 ### Summary
 
-Research shows warming Trump–Xi relations but no precedent or data on a ≥15 s handshake, suggesting the 45.5% price mostly reflects a default split and may be slightly overpriced by about 10 ¢. Expected value of further investigation is low (~2 ¢).
+No research finding mentions handshake duration; typical diplomatic handshakes run 2–5s, making a ≥15s handshake unlikely. With no hard evidence traders have, the 34% price likely overstates the chance by ~10¢, but the data are too weak for larger mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether, on the date of their next in-person meeting in 2026, any filmed handshake between Donald Trump and Xi Jinping will last 15 seconds or longer. “YES” requires at least one voluntary, intentional, directly visible handshake of ≥15 s on video. “NO” includes any shorter handshake, no handshake, or only photographic evidence.
+The market asks whether, on the day of Trump and Xi’s next in-person meeting in 2026, the longest filmed voluntary handshake they exchange will last at least 15 seconds. A YES requires that the handshake—from first contact to release—hits 15 s or more on video. NO resolves if the longest filmed handshake is under 15 s, if they don’t meet by end of 2026, no handshake occurs, or only a photo exists without video.
 
 2. EVIDENCE EVALUATION  
-Bullish for a long handshake (supports YES)  
-• Recent in-person meeting (Oct 2025) was highly cordial, signaling warming ties that could prompt an unusually extended handshake as a diplomatic signal.  
-• February 2026 phone call and February 11 SCMP report describe positive, transactional engagement and plans for an April 2026 summit, implying friendly optics.
-
-Bearish for a long handshake (supports NO)  
-• None of the sources mention actual handshake durations; standard diplomatic handshakes rarely exceed 5 s. Fifteen seconds would be exceptional and newsworthy in itself.  
-• Research does not reference any past instance of a Trump–Xi handshake lasting longer than a few seconds, leaving large uncertainty around the likelihood of a ≥15 s greeting.
-
-Source credibility and recency  
-All four sources are from recognized outlets (Euronews, What’s on Weibo, Semafor, SCMP) and published within the last 4–5 months, so they are high‐credibility and up-to-date—but none address duration specifics.
+• Bearish (PRICE TOO HIGH):  
+  – Standard diplomatic handshakes last 2–5 s. None of the sources cite any precedent for ultra-long handshakes.  
+  – The articles focus on geopolitical substance (thawing ties, Iran tensions, “thorough preparations”), not on extending ceremonial gestures.  
+  – Lack of any mention of handshake duration strongly suggests traders have no information to justify a one-third probability.  
+• Bullish (PRICE REASONABLE OR LOW):  
+  – The “G2” meeting tone (mutual respect theme) could lead to an unusually prolonged handshake for optics—though no source quantifies this.  
+  – Uncertainty about agenda, venue, and media direction could produce a longer handshake to fill time or make a statement.  
+• Source credibility: All are reputable and recent (Feb–Mar 2026). None mention handshake length, so traders likely have no specific data beyond generic diplomatic practice.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 45.5% price roughly corresponds to a near–50/50 prior minus some discount for the rarity of a very long handshake.  
-• Low volume and tight spread suggest a small number of traders set this price off a generic belief that warming ties aren’t enough to guarantee a 15+ s handshake.  
-• Informed traders may have little to no extra info on handshake length, so the market may simply default to a rough estimate.
+• A 34% price could reflect pure uncertainty in absence of data rather than informed consensus.  
+• Low $0 volume and narrow spread suggest one or few traders set the price.  
+• If traders viewed a >15 s handshake as unlikely but plausible drama, 30–40% might have seemed reasonable absent better info.
 
 4. MISPRICING ASSESSMENT  
-• No specific, credible evidence that the probability is as high as 45.5%—the lack of historical precedent for a handshake of this length suggests the market may be slightly overpriced.  
-• However, there is also no evidence to confidently push the probability well below 40%.  
-• Given the long horizon and rare-event nature, 45.5% seems a reasonable consensus in absence of better data.  
-• No large mispricing (>20 ¢) is evident; if there is bias, it is likely small (~10 ¢) and reflects general diplomatic goodwill rather than substantive forecasting of handshake duration.
+• No direct evidence supports such a high probability. The default expectation is a brief handshake (~3–5 s).  
+• The only speculative bullish case (extended photo-op handshake) is tenuous and equally unknown to traders.  
+• Thus the market likely overprices the chance by perhaps ~10–20 points, but we lack hard data to justify >20¢ mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence against a long handshake: ~20% (high uncertainty, no direct data).  
-• Potential magnitude of mispricing: ~10 ¢ (market may overestimate likelihood by a small amount).  
-• Expected value = 20% × 10 ¢ = 2 ¢.
+• Strength of evidence (lack of any handshake-duration indication; reliance on norms): ~20%  
+• Magnitude of mispricing: ~10¢  
+• Expected value = 20% × 10¢ = 2¢
 
 EXPECTED_VALUE: 2  
-SUMMARY: Research shows warming Trump–Xi relations but no precedent or data on a ≥15 s handshake, suggesting the 45.5% price mostly reflects a default split and may be slightly overpriced by about 10 ¢. Expected value of further investigation is low (~2 ¢).  
+SUMMARY: No research finding mentions handshake duration; typical diplomatic handshakes run 2–5s, making a ≥15s handshake unlikely. With no hard evidence traders have, the 34% price likely overstates the chance by ~10¢, but the data are too weak for larger mispricing.  
 CONFIDENCE: low
 
 ---
@@ -58,39 +55,33 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Trump announces deal with China after face-to-face talks with Xi in ...
+Title: Trump says Xi to visit White House later this year. Are US–China ties thawing? – Firstpost
 Author: 
-Published Date: 2025-10-30T00:00:00.000Z
-URL: https://www.euronews.com/2025/10/30/trump-announces-deal-with-china-after-face-face-talks-with-xi-in-south-korea
-Summary: During a recent face-to-face meeting between US President Donald Trump and Chinese leader Xi Jinping, which lasted nearly two hours, both leaders expressed a commitment to stabilizing relations after a period of trade tensions. Trump noted that Washington and Beijing are "in agreement on many things," suggesting a positive atmosphere for future interactions. This context may indicate a willingness for cordial gestures, such as a handshake, during their next meeting in 2026. However, the duration of the handshake will likely depend on the specific diplomatic dynamics and the agenda of that meeting.
+Published Date: 2026-02-08T00:00:00.000Z
+URL: http://www.firstpost.com/world/trump-says-xi-to-visit-white-house-later-this-year-are-us-china-ties-thawing-13977590.html
+Summary: The article reports that former U.S. President Donald Trump has announced that Chinese President Xi Jinping will visit the White House later this year, signaling potential thawing in U.S.–China relations. While the piece highlights diplomatic gestures and the significance of such high-level meetings, it does not specify details about the nature or duration of interactions like handshakes. Therefore, based on this information, it is not possible to predict whether Trump and Xi's handshake during their 2026 meeting will last 15 seconds or longer.
+
+Title: Trump's China summit with Xi Jinping just got a lot more complicated
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.nbcnews.com/world/asia/trumps-china-summit-xi-jinping-just-got-lot-complicated-rcna261453
+Summary: The upcoming summit between President Donald Trump and Xi Jinping in 2026 is complicated by recent U.S.-Iran military actions, which have heightened regional tensions and affected China's Middle Eastern interests. While China has responded cautiously to U.S. military strikes, it remains focused on maintaining its strategic relations and a fragile trade truce with the U.S. The timing of the summit, scheduled around ongoing Iran conflicts, is uncertain but likely to proceed as planned, with experts suggesting that the Iran situation may increase the urgency for dialogue. There is no specific information indicating the duration of the handshake between Trump and Xi, but given the diplomatic context, it is unlikely to be a brief or overly prolonged gesture—such as lasting only 15 seconds—without further details.
+
+Title: China says 'thorough preparations' needed ahead of Trump-Xi meeting
+Author: Evelyn Cheng
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html
+Summary: The article emphasizes the importance of "thorough preparations" by China ahead of the upcoming Trump-Xi meeting, which is currently uncertain due to geopolitical tensions, including concerns related to Iran. While it highlights diplomatic readiness and the significance of the meeting, it does not provide specific details about the expected duration of the handshake or any physical gestures. Therefore, based on the available information, there is no direct evidence to predict whether the handshake will last 15 seconds or longer during their 2026 meeting.
+
+Title: Previewing President Trump's Asia Visit - CSIS
+Published Date: 2025-10-24T00:00:00.000Z
+URL: https://www.csis.org/analysis/press-briefing-previewing-president-trumps-asia-visit
+Summary: The webpage provides an overview of President Trump's upcoming Asia visit, including various related events and discussions hosted by CSIS, focusing on topics like U.S.-China relations, technology competition, and regional security. While it highlights the importance of diplomatic interactions and strategic engagements between the U.S. and China, it does not specify details about the nature or duration of any handshake between Trump and Xi Jinping during their 2026 meeting. Therefore, based on this source, there is no concrete information to predict whether their handshake will last 15 seconds or longer.
 
 Title: "It's in the Details" - The Xi-Trump 'G2' Meeting on Chinese Social ...
 Author: Manya Koetse
 Published Date: 2025-10-30T00:00:00.000Z
 URL: https://www.whatsonweibo.com/its-in-the-details-the-xi-trump-meeting-on-chinese-social-media/
-Summary: The article discusses the recent meeting between Xi Jinping and Donald Trump, which took place on October 30, 2025, at Gimhae International Airport in South Korea. This was their first in-person meeting since Trump began his second term. The meeting lasted approximately 1 hour and 40 minutes and was characterized by a focus on strengthening cooperation and promoting dialogue between the two nations amidst ongoing trade tensions.
-
-Chinese state media reported positively on the meeting, highlighting Xi's emphasis on the importance of stable US-China relations and the inevitability of some disagreements due to differing national conditions. Xi's remarks suggested a desire for constructive engagement, which could imply a willingness to maintain cordial relations moving forward.
-
-While the article does not specifically mention the duration of handshakes or physical gestures, the overall tone of the meeting and the emphasis on cooperation may suggest a more amicable atmosphere in future interactions. If the next meeting in 2026 continues this trend of positive engagement, it could lead to a longer handshake, reflecting a commitment to improving bilateral relations. However, the actual duration of any handshake will ultimately depend on the context and dynamics of that specific meeting.
-
-Title: Trump, Xi hold wide-ranging call in sign of thawing ties | Semafor
-Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.semafor.com/article/02/04/2026/trump-xi-hold-wide-ranging-call-in-sign-of-thawing-ties
-Summary: In a recent call between U.S. President Donald Trump and Chinese leader Xi Jinping, both leaders expressed optimism about improving relations, which could influence the dynamics of their next in-person meeting. The conversation covered critical geopolitical issues, including Taiwan, Ukraine, and trade, indicating that while disagreements persist, there is a commitment to maintaining a trade truce. Trump's approach has shifted towards a more transactional relationship with China, focusing on trade and technology rather than a great-power struggle. Xi emphasized the need to navigate U.S.-China relations carefully, suggesting a willingness to cooperate.
-
-Given this context, the likelihood of a longer handshake during their next meeting in 2026 may depend on the continued thawing of relations and the leaders' mutual willingness to project a united front. If their diplomatic engagement remains positive, a handshake lasting 15 seconds or longer could be anticipated as a symbol of their strengthened ties.
-
-Title: Previewing President Trump's Asia Visit - CSIS
-Published Date: 2025-10-24T00:00:00.000Z
-URL: https://www.csis.org/analysis/press-briefing-previewing-president-trumps-asia-visit
-Summary: The webpage from CSIS provides insights into President Trump's upcoming Asia visit, which may include a meeting with Chinese President Xi Jinping. While the specific duration of a potential handshake between Trump and Xi is not addressed, factors influencing the length of their interaction could include the current state of U.S.-China relations, diplomatic tensions, and the context of their discussions. Historical precedents, such as previous meetings and handshakes, may also offer clues. Observers might consider the political climate leading up to their meeting in 2026, including trade negotiations, security issues, and international cooperation efforts, as these could impact the nature of their greeting. For a more accurate prediction, monitoring developments in U.S.-China relations leading up to the meeting would be essential.
-
-Title: Exclusive | China confirms it is talking to US about Trump visit as trade truce stays on the cards | South China Morning Post
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.scmp.com/news/china/diplomacy/article/3343240/trump-and-xi-expected-extend-trade-truce-beijing-summit
-Summary: China has confirmed ongoing discussions with the US regarding President Donald Trump's planned visit in April 2026, where a potential extension of their current trade truce for up to a year is on the table. This meeting follows a previous agreement between Trump and Chinese President Xi Jinping to roll back tariffs and ease trade tensions. The two leaders are expected to focus on short-term economic gains during their summit, which may include new commitments from China. Given the emphasis on diplomacy and the importance of their communication, the likelihood of a cordial interaction, including a handshake, appears favorable. However, the duration of the handshake remains uncertain and could depend on the overall atmosphere of the meeting.
+Summary: The recent Xi-Trump meeting, held in Busan during the APEC summit, was a significant event that garnered widespread attention on Chinese social media. The leaders discussed strengthening cooperation, promoting dialogue over confrontation, and acknowledged that disagreements are normal given their countries' differing national conditions. Xi emphasized the importance of steering relations carefully amid challenges, while Trump expressed positive sentiments about the meeting. Although specific details about their handshake duration are not provided, the overall tone suggests a focus on diplomacy and mutual respect. Given the context of a high-level, cooperative meeting, it is plausible that their handshake could last longer than typical casual greetings, potentially exceeding 15 seconds, especially during their next scheduled encounter in 2026.
 
 

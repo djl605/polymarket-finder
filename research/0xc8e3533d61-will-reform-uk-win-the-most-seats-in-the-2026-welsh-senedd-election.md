@@ -1,7 +1,7 @@
 # Research: Will Reform UK win the most seats in the 2026 Welsh Senedd election?
 
 **Market ID:** 0xc8e3533d61204daae31aad5ea2b76f6c86641647c9f06c334acb5df92c6fc561
-**Researched At:** March 4, 2026 at 02:46:50 PM UTC
+**Researched At:** March 10, 2026 at 03:02:20 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Reform UK win the most seats in the 2026 Welsh Senedd election?"
 
 ---
@@ -9,47 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Polls are sharply divided—some show Reform UK narrowly leading, others show Plaid Cymru well ahead—and converting vote shares into seats under a new 96-member Senedd is uncertain. A 23% probability roughly matches the midpoint of current evidence; no clear mispricing >5 cents.
+Recent polls consistently show Reform UK trailing or tied with Plaid for seats, aligning with the market’s 29% probability. No strong evidence of a >20¢ mispricing emerges, so the market appears reasonably priced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Reform UK will win more seats than any other party in the May 7, 2026 Welsh Senedd election. A “YES” requires Reform UK to secure a plurality of the 96 seats (40 constituency + 56 regional list). A “NO” covers any other party winning most seats or the election failing to occur by end of 2026.  
+The market asks whether Reform UK will win the single largest number of seats in the May 7, 2026 Welsh Senedd election. It resolves YES if Reform UK holds more seats than any other party or coalition (with vote‐count and alphabetical tie‐breakers) and NO otherwise.  
 
 2. EVIDENCE EVALUATION  
-Bullish for Reform UK (lower price is underestimating):  
-- Wales Online & Express polls (Feb 13, 2026) both show Reform UK leading on 31–36 seats vs Plaid on ~26, suggesting a strong chance of plurality. These are recent but single-poll snapshots, sample sizes not stated.  
-- BBC analysis notes Reform polling around 25% amid a fractious field and an expanded 96-seat assembly, which could advantage a geographically concentrated challenger.  
+Bearish evidence  
+• Two Beaufort Research polls (Feb 20) show Plaid Cymru leading Reform by 2 points (29% vs. 27%) and projecting ~35 seats for Plaid vs. 29 for Reform.  
+• A YouGov/Cardiff poll (date unspecified) also places Plaid at 33% vs. Reform 30% and commentary notes coalition dynamics make outright Reform dominance unlikely.  
+• A WalesOnline poll (Mar 6) has both parties neck‐and‐neck at ~28 seats, with Reform down 5% since February, and experts favoring a Plaid‐led outcome.  
 
-Bearish for Reform UK (higher price is overestimating):  
-- YouGov January 2026 poll shows Plaid Cymru up by 14 points over Reform, a large gap that, if accurate, would likely translate into more seats for Plaid. This is a large, reputable sample.  
-- Wikipedia poll aggregate: out of 11 polls, Reform UK leads in only 5, Plaid in 4, Labour in 1, and in the five largest surveys Reform led just once.  
+Bullish evidence  
+• One earlier WalesOnline poll (Feb 13) gave Reform a 7-point lead and a projection of 36 seats, but it now appears to be an outlier.  
 
-Source credibility & recency:  
-- YouGov (large samples, reputable, Jan 2026) vs single-house polls (Wales Online/Express, date Feb 13 but sample details unclear).  
-- BBC and Wikipedia aggregates point to mixed standings, suggesting high uncertainty.  
+All sources are recent (Feb–Mar 2026) and credible (WalesOnline, Nation.Cymru, Bea ufort, YouGov/Cardiff). The preponderance of evidence points to a highly competitive race with Plaid or coalition dynamics more favorable to Plaid, making a >50% chance for Reform winning the most seats unlikely.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 23% price aligns with a roughly 25% headline Reform support in some polls, discounted for seat‐conversion risk and competition from Plaid and Labour.  
-- Low volume ($2.5 k, 6¢ spread) suggests few active traders; price may reflect a cautious midpoint rather than deep consensus.  
-- The event is complex (new 96 seats, regional list system), and informed traders may be sitting out until constituency/regional breakdowns solidify.  
+At a 29% probability, the market aligns closely with current polling averages (Reform ~27–30% vote share). The low volume likely reflects the standard uncertainty of a multi‐party regional election rather than an overlooked arbitrage. Prices appear set by a small group but match public data.  
 
 4. MISPRICING ASSESSMENT  
-- No single poll dominates; conflicting data imply genuine disagreement about who leads.  
-- Given the narrow sample of high-quality polls and the unknown mapping from vote share to seats, a 23% probability is not far-fetched.  
-- There is no clear, overlooked factor (e.g., a binding coalition, geographic vote distribution) that would swing probability by >10–20 cents in either direction.  
+There is no strong, specific evidence that the market is materially mispriced by >20¢. The one bullish poll is outweighed by three more recent, consistent polls showing Reform trailing or dead-even. Thus, 29% seems a reasonable consensus estimate.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: mixed but well-sourced—about 50% that current price misses by a few cents.  
-- Magnitude of mispricing: at most ~5 cents.  
-- Expected value ≈ 0.5 × 5 cents = 2.5 cents.  
+Strength of evidence for mispricing: 20%  
+Magnitude of possible mispricing: 5¢  
+Expected value = 0.20 × 5¢ = 1.0¢  
 
-EXPECTED_VALUE: 2.5  
-SUMMARY: Polls are sharply divided—some show Reform UK narrowly leading, others show Plaid Cymru well ahead—and converting vote shares into seats under a new 96-member Senedd is uncertain. A 23% probability roughly matches the midpoint of current evidence; no clear mispricing >5 cents.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: Recent polls consistently show Reform UK trailing or tied with Plaid for seats, aligning with the market’s 29% probability. No strong evidence of a >20¢ mispricing emerges, so the market appears reasonably priced.  
 CONFIDENCE: medium
 
 ---
@@ -58,30 +52,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Reform and Plaid neck-and-neck in Senedd race while Greens double support in new poll | Wales Online
+Author: Ciaran Jones
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.walesonline.co.uk/news/wales-news/reform-plaid-neck-neck-senedd-33544482
+Summary: The latest polling for the 2026 Welsh Senedd election indicates a highly competitive race between Reform UK and Plaid Cymru, with both projected to win approximately 28 seats each. Reform UK's support has decreased by about 5% since February, while Plaid Cymru's support has increased slightly, leading to a dead heat in the polls. Labour remains a significant contender with around 26 seats, but the Greens have doubled their support, potentially winning five seats and gaining representation for the first time. Given these projections, Reform UK is unlikely to secure the most seats outright, as the race appears too close between Reform and Plaid, and the overall political landscape suggests a possible Plaid-led coalition rather than Reform UK dominance.
+
+Title: Plaid Cymru holds narrow lead over Reform in new Senedd election poll
+Author: Mark Mansfield
+Published Date: 2026-02-20T00:00:00.000Z
+URL: https://nation.cymru/news/plaid-cymru-holds-narrow-lead-over-reform-in-new-senedd-election-poll/
+Summary: A recent Beaufort Research poll indicates that Plaid Cymru currently holds a narrow two-point lead over Reform UK in voter support (29% vs. 27%). Regional variations show Reform leading among males and those aged 55 and over, especially in less prosperous social grades, while Plaid dominates among Welsh speakers, females, and younger voters. A seat projection based on the poll suggests Reform UK could win approximately 29 seats, closely contesting with Plaid Cymru's estimated 35 seats. Given these findings, Reform UK is unlikely to win the most seats in the 2026 Welsh Senedd election, with Plaid Cymru currently favored to secure a plurality.
+
+Title: Plaid Cymru holds narrow lead over Reform in new Senedd election poll
+Author: Mark Mansfield
+Published Date: 2026-02-20T00:00:00.000Z
+URL: https://wp.me/p8Mk4U-1ftX
+Summary: A recent Beaufort Research poll indicates that Plaid Cymru currently holds a narrow two-point lead over Reform UK in voter support, with 29% compared to Reform's 27%. Regional variations show Plaid leading in South West Wales and the Valleys, while Reform has stronger support among males and older voters. Welsh speakers favor Plaid significantly, whereas non-Welsh speakers lean toward Reform. Based on the poll, projections suggest Plaid could win approximately 35 seats, with Reform close behind at 29 seats. Given these findings, Reform UK is unlikely to win the most seats in the 2026 Welsh Senedd election, as Plaid Cymru appears to have a slight edge in overall support.
+
+Title: Plaid Cymru ahead of Reform UK by three points in new ...
+Author: Stephen Price
+URL: https://nation.cymru/news/plaid-cymru-ahead-of-reform-uk-by-three-points-in-new-senedd-election-poll/
+Summary: The latest YouGov/Cardiff University poll indicates that Reform UK is currently polling at 30%, closely trailing Plaid Cymru at 33%, with both parties poised as the leading contenders for the 2026 Welsh Senedd election. However, despite Reform UK's strong position in the polls, experts suggest that Wales's political landscape remains divided into two main blocs: a progressive/Welsh-identifying coalition (including Plaid Cymru, Labour, and Greens) and a conservative/British-identifying coalition (including Reform UK and the Conservatives). Historically, these coalitions have maintained resilience, and the new electoral system may prevent either party from securing a majority. Therefore, while Reform UK has a significant share of support, it is unlikely to win the most seats outright in 2026, as the political environment favors a competitive, multi-party outcome with no clear majority.
+
 Title: Reform take seven-point lead in Wales with Plaid needing 'rainbow coalition' to govern, new poll says | Wales Online
 Author: Ellie Gosley
 Published Date: 2026-02-13T00:00:00.000Z
 URL: https://www.walesonline.co.uk/news/wales-news/reform-take-seven-point-lead-33417949
-Summary: A recent poll suggests that Reform UK is poised to become the largest party in the 2026 Welsh Senedd election, potentially winning 36 seats—seven more than Plaid Cymru's 26. If reflected in actual results, this would mark a significant shift in Wales' political landscape. The poll indicates Reform UK's support is strongest in south Wales Valleys, with dominance in 10 of the 16 multi-member constituencies, particularly across Valleys, Wrexham, and Clwyd. Meanwhile, Plaid Cymru is projected to win in the west and north Wales, as well as pockets in Cardiff and Blaenau Gwent. The current polling also shows Labour support has halved since 2021, dropping to third place. To form a government, Plaid would need to seek support from Liberal Democrats or Greens, as no single party is projected to reach the 49-seat majority threshold. Overall, these findings suggest Reform UK has a strong chance of winning the most seats in the upcoming election.
-
-Title: New polling shows Reform on course to deliver political earthquake in Labour heartland | Politics | News | Express.co.uk
-Author: David Williamson
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.express.co.uk/news/politics/2170467/new-polling-shows-reform-course
-Summary: Recent polling indicates that Reform UK is on track to become the leading party in the 2026 Welsh Senedd election, potentially securing the most seats. A new survey shows Reform leading with 31% support, surpassing Plaid Cymru (24%) and Labour (20%), and significantly ahead of the Conservatives (13%). Analysts from More in Common project Reform could win around 36 seats, making it the largest party, while Plaid and Labour may struggle to form a coalition due to reduced support. These trends suggest Reform UK has a strong chance of winning the most seats, possibly reshaping Welsh politics and the formation of the next government.
-
-Title: Plaid open 14 point lead over Reform UK in ...
-Author: YouGov
-URL: https://yougov.com/en-gb/articles/53876-plaid-open-14-point-lead-over-reform-uk-in-yougov-january-2026-senedd-voting-intention
-Summary: The recent YouGov January 2026 polling indicates that Plaid Cymru currently holds a significant lead over Reform UK in voting intention for the Welsh Senedd, with a 14-point advantage. This substantial lead suggests that Reform UK is unlikely to win the most seats in the upcoming 2026 Welsh Senedd election, as Plaid's strong support position makes a Reform UK victory less probable based on current public opinion trends.
-
-Title: Senedd election could be seismic, expert says
-Author: David Deans
-URL: https://www.bbc.com/news/articles/c8ep2pgd9kko
-Summary: The upcoming 2026 Welsh Senedd election could see a significant political shift, with polls indicating that Reform UK, led by Nigel Farage, is gaining ground and may challenge traditional dominance by Labour and Plaid Cymru. Recent surveys suggest Reform UK is polling around 25%, potentially surpassing Labour, which is experiencing historically low support (around 18%). The new voting system and expanded parliament (from 60 to 96 seats) aim to better reflect voter proportions, increasing the likelihood of a more fragmented parliament with multiple parties of similar size. While Labour has historically led Welsh politics, experts warn that a close contest or a shift in voter support could result in Reform UK winning the most seats, especially if Labour's support continues to decline. The outcome remains uncertain, but Reform UK's rising poll numbers make it a significant contender in the next election.
-
-Title: Opinion polling for the 2026 Senedd election
-URL: https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Senedd_election
-Summary: Current opinion polls for the 2026 Welsh Senedd election show that Reform UK has been a leading contender, frequently surpassing other parties in recent surveys. Out of 11 polls conducted within the last year, Reform UK led in 5, with Plaid Cymru leading in 4 and Labour in just 1. Notably, some polls with larger sample sizes (over 1,000 respondents) indicate Reform UK often ahead—leading in 1 out of 5 such polls—suggesting a strong position. Polls from late 2025 and early 2026 consistently show Reform UK either at the top or close to the top of the standings, indicating a significant level of support. However, as these are opinion polls, actual election outcomes could vary, but current data suggests Reform UK has a substantial chance of winning the most seats in the 2026 Senedd election.
+Summary: A recent poll suggests that Reform UK is projected to potentially become the largest party in the 2026 Welsh Senedd election, leading Plaid Cymru by seven points. If these results are reflected in actual voting, Reform UK could secure around 36 seats, surpassing Plaid Cymru's estimated 26 seats. The poll indicates Reform UK would dominate in south Wales Valleys and parts of Wrexham and Clwyd, winning the most seats in 10 of the 16 new constituencies. This significant lead implies that Reform UK has a strong chance of winning the most seats in the upcoming election, marking a major shift in Wales' political landscape.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Trump meet with Pope Leo XIV in 2026?
 
 **Market ID:** 0x01d0f23e9b1acca5768a5ed358c9058b942d0cafac99d116540e13637311a9ea
-**Researched At:** March 3, 2026 at 02:57:45 PM UTC
+**Researched At:** March 10, 2026 at 03:01:35 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump meet with Pope Leo XIV in 2026?"
 
 ---
@@ -9,42 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 14.0¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-Multiple Vatican sources confirm Pope Leo XIV will not visit the U.S. and has declined Trump’s invitations. With no alternative plan for a face-to-face and no credible reports of an audience elsewhere, the market’s 33% seems overstated by roughly 20¢.
+Recent Vatican statements explicitly reject Trump’s “Board of Peace,” reducing the odds of a formal papal meeting, but no information rules out incidental encounters (e.g., UN events). The current 39.5% price plausibly balances these views.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump and Pope Leo XIV will have an in-person encounter at any time in 2026. It does not mandate a U.S. location—any meeting anywhere in the world qualifies as YES. Absent such an encounter, it resolves NO.
+The market asks whether Donald Trump and Pope Leo XIV will have an in-person, interactive meeting any time in 2026 (Jan 1–Dec 31). A “Yes” requires them to be co-present and directly engage; absent such an encounter, the market resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (arguing NO):  
-• Multiple credible Vatican sources (INFOVATICANA 2/12, OSV News 2/8, EWTN 2/9, CruxNow 2/8) confirm Pope Leo XIV will not visit the United States in 2026.  
-• The Pope has declined Trump’s public overtures (AOL 2/19), indicating reluctance to engage.  
-• No alternative travel plans or joint events involving Trump and the Pope are reported.  
-
-Bullish evidence (arguing YES):  
-• Technically a meeting could occur outside the U.S. (e.g., at the Vatican), though there’s no reported plan or invitation for Trump to travel there in a relevant official capacity.  
-• Trump has expressed general willingness to meet, but no firm arrangements are in sight.  
-
-All sources are recent (February 2026) and from specialized Catholic/Vatican news outlets or established media. The bearish case is consistent and unanimous; the bullish case rests only on theoretical possibility.
+Bearish Evidence (meeting less likely than 39.5%):  
+• Multiple March 2026 sources (Knewz, AOL, RNZ) report Pope Leo XIV and the Vatican have explicitly rejected Trump’s “Board of Peace” invitation, signaling reluctance for direct engagement.  
+• Cardinal Parolin’s public statements emphasize multilateral UN processes and distance from Trump’s unilateral initiatives.  
+Bullish Evidence (meeting could still happen):  
+• None of the reports rule out other contexts (e.g., multilateral conferences, UN assemblies, global summits) where both might cross paths.  
+• No direct contrary evidence to other types of future encounters.  
+Source Credibility & Recency:  
+• All sources are from February–March 2026, directly on point and from established outlets (RNZ, AOL, Knewz). Their unanimity on the Board-of-Peace refusal is strong but limited in scope.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 33% probability could reflect a small group of optimists who over-weight the chance of an unscheduled audience in Rome or elsewhere. Low volume (≈$4.8 K) and a tight spread suggest limited participation—likely a handful of traders pricing in a nonzero, “anything’s possible” probability rather than aggregating comprehensive travel schedules.
+• A 39.5% price could reflect consensus that, despite the Board-of-Peace rebuff, there's still a nontrivial chance of a UN or diplomatic summit meeting.  
+• Low volume suggests few participants; but the tight spread (1¢) implies agreement among those few.  
+• Informed traders may be split: pessimistic about formal papal visits to Trump and optimistic about incidental UN/NGO events.
 
 4. MISPRICING ASSESSMENT  
-Given the absence of any scheduled meeting or travel overlap and the Pope’s clear refusal to engage with Trump’s initiatives, the true probability of any encounter seems much closer to single digits. The market’s 33% is therefore overstating the chance by at least 20¢. No known technicalities or resolution quirks appear to justify such a high price.
+• The research indicates low likelihood of a formal bilateral meeting, pushing true probability below 39.5%. However, incidental meetings at global events remain plausible and likely already priced in.  
+• No clear, large (>20¢) gap: bearish Board-of-Peace data is narrow in scope, and no bullish hard data exists for high meeting probability.  
+• The current price plausibly blends rejection of Trump-initiated diplomacy with residual chance of incidental contact.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 70% (consistent, credible primary sources ruling out travel)  
-Estimated mispricing magnitude: 20¢  
-Expected value = 0.70 × 20¢ = 14¢
+• Strength of evidence (how much new info we have beyond market’s implicit assumptions): ~60%  
+• Estimated magnitude of mispricing: ~10¢  
+• Expected value = 0.60 × 10¢ = 6¢
 
-EXPECTED_VALUE: 14  
-SUMMARY: Multiple Vatican sources confirm Pope Leo XIV will not visit the U.S. and has declined Trump’s invitations. With no alternative plan for a face-to-face and no credible reports of an audience elsewhere, the market’s 33% seems overstated by roughly 20¢.  
+EXPECTED_VALUE: 6  
+SUMMARY: Recent Vatican statements explicitly reject Trump’s “Board of Peace,” reducing the odds of a formal papal meeting, but no information rules out incidental encounters (e.g., UN events). The current 39.5% price plausibly balances these views.  
 CONFIDENCE: medium
 
 ---
@@ -53,34 +55,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: The Holy See rules out a trip by Pope Leo XIV to the United States in 2026 – INFOVATICANA
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://infovaticana.com/en/2026/02/12/the-holy-see-rules-out-a-trip-by-pope-leo-xiv-to-the-united-states-in-2026/
-Summary: The Holy See has officially ruled out a visit by Pope Leo XIV to the United States in 2026, including any meeting with President Donald Trump. While there was a prior invitation conveyed during a 2025 meeting between the Pope and U.S. Vice President J.D. Vance, the Vatican spokesperson confirmed that the Pope will not travel to the U.S. that year. Currently, the Pope's planned travels include visits to Angola, Algeria, Spain, and potential trips to Latin American countries such as Argentina, Uruguay, and Peru, but no U.S. destinations are scheduled for 2026. Therefore, a meeting between Trump and Pope Leo XIV in 2026 appears unlikely based on official plans.
+Title: Pope rejects President Donald Trump's offer to join his Board of Peace
+Author: Samyarup Chowdhury
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://knewz.com/pope-leo-rejects-president-donald-trump-peace-board-offer/
+Summary: The Vatican has declined President Donald Trump's invitation to join his proposed Board of Peace, which aims to oversee Gaza's postwar governance and broader conflicts. The decision was made by Cardinal Pietro Parolin, citing concerns about the board's structure and its divergence from established international institutions like the UN. The Vatican's refusal reflects ongoing apprehensions about unilateral crisis management initiatives and questions regarding the legitimacy and governance of Trump's proposed body. Given the Vatican's explicit rejection and emphasis on multilateral diplomacy, it is unlikely that Trump will meet with Pope Leo XIV in 2026 regarding this matter.
 
 Title: Pope Leo XIV Turns Down Donald Trump’s Invitation for This Reason - AOL
 Author: AOL
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.aol.com/articles/pope-leo-xiv-turns-down-163350512.html
-Summary: Pope Leo XIV has publicly declined Donald Trump's invitation to join his "Board of Peace," citing concerns over its structure and the role of the United Nations in managing international crises. The Pope's decision reflects ongoing skepticism toward Trump's policies and initiatives, especially regarding international diplomacy and peace efforts. Given the Pope's critical stance and refusal to participate in Trump's initiatives, it is unlikely that Trump will meet with Pope Leo XIV in 2026.
+Summary: Pope Leo XIV has declined an invitation from Donald Trump to join his "Board of Peace," citing concerns over the body's nature and its perceived attempt to bypass the United Nations. The Pope's decision reflects ongoing skepticism toward Trump's policies and initiatives, including his international peace efforts. Given the Pope's explicit refusal to participate in Trump's initiatives and his critical stance on the administration's policies, it is unlikely that Trump will meet with Pope Leo XIV in 2026.
 
-Title: Vatican confirms pope will not visit U.S. in 2026
-Author: Junno Arocho Esteves
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://www.osvnews.com/vatican-confirms-pope-will-not-visit-u-s-in-2026/
-Summary: The Vatican has confirmed that Pope Leo XIV will not visit the United States in 2026. While there is no official announcement regarding his travel plans for that year, Pope Leo has expressed a desire to visit Latin America and indicated he would visit "at some point," though a U.S. trip appears unlikely in the immediate future. Former President Trump has stated he is open to meeting with the pope, but no specific plans or arrangements have been announced for a meeting in 2026.
-
-Title: Vatican: Pope Leo XIV Will Not Visit the U.S. in 2026
-Author: Angela Ambrogetti
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://ewtnvatican.com/articles/pope-leo-xiv-us-visit-2026
-Summary: There are no indications that Pope Leo XIV will visit the United States in 2026, as confirmed by the Vatican. The pope is scheduled to travel to Africa, Peru, and Spain later this year, but a U.S. trip is not planned. Given this, it is unlikely that Pope Leo XIV will meet with Donald Trump in 2026, since the pope will not be in the U.S. during that year.
-
-Title: No U.S. visit for Pope Leo XIV this year, Vatican says
+Title: Vatican will not participate in Donald Trump's 'Board of Peace' | RNZ News
 Author: 
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://cruxnow.com/vatican/2026/02/no-u-s-visit-for-pope-leo-xiv-this-year-vatican-says
-Summary: There is no scheduled U.S. visit for Pope Leo XIV in 2026, according to the Vatican. Given this information, it is unlikely that Pope Leo XIV will meet with former President Donald Trump in the United States during this year.
+Published Date: 2026-02-18T00:00:00.000Z
+URL: http://www.rnz.co.nz/news/world/587264/vatican-will-not-participate-in-donald-trump-s-board-of-peace
+Summary: The Vatican has announced that Pope Leo XIV will not participate in Donald Trump's "Board of Peace," a global peacekeeping initiative chaired indefinitely by Trump, initially focused on Gaza reconstruction. The Vatican's top diplomat, Cardinal Pietro Parolin, expressed concerns about the board's expanded scope, Trump's indefinite chairmanship, and emphasized that the UN should handle crisis situations. The Vatican's decision aligns with other countries like Britain, France, and Norway, which have also declined participation. Pope Leo XIV has prioritized peacemaking, advocating for UN-led conflict resolution, and has expressed concerns over war and international law, contrasting with Trump's policies. The first meeting of the board is scheduled in Washington. Given these positions, there is no indication of a planned meeting between Trump and Pope Leo XIV in 2026.
+
+Title: Pope Leo rejects Trump’s ‘Board of Peace’ invite and backs UN to solve global crises
+Author: AOL Staff
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.aol.com/articles/pope-leo-rejects-trump-board-051120920.html
+Summary: Pope Leo XIV has publicly declined Donald Trump's invitation to join his "Board of Peace," citing concerns that the initiative should be managed by the United Nations rather than alternative forums. The Vatican's secretary of state, Cardinal Pietro Parolin, emphasized the Pope's stance that critical international issues should be addressed through existing multilateral organizations like the UN. Given the Pope's explicit refusal to participate in Trump's proposed board and the ongoing diplomatic considerations, it is unlikely that Trump will meet with Pope Leo XIV in 2026 regarding this matter.
+
+Title: Pope Leo Lets Trump Know Whether He Will Join 'Board of Peace'
+Author: Michael Austin
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://www.westernjournal.com/pope-leo-trump-know-whether-will-join-board-peace/
+Summary: The webpage discusses Pope Leo XIV's stance regarding whether he will join the "Board of Peace," but does not provide specific information about a potential meeting with Donald Trump in 2026. There are no details indicating plans or likelihood of a meeting between Trump and Pope Leo XIV. Therefore, based on the available content, it is not possible to predict if Trump will meet with Pope Leo XIV in 2026.
 
 

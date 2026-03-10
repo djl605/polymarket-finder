@@ -1,55 +1,52 @@
 # Research: Will Nancy Dahlstrom win the 2026 Alaska governor election?
 
 **Market ID:** 0x90c810df015547545998cc0952258c102fac052861896acf6d58e17938cce0c7
-**Researched At:** March 6, 2026 at 04:19:36 AM UTC
+**Researched At:** March 10, 2026 at 03:00:53 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Nancy Dahlstrom win the 2026 Alaska governor election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.5¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Dahlstrom’s incumbency and early entry are balanced by a crowded primary, limited fundraising, and controversies, making her ~16.5% win probability plausible in a low‐volume market. No clear, missing evidence suggests a significant mispricing.
+No clear quantitative evidence suggests Dahlstrom’s 15.5% win probability is materially off. Qualitative controversies and her lieutenant-governor status roughly balance out, and lack of polling or trading interest limits conviction.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Nancy Dahlstrom win the 2026 Alaska governor election?”  
-• YES if Dahlstrom is officially declared the winner (AP, Fox, NBC all call it for her or official certification by July 31, 2027).  
-• NO if any other candidate wins, or the election isn’t confirmed by the deadline.  
+The market asks whether Nancy Dahlstrom will be the official winner of the November 3, 2026 Alaska governor’s race (called by AP, Fox News, and NBC or via certification). YES means she wins the general; NO means any other candidate wins or the race isn’t confirmed by mid-2027.  
 
 2. EVIDENCE EVALUATION  
-Bullish signals (could support >16.5%):  
-– Incumbency advantage: As current Lt. Governor (since Dec 2022), Dahlstrom has statewide name recognition and an existing campaign infrastructure.  
-– Early entry: First‐mover status can help secure key endorsements and donor commitments in a crowded field.  
+Bearish on Dahlstrom:  
+• Two February/March 2026 articles detail a controversy over her sharing confidential voter data with DOJ, with critics alleging constitutional violations. These could damage her reputation and dampen support in both the GOP primary and the general election.  
+• No polling or endorsements in the research suggest she has a commanding lead.  
 
-Bearish signals (could suggest <16.5%):  
-– Crowded GOP primary: At least a dozen Republicans (Shelley Hughes, Click Bishop, Matt Heilala, Treg Taylor, etc.) are running, diluting Dahlstrom’s chances to secure the nomination.  
-– Fundraising gap: No evidence she’s raised significant funds; top self‐funders like Heilala ($1.3 M) and Kreiss‐Tomkins (D, $750 K) dominate early fundraising.  
-– Controversy: Her cooperation with the DOJ on voter‐roll data has drawn criticism from both parties, potentially alienating core GOP voters.  
+Bullish on Dahlstrom:  
+• She’s incumbent lieutenant governor, giving her name recognition and statewide office infrastructure.  
+• In her own op-ed she frames the DOJ agreement as lawful protection of election integrity, which may resonate with Republican base voters.  
 
-Source credibility & recency: Ballotpedia and Alaska Beacon reports (May 2025 – Feb 2026) are reliable and up‐to‐date. No public polling data on her general‐election standing is available, so quantitative measures of her viability are missing.  
+Source credibility and recency: All items are from Feb–Mar 2026. The Cordova Times is local-opinion, Dermot Cole is a veteran Alaska reporter. Ballotpedia is neutral. No high-quality polling or forecasting models are cited.  
+
+Nothing in the research argues for a much higher win probability than 15.5%, nor is there strong proof she’s doomed.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 16.5% price plausibly reflects Dahlstrom’s position as one of many contenders, her incumbency plus controversies, and the long timeline to November 2026.  
-• Low volume and tight spread suggest the price may be set by a small number of traders with no fresh quantitative data.  
-• It may simply represent consensus “ballpark” odds in a largely untracked, early‐stage race rather than a well‐arbitraged inefficiency.  
+A 15.5% probability can reflect a rough consensus that (a) she has an outside chance of winning her party’s primary and then the general, or (b) one or two traders simply anchored a guess around mid-teens. Zero volume suggests limited engagement. It could be “obvious” there’s an outside chance but not enough clarity for active trading. Informed traders may reserve judgment until primary polling emerges.  
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence indicates the market has materially under‐ or over‐priced Dahlstrom’s chances. The mixed signals—incumbency vs. crowded field and lack of fundraising—are already public and likely baked into the ~16.5% price. A large mispricing (>20 ¢) is unlikely given how little concrete polling or fundraising detail exists.  
+No specific, high-credibility evidence appears to be missing from the current price. We lack polling data or insider intel that would materially shift probability above or below 15.5%. While Dahlstrom’s controversy could shave a few percentage points off her chances, that alone doesn’t prove a multi-decile mispricing. Conversely, her office and name recognition could push her chances above the current price, but again there’s no solid data.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence (that mispricing exists): 30%  
-• Plausible magnitude if any: 5 ¢  
-• Expected value = 0.30 × 5 ¢ = 1.5 ¢  
+Strength of evidence that the price is off: ~20% (limited, mostly qualitative).  
+Magnitude of mispricing if any: ~5 cents.  
+Expected value ≈ 20% × 5 cents = 1 cent.  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Dahlstrom’s incumbency and early entry are balanced by a crowded primary, limited fundraising, and controversies, making her ~16.5% win probability plausible in a low‐volume market. No clear, missing evidence suggests a significant mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.0  
+SUMMARY: No clear quantitative evidence suggests Dahlstrom’s 15.5% win probability is materially off. Qualitative controversies and her lieutenant-governor status roughly balance out, and lack of polling or trading interest limits conviction.  
+CONFIDENCE: low
 
 ---
 
@@ -57,30 +54,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Nancy Dahlstrom
-URL: https://ballotpedia.org/Nancy_Dahlstrom
-Summary: Nancy Dahlstrom is the current Lieutenant Governor of Alaska, serving since December 2022 with her term ending in December 2026. She is a member of the Republican Party and has announced her candidacy for the 2026 Alaska gubernatorial election. Her political background includes prior service in the Alaska House of Representatives. Dahlstrom's educational background includes degrees from Wayland Baptist University and the University of LaVerne, and she has professional experience as a sales and marketing consultant. While she is actively campaigning for the governor's race, her chances of winning will depend on various factors such as her campaign strategies, endorsements, voter support, and the political landscape leading up to the election.
-
-Title: Republicans Nancy Dahlstrom and Click Bishop are first to file for 2026 Alaska governor's race
-Author: James Brooks
-URL: https://alaskabeacon.com/2025/05/05/republicans-nancy-dahlstrom-and-click-bishop-are-first-to-file-for-2026-alaska-governors-race/
-Summary: Nancy Dahlstrom, Alaska’s current Lieutenant Governor, has officially announced her candidacy for the 2026 governor’s race, joining fellow Republican Click Bishop. While Bishop has emphasized his intention to engage voters through listening sessions before actively campaigning, Dahlstrom’s campaign details remain limited, and she has not publicly responded to media inquiries. Given her experience as Lieutenant Governor and her previous run for U.S. House, she has political credentials that could bolster her campaign. However, the upcoming election will face significant challenges, including a projected budget deficit, poor public school performance, high crime rates, and homelessness issues. Her ability to secure voter support will depend on her campaign strategy and how effectively she addresses these pressing state concerns.
-
 Title: Reporting From Alaska- Dahlstrom invited feds to intrude on state elections
 Author: 
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://www.dermotcole.com/reportingfromalaska/2026/2/14/dahlstrom-deceives-on-release-of-personal-voter-disclosure-data-to-feds
-Summary: The webpage details Lt. Gov. Nancy Dahlstrom's controversial decision to cooperate with the Department of Justice regarding Alaska's voter rolls, including sharing confidential voter data and agreeing to remove ineligible voters based on federal recommendations. Critics, including Democratic candidate Tom Begich, argue that this federal involvement undermines Alaska's election sovereignty and raises concerns about federal overreach. Dahlstrom claims her actions are responsible governance aimed at election integrity, but her approval of the agreement—initiated at the DOJ's request—has sparked debate over federal interference in state elections. This controversy highlights potential vulnerabilities in her stance on election control, which could influence her prospects in the 2026 gubernatorial race.
+Summary: The article details Lt. Gov. Nancy Dahlstrom's controversial decision to approve an agreement with the Department of Justice that involves sharing confidential voter data and allowing federal review of Alaska's voter rolls. Critics, including Democratic candidate Tom Begich, argue that this move constitutes federal interference in state elections and undermines Alaska's election sovereignty. Dahlstrom claims the cooperation is responsible governance aimed at maintaining election integrity, but evidence suggests she authorized the federal government to review and potentially remove ineligible voters within 45 days, a function traditionally managed by the state. The controversy raises questions about Dahlstrom's judgment and stance on election independence, which could influence her prospects in the 2026 gubernatorial race.
 
-Title: Election 2026: Shelley Hughes hoping legislative achievements elevate her among a dozen Republicans seeking to be governor
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.juneauindependent.com/post/election-2026-shelley-hughes-hoping-legislative-achievements-elevate-her-among-a-dozen-republicans
-Summary: Shelley Hughes, a former Alaska State Senate majority leader and current gubernatorial candidate in 2026, emphasizes her legislative achievements and pragmatic approach to governance. She criticizes current leadership for neglecting Juneau and Southeast Alaska, promising to prioritize local engagement if elected. Hughes is among a crowded field of Republican contenders, including Lt. Gov. Nancy Dahlstrom, with whom she shares conservative views but differentiates herself through her legislative experience and policy focus. While the webpage highlights Hughes's campaign strategies and background, it does not provide specific insights into Dahlstrom’s campaign strengths or electoral prospects. Therefore, predicting whether Nancy Dahlstrom will win the 2026 Alaska governor race based solely on this information is uncertain.
+Title: Commentary: Dahlstrom violated Constitution when she handed DOJ confidential voter information | The Cordova Times
+Author: The Cordova Times
+Published Date: 2026-03-07T00:00:00.000Z
+URL: https://thecordovatimes.com/2026/03/06/commentary-dahlstrom-violated-constitution-when-she-handed-doj-confidential-voter-information/
+Summary: The article discusses allegations against Nancy Dahlstrom, suggesting she violated the U.S. Constitution by handing over confidential voter information to the Department of Justice. This controversy could impact her political reputation and electability in the 2026 Alaska governor race. While the article does not directly address her chances of winning, such legal and ethical issues may influence voter perception and her overall campaign prospects.
 
-Title: Anchorage Republican spending lots of his own money in governor's race, early campaign records show
-Author: James Brooks
-URL: https://alaskabeacon.com/2026/02/19/anchorage-republican-spending-lots-of-his-own-money-in-governors-race-early-campaign-records-show/
-Summary: The article focuses on early campaign fundraising for the 2026 Alaska governor race, highlighting that Anchorage Republican candidate Matt Heilala is the leading fundraiser, having invested nearly $1.3 million of his own money and maintaining over $1 million in campaign funds. Other notable candidates include Republican Treg Taylor, who has over $724,000, and Democratic candidate Jonathan Kreiss-Tomkins, who reports raising more than $750,000 since entering the race. Heilala emphasizes his strategy of self-funding to fill a specific niche, while campaign experts note that substantial financial resources are crucial for electoral success. The article does not mention Nancy Dahlstrom or provide specific insights into her campaign status or fundraising, so her prospects cannot be directly assessed from this information.
+Title: [PDF] 2026 Gubernatorial Race Overview
+URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
+Summary: The provided document does not contain information about Nancy Dahlstrom or the Alaska gubernatorial race. It primarily covers the 2026 New Jersey and Virginia gubernatorial races, including candidate backgrounds, polling data, campaign strategies, and endorsements. Therefore, it offers no relevant insights or predictions regarding Nancy Dahlstrom's chances of winning the 2026 Alaska governor election.
+
+Title: Nancy Dahlstrom - Ballotpedia
+URL: https://ballotpedia.org/Nancy_Dahlstrom
+Summary: Nancy Dahlstrom, currently serving as Lieutenant Governor of Alaska since December 2022, is a member of the Republican Party and has a background in human services and business. She has previously served in the Alaska House of Representatives (2003-2010). Dahlstrom has announced her candidacy for the 2026 Alaska gubernatorial election, with the primary scheduled for August 18, 2026. As of now, she is one of several candidates vying for the Republican nomination, with no incumbents in the race. Her prior political experience and current statewide office position her as a notable contender, but her success will depend on various factors including campaign dynamics, voter support, and competition within her party.
+
+Title: Opinion: Alaska’s elections belong to Alaska - Anchorage Daily News
+Author: Nancy Dahlstrom
+Published Date: 2026-02-24T00:00:00.000Z
+URL: http://www.adn.com/opinions/2026/02/23/opinion-alaskas-elections-belong-to-alaska/
+Summary: Nancy Dahlstrom, Alaska’s lieutenant governor and a Republican, emphasizes that Alaska maintains full control over its election processes, including voter list maintenance, despite a recent data-sharing agreement with the U.S. Department of Justice. She asserts that the cooperation was lawful, transparent, and aimed at protecting election integrity, with Alaska retaining authority over voter rolls and procedures. While her position underscores her commitment to election sovereignty, there is no specific information in the article regarding her prospects or campaign strategies for winning the 2026 Alaska governor election.
 
 

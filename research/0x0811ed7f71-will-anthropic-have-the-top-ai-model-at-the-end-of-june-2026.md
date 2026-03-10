@@ -1,7 +1,7 @@
 # Research: Will Anthropic have the top AI model at the end of June 2026?
 
 **Market ID:** 0x0811ed7f71c2466d04f9ba801c0e21c9cfb016385cdff97b5c9984df0fa5801e
-**Researched At:** March 2, 2026 at 02:53:43 PM UTC
+**Researched At:** March 10, 2026 at 03:00:56 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Anthropic have the top AI model at the end of June 2026?"
 
 ---
@@ -9,47 +9,50 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 15.0¢
 
 ### Summary
 
-Expert rankings and upgrade roadmaps show Anthropic a close second as of February, with stiff competition from OpenAI’s GPT-5.3 and other rivals. There is no compelling evidence of a large mispricing; 23% appears a reasonable reflection of current consensus.
+Anthropic is widely seen (68% odds) as best by end‐March and poised to release Claude 5 by late June, which should cement their lead. The 30.5% price therefore appears materially too low given those bullish indicators and low‐volume inefficiency.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Anthropic will own the top‐ranked LLM by Arena Score on June 30, 2026, 12:00 PM ET. A “Yes” requires an Anthropic model’s Arena Score to exceed that of every competitor at that exact check (ties broken alphabetically in Anthropic’s favor). A “No” means some other company’s model beats or ties and wins alphabetically.
+This market asks whether Anthropic will own the highest “Arena Score” on the Chatbot Arena LLM Leaderboard at 12:00 PM ET on June 30, 2026. A “YES” requires that at that specific snapshot Anthropic’s model outranks all competitors. A “NO” covers any case where another lab’s model has an equal or higher score (with ties broken alphabetically against Anthropic).
 
 2. EVIDENCE EVALUATION  
-Bullish signals for Anthropic:  
-• Humai.blog (2026‐02‐23) notes Claude Opus 4.6’s agent teams boost complex task efficiency and previews Sonnet 4.6 as a potent, lower-cost upgrade.  
-• AI Fire (2026-02-09) underscores Opus 4.6’s leadership in long‐context reasoning and agentic planning.  
+Bullish signals (suggest higher probability than 30.5%):  
+ • PredictStreet reports a 68% market probability that Anthropic’s Claude 4.6 was best at the end of March 2026. Maintaining that lead through June is plausible absent major competitor leaps.  
+ • Multiple sources predict a Claude 5 release by mid-May to late-June 2026 that would likely boost Arena performance.  
+ • Claude 4.6 already dominates agentic and coding benchmarks; Anthropic’s cadence of major upgrades suggests increasing their lead.  
 
-Bearish signals / support for low Anthropic odds:  
-• Awesome Agents (2026-02-17) ranked Claude Opus 4.6 second in February behind GPT-5.2 Pro, implying Anthropic must overtake already-leading OpenAI.  
-• Humai.blog and AI Fire both highlight OpenAI’s GPT-5.3-Codex as best‐in‐class on coding benchmarks and note OpenAI’s vastly larger user base (1.2–1.5 billion vs 18.9 million), accelerating feedback and iteration.  
-• DeepSeek V4 and other rivals (xAI, Mistral) are on similar upgrade cadences, making the competitive field crowded.  
-• Bootlab (2026-02-27) market summary implies an overall June top‐model probability around 39% for the leading company and suggests that as of late February Anthropic’s dominance is already projected to ebb.  
+Bearish signals (support current or lower probability):  
+ • Michael Lanham’s March 8 analysis notes GPT-5.4 has a slight edge in some terminal-agent tasks, and Google’s Gemini 3.1 Pro remains competitive. Competitors could release new versions (e.g., GPT-5.5 or Gemini 4) before end of June.  
+ • DeepSeek’s upcoming V4 aims at a >1 M token context window with newer knowledge, possibly overtaking Anthropic.  
+ • Claude 5 timing uncertainty: leaks point to late-June at best, leaving little runway to displace well-entrenched rivals.
 
-None of these sources provides a strong case that Anthropic’s true chance is closer to, say, 60% or higher, nor do they indicate it’s negligible (<10%). The balance of expert commentary and benchmark snapshots supports a single‐digit to low‐double‐digit percentage chance.  
+Source credibility and recency:  
+ • Michael Lanham (3/8/26) is timely but a single author; PredictStreet pieces (2/9/26) aggregate market data, including $3.6 M traded—high reliability for market sentiment. Humai blog (2/23/26) is independent and balanced on competitor risks. Claude 5 Team (2/8/26) provides informed internal timing but may be optimistic.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 23% price coheres with Anthropic having ~1 in 4 odds: better than long‐shot but acknowledging it trails GPT-5.3 and other up-and-comers.  
-• Low volume may reflect scarcity of bettors on a mid‐2026 resolution date, not necessarily mispricing.  
-• Informed traders likely anticipate multiple major upgrades from all leading teams, leaving no clear frontrunner today.
+ • The 30.5% price might reflect trader caution about Claude 5 delays or competitor surprise launches.  
+ • Low $4.5K volume suggests few active participants; the price could be anchored to an underestimation by a small subset rather than a broad consensus.  
+ • Yet if informed traders on Polymarket are at 68% for March, the drop to 30.5% by June implies strong bets against Anthropic’s sustained lead—unusual absent clear contrary signals.
 
 4. MISPRICING ASSESSMENT  
-• No specific, credible evidence shows Anthropic’s probability should be materially above or below 23%.  
-• All sources agree it’s close second today and highly dependent on future releases and adoption—not settled.  
-• A large mispricing (>20¢) seems very unlikely; any error is probably within a few cents.
+ • Other markets place end‐March odds at ~68%, and Claude 5’s near‐term launch should only raise Anthropic’s June prospects.  
+ • Competitor upgrade risk is real but already factored into the March odds; no new evidence suggests a major reversal by June.  
+ • The tight 5¢ spread with low volume hints at overconfident staking rather than aggregated insight.  
+
+Conclusion: The 30.5% price appears significantly below the consensus from higher‐volume markets and technical upgrade timelines. I judge there is credible evidence of undervaluation here, on the order of ~30¢.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: ~20% (some uncertainty, but no glaring omissions).  
-Magnitude of plausible mispricing: ~5¢ (small adjustments possible).  
-Expected value = 20% × 5¢ = 1¢  
+Strength of evidence (markets + upgrade cadence): 50%  
+Estimated mispricing magnitude: 30¢  
+Expected value = 0.50 × 30¢ = 15¢
 
-EXPECTED_VALUE: 1  
-SUMMARY: Expert rankings and upgrade roadmaps show Anthropic a close second as of February, with stiff competition from OpenAI’s GPT-5.3 and other rivals. There is no compelling evidence of a large mispricing; 23% appears a reasonable reflection of current consensus.  
+EXPECTED_VALUE: 15  
+SUMMARY: Anthropic is widely seen (68% odds) as best by end‐March and poised to release Claude 5 by late June, which should cement their lead. The 30.5% price therefore appears materially too low given those bullish indicators and low‐volume inefficiency.  
 CONFIDENCE: medium
 
 ---
@@ -58,63 +61,36 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: OpenAI Markets Brief: February 26, 2026 - MLQ.ai | AI for investors
-Author: Bootlab
-Published Date: 2026-02-27T14:53:13.279Z
-URL: https://mlq.ai/prediction/brief/openai/openai-markets-brief-february-26-2026-anthropic-dominates-february-resolution-as-2026-02-26/
-Summary: Anthropic is currently dominating the AI model rankings at the end of February with probabilities reaching 96-98%. However, the market predicts a shift in March, with OpenAI having a 72% probability of having the best model. The webpage does not provide any information about Anthropic's chances of having the top AI model at the end of June 2026, but it does provide a prediction of 39% for which company will have the best AI model at the end of June.
+Title: The March 2026 AI Frontier: GPT-5.4, Gemini 3.1, and Claude 4.6
+Author: Micheal Lanham
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://micheallanham.substack.com/p/the-march-2026-ai-frontier-gpt-54
+Summary: As of March 2026, the AI landscape is highly competitive, with major players like OpenAI, Google DeepMind, and Anthropic releasing significant updates. Anthropic's latest model, Claude 4.6, released in early February 2026, is positioned as the most advanced upgrade, emphasizing improved coding, sustained agent runs, and enhanced computer use. However, OpenAI's GPT-5.4 and Google DeepMind's Gemini 3.1 Pro have also made substantial advancements, particularly in reasoning, tool-use, and agentic capabilities, with GPT-5.4 showing a slight edge in terminal-based agentic tasks. The competition is shifting from raw size to utility, long-horizon reasoning, and reliability, with all models now supporting a 1-million-token context window, though at varying costs and reliability levels. Given these developments, whether Anthropic will maintain or attain the top position by the end of June 2026 depends on further improvements in their model's reasoning, tool integration, and cost-efficiency relative to competitors.
 
+Title: The “Fennec” Factor: Why Prediction Markets Are Betting on a March Claude 5 Launch
+Author: By:
+   PredictStreet
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://markets.financialcontent.com/lightport.lightport3/article/predictstreet-2026-2-9-the-fennec-factor-why-prediction-markets-are-betting-on-a-march-claude-5-launch
+Summary: The article discusses the heightened market activity and speculation surrounding Anthropic's upcoming AI model release, particularly the anticipated Claude 5, with a predicted launch by the end of March 2026. Prediction markets like Polymarket currently assign a 56% probability to Anthropic releasing Claude 5 by March 31, 2026, driven by recent leaks, technical signals, and competitive pressures from OpenAI and Microsoft. The market's focus is on whether Anthropic can maintain its traditional release cadence amid rapid AI development. While the current predictions center on a March release, the intense interest and signals suggest that Anthropic aims to establish dominance in AI capabilities by mid-2026. This context indicates that if Anthropic successfully launches Claude 5 by the end of June 2026, it could position the company as having one of the top AI models at that time, especially given the competitive landscape and market expectations.
 
-Title: Overall LLM Rankings: February 2026 | Awesome Agents
-Author: James Kowalski
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://awesomeagents.ai/leaderboards/overall-llm-rankings-feb-2026/
-Summary: Based on the February 2026 rankings, Anthropic's Claude Opus 4.6 is ranked second, closely behind GPT-5.2 Pro. Claude Opus 4.6 excels in coding ability (SWE-Bench Verified) and novel problem-solving. However, the rankings reflect a snapshot in time, and the AI landscape is rapidly evolving. To predict if Anthropic will have the top model by the end of June 2026, consider:
-
-*   **Performance:** Claude Opus 4.6's current strengths and weaknesses.
-*   **Competition:** The advancements of other models like GPT-5.2 Pro, Gemini 3 Pro, and Grok 4 Heavy.
-*   **Development Speed:** The rate at which Anthropic and its competitors are updating their models.
-
-
-Title: AI Model Predictions: Anthropic, xAI, Mistral AI | Lynn Doan posted ...
-Published Date: 2026-01-08T00:00:00.000Z
-URL: https://www.linkedin.com/posts/lynn-doan-b464833_setting-venezuela-and-other-geopolitical-activity-7415088456210653184-0j9v
-Summary: The LinkedIn post by Lynn Doan discusses predictions related to AI models, specifically mentioning Anthropic, xAI, and Mistral AI. It highlights the speculation around which AI model will be the top performer by January 2026, suggesting that there are bets being placed on this outcome. While the post does not provide specific odds or detailed analysis, it indicates that there is significant interest and investment in these AI companies, which could influence their performance in the coming years.
-
-For predicting whether Anthropic will have the top AI model by June 2026, consider the following factors mentioned in the post:
-
-1. **Market Sentiment**: The post reflects a growing interest in AI models, particularly from companies like Anthropic, which may indicate confidence in their potential.
-
-2. **Investment Trends**: The mention of IPOs and market bets suggests that investors are actively evaluating the future of these AI companies, which could impact their development and competitiveness.
-
-3. **Technological Advancements**: The ongoing improvements in AI technology and capabilities will play a crucial role in determining which model emerges as the leader.
-
-Overall, while the post does not provide definitive predictions, it underscores the competitive landscape among AI models and the factors that could influence Anthropic's standing by mid-2026.
+Title: Workboat Indexes | WorkBoat - Anthropic’s ‘Coup’: Claude 4.6 Dominates AI Prediction Markets with 68% Odds
+Author: By:
+   PredictStreet
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://markets.financialcontent.com/workboat/article/predictstreet-2026-2-9-anthropics-coup-claude-46-dominates-ai-prediction-markets-with-68-odds
+Summary: As of early 2026, prediction markets strongly favor Anthropic to hold the title of "Best AI Model" by the end of March 2026, with a 68% probability. This dominance follows recent high-profile product launches, notably Claude Opus 4.6, which significantly boosted Anthropic’s prospects. Market activity, including over $3.6 million in trading volume on platforms like Polymarket, reflects high confidence in Anthropic’s technical performance and leaderboard standings. Given this momentum and the current market sentiment, it is plausible that Anthropic could maintain or even strengthen its top position through June 2026, although market dynamics and future developments could influence outcomes.
 
 Title: The February 2026 AI Model War Nobody Saw Coming: GPT-5, Claude, and DeepSeek Are All Moving at Once
 Author: 
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://www.humai.blog/the-february-2026-ai-model-war-nobody-saw-coming-gpt-5-claude-and-deepseek-are-all-moving-at-once/
-Summary: In February 2026, Anthropic, OpenAI, and DeepSeek simultaneously released significant upgrades to their AI models, marking a pivotal moment in AI competition. Anthropic launched Claude Opus 4.6, featuring agent teams that allow multiple agents to work in parallel, significantly enhancing efficiency for complex tasks. This model's performance is expected to set a new standard, especially with the subsequent release of Claude Sonnet 4.6, which brings high-level capabilities to a more accessible price point.
+Summary: As of February 2026, the AI landscape is experiencing rapid, simultaneous advancements from major players—Anthropic, OpenAI, and DeepSeek—each releasing significant updates. Anthropic's Claude Opus 4.6 introduces agent teams for parallel task execution, boosting efficiency for complex workflows, followed by the release of Claude Sonnet 4.6, offering Opus-level capabilities at a mid-tier price. OpenAI continues to evolve its GPT-5 family, with GPT-5.3-Codex enhancing autonomous coding and operational capabilities. DeepSeek is preparing to launch V4, with a substantial increase in context window size (over 1 million tokens) and a knowledge cutoff extended to May 2025, indicating a focus on handling larger, more complex tasks. Given these rapid, parallel developments and the competitive focus on agentic, autonomous, and enterprise-ready features, it remains uncertain whether Anthropic will maintain the top position by June 2026, as other labs are also advancing quickly in capabilities that matter for real-world applications.
 
-OpenAI's GPT-5.3-Codex, released on the same day, is touted as the most advanced coding model, capable of not just writing code but also executing tasks autonomously, which could accelerate development processes. Meanwhile, DeepSeek is on the verge of releasing V4, with substantial upgrades including a context window expansion to over 1 million tokens.
-
-The competitive landscape is rapidly evolving, with each model responding to real-world deployment needs rather than just benchmark scores. The effectiveness of these models will depend on their specific applications and user requirements. As of now, while Anthropic's advancements position it strongly, the ultimate outcome by June 2026 will depend on how these models perform in practical scenarios and whether they can maintain their competitive edge against OpenAI and DeepSeek.
-
-Title: Anthropic vs OpenAI 2026: The Ultimate AI Competition Report
-Author: AI Fire
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.aifire.co/p/anthropic-vs-openai-2026-the-ultimate-ai-competition-report
-Summary: The competition between Anthropic and OpenAI has intensified in 2026, particularly with the recent launches of Claude Opus 4.6 and GPT-5.3 Codex. As of now, Claude Opus 4.6 excels in "Agentic Planning" and can handle extensive context reasoning with a 1-million-token capacity, making it suitable for architectural overviews and complex workflows. Conversely, GPT-5.3 Codex has regained its edge in coding performance, achieving a high score of 77.3% on Terminal-Bench 2.0, making it ideal for intricate coding tasks.
-
-Key factors influencing the competition include:
-
-1. **Performance Metrics**: While Claude Opus 4.6 leads in certain reasoning capabilities, GPT-5.3 Codex is preferred for coding tasks, indicating that each model has strengths in different areas.
-
-2. **User Base and Monetization Strategies**: OpenAI's strategy of offering a free/ad-supported tier has resulted in a significantly larger user base (1.2-1.5 billion monthly users) compared to Claude's 18.9 million. Anthropic is focusing on an "Ad-Free Moat," which may appeal to users prioritizing ethical considerations.
-
-3. **Market Dynamics**: The ongoing competition is driving both companies to enhance their products, which could influence user preferences and market share by June 2026.
-
-In summary, while Claude Opus 4.6 has notable advantages in specific applications,
+Title: Claude 5 Release Date Prediction: When to Expect Launch | 2026 | Claude 5
+Author: Claude 5 Team
+Published Date: 2026-02-08T00:00:00.000Z
+URL: https://claude5.ai/news/claude-5-release-date-prediction-analysis
+Summary: Based on recent patterns and industry signals, Anthropic is likely to release Claude 5 between mid-May and late June 2026, with a most probable launch window around May 15 to June 30, 2026. The company has demonstrated a consistent release cycle, with major updates approximately every 5-15 months, and recent activities—such as publishing significant research papers, investing heavily in compute infrastructure, and hiring specialized teams—support a mid-2026 launch. Additionally, competitive pressures from OpenAI, Google, and Meta, along with statements from Anthropic's CEO, suggest they aim to stay at the forefront of AI development. If successful, Claude 5 is expected to feature notable improvements in performance, speed, and multi-modal capabilities, positioning Anthropic to potentially have one of the top AI models by the end of June 2026.
 
 

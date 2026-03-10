@@ -1,7 +1,7 @@
 # Research: Will Cho Gil-hyeong win the 2026 Chungcheongbuk Province gubernatorial election?
 
 **Market ID:** 0x06cc0d8c89990b3392f6bdcf83688ddb0ae91cfc6b2d264b0b8d49d3758ef814
-**Researched At:** March 2, 2026 at 04:22:21 AM UTC
+**Researched At:** March 10, 2026 at 03:01:48 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Cho Gil-hyeong win the 2026 Chungcheongbuk Province gubernatorial election?"
 
 ---
@@ -9,40 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 0.2¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-None of the research directly addresses Cho Gil-hyeong’s campaign or polling, so there’s no clear basis to adjust the market’s 20.5% probability. The price likely reflects a default estimate for an under-the-radar local candidate rather than a major mispricing.
+There is no substantive polling or insider information to signal a large deviation from the current 17% estimate. Cho’s profile makes him a plausible contender, but the competitive primaries and multiple opponents justify a sub-20% price.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Cho Gil-hyeong will emerge victorious in the June 3, 2026 Chungcheongbuk Province gubernatorial election (resolving YES if he’s officially declared the winner, NO if any other candidate wins or the result is unknown by Dec 31, 2026).
+1. CONTEXT ANALYSIS
+The market asks: “Will Cho Gil-hyeong win the June 3, 2026 Chungcheongbuk gubernatorial election?” It resolves YES if Cho Gil-hyeong secures a plurality of votes among all candidates (including major-party and independents) in that election, NO otherwise.
 
-2. EVIDENCE EVALUATION  
-– Bullish evidence: None of the provided articles specifically profile Cho Gil-hyeong, his party affiliation, campaign strength, or polling data in Chungcheongbuk Province. Indirectly, a charged “mini-general election” atmosphere and by-election outcomes could sway local sentiment in his favor if his party performs strongly—but we lack details on his party or base.  
-– Bearish evidence: Similarly, no source indicates he is weak, faces major scandals, or lacks party support. The absence of direct reporting on him may imply low name recognition or limited media coverage.  
-– Credibility/recency: All articles are from February 2026, hence recent, but none address him directly. Their relevance to his individual race is speculative at best.  
-– Conclusion: There is no concrete, specific information in these findings to suggest the 20.5% price is materially too high or too low.
+2. EVIDENCE EVALUATION
+Bearish points (suggesting the 17% price may be too high):
+• No public polling places Cho ahead or even convincingly in the top two; the research shows zero voter‐preference data for him.  
+• He must first win his party’s nomination (he’s one of several People Power Party figures, including an incumbent governor). That primary hurdle reduces his ultimate win probability.  
+• Competitive Democratic challengers (e.g., Noh Young-min, Song Ki-seop) and possibly stronger PPP figures may split vote share or outcompete him.  
 
-3. MARKET EFFICIENCY ANALYSIS  
-– A 20.5% probability could simply be a prior estimate for an underdog in a multi-candidate local race, reflecting baseline uncertainty in the absence of public polling data.  
-– With only ~$2 k volume and a tight spread, the price may be set by one or two traders rather than broad consensus—but that doesn’t necessarily imply a large mispricing, just low liquidity.  
-– The lack of media coverage may explain why informed traders haven’t deeply engaged; price may more reflect a default market guess than a well-informed forecast.
+Bullish points (supporting ~17% or higher):
+• He is a three-term mayor with law-enforcement credentials and a popular local media profile (“충주맨”), which may translate to regional appeal.  
+• Early campaign messaging emphasizes balanced development—a theme that resonates in provincial elections.  
 
-4. MISPRICING ASSESSMENT  
-– No specific, credible evidence is missing from the market’s current price; neither clear positive nor negative information about Cho’s campaign emerges from the research.  
-– Given the long horizon to June 2026 and minimal direct data, 20.5% appears a plausible baseline.  
-– No sign of a >0.20 price error is evident.
+All sources are from March 2026 and credible (Yonhap, Weekly Chosun, Pressian, MK). None offers hard polling numbers, and the field remains wide open. No “smoking gun” indicates a sharp revision from 17%.
 
-5. EXPECTED VALUE CALCULATION  
-– Strength of evidence that price is off: low (≈20%)  
-– Plausible magnitude of mispricing: minimal (≈1 cent)  
-– Expected value ≈ 20% × 1 cent = 0.2 cents
+3. MARKET EFFICIENCY ANALYSIS
+• A 17% price plausibly reflects an underdog in a multi-candidate race, adjusted for his local profile but also the need to clear a contested primary.  
+• Low volume suggests few specialists trade it, but a tight spread implies at least some informed interest.  
+• The outcome isn’t “obvious,” so low volume likely reflects sparse data rather than consensus on a simple YES/NO.
 
-EXPECTED_VALUE: 0.2  
-SUMMARY: None of the research directly addresses Cho Gil-hyeong’s campaign or polling, so there’s no clear basis to adjust the market’s 20.5% probability. The price likely reflects a default estimate for an under-the-radar local candidate rather than a major mispricing.  
+4. MISPRICING ASSESSMENT
+No clear, specific evidence (e.g., trending polls, insider leaks) contradicts the current price. Given the early stage, competitive field, and lack of quantitative data, 17% sits comfortably as a reasonable consensus estimate rather than a glaring misprice.
+
+5. EXPECTED VALUE CALCULATION
+Strength of evidence that price is wrong: ~30% (very limited quantitative data).  
+Plausible magnitude of mispricing: ~5 cents (at most).  
+Expected value ≈ 0.3 × 5¢ = 1.5¢ → round to 1¢.
+
+EXPECTED_VALUE: 1  
+SUMMARY: There is no substantive polling or insider information to signal a large deviation from the current 17% estimate. Cho’s profile makes him a plausible contender, but the competitive primaries and multiple opponents justify a sub-20% price.  
 CONFIDENCE: low
 
 ---
@@ -51,80 +55,40 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Song, Han, Cho By-Election Bids Spark 'Mini General Election' Hype
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.chosun.com/english/national-en/2026/02/23/TGNN6N77JJELNP6JU3LSSBLFUY/
-Summary: The article discusses the upcoming by-elections for the National Assembly in South Korea, which are generating significant speculation due to the involvement of high-profile politicians, including Cho Kuk, the leader of the Rebuilding Korea Party. While the focus is primarily on the by-elections, the political landscape could indirectly influence the gubernatorial election in Chungcheongbuk Province, particularly if candidates like Cho Kuk decide to run for other positions or if their parties gain momentum.
+Title: 조길형 "충북 저력 키워 균형발전 이룰 것"…도지사 출마 선언 | 연합뉴스
+Author: 전창해
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.yna.co.kr/view/AKR20260303089600064
+Summary: Cho Gil-hyeong, a former mayor of Chungju and member of the People Power Party, has officially announced his candidacy for the 2026 Chungcheongbuk Province gubernatorial election. He emphasizes his commitment to fostering the province's strengths and achieving balanced development through close cooperation with the national government and transparent communication. His prior experience includes managing local government and a long career in law enforcement, which he believes will support his leadership. The election field also includes other notable candidates from both major parties, such as incumbent governor Kim Yong-hwan (People Power Party) and Democratic candidates like Noh Young-min and Song Ki-seop. While Cho Gil-hyeong's extensive experience and proactive campaign are notable, the outcome remains uncertain due to the competitive landscape and political dynamics.
 
-Key points relevant to predicting Cho Gil-hyeong's chances in the 2026 Chungcheongbuk Province gubernatorial election include:
+Title: ‘충주맨’ 키운 조길형 전 충주시장, 충북지사 출마 선언 < 정치 < 기사본문 - 주간조선
+Author: 오기영 기자 
+						 다른 기사 보기 					 
+					 기사공유
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://slv.weekly.chosun.com/news/articleView.html?idxno=49299
+Summary: Cho Gil-hyeong, a former three-term mayor of Chungju and a well-known figure through his YouTube channel ‘충주맨,’ has officially announced his candidacy for the 2026 Chungcheongbuk Province gubernatorial election. With a background in law enforcement and local government, he emphasizes a focus on balanced regional development and prioritizes public consensus over political ambition. His reputation is bolstered by his active engagement with the public via social media and his prior leadership roles. While his popularity is notable, especially among those familiar with his media presence, there is no definitive information on his electoral prospects. His success will likely depend on his ability to mobilize support across diverse voter groups and distinguish himself in the competitive political landscape of Chungcheongbuk Province.
 
-1. **Political Climate**: The by-elections are seen as a "mini general election," indicating heightened political activity and potential shifts in voter sentiment that could affect gubernatorial candidates.
+Title: 여야 충북지사 예비후보들 경선 앞두고 '얼굴 알리기' 행보 가속 | 연합뉴스
+Author: 전창해
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.yna.co.kr/view/AKR20260305146300064
+Summary: The article discusses the upcoming 6·3 local elections in South Korea, focusing on the Chungcheongbuk Province gubernatorial race. Several candidates, including incumbent or former officials, are actively campaigning and unveiling their policy priorities. 국민의힘 candidate 조길형 emphasizes regional development by shifting the growth axis to northern Chungbuk, proposing infrastructure and economic initiatives. 민주당 candidates 송기섭 and 신용한 focus on social issues like gender equality and administrative leadership, with 송기섭 proposing comprehensive policies for gender equality and 신용한 taking on roles related to regional development and governance. While these candidates are actively promoting their platforms, there is no clear indication of who is leading or favored to win the 2026 election. Therefore, predicting 조길형's victory remains uncertain based on current campaign activities and public support trends.
 
-2. **Candidate Dynamics**: The article highlights the competitive nature of the upcoming elections, with major figures from both ruling and opposition parties vying for positions. This competition could impact Cho Gil-hyeong's campaign strategy and voter outreach.
+Title: [6.3지방선거 예비후보자] 충청북도지사·충청북도교육감
+Author: 이재진 기자 
+				  |  
+				 
+											기사입력 2026.02.12. 17:36:03
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://m.pressian.com/pages/articles/2026021212092021028
+Summary: The article provides information on the preliminary candidates for the 2026 Chungcheongbuk Province gubernatorial election, including their political backgrounds and records. Notably, candidates such as 신용한 (Democratic Party), 한범덕 (Democratic Party), 송기섭 (Democratic Party), and 윤희근 (People Power Party) are running, with diverse experience in local government and law enforcement. There is no mention of Cho Gil-hyeong as a candidate or his political background, making it difficult to assess his chances based solely on this information. To predict his likelihood of winning, additional details about his candidacy, political support, and campaign platform would be necessary.
 
-3. **Party Support**: Cho Kuk's potential candidacy and the Rebuilding Korea Party's positioning could influence the political landscape in Chungcheongbuk Province, especially if they gain traction in the by-elections.
-
-4. **Voter Sentiment**: The outcomes of the by-elections may serve as a barometer for public opinion, which could reflect on Cho Gil-hyeong's prospects in the gubernatorial race.
-
-Overall, while the article does not directly address Cho Gil
-
-Title: The weight is that the number of parliamentary by-elections to be held along with the June 3 local e.. - MK
-Author: RYU  Youngwook 
- ryu.youngwook@mk.co.kr
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.mk.co.kr/en/politics/11963078
-Summary: The article discusses the upcoming parliamentary by-elections scheduled alongside the June 3 local elections in South Korea, highlighting that the number of by-elections could exceed 10. Key factors influencing these elections include recent resignations of lawmakers and ongoing legal challenges affecting their electoral validity. 
-
-For predicting the outcome of the 2026 Chungcheongbuk Province gubernatorial election, consider the following relevant points:
-
-1. **Political Landscape**: The ruling and opposition parties are intensifying their efforts to secure victories in these elections, indicating a competitive environment that could influence gubernatorial candidates like Cho Gil-hyeong.
-
-2. **Incumbent Resignations**: Several lawmakers are resigning to run for local offices, which could shift voter attention and support. The dynamics of these resignations may impact the political climate in Chungcheongbuk Province.
-
-3. **Legal Challenges**: The article mentions ongoing legal issues affecting other candidates, which could also apply to potential challengers in the gubernatorial race, affecting their viability and voter perception.
-
-4. **Candidate Momentum**: The article notes various candidates preparing for local elections, suggesting that the political landscape is fluid. Cho Gil-hyeong's chances may depend on how well he positions himself against these emerging candidates.
-
-Overall, the competitive nature of the upcoming elections and the potential for increased by-elections could significantly influence the political dynamics leading up to the gubernatorial election in Chungcheongbuk Province.
-
-Title: Mini General Election Looms as Up to 10 Seats Face By-Elections - Seoul Economic Daily
-Author: Jin Dong-Yeong
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://en.sedaily.com/politics/2026/02/22/mini-general-election-looms-as-up-to-10-seats-face-by
-Summary: The article discusses the upcoming by-elections in South Korea, which are expected to coincide with the local elections on June 3, 2026. Up to 10 seats may be contested, with four constituencies already confirmed. Notably, heavyweight political figures, including Cho Kuk, are preparing for potential candidacies in these elections.
-
-While the article does not specifically mention Cho Gil-hyeong or the Chungcheongbuk Province gubernatorial election, it highlights the competitive landscape in key constituencies, particularly Incheon Gyeyang-eul and Gyeonggi Pyeongtaek-eul, where prominent candidates from both the ruling Democratic Party and the opposition People Power Party are expected to vie for seats. The dynamics of these races, including the involvement of established political figures and potential shifts in voter sentiment, could provide insights into the broader electoral environment.
-
-For predicting Cho Gil-hyeong's chances in the gubernatorial election, consider the following factors:
-1. **Political Climate**: The article indicates a highly competitive atmosphere with significant figures from both parties entering the fray, which may influence voter preferences.
-2. **Candidate Popularity**: The success of candidates like Cho Kuk and others in the by-elections could affect the momentum leading into the gubernatorial race.
-3. **Party Support**: The backing of major political parties and their strategies in the lead-up to the elections will be crucial in determining the outcomes.
-
-Overall, while the article does not directly address Cho Gil-hye
-
-Title: Kim Dong-yeon Leads Polls for Gyeonggi Governor Democratic Primary - Seoul Economic Daily
-Author: Suwon - Son Dae-Seon
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://en.sedaily.com/society/2026/02/25/kim-dong-yeon-leads-polls-for-gyeonggi-governor-democratic
-Summary: The article primarily discusses Kim Dong-yeon's strong lead in the polls for the Democratic Party's gubernatorial candidate in Gyeonggi Province, highlighting his administrative achievements and policy initiatives. While it does not directly address Cho Gil-hyeong or the Chungcheongbuk Province gubernatorial election, several insights can be drawn that may be relevant for predicting election outcomes in general.
-
-1. **Polling Dynamics**: Kim's lead in multiple polls suggests that incumbency and established support can significantly influence election outcomes. Observers note that Kim's administrative record and policy implementation resonate well with voters, which could be a factor to consider for Cho Gil-hyeong's campaign strategy.
-
-2. **Voter Appeal**: The article emphasizes the importance of appealing to younger and moderate voters, particularly through innovative policies and alignment with national initiatives. If Cho can similarly connect with these demographics and present compelling policies, it may enhance his chances.
-
-3. **Party Alignment**: Kim's alignment with the central government's real estate policies has been beneficial. If Cho can align his campaign with broader party strategies or national issues, it could bolster his support.
-
-4. **Competitiveness Factors**: The article mentions that the general election outcome will depend on various factors, including party approval ratings and candidate competitiveness. Understanding the political landscape in Chungcheongbuk Province, including Cho's recognition and support base, will be crucial.
-
-5. **Potential Shifts**: The dynamics of the race can change as campaigns intensify. Observ
-
-Title: KAIST NEWS CENTER
-URL: https://www.kaist.ac.kr/newsen/html/news/?skey=category&sval=etc
-Summary: The webpage primarily focuses on recent news from KAIST, highlighting achievements in environmental engineering, particularly the recognition of Professor Jaewook Myung. While it does not directly address Cho Gil-hyeong or the 2026 Chungcheongbuk Province gubernatorial election, understanding the context of leadership and innovation in the region may provide indirect insights.
-
-Professor Myung's selection as a leader in environmental engineering indicates a growing emphasis on sustainability and innovation in South Korea, which could influence political dynamics. If Cho Gil-hyeong aligns with these values or has a strong track record in environmental issues, it may enhance his appeal to voters concerned about these topics.
-
-For a more accurate prediction regarding Cho Gil-hyeong's chances in the election, consider factors such as his political platform, public perception, and the current political climate in Chungcheongbuk Province, which are not covered in the KAIST news article.
+Title: A poll showed on the 6th that Cho Kuk, the leader of the Cho Kuk Innovation Party, ranked first in t.. - MK
+Author: Sujin Han  
+ han.sujin@mk.co.kr
+Published Date: 2026-03-06T00:00:00.000Z
+URL: http://tvp.mk.co.kr/en/politics/11981006
+Summary: The article reports a recent Gallup Korea poll indicating that Cho Kuk, leader of the Cho Kuk Innovation Party, is currently the most favored political figure for future leadership in South Korea, with a 9% support rate. While this demonstrates his rising popularity nationally, the poll does not specifically address regional elections such as the 2026 Chungcheongbuk Province gubernatorial race. Given Cho Kuk's current national prominence and favorable public opinion, he could potentially be a significant contender in regional elections, but there is no direct information in the article linking him specifically to the Chungcheongbuk gubernatorial race or predicting his success there.
 
 

@@ -1,7 +1,7 @@
 # Research: Will the Republicans win the Florida governor race in 2026?
 
 **Market ID:** 0xcceae66d81c60f90c9679ab531b865bd7e9f95cc54f7b0634a24095519b10d65
-**Researched At:** March 6, 2026 at 04:15:53 AM UTC
+**Researched At:** March 10, 2026 at 03:00:47 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republicans win the Florida governor race in 2026?"
 
 ---
@@ -9,52 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.5¢
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Current polling and trend evidence indicate a competitive Florida gubernatorial race, implying a Republican win probability closer to ~75% than the market’s 82.5%, but the gap is modest and may reflect Florida’s GOP lean. No clear ≥20¢ mispricing is evident.
+Florida early-March polls show only a 6–7-point Republican lead, implying a win probability nearer 60–70%, not 83.5%. With zero trading volume and no clear new upside shock, the market likely overstates the GOP’s certainty by about 10–15 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Republican nominee win the 2026 Florida governor’s race?” It resolves YES if the officially certified (or AP/Fox/NBC‐called) winner is the Republican nominee, and NO otherwise.
+The market asks whether the Republican nominee will win Florida’s 2026 governorship (per AP/Fox/NBC calls or official certification). A YES resolves if the GOP candidate gets a plurality in the general election; a NO resolves if any other candidate does.
 
 2. EVIDENCE EVALUATION  
-Bearish (against 82.5%):  
-• UNF poll (Mar 4 ’26) shows Byron Donalds leading potential Democratic opponents by ~6 points (42–36%), implying a competitive race. Historically, a 6-point lead in a swing state translates to ~65–75% win probability, not >82%.  
-• Independents lean Democratic, and affordability/cost‐of‐living concerns could tighten the race.  
-• Recent special elections in deep‐Red districts (LA, TX) swung to Democrats, hinting at possible broader shifts.  
-
-Bullish (for ~82.5%):  
-• Donalds holds a commanding 40-point lead in the GOP primary (Mar 2 ’26), making him a near‐certain nominee.  
-• Matched against Jolly or Demings, Donalds leads by 6–7 points in head-to-head polls (Mar 4 ’26).  
-• Florida’s recent history and Sabato’s Crystal Ball on state party dominance favor Republicans in open‐seat governor races.  
-
-Source Credibility & Recency:  
-• UNF poll and matching‐opp poll: university‐conducted, published Mar 4 ’26 – high credibility.  
-• Primary poll: Florida News Mar 2 ’26 – credible for nomination, not general.  
-• Special‐election article: NBCDFW, recency Mar 26 (undated but presumably recent) – credible for trend analysis.  
-• Sabato’s Crystal Ball: authoritative but currently non‐specific.
+Bearish on 83.5%:  
+• All five early‐March polls (Tallahassee Reports, Miami Times, FloridaPolitics/UNF, The Floridian, Yahoo) show Byron Donalds—presumed GOP nominee—with only a 6–7-point lead over top Democrats, implying a win probability nearer 60–70% rather than 83.5%.  
+• Margins are single-digit and partly reflect polarized turnout; any Democratic surge or turnout differential could flip the race.  
+Bullish on 83.5%:  
+• Florida’s GOP registration edge (≈1.5 M more Republicans), strong consolidation in the Republican primary (Donalds >40%), and favorable midterm dynamics could overweight the modest polling lead.  
+• Trump’s endorsement may lock in base votes.  
+Source credibility is high (university/established outlets, all dated March 2–4, 2026). None of the evidence shows a near-certainty above ~75%.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• 82.5% could reflect informed traders blending Florida’s GOP tilt with the current polling lead to assign roughly an 80%+ win probability.  
-• Low volume ($0 total) suggests few participants; price may reflect one or two traders’ aggregated priors rather than broad consensus. However, the tight 3¢ spread indicates at least two sided interest.  
-• The outcome may seem clear to insiders (Republican history in FL, strong primary), deterring new trades, or simply overlooked by active market-makers focusing on higher-volume contracts.
+A legit rationale for 83.5%: traders may be pricing in Florida’s structural GOP tilt, primary consolidation, and expected midterm backlash. But total volume is $0, suggesting a few overconfident bettors set the price. The tight spread with no trades hints at thin participation rather than broad consensus.
 
 4. MISPRICING ASSESSMENT  
-• Evidence suggests a Republican win is more likely than 50%, but polls imply closer to 70% than 82.5%.  
-• No single blow‐out factor (e.g., incumbent crisis) has emerged to justify >80% odds yet.  
-• Traders likely baked in Florida’s GOP lean and Donalds’s strong primary prospects; 82.5% may be the “charitable” consensus given current polling and state history.  
-• No definitive mispricing >20¢ is apparent; the gap between a 70–75% implied by polls and the 82.5% market price is moderate (~7–12.5¢).
+Given single‐digit polling leads and turnout uncertainties, 83.5% seems too high—likely closer to 70–75%. There’s no evidence of overwhelming Republican dominance or an impending qualifying shock. The market likely overstates certainty by ~10–15 cents.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: Moderate—polls are recent and credible, but translating margin to win probability involves modeling assumptions (estimate 60%).  
-• Magnitude of mispricing: ~7.5¢ (difference between poll‐implied ~75% and market 82.5%).  
-• Expected value = 60% × 7.5¢ ≈ 4.5¢
+Strength of evidence (poll‐based gap vs price): 60%  
+Magnitude of mispricing: 15 cents  
+Expected value = 0.60 × 15 cents = 9 cents
 
-EXPECTED_VALUE: 4.5  
-SUMMARY: Current polling and trend evidence indicate a competitive Florida gubernatorial race, implying a Republican win probability closer to ~75% than the market’s 82.5%, but the gap is modest and may reflect Florida’s GOP lean. No clear ≥20¢ mispricing is evident.  
+EXPECTED_VALUE: 9  
+SUMMARY: Florida early-March polls show only a 6–7-point Republican lead, implying a win probability nearer 60–70%, not 83.5%. With zero trading volume and no clear new upside shock, the market likely overstates the GOP’s certainty by about 10–15 cents.  
 CONFIDENCE: medium
 
 ---
@@ -63,30 +50,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: UNF Poll: Single-digit leads for Donalds, Moody in governor, Senate races – Action News Jax
-Author: 
+Title: New FL Gubernatorial Poll: Donalds Up by 6 vs. Jolly, 7 Over Demings – Tallahassee Reports
+Author: Staff
 Published Date: 2026-03-04T00:00:00.000Z
-URL: http://www.actionnewsjax.com/news/local/unf-poll-single-digit-leads-donalds-moody-governor-senate-races/QJA6INWEYJAOTEHRKPGG4UEY2U/
-Summary: The UNF Poll indicates that Republican candidate Byron Donalds currently holds a single-digit lead in the Florida governor race, with approximately 42-43% support compared to Democrat David Jolly's 36%, and a similar margin against Democrat Jerry Demings. Voter concerns are heavily centered on affordability and the cost of living, which may influence election outcomes. While Republicans maintain an advantage, the margins are narrower than in previous cycles, and party affiliation remains the dominant factor shaping voter preferences at this stage. Overall, the poll suggests a competitive race with a leaning toward Republican success, but not a guaranteed victory.
+URL: https://tallahasseereports.com/2026/03/04/new-fl-gubernatorial-poll-donalds-up-by-6-vs-jolly-7-over-demings/
+Summary: A recent poll indicates that Republican candidate Byron Donalds leads potential Democratic opponents—David Jolly by 6 points and Jerry Demings by 7 points—suggesting a favorable outlook for Republicans in the Florida gubernatorial race. The survey shows Republicans currently hold a voter advantage, though the margin is narrower than in previous years, reflecting typical midterm dynamics. Overall, the data suggests that Republicans have a strong chance of winning the 2026 Florida governor race, but the outcome will depend on voter turnout and campaign developments as the election approaches.
 
 Title: Poll: Byron Donalds holds 40-point lead in GOP Governor Primary | Florida News | miamitimesonline.com
 Author: Drew Wilson, Florida Politics
 Published Date: 2026-03-02T00:00:00.000Z
 URL: https://www.miamitimesonline.com/news/florida/poll-byron-donalds-holds-40-point-lead-in-gop-governor-primary/article_2bbd88f2-c2a2-4b5e-bf95-b47a1eba1413.html
-Summary: The article reports on a recent poll indicating that Byron Donalds, a Republican candidate, currently holds a significant lead—about 40 points—in the Florida GOP gubernatorial primary. This strong lead suggests Donalds is a frontrunner within the Republican race for governor. While the poll highlights his current advantage, it does not provide information on the overall election outcome or the likelihood of Republicans winning the 2026 Florida governor race. However, Donalds's substantial primary lead could be a positive indicator for Republican prospects in the general election, assuming he maintains support through the campaign.
-
-Title: Do special election results spell doom for Republicans ...
-URL: https://www.nbcdfw.com/news/politics/do-special-election-results-spell-doom-for-republicans-in-2026/3983422/
-Summary: The article discusses recent special election outcomes and their potential implications for future political contests. Notably, Democrat Chasity Verret Martinez won a Louisiana House seat in a district that previously supported Trump by 13 percentage points, and Democrats also gained a Texas Senate district with strong Trump support. These victories suggest a possible shift in voter sentiment favoring Democrats, even in areas historically leaning Republican. While the focus is on local and state-level elections, such trends could signal challenges for Republicans in upcoming races, including the 2026 Florida governor race. The recent success of Democrats in traditionally conservative districts indicates a potential weakening of Republican dominance, which may influence the likelihood of Republicans winning the Florida gubernatorial election in 2026.
+Summary: A recent poll indicates that Byron Donalds is leading the Republican primary for Florida governor, with 44% support among likely GOP voters, significantly ahead of other candidates. Donalds's strong backing among core conservative groups, Fox News viewers, and high-propensity primary voters suggests he is consolidating the Republican base. While this demonstrates his current popularity within the party, it does not directly predict the outcome of the 2026 gubernatorial race. Factors such as future candidate dynamics, campaign developments, and broader political trends will influence whether Republicans can secure the governorship in 2026.
 
 Title: Poll: Byron Donalds leads Jerry Demings, David Jolly in hypothetical Governor's race matchups
 Author: A.G. Gancarski
 Published Date: 2026-03-04T00:00:00.000Z
 URL: https://floridapolitics.com/archives/783191-donalds-jolly-demings-poll/
-Summary: A recent University of North Florida poll indicates that if U.S. Rep. Byron Donalds secures the Republican nomination for Florida governor in 2026, he is likely to win the general election. Donalds leads potential Democratic contenders, including former U.S. Rep. David Jolly (42% to 36%) and Orange County Mayor Jerry Demings (43% to 36%), suggesting strong Republican support. The poll also highlights that independents tend to favor Democrats, but overall, Donalds' lead in the Republican primary and his favorable matchup against Democrats suggest a strong chance for a Republican victory in the 2026 Florida governor's race.
+Summary: A recent University of North Florida poll indicates that if U.S. Rep. Byron Donalds secures the Republican nomination for Florida governor, he is favored to win against potential Democratic candidates, including Jerry Demings and David Jolly. Donalds leads in hypothetical matchups, with strong support among Republican voters—over 80% against either Democrat—and significant backing from Trump supporters. However, he has minimal crossover appeal among Democrats and Black voters, and only about half of White voters support him. The poll suggests that Donalds is a strong contender within the Republican primary, which could position him favorably for the 2026 general election, assuming he secures the nomination.
 
-Title: Sabato's Crystal Ball
-URL: https://centerforpolitics.org/crystalball/
-Summary: Sabato's Crystal Ball provides political analysis and forecasts for upcoming elections, including gubernatorial races like Florida's in 2026. While specific predictions for the Florida governor race are not detailed in the current articles, the site highlights broader trends such as party dominance in states—most states have one-party control over statewide offices—and the competitive landscape of primaries and general elections. Factors influencing the 2026 Florida governor race may include the state's political polarization, recent primary dynamics, and the overall strength of Republican or Democratic candidates. For precise predictions, monitoring ongoing primary developments and statewide political shifts discussed on the site would be essential.
+Title: UNF POLL: Byron Donalds Holds Single-Digit Lead in Governor's Race · The Floridian
+Author: Michael Costeines
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://floridianpress.com/2026/03/unf-poll-byron-donalds-holds-single-digit-lead-in-governors-race/
+Summary: A recent UNF poll indicates that Republican Congressman Byron Donalds currently holds a single-digit lead in the Florida gubernatorial race, with support at 42% compared to Democrat David Jolly's 36%, and similar margins against Jerry Demings. Both Donalds and incumbent Senator Ashley Moody, also a Republican, are leading in their respective races, with endorsements from Donald Trump. The poll suggests that partisanship heavily influences voter preferences at this stage, with Republicans maintaining a clear advantage, though less pronounced than in previous years. Key issues for voters include affordability, political division, and immigration. While these early indicators favor Republican candidates, the outcome remains uncertain, and voter sentiment could shift before the November 2026 election.
+
+Title: Florida 2026 races: GOP holds single-digit leads in new poll
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.yahoo.com/news/articles/florida-2026-races-gop-holds-100859051.html
+Summary: A recent poll indicates that Republicans currently hold a modest lead in Florida's 2026 governor's race, with GOP candidate Byron Donalds leading Democratic contender David Jolly by six percentage points (42%–36%) among likely voters. Donalds, endorsed by former President Trump, also leads other Republican contenders in the primary. While the GOP maintains a partisan advantage in voter registration—about 1.5 million more registered Republicans than Democrats—the race remains competitive, with a significant portion of undecided voters. Overall, the Republican advantage is evident but not decisive at this stage, suggesting the outcome will depend on future campaign developments and voter turnout.
 
 

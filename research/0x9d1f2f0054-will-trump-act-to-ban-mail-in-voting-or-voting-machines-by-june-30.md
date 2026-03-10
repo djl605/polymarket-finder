@@ -1,51 +1,54 @@
 # Research: Will Trump act to ban mail-in voting or voting machines by June 30?
 
 **Market ID:** 0x9d1f2f0054e31e702ab533a0f6ab859c7640523eb0ded5454c393938331fe054
-**Researched At:** March 6, 2026 at 04:18:12 AM UTC
+**Researched At:** March 10, 2026 at 03:03:05 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump act to ban mail-in voting or voting machines by June 30?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 10.5¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Recent credible reports show no actual ban proposal or executive action, and significant legal obstacles make a ban improbable by June 30, so the 65% market price appears ~15¢ too high.
+Despite speculation about draft orders and Trump’s rhetoric, constitutional barriers and lack of a formal EO by March 2026 suggest the 59% probability roughly reflects genuine uncertainty, with no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether by June 30, 2026, President Trump signs any federal legislation or issues any executive action that restricts, limits, or prohibits mail-in voting or voting machines for use in the 2026 midterms. “YES” requires at least one such binding federal step; “NO” if none occurs by the deadline.
+The market asks whether Trump will, by June 30, 2026, sign any federal legislation or issue any executive action that restricts or bans mail-in voting or voting machines for the 2026 midterms. A “Yes” requires at least an attempted federal move—legislation or an EO—regardless of subsequent judicial blocking. A “No” means no such federal action is taken by that deadline.
 
 2. EVIDENCE EVALUATION  
-Bearish evidence (against a YES):  
-• Votebeat (Mar 2): Trump’s SAVE America Act proposal does not ban mail ballots or machines; it merely adds voter ID and proof-of-citizenship requirements.  
-• Gov. Lujan Grisham (Facebook): Presidents lack constitutional authority to unilaterally change voting methods—any executive order blocking mail-in or machines would be swiftly litigated.  
-• Brennan Center (2026): Even with Trump’s proven willingness to pressure elections, election rules are set by Congress and states, and major legal roadblocks remain.  
-
-Bullish evidence (for a YES):  
-• Fox Baltimore & Brennan Center: Ongoing debates over the MEGA and SAVE Acts show election-security legislation remains live, and Trump could press Congress or use executive powers to impose restrictions.  
-• Executive-powers analysis (Bob Bauer): Trump has signaled willingness to push the envelope with strong unilateral actions in crisis contexts, implying a possible but untested route to restrict voting processes.  
-
-All sources are recent (late Feb–Mar 2026) and generally credible. However, none report an imminent ban or machine prohibition—only proposals and legal uncertainties.
+Bullish evidence (supports >59%):  
+• Public commitment on August 18, 2025 to eliminate mail-ins and machines.  
+• Reports of a draft executive order circulating among pro-Trump activists and alleged WH coordination (Yahoo, AOL).  
+• Trump’s rhetoric about “nationalizing” voting and seizing machines (Guardian, AOL).  
+Bearish evidence (supports <59%):  
+• Constitutional experts uniformly: president lacks authority to unilaterally rewrite election rules—states control elections.  
+• Strong institutional and legal opposition; any EO would be swiftly challenged and is unlikely to see the light of day.  
+• No public release of any formal draft or indication of an imminent signing by June 30.  
+Source credibility: Yahoo, Guardian, AOL are mainstream outlets; their legal analyses are recent (Feb 27, 2026). No evidence of a signed EO as of March 10, 2026.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 65% price could reflect traders assigning significant odds to a last-minute legislative push (e.g., GOP majorities) or an emergency executive order that would at least partly restrict mail ballots. But the low volume (under $2K) and tight spread suggest few participants; it may reflect one or two over-confident bettors rather than broad institutional conviction.
+• A 59% price could reflect traders weighting Trump’s willingness to sign an order even if doomed in court (~50/50).  
+• Low $2.3k volume suggests limited liquidity; price may be set by a few confident participants rather than broad consensus.  
+• The narrow spread implies traders aren’t rushing to correct a glaring misprice, potentially because there’s genuine uncertainty.
 
 4. MISPRICING ASSESSMENT  
-Given the substantial constitutional and legislative barriers and the absence of any draft legislation or executive order that even approaches a ban, a >65% probability seems too high. A more balanced assessment would be <50%. There’s no strong sign of an impending qualifying action, but traders may be over-weighting Trump’s past maximalism. I see about a 15¢ overpricing.
+• There’s no concrete sign the action is scheduled or inevitable; legal and political headwinds are strong.  
+• On the other hand, Trump’s public commitment plus activist drafting signals a material chance he’ll sign an order he knows is unconstitutional.  
+• The market seems to split the difference. No missing blockbuster information—just the usual mix of speculation vs. legal reality.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 70%  
-Magnitude of mispricing: 15¢  
-Expected value = 0.70 × 15¢ = 10.5¢
+Strength of evidence for mispricing: 30% (there is only mild evidence it’s over-priced)  
+Magnitude of mispricing: 5 cents (if it is wrong, it’s unlikely by more than a few ticks)  
+Expected value = 30% × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 10.5  
-SUMMARY: Recent credible reports show no actual ban proposal or executive action, and significant legal obstacles make a ban improbable by June 30, so the 65% market price appears ~15¢ too high.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.5  
+SUMMARY: Despite speculation about draft orders and Trump’s rhetoric, constitutional barriers and lack of a formal EO by March 2026 suggest the 59% probability roughly reflects genuine uncertainty, with no clear mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -53,29 +56,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Republicans’ bill to overhaul elections doesn’t ban mail ballots like Trump suggests it would - Votebeat
-Author: By  Carrie Levine  |  February 27, 2026, 10:01pm UTC    Updated:  March 2, 2026, 10:00am UTC
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://votebeat.org/2026/02/27/save-america-act-trump-state-of-the-union-congress-elections-mail-ballots/
-Summary: The article clarifies that President Trump’s recent legislative proposal, the SAVE America Act, does not include a ban on mail-in ballots as he has previously suggested. While Trump has called for restrictions on mail-in voting—specifically limiting it to cases of illness, disability, military service, or travel—the bill itself focuses on election reforms such as voter ID and proof of citizenship, but stops short of banning mail ballots or voting machines. Therefore, based on current legislative proposals and statements, Trump is not expected to act to ban mail-in voting or voting machines by June 30.
-
-Title: No president — of either party — has the authority to seize ...
-URL: https://www.facebook.com/GovMLG/posts/no-president-of-either-party-has-the-authority-to-seize-control-of-the-vote-by-d/1439979257591674/
-Summary: Governor Michelle Lujan Grisham emphasizes that no president, regardless of party, has the constitutional authority to seize control of the vote by declaring an emergency. This underscores the importance of maintaining election integrity and highlights constitutional limits on executive power. While the statement does not directly address actions by Donald Trump regarding mail-in voting or voting machines, it suggests that any attempt to unilaterally alter voting processes—such as banning mail-in ballots or voting machines—would likely be unconstitutional. Given the emphasis on constitutional boundaries, it is unlikely that Trump could legally or legitimately implement such bans by June 30 without facing significant legal and political challenges.
-
-Title: Fact Check Team: MEGA Act vs. SAVE Act, the latest push ...
+Title: Opinion - Trump eyeing mail-in ballot, voting machine ban ahead of midterms?
 Author: 
-URL: https://foxbaltimore.com/news/nation-world/fact-check-team-mega-act-vs-save-act-the-latest-push-for-stricter-voting-rules-congress-verification-bill-citizens-republican
-Summary: The article compares two recent legislative efforts—the MEGA Act and the SAVE Act—that aim to impose stricter voting rules in the United States. While it does not specifically address actions by Donald Trump, the context suggests ongoing debates over election security, voter ID requirements, and the integrity of voting processes. These discussions are part of broader efforts by some political figures and lawmakers to influence voting procedures, including potential restrictions on mail-in voting and voting machines. Given the emphasis on election security and voting law reforms, it is plausible that if such legislation gains traction, actions like banning mail-in voting or voting machines could be considered or proposed by political leaders, including Trump, before the June 30 deadline.
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.yahoo.com/news/articles/opinion-trump-eyeing-mail-ballot-174131881.html
+Summary: The article discusses a draft executive order circulating among pro-Trump activists, allegedly coordinated with the White House, that aims to declare a national emergency over the 2020 election, citing Chinese interference. This order would grant the president authority to ban mail-in ballots and voting machines, citing vulnerabilities to foreign interference. However, U.S. intelligence in 2021 found no evidence that foreign interference affected the 2020 election outcome, and constitutional law clearly assigns election rules to states, not the president. Experts emphasize that the president lacks constitutional authority to unilaterally change election procedures. Given these legal and factual constraints, there is no indication that Trump will take executive action to ban mail-in voting or voting machines by June 30.
 
-Title: The Trump Administration's Campaign to Undermine ...
-Author: 9467
-URL: https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election
-Summary: The Brennan Center's report details how the Trump administration has engaged in an unprecedented and concerted effort to undermine U.S. election integrity, particularly since 2020. This includes attempts to rewrite election rules, threaten election officials, and support efforts that weaken election administration. Historically, Trump has shown willingness to challenge election results and use federal power to influence outcomes, though internal checks previously limited such actions. Given this pattern and the administration's ongoing efforts to undermine voting processes, there is concern that Trump or his allies could pursue measures—such as banning mail-in voting or voting machines—before the 2026 midterms. However, such actions would face significant legal and constitutional hurdles, as election rules are primarily set by Congress and states.
+Title: Will Trump try to seize voting machines to disrupt the midterm elections? | US midterm elections 2026 | The Guardian
+Author: George Chidi
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.theguardian.com/us-news/2026/feb/27/trump-voting-machines-midterm-election
+Summary: The article discusses recent actions and statements by Donald Trump related to election processes, including calls for the federal government to take control of voting in multiple locations and investigations into voting machines in Puerto Rico. Trump has suggested the possibility of "nationalizing" voting, which could lead to federal seizure or restrictions on voting machines, potentially disrupting the 2026 midterm elections. These moves, combined with efforts to gerrymander districts and challenge voting laws, indicate a pattern aimed at influencing election outcomes and possibly undermining voting methods like mail-in ballots and electronic voting systems. While there is no explicit mention of a specific ban on mail-in voting or voting machines by June 30, the context suggests that Trump’s actions and rhetoric could be aimed at exerting control over voting infrastructure, raising concerns about potential restrictions or disruptions in the near future.
 
-Title: What Happens if Trump Invokes the Insurrection Act?
-Author: Bob Bauer
-URL: https://www.execfunctions.org/p/what-happens-if-trump-invokes-the
-Summary: The webpage discusses the potential implications of President Trump invoking the Insurrection Act, focusing on constitutional questions, presidential discretion, and legal risks associated with deploying troops domestically amid unrest. It examines the broad language of the Act, the uncertain scope of presidential authority, and the political consequences, especially in the context of upcoming elections. While it does not specifically address actions to ban mail-in voting or voting machines by June 30, the analysis highlights the president’s willingness to use executive powers in crisis situations, suggesting that if Trump perceives threats to electoral processes, he might consider aggressive measures. However, the primary focus remains on military and law enforcement deployment rather than specific voting procedures.
+Title: Opinion - Trump eyeing mail-in ballot, voting machine ban ahead of midterms? - AOL
+Author: AOL
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.aol.com/articles/opinion-trump-eyeing-mail-ballot-174131316.html
+Summary: The article indicates that there are circulating drafts of a potential executive order urging President Trump to declare a national emergency over the 2020 election, citing alleged foreign interference, with the aim of banning mail-in ballots and voting machines. However, credible evidence does not support claims of foreign interference affecting the 2020 outcome, and constitutional law clearly assigns election rules to states, not the president. Experts emphasize that any attempt by Trump to unilaterally change election procedures would be unconstitutional and likely struck down by courts. Additionally, current political and legal contexts show strong opposition to federal overreach in election administration, and there is no indication that Trump has formally committed to such actions by June 30.
+
+Title: Will Trump try to seize voting machines to disrupt the midterm elections? - AOL
+Author: AOL
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.aol.co.uk/articles/trump-try-seize-voting-machines-120017261.html
+Summary: The article discusses recent actions and statements by Donald Trump related to election processes, including calls for the federal government to take control of voting in certain areas and investigations into voting machines in Puerto Rico. Trump has suggested that Republicans should "take over" voting in multiple locations and has expressed interest in "nationalizing" voting procedures. These remarks, along with FBI actions and Department of Justice efforts to access voter data, indicate a potential move toward federal intervention in voting systems. However, there is no specific indication that Trump plans to ban mail-in voting or voting machines by June 30. The focus appears to be on increasing federal oversight and possibly seizing voting equipment, which could disrupt election procedures but does not explicitly include banning mail-in ballots or voting machines at this time.
+
+Title: Trump eyeing mail-in ballot, voting machine ban ahead of midterms? - Worldnews.com
+Author: system
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://article.wn.com/view/2026/02/27/Trump_eyeing_mailin_ballot_voting_machine_ban_ahead_of_midte/
+Summary: The article discusses concerns that former President Donald Trump may seek to implement measures ahead of the midterm elections, specifically targeting mail-in ballots and voting machines. Critics argue that such actions could be viewed as executive overreach rather than genuine election security efforts. While the article does not confirm specific plans or a timeline, the focus on Trump's potential intentions suggests that there is speculation about whether he might attempt to ban mail-in voting or voting machines before June 30. Given the context, it is uncertain if Trump will act by that date, but the discussion indicates that such possibilities are being considered or anticipated.
 
 

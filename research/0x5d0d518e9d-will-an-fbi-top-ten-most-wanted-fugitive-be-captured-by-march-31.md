@@ -1,51 +1,56 @@
 # Research: Will an FBI top ten most wanted fugitive be captured by March 31?
 
 **Market ID:** 0x5d0d518e9d8b49595b5fb28b024d96b78e9ff0a8aecc8c2ef3dd404e4ae58952
-**Researched At:** March 4, 2026 at 02:47:40 PM UTC
+**Researched At:** March 10, 2026 at 03:03:04 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will an FBI top ten most wanted fugitive be captured by March 31?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 0.6¢
 
 ### Summary
 
-No direct captures of current FBI Top Ten fugitives are documented in the research, and historical capture rates align with a ~35% chance by quarter-end; thus the 36.5% price appears reasonable with only minor potential error.
+Publicly available intelligence shows intensified efforts (e.g., increased reward for a Mexican-based fugitive) but no imminent operations targeting Top Ten suspects; historical capture rates don’t imply a 3-week spike above ~16%. No credible evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether at least one individual who is on the FBI’s Ten Most Wanted list at the time of capture will be taken into U.S. law enforcement custody by March 31, 2026, 11:59 PM ET. “Yes” requires a new arrest/extradition/formal surrender of one of the current top ten; otherwise, it resolves “No.”  
+The market asks whether any individual who is on the FBI Ten Most Wanted list at the time of capture will be taken into U.S. law enforcement custody by March 31, 2026. A “Yes” resolution requires at least one such capture between now (March 10) and March 31, 11:59 PM ET; otherwise it resolves “No.”
 
 2. EVIDENCE EVALUATION  
-Bullish (supports capture, raising probability)  
-• U.S. Marshals press releases (Feb 3, Feb 10) document successful long-term fugitive arrests, highlighting strong interagency coordination, public tips, and persistence. While these are not Top Ten FBI captures, they demonstrate capability and momentum in fugitive apprehension. (High credibility; official sources, Feb 2026.)  
-• Daily Mail report (Mar 2026) describes a major investigative breakthrough on one Top Ten target, indicating active leads and resource allocation that could plausibly yield an arrest before March 31. (Lower credibility; undated specifics, but suggests heightened law-enforcement focus.)  
+Bullish signals (suggesting price may be too low):  
+• Treasury sanctions press release (2025-11-19) shows intensified U.S.-Mexican cooperation and a $15 M reward for Ryan Wedding, a current Top Ten fugitive. That elevated focus could accelerate an arrest in the remaining three weeks.  
+• Historical program success (Paul Davis, 2026-02-12): 488 of 523 Top Ten fugitives eventually captured, with modern outreach tools actively employed.  
 
-Bearish (argues capture remains unlikely, justifying a lower price)  
-• None of the documented arrests in research are of current FBI Top Ten fugitives—most involve other wanted lists or lower-tier fugitives—so there’s no direct evidence of an imminent Top Ten capture.  
-• Top Ten fugitives are typically shielded by organized networks; breakthroughs may not translate into a confirmed arrest within a ~4-week window.  
+Bearish signals (supporting low probability):  
+• No documented Top Ten captures since January/February 2026 despite recent high-profile captures in other fugitive categories.  
+• Most research examples (Marshals captures, RICO convict) involve non–Top Ten fugitives or long-term operations; they don’t indicate imminent Top Ten captures.  
+• Even with high eventual capture rates, the time distribution is skewed: many remain at large for months or years. No evidence suggests an unusually short capture window here.  
+
+All sources are official government releases or reputable crime analysts, dated within the past 4–5 months. None provide a near-term capture timeline.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 36.5% price implies roughly one Top Ten arrest every three quarters of this type of period. Historical average of 3–4 Top Ten captures per year (~25–33% probability per quarter) is in line with the current price.  
-• Low volume means the price may reflect views of a few traders, but those traders likely know historical capture rates and recent law-enforcement announcements. The absence of heavy arbitrage suggests no glaring arbitrage opportunity.  
+A 16% probability can be justified by:  
+• Low baseline rate of Top Ten captures in a narrow three-week window.  
+• Risk premiums reflecting uncertainty about the most elusive fugitives.  
+• Limited new actionable intelligence beyond Wedding’s reward increase.  
+
+Low volume likely reflects general lack of actionable information rather than consensus: informed traders may avoid the market given scant publicly available leads on specific Top Ten targets.  
 
 4. MISPRICING ASSESSMENT  
-• No specific missing evidence: all known public breakthroughs and law-enforcement successes appear to be already reflected in traders’ priors.  
-• Given historical Top Ten capture frequency and recent investigative activity, 36.5% is a plausible consensus estimate.  
-• No clear >20 cent mispricing emerges; any error is small and within normal model uncertainty.  
+There is no clear signal that 16% is materially off. The intensified Mexican cooperation and higher reward slightly boost short-term odds, but absent any known imminent sting or public tip, a sub-20% probability seems reasonable. I see no >20 ¢ mispricing, nor reliable evidence of a larger error.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that mispricing exists: ~20% (weak, indirect signals only)  
-• Magnitude of potential mispricing: ~5 cents  
-• Expected value = 0.20 × 5 cents = 1 cent  
+Strength of evidence for mispricing: 20% (small indication from Wedding’s reward)  
+Magnitude of mispricing: 3 cents (16%→19% potential upside)  
+Expected value = 0.2 × 3 ¢ = 0.6 ¢  
 
-EXPECTED_VALUE: 1  
-SUMMARY: No direct captures of current FBI Top Ten fugitives are documented in the research, and historical capture rates align with a ~35% chance by quarter-end; thus the 36.5% price appears reasonable with only minor potential error.  
-CONFIDENCE: low
+EXPECTED_VALUE: 0.6  
+SUMMARY: Publicly available intelligence shows intensified efforts (e.g., increased reward for a Mexican-based fugitive) but no imminent operations targeting Top Ten suspects; historical capture rates don’t imply a 3-week spike above ~16%. No credible evidence of a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -53,31 +58,35 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Huge breakthrough in hunt for Olympic star on top 10 most ...
-Author: Daniel Matthews
-URL: https://www.dailymail.co.uk/sport/othersports/article-15303815/fbi-ryan-wedding-arrest-montreal-cartel.html
-Summary: The article discusses a significant breakthrough in the search for an individual listed on the FBI's Top 10 Most Wanted. It details the ongoing efforts to locate and apprehend the fugitive, highlighting recent developments, investigative strategies, and law enforcement actions. While specific timelines are not provided, the report underscores the increased focus and resources dedicated to capturing this individual. Given the context, the information suggests that law enforcement is actively pursuing leads that could potentially lead to the fugitive's capture before March 31, though no definitive prediction is made.
+Title: Treasury Sanctions Former Canadian Olympian and Notorious ...
+Published Date: 2025-11-19T00:00:00.000Z
+URL: https://home.treasury.gov/news/press-releases/sb0320
+Summary: The U.S. Department of the Treasury has sanctioned Ryan Wedding, a former Canadian Olympic snowboarder and FBI Top Ten Most Wanted fugitive, who is actively involved in drug trafficking, murder, and other criminal activities while hiding in Mexico. Authorities are working with the FBI, Department of Justice, and Mexican financial intelligence to dismantle his network and facilitate his capture. The U.S. State Department has increased the reward for information leading to his arrest from $10 million to $15 million. Given ongoing international cooperation and intensified efforts, there is a possibility of his apprehension before March 31, but no definitive timeline is provided.
 
 Title: U.S. Marshals Capture Most Wanted Sex Offender After 15 Years on the Run | U.S. Marshals Service
 Author: Roya Rateshtari
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.usmarshals.gov/news/press-release/us-marshals-capture-most-wanted-sex-offender-after-15-years-run
-Summary: The U.S. Marshals recently captured Dennis Nagle, a sex offender on their most wanted list, after 15 years on the run, demonstrating their persistent efforts and success in apprehending long-term fugitives. Nagle's case involved extensive investigation across multiple states, tips from the public, and coordinated law enforcement actions, ultimately leading to his arrest in West Virginia. This case highlights the U.S. Marshals' capability and ongoing commitment to locating and capturing dangerous fugitives, including those on the most wanted list. Given their track record of successfully apprehending long-term and high-priority targets, it suggests a strong likelihood that other high-profile fugitives, such as FBI Top Ten Most Wanted individuals, could also be captured before March 31, especially with continued investigative efforts and public cooperation.
+Summary: The U.S. Marshals Service successfully captured Dennis Nagle, a sex offender on the run for 15 years, demonstrating their persistent efforts in apprehending long-term fugitives. Nagle, convicted of attempted gross sexual imposition involving a minor, was located after extensive investigation spanning multiple states, including Pennsylvania, Tennessee, Florida, and West Virginia. He was arrested in Wheeling, WV, after providing a false name but eventually confessing his identity. Nagle is now in custody awaiting extradition to Ohio, with federal charges potentially under the Adam Walsh Act. This case exemplifies the U.S. Marshals' commitment and effectiveness in tracking and capturing long-standing fugitives, including sex offenders. While this success highlights the Marshals' capabilities, it does not directly predict whether an FBI Top Ten Most Wanted fugitive will be captured by March 31.
 
-Title: Man on FBI’s wanted fugitive list arrested in Alaska
-Author: Lars Hanson
-Published Date: 2026-02-07T00:00:00.000Z
-URL: http://www.alaskasnewssource.com/2026/02/07/man-fbi-most-wanted-list-arrested-alaska/
-Summary: The FBI successfully arrested Esthepen Delossantos Pebenito, a fugitive wanted for methamphetamine distribution in Anchorage, Alaska. Pebenito, also known as “Pepe” or “Stephen Pebenito,” was taken into custody on December 30, 2025, after being sought since July 2021. His arrest resulted from public tips and investigative efforts by the FBI, Anchorage Police, and Alaska State Troopers. Pebenito was listed on the FBI’s wanted fugitive list, with a $10,000 reward offered for information leading to his capture. He was described as armed, dangerous, and an escape risk, with ties to Hawaii, California, Nevada, and the Philippines. This successful apprehension suggests that high-profile fugitives like those on the FBI’s Top Ten Most Wanted list can be located and captured within a few months to years, depending on investigative resources and public cooperation.
+Title: FBI captures escaped Arizona RICO convict in Texas | FOX 4 Dallas-Fort Worth
+Author: Mack Shaw
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.fox4news.com/news/rico-convict-captured-texas-after-fleeing-arizona-halfway-house-fbi
+Summary: The article reports that Rene Gonzales Jr., a convicted RICO conspirator who escaped from a Tucson halfway house on February 18, was captured in Bryan, Texas, two days later through a multi-agency effort involving the FBI Houston, U.S. Marshals, and other law enforcement teams. Gonzales now faces additional federal charges related to his escape. While the specific details of his original conviction are not disclosed, his successful capture demonstrates effective inter-agency cooperation. Given this context, the likelihood of capturing other high-profile fugitives, such as those on the FBI's Top Ten Most Wanted list, depends on similar collaborative efforts and resource allocation. However, without specific information on the fugitive's circumstances or law enforcement actions targeting him, it is difficult to definitively predict whether such a fugitive will be captured by March 31.
 
-Title: Federal officials have announced that ...
-URL: https://www.facebook.com/ktla5/posts/federal-officials-have-announced-that-ten-people-were-arrested-meaning-11-total-/1440836070965672/
-Summary: The webpage does not contain specific information about an FBI Top Ten Most Wanted fugitive or any predictions regarding their capture by March 31. It primarily shows a Facebook page with a temporary block message and links to various Facebook features. Therefore, there is no relevant content to inform or predict whether an FBI fugitive will be captured by that date.
-
-Title: Ohio Fugitive on the Run for 18 Years Captured in Florida | U.S. Marshals Service
+Title: U.S. Marshals Fugitive Task Force Arrests Idaho Fugitive Charged with Aggravated Lewd Conduct with a Minor | U.S. Marshals Service
 Author: Roya Rateshtari
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.usmarshals.gov/news/press-release/ohio-fugitive-run-18-years-captured-florida
-Summary: The U.S. Marshals Service recently captured Craig Scanlon, an 18-year fugitive who was convicted of mail fraud, interstate transporting of stolen property, and money laundering in 2001. After serving 46 months in federal prison and being placed on supervised release, Scanlon went on the run in 2007 and was believed to be living in Miami Beach, Florida, working as a personal trainer and hotel manager. Investigators tracked him down through coordinated efforts in Ohio and Florida, leading to his arrest in Miami after he provided a false name. This case exemplifies the Marshals' persistent efforts and success in apprehending long-term fugitives, suggesting that even highly elusive individuals can be captured with dedicated investigation. While this specific case does not directly predict the capture of an FBI Top Ten Most Wanted fugitive by March 31, it demonstrates the effectiveness of law enforcement agencies in locating and apprehending fugitives over extended periods.
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://www.usmarshals.gov/news/press-release/us-marshals-fugitive-task-force-arrests-idaho-fugitive-charged-aggravated-lewd
+Summary: The U.S. Marshals Service successfully arrested Christian Harrison Evensizer, a fugitive charged with aggravated lewd conduct with a minor under 12, in Spokane, Washington, through a coordinated multi-agency effort involving federal, state, and local law enforcement. The operation highlights the Marshals' commitment to apprehending violent offenders and their collaboration with agencies like the FBI, Idaho Department of Corrections, and local police. While this case demonstrates effective law enforcement action against dangerous fugitives, there is no specific information regarding the capture prospects of FBI Top Ten Most Wanted fugitives by March 31.
+
+Title: Paul Davis On Crime: FBI Top Ten Most Wanted Wanted Fugitive List Turns 70
+Author: Posted by
+ 
+ Paul Davis
+Published Date: 2026-02-12T00:00:00.000Z
+URL: http://www.pauldavisoncrime.com/2020/03/fbi-top-ten-most-wanted-wanted-fugitive.html
+Summary: The FBI's Top Ten Most Wanted Fugitives list, established in 1950, has historically been an effective tool for capturing dangerous criminals, with 488 of the 523 fugitives listed being apprehended, including 162 through public assistance. The list has evolved over time to reflect current criminal threats, focusing now on the most violent offenders involved in homicides, armed robberies, gang activity, and mass shootings. The FBI employs a mix of traditional and modern outreach methods—such as press releases, posters, social media, and mobile apps—to solicit public help in capturing these fugitives. Given the program's long-standing success and active public engagement strategies, there is a strong likelihood that some of the current fugitives could be captured by March 31, though specific predictions depend on individual cases and ongoing investigations.
 
 

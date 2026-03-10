@@ -1,7 +1,7 @@
 # Research: Will Ben McAdams be the Democratic nominee for UT-01?
 
 **Market ID:** 0x89c32a0f93d0fb5b46225e4ac76f3e00a8614f55e6aa365e0152d5ee92722a81
-**Researched At:** March 3, 2026 at 04:24:27 AM UTC
+**Researched At:** March 10, 2026 at 03:02:04 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Ben McAdams be the Democratic nominee for UT-01?"
 
 ---
@@ -9,41 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-McAdams’s strong fundraising and first-in-ballot qualification support a solid baseline chance, while a crowded progressive field injects real uncertainty. The 37% market price reasonably balances these factors, with no clear sign of a large mispricing.
+McAdams’s early ballot qualification and fundraising edge support him as a leading contender, but a still-crowded Democratic primary with strong challengers justifies a roughly 45% probability. There’s no clear, unpriced information indicating a substantial mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Ben McAdams will win the June 23, 2026 Democratic primary for Utah’s 1st Congressional District (UT-01) and thus become the nominee. YES requires McAdams to outperform all Democratic challengers on primary day; NO covers any other candidate, or no nominee by November 3.
+The market asks whether Ben McAdams will win the June 23, 2026 Democratic primary for Utah’s new 1st District. A YES resolution requires McAdams to be officially nominated; any other nominee or no nominee by November 3 resolves NO.
 
 2. EVIDENCE EVALUATION  
 Bullish evidence:  
-• McAdams is the first Democrat to qualify for the ballot, demonstrating superior organization (Deseret News, 2/12/26).  
-• He has a fundraising edge—nearly \$1 M Q1 receipts and \$764 K cash on hand—typical of front-runners.  
-• His résumé (U.S. Rep. 2019–21; Salt Lake County Mayor) gives name ID and moderate appeal in Salt Lake County, now consolidated into a safe-D district.  
+• Two February 2026 reports (Deseret News; Utah Political Watch) confirm McAdams is the first Democrat to qualify for the UT-01 ballot, has over 7,000 signatures, and commands a near \$1 million fundraising advantage with \$764K cash on hand.  
+• The district’s redrawing created a strong Democratic lean, bolstering his odds given name recognition from prior Salt Lake County mayoral and congressional service.
+
 Bearish evidence:  
-• Eight Democrats are running; multiple progressive challengers could split the vote (Gov. Cox, 2025).  
-• Qualification doesn’t guarantee victory; primary electorates can favor different profiles.  
-• No single challenger data—uncertainty remains.  
-All sources are recent (Feb ’26) and credible (major news outlets, official quotes). No glaring “hidden” information seems omitted; obvious fundraising and incumbency advantages are likely already priced in.
+• City Weekly (Feb 2026) notes a competitive Democratic primary with challengers like state Sen. Nate Blouin, and that outcome hinges on voter registration shifts and candidate appeal—factors still in flux.  
+• Wikipedia lacks any formal campaign announcement, suggesting McAdams may not have fully entrenched himself against challengers.
+
+Source credibility: Deseret News and Utah Political Watch are reputable local outlets; City Weekly is less formal but adds useful context; Wikipedia is outdated on candidacy status.
 
 3. MARKET EFFICIENCY ANALYSIS  
-The narrow bid-ask spread despite low \$4.4 K volume suggests either a small group of informed traders or a rough consensus. The price (37%) plausibly reflects McAdams’s frontrunner status tempered by a crowded progressive primary field. Low volume likely reflects limited trader interest rather than a clear mispricing.
+A 45% price plausibly reflects McAdams’s fundraising and organizational edge balanced against an unsettled, competitive primary. Low \$0 volume likely indicates limited attention rather than a consensus inefficiency—most informed traders have likely accounted for his strengths and the contested field.
 
 4. MISPRICING ASSESSMENT  
-There is balanced evidence on both sides, with no indicator of a large oversight. The market’s 37% seems to capture both his organizational edge and the risk from multiple challengers. No credible evidence supports a >20¢ correction; any mispricing is likely under 5¢.
+There is no clear, unpriced evidence that McAdams’s odds deviate substantially from 45%. His early qualification and resources favor him, but the intensity of a still-evolving primary tempers his probability. No major competing data (e.g., polling, endorsements) appears to be missing from market pricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30% (mixed bullish/bearish, limited challenger info)  
-Magnitude of mispricing: 5¢  
-Expected value = 0.30 × 5¢ = 1.5¢
+Strength of evidence against mispricing ~40% (some uncertainty but no glaring omissions)  
+Magnitude of potential mispricing ~5 cents  
+Expected value ≈ 40% × 5 cents = 2 cents
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: McAdams’s strong fundraising and first-in-ballot qualification support a solid baseline chance, while a crowded progressive field injects real uncertainty. The 37% market price reasonably balances these factors, with no clear sign of a large mispricing.  
+EXPECTED_VALUE: 2  
+SUMMARY: McAdams’s early ballot qualification and fundraising edge support him as a leading contender, but a still-crowded Democratic primary with strong challengers justifies a roughly 45% probability. There’s no clear, unpriced information indicating a substantial mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -56,27 +56,26 @@ Title: Former Rep. Ben McAdams first Democrat to qualify for ballot in Utah’s 
 Author: 
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.deseret.com/politics/2026/02/12/ben-mcadams-qualify-for-ballot/
-Summary: Ben McAdams has become the first Democrat to qualify for the primary ballot in Utah’s newly redrawn 1st Congressional District, securing his spot by gathering over 7,000 signatures. He has a strong fundraising advantage, with nearly $1 million raised in the first quarter and $764,711 cash on hand. McAdams emphasizes his focus on affordability and his record of getting things done, positioning himself as a leading candidate to potentially secure the Democratic nomination in UT-01.
+Summary: Ben McAdams has become the first Democrat to qualify for the primary ballot in Utah’s newly redrawn 1st Congressional District, securing his spot by gathering over 7,000 signatures. He has a strong fundraising advantage, with nearly $1 million raised in the first quarter and $764,711 cash on hand. McAdams emphasizes his focus on affordability and his record of getting things done, positioning himself as a leading candidate in the race to flip Utah’s traditionally Republican seat. His early qualification and financial backing suggest he is a prominent contender for the Democratic nomination in UT-01.
 
 Title: McAdams First to Qualify for Utah’s New 1st District Ballot
 Author: 
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.utahpoliticalwatch.news/democrat-ben-mcadams-first-to-qualify-for-utahs-new-1st-district-ballot-with-signatures/
-Summary: Ben McAdams has become the first candidate to qualify for Utah's new 1st Congressional District ballot by gathering over 7,000 verified signatures, demonstrating strong early support. As one of eight Democratic candidates competing in this district, which covers most of Salt Lake County, his successful qualification indicates a significant campaign effort and potential viability. While this confirms his position as a leading Democratic contender, it does not guarantee he will secure the Democratic nomination for UT-01, as the primary process and competition from other candidates will ultimately determine the nominee.
+Summary: Ben McAdams has become the first candidate to qualify for Utah’s new 1st Congressional District ballot by gathering over 7,000 verified signatures. As a Democrat and former Congressman, his successful qualification indicates strong support within the party and among voters in Salt Lake County, which largely comprises the district. Given his early qualification and established political background, McAdams is a leading contender for the Democratic nomination in UT-01.
 
-Title: Democrats Set to Pick Up House Seat With New Maps in Red State | The New Republic
-Author: Hafiz Rashid
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.newrepublic.com/post/206938/democrats-house-seat-maps-utah
-Summary: The article discusses recent developments in Utah's redistricting process, which could impact the political landscape for the 2026 midterms. A federal court has blocked a Republican-led redistricting plan, allowing a new map to take effect that consolidates Salt Lake County into a single district, primarily benefiting Democrats. This court decision follows years of gerrymandering battles, with Utah's independent redistricting commission and anti-gerrymandering laws playing a role in challenging Republican maps. While the Republican Lieutenant Governor has indicated the final map must be finalized soon, the outcome increases the likelihood of Democrats gaining a congressional seat in Utah. Although the article does not mention Ben McAdams specifically, the overall shift in Utah's redistricting landscape suggests a more favorable environment for Democratic candidates in the state's congressional races, including potentially UT-01.
+Title: Federal judges upheld a strong Democratic district in Utah. Now GOP incumbents must decide where to run – Deseret News
+Author: 
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.deseret.com/politics/2026/02/26/where-will-utah-republicans-run-2026/
+Summary: The article discusses Utah's newly established congressional districts following a legal challenge that upheld a strong Democratic district in northern Salt Lake County. The state's four Republican incumbents are now deciding where to run in 2026, with some shifting their district preferences. Notably, Rep. Blake Moore has begun gathering signatures to run in Utah’s new 2nd District, which overlaps with his current constituency. The article does not mention Ben McAdams or provide specific information about his potential candidacy for UT-01, focusing instead on the broader district realignment and GOP incumbents' strategic decisions.
 
-Title: Ben McAdams - Wikipedia
+Title: Utah's newly-drawn First Congressional District offers Democrats a rar...
+URL: https://www.cityweekly.net/news/utahs-newly-drawn-first-congressional-district-offers-democrats-a-rare-chance-to-fight-on-their-own-terms-0d907736
+Summary: The newly redrawn Utah's First Congressional District has increased opportunities for Democratic candidates, notably including Ben McAdams, who is currently seeking another term. The district's reshaping has sparked a competitive primary among Democrats, with candidates like McAdams and state Sen. Nate Blouin vying for the nomination. The primary race is expected to be intense, and the outcome depends on various factors, including voter registration shifts and candidate appeal. While McAdams is actively campaigning, the district's political dynamics and primary contest will ultimately determine if he secures the Democratic nomination.
+
+Title: Ben McAdams
 URL: https://en.wikipedia.org/wiki/Ben_McAdams
-Summary: Ben McAdams is an American politician and attorney who served as a U.S. Representative for Utah's 4th congressional district from 2019 to 2021. He is a member of the Democratic Party, with prior experience as the Mayor of Salt Lake County (2013-2019) and a Utah State Senator (2009-2012). Born in 1974 in West Bountiful, Utah, McAdams holds degrees from the University of Utah and Columbia University Law School. As of the latest available information, there is no indication that he is running for or has been announced as the Democratic nominee for Utah's 1st congressional district (UT-01).
-
-Title: Utah governor says Utah redistricting order creates 'extreme' district
-Published Date: 2025-11-25T00:00:00.000Z
-URL: https://www.deseret.com/politics/2025/11/25/utah-governor-criticizes-redistricting-ruling-for-making-extreme-districts-with-bad-political-incentives/
-Summary: Utah Governor Spencer Cox criticized the recent court-ordered redistricting that created more partisan congressional districts, including Salt Lake County’s new Democratic-leaning UT-01. Cox highlighted that former Democratic Rep. Ben McAdams, who previously represented a more moderate district, is now competing in UT-01 against multiple progressive candidates. Cox suggested that the new district’s boundaries and the political incentives they create may influence McAdams’s campaign and his prospects of securing the Democratic nomination.
+Summary: Ben McAdams is an American politician and attorney who served as a U.S. Representative for Utah's 4th congressional district from 2019 to 2021. He has a background in law and politics, having served as Mayor of Salt Lake County and as a member of the Utah State Senate. McAdams is affiliated with the Democratic Party. While he has held significant political positions within Utah, there is no current information indicating he is a candidate or has announced plans to run for the Democratic nomination for Utah's 1st congressional district (UT-01).
 
 

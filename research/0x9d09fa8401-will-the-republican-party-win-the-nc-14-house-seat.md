@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the NC-14 House seat?
 
 **Market ID:** 0x9d09fa84011b6c441aee7460381b11934ec5a58f25c589ce703f8b232a3a8d88
-**Researched At:** March 1, 2026 at 06:03:24 AM UTC
+**Researched At:** March 10, 2026 at 03:03:03 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the NC-14 House seat?"
 
 ---
@@ -13,41 +13,42 @@
 
 ### Summary
 
-NC-14’s GOP lean and incumbent Tim Moore’s advantage support an ~85% Republican win probability; no public polling or fundraising data suggests a materially different outlook. Low volume likely reflects consensus on a safe seat rather than a neglected mispricing.
+Primary results and a “solidly Republican” rating robustly support an ~85% chance of a GOP hold; no credible missing data suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether the Republican Party will hold or win the NC-14 U.S. House seat in the November 4, 2026 general election. A “YES” resolution requires that the eventual November winner is affiliated with the Republican Party (ballot designation or caucus intent), while “NO” is any non‐Republican winner.
+– The market asks whether the Republican Party wins the NC-14 U.S. House seat on Nov 4, 2026. YES if the winning candidate is affiliated with or caucuses as a Republican at certification; NO otherwise.  
 
 2. EVIDENCE EVALUATION  
-Evidence suggesting mispricing:  
-- No public polling or fundraising data in the research leaves uncertainty about the general election dynamics, but absence of data is not evidence of a Democrat surge.  
-- Kate Barr’s crossover appeal could undercut traditional GOP turnout, but no indication she or any Democrat is gaining measurable traction.  
+Bullish for Republicans (supports ~84.5%):  
+• Incumbent Advantage: Tim Moore (R) just secured 83% in the Mar 3 primary (NBC, NYT). Incumbency historically boosts general-election win rates in “Solid” districts.  
+• District Lean: Cook Political Report rates NC-14 as “Solidly Republican,” implying win probabilities often north of 80–90%.  
+• Local Vote Patterns: Moore led handily across Burke, Cleveland, Gaston, Mecklenburg (NBC), reinforcing a uniform base.  
 
-Evidence supporting current price:  
-- NC-14 is described as “designed to favor Republicans” and includes suburban/rural areas that historically lean GOP.  
-- Incumbent Tim Moore has name recognition and district service since 2023, a standard advantage.  
-- The Democratic primary is crowded with no clear front-runner, suggesting a weaker general-election challenger.  
+Bearish / Challenging the Price (suggesting price might be too high):  
+• National Midterm Swing: No published general-election polls yet; midterms can see undervaluation of shifting national tides.  
+• Democratic Nominee: Lakesha Womack won her primary with ~52%, but no data on her campaign traction or fundraising—unknown upside.  
 
-Source credibility & recency:  
-All five sources are regional outlets dated mid-February 2026—timely and relevant. None supplies contradictory polling or fundraising numbers that would substantially shift win probabilities.
+Source Credibility & Recency: All cited outlets (NBC, NYT, AP, WCNC) are reputable and data is from early March 2026, directly relevant.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- 84.5% can be justified by district partisanship, incumbency, and lack of Democratic frontrunner.  
-- Low volume likely reflects consensus that the seat is safely Republican rather than neglect by informed traders.  
-- If the outcome were materially closer, we’d expect public polling or local analyses suggesting that, but none appear.
+– A price of 84.5% aligns with a “solidly” Republican district plus incumbent strength.  
+– The zero total volume and tight spread suggest one or few traders set price, but they likely reflected the obvious (primary blowout + Cook rating).  
+– Low volume here likely reflects the race being uncontroversial rather than containing an overlooked angle.  
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence indicates the price is off by more than a few cents. The district’s GOP lean and incumbent advantage likely justify an ~85% win probability. The lack of polling data simply reflects a low-interest—or “obvious”—race rather than a hidden contradiction.  
+– No glaring, credible new information (e.g., scandal, redistricting change, polling shock) is missing from the price.  
+– The long horizon (8+ months) introduces some uncertainty, but nothing in the research implies >20-point swing risk.  
+– Charitably, informed traders have priced in incumbency, district lean, and standard midterm variance.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20% (some uncertainty but no strong contrary signals)  
-Magnitude of mispricing if present: ~5 cents (small deviation)  
-Expected value = 20% × 5c = 1.0c
+– Strength of evidence: 20% (no concrete counter-evidence)  
+– Magnitude of mispricing: 5¢ (max plausible error)  
+– EV = 0.20 × 5¢ = 1.0¢  
 
 EXPECTED_VALUE: 1.0  
-SUMMARY: NC-14’s GOP lean and incumbent Tim Moore’s advantage support an ~85% Republican win probability; no public polling or fundraising data suggests a materially different outlook. Low volume likely reflects consensus on a safe seat rather than a neglected mispricing.  
+SUMMARY: Primary results and a “solidly Republican” rating robustly support an ~85% chance of a GOP hold; no credible missing data suggests a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -56,46 +57,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Voter Guide: U.S. House District 14 candidates | Charlotte Observer
+Title: North Carolina House District 14 Primary Election Live Results 2026 - NBC News
 Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.charlotteobserver.com/news/politics-government/election/voter-guide/article314546391.html
-Summary: The race for the U.S. House District 14 seat in North Carolina features incumbent Republican Tim Moore and party-switching Republican Kate Barr competing in the GOP primary against Democrats Brent Caldwell, LaKesha Womack, and Ahmid Kargbo. The district, which encompasses parts of Charlotte and extends to Gastonia and Morganton, is pivotal for both parties.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-us-house-district-14-results
+Summary: The current primary results indicate that Tim Moore, the incumbent Republican candidate, is projected to win the North Carolina House District 14 primary with approximately 83% of the vote, based on 97.8% of expected votes counted. In county-level results, Moore leads significantly in Burke, Cleveland, Gaston, and Mecklenburg counties. The overall strong showing suggests a solid Republican base in the district. While primary results do not guarantee general election outcomes, Moore's substantial lead and incumbency status suggest the Republican Party is well-positioned to retain the NC-14 House seat in the upcoming general election.
 
-Tim Moore, the incumbent, has the advantage of established recognition and experience in the district. His opponent, Kate Barr, has publicly criticized the district's drawing and is positioning herself as a fresh alternative. The Democratic candidates, particularly Brent Caldwell, emphasize economic issues, advocating for policies like affordable housing, public health insurance, and labor protections, which could resonate with voters concerned about economic inequality.
-
-Given the current political landscape, the Republican Party's chances of retaining the NC-14 seat may hinge on voter sentiment regarding the economy and the effectiveness of Moore's incumbency versus Barr's appeal for change. The outcome could also be influenced by voter turnout and engagement in the Democratic primary, as well as broader national trends affecting Republican candidates.
-
-Title: The Political Beat Candidate Guide: House of Representatives District 14 – WSOC TV
+Title: NC 14th Congressional District race | Rep. Tim Moore faces challengers | wcnc.com
 Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.wsoctv.com/news/local/political-beat-candidate-guide-house-representatives-district-14/KPNQKRHG45FI5PLJUOVLY3X57E/
-Summary: The House of Representatives District 14 in North Carolina, which includes Burke, Cleveland, Gaston, and part of Mecklenburg Counties, is currently represented by Republican Tim Moore, who has held the position since 2023. He is facing a primary challenge from fellow Republican Kate Barr and is up against three Democratic candidates: Brent Caldwell, LaKesha Womack, and Ahmid Kargbo.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.wcnc.com/article/news/politics/north-carolina-politics/nc-14th-congressional-district-race/275-9d9c92b5-6823-46f6-b5b7-b5f25a8a623e
+Summary: The NC-14 Congressional District race saw incumbent Republican Rep. Tim Moore win the primary, securing his position for the 2024 general election. Moore, who has served since 2025 and previously in the NC House, emphasizes fiscal responsibility and support for local economies. His main Republican challenger, Kate Barr, has admitted to being a "fake Republican" and focuses on issues like gerrymandering and fair pay. On the Democratic side, Lakesha Womack emerged as the nominee, advocating for affordable healthcare, small business growth, and public education. Given Moore's established incumbency and campaign focus, combined with the district's political history, the Republican Party appears well-positioned to retain the seat in the upcoming election.
 
-Tim Moore's incumbency may provide him with an advantage, but the presence of a primary challenger could impact his campaign. On the Democratic side, Brent Caldwell has articulated a strong stance on addressing the affordability crisis, advocating for policies like repealing tariffs, increasing the minimum wage, and offering a public option for health insurance. His focus on economic issues and social justice may resonate with voters concerned about these topics.
-
-The political landscape in NC-14 could be influenced by voter sentiment regarding the economy, healthcare, and the effectiveness of incumbents. Additionally, the dynamics of the primary election and the candidates' ability to mobilize their bases will be crucial in predicting whether the Republican Party can retain the seat. Overall, while Moore's incumbency is a factor, the competitive nature of the race and the candidates' platforms will play significant roles in the outcome.
-
-Title: 2026 primary election: North Carolina 14th Congressional District candidates answer questions about top issues
-Author: Alianna Kendall-Brooks  and  Cassidy Johncox
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://wbtv.com/2026/02/17/2026-primary-election-north-carolina-14th-congressional-district-candidates-answer-questions-about-top-issues/?outputType=apps
-Summary: In the 2026 primary election for North Carolina's 14th Congressional District, two Republicans and three Democrats are competing for their party nominations. Key issues highlighted by the Democratic candidates include affordability, healthcare, and democratic reforms. Brent Caldwell emphasizes lowering living costs and restoring democratic institutions, while Ahmid Kargbo focuses on healthcare access and universal systems. LaKesha Womack addresses economic opportunities for working families.
-
-The Republican candidates' positions are not detailed in the provided text, which may affect predictions about the Republican Party's chances in the NC-14 House seat. Voter sentiment on issues like affordability and healthcare, which are critical to the Democratic candidates, could influence the election outcome. Additionally, the district's demographics and political leanings, particularly in parts of Charlotte, will play a significant role in determining the Republican Party's success in securing the seat.
-
-Title: ‘Toss-up': No clear front-runner in GOP race for redrawn Eastern NC district - NewsBreak
-Author: Luciana Perez
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.newsbreak.com/raleigh-news-observer-1592485/4489467316294-toss-up-no-clear-front-runner-in-gop-race-for-redrawn-eastern-nc-district
-Summary: The GOP race for the redrawn NC-1 Congressional District, previously a Democratic stronghold, is currently competitive with no clear front-runner among the five Republican candidates. As early voting begins, political analysts suggest that the divided field may lead to a runoff if no candidate secures at least 30% of the vote. Candidates are actively campaigning across the district's 23 counties, focusing on local issues relevant to diverse voter concerns, such as agriculture in rural areas and coastal issues in coastal counties. The lack of strong name recognition and limited public polling complicates predictions for the primary outcome. The dynamics of this race, including potential endorsements from influential figures like Donald Trump, will be crucial in determining the GOP's chances in the upcoming election for the NC-14 House seat.
-
-Title: Where candidates stand in Charlotte area’s Congress races | Charlotte Observer
+Title: North Carolina 14th Congressional District Primary Election Results 2026 - The New York Times
 Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.charlotteobserver.com/news/politics-government/election/article314593912.html
-Summary: The NC-14 House seat, currently held by Republican Tim Moore, is a focal point in the upcoming 2026 elections. The district is designed to favor Republicans, which could bolster Moore's chances of re-election. However, he faces a unique challenge from Kate Barr, a former Democrat running as a Republican to highlight issues like partisan gerrymandering. Barr's campaign emphasizes progressive policies, including banning gerrymandering, expanding Medicaid, and reforming immigration law, which may attract moderate and independent voters.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: http://mobile.nytimes.com/interactive/2026/us/elections/results-north-carolina-us-house-14-primary.html
+Summary: The recent primary election results for North Carolina's 14th Congressional District indicate a strong position for the Republican candidate, Tim Moore, who secured approximately 83% of the vote and is the incumbent. The district is rated as "Solidly Republican" by The Cook Political Report, suggesting a high likelihood that the Republican Party will retain the seat in the upcoming general election. Moore's substantial lead across counties and voting methods further supports his strong standing. Conversely, the Democratic candidate, Lakesha Womack, won her primary with about 52% of the vote, but the district's Republican-leaning rating and Moore's primary victory suggest the Republican candidate has a significant advantage in the general election.
 
-Moore's platform focuses on reducing costs, inflation, and promoting a pro-growth economic environment, appealing to traditional Republican values. The primary election on March 3 will determine which candidate represents the party in November, making it crucial for both candidates to engage with voters on key issues such as healthcare, immigration, and economic policy. Given the district's Republican lean and the candidates' contrasting approaches, the outcome will depend on voter sentiment regarding these issues and the effectiveness of each candidate's campaign strategy.
+Title: Tracking United States House of Representatives NC District 14 election results for 2026 primary election
+Author: WBTV Web Staff
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.wbtv.com/2026/03/02/tracking-united-states-house-representatives-nc-district-14-election-results-2026-primary-election
+Summary: The webpage provides an overview of the 2026 North Carolina primary elections, specifically focusing on District 14, which includes Burke, Cleveland, Gaston, Rutherford, parts of Mecklenburg, and Polk counties. It details the election process, voting procedures, registration options, early voting, and absentee ballot procedures. While it emphasizes the importance of primary elections in determining candidates for the general election, it does not specify current candidate standings or polling data for the NC-14 House seat. To predict whether the Republican Party will win the NC-14 seat, one would need to consider additional factors such as current polling, candidate profiles, historical voting patterns, and recent political trends in the district.
+
+Title: Tim Moore wins Republican nomination for U.S. House in North Carolina's 14th Congressional District | National | timesargus.com
+Author: AP
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.timesargus.com/news/national/tim-moore-wins-republican-nomination-for-u-s-house-in-north-carolinas-14th-congressional-district/article_a99114c9-86e1-529c-9486-f8fafa81d6cc.html
+Summary: Tim Moore has secured the Republican nomination for the U.S. House in North Carolina's 14th Congressional District. His victory positions him as the Republican candidate in the upcoming election, which could influence the race's outcome depending on factors such as his campaign strength, voter demographics, and the political landscape of the district.
 
 

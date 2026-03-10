@@ -1,7 +1,7 @@
 # Research: Will Jalen Johnson win the 2025–2026 NBA Most Improved Player?
 
 **Market ID:** 0x6202fd324e55228e33dd6c375a960f67938a00a342b7242db9cd8ee3adad348f
-**Researched At:** March 1, 2026 at 02:33:17 PM UTC
+**Researched At:** March 10, 2026 at 03:01:35 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jalen Johnson win the 2025–2026 NBA Most Improved Player?"
 
 ---
@@ -9,46 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.2¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Johnson’s 31.7% MIP probability aligns with multiple recent sportsbook odds and expert analyses; competition and performance trends are already widely understood, suggesting minimal mispricing.
+Recent sportsbook odds have shifted the MIP favorite tag from Johnson to Duren, implying Johnson’s true win probability is near 30%, in line with the market’s 29.8%. There is no credible, unpriced information suggesting a mispricing of more than a few cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks: “Will Jalen Johnson win the 2025–26 NBA Most Improved Player (MIP) award?” It resolves YES if he is officially announced as the MIP winner. It resolves NO if either he is not named a finalist or does not win.
+The market asks whether Jalen Johnson will be named the 2025–26 NBA Most Improved Player (MIP). For a YES, he must be announced as one of the finalists and then win the award; if he isn’t even a finalist, it automatically resolves NO.  
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for Johnson (arguing the 31.7% price might be too low):  
-• Multiple late‐February articles (Dimers 2/24, Yahoo Sports 2/24, NBC Sports 2/25, SI 2/16, BetMGM 2/25) all list Johnson as the current frontrunner or among the top two/three candidates.  
-• His year‐over‐year jumps in points (18.9→23.4), assists (5.0→8.1), rebounds (10.0→10.8), first All-Star nod, and key role in the Hawks’ success mirror historical MIP trends.  
-• Sportsbooks’ implied win probabilities on Johnson range roughly 29–31% (+240 odds ≃29.4%; some books show him just behind Avdija but still in top tier).  
+Bullish for Johnson:  
+• A Mar 5 report notes he earned his first All-Star nod on the back of a massive jump (22.7/10.6/7.9), demonstrating the kind of breakout performance that often wins MIP. (Jim Owczarski, 3/5/26)  
+• A Feb 24 Yahoo article ranked him the frontrunner, pointing to marked increases in all statistical categories and a more central offensive role. (Vaughn Dalzell, 2/24/26)  
 
-Bearish evidence (arguing the price might be too high):  
-• He faces strong competition, especially Deni Avdija (favorite at −120 ≃54% implied by sportsbooks) and Keyonte George. Avdija’s odds in one piece are slightly more favorable than Johnson’s.  
-• Maintaining high volume and avoiding injury/surprise slumps is not guaranteed.  
+Bearish or neutral:  
+• As of Mar 3, sportsbooks shifted, making Jalen Duren the favorite at roughly 57% implied probability—Johnson is now clearly behind him. (Dimers, 3/3/26)  
+• An NBC Sports piece (2/25/26) and the Feb 24 DraftKings line (Johnson at –130 implying ~56.5%) underscore that the odds have bounced back and forth, reflecting uncertainty and competition from Duren and Avdija.  
 
-Source credibility & recency: All sources are within the past two weeks and from mainstream, reputable sports‐betting or analytics outlets. There’s no obvious upside or downside surprise that traders wouldn’t have already priced in.
+Credibility & recency: All sources are from Feb–Mar 2026 and from reputable sports outlets. The most recent sportsbook data have Johnson trailing Duren.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 31.7% market price aligns closely with sportsbook odds (≈29–31%).  
-• Low volume likely reflects that sports bettors prefer traditional sportsbooks; informed traders probably see little edge here.  
-• The narrow bid‐ask spread and consensus across multiple outlets suggest a genuine market consensus rather than one lone overconfident trader.
+A 29.8% price is consistent with a scenario in which Duren commands ~55–60% and Johnson sits around 25–30%. Low volume may simply reflect that the market’s movers consider Duren the likeliest, with Johnson second, rather than any large information gap. The tight spread suggests the few participants who have traded are in agreement.  
 
 4. MISPRICING ASSESSMENT  
-• The market price is consistent with public odds and expert assessments; there’s no credible gap indicating a >5–10 cent mispricing.  
-• Competition from Avdija and the need for Johnson to sustain his pace are already well understood by bettors.  
-• No critical new information (injury, role change, team collapse) appears missing from the price.
+Although early-season lines showed Johnson at ~56%, more recent odds favor Duren, placing Johnson’s implied chance near 30%. There is no strong, unreflected bullish or bearish piece of evidence that would swing his win probability by, say, >20 points. The award is still several months away, and the market appears to mirror the current consensus.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that the price is already efficient: 60%  
-• Estimated magnitude of any mispricing: ~2 cents (market slightly above sportsbook-implied odds but within normal vig differences)  
-• Expected value = 60% × 2¢ = 1.2¢
+Strength of evidence (no clear mispricing): ~30%  
+Magnitude of mispricing (cents): ~5¢ potential overvaluation/undervaluation  
+Expected value = 30% × 5¢ = 1.5¢  
 
-EXPECTED_VALUE: 1.2  
-SUMMARY: Johnson’s 31.7% MIP probability aligns with multiple recent sportsbook odds and expert analyses; competition and performance trends are already widely understood, suggesting minimal mispricing.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Recent sportsbook odds have shifted the MIP favorite tag from Johnson to Duren, implying Johnson’s true win probability is near 30%, in line with the market’s 29.8%. There is no credible, unpriced information suggesting a mispricing of more than a few cents.  
 CONFIDENCE: medium
 
 ---
@@ -57,62 +52,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Latest NBA Most Improved Player odds list Jalen Johnson as favorite [2/24/2026]
-Author: ...
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.dimers.com/news/nba-most-improved-odds-predictions-tuesday-02-24-2026-ac
-Summary: As of February 24, 2026, Jalen Johnson is currently favored to win the NBA Most Improved Player award for the 2025–2026 season. To assess his chances, consider his recent performance trends, statistical improvements, and overall impact on his team's success. Factors such as his scoring average, efficiency ratings, and contributions in key games will be crucial in determining his candidacy. Additionally, monitoring how he compares to other contenders in the league will provide further insight into his likelihood of winning the award. For the latest odds and updates, you can visit the full article at Dimers [here](https://www.dimers.com/news/nba-most-improved-odds).
+Title: Atlanta Hawks' Jalen Johnson returns to Wisconsin as an NBA all-star
+Author: Jim Owczarski
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.jsonline.com/story/sports/nba/bucks/2026/03/05/atlanta-hawks-jalen-johnson-returns-to-wisconsin-as-an-nba-all-star/89003617007/
+Summary: Jalen Johnson, a rising star for the Atlanta Hawks and recent NBA All-Star, has demonstrated significant improvement and leadership in his early career. Averaging 22.7 points, 10.6 rebounds, and 7.9 assists per game, he has shown the ability to impact games at a high level. Johnson's dedication to growth, work ethic, and leadership role—especially after the Hawks traded key players—indicate he is on a trajectory toward continued development. His recognition as an All-Star and his commitment to expanding his game suggest he could be a strong contender for the Most Improved Player award in the 2025–2026 NBA season.
 
 Title: NBA Most Improved Player Award, Pick, Projection, Ranking, Best Bets: Jalen Johnson, Deni Avdija, Jalen Duren - Yahoo Sports
 Author: Vaughn Dalzell Tue, February 24, 2026 at 4:32 PM UTC · 7 min read
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://sports.yahoo.com/articles/nba-most-improved-player-award-163221756.html
-Summary: Jalen Johnson is currently the frontrunner for the NBA Most Improved Player Award, with his odds improving significantly from +240 to -130 following strong performances and the departure of Trae Young from the Atlanta Hawks. Johnson has shown marked improvement across multiple statistical categories, including points per game (increasing from 18.9 to 23.4), assists (from 5.0 to 8.1), and rebounds (from 10.0 to 10.8). His performance places him among elite company in the league, ranking 21st in points, 7th in rebounds, and 5th in assists.
+Summary: The article highlights Jalen Johnson as the current frontrunner for the NBA Most Improved Player award, with recent strong performances and increased statistical contributions boosting his chances. Johnson has improved across multiple categories—points, assists, rebounds, and shooting percentages—and benefits from a more prominent role in Atlanta's offense following Trae Young's departure. His recent surge has moved his odds to become the favorite for this season's award. While this information pertains to the current season, it suggests that Johnson's trajectory and performance consistency could be indicators to watch for in predicting his potential to win the 2025–2026 NBA Most Improved Player award, assuming similar development and circumstances persist.
 
-In contrast, Jalen Duren of the Detroit Pistons has also seen his odds shift positively, moving from +5000 to +500, but his overall statistical improvement has been less pronounced compared to Johnson. Duren's scoring has increased, but his usage rate and rebounding percentage have decreased.
-
-Given Johnson's current trajectory and significant improvements, he is a strong candidate for the 2025–2026 NBA Most Improved Player Award. His ability to maintain and build on his performance will be crucial in determining his chances for the award in the upcoming season.
+Title: New NBA Most Improved Player odds show Jalen Duren as favorite [3/3/2026]
+Author: ...
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.dimers.com/news/nba-most-improved-odds-predictions-tuesday-03-03-2026-ac
+Summary: As of March 3, 2026, Jalen Duren is the current favorite to win the NBA Most Improved Player award for the 2025–2026 season, with the best odds at -135, indicating a roughly 57.4% implied chance of victory. The article highlights Duren's leading position in the betting market, based on odds sourced from major sportsbooks, and notes that he is ahead of other notable contenders like Jalen Johnson and Deni Avdija. While the summary emphasizes Duren's strong favoritism, it does not provide specific information about Jalen Johnson's prospects or odds, so predicting Johnson's chances would require additional data beyond the current betting landscape.
 
 Title: Jalen Johnson, Jalen Duren viable picks for NBA Most Improved Player Award - NBC Sports
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.nbcsports.com/watch/nba/jalen-johnson-jalen-duren-viable-picks-for-nba-most-improved-player-award
-Summary: The article discusses Jalen Johnson and Jalen Duren as strong candidates for the NBA Most Improved Player Award for the 2025-2026 season. It highlights Johnson's recent performance improvements, including increased scoring, rebounding, and overall contributions to his team. Analysts note his development in key areas such as shooting efficiency and defensive capabilities, which could significantly enhance his chances of winning the award. The piece also compares Johnson's trajectory to that of other potential candidates, emphasizing the importance of consistent performance and team success in the evaluation process. Overall, if Johnson continues to build on his progress and maintains a significant role in his team's success, he could be a leading contender for the award.
+Summary: Jalen Johnson is considered a viable candidate for the NBA Most Improved Player award in the 2025–2026 season, alongside other players like Jalen Duren. Experts suggest that Johnson's development and performance improvements make him a noteworthy contender, especially as the award often recognizes players who demonstrate significant progress in their skills and contributions. However, specific factors such as Johnson's ongoing performance, consistency, and competition from other candidates like Duren and Deni Avdija (whose eligibility may be affected by injury) will influence his chances of winning the award.
 
-Title: NBA Most Improved Player Odds: Deni Avdija, Jalen Johnson, Keyonte George Top List
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.si.com/betting/nba-most-improved-player-odds-deni-avdija-jalen-johnson-keyonte-george-top-list
-Summary: Jalen Johnson is a strong contender for the 2025-2026 NBA Most Improved Player (MIP) award, currently listed with odds of +240. He has been named an All-Star this season, positioning him as one of the top candidates alongside Deni Avdija, who is the favorite at -120. Johnson's performance has been notable, contributing significantly to the Atlanta Hawks' success.
-
-To assess Johnson's chances of winning the MIP, consider the following factors:
-
-1. **Current Performance**: Johnson has shown considerable improvement this season, which is crucial for MIP candidacy. His contributions on both ends of the court have been impactful.
-
-2. **Historical Trends**: Since the 2019-20 season, most MIP winners have also earned their first All-Star selection in the same year, a trend that Johnson fits into.
-
-3. **Competition**: While Johnson is a leading candidate, he faces competition from other players like Deni Avdija and Keyonte George. The performance of these players will influence Johnson's chances.
-
-4. **Team Success**: Johnson's performance is also tied to the Hawks' overall success. A strong finish to the season could bolster his MIP candidacy.
-
-In summary, Jalen Johnson's All-Star status, improved performance, and the historical context of MIP winners make him a viable candidate for the award, but he will need to maintain his level of play and navigate competition from other top performers.
-
-Title: NBA Most Improved Player Odds & Favorites for 2026
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://sports.betmgm.com/en/blog/nba/nba-most-improved-player-odds-bm23/
-Summary: The webpage discusses the odds and favorites for the NBA Most Improved Player award for the 2025-2026 season, providing insights that could be relevant for predicting whether Jalen Johnson will win. Key factors to consider include:
-
-1. **Current Performance**: The article likely highlights Jalen Johnson's recent performance metrics, including scoring, assists, rebounds, and overall impact on his team. Improved statistics compared to previous seasons would bolster his candidacy.
-
-2. **Team Dynamics**: Johnson's role within the Atlanta Hawks and how the team's performance affects his visibility and chances for the award are crucial. If he is positioned as a key player or if the team is expected to perform well, this could enhance his prospects.
-
-3. **Competition**: The article may outline other contenders for the Most Improved Player award, providing context on how Johnson stacks up against them. Understanding the competition can help gauge his chances.
-
-4. **Injury History**: Any past injuries or concerns about his health could impact his performance and, consequently, his candidacy for the award.
-
-5. **Coaching and Development**: Insights into how the coaching staff is utilizing Johnson and any developmental strides he has made during the offseason could be significant indicators of his potential improvement.
-
-For a more accurate prediction, consider these factors alongside the latest betting odds and expert analyses presented in the article.
+Title: Latest NBA Most Improved Player odds list Jalen Johnson as favorite [2/24/2026]
+Author: ...
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.dimers.com/news/nba-most-improved-odds-predictions-tuesday-02-24-2026-ac
+Summary: Jalen Johnson is currently the favorite to win the 2025–2026 NBA Most Improved Player award, with the best odds of -130 at DraftKings, implying a 56.5% chance of victory. He leads a competitive field that includes Deni Avdija (+400) and Jalen Duren (+500), among others. Betting odds and expert analysis suggest Johnson has a strong likelihood of securing the award, making him a prominent contender based on current market evaluations.
 
 

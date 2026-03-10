@@ -1,56 +1,56 @@
 # Research: Will the Republican Party win the SC-01 House seat?
 
 **Market ID:** 0x0552200445ecb1d63dfc354bb383842b7138360378664203a0d0552391895f8c
-**Researched At:** March 1, 2026 at 06:07:28 AM UTC
+**Researched At:** March 10, 2026 at 03:03:10 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the SC-01 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.0¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Despite DCCC targeting and an open seat, the district’s GOP lean and lack of nonpartisan data supporting a competitive race make the current 82% probability that Republicans win appear broadly reasonable, with only a small (<5¢) potential mispricing.
+Despite DCCC targeting indicating some Democratic opportunity, the structural GOP lean in SC-01, redistricting, and absence of polling suggest the 84.5% price is reasonable. No high-confidence evidence of a large mispricing, yielding a small expected edge.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Republican Party will hold (i.e., win) the open SC-01 U.S. House seat on November 4, 2026. A YES resolution (82% price) requires the eventual winner to be a Republican-affiliated candidate; a NO resolution requires a Democrat (or third-party caucusing Democrat) to win. Because incumbent Nancy Mace is vacating to run for governor, this is an open-seat race with no incumbent advantage for either party.
+This market asks whether the Republican Party’s nominee will win the open SC-01 U.S. House seat on November 4, 2026. YES (84.5%) if a Republican wins, NO if a Democrat wins.
 
 2. EVIDENCE EVALUATION  
-Bullish for Republicans (supports ~82%):  
-• SC-01 was redrawn to favor Republicans and has historically leaned GOP.  
-• No public polling or credible Republican challengers are mentioned; lack of Democratic polling suggests limited Democratic strengths.  
+Bullish for Republicans (supports ~85%):  
+• Redistricting has made SC-01 more reliably Republican after 2020, giving the GOP a structural advantage.  
+• Historically, open seats in this district have leaned GOP; Republican‐leaning voter registration and absence of an incumbent Democrat or third‐party spoiler.  
+• No public polling yet shows a Democratic surge, and while six Democrats filed, there’s no standout fundraising star or poll that undermines the GOP edge.  
 
-Bearish for Republicans (suggests price ↓):  
-• DCCC has added SC-01 to its “in play” list and plans significant spending, indicating Democrats see a real opportunity.  
-• Six Democrats have already entered, and 16 total candidates filed, implying robust Democratic enthusiasm.  
-• Midterms tend to favor the opposition party, and current Republican unpopularity on healthcare/economy is cited by the DCCC.  
-• Open seat removes incumbent Nancy Mace’s advantage.  
+Bearish for Republicans (suggests price might be overstated):  
+• DCCC has officially added SC-01 to its “in play” list and is mobilizing resources, indicating they see an opportunity to flip.  
+• Voter dissatisfaction with national Republican policies (healthcare, economy) could tighten the race, especially without an incumbent.  
+• However, these are strategic signals, not hard polling or fundraising numbers, and likely already factored into an ~85% market price.
 
-Source credibility and recency:  
-All DCCC materials and local news pieces are from February 2026 and thus current but originate from partisan or local-reporting sources. The DCCC’s own statements may overstate Democratic prospects. No independent polling or nonpartisan forecasts are cited.
-
-Evidence that might already be priced in:  
-Democrats’ “in play” designation and spend plans have been public since early February, yet the market still sits at 82%. If these facts were decisive, we would expect the price to be lower already—suggesting traders either doubt Democrats’ ability to convert resources into votes or view the district’s baseline lean as too strong.
+Source credibility/recency: All findings are February 2026 reports from reputable outlets and the DCCC itself—recent and directly pertinent.
 
 3. MARKET EFFICIENCY ANALYSIS  
-The 82% YES price could reflect informed consensus that SC-01’s structural advantage and lack of an incumbent Democrat outweigh any midterm swing. Alternatively, with only $499 volume and a 2¢ spread, the price may be set by a small number of confident Republican-leaning traders rather than a broad field. The low volume might indicate that this race hasn’t attracted active, informed traders or that its outcome is viewed as non-decision-critical until candidates emerge.
+• The 84.5% price plausibly reflects consensus among informed traders relying on redistricting data, historical margins, and early candidate filings.  
+• Low volume could simply indicate that most see this as a non-close race, not that traders are uninformed. Tight spread suggests at least two‐sided engagement.  
+• No obvious “unknown unknowns” loom—no candidate scandals, no pending court redraws in SC.
 
 4. MISPRICING ASSESSMENT  
-There is no independent polling showing a tighter race, nor any nonpartisan analysis directly contradicting an ~80% Republican win probability. The only “hard” evidence is the DCCC’s spending plans—which traders could reasonably view as necessary but not sufficient to overcome the district’s GOP tilt. Given the absence of strong contrary data—and the district’s structural lean—the current 82% price seems broadly defensible. Any mispricing is likely small (< 5 cents).
+• No specific, credible evidence of a >20-point mispricing.  
+• DCCC targeting alone doesn’t override structural GOP lean.  
+• The market price appears to already incorporate the modest Democratic opportunity.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: 20% (primarily partisan spending announcements, no independent polling).  
-Magnitude of mispricing if wrong: ~5 cents.  
-Expected value = 0.20 × 5¢ = 1.0¢
+• Strength of evidence for mispricing: ~30% (lack of hard polling or new shocks).  
+• Estimated magnitude of mispricing: ~5 cents (if Democrats are slightly under-priced).  
+• Expected value = 30% × 5 cents = 1.5 cents
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Despite DCCC targeting and an open seat, the district’s GOP lean and lack of nonpartisan data supporting a competitive race make the current 82% probability that Republicans win appear broadly reasonable, with only a small (<5¢) potential mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1.5  
+SUMMARY: Despite DCCC targeting indicating some Democratic opportunity, the structural GOP lean in SC-01, redistricting, and absence of polling suggest the 84.5% price is reasonable. No high-confidence evidence of a large mispricing, yielding a small expected edge.  
+CONFIDENCE: low
 
 ---
 
@@ -58,50 +58,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: DCCC Adds SC-01 To Districts In Play As Democrats Further Expand Battlefield for 2026 Midterms - DCCC
-Author: iwata@dccc.org
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://dccc.org/dccc-adds-sc-01-to-districts-in-play-as-democrats-further-expand-battlefield-for-2026-midterms/
-Summary: The Democratic Congressional Campaign Committee (DCCC) has added South Carolina's 1st Congressional District (SC-01) to its list of competitive districts for the 2026 midterms, indicating a strategic push to reclaim the House majority. This decision comes as South Carolinians express dissatisfaction with Republicans, particularly regarding issues like healthcare costs and economic challenges. DCCC Chair Suzan DelBene highlighted that many House Republicans, including Nancy Mace, are stepping back, suggesting a shift in the political landscape. The DCCC's recent successes in special elections bolster their confidence in winning SC-01, as they aim to capitalize on the perceived vulnerabilities of Republican incumbents. The DCCC is also encouraging grassroots donations to support the eventual Democratic nominee in this district. 
-
-In summary, the DCCC's expansion into SC-01 reflects a broader Democratic strategy to leverage Republican unpopularity and capitalize on recent electoral trends, which could influence the outcome of the House seat in favor of Democrats.
-
 Title: DCCC targets SC-1 as Nancy Mace runs for governor | Hilton Head Island Packet
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.islandpacket.com/news/politics-government/article314636057.html
-Summary: The Democratic Congressional Campaign Committee (DCCC) is targeting South Carolina's 1st Congressional District (SC-01) as U.S. Rep. Nancy Mace runs for governor, indicating a strategic effort to flip the seat back to Democratic control. The DCCC has included SC-01 in its "Districts in Play" program, which aims to mobilize resources and funding for Democratic candidates. This marks a renewed investment in the district, which the DCCC last focused on in 2020 when attempting to defend former Rep. Joe Cunningham's seat.
+Summary: The Democratic Congressional Campaign Committee (DCCC) is actively targeting South Carolina's 1st Congressional District (SC-01) as Nancy Mace runs for governor, aiming to flip the seat back to Democratic control. The district has historically been competitive, with recent redistricting making it more reliably Republican after Mace's 2020 victory. Six Democrats have filed to run for the seat, with fundraising efforts varying among candidates. The DCCC's involvement, including potential financial support through nominee funds, indicates a strategic effort to regain the seat amid a broader Democratic offensive in the midterm cycle. Given the district's recent redistricting and the competitive nature of the race, the outcome remains uncertain, but the DCCC's focus suggests a concerted effort to challenge the Republican hold.
 
-Mace's decision to pursue a statewide office has opened the door for new candidates, with 16 individuals already filing to run for her congressional seat. The DCCC Chair, Suzan DelBene, emphasized that Republicans, including Mace, are recognizing the shifting political landscape, suggesting that Democrats are gaining momentum. 
-
-The district was previously redrawn to favor Republicans, but the DCCC's involvement signals a competitive race ahead. The outcome will depend on various factors, including voter sentiment, candidate appeal, and campaign funding, as the DCCC plans to support its eventual nominee financially. With six Democrats already in the race and the dynamics of midterm elections typically favoring the opposition party, the Republican Party's hold on SC-01 may be challenged.
+Title: DCCC Adds SC-01 To Districts In Play As Democrats Further Expand Battlefield for 2026 Midterms - DCCC
+Author: iwata@dccc.org
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://dccc.org/dccc-adds-sc-01-to-districts-in-play-as-democrats-further-expand-battlefield-for-2026-midterms/
+Summary: The Democratic Congressional Campaign Committee (DCCC) has added South Carolina's SC-01 district to its "Districts in Play" list for the 2026 midterm elections, indicating a strategic focus on flipping this seat from Republican to Democratic control. The move reflects growing concerns among Democrats about South Carolina voters' dissatisfaction with Republican policies, particularly regarding healthcare costs and economic issues. The district's vulnerability is underscored by recent special election overperformance by Democrats and the departure of some Republican incumbents. The DCCC is actively supporting potential Democratic candidates through fundraising efforts. Overall, this development suggests an increasingly competitive environment in SC-01, with Democrats optimistic about their chances to win the seat, especially as Republican support appears to weaken.
 
 Title: Democrats look to flip SC-1, plans to spend in district
 Author: Joseph Bustos TNS/The State
 Published Date: 2026-02-11T00:00:00.000Z
 URL: http://www.scnow.com/news/local/government-politics/article_4830b690-16a9-452f-9968-861b67781a3f.html
-Summary: The article discusses the Democratic Party's strategic efforts to flip the SC-1 House seat, indicating a significant investment in the district. This suggests that Democrats are actively working to challenge Republican dominance in the area. The outcome of the election may hinge on various factors, including voter turnout, campaign funding, and local issues that resonate with constituents. Given the Democrats' commitment to spending and organizing in SC-1, it could indicate a competitive race, potentially impacting the Republican Party's chances of retaining the seat.
+Summary: The article discusses efforts by the Democratic Congressional Committee to flip South Carolina's 1st Congressional District (SC-1) back to Democratic control, amid a competitive political landscape. With U.S. Rep. Nancy Mace, the current representative, running for governor, Democrats are planning to invest resources and campaign plans in the district to secure the seat. The article highlights the strategic focus on this district as a key battleground in upcoming elections, indicating a concerted effort by Democrats to challenge the Republican hold. While specific polling data or candidate details are not provided, the emphasis on Democratic investment suggests a competitive race that could influence whether the Republican Party maintains or loses the seat.
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ | Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T06:07:11.765Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article from Decision Desk HQ discusses key U.S. House seats that could influence the majority in the upcoming 2026 elections. While it does not specifically mention the SC-01 House seat, it provides context that could be relevant for predicting its outcome.
-
-1. **Political Landscape**: The piece highlights the overall dynamics of the House races, which can impact local contests like SC-01. Understanding the national mood and party performance can give insights into local races.
-
-2. **Redistricting**: Changes in district boundaries can significantly affect election outcomes. The article notes ongoing redistricting efforts, which could alter the voter base in SC-01, potentially benefiting or hindering Republican candidates.
-
-3. **Candidate Dynamics**: The article mentions notable candidates and political figures, such as Kristi Noem, who may influence Republican strategies in various states. The strength and appeal of the Republican candidate in SC-01 will be crucial.
-
-4. **Voter Sentiment**: The broader trends in voter sentiment toward the Republican Party, especially in light of recent elections and controversies, will also play a role in determining the SC-01 seat.
-
-In summary, while the article does not directly address SC-01, it provides insights into the political environment, redistricting implications, and candidate dynamics that could help in predicting whether the Republican Party will win this seat.
-
-Title: Current Weather
+Title: 1st District ‘in play’ for 2026 midterms says Democrats’ Congressional Campaign Committee | WTMA-AM
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
-URL: https://abcnews4.com/news/local/1st-district-in-play-for-2026-midterms-says-democrats-congressional-campaign-committee
-Summary: The South Carolina 1st Congressional District is currently considered "in play" for the upcoming 2026 midterms, according to the Democratic Congressional Campaign Committee. The seat is presently held by Republican Nancy Mace, who has chosen to run for governor instead of seeking reelection, leaving the position open. This shift may create an opportunity for Democrats, as they believe that many House Republicans, including Mace, are stepping away from their seats. The changing dynamics in the district, particularly with Mace's departure, could influence the competitiveness of the race and the likelihood of a Democratic challenge succeeding.
+URL: https://www.wtma.com/2026/02/10/1st-district-in-play-for-2026-midterms-says-democrats-congressional-campaign-committee/
+Summary: The article discusses the 1st Congressional District in South Carolina, highlighting that it is considered "in play" for the 2026 midterm elections, according to the Democratic Congressional Campaign Committee. This indicates potential competitiveness and suggests that both parties, including the Republican Party, may have a strong chance to contest the seat. While specific candidate details or polling data are not provided, the district's status as "in play" implies that the Republican Party could have a viable path to winning the SC-01 House seat in upcoming elections.
+
+Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
+Author: Geoffrey Skelley
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://open.substack.com/pub/decisiondeskhq/p/the-key-house-seats-in-2026-1
+Summary: The article discusses key upcoming developments in the 2026 U.S. House elections, including potential shifts in district boundaries and candidate decisions. Notably, redistricting efforts are shaping the landscape: in New York, a court-ordered redraw could make Rep. Nicole Malliotakis’s Staten Island seat more competitive; in Utah, a court ruling may shift a GOP-held seat to Democratic control, though legal challenges remain. These redistricting changes could influence the competitiveness of specific districts, including SC-01 in South Carolina, depending on how district boundaries are redrawn and which candidates emerge. Overall, the evolving redistricting landscape and candidate decisions are critical factors in predicting whether Republicans will retain or win the SC-01 House seat in 2026.
 
 

@@ -1,51 +1,55 @@
 # Research: Will Nicholas Sciretta be the Democratic nominee for NY-04?
 
 **Market ID:** 0x576b5f5f1ec1fb585d195f3310148efabbd11ec45679b7835228fb3431c648a4
-**Researched At:** March 4, 2026 at 04:15:32 AM UTC
+**Researched At:** March 10, 2026 at 03:02:07 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Nicholas Sciretta be the Democratic nominee for NY-04?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 1.0¢
 
 ### Summary
 
-No research findings directly bear on Sciretta’s nomination; the 26.5% price likely reflects moderate uncertainty rather than clear mispricing.
+With five known Democratic candidates and no sign of Sciretta leading in endorsements or coverage, a ~20% price reflects an equal-chance baseline. There’s no solid evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Nicholas Sciretta will be the Democratic nominee for New York’s 4th Congressional District in the June 23, 2026 primary. It resolves YES if Sciretta is officially nominated by a recognized Democratic source by November 3, 2026, and NO if another nominee is chosen or no nominee is announced by that date.
+- This market asks whether Nicholas Sciretta will win the Democratic nomination for NY-04 by the June 23, 2026 primary (resolved by Nov 3 if no nominee announced). “YES” requires him to outpoll all other Democratic contenders; “NO” covers any other nominee or no announced nominee.
 
 2. EVIDENCE EVALUATION  
-– No research item mentions Nicholas Sciretta or his primary campaign.  
-– The Newsday piece confirms NY-04 is a competitive district but does not identify any declared Democratic candidates, let alone Sciretta’s status.  
-– Other sources (LiPetri bid in NY-03, MCU wiki, Congressional Record, Hollywood meritocracy PDF) are irrelevant.  
-– There is no fresh data suggesting a surge or collapse in Sciretta’s candidacy; thus, nothing clearly undercuts or supports the 26.5% figure beyond generic district competitiveness.  
-– All sources are recent (within 2025–2026) and credible, but none speak to Sciretta.  
+Bullish for Sciretta (i.e. price is TOO LOW):  
+- No specific bullish evidence in the findings; he filed to run but has no noted endorsements or polling.  
+
+Bearish for Sciretta (i.e. price is TOO HIGH):  
+- Newsday reports three other active Democratic challengers (Darling, Bierria-Anderson, Jones) plus incumbent Gillen with strong endorsements.  
+- No mention of Sciretta’s campaign activity or fundraising, suggesting he is a lower‐profile contender.  
+- Baseline equal‐weight odds among five known candidates would be ~20%, and Gillen likely exceeds that.
+
+Source credibility and recency:  
+- All articles are February–March 2026 from reputable local outlets (Newsday, SILive).  
 
 3. MARKET EFFICIENCY ANALYSIS  
-– A 26.5% probability plausibly reflects the view that Sciretta is one of several undeclared or low-profile contenders in a tight primary.  
-– Low volume could stem from the lack of public information on declared candidates rather than inefficiency.  
-– Informed traders may be waiting for filing deadlines or endorsements before trading; thus, current pricing could be a placeholder for moderate chances amid uncertainty.
+- A 20.5% price roughly mirrors equal odds among five named candidates, so it could be a reasonable default in absence of detailed polling.  
+- Low volume implies few traders; the price may reflect a “naïve” equal‐chance assumption rather than deep information.  
+- Alternatively, informed traders lacking candidate‐specific data might default to ~20% for any individual contender.
 
 4. MISPRICING ASSESSMENT  
-– There is no specific, credible evidence missing from the market price.  
-– Given an absence of any news on Sciretta, a 26.5% probability does not appear obviously too high or too low.  
-– The outcome timeline (nomination in late June, resolution by early November) justifies cautious probabilities.  
-– No compelling reason exists to declare mispricing > 3–5 cents.
+- There is no clear, credible evidence that Sciretta’s chances are materially above or below ~20%.  
+- The field looks competitive with at least one far stronger front‐runner (Gillen), suggesting Sciretta’s odds could be below 20%, but this is already baked into the ~20% baseline.  
+- No evidence of large (>10 cents) mispricing; if any, it is modest.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 20% (very weak; no direct info)  
-Magnitude of mispricing: 5 cents (max plausible gap)  
-Expected value = 20% × 5 cents = 1 cent
+- Strength of evidence: low (no direct data on Sciretta beyond filing). ≈20%  
+- Magnitude of mispricing: likely small, say 5 cents  
+- Expected value ≈ 0.2 × 5 = 1 cent
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: No research findings directly bear on Sciretta’s nomination; the 26.5% price likely reflects moderate uncertainty rather than clear mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: With five known Democratic candidates and no sign of Sciretta leading in endorsements or coverage, a ~20% price reflects an equal-chance baseline. There’s no solid evidence of a large mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -53,30 +57,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Mike LiPetri launches 2026 congressional bid
-Author: Larissa Fuentes
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://politicsny.com/2026/02/03/mike-lipetri-launches-2026-congressional-bid/
-Summary: Mike LiPetri, a Republican former State Assembly member, has announced his bid for Congress in New York’s 3rd District for 2026, aiming for a rematch against incumbent Democrat Tom Suozzi, who defeated him in 2024. The race garnered national attention due to its significance in control of the U.S. House. While this information provides insight into recent electoral dynamics and candidate activity on Long Island, it does not directly relate to or predict whether Nicholas Sciretta will be the Democratic nominee for NY-04.
-
-Title: Characters of the Marvel Cinematic Universe: M–Z - Wikipedia
-URL: https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe:_M%E2%80%93Z
-Summary: The provided webpage lists characters from the Marvel Cinematic Universe (MCU) from M to Z, including notable figures like Titania, Makkari, and Malekith the Accursed. It details their roles, portrayals, and appearances in MCU projects such as "She-Hulk: Attorney at Law" and "Eternals." However, there is no information related to Nicholas Sciretta or any political candidacy or election predictions for NY-04. Therefore, this webpage does not contain relevant data to assess whether Nicholas Sciretta will be the Democratic nominee for NY-04.
-
-Title: [PDF] House of Representatives - Congressional Record
-Published Date: 2025-07-15T00:00:00.000Z
-URL: https://www.congress.gov/119/crec/2025/07/15/171/121/CREC-2025-07-15.pdf
-Summary: The provided webpage is a record of the U.S. House of Representatives proceedings from July 15, 2025. It includes formalities such as the designation of the Speaker pro tempore and a morning-hour debate. A notable segment is the tribute to Dr. Olga Karman, highlighting her life as an immigrant, educator, poet, and activist, and her influence on individuals including the speaker, Mr. Kennedy of New York. The record does not contain any information related to Nicholas Sciretta, NY-04, or details about upcoming or potential Democratic nominees for that district. Therefore, this webpage does not provide relevant information to predict whether Nicholas Sciretta will be the Democratic nominee for NY-04.
-
 Title: Long Island races among NYS battlegrounds for control of House - Newsday
 Author: Billy House billy.house@newsday.com Updated February 14, 2026 8:02 pm
 Published Date: 2026-02-14T00:00:00.000Z
 URL: https://upgrade.newsday.com/beta/long-island/politics/suozzi-lipetri-gillen-desposito-sugdths7
-Summary: The article discusses key battleground districts in New York State, including NY-04 on Long Island, which is a highly competitive race. Currently, NY-04 is held by Democrats and is considered a toss-up, with significant attention from both parties. While the article highlights the district's competitiveness and the potential impact on control of the U.S. House, it does not specify whether Nicholas Sciretta is the Democratic nominee for NY-04. Therefore, based on this source, there is no information confirming or predicting if Nicholas Sciretta will be the Democratic nominee for NY-04.
+Summary: The article discusses key battleground districts in New York State for the upcoming U.S. House midterm elections, highlighting the importance of New York's races in determining control of the House. Specifically, for NY-04 on Long Island, the current Democratic incumbent, Rep. Laura Gillen, faces a potential rematch with Republican Anthony D'Esposito, who previously unseated her in 2024. D'Esposito has not yet confirmed if he will run again, and the race's status has shifted from "toss-up" to "lean Democratic" according to The Cook Political Report. There is no mention of Nicholas Sciretta as a candidate or potential nominee for NY-04 in this analysis.
 
-Title: [PDF] Hollywood and the myth of meritocracy - OpenBU
+Title: Former Assemb. Darling mounts primary challenge to Gillen - Newsday
 Author: 
-URL: https://open.bu.edu/bitstreams/eb35bf17-944b-4aec-b29d-179de1423b44/download
-Summary: The provided webpage, titled "Hollywood and the Myth of Meritocracy," explores how perceptions of success in Hollywood often obscure underlying social and structural inequalities, emphasizing that meritocracy is frequently a myth. While the content primarily analyzes cultural narratives around achievement and fairness in the entertainment industry, it does not contain specific information about Nicholas Sciretta or his political prospects. Therefore, it offers no relevant insights or data to predict whether Nicholas Sciretta will be the Democratic nominee for NY-04.
+Published Date: 2026-02-16T00:00:00.000Z
+URL: http://www.newsday.com/long-island/politics/taylor-darling-laura-gillen-u56a7zvw
+Summary: Taylor Darling, a former New York State Assembly member, has announced a primary challenge against incumbent Democrat Rep. Laura Gillen for the NY-04 congressional seat. Darling's campaign emphasizes opposition to Gillen's recent vote to fund the Department of Homeland Security, citing concerns over ICE's presence affecting district residents. While Darling is actively campaigning, other Democratic candidates, including Kiana Bierria-Anderson, Gian Jones, and Nicholas Jude Sciretta, have also filed to run. Gillen currently has notable endorsements from local and national Democratic leaders, asserting her strong position. Darling previously ran for State Senate but lost in the primary. As of now, there is no indication that Nicholas Sciretta has secured the nomination; the race appears competitive with multiple Democratic contenders, but the ultimate nominee will depend on primary results.
+
+Title: Anthony D'Esposito to vie for congressional seat he lost to Laura Gillen, sources say - Newsday
+Author: Billy House billy.house@newsday.com Updated March 4, 2026 9:39 pm
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://ace.newsday.com/beta/app/long-island/politics/elections/anthony-desposito-congress-jovm7l96
+Summary: The article discusses Anthony D'Esposito's plans to run again for the U.S. House seat in New York’s 4th Congressional District, which he previously lost to Democrat Laura Gillen. D'Esposito, a former Republican representative and current inspector general at the U.S. Labor Department, is preparing to resign from his federal position to campaign, as required by law. The race is expected to be highly competitive and closely watched nationally, with potential implications for control of the House. The article does not mention Nicholas Sciretta or any other Democratic candidates, including whether Sciretta will be the Democratic nominee for NY-04.
+
+Title: Clock ticks for D'Esposito to decide congressional bid - Newsday
+Author: Billy House billy.house@newsday.com Updated February 13, 2026 9:02 pm
+Published Date: 2026-02-13T00:00:00.000Z
+URL: https://ace.newsday.com/beta/long-island/politics/desposito-gillen-race-wscj3n3q
+Summary: The article primarily discusses the upcoming Republican congressional race in New York's 4th District, focusing on former Rep. Anthony D'Esposito's uncertain candidacy and the tight timeline for him to declare his intention to run again. It highlights party efforts to endorse a candidate at the Nassau County Republican convention on February 19, with the deadline for nominations approaching on February 24. There is no mention of Nicholas Sciretta or any Democratic candidate in the article, so it does not provide information relevant to predicting whether Sciretta will be the Democratic nominee for NY-04.
+
+Title: Staten Island is the only NYC district with a Republican in Congress, but is that about to change? - silive.com
+Author: Advance Local Express Desk
+Published Date: 2026-02-22T00:00:00.000Z
+URL: https://www.silive.com/politics/2026/02/staten-island-is-the-only-nyc-district-with-a-republican-in-congress-but-is-that-about-to-change.html
+Summary: The article discusses ongoing legal battles over the redrawing of Staten Island’s congressional district, currently held by Republican Rep. Nicole Malliotakis. A recent unanimous decision by the state Appellate Division allows for a new district map that could shift boundaries into Democratic-leaning areas of Manhattan, potentially favoring Democratic candidates. The redistricting process is now headed toward the U.S. Supreme Court, which may ultimately determine the district’s configuration. The outcome could influence the political landscape in NY-04, especially if the district’s boundaries change to favor Democrats. While the article does not mention Nicholas Sciretta specifically, the legal and political developments suggest increased uncertainty about the district’s future and the Democratic nominee, which could include Sciretta if he is a candidate or contender in that race.
 
 

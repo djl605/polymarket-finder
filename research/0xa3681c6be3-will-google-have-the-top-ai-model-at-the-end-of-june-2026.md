@@ -1,7 +1,7 @@
 # Research: Will Google have the top AI model at the end of June 2026?
 
 **Market ID:** 0xa3681c6be3faf6b4f05918ed0bc9786e41e600d9882c335907b5a3402bf93494
-**Researched At:** March 2, 2026 at 02:56:14 PM UTC
+**Researched At:** March 10, 2026 at 03:00:54 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Google have the top AI model at the end of June 2026?"
 
 ---
@@ -9,48 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 8.0¢
+**Expected Value:** 7.5¢
 
 ### Summary
 
-Google’s Gemini 3 series holds clear benchmark leads and benefits from a tiebreaker edge, yet traders may underweight chat-only Arena metrics and rapid rival releases. The current 33.5% price likely underprices Google’s winning probability by roughly 20 cents.
+The market’s 29.5% for Google contrasts sharply with a peer market at ~47% and strong recent Gemini 3/3.1 benchmark wins, suggesting a ~15 ¢ undervaluation. Low volume and few participants likely explain the gap rather than any hidden caveat.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- The market asks whether Google’s model will top the Chatbot Arena LLM Leaderboard (Arena Score) at 12:00 PM ET June 30, 2026.  
-- “YES” requires Google’s Arena Score to exceed all other companies’ scores (or tie for first, in which case the alphabetical tiebreaker favors “Google”). “NO” otherwise.  
+The market asks: “Will Google own the top‐ranked AI model (by Arena Score on the LMArena Leaderboard) at 12:00 PM ET on June 30, 2026?” A YES means Google’s model has the single highest Arena Score; a NO means any other company’s model is strictly higher (or ties broken alphabetically against Google).
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (suggesting 33.5% is too low):  
-- A parallel manifold market assigns Google a 68% chance, implying broad-based confidence in Google retaining the lead.  
-- Recent benchmarks (e.g., Gemini 3.1 Pro’s ARC-AGI-2 score of 77.1%, GPQA Diamond 94.3%, plus strong LiveCodeBench results) show Google outperforming OpenAI and Anthropic across multiple tasks.  
-- Tie-breaker rule: even if Google is merely tied for first, “YES” wins.  
+Bullish Signals  
+• Manifold Markets identical question: traders price Google at ~47% (vs. 29.5% here), implying informed participants see closer to a coin flip or better odds.  
+• Google Gemini 3 (launched Feb 2026) advances—2M token window, multimodal, 25% energy savings—and Gemini 3.1 Pro tops benchmarks vs GPT-5.2 and Claude.  
+• DeepMind’s TPU hardware and integration across Google’s ecosystem mirror enterprise deployment advantages.
 
-Bearish evidence (supporting caution near 33.5%):  
-- Fierce, rapid competition: 20+ frontier models released in six weeks by OpenAI, Anthropic, and others could surge ahead in chat-focused Arena Scores.  
-- Gemini 3 only launched June 4, leaving four weeks for rivals to respond; early developer feedback flags transparency and safety questions, which might dampen adoption/performance.  
-- Chatbot Arena’s metrics may emphasize pure chat/dialogue capabilities—an area where OpenAI’s GPT-5 Turbo or Anthropic’s Claude Opus variants could hold advantages.  
+Bearish Signals  
+• Ultra-fast innovation cycle: over 20 frontier models in six weeks; OpenAI, Anthropic, xAI could leapfrog.  
+• Calls for transparency/safety on Gemini may slow adoption or benchmarking comparability.
 
-Source credibility and recency: manifold market data and all bench­mark analyses are dated Feb–Mar 2026, thus highly relevant. News articles are from Feb 2026 and reflect up-to-date features and competition.  
+Source Credibility & Recency  
+All sources are from Feb–early Mar 2026 and directly address leaderboard‐style benchmarks. The Manifold market mirrors resolution criteria, making it highly relevant.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- 33.5% could reflect traders’ view that Arena’s chat-oriented scoring is not perfectly aligned with Google’s multimodal/benchmark strengths, or that key competitors may out-innovate in the next four weeks.  
-- Low volume suggests few traders have deeply modeled the Arena scoring or tie-breaker advantage, possibly leading to underpricing of Google’s edge.  
-- Alternatively, 33.5% might be a genuine consensus given uncertainty around chat-only performance metrics and late release of Gemini 3.  
+• A 29.5% price could reflect low volume and isolated bettors rather than broad consensus.  
+• If traders on Manifold (presumably higher‐volume, diverse) price Google at ~47%, our market’s 29.5% likely underweights public research and peer market info.  
+• Low volume here suggests opportunities for arbitrage if one trusts broader markets and published benchmarks.
 
 4. MISPRICING ASSESSMENT  
-- The 68% implied by another market and Google’s clear benchmarking lead point to a material undervaluation at 33.5%.  
-- Offsetting this are genuine uncertainties about the narrow Arena Score metric and competitive pace.  
-- On balance, evidence tilts toward underpricing by perhaps ~20 cents, but confidence is tempered by remaining uncertainty about chat-specific performance in Arena.  
+The ~17½‐point gap to Manifold’s 47% and clear public wins by Gemini 3.1 Pro imply mispricing of roughly 15 ¢. No obvious resolution technicality explains the discount. The likeliest charitable interpretation is that isolated traders set our price low through inattention, not withheld data.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: ~40% (benchmarks and external market point to mispricing, but chat-score uncertainty remains)  
-- Magnitude of mispricing: ~20 cents  
-- Expected value = 0.40 × 20 cents = 8 cents  
+Strength of evidence that mispricing exists: ~50%  
+Magnitude of mispricing: ~15 ¢  
+Expected value ≈ 50% × 15 ¢ = 7.5 ¢
 
-EXPECTED_VALUE: 8.0  
-SUMMARY: Google’s Gemini 3 series holds clear benchmark leads and benefits from a tiebreaker edge, yet traders may underweight chat-only Arena metrics and rapid rival releases. The current 33.5% price likely underprices Google’s winning probability by roughly 20 cents.  
+EXPECTED_VALUE: 7.5  
+SUMMARY: The market’s 29.5% for Google contrasts sharply with a peer market at ~47% and strong recent Gemini 3/3.1 benchmark wins, suggesting a ~15 ¢ undervaluation. Low volume and few participants likely explain the gap rather than any hidden caveat.  
 CONFIDENCE: medium
 
 ---
@@ -59,48 +56,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Which company has the best AI model end of June 2026? (LMArena)
+Title: Which company has the best AI model end of June 2026? (LMArena) - Manifold Markets
 URL: https://manifold.markets/Bayesian/which-company-has-the-best-ai-model-tN0h8n0yzQ
-Summary: The webpage discusses a market prediction regarding which company will have the best AI model by the end of June 2026, specifically focusing on the leaderboard from LMArena. As of the latest data, Google is currently favored with a 68% probability of having the top AI model, followed by OpenAI at 11%, Anthropic at 13%, and other companies like xAI, Meta, and Alibaba with lower probabilities. The resolution of this prediction will be based on the highest Arena Score in the Overall category at the specified time, with tiebreakers favoring alphabetical order. This context suggests that Google's current standing and the competitive landscape could be crucial for predicting whether it will maintain its lead by June 2026.
+Summary: The webpage discusses a prediction market focused on identifying which company will have the best AI model by the end of June 2026, based on the LMArena chatbot arena leaderboard. As of June 30, 2026, Google is currently leading with an approximate 47% chance of having the top AI model, according to market participants. The leaderboard ranks companies such as OpenAI, xAI, Anthropic, Meta, Alibaba, and others, based on their Arena Scores. The market resolution depends on which company holds the highest score at the specified time, with ties broken alphabetically. Given Google's current lead and historical data from previous months, Google appears to be a strong contender for maintaining the top position through June 2026.
 
 Title: Google Gemini 3 Launch: 2026’s Game-Changer Revealed | AI Daily Shot — AI Daily Shot
 Author: AI Daily Shot
 Published Date: 2026-02-21T00:00:00.000Z
 URL: https://aidailyshot.com/blog/google-gemini-3-launch-2026-analysis
-Summary: Google's launch of Gemini 3 on June 4, 2026, positions it as a strong contender in the AI landscape, aiming to reclaim leadership amid fierce competition from OpenAI and Anthropic. Key features of Gemini 3 include:
-
-- **Multimodal Capabilities**: Gemini 3 can process text, images, audio, and video within a single architecture, enhancing its versatility for various applications.
-- **Context Window**: It supports a 2-million-token context window, allowing for more complex document analysis compared to competitors like GPT-5 Turbo.
-- **Efficiency**: The model is designed to be 25% more energy-efficient per parameter than its predecessor, potentially lowering costs for enterprise users.
-- **Regulatory Compliance**: Google claims Gemini 3 meets new regulatory standards for model robustness and bias mitigation, which could enhance its credibility in the market.
-
-Despite these advancements, early feedback from developers is mixed, with some expressing concerns about transparency regarding data provenance and safety. The competitive landscape remains dynamic, with OpenAI and Anthropic also advancing their models. As of now, while Gemini 3 has the potential to lead, its ultimate success will depend on user adoption, performance in real-world applications, and ongoing developments from competitors.
+Summary: Google launched its next-generation AI model, Gemini 3, in June 2026, positioning itself strongly in the competitive AI landscape. Gemini 3 features a 2-million-token context window, multimodal capabilities (text, images, audio, video), and improved efficiency—training with 25% less energy per parameter. It is integrated into Google’s products and partnerships, aiming to challenge rivals like OpenAI and Anthropic. While early feedback is promising, some experts call for more transparency on safety and data provenance. Given these advancements and strategic investments, Google appears poised to contend for the top AI model position at the end of June 2026.
 
 Title: Google Reclaims the AI Crown With Gemini 3.1 Pro — But For How Long? | by Cristian Marcu | Feb, 2026 | Medium
 Author: Cristian Marcu
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://medium.com/@cristian-marcu/google-reclaims-the-ai-crown-with-gemini-3-1-pro-but-for-how-long-81bac4eb6797
-Summary: Google's Gemini 3.1 Pro has recently emerged as a leading AI model, showcasing a remarkable performance leap with a 2x increase in reasoning capabilities compared to its predecessor. As of February 2026, it achieved a score of 77.1% on the ARC-AGI-2 benchmark, significantly outperforming Gemini 3 Pro's 31.1%. Additionally, it excelled in various other benchmarks, including 94.3% on GPQA Diamond for scientific knowledge and an Elo rating of 2887 on LiveCodeBench Pro for coding tasks.
-
-However, the AI landscape is rapidly evolving, with over 20 frontier-level models released in just six weeks by major players like Anthropic and OpenAI. This fast-paced environment suggests that while Google currently holds a strong position, the competition is fierce and continuous innovation is crucial. The article emphasizes that the speed of model releases may outpace the ability to fully evaluate their performance, making it challenging to predict if Google will maintain its top position by the end of June 2026. 
-
-In summary, while Gemini 3.1 Pro is currently a frontrunner, the dynamic nature of AI development and the aggressive release strategies of competitors could influence Google's standing in the coming months.
-
-Title: Google Just Dethroned Every AI — Meet Gemini 3.1 Pro, the Most Powerful AI Model on Earth Right Now | by Milan Danushka | AI Tomorrow | Feb, 2026 | Medium
-Author: Milan Danushka
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://medium.com/ai-tomorrow/google-just-dethroned-every-ai-meet-gemini-3-1-pro-the-most-powerful-ai-model-on-earth-right-now-d387371ce195
-Summary: Based on the article, Gemini 3.1 Pro is currently the top AI model as of February 18, 2026. However, the article emphasizes the rapid pace of advancements in the AI field, describing it as a "relentless AI arms race." The author questions how long any model can remain at the top. Therefore, while Gemini 3.1 Pro is currently leading, the article suggests that predicting whether Google will maintain the top AI model by the end of June 2026 is uncertain due to the fast-paced competition.
-
+Summary: The article highlights Google's recent breakthrough with the Gemini 3.1 Pro AI model, which demonstrates a significant leap in reasoning and performance capabilities, surpassing previous versions and rival models. It achieved remarkable scores on various benchmarks, including over 77% on ARC-AGI-2 (more than double its predecessor), and topped real-world tasks like scientific knowledge, coding, and software engineering. The model's strong performance has positioned Google at the forefront of AI development, effectively reclaiming the AI crown. However, the rapid pace of industry releases—over 20 frontier-level models in just six weeks—suggests that maintaining top status is highly competitive and uncertain. Given this swift innovation cycle, it remains uncertain whether Google will retain its leadership by the end of June 2026, as other major labs continue to accelerate their AI advancements.
 
 Title: Google Releases Gemini 3.1 Pro, Beats Claude Opus 4.6, GPT 5.2 On Most Benchmarks
 Author: OfficeChai Team
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://officechai.com/ai/gemini-3-1-pro-benchmarks/
-Summary: Google's release of the Gemini 3.1 Pro model marks a significant advancement in AI technology, as it has outperformed competitors like Anthropic's Claude Opus 4.6 and OpenAI's GPT-5.2 across most industry-standard benchmarks. With leading scores in 13 out of 16 evaluated benchmarks, including a remarkable 94.3% on GPQA Diamond and 77.1% on the challenging ARC-AGI-2, Gemini 3.1 Pro demonstrates strong capabilities in reasoning, coding, and complex task execution.
+Summary: As of early 2023, Google’s latest AI model, Gemini 3.1 Pro, has demonstrated superior performance across most industry-standard benchmarks, outperforming competitors like Claude Opus 4.6 and GPT-5.2. It excels in scientific knowledge, abstract reasoning, and complex agentic and coding tasks, indicating strong capabilities in both knowledge and practical application. The model is being rolled out across Google’s ecosystem, emphasizing its competitive edge in enterprise and consumer AI services. Given its current benchmark dominance and ongoing innovation, Google appears well-positioned to maintain a leading AI presence through 2026, though the rapidly evolving AI landscape means ongoing competition from other major players like OpenAI and Anthropic could influence future standings.
 
-The competitive landscape is evolving, with Google DeepMind's latest model indicating a robust position in the AI race. However, rivals have also shown strengths in specific areas, such as Claude Opus 4.6's performance in long-context tasks and OpenAI's GPT-5.3-Codex in terminal coding tasks. The ongoing competition among major AI labs suggests that while Google currently leads, the dynamic nature of AI development means that maintaining this position through June 2026 will depend on continued innovation and performance improvements.
-
-As Google rolls out Gemini 3.1 Pro across its platforms, its ability to leverage benchmark leadership as a marketing differentiator will be crucial in attracting enterprise customers. The industry's shift towards AI agents capable of executing complex workflows further emphasizes the importance of ongoing advancements in AI models. Overall, while Google is currently at the forefront, the future landscape remains uncertain, and continuous innovation will be key to retaining the top position in AI
+Title: OpenAI vs Google DeepMind vs Anthropic: The 2026 AI Model Arms Race Explained | QverLabs Blog
+Author: 
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://qverlabs.com/blog/openai-vs-google-deepmind-vs-anthropic-2026
+Summary: As of early 2026, Google DeepMind remains a leading contender in AI development, leveraging its extensive research capabilities, vast data resources, and advanced hardware like TPUs. Their Gemini model family excels in multimodal tasks, integrating vision, text, and code understanding, and has demonstrated significant breakthroughs such as AlphaFold. However, OpenAI continues to dominate the commercial AI market with its GPT series, supported by a strong partnership with Microsoft and a broad ecosystem, while Anthropic emphasizes safety and reliability, gaining enterprise traction. Given the rapid pace of advancements, model capabilities are evolving quickly, and competition among these labs is intensifying. Predicting whether Google will have the top AI model by the end of June 2026 depends on ongoing innovations, deployment success, and how each organization addresses safety, scalability, and enterprise adoption.
 
 

@@ -1,49 +1,55 @@
 # Research: Will Logan Paul score a TD during Flag Football Classic?
 
 **Market ID:** 0x933b3803e36e06b4095bed49d05b98c79b536cffbd04ff00179e5d82375e1a6f
-**Researched At:** March 5, 2026 at 02:57:25 PM UTC
+**Researched At:** March 10, 2026 at 03:03:44 PM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Logan Paul score a TD during Flag Football Classic?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-None of the supplied research gives performance or role details on Logan Paul in the Flag Football Classic, so the 74.5% probability appears to rest on hype rather than hard data. There’s no clear mispricing beyond trivial noise.
+Based on Paul’s public confidence and the exhibition’s entertainment focus, a ~74% chance is reasonable; there’s no clear data suggesting a sizable mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-- The market asks whether Logan Paul will record ≥1 touchdown (passing, receiving, rushing, or defensive) in any game of the 2026 Fanatics Flag Football Classic by March 31, 2026, 11:59 PM ET.  
-- YES if he’s ever credited with a TD; NO otherwise (including cancellation or indeterminate reporting).
+This market asks: “Will Logan Paul record at least one touchdown in the 2026 Fanatics Flag Football Classic?” A “YES” requires him to be credited with any passing, rushing, receiving, or defensive TD during the game(s) on or before March 31, 2026; otherwise it resolves “NO.”
 
 2. EVIDENCE EVALUATION  
-- None of the five research articles provide any data on Logan Paul’s actual role, playing time, skill set in flag football, or team game plan. They’re all about trash-talk, hype, or nostalgia—no stats or insider info.  
-- No specific bullish evidence (e.g., Paul has been training as a receiver or got a pass-target share in scrimmages).  
-- No specific bearish evidence (e.g., he’s slotted on defense only or will be sidelined).  
-- All sources are recent (Feb–Mar 2026) and from established sports media, but none bear on scoring outcomes.
+Bullish signals (supporting ~74%):  
+• Logan Paul has publicly vowed to score a TD (ClutchPoints, 2026-03-05).  
+• The exhibition is entertainment-driven; coaches and broadcasters want highlights, so they’ll likely design a play to get Paul into the end zone.  
+• The game date (March 21 in L.A.) is confirmed (ClutchPoints, 2026-03-06).  
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 74.5% price could reflect general consensus that celebrity exhibition games are high-scoring and that Paul will get a gimmick TD for entertainment.  
-- Low $5.5k volume and tight spread suggest a few traders set this price; informed NFL-insider traders may have little edge here.  
-- The lack of substantive information means many may simply default to a “he’ll get on the board” assumption.
+Bearish signals (suggesting lower than 74%):  
+• Paul has no documented flag-football or high-level football résumé; his athletic exploits are in wrestling and exhibition contests.  
+• There is no specific insight into offensive schemes or play distributions that guarantee he’ll touch the ball in the red zone.  
+
+Source credibility: Both ClutchPoints articles are recent (early March 2026), from a specialized sports outlet. No contradictory or higher-quality data was found.
+
+3. MARKET EFFICIENCY  
+• The 74% price could reflect a simple consensus: non-NFL athletes rarely score but the exhibition context and Paul’s own promotion boost his chances.  
+• $0 volume suggests pricing by a small set of traders, yet the narrow 4¢ spread indicates someone posted both sides, implying minimal disagreement at this price.  
+• Low volume likely reflects the niche interest of this market, not necessarily that it’s mispriced.
 
 4. MISPRICING ASSESSMENT  
-- No credible, concrete evidence is missing from the market price. The 74.5% likely embeds subjective hype rather than solid analytic insight, but without contradictory data we can’t reliably argue for a >20¢ mispricing.  
-- It’s possible the price is somewhat noisy given low volume, but there’s no specific evidence to push it materially up or down.
+• No hard statistical or insider intel has emerged to shift probability meaningfully above or below ~74%.  
+• The market acknowledges the uncertainty (he might fumble plays or be left off key series), yet also the showmanship factor.  
+• There’s no specific new evidence pointing to a mispricing of more than a few cents. A unilateral push to, say, 90% or 50% would require unexpected info (e.g., injury, playbook leaks) that we don’t have.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence for mispricing: ~20% (we have virtually no direct data).  
-- Potential magnitude of mispricing: ~5¢.  
-- Expected value = 20% × 5¢ = 1¢.
+Strength of evidence that price is wrong: 20% (largely speculative, no solid data).  
+Potential magnitude of mispricing: up to 5 cents (small given the evidence vacuum).  
+EV = 20% × 5¢ = 1¢
 
 EXPECTED_VALUE: 1  
-SUMMARY: None of the supplied research gives performance or role details on Logan Paul in the Flag Football Classic, so the 74.5% probability appears to rest on hype rather than hard data. There’s no clear mispricing beyond trivial noise.  
-CONFIDENCE: low
+SUMMARY: Based on Paul’s public confidence and the exhibition’s entertainment focus, a ~74% chance is reasonable; there’s no clear data suggesting a sizable mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -51,31 +57,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Tom Brady and Logan Paul heat up the Fanatics Flag Football Classic with a pre-event ego clash in Riyadh | Marca
+Title: Tom Brady, Logan Paul-led Fanatics Flag Football Classic changes locations amid Middle East tensions
+Author: Andrew Korpan
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://clutchpoints.com/nfl/nfl-stories/tom-brady-logan-paul-fanatics-flag-football-classic-changes-location
+Summary: The Fanatics Flag Football Classic, featuring Tom Brady and Logan Paul, has been relocated from Riyadh, Saudi Arabia, to Los Angeles due to Middle East tensions stemming from US and Israeli military actions against Iran. The game will be held at BMO Stadium on March 21, 2026, and will be broadcast by FOX Sports and Tubi, with notable NFL players participating. While the event highlights Brady's return from retirement and a rivalry between Brady and Paul, there is no specific information about individual player performances, including whether Logan Paul will score a touchdown during the game.
+
+Title: Logan Paul may 'throw hands' with Tom Brady after latest 'b***h' insult
+Author: Andrew Korpan
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://clutchpoints.com/celebrity/logan-paul-may-throw-hands-tom-brady
+Summary: Logan Paul has expressed confidence in his athletic abilities and has stated he plans to score a touchdown during the upcoming Fanatics Flag Football Classic. Despite recent banter and a beef with Tom Brady, Paul remains optimistic about his performance in the game scheduled for March 21, 2026. His competitive attitude suggests he is motivated to succeed and potentially score a touchdown during the event.
+
+Title: 50 Seasons, Top 50 Buccaneers Revealed: 30-21
 Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.marca.com/en/nfl/las-vegas-raiders/2026/02/19/699774d546163f8b5e8b45af.html
-Summary: The article highlights a pre-event ego clash between Tom Brady and Logan Paul at the Fanatics Flag Football Classic in Riyadh, generating significant buzz and anticipation. While it emphasizes the personalities and competitive tension between the two, it does not provide specific details about gameplay, player performance, or strategies related to scoring. Therefore, there is no information indicating whether Logan Paul is likely to score a touchdown during the event.
-
-Title: Logan Paul Claims He Could Beat Any NFL Player in a Real Fight After Tom Brady Trash Talk
-Author: Steve Carrier
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.ringsidenews.com/logan-paul-claims-he-could-beat-any-nfl-player-in-a-real-fight-after-tom-brady-trash-talk/
-Summary: Logan Paul has publicly engaged in a rivalry with Tom Brady, sparked by Brady's viral trash talk calling Paul a “bitch” during training for a flag football event. Paul responded on his podcast, asserting that NFL players like Brady would not want to engage in a real fight, citing his own combat sports experience and suggesting that professional football players would struggle in a physical confrontation with trained fighters. While the article discusses tensions and Paul’s confidence in his fighting ability, it does not provide specific details about his performance or likelihood of scoring a touchdown during the upcoming Flag Football Classic.
-
-Title: Tom Brady Calls WWE 'Cute' and Roasts Logan Paul ...
-Author: vishalbhawani Wed, February 11, 2026 at 1:52 AM UTC · 2 min read
-URL: https://sports.yahoo.com/articles/wwe-logan-paul-playfully-roasted-015221723.html
-Summary: The article primarily discusses Tom Brady's playful comments about WWE, describing it as "cute," and includes a roast of Logan Paul regarding his athleticism. While it highlights Brady's opinions and interactions with Logan Paul, it does not provide specific information about Logan Paul's performance or potential to score a touchdown during the Flag Football Classic. Therefore, there is no relevant data in this webpage to predict whether Logan Paul will score a touchdown in that event.
+URL: https://www.buccaneers.com/news/50-seasons-top-50-buccaneers-revealed-30-21
+Summary: The webpage details the Tampa Bay Buccaneers' top 50 players of the last 50 seasons, highlighting their diverse paths to NFL success, including draft picks, undrafted free agents, and trades. It features players ranked 30-21, such as Ali Marpet, a versatile offensive lineman who played from 2015-2021, won a Super Bowl, and made a Pro Bowl. The focus is on team history and player achievements, with no mention of Logan Paul or flag football. Therefore, the information is not relevant to predicting whether Logan Paul will score a touchdown during the Flag Football Classic.
 
 Title: Tom Brady can't resist fresh Logan Paul swipe ahead of flag football showdown - The Mirror US
 Author: Rory Robinson
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://www.themirror.com/sport/american-football/tom-brady-logan-paul-feud-1682946
-Summary: Tom Brady and Logan Paul are set to face off in the upcoming Fanatics Flag Football Classic in Riyadh, Saudi Arabia. The event features NFL stars and current players, with Brady expected to be a team captain. Prior to the game, Logan Paul posted a wrestling clip showcasing athletic moves, prompting Brady to mock him, highlighting their playful rivalry. While the event emphasizes entertainment and athleticism, there is no specific information indicating whether Logan Paul will score a touchdown during the game.
+Summary: The article highlights the ongoing playful rivalry between NFL legend Tom Brady and WWE superstar Logan Paul ahead of the upcoming Fanatics Flag Football Classic in Riyadh, Saudi Arabia. Logan Paul has posted a wrestling clip showcasing impressive athletic moves, prompting Brady to mockingly respond, emphasizing the difference between wrestling and football. The event, scheduled for March 21 and to be broadcast on Fox Sports and Tubi, features teams coached by NFL stars and includes notable players like Jayden Daniels and other NFL athletes. While the article does not specify individual player performances or strategies, Logan Paul's athletic background and recent wrestling feats suggest he has the physical capability to potentially score a touchdown, but there is no definitive information confirming whether he will do so during the game.
 
-Title: In honor of tonight's CFP matchup, let's throw it back to the ...
-URL: https://www.facebook.com/CFBonFOX/posts/in-honor-of-tonights-cfp-matchup-lets-throw-it-back-to-the-2006-fiesta_bowl-bron/1264255532244201/
-Summary: The webpage highlights a memorable moment from the 2006 Fiesta Bowl, where Boise State's Ian Johnson scored a game-winning two-point conversion and proposed to his girlfriend live on TV. While the content is nostalgic and related to college football, it does not provide any information about Logan Paul, flag football, or predictions regarding his potential to score a touchdown during the Flag Football Classic. Therefore, there is no relevant information on this webpage to help predict whether Logan Paul will score a touchdown in that event.
+Title: F2018-Business-Academic-Program-Review.pdf
+Author: 
+URL: https://www.lssu.edu/wp-content/uploads/2018/12/F2018-Business-Academic-Program-Review.pdf
+Summary: The provided document is an academic program review for Lake Superior State University's Lukenda School of Business, focusing on its mission, goals, and accreditation status. It details the school's commitment to excellence in teaching, experiential learning, and community impact, aligning with the university's strategic goals of fostering an inclusive, collaborative environment. However, it does not contain any information related to Logan Paul, flag football, or scoring predictions for sporting events. Therefore, it does not provide relevant data or insights to predict whether Logan Paul will score a touchdown during the Flag Football Classic.
 
 
