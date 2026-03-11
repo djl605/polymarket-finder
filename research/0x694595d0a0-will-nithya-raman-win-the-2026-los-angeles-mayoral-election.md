@@ -1,52 +1,51 @@
 # Research: Will Nithya Raman win the 2026 Los Angeles mayoral election?
 
 **Market ID:** 0x694595d0a008f10e4701285d071e4b08407495f6f8a6bd8cbdd7de522fa9b463
-**Researched At:** March 1, 2026 at 05:58:51 AM UTC
+**Researched At:** March 11, 2026 at 04:16:48 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Nithya Raman win the 2026 Los Angeles mayoral election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 2.0¢
+**Confidence:** Low
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Qualitative research highlights both momentum and challenges for Raman but yields no fresh numeric data to shift her implied 35% win probability by more than a few cents. Low volume yet tight spread suggests a modest consensus among informed traders, so any mispricing appears minimal.
+Current research offers no concrete polling or fundraising data but suggests a competitive race with Bass as frontrunner; price in the low-30s seems to reflect genuine uncertainty rather than a clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Nithya Raman will emerge as the ultimate winner of the 2026 Los Angeles mayoral election (including a potential November runoff if no one gets >50% in June). YES resolves if she outpolls all rivals in June or, failing a majority, wins the November runoff; NO otherwise.
+The market asks: “Will Nithya Raman win the 2026 Los Angeles mayoral election?” A “YES” requires Raman to finish first in the June 2 primary with a majority—or place in a runoff on Nov 3 and then win that head-to-head. A “NO” occurs if she either fails to make the runoff or loses the general runoff.
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• Raman’s upset 2020 victory shows she can topple incumbents.  
-• Growing progressive energy and dissatisfaction with Bass over crisis management (Palisades fire, housing) may boost her base.  
-• Few high-profile challengers remain, improving her visibility.  
+Bullish for Raman:  
+• Five news outlets confirm her formal launch on March 9; prominent contenders Caruso and Beutner have withdrawn, Horvath isn’t running—reducing the field.  
+• Her progressive platform may energize grassroots turnout and consolidate a left-wing base.  
 
-Bearish signals:  
-• Very late entry (hours before filing deadline) has constrained fundraising and endorsements.  
-• Bass retains incumbency advantages and moderate appeal in a city that still values stability.  
-• Analysts flag risks from Raman’s shifting policy positions that could alienate core supporters.  
+Bearish for Raman:  
+• No polling or fundraising data in any report.  
+• One analysis argues her entry splits the progressive vote to Karen Bass’s advantage, painting Bass as the pragmatic frontrunner.  
+• LA’s electorate may favor moderate/centrist candidates, and Bass’s name recognition and broad appeal aren’t quantified in these findings.  
 
-No public polling data yet. All sources are from credible outlets (NYT, LA Times, OC Register) in Feb ’26. The evidence is qualitative, conflicting, and likely already known to market participants, so it offers little unpriced edge.
+Source credibility and recency: All are credible local outlets from March 9, 2026. The “splitting” analysis lacks data but fits historical campaign dynamics.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 35% probability reflects a balanced view of her upside (progressive enthusiasm, upset history) vs. downside (late start, fundraising gap, incumbent strength). The tight 2¢ spread despite low volume suggests the few traders involved share similar information rather than an uninformed outlier skewing price. The market’s age (142 days) and lack of new polling may explain persistent low engagement rather than strong inefficiency.
+A 31.5% price could reflect cautious assessment: she’s a credible candidate but faces a formidable front-runner and uncertain fundraising/polling. Low volume may simply reflect early stage uncertainty rather than one dominant trader. If the market consensus were clear (e.g., strong poll lead), volume and price would likely adjust; instead, it hovers in the low 30s, signaling true information gaps.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, credible data point—such as an unexpected poll or donor haul—that materially alters her win chances beyond the ±10% already implied. Given the qualitative balance and absence of concrete new information, a large mispricing (>20¢) is unlikely. Any mispricing is probably small (<5¢), reflecting normal uncertainty rather than overlooked facts.
+No polling, fundraising, or endorsements data are missing from price but would be crucial. The current price plausibly embeds: moderate progressive enthusiasm (boosting her) offset by Bass’s presumed lead. There’s no specific, credible evidence suggesting a >20¢ mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence (that a mispricing >5¢ exists): ~40%  
-• Magnitude of mispricing if present: ~5¢  
-• EV ≈ 0.40 × 5¢ = 2.0¢
+Strength of evidence for mispricing: ~20% (no clear new info).  
+Magnitude: ~5¢ (small potential adjustment if later polls favor/disfavor her).  
+Expected value ≈ 20% × 5¢ = 1¢.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Qualitative research highlights both momentum and challenges for Raman but yields no fresh numeric data to shift her implied 35% win probability by more than a few cents. Low volume yet tight spread suggests a modest consensus among informed traders, so any mispricing appears minimal.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: Current research offers no concrete polling or fundraising data but suggests a competitive race with Bass as frontrunner; price in the low-30s seems to reflect genuine uncertainty rather than a clear mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -54,48 +53,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Nithya Raman Announces She Will Run for Los Angeles Mayor - The New York Times
+Title: Councilwoman Nithya Raman formally launches her campaign for LA mayor – Daily News
+Author: City News Service  |  news@socalnews.com
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.dailynews.com/2026/03/08/councilwoman-nithya-raman-formally-launches-her-campaign-for-la-mayor/?mrfcid=2026030969a2a08438899b15227ff56d
+Summary: Nithya Raman has officially launched her campaign for Los Angeles mayor in 2026, emphasizing her commitment to addressing the city's urgent issues such as housing, homelessness, public safety, and basic city services. She criticizes political caution and voter reluctance as barriers to transformative change and advocates for a reallocation of the city budget to better serve communities. Raman's campaign kickoff was held at the Van Nuys/Sherman Oaks Recreation Center, with supporters engaging in outreach efforts. Her decision to run follows the withdrawal of other prominent candidates, including Austin Beutner and Rick Caruso, and the announcement that Lindsey Horvath will focus on her re-election to the Board of Supervisors. Raman's success may depend on her ability to mobilize support around her progressive platform and differentiate herself amid a potentially competitive field.
+
+Title: Nithya Raman Formally Launches Campaign For LA Mayor | Los Angeles, CA Patch
 Author: 
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.nytimes.com/2026/02/07/us/nithya-raman-los-angeles-mayor.html
-Summary: Nithya Raman, a progressive Los Angeles City Council member, has announced her candidacy for the 2026 mayoral election, challenging incumbent Mayor Karen Bass. Raman's entry into the race comes after several potential candidates withdrew, potentially reshaping the electoral landscape. At 44, she is seen as a generational challenger to the 72-year-old Bass, whose popularity has declined due to controversies, including her absence during a significant local crisis. Raman emphasizes urgent issues like housing costs and city infrastructure, resonating with voters who feel the city is at a "breaking point." Her previous support from the Democratic Socialists of America and comparisons to influential figures like Alexandria Ocasio-Cortez suggest she may attract a strong progressive base. The dynamics of the race, including Bass's weakened standing and recent candidate withdrawals, could influence Raman's chances of winning.
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://patch.com/california/los-angeles/nithya-raman-formally-launches-campaign-la-mayor
+Summary: Nithya Raman has officially launched her campaign for Los Angeles mayor, emphasizing her efforts to address critical city issues such as housing, homelessness, public safety, and basic services. She criticizes the current political reluctance to implement transformative policies and advocates for reallocating the city budget to prioritize community needs. Raman's campaign, announced at a community event, positions her as a candidate committed to bold change and accountability. Her success in the 2026 election will depend on voter support for her reformist platform amid a potentially competitive field.
 
-Title: Nithya Raman stunned the L.A. political world in 2020. Now, she wants to do it again - Los Angeles Times
-Author: By  Noah Goldberg Staff Writer     Follow        Feb. 17, 2026  3 AM PT
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.latimes.com/california/story/2026-02-17/nithya-raman-stunned-la-political-world-in-2020-now-she-wants-to-do-it-again
-Summary: Nithya Raman, a current City Council member, has officially entered the 2026 Los Angeles mayoral race, aiming to challenge incumbent Karen Bass. Her late entry poses challenges in securing endorsements and fundraising, but her previous political upset in 2020, where she defeated a well-funded incumbent, showcases her ability to attract votes. Raman's political evolution includes a shift in her stance on policing and adjustments to her support for the city's mansion tax, which may affect her appeal among progressive voters. With three months until the primary, her success will depend on quickly building a campaign infrastructure and leveraging her established political record, particularly on homelessness, an issue she has worked on alongside Bass. Political analysts believe she could be competitive, but the dynamics of her late entry and evolving positions will be critical in predicting her chances of winning the election.
+Title: Councilwoman Nithya Raman formally launches her campaign for LA mayor – San Gabriel Valley Tribune
+Author: City News Service  |  news@socalnews.com
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.sgvtribune.com/2026/03/08/councilwoman-nithya-raman-formally-launches-her-campaign-for-la-mayor/?mrfcid=2026030969a2a08338899b15227fe1c7
+Summary: Nithya Raman has officially launched her campaign for Los Angeles mayor in 2026, emphasizing her focus on addressing urgent city issues such as housing, homelessness, public safety, and basic city services. She criticizes political caution and reluctance within City Hall as barriers to transformative change and advocates for a reallocation of the city budget to better serve communities. Raman's campaign follows her tenure on the LA City Council and comes amid a competitive field, with some prominent potential challengers, like Lindsey Horvath and Rick Caruso, choosing not to run. Her success may depend on her ability to mobilize support around her reform-oriented platform and differentiate herself from other candidates in a crowded race.
 
-Title: Councilmember Nithya Raman to run for L.A. mayor, challenging onetime ally Karen Bass - Los Angeles Times
-Author: By  David Zahniser  and  Noah Goldberg      Feb. 7, 2026    Updated  2:03 PM PT
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.latimes.com/california/story/2026-02-07/councilmember-nithya-raman-will-run-for-la-mayor-challenging-onetime-ally-karen-bass
-Summary: Councilmember Nithya Raman has officially entered the race for the 2026 Los Angeles mayoral election, challenging incumbent Mayor Karen Bass, who was previously her ally. Raman's candidacy comes at a critical time, as Bass faces significant criticism over her handling of the Palisades fire and other city issues, including high housing costs and homelessness. Raman, who has positioned herself as a change agent, argues that the city government is failing to manage basic services effectively.
+Title: Councilwoman Nithya Raman formally launches her campaign for LA mayor – Daily Breeze
+Author: City News Service  |  news@socalnews.com
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.dailybreeze.com/2026/03/08/councilwoman-nithya-raman-formally-launches-her-campaign-for-la-mayor/?mrfcid=2026030969a2a08338899b15227fea7d
+Summary: Nithya Raman has officially launched her campaign for Los Angeles mayor, emphasizing her commitment to addressing the city's urgent issues such as housing, homelessness, public safety, and basic services. She criticizes political caution and voter reluctance as barriers to transformative change in LA. Raman's campaign is positioned against a shifting field of candidates, with notable figures like Lindsey Horvath, Austin Beutner, and Rick Caruso opting not to run. Her focus on bold policy reforms and her recent entry into the race suggest she aims to mobilize support around her vision for city improvements. However, predicting her victory will depend on her ability to garner widespread voter support amid a competitive and dynamic electoral landscape.
 
-Raman's entry into the race, just hours before the filing deadline, disrupts what seemed to be a clear path for Bass's reelection after several potential challengers withdrew. Raman's progressive platform, supported by her ties to the Democratic Socialists of America and the YIMBY movement, suggests she could attract voters seeking substantial reforms.
-
-Political analysts note that Raman's challenge from the left indicates potential vulnerabilities in Bass's administration, which has been criticized for not adequately addressing pressing issues. The Bass campaign defends her record, highlighting achievements in affordable housing and public safety.
-
-Factors that could influence the outcome of the election include public sentiment regarding Bass's performance, Raman's ability to mobilize progressive voters, and the overall political climate in Los Angeles as the election approaches.
-
-Title: Nithya Raman’s entry tests Karen Bass from the left in Los Angeles mayoral race – Orange County Register
-Author: Teresa Liu  |  tliu@scng.com
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.ocregister.com/2026/02/10/nithya-ramans-entry-tests-karen-bass-from-the-left-in-los-angeles-mayoral-race/
-Summary: Nithya Raman's recent entry into the 2026 Los Angeles mayoral race presents a significant challenge to incumbent Mayor Karen Bass, particularly from a progressive standpoint. Analysts suggest that Raman's candidacy could disrupt the dynamics of the primary election, making a runoff more likely due to the crowded field. Unlike previous opponents, Raman's progressive platform on key issues like housing and homelessness may resonate with voters who feel Bass has shifted toward the political center during her term.
-
-While Bass remains the frontrunner, Raman's presence complicates her ability to consolidate progressive support, as it may energize voters who are dissatisfied with Bass's centrist approach. Political strategist Dan Schnur notes that it will be more challenging for Bass to frame Raman negatively compared to past opponents. Additionally, former City Councilmember Mike Bonin highlights that Raman's campaign could invigorate progressive voters and influence down-ballot races, indicating a broader shift in voter sentiment.
-
-Ultimately, the outcome of the election will depend on how effectively Raman can mobilize progressive support and whether Bass can maintain her coalition amid this new challenge.
-
-Title: Nithya Raman stunned the L.A. political world in 2020. Now, she wants to do it again - Los Angeles Times
-Author: By  Noah Goldberg Staff Writer     Follow        Feb. 17, 2026  3 AM PT
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.latimes.com/california/story/2026-02-17/nithya-raman-stunned-la-political-world-in-2020-now-she-wants-to-do-it-again?rand=643
-Summary: Nithya Raman, a City Council member known for her surprising 2020 victory over incumbent David Ryu, has entered the 2026 Los Angeles mayoral race, challenging current mayor Karen Bass. Raman's late entry may hinder her ability to secure endorsements and fundraising, but her established political record and experience in City Hall could bolster her candidacy. 
-
-Raman's campaign is characterized by her previous outsider status and her focus on issues like homelessness, where she has collaborated with Bass. However, she has faced criticism from her progressive base for shifting positions on policing and tax reforms, which could impact her support among left-leaning voters. 
-
-Political analysts suggest that her ability to attract votes makes her a competitive candidate, especially in a race that has seen a lack of high-profile challengers. Ultimately, her success will depend on her ability to navigate the political landscape, secure funding, and maintain support from her base while appealing to a broader electorate.
+Title: How Nithya Raman Entering the Mayor's Race Helps Karen Bass Win
+Author: 
+Published Date: 2026-02-14T00:00:00.000Z
+URL: https://www.jcipr.com/post/how-nithya-raman-entering-the-mayor-s-race-helps-karen-bass-win
+Summary: Nithya Raman's recent entry into the Los Angeles mayoral race strategically benefits frontrunner Karen Bass by splitting the progressive vote and consolidating moderate and centrist support for Bass. Raman's presence divides the left-leaning coalition, allowing Bass to position herself as the pragmatic, experienced leader focused on governance rather than ideological battles. Additionally, Raman's candidacy shifts discourse away from intra-party conflicts, enabling Bass to maintain a strong, unified front and appeal to moderate voters, including Republicans and independents. This electoral dynamic suggests that Raman's participation may reinforce Bass's chances of winning future elections, such as the 2026 mayoral race, by strengthening her moderate appeal and reducing the likelihood of a united progressive challenge.
 
 

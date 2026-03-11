@@ -1,48 +1,54 @@
 # Research: Will the Republican Party win the OH-10 House seat?
 
 **Market ID:** 0x3961473d4a336d8eded9cf3cca299ca72bd68c57a435d82b7c5289f276b7d0c9
-**Researched At:** March 1, 2026 at 06:07:09 AM UTC
+**Researched At:** March 11, 2026 at 04:17:31 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the OH-10 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.0¢
+**Confidence:** Medium
+**Expected Value:** 1.0¢
 
 ### Summary
 
-None of the research specifically covers OH-10, so there is no direct evidence to challenge or confirm the current 72% price. Given the lack of OH-10 data, the market’s probability remains plausible but untested.
+While Ohio’s GOP‐driven redistricting implies a Republican advantage, there’s no district‐specific data on past margins or candidate quality for OH-10. The 67.5% price could simply reflect a cautious estimate of structural GOP lean without clear signs of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Republican Party’s nominee will win Ohio’s 10th Congressional District in the November 4, 2026 midterms. A “YES” resolution requires that the ballot‐listed or caucus‐aligned Republican wins the general election; otherwise it resolves “NO.”  
+The market asks: “Will the Republican Party win Ohio’s 10th Congressional District seat in the U.S. House in November 2026?”  
+• YES resolves if the GOP nominee garners a plurality in the general election.  
+• NO resolves if a Democrat or other party’s candidate wins.
 
 2. EVIDENCE EVALUATION  
-• None of the provided research directly addresses OH-10. All articles cover OH-9 and other races (e.g., Marcy Kaptur’s district or NE Ohio’s 7th).  
-• There is no polling, demographic data, fundraising tallies, candidate profiles, or partisan lean information on OH-10 in these findings.  
-• Evidence on OH-9 flips and competitive districts suggests a broader regional GOP tailwind, which could indirectly support a Republican‐favored OH-10. But without OH-10 specifics, it’s unclear how much of that has been priced in.  
-• No evidence directly undermines a 72% probability for OH-10; likewise, none concretely bolsters it.  
+Bullish (for GOP >67.5%):  
+• Multiple sources (NOTUS, PoliticalWire, NRCC) document aggressive Republican‐led redistricting across Ohio, making formerly competitive or Democratic‐held districts more favorable to the GOP. Although those analyses focus on OH-9 and OH-1, they imply a statewide tilt that likely carries into OH-10.  
+• Ballotpedia notes a highly competitive field in OH-10 primaries, but no incumbent advantage on the Democratic side, suggesting Republicans have at least structural leverage.  
+
+Bearish (for GOP <67.5%):  
+• None of the sources provide district‐specific Partisan Voting Index, past election margins, or candidate quality data for OH-10, leaving significant uncertainty about the general election dynamics.  
+• Competitive primaries mean the eventual GOP nominee’s strength is unknown; a weak nominee could underperform.  
+• Low trading volume indicates few information‐rich participants engaging—if the GOP’s path were so clear, higher volume or narrower spreads might emerge.
+
+Source Credibility & Recency:  
+All sources are from February–March 2026, reputable outlets or party committees. They credibly document a pro‐GOP redistricting trend but lack OH-10–specific polling or PVI data.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 72% price may reflect the consensus that OH-10 leans Republican post-redistricting, even though detailed local analysis is absent.  
-• Low volume implies few active participants; but if the district’s partisan lean is well known to traders, they may see little need to trade.  
-• Alternatively, informed traders may simply have overlooked this market, leaving the price unchanged.  
+Reasonable interpretation of 67.5%: traders may be pricing in a modest Republican lean from redistricting plus Ohio’s recent statewide GOP strength, but discounting uncertainty about the nominee and turnout. The tight spread (3¢) despite zero volume suggests one or two active traders. The low volume likely reflects both low visibility and genuine data gaps rather than overwhelming consensus.
 
 4. MISPRICING ASSESSMENT  
-• No specific, credible evidence indicates the market has under- or over-valued the Republican win probability.  
-• The question remains highly uncertain without detailed OH-10 data; the 72% price is within a plausible ballpark given broader state trends.  
+There is no direct district‐level polling or PVI data missing from the price; rather, there is simply a dearth of detailed evidence publicly available. The market price plausibly reflects an informed trader’s synthesis of statewide redistricting effects and generic midterm GOP momentum. No specific, credible indicator suggests a >20¢ gap between 67.5% and the true probability.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market is mispriced: 0% (no direct evidence).  
-Magnitude of mispricing: 0¢ (no basis to quantify an error).  
-Expected value = 0% × 0¢ = 0¢.  
+Strength of evidence (that price is off): 20%  
+Magnitude of mispricing: 5 cents  
+Expected value = 0.20 × 5¢ = 1¢
 
-EXPECTED_VALUE: 0.0  
-SUMMARY: None of the research specifically covers OH-10, so there is no direct evidence to challenge or confirm the current 72% price. Given the lack of OH-10 data, the market’s probability remains plausible but untested.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1  
+SUMMARY: While Ohio’s GOP‐driven redistricting implies a Republican advantage, there’s no district‐specific data on past margins or candidate quality for OH-10. The 67.5% price could simply reflect a cautious estimate of structural GOP lean without clear signs of a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -50,40 +56,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Republicans Set to Flip OH-09, Retire Marcy Kaptur - NRCC
-Author: Zach Bannon
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.nrcc.org/2026/02/04/republicans-set-to-flip-oh-09-retire-marcy-kaptur/
-Summary: The NRCC article discusses the Republican Party's strategy to flip the OH-09 House seat, currently held by long-serving Democrat Marcy Kaptur. With Kaptur's retirement, Republicans are optimistic about their chances, highlighting four dynamic candidates who bring diverse backgrounds and experiences. The NRCC Chairman Richard Hudson emphasizes the potential for Republicans to grow their House majority by winning this seat, suggesting a strong campaign effort is underway. The article indicates that the Republican candidates are positioned to provide better representation for Northwest Ohio, which could influence voter sentiment in the upcoming election. This context may be relevant for predicting the Republican Party's chances in the OH-10 House seat, as it reflects broader trends in voter preferences and party dynamics in the region.
-
 Title: Marcy Kaptur Faces Her Toughest Race Yet After Ohio’s Republican Redistricting - NOTUS — News of the United States
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://www.notus.org/2026-election/ohio-marcy-kaptur-democratic-reelection-redistricting
-Summary: Rep. Marcy Kaptur, the longest-serving congresswoman in U.S. history, faces a challenging re-election in Ohio's 9th Congressional District due to significant Republican-led redistricting. The new map has made the district more conservative, with President Trump winning it by 7 points in 2024. Kaptur's previous victory margin was slim, winning by less than 3,000 votes, which has made her a target for Republicans eager to flip the seat. Seven Republican candidates are competing for the nomination, including Madison Sheahan, a former ICE deputy director. The National Republican Congressional Committee (NRCC) views this district as a prime opportunity to unseat Kaptur, emphasizing the favorable presidential margin for Republicans. Given these dynamics, the Republican Party appears well-positioned to contest the OH-9 seat, making it a critical race to watch in the upcoming election.
-
-Title: Marcy Kaptur Faces Her Toughest Race Yet - NRCC
-Author: Zach Bannon
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.nrcc.org/2026/02/10/marcy-kaptur-faces-her-toughest-race-yet/
-Summary: Marcy Kaptur, a long-serving Democratic congresswoman, is facing a challenging election in Ohio's 9th Congressional District, which has been redrawn to be more conservative due to Republican-led redistricting. This shift has made the district more favorable for Republican candidates, raising concerns about Kaptur's re-election prospects. The National Republican Congressional Committee (NRCC) is optimistic about flipping the seat, suggesting that Kaptur's tenure as a career politician may be coming to an end. Given these factors, the Republican Party appears to have a strong opportunity to win the OH-10 House seat, particularly if voter sentiment aligns with the district's new conservative leanings.
+Summary: The article discusses the challenging electoral environment for Democratic Rep. Marcy Kaptur in Ohio's 9th Congressional District, which has been redrawn to favor Republicans and is now more conservative. President Trump won this district by 7 points in 2024, and the Republican Party is actively targeting it, with seven candidates vying for the nomination to unseat Kaptur. The Republican National Congressional Committee views the district as a prime opportunity to flip a Democratic seat, highlighting its strong Republican leanings. While the article focuses on OH-09, the context suggests a broader Republican strategy in Ohio to contest and potentially win seats held by Democrats, including the OH-10 district. Therefore, the Republican Party appears to have a significant opportunity to win the OH-10 House seat, especially given the state's redistricting and the competitive nature of these districts.
 
 Title: Marcy Kaptur Faces Her Toughest Race Yet
 Author: Taegan Goddard
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://politicalwire.com/2026/02/10/marcy-kaptur-faces-her-toughest-race-yet/
-Summary: Rep. Marcy Kaptur, a long-serving Democratic congresswoman, is facing a challenging re-election campaign in Ohio's 9th Congressional District, which has been redrawn to be more conservative due to Republican-led redistricting. This shift has made the district more competitive, increasing the likelihood that Republicans could successfully contest the seat. Kaptur's extensive experience and history of winning elections since 1982 may be tested as Republicans aim to flip this district. The outcome of her race could be indicative of broader trends in Ohio and the national political landscape, making it a key seat to watch for predictions about Republican success in the upcoming elections.
+Summary: The article discusses Rep. Marcy Kaptur's upcoming election campaign in Ohio, highlighting that she faces her most challenging race yet due to redistricting. The new district map has made Ohio’s 9th Congressional District more conservative, increasing the likelihood of a Republican victory. While Kaptur has a long history of winning competitive elections, the redistricting and shifting political landscape suggest that her re-election in this seat could be uncertain, which may impact predictions about the Republican Party's chances of winning the OH-10 House seat.
 
-Title: More than a half dozen Dems are challenging this GOP congressman; See who’s running in NE Ohio
-Author: Sabrina Eaton, cleveland.com
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.cleveland.com/news/2026/02/more-than-a-half-dozen-dems-are-challenging-this-gop-congressman-see-whos-running-in-ne-ohio.html
-Summary: The article discusses the competitive political landscape in Northeast Ohio, particularly focusing on the upcoming elections for congressional seats, including the 7th district held by Republican Max Miller. A significant number of Democratic candidates—eight in total—are vying for the chance to challenge Miller in the November election, indicating strong Democratic interest in flipping this seat. Key candidates include former Cuyahoga County executive Ed Fitzgerald and Brook Park council member Brian Poindexter, among others.
+Title: Marcy Kaptur Faces Her Toughest Race Yet - NRCC
+Author: Zach Bannon
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://www.nrcc.org/2026/02/10/marcy-kaptur-faces-her-toughest-race-yet/
+Summary: The webpage discusses the challenging political landscape for Democratic incumbent Marcy Kaptur in Ohio's 9th Congressional District, which has been redrawn to be more conservative following Republican-led redistricting. While the focus is on Kaptur's race, the context suggests a broader trend of Republican efforts to flip Democratic-held seats in Ohio, including the OH-10 district. Given the GOP's active pursuit of these seats and the redistricting that favors Republicans, there is an increased likelihood that the Republican Party could win the OH-10 House seat in the upcoming election.
 
-The Democratic Congressional Campaign Committee has identified Miller's district as a target, suggesting that the party sees potential for a competitive race. Meanwhile, Miller's campaign emphasizes his focus on constituents and readiness for a vigorous campaign.
+Title: Analysis: Will GOP efforts to gerrymander Landsman out of Congress work? | WVXU
+Author: 
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://www.wvxu.org/politics/2026-02-16/analysis-ohio-gop-gerrymander-landsman-congress
+Summary: The article discusses recent GOP efforts to gerrymander Ohio's congressional districts, specifically targeting Democrat Greg Landsman in the 1st District by redrawing district boundaries to favor Republicans. This strategic redistricting has made Landsman's district significantly more Republican-leaning, potentially impacting his re-election prospects. The GOP's manipulation of district lines aims to diminish Democratic voter influence, especially in urban areas like Cincinnati. However, notable Republican candidates have not yet challenged Landsman, possibly indicating internal party considerations or strategic decisions. While the article focuses on Landsman's district, the broader context of aggressive gerrymandering in Ohio suggests that Republican candidates in other districts, such as OH-10, may also benefit from similar redistricting tactics, which could influence the likelihood of the GOP winning the OH-10 House seat.
 
-In the broader context, the Republican Party is also targeting Democratic-held seats, such as Emilia Sykes' 13th district. The outcomes of these races could significantly influence the balance of power in the House of Representatives, especially as control often hinges on a few key districts.
-
-For predicting the Republican Party's chances in the OH-10 House seat, the crowded Democratic primary and the strategic targeting by the Democratic Party suggest a potentially competitive race, which could impact the Republican hold on the seat.
+Title: Seventy-eight candidates are running for Ohio’s 15 U.S. House districts — the second-most since 2014 - Ballotpedia News
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://news.ballotpedia.org/2026/03/02/seventy-eight-candidates-are-running-for-ohios-15-u-s-house-districts-the-second-most-since-2014/
+Summary: The 2026 Ohio U.S. House elections feature a high level of candidate competition, with 78 candidates across all districts—more than in recent cycles. Specifically, the Ohio-10 district has multiple candidates, including incumbents and challengers, with primaries scheduled for May 5, 2026. The district is contested, and no incumbents are running unopposed. Given the competitive nature of the primaries and the recent redistricting, predicting the outcome for the Ohio-10 seat involves considering factors such as candidate strength, primary results, and the district's partisan leanings. The district's current political dynamics and candidate profiles will be crucial in assessing whether the Republican Party is favored to win this seat.
 
 

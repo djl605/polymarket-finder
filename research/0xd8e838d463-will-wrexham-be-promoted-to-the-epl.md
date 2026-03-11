@@ -1,58 +1,54 @@
 # Research: Will Wrexham be promoted to the EPL?
 
 **Market ID:** 0xd8e838d463004b19096d7a4638f60081360f20199020c56bd355e258be1f01a9
-**Researched At:** March 1, 2026 at 05:58:51 AM UTC
+**Researched At:** March 11, 2026 at 04:16:53 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Wrexham be promoted to the EPL?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 1.5¢
 
 ### Summary
 
-The 23.5% price aligns with Wrexham’s status as a playoff outsider—supercomputer models and bookmaker odds cluster around 20–25%—and there’s no clear, credible signal of a large mispricing. Low trading volume likely reflects moderate uncertainty rather than a significant market inefficiency.
+Public odds and supercomputer models place Wrexham as a long‐shot for EPL promotion, aligning with a ~21% market price. There’s no clear, specific evidence of a substantial mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Wrexham A.F.C. be promoted to the Premier League for the 2026–27 season?”  
-• YES resolves if Wrexham finishes in the top two of the Championship or wins the promotion playoffs (or by any official decision by EFL/Premier League) before July 1, 2026.  
-• NO resolves if they fail to secure an automatic spot or playoff victory (or if the season is not completed with promotion decisions by the deadline).
+The market asks whether Wrexham A.F.C. will secure promotion to the English Premier League for the 2026–27 season. “Yes” requires finishing in the top two of the Championship or placing 3rd–6th and winning the playoffs by the end of the 2025–26 season (or an equivalent official decision by July 1, 2026).
 
 2. EVIDENCE EVALUATION  
-Bullish signals  
-• Supercomputer predictions (Rust / SI): they forecast Wrexham to finish in the playoff positions, which historically gives an outsider ~25–35% chance of eventual promotion.  
-• Ownership/investment (ESPN): strong financial backing and infrastructure could improve squad depth and morale.  
-
-Bearish signals  
-• Bookies’ odds (Kenny): Wrexham is not listed among the top promotion favorites (Ipswich 47.6%, Birmingham 38.1%), implying lower implied promotion chances (likely sub-20%).  
-• Recent form (SI): dropped points in key matches against Millwall and Bristol City, signaling an uncertain run-in.  
-• Competitive landscape (all sources): Championship is unpredictable with many similarly resourced clubs targeting promotion.
-
-Source credibility and recency  
-• All sources are from February 2026 (supercomputer articles) or earlier; their data reflects the current season’s dynamics. Betting-site odds and supercomputer models are reputable for gauging relative probabilities but do not supply a precise promotion probability for Wrexham.
+Bullish Indicators:  
+• ESPN (2026-03-08): Wrexham is highlighted as a “strong contender” in a competitive promotion race, buoyed by recent performance and ambitious ownership.  
+Bearish Indicators:  
+• Bookies.com (2026-02-25): Early betting odds do not list Wrexham among the top promotion favorites, focusing instead on Ipswich, Southampton, Birmingham, Coventry, Middlesbrough, Leicester, and Sheffield United.  
+• SI.com (2026-02-18): A supercomputer model finds Wrexham’s playoff odds uncertain and contingent on late-season form.  
+Neutral/Irrelevant:  
+• Another supercomputer prediction (2026-03-02) does not address Wrexham.  
+• FA Cup preview (2026-03-06) focuses on cup ties, not league performance.  
+Recency & credibility: All sources are from February–March 2026, from reputable sports analytics and major outlets. None provide precise probability estimates for Wrexham beyond indicating they are not among outright favorites.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 23.5% price implies Wrexham is viewed as a long‐shot playoff outsider with a 1-in-4 chance of promotion.  
-• Low volume could mean only a few participants have set this price, but the figure aligns with what supercomputer-based playoff odds (~60–70% chance to make playoffs × ~30% chance to win playoffs ≈20–25%) would produce.  
-• If the outcome were truly obvious (either sure-fire promotion or certain failure), volume would likely be higher. Instead, the market sits at a middle‐of‐the‐road probability consistent with observed informational uncertainty.
+• A 21% price roughly aligns with a dark-horse candidate: not fancied by bookmakers yet plausible given Wrexham’s momentum.  
+• Narrow spread but low $3K volume suggests pricing by a few traders using public data, not broad consensus.  
+• The combination of supercomputer uncertainty and ESPN’s qualitative support may justify a mid-teens to low-20s percentile chance, consistent with 21%.
 
 4. MISPRICING ASSESSMENT  
-• No piece of evidence strongly contradicts a ~23% probability. Bookmakers’ implied odds for underdog status suggest promotion chances below 20%, while supercomputer forecasts suggest perhaps slightly above 20%. These roughly cancel out.  
-• No hidden factor (e.g., administrative tech­nicality) appears omitted from traders’ thinking.  
-• There is no strong signal of >20-cent mispricing; any error looks to be in the single-digit cent range at most.
+• No strong evidence that the market has overlooked material information.  
+• Both betting markets and quantitative models appear to cap Wrexham’s promotion odds below 25%, matching the 21% level.  
+• Uncertainty remains, but there’s no clear, specific factor indicating >20¢ mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 30% (little direct data on Wrexham’s precise promotion odds; estimates cluster around the market price).  
-• Magnitude of mispricing: ~5 cents.  
-• Expected value ≈ 0.30 × 5¢ = 1.5¢
+• Strength of evidence (chance that research reveals a genuine mispricing): ~30%  
+• Magnitude of potential mispricing estimate: ~5 cents  
+• Expected value = 30% × 5¢ = 1.5¢
 
 EXPECTED_VALUE: 1.5  
-SUMMARY: The 23.5% price aligns with Wrexham’s status as a playoff outsider—supercomputer models and bookmaker odds cluster around 20–25%—and there’s no clear, credible signal of a large mispricing. Low trading volume likely reflects moderate uncertainty rather than a significant market inefficiency.  
-CONFIDENCE: medium
+SUMMARY: Public odds and supercomputer models place Wrexham as a long‐shot for EPL promotion, aligning with a ~21% market price. There’s no clear, specific evidence of a substantial mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -60,61 +56,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Championship Promotion Odds 2025/26 - Wrexham Chasing Historic 4th Consecutive Promotion
-Author: Adam Kenny
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://bookies.com/uk/news/efl-championship-promotion-odds-who-will-be-promoted-to-premier-league-week-3
-Summary: The webpage discusses the Championship promotion odds for the 2025/26 season, highlighting various teams' chances of moving up to the Premier League. While Wrexham is not explicitly mentioned among the favorites, the article emphasizes the competitive nature of the league, with teams like Ipswich Town, Birmingham City, and Southampton being noted for their strong promotion odds. 
-
-To assess Wrexham's chances of promotion, consider the following factors:
-
-1. **Current Odds**: The article lists promotion odds for several teams, indicating that betting sites view Ipswich Town (11/10) and Birmingham City (13/8) as strong contenders. Wrexham's odds would need to be compared to these to gauge their likelihood.
-
-2. **Team Performance**: The previous season's performance and any changes in the squad or management can significantly impact a team's chances. Wrexham's recent form and player acquisitions should be analyzed.
-
-3. **League Dynamics**: The Championship is known for its unpredictability, with potential surprise teams emerging each season. Historical performance and current form in the league will be crucial in predicting Wrexham's success.
-
-4. **Betting Insights**: The article mentions various betting platforms and promotions, which can provide insights into public sentiment and expert predictions regarding Wrexham's promotion chances.
-
-Overall, while the article does not directly address Wrexham's promotion prospects, understanding the competitive landscape and current betting odds can help in making an informed prediction.
-
-Title: Final Championship table predicted by supercomputer with Premier League winners relegated and good news for Wrexham
-Author: Danny Rust 
-			 
-
-			 , Digital Sports Reporter
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.thesun.co.uk/sport/38346997/championship-table-supercomputer-wrexham-leicester-coventry/
-Summary: A supercomputer prediction suggests that Wrexham is likely to secure a play-off spot in the Championship, enhancing their chances of promotion to the Premier League (EPL). This optimistic outlook comes as Wrexham continues to perform well in the league. In contrast, Leicester City, the former Premier League champions, are predicted to face relegation to League One, highlighting the contrasting fortunes of the teams. Overall, Wrexham's current trajectory appears promising for their promotion aspirations.
-
 Title: Supercomputer Predicts Wrexham’s Championship Playoffs, Promotion Chances
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.si.com/soccer/supercomputer-predicts-wrexham-s-championship-playoffs-promotion-chances
-Summary: Wrexham's chances of promotion to the Premier League hinge on their ability to secure a playoff spot in the EFL Championship. After a challenging start to the 2025–26 season, the team has improved its position but recently dropped points in two consecutive matches against Millwall and Bristol City, which has affected their momentum. According to predictions from Opta's supercomputer, Wrexham needs to finish in the top six to keep their promotion hopes alive. The current playoff race is competitive, and while Wrexham has shown resilience, their recent performance will be crucial in determining their fate as the season progresses.
+Summary: The article discusses Wrexham's current position in the EFL Championship and their chances of promotion. Despite recent setbacks, Wrexham has shown significant progress since their rise from the National League, aiming for a top-six finish to qualify for the playoffs and potentially secure promotion to the Premier League. A supercomputer prediction indicates Wrexham's prospects are uncertain, with their chances of making the playoffs influenced by their recent results and the competitive nature of the league. Overall, while Wrexham's promotion to the EPL is still possible, it depends on their performance in the remaining matches and their ability to secure a playoff spot.
 
-Title: Can Wrexham really reach the Premier League against all odds?
-Author: Tom Hamilton
-Published Date: 2025-01-23T00:00:00.000Z
-URL: https://www.espn.com/soccer/story/_/id/41420944/wrexham-league-one-ryan-reynolds-rob-mcelhenney-gresford-disaster
-Summary: The article from ESPN explores Wrexham's ambitious journey towards potentially reaching the Premier League, highlighting the club's recent successes and challenges. Key factors influencing their promotion prospects include:
+Title: Championship promotion race: Frank Lampard's Coventry, Wrexham - who's going up to the Premier League? - ESPN
+Author: Aiman Khalid
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://dynamic.espn.com/football/story/_/id/47897492/championship-promotion-race-frank-lampard-coventry-wrexham-hunt-premier-league
+Summary: The article discusses the ongoing Championship promotion race, highlighting key contenders such as Coventry City under Frank Lampard and Wrexham. Wrexham, managed by Rob McElhenney and Ryan Reynolds, is aiming for a potential fourth promotion, which would elevate them to the Premier League. The race is competitive, with various teams vying for promotion spots, but Wrexham's recent performance and ambitions suggest they are a strong contender. However, the outcome depends on remaining matches and league standings, making promotion to the EPL possible but not guaranteed.
 
-1. **Ownership and Investment**: Wrexham is owned by Hollywood actors Ryan Reynolds and Rob McElhenney, whose financial backing and global attention have significantly boosted the club's profile and resources.
+Title: Championship Promotion Odds 2025/26 - Wrexham Chasing Historic 4th Consecutive Promotion
+Author: Adam Kenny
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://bookies.com/uk/news/efl-championship-promotion-odds-who-will-be-promoted-to-premier-league-week-3
+Summary: Wrexham is not explicitly listed among the current top contenders for promotion in the 2025/26 Championship season, with teams like Ipswich Town, Southampton, Birmingham City, Coventry City, Middlesbrough, Leicester City, and Sheffield United receiving the most attention in betting odds. While the season is still in early stages, and promotion outcomes are uncertain, current betting odds do not favor Wrexham for promotion at this time. The league remains highly competitive, and surprises are possible, but based on available odds, Wrexham is not among the leading favorites to be promoted to the Premier League this season.
 
-2. **Recent Performance**: The team has shown impressive form in the lower leagues, demonstrating resilience and determination, which are crucial for climbing the football pyramid.
+Title: Weekend predictions: Can Wrexham top Chelsea in FA Cup? - ESPN
+Author: Julien Laurens
+Published Date: 2026-03-06T04:16:39.183Z
+URL: https://www.espn.co.uk/football/story/_/id/48112987/weekend-predictions-wrexham-top-chelsea-fa-cup-julien-laurens
+Summary: The article discusses Wrexham's current FA Cup run, highlighting their potential to upset Chelsea in an upcoming match. While it emphasizes Wrexham's impressive cup performance and growing confidence, it does not provide specific information about their league standing or prospects for promotion to the Premier League. Therefore, based on this content, Wrexham's chances of being promoted to the EPL cannot be accurately predicted, as the focus is primarily on their FA Cup journey rather than league performance or promotion prospects.
 
-3. **Fan Support and Community Engagement**: The club enjoys strong local and international fan support, which can enhance player morale and attract talent.
-
-4. **Competitive Landscape**: The article discusses the challenges posed by other clubs in the league, emphasizing that promotion to the Premier League requires consistent high-level performance against tough competition.
-
-5. **Long-Term Vision**: Wrexham's management has a clear strategy for growth, focusing on sustainable development rather than short-term gains.
-
-Overall, while Wrexham faces significant hurdles, their unique circumstances and recent trajectory suggest they could be contenders for promotion to the Premier League in the future.
-
-Title: We Asked AI What'd Happen Next if Wrexham win Promotion to the ...
-Author: Will Lancaster
-Published Date: 2025-06-28T00:00:00.000Z
-URL: https://www.givemesport.com/we-asked-ai-whatd-happen-next-if-wrexham-win-promotion-to-the-premier-league-this-season/
-Summary: The article explores the potential outcomes and implications if Wrexham were to win promotion to the Premier League (EPL). It discusses various factors that could influence their chances of promotion, including team performance, player acquisitions, and management strategies. Additionally, it highlights the impact of promotion on the club's finances, fan engagement, and overall stature in English football. The analysis includes insights from AI predictions, emphasizing the importance of current form and competition within the league. For a more accurate prediction regarding Wrexham's promotion, consider their recent match results, squad depth, and the performance of rival teams in the league.
+Title: Supercomputer Predicts Final 25/26 Championship Table
+Author: Stephen
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.givemesport.com/supercomputer-predicts-final-championship-table-soccer-football/
+Summary: The webpage discusses a supercomputer's predictions for the final 2025/26 Championship table, highlighting match results and team standings. Key details include recent match outcomes involving teams like Manchester City, Villarreal, Tottenham, Borussia Dortmund, Sporting CP, Paris Saint-Germain, Real Madrid, and Monaco. While it provides insights into team performances and league positions, it does not specifically address Wrexham or their prospects for promotion to the English Premier League (EPL). Therefore, the information is not directly relevant to predicting Wrexham's promotion chances.
 
 

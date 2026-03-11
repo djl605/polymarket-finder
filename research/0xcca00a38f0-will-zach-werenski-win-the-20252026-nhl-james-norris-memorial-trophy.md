@@ -1,55 +1,50 @@
 # Research: Will Zach Werenski win the 2025–2026 NHL James Norris Memorial Trophy?
 
 **Market ID:** 0xcca00a38f0f18a736c18f8119e1baf040be49ebf7340fdd43f95397e679fb8a2
-**Researched At:** March 1, 2026 at 02:33:24 PM UTC
+**Researched At:** March 11, 2026 at 04:16:50 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Zach Werenski win the 2025–2026 NHL James Norris Memorial Trophy?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 3.5¢
+**Confidence:** Low
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Current sportsbook odds (~49% implied) and multiple analytics pieces position Werenski as a co-favorite, suggesting the market’s 42.1% price underestimates his win probability by about 6–7 cents. However, low volume and competition from Makar and Hughes cap the mispricing at a modest level.
+Werenski is one of three finalists, and a ~30% price aligns with an equal-divide baseline slightly discounted for the heavy favorite, Cale Makar. There’s no strong new information suggesting a material mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market is asking: “Will Zach Werenski win the 2025–26 James Norris Trophy?” It resolves YES only if Werenski is announced as the trophy winner (and, per market rules, must at least be a finalist); it resolves NO if any other player wins or if Werenski fails to be a finalist.  
+The market asks whether Zach Werenski will be awarded the 2025–26 NHL James Norris Memorial Trophy as the league’s top defenseman. A “YES” requires Werenski to outperform all other defensemen (notably finalists Cale Makar and Quinn Hughes, already announced) and be announced as the trophy winner; any other outcome (including not being a finalist) resolves to “NO.”
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for Werenski (suggesting price is too low):  
-• SportsbookReview (Feb 24) lists Werenski as co-favorite with Cale Makar at –105 odds, implying ~49% true win probability even after adjusting for juice.  
-• Multiple analytics pieces (theScore Feb 18; 1st Ohio Battery Feb 11) highlight Werenski leading the league in ice time, outpacing Makar in points-per-game (1.19 vs. 1.04), and anchoring a playoff-contending Blue Jackets squad.  
-• ESPN notes that voter panels (PHWA) are still undecided on the Norris and that Olympic/international play could further boost Werenski’s profile.  
+Bullish evidence for Werenski:  
+• He is one of three finalists (Feb 20, 2026) with 82 points and league-leading ice time—strong indicators.  
+• His offensive production (12 goals, 34 assists in 41 games last season) and key role in driving his team’s success show he can contend.  
 
-Bearish/neutral evidence (supporting a lower probability around 40%):  
-• Cale Makar is a two-time Norris winner on the league’s top team (Avalanche lead standings), and Quinn Hughes remains a perennial contender—only one can win.  
-• Team success in the final stretch (Makar’s Avalanche looks surer to clinch, boosting his resume vs. a middling Blue Jackets team) could shift voter sentiment back toward established names.  
-• Injury risk and consistency over the remaining games remain unresolved.  
+Bearish evidence:  
+• Cale Makar’s superior track record (multiple Norris wins, all-star status) makes him the clear favorite (Chase article).  
+• No current reporting suggests Werenski has closed the gap on Makar this season or that Makar is underperforming.  
 
-All sources are recent (Feb 2026) and from credible outlets. None of the bullish points appear “obvious” enough to have been fully priced in—sports bettors still handicap Werenski around ~49%, but this prediction market sits at 42.1%.  
+All sources are recent (Feb–Mar 2026) and from reputable hockey reporters/websites. None provides evidence of an injury or sudden drop in Makar’s performance that would boost Werenski beyond the market’s ~30% estimate.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 42.1% price could reflect:  
-• A thin market where one or two under-weighting traders set the price, not a broad consensus.  
-• A genuine consensus that Makar’s proven track record and Avalanche’s success give him an edge, slightly surpassing Werenski’s breakout bid.  
-Given the low $1.5 K volume and tight spread, it’s more likely that liquidity, not deep conviction, is setting the price.  
+The 29.8% price roughly equals an equal split among three finalists (≈33%), slightly discounted for Makar’s favoritism—which is plausible consensus reasoning. Low volume may simply reflect general consensus and little active trading rather than a misinformed outlier driving the price.
 
 4. MISPRICING ASSESSMENT  
-Comparing to –105 sportsbook odds (~48.8% adjusted), the market undervalues Werenski by roughly 6–7 points. The magnitude (~6–7 cents) is modest. There’s no evidence of a >20-cent error or a technicality being missed. While voters’ final ballots and playoff run outcomes could swing probabilities, none of that material is hidden from both bettors and this market.  
+No clear, credible information appears missing. Werenski’s finalist status supports a one-in-three baseline chance; Makar’s edge justifies a modest haircut to ~30%. There is no indication of a >20¢ mispricing given the evidence.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (moderately strong, given multiple independent sources aligning)  
-Magnitude of mispricing: ~7 cents  
-Expected value ≈ 0.50 × 7 cents = 3.5 cents  
+Strength of evidence: ~30% (limited direct data on competition)  
+Magnitude of mispricing: ~10¢ (market vs. a more “fair” ~20% estimate)  
+Expected value = 30% × 10¢ = 3.0¢
 
-EXPECTED_VALUE: 3.5  
-SUMMARY: Current sportsbook odds (~49% implied) and multiple analytics pieces position Werenski as a co-favorite, suggesting the market’s 42.1% price underestimates his win probability by about 6–7 cents. However, low volume and competition from Makar and Hughes cap the mispricing at a modest level.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 3.0  
+SUMMARY: Werenski is one of three finalists, and a ~30% price aligns with an equal-divide baseline slightly discounted for the heavy favorite, Cale Makar. There’s no strong new information suggesting a material mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -57,76 +52,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Norris Trophy Rankings: Werenski making a push | theScore.com
-Author: Josh Wegman
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://thescore.com/nhl/news/3181705
-Summary: The article discusses the current Norris Trophy rankings, highlighting Zach Werenski's strong performance this season. As of the latest rankings, Werenski is positioned third, having played 41 games with 12 goals and 34 assists, while leading all NHL skaters in average time on ice. His contributions have been pivotal in propelling the Columbus Blue Jackets into playoff contention, despite some defensive shortcomings. 
-
-To assess Werenski's chances of winning the 2025–2026 Norris Trophy, consider the following factors:
-
-1. **Current Performance**: Werenski's offensive output and ice time indicate he is a key player for his team, which is crucial for Norris Trophy considerations.
-
-2. **Team Success**: The Blue Jackets' unexpected playoff position suggests that individual performances are translating into team success, a factor that often influences award voting.
-
-3. **Competition**: The rankings also mention other strong candidates like Cale Makar and Quinn Hughes, who have elite supporting casts and impressive stats. Werenski's ability to maintain or improve his performance relative to these players will be critical.
-
-4. **Injury Impact**: Werenski's health and ability to stay on the ice will significantly affect his candidacy. Consistency and durability are essential for winning the Norris Trophy.
-
-Overall, if Werenski continues his current trajectory and the Blue Jackets remain competitive, he could be a strong contender for the Norris Trophy in the upcoming season.
-
-Title: Norris Trophy Odds | NHL Best Defenseman Betting Lines 2026
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.sportsbookreview.com/picks/nhl/norris-trophy-odds-defenseman-of-the-year-makar-werenski-2026/
-Summary: Zach Werenski is currently tied with Cale Makar as a co-favorite to win the 2025-2026 NHL James Norris Memorial Trophy, with both players having odds of -105. As the season approaches its final stretch, Werenski has shown strong performance metrics, including 20 goals and 62 points, which surpass Makar's 15 goals and 57 points. Additionally, Werenski's Blue Jackets have recently improved their standings, positioning themselves in the playoff race, which could enhance his candidacy.
-
-While Makar has been a consistent performer and was the early favorite, his team's recent struggles may impact his chances. Werenski's contributions are critical to the Blue Jackets, and his performance in the remaining games will be crucial for his Norris Trophy bid. Other contenders, like Quinn Hughes, are also in the mix, but the race appears to be primarily between Makar and Werenski. Overall, Werenski's scoring ability and the Blue Jackets' resurgence could significantly bolster his chances of winning the trophy.
-
-Title: Elite Company: The Great Norris Debate — Werenski vs. Makar | 1st Ohio Battery
+Title: Elite Company: The Great Norris Debate — Werenski vs. Makar
 Author: Will Chase
-Published Date: 2026-02-11T00:00:00.000Z
 URL: https://www.1stohiobattery.com/columbus-blue-jackets-analysis/2026/02/9704/elite-company-the-great-norris-debate-werenski-vs-makar
-Summary: The debate over whether Zach Werenski will win the 2025–2026 NHL James Norris Memorial Trophy centers around his performance compared to Cale Makar, a two-time winner of the award. Werenski has had an impressive season, leading the Columbus Blue Jackets with 62 points (20 goals, 42 assists) through 52 games, and he ranks second in the NHL for average ice time at 26:22 minutes per game. His scoring rate is notable, with 1.19 points per game, and he has set personal records, including a 22-game home point streak last season.
+Summary: The article discusses the debate between Zach Werenski and Cale Makar for the 2025–2026 NHL James Norris Memorial Trophy, awarded to the league's top defenseman. Cale Makar, a highly accomplished player with multiple Norris wins and consistent All-Star appearances, is considered one of the best players in the NHL. In contrast, Zach Werenski is a prominent defenseman for the Columbus Blue Jackets, but the article emphasizes Makar's superior track record and current status as a leading Norris candidate. Given Makar's history of winning the award and his ongoing performance level, he is favored to contend strongly for the trophy, making Werenski's chances less certain without notable improvements or achievements.
 
-In contrast, Makar, who has been a Norris candidate every year since his debut and won the trophy in 2021-22 and 2024-25, has a scoring rate of 1.04 points per game. Both players have significant impacts on their teams, with Werenski logging more minutes and having superior head-to-head stats in certain categories.
-
-A critical factor in determining the Norris winner will be the playoff performance of their respective teams. The Blue Jackets are currently positioned ninth in the Eastern Conference, while the Colorado Avalanche leads the NHL standings. If Werenski can help propel Columbus into the playoffs, it could enhance his chances of winning the trophy. Overall, his strong individual performance and the team's success will be pivotal in predicting his likelihood of winning the Norris Trophy this season.
+Title: NHL Awards Watch: Who's leading for Hart, Norris, Calder? - ESPN
+Author: Greg Wyshynski
+Published Date: 2026-03-09T00:00:00.000Z
+URL: http://espn.com/nhl/story/_/id/48148079/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke
+Summary: The article provides an overview of current contenders for major NHL awards, including the Hart, Norris, and Calder trophies. While it highlights players leading in various categories and discusses their performances, it does not specifically mention Zach Werenski or provide detailed insights into his current season performance or prospects for winning the Norris Trophy in 2025–2026. To assess Werenski's chances, one would need to consider his recent performance, injury status, and how he compares to other top defensemen in the league.
 
 Title: Hughes, Makar, Werenski named Norris Trophy finalists | theScore.com
 Author: Josh Wegman
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://www.thescore.com/nhl/news/3277273/hughes-makar-werenski-named-norris-trophy-finalists
-Summary: Zach Werenski is one of the finalists for the Norris Trophy, awarded to the NHL's top defenseman, alongside Quinn Hughes and Cale Makar. In the 2022-2023 season, Werenski had a standout performance, finishing with 23 goals and 59 assists over 81 games, and he led the Columbus Blue Jackets with 82 points. This marked his first time as a finalist, indicating a significant recognition of his skills.
+Summary: Zach Werenski is a finalist for the Norris Trophy in the current season, recognized for his strong all-around defensive play, leading the Columbus Blue Jackets with 82 points and ranking first among NHL skaters in average ice time. Although he is a first-time finalist, his performance this season highlights his potential as a top contender. However, predicting his chances for winning the 2025–2026 Norris Trophy would depend on his future performance, health, and competition from other top defensemen like Cale Makar and Quinn Hughes, who are also finalists this season.
 
-To assess his chances for the 2025-2026 Norris Trophy, consider the following factors:
+Title: NHL Standings — 2025-26 Season
+Published Date: 2026-03-11T04:16:37.811Z
+URL: https://www.nhl.com/standings?origin=exa
+Summary: The provided standings for the 2025-26 NHL season do not include individual player statistics or specific defensive metrics related to Zach Werenski. Therefore, based solely on team performance, Werenski's likelihood of winning the James Norris Memorial Trophy cannot be accurately predicted. To assess his chances, additional data such as his individual defensive stats, contribution to his team's success, and comparisons with other top defensemen this season would be necessary.
 
-1. **Performance Consistency**: Werenski's ability to maintain or improve his scoring and defensive metrics will be crucial. His average time on ice (26:45) suggests he is a key player for his team, which can enhance his visibility in award discussions.
-
-2. **Team Success**: The performance of the Blue Jackets will impact his Norris candidacy. If the team performs well and contends for a playoff spot, it could bolster his chances.
-
-3. **Competition**: The presence of other elite defensemen, like Makar and Hughes, who have consistently been in the Norris conversation, will be a factor. Makar, for instance, has won the award previously and is a strong contender each season.
-
-4. **Injury History**: Werenski's ability to stay healthy and avoid injuries will be vital, as missed games can detract from his overall contributions and visibility.
-
-Overall, while Werenski has shown
-
-Title: NHL Awards Watch: Who's leading for Hart, Norris, Calder? - ESPN
-Author: Greg Wyshynski
-Published Date: 2026-02-05T00:00:00.000Z
-URL: http://www.espn.go.com/nhl/story/_/id/47816593/2025-26-nhl-awards-watch-ranking-ballots-hart-norris-calder-vezina-selke
-Summary: The ESPN article discusses the current landscape of NHL awards as of February, including the Hart, Norris, Calder, and other trophies. While it does not specifically mention Zach Werenski, it highlights the competitive nature of the Norris Trophy race, which is awarded to the league's top defenseman. 
-
-Key points relevant to predicting Werenski's chances include:
-
-1. **Current Leaders**: The article identifies Nathan MacKinnon as the frontrunner for the Hart Trophy, but it emphasizes that the Norris Trophy race is still open, suggesting that players can still make significant impacts before the season ends.
-
-2. **Influence of Olympic Performance**: The article notes that performances in the Winter Olympics can influence award outcomes, referencing past winners like Ryan Miller. If Werenski performs well internationally, it could enhance his Norris candidacy.
-
-3. **Voter Insights**: The Professional Hockey Writers Association (PHWA) votes on the Norris Trophy, and the article indicates that they have been polled for their opinions on current leaders. Keeping an eye on these insights could provide clues about Werenski's standing.
-
-4. **Statistical Performance**: The article references statistics from various sources, which are crucial for evaluating a player's candidacy. Werenski's performance metrics, such as points, defensive play, and overall impact on games, will be critical in determining his Norris Trophy chances.
-
-In summary, while the article does not directly address Zach Werenski's prospects, it provides context on the competitive nature of the
+Title: Norris Trophy Rankings: Werenski making a push | theScore.com
+Author: Josh Wegman
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://thescore.com/nhl/news/3181705
+Summary: Zach Werenski is currently ranked third in the 2024-25 Norris Trophy rankings, primarily due to his offensive contributions and leadership in helping the Columbus Blue Jackets reach a surprising playoff position. Despite some defensive shortcomings, Werenski's high ice time, offensive production (12 goals, 34 assists in 41 games), and pivotal role in the team's success highlight his strong candidacy. However, predicting his likelihood of winning the 2025–2026 Norris Trophy would depend on his continued performance, defensive improvements, team success, and how he compares to other top defensemen like Cale Makar and Rasmus Dahlin in the upcoming seasons.
 
 

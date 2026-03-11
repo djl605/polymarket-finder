@@ -1,56 +1,48 @@
 # Research: Will Ed Diehl win the 2026 Oregon Governor Republican primary election?
 
 **Market ID:** 0x3b93cd399737eaebdcb222c2978cc2595625d41fbfe34666b215c4e53c3cf082
-**Researched At:** March 3, 2026 at 02:56:23 PM UTC
+**Researched At:** March 11, 2026 at 04:19:05 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Ed Diehl win the 2026 Oregon Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 2.0¢
+**Confidence:** Low
+**Expected Value:** 0.5¢
 
 ### Summary
 
-Diehl’s reprimand and fundraising shortfall suggest slightly lower than 27.5% odds, but the crowded and unsettled primary field supports a roughly 25–30% baseline for any leading candidate. There is no strong polling or quantitative data indicating a significant mispricing.
+Limited data exist beyond a procedural reprimand for Diehl, with no polling or endorsement information; the market’s 34% could simply reflect a rough guess in a multi-candidate field rather than a clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether State Rep. Ed Diehl will emerge as the winner of the May 19, 2026 Oregon Republican gubernatorial primary. A “YES” resolves if Diehl tops all other GOP candidates (including any run-off), “NO” otherwise.
+The market asks whether Ed Diehl will emerge as the overall winner of the May 19, 2026 Oregon Republican gubernatorial primary (including any run-off). A “YES” requires Diehl to secure more votes than all other GOP candidates; a “NO” covers any other winner or no primary.
 
 2. EVIDENCE EVALUATION  
-Bullish on Diehl  
-• Grassroots profile as a leading petitioner in the No Tax Oregon campaign may translate to committed base support.  
-• Early forum reports note his confidence and momentum opposing tax hikes.  
+• Bearish on Diehl:  
+  - Two independent reports (Oregon Capital Chronicle, Yahoo News) document a formal reprimand for illegal fundraising during session, suggesting possible reputational damage among party activists.  
+  - No polling data or endorsements cited in any of the materials; his campaign strength is entirely uncertain.  
+• Bullish on Diehl:  
+  - The reprimand is procedural, not criminal; legal experts see possible free-speech grounds to challenge the House rule, muting long-term damage.  
+  - No direct negative polling fallout—he may still have robust local networks.  
+• Source credibility: Both reprimand stories are from reputable outlets (OregonLive/Chronicle, Yahoo via Reuters-style reporting). But neither provides vote-share or polling; evidence on actual voter preferences is absent.
 
-Bearish on Diehl  
-• Two late-Feb/early-Mar articles (Oregon Capital Chronicle, Register Guard, Yahoo News) document a formal reprimand for fundraising rule violations, harming his intra-party standing.  
-• Raised ~$135 K in 2026 vs. better-financed rivals Chris Dudley and Dianne Drazan (undisclosed but cited as “significantly more”). Fundraising shortfall typically correlates with lower primary win odds.  
-• No polling data indicates he’s leading or even in a clear second place.
-
-Evidence supporting 27.5%  
-• The field is fractured and no clear frontrunner has universal name recognition. In a multi-candidate primary, an outsider can win with sub-30% vote shares.  
-• No public polling or digital politics signals that would force a dramatic re-rating.
-
-3. MARKET EFFICIENCY ANALYSIS  
-• Low volume and narrow spread suggest pricing by a handful of traders, but the competitive GOP field plausibly centers around 25–30% baseline win odds for any of the top 3–4 candidates.  
-• If any well-informed traders believed Diehl had <20% chance, small stakes could have pressed price downward, yet it remains at 27.5%.
+3. MARKET EFFICIENCY  
+At 34%, the market may simply reflect a three-way or more-crowded field where Diehl is one contender among equals. The low $0 volume and narrow spread suggest price was set once and left unchallenged—likely by a single liquidity provider guessing at a third-plus probability. No sign of broad arbitrage or informed-trader engagement.
 
 4. MISPRICING ASSESSMENT  
-• There is no quantitative polling or fundraising-to-win conversion metric to assert a >10¢ mispricing.  
-• Controversies and fundraising deficits warrant slight bearish adjustment, but not enough to overturn a plausible ~25% equilibrium in a crowded field.  
-• The most charitable interpretation: informed traders view him as a solid mid-pack contender with roughly 1-in-4 odds.
+No polling, fundraising haul, or endorsement data are missing from the price—traders presumably lack any of these. The reprimand is newsworthy but not obviously campaign-ending, so it plausibly offsets some unknown positives. There is no clear 20-cent+ divergence between public information and the 34% quote.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (fundraising gap and reprimand are relevant but lack precise impact).  
-• Magnitude: 10¢ (a modest downward mispricing if any).  
-• Expected value = 0.20 × 10 cents = 2 cents
+Strength of evidence that price is wrong: ~10% (very weak: all we have is one negative anecdote and zero positive polling)  
+Max plausible mispricing magnitude: ~5¢ (if Diehl is actually a minor candidate)  
+Expected value ≈ 10% × 5¢ = 0.5¢
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Diehl’s reprimand and fundraising shortfall suggest slightly lower than 27.5% odds, but the crowded and unsettled primary field supports a roughly 25–30% baseline for any leading candidate. There is no strong polling or quantitative data indicating a significant mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 0.5  
+SUMMARY: Limited data exist beyond a procedural reprimand for Diehl, with no polling or endorsement information; the market’s 34% could simply reflect a rough guess in a multi-candidate field rather than a clear mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -62,29 +54,27 @@ Title: Republican gubernatorial candidate receives reprimand for fundraising dur
 Author: Shaanth Nanguneri  |  Oregon Capital Chronicle
 Published Date: 2026-03-02T00:00:00.000Z
 URL: https://www.oregonlive.com/politics/2026/03/republican-gubernatorial-candidate-receives-reprimand-for-fundraising-during-session.html
-Summary: Oregon House Rep. Ed Diehl, a Republican candidate for governor, has been reprimanded for violating House rules by accepting campaign donations during the legislative session, which is prohibited until March 8. The House Speaker, Julie Fahey, urged him to return the funds and cease further fundraising during this period, citing concerns over rule violations and potential legal issues related to free speech rights. While some Republicans have engaged in fundraising during the session, official reporting has been limited, and enforcement remains uncertain. This controversy highlights internal party and legislative tensions that could impact Diehl’s campaign prospects, but it does not definitively indicate his chances of winning the Republican primary.
-
-Title: Oregon Rep Ed Diehl punished for skirting donation rules
-Author: 
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://registerguard.com/story/news/politics/2026/02/27/oregon-rep-ed-diehl-punished-for-skirting-donation-rules/88650795007/
-Summary: Ed Diehl, a Republican candidate for Oregon governor, has recently been disciplined for violating a House rule that prohibits accepting campaign donations during legislative sessions. Although he received a formal warning and was ordered to return the funds, the legal basis for the rule is questionable, with a legal opinion suggesting it may be unconstitutional. Diehl has raised over $135,000 in 2026, including more than $5,000 during the current legislative session. Despite this setback, he remains active in the race, competing against well-funded opponents like Chris Dudley and Dianne Drazan, who have raised significantly more funds. His ability to secure donations and navigate the fundraising rules could impact his prospects in the upcoming Republican primary.
-
-Title: Oregon Republican candidates make first pitch for governor’s race - Keizertimes
-Author: Shaanth Nanguneri - Oregon Capital Chronicle
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.keizertimes.com/2026/02/02/oregon-republican-candidates-make-first-pitch-for-governors-race/
-Summary: The article reports on the initial campaign efforts of Oregon Republican candidates, including State Rep. Ed Diehl, who participated in a forum hosted by the Western Liberty Network. While Diehl and other candidates, such as Chris Dudley and Marion County Commissioner Danielle Bethell, expressed confidence in their campaigns—particularly highlighting recent momentum from successful efforts to oppose recent tax hikes—there is no definitive information on their prospects of winning the 2026 Republican primary. The field is expanding, and the primary remains competitive, with Diehl among several candidates vying for the nomination.
+Summary: Oregon House Rep. Ed Diehl, a Republican and gubernatorial candidate, was reprimanded for violating House rules by collecting campaign donations during the legislative session, which is prohibited until March 8. The House's self-imposed fundraising restrictions aim to prevent conflicts of interest and maintain public trust, though legal opinions suggest these rules may infringe on free speech rights and could be challenged in court. While Diehl's fundraising during the session has drawn criticism, other Republican candidates, such as Christine Drazan, have avoided similar violations. The enforcement and impact of these rules, along with Diehl's ability to adhere to campaign regulations and public perception, could influence his prospects in the upcoming Republican primary for Oregon governor.
 
 Title: Oregon House speaker reprimands Republican gubernatorial candidate for fundraising during session
 Author: 
 Published Date: 2026-02-28T00:00:00.000Z
 URL: https://www.yahoo.com/news/articles/oregon-house-speaker-reprimands-republican-025952574.html
-Summary: The article details Oregon House Speaker Julie Fahey reprimanding Republican Rep. Ed Diehl for collecting campaign donations during the legislative session, which violates House rules. Fahey urged Diehl to return the funds and avoid further violations, though legal opinions suggest the rule may infringe on free speech rights and could be challenged in court. Diehl is a leading petitioner in the No Tax Oregon campaign and is running for governor in the May 2026 primary. While the dispute highlights internal party and legislative conflicts, there is no information indicating his likelihood of winning the Republican primary.
+Summary: Oregon House Speaker Julie Fahey publicly reprimanded Republican Rep. Ed Diehl for fundraising during the legislative session, violating his own House rules. Diehl, a candidate in the upcoming 2026 Republican gubernatorial primary, has been active in political campaigns, including leading efforts against certain transportation laws. While this incident highlights his active campaign efforts, there is no information provided about his overall campaign strength or voter support, making it difficult to predict his chances of winning the primary based solely on this event.
 
-Title: 2028 Presidential Election Odds - Politics - BetUS
+Title: Posts from Us - GovTrack.us
+URL: https://www.govtrack.us/posts
+Summary: The webpage from GovTrack.us provides recent legislative updates, analysis, and news related to U.S. Congress activities, including bills, hearings, and political developments. However, it does not contain specific information about individual candidates like Ed Diehl or details about the 2026 Oregon Republican gubernatorial primary election. Therefore, it offers no relevant data or insights to predict whether Ed Diehl will win the primary. For election-specific predictions, consider sources focused on Oregon politics, candidate polling, and campaign developments.
+
+Title: Salem-Keizer Public Schools, Oregon, elections - Ballotpedia
 Author: 
-URL: https://www.betus.com.pa/sportsbook/politics/us/
-Summary: The webpage provides betting odds and betting options related to various political elections, including the 2028 U.S. presidential race, but does not contain specific information about individual candidates like Ed Diehl or details about the 2026 Oregon Republican primary election. It primarily offers general betting markets, odds boosts, and futures for major sports and political events, with no targeted data or analysis relevant to predicting Ed Diehl's chances of winning the 2026 Oregon Governor Republican primary. Therefore, there is no pertinent information on this webpage to assess or predict Ed Diehl's likelihood of victory in that primary.
+URL: https://ballotpedia.org/Salem-Keizer_Public_Schools,_Oregon,_elections
+Summary: The webpage provides an overview of elections related to Salem-Keizer Public Schools in Oregon, including details on local school board elections, ballot measures, and upcoming election timelines. While it offers comprehensive information on Oregon's election landscape, including policies, districts, and election schedules, it does not contain specific data or candidate information pertinent to predicting whether Ed Diehl will win the 2026 Oregon Governor Republican primary. Therefore, it offers contextual background on Oregon's electoral environment but lacks direct insights into the 2026 gubernatorial race or candidate prospects.
+
+Title: Rep Ed Diehl talks lawsuit against Oregon over moving gas tax vote
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://statesmanjournal.com/videos/news/2026/03/03/video-rep-ed-diehl-talks-lawsuit-against-oregon-over-moving-gas-tax-vote/88970570007/
+Summary: The webpage features Rep. Ed Diehl discussing a lawsuit against Oregon related to the state's decision to move the gas tax vote. While it provides insight into Diehl's recent political activities and positions—particularly his opposition to certain state policies—there is no information about his candidacy for governor or his prospects in the 2026 Republican primary. Therefore, based on this content, there is no relevant data to predict whether Ed Diehl will win the 2026 Oregon Republican primary election.
 
 

@@ -1,49 +1,54 @@
 # Research: Will the Democratic Party win the NE-01 House seat?
 
 **Market ID:** 0xc863c70aafc37a92e8d652f6bdf1afb4aee52c9f66bfa3e32a2eb799f8be30cb
-**Researched At:** March 5, 2026 at 02:57:04 PM UTC
+**Researched At:** March 11, 2026 at 04:17:22 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the NE-01 House seat?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-There is no direct polling or fundraising data for NE-01; historical GOP lean plus modest grassroots Democratic activity support a sub-20% win probability, so the 19% market price appears reasonable. Lack of district‐specific info suggests low potential for sizable mispricing.
+None of the provided research pertains to NE-01; all focus on CD-2 or statewide races. The 18.5% price aligns with NE-01’s status as a solid Republican district and shows no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will the Democratic Party win Nebraska’s 1st Congressional District seat in the November 4, 2026 midterms?” A YES requires the Democratic nominee to outpoll the Republican (or any other caucusing party member) in that general election; a NO resolves if a Republican (or other non‐Democrat caucusing as Republican) wins.
+The market asks: “Will a Democratic‐affiliated candidate win Nebraska’s 1st Congressional District (NE-01) in the November 4, 2026, midterm?” A YES resolution requires the eventual winner of NE-01 to be listed (or caucus) as a Democrat at certification. A NO resolution if the winner is a Republican or non-Democrat.
 
 2. EVIDENCE EVALUATION  
-Bullish for Democrats:  
-• Eric Moyer’s grassroots campaign in NE-01 (door‐knocks, lit drops, meet-and-greets) shows local engagement, which may be above average for a challenger in a GOP‐leaning district.  
-Bearish for Democrats:  
-• No polling or fundraising data for NE-01 are available. Historically, NE-01 leans Republican; incumbency or structural partisan lean likely favors GOP.  
-• All in‐depth articles focus on NE-02, not NE-01, so there is a lack of direct evidence that NE-01 is competitive beyond general national trends.  
-Source credibility: Local newspapers (Omaha World-Herald, Hastings Tribune) are reliable for district coverage but do not provide NE-01 polling or modeling; all 2026 dates are current.
+• Evidence suggesting mispricing?  
+  – None of the provided articles address NE-01. They all focus on Nebraska’s 2nd District or statewide Senate polling. No polling, fundraising, or candidate quality data is given for NE-01. Without district-specific intel, there’s no direct evidence that 18.5% is wrong.  
+• Evidence supporting the current price?  
+  – The absence of NE-01 information implies that the market is pricing NE-01 according to known fundamentals: it’s a safely Republican, rural district. An ~80% baseline GOP edge in a solid red seat is consistent with a ~18–20% chance for a Democrat, matching the 18.5% price.  
+• Source credibility and recency  
+  – All sources are from Feb–Mar 2026 and credible local outlets, but none cover NE-01. Thus relevance to the NE-01 race is effectively zero.  
+• Bullish vs. bearish  
+  – Bullish for Democrats: none of the findings mention a strong Democratic challenger in NE-01.  
+  – Bearish for Democrats: general GOP strength in rural districts, absence of known Democratic contender or polling.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 19% probability plausibly reflects the GOP lean plus a modest “wave” or strong challenger effect.  
-• Low volume (≈$2.8 K) and tight spread suggest some engagement but not widespread liquidity. Likely a small number of traders setting price around what limited public signals (national environment, historical partisanship, local candidate activity) imply.  
-• Informed traders may have looked and found no compelling evidence of a toss-up, hence minimal volume.
+• A reasonable interpretation of 18.5%: the market assumes NE-01 remains a strong Republican seat, giving Democrats a low but nonzero upset chance (e.g. underfunded Democratic campaign, favorable national environment).  
+• Consensus vs. lone trader: low volume suggests few participants, but the tight spread implies they agree on a low Dem probability. No evidence of wide divergence.  
+• Low volume cause: NE-01 is regarded as uncompetitive, so informed traders may see no edge in trading a market they view as settled.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, fresh evidence that the Democratic chances are dramatically higher or lower than ~20%. Absence of direct NE-01 polling or significant fundraising disparities suggests the market price is the best available summary of uncertainty. No red flags of large missing information—only generalities that informed traders would already know. 
+• No specific missing information on NE-01 in the research.  
+• In expectation, the market is likely efficient: major NE-01 developments (candidate announcements, polling) would draw attention and volume; none have.  
+• No credible evidence that 18.5% deviates materially from informed consensus.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market is mispriced: 20% (little direct contradicting data)  
-Plausible magnitude of mispricing if any: 5¢ (very small given dearth of data)  
-Expected value = 20% × 5¢ = 1¢  
+• Strength of evidence: 10% (no NE-01 data in research; weak basis to challenge price)  
+• Magnitude of mispricing: 5 cents (small, given typical unpredictability)  
+• Expected value = 0.10 × 5¢ = 0.5¢ ≈ 1¢
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: There is no direct polling or fundraising data for NE-01; historical GOP lean plus modest grassroots Democratic activity support a sub-20% win probability, so the 19% market price appears reasonable. Lack of district‐specific info suggests low potential for sizable mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1  
+SUMMARY: None of the provided research pertains to NE-01; all focus on CD-2 or statewide races. The 18.5% price aligns with NE-01’s status as a solid Republican district and shows no clear mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -55,30 +60,30 @@ Title: Which party has an advantage in Nebraska CD2?
 Author: Josh Reyes Omaha World-Herald
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://journalstar.com/news/state-regional/government-politics/article_3d7d9af8-ff6e-5b69-b7db-1237d31ee9a6.html
-Summary: The article discusses the current political landscape in Nebraska's 2nd Congressional District, highlighting that Omaha City Council Vice President Brinker Harding is the sole Republican candidate after the primary opponent's exit. Meanwhile, six Democrats are competing to flip the seat blue, aiming to influence control of the U.S. House of Representatives. While the focus is on NE-02, the dynamics suggest a competitive race with a potential Democratic advantage, especially given the crowded Democratic field and efforts to secure the seat. This context indicates that the Democratic Party has a strong chance to win the NE-01 House seat, contingent on the candidates' campaigns and voter turnout.
+Summary: The article discusses the political landscape of Nebraska's 2nd Congressional District, highlighting recent developments such as Rep. Don Bacon's retirement and the ongoing Republican primary, with Omaha City Council Vice President Brinker Harding as the sole active Republican candidate. Democratic candidates participated in a forum and are leading in some polling, with Sen. John Cavanaugh noted as a frontrunner. The district appears competitive, with Democrats showing strength in polling and engagement, though the Republican primary remains open. These dynamics suggest a potentially favorable environment for Democrats in the upcoming election, which could be relevant when assessing the likelihood of the Democratic Party winning the NE-01 House seat.
 
 Title: Which party has an advantage in Nebraska CD2?
 Author: Josh Reyes World-Herald Staff Writer
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://omaha.com/news/state-regional/government-politics/elections/article_5d94a21b-d13e-4fc3-9e37-85efbeb4b2c8.html?mode=comments
-Summary: The webpage is currently unavailable, but based on the title "Which party has an advantage in Nebraska CD2?" and the user's query about the likelihood of the Democratic Party winning Nebraska's 1st Congressional District (NE-01), relevant factors include recent election results, voter registration demographics, and current political trends in Nebraska. Historically, NE-01 has leaned Republican, but recent shifts, candidate quality, and turnout could influence the outcome. To assess the Democratic chances, consider the district's voting history, any recent polling data, and the impact of national political climate and local issues.
+Summary: The article discusses the current political landscape in Nebraska's 2nd Congressional District, highlighting which party holds an advantage. While specific details about party strength or recent polling are not provided, the focus on the district's competitiveness suggests it is a closely contested seat. To predict whether the Democratic Party might win the NE-01 House seat, one would need to consider factors such as recent election results, voter demographics, campaign developments, and any shifts in voter sentiment within Nebraska's districts. The article's emphasis on the district's competitiveness indicates that both parties have a viable chance, but without explicit polling data or recent election outcomes, a definitive prediction remains uncertain.
 
 Title: Dem primary fundraising in Nebraska’s 2nd District tightens as GOP race narrows | State & Regional News | hastingstribune.com
 Author: Juan Salinas II
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://www.hastingstribune.com/news/state/nebraska/dem-primary-fundraising-in-nebraska-s-2nd-district-tightens-as-gop-race-narrows/article_e22e6a27-154b-5808-9e84-e282453acedf.html
-Summary: The article focuses on the fundraising dynamics within Nebraska’s 2nd Congressional District Democratic primary, highlighting that State Sen. John Cavanaugh has recently overtaken Denise Powell in quarterly fundraising, though Powell maintains a lead in overall funds and cash on hand. Powell, despite strong fundraising, faces challenges in name recognition compared to Cavanaugh and Crystal Rhoades, both of whom are elected officials. The primary race is competitive, with Cavanaugh gaining momentum and emphasizing his campaign's increasing support. While this information pertains specifically to the NE-02 race, it indicates a closely contested Democratic primary with significant fundraising efforts, which could influence the party’s chances in the general election. However, the article does not provide direct insights into the NE-01 seat, so its relevance to predicting a Democratic win in NE-01 is limited.
+Summary: The article discusses the fundraising dynamics within Nebraska’s 2nd Congressional District Democratic primary, highlighting that candidate Denise Powell currently leads in overall fundraising and cash on hand, though she faces competition from State Sen. John Cavanaugh and Crystal Rhoades. Cavanaugh, with increasing quarterly fundraising and a strong local profile, is considered an early favorite in the primary race. The outcome of this primary could influence the Democratic Party’s chances in the general election, but the article does not provide specific information about the NE-01 House seat or its likelihood of being won by Democrats.
+
+Title: Osborn campaign's poll shows statistical tie with Ricketts
+Author: BEN DOODY Omaha WorldHerald
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://kearneyhub.com/article_8f1304ef-f4c7-5df6-b3dc-8f9044c700fa.html
+Summary: The article reports that an internal poll commissioned by Dan Osborn’s U.S. Senate campaign indicates a statistical tie with incumbent Senator Pete Ricketts in Nebraska. While the poll focuses on the Senate race, it suggests a closely contested political environment in Nebraska, which could be indicative of competitive races in the state, including the NE-01 House seat. The tight race in the Senate race may reflect broader voter sentiment and electoral volatility, factors relevant to predicting whether the Democratic Party could win the NE-01 House seat.
 
 Title: Eric Moyer For Congress | Nebraska First Congressional District Candidate, 2026 midterm election | Nebraska, USA
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.ericmoyerforcongress.com/
-Summary: Eric Moyer is a Nebraska candidate running for Congress in the First District in the 2026 midterm election, representing the Democratic Party. His campaign emphasizes addressing economic issues, such as high taxes and living costs, and advocates for equitable representation for Nebraskans. The campaign actively engages supporters through canvassing events across various Nebraska communities, including Seward, Lincoln, Plattsmouth, La Vista, Fremont, and Louisville, with activities like door knocking, lit dropping, and community meet-and-greets. Moyer's platform and grassroots efforts suggest a focus on mobilizing local support and increasing Democratic visibility in the district. While specific polling data is not provided, the campaign's emphasis on community engagement and addressing economic concerns indicates an effort to strengthen Democratic prospects in the NE-01 seat.
-
-Title: Analysis: The battle of the Blue Dot
-Author: JOSH REYESOmaha WorldHerald
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.journalstar.com/article_c2bd1ae1-8fd8-5673-9ea7-5f1b5d266437.html
-Summary: The article focuses on the Nebraska 2nd Congressional District race, highlighting that Omaha City Council Vice President Brinker Harding, a Republican, is now the sole primary candidate after his high-profile opponent's exit. Meanwhile, six Democratic candidates are competing in a crowded primary to flip the seat blue and potentially shift control of the House of Representatives. Political analyst Randall Adkins suggests that this dynamic presents a favorable environment for Republicans, with Democrats facing significant challenges. While the article centers on NE-02, the competitive Democratic primary and the overall political climate in Nebraska suggest that the outcome for the NE-01 seat remains uncertain, influenced by local candidate strength and broader partisan trends.
+Summary: Eric Moyer is a Nebraska candidate running for Congress in the First District in the 2026 midterm election. His platform emphasizes ending the tariff war and limiting executive emergency powers. The campaign actively engages supporters through events like meet-and-greets, canvassing, and postcard writing, and encourages volunteer participation in activities such as door knocking, literature distribution, and social media support. Moyer has garnered endorsements from community leaders, activists, and organizations including the Stonewall Democrats Caucus and Secular Democrats of Nebraska. While the webpage highlights his campaign efforts and endorsements, it does not specify his party affiliation or current polling data. Therefore, predicting whether the Democratic Party will win the NE-01 House seat based solely on this information is limited; additional electoral data and context are needed for an accurate forecast.
 
 

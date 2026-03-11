@@ -1,7 +1,7 @@
 # Research: Will Dave Bronson advance from the 2026 Alaska Governor primary election?
 
 **Market ID:** 0x7fdfdf3089f2926e189998489f530a1a4b3f90ee8d2d52f81d8774757f8ca762
-**Researched At:** March 4, 2026 at 04:16:50 AM UTC
+**Researched At:** March 11, 2026 at 04:19:30 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Dave Bronson advance from the 2026 Alaska Governor primary election?"
 
 ---
@@ -9,39 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.5¢
+**Expected Value:** 2.8¢
 
 ### Summary
 
-Bronson’s initial $217K haul and mayoral standing justify some edge, but he trails better‐funded rivals and lacks polling evidence; a 55% valuation is within a plausible range given current information.
+Bronson’s fundraising trails multiple contenders in a 17-candidate field, making a 57% chance to finish top four seem optimistic absent polling data. The market may modestly overvalue his advancement prospects.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-This market asks whether Dave Bronson will finish among the top four vote‐getters in Alaska’s August 18, 2026 nonpartisan gubernatorial primary. A “Yes” requires Bronson to place 1st–4th; any finish of 5th or lower (or no primary) resolves “No.”
+1. CONTEXT ANALYSIS  
+This market asks whether Dave Bronson will finish among the top four vote-getters in the August 18, 2026 nonpartisan Alaska governor primary (there are 16–17 candidates). A “Yes” requires Bronson to place 1st–4th in the vote tally; otherwise (or if no primary is held), it resolves “No.”
 
-2. EVIDENCE EVALUATION
-Bullish for Yes:
-• Bronson has early grassroots strength—$217K raised from 393 mostly in‐state donors since September, signaling solid base and name recognition as Anchorage mayor.
-• Mayoral incumbents in Alaska often have strong urban turnout which can translate to primary success.
-Bearish for Yes:
-• Matt Heilala has self‐funded ~$1.3M, and Treg Taylor has ~$724K; several others (including former AG and other statewide figures) have far more resources.
-• No polling or endorsement data for Bronson; the competitive field of 17, with multiple better‐funded or higher‐profile candidates, makes a top‐4 slot uncertain.
-Source Credibility: All articles are from credible Alaska outlets dated Feb 17–24, 2026. Fundraising figures are reliable; lack of polling data is notable.
+2. EVIDENCE EVALUATION  
+Bullish for Bronson:  
+• He’s raised $217k since filing, all from in-state donors, and has spent ~$87k—showing grassroots traction.  
+• As former Anchorage mayor (noted indirectly by his Anchorage donor base), he may enjoy name recognition beyond what fundraising alone shows.
 
-3. MARKET EFFICIENCY ANALYSIS
-A 55% price implies a modest favorite. Given low volume ($1.4K) it could reflect a lone trader’s optimism. Alternatively, it may capture consensus that a sitting Anchorage mayor has better than even odds to crack the top four. The tight 6¢ spread suggests someone believes the outcome is at least somewhat settled.
+Bearish for Bronson:  
+• At ~$217k raised and ~$130k cash on hand, Bronson trails at least four candidates with six-figure hauls: Matt Heilala (~$1.3 M self-funded), Treg Taylor (~$880k), and Adam Crum/Tom Begich (~$350k each).  
+• With ten candidates already over six figures and a 17-person field, fundraising rank suggests he may struggle to crack the top four.  
+• No polling data or other qualitative indicators in the research bolster his case beyond fundraising.
 
-4. MISPRICING ASSESSMENT
-No clear, absent evidence would swing the probability by >20¢. We lack polling showing Bronson well above or below cut‐off, and his early fundraising alone doesn’t guarantee a top‐4 finish. The 55% price is within a plausible range for a well‐known but modestly funded candidate in a large field. No strong sign of mispricing.
+Source credibility/recency: All articles are from February 2026 from reputable local outlets. No obvious contradictions.
 
-5. EXPECTED VALUE CALCULATION
-Strength of evidence that price is wrong: 30% (fundraising gap is material but not decisive)  
-Plausible mispricing magnitude: 5¢  
-EV = 0.30 × 5¢ ≈ 1.5¢
+3. MARKET EFFICIENCY ANALYSIS  
+A 57% probability implies that informed traders believe Bronson is comfortably one of the top four. That could reflect consensus on his name recognition or unseen polling. But zero total volume and only a 6¢ spread suggest virtually no active trading—price may be set by one or two opinions rather than broad information aggregation.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Bronson’s initial $217K haul and mayoral standing justify some edge, but he trails better‐funded rivals and lacks polling evidence; a 55% valuation is within a plausible range given current information.  
+4. MISPRICING ASSESSMENT  
+Given the crowded field and Bronson’s fundraising rank (≈5th–6th), a >50% chance seems optimistic absent further evidence. A more charitable reading is that traders have internal polling or strong qualitative data on Bronson’s base, but none is published. The gap between a “baseline” ~24% chance (4/17) and 57% indicates significant upward adjustment—without polling this appears likely an overestimate. However, the evidence is far from conclusive, so any mispricing is probably modest (<20 c).
+
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence that price is too high: ≈40% (limited to fundraising data, no polling)  
+Magnitude of mispricing: ≈7 c (57% vs. a more realistic ~50%)  
+Expected value ≈ 40% × 7 c = 2.8 c
+
+EXPECTED_VALUE: 2.8  
+SUMMARY: Bronson’s fundraising trails multiple contenders in a 17-candidate field, making a 57% chance to finish top four seem optimistic absent polling data. The market may modestly overvalue his advancement prospects.  
 CONFIDENCE: low
 
 ---
@@ -54,30 +57,30 @@ Title: Bronson announces he has raised more than $217,000 since filing for gover
 Author: Suzanne Downing
 Published Date: 2026-02-17T00:00:00.000Z
 URL: https://thealaskastory.com/bronson-announces-he-has-raised-more-than-217000-since-filing-for-governor/
-Summary: Dave Bronson's campaign for Alaska governor has shown strong early support, raising over $217,000 in the first three months since filing in late September, with contributions from 393 donors—95% of whom are Alaskan residents. His fundraising success indicates grassroots enthusiasm for his platform focused on fiscal restraint, government accountability, and resource development. While these early numbers suggest solid backing, the upcoming campaign finance reports due by February 17, 2026, will provide a clearer picture of his competitiveness in the crowded primary field. Overall, Bronson's initial momentum positions him as a notable contender, but his ability to secure a primary victory will depend on continued fundraising, campaign outreach, and voter support amid multiple candidates.
+Summary: Dave Bronson's campaign for Alaska governor has shown strong early support, raising over $217,000 within the first three months since filing in late September, primarily from Alaskan donors. His campaign emphasizes themes of fiscal restraint, government accountability, and resource development, resonating with grassroots voters across the state. With significant contributions from Anchorage and other regions, and expenditures around $87,000, Bronson appears to have a solid financial foundation. As the 2026 race includes 16 candidates and upcoming campaign finance disclosures are imminent, his early fundraising success suggests he could be a competitive contender in the primary.
 
 Title: Anchorage Republican spending lots of his own money in governor’s race, early campaign records show - The Alaska Current
 Author: James Brooks, Alaska Beacon
 Published Date: 2026-02-24T00:00:00.000Z
 URL: https://thealaskacurrent.com/2026/02/24/anchorage-republican-spending-lots-of-his-own-money-in-governors-race-early-campaign-records-show/
-Summary: Anchorage Republican candidate Matt Heilala has emerged as a leading contender in the 2026 Alaska gubernatorial race, largely due to his significant personal financial investment—nearly $1.3 million from himself and his wife. Early campaign records show Heilala has the most available funds among the 17 candidates, indicating strong financial backing and potential for continued campaign momentum. While the article does not directly address Dave Bronson, Heilala's substantial early fundraising success suggests that the primary race is competitive, and Bronson's ability to advance may depend on his own fundraising efforts and campaign strategy relative to Heilala's financial advantage.
+Summary: The article highlights that Anchorage Republican candidate Matt Heilala has significantly invested nearly $1.3 million of his own money into his campaign for Alaska governor, making him a leading fundraiser among the 17 candidates. Heilala's substantial personal financial commitment and early campaign strength could influence the primary race dynamics. While the article does not mention Dave Bronson specifically, Heilala's strong financial backing suggests he is a notable contender. Predicting whether Bronson will advance depends on various factors, including his campaign funding, voter support, and performance in debates and events. However, Heilala's early financial advantage indicates he is a significant player in the primary race.
 
-Title: Anchorage Republican spending lots of his own money in governor’s race, early campaign records show
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.juneauindependent.com/post/anchorage-republican-spending-lots-of-his-own-money-in-governor-s-race-early-campaign-records-show
-Summary: The article focuses on early campaign fundraising in the 2026 Alaska gubernatorial race, highlighting that Anchorage-based candidate Matt Heilala has invested nearly $1.3 million of his own money, making him the top fundraiser among the 17 candidates. Other notable candidates include former Attorney General Treg Taylor and State Senator Matt Claman, both with substantial campaign funds. Heilala's significant personal investment and financial resources position him as a competitive contender early in the race. While the article does not mention Dave Bronson specifically, it underscores that campaign funding is a critical factor in electoral success. Given Bronson's status as Anchorage's current mayor and the importance of campaign funds, his ability to secure sufficient financial support will be a key predictor of whether he advances from the primary.
-
-Title: Anchorage Republican spending lots of his own money in ...
-Author: James Brooks
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://alaskabeacon.com/2026/02/19/anchorage-republican-spending-lots-of-his-own-money-in-governors-race-early-campaign-records-show/
-Summary: The article focuses on early campaign fundraising for the 2026 Alaska gubernatorial race, highlighting that Anchorage Republican candidate Matt Heilala is the leading fundraiser, having invested nearly $1.3 million of his own money and maintaining over $1 million in campaign funds. Other notable candidates include Treg Taylor, who has over $724,000, and Democratic candidate Matt Claman, with significant funds raised. Heilala aims to fill a niche as a self-funded outsider, but the article does not mention Dave Bronson or provide specific details about his campaign finances or prospects. Therefore, based on this information, there is no direct insight into whether Dave Bronson will advance from the primary.
+Title: Early fundraising totals for Alaska governor race released | Local News | frontiersman.com
+Author: James Brooks Alaska Beacon
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://www.frontiersman.com/news/early-funding-totals-for-alaska-governor-race-released/article_0b29b5e5-6bbc-44db-9acc-414dad592894.html
+Summary: Early fundraising reports for the 2026 Alaska governor race highlight significant financial backing for Republican candidate Matt Heilala, who has received nearly $1.3 million in personal contributions from a doctor and his wife, leaving him with over $1 million in remaining funds. The field has expanded to 17 candidates, including community organizer Meda DeWitt. While Heilala's substantial early campaign funds position him as a leading contender, the overall dynamics of the primary, including other candidates' fundraising and campaign activities, will influence whether Dave Bronson advances. Additional factors such as campaign strategies, voter support, and political developments will be crucial in predicting Bronson's progression from the primary.
 
 Title: 10 candidates report six-figure hauls from early fundraising in Alaska governor's race
 Author: Eric Stone, Alaska Public Media
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.ktoo.org/2026/02/19/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race/
-Summary: The article reports that in the early fundraising phase of the 2026 Alaska governor’s race, several candidates have raised significant funds, with over $4.3 million total. Notably, Republican candidates like Matt Heilala and Treg Taylor are self-funding substantial portions of their campaigns, with Heilala contributing nearly $1.3 million of his own money and Taylor raising around $880,000, including a significant amount from outside donors. Other candidates, such as Adam Crum and Democrat Tom Begich, have also raised considerable sums, emphasizing grassroots support and outside contributions. While the article does not mention Dave Bronson specifically, it highlights the competitive fundraising landscape among leading candidates. Given Bronson's previous political profile and the overall strong fundraising efforts by other candidates, his ability to advance from the primary may depend on his capacity to match or surpass these fundraising benchmarks and mobilize voter support.
+Summary: The article reports on early fundraising efforts for the 2026 Alaska governor's race, highlighting that ten candidates have collectively raised over $4.3 million. Key contenders include Republican Matt Heilala, who has self-funded over $1.2 million, and former Attorney General Treg Taylor, with about $880,000 in total contributions, including significant self-funding. Other notable candidates are Adam Crum and Tom Begich, both raising around $350,000, with Begich emphasizing grassroots support from Alaskans. The article does not mention Dave Bronson or provide specific information about his campaign fundraising or prospects. Therefore, based on this report, there is no direct evidence to predict whether Dave Bronson will advance from the primary.
+
+Title: Money matters: Some Alaska governor candidates are flush, others struggling
+Author: 
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://alaskawatchman.com/2026/02/18/money-matters-some-alaska-governor-candidates-are-flush-others-struggling/
+Summary: Dave Bronson, a Republican candidate for Alaska governor, has raised approximately $217,284 with about $130,064 cash on hand, according to recent campaign finance reports. While he has a notable fundraising amount, he trails behind leading candidates like Matt Heilala and Treg Taylor. The reports suggest Bronson's campaign has some financial support, but his position relative to other candidates indicates he may face challenges in securing a primary victory. Additional factors such as campaign strategy, voter support, and overall political dynamics will influence his chances of advancing from the primary.
 
 

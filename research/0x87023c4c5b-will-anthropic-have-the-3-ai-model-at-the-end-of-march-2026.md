@@ -1,56 +1,57 @@
 # Research: Will Anthropic have the #3 AI model at the end of March 2026?
 
 **Market ID:** 0x87023c4c5b90d9afb7968df807c52fe3a13569b9208f9d1ea49a7480728e77b0
-**Researched At:** March 2, 2026 at 02:55:33 PM UTC
+**Researched At:** March 11, 2026 at 04:19:06 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Anthropic have the #3 AI model at the end of March 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.5¢
+**Confidence:** Low
+**Expected Value:** 2.0¢
 
 ### Summary
 
-The 24% probability aligns with a plausible model in which exactly one of multiple rivals overtakes Claude by March 31, making it third; available research offers no strong contradiction or overlooked event.
+Anthropic has strong enterprise and coding metrics but faces stiff competition from GPT-5.4 and Gemini 3.1. No definitive Arena scores favor Claude 4.6 yet, so a 20% chance of 3rd place appears reasonable.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Anthropic will occupy exactly the #3 spot on the Chatbot Arena LLM Leaderboard at 12:00 PM ET on March 31, 2026. “Yes” resolves only if Claude Opus 4.6 ranks third (not first, second, fourth, etc.). To get to #3 from its current #2, exactly one competitor must surpass it by late March; if none or more than one pass it, the answer is “No.”
+The market asks whether Anthropic’s model will rank third by “Arena Score” on the Chatbot Arena LLM Leaderboard on March 31 2026, 12 PM ET. It resolves YES if Anthropic’s model has the third-highest score (with alphabetical tiebreakers) and NO otherwise.
 
 2. EVIDENCE EVALUATION  
-Bullish for YES (Anthropic lands exactly #3):  
-• Multiple strong competitors (OpenAI’s GPT-5.3-Codex, Google’s Gemini 3.1 Pro, DeepSeek V4) may overtake Claude, but it’s plausible only one of them does.  
-• Awesome Agents (2/17) shows Claude currently #2 with narrow margins, so a single leapfrog is quite credible.  
+Bullish signals  
+• Claude 4.6 has best-in-class coding and agentic capabilities (Benchmarks: 80.8% in software engineering vs ~77% for GPT-5.3-Codex).  
+• Enterprise LLM spend: Anthropic leads with ~40% share and is growing fast (revenue from $1B to $14B in 14 months).  
+• User metrics: US DAU share tripled Jan→Feb, churn fell from 55% to 36%, #1 in US iOS App Store late Feb.  
 
-Bearish for YES (i.e. for it not resolving “Yes” – either staying #2/#1 or falling to #4+):  
-• HumAI (2/23) and Heloir Yan (2/21) emphasize simultaneous major updates from three labs. That suggests more than one rival could surpass Claude, pushing it to #4.  
-• SynapseWire (2/18) notes Anthropic’s enterprise strength but does not guarantee that model performance will outpace two other releases.  
-• Kersai (2/24) highlights Anthropic’s strong revenue growth but that metric doesn’t directly move Arena scores.  
+Bearish signals  
+• OpenAI’s GPT-5.4 and Google’s Gemini 3.1 Pro are generally viewed as the top two models across benchmarks and integrations.  
+• Recent commentary (Mar 8, 9) emphasizes uncertainty that Claude 4.6 can unseat one of the other frontier models for the #3 slot by end-Mar 2026.  
+• No direct data on current Arena leaderboard positions; competition is heating up over long-context reasoning, tool use, and multi-agent chains.  
 
-All sources are recent (mid–late Feb 2026) and from credible, specialized outlets. None offers hard probabilities, only qualitative competitiveness.
+Source credibility and recency  
+All five sources are from March 2026, from reputable independent analysts (M. Lanham, Sorca Marian, AI Free API) and industry observers. None report actual live Arena scores, only benchmarks and market performance proxies.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 24% chance corresponds to roughly the probability that exactly one of GPT-5.3, Gemini 3.1, and DeepSeek V4 overtakes Claude—and not two or three. Given plausible probabilities (e.g. GPT-5.3 almost certain to pass, the other two each having 40–60% odds), that 24% lines up with a simple probabilistic model. Low volume may simply reflect niche interest, not necessarily mispricing.
+• A 20% price implies traders view Anthropic as a long-shot third-place finisher.  
+• Low volume suggests possibly set by a few early participants rather than broad consensus—but the tight spread implies those participants were at least somewhat informed.  
+• The outcome is neither trivial nor fully clear, so low trading interest could reflect genuine uncertainty rather than oversight.
 
 4. MISPRICING ASSESSMENT  
-No clear, credible evidence indicates a >5¢ mispricing. The market’s 24% is consistent with:  
-• P(GPT-5.3 > Claude) ≈ 90%  
-• P(exactly one of (Gemini, DeepSeek) > Claude) ≈ 25–30%  
-→ P(exactly one total) ≈ 0.9×0.25 ≈ 22.5%.  
-
-Thus the 24% quote is within any reasonable error band. I see no missing factor that would push value materially higher or lower.
+• There is no single piece of high-confidence evidence postulating that Anthropic is nearly certain to be #3; vs. no proof it’s almost impossible.  
+• The mix of strong enterprise momentum and subdued confidence in public benchmarks suggests 20% is a defensible consensus.  
+• No glaring informational edge (e.g. leaked Arena results) appears omitted from market pricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (competitors are known, but exact relative performance is uncertain)  
-Magnitude of mispricing: 3¢ (if market is slightly off)  
-Expected value = 0.5 × 3¢ = 1.5¢
+Strength of evidence that price is mispriced: ~20% (mixed signals, no smoking gun)  
+Magnitude of mispricing if present: ~10 cents (at most a modest undervaluation given the uncertainty)  
+Expected value = 20% × 10 cents = 2 cents
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The 24% probability aligns with a plausible model in which exactly one of multiple rivals overtakes Claude by March 31, making it third; available research offers no strong contradiction or overlooked event.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 2  
+SUMMARY: Anthropic has strong enterprise and coding metrics but faces stiff competition from GPT-5.4 and Gemini 3.1. No definitive Arena scores favor Claude 4.6 yet, so a 20% chance of 3rd place appears reasonable.  
+CONFIDENCE: low
 
 ---
 
@@ -58,61 +59,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Overall LLM Rankings: February 2026 | Awesome Agents
-Author: James Kowalski
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://awesomeagents.ai/leaderboards/overall-llm-rankings-feb-2026/
-Summary: The overall LLM rankings for February 2026 indicate that Anthropic's Claude Opus 4.6 is currently ranked second, closely following OpenAI's GPT-5.2 Pro, which holds the top position. Claude Opus 4.6 excels in coding ability, leading the SWE-Bench Verified metric at 72.5%, and demonstrates strong performance across other benchmarks, including reasoning and human preference. 
+Title: The March 2026 AI Frontier: GPT-5.4, Gemini 3.1, and Claude 4.6
+Author: Micheal Lanham
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://micheallanham.substack.com/p/the-march-2026-ai-frontier-gpt-54
+Summary: By March 2026, the AI landscape is highly competitive, with major players like OpenAI, Google DeepMind, and Anthropic releasing significant updates. While OpenAI's GPT-5.4 and Google's Gemini 3.1 Pro are positioned as leading models in terms of capability and market focus, Anthropic's latest release, Claude 4.6, is noted as the "smartest upgrade" with improvements in coding and sustained agent runs. However, the recent trend shows a shift toward models emphasizing long-horizon reasoning, tool use, and agentic capabilities, with multiple models now claiming a 1-million-token context window. Given the rapid pace of innovation and strategic positioning, it remains uncertain whether Anthropic's Claude 4.6 will secure the #3 spot by the end of March 2026, especially considering the intense competition and ongoing advancements from other providers.
 
-Given the competitive landscape, where models are rapidly evolving, it's important to consider that Claude Opus 4.6's performance could be influenced by upcoming updates from both Anthropic and its competitors. The rankings also highlight that the AI market is dynamic, with models being updated frequently, which could affect their standings by the end of March 2026. 
+Title: Where We Are in the AI Foundational Models Race at the End of Q1 2026 — abZ Global
+Author: Written By  Sorca Marian
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://abz.global/technology/where-we-are-in-the-ai-foundational-models-race-at-the-end-of-q1-2026
+Summary: As of the end of Q1 2026, Anthropic remains a strong contender in the AI foundational models race, particularly excelling in coding and long-horizon agentic capabilities. However, the current top rankings place OpenAI and Google DeepMind ahead, with OpenAI leading due to its recent GPT-5.4 deployment and broad product integration. While Anthropic is highly competitive and influential, especially in specialized areas, it is not currently positioned as the #3 leader overall. Therefore, based on recent developments, it is unlikely that Anthropic will hold the #3 spot by the end of March 2026, though it remains a significant player in the AI landscape.
 
-If Anthropic continues to enhance Claude Opus and maintain its current performance levels, it has a strong chance of retaining a top position. However, the performance of other models, particularly those from OpenAI and Google DeepMind, will also play a crucial role in determining if Claude Opus can secure the #3 spot or higher by the end of March 2026.
+Title: The AI Race Has Split in Two — and Anthropic Is Leading One Half | by Micheal Lanham | Mar, 2026 | Medium
+Author: Micheal Lanham
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://medium.com/@Micheal-Lanham/the-ai-race-has-split-in-two-and-anthropic-is-leading-one-half-dca65d4ef3a1
+Summary: By March 2026, Anthropic is emerging as a significant player in enterprise AI, capturing approximately 40% of enterprise large language model (LLM) spending, surpassing competitors like OpenAI and Google in this sector. Despite holding only about 2% of global consumer chatbot traffic, its enterprise dominance suggests strong growth potential. Anthropic's advantages include advanced coding agents, multi-cloud deployment, and a safety-first approach, which are creating sustainable competitive moats. Given its rapid revenue growth—from $1 billion to $14 billion in just fourteen months—and its strategic focus on enterprise markets, it is plausible that Anthropic could secure a top-three position among AI models by the end of March 2026.
 
-Title: The February 2026 AI Model War Nobody Saw Coming: GPT-5, Claude, and DeepSeek Are All Moving at Once
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.humai.blog/the-february-2026-ai-model-war-nobody-saw-coming-gpt-5-claude-and-deepseek-are-all-moving-at-once/
-Summary: In February 2026, a significant shift in the AI landscape occurred with the simultaneous releases of major updates from Anthropic, OpenAI, and DeepSeek. Anthropic launched Claude Opus 4.6, which introduced new capabilities such as agent teams that allow for parallel task execution, significantly improving efficiency for users like financial analysts and developers. This model is positioned to compete closely with OpenAI's GPT-5.3-Codex and DeepSeek's upcoming V4, which also boasts a substantial context window upgrade.
+Title: Who’s Winning the AI Chatbot Race: OpenAI's ChatGPT, Google Gemini, or Anthropic Claude?
+Author: External Contributor
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.digitalinformationworld.com/2026/03/whos-winning-ai-chatbot-race-openais.html
+Summary: As of March 2026, Anthropic's Claude chatbot has experienced significant growth, with its US daily active user (DAU) market share tripling from January to February and its worldwide share doubling in the same period. Notably, Claude's churn rate decreased from 55% to 36%, indicating improved user retention and sustained value. Its surge in downloads and ranking, including hitting #1 overall in the US iOS App Store in late February, suggests strong product momentum driven by app enhancements and marketing efforts. While ChatGPT remains the dominant player, its market share has declined, and Google Gemini and Grok are gaining ground. Given Claude's recent performance and increasing user engagement, it is plausible that Anthropic could secure the #3 position in the AI chatbot market by the end of March 2026.
 
-The competitive dynamics suggest that all three companies are responding to a growing demand for more capable AI systems that can function as autonomous work engines rather than just chatbots. As of now, Claude Opus 4.6 is already being adopted by users, and its performance is reportedly favorable compared to its predecessors and competitors.
-
-Given this context, predicting whether Anthropic will have the #3 AI model by the end of March 2026 hinges on several factors: the adoption rate of Claude Opus 4.6, user satisfaction compared to GPT-5.3 and DeepSeek V4, and the overall market response to these models. If Claude continues to perform well and attract users, it stands a strong chance of securing a top position in the AI model rankings.
-
-Title: OpenAI vs Google vs Anthropic: In-Depth Analysis of AI Giants' Competitive Landscape | SynapseWire
-Author: SynapseWire Editorial
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://synapsewire.com/en/posts/openai-google-anthropic-competition-analysis/
-Summary: The competitive landscape among OpenAI, Google, and Anthropic is intensifying, with each company vying for dominance in the AI sector. Anthropic, currently valued at $380 billion after a significant financing round, has established a strong foothold in the enterprise market, with 80% of its revenue coming from business clients. This stability is crucial as it allows Anthropic to focus on developing its AI tools, such as Claude Code, which has seen impressive growth in enterprise subscriptions and revenue.
-
-As of early 2026, Anthropic's annualized revenue is projected to reach $14 billion, indicating robust demand for its products. The company's marketing strategies, including a successful Super Bowl advertisement, have also boosted user engagement. Given these factors, Anthropic's strong performance in the enterprise sector and its innovative product offerings suggest that it is well-positioned to potentially secure the #3 AI model by the end of March 2026, especially as it continues to expand its market presence and capitalize on the growing demand for AI solutions in business operations.
-
-Title: The February Reset: Three Labs, Four Models, and the End of “One Best AI” | by Han HELOIR YAN, Ph.D. ☕️ | Data Science Collective | Feb, 2026 | Medium
-Author: Han HELOIR YAN, Ph.D. ☕️
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://medium.com/data-science-collective/the-february-reset-three-labs-four-models-and-the-end-of-one-best-ai-7a9755eccdcc
-Summary: The article discusses the competitive landscape of AI models as of February 2026, highlighting the release of four significant models: Claude Opus 4.6 from Anthropic, GPT-5.3-Codex from OpenAI, and Gemini 3.1 Pro from Google. The author notes that these models represent a shift away from the idea of a single "best AI" towards a more diversified approach, with each model excelling in different areas.
-
-To predict whether Anthropic will have the #3 AI model by the end of March 2026, consider the following points from the article:
-
-1. **Recent Releases**: Anthropic's Claude Opus 4.6 was released on the same day as OpenAI's GPT-5.3-Codex, indicating a strong competitive position. The rapid succession of releases suggests that Anthropic is actively innovating.
-
-2. **Model Performance**: The article implies that the performance of these models is not uniform; each has strengths in specific applications. Evaluating the performance metrics and user adoption of Claude Opus 4.6 compared to its competitors will be crucial.
-
-3. **Market Dynamics**: The emergence of multiple leading models indicates a fragmented market where no single model dominates. This environment may favor Anthropic if it can carve out a niche or excel in specific use cases.
-
-4. **Future Developments**: The article hints at ongoing developments and potential updates from all labs, which could influence rankings. Monitoring announcements and
-
-Title: Did Anthropic Just Overtake OpenAI? | Kersai
-Author: AI Consultants
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://kersai.com/did-anthropic-just-overtake-openai/
-Summary: The article discusses the competitive landscape between Anthropic and OpenAI as of February 2026, highlighting a significant shift in revenue growth dynamics. Anthropic is experiencing rapid annualized revenue growth, projected at around 10× per year, while OpenAI's growth is slower at approximately 3.4× per year. Analysts suggest that if current trends continue, Anthropic could surpass OpenAI in annualized revenue by mid-2026, potentially reaching a run rate of $43 billion.
-
-Key factors influencing this prediction include:
-- **Revenue Trends**: Anthropic's revenue growth is outpacing OpenAI's, with projections indicating a crossover point in late 2026 or early 2027.
-- **Investor Sentiment**: Many investors are diversifying their portfolios by backing both companies, indicating a shift in loyalty and confidence in Anthropic's potential.
-- **Market Position**: While OpenAI maintains a strong cultural and user presence, revenue growth is becoming a critical metric for long-term sustainability and market leadership.
-
-Given these insights, it appears likely that Anthropic could secure a strong position in the AI landscape by the end of March 2026, potentially making it a contender for the #3 AI model, depending on how these revenue trends and market dynamics evolve.
+Title: Gemini 3.1 Pro vs Opus 4.6 vs Codex 5.3: The Definitive Comparison (March 2026) - Benchmarks, Real Pricing, Architecture Deep Dive & Decision Framework for February 2026's Three Frontier Models | AI Free API
+Author: AI Free API Team
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.aifreeapi.com/en/posts/gemini-3-1-pro-vs-opus-4-6-vs-codex-5-3
+Summary: As of March 2026, the AI landscape features three prominent frontier models: Gemini 3.1 Pro, Claude Opus 4.6, and GPT-5.3-Codex, each excelling in different domains such as scientific reasoning, complex coding, and autonomous execution. Gemini 3.1 Pro is notable for its cost efficiency ($2 per million tokens) and strong scientific reasoning capabilities, making it suitable for research and long-context tasks. Claude Opus 4.6 stands out in agentic coding with its unique architecture and slightly higher benchmark scores in software engineering (80.8%), indicating robust performance in complex coding and agent-based workflows. GPT-5.3-Codex, while not available via API and primarily accessible through integrated tools like GitHub Copilot, demonstrates high autonomous execution speed and competitive benchmark results (~77%), but its API pricing is not publicly listed. Given these insights, predicting whether Anthropic will hold the #3 position depends on whether they can match or surpass the performance and integration capabilities of these models by the end of March 2026. Currently, the competitive landscape suggests that unless Anthropic introduces a model with comparable or superior benchmarks and flexible deployment options, it may face challenges in securing the #3 spot.
 
 

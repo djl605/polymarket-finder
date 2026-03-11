@@ -1,49 +1,52 @@
 # Research: Will Darryn Peterson be the first pick in the 2026 NBA draft?
 
 **Market ID:** 0xb6b2080f536c5cd602771b1918c5be119044d826e076b5fbe92753c2b243ed35
-**Researched At:** March 1, 2026 at 06:10:38 AM UTC
+**Researched At:** March 11, 2026 at 04:20:07 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Darryn Peterson be the first pick in the 2026 NBA draft?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.6¢
+**Confidence:** Medium
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Research shows a split between bullish consensus polls (~60%) and recent durability/performance concerns. The 44% price roughly bridges those views, with no clear, actionable gap >20 cents.
+Recent expert analyses are evenly split on Peterson’s readiness and health, and mock drafts both support and question his No. 1 status. A 37.5% probability cleanly balances these opposing forces, with no obvious information gap indicating a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Kansas guard Darryn Peterson will be selected first overall in the 2026 NBA Draft. “YES” resolves if he is officially announced as the No. 1 pick by the NBA on draft night; “NO” covers any other player going first or a cancellation/unknown pick by September 30, 2026.
+This market asks whether Darryn Peterson will be selected first overall in the 2026 NBA draft. A YES requires that, come draft day, whichever franchise wins the lottery uses the No. 1 pick on Peterson. A NO covers all other outcomes: any other player taken first, the draft being canceled, or the first pick unresolved by Sept 30, 2026.
 
 2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• A Jan 31 NBA scouts/executives poll (12-to-8) favored Peterson (≈60% support).  
-• CBS Sports (Feb 19) and Bleacher Report (undated) Big Boards rank Peterson No 1, citing elite efficiency metrics.  
-• SI (Feb 1) lauds a head-to-head win over AJ Dybantsa and labels him a clear frontrunner.  
-Bearish indicators:  
-• ProFootballNetwork (Feb 28) reports his stock “slipping” and predicting he might fall out of the top three.  
-• CBS and Bleacher Report note durability and decision-making concerns, with Dybantsa’s assist/playmaking trending up.  
-Source credibility is mixed: mainstream outlets (CBS, SI) vs. a non-NBA specialist (PFN). All are recent (<1 month), but none provide hard odds—only qualitative views. The split between strong endorsements and fresh cautionary notes suggests uncertainty more than a glaring misprice.
+Bullish evidence (supports a higher than 37.5% chance):  
+– Multiple recent mocks (e.g. CBS’s Gary Parrish) project Peterson at No. 1.  
+– A March 5 SI piece reports that scouts and NBA execs still see him as the top talent, with most mock drafts slotting him at No. 1 or No. 2.  
+– Yahoo’s March 5 write-up emphasizes his “high skill level, athleticism and potential.”
+
+Bearish evidence (supports a lower than 37.5% chance):  
+– Concerns about his availability, health, and inconsistent freshman season per ESPN and Fadeaway World’s March articles.  
+– Fadeaway World (Mar 2) explicitly says he’s “no longer viewed as the clear No. 1 pick.”  
+– The draft class is unusually deep, meaning other prospects (Dybantsa, Boozer, etc.) could leapfrog him.
+
+Source credibility and recency: all five pieces are from reputable outlets (ESPN, SI, CBS, Yahoo, Fadeaway World) and published within the past ten days. They evenly split bullish vs. bearish viewpoints, indicating genuine uncertainty rather than a one-sided narrative.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 44%, the market implies modest underdog status. That aligns with mixed signals: roughly 60% support at mid-season polls weighed down by late-season slip concerns. Low $1.7 K volume means few traders, but a 6¢ spread implies even those few see value. It’s plausible that the price reflects a cautious consensus rather than one over-confident bettor.
+A 37.5% probability plausibly reflects a consensus that Peterson is a top contender but faces enough downside risk (injury, inconsistency, class depth) to keep his odds well below coin-flip territory. The zero trading volume suggests this price likely stems from an automated or single-maker initial quote rather than broad liquidity. However, the tight 5¢ spread shows at least one liquidity provider is confident no dramatic new info will emerge to re-rate him by more than a few cents today. Informed traders may be watching but not yet trading because the real determinant (team performance and lottery outcome) lies months away.
 
 4. MISPRICING ASSESSMENT  
-No source delivers a decisive new fact that would move Peterson’s odds by >20¢. The recent PFN downside note likely already nudged the price below 50%. The market sits plausibly between the bullish 60% poll and bearish durability flags. There’s no clear, omitted information or technicality indicating a large gap.
+No clear, specific piece of information in the research is both high-impact and evidently unpriced by the market. The mixed expert views and significant season-long uncertainties justify a mid-30s probability. There is no glaring technicality or overlooked fact. The most charitable interpretation: the market price encodes both the bullish mock-draft sentiment (pushing odds up toward ~50%) and the health/performance concerns (pushing odds down toward ~25–30%).
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that there is mispricing): 30%  
-Magnitude of mispricing: 2 cents  
-Expected value = 0.30 × 2 = 0.6 cents
+Strength of evidence that the market is mispriced: 30% (mixed expert views, but no dominant omission).  
+Likely magnitude of mispricing if it exists: ~5 cents (small drift from a fair ~40 cent estimate).  
+Expected value ≃ 30% × 5 cents = 1.5 cents.
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: Research shows a split between bullish consensus polls (~60%) and recent durability/performance concerns. The 44% price roughly bridges those views, with no clear, actionable gap >20 cents.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.5  
+SUMMARY: Recent expert analyses are evenly split on Peterson’s readiness and health, and mock drafts both support and question his No. 1 status. A 37.5% probability cleanly balances these opposing forces, with no obvious information gap indicating a large mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -51,40 +54,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Darryn Peterson Predicted To Slip Out of Top 3 in 2026 NBA Draft ...
-Published Date: 2026-02-28T13:10:24.804Z
-URL: https://www.profootballnetwork.com/nba/darryn-peterson-predicted-slip-out-top-3-2026-nba-draft/
-Summary: Darryn Peterson, a standout guard for the Kansas Jayhawks, was once projected to be a top-three pick in the 2026 NBA Draft, potentially even the first overall selection. However, recent reports indicate that his draft stock is slipping due to issues related to his performance and decision-making on the court. As the 2025-26 NBA regular season nears its end, analysts are now predicting that Peterson may fall out of the top three entirely. This decline in projection raises questions about his chances of being the first pick in the draft. Factors contributing to this shift include his recent actions during games and overall performance, which have led scouts to reassess his potential as a top-tier prospect.
+Title: 2026 NBA draft: Top nine questions for top nine freshmen
+Author: Jeremy Woo
+URL: https://www.espn.com/nba/story/_/id/48101322/2026-nba-draft-nine-question-nine-top-freshman-march-madness-dybantsa-boozer-peterson
+Summary: The article discusses the highly talented 2026 NBA draft class, emphasizing its depth and potential to set records for the number of freshmen selected in the lottery. The top nine prospects, all freshmen, are highly regarded, with many projected to participate in the NCAA tournament. A specific focus is given to Darryn Peterson, with Scott Van Pelt raising questions about his availability and the uncertainty surrounding his status at Kansas. This vagueness about Peterson's situation indicates that predicting whether he will be the first pick in the 2026 NBA draft is currently difficult, as his draft position depends on his health, performance, and team evaluations in the final season.
 
-Title: NBA Scouts Poll: Darryn Peterson Narrowly Tops AJ Dybantsa in Mock Draft for 2026
-Author: Joe Tillery
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://www.heartlandcollegesports.com/2026/01/31/nba-execs-peterson-vs-dybantsa-top-pick-mock-draft/
-Summary: Darryn Peterson has emerged as a leading candidate for the first overall pick in the 2026 NBA Draft, narrowly edging out AJ Dybantsa in a recent poll of NBA scouts and executives. In this poll, Peterson received 12 votes compared to Dybantsa's 8, indicating strong support for him among industry professionals. The ongoing debate highlights the competitive nature of the draft, with both players being highly regarded. As the season progresses, Peterson's performance, particularly in key matchups, will be crucial in solidifying his status as the top pick. Factors such as team needs, player development, and potential trades will also play significant roles in the final decision.
+Title: Why Kansas basketball's Darryn Peterson is still viewed as ...
+Author: Zachary Weinberger, ClutchPoints Thu, March 5, 2026 at 5:58 PM UTC · 2 min read
+URL: https://sports.yahoo.com/articles/why-kansas-basketball-darryn-peterson-175815739.html
+Summary: Darryn Peterson, despite a challenging and inconsistent college season, remains highly regarded as a top NBA Draft prospect, with some sources still viewing him as a potential No. 1 pick in the 2026 draft. His high skill level, athleticism, and potential continue to attract attention from scouts and analysts, although his recent performance has raised questions about his readiness and consistency. Factors influencing his draft stock include his development trajectory, performance in upcoming seasons, and how he addresses current concerns about his game. Overall, Peterson's future as a top pick depends on his continued growth and how he impresses evaluators in the coming years.
 
-Title: NBA Draft Big Board: Peterson sits at top despite sitting out late in games - CBS Sports
+Title: NBA Mock Draft: Kansas' Peterson goes No. 1 - CBS Sports
 Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.cbssports.com/college-basketball/news/nba-draft-big-board-2026-kansas-darryn-peterson-sits-at-no-1-in-prospect-rankings-despite-sitting-out-again/
-Summary: Darryn Peterson currently holds the top spot on the 2026 NBA Draft Big Board, despite concerns regarding his availability and performance consistency. While he has demonstrated exceptional skills when on the court, his tendency to sit out late in games has raised questions among NBA scouts about his physical durability and long-term viability as a franchise player. Executives are increasingly cautious, weighing his impressive on-court abilities against his recent pattern of limited participation. 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.cbssports.com/nba/news/2026-nba-mock-draft-kansas-darryn-peterson-goes-no-1-ahead-of-byus-aj-dybantsa-dukes-cameron-boozer/
+Summary: Darryn Peterson, a Kansas guard, is currently projected as the No. 1 overall pick in the 2026 NBA Draft according to Gary Parrish's mock draft. Despite a somewhat inconsistent season, he is considered the top prospect and a potential franchise player. The draft order is not finalized yet, with the lottery scheduled for May 10, and the actual first pick could shift. However, Peterson's strong evaluation as the top prospect suggests he is the leading candidate to be the first overall pick.
 
-In contrast, AJ Dybantsa is also emerging as a strong contender, leading Division I in scoring, which could impact Peterson's standing as the first overall pick. As the draft approaches, Peterson's ability to address these concerns will be crucial in determining whether he retains his position as the top prospect.
-
-Title: 2026 NBA Mock Draft: Are We Sure Darryn Peterson Is the No. 1 Pick?
-Author: Jonathan Wasserman
-URL: https://bleacherreport.com/articles/25262746-2026-nba-mock-draft
-Summary: Darryn Peterson, a shooting guard from Kansas, is currently projected as the No. 1 pick in the 2026 NBA Draft, but there are factors that could influence this prediction. Despite some concerns regarding his durability and competitiveness, scouts remain impressed by his efficiency, particularly in off-ball situations, where he boasts impressive shooting percentages (64.0% in spot-up situations, 46.2% off screens, and 59.1% on dribble handoffs). 
-
-However, he faces competition from other top prospects, notably AJ Dybantsa from BYU, who is gaining traction with his improved three-point shooting and playmaking abilities. Dybantsa's assist rate is significantly higher, and he has shown better decision-making on the court, which could sway opinions as the draft approaches. 
-
-Ultimately, Peterson's status as the top pick will depend on his pre-draft medical evaluations and whether he can maintain his edge over rising contenders like Dybantsa. As of now, he remains the favorite, but the landscape could change as the draft date nears.
-
-Title: Darryn Peterson Is Clear No. 1 NBA Draft Pick After Outshining AJ Dybantsa
+Title: Darryn Peterson No Longer Viewed As Clear No. 1 Pick In 2026 NBA Draft - Fadeaway World
 Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.si.com/college-basketball/darryn-peterson-is-clear-no-1-nba-draft-pick-after-outshining-aj-dybantsa
-Summary: Darryn Peterson has solidified his status as the frontrunner for the No. 1 pick in the 2026 NBA Draft after an impressive performance against fellow prospect AJ Dybantsa. In a recent matchup, Peterson showcased his scoring ability from all areas of the court, scoring 18 points in the first half and leading Kansas to a 90–82 victory over BYU. His performance highlighted a significant gap in skill and polish compared to Dybantsa, who struggled to make an impact during the game.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://fadeawayworld.net/nba-media/darryn-peterson-no-longer-viewed-as-clear-no-1-pick-in-2026-nba-draft
+Summary: Darryn Peterson, once considered a clear top prospect for the 2026 NBA Draft, is no longer viewed as the leading candidate for the No. 1 overall pick. His draft stock has been impacted by concerns over durability, which have clouded his prospects for being the first selected player. While he was highly regarded earlier, recent evaluations suggest that other prospects may now be favored to go first in the upcoming draft.
 
-Peterson's ability to score efficiently and his strong showing in high-pressure situations have made scouts reconsider their rankings, with many now viewing him as the top prospect. However, his potential to be the first pick may hinge on his health, as he experienced cramping during the game that limited his playtime. Overall, Peterson's consistent scoring, combined with his ability to perform under scrutiny, positions him as a leading candidate for the top pick in the upcoming draft.
+Title: Why Experts Still View Kansas’ Darryn Peterson as the Top 2026 Prospect
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.si.com/college/kansas/basketball/why-experts-still-view-kansas-darryn-peterson-as-the-top-2026-prospect
+Summary: Darryn Peterson, a highly touted 2026 NBA prospect and former top-ranked high school recruit, has faced significant challenges during his freshman season at Kansas, including injuries and availability issues that have limited his playing time and performance. Despite these setbacks, scouts and NBA executives continue to regard him as a top talent, maintaining his status as a leading candidate for the first overall pick. While recent concerns about his injury history and questions about his mentality have slightly impacted his reputation, most mock drafts still project him as either the No. 1 or No. 2 pick. His enduring high regard among scouts suggests that, barring unforeseen developments, he remains a strong contender to be the first overall selection in the 2026 NBA Draft.
 
 

@@ -1,56 +1,56 @@
 # Research: Will Kyle Sweetser be the Democratic nominee for Senate in Alabama?
 
 **Market ID:** 0xa4eed684bdfa42fef3fa9e11bf11666c1eea4cbfb11ab7951ec49891341619c9
-**Researched At:** March 5, 2026 at 02:56:40 PM UTC
+**Researched At:** March 11, 2026 at 04:17:32 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Kyle Sweetser be the Democratic nominee for Senate in Alabama?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 8.0¢
+**Confidence:** Low
+**Expected Value:** 19.0¢
 
 ### Summary
 
-Sweetser is one of at least five Democratic candidates with no polls, fundraising edge, or endorsements indicating he’s the clear frontrunner. Given low trading volume and absence of public support data, the 58.5% price is likely overstated by ~20 cents.
+Local reporting names five Democratic candidates with “no clear frontrunner,” yet the market prices Sweetser at 58%, implying a ~38¢ overprice if chances are equal (~20%). With low trading volume and no public polling or endorsements for Sweetser, this points to probable mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market resolves YES if Kyle Sweetser wins the Alabama Democratic U.S. Senate primary and thus becomes the nominee; it resolves NO if any other candidate wins or if no primary is held.  
+The market asks: “Will Kyle Sweetser be the Democratic nominee for Senate in Alabama?” It resolves YES if Sweetser wins the Democratic primary, NO otherwise (including other Democratic candidates or if no primary occurs).
 
 2. EVIDENCE EVALUATION  
-Bullish for Sweetser:  
-- He is one of the declared candidates, so he is eligible.  
+Bullish (supports >58%):  
+• No data. None of the sources name Sweetser as a frontrunner, cite polling, or mention top endorsements.  
 
-Bearish / suggests 58.5% is too high:  
-- Multiple sources enumerate at least four other Democratic contenders (Larriett, Lavender, Wess, Wheeler II), with no reporting that Sweetser leads in polls or fundraising.  
-- No recent polls or endorsements identified showing Sweetser with a clear advantage.  
-- Major Alabama political coverage (al.com, Yellowhammer) omits him entirely when discussing leading Senate contenders or fundraising.  
-- Wikipedia’s entry on the 2026 AL Senate race lists no Democratic frontrunner, implying no consensus around Sweetser.  
+Bearish (supports <58%):  
+• WVUA23 (2026-02-16): Five Democrats are running—Sweetser plus four others—with “no clear frontrunner.” In an even field Sweetser’s prior chance would be ~20%.  
+• Three opinion pieces (Alabama Gazette, two by Steve Flowers) focus exclusively on the Republican side, implying the Democratic race is an afterthought with no standout candidate.  
+• WHNT.com mentions four Dems without naming Sweetser at all, suggesting local media aren’t highlighting him.
 
-Source credibility & recency:  
-- All sources are from February 2026 and local/regional outlets. They are timely and from known political reporting sites.  
-- The repeated absence of any Sweetser-specific advantage across independent outlets strengthens the bearish case.  
+Source credibility & recency: All are credible local outlets, published within the last month. No indications any recent development (endorsements, fundraising, polling) has shifted momentum to Sweetser.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 58.5% price implies Sweetser is seen as the clear favorite, but available public information shows a multi-candidate field with no frontrunner.  
-- Low $5.6K volume and a tight spread suggest few traders have set or challenged the price—likely the view of one or two confident participants rather than broad consensus.  
-- It seems more likely that informed traders haven’t engaged than that the outcome is so certain.  
+• 58% could reflect a handful of optimistic traders rather than broad consensus.  
+• Low volume ($5.6K) and tight spreads imply limited participants; market may be set by one or two confident bulls.  
+• The absence of public polling or endorsements makes it unlikely informed traders have strong private info that sharply tilts probability above 50%.  
 
 4. MISPRICING ASSESSMENT  
-- There is no credible public evidence that Sweetser is the leading candidate with >50% chance.  
-- The market appears to be inefficiently high, probably by at least 20–30 cents, given five-way competition and no indicators of frontrunner status.  
+• Given five roughly equal candidates and no evidence Sweetser leads, a baseline of ~20% seems reasonable, vs. current 58% → potential 38¢ overpricing.  
+• Timeline: Primary in summer 2026, so still many months for developments—but no signal of early coalescence around Sweetser.  
+• Efficiency signs are weak; mispricing likely.  
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: ~40% (multiple independent sources all show no frontrunner status)  
-- Magnitude of mispricing: ~20 cents  
-- Expected value = 0.40 × 20¢ = 8¢  
+Strength of evidence (no front-runner, equal field): 50%  
+Magnitude of mispricing: 38¢  
+Expected value = 0.50 × 38¢ = 19¢  
 
-EXPECTED_VALUE: 8  
-SUMMARY: Sweetser is one of at least five Democratic candidates with no polls, fundraising edge, or endorsements indicating he’s the clear frontrunner. Given low trading volume and absence of public support data, the 58.5% price is likely overstated by ~20 cents.  
-CONFIDENCE: medium
+6. CONFIDENCE: low  
+
+EXPECTED_VALUE: 19  
+SUMMARY: Local reporting names five Democratic candidates with “no clear frontrunner,” yet the market prices Sweetser at 58%, implying a ~38¢ overprice if chances are equal (~20%). With low trading volume and no public polling or endorsements for Sweetser, this points to probable mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -62,28 +62,30 @@ Title: Who are the four Democrats running for Tuberville’s Senate seat? | WHNT
 Author: Kayla Smith
 Published Date: 2026-02-23T00:00:00.000Z
 URL: https://whnt.com/news/politics/your-local-election-headquarters/who-are-the-four-democrats-running-for-tubervilles-senate-seat/
-Summary: The article discusses four Democratic candidates running for Alabama's U.S. Senate seat, which is open due to Senator Tommy Tuberville's gubernatorial bid. Among them, Kyle Sweetser is highlighted as a candidate motivated by concerns over recent political events, such as January 6, 2021. While detailed information about Sweetser's platform is limited in this excerpt, his inclusion indicates he is actively campaigning. However, there is no definitive information in the article about his likelihood of securing the Democratic nomination, as the race appears competitive with multiple candidates. Therefore, predicting whether Kyle Sweetser will be the Democratic nominee remains uncertain based solely on this source.
+Summary: The webpage primarily discusses the four Democratic candidates running for Alabama's U.S. Senate seat currently held by Tuberville. However, it does not specify their names or details about their campaigns. There is no information indicating whether Kyle Sweetser is among these candidates or providing insights into his candidacy. Therefore, based on this source, there is no relevant information to predict if Kyle Sweetser will be the Democratic nominee for Senate in Alabama.
 
-Title: Democratic Candidates - BirminghamWatch
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://birminghamwatch.org/elections/2026-elections-voter-guide/democratic-primary-candidates/
-Summary: The webpage lists multiple Democratic candidates for various 2026 Jefferson County and state races, including U.S. Senate candidates such as Dakarai Larriett, Lamont Lavender, Everett Wess, Mark S. Wheeler II, and Kyle Sweetser. While it confirms Kyle Sweetser's candidacy for the U.S. Senate, it does not specify whether he is the leading or favored candidate to secure the Democratic nomination. Additional information about primary results or party endorsements is needed to assess his prospects for becoming the Democratic nominee for Alabama's Senate seat.
+Title: Alabama Has a Rare Senate Seat Opening This Year - Alabama Gazette
+Author: Alabama Gazette
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.alabamagazette.com/story/2026/03/01/opinion/alabama-has-a-rare-senate-seat-opening-this-year/10269.html
+Summary: The article discusses the upcoming Alabama U.S. Senate race, highlighting the Republican primary scheduled for May 19, 2026, following Senator Tommy Tuberville's decision to run for governor. The Republican field includes five candidates, with the race initially seeming to favor Attorney General Steve Marshall and Congressman Barry Moore. Moore has secured a significant advantage with endorsements from President Donald Trump and the Republican Club for Growth, making him a prohibitive favorite. The article emphasizes Alabama's political landscape as solidly Republican and underscores the importance of effective facilitation and advocacy in a senator, citing Alabama's successful economic development driven by past senators like Richard Shelby and Katie Britt. There is no mention of Democratic candidates or Kyle Sweetser, indicating that, as of now, the focus is on the Republican primary, and the Democratic nominee has not been determined or publicly discussed in this context.
 
-Title: Who's up? Who's down? Alabama ‘26 candidates report January campaign fundraising numbers - Yellowhammer News
-Author: Grayson Everett
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://yellowhammernews.com/whos-up-whos-down-alabama-26-candidates-report-january-campaign-fundraising-numbers/
-Summary: The article reports on January 2026 campaign fundraising totals for Alabama’s 2026 political candidates, including statewide offices such as governor, lieutenant governor, attorney general, secretary of state, state auditor, and agriculture commissioner. While it highlights fundraising strengths and recent financial reports, it does not specify or analyze potential Democratic Senate nominees, including Kyle Sweetser. Therefore, based on this source, there is no information indicating whether Kyle Sweetser will be the Democratic nominee for Alabama’s Senate race.
+Title: Opinion | Alabama has a rare Senate seat opening this year
+Author: Steve Flowers
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://www.alreporter.com/2026/02/25/opinion-alabama-has-a-rare-senate-seat-opening-this-year/
+Summary: The article discusses the upcoming Alabama U.S. Senate race, which is open due to Senator Tommy Tuberville's decision to run for governor. The Republican primary features five candidates, with the race heavily influenced by endorsements and campaign funding. Notably, Congressman Barry Moore, supported by President Trump and the Club for Growth, is a leading contender. The article emphasizes Alabama's political landscape, highlighting the state's strong Republican leaning and the importance of campaign resources. There is no mention of Kyle Sweetser or any Democratic candidates, suggesting that the primary focus is on the Republican side and that the Democratic nominee has not yet been determined or is not a prominent part of this discussion.
 
-Title: Alabama’s 2026 primary election is 100 days away: Latest poll, fundraising and political fights - al.com
-Author: Jeremy Gray | jgray@al.com
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://www-uat.al.com/politics/2026/02/2026-primary-elections-one-of-alabama-politics-biggest-days-is-100-days-away.html
-Summary: The article primarily discusses Alabama’s upcoming 2026 primary elections, focusing on key races such as governor and U.S. Senate. Incumbent Senator Tommy Tuberville is the presumptive Republican nominee, having raised approximately $9.5 million, while his Democratic opponent, Doug Jones, has raised nearly $934,000. The article highlights recent fundraising efforts, candidate qualifications, and residency challenges faced by some candidates. However, there is no mention of Kyle Sweetser or any specific details about his candidacy or prospects for the Democratic Senate nomination. Based on this information, there is no evidence to suggest that Kyle Sweetser is a leading contender or likely to be the Democratic nominee for Senate in Alabama.
+Title: Alabama Has A Rare Senate Seat Opening This Year | Opinion | montgomeryindependent.com
+Author: Steve Flowers
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.montgomeryindependent.com/opinion/alabama-has-a-rare-senate-seat-opening-this-year/article_03b38add-a7b3-4979-965e-c0bfeb83ed65.html
+Summary: The article discusses the upcoming U.S. Senate race in Alabama, highlighting the rare open seat due to Senator Tommy Tuberville's decision to run for governor, which leaves the Senate seat vacant. It emphasizes the political significance of this year’s election, noting that such open seats are uncommon and attract considerable attention. While the article does not mention Kyle Sweetser specifically, it provides context about the competitive landscape and the importance of the Democratic primary in determining the nominee. Given the prominence of the race and the potential for various candidates to emerge, understanding the current political environment and key contenders is crucial for predicting whether Kyle Sweetser might secure the Democratic nomination.
 
-Title: 2026 United States Senate election in Alabama
-URL: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama
-Summary: The webpage details the 2026 U.S. Senate election in Alabama, focusing on the Republican primary race. Incumbent Senator Tommy Tuberville, who was elected in 2020, initially sought re-election but decided to run for governor instead, leaving the Senate seat open for the first time since 1996. Several Republican candidates have declared their candidacy, including Rodney Walker, Morgan Murphy, Barry Moore, Steve Marshall, Jared Hudson, Dale Shelton Deas Jr., and Seth Burton. Notably, there is no mention of any Democratic candidates or potential Democratic nominees in this election cycle. Given the absence of information about Democratic contenders, it is unlikely that Kyle Sweetser or any other Democrat is currently a leading candidate or has been declared as the nominee for the Alabama Senate race in 2026.
+Title: By the numbers: How Alabama's marquee midterm matchup is shaping up | News | wvua23.com
+Author: WVUA 23 Digital Reporter J. Calister Clemons
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://www.wvua23.com/news/by-the-numbers-how-alabamas-marquee-midterm-matchup-is-shaping-up/article_632914f5-b355-454a-8581-3ffba0448166.html
+Summary: The article primarily focuses on the upcoming Alabama U.S. Senate race, highlighting the competitive primary landscape. On the Democratic side, candidates include Kyle Sweetser, Lamont Lavender, Everett Wess, Mark Wheeler, and Dakarai Larriett. While specific polling data or endorsements for Sweetser are not provided, the overall Democratic primary appears less crowded compared to the Republican side. The article emphasizes that the race is still in flux, with no clear frontrunner among Democrats. Given the lack of detailed polling or campaign momentum information for Sweetser, it is uncertain whether he will secure the Democratic nomination, especially considering the competitive nature of the primary field.
 
 

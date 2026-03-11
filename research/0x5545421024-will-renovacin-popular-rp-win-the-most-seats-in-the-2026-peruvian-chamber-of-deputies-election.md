@@ -1,54 +1,55 @@
 # Research: Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Chamber of Deputies election?
 
 **Market ID:** 0x554542102403f12796b0f8b519adbcd966c12f7ec6652392ef78fb653de4f7bf
-**Researched At:** March 1, 2026 at 02:33:32 PM UTC
+**Researched At:** March 11, 2026 at 04:19:43 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Chamber of Deputies election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 3.0¢
+**Confidence:** Medium
+**Expected Value:** 2.5¢
 
 ### Summary
 
-With RP at 11.9% in the latest Datum poll amid a fractured 36‐party field, a 32% chance to top the Deputies seems slightly optimistic but not decisively mispriced, especially given high voter volatility. Low volume suggests limited informed engagement, and seat projections remain uncertain.
+Simulations project RP tied with FP at 32 seats and likely losing any tie‐breaker, implying a win probability in the low-30% range—consistent with the 35.5% market price. No strong new data indicates a large mispricing at this time.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Renovación Popular (RP) will finish with more seats than any other party in Peru’s April 12, 2026 Chamber of Deputies election. A YES requires RP to outpoll all other parties in seat counts (with tiebreakers by vote totals then alphabetical order). A NO encompasses any other party topping RP or unresolved results by October 31.
+- Market asks: “Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Chamber of Deputies?”  
+- YES if RP outperforms every other party in seat count (including resolving any tie‐breakers in RP’s favor). NO otherwise (including FP or any other party winning most seats or tie‐breakers favoring another).  
 
 2. EVIDENCE EVALUATION  
-Bullish signals (in favor of YES):  
-• Highly fragmented field (36 parties) means the leading party could win with a relatively low vote/share—potentially in the mid‐teens—so a party polling around 12% today could realistically emerge on top if no other party consolidates.  
-• Political instability and crime concerns give outsiders an opening; if RP crafts a compelling security‐focused message, it might surge among undecided voters.
+Bullish for RP (could push price higher):  
+- RP’s presidential candidate leads in CPI polling (13.9%), indicating party strength and name recognition that might translate into legislative votes.  
+- Online Lima surveys show active engagement for RP candidates, suggesting at least regional pockets of high support (though non-representative).  
 
-Bearish signals (in favor of NO):  
-• Datum poll (Feb 1, 2026) shows RP at just 11.9% voter intention versus 42.5% undecided/null, suggesting RP is not currently leading and faces an uphill battle in mobilizing supporters.  
-• No publicly available seat projections or strong coalition announcements that would materially boost RP’s chances.  
-• Competitive landscape with 36 candidates and reintroduction of a bicameral system means voters focused on the Senate race may dilute RP’s Deputies vote.  
+Bearish for RP (could push price lower):  
+- Infobae simulation (Mar 6) based on Feb surveys projects FP and RP each at 32 seats—i.e. a tie—requiring a tie‐breaker. Tie‐breaker goes to the party with more votes; no data showing RP leads FP in total votes. If that vote count is also tied, FP (F < R) wins by alphabetical order.  
+- Highly fragmented legislature per CPI poll: no clear frontrunner, many small parties could gain seats, raising the chance that neither FP nor RP emerges clear leader, or that FP edges ahead.  
 
-Source credibility: Datum poll and the Americas Quarterly profile are recent, reputable, and directly pertinent. The bicameral analysis adds context but does not directly estimate RP’s performance.  
+Source credibility/recency: Infobae (Mar 6 simulation) and RPP/CPI (Feb 20 survey) are recent, reputable outlets. Online “Encuestas Perú” polls reflect narrow, internet‐user samples and have limited predictive value for national outcomes.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-The 32% price could reflect:  
-• A consensus among a few traders who believe fragmentation and voter volatility give RP a one‐in‐three chance.  
-• Absence of large informed‐money bets, leaving price driven by early, possibly overconfident, speculators.  
-• Low volume likely signals lack of deep engagement rather than consensus; an obvious outcome would attract more volume.
+- A 35.5% probability fits a scenario where RP has some chance of slipping ahead of FP but is disadvantaged in most tie scenarios.  
+- Low volume suggests it may reflect consensus of a few traders rather than broad liquidity—but those traders likely have seen the same Infobae simulation and CPI data.  
+- No evidence that the outcome is so obvious traders have quit; instead, the market price probably reflects balanced uncertainty.  
 
 4. MISPRICING ASSESSMENT  
-There’s no definitive seat‐projection evidence that RP will lead (Datum’s 11.9% suggests they trail). But volatility and fragmentation mean the market may be underestimating RP’s upside. The lack of direct seat‐share modeling implies the 32% price is a rough consensus guess, not a precise estimate. No clear 20+ cent mispricing emerges; if anything, the market may be slightly optimistic but not egregiously so.
+- Given the Infobae projection of a tie and RP’s tie‐breaker disadvantage, an implied RP win probability of ~30–40% is reasonable.  
+- No strong contrary data (e.g. a new surge in RP support) seems to be missing.  
+- Thus, the 35.5% price appears consistent with known forecasts and tie‐breaker rules.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30% (polling data is suggestive but early, no seat models available)  
-Magnitude of mispricing: 10 cents (market could be 22–32%)  
-Expected value ≈ 0.3 × 10 c = 3 c  
+- Strength of evidence that price already incorporates key factors: ~50% (moderate confidence that traders know the tie scenario and vote‐tie rules).  
+- Potential mispricing magnitude: ~5¢ (market might slightly overvalue RP’s chance).  
+- Expected value = 50% × 5¢ = 2.5¢.  
 
-EXPECTED_VALUE: 3  
-SUMMARY: With RP at 11.9% in the latest Datum poll amid a fractured 36‐party field, a 32% chance to top the Deputies seems slightly optimistic but not decisively mispriced, especially given high voter volatility. Low volume suggests limited informed engagement, and seat projections remain uncertain.  
-CONFIDENCE: low
+EXPECTED_VALUE: 2.5  
+SUMMARY: Simulations project RP tied with FP at 32 seats and likely losing any tie‐breaker, implying a win probability in the low-30% range—consistent with the 35.5% market price. No strong new data indicates a large mispricing at this time.  
+CONFIDENCE: medium
 
 ---
 
@@ -56,67 +57,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Peru: Meet the Candidates 2026
-Author: Rich Brown  |  February 24, 2026
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://americasquarterly.org/article/peru-meet-the-candidates-2026/
-Summary: The upcoming 2026 Peruvian Chamber of Deputies election is set against a backdrop of significant political instability and rising crime rates, which are major voter concerns. The recent removal of President José Jerí and the appointment of José María Balcázar, a member of the leftist Perú Libre party, highlight the ongoing turmoil, with Peru experiencing nine presidents in the last decade. 
+Title: Elecciones 2026: Simulación proyecta a Fuerza Popular y Renovación Popular liderando la Cámara de Diputados - Infobae
+Author: Por  Analí Espinoza Seguir en
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.infobae.com/peru/2026/03/06/elecciones-2026-simulacion-proyecta-a-fuerza-popular-y-renovacion-popular-liderando-la-camara-de-diputados/
+Summary: A recent simulation based on a February 2026 survey projects that Fuerza Popular (FP) and Renovación Popular (RP) are likely to be the leading parties in the Peruvian Chamber of Deputies, each potentially securing 32 seats. Both parties are expected to have a 100% probability of surpassing the electoral barrier of 5%. While FP and RP are projected to be the largest parties, the simulation indicates that neither is predicted to win the most seats outright, as they are tied in the projection. Overall, the simulation suggests a competitive landscape with FP and RP leading, but not necessarily one party dominating all seats.
 
-As for Renovación Popular (RP), the party's prospects will depend on how effectively it addresses these pressing issues and resonates with voters. The election will feature a record 36 candidates, indicating a competitive landscape. Given the current political climate, RP's ability to capitalize on public dissatisfaction with crime and governance will be crucial in determining whether it can secure the most seats in the Chamber of Deputies. 
+Title: Encuesta Diputados por Renovación Popular (Lima) - Febrero 2026 - Encuestas Perú
+Author: Encuestas
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://encuestas.com.pe/diputados-renovacion-popular-lima-febrero-2026/
+Summary: The webpage presents a virtual survey conducted among internet users in Lima, Peru, to gauge support for candidates from the political party Renovación Popular (RP) for the 2026 Chamber of Deputies elections. The survey includes a list of individual candidates running for the party's seats in Lima, with voting open from January 25 to February 22, 2026. While the survey reflects the preferences of internet-savvy segments—such as youth and university-educated voters—it provides insight into candidate popularity within this demographic. The results of this specific survey are not provided, and it is important to note that it captures only a segment of the electorate. To predict whether RP will secure the most seats overall, one would need to consider broader electoral data, historical voting patterns, and the party's national campaign strength. However, the survey indicates active engagement and support for RP candidates among online users in Lima, which could be a positive indicator of the party's regional or demographic support base.
 
-Voter sentiment, particularly regarding security and political stability, will likely play a significant role in the election outcome.
+Title: Encuesta Diputados por Renovación Popular (Lima) - Marzo 2026 - Encuestas Perú
+Author: Encuestas
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://encuestas.com.pe/elecciones-2024-candidatos-al-congreso-de-renovacion-popular-en-lima/
+Summary: The webpage presents a virtual survey conducted among internet users in Lima, Peru, to gauge support for candidates from the political party Renovación Popular (RP) for the 2026 elections. The survey includes voting options for multiple candidates vying for seats in the Chamber of Deputies, as well as for other legislative positions like the Senate and local mayoralties. While the survey reflects the preferences of a specific segment—youth, university students, and influential internet users—it indicates active engagement and support for RP candidates in Lima. However, as a non-representative, online poll, it provides limited predictive value for the overall election outcome. To accurately forecast whether Renovación Popular will secure the most seats in the 2026 Chamber of Deputies, comprehensive polling data, historical voting patterns, and broader electoral analyses would be necessary.
 
-Title: Peru's 2026 Elections: ONPE determines ballot order for 38 political organizations by draw | News | ANDINA - Peru News Agency
-Author: Empresa Peruana de Servicios Editoriales S. A. EDITORA PERÚ
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://andina.pe/ingles/noticia-perus-2026-elections-onpe-determines-ballot-order-for-38-political-organizations-by-draw-1062913.aspx
-Summary: The National Office of Electoral Processes (ONPE) in Peru has conducted a public draw to determine the ballot order for 38 political organizations participating in the upcoming 2026 General Elections, scheduled for April 12. This event, held in Lima, included representatives from various political parties and was certified by a public notary. 
+Title: Encuesta Diputados APRA (Lima) - Marzo 2026 - Encuestas Perú
+Author: Encuestas
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://encuestas.com.pe/diputados-apra-lima-febrero-2026/
+Summary: The webpage presents recent survey data related to the 2026 Peruvian elections, focusing on voter preferences for congressional candidates and political parties in Lima. Notably, it includes a poll asking voters which party they would choose for a deputy seat in Lima if elections were held tomorrow, with options such as Renovación Popular (RP), APRA, Perú Libre, and others. The survey emphasizes that votes are strictly recorded per IP and cookie to prevent multiple votes, and it reflects the preferences of internet-using segments, including youth and university-educated voters. While specific results for Renovación Popular are not provided in the excerpt, the data indicates active engagement and interest in party preferences, which could influence the overall seat distribution. To predict whether RP will win the most seats, one would need to analyze these polling trends, voter engagement levels, and the performance of RP relative to other parties in this and other surveys.
 
-While the summary does not specifically mention Renovación Popular (RP), it provides insight into the electoral landscape by listing the first 20 political organizations that will appear on the ballot. Understanding the positioning of these parties and their public support could be crucial for predicting RP's performance in the elections. 
-
-To assess whether RP will win the most seats in the Chamber of Deputies, consider factors such as:
-
-1. **Current Polling Data**: Analyze recent polls to gauge public support for RP compared to other parties.
-2. **Party Alliances**: Investigate any potential alliances or coalitions that could influence seat distribution.
-3. **Historical Performance**: Review RP's past election results and trends in voter turnout.
-4. **Campaign Strategies**: Evaluate RP's campaign messaging and outreach efforts leading up to the election.
-5. **Voter Sentiment**: Consider the socio-political climate in Peru and how it may affect voter preferences.
-
-These elements will provide a more comprehensive understanding of RP's chances in the upcoming election.
-
-Title: Datum poll points to large numbers of the as yet undecided | Peru Support Group
-Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://perusupportgroup.org.uk/2026/02/datum-poll-points-to-large-numbers-of-the-as-yet-undecided/
-Summary: The recent Datum poll indicates a significant level of uncertainty among Peruvian voters ahead of the 2026 Chamber of Deputies election, with 42.5% of respondents either planning to nullify their votes or undecided on their choice. This suggests a fragmented electorate, which could impact the performance of parties like Renovación Popular (RP), led by Rafael López Aliaga, who currently has only 11.9% support. 
-
-The poll highlights a broader discontent among voters, particularly in southern Peru, where feelings of alienation and anger are prevalent, especially among supporters of the jailed former president Pedro Castillo. With 36 candidates in the race, the competition is fierce, and only a small percentage of voters have firmly decided on their candidates. 
-
-Given these dynamics, the potential for RP to win the most seats may hinge on their ability to mobilize undecided voters and address the concerns of disaffected citizens. The political landscape remains fluid, and the final weeks of campaigning will be crucial for all parties, including RP.
-
-Title: Peru: The importance of the Senate in the upcoming elections
-Author: SERVINDI
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.pressenza.com/2026/02/peru-the-importance-of-the-senate-in-the-upcoming-elections/
-Summary: The article discusses the significant changes in Peru's political landscape due to the reinstatement of the Senate and the upcoming general elections scheduled for April 2026. Key points relevant to predicting whether Renovación Popular (RP) will win the most seats in the Chamber of Deputies include:
-
-1. **Bicameral System Reintroduction**: The constitutional reforms have reestablished a bicameral legislature, which may influence party dynamics and voter preferences. The Senate's new powers could shift political strategies among parties, including RP.
-
-2. **Power Dynamics**: The reforms have strengthened the Legislative branch, particularly the Senate, which may affect how parties campaign and align themselves with voter interests. This shift could impact RP's ability to secure seats if they do not adapt to the new political environment.
-
-3. **Electoral Context**: The upcoming elections will see the Senate elected on April 12, 2026, alongside the Chamber of Deputies. The performance of RP in the Senate elections could influence their strategy and voter perception in the Chamber elections.
-
-4. **Voter Sentiment and Party Positioning**: The article emphasizes the importance of candidate selection for the Senate, which could reflect broader voter sentiment. If RP successfully positions itself as a strong alternative to other parties, it may enhance its chances in both chambers.
-
-5. **Checks and Balances**: The reforms have altered the balance of power, which could lead to increased scrutiny of party platforms and candidates. RP's ability to navigate
-
-Title: The Incumbency Curse: Weak Parties, Term Limits, and Unfulfilled ...
-Author: 
-URL: https://www.researchgate.net/publication/314027558_The_Incumbency_Curse_Weak_Parties_Term_Limits_and_Unfulfilled_Accountability
-Summary: The article "The Incumbency Curse: Weak Parties, Term Limits, and Unfulfilled Accountability" explores the dynamics of political accountability in Brazil, particularly focusing on how term limits and weak party affiliations impact electoral outcomes. The authors, Marko Klasnja and Rocío Titiunik, analyze Brazilian mayoral elections from 1996 to 2012 and find that incumbents often face significant electoral losses, suggesting that weak party structures and term limits create disincentives for politicians, leading to systematic losses for their parties.
-
-While the study primarily examines Brazil, it also references data from other Latin American countries, including Peru, indicating that similar patterns may exist across these democracies. This context could be relevant for predicting the performance of Renovación Popular (RP) in the upcoming 2026 Peruvian Chamber of Deputies election. If RP is perceived as weakly affiliated with its candidates or if incumbents face term limits, they may struggle to maintain or gain seats, mirroring the findings from Brazil.
-
-In summary, the electoral landscape for Renovación Popular could be influenced by factors such as party strength, candidate accountability, and the effects of incumbency, all of which are critical in understanding their potential success in the 2026 elections.
+Title: Intención de voto elecciones presidenciales Perú 2026: Encuesta CPI revela liderazgo de Rafael López Aliaga y 29% de indecisos
+Author: RedacciónRPP
+Published Date: 2026-02-20T00:00:00.000Z
+URL: https://rpp.pe/politica/elecciones/intencion-de-voto-elecciones-presidenciales-peru-2026-encuesta-cpi-revela-liderazgo-de-rafael-lopez-aliaga-y-29-de-indecisos-noticia-1676700
+Summary: The recent CPI survey indicates that Rafael López Aliaga, leader of Renovación Popular (RP), currently holds the highest presidential support at 13.9%, making him the leading candidate in the upcoming 2026 Peruvian elections. However, the overall electoral landscape is highly fragmented, with no candidate surpassing 14% support and a significant 29.1% of voters still undecided. The survey also highlights a divided electorate, with substantial votes for other candidates and a notable portion of voters opting for blank, null, or spoiled ballots. While López Aliaga's presidential support is prominent, these dynamics suggest that RP's success in winning the most seats in the Chamber of Deputies will depend on how these voter preferences translate into legislative support, considering the high level of electoral fragmentation and voter indecision.
 
 

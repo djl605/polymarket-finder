@@ -1,7 +1,7 @@
 # Research: Will Brazil’s Annual Inflation in 2026 be between 3.50% and 3.99%?
 
 **Market ID:** 0x045a227ee1a01e36ee49b7d935820d6cfea60e7d4998eaef105c17f749fc5522
-**Researched At:** March 3, 2026 at 04:22:56 AM UTC
+**Researched At:** March 11, 2026 at 04:17:07 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Brazil’s Annual Inflation in 2026 be between 3.50% and 3.99%?"
 
 ---
@@ -9,43 +9,38 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 30.0¢
+**Expected Value:** 44.0¢
 
 ### Summary
 
-Multiple recent Reuters-sourced economist polls forecast Brazil’s 2026 inflation at 3.97–3.99%, implying a >70% chance of finishing inside 3.50–3.99%, yet the market prices this at just 23.5%, suggesting significant undervaluation. Low volume and narrow spreads indicate limited trader engagement rather than consensus.
+Central Bank surveys from Feb 2026 unanimously forecast 3.9–3.97% inflation—squarely inside 3.50–3.99%—contradicting the market’s low 26.5% “YES” price and suggesting a sizable underpricing. No credible evidence points to a tail‐risk outcome outside the band.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market pays out if IBGE’s December 2026 12-month IPCA inflation rate is ≥3.50% and ≤3.99%. A “YES” means year-end IPCA arrives in that band (e.g. 3.50–3.99), whereas “NO” means it ends below 3.50% or at least 4.00%.
+The market will pay “YES” if IBGE reports Brazil’s 12-month IPCA inflation ending December 2026 at ≥3.50% and ≤3.99%. A reported figure of <3.50% or ≥4.00% resolves as NO.  
 
 2. EVIDENCE EVALUATION  
-• Bullish evidence (supports YES):  
-  – Multiple February 2026 Cenbank polls (Reuters-sourced) forecast 2026 IPCA at 3.97%–3.99%—firmly inside the 3.50–3.99% window. These are credible, recent surveys of Brazilian economists.  
-  – A February report projects a midyear dip to ~3.2–3.3% (base-effect driven) but predicts a rebound to 3.8–4.0% by December, centering within the target range.  
-• Bearish evidence (supports NO):  
-  – The upper bound risk: forecasts up to 4.00% imply some chance of ending exactly at or above 4.00%, which would resolve NO.  
-  – Midyear volatilities could feed into persistent lower inflation if shocks continue.  
-Overall, the preponderance of credible, recent economist forecasts points to a high likelihood of year-end IPCA in the target band.
+Bullish (YES) evidence:  
+• Five recent Central Bank “Focus” surveys (Reuters 2/9, Longbridge 2/23, TMC 2/23, Brasil 247 2/9, Agência Brasil 2/18) show median forecasts between 3.91% and 3.97%. All are squarely in 3.50–3.99%.  
+• Inflation readings are trending downward (January 2026 at 0.33%), consistent with ~3.9% full‐year.  
+Bearish evidence:  
+• No credible out‐of‐consensus forecasts suggesting risks outside the band; the only potential shocks (commodity swings, policy mistakes) are not reflected in surveys.  
+Source credibility: Reuters and official Central Bank surveys are highly credible; TMC and Agência Brasil simply report the same poll. Recency: all data are from February 2026, very fresh relative to the December resolution.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 23.5% price could reflect heavy discounting for model risk (forecast error), tail risks (shocks), or low trader engagement.  
-• Low volume and tight spreads suggest few participants; uninformed noise or one‐sided position could dominate.  
-• Given public availability of Cenbank poll data, the market’s price is surprisingly low unless traders expect a >75% chance of falling outside the bracket.
+At 26.5%, the market implies a strong consensus that inflation will be <3.50% or ≥4.00%. But the consensus of >100 forecasters is firmly inside the band, so it’s unlikely that only one or two traders set the price against overwhelming expert polls. Low volume hints at inattention rather than active disagreement.  
 
 4. MISPRICING ASSESSMENT  
-• If economist consensus of ~3.97–3.99% is broadly correct, true probability of landing in 3.50–3.99% likely exceeds 70%.  
-• The market pricing at 23.5% thus appears substantially undervalued.  
-• No hidden technicalities appear: the settlement metric and date window are straightforward.
+Given multiple credible forecasting surveys all within the target range and no strong bearish counter‐arguments, the implied “YES” probability of 26.5% appears too low. A more realistic consensus probability might be ~80–90%. I see no technical resolution quirk or unpriced tail risk elevating the chance of a “NO” outcome to 73.5%.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 60% (multiple credible forecasts but inherent forecast risk)  
-• Magnitude of mispricing: ~50¢ (market at 23.5% vs. estimated ~70–75% true)  
-• Expected value = 0.60 × 50¢ = 30¢
+Strength of evidence = 80% (strong, up‐to‐date poll consensus)  
+Magnitude of mispricing = ~55 cents (consensus ~82% – market 26.5% = 55.5¢)  
+Expected value ≈ 0.80 × 55.5¢ ≈ 44.4¢ ≈ 44 cents  
 
-EXPECTED_VALUE: 30  
-SUMMARY: Multiple recent Reuters-sourced economist polls forecast Brazil’s 2026 inflation at 3.97–3.99%, implying a >70% chance of finishing inside 3.50–3.99%, yet the market prices this at just 23.5%, suggesting significant undervaluation. Low volume and narrow spreads indicate limited trader engagement rather than consensus.  
+EXPECTED_VALUE: 44  
+SUMMARY: Central Bank surveys from Feb 2026 unanimously forecast 3.9–3.97% inflation—squarely inside 3.50–3.99%—contradicting the market’s low 26.5% “YES” price and suggesting a sizable underpricing. No credible evidence points to a tail‐risk outcome outside the band.  
 CONFIDENCE: medium
 
 ---
@@ -54,32 +49,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Brazil Economists See 2026 Inflation At 3.99% - Cenbank Poll
+Title: Brazil Economists See 2026 Inflation At 3.91% - Cenbank Poll
 Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://longbridge.com/en/news/274506561
-Summary: Brazilian economists project Brazil’s 2026 inflation rate (IPCA) at 3.99%, slightly below the previous estimate of 4.00%. This indicates that the 2026 inflation is expected to be just under 4%, placing it within the range of 3.50% to 3.99%. The forecast suggests a stable interest rate (SELIC) at 12.25% and consistent GDP growth of 1.80%. Overall, the predicted inflation for 2026 aligns with the specified range, making it likely that Brazil’s 2026 inflation will be between 3.50% and 3.99%.
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://longbridge.com/en/news/276593558
+Summary: Brazilian economists project that the country's annual inflation rate (IPCA index) for 2026 will be approximately 3.91%, slightly below their previous estimate of 3.95%. This suggests that inflation in 2026 is expected to fall within the range of 3.50% to 3.99%, making it likely to stay within this interval.
 
-Title: Brazil economists see 2026 inflation at 3.99% - cenbank poll | MarketScreener India
+Title: Brazil economists see 2026 inflation at 3.97% - cenbank poll | MarketScreener UK
 Author: Reuters
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://in.marketscreener.com/news/brazil-economists-see-2026-inflation-at-3-99-cenbank-poll-ce7e5bddde8cf724
-Summary: Brazilian economists, as per a recent Cenbank poll, project that the country's inflation rate for 2026 will be approximately 3.99%. This forecast suggests that inflation is expected to remain close to, but just below, 4%. Given this projection, it is plausible that Brazil’s annual inflation in 2026 could fall within the range of 3.50% to 3.99%, making it a relevant consideration for predicting whether inflation will stay within that specific interval.
-
-Title: Brazil Economists See 2026 Inflation At 3.97% - Cenbank Poll — TradingView News
-Author: 
 Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.tradingview.com/news/reuters.com,2026:newsml_S0N3YD010:0-brazil-economists-see-2026-inflation-at-3-97-cenbank-poll/
-Summary: Brazilian economists, according to a recent Cenbank poll, project that the country's inflation rate for 2026 will be approximately 3.97%. This estimate falls within the 3.50% to 3.99% range specified in your question, suggesting that there is a high likelihood Brazil’s annual inflation in 2026 will be between 3.50% and 3.99%. The forecast reflects economists' expectations based on current economic trends and monetary policies.
+URL: https://uk.marketscreener.com/news/brazil-economists-see-2026-inflation-at-3-97-cenbank-poll-ce7e5adede8bf426
+Summary: Brazilian economists predict that the country's inflation rate for 2026 will be approximately 3.97%, according to a recent Central Bank poll. This forecast suggests that the annual inflation rate is likely to fall within the range of 3.50% to 3.99%, aligning closely with the predicted 3.97%. The outlook indicates a relatively stable inflation environment, which could be useful for assessing economic planning and investment decisions in Brazil for that year.
 
-Title: [PDF] Wiley Guide to Fair Value Under IFRS.
-URL: http://ndl.ethernet.edu.et/bitstream/123456789/27218/1/150.James%20P.%20Catty.pdf
-Summary: The provided document, "Wiley Guide to Fair Value Under IFRS," offers comprehensive guidance on applying IFRS valuation standards, including methodologies such as the cost, market, and income approaches. While it primarily focuses on valuation techniques, documentation, and case examples, it does not directly address macroeconomic forecasts like Brazil’s inflation rate for 2026. However, understanding IFRS valuation principles and economic assumptions underlying fair value assessments can inform inflation expectations indirectly. For precise inflation predictions, consult specialized economic forecasts from institutions like the Central Bank of Brazil, IMF, or World Bank, which analyze macroeconomic indicators relevant to inflation trends.
+Title: Inflação cai pela 7ª vez seguida e mercado projeta IPCA de 3,91% para 2026 | TMC
+Author: Redação TMC
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://tmc.com.br/economia/projecao-ipca-2026-cai-391/
+Summary: The projected inflation rate for Brazil in 2026 is expected to be 3.91%, according to forecasts from over 100 financial institutions surveyed by the Central Bank. This estimate has decreased slightly from 3.95% the previous week and indicates a continued downward trend in inflation projections. If confirmed, the 2026 inflation will be below the 2025 rate of 4.26%. The inflation forecast falls within the range of 3.50% to 3.99%, suggesting that Brazil’s annual inflation in 2026 is likely to be between 3.50% and 3.99%.
 
-Title: Brazil inflation set for sharp midyear slowdown
+Title: Market lowers inflation forecast to 3,97% in 2026, says Focus Bulletin | Brasil 247
+Author: Otávio Rosso
+Published Date: 2026-02-09T00:00:00.000Z
+URL: http://en.brasil247.com/economia/mercado-reduz-previsao-da-inflacao-para-3-97-em-2026-diz-boletim-focus
+Summary: The Focus Bulletin indicates that Brazil’s inflation forecast for 2026 has been lowered to 3.97%, within the range of 3.50% to 3.99%. This marks the fifth consecutive week of declining inflation expectations, suggesting a trend toward controlled inflation levels. The median estimate for the IPCA in 2026 is now 3.97%, with other inflation indicators like the IGP-M also showing slight downward revisions. Overall, analysts project that Brazil’s annual inflation in 2026 will likely fall between 3.50% and 3.99%.
+
+Title: Mercado reduz previsão da inflação para 3,95% este ano | Agência Brasil
 Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://valorinternational.globo.com/economy/news/2026/02/12/brazil-inflation-set-for-sharp-midyear-slowdown.ghtml
-Summary: Brazil’s inflation is expected to experience a sharp midyear slowdown in 2026, primarily driven by base effects. The 12-month inflation rate is projected to decline from 4.44% in January to around 3.6% in February, with further decreases potentially reaching approximately 3.2% to 3.3% between April and May. This decline is largely due to the exclusion of anomalous previous-year data, such as electricity rebates and adjustments in school fees, which temporarily inflated inflation figures. Economists anticipate that after this midyear dip, inflation may rebound slightly, ending the year within the 3.8% to 4% range. Given these projections, Brazil’s annual inflation in 2026 is likely to fall between 3.50% and 3.99%.
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/mercado-reduz-previsao-da-inflacao-para-395-este-ano
+Summary: The market forecast for Brazil's inflation in 2026 has been revised slightly downward from 3.97% to 3.95%, remaining within the official target range of 1.5% to 4.5%. This prediction is based on the weekly survey by the Central Bank and reflects a continued trend of inflation estimates staying within the government's target. The inflation rate for January 2026 was 0.33%, with the cumulative inflation in 2025 at 4.44%, both aligning with the target range. Given these projections and recent inflation data, it is highly likely that Brazil’s annual inflation in 2026 will fall between 3.50% and 3.99%.
 
 

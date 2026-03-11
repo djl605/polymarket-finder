@@ -1,48 +1,50 @@
 # Research: Will Tom Begich advance from the 2026 Alaska Governor primary election?
 
 **Market ID:** 0xe96f816325f6c2a18640183af71d976e7a59fae32ed47720168874066b2f2ae8
-**Researched At:** March 1, 2026 at 06:10:01 AM UTC
+**Researched At:** March 11, 2026 at 04:19:25 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Tom Begich advance from the 2026 Alaska Governor primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.5¢
+**Confidence:** Low
+**Expected Value:** 0.5¢
 
 ### Summary
 
-No direct polling or fundraising data on Begich leaves some uncertainty, but simple vote-split math in a 16-candidate open primary supports a high probability he finishes top four. The 83.5% price appears broadly reasonable with only a small potential mispricing.
+Available research offers no candidate-specific data on Begich’s standing; the 71.5% price seems a rough estimate by a few traders rather than a consensus informed by polling or fundraising. No clear mispricing beyond a few cents is evident.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Tom Begich will finish among the top four vote-getters in the August 18, 2026 open primary for Alaska governor and thus advance to the general election. “Yes” requires Begich to rank 1st–4th in first-round vote totals (with instant runoff only used for eliminating the lowest until four remain). “No” if he ranks 5th or lower, or if no primary occurs.
+CONTEXT ANALYSIS  
+The market asks whether Tom Begich will finish in the top four vote-getters in the August 18, 2026, Alaska gubernatorial primary. A “Yes” requires him to finish 1st–4th; otherwise (or if no primary occurs) it resolves “No.”
 
-2. EVIDENCE EVALUATION  
-Bullish (supports ≈83.5%):  
-• Begich is a well-known former state senator with name recognition in a state where only three Democrats are running versus 13 Republicans. Since Democrats split ~30% of the vote among just three, Begich should capture a large slice of that bloc, easily clearing the ~6.25% floor needed to make the top four.  
-• The crowded Republican field disperses GOP votes across 13 candidates, making it unlikely more than three Republicans outpoll the top Democrat(s).  
-Bearish (argues price may be too high):  
-• No hard polling or fundraising data on Begich was provided—he wasn’t mentioned in the February fundraising report—so his actual support and war chest remain unclear. Another Democrat (Kreiss-Tomkins) or a strong Republican could surge.  
-• Ranked-choice dynamics could lead to unexpected eliminations if Begich fails to consolidate secondary preferences.  
-Assessment of evidence: sources are recent and credible but do not include any direct polling or fundraising figures for Begich, leaving a key information gap that traders may already price in.  
+EVIDENCE EVALUATION  
+– No research source provides any polling data, fundraising figures, endorsements, or grassroots indicators specific to Begich.  
+– Broader analyses note a crowded, unsettled field and that fundamentals are still in flux, but they offer no candidate-level probabilities.  
+– The absence of Tom Begich in fundraising and candidate breakdowns implies he’s not among the very top fundraisers, but campaign dollars aren’t perfectly correlated with vote share—especially in Alaska’s open primary.  
+– Credible sources are recent (Feb–Mar 2026) and reliable, but none address Begich directly.  
 
-3. MARKET EFFICIENCY ANALYSIS  
-An 83.5% price aligns with the straightforward math of vote splits (Democrats ≈30% among 16 candidates) and Begich’s name recognition. The low volume likely reflects that the outcome is viewed as uncontroversial by those who follow Alaska politics, not that mispricings have gone unclaimed.  
+MARKET EFFICIENCY ANALYSIS  
+– The 71.5% price likely reflects a guess by one or a few traders assuming Begich’s name recognition as a former state senator secures him a top-four slot in a large field.  
+– Low volume suggests limited engagement; the market’s tight spread may just mirror thin liquidity rather than broad consensus.  
+– With no definitive polling or candidate-specific signals yet, the probability is plausible but not anchored in observable data.  
 
-4. MISPRICING ASSESSMENT  
-There is no specific, credible evidence suggesting a >20¢ mispricing. The price reasonably reflects known vote-share dynamics and candidate field composition, despite the absence of direct polling data on Begich.  
+MISPRICING ASSESSMENT  
+– There is no specific, credible evidence to push the probability more than a few cents in either direction.  
+– The level of uncertainty about the primary outcome and Begich’s relative standing remains high.  
+– It’s most charitable to assume informed traders have factored in Begich’s name ID and constituency base but also the crowded field—yielding a mid-range win probability.  
+– No clear sign of a >10¢ mispricing emerges based on available information.  
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: 30%  
-Magnitude of possible mispricing: 5 cents  
-Expected value = 30% × 5 cents = 1.5 cents  
+EXPECTED VALUE CALCULATION  
+Strength of evidence that price is wrong: ~10%  
+Plausible magnitude of mispricing: ~5¢  
+Expected value ≈ 0.10 × 5¢ = 0.5¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: No direct polling or fundraising data on Begich leaves some uncertainty, but simple vote-split math in a 16-candidate open primary supports a high probability he finishes top four. The 83.5% price appears broadly reasonable with only a small potential mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 0.5  
+SUMMARY: Available research offers no candidate-specific data on Begich’s standing; the 71.5% price seems a rough estimate by a few traders rather than a consensus informed by polling or fundraising. No clear mispricing beyond a few cents is evident.  
+CONFIDENCE: low
 
 ---
 
@@ -50,39 +52,36 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Alaska Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/AK.html
+Summary: The 2026 Alaska primary election results are not yet available, including for the gubernatorial race. Therefore, it is currently impossible to determine whether Tom Begich will advance from the primary. For the most accurate prediction, future updates on primary results and candidate standings will be necessary.
+
+Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
+Author: Sam Massey
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://gambitforecaster.com/2026/02/28/march-report/
+Summary: The March 2026 Gambit Forecaster report primarily analyzes the broader landscape of U.S. Senate and gubernatorial races, emphasizing that most races remain stable within partisan environments, with only a few contests showing increased volatility. While the report highlights that the 2026 midterm cycle is still in early calibration, it notes that the model now recognizes emerging uncertainties, especially in Senate races, where Democratic opportunities are becoming more apparent through narrow but consistent pathways. 
+
+Regarding Alaska's gubernatorial race, the report indicates that candidate fields are still settling, and fundamental factors like campaign spending and polling are not yet definitive. The model's recent adjustments aim to improve accuracy by accounting for national and regional influences, but specific predictions about individual candidates, such as Tom Begich's chances in the Alaska primary, are not provided. Overall, the forecast suggests that early indications are still fluid, and the outcome for Begich will depend on how the race develops as more polling and campaign dynamics unfold.
+
+Title: JKT hopes to bring the bipartisan coalition mindset to the governor’s office - The Alaska Current
+Author: Matt Acuña Buxton
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://thealaskacurrent.com/2026/02/04/jkt-hopes-to-bring-the-bipartisan-coalition-mindset-to-the-governors-office/
+Summary: Jonathan Kreiss-Tomkins (JKT), a Sitka Democrat and former Alaska legislator known for his bipartisan approach, has entered the 2026 governor’s race, emphasizing the importance of cross-party cooperation. His campaign focuses on uniting political and geographic divides to improve Alaska’s governance. While the summary highlights JKT’s bipartisan efforts and leadership style, it does not provide specific information about Tom Begich or details on the primary election's candidates or outcomes. Therefore, predicting whether Tom Begich will advance from the primary based solely on this article is not possible.
+
 Title: 10 candidates report six-figure hauls from early fundraising in Alaska governor's race
 Author: Eric Stone, Alaska Public Media
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.ktoo.org/2026/02/19/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race/
-Summary: The article discusses early fundraising efforts in the 2026 Alaska governor's race, highlighting that ten candidates collectively raised over $4.3 million. Key candidates include Matt Heilala, who self-funded a significant portion of his campaign, and Treg Taylor, who also relies on self-funding but has attracted considerable external donations. Adam Crum follows with a mix of self-funding and contributions from family.
+Summary: The article reports that in the early fundraising phase of the 2026 Alaska governor's race, ten candidates have each raised over six figures, totaling more than $4.3 million. Notably, Anchorage podiatrist Matt Heilala has self-funded over 94% of his campaign, indicating significant personal financial backing, while former Attorney General Treg Taylor has raised substantial outside funds, making him a leading fundraiser. Other candidates, such as Adam Crum, have also contributed heavily, often supplemented by family donations. The overall fundraising landscape suggests a competitive field with candidates leveraging both personal funds and external contributions. However, Tom Begich's specific fundraising status or support is not detailed in this report, so predicting his advancement from the primary based solely on this information is limited.
 
-While Tom Begich is not mentioned in the provided text, understanding the fundraising landscape is crucial for predicting his chances in the primary. Candidates with strong fundraising, particularly from diverse sources, often have better visibility and support. Therefore, analyzing Begich's fundraising performance, donor base, and campaign strategy relative to these frontrunners could provide insights into his potential to advance in the primary election.
-
-Title: Election 2026: Shelley Hughes hoping legislative achievements elevate her among a dozen Republicans seeking to be governor
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.juneauindependent.com/post/election-2026-shelley-hughes-hoping-legislative-achievements-elevate-her-among-a-dozen-republicans
-Summary: Shelley Hughes, a former state Senate majority leader, is one of the many Republicans vying for the Alaska governorship in the 2026 election. She is focusing on her legislative achievements and aims to distinguish herself from other candidates, including the incumbent, Governor Mike Dunleavy. Hughes has criticized candidates who promise "statutory" Permanent Fund Dividends (PFDs), suggesting they lack a realistic understanding of the state's fiscal situation. Her campaign emphasizes the need for better collaboration between the executive and legislative branches.
-
-While the article primarily discusses Hughes' campaign, understanding her position and the dynamics within the Republican primary could provide insights into Tom Begich's chances. If Hughes gains traction and support, it may impact the overall Republican field, including Begich's potential to advance. Additionally, Hughes' focus on local engagement and criticism of the current administration may resonate with voters seeking change, which could influence the primary outcome.
-
-Title: Alaska gubernatorial and lieutenant gubernatorial election, 2026
-URL: https://ballotpedia.org/Alaska_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The 2026 Alaska gubernatorial election will be a significant event, with the primary election likely to shape the candidates for the general election. Tom Begich, a notable figure in Alaska politics, may be a contender in the primary. To assess his chances of advancing, consider factors such as his political background, previous election performance, current polling data, and the political landscape leading up to the election. Additionally, the dynamics of the primary race, including potential challengers and voter sentiment on key issues, will play a crucial role. For the most accurate predictions, keep an eye on developments in the lead-up to the primary, including endorsements, campaign strategies, and public opinion trends.
-
-Title: [PDF] 2026 Gubernatorial Race Overview
-Published Date: 2025-09-12T00:00:00.000Z
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The document primarily discusses the 2026 gubernatorial races in New Jersey and Virginia, focusing on candidates Mikie Sherrill and Jack Ciattarelli in New Jersey, and Abigail Spanberger in Virginia. It does not provide specific information about Tom Begich or the Alaska gubernatorial primary election. 
-
-To predict whether Tom Begich will advance from the 2026 Alaska Governor primary election, one would need to consider factors such as his political background, current polling data, fundraising efforts, endorsements, and the competitive landscape of the race in Alaska. Unfortunately, this document does not contain relevant details about Begich or the Alaska race, so further research on his campaign status and the dynamics of the Alaska gubernatorial primary would be necessary for a more informed prediction.
-
-Title: Alaska’s race for governor picks up 16th candidate, a former state legislator from Sitka
-Author: James Brooks
-Published Date: 2026-02-04T00:00:00.000Z
-URL: http://alaskasnewssource.com/2026/02/04/alaskas-race-governor-picks-up-16th-candidate-former-state-legislator-sitka/
-Summary: Jonathan Kreiss-Tomkins, a former state legislator from Sitka, has entered the 2026 Alaska gubernatorial race, becoming the 16th candidate and the third Democrat alongside Tom Begich. With incumbent Gov. Mike Dunleavy term-limited, the primary will allow the top four vote-getters to advance to the general election, utilizing ranked-choice voting. Kreiss-Tomkins emphasizes his commitment to addressing Alaska's significant challenges through collaboration. 
-
-As for Tom Begich, his chances of advancing in the primary will depend on various factors, including his campaign strategy, voter outreach, and how he positions himself against other candidates, particularly in a crowded field that includes both Democrats and Republicans. The dynamics of voter preferences and the effectiveness of ranked-choice voting will also play crucial roles in determining his advancement.
+Title: Candidates pour their own money into Alaska governor’s race - The Alaska Journal of Commerce
+Author: Iris Samuels
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.adn.com/alaska-journal/news/2026/02/26/candidates-pour-their-own-money-into-alaska-governors-race/
+Summary: The article details the fundraising landscape of Alaska’s 2026 gubernatorial race, highlighting that 17 candidates have entered the race, with significant personal financial contributions from several, notably Republican candidates like Matt Heilala and Treg Taylor. The total campaign funds exceed $4.3 million, with nearly half contributed by candidates themselves, reflecting the influence of large donations following the removal of contribution limits in 2021. While the article provides insights into the candidates’ financial backing, it does not mention Tom Begich or his campaign, making it insufficient to predict whether he will advance from the primary.
 
 

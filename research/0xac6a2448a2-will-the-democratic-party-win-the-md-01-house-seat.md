@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the MD-01 House seat?
 
 **Market ID:** 0xac6a2448a21343261722348565ddfe6432a534ac76e2011d101346f1f26ce617
-**Researched At:** March 1, 2026 at 06:02:55 AM UTC
+**Researched At:** March 11, 2026 at 04:17:22 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the MD-01 House seat?"
 
 ---
@@ -9,43 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 0.3¢
 
 ### Summary
 
-Given redistricting details that likely bolster the Republican base, the lack of contrary polling, and historical GOP performance in MD-01, the 18.5% price appears reasonable rather than clearly mispriced. Uncertainty around final maps and national environment do not provide a strong case for a large adjustment.
+There is no district‐specific polling or candidate information to suggest Democrats have anywhere near a 50% chance in MD-01; a ~19.5% price aligns with historical GOP lean. No credible evidence of sizable mispricing emerges.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will a Democratic‐affiliated candidate win Maryland’s 1st Congressional District seat in the Nov 4, 2026 midterms?” YES resolves if the elected winner is a Democrat on the ballot or clearly caucuses with Democrats; NO if a Republican or other wins.
+The market asks whether the Democratic Party will win Maryland’s 01st congressional district in the November 4, 2026 general election. YES if the winning candidate on election night (or in official FEC results) is listed or affiliates as a Democrat (or caucuses as one if unaffiliated). NO if a Republican or any non-Democrat wins.
 
 2. EVIDENCE EVALUATION  
-Bullish signals (raises Dem win probability):  
-• National trend: midcycle redistricting in Maryland could be drawn to create an additional Democratic seat—even if not MD-01, pressure from House Democrats suggests the legislature may be willing to broker maps that marginally improve Dems in neighboring districts.  
-• Historical midterm bump: the out-of‐power party often gains seats, and Dems needed only three to flip the House in late 2025.  
-
-Bearish signals (lowers Dem win probability):  
-• Substantive redistricting analysis (Cohen, 2026-02-02) indicates the proposed map would actually consolidate Republican areas in MD-01 (adding Harford/Cecil Counties) and remove Democratic precincts from MD-03, which would reinforce the GOP stronghold.  
-• Jeffries–Ferguson standoff (Blaze, 2026-02-17) shows redistricting is not assured; the bill is stalled and could fail or produce minimal change.  
-• Local voter sentiment (CNN, 2026-02-04) notes low Dem popularity at present, which historically depresses turnout and hurts the president’s party in midterms.  
-• No public polling or candidate quality analysis has surfaced; the incumbent, Rep. Andy Harris (R), has won comfortably in past cycles.  
-
-Source credibility is mixed: the Substack map analysis is detailed, CNN and Crystal Ball are high‐credibility, whereas Blaze Media is partisan. All data is very recent.
+- No district-specific polling or primary results for MD-01 are cited; NPR confirms no primary outcomes yet.  
+- MD-01 has historically been held by Republican Andy Harris (Eastern Shore/rural electorate), suggesting a GOP lean.  
+- NYT national congressional polls show Dems up nationally by single digits, but local redistricting effects and candidate quality aren’t detailed.  
+- No articles in the research focus on MD-01’s candidates or on any redistricting shifts that might materially improve Dem chances.  
+Bullish for Democrats: only the generic national trend of a modest Democratic advantage.  
+Bearish for Democrats: longstanding GOP incumbent advantage, rural composition, no strong evidence of a competitive Democratic challenger.  
+All sources are recent (Feb–Mar 2026) and from credible outlets, but none provide direct evidence that MD-01 is unexpectedly competitive.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A sub‐20% probability is consistent with a long‐standing Republican incumbent in a district rated “Safe/Lean Republican” by most forecasters. The narrow bid‐ask spread with low volume likely reflects a single market maker offering balanced quotes rather than extensive consensus trading. The low volume may simply reflect lack of granular polling or candidate announcements in MD-01, rather than a glaring informational vacuum.
+A 19.5% probability can be justified as reflecting a safe GOP seat with only a low chance of flip, consistent with historical partisanship. Low volume likely stems from lack of new, actionable local information; informed traders have little to trade on. The tight spread implies one or a few traders are maintaining a reasonable mid-line price, not an extreme outlier view.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, high‐confidence evidence (e.g., leaked internal polling or candidate dropouts) that the market has overlooked. The uncertainty around whether redistricting will meaningfully benefit the Democrats, combined with historical GOP strength and weak national Dem popularity, makes ~18.5% plausible. At most, one might argue for a few‐cent adjustment if and when maps pass, but that information isn’t yet definitive.
+There is no specific, credible evidence pointing to a materially higher Dem win probability than ~20%. Conversely, nothing suggests it should be much lower. The market’s low volume simply reflects limited new local data rather than a glaring oversight. Without direct MD-01 polling or indications of an upset challenger, we see no clear sign of mispricing at the ~20¢ level.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~20% (no direct polling or candidate‐level surprises).  
-Magnitude of mispricing if any: ~5¢.  
-Expected value ≈ 0.20 × 5 ¢ = 1 ¢.
+Strength of evidence that price is incorrect: 5% (virtually no district-specific evidence).  
+Magnitude of potential mispricing: 5 cents (assuming a small margin if one existed).  
+Expected value = 0.05 × 5 cents = 0.25 cents
 
-EXPECTED_VALUE: 1  
-SUMMARY: Given redistricting details that likely bolster the Republican base, the lack of contrary polling, and historical GOP performance in MD-01, the 18.5% price appears reasonable rather than clearly mispriced. Uncertainty around final maps and national environment do not provide a strong case for a large adjustment.  
+EXPECTED_VALUE: 0.25  
+SUMMARY: There is no district‐specific polling or candidate information to suggest Democrats have anywhere near a 50% chance in MD-01; a ~19.5% price aligns with historical GOP lean. No credible evidence of sizable mispricing emerges.  
 CONFIDENCE: medium
 
 ---
@@ -54,59 +50,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: As Maryland weighs redistricting, Rep. Sarah Elfreth could see biggest impact among Democrats
-Author: Richard Cohen
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://almanacofamericanpolitics.substack.com/p/as-maryland-weighs-redistricting
-Summary: The proposed redistricting in Maryland could significantly impact the Democratic Party's chances in the MD-01 House seat, currently held by Republican Rep. Andy Harris. The redistricting plan aims to create a new Democratic seat while altering existing districts, particularly the 3rd District, represented by Democrat Sarah Elfreth. The new map would remove Democratic-leaning areas from the 3rd District, replacing them with Republican-leaning regions in Harford and Cecil Counties, where Trump previously garnered over 55% of the vote.
+Title: The Race for Congress: Latest 2026 Polls - The New York Times
+URL: https://www.nytimes.com/interactive/polls/congressional-vote-2026.html
+Summary: Recent polling indicates that Democrats currently hold a modest lead in the national congressional ballot, with most surveys showing them ahead of Republicans by single-digit margins. However, the outcome for specific districts like MD-01 depends heavily on local factors, redistricting impacts, and candidate dynamics. While the national trend suggests a potential advantage for Democrats in the 2026 midterms, predicting the result for MD-01 specifically requires considering state-specific redistricting changes and recent local polling data, which are not detailed in this summary.
 
-This shift could weaken Democratic performance in the 3rd District and potentially bolster the Republican stronghold in MD-01, as it merges more Democratic areas with traditionally Republican regions. The outcome of the redistricting, scheduled for a vote on February 2, 2026, will be crucial in determining the competitiveness of the MD-01 seat in future elections. If the redistricting successfully disrupts the current Republican base while consolidating Democratic support elsewhere, it may enhance the Democratic Party's chances of winning the MD-01 seat.
+Title: Maryland Primary Election Results 2026 : NPR
+Author: 
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://apps.npr.org/primary-election-results-2026/states/MD.html
+Summary: The Maryland Primary Election Results for 2026 are currently unavailable, including results for the U.S. House races such as MD-01. As no data has been reported yet, it is too early to predict whether the Democratic Party will win the MD-01 House seat. Voter registration deadlines and upcoming primary dates suggest that results will be announced after the June 23 primaries. Monitoring these results and candidate developments closer to the election will be essential for making an informed prediction.
 
-Title: Hakeem Jeffries pressures Maryland Democrat over one Republican-held congressional seat | Blaze Media
-Author: Candace Hathaway Candace Hathaway is a staff writer for Blaze News.  @candace_phx →
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.theblaze.com/news/hakeem-jeffries-pressures-maryland-democrat-over-one-republican-held-congressional-seat
-Summary: House Minority Leader Hakeem Jeffries is actively pressuring Maryland Senate President Bill Ferguson to advance a redistricting bill that aims to make the state's only Republican-held congressional seat, MD-01, more competitive for Democrats. The bill, which passed the House with a strong majority, is currently stalled in the Senate due to Ferguson's concerns about its risks. Jeffries has indicated that he may need to have a direct conversation with Ferguson if the bill continues to face obstacles. The outcome of this redistricting effort could significantly influence the Democratic Party's chances of winning the MD-01 House seat in future elections.
+Title: Anne Arundel’s Open Seat: A Crowded Democratic Primary and a Clear Republican Contrast in 2026 - Maryland Bay News
+Author: Staff Writer
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://mdbaynews.com/2026/03/02/anne-arundels-open-seat-a-crowded-democratic-primary-and-a-clear-republican-contrast-in-2026/
+Summary: The article focuses on the 2026 Anne Arundel County executive race, highlighting a competitive Democratic primary with four candidates—Pete Smith, Allison Pickard, Kyle Nembhard, and James Kitchin—and a single Republican candidate, Dave Crawford. The primary features a contest between progressive continuity represented by Kitchin and more pragmatic, fiscally focused approaches from Pickard and Smith. While the race is primarily local, the Democratic primary's outcome could influence broader political dynamics in the county. However, the article does not provide specific information about the Maryland-01 House seat or its electoral prospects. Therefore, predicting whether the Democratic Party will win the MD-01 House seat based solely on this article is limited, as it centers on local county executive races rather than congressional races.
 
-Title: Why Democrats might struggle to achieve another midterm 'blue ...
-Author: Arit John
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.cnn.com/2026/02/04/politics/cnn-house-roundup
-Summary: The article discusses the challenges Democrats may face in the upcoming midterm elections, particularly in the context of the U.S. House of Representatives. While Democrats have historically gained seats in midterm elections, the current political landscape is complicated by factors such as mid-cycle redistricting and heightened polarization. 
+Title: Terry Jackson is a first-time Democratic congressional candidate
+Author: Barry
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://themarylandwire.substack.com/p/terry-jackson-is-a-first-time-democratic
+Summary: Terry Jackson is a first-time Democratic candidate running for Maryland’s 5th District House seat, emphasizing a reformist, anti-establishment platform focused on restoring trust in government, supporting working families, veterans, and seniors, and promoting political ethics reforms. While his campaign is centered on grassroots engagement and populist policies, the summary does not provide specific information about the MD-01 district or the likelihood of the Democratic Party winning that particular seat. Therefore, predicting the outcome for the MD-01 House seat based solely on Jackson’s profile is limited, as his campaign and platform are specific to the 5th District.
 
-Key points relevant to predicting the outcome of the MD-01 House seat include:
-
-1. **Political Climate**: Democrats are entering the elections with built-in advantages, but their popularity is at a low compared to previous years. This could impact voter turnout and preferences in MD-01.
-
-2. **Voter Sentiment**: The article notes that public opinion on issues like the economy and immigration could shift before the elections. Democrats may find opportunities to capitalize on dissatisfaction with the current administration's handling of these issues, which could influence the MD-01 race.
-
-3. **Redistricting Effects**: The ongoing redistricting process may alter the demographics and political leanings of MD-01, making it crucial to analyze how these changes could affect voter behavior.
-
-4. **Historical Trends**: The historical trend shows that the party out of power typically gains seats in midterm elections, but the specific dynamics in MD-01 will depend on local factors and candidate appeal.
-
-Overall, while Democrats have reasons to be optimistic, the combination of local issues, voter sentiment, and redistricting will play a significant role in determining the outcome of the MD-01 House seat.
-
-Title: House Rating Changes: Six Moves Toward Democrats ...
-Author: Kyle Kondik
-Published Date: 2025-11-19T00:00:00.000Z
-URL: https://centerforpolitics.org/crystalball/house-rating-changes-six-moves-toward-democrats-although-topline-remains-close/
-Summary: The article discusses recent changes in House ratings, indicating that Democrats are currently favored to gain the House majority in the upcoming elections. While the focus is on various districts, it highlights that redistricting has slightly shifted the median House seat toward Democrats, which could impact races like MD-01.
-
-Key points relevant to predicting the outcome of the MD-01 House seat include:
-
-1. **Redistricting Impact**: The article notes that six states have undergone redistricting, which has altered the political landscape. This could affect the competitiveness of MD-01, depending on how district lines have been drawn.
-
-2. **Democratic Favorability**: Historically, the president's party tends to lose seats in midterms, but current trends suggest Democrats have a favorable chance to flip seats, needing only three more to gain the majority.
-
-3. **Potential Risks**: A significant factor that could change the dynamics is a Supreme Court ruling on the Voting Rights Act, which could affect majority-minority districts. However, such a ruling is expected to come too late to influence the upcoming elections significantly.
-
-4. **Local Context**: The article does not specifically mention MD-01, but it emphasizes that Democrats are gaining ground in various districts, which may bode well for their chances in Maryland.
-
-In summary, while the article does not provide direct information on MD-01, the overall trend of Democratic favorability and the impact of redistricting could suggest a competitive environment for the Democratic Party in that district.
-
-Title: Democrats see a path to win the U.S. Senate but it's narrow
-Published Date: 2026-01-14T00:00:00.000Z
-URL: https://www.ctvnews.ca/world/article/democrats-believe-they-can-take-the-us-senate-these-are-the-seats-they-would-need-to-win/
-Summary: The article discusses the Democratic Party's potential path to winning the U.S. Senate, highlighting the competitive landscape of various Senate races. While it does not directly address the MD-01 House seat, understanding the broader context of Democratic strategies and challenges can provide insights into local races like MD-01. Key factors influencing Democratic success include voter turnout, candidate appeal, and the political climate leading up to the elections. For MD-01, local issues, candidate profiles, and the effectiveness of campaign strategies will be crucial in determining the outcome.
+Title: From Retirement to Rematch: Maryland House Battles Set to Break Records - The Southern Maryland Chronicle
+Author: David M. Higgins II, Publisher/Editor
+Published Date: 2026-02-16T00:00:00.000Z
+URL: https://southernmarylandchronicle.com/2026/02/16/from-retirement-to-rematch-maryland-house-battles-set-to-break-records/
+Summary: The article discusses upcoming Maryland House races in 2026, focusing on high-profile primaries driven by retirements and challengers. In the 5th District, a newly open seat due to Rep. Steny Hoyer’s retirement has attracted over 20 Democratic candidates, with significant fundraising efforts and a competitive primary expected. In the 6th District, incumbent Rep. McClain Delaney faces a costly challenge from David Trone, who has invested heavily in his campaign. These races highlight shifting political dynamics and intense competition within the Democratic Party in Maryland. While the article does not specifically address the MD-01 seat, the overall trend indicates active, well-funded Democratic primaries and potential for competitive general elections in Maryland’s congressional districts.
 
 

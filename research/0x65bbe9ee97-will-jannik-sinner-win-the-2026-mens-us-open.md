@@ -1,7 +1,7 @@
 # Research: Will Jannik Sinner win the 2026 Men's US Open?
 
 **Market ID:** 0x65bbe9ee978b2e7f99596407bd92599db3600cbd19e0ef6cba303553c5cd3b84
-**Researched At:** March 1, 2026 at 06:10:58 AM UTC
+**Researched At:** March 11, 2026 at 04:20:03 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jannik Sinner win the 2026 Men's US Open?"
 
 ---
@@ -9,46 +9,42 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 8.4¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Bookmakers list Sinner at roughly even‐money (≈50% chance) to win the 2026 US Open, substantially above the market’s 36% price. With no strong countervailing evidence and low volume hinting at under‐engagement, the market appears undervalued.
+Given only indirect early-2026 form data and 2025 US Open odds, there’s no clear sign that a 33.5% probability is materially incorrect. Competition and seasonal uncertainty justify the market price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market pays out if Jannik Sinner wins the 2026 U.S. Open men’s singles title (YES). It pays out NO if he becomes ineligible (e.g., withdraws, is suspended, or is eliminated), and “Other” only in the case of tournament cancellation or no winner by late 2026.
+This market asks whether Jannik Sinner will win the Men’s Singles title at the 2026 U.S. Open, resolving YES only if he is the champion. NO resolves if he is eliminated or otherwise cannot win (e.g., withdrawal prior to victory).
 
 2. EVIDENCE EVALUATION  
-Bearish (suggests price too low):  
-- Bookmakers at justbookies.com list Sinner at 1/1 for the 2026 US Open. 1/1 implies a 50% probability, well above the market’s 36%.  
-- theScore’s February 2026 preview places Sinner as the favorite at +105 (~49% implied) for 2025, and notes his consistency and rivalry with Alcaraz; these factors carry forward into 2026.  
+Bullish points:  
+• 2025 US Open odds (Sinner +105) implied he was a top contender, and he has maintained strong form in early 2026 (Indian Wells favorited alongside Alcaraz).  
+• Recent head-to-head success and hard-court prowess suggest he can beat top rivals at majors.  
 
-Bullish (suggests price about right):  
-- ESPN cautions that injuries, draw volatility, and fatigue can swing Grand Slam outcomes. No concrete downgrades to Sinner’s form are cited, but unpredictability lowers any single‐player win probability.  
-- Djokovic and Alcaraz remain serious threats; in a 128‐player draw, seven consecutive match wins are required—shock results do occur.  
+Bearish points:  
+• Competition remains fierce (Alcaraz, Djokovic, rising American talents).  
+• Early-season inconsistency at Indian Wells (no finals yet in 2026) indicates potential volatility in form.  
+• None of the research directly quantifies Sinner’s win probability at the 2026 US Open; all insights are indirect and relate to early-season tournaments or the prior year’s US Open.  
 
-Source Credibility & Recency  
-- justbookies.com (2026-01-31) is a live aggregator of betting odds, credible for implied probabilities.  
-- theScore (2026-02-01), ESPN (2026-02-01) and SI (2025-12-31) offer expert analysis but no hard odds beyond bookmaker lines.
+Credibility and recency: All sources are from February–March 2026, reputable tennis sites. But none provide a model for Sinner’s outright US Open win probability.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 36% price could reflect an ACKNOWLEDGMENT of tennis volatility and Sinner’s not‐yet‐proven streak on hard courts in 2026.  
-- Low $956 volume and a tight spread suggest one or a few players are setting the price; informed bettors may be focused elsewhere or awaiting results from warm-up events.  
+A 33.5% win probability equates to roughly even odds among the small set of top contenders (Sinner, Alcaraz, Djokovic, plus dark horses). Low volume may reflect general acceptance of a roughly one-in-three chance rather than oversight. It’s plausible that informed bettors view Sinner as one of three roughly equal favorites.
 
 4. MISPRICING ASSESSMENT  
-- The median bookmaker odds (~50%) exceed the market’s 36%, indicating potential underpricing by ~14 percentage points.  
-- No specific bearish factor (new injury, form slump) appears missing from the research that would justify pulling implied win chance down to 36%.  
-- The resolution criteria are straightforward; there’s no technicality that could invert the outcome.  
+No specific evidence suggests the market is off by more than a few cents. There’s no detailed projection for Sinner’s 2026 US Open odds that diverges sharply from 33.5%. The long time horizon and competition level justify substantial uncertainty. Thus, there is no credible indication of a large (>20¢) mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of Evidence: ~60% (reasonable confidence that bookmakers’ implied odds at ~50% are not fully baked into this market)  
-- Magnitude of Mispricing: ~14 cents  
-- Expected Value = 0.60 × 14¢ = 8.4¢
+Strength of evidence: 20% (indirect, no direct odds model)  
+Magnitude of mispricing: 5¢ (at most)  
+Expected value = 20% × 5¢ = 1¢
 
-EXPECTED_VALUE: 8.4  
-SUMMARY: Bookmakers list Sinner at roughly even‐money (≈50% chance) to win the 2026 US Open, substantially above the market’s 36% price. With no strong countervailing evidence and low volume hinting at under‐engagement, the market appears undervalued.  
+EXPECTED_VALUE: 1  
+SUMMARY: Given only indirect early-2026 form data and 2025 US Open odds, there’s no clear sign that a 33.5% probability is materially incorrect. Competition and seasonal uncertainty justify the market price.  
 CONFIDENCE: medium
 
 ---
@@ -58,60 +54,31 @@ CONFIDENCE: medium
 *The following context was generated by Exa AI and provided to the analysis model:*
 
 Title: US Open betting preview: What are the odds of another Sinner-Alcaraz final? | theScore.com
+Author: Eric Patterson
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.thescore.com/news/3329343/related
+Summary: The article provides current betting odds and insights into the 2025 US Open, highlighting Jannik Sinner as the favorite to win the men's tournament with +105 odds, closely followed by Carlos Alcaraz (+180). Both players have a strong track record this year, with notable head-to-head matchups in recent Grand Slam finals and ATP tournaments, suggesting a high likelihood of meeting again in the final. The odds imply an approximately 82% chance that either Sinner or Alcaraz will win the 2025 US Open. However, predicting Sinner's victory in the 2026 US Open is uncertain, as it depends on numerous factors including player development, form, injuries, and competition in the intervening year. The current data indicates Sinner's strong position in 2025 but does not provide specific insights into his prospects for 2026.
+
+Title: Indian Wells Predictions: Carlos Alcaraz vs Jannik Sinner, Novak Djokovic stars
+Author: Ewan West
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.tennis365.com/tennis-features/atp-indian-wells-predictions-carlos-alcaraz-vs-jannik-sinner-novak-djokovic-stars-on-return-to-action
+Summary: The article provides predictions for the 2026 Indian Wells men's singles tournament, highlighting key players and potential matchups. Jannik Sinner, seeded second, is aiming to reach his first final of 2026 after recent early exits in previous tournaments. His potential path includes matches against Tomas Martin Etcheverry and possibly Karen Khachanov or Tommy Paul in the later rounds. While Sinner has shown strong form, with notable performances in recent Grand Slams, the summary does not directly address his prospects for winning the US Open. However, his current momentum and performance at Indian Wells suggest he could be a contender, though success at the US Open would depend on his form, fitness, and competition at that specific event.
+
+Title: Indian Wells Open 2026: Alcaraz & Sinner Favorites — Predictions & Odds | RotoWire
 Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.thescore.com/atp/news/3329343/us-open-betting-preview-what-are-the-odds-of-another-sinner-alcaraz-final
-Summary: Jannik Sinner is currently the betting favorite for the men's tournament at the 2025 US Open, with odds of +105, indicating strong confidence in his performance. He has had a remarkable year, highlighted by a competitive rivalry with Carlos Alcaraz, who has odds of +180. Sinner and Alcaraz have faced each other in two Grand Slam finals, each winning one, and their potential rematch at the US Open is highly anticipated, with a 50% implied probability of occurring.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.rotowire.com/tennis/article/tennis-betting-2026-indian-wells-open-mens-betting-picks-odds-predictions-and-tennis-best-bets-106831
+Summary: The article discusses the 2026 Indian Wells Open, highlighting Jannik Sinner as one of the tournament favorites alongside Carlos Alcaraz. Both players are top contenders, with odds favoring them to win the event. While the focus is on Indian Wells, Sinner's strong performance and status as a favorite suggest he is in good form and could be a serious contender for major titles like the US Open later in the year. However, the article does not provide specific predictions about Sinner's chances at the US Open, only emphasizing his current prominence and potential in the 2026 season.
 
-Sinner's main competition includes 24-time Grand Slam champion Novak Djokovic, who has odds of +1200 and is expected to be a significant challenge, particularly if they meet in the later rounds. Sinner's consistent performance throughout the year and his current form make him a strong candidate for winning the 2026 Men's US Open, especially given the odds suggesting an 82% probability that either he or Alcaraz will win the tournament.
+Title: ATP Indian Wells 2026: Odds & Predictions
+Author: Samuel Brown
+URL: https://www.thesportscol.com/2026/03/atp-indian-wells-2026-odds-predictions/
+Summary: The article discusses the 2026 ATP Indian Wells tournament, highlighting top contenders like Carlos Alcaraz and Jannik Sinner. Alcaraz, currently world No. 1 and recent Australian Open winner, has a strong record at Indian Wells, having won in 2023 and 2024. Sinner, who has yet to reach a final at Indian Wells, is considered a potential breakthrough candidate, especially if he regains his top form after a slow start to the season. While Sinner is not specifically linked to the US Open in this article, his recent performances and potential for improvement suggest he could be a player to watch in major tournaments like the US Open. However, no direct prediction about his chances at the 2026 US Open is provided.
 
-Overall, Sinner's status as the favorite, combined with his recent successes and the competitive landscape, positions him well for a potential victory in the upcoming tournament.
-
-Title: Way-too-early Grand Slam predictions for the rest of 2026 - ESPN
-Author: D'Arcy Maine
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.espn.com/tennis/story/_/id/47789264/grand-slam-predictions-french-open-wimbledon-us-open
-Summary: The ESPN article provides early predictions for the remaining Grand Slam tournaments of 2026, including insights that could be relevant to Jannik Sinner's chances at the Men's US Open. Key factors to consider include Sinner's current form, his performance in previous tournaments, and potential matchups against top competitors like Carlos Alcaraz and Novak Djokovic. The article discusses the evolving dynamics of the ATP rankings and highlights Sinner's strengths, such as his powerful baseline game and mental resilience, which could play a crucial role in his success at the US Open. Additionally, the predictions take into account the impact of injuries and player fatigue, which could influence Sinner's performance. Overall, while the article does not definitively predict Sinner's victory, it outlines the competitive landscape and factors that could affect his chances in the tournament.
-
-Title: Men's U.S. Open Tennis Odds 2026 | Compare Men's US Open Betting
-Author: 
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://www.justbookies.com/mens-us-open-tennis-odds/
-Summary: To assess Jannik Sinner's chances of winning the 2026 Men's U.S. Open, consider the following key points from the current betting odds:
-
-1. **Current Odds**: Jannik Sinner is listed as the favorite to win the 2026 Men's U.S. Open with odds of **1/1**. This indicates strong confidence from bookmakers in his potential to secure the title.
-
-2. **Competitors**: Notable competitors include Carlos Alcaraz at **2/1** and Novak Djokovic at **10/1**. The presence of these strong players suggests that Sinner will face significant competition.
-
-3. **Recent Performance**: While the webpage does not provide specific recent performance metrics, Sinner's status as the favorite implies he has been performing well leading up to the tournament.
-
-4. **Betting Trends**: The odds reflect not only Sinner's current form but also public sentiment and betting trends, which can be indicative of his likelihood to win.
-
-In summary, Jannik Sinner is currently favored to win the 2026 Men's U.S. Open, but the competition from other top players will be a crucial factor in determining the outcome.
-
-Title: Carlos Alcaraz and Jannik Sinner Lead Men's U.S. Open Odds
-Author: wildcat0206
-Published Date: 2025-08-06T00:00:00.000Z
-URL: https://tenngrand.com/carlos-alcaraz-and-jannik-sinner-lead-mens-u-s-open-odds/
-Summary: As the 2026 Men's U.S. Open approaches, Jannik Sinner is positioned as a strong contender alongside Carlos Alcaraz. Both players are emerging stars in tennis, especially with the decline of veterans like Novak Djokovic and Rafael Nadal. Sinner's performance has been impressive, showcasing his skills on hard courts, which are crucial for the U.S. Open.
-
-Key factors to consider for predicting Sinner's chances include:
-
-1. **Current Form**: Sinner's recent performances in ATP tournaments and Grand Slams will provide insight into his readiness for the U.S. Open. Look for his results in the lead-up events, particularly on hard courts.
-
-2. **Head-to-Head Matchups**: Analyzing Sinner's past encounters with other top players, especially Alcaraz, can reveal how he might fare in potential matchups during the tournament.
-
-3. **Playing Style and Adaptability**: Sinner's aggressive baseline play and ability to adapt to different match situations are critical. His performance in high-pressure moments will be a significant factor.
-
-4. **Injury Status**: Keeping track of any injuries or physical issues leading up to the tournament is essential, as fitness can greatly impact performance.
-
-5. **Betting Odds**: The odds from sportsbooks reflect public sentiment and statistical analysis, providing a gauge of Sinner's perceived chances.
-
-Overall, Sinner's potential to win the 2026 Men's U.S. Open will depend on his form, adaptability,
-
-Title: Tennis Predictions for 2026 - Sports Illustrated
-Published Date: 2025-12-31T00:00:00.000Z
-URL: https://www.si.com/tennis/tennis-predictions-2026
-Summary: The article from Sports Illustrated discusses predictions for the 2026 tennis season, focusing on key players and potential outcomes. Notably, it suggests that Jannik Sinner is expected to continue his dominance alongside Carlos Alcaraz, with both players likely to win major titles, including the US Open. The predictions indicate that Sinner could defend his title in Australia and potentially secure victories in other Grand Slam events, reinforcing the notion that he is a strong contender for the 2026 Men's US Open. Additionally, the article hints at a competitive landscape where other players may challenge Sinner and Alcaraz, but the consensus leans towards their continued supremacy in men's tennis.
+Title: U.S. Men Indian Wells 2026: Do They Have the Talent to Win? - CRUSH AND RUSH NEWS
+Author: Phil Naessens
+URL: https://www.crushrushnews.com/2026/02/26/us-men-indian-wells-2026/
+Summary: The article primarily discusses the American men's tennis prospects at Indian Wells 2026, emphasizing that while the U.S. has a deep roster of talented players—including Fritz, Shelton, Paul, Tiafoe, Korda, and Nakashima—winning a Masters 1000 event like Indian Wells typically requires defeating top-tier players such as Alcaraz, Djokovic, or Sinner. Jannik Sinner is highlighted as a strong contender with a potential "desert breakthrough," indicating his rising form and capability to challenge for titles on hard courts. Given his recent performances and the tournament's competitive landscape, Sinner's success at Indian Wells suggests he has the talent and form to be a serious threat in major tournaments, including the US Open. However, the article underscores that winning such events depends on consistently beating the world's best, which remains a challenge for many American players and highlights Sinner's potential to capitalize on opportunities if he maintains his form.
 
 

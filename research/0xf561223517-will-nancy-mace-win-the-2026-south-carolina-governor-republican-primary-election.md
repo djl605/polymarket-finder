@@ -1,7 +1,7 @@
 # Research: Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?
 
 **Market ID:** 0xf561223517565f676701a566c17c4f460cfc5bf7d437dc4cc9ba194c4c099509
-**Researched At:** March 1, 2026 at 06:09:33 AM UTC
+**Researched At:** March 11, 2026 at 04:19:20 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?"
 
 ---
@@ -9,45 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.2¢
+**Expected Value:** 0.6¢
 
 ### Summary
 
-Polls from early February show Nancy Mace polling around 17–18% in a fragmented GOP field with large undecided shares, roughly matching the market’s 18% win probability. There is no strong unpriced catalyst, so any mispricing is likely small (2–4¢).
+Current 15% odds mirror Mace’s ~17% polling support once you discount for her third-place standing and lack of establishment backing. No strong evidence of a >2¢ mispricing emerges.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Rep. Nancy Mace will win the June 9, 2026 South Carolina Republican gubernatorial primary (including any runoff on June 23). “YES” requires Mace to either finish first in the initial primary with a plurality or place in the top two and then win the runoff. “NO” covers any other outcome, including her finishing third or lower, losing the runoff, or no primary occurring.
+The market asks whether U.S. Rep. Nancy Mace will win the June 9, 2026 South Carolina Republican gubernatorial primary (including any runoff). A “YES” means she either finishes first outright (>50%) or comes top two and wins a subsequent runoff. A “NO” covers any other outcome (another candidate wins outright or in runoff) or failure of the primary.
 
 2. EVIDENCE EVALUATION  
-Bullish for Mace (arguing price may be too low):  
-- Recent February polls from the South Carolina Policy Council and Live5News both show Mace at 18%, narrowly leading the field.  
-- A FITSNews poll (2/4/26) showed her with a 6-point advantage in one survey.  
-- Nearly half the electorate remains undecided (30–43% across polls), leaving room for surges.  
-- Debates in March–May could shift momentum toward a known national figure like Mace.
+Bullish evidence for Mace  
+• Fundraising momentum: She raised $570K in Q1, largely grassroots (Carpentier 3/3). That shows organizational strength and potential to surge late.  
+• Occasional polls: Some independent surveys (not detailed) put her ahead, suggesting volatility.
 
-Bearish for Mace (arguing price may be too high):  
-- Trafalgar Group (2/7/26) and FITSNews (2/9/26) show her trailing Lt. Gov. Evette (21.9%) and AG Wilson (20–23%).  
-- With five Republican candidates, an 18% polling share generally translates to a sub-20% win probability absent consolidation.  
-- Her unfavorable rating (48% in one poll) exceeds her favorable (41%), suggesting limited upside.  
-- Market probabilities (18%) align almost exactly with her raw polling share, implying traders may have equated share with win odds despite the multi-candidate runoff dynamic.
+Bearish evidence  
+• Latest poll (Folks 2/9): Mace at 17%, behind Wilson at 23% and presumably Evette. She has 41% favorability vs 48% unfavorable. Translating ~17% support into win probability in a fragmented field typically yields <17% chance, since she must overcome better-positioned rivals.  
+• Establishment snub: Gov. McMaster endorsed Evette (Reynolds 2/12), signaling institutional backing she lacks. Internal controversies and GOP leadership tensions (DNYUZ 2/12) may cap her ceiling.
 
-All polls cited are from Feb 4–9, 2026—very recent and from locally focused outlets (SCPC, FITSNews, Trafalgar, WRHI). They’re credible but show conflicting leaderboards, underscoring volatility. None provide a direct win‐probability model.
+Source credibility & recency  
+All articles are from reputable local/regional outlets between Feb–Mar 2026. Poll data and endorsements are fresh. Fundraising data is current.
 
 3. MARKET EFFICIENCY ANALYSIS  
-An 18% win price is a charitable read of current polls if traders assume her ~18% share, low favorability, and runoff risk offset her lead in some surveys. The tight 4¢ spread despite $677 volume suggests a small group of informed traders set the price. Low volume may reflect both the race’s long tail (primary in June) and the fact that most informed bettors wait for more concrete signals (debates, fundraising, endorsements).
+• A 15% price is close to her 17% polling share but discounted for converting share to win‐probability in a multi-candidate race.  
+• Low volume suggests only a few traders; however, the price aligns with publicly known polls and endorsements, implying informed consensus rather than idiosyncratic bets.  
+• The gap between Mace’s poll share and win odds (≈2pp) is reasonable, given her third-place position and lack of establishment support.
 
 4. MISPRICING ASSESSMENT  
-Given Mace’s consistent sub-20% polling share and the fragmented field, an 18% win probability seems broadly in line. There’s no clear, unpriced catalyst likely to move her chances dramatically before March debates. Any mispricing is small; if traders have roughly converted vote‐share into win odds (a common but imprecise shortcut), the error is on the order of a few cents (2–4¢) rather than tens of cents.
+There’s no glaring evidence that the market is off by more than a few cents. Bullish fundraising signals could tip her odds toward 18–20%, but establishment dynamics and current polling counterbalance that. The market appears efficient within a ±3¢ band.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 40% (polls well known to traders, moderate disagreement)  
-- Estimated magnitude of mispricing: 3 cents  
-Expected value = 0.40 × 3¢ = 1.2¢
+Strength of evidence (no major missing info): 30%  
+Magnitude of plausible mispricing: 2¢  
+Expected value = 30% × 2¢ = 0.6¢
 
-EXPECTED_VALUE: 1.2  
-SUMMARY: Polls from early February show Nancy Mace polling around 17–18% in a fragmented GOP field with large undecided shares, roughly matching the market’s 18% win probability. There is no strong unpriced catalyst, so any mispricing is likely small (2–4¢).  
+EXPECTED_VALUE: 0.6  
+SUMMARY: Current 15% odds mirror Mace’s ~17% polling support once you discount for her third-place standing and lack of establishment backing. No strong evidence of a >2¢ mispricing emerges.  
 CONFIDENCE: medium
 
 ---
@@ -56,56 +55,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Crossroads 2026: New Poll Shows Nancy Mace Back in the Lead - FITSNews
-Author: Will Folks
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.fitsnews.com/2026/02/04/crossroads-2026-new-poll-shows-nancy-mace-back-in-the-lead/
-Summary: A recent poll from the South Carolina Policy Council indicates that Congresswoman Nancy Mace is currently leading the Republican field in the race for the 2026 South Carolina gubernatorial election, with a six percent advantage over her competitors. This poll is part of a series of surveys that have shown varying results for Mace, reflecting the competitive nature of the primary. 
-
-As the race progresses, Mace's position may be influenced by factors such as her campaign strategy, voter sentiment, and the performance of other candidates. The Republican primary is particularly significant, as South Carolina has not elected a Democrat for governor in nearly three decades. With five Republicans and two Democrats in the race, Mace's lead suggests she is a strong contender, but the dynamics could change as the election date approaches. 
-
-Overall, while Mace's current lead is promising, the outcome will depend on various factors, including voter turnout and campaign developments leading up to the primary.
-
-Title: Evette, Wilson, and Mace Locked in Tight Three-Way Race for SC Governor – WRHI
-Author: Tom Hyslip
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.wrhi.com/2026/02/evette-wilson-and-mace-locked-in-tight-three-way-race-for-sc-governor-209793
-Summary: The race for the 2026 South Carolina Republican gubernatorial primary is highly competitive, with Lt. Gov. Pamela Evette, Attorney General Alan Wilson, and U.S. Rep. Nancy Mace emerging as the leading candidates. Recent polling shows a divide in voter support: the Trafalgar Group indicates Evette leads with 21.9%, followed closely by Wilson at 20.1% and Mace at 17.3%. Conversely, a poll from the South Carolina Policy Council places Mace in the lead at 18%, with Evette and Wilson tied at 12%. 
-
-The significant number of undecided voters—43% in the SCPC poll—suggests that the race remains fluid, allowing for potential shifts in support as the primary approaches. Key debates scheduled for March, April, and May will provide candidates with opportunities to sway undecided voters and solidify their positions.
-
-The primary is set for June 9, 2026, with a runoff on June 23 if no candidate secures a majority. Given the current polling landscape and the high percentage of undecided voters, Mace's chances of winning will depend on her performance in upcoming debates and her ability to capture the attention of those still weighing their options.
+Title: See who leads campaign fundraising in race for SC governor
+Author: Bella Carpentier
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.goupstate.com/story/news/politics/2026/03/03/campaign-fundraising-sc-governor-race/88548108007
+Summary: Nancy Mace has raised over $570,000 in the latest quarter, primarily from small, individual donations across South Carolina and other states, indicating strong grassroots support. Her campaign emphasizes the momentum generated by these contributions, contrasting with opponents relying on larger donations from wealthy donors. While her fundraising success suggests significant support, it does not guarantee victory in the 2026 Republican primary for South Carolina governor.
 
 Title: New Poll Shows Alan Wilson Leading 'Fragmented' S.C. Governor's Race - FITSNews
 Author: Will Folks
 Published Date: 2026-02-09T00:00:00.000Z
 URL: https://www.fitsnews.com/2026/02/09/new-poll-shows-alan-wilson-leading-fragmented-s-c-governors-race/
-Summary: A recent poll indicates that South Carolina Attorney General Alan Wilson is currently leading the Republican primary for governor with 23% support from likely voters, ahead of Congresswoman Nancy Mace, who has 17%. Lieutenant Governor Pamela Evette follows closely with 16%, while Congressman Ralph Norman has 12%. Notably, 30% of voters remain undecided.
+Summary: A recent campaign-based poll indicates that Nancy Mace currently holds 17% support among likely Republican primary voters in South Carolina, placing her behind Alan Wilson, who leads with 23%. Wilson is viewed favorably by 47% of voters, with a strong overall image and room for growth, whereas Mace has a 41% favorability rating but a high 48% unfavorable rating. Despite her high disapproval, some independent surveys have shown Mace leading in the race, and other polls suggest she is a significant contender. However, Wilson's current lead in the latest poll and his favorable image suggest he is in a strong position to win the Republican primary.
 
-Despite Mace's previous lead in an independent survey, her favorability rating is concerning; 41% of voters view her favorably, but 48% have an unfavorable opinion of her. This marks a consistent trend, as multiple polls have shown her unfavorable rating among GOP primary voters. In contrast, Wilson enjoys a more favorable image, with 47% of voters viewing him positively.
-
-The fragmented nature of the primary, with several candidates vying for attention, complicates predictions. While Mace has shown potential in earlier polls, her current unfavorable ratings and Wilson's strong position suggest that her chances of winning the primary may be diminishing.
-
-Title: Mace, Evette and Wilson battle for top spots in recent South Carolina polls
-Author: Nick Reagan
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.live5news.com/2026/02/06/mace-evette-wilson-battle-top-spots-recent-south-carolina-polls/?outputType=apps
-Summary: Recent polling data indicates that Rep. Nancy Mace is currently leading in the race for the 2026 South Carolina Republican gubernatorial primary. In a poll conducted by the South Carolina Policy Council, Mace garnered 18% support, ahead of Attorney General Alan Wilson and Lt. Gov. Pamela Evette, who each received 12%. This marks a slight increase in Mace's support since a previous summer poll, where she had 16%. 
-
-However, Mace's position is not guaranteed, as another poll by the Trafalgar Group shows Evette leading with 21.9%, closely followed by Wilson at 20.1%, while Mace was in third place with 17.3%. The fluctuating support among candidates, with a significant percentage of voters (43% in the Policy Council poll and 29% in the Trafalgar poll) still undecided, suggests that the race remains competitive and unpredictable.
-
-Additionally, the polls reflect broader voter sentiments on issues such as tax reform and judicial selection, which could influence candidate support as the primary approaches. Mace's campaign will need to maintain momentum and address the concerns of undecided voters to secure a victory in the primary.
-
-Title: New poll shows how GOP, Democratic primary fields are shaping up in governor race
+Title: Nancy Mace forced to respond after brutal GOP snub in governor’s race – DNYUZ
 Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://spectrumlocalnews.com/sc/south-carolina/politics/2026/02/05/south-carolina-politics-2026-governor-race-poll-primary-field?cid=share_twitter
-Summary: A recent poll by the South Carolina Policy Center indicates that Rep. Nancy Mace is currently leading the Republican primary field for the 2026 South Carolina gubernatorial election, with 18% support among surveyed Republican voters. She is closely followed by Attorney General Alan Wilson and Lt. Gov. Pamela Evette, each at 12%, and Rep. Ralph Norman at 11%. Notably, 43% of Republican voters remain undecided, suggesting that the race is still fluid.
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://dnyuz.com/2026/02/12/nancy-mace-forced-to-respond-after-brutal-gop-snub-in-governors-race/
+Summary: Nancy Mace, a Republican U.S. Representative from South Carolina, is currently running for governor but faced a significant setback when outgoing Gov. Henry McMaster endorsed his lieutenant governor, Pamela Evette, instead of her. Mace publicly responded by emphasizing her record and commitment to results over endorsements, positioning herself as a strong, results-oriented candidate. Her campaign has been marked by internal conflicts, including previous accusations against Evette and allegations from former staff about her erratic behavior and personal issues. Despite her efforts to present herself as a resilient and dedicated leader, the lack of establishment support and internal controversies may impact her chances in the upcoming Republican primary.
 
-Mace's lead marks a shift from previous polling, where Evette was ahead. The competitive nature of the race is underscored by the varying results from different polls, indicating that both Mace and Evette have had moments of prominence.
+Title: Nancy Mace forced to respond after brutal GOP snub in governor's race - Raw Story
+Author: 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://rawstory.com/nancy-mace-2675261158
+Summary: Nancy Mace, a Republican U.S. Representative from South Carolina, is actively campaigning for the state's governor race in 2026. She publicly responded to her loss of an endorsement from outgoing Governor Henry McMaster, who endorsed his lieutenant governor, Pamela Evette. Mace emphasized her record of results and leadership over endorsements, asserting her commitment to her campaign promises and portraying herself as a resilient candidate. Her previous feud with Evette, including accusations of misleading endorsements, indicates ongoing intra-party tensions. The dynamics of endorsements, her strong stance on policy results, and her resilience in the race are key factors that could influence her chances in the upcoming Republican primary.
 
-On the Democratic side, State Rep. Jermaine Johnson leads with 25% support, while his opponent, Mullins McLeod, has 8%. However, two-thirds of Democratic voters are undecided, highlighting a similar uncertainty in that primary.
-
-The statewide primaries are scheduled for June 9, 2026, and the South Carolina Republican Party plans to hold three debates leading up to the election, which could further influence voter opinions. Given the significant percentage of undecided voters and the competitive landscape, predicting Mace's victory will depend on her ability to solidify support and engage undecided voters in the coming months.
+Title: McMaster endorses Evette in SC governor’s race, AP says
+Author: Nick Reynolds nreynolds@postandcourier.com
+Published Date: 2026-02-12T00:00:00.000Z
+URL: http://www.postandcourier.com/politics/mcmaster-endorses-evette-sc-governor-2026/article_50556c41-85c0-4dbb-b10a-130b4685910a.html
+Summary: The article reports that South Carolina Governor Henry McMaster has endorsed his Lieutenant Governor, Pamela Evette, in the upcoming Republican primary for governor. McMaster's endorsement signifies strong support within the state's Republican establishment, and Evette is described as a key partner in promoting the state's growth and conservative policies. The race is competitive, with other candidates like Attorney General Alan Wilson and Congresswoman Nancy Mace also vying for the nomination. Mace has publicly emphasized her leadership qualities and campaign plan, but the race remains closely contested, with many voters still undecided. Given the current political landscape, endorsements from prominent figures like McMaster and the support from law enforcement and established campaign networks could influence the primary outcome. However, predicting Mace's chances in the 2026 primary would require considering her current support base, campaign momentum, and the evolving political dynamics within South Carolina's Republican Party.
 
 

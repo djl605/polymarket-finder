@@ -1,60 +1,57 @@
 # Research: Will Arman Tsarukyan be the UFC Lightweight Champion on December 31, 2026?
 
 **Market ID:** 0xb95e2eed6d79fed611ef7d25fbda14a8eb54c951787dba969c6e1021efdde0e4
-**Researched At:** March 4, 2026 at 02:47:22 PM UTC
+**Researched At:** March 11, 2026 at 04:20:11 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Arman Tsarukyan be the UFC Lightweight Champion on December 31, 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 2.5¢
+**Confidence:** Low
+**Expected Value:** 0.5¢
 
 ### Summary
 
-Tsarukyan has a plausible path to a Sept/Oct 2026 title shot, but must overcome established champions in a stacked division. A 30% market price reasonably balances his upside against the crowded field and single-fight volatility, suggesting no large mispricing.
+Research shows Tsarukyan is in talks for a late-2026 title shot but faces multiple uncertainties (fight booking, opponent, win probability). The 17.5% price aligns with a plausible product of those probabilities, and no clear new information suggests a major mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Arman Tsarukyan will be the *UFC Lightweight Champion* at 12:00 PM ET on December 31, 2026.  
-- YES requires that before that snapshot he (a) secures a title shot, (b) defeats the reigning champion, and (c) holds the belt on that exact date.  
-- NO covers any other outcome: he never gets the shot, loses the title bout, loses the belt before year-end, or the belt is vacant.
+The market asks whether Arman Tsarukyan will be the official UFC Lightweight Champion at 12:00 PM ET on December 31, 2026.  
+• YES requires (a) Tsarukyan securing a title fight before that date, (b) winning the lightweight belt, and (c) the belt not being stripped or vacated by the cutoff.  
+• NO encompasses Tsarukyan never winning the belt, losing it before the cutoff, or the belt being vacant.
 
 2. EVIDENCE EVALUATION  
-Bullish signs:  
-• BJPenn (3 Mar 2026): UFC matchmakers are “encouraging talks” for Tsarukyan to fight for the belt as early as Sept/Oct 2026.  
-• Geosuper (3 Mar 2026): Tsarukyan is optimistic, citing resilience and readiness, and is in active discussions.  
-• MMA USA (3 Feb 2026): Analysts view him as a top‐5 lightweight with skill, momentum, and a division prone to vacancy/injury–driven shake-ups.  
-• MMA Fighting predictions: Division unpredictability makes a late-2026 title win “plausible” if he capitalizes on opportunities.
+Bullish points:  
+• Tsarukyan is currently ranked No. 2 and in active, positive discussions with UFC matchmakers for a September/October 2026 title shot after the Topuria–Gaethje unification bout.  
+• He’s riding recent wins and maintains good relations with UFC officials.  
 
-Bearish signs:  
-• MMA Fighting Morning Report (26 Feb 2026): Michael Bisping argues that Holloway, Oliveira, Gaethje and even the BMF champ could leapfrog Tsarukyan; he’s already been passed over once.  
-• The division’s current pecking order heavily favors established champs and recent titleholders, leaving Tsarukyan behind until he proves himself.
+Bearish points:  
+• No title fight is officially booked, so negotiations could stall.  
+• The outcome of the Ilia Topuria vs. Justin Gaethje fight and other contenders (e.g., Charles Oliveira, Islam Makhachev) will affect whether Tsarukyan gets the shot and his path to the belt.  
+• Even if he fights, winning a title bout is far from certain given the elite level of the division.  
 
-Source credibility & recency: all outlets are reputable MMA media, and dates range from Feb–Mar 2026, so they are both current and relevant. The bullish evidence hinges largely on *planned* discussions rather than secured fights, while bearish evidence stresses the crowded contender field and historical precedence.
+Source credibility and recency: All five articles are from March 3, 2026, by established MMA outlets (Yahoo Sports, BJPenn, MMA Junkie, Yardbarker, GeoSuper), offering consistent reporting but no new quantitative win probabilities or insider guarantees.
+
+Does any evidence suggest 17.5% is wrong? No clear numerical model or substantial new insider info that would sharply raise or lower that figure. The market appears to reflect the combination of (1) ~50–70% chance he even fights for the belt multiplied by (2) ~25–40% chance he wins, yielding roughly 12–28% in line with the current 17.5%.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 30% probability can be justified by:  
-• A realistic shot timeline (Sept/Oct 2026) combined with a sub-50% win probability in a single title bout.  
-• Recognition that division instability helps his odds, but beating an established champ on short notice caps upside.  
-Low volume suggests few participants, but the narrow spread implies those who *did* trade share a common view rather than a lone outlier. It’s more likely the market reflects a rough consensus than pure neglect.
+• A 17.5% price implies the market sees a modest path: Tsarukyan gets a shot and wins.  
+• Low $884 volume and 5¢ spread suggest few traders, but the consistent news flow means well-informed participants have had time to price in known developments.  
+• The lack of trading might stem from the event’s distance and uncertainty, not that the consensus is uninformed.
 
 4. MISPRICING ASSESSMENT  
-No single piece of information points to a >20¢ mispricing.  
-• Bullish case: the 30% price already anticipates his shot and some upset potential.  
-• Bearish case: it grants him a sizeable “long shot” edge despite the crowded division.  
-Given normal variance in MMA matchmaking, injury risk, and fight outcomes, a ~30% chance sits comfortably between “unlikely” and “dark-horse favorite.” There is no glaring missing fact or technicality.
+No specific, credible evidence appears missing. The research only confirms a plausible timeline and Tsarukyan’s positioning, but affords no firm booking, opponent, or win odds. Given the number of variables—fight booking, opponent, fight result, potential injuries or upsets—a mid-teens probability is reasonable. Without any clear disqualifying fact or surefire path, there’s no basis to assert significant mispricing (>20¢).
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: ~50% (some uncertainty remains).  
-Likely magnitude of mispricing: ~5 cents (small deviation at most).  
-Expected value ≈ 0.50 × 5¢ = 2.5¢
+• Strength of evidence suggesting mispricing: ~10% (research doesn’t reveal a glaring oversight).  
+• Potential magnitude of mispricing: ~5¢ (even if slightly off, unlikely to exceed a few cents).  
+Expected value ≈ 10% × 5¢ = 0.5¢
 
-EXPECTED_VALUE: 2.5  
-SUMMARY: Tsarukyan has a plausible path to a Sept/Oct 2026 title shot, but must overcome established champions in a stacked division. A 30% market price reasonably balances his upside against the crowded field and single-fight volatility, suggesting no large mispricing.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 0.5  
+SUMMARY: Research shows Tsarukyan is in talks for a late-2026 title shot but faces multiple uncertainties (fight booking, opponent, win probability). The 17.5% price aligns with a plausible product of those probabilities, and no clear new information suggests a major mispricing.  
+CONFIDENCE: low
 
 ---
 
@@ -62,33 +59,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Arman Tsarukyan drops BOMBSHELL for his 2026 future inside the Octagon - Yahoo Sports
+Author: Garrett Kerman, ClutchPoints Tue, March 3, 2026 at 2:09 PM UTC · 3 min read
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://sports.yahoo.com/articles/arman-tsarukyan-drops-bombshell-2026-140932554.html
+Summary: Arman Tsarukyan, currently the No. 2-ranked UFC lightweight contender, has expressed interest in fighting for the 155-pound title in September or October 2026, with discussions ongoing with UFC officials about potential title fights. The timeline aligns with the upcoming unification bout between Ilia Topuria and Justin Gaethje, which could open the path for Tsarukyan to compete for the belt later that year. Despite a strong record and recent wins, Tsarukyan has faced setbacks and controversies, but remains active in MMA and grappling competitions. While he is positioning himself for a title shot in late 2026, whether he will become the UFC Lightweight Champion by December 31, 2026, depends on the outcomes of upcoming title fights and his performance in potential title bouts.
+
 Title: Arman Tsarukyan shares UFC's targeted timeline for lightweight title shot after encouraging talks with matchmakers | BJPenn.com
 Author: Curtis Calhoun
 Published Date: 2026-03-03T00:00:00.000Z
 URL: https://www.bjpenn.com/mma-news/arman-tsarukyan/arman-tsarukyan-ufc-timeline-lightweight-title-shot-talks-matchmakers/
-Summary: Arman Tsarukyan's recent discussions with UFC matchmakers suggest a promising trajectory toward a lightweight title shot in 2026. He has been informed of potential opportunities for title fights, possibly as early as September or October 2026, with options including fights against top contenders like Justin Gaethje, Charles Oliveira, Max Holloway, or Islam Makhachev. While he has not yet secured the title, the UFC appears interested in positioning him for a title challenge within the next year or so. Given this information, Tsarukyan's likelihood of holding the UFC Lightweight Championship by December 31, 2026, depends on his performance in upcoming fights and the outcomes of title bouts during that period.
+Summary: Arman Tsarukyan's future title prospects are promising, with recent discussions indicating UFC interest in him competing for the lightweight title in late 2026, possibly around September or October. He has expressed openness to fighting for the belt, contingent on the outcomes of upcoming fights, notably the UFC 326 bout between Charles Oliveira and Max Holloway. If he secures a title shot, it could position him as a contender for the lightweight championship by the end of 2026. However, his exact trajectory depends on fight results and UFC matchmaker decisions leading up to that time.
+
+Title: Arman Tsarukyan shares surprisingly positive update on next UFC fight
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://mmajunkie.usatoday.com/story/sports/ufc/2026/03/03/ufc-arman-tsarukyan-next-fight-positive-update-title-shot/88957056007/
+Summary: Arman Tsarukyan is optimistic about his future in the UFC, with discussions about potential fights including title bouts in the lightweight division, possibly around September or October 2026. He has maintained good relations with UFC management and is considering competing for the lightweight title later this year. While he has not yet secured a title shot, his recent performances and ongoing negotiations suggest he could be a contender by late 2026. However, whether he will become the UFC Lightweight Champion by December 31, 2026, remains uncertain and depends on his progression through upcoming fights and the competitive landscape of the division.
+
+Title: Arman Tsarukyan drops BOMBSHELL for his 2026 future inside the Octagon | Yardbarker
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: http://www.yardbarker.com/mma/articles/arman_tsarukyan_drops_bombshell_for_his_2026_future_inside_the_octagon/s1_17120_43543037
+Summary: Arman Tsarukyan, currently the No. 2-ranked UFC lightweight contender, has expressed plans to fight for the lightweight title in September or October 2026, potentially challenging for the belt after the unification bout between Ilia Topuria and Justin Gaethje. His recent performance includes a victory over Dan Hooker, and he has been actively competing in grappling events despite previous controversies and setbacks within the UFC. Given his strategic timeline and ongoing activity, Tsarukyan aims to secure the lightweight championship within 2026, making it plausible he could be the champion by December 31, 2026.
 
 Title: Arman Tsarukyan reveals timeline for lightweight title shot - MMA - geosuper.tv
 Author: 
 Published Date: 2026-03-03T00:00:00.000Z
 URL: https://www.geosuper.tv/latest/53957-arman-tsarukyan-reveals-timeline-for-lightweight-title-shot
-Summary: Arman Tsarukyan, a top UFC lightweight contender, has announced plans to challenge for the lightweight title around September or October 2026, potentially fighting after the Ilia Topuria vs. Justin Gaethje bout. Despite past controversies and setbacks, Tsarukyan is in discussions with UFC officials about a title shot at 155 pounds. He believes his recent actions, including a freestyle wrestling match incident, demonstrate his resilience and readiness for the title. While he is optimistic about securing the belt within the year, whether he will be champion by December 31, 2026, depends on the outcome of his upcoming fights and the competitive landscape of the lightweight division.
-
-Title: Morning Report | Michael Bisping: BMF champ could leapfrog Arman Tsarukyan for lightweight title shot | MMA Fighting
-Author: Jed Meshew
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.mmafighting.com/latest-news/473283/morning-report-michael-bisping-bmf-champ-could-leapfrog-arman-tsarukyan-for-lightweight-title-shot
-Summary: The article discusses the current landscape of the UFC lightweight division, highlighting key fighters such as Max Holloway, Charles Oliveira, and interim champion Justin Gaethje. Michael Bisping suggests that Holloway and Oliveira are aiming for undisputed titles but face hurdles, including recent losses and the presence of Gaethje. Notably, Arman Tsarukyan, a top contender who was previously set to fight for the title but was sidelined by injury, has been passed over for recent title shots. Bisping indicates that Tsarukyan's chances of securing a title shot later this year may be limited, as the reigning champions and top contenders are positioned ahead of him. Given the current trajectory and the UFC's tendency to favor established champions and recent titleholders, it is unlikely that Tsarukyan will become the UFC Lightweight Champion by December 31, 2026.
-
-Title: Predictions: Who will be the 11 UFC champions at the end ...
-Author: Jed Meshew
-URL: https://www.mmafighting.com/latest-news/464679/predictions-who-will-be-the-11-ufc-champions-at-the-end-of-2026
-Summary: The article discusses predictions for UFC champions across all 11 divisions at the end of 2026, highlighting the sport's unpredictability. While it does not specifically mention Arman Tsarukyan or the lightweight division, it provides context on the current landscape and key contenders. The lightweight division remains competitive, with fighters like Islam Makhachev and other top contenders vying for the title. Given the recent title changes and ongoing rivalries, Tsarukyan's potential to become champion by the end of 2026 depends on his performance, future matchups, and whether he can capitalize on opportunities within this dynamic division. The overall unpredictability of UFC title outcomes suggests that Tsarukyan's chances are uncertain but plausible if he continues to improve and secures significant wins.
-
-Title: Arman Tsarukyan Primed for Breakout Run in UFC Lightweight in 2026 | MMA USA
-Author: Oscar Madison
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.mmausa.net/arman-tsarukyans-lightweight-ambitions-why-2026-could-be-his-breakout-year/
-Summary: Arman Tsarukyan is positioned as a rising contender in the UFC lightweight division, with significant momentum and a well-rounded skill set that includes elite wrestling, fluid striking, and strategic maturity. The division is highly competitive and somewhat unstable, with opportunities arising due to injuries, performance shifts, and scheduling changes among top fighters. Tsarukyan's recent performances, adaptability, and timing suggest he is on the cusp of a major breakthrough in 2026, potentially positioning him for a title shot. While he has the talent and momentum to contend for the UFC Lightweight Championship by the end of 2026, securing the belt will depend on his ability to capitalize on division opportunities and defeat top-ranked opponents.
+Summary: Arman Tsarukyan has announced plans to challenge for the UFC lightweight title, with a potential fight scheduled for September or October 2026, likely after the Ilia Topuria vs. Justin Gaethje bout. Despite past controversies and setbacks, Tsarukyan remains a top contender, actively in talks with UFC officials about a title shot. If he successfully fights for and wins the lightweight championship in late 2026, he could be the UFC Lightweight Champion by December 31, 2026.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Nate Blouin be the Democratic nominee for UT-01?
 
 **Market ID:** 0x49f4f5e99bc76806bdce33713e6958a3a35c55405d909b9f546b2632d9ec55c3
-**Researched At:** March 2, 2026 at 02:55:07 PM UTC
+**Researched At:** March 11, 2026 at 04:18:59 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Nate Blouin be the Democratic nominee for UT-01?"
 
 ---
@@ -9,48 +9,43 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-The available research—McAdams’s early ballot qualification and moderate‐leaning district dynamics—provides only a tentative counterweight to Blouin’s grassroots strength; no candidate‐level polling means a 56¢ price sits within plausible uncertainty rather than glaring mispricing.
+The CPC PAC endorsement boosts Blouin but McAdams’s early ballot qualification and fundraising suggest a genuine toss-up. A 51.5% market price reasonably reflects current uncertainty with no clear mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether State Sen. Nate Blouin will win the Democratic nomination for Utah’s 1st Congressional District, to be decided by the June 23, 2026 primary (after March/April caucus‐convention stages). It resolves YES if he is officially named the Democratic nominee by that date (or by Nov 3 11:59 PM ET), otherwise NO (including “Other” if no nominee is announced).
+The market asks whether Nate Blouin will be the official Democratic nominee for Utah’s 1st Congressional District following the June 23, 2026 primary (or by Nov. 3 if there is any delay). A “YES” requires Blouin to win that primary and be announced as the nominee; a “NO” includes any other candidate winning or no nominee being announced by the deadline.
 
 2. EVIDENCE EVALUATION  
-
-Bearish (against Blouin at 56%):  
-• Ben McAdams, a former U.S. Rep., was first to qualify for the ballot (7,000+ signatures as of Feb 12 2026), demonstrating organizational strength and name recognition.  
-• Moderate district dynamics (northern Salt Lake County) may favor a centrist like McAdams over a progressive state senator.  
-• Competition remains open with at least five Democratic contenders; Blouin has not yet broken clear of the pack in publicly reported milestones.  
-
-Bullish (supports ~56% or higher):  
-• Federal judges’ Feb 26 ruling upholds a strongly Democratic district, boosting any Democratic candidate’s general‐election prospects, which could attract major party support to Blouin.  
-• Blouin has Bernie backing and grassroots ties; caucus/convention processes can favor well‐organized activist campaigns.  
-• No candidate‐specific polling publicly available, so priors are highly uncertain—56% may simply reflect that uncertainty rather than mispricing.  
-
-Source credibility & recency: All items are from late 2025 to early 2026, from recognized outlets (Deseret News, Utah Political Watch, Nate Silver). No obvious stale or unreliable data.
+Bullish for Blouin  
+• Congressional Progressive Caucus PAC endorsement (Feb 19, 2026) signals institutional backing and additional fundraising support; CPC-PAC-endorsed candidates historically win primaries at high rates.  
+Bearish or Uncertain  
+• Former Rep. Ben McAdams was first to qualify for the ballot (Feb 12, 2026) with strong signature gathering and ~$1 M in early fundraising, suggesting he may be the frontrunner among eight Democrats.  
+• No publicly reported data on Blouin’s ballot qualification status or comparative fundraising to McAdams, creating uncertainty around his organizational readiness.  
+Credibility and Recency  
+• All sources are from February–March 2026, and come from reputable outlets (CPC PAC, Utah Political Watch, Deseret News).
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 56% price could reflect genuine uncertainty: McAdams versus Blouin is a close race.  
-• Low $1.5 K volume suggests few traders; could be set by one adept local‐race watcher or by novices.  
-• Absence of public polling on the UT-01 Democratic primary may discourage wider trading—price likely embeds broad qualitative impressions rather than hard data.
+• A 51.5% price roughly reflects a coin-flip in an eight-way primary with one strong moderate candidate (McAdams) and one well‐backed progressive (Blouin).  
+• Zero volume but narrow spread may indicate a lone trader providing liquidity at a neutral price rather than broad consensus.  
+• The race is early; informed traders may be waiting for more signals (e.g., polling, debate performance, signature reports).
 
 4. MISPRICING ASSESSMENT  
-• No candidate‐level polls have emerged, so neither side has strong new information to drive a >20¢ gap.  
-• The early‐qualifier advantage by McAdams hints Blouin’s win probability might be below 50%, but lacking systematic vote‐intention data, a 6-point edge is within plausible error.  
-• The market shows hallmarks of partial efficiency under deep uncertainty; there’s no clear, missing “smoking gun” that would shift the probability by >10¢.
+• No clear missing data: both the key endorsement and McAdams’s early momentum appear already factored into a roughly 50/50 market.  
+• Uncertainty remains high with unknown ballot status/fundraising for Blouin and multiple candidates.  
+• No credible sign that the market is off by more than a few cents, and any small tilt likely reflects genuine early‐stage ambiguity rather than an obvious arbitrage.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: low–medium (≈30%)—we see a counterargument (McAdams) but it’s not definitive.  
-• Magnitude of potential mispricing: small (≈5¢) given remaining uncertainty.  
-• Expected value ≈ 0.30 × 5¢ = 1.5¢
+• Strength of evidence: low–medium (~30%) that the market has a small bias.  
+• Magnitude of mispricing: likely <5¢.  
+• Expected value ≈ 30% × 5¢ = 1.5¢ → effectively negligible.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The available research—McAdams’s early ballot qualification and moderate‐leaning district dynamics—provides only a tentative counterweight to Blouin’s grassroots strength; no candidate‐level polling means a 56¢ price sits within plausible uncertainty rather than glaring mispricing.  
+EXPECTED_VALUE: 0  
+SUMMARY: The CPC PAC endorsement boosts Blouin but McAdams’s early ballot qualification and fundraising suggest a genuine toss-up. A 51.5% market price reasonably reflects current uncertainty with no clear mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -59,42 +54,28 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Nate Blouin jumps into the race for new Democratic seat
-Author: Deseret News
-Published Date: 2025-11-23T00:00:00.000Z
-URL: https://kslnewsradio.com/utah/nate-blouin-jumps-into-race-for-congress/2264176/
-Summary: Nate Blouin, a State Senator from Salt Lake City, has officially announced his candidacy for Utah's newly redrawn 1st Congressional District in the upcoming midterm elections. His campaign is focused on promoting progressive values and aims to send a representative aligned with these ideals to Congress. As a member of the Democratic Party, Blouin's entry into the race positions him as a significant contender for the Democratic nomination. Factors that could influence his chances include his political experience, support from local Democratic organizations, and the overall political climate in Utah, which has historically leaned Republican. Observers will be watching how he engages with voters and addresses key issues in the district as the election approaches.
+Title: Congressional Progressive Caucus PAC Endorses Nate Blouin for UT-01 - Progressive Caucus
+Author: Ernest Bailey
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-nate-blouin-for-ut-01/
+Summary: The Congressional Progressive Caucus PAC has endorsed Utah State Senator Nate Blouin in the June 23rd primary for Utah’s 1st Congressional District. The endorsement highlights Blouin’s advocacy for climate action, clean energy, and social justice issues, aligning with progressive priorities such as supporting the Green New Deal, expanding Social Security, and Medicare for All. Blouin emphasizes his opposition to Republican efforts to dismantle civil rights and environmental protections, positioning himself as a bold leader committed to fighting for working families. The CPC PAC’s endorsement, backed by significant fundraising and a strong track record of helping endorsed candidates win, suggests strong institutional support that could bolster Blouin’s chances of securing the Democratic nomination.
 
 Title: McAdams First to Qualify for Utah’s New 1st District Ballot
 Author: 
 Published Date: 2026-02-12T00:00:00.000Z
 URL: https://www.utahpoliticalwatch.news/democrat-ben-mcadams-first-to-qualify-for-utahs-new-1st-district-ballot-with-signatures/
-Summary: Ben McAdams has become the first candidate to qualify for the Democratic nomination in Utah's new 1st Congressional District by gathering over 7,000 verified signatures. This significant milestone positions him as a key contender in the upcoming election. McAdams, a former Congressman, expressed gratitude to his supporters and emphasized his commitment to engaging with voters about his platform and achievements.
+Summary: Ben McAdams has become the first candidate to qualify for Utah’s new 1st Congressional District ballot by collecting over 7,000 verified signatures. He is a Democrat and has a record of legislative accomplishments. McAdams is among eight Democratic candidates vying for the nomination in this district, which covers most of Salt Lake County. The nomination process involves signature gathering, with the deadline for ballot qualification already met. While McAdams has secured his spot on the ballot, there is no information indicating whether Nate Blouin is participating or has secured a similar position. Therefore, predicting if Nate Blouin will be the Democratic nominee for UT-01 based solely on this information is uncertain.
 
-As for Nate Blouin, he is one of the other Democratic candidates in the race. The outcome of the nomination will depend on various factors, including the performance of all candidates during the upcoming caucus and convention processes, which are scheduled to take place in March and April 2026. The Democratic Party's nominating convention will be crucial in determining who secures the nomination for the general election. 
-
-In summary, while McAdams has made a strong start by qualifying for the ballot, the competition remains open, and Blouin's chances will be influenced by his campaign efforts and the dynamics of the Democratic primary process.
+Title: Former Rep. Ben McAdams first Democrat to qualify for ballot in Utah’s new 1st District – Deseret News
+Author: 
+Published Date: 2026-02-12T00:00:00.000Z
+URL: https://www.deseret.com/politics/2026/02/12/ben-mcadams-qualify-for-ballot/
+Summary: Ben McAdams has become the first Democrat to qualify for the primary ballot in Utah’s newly redrawn 1st Congressional District, securing his spot after gathering over 7,000 signatures. He has a strong fundraising advantage, with nearly $1 million raised in the first quarter and $764,711 cash on hand. McAdams emphasizes his focus on affordability and his record of getting things done. His early qualification and financial backing suggest he is a leading candidate in the Democratic primary, but there is no information about Nate Blouin's candidacy or prospects in this race.
 
 Title: Federal judges upheld a strong Democratic district in Utah. Now GOP incumbents must decide where to run – Deseret News
 Author: 
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.deseret.com/politics/2026/02/26/where-will-utah-republicans-run-2026/
-Summary: The recent ruling by federal judges has upheld a strong Democratic district in northern Salt Lake County, significantly impacting the political landscape in Utah. With the new congressional map finalized, GOP incumbents, including Rep. Blake Moore, are now strategizing their runs for the 2026 elections. Moore has already begun gathering signatures to run in the newly defined 2nd District, which suggests a potential shift in focus among Republican candidates.
-
-As for Nate Blouin, his candidacy for the Democratic nomination in UT-01 may be influenced by the newly established district dynamics. The strong Democratic presence in the area could bolster his chances, especially if he can effectively mobilize support among local constituents. However, the competition within the Democratic Party and the overall political climate leading up to the primaries will also play crucial roles in determining whether he secures the nomination. 
-
-In summary, while the new district boundaries favor Democratic candidates, the specific outcome for Nate Blouin will depend on his campaign strategy and the response from the Democratic electorate in UT-01.
-
-Title: Generic Congressional Ballot: Latest Polls | Silver Bulletin
-Author: Nate Silver
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls
-Summary: The webpage provides an overview of the latest polling data for the generic congressional ballot, indicating that Democrats currently hold a lead of 5.5 percentage points. As of February 27, 2026, Democrats have reached 48% in the average, but individual polls show significant variability, with some indicating a stronger Democratic advantage (D +8 to D +10) while others suggest a narrower lead (D +2 to D +3). This inconsistency in polling results suggests that while Democrats are currently favored, the situation is fluid and could impact various Democratic candidates, including Nate Blouin for UT-01. For a more accurate prediction regarding Blouin's nomination, it would be essential to monitor not only the generic ballot trends but also specific polling data related to his candidacy and voter sentiment in Utah's 1st district.
-
-Title: Take 2 Podcast: Utah GOP fuels repeal push with millions as ... - KUTV
-Published Date: 2025-12-05T00:00:00.000Z
-URL: https://kutv.com/news/take-2/take-2-podcast-utah-gop-fuels-repeal-push-with-millions-as-redistricting-fight-intensifie
-Summary: This article discusses the Utah GOP's efforts to repeal Proposition 4, including raising over $4 million. It also mentions a survey by the Sutherland Institute showing that Utah voters prefer elected officials to decide congressional maps. Additionally, it lists five Democratic candidates in the D1 2025 race, including State Sen. Nate Blouin, who announced his candidacy on Nov. 24 and is backed by Bernie. This information could be relevant to predicting whether Nate Blouin will be the Democratic nominee for UT-01.
-
+Summary: The article discusses the recent legal affirmation of Utah's new congressional map, which establishes a strong Democratic district in northern Salt Lake County. This development significantly impacts Utah's four Republican incumbents, who now face decisions about where to run in 2026. While most have remained silent about their plans until the new boundaries were finalized, Rep. Blake Moore has already begun shifting his focus to the new 2nd District, indicating some incumbents are adjusting their strategies. The article does not mention Nate Blouin or provide specific details about potential Democratic nominees for UT-01, so it does not offer direct information about his candidacy.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?
 
 **Market ID:** 0x6bb7b47236aafe3cde3389214c31055abaa815b7170d9c12dcbea43b8a884925
-**Researched At:** March 3, 2026 at 02:56:30 PM UTC
+**Researched At:** March 11, 2026 at 04:19:35 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?"
 
 ---
@@ -9,42 +9,49 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 9.1¢
+**Expected Value:** 12.0¢
 
 ### Summary
 
-Recent polls show Rodriguez trailing better-known Democrats with only 25% name ID and no top-tier support, suggesting her win probability is closer to 10–15% rather than 23%. The market likely overstates her chances by roughly 10–13 cents, yielding ~9¢ expected value.
+Recent Marquette and WKOW polls show Rodriguez at 6–22% support with very low name recognition and no clear path to overtake Barnes or Hong, yet the market prices her at 35%. This 13–29 point gap between implied win odds and public polling suggests the market is likely overpriced by roughly 15 cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market resolves YES if Sara Rodriguez wins the August 11, 2026 Democratic primary for Wisconsin governor (outright or via any run-off). It resolves NO otherwise (including “Other” if the primary fails to occur). To hit YES, Rodriguez must outperform all Democratic rivals on primary day.
+This market asks whether Lt. Gov. Sara Rodriguez will emerge as the winner of the August 11, 2026 Wisconsin Democratic primary for governor (including any run-off). It resolves to YES if Rodriguez is officially declared the nominee by the Wisconsin Democratic Party (or by overwhelming credible media consensus), and NO otherwise.
 
 2. EVIDENCE EVALUATION  
-Bearish indicators (suggest price is too high):  
-• Marquette (Feb 2026) finds Rodriguez at just 25% name recognition and +1 net favorability, trailing multiple better-known contenders.  
-• Marquette Law School poll (65% undecided; no candidate >11%) names Mandela Barnes, Francesca Hong, David Crowley, and Kelda Roys as top prospects—Rodriguez is not listed among leading candidates.  
-• Historical volatility in crowded Wisconsin primaries suggests an underdog with low early visibility rarely wins.
-
-Bullish indicators (supporting 23% or higher):  
-• Incumbent Lt. Gov. status gives Rodriguez fundraising and endorsement advantages not yet reflected in polls.  
-• Early stage (5 months out) means undecided voters could swing once campaigns accelerate.  
-
-Source credibility/recency: All polls are from Feb 2026 and credible (Marquette University Law School, statewide media analysis).
+Bullish on Rodriguez (arguing market is reasonably or even underpriced):  
+• 65% of Democratic primary voters remain undecided (Marquette LS poll, 2/25), leaving ample runway for Rodriguez to surge.  
+• As incumbent lieutenant governor she has an institutional base, and her camp is targeting a digital-first strategy to raise name recognition.  
+Bearish on Rodriguez (arguing market is overpriced):  
+• Marquette LS poll (2/25) shows Rodriguez at only 6% support versus Barnes/Hong at ~11–12% each.  
+• A WKOW poll (2/25) finds just 33% name recognition and ~22% support, still well below implied win odds.  
+• No evidence of major endorsements or fundraising hauls that would move her from fringe to frontrunner status.  
+Source credibility is high for the Marquette poll and WKOW reporting; both are within two weeks of the market snapshot. The fact that multiple, independent polls show her well behind suggests the market’s 35% relies heavily on the large undecided bloc and her office-holding status more than hard support data.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 23% price could reflect a consensus that Rodriguez, as a sitting Lt. Gov., has a non-negligible shot in a fluid field. Low volume suggests either broad agreement (little incentive to trade small edges) or lack of engagement by more informed speculators. The tight spread argues that one or two traders are anchoring price but not being challenged.
+• A 35% price could reflect a “dark horse” equilibrium: acknowledging her low current support but pricing in volatility among undecided voters in a crowded primary.  
+• However, total trading volume is low ($4.6 K), so it’s plausible that a handful of traders with bullish priors about her candidacy have skewed the price upward.  
+• If the market collectively believed she had closer to a one‐in-three chance, we would likely see more volume as bears and arbitrageurs traded against it. The tight spread with low volume hints at limited engagement by skeptics rather than broad consensus.
 
 4. MISPRICING ASSESSMENT  
-Current evidence points to Rodriguez’s win probability closer to 10–15% given her low name ID and the field’s competitiveness. A 23% market price appears to overstate her chances by roughly 10–13 cents. While incumbency and campaign rollout could narrow this gap, there’s no sign that serious private polling or endorsements have shifted her odds materially above mid-teens.
+Weighing the evidence:  
+• The most concrete data (two polls, 2/25) place Rodriguez’s baseline support well below 20%.  
+• A 35% win probability implies she is nearly tied with one of the current frontrunners—an assertion not corroborated by public polling or endorsements.  
+• While uncertainty is high, other long-shots in crowded primaries typically trade below 25% until they show momentum.  
+This suggests the market is likely overstating her true chances by around 15 cents or more.  
+
+⚠️ CRITICAL CHECK  
+Could we be missing a major endorsement or fundraising event? None appears in the last two weeks of credible reporting. The resolution criteria are straightforward: win the primary. There is no technicality that would boost her odds outside of polling or campaign developments.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence (polls, field analysis): ~70%  
-Estimated mispricing magnitude: ~13¢  
-Expected value ≈ 0.70 × 13¢ ≈ 9.1¢
+Strength of evidence (polling gap): 80%  
+Magnitude of mispricing (35% minus a plausible ~20% true win probability): 15 cents  
+Expected value = 0.8 × 15 cents = 12 cents
 
-EXPECTED_VALUE: 9.1  
-SUMMARY: Recent polls show Rodriguez trailing better-known Democrats with only 25% name ID and no top-tier support, suggesting her win probability is closer to 10–15% rather than 23%. The market likely overstates her chances by roughly 10–13 cents, yielding ~9¢ expected value.  
+EXPECTED_VALUE: 12.0  
+SUMMARY: Recent Marquette and WKOW polls show Rodriguez at 6–22% support with very low name recognition and no clear path to overtake Barnes or Hong, yet the market prices her at 35%. This 13–29 point gap between implied win odds and public polling suggests the market is likely overpriced by roughly 15 cents.  
 CONFIDENCE: medium
 
 ---
@@ -57,28 +64,30 @@ Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban M
 Author: Rich Kremer
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
-Summary: A recent Marquette University Law School poll indicates that while former Lt. Gov. Mandela Barnes has the highest name recognition among Democratic candidates for Wisconsin governor in 2026, he is not the clear favorite among Democratic voters. Other notable contenders include Madison State Rep. Francesca Hong, Milwaukee County Executive David Crowley, and Madison State Sen. Kelda Roys. The poll also shows most voters remain undecided at this stage. Regarding Sara Rodriguez, the poll does not specify her current standing or likelihood of winning the primary, suggesting she is not among the leading candidates based on name recognition or voter preference at this time.
+Summary: The recent Marquette University Law School poll indicates that among Democratic primary voters, Sara Rodriguez currently has only 6% support, significantly behind frontrunners Francesca Hong and Mandela Barnes, who are essentially tied at around 11-12%. Additionally, 65% of Democratic voters remain undecided, and overall name recognition for Barnes is higher than 50%, though this has not translated into a decisive lead. Given the high level of voter indecision and the relatively low support for Rodriguez at this stage, it is unlikely she will win the Democratic primary unless her support increases substantially before the election.
 
-Title: Democratic governor candidates face 'I don't know' voters | Gilbert
+Title: Milwaukee Journal Sentinel - Milwaukee and Wisconsin breaking news and investigations
 Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.jsonline.com/story/news/politics/analysis/2026/02/27/democratic-governor-candidates-face-i-dont-know-voters-gilbert/88858759007/
-Summary: The article discusses the current state of the Democratic primary race for Wisconsin governor, highlighting that with six months until the August 2026 election, there is no clear frontrunner. A recent Marquette Law School poll shows that 65% of Democratic voters are undecided, and no candidate has more than 11% support. The field is large but low-profile, with most candidates lacking significant name recognition, and only one candidate, Mandela Barnes, has a name ID above 50%. Given the high level of voter indecision and the lack of a dominant candidate at this stage, it is difficult to predict whether Sara Rodriguez, or any specific candidate, will secure the nomination. The race remains highly unpredictable due to low voter awareness and the absence of a clear leader.
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://m.jsonline.com/story/news/politics/2026/02/25/governor-hopeful-sara-rodriguez-seeks-to-target-social-media/88842127007/
+Summary: The provided webpage primarily covers local Milwaukee news, investigations, political commentary, community events, and sports updates. It does not contain specific information about Sara Rodriguez or details related to the 2026 Wisconsin Governor Democratic primary election. Therefore, there is no relevant data on her candidacy, campaign status, or electoral prospects to inform predictions about her potential victory in the primary.
 
-Title: No clear front-runner in Wisconsin governor's race
-Author: Brittany Carloni / Wisconsin Watch
-Published Date: 2026-01-26T00:00:00.000Z
-URL: https://wisconsinwatch.org/2026/01/in-wisconsin-governors-race-democrats-have-a-range-of-options-with-no-clear-front-runner/
-Summary: The 2026 Wisconsin Democratic gubernatorial primary remains highly competitive, with no clear front-runner emerging. Recent fundraising reports and candidate performances at a Milwaukee small business forum indicate a crowded field featuring diverse candidates such as Lt. Gov. Sara Rodriguez, Milwaukee County Executive David Crowley, Rep. Francesca Hong, Sen. Kelda Roys, and others. The race is still in flux less than 200 days before the primary, making it difficult to predict whether Sara Rodriguez will secure the nomination. Historically, Wisconsin primaries can be unpredictable, especially with multiple candidates vying for the nomination.
+Title: Who’s leading in Wisconsin’s race for governor?
+Author: KIMBERLY WETHAL kwethal@madison.com
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://wiscnews.com/news/state-regional/government-politics/elections/article_1d2d8f68-861d-50f5-b137-780cc8901025.html
+Summary: The article reports that in the Wisconsin governor race, Democratic candidate Mandela Barnes, a former Lieutenant Governor, currently leads among Democrats according to a Marquette Law School poll. While specific details about Sara Rodriguez's standing are not provided, the poll indicates Barnes is the frontrunner in the Democratic primary. Therefore, based on current polling data, Sara Rodriguez's chances appear less favorable compared to Barnes, but the outcome remains uncertain as the primary approaches.
 
-Title: New Marquette Law School Poll finds large majority of Wisconsin ...
-Published Date: 2025-10-29T00:00:00.000Z
-URL: https://www.marquette.edu/news-center/2025/new-marquette-law-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-2026-elections.php
-Summary: The recent Marquette Law School Poll indicates that most Wisconsin voters are still largely unaware of the 2026 gubernatorial candidates, including Sara Rodriguez. Recognition of Democratic primary contenders is modest, with Rodriguez recognized by 25% of voters and holding a positive net favorability of just 1 point—similar to her main competitor, David Crowley. Overall, both candidates have only slight positive favorability, and over 60% of voters remain undecided or lack sufficient opinion about them. Given the low recognition and marginal favorability ratings at this early stage, it is difficult to predict whether Sara Rodriguez will secure the Democratic primary, as voter awareness and opinions are still forming.
+Title: About two-thirds of voters undecided in Democratic, Republican gubernatorial primaries | Race for Governor | wkow.com
+Author: Caroline Dade
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://www.wkow.com/news/governor-race/about-two-thirds-of-voters-undecided-in-democratic-republican-gubernatorial-primaries/article_7e170555-8db7-4fbe-85b9-910cae089d43.html
+Summary: The current polling data indicates that Sara Rodriguez, the current Lieutenant Governor, has a relatively low name recognition among Democratic primary voters, with only 33% familiar with her and 22% supporting her. The Democratic primary is highly competitive and crowded, with 65% of voters still undecided and no candidate holding a significant lead. Given that most voters have not formed a clear opinion about the candidates and that Rodriguez's support is modest at this stage, it is uncertain whether she will secure the nomination. Her chances will likely depend on her ability to increase name recognition and sway undecided voters before the primary on August 11, 2026.
 
-Title: Rodriguez is the first Democrat to officially enter the 2026 race ...
-Published Date: 2025-07-25T00:00:00.000Z
-URL: https://www.facebook.com/NewsChannel7/posts/rodriguez-is-the-first-democrat-to-officially-enter-the-2026-race-several-others/1060244539583985/
-Summary: Sara Rodriguez has officially entered the 2026 race, becoming the first Democrat to do so. While this marks her as a notable candidate, there is no specific information in the provided content about her campaign prospects, support base, or the competitive landscape of the Wisconsin Democratic primary. Therefore, predicting her likelihood of winning the 2026 Wisconsin Governor Democratic primary based solely on this information is not possible. Additional details about her campaign platform, endorsements, polling, and the field of competitors would be necessary for an informed prediction.
+Title: Dem candidate for governor Sara Rodriguez wants to target social media platforms - Worldnews.com
+Author: 
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://article.wn.com/view-lemonde/2026/02/25/Dem_candidate_for_governor_Sara_Rodriguez_wants_to_target_so_v/
+Summary: Sara Rodriguez, a Democratic candidate for Wisconsin governor, has expressed intentions to focus on social media platforms as part of her campaign strategy. While specific polling data or electoral forecasts are not provided, her emphasis on social media suggests she aims to engage voters digitally and increase her visibility. Her success in the 2026 Democratic primary may depend on her ability to effectively leverage these platforms, connect with the electorate, and distinguish herself among other candidates.
 
 

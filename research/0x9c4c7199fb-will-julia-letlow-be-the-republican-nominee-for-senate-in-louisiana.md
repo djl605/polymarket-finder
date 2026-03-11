@@ -1,7 +1,7 @@
 # Research: Will Julia Letlow be the republican nominee for Senate in Louisiana?
 
 **Market ID:** 0x9c4c7199fbf5ff25547c254ed3dddb63e93840f566c2bf5bc1680cc4dfa41b6b
-**Researched At:** March 1, 2026 at 06:04:17 AM UTC
+**Researched At:** March 11, 2026 at 04:19:42 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Julia Letlow be the republican nominee for Senate in Louisiana?"
 
 ---
@@ -9,47 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Letlow’s strong Trump and Landry endorsements justify a high win probability, while Cassidy’s incumbency tempers it. No credible new data suggests a >20¢ gap, so the 68% price appears reasonable.
+Endorsements and fundraising/poll leads support Letlow as a modest favorite, but incumbency factors and runoff risk justify the market’s 57% probability. No strong, overlooked evidence suggests a materially different price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Julia Letlow will win the Louisiana Republican Senate primary. A YES requires her to (a) decide to run, (b) campaign successfully against incumbent Bill Cassidy (and any other GOP challengers), and (c) finish as the Republican nominee. A NO covers Cassidy or any other Republican winning, or no primary occurring.
+The market asks whether Julia Letlow will win the May 16, 2026 Louisiana Republican U.S. Senate primary (i.e. become the GOP nominee). A YES means she either wins outright or emerges victorious in any required runoff; a NO means any other Republican (Cassidy, Fleming, Spencer, etc.) wins or that no primary occurs.
 
 2. EVIDENCE EVALUATION  
-Bullish on Letlow (suggesting price could be too low):  
-- 2026-01-20 CNN Newsource: Trump formally endorsed Letlow, a major boost among GOP primary voters (highly credible, recent).  
-- 2026-02-25 nola.com: Governor Landry’s active support improves her fundraising and party-line credibility.  
-- Letlow’s grassroots machinery and previous electoral success imply she can mobilize voters in a GOP-dominant state.
+Bullish (supporting >57%):  
+• Letlow has high-profile endorsements from Governor Landry and former President Trump, both very influential with Louisiana Republicans.  
+• Ballotpedia notes she leads in fundraising and polling among the four declared GOP candidates.  
 
-Bearish on Letlow (suggesting price could be too high):  
-- 2026-02-14 KTBS: Cassidy is a two-term incumbent with an $8.7M war chest and established network, making her uphill.  
-- 2025-07-18 nola.com: Her decision to run was still uncertain mid-2025, indicating some risk she might pursue a different path (reelection or academia).  
+Bearish (supporting <57%):  
+• Incumbent Sen. Cassidy retains name recognition and his own base.  
+• John Fleming remains a known statewide figure and critic of “establishment” meddling.  
+• Louisiana primaries can be unpredictable and may require a runoff; early endorsements don’t guarantee primary victory.  
+• No concrete poll margins; “leading in polls” doesn’t reveal how large or durable the lead is.  
 
-No single finding suggests a >20¢ mispricing. The endorsements and traction look priced in at ~68%, and Cassidy’s strengths are well-known to traders.
+Source credibility and recency: all items are from early March 2026 and from established local and national outlets (Yahoo, NOLA.com, Ballotpedia, KNOE). None provide detailed numbers on polling spreads.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 68% price plausibly combines strong Trump and Landry endorsements (+40–50% boost) with a discount for Cassidy’s incumbency.  
-• Low $3.6K volume and narrow 6¢ spread imply a few informed players set the price, but consensus on Letlow’s edge is consistent with public reporting.  
-• The outcome isn’t trivial enough to deter all traders, nor so obvious as to leave the price unchallenged.
+A 57% price could reflect:  
+• Genuine consensus that endorsements plus poll leads give Letlow a modest favorite status.  
+• Caution built in for Cassidy’s incumbency and the chance of a runoff.  
+
+Low volume suggests limited trader engagement—either because the outcome seems “obvious” to a few informed traders or because many have not yet formed a strong view.  
 
 4. MISPRICING ASSESSMENT  
-There is no clear, credible information missing that would shift the probability by >20 points. Endorsements, fundraising, and campaign dynamics are public; Cassidy’s strengths are well known. Thus, no substantial mispricing detected.
+No clear, specific evidence is missing that would shift the probability by more than a few cents. Endorsements are already public; leading in fundraising/polls is priced in; primary unpredictability and a possible runoff justify discounting from certainty.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 40% (limited edge beyond already publicized developments)  
-Magnitude of mispricing: 5¢ (max plausible gap)  
-Expected value: 0.40 × 5¢ = 2¢
+Strength of evidence for mispricing: 20% (little missing actionable info)  
+Possible mispricing magnitude: 5¢ (if anything)  
+Expected value = 0.20 × 5¢ = 1¢  
 
-6. CONFIDENCE  
-medium
-
-EXPECTED_VALUE: 2.0  
-SUMMARY: Letlow’s strong Trump and Landry endorsements justify a high win probability, while Cassidy’s incumbency tempers it. No credible new data suggests a >20¢ gap, so the 68% price appears reasonable.  
+EXPECTED_VALUE: 1  
+SUMMARY: Endorsements and fundraising/poll leads support Letlow as a modest favorite, but incumbency factors and runoff risk justify the market’s 57% probability. No strong, overlooked evidence suggests a materially different price.  
 CONFIDENCE: medium
 
 ---
@@ -58,37 +58,32 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Who will win the 2026 Louisiana Republican Senate nomination?
+Title: Julia Letlow lands key endorsement in Louisiana Senate race
+URL: https://www.yahoo.com/news/articles/julia-letlow-lands-key-endorsement-155931695.html
+Summary: Julia Letlow has received a significant endorsement from Louisiana Governor Jeff Landry, who, along with President Trump, supports her bid for the U.S. Senate in Louisiana's upcoming May 5 GOP primary. Landry emphasized her character, resilience, and alignment with Louisiana values, positioning her as a strong contender against incumbent Senator Bill Cassidy and other candidates like John Fleming. While the race is currently tight, the backing from prominent Republican figures suggests she is a leading candidate to secure the Republican nomination.
+
+Title: Jeff Landry endorses Julia Letlow to unseat Bill Cassidy | Local Politics | nola.com
+Author: Matt Albright
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://nola.com/news/politics/jeff-landry-endorses-julia-letlow-bill-cassidy/article_718f12eb-b2e1-40f3-8832-1188e53435ea.html
+Summary: Governor Jeff Landry has publicly endorsed Rep. Julia Letlow’s campaign to unseat incumbent Republican U.S. Senator Bill Cassidy in Louisiana. Landry’s support, aligned with former President Trump’s backing, indicates strong Republican establishment backing for Letlow. However, her main Republican competitors include State Treasurer John Fleming, who opposes gubernatorial influence in the race, and Cassidy himself. While Landry’s endorsement suggests she is a significant contender, the presence of other established Republican candidates and the ongoing primary dynamics mean her securing the nomination is not guaranteed.
+
+Title: Governor Jeff Landry endorses Julia Letlow for Senate
+Author: Madison Remrey
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.knoe.com/2026/03/04/governor-jeff-landry-endorses-julia-letlow-senate/
+Summary: Louisiana Governor Jeff Landry endorsed Congresswoman Julia Letlow for the upcoming Senate race, citing her as a "warrior" who aligns with the President's agenda. Letlow has expressed gratitude for the endorsement. However, her candidacy faces criticism from other prominent figures: State Treasurer John Fleming alleges that Landry is heavily involved in lobbying efforts and campaign support for Letlow, including fundraising activities. Incumbent Senator Bill Cassidy has publicly criticized Letlow, labeling her as "Nancy Pelosi 2.0" and accusing her campaign of illegal activities. The primary election is scheduled for May 16, 2026. These dynamics suggest a contested and potentially contentious Republican primary, with significant party and intra-party opposition that could influence Letlow's chances of securing the nomination.
+
+Title: Louisiana Gov. Jeff Landry endorses Julia Letlow over Cassidy in Senate
 Author: 
-URL: https://www.predictit.org/markets/detail/8393/Who-will-win-the-2026-Louisiana-Republican-Senate-nomination
-Summary: The PredictIt market discusses the potential candidates for the 2026 Louisiana Republican Senate nomination, with a focus on Julia Letlow. As of now, Letlow is considered a strong contender due to her established political presence and support within the party. Factors influencing her nomination prospects include her previous electoral success, endorsements from key Republican figures, and her ability to mobilize grassroots support. Additionally, the dynamics of the Republican primary, including competition from other candidates and voter sentiment, will play a crucial role in determining whether Letlow secures the nomination. Monitoring these elements will provide insights into her chances of becoming the Republican nominee for the Senate in Louisiana.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://eu.donaldsonvillechief.com/story/news/2026/03/04/louisiana-governor-jeff-landry-joins-trump-endorsing-julia-letlow-over-bill-cassidy-in-senate-race/88978954007/
+Summary: Louisiana Governor Jeff Landry has officially endorsed Congresswoman Julia Letlow in the upcoming Republican primary for U.S. Senate, aligning with former President Trump’s support for her over incumbent Senator Bill Cassidy. Landry praised Letlow’s character and resilience, emphasizing her alignment with Louisiana values and her ability to stand firm against attacks, including a super PAC campaign labeling her as "Liberal Letlow." This endorsement suggests strong backing within the Republican establishment, potentially boosting her prospects to secure the GOP nomination in the May 5 primary.
 
-Title: Jeff Landry helps Julia Letlow against Bill Cassidy | Local Elections | nola.com
-Author: Tyler Bridges
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://nola.com/news/politics/elections/jeff-landry-julia-letlow-bill-cassidy-fundraising-endorsements/article_a36132d9-7c8a-47af-a099-be10b8f83f99.html
-Summary: The article discusses the political dynamics surrounding Julia Letlow's candidacy for the U.S. Senate in Louisiana, particularly in relation to her competition against incumbent Bill Cassidy. Jeff Landry, a prominent Republican figure, is supporting Letlow's campaign, which could enhance her visibility and credibility within the party. The backing from Landry may indicate a strategic alignment among Louisiana Republicans, potentially influencing the nomination process. 
-
-Factors to consider in predicting Letlow's chances include her support from key party members like Landry, her campaign strategies, public reception, and Cassidy's incumbency. The article suggests that Letlow's candidacy is gaining traction, but the ultimate decision will depend on the broader Republican electorate's sentiment as the election approaches.
-
-Title: With Trump's backing, Rep. Julia Letlow launches a primary ... - KESQ
-Author: CNN Newsource
-Published Date: 2026-01-20T00:00:00.000Z
-URL: https://kesq.com/news/national-politics/cnn-us-politics/2026/01/20/with-trumps-backing-rep-julia-letlow-launches-a-primary-challenge-against-louisiana-sen-bill-cassidy/
-Summary: Rep. Julia Letlow has officially launched a primary challenge against incumbent Louisiana Senator Bill Cassidy, with the endorsement of former President Donald Trump. This backing could significantly bolster her candidacy, as Trump's influence remains strong among Republican voters. Letlow's campaign will likely focus on appealing to conservative values and addressing key issues relevant to Louisiana constituents. The dynamics of the primary race, including Cassidy's incumbency and Letlow's ability to mobilize support, will be critical factors in determining whether she can secure the Republican nomination for Senate.
-
-Title: Rancor ratchets up between Cassidy, Letlow with the US Senate field set | Louisiana | ktbs.com
-Author: Piper Hutchinson
-Published Date: 2026-02-14T00:00:00.000Z
-URL: http://ktbs.com/news/louisiana/rancor-ratchets-up-between-cassidy-letlow-with-the-us-senate-field-set/article_ce5d5e0e-c471-5ffd-84f4-64ee5e2a72c2.html
-Summary: The article discusses the escalating tensions between U.S. Senator Bill Cassidy and Congresswoman Julia Letlow as the race for the Republican nomination for the U.S. Senate in Louisiana heats up. Letlow, who is positioning herself as a strong contender, has been vocal about her ambitions and has garnered significant support from key Republican figures. Cassidy, on the other hand, is an established incumbent, which could complicate Letlow's path to nomination. The dynamics of their rivalry, including public statements and campaign strategies, may influence Letlow's chances of securing the nomination. Overall, the article suggests that while Letlow has potential, Cassidy's incumbency and established political network present formidable challenges.
-
-Title: Will Julia Letlow seek reelection or challenge Bill Cassidy?
-Author: Tyler Bridges
-Published Date: 2025-07-18T00:00:00.000Z
-URL: https://www.nola.com/news/politics/julia-letlow-reelection-bill-cassidy-louisiana/article_3c33575d-0c67-4d8b-a84a-740a45ac82bc.html
-Summary: Julia Letlow's potential candidacy for the Republican nomination for Senate in Louisiana is currently uncertain, as she weighs three options: running for reelection in the House, challenging incumbent Senator Bill Cassidy, or returning to academia. Letlow, who has gained popularity among Republicans, is seen as a strong candidate if she decides to run against Cassidy, particularly if she receives an endorsement from former President Trump. Political insiders suggest that Trump's support could significantly influence her decision and campaign funding.
-
-Cassidy, who is seeking a third term, has a substantial campaign war chest of $8.7 million and is working to solidify his standing with Trump and conservative voters. However, Letlow's connections, including support from Governor Jeff Landry, who is aligned with Trump, could bolster her chances if she enters the race. Ultimately, Letlow's decision will likely hinge on whether she feels she can secure Trump's endorsement, which many believe is crucial for her success against Cassidy and other Republican challengers.
+Title: Four candidates are running in the Republican primary for U.S. Senate in Louisiana - Ballotpedia News
+Author: 
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://news.ballotpedia.org/2026/03/06/four-candidates-are-running-in-the-republican-primary-for-u-s-senate-in-louisiana/
+Summary: Julia Letlow is a Republican candidate in the Louisiana U.S. Senate primary, with strong support from President Donald Trump and Governor Jeff Landry. She leads in fundraising and polling among the primary contenders, which include incumbent Bill Cassidy, John Fleming, and Mark Spencer. Given her current lead in key metrics and endorsements, she is a significant contender to secure the Republican nomination in the May 16, 2026, primary.
 
 

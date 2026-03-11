@@ -1,7 +1,7 @@
 # Research: Will Russia enter Rai-Oleksandrivka by March 31, 2026?
 
 **Market ID:** 0x343708712a490ba12021914b03fc5bd438be2dad9a1eee73cad8a4a5a3fb1111
-**Researched At:** March 2, 2026 at 02:54:44 PM UTC
+**Researched At:** March 11, 2026 at 04:17:45 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia enter Rai-Oleksandrivka by March 31, 2026?"
 
 ---
@@ -9,39 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 0.6¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Recent ISW assessments show no sign of a Russian ground offensive toward Rai-Oleksandrivka, making the 21% probability consistent with informed uncertainty; any mispricing appears minimal (~5–6¢) with low evidence strength.
+Recent ISW and United24 reports highlight Ukrainian counteroffensives stalling Russian advances in the Rai-Oleksandrivka sector, suggesting that a 25% probability is reasonable and not strongly mispriced. No clear evidence of an imminent Russian breakthrough is missing from the market price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Russian forces will capture any part of Rai-Oleksandrivka, Donetsk Oblast, as mapped by ISW (or, failing that, DeepStateMap) by 31 Mar 2026. A “Yes” resolution requires persistent shading on the ISW map under “Assessed Russian Control/Gains/Infiltration/Advance” or a bona fide negotiated transfer of control that’s actually enforced on the ground. A “No” resolution means no such shading appears by the cutoff.
+The market asks: Will Russian forces gain any territory in the village of Rai-Oleksandrivka (48.8088° N, 37.8573° E) in Donetsk Oblast by 11:59 PM ET on March 31, 2026? A “Yes” requires credible Russian control (permanent shading on ISW or equivalent) of any part of Rai-Oleksandrivka before the deadline and persisting through the next ISW update. A “No” means Russia never attains that control.
 
 2. EVIDENCE EVALUATION  
-Bullish (higher than 21%):  
-- Feb. 26 ISW: Russia’s large‐scale strikes in late Feb hint at intensifying operational pressure, which could presage a ground push.  
-- Feb. 20 ISW: Claims of 900 km² gained and 42 settlements seized suggest momentum that might continue into Donetsk, potentially reaching Rai-Oleksandrivka.  
-Bearish (lower than 21%):  
-- None of the five recent ISW assessments (Feb 5, 14, 20, 26, 27) mentions Russian forces operating near Rai-Oleksandrivka or any imminent offensives in Donetsk; the focus is on strikes against infrastructure and border security zones in Sumy/Kharkiv.  
-- Ongoing U.S.–Ukraine–Russia talks (Feb 5, 14) and Ukraine’s air‐defense successes (Feb 26) reduce the probability of an immediate Russian ground advance.  
-Source Credibility & Recency: All reports are ISW or ISW‐affiliated, dated late Feb 2026—highly credible and directly relevant. There’s no obvious data that the market has missed; the situation is simply uncertain and low‐visibility.
+Bullish for Russia (supports higher probability than 25%):  
+• ISW’s March 9 update notes Russian forces intensifying efforts in multiple sectors and “active advances” nearby, implying the potential for further gains. These generalized references could suggest a push toward Rai-Oleksandrivka over the next three weeks.  
+• The question timeline is short but not zero: Russia may reinforce in the sector and capitalize on any Ukrainian overextension elsewhere.
+
+Bearish for Russia (supports probability ≤ 25%):  
+• United24 report (March 10) details Ukrainian offensives reclaiming 400 sq km, including areas near Dnipropetrovsk, disrupting Russian spring plans. This positive Ukrainian momentum makes a new Russian gain less likely in the immediate term.  
+• ISW’s March 9 assessments (both summaries) emphasize successful Ukrainian counterattacks in western Zaporizhia Oblast (the broader area around Rai-Oleksandrivka), halting advances at Orikhiv, Novoyakolivka, and Lukyanivske. That suggests strong local defensive posture and low chance of a fresh Russian breakthrough over the next three weeks.  
+• No source specifically identifies a planned Russian operation targeting Rai-Oleksandrivka before March 31.
+
+Source credibility and recency: All sources (ISW, United24, Understanding War) are timely (March 5–10, 2026) and reputable for battlefield reporting. None provide explicit forecasts but do describe localized setbacks for Russia and momentum for Ukraine in the relevant sector.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 21% price plausibly reflects informed traders’ view that a targeted push into Rai-Oleksandrivka this spring is possible but not highly probable, given no public reports of Russian troop buildups or offensives in that sector. The low $6.4 K volume suggests few participants; however, the tight 6¢ spread implies the price is meaningful rather than random. It’s likely that the relative lack of detailed front‐line intel keeps the market range‐bound around ~20%.
+A 25% price plausibly reflects:  
+• A modest baseline chance of a Russian probe or opportunistic gain in a contested frontier village over the next three weeks, despite Ukrainian resistance.  
+• Low trading volume suggests this could be set by a few cautious traders rather than a broad consensus. However, there’s no obvious “hidden” intelligence glaringly undervalued here.
 
 4. MISPRICING ASSESSMENT  
-There is no concrete evidence of a mispricing exceeding a few cents. All available, highly credible ISW/DeepStateMap sources show no current Russian drive on Rai-Oleksandrivka. That suggests the 21% figure is reasonable, reflecting the tail risk of a broader offensive. Any mispricing is small (on the order of 5–6¢) and based on marginal or speculative information.
+The evidence does not identify a clear driver of a > 20 cent mispricing. All credible research points to Ukrainian counteroffensive strength in the vicinity, which if anything suggests the probability might be at or below 25%, not well above. Conversely, there is no new evidence of an imminent Russian assault that the market is ignoring. The current price appears within a reasonable range given the short timeframe and conflicting signals.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off by ~6¢: 10% (no clear missing info)  
-Magnitude of potential mispricing: 6 cents  
-Expected value ≈ 10% × 6 ¢ = 0.6 ¢
+• Strength of evidence for mispricing: ~20% (there’s a slight bearish tilt but no strong signal).  
+• Magnitude of mispricing if any: ~5 cents (price might be marginally high).  
+Expected value = 0.20 × 5 cents = 1 cent.
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: Recent ISW assessments show no sign of a Russian ground offensive toward Rai-Oleksandrivka, making the 21% probability consistent with informed uncertainty; any mispricing appears minimal (~5–6¢) with low evidence strength.  
+EXPECTED_VALUE: 1  
+SUMMARY: Recent ISW and United24 reports highlight Ukrainian counteroffensives stalling Russian advances in the Rai-Oleksandrivka sector, suggesting that a 25% probability is reasonable and not strongly mispriced. No clear evidence of an imminent Russian breakthrough is missing from the market price.  
 CONFIDENCE: low
 
 ---
@@ -50,94 +55,33 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Russian Offensive Campaign Assessment, Feb. 26, 2026 | ISW
+Title: Russian Offensive Campaign Assessment, March 5, 2026
 Author: Nadia Sleiman
-Published Date: 2026-02-27T00:00:00.000Z
-URL: http://isw.pub/UkrWar022626
-Summary: The Russian Offensive Campaign Assessment from February 26, 2026, highlights a significant escalation in Russia's military actions against Ukraine, particularly through extensive missile and drone strikes targeting energy infrastructure. On the night of February 25-26, Russia launched a massive assault involving 420 drones and 39 missiles, marking the fourth such large-scale strike in February alone. The Ukrainian Air Force reported successfully intercepting a substantial number of these projectiles, but some did manage to hit critical infrastructure across various regions, including Kyiv and Poltava.
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-5-2026/
+Summary: The assessment from March 5, 2026, indicates ongoing Ukrainian efforts to bolster air defense capabilities, including support from the United States and regional allies to counter Iranian Shahed drone strikes in the Middle East. Ukraine is actively providing equipment and specialists for air defense, and discussions are underway regarding the purchase of Ukrainian-made interceptor drones by the US and Gulf states. While these developments highlight Ukraine's military support initiatives, there is no specific information about Russian military movements or plans concerning Rai-Oleksandrivka. Therefore, based on this report, there is no direct evidence to predict whether Russia will enter Rai-Oleksandrivka by March 31, 2026.
 
-Given this context, predicting whether Russia will enter Rai-Oleksandrivka by March 31, 2026, involves considering several factors:
+Title: Ukraine Seizes the Initiative: 400+ sq km Liberated as Russia Prepares Major Offensive — UNITED24 Media
+Author: 
+Published Date: 2026-03-10T00:00:00.000Z
+URL: https://united24media.com/war-in-ukraine/ukraine-seizes-the-initiative-400-sq-km-liberated-as-russia-prepares-major-offensive-16703
+Summary: Ukraine has recently regained over 400 square kilometers of territory from Russian forces, marking a significant offensive success since 2024. Ukrainian troops have reclaimed more land in a single month than Russia managed to seize during the same period, disrupting Russia’s planned spring-summer campaign. The ongoing operations include the recapture of key regions such as Dnipropetrovsk, with some villages still under Ukrainian control as the offensive continues. Given this momentum, the situation suggests active Ukrainian resistance and territorial gains in the area around Rai-Oleksandrivka, making a Russian entry into that location by March 31, 2026, uncertain but potentially less likely if Ukrainian advances persist.
 
-1. **Military Strategy**: The ongoing large-scale attacks suggest that Russia is intensifying its offensive capabilities, which could indicate a push to secure more territory, including Rai-Oleksandrivka.
-
-2. **Ukrainian Defense**: The effectiveness of Ukrainian air defenses, which managed to down a significant number of incoming threats, will play a crucial role in determining Russia's ability to advance.
-
-3. **Operational Focus**: The current focus on energy infrastructure may indicate that Russia is attempting to weaken Ukraine's logistical and operational capabilities before making ground advances.
-
-4. **Geopolitical Context**: Any shifts in international support for Ukraine or changes in Russian military strategy could also impact the likelihood of a Russian advance into Rai-Oleksandrivka.
-
-In summary, while the current military activity suggests
-
-Title: ISW Russian Offensive Campaign Assessment, Map and Update, February 27, 2026
+Title: ISW Russian Offensive Campaign Assessment, Map and Update, March 9, 2026
 Author: ISW
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.kyivpost.com/post/70928
-Summary: The ISW Russian Offensive Campaign Assessment from February 27, 2026, provides critical insights into the ongoing military situation in Ukraine, particularly regarding Russian operations and territorial ambitions. The report highlights the current state of Russian forces, their strategic objectives, and recent developments on the battlefield.
+Published Date: 2026-03-10T00:00:00.000Z
+URL: https://www.kyivpost.com/post/71576
+Summary: The March 9, 2026, assessment by the Institute for the Study of War (ISW) provides a detailed analysis of the ongoing Russian offensive in Ukraine, including current troop movements, territorial gains, and strategic objectives. While the report highlights active Russian advances and specific areas of engagement, it does not explicitly mention Rai-Oleksandrivka or provide precise predictions regarding Russian intentions to enter that location by March 31, 2026. However, the assessment indicates that Russian forces are intensifying efforts in certain sectors, which could suggest a likelihood of continued or escalated operations in nearby regions. To predict whether Russia will enter Rai-Oleksandrivka by the specified date, one should consider recent Russian military activity, logistical capabilities, and strategic priorities outlined in the assessment, alongside ongoing battlefield developments.
 
-Key points relevant to predicting whether Russia will enter Rai-Oleksandrivka by March 31, 2026, include:
-
-1. **Current Military Position**: The assessment details the locations and movements of Russian troops, including any recent advances or setbacks. Understanding the proximity of Russian forces to Rai-Oleksandrivka and their operational capabilities is crucial.
-
-2. **Strategic Objectives**: The report outlines Russia's broader military goals in the region, which may indicate their likelihood of attempting to capture specific locations like Rai-Oleksandrivka.
-
-3. **Recent Engagements**: Information on recent clashes or territorial gains/losses can provide context on the momentum of Russian forces and their potential to push into new areas.
-
-4. **Ukrainian Defense**: The strength and preparedness of Ukrainian defenses in Rai-Oleksandrivka will also play a significant role in determining the outcome of any Russian offensive.
-
-5. **External Factors**: Consideration of international support for Ukraine and any geopolitical developments that could influence Russian military decisions is also important.
-
-Overall, the ISW report serves as a valuable resource for assessing the likelihood of Russian advances in the coming weeks, particularly regarding specific
-
-Title: Russian Offensive Campaign Assessment, FEB 20, 2026 | ISW
+Title: Russian Offensive Campaign Assessment, March 9, 2026 | ISW
 Author: Adam Grace
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-20-2026/
-Summary: The Russian Offensive Campaign Assessment from February 20, 2026, indicates that Russian forces are actively claiming territorial gains in Ukraine, with Colonel General Sergei Rudskoy asserting that they have seized approximately 900 square kilometers and 42 settlements since the start of 2026. This includes significant claims of control in regions such as Sumy and northern Kharkiv Oblast. The Kremlin is engaging in cognitive warfare, attempting to project an image of inevitable Russian victory to sway Western support away from Ukraine.
+Published Date: 2026-03-10T00:00:00.000Z
+URL: https://isw.pub/UkrWar030926
+Summary: The assessment indicates that Ukrainian forces are successfully counterattacking in multiple directions, including western Zaporizhia Oblast, which may disrupt Russia's planned Spring-Summer 2026 offensive. Specifically, Russian advances near Orikhiv and south of Zaporizhzhia City have been halted or pushed back by Ukrainian counterattacks. Ukrainian forces have recaptured territories such as Novoyakolivka and Lukyanivkse and are actively resisting Russian attempts to advance near Orikhiv, particularly around Bilohirya, Mala Tokmachka, Robotyne, and Danylivka. Given these ongoing counteroffensives and the current Russian setbacks, it appears unlikely that Russia will successfully enter Rai-Oleksandrivka by March 31, 2026, without significant changes in the battlefield dynamics.
 
-To predict whether Russia will enter Rai-Oleksandrivka by March 31, 2026, consider the following factors:
-
-1. **Current Territorial Claims**: The assessment highlights ongoing Russian advances and claims of control over various settlements, which may indicate a strategic push towards Rai-Oleksandrivka.
-
-2. **Military Strategy**: The establishment of a security zone along the Ukraine-Russia border suggests a methodical approach to securing territory, which could include Rai-Oleksandrivka if it aligns with their operational goals.
-
-3. **Kremlin's Narrative**: The emphasis on projecting battlefield success may influence operational decisions, potentially leading to increased efforts to capture key locations like Rai-Oleksandrivka.
-
-4. **Response from Ukrainian Forces**: The effectiveness of Ukrainian defenses and counter-offensives in the region will also play a critical role in determining the feasibility of a Russian advance into Rai-Oleksandrivka.
-
-Overall, while there are
-
-Title: Russian Offensive Campaign Assessment, February 5, 2026
+Title: Russian Offensive Campaign Assessment, March 9, 2026 | ISW
 Author: Adam Grace
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-5-2026/
-Summary: The "Russian Offensive Campaign Assessment" from February 5, 2026, highlights ongoing trilateral talks among the US, Ukraine, and Russia, which are crucial for understanding the dynamics of the conflict. Ukrainian officials describe these discussions as "constructive," indicating a potential for diplomatic progress. However, the Kremlin is actively seeking to undermine Western security guarantees for Ukraine, with Russian Foreign Minister Sergei Lavrov labeling these guarantees as an ultimatum and suggesting that Ukraine might stage a false flag operation.
-
-Given this context, predicting whether Russia will enter Rai-Oleksandrivka by March 31, 2026, hinges on several factors:
-
-1. **Diplomatic Developments**: The outcomes of the ongoing negotiations in Abu Dhabi could influence Russia's military decisions. If talks yield significant agreements, it may deter aggressive actions.
-
-2. **Russian Strategy**: The Kremlin's rejection of security guarantees and its narrative framing suggest a willingness to escalate if it perceives threats to its interests. This could lead to military actions, including attempts to capture strategic locations like Rai-Oleksandrivka.
-
-3. **Military Readiness**: Monitoring Russian troop movements and military readiness in the region will be critical. Any signs of increased military activity could indicate preparations for an offensive.
-
-4. **Ukrainian Defense Capabilities**: The effectiveness of Ukrainian defenses and their ability to respond to Russian advances will also play a crucial role in determining the outcome in Rai-Oleksandrivka.
-
-In
-
-Title: Russian Offensive Campaign Assessment, February 14, 2026 | ISW
-Author: Nadia Sleiman
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-14-2026/
-Summary: The "Russian Offensive Campaign Assessment" from February 14, 2026, provides insights into the ongoing conflict dynamics between Russia and Ukraine, which could be relevant for predicting whether Russia will enter Rai-Oleksandrivka by March 31, 2026. 
-
-Key points include:
-
-1. **Ukrainian Stance**: President Volodymyr Zelensky has expressed Ukraine's willingness to compromise in upcoming US-Ukrainian-Russian talks. He emphasized the need for a two-month ceasefire and security guarantees before any elections can be held in Ukraine. This indicates Ukraine's strategic focus on securing its position before making territorial concessions.
-
-2. **Russian Demands**: Russian officials assert that the barriers to a peace agreement extend beyond territorial claims. This suggests that Russia may have broader strategic objectives that could influence its military actions, including potential advances into contested areas like Rai-Oleksandrivka.
-
-3. **Military Context**: The assessment does not provide specific military movements or timelines but highlights the ongoing negotiations and the importance of security guarantees in any future agreements. The lack of a clear resolution or ceasefire could lead to continued military operations by Russia.
-
-In summary, the outcome of the upcoming talks and the establishment of a ceasefire will be critical in determining Russia's military actions, including the potential entry into Rai-Oleksandrivka by the end of March 2026.
+Published Date: 2026-03-10T00:00:00.000Z
+URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-9-2026/
+Summary: The March 9, 2026, assessment indicates that Ukrainian forces are actively counterattacking in multiple directions, including western Zaporizhia Oblast, which encompasses the Rai-Oleksandrivka area. Ukrainian operations have successfully halted Russian advances near Orikhiv and south of Zaporizhzhia City, while pushing Russian forces out of key positions such as Novoyakolivka and Lukyanivkse. Russian efforts to advance near Orikhiv have been unsuccessful so far. Given these ongoing Ukrainian counterattacks and disruptions to Russian offensive plans, it is uncertain whether Russia will be able to enter Rai-Oleksandrivka by March 31, 2026, as Ukrainian resistance appears to be intensifying and may impede Russian progress in the region.
 
 

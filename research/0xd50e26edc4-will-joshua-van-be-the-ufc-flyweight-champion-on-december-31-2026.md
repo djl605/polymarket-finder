@@ -1,7 +1,7 @@
 # Research: Will Joshua Van be the UFC Flyweight Champion on December 31, 2026?
 
 **Market ID:** 0xd50e26edc4c7d5d2bfa9edcbeec411d65b174be95cfde2455aa86731a2c4d036
-**Researched At:** March 3, 2026 at 02:56:37 PM UTC
+**Researched At:** March 11, 2026 at 04:20:05 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Joshua Van be the UFC Flyweight Champion on December 31, 2026?"
 
 ---
@@ -9,43 +9,47 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-The market price (~33%) reasonably balances Joshua Van’s strong momentum and skill against credible expert forecasts of challengers reclaiming the belt and injury/defense risk over a ten-month horizon. There is no clear, unpriced information suggesting a large (>5¢) edge.
+Given Van’s recent title win, his upcoming April defense, and the flyweight division’s volatility, a ~24% chance of retaining the belt through year-end 2026 is reasonable. There is no strong, credibly missing information to justify a significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Joshua Van will hold the UFC Flyweight title on December 31, 2026 at 12 PM ET. A “YES” requires that he win (or vacate and reclaim) the championship and not lose or be stripped of it before that timestamp. A “NO” occurs if any other official champion holds the belt at that moment or if the belt is vacant (interim champions don’t count).
+This market asks whether Joshua Van will hold the official UFC Flyweight title at 12:00 PM ET on December 31, 2026.  
+- For “YES,” Van must (a) win the belt (he already did in December 2025), then (b) successfully defend it (or at least not lose or vacate) through at least April 2026 and any subsequent defenses up through year‐end.  
+- For “NO,” he must lose the title (via defeat, injury, or vacating) before that deadline, or the belt must be vacant at that time.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (supports a high probability):  
-• Van’s rapid ascent—fastest flyweight title finish ever and first 2000s-born champion.  
-• Four consecutive wins since December 2025 and a scheduled first defense (UFC 327 vs. Tatsuro Taira), backed up by multiple reputable outlets (MMA Fighting, ESPN, ClutchPoints).  
-• Demonstrated skillset (sharp striking, improved wrestling) and youth (24), suggesting room to grow.  
+Bullish points (suggesting >24%):  
+- Van’s rapid rise: 5–1 UFC record, decisive wins over Durden and Bunes, quick TKO of Pantoja for the belt.  
+- Strong metrics: high strike volume, takedown ability, one‐punch power.  
+- Upcoming title defense vs. Tatsuro Taira (April 11, 2026). If Van wins, he cements momentum.  
 
-Bearish evidence (suggests lower probability):  
-• Expert prediction (theScore, Jan 2026) that Alexandre Pantoja will be champion at end-2026, based on his past dominance and depth in the division.  
-• Upcoming challenger Tatsuro Taira is undefeated with elite grappling; other contenders (Kape, Horiguchi) loom later in the year.  
-• Injury risk and the fact that champions often lose belts in early defenses.  
+Bearish points (suggesting <24%):  
+- First defense is against a high-level submission specialist in Taira; outcome uncertain.  
+- Flyweight division is notoriously volatile; champions often lose belts quickly.  
+- Surviving multiple defenses over nine months increases upset risk.  
 
-All sources are recent (Jan–Feb 2026) and credible. None of the evidence is so one-sided that it could not already be priced in.  
+Source credibility: All articles are from late February 2026, reputable MMA outlets (MMA Fighting, ESPN) and a specialized MMA site (The Body Lock). No data contradicts the market’s uncertainty.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 33% probability can be interpreted as traders balancing Van’s momentum against strong challengers and injury/defense risk over a 10-month horizon. The tight spread (6¢) despite low volume suggests the price reflects at least some consensus rather than one outlier bet. That low volume may simply reflect that casual UFC bettors haven’t engaged, not that informed traders are missing key information.
+- A 24% probability implies the market views his multi-fight title run as unlikely but not negligible.  
+- Low volume/spread suggests few traders; but those engaged likely know MMA’s variability.  
+- The single most pivotal event (UFC 327) is unresolved, so there’s genuine uncertainty to bet on.
 
 4. MISPRICING ASSESSMENT  
-No obvious, unpriced fundamental factor emerges. Both upside (Van’s momentum) and downside (strong division, injury risk) seem well‐known and likely reflected in the mid-30s probability. With no evidence of a >20¢ mispricing and no hidden technicality in resolution criteria, it’s most charitable to assume the market efficiently aggregates known info.
+No clear, high-credibility evidence suggests the market is off by more than a few cents. The balance of Van’s skill and the flyweight’s upset frequency aligns with ~25%. No published odds or insider info imply he’s a heavy favorite or extreme underdog.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20% (no clear “edge” uncovered).  
-Magnitude of mispricing if present: ~5¢ (small given balanced bullish/bearish risk).  
-Expected value = 0.20 × 5 ¢ = 1 ¢
+Strength of evidence that price is off: ~10% (scant negative or positive edges beyond what the market already sees)  
+Magnitude of mispricing if any: ~2¢  
+Expected value = 10% × 2¢ = 0.2¢ ≈ 0¢
 
-EXPECTED_VALUE: 1  
-SUMMARY: The market price (~33%) reasonably balances Joshua Van’s strong momentum and skill against credible expert forecasts of challengers reclaiming the belt and injury/defense risk over a ten-month horizon. There is no clear, unpriced information suggesting a large (>5¢) edge.  
+EXPECTED_VALUE: 0  
+SUMMARY: Given Van’s recent title win, his upcoming April defense, and the flyweight division’s volatility, a ~24% chance of retaining the belt through year-end 2026 is reasonable. There is no strong, credibly missing information to justify a significant mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -54,34 +58,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Van wins UFC flyweight title after Pantoja injures arm | theScore.com
-Author: Nick Baldwin
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.thescore.com/mma/news/3421080/van-wins-ufc-flyweight-title-after-pantoja-injures-arm
-Summary: Joshua Van became the UFC Flyweight Champion on December 7, 2025, after Alexandre Pantoja suffered an arm injury just 26 seconds into their title fight at UFC 323. Van's victory marked the fastest finish in a flyweight title bout and made him the first UFC champion born in the 2000s, as well as the second-youngest champion in UFC history. Since his win, Van has established himself as a rising star with four consecutive wins, indicating strong momentum. However, predicting his status as champion on December 31, 2026, depends on future defenses, potential challengers, and injury status, which are not covered in this summary.
-
-Title: Predicting UFC champions at end of 2026 | theScore.com
-Author: Nick Baldwin
-Published Date: 2026-01-09T00:00:00.000Z
-URL: https://thescore.com/mma/news/3447525
-Summary: According to the predictions in the article, Alexandre Pantoja is expected to be the UFC Flyweight Champion at the end of 2026. The current champion, Joshua Van, lost the title to Pantoja at UFC 323 in December 2022, and the division remains open with several contenders like Manel Kape, Tatsuro Taira, and Kyoji Horiguchi vying for the title. The prediction suggests that Pantoja, who has proven himself multiple times, is likely to reclaim or hold the title through 2026, making it unlikely that Joshua Van will be the champion on December 31, 2026.
+Title: Joshua "The Fearless" Van, the next UFC flyweight champ? | Writers
+Author: 
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://vocal.media/writers/joshua-the-fearless-van-the-next-ufc-flyweight-champ
+Summary: Joshua "The Fearless" Van has demonstrated a strong upward trajectory in his UFC flyweight career, with a record of 5-1 in UFC competition and notable victories over skilled opponents like Cody Durden and Felipe Bunes. His impressive stats include 11 takedowns, 709 strikes landed, and one knockdown, indicating significant skill and potential for championship success. The article suggests that it is only a matter of time before Van becomes UFC flyweight champion, with a possible pathway involving wins over current contenders such as Tagir Ulanbekov and Kai Kara-France, leading up to a title shot against champion Alexandre Pantoja. Given his current momentum and skill level, Van is a strong candidate to reach the championship by late 2026, though this depends on future fights, competition, and his ability to maintain his performance trajectory.
 
 Title: Joshua Van defends flyweight title against Tatsuro Taira at UFC 327 | MMA Fighting
 Author: Jed Meshew
 Published Date: 2026-02-21T00:00:00.000Z
 URL: https://www.mmafighting.com/latest-news/472602/joshua-van-defends-flyweight-title-against-tatsuro-taira-at-ufc-327
-Summary: As of February 2026, Joshua Van is the reigning UFC Flyweight Champion, having won the title in December 2025 after a remarkable rise from unranked fighter to champion within a year. He successfully defended his title against Tatsuro Taira at UFC 327 scheduled for April 11, 2026. Given his rapid ascent, recent title defense, and ongoing championship status, it is plausible that Van will remain the UFC Flyweight Champion through the end of 2026, barring unforeseen circumstances.
+Summary: Joshua Van became the UFC Flyweight Champion in December 2025 after a rapid rise through the ranks, including notable victories over top contenders and a quick win against the long-reigning champion Alexandre Pantoja. He is scheduled to defend his title against Tatsuro Taira at UFC 327 on April 11, 2026. Given Van's strong performance history and his upcoming title defense, he is positioned as a prominent figure in the flyweight division. However, the outcome of his title defense against Taira and subsequent matches will significantly influence whether he remains champion through the end of 2026.
 
 Title: Joshua Van sets first title defense vs. Tatsuro Taira at UFC 327 - ESPN
 Author: Brett Okamoto
 Published Date: 2026-02-22T00:00:00.000Z
 URL: https://www.espn.com/mma/story/_/id/48001437/joshua-van-sets-first-title-defense-vs-tatsuro-taira-ufc-327
-Summary: Joshua Van became UFC Flyweight Champion in December 2025 after a quick TKO victory over Alexandre Pantoja. Since then, he has maintained his title through a series of wins, including notable victories over Brandon Royval, Bruno Silva, and Rei Tsuruya. Van, age 24, rose rapidly to the top and is set to defend his title against Tatsuro Taira at UFC 327 on April 11, 2026. Given his recent performance and momentum, he appears to be a strong contender to retain the belt through the end of 2026, though future challengers and potential injuries could influence the outcome.
+Summary: Joshua Van became the UFC Flyweight Champion in December 2025 after a quick TKO victory over Alexandre Pantoja. He rose rapidly in 2025, claiming the title just 10 months after emerging as a contender. His first title defense is scheduled against Tatsuro Taira at UFC 327 on April 11, 2026. Van's recent performance and momentum suggest he is a strong contender to retain the belt through 2026, but his upcoming fight against Taira, a highly regarded submission specialist, will be a key factor in predicting whether he will still be champion on December 31, 2026.
+
+Title: Joshua Van vs. Tatsuro Taira Set for UFC 327 Flyweight Title Fight
+Author: Sebastian Bergman
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://thebodylockmma.com/ufc/news-ufc/joshua-van-vs-tatsuro-taira-set-for-ufc-327-flyweight-title-fight/
+Summary: As of February 2026, Joshua Van is the reigning UFC Flyweight Champion, having won the title in December 2025 after Alexandre Pantoja suffered an injury early in their fight. Van's first title defense is scheduled for UFC 327 on April 11, 2026, against Tatsuro Taira, who earned his shot by defeating Brandon Moreno. The outcome of this fight will significantly influence Van's championship status later in 2026. Since Van's reign is recent and his first defense is upcoming, predicting whether he will still be champion on December 31, 2026, depends on the result of his title defense and subsequent matches.
 
 Title: Joshua Van to defend flyweight title against Tatsuro Taira at UFC 327
 Author: Garrett Kerman
 Published Date: 2026-02-21T00:00:00.000Z
 URL: https://clutchpoints.com/ufc/joshua-van-to-defend-flyweight-title-against-tatsuro-taira-at-ufc-327
-Summary: As of February 2026, Joshua Van is the reigning UFC Flyweight Champion, having won the title after Alexandre Pantoja's injury in their fight. He is scheduled to defend his title against undefeated Tatsuro Taira at UFC 327 on April 11, 2026. Van has demonstrated a well-rounded skill set, including sharp striking and improved defensive wrestling, positioning him as a strong champion. However, Taira's elite grappling and relentless pressure pose a significant challenge. The outcome of this high-stakes bout will influence Van's ability to maintain the title throughout 2026. Given the competitive landscape and Van's current form, his status as champion on December 31, 2026, will depend heavily on his performance in this upcoming title defense and subsequent fights.
+Summary: As of April 2026, Joshua Van is the reigning UFC Flyweight Champion, having recently defended his title against undefeated challenger Tatsuro Taira at UFC 327 scheduled for April 11th. Van secured his championship after an injury to former champion Alexandre Pantoja, marking his first title defense. Known for his well-rounded skill set, sharp striking, and improved defensive wrestling, Van aims to solidify his status as the top flyweight. The outcome of his upcoming fight against Taira, a formidable grappler with relentless pressure, will significantly influence his championship tenure. Given his current momentum and recent victory, Van is positioned as a strong contender to retain the title through the end of 2026, but the competitive landscape and potential challengers could impact his reign.
 
 

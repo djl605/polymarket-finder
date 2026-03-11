@@ -1,49 +1,51 @@
 # Research: Will Jesse Jackson Jr. be the Democratic Nominee for IL-02?
 
 **Market ID:** 0x689f96a32c85e94a996b9ff65f724c89f8c688787d66d5064ed1c6b84106592e
-**Researched At:** March 1, 2026 at 06:04:18 AM UTC
+**Researched At:** March 11, 2026 at 04:19:41 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Jesse Jackson Jr. be the Democratic Nominee for IL-02?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 1.0¢
 
 ### Summary
 
-No strong proof the 22.5% probability is mispriced; qualitative factors support a mid-range chance and low volume likely reflects genuine uncertainty.
+With no public poll numbers and a crowded field, a 39.5% price for Jackson Jr. seems reasonable for a strong but contested frontrunner. There’s no clear missing evidence to suggest a mispricing larger than a few cents.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Jesse Jackson Jr. will win the March 17, 2026 Democratic primary in IL-02. A YES requires Jackson Jr. to secure the nomination; a NO covers any other nominee or no announcement by Nov 3, 2026.
+The market asks whether Jesse Jackson Jr. will win the Democratic nomination for Illinois’s 2nd Congressional District in the March 17, 2026 primary. YES requires Jackson Jr. to outpoll all other Democratic contenders in that primary; NO includes any other Democrat winning or no nominee by Nov 3.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence:  
-• Established name recognition from his prior tenure (1995–2012) and DNC connections (Sun-Times 2/20).  
-• Fresh campaign momentum, with significant AIPAC backing signaling financial strength (Sun-Times 2/24).  
-• Redemption narrative resonating in a district accustomed to candidates with checkered pasts (Newsday/AP 2/10).  
-Bearish evidence:  
-• Credible skepticism voiced by other Democratic contenders focused on his corruption conviction and trust issues (Newsday/AP 2/10).  
-• No public polling yet showing him as a frontrunner; Wikipedia note he had not formally announced as of latest update.  
-Source credibility and recency: All reports from February 2026 are timely; Sun-Times and AP are reputable. Vanity Fair profile adds historical color but limited direct bearing on a 2026 primary.
+• Evidence suggesting mispricing:  
+  – None of the articles report any poll numbers, leaving ambiguity as to where Jackson Jr. stands in voter preference. Without public polling, a 39.5% chance might understate or overstate his true support.  
+  – The field is highly crowded (10+ candidates), which tends to split votes and can produce unpredictable outcomes, implying greater uncertainty than a 39.5% point estimate might capture.  
+• Evidence supporting the current price:  
+  – Jackson Jr. has strong name recognition, significant fundraising (>$1 million from an AI-PAC, plus Miller’s $1.3 million), and a base molded by his family legacy and past congressional service.  
+  – The district is safely Democratic, meaning the primary winner effectively is the nominee; informed observers likely see Jackson Jr. as a frontrunner but not a lock given the field.  
+• Source credibility & recency: All sources (Chicago Tribune, Sun-Times, NYT, WGN) are reputable and date from late Feb to Mar 9, 2026—very current.  
+• Bullish vs. bearish: Bullish on his fundraising and name ID; bearish on intense competition and potential voter fatigue over his past scandal.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 22.5% price is consistent with an open multi-candidate primary where Jackson Jr. is a recognizable but controversial entrant. Low volume could reflect a genuine consensus that he’s not the clear favorite, rather than a solo trader’s whim—especially given no contrary polling has emerged to shift that view.
+• A ~40% price could reflect a consensus “frontrunner but under 50%” view among informed traders who have internal polling or local intelligence not publicly released.  
+• Alternatively, low volume could mean only a few traders with limited info are setting the price, but a ~3¢ spread suggests some competitive quoting, not a single outlier.  
+• The lack of public polls may have discouraged broader engagement, but savvy insiders likely still have reasons to trade around current expectations.
 
 4. MISPRICING ASSESSMENT  
-No specific, credible evidence indicates the market is off by more than a few cents: neither robust polling nor clear defections have been reported. The current 22.5% aligns with qualitative factors that both help and hinder his chances. It’s plausible informed traders have already baked in his advantages and liabilities.
+There is no specific, credible data pointing to a clear mispricing of more than a few cents. While the absence of public poll data creates uncertainty, professional traders probably factor in unpublished local polls and on-the-ground feedback. A ~39.5% probability for Jackson Jr. aligns with him being a strong but not dominant frontrunner. No glaring oversight emerges.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 20% (limited hard data)  
-Magnitude of mispricing: 5 cents (if any)  
-Expected value = 0.20 × 5¢ = 1¢
+• Strength of evidence: ~20% (limited concrete data to challenge the price)  
+• Magnitude of mispricing: ~5 cents (maximum plausible adjustment given our uncertainty)  
+• Expected value = 0.20 × 5 cents = 1 cent
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: No strong proof the 22.5% probability is mispriced; qualitative factors support a mid-range chance and low volume likely reflects genuine uncertainty.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 1  
+SUMMARY: With no public poll numbers and a crowded field, a 39.5% price for Jackson Jr. seems reasonable for a strong but contested frontrunner. There’s no clear missing evidence to suggest a mispricing larger than a few cents.  
+CONFIDENCE: low
 
 ---
 
@@ -51,52 +53,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Jesse Jackson Jr. seeks Congress comeback in Illinois' 2nd district
+Author: Jake Sheridan  |  jsheridan@chicagotribune.com  | Chicago Tribune
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://enews.chicagotribune.com/q/zT3jI41Wm0sb0YlaN3GJsZmNH1raouVMx08GZcOJZXdjcnVtcEBoZmNocm9uaWNsZS5jb23LDiAwreUElfIdqRABba6VxJK9sC3lA
+Summary: Jesse Jackson Jr. is seeking to return to Congress by running in Illinois' 2nd District Democratic primary. Despite a past marked by a campaign finance scandal and a 17-month prison sentence, he emphasizes personal responsibility and has garnered significant support, including over $1 million from an AI-focused PAC. His name recognition remains high, aided by recent events such as the death of his father, Rev. Jesse L. Jackson. However, he faces competition from candidates like Donna Miller, Robert Peters, Willie Preston, and Yumeka Brown, who are promoting fresh perspectives. Voters' perceptions of his past, ongoing mental health disclosures, and support from diverse community segments will likely influence his chances of securing the Democratic nomination.
+
 Title: Jesse Louis Jackson, Jr., Democratic candidate for Illinois 2nd Congressional District - Chicago Sun-Times
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://chicago.suntimes.com/elections/2026/candidate-questionnaires/jesse-louis-jackson-jr-illinois-primary-2nd-congressional-district
-Summary: Jesse Louis Jackson, Jr. is a Democratic candidate running for the Illinois 2nd Congressional District. He has a notable background, including previous experience as a U.S. Representative for the same district and roles within the Democratic National Committee's Black Caucus. His educational credentials include a B.S. from North Carolina Agricultural & Technical State University, an M.A. from Chicago Theological Seminary, and a J.D. from the University of Illinois College of Law.
+Summary: Jesse Louis Jackson Jr. is a self-employed radio show host, author, and lecturer, with educational credentials including a B.S. from North Carolina A&T State University, an M.A. from Chicago Theological Seminary, and a J.D. from the University of Illinois College of Law. His previous political experience includes serving as Secretary of the Democratic National Committee's Black Caucus and representing Illinois' 2nd Congressional District in the U.S. House of Representatives. As a current Democratic candidate for Illinois' 2nd Congressional District in the 2026 primary, his candidacy and political background suggest he is actively seeking the nomination. However, the webpage does not specify whether he is the frontrunner or the definitive nominee, so predicting his nomination status would require additional information about the primary race and other candidates.
 
-To assess his chances of becoming the Democratic nominee for IL-02, consider the following factors:
+Title: In-depth analysis of candidates in Illinois' 2nd ...
+Author: Tahman Bradley
+URL: https://wgntv.com/news/politics/wgn-the-point-politics-chicago-illinois/in-depth-analysis-of-candidates-in-illinois-2nd-congressional-democratic-primary/
+Summary: The article provides an in-depth analysis of the Democratic primary race for Illinois' 2nd Congressional District, which is open following Congresswoman Robin Kelly's bid for the U.S. Senate. Jesse Jackson Jr., a prominent figure in the race, is a former representative of the district who served for 17 years before resigning amid scandal and serving time for campaign finance misuse. At age 60, Jackson Jr. is relying on his extensive experience to appeal to voters. The primary features 10 candidates, including notable figures such as Cook County Commissioner Donna Miller, Metropolitan Water Reclamation District Commissioner Yumeka Brown, and State Senators Robert Peters and Willie Preston. The outcome of this primary will determine the Democratic nominee for the district, but the article does not specify current polling or the likelihood of Jackson Jr. securing the nomination.
 
-1. **Political Experience**: Jackson's prior tenure in Congress may give him an advantage in name recognition and established voter relationships.
-
-2. **Campaign Strategy**: His campaign website and responses to candidate questionnaires will provide insight into his policy positions and how effectively he communicates them to voters.
-
-3. **Voter Sentiment**: Public opinion polls and community engagement efforts will be crucial in gauging support within the district.
-
-4. **Opposition**: The strength and visibility of other candidates in the Democratic primary will also play a significant role in determining his nomination prospects.
-
-Overall, Jackson's established political background and engagement with key issues will be critical in predicting his success in securing the Democratic nomination for the Illinois 2nd Congressional District.
-
-Title: Jackson Jr.'s comeback bid, AIPAC dollars heat up race to replace Robin Kelly - Chicago Sun-Times
+Title: Who is Ahead in Illinois' 2nd Congressional District? - The New York Times
 Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://chicago.suntimes.com/elections/2026/02/24/2nd-congressional-district-march-democratic-primary-robin-kelly-seat
-Summary: Jesse Jackson Jr. is making a comeback bid for the Democratic nomination in Illinois' 2nd Congressional District, a seat currently held by Robin Kelly. His campaign is gaining traction, particularly with significant financial backing from AIPAC, which is influencing the race dynamics. As Jackson Jr. seeks to re-establish his political presence, the competition is intensifying, with various candidates vying for support. Key factors to consider in predicting his chances include his previous political experience, the level of support he garners from local constituents, and the impact of external funding sources like AIPAC. The evolving political landscape and voter sentiment in the district will also play crucial roles in determining whether he can secure the nomination.
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.nytimes.com/interactive/polls/illinois-us-house-2-polls-2026.html
+Summary: Jesse Jackson Jr. is a prominent candidate in the Democratic primary for Illinois' 2nd Congressional District, which is a safely Democratic seat. The district has a history of Black representation since 1981, and no Republican has won since 1950. Jackson Jr. previously represented this district for nearly two decades before serving time for wire fraud in 2013. His candidacy is notable given his past connection to the district, but the primary features other contenders as well, including Donna Miller and Robert Peters. Since the Democratic primary winner is highly likely to secure the general election, Jackson Jr.'s success depends on his performance in this primary race.
 
-Title: Jesse Jackson's Vanity Fair Profile from the 1988 Presidential ...
-Author: Gail Sheehy
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.vanityfair.com/news/story/jesse-jackson-1988-presidential-campaign
-Summary: The article provides a retrospective look at Jesse Jackson's influence and character during his 1988 presidential campaign, highlighting his ability to connect with diverse audiences, particularly youth. It discusses his motivations, shaped by personal experiences and societal challenges, which may inform his political aspirations and public perception. While the profile does not directly address Jesse Jackson Jr.'s candidacy for the Democratic nomination in IL-02, understanding Jesse Jackson's legacy and the dynamics of his family's political involvement could provide context for predicting Jackson Jr.'s potential success in the race. Factors such as public sentiment towards his father's historical significance and the ongoing relevance of their messages on race and equality may play a role in shaping voter support.
-
-Title: Jesse Jackson Jr. - Wikipedia
-URL: https://en.wikipedia.org/wiki/Jesse_Jackson_Jr.
-Summary: Jesse Jackson Jr. is a former U.S. Congressman who represented Illinois's 2nd congressional district from 1995 until his resignation in 2012. He is a member of the Democratic Party and is the son of civil rights leader Jesse Jackson. His political career has been marked by significant achievements, but it was also overshadowed by legal issues, including a conviction for corruption that led to his imprisonment.
-
-As of now, Jackson has not publicly announced a candidacy for the Democratic nomination for IL-02. His past political experience, name recognition, and connections within the Democratic Party could influence his potential candidacy. However, his legal history and the political landscape in Illinois, including the presence of other candidates, will also play crucial roles in determining whether he could secure the nomination. 
-
-For a more accurate prediction, it would be essential to monitor any announcements regarding his candidacy, the current political climate, and the dynamics of the Democratic primary in Illinois.
-
-Title: Jesse Jackson Jr. pitches redemption in bid for old House seat years after campaign fraud conviction - Newsday
-Author: The Associated Press February 10, 2026 2:45 pm
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://stage.newsday.com/long-island/politics/primary-illinois-chicago-jesse-jackson-election-c67231
-Summary: Jesse Jackson Jr. is actively campaigning to reclaim his former U.S. House seat in Illinois' 2nd Congressional District, following a campaign fraud conviction that ended his political career in 2013. At 60, he emphasizes themes of redemption and personal growth, sharing his experiences of loss and hardship, including a divorce and foreclosure. Jackson is focusing on revitalizing the economically challenged south suburbs of Chicago and is engaging with voters through community events and local media.
-
-Despite his efforts, Jackson faces skepticism from other candidates in a crowded primary, who question his past and the political corruption associated with the district. He acknowledges the need to rebuild trust with voters, stating, "What I think matters is that trust has to be earned." His campaign is bolstered by his family's political legacy, including his father, the Rev. Jesse Jackson, and his brother, Jonathan, who is also a congressman.
-
-Given the current political climate, where voters have shown acceptance of candidates with criminal histories, Jackson's chances of becoming the Democratic nominee will depend on his ability to connect with constituents and address their concerns while overcoming skepticism about his past.
+Title: Crowded Democratic primary in Illinois’ 2nd District race
+Author: Jake Sheridan  |  jsheridan@chicagotribune.com  | Chicago Tribune
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.chicagotribune.com/?p=33346879
+Summary: Jesse Jackson Jr. is actively running in the Democratic primary for Illinois' 2nd Congressional District, leveraging his extensive experience in Congress and his name recognition as the son of civil rights leader Jesse Jackson. Despite his prominent background, the race is highly competitive, featuring a diverse field of candidates with varying political styles and backgrounds, including Cook County Commissioner Donna Miller, state Sen. Robert Peters, state Sen. Willie Preston, and others. Miller has invested significantly in her campaign, raising over $1.3 million, though her funding sources—particularly contributions linked to AIPAC—have become points of contention. Jackson's prior congressional experience and name recognition give him an advantage, but the crowded field and the active campaigning by other contenders suggest that the primary outcome remains uncertain.
 
 

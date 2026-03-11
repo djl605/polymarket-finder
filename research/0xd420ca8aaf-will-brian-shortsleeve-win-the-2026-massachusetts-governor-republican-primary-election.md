@@ -1,7 +1,7 @@
 # Research: Will Brian Shortsleeve win the 2026 Massachusetts Governor Republican primary election?
 
 **Market ID:** 0xd420ca8aaf8eb6396983001a6aebd048b5e16aa7cac74004c4719263acfc38e9
-**Researched At:** March 4, 2026 at 04:16:48 AM UTC
+**Researched At:** March 11, 2026 at 04:19:27 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Brian Shortsleeve win the 2026 Massachusetts Governor Republican primary election?"
 
 ---
@@ -9,46 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Independent polling pegs Shortsleeve around 16%, matching the market, while his own delegate poll (36%) lacks transparency and is likely already discounted. There’s no clear, credible data showing a substantive mispricing.
+Early-March polls put Shortsleeve at 12–16%, trailing the top two, but a crowded seven-way race and the 15% delegate threshold leave room for a ~20% win probability. With no clear new catalyst for a major move, the 22% market price appears reasonable rather than obviously mispriced.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether Brian Shortsleeve will become the Republican nominee for governor of Massachusetts in the September 1, 2026 primary. A “YES” requires him to outpoll all other GOP contenders (notably Mike Minogue and Mike Kennealy) among primary voters—first clearing any 15% threshold at the state convention if required, then winning the broader primary vote. A “NO” occurs if any other candidate wins more votes or if no primary is held.
+The market asks: “Will Brian Shortsleeve win the 2026 Massachusetts Republican gubernatorial primary (Sept. 1, 2026)?” It resolves YES if he emerges as the overall convention/primary winner (including any run-off), NO otherwise. He must first clear the 15% delegate threshold at the GOP convention, make the September ballot, and then win more votes than any rival in the September primary.
 
 2. EVIDENCE EVALUATION  
-Bullish for Shortsleeve (suggesting underpricing):  
-• His campaign–commissioned “delegate survey” showing 36% support among actual delegates—well above the 15% ballot threshold and competitive with Minogue. If accurate and predictive of broader primary voters, the market’s 16.5% understates his chances.  
-• His right-ward shift and aggressive messaging (AI ads, SNAP fraud critiques) may energize the GOP base and swing undecided Republicans.
+Bearish (suggests price too high):  
+- A March 3 WBUR poll (Minogue-funded) has Shortsleeve at only 16% vs Minogue’s 29%.  
+- Shortsleeve’s campaign-cited poll puts him at just 12.75%, well behind Kennealy (38.24%) and Minogue (35.95%).  
+- No evidence of significant endorsements, fundraising surges, or leading debate performance to boost him above frontrunners.  
 
-Bearish (supporting the 16.5% price):  
-• An independent WBUR-funded poll puts him at only 16% vs. Minogue’s 29%, directly aligning with the market’s probability.  
-• The Minogue poll is timely (Mar 3) and covers a broad GOP electorate, whereas the “36% delegate” figure is from his own campaign and lacks methodology details.  
-• Internal party friction (accusations of delegate‐buying) may favor Minogue’s organizational strength.  
-• A large undecided bloc (30-40%) leaves significant volatility, but early traction clearly tilts to Minogue, consistent with a sub-20% win probability for Shortsleeve.
+Bullish (supports 22% price):  
+- The field is crowded (seven declared GOP candidates). In a fractured primary, someone polling in the mid-teens could win with ~20–25% of the vote if the frontrunners split the rest.  
+- The delegate convention threshold (15%) introduces uncertainty; a strong convention ground game could let him squeak onto the September ballot and rally support thereafter.  
+- His shift to a more conservative platform may resonate late–cycle with base voters dissatisfied with establishment candidates.
+
+Source credibility & recency: All polls are from early March 2026 by reputable outlets (WBUR, undisclosed firm). Delegate-threshold mechanics are well-known. Intra-party reporting (Boston Herald, Globe) is factual but offers no clear Shortsleeve advantage.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 16.5% price closely tracks the independent poll result (16%), suggesting traders have incorporated that data.  
-• Low volume likely reflects a straightforward interpretation of public polls and no major contradictory data to drive new positions.  
-• The narrow bid-ask (5¢) indicates that even with low volume, participants agree on that approximate probability.
+- 22% can be rationalized: a mid-teens polling candidate in a seven-way race could win with a low plurality.  
+- Low volume suggests few traders, but the tight spread implies those few feel confident this range captures the split-vote dynamics.  
+- If it were an obvious mispricing, better-funded campaign backers or partisan bettors would have driven it down further; the lack of volume hints at genuine uncertainty rather than oversight.
 
 4. MISPRICING ASSESSMENT  
-• There is no high‐credibility evidence that Shortsleeve actually has a >30% chance; the only poll suggesting that is his campaign’s own.  
-• Public, neutral polls show him trailing significantly.  
-• No structural factor (e.g. withdrawal of rivals, delegate mechanics anomaly) has emerged to suggest a near-term leap in his chances.  
-• Thus, no specific, missing information appears to justify moving the price more than a few cents.
+No glaring information gap: the main data (polls, field size, delegate rules) is already public and likely priced in. While Shortsleeve appears to trail, a fragmented vote makes a 22% win probability defensible. There’s no specific evidence of a bold upward surge or catastrophic collapse overlooked by the market.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 20% (campaign poll is questionable; public polls already factored in)  
-• Magnitude of mispricing if any: ~5¢ (at most a slight undervaluation if delegate support matters more than public polls)  
-• Expected value = 20% × 5¢ = 1¢
+- Strength of evidence: 50% (polls are decent but early and divergence in results).  
+- Magnitude of mispricing: ~5¢ (if market is slightly high vs a poll-implied 12–16% win chance).  
+- Expected value = 50% × 5¢ = 2.5¢
 
-EXPECTED_VALUE: 1  
-SUMMARY: Independent polling pegs Shortsleeve around 16%, matching the market, while his own delegate poll (36%) lacks transparency and is likely already discounted. There’s no clear, credible data showing a substantive mispricing.  
+EXPECTED_VALUE: 2.5  
+SUMMARY: Early-March polls put Shortsleeve at 12–16%, trailing the top two, but a crowded seven-way race and the 15% delegate threshold leave room for a ~20% win probability. With no clear new catalyst for a major move, the 22% market price appears reasonable rather than obviously mispriced.  
 CONFIDENCE: medium
 
 ---
@@ -60,31 +59,30 @@ CONFIDENCE: medium
 Title: Poll paid for by Michael Minogue shows him leading in Republican gubernatorial primary | WBUR News
 Author: 
 Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.wbur.org/news/2026/03/03/massachusetts-governor-republican-primary-polling
-Summary: A recent poll funded by Michael Minogue's campaign indicates that Minogue leads among Republican primary voters and convention attendees in Massachusetts, with 29% support compared to Shortsleeve's 16%. However, this poll has been criticized by Shortsleeve's campaign, which cites a different survey showing him with approximately 36% support among actual delegates, suggesting he has a stronger position. The primary requires candidates to secure at least 15% of delegate votes to appear on the ballot, and support levels vary depending on the polling source. Given the conflicting data and the presence of a large undecided voter bloc, it remains uncertain whether Shortsleeve will secure enough delegate support to win the primary.
+URL: http://www.wbur.org/news/2026/03/03/massachusetts-governor-republican-primary-polling
+Summary: A recent poll funded by Michael Minogue's campaign indicates that Minogue currently leads in support among Republican primary voters and convention attendees, with 29% support compared to Shortsleeve's 16%. However, this poll has been criticized by Shortsleeve's campaign, which cites a different poll showing Kennealy leading with 38.24%, Minogue at 35.95%, and Shortsleeve at 12.75%. The primary candidates must secure at least 15% of delegate votes at the upcoming convention to appear on the September ballot, making support levels at the convention critical. Given the conflicting polling data and the importance of delegate support, Shortsleeve's chances of winning the primary are uncertain and depend heavily on delegate support at the convention.
 
 Title: Once a Baker-style Republican, Brian Shortsleeve tacks right in his run for governor | WBUR News
 Author: 
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.wbur.org/news/2026/02/19/brian-shortsleeve-governor-massachusetts-gop-baker-romney
-Summary: Brian Shortsleeve, initially known as a moderate Republican with a background in venture capital and public service—including overhauling the MBTA’s finances—has shifted his political stance further to the right in his 2026 gubernatorial campaign. Historically aligned with the Romney faction, he now emphasizes conservative positions on state finances, immigration enforcement, and energy policies, positioning himself as more Republican than in previous years. Facing two rivals in the primary, Shortsleeve is adopting a more aggressive, right-leaning approach to secure the nomination, suggesting he recognizes the need to appeal to the Republican base's more conservative wing to succeed. His success in the primary will likely depend on his ability to differentiate himself from opponents by emphasizing these conservative stances and mobilizing the Republican electorate that favors a more right-leaning candidate.
+Summary: Brian Shortsleeve, a former moderate Republican and former MBTA official, is running for Massachusetts governor and has shifted his campaign to the right, adopting more conservative positions. He emphasizes fiscal conservatism, advocates for stricter immigration enforcement, blames incumbent Gov. Maura Healey for population decline, and plans to reduce green energy initiatives to lower utility costs. To succeed in the Republican primary, he is positioning himself as the most Republican candidate among rivals, aligning more with traditional conservative stances. His background includes military service, Harvard education, and experience in venture capital and government finance. His ability to appeal to the Republican base with a more conservative platform will be crucial in determining his chances of winning the primary.
 
 Title: GOP gubernatorial candidates in ‘super battle’ over Minogue’s super delegates
 Author: Tim Dunn  |  tim.dunn@bostonherald.com
 Published Date: 2026-02-16T00:00:00.000Z
 URL: https://www.bostonherald.com/2026/02/16/gop-gubernatorial-candidates-in-super-battle-over-minogues-super-delegates/
-Summary: The 2026 Massachusetts Republican gubernatorial race is highly competitive, featuring candidates Mike Minogue, Brian Shortsleeve, and Mike Kennealy. Recent developments highlight internal conflicts over delegate influence, with Minogue accused by Shortsleeve and Kennealy of "buying" 20 super delegates after his campaign donated $100,000 to the Massachusetts GOP. This controversy suggests a contentious primary environment, but there is no clear indication of who will secure the nomination. Given the current disputes and campaign dynamics, predicting Shortsleeve's victory remains uncertain.
+Summary: The article discusses a contentious dispute among the Republican candidates for Massachusetts governor, focusing on Mike Minogue's recent campaign strategy involving a $100,000 donation to the state GOP. Minogue's move has sparked accusations from his rivals, Brian Shortsleeve and Mike Kennealy, who claim that Minogue's contribution effectively "bought" 20 super delegates, potentially influencing the primary outcome. The candidates are contesting the integrity of Minogue's fundraising approach, which deviates from traditional practices where super delegates pay their own convention fees. This intra-party conflict highlights the competitive and contentious nature of the upcoming Republican primary, with implications for candidate support and delegate influence. While the article does not directly address Shortsleeve's chances of winning, it underscores the intense rivalry and strategic maneuvers that could impact the primary's outcome.
 
-Title: Republican candidate for Mass. governor uses AI-assisted ad in unregulated landscape | WBUR News
-Author: 
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://wbur.org/news/2026/02/03/brian-shortsleeves-massachusetts-ai-assisted-ad-unregulated-state
-Summary: Brian Shortsleeve, a Republican candidate for Massachusetts governor in 2026, has employed AI technology in his campaign by creating a parody video featuring a fake AI-generated voice of Governor Maura Healey. The ad criticizes Healey’s record, claiming Massachusetts has high electricity costs, low job growth, and many job losses. Shortsleeve’s campaign confirms the use of AI, framing the ad as a parody that highlights perceived failures of Healey’s administration. The use of AI in political campaigning is part of a broader trend, with many states regulating deepfake and AI-generated content. Given the current political landscape, Shortsleeve faces competition in the primary, but with Healey unopposed in the general election, his primary prospects depend on his ability to differentiate himself and appeal to Republican voters.
+Title: Mass. GOP: Republicans left, then returned, to party before running
+Published Date: 2026-03-05T04:19:13.183Z
+URL: https://www.bostonglobe.com/2026/03/05/metro/massachusetts-gop-statewide-candidates-republicans-independents/
+Summary: The Massachusetts GOP has experienced significant shifts, with some candidates rejoining the party shortly before running for statewide office, including gubernatorial candidates like Mike Minogue and Elizabeth Dionne, who previously left the party for years. The party's current slate includes seven candidates, with some having switched back to the GOP to access resources and voter lists. Given Massachusetts' deep-blue reputation and the small percentage of registered Republicans (around 8.4-8.8%), candidates face challenges in gaining widespread support. While Brian Shortsleeve's prospects are not directly addressed, the overall context suggests that success in the Republican primary may depend on candidates' ability to appeal to a small, often skeptical Republican base and navigate the state's Democratic-leaning electorate.
 
-Title: SHORTSLEEVE: PROMOTING DTA LEADERSHIP AMID SNAP FRAUD SCANDAL SHOWS NOTHING WILL CHANGE UNDER HEALEY - Brian Shortsleeve for Massachusetts
-Author: Rob Willington
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://brianshortsleeve.com/shortsleeve-promoting-dta-leadership-amid-snap-fraud-scandal-shows-nothing-will-change-under-healey/
-Summary: Brian Shortsleeve, a Republican candidate for Massachusetts governor, strongly criticizes the Healey Administration's handling of a recent SNAP fraud scandal. He highlights that despite whistleblower reports, federal investigations, and audits revealing widespread fraud within the Department of Transitional Assistance (DTA), the administration promoted Acting Director Michael Cole to a permanent position. Shortsleeve argues this move signals a lack of accountability and indicates that no meaningful reforms will occur under current leadership. He emphasizes his own experience in cleaning up government fraud and advocates for transparency and reform, contrasting himself with the current administration's approach. His stance suggests he positions himself as a reform-minded outsider, aiming to appeal to voters seeking change from the status quo.
+Title: Campaign Notebook: Candidates Organizing | Kennealy's Running Mate | Another DNC In Boston? | Politics | statehousenews.com
+Author: State House News Service
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.statehousenews.com/news/politics/campaign-notebook-candidates-organizing-kennealys-running-mate-another-dnc-in-boston/article_7af250ea-a13b-4f5e-843e-c4f4e403d2d2.html
+Summary: The webpage provides a general overview of political campaign activities, candidate organizing efforts, and recent political events, primarily focusing on Massachusetts politics. It mentions candidates' campaign strategies, potential Democratic National Committee (DNC) activities in Boston, and candidate endorsements or alliances. However, it does not contain specific information about Brian Shortsleeve, his campaign status, or details about the 2026 Massachusetts Republican primary election. Therefore, it offers limited direct insight into predicting whether Shortsleeve will win the 2026 Republican primary. To assess his prospects, additional information on his campaign platform, political support, and recent activity would be necessary.
 
 

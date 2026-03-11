@@ -1,7 +1,7 @@
 # Research: Will Donna Miller be the Democratic Nominee for IL-02?
 
 **Market ID:** 0x8843e349c9949119753a20781431a3269b7f904115114cb76e4b54a25cf3f684
-**Researched At:** March 1, 2026 at 06:04:24 AM UTC
+**Researched At:** March 11, 2026 at 04:19:47 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Donna Miller be the Democratic Nominee for IL-02?"
 
 ---
@@ -9,42 +9,50 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-The market’s 44% chance for Miller balances her fundraising lead and name recognition against progressive backlash following a key endorsement withdrawal. There’s no strong evidence of a large mispricing.
+Miller leads fundraising and has establishment support, but faces a crowded field and lost endorsement; absence of clear polling data justifies a near-50% market price.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Donna Miller will be the officially announced Democratic nominee for IL-02 by 11/3/2026. YES means she wins the March 17, 2026 primary and is certified as the nominee; NO covers any other candidate winning or no nominee announced by the deadline.
+The market asks: “Will Donna Miller be the Democratic Nominee for Illinois’s 2nd District in the March 17, 2026 primary?”  
+• YES resolves if Miller wins the Democratic primary.  
+• NO resolves if any other candidate wins or if no nominee is named by Nov 3, 2026.  
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for Miller:  
-• Leading fundraiser in a 10-candidate field (WBEZ 2/18), which often correlates with primary success.  
-• Established profile as Cook County Commissioner, increasing name recognition (Sun-Times 2/20).  
+Bullish evidence (supports price ≈ 47%):  
+• Miller leads fundraising among ten candidates, raising $1.3 M (WBEZ, Chicago Tribune).  
+• She is an experienced Cook County Commissioner with name recognition and moderate positioning in a safely Democratic district.  
+• The New York Times notes she is a “prominent” contender supported by well‐organized pro‐Israel groups.  
 
-Bearish evidence against Miller:  
-• Rep. Jan Schakowsky withdrew her endorsement over Miller’s AIPAC support (Sun-Times & JewishInsider 2/19), risking a loss of progressive votes.  
-• AIPAC has funneled $13.7 M into Chicago-area primaries, drawing scrutiny and potential backlash (WBEZ 2/27).  
-• Strong progressive challenger Robert Peters has Bernie Sanders’s endorsement and could consolidate the anti-AIPAC vote.
+Bearish evidence (argues market may overrate her):  
+• The field remains crowded with high‐profile challengers: State Sen. Robert Peters (strong progressive base) and former Rep. Jesse Jackson Jr. (name recognition) (Tribune, NYT).  
+• Rep. Jan Schakowsky withdrew her endorsement over Miller’s AIPAC link, signaling potential loss of establishment support (Sun-Times).  
+• No public polls in the research show Miller commanding a clear lead; qualitative summaries suggest a still‐uncertain contest.  
 
-Source credibility: All are reputable local outlets (Sun-Times, WBEZ, Jewish Insider), all published within the last two weeks—very recent. None provide polling data, so price likely driven by fundraising and endorsement news. The evidence doesn’t point to a clear blowout either way.
+Source credibility and recency:  
+All sources (Chicago Sun-Times, Chicago Tribune, WBEZ, NYT) are reputable and dated Feb 18–Mar 9, 2026. However, none provide hard polling numbers to tilt the odds dramatically.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 44% price aligns with a frontrunner status tempered by significant risks. The tight spread despite $525 total volume suggests a few traders thoughtfully set this level. Low volume here likely reflects the crowded primary (harder to model) rather than an “obvious” outcome that everyone has already priced in.
+• A 47% probability is a plausible midpoint for a high‐stakes, four‐or-five‐way competitive primary.  
+• Tight spread but low $3.1 K volume suggests pricing by a few traders—they may simply be mapping qualitative signals to ~50/50 odds.  
+• The upcoming primary date (Mar 17) means there is little time for major surprises; that may deter further trading.  
 
 4. MISPRICING ASSESSMENT  
-There is no glaring omission: the market appears to balance Miller’s fundraising edge against the progressive backlash risk. Any deviation from 44% seems modest (<10 ¢). Large mispricing (>20 ¢) would require ignoring either her substantial fundraising lead or the impact of the Schakowsky endorsement pull, which traders have likely considered.
+• No single data point (e.g., a recent poll showing her at 60% or 30%) is missing.  
+• Both strengths (fundraising, establishment backing early on) and weaknesses (crowded field, lost endorsement) are in play and seem priced roughly into the mid-40s.  
+• Given the lack of definitive, quantitative polling, it’s reasonable that the market sits near an even chance.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: 30% (evidence is relevant but not definitive)  
-Plausible magnitude of mispricing: 5 ¢  
-Expected value ≈ 30% × 5 ¢ = 1.5 ¢
+• Strength of evidence that price is off: 20% (mostly qualitative).  
+• Potential mispricing magnitude: 5 cents (unlikely much larger without polling).  
+Expected value = 0.20 × 5¢ = 1.0¢  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The market’s 44% chance for Miller balances her fundraising lead and name recognition against progressive backlash following a key endorsement withdrawal. There’s no strong evidence of a large mispricing.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: Miller leads fundraising and has establishment support, but faces a crowded field and lost endorsement; absence of clear polling data justifies a near-50% market price.  
 CONFIDENCE: medium
 
 ---
@@ -57,42 +65,30 @@ Title: Donna Miller, Democratic candidate for Illinois 2nd Congressional Distric
 Author: 
 Published Date: 2026-02-20T00:00:00.000Z
 URL: https://chicago.suntimes.com/elections/2026/candidate-questionnaires/donna-miller-illinois-primary-2nd-congressional-district
-Summary: Donna Miller is a Democratic candidate running for the Illinois 2nd Congressional District, currently serving as a Cook County Commissioner. Her campaign focuses on key issues such as the economy, federal funding, and local priorities. Miller has a background in business, holding a BA from Howard University and completing graduate courses at Pepperdine University. 
-
-To assess her chances of becoming the Democratic nominee for IL-02, consider her political experience, community engagement, and responses to critical issues outlined in her candidate questionnaire. Her previous role as a commissioner may enhance her visibility and support within the party. Additionally, her campaign website provides further insights into her platform and strategies. 
-
-For a more informed prediction, monitor her performance in the upcoming primary election on March 17, 2026, and gauge her support among key Democratic voter demographics in the district.
+Summary: Donna Miller is a Democratic candidate running for Illinois' 2nd Congressional District in the upcoming primary election. She has a background as a Cook County Commissioner for the 6th District (2018-2022), with education from Howard University and additional business coursework at Pepperdine University. Her campaign website is [donnaforcongress.com](http://donnaforcongress.com). While specific details about her current campaign momentum or polling are not provided, her prior political experience and active candidacy suggest she is a notable contender in the Democratic primary for IL-02.
 
 Title: What to know about the 2nd Congressional District Democratic primary race - WBEZ Chicago
 Author: 
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.wbez.org/government-politics/elections/2026/02/17/what-to-know-2nd-congressional-district-democratic-primary
-Summary: The Democratic primary for Illinois' 2nd Congressional District is highly competitive, with 10 candidates vying for the nomination following U.S. Rep. Robin Kelly's decision to run for the Senate. Among the candidates, Cook County Commissioner Donna Miller is currently leading in fundraising, which is a crucial factor in primary elections. She faces significant competition, including State Sen. Robert Peters, who has garnered progressive support and an endorsement from U.S. Sen. Bernie Sanders.
+Summary: Donna Miller is currently leading in fundraising among the 10 Democratic candidates vying for the open U.S. House seat in Illinois' 2nd District, following Rep. Robin Kelly's decision to run for Senate. While her fundraising strength positions her as a prominent contender, the primary race is highly competitive, with other notable candidates including State Senator Robert Peters, who has progressive backing, and several others with diverse backgrounds. The primary winner is widely expected to secure the Democratic nomination, given the district's heavily Democratic leaning. However, as the race is still ongoing, it is not yet certain whether Donna Miller will ultimately be the Democratic nominee.
 
-Other candidates include former Congressman Jesse Jackson Jr., State Sen. Willie Preston, and several lesser-known figures. The winner of this primary is expected to have a strong advantage in the heavily Democratic district, especially against the sole Republican candidate, Mike Noack, in the general election.
+Title: Crowded Democratic primary in Illinois’ 2nd District race
+Author: Jake Sheridan  |  jsheridan@chicagotribune.com  | Chicago Tribune
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://www.chicagotribune.com/?p=33346879
+Summary: Donna Miller, a Cook County Commissioner with a background in healthcare leadership and a moderate political stance, is actively campaigning in Illinois' 2nd Congressional District Democratic primary. She has raised significant funds, totaling $1.3 million, with a substantial portion coming from contributors linked to AIPAC, raising concerns among opponents about potential outside influence. While she is a prominent candidate, the primary features a diverse and crowded field, including progressive state Sen. Robert Peters, former Congressman Jesse Jackson Jr., and others with varying political styles and backgrounds. The race is highly competitive, and her prospects depend on voter response to her campaign, fundraising, and how she differentiates herself from other contenders.
 
-Given Miller's fundraising lead and the dynamics of the race, her chances of becoming the Democratic nominee appear favorable, but the strong backing for Peters and the presence of other notable candidates could impact the outcome.
+Title: Who is Ahead in Illinois' 2nd Congressional District? - The New York Times
+Author: 
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.nytimes.com/interactive/polls/illinois-us-house-2-polls-2026.html
+Summary: Donna Miller is a prominent Democratic candidate in Illinois' 2nd Congressional District, running in a heavily Democratic, safely blue district where the primary winner is highly likely to secure the general election. She is supported by organizations with ties to the pro-Israel lobby. The district has historically elected Black representatives since 1981 and has not elected a Republican since 1950. The primary race is crowded, with notable candidates including Jesse Jackson Jr. and Robert Peters. Given the district's Democratic leaning and the current competitive primary environment, Donna Miller has a strong chance of becoming the Democratic nominee, but the outcome depends on the ongoing primary contest.
 
 Title: Rep. Jan Schakowsky pulls Donna Miller endorsement in 2nd Congressional District over AIPAC support - Chicago Sun-Times
 Author: 
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://chicago.suntimes.com/elections/2026/02/19/rep-jan-schakowsky-withdrawal-donna-miller-endorsement-2nd-congressional-district-aipac-support
-Summary: U.S. Rep. Jan Schakowsky has withdrawn her endorsement of Cook County Commissioner Donna Miller for the Democratic nomination in Illinois' 2nd Congressional District due to Miller's support from AIPAC (American Israel Public Affairs Committee). Schakowsky stated she "cannot support any candidate running for Congress who is funded by these outside interests." This withdrawal raises questions about Miller's viability as a candidate, especially among progressive voters who may share Schakowsky's concerns about outside funding in political campaigns. The impact of this endorsement withdrawal on Miller's campaign and her chances of securing the Democratic nomination remains to be seen.
-
-Title: Rep. Jan Schakowsky yanks endorsement of Donna Miller over alleged AIPAC support
-Author: Marc Rod
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://jewishinsider.com/2026/02/schakowsky-donna-miller-endorsement-aipac-support/
-Summary: Rep. Jan Schakowsky has withdrawn her endorsement of Donna Miller due to allegations of Miller's support for AIPAC, which may impact Miller's standing within the Democratic Party. This development could influence her chances of becoming the Democratic nominee for Illinois' 2nd Congressional District (IL-02). The political climate surrounding endorsements and perceived affiliations with organizations like AIPAC is crucial in determining candidate viability, especially in a district where Democratic support is essential. Miller's response to these allegations and her ability to rally support from party members will be key factors in her nomination prospects.
-
-Title: Pro-Israel group’s donors and affiliates pour $13.7 million into Chicago-area primaries - WBEZ Chicago
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine?mrfcid=2026022769a1a9e9fe9344530c146386
-Summary: The article discusses significant financial backing from the American Israel Public Affairs Committee (AIPAC) in the Chicago-area Democratic congressional primaries, including the race for Illinois' 2nd Congressional District, where Donna Miller is a candidate. AIPAC and its affiliates have contributed $13.7 million to support certain candidates, raising questions about their positions on U.S. military aid to Israel. 
-
-Miller, along with other candidates, is under scrutiny for accepting AIPAC-linked support, which may influence voter perceptions and her chances in the primary. The article highlights that candidates receiving AIPAC support have generally avoided committing to strict conditions on military aid to Israel, a stance that could affect their appeal to progressive voters who advocate for such conditions. 
-
-Overall, Miller's nomination prospects may hinge on her ability to navigate the implications of AIPAC's financial influence and her stance on Israel, as well as how these factors resonate with the Democratic electorate in her district.
+Summary: U.S. Rep. Jan Schakowsky has withdrawn her endorsement of Donna Miller for the 2nd Congressional District in Illinois, citing concerns over Miller's support from outside interests, specifically AIPAC. Schakowsky stated she cannot support any candidate funded by outside interests, indicating a potential shift in her support. This development suggests uncertainty regarding Miller's prospects as the Democratic nominee for IL-02, as her backing from key figures like Schakowsky has been withdrawn.
 
 

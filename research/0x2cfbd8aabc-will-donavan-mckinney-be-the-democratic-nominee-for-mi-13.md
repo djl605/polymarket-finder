@@ -1,57 +1,50 @@
 # Research: Will Donavan McKinney be the Democratic Nominee for MI-13?
 
 **Market ID:** 0x2cfbd8aabc3519021dc16ab0c7e0f42b0fdac191e64bcc3c42c2319c4c0117f3
-**Researched At:** March 6, 2026 at 04:17:33 AM UTC
+**Researched At:** March 11, 2026 at 04:19:48 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Donavan McKinney be the Democratic Nominee for MI-13?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 0.5¢
 
 ### Summary
 
-Only a Working Families Party endorsement boosts McKinney’s chances, but no polling or further endorsements exist. Against an incumbent, ~40% appears plausible; there isn’t credible evidence of a large mispricing.
+Only a single endorsement (WFP) supports McKinney’s chances; no other data (polls, fundraising, challenger landscape) is available. The 42.5% price reasonably reflects a credible but uphill challenge to an incumbent in a low-attention primary, with no obvious mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-The market asks whether Donavan McKinney will be the Democratic nominee in the MI-13 U.S. House primary on August 4, 2026.  
-– YES resolves if McKinney wins the Democratic primary (announced by Nov 3, 2026).  
-– NO (Other) if he loses or another candidate is selected.
+1. CONTEXT ANALYSIS  
+The market asks: “Will Donavan McKinney be the Democratic Nominee for MI-13?” YES means McKinney is formally announced as the Democratic candidate by the August 4, 2026 primary; NO covers either someone else winning or no nominee by Nov 3, 2026.  
 
-2. EVIDENCE EVALUATION
-Bullish (supports >40.5%):  
-• WFP endorsement on Feb 27, 2026 gives McKinney a progressive base and organizational backing, which can sway a low-turnout primary.  
+2. EVIDENCE EVALUATION  
+Bullish evidence for McKinney:  
+• Working Families Party endorsement (02/27/2026) is a credible, recent signal of organized progressive support in MI-13. WFP endorsements typically move small-to-mid-sized races.  
 
-Bearish (supports <40.5%):  
-• No polling or additional endorsements reported.  
-• Incumbent Shri Thanedar likely retains establishment support.  
-• Ballotpedia/Wikipedia note the field but offer no data showing McKinney leading.
+Bearish/missing evidence:  
+• No polling data on the two-way primary, no fundraising figures, no competing candidate endorsements.  
+• The incumbent (Rep. Shri Thanedar) is still in office; no coverage of his vulnerability or decision to run again.  
+All other sources (Newark Advocate, Battle Creek Enquirer, Enterprise News, AP Senate-race article) provide no relevant information.  
 
-Source credibility: The WFP endorsement is credible and recent; Ballotpedia/Wikipedia are reliable for candidate rosters but contain no predictive data. Lack of multiple sources or polls limits confidence.
+The WFP endorsement alone doesn’t guarantee a win. If Thanedar runs and is well‐funded, McKinney’s path may be steeper than a single endorsement implies. Conversely, absence of public polling might simply reflect low media coverage rather than a hidden disadvantage.  
 
-3. MARKET EFFICIENCY ANALYSIS
-• A 40.5% price could reflect insider or local polling not publicly available, or simply a guesstimate by a single trader.  
-• Low $0 volume and tight spread suggest limited engagement; informed traders may not have participated or there is not much divergent information.  
-• The outcome is sufficiently uncertain that only a handful of data points exist, making this a natural low-volume market.
+3. MARKET EFFICIENCY ANALYSIS  
+A 42.5% probability could reflect a genuine consensus that McKinney is a credible contender but faces an uphill battle against an incumbent. The tight bid-ask spread implies at least one market‐maker or one or two traders have staked out that view. Low volume suggests limited attention rather than an obvious foregone conclusion. There is no sign of an information cascade either way.  
 
-4. MISPRICING ASSESSMENT
-• No strong evidence of a >20¢ mispricing gap.  
-• The WFP endorsement alone probably doesn’t boost his odds above ~30–40% in a contested primary against an incumbent.  
-• Absence of contrary news likely already baked into the current price.  
-• Most charitable view: informed traders with local insights set ~40% to reflect a credible insurgent challenge.
+4. MISPRICING ASSESSMENT  
+We lack any data that McKinney has locked up the nomination (e.g., unopposed race or huge fundraising lead), nor any evidence he’s a heavy underdog. The single WFP endorsement likely is priced in. No clear evidence of an unpriced catalyst or disqualifier. Therefore, absent other data, the 42.5% looks like a reasonable mid-range estimate of a credible challenger to an incumbent in an August primary. No specific, credible evidence of even a >10¢ mispricing.  
 
-5. EXPECTED VALUE CALCULATION
-Strength of evidence for mispricing: 20% (no clear missing data).  
-Approximate maximum mispricing magnitude: 5¢ (small informational edge at most).  
-Expected value = 0.20 × 5¢ = 1¢
+5. EXPECTED VALUE CALCULATION  
+Strength of evidence that the market missed something material: very low (~10%), since only one endorsement exists and nothing else is known.  
+Magnitude of potential mispricing: small (~5¢), given the symmetrical uncertainty and likely pricing of the WFP endorsement.  
+Expected value = 10% × 5¢ = 0.5¢  
 
-EXPECTED_VALUE: 1  
-SUMMARY: Only a Working Families Party endorsement boosts McKinney’s chances, but no polling or further endorsements exist. Against an incumbent, ~40% appears plausible; there isn’t credible evidence of a large mispricing.  
-CONFIDENCE: low
+EXPECTED_VALUE: 0.5  
+SUMMARY: Only a single endorsement (WFP) supports McKinney’s chances; no other data (polls, fundraising, challenger landscape) is available. The 42.5% price reasonably reflects a credible but uphill challenge to an incumbent in a low-attention primary, with no obvious mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -63,26 +56,30 @@ Title: WFP Endorses Donavan McKinney, William Lawrence, Rep. Rashida Tlaib in Mi
 Author: Charles Monaco
 Published Date: 2026-02-27T00:00:00.000Z
 URL: https://workingfamilies.org/2026/02/wfp-endorses-donavan-mckinney-william-lawrence-rep-rashida-tlaib-in-michigan/
-Summary: The Working Families Party has endorsed Donavan McKinney for the Democratic nomination in Michigan’s 13th Congressional District, challenging incumbent Shri Thanedar. McKinney, a State Representative for Michigan’s 11th district, emphasizes fighting corporate influence and prioritizing working-class interests. The endorsement aligns with the Party’s broader effort to replace politicians seen as out of touch or aligned with corporate interests with leaders committed to serving working families. While the endorsement indicates strong support from the WFP, it does not guarantee McKinney will secure the nomination, as the primary election outcome remains uncertain.
+Summary: The Working Families Party has endorsed Donavan McKinney for the Democratic nomination in Michigan's 13th Congressional District, indicating strong support for his candidacy. McKinney, currently a State Representative for Michigan’s 11th district, is challenging incumbent Rep. Shri Thanedar, who is perceived as out of touch with his district and has a reputation for flip-flopping on issues. The endorsement highlights McKinney's alignment with working-class interests and a campaign focused on reducing corporate influence in politics. This backing from the WFP suggests he is a significant contender for the Democratic nomination in MI-13.
 
-Title: Michigan's 13th Congressional District election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Michigan%27s_13th_Congressional_District_election,_2026
-Summary: The webpage provides an overview of the 2026 election for Michigan's 13th Congressional District, including upcoming candidates, electoral context, and relevant political developments. While it does not specify current candidates or confirm whether Donavan McKinney will be the Democratic nominee, it highlights the election's significance and the broader political landscape in Michigan. To assess McKinney's prospects, one should monitor his campaign activity, endorsements, and polling data as the election approaches, since such details are typically updated closer to the election date.
-
-Title: 2026 United States House of Representatives elections - Wikipedia
-URL: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections
-Summary: The 2026 U.S. House of Representatives elections will determine all 435 congressional seats, including Michigan's 13th district (MI-13). While specific candidate nominations are not yet finalized, the election landscape involves ongoing retirements and incumbents seeking re-election. Notably, the Democratic Party currently holds 214 seats, with a slight majority needed for control, and the party's leadership includes Hakeem Jeffries. Candidate nominations, including whether Donavan McKinney will be the Democratic nominee for MI-13, depend on primary contests, party decisions, and potential retirements. Monitoring incumbent retirements and party candidate selections in MI-13 will be key to assessing McKinney's prospects as the Democratic nominee.
-
-Title: Detroit News - Home
+Title: The Newark Advocate
 Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.detroitnews.com/story/news/politics/2026/01/13/election-2026-dnc/88157722007/
-Summary: The provided webpage from The Detroit News covers various local news topics, including labor disputes at Stellantis, legal issues involving Lions player Terrion Arnold, community interest in classic cars, sports updates on the Red Wings, and local political and legal developments. However, there is no specific information regarding Donavan McKinney or his potential candidacy for the Democratic nomination in Michigan's 13th congressional district. Therefore, based on this webpage, there is no relevant data to predict whether Donavan McKinney will be the Democratic nominee for MI-13.
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://newarkadvocate.com/story/news/politics/2026/02/02/shri-thanedar-donavan-mckinney-crypto-investment-campaign-finance-detroit-democratic-primary/88474546007/
+Summary: The webpage from The Newark Advocate covers various local and national news topics, including political commentary, election-related updates, and community events. However, it does not provide specific information about Donovan McKinney or details regarding his potential candidacy for the Democratic Nominee for Michigan's 13th Congressional District (MI-13). Therefore, based on this source, there is no relevant information to predict whether Donovan McKinney will secure the Democratic nomination for MI-13.
 
-Title: Election Tracker: Detroit's 2025 primary and general races
-Author: Malachi Barrett
-Published Date: 2025-11-04T00:00:00.000Z
-URL: https://www.bridgedetroit.com/detroit-election-tracker-2025/
-Summary: The webpage provides comprehensive coverage of Detroit's 2025 election, including candidate information, voter engagement, and ongoing campaign updates. While it highlights key candidates such as Solomon Kinloch and Mary Sheffield, it does not mention Donavan McKinney or specify details about Michigan's 13th Congressional District (MI-13) or its Democratic nominee race. Therefore, there is no direct information on whether Donavan McKinney will be the Democratic nominee for MI-13. To assess his prospects, additional sources focusing on Michigan's congressional races and candidate nominations would be necessary.
+Title: Battle Creek - Home
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.battlecreekenquirer.com/story/news/politics/2026/02/02/shri-thanedar-donavan-mckinney-crypto-investment-campaign-finance-detroit-democratic-primary/88474546007/
+Summary: The webpage provides local news coverage from Battle Creek, Michigan, including recent political events, community recognitions, and upcoming events. However, it does not contain specific information about Donavan McKinney or details regarding his candidacy for the Democratic nomination for Michigan's 13th Congressional District (MI-13). To assess his potential as a nominee, additional sources focusing on his political campaign, endorsements, polling data, or party dynamics would be necessary.
+
+Title: Enterprise News: Local News, Politics & Sports in Brockton, MA
+Author: 
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://eu.enterprisenews.com/story/news/politics/2026/02/02/shri-thanedar-donavan-mckinney-crypto-investment-campaign-finance-detroit-democratic-primary/88474546007/
+Summary: The webpage provides a broad overview of local news, politics, and sports in Brockton, MA, but does not include specific information about Donavan McKinney or details regarding the Democratic nomination process for Michigan's 13th Congressional District (MI-13). To assess whether Donavan McKinney might be the Democratic nominee, additional information such as his current political standing, campaign developments, endorsements, or recent polling data would be necessary. This webpage does not contain relevant details to predict his nomination prospects.
+
+Title: In battleground Michigan, 3 Democrats test vision of affordability in the Senate primary
+Author: Isabella Volmert, Associated Press
+Published Date: 2026-02-14T00:00:00.000Z
+URL: https://m.clickondetroit.com/news/politics/2026/02/14/in-battleground-michigan-3-democrats-test-vision-of-affordability-in-the-senate-primary/
+Summary: The article discusses the Michigan Democratic Senate primary, highlighting three candidates—State Senator Mallory McMorrow, Abdul El-Sayed, and U.S. Rep. Haley Stevens—who are competing to shape the party's vision of affordability and policy priorities. It covers their campaign activities, including events and endorsements, but does not mention Donavan McKinney or provide any information about his candidacy or prospects for the MI-13 Democratic nomination. Therefore, based on this source, there is no relevant information to predict whether Donavan McKinney will be the Democratic nominee for Michigan's 13th congressional district.
 
 

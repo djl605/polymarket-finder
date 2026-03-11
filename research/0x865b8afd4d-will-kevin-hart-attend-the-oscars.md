@@ -1,47 +1,56 @@
 # Research: Will Kevin Hart attend the Oscars?
 
 **Market ID:** 0x865b8afd4dd97b2e5b1794b85b91abcdeb5eddc4335e2c23f7fe8ed158308f35
-**Researched At:** March 4, 2026 at 04:16:07 AM UTC
+**Researched At:** March 11, 2026 at 04:17:48 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Kevin Hart attend the Oscars?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 0.0¢
+**Confidence:** Low
+**Expected Value:** 4.0¢
 
 ### Summary
 
-All provided research concerns Kevin Hart’s past (2019) Oscar decisions and offers no insight into his attendance plans for 2026. With no new information to shift probabilities, the 15.5% market price appears reasonable.
+Kevin Hart has publicly ruled out hosting and shifted to other commitments, with no nomination to secure a red-carpet invite, suggesting his attendance odds likely lie below the market’s 20.5%. Given limited contrary evidence, the mispricing signal is modest.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Kevin Hart will be physically present at the 98th Academy Awards ceremony on March 15, 2026. A “Yes” requires Hart to attend any part of that event; a “No” includes non-attendance, cancellation, or postponement beyond March 31, 2026.
+This market asks whether Kevin Hart will be in physical attendance at the 98th Academy Awards on March 15, 2026. A “Yes” resolution requires Hart to appear in person at any portion of the ceremony; any absence, cancellation, postponement past March 31 11:59 PM ET, or failure to attend resolves as “No.”
 
 2. EVIDENCE EVALUATION  
-• All research items address Kevin Hart’s decision not to host or attend the 2019 Oscars, with no mention of his plans or involvement in 2026.  
-• The sole “2026”-dated article (IMDb, Feb 5 2026) mistakenly refers to 2019 and doesn’t shed light on his current attendance intentions.  
-• No credible, recent source indicates Hart’s travel plans, nomination status, or professional commitments around March 2026.  
+Bullish (evidence FOR attendance)  
+• Many celebrities attend even if not hosting or nominated (e.g., as presenters or guests of nominees). No source rules out a simple red-carpet cameo.  
+• Hart’s star power and AMPAS relationships could still earn him an invite.  
+
+Bearish (evidence AGAINST attendance)  
+• IMDb (2026-02-26): Hart publicly states he will not host the Oscars again, calling awards shows “aren’t comedy-friendly environments.” That suggests reluctance toward any Oscar engagement.  
+• Distractify/IMDb (2026-02-24 & 02-28): Confirms he’s no longer host and instead booked for a Vegas New Year’s event, with no hint of Oscar plans.  
+• Covers.com roundup: Hart isn’t even mentioned among top attendance bets, implying markets view him as a long shot relative to peers (Taylor Swift at 13¢, Zendaya at 61¢).  
+
+Source credibility and recency: All IMDb and Covers.com items are from Feb–Mar 2026 and directly address Hart’s Oscar involvement.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 15.5% probability plausibly reflects low odds of attendance absent nomination or hosting duties.  
-• The tight spread amid low volume suggests minimal but consistent trading, likely from a small group of speculators rather than broad, conflicting information.  
-• The absence of new public signals (e.g., film nominations, presenter announcements) means informed traders may simply be awaiting more data.
+• A 20.5% price implies modest chance—Hart is viewed as unlikely but not impossible.  
+• Low volume (under $10K) and tight spread may reflect one or a few traders setting a rough estimate, not broad consensus.  
+• The outcome is not controversial enough to attract heavy trading, so informed bettors may be sitting out, leaving a stale or anchor-biased price.  
 
 4. MISPRICING ASSESSMENT  
-• No specific evidence contradicts or strongly supports shifting the price materially away from 15.5%.  
-• Given the lack of relevant updates, the current price likely embodies the baseline expectation that Hart—unassociated with a nominated film or hosting—won’t attend.
+• The public refusal to host and pivot to other gigs quite plausibly lowers his attendance odds below 20%.  
+• No concrete indication he’ll be a presenter or guest, and no nomination to legitimize a personal invite.  
+• The 20.5% may thus overstate his chances by roughly 10–15¢.  
+• However, absent a strict prohibition on casual attendance, some nonzero probability is rational.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that mispricing exists: ~0% (no pertinent information missing).  
-• Magnitude of potential mispricing: 0 cents.  
-• Expected value = 0% × 0 cents = 0 cents.
+• Strength of evidence: 40% (public statements are clear but don’t fully rule out attendance)  
+• Magnitude of mispricing: ~10¢  
+• Expected value ≈ 0.4 × 10¢ = 4¢  
 
-EXPECTED_VALUE: 0  
-SUMMARY: All provided research concerns Kevin Hart’s past (2019) Oscar decisions and offers no insight into his attendance plans for 2026. With no new information to shift probabilities, the 15.5% market price appears reasonable.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 4  
+SUMMARY: Kevin Hart has publicly ruled out hosting and shifted to other commitments, with no nomination to secure a red-carpet invite, suggesting his attendance odds likely lie below the market’s 20.5%. Given limited contrary evidence, the mispricing signal is modest.  
+CONFIDENCE: low
 
 ---
 
@@ -49,34 +58,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Kevin Hart Rules Out Hosting Oscars: ‘I’m Over It’ - IMDb
+Title: Who Will Attend the 2026 Oscars? Prediction Market Picks
+URL: https://www.covers.com/entertainment/oscars-prediction-markets-attendance
+Summary: The article discusses prediction markets for the 2026 Oscars, focusing on which celebrities are likely to attend the event. Kylie Jenner is considered a near-lock to attend, with an 89¢ market price indicating high confidence. Margot Robbie also has a relatively high likelihood at 72¢, making her a good value pick. Zendaya's attendance is more uncertain, with a 61¢ price reflecting skepticism, though she has attended regularly in recent years. Taylor Swift's attendance is highly uncertain, with only a 13¢ market price, as she typically only attends if nominated or supporting a partner. While the article does not mention Kevin Hart specifically, it highlights how market prices reflect perceived attendance probabilities, suggesting that unless Kevin Hart's market price indicates a high likelihood, his attendance remains uncertain.
+
+Title: Kevin Hart Says He Won’t Host the Oscars Again: Awards Shows ‘Aren’t Comedy-Friendly Environments Anymore’ - IMDb
 Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.imdb.com/news/ni62334184?pf_rd_i=homepage&pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=73ff69c3-cf0f-4468-ab90-5a2ea2639a0b&pf_rd_r=V451N834ZV43MTG0M3CB&pf_rd_s=center-6&pf_rd_t=15061&ref_=hm_nw_tp1
-Summary: Kevin Hart has publicly stated he will not be hosting the Oscars, emphasizing that he is "over" the negative attention related to past homophobic tweets and has chosen to move on from the controversy. In an interview on Good Morning America, he explicitly said he is not interested in hosting the 2019 Academy Awards and has decided not to engage further with the topic. Based on his recent comments, it is unlikely that Kevin Hart will attend or host the Oscars in the near future.
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://www.imdb.com/news/ni64396299/
+Summary: Kevin Hart has publicly stated he will not host the Oscars again, citing that awards shows are no longer conducive to comedy and that he has no intention of returning. Given his firm stance and previous withdrawal from hosting after controversy, it is unlikely he will attend the Oscars in a hosting capacity or otherwise.
 
-Title: Kevin Hart Emphatically Says He Won't Host the Oscars - Variety
-Author: Brent Lang
-Published Date: 2019-01-09T00:00:00.000Z
-URL: https://variety.com/2019/film/news/kevin-hart-oscars-1203103319/
-Summary: Kevin Hart has publicly stated he will not host the Oscars in 2019, citing time constraints and emphasizing that he is not interested in returning to the role. Although there was some speculation about a potential reconsideration after an interview with Ellen DeGeneres, insiders clarified that Hart remains firm in his decision not to participate. Therefore, based on current statements, it is unlikely that Kevin Hart will attend or host the Oscars this year.
+Title: Kevin Hart Is No Longer the Oscars Host — Now What?
+URL: https://www.facebook.com/Distractify/posts/kevin-hart-is-no-longer-the-oscars-host-now-what/1345738514252972/
+Summary: Kevin Hart is no longer serving as the host for the upcoming Oscars, following previous controversies that led to his withdrawal. The article discusses the circumstances surrounding his departure and explores potential next steps for the Academy in selecting a new host. While it does not specify whether Hart will attend the event, his absence as host suggests he may not be involved in the ceremony itself. The focus is on the implications of his withdrawal and the search for a replacement, making it unlikely that Hart will attend the Oscars in any official capacity.
 
-Title: What's going on with Kevin Hart and the Oscars? : r/OutOfTheLoop
-Author: The_Ejj
-Published Date: 2018-12-07T00:00:00.000Z
-URL: https://www.reddit.com/r/OutOfTheLoop/comments/a3x6gt/whats_going_on_with_kevin_hart_and_the_oscars/
-Summary: Kevin Hart was initially announced as the host of the 2019 Oscars but stepped down due to controversy over past homophobic tweets and comments. Although he apologized and claimed to have changed, the backlash centered on his previous remarks, which many viewed as offensive. Given this context, his attendance at the Oscars was uncertain following his resignation as host.
-
-Title: Jimmy Kimmel to Return as Oscars Host if 'Melania' Doc Is a Nominee
-Author: Zack Sharf
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://variety.com/2026/film/news/jimmy-kimmel-oscars-host-melania-doc-nominee-1236650934/
-Summary: The article discusses Jimmy Kimmel's humorous pledge to host the Oscars in 2027 if the documentary "Melania" is nominated for an Oscar, highlighting his willingness to insist on hosting regardless of official invitations. There is no mention of Kevin Hart or any information related to his potential attendance at the Oscars. Therefore, based on this webpage, there is no relevant information to predict whether Kevin Hart will attend the Oscars.
-
-Title: It's official: 2019 Oscars will have no host - ABC7
+Title: Kevin Hart Hosting New Year's Eve Weekend in Las Vegas After Stepping Down as Oscars Host - IMDb
 Author: 
-Published Date: 2019-02-06T00:00:00.000Z
-URL: https://abc7.com/oscars-host-2019-who-is-hosting-the-kevin-hart/5123325/
-Summary: Kevin Hart will not attend the 2019 Oscars. Although he was initially announced as the host, he withdrew from hosting after resurfaced homophobic tweets and controversy. The ceremony will proceed without a host, guided instead by high-profile presenters.
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://www.imdb.com/news/ni62323090/
+Summary: Kevin Hart recently stepped down as the Oscars host and is instead hosting a New Year’s Eve weekend celebration at Drai’s Nightclub in Las Vegas, featuring performances by prominent rappers. There is no publicly available information indicating his plans to attend or participate in the upcoming Oscars ceremony.
+
+Title: Kevin Hart responds to Oscar host backlash - IMDb
+Author: 
+Published Date: 2026-02-28T00:00:00.000Z
+URL: https://m.imdb.com/news/ni62304515/
+Summary: Kevin Hart, who was announced as the host of the 2019 Oscars, responded publicly via Instagram to backlash over past homophobic remarks and personal issues. His response indicates a willingness to face scrutiny and defend his history, but there is no specific information in the article about whether he will attend or host future Oscar ceremonies. Therefore, based on this content, it remains uncertain whether Kevin Hart will attend the Oscars again.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Pete Hegseth leave the Trump administration before 2027?
 
 **Market ID:** 0xeae757a623cf6a8e4d63ab5ebca6739519f87f3506accbfdd75ae514a72bf461
-**Researched At:** March 6, 2026 at 04:19:59 AM UTC
+**Researched At:** March 11, 2026 at 04:17:12 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Pete Hegseth leave the Trump administration before 2027?"
 
 ---
@@ -9,44 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 1.0¢
 
 ### Summary
 
-Publicly available odds (~26% chance to leave by March 2026) and Trump’s continued support weigh against a high departure risk, while ongoing leaks and internal turmoil imply some chance of removal before year-end. The 28% market price sits squarely between these conflicting signals, and there’s no clear evidence of a significant mispricing.
+Recent reports of internal turmoil and replacement discussions are balanced by Trump’s public defense of Hegseth, making a 31.5% chance of his exit before year-end a reasonable reflection of mixed signals. No clear, unpriced catalyst suggests significant mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Defense Secretary Pete Hegseth will publicly leave the Trump administration by Dec 31, 2026. It resolves YES on any announced resignation/removal before that deadline, or NO if he remains in office (or departs only via announcement dated 2027 or later).
+The market asks whether Defense Secretary Pete Hegseth will leave the Trump administration (by announcement or removal) before December 31, 2026. “Yes” requires a public announcement of his departure or formal removal before the deadline; “No” means he remains in office through year-end.
 
 2. EVIDENCE EVALUATION  
-– Bearish (lower probability) evidence:  
-  • Caliber.az (2026-02-27) reports Trump’s continued public support and no hint of an impending resignation.  
-  • Newsweek (2026-02-?) notes only a 26% chance of leaving by March 2026 and frames his tenure as likely to continue in the near term.  
-– Bullish (higher probability) evidence:  
-  • TYT (2026-02-18) cites NPR sources and commentators saying Hegseth is “on thin ice” amid leaks and scandals, and that replacement is being considered.  
-  • MS.now/Rachel Maddow (2026-02-18) details an aggressive purge and internal destabilization that could trigger his ouster.  
-– Source credibility & recency: Most reports date from mid-Feb to early Mar 2026. Newsweek and NPR sources carry moderate credibility; TYT and MS.now are less neutral but flag real internal conflicts.  
-– No single view is overwhelming; the ~28% price sits between Trump’s backing (implying <20%) and internal turmoil (implying >30%).
+Bullish (supports higher >31.5% chance of “Yes”):  
+• TYT (2026-02-18) and Tangle (2026-03-09) cite multiple insider/leak reports that the White House is exploring his replacement amid scandals, suggesting departure is plausible.  
+• Media reports (Maddow blog) on ongoing purges and instability could precipitate political pressure and removal.
+
+Bearish (supports a lower chance):  
+• Caliber.Az (2026-02-27) and The Atlantic (2026-02-18) note Trump’s public defense of Hegseth and his apparent consolidation of control—no overt signs of imminent resignation.  
+• No official moves or credible exit timeline have emerged; denials remain firm.
+
+All sources are recent (Feb–Mar 2026) but vary in credibility: TYT and Maddow pieces are more partisan/speculative, while The Atlantic and noted White House statements are more grounded.
 
 3. MARKET EFFICIENCY ANALYSIS  
-– A 28% quote closely matches the 26% March-2026 leaving odds in Newsweek, suggesting traders simply rolled forward those odds through year-end risk.  
-– The tight 6¢ spread but low $3.5k volume could reflect one or a few informed participants rather than broad consensus.  
-– The topic is moderately uncertain—neither a foregone conclusion nor completely opaque—so low engagement is plausible.
+A 31.5% price reflects a balanced view: insiders plotting replacement vs. Trump’s public support. Low $4.4k volume means few traders set this price, but the bid-ask spread is tight, suggesting some confidence. It may reflect genuine consensus among the niche set of traders aware of Pentagon turmoil, rather than a single overconfident bettor.
 
 4. MISPRICING ASSESSMENT  
-– No clear, strong evidence suggests the true probability is either <10% or >50%.  
-– Public support by Trump argues for a lower probability; leaks and internal strife argue for a slightly higher one—but neither side has concrete pending developments.  
-– Given both bullish and bearish indicators and the market’s alignment with published odds, there’s no obvious >20¢ mispricing.
+No specific, high-confidence evidence indicates a >20 cent mispricing. Reports of instability and replacement chatter are likely already priced in. Likewise, Trump’s backing and lack of formal moves argue against a much higher probability. Thus the 31.5% seems a reasonable mid-point given mixed signals.
 
 5. EXPECTED VALUE CALCULATION  
-– Strength of evidence for mispricing: ~30% (moderate but inconclusive).  
-– Potential magnitude of mispricing if any: ~5¢.  
-– Expected value ≈ 0.30 × 5¢ = 1.5¢.
+Strength of evidence that price is mispriced: ~20% (weak)  
+Magnitude of potential mispricing: ~5 cents  
+Expected value = 0.20 × 5 cents ≈ 1 cent
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Publicly available odds (~26% chance to leave by March 2026) and Trump’s continued support weigh against a high departure risk, while ongoing leaks and internal turmoil imply some chance of removal before year-end. The 28% market price sits squarely between these conflicting signals, and there’s no clear evidence of a significant mispricing.  
+EXPECTED_VALUE: 1.0  
+SUMMARY: Recent reports of internal turmoil and replacement discussions are balanced by Trump’s public defense of Hegseth, making a 31.5% chance of his exit before year-end a reasonable reflection of mixed signals. No clear, unpriced catalyst suggests significant mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -55,32 +52,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Pete Hegseth's Chances of Being Ousted as Defense Secretary—Betting Odds
-URL: https://www.newsweek.com/pete-hegseths-chances-of-being-ousted-as-defense-secretary-betting-odds-11159392
-Summary: The article discusses Pete Hegseth's current controversies related to his handling of military strikes and sharing sensitive information, which have led to increased scrutiny and betting odds about his potential departure from his position as Defense Secretary. Betting markets suggest he is likely to remain in his role until at least March 2026, with a 26% chance of leaving before then, and overall odds favoring his departure before 2027. Given the political pressure and ongoing investigations, there is a notable possibility he could leave the Trump administration before 2027, but no definitive prediction is provided.
-
 Title: Sources are revealing that Defense Secretary Pete Hegseth may be replaced soon. - TYT.com
 Author: The Young Turks, Inc.
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://tyt.com/shows/the-young-turks/2025-04-21/clips/breaking-news-pete-hegseth-is-reportedly-on-thin-ice-at-pentagon
-Summary: The webpage reports that Defense Secretary Pete Hegseth may be on the verge of being replaced amid ongoing turmoil within the Pentagon, including scandals and leaks of sensitive information. Sources from NPR and conservative commentator Erick Erickson suggest that the White House is considering a replacement, possibly influenced by internal disagreements and upcoming revelations. While there is no official confirmation, the discussions indicate that Hegseth's departure could occur before 2027, especially if further issues or political pressures arise. The situation remains uncertain, with some insiders hinting that a decision may be imminent depending on future developments.
+Summary: Sources indicate that Defense Secretary Pete Hegseth may be on the verge of being replaced amid ongoing turmoil and scandals within the Pentagon. Reports from NPR and conservative commentator Erick Erickson suggest that the White House is exploring potential replacements, possibly influenced by internal dissatisfaction and recent leaks of sensitive military information. While the official stance from the White House denies these reports, the situation appears unstable, with indications that more revelations could emerge. Given the current political climate and internal discussions, there is a possibility that Hegseth could leave the Trump administration before 2027, especially if further scandals or policy disagreements intensify.
+
+Title: Pete Hegseth's uncertain future - Tangle | Acast
+Author: 
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://shows.acast.com/tangle/episodes/pete-hegseths-uncertain-future
+Summary: The webpage discusses recent turmoil surrounding Secretary of Defense Pete Hegseth, including scrutiny from former staffers, anonymous government sources, and media reports suggesting he may be replaced. Key developments include allegations of leaking sensitive information, criticism of the Department of Defense's chaos under his leadership, and indications that the White House has begun searching for his replacement, though denied publicly. Given the ongoing controversy, internal dissent, and media speculation, Hegseth's future in the Trump administration appears uncertain, raising the possibility he could leave before 2027.
 
 Title: Hegseth under fire over Pentagon turmoil, but Trump signals continued support | Caliber.Az
 Author: 
 Published Date: 2026-02-27T00:00:00.000Z
 URL: https://caliber.az/en/post/hegseth-under-fire-over-pentagon-turmoil-but-trump-signals-continued-support
-Summary: Pete Hegseth remains in his position as US Defense Secretary with President Donald Trump's support, despite ongoing turmoil within the Pentagon related to leaks, misconduct allegations, and internal conflicts. Recent reports indicate internal dissatisfaction and security concerns, but Trump publicly defends Hegseth's performance. There is no current indication that Hegseth plans to leave before 2027; instead, he appears focused on restructuring his staff amid the controversy. Given Trump's continued backing and the lack of any announced resignation plans, it is unlikely Hegseth will depart the administration before 2027.
+Summary: Pete Hegseth, the US Defense Secretary, remains in his position with President Trump’s support despite ongoing turmoil within the Pentagon, including allegations of leaks, misconduct, and internal conflicts. Recent reports suggest internal dissatisfaction and security concerns, but Trump publicly defends Hegseth’s performance. There is no current indication that Hegseth plans to leave before 2027; instead, he appears to be consolidating his position amid the controversy. His future tenure may depend on how the internal investigations and political dynamics evolve, but as of now, he remains in office with Trump’s backing.
 
-Title: Pete Hegseth Ousts Senior Army Spokesman as Pentagon Leadership Reshuffle Intensifies - Washington Morning
-Author: Josh Weiner
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://washingtonmorning.com/2026/02/17/pete-hegseth-ousts-senior-army-spokesman-as-pentagon-leadership-reshuffle-intensifies/
-Summary: The article reports that Pete Hegseth, Secretary of Defense, recently ousted a senior Army spokesperson amid a broader Pentagon leadership reshuffle. Hegseth is actively restructuring the Department of Defense’s communication strategies, emphasizing a shift toward centralized messaging and traditional military priorities like readiness and lethality. His actions reflect a desire to overhaul personnel and policy approaches within the military hierarchy. While the article highlights Hegseth’s current leadership moves and ideological stance, it does not specify his future plans or whether he intends to remain in the Trump administration beyond 2026.
+Title: Hegseth’s Firing Campaign Reaches Down Into the Ranks - The Atlantic
+Author: Nancy A. Youssef, Missy Ryan
+Published Date: 2026-02-18T00:00:00.000Z
+URL: https://www.theatlantic.com/national-security/2026/02/hegseth-pentagon-butler-driscoll/686028/
+Summary: The article details Defense Secretary Pete Hegseth’s active involvement in reshaping military leadership, notably his efforts to dismiss high-ranking officers and even mid-level commanders like Colonel Dave Butler. Hegseth’s interventions are driven by perceived disloyalty, support for diversity initiatives, or connections to political figures opposed to his views. His approach signifies a broader pattern of exerting influence over military personnel decisions, extending down into the ranks, which is atypical for a defense secretary. Given his aggressive pursuit of personnel changes and ongoing tensions within the Pentagon, there is no indication from the article that Hegseth plans to leave the Trump administration before 2027. Instead, he appears committed to consolidating control over military leadership during his tenure.
 
 Title: Hegseth’s ongoing Pentagon purge continues to destabilize the military
 Author: Steve Benen
 Published Date: 2026-02-18T00:00:00.000Z
 URL: https://www.ms.now/rachel-maddow-show/maddowblog/hegseths-ongoing-pentagon-purge-continues-to-destabilize-the-military
-Summary: The article details ongoing turmoil within the Pentagon under Defense Secretary Pete Hegseth, highlighting his aggressive purge of military officials perceived as disloyal or politically opposed. Since taking on his role, Hegseth has dismissed multiple high-ranking military leaders, including Col. Dave Butler, Lt. Gen. Joe McGee, Adm. Alvin Holsey, Navy Chief of Staff Jon Harrison, Lt. Gen. Jeffrey Kruse, and Rear Adm. Milton San. These actions suggest a pattern of consolidating control and removing officials who may challenge his authority or policies. Given the intensity and duration of these disruptions, and the fact that Hegseth’s tenure appears to be characterized by internal conflicts and instability, there is a significant likelihood that he may not remain in his position until 2027.
+Summary: The article details ongoing turmoil within the U.S. military leadership under Defense Secretary Pete Hegseth, highlighting his efforts to purge officials he deems unaligned with his views. Since taking on his role, Hegseth has reportedly forced out multiple high-ranking military leaders, including Col. Dave Butler, Lt. Gen. Joe McGee, Adm. Alvin Holsey, Navy Chief of Staff Jon Harrison, and others, often amid controversy and without clear reasons. These actions suggest a pattern of aggressive leadership and instability within the Pentagon. Given this context, if Hegseth's tenure continues to be characterized by such purges and instability, it raises questions about whether he might leave the Trump administration before 2027, especially if political or military pressures mount or if his approach leads to further conflicts within the defense establishment.
 
 

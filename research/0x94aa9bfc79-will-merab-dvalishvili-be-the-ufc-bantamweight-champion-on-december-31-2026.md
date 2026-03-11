@@ -1,7 +1,7 @@
 # Research: Will Merab Dvalishvili be the UFC Bantamweight Champion on December 31, 2026?
 
 **Market ID:** 0x94aa9bfc79a8458b5e596aa00bafc87fda284d0536219675c5735677a08b5afc
-**Researched At:** March 2, 2026 at 04:23:19 AM UTC
+**Researched At:** March 11, 2026 at 04:20:10 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Merab Dvalishvili be the UFC Bantamweight Champion on December 31, 2026?"
 
 ---
@@ -9,43 +9,39 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Research shows Dvalishvili is a top contender with favorable short-term odds, but his recent title loss and a volatile division justify a sub-50% chance at end-2026. The 22.5% market price reasonably balances his upside with the need to reclaim and defend the belt over two years.
+Public MMA previews and implied multi‐fight retention math support a ~25–30% chance Dvalishvili holds the belt into December 2026, matching the market’s 28% price. No specific new information suggests a material mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Merab Dvalishvili will be the official UFC Bantamweight Champion at 12:00 PM ET on December 31, 2026. A “YES” requires him to hold the undisputed (non-interim) bantamweight belt at that exact time; any vacancy or interim champ resolves as “NO.”  
+The market asks whether Merab Dvalishvili will hold the UFC Bantamweight Championship on December 31, 2026 at 12:00 PM ET. A “YES” requires him actively holding the undisputed belt at that moment (no interim status or vacancy). A “NO” occurs if he loses or vacates the belt before that timestamp, or if the title is vacant.
 
 2. EVIDENCE EVALUATION  
-Bullish signals:  
-• OddsShark (Dec 2025) gives Dvalishvili −105 to retain through end-2025 (≈51% implied), noting likely defenses against Umar Nurmagomedov and potential rematches with Yan or O’Malley.  
-• theScore (Jan 2026) predicts he’ll regain or hold the title by end-2026, citing his elite skills and past wins over top contenders.  
-• AgentMMA (Feb 2026) AI analysis highlights his pressure game vs. Petr Yan, suggesting Dvalishvili remains a 50-50 fighter in key matchups.  
-
-Bearish signals:  
-• He recently lost the title to Petr Yan at UFC 323, so he must stage a rematch victory to get back on track.  
-• The bantamweight division is historically volatile; emerging talents (O’Malley, Nurmagomedov and others) could capture or hold the belt.  
-• Predictive pundits emphasize inactivity risk and UFC promotional factors that can sideline even top contenders.  
-
-All sources are credible MMA news outlets within the past three months. None offer rigorous probability modeling beyond qualitative forecasts. The bullish case for >50% at end-2026 is based on short‐term defense odds for end-2025, not a full two-year horizon.  
+Bullish evidence:  
+• Multiple February 2026 previews (BettingPros on UFC 323, UFC 316) highlight Dvalishvili’s dominant wrestling, title defenses, takedown accuracy (6.4 per 15 min, 37% success), and recent wins over top contenders (O’Malley, Yan, Sandhagen, Aldo, Cejudo).  
+• thescore.com (2026-02-11) sees him highly favored to retain his belt through late 2026.  
+Bearish/uncertainty factors:  
+• No detailed info on future challengers beyond Petr Yan and Sean O’Malley, but those matchups likely require 2–3 defenses over ~10 months. Each has ~50–70% implied win odds, compounding to ~20–50% overall retention.  
+• Division depth and injury risk add variance.  
+Source credibility and recency: All articles are from Feb 2026, reputable MMA bettors/previews. They uniformly suggest Dvalishvili is a strong favorite in upcoming defenses but don’t quantify multi‐fight cumulative probabilities.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 22.5% probability is consistent with a competitive division and Dvalishvili needing to (a) reclaim the belt from Yan, (b) defend it against top contenders over a two-year span, and (c) avoid UFC booking or injury pitfalls. Low volume suggests limited trader engagement, but the tight spread implies that available liquidity is satisfying demand near consensus. There’s no sign that one trader is pushing a wildly out-of-line view; traders likely recognize both his upside and the division’s churn.  
+At 28%, the price implies roughly a one‐in‐four chance he survives a sequence of challengers. Given 2–3 expected defenses at ~60–70% individual win odds, this aligns with a naïve compounding model (0.65^3≈27%). The low $0 volume and tight spread may reflect a single or small group of traders applying basic math rather than deep insider insight. But the result is in line with public fighter odds.
 
 4. MISPRICING ASSESSMENT  
-No research finding provides concrete evidence that the 22.5% price is substantially too low or too high. The bullish “≈50% to retain end-2025” odds do not directly translate to end-2026 probabilities, especially given title loss and new challengers. The available analyses appear priced in: they acknowledge both his strengths and the division’s volatility. Thus, there’s no clear mispricing >10 cents.  
+No clear mispricing emerges. The market price corresponds to plausible compounded defense probabilities. There’s no overlooked challenger or structural nuance in the resolution criteria. Though volume is low, the price matches independent win‐probability estimates from multiple sources.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence of mispricing: 20%  
-Magnitude of potential mispricing: 5 cents  
-Expected value = 0.20 × 5 cents = 1 cent  
+Strength of evidence: 50% (moderate‐quality, recent MMA analysis but no precise multi‐fight modeling)  
+Magnitude of mispricing: 5 cents (small or none)  
+Expected value ≈ 50% × 5 cents = 2.5 cents
 
-EXPECTED_VALUE: 1  
-SUMMARY: Research shows Dvalishvili is a top contender with favorable short-term odds, but his recent title loss and a volatile division justify a sub-50% chance at end-2026. The 22.5% market price reasonably balances his upside with the need to reclaim and defend the belt over two years.  
+EXPECTED_VALUE: 2.5  
+SUMMARY: Public MMA previews and implied multi‐fight retention math support a ~25–30% chance Dvalishvili holds the belt into December 2026, matching the market’s 28% price. No specific new information suggests a material mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -54,55 +50,31 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Odds for UFC Champions at the End of 2026
-Published Date: 2025-12-15T00:00:00.000Z
-URL: https://www.oddsshark.com/ufc/future-champions-betting-odds
-Summary: The webpage discusses the odds for UFC champions at the end of 2025, with a focus on various divisions, including the Bantamweight division where Merab Dvalishvili is currently the champion. As of the latest updates, Dvalishvili has odds of -105 to retain his title, indicating a competitive outlook for his reign. The analysis suggests that he is likely to defend his belt successfully against Umar Nurmagomedov in early 2025, which could set him up for further victories against other contenders like Petr Yan and Sean O'Malley, whom he has already defeated.
-
-Given the context, if Dvalishvili can navigate through these challenges and maintain his winning streak, he stands a good chance of still being the Bantamweight Champion by December 31, 2026. However, the competitive nature of the division and emerging talents could impact his title reign. Overall, while the current odds favor Dvalishvili, the dynamic landscape of the Bantamweight division will be crucial in determining his championship status in 2026.
-
-Title: Predicting UFC champions at end of 2026 | theScore.com
-Author: Nick Baldwin
-Published Date: 2026-01-09T00:00:00.000Z
-URL: https://thescore.com/mma/news/3447525
-Summary: The article from theScore predicts that Merab Dvalishvili will be the UFC Bantamweight Champion by the end of 2026. Currently, Petr Yan holds the title, having recently reclaimed it by defeating Dvalishvili at UFC 323. The bantamweight division is known for its volatility, with champions frequently changing. While Yan could potentially defend his title against challengers like Umar Nurmagomedov or Sean O'Malley, the author believes that Dvalishvili, on his best night, is the most formidable fighter in the division. This suggests that if Dvalishvili can capitalize on his skills and opportunities, he has a strong chance of becoming champion by the end of 2026.
-
-Title: 2026 UFC champion predictions: Which 11 fighters will end the year ...
-Author: Ben Fowlkes Uncrowned Thu, January 1, 2026 at 2:00 PM UTC · 13 min read
-Published Date: 2026-01-01T00:00:00.000Z
-URL: https://sports.yahoo.com/mma/article/2026-ufc-champion-predictions-which-11-fighters-will-end-the-year-with-ufc-gold-islam-makhachev-ilia-topuria-140000779.html
-Summary: The article discusses predictions for UFC champions by the end of 2026, with a focus on various weight classes. While it does not specifically mention Merab Dvalishvili, it highlights the unpredictability of the UFC landscape, where champions can change due to various factors, including inactivity or shifts in management decisions.
-
-To assess Dvalishvili's potential as the Bantamweight Champion by December 31, 2026, consider the following:
-
-1. **Current Performance**: Dvalishvili's recent fight history and performance against top contenders will be crucial. His ability to maintain a winning streak and secure title shots will impact his chances.
-
-2. **Division Dynamics**: The bantamweight division is competitive, with several fighters vying for the title. Keeping an eye on emerging challengers and their performances will provide insight into Dvalishvili's standing.
-
-3. **Inactivity Risks**: The article notes that champions can lose their titles without being defeated in the octagon. Dvalishvili must remain active and engaged in fights to avoid being sidelined.
-
-4. **Management and Promotion Factors**: The UFC's promotional decisions can influence title opportunities. Dvalishvili's marketability and relationship with UFC management may affect his chances of receiving a title shot.
-
-In summary, while the article does not directly address Dvalishvili, evaluating his performance, the competitive landscape of the bantamweight division, and external factors will be essential
-
-Title: UFC: Predicting Who Will Be Champion in Every Male Weight Class ...
-Author: Tyler Fell
-Published Date: 2025-12-31T00:00:00.000Z
-URL: https://www.givemesport.com/predicting-every-ufc-champion-end-of-2025-mma/
-Summary: The article from GiveMeSport discusses predictions for who will hold the UFC championship titles in each male weight class by the end of 2026. In the bantamweight division, Merab Dvalishvili is highlighted as a strong contender. The bantamweight class is currently competitive, with several fighters vying for the title, making it challenging to predict who will emerge as champion.
-
-Dvalishvili's fighting style, recent performances, and potential matchups against other top contenders will play a significant role in determining his chances of becoming champion. The article emphasizes the unpredictability of the sport, noting that champions can change frequently due to the depth of talent in each division.
-
-To assess Dvalishvili's likelihood of being the bantamweight champion by December 31, 2026, consider his current ranking, recent fight outcomes, and the trajectory of his career, as well as the performance of other fighters in the division.
-
-Title: Merab Dvalishvili vs Petr Yan Prediction: AI Fight Prediction, Odds & Analysis (91% Confidence) | Agent MMA
+Title: UFC 323 Odds & Picks: Dvalishvili vs. Yan 2 (2025) | BettingPros
 Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://agentmma.com/articles/5783-6160-merab-dvalishvili-vs-petr-yan
-Summary: The article provides an in-depth analysis of the upcoming fight between Merab Dvalishvili and Petr Yan, utilizing AI predictions and performance statistics to assess their chances. Dvalishvili, with a record of 21-5-0, is noted for his high striking output, averaging 4.3 significant strikes per minute, which could give him an edge in dictating the fight's pace. In contrast, Yan, holding a record of 20-5-0, tends to adopt a counter-striking approach.
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.bettingpros.com/articles/ufc-323-odds-picks-dvalishvili-vs-yan-2-2025/
+Summary: The article discusses the upcoming UFC 323 main event between Merab Dvalishvili and Petr Yan, highlighting Dvalishvili's impressive winning streak and his pursuit of a fourth successful title defense in 2025. Dvalishvili, known for his relentless forward pressure, takedown ability (averaging 6.4 per 15 minutes with a 37% success rate), and striking efficiency, has recently defeated top contenders including Sean O'Malley and Cory Sandhagen. Petr Yan, a seasoned fighter with a 19-5 record, has a mixed recent performance, with three wins and two losses in his last five fights. Given Dvalishvili's current dominance and active title defenses in 2025, he is positioned as a strong contender to potentially hold the UFC Bantamweight Championship into late 2026, though the outcome depends on future title defenses and Yan's performance.
 
-Key factors influencing the fight include the initial three minutes, where control of range and tempo will be crucial. The analysis suggests that Dvalishvili's pressure and volume could be pivotal against Yan's counter strategies. The fight is projected to be closely contested, with the potential for momentum swings that could significantly impact the outcome.
+Title: UFC 323 predictions: Will Dvalishvili, Pantoja retain titles? | theScore.com
+Author: Nick Baldwin
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://www.thescore.com/news/3419496
+Summary: The article discusses UFC 323 predictions, focusing on Merab Dvalishvili's potential to retain his Bantamweight title. Dvalishvili, known as "The Machine," has established himself as a top pound-for-pound fighter, successfully defending his title multiple times in 2023. He is favored to win his upcoming bout against former champion Petr Yan, with predictions favoring Dvalishvili's pressure and pace overwhelming Yan once again. Given his current dominance and momentum, Dvalishvili is highly likely to remain the UFC Bantamweight Champion through at least the near future, including December 31, 2026.
 
-For predicting whether Dvalishvili will become the UFC Bantamweight Champion by December 31, 2026, consider his current performance metrics, fight style, and ability to adapt in high-pressure situations. If he can maintain his striking pace and effectively manage his grappling, he may position himself favorably for a title shot in the future.
+Title: MMA: Ilia Topuria - news on Flashscore.com
+Author: 
+URL: https://www.flashscore.com/player/topuria-ilia/bBTa66GB/news/
+Summary: The webpage provides information about MMA fighter Ilia Topuria, including his recent results, scheduled matches, and news updates. While it does not directly mention Merab Dvalishvili or details about the UFC Bantamweight division, understanding Topuria's current performance, ranking, and recent fight outcomes could offer context about the competitive landscape of the division. To assess whether Dvalishvili might become champion by December 31, 2026, one would need to analyze factors such as Dvalishvili's current form, upcoming fights, potential challengers, and overall division dynamics, none of which are detailed here. Therefore, this source provides limited direct insight into Dvalishvili's future prospects but could serve as part of a broader analysis of the bantamweight division's competitive environment.
+
+Title: UFC 316 Odds &#038; Picks: Merab Dvalishvili vs. Sean O’Malley | BettingPros
+Author: 
+Published Date: 2026-02-27T00:00:00.000Z
+URL: https://www.bettingpros.com/articles/ufc-316-odds-picks-merab-dvalishvili-vs-sean-omalley/
+Summary: The article provides detailed insights into Merab Dvalishvili's recent form, fighting style, and track record, which are relevant for predicting his potential to remain UFC Bantamweight Champion through December 31, 2026. Dvalishvili is a highly durable, high-volume wrestler with an impressive winning streak of 12 consecutive victories since 2018, including multiple title defenses and wins over notable fighters like Jose Aldo, Petr Yan, and Henry Cejudo. His fighting style emphasizes relentless takedowns and high fight pace, supported by an 82% success rate in defending takedown attempts and significant striking volume. Given his current dominance, resilience, and proven ability to defend his title, he has a strong foundation to potentially retain the belt through 2026, assuming continued health and performance.
+
+Title: DraftKings MMA Picks & Value Plays: UFC Houston Lineup Strategy
+URL: https://www.rotowire.com/mma/article/draftkings-ufc-picks-ufc-houston-dfs-preview-105538
+Summary: The webpage provides a detailed preview of UFC Houston, focusing on fight strategies and fighter profiles, particularly the main event between Sean Strickland and Anthony Hernandez. It highlights Hernandez's strong grappling, high-volume striking, and superior gas tank, which could pose significant challenges for Strickland, known for his aggressive striking and volume. While the content does not directly mention Merab Dvalishvili or the bantamweight division, it emphasizes the importance of grappling, pace, and endurance—traits associated with Dvalishvili's fighting style. Given Dvalishvili's reputation as a top wrestler with relentless pressure, his potential to become UFC Bantamweight Champion by December 31, 2026, would likely depend on his ability to leverage his grappling, maintain high pace, and adapt to top contenders in the division.
 
 

@@ -1,56 +1,59 @@
 # Research: Will Alex Bores be the democratic nominee for NY-12?
 
 **Market ID:** 0x1af009052969324fe877b8339e173ae39c8c8c6b7db75a41cd091bfe4ec04265
-**Researched At:** March 3, 2026 at 04:22:05 AM UTC
+**Researched At:** March 11, 2026 at 04:18:46 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Alex Bores be the democratic nominee for NY-12?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.5¢
+**Confidence:** Medium
+**Expected Value:** 7.3¢
 
 ### Summary
 
-Evidence on Alex Bores’s nomination chances is mixed—Maloney’s endorsement boosts him but low local fundraising and stiff competition cap upside—making the 26% price broadly reasonable. Any mispricing appears small (around 5 cents or less).
+Early polling shows Bores at just 11% with weak local fundraising and split endorsements, suggesting his win chances are nearer 15% rather than the market’s 25.5%. Unless strong late-breaking support materializes, the market appears to overstate his odds by roughly 10¢.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Alex Bores will win the June 23, 2026 Democratic primary in NY-12 and thus become the party’s nominee. A “YES” resolution requires an official announcement that Bores is the winning candidate; “NO” occurs if any other Democrat wins or if no nominee is named by November 3, 2026 11:59 PM ET.
+The market asks whether Alex Bores will secure the Democratic nomination in NY-12’s June 23, 2026 primary. It resolves YES if he is officially named the nominee by November 3, 2026, and NO if another candidate wins or no nominee is named by that deadline.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence (suggesting price too low):  
-- Former Rep. Carolyn Maloney endorsed Bores on February 10, giving him high-profile backing and signaling party credibility.  
-- Bores has legislative experience and name recognition in overlapping districts (UES and UWS).
+Bearish Evidence (suggests 25.5% is too high)  
+- Polling (Mar 6, 2026): Bores polls at 11% among likely Democratic voters, tied for last among leading contenders, with 33% undecided. In a crowded field his baseline support is weak.  
+- Local fundraising: Only 12% of his $2.2 million haul comes from NY-12 residents, implying limited grassroots backing.  
+- Competing endorsements: While former Rep. Maloney backs Bores, key local club endorsements have gone to Micah Lasher, signaling split establishment support.  
 
-Bearish evidence (suggesting price too high):  
-- Another leading contender, Micah Lasher, secured Congressman Jerry Nadler’s endorsement, splitting establishment support.  
-- Only 12% of Bores’s campaign donations originate from within NY-12, indicating weak local fundraising and outreach.  
-- The race is crowded (12–20 candidates), diluting any one candidate’s vote share and making outcomes uncertain.  
-- No polling data or authoritative primary forecasts exist, so the current 26% seems based more on speculation than hard data.
+Bullish Evidence (supports current price)  
+- Major endorsement from Carolyn Maloney and Nadler’s lingering influence could sway undecided voters.  
+- Strong total fundraising ($2.2 million) suggests he can remain competitive through advertising and outreach.  
+- Early polls often understate late surge potential, and a large undecided bloc (33%) leaves room for momentum shifts.
 
-Source credibility and recency: All items are from February 2026 local news outlets and reputable political websites, making them timely and reliable. None of the evidence is obviously stale or contradicted by more recent developments.
+Source Credibility & Recency  
+All sources are from reputable local outlets and dated February–March 2026, making them timely and relevant. The poll’s methodology details aren’t disclosed but City & State New York is a respected publication.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 26% probability is a plausible compromise between a major endorsement and weak grassroots support.  
-- Low $1145 volume and 6¢ spread suggest few traders, so price could reflect one or two informed views rather than broad consensus.  
-- Alternatively, it may simply reflect the best public information: a split field with no clear frontrunner and key endorsements on both sides.
+- A 25.5% price could reflect:  
+  • Informed traders weighting Bores’s endorsements and fundraising as equalizing his low poll share.  
+  • Uncertainty around how the large undecided cohort will break.  
+- Low volume (Total Vol. $1,373) and tight spread (5¢) suggest few participants but a consensus view among them. Informed traders may find the market’s odds credible enough to not arbitrage it away, or simply be underweight this race.
 
 4. MISPRICING ASSESSMENT  
-- There is no glaring omission. Traders likely know about Maloney’s endorsement and the weak local donations.  
-- Given the competitive field and lack of polling, a mid-20s probability is rational rather than obviously too high or low.  
-- Any mispricing appears small—on the order of single digits of cents—since the factors for and against Bores largely offset each other.
+- The most charitable interpretation: Traders anticipate Bores turning around his weak early polling with resources and establishment backing, justifying ~25% odds.  
+- However, his 11% polling floor and minimal local donations point to a substantially lower win probability, likely closer to 15%.  
+- There is no evidence that a major development (e.g., a new endorsement or collapse by rivals) is already baked in but unreported.  
+- Conclusion: The market seems to overstate Bores’s chances by about 10–12 cents.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: ~30% (mixed signals, no clear edge).  
-- Estimated magnitude of mispricing: ~5 cents.  
-- Expected value ≈ 0.30 × 5 cents = 1.5 cents.
+- Strength of evidence: 70% (polling and fundraising are solid indicators early in the race)  
+- Magnitude of mispricing: ~10.5¢  
+- Expected value = 0.70 × 10.5¢ = 7.35¢
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Evidence on Alex Bores’s nomination chances is mixed—Maloney’s endorsement boosts him but low local fundraising and stiff competition cap upside—making the 26% price broadly reasonable. Any mispricing appears small (around 5 cents or less).  
-CONFIDENCE: low
+EXPECTED_VALUE: 7.35  
+SUMMARY: Early polling shows Bores at just 11% with weak local fundraising and split endorsements, suggesting his win chances are nearer 15% rather than the market’s 25.5%. Unless strong late-breaking support materializes, the market appears to overstate his odds by roughly 10¢.  
+CONFIDENCE: medium
 
 ---
 
@@ -58,33 +61,32 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Will Alex Bores be the 2026 Democratic candidate for NY-12?
+Title: Poll: Schlossberg leads NY-12 race - City & State New York
 Author: 
-URL: https://manifold.markets/ms/will-alex-bores-be-the-2026-democra
-Summary: The webpage discusses a prediction market on whether Alex Bores will become the Democratic nominee for New York's 12th Congressional District in 2026. The market's outcome depends on Bores winning the Democratic primary and securing the nomination. Currently, there is no definitive information or polling data provided about Bores's candidacy or campaign status. The market shows a 25% chance of Bores becoming the nominee, indicating some community speculation but no confirmed developments. To assess Bores's likelihood, relevant factors include his current political activity, campaign momentum, support within the Democratic Party, and any announced candidacy or endorsements. As of now, there is limited publicly available information on his campaign prospects, making prediction uncertain.
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.cityandstateny.com/politics/2026/03/poll-schlossberg-leads-ny-12-race/411954/
+Summary: A recent poll indicates that Alex Bores currently has 11% support among likely Democratic voters in NY-12, placing him tied for last among the top contenders, with a significant 33% of voters still undecided. Bores has strong fundraising, with over $2.2 million raised by the end of 2025, and is endorsed by former Rep. Carolyn Maloney. However, initial polling suggests he is not the leading candidate at this stage. The race is highly competitive, with other candidates like Jack Schlossberg and Micah Lasher also vying for the nomination. Given the early stage of the race and the large undecided voter base, Bores's prospects remain uncertain.
 
 Title: Former Rep. Carolyn Maloney endorses Alex Bores in East Side versus West Side House race - City & State New York
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
-URL: http://www.cityandstateny.com/politics/2026/02/former-rep-carolyn-maloney-endorses-alex-bores-east-side-versus-west-side-house-race/411343/?oref=csny-topic-lander-featured-river
-Summary: Former Rep. Carolyn Maloney has endorsed Alex Bores in the upcoming East Side versus West Side NY-12 House race. This endorsement may bolster Bores' prospects within the Democratic primary, especially given Maloney's established political influence. While the webpage does not explicitly confirm Bores as the Democratic nominee, her support suggests he is a strong contender and potentially the leading Democratic candidate for NY-12. Additional factors such as party endorsements, primary results, and campaign momentum will further influence his likelihood of securing the nomination.
-
-Title: Former Rep. Maloney Endorses East Sider In NY-12 Race | Upper East Side, NY Patch
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://patch.com/new-york/upper-east-side-nyc/former-rep-carolyn-maloney-endorses-east-sider-ny-12-race
-Summary: Former U.S. Rep. Carolyn Maloney has endorsed Assemblymember Alex Bores in the NY-12 Democratic primary, highlighting his legislative effectiveness and district funding achievements. This endorsement, coming shortly after another candidate, Micah Lasher, received backing from Congressman Jerry Nadler, signals a competitive race with key endorsements shaping the contest. Maloney's support may bolster Bores's prospects, but with twelve candidates in the race, the outcome remains uncertain.
+URL: https://www.cityandstateny.com/politics/2026/02/former-rep-carolyn-maloney-endorses-alex-bores-east-side-versus-west-side-house-race/411343/
+Summary: Former Congresswoman Carolyn Maloney has endorsed Assembly Member Alex Bores to succeed retiring Rep. Jerry Nadler in NY-12, highlighting her support for his candidacy amid a competitive Democratic primary. Maloney praised Bores for his dedication to hard work and his ability to deliver tangible improvements across Manhattan, including projects like the Second Avenue Subway and East River Esplanade. Despite her endorsement, the Samuel J. Tilden Democratic Club voted to endorse another candidate, Micah Lasher, indicating a contested race. Maloney’s backing, combined with Nadler’s previous support, positions Bores as a significant contender, though the primary remains competitive with other candidates also vying for the nomination.
 
 Title: Only 12% of Alex Bores’ donations come from NY-12 - City & State New York
 Author: 
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://www.cityandstateny.com/politics/2026/02/only-12-alex-bores-donations-come-ny-12/411515/
-Summary: The article highlights that only 12% of Alex Bores’ campaign donations originate from NY-12, suggesting limited local financial support. This low level of regional backing may impact his viability as a Democratic candidate for NY-12, as strong local fundraising is often crucial for securing the nomination. Additional context about his campaign strategies or support base is not provided, but the donation data indicates he may face challenges in establishing strong grassroots or local party backing for the upcoming election.
+Summary: Alex Bores has raised $2.2 million for his congressional campaign, but only 12% of his donations come from residents of NY-12, indicating limited local support. The majority of his contributions originate from outside Manhattan, particularly from California, reflecting his professional ties to tech and AI communities on the West Coast. His fundraising pattern suggests he has broader national and industry-based backing rather than strong local constituency support, which could impact his prospects of securing the Democratic nomination for NY-12.
 
-Title: Meet the UES Candidate Running to Represent Both the UES and UWS in Congress
-Author: Gus Saltonstall
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.westsiderag.com/2026/02/27/meet-the-ues-candidate-running-to-represent-both-the-ues-and-uws-in-congress
-Summary: Alex Bores is a candidate running for the NY-12 congressional seat, representing both the Upper East Side (UES) and Upper West Side (UWS). The article highlights his campaign within the context of a competitive race with nearly 20 candidates vying to succeed longtime Democratic Rep. Jerrold Nadler. While Bores's campaign is gaining attention, the article does not specify his current standing in the primary or whether he is the leading Democratic contender. Therefore, predicting if he will secure the Democratic nomination requires additional information on primary results and support levels.
+Title: The candidate at the center of the brewing midterm AI war ...
+URL: https://www.yahoo.com/news/articles/candidate-center-brewing-midterm-ai-123000653.html
+Summary: Alex Bores, a New York state lawmaker, has introduced an eight-point plan for a national AI framework amid ongoing political competition in NY-12. His campaign for Congress is heavily influenced by the AI debate, with significant opposition from industry-backed attack ads and support from AI workers. While his plan emphasizes regulation and innovation in AI, including policies on data centers and labor, there is no definitive information indicating whether Bores will secure the Democratic nomination for NY-12.
+
+Title: NY-12 candidate Alex Bores talks AI, ICE, and fatherhood
+Author: Kaivan Shroff
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://kaivanshroff.substack.com/p/ny-12-candidate-alex-bores-talks
+Summary: The article features an interview with Alex Bores, a Democratic candidate for New York's 12th congressional district. Bores emphasizes the need for a generational reset within the Democratic Party, advocating for fresh perspectives and innovative thinking. He discusses his strengths as a candidate, responds to endorsements from establishment figures favoring opponents, and highlights the importance of genuine voter support over political endorsements. While the summary does not explicitly state his current polling or primary status, Bores positions himself as a strong contender by focusing on his unique approach and connection with voters, which could influence his chances of securing the Democratic nomination.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Matthew Dunlap be the Democratic nominee for ME-02?
 
 **Market ID:** 0xdae8b5b3c2f5316fd6007b1faee1f3ad0d715f4fd3b0f83b3b0751c21292cfb2
-**Researched At:** March 4, 2026 at 04:15:20 AM UTC
+**Researched At:** March 11, 2026 at 04:18:59 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Matthew Dunlap be the Democratic nominee for ME-02?"
 
 ---
@@ -9,41 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.4¢
+**Expected Value:** 0.6¢
 
 ### Summary
 
-The incumbent challenge dynamic vs. Dunlap’s modest general-election competitiveness broadly justifies a ~20% win probability. No solid new evidence suggests a material mispricing.
+Current polls show Dunlap at about 14% in the Democratic primary with lots of undecided voters; an 18% price reasonably captures his potential to pick up support. There’s no clear gap between evidence and market odds that suggests a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Matthew Dunlap, Maine’s state auditor and former secretary of state, will emerge as the Democratic nominee for Maine’s 2nd Congressional District in the June 9, 2026 primary. For a YES resolution, Dunlap must defeat any primary challenger (notably incumbent Jared Golden) and be officially designated as the Democratic nominee by party sources by Nov 3, 2026 at 11:59 PM ET. A NO outcome occurs if Golden or any other Democrat wins, or if no nominee is announced (resolving to “Other”).
+The market asks whether State Auditor Matthew Dunlap will win the Democratic nomination in Maine’s 2nd Congressional District primary on June 9, 2026. For a YES resolution, Dunlap must finish first in that Democratic primary and be officially announced by Nov 3, 2026. Any other nominee (including no announcement) resolves to NO.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence for Dunlap (i.e. suggesting the 20.5% price is too low):  
-• General‐election polls (UNH, Feb 2026) show Dunlap loses narrowly to LePage (47%–46%), indicating he is competitive statewide and might appeal to primary voters focused on electability.  
+Bullish for Dunlap:  
+- He’s filed ~1,200 signatures to qualify, showing organization and initial momentum (WGME, early Mar 2026).  
+- General-election polling (UNH poll, late Feb) has him at 46% vs. LePage’s 47%, suggesting he’s a credible Democratic choice.  
 
-Bearish evidence (i.e. suggesting the 20.5% price is too high):  
-• Dunlap is challenging an incumbent (Jared Golden), who has never faced a primary opponent; incumbents rarely lose primaries.  
-• No evidence Dunlap leads in fundraising or controlling party infrastructure; a Feb 2026 fundraising survey mentions no standout Democratic frontrunner, implying Dunlap has no clear advantage.  
-• No primary polling shows Dunlap ahead of Golden or other Democrats; his general‐election standing does not directly translate to primary support.  
+Bearish for Dunlap:  
+- A Mar 5 Spectrum poll of the Democratic primary has Joe Baldacci at 36%, Dunlap at just 14%, and 38% undecided. Dunlap ranks second or third, making a surge to first challenging.  
+- No other strong evidence of a rapid rise in name ID, endorsements, or fundraising to vault him over Baldacci.  
 
-All sources (Press Herald, WGME, 92 Moose, UNH) are recent and regionally credible. None present clear momentum or structural advantages for Dunlap that the market has missed.
+Source credibility/recency: Both Spectrum and WGME are local outlets with fresh (Feb–Mar 2026) primary polling, credible for current support.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 20.5% probability aligns with a longshot challenger to an incumbent. The tight bid-ask on low volume likely reflects a consensus among a few politically attuned traders that Dunlap’s upset chances are small but non-negligible. The absence of heavy trading suggests informed players see no glaring opportunity.  
+An 18% chance aligns with Dunlap’s 14% poll share plus some share of undecideds (e.g. landing roughly 20–25% of that 38%). Low volume may reflect few active traders but also signals no glaring overlooked developments. A single trader could set the price, yet it matches poll-implied odds.
 
 4. MISPRICING ASSESSMENT  
-There is no specific, credible evidence indicating a large mispricing. The balance of factors (incumbent advantage vs. narrow general‐election competitiveness) rationalizes a sub-25% probability. A deviation larger than ~10¢ would require undisclosed primary polling or fundraising data sharply favoring Dunlap, which is not present.
+There’s no clear evidence Dunlap’s true probability is materially above or below 18%. The leading poll implies ~14%, but room to grow means ~18% is reasonable. No missing endorsement, fundraising, or scandal information suggests a >5¢ mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for a mispricing: ~20% (weak, as most information seems priced in)  
-Plausible magnitude of genuine mispricing: ~2¢  
-Expected value = 20% × 2¢ = 0.4¢
+Strength of evidence (that there is mispricing): 20%  
+Magnitude of mispricing: ~3¢  
+Expected value = 20% × 3¢ = 0.6¢
 
-EXPECTED_VALUE: 0.4  
-SUMMARY: The incumbent challenge dynamic vs. Dunlap’s modest general-election competitiveness broadly justifies a ~20% win probability. No solid new evidence suggests a material mispricing.  
+EXPECTED_VALUE: 0.6  
+SUMMARY: Current polls show Dunlap at about 14% in the Democratic primary with lots of undecided voters; an 18% price reasonably captures his potential to pick up support. There’s no clear gap between evidence and market odds that suggests a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -52,33 +52,30 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: ​Matthew Dunlap says he will challenge Jared Golden in ...
-Published Date: 2025-10-06T00:00:00.000Z
-URL: https://www.pressherald.com/2025/10/06/dunlap-formally-announces-he-will-challenge-golden-in-democratic-primary/
-Summary: Matthew Dunlap, the Maine state auditor and former secretary of state from Old Town, has announced his candidacy to challenge Jared Golden in the Democratic primary for Maine's 2nd Congressional District. Since Golden has been the incumbent since 2018 and has not faced a primary challenge before, Dunlap's entry introduces a new contest within the Democratic Party. While Dunlap's campaign signals a potential shift or challenge to Golden's hold on the seat, it remains uncertain whether Dunlap will secure the Democratic nomination. Factors influencing this outcome include his campaign strength, voter support within the party, and Golden's existing political standing.
+Title: Democratic congressional candidate Matt Dunlap submits signatures to appear on ballot
+URL: https://wgme.com/news/local/democratic-congressional-candidate-matt-dunlap-submits-signatures-to-appear-on-ballot-maine-democrat
+Summary: Matthew Dunlap, a Democratic candidate for Maine's Second Congressional District, submitted nearly 1,200 signatures to appear on the primary ballot, indicating active efforts to secure his place in the upcoming election. With incumbent Jared Golden not seeking re-election, Dunlap's campaign is gaining momentum, supported by community engagement during the winter months. While his signature submission demonstrates strong campaign activity, it does not guarantee nomination, as the primary race will determine the Democratic nominee for ME-02.
+
+Title: Baldacci leads Democratic contenders in 2nd CD race
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://spectrumlocalnews.com/me/maine/politics/2026/03/05/baldacci-leads-democratic-contenders-in-2nd-cd-race
+Summary: State Sen. Joe Baldacci currently leads the Democratic primary race for Maine's 2nd Congressional District, with 36% support according to a recent poll. State Auditor Matt Dunlap trails significantly with 14%, while former congressional staffer Jordan Wood has 12%. A substantial 38% of voters remain undecided. Given these figures, Dunlap is less likely to secure the nomination unless he gains significant support before the primary.
 
 Title: LePage Holding a Slim Edge in One of Maine’s Biggest Races
 Author: Matt James Matt James Published: February 25, 2026
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://92moose.fm/lepage-maine-lead-congressional-race/
-Summary: The recent poll from the University of New Hampshire indicates that former Maine Governor Paul LePage is narrowly leading in the race for Maine's 2nd Congressional District, with only a one- to two-point margin over Democratic contenders such as State Auditor Matt Dunlap and State Senator Joe Baldacci. LePage's lead over Dunlap is particularly slim, at 47% to 46%. Given the highly competitive and close nature of the race, and that Dunlap is one of the Democratic candidates currently polling just behind LePage, these results suggest that Dunlap remains a strong contender but has not yet secured the nomination. The race's tight margins imply that the Democratic nomination could still be contested among multiple candidates, and Dunlap's position is competitive but not guaranteed.
+Summary: The article reports that former Maine Governor Paul LePage is leading in the race for Maine's 2nd Congressional District, holding a very slim lead over several Democratic contenders, including State Auditor Matt Dunlap. The latest University of New Hampshire poll shows LePage narrowly ahead of Dunlap by just one percentage point (47% vs. 46%), indicating a highly competitive and closely contested race. With the seat open following Jared Golden's decision not to seek reelection, the race remains unpredictable, and the outcome, including whether Dunlap will secure the Democratic nomination, depends on ongoing campaign developments and voter support.
+
+Title: Some voters are raising eyebrows at a candidate who filed to run in the Republican primary ...
+URL: https://www.facebook.com/dallasmorningnews/posts/some-voters-are-raising-eyebrows-at-a-candidate-who-filed-to-run-in-the-republic/1374226174746217/
+Summary: The article discusses voter skepticism and concerns regarding a Republican candidate running in a primary, highlighting the political landscape and candidate dynamics. However, it does not provide specific information about Matthew Dunlap or his prospects in the ME-02 district. Therefore, based on this source, there is no relevant information to predict whether Matthew Dunlap will be the Democratic nominee for ME-02.
 
 Title: Poll shows LePage with slight edge in race for Maine's 2nd Congressional District
 Author: 
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://wgme.com/news/local/poll-shows-lepage-with-slight-edge-in-race-for-maines-2nd-congressional-district
-Summary: A recent University of New Hampshire poll indicates that former Governor Paul LePage currently holds a slight lead over the Democratic candidates in Maine's 2nd Congressional District primary. LePage leads Democrat Joe Baldacci by one percentage point (48% vs. 47%) and also has a narrow edge over Matt Dunlop (47% vs. 46%). Additionally, LePage leads Democrat Jordan Wood by four points (48% vs. 44%). Since Dunlop is one of the Democratic contenders and the poll shows a very close race with LePage, the outcome remains uncertain. However, the data suggests that Dunlop is a competitive candidate, but not necessarily the frontrunner at this stage.
-
-Title: Who’s raised the most money in the race for Maine’s 2nd District?
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.pressherald.com/2026/02/02/whos-raised-the-most-money-in-the-race-for-maines-2nd-district/
-Summary: The article discusses the fundraising efforts in the race for Maine’s 2nd Congressional District, highlighting multiple candidates including Democrats and former Gov. Paul LePage. While it provides details on the amounts raised by various contenders, it does not specify whether Matthew Dunlap is actively competing or his current fundraising status. Therefore, based on the available information, there is no indication that Matthew Dunlap is a leading candidate or has secured significant funds to suggest he is the Democratic nominee. Additional updates or candidate-specific details would be needed to assess his prospects for becoming the Democratic nominee for ME-02.
-
-Title: Rewriting Jan. 6, a possible primary challenge for Jared Golden and ...
-Author: Steve Mistler, Kevin Miller
-Published Date: 2025-05-16T00:00:00.000Z
-URL: https://www.mainepublic.org/politics/2025-05-16/rewriting-jan-6-a-possible-primary-challenge-for-jared-golden-and-more-in-maine-politics
-Summary: The article discusses recent political debates in Maine related to the January 6 Capitol attack, including a resolution debated by the Maine House of Representatives to commemorate the event. It highlights the political climate and partisan responses, with Republican lawmakers speaking on the issue. However, there is no specific information about Matthew Dunlap or his potential candidacy for Maine's 2nd Congressional District (ME-02). Therefore, based on this content, there is no relevant information to predict whether Matthew Dunlap will be the Democratic nominee for ME-02.
+Summary: A recent University of New Hampshire poll indicates that former Governor Paul LePage holds a slight lead over Democratic candidates in Maine's 2nd Congressional District primary. LePage leads Democrat Joe Baldacci by one percentage point (48% vs. 47%) and also has a narrow margin over Matt Dunlop (47% vs. 46%) and Jordan Wood (48% vs. 44%). Since Dunlop is one of the Democratic contenders, these poll results suggest he is a competitive candidate but currently trails LePage in voter support. The seat is open, as incumbent Jared Golden is not seeking re-election. This data implies that Dunlop has a chance but faces a close race against other Democrats and LePage.
 
 

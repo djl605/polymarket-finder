@@ -1,7 +1,7 @@
 # Research: Canada's population Up or Down this year?
 
 **Market ID:** 0x2f811bcb722953d3286cd00fec353e9778030dfcbd1d0c59fdb3c6db24beb19d
-**Researched At:** March 1, 2026 at 06:07:42 AM UTC
+**Researched At:** March 11, 2026 at 04:17:09 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Canada's population Up or Down this year?"
 
 ---
@@ -13,41 +13,44 @@
 
 ### Summary
 
-Publicly available PBO forecasts predict zero population growth for 2026, matching a roughly 50-50 outlook for “Up” vs “Down.” The market’s 49.5% price appears to reflect these credible forecasts, with no clear mispricing detected.
+Independent forecasts (PBO, CBC, CP24) uniformly predict zero population growth in 2026, which aligns with the market’s ~50% “Up” price. There’s no compelling, unpriced information pointing to a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Canada’s population in Q4 2026 will exceed its population in Q4 2025. A “YES” (“Up”) requires any net increase; a “NO” (“Down”) covers any net decrease. If the two quarterly estimates are exactly equal, the market pays out 50-50.
+- The market asks whether Canada’s population in Q4 2026 will exceed its population in Q4 2025.  
+- For “Up” to win, net natural increase plus net migration between end-2025 and end-2026 must be positive; for “Down,” net change must be zero or negative (or exactly equal leads to 50-50).
 
 2. EVIDENCE EVALUATION  
-Bearish/Down or Flat evidence  
-- Parliamentary Budget Officer (Feb 26 2026): forecasts zero population growth in 2026, driven by sharp cuts in non-permanent resident admissions. (high credibility; directly on point)  
-- PBO’s “Demographic Implications” report: confirms flat growth in 2026, modest 0.3% growth only in 2027. (high credibility; same source)  
-- The Hub/ImmigCanada: highlight reduced NPR targets and short-term slowdown, potential decline or stagnation in 2026. (less direct but consistent)  
+Bullish (Up) evidence:  
+- The PBO’s medium-term projections show modest positive growth (0.3% in 2027, ~0.8% later), implying a small positive trend that might begin in 2026.  
+- Even with cuts to non-permanent residents, stable PR admissions (380 K) plus residual natural increase could tilt slightly positive.
 
-Bullish/Up evidence  
-- No direct evidence of a net increase in 2026. Long-term projections (to 2075) are irrelevant to this year’s outcome.
+Bearish (Down) evidence:  
+- Multiple sources (PBO, CBC, CP24) predict zero growth in 2026, citing large cuts to non-permanent resident admissions and record-low fertility driving stagnation.  
+- The parliamentary budget officer explicitly forecasts flat population for 2026.
 
-Given the PBO’s recent, credible forecasts of zero or slight negative growth, one would infer a better than 50% chance of “Down” or at best a 50-50 split factoring in a small chance of a marginal up-tick. The market’s 49.5% for “Up” therefore aligns closely with available forecasts.
+Source credibility and recency:  
+- The PBO’s report (Feb 26 2026) is highly credible. CBC and CP24 are reliable, timely summaries.  
+- The “zero growth” consensus is well-supported; bullish scenarios hinge on slight model upticks not specific to 2026.
 
 3. MARKET EFFICIENCY ANALYSIS  
-- A 49.5% price reflects a roughly even outlook, matching “flat” projections.  
-- Low volume suggests few traders—but consensus reports have been publicly released, so any informed trader has already seen them.  
-- The narrow spread and even price suggest this market is capturing the broad, low-volatility view rather than being dominated by an over-confident lone trader.
+- A 49.5% “Up” price very nearly reflects the even odds implied by flat-growth forecasts.  
+- Low volume likely reflects both the low payoff for small demographic shifts and limited trader interest, not a large crowd leaning heavily one way.  
+- It’s plausible that informed participants see roughly equal odds and have not engaged heavily beyond setting a 50/50 line.
 
 4. MISPRICING ASSESSMENT  
-- No substantial bullish data appears overlooked.  
-- The most charitable interpretation: traders have priced in the PBO’s flat forecast and a small probability of either up or down.  
-- The market shows no clear mispricing (i.e., no >10¢ deviation from the consensus).
+- The key information (expected zero growth) is fully public and credible, and the market price sits almost exactly at that midpoint.  
+- There’s no clear, strong evidence suggesting the market should materially favor either outcome by >5 cents.  
+- Any tilt (e.g., slight positive trend) is offset by the greater uncertainty around large cuts in non-permanent residents and historically low fertility.
 
 5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 30% (PBO reports are strong but the event is inherently uncertain)  
-- Magnitude of mispricing: 0 ¢ (no credible mispricing detected)  
-- Expected value = 30% × 0¢ = 0¢
+- Strength of evidence that price is wrong: near zero (market already accounts for flat growth). ~10%  
+- Magnitude of potential mispricing: trivial (<2 cents)  
+- Expected value ≈ 10% × 2 cents = 0.2 cents (≈0 cents)
 
 EXPECTED_VALUE: 0  
-SUMMARY: Publicly available PBO forecasts predict zero population growth for 2026, matching a roughly 50-50 outlook for “Up” vs “Down.” The market’s 49.5% price appears to reflect these credible forecasts, with no clear mispricing detected.  
+SUMMARY: Independent forecasts (PBO, CBC, CP24) uniformly predict zero population growth in 2026, which aligns with the market’s ~50% “Up” price. There’s no compelling, unpriced information pointing to a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -56,51 +59,33 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Budget watchdog predicts zero population growth this year | Vernon Matters
-Author: The Canadian Press
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://vernonmatters.ca/2026/02/26/budget-watchdog-predicts-zero-population-growth-this-year/
-Summary: The parliamentary budget officer predicts that Canada's population growth will remain flat in 2026, indicating zero population growth for the second consecutive year. This stagnation is primarily attributed to significant cuts in non-permanent resident admissions as outlined in the federal Immigration Levels Plan. In 2025, Canada experienced a similar trend, with a decline of 382,000 non-permanent residents offsetting any population gains.
+Title: Budget watchdog predicts zero population growth this year - Investment Executive
+Author: noushin
+URL: https://www.investmentexecutive.com/news/budget-watchdog-predicts-zero-population-growth-this-year/
+Summary: The parliamentary budget officer predicts that Canada's population will remain flat in 2026, with zero growth, primarily due to significant cuts in non-permanent resident admissions as outlined in the federal Immigration Levels Plan. After record-breaking growth in 2022 and 2023, driven by increased immigration, the population growth is expected to stagnate this year, with any gains offset by declines in non-permanent residents. Overall, Canada's population is projected to stay unchanged this year.
 
-Historically, Canada saw an average annual population growth of 1.1% from 1972 to 2015, but recent years have shown substantial increases driven by immigration, including record growth of over one million people in both 2022 and 2023. However, the current immigration strategy aims to reduce the share of non-permanent residents from 7.6% in late 2024 to below 5% by the end of 2027, which is expected to impact overall population growth negatively.
-
-The federal plan includes a reduction in temporary work and student visas from approximately 674,000 in 2025 to 385,000 in 2026, while maintaining a target of 380,000 permanent resident admissions annually from 2026 to 2028. This shift suggests that, barring any changes in immigration policy or unexpected demographic shifts, Canada's population is likely to remain stable or decline this year.
-
-Title: StatCan releases new projections on Canada's population for 2075
+Title: Zero population growth expected in Canada this year: budget watchdog | CBC News
 Author: 
-Published Date: 2026-01-27T00:00:00.000Z
-URL: https://www.ctvnews.ca/canada/article/statcan-releases-new-projections-on-canadas-population-for-2075/
-Summary: Statistics Canada has projected that Canada's population could reach 57 million by the year 2075. While this long-term forecast indicates significant growth, it does not directly answer the question of whether Canada's population will increase or decrease in the current year. To assess the population trend for this year, one would need to consider recent data on birth rates, death rates, and immigration patterns, as these factors play a crucial role in determining annual population changes.
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://cbc.ca/news/politics/canada-zero-population-growth-9.7107361
+Summary: Canada's population is expected to remain unchanged this year, with zero growth projected for 2026. This stagnation is primarily due to reductions in non-permanent resident admissions under the federal Immigration Levels Plan, including significant cuts to temporary work and student visas. After experiencing record growth in 2022 and 2023, driven by immigration, recent data indicates that population gains have plateaued, with some decline in non-permanent residents. Overall, the trend suggests that Canada's population will stay flat or potentially decline slightly in 2026.
 
 Title: Demographic Implications of the 2026-2028 Immigration Levels Plan
 Author: 
 Published Date: 2026-02-26T00:00:00.000Z
 URL: https://www.pbo-dpb.ca/en/publications/RP-2526-025-S--demographic-implications-2026-2028-immigration-levels-plan--implications-demographiques-plan-niveaux-immigration-2026-2028
-Summary: The report on the "Demographic Implications of the 2026-2028 Immigration Levels Plan" provides insights into Canada's population trends, which are crucial for predicting whether the population will increase or decrease this year. Key points include:
+Summary: The report indicates that Canada's population growth is expected to remain very modest in the near term, with projections showing a flat or slightly increasing trend. Specifically, population growth is forecasted to be only 0.3% in 2027 and to stabilize around 0.8% annually over the medium term, which is below the historical average of 1.1%. The decline in non-permanent residents (NPRs) and the stabilization of permanent resident admissions at 380,000 per year suggest limited growth. Overall, these trends imply that Canada's population is likely to stay relatively stable or experience a slight increase this year.
 
-1. **Immigration Levels**: The Government of Canada has set a target of 380,000 permanent resident admissions annually from 2026 to 2028. This is part of a broader strategy to manage population growth through immigration.
+Title: Canada’s population growth has stalled. What does that mean?
+Author: 
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://www.cp24.com/news/canada/2026/02/28/it-was-way-too-much-experts-weigh-in-on-canadas-fluctuating-population-growth/
+Summary: Canada's population growth is expected to remain flat in 2026 for the second consecutive year, primarily due to a significant decline in natural population increase caused by low fertility rates and an aging population. While immigration has historically driven population growth, recent policies have aimed to reduce immigration levels, though this is unlikely to significantly impact the overall trend. The fertility rate in Canada hit a record low in 2024, influenced by socioeconomic and cultural factors such as increased education, workforce participation, and contraception use. Overall, Canada's population is not expected to increase this year and may continue to stagnate or decline unless there are substantial changes in immigration policies or fertility rates.
 
-2. **Non-Permanent Residents (NPRs)**: The plan aims to reduce the NPR population to less than 5% of Canada's total population by the end of 2027. The share of NPRs is projected to decline from a peak of 7.6% in 2024 to just under 5% by the end of 2027.
-
-3. **Population Growth Projections**: The Parliamentary Budget Officer (PBO) forecasts that total population growth will remain flat in 2026, with a modest increase of only 0.3% in 2027. Over the medium term, growth is expected to stabilize around 0.8% annually, which is below the historical average of 1.1%.
-
-4. **Implications for 2026**: Given that the population growth is projected to be flat this year, it suggests that Canada’s population may not significantly increase in 2026, aligning with the PBO's assessment of demographic trends.
-
-In summary, based
-
-Title: Canada's population could double by 2075 to 76 million - The Hub
-Author: The Hub Staff 
-                                     View bio
-Published Date: 2026-01-27T00:00:00.000Z
-URL: https://thehub.ca/2026/01/27/canadas-population-could-double-by-2075-to-76-million-statistics-canada/
-Summary: Canada's population growth is expected to experience a slowdown in the short term, with projections indicating potential declines in 2026 and 2027 due to reduced immigration targets set by the federal government. Specifically, the government aims to stabilize permanent residency at 380,000 from 2026 to 2028, which may lead to a decrease in both permanent and temporary residents. However, despite this downturn, most scenarios predict that immigration will increase in the following years, contributing to annual population growth of hundreds of thousands. 
-
-As of July 2025, Canada's estimated population is 41.7 million, and while the medium-growth scenario forecasts a population of 57.4 million by 2075, the immediate outlook for this year suggests a potential decline or stagnation. Therefore, while long-term projections indicate significant growth, the current year may see a decrease in population numbers.
-
-Title: Statistics Canada Population Projections Show Canada Could Reach 57.4 Million by 2075
-Author: ImmigCanada Team
-Published Date: 2026-01-31T00:00:00.000Z
-URL: https://immigcanada.com/statistics-canada-population-projections/
-Summary: Statistics Canada has projected that Canada’s population will continue to grow, potentially reaching 57.4 million by 2075, driven primarily by immigration. In the short term, while the exact population change for this year is not specified, the medium-growth scenario indicates a rise from 41.7 million in 2025. Key factors influencing this growth include a slowing natural population increase due to aging and lower birth rates, alongside sustained immigration levels. As Canada’s population ages, the demand for healthcare and social services will increase, further emphasizing the importance of immigration in maintaining workforce levels. Overall, the trend suggests a continued upward trajectory for Canada’s population in the coming years.
+Title: Mark Carney Confirms $1,533 CPP Payment Direct Deposit Expected in February 2026
+Author: Mackenzie Lee
+Published Date: 2026-02-09T00:00:00.000Z
+URL: https://www.realnorthfund.ca/mark-carney-confirm-1533-cpp-payment-feb-2026/
+Summary: The webpage discusses projected increases in Canada Pension Plan (CPP) payments, specifically highlighting a potential maximum monthly benefit of $1,533 by February 2026, driven by wage growth and ongoing enhancements to the program. While primarily focused on retirement benefits and economic outlooks, the content emphasizes broader economic factors such as wage trends and long-term financial planning. These factors are indirectly relevant to population trends, as economic stability and wage growth can influence migration, birth rates, and overall demographic shifts. However, the webpage does not directly address Canada's population size or trends for this year. To predict whether Canada's population is up or down this year, one would need to consider additional data sources such as recent census reports, birth and death rates, migration statistics, and economic conditions influencing demographic changes.
 
 

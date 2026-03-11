@@ -1,7 +1,7 @@
 # Research: Will the Democrats win the Florida governor race in 2026?
 
 **Market ID:** 0x22492ab0d5c936a0c8b24e241bcbe959ee4d7e52f227a8d128d38a025316eb85
-**Researched At:** March 1, 2026 at 05:59:07 AM UTC
+**Researched At:** March 11, 2026 at 04:16:56 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democrats win the Florida governor race in 2026?"
 
 ---
@@ -9,48 +9,50 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Current data (tight but opaque polling and strong GOP structural advantages) support a Democratic win chance in the low double digits, making the 17.5% price broadly reasonable; the maximum detectable mispricing is small (~5 cents) and not compelling.
+Current polls show Democrats trailing by about six points—implying roughly a 20–25% win chance—close to the 17.5% market price. Low trading volume suggests price inertia, but the magnitude of any mispricing is small.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the Democratic nominee will win Florida’s 2026 governor’s race. A “YES” settles if the Democrat (once nominated) is called the winner by AP, Fox, and NBC (or by official certification). “NO” if the Republican or any other candidate wins.
+The market asks: “Will the Democrats win the 2026 Florida governor race?” A YES resolves if the Democratic nominee wins the general election, as called by AP/Fox/NBC (or upon certification). A NO resolves if any other candidate (Republican, independent, third party) wins.
 
 2. EVIDENCE EVALUATION  
-Bullish for Democrats (suggests 17.5% might be too low):  
-• Newsweek (02/27/2026) poll shows GOP’s Byron Donalds only holds a “slight lead” over Democrat David Jolly, implying a competitive race rather than a near-certainty for the GOP. If the race truly splits 51/49, a 49% win probability for the Democrat would be far above 17.5%.  
-Bearish for Democrats (supports 17.5% or lower):  
-• Sportsbook Review (02/10/2026) aggregates odds at GOP 88% vs. Dem 12%.  
-• Florida hasn’t elected a Democratic governor since 1994; Republicans hold trifecta control and DeSantis’s term-limited successor is heavily favored.  
-• Nate Silver article (02/13/2026) details a “death spiral” in Florida Democrats’ fundraising and candidate quality.  
+Bullish for Democrats (i.e. market underpricing YES):  
+- Multiple March 4, 2026 University of North Florida polls show Democrats within 6–7 points of likely Republican nominee Byron Donalds (e.g. Donalds 50, Demings/Jolly ~43).  
+- The sizable undecided share (~7–10%) leaves room for shifts.  
+- Historical shifts in midterm sentiment: 2026 could favor Democrats if national mood swings.  
 
-Source Credibility & Recency:  
-• Newsweek poll (very recent, but sample/methodology not detailed)  
-• Sportsbook odds (industry-standard but reflect bettors’ biases)  
-• Ballotpedia/Wikipedia (general background, not predictive data)  
-All are February 2026, so up-to-date.
+Bearish for Democrats (i.e. price reasonable or even high):  
+- Florida’s Republican registration advantage (~1.5 million) and recent GOP statewide strength (2022 governor + Senate wins by double digits).  
+- Donalds’s core support (>80% among Trump voters) suggests strong base turnout.  
+- Polls are still early; candidate names not fully known and many voters undecided.  
+- A 6–7 point polling deficit ~translates via normal swing models to ~20–25% win probability—only modestly above 17.5%.
+
+Source credibility & recency:  
+All polls are from March 4, 2026, by a reputable academic institution, reported in multiple outlets. Recency is high, but hypothetical matchups (candidate nominations not finalized) inject uncertainty.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 17.5% price implies Dems are heavy underdogs but still have nonzero hope—plausible if bettors weight Florida’s recent red shift heavily but acknowledge volatility.  
-• Low volume suggests few traders; the narrow spread could reflect an initial anchor trade rather than a broad consensus.  
-• No sign informed speculators have flooded the market, but also no glaring, unpriced demographic or polling shock in the research.
+- A 17.5% price aligns with a baseline model: Democrats ≈6-point underdog → 15–25% chance.  
+- Zero trading volume over 148 days suggests the price may be anchored on initial beliefs or automated quotes rather than updated by a pool of active traders.  
+- The lack of liquidity could either imply the outcome is viewed as a foregone conclusion (unlikely at 17.5%) or that informed traders aren’t engaging on this contract (more plausible).
 
 4. MISPRICING ASSESSMENT  
-• The biggest disparity is between the poll’s implication of a near-tossup and the market’s assignment of only ~17.5% to the Dems. However, the poll measures current name-ID support, not win probabilities, and likely understates structural GOP advantages.  
-• The difference between the sportsbook (12% Dem) and prediction market (17.5%) is only 5.5 cents—within normal model and opinion variance.  
-• No evidence of large, unpriced shocks (e.g., major candidate scandal or polling blackout), nor a misinterpretation of resolution rules.
+- The market price is within the plausible range implied by current polls and uncertainty.  
+- There is no strong, specific evidence that the Democratic win probability should be, say, >30% today—polls still show a clear GOP lead.  
+- Any mispricing appears small (on the order of a few cents) and could easily reflect different assessments of undecideds, turnout, or candidate effects that informed traders are weighing.  
+- I find no indication of a glaring >20 ¢ mispricing; the most charitable view is that this contract sits near a fair reflection of present knowledge.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~40% (there is some dispersion between poll-inferred competitiveness and market odds, but no smoking gun).  
-Magnitude of mispricing: ~5 cents (difference between 12% and 17.5%).  
-Expected value = 40% × 5 cents = 2 cents.
+- Strength of evidence for mispricing: ~30% (the polls leave room for interpretation, but nothing decisive is missing).  
+- Magnitude of mispricing: ~5 ¢ (price might be slightly low if one assumes faster Democratic gains).  
+- Expected value = 0.30 × 5 ¢ = 1.5 ¢.
 
-EXPECTED_VALUE: 2  
-SUMMARY: Current data (tight but opaque polling and strong GOP structural advantages) support a Democratic win chance in the low double digits, making the 17.5% price broadly reasonable; the maximum detectable mispricing is small (~5 cents) and not compelling.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Current polls show Democrats trailing by about six points—implying roughly a 20–25% win chance—close to the 17.5% market price. Low trading volume suggests price inertia, but the magnitude of any mispricing is small.  
 CONFIDENCE: medium
 
 ---
@@ -59,69 +61,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: David Jolly's chances of winning Florida governor election—Poll - Newsweek
+Title: Florida poll: Democrats within single digits in governor, Senate races
+Author: Anthony Man  |  aman@sunsentinel.com  | South Florida Sun Sentinel
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.sun-sentinel.com/2026/03/04/florida-poll-shows-republicans-lead-democrats-in-statewide-races-but-only-by-single-digits/
+Summary: The recent University of North Florida poll indicates that Democratic candidates for Florida governor, Jerry Demings and David Jolly, are within single digits of the Republican frontrunner Byron Donalds in hypothetical head-to-head matchups, with Donalds leading by 6-7 percentage points. While Florida has historically favored Republicans in statewide races, the poll results suggest a potential shift or increased competitiveness for Democrats, especially given the recent strong Republican victories in 2022. However, many candidates are still relatively unknown, and voter preferences could change as the election approaches. Overall, Democrats appear to have a fighting chance, but the race remains competitive and uncertain at this stage.
+
+Title: Democrats’ Chances of Defeating Republicans To Flip Florida: New Poll - Newsweek
 Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://newsweek.com/david-jollys-chances-of-winning-florida-governor-election-poll-11595362
-Summary: A recent poll indicates that GOP Representative Byron Donalds holds a slight lead over former Representative David Jolly, who is running as a Democrat in the 2026 Florida governor's race. This election is significant as Florida has shifted towards a more Republican stance in recent years, having supported Donald Trump by a substantial margin in previous elections. The dynamics of this race will be crucial for predicting whether Democrats can reclaim the governorship in a state that has become increasingly Republican-leaning. Factors to consider include Jolly's campaign strategy, voter sentiment, and any potential shifts in political alignment leading up to the election.
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://newsweek.com/democrats-chances-of-defeating-republicans-to-flip-florida-new-poll-11620342
+Summary: A recent University of North Florida poll indicates that Democrats are gaining ground in Florida's 2026 gubernatorial race, with Republican candidates still holding a lead but margins narrowing compared to previous years. Key Democratic contenders, such as Orange County Mayor Jerry Demings, are gaining visibility, though many voters remain unfamiliar with the candidates. The presence of a significant undecided voter share suggests the race could shift as campaigns develop. While Republicans currently hold a strong advantage, the closer polling and increased Democratic energy imply that Democrats could have a better chance than in past elections, making the outcome uncertain at this stage.
 
-Title: Florida Governor Election Odds & Prediction 2026 | How 2026 Race is Trading at Prediction Markets
+Title: Florida 2026 races: GOP holds single-digit leads in new poll
 Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.sportsbookreview.com/picks/more-sports/florida-governor-election-odds-prediction-market-2026/
-Summary: The Florida governor election in 2026 is expected to be heavily dominated by Republicans, making a Democratic victory unlikely. The current prediction markets indicate that the GOP has an 88% chance of winning, a trend consistent with Florida's historical voting patterns, where no Democrat has won a gubernatorial election since 1994. 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.yahoo.com/news/articles/florida-2026-races-gop-holds-100859051.html
+Summary: The latest poll indicates that Republicans currently hold a modest lead in Florida's 2026 governor's race, with GOP candidate Byron Donalds leading Democratic contenders by about six percentage points in hypothetical matchups. The race remains competitive, with a significant portion of voters still undecided. While Republicans have a substantial registration advantage—approximately 1.5 million more registered voters—the outcome is uncertain at this stage, as voter preferences are heavily influenced by partisanship rather than candidate identity. Therefore, it is too early to definitively predict whether Democrats will win the Florida governor race in 2026.
 
-Ron DeSantis, the current governor, is term-limited, and Byron Donalds is the frontrunner to succeed him, bolstered by a significant lead in polls and an endorsement from Donald Trump. Other Republican candidates, such as Casey DeSantis and Jay Collins, are trailing far behind with only a 3% chance in the prediction market. 
+Title: Poll: Byron Donalds leads Jerry Demings, David Jolly in hypothetical Governor's race matchups
+Author: A.G. Gancarski
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://floridapolitics.com/archives/783191-donalds-jolly-demings-poll/
+Summary: A recent University of North Florida poll indicates that if Byron Donalds secures the Republican nomination for Florida governor, he currently leads potential Democratic contenders, including Jerry Demings and David Jolly, in hypothetical matchups. Donalds holds a significant advantage among Republican voters, with over 80% support from Trump supporters, but has minimal crossover appeal to Democrats and Black voters. The poll suggests that Donalds could be a strong Republican contender, which may influence the Democratic strategy for the 2026 governor's race. However, the outcome will depend on various factors, including candidate nominations, campaign dynamics, and voter turnout.
 
-Given these factors, the likelihood of a Democratic win in the upcoming election appears minimal, as the focus shifts to which Republican candidate will lead the party and how they will shape Florida's political landscape moving forward.
-
-Title: 2026 Florida gubernatorial election
-URL: https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election
-Summary: The 2026 Florida gubernatorial election is set for November 3, 2026, with the incumbent governor being Ron DeSantis from the Republican Party. To assess the likelihood of a Democratic victory in this race, several factors should be considered:
-
-1. **Incumbency Advantage**: Ron DeSantis has been a prominent figure in Florida politics, and incumbents typically have an advantage due to established name recognition and a record of governance.
-
-2. **Political Climate**: The political landscape in Florida has leaned Republican in recent years, with DeSantis winning the 2022 election by a significant margin. The Democrats will need to address key issues that resonate with voters to shift this trend.
-
-3. **Democratic Strategy**: The effectiveness of the Democratic Party's campaign strategy, including candidate selection, messaging, and outreach efforts, will be crucial. They may need to focus on local issues, voter turnout, and mobilizing younger and minority voters.
-
-4. **National Trends**: Broader national political trends and the performance of the Democratic Party in other elections leading up to 2026 could influence voter sentiment in Florida.
-
-5. **Key Issues**: Important topics such as the economy, healthcare, education, and social issues will play a significant role in shaping voter preferences. The Democrats must effectively address these to gain traction.
-
-In summary, while the Democrats face challenges in winning the Florida gubernatorial race in 2026, their success will depend on their ability to capitalize on
-
-Title: Florida gubernatorial and lieutenant gubernatorial election, 2026
-URL: https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The 2026 Florida gubernatorial election will be a significant event, as it will determine the state's next governor and lieutenant governor. Key factors to consider when predicting whether Democrats can win include:
-
-1. **Current Political Landscape**: Florida has leaned Republican in recent elections, with Governor Ron DeSantis winning re-election in 2022. Understanding voter sentiment and demographic shifts will be crucial.
-
-2. **Candidates**: The Democratic candidate's identity and platform will play a vital role. Potential candidates and their ability to resonate with Florida's diverse electorate will be pivotal.
-
-3. **Voter Turnout**: Historical turnout rates among different demographics, particularly among young voters and minority groups, could influence the outcome. Democrats typically rely on high turnout from these groups.
-
-4. **Key Issues**: The political climate surrounding issues such as education, healthcare, and climate change may sway voters. Democrats will need to effectively address these topics to gain traction.
-
-5. **National Trends**: Broader national trends in voter behavior and party popularity leading up to the election could impact local dynamics in Florida.
-
-6. **Campaign Strategy**: The effectiveness of campaign strategies, including fundraising and grassroots mobilization, will be essential for the Democratic Party's chances.
-
-Monitoring these factors will provide insights into the likelihood of a Democratic victory in the 2026 Florida gubernatorial race.
-
-Title: Can Democrats escape their Florida death spiral?
-Author: Eli McKown-Dawson
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.natesilver.net/p/can-democrats-escape-their-florida
-Summary: The article discusses the challenges facing the Democratic Party in Florida, highlighting a significant decline in their political power over the years. Once a competitive swing state, Florida has seen Republicans maintain a trifecta of control since 1999, with Democrats last holding a majority in the Congressional delegation in 1988. The piece likens the party's struggles to a "death spiral," where repeated electoral losses lead to diminished funding and a lack of quality candidates, making recovery increasingly difficult.
-
-For the 2026 Florida governor race, several factors could influence the Democrats' chances:
-
-1. **Historical Context**: The long-standing Republican dominance in Florida suggests a challenging environment for Democrats.
-2. **Candidate Quality**: The ability to recruit strong candidates will be crucial. The article implies that the current state of the party may hinder this.
-3. **Voter Demographics**: Changes in voter demographics and turnout patterns could impact the race, as Florida's electorate is diverse and evolving.
-4. **Political Climate**: National trends and local issues will also play a significant role in shaping voter sentiment leading up to the election.
-
-Overall, while the Democrats face significant hurdles, the political landscape can shift, and strategic efforts may improve their prospects for the 2026 gubernatorial race.
+Title: New FL Gubernatorial Poll: Donalds Up by 6 vs. Jolly, 7 Over Demings – Tallahassee Reports
+Author: Staff
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://tallahasseereports.com/2026/03/04/new-fl-gubernatorial-poll-donalds-up-by-6-vs-jolly-7-over-demings/
+Summary: A recent poll indicates that Republican candidates, including Byron Donalds and Orange County Mayor Jerry Demings, currently hold a lead over their Democratic opponents in Florida's gubernatorial race, with Donalds leading by 6 points and Demings by 7. The survey suggests that voter preferences are still largely influenced by party affiliation, with Republicans maintaining a clear advantage, though this advantage appears somewhat diminished compared to previous years. Overall, the poll shows a competitive landscape, but the current Republican leads suggest that Democrats face an uphill battle to win the Florida governor race in 2026.
 
 

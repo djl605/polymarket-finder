@@ -1,7 +1,7 @@
 # Research: Will John E. Sununu be the Republican nominee for Senate in New Hampshire?
 
 **Market ID:** 0x61c4f9b8b29569661a926fbbf35d8fd9c29f4a49c7d9652e63e8c36635af7e90
-**Researched At:** March 1, 2026 at 06:02:09 AM UTC
+**Researched At:** March 11, 2026 at 04:19:00 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will John E. Sununu be the Republican nominee for Senate in New Hampshire?"
 
 ---
@@ -13,40 +13,40 @@
 
 ### Summary
 
-Recent polls show Sununu leading Brown by ~23 points among likely GOP primary voters, and Trump’s endorsement further cements his position; the lone bearish argument (a Dem-party memo) is partisan and not directly applicable to primary voters. The market’s 83% probability aligns with publicly available data, with minimal evidence of mispricing.
+The research shows potential headwinds for Sununu—mainly from Trump’s low popularity and a challenger in Scott Brown—but no hard polling data to undermine the 85% price. Low volume suggests insiders see Sununu as the default favorite, and there’s no clear quantitative evidence of a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether John E. Sununu will win the 2026 New Hampshire Republican Senate primary. A “YES” requires Sununu to finish first in the GOP primary; “NO” if another candidate wins or no primary occurs (resolving to “Other”).
+The market asks: “Will John E. Sununu be the Republican nominee for Senate in New Hampshire?” It resolves YES if Sununu wins the NH GOP primary for U.S. Senate in 2026, NO if Scott Brown or another candidate wins (or if no primary occurs).  
 
 2. EVIDENCE EVALUATION  
-• Bearish evidence:  
-  – Feb 19 NH Dem memo claims Trump’s endorsement could hurt Sununu, citing 56% statewide disapproval of Trump. However, that figure reflects the general electorate, not GOP primary voters, and comes from a partisan source with strategic motives.  
-  – Sununu’s prior public criticism of Trump (calling him a “loser” in 2024) might dampen enthusiasm among hard-core Trump loyalists. But none of the articles quantify a polling shift against Sununu.  
-• Bullish evidence:  
-  – Multiple Feb 1 articles uniformly report Trump’s endorsement as a powerful boost among GOP base voters.  
-  – A Feb 1 AOL poll shows Sununu leading Scott Brown 48%–25% among likely Republican primary voters, a 23-point margin that, if accurate and stable, implies a high (>80%) win probability.  
-  – RNC signaling this seat as a priority implies resources and party infrastructure behind Sununu.  
-• Source credibility & recency: All reports are February 2026, contemporaneous with the endorsement and first published polling. The Democratic memo is potentially biased but offers no concrete counter-data on GOP primary voters. The AOL poll’s methodology isn’t fully detailed, but multiple outlets cite very similar assessments of Sununu’s strength.
+• Bearish on Sununu (undermines 85%):  
+  - Memo (2/19/26): Trump’s endorsement may be a liability in NH; Trump’s approval is low in-state and Scott Brown is attacking Sununu on those ties. This suggests competitive backlash potential.  
+  - Competitive landscape (Cillizza; PlusMinus4): NH is seen as a toss-up for Senate; Republicans are in-fighting nationally, which could boost a challenger.  
+• Bullish on Sununu (supports 85%):  
+  - No published NH primary polling; lack of direct data implies no strong signal that Sununu trails.  
+  - Sununu is a former congressman with name recognition and establishment backing. No evidence of any other major GOP entrant aside from Scott Brown.  
+• Source credibility & recency: All sources are from Feb–early Mar 2026, all reasonably credible but none provide primary poll numbers.  
+• Nothing obvious seems omitted: if Brown were leading decisively, we’d likely see polling leaks.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 83% price aligns with a mid-February poll showing Sununu up by 23 points, which in electoral forecasting often translates to an 80–90% probability.  
-• Low volume may reflect that insiders view the outcome as straightforward or that few speculators are active in state Senate-nomination markets.  
-• It could also reflect consolidation behind a single viewpoint (e.g., one informed trader set the price), but the consistency of published polling and endorsements suggests a broader consensus.
+• A price of 85% can reflect near‐certainty by insiders that the establishment favorite (Sununu) will secure the nomination absent a clear insurgent surge.  
+• Low volume likely indicates few traders—perhaps one or two—are setting the price, but lack of conflicting public data deters broader engagement.  
+• The outcome may be seen as straightforward unless/until primary polls emerge.  
 
 4. MISPRICING ASSESSMENT  
-• There is no credible evidence of a >20-point mispricing. The strongest bearish claim (Dem memo on Trump’s unpopularity) does not directly address GOP primary voters or override a 23-point polling lead.  
-• The bullish data (endorsement + large polling lead) appears already reflected in the ~83% price.  
-• Absent contrary new polling or a credible challenger emerging, the market seems neither materially over- nor underpriced.
+• There is credible uncertainty—Trump linkage could depress Sununu’s chances by 5–15 points—but no hard data to confirm that.  
+• In absence of direct polling, large mispricing (>20 points) is unlikely.  
+• The most charitable interpretation: informed insiders expect Sununu to prevail comfortably despite a potentially closer race than 85/15.  
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 20% (the only downside evidence is a partisan memo with limited relevance to GOP primary voters).  
-• Magnitude of mispricing if any: 5 cents (very small, given strong poll lead).  
-• EV = 20% × 5¢ = 1¢
+• Strength of evidence (few quantifiable data points): ~10%  
+• Magnitude of possible mispricing: ~10 cents  
+• Expected value = 0.10 × 10c = 1.0 cent  
 
 EXPECTED_VALUE: 1.0  
-SUMMARY: Recent polls show Sununu leading Brown by ~23 points among likely GOP primary voters, and Trump’s endorsement further cements his position; the lone bearish argument (a Dem-party memo) is partisan and not directly applicable to primary voters. The market’s 83% probability aligns with publicly available data, with minimal evidence of mispricing.  
+SUMMARY: The research shows potential headwinds for Sununu—mainly from Trump’s low popularity and a challenger in Scott Brown—but no hard polling data to undermine the 85% price. Low volume suggests insiders see Sununu as the default favorite, and there’s no clear quantitative evidence of a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -59,36 +59,30 @@ Title: Memo: Trump endorsement will haunt Sununu in 2026 Senate race
 Author: Colin Booth
 Published Date: 2026-02-19T00:00:00.000Z
 URL: https://granitepostnews.com/2026/02/19/memo-trump-endorsement-will-haunt-sununu-in-2026-senate-race/
-Summary: A recent memo from the New Hampshire Democratic Party suggests that Donald Trump's endorsement of John E. Sununu could negatively impact his chances in the 2026 Senate race. The memo argues that Trump's unpopularity in New Hampshire, where 56% of residents disapprove of his job performance, may tie Sununu to an unpopular agenda, making him vulnerable in the Republican primary against Scott Brown. Sununu's public acceptance of the endorsement contrasts with the memo's claim that it could be a strategic liability, as it connects him to Trump's policies, particularly on tariffs, which have been contentious in the state. As the race develops, it will likely be framed as a referendum on both Sununu's record and Trump's influence, complicating Sununu's path to securing the Republican nomination.
+Summary: A memo suggests that President Trump’s endorsement of John E. Sununu in the 2026 New Hampshire Senate race may pose a strategic vulnerability for him, as Trump remains unpopular among local voters. Polls indicate a significant portion of New Hampshire residents disapprove of Trump, and Sununu’s alignment with Trump’s policies, particularly tariffs, could be a liability. His primary opponent, Scott Brown, is actively attacking Sununu over his ties to Trump and related controversies, indicating a competitive and potentially contentious primary race. These factors could influence Sununu’s prospects of securing the Republican nomination.
 
-Title: Trump endorses John Sununu in New Hampshire Senate race
+Title: U.S. Senate Candidate John E. Sununu 2-26-26 | News Radio 610 | New Hampshire Today
+Author: New Hampshire Today
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://wgiram.iheart.com/featured/new-hampshire-today/content/2026-02-26-398-new-hampshire-today-us-senate-candidate-john-e-sununu-2-26-26/
+Summary: The webpage features a discussion with former U.S. Senator John E. Sununu on New Hampshire Today, where he addresses current political issues, including President Trump's focus on the economy and potential military actions. While it highlights Sununu's prominence in New Hampshire politics and his engagement in national discussions, it does not provide specific information about his current candidacy or prospects for securing the Republican nomination for the upcoming Senate race. Therefore, based on this source, there is no definitive insight into whether John E. Sununu will be the Republican nominee for Senate in New Hampshire.
+
+Title: Senate candidates in NH react to war with Iran | Maine Public
 Author: 
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.nbcnews.com/politics/2026-election/trump-endorses-john-sununu-new-hampshire-senate-race-rcna256966
-Summary: Former President Donald Trump has endorsed John Sununu in the New Hampshire Senate race, positioning him as a key candidate for the Republican nomination. Trump praised Sununu as an "America First Patriot" and emphasized his strong support from respected leaders in New Hampshire. This endorsement comes as Sununu aims to reclaim a Senate seat previously held by retiring Democrat Jeanne Shaheen.
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://www.mainepublic.org/2026-03-02/nh-senate-candidates-pappas-john-e-sununu-iran-trump-war-powers-act
+Summary: The article reports on reactions from New Hampshire Senate candidates regarding the U.S. military actions against Iran. Democratic Congressman Chris Pappas criticizes the Trump administration for not consulting Congress before launching strikes and supports invoking the War Powers Act to limit presidential military authority. Other candidates, including Democrat Karishma Manzur and Republican Scott Brown, express their positions on Iran, focusing on issues like war authorization and nuclear threat prevention. While the article provides insights into candidate perspectives on military policy and national security, it does not mention or provide information about John E. Sununu's candidacy or his potential to be the Republican nominee for the New Hampshire Senate seat.
 
-Despite Trump's backing, Sununu faces competition from other Republican candidates, notably Scott Brown, who has expressed his commitment to the race. Sununu's past criticisms of Trump, including calling him a “loser” in a 2024 op-ed, may influence voter perceptions. Additionally, Democrats, including Rep. Chris Pappas, have cautioned that the race could be more competitive than anticipated.
+Title: A First Look at Polling for 2026’s Key Senate Races
+Author: Brandon
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://plusminus4.substack.com/p/a-first-look-at-polling-for-2026s
+Summary: The article provides an early overview of key Senate races in 2026, highlighting states with competitive races and current polling trends. In New Hampshire, the race involves incumbent Democrat Jeanne Shaheen, with the Republican primary still to be determined. While the article does not mention John E. Sununu specifically, it notes that New Hampshire's Senate race is expected to be competitive, with potential candidates like Sununu possibly vying for the Republican nomination. Given the state's history of close races and the importance of candidate quality, Sununu's prospects as a Republican nominee could depend on his ability to secure the primary and appeal to swing voters. Overall, the race remains uncertain, and Sununu's candidacy would be a significant factor to watch in predicting the Republican nomination in New Hampshire.
 
-The Republican National Committee has highlighted the significance of this Senate seat, indicating that it is a priority for the party. Overall, while Trump's endorsement strengthens Sununu's position, the dynamics of the race, including his past criticisms and the presence of other candidates, will be crucial in determining whether he secures the Republican nomination.
-
-Title: Trump endorses ‘America First Patriot’ John Sununu in New Hampshire Senate primary
-Author: David Zimmermann
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.washingtonexaminer.com/news/campaigns/congressional/4442386/trump-endorse-john-sununu-new-hampshire-senate/
-Summary: Former President Donald Trump has endorsed John Sununu in the New Hampshire Senate primary, labeling him an "America First Patriot." This endorsement could significantly influence Sununu's chances of securing the Republican nomination, as Trump's backing often mobilizes support among the party's base. Sununu's alignment with Trump's policies and values may resonate with voters who prioritize the "America First" agenda. Observers should consider the impact of this endorsement on Sununu's campaign dynamics, voter sentiment, and potential challengers in the primary, as these factors will be crucial in predicting whether he will become the Republican nominee for Senate in New Hampshire.
-
-Title: Sununu gets backing of Trump in New Hampshire Senate race | New Hampshire | thecentersquare.com
-Author: Chris Wade | The Center Square contributor
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.thecentersquare.com/new_hampshire/article_85790b45-b7f3-4239-8ffb-50db0bb07281.html
-Summary: John E. Sununu has received significant backing from former President Donald Trump in his campaign for the New Hampshire Senate seat. This endorsement could enhance Sununu's chances of securing the Republican nomination, as Trump's influence remains strong among GOP voters. The dynamics of the race, including Sununu's political experience and Trump's support, will be crucial factors in predicting whether he will be the nominee. Additionally, monitoring other potential candidates and their campaigns will provide further insights into the nomination process.
-
-Title: Trump backs John Sununu in New Hampshire Senate race - AOL
-Author: AOL
-Published Date: 2026-02-01T00:00:00.000Z
-URL: https://www.aol.com/articles/trump-backs-john-sununu-hampshire-195711375.html
-Summary: Former President Trump has endorsed John E. Sununu in the New Hampshire Republican Senate primary, which could significantly bolster his chances of becoming the nominee. In a recent poll, Sununu leads his primary opponent, Scott Brown, with 48% support compared to Brown's 25% among likely Republican voters. Trump's endorsement emphasizes Sununu's alignment with the "America First Agenda" and suggests strong backing from influential Republican leaders in the state.
-
-Sununu's potential candidacy is further strengthened by polling data indicating he may have a better chance against the likely Democratic opponent, Rep. Chris Pappas, compared to Brown. In a head-to-head matchup, Sununu trails Pappas by 5 points, while Brown trails by 10 points. Given these factors, Sununu appears to be in a favorable position to secure the Republican nomination for Senate in New Hampshire.
+Title: The 11(!) most competitive 2026 Senate races
+Author: Chris Cillizza
+Published Date: 2026-02-19T00:00:00.000Z
+URL: https://chriscillizza.substack.com/p/the-11-most-competitive-2026-senate
+Summary: The article discusses the evolving landscape of the 2026 U.S. Senate races, highlighting factors that could influence candidate outcomes, including candidate decisions, intra-party conflicts, and the national political environment. It emphasizes that Democrats currently have a plausible chance to gain Senate control, partly due to Republican in-fighting and the declining approval ratings of Donald Trump and his party. While the article does not specifically mention John E. Sununu, it notes that New Hampshire's Senate race remains competitive, with potential implications for Republican candidates. Given the context, Sununu's prospects as a Republican nominee could depend on intra-party dynamics, his ability to capitalize on the national political climate, and the strength of his opponents.
 
 

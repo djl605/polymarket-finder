@@ -1,7 +1,7 @@
 # Research: Will Michael Blake be the Democratic nominee for NY-15?
 
 **Market ID:** 0x1522a8bc6e0edaec715b93b1bb35558ff56906ede6bcbe55282267a8a167fa64
-**Researched At:** March 3, 2026 at 02:56:19 PM UTC
+**Researched At:** March 11, 2026 at 04:18:52 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Michael Blake be the Democratic nominee for NY-15?"
 
 ---
@@ -9,44 +9,36 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.8¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-Qualitative reporting shows Blake is a credible but underdog challenger to incumbent Torres, who holds key endorsements; absence of hard polling supports the current 16% price as reasonable, yielding under 1 cent expected value.
+None of the research touches on Michael Blake’s bid for NY-15, leaving no basis to challenge the 19.5% market probability. In the absence of relevant campaign data or endorsements, the price likely just reflects prevailing uncertainty.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Michael Blake will win the June 23, 2026 Democratic primary in NY-15. A YES resolution requires Blake to be officially nominated by the Democratic Party (per Democrats.org or equivalent), and no later replacement will matter. A NO resolution covers any other candidate winning or no nominee by Nov 3, 2026.
+The market asks whether Michael Blake will be the officially announced Democratic nominee for New York’s 15th Congressional District in the June 23, 2026 primary. A “YES” resolution requires Michael Blake to win that primary (or be unopposed and hence declared nominee); a “NO” resolution covers any other nominee or no nominee by the November 3 deadline.  
 
 2. EVIDENCE EVALUATION  
-Bullish for Blake:  
-- Feb 5 2026 Progress Report article notes Blake mounting a rematch challenge vs. incumbent Ritchie Torres, positioning himself as a progressive alternative and running a sustained campaign.  
-- Blake’s previous service and progressive bona fides could energize a left‐leaning base.
-
-Bearish for Blake:  
-- Feb 12 2026 Bronx Times and PoliticsNY report Torres has secured the Congressional Black Caucus PAC endorsement, underscoring establishment support and an incumbency advantage.  
-- No polling or quantitative indicators of Blake gaining parity have surfaced; the race remains described as “competitive but uncertain.”
-
-Source credibility and recency: All sources are from reputable outlets in Feb 2026. They provide qualitative narratives but no hard polling or fundraising figures to quantify Blake’s odds. Absence of concrete polling implies uncertainty but also that 16% could reflect informed traders’ subjective weighting of a long‐shot challenger.
+All five research items focus on other districts, candidates, or statewide races and mention neither Michael Blake nor NY-15. There is no direct data on Blake’s candidacy, fundraising, endorsements, polling, or field of opponents in NY-15.  
+• No evidence suggests 19.5% is too low or too high.  
+• No supportive data exist either; the price seems to reflect general uncertainty.  
+• All sources are recent and credible for their topics but irrelevant here.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 16% price plausibly encodes:  
-- Blake’s progressive appeal plus name recognition (~10–20%) against Torres’s incumbency.  
-- Low volume/spread suggests the price comes from a small set of traders but is tight enough that a majority view of this contest’s odds has been reflected.  
-- The race lacks wide public polling, so informed traders may have limited edge.
+With only $910 in volume and a tight spread, the price likely reflects a single or small group of traders’ priors rather than broad consensus. The lack of visible information may deter more informed traders, keeping volume low. Alternatively, traders may have private insights, but none are in the public record provided.  
 
 4. MISPRICING ASSESSMENT  
-No clear quantitative data (e.g., polls, fundraising gaps) is missing that would flip the odds substantially. The incumbent’s endorsement lead justifies a sub-20% chance for Blake, and there’s no sign of a late‐breaking surge. A >20-cent mispricing would require hard evidence that Blake is either far more or far less competitive than 16%, which we do not have.
+There is no specific, credible evidence unaccounted for in the 19.5% price. Given the absence of any details on Blake’s campaign status or competitiveness in NY-15, we cannot identify a clear mispricing.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: ~20% (mainly qualitative).  
-Potential magnitude of mispricing: ~4 cents.  
-EV ≈ 0.2 × 4 = 0.8 cents.
+Strength of evidence: 0% (no relevant data)  
+Magnitude of mispricing: 0¢ (no detected error)  
+Expected value = 0% × 0¢ = 0¢  
 
-EXPECTED_VALUE: 0.8  
-SUMMARY: Qualitative reporting shows Blake is a credible but underdog challenger to incumbent Torres, who holds key endorsements; absence of hard polling supports the current 16% price as reasonable, yielding under 1 cent expected value.  
+EXPECTED_VALUE: 0  
+SUMMARY: None of the research touches on Michael Blake’s bid for NY-15, leaving no basis to challenge the 19.5% market probability. In the absence of relevant campaign data or endorsements, the price likely just reflects prevailing uncertainty.  
 CONFIDENCE: medium
 
 ---
@@ -55,34 +47,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: No ICE, No AIPAC: Michael Blake is primarying Ritchie Torres
-Author: Jordan Zakarin
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.progressreport.news/p/no-ice-no-aipac-michael-blake-is
-Summary: Michael Blake, a former New York Assemblyman, is challenging incumbent Ritchie Torres in the Democratic primary for NY-15. Blake is running without support from major pro-Israel lobbying groups like AIPAC or ICE, signaling a potentially progressive stance. The race is notable as a rematch after six years, with Blake returning to contest Torres, who has shifted toward more conservative positions. Given Blake's history of progressive advocacy and the current political dynamics, his primary challenge aims to position him as a viable alternative to Torres. While the outcome remains uncertain, Blake's persistent effort and the absence of establishment backing suggest a competitive primary that could influence the eventual Democratic nominee for NY-15.
-
 Title: Clinton County Democratic Committee endorses Blake Gendebien
 Author: Sophia Falbo
 Published Date: 2026-02-25T00:00:00.000Z
 URL: https://www.mynbc5.com/article/clinton-county-democratic-committee-endorses-blake-gendebien/70486676
-Summary: The article reports that the Clinton County Democratic Committee endorsed Blake Gendebien for New York's 21st Congressional District, following a contentious meeting where the endorsement was decided by a narrow vote of 17-16, leading some attendees to storm out. The endorsement process involved multiple candidates, including Gendebien, Dylan Hewitt, and Stuart Amoriell. However, this information pertains specifically to NY-21 and does not provide any details about Michael Blake or the NY-15 district. Therefore, the webpage does not offer relevant information to predict whether Michael Blake will be the Democratic nominee for NY-15.
+Summary: The article reports that the Clinton County Democratic Committee endorsed Blake Gendebien for New York's 21st Congressional District, amid a contentious meeting where some attendees stormed out due to disagreements over the endorsement process. The endorsement was decided by a narrow vote of 23 to 7 in favor of Gendebien, with other candidates present. The event highlights internal party dynamics and candidate support within the Democratic Party, but it does not provide information about Michael Blake or the NY-15 district. Therefore, this content offers limited insight into predicting whether Michael Blake will be the Democratic nominee for NY-15.
 
-Title: Rep. Ritchie Torres secures Congressional Black Caucus PAC endorsement – Bronx Times
-Author: Emily Swanson
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.bxtimes.com/ritchie-torres-congressional-black-caucus-endorsement/
-Summary: Rep. Ritchie Torres has secured the endorsement of the Congressional Black Caucus PAC amid a competitive primary race for NY-15. Several Democratic candidates, including Michael Blake, Dalourny Nemorin, and José Vega, are vying for the nomination, with Blake actively campaigning. The race features attacks on Torres regarding his immigration votes and campaign funding, while Blake and others aim to challenge him. Given the current campaign dynamics and endorsements, Blake remains a significant contender, but the outcome is uncertain.
+Title: The Race at the Center of Everything - by Michael Lange
+Author: Michael Lange
+Published Date: 2026-02-25T00:00:00.000Z
+URL: https://www.michaellange.nyc/p/the-race-at-the-center-of-everything
+Summary: The article by Michael Lange discusses the political landscape of New York’s 12th Congressional District, highlighting its status as a hub of elite affluence, political influence, and community engagement through traditional Democratic forums. While the focus is on NY-12, the piece underscores the importance of local political dynamics, elite influence, and community organization, which could be relevant in understanding the broader Democratic landscape in New York. However, it does not provide specific information about Michael Blake or his candidacy for NY-15. To predict whether Blake will secure the Democratic nomination for NY-15, additional details about his political background, campaign strategy, and the current field of candidates would be necessary.
 
-Title: Rep. Ritchie Torres secures Congressional Black Caucus PAC endorsement
-Author: Emily Swanson
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://politicsny.com/2026/02/12/rep-ritchie-torres-secures-congressional-black-caucus-pac-endorsement/
-Summary: Rep. Ritchie Torres has recently secured an important endorsement from the Congressional Black Caucus PAC amid the competitive race for New York's 15th Congressional District. This endorsement highlights Torres's effectiveness and strong presence in the district. While the article mentions other candidates, including Michael Blake, it does not specify Blake's current standing or likelihood of securing the Democratic nomination. Therefore, based on available information, Michael Blake's prospects as the Democratic nominee remain uncertain, with Torres gaining notable support that could influence the primary outcome.
+Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
+Author: Geoffrey Skelley
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://open.substack.com/pub/decisiondeskhq/p/the-key-house-seats-in-2026-1
+Summary: The article primarily discusses the upcoming 2026 U.S. House elections, focusing on key battleground seats and political dynamics. It highlights redistricting developments, candidate considerations, and notable political shifts, such as potential challenges within Republican primaries and changes in state-level leadership. While it provides context on redistricting and political trends in New York, including court decisions affecting district boundaries, it does not specifically mention Michael Blake or his candidacy for NY-15. Therefore, based on this source, there is no direct information to predict whether Michael Blake will be the Democratic nominee for NY-15.
 
-Title: Proud to cross-endorse with Michael Blake and to be ranked #2 on ...
+Title: State GOP formally designates Blakeman as nominee for governor - City & State New York
 Author: 
-Published Date: 2025-06-16T00:00:00.000Z
-URL: https://www.facebook.com/ZohranKMamdani/posts/proud-to-cross-endorse-with-michael-blake-and-to-be-ranked-2-on-his-ballot-we-ca/1110956747509809/
-Summary: The webpage indicates that the user has been temporarily blocked from accessing Facebook features, likely due to rapid activity. There is no relevant information about Michael Blake's candidacy or the NY-15 Democratic primary in the provided content. Therefore, no details are available from this source to predict whether Michael Blake will be the Democratic nominee for NY-15.
+Published Date: 2026-02-11T00:00:00.000Z
+URL: http://www.cityandstateny.com/politics/2026/02/state-gop-formally-designates-blakeman-nominee-governor/411361/?oref=csny-next-story
+Summary: The provided webpage primarily reports on the State GOP's formal designation of Blakeman as the nominee for governor and includes various political updates, including local officials' activities and policy issues. There is no specific information regarding Michael Blake or the Democratic primary race for NY-15. Therefore, based on this webpage, there is no relevant data to predict whether Michael Blake will be the Democratic nominee for NY-15.
+
+Title: Can Republican Bruce Blakeman defeat NY Gov. Kathy Hochul?
+Author: Robert Gavin Albany Bureau Chief
+Published Date: 2026-02-14T00:00:00.000Z
+URL: https://buffalonews.com/news/state-regional/government-politics/elections/article_c304499a-6150-4e6f-aa78-116474de1056.html
+Summary: The article discusses the potential for Republican Bruce Blakeman to defeat Democratic incumbent Kathy Hochul in New York's gubernatorial race, highlighting current political dynamics, campaign strategies, and voter sentiment. While it primarily focuses on the gubernatorial contest, the analysis of party competitiveness, voter preferences, and campaign momentum could offer insights into the broader electoral landscape of New York State. This context may help assess the likelihood of Michael Blake securing the Democratic nomination for NY-15, considering factors such as party strength, electoral trends, and the competitive environment within the Democratic primary.
 
 

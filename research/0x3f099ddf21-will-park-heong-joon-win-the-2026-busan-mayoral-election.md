@@ -1,7 +1,7 @@
 # Research: Will Park Heong-joon win the 2026 Busan Mayoral Election?
 
 **Market ID:** 0x3f099ddf210c1d32006f55fe2da00ee78ff10734b7786d8b34f281c4b9c426e0
-**Researched At:** March 1, 2026 at 06:00:11 AM UTC
+**Researched At:** March 11, 2026 at 04:17:26 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Park Heong-joon win the 2026 Busan Mayoral Election?"
 
 ---
@@ -13,39 +13,39 @@
 
 ### Summary
 
-Available polling pegs Park around 30% (±2.5%), while this market sits at 24.5%—a modest gap within margin‐of‐error. Contrasting Polymarket at ~50% suggests divergent risk assessments rather than clear mispricing. No definitive evidence of >20 c mispricing.
+Current polling places Park Heong-joon behind by ~8–9 points in head-to-head surveys, roughly matching a ~28% win chance. No new information suggests a >3-cent mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether incumbent Park Heong-joon will win Busan’s June 3, 2026 mayoral election. “YES” resolves if official results name Park the winner; “NO” if any other candidate wins (or if resolution is delayed past Jan 31, 2027).
+This market asks: “Will incumbent Park Heong-joon win the June 3, 2026 Busan mayoral election?” A “YES” resolution requires Park to finish first (plurality) according to official NEC results or credible media consensus; “NO” covers any other winner or unresolved by Jan 31, 2027.
 
 2. EVIDENCE EVALUATION  
-Bullish for Park (suggesting price could be too low):  
-• Polymarket (Feb 8): Park at 50–53% with >$25 K volume, citing stability narrative and consolidated PPP support.  
-• Park’s recent high‐profile stance on administrative autonomy may galvanize local voters.  
-Bearish on Park (suggesting price could be too high):  
-• Late-Feb poll (AsiaEconomy, Feb 19): Jeon Jae-soo leads with 40%, Park at 30%—Park under 50%.  
-• National polling shows a 53–55% tilt toward the ruling Democratic Party, which aligns with Jeon’s strong performance.  
-Credibility & recency: All sources are within the last month. The Polymarket figure has higher liquidity ($25 K) vs this market’s $5.5 K, implying its price may more fully reflect informed views. Polls have typical ±2–3% MOE.
+Bearish (against Park’s chances):  
+- Multiple February 2026 polls (Busan MBC and ChosunBiz) show him trailing Democratic challenger Jeon/Jae-soo by 8.7 pts (34.6% vs 43.3%) in head-to-head matchups outside the margin of error.  
+- Public approval of his mayoral performance is negative (49.4% rate him ineffective).  
+- JoongAng reports a natural “dead heat” near 39–40% each, erasing an incumbent advantage.  
+
+Bullish (for Park’s chances):  
+- Potential for former President Moon Jae-in to rally conservative voters, narrowing the gap.  
+- A possible Justice Party candidacy (Cho Kuk) could split the opposition vote, indirectly boosting Park.  
+- Park’s early campaign preparations and established name recognition as current mayor.
+
+Source credibility and recency: All findings are from reputable Korean outlets (ChosunBiz, Herald, Busan MBC, JoongAng) published Feb–Mar 2026, highly relevant and timely. None reveal a clear new shock event (e.g., major scandal or endorsement) that markets haven’t priced.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• The 24.5% price could reflect conservative bettors hedging against a strong DP wave and Park’s sub-30% poll standing.  
-• Low volume here suggests few active participants; the price may largely reflect a small set of contrarian views rather than broad consensus.  
-• Alternatively, traders may be correctly pricing ongoing DP strength and a fragmented conservative field that could siphon votes from Park.
+A 28.0% win probability is consistent with trailing poll shares of mid-30s in two-way matchups (a deficit of ~9 pts often maps to a ~30% win probability). The tight 2¢ spread suggests a market maker rather than broad deep liquidity; low $6.6 K volume likely reflects the long time horizon and niche focus, not necessarily inefficiency. Informed traders probably used these very polls to set their positions.
 
 4. MISPRICING ASSESSMENT  
-• The 24.5% price lies below the 30% poll estimate but well below Polymarket’s 50%. Poll uncertainty (±2.5%) and three months till election leave room for swings.  
-• There is no single piece of overlooked “smoking‐gun” evidence. Differences between markets likely reflect divergent risk attitudes or resolution definitions rather than a clear mispricing of >20 c.  
-• The most charitable view is that informed traders see a genuine uphill battle for Park in a pro-government environment, justifying a sub-30% probability.
+No strong evidence of a >10¢ mispricing. The price aligns with public polling deficits and plausible vote‐splitting/enthusiasm scenarios. While uncertainty remains high (9 weeks to election as of March 11), nothing in the research indicates a drastic swing is more likely than markets already reflect. The most charitable interpretation is that 28% reflects aggregate polling‐based win odds plus adjustment for third-party splash and turnout uncertainty.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence against large mispricing: ~30% (polls and market linkage)  
-Magnitude of plausible mispricing: ~5 c (small bias vs polls)  
-Expected value ≈ 0.30 × 5 c = 1.5 c
+- Strength of evidence (that there’s significant mispricing): 50%  
+- Magnitude of plausible mispricing: ~3 cents (market likely close to fair)  
+- EV = 0.5 × 3 cents = 1.5 cents
 
 EXPECTED_VALUE: 1.5  
-SUMMARY: Available polling pegs Park around 30% (±2.5%), while this market sits at 24.5%—a modest gap within margin‐of‐error. Contrasting Polymarket at ~50% suggests divergent risk assessments rather than clear mispricing. No definitive evidence of >20 c mispricing.  
+SUMMARY: Current polling places Park Heong-joon behind by ~8–9 points in head-to-head surveys, roughly matching a ~28% win chance. No new information suggests a >3-cent mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -54,54 +54,34 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Polymarket Shows Busan Mayor Park Regains Lead at 50%, Challenger Jeon Closes Gap at 43%
-Author: Busan - Cho Won-Jin
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://en.sedaily.com/society/2026/02/09/polymarket-shows-busan-mayor-park-regains-lead-at-50
-Summary: As of early February 2026, Busan Mayor Park Hyung-jun has regained a significant lead in the prediction market for the upcoming mayoral election, with a winning probability of 50% to 53% on Polymarket. This marks a turnaround from January when his challenger, Jeon Jae-soo, briefly led with over 50%. Currently, Jeon is closely trailing at 43-44%, indicating he remains a strong contender.
-
-Factors contributing to Park's resurgence include a narrative of "administrative stability" and the presence of other ruling party candidates, which has consolidated support for the conservative camp. The prediction market has seen a cumulative trading volume exceeding $25,000, reflecting heightened interest and engagement from participants, which may enhance the reliability of these predictions.
-
-Political analysts suggest that Park's current advantage may stem from public sentiment favoring stability on regional issues, such as the Gadeokdo New Airport project. Overall, while Park appears to have the upper hand, the close margin with Jeon indicates that the election outcome remains uncertain and could be influenced by evolving political dynamics in the coming months.
-
-Title: Busan Mayor Condemns Government, Democratic Party Over Special Law 'Power Abuse'
+Title: Park Heong-joon blasts election-driven city merger push in South Korea - CHOSUNBIZ
 Author: 
 Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.chosun.com/english/national-en/2026/02/24/QJ6PIEDQBFHBXO5EMSZAJGMPLQ/
-Summary: Busan Mayor Park Heong-joon has publicly condemned the South Korean government's proposed special law for administrative integration, labeling it as an abuse of power. He argues that the law does not genuinely decentralize authority from the central government, failing to provide the integrated special city with necessary autonomy in legislative, personnel, or organizational matters. Mayor Park believes that if the law passes, it could lead to conflicts among residents and hinder true regional development, as it lacks provisions for fiscal decentralization and local governance.
+URL: https://biz.chosun.com/en/en-society/2026/02/24/JKRGWFVUUVF3VC3PKCSYOYXS6U/
+Summary: Park Heong-joon has publicly criticized the ongoing push for city mergers in South Korea, describing it as primarily driven by electoral motives rather than genuine administrative or regional benefits. His stance indicates a focus on resisting policies that may be politically motivated rather than serving the public interest. This opposition could influence his political support base and campaign strategies for the 2026 Busan Mayoral Election. However, the article does not provide specific information about his current popularity or electoral prospects, so while his stance may resonate with voters skeptical of election-driven policies, predicting his victory remains uncertain without additional data on his political standing and campaign dynamics.
 
-His criticism comes ahead of a National Assembly vote and follows his earlier proposal for a phased integration plan that includes resident referendums. Park's stance may resonate with voters who prioritize local autonomy and governance issues, potentially influencing his chances in the upcoming 2026 Busan Mayoral Election. His ability to articulate concerns about the government's approach and advocate for a more decentralized administrative structure could be pivotal in shaping public opinion and voter sentiment leading up to the election.
+Title: ‘3선 도전’ 박형준, 경선 변수에 정무라인 조기 사표 - 헤럴드경제
+Author: 정형기
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://mbiz.heraldcorp.com/article/10687049
+Summary: Park Heong-joon, currently serving as Busan Mayor, is preparing for the 2026 local elections amid a competitive political landscape. As he seeks a third term, his campaign faces potential challenges from strong opponents, notably Democratic Party lawmaker Jeon Jae-soo, who has publicly announced his candidacy and is gaining significant support, as indicated by recent opinion polls showing a close race between the two. In anticipation of the election, Park's political team has begun early campaign preparations, with some of his key political aides resigning from their government posts to focus on the campaign. Despite these efforts, the proximity of support levels suggests that Park's victory is uncertain and will depend on various factors, including campaign dynamics, voter sentiment, and the effectiveness of his political strategy leading up to the election.
 
-Title: June 3 Local Elections: Strong Lead for "Government Stability" Argument... Ruling Party Shows Strength in Gyeonggi, Busan, Gangwon and Beyond - 아시아경제
+Title: Chun Jae-soo leads Busan mayoral race as Democrats warn Moon could unite conservatives - CHOSUNBIZ
 Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://cm.asiae.co.kr/en/article/2026021910045047376
-Summary: The article discusses the upcoming June 3 local elections in South Korea, highlighting strong support for the ruling party, particularly in key regions like Gyeonggi, Busan, and Gangwon. Recent opinion polls indicate that 53% to 55% of respondents favor the ruling party, with President Lee Jaemyung enjoying a job approval rating of 63% to 65%. In the context of the Busan mayoral race, Democratic Party candidate Jeon Jaesoo is currently leading with 40% support compared to incumbent Mayor Park Heong-joon from the People Power Party, who has 30%. This trend suggests that Park may face challenges in securing re-election, especially given the overall favorable sentiment towards the ruling party and the Democratic Party's strong performance in recent polls.
+Published Date: 2026-02-26T00:00:00.000Z
+URL: https://biz.chosun.com/en/en-policy/2026/02/26/SXK5AYIRNJEW5COL22P45ULLQQ/?outputType=amp
+Summary: Chun Jae-soo, the Democratic Party's likely candidate, currently leads in opinion polls for the 2026 Busan mayoral race, with a significant margin over incumbent Mayor Park Heong-joon. Polls show Chun with approximately 43.3% support compared to Park's 34.6%. The Democratic Party is optimistic but cautious, especially given past influences of former President Moon Jae-in's support rallies, which have historically rallied conservatives and could impact voter dynamics. There is concern that Moon's potential involvement might unify conservative voters, possibly challenging Chun's lead. Overall, while Chun appears favored at this stage, the race remains competitive and susceptible to shifts influenced by national political trends and Moon Jae-in's possible re-emergence.
 
-Title: People Power Party - Wikipedia
-URL: https://en.wikipedia.org/wiki/People_Power_Party_(South_Korea)
-Summary: The People Power Party (PPP) is a conservative political party in South Korea, established on February 17, 2020, initially as the United Future Party. It was rebranded to its current name on August 31, 2020. The party is currently led by Jang Dong-hyeok, with Jeong Jeom-sig serving as Secretary-General. 
+Title: 부산시장 가상 양자대결서 전재수 43.3% vs 박형준 34.6%
+Author: 박준오
+Published Date: 2026-02-23T00:00:00.000Z
+URL: https://imnews.imbc.com/replay/2026/nwdesk/article/6802680_37004.html
+Summary: A recent poll conducted by 부산MBC indicates that in a hypothetical head-to-head race for Busan mayor, former Busan Mayor Park Heong-joon currently trails behind Democratic candidate Jeon Jae-su, with Jeon leading 43.3% to 34.6%. The survey, carried out on February 20-21, 2026, shows Jeon Jae-su ahead by 8.7 percentage points outside the margin of error, suggesting a competitive but currently unfavorable position for Park Heong-joon. Public opinion on Park's overall performance as mayor is somewhat negative, with 49.4% viewing his administration as ineffective. The electorate prioritizes administrative experience and job creation for the next mayor. Given these findings, Park Heong-joon faces significant challenges in securing victory in the upcoming 2026 Busan mayoral election.
 
-To assess the potential success of Park Heong-joon in the 2026 Busan Mayoral Election, consider the following factors related to the PPP:
-
-1. **Party Popularity and Support**: The PPP has been a significant player in South Korean politics, especially after winning the 2020 parliamentary elections. Understanding the party's current standing in public opinion polls and its support base in Busan will be crucial.
-
-2. **Previous Election Performance**: Analyzing the PPP's performance in past local elections, particularly in Busan, can provide insights into its electoral strength and the likelihood of winning future elections.
-
-3. **Candidate Appeal**: Park Heong-joon's personal popularity, political experience, and campaign strategies will significantly influence his chances. His ability to connect with voters and address local issues will be key.
-
-4. **Opposition Dynamics**: The strength and strategies of opposing candidates, particularly from the Democratic Party or other local parties, will also impact the election outcome. 
-
-5. **Current Political Climate**: National and local political trends, including public sentiment towards the current government and
-
-Title: [PDF] Institute for National Security Strategy
-Author: 
-Published Date: 2025-11-07T00:00:00.000Z
-URL: https://www.inss.re.kr/upload/bbs/BBSA05/202511/F20251107105455277.pdf
-Summary: The webpage from the Institute for National Security Strategy features the Journal of East Asian Affairs, which includes various articles on international relations and security issues in East Asia. While it does not directly address the Busan Mayoral Election or Park Heong-joon's candidacy, understanding the geopolitical context and regional dynamics discussed in the journal could provide insights into the political landscape affecting local elections in South Korea.
-
-Key articles in the latest issue include topics such as cybersecurity, North Korea's media strategies, and the strategic U.S.-South Korea alliance, all of which may influence public opinion and political strategies in Busan. For instance, the article on undersea cybersecurity highlights the importance of national security, which could resonate with voters concerned about regional stability and security issues.
-
-To predict Park Heong-joon's chances in the 2026 election, consider factors such as public sentiment regarding national security, economic stability, and the effectiveness of local governance in addressing these issues, as discussed in the journal. Additionally, the political climate shaped by ongoing geopolitical tensions and domestic policies will likely play a significant role in the election outcome.
+Title: 전재수·박형준 양강, 박 터지는 부산 대첩…변수는 조국 출마설 | 중앙일보
+Author: 양수민,이찬규
+Published Date: 2026-02-15T00:00:00.000Z
+URL: https://www.joongang.co.kr/article/25405311
+Summary: The 2026 Busan mayoral race is highly competitive, with current Mayor Park Heong-joon of the People’s Power Party and Democratic Party lawmaker Jeon Jae-soo emerging as the leading contenders. Recent polls show a close race, with voter support nearly evenly split—around 39-40% for each candidate—indicating a "dead heat." Notably, the incumbent's traditional advantage appears diminished, as Jeon Jae-soo leads in some head-to-head surveys. The political landscape is further complicated by the potential candidacy of 조국 (Cho Kuk) from the Justice Party, which could influence voter dynamics, especially among progressive voters. The overall trend suggests a highly uncertain outcome, with both candidates having a realistic chance of victory depending on campaign developments and voter turnout.
 
 

@@ -1,7 +1,7 @@
 # Research: Will Los Angeles Dodgers win the 2026 NL West title?
 
 **Market ID:** 0xda72e07f582f615b5a26617b1c5e30a72cae4b4531bd2d629a8fb3a5c5f647a4
-**Researched At:** March 1, 2026 at 06:06:26 AM UTC
+**Researched At:** March 11, 2026 at 04:17:56 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Los Angeles Dodgers win the 2026 NL West title?"
 
 ---
@@ -9,44 +9,41 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 10.5¢
+**Expected Value:** 12.0¢
 
 ### Summary
 
-Preseason projection models consistently give the Dodgers a 94–98% chance to win the NL West, yet the market price of 78.5% appears to underweight these consensus forecasts and variance risk only partly justifies the discount. Low volume and a lack of large trades suggest informed bettors haven’t fully priced in the projections.
+Preseason projections from PECOTA and FanGraphs indicate a >94% chance of the Dodgers winning the NL West, yet the market sits at 82.5%, suggesting a mispricing of roughly 15¢. With no credible bearish indicators, the evidence supports an expected value of ~12¢ from this discrepancy.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks whether the Dodgers will finish atop the NL West standings in the 2026 regular season (including any MLB tiebreakers). YES if L.A. has the best divisional record (or wins the MLB tiebreaker), NO if any other team claims the title under MLB rules or is eliminated.
+The market asks: “Will the Dodgers win the 2026 NL West?” YES resolves if Los Angeles is officially crowned division champion at the end of the 2026 regular season (with tiebreakers per MLB rules). NO resolves if any other team is declared division winner. “Other” only applies if the season is canceled or no winner is named by Oct 31, 2026.
 
 2. EVIDENCE EVALUATION  
-Bullish (suggesting price too low):  
-• PECOTA projects the Dodgers at 104 wins and a 98.1% chance to win the NL West. (DodgersWay, 2026-02-15)  
-• FanGraphs projects a 94.4% division win probability; PECOTA on TrueBlueLA puts Dodgers at 105 wins and 99.8% playoff odds. (TrueBlueLA, 2026-02-11)  
-• Closest rivals (Padres, Giants, D-Backs) are forecast around .500 records with no game-changing offseason additions.  
+Bearish evidence (price might be too high):  
+- No specific negative news in the research (no major injuries, trades away star players, or unexpectedly strong rival outlooks).  
+- Baseball variance is high; even dominant teams occasionally falter. However, none of the sources point to near-term risks.
 
-Bearish (supporting 78.5%):  
-• Baseball has substantial variance; even heavy favorites often fall short due to injuries, slumps, or surprise contenders.  
-• Key Dodgers pitchers could be injured; markets may be discounting “regression” risks that raw projections understate.  
-
-Source credibility: PECOTA, FanGraphs, TrueBlueLA and DodgersWay draw on established projection systems; all are within the last three weeks. Their consensus (>94%) starkly exceeds the market’s 78.5%.
+Bullish evidence (price might be too low):  
+- 2026 PECOTA projects Dodgers’ chance to win NL West at 98.1% (dodgersway.com, Feb 15).  
+- True Blue LA cites PECOTA at 98.6% and FanGraphs at 94.4%.  
+- MLB.com reports PECOTA 105-win projection vs. ~82 wins for nearest rival, plus high-end offseason additions (Kyle Tucker, Edwin Díaz).  
+All sources are recent (Feb 2026) and credible (FanGraphs, MLB.com, PECOTA frameworks). No reputable model suggests a sub-90% chance. The tight competition in the market (3¢ spread) combined with low volume ($43) hints few active traders may be anchoring the price well below projection consensus.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 78.5% price may reflect risk-discounting for injuries and variance, or simply low engagement causing a default mid-range figure.  
-• With only $20 traded and a tight spread, the price likely reflects one or two participants rather than broad consensus.  
-• If the outcome felt “obvious,” larger bettors would likely have moved the price closer to 95–98%; the absence of such trades suggests the market hasn’t fully absorbed projection data.
+An 82.5% probability could reflect unpriced variance—injuries or midseason trades—yet no evidence from credible outlets flags serious threats. Low volume may indicate traders assume the outcome is a near lock and haven’t arbitraged price toward the 95-98% range. Alternatively, it might reflect one or two contrarian opinions rather than a broad consensus.
 
 4. MISPRICING ASSESSMENT  
-Given multiple independent projection systems clustering at 94–98% and credible info on division strength, the market price of 78.5% appears too low by roughly 10–15 cents. While some variance risk justifies discounting, there’s no evidence the market has adjusted fully for these preseason projections.
+Given multiple independent projections centered around 95–99%, an 82.5% market price appears too low by roughly 12–16 cents. There is no specific credible research hinting at a >20 cent error, so the apparent mispricing is moderate. The most charitable view: bettors may be discounting standard projection optimism, but without concrete bearish catalysts, the market underestimates the Dodgers’ dominant edge.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 70% (credible, recent, consistent across sources)  
-Magnitude of mispricing: ~15 cents  
-Expected value = 0.70 × 15 cents = 10.5 cents
+Strength of evidence: ~80% (multiple high‐credibility sources pointing to >94% probability)  
+Magnitude of mispricing: ~15 cents (difference between ~98% and 82.5%)  
+Expected value = 0.80 × 15¢ = 12¢
 
-EXPECTED_VALUE: 10.5  
-SUMMARY: Preseason projection models consistently give the Dodgers a 94–98% chance to win the NL West, yet the market price of 78.5% appears to underweight these consensus forecasts and variance risk only partly justifies the discount. Low volume and a lack of large trades suggest informed bettors haven’t fully priced in the projections.  
+EXPECTED_VALUE: 12.0  
+SUMMARY: Preseason projections from PECOTA and FanGraphs indicate a >94% chance of the Dodgers winning the NL West, yet the market sits at 82.5%, suggesting a mispricing of roughly 15¢. With no credible bearish indicators, the evidence supports an expected value of ~12¢ from this discrepancy.  
 CONFIDENCE: medium
 
 ---
@@ -55,41 +52,29 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Which team is Dodgers' biggest threat in NL West? - True Blue LA
-Author: Eric Stephen
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.truebluela.com/daily-question/109771/dodgers-national-league-west-competition
-Summary: The Los Angeles Dodgers are heavily favored to win the 2026 NL West title, with projections indicating they could achieve 105 wins and a 99.8% chance of making the postseason, according to PECOTA. FanGraphs offers a slightly lower estimate, with a 94.4% chance of winning the division. The other teams in the NL West, including the Padres, Giants, and Diamondbacks, are projected to hover around .500, with the Rockies significantly trailing. 
-
-The Padres, seen as the closest competitors, have lost key players like Dylan Cease and Robert Suárez, and face uncertainty with Yu Darvish's potential retirement. The Giants have made some offseason moves, including hiring a new manager and acquiring several players, but their overall projection remains modest. The Diamondbacks have bolstered their roster with returning and new talent but are still not expected to pose a significant threat.
-
-Given these factors, the Dodgers' strong roster and favorable projections suggest they are well-positioned to secure the NL West title in 2026.
-
-Title: MLB win totals: Projecting every team's record for 2026 season
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.usatoday.com/story/sports/mlb/2026/02/10/mlb-wins-totals-predictions-2026-projections-season/88596830007/
-Summary: The article provides projections for MLB win totals for the 2026 season, including insights into team performance that could be relevant for predicting whether the Los Angeles Dodgers will win the NL West title. Key factors to consider include the Dodgers' roster strength, recent performance trends, and competition within the division. The analysis may highlight the Dodgers' pitching and batting capabilities, as well as any offseason changes that could impact their success. For a more detailed prediction, examining the projected win totals for the Dodgers compared to their NL West rivals will be crucial.
-
 Title: 2026 PECOTA projections make it obvious NL West has no chance of competing with Dodgers
 Author: 
 Published Date: 2026-02-15T00:00:00.000Z
 URL: https://dodgersway.com/2026-pecota-projections-make-it-obvious-nl-west-has-no-chance-of-competing-with-dodgers
-Summary: The 2026 PECOTA projections strongly indicate that the Los Angeles Dodgers are the favorites to win the NL West title, with an estimated 104 wins and a 98.1% probability of securing the division. In contrast, their closest competitors—San Diego Padres, San Francisco Giants, and Arizona Diamondbacks—are projected to have significantly lower win totals, with the Padres at 81.7 wins, the Giants at 81.4, and the Diamondbacks at 76.9. This 22.6 game spread between the Dodgers and Padres is the largest among all divisions.
+Summary: The 2026 PECOTA projections strongly suggest that the Los Angeles Dodgers are highly likely to win the NL West title, with an estimated 98.1% chance of securing the division. The projections forecast the Dodgers to win approximately 104 games, significantly ahead of their division rivals—San Diego, San Francisco, and Arizona—who are all projected to win fewer than 82 games. The gap between the Dodgers and the next closest team, the Padres, is about 22.6 games, indicating a dominant outlook for LA. While projections are not infallible and past predictions have varied, current data indicates the Dodgers are the clear favorites to clinch the 2026 NL West crown.
 
-The article notes that while projections can be imperfect, the lack of significant offseason moves by the other NL West teams suggests they are unlikely to close the gap with the Dodgers. The Dodgers' dominance is further underscored by their high odds of winning the World Series at 23%, compared to the Mariners' second-best odds at 12.4%. Overall, the data suggests a strong likelihood that the Dodgers will win the 2026 NL West title, barring unforeseen circumstances such as injuries or unexpected performances from other teams.
+Title: MLB win totals: Projecting every team's record for 2026 season - USA Today
+URL: https://www.usatoday.com/story/sports/mlb/2026/02/10/mlb-wins-totals-predictions-2026-projections-season/88596830007/
+Summary: The article provides MLB win total predictions and projections for the 2026 season, analyzing team performances and potential standings. While specific predictions for the Los Angeles Dodgers are not detailed in the excerpt, the projections consider factors such as team roster strength, recent performance trends, and offseason changes. To assess whether the Dodgers will win the 2026 NL West title, one should examine their projected win totals relative to division rivals, recent roster improvements, and overall team health. The article likely offers insights into team outlooks that can inform predictions about the Dodgers' chances of clinching the NL West crown in 2026.
 
-Title: 2026 MLB Best Bets: NL West Opening Odds, Prediction
-Author: Zach Thompson
-Published Date: 2026-02-23T06:06:07.489Z
-URL: https://dknetwork.draftkings.com/2026/02/20/2026-mlb-best-bets-nl-west-opening-odds-prediction/
-Summary: The article discusses the 2026 MLB season's National League West division, highlighting the Los Angeles Dodgers as the clear favorite to win the title. The Dodgers, coming off a successful 2025 season where they finished with a 93-69 record and secured their second consecutive World Series championship, are positioned strongly for the upcoming season. Their primary competition includes the San Diego Padres, who were a Wild Card team last year with a 90-72 record, and the San Francisco Giants and Arizona Diamondbacks, who finished at .500 and just below, respectively.
+Title: Which team is Dodgers' biggest threat in NL West? - True Blue LA
+Author: Eric Stephen
+URL: https://www.truebluela.com/daily-question/109771/dodgers-national-league-west-competition
+Summary: The Los Angeles Dodgers are highly favored to win the 2026 NL West division, with projections indicating a strong likelihood of success. PECOTA forecasts the Dodgers to achieve approximately 105 wins, with a 99.8% chance of making the postseason and a 98.6% chance of winning the division. FanGraphs is slightly more conservative but still estimates a 94.4% chance of division victory. The division competitors—Giants, Padres, and Diamondbacks—are projected to have significantly lower win totals, with the Rockies trailing far behind. The Padres have notable players returning and some losses, while the Giants and Diamondbacks have made roster improvements. Given these projections and the Dodgers' historical dominance in the division, they are highly likely to secure the 2026 NL West title.
 
-The analysis suggests that while the Dodgers are favored, the division has a mix of teams that could impact the standings, particularly the Padres. The article emphasizes the importance of monitoring team dynamics during spring training, as player movements and performance can influence outcomes. Overall, the Dodgers' strong track record and current roster position them well for another successful season, making them a solid bet for the NL West title.
+Title: 5 key questions from the release of the PECOTA standings - MLB.com
+URL: https://www.mlb.com/news/pecota-2026-mlb-projected-standings-and-playoff-odds
+Summary: The 2026 PECOTA projections suggest that the Los Angeles Dodgers are highly favored to win the NL West title, with both PECOTA and FanGraphs ranking them as the top team in baseball. PECOTA projects the Dodgers to achieve around 105 wins, indicating a potentially historic and dominant season, which is significantly higher than FanGraphs' estimate of 99 wins. The Dodgers have strengthened their roster by signing key free agents like Kyle Tucker and Edwin Díaz, reflecting their continued ambition and competitiveness. Given their strong projected performance and recent offseason moves, the likelihood of the Dodgers winning the 2026 NL West title appears very high.
 
-Title: MLB 2026: Why your team didn't do what you wanted this winter
-Author: Bradford Doolittle
+Title: 2026 NL betting preview: What's the bet to make on your favorite team? - ESPN
+Author: Derek Carty and Todd Zola
 Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.espn.com/mlb/story/_/id/47909756/mlb-2026-most-surprising-offseason-decision-all-30-teams
-Summary: The article discusses the surprising offseason decisions made by all 30 MLB teams, including the Los Angeles Dodgers, as they prepare for the 2026 season. It highlights the Dodgers' strategies and moves, which may impact their chances of winning the NL West title. Key factors to consider include their roster changes, player performances, and how they stack up against division rivals. The analysis suggests that while the Dodgers have a strong foundation, their success will depend on how effectively they address their offseason needs and adapt to the evolving competition within the division. For a more precise prediction regarding the Dodgers' chances in the 2026 NL West, consider their recent acquisitions, player health, and the performance of their competitors.
+URL: https://www.espn.go.com/espn/betting/story/_/id/47887602/nl-betting-preview-odds-standings-rankings-best-bets-win-totals-futures-2026-world-series
+Summary: The webpage provides a comprehensive preview of the 2026 National League (NL) baseball season, focusing on betting insights and team prospects. While it does not specifically analyze the Los Angeles Dodgers' chances, it highlights key factors influencing NL West outcomes, such as team performance trends, roster changes, and betting odds. To assess whether the Dodgers will win the 2026 NL West title, consider their recent performance, offseason roster moves, and how they compare to division rivals. The preview emphasizes the importance of evaluating team strength, injuries, and managerial strategies, which are crucial for predicting division winners in the upcoming season.
 
 

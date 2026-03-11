@@ -1,7 +1,7 @@
 # Research: Will a team from LPL (China) win LoL Worlds 2026?
 
 **Market ID:** 0xcede29c8af89d8bd2118088768dcee36736ed43af143e70d59f60d7b365a98ef
-**Researched At:** March 1, 2026 at 06:10:38 AM UTC
+**Researched At:** March 11, 2026 at 04:20:00 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will a team from LPL (China) win LoL Worlds 2026?"
 
 ---
@@ -9,48 +9,45 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 4.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-While LPL’s depth justifies a non-negligible chance, heavyweight forecasts place LCK at ~90%, implying LPL’s win probability is likely below 22.5%. The modest overpricing (~10¢) is plausible but not decisive.
+Early 2026 LPL spring success suggests China has contenders, but there’s no strong linkage to Worlds outcomes and 23% aligns with consensus. I find no clear mispricing at this stage.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This market asks: “Will a Chinese (LPL) team win Worlds 2026?” YES if any of the three LPL seeds (e.g. Bilibili, Weibo, TES) take 1st place in Worlds 2026 by Dec 31, 2026; NO otherwise (including if the winner is from LCK, LEC, LCS, LCP, CBLOL, or an “Other” region).
+This market asks whether the winner of League of Legends Worlds 2026 will come from China’s LPL region. A YES requires that the team holding the 1st-place trophy at the end of Worlds 2026 is an LPL-qualified squad. A NO would occur if the champion comes from any other region (LCK, LEC, LCS, LCP, CBLOL) or “Other” if the event isn’t decided by Dec 31, 2026 ET.
 
 2. EVIDENCE EVALUATION  
-Bullish for LPL  
-• LPL is historically a top region, sending three seeds and producing recent champions (eg. Bilibili Gaming).  
-• The Spring Split preview and playoffs previews highlight strong favorites (Weibo $1.33 odds; TES beating WE), implying at least one LPL team will enter Worlds in strong form.  
+Bullish (arguing price may be too low):  
+• Multiple LPL sides (notably BLG and JDG) have shown strong form in early spring 2026, with BLG winning Split 1 and earning First Stand qualification.  
+• Analysts highlight Bin’s MVP performance and LPL’s strategic depth as indicators of international competitiveness.  
 
-Bearish for LPL  
-• Marney (2026-01-14) assigns a 90% chance to LCK (esp. T1) winning Worlds, implying all other regions—including LPL—share only ~10%.  
-• LPL top teams (TES, WE) show inconsistency in drafts and decision-making, per Feb 26 analysis.  
-• European resurgence and LCK dominance suggest LPL’s win probability may be below 22.5%.  
+Bearish (arguing price may be too high):  
+• Spring-split results historically correlate poorly with Worlds performance; the meta can shift dramatically.  
+• No direct data on how LPL stacks up against powerhouses like LCK or other emerging regions later in the season.  
+• All sources are team-preview or recap articles; none provide Worlds win probabilities or long-term predictive models.  
 
-Source Credibility & Recency  
-All sources are from Jan–Feb 2026 and come from reputable esports outlets. Only one source gives a quantitative estimate favoring LCK by 90%. Others provide qualitative odds for domestic LPL matches, not direct Worlds probabilities.
+Source credibility and recency: all are March 2026 esports outlets of reasonable reliability but limited to spring-split observations. No clear forecast models or international performance data beyond anecdotal momentum.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• A 22.5% price could reflect consensus that LPL is the #2 region behind LCK but still a solid contender (3 seeds, depth).  
-• Low $3.15K volume suggests few traders; yet the tight 3¢ spread implies those traders share similar views, not a broad uninformed market.  
-• The market may simply mirror headline LCK favoritism minus enough tail weight for LPL’s past successes, landing near 20–25%.
+A 23% probability implies the market sees LPL roughly fourth-best among six regions or second behind LCK, which aligns with general community consensus. The tight spread suggests at least a handful of bettors have staked out similar convictions. Low volume likely reflects the long horizon rather than active inefficiency. Informed bettors may wait for later splits and meta developments before trading heavily.
 
 4. MISPRICING ASSESSMENT  
-• Solid bearish evidence (90% LCK) suggests LPL probability <15%. Bullish notes on LPL strength point to at least ~15–20%.  
-• 22.5% may slightly overstate LPL’s win chances by ~7–10¢ if one trusts Marney’s model, but it’s plausible if one weighs structural strength more heavily.  
-• No glaring omission or technical misunderstanding of resolution criteria.  
-Conclusion: No clear, large mispricing; any overpricing is modest (<10¢).
+No specific, credible evidence indicates the market has overlooked material information:  
+• Spring split strength is already public and likely priced in.  
+• There’s no indication of roster lock, major format changes, or rule shifts uniquely favorable to LPL that traders have missed.  
+• The 23% figure is within a reasonable band given historical LPL Worlds success rates (roughly 20–30%).  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 40%  
-Magnitude of mispricing: 10¢  
-Expected value = 0.40 × 10 = 4.0¢
+Strength of evidence for mispricing: ~30% (limited, early data).  
+Magnitude of mispricing if any: ~5 cents.  
+Expected value = 30% × 5¢ = 1.5¢
 
-EXPECTED_VALUE: 4.0  
-SUMMARY: While LPL’s depth justifies a non-negligible chance, heavyweight forecasts place LCK at ~90%, implying LPL’s win probability is likely below 22.5%. The modest overpricing (~10¢) is plausible but not decisive.  
+EXPECTED_VALUE: 1.5  
+SUMMARY: Early 2026 LPL spring success suggests China has contenders, but there’s no strong linkage to Worlds outcomes and 23% aligns with consensus. I find no clear mispricing at this stage.  
 CONFIDENCE: low
 
 ---
@@ -59,61 +56,35 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Our 90/50/10 predictions for LoL esports in 2026
-Author: Jordan Marney
-Published Date: 2026-01-14T00:00:00.000Z
-URL: https://esportsinsider.com/lol-esports-predictions-2026
-Summary: The article provides insights into the predictions for the League of Legends esports scene in 2026, particularly regarding the likelihood of an LPL (China) team winning the World Championship. Key points include:
+Title: First Stand 2026: LPL Teams Preview – Can BLG And JDG Restore China’s International Success? - Hotspawn
+Author: 
+Published Date: 2026-03-09T00:00:00.000Z
+URL: https://www.hotspawn.com/league-of-legends/news/first-stand-lpl-teams-preview
+Summary: The webpage primarily previews the 2026 League of Legends Pro League (LPL) teams, focusing on whether top Chinese teams like BLG and JDG can restore China's international success. It discusses the current strength and recent performances of these teams, highlighting their potential to compete at the highest level in Worlds 2026. The analysis suggests that if BLG and JDG maintain or improve their form, they could be strong contenders to win LoL Worlds 2026, potentially ending China's recent struggles on the international stage.
 
-1. **LCK Dominance**: The predictions suggest a 90% chance that a team from the LCK (Korea), specifically T1, will win Worlds 2026. The LCK has been dominant in recent years, with T1 consistently performing at a high level.
+Title: Bilibili Gaming win the LPL Split 1 2026 trophy off a monstrous performance by Bin
+Author: 
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.strafe.com/news/read/bilibili-gaming-win-the-lpl-split-1-2026/
+Summary: Bilibili Gaming (BLG), an LPL (China) team, recently won the LPL Split 1 2026 title, defeating JD Gaming in the finals with a strong performance led by top laner Bin. Bin's exceptional play, including exerting significant pressure and earning the Finals MVP award, highlights the team's high skill level and potential to compete at international events. As BLG prepares for First Stand 2026 in Brazil, where they are considered a major contender alongside teams like Gen.G, their recent dominance suggests they are well-positioned to represent China and potentially contend for the LoL World Championship 2026.
 
-2. **LPL's Competitive Standing**: While the article does not explicitly predict a win for an LPL team, it notes that there is a slight chance (10%) of a non-Eastern team making it to the finals. This implies that while LPL teams are competitive, their chances of winning against the LCK are currently viewed as lower.
+Title: BLG become the first LPL team to qualify for First Stand 2026
+Author: 
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.strafe.com/news/read/blg-become-the-first-lpl-team-to-qualify-for-first-stand-2026/
+Summary: Bilibili Gaming (BLG), the first LPL (China) team to qualify for First Stand 2026, demonstrated a strong comeback in the 2026 season by defeating JD Gaming in the LPL Split 1 Playoffs' Upper Bracket Finals. Despite a challenging start to the year, BLG showed resilience and strategic depth, notably with innovative picks like ON's support champion, which contributed to their victory. Their qualification for First Stand 2026 positions them as a prominent contender in international competitions. While their success indicates a rising strength within the LPL, whether they or another Chinese team will win LoL Worlds 2026 remains uncertain, but BLG's performance suggests they could be a team to watch on the global stage.
 
-3. **European Teams' Resurgence**: The predictions indicate a potential decline for North American teams like Team Liquid and FlyQuest, suggesting that European teams may regain dominance, which could impact the overall competitive landscape.
+Title: JD Gaming vs Bilibili Gaming Betting Tips – LPL Split 1 Grand Final Ticket on The Line
+Author: Tit Krajnik 
+             03 Mar 2026
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.freetips.com/esports/jd-gaming-vs-bilibili-gaming-betting-tips-20260303-0025/
+Summary: The article details the upcoming upper bracket final of the LPL 2026 Split 1 Playoffs between JD Gaming and Bilibili Gaming, scheduled for March 4, 2026. Bilibili Gaming has demonstrated strong recent form, sweeping past top teams like Ninjas in Pyjamas and Weibo Gaming, positioning them as favorites. JD Gaming, while having exceeded expectations by reaching this stage through an upset against Anyone’s Legend, remains somewhat inconsistent and shaky. Given Bilibili Gaming’s recent dominance and form, they are more likely to succeed in this matchup. This information suggests that a Chinese team from the LPL, such as Bilibili Gaming, could have a favorable chance of winning LoL Worlds 2026, especially considering their current momentum and competitive strength.
 
-In summary, while LPL teams are strong contenders, the current predictions heavily favor an LCK team winning the championship, making it less likely for an LPL team to take the title in 2026.
-
-Title: LPL Split 1 2026: Playoffs betting preview, odds and favorites
-Author: Naerlyn Théophile
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.jaxon.gg/lpl-playoffs-betting-preview/
-Summary: The article provides a betting preview for the LPL Split 1 2026 playoffs, highlighting key teams, odds, and favorites that could influence predictions for the League of Legends World Championship 2026. It discusses the performance of top teams in the LPL, their strengths, weaknesses, and recent match outcomes, which are crucial for assessing their chances at Worlds. The analysis includes betting odds that reflect the market's expectations for these teams, offering insights into which squads are favored to succeed. This information is essential for evaluating whether a team from the LPL is likely to win the upcoming LoL Worlds. For detailed odds and team analysis, refer to the full article [here](https://www.jaxon.gg/lpl-playoffs-betting-preview/).
-
-Title: Top Esports Vs Team WE Picks | LPL 2026 Playoffs, Feb 28
-Author: Jur Dava
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://esportbet.com/top-esports-vs-team-we-betting-tips-lpl-2026-split-1-playoffs/
-Summary: The article discusses the upcoming match between Top Esports (TES) and Team WE in the LPL 2026 Playoffs, which could provide insights into the performance of Chinese teams in the League of Legends World Championship. Key points include:
-
-1. **Match Context**: The match on February 28, 2026, is crucial for both teams as they fight for survival in the playoffs. Their previous encounter on February 9 ended in a narrow 3-2 victory for Top Esports, highlighting the competitive nature of both squads.
-
-2. **Team Performance**: Both TES and Team WE have shown inconsistency throughout the split, with questionable drafts and decision-making. This inconsistency could impact their chances at the World Championship.
-
-3. **Historical Performance**: Chinese teams, particularly TES, have a strong track record in international competitions, which may influence predictions for their success at Worlds 2026.
-
-4. **Betting Odds**: The odds favor Top Esports, indicating they are seen as the stronger team going into this match. Their ability to perform well in high-stakes situations could be a factor in their potential success at Worlds.
-
-Overall, while the performance of TES and Team WE in the playoffs may not directly predict the outcome of Worlds 2026, their current form and historical performance in international tournaments are critical factors to consider.
-
-Title: LPL 2026 Playoffs Picks Feb 25: Weibo Vs IG, Bilibili Vs NiP
-Author: Jur Dava
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://esportbet.com/lpl-2026-split-1-knockout-stage-betting-predictions-wednesday-february-25/
-Summary: The LPL 2026 playoffs are currently underway, featuring key matchups that could influence predictions for the League of Legends World Championship. On February 25, Weibo Gaming faces Invictus Gaming, while Bilibili Gaming takes on Ninjas in Pyjamas. 
-
-Weibo Gaming is favored with odds of $1.33, indicating strong confidence in their performance, while Invictus Gaming has odds of $3.25, suggesting they are seen as underdogs. The outcome of these matches could provide insights into the overall strength of LPL teams heading into the World Championship.
-
-Historically, LPL teams have been competitive on the global stage, with Bilibili Gaming being the defending champions. Their performance in the playoffs will be crucial in assessing their chances at Worlds 2026. 
-
-Overall, the results of these playoff matches will be significant in determining whether an LPL team can secure victory at the upcoming World Championship.
-
-Title: The 2026 LPL Spring Split Has Started: Analysis, Predictions, and ...
-Published Date: 2026-01-19T00:00:00.000Z
-URL: https://siege.gg/news/the-2026-lpl-spring-split-has-started-analysis-predictions-and-overview
-Summary: The 2026 LPL Spring Split has commenced, running from January 14 to March, and is a key event for assessing the potential of teams competing for the League of Legends World Championship later in the year. The LPL is recognized as one of the strongest regional leagues globally, featuring 14 teams this season, down from 16 due to the exit of notable organizations like FunPlus Phoenix and Royal Never Give Up. 
-
-As the season unfolds, teams will be establishing their strengths and strategies, which will be crucial for predicting their performance at Worlds. The LPL's competitive environment is expected to be heightened this year due to significant structural changes, potentially impacting team dynamics and performance. 
-
-For those interested in betting or following the competitive scene, analyzing early matches and team compositions will provide insights into which teams are likely to excel. Historically, LPL teams have been strong contenders at Worlds, making their performance in the Spring Split a vital indicator of their chances in the global tournament.
+Title: BLG斩获LPL优胜者，Bin哥获FMVP殊荣，采访直言已是LPL第一上单！|lpl|fmvp|全球总决赛冠军_网易订阅
+Author: 网易
+Published Date: 2026-03-08T00:00:00.000Z
+URL: https://www.163.com/dy/article/KNHNS0HM0552LCWJ.html
+Summary: The article reports that BLG, an LPL (China) team, recently won the LPL championship and secured the FMVP (Finals Most Valuable Player) award, with Bin confidently stating he is now the top solo laner in the LPL. This victory highlights the strength and competitive level of LPL teams, suggesting they are capable of performing well on the international stage. While the article emphasizes BLG's recent success and Bin's confidence, it does not provide specific insights into future predictions for LoL Worlds 2026. However, the current performance and confidence of top LPL teams like BLG could be seen as positive indicators for their potential success in future international tournaments.
 
 

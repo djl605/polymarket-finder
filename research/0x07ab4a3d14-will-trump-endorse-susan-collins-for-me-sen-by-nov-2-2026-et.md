@@ -1,56 +1,56 @@
 # Research: Will Trump endorse Susan Collins for ME-Sen by Nov 2 2026 ET?
 
 **Market ID:** 0x07ab4a3d146dad453f0c195ab0760a50c8a3a841f6a45b2f8a457379d1c66a7b
-**Researched At:** March 1, 2026 at 05:58:49 AM UTC
+**Researched At:** March 11, 2026 at 04:16:51 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump endorse Susan Collins for ME-Sen by Nov 2 2026 ET?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 16.0¢
 
 ### Summary
 
-Recent Feb 2026 reports show Trump praising Collins but no formal pledge, yielding a roughly even chance of endorsement. The 54% price aligns with mixed signals and low trading activity, suggesting any mispricing is small.
+Multiple credible February 2026 reports document Trump’s public attacks on Collins and no signals of support, suggesting real odds closer to ~30%—making the 62.5% market price substantially overpriced. Low volume and tight spread indicate few traders, pointing to inefficiency in this market.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: Will former President Trump publicly endorse Susan Collins for her Maine Senate reelection by 11:59 PM ET on Nov 2, 2026?  
-– YES if Trump or a representative issues a clear endorsement announcement before that deadline.  
-– NO otherwise.
+The market asks: “Will Trump endorse Susan Collins for ME-Sen by Nov 2 2026?”  
+- YES if Trump publicly announces he will vote for or formally endorse Collins by the day before the election.  
+- NO if no such announcement is made by 11:59 PM ET on Nov 1 2026.
 
 2. EVIDENCE EVALUATION  
-Bullish (endorsement likely):  
-• Feb 4, 2026 Maine Beacon: Trump publicly praised Collins while she held a MAGA‐style hat, highlighting her votes aligning with his agenda (Medicaid cuts, IRS enforcement rollback). That show of warmth suggests a predisposition toward endorsement.  
-• Washington Examiner (Feb 13): Observers note Collins may “need” Trump’s backing in a tight race, implying a mutual incentive for him to endorse.
+Bullish evidence (supporting ~62.5%):  
+• Collins is a long-serving GOP incumbent and generally votes with Republicans, so some generic possibility of party unity.  
+• Trump’s endorsements can be unpredictable and sometimes go to incumbents to avoid intra-party feuds.
 
-Bearish (endorsement uncertain):  
-• Punchbowl (Feb 10) and Wikipedia: Collins’ moderate record and occasional distancing from Trump may complicate his willingness to offer a formal public endorsement.  
-• No definitive statement yet from Trump or his team as of mid‐Feb 2026.
+Bearish evidence (suggesting lower than 62.5%):  
+• Multiple Feb 2026 reports (Des Moines Register; Reuters; local outlets) note Trump publicly attacked Collins for voting to limit his Venezuela policy, saying she “should never be elected.”  
+• No source cites any outreach or warming signal from Trump’s camp toward Collins.  
+• Coverage of Collins’s reelection campaign (Punchbowl.News) makes no mention of Trump support, implying none is forthcoming.  
+• Trump has shown a pattern of withholding endorsements from moderates who defied him in past cycles.  
 
-Credibility & recency: All sources are from Feb 2026, credible political outlets. None report an actual endorsement, so the market hasn’t overlooked a resolved event.
+Source credibility and recency: all reports are from Feb 10 2026 via reputable outlets (Reuters, Des Moines Register, Punchbowl), so highly credible and timely.
 
 3. MARKET EFFICIENCY ANALYSIS  
-• 54% can reflect a slight edge based on recent public praise without an actual promise—reasonable “coin‐flip plus.”  
-• $229 total volume is low; narrow 2¢ spread suggests two‐sided quotes by a couple liquidity providers rather than broad consensus.  
-• The lack of engagement may stem from genuine uncertainty rather than obvious outcome or high‐stakes interest.
+• A 62.5% price could reflect a few optimists betting on last-minute transactional endorsements, not broad consensus.  
+• Total volume is only \$348, suggesting few traders, so price may not reflect deep information.  
+• If the outcome were obvious, volume would likely be even lower or the spread wider; the tight 5¢ spread here hints that one or two traders are propping up the price.
 
 4. MISPRICING ASSESSMENT  
-• No strong out‐of‐sample evidence indicates a >5¢ mispricing.  
-• The market’s mid‐50s pricing fits the mixed signals: friendly rhetoric but no pledge.  
-• Given the long runway to Nov 2026 and political volatility, a ~54% price seems neither obviously too high nor too low.
+The bearish evidence is concrete and unpriced: no reported contact, public attacks by Trump, and Trump’s known behavior toward moderates. A fair probability estimate, given current info, is nearer 30%. That implies a mispricing of ~32.5¢. Even allowing for some chance of an unexpected endorsement, the market seems overpriced by at least 20–30 cents.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence (that price is wrong): ≈30% (mixed signals, low volume).  
-• Magnitude of potential mispricing: ≈3¢ (small drift around 54%).  
-• Expected value ≈0.30 × 3¢ ≈ 1 ¢
+• Strength of evidence: 50% (moderately strong, but future politics can shift)  
+• Magnitude of mispricing: ~32.5 cents  
+Expected value ≃ 0.50 × 32.5 = 16.25 cents → round to 16.0 cents for a conservative estimate.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Recent Feb 2026 reports show Trump praising Collins but no formal pledge, yielding a roughly even chance of endorsement. The 54% price aligns with mixed signals and low trading activity, suggesting any mispricing is small.  
-CONFIDENCE: low
+EXPECTED_VALUE: 16.0  
+SUMMARY: Multiple credible February 2026 reports document Trump’s public attacks on Collins and no signals of support, suggesting real odds closer to ~30%—making the 62.5% market price substantially overpriced. Low volume and tight spread indicate few traders, pointing to inefficiency in this market.  
+CONFIDENCE: medium
 
 ---
 
@@ -58,38 +58,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Trump praises Collins as she holds MAGA hat at bill signing - Maine Beacon
-Author: Beacon Staff
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://mainebeacon.com/trump-praises-collins-as-she-holds-maga-hat-at-bill-signing/
-Summary: At a recent bill signing event on February 3, 2026, President Donald Trump publicly praised U.S. Senator Susan Collins, who stood beside him holding a red "America is Back" hat. This display of support comes despite past tensions between them. Trump described the budget bill he signed as a significant victory, highlighting its cuts to funding for PBS, NPR, and tax enforcement at the IRS, while also addressing immigration issues.
-
-Collins has been a consistent supporter of Trump's agenda, having previously voted for measures that align with his policies, including Medicaid cuts and allowing ACA tax credits to expire, which have negatively impacted many Mainers. This history of alignment with Trump's policies may influence the likelihood of an endorsement for her re-election campaign in the upcoming ME-Sen race.
-
-Given this context, Trump's positive remarks about Collins and her alignment with his political agenda could suggest a favorable stance towards endorsing her by the November 2, 2026 deadline. However, the dynamics of political endorsements can be unpredictable, and factors such as public opinion and party strategy will also play significant roles.
-
-Title: ⚡️ Tally: Collins on Trump and her political future
-Author: punchbowlnews
+Title: Sen. Susan Collins launches 2026 Maine reelection bid after Trump clash
+Author: Kathryn Palmer 
+, 
+ Margie Cullen
 Published Date: 2026-02-10T00:00:00.000Z
-URL: https://punchbowl.news/archive/21026-special-edition-tally/
-Summary: The article discusses Susan Collins' political future, particularly in relation to Donald Trump and the upcoming 2026 Senate race in Maine. Collins, a moderate Republican, has had a complex relationship with Trump, often distancing herself from his more controversial policies while still maintaining party loyalty. The piece highlights her recent statements and actions that could influence Trump's endorsement decision. Factors such as her voting record, public perception, and the political landscape in Maine leading up to the November 2026 election are examined, providing insights into the likelihood of Trump endorsing her. Overall, the article suggests that while Collins may seek Trump's support, her moderate stance could complicate the endorsement process.
-
-Title: Trump takes center stage in Susan Collins reelection fight
-Author: David Sivak
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.washingtonexaminer.com/news/campaigns/congressional/4458067/liability-foil-trump-susan-collins-reelection-maine/
-Summary: The article discusses the role of former President Donald Trump in the reelection campaign of Senator Susan Collins for the Maine Senate seat in 2026. It highlights the dynamics of their relationship, noting that while Collins has maintained a degree of independence from Trump, his influence remains significant among Republican voters. The piece suggests that Collins may need to secure Trump's endorsement to galvanize support, especially given the competitive nature of the upcoming election. 
-
-As of now, there is no definitive statement from Trump regarding an endorsement, but his past support for Collins could indicate a likelihood of backing her again. Observers believe that the timing and nature of any endorsement will be crucial as the election date approaches. Therefore, while predicting an endorsement by November 2, 2026, remains uncertain, the political landscape suggests it could be pivotal for Collins' campaign.
-
-Title: 2026 United States Senate election in Maine - Wikipedia
-URL: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine
-Summary: The 2026 United States Senate election in Maine will take place on November 3, 2026, with incumbent Republican Senator Susan Collins seeking reelection. As of now, there is no official statement regarding whether former President Donald Trump will endorse Collins for her campaign. Factors that could influence his decision include Collins' alignment with Trump's policies, her past voting record, and her relationship with the Republican Party base. Additionally, the political landscape leading up to the election, including any primary challengers or shifts in voter sentiment, may also play a significant role in Trump's endorsement decision. For the most accurate prediction, it will be important to monitor developments in the months leading up to the election.
+URL: https://amp.desmoinesregister.com/story/news/politics/2026/02/10/susan-collins-2026-maine-senate-reelection-bid/88604159007/
+Summary: Senator Susan Collins of Maine has announced her bid for a sixth term in the 2026 U.S. Senate race. Although she has publicly disagreed with Donald Trump on some issues, she remains a centrist Republican with a history of providing a reliable Republican vote. Her re-election campaign is expected to be highly competitive, facing Democratic challengers such as Graham Platner and Governor Janet Mills. Given her past disagreements with Trump and the current political landscape, her potential endorsement by Trump by November 2, 2026, remains uncertain.
 
 Title: Collins goes all-in on reelection
 Author: 
 Published Date: 2026-02-10T00:00:00.000Z
 URL: https://punchbowl.news/article/campaigns/collins-reelection/
-Summary: The article discusses Senator Susan Collins' commitment to her reelection campaign, emphasizing her proactive approach as she prepares for the 2026 Senate race in Maine. While the piece does not directly address whether Donald Trump will endorse Collins, it highlights her political strategy and the dynamics of her campaign, which may influence Trump's decision. Collins has historically maintained a moderate stance, which could either attract or deter Trump's support, depending on the political climate leading up to the election. Observers should consider her past interactions with Trump and the evolving Republican landscape as potential indicators of whether an endorsement might occur by November 2, 2026. For more detailed insights, you can read the full article [here](https://punchbowl.news/article/campaigns/collins-r).
+Summary: The article details Senator Susan Collins's strong commitment to her reelection campaign, emphasizing her strategic focus and political positioning. While it highlights her efforts to secure her seat in Maine and her active campaigning, it does not mention any specific endorsements from Donald Trump or indications of his support for her reelection. Given the lack of direct information about Trump's stance or endorsement plans for Collins, it remains uncertain whether Trump will endorse her by November 2, 2026.
+
+Title: Sen. Susan Collins launches 2026 Maine reelection bid after Trump clash
+Author: 
+Published Date: 2026-02-10T00:00:00.000Z
+URL: http://www.donaldsonvillechief.com/story/news/politics/2026/02/10/susan-collins-2026-maine-senate-reelection-bid/88604159007/
+Summary: Senator Susan Collins has announced her bid for a sixth term in the 2026 Maine Senate race, positioning herself as a moderate Republican. Despite her occasional disagreements with former President Donald Trump, she has maintained a reputation for independence and has secured significant campaign funds. The race is expected to be highly competitive, with potential Democratic challengers including Gov. Janet Mills and newcomer Graham Platner. Given Collins' history of navigating bipartisan support and her complex relationship with Trump—publicly differing on some issues but also aligning on others—her potential endorsement by Trump remains uncertain. Her strong fundraising advantage and resilient electoral record suggest she is a formidable candidate, but whether Trump will endorse her by November 2026 will depend on her campaign's trajectory and her positioning relative to Trump’s influence within the Republican Party.
+
+Title: Trump plows ahead on Iran
+URL: https://thehill.com/newsletters/morning-report/5768519-trump-iran-conflict-escalates/
+Summary: The article discusses former President Donald Trump's ongoing assertive stance on Iran, emphasizing his continued focus on Iran-related policies and actions. It highlights Trump's opposition to certain figures and policies related to Iran, including his disapproval of Khamenei's son and his support for a more aggressive approach toward Iran's military activities. The coverage indicates that Trump is actively shaping his foreign policy narrative and maintaining a strong position on Iran, which could influence his political endorsements and strategies leading up to future elections. However, there is no specific mention of Trump endorsing Susan Collins for the Maine Senate race by November 2, 2026.
+
+Title: Republican US Senator Susan Collins announces bid for re-election | Reuters
+Author: David Morgan
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://mobile.reuters.com/world/us/republican-us-senator-susan-collins-announces-bid-re-election-2026-02-10/
+Summary: Senator Susan Collins, a moderate Republican from Maine, announced her bid for re-election in 2026, facing a competitive race against Democratic contenders. Despite her support for a resolution limiting President Trump’s military actions in Venezuela, Trump publicly attacked her and other Republicans who supported the measure, suggesting they "should never be elected to office again." Although Trump’s influence heavily impacts primary outcomes, he has not publicly endorsed a challenger against Collins and has not indicated support for her re-election. Given his recent criticisms and the political dynamics, it remains uncertain whether Trump will endorse Collins by November 2026.
 
 

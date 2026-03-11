@@ -1,7 +1,7 @@
 # Research: Will Silver (SI) settle over $65 on the final trading day of June 2026?
 
 **Market ID:** 0x32c4b44d717ced697eac47c9d5768b01c4d0cc8e7b6a2b08f28c52b06f1478a8
-**Researched At:** March 3, 2026 at 04:22:43 AM UTC
+**Researched At:** March 11, 2026 at 04:19:56 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Silver (SI) settle over $65 on the final trading day of June 2026?"
 
 ---
@@ -9,42 +9,49 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 5.0¢
+**Expected Value:** 0.5¢
 
 ### Summary
 
-Research uniformly points to a strong supply deficit and technical support well above $65, implying >$65 is highly likely. The current 84% price may modestly understate that probability, but the implied mispricing is small.
+All recent forecasts and structural-deficit analyses point to a strong likelihood of silver settling above \$65 by June 2026, making the 84.5% market price appear reasonable. There is no credible bearish evidence to suggest a large mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether the official CME settlement price for the Active Month of Silver futures on the final trading day of June 2026 will exceed $65/oz. If the June-trading-day settlement of the July 2026 contract (the Active Month) is above $65, the market pays out “Yes”; otherwise “No.”  
+- The market asks whether the CME Active Month SI futures settlement on the last trading day of June 2026 will exceed \$65.  
+- “Yes” requires the published official settlement price that day to be strictly greater than \$65; “No” otherwise.
 
 2. EVIDENCE EVALUATION  
-Bullish evidence suggesting P(> $65) is very high:  
-- AInvest (2026-02-17): persistent 67 Moz physical deficit gives a floor well above $65; JPMorgan’s $75 forecast is 15% above the threshold.  
-- AInvest (2026-03-01): structural deficit and industrial demand upside, with BofA’s range $135–$309, imply very low tail risk below $65.  
-- Schmidt Lab (2026-02-16): major institutions’ $75–$100 central forecasts and technical support at $70–$75 indicate $65 is far below normal trading range.  
-- AhaSignals (2026-02-10): even with volatility and narrative splits, most analysts see stabilization around $80–$90; downside to $65 would require an extreme macro shock.  
+Bullish evidence (all recent, credible financial-commodity sources):  
+- Persistent structural deficit (~67 Moz/year) underpins a price floor well above \$65 (AInvest 2026-02-17).  
+- J.P. Morgan forecast ~\$75 by June 2026, balancing deficits and macro factors.  
+- Analyst consensus at \$80 (range \$44–\$125) signals median well above \$65 (AhaSignals 2026-02-21).  
+- Geopolitical tensions and industrial demand shocks drove silver to \$94.50 in March 2026; technical momentum remains positive (AInvest 2026-03-04).  
+- Some markets even price >\$110 by June (Prediction Circle 2026-02-21), though addressing a different strike.
 
-Bearish or uncertainty factors:  
-- Macro risks (strong dollar, recession) could trigger speculative sell-offs, but none of the sources place the midpoint or support near $65. AhaSignals flags volatility but still shows $80 as likely support.  
+Bearish/volatility considerations:  
+- Short-term swings driven by sentiment; but none of the reports forecast a >\$65 downside by June end.  
+- Wide analyst range means tail risk <\$65, but consensus & fundamentals make it unlikely.
 
-Credibility and recency: all sources are from February–March 2026, from recognized analysts (JPMorgan, BofA, technical research sites). No credible bearish forecast sees settlement below $65 as more than a low-single-digit percent event.  
+Source credibility and recency: all are February–March 2026 from established commodity analysis outlets or large banks. No contradictory bearish forecast near/below \$65 found.
 
 3. MARKET EFFICIENCY ANALYSIS  
-An 84% probability implies a ~16% chance of settlement ≤ $65. Given the structural deficit and consensus midpoints ~\$75–\$90, an informed consensus might price P(>65) closer to 90–95%. The low volume suggests a few traders set price, but the narrow spread indicates some confidence.  
+- A 84.5% probability implies traders collectively see ~15.5% chance settlement ≤\$65.  
+- Given strong bullish fundamentals and high-profile forecasts, 84.5% is a reasonable consensus estimate.  
+- Low volume likely reflects triviality rather than neglect: outcome seems obvious enough that few bother trading.
 
 4. MISPRICING ASSESSMENT  
-There is no strong, credible evidence that > $65 is unlikely; in fact, the research suggests the risk of dropping below $65 is quite small. If anything, the market is slightly undervaluing “Yes.” However, the gap between 84% and a more justified ~90–95% is small (< 10 cents). No evidence supports a large mispricing (> 20 cents).  
+- No specific, credible information suggests the market has under- or over-priced the event.  
+- All major forecasts and structural analyses support a comfortably >\$65 settlement.  
+- The market price appears aligned with consensus and risk-adjusted volatility.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (moderately strong, though markets may already price in fundamentals)  
-Magnitude of mispricing: ~10 cents (difference between 84% and a ~94% fair estimate)  
-Expected value = 50% × 10 cents = 5 cents  
+- Strength of evidence for mispricing: ~10% (very weak; virtually no bearish counter-evidence).  
+- Magnitude of potential mispricing: ~5 cents (max plausible dispersion).  
+- Expected value = 0.10 × 5 c = 0.5 c
 
-EXPECTED_VALUE: 5.0  
-SUMMARY: Research uniformly points to a strong supply deficit and technical support well above $65, implying >$65 is highly likely. The current 84% price may modestly understate that probability, but the implied mispricing is small.  
+EXPECTED_VALUE: 0.5  
+SUMMARY: All recent forecasts and structural-deficit analyses point to a strong likelihood of silver settling above \$65 by June 2026, making the 84.5% market price appear reasonable. There is no credible bearish evidence to suggest a large mispricing.  
 CONFIDENCE: medium
 
 ---
@@ -53,42 +60,38 @@ CONFIDENCE: medium
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Will Silver (SI) hit__ by end of June? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://predictioncircle.com/event/si-hit-jun-2026
+Summary: The prediction market indicates a high likelihood that Silver (SI) will settle above $110 by the end of June 2026, with a 99% probability. The current market activity shows significant participation and a total traded volume of $2.2 million, reflecting ongoing reassessment of silver prices. However, the market specifically addresses whether silver will hit certain price points (e.g., $100 or $110), not the exact settlement price on the final trading day. Given the current odds and market confidence, it is highly probable that silver will settle well above $65 by June 2026, as the market's expectations are for prices to be significantly higher than that threshold.
+
 Title: What Silver's June 2026 Settlement Will Reflect: A Deficit Floor vs. Volatility
 Author: AInvest
 Published Date: 2026-02-17T00:00:00.000Z
 URL: https://www.ainvest.com/news/silver-june-2026-settlement-reflect-deficit-floor-volatility-2602/
-Summary: The upcoming June 2026 silver settlement is fundamentally supported by a persistent physical deficit, with an estimated shortfall of 67 million ounces in 2026, marking six consecutive years of supply-demand imbalance. Despite a slight increase in supply (up 1.5%) and a 20% surge in investment demand, overall demand remains steady at around 1.1 billion ounces, with industrial use declining slightly. This deficit creates a price floor, indicating that prices are unlikely to fall below the physical shortage level. 
+Summary: The analysis indicates that silver's price in June 2026 will be influenced primarily by its persistent structural deficit, which is projected to be around 67 million ounces—marking six consecutive years of supply shortfall. This deficit establishes a fundamental price floor, suggesting that prices are unlikely to fall below a certain level. Despite recent volatility and a surge in investment demand (up 20%), the overall supply remains constrained, with recycling reaching a 12-year high but still insufficient to close the gap. 
 
-However, recent price volatility has been significant, with silver prices soaring over 147% in 2025 to a peak of $121.60 per ounce before retracing below $80. This volatility is driven more by speculative flows, macroeconomic sentiment, and geopolitical factors than by the physical market fundamentals. 
+While short-term price swings have been significant—highlighted by a surge to over $121 in early 2025 and subsequent pullbacks—these are driven more by sentiment and speculative flows than by supply-demand fundamentals. J.P. Morgan forecasts a settlement around $75 per ounce by June 2026, balancing the deficit outlook against macroeconomic factors and speculative activity.
 
-J.P. Morgan forecasts a settlement price around $75 per ounce, balancing the deficit-driven support against speculative and macroeconomic influences. Given these dynamics, while the physical deficit suggests a price floor well above $65, the high volatility and market sentiment could cause prices to fluctuate significantly. Therefore, it is plausible that silver could settle over $65 in June 2026, but the final outcome will depend on how speculative flows and macroeconomic factors evolve near the settlement date.
+Given this context, it is plausible that silver could settle over $65 on the final trading day of June 2026, supported by the ongoing deficit and investment demand, though short-term volatility remains a key factor influencing prices.
+
+Title: Silver's March 2026 Crossroads: Can It Hit $95-$100 by Month-End?
+Author: AInvest
+Published Date: 2026-03-04T00:00:00.000Z
+URL: https://www.ainvest.com/news/silver-march-2026-crossroads-hit-95-100-month-2603/
+Summary: The article indicates that silver experienced a significant surge to $94.50 in early March 2026, driven by geopolitical tensions, particularly in the Middle East, and supported by a substantial supply deficit (67 million ounces). Despite short-term volatility and conflicting signals—such as geopolitical fears boosting prices and economic slowdown concerns weighing on industrial demand—the long-term bullish fundamentals remain intact, fueled by ongoing supply deficits and industrial demand (55% of usage). Technical momentum is positive, with recent breakout above $94, suggesting potential for further gains. However, the market's extreme volatility and macroeconomic uncertainties make precise short-term predictions challenging. Given these factors, if geopolitical tensions persist or escalate, and supply constraints continue, silver could sustain higher prices, potentially exceeding $65 by the end of June 2026.
+
+Title: Silver Price Forecast 2026: 26 Analyst Consensus $80/oz | AhaSignals
+Author: 
+Published Date: 2026-02-21T00:00:00.000Z
+URL: https://ahasignals.com/silver-forecast-tracker/
+Summary: The 2026 LBMA silver price forecast consensus is $80 per ounce, with a wide predicted range of $44 to $125, reflecting significant analyst disagreement. The forecast indicates a strong upward trend compared to the 2025 actual price of approximately $40.89. Factors influencing this outlook include a persistent structural deficit driven by surging industrial demand from AI data centers and solar photovoltaic expansion, which are expected to continue supporting higher silver prices. Given the consensus forecast and the current market dynamics, it is plausible that silver could settle over $65 on the final trading day of June 2026, especially considering the bullish outlook and ongoing demand drivers. However, the high dispersion among analyst predictions suggests some uncertainty, and potential supply constraints or demand fluctuations could impact the final price.
 
 Title: Silver Price 2026 Outlook: Why the Bull Case Is Gaining Steam
 Author: AInvest
 Published Date: 2026-03-01T00:00:00.000Z
 URL: https://www.ainvest.com/news/silver-price-2026-outlook-bull-case-gaining-steam-2603/
-Summary: The webpage indicates that silver prices in 2026 are driven by a persistent structural deficit, with demand outpacing supply due to industrial growth in solar, EVs, and 5G infrastructure. Major financial institutions like Bank of America project a wide price range for silver, from $135 to $309 per ounce, based on historical ratios and supply-demand dynamics. The market is also influenced by geopolitical risks, safe-haven demand for precious metals, and macroeconomic uncertainty, which could support higher prices. However, the potential for economic slowdown and a strong dollar may temper gains. Given the current bullish outlook and the possibility of prices reaching well above $65, it is plausible that silver could settle over $65 on the final trading day of June 2026, especially if demand remains robust and supply constraints persist.
-
-Title: Will Silver (SI) hit__ by end of June? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://predictioncircle.com/event/si-hit-jun-2026
-Summary: The prediction market indicates a high likelihood that Silver (SI) will reach or exceed $110 by the end of June 2026, with a 99% probability based on current odds. The market's focus is on whether Silver's futures price will be at or above certain thresholds, with the active market showing strong participation and significant trading volume ($2.2 million). However, the market specifically assesses whether Silver will hit $110, not $65. Given that the current odds strongly favor prices above $100, it is highly probable that Silver will settle well over $65 on the final trading day of June 2026. The market's resolution depends on the CME Silver futures settlement price, which is influenced by credible reporting and official data. Overall, the market sentiment suggests Silver's price will be substantially higher than $65 by the end of June 2026.
-
-Title: Silver Price Forecast 2026: Industrial vs. Monetary Split & Why Forecasts Fail
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://ahasignals.com/research/silver-market/silver-market-consensus-fragility-analysis-2026/
-Summary: The outlook for silver (SI) in 2026 is characterized by significant volatility and conflicting market narratives. After reaching a high of $121.88 in January, silver experienced a sharp 35% crash to around $71, driven by the "Warsh Shock" event. Currently trading between $80 and $92, institutional forecasts have been revised upward, with most analysts expecting prices to settle between $90 and $150, reflecting a mix of industrial demand, solar sector growth, and monetary hedging.
-
-However, market sentiment remains divided, with a "narrative split" between bullish industrial/solar demand drivers and bearish monetary/financial concerns. The consensus suggests a potential stabilization around the $80-$90 range, but high volatility persists, and the market is testing whether $80 is a new support level or a bull trap.
-
-Given this context, if the market maintains its current support levels and industrial demand remains strong, silver could settle over $65 by the end of June 2026. Nonetheless, the persistent volatility, divergent narratives, and recent sharp corrections imply that predicting a definitive settlement above $65 is uncertain, and significant downside risks remain.
-
-Title: How High Will Silver Go in 2026? Price Ceiling Analysis and Forecasts | Schmidt Lab
-Author: Sarah Kim
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://schmidt-lab.net/collectibles/how-high-will-silver-go-2026/
-Summary: The webpage provides a comprehensive analysis of silver's price outlook in 2026, highlighting key technical levels, market forecasts, and fundamental factors. Major financial institutions project prices mainly between $75 and $100, with some outliers suggesting potential for prices as high as $150 if supply deficits and industrial demand persist. Technical support levels are around $70–$75, with resistance at $110–$115 and an all-time high of $121.67 reached in January 2026. The market's supply deficit, ongoing demand resilience, and technical momentum suggest that silver could remain above $65, especially if bullish factors like continued supply shortages and strong industrial demand persist. Therefore, barring significant macroeconomic shifts or technical breakdowns, silver is likely to settle over $65 on the final trading day of June 2026.
+Summary: The article indicates that silver prices in 2026 are driven by a persistent structural deficit, with demand outpacing supply due to industrial growth in solar, EV, and 5G sectors. Major financial institutions like Bank of America project a wide price range for silver, from $135 to $309 per ounce, based on supply-demand dynamics and historical gold-silver ratios. Geopolitical risks and safe-haven demand also influence prices, with gold and silver both benefiting from macroeconomic uncertainty. Given the current bullish trends and supply constraints, there is potential for silver to trade significantly higher, possibly exceeding $65 by the end of June 2026, especially if industrial demand continues to grow and macroeconomic conditions favor precious metals.
 
 

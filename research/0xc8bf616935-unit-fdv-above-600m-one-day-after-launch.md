@@ -1,48 +1,60 @@
 # Research: Unit FDV above $600M one day after launch?
 
 **Market ID:** 0xc8bf61693542486a6d63b8b2ae3a808cfbfdb0f2f0f4d95d011009d096882b91
-**Researched At:** March 1, 2026 at 06:11:54 AM UTC
+**Researched At:** March 11, 2026 at 04:17:08 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Unit FDV above $600M one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.5¢
+**Confidence:** Medium
+**Expected Value:** 1.5¢
 
 ### Summary
 
-No direct data on Unit’s token launch or tokenomics exists in the research, so the market’s 36% appears to simply reflect high uncertainty rather than a clear mispricing. With no credible evidence to push the price up or down significantly, we see no material edge.
+By comparing Unit’s unknown fundamentals to a wide range of other token launches, a 32% chance of surpassing $600 M FDV is a plausible midpoint of conservative and optimistic precedents. No compelling missing data or extreme analogue suggests a >20¢ mispricing.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-This is a binary market on whether Unit’s governance token will have a Fully Diluted Valuation (FDV) exceeding $600 million exactly 24 hours after its public launch (defined as 4 PM ET the day after tokens become publicly tradable). “Yes” requires:  
-• Unit must launch before 12/31/2027 11:59 PM ET.  
-• On the calendar day after launch at 4 PM ET, the FDV (total supply × price) > $600 million.  
-Otherwise it resolves “No.”
+The market asks whether Unit’s governance token will have a fully diluted valuation (FDV) above $600 million at 4 PM ET on the day after its public transfer/trading launch. For a “Yes” resolution, Unit must:  
+- Conduct a token launch by December 31, 2027.  
+- Have its token actively transferable and tradable.  
+- Command a price such that (total supply × token price) exceeds $600 million exactly one day post-launch.
 
 2. EVIDENCE EVALUATION  
-No research directly covers Unit. All five articles cover other token launches (Backpack, Aztec, edgeX, FELIX, Fabric). They give FDV ranges, launch dynamics, and implied probabilities for those projects but nothing about Unit’s tokenomics, market positioning, or launch schedule.  
-• Bearish angles: Without any on-chain tokenomics or announced distribution schedule for Unit, there’s high uncertainty. Many projects with strong backing still struggle to clear $600 M on day 1. Fabric’s market assigns near-0% chance of > $600 M; Aztec’s implied FDV was sub-$600 M despite lockups and strong VC backing; FELIX hit only millions not hundreds of millions.  
-• Bullish angles: Some projects leapfrogged expectations (Backpack already at $644 M FDV within days; edgeX’s fundamentals suggest > $600 M could have been under-priced at 40%). But Unit’s fundamentals are unreported.  
-All sources are recent (Feb ’26) and from credible crypto-news outlets. But none mention Unit, so there is no direct evidence to shift the 36% price.
+Bullish analogies:  
+- Backpack’s FDV reached $644 M shortly after launch and had ~55% odds to exceed $500 M, implying large launches can clear $600 M.  
+- edgeX fundamentals (>$2 B daily TVL equivalent, strong revenue) supported ~40% odds to exceed $2 B, showing top‐tier projects can overshoot large thresholds.  
+
+Bearish analogies:  
+- Paradex market assigns only ~6% chance to exceed $500 M and ~1% for $750 M, hinting that $600 M odds might be in single digits for mid‐tier launches.  
+- USD.AI’s detailed financial multiples point to a $270–320 M FDV one day post-launch, far from $600 M, suggesting many projects fall well short without exceptional growth drivers.  
+
+Limitations & credibility:  
+- None of the sources directly analyze Unit’s token model, TVL, partnerships or investor appetite.  
+- PredictionCircle, Phemex News, Whales.Market, and AInvest are credible for market‐wide FDV forecasts but don’t cover Unit specifically.  
+- Recency is high (February–March 2026), but extrapolation to Unit carries uncertainty.
 
 3. MARKET EFFICIENCY ANALYSIS  
-At 36%, traders appear to price in both the risk Unit may never launch by 2027 and the risk that post-launch FDV stays below $600 M. Given zero public token details, 36% could be a default “mid-range” probability set by a handful of early bettors rather than a consensus of informed participants. Low volume (≈$4.8 K) suggests limited engagement by specialists; yet the tight 6¢ spread indicates no one sees a giant edge here.
+- A 32% price could reflect a median of bullish (top‐tier) and bearish (mid‐tier) comparables.  
+- Low $0 volume suggests few participants—possibly only one or two—set the price, but the 6¢ spread indicates at least some counter‐interest.  
+- The outcome is not obvious; large variance across past launches means informed traders may be reluctant to back extreme odds without deep on‐chain or partnership data.
 
 4. MISPRICING ASSESSMENT  
-There is no specific information on Unit’s token economics, release schedule, or market appetite in the research. Without any direct data, we cannot identify a gap in the market’s reasoning. 36% plausibly reflects high uncertainty—a coin-flip leaning “no” given the $600 M threshold is ambitious for many launches. No credible evidence suggests the probability should be materially higher or lower.
+- No direct Unit metrics are missing from the market price—traders likely know the same limited information we have.  
+- Comparables span a broad band: some projects achieve >$600 M FDV with ~40–55% odds; others sit near 1–6% odds for comparable thresholds.  
+- A 32% probability sits squarely in the middle of that band, suggesting the market is reflecting reasonable uncertainty rather than a clear mispricing.
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that a mispricing exists: ~10% (we’re essentially guessing).  
-Magnitude of potential mispricing: ~5 cents (small, given total ignorance).  
-Expected value ≈ 10% × 5 cents = 0.5 cents.
+- Strength of evidence that price is off: ~30% (diverse analogies, but no Unit‐specific data).  
+- Magnitude of potential mispricing: ~5 cents (small given the market’s balance).  
+- Expected value ≈ 0.3 × 5 = 1.5 cents
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: No direct data on Unit’s token launch or tokenomics exists in the research, so the market’s 36% appears to simply reflect high uncertainty rather than a clear mispricing. With no credible evidence to push the price up or down significantly, we see no material edge.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.5  
+SUMMARY: By comparing Unit’s unknown fundamentals to a wide range of other token launches, a 32% chance of surpassing $600 M FDV is a plausible midpoint of conservative and optimistic precedents. No compelling missing data or extreme analogue suggests a >20¢ mispricing.  
+CONFIDENCE: medium
 
 ---
 
@@ -50,74 +62,43 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
+Title: Predict.fun FDV above ___ one day after launch? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-03-02T00:00:00.000Z
+URL: https://predictioncircle.com/event/predictfun-fdv-above-one-day-after-launch
+Summary: The webpage provides insights into prediction markets for estimating the fully diluted valuation (FDV) of Predict.fun one day after launch. Currently, the market expects the FDV to be above $50 million with an 85% likelihood, and traders favor a $50M valuation at 91%. The market activity includes $1.1 million traded over a span of approximately 665 days, indicating significant interest and shifting sentiment. 
+
+Key factors influencing predictions include on-chain data, market momentum, and credible reporting. The market resolves to "Yes" if the FDV exceeds the specified threshold (e.g., $600M) based on the token's total supply and current price, verified through official sources. 
+
+For predicting whether the FDV will be above $600M one day after launch, relevant considerations include:
+- The current market odds favoring lower thresholds (around $50M), suggesting that reaching $600M is less likely in the short term.
+- The substantial trading volume and active participation indicate market confidence but still favor conservative estimates.
+- The timeline and key updates, such as token launch details and market sentiment, are crucial for refining predictions.
+
+In summary, while the current market heavily favors an FDV above $50M, predicting an FDV above $600M one day after launch would require a significant positive shift in market conditions, token performance, and investor confidence.
+
+Title: Paradex FDV above ___ one day after launch? - Prediction Market Odds & Analysis
+Author: Prediction Circle
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://predictioncircle.com/event/paradex-fdv-above-one-day-after-launch
+Summary: The webpage analyzes prediction markets regarding Paradex's Fully Diluted Valuation (FDV) one day after launch. Currently, the leading estimate is around $300 million, with a 22% probability, followed by $500 million at 6%, and a surprise candidate at $750 million with 1%. Heavy trading activity and shifting odds suggest market uncertainty. To predict whether the FDV will be above $600 million one day after launch, consider that the market's current highest probability for surpassing that threshold is low, and the odds are still unsettled. The market resolution depends on Paradex's actual token launch and its valuation, with official sources used for confirmation. Monitoring ongoing trading activity and market odds can provide insights into the likelihood of the FDV exceeding $600 million shortly after launch.
+
+Title: Here's Why USD.AI FDV Could Be $270M–$320M One Day After Launch!
+Author: 
+Published Date: 2026-03-05T00:00:00.000Z
+URL: https://whales.market/blog/usd-ai-chip-fdv-prediction/
+Summary: The article analyzes USD.AI's valuation prospects, highlighting that its fully diluted valuation (FDV) could reach $270M–$320M shortly after launch based on multiple valuation methods, including TVL multiples, fee multiples, and fundraising comparables. Currently, the protocol's market cap and trading volume suggest a near-coin-flip 52% probability of reaching or exceeding certain valuation thresholds. Given the early-stage TVL (~$450M), revenue figures, and recent partnerships (e.g., with PayPal), the valuation appears to be growing but remains below $600M. To surpass a $600M FDV one day after launch, significant growth in TVL, revenue, or market sentiment would likely be necessary.
+
 Title: Backpack's FDV Hits $644M, Eyes $1B Potential | Phemex News
 Author: 
 Published Date: 2026-02-14T00:00:00.000Z
 URL: https://phemex.com/news/article/backpacks-fdv-reaches-644-million-potential-for-growth-60506
-Summary: Backpack's fully diluted valuation (FDV) has reached $644 million, with a current valuation of $0.377 per point. The likelihood of achieving a $500 million FDV on POLY is estimated at 55%. Comparatively, other projects have varying market cap rankings, with edgeX at $1 billion (50% probability) and others ranging from $100 million to $300 million. The potential for Backpack's FDV to exceed $1 billion is contingent on Bitcoin's recovery in March and the continuation of positive developments from Backpack. This information suggests that the FDV is currently above $600 million, indicating a strong market position shortly after launch.
-
-Title: Aztec Price Prediction: FDV Could  be $300M-$600M after launch?
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://whales.market/blog/aztec-price-prediction/
-Summary: The article discusses Aztec's potential future FDV (Fully Diluted Valuation) following its public sale, which concluded with an implied FDV of approximately $400M-$410M. It highlights that this valuation is significantly lower than other Layer 2 projects like zkSync or Starknet at their Token Generation Events (TGE). 
-
-Key factors influencing Aztec's FDV include:
-
-1. **Tokenomics**: Aztec's design aims to minimize short-term selling pressure. Only about 18% of the total supply will be circulating immediately at TGE, primarily from the public sale and liquidity pool, with a significant portion of tokens locked for investors and the team.
-
-2. **No Airdrop**: Unlike many projects, Aztec will not conduct a community airdrop, which could stabilize the price by reducing immediate selling pressure.
-
-3. **Market Position**: Aztec's unique focus on "programmable privacy" and its hybrid public-private ZK Rollup architecture may attract developers and users, potentially increasing demand for its tokens.
-
-4. **Funding and Support**: The project has raised $117M from notable investors, which may provide a strong foundation for growth and market confidence.
-
-Given these factors, while the current FDV is below $600M, the combination of limited circulating supply, strategic positioning, and investor backing could influence market dynamics positively, making it plausible for Aztec's FDV to exceed $600M shortly after launch, depending on market conditions and
+Summary: Backpack's fully diluted valuation (FDV) has recently reached $644 million, indicating strong market interest shortly after launch. The project’s current valuation suggests a high potential for growth, especially if positive developments continue and Bitcoin recovers in the coming months. With a 55% probability of reaching a $500 million FDV on POLY and comparisons to other projects with similar or higher market caps, Backpack demonstrates promising momentum toward surpassing $600 million FDV. Continued positive market conditions and project advancements could feasibly push its FDV above $600 million within a short period post-launch.
 
 Title: edgeX FDV above $2B one day after launch? The 40% Probability Play
 Author: AInvest
 Published Date: 2026-02-09T00:00:00.000Z
 URL: https://www.ainvest.com/news/edgex-fdv-2b-day-launch-40-probability-play-2602/
-Summary: The article discusses edgeX's upcoming token generation event (TGE) and its potential fully-distributed valuation (FDV) shortly after launch. While the market currently estimates only a 40% chance that edgeX's FDV will exceed $2 billion within the first 24 hours, this skepticism may not accurately reflect the platform's strong operational performance. 
-
-Key points relevant to predicting whether edgeX's FDV will surpass $600 million include:
-
-1. **Market Reaction and Odds**: The market's 40% probability suggests a cautious outlook, potentially underestimating edgeX's capabilities.
-
-2. **Trading Volume and Revenue**: edgeX boasts a significant daily trading volume of $2.28 billion and generates revenue four times higher than its closest peer, Lighter. This strong revenue foundation indicates robust demand and user adoption.
-
-3. **Liquidity Pressure**: A 25% token unlock at TGE could create over $500 million in liquidity pressure, but the community-based distribution strategy may help mitigate potential selling risks.
-
-4. **Competitive Positioning**: edgeX ranks fourth among perpetual decentralized exchanges (DEXs) in trading volume, highlighting its competitive advantages and market presence.
-
-Given these factors, edgeX's operational strength and market positioning suggest a higher likelihood of achieving an FDV above $600 million shortly after launch, despite current market skepticism.
-
-Title: FELIX FDV Above ___ One Day After Launch? Let's Break Down the Narrative Fuel
-Author: AInvest
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.ainvest.com/news/felix-fdv-day-launch-break-narrative-fuel-2602/
-Summary: The article discusses the launch of the FELIX crypto-native meme token, which took place on February 6, 2026, and highlights key factors that could influence its Fully Diluted Valuation (FDV) one day after launch. Here are the relevant points for predicting whether the FDV will exceed $600 million:
-
-1. **Launch Dynamics**: FELIX was launched without a traditional whitepaper, instead leveraging a viral AI persona narrative. This unique approach generated significant initial interest and FOMO, which can drive early price increases.
-
-2. **Exchange Listings**: The token was listed on XT and WEEX within five days of its launch. Rapid listings can create liquidity and attract speculative trading, which may contribute to a higher FDV.
-
-3. **Initial Price Action**: The token experienced a 59.60% price surge within the first week, indicating strong market interest. The price trajectory in the first 24 hours is crucial for establishing the FDV.
-
-4. **Market Sentiment**: The FDV is heavily influenced by the conviction of early holders (referred to as "diamond hands" vs. "paper hands") and the liquidity provided by exchanges. A strong initial holder base can support a higher FDV.
-
-5. **Trading Volume**: The article notes a trading volume of $1.45 million, which suggests active trading but also indicates potential volatility. High trading volume can lead to price fluctuations that impact FDV.
-
-6. **Prediction Markets**:
-
-Title: Fabric ($ROBO) FDV above ___ one day after launch? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://predictioncircle.com/event/fabric-fdv-above-one-day-after-launch
-Summary: The prediction market for Fabric ($ROBO) is currently focused on the Fully Diluted Valuation (FDV) of the token one day after its launch. As of now, the market indicates a strong expectation for an FDV of $50 million at a 99% probability, with a close second at $100 million at 98%. However, there is no current market candidate for an FDV above $600 million, which suggests that such an outcome is considered highly unlikely based on current trader sentiment.
-
-The market has seen significant activity, with $659,000 traded and 309 days remaining until resolution. The event will resolve based on verified on-chain data and credible reporting, determining if the FDV exceeds the specified amount one day post-launch. If the token does not launch by the end of 2026, the market will resolve to "No."
-
-For predicting whether the FDV will exceed $600 million, the current odds and market dynamics suggest that this scenario is not favored, as the highest expectations are significantly below that threshold.
+Summary: The article suggests that despite market skepticism—reflected in only a 40% probability of edgeX's FDV exceeding $2 billion within 24 hours of launch—edgeX's strong operational fundamentals challenge this outlook. The platform processes $2.28 billion in daily trading volume, ranks fourth among perpetual DEXs, and generates revenue four times higher than its peer Lighter at similar valuation levels. Although the token generation event (TGE) has been delayed to March 31, 2026, to ensure stability, the existing performance indicates that a significant valuation (above $600 million FDV) is plausible shortly after launch. The market appears to undervalue edgeX's competitive advantages, suggesting that if the platform maintains its current momentum, a unit FDV above $600 million within one day post-launch is a reasonable expectation.
 
 

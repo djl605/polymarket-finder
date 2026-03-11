@@ -1,7 +1,7 @@
 # Research: Will Mark Baisley be the Republican nominee for Senate in Colorado?
 
 **Market ID:** 0x7391df4303788c6fe33c77afd7b87bd1d34359b6a5f00f5c68580db05eb463e7
-**Researched At:** March 1, 2026 at 06:00:13 AM UTC
+**Researched At:** March 11, 2026 at 04:17:20 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Mark Baisley be the Republican nominee for Senate in Colorado?"
 
 ---
@@ -9,42 +9,40 @@
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.5¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-There is no concrete recent evidence—positive or negative—that materially alters Baisley’s sub-20% chance. The market’s 18.5% appears reasonable given his low statewide profile and lack of fundraising or polling data.
+There is no public reporting on Mark Baisley as a Senate candidate, implying the market’s 50.5% may be overstated. However, private polling or insider knowledge could justify the price, and we lack concrete mispricing evidence.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks whether Mark Baisley will win the June 2026 Colorado Republican Senate primary. A YES requires Baisley to (a) formally enter the primary, (b) out-raise and out-campaign all GOP rivals, and (c) secure a plurality in the primary vote. A NO covers any other nominee or failure to hold a primary.  
+This market asks whether Mark Baisley wins the Colorado Republican U.S. Senate primary. A “YES” means Baisley secures more votes than any other GOP candidate in the primary; “NO” means he is defeated or no primary is held (resolving to “Other”).  
 
 2. EVIDENCE EVALUATION  
-Bullish signals for Baisley:  
-- State legislative experience gives him some recognition and a voting base.  
-- He has publicly championed education-safety issues, which could resonate with GOP primary voters.  
-
-Bearish signals:  
-- His recent Senate Bill 26-055 (school‐safety registry) was killed, raising questions about his legislative effectiveness and appeal.  
-- There is no reporting of statewide polling, major endorsements, or significant fundraising for Baisley’s Senate effort.  
-- Other well‐funded or better‐known Republicans may enter the race, diluting his chances.  
-
-Source credibility and recency: All articles date from February 2026 and come from known local or specialized outlets. The Canon City Daily Record piece directly addresses Baisley’s political standing; the others provide only indirect context.  
+– Specific bearish evidence (price too high): None of the five articles mention Mark Baisley as a candidate or front-runner. Major GOP primary coverage lists other contenders and infighting, implying Baisley is not yet notable. If he isn’t even on reporters’ radars, his probability of winning is likely well under 50%.  
+– Specific bullish evidence (price too low): No direct info suggesting Baisley’s name recognition or campaign strength. Absence of reporting could reflect a quietly mounting campaign, but that’s pure speculation.  
+– Source credibility/recency: All sources are from February 2026, credible local and national outlets, but none reference Baisley. The coverage is timely for the primary landscape but blind to this candidate.  
+– Skepticism: If Baisley were a strong contender, reporters would mention him. The market at 50.5% implies watchers think he’s in the mix, but we see no evidence of that.  
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 18.5% price implies traders believe he is a long‐shot but not out of contention. This could reflect genuine consensus that his profile is low relative to potential rivals. Low volume suggests few traders have strong convictions; the tight spread may indicate those participants agree on a mid‐teens probability rather than a sharply mispriced odds.  
+– Possible justification of 50.5%: Traders may know private polling or insider chatter about Baisley’s fundraising or endorsements not captured in public media.  
+– Low volume caveat: A single well-informed trader might be pushing the price based on nonpublic data; or the market is overlooked because the race is viewed as low-profile.  
+– Alternatively, 50.5% could simply reflect a default “coin-flip” price when no one has strong views publicly.  
 
 4. MISPRICING ASSESSMENT  
-There is no clear evidence that a widespread factor—such as a major endorsement or new polling—has been overlooked. The lack of any bullish fundraising or polling data for Baisley supports the market’s modest probability. Conversely, no breakthrough positive news suggests that his odds should be notably higher than ~20%.  
+– Evidence suggests the market is assigning far more weight to Baisley’s chances than public reporting supports. However, absence of public mention isn’t conclusive—traders may have private insights.  
+– Given the uncertainty and lack of any public nominations or early polling, a 50.5% chance feels overstated. But the market’s tight spread suggests someone has reason to defend that midpoint.  
+– There is insufficient public evidence to confidently assert a >20¢ mispricing. A modest downward adjustment might be justified, but we lack specific data on his campaign infrastructure or polling.  
 
 5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is incorrect: ~30% (weak, mostly absence of strong signals).  
-Magnitude of mispricing if any: ~5¢ (small given lack of new data).  
-Expected value ≈ 30% × 5¢ = 1.5¢  
+– Strength of evidence: 20% (we only know what reporters know, but insiders may know more)  
+– Magnitude of mispricing: perhaps 10¢ (we judge 50.5% is likely too high by up to 10¢)  
+– Expected value = 20% × 10¢ = 2¢  
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: There is no concrete recent evidence—positive or negative—that materially alters Baisley’s sub-20% chance. The market’s 18.5% appears reasonable given his low statewide profile and lack of fundraising or polling data.  
+EXPECTED_VALUE: 2  
+SUMMARY: There is no public reporting on Mark Baisley as a Senate candidate, implying the market’s 50.5% may be overstated. However, private polling or insider knowledge could justify the price, and we lack concrete mispricing evidence.  
 CONFIDENCE: low
 
 ---
@@ -53,80 +51,34 @@ CONFIDENCE: low
 
 *The following context was generated by Exa AI and provided to the analysis model:*
 
-Title: Sen. Baisley’s bill to protect students from predators is killed – Canon City Daily Record
-Author: Michael Alcala  |  alcalam@canoncitydailyrecord.com  | Canon City Daily Record
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.canoncitydailyrecord.com/2026/02/27/sen-baisleys-bill-to-protect-students-from-predators-is-killed/
-Summary: Sen. Mark Baisley recently faced a setback when his proposed legislation aimed at protecting students from predators was killed in the Colorado Senate. The bill, Senate Bill 26-055, sought to establish a registry of school personnel who violated conduct codes, particularly in light of ongoing concerns about sexual misconduct in schools, especially in Jefferson County. Baisley emphasized the need for parents to feel secure about their children's safety at school. 
+Title: GOP faces uphill battle to flip Colorado. La Plata County Republicans are hopeful - The Journal
+Author: Jessica Bowman
+Published Date: 2026-02-14T00:00:00.000Z
+URL: https://www.the-journal.com/articles/gop-faces-uphill-battle-to-flip-colorado-la-plata-county-republicans-are-hopeful/
+Summary: The article discusses the efforts of La Plata County Republicans in Colorado as they prepare for the upcoming midterm elections, highlighting their optimism despite the state's Democratic leanings. A candidate forum featured Republican contenders for various statewide offices, including the U.S. Senate. While specific candidates like Janek Joshi, Dathan Jones, and George Markert participated in the forum, there is no mention of Mark Baisley as a candidate or his potential to secure the Republican nomination for Senate. Therefore, based on this information, it is unclear whether Mark Baisley will be the Republican nominee for Colorado Senate.
 
-This recent failure could impact his political standing and influence perceptions of his candidacy for the Republican nomination for Senate in Colorado. His ability to champion student safety issues may resonate with voters, but the defeat of this bill could raise questions about his effectiveness as a legislator. As he continues to campaign, his responses to this setback and his focus on education and safety may play a crucial role in determining his viability as a candidate.
-
-Title: The invisible primary in Colorado: Republican governor
+Title: Can the Colorado GOP get serious? – DNYUZ
 Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.co-political-landscape.org/the-invisible-primary-in-colorado-republican-governor/
-Summary: The article discusses the current landscape of the Republican primary for governor in Colorado, focusing on frontrunners Victor Marx and Barbara Kirkmeyer. While it does not directly address Mark Baisley's candidacy for the Senate, understanding the dynamics of the Republican primary can provide context for predicting his chances.
+Published Date: 2026-02-24T00:00:00.000Z
+URL: https://dnyuz.com/2026/02/24/can-the-colorado-gop-get-serious/
+Summary: The article discusses Colorado's high-stakes 2026 election landscape, highlighting the Democratic incumbents and the state's shifting political dynamics, especially in the context of Trump’s influence on the GOP. It emphasizes the current internal conflicts within Colorado Republicans, including primary disputes and notable endorsements, such as Trump rescinding his support for Rep. Jeff Hurd and backing a rival. Given this context, the Republican primary is expected to be contentious, with significant infighting. While the article does not mention Mark Baisley specifically, the focus on internal GOP struggles suggests that the nomination process is uncertain and highly competitive. Therefore, predicting whether Mark Baisley will secure the Republican Senate nomination remains uncertain based on this information alone.
 
-Key points include:
+Title: Deep Canvassing in Colorado's Tossup District Could Be What Gives Rep. Evans the Boot
+Author: Keith Gelderloos
+Published Date: 2026-02-11T00:00:00.000Z
+URL: https://coloradotimesrecorder.com/2026/02/deep-canvassing-in-colorados-tossup-district-could-be-what-gives-rep-evans-the-boot/76601/
+Summary: The webpage primarily discusses deep canvassing efforts in Colorado's 8th Congressional District, focusing on voter outreach strategies aimed at influencing election outcomes, particularly targeting low-frequency voters. It highlights the effectiveness of empathetic, value-based conversations in increasing voter turnout, which could be pivotal in tight races like CD8. However, there is no specific information about Mark Baisley's potential candidacy for the Colorado Senate Republican nomination or details about the state's Senate race candidates. Therefore, the webpage does not provide relevant information to predict whether Mark Baisley will be the Republican nominee for Colorado Senate.
 
-1. **Fundraising Trends**: Victor Marx has significantly outpaced Kirkmeyer in fundraising, raising about $620,000 compared to her $380,000. This suggests that candidates with strong financial backing may have an advantage in securing nominations.
+Title: National Democrats see a path to winning Colorado Springs’ congressional seat for first time ever - The Colorado Sun
+Author: Jesse Paul
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://coloradosun.com/2026/02/10/5th-congressional-district-national-democrats-focus/
+Summary: The article discusses the Democratic Party's strategic focus on flipping Colorado’s 5th Congressional District, a historically Republican stronghold in Colorado Springs, which has never elected a Democrat in its over 50-year history. The Democratic Congressional Campaign Committee has designated this district as "in play," signaling potential support and resources aimed at a Democratic victory. Key factors include a strong Democratic candidate, Jessica Killin, an Army veteran with significant fundraising success, and the district's recent political dynamics. While the article does not mention Mark Baisley or the Colorado Senate race, it highlights the shifting political landscape in Colorado, which could influence Republican candidate selections and campaign strategies in statewide races, including the Senate.
 
-2. **Donor Demographics**: Marx's support comes from a broader base, including many out-of-state donors, while Kirkmeyer's contributions are more localized, indicating a potentially stronger grassroots support within Colorado.
-
-3. **Candidate Profiles**: Marx is characterized as a "high risk humanitarian," while Kirkmeyer emphasizes her legislative experience and fiscal conservatism. The appeal of candidates' personal narratives and political backgrounds can influence voter preferences.
-
-4. **Comparison with Democrats**: The Republican candidates have raised significantly less than their Democratic counterparts, which may affect their competitiveness in the general election.
-
-While the article does not mention Mark Baisley, analyzing the fundraising and support dynamics among Republican candidates could help gauge his potential for nomination based on similar factors.
-
-Title: United States Senate election in Colorado, 2026 - Ballotpedia
-URL: https://ballotpedia.org/United_States_Senate_election_in_Colorado,_2026
-Summary: The webpage on the United States Senate election in Colorado in 2026 from Ballotpedia provides an overview of the upcoming election, including key details about candidates, election laws, and the political landscape. While it does not specifically confirm whether Mark Baisley will be the Republican nominee, it is essential to consider several factors that could influence his candidacy:
-
-1. **Current Political Climate**: The webpage may discuss the overall political environment in Colorado, including voter demographics and party strength, which could impact Baisley's chances.
-
-2. **Candidate Announcements**: Look for any updates on candidate declarations for the Republican nomination. If Baisley has officially announced his candidacy, this would be a strong indicator of his potential nomination.
-
-3. **Polling Data**: The site may provide insights into polling data or public opinion regarding Baisley and other potential candidates, which could help gauge his popularity within the party.
-
-4. **Party Support**: Information on endorsements from key Republican figures or organizations could also play a crucial role in determining whether Baisley will secure the nomination.
-
-5. **Previous Elections**: Analyzing Baisley's past electoral performance and his political experience could provide context for his viability as a candidate.
-
-For the most accurate prediction regarding Mark Baisley's candidacy, it would be beneficial to monitor updates on candidate announcements and polling as the election date approaches.
-
-Title: Democrats Michael Bennet, Phil Weiser make their cases to be Colorado’s next governor ahead of primary - Colorado Politics
-Author: Ernest Luning
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://www.coloradopolitics.com/2026/02/21/democrats-michael-bennet-phil-weiser-make-their-cases-to-be-colorados-next-governor-ahead-of-primary/
-Summary: The article primarily discusses the Democratic primary for Colorado's gubernatorial race between U.S. Senator Michael Bennet and Attorney General Phil Weiser, both of whom are well-established politicians. While it does not directly address the Republican nomination for Senate, it highlights the competitive nature of the upcoming elections in Colorado, particularly the Democratic primary, which may influence Republican strategies.
-
-To predict whether Mark Baisley will be the Republican nominee for Senate, consider the following factors:
-
-1. **Republican Landscape**: The article notes that over two dozen Republicans are seeking their party's nomination for governor, indicating a crowded field that could affect Baisley's chances if he is also running for Senate.
-
-2. **Historical Context**: The Republican Party has not won the governorship in Colorado since 2002, suggesting a challenging environment for GOP candidates, which could impact Baisley's nomination prospects.
-
-3. **Primary Dynamics**: The article emphasizes the significance of the Democratic primary, which may draw attention away from Republican candidates. The dynamics of the Democratic race could influence voter turnout and party focus, potentially affecting Baisley's campaign.
-
-4. **Political Climate**: The article mentions that national forecasters view Colorado's general election as a safe Democratic seat, which may discourage Republican candidates or affect their strategies, including Baisley’s.
-
-In summary, while the article does not provide direct information about Mark Baisley, understanding the competitive Republican landscape, historical context, and the political climate in Colorado will be crucial in predicting
-
-Title: Colorado gubernatorial and lieutenant gubernatorial election, 2026
-URL: https://ballotpedia.org/Colorado_gubernatorial_and_lieutenant_gubernatorial_election,_2026
-Summary: The webpage provides an overview of the upcoming Colorado gubernatorial and lieutenant gubernatorial elections in 2026, but it does not directly address the question of whether Mark Baisley will be the Republican nominee for Senate in Colorado. To predict his candidacy, consider the following relevant factors:
-
-1. **Political Background**: Mark Baisley has previously served as a state representative and has been active in Colorado politics. His experience and recognition within the Republican Party could influence his chances of securing the nomination.
-
-2. **Current Political Climate**: The dynamics within the Colorado Republican Party, including support for Baisley among party members and any potential challengers, will be crucial in determining his nomination prospects.
-
-3. **Election Trends**: Analyzing past election results in Colorado, particularly for Republican candidates, can provide insights into the viability of Baisley as a nominee.
-
-4. **Public Support and Fundraising**: Baisley’s ability to garner public support and raise funds will be significant indicators of his candidacy strength.
-
-5. **Potential Opponents**: Identifying other potential candidates for the Republican nomination could also impact Baisley’s chances, as competition within the party may affect his campaign strategy.
-
-For more detailed information on the Colorado elections and candidates, including updates on Baisley’s status, you may want to follow local news sources and political analysis platforms.
+Title: 2026 Senate Preview - by Stu Burguiere - Predictable
+Author: Stu Burguiere
+Published Date: 2026-02-10T00:00:00.000Z
+URL: https://predictable.substack.com/p/2026-senate-preview
+Summary: The article provides a broad overview of the political landscape heading into the 2026 Senate elections, emphasizing the historical tendency for the party in the White House to lose seats during midterms. It highlights that Senate races are influenced by specific state-level factors and the quality of individual candidates, rather than national trends alone. Since the article notes that candidate information is not yet available and emphasizes the importance of candidate quality, it suggests that predicting nominees—such as whether Mark Baisley will be the Republican candidate in Colorado—is premature at this stage. The outcome will depend on future candidate developments, primary dynamics, and the overall political environment closer to the election.
 
 

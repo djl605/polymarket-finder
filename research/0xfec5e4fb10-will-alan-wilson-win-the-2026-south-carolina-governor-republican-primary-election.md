@@ -1,7 +1,7 @@
 # Research: Will Alan Wilson win the 2026 South Carolina Governor Republican primary election?
 
 **Market ID:** 0xfec5e4fb10dd82bc4fb945dfed9c126a244f1bc3311a6a28c7a1515580ebc190
-**Researched At:** March 3, 2026 at 04:22:22 AM UTC
+**Researched At:** March 11, 2026 at 04:19:21 AM UTC
 **Search Query:** "Provide information that could be relevant to predicting the following question: Will Alan Wilson win the 2026 South Carolina Governor Republican primary election?"
 
 ---
@@ -9,47 +9,44 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Recent independent polls place Wilson between 12–20% support in a fragmented field with large undecided shares, aligning well with a ~15% win probability. No clear new information suggests a material mispricing.
+Current polls (19–23%) in a fragmented GOP field imply Wilson’s win probability around mid-20s percent, matching the market’s 25.5% and showing no clear >5 c mispricing. Low volume suggests limited engagement but no obvious overlooked catalyst.
 
 ### Full Analysis
 
 1. CONTEXT ANALYSIS  
-The market asks: “Will Alan Wilson win the 2026 SC Republican governor’s primary on June 9, 2026 (including any run-off)?” YES resolves if Wilson finishes first outright or wins a run-off; NO if any other candidate wins or no primary occurs.
+The market asks: “Will Alan Wilson win the 2026 SC GOP gubernatorial primary (including any runoff)?” YES means he either (a) wins outright plurality >50% (unlikely in a fragmented field) or (b) finishes in the top two on June 9 and then wins the runoff. NO means he fails to do either.
 
 2. EVIDENCE EVALUATION  
-Bullish for Wilson  
- • FITSNews campaign-commissioned poll (2/9) gives Wilson 23% and a 6-point lead over his nearest rival.  
- • Trafalgar Group (1/2026) puts him at ~20.1%, nearly tied for lead.  
-Bearish/Neutral  
- • SC Policy Council poll (2/early Feb) shows him at 12%, trailing Nancy Mace (18%) and tied with Evette.  
- • Across polls, undecided share is 30–43%, meaning vote consolidations could swing against him.  
- • His campaign poll may overstate his standing; independent polls show him in the second-tier pack.  
-Source credibility and recency  
- • All polls are from February 2026—very recent.  
- • Campaign-commissioned data is biased; Trafalgar’s methods are debated but widely cited; SC Policy Council leans conservative but is independent of Wilson’s campaign.
+Bullish evidence  
+• FITSNews campaign poll (2026-02-09): Wilson leads with 23% among likely GOP primary voters in a fragmented field, six points ahead of Nancy Mace. His favorable/unfavorable is +28 pts.  
+• Other outlets note Wilson “frontrunner” status and strong debate commitments; recent Upstate business leader endorsements bolster fundraising infrastructure.  
+
+Bearish evidence  
+• The State’s Mar 1 survey puts Wilson second at 19%, trailing Mace at 23%; many voters remain undecided, and no one is near a majority.  
+• Fundraising leader Pamela Evette outraised Wilson 962k vs. 500k+, giving her potential greater reach.  
+• Polls conflict (19% vs. 23%), suggesting significant uncertainty; none project a clear path to >50%, implying a runoff is almost certain—where Wilson faces fresh head-to-head dynamics.  
+
+Source credibility: polls are recent but one is campaign-commissioned (possible bias). Media reports are credible and dated March 2026. No glaring data missing that would dramatically shift his odds.
 
 3. MARKET EFFICIENCY ANALYSIS  
- • A candidate polling at ~12–20% in a fragmented field plausibly has 10–20% win probability.  
- • Low volume could reflect that traders see no big edge or simply little interest yet.  
- • The tight bid-ask (15.0¢–20.0¢) suggests at least one informed trader set the price, but the volume ($1.6K) is too low to confirm broad consensus.
+• At ~23% poll share, a ~25.5% win probability is plausible (corresponds roughly to vote share in plurality).  
+• Low volume may reflect a lightly followed market rather than a consensus inefficiency. Spread is tight, so even small trades would move price; no evidence of sustained arbitrage by informed traders.  
 
 4. MISPRICING ASSESSMENT  
- • No poll or event strongly contradicts a ~15% win chance.  
- • Wilson isn’t the clear front-runner, and undecideds leave a wide range.  
- • Given run-off mechanics and vote fragmentation, 15.5% is a defensible estimate.  
- • No credible missing factor (e.g., a major endorsement, scandal, or withdrawal) is absent from the market.
+• The price slightly exceeds his lower-end polling (19%) but is below an upper‐bound estimate (mid-20s)% chance given structural runoff risk.  
+• No evidence of a >20 c mispricing exists; missing factors (e.g., other candidates dropping, new endorser) appear already priced in by the 2–6 pt poll range.  
 
 5. EXPECTED VALUE CALCULATION  
- • Strength of evidence: 60% (polls are strong but offer mixed signals).  
- • Magnitude of mispricing: ~5¢ (if price were off, it’s small).  
- • Expected value: 60% × 5¢ = 3.0¢
+• Strength of evidence: 50% (polls credible but mixed)  
+• Magnitude of mispricing: 5 c (25.5% vs. midpoint 20%)  
+• Expected value = 0.50 × 5 c = 2.5 c  
 
-EXPECTED_VALUE: 3.0  
-SUMMARY: Recent independent polls place Wilson between 12–20% support in a fragmented field with large undecided shares, aligning well with a ~15% win probability. No clear new information suggests a material mispricing.  
+EXPECTED_VALUE: 2.5  
+SUMMARY: Current polls (19–23%) in a fragmented GOP field imply Wilson’s win probability around mid-20s percent, matching the market’s 25.5% and showing no clear >5 c mispricing. Low volume suggests limited engagement but no obvious overlooked catalyst.  
 CONFIDENCE: medium
 
 ---
@@ -62,34 +59,30 @@ Title: New Poll Shows Alan Wilson Leading 'Fragmented' S.C. Governor's Race - FI
 Author: Will Folks
 Published Date: 2026-02-09T00:00:00.000Z
 URL: https://www.fitsnews.com/2026/02/09/new-poll-shows-alan-wilson-leading-fragmented-s-c-governors-race/
-Summary: A recent campaign-commissioned poll indicates that South Carolina Attorney General Alan Wilson currently leads the Republican primary race for governor in 2026, with 23% support among likely voters. He holds a six-point lead over U.S. Congresswoman Nancy Mace, who has 17%. Wilson is viewed favorably by 47% of primary voters, with only 19% viewing him unfavorably, and he maintains the strongest overall image among declared candidates. Although the race is fragmented with multiple candidates—including Lieutenant Governor Pamela Evette (16%) and Congressman Ralph Norman (12%)—Wilson's current polling position suggests he is in the strongest position to secure the nomination. However, support is still fluid, with 30% of voters undecided, and the poll is from Wilson’s campaign, which may influence perceptions. Overall, Wilson appears well-positioned to potentially win the primary, but the race remains competitive and subject to change.
+Summary: A recent campaign-based poll indicates that South Carolina Attorney General Alan Wilson currently leads the Republican primary race for governor in 2026, with 23% support among likely voters. He is six points ahead of U.S. Congresswoman Nancy Mace, who has 17%, and is also favored over Lieutenant Governor Pamela Evette (16%) and Congressman Ralph Norman (12%). Wilson's favorable rating is 47%, with only 19% unfavorable, suggesting strong overall support and room for growth. Despite the poll's origin from Wilson's campaign, its findings align with other recent surveys showing him as the frontrunner in a fragmented Republican field. His current lead and favorable public image suggest he is in a strong position to win the primary, though the race remains competitive with significant undecided voters.
 
-Title: Evette, Wilson, and Mace Locked in Tight Three-Way Race for SC Governor – WRHI
-Author: Tom Hyslip
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.wrhi.com/2026/02/evette-wilson-and-mace-locked-in-tight-three-way-race-for-sc-governor-209793
-Summary: Based on recent polling data, Alan Wilson currently trails in the Republican primary race for South Carolina governor. The Trafalgar Group's January survey shows Wilson at approximately 20.1%, closely behind leader Pamela Evette at 21.9%, with Nancy Mace at 17.3%. Conversely, the South Carolina Policy Council's February poll places Wilson tied for second at 12%, with Mace leading at 18%. The significant percentage of undecided voters—up to 43% in some polls—indicates the race remains highly volatile. The upcoming debates in March, April, and May will be critical opportunities for Wilson to improve his standing. Given the current split support and the large undecided electorate, Wilson's chances of winning the primary are uncertain and will depend heavily on his performance in debates and campaign efforts leading up to the June 9 primary.
-
-Title: Mace, Evette and Wilson battle for top spots in recent South Carolina polls
-Author: Nick Reagan
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.live5news.com/2026/02/06/mace-evette-wilson-battle-top-spots-recent-south-carolina-polls/?outputType=apps
-Summary: Recent South Carolina polling indicates a competitive Republican primary for governor. According to the South Carolina Policy Council's January poll, Rep. Nancy Mace currently leads with 18% support, followed by Alan Wilson and Lt. Gov. Pamela Evette at 12% each, and Ralph Norman at 11%. A significant 43% remain undecided, suggesting the race is still fluid. 
-
-In contrast, the Trafalgar Group's January poll shows Evette slightly ahead at 21.9%, with Wilson at 20.1%, and Mace at 17.3%, indicating a close contest among these frontrunners. Support for Wilson has fluctuated modestly over recent months, with some polls showing him in second place or tied with Evette.
-
-Given the current data, Alan Wilson has a strong but not definitive position in the primary. The high percentage of undecided voters and shifting poll numbers suggest that while he is a leading contender, his ultimate success will depend on campaign dynamics, voter turnout, and how the undecided voters break.
-
-Title: Crossroads 2026: New Poll Shows Nancy Mace Back in the Lead - FITSNews
-Author: Will Folks
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.fitsnews.com/2026/02/04/crossroads-2026-new-poll-shows-nancy-mace-back-in-the-lead/
-Summary: The article discusses South Carolina's 2026 gubernatorial race, highlighting recent polling data. A new winter poll by the conservative-leaning South Carolina Policy Council shows Congresswoman Nancy Mace leading the Republican field, including potential candidates like Alan Wilson. While Wilson has been a prominent contender, recent surveys indicate Mace's strong position, with her leading the race by six percent in this poll. Given the multiple candidates and fluctuating poll standings, Mace currently appears to be a frontrunner, but the race remains competitive. Wilson's chances will depend on how the primary dynamics evolve, but the latest data suggests Mace has a significant advantage at this stage.
-
-Title: New poll shows how GOP, Democratic primary fields are shaping up in governor race
+Title: See who leads campaign fundraising in race for SC governor
 Author: 
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://spectrumlocalnews.com/sc/south-carolina/politics/2026/02/05/south-carolina-politics-2026-governor-race-poll-primary-field?cid=share_twitter
-Summary: A recent statewide poll indicates that the Republican primary for South Carolina governor is highly competitive and still largely undecided. Rep. Nancy Mace currently leads among Republican voters with 18% support, followed by Attorney General Alan Wilson and Lt. Gov. Pamela Evette, each with 12%. Other candidates like Rep. Ralph Norman and State Sen. Josh Kimbrell have lower support, and a significant 43% of Republican voters remain undecided. Given the dynamic and fluid nature of the race, with support levels shifting and many voters still undecided, it is uncertain whether Alan Wilson will secure the nomination. The primary is scheduled for June 9, with multiple debates planned to shape the race further.
+Published Date: 2026-03-03T00:00:00.000Z
+URL: http://eu.greenvilleonline.com/story/news/politics/2026/03/03/campaign-fundraising-sc-governor-race/88548108007/
+Summary: In the 2025-2026 South Carolina governor's race, Lt. Gov. Pamela Evette leads in fundraising, having raised approximately $962,000 in the last quarter, with strong support from South Carolina residents and the Republican Party. U.S. Rep. Nancy Mace also raised over $570,000, primarily from small, individual donations across the country, indicating grassroots support. Attorney General Alan Wilson and U.S. Rep. Ralph Norman each raised over $500,000, with Wilson receiving significant contributions from corporations, PACs, and maximum individual donations, suggesting substantial financial backing. While Wilson's fundraising is competitive, Evette's recent lead and broad support base could influence primary outcomes. However, the race remains dynamic, and fundraising alone may not determine the primary winner.
+
+Title: South Carolina Governor’s Race Takes Shape Ahead of 2026 Elections - My TJ Now
+Author: Dakota Gold
+Published Date: 2026-03-01T00:00:00.000Z
+URL: https://mytjnow.com/2026/03/01/south-carolina-governors-race-takes-shape-ahead-of-2026-elections/
+Summary: The upcoming 2026 South Carolina Republican primary for governor features several candidates, with recent polls indicating varying levels of support. According to a new survey by The State, Alan Wilson, the state's attorney general, is currently in second place with 19% support, trailing behind Congresswoman Nancy Mace, who leads with 23%. Polls show conflicting results, with The New York Times suggesting Wilson may be in the lead, but overall voter support remains largely undecided, with a significant portion of voters unsure. Campaigns are actively shaping their platforms, with Wilson emphasizing making South Carolina more affordable and maintaining community safety, including plans to eliminate the state income tax. Given the current uncertainty and the competitive field, predicting Wilson's chances hinges on how voter support evolves as campaigns intensify and more debates and events occur leading up to the June 9 primary.
+
+Title: Wilson commits to SC GOP governor debates as others hesitate | The State
+Author: 
+Published Date: 2026-03-03T00:00:00.000Z
+URL: https://www.thestate.com/news/politics-government/article314897005.html?taid=69ad64f9155caf0001a25dc8
+Summary: Alan Wilson, South Carolina's Attorney General, has committed to participating in the upcoming GOP gubernatorial debates, unlike other candidates such as Lt. Gov. Pamela Evette, Nancy Mace, and Ralph Norman, who have expressed hesitations related to debate access and sponsorship costs. Wilson's active engagement in the debates and his campaign's emphasis on his readiness to face scrutiny suggest he is positioning himself as a serious contender. His willingness to participate in key debates and his campaign's proactive stance may enhance his visibility and electability in the 2026 Republican primary. However, the outcome will also depend on factors like campaign dynamics, voter preferences, and the strength of his opponents.
+
+Title: Upstate business leaders join Wilson campaign for governor
+Author: FOX Carolina News Staff
+Published Date: 2026-03-06T00:00:00.000Z
+URL: https://www.foxcarolina.com/2026/03/06/upstate-business-leaders-join-wilson-campaign-governor/
+Summary: The article announces the appointment of key state finance co-chairs for Alan Wilson’s 2026 gubernatorial campaign, highlighting strong support from Upstate business leaders across South Carolina. These co-chairs will focus on fundraising, engaging conservative networks, and strengthening the campaign’s financial infrastructure. Wilson is portrayed as a proven conservative leader committed to defending state values and economic growth. While the support from prominent business figures suggests a solid foundation, the article does not provide specific polling data or campaign momentum indicators that would definitively predict Wilson’s chances in the upcoming Republican primary.
 
 
