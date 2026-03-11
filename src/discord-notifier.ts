@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import { AIAnalysis, EnrichedMarket, ScreenedMarket } from './types';
+import { CostBreakdown } from './ai-researcher';
 import { ResearchFileManager } from './research-file-manager';
 import * as fs from 'fs';
 
@@ -106,7 +107,8 @@ export class DiscordNotifier {
     newAnalyses: number,
     cachedAnalyses: number,
     skippedCooldown: number,
-    runtimeSeconds: number
+    runtimeSeconds: number,
+    costBreakdown?: CostBreakdown
   ): Promise<void> {
     try {
       // Format runtime nicely
@@ -144,6 +146,17 @@ export class DiscordNotifier {
           name: '⏸️ Skipped (Cooldown)',
           value: skippedCooldown.toString(),
           inline: true,
+        });
+      }
+
+      if (costBreakdown && costBreakdown.total > 0) {
+        const { usage } = costBreakdown;
+        const nonCached = usage.inputTokens - usage.cachedInputTokens;
+        const tokensK = (n: number) => n >= 1000 ? `${(n / 1000).toFixed(1)}k` : `${n}`;
+        fields.push({
+          name: '💵 Est. API Cost',
+          value: `~$${costBreakdown.total.toFixed(2)} (${tokensK(nonCached)} in · ${tokensK(usage.cachedInputTokens)} cached · ${tokensK(usage.outputTokens)} out · ${usage.webSearchCalls} searches)`,
+          inline: false,
         });
       }
 

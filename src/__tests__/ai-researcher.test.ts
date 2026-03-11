@@ -14,22 +14,45 @@ const createMockOpenAIClient = (mockCreate: jest.Mock) => {
   } as unknown as OpenAI;
 };
 
-// Helper to build a mock response with optional SOURCES block
-const buildMockResponse = (
+// Build a mock Responses API response object
+const buildMockApiResponse = (
   ev: string,
   summary: string,
   confidence: string,
-  sources?: Array<{ title: string; url: string; author?: string; date?: string; summary: string }>
-): string => {
-  let response = `Analysis...\nEXPECTED_VALUE: ${ev}\nSUMMARY: ${summary}\nCONFIDENCE: ${confidence}`;
+  sources?: Array<{ title: string; url: string; author?: string; date?: string; summary: string }>,
+  webSearchCalls: number = 1
+) => {
+  let text = `Analysis...\nEXPECTED_VALUE: ${ev}\nSUMMARY: ${summary}\nCONFIDENCE: ${confidence}`;
   if (sources && sources.length > 0) {
-    response += '\n\nSOURCES:';
+    text += '\n\nSOURCES:';
     for (const s of sources) {
-      response += `\n---\nTitle: ${s.title}\nURL: ${s.url}\nAuthor: ${s.author || 'Unknown'}\nDate: ${s.date || 'Unknown'}\nSummary: ${s.summary}\n---`;
+      text += `\n---\nTitle: ${s.title}\nURL: ${s.url}\nAuthor: ${s.author || 'Unknown'}\nDate: ${s.date || 'Unknown'}\nSummary: ${s.summary}\n---`;
     }
   }
-  return response;
+
+  const output: Array<{ type: string; status?: string }> = [];
+  for (let i = 0; i < webSearchCalls; i++) {
+    output.push({ type: 'web_search_call', status: 'completed' });
+  }
+  output.push({ type: 'message' });
+
+  return {
+    output_text: text,
+    output,
+    usage: {
+      input_tokens: 500,
+      input_tokens_details: { cached_tokens: 100 },
+      output_tokens: 1000,
+    },
+  };
 };
+
+// Wrap raw text into a mock API response shape
+const wrapTextResponse = (text: string) => ({
+  output_text: text,
+  output: [{ type: 'web_search_call', status: 'completed' }, { type: 'message' }],
+  usage: { input_tokens: 500, input_tokens_details: { cached_tokens: 100 }, output_tokens: 1000 },
+});
 
 describe('AIResearcher', () => {
   const mockOpenAIKey = 'sk-test-key';
@@ -76,11 +99,11 @@ describe('AIResearcher', () => {
     it('should perform full analysis with web search', async () => {
       const market = createMockScreenedMarket();
 
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: buildMockResponse('2.0', 'Market appears fairly priced based on weather forecasts.', 'high', [
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('2.0', 'Market appears fairly priced based on weather forecasts.', 'high', [
           { title: 'Weather forecast', url: 'https://example.com', summary: 'Rain expected tomorrow' },
         ]),
-      });
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -121,9 +144,9 @@ describe('AIResearcher', () => {
 
   describe('parseAIResponse', () => {
     it('should parse expected value and confidence from response', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: buildMockResponse('12.5', 'Strong evidence of mispricing.', 'high'),
-      });
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('12.5', 'Strong evidence of mispricing.', 'high'),
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -136,9 +159,9 @@ describe('AIResearcher', () => {
     });
 
     it('should default to 0 EV and medium confidence when missing', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: 'Some analysis without clear EV or confidence',
-      });
+      const mockCreate = jest.fn().mockResolvedValue(
+        wrapTextResponse('Some analysis without clear EV or confidence'),
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -151,9 +174,9 @@ describe('AIResearcher', () => {
     });
 
     it('should convert NaN expected value to 0', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: buildMockResponse('invalid_text', 'Some analysis.', 'high'),
-      });
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('invalid_text', 'Some analysis.', 'high'),
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -165,13 +188,13 @@ describe('AIResearcher', () => {
     });
 
     it('should parse old cached responses with RECOMMENDATION field (backward compatibility)', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: `Analysis...
+      const mockCreate = jest.fn().mockResolvedValue(
+        wrapTextResponse(`Analysis...
 EXPECTED_VALUE: 8.5
 SUMMARY: Market shows some potential.
 RECOMMENDATION: research
-CONFIDENCE: medium`,
-      });
+CONFIDENCE: medium`),
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -187,8 +210,8 @@ CONFIDENCE: medium`,
 
   describe('source parsing', () => {
     it('should parse sources from SOURCES block', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: buildMockResponse('5.0', 'Test summary.', 'medium', [
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('5.0', 'Test summary.', 'medium', [
           {
             title: 'Article 1',
             url: 'https://example.com/1',
@@ -202,7 +225,7 @@ CONFIDENCE: medium`,
             summary: 'More content',
           },
         ]),
-      });
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -216,11 +239,11 @@ CONFIDENCE: medium`,
     });
 
     it('should strip SOURCES block from fullAnalysis', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: buildMockResponse('5.0', 'Test summary.', 'medium', [
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('5.0', 'Test summary.', 'medium', [
           { title: 'Source', url: 'https://example.com', summary: 'Info' },
         ]),
-      });
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -234,9 +257,9 @@ CONFIDENCE: medium`,
     });
 
     it('should handle response with no SOURCES block', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: buildMockResponse('0', 'Test.', 'low'),
-      });
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('0', 'Test.', 'low', undefined, 0),
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -251,8 +274,8 @@ CONFIDENCE: medium`,
     });
 
     it('should skip malformed source entries without URLs', async () => {
-      const mockCreate = jest.fn().mockResolvedValue({
-        output_text: `Analysis...
+      const mockCreate = jest.fn().mockResolvedValue(
+        wrapTextResponse(`Analysis...
 EXPECTED_VALUE: 3.0
 SUMMARY: Test.
 CONFIDENCE: low
@@ -269,8 +292,8 @@ Summary: Good content
 Title: Bad Source Without URL
 Author: Someone
 Summary: This should be skipped
----`,
-      });
+---`),
+      );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
       const researcher = new AIResearcher(mockOpenAIKey);
@@ -281,6 +304,53 @@ Summary: This should be skipped
 
       // Should only find 1 valid source (the one with URL)
       expect(logBuffer.some(log => log.includes('1 sources'))).toBe(true);
+    });
+  });
+
+  describe('cost tracking', () => {
+    it('should accumulate usage and calculate estimated cost', async () => {
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('5.0', 'Test.', 'medium', undefined, 2),
+      );
+      MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
+
+      const researcher = new AIResearcher(mockOpenAIKey);
+      const market = createMockScreenedMarket();
+
+      await researcher.analyzeMarket(market);
+
+      const usage = researcher.getTotalUsage();
+      expect(usage.inputTokens).toBe(500);
+      expect(usage.cachedInputTokens).toBe(100);
+      expect(usage.outputTokens).toBe(1000);
+      expect(usage.webSearchCalls).toBe(2);
+
+      const cost = researcher.getCostBreakdown().total;
+      // (400 non-cached * $2/M) + (100 cached * $0.50/M) + (1000 output * $8/M) + (2 searches * $0.01)
+      const expected =
+        400 * (2.00 / 1_000_000) +
+        100 * (0.50 / 1_000_000) +
+        1000 * (8.00 / 1_000_000) +
+        2 * (10.00 / 1_000);
+      expect(cost).toBeCloseTo(expected, 6);
+    });
+
+    it('should accumulate usage across multiple calls', async () => {
+      const mockCreate = jest.fn().mockResolvedValue(
+        buildMockApiResponse('3.0', 'Test.', 'low'),
+      );
+      MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
+
+      const researcher = new AIResearcher(mockOpenAIKey);
+      const market = createMockScreenedMarket();
+
+      await researcher.analyzeMarket(market);
+      await researcher.analyzeMarket(market);
+
+      const usage = researcher.getTotalUsage();
+      expect(usage.inputTokens).toBe(1000);
+      expect(usage.outputTokens).toBe(2000);
+      expect(usage.webSearchCalls).toBe(2);
     });
   });
 });

@@ -11,6 +11,26 @@ interface ParsedSource {
   summary: string;
 }
 
+export interface AccumulatedUsage {
+  inputTokens: number;
+  cachedInputTokens: number;
+  outputTokens: number;
+  webSearchCalls: number;
+}
+
+export interface CostBreakdown {
+  total: number;
+  usage: AccumulatedUsage;
+}
+
+// gpt-4.1 pricing — must be updated if model in callResearchModel() changes
+const PRICING = {
+  inputPerToken: 2.00 / 1_000_000,
+  cachedInputPerToken: 0.50 / 1_000_000,
+  outputPerToken: 8.00 / 1_000_000,
+  webSearchPerCall: 10.00 / 1_000,
+};
+
 /**
  * Uses OpenAI gpt-4.1 with web_search for research + reasoning in a single call
  */
@@ -20,6 +40,7 @@ export class AIResearcher {
   private readonly minDelayMs = 100;
   private readonly verboseLogs: boolean;
   private readonly openaiClient: OpenAI;
+  private usage: AccumulatedUsage = { inputTokens: 0, cachedInputTokens: 0, outputTokens: 0, webSearchCalls: 0 };
 
   constructor(
     openaiApiKey: string,
@@ -30,6 +51,30 @@ export class AIResearcher {
     this.maxConcurrentCalls = maxConcurrentCalls;
     this.verboseLogs = verboseLogs;
     this.openaiClient = new OpenAI({ apiKey: openaiApiKey });
+  }
+
+  /**
+   * Get accumulated usage across all API calls
+   */
+  getTotalUsage(): AccumulatedUsage {
+    return { ...this.usage };
+  }
+
+  /**
+   * Get cost breakdown by category (lower bound — web search sub-calls may not be fully counted)
+   */
+  getCostBreakdown(): CostBreakdown {
+    const nonCachedInput = this.usage.inputTokens - this.usage.cachedInputTokens;
+    const total =
+      nonCachedInput * PRICING.inputPerToken +
+      this.usage.cachedInputTokens * PRICING.cachedInputPerToken +
+      this.usage.outputTokens * PRICING.outputPerToken +
+      this.usage.webSearchCalls * PRICING.webSearchPerCall;
+
+    return {
+      total,
+      usage: { ...this.usage },
+    };
   }
 
   /**
@@ -169,6 +214,15 @@ export class AIResearcher {
         ],
         input: prompt,
       });
+
+      // Accumulate usage
+      if (response.usage) {
+        this.usage.inputTokens += response.usage.input_tokens;
+        this.usage.cachedInputTokens += response.usage.input_tokens_details?.cached_tokens ?? 0;
+        this.usage.outputTokens += response.usage.output_tokens;
+        this.usage.webSearchCalls += response.output
+          .filter(item => item.type === 'web_search_call').length;
+      }
 
       const text = response.output_text;
 

@@ -245,7 +245,8 @@ export async function main() {
 
     // Send summary
     const totalRuntime = (Date.now() - mainStartTime) / 1000;
-    await notifier.sendSummary(totalFetched, totalScreened, newAnalysesCount, cachedAnalysesCount, skippedCount, totalRuntime);
+    const costBreakdown = aiResearcher.getCostBreakdown();
+    await notifier.sendSummary(totalFetched, totalScreened, newAnalysesCount, cachedAnalysesCount, skippedCount, totalRuntime, costBreakdown);
 
     // Print stats
     const stats = stateManager.getStats();
