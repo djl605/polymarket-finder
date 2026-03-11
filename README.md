@@ -12,7 +12,7 @@ The bot finds markets that are:
 
 For each candidate, it:
 1. **Researches** using OpenAI web search (searches news, forums, expert analyses)
-2. **Analyzes** using OpenAI gpt-5.4 (assesses mispricing likelihood)
+2. **Analyzes** using OpenAI gpt-4.1 (assesses mispricing likelihood)
 3. **Alerts** via Discord if worth investigating
 
 ## Quick Setup
@@ -128,7 +128,7 @@ The analysis results will be displayed in the GitHub Actions logs.
 
 This feature:
 - ✅ Fetches the specified market from Polymarket
-- ✅ Runs AI research and reasoning using OpenAI gpt-5.4 with web search
+- ✅ Runs AI research and reasoning using OpenAI gpt-4.1 with web search
 - ✅ Logs the complete analysis to the console
 - ✅ Handles both binary markets (Yes/No) and multi-outcome markets
 - ❌ Does NOT check pre-screening criteria
@@ -152,7 +152,7 @@ npm run test:watch       # Watch mode
 1. **Fetch** - Gets all active markets from Polymarket Gamma API
 2. **Screen** - Filters by age, volume, probability, and spread
 3. **Research** - For each candidate:
-   - OpenAI gpt-5.4 with web search researches recent discussions/news
+   - OpenAI gpt-4.1 with web search researches recent discussions/news
    - Research content is saved to markdown files for later review
    - The same model analyzes expected value (probability × magnitude of mispricing)
 4. **Alert** - Sends Discord notifications for opportunities worth investigating

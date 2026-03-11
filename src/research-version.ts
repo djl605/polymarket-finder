@@ -14,6 +14,7 @@
  * - 1.3: Updated prompt to suggest not assume consensus from a few sources and to consider the timeline of the market.
  * - 1.3.1: Updated SDK call to set summary=true to get summaries again.
  * - 1.3.2: Updated Exa SDK version
- * - 2.0: Replaced Exa with OpenAI Responses API (gpt-5.4 + web_search, search_context_size: high). Single-call research + reasoning. Full URLs and detailed relevance summaries in source citations.
+ * - 2.0: Replaced Exa with OpenAI Responses API (gpt-5.4 + web_search). Single-call research + reasoning. Upgraded OpenAI SDK to v6.
+ * - 2.1: Switched from gpt-5.4 to gpt-4.1 for better cost/quality balance.
  */
-export const RESEARCH_VERSION = '2.0';
+export const RESEARCH_VERSION = '2.1';
