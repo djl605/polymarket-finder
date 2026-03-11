@@ -16,5 +16,6 @@
  * - 1.3.2: Updated Exa SDK version
  * - 2.0: Replaced Exa with OpenAI Responses API (gpt-5.4 + web_search). Single-call research + reasoning. Upgraded OpenAI SDK to v6.
  * - 2.1: Switched from gpt-5.4 to gpt-4.1 for better cost/quality balance.
+ * - 2.2: Restructured prompt to put static instructions first and dynamic market data last, maximizing OpenAI input prefix caching.
  */
-export const RESEARCH_VERSION = '2.1';
+export const RESEARCH_VERSION = '2.2';
