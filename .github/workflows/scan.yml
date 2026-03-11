@@ -2,8 +2,8 @@ name: Polymarket Scanner
 
 on:
   schedule:
-    # Run twice a day at 2am and 2pm UTC
-    - cron: '0 2,14 * * *'
+    # Run once a day at 2am UTC
+    - cron: '0 2 * * *'
   # Allow manual triggering
   workflow_dispatch:
 
@@ -55,7 +55,7 @@ jobs:
           CACHE_MIN_AGE_DAYS: ${{ vars.CACHE_MIN_AGE_DAYS || '4' }}
           CACHE_MAX_AGE_DAYS: ${{ vars.CACHE_MAX_AGE_DAYS || '10' }}
           ALERT_COOLDOWN_DAYS: ${{ vars.ALERT_COOLDOWN_DAYS || '7' }}
-          MAX_ALERTS_PER_RUN: ${{ vars.MAX_ALERTS_PER_RUN || '5' }}
+          MAX_ALERTS_PER_RUN: ${{ vars.MAX_ALERTS_PER_RUN || '10' }}
           VERBOSE_LOGS: ${{ vars.VERBOSE_LOGS || 'false' }}
           MAX_CONCURRENT_ANALYSES: ${{ vars.MAX_CONCURRENT_ANALYSES || '3' }}
         run: npm start
