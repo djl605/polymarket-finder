@@ -1,104 +1,154 @@
 # Research: Will Chris Dudley win the 2026 Oregon Governor Republican primary election?
 
 **Market ID:** 0xf3f0da9f5bd2225c4c85ef609f8ca12e4fb78da3d3b1f368518b0b380ce1d0cd
-**Researched At:** March 1, 2026 at 06:05:03 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
+**Researched At:** March 11, 2026 at 04:56:58 AM UTC
+**Search Query:** "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.0¢
+**Confidence:** Medium
+**Expected Value:** 1.2¢
 
 ### Summary
 
-Current research offers no hard polling or opponent context to overturn the 24% price; given his mixed past performance and early stage of the race, the market price appears reasonable.
+Chris Dudley is a filed, active candidate with real name recognition and some fundraising support, so 18% is not obviously too high or too low. The strongest current evidence still points to Christine Drazan as the better-established Republican contender, and there is no strong polling or finance evidence showing Dudley is being materially underrated.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Chris Dudley will win the May 19, 2026 Oregon Republican primary for governor. It resolves YES if Dudley emerges as the overall winner (including any run-off), and NO if any other candidate wins or if no Republican primary occurs.
+1. **Context analysis**
 
-2. EVIDENCE EVALUATION  
-Bullish for Dudley (raise probability):  
-• Name recognition from 2010 run and NBA career.  
-• Recent announcements (Feb 2026) show active campaign launch, messaging on “train wreck” Oregon.  
-Bearish for Dudley (lower probability):  
-• He lost the 2010 GOP primary and general election by a wide margin—no sign he’s significantly improved his standing.  
-• No public polling or strong endorsements cited in research.  
-• No mention of weak or unestablished field—could face better-funded or more popular challengers.  
-Credibility & recency: All sources are local news in Feb 2026, credible for campaign launch and themes but lacking hard polling or opponent analysis.  
+This market asks a straightforward question: whether **Chris Dudley will be the official winner of the Oregon Republican primary for governor on May 19, 2026**. “YES” requires Dudley to finish first in that Republican primary under Oregon’s rules; “NO” means anyone else wins. The market description mentions “any potential second round or run-off,” but Oregon’s gubernatorial primary is ordinarily a single primary election, and official 2026 Oregon election calendars and county candidate lists show a standard May 19, 2026 primary, not a separate gubernatorial runoff structure. ([data.oregon.gov](https://data.oregon.gov/api/views/i8qc-cakg/rows.pdf?app_token=U29jcmF0YS0td2VraWNrYXNz0))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 24% price implies a modest chance in what is likely a multi-candidate field; this is broadly plausible absent polling.  
-• Low volume could simply reflect the early stage and low public data rather than a gross mispricing.  
-• Informed traders may be waiting for polls or fundraising reports before updating positions, leaving the market anchored near a default “name-recognition” estimate.
+As of March 11, 2026, the key practical question is not whether Dudley is running — he is — but whether he can overtake better-established Republican rivals, especially **Christine Drazan**, who is widely described in recent reporting as one of the toughest opponents or the frontrunner in the GOP field. ([opb.org](https://www.opb.org/article/2026/01/26/chris-dudley-enters-oregon-governors-race//))
 
-4. MISPRICING ASSESSMENT  
-• No specific evidence (e.g. recent poll, endorsement or fundraising surge) indicates his win probability is materially higher or lower than ~24%.  
-• Given the uncertainty and lack of hard data, 24% is a reasonable midpoint.  
-• No credible signal suggests a >20¢ mispricing.  
+2. **Evidence evaluation**
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~20% (scant data)  
-Magnitude of potential mispricing: ~0¢ (unlikely to move materially without new info)  
-Expected value ≈ 20% × 0¢ = 0¢  
+**Evidence that 18% may be too low:**
 
-EXPECTED_VALUE: 0.0  
-SUMMARY: Current research offers no hard polling or opponent context to overturn the 24% price; given his mixed past performance and early stage of the race, the market price appears reasonable.  
-CONFIDENCE: low
+- Dudley is a real, filed candidate, not a rumor or late maybe. County candidate lists updated through March 10, 2026 include him on the Republican gubernatorial ballot alongside Danielle Bethell, Christine Drazan, Ed Diehl, and Kyle Duyck. That removes a major source of uncertainty that may have existed when the market was created. ([co.lincoln.or.us](https://www.co.lincoln.or.us/DocumentCenter/View/7032/List-of-Candidates-and-Measures-for-the-May-19-2026-Primary-Election))
+- He has meaningful name recognition from both his NBA career and his 2010 gubernatorial run, where recent reporting notes he came very close to winning statewide. That does not directly prove primary strength in 2026, but it gives him a higher baseline than a generic minor candidate. ([notus.org](https://www.notus.org/us-news/chris-dudley-former-nba-portland-trail-blazers-star-oregon-governor-campaign))
+- Dudley has shown at least some fundraising viability. OPB reported a $25,000 donation from Kevin Love, and the Oregon Secretary of State transaction record confirms that contribution on February 26, 2026. In a low-information primary, visible fundraising and earned media can matter. ([opb.org](https://www.opb.org/article/2026/02/26/nba-kevin-love-donates-chris-dudley-republican-governor/))
+- Local coverage shows him actively campaigning in Eastern Oregon in early March, suggesting a functioning campaign rather than a purely celebrity placeholder candidacy. ([bakercityherald.com](https://bakercityherald.com/2026/03/03/republican-gubernatorial-candidate-chris-dudley-to-visit-baker-city-wednesday/))
+
+Taken together, that is enough to argue Dudley is more than a fringe entrant. If the market were pricing him like a near-nonentity, that would be wrong.
+
+**Evidence supporting 18% as reasonable or even generous:**
+
+- The strongest evidence points to **Drazan as the likely favorite**. OPB described her as likely one of Dudley’s toughest primary opponents, and another OPB report said Drazan was “so far considered a frontrunner.” Oregon Capital Chronicle’s January 31 event report further indicated that at an early Republican gathering, **Ed Diehl** won a straw poll and had more than twice the support of Dudley and Bethell each — meaning Dudley was not even clearly running second in that activist snapshot. ([opb.org](https://www.opb.org/article/2026/01/26/chris-dudley-enters-oregon-governors-race//))
+- Fundraising appears to favor Drazan heavily. The Nugget, summarizing February 2026 campaign finance, reported Drazan had **over $583,000** while Bethell had about **$15,000**; Dudley’s publicized finance signal so far is mainly the Kevin Love donation. Separately, the Oregon Secretary of State account summary for Friends of Christine Drazan showed **$771,188.54 in 2025 cash contributions**, with a large carry-forward structure into 2026 implied by the account summary. That is not a perfect apples-to-apples comparison as of March 11, but it strongly suggests Drazan entered 2026 with a much stronger financial base. ([nuggetnews.com](https://www.nuggetnews.com/story/2026/03/04/news/sisters-man-makes-second-run-for-governor/38781.html?utm_source=openai))
+- Dudley entered relatively late. He announced on January 26, 2026, only weeks before the March 10 filing deadline and less than four months before the May 19 primary. Late entry is not fatal for a celebrity candidate, but it reduces time to consolidate endorsements, build field organization, and dominate donor networks. ([notus.org](https://www.notus.org/us-news/chris-dudley-former-nba-portland-trail-blazers-star-oregon-governor-campaign))
+- The Republican field is crowded. Official county lists show at least five Republican gubernatorial candidates on the ballot. In a multi-candidate field, an outsider can win with a plurality — but crowding also means Dudley is competing not just against Drazan but against multiple claimants for anti-Drazan or outsider votes. ([co.lincoln.or.us](https://www.co.lincoln.or.us/DocumentCenter/View/7032/List-of-Candidates-and-Measures-for-the-May-19-2026-Primary-Election))
+- There is little evidence of Dudley leading in polls, endorsements, or institutional support. I found no strong primary-source polling showing him near first place. The absence of that kind of evidence is important because if Dudley were genuinely much more likely than 18%, we would expect at least some corroborating signs in press coverage, polling summaries, or campaign finance data. ([opb.org](https://www.opb.org/article/2026/01/26/chris-dudley-enters-oregon-governors-race//))
+
+**Source credibility and recency:**
+
+The most useful sources here are strong: Oregon Public Broadcasting, Oregon Secretary of State election and campaign-finance records, county candidate lists, and recent local reporting from March 2026. Those are timely and directly relevant. The weaker sources were either inaccessible, derivative, or not primary enough to carry much weight, so I did not rely on them for core claims. ([opb.org](https://www.opb.org/article/2026/01/26/chris-dudley-enters-oregon-governors-race//))
+
+3. **Market efficiency analysis**
+
+A reasonable interpretation of the **18.0%** price is: traders think Dudley is a legitimate but clearly secondary contender in a field led by Drazan, with maybe some chance to benefit from celebrity, outsider appeal, and vote-splitting. That interpretation fits the available evidence fairly well. ([opb.org](https://www.opb.org/article/2026/01/26/chris-dudley-enters-oregon-governors-race//))
+
+However, the market’s **$0 total volume** is a major warning sign. With no meaningful trading history, the displayed price may reflect little more than one quote-setter’s rough opinion rather than informed consensus. The tight spread is therefore not very reassuring; on a dead market, a narrow spread can exist without real information content. So the price may be **uninformative**, but that is not the same as demonstrably wrong.
+
+Low engagement here is more plausibly explained by neglect than by a fully efficient market. This is a niche state-primary submarket months before resolution, and the available public evidence is still thin. That setup often produces noisy prices. Still, noisy does not automatically mean mispriced.
+
+4. **Mispricing assessment**
+
+I do **not** see strong credible evidence of a major mispricing at 18%.
+
+Why not? Because the most important public signals point in the same direction:
+- Dudley is a real candidate with some name recognition and fundraising capacity.
+- But Drazan appears better established, better funded, and more widely treated by reporters as the frontrunner.
+- The field is crowded, which gives Dudley some path, but there is no concrete evidence yet that his path is better than “live underdog.”
+
+That combination is broadly consistent with something in the **low-to-mid teens or maybe around 20%**. In other words, 18% looks plausible. If forced to lean, I’d say the best public evidence suggests Dudley’s true chances are probably **not dramatically below 18% and not clearly above it either**. Perhaps the price is a touch low if one thinks celebrity plus name recognition are underappreciated, but the evidence for that is weak.
+
+**Critical check / most charitable case for the market price:**  
+The most charitable explanation is that informed traders are pricing Dudley as a candidate who:
+1. made the ballot,
+2. has residual statewide recognition,
+3. could exploit a split field,
+but
+4. still trails a better-funded prior nominee with existing party infrastructure.
+
+That is a coherent and defensible read of the race. Nothing I found clearly contradicts it.
+
+5. **Expected value calculation**
+
+- **Strength of evidence:** 30%  
+  The evidence is decent on candidate status, fundraising, and field structure, but weak on the most decisive variable: actual voter preference in the GOP primary.
+- **Magnitude of mispricing:** 4 cents  
+  If there is an error, it looks small — something like Dudley being worth 14% or 22%, not 40% or 2%.
+- **Expected value:** 0.30 × 4 = **1.2 cents**
+
+EXPECTED_VALUE: 1.2  
+SUMMARY: Chris Dudley is a filed, active candidate with real name recognition and some fundraising support, so 18% is not obviously too high or too low. The strongest current evidence still points to Christine Drazan as the better-established Republican contender, and there is no strong polling or finance evidence showing Dudley is being materially underrated.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Chris Dudley is Running for Govenor - KOBI-TV NBC5 / KOTI-TV NBC2
-Author: Logan Patzke
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://kobi5.com/news/local-news/chris-dudley-is-running-for-govenor-294569/
-Summary: Chris Dudley has announced his candidacy for the 2026 Oregon Governor Republican primary election. To assess his chances of winning, consider factors such as his previous political experience, public support, campaign strategies, and the political landscape in Oregon leading up to the election. Dudley, a former professional basketball player and previous gubernatorial candidate in 2010, may leverage his name recognition and experience to appeal to voters. Additionally, analyzing polling data, endorsements, and the performance of other Republican candidates in the primary will provide further insights into his potential success. For ongoing updates and detailed coverage, refer to local news sources like KOBI-TV NBC5.
+### [Chris Dudley enters Oregon governor’s race - OPB](https://www.opb.org/article/2026/01/26/chris-dudley-enters-oregon-governors-race/)
+**Author:** Dirk VanderHart | **Published:** 2026-01-26
 
-Title: Q&A with candidate for governor Chris Dudley | Government | nrtoday.com
-Author: The News-Review staff
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.nrtoday.com/news/government/q-a-with-candidate-for-governor-chris-dudley/article_a4f2a485-22c0-48d9-a6b4-c78bf751f184.html
-Summary: The Q&A with Chris Dudley, a candidate for the Oregon governor's race, provides insights into his campaign strategies and positions that could influence his chances in the 2026 Republican primary. Dudley emphasizes his experience and commitment to addressing key issues facing Oregon, such as economic growth, public safety, and education reform. He aims to appeal to both traditional Republican voters and independents by focusing on pragmatic solutions rather than partisan politics. 
+OPB reported that Chris Dudley officially entered the 2026 Oregon governor’s race on January 26, 2026, confirming he is a real and active candidate rather than a speculative name. The article also notes that Christine Drazan is likely one of his toughest primary opponents, which is important because it frames Dudley as a contender but not the apparent favorite. This supports the view that Dudley has a live path, but that the race likely runs through Drazan. That tends to support a nonzero but clearly minority probability, consistent with something around the market price.
 
-Dudley’s previous experience as a former NBA player and his prior candidacy in 2010 may resonate with voters looking for a relatable candidate. His ability to connect with constituents and articulate clear policy proposals will be crucial in determining his success in the primary. Additionally, the political landscape, including the popularity of his opponents and voter sentiment leading up to the election, will also play significant roles in predicting his chances of winning the primary. 
+### [County commissioner and GOP candidate in Oregon governor’s race faces ethics investigation - OPB](https://www.opb.org/article/2025/12/18/oregon-governor-republican-candidate-danielle-bethell-ethics-investigation/)
+**Author:** Dirk VanderHart | **Published:** 2025-12-18
 
-Overall, Dudley's approach and the evolving political climate in Oregon will be key factors to watch as the primary date approaches.
+This OPB article says Danielle Bethell is in the race and explicitly describes Christine Drazan as “so far considered a frontrunner” for the Republican nomination. It also notes Bethell has some notable endorsements, indicating the field is competitive and fragmented rather than a two-person race. For market analysis, this is relevant because Dudley must beat not only Drazan but also other Republicans competing for similar votes. That challenges any claim that Dudley should be priced dramatically above 18%.
 
-Title: Former Trail Blazer Chris Dudley labels Oregon a 'train wreck,' vows change in race for governor | kgw.com
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.kgw.com/article/entertainment/television/programs/straight-talk/former-trail-blazer-chris-dudley-labels-oregon-a-train-wreck-vows-change-in-race-for-governor/283-fcfe6b2e-1ca9-4c79-9ca8-0c56192ab95e
-Summary: Chris Dudley, a former center for the Portland Trail Blazers, is running for governor of Oregon again, emphasizing the state's need for urgent change. He previously ran as the Republican nominee in 2010 but lost to Democrat John Kitzhaber. In his current campaign, Dudley aims to secure the GOP nomination to challenge incumbent Democratic Governor Tina Kotek. Factors that could influence his chances in the 2026 Republican primary include his previous political experience, public perception of Oregon's current state, and the effectiveness of his campaign messaging regarding the need for change. Additionally, the political landscape, voter sentiment, and the strength of his opponents will play crucial roles in predicting the outcome of the primary election.
+### [NBA’s Kevin Love donates to former Trail Blazer Chris Dudley’s gubernatorial bid - OPB](https://www.opb.org/article/2026/02/26/nba-kevin-love-donates-chris-dudley-republican-governor/)
+**Author:** Bryce Dole | **Published:** 2026-02-26
 
-Title: Oregon gubernatorial election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Oregon_gubernatorial_election,_2026
-Summary: The 2026 Oregon gubernatorial election will feature a Republican primary that includes Chris Dudley, a former professional basketball player and previous gubernatorial candidate. To assess his chances of winning the primary, consider the following factors:
+OPB reported that Kevin Love donated $25,000 to Dudley’s campaign, citing Oregon Secretary of State records. This is a concrete indicator that Dudley can attract meaningful money and publicity, which matters in a low-information statewide primary. It supports the idea that Dudley is more than a vanity candidate and that a single-digit probability would likely be too low. At the same time, a single notable donation is not enough to show he should be a frontrunner.
 
-1. **Previous Election Performance**: Dudley ran for governor in 2010, where he lost to Democrat John Kitzhaber. Analyzing his past performance and voter reception could provide insights into his current viability.
+### [Oregon Secretary Of State — Transaction Detail (Dudley for Oregon contribution from Kevin Love)](https://secure.sos.state.or.us/orestar/gotoPublicTransactionDetail.do?OWASP_CSRFTOKEN=6SAA-0K3T-G23I-P863-NH07-5000-MX5N-ZRB7&tranRsn=5553562)
+**Author:** Unknown | **Published:** 2026-02-26
 
-2. **Political Landscape**: The dynamics of the Republican Party in Oregon, including voter demographics and key issues, will play a crucial role. Understanding the current political climate and any shifts in party support since Dudley's last campaign is essential.
+This official Oregon Secretary of State ORESTAR record confirms a $25,000 contribution from Kevin Love to Dudley for Oregon on February 26, 2026. It is a primary source verifying a meaningful recent fundraising event for Dudley. This strengthens the bullish case that Dudley has at least some donor enthusiasm and campaign capacity. Still, the record shows only one transaction and does not demonstrate overall fundraising parity with leading rivals.
 
-3. **Opponents**: The strength and popularity of other candidates in the Republican primary will significantly impact Dudley's chances. If he faces strong challengers, it could hinder his campaign.
+### [List of Candidates & Measures for the May 19, 2026 Primary Election](https://www.co.lincoln.or.us/DocumentCenter/View/7032/List-of-Candidates-and-Measures-for-the-May-19-2026-Primary-Election)
+**Author:** Unknown | **Published:** 2026-03-10
 
-4. **Campaign Strategy**: Dudley's campaign approach, including fundraising, outreach, and messaging, will be critical. His ability to connect with voters on key issues will influence his success.
+This Lincoln County official candidate list, revised March 10, 2026, shows Chris Dudley, Christine Drazan, Danielle Bethell, Kyle Duyck, and other Republicans filed for governor. It is important because it confirms Dudley is on the ballot and that the Republican field is crowded. A multi-candidate field can help an outsider via vote splitting, but it also means Dudley has several competitors rather than a head-to-head race. This evidence supports the idea that Dudley has a plausible path but not an obviously dominant one.
 
-5. **Endorsements and Support**: Any endorsements from influential party figures or organizations could bolster Dudley's campaign and sway undecided voters.
+### [May 19, 2026 Primary Election — List of Candidates for Linn County Oregon](https://www.linncountyor.gov/media/54466)
+**Author:** Unknown | **Published:** 2026-02-11
 
-6. **Current Events**: Ongoing political issues, economic conditions, and public sentiment leading up to the primary will also affect voter preferences.
+This official Linn County candidate list also shows Danielle Bethell, Christine Drazan, Ed Diehl, and Kyle Duyck in the Republican gubernatorial primary, corroborating that Dudley faces a multi-candidate contest. Independent confirmation from a second county source reduces the chance of misunderstanding ballot status. For prediction purposes, this supports a plurality-dynamics interpretation rather than a one-on-one race. That makes Dudley’s chance real but difficult to estimate precisely.
 
-By analyzing these factors, one can make a more informed prediction about Chris Dudley's chances in the 2026 Republican primary for governor of Oregon
+### [Oregon Elections Calendar](https://data.oregon.gov/api/views/i8qc-cakg/rows.pdf?app_token=U29jcmF0YS0td2VraWNrYXNz0)
+**Author:** Unknown | **Published:** 2026-03-11
 
-Title: Sisters resident who came close to winning governorship for GOP is running again | Redmond Spokesman
-Author: Clayton Franke
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://redmondspokesman.com/2026/02/12/sisters-resident-who-came-close-to-winning-governorship-for-gop-is-running-again/
-Summary: Chris Dudley, a resident of Sisters, Oregon, is running again for the Republican nomination for governor in the 2026 election after a previous close attempt. His candidacy could be influenced by various factors, including his past performance, current political climate, and voter sentiment within the Republican Party. Observers may consider his previous campaign strategies, endorsements, and the overall competitiveness of the Republican primary field to predict his chances of winning. For more detailed insights, you can read the full article [here](https://redmondspokesman.com/2026/02/12/sisters-re).
+Oregon’s official election calendar confirms the May 19, 2026 primary timeline and standard election administration dates. This matters because the market description references a possible second round or runoff, but the official calendar does not indicate a special gubernatorial runoff structure. That reduces the chance of resolution confusion and supports interpreting the market as a standard Republican primary winner contract. It also highlights that Dudley announced relatively late in the cycle, leaving limited time before the primary.
 
+### [Former Trail Blazers Star Launches Bid for Oregon Governor - NOTUS](https://www.notus.org/us-news/chris-dudley-former-nba-portland-trail-blazers-star-oregon-governor-campaign)
+**Author:** Amelia Benavides-Colón | **Published:** 2026-01-26
 
+NOTUS reported that Dudley launched his campaign on January 26, 2026, and emphasized his previous near-win in the 2010 governor’s race. The story also mentions the broader Oregon political context and the role of high-dollar Republican donors like Phil Knight in the state. This is relevant because it shows why traders might assign Dudley a meaningful chance despite a late entry: he has statewide profile and precedent as a competitive nominee. But the article does not provide evidence that he leads the current primary field.
+
+### [Sisters man makes second run for governor - The Nugget Newspaper](https://www.nuggetnews.com/story/2026/03/04/news/sisters-man-makes-second-run-for-governor/38781.html)
+**Author:** Unknown | **Published:** 2026-03-04
+
+This local report says Dudley officially announced on January 26 and notes that Christine Drazan led in fundraising with more than $583,000 as of February 2026, while Danielle Bethell had roughly $15,000. Even though it is a smaller local outlet, the fundraising comparison is highly relevant because it suggests Drazan has substantially greater financial strength than her Republican rivals. That pushes against a bullish Dudley interpretation unless one believes celebrity appeal can overcome a major finance gap. The source therefore supports the reasonableness of a relatively modest Dudley probability.
+
+### [Friends of Christine Drazan (19050) — Account Summary Information for the year 2025](https://secure.sos.state.or.us/orestar/publicAccountSummary.do?OWASP_CSRFTOKEN=4BS2-2T6B-XL3X-I1J3-U709-7XEA-7EG8-CIMF&filerId=19050)
+**Author:** Unknown | **Published:** 2025-11-15
+
+This official Oregon Secretary of State account summary shows Friends of Christine Drazan reported $771,188.54 in cash contributions in 2025. While not a full March 2026 snapshot, it provides primary-source evidence that Drazan entered the 2026 cycle with substantial fundraising strength. For predicting the primary, that strongly supports her status as a leading contender and makes it harder to argue Dudley should be priced far above a secondary probability. It is one of the strongest available pieces of evidence against a large pro-Dudley mispricing.
+
+### [Republican gubernatorial candidate Chris Dudley to visit Baker City Wednesday | Baker City Herald](https://bakercityherald.com/2026/03/03/republican-gubernatorial-candidate-chris-dudley-to-visit-baker-city-wednesday/)
+**Author:** Baker City Herald | **Published:** 2026-03-03
+
+This article documents Dudley holding a public campaign event in Baker City on March 4, 2026. It is relevant because it shows Dudley is actively campaigning across the state rather than merely maintaining a nominal candidacy. That supports a bullish case that he has a functioning operation and should not be dismissed as irrelevant. Still, campaign travel by itself does not demonstrate frontrunner status or reveal voter support levels.
+
+### [‘We can get this done’: Oregon Republican candidates make first pitch for governor’s race • Oregon Capital Chronicle](https://oregoncapitalchronicle.com/2026/01/31/we-can-get-this-done-oregon-republican-candidates-make-first-pitch-for-governors-race/)
+**Author:** Shaanth Nanguneri | **Published:** 2026-01-31
+
+Search-result text for this Oregon Capital Chronicle article reports that Republican gubernatorial candidates addressed an activist gathering and that Ed Diehl won a straw poll with more than twice the votes Dudley and Bethell each received. Although I could not fully open the page, the search snippet is still relevant as a recent indicator that Dudley was not obviously dominating early activist sentiment. Because straw polls are weak evidence, this should not be overweighted, but it does push against the thesis that Dudley is secretly the leading candidate. It therefore modestly supports the current market price as plausible.
