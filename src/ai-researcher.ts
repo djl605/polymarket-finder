@@ -167,6 +167,9 @@ export class AIResearcher {
             search_context_size: 'high',
           },
         ],
+        reasoning: {
+          effort: "high",
+        },
         input: prompt,
       });
 
