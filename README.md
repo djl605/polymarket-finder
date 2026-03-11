@@ -11,8 +11,8 @@ The bot finds markets that are:
 - **Uncertain outcome** (15-85% probability range default)
 
 For each candidate, it:
-1. **Researches** using Exa AI (searches Twitter, Reddit, news, forums)
-2. **Analyzes** using OpenAI o4-mini (assesses mispricing likelihood)
+1. **Researches** using OpenAI web search (searches news, forums, expert analyses)
+2. **Analyzes** using OpenAI gpt-5.4 (assesses mispricing likelihood)
 3. **Alerts** via Discord if worth investigating
 
 ## Quick Setup
@@ -25,7 +25,6 @@ Go to Settings → Secrets and variables → Actions → Secrets:
 
 - **`DISCORD_WEBHOOK_URL`** - Your Discord webhook URL
 - **`OPENAI_API_KEY`** - OpenAI API key ([get one](https://platform.openai.com/api-keys))
-- **`EXA_API_KEY`** - Exa AI key ([get one](https://exa.ai/))
 
 ### 3. Enable GitHub Actions
 
@@ -58,7 +57,6 @@ Create `.env`:
 ```bash
 DISCORD_WEBHOOK_URL=your_webhook_url
 OPENAI_API_KEY=sk-your-key
-EXA_API_KEY=your-key
 
 # Optional overrides
 MIN_MARKET_AGE_DAYS=7
@@ -109,7 +107,6 @@ npm run analyze-market most-rushing-yards-by-a-rookie-rb "Ashton Jeanty"
 
 **Required environment variables:**
 - `OPENAI_API_KEY` - Your OpenAI API key
-- `EXA_API_KEY` - Your Exa API key
 
 **Optional environment variables:**
 - `VERBOSE_LOGS=true` - Enable verbose logging to see the full AI response
@@ -125,15 +122,13 @@ npm run analyze-market most-rushing-yards-by-a-rookie-rb "Ashton Jeanty"
 The analysis results will be displayed in the GitHub Actions logs.
 
 **Required secrets:**
-- `OPENAI_API_KEY` - Your OpenAI API key  
-- `EXA_API_KEY` - Your Exa API key
+- `OPENAI_API_KEY` - Your OpenAI API key
 
 ### What it does
 
 This feature:
 - ✅ Fetches the specified market from Polymarket
-- ✅ Runs AI research using Exa
-- ✅ Performs AI reasoning using OpenAI o4-mini
+- ✅ Runs AI research and reasoning using OpenAI gpt-5.4 with web search
 - ✅ Logs the complete analysis to the console
 - ✅ Handles both binary markets (Yes/No) and multi-outcome markets
 - ❌ Does NOT check pre-screening criteria
@@ -157,10 +152,9 @@ npm run test:watch       # Watch mode
 1. **Fetch** - Gets all active markets from Polymarket Gamma API
 2. **Screen** - Filters by age, volume, probability, and spread
 3. **Research** - For each candidate:
-   - GPT-4o-mini generates optimal search query
-   - Exa AI searches recent discussions/news (Twitter, Reddit, news sites)
+   - OpenAI gpt-5.4 with web search researches recent discussions/news
    - Research content is saved to markdown files for later review
-   - OpenAI o4-mini analyzes expected value (probability × magnitude of mispricing)
+   - The same model analyzes expected value (probability × magnitude of mispricing)
 4. **Alert** - Sends Discord notifications for opportunities worth investigating
    - Includes link to full research content on GitHub
 5. **Track** - Saves state and research files to prevent duplicate alerts

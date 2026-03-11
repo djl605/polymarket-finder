@@ -52,13 +52,13 @@ export interface ScreenedMarket {
 }
 
 /**
- * Research content from Exa
+ * Research content from web search
  */
 export interface ResearchContent {
   marketId: string;
   question: string;
   searchQuery: string;
-  contextString: string; // Exa's pre-formatted context optimized for LLMs
+  contextString: string; // Formatted research context with source summaries
   researchedAt: string;
   analysis?: {
     fullAnalysis: string;
@@ -126,7 +126,6 @@ export interface BotState {
 export interface Config {
   discordWebhookUrl: string;
   openaiApiKey: string;
-  exaApiKey: string;
   screening: ScreeningCriteria;
   cacheMinAgeDays: number;
   cacheMaxAgeDays: number;

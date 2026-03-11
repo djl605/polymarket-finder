@@ -1,44 +1,34 @@
 import OpenAI from 'openai';
-import Exa from 'exa-js';
 import { AIAnalysis, ScreenedMarket, ResearchContent } from './types';
 import { ResearchFileManager } from './research-file-manager';
 import { RESEARCH_VERSION } from './research-version';
 
-interface ExaResult {
+interface ParsedSource {
   title: string;
   url: string;
-  publishedDate?: string;
-  author?: string;
+  author: string;
+  date: string;
   summary: string;
 }
 
 /**
- * Uses Exa for web research + OpenAI o4-mini for reasoning
+ * Uses OpenAI gpt-5.4 with web_search for research + reasoning in a single call
  */
 export class AIResearcher {
   private activeCalls = 0;
   private readonly maxConcurrentCalls: number;
   private readonly minDelayMs = 100;
   private readonly verboseLogs: boolean;
-  private readonly exaClient: Exa;
   private readonly openaiClient: OpenAI;
-  
-  // Exa-specific rate limiting (5 QPS limit)
-  private activeExaCalls = 0;
-  private readonly maxConcurrentExaCalls = 5; // Stay under 5 QPS limit
-  private lastExaCallTime = 0;
-  private readonly minExaDelayMs = 250; // 4 calls per second max
 
   constructor(
     openaiApiKey: string,
-    exaApiKey: string,
     maxConcurrentCalls: number = 10,
     verboseLogs: boolean = false,
     private researchFileManager?: ResearchFileManager
   ) {
     this.maxConcurrentCalls = maxConcurrentCalls;
     this.verboseLogs = verboseLogs;
-    this.exaClient = new Exa(exaApiKey);
     this.openaiClient = new OpenAI({ apiKey: openaiApiKey });
   }
 
@@ -47,9 +37,8 @@ export class AIResearcher {
    * Returns a default "skip" analysis if any errors occur
    * @param screenedMarket - The market to analyze
    * @param logBuffer - Optional array to collect log messages instead of outputting directly
-   * @param logResearch - If true, log the full research context (for single-market debugging)
    */
-  async analyzeMarket(screenedMarket: ScreenedMarket, logBuffer?: string[], logResearch: boolean = false): Promise<AIAnalysis> {
+  async analyzeMarket(screenedMarket: ScreenedMarket, logBuffer?: string[]): Promise<AIAnalysis> {
     while (this.activeCalls >= this.maxConcurrentCalls) {
       await this.sleep(50);
     }
@@ -70,37 +59,18 @@ export class AIResearcher {
 
       log(`   🔍 Researching market...`);
 
-      // Step 1: Use Exa AI search to search for articles related to the market question.
-      const searchQuery = `Provide information that could be relevant to predicting the following question: ${market.question}`;
-      log(`   🔎 Search query: "${searchQuery}"`);
-
-      // Step 2: Perform web research using Exa
-      const { results: exaResults, context: exaContext } = await this.researchWithExa(searchQuery, logBuffer);
-      // Use Exa's context string if available, otherwise format manually
-      const researchContext = exaContext || this.formatExaResults(exaResults);
-      log(`   📚 Found ${exaResults.length} relevant sources`);
-
-      // Log the full research context if requested (for single-market debugging)
-      if (logResearch && researchContext) {
-        log(`\n${'='.repeat(80)}`);
-        log(`RESEARCH CONTEXT`);
-        log(`${'='.repeat(80)}`);
-        log(researchContext);
-        log(`${'='.repeat(80)}\n`);
-      }
-
-      // Step 3: Use o4-mini for reasoning
-      log(`   🤖 Running AI reasoning...`);
+      // Build prompt for web search + reasoning
+      log(`   🤖 Running AI research + reasoning...`);
       const prompt = this.buildReasoningPrompt(
         market.question,
         market.description,
         reason,
         market.mainProbability,
-        researchContext
       );
-      
-      const response = await this.callReasoningModel(prompt);
-      
+
+      // Single API call: web search + reasoning
+      const response = await this.callResearchModel(prompt);
+
       // Log the full response for debugging (only if verbose logging is enabled)
       if (this.verboseLogs) {
         log(`\n${'='.repeat(80)}`);
@@ -111,9 +81,20 @@ export class AIResearcher {
       }
 
       const analysis = this.parseAIResponse(market.conditionId, market.question, response);
-      
+
       // Add research version to analysis
       analysis.researchVersion = RESEARCH_VERSION;
+
+      // Parse sources from the response for research files
+      const sources = this.parseSources(response);
+      const researchContext = this.formatSourcesAsContext(sources);
+      log(`   📚 Found ${sources.length} sources`);
+
+      // Strip the SOURCES block from fullAnalysis so it only contains the reasoning
+      const sourcesIdx = response.lastIndexOf('SOURCES:');
+      if (sourcesIdx !== -1) {
+        analysis.fullAnalysis = response.substring(0, sourcesIdx).trim();
+      }
 
       // Save research content to file (after AI reasoning, so we can include the analysis)
       if (this.researchFileManager && researchContext) {
@@ -121,8 +102,8 @@ export class AIResearcher {
           const researchContent: ResearchContent = {
             marketId: market.conditionId,
             question: market.question,
-            searchQuery,
-            contextString: researchContext, // The formatted context used for analysis
+            searchQuery: market.question,
+            contextString: researchContext,
             researchedAt: new Date().toISOString(),
             analysis: {
               fullAnalysis: analysis.fullAnalysis,
@@ -144,7 +125,7 @@ export class AIResearcher {
       const errorMsg = `   ❌ Failed to analyze market: ${error instanceof Error ? error.message : error}`;
       log(errorMsg);
       log(`   ⏭️  Skipping this market and continuing...`);
-      
+
       // Return a default "skip" analysis so the job can continue
       return {
         marketId: screenedMarket.market.conditionId,
@@ -172,113 +153,82 @@ export class AIResearcher {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
 
-
   /**
-   * Research a market using Exa's neural search
-   * Implements rate limiting: max 5 concurrent calls, 250ms between calls
-   * Returns both the individual results and the formatted context string (if available)
+   * Call OpenAI gpt-5.4 with web_search for research + reasoning
+   * Throws descriptive errors for upstream handling
    */
-  private async researchWithExa(searchQuery: string, logBuffer?: string[]): Promise<{ results: ExaResult[], context?: string }> {
-    const log = (message: string) => {
-      if (logBuffer) {
-        logBuffer.push(message);
-      }
-    };
-    // Wait if we've hit the Exa concurrency limit (5 QPS)
-    while (this.activeExaCalls >= this.maxConcurrentExaCalls) {
-      await this.sleep(50);
-    }
-
-    // Enforce minimum delay between Exa calls
-    const timeSinceLastCall = Date.now() - this.lastExaCallTime;
-    if (timeSinceLastCall < this.minExaDelayMs) {
-      await this.sleep(this.minExaDelayMs - timeSinceLastCall);
-    }
-
-    this.activeExaCalls++;
-    this.lastExaCallTime = Date.now();
-
+  private async callResearchModel(prompt: string): Promise<string> {
     try {
-      const response = await this.exaClient.search(
-        searchQuery.substring(0, 500), // Ensure it's not too long
-        {
-          type: "auto",
-          numResults: 5,
-          startPublishedDate: this.getDateDaysAgo(30),
-          excludeDomains: ["polymarket.com", "kalshi.com"],
-          contents: {
-            summary: true,
-            context: true,
-          }
-        }
-      );
+      const response = await this.openaiClient.responses.create({
+        model: 'gpt-5.4',
+        tools: [
+          {
+            type: 'web_search',
+            search_context_size: 'high',
+          },
+        ],
+        input: prompt,
+      });
 
-      const results = response.results || [];
-      const formattedResults = results.map((r: typeof results[number]) => ({
-        title: r.title || '',
-        url: r.url || '',
-        publishedDate: r.publishedDate,
-        author: r.author,
-        summary: r.summary || '',
-      }));
+      const text = response.output_text;
 
-      return {
-        results: formattedResults,
-        context: response.context, // Exa's pre-formatted context string
-      };
-    } catch (error: any) {
-      // Handle Exa SDK errors
-      if (error.message?.includes('429') || error.message?.includes('rate limit')) {
-        log(`   ⚠️  Exa rate limit hit. Consider reducing MAX_CONCURRENT_ANALYSES or upgrading your Exa plan.`);
-      } else {
-        log(`   ⚠️  Error calling Exa API: ${error instanceof Error ? error.message : error}`);
+      if (!text) {
+        throw new Error('OpenAI response missing expected data structure');
       }
-      return { results: [] };
-    } finally {
-      this.activeExaCalls--;
+
+      return text;
+    } catch (error: unknown) {
+      // Handle OpenAI SDK errors with descriptive messages
+      if (error instanceof OpenAI.APIError) {
+        if (this.verboseLogs) {
+          console.error(error);
+        }
+        if (error.status === 429) {
+          const rateLimitInfo = this.extractRateLimitInfo(error.headers);
+          throw new Error(`OpenAI rate limit exceeded${rateLimitInfo}. Consider reducing MAX_CONCURRENT_ANALYSES.`);
+        } else if (error.status === 401) {
+          throw new Error('OpenAI authentication failed (401) - Check your OPENAI_API_KEY');
+        } else if (error.status === 400) {
+          throw new Error(`OpenAI bad request (400): ${error.message.substring(0, 200)}`);
+        } else if (error.status === 403) {
+          throw new Error('OpenAI forbidden (403) - Check API key permissions');
+        } else if (error.status === 404) {
+          throw new Error('OpenAI model not found (404) - Model may not be available for your account');
+        } else if (error.status === 500 || error.status === 502 || error.status === 503) {
+          throw new Error(`OpenAI server error (${error.status}) - Service temporarily unavailable`);
+        } else {
+          throw new Error(`OpenAI API error (${error.status}): ${error.message.substring(0, 200)}`);
+        }
+      }
+
+      // Re-throw with context if it's already our error
+      if (error instanceof Error && error.message.includes('OpenAI')) {
+        throw error;
+      }
+
+      // Wrap other errors (network issues, etc.)
+      throw new Error(`OpenAI API call failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
     }
   }
 
   /**
-   * Format Exa results for the AI prompt
-   */
-  private formatExaResults(results: ExaResult[]): string {
-    if (results.length === 0) {
-      return 'No relevant sources found.';
-    }
-
-    return results
-      .map((r, i) => {
-        return `
-[Source ${i + 1}] ${r.title}
-URL: ${r.url}
-${r.publishedDate ? `Date: ${r.publishedDate}` : ''}
-${r.author ? `Author: ${r.author}` : ''}
-
-${r.summary.substring(0, 1500)}
-${r.summary.length > 1500 ? '...' : ''}
----`;
-      })
-      .join('\n\n');
-  }
-
-  /**
-   * Build a prompt for o4-mini reasoning
+   * Build a prompt for gpt-5.4 with web search + reasoning
    */
   private buildReasoningPrompt(
     question: string,
     description: string,
     metrics: string,
     probability: number,
-    researchContext: string
   ): string {
-    const currentDate = new Date().toLocaleDateString('en-US', { 
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
+    const currentDate = new Date().toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
     });
-    
-    return `Evaluate this prediction market to determine if there is credible evidence of mispricing:
+
+    return `Evaluate this prediction market to determine if there is credible evidence of mispricing.
+
+Use web search to research this topic. Search for recent news, analyses, and discussions relevant to predicting the outcome. Exclude prediction market sites (polymarket.com, kalshi.com, metaculus.com, manifold.markets) from your searches — focus on primary sources like news outlets, government sites, and expert analyses. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
 
 CURRENT DATE: ${currentDate}
 
@@ -299,11 +249,11 @@ This market has low total trading volume and a tight bid-ask spread. Low volume 
 - They may be overlooked by informed traders who could correct mispricings
 
 TASK:
-I have gathered some relevant research materials which are shared with you at the bottom of this prompt. Your job is to review the research materials and objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Use chain-of-thought reasoning to analyze the following:
+You have access to web search. Research this topic thoroughly, then objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Use chain-of-thought reasoning to analyze the following:
 
 1. CONTEXT ANALYSIS: What is this market asking about? What would need to happen for it to resolve as YES vs NO?
 
-2. EVIDENCE EVALUATION: Based on the research findings below, evaluate ALL relevant evidence:
+2. EVIDENCE EVALUATION: Based on your research findings, evaluate ALL relevant evidence:
    - What SPECIFIC EVIDENCE suggests the current price of ${(probability * 100).toFixed(1)}% might be incorrect?
    - What evidence SUPPORTS the current market price as reasonable?
    - Evaluate source credibility and recency
@@ -328,14 +278,14 @@ I have gathered some relevant research materials which are shared with you at th
    - What is the MOST CHARITABLE interpretation of why informed traders arrived at this price?
    - Could there be information or context that traders have that isn't readily available to you?
    - Re-read the market question and description carefully before proceeding.
-   
+
    Common pitfalls: confusing similar events, missing time bounds, misunderstanding "will X happen" vs "will X be announced", missing specific conditions, over-confidence that a few sources represent consensus.
 
 5. EXPECTED VALUE CALCULATION: Estimate the expected value of investigating this market:
    - STRENGTH of evidence: How strong and reliable is the specific evidence you found? Consider whether this information is truly missing from the current price or likely already considered by traders. (0-100%)
    - MAGNITUDE of mispricing: If genuinely mispriced, how large is the error? (cents)
    - Expected value = (Strength of evidence) × (Magnitude of mispricing)
-   
+
    Examples:
    - 80% confidence in 15 cents mispricing = 12 cents expected value
    - 40% confidence in 20 cents mispricing = 8 cents expected value
@@ -345,30 +295,37 @@ I have gathered some relevant research materials which are shared with you at th
 6. CONFIDENCE: Rate your confidence in this assessment.
    - Use EXACTLY one of: low, medium, high (no other values or combinations)
 
-IMPORTANT: You must end your response with these three lines using ONLY the exact values specified:
+IMPORTANT: You must end your response with these sections in this exact order:
+
 EXPECTED_VALUE: [numeric value in cents, e.g., 12.5]
 SUMMARY: [2-3 sentence summary of key findings for a notification]
 CONFIDENCE: [EXACTLY one of: low, medium, high]
 
-IMPORTANT: The research findings you will use are below. Base your analysis ONLY on the RESEARCH FINDINGS, which contain current information. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
+SOURCES:
+After the above three lines, list each web source you referenced in your analysis using this exact format. Include one entry per source, separated by "---":
 
-RESEARCH FINDINGS:
-${researchContext}`;
+---
+Title: [page title]
+URL: [full URL starting with https:// — do NOT use shortened names like "Newsweek article", always provide the complete URL]
+Author: [author name, or "Unknown" if not available]
+Date: [publication date in YYYY-MM-DD format, or "Unknown" if not available]
+Summary: [3-5 sentence summary. Explain what specific information in this source is relevant to predicting the market outcome. Describe the key data points, findings, or arguments from the source. Then explain how this information affects the market analysis — does it support or challenge the current market price, and why?]
+---`;
 
   }
 
   /**
    * Extract rate limit information from OpenAI error headers
    */
-  private extractRateLimitInfo(headers?: Record<string, string>): string {
+  private extractRateLimitInfo(headers?: Headers): string {
     if (!headers) return '';
 
-    const limitRequests = headers['x-ratelimit-limit-requests'];
-    const remainingRequests = headers['x-ratelimit-remaining-requests'];
-    const limitTokens = headers['x-ratelimit-limit-tokens'];
-    const remainingTokens = headers['x-ratelimit-remaining-tokens'];
-    const resetRequests = headers['x-ratelimit-reset-requests'];
-    const resetTokens = headers['x-ratelimit-reset-tokens'];
+    const limitRequests = headers.get('x-ratelimit-limit-requests');
+    const remainingRequests = headers.get('x-ratelimit-remaining-requests');
+    const limitTokens = headers.get('x-ratelimit-limit-tokens');
+    const remainingTokens = headers.get('x-ratelimit-remaining-tokens');
+    const resetRequests = headers.get('x-ratelimit-reset-requests');
+    const resetTokens = headers.get('x-ratelimit-reset-tokens');
 
     const parts: string[] = [];
 
@@ -401,64 +358,6 @@ ${researchContext}`;
   }
 
   /**
-   * Call OpenAI o4-mini for reasoning
-   * Throws descriptive errors for upstream handling
-   */
-  private async callReasoningModel(prompt: string): Promise<string> {
-    try {
-      const response = await this.openaiClient.chat.completions.create({
-        model: 'o4-mini',
-        messages: [
-          {
-            role: 'user',
-            content: prompt,
-          },
-        ],
-        // Reasoning models don't support temperature, max_tokens, or system messages
-        // They use their own reasoning approach
-      });
-
-      const content = response.choices[0]?.message?.content;
-      
-      if (!content) {
-        throw new Error('OpenAI response missing expected data structure');
-      }
-
-      return content;
-    } catch (error: any) {
-      // Handle OpenAI SDK errors with descriptive messages
-      if (error instanceof OpenAI.APIError) {
-        console.log(error);
-        // Create descriptive error messages based on status code
-        if (error.status === 429) {
-          const rateLimitInfo = this.extractRateLimitInfo(error.headers as Record<string, string>);
-          throw new Error(`OpenAI rate limit exceeded${rateLimitInfo}. Consider reducing MAX_CONCURRENT_ANALYSES.`);
-        } else if (error.status === 401) {
-          throw new Error('OpenAI authentication failed (401) - Check your OPENAI_API_KEY');
-        } else if (error.status === 400) {
-          throw new Error(`OpenAI bad request (400): ${error.message.substring(0, 200)}`);
-        } else if (error.status === 403) {
-          throw new Error('OpenAI forbidden (403) - Check API key permissions');
-        } else if (error.status === 404) {
-          throw new Error('OpenAI model not found (404) - Model may not be available for your account');
-        } else if (error.status === 500 || error.status === 502 || error.status === 503) {
-          throw new Error(`OpenAI server error (${error.status}) - Service temporarily unavailable`);
-        } else {
-          throw new Error(`OpenAI API error (${error.status}): ${error.message.substring(0, 200)}`);
-        }
-      }
-      
-      // Re-throw with context if it's already our error
-      if (error instanceof Error && error.message.includes('OpenAI')) {
-        throw error;
-      }
-      
-      // Wrap other errors (network issues, etc.)
-      throw new Error(`OpenAI API call failed: ${error instanceof Error ? error.message : 'Unknown error'}`);
-    }
-  }
-
-  /**
    * Parse the AI response to extract structured data
    */
   private parseAIResponse(marketId: string, question: string, response: string): AIAnalysis {
@@ -466,7 +365,7 @@ ${researchContext}`;
 
     // Extract summary
     const summaryMatch = response.match(/SUMMARY:\s*(.+?)(?=\nCONFIDENCE:|$)/is);
-    const summary = summaryMatch 
+    const summary = summaryMatch
       ? summaryMatch[1].trim().substring(0, 500)
       : this.extractKeySummary(response); // Fallback
 
@@ -515,17 +414,43 @@ ${researchContext}`;
       .split('\n\n')
       .filter(p => p.trim().length > 50)
       .slice(0, 2);
-    
+
     return paragraphs.join(' ').substring(0, 400);
   }
 
   /**
-   * Get ISO date string for N days ago
+   * Parse structured sources from the SOURCES block in the model response
    */
-  private getDateDaysAgo(days: number): string {
-    const date = new Date();
-    date.setDate(date.getDate() - days);
-    return date.toISOString().split('T')[0];
+  private parseSources(response: string): ParsedSource[] {
+    const sourcesIdx = response.lastIndexOf('SOURCES:');
+    if (sourcesIdx === -1) return [];
+
+    const sourcesBlock = response.substring(sourcesIdx + 'SOURCES:'.length);
+
+    // Split by --- delimiters and parse each block
+    const blocks = sourcesBlock.split('---').filter(b => b.trim().length > 0);
+
+    return blocks.map(block => {
+      const title = block.match(/Title:\s*(.+)/i)?.[1]?.trim() || 'Unknown';
+      const url = block.match(/URL:\s*(.+)/i)?.[1]?.trim() || '';
+      const author = block.match(/Author:\s*(.+)/i)?.[1]?.trim() || 'Unknown';
+      const date = block.match(/Date:\s*(.+)/i)?.[1]?.trim() || 'Unknown';
+      const summary = block.match(/Summary:\s*([\s\S]+?)$/i)?.[1]?.trim() || '';
+      return { title, url, author, date, summary };
+    }).filter(s => s.url.length > 0);
+  }
+
+  /**
+   * Format parsed sources as a context string for research files
+   */
+  private formatSourcesAsContext(sources: ParsedSource[]): string {
+    if (sources.length === 0) return 'No sources found.';
+
+    return sources.map(s =>
+      `### [${s.title}](${s.url})\n` +
+      `**Author:** ${s.author} | **Published:** ${s.date}\n\n` +
+      `${s.summary}`
+    ).join('\n\n');
   }
 
 }

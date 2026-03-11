@@ -99,23 +99,16 @@ async function main() {
 
   // Load API keys from environment
   const openaiApiKey = process.env.OPENAI_API_KEY;
-  const exaApiKey = process.env.EXA_API_KEY;
-  
+
   if (!openaiApiKey) {
     console.error('❌ Error: OPENAI_API_KEY environment variable is required');
     process.exit(1);
   }
-  
-  if (!exaApiKey) {
-    console.error('❌ Error: EXA_API_KEY environment variable is required');
-    process.exit(1);
-  }
 
   const verboseLogs = process.env.VERBOSE_LOGS === 'true';
-  
+
   console.log('✅ Configuration loaded');
   console.log(`   OpenAI API Key: ${openaiApiKey.substring(0, 10)}...`);
-  console.log(`   Exa API Key: ${exaApiKey.substring(0, 10)}...`);
   console.log(`   Verbose logs: ${verboseLogs}\n`);
 
   // Extract slug from input (URL or direct slug)
@@ -231,7 +224,6 @@ async function main() {
   // Initialize AI researcher (no research file manager for console output only)
   const aiResearcher = new AIResearcher(
     openaiApiKey,
-    exaApiKey,
     1, // Single concurrent call
     verboseLogs
   );
@@ -241,12 +233,8 @@ async function main() {
   
   const startTime = Date.now();
   
-  // Run the analysis with research logging enabled
-  const analysis = await aiResearcher.analyzeMarket(
-    screenedMarket,
-    undefined, // No log buffer - output directly to console
-    true       // Log research context
-  );
+  // Run the analysis
+  const analysis = await aiResearcher.analyzeMarket(screenedMarket);
   
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
   

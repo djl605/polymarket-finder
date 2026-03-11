@@ -32,7 +32,6 @@ jobs:
       - name: Run market analysis
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           VERBOSE_LOGS: 'true'
         run: |
           if [ -z "${{ inputs.outcome }}" ]; then
