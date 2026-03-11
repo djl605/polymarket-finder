@@ -47,7 +47,6 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
           MIN_MARKET_AGE_DAYS: ${{ vars.MIN_MARKET_AGE_DAYS || '7' }}
           MAX_MARKET_VOLUME_DOLLARS: ${{ vars.MAX_MARKET_VOLUME_DOLLARS || '10000' }}
           MAX_SPREAD_CENTS: ${{ vars.MAX_SPREAD_CENTS || '6' }}

@@ -1,28 +1,38 @@
 import { AIResearcher } from '../ai-researcher';
-import { EnrichedMarket, ScreenedMarket } from '../types';
+import { ScreenedMarket } from '../types';
 import OpenAI from 'openai';
-import Exa from 'exa-js';
 
 jest.mock('openai');
 const MockedOpenAI = OpenAI as jest.MockedClass<typeof OpenAI>;
 
-jest.mock('exa-js');
-const MockedExa = Exa as jest.MockedClass<typeof Exa>;
-
-// Helper to create mock OpenAI client
+// Helper to create mock OpenAI client with Responses API
 const createMockOpenAIClient = (mockCreate: jest.Mock) => {
   return {
-    chat: {
-      completions: {
-        create: mockCreate,
-      },
+    responses: {
+      create: mockCreate,
     },
   } as unknown as OpenAI;
 };
 
+// Helper to build a mock response with optional SOURCES block
+const buildMockResponse = (
+  ev: string,
+  summary: string,
+  confidence: string,
+  sources?: Array<{ title: string; url: string; author?: string; date?: string; summary: string }>
+): string => {
+  let response = `Analysis...\nEXPECTED_VALUE: ${ev}\nSUMMARY: ${summary}\nCONFIDENCE: ${confidence}`;
+  if (sources && sources.length > 0) {
+    response += '\n\nSOURCES:';
+    for (const s of sources) {
+      response += `\n---\nTitle: ${s.title}\nURL: ${s.url}\nAuthor: ${s.author || 'Unknown'}\nDate: ${s.date || 'Unknown'}\nSummary: ${s.summary}\n---`;
+    }
+  }
+  return response;
+};
+
 describe('AIResearcher', () => {
   const mockOpenAIKey = 'sk-test-key';
-  const mockExaKey = 'exa-test-key';
 
   const createMockScreenedMarket = (): ScreenedMarket => ({
     market: {
@@ -50,21 +60,12 @@ describe('AIResearcher', () => {
     score: 0.5,
   });
 
-  const mockExaResults = (results: any[] = []) => {
-    MockedExa.mockImplementation(() => ({
-      search: jest.fn().mockResolvedValue({ results }),
-    } as any));
-  };
-
   beforeEach(() => {
     jest.clearAllMocks();
     // Suppress console logs during tests
     jest.spyOn(console, 'log').mockImplementation();
     jest.spyOn(console, 'warn').mockImplementation();
     jest.spyOn(console, 'error').mockImplementation();
-    
-    // Default mock for Exa SDK
-    mockExaResults([]);
   });
 
   afterEach(() => {
@@ -72,39 +73,17 @@ describe('AIResearcher', () => {
   });
 
   describe('analyzeMarket', () => {
-    it('should perform full analysis with all API keys', async () => {
+    it('should perform full analysis with web search', async () => {
       const market = createMockScreenedMarket();
 
-      // Mock Exa SDK search
-      const mockSearch = jest.fn().mockResolvedValue({
-        results: [
-          {
-            title: 'Weather forecast',
-            url: 'https://example.com',
-            summary: 'Rain expected tomorrow',
-          },
-        ],
-      });
-      MockedExa.mockImplementation(() => ({
-        search: mockSearch,
-      } as any));
-
-      // Mock OpenAI SDK
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: `Analysis of the market...
-EXPECTED_VALUE: 2.0
-SUMMARY: Market appears fairly priced based on weather forecasts.
-CONFIDENCE: high`,
-            },
-          },
-        ],
+        output_text: buildMockResponse('2.0', 'Market appears fairly priced based on weather forecasts.', 'high', [
+          { title: 'Weather forecast', url: 'https://example.com', summary: 'Rain expected tomorrow' },
+        ]),
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const result = await researcher.analyzeMarket(market);
 
       expect(result.marketId).toBe('cond123');
@@ -112,20 +91,22 @@ CONFIDENCE: high`,
       expect(result.expectedValue).toBe(2.0);
       expect(result.confidence).toBe('high');
       expect(mockCreate).toHaveBeenCalledTimes(1);
-      expect(mockSearch).toHaveBeenCalledTimes(1);
+
+      // Verify the Responses API was called with web_search tool
+      const callArgs = mockCreate.mock.calls[0][0];
+      expect(callArgs.model).toBe('gpt-5.4');
+      expect(callArgs.tools).toEqual(
+        expect.arrayContaining([
+          expect.objectContaining({ type: 'web_search' }),
+        ])
+      );
     });
 
     it('should return skip analysis on API failures instead of throwing', async () => {
-      // Mock OpenAI SDK to reject
       const mockCreate = jest.fn().mockRejectedValue(new Error('API error'));
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
-      
-      // Mock Exa SDK
-      MockedExa.mockImplementation(() => ({
-        search: jest.fn().mockResolvedValue({ results: [] }),
-      } as any));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -140,27 +121,12 @@ CONFIDENCE: high`,
 
   describe('parseAIResponse', () => {
     it('should parse expected value and confidence from response', async () => {
-      // Mock Exa SDK
-      MockedExa.mockImplementation(() => ({
-        searchAndContents: jest.fn().mockResolvedValue({ results: [] }),
-      } as any));
-
-      // Mock OpenAI SDK
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: `Analysis...
-EXPECTED_VALUE: 12.5
-SUMMARY: Strong evidence of mispricing.
-CONFIDENCE: high`,
-            },
-          },
-        ],
+        output_text: buildMockResponse('12.5', 'Strong evidence of mispricing.', 'high'),
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -170,195 +136,151 @@ CONFIDENCE: high`,
     });
 
     it('should default to 0 EV and medium confidence when missing', async () => {
-      mockExaResults([]);
-
-      // Mock OpenAI SDK
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: 'Some analysis without clear EV or confidence',
-            },
-          },
-        ],
+        output_text: 'Some analysis without clear EV or confidence',
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
 
-      expect(result.expectedValue).toBe(0); // Default when no EV found
+      expect(result.expectedValue).toBe(0);
       expect(result.confidence).toBe('medium');
     });
 
     it('should convert NaN expected value to 0', async () => {
-      mockExaResults([]);
-
-      // Mock OpenAI SDK
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: `Analysis...
-EXPECTED_VALUE: invalid_text
-SUMMARY: Some analysis.
-CONFIDENCE: high`,
-            },
-          },
-        ],
+        output_text: buildMockResponse('invalid_text', 'Some analysis.', 'high'),
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
 
-      // parseFloat('invalid_text') returns NaN, which should be converted to 0
       expect(result.expectedValue).toBe(0);
     });
 
     it('should parse old cached responses with RECOMMENDATION field (backward compatibility)', async () => {
-      mockExaResults([]);
-
-      // Mock OpenAI SDK
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: `Analysis...
+        output_text: `Analysis...
 EXPECTED_VALUE: 8.5
 SUMMARY: Market shows some potential.
 RECOMMENDATION: research
 CONFIDENCE: medium`,
-            },
-          },
-        ],
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
 
-      // Should extract EV and confidence, ignoring the old RECOMMENDATION field
       expect(result.expectedValue).toBe(8.5);
       expect(result.confidence).toBe('medium');
       expect(result.summary).toContain('Market shows some potential');
     });
   });
 
-  describe('Exa integration', () => {
-    it('should format Exa results correctly', async () => {
-      // Mock Exa SDK with results
-      mockExaResults([
-        {
-          title: 'Article 1',
-          url: 'https://example.com/1',
-          publishedDate: '2024-01-15',
-          author: 'John Doe',
-          text: 'Content about the market',
-        },
-        {
-          title: 'Article 2',
-          url: 'https://example.com/2',
-          text: 'More content',
-        },
-      ]);
-
-      // Mock OpenAI SDK
+  describe('source parsing', () => {
+    it('should parse sources from SOURCES block', async () => {
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
+        output_text: buildMockResponse('5.0', 'Test summary.', 'medium', [
           {
-            message: {
-              content: `Analysis...
-EXPECTED_VALUE: 5.0
-SUMMARY: Test summary.
-CONFIDENCE: medium`,
-            },
+            title: 'Article 1',
+            url: 'https://example.com/1',
+            author: 'John Doe',
+            date: '2026-01-15',
+            summary: 'Content about the market',
           },
-        ],
+          {
+            title: 'Article 2',
+            url: 'https://example.com/2',
+            summary: 'More content',
+          },
+        ]),
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
-
-      const result = await researcher.analyzeMarket(market);
-
-      expect(result.fullAnalysis).toBeTruthy();
-      // Verify that reasoning model was called with formatted Exa results
-      expect(mockCreate).toHaveBeenCalledTimes(1);
-      const callArgs = mockCreate.mock.calls[0][0];
-      expect(callArgs.messages[0].content).toContain('Article 1');
-      expect(callArgs.messages[0].content).toContain('Article 2');
-    });
-
-    it('should handle empty Exa results', async () => {
-      // Mock Exa SDK with empty results
-      mockExaResults([]);
-
-      // Mock OpenAI SDK
-      const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: `Analysis...
-EXPECTED_VALUE: 0
-SUMMARY: Test.
-CONFIDENCE: low`,
-            },
-          },
-        ],
-      });
-      MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
-
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
-      const market = createMockScreenedMarket();
-
-      const result = await researcher.analyzeMarket(market);
-
-      expect(result).toBeTruthy();
-      expect(mockCreate).toHaveBeenCalledTimes(1);
-      const callArgs = mockCreate.mock.calls[0][0];
-      expect(callArgs.messages[0].content).toContain('No relevant sources found');
-    });
-
-    it('should handle Exa API errors', async () => {
       const logBuffer: string[] = [];
 
-      // Mock Exa SDK to throw an error
-      MockedExa.mockImplementation(() => ({
-        search: jest.fn().mockRejectedValue(new Error('Exa API error')),
-      } as any));
+      await researcher.analyzeMarket(market, logBuffer);
 
-      // Mock OpenAI SDK
+      // Should log that 2 sources were found
+      expect(logBuffer.some(log => log.includes('2 sources'))).toBe(true);
+    });
+
+    it('should strip SOURCES block from fullAnalysis', async () => {
       const mockCreate = jest.fn().mockResolvedValue({
-        choices: [
-          {
-            message: {
-              content: `Analysis...
-EXPECTED_VALUE: 0
-SUMMARY: Test.
-CONFIDENCE: medium`,
-            },
-          },
-        ],
+        output_text: buildMockResponse('5.0', 'Test summary.', 'medium', [
+          { title: 'Source', url: 'https://example.com', summary: 'Info' },
+        ]),
       });
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey, mockExaKey);
+      const researcher = new AIResearcher(mockOpenAIKey);
       const market = createMockScreenedMarket();
+
+      const result = await researcher.analyzeMarket(market);
+
+      // fullAnalysis should not contain the SOURCES block
+      expect(result.fullAnalysis).not.toContain('SOURCES:');
+      expect(result.fullAnalysis).toContain('Analysis...');
+    });
+
+    it('should handle response with no SOURCES block', async () => {
+      const mockCreate = jest.fn().mockResolvedValue({
+        output_text: buildMockResponse('0', 'Test.', 'low'),
+      });
+      MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
+
+      const researcher = new AIResearcher(mockOpenAIKey);
+      const market = createMockScreenedMarket();
+      const logBuffer: string[] = [];
 
       const result = await researcher.analyzeMarket(market, logBuffer);
 
       expect(result).toBeTruthy();
-      // Error should be in the log buffer
-      expect(logBuffer.some(log => log.includes('Exa API'))).toBe(true);
+      // Should log 0 sources
+      expect(logBuffer.some(log => log.includes('0 sources'))).toBe(true);
+    });
+
+    it('should skip malformed source entries without URLs', async () => {
+      const mockCreate = jest.fn().mockResolvedValue({
+        output_text: `Analysis...
+EXPECTED_VALUE: 3.0
+SUMMARY: Test.
+CONFIDENCE: low
+
+SOURCES:
+---
+Title: Good Source
+URL: https://example.com/good
+Author: Author
+Date: 2026-01-01
+Summary: Good content
+---
+---
+Title: Bad Source Without URL
+Author: Someone
+Summary: This should be skipped
+---`,
+      });
+      MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
+
+      const researcher = new AIResearcher(mockOpenAIKey);
+      const market = createMockScreenedMarket();
+      const logBuffer: string[] = [];
+
+      await researcher.analyzeMarket(market, logBuffer);
+
+      // Should only find 1 valid source (the one with URL)
+      expect(logBuffer.some(log => log.includes('1 sources'))).toBe(true);
     });
   });
 });
-

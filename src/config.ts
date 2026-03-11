@@ -6,24 +6,18 @@ import { Config } from './types';
 export function loadConfig(): Config {
   const discordWebhookUrl = process.env.DISCORD_WEBHOOK_URL;
   const openaiApiKey = process.env.OPENAI_API_KEY;
-  const exaApiKey = process.env.EXA_API_KEY;
-  
+
   if (!discordWebhookUrl) {
     throw new Error('DISCORD_WEBHOOK_URL environment variable is required');
   }
-  
+
   if (!openaiApiKey) {
     throw new Error('OPENAI_API_KEY environment variable is required');
-  }
-  
-  if (!exaApiKey) {
-    throw new Error('EXA_API_KEY environment variable is required');
   }
 
   return {
     discordWebhookUrl,
     openaiApiKey,
-    exaApiKey,
     screening: {
       minMarketAgeDays: parseFloat(process.env.MIN_MARKET_AGE_DAYS || '7'),
       maxTotalVolume: parseFloat(process.env.MAX_MARKET_VOLUME_DOLLARS || '10000'),
@@ -40,4 +34,3 @@ export function loadConfig(): Config {
     githubRepo: process.env.GITHUB_REPOSITORY, // Available in GitHub Actions
   };
 }
-
