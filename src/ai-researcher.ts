@@ -12,7 +12,7 @@ interface ParsedSource {
 }
 
 /**
- * Uses OpenAI gpt-5.4 with web_search for research + reasoning in a single call
+ * Uses OpenAI gpt-4.1 with web_search for research + reasoning in a single call
  */
 export class AIResearcher {
   private activeCalls = 0;
@@ -154,13 +154,13 @@ export class AIResearcher {
   }
 
   /**
-   * Call OpenAI gpt-5.4 with web_search for research + reasoning
+   * Call OpenAI gpt-4.1 with web_search for research + reasoning
    * Throws descriptive errors for upstream handling
    */
   private async callResearchModel(prompt: string): Promise<string> {
     try {
       const response = await this.openaiClient.responses.create({
-        model: 'gpt-5.4',
+        model: 'gpt-4.1',
         tools: [
           {
             type: 'web_search',
@@ -212,7 +212,7 @@ export class AIResearcher {
   }
 
   /**
-   * Build a prompt for gpt-5.4 with web search + reasoning
+   * Build a prompt for gpt-4.1 with web search + reasoning
    */
   private buildReasoningPrompt(
     question: string,

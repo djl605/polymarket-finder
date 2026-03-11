@@ -94,7 +94,7 @@ describe('AIResearcher', () => {
 
       // Verify the Responses API was called with web_search tool
       const callArgs = mockCreate.mock.calls[0][0];
-      expect(callArgs.model).toBe('gpt-5.4');
+      expect(callArgs.model).toBe('gpt-4.1');
       expect(callArgs.tools).toEqual(
         expect.arrayContaining([
           expect.objectContaining({ type: 'web_search' }),
