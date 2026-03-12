@@ -1,92 +1,122 @@
 # Research: No change in Bank of England’s interest rates after April 2026 meeting?
 
 **Market ID:** 0xdc607c58698c84817ba8963af6218076731e6af762a3018f7e36b54533aff940
-**Researched At:** March 2, 2026 at 02:54:31 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: No change in Bank of England’s interest rates after April 2026 meeting?"
+**Researched At:** March 12, 2026 at 04:14:52 AM UTC
+**Search Query:** "No change in Bank of England’s interest rates after April 2026 meeting?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-Futures and Reuters polls place the next likely rate move in June rather than April, supporting the ~80% chance of no change. Minority views for an April cut appear already priced in, so there’s no clear mispricing.
+The market’s ~64.5% “no change” probability reasonably balances internal dovish forecasts and data-driven signals for cuts against BoE caution and credibility concerns. There’s moderate evidence that a cut is more likely than markets price, but not convincingly mispriced.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market pays out if the Bank of England leaves its policy rate unchanged at its April 30, 2026 MPC statement. Any active change—even a 12.5 bps move rounded up to 25 bps—would push the market into a “change” bracket and cause this contract to lose.
+Here is a structured, deeply researched analysis of the prediction market on whether the Bank of England (BoE) will make "No change" to its interest rates at the April 2026 meeting:
 
-2. EVIDENCE EVALUATION  
-• Bearish (cut) signals:  
-  – Reuters poll (Feb 16) shows 60% odds of a March cut and divides opinion on a second cut in April vs later. Some economists flag April as the next cut.  
-  – A “genuinely open” decision in March suggests the Committee isn’t firmly ruling out another cut soon.  
-• Bullish (no cut) signals:  
-  – Morningstar (Feb 10) says futures assign only a 65% chance of a March cut and point to the next cut in June, implying low odds of cutting in April.  
-  – Swaps markets imply just one cut in 2026 (to 3.50%), consistent with March only.  
-  – No new data or shocks between now and April are flagged by the BoE’s own calendar or reports.  
-Credibility & recency: Both Reuters and Morningstar updates are from mid‐February, highly relevant to market expectations. The BoE’s own April report isn’t due until April 30.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-At $168 traded and a 5¢ spread, this is thin but not empty. The ~78.5% price aligns with futures and poll consensus, suggesting informed participants have already priced in the majority scenario. The low volume likely reflects that most FX and rates desks hedge this risk elsewhere; they aren’t neglecting it.
+**1. CONTEXT ANALYSIS**
 
-4. MISPRICING ASSESSMENT  
-No strong evidence of a >20¢ mispricing. The minority view for an April cut is already reflected in the ~21.5% “change” probability. There’s no recent data or credible forecast suggesting a sudden pivot before April that the market has missed.
+- **Market Question**: Will the BoE keep its Bank Rate unchanged at its April 2026 Monetary Policy Committee (MPC) meeting?
+- **Resolution Logic**: A “YES” outcome requires *no change* in the upper bound Bank Rate versus its level prior to that meeting (which is currently 3.75%). If the BoE increases or decreases the rate—even by a small amount (e.g., 12.5 bps)—it would resolve as "NO," possibly rounding to the nearest 25 bps bracket.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20%  
-Magnitude of mispricing if real: ~10¢  
-Expected value ≈ 20% × 10¢ = 2¢
+---
 
-EXPECTED_VALUE: 2  
-SUMMARY: Futures and Reuters polls place the next likely rate move in June rather than April, supporting the ~80% chance of no change. Minority views for an April cut appear already priced in, so there’s no clear mispricing.  
+**2. EVIDENCE EVALUATION**
+
+**Evidence suggesting the market price may be incorrect (i.e., cut is likely → mispricing)**
+
+- The Bank’s February 2026 Monetary Policy Report notes that inflation is expected to fall back to the 2% target starting in April, supporting further easing. Internal guidance also states that further reductions are “likely.” ([bankofengland.co.uk](https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/february/monetary-policy-report-february-2026.pdf?utm_source=openai))  
+- ING and other economists interpret the narrow 5–4 hold vote at the February meeting as a strong signal that a cut in March or April is imminent. ING forecasts inflation falling to 1.8% in April and expects two more cuts in 2026, taking the rate down to 3.25%. ([poundsterlinglive.com](https://www.poundsterlinglive.com/economics/22911-bank-of-england-two-more-cuts-now-predicted?utm_source=openai))  
+- Media coverage (Sky News) echoes that further rate cuts are "likely," and the April inflation return to target was moved earlier than anticipated. ([news.sky.com](https://news.sky.com/story/money-latest-consumer-personal-finance-blog-sky-news-13040934?utm_source=openai))  
+- Market commentary from MUFG highlights a dovish hold opening the door to a March cut, and maintains a terminal rate forecast of 3.25%. ([mufgresearch.com](https://www.mufgresearch.com/fx/fx-focus-fx-focus-boe-review-gbp-hit-by-dovish-hold-leaving-march-in-play-5-february-2026/?utm_source=openai))  
+- AP News reports inflation falling to a 10‑month low (3% in January) and that the BoE had forecast inflation hitting target by April—reinforcing markets’ expectations for a March cut, making a hold in April less likely. ([apnews.com](https://apnews.com/article/ccdec7a573af2a0a837fa52bbe02fcaf?utm_source=openai))  
+
+**Evidence supporting the current market price (i.e., hold is reasonable)**
+
+- At the February 2026 meeting, the BoE maintained rates at 3.75% by a narrow 5–4 vote, showing leadership caution. Four members voted for a cut, but the BoE chose the status quo, indicating that timing of easing remains data-dependent. ([bankofengland.co.uk](https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/february/monetary-policy-report-february-2026.pdf?utm_source=openai))  
+- Governor Andrew Bailey emphasized risks of cutting too quickly and the importance of credibility and avoiding policy reversal, suggesting cautious pacing. ([bankofengland.co.uk](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/february-2026?utm_source=openai))  
+- Moneyfacts and other commentators note geopolitical risks (e.g., Middle East conflicts) could delay cuts, prompting lenders to hold off on adjusting products. ([moneyweek.com](https://moneyweek.com/personal-finance/mortgages/latest-UK-mortgage-rates?utm_source=openai))  
+
+**Source credibility and recency**
+
+- Primary sources: Bank of England's own February 2026 Monetary Policy Report and Minutes—very high credibility and recent (February 2026) ([bankofengland.co.uk](https://www.bankofengland.co.uk/-/media/boe/files/monetary-policy-report/2026/february/monetary-policy-report-february-2026.pdf?utm_source=openai))  
+- Reputable financial institutions (ING, MUFG) and mainstream news outlets (Sky News, AP) provide credible and timely commentary from early March 2026 ([poundsterlinglive.com](https://www.poundsterlinglive.com/economics/22911-bank-of-england-two-more-cuts-now-predicted?utm_source=openai))  
+- Geopolitical risk narratives (Moneyfacts) add context but are less central to monetary forecasting ([moneyweek.com](https://moneyweek.com/personal-finance/mortgages/latest-UK-mortgage-rates?utm_source=openai))  
+
+**Bullish vs. bearish view summary**
+
+- **Bullish for stay (current price justified)**: Voting split, caution on credibility, geopolitical risks.
+- **Bearish (expect cut, hence mispriced)**: Inflation trajectory, internal BoE forecasts, market re-pricing, narrow hold vote as dovish signal.
+
+Notably, if it were so obvious that a cut will occur, markets would likely price significantly lower probability for “no change.” The fact that the market still places ~64.5% on "no change" suggests remaining uncertainty or other risk premiums.
+
+---
+
+**3. MARKET EFFICIENCY ANALYSIS**
+
+- **Possible rationale for current price**: The 64.5% suggests a modest but not overwhelming tilt toward no change. This reflects a belief in cautious pacing from the BoE, while acknowledging mounting signals for a cut.
+- **Consensus vs. concentrated traders**: Given low volume and tight spread, this pricing could reflect either broad but cautious consensus or activity by a few informed participants anticipating caution.
+- **Why low volume?** The outcome might be seen as somewhat obvious given recent guidance, so few traders may have interest, or alternatively, complexity and timing uncertainty makes engagement hesitant.
+- **Informed traders' behavior**: Those expecting a cut may be waiting on March data (e.g., inflation and wage indicators) before positioning, reducing immediate volume.
+
+---
+
+**4. MISPRICING ASSESSMENT**
+
+Weighing all evidence:
+- Strong signals for cuts: internal forecasts, inflation trajectory, narrow February vote suggest cuts are likely.
+- Strong signals for hold: caution about credibility, governance risk, geopolitical inflation risk.
+
+Conclusion: The probability of a cut appears materially higher than zero, but not certain, and the current 64.5% hold probability is defensible given uncertainty. No specific credible information appears systematically missing from market pricing; the pricing seems to reasonably balance dovish signals with caution.
+
+---
+
+**5. EXPECTED VALUE CALCULATION**
+
+- Strength of evidence: Moderate—well-informed but not conclusive. I’d rate ~60%.
+- Magnitude of mispricing: If real, perhaps a 10–15 cent mispricing (i.e., market underpricing chance of cut by ~10–15%). Given evidence, I'd estimate 10 cents best guess.
+- Expected Value = 60% * 10 cents = 6 cents.
+
+---
+
+EXPECTED_VALUE: 6  
+SUMMARY: The market’s ~64.5% “no change” probability reasonably balances internal dovish forecasts and data-driven signals for cuts against BoE caution and credibility concerns. There’s moderate evidence that a cut is more likely than markets price, but not convincingly mispriced.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Monetary Policy Report - April 2026 (to be published at 12pm) | Bank of England
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.bankofengland.co.uk/monetary-policy-report/2026/may-2026
-Summary: The Monetary Policy Report for April 2026 will be published on April 30, 2026. This report, published by the Bank of England, outlines the economic analysis and inflation projections used by the Monetary Policy Committee to make interest rate decisions. This information could be relevant to predicting whether there will be a change in the Bank of England's interest rates after the April 2026 meeting.
+### [Monetary Policy Report – February 2026](https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026)
+**Author:** Bank of England | **Published:** 2026-02-05
 
+Documents the 5–4 hold vote at the February MPC meeting while forecasting inflation returning to 2% in April and noting that further reductions to Bank Rate are “likely.” These insights suggest that market participants should consider the likelihood of future rate cuts, which affects the probability of no change in April.
 
-Title: Bank of England to cut rates in March, timing of further cuts unclear: Reuters poll  | Reuters
-Author: Devayani Sathyan
-Published Date: 2026-02-16T00:00:00.000Z
-URL: http://mobile.reuters.com/business/bank-england-cut-rates-march-timing-further-cuts-unclear-2026-02-16/
-Summary: A Reuters poll indicates the Bank of England is expected to cut interest rates in March. Over 60% of economists predict a 25 basis point cut to 3.50% on March 19. While a second cut is anticipated later in the year, the timing is uncertain. Some economists predict a cut in April, coinciding with the bank's Monetary Policy Review month. However, there's division on whether a second cut will occur in Q2 or later, with some economists expecting rates to remain unchanged at 3.75%. Inflation risks and the BoE's inflation projections for 2026 could influence the decision.
+### [BoE overview from ING (“Bank of England: Two More Cuts Now Predicted”)](https://www.poundsterlinglive.com/economics/22911-bank-of-england-two-more-cuts-now-predicted)
+**Author:** Gary Howes | **Published:** 2026-02-05
 
+Analyzes the narrow hold vote, forecasts inflation dipping to 1.8% in April, and anticipates two additional cuts aimed at reaching a terminal rate of 3.25%. This supports the view that “no change” is less likely.
 
-Title: Markets Bet on March Rate Cut as BoE Governor Focuses on 'Good ...
-Author: James Gard
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://global.morningstar.com/en-gb/economy/markets-bet-march-rate-cut-boe-governor-focuses-good-news
-Summary: The Bank of England held interest rates steady at 3.75% in its February 6th meeting. While the governor didn't commit to a specific interest rate path, he ruled out imminent rate rises. Futures markets currently predict a 65% chance of a rate cut in March, with the next cut likely in June. Swaps markets predict only one interest rate cut in 2026, bringing the bank rate down to 3.5%. The governor stated there is uncertainty about the terminal rate, but swaps markets imply interest rates will be 50 basis points lower by the end of 2026.
+### [“Bank of England expected to hold rates this quarter and resume cutting early 2026: Reuters Poll”](https://uk.finance.yahoo.com/news/bank-england-hold-rates-quarter-103858786.html)
+**Author:** Indradip Ghosh (Reuters) | **Published:** 2025-10-28
 
+Historical polling shows consistency in expectations to hold before early easing in 2026, providing context that markets routinely anticipate holds followed by cuts, reinforcing that current pricing is not unreasonable.
 
-Title: When will interest rates fall? Forecasts for a base rate cut
-Author: Ed Magnus
-Published Date: 2026-02-24T14:54:08.107Z
-URL: https://www.thisismoney.co.uk/money/mortgageshome/article-11885727/When-rates-start-fall-Base-rate-forecasts.html
-Summary: I am sorry, but the provided text does not contain any information about the Bank of England's interest rate decisions or forecasts beyond April 2025. Therefore, I cannot provide any information relevant to predicting the outcome of the April 2026 meeting.
+### [Moneyfacts commentary (“Will mortgage rates fall this year?”)](https://moneyweek.com/personal-finance/mortgages/latest-uk-mortgage-rates)
+**Author:** Adam French / Stephanie Charman | **Published:** 2026-03-06
 
+Suggests geopolitical risks may delay rate cuts and influence lenders’ decisions, offering a counterpoint that supports holding rates in April, reinforcing market caution.
 
-Title: Will The Bank Of England Cut Interest Rates On 19 March 2026?
-URL: https://hoa.org.uk/news/interest-rate-predictions-2/
-Summary: The provided text offers insights into the Bank of England's potential interest rate decisions, which could be relevant to predicting the outcome of the April 2026 meeting. Key points include:
+### [MUFG FX Focus – “BoE Review: GBP hit by dovish hold leaving March in play”](https://www.mufgresearch.com/fx/fx-focus-fx-focus-boe-review-gbp-hit-by-dovish-hold-leaving-march-in-play-5-february-2026/)
+**Author:** Henry Cook, Lee Hardman | **Published:** 2026-02-05
 
-*   **Ongoing Disinflation:** While progress is being made, it's not as rapid as hoped, suggesting a cautious approach.
-*   **Inflation Target:** The Bank is committed to bringing inflation down to 2%, and may hold rates longer to achieve this.
-*   **Potential for Easing:** There is a possibility of further interest rate cuts this year.
-*   **Open Question:** The decision on the next meeting is "genuinely open."
-
-
-
+Describes the dovish tone from the narrow hold and sees a high likelihood of a March cut, supporting the probability that April will see a change rather than a hold.

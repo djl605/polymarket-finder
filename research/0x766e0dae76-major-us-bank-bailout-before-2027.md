@@ -1,87 +1,110 @@
 # Research: Major U.S. bank bailout before 2027?
 
 **Market ID:** 0x766e0dae76c4c67969a1634fb9deefcaab494577d821f911cffef00870ac47c3
-**Researched At:** March 4, 2026 at 04:15:00 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Major U.S. bank bailout before 2027?"
+**Researched At:** March 12, 2026 at 04:13:21 AM UTC
+**Search Query:** "Major U.S. bank bailout before 2027?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.8¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Current research points to systemic vulnerabilities but also strong regulatory and political incentives to use targeted, non-bailout interventions, supporting the ~25% probability. No credible evidence of a large mispricing emerges.
+The evidence indicates modest tail‑risk of a major U.S. bank bailout by end‑2026 (~11–25%), with no clear new information suggesting a large mispricing. The current market price of 27% appears reasonable given these uncertainties, yielding limited expected value from arbitrage.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the U.S. federal government will publicly undertake a solvency‐related support action (Fed emergency facility, FDIC bridge bank, Treasury capital injection, or regulatory-facilitated acquisition) for any bank with ≥\$50 billion in assets as of Nov 11, 2025, by Dec 31, 2026. “Yes” requires a formal announcement of one of those interventions; routine liquidity operations (discount window, BTFP), private acquisitions, or bail-ins do not count.
+I couldn't find any direct mainstream news articles (from outlets like the Federal Reserve, SIEPR, or S&P Global) that speak explicitly to the probability of a major U.S. bank—defined as having more than $50 billion in assets—receiving a bailout before the end of 2026. However, several sources provide relevant context that can inform our judgment.
 
-2. EVIDENCE EVALUATION  
-Bullish for bailout (suggests price too low):  
-• Video on Metropolitan Capital Bank failure flags systemic vulnerabilities in CRE and banking, implying more severe distress could trigger a bailout.  
-• History of large-scale bailouts (2008) shows precedent when contagion risk is high.  
+---
 
-Bearish for bailout (supports ~25%):  
-• ITM’s own analysis emphasizes bail-ins over bailouts, signaling regulators may avoid explicit bailouts.  
-• Bipartisan Congressional push focuses on preventive measures (expanding deposit insurance, liquidity support) to avert the need for systemic bailouts.  
-• FDIC political debate about assessments doesn’t indicate an imminent major bailout but rather cost-recovery mechanisms.  
-• No major bank >\$50 billion has yet announced distress interventions that fit the criteria, and regulators appear keen to manage failures without large bailouts.  
+**1. CONTEXT ANALYSIS**  
+The market question asks: *Will a U.S. bank with assets exceeding $50 billion (as of November 11, 2025) receive a bailout by December 31, 2026?*  
+For a "Yes" resolution, one of the following must occur, publicly announced by the U.S. government:  
+- A Federal Reserve emergency lending facility specific to that bank;  
+- An FDIC-assisted resolution or bridge bank;  
+- A U.S. Treasury capital injection;  
+- A regulatory-facilitated, publicly disclosed acquisition.  
+Routine support mechanisms (e.g., discount window, BTFP), stress testing, or private acquisitions without public intervention do **not** qualify.
 
-All sources are from early 2026 and credible (Congressional release, FDIC/Washington coverage), though the YouTube video is somewhat alarmist. The clear, recently publicized interventions (e.g., BTFP) do not qualify, so the market likely has already ruled them out.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 25% probability reflects consensus that a large systemic shock sufficient to force a formal bailout is possible but not probable, given current regulatory posture. The tight 4¢ spread suggests at least two-sided engagement; low volume may reflect that traders broadly agree on the midpoint. There is no sign that a lone trader is pushing an extreme view.
+**2. EVIDENCE EVALUATION**
 
-4. MISPRICING ASSESSMENT  
-No specific, credible evidence suggests a large (>20¢) mispricing. Both the chance of a triggering event and regulatory reluctance to employ overt bailouts are already well known. Any mispricing, if present, likely lies within a few cents.
+Bullish evidence for bailout risk:  
+- **Fragility and unrealized asset losses**: A Stanford Institute analysis notes that U.S. banking system assets are valued at approximately $2.2 trillion less than book value, heightening vulnerability to runs and solvency shocks ([siepr.stanford.edu](https://siepr.stanford.edu/publications/policy-brief/fragile-why-more-us-banks-are-risk-run?utm_source=openai)).  
+- **Conditional liquidity crisis risk**: The Swift Centre’s forecasters estimate an ~11% base chance of a major U.S. bank experiencing a liquidity crisis by end‑2027, which doubles to ~25% if commercial real estate values drop sharply ([swiftcentre.org](https://www.swiftcentre.org/publicforecasts/banking-on-stabilitynbsp?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: 15%  
-Magnitude of plausible mispricing: 5¢  
-Expected value = 0.15 × 5¢ = 0.75¢
+Bearish evidence supporting the current market price:  
+- **Lower bailout expectations**: A 2025 academic study shows that markets imply an ~87% likelihood that GSIBs would still be bailed out if insolvent—but this implies only ~13% probability of *no* bailout ([aeaweb.org](https://www.aeaweb.org/research/chart/too-big-to-fail-decline?utm_source=openai)).  
+- **Regulatory preparation and buffers**: S&P Global reports that banks maintain favorable earnings and increased reserves, which could mitigate outright rescue needs ([spglobal.com](https://www.spglobal.com/market-intelligence/en/news-insights/research/us-banks-maintain-favorable-earnings-while-confronting-economic-uncertainty?utm_source=openai)).  
+- **Stress-testing results**: The 2025 Federal Reserve stress tests project significant loan losses under a severely adverse scenario, but banks generally remain capitalized and resilient ([federalreserve.gov](https://www.federalreserve.gov/publications/2025-june-dodd-frank-act-stress-test-results.htm?utm_source=openai)).
 
-EXPECTED_VALUE: 0.8  
-SUMMARY: Current research points to systemic vulnerabilities but also strong regulatory and political incentives to use targeted, non-bailout interventions, supporting the ~25% probability. No credible evidence of a large mispricing emerges.  
+Credibility assessment:  
+- SIEPR and the Federal Reserve are highly reliable and recent.  
+- The Swift Centre and AEA (American Economic Review) are credible academic/analysis sources.  
+- S&P Global is a trusted financial-research firm.  
+- All sources are within the past year or two.
+
+---
+
+**3. MARKET EFFICIENCY ANALYSIS**  
+At a current probability of 27% with a tight spread and zero volume:  
+- The price may reflect cautious consensus—that while a bailout is not imminent, systemic shock risks are non-negligible.  
+- Low volume might indicate that informed traders are conflicted, not convinced enough to commit capital, or believe price fairly encapsulates the ambiguity.  
+- Alternatively, the price could stem from a single informed trader detecting a small but real tail-risk spread across plausible distress channels (e.g., commercial real estate, uninsured deposit runs, policy shifts).
+
+---
+
+**4. MISPRICING ASSESSMENT**  
+- No concrete new event—such as deteriorating bank fundamentals or emergent sector stress—that hasn't likely already been baked into market thinking.  
+- Predicted probabilities from forecasters (~11–25%) suggest some alignment. The current market price at 27% sits just above these estimates—not an obvious mispricing.  
+- Given the narrow scope (only banks > $50 B) and the resolution window, this seems plausible.  
+- Without any unpriced developments, claiming a >20¢ mispricing isn’t justified.
+
+---
+
+**5. EXPECTED VALUE CALCULATION**  
+- **Strength of evidence**: Moderate (50%). Sources are credible but not directly predictive.  
+- **Magnitude of mispricing**: Small (~3 cents), given general alignment of estimates.  
+- **Expected value**: 50% of 3¢ = **1.5¢**
+
+---
+
+EXPECTED_VALUE: 1.5  
+SUMMARY: The evidence indicates modest tail‑risk of a major U.S. bank bailout by end‑2026 (~11–25%), with no clear new information suggesting a large mispricing. The current market price of 27% appears reasonable given these uncertainties, yielding limited expected value from arbitrage.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: FIRST BANK FAILURE OF 2026: This Is How It Starts - YouTube
-Author: ITM TRADING, INC.
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://www.youtube.com/watch?v=tarJIiNQkZM
-Summary: The YouTube video discusses the first bank failure of 2026—Chicago's Metropolitan Capital Bank & Trust—highlighting signs of systemic financial instability such as "unsafe and unsound conditions" and impaired capital. The failure signals broader risks within the U.S. banking system, including potential widespread bank collapses, risks in commercial real estate, and the ongoing "extend and pretend" strategies delaying inevitable defaults. The video emphasizes that such failures could lead to bank bail-ins (where depositors' funds are used to stabilize banks) rather than bailouts, raising concerns about deposit safety. It also underscores the importance of physical gold and silver as a hedge against systemic collapse and currency devaluation. Given these indicators, there is a warning that a major U.S. bank bailout before 2027 is uncertain; systemic vulnerabilities suggest the possibility of more bank failures and financial instability, potentially leading to bail-ins rather than government bailouts.
+### [Fragile: Why more US banks are at risk of a run | Stanford Institute for Economic Policy Research (SIEPR)](https://siepr.stanford.edu/publications/policy-brief/fragile-why-more-us-banks-are-risk-run)
+**Author:** Unknown | **Published:** Unknown (recent)
 
-Title: RELEASE: Members of Congress Urge U.S. Financial Regulators and Treasury Department to Act Swiftly After Silicon Valley Bank Collapse
-Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://gottheimer.house.gov/posts/release-members-of-congress-urge-u-s-financial-regulators-and-treasury-department-to-act-swiftly-after-silicon-valley-bank-collapse
-Summary: Members of Congress have urgently called on U.S. financial regulators and the Treasury Department to take swift action following the collapse of Silicon Valley Bank (SVB). In a bipartisan letter, they recommend measures such as prioritizing a sale of SVB to protect depositors, encouraging banks with relationships to SVB’s depositors to extend short-term credit, and providing liquidity through repurchase agreements to ensure banks can meet withdrawal demands. They also suggest increasing the FDIC deposit insurance limit above $250,000 and implementing additional oversight to ensure banks maintain adequate liquidity during stress events. These steps aim to prevent bank runs, protect depositors, and avoid a systemic crisis similar to the 2008 financial meltdown, emphasizing that the U.S. should avoid a scenario where banks are "too small to succeed." This proactive approach indicates a focus on preventing the need for future major bank bailouts before 2027.
+The analysis finds the U.S. banking system’s market asset value is $2.2 trillion lower than stated on books, increasing vulnerability to depositor runs and insolvency. This suggests underlying fragility and potential for distress-driven bailouts, supporting some risk even if not decisive.
 
-Title: FDIC Pressed to Exempt Smaller Banks From Paying for Rescues at SVB, Signature
-Author: Steven T. Dennis
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://borsen.dk/nyheder/prointernational/politics/article3318046.ece
-Summary: The FDIC is currently under political pressure to exempt smaller community banks from paying the special assessments being levied to cover the costs of recent bank rescues, notably Silicon Valley Bank and Signature Bank. Following these failures, the FDIC faces an estimated $22.5 billion impact on its deposit insurance fund. While the FDIC is legally required to impose assessments on banks to recover these costs, Chair Martin Gruenberg indicated they have discretion to tailor these charges, with a focus on minimizing impact on smaller institutions. This ongoing debate and the potential for targeted exemptions suggest that future bank rescues or bailouts—especially involving smaller or regional banks—may be influenced by political and regulatory decisions, potentially affecting the likelihood and nature of major U.S. bank interventions before 2027.
+### [Banking on stability? — Swift Centre](https://www.swiftcentre.org/publicforecasts/banking-on-stabilitynbsp)
+**Author:** Eleanor Parr | **Published:** 2025‑08‑28
 
-Title: CMV: The Economy Will Crash by Early 2026 with Social Service ...
-Author: brainser
-Published Date: 2025-02-27T00:00:00.000Z
-URL: https://www.reddit.com/r/changemyview/comments/1izmtuc/cmv_the_economy_will_crash_by_early_2026_with/
-Summary: The webpage discusses the potential for a significant U.S. economic crash by early 2026, driven by social service cuts, financial instability, and rising debt. It highlights that cuts to programs like Medicaid, Medicare, and Social Security could severely reduce consumer spending, which constitutes about 70% of the economy, leading to widespread economic contraction. The report also points to existing vulnerabilities such as inflated stock market valuations, increasing corporate defaults, looming commercial real estate crises, and regional bank failures, partly exacerbated by high interest rates and deregulation. These factors suggest a fragile financial system that could necessitate a major bank bailout before 2027 if defaults and credit crunches escalate.
+Forecasters estimate an 11% base chance of a major U.S. bank experiencing a liquidity crisis by the end of 2027; if commercial office values drop 35%, risk doubles to ~25%. This conditional tail-risk supports elevated but not dominant expectations of systemic distress justifying the current market pricing.
 
-Title: A History of U.S. Government Financial Bailouts (2026)
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://custommapposter.com/article/a-history-of-u-s-government-financial-bailouts/1781
-Summary: The most significant U.S. bank bailout before 2027 was during the 2008 financial crisis, often called the Great Recession. Key events include the collapse of Lehman Brothers, the rescue of Bear Stearns, and the bailout of American International Group (AIG). The government intervened extensively to stabilize the financial system, with the Troubled Assets Relief Program (TARP) providing over $700 billion to support banks and financial institutions. Notably, the bailout of Bear Stearns in 2008 involved a government-assisted sale to JPMorgan Chase, and AIG received a massive rescue package due to its critical role in the global financial system. These interventions marked the largest and most impactful bank bailouts in U.S. history prior to 2027.
+### [“Too big to fail” probability declines after 2008 reforms (American Economic Review)](https://www.aeaweb.org/research/chart/too-big-to-fail-decline)
+**Author:** Berndt et al. | **Published:** 2025‑03
 
+Academic research indicates post‑2008 regulatory changes have raised the perceived “no‑bailout” probability to ~10–20%, implying ~80–90% expected government rescue for GSIBs—meaning market still sees strong safety‑net bias, which moderates the apparent risk reflected in the current market price.
 
+### [US banks maintain favorable earnings while confronting economic uncertainty | S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/research/us-banks-maintain-favorable-earnings-while-confronting-economic-uncertainty)
+**Author:** Zain Tariq and Nathan Stovall | **Published:** 2025‑07‑25
+
+Banks are showing strong earnings and strengthened reserves (1.75% of loans), suggesting robustness; credit worries are manageable headwinds. This buttresses the view that upfront, ex‑ante expectations of bailouts may be overestimated, aligning with current pricing.
+
+### [2025 Dodd‑Frank Act Stress‑Test Results (Federal Reserve)](https://www.federalreserve.gov/publications/2025-june-dodd-frank-act-stress-test-results.htm)
+**Author:** Federal Reserve | **Published:** 2025‑mid‑year
+
+Under severely adverse scenarios through 2027, major banks face substantial losses but remain generally capitalized. This suggests that while stress exposure exists, outright failure requiring bailout is not the baseline expectation, supporting the current moderate market probability.

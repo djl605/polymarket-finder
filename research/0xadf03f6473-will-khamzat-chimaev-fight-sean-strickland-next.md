@@ -1,87 +1,121 @@
 # Research: Will Khamzat Chimaev fight Sean Strickland next?
 
 **Market ID:** 0xadf03f647373c255cbb009290f824eea57cf6ac46b06e6fb835f1da3bddb8b48
-**Researched At:** March 2, 2026 at 04:24:26 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Khamzat Chimaev fight Sean Strickland next?"
+**Researched At:** March 12, 2026 at 04:15:05 AM UTC
+**Search Query:** "Will Khamzat Chimaev fight Sean Strickland next?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 6.0¢
 
 ### Summary
 
-Despite strong public callouts and narrative support for a Strickland–Chimaev matchup, no official UFC announcement exists and scheduling uncertainties persist. This likely leaves only a small overpricing (≈10 cents) if any.
+While credible insiders suggest Strickland is a leading candidate for Chimaev’s next opponent, there is no official announcement yet. The market’s ~72% price seems reasonable and not strongly mispriced given available information.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will UFC officially announce Khamzat Chimaev as Sean Strickland’s next opponent (with a date) before year-end 2026?”  
-YES if the UFC formally schedules Strickland vs. Chimaev as Strickland’s next bout; NO/Other if Strickland is officially announced to face someone else or no qualifying announcement occurs by Dec 31, 2026.
+Below is a thorough and structured evaluation based on current information (as of March 12, 2026) about the prediction market: “Will Khamzat Chimaev fight Sean Strickland next?” (currently trading at ~72% yes, low volume, tight spread).
 
-2. EVIDENCE EVALUATION  
-Bullish (supporting 85%):  
-- Multiple reputable MMA insiders (Daniel Cormier, Eric Nicksick) publicly call for Strickland vs. Chimaev next, highlighting strong fan interest and narrative.  
-- Strickland’s recent performance (knockout win at Fight Night 267) and previous title credentials make him the logical next challenger to champion Chimaev.  
+---
 
-Bearish (undermining 85%):  
-- No official UFC announcement yet (the strict resolution criterion). All sources are speculative callouts, not booking notices.  
-- Chimaev has fought only once a year; scheduling may favor other contenders or a different matchup first.  
-- UFC sometimes puts interim or contender bouts before title fights—Strickland could get a stay-busy fight or face a different top-5 opponent.  
+## 1. CONTEXT ANALYSIS  
+The market asks whether *the next official UFC announcement* regarding Sean Strickland's upcoming opponent will be Khamzat Chimaev ("Yes") versus someone else or no announcement by December 31, 2026 ("No"/"Other").  
+- "Yes" requires an **official UFC announcement** naming Chimaev as Strickland’s next opponent and giving a scheduled date—regardless of whether the fight ultimately happens.  
+- "No" occurs if the next announcement is a different opponent, or Strickland remains unbooked through end of 2026.
 
-All sources are recent (Feb 2026) and credible MMA journalism; but none crosses the threshold of an official announcement. The bullish signals may already be priced in; the bearish counterpoints introduce genuine scheduling uncertainty.  
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-A rational trader could read the same callouts and rate the implied probability high (70–80%), especially in a low-volume market where enthusiastic fans set the price. Alternatively, few traders may be driving the contract higher without factoring in logistical/scheduling risks. Low volume suggests both a consensus view and limited engagement from contrarians.
+## 2. EVIDENCE EVALUATION  
 
-4. MISPRICING ASSESSMENT  
-The bullish case is strong qualitatively but lacks any booking confirmation. There’s realistic uncertainty over UFC’s scheduling priorities and Strickland’s activity window. An 85% probability implies near certainty, yet even optimistic industry voices stop short of an official announcement. This suggests a modest overpricing (10–15 cents), not a >20 cent gap, since the core narrative is sound.
+### Evidence suggesting market price might be incorrect (i.e., that Chimaev is likely next):
+- Strickland’s head coach, Eric Nicksick, recently said post-Houston win (Feb 21, 2026), “Chimaev should be next” for Strickland ([mmafighting.com](https://www.mmafighting.com/ufc/473479/sean-stricklands-head-coach-believes-khamzat-chimaev-should-be-next-after-ufc-houston-we-got-style-points/?utm_source=openai)).  
+- Chimaev’s coach views a three-man race for the next title shot: Imavov, Hernandez, and Strickland ([sports.yahoo.com](https://sports.yahoo.com/articles/khamzat-chimaev-coach-sees-3-180000347.html?utm_source=openai)).  
+- MMA media figure Brendan Schaub advocated for Strickland as next challenger, citing his star power and recent win ([wrestlinginc.com](https://www.wrestlinginc.com/2114106/ufc-khamzat-chimaev-brendan-schaub-sean-strickland-middleweight-title/?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20% (speculation vs. booking).  
-Magnitude of mispricing if any: ~10 cents.  
-Expected value ≈ 20% × 10 cents = 2 cents.
+These indicate credible insider support and public sentiment favoring Strickland as a top candidate for Chimaev’s next fight.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Despite strong public callouts and narrative support for a Strickland–Chimaev matchup, no official UFC announcement exists and scheduling uncertainties persist. This likely leaves only a small overpricing (≈10 cents) if any.  
-CONFIDENCE: low
+### Evidence supporting that the market price is reasonable or that “No” might be correct:
+- There has been **no official UFC announcement** linking Chimaev vs. Strickland—no date, no confirmation. The only officially scheduled bout for Strickland is versus Anthony Hernandez on Feb 21, 2026 (completed) ([ufc.com](https://www.ufc.com/athlete/sean-strickland?utm_source=openai)).  
+- Chimaev is currently champion since UFC 319 (Aug 16, 2025), but his activity is uncertain due to Ramadan (Feb 18–Mar 20, 2026) and scheduling for a potential June White House event ([sports.yahoo.com](https://sports.yahoo.com/articles/khamzat-chimaev-coach-sees-3-180000347.html?utm_source=openai)).  
+- Strickland himself predicted Chimaev may be sidelined for over a year post-next title defense, suggesting inactivity could delay any matchup ([nationaltoday.com](https://nationaltoday.com/us/tx/houston/news/2026/02/23/strickland-predicts-chimaev-will-sit-out-a-year-after-next-fight/?utm_source=openai)).  
+- MMA journalists: no published reports indicate an imminent announcement of Chimaev vs. Strickland.
+
+### Credibility and recency:
+- Sources are recent (within past few weeks) and originate from reputable outlets: MMA Fighting, Yahoo Sports, official UFC site.  
+- Commentary from coaches and analysts is expert opinion, not official confirmation.
+
+### Bullish vs Bearish:
+- **Bullish (Yes)**: coach endorsements, pundit support, Strickland’s rise in contention.
+- **Bearish (No)**: no booking, Chimaev’s limited schedule, uncertainty in division, prior reservations from Strickland about Chimaev’s inactivity.
+
+Importantly, if it were obvious, the market might already reflect near certainty or there’d be an official announcement.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS  
+
+- **Reasonable interpretation of 72%**: reflects informed speculation that Strickland is a leading candidate for Chimaev’s next fight—but acknowledging significant uncertainty due to Chimaev’s inactivity and lack of booking.  
+- **Consensus vs few voices**: Low volume suggests a few confident traders might be pushing prices, potentially based on coach comments, but these are not official announcements.  
+- **Low volume roots**: Likely because there's no official news yet—traders may be hesitant, reflecting ambiguity and a wait-and-see approach by UFC.
+
+---
+
+## 4. MISPRICING ASSESSMENT  
+- Is there **specific, credible information** missing? We have coach remarks and pundit commentary, but **no official UFC confirmation**. That lack is crucial for resolution.  
+- The market price (72¢) reasonably balances between coach expectations and absence of booking.  
+- A large mispricing (>20¢) seems unlikely given this balanced state.  
+- Most charitable interpretation: informed traders anticipate a Strickland–Chimaev matchup post-Hernandez, but recognize logistical, scheduling, and organizational uncertainty.
+
+Thus, while speculative, the market price seems plausible—there’s **no compelling evidence** of substantial mispricing.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION  
+- **Strength of evidence**: Moderate–high (coach statements, media commentary). Let’s assign ~60%.  
+- **Magnitude of mispricing**: We estimate any mispricing would be modest, maybe ~10 cents at most (since 72% seems reasonable).  
+- Expected value = 60% × 10¢ ≈ 6¢.
+
+---
+
+## 6. CONFIDENCE  
+- My confidence in this assessment is **medium** —based on available credible sources and balanced analysis, though uncertainty remains until the UFC announces.
+
+---
+
+EXPECTED_VALUE: 6  
+SUMMARY: While credible insiders suggest Strickland is a leading candidate for Chimaev’s next opponent, there is no official announcement yet. The market’s ~72% price seems reasonable and not strongly mispriced given available information.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Is Sean Strickland vs. Khamzat Chimaev next after UFC Fight Night 267?
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://mmajunkie.usatoday.com/videos/sports/ufc/2026/02/22/is-sean-strickland-vs-khamzat-chimaev-next-after-ufc-fight-night-267/88808579007/
-Summary: After UFC Fight Night 267, Sean Strickland criticized Khamzat Chimaev, labeling him a "bully" who is negatively impacting the division. This statement raises questions about a potential matchup between the two fighters. While there is no official confirmation yet, Strickland's comments suggest a willingness to engage with Chimaev. Observers are speculating that this fight could be next, especially given the ongoing discussions about title shots and rankings in the division. For those predicting whether Chimaev will fight Strickland next, the context of Strickland's post-fight remarks and the current competitive landscape in the UFC are crucial factors to consider.
+### [Sean Strickland’s head coach believes Khamzat Chimaev should be next after UFC Houston: ‘We got style points’](https://www.mmafighting.com/ufc/473479/sean-stricklands-head-coach-believes-khamzat-chimaev-should-be-next-after-ufc-houston-we-got-style-points/)
+**Author:** Mike Heck | **Published:** 2026‑02‑25
 
-Title: Morning Report: Daniel Cormier calls Sean Strickland a ‘difficult’ fight for Khamzat Chimaev | MMA Fighting
-Author: Alexander K. Lee
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.mmafighting.com/ufc/473118/morning-report-daniel-cormier-calls-sean-strickland-a-difficult-fight-for-khamzat-chimaev
-Summary: Daniel Cormier has highlighted Sean Strickland as a challenging opponent for Khamzat Chimaev, especially following Strickland's impressive knockout victory over Anthony Hernandez at UFC Houston. Strickland has expressed a desire to fight Chimaev, citing a personal rivalry stemming from their past sparring sessions. Cormier believes that if Strickland performs at his best, he could pose significant difficulties for Chimaev, who is currently the UFC middleweight champion. Strickland's previous title win against Israel Adesanya and his recent performances suggest he is a formidable contender. Given these dynamics, there is a strong possibility that Chimaev may face Strickland next, especially considering Strickland's callout and the ongoing tension between them.
+Strickland’s head coach Eric Nicksick directly states that Chimaev “should be next” for Strickland following his February 21, 2026 win. This supports bullish speculation that the matchup is being actively considered. Supports plausibility of market's high probability.
 
-Title: UFC Hall of Famer can see Sean Strickland testing Khamzat Chimaev
-Author: Farah Hannoun
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://mmajunkie.usatoday.com/story/sports/ufc/2026/02/23/ufc-houston-daniel-cormier-opinion-prediction-sean-strickland-vs-khamzat-chimaev/88819939007/
-Summary: Daniel Cormier believes Sean Strickland could pose a significant challenge to Khamzat Chimaev if they fight next. After Strickland's impressive victory over Anthony Hernandez at UFC Fight Night 267, where he showcased a strong performance, Cormier noted that if Strickland maintains that level of intensity, he could make the fight difficult for Chimaev. Strickland has publicly called for a title shot against Chimaev, who has been dominant in the middleweight division. Cormier expressed uncertainty about Strickland's ability to defend against Chimaev's grappling but acknowledged that Strickland's recent form suggests he could be a serious contender. Given Strickland's win and his desire for a title shot, there is a possibility that he could be next in line to fight Chimaev.
+### [Khamzat Chimaev’s coach sees 3-man race for next title shot, UFC White House fight possible](https://sports.yahoo.com/articles/khamzat-chimaev-coach-sees-3-180000347.html)
+**Author:** Guilherme Cruz | **Published:** 2026‑02‑19
 
-Title: Sean Strickland’s head coach believes Khamzat Chimaev should be next after UFC Houston: ‘We got style points’ | MMA Fighting
-Author: Mike Heck
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.mmafighting.com/ufc/473479/sean-stricklands-head-coach-believes-khamzat-chimaev-should-be-next-after-ufc-houston-we-got-style-points
-Summary: Sean Strickland's head coach, Eric Nicksick, has expressed a strong belief that Khamzat Chimaev should be the next opponent for Strickland following his recent victory over Anthony Hernandez at UFC Houston. Strickland delivered an impressive performance, showcasing his skills and establishing dominance in the fight, which has led to increased speculation about his next matchup. Nicksick emphasized that Strickland is at his best when he is focused and healthy, suggesting that he is ready for a high-profile fight against Chimaev. The coach's confidence in Strickland's abilities and the context of the recent fight could indicate that a matchup with Chimaev is likely, especially given the momentum Strickland has gained.
+Chimaev’s grappling coach names Imavov, Hernandez, and Strickland as contenders for his next title defense. Also notes Ramadan schedule and potential June event planning, which introduces timing uncertainty impacting booking. This adds nuanced context that tempers immediate expectations.
 
-Title: Sean Strickland: ‘I’m probably the only one that could beat’ Khamzat Chimaev but he only fights ‘once a year’ | MMA Fighting
-Author: Guilherme Cruz
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.mmafighting.com/ufc/471725/sean-strickland-im-probably-the-only-one-that-could-beat-khamzat-chimaev-but-he-only-fights-once-a-year
-Summary: Sean Strickland has expressed doubts about Khamzat Chimaev's activity as the UFC middleweight champion, suggesting that Chimaev only fights once a year and may not be a reliable opponent for a title shot. Strickland is set to fight Anthony Hernandez on February 21, 2026, and is looking to re-establish himself in the title conversation. He criticized Chimaev for not defending his title since winning it in August 2025 and for being reluctant to face other contenders like Nassourdine Imavov. Strickland's comments indicate that he believes Chimaev's inactivity could impact the likelihood of their matchup occurring soon. Overall, while Strickland sees himself as a potential challenger, the uncertainty surrounding Chimaev's fight schedule raises questions about whether he will fight Strickland next.
+### [Brendan Schaub Wants UFC To Book Veteran MW As Khamzat Chimaev's First Title Defense](https://www.wrestlinginc.com/2114106/ufc-khamzat-chimaev-brendan-schaub-sean-strickland-middleweight-title/)
+**Author:** Max Everett | **Published:** 2026‑03‑02
 
+MMA podcaster Brendan Schaub publicly argues for Strickland to be Chimaev’s next challenger, citing marketability and recent performance. Reinforces public narrative favoring the matchup but remains speculative until confirmed.
 
+### [Strickland Predicts Chimaev Will Sit Out a Year After Next Fight](https://nationaltoday.com/us/tx/houston/news/2026/02/23/strickland-predicts-chimaev-will-sit-out-a-year-after-next-fight/)
+**Author:** Unknown | **Published:** 2026‑02‑23
+
+Strickland himself speculates that Chimaev will be inactive for over a year after his next title defense, suggesting potential delays in booking. Supports caution in market pricing and the “No”—or later—scenario.
+
+### [THRILLING MIDDLEWEIGHT BOUT BETWEEN (#3) SEAN STRICKLAND AND (#4) ANTHONY HERNANDEZ HEADLINES UFC RETURN TO HOUSTON](https://www.ufc.com/news/thrilling-middleweight-bout-between-3-sean-strickland-and-4-anthony-hernandez-headlines-ufc)
+**Author:** Unknown | **Published:** 2026‑01‑08
+
+Confirms Strickland’s last fight (Feb 21, 2026) officially booked and completed against Anthony Hernandez, and no further next opponent announced. Establishes current booking status and baseline for the market.

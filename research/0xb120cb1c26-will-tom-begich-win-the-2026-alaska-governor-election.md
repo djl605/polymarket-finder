@@ -1,84 +1,125 @@
 # Research: Will Tom Begich win the 2026 Alaska governor election?
 
 **Market ID:** 0xb120cb1c26ad4568844f8e7ee7a91487d5cf4d246fd40410c1f3d4061bfd3587
-**Researched At:** March 7, 2026 at 02:33:42 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Tom Begich win the 2026 Alaska governor election?"
+**Researched At:** March 12, 2026 at 04:13:08 AM UTC
+**Search Query:** "Will Tom Begich win the 2026 Alaska governor election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.5¢
+**Confidence:** Medium
+**Expected Value:** 5.0¢
 
 ### Summary
 
-There is no Begich-specific polling or modeling in the research, and a 26% chance aligns with Alaska’s GOP tilt and a crowded field. No credible evidence suggests a large mispricing.
+Recent polling gives Begich a lead in both primary and general scenarios, but Alaska’s Republican tilt, ranked-choice complexity, and crowded field justify a cautious ~24.5% market price. There’s modest evidence of undervaluation, but magnitude appears limited.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Tom Begich win the 2026 Alaska gubernatorial election?” It resolves YES if he is officially certified (or called by AP, Fox, NBC) as the victor. It resolves NO if any other candidate wins or if the race isn’t called by all three major outlets by 7/31/27.
+Here is a detailed, objective evaluation following your structured guidance. I have conducted fresh web searches to gather relevant, up-to-date evidence regarding Tom Begich’s prospects in the 2026 Alaska gubernatorial election and whether the current market pricing (~24.5%) shows signs of mispricing.
 
-2. EVIDENCE EVALUATION  
-– No research finding offers polling, fundraising, endorsements, or modeled odds specifically for Begich.  
-– Gambit Forecaster (3/1/26) notes that most governor races, including Alaska’s, are still volatile and “within partisan norms,” with early indicators of Democratic pathways but “remain uncertain.” It offers no specific percentage for Begich.  
-– Press on other candidates (JKT, Dahlstrom, 16th candidate) confirms a crowded Republican field and identifies Nancy Dahlstrom as the incumbent Lt. Gov. running, but gives no direct insights into Begich’s viability.  
-– Source credibility: All outlets are reputable but none address Begich’s prospects. Recency is strong (Feb–Mar 2026).  
-– Bullish for Begich: Early-cycle volatility and emerging Democratic pathways hint at non‐zero chance.  
-– Bearish for Begich: Alaska’s Republican lean, crowded GOP field with a sitting Lt. Gov., lack of any Begich‐specific traction or polling.  
-– Because there’s no Begich‐specific data, any argument that price should be much higher or lower would require outside information not in these findings.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-– A 26% price roughly aligns with placing Alaska’s Democratic nominee as a 1‐in‐4 shot in a GOP‐leaning state.  
-– Low volume could simply reflect the absence of public Begich data rather than a lone overconfident trader.  
-– Informed traders may be waiting for polling or fundraising reports before adjusting. The tight spread suggests competitive quoting, not a single outlier.
+## 1. CONTEXT ANALYSIS
 
-4. MISPRICING ASSESSMENT  
-– No specific, credible evidence from the materials indicates the true probability should be materially above or below 26%.  
-– It is plausible that the crowd’s prior (given Alaska’s partisanship and a crowded GOP field) centers near 20–30%.  
-– The absence of Begich‐focused research suggests traders are reasonably uncertain, justifying a mid‐20s probability.  
-– We find no convincing mispricing signal >20¢.
+The market question asks: **“Will Tom Begich win the 2026 Alaska governor election?”**  
+For this to resolve as **YES**, Begich must emerge victorious in the general election on November 3, 2026, and be confirmed by AP, Fox News, and NBC (or via official certification) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)).  
+A **NO** resolution would occur if any other candidate wins. Importantly, certification must occur by July 31, 2027, or resolution becomes “Other” ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-– Strength of evidence that price is mispriced: ~10% (very weak; no direct data).  
-– Magnitude of potential mispricing: ~5¢ (small deviation possible, but likely already captured).  
-– Expected value = 10% × 5¢ = 0.5¢
+---
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: There is no Begich-specific polling or modeling in the research, and a 26% chance aligns with Alaska’s GOP tilt and a crowded field. No credible evidence suggests a large mispricing.  
-CONFIDENCE: low
+## 2. EVIDENCE EVALUATION
+
+### Evidence that might suggest the market price (24.5%) is **incorrect (potential undervaluation)**:
+
+- **Recent Polling Strength**: In a Lake Research Partners poll conducted Feb 5–11, 2026, Begich led the primary governor’s field with 22%—considerably ahead of others (e.g., Wilson at 16%, Bronson 13%) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)).  
+- In the **general election polling** (same source/dates), Begich polled **38%**, with others like Wilson at 16% and Bronson at 13%—suggesting he currently leads the broader field ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)).
+
+These data points indicate he may have stronger voter support now than a ~25% win probability suggests.
+
+### Evidence supporting the market price as **reasonable**:
+
+- **Red-Leaning State**: Alaska historically leans Republican. Cook Political Report categorizes upcoming midterm races, including statewide contests in Alaska, as **“not competitive”**, and describes the at-large congressional race (akin to statewide dynamics) as a strong position for Republicans ([thealaskastory.com](https://thealaskastory.com/cook-political-report-puts-begich-race-in-not-competitive-category/?utm_source=openai)). That partisanship likely weighs against a Democratic gubernatorial win.  
+- **Crowded Field & RCV**: Multiple Republican contenders such as Click Bishop, Nancy Dahlstrom, Dave Bronson, etc., are vying for the nomination and general election ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)). Ranked-choice voting and fragmentation may dilute Begich’s impact despite leading in polling.  
+- **Fundraising Trends**: Begich raised approximately $347,805 and spent $132,849 in early filings; Adam Crum raised ~$350K too ([thealaskastory.com](https://thealaskastory.com/begich-and-bishop-filings-show-liberal-lane-forming-in-alaska-governors-race/?utm_source=openai)). So while he’s a top Democratic fundraiser, the funding remains modest compared to potential Republican opponents. This might limit campaign reach.  
+- **Lack of High-Profile Endorsements or Momentum**: Aside from polling and modest fundraising, there’s no major prediction outlet rating this race as competitive (e.g., Cook, Inside Elections, Sabato’s Crystal Ball have not flagged it) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)).
+
+### Source credibility and recency:
+
+- **Lake Research Partners polling** is recent (Feb 2026) and presumably reputable; however, partisan affiliation (“(D)”) may suggest influence ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai)).  
+- **Cook Political Report** is a leading nonpartisan analysis and is widely respected ([thealaskastory.com](https://thealaskastory.com/cook-political-report-puts-begich-race-in-not-competitive-category/?utm_source=openai)).  
+- Campaign finance and candidate filings are primary sources and highly credible ([thealaskastory.com](https://thealaskastory.com/begich-and-bishop-filings-show-liberal-lane-forming-in-alaska-governors-race/?utm_source=openai)).
+
+### Overly obvious evidence?
+
+Begich leading in early polling could seem straightforward. Yet the polling may reflect early name recognition rather than durable support—why hasn't this reasoning shifted market pricing? Possibly because market participants weigh state partisanship, competition, and uncertainty severely.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+**Possible rational interpretation of the 24.5% price**:
+
+- It reflects a cautious, middle-ground view: Begich leads in polling but faces structural disadvantages like Republican dominance, a crowded field, and RCV complexity.
+
+**Consensus vs. small-player influence**:
+
+- **Low volume** and **tight spread** suggest limited liquidity. This price could reflect early, possibly biased sentiment from a small group rather than broad consensus.
+
+**Low volume: obvious or overlooked?**
+
+- If outcome were obvious (e.g., eventual Republican win), price would be lower; if overlooked, informed traders might have already arbitraged this. The 24.5% might be a balance between the two: uncertainty persists and few traders are engaging.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+**Timeline and uncertainty**:
+
+- With election ~8 months away and primaries upcoming, there's substantial uncertainty—polls are early and may shift.
+
+**Does evidence indicate genuine mispricing?**
+
+- **Moderate undervaluation potential**: Polling shows a lead that the market may undervalue, but structural factors justify caution.
+
+- The gap is not large enough (>20 cents) to confidently claim mispricing. Market pricing seems reasonably mapping between optimistic polling and realistic headwinds.
+
+**Charitable interpretation**:
+
+- Informed traders are likely pricing in RCV uncertainties, fragmented field, and partisan headwinds. This is a plausible, cautious view rather than oversight.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Moderate—polling is recent and credible but offset by structural disadvantages. Assign ~50%.  
+- **Magnitude of mispricing**: If undervalued, perhaps around 10 cents (from 24.5% to maybe 35%). But uncertain.  
+- **Expected value** = 50% × 10 cents = **5 cents**.
+
+---
+
+EXPECTED_VALUE: 5.0  
+SUMMARY: Recent polling gives Begich a lead in both primary and general scenarios, but Alaska’s Republican tilt, ranked-choice complexity, and crowded field justify a cautious ~24.5% market price. There’s modest evidence of undervaluation, but magnitude appears limited.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The webpage provides a general overview of the 2026 midterm election forecasts, focusing on Senate and gubernatorial races, including Alaska. It highlights that, as of March 2026, the election landscape remains relatively stable with a slight Republican tilt in the Senate and most gubernatorial races staying within partisan norms. The forecast emphasizes that early in the cycle, candidate fields and polling are still settling, and campaign spending has yet to produce definitive signals. Notably, the model now incorporates more nuanced factors such as national environment impacts and correlated state movements, which could influence outcomes. While specific predictions for Alaska or Tom Begich are not provided, the report suggests that the race's volatility and candidate dynamics are still being assessed, and early indications of Democratic pathways are emerging but remain uncertain.
+### [2026 Alaska gubernatorial election](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Alaska’s race for governor picks up 16th candidate, a former state legislator from Sitka | Alaska News | newsminer.com
-Author: James Brooks Alaska Beacon
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.newsminer.com/news/alaska_news/alaska-s-race-for-governor-picks-up-16th-candidate-a-former-state-legislator-from-sitka/article_3f6a60c3-8260-4197-b7c5-b4e0e65cf341.html
-Summary: The article reports that Alaska’s gubernatorial race has expanded to include a 16th candidate, a former state legislator from Sitka. However, it does not provide specific details about Tom Begich or his prospects in future elections, including the 2026 Alaska governor race. Therefore, based on this information, there is no relevant data to predict whether Tom Begich will win the 2026 election.
+Provides details on Tom Begich’s candidacy, polling results from Lake Research Partners in Feb 2026 (primary and general), election structure including RCV and resolution rules. Key context for outcome scenarios.
 
-Title: [PDF] 2026 Gubernatorial Race Overview
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The provided document does not contain any information about Tom Begich or the Alaska gubernatorial race. It focuses on the 2026 New Jersey and Virginia gubernatorial races, highlighting candidate backgrounds, polling data, campaign strategies, and political dynamics. Therefore, it offers no relevant insights or predictions regarding Tom Begich's chances of winning the 2026 Alaska governor election.
+### [Cook Political Report puts Begich race in ‘not competitive’ category](https://thealaskastory.com/cook-political-report-puts-begich-race-in-not-competitive-category/)
+**Author:** Unknown | **Published:** 2025-12-??
 
-Title: JKT hopes to bring the bipartisan coalition mindset to the governor’s office - The Alaska Current
-Author: Matt Acuña Buxton
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://thealaskacurrent.com/2026/02/04/jkt-hopes-to-bring-the-bipartisan-coalition-mindset-to-the-governors-office/
-Summary: Jonathan Kreiss-Tomkins (JKT), a Democrat and former Alaska legislator known for his bipartisan approach, has announced his candidacy for governor, emphasizing the importance of cross-party collaboration. His background includes a decade of working within a centrist, bipartisan coalition that often clashed with the conservative incumbent, Governor Mike Dunleavy. Kreiss-Tomkins advocates for a cooperative leadership style to address Alaska’s challenges. While his campaign focuses on bipartisan problem-solving, there is no specific information in the article about Tom Begich or predictions regarding the election outcome, including whether Begich will win the 2026 Alaska governor race.
+Reports Cook’s assessment that Alaska races are not competitive and Alaska electorate leans Republican, indicating structural disadvantage despite any polling lead.
 
-Title: Nancy Dahlstrom - Ballotpedia
-URL: https://ballotpedia.org/Nancy_Dahlstrom
-Summary: Nancy Dahlstrom is the current Lieutenant Governor of Alaska, serving since December 2022 with her term ending in December 2026. She is a member of the Republican Party and has announced her candidacy for the 2026 Alaska gubernatorial election. Dahlstrom has a background in sales and marketing, with educational credentials from Wayland Baptist University and the University of LaVerne. Her political career includes serving in the Alaska House of Representatives and holding statewide office as Lieutenant Governor. Given her incumbency and ongoing campaign efforts, she is a prominent contender in the upcoming election. This information suggests that Dahlstrom is a significant Republican candidate, but it does not provide specific insights into her chances against other candidates like Tom Begich, whose prospects would depend on factors such as campaign dynamics, voter preferences, and opposition strength.
+### [Begich and Bishop filings show ‘liberal lane’ forming in Alaska governor’s race](https://thealaskastory.com/begich-and-bishop-filings-show-liberal-lane-forming-in-alaska-governors-race/)
+**Author:** Suzanne Downing | **Published:** 2026-02-18
 
-
+Reports early campaign finance numbers, showing Begich raised ~$347K and spent ~$133K—informing campaign strength relative to opponents.

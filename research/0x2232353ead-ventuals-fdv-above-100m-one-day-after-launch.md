@@ -1,80 +1,121 @@
 # Research: Ventuals FDV above $100M one day after launch?
 
 **Market ID:** 0x2232353eadccd26a40d742e78710cbbe11b4a4edea3de0f1ec0ffaea09ded474
-**Researched At:** March 7, 2026 at 04:09:11 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Ventuals FDV above $100M one day after launch?"
+**Researched At:** March 12, 2026 at 04:13:57 AM UTC
+**Search Query:** "Ventuals FDV above $100M one day after launch?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Available research shows strong platform traction but no clear tokenomics or launch date, supporting the market’s ~32% probability. There is no compelling evidence of a large mispricing.
+There is no evidence that Ventuals has launched a governance token, and none is scheduled, supporting the current ~29% probability as a reasonable reflection of uncertainty. Without concrete valuation inputs, there’s no strong evidence of pricing error.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Ventuals’ (or its planned platform token’s) fully diluted valuation (FDV)—total supply × price—will exceed $100 million exactly 24 hours after its token launch (defined as 4 PM ET the next calendar day). A “Yes” requires (a) the token to launch in time, (b) its price and supply such that FDV > $100 M at the one-day mark.
+Below is a detailed, evidence-based evaluation of the **Ventuals FDV above $100M one day after launch?** prediction market, following your requested structure.
 
-2. EVIDENCE EVALUATION  
-Bullish signals:  
-• The Defiant (Feb 2026) reports Ventuals’ platform volume hit $200 M cumulative, with a 20% rise in its liquid-staking token (vHYPE) and over 5,300 traders. Rapid uptake suggests investor enthusiasm that could translate into a high FDV.  
-Bearish/neutral signals:  
-• Polymarket odds (~35–45%, with ~20% chance of no launch) align with the 32% market price—indicating broad consensus on a sub-50% chance.  
-• Bitway and Abstract token-launch markets highlight that, absent clear tokenomics (supply, vesting), investors remain cautious; early hype doesn’t guarantee >$100 M FDV.  
-Source credibility: All findings are current (Feb–Mar 2026) and from reputable DeFi coverage or on-chain data. None provide definitive token-launch parameters, leaving significant uncertainty.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-The 32% price matches Polymarket’s consensus and mirrors similar markets’ pricing when tokenomics and dates are unconfirmed. Low volume likely reflects genuine uncertainty rather than consensus ignorance—if the path to >$100 M were clearer, more traders would engage.
+## 1. CONTEXT ANALYSIS  
+- **What is being asked?**  
+  The market asks whether Ventuals’ token will have a fully diluted valuation (FDV)—calculated as total token supply × token price—exceeding $100 million **one day after launch** (at 4:00 PM ET the day after launch). A “Yes” requires that the token is publicly tradable and transferable and that the FDV, as measured by the most liquid price source, is above $100M at that precise time. If no token is launched by December 31, 2026, 11:59 PM ET, the market resolves to “No.”
 
-4. MISPRICING ASSESSMENT  
-No concrete sign the market has overlooked key information. Bullish traction is countered by unknown token parameters and potential non-launch risk. The market’s ~1-in-3 reflects balanced risk/reward, with no >20¢ deviation apparent.
+- **Resolution criteria (YES vs NO):**  
+   * YES: Token is live, tradable, and FDV > $100M.  
+   * NO: Either FDV ≤ $100M, or no launch occurs by Dec 31, 2026, or it’s not tradable/transferable.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price omits critical info: ~20% (some bullish signal but key supply terms unknown)  
-Magnitude of potential mispricing: ~5¢ (small given uncertainty)  
-EV ≈ 20% × 5¢ = 1¢
+---
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Available research shows strong platform traction but no clear tokenomics or launch date, supporting the market’s ~32% probability. There is no compelling evidence of a large mispricing.  
+## 2. EVIDENCE EVALUATION  
+
+I conducted a search for recent information regarding Ventuals launching a governance token or any indication of a token issuance.
+
+- **Evidence of governance token launch (suggesting possible YES):**  
+  I found no credible sources indicating that Ventuals has launched a token. The project has launched a liquid staking token (vHYPE) and a points distribution mechanism, but no dex‑tradable governance token has been issued. ([mexc.fm](https://www.mexc.fm/az-AZ/learn/article/what-is-ventuals-the-first-on-chain-derivatives-protocol-for-private-pre-ipo-company-valuations/1?utm_source=openai))
+
+- **Evidence against token launch (suggesting reasonable NO):**  
+  As of early 2026, no governance token exists or has been publicly announced. A review as of January 2026 confirms no token has been launched, even though vHYPE and Ventuals Points are active. ([polychances.com](https://polychances.com/polymarket-events/will-ventuals-launch-a-token-by/?utm_source=openai))  
+  Additionally, project documentation describes vHYPE and Points as incentives—not a governance token—and there’s no schedule for token issuance. ([mexc.fm](https://www.mexc.fm/az-AZ/learn/article/what-is-ventuals-the-first-on-chain-derivatives-protocol-for-private-pre-ipo-company-valuations/1?utm_source=openai))
+
+- **Source credibility and recency:**  
+  - **Mexc Article** (education/overview, likely vetted, recent within 2 months): Describes vHYPE staking and how the incentive system works. ([mexc.fm](https://www.mexc.fm/az-AZ/learn/article/what-is-ventuals-the-first-on-chain-derivatives-protocol-for-private-pre-ipo-company-valuations/1?utm_source=openai))  
+  - **AI-generated Polymarket analysis** (January 2026): Synthesizes publicly available data and confirms no governance token as of that time, with common consensus expecting launch by end of 2026. ([polychances.com](https://polychances.com/polymarket-events/will-ventuals-launch-a-token-by/?utm_source=openai))  
+
+- **Bullish perspective (YES possible):**  
+  - The presence of vHYPE staking and points suggests the project is preparing for token issuance, which might happen later in 2026. ([mexc.fm](https://www.mexc.fm/az-AZ/learn/article/what-is-ventuals-the-first-on-chain-derivatives-protocol-for-private-pre-ipo-company-valuations/1?utm_source=openai))  
+  - Rapid growth and traction in user activity may support a strong FDV if a token issues. ([mexc.com](https://www.mexc.com/en-NG/news/701567?utm_source=openai))  
+
+- **Bearish perspective (NO likely):**  
+  - No launch yet; typical governance token launches follow after product maturity and tokenomics clarity. ([polychances.com](https://polychances.com/polymarket-events/will-ventuals-launch-a-token-by/?utm_source=openai))  
+  - The timeline for token issuance likely extends beyond early 2026, making a token unlikely to exist, let alone reach $100M FDV, shortly after launch. ([polychances.com](https://polychances.com/polymarket-events/will-ventuals-launch-a-token-by/?utm_source=openai))  
+
+- **Is the evidence too obvious?**  
+  The absence of token issuance is straightforward—but if this were obvious, why would the market price still stand at 29% rather than near 0%? Possibly because traders price in the chance of a launch later in 2026 with meaningful FDV, not ruling out that if and when issued it could surpass $100M immediately.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS  
+
+- **Possible justifications for current ~29% price:**  
+  Traders may see a moderate chance that Ventuals launches a carefully structured token by end of 2026, and that one day after launch FDV might exceed $100M. But it's uncertain, so price is lowish.
+
+- **Consensus vs concentration:**  
+  With low volume and tight spread, the price could reflect views of just a few participants—maybe optimistic early adopters—not a broad consensus.
+
+- **Low volume due to obvious outcome or lack of engagement?**  
+  A moderate probability (~29%) suggests outcome is not obvious to many. The low volume may reflect that most informed traders haven’t bothered pricing this niche market yet, or that it's too speculative or obscure.
+
+---
+
+## 4. MISPRICING ASSESSMENT  
+
+- **Reasonable value?**  
+  Given no token exists yet and it may take months to launch, assigning ~30% probability seems plausible. However, the FDV threshold of $100M is ambitious for a new token—if traders expect a smaller initial valuation, they may underprice YES. Conversely, if they expect >$100M is realistic given backing and ecosystem growth, maybe 29% is too low.
+
+- **Timeline uncertainty:**  
+  Launch could be delayed till later in 2026 or even 2027 (if not before Dec 31). That pushes YES farther out, lowering present value.
+
+- **Any evidence of mispricing?**  
+  We have no specific evidence that the FDV will definitely be above or below $100M upon launch—no circulating supply, token price targets, or comparable benchmarks. Thus, lacking concrete valuations, the current price likely reflects rational uncertainty rather than clear mispricing.
+
+- **Could I be misunderstanding?**  
+  The resolution hinges on a governance token, not points or vHYPE. That subtlety is critical—market is likely aligned with that. No misinterpretation.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION  
+
+- **Strength of evidence (0–100%):**  
+  Evidence is moderately strong: we know token hasn't launched and no schedule exists. But lacking firm launch info, strength is around **60%**.
+
+- **Magnitude of mispricing (cents):**  
+  Range of plausible mispricing: perhaps ±10¢. But evidence doesn’t strongly tilt one way; I'd estimate **5 cents** potential mispricing.
+
+- **Expected value = 60% × 5¢ = 3¢**
+
+---
+
+EXPECTED_VALUE: 3  
+SUMMARY: There is no evidence that Ventuals has launched a governance token, and none is scheduled, supporting the current ~29% probability as a reasonable reflection of uncertainty. Without concrete valuation inputs, there’s no strong evidence of pricing error.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Polymarket Odds: Ventuals FDV above ___ one day after launch ...
-URL: https://polychances.com/polymarket-events/ventuals-fdv-above-one-day-after-launch/
-Summary: The prediction market for Ventuals' token launch indicates a low probability (~35-45%) that its Fully Diluted Valuation (FDV) will exceed $100 million one day after launch. Current assessments suggest that the market expects a relatively modest initial valuation, likely below $150 million, with significant uncertainty about the timing and success of the token launch—expected potentially in the second half of 2026. Additionally, there is about a 20% chance that the token may not launch by the deadline, which would result in the market resolving to "No" for the FDV exceeding $100 million. Overall, the consensus and AI predictions lean towards a low likelihood of Ventuals reaching an FDV above $100 million immediately post-launch.
+### [What is Ventuals? The First On‑Chain Derivatives Protocol for Private, Pre‑IPO Company Valuations](https://www.mexc.fm/az-AZ/learn/article/what-is-ventuals-the-first-on-chain-derivatives-protocol-for-private-pre-ipo-company-valuations/1)
+**Author:** Unknown | **Published:** Unknown (Crawled 2 months ago)
 
-Title: Hyperliquid-Based Ventuals’ Trading Volume Surges 100% in 17 Days - "The Defiant"
-Author: Denis Omelchenko
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://thedefiant.io/news/defi/hyperliquid-based-ventuals-trading-volume-surges-100-in-17-days
-Summary: Ventuals, a platform enabling trading of tokenized exposure to private and pre-IPO companies, rapidly gained traction after its launch. Within less than three months, it surpassed $200 million in cumulative trading volume, reaching $100 million just 17 days after initial $100 million milestone—significantly faster than the 73 days it took to reach the first $100 million. The platform has attracted over 5,300 traders and generated more than $70,000 in fees since October 2025. Its most traded product is MAG7, tracking major U.S. tech giants, with over $4 million in daily trading volume. The surge in activity coincided with a 20% rise in its liquid staking token, vHYPE, indicating strong market interest and momentum. These factors suggest that Ventuals' fully diluted valuation (FDV) could have exceeded $100 million shortly after launch, driven by rapid trading volume growth and active trader engagement.
+Describes Ventuals' mainnet launch in October 2025, vHYPE staking, Ventuals Points, and hybrid pricing/oracle model. Emphasizes that no governance token has yet been announced, and lays out features and token economics. This undercuts likelihood of immediate FDV > $100M since no tradable token exists yet.
 
-Title: Bitway Prediction Market: Can the $80M FDV Moonshot Hit 1 Day After Launch?
-Author: AInvest
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.ainvest.com/news/bitway-prediction-market-80m-fdv-moonshot-hit-1-day-launch-2602/
-Summary: The article discusses a prediction market centered on whether Bitway's fully diluted valuation (FDV) will reach $80 million within one day of its token launch. Currently, active bets amount to approximately $82,758, indicating community engagement but also skepticism, as there is no confirmed token generation event (TGE) date and the market lacks clear price signals. The setup involves a high FDV with significant dilution (79x), reflecting a high-risk, high-reward scenario. Given the community's cautious stance and the absence of strong market signals, predicting an FDV above $100 million immediately after launch would likely face similar skepticism unless new developments or confirmed launch details significantly alter market perceptions.
+### [Polymarket Odds: Will Ventuals launch a token by ___ ? (AI Predictions)](https://polychances.com/polymarket-events/will-ventuals-launch-a-token-by/)
+**Author:** Unknown (AI aggregated analysis) | **Published:** Unknown (Published last month)
 
-Title: Abstract's Token Launch: Will the FDV Moonshot or Crash?
-Author: AInvest
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.ainvest.com/news/abstract-token-launch-fdv-moonshot-crash-2602/
-Summary: The article discusses Abstract's upcoming token launch, highlighting a significant community-driven momentum from the Pudgy Penguins group, which has generated over 150 million transactions and maintains a 40% 30-day retention rate, indicating strong engagement. The market is concerned about dilution risks, with the Fully Diluted Valuation (FDV) at a ratio of 0.71 to market cap, suggesting potential price declines if token supply is too large or vesting schedules are overly generous. A prediction market, resolving in late 2027, is set to determine whether the FDV will remain above a critical threshold shortly after launch. The outcome hinges on whether the token's supply and vesting terms lead to dilution or support a bullish rally. Given current liquidity levels and market sentiment, the key factor for whether the FDV surpasses $100 million one day after launch will be the initial tokenomics, vesting schedules, and community engagement strategies.
-
-Title: Fast&Up attracts interest from VC firms for its ongoing $70 mn round
-Author: Priyamvada C
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://livemint.com/companies/start-ups/fastup-venture-capital-sports-nutrition-protein-supplements-11771210831330.html
-Summary: Fast&Up, a sports nutrition brand in India, is currently in the final bidding stage for a $70 million funding round, attracting interest from venture capital firms Venturi Partners and Elev8 Venture Partners. The company has appointed Avendus Capital as its advisor to facilitate the process. This funding round reflects the rising investor enthusiasm for preventive wellness and nutrition brands amid India's rapidly expanding wellness market. While specific valuation details like Venturi's FDV exceeding $100 million immediately after launch are not provided, the active investment interest indicates strong growth potential in the sector.
-
-
+Comprehensive January 2026 analysis showing no governance token exists as of that date; typical token launch windows place issuance likely in mid-to-late 2026, not yet. This supports current market pricing and implies uncertainty rather than mispricing.

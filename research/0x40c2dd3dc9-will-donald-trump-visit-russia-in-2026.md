@@ -1,91 +1,130 @@
 # Research: Will Donald Trump visit Russia in 2026?
 
 **Market ID:** 0x40c2dd3dc9e6fb511e58e2a67141b66a97aa569e6b59c9b1f14f65e734c173d1
-**Researched At:** March 7, 2026 at 04:07:32 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Donald Trump visit Russia in 2026?"
+**Researched At:** March 12, 2026 at 04:13:18 AM UTC
+**Search Query:** "Will Donald Trump visit Russia in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Publicly available reporting finds no scheduled visit or invitation for Trump to Russia in 2026, and Russian hardliners are now wary of his unpredictability after the Iran strike. The 19.5% price reasonably reflects a low but plausible chance of a diplomatic overture, with no strong evidence of mispricing.
+Recent statements indicate Putin extended an invitation and Trump has expressed openness to visiting Russia, but no concrete plans or scheduling exist; the market’s low ~19.5% price reasonably reflects current uncertainty.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump will physically enter Russian territory at any point in 2026. For a “Yes” resolution, Trump must travel to Russia (land or maritime). Any other form of contact—airspace overflight, phone calls, meetings abroad—does not count.
+Here is a detailed, source-backed analysis of the prediction market question — *“Will Donald Trump visit Russia in 2026?”* — following your structured evaluation framework:
 
-2. EVIDENCE EVALUATION  
-Bullish (higher than 19.5%):  
-- Some analysts (Mamedov) argue there are emerging diplomatic back-channels (envoy Witkoff, U.S. envoy talks) that could pave the way for a face-to-face summit in Moscow.  
-- Trump’s publicly stated interest in brokering a Ukraine settlement might motivate him to visit Russia personally.
+---
 
-Bearish (lower than 19.5%):  
-- TASS (Feb 6) reports “no plans” for a Putin–Trump conversation, suggesting no invitation or agenda.  
-- Reuters (Mar 3) notes Russian hardliners view Trump’s unpredictable Iran strike as a threat, making Moscow less inclined to host him.  
-- No official U.S. or Trump social-media announcements of a trip, and no press-leaks about flight planning or visa arrangements.
+**1. CONTEXT ANALYSIS**  
+The market asks whether U.S. President Donald Trump will physically enter Russian territory (land or maritime) at any point between January 1 and December 31, 2026, to resolve as "Yes". A visit equates to physical presence in Russia; travel to other countries, or an invitation alone, does not suffice for resolution.
 
-Source credibility and recency:  
-- TASS and Reuters are credible and recent.  
-- Mamedov’s piece is speculative and strategic rather than reporting an agreed plan.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 19.5% price reflects a small but nonzero chance: plausible given Trump’s unpredictability and potential diplomatic payoff.  
-- Low volume may simply signal that few traders find new, hard evidence; a handful of traders could set the price but it matches publicly known uncertainty.  
-- No definitive evidence is missing from public view—an invitation or concrete schedule—so informed traders likely have nothing more to go on.
+**2. EVIDENCE EVALUATION**
 
-4. MISPRICING ASSESSMENT  
-- There is no clear, credible signal that Trump is actually planning a trip that the market has ignored.  
-- Conversely, there is no strong evidence that a visit is impossible, so pricing near 20% is consistent with current diplomatic stalemate plus Trump’s volatility.  
-- No large mispricing (>20 cents) is apparent; any deviation from 19.5% would be based on speculative “inside” tickets that are unsubstantiated in the public domain.
+2.1 Evidence suggesting the market price (19.5%) might be incorrect:
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence for mispricing: ~20% (there’s only speculative upside).  
-- Magnitude of mispricing: ~5 cents (uncertainty margin small).  
-- Expected value = 0.20 × 5¢ = 1¢.
+- In September 2025, Russia indicated it expected Trump to accept President Putin's invitation to visit Russia. Maria Zakharova, a Russian Foreign Ministry spokeswoman, stated that Russia is expecting Trump to make a return visit ([newsweek.com](https://www.newsweek.com/russia-expecting-donald-trump-visit-moscow-ukraine-russia-war-vladimir-putin-2123636?utm_source=openai)). This suggests diplomatic groundwork exists.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Publicly available reporting finds no scheduled visit or invitation for Trump to Russia in 2026, and Russian hardliners are now wary of his unpredictability after the Iran strike. The 19.5% price reasonably reflects a low but plausible chance of a diplomatic overture, with no strong evidence of mispricing.  
-CONFIDENCE: low
+- Trump has publicly expressed openness to visiting Russia "at the appropriate time", conditional on progress in resolving the conflict in Ukraine ([rt.com](https://www.rt.com/news/613295-trump-moscow-visit-appropriate-time/?utm_source=openai)).
+
+- During an August 2025 meeting in Alaska, Putin invited Trump to visit Moscow; Trump referred to the meeting as productive, though issues remained unresolved ([tass.com](https://tass.com/world/2006317?utm_source=openai)).
+
+2.2 Evidence supporting the current market price as reasonable:
+
+- There is **no public indication or planning** for Trump to actually schedule or announce a visit to Russia in 2026. Recent high-level diplomacy has occurred in neutral third countries (Abu Dhabi and Geneva), not in Russia ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Abu_Dhabi?utm_source=openai)).
+
+- The 2025 proposed summit in Budapest was canceled, and no new visits to Russia have been concretely scheduled since ([en.wikipedia.org](https://en.wikipedia.org/wiki/2025_Russia%E2%80%93United_States_summit_in_Hungary?utm_source=openai)).
+
+- Trump has tied any visit to the cessation of hostilities in Ukraine—a condition that remains unresolved through early 2026, despite trilateral meetings in Abu Dhabi (Jan–Feb) and Geneva (Feb) ([rt.com](https://www.rt.com/news/613295-trump-moscow-visit-appropriate-time/?utm_source=openai)).
+
+2.3 Source credibility and recency:
+
+- The sources from Newsweek, TASS, and Wikipedia are recent (late 2025 to early 2026), and credible for this forecasting analysis ([newsweek.com](https://www.newsweek.com/russia-expecting-donald-trump-visit-moscow-ukraine-russia-war-vladimir-putin-2123636?utm_source=openai)).
+
+- On the bullish side, speculative statements and invitations are credible in that they originate from officials, but they remain **unfulfilled** and dated.
+
+2.4 Bullish vs. bearish perspectives:
+
+- **Bullish**: Official invitations and Trump’s stated readiness to visit, assuming peace progression.
+
+- **Bearish**: No visit planned to date; conflict unresolved; recent diplomacy sidesteps Russia as a venue; visit contingent on events that have not materialized.
+
+- If conditions were clear and a visit imminent, it's plausible traders would already be taking position. The low price reflects skepticism and absence of concrete developments.
+
+---
+
+**3. MARKET EFFICIENCY ANALYSIS**
+
+- A 19.5% implied probability reflects a guarded but non-negligible chance — possibly a consensus that while a Trump visit remains possible, it's far from assured. That seems reasonable given current evidence.
+
+- Low trading volume and tight spread suggest limited interest, possibly dominated by one or few traders. But given the speculative nature, this price likely reflects collective uncertainty rather than outright belief.
+
+- It's also possible the market remains low-volume because informed traders lack confidence in any visit occurring absent major breakthrough—thus no strong action is warranted.
+
+---
+
+**4. MISPRICING ASSESSMENT**
+
+- There is **no specific, credible evidence** currently missing from the price. Invitations and rhetorical openness exist, but are speculative and conditioned on progress that hasn't materialized.
+
+- A visit this year would require significant diplomatic developments—none of which are on the strong public record.
+
+- The most charitable interpretation: the current price reflects a plausible, conditional expectation. No mispricing is evident.
+
+- Given uncertainties and conditionality, holding a low but positive price seems rational.
+
+---
+
+**5. EXPECTED VALUE CALCULATION**
+
+- **Strength of evidence**: The evidence supporting either side is weak to moderate; credibility is moderate but speculative.  
+  → Estimate: ~40%
+
+- **Magnitude of mispricing**: There's no identified mispricing. Potential mispricing is small (say a few cents), but evidence is not strong enough to assert any.  
+  → Estimate: ~5 cents
+
+- **Expected value** = 40% × 5c = **2.0 cents**
+
+---
+
+**6. CONFIDENCE**  
+medium
+
+---
+
+EXPECTED_VALUE: 2.0  
+SUMMARY: Recent statements indicate Putin extended an invitation and Trump has expressed openness to visiting Russia, but no concrete plans or scheduling exist; the market’s low ~19.5% price reasonably reflects current uncertainty.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: The Moscow Times
-Author: 
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.themoscowtimes.com/2026/03/04/trump-says-envoy-witkoff-will-meet-putin-in-moscow-as-peace-deal-close
-Summary: The provided webpage from The Moscow Times does not contain specific information about Donald Trump's potential visit to Russia in 2026. It appears to be a generic error page rather than an article or report related to Trump or Russia. Therefore, there is no relevant content available on this page to inform predictions about Trump's plans to visit Russia in 2026.
+### [Russia Says It Is Expecting Donald Trump Visit](https://www.newsweek.com/russia-expecting-donald-trump-visit-moscow-ukraine-russia-war-vladimir-putin-2123636)
+**Author:** Brendan Cole | **Published:** 2025-09-03
 
-Title: The Moscow Times
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.themoscowtimes.com/2026/03/01/trump-says-envoy-witkoff-will-meet-putin-in-moscow-as-peace-deal-close
-Summary: The provided webpage from The Moscow Times does not contain specific information about Donald Trump's potential visit to Russia in 2026. It appears to be a generic error page rather than an article related to Trump or Russia. Therefore, there is no relevant content to inform predictions about Trump's plans to visit Russia in 2026 based on this source.
+Reports that Russia expected Trump to accept Putin’s invitation after the August 2025 meeting in Alaska. Adds bullish context by demonstrating formal invitation exists, though not scheduled.
 
-Title: No plans yet for conversation between Putin and Trump — Kremlin -  Russian Politics & Diplomacy - TASS
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://en.tass.ru/politics/2083269
-Summary: There are currently no plans for a conversation between Russian President Vladimir Putin and U.S. President Donald Trump. Recent diplomatic activities include talks in Abu Dhabi involving Russia, the U.S., and Ukraine, focusing on prisoner exchanges and conflict settlement discussions. However, there has been no indication or scheduled meeting between Putin and Trump, making any prediction about Trump's visit to Russia in 2026 speculative at this time.
+### [Trump open to Moscow visit](https://www.rt.com/news/613295-trump-moscow-visit-appropriate-time/)
+**Author:** Unknown | **Published:** 2025-02
 
-Title: What can we expect from a Trump-Putin meeting?
-Author: Eldar Mamedov
-URL: https://responsiblestatecraft.org/trump-putin-meeting-ukraine/
-Summary: The article discusses the upcoming meeting between U.S. President Donald Trump and Russian President Vladimir Putin, likely to focus on ending the Ukraine war, along with broader issues like global stability, nuclear arms control, Middle East conflicts, Iran, trade, and sanctions. The meeting's confirmation follows recent diplomatic talks, notably between U.S. envoy Steve Witkoff and Putin, which marked a shift from Trump's previously hawkish stance toward Russia. This change may reflect strategic calculations by Putin, who appears less inclined to make significant concessions after enduring extensive sanctions and facing economic pressures from secondary sanctions on Russian oil buyers. While the meeting's exact details remain uncertain, its outcome could influence U.S.-Russia relations and potentially impact future interactions, including whether Trump might visit Russia in 2026.
+Trump indicated he would visit Russia “at the appropriate time” contingent on resolution of the Ukraine conflict. Suggests willingness but emphasizes conditionality, supporting market restraint.
 
-Title: Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine | Reuters
-Author: Andrew Osborn
-Published Date: 2026-03-03T00:00:00.000Z
-URL: http://www.reuters.com/world/europe/trumps-iran-attack-rattles-russian-hardliners-who-call-putin-double-down-war-2026-03-03/
-Summary: The article discusses how Trump's recent actions, particularly his attack on Iran, have shifted perceptions among Russian hardliners. Initially, some Russian officials and commentators viewed Trump's unpredictability as potentially beneficial for Moscow's interests in Ukraine. However, his aggressive stance against Iran has led many to see him as a threat to Russia, with calls from hardliners to abandon U.S.-brokered peace talks with Ukraine and to escalate fighting instead. Prominent Russian figures describe Trump as a dangerous, unpredictable figure driven by impunity, emphasizing that his current actions suggest he operates with little restraint and that Russia perceives him as a significant, uncontrollable global actor. These developments imply increased skepticism and caution regarding any potential engagement or visits by Trump to Russia in 2026, as Russian hardliners now view him more as a threat than an ally.
+### [2026 United States–Ukraine–Russia meetings in Abu Dhabi](https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Abu_Dhabi)
+**Author:** Unknown | **Published:** Updated recently
 
+Details diplomatic engagement in neutral locations (Abu Dhabi and later Geneva) rather than Russia, underscoring absence of visit scheduling and unresolved conflict, which supports bearish side.
 
+### [2026 United States–Ukraine–Russia meetings in Geneva](https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Geneva)
+**Author:** Unknown | **Published:** Updated recently
+
+Elaboration on continuing diplomacy in Geneva, not Russia; highlights unresolved key points of conflict, providing context for conditionality of any Russia trip.

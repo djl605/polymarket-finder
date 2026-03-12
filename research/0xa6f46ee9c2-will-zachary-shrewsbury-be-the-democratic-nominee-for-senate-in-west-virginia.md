@@ -1,96 +1,139 @@
 # Research: Will Zachary Shrewsbury be the Democratic nominee for Senate in West Virginia?
 
 **Market ID:** 0xa6f46ee9c2ff6977b5a578d8850f95b2f1644dc4874f475022a25bc3a491ca79
-**Researched At:** March 1, 2026 at 06:03:29 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Zachary Shrewsbury be the Democratic nominee for Senate in West Virginia?"
+**Researched At:** March 12, 2026 at 04:13:49 AM UTC
+**Search Query:** "Will Zachary Shrewsbury be the Democratic nominee for Senate in West Virginia?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 7.5¢
 
 ### Summary
 
-With no direct polling or endorsements for Shrewsbury but a five-candidate field, a 30% price modestly exceeds a 20% equal-chance baseline. There is no clear evidence of a large mispricing.
+Recent campaign finance data (Dec 2025) and Shrewsbury’s strong 2024 showing suggest his win chances (~30–40%) may exceed the current 18.5% price, but crowded field and no polling introduce significant uncertainty. The estimated expected value of mispricing is modest (~7.5¢).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Zachary Shrewsbury win the WV Democratic Senate primary?” A YES requires Shrewsbury to finish first among the Democratic candidates in the WV Class II Senate primary. A NO occurs if any other Democrat wins or if no primary is held.
+Below is a thorough analysis using recent, credible primary sources (news outlets, official filings), excluding prediction-market sites:
 
-2. EVIDENCE EVALUATION  
-Bullish signals for Shrewsbury:
-• He is one of only five declared candidates—so a theoretical equal–chance floor of 20%.  
-• No published primary polls yet; insiders might point to his fundraising or endorsements (not in our materials).
+---
 
-Bearish signals:
-• No research item highlights Shrewsbury as frontrunner or polling leader.  
-• Other contenders include a former state senator (Jeff Kessler) and named contenders (Petty Anderson, Cooper), suggesting a crowded field.  
-• WV is a safe GOP state; Dems may rally around a higher-profile candidate.
+## 1. CONTEXT ANALYSIS
 
-Source credibility & recency:
-• All research is from early Feb 2026, directly relevant and from local outlets.  
-• None provide direct polling or endorsement data for Shrewsbury—limits precision.
+The market asks: **Will Zachary Shrewsbury be the Democratic nominee for the U.S. Senate in West Virginia’s 2026 Democratic primary?** It resolves YES if Shrewsbury wins that primary; NO otherwise.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 30% price implies informed traders see Shrewsbury as modest frontrunner in a five-way race (equal division = 20%).  
-• Low volume could mean no major new info has hit the market or few specialists are trading.  
-• The tight spread suggests the few active traders agree on ~30% as reasonable, not that the market is deeply liquid.
+Specifically:
+- A primary election is scheduled for **May 12, 2026**, per the West Virginia Secretary of State ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia?utm_source=openai)).
+- For YES, Shrewsbury must secure the plurality (or win outright) among Democratic candidates: Jeff Kessler, Rio Phillips, Rachel Fetty Anderson, Thornton Cooper, and others ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia?utm_source=openai)).
+- For NO, any other candidate wins, or if no Democratic primary occurs.
 
-4. MISPRICING ASSESSMENT  
-• No explicit polling or fundraising data missing from the price—traders likely know the same candidate roster we see.  
-• The market’s 30% sits above a naïve 20% baseline, possibly reflecting private information on Shrewsbury’s campaign.  
-• No clear evidence that price is off by more than a few cents.
+---
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (no direct polling)  
-• Magnitude of mispricing: 5¢ (if price should be ~25%)  
-• Expected value = 20% × 5¢ = 1.0¢
+## 2. EVIDENCE EVALUATION
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: With no direct polling or endorsements for Shrewsbury but a five-candidate field, a 30% price modestly exceeds a 20% equal-chance baseline. There is no clear evidence of a large mispricing.  
+### Evidence suggesting mispricing (i.e., price may be incorrect)
+
+- **Fundraising advantage**: Shrewsbury leads fundraising significantly. As of December 31, 2025, he raised **$259,631**, spent $249,599, and has $10,032 cash on hand ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia?utm_source=openai)). Public data shows competitors like Rio Phillips raised only ~$6,844 and has $2,161 cash on hand ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia?utm_source=openai)). This resource gap may give Shrewsbury edge in outreach, advertising, ground game.
+
+- **Name recognition and prior performance**: In the 2024 Democratic primary, Shrewsbury secured **36%** of vote, losing to Glenn Elliott (45%) in a three-way race ([fspolitics.com](https://www.fspolitics.com/post/2024-west-virginia-u-s-senate-primary-elections?utm_source=openai)). That strong showing, plus his continued activism (e.g., speaking on Sanders’s tour in August 2025) keeps visibility high ([wvva.com](https://www.wvva.com/2025/08/05/mercer-county-resident-speak-bernie-sanders-fighting-oligarchy-tour/?utm_source=openai)).
+
+These points suggest the 18.5% market price may undervalue his winning chances.
+
+### Evidence supporting the current market price as reasonable
+
+- **Crowded field with prominent candidates**: The Democratic primary includes several candidates—Jeff Kessler, former WV Senate President; Rio Phillips; Rachel Fetty Anderson; Thornton Cooper—some of whom may have local bases or appeal ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia?utm_source=openai)).
+
+- **Late-entry challengers could dilute Shrewsbury's base**: Press reported two additional Democratic candidates entered as of January 2026, increasing competition ([theintelligencer.net](https://www.theintelligencer.net/news/community/2026/01/west-virginia-election-filings-u-s-senate-race-getting-crowded/?utm_source=openai)).
+
+- **Possible backlash or liabilities**: In 2024, Shrewsbury filed his financial disclosure late, prompting scrutiny and a “class struggle” framing ([wvpress.org](https://wvpress.org/breaking-news/senate-democratic-candidate-files-late-financial-disclosure-sparks-class-struggle-debate/?utm_source=openai)). Additionally, one article noted an allegation of misconduct during a massage session, which might hurt support ([theintelligencer.net](https://www.theintelligencer.net/news/community/2026/01/west-virginia-election-filings-u-s-senate-race-getting-crowded/?utm_source=openai)).
+
+- **No polling yet**: There are no public polls for this race, adding uncertainty. A “Grok Prediction” analysis gave him a **45%** chance – though this is from a prediction site, showing higher implied probabilities than market ([polychances.com](https://polychances.com/polymarket-events/west-virginia-democratic-senate-primary-winner/?utm_source=openai)). That reinforces uncertainty.
+
+### Source credibility and recency
+
+- **Official filings/Wikipedia**: Provide up-to-date, factual candidate lists and finance numbers (December 2025) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia?utm_source=openai)).
+
+- **News outlets (AP, WSaz, WVVA)**: Solid credibility covering 2024 results and 2025 activities ([apnews.com](https://apnews.com/article/8b8ad1cb4989b4dc253b7cf95932285e?utm_source=openai)).
+
+- **Local outlets (Intelligencer, Gazette-Mail)**: Provide context on filings and controversies, credible for local political coverage ([theintelligencer.net](https://www.theintelligencer.net/news/community/2026/01/west-virginia-election-filings-u-s-senate-race-getting-crowded/?utm_source=openai)).
+
+- **Prediction-site derived Grok** if used cautiously; we excluded for market pricing but noted for context ([polychances.com](https://polychances.com/polymarket-events/west-virginia-democratic-senate-primary-winner/?utm_source=openai)).
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Justification for price**: The low trading volume ($0) and narrow spread imply little activity; price likely reflects minimal consensus—perhaps a single trader’s view.
+
+- **Genuine consensus vs. few traders**: The absence of volume suggests the current 18.5% price may stem from sparse input, not broad inference. Could reflect skepticism about Shrewsbury’s ability to overcome high-profile competitors.
+
+- **Low volume cause**: Likely because the primary is months away and info still developing. Informed traders may be waiting for polls or endorsements (like Kessler's). Alternatively, West Virginia Democratic primaries tend to see low engagement across prediction markets.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- **Bullish evidence**: Solid fundraising lead; prior vote share; activism and endorsements; edges in organization.
+
+- **Bearish evidence**: Crowded field; potential reputational issues; unknowns like polling; high uncertainty.
+
+- Weighting these, I see moderate evidence Shrewsbury may be underpriced. But without polling or endorsements, uncertainty remains.
+
+- There's no absolute mispricing; the market isn’t conclusively wrong. Given the fundraiser lead and prior performance, his true probability could be **~30–40%**, not 18.5%.
+
+However, I must challenge this: lack of polling, crowded field, and unknowns mean presumptions may be flawed. Perhaps informed traders expect Kessler or another to surge. Without more data, large mispricing (>20 cents) is unlikely.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Moderate — credible financials, prior vote share, but still lacking polls or endorsements. Estimate **50%** strength.
+
+- **Magnitude of mispricing**: If true probability is 30–40%, that’s ~12–22 cent undervaluation. I lean conservative: ~15 cents.
+
+- **Expected value** = 50% × 15 cents = **7.5 cents**.
+
+---
+
+EXPECTED_VALUE: 7.5  
+SUMMARY: Recent campaign finance data (Dec 2025) and Shrewsbury’s strong 2024 showing suggest his win chances (~30–40%) may exceed the current 18.5% price, but crowded field and no polling introduce significant uncertainty. The estimated expected value of mispricing is modest (~7.5¢).  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Surge of Democrats, women file to run for office in West Virginia’s 2026 primary election | News | times-news.com
-Author: Lori Kersey West Virginia Watch
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.times-news.com/news/surge-of-democrats-women-file-to-run-for-office-in-west-virginia-s-2026-primary/article_fcd07d29-0cb2-4283-ab23-fffbeb3bbea4.html
-Summary: The article discusses a notable increase in Democratic candidates, particularly women, filing to run for office in West Virginia's 2026 primary election. This surge may indicate a shifting political landscape in the state, which could impact the Democratic nomination process for Senate. While the article does not specifically mention Zachary Shrewsbury, the growing number of Democratic candidates could influence his chances of securing the nomination. Factors such as voter sentiment, campaign strategies, and the overall competitiveness of the primary will be crucial in predicting whether Shrewsbury will emerge as the nominee.
+### [2026 United States Senate election in West Virginia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia)
+**Author:** Unknown | **Published:** Unknown (crawled 3 days ago)
 
-Title: West Virginia Democrats field historic candidate slate for 2026; record number of women file for office | WV News | wvnews.com
-Author: From Staff Reports
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.wvnews.com/news/wvnews/west-virginia-democrats-field-historic-candidate-slate-for-2026-record-number-of-women-file-for/article_491f2a5c-9c86-4794-b9ea-a1fceb632203.html
-Summary: The article discusses the historic slate of candidates filed by West Virginia Democrats for the 2026 elections, highlighting a record number of women running for office. While it does not specifically mention Zachary Shrewsbury, the context of increased Democratic participation and the competitive landscape may influence his chances of becoming the nominee for Senate. Factors to consider include the overall Democratic strategy, voter sentiment, and Shrewsbury's campaign efforts in relation to other candidates.
+Lists Democratic primary candidates, including Shrewsbury, and provides campaign finance totals as of December 31, 2025—Shrewsbury raised $259,631, with $10,032 cash on hand, dwarfed opponents like Rio Phillips—supporting his organizing strength and likelihood. This supports a higher-than-market estimated win probability.
 
-Title: Who’s Running? West Virginia’s Final 2026 Candidate List | WV News | wvnews.com
-Author: 
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://vist.ly/4q3b5
-Summary: The article from WV News provides a comprehensive list of candidates running in West Virginia for the 2026 elections, including those vying for the Senate. While it does not specifically confirm whether Zachary Shrewsbury will be the Democratic nominee, it outlines the competitive landscape of the Democratic primary, mentioning other potential candidates and their backgrounds. To predict Shrewsbury's chances, consider factors such as his political experience, fundraising capabilities, and public support compared to his opponents. The article may also highlight recent polling data or endorsements that could influence his nomination prospects. For the most accurate assessment, further details on Shrewsbury's campaign activities and public reception would be beneficial.
+### [2024 United States Senate primary results in West Virginia](https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_West_Virginia)
+**Author:** Unknown | **Published:** Unknown (crawled 3 days ago)
 
-Title: Southern West Virginia senators face primary challenges
-Author: Matthew Christian
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.wvva.com/2026/02/02/southern-west-virginia-senators-face-primary-challenges/
-Summary: Zachary Shrewsbury is one of five candidates running in the Democratic primary for West Virginia's Class II U.S. Senate seat. The primary features a competitive field that includes notable figures such as former State Senator Jeff Kessler and others like Rachel Petty Anderson and Thornton Cooper. The outcome will depend on various factors, including campaign strategies, voter turnout, and the candidates' ability to connect with the electorate. Given that the Cook Political Report considers this Senate seat a safe Republican seat, Shrewsbury's chances may also be influenced by the overall political climate and voter sentiment leading up to the primary.
+Reports that in the 2024 Democratic primary, Glenn Elliott won with ~45%, Shrewsbury got ~36%, indicating Shrewsbury’s prior base and competitiveness—supports underpricing argument.
 
-Title: Zach Wahls' chances of beating Josh Turek in Iowa Senate race: Poll - Newsweek
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588
-Summary: The article discusses the Iowa Senate race, focusing on Democratic State Senator Zach Wahls, who is currently leading State Representative Josh Turek by a significant margin in the Democratic primary for Iowa's open U.S. Senate seat. This race is particularly notable due to Republican Senator Joni Ernst's decision not to seek reelection, creating a rare opportunity for Democrats to expand their representation in a closely divided Senate.
+### [In race for his Senate seat, Joe Manchin endorses West Virginia Democratic Mayor Glenn Elliott](https://apnews.com/article/8b8ad1cb4989b4dc253b7cf95932285e)
+**Author:** Unknown (AP) | **Published:** 2024-04-19
 
-While the article does not directly address Zachary Shrewsbury's candidacy in West Virginia, it highlights the competitive nature of Senate races in the current political landscape, where open seats can lead to significant shifts in party representation. Factors such as internal polling, candidate popularity, and the political climate in their respective states will be crucial in determining whether Shrewsbury can secure the Democratic nomination. 
+Describes Manchin’s endorsement of Elliott in the 2024 primary, underlining establishment support for Elliott and context for why Shrewsbury underperformed then—suggests structural hurdles remain.
 
-For a more accurate prediction regarding Shrewsbury's chances, one would need to consider similar polling data, the dynamics of the West Virginia Democratic primary, and the overall political environment in the state.
+### [Mercer County resident to speak on Bernie Sanders ‘Fighting Oligarchy’ tour](https://www.wvva.com/2025/08/05/mercer-county-resident-speak-bernie-sanders-fighting-oligarchy-tour/)
+**Author:** Taylor Hankins | **Published:** 2025-08-05
 
+Notes Shrewsbury’s continued activism and visibility in 2025 speaking at Sanders events—indicates sustained profile and organizational presence, supporting his viability.
 
+### [Senate Democratic candidate files late financial disclosure, sparks class struggle debate](https://www.wvgazettemail.com/news/politics/senate-democratic-candidate-files-late-financial-disclosure-sparks-class-struggle-debate/article_19d3cb28-cc56-5a91-8cb8-2fa0a7c6a70c.html)
+**Author:** Mike Tony | **Published:** 2024-05-10
+
+Reports on Shrewsbury’s late financial disclosure filing, prompting scrutiny—suggests potential liabilities that could affect his perceived electability, countering bullish case.
+
+### [West Virginia Election Filings: U.S. Senate Race Getting Crowded](https://www.theintelligencer.net/news/community/2026/01/west-virginia-election-filings-u-s-senate-race-getting-crowded/)
+**Author:** Joselyn King | **Published:** 2026-01-23
+
+Documents new Democratic entrants (Rachel Fetty Anderson, Rio Phillips) entering the primary—highlighting a crowded field that dilutes Shrewsbury’s chance and justifies conservative market pricing.

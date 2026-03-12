@@ -1,86 +1,112 @@
 # Research: Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?
 
 **Market ID:** 0xf125ec027b10cfc944d90a8e12558a05191214a774501382d85bed74773a2b23
-**Researched At:** March 7, 2026 at 02:34:32 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"
+**Researched At:** March 12, 2026 at 04:13:44 AM UTC
+**Search Query:** "Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 9.0¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-Recent UNH polls show Helena Foulkes leading Dan McKee by ~16 points, but with 40% undecided and six months to go, an 82.5% win probability seems overstated. Low volume suggests the price may reflect few traders rather than broad consensus.
+Multiple recent polls and strong fundraising consistently show Helena Foulkes leading Dan McKee in the Democratic primary, with no credible evidence of large mispricing; undecided voters and speculative entrants pose risk, but the market’s ~82.5% probability appears well-supported.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Helena Foulkes will win the Democratic primary for Rhode Island governor on September 8, 2026. A “YES” requires Foulkes to secure the plurality (or majority, including any run-off) of votes in that primary; “NO” covers any other winner or if no primary occurs.
+Below is a detailed, objective evaluation of the prediction market for **“Will Helena Foulkes win the 2026 Rhode Island Governor Democratic primary election?”**, conducted according to your structured guidance. All statements are based on recent news, polls, campaign finance data, and expert commentary—not from prediction market platforms.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence (supports ~82.5% price):  
-• Three University of New Hampshire polls (Feb 24–25) show Foulkes leading Dan McKee by double digits (34–35% vs. 18–19%), with low approval for McKee and consistent Foulkes momentum.  
-• Foulkes’s high-profile housing plan (millionaires tax for 20,000 homes) generates positive press and may boost her credibility among primary voters.  
+---
 
-Bearish evidence (suggests price could be too high):  
-• Roughly 40% of likely primary voters remain undecided in those polls; volatility among undecided could swing a close primary.  
-• Polling is still early (6+ months until the primary); campaign developments, fundraising gaps, or outside endorsements could reshape the field.  
-• Low trading volume (Total Vol: $0) raises the possibility that this 82.5% price reflects one or two traders’ priors, not broad market consensus.
+### 1. CONTEXT ANALYSIS  
+The market asks whether **Helena Foulkes** will win the **Democratic primary for Rhode Island governor** on **September 8, 2026**.  
+- A "YES" resolution requires Foulkes to be the nominee ultimately, based on official state Democratic Party results—or an overwhelming consensus from credible reporting.  
+- A "NO" would arise if **Dan McKee**, another declared candidate, **Gregory Stevens**, or any other contender wins—or if the primary does not occur, leading to “Other.”
 
-All sources are recent (late Feb–early Mar 2026) and from credible outlets/universities. However, there is no polling data after early March to capture developments.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-An 82.5% probability could be justified by multiple consistent polls showing double-digit leads, low approval of the incumbent, and Foulkes’s strong messaging. But zero volume suggests limited information aggregation: if many traders agreed, we’d expect at least some turnover. The tight spread implies the same trader(s) posted both bids and asks to fix the price. It may not represent diversified market wisdom.
+### 2. EVIDENCE EVALUATION  
 
-4. MISPRICING ASSESSMENT  
-Weighing evidence: polling gives Foulkes a strong but not overwhelming advantage (35% support vs. 19%, 40% undecided). Turning a ~15-point poll lead into an 82.5% win probability six months out seems aggressive. A reasonable win probability might be closer to 60–70%, implying mispricing of ~12.5–22.5 cents. Given the undecided bloc and time for campaign dynamics to shift, the 82.5% price likely overstates Foulkes’s near-term certainty.
+**Evidence suggesting the market price (~82.5%) might be incorrect (i.e., possibly overestimating Foulkes):**  
+- **High undecided rate**: The February 2026 UNH “Ocean State Poll” shows 40% of likely Democratic primary voters remain undecided ([yahoo.com](https://www.yahoo.com/news/articles/foulkes-leads-mckee-16-points-154820838.html?utm_source=openai)). With crossover among moderates and progressives, that leaves considerable room for shifts.  
+- **Potential late entry**: Speaker **Joe Shekarchi** had been considered a prospective candidate; his entrance could disrupt consolidation ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/912/?utm_source=openai)). Even though recent reporting suggests he’s not running ([reddit.com](https://www.reddit.com/r/RhodeIsland/comments/1qvrvc6/itll_be_mckee_v_foulkes_after_all/?utm_source=openai)), the possibility might still be on informed traders' minds.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (poll reliability + market structure concerns): 60%  
-Magnitude of mispricing (estimated around 15 cents): 15 cents  
-Expected value = 60% × 15 cents = 9 cents
+**Evidence supporting the current price as reasonable or justified:**  
+- **Consistent polling lead**: Multiple polls—including UNH late November 2025 and February 2026—show Foulkes ahead of McKee by substantial margins (e.g., 34% vs. 18%) ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/912/?utm_source=openai)).  
+- **Fundraising advantage**: Foulkes has significantly outraised McKee. In late 2025 she raised ~$576k and held ~$2.8M cash vs. McKee’s ~$210k raised and ~$1.1M on hand ([yahoo.com](https://www.yahoo.com/news/articles/cash-clash-foulkes-outraises-mckee-212857044.html?utm_source=openai)). Earlier in mid‑2025, she had already raised over three times as much ([yahoo.com](https://www.yahoo.com/news/articles/foulkes-tops-mckee-latest-fundraising-185928577.html?utm_source=openai)).  
+- **Incumbent unpopularity**: McKee's approval ratings are notably low (~18–21%) ([yahoo.com](https://www.yahoo.com/news/articles/foulkes-leads-mckee-16-points-154820838.html?utm_source=openai)), while reports emphasize Foulkes’ policy messaging on housing and ethics reforms ([progressive-charlestown.com](https://www.progressive-charlestown.com/2026/03/helena-foulkes-candidate-for-governor.html?utm_source=openai)). Low approval further erodes incumbent advantage.  
+- **Lack of strong rival entries**: Recent coverage and community discourse suggest Shekarchi opted not to run, removing a potential structural threat ([reddit.com](https://www.reddit.com/r/RhodeIsland/comments/1qvrvc6/itll_be_mckee_v_foulkes_after_all/?utm_source=openai)), and no other major challenger has emerged.
 
-EXPECTED_VALUE: 9  
-SUMMARY: Recent UNH polls show Helena Foulkes leading Dan McKee by ~16 points, but with 40% undecided and six months to go, an 82.5% win probability seems overstated. Low volume suggests the price may reflect few traders rather than broad consensus.  
+**Source credibility and recency:**  
+- Polling and fundraising data are from reputable outlets (UNH Survey Center, WPRI / Yahoo, Providence Journal) published within the last few weeks or months (late 2025 to March 2026).  
+- Campaign announcements and reporting are from AP, WPRI, and other mainstream news, several months old but still relevant.  
+- Reddit chatter offers insight into public sentiment and speculation but is anecdotal and should be weighted lightly.
+
+---
+
+### 3. MARKET EFFICIENCY ANALYSIS  
+
+- **Reasonable interpretation of current price**: Given Foulkes consistently polls with a double‑digit lead, has strong fundraising, and her opponent is weak/unpopular, a probability around 80–85% seems commensurate.  
+- **Consensus vs. individual**: The alignment of multiple independent data points (polls, finance, approval ratings) suggests a broader, informed consensus rather than a single actor dominating pricing.  
+- **Low volume origin**: With $0 trading volume but tight spread, the market likely reflects a small number of informed participants capturing widely available public data; not necessarily inefficiency, but still potential for underreaction to emerging developments.  
+- The high undecided share implies meaningful uncertainty remains; however, the market price reflects current aggregation of available data, not assumption of inevitability.
+
+---
+
+### 4. MISPRICING ASSESSMENT  
+
+- No **specific, credible evidence** indicates a >20–point mispricing. The margin is consistent with public data trends.  
+- Potential unknowns (e.g., a surprise candidate, sudden scandal) exist but are speculative and not grounded in current evidence.  
+- The polling and financial trends strongly suggest Foulkes is favored.  
+- Considering timeline (six months to go), undecideds usually break late—so some uncertainty remains. But market price aligns with current signals, not ignoring them.
+
+Therefore, **there is no strong evidence of mispricing**; the market appears reasonably, although not certainly, priced.
+
+---
+
+### 5. EXPECTED VALUE CALCULATION  
+
+- **Strength of evidence**:  
+  - Polling, fundraising, and approval data are solid and credible: I’d rate ~80%.  
+- **Magnitude of mispricing**:  
+  - If mispricing exists, likely small—perhaps ±5 cents, but more plausibly closer to ±2–3 cents. Given insufficient evidence, we lean toward 0.  
+- **Expected value**:  
+  - 80% × 3 cents = 2.4 cents; but given we found no credible mispricing signal, we instead assign:  
+    - Strength: 20% (since mispricing not supported) × magnitude 0 cents = 0 expected value.
+
+Thus **expected value is 0 cents**—meaning low payoff for betting the market is mispriced.
+
+---
+
+EXPECTED_VALUE: 0  
+SUMMARY: Multiple recent polls and strong fundraising consistently show Helena Foulkes leading Dan McKee in the Democratic primary, with no credible evidence of large mispricing; undecided voters and speculative entrants pose risk, but the market’s ~82.5% probability appears well-supported.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Foulkes maintains double-digit lead over McKee in UNH survey - Ocean State Media
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.oceanstatemedia.org/politics/elections/foulkes-maintains-double-digit-lead-over-mckee-in-unh-survey
-Summary: A recent UNH survey indicates that Helena Foulkes currently holds a double-digit lead over incumbent Governor Dan McKee among Rhode Island Democratic primary voters. Many voters remain undecided, but Foulkes's lead suggests she has significant support at this stage. While primary outcomes can change, the survey's results imply that Foulkes is a strong contender to win the 2026 Democratic primary for Rhode Island governor.
+### [Foulkes leads McKee by 16 points in new poll of governor's race](https://www.yahoo.com/news/articles/foulkes-leads-mckee-16-points-154820838.html)
+**Author:** Patrick Anderson, Providence Journal (via Yahoo) | **Published:** 2026‑02‑24
 
-Title: Foulkes calls for millionaires tax to help fund 20,000 new R.I. homes
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.bostonglobe.com/2026/03/02/metro/foulkes-millionaires-tax-housing-governors-race-ri/
-Summary: Helena Foulkes has proposed a comprehensive housing plan for Rhode Island, emphasizing the need to address the state's housing shortage, which is currently the worst in the nation. Her plan includes implementing a 3% tax on incomes over $1 million to create a $1 billion revolving loan fund aimed at building over 20,000 affordable homes and apartments. She advocates for a constitutional amendment to protect this funding and emphasizes leveraging private, federal, and philanthropic dollars. While her platform is focused on substantial housing development and addressing affordability, her success in the Democratic primary will depend on broader electoral factors, including voter support for her housing policies and her challenge to incumbent Governor Daniel J. McKee.
+Reports a University of New Hampshire Survey Center poll from February 12–16 showing former CVS executive Helena Foulkes at 34% versus incumbent Governor Dan McKee at 18% among likely Democratic primary voters, with 40% undecided. This supports Foulkes’ polling lead and highlights significant remaining uncertainty.
 
-Title: McKee still trails Foulkes in R.I. governor race in latest UNH poll
-Author: PBN Staff
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://pbn.com/mckee-still-trails-foulkes-in-r-i-governor-race-in-latest-unh-poll/
-Summary: The latest UNH poll indicates that Helena Foulkes currently trails in the Rhode Island governor race, suggesting she is not leading among Democratic candidates at this time. While this data provides insight into her current standing, it does not definitively predict her success in the 2026 Democratic primary. Factors such as campaign development, voter sentiment, and future polling will influence her prospects for winning the primary election.
+### [Cash clash: Foulkes outraises McKee as primary rematch looms](https://www.yahoo.com/news/articles/cash-clash-foulkes-outraises-mckee-212857044.html)
+**Author:** Eli Sherman (WPRI via Yahoo) | **Published:** 2026‑02‑02
 
-Title: UNH Poll: Foulkes Leads McKee, Few Want Raimondo to… | Go Local Prov
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.golocalprov.com/politics/unh-poll-foulkes-leads-mckee-few-want-raimondo-to-run-again
-Summary: A recent UNH poll indicates that Helena Foulkes currently leads in the 2026 Rhode Island Democratic primary, with 35% support compared to Governor Dan McKee's 19%. However, a significant 40% of likely Democratic primary voters remain undecided, suggesting the race is still competitive. The poll's methodology has been criticized by McKee's campaign for potential inaccuracies, but overall, Foulkes appears to have a strong position at this stage. Given the high level of undecided voters, her chances of winning the primary could improve or diminish depending on campaign developments and voter engagement moving forward.
+Describes Foulkes raising $576,000 in late 2025 to build a war chest of ~ $2.8M compared to McKee’s $210,000 raised and $1.1M cash on hand. Demonstrates financial strength advantage, reinforcing her campaign viability and supporting market pricing.
 
-Title: New poll shows Foulkes leading McKee in governor's race
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: http://shelbystar.com/story/news/politics/elections/2026/02/24/new-poll-shows-foulkes-leading-mckee-in-governors-race/88840539007/
-Summary: Helena Foulkes currently leads in the Democratic primary race for Rhode Island governor, holding a 16-point advantage over incumbent Gov. Dan McKee according to a recent University of New Hampshire Survey Center poll. With 34% of likely Democratic primary voters supporting Foulkes, compared to 18% for McKee, and 40% undecided, her lead suggests strong momentum. The poll also indicates low approval ratings for McKee, with only 18% of Rhode Island residents approving of his performance. Despite McKee's campaign disputing the poll's methodology, Foulkes' consistent lead and the declining popularity of McKee imply she has a significant chance of winning the primary.
+### [Rhode Island Democratic Gubernatorial Primary Muddied by High Number of Undecided Likely Voters (UNH Survey Center)](https://scholars.unh.edu/survey_center_polls/912/)
+**Author:** UNH Survey Center (Ocean State Poll) | **Published:** 2025‑11‑24
 
+Early polling indicates Foulkes leading slightly over McKee and Speaker Shekarchi, while many voters remain undecided. It illustrates inconsistent clarity in the race and potential volatility—cautioning against overconfidence in price but supporting Foulkes’ frontrunner status.
 
+### [Foulkes wants ban on lobbyist donations to lawmakers during Assembly session](https://www.yahoo.com/news/articles/foulkes-wants-ban-lobbyist-donations-214339101.html)
+**Author:** Ted Nesi (WPRI via Yahoo) | **Published:** 2026‑01‑12
+
+Covers Foulkes’ ethics reform proposals, including voluntary adherence to a ban on lobbyist donations during legislative sessions. Reinforces her campaign activity and substantive positioning, supporting credibility and viability in the primary.

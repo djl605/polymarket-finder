@@ -1,75 +1,110 @@
 # Research: Will USD-denominated stablecoin market share fall below 99% in 2026?
 
 **Market ID:** 0x36a34d4a645725ca2f09fd4a7c6961aee5110a2a94079d65325d33b8dda67b99
-**Researched At:** March 6, 2026 at 04:18:05 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will USD-denominated stablecoin market share fall below 99% in 2026?"
+**Researched At:** March 12, 2026 at 04:14:13 AM UTC
+**Search Query:** "Will USD-denominated stablecoin market share fall below 99% in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.0¢
+**Expected Value:** 4.2¢
 
 ### Summary
 
-Multiple recent, reputable analyses (Morgan Lewis, J.P. Morgan, Stablecoin Insider) project USD‐pegged coins will maintain ~99%+ share in 2026, with no data suggesting a dip below 99%. The market’s 15% probability of a drop appears overstated, but low volume and broad awareness of these reports limit the mispricing opportunity.
+Data from ECB and industry reports indicates USD‑denominated stablecoins maintain ~99%+ share through early 2026, making a dip below 99% very unlikely; the market’s ~18.5% probability for “Yes” appears overstated but could reflect cautious speculation on regulatory‑driven euro‑stablecoin launches.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether USD‐denominated stablecoins will ever drop below 99% of total stablecoin supply at any monthly data point in 2026. A “Yes” requires a non-USD pegged coin (e.g., euro, crypto-collateral) to grow enough relative to USD-pegged coins that USD’s share dips under 99% in at least one finalized month.
+Below is a structured, in-depth analysis following your instructions.
 
-2. EVIDENCE EVALUATION  
-Bullish (YES) signals:  
-• Outlook India (Feb 2026) cites capital rotation from USDT to permitted stablecoins, but these remain USD-pegged, so currency share unchanged.  
-• GENIUS Act (Morgan Lewis) could over the next three years reshape issuer landscape, perhaps enabling non-USD entrants—but no direct data showing non-USD coins will surge.  
+CONTEXT ANALYSIS  
+The prediction market asks: “Will USD‑denominated stablecoin market share fall below 99% in 2026?”  
+- It resolves “Yes” if at any point during 2026 the percentage of total stablecoin supply denominated in USD falls below 99% (i.e., non‑USD stablecoins exceed 1% share in any month).  
+- To resolve “No,” USD‑denominated share must remain at or above 99% throughout all of 2026.
 
-Bearish (NO) signals:  
-• Morgan Lewis (current) and J.P. Morgan (recent) both report USD coins already at ~99% share and project no material decline by 2026 without a large regulatory or technological shock.  
-• Stablecoin Insider (Feb 2026) shows USDT+USDC at 93% market cap; adding other USD‐pegged coins likely pushes total USD share up to ~99%. No credible source predicts share <99%.  
+For "Yes" to occur, non‑USD pegged stablecoins (e.g., EUR, GBP, JPY, etc.) must grow such that their total share exceeds 1% of the stablecoin supply at a finalized monthly datapoint during 2026.
 
-All sources are recent (Jan–Feb 2026) and from reputable legal, institutional, and market-research providers. The one ostensibly bearish outlier (capital rotation) doesn’t affect currency distribution.
+EVIDENCE EVALUATION  
+Evidence suggesting the market price (~18.5% probability of “Yes”) might be incorrect (i.e., the chance of non‑USD share exceeding 1% is very low):
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 15% probability could reflect cautious pricing for unforeseen regulatory shocks, but with all major analysis agreeing USD share will stay ≥99%, it seems more likely that no substantial new information is unpriced. Low volume suggests few participants rather than a settled consensus. The tight spread likely reflects order-book depth rather than broad information aggregation.
+- A recent 2026 analysis states the market remains overwhelmingly USD‑based, with ECB noting ~99% of stablecoin supply is USD‑denominated, and euro coins remain only in the hundreds of millions of euros ([stablecoininsider.org](https://stablecoininsider.org/stablecoin-trends-in-2026/?utm_source=openai)).  
+- A 2026 special industry outlook forecasts USD‑pegged stablecoins continue dominating, with non‑USD stablecoins staying under 1‑2% despite growth ([stablecoininsider.org](https://stablecoininsider.org/2026-stablecoin-outlook-heres-whats-coming/?utm_source=openai)).  
+- As of early 2026, USDT (~$184–187B) and USDC (~$77B) continue dominating the market, a combined share far in excess of 99% if considering smaller USD variants as well ([stablecoininsider.org](https://stablecoininsider.org/stablecoin-trends-in-2026/?utm_source=openai)).  
+- A prediction analysis (excluding market site but summarizing data points) found current non‑USD share around 0.25–0.3%, far below the >1% threshold required ([polychances.com](https://polychances.com/polymarket-events/will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026/?utm_source=openai)).
 
-4. MISPRICING ASSESSMENT  
-Given multiple credible forecasts of ~99%+ USD share and no sign of a non-USD surge, a 15% chance of dropping below that threshold seems overstated. The reasonable probability might be closer to 5%–7%, implying a mispricing on the order of 8–10 cents if traders haven’t fully internalized these widely cited reports. However, because investors aware of these same reports would already have priced in stability, the actual mispricing opportunity is modest.
+Evidence supporting the market price as reasonable (i.e., room for non‑USD growth to over 1%):
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: ~60% (consistent, recent, credible)  
-Magnitude of mispricing: ~10 cents  
-Expected value ≈ 0.6 × 10 = 6 cents
+- Industry expectations hint at growing regulatory clarity (MiCA in Europe), bank consortia, and institutional euro stablecoin initiatives that might launch in 2026, potentially boosting non‑USD share ([polychances.com](https://polychances.com/polymarket-events/will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026/?utm_source=openai)).  
+- 2025 data from CoinDesk indicates non‑USD fiat stablecoins surged 30% in April 2025 to $533M—though still low in absolute terms, the increase shows momentum ([coindesk.com](https://www.coindesk.com/research/stablecoins-and-cbdcs-report-april-2025?utm_source=openai)).  
+- Broader on‑chain data shows activity increases in Southeast Asia and other regions, with regional non‑USD transactions growing—though these remain a small fraction of total ([coinlaw.io](https://coinlaw.io/stablecoin-market-share-by-chain-statistics/?utm_source=openai)).
 
-EXPECTED_VALUE: 6  
-SUMMARY: Multiple recent, reputable analyses (Morgan Lewis, J.P. Morgan, Stablecoin Insider) project USD‐pegged coins will maintain ~99%+ share in 2026, with no data suggesting a dip below 99%. The market’s 15% probability of a drop appears overstated, but low volume and broad awareness of these reports limit the mispricing opportunity.  
+Source credibility and recency:
+
+- ECB and Stablecoin Insider (2026) are highly credible and recent ([stablecoininsider.org](https://stablecoininsider.org/stablecoin-trends-in-2026/?utm_source=openai)).  
+- CoinDesk (2025) is reputable, though slightly older, showing trends ([coindesk.com](https://www.coindesk.com/research/stablecoins-and-cbdcs-report-april-2025?utm_source=openai)).  
+- The prediction analysis (turn0search5) isn’t a prediction market but a third-party analytic summary; credibility is lower than primary institutions but still insightful.
+
+MARKET EFFICIENCY ANALYSIS  
+Interpretations justifying current market price (~18.5% for “Yes”):
+
+- The market may reflect cautious uncertainty: while data shows dominance of USD, there is ambiguous potential for non‑USD stablecoins to breach 1% within the year due to regulatory and institutional developments—hence a non‑zero probability.  
+- Low volume and tight spread suggest the price may be driven by a few over‑confident traders speculating on growth of euroland or regional stablecoins, rather than broad consensus.
+
+Could this reflect genuine consensus or just a few voices?
+
+- Given $0 total trading volume, it likely reflects the latter—limited engagement, so price may not reflect broad, informed consensus.
+
+Is low volume because outcome is obvious, or because traders haven’t focused on this market?
+
+- The data convincingly points to USD dominance; thus the outcome appears straightforward. Yet, the complexity of regulatory rollouts and potential for a surprise may mean informed traders haven’t engaged due to low stakes or risk of minor movement, reinforcing low volume.
+
+MISPRICING ASSESSMENT  
+Weighing both sides objectively:
+
+- On the bullish side (for “Yes”), there is credible possibility of scheduled euro stablecoins, regulatory clarity (MiCA), and new issuers launching in 2026—thus non‑USD share could grow from near zero toward 1%, though reaching over is still rather unlikely.  
+- On the bearish side, multiple high‑credibility sources (ECB, industry outlooks) indicate USD‑denominated share is around ~99%, and non‑USD share is far below 1% with little evidence of impending massive growth ([stablecoininsider.org](https://stablecoininsider.org/stablecoin-trends-in-2026/?utm_source=openai)).
+
+Key checkpoint: Is a >20‑cent mispricing plausible? If currently price implies 18.5% chance of “Yes,” suggesting mispricing of ~80+ cents, that seems implausible given the overwhelming data. Instead, the market probability seems inflated—but not extremely so, perhaps modestly.
+
+There is no indication resolution criteria misunderstood: “below 99%” is clear. Data shows USD share at ~99%, so a sub‑99% dip would require a material and rapid non‑USD increase, not supported.
+
+Thus, mispricing might exist, but likely small. The market price overestimates the probability of breach, but the evidence of collapse is weak.
+
+EXPECTED VALUE CALCULATION
+
+- Strength of evidence: ~60% confidence in slight mispricing—the evidence that USD share remains ~99+% is strong, but developments could shift.  
+- Magnitude of mispricing: Perhaps only 5–10 cents—market at 18.5%, but rational might be closer to 5–10% at most.
+
+Take midpoint: confidence 60% × magnitude 7 cents = ~4.2 cents.
+
+EXPECTED_VALUE: 4.2  
+SUMMARY: Data from ECB and industry reports indicates USD‑denominated stablecoins maintain ~99%+ share through early 2026, making a dip below 99% very unlikely; the market’s ~18.5% probability for “Yes” appears overstated but could reflect cautious speculation on regulatory‑driven euro‑stablecoin launches.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Stablecoin Regulation & Legal Guidance | Morgan Lewis
-URL: https://www.morganlewis.com/topics/stablecoin
-Summary: The webpage discusses the rapid growth of USD-denominated stablecoins, which currently constitute approximately 99% of the stablecoin market, with issuance rising from $62 billion in 2021 to nearly $250 billion today. It highlights recent regulatory developments in the U.S., notably the passage of the GENIUS Act, which aims to establish a comprehensive legal framework for stablecoins, including timelines for regulation implementation, public comment periods, and restrictions on offering stablecoins by unpermitted issuers within three years. The regulation seeks to promote innovation while addressing risks such as illicit activity and insolvency. Given these measures, the stablecoin market remains heavily centered on USD-pegged coins, and while regulatory efforts could influence market dynamics, there is no current indication that USD stablecoins' market share will significantly decline below 99% by 2026.
+### [The Biggest Stablecoin Trends In 2026](https://stablecoininsider.org/stablecoin-trends-in-2026/)
+**Author:** Unknown | **Published:** 2026-03-08
 
-Title: Stablecoin Rotation 2026: USDT vs. Permitted Stablecoins | Outlook India
-Author: Nexa Desk
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.outlookindia.com/xhub/blockchain-insights/stablecoin-rotation-why-capital-is-fleeing-usdt-for-permitted-stablecoins
-Summary: In 2026, a significant shift is occurring in the stablecoin market as capital moves away from USDT (Tether) toward federally supervised "permitted stablecoins." This rotation is driven by increasing regulatory pressure, institutional demand for transparency, and a broader move toward compliant digital assets. Stablecoins are vital for the crypto economy, providing stability, liquidity, and a bridge to traditional finance. The emerging permitted stablecoins are issued under direct regulatory oversight, offering enhanced trust and compliance. While USDT currently dominates the USD-pegged stablecoin market, this structural change suggests that its market share could decline below 99%, as investors and institutions favor regulated, transparent alternatives.
+Notes that as of early 2026 USD‑pegged stablecoins remain dominant, and ECB reports ~99% of all stablecoin supply is USD‑denominated, with euro‑denominated stablecoins at only hundreds of millions. This strongly supports the view that USD dominance will likely remain, challenging the probability that non‑USD share will exceed 1%.
 
-Title: Stablecoin Market Growth 2026: Insights from Stablecoin Insider
-Author: Tajammul Pangarkar
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.news.market.us/stablecoin-market-growth-2026-insights-from-stablecoin-insider/
-Summary: By 2026, USDT and USDC together dominate the stablecoin market, accounting for approximately 93% of total market capitalization, with over 90% of fiat-backed stablecoins pegged to the U.S. dollar. Despite rapid growth in transaction volume—reaching $33 trillion annually and a market cap projected to approach $1 trillion—USD-denominated stablecoins maintain a dominant market share. The data indicates that USD-pegged stablecoins are likely to remain the primary players, and there is no significant trend suggesting their market share will fall below 99% in 2026.
+### [2026 Stablecoin Outlook: Here's What's Coming](https://stablecoininsider.org/2026-stablecoin-outlook-heres-whats-coming/)
+**Author:** Unknown | **Published:** circa 2026-01
 
-Title: What to Know About Stablecoins | J.P. Morgan Global Research
-URL: https://www.jpmorgan.com/insights/global-research/currencies/stablecoins
-Summary: The webpage from J.P. Morgan Global Research offers insights into stablecoins, emphasizing their role within the broader digital asset ecosystem. Stablecoins are digital tokens designed to maintain a stable value, typically pegged to fiat currencies like the USD. The research discusses the prominence of USD-denominated stablecoins, which currently dominate the market with over 99% market share. Factors influencing their dominance include widespread acceptance, regulatory considerations, and the liquidity provided by major financial institutions. While the report highlights the stability and importance of USD stablecoins, it also notes emerging competition from other stablecoins pegged to different currencies or assets. However, given current market dynamics and the entrenched position of USD stablecoins, a significant decline below 99% market share by 2026 appears unlikely without substantial shifts in regulation, technology, or global economic conditions.
+Forecasts USD‑pegged stablecoins will hold over 95% share in 2026 despite growth, with non‑USD stablecoins under 5% and currently under 1‑2%. This supports the view that sub‑99% USD share is unlikely.
 
+### [Stablecoins & CBDCs Report - April 2025](https://www.coindesk.com/research/stablecoins-and-cbdcs-report-april-2025)
+**Author:** CoinDesk Data | **Published:** 2025-05-02
 
+Reports a 30% jump in non‑USD fiat stablecoins to $533M in April 2025, though this remains small relative to USD‑stablecoins. Indicates growth trend but still insufficient to push non‑USD share over 1%, suggesting minor chance of mispricing.
+
+### [Polymarket Odds: Will USD‑denominated stablecoin market share fall below 99% in 2026? (AI Predictions)](https://polychances.com/polymarket-events/will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026/)
+**Author:** Unknown | **Published:** 2026-02 (approx)
+
+Despite summarizing prediction market echoes, the analysis indicates current non‑USD share is only 0.25–0.3%, and non‑USD must grow >1% of total to resolve “Yes.” This supports that market’s ~18.5% probability likely overstates tail risk but reflects awareness of regulatory catalysts.

@@ -1,91 +1,130 @@
 # Research: Will Donald Trump visit Ukraine in 2026?
 
 **Market ID:** 0x89522d57b6a2cca2f737872db3ca4adcbaf0252fda9a265d90d549e7aee7bd43
-**Researched At:** March 4, 2026 at 02:46:18 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Donald Trump visit Ukraine in 2026?"
+**Researched At:** March 12, 2026 at 04:13:18 AM UTC
+**Search Query:** "Will Donald Trump visit Ukraine in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.9¢
+**Expected Value:** 2.4¢
 
 ### Summary
 
-There is no credible indication in recent diplomatic reporting that Trump will visit Ukraine in 2026, suggesting the 27.5% market price overstates the real likelihood, perhaps by ~15–20 cents. However, given the sparse information and low volume, the mispricing is modest.
+There is no credible recent evidence that Donald Trump will visit Ukraine in 2026, though diplomacy continues via neutral venues. The 21.5% price appears reasonable given the lack of announcements, and any mispricing is small.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- Market asks whether Trump will physically enter Ukraine’s territory at any time during 2026. A “Yes” requires a documented reciprocal visit, not merely airspace or announcements.
+Below is a structured, objective analysis of the prediction market question: *“Will Donald Trump visit Ukraine in 2026?”* based on recent, credible sources excluding prediction market platforms.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports higher than 27.5%):  
-- Trump is President again and has resumed high-level diplomacy on Ukraine (e.g., Washington meeting with Zelenskiy in August 2025), so a future visit can’t be ruled out.  
-- Public appetite for a symbolic peace-broker role could motivate a trip.  
+---
 
-Bearish (supports lower than 27.5%):  
-- No research source mentions any concrete plan for Trump to travel to Ukraine in 2026.  
-- Security risks in an active war zone and precedent (he never visited during his first term) argue against such a trip.  
-- Key insiders (Zelenskiy, diplomatic studies) refer only to U.S.-based talks or trilateral negotiations, not a Kyiv visit.  
+## 1. CONTEXT ANALYSIS
 
-Source Credibility & Recency:  
-- Reuters (2026-02-25) and TME News (2026-03-03) are recent and reliable but contain zero signals of a planned trip.  
-- Analytical pieces (OIIP, King’s College, Al Jazeera) emphasize policy uncertainty but lack any travel indications.
+The market asks whether Donald Trump will physically travel to Ukraine at any point between January 1 and December 31, 2026. A **YES** resolution requires Trump to enter Ukrainian territory before or on December 31, 2026. A **NO** resolution follows if no such visit occurs by that date.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 27.5% price plausibly reflects a default nonzero tail probability due to Trump’s unpredictability rather than evidence of a concrete plan.  
-- Low volume suggests the price may hinge on one or two speculators rather than aggregated insider views.  
-- The absence of any public announcement by early March 2026 points to low real likelihood, but uninformed traders may maintain the price axis.
+To resolve as YES:
+- There must be credible evidence (official U.S. or Ukrainian government source, Trump’s accounts, or consensus credible reporting) that Trump made the trip.
 
-4. MISPRICING ASSESSMENT  
-- No specific evidence suggests a scheduled or likely trip in 2026.  
-- The market price likely overstates the real chances; a more realistic forecast might be in the 5–15% range.  
-- Given uncertainty and lack of announcements, a modest mispricing of ~15–20 cents seems plausible, but large (>20¢) mispricing is unsupported.
+To resolve as NO:
+- Absence of any indication of planning, invitation acceptance, or announced intent from credible sources.
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 45% (moderately convincing that no trip is planned)  
-- Estimated magnitude of mispricing: 17.5¢ (27.5% currently vs. ~10% implied fair price)  
-- Expected value ≈ 45% × 17.5¢ ≈ 7.9¢
+---
 
-EXPECTED_VALUE: 7.9  
-SUMMARY: There is no credible indication in recent diplomatic reporting that Trump will visit Ukraine in 2026, suggesting the 27.5% market price overstates the real likelihood, perhaps by ~15–20 cents. However, given the sparse information and low volume, the mispricing is modest.  
+## 2. EVIDENCE EVALUATION
+
+### Evidence Suggesting Possible Visit (Supports YES)
+
+- In **February 2026**, U.S., Ukraine, and Russia held trilateral peace talks in Geneva—indicative of active U.S. diplomatic engagement, though Trump personally may not have attended ([en.wikipedia.org](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_war_%282022%E2%80%93present%29?utm_source=openai)).
+  
+- Zelensky has consistently sought high-level meetings with Trump. In **December 2025**, Zelensky visited Mar-a-Lago to refine a peace proposal with Trump ([theguardian.com](https://www.theguardian.com/world/2025/dec/26/zelenskyy-to-meet-trump-in-coming-days-as-us-steps-up-push-for-ukraine-peace-deal/?utm_source=openai)).
+
+- Proposals and negotiations have involved U.S. security guarantees and economic terms, signaling a continued diplomatic channel ([washingtonpost.com](https://www.washingtonpost.com/world/2026/01/01/ukraine-russia-peace-plan-obstacles/?utm_source=openai)).
+
+These show active diplomacy, but **none indicate Trump accepted an invitation to visit Ukraine**. There is no reporting from his verified accounts or official statements moderately suggesting his intention to travel to Kyiv.
+
+### Evidence Suggesting Low Likelihood (Supports NO)
+
+- There is **no credible declaration** from Trump, the U.S. government, or Ukrainian officials that such a trip is planned or asked for in 2026.
+
+- A **Washington Post opinion** (March 2025) recommended Trump visit Ukraine to smooth diplomatic ties, suggesting that as of early 2025, such a visit had not occurred nor been confirmed ([washingtonpost.com](https://www.washingtonpost.com/opinions/2025/03/04/ukraine-zelensky-oval-office-blowup-minerals/?utm_source=openai)).
+
+- A recent opinion piece in the **Inquirer (Feb 2026)** asserts that peace talks, including a second round in Geneva, were going nowhere “as long as Trump only pressures Ukraine,” implicitly highlighting **lack of progression** including no physical visit ([inquirer.com](https://www.inquirer.com/opinion/ukraine-fourth-anniversary-war-russia-munich-security-conference-20260222.html?utm_source=openai)).
+
+- Other diplomatic efforts focus on talks staged in third-party locations (e.g., Abu Dhabi, Geneva) rather than a Ukrainian-based visit ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Abu_Dhabi?utm_source=openai)).
+
+### Source Credibility and Recency
+
+- The **Peace negotiations entry** (Wikipedia) is very recent (crawled yesterday) and reliable for describing Geneva meetings ([en.wikipedia.org](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo-Ukrainian_war_%282022%E2%80%93present%29?utm_source=openai)).
+
+- **Guardian**, **Washington Post**, **Inquirer**, and **Washington Post opinion** are reputable outlets.
+
+- These sources are **current**, spanning late 2025 to early 2026, directly related to U.S.-Ukraine diplomatic activity.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Possible rationale for current price (~21.5%)**:
+  - Trump and Zelensky remain in contact; Zelensky clearly invited meeting—thus some chance, but low unless more evidence emerges.
+  - Active diplomacy in neutral venues may suggest growing intimacy—but geopolitical risk and security concerns may deter a Ukraine visit.
+
+- **Alternative**: The low market volume means price may largely reflect random traders’ speculation rather than aggregated informed view. The spread is very tight (1¢), which could indicate a single participant's quotes rather than true consensus.
+
+- Low volume could mean informed traders see little actionable information—or they consider the probability low and unworthy of engagement—resulting in inertia around mid-range pricing.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- **Evidence for mispricing**: Minimal. There's no hard evidence missing from the market that would justify raising the probability substantially.
+
+- **Evidence for correct pricing**: Given absence of announcement or scheduling and the continued preference for neutral-site diplomacy, 21.5% seems plausible.
+
+- **Timeline uncertainty**: As of March 12, 2026, there's still potential time left. However, without any announcement, the price remains speculative.
+
+- **Inquiry of large mispricing (>20 cents)**: Unlikely. No critical information is missing; if anything, the market seems reasonable. We are not missing resolution criteria—they are straightforward.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Very weak specific evidence of visit plans — ~20%.
+  
+- **Magnitude of mispricing**: Given current probability (21.5%), the likely correct probability may be around 5–10%. That suggests overpricing by ~10–15 cents.
+
+- Expected value = 20% × 12 cents = ~2.4 cents.
+
+---
+
+EXPECTED_VALUE: 2.4  
+SUMMARY: There is no credible recent evidence that Donald Trump will visit Ukraine in 2026, though diplomacy continues via neutral venues. The 21.5% price appears reasonable given the lack of announcements, and any mispricing is small.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Zelenskiy to Meet Trump in Washington Amid Ongoing Ukraine Conflict
-Author: TME News
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://themunicheye.com/breaking-news/zelenskiy-trump-washington-ukraine-peace-talks-627
-Summary: Ukrainian President Zelenskiy is scheduled to meet with U.S. President Donald Trump in Washington on August 20, 2025, amid ongoing tensions related to the Ukraine conflict. The meeting follows recent diplomatic efforts, including a summit between Trump and Russian President Putin, which did not result in a ceasefire or peace agreement. Trump has expressed a preference for negotiating a peace treaty directly with Russia rather than insisting on an immediate ceasefire, diverging from Ukraine and European allies' positions. Zelenskiy emphasizes the importance of security guarantees for Ukraine and aims to strengthen U.S. support for Ukraine's defense. While the 2025 meeting indicates ongoing high-level engagement, there is no specific information suggesting Trump’s plans for Ukraine in 2026. However, his current diplomatic stance and continued involvement in Ukraine-related discussions could influence future visits or policies toward Ukraine in 2026.
+### [Peace negotiations in the Russo‑Ukrainian war (2022–present)](https://en.wikipedia.org/wiki/Peace_negotiations_in_the_Russo‑Ukrainian_war_(2022‑present))
+**Author:** Unknown | **Published:** Unknown (crawled yesterday)
 
-Title: Zelenskiy, after speaking with Trump, says talks should lead to leaders' meeting | Reuters
-Author: Olena Harmash
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://in.mobile.reuters.com/world/ukrainian-negotiators-meet-us-team-thursday-zelenskiy-says-2026-02-25/
-Summary: Ukrainian President Zelenskiy and U.S. President Trump recently discussed upcoming trilateral talks with Russia, scheduled for March, aimed at resolving the Ukraine conflict. Zelenskiy emphasized that these talks should lead to a meeting of the leaders, supported by Trump, to address complex political and territorial issues. The discussions also covered post-war reconstruction and U.S. support, including military aid. While Zelenskiy dismissed Russian claims that Ukraine seeks nuclear weapons, there is no mention of any plans or indications of a future visit by Trump to Ukraine in 2026. The focus remains on diplomatic negotiations and international support to end the conflict.
+Describes trilateral Geneva meetings in February 2026 between the U.S., Ukraine, and Russia, with no mention of Trump visiting Ukraine. This indicates U.S. diplomatic involvement continues but not via a Trump trip to Kyiv, supporting the view that a visit is not planned.
 
-Title: Trump's 28-point Ukraine plan in full: What it means, could it work?
-Author: Sarah Shamim
-Published Date: 2025-11-21T00:00:00.000Z
-URL: https://www.aljazeera.com/news/2025/11/21/trumps-28-point-ukraine-plan-in-full-what-it-means-could-it-work
-Summary: The article details a leaked 28-point U.S. proposal aimed at ending the Russia-Ukraine conflict, reportedly drafted by Donald Trump. The plan emphasizes Ukraine's sovereignty, security guarantees, and territorial concessions, including Ukraine's agreement not to join NATO and NATO's commitment not to station troops there. It proposes a comprehensive security framework involving Russia, Ukraine, and Europe, with U.S. mediation for dialogue and de-escalation. The plan also includes measures for Ukraine’s economic rebuilding and EU integration. Given the focus on diplomatic and security arrangements, the plan suggests a strategic approach to stabilizing Ukraine but does not directly indicate Trump’s personal intentions or plans to visit Ukraine in 2026.
+### [Zelenskyy to travel to US for Trump meeting amid push for Ukraine deal | Ukraine | The Guardian](https://www.theguardian.com/world/2025/dec/26/zelenskyy‑to‑meet‑trump‑in‑coming‑days‑as‑us‑steps‑up‑push‑for‑ukraine‑peace‑deal/)
+**Author:** Unknown | **Published:** 2025‑12‑26
 
-Title: The War in Ukraine: The Moment of Truth in 2026? - oiip
-Author: Loïc Simonet
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.oiip.ac.at/publikation/the-war-in-ukraine-the-moment-of-truth-in-2026/
-Summary: Based on the January 2026 trend report on the Ukraine war, there is no specific mention of former U.S. President Donald Trump or any indication of his potential visit to Ukraine in 2026. The report emphasizes ongoing geopolitical tensions, the uncertain prospects for a ceasefire, and the strained relations between Europe, Russia, and the U.S., particularly noting Europe's marginalization and the U.S. stance. Given the current diplomatic landscape and the focus on U.S.-Ukraine relations, any prediction about Trump's visit remains speculative. There are no concrete developments or signals in the report suggesting that Trump will visit Ukraine in 2026.
+Reports Zelensky visited U.S. (Mar-a-Lago) to meet with Trump for peace discussions, indicating high-level dialogue but not a reciprocal trip to Ukraine, which tempers expectations of a Trump visit.
 
-Title: What will a Trump White House mean for Ukraine?
-Author: Tim Willasey-wilsey
-URL: https://www.kcl.ac.uk/what-will-a-trump-white-house-mean-for-ukraine
-Summary: The article discusses the potential impact of a Trump presidency on Ukraine, emphasizing the uncertainty surrounding his foreign policy approach. Trump has previously shown a tendency to prioritize policy independence and has made statements suggesting a less supportive stance toward Ukraine, especially compared to his first term. His administration's decisions, such as the controversial Afghanistan withdrawal, highlight a willingness to act unilaterally, which could translate into a less engaged or more unpredictable approach toward Ukraine. European allies, particularly the UK, are advised to maintain strong communication channels with Trump to influence his policies. Given Trump's history of unpredictable foreign policy moves and his focus on domestic priorities, there is no clear indication that he would visit Ukraine in 2026; such a visit would depend heavily on his foreign policy stance at that time and the geopolitical context.
+### [Opinion | 9 next steps for the U.S. and Ukraine. First: A visit from Trump.](https://www.washingtonpost.com/opinions/2025/03/04/ukraine‑zelensky‑oval‑office‑blowup‑minerals/)
+**Author:** Unknown | **Published:** 2025‑03‑04
 
+Advocates that Trump should visit Ukraine to rebuild diplomatic relations, implying that as early 2025 no visit had occurred or been arranged. This highlights the absence of planning for such a trip.
 
+### [On 4th anniversary of Ukraine war, Kyiv refuses to cave — to Putin or Trump | Opinion](https://www.inquirer.com/opinion/ukraine‑fourth‑anniversary‑war‑russia‑munich‑security‑conference‑20260222.html)
+**Author:** Unknown | **Published:** 2026‑02‑22
+
+As of February 2026, second-round peace talks in Geneva are faltering and there's no indication of a Trump trip to Ukraine. This supports the view that a visit remains unlikely.

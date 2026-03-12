@@ -1,84 +1,88 @@
 # Research: Will Shri Thanedar be the Democratic Nominee for MI-13?
 
 **Market ID:** 0x399b69600812f9997ee0dcac06c74c9351f230baa53765eacbc443a77bc520b9
-**Researched At:** March 3, 2026 at 04:22:28 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Shri Thanedar be the Democratic Nominee for MI-13?"
+**Researched At:** March 12, 2026 at 04:13:54 AM UTC
+**Search Query:** "Will Shri Thanedar be the Democratic Nominee for MI-13?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Research shows Thanedar’s financial advantage offset by a weak fundraising quarter and a surging challenger, making a roughly 50% market price plausible. No compelling, overlooked evidence suggests a large mispricing.
+Incumbent Shri Thanedar faces credible progressive and identity-based challenges, especially from Justice Democrats-backed McKinney, but Hollier’s exit and structural advantages suggest a close race. The current market price (~43.5%) does not appear significantly mispriced; possible undervaluation is modest, with expected value around 2.5¢.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Shri Thanedar will secure the Democratic nomination in Michigan’s 13th District primary on August 4, 2026. A “YES” resolution requires Thanedar to be formally nominated by party authorities (and no later replacement); a “NO” includes any other candidate winning or an unannounced nominee by November 3, 2026.
+Below is my comprehensive analysis of whether the prediction market for “Will Shri Thanedar be the Democratic Nominee for MI‑13?” appears to be mispriced. I relied on recent credible sources and carefully evaluated both bullish and bearish indicators.
 
-2. EVIDENCE EVALUATION  
-Bearish Signals  
-• February 2026 Detroit News (Melissa Nann Burke): Thanedar’s crypto-related losses cut $1.87 million from his war chest, while challenger Donavan McKinney raised $263K and picked up endorsements—signs of growing momentum.  
-• MIRS News (Feb 3): Thanedar’s Q4 fundraising was minimal ($25K, one Detroit donation), contrasting McKinney’s $217K raise and active campaign, suggesting Thanedar may be taking his renomination for granted.  
+**1. CONTEXT ANALYSIS**  
+- The market is a Yes/No on whether Shri Thanedar becomes the Democratic nominee for Michigan’s 13th Congressional District in the August 4, 2026 primary.  
+- A RESOLVE = YES if Thanedar wins that primary; NO if another candidate wins or if no nominee is announced by November 3, 2026 (though nomination is expected earlier).
 
-Bullish Signals  
-• IANS & IndiaWest (Feb 2): Thanedar still holds a $6.4 million cash advantage, leverages legislative achievements (district projects, national-security legislation, immigration reform), and enjoys incumbency and name recognition.  
-• No polling or additional endorsements data are publicly available beyond fundraising, so market participants likely rely heavily on the war-chest metric and incumbency edge.  
+**2. EVIDENCE EVALUATION**  
+Bullish (supports market price ~43.5% for Yes):  
+- Thanedar is the incumbent, representing a solidly Democratic district rated D+22 ([en.wikipedia.org](https://en.wikipedia.org/wiki/Michigan%27s_13th_congressional_district?utm_source=openai)).  
+- He has previously won primaries (2022, 2024) with clear though not dominant margins: ~28% in crowded 2022 field and ~54% in 2024 three-way race ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shri_Thanedar?utm_source=openai)).  
+- Incumbency and high self-funding give him strong structural advantage ([en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Michigan?utm_source=openai)).  
+- A key challenger, Adam Hollier, dropped out in September 2025 to pursue another race, easing Thanedar’s path ([indiawest.com](https://indiawest.com/shri-thanedars-main-primary-opponent-drops-out-switches-races/?utm_source=openai)).  
 
-Source Credibility & Recency  
-All articles are from early February 2026 and come from credible local or specialty outlets. There is no newer polling or emergent scandal to shift probabilities sharply.
+Bearish (suggest market may be too optimistic):  
+- Thanedar has faced persistent primary challenges tied to representation concerns — the district is majority Black and historically elected Black representatives. He remains non-Black, sparking friction ([apnews.com](https://apnews.com/article/70c05e19505259bc9ca80400f19fd4d4?utm_source=openai)).  
+- Justice Democrats, a high-profile progressive group, endorsed state Rep. Donavan McKinney in April 2025, marking their first anti-incumbent primary challenge of the cycle ([axios.com](https://www.axios.com/2025/04/28/justice-democrats-shri-thanedar-donavan-mckinney?utm_source=openai)). McKinney also received endorsements from other Detroit-area lawmakers and progressive groups ([apnews.com](https://apnews.com/article/70c05e19505259bc9ca80400f19fd4d4?utm_source=openai)).  
+- Thanedar’s April 2025 move to file articles of impeachment against Trump was criticized as a “rogue” strategy for attention and may have alienated some Democratic leadership ([en.wikipedia.org](https://en.wikipedia.org/wiki/Shri_Thanedar?utm_source=openai)).
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 48% price reflects a roughly even contest: Thanedar’s huge financial cushion balanced by weak recent fundraising and a surging challenger. Low volume suggests few active traders, but the tight 6¢ spread implies liquidity providers see minimal arbitrage. This market could represent a genuine split among informed observers rather than a one-sided mispricing.
+**3. MARKET EFFICIENCY ANALYSIS**  
+- **Reasonable interpretation**: 43.5% likely reflects an uncertain yet serious challenge from McKinney combined with Thanedar’s incumbent strength. It signals that informed traders see a close primary.  
+- **Could price reflect few opinions?** Possibly — low trading volume ($0) and tight spread (1¢) suggest little participation. The price might reflect one or a few traders' views rather than broad consensus.  
+- **Low volume due to obviousness or lack of engagement?** Primary not until August 2026, so many informed traders may be waiting for more campaign developments (polls, endorsements), meaning low volume reflects low interest or information, not necessarily efficiency.
 
-4. MISPRICING ASSESSMENT  
-There is balanced evidence on both sides and no clear new information that the market has overlooked. The uncertainty around endorsements, voter sentiment, and McKinney’s future fundraising makes a near-50/50 probability reasonable. No specific, credible evidence indicates a >10¢ mispricing, let alone a >20¢ gap.
+**4. MISPRICING ASSESSMENT**  
+- The available evidence does not conclusively demonstrate clear mispricing. Thanedar is favored but challenged in a unique district context.  
+- The support from Justice Democrats for McKinney and continued concern about racial representation could credibly drive a close result.  
+- Hollier's exit tilts back in Thanedar’s favor.  
+- The 43.5% implied probability for Thanedar might be slightly low—but not by a large margin (>20 cents)? Perhaps 5–10 cents too low if one believes incumbency dominates; or perhaps accurately reflects a tight primary. There is no obvious mispricing >20 cents.  
+- No overlooked technicalities appear present; resolution is clear cut.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: low (20%)  
-Magnitude of mispricing if any: small (5 cents)  
-Expected value ≈ 20% × 5 cents = 1 cent
+**5. EXPECTED VALUE CALCULATION**  
+- **Strength of evidence**: Moderate (I have credible, recent reporting but lacking internal polling or fundraising numbers for 2026) — estimate ~50%.  
+- **Magnitude of mispricing**: If I lean toward incumbency advantage, I'd estimate potential undervaluation of 5 cents.  
+- **Expected value** = 50% × 5 = **2.5 cents**.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Research shows Thanedar’s financial advantage offset by a weak fundraising quarter and a surging challenger, making a roughly 50% market price plausible. No compelling, overlooked evidence suggests a large mispricing.  
+EXPECTED_VALUE: 2.5  
+SUMMARY: Incumbent Shri Thanedar faces credible progressive and identity-based challenges, especially from Justice Democrats-backed McKinney, but Hollier’s exit and structural advantages suggest a close race. The current market price (~43.5%) does not appear significantly mispriced; possible undervaluation is modest, with expected value around 2.5¢.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Thanedar outraised by primary challenger as crypto holdings take a hit
-Author: Melissa Nann Burke
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://eu.detroitnews.com/story/news/politics/2026/02/02/shri-thanedar-donavan-mckinney-crypto-investment-campaign-finance-detroit-democratic-primary/88474546007/
-Summary: Shri Thanedar's campaign experienced a significant financial setback in the latest quarter, reporting a $1.87 million loss due to declining crypto holdings, though he still maintains a substantial war chest with nearly $6.4 million. Meanwhile, his primary challenger, State Rep. Donavan McKinney, raised over $263,600 and gained notable endorsements, indicating increasing momentum. Despite Thanedar's financial advantage and high-profile messaging on issues like impeachment and immigration, the recent fundraising decline and rising competition suggest that his hold on the Democratic nomination for MI-13 may be challenged.
+### [Detroit Democrats are once again looking to unseat one of their own in Congress](https://www.apnews.com/article/70c05e19505259bc9ca80400f19fd4d4)
+**Author:** Unknown | **Published:** 2025-04-28
 
-Title: US Congressman Thanedar starts 2026 election race with $6.4 million cash
-Author: IANS
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://ianslive.in/thanedar-starts-2026-race-with-64m-cash--20260202072705
-Summary: Shri Thanedar, the US Congressman representing Michigan’s 13th District, has entered the 2026 election cycle with a strong financial advantage, reporting $6.4 million in cash at the end of 2025. His campaign emphasizes his legislative record on national security, immigration reform, and economic policies, including efforts to hold Trump administration officials accountable and proposals for tax reforms aimed at economic fairness. Thanedar has also highlighted tangible local achievements, such as securing $25 million for district projects and assisting over 3,800 constituents. Given his substantial campaign funds, active engagement in district issues, and ongoing efforts to build support, he appears well-positioned to seek renomination. However, the prediction of him becoming the Democratic nominee will depend on potential primary challengers and intra-party dynamics closer to the election.
+Reports Donavan McKinney launched a Democratic primary challenge to incumbent Shri Thanedar, supported by Justice Democrats and local progressive lawmakers. Highlights the perception of representation concerns in the district and growing insurgent pressure. This supports a tighter-than-natural primary, slightly bearish for Thanedar.
 
-Title: Michigan's 13th Congressional District election, 2026 - Ballotpedia
-URL: https://ballotpedia.org/Michigan%27s_13th_Congressional_District_election,_2026
-Summary: The webpage provides an overview of the upcoming 2026 election for Michigan's 13th Congressional District, including details about the election process, key races, and candidates. However, it does not specify current candidate statuses or endorsements, including whether Shri Thanedar is positioned to be the Democratic nominee. To assess the likelihood of Shri Thanedar securing the Democratic nomination, one would need to consider his current political activity, campaign momentum, fundraising, endorsements, and polling data, none of which are detailed on this page. Therefore, based solely on this source, there is no definitive information predicting whether Shri Thanedar will be the Democratic nominee for MI-13 in 2026.
+### [Group behind AOC launches its first primary challenge of 2026](https://www.axios.com/2025/04/28/justice-democrats-shri-thanedar-donavan-mckinney)
+**Author:** Unknown | **Published:** 2025-04-28
 
-Title: Thanedar’s Re-Election Bid Has A $6.4 Million War Chest - IndiaWest News
-Author: The Author
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://indiawest.com/thanedars-re-election-bid-has-a-6-4-million-war-chest/
-Summary: Congressman Shri Thanedar's re-election campaign for Michigan's 13th District has a substantial financial advantage, with a war chest of $6.4 million at the end of 2025. He is actively campaigning on his legislative record, emphasizing his efforts in national security, immigration reform, and economic equity, including his opposition to President Trump and initiatives to hold federal agencies accountable. Thanedar's background as an entrepreneur and his personal story of overcoming poverty resonate with his diverse constituency. Given his strong fundraising, active campaigning, and focus on key issues relevant to Michigan's 13th District, he is well-positioned to secure the Democratic nomination for the 2026 election.
+Confirms Justice Democrats’ first endorsement of the cycle is in support of Donavan McKinney against Thanedar. Indicates institutional progressive push, adding significant challenge factors and explaining lower probability for incumbent.
 
-Title: Thanedar Gets One Donation From Detroit In 4Q; More Congressional News
-Author: 
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://home.mirs.news/post/thanedar-gets-one-donation-from-detroit-in-4q-more-congressional-news
-Summary: Shri Thanedar, the incumbent U.S. Representative for Michigan's 13th District, reported minimal campaign activity in the recent fourth quarter, raising only $25,312 with just one $2,500 donation from Detroit. Despite his significant personal financial backing—having loaned his campaign over $11.47 million over five years—he did not add any new funds during this period. His limited fundraising activity contrasts with his substantial cash reserves of $6.4 million, the largest among Michigan congressional candidates. In comparison, challenger Donavan McKinney raised $217,045, with $388,553 in cash on hand, indicating a more active campaign. Given Thanedar's low recent fundraising and activity levels, along with the presence of a relatively strong challenger, his prospects for securing the Democratic nomination in MI-13 may be uncertain.
+### [Shri Thanedar’s Main Primary Opponent Drops Out, Switches Races](https://indiawest.com/shri-thanedars-main-primary-opponent-drops-out-switches-races/)
+**Author:** India-West News Desk | **Published:** 2025-09-10
 
+Notes Adam Hollier, a former persistent challenger, exited the race to run statewide. Simplifies Thanedar’s path and improves his position in the primary, serving as bullish evidence.
 
+### [Shri Thanedar](https://en.wikipedia.org/wiki/Shri_Thanedar)
+**Author:** Unknown | **Published:** Unknown
+
+Provides context on Thanedar’s prior primary performance (2022, 2024), incumbency, and the controversial impeachment effort in April 2025 critiqued as self-serving. Useful for weighing support and liabilities.
+
+### [Michigan's 13th congressional district](https://en.wikipedia.org/wiki/Michigan%27s_13th_congressional_district)
+**Author:** Unknown | **Published:** Unknown
+
+Establishes district partisan lean (Cook PVI D+22), underscoring secure Democratic positioning and the importance of the primary. Supports structural strength for incumbent but clarifies general election is non-competitive.

@@ -1,104 +1,104 @@
 # Research: Will Dathan Jones be the Republican nominee for Senate in Colorado?
 
 **Market ID:** 0x456a25be7a7ccfa16557f646c03bc62c3f062f44c612f7593d6adfb4af310a5e
-**Researched At:** March 2, 2026 at 02:54:51 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Dathan Jones be the Republican nominee for Senate in Colorado?"
+**Researched At:** March 12, 2026 at 04:13:28 AM UTC
+**Search Query:** "Will Dathan Jones be the Republican nominee for Senate in Colorado?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.6¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-There’s no direct polling, fundraising, or endorsement evidence pointing to a strong mispricing of Dathan Jones’s nomination odds; the market’s 24.5% aligns with the GOP’s fragmented field and Colorado’s blue lean. Expected value of further digging is minimal.
+Dathan Jones is a formally filed candidate with grassroots credentials but lacks funding, endorsements, or polling to suggest he’s a serious contender. A 15% market price seems plausible; any mispricing is likely minor.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Dathan Jones be the Republican nominee for Senate in Colorado?” A YES requires Jones to win the 2026 Colorado Republican Senate primary; any other nominee or no primary means NO.
+Here is the detailed, objective analysis of the **prediction market** asking: *“Will Dathan Jones be the Republican nominee for Senate in Colorado?”* using current information and contextual evaluation:
 
-2. EVIDENCE EVALUATION  
-Bullish on Jones (implying the market underprices him):  
-- No direct polling or fundraising data on Jones—so no clear signal that 24.5% is too low.  
-- The Bob Schaffer endorsement affects a rival, Janak Joshi, not Jones. If anything, it suggests a stronger challenger, which weakens Jones.  
+---
 
-Bearish on Jones (implying the market overprices him):  
-- Colorado GOP is divided and hasn’t won statewide since 2016; internal infighting (Trump rescinding an endorsement elsewhere) suggests weak party cohesion behind any candidate.  
-- La Plata County optimism is local and does not translate into statewide strength.  
-- Lack of mention in coverage of fundraising or endorsements implies Jones is not a frontrunner.  
+## 1. CONTEXT ANALYSIS
 
-Source credibility and recency: All articles are from February–March 2026 and appear in established local outlets; credible but none focus on Jones directly.
+The market question asks: *“Will Dathan Jones be the Republican nominee for Senate in Colorado?”* It resolves YES if Dathan Jones wins the Republican primary for the U.S. Senate in Colorado in 2026; it resolves NO if he loses, or if no Republican primary occurs (in which case result would be “Other”). The Republican primary is scheduled for **June 30, 2026**, and resolution will be based on the Colorado Republican Party’s official announcement or a credible media consensus ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado?utm_source=openai)).
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 24.5% probability could reflect informed traders’ view that while Jones is one of several long-shots, he’s not the favorite.  
-- Low $240 volume means the price likely reflects a handful of opinions, but the rationale (GOP weakness + no clear frontrunner) is widely known.  
-- Informed traders may have simply stayed out because there’s no sharp information edge on Jones.
+---
 
-4. MISPRICING ASSESSMENT  
-- No specific, credible evidence is missing. We lack any data suggesting Jones has a surge in endorsements or fundraising that would shift his odds by more than a few points.  
-- The party dynamics (divided, blue state) and absence of Jones in reports support a sub-50% chance. 24.5% seems in the right ballpark.  
+## 2. EVIDENCE EVALUATION
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that there’s a mispricing: 20% (weak/no direct data).  
-- Magnitude of mispricing if any: ~3 cents.  
-Expected value = 0.20 × 3¢ = 0.6¢.
+### Evidence Suggesting the Market Price Might Be Incorrect (i.e. undervaluing Jones)
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: There’s no direct polling, fundraising, or endorsement evidence pointing to a strong mispricing of Dathan Jones’s nomination odds; the market’s 24.5% aligns with the GOP’s fragmented field and Colorado’s blue lean. Expected value of further digging is minimal.  
+- **Presence on official filings**: Dathan Jones has filed with the FEC as a Republican candidate for U.S. Senate in Colorado ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado?utm_source=openai)), demonstrating his formal entry.
+- **Personal campaign efforts**: His campaign emphasizes a faith-driven, service-oriented platform and he holds roles in county GOP leadership (Alamosa County GOP) ([dathancjones4ussenate.com](https://www.dathancjones4ussenate.com/about?utm_source=openai)).
+- **Lack of public polling or fundraising figures**: Unlike some other Republican candidates (e.g., Janak Joshi and George Markert), Jones’s fundraising and polling are not publicly reported ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado?utm_source=openai)). This opacity may obscure potential momentum and undervalue awareness among insiders.
+
+### Evidence Supporting the Market Price as Reasonable
+
+- **Low visibility in media and political analysis**: Colorado-focused aggregator Colorado Pols estimates Joshi and Baisley at 10% each in general election viability, with no mention of Jones among the top contenders ([coloradopols.com](https://www.coloradopols.com/the-big-line-2026?utm_source=openai)).
+- **Larger campaign operations elsewhere**: Janak Joshi has raised substantial funds (~$458K) and retains ~$349K on hand, signaling better capacity, while George Markert also has visible fundraising (~$175K) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado?utm_source=openai)). This implies Jones is a lower-tier candidate.
+- **No major endorsements or polling**: There are no reports of endorsements or polling for Jones, whereas other candidates like Joshi appear more prominently ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado?utm_source=openai)).
+
+### Source Credibility & Recency
+
+- **Wikipedia summary of candidates and filings** is very recent (crawled 3 days ago) and cites FEC documents and Colorado Sun reporting ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado?utm_source=openai)).
+- **FEC candidate overview** is authoritative and updated within the last few weeks ([fec.gov](https://www.fec.gov/data/candidate/S6CO00481/?utm_source=openai)).
+- **Campaign website** information is firsthand but may be promotional ([dathancjones4ussenate.com](https://www.dathancjones4ussenate.com/about?utm_source=openai)).
+- **Colorado Pols analysis** is opinionated but timely and context-aware (February 10, 2026) ([coloradopols.com](https://www.coloradopols.com/the-big-line-2026?utm_source=openai)).
+
+Both sides contain credible, recent sources. The lack of visible presence for Jones leans against the 15% probability, but his formal candidacy and local party involvement keep his chances plausible.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Reasonable interpretation of 15% price**: This market price may reflect a baseline probability for any filed candidate—not signaling strength, but recognition that Jones has formally entered the race and may draw some support from local GOP circles.
+- **Potential consensus among informed traders**: Given the low volume and tight spread, the 15% might be set by one or a few traders assuming some baseline viability but not enough to significantly challenge better-funded contenders.
+- **Low volume causes**: Likely because Jones is not a high-profile candidate; informed traders may not see enough upside to research him thoroughly. Alternatively, the field may be unsettled, and Jones is simply one of several speculative entries.
+- **Could reflect genuine consensus**: The lack of fundraising, polling, or endorsements confirms that Jones is not currently a front-runner. A modest price thus seems in line with public information.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- **No strong evidence of mispricing**: There is no indication that Jones has achieved significant momentum unnoticed by the market—no fundraising, polling, or high-profile endorsements suggest oversight.
+- **Potential modest mispricing**: If insiders value county-level party leadership and grassroots organizing more than this market price, there might be a slight undervaluation. But that would likely be small—perhaps a few cents.
+- **Resolution criteria are clear**: Either he wins the primary or not. Nothing suggests confusion or technicality in the resolution; the timeline is June 30, 2026, primary.
+- **Most charitable interpretation**: Traders likely priced him at 15% as a low-probability outsider. That seems reasonable and cautious, given current evidence.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Medium – we have credible and recent data but no groundbreaking or surprising new information. (≈50%)
+- **Magnitude of mispricing**: Possibly small—maybe 5 cents at most. Given current evidence, large mispricing (>20¢) is unlikely.
+- **Expected value** = 50% × 5 cents = **2.5 cents**
+
+---
+
+EXPECTED_VALUE: 2.5  
+SUMMARY: Dathan Jones is a formally filed candidate with grassroots credentials but lacks funding, endorsements, or polling to suggest he’s a serious contender. A 15% market price seems plausible; any mispricing is likely minor.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: BRIEF: GOP Senate Candidate Says He's Got the Endorsement of Former Congressman Bob Schaffer
-Author: Jason Salzman
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://coloradotimesrecorder.com/2026/02/brief-underdog-gop-senate-candidate-says-hes-got-the-endorsement-of-former-congressman-bob-schaffer/76867/
-Summary: Janak Joshi, a Republican U.S. Senate candidate, recently announced his endorsement from former Congressman Bob Schaffer, a notable figure in Colorado's conservative circles. Joshi expressed enthusiasm about Schaffer's support during a podcast appearance, highlighting Schaffer's reputation as a strong Christian and educator, as well as his advocacy for school vouchers. This endorsement could influence Joshi's campaign positively, but it remains uncertain how it will affect the broader Republican primary landscape, including Dathan Jones's chances of becoming the nominee. Schaffer's backing may bolster Joshi's visibility and credibility among conservative voters, which could impact Jones's campaign dynamics.
+### [2026 United States Senate election in Colorado (Wikipedia)](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado)
+**Author:** Unknown | **Published:** Unknown (crawled 3 days ago)
 
-Title: Preparing to caucus: Republican candidates visit Fremont County in advance of key delegate decisions – Canon City Daily Record
-Author: Brian Porter  | The Daily Record
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.canoncitydailyrecord.com/2026/03/01/preparing-to-caucus-republican-candidates-visit-fremont-county-in-advance-of-key-delegate-decisions/
-Summary: I am sorry, but this document does not contain any information about Dathan Jones or the Colorado Senate race. It focuses on Republican candidates visiting Fremont County and a forum at Cañon City High School, likely related to local elections.
+Lists all Republican primary candidates for the 2026 Colorado U.S. Senate race, including Dathan Jones (filed paperwork) and other candidates like Janak Joshi, Mark Baisley, etc. It provides context on filing status and the primary date (June 30, 2026). This supports understanding of the field and resolution timeline, illustrating Jones’s place in the race.
 
+### [JONES, DATHAN CHARLES - Candidate overview | FEC](https://www.fec.gov/data/candidate/S6CO00481/)
+**Author:** Unknown | **Published:** Unknown (updated 3 weeks ago)
 
-Title: The invisible primary in Colorado: Republican governor
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.co-political-landscape.org/the-invisible-primary-in-colorado-republican-governor/
-Summary: The article discusses the current landscape of the Republican primary for governor in Colorado, focusing on frontrunners Victor Marx and Barbara Kirkmeyer. While it does not directly address Dathan Jones, it provides insights into the dynamics of campaign financing and candidate support that could be relevant for predicting his chances as a nominee for Senate. 
+Official Federal Election Commission entry confirming that Dathan C. Jones is a Republican candidate for U.S. Senate in Colorado. This confirms his candidacy formally, lending credibility to the market question.
 
-Key points include:
+### [The Big Line: 2026 | Colorado Pols](https://www.coloradopols.com/the-big-line-2026)
+**Author:** Unknown | **Published:** February 10, 2026
 
-1. **Campaign Contributions**: Victor Marx has significantly outperformed Kirkmeyer in fundraising, raising approximately $620,000 compared to Kirkmeyer's $380,000. This disparity suggests that financial backing is a critical factor in the nomination process.
-
-2. **Donor Demographics**: Marx's donor base includes a higher percentage of out-of-state contributors (30%), while Kirkmeyer has a more localized support network (95% Colorado residents). This could indicate varying levels of grassroots support, which might be a factor for Jones if he is similarly positioned.
-
-3. **Candidate Endorsements**: Both Marx and Kirkmeyer have received endorsements from prominent figures, which can influence their viability as candidates. The level of support Jones garners from influential Republicans could be a predictor of his nomination chances.
-
-4. **Comparison to Democrats**: The Republican candidates have raised significantly less than their Democratic counterparts, which may affect their competitiveness in the general election. If Jones is part of a similar fundraising trend, it could impact his nomination prospects.
-
-Overall, while the article does not mention Dathan Jones specifically, understanding the fundraising dynamics, donor demographics,
-
-Title: Can the Colorado GOP get serious? – DNYUZ
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://dnyuz.com/2026/02/24/can-the-colorado-gop-get-serious/
-Summary: The Colorado GOP faces significant challenges as it approaches a crucial election year, with open seats for governor and U.S. Senate. The party has struggled in recent years, failing to win a statewide race since 2016, largely due to the negative impact of Donald Trump's influence in the state. Current dynamics include a divided party, with infighting evident as Trump recently rescinded his endorsement of GOP Rep. Jeff Hurd, backing primary rival Hope Scheppelman instead. 
-
-As for Dathan Jones, while the article does not specifically mention him as a candidate, the overall context suggests that the GOP is not currently rallying around a unified slate of candidates. Instead, they are embroiled in internal conflicts, which could hinder any individual candidate's chances, including Jones. The upcoming primaries will be critical in determining the nominee, and the party's ability to present a competitive candidate will be essential in a state that is trending blue.
-
-Title: GOP faces uphill battle to flip Colorado. La Plata County Republicans are hopeful - The Journal
-Author: Jessica Bowman
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://www.the-journal.com/articles/gop-faces-uphill-battle-to-flip-colorado-la-plata-county-republicans-are-hopeful/
-Summary: The article discusses the challenges faced by the Republican Party in Colorado, particularly in La Plata County, as they aim to gain traction in a predominantly Democratic state. It highlights the optimism among local Republicans, including potential candidates like Dathan Jones, who may be positioning themselves for a Senate run. The piece emphasizes the uphill battle the GOP faces in flipping Colorado, which could impact Jones's chances of becoming the nominee. Factors such as voter demographics, party organization, and local political dynamics are crucial in predicting whether Jones will secure the nomination. For more detailed insights, you can read the full article [here](https://www.the-journal.com/articles/gop-faces-uphill-battle-to-flip-colorado-la-plata-county-republicans-are-hopeful/).
-
-
+Political analysis estimating viability of candidates in various races including the Colorado Senate. Assigns 10% viability to Janak Joshi and Mark Baisley; does not mention Dathan Jones, implying lower visibility. This supports a view that the market's 15% price might overestimate his chances slightly, or reflect minimal attention.

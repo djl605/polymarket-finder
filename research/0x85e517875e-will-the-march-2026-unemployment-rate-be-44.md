@@ -1,89 +1,117 @@
 # Research: Will the March 2026 unemployment rate be 4.4%?
 
 **Market ID:** 0x85e517875e9484038d5c42ebcf2313981636b53bae72c84ede8a9a9b263706cf
-**Researched At:** March 4, 2026 at 04:16:21 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the March 2026 unemployment rate be 4.4%?"
+**Researched At:** March 12, 2026 at 04:15:02 AM UTC
+**Search Query:** "Will the March 2026 unemployment rate be 4.4%?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 1.8¢
 
 ### Summary
 
-Given January’s 4.3% rate, stable labor-market trends, and typical ±0.1% monthly swings, a 22% probability of exactly 4.4% is plausible. No strong evidence of a significant mispricing was found.
+The market’s 17.5% probability for March 2026 unemployment being exactly 4.4% aligns with consensus forecasts and recent volatility. While February’s surprise raises some chance, forecasts predominantly expect a modest drift away from exactly 4.4%, and there's no strong evidence of large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the seasonally adjusted U-3 unemployment rate reported for March 2026 (released April 3, 2026) will be exactly 4.4%. YES if the BLS’s first-release Table A-15 shows 4.4%; NO otherwise (any other one-decimal outcome).
+Here is my full analysis following the structure you requested:
 
-2. EVIDENCE EVALUATION  
-Bullish (YES) case:  
-• Jan 2026 unemployment was 4.3% and modest upward drift (from 4.2% in March 2025) could push March to 4.4%.  
-• U.S. Bank notes steady job growth might raise the rate slightly if economic headwinds hit.  
+---
 
-Bearish (NO) case:  
-• Multiple sources (Federal News Network, HFFI, Daily Bruin) report a stable/positive labor market with no sign of recessionary job losses that would lift unemployment to 4.4%.  
-• Experts expect continuation of mid-4% rates, not a step to 4.4%.  
-• Historical month-to-month swings are often ±0.1%, but centering on 4.3% suggests the probability mass may lie on adjacent values (4.2% or 4.3%) more than on 4.4%.
+## 1. CONTEXT ANALYSIS  
+This market asks: **“Will the March 2026 U.S. unemployment rate (seasonally adjusted U‑3) be exactly 4.4%?”**.  
+- **YES** resolves if the BLS reports 4.4% for March 2026 in its Employment Situation Report on April 3, 2026 at 8:30 AM ET.  
+- **NO** resolves if the rate is any other value (e.g., 4.3%, 4.5%, etc.)
 
-Source credibility and recency: All five research items are from Feb–Mar 2026 and cite official BLS releases or recognized expert commentary. None provide a specific probability forecast for exactly 4.4%, only directional context.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 22% price implies one in five chance that March’s rate rounds to exactly 4.4%, consistent with a roughly uniform distribution over possible 0.1% increments in a narrow band (4.1–4.6%).  
-• Low $1.5 K volume may reflect traders viewing this as a coin-flip among decimals rather than a rich informational edge.  
-• No sign that a single large trader is skewing price; the spread is tight, and volumes aren’t zero.  
+## 2. EVIDENCE EVALUATION  
 
-4. MISPRICING ASSESSMENT  
-No clear evidence of material mispricing. The market price aligns with:  
-• Recent unemployment at 4.3% and typical monthly 0.1% moves  
-• Expert consensus that nothing dramatic (up or down) is imminent  
-• The technical difficulty of forecasting an exact one-decimal outcome  
+### Evidence suggesting price might be incorrect (i.e., probability should be lower/higher than 17.5%):
+- **February 2026 actual**, just reported, was **4.4%**, matching the target exactly. That suggests momentum toward 4.4%, making YES perhaps more likely than the low price indicates ([economy.fedprimerate.com](https://economy.fedprimerate.com/?m=0&utm_source=openai)).  
+- Headlines highlight that February was a **significant downside surprise**, with payrolls down 92K (vs ~+60K expected) and unemployment rising to 4.4% ([reddit.com](https://www.reddit.com/r/InterstellarKinetics/comments/1rnebow/breaking_the_us_economy_lost_92000_jobs_in/?utm_source=openai)). That suggests volatility and uncertainty—perhaps increasing chances of March diverging.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that there is mispricing: 20% (scant direct evidence).  
-Potential magnitude if mispriced: ~10 cents.  
-EV = 0.2 × 10 cents = 2 cents.
+### Evidence supporting current market price (~17.5% probability):
+- **Consensus forecasts** point to **4.3%** or **steady to modest increases**: • **Trading Economics** shows recent consensus at 4.3% for February and expectations of 4.5% by end of quarter ([tradingeconomics.com](https://tradingeconomics.com/united-states/unemployment-rate?utm_source=openai)). • **U.S. Bank Economics Research Group** sees 4.4–4.5% average unemployment in 2026 ([usbank.com](https://www.usbank.com/content/dam/usbank/en/documents/pdfs/corporate-and-commercial-banking/March-26-economics.pdf?utm_source=openai)). • **Goldman Sachs** expects stabilization at around 4.5% ([goldmansachs.com](https://www.goldmansachs.com/insights/articles/us-gdp-growth-is-projected-to-outperform-economist-forecasts-in-2026?utm_source=openai)). • **Bankrate** economists see unemployment rising to 4.5% by December 2026 ([bankrate.com](https://www.bankrate.com/banking/federal-reserve/economic-indicator-survey/?utm_source=openai)).  
+- **Moody’s Analytics** warns of fragile labor market and fragile job growth across 2026, implying slow upward trend rather than reversion to 4.4% exactly ([newsweek.com](https://www.newsweek.com/us-jobs-market-growth-2026-mark-zandi-11407750?utm_source=openai)).  
+- **IMF** projects U.S. unemployment declining to 4.1% in 2026—but that's average, not necessarily March ([apnews.com](https://apnews.com/article/a24bc87a8fc1447e84fa1e6366202fd8?utm_source=openai)).
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Given January’s 4.3% rate, stable labor-market trends, and typical ±0.1% monthly swings, a 22% probability of exactly 4.4% is plausible. No strong evidence of a significant mispricing was found.  
-CONFIDENCE: low
+### Credibility and recency
+- BLS data and recent actuals are strong, highly credible.  
+- Consensus forecasts from reputable banks (Goldman, Bankrate, U.S. Bank) are recent (past month or few) and credible.  
+- IMF and Moody’s are reputable, though their horizons are broader (annual averages).
+
+### Bullish vs. bearish angles
+- **Bullish for 4.4% (YES)**: Recent surprise aligns; persistence of surprising weakness might keep rate elevated.  
+- **Bearish for 4.4% (NO)**: Most forecasts don't target precisely 4.4% in March; they expect drift to 4.3%–4.5%, not necessarily the exact figure. March could land at 4.3% or 4.5%.
+
+### Skeptical note
+- If the February actual matched 4.4%, and consensus expected 4.3%, why didn't the market price YES higher? Perhaps traders anticipate March swing, revisions, or precise rounding to one decimal point adding volatility. That justifies skepticism about straightforward momentum logic.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS  
+- **Interpretation of current price (17.5%)**: Traders see 4.4% in March as plausible but unlikely. Price suggests consensus leans toward **no**, but not completely discounted.  
+- **Could reflect genuine consensus?** Yes. Low volume markets often reflect what few active participants believe; here, they may align with institutional forecasts anticipating 4.3–4.5%.  
+- **Could reflect few overconfident traders?** Possibly—the tight 1¢ spread suggests some liquidity, but low volume means a small number could skew price.  
+- **Why low volume?** March unemployment is not extreme, broadly expected in a narrow range. Informed traders may not find edge here if forecasts already align. That suggests efficiency—even if participation is light.
+
+---
+
+## 4. MISPRICING ASSESSMENT  
+- **Evidence for mispricing**: The only “novel” evidence is February’s surprise exactly matching 4.4%—momentum—but that’s weak because March may revert or move differently.  
+- **Evidence against mispricing**: Strong consensus forecasts suggest March won’t land exactly at 4.4%. Most data points trend toward divergence.  
+- **Timeline & uncertainty**: March isn’t far off; revisions and monthly volatility high. Market pricing likely reflects that.  
+- **Conclusion**: No specific credible evidence that price is grossly mispriced. Probability of being exactly 4.4% appears lower than consensus volatility. So the 17.5% seems reasonable.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION  
+- **Strength of evidence**: Moderately high (say 60%)—we have multiple credible forecasts and actual trend.  
+- **Magnitude of mispricing**: Probably small—market price likely close to fair probability, maybe undervalued by ~2–3 cents, not >20.  
+- Estimated value: 60% × 3 cents = 1.8 cents.
+
+---
+
+## 6. CONFIDENCE  
+**Confidence**: medium
+
+---
+
+EXPECTED_VALUE: 1.8  
+SUMMARY: The market’s 17.5% probability for March 2026 unemployment being exactly 4.4% aligns with consensus forecasts and recent volatility. While February’s surprise raises some chance, forecasts predominantly expect a modest drift away from exactly 4.4%, and there's no strong evidence of large mispricing.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: New tariff regime kicks in with eye on U.S. jobs impacted by ... - RBC
-Author: viktoriyapanahova
-Published Date: 2026-02-27T04:16:03.229Z
-URL: https://www.rbc.com/en/economics/forward-guidance/forward-guidance-our-weekly-preview/
-Summary: The RBC analysis indicates that Canada's economy experienced a modest recovery in Q3 2025, with an estimated 0.5% annualized growth following a contraction in Q2 driven by trade disruptions. While trade-sensitive sectors like manufacturing and wholesale sales showed signs of stabilization and rebounded in Q3, overall economic momentum remains cautious. Given the partial recovery and ongoing sector adjustments, the unemployment rate in March 2026 could be influenced by continued stabilization efforts and broader economic trends. However, the report does not provide specific forecasts for unemployment rates, so predicting a precise figure like 4.4% requires considering additional factors beyond this summary.
+### [US FEBRUARY 2026 Employment Situation Report](https://economy.fedprimerate.com/?m=0)
+**Author:** Unknown | **Published:** 2026-03-06
 
-Title: Unemployment Falls in January, Trade on Odds for Unemployment Rates in 2026
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://federalnewsnetwork.com/prediction-markets/2026/02/unemployment-falls-january-odds-unemployment-rates-2026/
-Summary: The webpage discusses recent unemployment trends and prediction markets for 2026. In January 2026, unemployment fell to 4.3%, slightly lower than January 2025's 4.4%. Historically, the rate has remained relatively stable, with minor fluctuations throughout 2025. Prediction markets suggest a cautious outlook for 2026, with some estimates indicating unemployment could rise above 5% or even 6%, but current data shows a continued low rate. Given that January 2026's unemployment was 4.3%, it is plausible that the March 2026 rate could remain around 4.4%, especially if trends continue. However, market predictions also highlight potential for increases, so while 4.4% is possible, it is not guaranteed.
+Reports February 2026 U‑3 unemployment rose to 4.4% from 4.3%, actual data behind the market’s current momentum. This informs likelihood of March landing similarly.
 
-Title: January 2026 Jobs Report: Unemployment Down to 4.3%
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.hffinancial.com/2026-jobs-report-personal-finance-impact
-Summary: The January 2026 jobs report indicates a modest improvement in the labor market, with payroll gains of +130,000 and a slight decrease in the unemployment rate to 4.3%. However, the report emphasizes that this small change should not be overinterpreted, as unemployment can fluctuate by small margins month-to-month. Importantly, the report highlights a significant downward revision of 2025 job gains—from +584,000 to +181,000—suggesting a more subdued employment trend than initially thought. Given these factors, and the current unemployment rate remaining in the mid-4% range, it is uncertain whether the March 2026 unemployment rate will reach 4.4%, but current data does not strongly suggest a significant increase beyond that level.
+### [Slower US job growth expected in February; unemployment rate forecast steady at 4.3%](https://finance.yahoo.com/news/slower-us-job-growth-expected-051254876.html)
+**Author:** Reuters | **Published:** 2026-03-06
 
-Title: Recession or vibecession?: Experts predict 2026 is not headed for a ...
-Published Date: 2026-03-03T04:16:03.229Z
-URL: https://dailybruin.com/2026/03/02/recession-or-vibecession-experts-predict-2026-is-not-headed-for-a-recession
-Summary: The article indicates that as of early 2026, economic indicators such as GDP growth, employment rates, and unemployment remain stable or positive, with no signs of an impending recession. Experts from Yale and the National Bureau of Economic Research confirm that the economy is not experiencing the significant declines typically associated with recessions, which would include rising unemployment rates. Specifically, current data shows low unemployment levels, and even with some slowing job growth, the unemployment rate is not expected to reach or exceed 4.4% in March 2026 based on recent trends.
+Consensus expected February unemployment to remain steady at 4.3%, making the actual surprise to 4.4% a notable forecast miss and indicating volatility.
 
-Title: Job Market's Effect on the Economy | U.S. Bank
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.usbank.com/investing/financial-perspectives/market-news/effect-of-job-market-on-the-economy.html
-Summary: The March 2025 U.S. labor market showed continued strength, with significant job gains—particularly in healthcare—and an unemployment rate of 4.2%, up slightly from previous months. While the job growth indicates a resilient economy, the slight rise in unemployment suggests some underlying shifts. Given that the labor market is maintaining momentum amid economic challenges like tariffs, and considering that job growth has been steady but not accelerating dramatically, predicting the exact unemployment rate for March 2026 remains uncertain. However, if current trends persist, a modest increase to around 4.4% by March 2026 could be plausible, especially if economic conditions or external factors change.
+### [US adds 130,000 jobs and unemployment falls after tepid 2025](https://www.spokesman.com/stories/2026/feb/11/us-adds-130000-jobs-and-unemployment-falls-after-t/)
+**Author:** Augusta Saraiva (Bloomberg News) | **Published:** 2026-02-11
 
+January data showed unemployment at 4.3% and job gain of 130K; suggests slight stabilization but low trend employment.
 
+### [Goldman Sachs economist outlook for unemployment in 2026](https://www.goldmansachs.com/insights/articles/us-gdp-growth-is-projected-to-outperform-economist-forecasts-in-2026)
+**Author:** Goldman Sachs Research (David Mericle) | **Published:** 2026-01-15
+
+Forecasts unemployment stabilizing around 4.5%, indicating March is more likely away from exact 4.4%.
+
+### [US Bank March 2026 Macro forecast summary]((Bank Economics Research Group PDF))
+**Author:** U.S. Bank Economics Research Group | **Published:** 2026-03
+
+Forecast unemployment averaging 4.4–4.5% for 2026; suggests March’s 4.4% is within range but not uniquely expected.

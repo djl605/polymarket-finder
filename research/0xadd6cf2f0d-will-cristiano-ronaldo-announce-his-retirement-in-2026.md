@@ -1,86 +1,113 @@
 # Research: Will Cristiano Ronaldo announce his retirement in 2026?
 
 **Market ID:** 0xadd6cf2f0db224d781cc89e7efe8d70e541181743a86ad2026f16dae9bce03de
-**Researched At:** March 4, 2026 at 02:47:30 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Cristiano Ronaldo announce his retirement in 2026?"
+**Researched At:** March 12, 2026 at 04:14:16 AM UTC
+**Search Query:** "Will Cristiano Ronaldo announce his retirement in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 1.0¢
 
 ### Summary
 
-The publicly available evidence is mixed—while Ronaldo says retirement is “soon,” his contract through 2027 and lack of a firm date justify the market’s ~17% probability. No clear insider or new info suggests a large mispricing.
+Current evidence—including Ronaldo’s contract through 2027, his statements, and ongoing speculation—suggests the 17.5% probability market price is reasonable, not strongly mispriced. Expected mispricing appears minimal.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Cristiano Ronaldo will officially announce his retirement from club‐level professional soccer by December 31, 2026 (ET). A “Yes” requires a clear announcement from Ronaldo or his official representatives stating he is retiring from club soccer effective immediately or before the next season. Any mere hint, dispute with his club, or post‐2026 retirement announcement would resolve as “No.”
+Here’s a comprehensive, structured evaluation of whether the prediction market—“Will Cristiano Ronaldo announce his retirement in 2026?”—is mispriced, based on the available evidence (as of March 12, 2026):
 
-2. EVIDENCE EVALUATION  
-Bullish (supports >17%):  
-• AFP (2026-02-12): Ronaldo says retiring “soon,” emotionally ready, despite a contract through 2027. This implies retirement could come in 2026. (Credible, very recent.)  
-• Mirror (2026-02-05): Club turmoil and personal disputes heighten retirement speculation. (Lower credibility, recent.)  
-• Daily Mail (2026-02-26): He’s setting up post‐playing ventures (club ownership), suggesting he’s eyeing the end of his playing days. (Lower credibility, recent.)
 
-Bearish (supports <17%):  
-• Sports Illustrated (2025-07-07): After signing through 2027 and given his fitness, it’s unlikely he retires in 2026; he appears set to play at least until contract end. (High credibility, but older.)  
-• No other major outlets report any firm timeline.
+### 1. CONTEXT ANALYSIS
 
-Overall, the credible AFP report raises the chance above zero, but no source pins down a 2026 announcement. The preponderance of evidence is mixed, with a slight lean toward him staying on through his 2027 contract.
+The market asks: Will Cristiano Ronaldo officially announce his retirement from **club-level professional soccer** by December 31, 2026, and intend it to take effect immediately or before the next club season?
 
-3. MARKET EFFICIENCY ANALYSIS  
-The 17% price can be justified as a consensus weighing: (a) contract through 2027 dampens retirement before 2026 end; (b) his emotional readiness and club conflicts give nonzero chance. Low volume suggests not many traders are focused on this niche question, but those who have likely considered the same public statements. The tight spread implies agreement among a small group rather than broad arbitrage.
+- A “Yes” requires a clear, official statement from Ronaldo or his representatives indicating retirement from club football.
+- Retirement from international football **alone** or vague hints, or delaying the retirement to after 2026, would not meet the “Yes” criteria.
 
-4. MISPRICING ASSESSMENT  
-There’s no single piece of new, high‐credibility information that would push the probability materially above or below 17%. The market already seems to incorporate the known contract length and his vague “soon” comments. Absent a leak or insider indication of a firm retirement date, there’s no clear mispricing >5 cents.
+### 2. EVIDENCE EVALUATION
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is mispriced: ~20% (mixed, none decisive)  
-Potential magnitude of mispricing: ~5 cents (maximum plausible error)  
-Expected value ≈ 0.2 × 5 cents = 1 cent
+**A. Evidence suggesting market price might be incorrect (i.e., probability too high):**
 
-EXPECTED_VALUE: 1  
-SUMMARY: The publicly available evidence is mixed—while Ronaldo says retirement is “soon,” his contract through 2027 and lack of a firm date justify the market’s ~17% probability. No clear insider or new info suggests a large mispricing.  
-CONFIDENCE: low
+- Ronaldo has publicly said he plans to retire in “probably one or two years” as of November 2025, implying retirement could occur in 2026 or 2027—but not definitively in 2026 ([the-independent.com](https://www.the-independent.com/bulletin/sport/cristiano-ronaldo-retirement-plan-b2862962.html?utm_source=openai)).
+- Portugal manager Roberto Martínez stated in February 2026 that Ronaldo could play “on and on and on” if he wanted to, and his current form (17 goals in 18 league games) supports continued play even beyond 2026 ([goal.com](https://www.goal.com/en-us/lists/when-will-cristiano-ronaldo-retire-portugal-roberto-martinez-cr7-playing-career/blt97bf0c2ff5edd142/?utm_source=openai)).
+- Ronaldo extended his contract with Al‑Nassr until 2027, showing a formal commitment through next year ([elpais.com](https://elpais.com/deportes/futbol/2025-06-26/cristiano-renueva-con-al-nassr-hasta-2027.html?utm_source=openai)).
+
+**B. Evidence supporting the current market price (probability ~17.5%):**
+
+- Nani, a former teammate, speculated that Ronaldo would retire immediately after a hypothetical Portugal World Cup victory in 2026—and that event remains uncertain ([goal.com](https://www.goal.com/en-us/lists/nani-predicts-cristiano-ronaldo-retire-portugal-2026-world-cup-glory-ex-man-utd-team-mate-emulate-david-beckham-mls-franchise-owner/bltbd5600b782cf9ed4?utm_source=openai)).
+- Bruno Fernandes and others acknowledge Ronaldo’s ambition to play through 2026; speculation persists, but no definitive retirement announcement yet ([goal.com](https://www.goal.com/en-us/lists/bruno-fernandes-verdict-cristiano-ronaldo-hopes-playing-world-cup-2026-after-portugal-superstar-nets-900th-goal/blt5922826e604a8ee4?utm_source=openai)).
+- A very recent news report indicates Ronaldo sustained an injury more serious than expected as of March 6, 2026 ([as.com](https://as.com/futbol/internacional/alarma-cristiano-f202603-n/?utm_source=openai)). While not retirement-related, it introduces some uncertainty about his condition.
+
+**Credibility and recency evaluation:**
+
+- Sources like AP, ESPN, El País, and Goal.com are high-credibility, recent (2025–Mar 2026).
+- Speculative commentary (Nani, teammates) is lower confidence but still relevant as sentiment.
+
+**Balanced view:**
+
+- There’s solid evidence that Ronaldo is committed through 2027 and still motivated, arguing against a 2026 retirement.
+- Conversely, his age, speculative comments, and potential “World Cup send-off” context justify some probability.
+
+### 3. MARKET EFFICIENCY ANALYSIS
+
+- The current 17.5% price could reflect informed belief that while 2026 retirement is plausible, it’s not the most likely scenario.
+- Low volume and tight spread might indicate one or few traders pricing in speculative scenarios.
+- But given mainstream reporting of contract extension until 2027, the market price does not seem wildly out of step.
+
+### 4. MISPRICING ASSESSMENT
+
+Is there credible evidence of mispricing?
+
+- No definitive or breaking news suggests an imminent retirement announcement in 2026. 
+- Ronaldo’s contract until 2027 and his own statements imply retirement likely after 2026.
+- The evidence supports that the current price (~17.5%) is reasonable.
+
+### 5. EXPECTED VALUE CALCULATION
+
+- Strength of evidence that price is mispriced: low (say ~20%)—no strong indication of mispricing.
+- Magnitude of potential mispricing: small (<10 cents), perhaps players overestimating retirement chance by a few cents.
+- Expected value: 20% × (~5 cents) = **1 cent** (approx).
+
+### 6. CONFIDENCE
+
+My confidence in this assessment is **medium**—the sources are recent and credible, but retirement is inherently speculative.
+
+---
+
+EXPECTED_VALUE: 1.0  
+SUMMARY: Current evidence—including Ronaldo’s contract through 2027, his statements, and ongoing speculation—suggests the 17.5% probability market price is reasonable, not strongly mispriced. Expected mispricing appears minimal.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Ronaldo reveals emotional retirement will come 'soon'
-Author: AFP
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.pakistantv.com/article/ronaldo-reveals-emotional-retirement-will-come-soon
-Summary: Cristiano Ronaldo has announced that he plans to retire "soon," expressing that his departure from professional football is imminent and emotionally challenging. At age 40, he acknowledges the difficulty of retiring but emphasizes that he has been preparing for this transition since his mid-20s. Ronaldo is currently under contract with Al Nassr until 2027, but his statements suggest he may choose to retire before then. He plans to focus more on his family and personal interests after retiring, including spending time with his children and engaging in hobbies like playing padel. Given his emotional readiness and ongoing contract, it is plausible that Ronaldo could announce his retirement around 2026, but no definitive date has been specified.
+### [Cristiano Ronaldo clarifies retirement plan](https://www.the-independent.com/bulletin/sport/cristiano-ronaldo-retirement-plan-b2862962.html)
+**Author:** Will Castle | **Published:** 2025-11-11
 
-Title: When Is Cristiano Ronaldo Retiring? - Sports Illustrated
-Author: Barnaby Lane
-Published Date: 2025-07-07T00:00:00.000Z
-URL: https://www.si.com/soccer/when-is-cristiano-ronaldo-retiring
-Summary: Cristiano Ronaldo has not announced any retirement plans and continues to play actively, having recently signed a two-year contract with Al-Nassr that extends until 2027. Despite acknowledging that age is catching up with him, he remains highly committed, performing at a top level for both club and country. Given his current trajectory, intense fitness regimen, and ongoing contributions, it is unlikely he will retire in 2026. Instead, he appears poised to continue playing beyond that year, possibly until 2027 or later, unless unforeseen circumstances arise.
+Ronaldo stated in November 2025 that he plans to retire in “probably one or two years,” intending the 2026 World Cup to be his final major tournament, and extended his Al‑Nassr contract to 2027. This suggests retirement may occur in 2027 rather than 2026, challenging a high probability price.
 
-Title: Cristiano Ronaldo's retirement hint, furious rows and mother's wish for next club - The Mirror
-Author: Nathan Ridley
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-birthday-manchester-united-36672972
-Summary: Cristiano Ronaldo, currently 41, is experiencing significant turmoil at his club Al-Nassr, having refused to play recent matches amid disputes with club owners and ongoing conflicts within the Saudi Pro League. His future remains uncertain, especially following Karim Benzema's controversial move to Al-Hilal, which has intensified speculation about Ronaldo's long-term plans. Historically, Ronaldo has had a complex relationship with his clubs and has hinted at retirement in the past, but no definitive announcement has been made. Given the current tensions and his age, there is ongoing speculation about whether he might retire in 2026, but no concrete indication confirms this will happen.
+### [When will Cristiano Ronaldo retire? Portugal boss Roberto Martinez explains why CR7's playing career could go 'on and on and on'](https://www.goal.com/en-us/lists/when-will-cristiano-ronaldo-retire-portugal-boss-roberto-martinez-cr7-playing-career/blt97bf0c2ff5edd142/)
+**Author:** Krishan Davis | **Published:** 2026-02-14
 
-Title: How Cristiano Ronaldo is preparing for retirement after becoming a club owner with football's first billionaire putting plans in place at age of 41 | Daily Mail Online
-Author: Harry Bamforth
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.dailymail.co.uk/sport/football/article-15594623/Cristiano-Ronaldo-retirement-club-owner.html
-Summary: Cristiano Ronaldo, at age 41, is actively preparing for his post-playing career by establishing himself as a club owner, marking a historic milestone as football's first billionaire to do so. His strategic plans indicate a focus on long-term involvement in football beyond his playing days. While there is no explicit mention of an imminent retirement announcement in 2026, his current preparations suggest he is approaching the end of his playing career and positioning himself for future endeavors in football management and ownership.
+Portugal manager Martinez expressed that Ronaldo could extend his playing career indefinitely given his form—17 goals in 18 games—and his contract through 2027, further supporting continuity beyond 2026.
 
-Title: World Cup stage is set for Messi and Ronaldo, who are not ready for ...
-Author: Gab Marcotti
-Published Date: 2022-11-17T00:00:00.000Z
-URL: https://www.espn.com/soccer/story/_/id/37633934/world-cup-not-yet-last-dance-messi-ronaldo
-Summary: The article discusses the ongoing careers of Lionel Messi and Cristiano Ronaldo, emphasizing that their participation in the upcoming World Cup does not signify their final appearances. Despite nearing the typical retirement age for footballers, both players are still actively competing at the highest level, with Ronaldo's son making his debut for Portugal's U15 team and Marta, at 39, being recalled to Brazil's squad. There is no indication from current reports that Ronaldo plans to retire in 2026; rather, he remains engaged in international football. Therefore, based on recent developments and his continued involvement, it is unlikely that Cristiano Ronaldo will announce his retirement in 2026.
+### [Cristiano Ronaldo renueva con Al Nassr hasta 2027 y seguirá jugado al menos hasta los 42 años](https://elpais.com/deportes/futbol/2025-06-26/cristiano-renueva-con-al-nassr-hasta-2027.html)
+**Author:** Unknown | **Published:** 2025-06-26
 
+Ronaldo officially renewed his contract with Al‑Nassr until 2027, committed to playing through age 42, indicating that a 2026 club retirement is not highly likely.
 
+### [Nani predicts Cristiano Ronaldo will retire immediately if he leads Portugal to 2026 World Cup glory...](https://www.goal.com/en-us/lists/nani-predicts-cristiano-ronaldo-retire-portugal-2026-world-cup-glory-ex-man-utd-team-mate-emulate-david-beckham-mls-franchise-owner/bltbd5600b782cf9ed4)
+**Author:** Chris Burton | **Published:** 2025-11-04
+
+Nani speculated that Ronaldo might retire after winning the 2026 World Cup, suggesting a scenario that aligns with the “Yes” outcome—but this remains speculative without concrete evidence.
+
+### [Cristiano Ronaldo turns injury more serious than expected](https://as.com/futbol/internacional/alarma-cristiano-f202603-n/)
+**Author:** Unknown | **Published:** 2026-03-06
+
+Reports on March 6, 2026 indicate Ronaldo suffered a more serious injury than initially thought, introducing uncertainty about his near-term physical condition although not implying imminent retirement.

@@ -1,84 +1,123 @@
 # Research: Will Troy Jackson win the 2026 Maine Governor Democratic primary election?
 
 **Market ID:** 0x9e7946bfbc35a400efea548fe34b649fc96893f80c899ae87cb6b5a650907032
-**Researched At:** March 4, 2026 at 02:49:29 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Troy Jackson win the 2026 Maine Governor Democratic primary election?"
+**Researched At:** March 12, 2026 at 04:13:43 AM UTC
+**Search Query:** "Will Troy Jackson win the 2026 Maine Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 5.0¢
+**Confidence:** Medium
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Current Feb 24 polling puts Jackson at just 16% support against Shah’s 25%, implying the market’s 27% price is likely overstating his chances by roughly 10¢. Endorsements and undecided voters add uncertainty, but there’s insufficient evidence they justify such a jump.
+Troy Jackson’s current 30% market probability is well above recent poll support (8–10%), signaling possible mispricing. However, credible endorsements and grassroots momentum could justify under-the-radar support yet to appear in polls—so evidence for large mispricing remains inconclusive.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Troy Jackson win the June 9, 2026 Maine Democratic gubernatorial primary?” YES if he emerges as the overall nominee (including any runoff), NO otherwise.
+Here is the structured analysis of the prediction market for “Will Troy Jackson win the 2026 Maine Governor Democratic primary?”, based on current market data (30% probability, low $4,740 volume, 2¢ spread as of March 12, 2026).
 
-2. EVIDENCE EVALUATION  
-• Poll (Feb 24/2026): Jackson at 16%, Shah at 25%, 23% undecided. At 16%, Jackson is a clear underdog relative to the 27% market price—even if he sweeps half the undecideds, he reaches ~27%, but he must also outpace multiple rivals.  
-• Endorsements (Feb 26): Portland Mayor Mark Dion and several councilors back Jackson, signaling local momentum. However, no post-endorsement polling shows a material surge.  
-• Debates & Editorials (late Feb): Jackson’s active debate participation and op-eds highlight engagement and appeal to working-class voters but lack quantified voter shifts.  
-Overall, current polling suggests 16% baseline support vs. 27% implied probability; endorsements help but likely don’t justify an 11-point lift absent other data.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-• Tight spread but low volume (~$4.2k) suggests few participants.  
-• The 27% price may reflect a lone trader’s bullish view or crude adjustments for undecideds, rather than broad consensus.  
-• Informed traders may be waiting for updated polls before reallocating.
+## 1. CONTEXT ANALYSIS
 
-4. MISPRICING ASSESSMENT  
-• Evidence of mispricing: Poll data points to 16% support vs. 27% price (≈11¢ overpricing).  
-• Counter: Undecided voters (23%) create room for volatility; endorsements could yield a modest bump.  
-• No evidence of any major new campaign event or polling shift since Feb 24 that would fully justify Jackson jumping above 25%.
+The prediction market asks whether Troy Jackson will win the Democratic primary for Governor of Maine on June 9, 2026. A YES outcome requires Jackson to emerge as the ultimate winner—either outright or via any run-off—per Maine Democratic Party official declaration or overwhelming media consensus. A NO outcome occurs if any other Democrat wins or if the primary does not take place (then resolves to "Other").
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 50% (polls reliable but limited update).  
-• Magnitude: ~10¢ mispricing.  
-• EV ≈ 0.5 × 10¢ = 5¢ expected value.
+---
 
-EXPECTED_VALUE: 5.0  
-SUMMARY: Current Feb 24 polling puts Jackson at just 16% support against Shah’s 25%, implying the market’s 27% price is likely overstating his chances by roughly 10¢. Endorsements and undecided voters add uncertainty, but there’s insufficient evidence they justify such a jump.  
-CONFIDENCE: low
+## 2. EVIDENCE EVALUATION
+
+### Evidence suggesting mispricing (i.e., Jackson is undervalued):
+- Recent **polling** by Pan Atlantic (Feb–Mar 2026) shows Jackson at **10%**, trailing leaders Nirav Shah and Angus King III at **24%** each ([wabi.tv](https://www.wabi.tv/2026/03/05/new-poll-sheds-light-key-maine-primary-races/?utm_source=openai)).
+- Earlier Pan Atlantic omnibus poll (Nov–Dec 2025) had Jackson at just **8%** strong support; when including those who might consider him, he climbed to **32%**, but still behind top-tier candidates ([wmtw.com](https://www.wmtw.com/article/frontrunner-poll-close-races-maine-governor-senate/69687538?utm_source=openai)).
+
+These polls suggest Jackson is a distant third or lower, implying the 30% market price may overestimate his standing unless newer developments—such as late momentum or endorsements—are at play.
+
+### Evidence supporting reasonable pricing:
+- **Portland Mayor Mark Dion**, a prominent Democratic figure, endorsed Jackson in late February 2026, signaling growing establishment support ([nationaltoday.com](https://nationaltoday.com/us/me/portland-me/news/2026/02/27/portland-mayor-endorses-troy-jackson-for-maine-governor/?utm_source=openai)).
+- His campaign is powered by **small-donor grassroots support** and labor backing, boasting 5,000+ contributions across Maine and broad appeal among working-class voters ([maineaflcio.org](https://maineaflcio.org/news/troy-jacksons-campaign-powered-small-donations-rural-mainers?utm_source=openai)).
+- Candidates have highlighted **tribal sovereignty** as key platform points; Jackson was first to pledge day-one action on restoring Wabanaki Nation sovereignty, potentially resonating with key constituencies ([mainemorningstar.com](https://mainemorningstar.com/2025/08/27/candidates-support-signals-tribal-rights-may-be-a-top-issue-for-maines-next-governor/?utm_source=openai)).
+
+These factors could indicate latent support not captured by polling, possibly justifying a 30% market price as plausible given campaign momentum or under-polled bases.
+
+### Source credibility and recency:
+- Polling sources (Pan Atlantic Research, WABE, WMTW) are reputable and recent (Nov 2025 to Mar 2026) ([wabi.tv](https://www.wabi.tv/2026/03/05/new-poll-sheds-light-key-maine-primary-races/?utm_source=openai)).
+- Local endorsements and campaign details (portland mayor endorsement, grassroots funding, tribal sovereignty stance) come from recent local news and reliable outlets within the past months ([nationaltoday.com](https://nationaltoday.com/us/me/portland-me/news/2026/02/27/portland-mayor-endorses-troy-jackson-for-maine-governor/?utm_source=openai)).
+- Reddit commentary reflects public sentiment but is informal and not used for core evidence.
+
+### Skepticism of “obvious” evidence:
+- If the endorsement or grassroots support truly signaled strong momentum, we might expect polling to shift upward more noticeably by early March—but polls still show low support. This mismatch suggests either slow absorption by poll respondents or overestimation by markets.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Reasonable interpretation of price**: The market’s 30% may reflect expectations of late-stage consolidation—e.g., voters coalescing around Jackson after declines of frontrunners, or effective grassroots campaigning closing gaps not yet visible in polls.
+- **Possibility of isolated influence**: Low volume suggests a small number of traders could skew price—maybe a supporter(s) placing confident trades without broader backing.
+- **Low volume reasoning**:
+  - May indicate the race is seen as fairly predictable by most, with attention focused on front-runners like Shah or King.
+  - Or informed traders may be waiting for more polling or campaign developments before engaging, leading to thin liquidity.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- **Evidence for mispricing**: Polling shows Jackson far behind—8–10%—suggesting a significant gap from the current 30% implied probability. If polls are accurate, this may represent ~20–22 cent overpricing.
+- **Evidence against mispricing**: Endorsements, grassroots mobilization, and issue leadership could justify under-captured support. These are credible developments but not yet reflected in polling—some uncertainty remains.
+- **Timeline consideration**: With the primary on June 9, there’s plenty of time for dynamics to shift; early 30% may represent optionality on momentum.
+- **Efficiency signs**: The tight spread suggests low arbitrage opportunity, but low volume reduces reliability.
+
+Given this, mispricing may exist but evidence is mixed. The gap is sizable vs. polling, but it's plausible that the market prices in non-poll factors. Without more polling near March‑April, concluding significant mispricing seems premature.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Polling is strong (cold numbers, recent), but offset by credible campaign developments in positive direction—not fully reflected yet—so evidence strength might be moderately high. I'll estimate **60%**.
+- **Magnitude of mispricing**: If Jackson truly is at 10%, market implies 30% → 20 cent potential. But given uncertainty, actual mispricing might be ~15 cents.
+
+Thus, expected value = 60% × 15¢ = **9 cents**.
+
+---
+
+EXPECTED_VALUE: 9  
+SUMMARY: Troy Jackson’s current 30% market probability is well above recent poll support (8–10%), signaling possible mispricing. However, credible endorsements and grassroots momentum could justify under-the-radar support yet to appear in polls—so evidence for large mispricing remains inconclusive.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Poll shows frontrunners in Maine governor’s race
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://spectrumlocalnews.com/me/maine/politics/2026/02/24/poll-shows-frontrunners-in-maine-governor-s-race
-Summary: The latest poll indicates that among Democratic candidates for Maine governor, Dr. Nirav Shah leads with 25% support, while Troy Jackson trails at 16%. Additionally, 23% of voters remain undecided. Given Shah's current lead and the significant undecided voter percentage, Jackson's chances depend on his ability to sway undecided voters and improve his support before the June primary. However, based on this poll, Jackson is not the frontrunner at this stage.
+### [2026 Maine gubernatorial election – Wikipedia (Democratic primary polling & fundraising)](https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Portland Mayor Mark Dion endorses Troy Jackson for Maine governor
-Author: Cate McCusker
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.wmtw.com/article/portland-mayor-endorses-jackson-for-maine-governor/70522946
-Summary: Portland Mayor Mark Dion has endorsed Troy Jackson for Maine governor, citing his ability to unite the Democratic Party and focus on working-class issues. Dion emphasizes Jackson's broad appeal across the political spectrum within the party and his commitment to representing working-class Maine residents. Several Portland city councilors also support Jackson, highlighting his understanding of working-class values and his dedication to fighting for all of Maine. Jackson faces competition from other Democratic candidates such as Shenna Bellows, Hannah Pingree, and Nirav Shah, as well as a Republican field. Jackson's strong endorsements and focus on working-class issues suggest he is a significant contender in the Democratic primary, but the outcome will depend on voter support among the party's base.
+Provides details on declared Democratic primary candidates, including Troy Jackson, and campaign fundraising as of January 15, 2026 (Jackson at $643k raised, $255k cash on hand). Includes Pan Atlantic Research polling (Feb 13–Mar 2, 2026) showing Jackson at 10%, tied leaders at 24%. This supports the view that Jackson trails significantly in polling, challenging the market’s 30% probability.
 
-Title: Candidates for Maine governor Troy Jackson, Bobby Charles exchange jabs in Auburn debate
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.pressherald.com/2026/02/25/candidates-for-maine-governor-troy-jackson-bobby-charles-exchange-jabs-in-auburn-debate
-Summary: The article reports on a debate between Maine gubernatorial candidates Troy Jackson and Bobby Charles in Auburn, where they exchanged jabs and addressed issues such as immigration, affordability, and drug addiction. While the debate highlights the candidates' positions and their confrontational style, it does not provide specific polling data, campaign momentum, or voter support metrics. To assess Jackson's chances of winning the 2026 Democratic primary, one would need to consider his current political standing, previous election performance, campaign organization, and voter base, none of which are detailed in this article. Therefore, while Jackson's active participation in debates indicates engagement, this source alone offers limited insight into his likelihood of securing the Democratic nomination.
+### [New poll sheds light on key Maine primary races – WABI News](https://www.wabi.tv/2026/03/05/new-poll-sheds-light-key-maine-primary-races/)
+**Author:** WABI News Desk | **Published:** 2026‑03‑04
 
-Title: Gubernatorial candidates Troy Jackson, Bobby Charles hold debate in Auburn
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://wgme.com/news/beyond-the-podium/gubernatorial-candidates-troy-jackson-bobby-charles-hold-debate-in-auburn-maine-democrat-republican
-Summary: The debate between Democratic candidate Troy Jackson and Republican candidate Bobby Charles highlighted key policy differences, with Jackson emphasizing his independence and willingness to challenge party leadership, and Charles focusing on tax cuts and stricter immigration policies. Jackson advocates for reform and collaboration across party lines, while Charles promotes reducing taxes and addressing illegal immigration. Given Jackson's stance on governance and his opposition to vetoes by current leadership, his performance in debates and his ability to distinguish himself from opponents may influence his prospects in the upcoming Democratic primary. However, the primary's outcome will depend on broader campaign dynamics, voter preferences, and the number of candidates competing after the June primary.
+Reports Pan Atlantic Research poll showing Democratic gubernatorial primary support: Angus King III and Nirav Shah tied at 24%, Hannah Pingree 18%, Shenna Bellows 16%, Troy Jackson 10%. Highlights Jackson’s low polling position relative to top-tier candidates.
 
-Title: Troy Jackson will bring the leadership Maine desperately needs | Letter
-Author: 
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.pressherald.com/2026/02/28/troy-jackson-will-bring-the-leadership-maine-desperately-needs-letter/
-Summary: Troy Jackson demonstrates strong leadership qualities and a commitment to engaging voters across political lines. He has actively challenged opponents to debates on critical issues such as law enforcement, crime, drugs, and immigration, signaling his dedication to transparency and inclusive dialogue. Jackson's advocacy for working-class communities, small businesses, and families highlights his focus on practical concerns affecting Maine residents. His willingness to confront contentious topics and foster open discussions positions him as a candidate capable of uniting diverse voters. While the article does not explicitly predict election outcomes, Jackson's proactive approach and appeal to broad constituencies suggest he has a solid foundation to contend in the 2026 Democratic primary.
+### [Portland Mayor Endorses Troy Jackson for Maine Governor – National Today](https://nationaltoday.com/us/me/portland-me/news/2026/02/27/portland-mayor-endorses-troy-jackson-for-maine-governor/)
+**Author:** Unknown | **Published:** 2026‑02‑27
 
+Reports that Portland Mayor Mark Dion endorsed Jackson (Feb 26, 2026), framing it as unity-building within Maine Democrats. Signals potential late stage momentum and establishment support, which could lift Jackson beyond his polling numbers.
 
+### [Troy Jackson’s Campaign Powered By Small Donations & Rural Mainers – Maine AFL‑CIO](https://maineaflcio.org/news/troy-jacksons-campaign-powered-small-donations-rural-mainers)
+**Author:** Andy O’Brien | **Published:** 2025‑07‑24
+
+Highlights Jackson’s early fundraising strength via small-dollar contributions across all Maine counties, building a grassroots base. Although dated (mid‑2025), it underscores Jackson’s appeal to working-class voters and potential durability in a primary.
+
+### [Candidates’ support signals tribal rights may be a top issue for Maine’s next governor – Maine Morning Star](https://mainemorningstar.com/2025/08/27/candidates-support-signals-tribal-rights-may-be-a-top-issue-for-maines-next-governor/)
+**Author:** Emma Davis | **Published:** 2025‑08‑27
+
+Notes that Jackson committed to restoring Wabanaki Nation tribal sovereignty on day one as part of campaign platform, demonstrating issue leadership that could earn critical support from tribal communities and allies—potentially undervalued in polls.
+
+### [Is there a frontrunner? New poll shows close races for Maine governor, senate – WMTW](https://www.wmtw.com/article/frontrunner-poll-close-races-maine-governor-senate/69687538)
+**Author:** Unknown | **Published:** 2025‑11‑29 to 2025‑12‑07 (Poll timeframe)
+
+Describes November/December 2025 Pan Atlantic omnibus poll: Jackson at 8% strong support; when considering those who would consider him, combined support reached 32%, still behind other candidates. Shows low name recognition and polling, suggesting market may overprice him if relying on these numbers.

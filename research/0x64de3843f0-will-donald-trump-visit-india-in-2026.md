@@ -1,94 +1,95 @@
 # Research: Will Donald Trump visit India in 2026?
 
 **Market ID:** 0x64de3843f040e3b4ea1f205c98ecd6bfc38f293d1c53790f5e1c74c8d2140615
-**Researched At:** March 4, 2026 at 04:15:00 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Donald Trump visit India in 2026?"
+**Researched At:** March 12, 2026 at 04:13:17 AM UTC
+**Search Query:** "Will Donald Trump visit India in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Available information shows speculation and diplomatic invitations but no formal visit plans, making the 50.5% price reasonable and any mispricing likely under 10 cents. Expected value of further investigation is low (~1.5 cents).
+Current evidence shows a formal invitation and positive signals, yet no scheduled trip, making the 39.5% probability reasonable. There’s no clear indication of significant mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- Market asks: Will President Donald Trump physically enter India’s sovereign territory at any time in 2026 (Jan 1–Dec 31, 11:59 PM ET)?  
-- YES requires a documented visit; NO if he does not travel there.  
+Here’s a thorough, context-rich analysis of the “Will Donald Trump visit India in 2026?” prediction market, grounded in recent, credible sources.
 
-2. EVIDENCE EVALUATION  
-Bullish signals (favoring a visit):  
-• Feb 4 2026 (New Indian Express): India–US relations warming via Quad revival; speculation of a 2026 visit (but no official date).  
-• Feb 20 2026 (NewKerala): US Ambassador says Modi has invited Trump back, Trump enjoyed his last visit, and “expects him to come back at some point.”  
+---
 
-Bearish signals (against a visit):  
-• No formal announcement or scheduled State visit as of Feb 2026.  
-• India is cautious on trade terms; no executive order or ceremony set.  
-• Major outlets (CNBC 2/5/26, TOI 11/7/25, NPR 2/12/25) note the strong rapport but do not report any planned 2026 trip.  
+## 1. CONTEXT ANALYSIS  
+- The market resolves to “Yes” if Trump physically enters Indian territory before December 31, 2026 at 11:59 PM ET. For “No,” he must not enter India in that period.  
+- A valid “visit” requires physical presence (land or maritime). Airspace alone does not qualify.  
+- Sources of resolution include official U.S. government, Trump themselves (e.g., verified social media), or consensus credible reporting as backed by the market description.
 
-Source credibility and recency:  
-• All cited evidence is from early 2026 or late-2025 and comes from mainstream Indian and international media or an official diplomat statement—moderate credibility but all admit no firm plans yet.  
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 50.5% price reflects roughly balanced uncertainty, plausible given known invites but no itinerary.  
-- Low $4.2k volume and tight spread might indicate only a few active traders—could be inertia rather than strong consensus.  
-- But the subject (a State visit by a sitting US President) would attract informed interest, so some informed traders likely have priced in known public signals.  
+## 2. EVIDENCE EVALUATION  
 
-4. MISPRICING ASSESSMENT  
-- No clear, credible “smoking gun” detail (e.g., leaked State Department scheduling, airline/facility bookings) is missing from the market.  
-- Both sides have plausible arguments and nothing dramatic is overlooked.  
-- A large (>20¢) mispricing is unlikely; at most any bias seems small.  
+### A. Evidence Suggesting “Yes” (Visit Likely)
+- U.S. Ambassador Sergio Gor stated in February 2026 that Prime Minister Modi has invited Trump to visit India again, recalling that Trump “loved” his previous trip and expressing confidence he would return. No formal plans exist yet, but the invitation is official and timely. ([nationaltoday.com](https://nationaltoday.com/us/dc/washington/news/2026/02/28/trump-invited-to-visit-india-again-us-envoy-says/?utm_source=openai))  
+- A recent article quotes Trump suggesting “it could be” that he visits India next year, describing Modi as “a friend” and discussing plans to “figure that out.” ([thedailyguardian.com](https://thedailyguardian.com/world/us/donald-trump-to-visit-india-in-2026-will-the-trip-reset-us-india-relations-678810/?utm_source=openai))  
+- Ambassador Gor also emphasized deepening U.S.-India ties through new strategic partnerships (e.g., Pax Silica, AI collaboration), which may encourage a reciprocal high-profile visit. ([indiandefensenews.in](https://www.indiandefensenews.in/2026/01/trump-may-visit-next-year-no-country.html?utm_source=openai))  
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: ~30% (ambiguous, moderate-credibility reporting but no firm commitments).  
-- Magnitude of mispricing: ~5 cents (any error in the 50.5% is likely minor).  
-- Expected value: 0.3 × 5 cents = 1.5 cents.  
+### B. Evidence Suggesting “No” (Visit Not Confirmed)
+- Despite the invitation and favorable rhetoric, there is no official itinerary, scheduling, or confirmation of dates. Gor explicitly noted “no formal announcement yet.” ([nationaltoday.com](https://nationaltoday.com/us/dc/washington/news/2026/02/28/trump-invited-to-visit-india-again-us-envoy-says/?utm_source=openai))  
+- The visit remains speculative—Trump’s own ambiguity (“it could be, yes”) is noncommittal and lacks detail. ([thedailyguardian.com](https://thedailyguardian.com/world/us/donald-trump-to-visit-india-in-2026-will-the-trip-reset-us-india-relations-678810/?utm_source=openai))  
+- No reports from major Indian or U.S. government press releases or reputable news outlets have confirmed a planned visit as of March 2026.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Available information shows speculation and diplomatic invitations but no formal visit plans, making the 50.5% price reasonable and any mispricing likely under 10 cents. Expected value of further investigation is low (~1.5 cents).  
+### C. Source Credibility & Recency  
+- Ambassador Gor’s statements are official and current (late February 2026) — highly credible. ([nationaltoday.com](https://nationaltoday.com/us/dc/washington/news/2026/02/28/trump-invited-to-visit-india-again-us-envoy-says/?utm_source=openai))  
+- Trump’s comment comes from a media article of four months ago — recent and from a public appearance. ([thedailyguardian.com](https://thedailyguardian.com/world/us/donald-trump-to-visit-india-in-2026-will-the-trip-reset-us-india-relations-678810/?utm_source=openai))  
+- Absence of formal scheduling in official sources or mainstream press suggests uncertainty remains.
+
+### D. Bullish vs Bearish Explanation  
+- **Bullish**: Invitation and favorable diplomatic momentum imply a visit is plausible, especially given strategic alignment on trade, AI, and defense.  
+- **Bearish**: The lack of concrete plans or public confirmation suggests traders are right to be cautious. Trump’s vague comments signal interest but not commitment.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS  
+- A 39.5% probability reflects balanced uncertainty: neither overly optimistic nor dismissive.  
+- **Interpretation that justifies the price**: Traders appear to sense the plausibility of a visit but recognize that no firm arrangements exist yet. A mid-range probability reflects this uncertain but non-negligible chance.  
+- **Could reflect few traders?** Total volume is just ~$5k and spread is tight (5¢), so the price may be shaped by limited participants. Still, pricing aligns well with the observable state: an official invitation exists, but plans are pending.  
+- **Low volume due to clarity or neglect?** The topic is not resolved yet; lack of engagement might reflect low salience rather than assumed certainty.
+
+---
+
+## 4. MISPRICING ASSESSMENT  
+- The evidence neither conclusively indicates a visit will happen nor rules it out.  
+- A 39.5% market probability is consistent with the current state: a viable but unconfirmed invitation, with no official scheduling.  
+- No specific, credible information appears to have been overlooked by the market. The uncertainty is real and traders seem to reflect that.  
+- **Conclusion**: There is no strong evidence of mispricing. The probability seems appropriately set.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION  
+- Strength of evidence: Moderate–High (~60%). Ambassador invitation and Trump’s ambiguous openness provide tangible signals, but lack of scheduling limits confidence.  
+- Magnitude of mispricing: Likely small—maybe ±5–10 cents at most, but as we don’t see a clear bias, the error magnitude is near zero.  
+- Expected value = 60% × 5 cents = 3 cents (but realistically it may be even less if the true mispricing is smaller).
+
+---
+
+EXPECTED_VALUE: 3  
+SUMMARY: Current evidence shows a formal invitation and positive signals, yet no scheduled trip, making the 39.5% probability reasonable. There’s no clear indication of significant mispricing.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Quad gets lifeline, Trump may visit India this year
-Author: Jayanth Jacob
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.newindianexpress.com/nation/2026/Feb/04/quad-gets-lifeline-trump-may-visit-india-this-year
-Summary: The article discusses recent developments in India-US relations, including the revival of the Quad alliance and ongoing trade negotiations. US President Donald Trump has claimed that a trade deal may lead to a reduction in India's tariffs from 25% to 18%, and the potential removal of additional duties on Russian oil. However, no formal executive order has been issued yet, and India remains cautious, awaiting detailed terms of the agreement. Notably, there is speculation about Trump possibly visiting India later in 2026, but no official confirmation or scheduled visit has been announced at this time.
+### [Trump Invited to Visit India Again, US Envoy Says - Washington Today](https://nationaltoday.com/us/dc/washington/news/2026/02/28/trump-invited-to-visit-india-again-us-envoy-says/)
+**Author:** Unknown | **Published:** 2026-02-28
 
-Title: The facts — and frictions — of the U.S.-India trade deal - CNBC
-Author: Priyanka Salve
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.cnbc.com/2026/02/05/cnbcs-inside-india-newsletter-the-facts-and-frictions-of-the-us-india-trade-deal.html
-Summary: The CNBC article discusses the complexities surrounding the U.S.-India trade relationship, highlighting ongoing negotiations, economic frictions, and strategic considerations. While it emphasizes the importance of the partnership and recent developments in trade agreements, it does not specifically mention or predict any planned visits by Donald Trump to India in 2026. Therefore, there is no direct information in this source to determine whether Trump will visit India that year.
+Reports Ambassador Sergio Gor stating Prime Minister Modi has invited Trump to return to India, with Trump reportedly having enjoyed his previous visit and likely to come back—though no formal announcement yet. This supports plausibility of a visit but underscores uncertainty, aligning with current market pricing.
 
-Title: Donald Trump says may visit India next year; calls PM Modi 'great ...
-Author: TOI News Desk  / TIMESOFINDIA.COM /  Updated: Nov 07, 2025, 10:12 IST
-Published Date: 2025-11-07T00:00:00.000Z
-URL: https://timesofindia.indiatimes.com/india/it-could-be-yes-donald-trump-says-may-visit-india-next-year-calls-pm-modi-great-friend/articleshow/125143530.cms
-Summary: Donald Trump has indicated the possibility of visiting India next year, 2024, stating "It could be, yes," and referring to Prime Minister Narendra Modi as a "great friend." While he has not confirmed a visit in 2026, his recent comments suggest a potential interest in future visits, contingent on various factors. However, there is no definitive information confirming or denying a visit to India specifically in 2026.
+### [Donald Trump to Visit India in 2026: Will the Trip Reset US-India Relations?](https://thedailyguardian.com/world/us/donald-trump-to-visit-india-in-2026-will-the-trip-reset-us-india-relations-678810/)
+**Author:** Unknown | **Published:** 2025-11-?? (circa late 2025)
 
-Title: Modi and Trump's rapport may be tested as Indian prime minister ...
-Author: By                  
-   
-      The Associated Press
-Published Date: 2025-02-12T00:00:00.000Z
-URL: https://www.npr.org/2025/02/12/g-s1-48391/modi-trump-india-tariffs
-Summary: The article discusses the close relationship between Narendra Modi and Donald Trump, highlighting their personal rapport and efforts to strengthen strategic ties, especially in trade, defense, and energy. Modi's visit to Washington aims to deepen cooperation and address issues like tariffs and trade imbalances, with both leaders seeking to maintain their alliance amid ongoing tensions. While the article emphasizes their strong diplomatic relationship during Trump's presidency, it does not provide specific information about future visits, including whether Trump will visit India in 2026. Therefore, predicting Trump's 2026 visit to India based solely on this content remains uncertain, as it focuses on current diplomatic dynamics without indicating future plans.
-
-Title: Trump Invited Back to India, US Pushes AI Partnership
-Author: Naveen
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.newkerala.com/news/a/donald-trump-loved-his-india-visit-pm-modi-939.htm
-Summary: US Ambassador Sergio Gor indicated that President Donald Trump greatly enjoyed his previous visit to India and expressed confidence that he will return in the future. While no formal announcement has been made, Gor emphasized that Prime Minister Narendra Modi has invited Trump for another visit, and the US expects him to come back "at some point." Therefore, based on current statements, there is a strong possibility that Trump may visit India again, potentially by 2026, though no definitive plans have been publicly confirmed.
-
-
+Quotes Trump saying a visit “could be, yes” and refers to Modi as a friend, signaling potential plans though not confirming any details. Adds to speculative bullish narratives but emphasizes lack of commitment, reinforcing cautious market stance.

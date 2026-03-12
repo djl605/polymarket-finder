@@ -1,87 +1,141 @@
 # Research: Will Donald Trump visit Italy in 2026?
 
 **Market ID:** 0xec25fff9ebd7b4ef5fecde23efcc876ed6b75c4870e2d0f0c03fdbe5f56364ab
-**Researched At:** March 2, 2026 at 04:22:03 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Donald Trump visit Italy in 2026?"
+**Researched At:** March 12, 2026 at 04:13:19 AM UTC
+**Search Query:** "Will Donald Trump visit Italy in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Conditional reports around the 2026 Winter Olympics and occasional diplomatic overtures suggest roughly 40–50% odds of Trump visiting Italy; the market’s 51% price sits in that zone with no clear mispricing. Low-volume trading likely reflects limited new information rather than a major inefficiency.
+Official statements confirm Trump accepted an invitation to visit Italy; however, no visit has been scheduled or occurred and a delegation was sent instead for Italy’s major event (the Winter Olympics). The market’s 55% price appropriately reflects plausible intent balanced by substantive uncertainty.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump will physically enter Italy’s territory at any time in 2026. A “YES” resolution requires his arrival in Italy (anywhere from Milan to Rome or ports) between January 1 and December 31, 2026. A “NO” resolution means he never sets foot in Italy during that window.
+Here is a thorough evaluation following your instructions, based on the current market asking:
 
-2. EVIDENCE EVALUATION  
-Bullish signals for a 2026 Italy visit:  
-• Winter Olympics contingency (Deseret News, TASS Feb 17, 2026): Multiple outlets report that Trump’s Air Force One is on standby and he plans to attend the U.S. men’s hockey final and Closing Ceremony in Milan/Cortina if Team USA reaches the gold-game. Team USA is in the quarterfinals now, giving some nonzero chance (perhaps ~40–50%) he travels.  
-• Past diplomacy: PM Meloni’s statements (Feb 16, 2026; Apr 18, 2025) signal willingness from Italy’s side to engage Trump—both as an observer at his Board of Peace session and in talks with EU institutions—though neither commits to an Italy trip.
+**Market Question**: Will Donald Trump visit Italy in 2026?
 
-Bearish signals:  
-• No formal White House announcement of a state visit or official trip to Italy beyond the Olympics contingency.  
-• All cited plans are conditional: Olympic attendance hinges on U.S. team performance; other diplomatic invites lack concrete dates.  
-• No firm scheduling or logistics (hotel blocks, security plans) have been publicly released for Italy beyond speculative reporting.
+**Resolution**: "Yes" if Trump physically enters Italy between January 1 and December 31, 2026. "No" otherwise.
 
-Source credibility/recency: All items are February 2026 and from known outlets (TASS, Deseret News, Euronews), but none provide a confirmed itinerary or invitation.  
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 51% price reflects roughly even odds, consistent with:  
-• The uncertain but material possibility of an Olympics visit (conditional probability).  
-• The lack of any announced non-Olympic trip.  
-Low volume suggests few participants but also little controversy; the even split implies traders see roughly coin-flip odds given the limited public information.
+## 1. CONTEXT ANALYSIS
 
-4. MISPRICING ASSESSMENT  
-There’s no single piece of missing, game-changing evidence. The Olympics contingent trip alone would justify a ~40–50% baseline, plus a small added chance for an EU/peace-summit visit. A 51% market price sits squarely in that range. No credible sign of >20¢ mispricing is evident.
+The prediction market hinges on whether President Donald Trump will personally travel to and physically enter Italy during 2026. A resolution of "Yes" means any official or unofficial trip that includes his presence in Italian territory (land or maritime) within the 2026 calendar year. A “No” resolution would occur if Trump does not visit Italy at all during that year.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that anything major is missing): 40%  
-Estimated mispricing magnitude: 10¢  
-Expected value = 0.4 × 10¢ = 4¢
+---
 
-EXPECTED_VALUE: 4.0  
-SUMMARY: Conditional reports around the 2026 Winter Olympics and occasional diplomatic overtures suggest roughly 40–50% odds of Trump visiting Italy; the market’s 51% price sits in that zone with no clear mispricing. Low-volume trading likely reflects limited new information rather than a major inefficiency.  
+## 2. EVIDENCE EVALUATION
+
+### Evidence suggesting the market price might be incorrect:
+
+- Italian Prime Minister Giorgia Meloni stated in April 2025 that Trump had accepted an invitation to pay an official visit to Rome in the “near future” and might also engage with EU officials during that trip ([yahoo.com](https://www.yahoo.com/news/italys-meloni-says-trump-visit-212550303.html?utm_source=openai)).  
+  • Credibility: Reuters, White House press release, Reuters reprint, reputable press—high.  
+  • Interpretation: Indicates intent or plan for Trump to visit Italy, supporting a "Yes" outcome.
+
+- White House Joint Leaders’ Statement reaffirmed that Trump “accepted Prime Minister Meloni’s invitation to pay an official visit to Italy in the very near future” ([whitehouse.gov](https://www.whitehouse.gov/briefings-statements/2025/04/united-states-italy-joint-leaders-statement/?utm_source=openai)).  
+  • Credibility: Official government document—very high.  
+  • Interpretation: Official confirmation of the intention to go, supporting the “Yes” side.
+
+### Evidence supporting the current market price as reasonable:
+
+- As of January 17, 2026, President Trump designated a delegation (led by VP JD Vance and others) to attend the Opening Ceremony of the 2026 Winter Olympics in Milan, but Trump himself was explicitly not part of that delegation ([apnews.com](https://apnews.com/article/4cda5924bd4bec7732c065e2a170cbaf?utm_source=openai)).  
+  • Credibility: AP News, official White House press release—high.  
+  • Interpretation: Despite the Olympics in Italy, no evidence of Trump being planned to attend, supporting skepticism of a visit.
+
+- A recent article (February 2026) speculated in a sporting media outlet that Trump “could arrive in Milan” for Olympic events, but with no confirmations—just that the IOC deferred inquiries to the White House ([sport.quotidiano.net](https://sport.quotidiano.net/en/olimpiadi/donald-trump-olimpiadi-finale-hockey-bn0foomw?utm_source=openai)).  
+  • Credibility: Marginal—sports gossip, unofficial.  
+  • Interpretation: This is speculative; lacks solid backing.
+
+### Balanced perspective and skepticism:
+
+- **Bullish** (Yes): strong invitation from Meloni, acceptance by Trump, official statements indicate intent—suggestive that a visit is plausible and may materialize.  
+- **Bearish** (No): No concrete schedule or confirmation of Trump’s presence yet; delegation sent instead; low-profile market reflects that traders see uncertainty.
+
+Why hasn't the market priced firmly if the intention is so clear? Likely because:
+- No official trip date announced so far, and Trump may delay or cancel.  
+- In low-volume markets, even widely known intentions may not fully influence prices until logistics are firm.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Interpretation of current price (55%)**: This reflects moderate expectation that Trump will visit—market sees a slight edge toward "Yes" but acknowledges significant uncertainty.
+
+- **Consensus vs few traders**: Low trading volume (~$2.4k) suggests the current price might reflect limited participants or tentative expectations rather than broad consensus.
+
+- **Low volume because obvious or overlooked?**: The likely reason is that informed traders are waiting for concrete scheduling or official confirmation, rather than ignoring the market—thus market is cautious, not overconfident. The outcome isn't obvious yet: intent exists, but execution isn't firm.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+Weighing both sides:
+
+- **Strength of intent**: Strong – official invitation accepted; executive communication in April 2025 shows intent.  
+- **Lack of confirmation**: Strong – as of early 2026, no visit announced or scheduled; Olympics had delegation without him; mere speculation persists without evidence.
+
+Given this, the market price near 55% seems reasonable. There's potential for a trip, but still a 45% probability acknowledges real doubt. No evidence suggests a large mispricing; rather, the market price aligns with current information asymmetry: intention without confirmation.
+
+**CRITICAL CHECK**: Is a mispricing >20 cents plausible? No—intent exists but no action yet. There's no misreading of resolution criteria. Most charitable interpretation: informed traders are properly factoring the invitation but waiting for confirmation. No major blind spot.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**:  
+  - Evidence for visit: official intent (White House, Meloni) is strong—but absence of trip still leaves large uncertainty. Estimate strength ~60%.
+
+- **Magnitude of mispricing**:  
+  - Given price at 55% suggests moderate weighting of intent. I see maybe up to 5–10 cents potential correction if a confirmed trip is announced soon, but not more. Without confirmation, likely no mispricing.
+
+Expected value = 60% × 5¢ = 3¢ (upper bound). But currently, mispricing is likely near zero.
+
+---
+
+## 6. CONFIDENCE
+
+I assess this with **medium** confidence: evidence is official but incomplete; reasoning is cautious.
+
+---
+
+EXPECTED_VALUE: 3  
+SUMMARY: Official statements confirm Trump accepted an invitation to visit Italy; however, no visit has been scheduled or occurred and a delegation was sent instead for Italy’s major event (the Winter Olympics). The market’s 55% price appropriately reflects plausible intent balanced by substantive uncertainty.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: President Trump to visit Rome Thursday | State & National | tribuneledgernews.com
-Author: Adam Carey The Rome News Tribune
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.tribuneledgernews.com/local_news/state_and_national/president-trump-to-visit-rome-thursday/article_ce3b9d95-34aa-5050-ba24-a042fc285bcb.html
-Summary: The article discusses President Trump's upcoming visit to Rome, Georgia, on Thursday, as confirmed by the Floyd County Republican Party, which has been in contact with the White House regarding the visit. While the article does not provide specific information about future visits to Italy in 2026, it highlights Trump's ongoing engagement with local events and his history of campaign rallies in the area. To predict whether Trump will visit Italy in 2026, one might consider his past travel patterns, political engagements, and any potential campaign activities leading up to that year.
+### [Italy's Meloni says Trump will visit Rome and consider meeting EU](https://www.reuters.com/world/europe/italys-meloni-says-trump-visit-212550303.html)
+**Author:** Angelo Amante | **Published:** 2025-04-17
 
-Title: Meloni: Italy to attend Trump's Board of Peace session as observer
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.euronews.com/2026/02/16/italy-to-attend-trumps-board-of-peace-session-as-observer-meloni-announces
-Summary: Italy's Prime Minister Giorgia Meloni announced that Italy will participate as an observer in Donald Trump's upcoming Board of Peace session. This involvement may indicate a strengthening of diplomatic ties between Italy and the Trump administration. However, the announcement does not provide direct evidence or implications regarding a potential visit by Trump to Italy in 2026. The context of Italy's engagement in international discussions could suggest future interactions, but no specific plans for a visit have been mentioned.
+Reports that Prime Minister Giorgia Meloni said Trump accepted an invitation to visit Rome "in the near future" and may meet EU representatives. This suggests official intent and supports the plausibility of a visit.
 
-Title: Trump at the Olympics? Why the U.S. president may head to Italy – Deseret News
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.deseret.com/utah/2026/02/17/will-trump-go-to-the-olympics-in-milan-maybe-for-gold-medal-mens-hockey-match/
-Summary: There is growing speculation that former President Donald Trump may visit Italy for the 2026 Winter Olympics, particularly if the U.S. men's hockey team reaches the gold-medal game. Reports indicate that preparations are underway for a potential visit, with Air Force One on standby. Trump's attendance would likely be brief, focusing solely on the hockey game and the Closing Ceremonies, with no additional activities planned. While nothing is confirmed, Trump's interest in U.S. Olympic hockey, evidenced by his recent honors for the 1980 "Miracle on Ice" team, suggests he may prioritize attending if Team USA is in contention for gold.
+### [United States – Italy Joint Leaders’ Statement – The White House](https://www.whitehouse.gov/briefings-statements/2025/04/united-states-italy-joint-leaders-statement/)
+**Author:** Unknown | **Published:** 2025-04-18
 
-Title: Trump to come to Winter Games in Italy if US ice hockey team makes it to final — daily -  Sports - TASS
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: http://en.tass.ru/sports/2087875
-Summary: Donald Trump is expected to visit Italy in 2026 if the US ice hockey team reaches the final of the Olympic tournament. According to the Italian daily Corriere della Sera, Trump plans to attend the final match and the Closing Ceremony of the Winter Olympic Games, which will take place in Milan and Cortina d'Ampezzo from February 6-22, 2026. The US ice hockey team has advanced to the quarterfinals, and Trump's visit would likely involve significant security measures. This information suggests a strong possibility of his attendance, contingent on the team's performance.
+Official White House statement reiterating Trump accepted Meloni’s invitation for an official visit to Italy soon. This provides authoritative evidence of intent, supporting the “Yes” side.
 
-Title: Meloni: Trump will come to Rome for possible meeting with EU ...
-Published Date: 2025-04-18T00:00:00.000Z
-URL: https://www.euronews.com/my-europe/2025/04/18/meloni-trump-meeting-us-president-will-come-to-rome-possible-meeting-with-eu-institutions
-Summary: Italian Prime Minister Giorgia Meloni has announced that former U.S. President Donald Trump is expected to visit Rome for a potential meeting with European Union representatives. This visit is part of ongoing discussions regarding various international issues, including trade tariffs and defense. While the exact date of Trump's visit has not been confirmed, Meloni's invitation indicates a willingness to engage with Trump on matters relevant to both the U.S. and EU. Given this context, it may be reasonable to speculate that Trump's engagement with Italy and EU leaders could influence his travel plans in 2026, although no specific commitments for that year have been made public.
+### [Vance and Rubio set to attend Winter Olympics opening ceremony in Italy. Trump isn't on the list](https://apnews.com/article/4cda5924bd4bec7732c065e2a170cbaf)
+**Author:** Unknown (AP) | **Published:** 2026-01-17
 
+AP reports that while U.S. officials will attend the Milan-Cortina Olympics opening, Trump is not included in the delegation. This indicates that no visit was arranged for him at that time, reinforcing uncertainty.
 
+### [White House Press Release - President Donald J. Trump Announces Presidential Delegation to Milan, Italy to Attend the Opening Ceremony of the 2026 Olympic Winter Games Milano Cortina](https://www.presidency.ucsb.edu/documents/white-house-press-release-president-donald-j-trump-announces-presidential-delegation-milan)
+**Author:** Unknown | **Published:** 2026-01-17
+
+Official press release naming officials attending the Olympics Opening Ceremony, with Trump absent. Reinforces the lack of confirmed visit.
+
+### [Donald Trump in Milan? The IOC neither confirms nor denies: "Ask the White House."](https://sport.quotidiano.net/en/olimpiadi/donald-trump-olimpiadi/finale-hockey)
+**Author:** Sports Editorial | **Published:** 2026-02-17
+
+Speculative reporting that Trump "could arrive in Milan" for Olympic events, with no confirmation. Low reliability but indicates public speculation remains.

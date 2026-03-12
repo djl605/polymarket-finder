@@ -1,91 +1,127 @@
 # Research: Will the Republican Party win the WI-08 House seat?
 
 **Market ID:** 0xd3b86c14b6d6c3147bde6cc311319aedd8baa683d64a69ba61166001ac661fee
-**Researched At:** March 6, 2026 at 04:16:10 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the WI-08 House seat?"
+**Researched At:** March 12, 2026 at 04:14:41 AM UTC
+**Search Query:** "Will the Republican Party win the WI-08 House seat?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-WI-08 remains historically a safe Republican seat, and while redistricting introduces some uncertainty, there is no concrete data showing the GOP win probability is off by more than a few cents. Given the low volume but narrow spread, the 80.5% price appears reasonable.
+** The WI‑08 House market (~80%) aligns with district PVI (R+8), incumbent performance (57% in 2024), and projections (~84% Republican). While Democratic challengers exist and statewide shifts are narrowing margins, there's no credible evidence of significant mispricing.  
+**CONFIDENCE:** medium
+
+---
+
+SOURCES:  
+---  
+Title: 2026 United States House of Representatives elections in Wisconsin  
+URL: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin  
+
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: Will the Republican Party win Wisconsin’s 8th congressional district seat in the 2026 U.S. House midterms? It resolves YES if the eventual winner is listed or caucuses as Republican; NO otherwise.
+Below is a comprehensive, in-depth analysis of the Wisconsin 8th Congressional District prediction market, structured as you've requested.
 
-2. EVIDENCE EVALUATION  
-A. Bearish for GOP (suggests price too high):  
-• Redistricting uncertainty: Decision Desk HQ notes a court-ordered map in WI could shift some districts toward Democrats, potentially making WI-08 more competitive than historical norms.  
-• National environment: Trump’s low approval could depress GOP turnout, and a Democratic wave midterm could upset safe seats. (Implied by CNN’s reference to Democrats targeting Trump-leaning areas.)  
+---
 
-B. Bullish for GOP (supports current ~80%):  
-• Historical lean: CNN calls WI-08 a “securely red” district in Trump country. No specific competitive signal has emerged.  
-• No primary data: NPR reports no candidate results yet; absent a strong Democratic nominee or intra-GOP fracture, baseline stability favors the incumbent party.  
+**1. CONTEXT ANALYSIS**  
+This market asks: *“Will the Republican Party win the WI‑08 House seat in the 2026 midterm election?”* It resolves YES if a Republican candidate—ballot‑listed or caucus‑identified—wins on November 3, 2026. NO would resolve if a Democrat (or effectively non‑Republican) wins or is considered caucusing with the Democrats at resolution ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin?utm_source=openai)).
 
-C. Source credibility and recency:  
-• Decision Desk HQ (Skelley) 2/23/26 – reputable analyst, but doesn’t specify WI-08 PVI or candidate info.  
-• CNN Politics 2/15/26 – established outlet, directly labels WI-08 as red.  
-• NPR 3/5/26 – factual on lack of data.  
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-• Price justification: Reflects a consensus that WI-08 remains firmly GOP even amid redistricting noise.  
-• Low volume/spread: Could stem from obvious nature of this district rather than ignorance; few traders needed to set price near its long-term equilibrium.  
-• Alternative: If truly overlooked, an informed trader might have traded already; the tight spread suggests someone actively managing a position.  
+**2. EVIDENCE EVALUATION**  
 
-4. MISPRICING ASSESSMENT  
-• No direct polling or candidate shocks in research. The main “bearish” signal is redistricting, but that is speculative and undifferentiated across districts.  
-• Absent clear evidence that the new map swings WI-08 by >10–15 points, there’s no reason to believe the market’s ~80% GOP win probability is off by more than a few cents.  
+Bullish (for Republican win) evidence:  
+- The district has a Cook Partisan Voting Index of R+8, indicating a solid Republican lean ([en.wikipedia.org](https://en.wikipedia.org/wiki/Wisconsin%27s_8th_congressional_district?utm_source=openai)).  
+- The incumbent, Tony Wied (R), was elected with ~57.3% in 2024, suggesting comfortable support ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin?utm_source=openai)).  
+- 270toWin projects ~84% chance of a Republican win in 2026 for WI‑08 ([270towin.com](https://www.270towin.com/2026-house-election/states/wisconsin?utm_source=openai)).  
+- Analysts note the district "leans solidly Republican," with commentaries expressing surprise if Democrats win ([wisconsinexaminer.com](https://wisconsinexaminer.com/2024/10/17/race-for-8th-congressional-district-tests-power-of-reproductive-rights-versus-trump-endorsement/?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is wrong: ~20% (redistricting risk is real but unspecified).  
-• Magnitude of potential mispricing: ~5 cents (small shift if map leans slightly more Democratic than assumed).  
-• Expected value ≈ 20% × 5¢ = 1¢.
+Bearish (for Republican win) evidence:  
+- Democrats have fielded candidates, including progressive Mark Scheffler and Rick Crosson; Scheffler pledges grassroots funding and positions to close the ~15-point gap from 2024 ([wbay.com](https://www.wbay.com/2025/08/26/mark-scheffler-enters-8th-congressional-district-race/?utm_source=openai)).  
+- Observers note that despite strong lean, nationalized issues—abortion or immigration—could influence dynamics ([wisconsinexaminer.com](https://wisconsinexaminer.com/2024/10/17/race-for-8th-congressional-district-tests-power-of-reproductive-rights-versus-trump-endorsement/?utm_source=openai)).  
+- Political environment is shifting; legislative maps in Wisconsin are becoming more competitive after recent Democratic gains statewide ([wisconsinwatch.org](https://wisconsinwatch.org/2024/11/wisconsin-election-assembly-senate-democrat-republican-gerrymander/?utm_source=openai)).
 
-EXPECTED_VALUE: 1  
-SUMMARY: WI-08 remains historically a safe Republican seat, and while redistricting introduces some uncertainty, there is no concrete data showing the GOP win probability is off by more than a few cents. Given the low volume but narrow spread, the 80.5% price appears reasonable.  
-CONFIDENCE: medium
+**Source credibility & recency**:  
+- Wikipedia articles provide up‑to‑date baseline data, refreshed within months ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin?utm_source=openai)).  
+- 270toWin and Wisconsin Examiner are reputable for projections and district analysis ([270towin.com](https://www.270towin.com/2026-house-election/states/wisconsin?utm_source=openai)).  
+- WBAY report on candidate announcement is local and timely (~Aug 2025) ([wbay.com](https://www.wbay.com/2025/08/26/mark-scheffler-enters-8th-congressional-district-race/?utm_source=openai)).  
+- Wisconsin Watch and Smart Politics provide credible political context ([wisconsinwatch.org](https://wisconsinwatch.org/2024/11/wisconsin-election-assembly-senate-democrat-republican-gerrymander/?utm_source=openai)).
+
+Taken together, there is solid structural support for a Republican win, but Democratic activity and shifting statewide balances are non‑trivial signals that could slightly tighten the race.
+
+---
+
+**3. MARKET EFFICIENCY ANALYSIS**  
+- Interpretation justifying current price (~80%)—the combination of R+8 PVI, incumbent advantage, and low historical Democratic performance suggest Republicans are heavy favorites.  
+- Could reflect consensus among informed observers; low volume suggests few traders contributed. However, breadth of evidence is strong, so broad consensus across analysts seems plausible.  
+- Low volume may reflect the outcome seeming straightforward, thus not drawing speculative capital. Alternatively, informed traders may focus on more volatile races.
+
+In other words, the price seems aligned with structural fundamentals and expert projections.
+
+---
+
+**4. MISPRICING ASSESSMENT**  
+- The evidence largely supports the ~80% market probability; there's no strong, specific signal of a swing toward Democrats greater than what's already priced in.  
+- Democratic challenger exists but lacks polling showing competitiveness—Scheffler’s grassroots pitch and progressive stance are interesting but not yet translating into viewable traction.  
+- No indication of a factual or technical misunderstanding of the resolution criteria or timeline.  
+- The margin looks reasonable given the district fundamentals—R+8 offsetting midterm national dynamics, incumbent performance.
+
+Thus, I see no strong evidence of mispricing; the market seems reasonably efficient.
+
+---
+
+**5. EXPECTED VALUE CALCULATION**  
+- **Strength of evidence**: I rate this at ~60%. The structural data and projections are strong, but uncertainty remains enough to limit confidence in there being no slight mispricing.  
+- **Magnitude of mispricing**: I estimate possible mispricing, if any, at ±5 cents. Nothing indicates a >20‑cent swing.  
+- Expected value ≈ 60% × 5¢ = 3.0¢.
+
+---
+
+**EXPECTED_VALUE:** 3.0  
+**SUMMARY:** The WI‑08 House market (~80%) aligns with district PVI (R+8), incumbent performance (57% in 2024), and projections (~84% Republican). While Democratic challengers exist and statewide shifts are narrowing margins, there's no credible evidence of significant mispricing.  
+**CONFIDENCE:** medium
+
+---
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: The Key House Seats in 2026 - by - Decision Desk HQ - Substack
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1
-Summary: The article discusses the upcoming 2026 U.S. House elections, highlighting key races and redistricting developments. Notably, Wisconsin's political landscape is shifting, with Wisconsin State House Speaker Robin Vos announcing he will not seek reelection, amid ongoing conflicts with Trump and potential impacts on GOP strategies. Redistricting efforts in Wisconsin and other states are significant, with courts ordering redraws that could alter the competitiveness of certain districts. While the article does not specify WI-08 directly, the broader context suggests that redistricting and political dynamics in Wisconsin could influence the competitiveness of the WI-08 seat. Given Vos's departure and the ongoing redistricting, the seat's outcome may hinge on how district boundaries are redrawn and the overall partisan environment in 2026.
+### [2026 United States House of Representatives elections in Wisconsin](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin)
+**Author:** Unknown | **Published:** 2026-03-10 (crawled 2 days ago)
 
-Title: Wisconsin Primary Election Results 2026 : NPR
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://apps.npr.org/primary-election-results-2026/states/WI.html
-Summary: The current NPR coverage of Wisconsin's 2026 primary election results indicates that no results have been reported yet for the governor's races or the U.S. House contests, including WI-08. As the primary results are not available, it is too early to assess the competitiveness or likely outcome of the WI-08 House seat. Factors such as candidate nominations, campaign developments, and voter registration trends will be crucial in predicting whether the Republican Party is favored to win this seat.
+Provides baseline data for District 8: incumbent Tony Wied, vote share in 2024 (~57.3%), and candidate declarations including Wied and Democratic challengers. Relevant for context—supports structural Republican advantage and presence of opposition.
 
-Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://open.substack.com/pub/decisiondeskhq/p/the-key-house-seats-in-2026-1
-Summary: The article discusses upcoming key House races and redistricting developments for the 2026 elections, with particular attention to competitive districts and political shifts. Notably, Wisconsin's political landscape is highlighted: Wisconsin State House Speaker Robin Vos announced he will not seek re-election, amid a history of conflicts with Trump and influence over conservative legislation. Redistricting in Wisconsin is also significant; a court-ordered map may favor Democrats by moving certain districts into more competitive territory. While specific details about WI-08 are not provided, these factors suggest increased competitiveness for Wisconsin districts, including potential shifts in voter dynamics due to redistricting and political realignments. This context indicates that the WI-08 seat could be more contested than in previous cycles, making the Republican hold less certain.
+### [Wisconsin's 8th congressional district](https://en.wikipedia.org/wiki/Wisconsin%27s_8th_congressional_district)
+**Author:** Unknown | **Published:** about a month ago
 
-Title: 🔵 🔴 The Key House Seats in 2026 - by Geoffrey Skelley
-Author: Geoffrey Skelley
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://decisiondeskhq.substack.com/p/the-key-house-seats-in-2026-1?isFreemail=true&post_id=188458309&publication_id=5685429&r=1b661k&triedRedirect=true
-Summary: The article discusses the upcoming 2026 U.S. House elections, highlighting key races and redistricting developments. Notably, Wisconsin’s political landscape is shifting, with Wisconsin State House Speaker Robin Vos announcing he will not seek reelection, amid ongoing conflicts with Trump and potential primary challenges. Redistricting in Wisconsin remains uncertain; although Vos's departure and district boundary changes could influence the competitiveness of certain seats, the article does not specify the current partisan leanings of WI-08. Overall, redistricting and candidate decisions in Wisconsin could impact the likelihood of a Republican hold or gain in WI-08, but specific predictions are not provided.
+Offers district-level demographics including Cook PVI of R+8, population/urban-rural split, and current representation. Reinforces partisan lean and incumbent basis for a Republican favorite.
 
-Title: These are the districts that will decide House control | CNN Politics
-Author: Ronald Brownstein
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://us.cnn.com/2026/02/15/politics/house-control-districts-vis
-Summary: The 2026 House control is heavily influenced by districts in Trump-leaning areas, with Republicans defending many seats in these strongholds. While Democrats aim to capitalize on President Trump’s low approval ratings to gain seats, many Republican districts remain securely red, including in Wisconsin’s WI-08. Given the current landscape, WI-08 is likely to remain a Republican-leaning district, making a GOP victory there plausible, especially as the overall battle for House control hinges on districts in Trump country where Republicans hold a significant advantage.
+### [2026 Wisconsin House Election Map - 270toWin](https://www.270towin.com/2026-house-election/states/wisconsin)
+**Author:** Unknown | **Published:** 2026-03-12 (today)
 
+Projects an 84% chance of Republican victory in WI‑08, showing alignment with market probability and reinforcing that the pricing matches broader forecasting consensus.
 
+### [Race for 8th Congressional District tests power of reproductive rights versus Trump endorsement • Wisconsin Examiner](https://wisconsinexaminer.com/2024/10/17/race-for-8th-congressional-district-tests-power-of-reproductive-rights-versus-Trump-endorsement/)
+**Author:** Baylor Spears | **Published:** 2024-10-17
+
+Analysts describe WI‑08 as solidly Republican, with Trump and immigration shaping GOP messaging and reproductive rights giving Democrats a possible inroad. Suggests district leaned GOP but highlights nationalized issue dynamics, somewhat narrowing but not upending the forecast.
+
+### [Mark Scheffler enters 8th Congressional District race](https://www.wbay.com/2025/08/26/mark-scheffler-enters-8th-congressional-district-race/)
+**Author:** Drew Best | **Published:** 2025-08-26
+
+Announces a progressive Democrat entering the race with grassroots-only funding ($5 per voter budget) aiming to close a ~15‑point gap. Shows active opposition but not yet evidence of competitiveness, suggesting the race may tighten modestly.
+
+### [How Competitive Are Wisconsin’s US House Districts? - Smart Politics](https://smartpolitics.lib.umn.edu/2025/06/27/how-competitive-are-wisconsins-us-house-districts/)
+**Author:** Unknown | **Published:** 2025-06-27
+
+Discusses lack of competitiveness in Wisconsin House maps, noting historically large margins including in WI‑08. Indicates structural difficulty for Democrats, reinforcing Republican advantage in the 2026 cycle.

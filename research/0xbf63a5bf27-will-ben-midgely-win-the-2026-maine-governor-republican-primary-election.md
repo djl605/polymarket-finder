@@ -1,86 +1,93 @@
 # Research: Will Ben Midgely win the 2026 Maine Governor Republican primary election?
 
 **Market ID:** 0xbf63a5bf27c5afcd8220698223ddf84a0964df2303cceb4324cf784ef3014776
-**Researched At:** March 9, 2026 at 04:27:13 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Ben Midgely win the 2026 Maine Governor Republican primary election?"
+**Researched At:** March 12, 2026 at 04:17:08 AM UTC
+**Search Query:** "Will Ben Midgely win the 2026 Maine Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 11.2¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Recent polls show Midgely polling at roughly 5–6% with a clear lead for Bobby Charles, yet the market prices him at 22%, indicating probable overpricing given no evidence of a pending surge. Low volume further suggests this price stems from little information aggregation rather than a genuine consensus.
+The current market price (~21.5%) appears broadly defensible given Midgley’s localized momentum and messaging strength, but statewide polls show significantly lower support (around 4–6%). There’s insufficient evidence to conclude a major mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Ben Midgely will win the Maine Republican gubernatorial primary on June 9, 2026. YES resolves if he emerges as the overall winner (plurality or through any run-off); NO resolves otherwise or if no such primary occurs.
+Let me walk through the analysis step by step, based on recent, credible information regarding the 2026 Maine Republican gubernatorial primary—that includes Ben Midgley’s standing among the field—and assess potential mispricing in the prediction market (with no reliance on prediction platforms themselves).
 
-2. EVIDENCE EVALUATION  
-Bearish evidence (suggesting 22% is too high):  
-• Polling (Feb 24 Spectrum poll): Midgely at 6% vs Bobby Charles at 28%.  
-• Pine Tree Poll and WABI poll show Charles at 26–28% and other candidates with low‐double‐digit figures; Midgely is not even mentioned, implying sub-5% support.  
-• UNH poll (Mar 4) lists Charles leading by 16 points, with no data on Midgely—strong indicator he’s a peripheral contender.  
-Bullish evidence:  
-• No research indicates any surge, endorsements, fundraising, or organization for Midgely.  
-• Primary field remains fluid; low‐visibility candidates can sometimes overperform.  
-Source credibility/recency: All polls are from late Feb–early Mar 2026 by reputable outlets (UNH, Spectrum, Pine Tree). No direct mention of run-off rules, but Maine GOP primaries are plurality-decided.
+**1. CONTEXT ANALYSIS**  
+The market asks: *Will Ben Midgley win the 2026 Maine Governor Republican primary?*  
+It would resolve to **YES** if Ben Midgley is the **overall winner** of the Republican primary—including any run-off—on **June 9, 2026**, as officially announced by the Maine Republican Party (or by overwhelming credible media consensus). If the primary does not occur, or he does not win, it resolves to **NO** (or “Other” if no primary occurs). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• The 22% price likely reflects the initial market opening or a single trader’s estimate rather than aggregated information—total volume is $0.  
-• A true consensus of informed traders would track multiple polls and internal polling, which uniformly understate Midgely’s chances (≈5–10%).  
-• Low engagement suggests most traders don’t view this as a tradeable inefficiency, not that the outcome is already obvious.
+**2. EVIDENCE EVALUATION**  
+- **Evidence suggesting the current price (21.5%) might be incorrect (bullish on Midgley):**  
+  - A recent **York County GOP caucus straw poll** suggests Midgley "won big," finishing ahead of other Republican contenders by double digits. ([themainewire.com](https://www.themainewire.com/2026/01/ben-midgley-wins-york-county-gop-caucus-straw-poll-for-governor/?utm_source=openai))  
+  - At the **Auburn Lincoln Day dinner** on March 11, 2026, Midgley articulated a clear outsider/business-executive narrative, reinforcing his messaging and possibly strengthening grassroots appeal—especially among voters disillusioned with traditional candidates. ([themainewire.com](https://www.themainewire.com/2026/03/midgley-touts-ceo-experience-education-reform-at-auburn-lincoln-day-dinner/?utm_source=openai))  
+  - **Fundraising data**: Midgley has raised $251,000, ranking him behind top-tier Republicans (e.g., Jonathan Bush at $964K) but still in mid-tier range—indicating viability to sustain a campaign through June. ([themainewire.com](https://www.themainewire.com/2026/01/money-floods-maine-governors-race-as-june-primary-nears-open-seat-draws-crowded-field/?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-Given poll averages implying ~6% for Midgely, a 22% market price appears overstated by ~16 cents. There’s no credible bullish catalyst unaccounted for. The most charitable case for 22% is large polling error or field consolidation behind a dark-horse, but absent any evidence, that seems unlikely.
+- **Evidence supporting the market price (bearish on Midgley):**  
+  - **Polling data**: Pan Atlantic Research (Feb–Mar 2026) shows Midgley polling at only 4% support among likely Republican primary voters, well behind leaders like Jones (26%), Bush (4%), Mason (11%), Libby (8%), and McCarthy (7%), with a large 34% undecided. University of New Hampshire poll yields similarly low Midgley support (6%). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election?utm_source=openai))  
+  - **Field seriousness**: Several well-established GOP contenders remain—the overwhelming plurality is undecided, but Midgley has low visibility in polls, indicating limited broader name recognition or support. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 70% (polls are recent, credible, unanimous).  
-Magnitude of mispricing = 16 cents (22% – ~6%).  
-Expected value = 70% * 16 cents = 11.2 cents.
+- **Source credibility and recency:**  
+  - The polling data is from early March 2026—very recent and methodologically credible. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election?utm_source=openai))  
+  - The straw poll and event reporting are also from late January and March 2026, providing timely qualitative evidence. ([themainewire.com](https://www.themainewire.com/2026/01/ben-midgley-wins-york-county-gop-caucus-straw-poll-for-governor/?utm_source=openai))  
 
-EXPECTED_VALUE: 11.2  
-SUMMARY: Recent polls show Midgely polling at roughly 5–6% with a clear lead for Bobby Charles, yet the market prices him at 22%, indicating probable overpricing given no evidence of a pending surge. Low volume further suggests this price stems from little information aggregation rather than a genuine consensus.  
+- **Skeptical angle – Why isn't the market already pricing Midgley higher if his campaign is gaining traction?**  
+  - Straw polls are informal and geographically limited (York County), thus may not reflect statewide sentiment.  
+  - The Lincoln Day dinner reflects enthusiastic base-level messaging but not necessarily broad voter persuasion.  
+  - Financial resources remain modest compared to front-runners and may limit outreach.  
+  - The sizable undecided pool may mean more voter engagement is required to break through.
+
+**3. MARKET EFFICIENCY ANALYSIS**  
+- **Reasonable interpretation of the 21.5% market price:**  
+  - It likely reflects recognition of Midgley's outsider appeal and recent straw-poll success, but tempered by low polling numbers and strong competitors with more visibility or funding.
+
+- **Consensus vs small group bias:**  
+  - Given zero total volume and a tight spread, the price may reflect a small number of traders rather than broad consensus. That said, the moderate pricing seems plausible as a mid-tier estimate—not overconfident but not overly skeptical.
+
+- **Low volume explanation:**  
+  - The tight spread means there’s some belief he's viable, but zero volume suggests traders are uncertain or waiting for clearer signals—possibly reflecting genuine indecision rather than oversight or neglect.
+
+**4. MISPRICING ASSESSMENT**  
+- The evidence is mixed. Midgley has grassroots momentum indicators, but statewide polls do not support high backing.  
+- A 21.5% probability may well reflect current reality: a mid-tier contender with potential upside but long odds.  
+- No credible evidence suggests a >20¢ mispricing: there's no glaring oversight or clear technical misunderstanding (e.g., misreading the resolution or ignoring run-off rules).  
+- It’s possible the market reasonably underestimates an outsider surge, but given the data, that does not warrant a conclusion of significant mispricing.
+
+**5. EXPECTED VALUE CALCULATION**  
+- **Strength of evidence (how well-supported is any mispricing?):** Weak to moderate—say **30%**, given the straw poll and messaging vs. poor state polling.  
+- **Magnitude of mispricing:** I see perhaps modest potential upside—maybe 5 cents (i.e., true probability might be 26% rather than 21.5%).  
+- **Expected value:** 0.30 × 5¢ = **1.5¢**
+
+**6. CONFIDENCE**  
+Given the mixed but balanced evidence, my confidence in this assessment is **medium**.
+
+EXPECTED_VALUE: 1.5  
+SUMMARY: The current market price (~21.5%) appears broadly defensible given Midgley’s localized momentum and messaging strength, but statewide polls show significantly lower support (around 4–6%). There’s insufficient evidence to conclude a major mispricing.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: New poll breaks down key political races in Maine in 2026
-Author: Adam Bartow
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.wmtw.com/article/races-tightening-new-poll-key-races-senate-governor-cd2-maine/70607703
-Summary: The recent poll from the University of New Hampshire Survey Center indicates that the Maine gubernatorial race is still highly competitive, with no clear frontrunner. On the Democratic side, Dr. Nirav Shah leads with 25%, while the Republican primary's leading candidate is Bobby Charles, holding a 16% lead. Given the current landscape, there is no specific information about Ben Midgely's standing or support in the Republican primary, suggesting that his chances are uncertain compared to other candidates. Overall, the primary remains open, and further polling would be needed to assess Midgely's prospects for winning the 2026 Maine Republican gubernatorial primary.
+### [Ben Midgley wins York County GOP Caucus Straw Poll for Governor](https://www.themainewire.com/2026/01/ben-midgley-wins-york-county-gop-caucus-straw-poll-for-governor/)
+**Author:** Jon Fetherston | **Published:** 2026-01-28
 
-Title: Poll shows frontrunners in Maine governor’s race
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://spectrumlocalnews.com/me/maine/politics/2026/02/24/poll-shows-frontrunners-in-maine-governor-s-race
-Summary: A recent poll indicates that in the 2026 Maine Republican gubernatorial primary, former U.S. Assistant Secretary of State Bobby Charles leads with 28% support, while Ben Midgley has 6%. Although Midgley's support is modest compared to Charles, the race remains competitive with several other candidates, suggesting that the primary outcome is still uncertain.
+Reports that Ben Midgley “won big” in a York County Republican straw poll, outperforming other GOP primary contenders by double digits. This suggests localized grassroots enthusiasm and possible voter resonance, supporting the idea that he could be underestimated by broader polling—but this data may not reflect statewide reality.
 
-Title: Pine Tree Poll Shows Bad News for Collins and Mills, Good Results for LePage, and Gives Bobby Charles Massive Primary Lead - The Maine Wire
-Author: Seamus Othot
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.themainewire.com/2026/02/pine-tree-poll-shows-bad-news-for-collins-and-mills-good-results-for-lepage-and-gives-bobby-charles-massive-primary-lead/
-Summary: The recent Pine Tree Poll indicates a strong lead for Bobby Charles in the upcoming Maine Republican primary, suggesting he is a frontrunner. Conversely, incumbent Senator Susan Collins and Governor Janet Mills are experiencing unfavorable polling results, which may impact their political prospects. While the poll does not directly address Ben Midgely's standing, the overall Republican primary landscape appears competitive, with Bobby Charles currently holding a significant advantage. Therefore, if Midgely is a Republican contender, these dynamics suggest he faces a challenging path to victory against the leading candidate, Bobby Charles.
+### [Midgley Touts CEO Experience, Education Reform at Auburn Lincoln Day Dinner](https://www.themainewire.com/2026/03/midgley-touts-ceo-experience-education-reform-at-auburn-lincoln-day-dinner/)
+**Author:** Jon Fetherston | **Published:** 2026-03-11
 
-Title: New poll sheds light on key Maine primary races
-Author: WABI News Desk
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.wabi.tv/2026/03/05/new-poll-sheds-light-key-maine-primary-races/
-Summary: The recent poll indicates that in Maine's 2026 Republican gubernatorial primary, Bobby Charles currently leads with 26% of voter support, while Garrett Mason has 11%. Other candidates, including Angus King III and Nirav Shah, are tied at 24% in the Democratic primary, with several other candidates trailing. Given this data, Bobby Charles appears to have a significant advantage in the Republican primary race, suggesting a higher likelihood of winning the nomination. However, as polling is subject to change, this should be considered a snapshot rather than a definitive prediction.
+Coverage of Midgley’s recent speech casts him as a non-career politician and business executive, emphasizing economic and education issues to Republican audiences. This messaging may help build support among base voters, though it has yet to translate into statewide polling gains.
 
-Title: Could Maine’s next governor be an independent?
-Author: 
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://www.centralmaine.com/2026/02/21/could-maines-next-governor-be-an-independent/
-Summary: The article discusses the potential for an independent candidate to become Maine’s next governor, highlighting the current political climate and the possibility of moderate candidates gaining traction. While it mentions Sen. Rick Bennett as a notable independent contender, it does not provide specific information about Ben Midgely or details regarding the 2026 Republican primary election. Therefore, it offers context on Maine’s political landscape but lacks direct insights into Midgely’s chances of winning the Republican primary.
+### [2026 Maine gubernatorial election (Wikipedia polling and fundraising data)](https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election)
+**Author:** Unknown | **Published:** Unknown (crawled today)
 
-
+Provides polling figures — Pan Atlantic Research places Midgley at 4%, University of New Hampshire poll at 6%, with large undecided shares. Also reports Midgley’s campaign has raised $251K, placing him mid-range among GOP contenders. These data point to limited current support despite fundraising viability.

@@ -1,87 +1,95 @@
 # Research: Will Heart for The Hague (HvDH) win the most seats in The Hague’s 2026 municipal election?
 
 **Market ID:** 0xf3dfeff96b26ae00cbea443ab20b769a829820a074fbc25925154e7975284641
-**Researched At:** March 3, 2026 at 02:56:06 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Heart for The Hague (HvDH) win the most seats in The Hague’s 2026 municipal election?"
+**Researched At:** March 12, 2026 at 04:14:54 AM UTC
+**Search Query:** "Will Heart for The Hague (HvDH) win the most seats in The Hague’s 2026 municipal election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 6.0¢
 
 ### Summary
 
-There is no polling or vote‐share data for Heart for The Hague, so the 84.5% price appears based on intuition rather than evidence. Without any local support metrics, there is no clear sign of significant mispricing, and the expected value of further research is minimal.
+Recent, reliable polls show Heart for The Hague clearly leading in projected seat count ahead of the March 18 election, making the current 81% market price reasonable though not bulletproof. There is no compelling evidence of significant mispricing, but small discrepancies (on the order of a few cents) remain plausible.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Heart for The Hague (HvDH) will win more seats than any other party or coalition in the March 18, 2026, The Hague municipal election. A YES requires HvDH topping the seat count outright (or winning on tie‐break criteria), while a NO includes any other party or coalition winning the most seats.
+Here is a structured, objective analysis regarding the prediction market about whether Heart for The Hague (Hart voor Den Haag, HvDH) will win the most seats in The Hague’s 2026 municipal election:
 
-2. EVIDENCE EVALUATION  
-– No research source supplies any polling, historical seat tallies, or vote‐share data for HvDH.  
-– National polls (Verian, PolitPro) cover only major national parties, not local lists like HvDH; using them to infer HvDH strength is tenuous.  
-– Articles from The Hague Online and DutchNews.nl outline procedures, number of parties, and general local election dynamics, but contain no quantitative support for HvDH’s prospects.  
-– There is no bullish evidence (e.g. local polls showing HvDH leading) nor concrete bearish evidence (e.g. local polling placing HvDH low)—only procedural and national context.
+## 1. CONTEXT ANALYSIS  
+- The market’s question: “Will Heart for The Hague win the most seats in the March 18, 2026, municipal election in The Hague?”  
+- For a **YES** resolution, HvDH must secure more seats than any other party or coalition. If tied on seats, the party with more valid votes wins; if still tied, alphabetical advantage applies. If results are unresolved by December 31, 2026, the result defaults to "Other".
 
-3. MARKET EFFICIENCY ANALYSIS  
-– The 84.5% price likely reflects trader intuition about HvDH’s incumbency or local prominence, but without published data it could stem from one or two overconfident traders.  
-– Low volume (≈$2,048 traded) and a tight spread can occur if traders agree on a narrative but lack robust data. This market seems more a gut‐feeling consensus than a fully informed consensus.  
-– Informed local observers might be waiting for actual municipal polling or campaign developments before trading heavily.
+## 2. EVIDENCE EVALUATION  
 
-4. MISPRICING ASSESSMENT  
-– No specific credible evidence contradicts or confirms the 84.5% probability. There is simply no data on HvDH’s vote share.  
-– Given the lack of direct evidence, it is unclear whether HvDH really has an ~85% chance to lead seats. That level of confidence appears arbitrary absent polling.  
-– However, we also have no positive data that it should be priced significantly higher or lower.  
-– Without any quantitative local support metrics, concluding a large mispricing (> 20¢) would be unwarranted.
+**Evidence suggesting the current price (~81%) may be inaccurate (overpriced):**  
+- Polls reflect uncertainty: While Ipsos I&O’s most recent poll (Feb 9–22, 2026) shows HvDH with 14 seats, GL–PvdA stands at 9 and D66 at 8 ([ipsos-publiek.nl](https://www.ipsos-publiek.nl/actueel/hart-voor-den-haag-steviger-aan-kop-in-den-haag/?utm_source=openai)). A gap exists but is not definitive—other parties could narrow the lead, especially with one-third of D66 voters still undecided ([dutchnews.nl](https://www.dutchnews.nl/2026/02/local-election-watch-housing-crisis-is-main-issue-in-the-hague/?utm_source=openai)).  
+- Low voter turnout risk: Ipsos notes that self-reported intention to vote (63%) may overestimate actual turnout (43% in 2022). Lower turnout could skew results unpredictably ([ipsos-publiek.nl](https://www.ipsos-publiek.nl/actueel/hart-voor-den-haag-steviger-aan-kop-in-den-haag/?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-– Strength of missing‐evidence argument: ~20% (we have zero local data, but that alone isn’t proof of mispricing).  
-– Magnitude of potential mispricing: ~10¢ (we suspect the price is a rough guess rather than a data-driven forecast).  
-– Expected value = 20% × 10¢ = 2¢
+**Evidence supporting the current market price (~81%) as reasonable:**  
+- Multiple polls consistently position HvDH in the lead. Initial and follow-up Ipsos polls show HvDH rising from 12 to 14 seats, with the next closest parties (GL–PvdA, D66) substantially behind ([ewmagazine.nl](https://www.ewmagazine.nl/politiek/blog/2026/02/richard-de-mos-ombudspolitiek-peiling-2026-1534877/?utm_source=openai)).  
+- A broader trend shows local parties gaining share, with local lists collectively projected at ~34.5% of seats—the highest among groups, reinforcing HvDH’s likely dominance ([headliner.nl](https://www.headliner.nl/item/lokale-partijen-groeien-opnieuw-ontbreken-van-partijen-op-de-rechterflank-vaak-de-reden-voor-stemmer-telegraaf-2219009?utm_source=openai)).  
+- HvDH was the largest party in 2022 (9 seats) and has since built on that with growing support ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_The_Hague_municipal_election?utm_source=openai)).  
 
-EXPECTED_VALUE: 2  
-SUMMARY: There is no polling or vote‐share data for Heart for The Hague, so the 84.5% price appears based on intuition rather than evidence. Without any local support metrics, there is no clear sign of significant mispricing, and the expected value of further research is minimal.  
-CONFIDENCE: low
+**Source credibility and recency:**  
+- Ipsos I&O peiling (Feb 9–22, 2026) is recent and methodologically sound, commissioned by the municipal council ([ipsos-publiek.nl](https://www.ipsos-publiek.nl/actueel/hart-voor-den-haag-steviger-aan-kop-in-den-haag/?utm_source=openai)).  
+- DutchNews.nl and other outlets report consistent figures and context ([dutchnews.nl](https://www.dutchnews.nl/2026/02/local-election-watch-housing-crisis-is-main-issue-in-the-hague/?utm_source=openai)).  
+- Telegraaf article (Mar 11, 2026) underscores rise of local parties including HvDH ([headliner.nl](https://www.headliner.nl/item/lokale-partijen-groeien-opnieuw-ontbreken-van-partijen-op-de-rechterflank-vaak-de-reden-voor-stemmer-telegraaf-2219009?utm_source=openai)).
+
+## 3. MARKET EFFICIENCY ANALYSIS  
+- **Possible justified interpretation:** The price (~81%) appears consistent with a polling-based assessment that HvDH is head and shoulders ahead. The price reflects a strong but not impregnable lead.  
+- **Consensus or few traders?:** Low volume and tight spread suggest limited participation; this could reflect consensus or simply low visibility. However, repeated media coverage and polling may indicate informed traders are aligned with the consensus.  
+- **Obvious outcome?** If victory were certain, markets would likely price closer to 90–95%, especially with low volatility. The 81% price wisely reflects some residual uncertainty.  
+- **Informed engagement:** There is substantial poll data and media reporting; informed traders likely have seen this, suggesting the market has already internalized much of this information.
+
+## 4. MISPRICING ASSESSMENT  
+- The current price appears aligned with available evidence: polls show HvDH significantly leading, though not with near-certainty. No strong contradictory evidence emerges to suggest large mispricing.  
+- Margins are plausible; for example, polls show a ~5–6 seat lead (14 vs. 8–9), consistent with ~80%–85% probability.  
+- Timeline considerations: only a week remains before the election (on March 18), further reducing uncertainty.  
+- No evidence of technical misinterpretation of resolution criteria or overt errors in pricing.
+
+## 5. EXPECTED VALUE CALCULATION  
+- **Strength of evidence:** high (~80%)—polling is consistent, recent, and credible.  
+- **Magnitude of mispricing:** small, maybe around 5 cents (market at 81%, perhaps true probability 85–90% max; difference ~5–10 cents).  
+- **Expected value:** 80% × 7.5 cents ≈ 6 cents of mispricing EV.
+
+## 6. CONFIDENCE  
+My confidence in this assessment is **medium**.
+
+EXPECTED_VALUE: 6  
+SUMMARY: Recent, reliable polls show Heart for The Hague clearly leading in projected seat count ahead of the March 18 election, making the current 81% market price reasonable though not bulletproof. There is no compelling evidence of significant mispricing, but small discrepancies (on the order of a few cents) remain plausible.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Netherlands: Election Polls & Voting Intentions 2026
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://politpro.eu/en/netherlands/opinion-polls/2026
-Summary: The webpage provides comprehensive polling data and trends for the Netherlands' national elections in 2026, including current vote shares for major parties such as VVD, D66, GroenLinks/PvdA, PVV, CDA, and others. While it offers detailed insights into national voter intentions and historical polling patterns from 2018 to 2026, it does not include specific information about local parties or candidates like Heart for The Hague (HvDH) or municipal election results in The Hague. Therefore, predicting HvDH's chances based solely on this national polling data is limited. To assess HvDH's prospects in The Hague’s 2026 municipal election, localized polls, candidate popularity, and municipal issues should be considered.
+### [Local election watch: Housing crisis is main issue in The Hague](https://www.dutchnews.nl/2026/02/local-election-watch-housing-crisis-is-main-issue-in-the-hague/)
+**Author:** Gordon Darroch | **Published:** 2026-02-27
 
-Title: Twenty parties on the ballot paper for the municipal council elections in The Hague - The Hague Online
-Author: THOLEditor
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://thehagueonline.com/twenty-parties-on-the-ballot-paper-for-the-municipal-council-elections-in-the-hague/
-Summary: The 2026 municipal elections in The Hague will feature twenty participating parties, including Heart for The Hague (HvDH). The candidate lists have been finalized, with most procedural issues resolved, and the list numbering assigned based on previous election results or drawn lots. While the article details the nomination process, candidate list validation, and procedural timelines, it does not provide specific polling data or voter support levels for HvDH. Therefore, predicting whether Heart for The Hague will win the most seats requires additional information on current voter preferences, polling trends, and campaign momentum, none of which are included in this summary.
+This article reports polling projections showing Hart voor Den Haag leading with 12 of 45 seats while D66 and GL–PvdA are behind at eight each, with significant undecided voters and migration-driven issues in play. This supports HvDH’s front-running position yet underscores remaining uncertainty that aligns with current market pricing.
 
-Title: Dummies' guide to the main parties in local elections in March - DutchNews.nl
-Author: Senay Boztas
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.dutchnews.nl/2026/02/dummies-guide-to-the-main-parties-in-local-elections-in-march/
-Summary: The webpage provides an overview of Dutch local elections, including key political parties and their positions. The main parties, such as VVD (center-right, focusing on housing and crime reduction), PVV, D66, and local parties, are discussed in terms of their national and local influence. It highlights the complexity of Dutch proportional representation and emphasizes the importance of voter awareness, especially among immigrants and international residents. While specific details about Heart for The Hague (HvDH) are not provided, understanding the general political landscape, party positions, and voter engagement strategies in The Hague can inform predictions about HvDH’s potential success in securing seats in the 2026 municipal election.
+### [Peiling Den Haag: Richard de Mos van 9 naar 12 zetels, mede dankzij ombudspolitiek](https://www.ewmagazine.nl/politiek/blog/2026/02/richard-de-mos-ombudspolitiek-peiling-2026-1534877/)
+**Author:** Geerten Waling | **Published:** 2026-02-02
 
-Title: Overview of activities for the 2026 municipal council elections - The Hague Online
-Author: THOLEditor
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://thehagueonline.com/overview-of-activities-for-the-2026-municipal-council-elections/
-Summary: The webpage provides an overview of the upcoming 2026 municipal elections in The Hague, including key activities such as vote counting, campaign efforts, and voter engagement initiatives. Notably, there is no specific information about individual parties like Heart for The Hague (HvDH) or their prospects. The focus is on election organization, voter turnout campaigns, and events leading up to the vote. To assess HvDH’s chances of winning the most seats, additional data on their current polling, campaign strength, or historical performance would be necessary, as this webpage does not contain such details.
+The article highlights early optimism for HvDH, growing from 9 to 12 seats with significant momentum. This bolsters the market view that the party is strengthening, aligning with the ~81% pricing.
 
-Title: Netherlands Election Poll: Latest Survey by Verian (February 23, 2026)
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://politpro.eu/en/netherlands/opinion-polls/verian-2026-02-23/parliamentary-election
-Summary: The provided webpage reports on the latest national opinion poll in the Netherlands as of February 23, 2026, conducted by Verian. The poll indicates shifts in support among major political parties, with VVD (15.3%) and GL/PvdA (14.7%) leading, while D66 experiences a significant decline. However, this data pertains to national party standings and does not include specific information about local parties or candidates like Heart for The Hague (HvDH). 
+### [Hart voor Den Haag steviger aan kop in Den Haag](https://www.ipsos-publiek.nl/actueel/hart-voor-den-haag-steviger-aan-kop-in-den-haag/)
+**Author:** Asher van der Schelde & Lotte Reijnders | **Published:** 2026-03-02
 
-Given the absence of local election data or polling on HvDH’s support in The Hague, it is not possible to directly assess whether HvDH will win the most seats in the upcoming municipal election. National trends suggest a fluctuating political landscape, but local election outcomes often depend on specific local issues, candidate popularity, and campaign dynamics that are not reflected in national polls. Therefore, predicting HvDH’s success based solely on this national poll is not reliable.
+Ipsos I&O’s latest poll (Feb 9–22) shows HvDH at 14 seats, clear ahead of GL–PvdA (9) and D66 (8), and notes turnout uncertainty. This is the most recent and credible evidence supporting HvDH’s lead and justifies the market’s high, but not maximal, probability.
 
+### [Lokale partijen groeien opnieuw: ontbreken van partijen op de rechterflank vaak de reden voor stemmer](https://www.headliner.nl/item/lokale-partijen-groeien-opnieuw-ontbreken-van-partijen-op-de-rechterflank-vaak-de-reden-voor-stemmer-telegraaf-2219009)
+**Author:** Unknown | **Published:** 2026-03-11
 
+A Telegraaf article detailing a trend of rising support for local parties like HvDH, capturing ~34.5% seat share collectively. Supports the macro environment that enables HvDH’s advantage and backs the market price.
+
+### [2026 The Hague municipal election (Wikipedia)](https://en.wikipedia.org/wiki/2026_The_Hague_municipal_election)
+**Author:** Unknown | **Published:** Crawled recently (2026)
+
+Provides official context: election date March 18, 2026; historical seat data; Ipsos poll seat breakdown (HvDH 14, GL–PvdA 9, D66 8). Confirms polling figures and context used in analysis.

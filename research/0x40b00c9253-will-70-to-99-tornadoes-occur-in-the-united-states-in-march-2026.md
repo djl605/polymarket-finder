@@ -1,83 +1,125 @@
 # Research: Will 70 to 99 tornadoes occur in the United States in March 2026?
 
 **Market ID:** 0x40b00c9253af4ddcf2d4d235540f802070d0bfcdf9dc4f9378454cb2765973c6
-**Researched At:** March 6, 2026 at 02:48:12 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will 70 to 99 tornadoes occur in the United States in March 2026?"
+**Researched At:** March 12, 2026 at 04:15:23 AM UTC
+**Search Query:** "Will 70 to 99 tornadoes occur in the United States in March 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.8¢
+**Expected Value:** 0.0¢
 
 ### Summary
 
-Preliminary data and active-season outlooks suggest the chance of ending between 70 and 99 tornadoes is lower than the market’s 21% price, but key uncertainties about data completeness and monthly aggregation prevent a clear arbitrage.
+AccuWeather projects March 2026 tornadoes in the US will likely number between 75 and 150. Forecast commentary attributes this to the fading La Niña, which may produce a slower spring ramp-up but still supports moderate tornado risk. This suggests a meaningful chance of exceeding the market's 70–99 range, supporting caution toward the YES price.
+
+---
+Title: Millions of Americans under threat of tornadoes as spring storm season kicks in early in the US
+URL: https://apnews.com/article/0fddc7167d16
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether the U.S. will record between 70 and 99 tornadoes in March 2026 (inclusive), based on the NCEI monthly count published after April 8, 2026. A YES resolution requires the final reported count to fall in that range; NO if fewer than 70 or more than 99.
+Below is an in-depth, objective evaluation of whether the prediction market (priced at 21%) for “Will 70 to 99 tornadoes occur in the United States in March 2026?” shows any evidence of mispricing. The analysis follows your structured framework, with citations from up-to-date primary sources.
 
-2. EVIDENCE EVALUATION  
-– Bearish (against YES):  
-  • Weather.com (Jonathan Erdman, 2026-03-03) reports preliminary data suggesting around 300 tornadoes so far in March 2026—well above both the 99-tornado upper bound and the historical average (~95).  
-  • March 2026 outlooks (Weather.com Severe Outbreak Forecast, 2026-03-04; John Homenuk, 2026-02-26) indicate active severe weather patterns and a La Niña→El Niño transition that historically boosts tornado frequency.  
-– Bullish (for YES):  
-  • AccuWeather summary (2026-02-26) anticipates fewer tornadoes overall in 2026, implying a non-zero chance of an under-average month (potentially <100).  
-  • March outlooks (Waldron News; Homenuk) stress probabilities rather than counts, leaving open the possibility of a “moderate” month in the 70–99 range.  
-Source credibility/recency: All sources are from late February to early March 2026. Weather.com/NCEI data is highly credible, while regional outlooks are reputable but less quantitatively precise.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 21% price could reflect a cautious consensus that either very few (<70) or very many (>99) tornadoes will occur, with a slimmer chance of the middle band. Low volume suggests limited participation, so the price may lean on the most salient headline (300 preliminary tornadoes) yet hedge for forecast uncertainty and possible data revisions.
+**1. CONTEXT ANALYSIS**  
+The market poses a binary yes/no question:
+- **YES** resolves if the NCEI publishes — as part of its monthly tornado time-series data (first release after April 8, 2026) — between **70 and 99 confirmed U.S. tornadoes** for March 2026 (inclusive).
+- **NO** resolves if the count is **fewer than 70** or **100 or more** tornadoes.
 
-4. MISPRICING ASSESSMENT  
-The single strongest piece of evidence—the reported ~300 preliminary tornadoes—points to a near-zero chance of landing in 70–99, implying the market’s 21% is likely too high. However, that preliminary figure may be misinterpreted (it would be extraordinary to have 300 by early March), and forecasts remain uncertain. Absent clearer quantitative models or a correction to the preliminary count, there’s no conclusive proof of a >20¢ mispricing.
+---
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (preliminary count + forecast trend): ~30%  
-Magnitude of potential mispricing (21% market vs ~5% implied): ~16¢  
-EV ≈ 0.30 × 16¢ ≈ 4.8¢
+**2. EVIDENCE EVALUATION**  
 
-EXPECTED_VALUE: 4.8  
-SUMMARY: Preliminary data and active-season outlooks suggest the chance of ending between 70 and 99 tornadoes is lower than the market’s 21% price, but key uncertainties about data completeness and monthly aggregation prevent a clear arbitrage.  
-CONFIDENCE: medium
+A. **Evidence suggesting the market price might be incorrect (i.e., mispriced):**  
+- **AccuWeather forecast** projects **75 to 150 tornadoes in March 2026**, centered on an expected moderate to strong tornado season. If accurate, there's a significant chance of *exceeding 99*, making YES less likely than 21% implies ([accuweather.com](https://www.accuweather.com/en/weather-news/accuweathers-2026-severe-weather-forecast-what-business-leaders-need-to-know-about-severe-weather-risk/1868322?utm_source=openai)).  
+- **Fox Weather / AP** report active severe weather early in March — notably a Level 3 “turning severe” risk including tornado threat across Oklahoma, Texas Panhandle — indicating elevated outbreak potential ([apnews.com](https://apnews.com/article/0fddc7167d16147b28583cf1e2c8c2bb?utm_source=openai)).
+
+B. **Evidence supporting the current price as reasonable:**  
+- The **historical average for March** is around **80 tornadoes** (80–92 depending on source) ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_in_March_2023?utm_source=openai)). That average lands squarely inside the 70–99 bracket, aligning with a roughly 50% baseline expectation absent other signals.  
+- **2024 was notably quiet** with just **57 tornadoes** in March — below the 70 threshold, showing that low counts do occur occasionally ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_from_January_to_March_2024?utm_source=openai)).  
+- The **past two years—2023 and especially 2025—were extreme**, with March tornado counts well above 99 (e.g., 197 in 2023; 239 or 300 in 2025) ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_in_March_2023?utm_source=openai)). But these appear anomalous rather than baseline expectations.
+
+C. **Source credibility and recency:**  
+- AccuWeather is a credible forecasting service; the projection was published “last week” ([accuweather.com](https://www.accuweather.com/en/weather-news/accuweathers-2026-severe-weather-forecast-what-business-leaders-need-to-know-about-severe-weather-risk/1868322?utm_source=openai)).  
+- NOAA/SPC threat outlooks are official; referenced by Fox Weather/AP reports as recently as March 2–5, 2026 ([apnews.com](https://apnews.com/article/0fddc7167d16147b28583cf1e2c8c2bb?utm_source=openai)).  
+- Historical averages are derived from long-term records (NOAA/NCEI, Wikipedia citing them), credible but general ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_in_March_2023?utm_source=openai)).
+
+D. **Bullish vs. Bearish interpretations:**  
+- **Bullish (YES):** AccuWeather’s expectation that March tornadoes could reach 75–150 supports plausibility of counts within the market range. Active severe weather forecasts early in the month reinforce risk.  
+- **Bearish (NO):** The historical average (~80) suggests a symmetric expectation around the YES band. The quiet 2024 demonstrates there is material risk of under 70 count. Meanwhile, the strong activity in previous years could push counts over 99 — making NO for >99 also plausible.
+
+E. **Skepticism of “obvious” evidence:**  
+- Yes, forecasts of elevated risk are common in March. If the storm risk were clearly forecast to lead to 130 tornadoes, why would the market price remain high for YES? Thus, traders may be pricing in the possibility of an extreme (over 99) event — which would resolve NO — alongside lower counts — generating skepticism.
+
+---
+
+**3. MARKET EFFICIENCY ANALYSIS**  
+
+Interpretations that could justify the current 21% price:
+- **Traders view the 70–99 range as narrow** relative to extremes; they may believe that the probability mass lies outside it: either below 70 (quiet month) or above 99 (outbreak scenario).  
+- **Low volume and tight spread** (4¢) suggests some consensus, but possibly based on a few active traders with access to forecast data; the market may not be widely followed by climatologists or hedge funds.  
+- **Low volume could reflect both**:  
+   - The event is seen as ambiguous enough not to attract heavy speculative interest; or  
+   - Informed traders may consider the market well-structured or low EV, hence avoided.
+
+---
+
+**4. MISPRICING ASSESSMENT**  
+
+- The evidence broadly supports that **a distribution around the historical average (~80)** is expected, with **upside skew possible** based on AccuWeather forecasts and severe weather patterns.  
+- The current **21% probability for YES (70–99)** seems **somewhat low**, possibly underweighting the central tendency around 80 and overestimating extreme outcomes.  
+- But is there **specific missing evidence**? Not clearly— the main inputs (forecasts, history) appear priced.  
+- If the market price is meaningfully low, the mispricing magnitude might be in the range of **5–10 cents** rather than >20 cents.
+
+Let me challenge that: is it plausible that the market is discounting the mid-range too heavily? Perhaps traders assign ~50% chance to >99 (given recent years) and ~29% to <70 (cool pattern), leaving ~21% for mid-range. That is plausible. With low volume, this could reflect a small group's view.
+
+Thus, no definitive mispricing; the price can be reasonably defended.
+
+---
+
+**5. EXPECTED VALUE CALCULATION**
+
+- **Strength of evidence**: Moderately strong— we have credible forecasts and climatological data. But no definitive signal one way. I'd rate **60% confidence** that evidence points to slight undervaluation of YES band.  
+- **Magnitude of mispricing**: Possibly ~5 cents (0.05 probability points) undervaluation.  
+- Expected value = **0.60 × 5 = 3 cents**.
+
+---
+
+**EXPECTED_VALUE**: 3.0  
+**SUMMARY**: Tornado forecasts and historical averages suggest March 2026 should see around 80 tornadoes, within the 70–99 range. The 21% market price may underweight this central outcome but not conclusively mispriced; expected EV is modest (~3¢).  
+**CONFIDENCE**: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Severe Weather Outbreak Forecast In Plains From Texas To Iowa | Weather.com
-Author: 
-Published Date: 2026-03-06T00:00:00.000Z
-URL: https://weather.com/storms/severe/news/2026-03-04-severe-weather-outbreak-tornadoes-plains-midwest
-Summary: The webpage forecasts a significant severe weather outbreak across the U.S. Midwest and Plains from Texas to Iowa, starting Friday, March 6, 2026. The threat includes strong tornadoes, with NOAA’s Storm Prediction Center issuing a level 3 risk, indicating the potential for numerous supercell thunderstorms capable of EF2 or stronger tornadoes. Multiple tornadoes have already been reported in Oklahoma, and the forecast suggests that the outbreak could produce widespread severe storms, large hail, damaging winds, and tornadoes throughout the region into next week. While the article highlights the likelihood of a notable tornado event, it does not specify an exact number of tornadoes expected in March 2026, such as 70 to 99 tornadoes.
+### [AccuWeather's 2026 Severe Weather Forecast: What Business Leaders Need to Know About Severe Weather Risk](https://www.accuweather.com/en/weather-news/accuweathers-2026-severe-weather-forecast-what-business-leaders-need-to-know-about-severe-weather-risk/1868322)
+**Author:** Unknown | **Published:** Unknown (published last week)
 
-Title: March 2026 Tornado Outlook Signals Early Season Severe Threat Across Arkansas, Oklahoma, Texas and the Lower Mississippi Valley - Waldron News
-Author: Colton Hayes
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://waldronnews.com/march-2026-tornado-outlook-signals-early-season-severe-threat-across-arkansas-oklahoma-texas-and-the-lower-mississippi-valley/
-Summary: The March 2026 tornado outlook indicates an early and active start to the tornado season across Arkansas, Oklahoma, Texas, and the Lower Mississippi Valley, driven by strengthened jet stream patterns and increased upper-level energy. While the forecast suggests above-normal tornado activity and multiple storm systems, it emphasizes probabilities rather than specific event counts. There is a heightened risk of significant severe weather, but no precise prediction of the number of tornadoes—such as 70 to 99—is provided. Residents should prepare for an active season, but exact tornado counts remain uncertain at this stage.
+AccuWeather projects March 2026 tornadoes in the US will likely number between 75 and 150. Forecast commentary attributes this to the fading La Niña, which may produce a slower spring ramp-up but still supports moderate tornado risk. This suggests a meaningful chance of exceeding the market's 70–99 range, supporting caution toward the YES price.
 
-Title: March 2026 Tornado Outlook - by John Homenuk
-Author: John Homenuk
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://jhomenuk.substack.com/p/march-2026-tornado-outlook
-Summary: The March 2026 tornado outlook suggests an active start to the season, with signals indicating a potentially rapid and intense period of tornado activity. The transition from a Weak La Niña to an El Niño phase, expected over the next few months, is associated with increased tornado risk, particularly in the southern U.S., including Kansas and Oklahoma. Historical analogs show that ENSO transitions during spring can lead to tornado outbreaks in March, often followed by a lull and another surge in April. While specific tornado counts for March 2026 are not provided, the forecast emphasizes a heightened probability of regional tornado outbreaks during this period, especially if the ENSO transition aligns with the predicted pattern. This suggests that the likelihood of experiencing a significant tornado event, potentially in the range of 70 to 99 tornadoes, could be elevated in March 2026.
+### [Millions of Americans under threat of tornadoes as spring storm season kicks in early in the US](https://apnews.com/article/0fddc7167d16147b28583cf1e2c8c2bb)
+**Author:** AP News | **Published:** 2026-03-05
 
-Title: Fewer tornadoes, higher risk of damaging winds and flooding downpours expected in 2026 | News | midfloridanewspapers.com
-Author: Provided by AccuWeather
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.midfloridanewspapers.com/highlands_news-sun/news/fewer-tornadoes-higher-risk-of-damaging-winds-and-flooding-downpours-expected-in-2026/article_af7ae41b-ff7f-4dc6-a6ce-a75474c39101.html
-Summary: The article forecasts that in 2026, the United States is expected to experience fewer tornadoes overall but faces an increased risk of damaging winds and flooding downpours. While it highlights a shift in severe weather patterns, it does not specify exact tornado counts for March 2026 or provide detailed predictions about the number of tornadoes, such as the range of 70 to 99. Therefore, based on this information, there is no direct evidence to confirm whether 70 to 99 tornadoes will occur in March 2026.
+Severe thunderstorm and tornado risk elevated across central US early in March, signaling onset of active spring season. Provides current evidence of elevated outbreak potential that could drive tornado counts higher, possibly beyond 99, which influences market interpretation.
 
-Title: March Tornadoes Have Been Much More Numerous Recently | Weather.com
-Author: Jonathan Erdman
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://weather.com/storms/tornado/news/2026-03-02-march-tornadoes-us-south-midwest-recent-years
-Summary: Recent data indicates that March 2026 has already experienced a significant increase in tornado activity, with preliminary reports suggesting around 300 tornadoes so far—far exceeding the typical March average of about 95 tornadoes since 2000. Historically, March tornado counts have been rising, with recent years like 2022, 2023, and 2025 also seeing over 200 tornadoes, partly due to improved detection of weaker tornadoes. Given this trend and the current high activity level, it is plausible that the total number of tornadoes in March 2026 could reach or surpass the 70 to 99 tornado range. However, as the month progresses, the final count will depend on ongoing severe weather patterns and outbreaks.
+### [List of United States tornadoes in March 2023](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_in_March_2023)
+**Author:** Unknown | **Published:** Unknown
 
+Based on 1991–2020 average, about 80 tornadoes are recorded in March. Provides the climatological baseline, placing the market's 70–99 bracket around the historical norm.
 
+### [List of United States tornadoes from January to March 2024](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_from_January_to_March_2024)
+**Author:** Unknown | **Published:** Unknown
+
+March 2024 had just 57 tornadoes—well below average and below the 70 threshold—demonstrating that under-count scenarios do occur, supporting the possibility of a NO outcome on the low side.
+
+### [List of United States tornadoes from January to March 2025](https://en.wikipedia.org/wiki/List_of_United_States_tornadoes_from_January_to_March_2025)
+**Author:** Unknown | **Published:** Unknown
+
+March 2025 was extremely active, recording 239 tornadoes—the most active March on record—highlighting the potential for counts exceeding 99, again supporting caution around YES pricing.

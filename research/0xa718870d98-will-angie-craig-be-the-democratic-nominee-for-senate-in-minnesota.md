@@ -1,110 +1,128 @@
 # Research: Will Angie Craig be the Democratic nominee for Senate in Minnesota?
 
 **Market ID:** 0xa718870d98c2f9c76efd54629365c24fe87804eb1b28e287ca5344b5924931f0
-**Researched At:** March 1, 2026 at 06:02:06 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Angie Craig be the Democratic nominee for Senate in Minnesota?"
+**Researched At:** March 12, 2026 at 04:13:34 AM UTC
+**Search Query:** "Will Angie Craig be the Democratic nominee for Senate in Minnesota?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 6.0¢
 
 ### Summary
 
-Public polling shows Craig trailing by ~13 pts but with a 15% undecided share that could boost her vote share above the market’s 15.5% win probability. However, strong progressive endorsements and the caucus process likely cap her upside, and no new information suggests a >5 c mispricing.
+Angie Craig currently trails in polls by ~12–13 points, justifying the low 15.5% market probability. However, her substantial fundraising lead and establishment endorsements could narrow the gap, suggesting modest mispricing but not a clear arbitrage.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Rep. Angie Craig win the August 11, 2026 Minnesota Democratic Senate primary?” YES means Craig emerges as the Democratic nominee; NO covers anyone else (most likely Peggy Flanagan) or no primary.
+Below is my structured analysis of the Angie Craig prediction market, following your instructions and using recent, reputable sources. Citations are included as required.
 
-2. EVIDENCE EVALUATION  
-Bullish on Craig (arguing current price is too low):  
-• Polling snapshot (2/24 Center Square): Craig at 36% vs Flanagan 49%, 15% undecided. Translating 15% undecided proportionally puts Craig near ~40% vote share, implying a >15.5% win probability.  
-• Fundraising edge: Craig holds $3.8 M vs Flanagan’s $0.8 M cash‐on‐hand. If that converts to ads and ground game, she could close the gap.  
+---
 
-Bearish on Craig (arguing price is about right or too high):  
-• Plurality polls consistently show Flanagan up by double digits. Even with the undecideds breaking evenly, Craig trails by ~10 pts.  
-• High‐profile endorsements for Flanagan (Tina Smith, Sanders, Warren) bolster her grassroots support, especially in caucus settings.  
-• Precinct caucus engagement appears to favor Flanagan’s early organizing and progressive base.  
+## 1. CONTEXT ANALYSIS
 
-Source credibility and recency: All four articles are late February 2026 (1–3 weeks old). They come from Center Square, Mesa Tribune, Alpha News MN, NewsBreak, and MinnPost—regional outlets with direct coverage of Minnesota politics. No single source seems systematically biased in a way unknown to the market.
+The prediction market asks:
+**“Will Angie Craig be the Democratic nominee for Senate in Minnesota?”**
 
-Nothing here is a “slam dunk” that traders wouldn’t already have priced in. Polls and endorsements are public and widely reported. Fundraising data is transparent through FEC filings.  
+Resolution:
+- YES if Angie Craig wins the Democratic (DFL) primary.
+- NO if Peggy Flanagan wins or no primary occurs.
+- Other if the primary doesn’t happen at all, but that is extremely unlikely given scheduled August 11, 2026 DFL primary ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota?utm_source=openai)).
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 15.5% price can be rational if traders believe:  
-• Polls showing a 13 pt deficit with 15% undecided roll against Craig.  
-• The progressive base and caucus process lock in Flanagan’s delegate advantage.  
-Low volume may simply reflect that this race is tracked by only a few political‐market specialists. It doesn’t necessarily signal a huge upside opportunity.
+For YES: Craig must defeat Flanagan and any minor candidates in the August 11, 2026 Democratic primary. For NO: Flanagan or another candidate must win. The DFL endorsement may influence outcome but primary voters decide ([notus.org](https://www.notus.org/2026-election/minnesota-democratic-primary-peggy-flanagan-angie-craig?utm_source=openai)).
 
-4. MISPRICING ASSESSMENT  
-– The polling gap and strong progressive endorsements support a low win probability for Craig, possibly in the 15–25% range.  
-– Craig’s fundraising edge is already public and probably baked into prices.  
-– No dramatic new information (e.g., scandals, shifts in caucus rules, a surge in grassroots organizing) suggests a swing of more than ~5 c.  
+---
 
-Given the mixed signals and public data, there’s no strong, specific evidence that Craig’s win chance is mispriced by more than a few cents.  
+## 2. EVIDENCE EVALUATION
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~30% (the single poll supports a higher chance but is only one data point).  
-Magnitude of mispricing if any: ~5 c.  
-Expected value = 30% × 5 c = 1.5 c.
+### Evidence suggesting the market price (15.5% probability) might be incorrect (i.e., too low):
 
-6. CONFIDENCE  
-medium  
+- **Fundraising advantage**: Craig holds a significant financial edge. Q3 2025: raised $2.2M vs. Flanagan’s ~$914K; Craig has ~$3M cash vs. Flanagan’s ~$836K ([minnesotareformer.com](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/?utm_source=openai)). Earlier in Q2 she had $1.8M vs. $780K for Flanagan ([axios.com](https://www.axios.com/local/twin-cities/2025/07/17/senate-primary-craig-cash-lead?utm_source=openai)). Strong cash means more advertising, infrastructure.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Public polling shows Craig trailing by ~13 pts but with a 15% undecided share that could boost her vote share above the market’s 15.5% win probability. However, strong progressive endorsements and the caucus process likely cap her upside, and no new information suggests a >5 c mispricing.  
+- **Institutional endorsements**: Craig has private backing from Senate leadership, DSCC ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota?utm_source=openai)). She also received an endorsement from Pete Buttigieg in December 2025 ([crbcnews.com](https://www.crbcnews.com/articles/693049c320a2d54542fe763c?utm_source=openai)). Establishment support may matter.
+
+- **Polling uncertainties**: Impact Research poll in Jan 2026 showed the race tight: Flanagan 45%, Craig 42% ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota?utm_source=openai)) (implicitly). Some polls show narrower spreads, not landslide leads.
+
+### Evidence supporting that the market price is reasonable (i.e., Craig is a long shot):
+
+- **Polling disadvantage**: GQR Jan 2026: Flanagan 49%, Craig 36% (13-point lead) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota?utm_source=openai)). Public Policy Polling Jan 16–17, 2026: 40% Flanagan vs. 28% Craig, 31% undecided (12-point lead) ([kdhlradio.com](https://kdhlradio.com/ixp/66/p/minnesota-senate-primary-poll/?utm_source=openai)). These show substantial Flanagan leads.
+
+- **Progressive base strength**: Flanagan is rooted in progressive policy, rejected corporate PAC money, and has progressive endorsements like Elizabeth Warren ([notus.org](https://www.notus.org/2026-election/minnesota-democratic-primary-peggy-flanagan-angie-craig?utm_source=openai)). The DFL endorsement (expected May 2026) historically predicts primary outcome.
+
+- **Ideological mismatch**: Craig's moderate positioning, acceptance of PAC money, and her Laken Riley Act vote alienate progressive primary voters ([notus.org](https://www.notus.org/2026-election/minnesota-democratic-primary-peggy-flanagan-angie-craig?utm_source=openai)).
+
+### Source recency & credibility:
+
+- Wikipedia and media from early 2026 (January–March) such as polling and campaign finance are up-to-date ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota?utm_source=openai)). AP News articles from 2025 cover launch but the core competitive dynamics are reflected in early 2026 polls ([apnews.com](https://apnews.com/article/df50dd1242caf309e021ebef4b9624c4?utm_source=openai)). These are credible.
+
+- Analysis from NOTUS, Axios, etc., are credible journalistic sources ([notus.org](https://www.notus.org/2026-election/minnesota-democratic-primary-peggy-flanagan-angie-craig?utm_source=openai)).
+
+- The Reddit commentary reflects grassroots sentiment but may be biased and anecdotal; used only as qualitative color.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+Interpretations of the 15.5% price:
+
+- **Possible consensus view**: The market may reflect heavy weighting on polls showing double-digit deficit for Craig. With Flanagan consistently ahead, traders may see Craig as a low-probability upset.
+
+- **Low liquidity concern**: With only ~$2.9K volume and narrow spread, pricing may reflect one or few traders acting, possibly with overconfidence or misperception of polling volatility. Informed traders may avoid low-stakes markets, further limiting correction.
+
+- **Obvious narrative omitted?** If markets believe Craig’s fundraising or endorsements should matter, why hasn’t that driven price above 15%? Perhaps they view polls as more reliable for primary outcomes than cash or endorsements.
+
+- **Time horizon**: With primary still five months away, uncertainty remains. Poll leads can evaporate; markets may price conservatively.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- Evidence **against significant mispricing**: Multiple recent polls show double-digit deficits (12–13 points), which justify <20% probability. Craig’s underdog status is supported by credible data; her advantages may be muted in low-turnout primary.
+
+- Evidence **for modest mispricing**: Fundraising and establishment support could allow Craig to catch up, particularly if undecided voters shift or DFL endorsement is open. Tight polling (Impact Research 45–42) shows closer race in some samples.
+
+- No evidence of dramatic mispricing (>20 cents) appears. Effects from fundraising/endorsements likely already factored in by informed traders, given news coverage.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Moderate. Both polling and fundraising are credible and recent; they cancel somewhat but polling edge is stronger. I’d rate strength at ~50%.
+
+- **Magnitude of mispricing**: Market at 15.5%; honest fair probability maybe 25–30% if considering financial and establishment momentum. That’s ~10–15 cents upside potential.
+
+Estimate: 50% × 12 cents = 6 cents expected value.
+
+---
+
+EXPECTED_VALUE: 6.0  
+SUMMARY: Angie Craig currently trails in polls by ~12–13 points, justifying the low 15.5% market probability. However, her substantial fundraising lead and establishment endorsements could narrow the gap, suggesting modest mispricing but not a clear arbitrage.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Peggy Flanagan vs. Angie Craig: Who Will Win Minnesota's Primary?
-Author: The Center Square The Center Square Published: February 24, 2026
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://krocnews.com/flanagan-craig-primary-race/
-Summary: In the competitive Minnesota Senate primary, Angie Craig and Peggy Flanagan are the leading Democratic candidates. Current polling indicates Flanagan is ahead with 49% support compared to Craig's 36%, although 15% of voters remain undecided. However, Craig has a significant advantage in fundraising, boasting $3.8 million in cash-on-hand versus Flanagan's $811,000. Both candidates have spent similar amounts on their campaigns, with Craig disbursing $3 million to Flanagan's $2.5 million.
+### [2026 United States Senate election in Minnesota](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota)
+**Author:** Unknown | **Published:** Unknown
 
-The primary election is set for August 11, 2026, and while Flanagan leads in polls, Craig's strong fundraising could influence her chances. The race is considered crucial in the context of national elections, with predictions leaning towards a likely Democratic outcome. Given these dynamics, Craig's path to becoming the Democratic nominee will depend on her ability to convert her fundraising strength into voter support before the primary.
+Provides background on Democratic primary candidates, fundraising totals (Craig’s $6.8M raised, $3.8M cash; Flanagan’s $3.3M raised, $810K cash as of Dec 31, 2025), and polling data (GQR, Public Policy, Impact Research) showing Flanagan leading Craig by double digits or narrowly. Relevant as direct indicators of Craig’s relative position and viability. Supports both underdog narrative and contested race nuance.
 
-Title: Flanagan leads polling, Craig tops fundraising in U.S. Senate race | News | mesabitribune.com
-Author: Elyse Apel | The Center Square
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.mesabitribune.com/around_the_web/news/flanagan-leads-polling-craig-tops-fundraising-in-u-s-senate-race/article_da00a6b9-a349-5d43-8cf5-cbaf3dce4b63.html
-Summary: In the ongoing U.S. Senate race in Minnesota, recent polling indicates that Angie Flanagan is currently leading in voter support, while Angie Craig has excelled in fundraising efforts. This dynamic suggests a competitive primary race between the two candidates. Flanagan's polling advantage could position her favorably for the Democratic nomination, but Craig's strong fundraising may enhance her campaign's viability. Observers should consider both candidates' strategies and public support as the primary approaches to better predict whether Craig will secure the nomination.
+### [New Poll Shows Flanagan Ahead Of Craig In Senate Primary](https://kdhlradio.com/ixp/66/p/minnesota-senate-primary-poll/)
+**Author:** Jeff McMahon | **Published:** 2026-01-26
 
-Title: Craig outpaces Flanagan in campaign fundraising, DFL has financial edge in CD2 | Alpha News MN
-Author: Luke Sprinkel
-Published Date: 2026-02-03T00:00:00.000Z
-URL: https://alphanews.org/craig-outpaces-flanagan-in-campaign-fundraising-dfl-has-financial-edge-in-cd2/
-Summary: Angie Craig has demonstrated strong fundraising capabilities, significantly outpacing her opponent, Flanagan, in campaign contributions. This financial advantage is crucial as the Democratic-Farmer-Labor (DFL) party maintains a financial edge in Minnesota's 2nd Congressional District (CD2). Given the importance of fundraising in political campaigns, Craig's ability to attract donations could bolster her chances of securing the Democratic nomination for Senate in Minnesota. Additionally, the DFL's overall financial strength may provide further support for her candidacy.
+Reports a Public Policy Polling survey (Jan 16–17, 2026) where Flanagan leads Craig closely among likely Democratic voters (40% to 28%, with 31% undecided). Highlights Craig’s weakness on immigration issues. Reinforces polling-based justification for low probability pricing.
 
-Title: Tina Smith endorses Peggy Flanagan over Angie Craig in Minnesota Senate race - NewsBreak
-Author: Lisa Kashinsky
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.newsbreak.com/politico-560779/4473091352726-tina-smith-endorses-peggy-flanagan-over-angie-craig-in-minnesota-senate-race
-Summary: Senator Tina Smith has endorsed Minnesota Lt. Gov. Peggy Flanagan over Rep. Angie Craig in the race for Smith's Senate seat, indicating a significant shift in support within the Democratic Party. This endorsement comes ahead of the state’s precinct caucuses and highlights a divide between Flanagan, a progressive candidate, and Craig, who is viewed as more moderate. 
+### [Craig more than doubles Flanagan’s Q3 fundraising • Minnesota Reformer](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/)
+**Author:** Madison McVan | **Published:** 2025-10-16
 
-Flanagan has received backing from several prominent progressive figures, including Senators Bernie Sanders and Elizabeth Warren, while Craig has her own notable endorsements, including from former Speaker Nancy Pelosi. The primary race has been intensified by recent controversies surrounding immigration enforcement, with both candidates criticizing each other’s past votes related to Trump’s policies.
+Documents Craig’s Q3 fundraising of $2.2M vs. Flanagan's $914K and cash-on-hand disparity (~$3M vs. ~$836K). Demonstrates Craig’s financial advantage that may be underpriced by the market.
 
-Craig's campaign argues that she has a proven track record of winning competitive races and taking a stand against the Trump administration, which may appeal to voters looking for a candidate with experience in tough contests. However, Flanagan's strong progressive support and Smith's endorsement could bolster her chances.
+### [Buttigieg Endorses Angie Craig in Heated Minnesota Democratic Senate Primary](https://www.crbcnews.com/articles/693049c320a2d54542fe763c)
+**Author:** Unknown | **Published:** 2025-12-03
 
-Overall, the outcome of the primary remains uncertain, with both candidates having distinct bases of support and differing strategies to appeal to Democratic voters in Minnesota.
-
-Title: Flanagan, Craig take fight to precinct caucuses roiled by ICE action
-Author: Ana Radelat
-Published Date: 2026-02-03T00:00:00.000Z
-URL: http://www.minnpost.com/national/washington/2026/02/flanagan-craig-take-fight-to-precinct-caucuses-roiled-by-ice-operation-while-tafoya-makes-her-political-debut/
-Summary: The article discusses the upcoming precinct caucuses in Minnesota, which are crucial for candidates vying for the Democratic nomination for the U.S. Senate seat being vacated by retiring Sen. Tina Smith. Rep. Angie Craig and Lt. Gov. Peggy Flanagan are the main contenders for the Democratic nomination. 
-
-Craig is actively participating in approximately 80% of the caucuses, indicating a strong ground presence. Flanagan, on the other hand, has been campaigning since last year and has conducted a 38-city tour to engage with party volunteers. Both candidates are focused on securing delegate support at these caucuses, which will ultimately influence the nomination process.
-
-Factors to consider in predicting whether Angie Craig will be the Democratic nominee include her level of engagement at the caucuses, the support she garners from party members, and her ability to mobilize delegates compared to Flanagan's campaign efforts. The outcome of the caucuses will be a significant indicator of her chances in the nomination race.
-
-
+Reports national endorsement of Craig by Pete Buttigieg, signaling establishment support. This endorsement could swing undecided voters and boost Craig's perceived viability; relevant to assessing underdog scope.

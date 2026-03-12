@@ -1,82 +1,114 @@
 # Research: Will the Detroit Red Wings make the NHL Playoffs?
 
 **Market ID:** 0xc283368f69694364b1c2d48cf64ef589c819485f5d3d8c49ff7d47d3e9cb91fe
-**Researched At:** March 6, 2026 at 04:19:43 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Detroit Red Wings make the NHL Playoffs?"
+**Researched At:** March 12, 2026 at 04:13:09 AM UTC
+**Search Query:** "Will the Detroit Red Wings make the NHL Playoffs?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 9.0¢
 
 ### Summary
 
-Multiple credible forecasts and betting odds cluster around 75–80%, aligning with the market’s 76.5%. The only lower model likely measures a different criterion, so there’s no strong evidence of mispricing.
+Analytical models and data indicate Detroit’s playoff probability may be closer to 85–90%, suggesting the market (68%) could modestly underprice that likelihood; however, late-season slide and goaltending inconsistency justify caution, yielding an estimated expected edge of ~9 cents.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-The market asks whether the Detroit Red Wings will qualify for the 2025–26 NHL playoffs. A “Yes” resolves if they finish the regular season in a playoff spot under NHL rules (top three in each division or one of two wild-card berths per conference). It resolves “No” if they fail to do so or are mathematically eliminated before season’s end.
+Here is my analysis of the Detroit Red Wings NHL Playoffs prediction market (current price: 68.0%), using recent, credible sources. I have structured my chain-of-thought according to your requested framework.
 
-2. EVIDENCE EVALUATION
-Bearish / Price too high?
-•   MoneyPuck model (61.4%)—lower forecast than 76.5%. But it appears to estimate division finish rather than including wild cards, may undercount Detroit’s true playoff paths.
-•   Recent form: 4–4 in last eight games and single-loss streak suggest some inconsistency.  
-Bullish / Price reasonable or low?
-•   Standings (Mar 6): 35–20–7, 77 points, 4th in Atlantic, actively in playoff hunt with 20 games remaining.  
-•   BetMGM odds (–350) imply ~77.8% chance, nearly identical to the market.  
-•   DetroitHockeyInsider (~80%) and The Athletic’s optimistic scenario also cluster around 75–80%.  
-Source credibility & recency: All sources are from Feb–Mar 2026, published by reputable analytics sites and sportsbooks. No obviously “insider” or contradictory data overlooked.
+---
 
-3. MARKET EFFICIENCY ANALYSIS
-A 76.5% price matches multiple independent forecasts and betting odds. Low $153 volume could reflect the obviousness of a likely playoff team rather than trader oversight; it’s unlikely that a few outliers dominate pricing when major models concur.
+## 1. CONTEXT ANALYSIS 
 
-4. MISPRICING ASSESSMENT
-No specific, credible data suggest a >20¢ mispricing. The lone outlier (61.4%) likely measures something slightly different (division finish, not overall playoff). Given broad agreement around ~77–80%, the 76.5% market price appears efficient.
+This market asks: *“Will the Detroit Red Wings qualify for the 2025–26 NHL Playoffs?”* Resolution is “Yes” if Detroit officially clinches a postseason berth under NHL rules (including wild card), or “No” if they are either eliminated or fail to qualify.
 
-5. EXPECTED VALUE CALCULATION
-Strength of evidence for mispricing: 20% (models largely agree with market).  
-Magnitude of potential mispricing: 5¢ (small divergence only if one trusts MoneyPuck model).  
-Expected value ≈ 20% × 5¢ = 1.0¢
+To resolve as **Yes**, Detroit must (by season end) finish high enough in the standings—typically top three in the Atlantic Division or in a wild card slot based on Point totals. As of March 12, 2026, Detroit holds 79 points with a record of 36-22-7, placing 4th in the Atlantic and within striking distance ([statmuse.com](https://www.statmuse.com/nhl/team/2025-26-detroit-red-wings-12/2026?utm_source=openai)). If they get mathematically eliminated before season’s end, the market would immediately resolve “No.”
 
-6. CONFIDENCE
-low
+---
 
-EXPECTED_VALUE: 1.0
-SUMMARY: Multiple credible forecasts and betting odds cluster around 75–80%, aligning with the market’s 76.5%. The only lower model likely measures a different criterion, so there’s no strong evidence of mispricing.  
-CONFIDENCE: low
+## 2. EVIDENCE EVALUATION
+
+### Evidence **suggesting mispricing** (i.e., price may be too low)
+- **MoneyPuck’s projections** give Detroit an 88.5% chance to make the playoffs, their highest all season ([thehockeynews.com](https://thehockeynews.com/nhl/detroit-red-wings/latest-news/odds-favor-red-wings-playoff-hopes-more-than-ever?utm_source=openai)).
+- **Advanced analytics** (NHL EDGE) show strong underlying metrics: 5-on-5 shot attempt dominance (52.8%), high-danger shot volume, and quality contributions from players like Larkin, DeBrincat, and Seider ([nhl.com](https://www.nhl.com/news/topic/nhl-edge/nhl-edge-stats-stanley-cup-playoffs-sleeper-teams-2025-26?utm_source=openai)).
+- **Reddit-based projections** (from IcyData) estimate 90.6% playoff probability as of March 6, 2026 ([reddit.com](https://www.reddit.com/r/icydata/comments/1rmb0rg/projections_nhl_202526_standings_march_06_2026/?utm_source=openai)).
+
+These models reflect robust, data-driven expectations well above the market’s 68%.
+
+### Evidence **supporting the current market price (68%)** as reasonable
+- **CBS Sports** reports a late-season slide: Detroit is trending downward (4‑6‑2 over last 12 games) and recently allowed two quick goals to lose a winnable game ([cbssports.com](https://www.cbssports.com/nhl/news/nhl-power-rankings-red-wings-stanley-cup-playoffs/?utm_source=openai)).
+- **Model earlier in season** (January 7) still gave only 61% probability of making playoffs ([sports.yahoo.com](https://sports.yahoo.com/articles/model-predicts-red-wings-finish-154116275.html?utm_source=openai)) — market has moved upward, consistent with improving performance but not as aggressively as some models.
+- **Hard path to playoffs** noted in 2025: only six wins in 19 games and toughest remaining schedule ([detroithockeynow.com](https://detroithockeynow.com/2025/03/31/hard-to-find-path-to-red-wings-playoff-berth-kane-mclellan/?utm_source=openai)) — echoes concern over late-season difficulty that could warrant moderation of overly optimistic projections.
+
+### Source credibility and recency
+- MoneyPuck and NHL EDGE are reputable analytics models; recent (January & late season) ([thehockeynews.com](https://thehockeynews.com/nhl/detroit-red-wings/latest-news/odds-favor-red-wings-playoff-hopes-more-than-ever?utm_source=openai)).
+- CBS Sports and Detroit Hockey Now are credible sports news outlets; CBS article from March 11, 2026 and Detroit Hockey Now from March 2025 ([cbssports.com](https://www.cbssports.com/nhl/news/nhl-power-rankings-red-wings-stanley-cup-playoffs/?utm_source=openai)).
+- Reddit projections are community-derived; less formal, but useful as crowd forecasts, dated March 2026 ([reddit.com](https://www.reddit.com/r/icydata/comments/1rmb0rg/projections_nhl_202526_standings_march_06_2026/?utm_source=openai)).
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Reasonable interpretation for 68%**: The price reflects genuine uncertainty due to late-season struggles, tricky schedule, and inconsistent goaltending despite strong analytics. Informed traders may be cautious, awaiting clearer signals.
+- **Could price reflect few traders?** Low volume ($533 total) could mean a few speculators drive price. But the alignment with tempered models (61–65% earlier) suggests some consensus.
+- **Low volume because outcome uncontroversial?** No—the divergence between models (88%) and market (68%) indicates some divergence persists, suggesting informed traders may be pricing anxiously rather than the outcome being universally agreed.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+Weighing all evidence:
+- **Bullish evidence** (high-confidence models) suggests a significantly higher chance (85–90%) than market indicates.
+- **Bearish evidence** justifies caution—late slump, schedule, inconsistency.
+- There is **no conclusive proof of mispricing**, but a **potential underpricing** exists relative to strong models.
+
+Check pitfalls:
+- **Resolution clarity**: we understand the criteria.
+- **Could I be missing something?** The models may over-estimate performance and not fully account for recent slide and team weaknesses; plus goaltending inconsistencies ([nhl.com](https://www.nhl.com/news/topic/nhl-edge/nhl-edge-stats-stanley-cup-playoffs-sleeper-teams-2025-26?utm_source=openai)).
+- **Charitable interpretation**: Traders are not overreacting; they are factoring in tangible risk that analytics may underweight.
+
+Conclusion: Some mispricing is plausible, but magnitude is modest.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Models are strong but tempered by recent performance concerns — I'd rate at **60%**.
+- **Magnitude of mispricing**: If true chance is ~88%, market at 68% is 20-cent error. But here, I consider models maybe overstate, so bias ~15 cents.
+  
+Expected value ≈ 0.60 × 15 = **9.0 cents**.
+
+---
+
+EXPECTED_VALUE: 9.0  
+SUMMARY: Analytical models and data indicate Detroit’s playoff probability may be closer to 85–90%, suggesting the market (68%) could modestly underprice that likelihood; however, late-season slide and goaltending inconsistency justify caution, yielding an estimated expected edge of ~9 cents.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: NHL Standings — 2025-26 Season
-Published Date: 2026-03-06T04:19:27.980Z
-URL: https://www.nhl.com/standings?origin=exa
-Summary: The Detroit Red Wings are currently positioned 4th in the Atlantic Division with a record of 35 wins, 20 losses, and 7 overtime/shootout losses, totaling 77 points and a winning percentage of .565. They have a recent streak of a single loss and have gone 4-4 in their last 8 games. While they are not at the top of their division, their solid record and proximity to playoff qualification suggest they are in the playoff hunt. However, their chances depend on their performance in upcoming games and how other teams in the division and conference perform.
+### [Odds Favor Red Wings Playoff Hopes More Than Ever](https://thehockeynews.com/nhl/detroit-red-wings/latest-news/odds-favor-red-wings-playoff-hopes-more-than-ever)
+**Author:** NHL Fantasy Staff | **Published:** 2026-01-26
 
-Title: The Athletic just mapped out a dream playoff scenario for Red Wings fans
-URL: https://octopusthrower.com/the-athletic-just-mapped-out-a-dream-playoff-scenario-for-red-wings-fans-01khbwmcqqtc
-Summary: The Detroit Red Wings are currently in a strong position to secure a playoff spot after the Winter Olympic break, with only 24 games remaining. They are competing for a high seed in the Atlantic Division, which is led by the Tampa Bay Lightning, who have a six-point lead. The Red Wings are tied for second with the Montreal Canadiens. According to The Athletic's Max Bultman, if they make the playoffs, their most favorable matchup would likely be against the Buffalo Sabres or Canadiens, both of which are young, fast teams with less disciplined defense and uncertain goaltending. Overall, the team has improved since early in the season, especially in goal and defense, increasing their chances of qualifying for the postseason.
+This Hockey News article reports MoneyPuck giving Detroit an 88.5% chance of making the playoffs, their highest mark of the season. It presents positive projections supportive of a higher valuation than the market.
 
-Title: Detroit Red Wings Playoff Picture: Chances, Bracket, Seed for 2026 | BetMGM
-Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://sports.betmgm.com/en/blog/nhl/detroit-red-wings-playoff-picture-chances-bracket-seed-bm25/
-Summary: The Detroit Red Wings currently have a high likelihood of making the NHL playoffs in 2026, with betting odds favoring their qualification at -350. Their recent playoff history includes last qualifying in 2016 and missing out in 2025. The team has a strong playoff legacy with 11 Stanley Cup titles and a history of 64 playoff appearances, including a streak of 25 consecutive appearances from 1991 to 2016. Given their favorable odds and historical performance, the Red Wings are positioned as strong contenders to secure a playoff spot this season.
+### [NHL EDGE stats: Sleeper teams for 2026 Stanley Cup Playoffs](https://www.nhl.com/news/topic/nhl-edge/nhl-edge-stats-stanley-cup-playoffs-sleeper-teams-2025-26)
+**Author:** Fantasy Hockey Staff | **Published:** 2025-12-03
 
-Title: New Model Predicts Red Wings Finish Top 3 in Atlantic Division
-URL: https://thehockeynews.com/nhl/detroit-red-wings/latest-news/new-model-predicts-red-wings-finish-top-3-in-atlantic-division
-Summary: The Detroit Red Wings have a strong chance of making the NHL playoffs, with a current probability of 61.4% according to MoneyPuck's predictive model. The team is performing well this season, holding a 25-15-4 record and sitting in second place in the Atlantic Division. Their prospects are bolstered by the emergence of promising prospects like Emmitt Finnie and Axel Sandin-Pellikka. However, the playoff race remains competitive, with division rivals such as Tampa Bay, Florida, Toronto, and Montreal also vying for playoff spots. Overall, the Red Wings are favored to qualify, but the outcome will depend on their performance in the remaining games amidst a tight division race.
+Using advanced NHL EDGE metrics, this source highlights Detroit’s strong 5-on-5 possession, high-danger shot creation, and solid performances by key players, though noting inconsistent goaltending—evidence for upside but with caveats.
 
-Title: Red Wings' rivals' playoff hopes take ugly turn while Detroit sits near 80% at making the postseason
-Author: 
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://www.detroithockeyinsider.com/nhl-team/detroit-red-wings/red-wings-rivals-playoff-hopes-take-ugly-turn-while-detroit-sits-near-80-at-making-the-postseason
-Summary: The Detroit Red Wings currently have an approximately 80% chance of making the NHL playoffs, according to recent analyses. In contrast, their rivals, notably the Toronto Maple Leafs, face very slim odds—below 6%—due to poor recent performance and struggles in securing playoff spots this season. The Red Wings have shown signs of progress, with positive acquisitions and a relatively strong position in the standings. While the Maple Leafs' odds have deteriorated significantly, the Red Wings appear to be on track to end their nine-year playoff drought, making postseason qualification highly likely this year.
+### [NHL Power Rankings: Red Wings tumbling late, putting Stanley Cup playoff hopes in danger](https://www.cbssports.com/nhl/news/nhl-power-rankings-red-wings-stanley-cup-playoffs/)
+**Author:** Austin Nivison | **Published:** 2026-03-11
 
+CBS Sports reports Detroit’s late-season slide (4-6-2 over 12 games) and a blown lead loss, suggesting real risk and justifying lower confidence—supporting why market might stay around 68%.
 
+### [Hard to Find Path to Red Wings Playoff Berth](https://detroithockeynow.com/2025/03/31/hard-to-find-path-to-red-wings-playoff-berth-kane-mclellan/)
+**Author:** Bob Duff | **Published:** 2025-03-31
+
+Detroit Hockey Now outlines a difficult late-season schedule and weak recent performance, with MoneyPuck at that time giving only ~5.7% playoff odds—underscoring how early-season expectations differ from current, justifying cautious pricing.

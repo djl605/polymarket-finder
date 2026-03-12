@@ -1,117 +1,88 @@
 # Research: Will the Republicans win the Georgia governor race in 2026?
 
 **Market ID:** 0x71c05b735300b6087ff5588bcc7e83fecf009293d794f613c63c92ea8a16fb2b
-**Researched At:** March 1, 2026 at 02:33:19 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republicans win the Georgia governor race in 2026?"
+**Researched At:** March 12, 2026 at 04:13:06 AM UTC
+**Search Query:** "Will the Republicans win the Georgia governor race in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Current polling and trend data provide mixed signals but no clear indication of a large (>10¢) mispricing. The 40% GOP probability is reasonable given primary uncertainty and Georgia’s slight Democratic tilt.
+The Republican 43% win probability reflects valid uncertainty—Georgia leans GOP but primaries are volatile and undecided. No strong evidence of mispricing stands out; the market price appears reasonable.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- The market asks: “Will the Republicans win the 2026 Georgia gubernatorial election?”  
-- YES if the Republican nominee (whoever wins their primary) is declared the winner by AP, Fox News, and NBC (or via certification). NO otherwise (i.e., Democratic or third-party/independent victor).  
+Below is a careful, citations-backed evaluation of the **“Will the Republicans win the Georgia governor race in 2026?”** market, currently priced at 43% for a Republican win as of March 12, 2026.
 
-2. EVIDENCE EVALUATION  
-Bullish for Republicans (price should be higher than 40%):  
-- Historical midterm trends favor the out-of-White House party in 2026.  
-- SportsbookReview data (Feb 18) shows a narrowing gap: Democrats’ win probability fell from 61.6% to 51.4%, implying GOP ~48.6%. Market’s 40% may understate GOP chances.  
-- GOP primary leader Rick Jackson has strong self-funding and Trump ties; Quantus poll (Feb 19) gives him 33% in a fragmented field, with 37% undecided. A unified field after a runoff could rally behind a single nominee.  
+CONTEXT ANALYSIS  
+This market resolves “YES” if the Republican candidate wins the 2026 Georgia gubernatorial election, “NO” otherwise. Specifically, a Republican nominee must be chosen through the May 19 primary (with possible runoff) and then win the November 3 general election, as recognized by AP, Fox News, and NBC or by official certification. Current market-implied probability: 43% for Republican win, with $0 total volume and a narrow 2¢ spread.
 
-Bearish for Republicans (price should be lower than 40%):  
-- Georgia is trending blue: Biden won narrowly in 2020, demographic shifts favor Dems.  
-- Strong Democratic frontrunner: Keisha Lance Bottoms polls ~40% in her primary, coalescing support. No general-election head-to-head polls yet, but likely competitive or slightly Dem-leaning.  
-- High undecided shares in GOP primary (42% in co/efficient, 37% in Quantus) signal uncertainty over nominee quality and electability.  
+EVIDENCE EVALUATION  
 
-Source credibility and recency:  
-- All sources date Feb 9–19, 2026, very recent. Polls come from Cygnal, Quantus, co/efficient—standard industry firms. SportsbookReview compiles prediction-market data.  
+• Evidence suggesting the current market price might be incorrect (bearish for Republicans):  
+  – Georgia has trended Republican at the state level, but it is increasingly competitive: Brian Kemp won 2022 by ~7.5 points, and Republicans hold all statewide offices ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election?utm_source=openai)). This baseline supports GOP but doesn’t guarantee 2026.  
+  – On the Democratic side, former Atlanta mayor Keisha Lance Bottoms holds a strong lead in the primary and may unify the base ([americanfaith.com](https://americanfaith.com/georgia-governor-race-2026-burt-jones/?utm_source=openai)). A competitive nominee could improve Dem general‑election prospects.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 40% price could reflect consensus that Georgia’s electorate tilts slightly Democratic and that GOP nominee risk remains high.  
-- Low volume may simply signal little retail interest in a long-dated race, not necessarily mispricing.  
-- Given fragmentary primary data and no general election match-ups, few traders may feel confident reallocating capital, leaving price sticky.  
+• Evidence supporting the current market price (reasonable for a 43% Republican chance):  
+  – Georgia remains a Republican-leaning state at the state level. GOP voters remain influential in key demographics ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election?utm_source=openai)).  
+  – The Republican primary is fluid: Rick Jackson and Burt Jones (Trump-endorsed) are vying for nomination, with undecided high. A fractured primary can weaken GOP general‑election positioning ([nationaltoday.com](https://nationaltoday.com/us/ga/atlanta/news/2026/03/09/jackson-collins-leading-in-top-georgia-races-new-poll-shows/?utm_source=openai)).  
+  – Quantus poll shows Jackson leading 33% vs. Jones’ 16%, but 37% undecided ([wrdw.com](https://www.wrdw.com/2026/02/19/gop-georgia-governors-poll-shows-newest-entrant-leading-many-undecided-voters/?utm_source=openai)); Co/efficient poll mirrors large undecided block ([coefficient.org](https://coefficient.org/ga-gov-2026-gop-primary/?utm_source=openai)). This uncertainty is consistent with a reduced GOP probability.
 
-4. MISPRICING ASSESSMENT  
-- No head-to-head GOP vs. Dem polling exists yet; traders must forecast primary outcome plus general dynamics. That compound uncertainty rationalizes a 40% GOP price.  
-- The 8.6-point gap between sportsbook (48.6%) and market (40%) suggests some divergence, but sportsbook lines also have vig and are not pure probabilities.  
-- There is no specific, credible “smoking-gun” factor missing from the market. All available polling and fundamentals seem priced in.  
+• Source credibility and recency: All sources are recent (within past few months) and from reputable outlets (AP, Atlanta Journal-Constitution, university polling, major media). Emerson College and Quantus Insights polls are timely and standard.
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is mispriced: 30% (no clear unpriced information, high uncertainty).  
-- Magnitude of possible mispricing: ~5 cents (small gap vs. sportsbook implied GOP chance).  
-- Expected value = 0.30 × 5 cents = 1.5 cents  
+• Skepticism of obvious cases: The competitiveness of the primary and large undecided percentages suggest markets may appropriately price uncertainty, rather than reflecting a misjudgment.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Current polling and trend data provide mixed signals but no clear indication of a large (>10¢) mispricing. The 40% GOP probability is reasonable given primary uncertainty and Georgia’s slight Democratic tilt.  
+MARKET EFFICIENCY ANALYSIS  
+– A 43% probability could reflect reasonable consensus among informed traders: acknowledging Georgia’s Republican lean, but factoring in primary uncertainty and potential Democratic strength.  
+– Low volume and tight spread imply either limited interest or balanced views; price may be sticky but not necessarily mispriced.  
+– Very low volume suggests not many participants, but because the race is lengthy (~8 months until general), many high-information traders may wait for clarity, hence low volume doesn’t imply mispricing.
+
+MISPRICING ASSESSMENT  
+Given the evidence, the market price seems plausible. Republicans have a structural advantage, but the nomination is unsettled, and Democrats show signs of strength. No strongly credible evidence suggests a multi-decade shift or a locking of one side. Thus, no clear mispricing is evident.
+
+EXPECTED VALUE CALCULATION  
+• Strength of evidence that price is missing information: moderate – there are contested elements, but most are likely already factored in by the price. Estimate ~50%.  
+• Magnitude of mispricing: minimal; I don’t identify a clear mispricing, so estimate ~5 cents if any (i.e., possible small underpricing of GOP chances if Republicans coalesce).  
+→ Expected value = 50% * 5 cents = 2.5 cents.
+
+CONFIDENCE: medium
+
+EXPECTED_VALUE: 2.5  
+SUMMARY: The Republican 43% win probability reflects valid uncertainty—Georgia leans GOP but primaries are volatile and undecided. No strong evidence of mispricing stands out; the market price appears reasonable.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Georgia Governor Election Odds & Prediction 2026 | How 2026 Race is Trading at Prediction Markets
-Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.sportsbookreview.com/picks/more-sports/georgia-governor-election-odds-prediction-market-2026/
-Summary: The 2026 Georgia governor race is shaping up to be highly competitive, with current Republican Governor Brian Kemp term-limited. Prediction markets indicate a narrowing gap, with Democrats previously holding a 61.6% chance of winning, now reduced to 51.4%. This shift reflects a growing optimism among Democrats, fueled by recent electoral trends favoring them in Georgia, including Biden's narrow victory in 2020.
+### [2026 Georgia gubernatorial election](https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election)
+**Author:** Unknown | **Published:** Unknown
 
-On the Republican side, Burt Jones, the current lieutenant governor, was initially favored to secure the nomination but has seen his odds decline due to the entry of billionaire Rick Jackson, who plans to self-fund his campaign significantly. Jackson's financial backing and ties to Trump could make him a formidable contender, especially since Georgia employs a runoff system if no candidate achieves 50% of the vote.
+Summarizes that Georgia maintains a Republican lean at the state level; Kemp’s 2022 re‑election by ~7.5 points and GOP control of statewide seats provide baseline structural advantage. This supports why Republican win probability may be above 40%.
 
-Overall, while the Democrats are gaining momentum, the Republican primary dynamics and Jackson's potential influence could play a crucial role in determining the outcome of the gubernatorial race in 2026.
+### [Georgia Governor Race Heats Up, Trump Pick Takes Early Lead]((U.S. Flagpole summary via Substack) – article Nov 5, 2025)
+**Author:** Tamira Musgrave | **Published:** 2025‑11‑05
 
-Title: Who is leading Georgia governor's race? Recent polls favor Rick Jackson
-Author: Vanessa Countryman
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.savannahnow.com/story/news/2026/02/12/who-is-leading-georgia-governors-race-recent-polls-favor-rick-jackson/88640694007/
-Summary: Recent polling data indicates a competitive Republican primary for the Georgia governor's race, with Rick Jackson currently leading in some surveys but facing strong competition from Burt Jones and others. A co/efficient poll from February shows Jackson at 24%, while a Cygnal poll has Jones slightly ahead at 22%. The Republican field remains divided, with no clear frontrunner emerging, suggesting that the race could be closely contested.
+Polling shows Democratic Keisha Lance Bottoms with a strong primary lead, and on the Republican side Burt Jones leads with Trump endorsement but 55% GOP undecided—highlighting fluidity and uncertainty in both primaries. This supports tempered GOP probability.
 
-On the Democratic side, former Atlanta Mayor Keisha Lance Bottoms holds a significant lead over her rivals, indicating a strong position for Democrats in the general election. Polls show Bottoms with around 40% support compared to her closest competitor, Mike Thurmond, at 11%.
+### [GOP Georgia governor’s poll shows newest entrant leading, many undecided voters](https://www.wrdw.com/2026/02/19/gop-georgia-governors-poll-shows-newest-entrant-leading-many-undecided-voters/)
+**Author:** Tim Darnell | **Published:** 2026‑02‑19
 
-As the election approaches, key dates include early voting from April 27 to May 15 and Election Day on May 19. The dynamics of the Republican primary and the strength of Bottoms as the Democratic candidate will be crucial in predicting the outcome of the 2026 Georgia governor's race.
+Quantus Insights poll shows Rick Jackson leading GOP primary at 33%, Jones at 16%, but 37% undecided. Indicates primary remains open, introducing general‑election uncertainty and justifying cautious Republican probability.
 
-Title: GOP Georgia governor’s poll shows newest entrant leading, large number of undecideds
-Author: Tim Darnell
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.cbs46.com/2026/02/19/gop-georgia-governors-poll-shows-newest-entrant-leading-large-number-undecideds/?outputType=apps
-Summary: A recent poll by Quantus Insights indicates that political newcomer Rick Jackson is leading the GOP primary for Georgia's governor race, with 33% support among likely voters, significantly ahead of Lt. Gov. Burt Jones, who has 16%. Notably, 37% of respondents remain undecided, suggesting a considerable portion of the electorate is still open to candidates. This large undecided pool could impact the final outcome, as Jackson's early lead may be influenced by novelty and name recognition. Other candidates, including Secretary of State Brad Raffensperger and Attorney General Chris Carr, have lower support, with 8% and 5%, respectively.
+### [Georgia Politics, Campaigns, and Elections for March 6, 2026 | GaPundit](https://gapundit.com/georgia-politics-campaigns-and-elections-for-march-6-2026/)
+**Author:** Unknown | **Published:** 2026‑03‑06
 
-In the broader context of GOP races in Georgia, U.S. Rep. Mike Collins leads the Senate primary with 36% support, but nearly 45% of voters are undecided, indicating a similar trend of uncertainty among Republican voters. The lieutenant governor race also shows 79% undecided among GOP voters, highlighting a lack of engagement in that contest.
+Emerson poll shows Jackson close behind Trump-endorsed Jones, with only 24% influenced by Trump’s endorsement; again illustrates fragmented primary and fluid voter behavior that dampens GOP general chances.
 
-Given these dynamics, the Republican candidates' ability to consolidate support from undecided voters will be crucial in determining the outcome of the governor race in 2026. Jackson's current lead positions him as a strong contender, but the significant number of undecided voters means the race remains competitive.
+### [A Governor’s Race to Watch in 2026 (Governing.com)](https://www.governing.com/politics/a-governors-race-to-watch-in-2026)
+**Author:** Unknown | **Published:** ~3 months ago
 
-Title: Georgia Statewide Poll 2026 - Cygnal
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.cygn.al/polls/georgia-statewide-poll-2026/
-Summary: The Georgia Statewide Poll conducted by Cygnal from February 3-4, 2026, surveyed 1,500 voters with a margin of error of 2.51%. The results are crucial for predicting the outcome of the Republican gubernatorial primary and the general election in Georgia. Key factors to consider include voter sentiment towards the Republican candidates, demographic trends, and historical voting patterns in the state. The poll's findings, including candidate favorability and issues that resonate with voters, will provide insights into the Republicans' chances of winning the governor race in 2026. For detailed results and analysis, refer to the full poll data on the Cygnal website.
-
-Title: Georgia Statewide 2026 Republican Primary - co/efficient
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://coefficient.org/ga-gov-2026-gop-primary/
-Summary: The webpage provides insights into the 2026 Republican primary in Georgia, which could be relevant for predicting the outcome of the governor race. Key findings include:
-
-1. **Trump Approval**: A significant 80% of respondents approve of Trump, indicating strong support among Republican voters, which could influence the primary candidates.
-
-2. **Kemp Approval**: Governor Brian Kemp has a 71% approval rating, suggesting he maintains a solid base of support, which could be crucial if he decides to run for re-election.
-
-3. **Primary Candidates**: In the GOP primary ballot testing, Rick Jackson leads with 24%, followed by Burt Jones at 16%. However, 42% of voters remain undecided, indicating a competitive race.
-
-4. **Voter Demographics**: The data shows varying support levels across demographics. For instance, younger voters (18-44) show less support for Jackson compared to older voters (65+), who favor him more.
-
-5. **Republican Types**: The primary voter base is largely aligned with Trump (48%), with fiscal conservatives (22%) and Christian conservatives (18%) also represented. This alignment may impact candidate selection and campaign strategies.
-
-Overall, the strong approval ratings for Trump and Kemp, along with the undecided voter segment, suggest that the Republican candidate's ability to consolidate support and address voter concerns will be critical in determining the outcome of the 2026 Georgia governor race.
-
-
+Describes widespread undecided voters—40% Democrats, 55% Republicans—but bottom‑lines show both parties competitive; Georgia remains battleground for governor, justifying a mid‑range probability.

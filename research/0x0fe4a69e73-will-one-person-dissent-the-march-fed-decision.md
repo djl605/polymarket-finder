@@ -1,86 +1,111 @@
 # Research: Will one person dissent the March Fed decision?
 
 **Market ID:** 0x0fe4a69e738960432427599dd7ad8a9759fa7a0f38a42d033c763a6da0858bb7
-**Researched At:** March 10, 2026 at 04:19:44 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will one person dissent the March Fed decision?"
+**Researched At:** March 12, 2026 at 04:17:33 AM UTC
+**Search Query:** "Will one person dissent the March Fed decision?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 10.2¢
+**Expected Value:** 14.0¢
 
 ### Summary
 
-Multiple mid-February analyses and the prior meeting’s two dissents point to a much higher chance (~40%+) of at least one dissent in March, yet the market stands at just 22%, implying an underpricing of around 17 cents.
+Recent expert forecasts indicate at least one, possibly two FOMC dissenters are likely at the March meeting, yet the market currently prices only ~24.5% chance of any dissent. This suggests potential underpricing—expected value from acting on this mispricing is around 14 cents.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether there will be at least one dissenting vote on the Fed Funds Rate decision at the March 17–18, 2026 FOMC meeting. A “YES” means one or more members votes against the majority (i.e. the policy decision is not unanimous); a “NO” means the vote is unanimous.
+Here’s a refined, objective analysis of the “Will one person dissent the March Fed decision?” prediction market:
 
-2. EVIDENCE EVALUATION  
-Bullish for dissent (i.e. “YES”):  
-• Jan meeting saw two dissents (Waller, Miran), signaling ongoing discord (MarketMinute, 02/27).  
-• Governor Waller calls the March vote a “coin flip” based on incoming labor data (Sahm Capital, 02/25).  
-• Reports of growing internal Fed debate over inflation vs. growth imply a higher chance of at least one dissenter (AOL, 02/18).  
-• AInvest’s Feb 14 note cites another market pricing a 39% chance of exactly one dissenter (and 42% chance of two), implying an ~81% chance of at least one dissent.
+---
 
-Bearish/neutral:  
-• JPMorgan notes the consensus leans toward another hold (or eventual cut), so dissent is not a given (JPMorgan, Jan 2026).  
-No strong bearish evidence to justify as low as 22%.  
+**1. CONTEXT ANALYSIS**  
+The market is asking whether at least one member of the Federal Open Market Committee (FOMC) will publicly record a dissent on its policy decision regarding the federal funds rate at the March 17–18, 2026 meeting. A “YES” outcome occurs if at least one dissenter is recorded in the official FOMC statement. A “NO” outcome requires full unanimity.
 
-Source credibility is reasonably high for JPMorgan and MarketMinute, moderate for Sahm Capital and AOL, and variable for the AInvest note. All are from mid-late February 2026.
+---
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 22% probability implies near-certainty of unanimity, which conflicts with recent history (two dissents in January) and credible commentary on internal Fed divisions. The low volume (>$700) suggests the price may reflect one or two traders’ views rather than a broad consensus.
+**2. EVIDENCE EVALUATION**  
 
-4. MISPRICING ASSESSMENT  
-Given multiple credible sources flag high internal discord and another market pricing >35% for exactly one dissenter (≥80% for any dissent), the 22% price appears underpriced. No obvious technical or resolution‐criteria trap seems to justify such a low probability, so the market likely misprices the true risk by on the order of ~17 cents.
+**Evidence suggesting possible mispricing (i.e., the market under- or overestimates dissent probability):**  
+- Analysts previewing the March meeting expect *two or three* dissent votes—particularly Governor Miran almost certainly dissenting for a cut, and potentially Christopher Waller as well ([pepperstone.com](https://pepperstone.com/en/analysis/navigating-markets/march-2026-fomc-preview-powell-on-pause-in-penultimate-meeting/?utm_source=openai)).  
+- Media commentary frames the committee as increasingly divided, noting that recent meetings have seen rare dissent activity and that this meeting may feature multiple dissenters ([ebc.com](https://www.ebc.com/forex/fed-decision-today-cut-dissent-and-market-risk?utm_source=openai)).  
+- Forecasts signal that dissent is seen as indicative of underlying ideological splits—market observers and strategists interpret high dissent odds as signal of internal friction rather than rate action per se ([ainvest.com](https://www.ainvest.com/news/march-fed-hold-priced-dissent-signal-2602/?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 60%  
-Magnitude of mispricing: 17 cents  
-Expected value = 0.60 × 17 cents ≈ 10.2 cents
+**Evidence supporting the current market price (~24.5% probability of at least one dissent):**  
+- No direct polling or commentary explicitly estimates only a ~25% chance of any dissent; rather, many sources imply dissent is likely.  
+- Historically, dissent is rare. A review shows only two dissenters in the last 20 meetings, despite this one being more contested ([investing.com](https://www.investing.com/analysis/fomc-preview-fed-to-hold-despite-political-pressure-risk-of-of-split-vote-200664539?utm_source=openai)).  
+- While commentators expect dissent, the exact probability remains ambiguous; informed traders may moderate pricing given historical rarity of dissent even when internal disagreement exists.
 
-EXPECTED_VALUE: 10.2  
-SUMMARY: Multiple mid-February analyses and the prior meeting’s two dissents point to a much higher chance (~40%+) of at least one dissent in March, yet the market stands at just 22%, implying an underpricing of around 17 cents.  
+**Source Credibility and Recency:**  
+- Pepperstone preview (Mar 9, 2026) specifically forecasts almost certain Miran dissent, credible and recent ([pepperstone.com](https://pepperstone.com/en/analysis/navigating-markets/march-2026-fomc-preview-powell-on-pause-in-penultimate-meeting/?utm_source=openai)).  
+- AInvest News (Feb 14, 2026) notes 42% probability of two dissenters across prediction markets—a secondary source referencing other markets, relevant but indirect ([ainvest.com](https://www.ainvest.com/news/march-fed-hold-priced-dissent-signal-2602/?utm_source=openai)).  
+- Reuters/AP articles about internal division cite multiple dissent possibilities (3–5), demonstrating credible risk though not quantified ([apnews.com](https://apnews.com/article/8a0060c2f52f884ed3489450a66619b8?utm_source=openai)).  
+- Investing.com historical context on dissent frequency (2 in 20 meetings) gives valuable baseline ([investing.com](https://www.investing.com/analysis/fomc-preview-fed-to-hold-despite-political-pressure-risk-of-of-split-vote-200664539?utm_source=openai)).
+
+**Bullish vs Bearish:**  
+- Bullish for dissent: Expert previews, commentary, and narratives expect at least one, likely two dissents.  
+- Bearish: Statistical infrequency of dissent, ambiguous probability; traders may doubt if commentary overstates likelihood.
+
+**Skeptical note:** If dissent is apparently expected and priced nowhere near certainty, why hasn't price risen? Perhaps confusion exists on resolution rule ("one or more" vs "exactly one"?). The market price may reflect caution—market-makers uncertain or guarding against overconfidence.
+
+---
+
+**3. MARKET EFFICIENCY ANALYSIS**  
+- **Interpretation justifying current price (24.5%)**: Traders may recognize dissent as plausible but still relatively uncommon—tempering enthusiasm. Also low liquidity may inhibit price adjusting fully to consensus.  
+- **Consensus vs single participant**: Low volume ($4,986 total) and 5¢ spread suggest limited participation. Price could reflect just a few views.  
+- **Low volume cause**: Possibly because the question is narrow and technical; many informed traders focus on larger rate outcomes rather than dissent counts. Alternatively, participants may be uncertain about interpreting commentary, and traders have held back.
+
+---
+
+**4. MISPRICING ASSESSMENT**  
+- **Evidence suggests internal division and dissent are likely.** Pepperstone’s near certainty on Miran and likely Waller dissent indicates at least one dissent with high probability, likely >50% ([pepperstone.com](https://pepperstone.com/en/analysis/navigating-markets/march-2026-fomc-preview-powell-on-pause-in-penultimate-meeting/?utm_source=openai)).  
+- Yet, **price implying only ~25% chance** seems low given expert narratives.  
+- Is this mispricing? Possibly moderate mispricing due to market’s underweighting of dissent likelihood, especially for minimal single dissent.
+
+But **must challenge reasoning**:  
+- Could traders doubt the reliability of commentary?  
+- Could the market be interpreting “dissent” differently—perhaps requiring dissent *on the rate decision only*, not general statement?  
+- Is there a technical rule nuance? Must read resolution criteria carefully. However, available descriptions seem straightforward.
+
+Given evidence, the price likely understates the reasonable probability of at least one dissent—though again, significant mispricing >20pts seems unlikely; a smaller gap (~15–20 cents) more plausible.
+
+---
+
+**5. EXPECTED VALUE CALCULATION**  
+- **Strength of evidence**: Moderate–high. Multiple reputable sources suggest dissent is very likely; historical frequency but current meeting is special. Assign ~70% strength.  
+- **Magnitude of mispricing**: Market at 24.5% but evidence suggests maybe ~60% chance. That's ~35.5 cents difference. However, given uncertainty, we moderate this to perhaps 20 cents.  
+- Expected value = 0.70 × 20 = 14 cents.
+
+---
+
+EXPECTED_VALUE: 14  
+SUMMARY: Recent expert forecasts indicate at least one, possibly two FOMC dissenters are likely at the March meeting, yet the market currently prices only ~24.5% chance of any dissent. This suggests potential underpricing—expected value from acting on this mispricing is around 14 cents.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: March Fed: The Hold is Priced In, But the Dissent is the Signal
-Author: AInvest
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://www.ainvest.com/news/march-fed-hold-priced-dissent-signal-2602/
-Summary: The market currently prices in a 42% probability that two FOMC members will dissent at the March Fed meeting, with a 39% chance of just one dissenter. This indicates a significant internal debate within the Federal Reserve, suggesting that while the consensus is for a rate hold, dissenting opinions are notably present and could influence future policy signals.
+### [March 2026 FOMC Preview: Powell On Pause In Penultimate Meeting](https://pepperstone.com/en/analysis/navigating-markets/march-2026-fomc-preview-powell-on-pause-in-penultimate-meeting/)
+**Author:** Michael Brown | **Published:** 2026-03-09
 
-Title: Fed Holds Steady at 3.50% Amid Growing Internal Discord: Waller and Miran Break Ranks
-Author: By:
-   MarketMinute
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://markets.financialcontent.com/ms.intelvalue/article/marketminute-2026-2-27-fed-holds-steady-at-350-amid-growing-internal-discord-waller-and-miran-break-ranks
-Summary: The Federal Reserve decided to hold interest rates steady at 3.50% during its latest meeting, despite internal disagreements among policymakers. Notably, Governors Christopher Waller and Stephen Miran dissented in favor of a rate cut, indicating ongoing division within the FOMC. Given this context, and considering the recent rise in dissenting voices, there is a possibility that one or more members could dissent from the March decision, especially if economic conditions or inflation pressures shift. The internal discord suggests that future votes may continue to reflect differing views on the appropriate monetary policy stance.
+A recent preview saying the FOMC will hold rates but “two or three dovish dissents seem likely,” with Governor Miran “almost certain to dissent” and Governor Waller also likely dissenting. This strongly supports the expectation that at least one dissent will occur and challenges the current low market probability.
 
-Title: Waller Signals Tight Fed Vote On March Interest Rates
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.sahmcapital.com/news/content/waller-signals-tight-fed-vote-on-march-interest-rates-2026-02-25
-Summary: Federal Reserve Governor Christopher Waller indicated that the decision on interest rates at the March FOMC meeting is highly uncertain, describing it as a "coin flip" depending on upcoming labor market data. Although current market expectations suggest a 96.1% chance of rates remaining steady, Waller's recent shift from advocating for easing monetary policy to considering a hold reflects potential for dissent. His stance, influenced by recent strong employment figures and economic data, suggests that there is a possibility he may dissent from the majority decision if the labor market reports favor a different approach.
+### [March Fed: The Hold is Priced In, But the Dissent is the Signal](https://www.ainvest.com/news/march-fed-hold-priced-dissent-signal-2602/)
+**Author:** Victor Hale (AI Agent), reviewed by AInvest News Editorial Team | **Published:** 2026-02-14
 
-Title: Fed dissent grows as some officials weigh return to interest rate hikes amid stubborn inflation - AOL
-Author: AOL
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.aol.com/articles/fed-dissent-grows-officials-weigh-215240068.html
-Summary: The article discusses growing dissent within the Federal Reserve regarding interest rate policies amid persistent inflation. Some officials are considering the possibility of returning to rate hikes, indicating a division in the Fed's approach to combating inflation without stalling economic growth. This internal disagreement suggests that future decisions, including the March Fed meeting, could see dissent from individual members. The likelihood of a single person dissenting depends on ongoing debates about inflation control strategies and economic conditions, but the current trend points to increased internal disagreement that may lead to at least one official dissenting in upcoming meetings.
+Highlights that markets assign a 42% probability to two FOMC dissenters, indicating internal policy debate. Underscores that dissent pricing reflects internal division, suggesting that at least one dissent is likely. Supports view that current market price may understate dissent likelihood.
 
-Title: Fed Leaves Rates Unchanged to Start 2026: Is a Cut Coming in March?
-URL: https://www.jpmorgan.com/insights/markets-and-economy/economy/fed-meeting-january-2026
-Summary: The Federal Reserve maintained interest rates at 3.5% to 3.75% in January, with a majority of the FOMC voting to hold steady after three rate cuts in 2025. While two members dissented, favoring a quarter-point cut, the Fed Chair indicated that current data does not suggest a significantly restrictive policy. The next FOMC meeting is scheduled for March 17-18, and policymakers will review economic indicators, including inflation data, to inform their decision. Given the current consensus and the recent dissent, there is a possibility that at least one member may dissent again in March, but the overall expectation leans toward maintaining the status quo or a potential rate cut later in the year.
+### [Sharp disagreements over economy threaten Federal Reserve interest rate cut](https://apnews.com/article/8a0060c2f52f884ed3489450a66619b8)
+**Author:** Unknown (AP News) | **Published:** Unknown (approx late 2025)
 
+Reports analysts warn of up to 3–5 dissents depending on rate cut vs hold, underscoring unusual internal disagreement. Implies dissent more likely than usual; supports view that at least one dissent is very plausible.
 
+### [FOMC Preview: Fed to Hold Despite Political Pressure, Risk of Rare Double Dissent](https://www.investing.com/analysis/fomc-preview-fed-to-hold-despite-political-pressure-risk-of-of-split-vote-200664539)
+**Author:** Matthew Weller | **Published:** 2025-07-30
+
+Provides historical context—only two dissents in the last 20 meetings—indicating dissent is rare. Suggests that even if dissent expected, traders may moderate expectations due to historical rarity, helping explain the low current price.

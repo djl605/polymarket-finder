@@ -1,82 +1,119 @@
 # Research: Will Democrats 66 (D66) win the most seats in Amsterdam’s 2026 municipal election?
 
 **Market ID:** 0x3d7e8eb0bd53b6adf3f18554b47856c4f6a3fec7511be3fac3eac6d956c527ec
-**Researched At:** March 3, 2026 at 04:23:29 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Democrats 66 (D66) win the most seats in Amsterdam’s 2026 municipal election?"
+**Researched At:** March 12, 2026 at 04:14:51 AM UTC
+**Search Query:** "Will Democrats 66 (D66) win the most seats in Amsterdam’s 2026 municipal election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.5¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-No Amsterdam‐specific polls or seat forecasts were found; sources underscore D66’s urban strength but don’t contradict a ~30% chance. Given the data gap, the market price seems reasonable rather than clearly mispriced.
+Polling shows D66 slightly behind PvdA and GroenLinks but within a close three-way race; a 40% price reflects this uncertainty and is not clearly mispriced.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Democrats 66 (D66) will win more seats than any other single party in Amsterdam’s March 18, 2026, municipal council election. A YES resolution requires D66 to finish atop the seat count; a NO includes any other party outpolling D66, ties broken by vote count or alphabetical order.
+Below is a structured analysis based on recent publicly available information (excluding prediction market sites), assessing potential mispricing in the prediction market "Will D66 win the most seats in Amsterdam municipal election on March 18, 2026?" as of March 12, 2026.
 
-2. EVIDENCE EVALUATION  
-Bullish for D66:  
-• Historical strength in urban areas (Wikipedia, Euronews) and focused local campaigning (DutchNews.nl).  
-• National/regional polling trends show D66 competitive in many municipalities (PolitPro overview).  
+---
 
-Bearish/uncertain:  
-• No Amsterdam‐specific seat projections or recent local polls exist in these sources.  
-• Other parties (PvdA, GroenLinks, VVD) have strong Amsterdam bases; without city polls, relative standing is unclear.  
+## 1. CONTEXT ANALYSIS
 
-All sources are credible and recent, but none provide hard probabilities or seat forecasts. The absence of localized polling means 29% could simply reflect true uncertainty.
+The market asks whether Democrats 66 (D66) will win the most seats in Amsterdam’s municipal council election on March 18, 2026. For a **YES**, D66 must secure more seats than any other single party; in a tie, a tie-breaker goes to greater vote totals, then alphabetical order. A **NO** implies another party (e.g. PvdA, GroenLinks, or their combination if interpreted separately) overtakes D66 under these rules.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A ~30% probability plausibly aggregates broad uncertainty among few traders. Low volume likely stems from scarce local polling rather than obvious mispricing. Informed bookmakers and modelers presumably also lack city‐level data this far out.
+---
 
-4. MISPRICING ASSESSMENT  
-No specific, credible evidence suggests a >20¢ mispricing. The lack of localized polls means the market price plausibly reflects genuine uncertainty rather than a clear undervaluation or overvaluation of D66’s chances.
+## 2. EVIDENCE EVALUATION
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 10% (very limited data)  
-Magnitude of mispricing: 5¢ (small potential error)  
-EV = 0.10×5¢ = 0.5¢
+### Evidence suggesting current market price (40%) **might be incorrect** (i.e., D66 undervalued):
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: No Amsterdam‐specific polls or seat forecasts were found; sources underscore D66’s urban strength but don’t contradict a ~30% chance. Given the data gap, the market price seems reasonable rather than clearly mispriced.  
+- A recent **O&S poll** (Feb 27–Feb 9) shows PvdA leading at 17.8%, GroenLinks at 16.2%, D66 closely behind at 15.4%—a tight race among the three center-left parties ([onderzoek.amsterdam.nl](https://onderzoek.amsterdam.nl/artikel/peiling-pvda-groenlinks-en-d66-dicht-bij-elkaar?utm_source=openai)).
+
+- Coverage from **Dutch News** (Mar 2026) emphasizes key voter concerns (housing, international turnout), with D66 part of current city coalition but trailing PvdA/GL alliance in polls ([dutchnews.nl](https://www.dutchnews.nl/2026/02/local-election-watch-housing-and-litter-dominate-in-amsterdam/?utm_source=openai)). Low D66 numbers (8.7%) in broader local polls reflect municipal-level variations, though not Amsterdam-specific ([nltimes.nl](https://nltimes.nl/2026/03/11/local-parties-left-wing-faction-expected-make-gains-city-elections?utm_source=openai)).
+
+This suggests D66 may be behind current polling leaders, indicating the 40% market-implied probability could be optimistic.
+
+### Evidence suggesting the current price **is reasonable**:
+
+- Multiple polls show **a three-way race**, not a clear frontrunner. D66’s 15.4% is close to PvdA’s 17.8% and GL’s 16.2%, meaning outcome is uncertain ([onderzoek.amsterdam.nl](https://onderzoek.amsterdam.nl/artikel/peiling-pvda-groenlinks-en-d66-dicht-bij-elkaar?utm_source=openai)).
+
+- Low volume and tight spread may reflect consensus that the election remains competitive—a state of ambiguous information rather than mispricing.
+
+### Source credibility and recency:
+
+- O&S polls are credible, local and recent (Feb–Mar 2026) ([onderzoek.amsterdam.nl](https://onderzoek.amsterdam.nl/artikel/peiling-pvda-groenlinks-en-d66-dicht-bij-elkaar?utm_source=openai)).
+
+- Dutch News and NL Times are reputable outlets summarizing local election context, issues, and institutional participation ([dutchnews.nl](https://www.dutchnews.nl/2026/02/local-election-watch-housing-and-litter-dominate-in-amsterdam/?utm_source=openai)).
+
+The evidence is timely and regionally relevant. However, no source indicates D66 firmly leading.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Reasonable interpretation of 40% price**: Reflects tight race with D66 neither decidedly ahead nor clearly trailing. Slightly under parity due to trailing polling, but not negligible probability.
+
+- **Low volume implications**:
+   - Could represent consensus among a few informed traders who monitor Dutch polling trends.
+   - Alternatively, it may reflect general uncertainty; traders may be cautious, as polling shows no clear leader.
+
+Given that D66 is close but trailing marginally in polls, the market price appears to reflect this cautious but competitive stance.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- **Is mispricing evident?** Not conclusively. Polls show D66 is slightly behind but within striking distance—won’t definitively be the biggest party. A 40% probability aligns with this uncertainty.
+
+- **Timeline factor**: With the election six days away, little time remains for unexpected shifts; new information could still emerge, but polling momentum indicates relative stability.
+
+- **No strong source suggests large surprise or structural factor being overlooked**. Voter turnout among internationals, coalition dynamics, and housing issues are known by traders ([dutchnews.nl](https://www.dutchnews.nl/2026/02/local-election-watch-housing-and-litter-dominate-in-amsterdam/?utm_source=openai)).
+
+Thus, no compelling evidence of mispricing is available at this point.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Moderate (~50%). Polls are clear and prompt, but not definitive. Traders likely aware of them.
+
+- **Magnitude of mispricing**: Small (<10 cents). If D66 is slightly undervalued (e.g., real probability closer to 35%), mispricing is ~5 cents.
+
+- **Expected value** = 50% × 5 cents = 2.5 cents
+
+---
+
+## 6. CONFIDENCE
+
+Given the quality and recency of polling data and the tightness of the race, my assessment is based on solid evidence—but still involves uncertainty due to potential last-minute shifts. Therefore, **confidence** is **medium**.
+
+---
+
+EXPECTED_VALUE: 2.5  
+SUMMARY: Polling shows D66 slightly behind PvdA and GroenLinks but within a close three-way race; a 40% price reflects this uncertainty and is not clearly mispriced.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Dummies' guide to the main parties in local elections in March - DutchNews.nl
-Author: Senay Boztas
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.dutchnews.nl/2026/02/dummies-guide-to-the-main-parties-in-local-elections-in-march/
-Summary: The article provides a general overview of the upcoming Dutch local elections on March 18, 2026, emphasizing the importance of understanding the various political parties, including D66 (Democrats 66), in the context of municipal politics. It highlights that voter turnout is typically low, but the international vote could be influential, especially in diverse cities like Amsterdam. The piece discusses the complexity of Dutch proportional representation and the need for better voter education, particularly among immigrants and first-time voters. While it does not specify election outcomes, it underscores the significance of parties like D66 in urban governance, especially given their focus on inclusion and urban issues. Therefore, predicting whether D66 will win the most seats in Amsterdam’s 2026 municipal election requires considering their ongoing efforts to engage voters and their prominence in local politics, but no definitive outcome is provided.
+### [Peiling: PvdA, GroenLinks en D66 dicht bij elkaar](https://onderzoek.amsterdam.nl/artikel/peiling-pvda-groenlinks-en-d66-dicht-bij-elkaar)
+**Author:** Unknown | **Published:** 2026-02-18
 
-Title: Netherlands: Election Polls & Voting Intentions 2026
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://politpro.eu/en/netherlands/opinion-polls/2026
-Summary: The webpage provides an overview of current polling trends and voting intentions for the Netherlands' upcoming elections, including municipal elections like Amsterdam’s 2026 race. While specific poll data for Amsterdam or D66’s projected performance is not detailed here, the site offers insights into national and regional polling trends, party standings, and coalition possibilities. Historically, D66 has been a significant player in Dutch politics, often performing well in urban areas like Amsterdam. To assess whether D66 might win the most seats in Amsterdam’s 2026 municipal election, one should consider recent polling trends at the national and city levels, D66’s current popularity, and their performance in previous municipal elections. The site’s coalition calculator and polling institute data can help analyze potential outcomes, but specific projections for Amsterdam’s 2026 election would require localized polling data closer to the election date.
+O&S poll (Feb 27–Feb 9) shows PvdA at 17.8%, GroenLinks at 16.2%, D66 at 15.4%. Indicates a tight three-way race in Amsterdam ahead of the March 18 municipal election. This context suggests D66 trails slightly but remains competitive, aligning with a market-implied probability around 40%.
 
-Title: Democrats 66 - Wikipedia
-URL: https://en.wikipedia.org/wiki/Democrats_66
-Summary: Democrats 66 (D66) is a prominent centrist political party in the Netherlands, known for its liberal policies and active participation in national and local politics. Led by Rob Jetten, D66 has a significant presence in the Dutch Parliament, with key leadership roles including Alexandra van Huffelen as chairperson and Jan Paternotte as the House of Representatives leader. The party emphasizes progressive values, individual freedoms, and democratic governance. While the webpage provides detailed information about D66's structure, leadership, and history, it does not specify electoral forecasts or specific prospects for the 2026 Amsterdam municipal election. Therefore, predicting whether D66 will win the most seats in Amsterdam's 2026 election requires considering their current political strength, historical performance in Amsterdam, and broader national trends, which are not detailed here.
+### [Local election watch: housing and litter dominate in Amsterdam](https://www.dutchnews.nl/2026/02/local-election-watch-housing-and-litter-dominate-in-amsterdam/)
+**Author:** Senay Boztas | **Published:** 2026-02-26
 
-Title: Everything you need to know about the Dutch general election
-Author: 
-Published Date: 2023-11-12T00:00:00.000Z
-URL: https://www.euronews.com/2023/11/13/everything-you-need-to-know-about-the-dutch-general-election
-Summary: The article provides an overview of the recent Dutch general election held on November 22, 2023, including key political developments, party performances, and electoral dynamics. While it does not specifically address Amsterdam’s 2026 municipal election or D66’s prospects there, it highlights that D66 remains a significant political force nationally, often performing well in urban areas like Amsterdam. The election results reflect shifting voter preferences, with D66 maintaining a strong presence in city politics due to its progressive platform and appeal to urban voters. These trends suggest that D66 could continue to be a competitive contender in Amsterdam’s future municipal elections, but predicting whether they will win the most seats in 2026 would require considering local political shifts, candidate popularity, and specific municipal issues closer to that time.
+Highlights key campaign issues (housing, inclusivity), D66 part of current coalition. Notes the expected surge in international turnout (approx. 130,000 voters) and competitive landscape among Amsterdam parties. Supports view that D66's prospects are impacted by known dynamics, not new surprises.
 
-Title: Dutch election: Geert Wilders records massive shock win ... - AP News
-Published Date: 2023-11-23T00:00:00.000Z
-URL: https://apnews.com/article/netherlands-election-candidates-prime-minister-f31f57a856f006ff0f2fc4984acaca6b
-Summary: The provided webpage reports on the recent Dutch election, highlighting a significant and unexpected victory for Geert Wilders. While it focuses on national political shifts and Wilders' success, it does not specifically address Amsterdam’s 2026 municipal elections or the prospects of Democrats 66 (D66) winning the most seats there. Therefore, based on this information, there is no direct data or analysis relevant to predicting whether D66 will secure the most seats in Amsterdam’s upcoming municipal election.
+### [Local parties, left-wing faction expected to make gains in city elections](https://nltimes.nl/2026/03/11/local-parties-left-wing-faction-expected-make-gains-city-elections)
+**Author:** Unknown | **Published:** 2026-03-11
 
-
+Presents broader local poll data showing D66 at 8.7% in municipal contexts, behind left-wing alliance (~17%)—though not Amsterdam-specific. Reinforces that D66 trails broader polling, supporting moderate probability assignment.

@@ -1,86 +1,107 @@
 # Research: Will Donald Trump visit Turkey in 2026?
 
 **Market ID:** 0xebb9a87581bb1de91adc9bf9d1a9528cc203976a7f3ab2c9f98b8ef8ff531f30
-**Researched At:** March 6, 2026 at 04:19:47 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Donald Trump visit Turkey in 2026?"
+**Researched At:** March 12, 2026 at 04:13:20 AM UTC
+**Search Query:** "Will Donald Trump visit Turkey in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 5.3¢
 
 ### Summary
 
-Erdogan’s invitation and recent phone calls make a Trump visit in 2026 plausible but no official dates have been announced two months in, suggesting the market’s 76% may be slightly optimistic; the evidence points to at most a modest (~10¢) mispricing.
+Trump has been formally invited to attend the 2026 NATO Summit in Ankara and bilateral meetings, supporting a high but not certain probability. The market’s ~80.5% price appears reasonably calibrated, with the remaining uncertainty owed to lack of official confirmation.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether President Trump, now in his second term (having won in 2024), will physically enter Turkey at any time during calendar year 2026. A “Yes” resolution requires Trump to touch down on Turkish territory (land or sea) by December 31, 2026; if he never does, it resolves “No.”
+Here is a detailed, objective analysis of whether the prediction market forecasting an approximately 80.5% probability that Donald Trump will visit Turkey in 2026 is mispriced.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports ≥76%):  
-• On Feb 21 Reuters reported Erdogan formally invited Trump for a visit—an unusually high-level courtesy extended only when bilateral ties are a priority.  
-• Recent Erdogan–Trump phone calls (Feb 28) and Turkey’s broader four-pronged US strategy indicate Ankara wants high-level engagement, making a reciprocal state visit plausible.  
+**1. CONTEXT ANALYSIS**  
+The market question asks: *Will Donald Trump visit Turkey between January 1 and December 31, 2026?*  
+- A "Yes" resolution requires Trump physically entering Turkish terrestrial or maritime territory during that time.  
+- A "No" resolution applies if he does not.  
+Thus, a "Yes" resolution depends on any documented, credible trip to Turkey in that window—official announcement or widely reported credible plan.
 
-Bearish (supports <76%):  
-• No firm dates or White House announcements have emerged more than two months into 2026—presidential overseas trips are usually publicized well in advance.  
-• Previous Trump administration (2017–21) never visited Turkey, suggesting he may not prioritize it now.  
-• Major regional summits (G20, NATO) in 2026 are not in Turkey, removing a natural scheduling anchor.  
+**2. EVIDENCE EVALUATION**  
+I searched reputable news outlets and government sources, excluding prediction market sites. Here's what I found:
 
-All sources are recent (Feb 2026) and from credible outlets (Reuters, established Turkish press), but none confirm concrete plans. Absence of an announced itinerary is noteworthy but not definitive given the year-ahead horizon.
+- **Invitation from Turkey**: Turkish Foreign Minister Hakan Fidan stated in late September 2025 that Turkey invited Trump to Ankara for both a bilateral visit and to attend the 2026 NATO Summit in Ankara ([turkiyetoday.com](https://www.turkiyetoday.com/nation/turkiye-invites-trump-to-ankara-for-bilateral-visit-and-2026-nato-summit-3207646?utm_source=openai)).  
+- **NATO Summit in Ankara**: Confirmed to be scheduled for July 7–8, 2026 ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Ankara_NATO_summit?utm_source=openai)).  
+  - This is highly relevant: If Trump attends the summit, that would satisfy the market’s definition.
+- **U.S. State Department response**: At the time of the invitation, the U.S. State Department had not confirmed a decision about Trump visiting Turkey ([turkiyetoday.com](https://www.turkiyetoday.com/world/no-official-decision-yet-on-trumps-visit-to-turkiye-us-state-department-spokesman-3201361?utm_source=openai)).
+- **Continued diplomatic momentum**: Analysts describe warming U.S.–Turkey ties under Trump, referencing energy cooperation, defense, trade, and geopolitical alignment ([theweek.in](https://www.theweek.in/voices/columns/ajish-p-joy/2025/03/27/turkey-hopes-for-a-rest-of-ties-with-the-us-under-donald-trump.html?utm_source=openai)).
+- **No official scheduling**: I found no recent (2026) confirmation that a trip has been scheduled, nor denial by White House or Trump.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 76% price could reflect a consensus that Erdogan’s invite plus geopolitical realignments make a visit highly likely. Low volume means one or two bullish trades could dominate the price, but it may also simply reflect that savvy traders see a state visit as almost inevitable. That said, the lack of an announced trip suggests some uncertainty remains.
+Summary of evidence:
+- **Supports "Yes"**: 
+  - Official invitation and inclusion of Turkey in Trump’s bilateral and NATO plans.
+  - Scheduled NATO summit taking place in Ankara during the market’s window.
+  - Strategic bilateral momentum making such a visit plausible.
+- **Supports "No”/caution**:
+  - Lack of confirmation from the U.S. or Trump.
+  - Low total market volume suggests limited trader confidence or information differential.
 
-4. MISPRICING ASSESSMENT  
-Given invitation but no schedule, the true probability might be around 60–70%, not 76%. However, the gap is under 20 cents, and there’s no strong evidence of a major oversight. Traders may reasonably price this above 50% on diplomatic grounds, so any mispricing is modest.
+**3. MARKET EFFICIENCY ANALYSIS**  
+The market price (~80.5%) seems to reflect a strong but not certain probability. This may indicate:
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that it’s mispriced): ~40%  
-Estimated mispricing magnitude: ~10 cents  
-Expected value = 0.4 × 10 cents = 4 cents
+- A **genuine consensus** that a visit is likely—supported by the NATO summit being in Ankara and Turkey’s formal invitation.
+- But **not a guarantee**—since no official U.S. confirmation exists yet.
+- Low trading volume and tight spread could reflect early pricing based on invitation and summit scheduling, but caution from informed participants awaiting official confirmation.
+- Alternatively, the price could currently be driven by one or a few confident traders, with others not yet engaged due to uncertainty.
 
-EXPECTED_VALUE: 4.0  
-SUMMARY: Erdogan’s invitation and recent phone calls make a Trump visit in 2026 plausible but no official dates have been announced two months in, suggesting the market’s 76% may be slightly optimistic; the evidence points to at most a modest (~10¢) mispricing.  
+**4. MISPRICING ASSESSMENT**  
+- The market appears reasonably priced: the invitation + summit = high likelihood; lack of confirmation = non-negligible uncertainty.  
+- No clear **specific credible evidence** currently contradicts the price. There’s no evidence that Trump will definitely not go—nor confirmation that he will.  
+- The timeline (mid‑2026 summit) implies more clarity may arrive closer to July.
+- Mispricing—if any—would likely be minor (a few cents), as traders are correctly balancing the invitation's weight against the lack of confirmation.
+
+**Critical Check**:  
+Could I be missing something? Possibly internal White House planning, but no public evidence contradicts or confirms. The resolution criteria are clear. No large mispricing (>20¢) is apparent given the ambiguity. The charitable interpretation: traders priced in plausible visit but retain some risk premium.
+
+**5. EXPECTED VALUE CALCULATION**  
+- **Strength of evidence**: Moderate to strong (invitation + summit), but lacking confirmation—approx. 70% confidence.  
+- **Estimated magnitude of mispricing**: Likely small—perhaps 5 to 10¢—since the price already accommodates high likelihood but the uncertainty remains.
+
+If I assume:
+- 70% confidence × 7.5¢ mispricing = ~5.25¢ expected value.
+
+**6. CONFIDENCE**  
+My confidence: **medium**.
+
+EXPECTED_VALUE: 5.3  
+SUMMARY: Trump has been formally invited to attend the 2026 NATO Summit in Ankara and bilateral meetings, supporting a high but not certain probability. The market’s ~80.5% price appears reasonably calibrated, with the remaining uncertainty owed to lack of official confirmation.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Eying reset in ties, Erdogan invites Trump to visit Turkey - Reuters
-Author: Yugom Interactive
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://edam.org.tr/basinda-edam/eying-reset-in-ties-erdogan-invites-trump-to-visit-turkey
-Summary: Turkish President Erdogan has extended an invitation to former U.S. President Donald Trump to visit Turkey, signaling a potential effort to reset bilateral relations. Ankara may prefer a Trump victory in the short term, as it could facilitate smoother dialogue after strained years under Biden. While the article discusses Erdogan’s diplomatic outreach and regional implications, it does not specify any confirmed plans or timelines for a Trump visit in 2026. The invitation and the context suggest that Turkey views improved relations with Trump favorably, but whether such a visit will occur in 2026 remains uncertain and depends on future political developments in both countries.
+### [Türkiye invites Trump to Ankara for bilateral visit and 2026 NATO summit](https://www.turkiyetoday.com/nation/turkiye-invites-trump-to-ankara-for-bilateral-visit-and-2026-nato-summit-3207646)
+**Author:** Unknown | **Published:** 2025-09-28
 
-Title: Türkiye invited to Trump's Gaza summit, Erdogan's attendance not yet confirmed - Türkiye Today
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: http://www.turkiyetoday.com/nation/turkiye-invited-to-trumps-gaza-summit-erdogans-attendance-not-yet-confirmed-3214361
-Summary: Turkey has been invited to participate in a U.S.-hosted Gaza summit scheduled for February 19, 2025, though Turkish President Recep Tayyip Erdogan has not yet confirmed his attendance. This diplomatic engagement indicates ongoing communication between Turkey and the U.S., but there is no current information suggesting a planned visit by Donald Trump to Turkey in 2026.
+Reports that Turkey’s Foreign Minister Hakan Fidan announced an invitation for President Trump to visit Ankara for both a bilateral meeting and to attend the 2026 NATO Summit in Turkey. This invitation directly supports the likelihood of Trump visiting Turkey in 2026, increasing the probability that the market price is reasonable.
 
-Title: Erdoğan, Trump discuss Iran, Gulf developments in call - anews
-Author: 
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.anews.com.tr/world/2026/02/28/erdogan-trump-discuss-iran-gulf-developments-in-call
-Summary: The article reports a high-level phone call between Turkish President Recep Tayyip Erdoğan and U.S. President Donald Trump, focusing on escalating regional tensions in the Middle East, particularly involving Iran and Gulf countries. The discussion occurred amid recent US-Israeli strikes on Iran and ongoing tensions related to Iran's nuclear program, with diplomatic efforts and military actions intensifying in the region. While the call highlights diplomatic engagement between Turkey and the US over regional security issues, there is no mention of any plans or indications of a visit by Donald Trump to Turkey in 2026.
+### [2026 Ankara NATO summit](https://en.wikipedia.org/wiki/2026_Ankara_NATO_summit)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Exclusive—Erdogan 'most likely' to skip Trump's Gaza Board of Peace in DC - Türkiye Today
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: http://www.turkiyetoday.com/world/exclusiveerdogan-most-likely-to-skip-trumps-gaza-board-of-peace-in-dc-3214671
-Summary: The article reports that Turkish President Recep Tayyip Erdogan is expected to skip the upcoming Gaza Board of Peace summit in Washington, D.C., scheduled for February 19, which was initiated by U.S. President Donald Trump. While the piece focuses on Erdogan's likely absence from this specific event, it highlights ongoing diplomatic tensions and the complex relationship between Turkey and the United States. Given Erdogan's current stance and the diplomatic context, predicting whether Trump will visit Turkey in 2026 would require considering the evolving political dynamics, Erdogan's foreign policy approach, and the state of US-Turkey relations. Historically, high-level visits depend on diplomatic priorities, regional stability, and mutual interests, which are not explicitly detailed in this article.
+Confirms that the 36th NATO Summit is scheduled for Ankara on July 7–8, 2026. If Trump attends, it would fulfill the market’s "Yes" condition for a visit. This scheduled event is a central factor supporting the market’s high probability.
 
-Title: Türkiye’s 4-pronged strategy for new era with Washington - Türkiye Today
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: http://www.turkiyetoday.com/opinion/turkiyes-4-pronged-strategy-for-new-era-with-washington-3214400
-Summary: Türkiye is actively working to strengthen its strategic relationship with the United States under President Erdogan's leadership. The country is pursuing a four-pronged approach that emphasizes high-level presidential and executive coordination, while also addressing gaps in Congressional engagement. Recent efforts include parliamentary visits to Washington aimed at deepening legislative ties, indicating Ankara's focus on fostering bipartisan support and diplomatic cooperation. Although there is no specific mention of a visit by Donald Trump in 2026, Turkey's ongoing diplomatic initiatives suggest it remains open to high-level engagements with U.S. leaders, potentially including future visits by former or current presidents depending on political developments.
+### [No official decision yet on Trump's visit to Türkiye: US State Dept. Spox](https://www.turkiyetoday.com/world/no-official-decision-yet-on-trumps-visit-to-turkiye-us-state-department-spox-3201361)
+**Author:** Unknown | **Published:** 2025-09-26
 
+Indicates that as of late September 2025, the U.S. State Department had not confirmed whether Trump would visit Turkey. This introduces uncertainty, explaining why the market price is not higher.
 
+### [Turkey hopes for a reset of ties with the US under Donald Trump](https://www.theweek.in/voices/columns/ajish-p-joy/2025/03/27/turkey-hopes-for-a-reset-of-ties-with-the-us-under-donald-trump.html)
+**Author:** Ajish P Joy | **Published:** 2025-03-27
+
+Discusses warming U.S.–Turkey relations under Trump, with diplomatic momentum and Turkey’s intent to strengthen engagement. This bolsters expectations of high-level visits, supporting the market’s price as plausible.
+
+### [Experts react: What’s next for US-Turkey ties after Erdoğan’s White House visit? – Atlantic Council](https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react-whats-next-for-us-turkey-ties-after-erdogans-white-house-visit/)
+**Author:** Yevgeniya Gaber | **Published:** 2025-09-26
+
+Reports expert perspectives suggesting enhanced strategic coordination between the U.S. and Turkey, including energy and defense cooperation. This context supports expectations that Trump would engage in official visits to sustain momentum, aligning with elevated market odds.

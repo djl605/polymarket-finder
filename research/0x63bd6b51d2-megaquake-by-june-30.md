@@ -1,81 +1,93 @@
 # Research: Megaquake by June 30?
 
 **Market ID:** 0x63bd6b51d2fd4ddb1a1b9e5a29fd949e52907b0d2dd58dfaa399ce1e9d2939b6
-**Researched At:** March 7, 2026 at 04:09:23 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Megaquake by June 30?"
+**Researched At:** March 12, 2026 at 04:14:00 AM UTC
+**Search Query:** "Megaquake by June 30?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 2.0¢
 
 ### Summary
 
-The 24.5% price matches a standard 1 quake/year baseline over 115 days and the limited, uncertain research on Japanese trench strain. Any mispricing appears small (<5¢) and not compelling enough to trade on.
+Market probability (~24.5%) appears consistent with global annual rates (~1 magnitude 8 quake/year) and stochastic variability; no strong short-term risk signal or new evidence suggests a meaningful mispricing.
 
 ### Full Analysis
 
+Here is my detailed evaluation:
+
 1. CONTEXT ANALYSIS  
-The market asks: “Will one or more magnitude-8.0+ earthquakes occur anywhere on Earth between the market’s inception and June 30, 2026, 11:59 PM ET?” A “Yes” resolution requires at least one globally recorded M≥8 quake by the USGS within that window (with allowances for final magnitude revisions). “No” means none reach M8+.  
+The market asks: “Will there be at least one earthquake of magnitude 8.0 or higher (a ‘megaquake’) anywhere on Earth between market creation and June 30, 2026, 11:59 PM ET?” A “Yes” would require at least one quake ≥ 8.0M in that interval; “No” means none.
 
 2. EVIDENCE EVALUATION  
-Bullish signals (higher probability of “Yes”):  
-• Mainichi (2026-03-02) finds the Kuril Trench off Hokkaido has stored strain equivalent to an M8.8 event, with “heightened possibility” of a megaquake “within the next few months.”  
-• Japan’s agencies have issued rare “megaquake advisories” after recent M7+ shocks, implying slightly elevated short-term risk.  
-Bearish/signs that price may be too high:  
-• Official seismology consensus remains that precise earthquake timing is unpredictable. Past “megaquake alerts” carry large uncertainty windows.  
-• Historical global frequency of M≥8 quakes is roughly 1 per year; over ~115 days that implies a baseline Poisson probability of 25–30%. The market’s 24.5% sits at or just below that range.  
-Source credibility/recency: All cited studies are from early March 2026 and from reputable institutions (Tohoku University, JMA, USGS). They give reasonable, albeit uncertain, estimates.  
+- GLOBAL BASE RATE: USGS data shows historically an average of ~1 magnitude 8+ quake per year globally ([en.wikipedia.org](https://en.wikipedia.org/wiki/Earthquake?utm_source=openai)). Other educational sources and global seismicity fact sheets likewise estimate ~1 magnitude 8 quake per year ([zipdo.co](https://zipdo.co/earthquake-statistics/?utm_source=openai)).  
+  This supports the market’s ~24.5% probability as plausible, though perhaps slightly conservative given the roughly ~50% chance over a half-year based purely on annual frequency (if quakes are roughly Poisson with mean 1/year, the probability of ≥1 in six months is about 39%).  
+- TEMPORAL RECURRENCE: Earthquake occurrence is stochastic; even with a mean of 1/year, there’s high variability—some years none, others two or more. The absence of a current event does not preclude one occurring—but nor does it guarantee one.  
+- REGIONAL SPECIFIC RISK: The Nankai Trough in Japan carries a high 30-year chance (80%) for M8–9 events ([en.wikipedia.org](https://en.wikipedia.org/wiki/Nankai_earthquakes?utm_source=openai)), and Cascadia zone ~15% over 50 years ([theguardian.com](https://www.theguardian.com/world/2025/apr/30/earthquake-pacific-north-west-sea-level?utm_source=openai)). But such long-term probabilities say little about the next few months. We lack data indicating any specific region is currently elevated to short-term risk levels.  
+- SCIENTIFIC LIMITATIONS: Scientists uniformly state that precise short-term predictions (months in advance) of earthquakes are not possible ([time.com](https://time.com/7300133/japan-manga-earthquake-panic/?utm_source=openai)). So “bullish” views based on short-term forecasts are inherently weak.  
+- RECENT ACTIVITY: No sources indicated a magnitude 8+ event has occurred so far in the window (since market creation ~72 days ago). That observation lowers short-term expectations slightly—but not enough to rule the event out.
+
+Overall, no credible evidence suggests the market price is grossly off. There is no new scientific insight or geological trigger indicating the already-low (~25%) price is unjustified, nor are there credible reasons the chance is substantially higher.
 
 3. MARKET EFFICIENCY ANALYSIS  
-A 24.5% price aligns with a straightforward translation of a 1 event/year baseline (≈27% over 0.32 years) or a slight discount if traders doubt Japan-specific warnings. Low volume may reflect that few traders feel expert enough to adjust this well-entrenched “one-per-year” benchmark. Alternatively, a single informed participant could be setting the price near the historical baseline.  
+- INTERPRETATION: The price (~24.5%) aligns with long-term climatological expectation (~39% chance in six months under a Poisson assumption with rate 1/year), adjusted downward perhaps for low recent activity or risk aversion.  
+- CONSENSUS OR FEW PLAYERS: The very low trading volume suggests price may reflect few participants rather than broad consensus. However, the price matches straightforward baseline reasoning, suggesting no glaring inefficiency.  
+- LOW VOLUME EXPLANATION: Likely due to the rare nature of the event and lack of strong short-term signals. It’s not obviously being overlooked—the baseline expectation is modest, and participants may see limited opportunity in trading a largely stochastic event.
 
 4. MISPRICING ASSESSMENT  
-There is no clear, large mispricing: the 24.5% figure is consistent with both global historical M≥8 rates over ~4 months and the limited, uncertain evidence of elevated risk in one tectonic zone. Any deviation from the Poisson baseline appears small (<5 cents) and could reflect rational skepticism about short-term forecasting limits.  
+No convincing mispricing emerges. The market’s probability seems reasonably tethered to historical frequencies, tempered by the stochastic nature and lack of immediate precursors. There’s no phase or region showing elevated imminent risk, nor scientific basis for predicting a short-term event. Without that, believing the price is deviating by more than a few cents would be speculation.
 
 5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: ~40% (some support for a small bias but not decisive)  
-• Magnitude of mispricing: ~5 cents (upper bound)  
-• Expected value = 40% × 5 = 2 cents  
+- Strength of evidence that price is incorrect: Weak (~20%)—we lack strong directional signals.  
+- Possible magnitude of mispricing: Small—maybe 5 cents at most (difference between 24.5% and a Poisson-calculated ~39% suggests ~15 cents max—but low confidence that baseline is applicable to this specific horizon). More realistic might be ~10 cents error with low confidence.  
+Expected value = 20% × 10 cents = 2 cents.
+
+6. CONFIDENCE: low
 
 EXPECTED_VALUE: 2.0  
-SUMMARY: The 24.5% price matches a standard 1 quake/year baseline over 115 days and the limited, uncertain research on Japanese trench strain. Any mispricing appears small (<5¢) and not compelling enough to trade on.  
-CONFIDENCE: medium
+SUMMARY: Market probability (~24.5%) appears consistent with global annual rates (~1 magnitude 8 quake/year) and stochastic variability; no strong short-term risk signal or new evidence suggests a meaningful mispricing.  
+CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Is there a megaquake coming along the Kuril Trench off Japan's Hokkaido? - The Mainichi
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: http://mainichi.jp/english/articles/20260302/p2a/00m/0op/009000c
-Summary: A research team from Tohoku University and partners has identified significant seismic activity along the Kuril Trench off Hokkaido, suggesting that enough energy may now be stored in the region's fault lines to trigger a megaquake similar to the one believed to have occurred in the 17th century. The study, conducted between 2019 and 2024, found that crustal movements indicate accumulated strain equivalent to that of a magnitude-8.8 quake, with the potential to produce a large tsunami. Experts warn that the risk of a major earthquake and tsunami remains imminent, emphasizing the importance of preparedness. While the exact timing is uncertain, the findings point to a heightened possibility of a significant seismic event occurring in the near future, potentially within the next few months.
+### [Earthquake](https://en.wikipedia.org/wiki/Earthquake)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Does Japan's megaquake alert mean the 'big one' is coming? -
-Author: Xəbərlər, Son xəbərlər, Xeberler, Son xeberler, Azvision
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://en.azvision.az/news/181664/does-japans-megaquake-alert-mean-the-big-one-is-coming-iwonder.html
-Summary: The recent earthquake in southern Japan, a magnitude 7.1 event, prompted Japan's meteorological agency to issue an unprecedented warning of an increased risk of a "major earthquake." While the quake caused minimal damage and the tsunami warning was rescinded, the alert has heightened concerns about a potential "big one"—a catastrophic, once-in-a-century quake. Experts warn that such a megaquake could result in over 300,000 deaths and a 30-meter tsunami along Japan's Pacific coast. However, there is confusion and uncertainty among the public and officials about the significance of this warning and whether it indicates an imminent megaquake, such as one occurring by June 30. The situation underscores the unpredictability of seismic activity and the challenges in forecasting large-scale earthquakes in Japan.
+Cites USGS estimates of average annual counts of major earthquakes: ~18 magnitude 7.0–7.9 events and ~1 magnitude 8.0+ event per year. Relevant: establishes baseline frequency to assess market probability, supporting that ~1 per year implies ~39% chance over six months.
 
-Title: Japan Earthquake Tsunami Warning Live Updates: Megaquake Advisory Issued; Projection Shows 30-Metre Giant-Wave, 200,000 Casualties
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.thedailyjagran.com/world/japan-earthquake-tsunami-warning-magnitude-tracker-latest-news-megaquake-alert-sanae-takaichi-advisory-lb-10284904
-Summary: A recent 7.6-magnitude earthquake struck northern Japan, prompting tsunami warnings and evacuation efforts. While immediate damage was minimal and nuclear facilities remain safe, authorities have issued a one-week advisory indicating increased seismic activity and a slightly elevated risk of aftershocks. Japan's meteorological agency has also warned of a 1% chance of a major "megaquake" occurring within the next week, highlighting ongoing seismic vulnerability in the region. This suggests heightened alertness and monitoring are necessary to assess the potential for a significant quake by June 30.
+### [Earthquake Population Statistics and Recurrence Intervals - Geosciences LibreTexts](https://geo.libretexts.org/Bookshelves/Geology/Controversies_in_the_Earth_Sciences_%28Richardson%29/04%3A_Is_the_New_Madrid_Seismic_Zone_at_risk_for_a_large_earthquake/4.05%3A_Earthquake_Population_Statistics_and_Recurrence_Intervals)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Debunking false earthquake prediction in Japan on July 5, ...
-Published Date: 2025-06-29T00:00:00.000Z
-URL: https://www.facebook.com/groups/destinationjapan/posts/4201060930113313/
-Summary: The webpage clarifies that there is no credible or official prediction of a megaquake in Japan by June 30 or any specific date. It emphasizes that earthquake predictions are impossible to make accurately and warns against believing or sharing unverified information, which can cause unnecessary panic. The Japan Meteorological Agency (JMA), NHK News, and local government alerts are the reliable sources for earthquake warnings. The post specifically debunks false claims about a predicted earthquake on July 5, 2025, and encourages reliance on official channels for safety updates.
+Presents global average annual frequencies: magnitude 8+ ~1, magnitude 7.0–7.9 ~15. Reinforces baseline.
 
-Title: Explainer | Is Japan's manga 'megaquake' prophecy going to come ...
-Published Date: 2025-07-04T00:00:00.000Z
-URL: https://www.scmp.com/week-asia/health-environment/article/3316900/japans-manga-megaquake-prophecy-likely-be-fulfilled
-Summary: A manga novel, *Watashi ga Mita Mirai, Kanzenban*, authored by Ryo Tatsuki, predicts a major natural disaster involving a "megaquake" and tsunamis three times larger than those in 2011, with a specific warning for July 2025. While the manga is based on dreams and contains no scientific evidence, social media has amplified fears that a catastrophic earthquake could occur around July 5, 2025, particularly between Japan and the Philippines. The prediction has led to widespread concern and some travelers canceling trips to Japan. However, Japanese authorities have dismissed these rumors as unfounded, and there is no scientific basis for predicting a megaquake by June 30, 2025. Historically, Japan is highly earthquake-prone and well-prepared for seismic events, but specific predictions remain uncertain.
+### [Frequency of Earthquakes Worldwide – theconstructor.org](https://theconstructor.org/earthquake/frequency-earthquake-worldwide/5921/)
+**Author:** Unknown | **Published:** Unknown
 
+States long-term records show about 16 major quakes per year (15 of magnitude 7 and 1 magnitude 8+). Supports baseline expectations.
 
+### [A Manga Is Causing Earthquake Panic in Japan](https://time.com/7300133/japan-manga-earthquake-panic/)
+**Author:** Unknown | **Published:** 2025-07-04
+
+Emphasizes that precise earthquake prediction is impossible; experts invalidate fan-based long-term forecasts. Supports skepticism of short-term forecasts.
+
+### [The head of Japan’s meteorological agency dismisses megaquake rumour as a ‘hoax’](https://macaonews.org/news/around-the-world/japan-jma-earthquake-forecast-megaquake/)
+**Author:** Unknown | **Published:** Unknown
+
+JMA says short-term quake predictions are hoaxes and unscientific. Undermines credibility of any bullish near-term expectation.
+
+### [Powerful earthquake could raise Pacific north-west sea levels ‘dramatically’ – study | The Guardian](https://www.theguardian.com/world/2025/apr/30/earthquake-pacific-north-west-sea-level)
+**Author:** Dani Anguiano | **Published:** 2025-04-30
+
+Notes ~15% chance of M8+ in Cascadia in 50 years, and ~29% by 2100. Relevant: long-term regional risk but not near-term.
+
+### [Nankai earthquakes](https://en.wikipedia.org/wiki/Nankai_earthquakes)
+**Author:** Unknown | **Published:** Unknown
+
+Japanese panel estimates ~80% likelihood of M8–9 in Nankai Trough over 30 years; after recent M7+, increased but still long‑term. Relevant but not short‑term predictor.

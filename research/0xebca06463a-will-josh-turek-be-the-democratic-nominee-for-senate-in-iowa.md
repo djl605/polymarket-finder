@@ -1,97 +1,117 @@
 # Research: Will Josh Turek be the Democratic nominee for Senate in Iowa?
 
 **Market ID:** 0xebca06463a9dcfa46dce21d63313c31db6c58b9ab68c09cceb988378f9c2174f
-**Researched At:** March 2, 2026 at 04:22:16 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Josh Turek be the Democratic nominee for Senate in Iowa?"
+**Researched At:** March 12, 2026 at 04:13:23 AM UTC
+**Search Query:** "Will Josh Turek be the Democratic nominee for Senate in Iowa?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 8.0¢
+**Expected Value:** 18.0¢
 
 ### Summary
 
-Public evidence—chiefly a recent internal Wahls poll showing a significant lead—suggests Turek’s chance is below 50%, conflicting with the market’s 65% price. Endorsements for Turek are real but unlikely to flip him from underdog to clear favorite absent polling confirmation.
+While polling shows Josh Turek trailing significantly in the Iowa Democratic Senate primary, strong institutional endorsements and campaign consolidation may justify optimism. The market may modestly overprice him, but uncertainty remains high.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: Will Josh Turek win the 2026 Iowa Democratic Senate primary?  A “YES” means Turek must be officially announced as the primary winner (overcome all other Democratic challengers); “NO” covers any other candidate winning or no primary being held.  
+Below is a thorough analysis following your specified structure:
 
-2. EVIDENCE EVALUATION  
-Bearish Evidence (Turek’s chances lower than 65%):  
-- Newsweek (2/25/26) reports an internal poll showing Zach Wahls holds a “significant lead” over Turek.  Since it’s from Wahls’ campaign, it may lean optimistic, but such a lead—even allowing for bias—implies Turek is well under a 50/50 shot absent a major shift.  
-- The Cook Political Report labels the general election “likely Republican,” which may discourage momentum behind a weaker nominee and push party insiders toward the candidate with the strongest perceived electability (Wahls).  
+---
 
-Bullish Evidence (supports ~65% or higher):  
-- Endorsements: J.D. Scholten (8/25/25) and former candidate Sage (2/16/26) have thrown their weight behind Turek, consolidating parts of the field and potentially boosting his grassroots support.  
-- Recent primary shake-up (2/17/26): Sage’s exit reduced intra-party competition, and some analyses (Laura Belin, AOL) note Turek’s fundraising and community connections as assets that could flip a close race.  
+CONTEXT ANALYSIS  
+This prediction market asks: “Will Josh Turek be the Democratic nominee for Senate in Iowa?” It resolves “YES” if Josh Turek wins the June 2, 2026 Iowa Democratic Senate primary; it resolves “NO” otherwise (including if there is no primary, which is unlikely given current official info) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa?utm_source=openai)).
 
-Source Credibility & Recency:  
-- The Wahls internal poll is recent and relevant but may overstate Wahls’ advantage.  
-- Endorsement news is credible but less quantifiable in its impact on voter percentages.  
+---
 
-Overall the only hard number is the internal poll, which suggests a sub-50% chance for Turek, conflicting with the market’s 65% price.  
+EVIDENCE EVALUATION  
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 65% price could reflect a consensus that consolidating endorsements and fundraising momentum will more than overcome Wahls’ internal-poll lead.  
-- Low volume means this price could be driven by one or two over-confident traders bullish on endorsements rather than broad insider consensus.  
-- Alternatively, traders may see private data (e.g., independent polling, donor commitments) not captured in public reporting.  
+**Evidence that the market price (64.5%) might be incorrect**  
+- Recent polling shows Josh Turek trailing significantly behind Zach Wahls. A GQR poll (Feb 18–22, 2026) shows Wahls at 42%, Turek at 24%, with 34% undecided ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa?utm_source=openai)). An NRSC poll similarly shows Wahls ahead (30%) versus Turek (23%) with 42% undecided ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa?utm_source=openai)). These point to Wahls leading by 18 points or more.  
+- A partisan Iowa GOP–funded summary also indicates Wahls leading by 7 points and outperforming Turek in net favorability, including among undecided Democratic voters (breaking 3‑to‑1 for Wahls) ([iowagop.org](https://www.iowagop.org/new_poll_shows_far_left_progressive_zach_wahls_ahead_of_schumer_establishment_josh_turek_in_iowa_democrat_senate_primary?utm_source=openai)).
 
-4. MISPRICING ASSESSMENT  
-- The public evidence leans bearish: a “significant” polling lead for Wahls typically indicates at best a 30–40% chance for a trailing candidate absent strong contrary signals.  
-- Endorsements matter but rarely shift a trailing candidate from underdog to favorite without corresponding polling moves.  
-- Without any public poll showing Turek ahead or even within a point or two, a 65% price seems too high—suggesting a mispricing of perhaps 15–25 cents.  
+**Evidence supporting the current market price as reasonable**  
+- Turek has significant institutional and grassroots support: he has endorsements from over 20 Iowa state legislators, including former House opponents, and establishment figures like Tom Miller, Sally Pederson, J.D. Scholten (after he dropped out) ([turek4iowa.com](https://turek4iowa.com/news/20-plus-iowa-state-legislators-endorse-josh-turek-for-us-senate/?utm_source=openai)).  
+- Field consolidation: Several competitors have dropped out and endorsed Turek (Scholten, Sage), contributing to a consolidation narrative cited by TIME as momentum around “the most electable candidate” with the field shrinking ([time.com](https://time.com/7378634/democrats-senate-iowa-josh-turek-zach-wahls-nathan-sage/?utm_source=openai)). Turek’s fundraising ($1.68M raised, $398K cash on hand) is strong though still behind Wahls ($2.05M raised, $733K on hand) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa?utm_source=openai)).  
+- Credible outlets like TIME highlight consolidation and momentum in Turek’s direction ([time.com](https://time.com/7378634/democrats-senate-iowa-josh-turek-zach-wahls-nathan-sage/?utm_source=openai)).
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: ~40% (we have a single credible but potentially biased poll and unquantified endorsements)  
-- Magnitude of mispricing: ~20 cents (market seems to overshoot plausible win probability by ~0.20)  
-- Expected value = 0.40 × 20 cents = 8 cents  
+**Source credibility and recency**  
+- Poll data from February 2026 and FEC fundraising data from end of December 2025 are recent and credible, coming from recognized pollsters and FEC reports ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa?utm_source=openai)).  
+- Endorsements reported via state media and candidate press releases are also recent (late 2025 / early 2026) and relevant ([turek4iowa.com](https://turek4iowa.com/news/20-plus-iowa-state-legislators-endorse-josh-turek-for-us-senate/?utm_source=openai)).  
+- The GOP summary is partisan and thus less reliable for objective judgment, though informative about opposition messaging ([iowagop.org](https://www.iowagop.org/new_poll_shows_far_left_progressive_zach_wahls_ahead_of_schumer_establishment_josh_turek_in_iowa_democrat_senate_primary?utm_source=openai)).
 
-EXPECTED_VALUE: 8.0  
-SUMMARY: Public evidence—chiefly a recent internal Wahls poll showing a significant lead—suggests Turek’s chance is below 50%, conflicting with the market’s 65% price. Endorsements for Turek are real but unlikely to flip him from underdog to clear favorite absent polling confirmation.  
+**Bullish vs. bearish perspectives**  
+- **Bullish for Turek (supporting current price):** Institutional endorsements, momentum via consolidation, fundraising capability, moderate/populist appeal in red districts, narrative of “electability” in a potentially competitive general election.  
+- **Bearish (challenging current price):** Polls show Wahls leading by large margins, high levels of undecided voters currently favor Wahls, and narrative suggesting Turek may be establishment-backed but lacking broad voter appeal.
+
+**Skepticism over obvious conclusions**  
+If Wahls maintains a consistent lead in polls with large undecided Democratic voters leaning strongly his way, why would the market still price Turek at near 65%? Possibly because the market sees indecisive voters shifting, consolidation working, or underestimates polls. But we must also consider low volume may reflect uncertainty or ignorance of these polls.
+
+---
+
+MARKET EFFICIENCY ANALYSIS  
+
+- **Reasonable interpretation:** The 64.5% price may reflect trader expectations that institutional momentum (endorsements, fund-raising, consolidation) will overcome current polling deficits before June 2. Traders may overweight campaign infrastructure over raw polling lag.  
+- **Consensus vs. single-player effect:** Low total trading volume and tight spread suggest few traders deeply engaged; one or two well-informed actors could dominate pricing, potentially leaning optimistic on Turek.  
+- **Low volume cause:** Could indicate this market is overlooked, so price reflects early traders confident in internal campaign developments more than observed polling. Alternatively, general clarity in endorsements could deter further engagement.
+
+---
+
+MISPRICING ASSESSMENT  
+
+- Polling indicates probable mispricing: Turek trailing by ~18 points. Yet endorsements and momentum could swing the race by June. With >30% undecided, there's plausible movement.  
+- Timeline: With ~2.5 months until primary (June 2), plenty of uncertainty remains. Markets may price in expected movement that polls haven't captured yet.  
+- Evidence of inefficiency: Low volume suggests price may not fully reflect polls. But we need specific credible evidence showing why Turek might overperform polls—beyond endorsements and infrastructure, such as internal data or early voting trends—which we haven't found.  
+- Therefore, mispricing might exist, but caution is warranted: no clear, missing information that strongly supports a >20-point swing.
+
+---
+
+EXPECTED VALUE CALCULATION  
+
+- **Strength of evidence:** Polling data strongly suggests Turek is trailing (~18 points). Strength = moderate to high. But some offset by momentum/unpredictability. Assign ~60%.  
+- **Magnitude of mispricing:** Market pricing implies Turek has 64.5% chance, but if true odds closer to 30–35% (given poll share plus some swing), mispricing is ~30 cents.  
+- **Expected value:** 0.6 × 30 = 18 cents.
+
+---
+
+CONFIDENCE  
+medium
+
+---
+
+EXPECTED_VALUE: 18  
+SUMMARY: While polling shows Josh Turek trailing significantly in the Iowa Democratic Senate primary, strong institutional endorsements and campaign consolidation may justify optimism. The market may modestly overprice him, but uncertainty remains high.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Zach Wahls' chances of beating Josh Turek in Iowa Senate race: Poll - Newsweek
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588
-Summary: Zach Wahls currently holds a significant lead over Josh Turek in the Democratic primary for Iowa's open U.S. Senate seat, according to a recent internal poll from Wahls' campaign. This primary is particularly important as it follows Republican Senator Joni Ernst's decision not to seek reelection, creating a rare opportunity for Democrats to gain ground in a historically competitive state. The Cook Political Report has categorized the Iowa Senate race as "likely Republican," indicating the challenges ahead for the Democratic nominee. Given Wahls' strong polling position, Turek's chances of becoming the Democratic nominee appear slim unless there are significant changes in voter sentiment or campaign dynamics.
+### [2026 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa)
+**Author:** Unknown | **Published:** Unknown (crawled today)
 
-Title: Former candidate Sage endorses Turek, criticizes Wahls in Iowa Democrats’ U.S. Senate primary | The Gazette
-Author: Jeff Linder
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.thegazette.com/campaigns-elections/former-candidate-sage-endorses-turek-criticizes-wahls-in-iowa-democrats-u-s-senate-primary/
-Summary: Former candidate Sage has publicly endorsed Josh Turek in the Iowa Democrats’ U.S. Senate primary, positioning him as a strong contender. Sage criticized fellow candidate Mike Wahls, suggesting that Turek may have an advantage in the race. This endorsement could influence voter perceptions and support for Turek, making him a significant candidate to watch in the lead-up to the nomination. The dynamics of the primary, including endorsements and criticisms among candidates, will be crucial in predicting whether Turek secures the Democratic nomination.
+Provides details on the Democratic primary field, including Josh Turek, Zach Wahls, Bob Krause, and others, plus fundraising numbers and polling results from February 2026 (GQR and NRSC). Polls show Wahls leading by ~18 points. Fundraising shows Turek behind Wahls. This directly informs evaluation of current standing versus market price.
 
-Title: Scholten drops out of Iowa Senate race, endorses fellow state rep
-Author: by Ashleigh Fields
-Published Date: 2025-08-18T00:00:00.000Z
-URL: https://thehill.com/homenews/campaign/5458417-scholten-suspends-senate-campaign-backs-turek/
-Summary: Iowa State Rep. J.D. Scholten has suspended his campaign for the U.S. Senate and endorsed fellow State Rep. Josh Turek in the Democratic primary against incumbent Sen. Joni Ernst. Scholten believes Turek, a two-time Paralympic gold medalist, is well-suited to win the general election, citing their shared values and history of collaboration in the state Legislature. Turek's entry into the race adds significant momentum to his candidacy, especially with Scholten's endorsement, which may strengthen his position among Democratic voters. This endorsement could be a key factor in predicting Turek's chances of becoming the Democratic nominee for Senate in Iowa.
+### [New Poll Shows Far-Left Progressive Zach Wahls Ahead of Schumer-Establishment Josh Turek in Iowa Democrat Senate Primary – The Republican Party of Iowa](https://www.iowagop.org/new_poll_shows_far-left-progressive_zach_wahls_ahead_of_schumer-establishment_josh_turek_in_iowa_democrat_senate_primary)
+**Author:** Unknown (Iowa GOP) | **Published:** 2026-02-20
 
-Title: Sizing up Wahls vs. Turek after Democratic primary shake-up
-Author: Laura Belin
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://laurabelin.substack.com/p/sizing-up-wahls-vs-turek-after-democratic
-Summary: The article discusses the recent developments in the Democratic primary for the U.S. Senate in Iowa, particularly focusing on the candidates Josh Turek and the now-withdrawn Nathan Sage. Sage ended his campaign due to financial constraints, highlighting the challenges faced by grassroots candidates in raising necessary funds to compete effectively. This withdrawal may benefit Turek, as it reduces competition within the party. 
+Reports Wahls leading Turek by 7 points in net favorability and undecided voters breaking heavily toward Wahls (3-to-1). Though partisan, supports narrative that Wahls has broad appeal among undecideds, undermining market pricing.
 
-The piece also emphasizes the importance of financial resources in political campaigns, suggesting that Turek's ability to secure funding will be crucial for his success. The article does not provide explicit predictions but indicates that Turek's chances may improve following Sage's exit, making him a stronger contender for the Democratic nomination. 
+### [20+ Iowa State Legislators Endorse Josh Turek for U.S. Senate | Josh Turek for Iowa](https://turek4iowa.com/news/20-plus-iowa-state-legislators-endorse-josh-turek-for-us-senate/)
+**Author:** Unknown (campaign press release) | **Published:** 2025-09-03
 
-Overall, Turek's prospects will likely depend on his fundraising capabilities and how he positions himself in the evolving political landscape following this primary shake-up.
+Announces endorsements from over 20 current/former state legislators, including J.D. Scholten, Pam Jochum, Sean Bagniewski, Mark Smith. Indicates strong institutional support that may underpin market optimism.
 
-Title: Is Iowa the Senate Race No One Saw Coming? - AOL
-Author: AOL
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.aol.com/articles/iowa-senate-race-no-one-120406731.html
-Summary: The article discusses the unexpected dynamics of the Iowa Senate race, highlighting key candidates and their positioning. Josh Turek, a notable figure in the Democratic primary, is mentioned as a potential contender. Factors influencing his candidacy include his grassroots support, fundraising capabilities, and the political landscape shaped by recent events and voter sentiment in Iowa. The piece emphasizes the competitive nature of the race, with Turek needing to navigate challenges from other Democratic candidates and the overall political climate. Observers suggest that his ability to connect with voters and address pressing issues will be crucial in determining whether he secures the nomination.
+### [Nathan Sage endorses Rep. Josh Turek’s campaign for U.S. Senate](https://www.yahoo.com/news/articles/nathan-sage-endorses-rep-josh-220524643.html)
+**Author:** Robin Opsahl | **Published:** 2026-02-16
 
+Reports that Nathan Sage dropped out and endorsed Turek, emphasizing working-class connection and consolidation. Supports narrative of field narrowing around Turek.
 
+### [Democrats Giving Iowa Senate Race a Serious Look as Field Shrinks](https://time.com/7378634/democrats-senate-iowa-josh-turek-zach-wahls-nathan-sage/)
+**Author:** Unknown (TIME) | **Published:** 2026-02-17
+
+Highlights that field consolidation is occurring, with endorsements for Turek and an argument that Iowa may be more competitive than perceived. Suggests momentum around Turek as the "most electable."

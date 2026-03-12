@@ -1,99 +1,128 @@
 # Research: Will César Dockweiler win the 2026 La Paz mayoral election?
 
 **Market ID:** 0x870171e64eefe9e6fbdd881e2dbba87625542df5877a92f92db048b5545faec7
-**Researched At:** March 8, 2026 at 02:35:17 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will César Dockweiler win the 2026 La Paz mayoral election?"
+**Researched At:** March 12, 2026 at 04:15:57 AM UTC
+**Search Query:** "Will César Dockweiler win the 2026 La Paz mayoral election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 15.0¢
+**Expected Value:** 32.0¢
 
 ### Summary
 
-Recent February 2026 polls show Dockweiler leading with only ~21.6% in a fragmented field and over half the electorate undecided, which does not support a 73% win probability absent private information. The market’s low volume also hints that a few traders may be overconfident.
+Recent polling gives Dockweiler only ~21.6% support in a fragmented field and solid incumbency advantage elsewhere, making the market’s 82% win probability appear significantly overstated. However, consolidation or unforeseen late shifts remain possible.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will César Dockweiler win the 2026 La Paz mayoral election (scheduled for March 22, 2026)?” A YES resolution requires that Dockweiler receives more votes than any other candidate (by plurality, given no run-off mentioned). A NO resolution happens if any other candidate wins or if results aren’t known by end of 2026.
+Here is a thorough evaluation of the prediction market regarding whether César Dockweiler will win the 2026 La Paz mayoral election:
 
-2. EVIDENCE EVALUATION  
-Bearish (price too high):  
-• February 2026 Ipsos Ciesmori polls show Dockweiler at only ~21.6% of voter intention, with his closest rivals at ~11.7–11.9%. No candidate has anything near a majority.  
-• Over 50% of voters remain undecided or plan blank/null votes (Brújula), so outcomes can swing widely.  
-• Another February poll (Brújula) actually puts a different candidate (“Patria Sol”) at 17.4%, suggesting even leading‐position polling is unstable.  
-• All surveys stress early stage uncertainty; there’s no indication Dockweiler will consolidate enough support to reach a winning plurality in a multi-candidate field.
+---
 
-Bullish (price reasonable):  
-• He consistently leads polling, roughly doubling nearest competitor.  
-• High undecided share could break heavily for a frontrunner in late campaign.  
-• With only one month remaining before the election, further momentum could favor him.  
+## 1. CONTEXT ANALYSIS
 
-Source Credibility and Recency:  
-• All data are February 2026 and from established pollsters (Ipsos Ciesmori, Unitel); credible and very recent.  
-• Lack of any late-March or March campaign data is a gap but polls are the best public data to date.
+**What is this market asking about?**  
+- The market asks whether César Dockweiler will win the mayoral election in La Paz, Bolivia, scheduled for March 22, 2026. Resolution will be based on credible reporting or official results from the Bolivian electoral authority (TSE). If results are not known by December 31, 2026, it will resolve to “Other.”
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 73.2% price implies strong confidence that he’ll consolidate undecideds and win outright.  
-• Total volume is low ($5K), so a handful of overconfident traders could be setting price.  
-• Alternatively, informed local contacts might foresee coalition deals or campaign dynamics not public yet.  
+**What needs to happen for it to resolve as “YES” vs. “NO”?**  
+- YES: Dockweiler must win the election outright, confirmed by reliable media or the TSE.  
+- NO: Any other candidate wins, or the outcome is officially designated as “Other” due to delayed or missing results after December 31, 2026.
 
-4. MISPRICING ASSESSMENT  
-• Current public evidence (polling at ~21.6%) does not justify a >70% win probability in a fragmented race.  
-• There is no specific late-stage surge data or alliance news to support such high confidence.  
-• On the other hand, the market could be pricing in private information (alliances, funding, turnout looks). But absent that, 73% seems overstated by roughly 25–30 cents.
+---
 
-⚠️ CRITICAL CHECK  
-• Resolution is straightforward: win = highest vote share.  
-• No technicalities appear to bump YES price above ~50%.  
-• The most charitable view is that insiders see Dockweiler consolidating undecideds; but public polls don’t reflect that.
+## 2. EVIDENCE EVALUATION
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is too high: ~50% confidence (polls are strong but incomplete).  
-• Estimated magnitude of mispricing: ~30 cents (73% vs what seems a more realistic 40–50% fair price).  
-• Expected value = 0.50 × 30 cents = 15 cents.
+### Evidence suggesting current market price (82%) might be incorrect
 
-EXPECTED_VALUE: 15.0  
-SUMMARY: Recent February 2026 polls show Dockweiler leading with only ~21.6% in a fragmented field and over half the electorate undecided, which does not support a 73% win probability absent private information. The market’s low volume also hints that a few traders may be overconfident.  
+- **Polling shows only 21.6% support for Dockweiler**, well behind a winning plurality—too low to justify an 82% winning probability ([correodelsur.com](https://correodelsur.com/politica/20260219/dockweiler-lidera-intencion-de-voto-en-la-paz-con-21-6-segun-primera-encuesta-de-ciesmori.html?utm_source=openai)).  
+- The vote is highly **fragmented**, and a 21.6% share with many competitors makes victory far from certain ([abi.bo](https://abi.bo/alcaldias-dockweiler-en-la-paz-y-roca-en-el-alto-encabezan-intencion-de-voto-segun-encuesta-de-ipsos-ciesmori/?utm_source=openai)).  
+- **Incumbent Iván Arias**, despite polling around 10.8%, might benefit from incumbency, name recognition, ongoing projects, and potential consolidation of vote—some assessments project Arias as favorite ([polychances.com](https://polychances.com/polymarket-events/la-paz-mayoral-election-winner-bolivia/?utm_source=openai)).  
+- **High residual vote share**: The Ipsos CIESMORI study indicates ~21% of voters are undecided or cast blank/null votes, adding further uncertainty ([abi.bo](https://abi.bo/alcaldias-dockweiler-en-la-paz-y-roca-en-el-alto-encabezan-intencion-de-voto-segun-encuesta-de-ipsos-ciesmori/?utm_source=openai)).
+
+### Evidence supporting the current market price as reasonable
+
+- Dockweiler is currently the **front-runner in early polls**, leading with 21.6%, a plurality over competitors ([correodelsur.com](https://correodelsur.com/politica/20260219/dockweiler-lidera-intencion-de-voto-en-la-paz-con-21-6-segun-primera-encuesta-de-ciesmori.html?utm_source=openai)).  
+- He has successfully **registered his alliance** (Innovación Humana) to participate, overcoming earlier legal obstacles ([unitel.bo](https://unitel.bo/noticias/politica/cesar-dockweiler-logra-inscribir-la-alianza-innovacion-humana-para-buscar-la-alcaldia-de-la-paz-FF18597147?utm_source=openai)).  
+- As a former manager of Mi Teleférico with visibility and some media coverage outlining his vision ([atb.com.bo](https://www.atb.com.bo/2026/01/07/cesar-dockweiler-expone-su-trabajo-y-vision-rumbo-a-la-alcaldia-de-la-paz/?utm_source=openai)), he may have organizational or campaign strengths not fully reflected in raw polling percentages.
+
+### Source credibility and recency
+
+- The **Ipsos CIESMORI poll**, reported by major outlets (Correo del Sur, Unitel, ABI), was **published on 19 February 2026**, making it very recent and relevant ([correodelsur.com](https://correodelsur.com/politica/20260219/dockweiler-lidera-intencion-de-voto-en-la-paz-con-21-6-segun-primera-encuesta-de-ciesmori.html?utm_source=openai)).  
+- The **analysis projecting Arias as the likely winner**, while from a non-primary source (Polychances GPT-based commentary), is speculative and not based on official polling—its credibility is lower ([polychances.com](https://polychances.com/polymarket-events/la-paz-mayoral-election-winner-bolivia/?utm_source=openai)).
+
+### Bullish vs Bearish perspectives
+
+- **Bullish for Dockweiler**: Leading early polls, organizational legitimacy, background credentials.  
+- **Bearish**: Fragmented vote, low absolute polling share, possibility of a multi-candidate split allowing a lower-polling but unified candidate (like the incumbent) to win, legal/postal uncertainties, high undecided rate.
+
+### Skepticism of obvious claims
+
+- If Dockweiler were truly at 82%, he’d likely poll much higher than 21.6%, suggesting the market may be overly confident based on limited information.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Interpretation justifying 82%**: The market might interpret that marginal lead plus campaign infrastructure gives Dockweiler high chance of consolidating vote before March 22.  
+- **Consensus vs few traders**: Given low volume ($8.6K) and tight spread, the price may reflect a few overconfident traders rather than aggregated information.  
+- **Low volume reasons**: Could indicate that informed traders are not widely participating, possibly due to lack of accessible information, complexity, or lack of trust in polls. Alternatively, consensus might be perceived prematurely.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- **Evidence for mispricing**: The large gap between poll figures (~21.6%) and market-implied probability (~82%) suggests notable mispricing.  
+- **Possible misunderstanding**: Check resolution criteria—market resolves only upon official result, not municipal or winning plurality. No evidence suggests pre-election results would be ambiguous. So misread there seems unlikely.  
+- **Charitable interpretation**: Traders may expect consolidation of fragmented votes, dropouts, or alliances boosting Dockweiler’s share in the final week. Still, that leap from ~22% to >50% required to win seems large without new data.
+
+- **Timeline**: With ten days before election, uncertainty remains high, particularly given fragmented field.
+
+Conclusion: The market seems **overpriced** for Dockweiler—likely mispricing by a substantial margin.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Polling is reliable and recent; I estimate ~80% confidence that the market price is not fully justified by current data.  
+- **Magnitude of mispricing**: Based on 21.6% polling, Dockweiler’s realistic win probability (given fragmentation but no runoffs in mayoral elections) might be around 30–40%. Market assigns 82%, so mispricing ~40–50 cents. Taking conservative 40-cent mispricing.  
+- **Expected value** = Strength × Magnitude = 0.80 × 40 = **32 cents**.
+
+---
+
+## 6. CONFIDENCE
+
+I assess **medium** confidence—polling is recent but election is still uncertain, and unknown late dynamics (alliances, campaign shifts) could alter probabilities.
+
+---
+
+EXPECTED_VALUE: 32  
+SUMMARY: Recent polling gives Dockweiler only ~21.6% support in a fragmented field and solid incumbency advantage elsewhere, making the market’s 82% win probability appear significantly overstated. However, consolidation or unforeseen late shifts remain possible.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Dockweiler lidera intención de voto en La Paz con 21,6%, según primera encuesta de Ciesmori
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://correodelsur.com/politica/20260219/dockweiler-lidera-intencion-de-voto-en-la-paz-con-21-6-segun-primera-encuesta-de-ciesmori.html
-Summary: César Dockweiler, candidate of Innovación Humana, currently leads in voter intention for the La Paz mayoral race with 21.6%, according to the first survey by Ipsos Ciesmori. He holds a significant lead over his closest competitors, Waldo Albarracín (11.9%) and Óscar Sogliano (11.7%). The poll indicates a fragmented electoral landscape, with other candidates receiving notably lower support. While Dockweiler's current lead suggests favorable prospects, the relatively early stage of the campaign and the presence of multiple candidates imply that the outcome remains uncertain and will depend on future campaign developments and voter dynamics.
+### [Dockweiler lidera intención de voto en La Paz con 21,6%, según primera encuesta de Ciesmori](https://correodelsur.com/politica/20260219/dockweiler-lidera-intencion-de-voto-en-la-paz-con-21-6-segun-primera-encuesta-de-ciesmori.html)
+**Author:** Unknown | **Published:** 2026-02-19
 
-Title: Encuesta Unitel: Dockweiler lidera la intención de voto para la Alcaldía de La Paz con el 21,6%; le sigue Albarracín - Oxígeno Digital
-Author: César Sánchez
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://oxigeno.bo/encuesta-unitel-dockweiler-lidera-la-intencion-de-voto-para-la-alcaldia-de-la-paz-con-el-216-le-sigue-albarracin/
-Summary: The recent survey by Unitel indicates that César Dockweiler currently leads the intention to vote for the La Paz mayoral election, with 21.3% support. However, the data is from February 2023 and reflects the current political landscape, which can change significantly over time. There are no indications from this survey about his prospects for the 2026 election, and factors such as shifting voter preferences, campaign developments, and political dynamics over the next few years will influence his chances. Therefore, while Dockweiler is a leading candidate now, predicting his success in the 2026 election remains uncertain based solely on this information.
+Reports Ipsos CIESMORI polling showing Dockweiler leads with 21.6% of vote intention, well ahead of others. This supports the view that he is front-runner but far from majority—thus challenging an 82% implied win probability.
 
-Title: Encuesta de Unitel para alcaldías: Dockweiller lidera en La Paz, Saavedra arrasa en Santa Cruz y Reyes Villa domina en Cochabamba | Visión 360
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.vision360.bo/noticias/2026/02/19/40237-encuesta-de-unitel-para-alcaldias-dockweiller-lidera-en-la-paz-saavedra-arrasa-en-santa-cruz-y-reyes-villa-domina-en-cochabamba
-Summary: César Dockweiler lidera la intención de voto en La Paz con un 21.6%, según una encuesta de Ipsos CIESMORI para Unitel, aunque aún se encuentra en una posición de liderazgo con una proporción relativamente baja en comparación con otros candidatos. La mayoría de los votantes en La Paz aún no tienen decidido su voto, y no hay una mayoría clara que garantice su victoria. Por lo tanto, aunque Dockweiler tiene una ventaja en las encuestas actuales, su triunfo en las elecciones de 2026 no está asegurado y dependerá de cómo evolucione la intención de voto en los próximos meses.
+### [Alcaldías: Dockweiler en La Paz y Roca en El Alto encabezan intención de voto, según encuesta de Ipsos CIESMORI – ABI](https://abi.bo/alcaldias-dockweiler-en-la-paz-y-roca-en-el-alto-encabezan-intencion-de-voto-segun-encuesta-de-ipsos-ciesmori/)
+**Author:** Redacción Central | **Published:** 2026-02-19
 
-Title: Encuesta de Unitel para alcaldías: Dockweiller lidera en La Paz, Saavedra arrasa en Santa Cruz y Reyes Villa domina en Cochabamba | Visión 360
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.vision360.bo/noticias/2026/02/19/40237-encuesta-de-unitel-dockweiller-lidera-en-la-paz-saavedra-arrasa-en-santa-cruz-y-reyes-villa-domina-en-cochabamba
-Summary: César Dockweiler lidera la intención de voto en La Paz con un 21,6%, según una encuesta de Ipsos CIESMORI para Unitel. Aunque ocupa la primera posición, su porcentaje indica que aún no tiene una mayoría absoluta, y en el contexto de una elección con múltiples candidatos, su victoria no está garantizada. La competencia en La Paz es significativa, y otros candidatos, como Waldo Albarracín y Óscar Sogliano, también tienen apoyo considerable. Además, la encuesta no detalla las tendencias de voto a largo plazo ni el comportamiento de los indecisos, por lo que la posibilidad de que Dockweiler gane dependerá de cómo evolucione la intención de voto en las próximas semanas y de la participación electoral.
+Confirms Dockweiler’s 21.6% lead and highlights fragmentation, large undecided and invalid vote shares, reinforcing uncertainty and contestability of his election prospects.
 
-Title: Revilla, Loza y Camacho lideran intención de voto en La Paz, Cochabamba y Santa Cruz - Brújula Noticias
-Author: Brújula Noticias
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://brujuladigital.net/politica/2026/02/19/revilla-loza-y-camacho-lideran-intencion-de-voto-en-la-paz-cochabamba-y-santa-cruz-57426
-Summary: A recent Ipsos Ciesmori survey for Unitel indicates that in La Paz, the current political landscape shows a highly fragmented electorate, with no clear frontrunner for the mayoral race. The leading candidate, Patria Sol, holds 17.4% of voter support, but there is a significant portion of voters who are undecided or favoring blank or null votes, totaling over 50%. This suggests a competitive and uncertain race, making it difficult to predict whether César Dockweiler will win the 2026 La Paz mayoral election based solely on current polling data.
+### [Polymarket Odds: La Paz Mayoral Election Winner (Bolivia) (AI Predictions)](https://polychances.com/polymarket-events/la-paz-mayoral-election-winner-bolivia/)
+**Author:** Unknown | **Published:** Unknown (recent)
 
+Presents analysis favoring incumbent Iván Arias with 62% probability, based on incumbency advantage and vote fragmentation—counterpoint to overly confident market price, indicating support for a lower likelihood of Dockweiler winning.
 
+### [César Dockweiler logra inscribir la alianza Innovación Humana para buscar la Alcaldía de La Paz](https://unitel.bo/noticias/politica/cesar-dockweiler-logra-inscribir-la-alianza-innovacion-humana-para-buscar-la-alcaldia-de-la-paz-FF18597147)
+**Author:** Unknown | **Published:** 2025-12-16
+
+Documents Dockweiler's successful registration of his alliance, confirming his candidacy is valid; supports viability but doesn’t support such a high market probability.

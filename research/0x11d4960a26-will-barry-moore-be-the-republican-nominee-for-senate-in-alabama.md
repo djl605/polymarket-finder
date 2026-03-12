@@ -1,87 +1,130 @@
 # Research: Will Barry Moore be the Republican nominee for Senate in Alabama?
 
 **Market ID:** 0x11d4960a26b0696cb8c854e409944e8a69fefba21c68554187f29615ff5d3457
-**Researched At:** March 6, 2026 at 02:48:13 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Barry Moore be the Republican nominee for Senate in Alabama?"
+**Researched At:** March 12, 2026 at 04:13:30 AM UTC
+**Search Query:** "Will Barry Moore be the Republican nominee for Senate in Alabama?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 4.2¢
 
 ### Summary
 
-February polling showing Moore at 33% support, backed by Trump-Vance endorsements and dual fundraising, aligns with a ~75% win probability and leaves little room for >10 cent mispricing. Uncertainties around run-off dynamics may justify a minor downward tweak but not a large correction.
+Recent polling and endorsement data support Barry Moore as the frontrunner in the May 19, 2026 Alabama GOP Senate primary, but high undecided voter levels and dynamic campaign developments mean the 77.5% market probability may be somewhat optimistic. There is plausible room for modest mispricing, though no strong evidence of a large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Barry Moore will win the May 19, 2026 Alabama Republican U.S. Senate primary (including any run-off if needed). A “Yes” requires Moore to finish first in that GOP primary; any other winner or no primary → “No.”
+Here is a rigorous, structured evaluation following your requested framework:
 
-2. EVIDENCE EVALUATION  
-Bullish evidence for Moore (supports ~76%):  
-• Multiple February polls (e.g. 33% support among likely GOP primary voters) show Moore leading by double‐digits over the next candidate in a crowded field.  
-• He has high-profile endorsements from Donald Trump, JD Vance, and Club for Growth funding.  
-• He outraised rivals nearly 2:1, with $842K cash on hand—critical for ground game in a state with run-off rules.  
+---
 
-Bearish / uncertainty factors (would argue price too high):  
-• No single poll shows Moore above 50%, so a run-off is nearly certain, adding additional uncertainty.  
-• Other established figures (e.g., AG Steve Marshall) may consolidate establishment GOP voters in the run-off.  
-• Low overall polling volume; one major poll doesn’t guarantee stability of lead over two months.  
+## 1. CONTEXT ANALYSIS
 
-All sources are recent (Feb 2026) and credible (state political outlets, national endorsements). There is no clear counter-poll or emerging scandal to suggest a >10–20% swing is imminent.
+The market in question asks: *Will Barry Moore be the Republican nominee for U.S. Senate in Alabama?*  
+- A "YES" outcome requires Barry Moore to win the May 19, 2026 Republican primary for U.S. Senate (or for the market to resolve via an overwhelming credible reporting consensus).  
+- A "NO" outcome would be realized if any other candidate—including Steve Marshall, Jared Hudson, Rodney Walker, Dale Deas Jr., Seth Burton, or "Other" (e.g., no primary held)—wins the nomination.  
 
-3. MARKET EFFICIENCY ANALYSIS  
-The 76% price can be justified as a consensus of informed traders: known frontrunner with superior resources and Trump backing in a deep-red state. Low volume likely reflects general agreement rather than neglect; most politically plugged traders have little new to add. A modest run-off risk (~20–25%) is baked into the market, consistent with a leading candidate polling in the low 30s.
+---
 
-4. MISPRICING ASSESSMENT  
-No specific, credible evidence indicates a large mispricing. The leading poll and fundraising data align with a ~75% win prob (polling lead in a seven-way race, plus organizational advantages). If anything, uncertainty around run-off dynamics suggests a small downward adjustment (<10 cents), not a major correction.
+## 2. EVIDENCE EVALUATION
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 30% (some run-off uncertainty but no strong bearish data)  
-Estimated magnitude of mispricing: 5 cents (max plausible downward move)  
-Expected value = 0.30 × 5 cents = 1.5 cents
+### Evidence suggesting the current market price (77.5%) might be incorrect
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: February polling showing Moore at 33% support, backed by Trump-Vance endorsements and dual fundraising, aligns with a ~75% win probability and leaves little room for >10 cent mispricing. Uncertainties around run-off dynamics may justify a minor downward tweak but not a large correction.  
+- **High undecided share in polls**: The March 2–4, 2026 Remington Research Group poll shows Barry Moore leading with only 22%, while 47% remain undecided ([breitbart.com](https://www.breitbart.com/politics/2026/03/10/poll-rep-barry-moore-leading-alabama-gop-senate-primary-field-22-nearly-half-voters-undecided/?utm_source=openai)). This large undecided bloc indicates potential volatility and mispricing risk.
+  
+- **Flip-flopping polling trend**: Earlier polling (August 2025) showed Steve Marshall with a commanding lead (37% vs Moore’s 16%), suggesting Moore’s surge is relatively recent and may not yet reflect durable momentum ([img1.wsimg.com](https://img1.wsimg.com/blobby/go/9eb36053-c232-4b6e-a876-3e9f926c6add/Inaugural%20AL%20Poll%20Executive%20Summary%20%28Edited%29%200.pdf?utm_source=openai)).
+
+- **Hypothetical endorsement scenario**: The Peak Insights poll showing Moore at 33% only when respondents are explicitly told he has Trump’s endorsement may not reflect organic support—raising questions about whether that knowledge is broadly disseminated or assumed by the market ([breitbart.com](https://www.breitbart.com/politics/2026/02/03/exclusive-alabama-poll-trump-endorsement-fuels-surge-for-barry-moore-in-senate-race/?utm_source=openai)).
+
+### Evidence supporting the market price as reasonable
+
+- **Endorsements and funding**: Moore has strong backing from Trump, the Senate Conservatives Fund, and Club for Growth; additionally, a multi-million-dollar ad campaign is already underway ([alabamagazette.com](https://www.alabamagazette.com/story/2025/08/20/news/span-classbrnwsbreaking-news-spansenate-conservatives-fund-endorses-barry-moore-for-us-senate-in-alabama/7693.html?utm_source=openai)).
+
+- **Recent polling lead**: A Remington poll (March 2026) shows Moore leading the field (22%) with Marshall at 16% and Hudson at 12% ([yellowhammernews.com](https://yellowhammernews.com/poll-steve-marshall-slips-to-second-barry-moore-takes-control-of-2026-gop-field-for-u-s-senate/?utm_source=openai)).
+
+- **Consistent campaign narrative**: Moore’s messaging—grounded in conservative credentials and early Trump alignment—has been well-established since August 2025 ([apnews.com](https://apnews.com/article/0586cd42d2b5a068a4eef1ad9bf33ff7?utm_source=openai)).
+
+### Source credibility and recency
+
+- Recent polls (March and February 2026) are timely and professionally conducted (±3.7% and ±5% margins of error) ([yellowhammernews.com](https://yellowhammernews.com/poll-steve-marshall-slips-to-second-barry-moore-takes-control-of-2026-gop-field-for-u-s-senate/?utm_source=openai)).  
+- Historical polls (mid‑2025) show prior trends but are less predictive of current dynamics ([alabamagazette.com](https://www.alabamagazette.com/story/2025/07/15/news/new-poll-shows-steve-marshall-with-a-clear-early-lead-in-senate-race/7262.html?utm_source=openai)).  
+- Endorsement and ad funding data are from reputable outlets (Alabama Gazette, Breitbart) and are recent (late 2025–early 2026) ([breitbart.com](https://www.breitbart.com/politics/2026/02/25/exclusive-barry-moore-rolls-out-six-figure-alabama-senate-ad-buy-touting-trump-endorsement-as-gop-nods-mount/?utm_source=openai)).
+
+### Balanced perspectives
+
+- **Bullish case**: Endorsements and funding likely bolster Moore’s campaign effectiveness and name recognition, justifying a premium in market pricing.  
+- **Bearish case**: High undecided numbers and potential over-reliance on endorsement messaging pose significant uncertainty. If undecideds break toward another candidate, the market could shift drastically.
+
+---
+
+## 3. MARKET EFFICIENCY ANALYSIS
+
+- **Reasonable interpretation of current price**: The 77.5% reflects broad confidence that Moore’s endorsements and funding put him significantly ahead—but not certain. Given heavy advertising and sustained momentum, the market may be pricing in that advantage.
+
+- **Consensus vs. limited participants**: Given the low volume ($4,705) and tight 1¢ spread, the price might be set by a small number of active traders potentially aligned in interpreting Moore’s advantages optimistically.
+
+- **Low volume drivers**:
+  - Could indicate that the race appears straightforward to most, leading to minimal trading.
+  - Alternatively, seasoned traders may avoid illiquid markets, leaving pricing to a few enthusiastic participants.
+
+---
+
+## 4. MISPRICING ASSESSMENT
+
+- Is there credible evidence that the market is mispriced by over ~20¢? Probably not.  
+- The race remains highly uncertain, with only pluralities for Moore and nearly half undecided. Thus, even with strong endorsement support, a 77.5% probability may be slightly aggressive but not obviously irrational.
+
+- **Key uncertainties**:
+  - Will undecided voters break toward Moore or alternatives?
+  - Will Trump’s endorsement maintain or accelerate momentum?
+  - Could stronger ground operations or late surges from Marshall or Hudson change the race?
+
+These risks suggest that while Moore is leading, significant uncertainty remains—making a modest overpricing (+5–10¢) possible, but large mispricing unlikely.
+
+---
+
+## 5. EXPECTED VALUE CALCULATION
+
+- **Strength of evidence**: Moderate—clear data supports Moore leading, endorsement impact is real, but undecided share is substantial. I'd rate at ~60%.  
+- **Magnitude of mispricing**: If mispriced, likely small—perhaps 7 cents (0.07).  
+- **Expected value**: 60% × 7 cents = 4.2 cents.
+
+---
+
+EXPECTED_VALUE: 4.2  
+SUMMARY: Recent polling and endorsement data support Barry Moore as the frontrunner in the May 19, 2026 Alabama GOP Senate primary, but high undecided voter levels and dynamic campaign developments mean the 77.5% market probability may be somewhat optimistic. There is plausible room for modest mispricing, though no strong evidence of a large mispricing.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Barry Moore Surges into Lead in Alabama Senate Race
-Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://alpolitics.com/barry-moore-surges-into-lead-in-alabama-senate-race/
-Summary: Barry Moore is currently the leading candidate for the Republican U.S. Senate nomination in Alabama. Recent polls, especially after receiving President Trump’s endorsement, show Moore with a significant advantage, capturing 33% support among likely Republican primary voters—well ahead of his closest competitor, Alabama Attorney General Steve Marshall. Moore’s strong fundraising performance, with nearly double the funds of his rivals and over $842,000 cash on hand, further solidifies his organizational strength and voter support. His alignment with Trump’s America First agenda and grassroots appeal position him favorably as the primary approaches in May 2026. Based on current polling, endorsements, and financial backing, Moore is the most likely Republican nominee for the Alabama Senate seat.
+### [Poll: Rep. Barry Moore Leading Alabama GOP Senate Primary Field with Nearly Half of Voters Undecided](https://www.breitbart.com/politics/2026/03/10/poll-rep-barry-moore-leading-alabama-gop-senate-primary-field-22-nearly-half-voters-undecided/)
+**Author:** Jasmyn Jordan | **Published:** 2026-03-10
 
-Title: Trump endorsement makes Barry Moore prohibitive favorite in U.S. Senate race | Opinion | jcsentinel.com
-Author: Steve Flowers
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://jcsentinel.com/opinion/article_aa1f0d22-bdf3-424c-b903-1f48ba42408a.html
-Summary: Barry Moore is the prohibitive favorite to secure the Republican nomination for Alabama's U.S. Senate seat, largely due to President Donald Trump's endorsement and the backing of the influential Club for Growth. Moore, a staunch conservative with a long-standing support for Trump, has a strong electoral record, including recent victories in congressional races. His deep roots in Alabama and alignment with conservative values position him as the leading candidate to become the Republican nominee in the upcoming primary.
+Reports the March 2–4 Remington Research Group poll showing Barry Moore leading with 22%, followed by Steve Marshall at 16%, Jared Hudson at 12%, and 47% undecided. Suggests that while Moore leads, a large portion of the electorate remains uncommitted, introducing significant uncertainty. Supports both the argument that Moore has a lead and the counterpoint that it may not be secure.
 
-Title: Opinion | Trump endorsement makes Barry Moore prohibitive favorite in U.S. Senate race
-Author: Steve Flowers
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.alreporter.com/2026/02/18/opinion-trump-endorsement-makes-barry-moore-prohibitive-favorite-in-u-s-senate-race/
-Summary: Barry Moore is highly likely to secure the Republican nomination for Alabama's U.S. Senate seat. His strong endorsement from former President Donald Trump and support from the influential Club for Growth position him as the prohibitive favorite in the upcoming primary. Moore's consistent conservative voting record, longstanding support for Trump, and recent electoral victories—particularly his upset win over a more establishment-backed opponent—further bolster his prospects. Given these factors, Moore is poised to become Alabama's Republican nominee for the Senate.
+### [Exclusive — Alabama Poll: Trump Endorsement Fuels Surge for Barry Moore in Senate Race](https://www.breitbart.com/politics/2026/02/03/exclusive-alabama-poll-trump-endorsement-fuels-surge-for-barry-moore-in-senate-race/)
+**Author:** Jasmyn Jordan | **Published:** 2026-02-03
 
-Title: JD Vance endorses Barry Moore in race for Tuberville’s Senate seat - al.com
-Author: Heather Gann | hgann@al.com
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.al.com/politics/2026/02/2028-presidential-frontrunner-reveals-his-endorsement-in-race-for-tubervilles-senate-seat.html
-Summary: Barry Moore, a longtime Alabama politician and supporter of the Trump agenda, has received high-profile endorsements from Vice President JD Vance and former President Donald Trump for his bid to replace Senator Tommy Tuberville in Alabama. Moore is running in the Republican primary against six other candidates, including Alabama Attorney General Steve Marshall, with the primary scheduled for May 19, 2026. His strong backing from prominent national Republicans and his established political career—serving in the Alabama House since 2010 and in Congress since 2020—position him as a significant contender. However, as the race includes multiple candidates, his ultimate success in securing the Republican nomination remains uncertain.
+Presents a Peak Insights poll showing Moore at 33% when respondents are told explicitly that Trump endorsed him, versus 18% for Marshall, and 11% for Hudson—with over 30% undecided. Illustrates the endorsement’s hypothetical impact while underscoring that awareness may vary among voters; supports potential but not certain boost.
 
-Title: Steve Flowers: Trump endorsement makes Barry Moore prohibitive favorite in U.S. Senate race - Yellowhammer News
-Author: Steve Flowers
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://yellowhammernews.com/steve-flowers-trump-endorsement-makes-barry-moore-prohibitive-favorite-in-u-s-senate-race/
-Summary: Barry Moore is highly likely to become the Republican nominee for Alabama's U.S. Senate seat, primarily due to President Donald Trump's strong endorsement and the support of the influential, well-funded Club for Growth. Moore's consistent conservative voting record, his early support for Trump, and his recent victory over a more establishment-aligned opponent with the backing of the Club suggest he has a significant advantage in the upcoming primary. These factors position Moore as the prohibitive favorite to secure the Republican nomination.
+### [Senate Conservatives Fund Endorses Barry Moore for U.S. Senate in Alabama](https://www.alabamagazette.com/story/2025/08/20/news/span-classbrnwsbreaking-news-spansenate-conservatives-fund-endorses-barry-moore-for-us-senate-in-alabama/7693.html)
+**Author:** Unknown | **Published:** 2025-08-20
 
+Describes early endorsement from the Senate Conservatives Fund, positioning Moore as the grassroots conservative favorite in the 2026 GOP primary for Senate. Indicates strong ideological and structural backing early in the race, supporting the bullish case.
 
+### [EXCLUSIVE–Barry Moore Rolls Out Six-Figure Alabama Senate Ad Buy Touting Trump Endorsement as GOP Nods Mount](https://www.breitbart.com/politics/2026/02/25/exclusive-barry-moore-rolls-out-six-figure-alabama-senate-ad-buy-touting-trump-endorsement-as-gop-nods-mount/)
+**Author:** Jasmyn Jordan | **Published:** 2026-02-25
+
+Details major ad spending by Moore’s campaign (six-figure) and affiliated Super PAC ($5 million), all highlighting Trump’s endorsement. Signals Moore’s strong financial resources and campaign infrastructure, supporting why the market might rate him highly.
+
+### [New Poll Shows Steve Marshall with a Clear Early Lead in Senate Race](https://www.alabamagazette.com/story/2025/07/15/news/new-poll-shows-steve-marshall-with-a-clear-early-lead-in-senate-race/7262.html)
+**Author:** Unknown | **Published:** 2025-07-22
+
+Reports July 2025 poll showing Steve Marshall leading with 37% to Moore's 12%, with 40% undecided. Indicates earlier advantage for Marshall and suggests Moore’s later rise could still be contested; relevant to assessing volatility and potential mispricing risk based on shifting trends.
