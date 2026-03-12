@@ -34,7 +34,7 @@ export async function main() {
     console.log(`     - Alert cooldown: ${config.alertCooldownDays} days`);
     console.log(`     - Max alerts per run: ${config.maxAlertsPerRun}`);
     console.log(`   AI:`);
-    console.log(`     - Reasoning: ${config.openaiApiKey ? 'OpenAI' : 'Disabled'}`);
+    console.log(`     - Model: ${config.openaiModel}`);
     console.log(`     - Research: OpenAI Web Search`);
     console.log(`     - Concurrent analyses: ${config.maxConcurrentAnalyses}`);
     console.log(`     - Verbose logs: ${config.verboseLogs ? 'Enabled' : 'Disabled'}\n`);
@@ -45,9 +45,10 @@ export async function main() {
     const researchFileManager = new ResearchFileManager('research');
     const aiResearcher = new AIResearcher(
       config.openaiApiKey,
+      config.openaiModel,
       config.maxConcurrentAnalyses,
       config.verboseLogs,
-      researchFileManager
+      researchFileManager,
     );
     const notifier = new DiscordNotifier(config.discordWebhookUrl, config.githubRepo, researchFileManager);
     const stateManager = new StateManager('state.json', config.cacheMinAgeDays, config.cacheMaxAgeDays);
@@ -245,7 +246,7 @@ export async function main() {
 
     // Send summary
     const totalRuntime = (Date.now() - mainStartTime) / 1000;
-    const costBreakdown = aiResearcher.getCostBreakdown();
+    const costBreakdown = aiResearcher.getCostBreakdown() ?? undefined;
     await notifier.sendSummary(totalFetched, totalScreened, newAnalysesCount, cachedAnalysesCount, skippedCount, totalRuntime, costBreakdown);
 
     // Print stats

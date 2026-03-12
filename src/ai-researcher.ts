@@ -23,16 +23,43 @@ export interface CostBreakdown {
   usage: AccumulatedUsage;
 }
 
-// gpt-4.1 pricing — must be updated if model in callResearchModel() changes
-const PRICING = {
-  inputPerToken: 2.00 / 1_000_000,
-  cachedInputPerToken: 0.50 / 1_000_000,
-  outputPerToken: 8.00 / 1_000_000,
-  webSearchPerCall: 10.00 / 1_000,
+interface ModelPricing {
+  inputPerToken: number;
+  cachedInputPerToken: number;
+  outputPerToken: number;
+  webSearchPerCall: number;
+}
+
+// Per-model pricing (USD). Add new models here when switching.
+const MODEL_PRICING: Record<string, ModelPricing> = {
+  'gpt-4.1': {
+    inputPerToken: 2.00 / 1_000_000,
+    cachedInputPerToken: 0.50 / 1_000_000,
+    outputPerToken: 8.00 / 1_000_000,
+    webSearchPerCall: 10.00 / 1_000,
+  },
+  'gpt-4.1-mini': {
+    inputPerToken: 0.40 / 1_000_000,
+    cachedInputPerToken: 0.10 / 1_000_000,
+    outputPerToken: 1.60 / 1_000_000,
+    webSearchPerCall: 10.00 / 1_000,
+  },
+  'gpt-4.1-nano': {
+    inputPerToken: 0.10 / 1_000_000,
+    cachedInputPerToken: 0.025 / 1_000_000,
+    outputPerToken: 0.40 / 1_000_000,
+    webSearchPerCall: 10.00 / 1_000,
+  },
+  'gpt-5-mini': {
+    inputPerToken: 0.25 / 1_000_000,
+    cachedInputPerToken: 0.025 / 1_000_000,
+    outputPerToken: 2.00 / 1_000_000,
+    webSearchPerCall: 10.00 / 1_000,
+  },
 };
 
 /**
- * Uses OpenAI gpt-4.1 with web_search for research + reasoning in a single call
+ * Uses OpenAI with web_search for research + reasoning in a single call
  */
 export class AIResearcher {
   private activeCalls = 0;
@@ -40,17 +67,22 @@ export class AIResearcher {
   private readonly minDelayMs = 100;
   private readonly verboseLogs: boolean;
   private readonly openaiClient: OpenAI;
+  private readonly model: string;
+  private readonly pricing: ModelPricing | null;
   private usage: AccumulatedUsage = { inputTokens: 0, cachedInputTokens: 0, outputTokens: 0, webSearchCalls: 0 };
 
   constructor(
     openaiApiKey: string,
+    model: string,
     maxConcurrentCalls: number = 10,
     verboseLogs: boolean = false,
-    private researchFileManager?: ResearchFileManager
+    private researchFileManager?: ResearchFileManager,
   ) {
     this.maxConcurrentCalls = maxConcurrentCalls;
     this.verboseLogs = verboseLogs;
     this.openaiClient = new OpenAI({ apiKey: openaiApiKey });
+    this.model = model;
+    this.pricing = MODEL_PRICING[model] ?? null;
   }
 
   /**
@@ -63,13 +95,15 @@ export class AIResearcher {
   /**
    * Get cost breakdown by category (lower bound — web search sub-calls may not be fully counted)
    */
-  getCostBreakdown(): CostBreakdown {
+  getCostBreakdown(): CostBreakdown | null {
+    if (!this.pricing) return null;
+
     const nonCachedInput = this.usage.inputTokens - this.usage.cachedInputTokens;
     const total =
-      nonCachedInput * PRICING.inputPerToken +
-      this.usage.cachedInputTokens * PRICING.cachedInputPerToken +
-      this.usage.outputTokens * PRICING.outputPerToken +
-      this.usage.webSearchCalls * PRICING.webSearchPerCall;
+      nonCachedInput * this.pricing.inputPerToken +
+      this.usage.cachedInputTokens * this.pricing.cachedInputPerToken +
+      this.usage.outputTokens * this.pricing.outputPerToken +
+      this.usage.webSearchCalls * this.pricing.webSearchPerCall;
 
     return {
       total,
@@ -199,13 +233,13 @@ export class AIResearcher {
   }
 
   /**
-   * Call OpenAI gpt-4.1 with web_search for research + reasoning
+   * Call OpenAI with web_search for research + reasoning
    * Throws descriptive errors for upstream handling
    */
   private async callResearchModel(prompt: string): Promise<string> {
     try {
       const response = await this.openaiClient.responses.create({
-        model: 'gpt-4.1',
+        model: this.model,
         tools: [
           {
             type: 'web_search',
@@ -266,7 +300,7 @@ export class AIResearcher {
   }
 
   /**
-   * Build a prompt for gpt-4.1 with web search + reasoning.
+   * Build a prompt for the configured model with web search + reasoning.
    *
    * Structure: all static instructions first, dynamic market data last.
    * OpenAI caches the longest matching input prefix, so keeping the static

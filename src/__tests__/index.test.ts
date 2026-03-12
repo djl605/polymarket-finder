@@ -53,6 +53,7 @@ describe('Bot Orchestration', () => {
     alertCooldownDays: 7,
     maxAlertsPerRun: 5,
     maxConcurrentAnalyses: 10,
+    openaiModel: 'gpt-5-mini',
     verboseLogs: false,
     githubRepo: 'test-owner/test-repo',
   };
@@ -155,9 +156,10 @@ describe('Bot Orchestration', () => {
       expect(MarketScorer).toHaveBeenCalledWith(mockConfig.screening);
       expect(AIResearcher).toHaveBeenCalledWith(
         mockConfig.openaiApiKey,
+        mockConfig.openaiModel,
         mockConfig.maxConcurrentAnalyses,
         mockConfig.verboseLogs,
-        expect.any(Object) // ResearchFileManager
+        expect.any(Object), // ResearchFileManager
       );
       expect(DiscordNotifier).toHaveBeenCalledWith(
         mockConfig.discordWebhookUrl, 

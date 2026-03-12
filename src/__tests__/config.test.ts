@@ -25,9 +25,17 @@ describe('Config', () => {
       expect(() => loadConfig()).toThrow('OPENAI_API_KEY environment variable is required');
     });
 
+    it('should throw error if OPENAI_MODEL is missing', () => {
+      process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
+      process.env.OPENAI_API_KEY = 'sk-test';
+      delete process.env.OPENAI_MODEL;
+      expect(() => loadConfig()).toThrow('OPENAI_MODEL environment variable is required');
+    });
+
     it('should load config with default values', () => {
       process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
       process.env.OPENAI_API_KEY = 'sk-test';
+      process.env.OPENAI_MODEL = 'gpt-4.1-mini';
 
       const config = loadConfig();
 
@@ -49,6 +57,7 @@ describe('Config', () => {
     it('should load config with custom values from environment', () => {
       process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/custom';
       process.env.OPENAI_API_KEY = 'sk-test-key';
+      process.env.OPENAI_MODEL = 'gpt-4.1';
       process.env.MIN_MARKET_AGE_DAYS = '14';
       process.env.MAX_MARKET_VOLUME_DOLLARS = '5000';
       process.env.MAX_SPREAD_CENTS = '10';
@@ -75,12 +84,14 @@ describe('Config', () => {
       expect(config.alertCooldownDays).toBe(14);
       expect(config.maxAlertsPerRun).toBe(10);
       expect(config.maxConcurrentAnalyses).toBe(20);
+      expect(config.openaiModel).toBe('gpt-4.1');
       expect(config.verboseLogs).toBe(true);
     });
 
     it('should parse numeric values correctly', () => {
       process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
       process.env.OPENAI_API_KEY = 'sk-test';
+      process.env.OPENAI_MODEL = 'gpt-4.1-mini';
       process.env.MIN_MARKET_AGE_DAYS = '3.5';
       process.env.MAX_MARKET_VOLUME_DOLLARS = '15000.75';
       process.env.MAX_SPREAD_CENTS = '8.2';
@@ -95,6 +106,7 @@ describe('Config', () => {
     it('should enforce minimum value of 1 for maxConcurrentAnalyses', () => {
       process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
       process.env.OPENAI_API_KEY = 'sk-test';
+      process.env.OPENAI_MODEL = 'gpt-4.1-mini';
       process.env.MAX_CONCURRENT_ANALYSES = '0';
 
       const config = loadConfig();
@@ -105,6 +117,7 @@ describe('Config', () => {
     it('should handle negative maxConcurrentAnalyses', () => {
       process.env.DISCORD_WEBHOOK_URL = 'https://discord.com/webhook/test';
       process.env.OPENAI_API_KEY = 'sk-test';
+      process.env.OPENAI_MODEL = 'gpt-4.1-mini';
       process.env.MAX_CONCURRENT_ANALYSES = '-5';
 
       const config = loadConfig();
