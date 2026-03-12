@@ -132,6 +132,7 @@ export interface Config {
   alertCooldownDays: number;
   maxAlertsPerRun: number;
   maxConcurrentAnalyses: number;
+  openaiModel: string;
   verboseLogs: boolean;
   githubRepo?: string; // Optional GitHub repository (e.g., "owner/repo")
 }

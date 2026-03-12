@@ -106,7 +106,7 @@ describe('AIResearcher', () => {
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const result = await researcher.analyzeMarket(market);
 
       expect(result.marketId).toBe('cond123');
@@ -117,7 +117,7 @@ describe('AIResearcher', () => {
 
       // Verify the Responses API was called with web_search tool
       const callArgs = mockCreate.mock.calls[0][0];
-      expect(callArgs.model).toBe('gpt-4.1');
+      expect(callArgs.model).toBe('gpt-5-mini');
       expect(callArgs.tools).toEqual(
         expect.arrayContaining([
           expect.objectContaining({ type: 'web_search' }),
@@ -129,7 +129,7 @@ describe('AIResearcher', () => {
       const mockCreate = jest.fn().mockRejectedValue(new Error('API error'));
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -149,7 +149,7 @@ describe('AIResearcher', () => {
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -164,7 +164,7 @@ describe('AIResearcher', () => {
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -179,7 +179,7 @@ describe('AIResearcher', () => {
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -197,7 +197,7 @@ CONFIDENCE: medium`),
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -228,7 +228,7 @@ CONFIDENCE: medium`),
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
       const logBuffer: string[] = [];
 
@@ -246,7 +246,7 @@ CONFIDENCE: medium`),
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       const result = await researcher.analyzeMarket(market);
@@ -262,7 +262,7 @@ CONFIDENCE: medium`),
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
       const logBuffer: string[] = [];
 
@@ -296,7 +296,7 @@ Summary: This should be skipped
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
       const logBuffer: string[] = [];
 
@@ -314,7 +314,7 @@ Summary: This should be skipped
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       await researcher.analyzeMarket(market);
@@ -325,12 +325,12 @@ Summary: This should be skipped
       expect(usage.outputTokens).toBe(1000);
       expect(usage.webSearchCalls).toBe(2);
 
-      const cost = researcher.getCostBreakdown().total;
-      // (400 non-cached * $2/M) + (100 cached * $0.50/M) + (1000 output * $8/M) + (2 searches * $0.01)
+      const cost = researcher.getCostBreakdown()!.total;
+      // gpt-5-mini pricing: (400 non-cached * $0.25/M) + (100 cached * $0.025/M) + (1000 output * $2.00/M) + (2 searches * $0.01)
       const expected =
-        400 * (2.00 / 1_000_000) +
-        100 * (0.50 / 1_000_000) +
-        1000 * (8.00 / 1_000_000) +
+        400 * (0.25 / 1_000_000) +
+        100 * (0.025 / 1_000_000) +
+        1000 * (2.00 / 1_000_000) +
         2 * (10.00 / 1_000);
       expect(cost).toBeCloseTo(expected, 6);
     });
@@ -341,7 +341,7 @@ Summary: This should be skipped
       );
       MockedOpenAI.mockImplementation(() => createMockOpenAIClient(mockCreate));
 
-      const researcher = new AIResearcher(mockOpenAIKey);
+      const researcher = new AIResearcher(mockOpenAIKey, 'gpt-5-mini');
       const market = createMockScreenedMarket();
 
       await researcher.analyzeMarket(market);

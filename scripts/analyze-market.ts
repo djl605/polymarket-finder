@@ -99,9 +99,15 @@ async function main() {
 
   // Load API keys from environment
   const openaiApiKey = process.env.OPENAI_API_KEY;
+  const openaiModel = process.env.OPENAI_MODEL;
 
   if (!openaiApiKey) {
     console.error('❌ Error: OPENAI_API_KEY environment variable is required');
+    process.exit(1);
+  }
+
+  if (!openaiModel) {
+    console.error('❌ Error: OPENAI_MODEL environment variable is required');
     process.exit(1);
   }
 
@@ -224,8 +230,9 @@ async function main() {
   // Initialize AI researcher (no research file manager for console output only)
   const aiResearcher = new AIResearcher(
     openaiApiKey,
+    openaiModel,
     1, // Single concurrent call
-    verboseLogs
+    verboseLogs,
   );
 
   console.log('🤖 Running AI analysis...\n');

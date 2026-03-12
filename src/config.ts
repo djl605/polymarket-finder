@@ -6,6 +6,7 @@ import { Config } from './types';
 export function loadConfig(): Config {
   const discordWebhookUrl = process.env.DISCORD_WEBHOOK_URL;
   const openaiApiKey = process.env.OPENAI_API_KEY;
+  const openaiModel = process.env.OPENAI_MODEL;
 
   if (!discordWebhookUrl) {
     throw new Error('DISCORD_WEBHOOK_URL environment variable is required');
@@ -13,6 +14,10 @@ export function loadConfig(): Config {
 
   if (!openaiApiKey) {
     throw new Error('OPENAI_API_KEY environment variable is required');
+  }
+
+  if (!openaiModel) {
+    throw new Error('OPENAI_MODEL environment variable is required');
   }
 
   return {
@@ -30,6 +35,7 @@ export function loadConfig(): Config {
     alertCooldownDays: parseInt(process.env.ALERT_COOLDOWN_DAYS || '7', 10),
     maxAlertsPerRun: parseInt(process.env.MAX_ALERTS_PER_RUN || '5', 10),
     maxConcurrentAnalyses: Math.max(1, parseInt(process.env.MAX_CONCURRENT_ANALYSES || '10', 10)),
+    openaiModel,
     verboseLogs: process.env.VERBOSE_LOGS === 'true',
     githubRepo: process.env.GITHUB_REPOSITORY, // Available in GitHub Actions
   };
