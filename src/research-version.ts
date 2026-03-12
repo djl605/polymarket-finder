@@ -18,5 +18,6 @@
  * - 2.1: Switched from gpt-5.4 to gpt-4.1 for better cost/quality balance.
  * - 2.2: Restructured prompt to put static instructions first and dynamic market data last, maximizing OpenAI input prefix caching.
  * - 2.3: Switched from gpt-4.1 to gpt-5-mini for lower cost and better reasoning. Model is now configurable via OPENAI_MODEL env var.
+ * - 2.4: Limited web search budget to 3 searches per market to reduce costs.
  */
-export const RESEARCH_VERSION = '2.3';
+export const RESEARCH_VERSION = '2.4';

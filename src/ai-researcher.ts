@@ -246,6 +246,9 @@ export class AIResearcher {
             search_context_size: 'high',
           },
         ],
+        reasoning: {
+          effort: "medium",
+        },
         input: prompt,
       });
 
@@ -322,7 +325,7 @@ export class AIResearcher {
 
     return `You are an analyst evaluating prediction markets for evidence of mispricing.
 
-Use web search to research the topic. Search for recent news, analyses, and discussions relevant to predicting the outcome. Exclude prediction market sites (polymarket.com, kalshi.com, metaculus.com, manifold.markets) from your searches — focus on primary sources like news outlets, government sites, and expert analyses. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
+Use web search to research the topic. You have a BUDGET OF 3 WEB SEARCHES — plan them carefully to maximize information gathered. Before searching, think about what specific questions you need answered and craft broad, high-yield queries that will surface the most relevant results. Exclude prediction market sites (polymarket.com, kalshi.com, metaculus.com, manifold.markets) from your searches — focus on primary sources like news outlets, government sites, and expert analyses. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
 
 IMPORTANT CONTEXT:
 This market has low total trading volume and a tight bid-ask spread. Low volume markets present a mixed picture:
@@ -331,7 +334,7 @@ This market has low total trading volume and a tight bid-ask spread. Low volume 
 - They may be overlooked by informed traders who could correct mispricings
 
 TASK:
-Research this topic thoroughly, then objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Use chain-of-thought reasoning to analyze the following:
+Research this topic thoroughly, then objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Keep researching until you have enough information to come to a conclusion or until you are satisfied that there is insufficient information available to come to a conclusion. Analyze the following:
 
 1. CONTEXT ANALYSIS: What is this market asking about? What would need to happen for it to resolve as YES vs NO?
 
