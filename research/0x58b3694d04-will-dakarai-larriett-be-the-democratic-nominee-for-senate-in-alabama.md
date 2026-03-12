@@ -1,112 +1,131 @@
 # Research: Will Dakarai Larriett be the Democratic nominee for Senate in Alabama?
 
 **Market ID:** 0x58b3694d040e4daee5afcb3123e369664f4e472906f53586c3e70bbca8ef9042
-**Researched At:** March 1, 2026 at 06:00:25 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Dakarai Larriett be the Democratic nominee for Senate in Alabama?"
+**Researched At:** March 12, 2026 at 06:16:10 PM UTC
+**Search Query:** "Will Dakarai Larriett be the Democratic nominee for Senate in Alabama?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 3.0¢
+**Confidence:** Medium
+**Expected Value:** 1.8¢
 
 ### Summary
 
-With no polling or fundraising data for Larriett and at least four plausible Democratic contenders, his baseline chance looks closer to 20–25%, below today’s 33% price. However, lacking concrete quantitative evidence, any overpricing appears modest (~10¢) and uncertain.
+Dakarai Larriett is a qualified, active Democratic candidate with credible campaign filings and fundraising, but top competitors (notably Kyle Sweetser) have public endorsements and similar fundraising; I found no definitive polling or statewide endorsement sweep that would indicate a large mispricing. Given limited trading volume and the available evidence, the market price (26%) is plausible and I see only a small expected mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Dakarai Larriett will win the Democratic primary for U.S. Senate in Alabama (scheduled May 19, 2026, with a potential Jun 16 runoff). A “YES” pays out if Larriett is the official nominee; “NO” covers any other nominee or a failure to hold a primary.  
+1. CONTEXT ANALYSIS
+- Market question: “Will Dakarai Larriett be the Democratic nominee for Senate in Alabama?” It resolves YES if Larriett wins the Alabama Democratic primary for U.S. Senate (the party’s official primary result or overwhelming credible reporting); it resolves NO if any other named candidate wins or if “Other” applies (e.g., no Democratic primary occurs). The Alabama primary is scheduled for May 19, 2026 (runoff, if required, June 16, 2026). ([vote411.org](https://www.vote411.org/alabama))
 
-2. EVIDENCE EVALUATION  
-Bullish for Larriett:  
-• He is a declared candidate with a strong community-advocacy background and compelling personal narrative (false-arrest story) that could mobilize base voters.  
-• Alabama Democrats will want a fresh face addressing LGBTQ issues, opioid crisis, education, and healthcare—issues Larriett emphasizes.  
+2. EVIDENCE EVALUATION
+- What would move the market toward YES (Larriett wins)?
+  - Larriett is an active, qualified candidate with a campaign website and FEC principal committee; he has raised a six-figure total receipts amount and appears on official candidate/qualifying lists. These are signals of a real, functioning campaign capable of competing in a low-turnout primary. ([dakarailarriett.com](https://dakarailarriett.com/))
+  - Demographic dynamics: Alabama Democratic primary electorates are disproportionately Black; an African‑American candidate who consolidates that base can win plurality/majority in small fields (historical pattern noted by reporters/observers). This is a plausible structural advantage for Larriett. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama))
 
-Bearish on Larriett:  
-• None of the summaries report any polling or fundraising figures for Larriett—key indicators of primary viability are absent.  
-• Other candidates (Sweetser, Wheeler, Lavender, Wess) have clearer profiles: Sweetser is pitched to moderates as a former Trump supporter; Wheeler and others have more established political networks.  
-• At least four credible contenders means a baseline equal-chance probability of ~25%, below today’s 33%.  
+- What would move the market toward NO (Larriett loses)?
+  - Other Democrats (notably Kyle Sweetser) are active, have organizational activity, and have won endorsements from state Democratic legislative leaders and several national figures — early establishment/support signals that make Sweetser a plausible frontrunner or strong contender. ([alreporter.com](https://www.alreporter.com/2026/01/28/sweetser-lands-bipartisan-endorsements-as-alabama-senate-campaign-gains-steam/))
+  - Fundraising is roughly comparable across the top Democratic campaigns per FEC/aggregators: Sweetser and Larriett show similar total receipts in available reports (both roughly in the five-figure to low-six-figure total receipts range in 2025 filings), which means neither candidate has a decisive money advantage. That parity increases uncertainty. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/Senate.phtml?v=a))
 
-Source credibility and recency: All sources date from Feb/Mar 2026 and are reputable local or national outlets, but lack quantitative data (polling, fundraising, endorsements for Larriett).  
+- Specific evidence that might imply the market price is incorrect
+  - For mispricing toward YES: I did not find clear, high‑quality evidence that Larriett is the consensus favorite (no statewide Democratic-primary polling showing Larriett dominating, no major statewide endorsements for him in the reporting I found). The lack of such evidence argues against a large underpricing of Larriett. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama))
+  - For mispricing toward NO: there is credible reporting of Sweetser landing multiple legislative endorsements and cross‑party former officials (which plausibly raises Sweetser’s win probability); if the market underweights those endorsements, Larriett’s 26% price could be too high. ([alreporter.com](https://www.alreporter.com/2026/01/28/sweetser-lands-bipartisan-endorsements-as-alabama-senate-campaign-gains-steam/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 33% price could reflect a simple division among three main contenders, suggesting either:  
-• Informed consensus that only three candidates truly matter (so Larriett is ~33%), or  
-• A few traders setting the price by thumb without detailed data.  
+- Source credibility and recency
+  - FEC committee pages and filings (official campaign finance records) are primary, authoritative for money-on-hand and receipts; I used Larriett’s FEC summary. ([fec.gov](https://www.fec.gov/data/committee/C00901017/?tab=summary))
+  - State/regional outlets (Alabama Political Reporter, Alabama Daily News, Alabama Gazette, Franklin Free Press) provide local reporting of qualifiers, forums, and endorsements; their reporting is recent (late 2025 – Jan 2026) and directly relevant to the primary field. These are credible for qualification/endorsement facts but are local outlets with varying editorial standards. ([alreporter.com](https://www.alreporter.com/2026/01/28/sweetser-lands-bipartisan-endorsements-as-alabama-senate-campaign-gains-steam/))
+  - Aggregators (The Green Papers, Vote411) compile official dates/filings and are useful for election scheduling and candidate lists. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/Senate.phtml?v=a))
+  - I did not find trustworthy, recent statewide polling for the Democratic primary; the absence of polling is a major information gap. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama))
 
-Low volume ($725 total, 6¢ spread) means either the field is seen as roughly settled (no one thinks there’s a trade to be had) or informed traders have not yet engaged deeply.  
+- Skepticism about “obvious” evidence
+  - The most obvious structural argument for Larriett (being Black in a Democratic primary with a large Black electorate) is suggestive but not definitive—endorsements, ground game, turnout patterns, and late entrants can override identity advantages in low-turnout primaries. The market’s price (26%) plausibly reflects that ambiguous tradeoff. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama))
 
-4. MISPRICING ASSESSMENT  
-Evidence of mispricing: absence of any polling/fundraising data for Larriett suggests his true probability may be closer to 20–25%. That implies a possible overpricing of ~8–13¢.  
-Evidence supporting current price: there is no clear frontrunner; Larriett could consolidate a progressive base if other candidates split moderates. 33% may be a defensible heuristic.  
+3. MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current 26% price:
+  - A competitive multi-candidate primary with two roughly comparable campaign organizations (Larriett vs Sweetser) and a couple of lower‑resource candidates makes a distribution of probabilities across candidates plausible; 26% for Larriett is within a credible range for a top‑three contender. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/Senate.phtml?v=a))
+  - Low total trading volume ($831) and tight spread (2¢) suggest one or a few traders supplied liquidity and set the price; but that price could still be a reasonable consensus estimate derived from public signals rather than active arbitrage. The market may simply be small rather than wrong.
+- Could the price reflect only one or a few traders?
+  - Yes — with low volume, the current price can be dominated by few actors. That increases the risk of inefficiency and makes the market more susceptible to being moved by new, private information (endorsements, fundraising bursts).
+- Why low volume might be happening
+  - Democratic primaries in Alabama have limited national interest; without clear polling or nationalized interest in the race, most informed bettors and political traders may not focus resources here, leaving the market thin. The primary’s scheduled date (May 19, 2026) is still months away, so many traders may be waiting for clearer signals (post-qualifying endorsements, primary polling, or late fundraisings). ([vote411.org](https://www.vote411.org/alabama))
 
-Given the lack of concrete data, we cannot confidently assert >20¢ mispricing. A modest overpricing of around 10¢ seems possible but unproven.  
+4. MISPRICING ASSESSMENT
+- Balanced weighing of evidence:
+  - Evidence for Larriett winning: official qualification, active campaign, credible FEC receipts, plausible demographic advantage in the Democratic primary electorate. ([fec.gov](https://www.fec.gov/data/committee/C00901017/?tab=summary))
+  - Evidence against Larriett: Sweetser’s documented endorsements from state Democratic legislative leaders and an apparent active statewide outreach program; fundraising parity that does not clearly favor Larriett; absence of Larriett‑leading polling or major statewide endorsements. ([alreporter.com](https://www.alreporter.com/2026/01/28/sweetser-lands-bipartisan-endorsements-as-alabama-senate-campaign-gains-steam/))
+- Do I understand the exact resolution criteria?
+  - Yes: the market resolves to the named winner of the Alabama Democratic Senate primary as first announced by the Alabama Democratic Party (or overwhelming credible reporting). There is no alternate technicality in the market description. The market’s time horizon (primary date and possible runoff) matches the public election calendar. ([vote411.org](https://www.vote411.org/alabama))
+- Is there specific, credible evidence missing from the market price?
+  - No single strong, missing signal. The largest missing inputs are (A) no public statewide Democratic-primary polling I can locate, and (B) the distribution and weight of local endorsements beyond the ones reported for Sweetser. If a late major endorsement or a poll showing Larriett >> Sweetser appeared and was not already priced in, that could produce mispricing — but I did not find that when researching. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama))
+- Conclusion on mispricing
+  - Given the available public evidence, there is insufficient credible evidence to call a large mispricing. The current 26% price is plausible for a competitive multi-candidate Democratic primary in Alabama given fundraising parity and the endorsement signals favoring other candidates. Low volume increases the chance of inefficiency, but I did not find a clear, credible piece of information (poll, statewide endorsement, or major fundraising advantage) that appears to be missing and large enough to justify a >20¢ belief that the market is materially wrong.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (no data, only field size inference): ~30%  
-Magnitude of potential mispricing: ~10¢  
-Expected value = 0.30 × 10¢ = 3¢  
+5. EXPECTED VALUE CALCULATION
+- Strength of evidence that the market is missing a material factor: 30% (there is some chance a late endorsement/poll could shift probabilities, but no strong evidence of that yet).
+- Magnitude of likely mispricing (if wrong): about 6 cents (I estimate Larriett’s true probability is plausibly in the 20–35% range; moving from 26¢ to something like 32¢ or 20¢ would be a move of a few cents, not large dozens of cents).
+- Expected value = 30% × 6 cents = 1.8 cents.
 
-6. CONFIDENCE  
-low  
+6. CONFIDENCE
+- I rate my confidence in this assessment as medium: primary-level uncertainty is high (no public primary polling, late endorsements matter), but the factual record on qualifiers, fundraising, and endorsements is solid and recent.
 
-EXPECTED_VALUE: 3  
-SUMMARY: With no polling or fundraising data for Larriett and at least four plausible Democratic contenders, his baseline chance looks closer to 20–25%, below today’s 33% price. However, lacking concrete quantitative evidence, any overpricing appears modest (~10¢) and uncertain.  
-CONFIDENCE: low
+EXPECTED_VALUE: 1.8
+SUMMARY: Dakarai Larriett is a qualified, active Democratic candidate with credible campaign filings and fundraising, but top competitors (notably Kyle Sweetser) have public endorsements and similar fundraising; I found no definitive polling or statewide endorsement sweep that would indicate a large mispricing. Given limited trading volume and the available evidence, the market price (26%) is plausible and I see only a small expected mispricing. 
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Opinion | Alabama has a rare Senate seat opening this year
-Author: Steve Flowers
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.alreporter.com/2026/02/25/opinion-alabama-has-a-rare-senate-seat-opening-this-year/
-Summary: The article discusses the rare opening for a Senate seat in Alabama, highlighting the political landscape and potential candidates. While it does not specifically mention Dakarai Larriett, it emphasizes the competitive nature of the upcoming election and the significance of this opportunity for both parties. Factors influencing the nomination include the current political climate, candidate endorsements, and voter sentiment. To predict whether Larriett will be the Democratic nominee, one should consider his visibility in the race, fundraising efforts, and support from key party figures. The article suggests that the dynamics of the election could favor candidates who resonate with the electorate's concerns and aspirations. For more detailed insights, you may want to follow updates on candidate announcements and polling data as the election approaches.
+### [ELECT DAKARAI LARRIETT - committee overview | FEC](https://www.fec.gov/data/committee/C00901017/?tab=summary)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Alabama Democrats aim to flip Senate seat in deep-red state - AOL
-Author: Scripps News
-Published Date: 2025-09-16T00:00:00.000Z
-URL: https://www.aol.com/articles/alabama-democrats-aim-flip-senate-151833201.html
-Summary: Dakarai Larriett is one of three candidates vying for the Democratic nomination for the Senate seat in Alabama, currently held by Tommy Tuberville, who is running for governor. The other candidates include Kyle Sweetser and Mark Wheeler. While Sweetser has positioned himself as a moderate Democrat with a focus on economic issues and a willingness to work across party lines, Larriett's specific campaign strategies and positions are not detailed in the provided text. 
+Official Federal Election Commission committee page for Larriett’s principal campaign committee. Shows registration date, totals for receipts and disbursements for the 2025 coverage period, and ending cash on hand ($17,983.95) plus debts owed by the committee. This is primary evidence that Larriett operates a real campaign, has raised six-figure aggregate receipts (reported in 2025 filings), and has campaign obligations — facts that bear directly on his viability and therefore on the probability he wins the Democratic primary. ([fec.gov](https://www.fec.gov/data/committee/C00901017/?tab=summary))
 
-To predict whether Larriett will secure the nomination, consider the following factors: the political landscape in Alabama, the appeal of each candidate's platform to Democratic voters, and the ability of candidates to differentiate themselves from the national Democratic brand. Sweetser's emphasis on being a "different kind of Democrat" and his background as a former Trump supporter may resonate with moderate voters, potentially impacting Larriett's chances. Additionally, the dynamics of the primary race, including voter turnout and endorsements, will also play a crucial role in determining the nominee.
+### [Dakarai Larriett Qualifies for U.S. Senate Race in Alabama as Democrat](https://www.alabamagazette.com/story/2026/01/01/news/dakarai-larriett-qualifies-for-us-senate-race-in-alabama-as-democrat/9737.html)
+**Author:** Unknown | **Published:** 2026-01-01
 
-Title: Who are the four Democrats running for Tuberville's Senate seat?
-Author: Kayla Smith
-Published Date: 2026-02-24T06:00:07.822Z
-URL: https://whnt.com/news/politics/your-local-election-headquarters/who-are-the-four-democrats-running-for-tubervilles-senate-seat/
-Summary: Dakarai Larriett is one of four Democrats running for the open Senate seat in Alabama, previously held by Tommy Tuberville, who is now running for governor. Larriett has a background as a community advocate, focusing on issues such as LGBTQ rights and the opioid crisis. He emphasizes the need for new leadership and aims to address systemic issues in education and healthcare, advocating for Medicare and Medicaid expansion. His personal experiences, including a false arrest, have shaped his views on the criminal justice system and the importance of equitable education.
+Local reporting that Larriett officially qualified to run in the Alabama Democratic Senate primary and lists other Democratic entrants. This confirms his formal entry and presence on the field of candidates and is evidence that the campaign is publicly active and being covered in state press, supporting the view that Larriett is a viable primary option rather than an obscure or inactive name. ([alabamagazette.com](https://www.alabamagazette.com/story/2026/01/01/news/dakarai-larriett-qualifies-for-us-senate-race-in-alabama-as-democrat/9737.html))
 
-To assess Larriett's chances of becoming the Democratic nominee, consider his community advocacy experience, his focus on pressing social issues, and his commitment to improving local opportunities. Additionally, the dynamics of the Democratic primary, including the positions and appeal of the other candidates, will also play a crucial role in determining his nomination prospects.
+### [Sweetser lands bipartisan endorsements as Alabama Senate campaign gains steam](https://www.alreporter.com/2026/01/28/sweetser-lands-bipartisan-endorsements-as-alabama-senate-campaign-gains-steam/)
+**Author:** Staff | **Published:** 2026-01-28
 
-Title: By the numbers: How Alabama's marquee midterm matchup is shaping up | News | wvua23.com
-Author: WVUA 23 Digital Reporter J. Calister Clemons
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.wvua23.com/news/by-the-numbers-how-alabamas-marquee-midterm-matchup-is-shaping-up/article_632914f5-b355-454a-8581-3ffba0448166.html
-Summary: The article discusses the competitive landscape of Alabama's upcoming U.S. Senate race, particularly focusing on the Democratic primary candidates, including Dakarai Larriett. While Larriett is one of several candidates vying for the Democratic nomination, the article does not provide specific polling data or fundraising figures for him, which are critical indicators of a candidate's viability.
+Reports that Kyle Sweetser announced endorsements from Alabama legislative Democratic leaders (e.g., Sen. Bobby Singleton, Rep. Anthony Daniels) and several former members of Congress (including some Republicans). This article is relevant because it documents organized, public endorsements that materially increase Sweetser’s plausibility as a front-runner in the Democratic primary, and therefore challenges a claim that Larriett should have a much higher market-implied probability. ([alreporter.com](https://www.alreporter.com/2026/01/28/sweetser-lands-bipartisan-endorsements-as-alabama-senate-campaign-gains-steam/))
 
-Key points relevant to predicting Larriett's chances include:
+### [Democratic Senate Hopeful for Alabama — Dakarai Larriett (campaign website)](https://dakarailarriett.com/)
+**Author:** Dakarai Larriett Campaign | **Published:** Unknown (site content updated 2026)
 
-1. **Democratic Field**: Larriett is competing against other candidates such as Kyle Sweetser, Lamont Lavender, Everett Wess, and Mark Wheeler. The dynamics within this group will influence Larriett's chances.
+Larriett’s campaign site which lists his platform, announces the May 19, 2026 primary date, and solicits volunteers and donations. It demonstrates active campaign operations (messaging, calendar, outreach) and is a primary source confirming the candidate’s public profile and stated priorities; presence of a campaign website is evidence of organizational capacity in low‑visibility primaries. ([dakarailarriett.com](https://dakarailarriett.com/))
 
-2. **Fundraising**: The article highlights the importance of fundraising in the race. Without specific data on Larriett's fundraising efforts, it's difficult to assess his competitiveness compared to his opponents.
+### [Alabama Voting Information — Vote411 (AL state page)](https://www.vote411.org/alabama)
+**Author:** League of Women Voters (Vote411) | **Published:** Unknown / updated 2026
 
-3. **Voter Sentiment**: The article notes that the Republican primary is still wide open, which may affect Democratic turnout and strategy. Understanding voter sentiment towards Larriett and the overall Democratic platform will be crucial.
+Aggregated state election information showing the Alabama state primary date (Tuesday, May 19, 2026) and the possible primary runoff date (June 16, 2026). This confirms the market’s timing and the resolution window and explains the deadline/calendar context for candidate qualifying and possible runoffs that affect election dynamics. ([vote411.org](https://www.vote411.org/alabama))
 
-4. **Endorsements and Support**: The impact of endorsements, such as those from prominent figures or organizations, could also play a significant role in Larriett's campaign.
+### [Franklin County Democrats to host U.S. Senate Democratic Candidate forum](https://www.franklinfreepress.net/news/franklin-county-democrats-to-host-us-senate-democratic-candidate-forum)
+**Author:** John Pilati | **Published:** 2025-08-27
 
-In summary, while Dakarai Larriett is a candidate in the Democratic primary, his likelihood of becoming the nominee will depend on his fundraising success, voter support, and the overall dynamics of the Democratic field leading up to the primaries.
+Local coverage describing an in-person candidate forum attended by Larriett, Sweetser, and Mark Wheeler, confirming those candidates’ active campaigning across the state and willingness to participate in county-level outreach. This supports the conclusion that several Democratic candidates are actively competing and building grassroots presence — a factor that reduces confidence that any single candidate (including Larriett) is heavily underpriced. ([franklinfreepress.net](https://www.franklinfreepress.net/news/franklin-county-democrats-to-host-us-senate-democratic-candidate-forum))
 
-Title: 2026 United States Senate election in Alabama - Wikipedia
-URL: https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama
-Summary: The 2026 United States Senate election in Alabama will be held on November 3, 2026, marking the first open race for this seat since 1996. Incumbent Republican Senator Tommy Tuberville, who was first elected in 2020, will not seek re-election as he is running for governor instead. The primary elections are scheduled for May 19, 2026, with a potential run-off on June 16, 2026, if no candidate secures a majority.
+### [119th Congress - Senate Seats by State (The Green Papers — 2026)](https://www.thegreenpapers.com/G26/Senate.phtml?v=a)
+**Author:** The Green Papers (Dave Leip / compilers) | **Published:** 2026-01 (page updated)
 
-As for the Democratic nomination, the webpage does not mention Dakarai Larriett specifically among the declared candidates for the Democratic primary. The focus is primarily on the Republican candidates, which include Rodney Walker, Morgan Murphy, Barry Moore, Steve Marshall, and others. To assess Dakarai Larriett's chances of becoming the Democratic nominee, one would need to monitor any announcements regarding his candidacy and compare it with other potential Democratic contenders as the election date approaches.
+Election calendar and candidate/fundraising compilation that aggregates FEC totals and candidate filings. The Green Papers lists candidate receipts and cash figures for the Alabama Senate field (showing receipts parity among top Democratic candidates). This secondary aggregation corroborates FEC numbers and is useful for comparing relative financial strength across the field — an input for estimating win probability. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/Senate.phtml?v=a))
 
+### [Marshall raises $406K in his 2026 bid for U.S. Senate](https://aldailynews.com/marshall-raises-406k-in-his-2026-bid-for-u-s-senate/)
+**Author:** Alex Angle | **Published:** 2025-07-15
 
+While focused on Republican fundraising, this Alabama Daily News article includes snapshot FEC figures for Democratic candidate Kyle Sweetser (raised $57,800; cash on hand ~ $11,488 as of end of June) and provides contemporaneous context for comparative fundraising. It is relevant because it shows the relative scale of early receipts and cash on hand across campaigns in mid‑2025 and demonstrates the parity/competition among top Democratic hopefuls. ([aldailynews.com](https://aldailynews.com/marshall-raises-406k-in-his-2026-bid-for-u-s-senate/))
+
+### [Full slate of Democratic candidates for U.S. Congress officially qualify, talk issues](https://aldailynews.com/democrats-put-up-first-full-slate-of-candidates-for-us-congress-since-2018/)
+**Author:** Claire Harrison | **Published:** 2026-01-08
+
+State-level reporting from the Alabama Daily News listing qualified Democratic candidates for U.S. Senate (names Larriett and Mark Wheeler among qualifiers). This confirms who had officially qualified with the party at that reporting date and corroborates other local press on the candidate list — relevant to determining the competitive field and therefore Larriett’s baseline win probability. ([aldailynews.com](https://aldailynews.com/democrats-put-up-first-full-slate-of-candidates-for-us-congress-since-2018/))
+
+### [2026 United States Senate election in Alabama — Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama)
+**Author:** Various / Wikipedia contributors | **Published:** 2026-03-11 (page updated)
+
+Aggregated background on the 2026 Alabama Senate race, including primary dates, list of Democratic candidates, and a summary of available fundraising/polling (or lack thereof for the Democratic primary). Used as a cross-check for candidate lists, election dates, and the observation that public statewide polling for the Democratic primary was not evident at the time of research. (Note: Wikipedia is a secondary source and was used here for quick aggregation — primary sources cited above provide the direct evidence used in the analysis.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama))

@@ -1,94 +1,123 @@
 # Research: Will Bernadette Wilson advance from the 2026 Alaska Governor primary election?
 
 **Market ID:** 0x39dc2c86efd159ae5b0fddc70b0b15af308993353eff43b5725bf6a0e473ca83
-**Researched At:** March 7, 2026 at 02:34:35 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Bernadette Wilson advance from the 2026 Alaska Governor primary election?"
+**Researched At:** March 12, 2026 at 06:18:09 PM UTC
+**Search Query:** "Will Bernadette Wilson advance from the 2026 Alaska Governor primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Our review finds mixed signals on Wilson’s chances; she has early fundraising momentum but lags behind top fundraisers and faces a crowded field. Given the low trading volume and lack of standout polling or organizational edge, there isn’t strong evidence for a significant mispricing.
+Bernadette Wilson is an active, credentialed candidate (filed, running, raised substantial early funds) and has shown early polling traction among GOP voters, which makes a >50% chance of advancing plausible. However, the evidence is noisy (crowded field, many undecideds, limited polls, filing deadline and entrants still ahead), and the market’s zero volume suggests the displayed price may be set by few participants rather than broad information aggregation — I see no clear, credible evidence of
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Bernadette Wilson will finish among the top four vote-getters in the August 18, 2026 nonpartisan Alaska governor primary. “Yes” if she places 1st–4th; “No” otherwise.  
+1) CONTEXT ANALYSIS — What the market asks and what must happen to resolve YES vs NO
+- The market asks whether Bernadette Wilson will advance from the 2026 Alaska gubernatorial primary to the general election. Under Alaska’s nonpartisan “top-four” primary (the market description and Alaska Division of Elections materials), the top four vote-getters in the primary ballot (scheduled for August 18, 2026) advance to the general.  
+- For this market to resolve YES: Bernadette Wilson must appear among the four candidates with the most votes in the August 18, 2026 primary (or, if there is ambiguity in reporting, the State of Alaska Division of Elections official results must list her in the top four). For it to resolve NO: she must finish fifth or lower, or there must be no 2026 Alaska gubernatorial primary.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence:  
-• Wilson has reported ~$306K raised (second among GOP early), ~1,500 donors, active statewide outreach (Alaska Story Feb 18).  
-• Comparable early fundraising to a few contenders suggests she is competitive.  
+2) EVIDENCE EVALUATION — facts, relevance, credibility, and how they support or challenge the current price (53.5%)
+Summary of the relevant evidence I located
+- Candidate filing and campaign presence (credible, primary-source): Bernadette Wilson filed a Letter of Intent and official filings are on Alaska’s APOC site; she has an active campaign site and staff. (APOC filings + campaign site.) This is necessary precondition evidence — she is a real, active candidate and therefore eligible to advance. This supports some non-negligible chance of advancing. ([aws.state.ak.us](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3577&ViewType=LOI))
+- Early fundraising and campaign activity (local reporting, Feb 2026): Reporting shows Wilson reported >$300k in early receipts and ~1,500 small donors, plus early spending and a statewide operation. Early cash and spending increase the plausibility she builds the organization to get enough votes to reach a top-four spot. (Alaska Story reporting.) ([thealaskastory.com](https://thealaskastory.com/bernadette-wilson-comes-in-hot-reports-306000-in-governors-race-second-highest-gop-funded-candidate/))
+- Early polling among GOP voters (Cygnal/Building Alaska PAC, July 2025 summary): A Cygnal survey (reported by Must Read Alaska) of likely Republican primary voters showed Wilson leading Republicans with ~17% (±4.4% MOE) and many undecided; after “messaging,” Dahlstrom’s numbers rose while Wilson’s remained similar. This suggests Wilson had early traction among GOP voters in a fragmented field, which matters because the top‑four primary favors candidates who can grab a slice of a large field. But this poll surveyed GOP primary voters only, had a large undecided share, and was commissioned/issued in partisan contexts (Building Alaska PAC) — so interpret cautiously. ([mustreadalaska.com](https://mustreadalaska.com/bernadette-wilson-leads-gop-field-in-early-2026-governors-poll/))
+- Field composition / competition (multiple local outlets & trackers): Numerous credible candidates have filed or are reported to be running (Lt. Gov. Nancy Dahlstrom, Click Bishop, Treg Taylor, Dave Bronson, Tom Begich on the Democratic side, etc.). A crowded field with multiple established figures makes the top-four outcome more competitive; established officeholders may have name recognition advantage. This both helps and hurts Wilson: fragmented fields can allow an insurgent with resources to finish top-four, but strong name-recognition candidates can push an outsider down. ([adn.com](https://www.adn.com/politics/2025/05/13/conservative-activist-and-former-radio-host-files-to-run-for-alaska-governor/))
+- Structural factors (Alaska election rules and calendar): Alaska uses a top-four nonpartisan primary and the filing deadline is June 1, 2026; the primary date listed by election authorities is August 18, 2026. The market’s resolution rule (top four) is consistent with state rules. This clarifies the exact resolution condition and that the race is open to many entrants until filing deadlines — an important timing risk. ([elections.alaska.gov](https://www.elections.alaska.gov/Core/RCV.php?utm_source=openai))
 
-Bearish evidence:  
-• Major opponents (Heilala $1.3M self-funded, Taylor $880K, Begich ~$350K, Crum ~$350K) substantially out-raise her, leaving her with only ~$64.8K cash on hand (Alaska Watchman, ADN).  
-• One analysis flags that $35.7K of her funds are in-kind, her filing is confusing, and her base/organization is unproven (Alaska Landmine Feb 24).  
-• Ten candidates have six-figure hauls; she is not mentioned in one leading report, implying she is not yet among the strongest (KTOO Feb 19).  
+What specific evidence suggests the market price (53.5%) might be incorrect?
+- Early fundraising and donor breadth: Wilson’s February 2026 report (> $300k, ~1,500 donors) and reported endorsements/staff (notably a campaign chair with prior experience and at least one high-profile national backer) increase her probability of sustained campaign activity and vote-getting ability. If traders are undervaluing organizational strength in a fragmented primary, the market could underprice her chances by a modest amount. (Supports higher probability.) ([thealaskastory.com](https://thealaskastory.com/bernadette-wilson-comes-in-hot-reports-306000-in-governors-race-second-highest-gop-funded-candidate/))
+- Poll evidence showing her as an early leader among Republicans (17% in Cygnal among likely GOP primary voters) suggests she plausibly clears a top-four threshold in a large, fragmented field — traders who ignore polling and early fundraising might underprice her. ([mustreadalaska.com](https://mustreadalaska.com/bernadette-wilson-leads-gop-field-in-early-2026-governors-poll/))
 
-Sources are recent (Feb 18–24, 2026) and locally credible, but each offers a different angle on her viability. No definitive polling or endorsement data is cited.  
+What evidence supports the market price as reasonable (i.e., price is accurate or conservative)?
+- Poll limitations and undecideds: The Cygnal poll surveyed only GOP-leaning likely primary voters, showed 41% undecided, and after exposure to messaging Dahlstrom’s support grew more than Wilson’s — indicating volatility and fragility in early polling. Early leads in such polls are weak signals months before the vote. That argues against a high-confidence >60–70% expectation. ([mustreadalaska.com](https://mustreadalaska.com/bernadette-wilson-leads-gop-field-in-early-2026-governors-poll/))
+- Strong competition and name recognition gaps: Several better-known officeholders and former officeholders are in the field; they may consolidate votes and financing. If these candidates coalesce or one or two become dominant within the GOP lane (or strong Democratic candidates attract crossover votes), Wilson could fall short. Credible local reporting repeatedly notes name-recognition challenges across the field; that dampens confidence in early frontrunners. ([adn.com](https://www.adn.com/politics/2025/05/13/conservative-activist-and-former-radio-host-files-to-run-for-alaska-governor/))
+- Timing and candidate-entry uncertainty: Candidate filing remains open until June 1, 2026 (and withdrawals until late June). New entrants or withdrawals, or a stronger Democratic candidate entering (which can change cross-over dynamics in Alaska’s open primary), could materially change outcome probabilities between now and the primary. This supports a modest probability near 50%, not a firm >70% position. ([elections.alaska.gov](https://www.elections.alaska.gov/calendar/?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• 55.5% may reflect early optimism about her momentum in a fragmented Republican field.  
-• Low $0 volume and narrow spread suggest one or few traders set the price; broader informed engagement appears limited.  
-• If her strength were clear, higher-volume markets (or news commentary) would have emphasized her as a frontrunner; the lack thereof hints at uncertainty rather than consensus.  
+Source credibility and recency
+- Alaska Division of Elections / state APOC records (APOC LOI) and the election calendar are authoritative primary sources — high credibility and directly relevant. Fundraising reports are based on APOC filings and local press coverage (Alaska Story, Anchorage Daily News) — credible local journalism. Poll reporting (Cygnal/Building Alaska PAC, reported by Must Read Alaska) is useful but limited (commissioning organization and sample scope create bias risk). Overall the sources are recent (2025–Feb 2026) and relevant to the August 2026 primary.
 
-4. MISPRICING ASSESSMENT  
-• There is plausible bearish case that she may finish outside the top four, given stronger opponents.  
-• Yet there is no concrete polling or new scandal to definitively knock her chances below ~50%.  
-• No glaring omission or technical misinterpretation appears—the market may simply reflect genuine uncertainty.  
-• We do not see evidence for a mispricing >20¢.  
+Skepticism about “obvious” signals
+- If Wilson’s early fundraising and a single GOP poll were definitive, the market would likely reflect a much higher price and more volume. The fact the market is low-volume and only slightly above 50% suggests informed traders either consider this evidence already discounted or view the signal as weak/fragile (polls small sample, large undecided pool, lots can change before filing deadline).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20%  
-Magnitude of potential mispricing: ~10¢  
-Expected value = 20% × 10¢ = 2¢  
+3) MARKET EFFICIENCY ANALYSIS — reliability of the market price and plausible interpretations
+- Plausible charitable interpretation that justifies 53.5%:
+  - Top-four races with many candidates often give early, well-funded insurgents a real chance; Wilson’s organization and early polling might make her slightly more likely than not to be one of four finishers in a crowded field. A 53.5% price can be read as the market placing a modest edge on her — not a confident prediction but a tilt reflecting early fundraising, an endorsement/operations, and a small poll lead in a fractured GOP lane.
+- Plausible less-charitable interpretation (market reflects few traders/noisy signal):
+  - Total volume $0 suggests little trading interest; a single or a handful of traders could have set the price, so the price may not reflect a broad information aggregation. Tight spread (3¢) despite $0 volume indicates the market software may show an automatic spread or a quoted price without real depth. That raises concern about reliability.
+- Is low volume because outcome is obvious or because traders aren’t engaged?
+  - It’s unlikely the outcome is already obvious: many credible unknowns remain (more entrants, cross-over voting behavior in Alaska’s open system, campaign trajectories). Low volume is more plausibly due to the market being thinly followed (niche candidate, state-level, many markets elsewhere get more attention), so the price may be less informative than a high-volume market.
 
-6. CONFIDENCE  
-low  
+4) MISPRICING ASSESSMENT — do I find credible evidence the market is materially mispriced?
+- Short answer: No clear, specific evidence of a large mispricing. The available credible evidence points toward a modest probability that Wilson will advance, but it also points to substantial uncertainty. None of the high-quality sources (APOC filings, local press, state election rules) provides a nearly-certain case either way.
+- Why not conclude large mispricing (>20¢):
+  - The resolution rule is straightforward (top four), and Wilson is an active, funded candidate with some early polling support. Those facts justify a probability not far from 50%. There is no single authoritative source (e.g., a statewide poll showing her with a secure plurality across the full primary electorate, or an official disqualification of rival candidates) that would justify concluding the market is off by >20 cents in either direction.
+- Possible small mispricing (directional):
+  - If one believes Wilson’s early fundraising (broad donor base + spending) and early GOP poll lead are underweighted by the market, one could argue the market is modestly underpricing her (by maybe a few to low-teens of cents). Conversely, if one weighs the crowded field, name-recognition limits, undecideds, and volatility more heavily, one could argue the market is modestly overpricing her. Both are credible; neither dominates.
 
-EXPECTED_VALUE: 2  
-SUMMARY: Our review finds mixed signals on Wilson’s chances; she has early fundraising momentum but lags behind top fundraisers and faces a crowded field. Given the low trading volume and lack of standout polling or organizational edge, there isn’t strong evidence for a significant mispricing.  
-CONFIDENCE: low
+CRITICAL CHECK (challenge the reasoning)
+- Do I understand resolution criteria? Yes — top four vote-getters on Aug 18, 2026; official state results supersede other reports if there is ambiguity. The candidate is clearly on record as a filer, so she is eligible to be counted. I see no technicality that would make an apparent top-four finish invalid (other than disqualification or withdrawal).
+- Could I be missing hidden information traders have? Possibly — local micro-polling, internal campaign polls, or private commitments/endorsements not publicly reported could materially shift probabilities; that’s consistent with the low-volume market reflecting limited public info and possibly private information held by few. That argues caution about concluding mispricing.
+- Bottom line from the check: do not claim a large, confidently exploitable mispricing.
+
+5) EXPECTED VALUE CALCULATION — estimate the expected value of investigating/trading on this market
+- Strength of evidence that the market is missing credible, public information: moderate — many credible, public signals (APOC filings, local press, one GOP poll, fundraising) point to non-trivial chances, but each is imperfect and recent. I assess Strength = 50% (i.e., roughly even chance the public evidence materially changes the true probability vs being already priced). (0–100%)
+- Magnitude of plausible genuine mispricing if one side is wrong: small-to-moderate. Given the facts, a realistic magnitude (cents) would be about 8 cents (i.e., market could be off by ~±8¢ if the early signals prove more/less predictive than currently priced). This is not a claim of high confidence that the market is off by 8¢, but it is a reasonable maximum-size estimate absent major new information. (cents)
+- Expected value = Strength × Magnitude = 50% × 8¢ = 4.0¢
+
+6) CONFIDENCE in this assessment
+- medium
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Bernadette Wilson is an active, credentialed candidate (filed, running, raised substantial early funds) and has shown early polling traction among GOP voters, which makes a >50% chance of advancing plausible. However, the evidence is noisy (crowded field, many undecideds, limited polls, filing deadline and entrants still ahead), and the market’s zero volume suggests the displayed price may be set by few participants rather than broad information aggregation — I see no clear, credible evidence of a large (>20¢) mispricing.  
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Bernadette Wilson comes in hot: Reports $306,000 in governor's race, second highest GOP-funded candidate - Alaska Story
-Author: Suzanne Downing
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://thealaskastory.com/bernadette-wilson-comes-in-hot-reports-306000-in-governors-race-second-highest-gop-funded-candidate/
-Summary: Bernadette Wilson is emerging as a strong contender in Alaska’s 2026 Republican gubernatorial primary, with notable early fundraising of over $306,000—second only among GOP candidates—and a large donor base of nearly 1,500 contributors. Her campaign is characterized by active face-to-face outreach, significant early spending, and statewide engagement efforts. Wilson’s background as a private business owner and her lack of prior elected office, combined with endorsements and a broad donor network, suggest she has substantial momentum. These factors position her as a competitive candidate capable of advancing past the primary, especially given her early financial strength and campaign organization.
+### [Bernadette Wilson leads GOP field in early 2026 governor’s poll](https://mustreadalaska.com/bernadette-wilson-leads-gop-field-in-early-2026-governors-poll/)
+**Author:** Suzanne Downing | **Published:** 2025-08-22
 
-Title: The Republican gubernatorial gaslighters: Treg Taylor, Bernadette Wilson, and Adam Crum - The Alaska Landmine
-Author: Jeff Landfield
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://alaskalandmine.com/landmines/treg-taylor-bernadette-wilson-and-adam-crum-the-republican-gubernatorial-gaslighters/
-Summary: Bernadette Wilson's campaign finance report shows she raised $305,000, with a notable portion ($35,700) from in-kind contributions rather than direct donations. Her report is complex and somewhat convoluted, making it difficult to assess her grassroots support or overall financial strength. Compared to other candidates, her fundraising appears modest, and there is limited publicly available information on her campaign's broader support base or organizational capacity. This financial picture suggests she may face challenges in gaining significant momentum or widespread support in the 2026 Alaska Governor primary election.
+This article reports results from a July 24–27, 2025 Cygnal Research poll (released by Building Alaska PAC) showing Wilson with 17% among likely Republican primary voters (±4.37% MOE), with a large share undecided. It notes Wilson’s early lead among GOP respondents but that messaging in the poll boosted Lt. Gov. Dahlstrom’s numbers, indicating fragility. Relevance: this is the strongest public poll signal that Wilson has early traction in the GOP lane — supporting a modest above-50% probability in a fragmented field, while the large undecided share and partisan commissioning counsel caution.
 
-Title: Money matters: Some Alaska governor candidates are flush, others struggling
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://alaskawatchman.com/2026/02/18/money-matters-some-alaska-governor-candidates-are-flush-others-struggling/
-Summary: Bernadette Wilson, a Republican candidate in the 2026 Alaska Governor primary, has raised approximately $306,000 and has about $64,794 cash on hand. Her fundraising is comparable to other top candidates, such as Shelley Hughes and Matt Heilala, indicating she has a significant financial backing. While fundraising success can be an indicator of campaign viability, Wilson's ability to advance will also depend on factors like voter support, campaign strategy, and overall political dynamics.
+### [Conservative activist and former radio host files to run for Alaska governor](https://www.adn.com/politics/2025/05/13/conservative-activist-and-former-radio-host-files-to-run-for-alaska-governor/)
+**Author:** Sean Maguire | **Published:** 2025-05-14
 
-Title: Candidates pour money into Alaska governor’s race - Anchorage Daily News
-Author: Iris Samuels
-Published Date: 2026-02-19T00:00:00.000Z
-URL: http://www.adn.com/politics/2026/02/18/candidates-pour-money-into-alaska-governors-race/
-Summary: Several candidates are actively fundraising for the 2026 Alaska gubernatorial race, with total contributions exceeding $4.3 million as of early February. Notably, some candidates, including Treg Taylor and Matt Heilala, have invested significant personal funds into their campaigns. The race features a diverse field with 17 candidates, primarily Republicans, and substantial financial backing, especially from well-funded individuals. Since the primary election is still in the early stages, and no candidate has yet secured a decisive lead, it is currently unclear whether Bernadette Wilson will advance from the primary. Her prospects will depend on her campaign's fundraising success, voter support, and how she compares to other candidates in the coming months.
+Anchorage Daily News reports Bernadette Wilson filed a Letter of Intent to run (May 2025), describes her background (conservative activist, business owner, former radio host), notes she was the third Republican to file and summarizes her priorities and political activity (including sponsorship of a repeal of ranked-choice voting). Relevance: confirms Wilson’s official entry and public profile — necessary for assessing eligibility and baseline plausibility for advancing.
 
-Title: 10 candidates report six-figure hauls from early fundraising in Alaska governor's race
-Author: Eric Stone, Alaska Public Media
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.ktoo.org/2026/02/19/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race/
-Summary: The article reports on early fundraising efforts for the 2026 Alaska governor's race, highlighting that ten candidates have collectively raised over $4.3 million. Key contenders include Republican Matt Heilala, who has self-funded over 94% of his campaign with nearly $1.3 million, and former Attorney General Treg Taylor, who has raised approximately $880,000, with about a third from his own funds. Other notable candidates are Adam Crum and Tom Begich, both raising around $350,000, with Begich emphasizing grassroots support from Alaskans. The report does not mention Bernadette Wilson or provide specific details about her campaign fundraising or support, making it difficult to assess her prospects for advancing from the primary based solely on this information.
+### [Bernadette Wilson comes in hot: Reports $306,000 in governor’s race, second highest GOP-funded candidate](https://thealaskastory.com/bernadette-wilson-comes-in-hot-reports-306000-in-governors-race-second-highest-gop-funded-candidate/)
+**Author:** Suzanne Downing | **Published:** 2026-02-18
 
+Local reporting (Feb 18, 2026) summarizes Wilson’s year-start campaign filing showing over $306,000 raised, ~1,500 individual contributors, and ~$241,000 in early spending. It places Wilson among the strongest early fundraisers once self-funding is removed and quotes campaign claims about grassroots donor breadth. Relevance: strong early funding and donor breadth materially increase plausibility she can build enough organization/voters to finish in the top four of a crowded primary.
 
+### [Disclosure Form View (Letter of Intent) — Bernadette Wilson](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3577&ViewType=LOI)
+**Author:** Unknown | **Published:** 2025-05-09
+
+Official Alaska Public Offices Commission (APOC) letter-of-intent filing for Bernadette M. Wilson (submission date May 9, 2025). It provides official candidate filing details (contact, legal name, election year). Relevance: primary-source confirmation that Wilson has legally filed and is an eligible candidate — the foundational fact required for the market to resolve YES if she finishes top four.
+
+### [Bernadette for Governor of Alaska 2026 | Official Campaign Site](https://bernadetteforgovernor.com/)
+**Author:** Unknown (campaign) | **Published:** Unknown (site updated 2025–2026)
+
+Campaign site describing Wilson’s biography, policy priorities, organizational claims, and contact/signup infrastructure. Relevance: demonstrates active campaign operations and public messaging; useful to corroborate claims about platform, staffing, and presence across the state.
+
+### [Nonpartisan Top Four Primary / RCV information (Alaska Division of Elections)](https://www.elections.alaska.gov/Core/RCV.php)
+**Author:** Unknown (State of Alaska Division of Elections) | **Published:** Unknown (site maintained 2024–2026)
+
+State Division of Elections material explaining Alaska’s top-four primary and ranked-choice general election procedures, and describing how the primary narrows to the top four vote-getters. Relevance: authoritative description of resolution criteria for this market — what "advances from the primary" means, and that the top-four system is in effect for the 2026 gubernatorial primary.
+
+### [Election Calendar — Division of Elections (Alaska)](https://www.elections.alaska.gov/calendar/)
+**Author:** Unknown (State of Alaska Division of Elections) | **Published:** Unknown (site updated; contains 2026 calendar items)
+
+Official election calendar listing key dates, including the candidate filing deadline (June 1, 2026) and the primary date (August 18, 2026) for the 2026 cycle. Relevance: clarifies the timeline (who can file and when) and shows there is still time before the field is fixed — an important source of uncertainty and a reason to expect probabilities to shift as the filing deadline and campaigning proceed.
+
+### [Poll: Democrats have a good shot in Alaska’s governor’s – even if it isn’t Peltola on the ballot](https://thealaskacurrent.com/2025/11/07/poll-democrats-have-a-good-shot-in-alaskas-governors-even-if-it-isnt-peltola-on-the-ballot/)
+**Author:** Unknown | **Published:** 2025-11-07
+
+Reporting on a poll (Data for Progress and others) that discusses Democrats’ prospects and shows cross-party dynamics and the sensitivity of early polling to candidate entries like Mary Peltola; includes discussion of Wilson’s position as one of several GOP options. Relevance: this and similar polling coverage show the large uncertainty in statewide match-ups and that the entry decisions of major Democrats or other candidates could materially change primary dynamics — supporting the view that early signals are fragile and that a ~53% market price is reasonable as a modest tilt rather than a high-confidence prediction.

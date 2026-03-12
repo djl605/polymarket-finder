@@ -1,119 +1,121 @@
 # Research: Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?
 
 **Market ID:** 0xb24ae6117a3b68c79c085aa102a5054073dbd5c131db1774f1e41230ad7d67bf
-**Researched At:** March 1, 2026 at 06:10:13 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"
+**Researched At:** March 12, 2026 at 06:18:39 PM UTC
+**Search Query:** "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 5.3¢
 
 ### Summary
 
-Only 13 Democratic retirements are on record by early February, requiring 11+ more to hit the 24–27 window—but total retirements are unusually high and the political climate could spur additional announcements. A 55.5% probability reasonably balances these factors, and there’s no clear sign of a large mispricing.
+Ballotpedia (March 11, 2026) shows 21 Democrats already not running; reaching the market’s YES band (24–27) requires 3–6 additional Democratic non‑runs by the late‑August filing deadlines. Public evidence suggests a modest chance (>0% and plausibly ≈50%) that the band will be hit; with zero recorded volume on the market the current 39.5% quote looks slightly low but not clearly or massively mispriced. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: List of U.S. House incumbents who are not running for r
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether, by the late‐August 2026 candidate‐filing deadline, between 24 and 27 Democratic U.S. House members will have formally announced that they are not seeking reelection to their current seats.  A “YES” outcome requires at least 24 such retirements but no more than 27; a “NO” outcome occurs if fewer than 24 or more than 27 Democrats retire.
+Short answer (bottom line): Ballotpedia (primary tracker) shows 21 House Democrats have already said they will not run in 2026 (as of March 11, 2026). The market’s YES target (24–27 Democrats) therefore requires 3–6 additional Democratic members to publicly not seek reelection by the late‑August 2026 filing deadline. Given the available evidence, I estimate the market as slightly underpricing the chance the count reaches 24–27 (my rough best estimate of the “true” probability ≈ 50%), but the evidence is mixed and not definitive. Expected edge is modest — single‑digit cents.
 
-2. EVIDENCE EVALUATION  
-Evidence suggesting the 55.5% price might be too high:
-•  As of early February 2026, only 13 Democratic House retirements have been announced (Ballotpedia).  To reach the low‐end threshold (24), Democrats would need 11 more announcements in the next six months—nearly doubling the current total.  
-•  Historically a large chunk of retirements is announced early in the cycle; adding 11+ in this window may be aggressive absent a sudden wave.
+1) CONTEXT ANALYSIS
+- What the market asks: Will the total number of Democratic House members who are considered “not seeking reelection” (including retiring from public office, running for a different office, or otherwise not filing) in the 2026 cycle be between 24 and 27 inclusive by the final candidate filing deadline (expected late August 2026)?
+- Current status (authoritative tracker): Ballotpedia reports 21 Democrats not seeking reelection as of March 11, 2026. That implies the market needs +3 to +6 additional Democratic non‑runs between now and the resolution cutoff for the contract to resolve YES.
+- Practical resolution mechanics to keep in mind: the market resolves based on a consensus of credible reporting after state filing deadlines; retirements counted include announcements to run for other offices.
 
-Evidence supporting the current price:
-•  Total House retirements are already unusually high (51 as of Feb 10, per Goddard), suggesting more Democrats could follow.  
-•  Political climate indicators (tough electoral environment for incumbents) could spur additional Democratic retirements.  
-•  Low volume implies few traders have pushed the price far from 50%, hinting no glaring arbitrage.
+2) EVIDENCE EVALUATION (what I found and how it bears on the probability)
+A. Evidence and data points (most direct and high‑quality)
+- Ballotpedia (track of incumbents not running) — as of March 11, 2026: 56 House incumbents total not running; of those, 21 are Democrats. This is the single best, up‑to‑date tally for the market’s resolution universe and shows the current shortfall relative to the YES band (needs 3–6 more Democrats). (Ballotpedia is the primary public tracker used by most outlets and the one the coverage cites.) This is evidence that the market should start from 21 and judge probability of 3–6 new announcements. (Supports cautious/neutral view of the market price.)
+- Newsweek and other recent reporting (Mar 2026) summarize Ballotpedia counts and emphasize that the 2026 cycle has a wave of retirements — but that the wave has been larger on the Republican side so far. Reporting stressing that many GOP members are leaving makes additional Democratic retirements slightly less likely (relative to the headline “retirement wave” impression). (This tends to push probability down from a very high number.) (Newsweek is mainstream and recent.)
+- Ballotpedia’s “Potential retirement announcements” section lists only a small set of Democrats the site currently identifies as ‘potential’ retirements (example names include Sheila Cherfilus‑McCormick and Sharice Davids). That limited roster of obvious candidates to add to the count argues against a large jump in Democratic non‑runs. (This supports the market’s relatively modest probability.)
+- Historical timing patterns (Bloomberg Government / BGOV reporting and Ballotpedia’s historical charts): retirements are often announced earlier in the cycle, but for the House “retirements spike later in the cycle” compared with the Senate. Still, Ballotpedia shows January is the single busiest month historically and August is one of the quietest months for announcements. That means there is room for later announcements but historically fewer happen in August (the deadline month). (This is mixed evidence: it leaves open 3–6 more announcements but suggests a diminishing chance late in the window.)
 
-Source credibility and recency  
-•  Ballotpedia and AP News are authoritative on retirements announcements.  Goddard’s PoliticalWire piece is timely and cites Chuck Todd.  Washington Examiner article outlines relevant factors but lacks hard data.  
+B. Evidence suggesting the market price might be incorrect (i.e., underpricing)
+- The market price (39.5%) appears a bit low if one believes: (a) the total cycle is already an elevated retirement wave that could push more Democrats to step aside, and (b) there are at least a few Democrats plausibly counted as “potential” retirees who could announce in the next 5–6 months. If the most likely final Democratic not‑running total is near the mid‑20s (e.g., 24–26), the true probability of 24–27 could be ~50% or higher — implying the market may be understated by ~10–15 cents.
+- The market’s current price may be stale or set by a thin set of traders (see market structure below) and therefore could be mechanically biased low.
 
-3. MARKET EFFICIENCY ANALYSIS  
-•  A 55.5% implied probability reflects a modest tilt toward “YES,” consistent with a view that Democratic retirements will accelerate but not explode.  
-•  Low volume and tight spread suggest one or a few traders set the price; absence of active arbitrage may simply reflect low interest rather than confidence.  
-•  The market could be under‐engaged if most informed traders focus on more immediate or higher‐profile questions.
+C. Evidence supporting the market price as reasonable or even high
+- Ballotpedia’s current list (21 Democrats plus a small number of “potential” Democrats) suggests only a modest number (3–6) remain plausibly likely to add — and Ballotpedia is updated aggressively. If traders anchor to Ballotpedia’s observed 21 and historical month patterns (January peak; August quiet), then a ~40% chance that +3–6 occur is a defensible market price.
+- Reporting shows the bulk of the 2026 retirement wave has been Republican so far, which reduces the prior that Democrats will surge suddenly to mid‑20s.
+- Many plausible Democratic members who might have retired already have done so (high‑profile names like Pelosi, Hoyer, etc.), reducing the remaining universe of likely new announcements.
 
-4. MISPRICING ASSESSMENT  
-•  The core uncertainty is the pace of future announcements.  We see plausible paths to both sides of the 24–27 range.  
-•  No single piece of information clearly undercuts or overstates the 55.5% price by more than, say, 10–15 cents.  
-•  Under the most charitable interpretation, traders are pricing in a moderate announcement pace, consistent with current trends and an uncertain political environment.
+D. Source credibility and recency
+- Ballotpedia — high credibility for tracking retirement announcements; explicitly updated March 11, 2026 (primary source used by mainstream outlets). Very relevant and central to resolution criteria. (High credibility, recent.)
+- Newsweek, NBC local reporting, DemList — contemporary mainstream reporting summarizing Ballotpedia data and offering context; useful for direction of trend and party asymmetry. (Medium–high credibility, recent.)
+- Bloomberg Government (BGOV) analysis on retirement timing — strong credibility on historical timing and patterns (useful for interpreting where in the cycle announcements cluster). (High credibility, slightly older but still relevant to timing behavior.)
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that price is wrong: 30% (some indication statements may undershoot the needed retirements, but uncertainty remains high)  
-• Magnitude of mispricing if it exists: 10 cents  
-• Expected value = 0.30 × 10¢ = 3¢ → but given the balanced evidence and lack of strong directional signal, practical EV is close to 0.
+3) MARKET EFFICIENCY ANALYSIS
+- Market mechanics: Age 90 days | Total Vol $0 | Price 39.5% | Spread 1.0¢. Zero trading volume implies no transactions have validated the price — the displayed probability may be simply an initial quote or set by a single user. A 1¢ spread does not imply liquidity (it can be arbitrarily narrow if the creator set it).
+- Reasonable interpretations that justify the price:
+  - The price could reflect a careful, conservative view anchored to Ballotpedia’s 21 Democrats and the historical difficulty of getting many more late‑cycle retirements (so ~40% is a disciplined estimate).
+  - Alternatively, it could be a single trader’s opinion presented as a market quote (thin market); with no volume, the price may not reflect broad aggregation.
+- Likelihood of consensus vs. single‑player pricing:
+  - Given $0 total volume and 90d age, high risk this is effectively a single or few participants’ view rather than an actively aggregated market consensus.
+- Why low volume may be present:
+  - Outcome is somewhat niche and low stakes; few traders focus on counts of retirements vs. partisan control markets.
+  - The event resolves in late August 2026 — traders may prefer to wait for clearer signals (more announcements) before trading.
+  - Conversely, a narrow spread with zero volume suggests the posting party intended a tidy market but found little demand; that increases chance of mispricing.
 
-EXPECTED_VALUE: 0  
-SUMMARY: Only 13 Democratic retirements are on record by early February, requiring 11+ more to hit the 24–27 window—but total retirements are unusually high and the political climate could spur additional announcements. A 55.5% probability reasonably balances these factors, and there’s no clear sign of a large mispricing.  
-CONFIDENCE: medium
+4) MISPRICING ASSESSMENT (weighing both sides)
+- What must happen for YES: 3–6 additional Democratic members must be publicly counted as “not seeking reelection” by the state filing deadlines (late Aug 2026).
+- Bullish case for YES (market underpriced):
+  - There are a handful of credible “potential” Democratic retirements in public discussion; the broader retirement wave creates conditions where more may step aside.
+  - House retirements historically can still accumulate later in the cycle (BGOV notes the House sometimes spikes later), so a nontrivial chance exists of 3–6 further Democratic non‑runs.
+- Bearish case for YES (market reasonably priced or even high):
+  - Ballotpedia’s list already includes most obvious Democratic departures; the documented set of “potential” Democrats is small.
+  - Retirements in August are historically uncommon; the remaining months may not produce enough Democratic announcements to reach 24–27.
+- Verdict: There is credible evidence on both sides and no single decisive fact that the market is grossly wrong. My best point estimate (informal synthesis of the evidence) for the true probability that Dem non‑runs will end between 24 and 27 is about 50% (± a fair margin). The market at 39.5% is plausibly a little low, but the gap is modest (≈10 percentage points), and the available public evidence does not prove a clear, large mispricing. Because the market shows zero volume and a narrow spread, there is a real chance the quoted price is not a robust aggregation — that increases the chance of a small exploitable edge but also increases uncertainty about whether other private information (not in public sources) is being used by traders.
+
+CRITICAL CHECK (self‑challenge per your instructions)
+- Do I understand resolution criteria? Yes — the market counts Democratic members who publicly announce they will not run for re‑election or who run for another office or do not file, and the cutoff is after the final state filing deadlines (expected late Aug 2026). Ballotpedia’s public tally maps directly to that definition, so using Ballotpedia as the primary data source is appropriate.
+- Could the market reflect private information I don’t have? Possibly — members sometimes disclose private plans to close associates before public announcement. That is why the market’s thin liquidity raises concern: a single informed trader could be pricing from non‑public tips. That reduces my confidence in asserting definite mispricing.
+- Large mispricings (>20 cents)? I do not find evidence to justify a >20¢ claim. My estimated gap is roughly 10–12 cents at most and rests on public data.
+
+5) EXPECTED VALUE CALCULATION (numeric reasoning)
+- My assessment: “true” probability ≈ 50% (best single estimate, with uncertainty). Market price = 39.5% → implied mispricing ≈ 10.5 percentage points = 10.5 cents.
+- Strength of evidence that the market is missing this information (i.e., confidence my estimate is better than the market): moderate — I put this at ~50% (there are plausible counterarguments and private information could exist).
+- Expected value = Strength × Magnitude = 0.50 × 10.5 cents = 5.25 cents.
+
+EXPECTED_VALUE: 5.25
+SUMMARY: Ballotpedia (March 11, 2026) shows 21 Democrats already not running; reaching the market’s YES band (24–27) requires 3–6 additional Democratic non‑runs by the late‑August filing deadlines. Public evidence suggests a modest chance (>0% and plausibly ≈50%) that the band will be hit; with zero recorded volume on the market the current 39.5% quote looks slightly low but not clearly or massively mispriced. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Tracking U.S. House retirement announcements | AP News
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://apnews.com/projects/2026-congressional-retirements-tracker
-Summary: The AP News article provides a comprehensive overview of U.S. House retirement announcements, detailing the methodology used to track current and historical retirement data. It distinguishes between members who retire, resign, or die in office, which is crucial for understanding trends in congressional retirements. The article notes that retirement announcements are collected from news reports and official press releases, and it includes specific examples of representatives who retired but resigned before their term ended.
+### [List of U.S. House incumbents who are not running for re-election in 2026](https://ballotpedia.org/List_of_U.S._House_incumbents_who_are_not_running_for_re-election_in_2026)
+**Author:** Ballotpedia staff (unknown single author) | **Published:** 2026-03-11
 
-For predicting the number of Democratic House members who may retire in 2026, the article does not provide specific forecasts but highlights the importance of analyzing historical retirement patterns and current political dynamics. Factors such as party makeup, individual member motivations, and upcoming electoral challenges could influence retirement decisions. Historical data from previous Congresses may also offer insights into trends that could inform predictions for 2026.
+Ballotpedia’s running list is the primary, frequently‑updated tracker of incumbents who will not seek re‑election in 2026. The page reports “As of March 11, 2026, 56 incumbent voting members ... — 21 Democrats and 35 Republicans — have announced that they will not seek re-election,” and breaks those figures into retirees vs. members running for other offices and lists “potential” retirements. This directly supplies the baseline (21 Democrats) against which the market’s YES band (24–27) must be evaluated; it is therefore the most critical piece of evidence in the analysis.
 
-Title: Where House and Senate retirements stand in 2026
-Author: Rachel Schilke
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.washingtonexaminer.com/news/4040585/where-house-senate-retirements-stand-2026/
-Summary: The article discusses the current landscape of retirements among House and Senate members as the 2026 elections approach. While specific numbers of retirements are not definitively outlined, it highlights trends and factors influencing decisions among Democratic lawmakers. 
+### [Republican Departures From Congress Surge Ahead of 2026 Elections](https://www.newsweek.com/republican-departures-from-congress-surge-ahead-of-2026-elections-11638354)
+**Author:** Giulia Carbonaro | **Published:** 2026-03-07
 
-Key points relevant to predicting whether the number of Democratic House members retiring will fall between 24 and 27 include:
+Newsweek summarizes Ballotpedia counts (as of Mar 6, 2026) and emphasizes that while total retirements are unusually high this cycle, the surge has been concentrated among Republicans so far. The story provides context that Republican retirements are driving most of the headline retirement wave — a factor that makes a sudden large increase in Democratic retirements less likely. This supports a conservative reading of the market price.
 
-1. **Historical Trends**: The article may reference past retirement patterns, suggesting that certain cycles see higher turnover rates, particularly among Democrats in competitive districts.
+### [DemDaily: The House Casualty Count!](https://www.demlist.com/demdaily-the-house-casualty-count-2/)
+**Author:** KimS (DemList / DemDaily) | **Published:** 2025-11-25
 
-2. **Political Climate**: The current political environment, including approval ratings and electoral challenges, could impact retirement decisions. If Democrats face significant challenges, more may choose to retire.
+DemList’s “House Casualty Count” compiles retirements and incumbents seeking other offices and notes the early November 2025 landscape (17 Democrats / 23 Republicans at that snapshot). It cites Ballotpedia and other trackers. This piece is useful to show the retirement count evolution and to illustrate that some retirements were concentrated earlier, establishing context that many obvious Democratic departures were announced by late 2025.
 
-3. **Individual Circumstances**: Factors such as age, health, and personal career aspirations of current Democratic members could influence their decisions to retire.
+### [Texas to lose D.C. clout as members of Congress chose not to run for reelection](https://www.nbcdfw.com/news/politics/lone-star-politics/texas-to-lose-d-c-clout-as-members-of-congress-chose-not-to-run-for-reelection/3961909/)
+**Author:** Phil Prazan | **Published:** 2025-12-29
 
-4. **Party Strategy**: The Democratic Party's strategy leading up to the 2026 elections, including whether they aim to refresh their ranks or consolidate power, may also play a role.
+Local reporting (NBC DFW) lists several House members — including Democrats Marc Veasey and Lloyd Doggett — who announced they would not run, and it discusses political and redistricting drivers behind retirements. This illustrates district‑level incentives and how redistricting / competitive dynamics can prompt departures, helping evaluate whether more Democrats still have plausible reasons to step aside before August 2026.
 
-Overall, while the article does not provide a precise prediction, it outlines several factors that could influence the number of Democratic retirements, which could help in assessing the likelihood of the number falling within the specified range.
+### [Senate Retirement Speculation Mounts After Four Say They’re Out](https://news.bgov.com/bloomberg-government-news/senate-retirement-speculation-mounts-after-four-say-theyre-out)
+**Author:** Greg Giroux | **Published:** 2025-03-19
 
-Title: What 51 House Retirements Tell Us
-Author: Taegan Goddard
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://politicalwire.com/2026/02/10/what-51-house-retirements-tell-us/
-Summary: The article discusses the significance of 51 House retirements observed early in February 2026, suggesting that this trend may indicate a challenging political landscape for incumbents. Political analyst Chuck Todd emphasizes that while retirements do not directly cause midterm outcomes, they serve as early indicators of potential electoral shifts. The unusually high number of retirements could reflect a lack of confidence among incumbents regarding their re-election prospects, potentially influenced by the prevailing national mood.
+Bloomberg Government’s analysis focuses on timing patterns for retirements, noting that while many Senate retirements are front‑loaded early in the cycle, House retirements can spike later. It provides a data‑driven perspective on when to expect announcements, which affects the assessed probability that 3–6 additional Democratic House retirements might still be announced between March and the late‑August filing deadline. This is important context for timing risk and supports a nonzero chance of late announcements, but also cautions that many announcements are front‑loaded.
 
-Given this context, the retirements may suggest a turbulent environment for Democratic House members, which could impact their decision to retire. If the trend continues, it could lead to a higher number of retirements, possibly aligning with your query about whether the number of Democratic retirements will fall between 24 and 27. The article implies that the current political climate may indeed lead to significant retirements, making it plausible for the number to fall within that range.
+### [House Committee Party Ratios: 98th-119th Congresses (CRS report R40478)](https://www.congress.gov/crs-product/R40478)
+**Author:** Congressional Research Service | **Published:** 2025-04-29
 
-Title: Mark Amodei becomes the 51st U.S. House member who is not seeking re-election in 2026 - Ballotpedia News
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://news.ballotpedia.org/2026/02/09/mark-amodei-becomes-the-51st-u-s-house-member-who-is-not-seeking-re-election-in-2026/
-Summary: Mark Amodei, a Republican representative from Nevada, recently announced he will not seek re-election in 2026, becoming the 51st U.S. House member to do so. His retirement adds to a growing trend, as 24 of the current non-seeking members are Democrats, with 13 Democrats and 11 Republicans retiring from public office. The 2026 election cycle has seen a total of 60 members of Congress announce their retirement, which is slightly higher than previous cycles at this point.
-
-To predict whether the number of Democratic House members retiring in 2026 will fall between 24 and 27, consider the following factors:
-
-1. **Current Trends**: As of now, 13 Democrats have announced their retirement. Given that the election cycle is still ongoing, more announcements may occur, potentially increasing this number.
-
-2. **Historical Context**: In previous election cycles, the number of retirements has varied. For instance, there were 43 retirements at this point in 2024 and 42 in 2022. This suggests that the current trend could continue, but it is uncertain how many more Democrats might choose to retire.
-
-3. **Political Climate**: The political landscape can influence retirement decisions. If the Democratic Party faces challenges in upcoming elections, more members may opt to retire rather than risk losing their seats.
-
-4. **Individual Decisions**: Each member's decision to retire can be influenced by personal factors, such as age, health, or
-
-Title: Debates, Issue 52 (February 24, 2026) - SenCanada.ca
-Author: Senate of Canada
-Published Date: 2026-02-24T06:09:52.441Z
-URL: https://sencanada.ca/en/content/sen/chamber/451/debates/052db_2026-02-24-e?language=e
-Summary: The webpage from SenCanada.ca discusses the debates held in the Senate on February 24, 2026, covering various topics including statements from senators, legislative proceedings, and committee reports. While it primarily focuses on Canadian Senate activities, it does not provide direct information regarding the retirement of Democratic House members in the U.S. for 2026.
-
-To predict whether the number of Democratic House members retiring will fall between 24 and 27, one might consider factors such as historical retirement trends, current political climate, individual member announcements, and upcoming elections. However, this specific webpage does not contain relevant data or insights related to U.S. House retirements. For accurate predictions, it would be beneficial to consult sources focused on U.S. political analysis or electoral forecasts.
-
-
+CRS report (compiled under the direction of the Clerk of the House) includes authoritative party division numbers and committee ratios for the current Congress. I used the CRS material to confirm the broader House composition context (approximate party totals and that the House majority margin is narrow) which makes retirements consequential and helps interpret party incentives for leaving and for running for other offices. This context affects how traders and campaign professionals might view the likelihood of additional retirements and helps justify conservative discounting of late announcements.

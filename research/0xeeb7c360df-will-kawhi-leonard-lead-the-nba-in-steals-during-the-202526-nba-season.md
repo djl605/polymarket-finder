@@ -1,120 +1,111 @@
 # Research: Will Kawhi Leonard lead the NBA in steals during the 2025–26 NBA season?
 
 **Market ID:** 0xeeb7c360df0b8d6f3eb11d23f17e5136ac4e80f231c8d19d0d5ff92ee0b975bb
-**Researched At:** March 1, 2026 at 05:59:30 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Kawhi Leonard lead the NBA in steals during the 2025–26 NBA season?"
+**Researched At:** March 12, 2026 at 06:16:48 PM UTC
+**Search Query:** "Will Kawhi Leonard lead the NBA in steals during the 2025–26 NBA season?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Kawhi’s 2.1 SPG is elite and likely near league lead, but real risks (health, competition, team context) justify the market’s 21.9% probability. There’s no clear omitted factor suggesting a large mispricing.
+Kawhi is a legitimate contender — he’s been the midseason SPG leader — but availability risk (games played, injuries) plus several rivals with similar SPG and more games make a ~20% market probability plausible. I find no clear large mispricing; estimated EV of acting on a belief the market materially underprices Kawhi is small (~3¢).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Kawhi Leonard will finish the 2025–26 regular season with the highest steals-per-game (SPG) average among qualified players. “YES” requires Leonard to (a) play enough games to qualify under NBA rules (70% of team games, roughly ≥58 games), (b) end with the single highest SPG average, and (c) win tiebreakers if SPG ties (games played then alphabetical). “NO” encompasses any other outcome (other player leads or Leonard fails to qualify).
+I researched recent reporting and stats to evaluate whether the Kawhi Leonard — steals-per-game (SPG) market (current price 20.3%) shows credible mispricing. Below I (A) describe exactly what the market will resolve on, (B) summarize the relevant evidence for and against Kawhi finishing the 2025–26 regular season as the NBA SPG leader, (C) evaluate market efficiency given the market metrics you provided, (D) assess whether there is credible mispricing, and (E) give a simple expected-value estimate for investigating/trading the market.
 
-2. EVIDENCE EVALUATION  
-Bullish for YES  
-• Leonard’s current 2.1 SPG over 41 games (Research #1) is a historically elite rate and likely near the top of the league. Historical leaders often hover around ~2.0 SPG, so 2.1 suggests he is in strong contention.  
-• His known defensive acumen and consistent past seasons with ≥2.0 SPG imply this season’s rate is sustainable if health and role remain stable. (Research #1, #5)  
+1) CONTEXT ANALYSIS — what the market actually asks
+- Resolution rule (from the market text you provided): the contract pays out YES if Kawhi Leonard finishes the 2025–26 NBA regular season with the highest steals-per-game average among qualified players, and NO otherwise. Tie-break rules (more games played, then last-name alphabetical) apply per the market description. (You supplied those exact rules; I used them as the operative resolution criteria.)
+- NBA qualification/leaderboard rule that matters in practice: annual per-game leaders typically must appear in at least 58 of 82 games (70%), or else they can still qualify only if their total stat, prorated to 58 games, would still give them the highest average — i.e., the standard “58-game” qualification rule used by NBA leaderboards. This is the critical technical condition: if Kawhi does not play enough games, he can still qualify only under that prorating exception. ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_NBA_annual_steals_leaders?utm_source=openai))
 
-Bearish for YES  
-• Health/injury risk: Leonard has a documented injury history; missing games risks both qualification and maintaining his average. (Research #5)  
-• Competition: Other guards (e.g., Murray, Thybulle, Holiday) may be averaging ~2.0 SPG or higher; no league-wide SPG leaderboard data is provided, so uncertainty remains. (Research #2)  
-• Team dynamics: Clippers sit 10th in West (27–31) and in a losing slide; reduced defensive intensity, rest or load management could cut into his steal opportunities. (Research #4)  
-• One recent game (2/8) with zero steals (Research #3) shows game-to-game volatility that could drag his average down over an 82-game span.  
+What must happen for YES vs NO
+- YES: Kawhi must finish the regular season with the highest steals-per-game average among players who qualify under NBA rules (i.e., either appear in at least 58 games or meet the prorated qualification), and win any tie-breakers described by the market. Practically this means (a) he needs to continue to post an SPG at or above competing players and (b) he needs to either play enough games or satisfy the prorated rule.
+- NO: any other qualified player finishes with a higher SPG (or tie-breakers go against Kawhi), or Kawhi fails to qualify under the NBA rules and no prorated exception lets him be counted as leader.
 
-Source Credibility & Recency  
-All findings are from late-season 2025–26 sources (Jan–Mar 2026) and derive from reputable outlets (Heavy.com, ESPN, The Ringer, NBA.com). None appear outdated or unreliable.
+2) EVIDENCE EVALUATION — all relevant facts and how they affect probability
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 21.9% price reflects both Leonard’s strong SPG rate and significant uncertainty (injury risk, competition, volatility).  
-• Low $2.6K volume and tight 3.8¢ spread suggests price may reflect few active traders but also consensus tightness around a modest probability—plausibly the view of informed bettors weighing both sides.  
-• The market isn’t obviously dormant—small spread indicates some liquidity—so lack of volume likely reflects genuine debate rather than oversight.
+Key current-state facts (most load-bearing):
+- Kawhi was explicitly reported by NBA communications as “league-leading” in steals per game (2.06 SPG) at the time of his All‑Star addition (Feb 3, 2026) and has been among season SPG leaders since. That establishes he is an active contender midseason with a high steal rate. ([nba.com](https://www.nba.com/news/kawhi-leonard-named-to-2026-nba-all-star-game?utm_source=openai))
+- Public season leaderboards (ESPN / LandOfBasketball snapshots) show Kawhi at ~2.0–2.1 SPG and list several other players (e.g., Cason Wallace, Tyrese Maxey, Ausar Thompson, Dyson Daniels) at or very near ~2.0 SPG but generally with more games and higher totals. Those rivals’ larger games-played and total-steals counts make them credible threats to finish with the highest SPG or win tie-breakers. ([espn.com](https://www.espn.com/nba/seasonleaders/_/sort/avgSteals?utm_source=openai))
+- Totals vs. per-game: some players (e.g., Cason Wallace, Tyrese Maxey) have higher total steals and more games played; a player who maintains a ~2.0 SPG while playing substantially more games is less likely to be displaced by a player who misses many games late. LandOfBasketball shows Cason Wallace leading total steals and Kawhi lower in total steals — that matters for the practical chance of Kawhi holding the lead by season end. ([landofbasketball.com](https://www.landofbasketball.com/year_by_year_stats/2025_2026_leaders_steals_tot_rs.htm?utm_source=openai))
+- Kawhi injury/availability signal: reporting in January and periodically thereafter shows the Clippers have used precautionary rest/injury management for Kawhi (knee contusion/monitoring), with updates that at times upgraded him to questionable/probable; that history means there is nontrivial tail risk of missed games or minutes management for the rest of the season. Injury/management risk directly reduces his probability of qualifying (58 games) or keeping his SPG high over the full season. ([newsweek.com](https://www.newsweek.com/sports/nba/clippers-share-encouraging-news-in-kawhi-leonard-injury-update-11401859?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-• No strong evidence that the market has overlooked key information. The critical drivers (current SPG, health risk, competition) are all embedded in traders’ priors; nothing in the research points to an overlooked factor that would swing probability by >10–15 points.  
-• The existence of competition leaders is under-documented in the research, so the market’s discount for rivals is reasonable.  
-• Downside risks (injury, load management) are real and justify a sub-50% probability despite leading SPG today.
+What suggests the current market price (20.3%) might be wrong
+- Downside risk that seems underpriced: if Kawhi misses many games (below the 58-game threshold) and fails the prorating exception, he cannot be the official per-game leader even if his per-game mark is high in the games he did play. A market price should reflect both his current per-game edge and his availability risk; if the market underweights the injury/qualification risk it could be too high. (This is a plausible source of mispricing, but I found no direct evidence that the market has neglected this risk.)
+- Competition by consistent high‑minute guards: several players (Cason Wallace, Tyrese Maxey, others) have similar SPG but more games and total steals; if one of them finishes the year with a slightly higher SPG — or Kawhi’s SPG regresses even a little — Kawhi loses. If traders were ignoring the game-count/tie-break impact, price might be too high.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (the research doesn’t reveal a clear mispricing)  
-• Magnitude of mispricing: 5¢ (at most a slight undervaluation if one believes he is outright SPG leader today)  
-• Expected value ≈ 20% × 5¢ = 1¢
+What supports the current market price as reasonable
+- Kawhi’s currently league‑leading SPG and elite steal-rate make him a plausible winner if he stays healthy and plays enough minutes/games. Reported per-game numbers (2.06–2.1 SPG in public reporting) show he has a material lead in steal-rate at several checkpoints, which justifies a non-negligible probability. ([nba.com](https://www.nba.com/news/kawhi-leonard-named-to-2026-nba-all-star-game?utm_source=openai))
+- The market’s low-dollar volume ($2,746) and narrow spread (~2.1¢) are consistent with a market that traders are willing to quote small stakes on: narrow spread implies there's at least some liquidity and an accepted price, but the low volume increases the chance that a small number of traders set that price. The current mid-price (~20%) could therefore reflect a pragmatic consensus that incorporates both his SPG lead and the availability risk.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Kawhi’s 2.1 SPG is elite and likely near league lead, but real risks (health, competition, team context) justify the market’s 21.9% probability. There’s no clear omitted factor suggesting a large mispricing.  
-CONFIDENCE: low
+Source credibility and recency
+- NBA.com (official press release) is primary and authoritative for the claim that Kawhi was league-leading in SPG at the All‑Star selection time. It’s recent (Feb 3, 2026) and high credibility for the stat snapshot. ([nba.com](https://www.nba.com/news/kawhi-leonard-named-to-2026-nba-all-star-game?utm_source=openai))
+- ESPN and LandOfBasketball are widely used, timely leaderboards/aggregators; they are credible for ongoing leaderboard snapshots and totals (games played, total steals) but are second‑tier to NBA.com for official final resolution. They are still the best publicly available midseason evidence of who the main contenders are. ([espn.com](https://www.espn.com/nba/seasonleaders/_/sort/avgSteals?utm_source=openai))
+- Newsweek and similar reporting on injury updates are useful for availability signals, but injury reporting can be noisy and change quickly; it is lower credence than official team medical bulletins but still relevant to availability risk. ([newsweek.com](https://www.newsweek.com/sports/nba/clippers-share-encouraging-news-in-kawhi-leonard-injury-update-11401859?utm_source=openai))
+- Wikipedia’s summary of the NBA leader qualification rule is consistent with the standard, well-known “58-game” threshold/prorating exception and is adequate for explaining qualification mechanics (I used it to check how qualification is typically applied). For final resolution the NBA.com official leaderboard will be authoritative. ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_NBA_annual_steals_leaders?utm_source=openai))
+
+Skepticism about “obvious” evidence
+- If Kawhi’s midseason lead were so decisive that the market should price him at >60–70%, we would expect much higher liquidity and heavier trader interest. Instead we see a modest 20% probability and low volume — that suggests market participants are factoring in meaningful availability/regression risk and competition. The absence of a large move toward a high probability despite public leaderboards is itself evidence that informed traders see substantial downside risk or uncertainty.
+
+3) MARKET EFFICIENCY ANALYSIS — is the price believable, and why?
+- Reasonable interpretations that justify a ~20% price:
+  - Traders are assigning significant probability to Kawhi missing enough games (or having his season average regress) such that he will not qualify or will be overtaken by a guard who plays more games. The 20% figure reflects a balance between his high midseason SPG and the chance he won’t sustain it or won’t meet qualification.
+  - Low total volume (~$2.7k) means the market price can be set by a handful of engaged traders; that increases noise risk but doesn’t prove mispricing. Tight spread implies whoever is making markets is willing to quote that price; they might be informed or simply risk-managing.
+- Could the price reflect genuine consensus or just one/few traders? With low TV and a tiny spread, both are possible. The narrow spread suggests at least one liquidity provider is comfortable with the valuation; low total volume means that valuation might not have been stress-tested by many contrarian trades.
+- Is low volume because the outcome is obvious? No — if the result were obvious (Kawhi almost certain), the market would likely show a much higher probability and attract more volume. Low volume more plausibly means the topic is niche and that sophisticated bettors (who typically move these markets) are uncertain and not aggressively deploying capital; that increases the chance of inefficiency, but does not prove it.
+
+4) MISPRICING ASSESSMENT — is there credible evidence of mispricing?
+- Bottom line: I did not find clear, specific evidence that the market is mispricing Kawhi by a large margin. Public stats show Kawhi leading SPG midseason (supporting a nontrivial chance), but credible countervailing facts (game totals and totals from Cason Wallace/Tyrese Maxey, Kawhi’s recent injury/management history, and the 58-game qualification rule) justify materially discounting Kawhi’s chance relative to a naive interpretation of the raw per-game lead. Those factors make a ~20% market probability plausible.
+- The market would be mispriced only if (a) Kawhi’s health and games-played risk were much smaller than market assumes and (b) public leaderboards and player-minute trends indicate he’s a clear favorite — I found no evidence that both of those are true. Instead, public evidence shows both a current per-game edge and meaningful downside risks, which is consistent with the market’s sub-50% price.
+- Critical check (re-check resolution criteria): the market resolves to the player with highest steals-per-game among qualified players per NBA rules; if Kawhi doesn’t meet the games threshold and does not qualify by prorating, he is ineligible — that single technical rule is the primary reason a midseason high per-game mark does not automatically translate into a high season-end probability. I confirmed the 58-game/prorating rule. ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_NBA_annual_steals_leaders?utm_source=openai))
+
+5) EXPECTED-VALUE CALCULATION (estimating the EV of acting on a belief the market is mispriced)
+- Strength of evidence that the market is missing key info (i.e., probability the market underprices Kawhi): I estimate ~35% — there is some chance public reporting underweights Kawhi’s continued availability and elite steal-rate, but not a large chance. (This is subjective but constrained by the mixed signals above.)
+- Magnitude of plausible mispricing (if market is wrong): given current public stats and the uncertainty, a realistic maximum error I can justify is roughly 8 cents (i.e., market should be ~28% rather than 20%). A larger gap (>20 cents) would require clear evidence that Kawhi will both (a) play enough games and (b) sustain/extend his SPG lead — which I did not find. (This magnitude is intentionally conservative.)
+- Expected value = Strength × Magnitude = 0.35 × 8¢ ≈ 2.8¢ → round to 3.0¢.
+
+6) CONFIDENCE in this assessment
+- I rate my confidence as medium. There is timely, credible information about current steals rates and competing players, but roster/injury news and per-game volatility can move outcomes rapidly; the market’s low volume increases uncertainty about how fully public signals have been priced.
+
+Concise final judgement
+- The publicly available evidence (official NBA/press snapshots and aggregator leaderboards) shows Kawhi currently among the steals-per-game leaders and supports a nontrivial chance he finishes on top; competing players with more games/total steals and Kawhi’s availability risk justify a substantial discount. I do not see credible evidence that the market is mispriced by a large amount; the market price ~20% looks defensible. There is a small expected return to discovering a modest mispricing (EV ≈ 3¢), but the trade-off with uncertainty and low market liquidity means this is a low-to-moderate edge.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Kawhi is a legitimate contender — he’s been the midseason SPG leader — but availability risk (games played, injuries) plus several rivals with similar SPG and more games make a ~20% market probability plausible. I find no clear large mispricing; estimated EV of acting on a belief the market materially underprices Kawhi is small (~3¢).
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Kawhi Leonard Stats, Game Log, News, Profile & Fantasy
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://heavy.com/nba/player/kawhi-leonard/
-Summary: Kawhi Leonard, currently playing for the LA Clippers, has a career average of 1.8 steals per game. In the 2025-26 season, he has recorded an average of 2.1 steals per game over 41 games, indicating a strong defensive performance. His historical stats show a consistent ability to generate steals, with notable seasons where he averaged over 2 steals per game. 
+### [Kawhi Leonard named to 2026 NBA All‑Star Game](https://www.nba.com/news/kawhi-leonard-named-to-2026-nba-all-star-game)
+**Author:** NBA.com Staff | **Published:** 2026-02-03
 
-Factors to consider for predicting whether he will lead the NBA in steals include his current form, health status, and the defensive schemes employed by the Clippers. Additionally, competition from other players in the league who also excel in steals should be evaluated. Given his current performance and historical averages, he is a strong candidate for leading in steals, but external factors will ultimately influence this outcome.
+Official NBA Communications release announcing Kawhi Leonard’s addition to the 2026 All‑Star player pool. The release explicitly reports Kawhi’s season stat snapshot at the time (listed as “league‑leading 2.06 steals” in 36 games), establishing he was the midseason steals-per-game leader and quantifying his steal rate and games played at that checkpoint. This supports the view that Kawhi is a real statistical contender for the seasonal SPG title (it increases the baseline probability), but it is only a midseason snapshot and does not by itself show whether he will qualify or sustain the rate through the full season. ([nba.com](https://www.nba.com/news/kawhi-leonard-named-to-2026-nba-all-star-game?utm_source=openai))
 
-Title: NBA Awards and Superlatives From the First Half of the Season
-Published Date: 2026-01-20T00:00:00.000Z
-URL: https://www.theringer.com/2026/01/20/nba/nba-midseason-awards-trade-rumors
-Summary: The article discusses the standout performances and key narratives from the first half of the 2025-26 NBA season. While it does not specifically mention Kawhi Leonard's current standing in steals, it highlights various players' impressive defensive skills and overall contributions. To predict whether Kawhi Leonard will lead the NBA in steals, consider his historical performance, current season statistics, and any recent trends in his defensive play. Additionally, the article notes the most impressive players and under-the-radar candidates, which could provide context on the competitive landscape for steals this season. For a more accurate prediction, look at Leonard's average steals per game, his defensive matchups, and any injuries or changes in team dynamics that could affect his performance.
+### [2025-2026 NBA Season Leaders - Steals Per Game (ESPN season leaders page)](https://www.espn.com/nba/seasonleaders/_/league/nba/sort/avgSteals)
+**Author:** ESPN staff (site) | **Published:** Unknown
 
-Title: NBA Daily Stats Leaders - February 08, 2026 - National Basketball Association - ESPN
-Author: 
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://www.espn.com/nba/dailyleaders/_/date/20260208/sort/steals
-Summary: On February 8, 2026, Kawhi Leonard had a standout performance, scoring 41 points, grabbing 8 rebounds, and providing 2 assists in a game against Minnesota. However, he did not record any steals in that game. This performance reflects his scoring ability but raises questions about his defensive contributions, particularly in steals, which are crucial for leading the league in that category.
+ESPN’s live season-leaders page lists steals-per-game and includes per-player games played, totals, and per-game averages. In recent snapshots Kawhi appears near the top (~2.0–2.1 SPG) while players like Cason Wallace and Tyrese Maxey are shown at or near ~2.0 SPG with higher games and total steals. This is relevant because it shows the primary competitive field and demonstrates that other players’ larger game counts make them plausible season-end leaders; ESPN’s data supports the market’s discounting of Kawhi due to competition and games-played dynamics. ([espn.com](https://www.espn.com/nba/seasonleaders/_/sort/avgSteals?utm_source=openai))
 
-To assess whether Leonard could lead the NBA in steals for the 2025–26 season, consider his overall season statistics, defensive role, and historical performance in steals. While he is known for his defensive prowess, his current season averages and the competition from other players will be significant factors. As of this date, Leonard's focus seems to be more on scoring, as indicated by his recent game stats. 
+### [2025-26 NBA Regular Season: Steals Per Game Leaders (LandOfBasketball)](https://www.landofbasketball.com/year_by_year_stats/2025_2026_leaders_steals_pg_rs.htm)
+**Author:** Unknown (LandOfBasketball) | **Published:** Unknown
 
-For a more accurate prediction, one would need to analyze his season averages in steals, compare them with other top defenders, and consider any changes in his playing style or team dynamics throughout the season.
+LandOfBasketball’s 2025–26 SPG leaders snapshot lists Kawhi at ~2.1 SPG (top of the list) and shows other players (Cason Wallace, Tyrese Maxey, Ausar Thompson, Dyson Daniels) in close pursuit, plus a table for total steals that shows Wallace and Maxey ahead in totals. The page also notes the practical rule used for minimums during an in‑progress season (70% of team games / 58 for 82), which matters for qualification. This site’s combined per-game and totals view underpins the argument that Kawhi’s per-game lead may be fragile relative to players with more games played. ([landofbasketball.com](https://www.landofbasketball.com/year_by_year_stats/2025_2026_leaders_steals_pg_rs.htm?utm_source=openai))
 
-Title: NBA Standings — 2025-26 Season
-Published Date: 2026-03-01T05:49:12.540Z
-URL: https://www.nba.com/standings?origin=exa
-Summary: To assess whether Kawhi Leonard will lead the NBA in steals during the 2025-26 season, consider the following relevant factors from the current standings and team performance:
+### [2025–26 NBA steals per game — List of NBA annual steals leaders (Wikipedia)](https://en.wikipedia.org/wiki/List_of_NBA_annual_steals_leaders)
+**Author:** Unknown | **Published:** Unknown
 
-1. **Team Performance**: The Los Angeles Clippers, Kawhi's team, currently holds a record of 27 wins and 31 losses, placing them 10th in the Western Conference. Their position indicates a competitive environment, which can impact individual player statistics, including steals.
+The Wikipedia page explains the standard NBA qualification rule often applied to per-game leaderboards (players normally must appear in at least 58 games to qualify for an 82-game season, with a prorating exception if they appear in fewer games). I used this source to confirm the common formal qualification/prorating rule that the market’s resolution depends on; that rule is the core technical reason why a midseason per-game lead does not automatically imply a season-end title. For official resolution, the NBA.com leaderboard is authoritative, but this page clarifies the mechanics used in practice. ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_NBA_annual_steals_leaders?utm_source=openai))
 
-2. **Kawhi Leonard's Role**: As a key player, Leonard's defensive capabilities are crucial. His ability to generate steals often correlates with his minutes played and the overall defensive strategy of the Clippers. If the team continues to struggle, it may affect his playing time and focus on offense over defense.
+### [Clippers Share Encouraging News in Kawhi Leonard Injury Update](https://www.newsweek.com/sports/nba/clippers-share-encouraging-news-in-kawhi-leonard-injury-update-11401859)
+**Author:** Jalon Dixon | **Published:** 2026-01-22
 
-3. **Current Defensive Trends**: The standings show that teams like the Oklahoma City Thunder and San Antonio Spurs are performing well, which could lead to more competitive games. In such scenarios, players like Leonard may have increased opportunities to make defensive plays, including steals.
-
-4. **Recent Performance**: The Clippers are on a losing streak (L3), which may lead to adjustments in their defensive strategies. If the team shifts focus to improving their defense, Leonard could see an uptick in steal opportunities.
-
-5. **Competition**: Other players in the league are also vying for the steals title. Monitoring their performance and the defensive metrics of competing teams will be essential in predicting Leonard's chances.
-
-In summary, while Kaw
-
-Title: NBA Rank 2025: Player rankings Nos. 50-11 - ESPN
-Author: ESPN Insiders
-Published Date: 2025-09-24T00:00:00.000Z
-URL: https://www.espn.com/nba/story/_/id/46306594/nba-rank-2025-2026-williams-harden-morant-best-players-50-11
-Summary: The ESPN article on NBA Rank 2025 discusses player rankings from Nos. 50-11, highlighting significant performances and potential for the upcoming season. While it does not specifically mention Kawhi Leonard's ranking or his defensive statistics, it provides insights into players who made notable leaps, which could indirectly affect Leonard's standing in defensive metrics like steals.
-
-To predict whether Kawhi Leonard will lead the NBA in steals during the 2025–26 season, consider the following factors:
-
-1. **Defensive Skills**: Leonard is known for his exceptional defensive abilities, including his quick hands and anticipation, which contribute to his steals.
-
-2. **Health and Availability**: Leonard's injury history may impact his playing time and effectiveness. If he remains healthy throughout the season, his chances of leading in steals increase.
-
-3. **Team Dynamics**: The defensive schemes employed by the Los Angeles Clippers and the presence of other defensive-minded players can influence Leonard's opportunities to accumulate steals.
-
-4. **Comparative Performance**: Analyze the performance of other top defenders in the league, as competition for the steals title can be fierce.
-
-Overall, while the article does not provide direct information about Leonard's potential to lead in steals, understanding his defensive prowess and the factors affecting his performance will be crucial in making an informed prediction.
-
-
+Newsweek’s reporting on a January 2026 Kawhi Leonard injury update described Kawhi’s left‑knee contusion, a brief absence, and the Clippers’ cautious management (questionable/probable designations around that time). The article illustrates that Kawhi has had recent availability/management incidents during the season; such injury/management risk reduces his chance of meeting NBA qualification thresholds and sustaining a season‑long SPG lead, which is a central factor justifying why the market discounts him below a very high probability. ([newsweek.com](https://www.newsweek.com/sports/nba/clippers-share-encouraging-news-in-kawhi-leonard-injury-update-11401859?utm_source=openai))

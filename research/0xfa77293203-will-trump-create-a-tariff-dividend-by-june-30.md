@@ -1,88 +1,125 @@
 # Research: Will Trump create a tariff dividend by June 30?
 
 **Market ID:** 0xfa772932032462681258298f5b3471dd5f2f5ee514b51558db05a39556d5e97f
-**Researched At:** March 6, 2026 at 04:17:35 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump create a tariff dividend by June 30?"
+**Researched At:** March 12, 2026 at 06:18:41 PM UTC
+**Search Query:** "Will Trump create a tariff dividend by June 30?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.9¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-No recent legislative or executive actions, combined with legal setbacks and funding shortfalls, make the 17% market price appear overstated; a fair probability is closer to 10%, implying a modest mispricing of around 7 cents.
+The Supreme Court’s Feb 20, 2026 decision invalidating IEEPA‑based tariffs, Treasury and independent revenue analyses, and the need for appropriation make a lawful, administrable tariff dividend by June 30 unlikely; the market’s 17.5% price plausibly reflects that. A small tail (executive workaround or quick Congressional action) keeps a nonzero chance, producing a modest expected-value edge (~2.5 cents).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether President Trump will formally create a tariff dividend or rebate—by signing legislation or taking executive action—on or before June 30, 2026. A “Yes” requires a legally valid program that explicitly ties a payment to tariff revenue; anything less (mere proposals, speeches, or routine tax refunds) resolves “No.”
+I searched recent reporting and legal analysis and assessed the evidence for and against this market resolving “Yes” (a formal tariff-dividend/rebate created by June 30, 2026). Below are my findings and judgment.
 
-2. EVIDENCE EVALUATION  
-Bearish evidence (arguing price too high):  
-- Fox 5 New York (2026-03-01): No proposals or legislative drafts; Treasury’s $133 billion in import taxes falls short of funding a meaningful dividend; recent court rulings have struck down key tariffs.  
-- Oklahoma.com (2026-02-25): A 2/20 Supreme Court ruling undercuts Trump’s unilateral tariff authority, casting doubt on any downstream dividend.  
-- CNBC (2026-02-23): Experts deem $2,000 checks “less likely,” citing political pushback and implementation hurdles.  
-- Newsweek (2026-02-11): Trump still discussing tariffs but offers no timeline; no formal steps toward a June 30 program.  
-- The Hill: No active pursuit by lawmakers; debate remains theoretical.  
-All sources are recent (February–March 2026) and from mainstream outlets. They uniformly judge the chance of a dividend by June 30 as very low.
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- Market question: “Will Trump create a tariff dividend by June 30, 2026, 11:59 PM ET?” Resolution = Yes only if the Trump administration “formally creates (e.g., by signing federal legislation or performing executive action) a tariff dividend/rebate” within the window. Executive action (not only legislation) is explicitly allowed by the market description, and the payment only needs to be clearly attributed primarily to tariff revenue.
+- What must happen for YES:
+  - The Administration must take a formal step (signed law or an identifiable executive action) before the deadline that explicitly creates the dividend/rebate program, OR
+  - A law must be passed and signed that authorizes/creates the rebate before the June 30 cutoff.
+- What would resolve NO:
+  - No formal, credible legislative or executive act creating such a tariff dividend is announced and reported by credible sources before the deadline; or an announced plan is legally or administratively impossible to implement and therefore not treated as a formal creation in credible reporting.
 
-Bullish evidence (arguing price reasonable):  
-- Trump’s repeated public endorsements of a $2,000 “tariff dividend” could generate last-minute executive action.  
-- Low-volume markets often capture only a handful of traders’ high-conviction views; some may assign a small “surprise” probability to political gambits.
+2) EVIDENCE EVALUATION — evidence that moves probability
+Summary of the most relevant findings (recent, authoritative sources used below):
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 17% price could represent:  
-- A “just in case” probability that Trump overrides legal and funding obstacles via some novel executive maneuver.  
-- The conviction of a lone trader unchallenged in a thin-volume market.  
-Given zero signs of bill drafting or political momentum, informed traders appear under-engaged; the tight spread likely masks inefficiency.
+A. Evidence that increases probability (bullish for YES)
+- Repeated public promises from President Trump offering $2,000-per-person “tariff dividend” and saying checks could come by mid‑2026. (Administration messaging raises political will and a plausible attempt to hit the mid‑2026 timeline.)
+- There are at least companion legislative pushes from allied Republicans (e.g., Sen. Josh Hawley’s rebate bill and House bills introduced referencing tariff rebates), which show some Congressional proposals exist to allocate tariff revenue to checks. That provides a legislative path if Congress chooses it.
+- After the Supreme Court ruling invalidated IEEPA-based tariffs, the Administration moved quickly to terminate those specific IEEPA orders and issued temporary replacement tariffs under Section 122 (Trade Act) that the Administration says will generate revenue and which can be set for up to 150 days — a legal route that keeps some tariff receipts flowing through June 30 (the Section 122 temporary authority extends past June 30 in current actions). The Administration has signaled it could use alternative legal authorities and temporary proclamations to maintain tariff revenue in the short run.
 
-4. MISPRICING ASSESSMENT  
-The cumulative evidence strongly suggests the chance is closer to 5–10% than 17%. Absent any legislative text or administrative roadmap within four months, 17% likely overstates the risk of a political surprise. No contradictory data appear missing; the key resolution criteria (formal action tied to tariff revenue) remain unmet.
+Why these support YES: the combination of political will (public promises), draft legislation, and available temporary tariff authority (Section 122) means the Administration has both the incentive and some short-term legal levers to try to “create” a dividend before June 30 — particularly because the market’s resolution language allows executive action.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 70% (uniform, recent, credible sources)  
-Estimated mispricing magnitude: ~7 cents (17% vs. an estimated fair probability of ~10%)  
-Expected value = 0.70 × 7 cents ≈ 4.9 cents
+B. Evidence that decreases probability (bearish for YES)
+- Legal obstacle: On February 20, 2026, the U.S. Supreme Court (Learning Resources v. Trump) held that the International Emergency Economic Powers Act (IEEPA) did not authorize the President to impose the broad tariffs he had relied on — a major legal setback for the Administration’s tariff program. The Administration halted collection of many IEEPA‑based tariffs and CBP stopped collection/has been directed to cease collecting those duties, triggering litigation and potential refund/reliquidation obligations to importers. That reduces available cash receipts in the short term and makes the “tariff revenue” base legally contested and uncertain.
+- Administration admissions/administrative constraints: Senior administration officials (including Treasury Secretary Scott Bessent and others) have publicly said direct $2,000 checks would likely require Congressional approval or could instead be delivered as tax changes; Treasury has been cautious and suggested the proposal lacks a formal implementation plan. Many senior Republican lawmakers (including several Senate Republicans) have publicly questioned or opposed large checks, preferring to devote tariff revenue to debt reduction — political resistance in Congress is material.
+- Independent revenue analyses (Tax Foundation and other fiscal analysts) show that tariff revenue estimates are far smaller than the headline $2,000 × population numbers imply (and many credible analyses show that typical tariff-rebate designs would cost more than the incremental tariff revenue in 2025–26). Litigation, refunds, and the Supreme Court decision increase near-term revenue uncertainty.
+- Practical/constitutional constraint: Even if some tariffs are in place, routine federal practice is that direct payments to individuals generally require congressional appropriation or clear statutory authority; unilateral large-scale direct payments by executive fiat are legally and politically risky and likely to be litigated — the market must expect these constraints.
 
-EXPECTED_VALUE: 4.9  
-SUMMARY: No recent legislative or executive actions, combined with legal setbacks and funding shortfalls, make the 17% market price appear overstated; a fair probability is closer to 10%, implying a modest mispricing of around 7 cents.  
+Why these support NO: the Supreme Court decision and attendant administrative/CBP actions materially reduce—or at least put in litigation and uncertainty—any clear pool of tariff receipts that can be credibly and immediately claimed as funding for a dividend. Treasury and legal analyses indicate Congress is the typical route for this kind of payment; with significant GOP resistance and legal exposure, the path to a lawful, administrable rebate by June 30 looks narrow.
+
+C. Source credibility and recency
+- Supreme Court decision and follow-up legal analyses (AP, Brennan Center, law firms DLA Piper / White & Case / Perkins Coie, Cornell/LII) are highly credible and current (Feb 20, 2026, and subsequent short-term analysis). Those are high‑quality, directly relevant legal facts.
+- Treasury Department and administration public comments reported by Reuters, Forbes, Axios, Washington Post — credible mainstream reporting of senior officials’ statements (Nov–Jan 2025–2026 timeframe, and January 2026 reporting). These matter because they reflect the Administration’s own stated position.
+- Independent fiscal estimates (Tax Foundation, CBO references in reporting) are credible for revenue scalings and are recent (Nov 2025–early 2026).
+- Coverage of legislative activity (Sen. Hawley’s bill, House bills) comes from primary sources (Senator’s office, Congress.gov) and reputable outlets (Forbes, NBC), so those are trustworthy for the existence of proposals (but not for likelihood of passage).
+
+D. Skepticism about obvious evidence
+- It’s easy to point to Trump’s public pledge alone and assume a high chance of execution. But the legal and appropriation constraints — now sharpened by the Supreme Court ruling and CBP actions — are not obvious in a single headline. If it were that straightforward, the market (and professional traders) would already have priced it higher; the current low price plausibly reflects these structural obstacles.
+
+3) MARKET EFFICIENCY ANALYSIS — how to interpret the market price (17.5%, low volume)
+- Reasonable interpretation for 17.5%:
+  - The market appears to discount sharply the legal, administrative, and political obstacles highlighted above. Given the Supreme Court ruling (Feb 20, 2026) and CBP stopping collection/refunding of IEEPA duties, the near-term revenue base is uncertain; Treasury’s public hedging that Congress would likely be needed lowers odds. A probability around 15–20% for a last‑minute executive/legal workaround or a quick Congressional action seems consistent with that information.
+- Could price reflect a small group of traders rather than broad consensus?
+  - Low total volume ($7,423) and a narrow spread suggest a few active traders set the price and there has been limited arbitrage or large liquidity to prove/disprove that view. That increases the chance the price is driven by a few informed or overconfident traders; however the tight spread suggests at least some liquidity providers believed that mid‑teens is the fair quote.
+- Why low volume? Two plausible reasons:
+  - The event is both legally and politically technical — many informed traders may avoid it because resolution depends on a mix of court rulings, short administrative windows, and precise legal mechanics (executive orders versus statutory appropriation).
+  - Alternatively, it may be “obvious” to informed traders that the legal hurdles make the event unlikely, so they see little edge and trade small amounts.
+
+4) MISPRICING ASSESSMENT — is there credible evidence the market is mispriced?
+- In short: I did not find specific, credible evidence of a large, obvious mispricing. The facts that most strongly move the price (SCOTUS ruling, CBP action on duties/refunds, Treasury caution that checks would need legislation) are public and recent, and those factors point strongly toward a low probability of a lawful, administrable tariff dividend created by June 30. The market’s 17.5% is broadly consistent with a tail chance that:
+  - The Administration executes a narrowly framed executive action (using Section 122 authority, creative administrative transfers, or reclassification) that a consensus of reporters treat as “formal creation,” or
+  - Congress (or a small set of Republican leaders) quickly passes enabling language before the deadline, or
+  - The Administration announces a credible formal plan (even if legally contestable) that the market’s resolution panel will accept as “formal creation.”
+- Critical re-check: Because the market allows executive action to qualify, one must ask: could the Administration plausibly produce a qualifying executive action between now and June 30? Possibly, via temporary Section 122 tariffs (in effect through late July under current proclamations) or administrative re-labelling of tax reductions—BUT the legal authority to make unilateral, direct payments without appropriation is weak and likely to be challenged. Given that, the 17.5% market price looks reasonable; I did not find a decisive missing fact (e.g., an upcoming unreported bill scheduled for a vote) that would justify declaring a major mispricing. Put another way: I found no specific, credible signal that traders have overlooked which would push the true probability materially above ~35–40% (which would be necessary to call a >20 cent mispricing vs 17.5%).
+
+5) EXPECTED VALUE CALCULATION — quantifying possible mispricing
+- My judgment: there is a small chance the market is underpricing a late executive or legislative maneuver; however that chance is modest because legal and appropriation constraints plus the Supreme Court ruling and refund risk have materially lowered the feasible paths.
+- Assessment:
+  - Strength of evidence that price misses important information: 35% (I judge the evidence for a meaningful missed upside is modest — there is some chance of a last-minute creative administrative or political solution, but it’s far from certain).
+  - Magnitude of plausible mispricing (if wrong): I estimate a plausible upside mispricing of ≈ 7 cents (i.e., fair probability maybe ~25% vs market 17.5% → ~7.5 cent gap; I pick ~7¢ as a central reasonable error magnitude for a low‑volume political/legal event with short horizon).
+  - Expected value = Strength × Magnitude = 0.35 × 7¢ ≈ 2.45¢ → round to 2.5 cents.
+- Rationale: the small EV reflects (a) the short time window to June 30, (b) the serious legal and appropriation barriers (strengthening the “No” case), and (c) the fact that administration countermeasures (temporary Section 122 tariffs) keep a narrow path open to YES.
+
+6) CONFIDENCE IN ASSESSMENT
+- I assign medium confidence. There is reliable public reporting of a decisive legal development (SCOTUS) and of administration statements; but outcomes depend on fast-moving legal, administrative, and political moves where new information could rapidly change the odds. The medium label reflects good evidence but notable residual uncertainty.
+
+Final short conclusion
+- The market price (17.5%) looks broadly reasonable given (a) the Supreme Court’s Feb 20, 2026 ruling invalidating IEEPA-based tariffs and the administrative and litigation fallout, (b) Treasury’s public statements that checks would probably require Congressional action or other complicated mechanisms, and (c) independent fiscal estimates that tariff revenues are unlikely to fund a $2,000-per-person program without additional statutory authorization. A small (but nontrivial) upside tail — executive creativity or a rapid legislative push — keeps a >0% chance of YES, and so I do not find clear, specific evidence of a large mispricing. Expected mispricing EV ≈ 2.5¢ per $1.
+
+EXPECTED_VALUE: 2.5
+SUMMARY: The Supreme Court’s Feb 20, 2026 decision invalidating IEEPA‑based tariffs, Treasury and independent revenue analyses, and the need for appropriation make a lawful, administrable tariff dividend by June 30 unlikely; the market’s 17.5% price plausibly reflects that. A small tail (executive workaround or quick Congressional action) keeps a nonzero chance, producing a modest expected-value edge (~2.5 cents).
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Stimulus payment March 2026, IRS direct deposit relief, tariff dividend & tax refund fact check | FOX 5 New York
-Author: Sam Kosmas
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.fox5ny.com/news/stimulus-payment-march-2026-irs-direct-deposit-relief-tariff-dividend-tax-refund-fact-check
-Summary: There is no current indication that President Trump plans to create a tariff dividend by June 30, 2026. While Trump has previously promoted the idea of issuing a $2,000 dividend funded by import taxes, no recent official proposals or legislative actions have been announced to implement such a program. The Treasury has collected over $133 billion from import taxes, but estimates suggest that funding a broad tariff dividend would require significantly more revenue than currently available. Additionally, legal challenges and court rulings have already struck down some of Trump's tariffs, and there is no confirmed plan or timeline for new tariffs or dividend payments. Therefore, based on current information, it is unlikely that a tariff dividend will be created by June 30, 2026.
+### [Trump doesn't think he will have to ask Congress to OK tariff dividend checks](https://www.reuters.com/article/us-usa-trump-tariffchecks-idUSKBN2XQ0YV)
+**Author:** Unknown (Reuters) | **Published:** 2026-01-20
 
-Title: Are $2,000 dividend checks coming? Trump address tariffs at State of the Union
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: http://www.oklahoman.com/story/business/economy/2026/02/25/trump-2000-tariff-dividend-checks-coming-state-of-the-union/88860721007/
-Summary: The webpage discusses the possibility of $2,000 dividend checks from Trump related to tariffs, which he promised last fall. However, a February 20 Supreme Court ruling determined that Trump lacked the authority to impose sweeping tariffs unilaterally, casting doubt on the future of such dividend payments. The ruling may impact the administration's ability to implement or distribute tariff-related rebates. Additionally, reports indicate tariffs have significantly increased costs for American households—over $1,000 annually in 2025—with potential increases in 2026. Given the legal setback and ongoing economic impacts, it is uncertain whether Trump will create a tariff dividend by June 30.
+Reuters reported President Trump saying he did not think he would need Congress to authorize tariff dividend checks and quoted administration officials and advisers commenting on feasibility and timing. This source is relevant because it records the Administration’s own stated intent and provides direct evidence of political will to pursue a tariff dividend — a factor that raises (but does not guarantee) the market’s chance of YES. It supports the bullish possibility (an executive push) but also includes cautionary reporting that other senior officials view Congressional action as likely required.
 
-Title: Trump's $2,000 tariff dividend checks are less likely, experts say
-Author: Jessica Dickler
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html
-Summary: The article discusses the likelihood of former President Donald Trump issuing $2,000 tariff dividend checks, a proposal linked to his trade policies. Experts suggest that such dividend payments are less probable than previously anticipated. Factors influencing this include economic considerations, political dynamics, and the practical challenges of implementing large-scale dividend distributions tied to tariffs. Given current assessments, it appears unlikely that Trump will create a tariff dividend by June 30.
+### [Supreme Court strikes down Trump's sweeping tariffs, sparking fierce pushback and vow of new levies](https://apnews.com/article/0485fcda30a7310501123e4931dba3f9)
+**Author:** Unknown (AP) | **Published:** 2026-02-20
 
-Title: Are Trump’s Tariff Checks Coming in February? What To Know - Newsweek
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: http://newsweek.com/trumps-tariff-checks-coming-february-dividends-11502453
-Summary: The article reports that President Trump has expressed serious interest in distributing $2,000 rebate checks funded by tariffs, initially announced in November. He indicated that Americans would receive these "tariff dividends" at some point, emphasizing his unique authority to do so due to tariff revenue. However, there is no specific timeline provided, and a White House official has only confirmed ongoing discussions without confirming a set date. Based on this information, there is no clear indication that Trump will create a tariff dividend by June 30; the plans remain uncertain and dependent on future decisions.
+Associated Press coverage of the U.S. Supreme Court’s February 20, 2026 decision (Learning Resources, Inc. v. Trump) holding that IEEPA did not authorize the President’s broad tariff program and the immediate consequences, including the administration’s vow to use other authorities. This is a pivotal factual development that materially reduces the legal certainty of the Administration’s tariff revenue base and therefore weakens the immediate feasibility of a tariff-funded dividend; it strongly supports the bearish (NO) case.
 
-Title: Where does Trump's $2000 tariff rebate promise stand ...
-URL: https://thehill.com/homenews/nexstar_media_wire/5660951-where-does-trumps-2000-tariff-rebate-promise-stand-heading-into-2026/
-Summary: The article discusses the status of former President Trump's promise to provide a $2,000 tariff rebate, with a focus on the timeline leading into 2026. While the rebate was a campaign pledge aimed at offsetting tariffs imposed during his administration, there is no indication that such a rebate has been implemented or is actively being pursued by current policymakers. The coverage highlights ongoing tariff policies, recent tariff adjustments, and political debates surrounding tariffs, but does not suggest any concrete steps toward delivering a tariff dividend or rebate by June 30 or any specific date. Therefore, based on current information, it appears unlikely that Trump will create a tariff dividend by June 30.
+### [United States terminates IEEPA-based tariffs following supreme court decision](https://www.jdsupra.com/legalnews/united-states-terminates-ieepa-based-8311916/)
+**Author:** White & Case LLP (Unknown individual author) | **Published:** 2026-02-24
 
+Legal-practice analysis summarizing the executive actions taken after the Supreme Court decision — an executive order terminating IEEPA-based tariffs and steps by the Administration to impose temporary Section 122 tariffs (and related CBP guidance on ceasing collection and refunding certain duties). This source documents that (a) many prior tariffs were terminated/put into reliquidation, (b) the Administration invoked Section 122 temporary authority (which expires after 150 days), and (c) implementation/refund issues create short‑term revenue uncertainty — all of which materially affect the market’s resolution calculus.
 
+### [Tariff Dividends Cost More than Tariff Revenues Will Generate](https://taxfoundation.org/blog/tariff-dividends-cost-more-tariff-revenues-generate/)
+**Author:** Unknown (Tax Foundation blog) | **Published:** 2025-11-xx (published Nov 2025)
+
+The Tax Foundation’s analysis estimates tariff revenue under current policy paths and compares that to the projected costs of various rebate designs (including $2,000 per person). The analysis concludes most rebate designs would cost more than incremental tariff revenues in 2025–2026. This is relevant because it provides an independent fiscal feasibility check that undermines the Administration’s headline claims and supports the market pricing that treats a full $2,000-per-person dividend as unlikely without additional appropriations.
+
+### [Hawley Introduces Legislation to Send Rebate Checks to Working Americans](https://www.hawley.senate.gov/hawley-introduces-legislation-to-send-rebate-checks-to-working-americans/)
+**Author:** Office of Senator Josh Hawley (press release) | **Published:** 2025-07-28
+
+Primary-source text from Sen. Hawley’s office describing the “American Worker Rebate Act” proposing at least $600 per adult and dependent in tariff-funded rebates. This establishes there are concrete legislative proposals in Congress that would create rebate checks funded by tariffs — evidence of a legislative path (albeit limited and with low current probability of enactment) that could, if accelerated, produce a YES resolution.
+
+### [Bessent Says $2K Tariff Checks Would Require Legislation — After Trump Says They’ll Come ‘Next Year’](https://www.forbes.com/sites/saradorn/2025/11/15/trump-says-2000-tariff-rebates-will-come-sometime-next-year/)
+**Author:** Sara Dorn (Forbes) | **Published:** 2025-11-15
+
+Reporting on Treasury Secretary Scott Bessent’s remarks that the $2,000 proposal would likely require legislative authorization and that there was no formal plan in place at that time. This source is important because it records the Administration’s internal caution and the practical constraint that direct payments to individuals usually require statutory appropriation — a central reason the market probably discounts the probability of a lawful dividend by June 30.

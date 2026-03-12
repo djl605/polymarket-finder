@@ -1,84 +1,108 @@
 # Research: Will India’s 2026 Annual Inflation be at least 4.50%?
 
 **Market ID:** 0x4c3eb9cc59964dbf8afc1b778c3178c5af15c5dd4686b1ea8da979a52d0a932b
-**Researched At:** March 6, 2026 at 04:18:34 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will India’s 2026 Annual Inflation be at least 4.50%?"
+**Researched At:** March 12, 2026 at 06:21:36 PM UTC
+**Search Query:** "Will India’s 2026 Annual Inflation be at least 4.50%?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.6¢
+**Expected Value:** 2.6¢
 
 ### Summary
 
-RBI and Crisil forecasts place average FY27 inflation around 4.2–4.3%, below the 4.5% threshold, with no evidence suggesting December 2026 CPI will breach 4.5%. The current 16.5% probability appears to price in a modest tail‐risk premium rather than a clear mispricing.
+Current public evidence (MoSPI actuals, RBI guidance, consensus forecasts) points to headline inflation staying below 4.5% as the baseline, while credible tail risks (notably a sustained oil shock) give the Dec‑2026 print a non‑zero chance of breaching 4.5%. The market price (15.5%) appears reasonable; expected informational edge from trading this thin market is small (~2.6 cents). ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a55
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will India’s December-2026 year-on-year CPI inflation be ≥ 4.50%?” A “YES” means the CPI published Jan 12 2027 shows ≥ 4.50%; a “NO” means < 4.50%.  
+Context analysis — what the market asks
+- The market asks: "Will India’s 2026 Annual Inflation be at least 4.50%?" — i.e., will the MoSPI Consumer Price Index (CPI) year‑on‑year percentage change for the 12‑month period ending December 2026 (the MoSPI December 2026 CPI release, scheduled for Jan 12, 2027) be ≥ 4.50%? Resolution depends strictly on the MoSPI December 2026 CPI YoY number (per the market description). ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
 
-2. EVIDENCE EVALUATION  
-Bearish evidence (arguing inflation < 4.5%):  
-• RBI’s Feb 2026 projection sees FY27 CPI at ~ 4.2%, below 4.5%. (Arora, ETBFSI, Naveen)  
-• Crisil (Feb 19) projects FY27 CPI at ~ 4.3%, still under 4.5%.  
-• Q4 FY26 inflation was only ~ 3.2% (base-effect driven), implying the start of FY27 at lower levels.  
+1) CONTEXT ANALYSIS
+- YES resolves if the MoSPI‑published CPI for Dec 2026 (YoY) is ≥ 4.50%; NO if it is < 4.50%. The market’s timeframe and source are official MoSPI releases; methodological changes (MoSPI’s new 2024=100 series) matter because they change the level and volatility of measured CPI. ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
 
-Bullish evidence (arguing potential ≥ 4.5%):  
-• Rising commodity/energy volatility and geopolitical tensions are cited as upside risks by RBI but without quantification.  
-• Crisil notes an upward trajectory in FY27, though still projected below 4.5%.  
+2) EVIDENCE EVALUATION (all relevant, recent sources)
+A — Evidence that suggests the market price might be too low (i.e., upside risks → higher chance CPI ≥4.50%)
+- Global oil / energy shock, March 2026: geopolitical escalation in the Middle East pushed Brent sharply higher in early March 2026; a sustained oil shock would raise India’s imported energy bill and pass through to CPI via fuel, transport and input costs. Recent coverage shows a rapid jump in Brent in early March. Upside: a material, sustained oil price rise can move headline CPI by a few tenths of a percentage point over time. ([gulfnews.com](https://gulfnews.com/business/energy/oil-prices-brent-surges-to-9262-wti-hits-9072-amid-iran-war-1.500466461?utm_source=openai))
+- Empirical pass‑through estimates: recent Bank of Baroda commentary (reported by ET) and other analysts suggest a $10/bbl rise can raise India’s CPI/WPI by ~0.2–0.4 percentage points (or more in WPI), and that the new CPI series gives energy‑related items larger weight than before—so oil shocks could have somewhat larger headline CPI effects under the new series. That mechanism increases the probability of a late‑2026 spike above 4.5% if the oil shock persists. ([auto.economictimes.indiatimes.com](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/direct-impact-of-10-increase-in-oil-prices-estimated-to-be-around-almost-1-on-wpi-bank-of-baroda/129154400))
+- Seasonal/base effects and methodological changes: forecasters (FocusEconomics panel, Nomura/Goldman calculations cited there) expect an upward drift in headline CPI through 2026 (and a technical bump in early 2026) because the new CPI base/weights increase the weight of some core/service items and reduce food weight; some firms estimate a ~0.3–0.6 percentage‑point technical increase in headline CPI in 1H‑2026 versus the old series. These two channels (technical base change + commodity shocks) increase upside probability for late‑2026 prints. ([focus-economics.com](https://www.focus-economics.com/countries/india/news/inflation/india-consumer-prices-12-01-2026-inflation-rises-in-december-from-november/))
 
-All forecasts target fiscal years (Apr-Mar). December 2026 (in FY27) might deviate from the FY27 average, but no source predicts December inflation hitting 4.5%. Sources (RBI, Crisil) are credible and recent (Feb 2026). The Quizlet note on PPP is too generic to override central-bank forecasts.  
+B — Evidence supporting the market price (i.e., why the chance of ≥4.50% may be low)
+- Current prints and near‑term outlook are benign: MoSPI’s new‑series provisional January 2026 headline CPI printed 2.75% YoY (well below 4.5%), and December 2025 (old series final) was very low (1.33%); the starting point for 2026 is low, so getting to 4.5% by Dec 2026 requires several sources of sustained upside. ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
+- Official/consensus forecasts expect inflation to remain near or below ~4% on average in 2026: RBI and major multilateral forecasters expect convergence toward the RBI target band and project 2026 inflation around RBI’s target (RBI MPC projected Q1/Q2 FY27 inflation ~4.0–4.2%; IMF/World Bank/major banks expect headline inflation to move toward ~4% in 2026/FY27). Many private forecasters see inflation rising later in the year but not necessarily breaching 4.5% in December. That consensus reduces the prior probability of a ≥4.5% December print. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/business/india-business/rbi-mpc-meeting-february-2026-live-updates-rbi-governor-sanjay-malhotra-mpc-repo-rate-cut-monetary-policy-committee/liveblog/127965184.cms))
+- Policy and administrative buffers: Indian authorities (OMCs, fiscal policy, subsidies, ad‑hoc tax/excise adjustments) can blunt pass‑through of some imported price shocks; past experience shows some pass‑through is absorbed by OMCs or the government, muting headline CPI impact. Several analysts cite this as a limiting factor on CPI increases. ([auto.economictimes.indiatimes.com](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/direct-impact-of-10-increase-in-oil-prices-estimated-to-be-around-almost-1-on-wpi-bank-of-baroda/129154400))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 16.5% probability implies traders assign ~1-in-6 odds to a substantial upside shock. This could reflect genuine uncertainty about energy and supply shocks later in 2026. Low volume may simply indicate few traders focus on an event 10 months out. The tight spread suggests at least one active, informed counterparty.  
+C — Source credibility and recency
+- MoSPI press release (Jan 2026 CPI, base 2024) is primary official source and recent/provisional — high credibility. ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
+- RBI MPC live commentary (Feb 6, 2026) is authoritative on policy/near‑term forecasts — high credibility. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/business/india-business/rbi-mpc-meeting-february-2026-live-updates-rbi-governor-sanjay-malhotra-mpc-repo-rate-cut-monetary-policy-committee/liveblog/127965184.cms))
+- FocusEconomics panel and major bank notes aggregate private forecasters’ views and quantify the likely technical impact of the base revision — reputable survey evidence but not official. ([focus-economics.com](https://www.focus-economics.com/countries/india/news/inflation/india-consumer-prices-12-01-2026-inflation-rises-in-december-from-november/))
+- Bank of Baroda / Economic Times reporting on oil pass‑through summarizes bank analysis; credible for mechanism and magnitudes though scenario‑dependent. Recent Gulf/energy reporting documents the March 2026 spike — high‑recency news evidence that raises tail‑risk. ([auto.economictimes.indiatimes.com](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/direct-impact-of-10-increase-in-oil-prices-estimated-to-be-around-almost-1-on-wpi-bank-of-baroda/129154400))
 
-4. MISPRICING ASSESSMENT  
-All credible forecasts cluster well below the 4.5% threshold. To justify 16.5%, traders must foresee an unforeseen shock large enough to push December 2026 CPI above 4.5%. No current evidence quantifies such a shock. The market price seems reasonable as an insurance premium against tail risks, not obviously mispriced.  
+Synthesis of evidence (bull / bear)
+- Bull (higher chance of ≥4.50%): sustained commodity/energy shock (already visible in March 2026), a weaker rupee, adverse weather/monsoon shocks raising food inflation, or policy moves that pass costs to consumers could push headline CPI into 4.5%+ territory by Dec 2026. The new CPI weights modestly raise sensitivity to some non‑food items, so pass‑through could be stronger than under the old series. ([auto.economictimes.indiatimes.com](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/direct-impact-of-10-increase-in-oil-prices-estimated-to-be-around-almost-1-on-wpi-bank-of-baroda/129154400))
+- Bear (lower chance): current CPI prints are low, RBI and multilateral forecasters expect inflation to remain around or under 4% for much of 2026, and authorities have shown the capacity to blunt pass‑through (OMCs, fiscal measures). The technical bump from base revision appears to be modest (~0.3–0.6pp) and likely front‑loaded into early 2026, not necessarily pushing Dec 2026 above 4.5%. ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that market is fairly priced: 80%  
-Magnitude of mispricing if wrong: ~ 2 cents (small tail-risk premium)  
-Expected value = 0.8 × 2 cents = 1.6 cents  
+3) MARKET EFFICIENCY ANALYSIS (how reliable is the 15.5% market price?)
+- Reasonable charitable interpretation: 15.5% probability equals a modest tail probability the Dec‑2026 print will reach 4.5% — this matches (a) consensus forecasts clustering below 4.5% but noting upside late‑year risks, and (b) the empirical size of oil/food shocks needed to breach 4.5%. In plain terms: the market appears to price a non‑zero but not‑large chance of a late‑2026 inflation surge. ([focus-economics.com](https://www.focus-economics.com/countries/india/news/inflation/india-consumer-prices-12-01-2026-inflation-rises-in-december-from-november/))
+- Could it reflect only a few traders? Yes — the market has $0 reported total volume and a tight spread. Low volume + tight spread can still reflect consensus if forecasters all independently think tail risk is small; alternatively, a single overconfident trader could set price if no contrarian liquidity arrives. The data provided show zero total trading volume, so we cannot infer broad engagement from order flow alone — this raises the possibility the price is thinly supplied/demanded. (User provided metric: Total Vol $0.) [market metadata]
+- Why might informed traders not trade? If forecasters and policy watchers broadly expect inflation under 4.5% absent sustained shocks, the expected payoff for betting against the 15.5% price may be small; conversely, those who want exposure to an oil‑driven tail may prefer other instruments (commodities, FX hedges) rather than a thin CPI contract.
 
-EXPECTED_VALUE: 1.6  
-SUMMARY: RBI and Crisil forecasts place average FY27 inflation around 4.2–4.3%, below the 4.5% threshold, with no evidence suggesting December 2026 CPI will breach 4.5%. The current 16.5% probability appears to price in a modest tail‐risk premium rather than a clear mispricing.  
+4) MISPRICING ASSESSMENT — objective weighing
+- Net assessment: available public evidence points to the market price (15.5%) being broadly reasonable. Consensus forecasts, low starting CPI readings, and policy buffers argue that a ≥4.50% December 2026 print is an out‑of‑the‑money event rather than the baseline. However, credible tail risks exist (notably a sustained oil shock already materializing in March 2026) that could materially raise the chance beyond what forecasters expect.
+- Is there specific, credible evidence missing from the market price that would argue for a large mispricing (>20¢)? No. The biggest potential game‑changer (a long‑lasting oil/energy shock) is already public and was observed in March 2026; that should be (and likely is) priced in by informed traders. Other relevant information (RBI guidance, IMF/World Bank projections, MoSPI methodological change) is public and widely discussed; none point to an obvious, large under‑price. Therefore large mispricing is unlikely.
+- Caveat: Because total market trading volume is zero (and the contract is young / thin), the observed price may simply reflect the opinion of a small number of participants rather than a well‑diversified aggregation; that increases the chance of modest inefficiency, but not necessarily large, obvious mispricing.
+
+5) EXPECTED VALUE CALCULATION (value of investigating / trading this market)
+- Strength of evidence (how much of a genuine informational gap exists): 40% — there is public, high‑quality information (MoSPI, RBI, consensus forecasts) so most material public information is likely already considered by anyone who follows Indian macro; the remaining uncertainty is from tail risks (sustained oil shock, bad monsoon) that are difficult to predict. ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
+- Magnitude of plausible mispricing (if present): I estimate at most ≈6.5 cents (i.e., the market could be off by ~0.065 in price) given the scale of upside tail risk from sustained oil/food shocks combined with some policy non‑pass‑through — but a reasonable central estimate for a likely error is smaller (~3–7 cents). This is not a large mispricing. (I am NOT asserting >20¢.) ([auto.economictimes.indiatimes.com](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/direct-impact-of-10-increase-in-oil-prices-estimated-to-be-around-almost-1-on-wpi-bank-of-baroda/129154400))
+- Expected value = Strength × Magnitude = 0.40 × 6.5c ≈ 2.6 cents.
+  - (Interpretation: given current public information and the observed market price of 15.5%, the expected informational edge from investigating or trading this contract is small — a few cents of edge per contract on average.)
+
+6) CRITICAL CHECK — challenge to reasoning
+- Do I fully understand resolution? Yes: MoSPI Dec‑2026 CPI YoY (Dec 2026 vs Dec 2025) resolves the market. New CPI series and linking factors are public; technicalities (series change) are documented by MoSPI and must be applied exactly as MoSPI reports. Missing that would be a critical error; I relied on MoSPI’s own documentation. ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
+- Could I be missing private, not‑public information that traders have? Yes — e.g., faster deterioration of oil markets, secret fiscal decisions, or early administrative steps to shield consumers. That is exactly why any conviction should be moderate. Public indicators do not point to a large, obvious arbitrage.
+
+Final judgment (short)
+- The market price (15.5%) is a plausible, defensible price given public information: consensus forecasts, the low current CPI base, and documented modest technical effects from the base revision. There are real tail risks (notably the March 2026 oil shock) that raise the chance of a late‑2026 inflation above 4.5%, but those are already public and being discussed by analysts; they justify a non‑zero probability but do not provide clear evidence that the market is substantially mispriced. Given low trading volume, modest inefficiency is possible, but I do not find specific, credible evidence of a large, actionable mispricing.
+
+EXPECTED_VALUE: 2.6
+SUMMARY: Current public evidence (MoSPI actuals, RBI guidance, consensus forecasts) points to headline inflation staying below 4.5% as the baseline, while credible tail risks (notably a sustained oil shock) give the Dec‑2026 print a non‑zero chance of breaching 4.5%. The market price (15.5%) appears reasonable; expected informational edge from trading this thin market is small (~2.6 cents). ([mospi.gov.in](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf))
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Inflation Outlook Revised Upwards: RBI Sees CPI Climbing To 4.2% In FY27
-Author: Sakshi Arora
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://news.abplive.com/business/rbi-mpc-february-2026-inflation-estimates-increased-food-prices-price-pressures-gdp-repo-rate-sanjay-malhotra-1825718
-Summary: The Reserve Bank of India (RBI) has revised its inflation outlook for the upcoming fiscal years. For FY26, inflation is now projected at 2.1%, slightly higher than the previous estimate of 2%. Importantly, the RBI expects CPI inflation to rise further in FY27, reaching approximately 4.2%. Given this forecast, India’s annual inflation in 2026 is unlikely to reach at least 4.50%, as the central bank anticipates inflation remaining below that threshold, around 4.2%, in FY27.
+### [Press Release of CPI for January, 2026 (Provisional) (CPI base 2024=100)](https://www.mospi.gov.in/uploads/latestReleases/latest_release_1770891893893_6b458c0a-c327-4fef-a554-41131ea67273_Press_Relase_of_CPI_for_Jan26.pdf)
+**Author:** Ministry of Statistics & Programme Implementation (MoSPI) | **Published:** 2026-02-12
 
-Title: Consumer inflation likely to rise to 4.3% in FY27 from 2.5% in FY26: Crisil - The HinduBusinessLine
-Author: ANI
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.thehindubusinessline.com/economy/consumer-inflation-likely-to-rise-to-43-in-fy27-from-25-in-fy26-crisil/article70650304.ece
-Summary: According to Crisil's recent forecast, consumer inflation in India is expected to rise to approximately 4.3% in FY27, up from 2.5% in FY26. This indicates a significant upward trend in inflation, suggesting that inflation rates could approach or surpass the 4.5% threshold during this period. While the forecast specifically targets FY27, the rising trajectory implies that India’s annual inflation in 2026 may be close to or exceed 4.5%, especially if current inflationary pressures persist or intensify.
+MoSPI’s official press release introduces the new CPI series (base year 2024=100) and gives the provisional January 2026 headline CPI at 2.75% YoY (combined), plus division/item detail and technical notes on the base revision. This is the primary, authoritative source on current CPI levels and the methodological change; it anchors the argument that headline inflation in early 2026 is low and documents the new series and weights (which affect sensitivity to later shocks). This supports the view that baseline inflation is well below 4.5% but highlights that technical/base changes can shift levels by a few tenths.
 
-Title: RBI Inflation Outlook: RBI Projects Inflation at 2.1% for FY26 Amid Stable Food Supply, ETBFSI
-Author: www.ETBFSI.com
-Published Date: 2026-02-06T00:00:00.000Z
-URL: http://www.bfsi.economictimes.indiatimes.com/articles/benign-core-strong-food-supply-to-keep-fy26-inflation-at-2-1-rbi/127971428
-Summary: The Reserve Bank of India (RBI) projects India's inflation rate for FY26 to be approximately 2.1%, significantly below the 4.5% threshold. This forecast assumes stable food supply conditions, which are a key factor influencing inflation. Given the RBI's current outlook and stable food supply scenario, it is unlikely that India's annual inflation in 2026 will reach or exceed 4.5%.
+### [India: Inflation rises in December from November](https://www.focus-economics.com/countries/india/news/inflation/india-consumer-prices-12-01-2026-inflation-rises-in-december-from-november/)
+**Author:** FocusEconomics | **Published:** 2026-01-12
 
-Title: RBI Projects 2.1% FY26 Inflation, Flags Q4 Rise to 3.2%
-Author: Naveen
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.newkerala.com/news/a/rbi-projects-retail-inflation-21-fy26-warns-q4-400.htm
-Summary: The Reserve Bank of India projects India's FY26 average retail inflation at 2.1%, with a rise to approximately 3.2% in Q4 due to technical base effects rather than current price pressures. Core inflation remains steady at around 2.6%, and near-term food supply prospects are positive, supported by healthy Kharif crop production and sufficient food stock levels. However, the RBI warns of upside risks from geopolitical tensions and volatile energy prices, which could influence inflation trends. Given these factors, the likelihood of India's annual inflation reaching at least 4.50% in 2026 appears low based on current projections and the central bank's outlook.
+FocusEconomics’ news/consensus piece reports December 2025 CPI (1.3% YoY) and summarizes panel forecasters’ outlooks: most expect inflation to trend up through 2026, with the Oct–Dec 2026 quarter likely to see inflation above 4.0%. The article also records panelists’ estimates that the new CPI weights may mechanically add ~0.3–0.6pp to headline CPI in early 2026. This source provides consensus forecasts and quantified technical‑change estimates that inform whether a December 2026 print could plausibly exceed 4.5%.
 
-Title: Notable Incorrect Exam Questions / Things to Remember - Quizlet
-URL: https://quizlet.com/916289104/notable-incorrect-exam-questions-things-to-remember-flash-cards/
-Summary: The webpage discusses common errors and key concepts related to international parity conditions in economics, specifically focusing on purchasing power parity (PPP). It clarifies that absolute PPP, which extends the law of one price to a basket of goods, is rarely used in practice for forecasting exchange rates. Relative PPP, which considers changes in price levels over time, is more useful for long-term exchange rate predictions but less effective for short-term forecasts. To predict India’s 2026 inflation rate (at least 4.50%), understanding these concepts suggests that inflation expectations should be anchored to long-term price level trends, but short-term fluctuations may deviate due to factors like monetary policy, supply shocks, or global economic conditions. Therefore, analyzing India's monetary policy stance, inflation targets, and historical inflation trends will be crucial for assessing whether inflation will meet or exceed 4.50% in 2026.
+### [RBI MPC Meeting 2026 Highlights: Repo rate unchanged at 5.25%, says RBI governor Sanjay Malhotra; inflation seen at 2.1% in FY 2025-26 (Live blog)](https://timesofindia.indiatimes.com/business/india-business/rbi-mpc-meeting-february-2026-live-updates-rbi-governor-sanjay-malhotra-mpc-repo-rate-cut-monetary-policy-committee/liveblog/127965184.cms)
+**Author:** Times of India (liveblog) | **Published:** 2026-02-06
 
+Live coverage of the RBI MPC (Feb 6, 2026) that highlights the committee’s assessment: near‑term CPI projections, a neutral stance, and explicit projections that Q1/Q2 (FY27) CPI may be ~4.0–4.2% with average ~4.1% for 1H FY27. The RBI’s commentary is authoritative for near‑term policy expectations and shows official view that inflation will remain near the target band, which supports the judgment that a December 2026 CPI ≥4.5% is a tail but acknowledged upside risk.
 
+### [Direct impact of 10% increase in oil prices estimated to be around almost 1% on WPI: Bank of Baroda](https://auto.economictimes.indiatimes.com/news/oil-and-lubes/direct-impact-of-10-increase-in-oil-prices-estimated-to-be-around-almost-1-on-wpi-bank-of-baroda/129154400)
+**Author:** ANI / ET Auto (Economic Times aggregate) | **Published:** 2026-03-06
+
+Reporting on Bank of Baroda analysis of the March 2026 Middle East crisis, the article quantifies pass‑through: a 10% increase in global oil prices may raise WPI by ~0.7–1.0% and can push CPI by several tens of basis points, noting the new CPI series has higher weight for crude‑linked products. The piece explains mechanisms (OMC absorption, current account and fiscal effects) and underlines that a sustained oil shock is a credible channel to push headline inflation materially higher — central to the upside case for Dec‑2026 CPI ≥4.5%.
+
+### [Transcript: Press Conference on the Release of the January 2026 World Economic Outlook Update](https://www.imf.org/en/news/articles/2026/01/21/tr-01212026-weo-press-conference-on-release-of-the-january-2026-world-economic-outlook-update)
+**Author:** International Monetary Fund (IMF) | **Published:** 2026-01-21
+
+IMF WEO update press transcript and commentary revise growth and inflation outlooks for many countries including India, noting India’s strong growth and that inflation is expected to move back toward target levels in 2026. The IMF’s projections and discussion provide an external, multilateral‑institution perspective that corroborates private consensus (inflation nearing ~4% in 2026 rather than a much higher number), supporting the baseline that Dec‑2026 CPI ≥4.5% is possible but not the consensus outcome.
+
+### [CPI Jumps on Precious Metals Spike with Headline at 2.75% in January 2026 (Gulf News on oil/geopolitics & market reaction)](https://gulfnews.com/business/energy/oil-prices-brent-surges-to-9262-wti-hits-9072-amid-iran-war-1.500466461)
+**Author:** Gulf News | **Published:** 2026-03-07
+
+Recent reporting documenting a sharp rise in Brent/WTI in early March 2026 driven by Middle East tensions; the article provides contemporaneous market evidence of an energy shock that materially raises the probability of higher inflation in energy‑importing countries like India. This source supplies the immediate, high‑recency evidence for the downside/upside risk channel (fuel → CPI) discussed in the analysis.

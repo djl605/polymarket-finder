@@ -1,115 +1,114 @@
 # Research: Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?
 
 **Market ID:** 0x189d15c07ceae4e520a23b8a2ef8e1cc74c4d3be2bfd64c4e602cbabd3817502
-**Researched At:** March 2, 2026 at 02:53:36 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
+**Researched At:** March 12, 2026 at 06:15:43 PM UTC
+**Search Query:** "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 6.0¢
+**Confidence:** Medium
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Public models estimate ~61% for Marseille finishing top 4, while the market sits at 77.5%. Recent head-to-head wins and strong points pace support a higher probability than 61%, but there’s no definitive signal of >20¢ mispricing.
+Marseille is currently in a top‑4 position with a favorable remaining schedule per LFP/Opta commentary, which supports a high probability of finishing top‑4; however, a February 2026 managerial change and a cluster of rival teams within a few points create nontrivial uncertainty. Given public evidence, there is no strong proof of a large mispricing versus the market’s 81.5% — any mispricing is likely modest. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: Égalité au classement : Modification des critère
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Olympique Marseille will finish in the top 4 of Ligue 1 at the end of the 2025–26 season. A “Yes” resolution requires Marseille to rank 1–4 on points (with official tiebreakers applied) after all 38 matchdays. A “No” resolves if they finish 5th or lower, or if the season is not completed by October 1, 2026.
+I researched recent reporting, official league information, and match/fixture data to evaluate whether the Polymarket price (81.5%) for "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?" looks mispriced. Below is my structured evaluation.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence for a high probability:  
-- Marseille just beat Lyon 3-2 on March 1 (record now 13-4-7 vs Lyon’s 14-3-7), showing momentum against a direct rival.  
-- Currently 4th with 40 points from 23 matches (1.74 ppg), which if maintained projects to ~66 points—likely enough for top 4.  
-- BettingExpert commentary notes Marseille’s relative strength and a favorable run-in could sustain a top-4 push.
+1) CONTEXT ANALYSIS
+- What the market asks: Will Olympique de Marseille (OM) be among the four teams in the final Ligue 1 table for the 2025–26 season? The market will resolve to YES only if OM is officially placed in the top four after the league season ends; official Ligue 1 tiebreaker rules (as published by the LFP) govern how ties on points are resolved. ([ligue1.com](https://ligue1.com/fr/articles/l1_article_2830-en-cas-d-egalite-au-classement-modifications-des-criteres?utm_source=openai))
+- What must happen to resolve YES vs NO: At season end (the 34th/last matchday for the 2025–26 Ligue 1 calendar), OM needs to rank 1–4 by the official final table. If OM finishes on the same points as another club(s), the LFP’s 2025–26 tiebreaker criteria apply. The market also resolves NO if the season is not completed by October 1, 2026 (per the market description you supplied).
 
-Bearish evidence suggesting 77.5% may be too high:  
-- StatsUltra’s quantitative forecast assigns only a 61% chance of UCL qualification (an implied top 4), based on a projection of 59 points and +23 GD—well below the ~66 points pace.  
-- SoccerPredict highlights fierce competition: PSG at 54, Lens 52, Lyon 45. Marseille’s mixed form and remaining fixtures aren’t fully detailed but could yield dropped points.  
-- Ligue 1’s unpredictability means models tracking historical variance may temper confidence.
+2) EVIDENCE EVALUATION — facts, bullish vs bearish evidence, credibility
+A. Current position / form (load-bearing)
+- Recent standings snapshots (early–mid March 2026) place Marseille inside the top 4 (around 3rd–4th) with roughly mid‑40s points after ~24–25 matchdays (examples: Marseille shown with ~43–46 points, GD ~+18/19). These are the core, observable data that justify a high top‑4 probability. ([skysports.com](https://www.skysports.com/football/marseille-vs-lyon/table/535119?utm_source=openai))
 
-Source credibility and recency:  
-- The match-score and standings data come from ESPN and SoccerPredict (late Feb/early Mar 2026) – high recency and reliability.  
-- StatsUltra is less transparent on methodology but recent enough; its 61% forecast is a useful counterpoint though not definitive.  
-- BettingExpert provides qualitative color but no numeric estimate.
+B. Evidence that supports the market price (why ~81.5% is plausible)
+- Being currently in a top‑4 position with a positive goal difference and multi-point cushion versus teams below makes finishing in the top 4 materially likely; markets often price such mid‑season top‑4 occupants above ~70–80% when the cushion and remaining schedule favor them. (Standings snapshots cited above.) ([skysports.com](https://www.skysports.com/football/marseille-vs-lyon/table/535119?utm_source=openai))
+- The league’s official commentary / Opta-based power ranking noted that OM had one of the easier remaining schedules among contenders (an important predictive input for expected points from remaining fixtures). That reduces downside risk and supports a high probability of top‑4 finish. ([ligue1.com](https://ligue1.com/fr/articles/l1_article_2212-le-point-sur-la-course-a-l-europe-l1?utm_source=openai))
+- OM’s squad shows consistent goal production in the season’s matches cited in match reports (recent match winners and multiple players contributing goals), which supports continued accumulation of points. ([goal.com](https://www.goal.com/en-us/team/marsella/27xvwccz8kpmqsefjv2b2sc0o?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 77.5% price could reflect insider knowledge of Marseille’s favorable remaining schedule or squad health, which public models haven’t fully incorporated.  
-- Low volume ($5.3 K) means a few confident speculators could set the price, but a tight 5¢ spread suggests at least a couple of active participants.  
-- It may also signal that casual bettors view top 4 as very likely and no professional arbitrage has been applied, rather than broad expert consensus.
+C. Evidence that challenges the market price (reasons 81.5% might be too high)
+- Managerial instability: Marseille parted ways with Roberto De Zerbi in February 2026 and appointed Habib Beye (a mid‑season change). A head‑coach change midstream increases short‑term uncertainty (possible tactical/regression effects, squad unrest or improvement depending on the appointment), which can reduce an incumbent’s probability of holding position. Manager change reporting is recent and credible (major outlets and the club/league press covered it). ([goal.com](https://www.goal.com/en-us/lists/marseille-appoint-new-manager-departure-roberto-de-zerbi/blta7eea5802097012a?utm_source=openai))
+- Competitive cluster: Several other clubs (Lens, Lyon, Rennes, Monaco, Nice, etc.) are clustered within a small points range and can still overtake/replace OM in the top four — late-season variance (form swings, injuries, head‑to‑head fixtures) can change ranking materially in 8–10 matchdays. Standings snapshots show these teams within a few points. ([skysports.com](https://www.skysports.com/football/marseille-vs-lyon/table/535119?utm_source=openai))
+- Recent heavy defeats or cup exits (reported in match coverage) and rotation for European or domestic cup ties can produce momentum shifts; such risks are not always fully reflected in a single price if traders under‑weight managerial/fixture shocks. ([goal.com](https://www.goal.com/en-us/team/marsella/27xvwccz8kpmqsefjv2b2sc0o?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-- The standout data point is the 61% from StatsUltra—a 16.5¢ gap vs the market. However, that model projects only 59 points, while Marseille is outperforming its projected trajectory.  
-- No clear evidence of a >20¢ mispricing: momentum, defensive strength (GD +17), and head-to-head wins support a higher probability than 61%, but whether 77.5% is fully justified hinges on unseen schedule strength and injury status.  
-- Given the mix of model projections and positive recent results, the price could plausibly lie anywhere from ~65–80%. There isn’t a smoking-gun mispriced signal.
+D. Source credibility and recency
+- Ligue1.com (official LFP site) is authoritative for rules, tiebreakers, schedule context and league commentary (high credibility; recent). ([ligue1.com](https://ligue1.com/fr/articles/l1_article_2830-en-cas-d-egalite-au-classement-modifications-des-criteres?utm_source=openai))
+- Sky Sports / PlanetSport / Goal / major outlets are reputable sports reporting sources for standings, match results and managerial news (medium–high credibility; pages used are current to March 2026). ([skysports.com](https://www.skysports.com/football/marseille-vs-lyon/table/535119?utm_source=openai))
+- Club site (OM official fixtures) is authoritative on dates/fixtures (useful to confirm remaining matches). ([om.fr](https://www.om.fr/en/news/4803/1st-team/99528-2025-2026-om-fixture-list?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence for mispricing: 40% (moderately credible that the market overshoots the public model).  
-- Magnitude of potential mispricing: ~15¢ (difference between market 77.5% and model 61%).  
-- Expected value = 0.4 × 15¢ = 6¢
+E. Skepticism about “obvious” evidence
+- If being in the top 4 were overwhelmingly certain, the market would likely be closer to 95%+; 81.5% suggests traders acknowledge some nontrivial probability of upset. The presence of managerial turnover and multiple closely-poised rivals provides a plausible reason for the market not to be closer to certainty.
 
-EXPECTED_VALUE: 6  
-SUMMARY: Public models estimate ~61% for Marseille finishing top 4, while the market sits at 77.5%. Recent head-to-head wins and strong points pace support a higher probability than 61%, but there’s no definitive signal of >20¢ mispricing.  
-CONFIDENCE: low
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation justifying 81.5%: OM is currently inside the top four, with positive GD and an apparently manageable run‑in; that alone can justify an ~80% probability mid‑March, especially if markets treat managerial change as a moderate risk but not catastrophic. Official power‑ranking commentary that OM’s remaining schedule is favorable is a concrete input that informed traders would price. ([ligue1.com](https://ligue1.com/fr/articles/l1_article_2212-le-point-sur-la-course-a-l-europe-l1?utm_source=openai))
+- Could price reflect only one/few traders? Low total volume ($9,416) and narrow spread mean a small number of active positions could anchor the price; but a narrow spread also indicates an active market maker or liquidity provider — this combination increases the chance that the posted price reflects limited liquidity rather than broad consensus. (Market metrics you provided.)
+- Why low volume might exist: Either the outcome feels relatively “obvious” to many (so few want to trade) or the market is simply overlooked by more sophisticated bettors; the evidence (manager change + competitive cluster) suggests non‑obvious risks exist, so low engagement can reflect neglect as much as consensus.
+
+4) MISPRICING ASSESSMENT (core conclusion)
+- Weighing evidence: On balance, available public information supports a high probability that OM finishes top‑4 (they are currently in a qualifying spot, with a favorable run‑in per Opta/Ligue1 commentary). However, material uncertainties exist (recent managerial change, close rivals, remaining head‑to‑head fixtures) that reduce near certainty.
+- Does the evidence indicate clear mispricing relative to 81.5%? No specific, credible, and publicly available fact appears to be missing from traders’ inputs that would justify concluding a large mispricing (e.g., >20 percentage points). The manager change and competitive cluster are public and likely already reflected to some degree; the reported favorable schedule is also public and would push the probability up. Given the low trading volume, the posted price could be noisy, but the underlying fundamentals (current position, GD, schedule) plausibly support a probability in the high‑60s to low‑90s range — so 81.5% sits comfortably inside that band.
+- Therefore my view: there is insufficient specific evidence to assert a definite mispricing. If there is mispricing, it is likely modest (single‑digit percentage points), not a large (>20‑point) error.
+
+CRITICAL CHECK (self‑challenge)
+- I re‑checked the exact resolution criteria: OM must be ranked 1–4 on the official Ligue 1 final table; ties follow the LFP’s 2025–26 rules (which were explicitly updated). I did not find any rule that would make an apparently top‑4 club automatically excluded on a technicality. That reduces the chance I have missed a resolution nuance. ([ligue1.com](https://ligue1.com/fr/articles/l1_article_2830-en-cas-d-egalite-au-classement-modifications-des-criteres?utm_source=openai))
+- Could traders have access to private info (injury news, internal unrest)? Possibly, but major manager change and public match reports were widely reported; nothing in public sources indicates a hidden shock that would make an 81.5% price wildly wrong.
+
+5) EXPECTED VALUE CALCULATION (estimate of value from investigating/trading)
+- Strength of evidence (how strongly evidence indicates a real mispricing vs price already reflecting facts): I estimate about 50% — there are solid public facts that support both sides, and low volume creates room for inefficiency, but nothing decisive. (50%)
+- Magnitude of mispricing if present: I estimate likely modest — around 8 cents (i.e., the true probability might plausibly be ~73–89% range, so a plausible mispricing magnitude is ≈ ±8 percentage points). (8 cents)
+- Expected value = Strength × Magnitude = 0.50 × 8 cents = 4.0 cents.
+
+6) CONFIDENCE
+- Overall confidence in this assessment: medium. There is good public data but still season‑running uncertainty and low market liquidity.
+
+FINAL JUDGMENT (concise)
+- Conclusion: No clear, high‑confidence evidence of a large mispricing. The current 81.5% price is reasonable given OM’s in‑table position, goal difference, and reportedly favorable remaining schedule, but mid‑season managerial change and clustered rivals create enough uncertainty that a modest mispricing (single‑digit cents) is possible. The market is low‑volume, so a price inefficiency could exist but is unlikely to be large without some hidden information.
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Marseille is currently in a top‑4 position with a favorable remaining schedule per LFP/Opta commentary, which supports a high probability of finishing top‑4; however, a February 2026 managerial change and a cluster of rival teams within a few points create nontrivial uncertainty. Given public evidence, there is no strong proof of a large mispricing versus the market’s 81.5% — any mispricing is likely modest. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Ligue 1 Predictions & Forecast 2025/26 - StatsUltra
-URL: https://statsultra.com/forecasts/ligue-1/
-Summary: Marseille has a 61% chance of qualifying for the UCL. The Ligue 1 forecast predicts Marseille will finish with 59 points and a goal difference of 23.
+### [Égalité au classement : Modification des critères de départage](https://ligue1.com/fr/articles/l1_article_2830-en-cas-d-egalite-au-classement-modifications-des-criteres)
+**Author:** Rédaction (Ligue 1) | **Published:** 2025-08-07
 
+Official Ligue 1 article outlining changes to tie‑breaking criteria for the 2025/26 season, describing the updated hierarchy of how teams tied on points will be separated. This is directly relevant to how the Polymarket market resolves ties for top‑4 positions and confirms the official procedure the market will use for any points equality. It therefore affects probabilities where teams are close on points.
 
-Title: Ranking France Ligue 1 season 2025 2026
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://soccerpredict.info/ranking-france/
-Summary: To assess whether Olympique Marseille will finish in the top 4 of the Ligue 1 standings for the 2025-26 season, consider the following points from the current rankings:
+### [Le point sur la course à l’Europe](https://ligue1.com/fr/articles/l1_article_2212-le-point-sur-la-course-a-l-europe-l1)
+**Author:** Ligue 1 Rédaction | **Published:** 2025-03-27
 
-1. **Current Performance**: As of now, Marseille is in 4th place with 40 points from 23 matches, having won 12, drawn 4, and lost 7. Their goal difference stands at +17, indicating a relatively strong offensive and defensive performance.
+Official Ligue 1 analysis of the race for European qualification late in the season; references Opta power rankings and states which clubs have easier or tougher remaining schedules. The page specifically noted Marseille’s remaining calendar was relatively accessible, which is a key data point supporting why markets might assign a high probability to OM finishing in the top four.
 
-2. **Competition**: The teams currently ahead of Marseille include FC Paris Saint-Germain (1st, 54 points), RC Lens (2nd, 52 points), and Olympique Lyon (3rd, 45 points). Marseille is closely trailing Lyon, which suggests that the race for the top 4 is competitive.
+### [Marseille Ligue 1 table (match and standings page)](https://www.skysports.com/football/marseille-vs-lyon/table/535119)
+**Author:** Sky Sports | **Published:** 2026-03-02
 
-3. **Form and Consistency**: Analyzing Marseille's recent form is crucial. They have had a mixed season with several losses, which could impact their ability to maintain or improve their position. Consistency in performance will be key in the remaining matches.
+Sky Sports standings snapshot for Ligue 1 in early March 2026 showing Marseille inside the top‑4 with points and goal difference (data presented with played matches). This provides a reputable, time‑stamped reference for OM’s mid‑season league position — a primary input for assessing top‑4 probability and therefore directly supports the market’s high price.
 
-4. **Upcoming Matches**: The remaining fixtures and the performance of direct competitors will significantly influence Marseille's chances. If they can secure wins against lower-ranked teams and maintain form against top competitors, their chances of finishing in the top 4 improve.
+### [France - Ligue 1 latest standings including goal difference](https://livesoccer.planetsport.com/live/soccer/league-detail/france-ligue-1/72619/2026-03-06)
+**Author:** PlanetSport / LiveSoccer | **Published:** 2026-03-06
 
-5. **Injury and Squad Depth**: The health of key players and the overall squad depth will also play a role. Injuries to important players could hinder their performance in
+Another independent standings snapshot (early March 2026) showing Marseille’s points, goal difference and games played (Marseille ~43 points after 24 matches in this capture). Using multiple standings sources reduces the chance that a single site’s feed was out of date and supports the factual claim that OM sat in a top‑4 spot in early March.
 
-Title: France Ligue 1 Predictions and Betting Tips - BettingExpert
-URL: https://www.bettingexpert.com/football/france/ligue-1
-Summary: The webpage from BettingExpert provides insights and predictions for Ligue 1, focusing on upcoming matches and betting tips. To assess whether Marseille will finish in the top 4 of the Ligue 1 2025–26 standings, consider the following relevant factors highlighted on the site:
+### [Marseille appoint new manager after departure of Roberto De Zerbi as dramatic season takes new twist](https://www.goal.com/en-us/lists/marseille-appoint-new-manager-departure-roberto-de-zerbi/blta7eea5802097012a)
+**Author:** Goal.com staff (Goal) | **Published:** 2026-02-18
 
-1. **Current Form and Performance**: Analyze Marseille's recent match results and overall performance in the league. The site features tips and predictions for ongoing matches, which can indicate their current form.
+Reports Roberto De Zerbi’s departure in February 2026 and Marseille’s appointment of Habib Beye. This managerial turnover is a material uncertainty for Marseille’s late‑season performance and is relevant to whether the market’s current price may under‑ or over‑weight transition risk.
 
-2. **Competition Analysis**: The page discusses the competitive landscape of Ligue 1, noting that while Paris Saint-Germain is often a favorite, there are surprises and strong performances from other teams. Understanding how Marseille stacks up against rivals can provide context for their chances.
+### [2025-2026: The OM fixture list](https://www.om.fr/en/news/4803/1st-team/99528-2025-2026-om-fixture-list)
+**Author:** Olympique de Marseille (official) | **Published:** 2025-07-XX (published with the season fixtures)
 
-3. **Upcoming Matches**: The site lists upcoming fixtures, including key matches that could impact Marseille's standings. Observing their schedule and the strength of their opponents can help gauge their potential to secure points.
-
-4. **Expert Tips**: The platform offers betting tips and expert opinions, which can provide insights into how analysts view Marseille's chances of finishing in the top 4.
-
-5. **Historical Context**: The page mentions that Ligue 1 has seen unexpected outcomes in recent years, suggesting that while Marseille may have a strong squad, the unpredictability of the league could influence their final position.
-
-For a more accurate prediction, it would be beneficial to monitor Marseille's performance in the next few matches and consider the analysis provided by betting experts on the site.
-
-Title: Ligue 1 Match Scores — March 1, 2026
-Published Date: 2026-03-02T14:53:13.041Z
-URL: https://www.espn.com/ligue-1/scoreboard/_/date/20260301?origin=exa
-Summary: On March 1, 2026, Marseille secured a victory against Lyon with a final score of 3-2 at Stade Vélodrome. This match is significant for assessing Marseille's potential to finish in the top 4 of the Ligue 1 standings for the 2025-26 season. As of this match, Marseille's record improved to 13 wins, 4 draws, and 7 losses (13-4-7), while Lyon's record stands at 14 wins, 3 draws, and 7 losses (14-3-7). 
-
-To predict Marseille's chances of finishing in the top 4, consider their current position in the league, their performance trends, and the competitiveness of other teams in the standings. This victory against a strong opponent like Lyon could bolster their confidence and momentum as they aim for a higher league placement.
-
-Title: Olympique Marseille vs. Olympique Lyon Prediction, Picks, Live Odds
-Author: Data Skrive
-Published Date: 2026-03-01T14:53:13.419Z
-URL: https://www.bleachernation.com/picks/2026/03/01/olympique-marseille-vs-olympique-lyon-prediction-picks-live-odds-march-1/
-Summary: I am sorry, but this webpage does not contain any information that could be relevant to predicting whether Marseille will finish in the top 4 of the Ligue 1 2025-26 standings. The page is a preview of a match between Olympique Marseille and Olympique Lyon on March 1, 2026, and includes information about the author, and links to other content on the website.
-
-
-
+Official club fixture list for the 2025–26 season listing Ligue 1 dates and opponents (useful to confirm remaining home/away fixtures and to check whether Marseille has an easier or harder run‑in). This is used to cross‑check the league’s commentary about OM’s remaining schedule and to estimate the number and quality of remaining matches that will determine final table position.

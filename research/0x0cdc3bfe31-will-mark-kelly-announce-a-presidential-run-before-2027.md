@@ -1,87 +1,104 @@
 # Research: Will Mark Kelly announce a Presidential run before 2027?
 
 **Market ID:** 0x0cdc3bfe31c4702ebf8d0879c0dd885fa6ef050cee4611a8e48e382b20de38f4
-**Researched At:** March 2, 2026 at 04:22:17 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Mark Kelly announce a Presidential run before 2027?"
+**Researched At:** March 12, 2026 at 06:17:23 PM UTC
+**Search Query:** "Will Mark Kelly announce a Presidential run before 2027?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-All credible research shows only that Kelly is “weighing” a 2028 bid, with no firm timeline; the 15.5% price reasonably balances his rising profile against lack of commitment and competitive dynamics. No clear mispricing is evident.
+News through mid‑March 2026 shows Mark Kelly has publicly left open a 2028 White House bid and gained fundraising/visibility, but he has repeatedly said he will decide after the 2026 midterms and has not formed visible campaign infrastructure. Given that mix, the market price of 22% is reasonable and I find no credible evidence of a large mispricing; any likely mispricing appears small (~3–5 percentage points).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Senator Mark Kelly officially announce a presidential campaign for the 2028 election by Dec 31, 2026?” A “Yes” resolution requires a public statement or equivalent from Kelly before that deadline; otherwise it resolves “No.”
+I researched recent reporting and expert commentary on Senator Mark Kelly’s public statements, legal situation, fundraising, and national positioning to judge whether the prediction market price (22.0%) for “Will Mark Kelly announce a Presidential run before 2027?” is plausibly mispriced. Below I follow your requested structure and apply the critical-check guidance.
 
-2. EVIDENCE EVALUATION  
-• Bearish (probability too high): All five sources (published Feb 17, 2026) consistently report only that Kelly is “seriously considering” a run—no commitment or launch date. He remains focused on recent controversies and legal battles with Trump, suggesting limited bandwidth to finalize a campaign decision quickly. Other Democrats (Harris, Newsom, etc.) occupy the early front‐runner and fundraising spaces, which may crowd Kelly out or delay any announcement beyond 2026.  
-• Bullish (probability too low): Kelly’s rising profile—military/rescue credentials, high‐visibility feud with the Trump administration, security threats, and bipartisan appeals—could accelerate momentum and push him to announce sooner, especially if Democrats seek a fresh moderate face. Public speculation and press coverage (domestic and international) indicate genuine interest, which might translate to an announcement before 2027.  
-• Sources are recent (mid-February 2026) and credible (BBC, local CBS, established news outlets), but none report an imminent launch. All cite identical quotes, indicating limited new information beyond Kelly’s “weighing” comments.
+1) CONTEXT ANALYSIS
+- Market question: “Will Mark Kelly announce a Presidential run before 2027 (i.e., on or before 2026-12-31 11:59 PM ET)?”  
+- Resolution mechanics (from your market text): a public, “official” announcement by Kelly (speech, social post, etc.) is sufficient for a Yes; otherwise No. Consensus credible reporting may also be used.  
+- What must happen for YES: Kelly must explicitly declare he is running (or an official campaign launch) at any time up through 2026-12-31. A private decision alone (without public statement) does not resolve it. For NO: no public announcement by that deadline.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 15.5% probability implies that informed traders view a Kelly announcement as unlikely but not negligible—consistent with only exploratory statements so far.  
-• Low trading volume suggests either consensus that Kelly probably won’t announce yet or simply low attention from traders, but the tight spread indicates at least two-sided order books.  
-• There’s no sign of a large liquidity provider skewing price; the market sits in the middle of a plausible range given known public signals.
+2) EVIDENCE EVALUATION (all sources are from news outlets/official pages; I excluded prediction-market sites)
+A. Evidence that would push probability up (suggesting the market might underprice a Yes):
+- Direct statements from Kelly leaving the door open: In a Feb 2026 BBC Newsnight interview and other recent comments he said he will “seriously consider” a 2028 White House bid and has not ruled it out. This is a clear public signal that a run is actively on his radar (supports >0% probability). (reported across mainstream outlets).
+- Big national profile bump and fundraising surge after the Nov 2025 “illegal orders” video and the administration’s reaction: local and national reporting (Cronkite/AZ PBS, Newsweek, others) documents a dramatic fundraising spike in late 2025 and continuing high receipts in 2025, giving Kelly resources that could be deployed toward exploratory activity or a quick launch if he chose to announce late in 2026. That increases plausibility of a late-2026 announcement.  
+- Judicial/administrative setbacks to the administration’s disciplinary moves: recent court coverage shows a federal judge skeptical of Pentagon attempts to demote or punish Kelly; favorable legal signals reduce one major downside risk to a potential candidacy and removes some immediate political damage. Legal progress makes an announcement more feasible from a risk perspective. (Reuters-syndicated coverage).
+- Policy positioning and national visibility: reporting (Axios) shows Kelly is building profile on national issues (AI policy, defense) — consistent with potential presidential positioning.
 
-4. MISPRICING ASSESSMENT  
-• No strong evidence of mispricing emerges. The market appears to balance Kelly’s heightened visibility against his lack of commitment and competing Democrats.  
-• With roughly ten months left, the uncertainty is moderate; a 15.5% price reflects a modest baseline chance that he’ll go public.  
-• Absent any breaking news (e.g., campaign exploratory committee filings), informed traders likely have no additional edge.  
+B. Evidence that would push probability down (suggesting the market might overprice a Yes):
+- Kelly’s stated timetable and hedging: in multiple interviews he emphasized focus on the 2026 midterms and said he would “make a decision” after getting through the 2026 elections. A plain reading is that he’s unlikely to commit to a run before the midterms conclude and many observers expect candidates to formalize decisions in 2027 — which falls outside this market’s cutoff. This directly lowers the probability of an announcement before 2027.  
+- No public exploratory committee or campaign infrastructure announced as of mid-March 2026: credible reporting shows interest and resources but no announced staff, exploratory committee, or sustained campaign organization in early 2026 — typical precursors to a near-term launch. That argues against a near-term formal announcement.  
+- Limited baseline name recognition before the Trump clash: pre-November 2025 polling showed low top-of-mind support (Cronkite cites Emerson polling with very low pre-spike numbers), meaning he needs time to translate post-spike attention into a viable national campaign. Most serious candidates spend months building organization and testing 2028 viability; that points toward announcements in 2027 rather than late 2026.  
+- Legal and political distractions (ongoing litigation and Pentagon actions) could make an immediate campaign announcement less likely or could absorb staff/time, delaying any formal launch.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20%—public statements haven’t changed since mid-February, and there’s no new catalyst.  
-• Magnitude of mispricing: 5 cents (a small over/underreaction would be possible but unsubstantiated).  
-• Expected value = 20% × 5¢ = 1¢
+C. Source credibility and recency
+- Reuters (syndicated on Investing.com) — high credibility for legal hearing coverage; publication date Feb 3, 2026 (very relevant). Supports the view that legal risk diminished.  
+- Cronkite News / Arizona PBS (Feb 17, 2026) — solid local reporting with FEC numbers and fundraising detail; credible and directly relevant to Arizona-based fundraising and national profile.  
+- Axios (Sep 17, 2025) — reputable outlet; useful evidence of Kelly’s active policy positioning (AI); somewhat older but shows a deliberate national policy push.  
+- Newsweek (Feb 17, 2026) — mainstream outlet summarizing Kelly’s public comments and early betting/odds coverage; useful for characterizing public conversation and market interest (bookmakers).  
+- Kelly’s official Senate site (press releases, schedule) — primary source for his current official activities and statements; confirms he has not made an official campaign announcement as of early March 2026.
 
-EXPECTED_VALUE: 1  
-SUMMARY: All credible research shows only that Kelly is “weighing” a 2028 bid, with no firm timeline; the 15.5% price reasonably balances his rising profile against lack of commitment and competitive dynamics. No clear mispricing is evident.  
+D. Skepticism about obvious evidence
+- Kelly saying he’ll “seriously consider” is a typical politician’s hedge and is less informative than a formal exploratory committee or campaign launch; if the market were heavily mispricing on the basis of that alone, traders would likely have arbitraged it out quickly. Fundraising spikes after being targeted by an opponent are also often ephemeral — useful for momentum but not proof of intent to announce by the year-end cutoff.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Market metrics you gave: Age 113 days, Total Volume $3,982, Price 22.0%, Spread 4¢. Low volume with a tight spread suggests one of two things: (a) a small set of active traders set the price and liquidity is thin, or (b) traders who do participate converge on a consensus and are comfortable with that price. With only ~$4k total volume, small orders could move the price materially. Hence the quoted 22% could reflect either a modest consensus or a single/handful of liquidity providers.
+- Reasonable interpretation that justifies the current price: 22% plausibly encodes (a) Kelly’s public openness to consider a run and increased fundraising/national profile (raising the baseline chance above de minimis) balanced against (b) his stated intention to wait on a decision until after the 2026 midterms (which reduces the chance he would announce before 2027). Put another way: the market looks like it’s pricing an above-trivial but minority chance of a late‑2026 announcement (e.g., a December 2026 launch) — that is reasonable given the mixed signals.
+- Could the current price reflect one or a few participants? Yes — the combination of low total volume and tight spread means a small number of traders could be setting the mid price. That increases the chance of inefficiency relative to a high-volume market, but it does not by itself prove a large mispricing; it only makes a mispricing more plausible.
+
+4) MISPRICING ASSESSMENT
+- Do I find credible, specific evidence that the market is missing? No clear, specific information appears to be missing from market pricing. The core public facts (Kelly’s “seriously consider” remarks, fundraising surge, legal actions, and public statements about timing) are widely reported and likely already available to traders. The most important factual constraints (Kelly’s public hedging about waiting until after the 2026 midterms and lack of an exploratory committee) are visible and reduce near-term announcement probability — these are consistent with a modest probability (low tens of percent), not a near‑certainty.
+- Could the market be meaningfully mispriced (e.g., by >20 percentage points)? I do not see credible evidence supporting such a large mispricing. A >20-pt gap would imply either (a) a well-known decision or committed campaign infrastructure that I failed to find (I did not find any) or (b) material inside information visible to some traders but not publicly reported — possible but not evidenced. Given Kelly’s public hedging and the common practice for candidates to declare in 2027 after midterms, a mid-20s percent price seems plausible rather than obviously wrong.
+- Timeline sensitivity: Because the market’s deadline is 2026-12-31, and Kelly publicly ties his decision to 2026 midterms, the market is particularly sensitive to whether Kelly chooses to announce immediately after the midterms (Nov–Dec 2026). The public evidence shows both reasons to delay and reasons he might accelerate, leaving substantial residual uncertainty. That supports the market’s middle-range probability.
+
+5) EXPECTED VALUE CALCULATION (value of investigating/trading vs. current price)
+- Strength of evidence (how strong/reliable the evidence that the market is missing something): I estimate ~30% (not negligible — there is new momentum and fundraising information suggesting a pathway to a late-2026 launch, but the evidence is ambiguous and likely already at least partially priced).  
+- Magnitude of mispricing if I judged it genuinely mispriced: at most ~5 cents in my view (i.e., the market could be undervaluing a late-2026 announcement chance by around 5 percentage points — e.g., true probability maybe ~27% vs market 22%). A larger gap is not supported by the public evidence.  
+- Expected value = Strength × Magnitude = 0.30 × 5 cents = 1.5 cents.
+
+6) CONFIDENCE
+- Overall assessment confidence: medium.
+
+Conclusion (short)
+- The market price of 22.0% is plausible given publicly available information as of March 12, 2026. Kelly’s public “seriously consider” comments, fundraising spike, and improved legal footing increase the chance he might run, but his stated plan to wait until after the 2026 midterms, lack of campaign infrastructure, and the normal candidate timetable make a pre‑2027 announcement far from certain. There is not specific, credible evidence of a large mispricing; if any mispricing exists it is small (a few percentage points). Because volume is low, small trades could profitably move the price, but that is not the same as clear, actionable mispricing.
+
+EXPECTED_VALUE: 1.5
+SUMMARY: News through mid‑March 2026 shows Mark Kelly has publicly left open a 2028 White House bid and gained fundraising/visibility, but he has repeatedly said he will decide after the 2026 midterms and has not formed visible campaign infrastructure. Given that mix, the market price of 22% is reasonable and I find no credible evidence of a large mispricing; any likely mispricing appears small (~3–5 percentage points).  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Sen. Mark Kelly says he's weighing a run for president in 2028
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.kjzz.org/politics/2026-02-17/sen-mark-kelly-says-hes-weighing-a-run-for-president-in-2028
-Summary: Senator Mark Kelly is currently considering a presidential run for 2028, as indicated in a recent interview where he expressed the seriousness of the current political climate. His contemplation comes amid a public feud with the Trump administration, particularly with Defense Secretary Pete Hegseth, following a video statement he made with other Democratic lawmakers urging U.S. troops to resist unlawful orders. This controversy has heightened his visibility and may influence his decision-making process regarding a 2028 campaign. While he has not made a definitive announcement, his willingness to consider a run suggests that he may announce his intentions before 2027, especially if the political landscape continues to evolve.
+### [US judge skeptical of Pentagon’s bid to demote Senator Mark Kelly](https://www.investing.com/news/politics-news/us-senator-kelly-to-ask-judge-to-block-trumps-retribution-campaign-4482190)
+**Author:** Jan Wolfe (Reuters) | **Published:** 2026-02-03
 
-Title: Senator Mark Kelly says he will 'seriously consider' running for president
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.bbc.com/news/articles/cy9gdvl4zv4o
-Summary: Senator Mark Kelly has indicated he will "seriously consider" a presidential run in 2028, particularly in light of the current political climate and challenges he faces, including backlash from the Trump administration. He has received numerous death threats following a controversial video urging military personnel to refuse illegal orders, which has heightened his security needs. Kelly, a retired Navy captain and former astronaut, emphasizes his unique qualifications, including his engineering background and military experience.
+Reuters coverage (syndicated on Investing.com) of a Feb 3, 2026 court hearing where U.S. District Judge Richard Leon questioned the Pentagon’s effort to demote/cut retirement pay for Sen. Mark Kelly following Kelly’s participation in a video warning service members about unlawful orders. The judge signaled skepticism about the administration expanding restrictions on retired service members’ speech. Relevance: this reporting reduces legal/personal-risk downside for Kelly, making a run more politically feasible and therefore increases the plausible probability that he could consider a near‑term announcement; it supports the bullish side but does not imply an imminent campaign launch.
 
-While he has not made a definitive decision about running, he acknowledges the seriousness of the situation and the ongoing legal battles with Trump, who has accused him of "seditious behavior." Kelly's commitment to fighting these accusations suggests he may remain in the political spotlight leading up to 2027. Other Democrats, such as Kamala Harris and Gavin Newsom, are also considering presidential bids, indicating a competitive landscape ahead. Overall, while Kelly is contemplating a run, his final decision may depend on the evolving political environment and his ongoing challenges with Trump.
+### [Mark Kelly: "We will fall behind" without AI framework](https://www.axios.com/2025/09/17/mark-kelly-axios-ai-summit)
+**Author:** Mackenzie Weinger | **Published:** 2025-09-17
 
-Title: Mark Kelly Considers 2028 Presidential Run Amid Legal Battle with Trump Administration
-Author: Alex Abraham
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://gulfnews.com/world/americas/mark-kelly-says-he-will-seriously-consider-2028-white-house-bid-1.500446379
-Summary: Senator Mark Kelly of Arizona has indicated that he will "seriously consider" a presidential run in 2028, but he has not yet made a definitive decision. His contemplation comes amid a legal and political dispute with the Trump administration, particularly following a controversial video he released urging military personnel to refuse unlawful orders. This situation has led to significant backlash, including accusations of "seditious behavior" from Trump and ongoing threats to Kelly and his family, necessitating increased security.
+Axios reporting on Sen. Kelly’s AI policy speech and his release of an “AI for America” plan; the story notes Kelly is positioning himself on a national policy issue and that he is seen as a potential 2028 contender. Relevance: shows deliberate national positioning and issue‑area work that are characteristic of those who may prepare for higher-office runs — evidence that Kelly is building national profile, supporting a non‑zero chance of a launch.
 
-Kelly's background as a former Navy captain and NASA astronaut, along with his experience in the Senate since 2020, positions him as a notable candidate. However, he has stated that the decision to run is serious and requires careful consideration. Given these factors, it remains uncertain whether he will announce his candidacy before 2027, as he is currently focused on addressing the legal challenges he faces.
+### [Mark Kelly’s Chances in 2028 Election As He Will ‘Seriously Consider’ a Run](https://www.newsweek.com/mark-kelly-chances-2028-election-11535980)
+**Author:** Sam Stevenson | **Published:** 2026-02-17
 
-Title: Senator Mark Kelly says he will 'seriously consider' running for president
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://ground.news/article/senator-mark-kelly-says-he-will-seriously-consider-running-for-president_1fa477
-Summary: Senator Mark Kelly has indicated that he will "seriously consider" running for president in 2028, citing the "seriously challenging times" the United States is facing. His potential candidacy is influenced by his unique background as a former astronaut and combat veteran, which he believes provides him with a distinct perspective compared to other senators. Recently, Kelly has criticized President Donald Trump's rhetoric, which he claims has led to personal threats against him and his wife, Gabrielle Giffords. This ongoing political tension may play a role in his decision-making process regarding a presidential run. While he has not made a formal announcement yet, his statements suggest that he is contemplating a bid, which could happen before 2027, especially given the current political climate and his rising visibility in the media.
+Newsweek article summarizing Kelly’s BBC Newsnight comments that he will “seriously consider” a 2028 run, noting bookmakers and early market attention. The piece reiterates Kelly has not declared a campaign and highlights that candidates typically finalize decisions after the 2026 midterms. Relevance: documents Kelly’s public hedging language and places it in the broader context of typical candidate timing — this undercuts an expectation of a pre‑2027 launch and supports the market’s caution.
 
-Title: Sen. Mark Kelly 'seriously considers' White House run in 2028 - KYMA
-Author: CBS News
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://kyma.com/decision-2024/arizona-politics/2026/02/17/sen-mark-kelly-considers-white-house-run-in-2028/
-Summary: Sen. Mark Kelly (D-Ariz.) has indicated that he is "seriously considering" a presidential run in 2028. While he has not made an official announcement, his contemplation of a campaign suggests that he may be positioning himself for a future bid. Given the political landscape and his ongoing engagement with issues related to the Trump Administration, particularly regarding military personnel, it is possible that he could announce his candidacy before 2027. However, without a definitive timeline or further statements from Kelly, it remains uncertain when or if he will formally declare his intentions.
+### [Trump clash, fundraising boom elevate Mark Kelly’s 2028 presidential prospects](https://cronkitenews.azpbs.org/2026/02/17/trump-clash-fundraising-boom-elevate-mark-kellys-2028-presidential-prospects/)
+**Author:** George Headley and Natalie Ogami (Cronkite News) | **Published:** 2026-02-17
 
+Arizona‑focused reporting documenting a large late‑2025 fundraising surge for Kelly after the controversy with President Trump, FEC totals and FEC‑linked figures (e.g., tens of millions raised since 2022, big late‑2025 haul). The article quotes state party officials saying Kelly could be credible in early states and notes his public comment that he’ll “seriously consider” a run. Relevance: provides concrete fundraising and local political reaction data that increase plausibility of viability and of an eventual decision to run, while also showing the baseline name‑recognition problem he had pre‑spike; overall supports modest probability of a launch but not a near‑certainty.
 
+### [Press Releases / In the News — Senator Mark Kelly](https://www.kelly.senate.gov/newsroom/press-releases/)
+**Author:** Office of Senator Mark Kelly (official) | **Published:** (site updated; press release list viewed March 2026)
+
+Official Senate newsroom/press releases and “In the News” entries for Senator Kelly; the page confirms Kelly’s public schedule and statements and shows there is no official campaign launch or exploratory committee posted as of early March 2026. Relevance: primary-source confirmation that no formal campaign announcement has been made; Kelly’s office similarly flagged the BBC Newsnight interview items. This supports the view that public facts likely already are priced and that absence of infrastructure/announcement weighs against an immediate pre‑2027 declaration.

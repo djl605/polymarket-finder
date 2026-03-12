@@ -1,91 +1,106 @@
 # Research: Will Stefany Shaheen be the Democratic nominee for NH-01?
 
 **Market ID:** 0xf64108affb6c655b7a50d662d2c508bef1897e40bb3106f7405552c177c92d78
-**Researched At:** March 7, 2026 at 02:34:17 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Stefany Shaheen be the Democratic nominee for NH-01?"
+**Researched At:** March 12, 2026 at 06:16:16 PM UTC
+**Search Query:** "Will Stefany Shaheen be the Democratic nominee for NH-01?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.5¢
+**Confidence:** Medium
+**Expected Value:** 3.8¢
 
 ### Summary
 
-There is insufficient public polling or challenger data to show a clear mispricing; the 62.5% chance reflects reasonable baseline expectations for a Shaheen candidacy in a low-visibility primary.
+Local polling, endorsements, and Shaheen’s fundraising make her a plausible front‑runner, so a ~64.5% market price is defensible; however Sullivan’s cash advantage, active challengers, and an emerging controversy introduce real uncertainty. The market’s zero trading volume makes the price fragile — a small mispricing (single‑digit cents) is plausible, but I find no strong evidence of a large (>20¢) mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Stefany Shaheen will emerge as the Democratic nominee for New Hampshire’s 1st Congressional District in the 2026 midterms. It resolves YES if she is officially named the Democratic nominee by September 8, 2026; it resolves NO if another candidate wins the primary or if no nominee is announced by November 3, 2026 (11:59 PM ET).
+Short answer: based on local polling, endorsements, and campaign fundraising, Stefany Shaheen being the Democratic nominee is a plausible outcome and the market price (64.5%) is within a reasonable range. However the market shows essentially no liquidity (Total Vol: $0), and there are credible reasons the primary could tighten (Maura Sullivan’s cash advantage and active challengers + an emerging controversy). I do not find strong, specific evidence that the market is mispriced by a large amount (>20¢); a small mispricing is possible but uncertain.
 
-2. EVIDENCE EVALUATION  
-a. Evidence suggesting 62.5% may be incorrect  
-   - No publicly available primary polling or internal campaign data on Shaheen’s standing versus other declared or prospective Democratic contenders.  
-   - Conflicting signals on her level of commitment: one article labels her “a candidate running for Congress,” another says she is still “considering” a run. Uncertainty on her formal entry and campaign infrastructure.  
-   - No mention of endorsements, fundraising totals, or rivals in research materials—key inputs for a nomination probability.  
-b. Evidence supporting 62.5% as reasonable  
-   - She carries a prominent Democratic family name (daughter of Sen. Jeanne Shaheen), likely boosting visibility and donor interest.  
-   - She’s taken clear policy positions (e.g., opposing the shutdown deal on healthcare grounds), indicating an organized campaign platform.  
-   - Lack of high-profile opponents mentioned in coverage could imply an uncontested or lightly contested field so far.  
-c. Source credibility and recency  
-   - All articles are from reputable local news (WMUR, NHJournal) or dated early March 2026—highly relevant and recent.  
-   - No piece provides hard polling, fundraising, or internal polling data.  
-d. Bullish vs. bearish  
-   - Bullish: Name recognition, early policy visibility, apparent lack of marquee primary challengers.  
-   - Bearish: No confirmed entry, no data on opposition strength, no polling or endorsement evidence.  
+1) CONTEXT ANALYSIS
+- What the market asks: whether Stefany Shaheen will be the Democratic nominee for New Hampshire’s 1st Congressional District (NH‑01) in 2026. For the market to resolve YES, an official Democratic source (consensus of official Democrat sources, including democrats.org) must show Shaheen is the party’s nominee by the resolution cutoff (nominee must be announced before Nov 3, 2026, 11:59 PM ET). The state primary is scheduled for September 8, 2026, so the usual path to resolution is Shaheen winning that Democratic primary. ([usvotefoundation.org](https://www.usvotefoundation.org/new-hampshire-election-dates-and-deadlines?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-   - A 62.5% price could reflect a consensus “gut feeling” that a Shaheen with her pedigree will face little serious primary opposition.  
-   - Low $6.5 K volume and tight spread suggest pricing by a few active participants rather than broad institutional consensus.  
-   - It may simply be overlooked by active political bettors—insufficient attention rather than strong conviction.  
+2) EVIDENCE EVALUATION (relevant, recent items)
+Evidence that supports Shaheen’s front‑runner status (i.e., supports the current ~64.5% price)
+- Early polling shows Shaheen leading other Democrats in NH‑01 primary testing, although many Democratic primary voters remain undecided. (UNH/Granite State Poll / UNH Survey Center: Shaheen shows a lead but >50% of likely Democratic primary voters undecided as of Sep 2025). This supports a lead but also large latent uncertainty. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/))
+- Local reporting documents Shaheen consolidating hyperlocal endorsements (mayors, the Teamsters Local 633 union endorsement) and her campaign touting a large small‑donor base and Q4 fundraising > $400k. Those endorsements, union backing, and a broad small‑donor footprint are consistent with an establishment/grassroots front‑runner position. ([stefanyshaheen.com](https://stefanyshaheen.com/news/?utm_source=openai))
+- FEC filings and public fundraising reports confirm Shaheen’s filings and receipts; she has raised meaningful sums (multiple quarters of six‑figure fundraising) and a substantial number of individual donations. This is a solid factual base showing active fundraising. (FEC committee filing for “Stefany Shaheen for Congress”). ([docquery.fec.gov](https://docquery.fec.gov/pdf/792/202601319825635792/202601319825635792.pdf))
 
-4. MISPRICING ASSESSMENT  
-   - There is no concrete data (polling, fundraising, endorsements) omitted from the price that would shift odds by >20 c.  
-   - The market price fits a back-of-the-envelope “establishment dynast” baseline in a state where that usually matters.  
-   - Without evidence of a dark-horse challenger or her campaign faltering, 62.5% is a defensible ballpark.  
+Evidence that the market price might be too high (favors a lower probability for Shaheen)
+- Maura Sullivan has out‑raised Shaheen in recent reporting and reported a larger cash‑on‑hand advantage (WMUR: Sullivan reported >$520k Q4 and ~$1.1M COH to start 2026). A materially larger cash reserve gives Sullivan capacity to advertise, organize, and overtake a lead before the September 2026 primary — a reason to downgrade Shaheen’s likelihood relative to a simple “front‑runner” narrative. ([wmur.com](https://www.wmur.com/article/maura-sullivan-fundraising-q4-2025/69947707))
+- Other candidates (e.g., Christian Urrutia) have shown active fundraising and are mounting attacks that could influence the primary dynamics; at least one challenger has raised issues tying Shaheen to Dean Kamen and questions arising from recent document dumps tied to Jeffrey Epstein coverage — a potential vulnerability that could narrow Shaheen’s lead if it gains traction. The Urrutia attack and reporting on Shaheen’s ties to Kamen/ARMI are real and material to primary voters evaluating character/associations. ([nhjournal.com](https://nhjournal.com/nh01-dem-primary-heats-up-as-urrutia-demands-stefany-shaheen-come-clean-on-kamen-epstein/))
+- Early polls are old relative to the campaign timeline (the UNH poll is an early look from Sep 2025) and a majority of Democratic primary voters were undecided at that time; early leads in low‑information primaries can evaporate as the race becomes nationalized and spending escalates. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/))
 
-5. EXPECTED VALUE CALCULATION  
-   - Strength of evidence for mispricing: ~10% (very weak, mostly absence of data)  
-   - Plausible magnitude if wrong: ~5 c (given typical primary uncertainty)  
-   - EV = 10% × 5 c = 0.5 c  
+Source credibility and recency
+- UNH Survey (UNH Survey Center / Granite State Poll) — strong academic polling source, transparent methods and sample sizes; relevant but early (Sep 2025). ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/))
+- WMUR and NHPR — leading New Hampshire local news outlets with direct reporting on fundraising, endorsements, and campaign developments (recent pieces in Jan–Dec 2025 and Dec 2025). Good local currency and reliable on fundraising/endorsement facts. ([wmur.com](https://www.wmur.com/article/stefany-shaheens-fundraising-q4-2025/69947686))
+- FEC filings — primary public record of receipts/disbursements; authoritative for fundraising data. ([docquery.fec.gov](https://docquery.fec.gov/pdf/792/202601319825635792/202601319825635792.pdf))
+- NHJournal / InsideSources — partisan‑leaning local outlet; useful for reporting controversies and hard charges but should be cross‑checked. The article alleging problematic associations between Shaheen’s employer (Dean Kamen / ARMI) and Epstein documents is a claim with cited document sources; it’s relevant as a potential liability but not definitive on its own. ([nhjournal.com](https://nhjournal.com/nh01-dem-primary-heats-up-as-urrutia-demands-stefany-shaheen-come-clean-on-kamen-epstein/))
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: There is insufficient public polling or challenger data to show a clear mispricing; the 62.5% chance reflects reasonable baseline expectations for a Shaheen candidacy in a low-visibility primary.  
-CONFIDENCE: low
+Synthesis of evidence (bullish vs bearish)
+- Bullish: Name recognition (daughter of Jeanne Shaheen), polling leads (UNH), local endorsements (mayors, union), robust small‑donor base and multiple quarters of six‑figure fundraising. Combined, these give a plausible foundation for a >50% win probability today. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/))
+- Bearish: Sullivan’s cash advantage (~$1.1M COH), continuing undecided voters in early polls, potential reputational vulnerabilities (ARMI / Kamen / Epstein coverage), and the fact that primaries can shift substantially once spending and negative messaging ramp up. These points argue for materially more uncertainty than the market’s current single‑point price might imply. ([wmur.com](https://www.wmur.com/article/maura-sullivan-fundraising-q4-2025/69947707))
+
+3) MARKET EFFICIENCY ANALYSIS
+- Market microstructure: this market shows Age 107 days, Total Vol $0 and a tight spread (3¢) at price 64.5% (user data). Zero trading volume strongly implies the quoted price was set without aggregate trading activity (likely by a single liquidity provider or an initial creator) and has not been challenged by other traders. That is an important red flag for reliability: the posted probability may reflect one participant’s view rather than an information‑aggregating market consensus.
+- Reasonable interpretation that justifies 64.5%: if informed local actors (party activists, union leaders, many early donors) have converged on Shaheen because of name recognition, early polling, and endorsements, an informed trader might reasonably price Shaheen >60%. The available reputable sources (UNH poll, WMUR reporting) back the idea of Shaheen as the plurality front‑runner, so 64.5% is defensible as an initial market estimate.
+- Alternative interpretation: because Sullivan has a stronger cash position and national veteran and allied endorsements (VoteVets, With Honor, etc.) and there is an unresolved controversy that could move voters, the race plausibly remains a tossup-ish contest. In a low‑volume market, those countervailing facts may simply not have been incorporated because no one with financial skin in the game has traded to correct the posted price.
+
+4) MISPRICING ASSESSMENT
+- Do I see credible, specific evidence missing from the market price that would justify concluding it’s mispriced by a lot (>20¢)? No.
+  - The main load‑bearing facts that could change the price (Sullivan’s COH advantage, the Kamen/ARMI controversy, undecided share in polls) are all publicly available and reported in local outlets — they are plausibly known to traders and campaign observers. ([wmur.com](https://www.wmur.com/article/maura-sullivan-fundraising-q4-2025/69947707))
+  - The zero total volume means we cannot infer that the posted price reflects market consensus; it may simply be the initial mark. That raises the likelihood of small mispricing (the posted price may be off by a few cents) but not necessarily a large one. (If someone thought Shaheen was an overwhelming lock well above 80–90% they would probably back that up with trades or someone else would short it.) (User-supplied market metrics.)
+- Charitable explanation for why price is 64.5%: a single market maker priced Shaheen moderately favored based on poll leads, endorsements, and name recognition; the lack of trades reflects either no arbitrage opportunity (if market maker’s price is close to true expectation) or low interest due to small trade sizes, or the market being too new/small to attract specialists. Given the evidence, a mid‑60s probability is within a plausible range.
+- Bottom line on mispricing: there is no specific, high‑quality piece of information I can identify that is both (a) clearly missing from the market and (b) would shift the probability by a large amount. Therefore I do not conclude a large mispricing exists. A small mispricing (on the order of a few cents) is plausible because the market has zero volume and many undecided primary voters could swing the outcome before September.
+
+5) EXPECTED VALUE CALCULATION (estimate of the value of researching / trading)
+- Strength of evidence that the market is mispriced: 50% — the evidence for and against is mixed, credible, and public; earlier polls and endorsements point toward Shaheen but Sullivan’s cash and the controversy keep uncertainty high.
+- Magnitude of plausible mispricing (if any): ~7.5 cents (i.e., the market might be off by 5–10¢; I do not see evidence for a 20¢+ mispricing).
+- Expected value = Strength × Magnitude = 50% × 7.5¢ = 3.75¢ ≈ 3.8 cents.
+
+EXPECTED_VALUE: 3.8
+SUMMARY: Local polling, endorsements, and Shaheen’s fundraising make her a plausible front‑runner, so a ~64.5% market price is defensible; however Sullivan’s cash advantage, active challengers, and an emerging controversy introduce real uncertainty. The market’s zero trading volume makes the price fragile — a small mispricing (single‑digit cents) is plausible, but I find no strong evidence of a large (>20¢) mispricing.
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Stefany Shaheen explains opposition to shutdown deal
-Author: Adam Sexton
-URL: https://www.wmur.com/article/stefany-shaheen-opposition-shutdown-deal-closeup/69452181
-Summary: Stefany Shaheen, a candidate running for Congress, emphasizes her commitment to healthcare reform, motivated by her personal experience with her daughter's Type 1 diabetes. She opposes the recent bipartisan deal that ended the government shutdown, criticizing it for not extending crucial health care tax credits, which could lead to significant premium increases for families in New Hampshire. Shaheen advocates for legislative action to extend these credits before premiums rise in January. She maintains independence from her mother, Senator Jeanne Shaheen, despite political tensions within their party, and aligns herself with policies she believes are right for her constituents. Her focus on healthcare issues and willingness to oppose party lines suggest she is positioning herself as a candidate with a strong healthcare platform, which could influence her prospects as the Democratic nominee for NH-01.
+### [Stefany Shaheen's campaign reveals fundraising total from Q4 2025](https://www.wmur.com/article/stefany-shaheens-fundraising-q4-2025/69947686)
+**Author:** Adam Sexton | **Published:** 2026-01-08
 
-Title: Who Will Win in 2026? The Granite State Guru Sees All!
-Author: Michael Graham
-URL: https://nhjournal.com/who-will-win-in-2026-the-granite-state-guru-sees-all/
-Summary: The article does not mention Stefany Shaheen or provide specific information about her potential candidacy for NH-01. Instead, it offers a broad outlook on New Hampshire's political landscape in 2026, including predictions about U.S. Senate races, gubernatorial contests, and comparisons to past election years like 2018 and 2006. The focus is on the overall political climate, key figures like Chris Pappas and John Sununu, and the influence of national trends, especially related to Donald Trump. Therefore, there is no direct information or prediction regarding Stefany Shaheen's candidacy for NH-01 in this article.
+WMUR reports the Shaheen campaign’s announcement that it raised more than $400,000 in Q4 2025 from ~3,300 donors, with a high proportion of small contributions. The piece also states Shaheen “has maintained a solid lead across multiple polls” and describes small‑donor depth and local support. This is relevant because it documents Shaheen’s fundraising momentum and grassroots donor base — facts that support her front‑runner status and therefore the plausibility of the market’s >50% price. The data is recent and reported by a leading NH local news organization, so it credibly supports the “Shaheen plausible favorite” case. ([wmur.com](https://www.wmur.com/article/stefany-shaheens-fundraising-q4-2025/69947686))
 
-Title: The Many Rantings of John: 5 Thoughts on Jeanne Shaheen's Retirement
-Author: John T
-Published Date: 2026-03-03T00:00:00.000Z
-URL: http://theworldofjot29.blogspot.com/2025/03/5-thoughts-on-jeanne-shaheens-retirement.html?m=1
-Summary: The article discusses Jeanne Shaheen's retirement from the U.S. Senate representing New Hampshire, highlighting her historic career as the first woman in U.S. history to serve as both a governor and senator from her state. Her departure is seen by some as a potential opportunity for Democrats, though her age and the political landscape suggest challenges for her successor. The piece also mentions her successful 2008 Senate campaign against John Sununu and notes the possibility of her son, Stefany Shaheen, running for her seat. While the article does not explicitly confirm Stefany Shaheen's candidacy for NH-01, it implies that her potential run could be a significant factor in the upcoming election, especially given her political background and family legacy.
+### [Campaign for Maura Sullivan announces fundraising numbers for Q4 2025](https://www.wmur.com/article/maura-sullivan-fundraising-q4-2025/69947707)
+**Author:** Adam Sexton | **Published:** 2026-01-08
 
-Title: Stefany Shaheen considers running in 1st Congressional ...
-Author: Adam Sexton
-URL: https://www.wmur.com/article/stefany-shaheen-new-hampshire-1st-district/64477376
-Summary: Stefany Shaheen, daughter of Senator Jeanne Shaheen, is currently considering a run for New Hampshire's 1st Congressional District. She is an entrepreneur and health policy advocate, motivated by concerns over national issues such as medical research funding, tariffs, and small business stability. Shaheen emphasizes her personal experiences, including her background as a small business owner and her child's Type 1 diabetes, as key reasons for her potential candidacy. She acknowledges that her family name will influence perceptions but intends to distinguish her own experiences and approach from her mother's legacy. Her decision to run remains under consideration, and her candidacy could impact the Democratic primary race for NH-01.
+WMUR reports Maura Sullivan raised more than $520,000 in Q4 2025 and reported approximately $1.1 million cash on hand to start 2026, plus a large number of small contributions. This is relevant because Sullivan’s larger cash‑on‑hand is a concrete indicator she can outspend/organize in the months before the September primary — a major reason to treat Shaheen’s lead as contestable and to question whether a 64.5% price fully reflects Sullivan’s resources. The outlet is a reliable local source for campaign finance reporting. ([wmur.com](https://www.wmur.com/article/maura-sullivan-fundraising-q4-2025/69947707))
 
-Title: Ayotte child advocate nominee withdraws after public hearing
-Author: Adam Sexton
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.wmur.com/article/diana-fenton-withdraws-nh-child-advocate-nominee/70596102
-Summary: The article reports that Diana Fenton, the governor’s nominee for Child Advocate, withdrew her candidacy after a contentious public hearing where opposition was voiced regarding her qualifications. While the focus is on Fenton’s withdrawal, there is no mention of Stefany Shaheen or any information related to her potential candidacy for NH-01. Therefore, based on this webpage, there is no relevant information to predict whether Stefany Shaheen will be the Democratic nominee for NH-01.
+### [UNH Survey Center: Early Look at 2026 NH Races](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/)
+**Author:** Andrew E. Smith, Ph.D. (UNH Survey Center) | **Published:** 2025-09-29
 
+The UNH Survey/Granite State Poll shows Democratic primary voters in NH‑01 expressing a preference for Stefany Shaheen in an early September 2025 poll, but more than half of likely Democratic primary voters were undecided at that time. The methodology and margins of error are reported. This source is high quality for measuring early preferences; it supports the idea that Shaheen had an early lead, but it also underscores substantial undecided voters — evidence that the race can move. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/))
 
+### [NH01 Dem Primary Heats Up as Urrutia Demands Stefany Shaheen Come Clean on Kamen, Epstein](https://nhjournal.com/nh01-dem-primary-heats-up-as-urrutia-demands-stefany-shaheen-come-clean-on-kamen-epstein/)
+**Author:** Leonard Robinson | **Published:** 2026-02-02
+
+NHJournal reports that Democratic challenger Christian Urrutia demanded public answers from Stefany Shaheen about her professional relationship with Dean Kamen and cited newly revealed documents tied to Jeffrey Epstein’s file. The article claims Shaheen received sizeable compensation from ARMI (Kamen’s organization) since 2018. This coverage raises a potential vulnerability for Shaheen that could affect primary voters and campaigns’ messaging; it is an example of negative issues that could narrow or reverse an early lead. NHJournal is a local outlet with a partisan slant, so the claims merit attention and cross‑checking. ([nhjournal.com](https://nhjournal.com/nh01-dem-primary-heats-up-as-urrutia-demands-stefany-shaheen-come-clean-on-kamen-epstein/))
+
+### [Stefany Shaheen (campaign) — News & Updates](https://stefanyshaheen.com/news/)
+**Author:** Unknown (campaign website) | **Published:** 2025-12-16 (example post dates shown)
+
+The candidate’s official campaign site lists endorsements (including mayors and a Teamsters local) and highlights local organizing and press mentions. These campaign statements corroborate local reporting about endorsements and are useful to confirm which unions and local officials have publicly backed Shaheen; such endorsements can mobilize votes in a primary and help justify a front‑runner assessment. As a campaign source it is inherently promotional, so I treat factual claims (endorsements, endorsements dates) as verifiable but interpretative claims as partisan. ([stefanyshaheen.com](https://stefanyshaheen.com/news/?utm_source=openai))
+
+### [Stefany Shaheen for Congress — FEC filing (pdf)](https://docquery.fec.gov/pdf/792/202601319825635792/202601319825635792.pdf)
+**Author:** Federal Election Commission (committee filing) | **Published:** 2026-01-31 (report covering 10/01/2025–12/31/2025)
+
+The committee’s official FEC Form 3 report (Stefany Shaheen for Congress) shows detailed receipts, itemized contributions, and disbursements for the Q4 2025 reporting period. This primary document provides authoritative confirmation of the campaign’s fundraising totals and itemized donor data referenced in news stories. FEC filings are the authoritative public record on campaign finance and are directly relevant for comparing Shaheen to rivals finance positions. ([docquery.fec.gov](https://docquery.fec.gov/pdf/792/202601319825635792/202601319825635792.pdf))
+
+### [New Hampshire Election Dates and Deadlines (US Vote Foundation)](https://www.usvotefoundation.org/new-hampshire-election-dates-and-deadlines)
+**Author:** Unknown | **Published:** Unknown (site shows Sep 8, 2026 primary date)
+
+This election calendar lists New Hampshire’s September 8, 2026 primary date for congressional and state primaries. It corroborates the market’s stated primary date (Sept 8, 2026), which is material to resolution timing: the primary is the most likely date the Democratic nominee will be determined and therefore the key event that will resolve the market. The calendar is a neutral, practical reference for election scheduling. ([usvotefoundation.org](https://www.usvotefoundation.org/new-hampshire-election-dates-and-deadlines?utm_source=openai))

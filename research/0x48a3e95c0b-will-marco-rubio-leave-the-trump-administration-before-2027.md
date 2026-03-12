@@ -1,86 +1,101 @@
 # Research: Will Marco Rubio leave the Trump administration before 2027?
 
 **Market ID:** 0x48a3e95c0bc1b9305e56445a7affcb857fd61e0ae0d78a4778310a1108ceb08a
-**Researched At:** March 6, 2026 at 04:19:57 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Marco Rubio leave the Trump administration before 2027?"
+**Researched At:** March 12, 2026 at 06:16:38 PM UTC
+**Search Query:** "Will Marco Rubio leave the Trump administration before 2027?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Recent reporting shows Rubio’s only departure was procedural; he remains in key roles with no sign of resigning. The 18% probability aligns with typical turnover risk and doesn’t appear significantly mispriced.
+Public, high-quality reporting shows Marco Rubio is serving as Secretary of State (and has taken on additional acting roles) and has been a visible actor in the January 2026 Venezuela operation; I found no credible reporting of imminent resignation or removal. Given that, the market's 15% probability is reasonable; any mispricing is likely small (a few cents) and driven by low trading volume rather than clear missing public information.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Marco Rubio will cease to be a member of the Trump administration by December 31, 2026. A “Yes” requires an announced resignation/removal or other formal departure from all Trump administration roles (e.g., Secretary of State, National Security Advisor) before that date. Simply vacating one position (e.g., acting archivist) while remaining in others does not trigger resolution.
+I researched recent reporting and expert coverage to evaluate whether the prediction market (Price = 15%) for “Will Marco Rubio leave the Trump administration before 2027?” shows credible evidence of mispricing.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports “Yes” > event occurs):  
-- Politico (Jan 2025) argues Rubio faces internal distrust and is “unlikely to last long,” suggesting friction that could lead to an early exit. The analysis is credible but a year old.  
+1) CONTEXT ANALYSIS
+- What the market asks: Will Marco Rubio cease to be a member of the Trump administration (resignation, removal, or otherwise) with an announcement before 11:59 PM ET on December 31, 2026? If any such announcement is made before that deadline, the market resolves YES; absent that, it resolves NO. (User-provided market resolution rules.)
+- Current baseline fact required for analysis: Marco Rubio is serving as U.S. Secretary of State (confirmed by the Senate at the start of the administration) and has taken on additional acting roles in the administration. These are the offices he would have to vacate (or be removed from) for the market to resolve YES. ([apnews.com](https://apnews.com/article/39c378e19d0327a7f091f302daf8ca3e))
 
-Bearish (supports “No” – stays in office):  
-- CNN (Feb 2026) notes Rubio’s departure from the National Archives role was a routine, legally mandated move, and he still holds high-level positions with no announced plans to resign.  
-- Reuters (Feb 2026) and Federal News Network (Feb 2026) similarly emphasize that his recent role change was procedural under the Federal Vacancies Reform Act, not political, and there is no sign he intends to leave the administration before 2027.  
+2) EVIDENCE EVALUATION (relevant recent findings)
+A. Evidence that bears on the chance Rubio will leave (specific items that could increase risk of departure)
+- High public profile and multiple roles: Rubio has been given multiple senior roles (Secretary of State and acting national security adviser, plus other acting roles at times). That concentrates responsibility and public exposure; concentrated, high-visibility portfolios increase the chance that a single major operational failure, scandal, or political backlash could precipitate departure. This increases the plausibility of some non-zero leave probability. ([axios.com](https://www.axios.com/2025/05/03/marco-rubio-trump-national-security-adviser))
+- Involvement in exceptionally controversial operations: Rubio was a visible policymaker for the administration’s January 2026 operation in Venezuela (capture of Nicolás Maduro), for which the administration faced substantial international and domestic criticism and legal/political scrutiny. High-profile controversial actions can increase political vulnerability (congressional pressure, oversight, legal challenges) for senior officials. Rubio has publicly defended administration decisions and testified to Congress on Venezuela policy. Those high-profile responsibilities raise tail-risk for departure. ([apnews.com](https://apnews.com/article/7301af043813fa49d79b64bd1489e005?utm_source=openai))
+- Historical pattern of turnover: The Trump administrations historically have had higher turnover and more abrupt staff changes than average. That pattern makes sudden departures more plausible than under lower-turnover administrations; however, pattern alone does not predict any specific departure. (This is contextual — not direct evidence Rubio will leave.) ([axios.com](https://www.axios.com/2025/05/03/marco-rubio-trump-national-security-adviser))
 
-Source Credibility & Recency: Politico’s column is well-sourced but over a year old. CNN, Reuters, and FNN are timely (Feb 2026) and uniformly report Rubio remains firmly in the administration.
+B. Evidence that argues against a near-term departure (factors supporting the market price)
+- Strong Senate confirmation and apparent White House trust: Rubio was confirmed to be Secretary of State (unanimously) and has been publicly described as a trusted, high-performing figure for the president; the administration has repeatedly given him high-responsibility assignments rather than sidelining him. That suggests the administration values him and that he’s less likely to be forced out absent a major event. ([apnews.com](https://apnews.com/article/39c378e19d0327a7f091f302daf8ca3e))
+- No high-quality reporting showing imminent resignation or removal: I found no credible mainstream reporting (AP, Reuters, NYT, WaPo, Axios) in the last several months indicating Rubio is planning to resign or that the administration is preparing to remove him. His recent public testimony and briefings (noted above) look more like normal oversight than signals of imminent exit. Absence of such reporting lowers the prior chance of near-term departure. ([reutersconnect.com](https://www.reutersconnect.com/item/secy-state-marco-rubio-testifies-on-venezuela-before-the-senate-judiciary-committee-jan-28-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA4NTVLQlY?utm_source=openai))
+- Political incentives to retain him: Rubio’s active role and alignment with key administration priorities (e.g., Latin America and the Venezuela operation) create incentives for the president to keep him in place through year-end, unless a large scandal or policy collapse occurs. Reporting suggests the president sees value in keeping Rubio at the center of foreign policy. ([axios.com](https://www.axios.com/2025/05/03/marco-rubio-trump-national-security-adviser))
 
-3. MARKET EFFICIENCY ANALYSIS  
-- The 18% price plausibly reflects a low but non-zero chance of departure, consistent with standard turnover risk in senior appointees.  
-- Tight spread with zero volume suggests pricing by a small number of traders who likely view the event as unlikely.  
-- The absence of immediate rumors or credible departure signals implies informed traders see little to trade on; the low volume likely reflects both consensus on low probability and limited new information.
+C. Source credibility and recency
+- High-quality, recent reporting underpinning the key facts: AP (confirmation, Jan 2025), Reuters (reporting and Rubio comments around January 2026 and his congressional testimony on Jan 28, 2026), Axios (May 2025 analysis of his acting NSA appointment), and Washington Post background on Rubio’s foreign-policy profile are authoritative and recent enough to be materially relevant. These are the load-bearing sources for assertions about his role and visibility. ([apnews.com](https://apnews.com/article/39c378e19d0327a7f091f302daf8ca3e))
+- I found many lower-quality or speculative pieces (blogs, forums, social media) but no high-quality source reporting an impending departure.
 
-4. MISPRICING ASSESSMENT  
-- There is no recent credible evidence suggesting Rubio’s departure risk is materially above the 18% mark.  
-- Conversely, there is no clear evidence it’s materially lower: turnover among senior officials can happen, but nothing currently indicates an elevated risk.  
-- Given the still-theoretical nature of any departure and no heavy partisan or legal pressures revealed in the latest reports, the price appears to lie within a reasonable range of expected turnover risk.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation justifying the current 15% price: The market is assigning a modest (low) probability that a senior cabinet member will leave within ~10 months. That is consistent with: (a) the nonzero historical baseline of cabinet turnover in a high-volatility administration, (b) Rubio’s high public profile and involvement in controversial actions which create tail-risk, and (c) the fact that no credible reporting shows imminent departure. Taken together, a 10–20% implied probability is plausible as a market consensus that departure is unlikely but possible.
+- Could the price reflect a single trader? Yes — the market’s low total volume ($2,138) and tight spread (6¢) mean the displayed price may reflect a small number of participants or a single liquidity-provider; low volume raises the risk that the price isn’t a fully diversified-information aggregation. Low volume markets are prone to idiosyncratic pricing if few traders trade. (User-supplied market metrics.)
+- Is low volume due to obviousness or neglect? In this case it plausibly reflects both: many informed observers would rate a Rubio exit by year-end as unlikely (so there’s not much trading interest), and some sophisticated traders may be focused on bigger-ticket markets. That reduces the chance the market is grossly mispriced but increases the risk of small inefficiencies.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: ~20% (weak indicators of material mispricing)  
-Magnitude of mispricing: ~5 cents (maximum plausible error given low information)  
-Expected value = 20% × 5 cents = 1 cent
+4) MISPRICING ASSESSMENT (weighing evidence)
+- Evidence that would indicate a material mispricing (and whether it exists):
+  - To conclude a large mispricing (e.g., >20 cents) we would need specific, credible, and recent evidence strongly raising the exit probability (such as reporting that Rubio has tendered a resignation, is under credible criminal/ethical investigation that would force departure, serious health incapacity, or clear imminent removal). I found none of those.
+  - The plausible “missing” information traders might have: internal signals about White House personnel decisions, non-public health information, or imminent disciplinary findings. I found no credible public reporting pointing to any of these.
+- Conclusion on mispricing: The public evidence suggests the 15% market probability is reasonable. The market could be slightly inefficient due to low volume (i.e., the displayed price might not fully reflect every marginal piece of public information), but I found no credible public evidence demonstrating a sizable (double-digit cent) mispricing in either direction. Small inefficiencies (a few cents) are plausible, but not large ones.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Recent reporting shows Rubio’s only departure was procedural; he remains in key roles with no sign of resigning. The 18% probability aligns with typical turnover risk and doesn’t appear significantly mispriced.  
+CRITICAL CHECK (self-challenge)
+- I checked the market’s resolution criteria and verified the condition: an announced resignation/removal before Dec 31, 2026 resolves YES. I looked for announcements or near-certainty causes and found none in credible sources.
+- The most charitable interpretation of why informed traders set 15%: a modest baseline for cabinet turnover in a high-turnover administration plus small added risk from a highly visible role in controversial operations (e.g., Venezuela), but also discount because Rubio appears trusted and actively defended by the president and the administration.
+- I do not find a plausible scenario supported by public reporting that would justify thinking the market is off by a large amount (e.g., >20¢).
+
+5) EXPECTED VALUE CALCULATION (value of investigating / trading)
+- Strength of evidence (i.e., the probability that my uncovered public evidence points to an error that the market has missed): I estimate about 30% — there are plausible but not strong reasons (Venezuela, multiple roles, historical turnover) that could push risk modestly higher, but no definitive signals. (Strength = 30%.)
+- Magnitude of mispricing I think plausible (if any): ~5 cents. Given the evidence, I think the market could be under/overpriced by a small amount (a handful of cents), not tens of cents.
+- Expected value = Strength × Magnitude = 30% × 5c = 1.5 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- I rate my confidence in this assessment as: medium.
+
+FINAL JUDGMENT (short)
+- The market price (15%) is plausible and consistent with current public information. There is no credible, high-quality reporting I could find that strongly suggests a significantly higher exit probability for Rubio before Dec 31, 2026. Low volume means the price could be a little noisy; small mispricings of a few cents are possible, but I found no basis for concluding a large (>20¢) mispricing.
+
+EXPECTED_VALUE: 1.5
+SUMMARY: Public, high-quality reporting shows Marco Rubio is serving as Secretary of State (and has taken on additional acting roles) and has been a visible actor in the January 2026 Venezuela operation; I found no credible reporting of imminent resignation or removal. Given that, the market's 15% probability is reasonable; any mispricing is likely small (a few cents) and driven by low trading volume rather than clear missing public information.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Marco Rubio Isn't Likely to Last Long as Secretary of State
-URL: https://www.politico.com/news/magazine/2025/01/14/marco-rubio-secretary-of-state-column-00197805
-Summary: The article suggests that Marco Rubio's tenure as Secretary of State is unlikely to last long. He faces internal challenges from fellow Republicans who are undermining him, and he is expected to lead a workforce that Donald Trump distrusts. Given these political dynamics and the lack of strong support within his party, Rubio's departure before 2027 appears plausible.
+### [Senate confirms Marco Rubio as secretary of state, giving Trump the first member of his Cabinet](https://apnews.com/article/trump-cabinet-marco-rubio-secretary-of-state-nominee-39c378e19d0327a7f091f302daf8ca3e)
+**Author:** Lisa Mascaro | **Published:** 2025-01-20
 
-Title: Marco Rubio drops one of his job titles, while still juggling several other hats | CNN Politics
-Author: Aleena Fayaz
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://us.cnn.com/2026/02/05/politics/marco-rubio-national-archives
-Summary: Marco Rubio's current roles in the Trump administration include serving as Secretary of State and having previously held the position of acting archivist of the United States, a role he recently vacated due to the expiration of his appointment under the Federal Vacancies Reform Act. Throughout his tenure, Rubio has taken on multiple responsibilities, often juggling several positions simultaneously, as highlighted by jokes from colleagues about his numerous "jobs." Given that Rubio's departure from the archivist role was due to legal limits rather than political reasons, and considering his ongoing high-level positions such as Secretary of State, there is no immediate indication he will leave the Trump administration before 2027.
+AP reported on Marco Rubio’s Senate confirmation as Secretary of State, describing the unanimous confirmation and immediate assumption of duties at the start of the administration. This is a core factual foundation for the market because the contract resolves on whether a sitting administration official (Rubio) leaves by Dec 31, 2026; confirming he holds that post is load-bearing to the prediction. The reporting shows Republican leadership and Senate support at confirmation — evidence weighing against an immediate, obvious reason for departure.
 
-Title: Marco Rubio steps down as acting head of US National Archives
-Author: Reuters
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.geo.tv/latest/649296-marco-rubio-steps-down-as-acting-head-of-the-us-national-archives
-Summary: Marco Rubio stepped down as acting head of the US National Archives in February 2026, in compliance with the Federal Vacancies Reform Act, which limits the duration of acting officials in Senate-confirmed roles. Rubio has held multiple roles within the Trump administration, demonstrating a high level of trust from Trump, including involvement in foreign policy and domestic issues. However, there is no indication from the available information that Rubio plans to leave the Trump administration before 2027, as his departure from the Archives role was procedural and related to legal limits rather than political or personal reasons.
+### [Rubio says US plan for Venezuela is stability, recovery, then transition](https://www.investing.com/news/commodities-news/rubio-says-us-plan-for-venezuela-is-stability-recovery-then-transition-4435558)
+**Author:** Simon Lewis and Patricia Zengerle (Reuters reporting) | **Published:** 2026-01-07
 
-Title: Marco Rubio out as acting head of National Archives | Federal News Network
-Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://federalnewsnetwork.com/people/2026/02/marco-rubio-out-as-acting-head-of-national-archives/
-Summary: Marco Rubio is no longer serving as the acting head of the National Archives, having stepped down in accordance with the Federal Vacancies Reform Act. While Rubio continues to hold roles within the Trump administration, including serving as acting national security advisor, there is no indication from the article that he plans to leave the Trump administration before 2027. His departure from the National Archives appears to be a procedural change rather than a sign of leaving the administration altogether.
+Reuters reporting (hosted on Investing.com) summarizes Rubio’s public briefings about the administration’s three-step plan for Venezuela after U.S. forces captured Nicolás Maduro in January 2026. This shows Rubio’s frontline role in a highly controversial operation — a factor that increases his public exposure and creates a non-zero tail risk of political blowback that could, in principle, lead to resignation/removal. It supports the view that his profile raises the probability of a departure above zero, but the article contains no reporting of imminent departure.
 
-Title: Marco Rubio drops one of his job titles, while still juggling several other hats
-Author: Aleena Fayaz
-Published Date: 2026-02-05T00:00:00.000Z
-URL: https://www.cnn.com/2026/02/05/politics/marco-rubio-national-archives?cid=external-feeds_iluminar_google
-Summary: Marco Rubio's tenure as acting archivist of the United States has ended due to the expiration of his appointment under the Federal Vacancies Reform Act. Throughout Trump’s administration, Rubio has held multiple roles, including Secretary of State, National Security Adviser, and acting archivist—often juggling several positions simultaneously. His departure from the archivist role was expected once his temporary appointment expired, and he continues to serve in other capacities within the administration. Given his ongoing involvement in various government roles and the lack of any announced plans to leave, it is uncertain whether Rubio will exit the Trump administration before 2027.
+### [The Latest: Venezuela says 24 security officers were killed in US operation to capture Maduro](https://apnews.com/article/7301af043813fa49d79b64bd1489e005)
+**Author:** Associated Press (AP) | **Published:** 2026-01-06
 
+AP’s “Latest” coverage collects developments from the January 2026 operation to capture Nicolás Maduro, including casualty counts and ongoing domestic and international reactions. This is relevant because it documents the controversy and potential political consequences for senior U.S. officials tied to the operation; such controversies are the main public factor that could cause or accelerate a cabinet departure. AP’s account confirms the operation’s scale and the political scrutiny that followed.
 
+### [How Rubio became Trump's minister of many hats](https://www.axios.com/2025/05/03/marco-rubio-trump-national-security-adviser)
+**Author:** Marc Caputo | **Published:** 2025-05-03
+
+Axios analyzes the May 2025 decision to make Rubio acting national security adviser in addition to Secretary of State and documents the White House’s apparent trust in Rubio and his accumulation of responsibilities. This reporting supports the assessment that Rubio is trusted by the president and centrally involved in policy — a factor weighing against an imminent, likely departure — though it also highlights the over-concentration of roles that can create operational risk.
+
+### [Trump taps Rubio for secretary of state. What are his foreign policy views?](https://www.washingtonpost.com/world/2024/11/13/trump-marco-rubio-secretary-state-foreign-policy/)
+**Author:** Leo Sands and Karen DeYoung | **Published:** 2024-11-13 (updated 2024-11-15)
+
+The Washington Post background piece outlines Rubio’s foreign-policy positions and history, explaining why he was chosen and what roles he’s likely to play. This helps evaluate the political incentives for both Rubio and the administration to keep him in place: he is a substantive policy figure (not a placeholder), which argues against a sudden forced exit absent a major scandal. The piece provides context for why his continued presence is plausible and why the market might place a low probability on an exit.
