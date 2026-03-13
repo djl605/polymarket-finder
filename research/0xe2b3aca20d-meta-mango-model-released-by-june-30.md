@@ -1,93 +1,110 @@
 # Research: Meta "Mango" model released by June 30?
 
 **Market ID:** 0xe2b3aca20d136af79f908b7c9cba9832b338e2c02083aa114444f273621b17b4
-**Researched At:** March 3, 2026 at 02:56:39 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Meta "Mango" model released by June 30?"
+**Researched At:** March 13, 2026 at 04:14:10 AM UTC
+**Search Query:** "Meta "Mango" model released by June 30?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 9.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Third-party reports make a H1 2026 Mango release plausible, but absence of any official Meta announcement or clarity on public access suggests an 82% market price overstates the true probability by roughly 10–15 cents.
+Reporting shows Meta internally targeted a H1‑2026 release for an image/video model codenamed Mango, but there has been no public Meta announcement or public access confirmation as of Mar 13, 2026. Given the resolution rule (public Meta confirmation required), technical and safety risks, and fast-moving competitor rollouts, the market price (~37.5%) looks defensible and I find no clear large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Meta will publicly release (open beta, free waitlist, or public integration) its “Mango” frontier AI image-and-video model by 11:59 PM ET on June 30, 2026. A “Yes” requires an official Meta announcement and public accessibility; private or closed betas don’t count.  
+Below is a focused, evidence‑based read on whether the Meta “Mango” market (resolves YES if Meta publicly releases a frontier image+video model codenamed “Mango” by 11:59 PM ET June 30, 2026) shows credible signs of mispricing. I researched recent reporting, Meta signals, and the competitive technical landscape, and evaluated whether anything material appears missing from the market price (37.5%, low volume $1.9k). Key load‑bearing sources are cited inline.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence  
-• 2025-12-19 Perplexity report: Meta plans two new AI models in H1 2026—including Mango—making a by-June 30 release timeframe plausible.  
-• 2026-02-04 Longbridge news: explicitly anticipates Mango’s release by June 30.  
-• 2026-02-18 AI Funding Tracker: large AI capex and multiple model rollouts in 2026 suggest Mango likely lands mid-year.  
-• 2026-02-21 AI Automation Hub leak: Mango is optimized for edge devices, hinting at a swift rollout to wider audiences.  
+1) CONTEXT ANALYSIS
+- What the market is asking: Will Meta make a new frontier, general‑purpose image+video model that Meta confirms was codenamed “Mango” during development, and make that model publicly accessible (open beta, public rollout, or integration into a primary Meta product) by 11:59 PM ET on June 30, 2026? The market resolves YES only on a public, Meta‑confirmed release; closed/private betas do not qualify.
+- Minimal necessary events for YES: Meta must publicly identify a released model as the Mango project (or confirm the codename) AND that model must be generally accessible to the public (open beta, public product, or public rollout or integration into e.g., Instagram/WhatsApp) on or before June 30, 2026. Any private/invite‑only access or unconfirmed internal project mention would NOT resolve to YES.
 
-Bearish evidence  
-• None of the sources are official Meta communications; all are third-party summaries or leaks.  
-• No confirmation of public release modality (open vs closed beta). Given Meta’s past pattern, they may initially ship Mango in a private or enterprise setting before opening it broadly.  
-• No explicit June 30 deadline in any official Meta roadmap or press release.  
+2) EVIDENCE EVALUATION (all relevant findings)
+A. Evidence that makes YES plausible
+- Multiple credible reporting threads from industry outlets say Meta’s leadership internally targeted a first‑half‑2026 release for Mango (internal Q&A, H1 2026 target). This reporting originates from leaks/coverage of an internal Meta Q&A and was reported by TechCrunch and summarized by other outlets. ([techcrunch.com](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/))
+- Investor/market‑oriented writeups and summaries (MLQ.ai and similar) describe Mango and Avocado as flagged in Meta’s internal roadmap and explicitly note the H1‑2026 internal target while also emphasizing that Meta has not yet issued a public product launch announcement. That internal roadmap / explicit target (even if internal) is relevant evidence that Meta considered a H1 2026 public push. ([mlq.ai](https://mlq.ai/news/meta-readies-nextgeneration-mango-and-avocado-ai-models-for-2026-launch/))
+- Meta has recently reorganized its AI effort and made large investments (new Meta Superintelligence Labs leadership, hiring, infrastructure spending) which increase the company’s capacity to ship large models faster than before — this organizational/financial context makes a relatively near‑term release feasible. (Reported in the same reporting threads summarized above.) ([techcrunch.com](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/))
 
-Source credibility & recency  
-• All sources date between Dec 2025 and Feb 2026, so are current.  
-• They range from news aggregators (Perplexity), independent blogs, to AI-focused trackers; none is a direct Meta statement.  
+B. Evidence that makes NO (or delay) plausible
+- No stand‑alone, public Meta announcement, demo, product page, or public rollout for a model explicitly named Mango has appeared (reporting repeatedly stresses the timeline was internal and that no public launch had been announced). The market’s resolution criterion requires a public Meta confirmation and public access — that explicitly has not yet occurred per reporting. ([mlq.ai](https://mlq.ai/news/meta-readies-nextgeneration-mango-and-avocado-ai-models-for-2026-launch/))
+- The video generation space already has active, public competitors (Google’s Veo 3 and OpenAI’s Sora series) that are shipping capabilities to users and iterating quickly; those public rollouts show the engineering challenge and pace required to meet parity/leadership in video. The existence of strong competitor public products increases pressure on Meta’s timeline (Meta may choose to delay to ensure quality/safety/regulatory readiness). ([techradar.com](https://www.techradar.com/computing/artificial-intelligence/googles-veo-3-marks-the-end-of-ai-videos-silent-era))
+- Training, fine‑tuning, and safe public deployment of a frontier image+video model are technically and policy‑intensive (quality, content moderation, deepfake/consent safeguards). Several reports note internal churn and reorgs at Meta’s AI organization; such organizational turbulence can plausibly push internal targets. ([techcrunch.com](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• An 82% price implies strong consensus. Low volume suggests a few traders may be setting the price, but the tight spread indicates at least two-sided interest.  
-• It’s possible that informed traders have lapsed because no official announcement has yet appeared, leaving the market to semi-confident speculators.  
-• Alternatively, traders may view a June 30 H1 target as a high-probability outcome given Meta’s track record with H1 commitments.  
+C. Source credibility and recency
+- TechCrunch (Dec 19, 2025) and The Information (paywalled reporting on the same internal Q&A) are high‑quality tech press that reported the internal target; those are the primary “leak” sources. ([techcrunch.com](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/))
+- MLQ.ai (Dec 20, 2025) is an investor‑oriented aggregator that compiles the reporting and explicitly notes there has been no public product announcement; useful for summarizing the state but not an original leak. ([mlq.ai](https://mlq.ai/news/meta-readies-nextgeneration-mango-and-avocado-ai-models-for-2026-launch/))
+- TechRadar (May 20, 2025) and OpenAI’s Sora release notes (Feb 2026 updates) are reliable for establishing the competitive, public state of video generation products. ([techradar.com](https://www.techradar.com/computing/artificial-intelligence/googles-veo-3-marks-the-end-of-ai-videos-silent-era))
+- Recency: the core leak was December 2025; follow‑on writing through early 2026 reconfirms that the target was internal and that public confirmation had not been made as of the latest reporting used here (searches up to Mar 13, 2026).
 
-4. MISPRICING ASSESSMENT  
-• Given the lack of an official Meta date and the potential for a closed beta, an ~82% chance seems elevated.  
-• A more cautious probability might be in the 65–75% range until Meta explicitly commits to public access.  
-• This suggests a possible overpricing of roughly 10–15 cents.  
-• No single source definitively rules in or out the public release by June 30; market participants likely recognize this uncertainty but may be overweighting H1 roadmap talk.  
+D. Skeptical check (why haven’t traders already priced obvious signals?)
+- If the internal H1 2026 target were strong, why hasn’t Meta simply announced a public release? The reporting makes clear the December timeline was an internal target, not a public commitment — markets rationally discount internal targets because engineering, safety, and productization risk frequently shift internal target dates into delays or private betas. The requirement for explicit public confirmation (market resolution rule) makes the market appropriately sensitive to the absence of a public announcement.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 60% (evidence is moderately reliable but not definitive).  
-• Magnitude of mispricing: ~15 cents.  
-• Expected value = 0.60 × 15 = 9 cents.  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify ~37.5% price:
+  - The market is discounting the internal H1 2026 target because (a) there is no public announcement yet, and (b) peer companies have already publicly shipped competitive video models, so Meta may need more testing/time. 37.5% looks like a midpoint between “internal target exists” and “public release is not yet confirmed”.
+  - Low total volume ($1.9k) and a tight spread (3¢) suggest few active traders but someone committing liquidity; a single informed market maker or a small group could be maintaining a tight spread even if volume remains small.
+- Could the price reflect a genuine consensus? Possibly: traders may reasonably judge that internal targets + Meta’s resources give the firm roughly a one‑in‑three chance of meeting a public release by June 30 (given technical, safety, and regulatory uncertainties). That interpretation is defensible and consistent with the public evidence.
+- Could the price reflect only one or a few traders? Yes — low total traded dollars implies that a small set of participants could anchor the price. The tight spread does not prove broad participation; it can be supplied by a market maker or a single liquidity provider.
+- Why low volume? Two plausible causes:
+  - The outcome is borderline/technical (requires an explicit Meta confirmation) so many traders avoid betting until Meta makes an announcement.
+  - The market is niche and overlooked by professional traders who focus on larger‑liquidity markets. Both are plausible.
 
-EXPECTED_VALUE: 9.0  
-SUMMARY: Third-party reports make a H1 2026 Mango release plausible, but absence of any official Meta announcement or clarity on public access suggests an 82% market price overstates the true probability by roughly 10–15 cents.  
+4) MISPRICING ASSESSMENT (objective weighing)
+- Arguments that the market is underpricing YES (i.e., price too low):
+  - Internal H1 2026 target from an internal Q&A is direct evidence that Meta planned to ship in H1; given Meta’s compute/infrastructure and recent hires/acquisitions, achieving a public rollout by June is plausible. If traders are underweighting internal roadmap signals, that could be mispricing. ([techcrunch.com](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/))
+- Arguments that the market is overpricing YES (i.e., price too high):
+  - No public Meta confirmation or product launch yet (explicitly required for resolution). Internal targets often slip, and the public competitive landscape and safety/regulatory considerations make a June public rollout uncertain. ([mlq.ai](https://mlq.ai/news/meta-readies-nextgeneration-mango-and-avocado-ai-models-for-2026-launch/))
+  - Competitors already shipping public video models (Google Veo 3, OpenAI Sora) show the technical bar and the iterated safety/workflow complexity; Meta may prefer to avoid a rushed public release. ([techradar.com](https://www.techradar.com/computing/artificial-intelligence/googles-veo-3-marks-the-end-of-ai-videos-silent-era))
+- After balancing both sides: I do NOT find specific, high‑confidence evidence that the market is mispriced by a large amount (e.g., >20¢). The best reading is that the market is reflecting a realistic split between “internal target exists” and “no public confirmation yet.” Low volume raises the risk that the price may be noisy, but there is no single glaring public fact (e.g., a Meta press release or product page already live) that is missing from the price and would justify a confident arbitrage.
+
+CRITICAL CHECK: Did I misunderstand resolution criteria?
+- I verified the market resolution requires a public Meta confirmation and public access; internal targets or private betas do not qualify. Because the reporting relies on internal targets rather than public Meta announcements, the market’s discount seems sensible. ([mlq.ai](https://mlq.ai/news/meta-readies-nextgeneration-mango-and-avocado-ai-models-for-2026-launch/))
+
+5) EXPECTED VALUE CALCULATION (should you investigate/bet)
+- My read: there may be a modest informational edge at best, not a large one.
+- Strength of evidence that something material is missing from current price: 40% — reporting clearly shows an internal H1 target (supporting YES) but also shows no public confirmation and several reasons for delay; the evidence is mixed and not decisive.
+- Magnitude of mispricing if you are persuasive that the market is wrong: I estimate a plausible mispricing magnitude around 5 cents (i.e., if you can reliably move the market or trade on private information you think is credible, you might find ~5¢ edge). A larger error (>20¢) would require evidence I do not find (for example, a leaked public release or a Meta announcement already staged).
+- Expected value = Strength × Magnitude = 40% × 5¢ = 2.0¢
+
+6) CONCLUSION & RECOMMENDATION
+- Conclusion: There is not credible, concrete evidence of a large mispricing. The existing public evidence points to an internal H1‑2026 target for Mango (which supports YES) but also emphasizes the lack of any public Meta release or announcement (which supports NO/delay). Given the resolution criteria (public confirmation required) and the technical & safety complexity plus competitive reality, the market price (~37.5%) is a defensible midpoint. Low volume means the price may be noisier than in a liquid market, but I do not see a specific missing fact that would justify concluding a large (>20¢) mispricing.
+- Practical recommendation: If you trade this market, treat it as a low‑confidence, low‑liquidity event. If you have non‑public, verifiable information that Meta will publicly release Mango before June 30, that would strongly change the assessment; absent that, the EV is small (~2.0¢ by my estimate) and uncertainty remains significant.
+
+EXPECTED_VALUE: 2.0
+SUMMARY: Reporting shows Meta internally targeted a H1‑2026 release for an image/video model codenamed Mango, but there has been no public Meta announcement or public access confirmation as of Mar 13, 2026. Given the resolution rule (public Meta confirmation required), technical and safety risks, and fast-moving competitor rollouts, the market price (~37.5%) looks defensible and I find no clear large mispricing.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Meta Platforms Targets to Release 2 New AI Models in 2026
-Published Date: 2025-12-19T00:00:00.000Z
-URL: https://www.perplexity.ai/finance/META/news/A3527404
-Summary: Meta Platforms plans to release two new AI models in the first half of 2026, with no specific mention of a June 30 release date for the "Mango" model. The "Mango" model is focused on image and video processing, while the "Avocado" model is a large language model. Given the targeted H1 2026 timeframe, a release by June 30 is plausible but not confirmed.
+### [Meta is developing a new image and video model for a 2026 release, report says](https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/)
+**Author:** Ivan Mehta | **Published:** 2025-12-19
 
-Title: Meta’s Avocado and Mango Leak: The Future of Efficiency? - AI Automation Hub
-Author: AI Automation Hub
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://blog.ai-automation-central.com/blog/post/meta-avocado-mango-model-leaks/
-Summary: The article discusses Meta's internal AI models codenamed "Avocado" and "Mango," which are designed for efficiency and performance optimization. While official release details are not confirmed, leaks suggest that Mango is a lightweight, highly efficient model estimated to have between 1B and 8B parameters, targeting edge devices like smartphones and desktops. Its focus is on low-latency responses and local deployment, indicating Meta's interest in democratizing high-performance AI beyond data centers. Given these insights, if Meta plans to release Mango by June 30, it would likely be a scaled-down, optimized model suitable for local hardware, aligning with the leak's emphasis on efficiency and edge computing.
+TechCrunch reports (citing The Wall Street Journal coverage) that Meta’s internal Q&A with leaders described two projects codenamed Mango (image+video) and Avocado (text/LLM) and that Meta internally targeted a first‑half‑2026 release. The article also notes organizational change and some departures inside Meta’s AI teams. This supports the argument that Meta set an internal H1‑2026 target (evidence favoring YES), but TechCrunch also shows this was internal reporting rather than a public product announcement (which limits how much public markets should trust the deadline).
 
-Title: Yann LeCun's AI Predictions: A Shift in Paradigm - LinkedIn
-Published Date: 2026-01-11T00:00:00.000Z
-URL: https://www.linkedin.com/posts/aroratarun_ai-artificialintelligence-machinelearning-activity-7416330747407409153-RwmH
-Summary: The article highlights Yann LeCun's critical perspective on current AI paradigms, emphasizing that today's dominant models—particularly autoregressive LLMs like ChatGPT—have fundamental flaws, such as error compounding and limited visual understanding. LeCun predicts a significant shift toward "world models" that can see, reason, and adapt, moving beyond text-only systems. He foresees the rapid development of artificial general intelligence (AGI) within 3–10 years, driven by systems capable of observing and predicting the environment rather than just scaling hardware. Given LeCun's departure from Meta and his focus on open, adaptable AI architectures, the current trajectory suggests that future AI models, including Meta's "Mango," may need to incorporate visual reasoning, open ecosystems, and more integrated, context-aware capabilities to stay relevant and avoid obsolescence.
+### [Meta Plans ‘Mango’ Video and Image AI Model for 2026](https://www.theinformation.com/briefings/meta-plans-mango-video-image-ai-model-2026)
+**Author:** Nick Wingfield | **Published:** 2025-12-19
 
-Title: Meta's next-generation AI model Avocado has completed pre-training, internally referred to as the "most powerful" foundational model
-Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://longbridge.com/news/274880775
-Summary: Meta's upcoming "Mango" AI model is anticipated to be released by June 30. While specific details about Mango are not provided in the current source, Meta's recent advancements include the completion of pre-training for its next-generation foundational model, Avocado, which is described as the "most powerful" internally. Avocado has outperformed leading open-source models in testing and demonstrates strong capabilities in knowledge, visual perception, and multilingual tasks. This progress indicates Meta's ongoing development of highly advanced AI models, suggesting that Mango may also be a significant release in Meta's AI roadmap scheduled around mid-year.
+The Information published an exclusive briefing describing Meta’s roadmap and internal Q&A where leadership reportedly described Mango and Avocado as flagship projects for the new Meta Superintelligence Labs. The piece is paywalled but is a high‑quality original reporting source cited by other outlets; its reporting is a primary reason multiple press outlets flagged an internal H1‑2026 target. This source supports the existence of an internal target (increasing plausibility of a H1 release) but is not a public Meta announcement.
 
-Title: Meta AI News 2026: Nvidia Deal, New Models & 1 Billion Users
-Author: sarath.muralikrishnan@gmail.com
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://aifundingtracker.com/meta-ai-news/
-Summary: Meta's "Mango" AI model is part of the company's aggressive AI development efforts, alongside the flagship "Avocado" model. While the article does not specify the exact release date for Mango, it highlights Meta's plans to deploy new models and expand AI capabilities throughout 2026. Given Meta's significant AI investments—developing multiple models, deploying millions of Nvidia GPUs, and planning $115-135 billion in AI capital expenditure—it is likely that Mango is scheduled for release or further development by mid-2026, aligning with Meta's broader AI rollout timeline.
+### [Meta readies next‑generation “Mango” and “Avocado” AI models for 2026 launch](https://mlq.ai/news/meta-readies-nextgeneration-mango-and-avocado-ai-models-for-2026-launch/)
+**Author:** MLQ Agent (MLQ.ai) | **Published:** 2025-12-20
 
+MLQ.ai summarizes industry reporting and internal Meta roadmaps, explicitly noting that the Mango/Avocado projects have been referenced internally but that Meta has not issued a standalone public product launch announcement. It also recaps the technical goals and organizational context (Meta Superintelligence Labs, leadership). This is important because the market’s resolution depends on a public release; MLQ’s summary emphasizes that the reported timeline was internal and thus appropriately discounted by public markets.
 
+### [Google's Veo 3 marks the end of AI video's 'silent era'](https://www.techradar.com/computing/artificial-intelligence/googles-veo-3-marks-the-end-of-ai-videos-silent-era)
+**Author:** Lance Ulanoff | **Published:** 2025-05-20
+
+TechRadar explains Veo 3 (Google DeepMind/Gemini) and highlights that Google publicly rolled out advanced video generation with native audio capabilities. This source establishes that competing companies have publicly shipped sophisticated video models—evidence that the engineering bar and public deployment complexity are high, and that Meta faces strong public competition which could affect timing/quality decisions and thus the probability of a public Mango release by June 30.
+
+### [Sora - Release Notes (OpenAI help / Sora updates)](https://help.openai.com/en/articles/12593142)
+**Author:** Unknown (OpenAI Help Center) | **Published:** 2026-02-09
+
+OpenAI’s Sora release notes document ongoing public updates to Sora (image→video features, storyboards, timeline updates through early 2026). The presence of active, public Sora feature rollouts (and recent February 2026 updates) supports the view that other major players are already shipping public video capabilities, reinforcing the plausibility of Meta delaying to avoid rushed public deployment and underlines the competitive/technical context against which Mango would need to ship.

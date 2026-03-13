@@ -1,86 +1,109 @@
 # Research: Will the Democratic Party win the WA-05 House seat?
 
 **Market ID:** 0x213505cf51289b856acf38db627b250f0392ee4fd299363db38e4712fd842e28
-**Researched At:** March 8, 2026 at 02:35:40 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democratic Party win the WA-05 House seat?"
+**Researched At:** March 13, 2026 at 04:17:10 AM UTC
+**Search Query:** "Will the Democratic Party win the WA-05 House seat?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 1.2¢
 
 ### Summary
 
-No direct research on WA-05’s primary or candidate strength exists, and historical partisanship (~R +15–20) plus lack of documented upheavals supports the market’s 22% chance. The generic Democratic tailwind isn’t sufficient evidence of a mispricing here.
+Public evidence (official 2024 returns, incumbent Baumgartner’s active office, and district PVI) supports the Republican baseline; a 22% market probability for a Democratic flip in WA‑05 is plausible. Low volume means small inefficiencies are possible, but I found no specific, credible information indicating a large (>~5¢) mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks: Will a Democrat win Washington’s 5th Congressional District on Nov 4, 2026? A YES requires the Democratic nominee to secure a plurality of votes in that election (regardless of third‐party). A NO occurs if a Republican (or non‐Democrat caucusing with Republicans) wins.  
+Context analysis
+- Market question: Will the Democratic Party win Washington’s 5th Congressional District seat in the U.S. House on or after the 2026 general election (market resolution date: November 4, 2026)? YES resolves if a candidate identified as a Democrat (ballot-listed or shown to caucus with Democrats per the market rules) is the winner according to credible media consensus or, if ambiguous, official results (U.S. government / FEC). NO resolves if the winner is a Republican (or effectively not a Democrat by the market’s resolution rules).
+- What must happen for YES: a Democratic nominee must win the August primary(s) as applicable and then win the November 4, 2026 general election in WA‑05 (outright plurality given Washington’s general election rules), and the outcome must be reported/confirmed by credible media or the FEC.
 
-2. EVIDENCE EVALUATION  
-Bullish for Democrats (evidence that price might be too low):  
-• National generic ballot shows Democrats up ~5.5 points (Silver Bulletin, 3/6/26). In a strong wave year, this could shave into Republican margins even in lean‐R districts.  
+Evidence evaluation (all relevant, objective)
 
-Bearish for Democrats (evidence supporting ~22%):  
-• No research finding offers any data specific to WA-05 (no primary results, no candidate quality info). NPR reports “no results available” for WA-05 primaries; Seattle Times notes intra-party shifts but nothing about WA-05.  
-• Historical lean: WA-05 is a reliably Republican district—past midterms show R winning ~57%. Overcoming a 15–20-point partisan lean would require an extraordinary wave or scandal, neither evidenced.  
-• No credible redistricting or demographic upheaval is documented.  
+Evidence that supports the current market price (22% Democratic win)
+1) Strong recent Republican result in 2024. Official WA Secretary of State returns show Michael Baumgartner (R) won the 2024 general election in WA‑05 by ~60.6% to 39.3% (≈21 point margin). This is direct, recent election evidence that the seat is comfortably Republican at the moment. ([results.vote.wa.gov](https://results.vote.wa.gov/results/20241105/federal-all.html))
+2) Incumbency and active representation. Baumgartner is the sitting member (House site lists him as Congressman for WA‑05 and shows active press releases and constituent activity in 2025–2026). Incumbents generally have large advantages (name recognition, fundraising, constituent services). ([baumgartner.house.gov](https://baumgartner.house.gov/))
+3) District partisan baseline. The district’s Cook PVI (published PVI for the district) leans Republican (Wikipedia summary cites Cook PVI R+5 for the district in the 2025 PVI update). That baseline means a generic environment is tilted toward Republicans absent a strong Democratic wave. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Washington%27s_5th_congressional_district))
+4) Fundraising / campaign resources (reported FEC totals summarized on 2026 election writeups): available campaign finance snapshots (most public summaries to date) show the incumbent with materially more cash-on-hand than top Democratic challengers as of end‑2025, supporting the idea Republicans start 2026 with an organizing/funding advantage. (See candidate lists/fundraising summaries compiled in public election writeups.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington?utm_source=openai))
 
-Source credibility and recency: All cited sources are from Q1 2026, credible but none actually cover WA-05. The VA-05 analysis is mis‐applied and not relevant to WA-05.  
+Evidence that could imply the market price is too low (i.e., Democrats underpriced)
+1) Repeat of a credible challenger. Carmela Conroy (the 2024 runner-up at ~39%) has already indicated she will run again; repeat challengers sometimes improve name recognition and fundraise better the second cycle, which raises upset probability compared with an unknown challenger. The 2024 runner-up status and declared 2026 candidacy increase the chance Democrats mount a stronger campaign. ([spokesman.com](https://www.spokesman.com/stories/2024/nov/05/michael-baumgartner-will-be-eastern-washingtons-ne/))
+2) Long timeframe and national environment risk. Midterm outcomes depend heavily on the national political environment and presidential approval, which can swing a seat several points; if 2026 becomes a strong Democratic midterm nationally, an R+5 district could become competitive. This is a structural source of uncertainty not priced by historical results alone.
+3) Local demographic trends/urban pockets. The district includes Spokane and Whitman County (WSU), where Democrats run better — sustained demographic or turnout shifts could narrow the margin over two years.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 22% probability roughly equates to a “small‐tail” risk that Democrats pull off an upset via a wave, scandal, or exceptionally strong candidate.  
-• Low volume could reflect that this is widely perceived as a safe seat, so few traders bother; or it could reflect that only one or two traders have placed small bets. But the 2¢ spread suggests at least some two‐sided interest.  
-• No sign that informed local insiders see a competitive race—otherwise we’d have primary polling or name recognition reporting.  
+Evidence that suggests the market price might be too high (i.e., Democrats overpriced)
+1) Large, recent margin (21 points in 2024) is not trivial to overturn in a midterm without either (a) incumbent retirement, (b) scandal, or (c) a large national wave. I found no authoritative reporting of a Baumgartner retirement or major scandal as of March 13, 2026. That significantly reduces the probability of a flip. ([results.vote.wa.gov](https://results.vote.wa.gov/results/20241105/federal-all.html))
+2) Fundraising gap (incumbent materially ahead) and endorsements: incumbents with cash and institutional backing are harder to beat. Public candidate filings show multiple challengers but no single dominant Democratic donor or much larger outside spending yet. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington?utm_source=openai))
+3) Lack of public polling showing a true toss-up in 2026 — I found no recent district-level polls that point to a Democratic surge; absence of public polling suggests the race has not yet moved to clear competitiveness.
 
-4. MISPRICING ASSESSMENT  
-There is no specific, credible evidence missing from the price. All known factors (partisan lean, absence of competitive primary data, national environment) are plausibly encompassed by a ~20–25% upset chance. Because no unique candidate developments or boundary changes are documented, the market appears reasonably priced.  
+Source credibility and recency
+- Washington Secretary of State election results (official state site) — primary primary source for 2024 vote totals; high credibility and directly relevant. (Nov 26, 2024 update page). ([results.vote.wa.gov](https://results.vote.wa.gov/results/20241105/federal-all.html))
+- Congressional office site (baumgartner.house.gov) — authoritative on incumbent status and activity; high credibility for incumbency and public activity. (content current into 2026). ([baumgartner.house.gov](https://baumgartner.house.gov/))
+- Local reporting (The Spokesman‑Review) — reliable local reporting of the 2024 outcome and Conroy’s 2026 intent; useful for candidate-level context and on‑the‑ground reporting. (Nov 5, 2024). ([spokesman.com](https://www.spokesman.com/stories/2024/nov/05/michael-baumgartner-will-be-eastern-washingtons-ne/))
+- Election writeups / compiled pages for 2026 races (public election pages / Wikipedia summarizing FEC info and candidate filings) — secondary but heavily footnoted; useful for candidate lists and fundraising snapshots (summaries through end‑2025). Use with caution but acceptable as aggregated public information; check FEC for final accuracy where needed. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington?utm_source=openai))
+- Cook PVI (via Wikipedia citation of Cook Political Report) — Cook is an authoritative source for district partisan baseline; the PVI cited is the 2025 PVI (R+5) and informs structural lean. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Washington%27s_5th_congressional_district))
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (low direct insight into WA-05).  
-• Magnitude of mispricing: 5¢ (plausible error band for a low‐vol seat).  
-• Expected value = 0.20 × 5¢ = 1.0¢  
+Market efficiency analysis
+- Plausible interpretations that justify the current 22%:
+  - The market is pricing a moderate but non-trivial upset probability: a 20–25% price roughly corresponds to “Democrats could pull a mid-sized upset if national conditions favor them or if the Democratic nominee runs a strong campaign, but absent that the Republican incumbent is a clear favorite.”
+  - The 22% rate is consistent with fundamentals: R+5 baseline, 21‑point 2024 win, incumbency, fundraising advantage → a sub‑25% upset probability is reasonable.
+- Could the price reflect only one/few traders? Yes — the market has low total volume ($2,831) and a very tight spread (2¢). Those metrics mean price could be anchored by a small group or single liquidity provider. That raises the risk of idiosyncratic pricing errors, especially for niche markets. However, the price happens to align with the public fundamentals described above, which reduces the degree to which the low volume alone is a smoking gun for mispricing.
+- Is low volume because outcome is obvious or overlooked? Probably both. The 2024 margin and district lean make the R favorite — many informed traders may view it as low expected return to arbitrage. At the same time, low volume implies the market won’t quickly incorporate new local information (candidate retirements, criminal developments, a major outside spending surge) until traders focus on it.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: No direct research on WA-05’s primary or candidate strength exists, and historical partisanship (~R +15–20) plus lack of documented upheavals supports the market’s 22% chance. The generic Democratic tailwind isn’t sufficient evidence of a mispricing here.  
+Mispricing assessment (weighing evidence)
+- Summary judgment: There is no specific, credible, and verifiable piece of information I found that strongly contradicts the market’s fundamentals and would justify concluding a large mispricing (e.g., > 20¢). The combination of:
+  - Official 2024 result (Baumgartner +21),
+  - District partisan baseline (PVI R+5),
+  - Incumbency and fundraising advantage,
+  argues that a Democratic flip in 2026 is plausible but not likely — a mid‑single‑digit to low‑double‑digit probability range is consistent with those facts.
+- Where mispricing could exist:
+  - Low trade volume and tight spread raise the possibility that the market is not fully liquid; small, credible new information (e.g., a strong Democratic recruiting/major donor entering, an incumbent scandal/retirement, or big national shift) could move true probability several points. But there is no current evidence that such information exists and is being withheld from public sources.
+- Conclusion: the market price (22%) appears broadly reasonable given publicly available, credible evidence; if there is mispricing it is more likely small (a few cents) than large. I do not find specific, credible evidence that the price systematically omits major known factors that would push the probability much higher.
+
+Critical self-check (why a big discrepancy would be surprising)
+- A >20‑point discrepancy between market and fundamentals would require either (a) a technical resolution quirk, (b) a publicly unknown incumbent retirement or disqualification, or (c) credible polling showing a big swing; none of these appear present in public sources as of Mar 13, 2026. I reviewed the market’s resolution text and confirmed it resolves on election winner/party (no unusual technicality). ([results.vote.wa.gov](https://results.vote.wa.gov/results/20241105/federal-all.html))
+
+Expected‑value calculation for investigating/trading this market
+- Strength of evidence that price is missing actionable information: 30% (there is plausible room for small inefficiencies because of low volume, but no strong specific evidence of a missing, high‑impact fact). (Score: 30/100)
+- Magnitude of plausible mispricing if wrong: I estimate the realistic error magnitude is small — on the order of 3–5 cents (0.03–0.05 in probability) given fundamentals and typical variability for this type of seat and timeline. I will use 4 cents as a point estimate.
+- Expected value = Strength × Magnitude = 0.30 × 4 cents = 1.2 cents.
+
+Final formal outputs (per your requested format)
+
+EXPECTED_VALUE: 1.2
+SUMMARY: Public evidence (official 2024 returns, incumbent Baumgartner’s active office, and district PVI) supports the Republican baseline; a 22% market probability for a Democratic flip in WA‑05 is plausible. Low volume means small inefficiencies are possible, but I found no specific, credible information indicating a large (>~5¢) mispricing.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: What would it take for Democrats to win the 5th, 6th and 9th districts as ...
-Author: Dwayne Yancey
-URL: https://cardinalnews.org/2025/12/09/what-would-it-take-for-democrats-to-win-the-5th-6th-and-9th-districts-as-currently-drawn-heres-the-math/
-Summary: The article analyzes the current political landscape of Virginia's most Republican-leaning districts—specifically the 5th, 6th, and 9th districts—to assess the potential for Democratic victories. For WA-05, which corresponds to Virginia's 5th District, recent election data indicates a significant Republican advantage, with the incumbent Republican John McGuire securing approximately 57.3% of the vote in the 2024 congressional election. Comparing past midterm results, Republican Bob Good garnered around 57.6% in 2022, suggesting a consistent Republican base. To predict a Democratic win, factors such as demographic shifts, potential redistricting (which could alter district boundaries), and voter turnout would be critical. Currently, the district's voting patterns favor Republicans, and overcoming this advantage would require substantial changes in voter behavior or district boundaries.
+### [November 5, 2024 General Election Results — Federal - All Results](https://results.vote.wa.gov/results/20241105/federal-all.html)
+**Author:** Washington Secretary of State, Elections Division | **Published:** 2024-11-26
 
-Title: Tuesday results put incumbents on notice in 2026 primaries | The Seattle Times
-Author: Marianna Sotomayor
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.seattletimes.com/nation-world/nation-politics/tuesday-results-put-incumbents-on-notice-in-2026-primaries/
-Summary: The recent primaries reveal a trend of incumbents, including older Democrats, facing strong challenges from younger, more liberal candidates, signaling potential shifts within the Democratic Party. In Texas, longstanding Democrats like Rep. Al Green are being challenged by younger opponents, with runoff races indicating a possible change in voter preferences toward new faces. While this trend highlights a desire for generational change and fresh leadership within the party, there is no specific information about the WA-05 House seat in Washington. Therefore, these developments suggest a broader context of intra-party competition and voter openness to change, which could influence the outcome of the WA-05 race, but do not provide a definitive prediction.
+This is the official Washington Secretary of State page with county-by-county and district-level certified results for the November 5, 2024 general election. It shows Michael Baumgartner (R) winning WA‑05 with 240,619 votes (60.57%) to Carmela Conroy (D) with 156,074 votes (39.29%). Those precise vote totals and percentages are the primary empirical basis for assessing the district’s recent baseline partisan outcome and are directly relevant to estimating the likelihood of a 2026 Democratic flip (they strongly favor the incumbent Republican absent other changes). ([results.vote.wa.gov](https://results.vote.wa.gov/results/20241105/federal-all.html))
 
-Title: Washington Primary Election Results 2026 : NPR
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://apps.npr.org/primary-election-results-2026/states/WA.html
-Summary: The webpage provides the latest primary election results for Washington's 2026 elections, specifically noting that no results are currently available for the U.S. House race, including WA-05. Since primary results are not yet published, it is too early to predict whether the Democratic Party will win the WA-05 House seat. Factors that could influence the outcome include candidate nominations, voter registration trends, and historical voting patterns in the district, but specific data is not available at this time.
+### [Representative Michael Baumgartner (Official U.S. House website)](https://baumgartner.house.gov/)
+**Author:** Office of Representative Michael Baumgartner | **Published:** 2026-02-12 (page contains press releases updated in 2026)
 
-Title: Generic Congressional Ballot: Latest Polls | Silver Bulletin
-Author: Nate Silver
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls
-Summary: The webpage provides an overview of the current state of the generic congressional ballot as of March 6, 2026, indicating that Democrats hold a consistent lead of approximately 5.4 to 5.6 points over Republicans. This stability in polling suggests a favorable environment for Democrats nationally, which could positively influence specific races like WA-05. However, the webpage emphasizes that local factors, primary results, and state-specific dynamics—such as the Texas primary's competitive races—are crucial in predicting individual district outcomes. The overall Democratic advantage in the national ballot indicates a potentially favorable climate for Democratic candidates, but local campaign strength, candidate quality, and district-specific issues will ultimately determine the outcome in WA-05.
+The Congressman’s official House site lists Michael Baumgartner as the Representative for Washington’s 5th District, contains his biography, press releases, and constituent activity into 2026, and confirms he is serving in the 119th Congress. This authoritative source confirms incumbency and shows Baumgartner is an active sitting member (important for estimating incumbency advantage and assessing whether a retirement or resignation has been announced — none is shown). It therefore lowers the probability that the seat is an open‑seat vulnerability at present. ([baumgartner.house.gov](https://baumgartner.house.gov/))
 
-Title: Chuck Hubbard wins Democratic nomination for U.S. House in North Carolina's 5th Congressional District | Politics & Elections | goskagit.com
-Author: AP
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.goskagit.com/news/politics/chuck-hubbard-wins-democratic-nomination-for-u-s-house-in-north-carolinas-5th-congressional-district/article_337301c4-7141-5582-a2f2-a955904b2c42.html
-Summary: Chuck Hubbard has secured the Democratic nomination for the U.S. House in North Carolina's 5th Congressional District, according to recent reports. While this confirms his candidacy in North Carolina, there is no information provided about the Washington-05 (WA-05) House seat or its current political landscape. Therefore, this article does not offer relevant insights or data to predict whether the Democratic Party will win the WA-05 House seat.
+### [Michael Baumgartner will be Eastern Washington’s next congressman](https://www.spokesman.com/stories/2024/nov/05/michael-baumgartner-will-be-eastern-washingtons-ne/)
+**Author:** Emry Dinman | **Published:** 2024-11-05
 
+Local reporting from The Spokesman‑Review reporting Baumgartner’s 2024 victory and campaign context (quotes, county breakdowns, and Carmela Conroy’s statement that she planned to run again in 2026). The article gives contemporaneous reporting of the election outcome and on‑the‑ground context (Conroy’s 2024 showing and intention to run again), which is relevant to assessing challenger quality and the likelihood a repeat challenger could improve performance in 2026. ([spokesman.com](https://www.spokesman.com/stories/2024/nov/05/michael-baumgartner-will-be-eastern-washingtons-ne/))
 
+### [2026 United States House of Representatives elections in Washington (Wikipedia)](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington)
+**Author:** Unknown (Wikipedia editors) | **Published:** 2026-03-13 (page updated periodically; content retrieved Mar 2026)
+
+This page compiles candidate filings, declared challengers, and campaign finance summaries (sourced to FEC filings) for the 2026 House contests in Washington, including WA‑05. It lists declared Democratic challengers (Carmela Conroy, Bajun Mavalwalla, David Womack, etc.), notes Michael Baumgartner as the incumbent, and reports campaign fundraising snapshots as of Dec 31, 2025 (showing the incumbent with larger cash-on-hand than top Democratic challengers). This aggregated information supports the conclusion that Republicans begin 2026 with a structural advantage. (Because it’s an aggregator, I treated the FEC-sourced numbers here as summaries to check against FEC records where necessary.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington?utm_source=openai))
+
+### [Washington’s 5th congressional district (Wikipedia)](https://en.wikipedia.org/wiki/Washington%27s_5th_congressional_district)
+**Author:** Unknown (Wikipedia editors) | **Published:** 2026-03-13 (page updated periodically; content retrieved Mar 2026)
+
+The district article summarizes geography, recent election results (including the 2024 Baumgartner 60.6% result), demographics, and cites the Cook Political Report PVI (noting an R+5 PVI on the cited Cook list). The PVI and district composition help explain the structural partisan baseline (a modest Republican lean) that underpins why a Democratic flip is possible but not highly likely without a large swing. This informs the baseline “fundamentals” assessment used to judge whether a 22% market price is plausible. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Washington%27s_5th_congressional_district))

@@ -1,87 +1,109 @@
 # Research: Will Hamas agree to disarm by June 30?
 
 **Market ID:** 0x2cd4df599867b14e835436e67e524cd04bbd67eaa6454c07b294d9dd0470e6b7
-**Researched At:** March 8, 2026 at 04:21:20 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Hamas agree to disarm by June 30?"
+**Researched At:** March 13, 2026 at 04:16:33 AM UTC
+**Search Query:** "Will Hamas agree to disarm by June 30?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Recent, credible reports uniformly show Hamas leadership rejecting any disarmament absent broader political guarantees, suggesting the market’s 23.5% probability is likely too high; a fair price may be closer to 10%. However, small upside scenarios keep some nonzero chance alive.
+Phase‑two mechanisms (UN resolution, new technocratic administration, ISF planning and some troop commitments) make a Hamas disarmament announcement plausible, and U.S. officials report private signals — but Hamas’s public language, Israeli skepticism, unresolved ISF/verification details and domestic politics create material doubt. The market’s 25% price is reasonable; if mispriced, the likely error is modest (single‑digit cents).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Hamas will issue a formal, credible announcement by June 30, 2026, committing to relinquish or dismantle its military forces in Gaza (partial or complete). A “Yes” resolution requires a public, official policy directive from top Hamas leaders, or broad, credible reporting confirming such a disarmament process; anything less—informal statements, conditional plans, or preliminary negotiations—yields “No.”
+CONTEXT ANALYSIS
+- Market question (exact): Will Hamas officially announce it will disarm in the Gaza Strip by June 30, 2026, 11:59 PM ET? Resolution requires an official, widely‑acknowledged Hamas leadership announcement (full or partial disarmament counts if part of an acknowledged disarmament process).  
+- What must happen for YES: Hamas leadership must make a public, official policy announcement (not an informal or contingent remark) committing to relinquish or dismantle military forces/weapons in the Gaza Strip (this can be phased/partial if presented as an official disarmament process). For NO: no qualifying formal announcement is made by that date.
+(Cited facts: phase‑two/demilitarization framework exists; market’s resolution wording matches public reporting of the plan.) ([axios.com](https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel))
 
-2. EVIDENCE EVALUATION  
-Bearish (supports NO, price too high):  
-• Five independent reports (Feb. 8 & Feb. 16, 2026) from credible outlets (Al Jazeera, AFP via The Hindu, Malay Mail, Dropsite News) consistently quote senior Hamas figures (Meshaal, Basem Naim) flatly rejecting any unilateral or partial disarmament absent a comprehensive political settlement and security guarantees.  
-• Hamas ties weapons to Palestinian resistance rights and refuses to disarm under ongoing occupation.  
-• No sign of formal negotiation proposals from Hamas leadership to disarm by the June deadline.
+EVIDENCE EVALUATION — key, recent items and how they affect the implied probability
+- Evidence that raises the probability (i.e., suggests the market price might be too low):
+  1) Phase‑two launch and policy architecture: The U.S. and mediators publicly launched "phase two" of the ceasefire plan (demilitarization + technocratic governance + reconstruction), and officials have said demilitarization is a core objective. That makes an official disarmament process at least plausible within months. ([axios.com](https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel))  
+  2) International enforcement architecture and country commitments: The UN Security Council authorized an International Stabilization Force (ISF) and a Board of Peace to supervise demilitarization (Resolution 2803), and at least some troop contributors (e.g., Indonesia) have begun training or offered forces — showing a mechanism exists to support/verify disarmament. These put real pressure on Hamas to negotiate an official disarmament arrangement. ([palestine.un.org](https://palestine.un.org/en/305520-un-security-council-authorizes-temporary-international-force-gaza))  
+  3) U.S. officials say Hamas has privately signalled willingness to engage on demilitarization and the U.S. has publicly floated amnesty/buy‑back ideas — indicating negotiations on modalities (and possible public wording that could qualify the market) are underway. If mediators and Hamas agree on staged disarmament plus amnesty/buyback, Hamas could make a formal announcement. ([aljazeera.com](https://www.aljazeera.com/news/2026/1/27/hamas-disarmament-in-gaza-comes-with-some-sort-of-amnesty-us-official))
 
-Bullish (supports YES, price reasonable):  
-• U.S.-brokered ceasefire talks include demilitarization as a term—traders may assign some nonzero chance that Hamas, under intense external pressure (Trump-Netanyahu threats), pivots to at least stage-one disarmament or hands over a class of weapons to a future Palestinian Authority.  
-• History of surprise announcements in high-stakes conflicts could create low-probability paths to a formal commitment.
+- Evidence that lowers the probability (i.e., supports the market price):
+  1) Hamas public statements remain cautious: Hamas has publicly said it will dissolve its Gaza government in favor of a technocratic committee, but has not publicly committed to dismantling or relinquishing its weapons; spokespeople stress conditions (e.g., linking weapons to statehood or insisting on internal Palestinian arrangements). That distinction (give up governance vs. give up arms) is important. ([apnews.com](https://apnews.com/article/a7f07c3c9680b34c563124964885efa8))  
+  2) Israeli and security‑establishment skepticism: Israeli military and political leaders publicly doubt voluntary demilitarization is realistic and have repeatedly warned they will not accept "fake" disarmament; Israeli statements imply they may act if disarmament is incomplete. That reduces the probability Hamas will publicly and cleanly announce surrender of arms without strong guarantees and verification. ([lemonde.fr](https://www.lemonde.fr/en/international/article/2026/01/25/why-the-israeli-army-doubts-hamas-can-be-demilitarized_6749780_4.html))  
+  3) Operational and political frictions remain: UN/ISF mandate, country contributions, rules of engagement, and domestic political constraints (in contributor countries and within Hamas) are contested. Some countries and Hamas factions have signalled reservations about foreign troops or imposed disarmament. Those frictions materially increase the chance negotiations stall or produce only ambiguous language that might not satisfy the market’s “official announcement” bar. ([apnews.com](https://apnews.com/article/22185f61dd39e6f0c04f22bb541944da))
 
-Source credibility: All sources are recent (Feb. 8–16) and from established news agencies. Their consistency strengthens the bearish case; the absence of counter-evidence reduces confidence in a shift before late June.
+- Source credibility and recency: the most important, load‑bearing sources are recent mainstream reporting from AP, Axios (Barak Ravid), Al Jazeera, and United Nations official pages (Nov 2025–Jan 2026 reporting); these are high‑credibility for factual reporting of statements, resolutions, and institutional steps. Israel Hayom (Israeli outlet) and Le Monde provide useful detail and analysis but have recognizable editorial/partisan lenses; I treat them as corroborating context rather than sole proof. All cited items are from Nov 2025–Feb 2026 (recent relative to the June 30, 2026 resolution window). ([apnews.com](https://apnews.com/article/a7f07c3c9680b34c563124964885efa8))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 23.5% price could reflect a small faction within Hamas or external actors forcing a last-minute concession, or simply a floor reflecting the market’s view that zero is too extreme. Low volume suggests few traders are following the nuance—either because the outcome seems clear (and they’re not betting) or because only a handful of bettors are setting the price.
+- Skepticism of “too obvious” evidence: If disarmament were a near‑certainty (and therefore underpriced), we should already see broad public commitments from Hamas or accelerated, unambiguous ISF deployments and verification arrangements. Instead, public signals are mixed (private signals reported by U.S. officials vs. public Hamas caveats), which argues that markets are reflecting real negotiation uncertainty rather than missing an obvious fact.
 
-4. MISPRICING ASSESSMENT  
-Given uniform, recent rejections by top Hamas leaders and no sign of formal negotiations toward disarmament, the market’s 23.5% seems overstated. A more defensible probability might lie in the single-digit range (5–10%). While small upside paths exist, they are not evident in the public record. Thus, I see mispricing of roughly 10–15 cents.
+MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current 25% price:
+  - The institutional pathway for disarmament exists (Board of Peace, NCAG technocratic committee, UN resolution, ISF planning). But whether Hamas will publicly commit by June 30 depends on successful negotiation of amnesty/buyback, verification and ISF deployment — all of which face political and operational time risk. That combination supports a non‑negligible but far from certain probability (~low‑to‑mid tens of percent). ([palestine.un.org](https://palestine.un.org/en/305520-un-security-council-authorizes-temporary-international-force-gaza))
+  - The market may be pricing the probability that Hamas will make only conditional or ambiguous statements (which might not meet the market’s “official announcement” threshold), or that public commitments slip past June 30.
+- Could the price reflect a single trader or a few traders? Yes — low total volume ($6,853) and short age (42d) mean price could be set by limited participation; but the tight spread (4¢) suggests at least some counterparty interest. Low volume markets can be driven by confident/ideological actors; conversely, they can also reflect genuine consensus among the few informed traders who follow the topic closely.
+- Why low volume? Two plausible reasons:
+  1) The event is politically complex and high‑stakes — professional traders may avoid large positions because of asymmetric information and geopolitical event risk.  
+  2) The outcome is conditional and technically specific (what counts as an “official announcement”), reducing retail engagement. Both imply limited liquidity even if informed traders disagree.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence ~50% (coverage is strong but future dynamics always uncertain)  
-Magnitude ~12 cents (current 23.5% minus a more realistic ~10–11% fair price)  
-Expected value = 0.5 × 12 cents = 6 cents
+MISPRICING ASSESSMENT
+- Weighing the evidence objectively:
+  - Bullish case for YES: formal phase‑two architecture, UN resolution, ISF planning and some troop commitments, and U.S. officials’ public statements that Hamas has privately signalled willingness and that disarmament would be paired with amnesty/buybacks — all make an official announcement possible within a 3–5 month window. ([axios.com](https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel))
+  - Bearish case for NO: Hamas public language still resists full disarmament without stronger guarantees, Israeli security actors doubt voluntary demilitarization, ISF mandates/ROE and contributor politics are unsettled, and internal Hamas factional dynamics could block a public, unambiguous announcement. Those are concrete obstacles to a qualifying public announcement by June 30. ([apnews.com](https://apnews.com/article/a7f07c3c9680b34c563124964885efa8))
+- Do we have specific, credible evidence that the market is missing? No single clear, credible, and dated primary source shows Hamas publicly committed to disarm before June 30. The most consequential material (private U.S. official briefings that Hamas signaled willingness) is authoritative but by U.S. officials’ own account — it signals negotiations, not an already‑completed political decision. Given the market’s requirement for an official Hamas announcement — not private signals or technocratic steps alone — I see no smoking‑gun evidence that the market is missing which would justify a large (>20¢) correction.
+- Verdict on mispricing: the market at 25% is plausible. There is some reason to suspect the market could be modestly underpricing the chance of an official, staged disarmament announcement (because mediators + ISF progress could produce a formal Hamas statement), but obstacles and credible public skepticism argue that any mispricing is probably small (single‑digit to low‑teens cents), not a large gap.
 
-EXPECTED_VALUE: 6  
-SUMMARY: Recent, credible reports uniformly show Hamas leadership rejecting any disarmament absent broader political guarantees, suggesting the market’s 23.5% probability is likely too high; a fair price may be closer to 10%. However, small upside scenarios keep some nonzero chance alive.  
+CRITICAL CHECK (challenge reasoning)
+- Resolution specifics matter: market requires an official Hamas announcement; private signals or a Hamas pledge to dissolve governance does not by itself resolve YES unless accompanied by an explicit weapons‑surrender policy announcement. I confirmed the difference in reporting (dissolve government vs. disarmament). That reduces the likelihood of false positives in my assessment. ([apnews.com](https://apnews.com/article/a7f07c3c9680b34c563124964885efa8))
+- Most charitable interpretation of the 25% price: it reflects a non‑trivial negotiating pathway (phase‑two + ISF + amnesty talks) but also recognizes real operational/political frictions that make a public Hamas disarmament announcement uncertain by June 30.
+
+EXPECTED VALUE CALCULATION
+- My judgment: there is modest evidence that the market may be slightly underpricing the chance of a formal Hamas disarmament announcement (private signals + ISF build‑out). But the evidence is far from robust. I estimate:
+  - Strength of evidence that price is missing (i.e., probability that there is a genuine mispricing): 35% (moderate but not strong).  
+  - Plausible magnitude of mispricing if I am right: ~7 cents (market 25% vs. true ~32%). I am explicitly conservative — obstacles could easily push the true probability lower or higher.  
+  - Expected value = 35% × 7¢ = 2.45¢ → round/report as 2.5 cents.
+EXPECTED_VALUE: 2.5
+
+SUMMARY: Phase‑two mechanisms (UN resolution, new technocratic administration, ISF planning and some troop commitments) make a Hamas disarmament announcement plausible, and U.S. officials report private signals — but Hamas’s public language, Israeli skepticism, unresolved ISF/verification details and domestic politics create material doubt. The market’s 25% price is reasonable; if mispriced, the likely error is modest (single‑digit cents). 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Exclusive: Hamas Says It Will Not Unilaterally Disarm as Trump and Netanyahu Threaten a Return to Full-Scale War
-Author: Jeremy Scahill
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.dropsitenews.com/p/trump-netanyahu-demands-hamas-disarmament-gaza-board-peace-negotiations-mladenov
-Summary: Hamas has explicitly stated it will not unilaterally disarm or submit to total demilitarization of Gaza. Senior Hamas leader Basem Naim emphasized that disarmament is a political issue, not solely security-based, and linked any potential negotiations on weapons to a comprehensive political process, including a long-term ceasefire and Palestinian statehood. The group rejects the notion of disarmament without addressing broader political and humanitarian concerns and insists that Palestinian resistance weapons are a legitimate right. Given these positions, and the lack of formal negotiations or proposals from Hamas, it appears unlikely that Hamas would agree to disarm by June 30 without significant political developments and guarantees.
+### [Hamas says it will dissolve its Gaza government when new Palestinian body takes over](https://apnews.com/article/israel-hamas-war-palestinians-gaza-a7f07c3c9680b34c563124964885efa8)
+**Author:** Samy Magdy; Julia Frankel | **Published:** 2026-01-11
 
-Title: Hamas leader rejects disarmament while Israeli occupation of Gaza continues | Israel-Palestine conflict News | Al Jazeera
-Author: Al Jazeera Staff
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://aljazeera.com/news/2026/2/8/hamas-leader-rejects-disarmament-while-israeli-occupation-of-gaza-continues
-Summary: Hamas’s leader abroad, Khaled Meshaal, firmly rejects disarmament of Palestinian factions in Gaza, emphasizing that disarming would render Palestinians vulnerable to Israeli violence, which is equipped with advanced weaponry. Meshaal indicates that Hamas’s position is that disarmament is unrealistic without a conducive environment for reconstruction and relief, and that ongoing Israeli occupation and military actions hinder disarmament efforts. Despite international pressure, including from the US demanding Hamas’s disarmament, Meshaal suggests that Hamas has proposed a long-term truce (5-10 years) as an alternative to disarmament, with guarantees from mediating countries. Given these positions and the ongoing Israeli military operations, it is unlikely that Hamas will agree to disarm by June 30.
+AP reports that Hamas said it will dissolve its Gaza government once a Palestinian technocratic leadership committee (part of the US‑brokered plan) takes over, but gave no details on timing. The article explains the role of the Board of Peace and notes that disarmament and deployment of an international security force are components of the broader plan. Relevance: this shows Hamas willing to cede governance in principle but stops short of a public weapons‑surrender announcement — an important distinction for the market’s resolution criteria. ([apnews.com](https://apnews.com/article/a7f07c3c9680b34c563124964885efa8))
 
-Title: Top Hamas leader rejects disarmament or 'foreign rule' - The Hindu
-Author: AFP
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://www.thehindu.com/news/international/top-hamas-leader-rejects-disarmament-or-foreign-rule/article70607769.ece
-Summary: A senior Hamas leader, Khaled Meshal, has firmly rejected the idea of disarmament and foreign intervention in Gaza. He emphasized that resistance against occupation is a right of the Palestinian people and stated that Hamas would not accept foreign rule or disarmament as part of any ceasefire or reconstruction process. While Hamas has indicated it might consider handing over weapons to a future Palestinian authority, it maintains that disarmament is a red line. The ongoing U.S.-brokered ceasefire involves plans for demilitarization, but Hamas's stance suggests it is unlikely to agree to disarmament by June 30, especially under external pressure, unless there are significant shifts in negotiations or political circumstances.
+### [White House announces "phase two" of Gaza ceasefire deal](https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel)
+**Author:** Barak Ravid | **Published:** 2026-01-14
 
-Title: Top Hamas leader rejects disarmament
-or ‘foreign rule’
-Author: Agence France-Presse
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://tribune.net.ph/2026/02/08/top-hamas-leader-rejects-disarmamentor-foreign-rule
-Summary: A senior Hamas leader, Khaled Meshal, has firmly rejected the idea of disarming or accepting foreign intervention in Gaza, emphasizing that resistance is a right under occupation. Hamas considers disarmament a red line and has indicated it might consider handing over weapons only to a future Palestinian authority, not as part of current negotiations. The ongoing US-backed ceasefire includes a plan for Gaza’s demilitarization, but Hamas’s stance suggests it is unlikely to agree to disarmament by June 30. The group’s position remains that as long as occupation persists, resistance—including armed resistance—will continue.
+Axios (Ravid) covers the U.S. announcement ushering the Gaza deal into "phase two" — demilitarization, technocratic governance, and reconstruction — and notes U.S. expectations that Hamas comply, plus open questions on which countries will contribute to the ISF. Relevance: establishes the official political architecture and timetable that could produce an official Hamas disarmament announcement; supports the “plausible but uncertain” case for YES. ([axios.com](https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel))
 
-Title: Top Hamas leader rejects disarmament or ‘foreign rule’ | Malay Mail
-Author: 
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://beta.malaymail.com/news/world/2026/02/08/top-hamas-leader-rejects-disarmament-or-foreign-rule/208520
-Summary: A senior Hamas leader, Khaled Meshal, has firmly rejected disarmament and foreign intervention in Gaza, emphasizing that resistance and weapons are a right under occupation. Despite a US-brokered ceasefire in Gaza progressing into its second phase, which includes demilitarization and Israeli troop withdrawal, Hamas maintains that disarmament is a red line. The group has indicated it might consider handing over weapons to a future Palestinian authority, but no concrete commitment has been made. Given Hamas's stance and the ongoing negotiations, it is unlikely that Hamas will agree to disarm by June 30.
+### [Hamas disarmament in Gaza comes with ‘some sort of amnesty’: US official](https://www.aljazeera.com/news/2026/1/27/hamas-disarmament-in-gaza-comes-with-some-sort-of-amnesty-us-official)
+**Author:** Al Jazeera | **Published:** 2026-01-27
 
+Al Jazeera reports on U.S. officials telling reporters that disarmament would likely be accompanied by “some sort of amnesty” and that the administration believes it has a program to disarm Hamas — citing a background briefing and Reuters reporting. Relevance: this is an important signal that mediators are negotiating concrete incentives (amnesty, buybacks) that might lead Hamas to make a formal announcement; but the article also shows the public detail is limited and modalities remain unsettled. ([aljazeera.com](https://www.aljazeera.com/news/2026/1/27/hamas-disarmament-in-gaza-comes-with-some-sort-of-amnesty-us-official))
 
+### [UN Security Council authorizes temporary international force for Gaza](https://palestine.un.org/en/305520-un-security-council-authorizes-temporary-international-force-gaza)
+**Author:** United Nations in Palestine (UN) | **Published:** 2025-11-18
+
+UN page on Security Council Resolution 2803 (2025) summarizes that the Council endorsed a plan and authorized a Board of Peace and an International Stabilization Force (ISF) to support demilitarization, decommission weapons and help stabilize Gaza. Relevance: shows the formal international legal/institutional mechanism for an ISF to assist demilitarization — a core enabling factor for a qualifying public announcement by Hamas. ([palestine.un.org](https://palestine.un.org/en/305520-un-security-council-authorizes-temporary-international-force-gaza))
+
+### [Indonesia readies up to 8,000 troops in first firm commitment to Gaza peacekeeping force](https://apnews.com/article/indonesia-trump-prabowo-gaza-israel-peacekeeping-22185f61dd39e6f0c04f22bb541944da)
+**Author:** David Rising; Niniek Karmini | **Published:** 2026-02-13
+
+AP reports Indonesia is training and preparing a contingent (5,000–8,000) to contribute to the ISF and is the first firm troop commitment. The piece highlights domestic controversy in Indonesia and the lack of detailed ISF guidance. Relevance: demonstrates that at least some contributors are preparing forces — increasing feasibility of verified demilitarization — but also highlights political and mandate uncertainty that could delay or limit ISF operations and thus the timing/shape of any Hamas announcement. ([apnews.com](https://apnews.com/article/22185f61dd39e6f0c04f22bb541944da))
+
+### [Board of Peace sets 3–5 month timeline for Gaza disarmament](https://www.israelhayom.com/2026/01/21/board-of-peace-sets-3-5-month-timeline-for-gaza-disarmament/)
+**Author:** Ariel Kahana | **Published:** 2026-01-21
+
+Israel Hayom reports that the Board of Peace expects disarmament to take 3–5 months and says Hamas will be presented an ultimatum to agree to disarm or face forcible disarmament. Relevance: provides a specific timeline estimate from sources close to the Board of Peace and Israeli security circles — useful for assessing whether June 30 is feasible — but it is an Israel‑aligned outlet and should be weighed with that context. ([israelhayom.com](https://www.israelhayom.com/2026/01/21/board-of-peace-sets-3-5-month-timeline-for-gaza-disarmament/))
+
+### [Why the Israeli army doubts Hamas can be demilitarized](https://www.lemonde.fr/en/international/article/2026/01/25/why-the-israeli-army-doubts-hamas-can-be-demilitarized_6749780_4.html)
+**Author:** Luc Bronner | **Published:** 2026-01-25
+
+Le Monde provides reporting and interviews showing Israeli military and security leaders’ deep skepticism that Hamas will voluntarily demilitarize, describing preparations for contingency operations and the belief that only Israel might be willing to forcibly dismantle Hamas. Relevance: important counternarrative that explains why a voluntary, public Hamas disarmament announcement is far from certain despite institutional mechanisms. ([lemonde.fr](https://www.lemonde.fr/en/international/article/2026/01/25/why-the-israeli-army-doubts-hamas-can-be-demilitarized_6749780_4.html))
