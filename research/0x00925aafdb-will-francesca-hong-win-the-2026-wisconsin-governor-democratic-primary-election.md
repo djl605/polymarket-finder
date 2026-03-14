@@ -1,89 +1,106 @@
 # Research: Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?
 
 **Market ID:** 0x00925aafdbb3fbec14b49f343eb430ddb9cc1f827e5934b5513703d13f2851de
-**Researched At:** March 7, 2026 at 04:08:55 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"
+**Researched At:** March 14, 2026 at 04:13:39 AM UTC
+**Search Query:** "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-Early polling shows Hong at only ~11% support with 65% undecided, but in a crowded field a ~27% win probability is plausible for one of four frontrunners. No specific credible missing info suggests a large mispricing.
+Public polling (Oct 2025 Marquette) shows Hong with single-digit support and most Democrats undecided, while Hong’s campaign has reported solid small-dollar fundraising and organizing; in a crowded, undecided primary a 20.1% price is plausible but not obviously a large misprice. Market volume is thin, so the quote may reflect a few traders rather than broad information aggregation.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- The market asks whether Francesca Hong will win the August 11, 2026 Democratic primary for Wisconsin governor. A “YES” pays if she is the overall plurality (including any run-off); “NO” if another candidate wins or no primary is held.  
+I searched recent news, polls, and campaign reporting to evaluate whether the Francesca Hong — “Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary?” — market (price 20.1%, low volume) appears mispriced. Below I summarize the context, the evidence on both sides, market-efficiency considerations, my assessment of mispricing, a simple expected-value calculation for investigating/trading on this market, and my confidence.
 
-2. EVIDENCE EVALUATION  
-Bullish / Overpricing signals:  
-• Hong leads among decided voters in recent Marquette polls (11% vs. 10% for Barnes), suggesting she is one of the front-runners.  
-• Large undecided bloc (65%) leaves room for her to consolidate progressive voters as the campaign unfolds.  
+1) CONTEXT ANALYSIS
+- What the market asks: the contract resolves YES if Francesca Hong is the overall winner of the Democratic primary for Governor of Wisconsin on the primary date (Aug 11, 2026); NO if any other candidate wins (or “Other” if no primary occurs). The primary date and open-race context are public. ([law.marquette.edu](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)).
+- What must happen for YES: Hong must receive the most votes (including any run-off mechanics covered by the market’s rule) and the Wisconsin Democratic Party’s first official results (or overwhelming reporting consensus) must identify her as the primary winner. ([apnews.com](https://apnews.com/article/b9fdd10aa19ff8fffe37beb402b95c7f)).
 
-Bearish / Underpricing signals:  
-• Current polling support (11%) is far below her win probability implied by a 27% market price—she would need to leapfrog several rivals to reach a plurality.  
-• No major endorsements, fundraising or organizational breakthroughs cited in the research that would justify more than doubling her current polling share.  
+2) EVIDENCE EVALUATION
+A — Evidence that suggests the market price (20.1%) might be too low (i.e., supports a higher probability for Hong)
+- Strong small-dollar fundraising and organizing: Hong’s campaign reported roughly $369k raised (large fraction small-dollar), many small donors, and a stated volunteer base and statewide travel — evidence of an active grassroots operation capable of scaling name recognition and turnout. That fundraising/organizing could enable a progressive surge in a long, undecided primary. ([urbanmilwaukee.com](https://urbanmilwaukee.com/pressrelease/hong-campaign-reports-nearly-370000-raised-from-almost-7400-donations-powered-by-1650-volunteers-across-wisconsin/?utm_source=openai)).
+- Very high early undecided rates in the Democratic primary: Marquette’s statewide polling showed ~73% of Democratic primary voters undecided (Oct 2025 wave), which leaves substantial room for movement between now and August 2026; in such an environment, a well-organized insurgent campaign can outgrow modest early polling. ([law.marquette.edu](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)).
+- Growing name-recognition (but still early): Marquette reported Hong’s name ID at ~22% in Oct 2025, meaning she is known by some Democratic voters already and could leverage that recognition. ([law.marquette.edu](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)).
 
-Source credibility & recency: All studies are from late February/early March 2026, from reputable outlets (Marquette poll via Urban Milwaukee, WiscNews, WISN), but sample sizes and methodological details are not provided.  
+B — Evidence that supports the market price (i.e., Hong is plausibly a longshot and 20% may be generous)
+- Early polling support was low: in the Oct 2025 Marquette poll, among Democrats Hong had single-digit primary support (about 6% in that wave), while most Democrats were undecided. That leaves a large gap between current support and a primary-winning level. ([law.marquette.edu](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)).
+- A crowded field with better-funded / higher-name candidates: multiple higher-profile Democrats have entered or are running — e.g., Milwaukee County Executive David Crowley, Lt. Gov. Sara Rodriguez, former Lt. Gov. Mandela Barnes, Joel Brennan, Missy Hughes, Kelda Roys — and several have reported larger war chests or stronger name recognition. Recent reporting shows Crowley and others leading fundraising; Hong’s reported ~$369k is solid for a grassroots campaign but generally smaller than several rivals’ cash-on-hand totals. A crowded field with better-funded front-runners reduces the probability that a comparatively lower-resourced insurgent will win. ([apnews.com](https://apnews.com/article/8710d7eb3ba1a50a004eaa935939333e)).
+- No major statewide endorsements or institutional backers (publicly reported) that would immediately vault Hong above better-known contenders; I did not find credible reporting of major statewide labor or establishment endorsements for Hong that would signal an imminent surge. (Progressive groups/local DSA support is reported, but that is narrower than a statewide union/party establishment consensus.) ([madison-dsa.org](https://madison-dsa.org/about-us/endorsements/?utm_source=openai)).
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 27.3% price may simply reflect her status as one of 3–4 viable candidates in a crowded field (three or four-way tie often implies ~25% win odds apiece early on).  
-- Low total volume ($3.1K) and tight spread (2.5¢) suggests some liquidity but limited participation—price could be set by a handful of traders or one liquidity provider.  
-- The early timing (5 months before the primary) means high uncertainty; that often translates into mid-20s win probabilities for frontier candidates.  
+Source credibility and recency
+- The strongest, most relevant sources are mainstream local/state press and institutional polling: AP, Marquette Law School Poll, Wisconsin Public Radio, WisPolitics/Wisconsin Examiner, Urban Milwaukee — all recent (late 2025 to early 2026) and directly relevant to candidate entries, name recognition, and fundraising. Those are reliable for the load-bearing facts used here (who has entered, primary date, fundraising reported, name ID, undecided rates). ([apnews.com](https://apnews.com/article/b9fdd10aa19ff8fffe37beb402b95c7f)).
 
-4. MISPRICING ASSESSMENT  
-- No specific new information (endorsements, scandal, fundraising surge) is missing from the price that would shift win odds by more than ~5–10¢.  
-- Polling gap between 11% measured support and 27% implied win probability is not unusual this far out in a multi-candidate primary.  
-- Most charitable interpretation: informed traders view her as one of roughly four evenly matched candidates, hence ~25–30% win odds.  
+Skeptical note
+- If the case for Hong’s >20% chance rests mostly on early enthusiasm or isolated events (e.g., “standing-room-only” small rallies), that is weak: many candidates generate local surges that don’t scale statewide. The Marquette poll’s high undecided fraction is a necessary condition for movement but not sufficient evidence that Hong will capture the movement. ([law.marquette.edu](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)).
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is off: ~20% (polls vs. price discrepancy but within normal early-race variance)  
-- Potential magnitude of mispricing: ~5¢ (price might be slightly high if no consolidation occurs)  
-- Expected value = 20% × 5¢ = 1¢  
+3) MARKET EFFICIENCY ANALYSIS
+- Market metrics suggest thin liquidity: total volume ~$3.6k and age ~92 days (from the market data you provided). Low-volume markets are easily moved by one or a few traders; a tight quoted spread can reflect a liquidity provider rather than broad trading. (These are characteristics you gave; they match typical “thin, narrow spread” markets.) That raises the possibility the 20.1% price represents a single participant’s view or a small group of traders rather than a wide consensus.
+- Charitable interpretation that justifies 20.1%: in a crowded open primary with many candidates and ~73% undecided (at least in earlier polling), probabilities are diffuse. If there are 6–8 meaningful Democratic candidates, an equal-share baseline would be 12–17% each; Hong at 20% is above an “equal-split” baseline but not absurd if bettors think she has better upside from grassroots organizing (small-dollar donors, volunteer network) and if front-runners split the moderate/establishment vote. So 20% can be defended as a plausible, slightly-favored longshot price rather than an extreme misprice.
+- Could the price reflect only one trader? Yes — low volume and a narrow spread permit a single motivated buyer to push price to 20%. That makes the market less reliable as a consensus probability signal until more volume/participation appears.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Early polling shows Hong at only ~11% support with 65% undecided, but in a crowded field a ~27% win probability is plausible for one of four frontrunners. No specific credible missing info suggests a large mispricing.  
+4) MISPRICING ASSESSMENT (rigorous, balanced weighing)
+- What the evidence implies: the factual picture (crowded field, some higher-funded rivals, Hong’s fundraising and organizing, and very high undecided shares) implies substantial uncertainty. Hong’s grassroots fundraising ($~369k) and organizing make her a viable insurgent, but current polling (single digits when polled) and stronger rivals make a near-term certainty unlikely.
+- Is there credible evidence the market is mispriced by a large margin (>20 cents)? No. There is not specific, high-quality, recent evidence showing that Hong is demonstrably more likely than the market implies by that size (e.g., no statewide poll or bloc endorsement showing a decisive lead or momentum that traders obviously missed). Conversely, there is evidence (early polling and stronger rivals) suggesting Hong’s true probability could be lower than 20%, but that is not decisive either because of the large undecided pool.
+- Plausible conclusion: The market price (20.1%) is within a plausible range for a well-organized progressive insurgent in a wide-open, undecided primary — it may be somewhat optimistic relative to available polling and the fundraising lead of other candidates, but there is insufficient concrete, recent evidence that a large mispricing exists. In particular, I see no reliable basis to claim Hong’s true chance is, say, <5% or >40% today.
+
+CRITICAL CHECK (what might I be missing?)
+- I verified the resolution rules (primary winner on Aug 11, 2026) and the list of declared and likely candidates from mainstream reporting; I checked fundraising reports and the most-cited state poll. The main possibility of an overlooked information advantage would be private/internal polling or undisclosed large endorsements that materially change Hong’s prospects; I found no credible public reporting of such events. Given thin market volume, traders may possess private signals, but those are unknown and not visible in public sources. ([apnews.com](https://apnews.com/article/b9fdd10aa19ff8fffe37beb402b95c7f)).
+
+5) EXPECTED VALUE CALCULATION (for investigating/trading)
+- Strength of evidence that price misses a real, exploitable gap: I judge this “moderate-to-low” because public evidence both supports and undercuts higher odds for Hong; much hinges on future movement among undecided voters and endorsements. I quantify Strength = 40%.
+- Magnitude of plausible mispricing if the market were meaningfully wrong: based on available polling (Hong single digits in Oct 2025) vs. the market at 20%, a plausible error range for a genuine mispricing might be ~6–12 cents (i.e., Hong’s true chance 8–14% vs. market 20%). I pick Magnitude = 8 cents for a central estimate.
+- Expected value = Strength × Magnitude = 0.40 × 8¢ = 3.2¢ (three and two-tenths cents).
+- Interpretation: the expected value of acting on the hypothesis that the market is mispriced is small (a few cents) and rests on uncertain assumptions; it does not justify high-confidence large bets unless you have extra private information (internal polling, endorsements, or a reason to believe the market will move and liquidity will allow exit).
+
+6) CONFIDENCE
+- I assign confidence = medium. The assessment is constrained by (a) limited recent statewide polling specific to this Democratic primary after Oct 2025, (b) reliable reporting of fundraising and candidate entries, and (c) the inherently high uncertainty in an open, undecided primary more than five months before the primary. The evidence is sufficient for a reasoned, but not definitive, judgment.
+
+FINAL JUDGMENT (brief)
+- There is not credible public evidence of a large (>20¢) mispricing. The 20.1% price is plausible given Hong’s active grassroots operation and the very large undecided pool, but also plausible that the market is slightly generous relative to currently reported statewide polling and the stronger fundraising/name recognition of several rivals. Because the market has low volume, the price should be treated cautiously — it may reflect one or a few participants’ views and is not a robust consensus probability.
+
+EXPECTED_VALUE: 3.2
+SUMMARY: Public polling (Oct 2025 Marquette) shows Hong with single-digit support and most Democrats undecided, while Hong’s campaign has reported solid small-dollar fundraising and organizing; in a crowded, undecided primary a 20.1% price is plausible but not obviously a large misprice. Market volume is thin, so the quote may reflect a few traders rather than broad information aggregation.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Opinion | Hong shows strength in Wisconsin governor race | John Nichols | captimes.com
-Author: John Nichols
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://captimes.com/opinion/john-nichols/opinion-hong-shows-strength-in-wisconsin-governor-race/article_f3a2b3d4-f23c-48ca-866a-e8732da33784.html
-Summary: The article discusses Francesca Hong’s political strength and potential in Wisconsin, highlighting her progressive stance, community engagement, and growing influence within the Democratic Party. While it emphasizes her increasing visibility and support base, it does not provide specific predictions about her chances in the 2026 Democratic primary for Wisconsin governor. Factors such as her policy positions, campaign strategy, and the political landscape leading up to the election will be critical in assessing her likelihood of winning.
+### [New Marquette Law School Poll finds large majority of Wisconsin voters not yet tuned in to who is running in major 2026 elections](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)
+**Author:** Charles Franklin | **Published:** 2025-10-29
 
-Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban Milwaukee
-Author: Rich Kremer
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
-Summary: The Marquette University Law School poll indicates that Francesca Hong currently has a similar level of support as Mandela Barnes among Democratic primary voters, with both candidates essentially tied within the margin of error. While Barnes has higher name recognition, this has not yet translated into a decisive lead in voter preference. Given that a significant portion of voters remain undecided (65%), and the current support levels are very close, it is uncertain whether Hong will win the 2026 Democratic primary. The outcome will likely depend on future campaign dynamics and voter mobilization efforts.
+Large statewide Marquette Law School Poll reporting name recognition, favorability, and raw early primary preference numbers (Oct 15–22, 2025). Key data used here: Democrats were ~73% undecided, Francesca Hong name ID ~22%, Hong polling ~6% among Democrats in that wave. The poll demonstrates both significant early uncertainty in the Democratic primary and that Hong had modest early support — this supports the view that her odds can move but also that she began the cycle as a longshot.
 
-Title: Who’s leading in Wisconsin’s race for governor?
-Author: KIMBERLY WETHAL kwethal@madison.com
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://wiscnews.com/news/state-regional/government-politics/elections/article_1d2d8f68-861d-50f5-b137-780cc8901025.html
-Summary: The article reports that in the Wisconsin governor race, Democrat Rep. Francesca Hong is leading among Democratic candidates according to a Marquette Law School poll. However, it does not specify her margin of lead or the likelihood of her winning the Democratic primary. Given her current lead in the poll, she appears to be a strong contender, but further polling data and campaign developments would be necessary to accurately predict her chances of winning the 2026 Democratic primary.
+### [Democrat Francesca Hong promises to be 'wild card' in Wisconsin governor's race](https://apnews.com/article/wisconsin-governor-francesca-hong-trump-b9fdd10aa19ff8fffe37beb402b95c7f)
+**Author:** Scott Bauer (AP) | **Published:** 2025-09-17
 
-Title: Did Francesca Hong win the Democratic primary for Wisconsin governor?
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.jsonline.com/story/news/factcheck/2026/02/27/did-francesca-hong-win-the-democratic-primary-for-wisconsin-governor/88887112007/
-Summary: Francesca Hong has not yet won the 2026 Wisconsin Democratic primary for governor, as the election is scheduled for August 11, 2026. Currently, she is a candidate, and polls show she has about 11% support among voters, with a significant 65% undecided. Since the primary has not occurred, it is too early to predict whether she will win.
+AP coverage of Francesca Hong’s entry into the Democratic primary and description of her profile (state representative, progressive/outsider, working-class background), and the broader field (Sara Rodriguez, David Crowley, Kelda Roys, etc.). This article establishes Hong’s candidacy, her positioning as a progressive insurgent, and the competitive field she faces — facts important for assessing baseline probability and her potential upside.
 
-Title: Majority of WI voters say they're undecided in governor's race
-Author: Matt Smith
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://wisn.com/article/majority-of-wisconsin-voters-say-theyre-undecided-in-battle-for-governor/70498674
-Summary: The recent Marquette Law School poll indicates that a significant majority of Wisconsin Democratic primary voters—65%—are currently undecided about their candidate choice for governor in 2026. Among those who have expressed preferences, State Rep. Francesca Hong leads with 11%, closely followed by Mandela Barnes at 10%. Other candidates, such as Sara Rodriguez, David Crowley, Joel Brennan, Missy Hughes, and Kelda Roys, have lower support percentages. Given the high level of voter indecision and the relatively small lead for Hong among decided voters, predicting her victory at this stage remains uncertain. The primary race appears highly competitive, with many voters yet to commit, suggesting that the outcome could change as campaigns progress.
+### [Crowley tops Dem guv field in fundraising, Tiffany outraises Schoemann in GOP contest](https://www.wispolitics.com/2026/crowley-tops-dem-guv-field-in-fundraising-tiffany-outraises-schoemann-in-gop-contest/)
+**Author:** Unknown (WisPolitics staff) | **Published:** 2026-01-16
 
+State political outlet reporting candidate fundraising totals for the July–Dec reporting period. Key figures: David Crowley led Democrats (~$789k); Francesca Hong reported ~$368,686 raised with ~$134,589 cash on hand; Joel Brennan and Missy Hughes also reported larger totals. These finance numbers are central to evaluating comparative campaign resources and the likelihood Hong can scale statewide against better-funded rivals.
 
+### [Hong Campaign Reports Nearly $370,000 Raised from Almost 7,400 Donations, Powered by 1,650 Volunteers Across Wisconsin](https://urbanmilwaukee.com/pressrelease/hong-campaign-reports-nearly-370000-raised-from-almost-7400-donations-powered-by-1650-volunteers-across-wisconsin/)
+**Author:** Francesca Hong (campaign press release submitted to Urban Milwaukee) | **Published:** 2026-01-15
+
+Campaign press release (distributed via Urban Milwaukee) giving Hong’s internal fundraising and organizing claims: $369,874 raised, ~7,363 donations, average small-dollar donation, and ~1,650 volunteers. This supports the argument that Hong has grassroots infrastructure and small-dollar financial support that could produce future momentum — important contextual evidence favoring a better-than-single-digit chance.
+
+### [Madison Rep. Francesca Hong joins Democratic primary for governor](https://www.wpr.org/news/madison-francesca-hong-democrat-governor-campaign-2026)
+**Author:** Wisconsin Public Radio (WPR staff) | **Published:** 2025-09-17
+
+Local public-radio coverage of Hong’s entry into the gubernatorial primary, describing her progressive positioning and campaign plans. This local reporting corroborates AP’s description and provides a state-focused perspective on how Hong’s profile and messaging might play in Wisconsin (strengthening the case she can mobilize a specific base).
+
+### [Early Fundraising Shows Competitive Democratic Primary for Governor](https://www.wpr.org/news/early-fundraising-numbers-competitive-democratic-primary-wisconsin-governor)
+**Author:** Wisconsin Public Radio (WPR staff) | **Published:** 2026-01-16
+
+WPR reporting on the January 2026 fundraising disclosures across the Democratic field; corroborates WisPolitics figures and emphasizes that the Democratic primary is competitive with several candidates reporting six-figure sums. This supports the assessment that Hong is one of several viable contenders but that some rivals currently have materially larger war chests and/or name recognition, which tempers the interpretation of a 20% market price.

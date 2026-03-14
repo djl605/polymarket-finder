@@ -1,85 +1,123 @@
 # Research: Will Partido Popular win 32-35 seats in the 2026 Castilla y León regional election?
 
 **Market ID:** 0xadb5c45ea4a87f2cc3abad0eae070289e008af0433e4b2a17a589b0f49474bdc
-**Researched At:** March 4, 2026 at 04:15:54 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Partido Popular win 32-35 seats in the 2026 Castilla y León regional election?"
+**Researched At:** March 14, 2026 at 04:15:02 AM UTC
+**Search Query:** "Will Partido Popular win 32-35 seats in the 2026 Castilla y León regional election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-February 2026 CIS and SocioMétrica polls project PP in the mid-30s of seats (range 28–38), making a 32–35 outcome plausible. The market’s 59% price aligns with that central estimate and polling uncertainty; no strong evidence of large mispricing emerges.
+Late polls and the official CIS interval place PP in a wide seat range that includes 32–35; polling averages and seat-allocation mechanics make the market's 40% plausible. Given low liquidity and some poll divergence, a small mispricing (≈5¢) is possible but there is no credible public evidence of a large mispricing; expected exploitable edge ≈2.5¢.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether the Partido Popular (PP) will win between 32 and 35 seats (inclusive) in the March 15, 2026 Castilla y León regional election (Cortes). A YES resolution requires PP to finish with at least 32 seats but no more than 35. A NO resolution obtains if PP wins fewer than 32 seats, more than 35 seats, or results are not known by July 30, 2026.
+Short answer (bottom line)
+- After reviewing recent polls and authoritative sources, there is no clear, credible evidence of a large (>20¢) mispricing in this market. Polls cluster around results that make 32–35 PP seats plausible but uncertain; the market price of 40% is within a reasonable range given available information and the election being held on March 15, 2026 (tomorrow). My estimate: a small possible mispricing (magnitude ≈ 5¢) with moderate confidence.
 
-2. EVIDENCE EVALUATION  
-Bullish for YES (supporting ~59%):  
-• CIS pre-electoral surveys specific to Castilla y León (Feb 20, 2026) place PP vote share at ~33.4% and model seat outcomes spanning 28–38 seats. That wide range centers near 33–34 seats, which lies squarely in the 32–35 window.  
-• National SocioMétrica poll (Feb 16, 2026) shows PP at 32.1%; if replicated regionally, PP would likely be in the low‐ to mid‐30s in seat count.  
+1) CONTEXT ANALYSIS
+- What the market asks: whether the Partido Popular (PP) will win between 32 and 35 seats (inclusive) in the Cortes de Castilla y León in the regional election held on March 15, 2026. Resolution will be determined by consensus credible reporting or, if ambiguous, the official results published by the Junta Electoral Central (JEC). ([juntaelectoralcentral.es](https://www.juntaelectoralcentral.es/cs/jec/inicio?utm_source=openai))
+- What must happen to resolve YES vs NO:
+  - YES: official/credible reporting assigns PP a final seat count of 32, 33, 34, or 35 in the Cortes arising from the March 15, 2026 election.
+  - NO: official/credible reporting shows PP with fewer than 32 seats or more than 35 seats (or the market resolves to Other if official results are not known by July 30, 2026 per market rules). (Market description provided by you; JEC is the fallback official source.) ([juntaelectoralcentral.es](https://www.juntaelectoralcentral.es/cs/jec/inicio?utm_source=openai))
 
-Bearish for YES (arguing lower probability):  
-• CIS polls highlight a virtual tie between PP and PSOE in the region; tight competition could push PP below 32 seats.  
-• Vox’s performance (16% in polls) and local dynamics may fragment the center-right vote, yielding fewer PP seats.  
+2) EVIDENCE EVALUATION (all recent, primary/major news sources; prediction-market sites excluded)
+- Key recent public polls and averages
+  - CIS pre-electoral poll (large sample, Feb 6–13): projects PP as the single party with the largest vote share (33.4%) and gives PP a wide seat range of 28–38 seats. That range explicitly includes 32–35, but is broad (±5 seats) and therefore implies substantial uncertainty. (Large sample: 8,039 interviews.) ([cis.es](https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n))
+  - RTVE polling average / DatosRTVE: the poll average places PP near its 2022 level and implies about 31 seats (RTVE’s average shows PP ≈31 seats). That would make 32–35 possible but not the modal single point. ([rtve.es](https://www.rtve.es/noticias/20260227/encuestas-elecciones-castilla-leon-2026/16952161.shtml))
+  - Individual late polls diverge: Target Point (reported via Electografica) gives PP ≈29.2% and seat projection roughly 28–30 seats (one of the lower late polls), while other pollsters (Celeste-Tel, GAD3, NC Report and some aggregators) produce higher PP vote shares and projections nearer 32 seats. Polls published in the last 2–3 weeks show PP anywhere from roughly high-20s to low-30s percent of the vote and seat projections that move across the 28–34 window. ([electografica.com](https://www.electografica.com/2026/03/castilla-y-leon-encuesta-target-point-260309.html?utm_source=openai))
+- Evidence that would suggest the market price is incorrect
+  - If a robust, high-quality late poll (large sample, credible methodology) gave PP a clear projected seat total well outside 32–35 (for example, consistently <30 or ≥36 seats), that would be strong evidence the market is mispriced. No single late poll of that strength appears to point conclusively outside 32–35; instead, polls are split and ranges overlap. The Target Point poll (one poll) pulls the expected PP seat count down toward the low 20s–30s, but it is one point estimate among several and does not by itself prove mispricing. ([electografica.com](https://www.electografica.com/2026/03/castilla-y-leon-encuesta-target-point-260309.html?utm_source=openai))
+- Evidence that supports the market price as reasonable
+  - The CIS’s seat interval (28–38) explicitly covers 32–35, and RTVE’s poll average and several other reputable outlets’ aggregated polling place PP near 31–32 seats. The mechanical electoral system (D’Hondt by province, nine constituencies, new total 82 seats) means small changes in vote distribution across provinces can swing one or two seats, so the chance of PP landing in the 32–35 band is non-trivial. Given the range and distribution of late polls, a market probability around 40% for 32–35 seats is within a plausible interpretation of publicly available evidence. ([cis.es](https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n))
+- Source credibility and recency
+  - CIS (official polling body) — high credibility, large sample, Feb 6–13 fieldwork, very relevant. ([cis.es](https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n))
+  - Major public broadcasters/newspapers (RTVE, El País, EFE, LaSexta summaries) — reputable, recent coverage and poll aggregation. They report polls and aggregates rather than raw seat-by-seat modelling, but they are reliable for trend and central estimates. ([rtve.es](https://www.rtve.es/noticias/20260227/encuestas-elecciones-castilla-leon-2026/16952161.shtml))
+  - Single-poller results (Target Point, Celeste-Tel, GAD3, NC Report) — useful but should be seen as individual data points with sampling/method differences; they disagree enough to leave non-trivial uncertainty. ([electografica.com](https://www.electografica.com/2026/03/castilla-y-leon-encuesta-target-point-260309.html?utm_source=openai))
+- Bullish (for YES = PP 32–35) perspective
+  - Several poll aggregates and some individual polls put PP at or slightly above 31 seats; small positive province-level swings or higher turnout concentrated where PP is strong would push the party into 32–35 seats. The CIS range explicitly allows those seat counts. ([cis.es](https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n))
+- Bearish (for NO) perspective
+  - Several late polls (e.g., Target Point) have PP lower (around 28–30 seats in projections) and Vox rising — a stronger Vox and/or PSOE performance concentrated in certain provinces could hold PP below 32. The D’Hondt/provincial allocation accentuates this risk: even modest vote shifts can change seat counts in smaller provinces. ([electografica.com](https://www.electografica.com/2026/03/castilla-y-leon-encuesta-target-point-260309.html?utm_source=openai))
+- Skepticism about “obvious” evidence
+  - If the situation were that clear (e.g., many high-quality late polls tightly clustered at 33–34 seats), the market would likely have converged more tightly. Instead, the late polls diverge and official seat allocation rules increase sensitivity to geographic distribution — both argue against assuming the market has missed an obvious, large piece of information.
 
-Source credibility & recency: All data come from February 2026 surveys by established pollsters (CIS, SocioMétrica). However, seat estimates are modelled, not direct counts, and regional turnout dynamics can shift final seat tallies. No single poll pins down the exact probability of landing within the 32–35 range.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the 40% price:
+  - Interpreting the poll distribution (CIS wide interval, RTVE average ≈31 seats, some polls near 32) yields a non-trivial chance of landing in 32–35 — hence a ~40% subjective probability is defensible.
+  - The electoral system (82 seats, D’Hondt, provincial thresholds) gives a meaningful probability that modest voter shifts or local turnout patterns will move PP into the 32–35 band even if national/region-level vote shares are close to 31–33%. That mechanical uncertainty increases the chance mass across adjacent seat totals.
+- Could the price reflect only one/few traders?
+  - Market metrics you provided (low total volume $6,181 and tight spread 4¢) suggest limited liquidity; a single active trader could be setting the price. That raises the possibility the market is more idiosyncratic than a high-liquidity market with broad participation.
+- Why low volume might be benign or concerning:
+  - Benign: the election is tomorrow; many informed traders may have already formed views and closed positions, so little active money remains. Also the market is narrow and close to resolution — less incentive to trade.
+  - Concerning: low volume + tight spread commonly indicates a market maker or single confident bettor; if so, the price can be wrong if that actor is mistaken or overconfident.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 59% price can be rationalized as a central estimate from a seat‐range of 28–38 (with mean ~33) and recognizing moderate polling uncertainty (±2–3 seats). The low volume suggests few traders, but the tight spread (6¢) hints at some consensus rather than pure noise. Informed regional experts may have sized up local vote-to-seat mechanics more precisely, justifying slight tilt above 50%.
+4) MISPRICING ASSESSMENT (weigh evidence; apply the critical check)
+- Balance of evidence: polls and credible reporting imply substantial probability mass both below and above the 32–35 band. CIS (large, recent) places PP in 28–38 seats — that is compatible with the market and does not show a clear contradiction. RTVE averages and several polls point to ~31 seats, which makes 32–35 plausible but not the most likely single-point outcome. Some polls (Target Point and a few others) lean toward fewer seats. Overall the public evidence does not imply the market is clearly mispriced by a large amount.
+- Critical checks (to avoid common pitfalls):
+  - Resolution criteria understood? Yes — market resolves on number of seats won in the March 15 election as reported; JEC official count is ultimate arbiter. There is no timing/technicality apparent that would change interpretation. ([juntaelectoralcentral.es](https://www.juntaelectoralcentral.es/cs/jec/inicio?utm_source=openai))
+  - Could we be missing trader-private information? Possibly — local-level returns (province-by-province turnout or late campaign events) or private internal canvass data could shift probabilities; markets sometimes reflect trader access to such information. That’s a plausible explanation for divergence between a low-volume price and publicly visible polls.
+- Conclusion on mispricing: there is no specific, credible piece of public evidence missing from the market price that would justify concluding a large mispricing (>20¢). If there is mispricing, it is likely small (single-digit cents) and plausibly explained by:
+  - The sensible mapping from poll ranges to seat probabilities (geographic distribution risk),
+  - The market’s low liquidity / possibility of a few traders setting price,
+  - The proximity of the election (tomorrow), so the market is near final-information revelation (less upside for arbitrage).
 
-4. MISPRICING ASSESSMENT  
-Given the available polling, there is no glaring omission: traders appear to be factoring in a central seat estimate around 33 with typical polling error. The 59% probability is within a plausible band for landing in the 32–35 block. No credible evidence suggests a >20¢ mispricing.  
+5) EXPECTED VALUE CALCULATION (investigating / trading this market now)
+- Strength of evidence (how likely the missing evidence exists in public sources): 50% — polls are mixed and public, so if there were a big mispricing public polls would likely show it; but private microdata could still matter.
+- Magnitude of mispricing (if it exists): I estimate ~5 cents (0.05$) — that is, a plausible maximum reasonable deviation from the current 40¢ price given public evidence and electoral mechanics. Large deviations (>20¢) look unlikely based on current public information.
+- Expected value = Strength × Magnitude = 50% × 5¢ = 2.5¢
+  - Interpreted: the expected “edge” from discovering a genuine mispricing to exploit right now is small (~2.5 cents), reflecting the short time to resolution and the mixed poll evidence.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence (poll precision, seat‐conversion uncertainty): 30%  
-• Magnitude of potential mispricing: 5¢  
-Expected value = 0.30 × 5¢ = 1.5¢  
+6) CONFIDENCE
+- My overall confidence in this assessment: medium.
+  - Rationale: high-quality, recent public polling (CIS, RTVE aggregates) is available and consistent with moderate uncertainty; the election date is immediate so public information will resolve soon; but because polls disagree and the market is low-volume, there remains some chance private information or last-minute local shifts create a modest mispricing.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: February 2026 CIS and SocioMétrica polls project PP in the mid-30s of seats (range 28–38), making a 32–35 outcome plausible. The market’s 59% price aligns with that central estimate and polling uncertainty; no strong evidence of large mispricing emerges.  
+FINAL METRICS (required)
+EXPECTED_VALUE: 2.5
+SUMMARY: Late polls and the official CIS interval place PP in a wide seat range that includes 32–35; polling averages and seat-allocation mechanics make the market's 40% plausible. Given low liquidity and some poll divergence, a small mispricing (≈5¢) is possible but there is no credible public evidence of a large mispricing; expected exploitable edge ≈2.5¢. 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: [G] ESPAÑA · Encuesta SocioMétrica 16/02/2026: PP 32,1% (140) · PSOE 25,0% (98) · VOX 18,4% (66) · SUMAR 7,2% (11) · PODEMOS 4,2% (4) · SALF 2,5%
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.electografica.com/2026/02/encuesta-sociometrica-260216.html
-Summary: The recent SocioMétrica poll from February 16, 2026, indicates that the Partido Popular (PP) holds approximately 32.1% of voter support nationally, translating to around 140 seats in a 350-seat parliament. While this data reflects national trends and not regional specifics, it suggests that PP is a leading force in Spain's current political landscape. Historically, PP's national support levels can influence regional election outcomes, including Castilla y León. Given the current polling, if similar support levels are maintained regionally, PP could potentially secure between 32 and 35 seats in the upcoming Castilla y León regional election. However, regional dynamics, voter turnout, and local issues will also significantly impact the final results.
+### [A virtual tie between the PP and PSOE in the regional elections of Castilla y León](https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n)
+**Author:** Centro de Investigaciones Sociológicas (CIS) | **Published:** 2026-02-20
 
-Title: The Pp Would Win the Elections in Castile and León without an Absolute Majority, with the Psoe at 1.1 Points and a Reversal of Vox, According to the Cis
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://ground.news/article/cis-publishes-poll-on-elections-in-castile-and-leon-a-week-away-for-the-campaign
-Summary: The latest CIS pre-electoral survey indicates that in the upcoming March 15, 2024, Castilla y León regional elections, the Partido Popular (PP) is projected to be the leading party with approximately 33.4% of the vote, translating to an estimated range of 28 to 38 seats. This suggests that the PP could potentially secure between just below and above the 32-seat threshold, making a win within the 32-35 seat range plausible. The survey also shows a close contest with the PSOE, which is estimated to have around 32.3% of the vote, and Vox with about 16.1%. Given these projections, the PP's likelihood of winning 32-35 seats in 2026 depends on voter support stability and coalition dynamics, but current data points to a strong chance of achieving or surpassing that range.
+The CIS pre-electoral report (fieldwork Feb 6–13, n≈8,039) projects PP vote share 33.4% and gives a seat interval for PP of 28–38 seats. It is a large, methodologically-documented poll and is a primary, authoritative data point on likely seat ranges; its broad seat interval is a central reason I judge the 32–35 band to be plausible rather than unlikely. This source supports the idea that the market price (40%) is within the public-evidence range rather than obviously wrong.
 
-Title: A virtual tie between the PP and PSOE in the regional elections of Castilla y León
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.cis.es/en/w/empate-t%C3%A9cnico-entre-pp-y-psoe-en-las-elecciones-auton%C3%B3micas-de-castilla-y-le%C3%B3n
-Summary: The CIS (Centro de Investigaciones Sociológicas) conducted recent surveys indicating a highly competitive political landscape in Castilla y León. The latest data shows a near tie between the Partido Popular (PP) and the PSOE, suggesting a closely contested electoral environment. While specific seat predictions for 2026 are not provided, current trends highlight the possibility of the PP securing a significant number of seats, potentially within the 32-35 range, especially if the current voter preferences and political dynamics persist. However, as these are projections based on recent surveys, actual election outcomes may vary due to factors such as voter turnout, campaign developments, and regional issues.
+### [Encuestas elecciones Castilla y León 2026: así van y posible ganador](https://www.rtve.es/noticias/20260227/encuestas-elecciones-castilla-leon-2026/16952161.shtml)
+**Author:** RTVE (DatosRTVE) | **Published:** 2026-02-27 (updated 2026-03-09)
 
-Title: Advance on study results 3545 'Preelectoral elecciones autonómicas 2026. Comunidad autónoma de Castilla y León'
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://www.cis.es/en/w/avance-de-resultados-del-estudio-3545-preelectoral-elecciones-auton%C3%B3micas-2026.-comunidad-aut%C3%B3noma-de-castilla-y-le%C3%B3n-
-Summary: The CIS study on preelectoral expectations for the 2026 Castilla y León regional elections provides provisional survey results and analysis of voter intentions. While specific seat predictions are not detailed in the available summary, the research includes data on party support levels, electoral trends, and voter preferences that could inform forecasts. Historically, the CIS's studies help gauge the likelihood of Partido Popular securing a significant number of seats, such as 32-35, by analyzing current polling data, voter sentiment, and regional political dynamics. However, precise predictions for seat counts require detailed survey figures and trend analysis from the latest CIS reports.
+RTVE’s poll-aggregation/analysis shows an average that places the PP near 31 seats (roughly its 2022 level) and explains how provincial distribution and rises for Vox could affect seats. RTVE’s aggregated projection is a high-quality, recent synthesis that suggests PP is likely to be close to, but not securely inside, the 32–35 band — supporting the conclusion that a 40% market probability is reasonable.
 
-Title: The PSOE is closing the gap with the PP in Castile and León, according to the CIS
-Author: LAYA
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://en.ara.cat/politics/the-psoe-is-closing-the-gap-with-the-pp-in-castile-and-leon-according-to-the-cis_25_5654510.html
-Summary: The latest CIS poll indicates that the upcoming Castilla y León regional elections are highly competitive, with the PP estimated to secure between 28 and 38 seats and the PSOE between 26 and 35 seats. The race is very close, and the outcome may hinge on the performance of Vox (11-19 seats). Given this variability, if the PP were to win around 32-35 seats, it would be within the current poll's projected range, suggesting a plausible scenario but not a certainty. Factors influencing this outcome include voter turnout, regional political dynamics, and potential shifts closer to the 2026 election.
+### [El CIS prevé un empate técnico entre el PP y el PSOE en Castilla y León](https://elpais.com/espana/elecciones-castilla-y-leon/2026-02-20/el-cis-preve-un-empate-tecnico-entre-el-pp-y-el-psoe-en-las-elecciones-autonómicas-de-castilla-y-leon.html)
+**Author:** Unknown (El País staff) | **Published:** 2026-02-20
 
+El País reports the CIS results and adds reporting on provincial-level effects and recent polling context (including that the Cortes will have 82 seats this election). It cites seat ranges (PP 28–38, PSOE 26–35) and notes the sensitivity of seat counts to regional vote distribution — important context explaining why modest vote swings can alter seat totals and why uncertainty remains even with recent polls. This supports the view that 32–35 is plausible but uncertain.
 
+### [CASTILLA Y LEÓN · Encuesta Target Point 09/03/2026: PP 29,2% (28/30)](https://www.electografica.com/2026/03/castilla-y-leon-encuesta-target-point-260309.html)
+**Author:** ElectoGrafica (poll report aggregator) | **Published:** 2026-03-09
+
+ElectoGrafica publishes the late Target Point poll giving PP ≈29.2% and projecting PP around 28–30 seats — one of the lower late estimates for PP. This single-poll datum is relevant because it pulls the lower tail of seat projections and suggests non-trivial probability that PP falls below 32 seats, which argues against concluding the market is obviously too high. ElectoGrafica is an aggregator reporting the poll; as a single-poller result it is informative but should be weighed against other polls and sample sizes.
+
+### [Castilla y León votes March 15 as PP seeks majority without Vox](https://thespainpost.com/article/castilla-y-leon-votes-march-15-as-pp-seeks-majority-without-)
+**Author:** Alejandro Vidal | **Published:** 2026-02-26
+
+The Spain Post summarizes polling averages and projections that place PP around low-30s in vote share and mentions a 32-seat projection in one aggregated forecast. It provides a concise English-language synthesis of how seat projections map to the 82-seat Cortes and why PP might or might not reach a majority. This supports the assessment that seat totals in the low 30s are plausible and that marginal shifts could move PP into the 32–35 band.
+
+### [Elections to the Parliament of Castilla y León on 15 March 2026 (press release)](https://www.ine.es/dyngs/Prensa/en/ECYL2026.pdf)
+**Author:** Instituto Nacional de Estadística (INE) | **Published:** 2026-01-23
+
+INE’s press release confirms the election date (15 March 2026), electorate size, and the province-by-province electorate breakdown for Castilla y León. It’s the official statistical context for the contest and underlines the nine-province seat allocation that produces the 82-seat Cortes; this explains why provincial vote distribution (not just region-wide share) matters heavily for translating votes into seats. This supports the assertion that seat outcomes are sensitive to geographic distribution of votes.
+
+### [Junta Electoral Central - Inicio](https://www.juntaelectoralcentral.es/cs/jec/inicio)
+**Author:** Junta Electoral Central | **Published:** Unknown
+
+The JEC is the official electoral authority whose published results are the market’s ultimate resolution fallback in the case of ambiguity. The market’s resolution rules point to the JEC as the authoritative source for official counts; referencing JEC confirms the market’s stated resolution mechanism and that official seat totals will be definitive if media consensus is unclear.

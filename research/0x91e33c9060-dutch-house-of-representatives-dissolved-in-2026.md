@@ -1,83 +1,96 @@
 # Research: Dutch House of Representatives dissolved in 2026?
 
 **Market ID:** 0x91e33c9060d6b19bc54f0ea3dcf0bd20bf73893f13026682833622c5f5a377bb
-**Researched At:** March 8, 2026 at 04:21:06 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Dutch House of Representatives dissolved in 2026?"
+**Researched At:** March 14, 2026 at 04:15:49 AM UTC
+**Search Query:** "Dutch House of Representatives dissolved in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.4¢
+**Expected Value:** 2.8¢
 
 ### Summary
 
-The coalition’s fragility justifies some risk of dissolution, but there’s no concrete trigger or overwhelming historical precedent pointing to a >20% chance before year-end. Market price appears reasonable; expected mispricing is negligible.
+The market price (~19.5%) is plausible: recent government instability and a minority cabinet increase dissolution risk, but legal/ political friction plus the fact a new cabinet was sworn in Feb 23, 2026 lower the short‑term chance. I find no specific, credible evidence of a large (>20¢) mispricing; expected value of an information edge is small (~2.8¢). ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
 
 ### Full Analysis
 
-CONTEXt ANALYSIS  
-The market asks whether the House of Representatives seated on January 27, 2026, will be formally dissolved by December 31, 2026. A YES requires a formal dissolution and call for new elections before the end of 2026; otherwise it resolves NO.
+Short answer: I find no clear, specific evidence that this market is grossly mispriced. A ~19.5% probability for the Jan‑27‑2026 composition of the Tweede Kamer being dissolved before Dec‑31‑2026 is plausible given (a) the Netherlands’ recent instability and the presence of a minority government, but (b) there is also clear political and institutional inertia pushing against another snap dissolution in 2026. My expected-value estimate for investigating/trading on this market is small (~2.8¢). ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
 
-EVIDENCE EVALUATION  
-Bullish (higher than 20%):  
-• All sources emphasize a fragile minority coalition (66/150 seats) with strong opposition from both left and far-right, and a track record of Dutch governments collapsing mid-term.  
-• The Eye Newspapers reports recent coalition collapse and caretaker administration, underscoring political instability.  
-Bearish (lower than 20%):  
-• A new government was only sworn in late February 2026 after 117 days of negotiation, suggesting strong incentives to avoid immediate repeat elections.  
-• No source gives any concrete trigger or timeline for another collapse in 2026; most speak only of uncertain future developments.  
-Credibility & Recency: Politico, AP, DutchNews are high-credibility and dated Feb 23, 2026. The Eye Newspapers (Mar 3) seems less established but reports coalition collapse consistent with broader coverage.
+1) CONTEXT ANALYSIS
+- What the market asks: Will the exact set of members who comprised the Dutch House of Representatives on January 27, 2026 (the “sitting” Tweede Kamer on that date) be formally dissolved by 11:59 PM ET on December 31, 2026? To resolve “Yes”, there must be an official koninklijk besluit (royal decree) or equivalent authoritative government announcement dissolving that specific chamber (which triggers ontbindingsverkiezingen and the statutory follow-up deadlines). The legal mechanics and timing for a dissolution/election (elections called by royal decree, new chamber within statutory windows) are set by Dutch law and the Kieswet; dissolution is a discrete, documentable event. ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
 
-MARKET EFFICIENCY  
-A 20% price implies traders see a non-negligible but not imminent risk of early elections. The low volume might reflect that insiders view this as a low-signal, high-uncertainty question. The tight spread suggests at least two participants have converged around this 20% level, rather than one lone outlier.
+2) EVIDENCE EVALUATION (relevant facts / arguments)
+Key facts and why they matter
+- The Tweede Kamer was subject to a formal dissolution process tied to 2025–2026 turmoil; an official government decision (published on the Dutch legislation portal) scheduled an ontbinding / seat turnover in November 2025 (new‑election timetable referenced). That means there was a full round of disruption in 2025 and a reconstituted chamber in late‑2025 / early‑2026; the market’s “as of Jan 27, 2026” membership therefore refers to the post‑2025 composition, not the pre‑2025 chamber. This is an important technical check so we do not mistakenly believe the chamber was already dissolved after Jan 27, 2026. ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
 
-MISPRICING ASSESSMENT  
-There is no specific credible evidence suggesting the true probability is materially above or below 20%. All sources agree on fragility but offer no proximate catalyst for dissolution within 2026. The market price reasonably balances the coalition’s inexperience and narrow majority against the fresh mandate and desire to avoid immediate reruns.
+- The Schoof cabinet collapsed in June 2025 after PVV withdrew from the coalition; that collapse created the conditions for snap/early elections and demonstrated how policy disputes (migration, foreign‑policy rows such as Israel) can trigger cabinet breakdowns in this period. That recent history raises the baseline risk of another collapse in a short interval. ([apnews.com](https://apnews.com/article/c18fd4e32cc1ab8668f159d6630cf89d?utm_source=openai))
 
-EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20%  
-Estimated magnitude of mispricing: 2¢  
-Expected value = 20% × 2¢ = 0.4¢
+- A new cabinet (the Jetten cabinet) was sworn in on 23 February 2026 as a minority coalition; major anglophone news wires report the new government was sworn in and described it as a minority administration. Minority coalitions are by nature more fragile than secure majority coalitions, which raises the ex‑ante probability of an intra‑term crisis that could lead to dissolution. At the same time, surviving a 117‑day formation process and taking office is evidence political actors preferred negotiation over immediate new elections. ([reutersconnect.com](https://www.reutersconnect.com/item/new-dutch-government-sworn-in-by-king-willem-alexander/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUNWTUQ1NTUwMDU4NA?utm_source=openai))
 
-EXPECTED_VALUE: 0.4  
-SUMMARY: The coalition’s fragility justifies some risk of dissolution, but there’s no concrete trigger or overwhelming historical precedent pointing to a >20% chance before year-end. Market price appears reasonable; expected mispricing is negligible.  
+Evidence that could argue the market price is too low (i.e., actual dissolution probability >19.5%)
+- Recent history of government collapse (June 2025) shows triggers exist (migration, foreign‑policy rows). Minority governments are fragile; the newly formed minority Jetten cabinet (Feb 23, 2026) may face contentious votes where coalition partners could withdraw support—any such withdrawal could prompt either a cabinet resignation and/or a request to dissolve the chamber. These are concrete mechanisms that raise risk relative to an “average stable government” baseline. ([apnews.com](https://apnews.com/article/c18fd4e32cc1ab8668f159d6630cf89d?utm_source=openai))
+
+Evidence that supports the market price as reasonable (i.e., dissolution probability ≈19.5% or lower)
+- The government formation completed (cabinet sworn Feb 23, 2026) and both political actors and institutional conventions typically bias against repeated elections in quick succession; after a recent election/formation, parties sometimes prefer to govern or to operate with workarounds (e.g., remaking a cabinet or minority management) rather than immediately trigger another dissolution. The cost of repeated elections and the institutional process required (formal koninklijk besluit, election timetables) act as frictions that reduce the short‑term chance of another dissolution. Contemporary reporting emphasized the new government being sworn in and the public/political desire for stability. ([reutersconnect.com](https://www.reutersconnect.com/item/new-dutch-government-sworn-in-by-king-willem-alexander/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUNWTUQ1NTUwMDU4NA?utm_source=openai))
+
+Source credibility and recency
+- Official government publications and Kiesraad guidance are the highest‑credibility sources for legal mechanics and formal dissolution dates/timetables (wetten.overheid.nl and Kiesraad). News wires (AP, Reuters, major outlets) are credible for reporting cabinet collapse and the swearing‑in of a new cabinet; NL Times/DutchNews are specialist English coverage with strong track records for Dutch politics. Wikipedia snippets were used only for context but I relied primarily on primary official publications and reputable news agencies for load‑bearing facts. ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
+
+Skeptical checks (why the “obvious” arguments might be incomplete)
+- It would be too easy to say “the government just fell recently so another dissolution is likely.” But after a fall and election round, parties often make trade‑offs to avoid immediate repeat elections; the exact resolution hinge is whether the current coalition loses parliamentary support or whether coalition partners prefer to reconfigure the cabinet without dissolving the chamber. Those nuances are not obvious from headlines and may already be priced into the market. Also, the market question isolates the exact membership as of Jan 27, 2026 — traders may be careful to account for technicalities (e.g., a cabinet resignation does not automatically equal chamber dissolution; a new cabinet can be formed without dissolving parliament). The market’s low price could therefore reflect that traders are already counting these legal/political frictions. ([kiesraad.nl](https://www.kiesraad.nl/adviezen-en-publicaties/publicaties/2025/6/16/verkiezingskalender-tweede-kamerverkiezing-2025?utm_source=openai))
+
+3) MARKET EFFICIENCY ANALYSIS
+- Market metrics (low volume $5,210; 1¢ spread) indicate the market is thin and could be dominated by a few active traders; that raises the possibility of idiosyncratic pricing errors. Low volume + narrow spread often means one or a few informed or opinionated participants set the price and little arbitrage happened to widen or correct it. (Market data provided in the prompt.)
+- Charitable interpretation of 19.5%: it reflects a view that dissolution is a minority but non‑negligible risk — consistent with (a) a minority government exists which increases fragility, and (b) institutional friction and recent election fatigue reduce the likelihood of repeat dissolution in the same calendar year. This is a plausible consensus view among informed traders.
+- Alternative interpretation: price reflects one or two contrarians who think a mid‑to‑high probability of a mid‑term collapse exists and set the odds, and others did not trade enough to move price. Low engagement by professional arbitrageurs would leave the price sticky even if slightly off. Given the limited trading volume, both interpretations are plausible.
+
+4) MISPRICING ASSESSMENT (weighing evidence)
+- Bullish for “Yes” (higher dissolution chance than market): recent precedent (June 2025 collapse), minority cabinet vulnerability, ongoing contentious issues (migration, foreign policy) historically precipitating crises. Those facts push the probability up relative to a baseline stable government.
+- Bearish for “Yes” (lower dissolution chance than market): recent successful formation (Feb 23, 2026) shows actors were able to agree; legal/institutional frictions and the political cost of repeated elections bias actors toward negotiating alternatives short of dissolution; the market question’s technical resolution criteria (formal dissolution of the specific Jan‑27‑2026 membership) require a specific legal act that is not the same as mere cabinet resignation. ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
+- Net assessment: I do not find specific, credible, and unambiguous evidence that a material piece of information is being missed by the market that would move the probability by a very large amount (>20¢). The available facts point to a non‑trivial but not high chance of dissolution — the market’s ~19.5% sits in the plausible range given the trade‑offs. Because the market is thin, modest inefficiencies are possible, but I do not see strong, specific, verifiable information indicating a large mispricing.
+
+Critical check (have I misunderstood resolution criteria?)
+- I confirmed dissolution is a formal koninklijk besluit with specific statutory timelines; a cabinet resignation or collapse does not automatically equal dissolution of the Tweede Kamer. The market’s resolution depends on a formal dissolution of the chamber that includes the Jan‑27‑2026 membership. That technical distinction is likely why the market price is below, say, 50% and why traders might price friction/reluctance to trigger another election. ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence (how confident I am there is a genuine mispricing that is exploitable): 40%. Reason: some real upside risk (minority government fragility) but also meaningful offsetting evidence (formation completed, institutional friction); thin market raises odds of small mispricing but not of a large, obvious mispricing.
+- Magnitude of plausible mispricing (if any): about 7 cents (i.e., market at 19.5% might be off by ≈7¢ toward higher probability if you believe fragility is underpriced, or by ≈7¢ toward lower probability if you think stability is underpriced). I choose 7¢ as a modest, realistic displacement for a low‑volume political market — large errors would require missing a clear trigger or misreading the resolution rules.
+- Expected value = Strength × Magnitude = 0.40 × 7¢ = 2.8¢
+
+EXPECTED_VALUE: 2.8
+SUMMARY: The market price (~19.5%) is plausible: recent government instability and a minority cabinet increase dissolution risk, but legal/ political friction plus the fact a new cabinet was sworn in Feb 23, 2026 lower the short‑term chance. I find no specific, credible evidence of a large (>20¢) mispricing; expected value of an information edge is small (~2.8¢). ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Political Turmoil in the Netherlands: Coalition Government Falls
-Author: The Eye Newspapers
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://themunicheye.com/breaking-news/netherlands-coalition-government-collapses-422
-Summary: The recent collapse of the Dutch coalition government, led by Prime Minister Dick Schoof and triggered by Geert Wilders' withdrawal, has resulted in a caretaker administration pending new elections, expected in the fall of 2025. This political upheaval has heightened tensions among Dutch political parties, with opposition leaders calling for prompt elections to challenge Wilders' influence. The government remains committed to key international commitments, such as hosting the NATO summit and supporting Ukraine amid ongoing conflicts. Given the political instability and the upcoming electoral process, it is plausible that the Dutch House of Representatives could be dissolved in 2026 if new elections lead to significant parliamentary shifts or if the caretaker government faces challenges in forming a stable majority.
+### [Besluit van 30 augustus 2025 houdende de ontbinding van de Tweede Kamer der Staten‑Generaal (Regeling)](https://wetten.overheid.nl/BWBR0051481/)
+**Author:** Unknown | **Published:** 2025-08-30
 
-Title: The Dutch have a new government. Now the hunger games begin. – POLITICO
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.politico.eu/article/dutch-new-government-rob-jetten-now-hunger-games-begin-netherlands/
-Summary: The article discusses the challenges faced by Dutch Prime Minister Rob Jetten, who leads a fragile minority government formed after 117 days of coalition negotiations. His government, comprising centrist and center-right parties, aims to implement ambitious policies including increased defense spending, emission reductions, and welfare cuts, but faces significant opposition from both the left and far-right parties. The coalition holds only 66 of 150 seats in the lower house, making its stability uncertain, especially given the history of government collapses in the Netherlands. The political landscape is tense, with opposition parties threatening to block the government's agenda. Given these dynamics, the stability of the Dutch government and the likelihood of early dissolution—potentially in 2026—remains uncertain, especially considering the country's history of government collapses and the current fragile coalition.
+This is the official government publication of the royal decision (koninklijk besluit) scheduling the ontbinding (dissolution) tied to the 2025/2026 election timetable; the page states that the Tweede Kamer would be dissolved with the wording that the chamber is dissolved on Wednesday 12 November 2025 (with timing determined by the chamber chair). This source is authoritative for the legal mechanics and confirms that a formal dissolution episode and an associated election timetable occurred in late‑2025 — a crucial technical check so we do not confuse that earlier dissolution with the market’s Jan‑27‑2026 “sitting” membership. This supports the point that the market’s reference date (Jan 27, 2026) is to the post‑2025 composition and that dissolution is a formal, documentable act. ([wetten.overheid.nl](https://wetten.overheid.nl/BWBR0051481/?utm_source=openai))
 
-Title: New era of Dutch politics opens with minority coalition | AP News
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://uat.apnews.com/article/netherlands-government-jetten-king-politics-897876739f2ce60e41167a1040956353
-Summary: The article reports on the formation of a new minority Dutch government led by Prime Minister Rob Jetten, who was sworn in at age 38 as the country's youngest-ever and first openly gay prime minister. The coalition comprises three centrist and center-right parties—D66, Christian Democrats, and People’s Party for Freedom and Democracy—holding only 66 of 150 seats in the lower house, necessitating negotiations with opposition parties to pass legislation. The election was closely contested, with Jetten narrowly securing the same number of seats as Wilders’ Party for Freedom. Jetten aims to foster consensus in Dutch politics, strengthen the country's role within the EU, and maintain strong US and Ukrainian support. Given the fragile coalition and ongoing political negotiations, the stability of the Dutch House of Representatives, including whether it might be dissolved in 2026, remains uncertain and would depend on future political developments and coalition dynamics.
+### [Advies Kiesraad: Tweede Kamerverkiezingen op woensdag 29 oktober (Verkiezingskalender Tweede Kamerverkiezing 2025)](https://www.kiesraad.nl/adviezen-en-publicaties/publicaties/2025/6/16/verkiezingskalender-tweede-kamerverkiezing-2025)
+**Author:** Kiesraad (Dutch Electoral Council) | **Published:** 2025-06-16
 
-Title: Rob Jetten’s cabinet will be running into headwinds from day one - DutchNews.nl
-Author: Gordon Darroch
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.dutchnews.nl/2026/02/rob-jettens-cabinet-will-be-running-into-headwinds-from-day-one/
-Summary: The article discusses the challenges faced by Rob Jetten’s new Dutch cabinet, which was sworn in amidst a politically fragile situation with a narrow majority in the House of Representatives and limited support in the Senate. The government aims to implement significant reforms, including €16.5 billion in cuts to healthcare and social security, and plans to raise the health insurance deductible and accelerate the retirement age increase. Opposition parties are prepared to oppose contentious measures, and public confidence in the new government is relatively low, especially among low-income groups. The cabinet’s stability and ability to pass legislation could be impacted by these political tensions and the upcoming legislative battles. This context is relevant for understanding the stability of the Dutch government and whether the House of Representatives might be dissolved in 2026.
+The Kiesraad (the independent electoral authority) published recommended dates and explains statutory deadlines after an ontbindingsbesluit (dissolution), including that a new chamber must meet within prescribed statutory windows after dissolution. This source clarifies statutory timeframes (how quickly elections follow dissolution and when a new chamber must convene), which is directly relevant for understanding what count as a formal dissolution for market resolution and why a dissolution is not instantaneous after a cabinet crisis. It supports the analysis that institutional timing/frictions reduce the automaticity of dissolution. ([kiesraad.nl](https://www.kiesraad.nl/adviezen-en-publicaties/publicaties/2025/6/16/verkiezingskalender-tweede-kamerverkiezing-2025?utm_source=openai))
 
-Title: Reuters | Breaking International News & Views
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: http://uk.reuters.com/world/new-dutch-pm-jetten-faces-uphill-task-minority-government-installed-2026-02-23/
-Summary: The provided webpage does not contain any information regarding the Dutch House of Representatives or its dissolution in 2026. Instead, it focuses on recent geopolitical tensions involving Iran, U.S. and Israeli airstrikes, and their impact on global markets, including stock declines, rising oil prices, and currency fluctuations. There is no mention of Dutch political developments or the dissolution of the Dutch House of Representatives.
+### [The Dutch government has collapsed. What happens next? (AP News)](https://apnews.com/article/c18fd4e32cc1ab8668f159d6630cf89d)
+**Author:** Associated Press | **Published:** 2025-06-03
 
+AP reports on the June 3, 2025 collapse of the Schoof cabinet after PVV withdrew coalition support; the article explains the immediate consequences (caretaker government, calls for fresh elections) and political context (why the coalition fell). This is direct evidence of recent political instability and provides a factual basis for the argument that political triggers for dissolution exist — a reason to assign non‑trivial probability to another dissolution within a short horizon. ([apnews.com](https://apnews.com/article/c18fd4e32cc1ab8668f159d6630cf89d?utm_source=openai))
 
+### [Outgoing PM Dick Schoof reflects after final Cabinet meeting; Collapse was inevitable (NL Times)](https://nltimes.nl/2026/02/13/outgoing-pm-dick-schoof-reflects-final-cabinet-meeting-collapse-inevitable)
+**Author:** Unknown | **Published:** 2026-02-13
+
+NL Times (specialist English coverage of Dutch politics) reports on Schoof’s resignation and his reflections as outgoing PM in February 2026. The piece highlights the political tensions that precipitated the prior collapse and signals both the fragility of coalitions in this period and the political desire to stabilize after repeated crises. This supports the view that fragility exists but actors may prefer to avoid repeated dissolutions. ([nltimes.nl](https://nltimes.nl/2026/02/13/outgoing-pm-dick-schoof-reflects-final-cabinet-meeting-collapse-inevitable?utm_source=openai))
+
+### [New Dutch government sworn in by King Willem‑Alexander (Reuters / photo caption)](https://www.reuters.com/ (see Reuters item reporting new government sworn in Feb 23, 2026))
+**Author:** Reuters | **Published:** 2026-02-23
+
+Reuters and multiple international wires reported that a new Dutch cabinet (the Jetten cabinet) was sworn in on 23 February 2026; reports describe it as a minority coalition and note the date the cabinet took office. This is important because it proves the new government formation succeeded (reducing immediate dissolution odds) and documents that the Jetten cabinet started in late February 2026 — a key event in assessing whether the chamber that existed on Jan 27, 2026 would be dissolved later in 2026. (Note: Reuters item used for reporting the swearing‑in; AP/other wires reported the same.) ([reutersconnect.com](https://www.reutersconnect.com/item/new-dutch-government-sworn-in-by-king-willem-alexander/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUNWTUQ1NTUwMDU4NA?utm_source=openai))

@@ -1,87 +1,91 @@
 # Research: Will EUR/USD hit 1.24 (High) in 2026?
 
 **Market ID:** 0xaa15864c0149ea2ae27e0e55f25f146ce35f85573af20ef317df3c97f0f0307e
-**Researched At:** March 9, 2026 at 03:02:43 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will EUR/USD hit 1.24 (High) in 2026?"
+**Researched At:** March 14, 2026 at 04:16:05 AM UTC
+**Search Query:** "Will EUR/USD hit 1.24 (High) in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.3¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Institutional forecasts generally place the chance of EUR/USD hitting 1.24 by end-2026 in the mid-30s to low-40% range. The market’s 42.5% price sits near the high end but lacks clear evidence of a large mispricing.
+Institutional FX research from BNP Paribas, RBC and others sets 12‑month EUR/USD targets around 1.20–1.24, supporting a material chance that 1.24 is reached; but recent March 2026 geopolitical risk has lifted safe‑haven dollar demand and lowered near‑term odds. Given the market’s very low volume, the quoted 39.5% is plausible but thinly supported — I find no clear, specific evidence of a large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether EUR/USD will trade at or above 1.24 at least once on an hourly candle on or before the end of 2026. A “Yes” requires any hourly high ≥1.24; “No” if no hourly candle reaches that threshold.
+CONTEXT ANALYSIS
+- What the market asks: whether EUR/USD will produce an hourly candle (on Investing.com’s EUR/USD streaming chart) in 2026 whose high ("H") is ≥ 1.24. That requires one or more hourly candles on or before Dec 31, 2026 (per the market description) with Investing.com’s reported hourly high at or above 1.24; if none occur the market resolves “No.” Investing.com is the sole data source for resolution. ([investing.com](https://www.investing.com/currencies/eur-usd-chart))
 
-2. EVIDENCE EVALUATION  
-Bullish views  
-• MUFG (Forex Revolution) explicitly forecasts EUR/USD hitting 1.24 by late 2026.  
-• RBC Capital Markets outlines a mild USD depreciation/momentum that could carry EUR/USD toward 1.24 if macro trends persist.  
-• Cambridge Currencies’ optimistic scenario assigns a 35–40% chance of 1.24–1.26 under aggressive Fed cuts and robust eurozone growth.
+EVIDENCE EVALUATION
+- Evidence that would make YES more likely
+  - Several major dealer / bank research teams have 12‑month EUR/USD targets ≈1.20–1.24, explicitly arguing that a narrowing U.S.–Europe yield differential and eventual Fed easing vs. a steadier ECB would push EUR/USD higher (BNP Paribas, RBC and others). If those macro trajectories materialize, a >6% rally from ~1.16 to 1.24 in 2026 is plausible and could produce intrahour spikes. ([wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html?utm_source=openai))
+  - Dealers and issuers are offering structured product strikes and notes around 1.24, which shows the level is on desks’ radars and is traded/hedged in OTC structured-product markets (examples of issuance list strikes at 1.24). That provides some market-native evidence that 1.24 is a plausible tradable level within the year. ([teleborsa.it](https://www.teleborsa.it/sedex-securitised-derivates/bpa-cw-put-eur-usd-1-24-e-240626-p357z6-nlbnpit357z6-TkxCTlBJVDM1N1o2?utm_source=openai))
 
-Bearish/moderate views  
-• J.P. Morgan (Forex Revolution) and Commerzbank cap year-end near 1.20–1.22, viewing 1.24 as unlikely.  
-• FCS API highlights only modest gains and low-confidence technical signals, arguing against a rapid rise to 1.24 absent major drivers.
+- Evidence that would make NO more likely
+  - Recent geopolitical shocks (early‑March 2026 Middle East escalation and related oil spikes) have driven safe‑haven demand into the USD, lifting the Dollar Index and pushing EUR/USD down into the ~1.16 area — a near‑term headwind that reduces the near‑term probability of sustained euro strength. These active risk events make front‑loaded Fed‑cut expectations less certain and have already reduced market odds of early Fed easing. If the dollar remains supported by geopolitical risk premium or higher U.S. yields, 1.24 becomes much less likely in 2026. ([icmarkets.com](https://www.icmarkets.com/blog/ic-markets-global-europe-fundamental-forecast-09-march-2026/?utm_source=openai))
+  - Central‑bank path uncertainty: while some banks expect Fed cuts in 2026, Fed communications and recent data have pushed some forecasts later or reduced the size/timing of cuts; that lowers the chance of the large yield compression needed to lift EUR/USD to 1.24. (See bank commentaries & Fed‑odds commentary.) ([ainvest.com](https://www.ainvest.com/news/probability-fed-holding-interest-rates-steady-march-increased-97-3-2603-18/?utm_source=openai))
 
-Source credibility & recency  
-All sources are published in early 2026 by reputable financial institutions or data providers; forecasts reflect current macro expectations.
+- Credibility & recency
+  - BNP Paribas and RBC materials are institutional research (bank publications) dated within the past ~3–5 months and are credible for published house forecasts; they represent views that market participants (and some institutional clients) are likely aware of. ([wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html?utm_source=openai))
+  - FX market commentaries about the March 2026 surge in dollar safe‑haven flows come from brokers and FX desks and are very recent (early March 2026). They are timely and relevant to the near‑term probability but not definitive for year‑end outcomes. ([icmarkets.com](https://www.icmarkets.com/blog/ic-markets-global-europe-fundamental-forecast-09-march-2026/?utm_source=openai))
+  - Note: some syndicated web articles and aggregators repeat bank forecasts; I prioritized the banks’ original publications where available.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• At 42.5%, the market slightly exceeds the 35–40% “optimistic” probability from Cambridge Currencies and aligns with MUFG’s forecasted possibility.  
-• Low volume/spread suggests a small group of traders set the price, but the consensus from multiple forecasts also clusters around a 35–45% chance.  
-• The range of institutional forecasts (20–40% chance) implies genuine uncertainty; the market price sits near the high end but not beyond the plausible range.
+MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations for the current 39.5% price
+  - A 39.5% implied probability reflects a view that a material but not dominant chance exists that macro conditions (Fed easing, eurozone growth, DXY weakening) will align sometime in 2026 to produce at least an hourly spike ≥1.24. That is consistent with several institutional 12‑month targets clustered at or near 1.24 (i.e., traders could be pricing consensus forecasts into a sub‑40% chance of an intraday hourly high reaching that exact level). ([wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html?utm_source=openai))
+  - The price could also reflect the additional friction/uncertainty that the market requires an intrahour high on Investing.com (not just end‑of‑day close), which is a non‑trivial resolution condition: an intrahour spike to 1.24 is a narrower event than end‑of‑day or monthly highs and therefore should command a lower probability than a simple end‑period forecast at 1.24. ([investing.com](https://www.investing.com/currencies/eur-usd-chart))
 
-4. MISPRICING ASSESSMENT  
-• No glaring omission: key drivers (Fed cuts, eurozone growth) are well known and appear priced in.  
-• The market isn’t confidently pricing a sure thing (>50%) but reflects a meaningful chance.  
-• Differences among forecasts justify a mid-40s probability.  
+- Could the price be set by a few traders?
+  - The market shows extremely low reported trading volume (Total Vol: $0) and a tight spread (1¢). Low volume with a tight spread typically indicates one of two things: (a) the posted prices are being placed by a liquidity provider or single trader and not actively arbitraged; or (b) traders broadly agree and no one is trading because there’s no edge. The absence of volume increases the chance the quote reflects a thin set of participants rather than a broad aggregation. (This is consistent with the “mixed picture” described in your context.) — that raises caution about price reliability. (Market metrics from the prompt.)
+  - On the other hand, many institutional forecasts at 1.20–1.24 suggest the level is widely discussed; the market’s 39.5% could be the consensus‑reflective price rather than pure idiosyncratic quoting. ([wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: ~50% (multiple independent forecasts pointing toward a ~35–40% range with some upside)  
-• Magnitude of possible mispricing: ~2.5¢ (market at 42.5% vs. top-side institutional 40%)  
-Expected value = 0.50 × 2.5¢ = 1.25¢
+MISPRICING ASSESSMENT
+- Do I see credible, specific, and *missing* evidence that would make the market materially mispriced (i.e., >20 cents difference in implied probability)?
+  - No. The evidence is balanced: (i) several reputable banks publish 12‑month targets at or around 1.24 (supporting a non‑trivial chance), and (ii) near‑term news (geopolitics/oil) has increased dollar upside risk and reduced near‑term Fed‑cut odds (reducing the chance). Those are the main influences likely already considered by traders. ([wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html?utm_source=openai))
+  - The resolution condition matters: the requirement for an Investing.com hourly candle high ≥1.24 is stricter than a year‑end target and likely reduces the “hit” probability below many banks’ end‑period point forecasts (banks’ forecasts usually refer to end‑period spot, not an intrahour high on a particular chart). That makes 39.5% plausible rather than obviously wrong. ([investing.com](https://www.investing.com/currencies/eur-usd-chart))
+- Conclusion on mispricing
+  - Given the balanced institutional forecasts for level ≈1.24 and recent strong but (possibly temporary) USD support from geopolitical risk, there is no clear, specific, and credible piece of information missing from the market price that would justify declaring a large mispricing. The available public evidence supports the idea that a mid‑range probability (~30–45%) for a 1.24 intrahour high in 2026 is reasonable. Because the market is thin, small edges could exist, but I did not find convincing, specific evidence of a large (>20¢) misprice.
 
-EXPECTED_VALUE: 1.25  
-SUMMARY: Institutional forecasts generally place the chance of EUR/USD hitting 1.24 by end-2026 in the mid-30s to low-40% range. The market’s 42.5% price sits near the high end but lacks clear evidence of a large mispricing.  
+EXPECTED VALUE CALCULATION
+- Strength of evidence that a mispricing exists (i.e., that public, credible facts materially omitted): 30% — there is some chance the thin market is set by few players and that recent bank forecasts (1.24 targets) underweight the near‑term geopolitical dollar strength, but the evidence is not strong or one‑sided.
+- Magnitude of plausible mispricing if any: about 5 cents (0.05) — I estimate a realistic maximum error (in probability points) a private arb might find here is small, on the order of a few cents, not tens of cents.
+- Expected value = Strength × Magnitude = 0.30 × 5 cents = 1.5 cents.
+
+EXPECTED_VALUE: 1.5
+SUMMARY: Institutional FX research from BNP Paribas, RBC and others sets 12‑month EUR/USD targets around 1.20–1.24, supporting a material chance that 1.24 is reached; but recent March 2026 geopolitical risk has lifted safe‑haven dollar demand and lowered near‑term odds. Given the market’s very low volume, the quoted 39.5% is plausible but thinly supported — I find no clear, specific evidence of a large mispricing. 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Forex Revolution: Currency Predictions and Strategies for 2026
-URL: https://xaubot.com/forex-predictions-strategies-2026/
-Summary: The forecast for EUR/USD in 2026 is generally positive, with most major banks predicting a range between 1.20 and 1.24 as the euro gains strength amid a weakening US dollar. MUFG expects the euro to reach 1.24 by the end of 2026, supported by European economic growth and increased spending. J.P. Morgan targets around 1.20, while ING anticipates approximately 1.22. Overall, the consensus suggests that EUR/USD could approach or slightly surpass 1.24, making it a plausible high for 2026 given the expected dollar weakness and euro support.
+### [EUR USD Chart - Investing.com](https://www.investing.com/currencies/eur-usd-chart)
+**Author:** Investing.com (Unknown author) | **Published:** Unknown
 
-Title: EUR/USD Forecast 2026: Euro to Dollar Exchange Rate Predictions
-URL: https://cambridgecurrencies.com/eur-usd-forecast-2026/
-Summary: The 2026 EUR/USD outlook suggests the euro is poised to strengthen against the dollar, with most forecasts predicting a range of $1.20 to $1.24 by year-end. Key factors influencing this include potential aggressive US Federal Reserve rate cuts (possibly 2-3 more in 2026), which could widen the interest rate differential in favor of the euro, and significant fiscal stimulus in Germany boosting eurozone growth. The ECB is expected to hold rates steady at 2.00%, while the Fed may cut from 3.50-3.75%, creating a favorable environment for euro appreciation. 
+Investing.com provides the live EUR/USD streaming chart and is the explicit resolution source for this market; the market’s resolution rules point to the chart’s hourly "H" value. This source establishes the exact mechanical resolution criterion (hourly candle high on Investing.com), which is crucial because an intrahour high is a stricter condition than many published bank end‑period targets. The page is used to explain how a “Yes” outcome would be observed/verified. ([investing.com](https://www.investing.com/currencies/eur-usd-chart))
 
-The most optimistic scenario, with a 35-40% probability, envisions EUR/USD reaching $1.24-$1.26 if the Fed cuts rates more aggressively, European markets outperform US assets, and concerns about dollar reserve currency status increase. However, the base case predicts the pair will hover between $1.18 and $1.22, with a moderate chance of reaching 1.24 if the Fed’s rate cuts accelerate and eurozone growth remains robust. Overall, while hitting 1.24 is possible, it depends on the pace of US rate cuts and eurozone economic momentum.
+### [Currencies Focus — January 2026 (BNP Paribas Wealth Management)](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html)
+**Author:** Guy Ertz (Deputy Global CIO) / BNP Paribas Wealth Management | **Published:** 2026-01-xx (January 2026)
 
-Title: [PDF] Currency Report Card & 2026 Trades - RBC Capital Markets
-URL: https://www.rbccm.com/assets/rbccm/docs/fx/currency-report-card.pdf
-Summary: The RBC Capital Markets 2026 FX Outlook suggests a generally mild USD depreciation amid front-end currency compression, with sustained Asian strength driven by CNY resilience and persistent carry dynamics. The report highlights specific currency trades and inflection points, including a short EUR/NOK position and long CNH vs USD/EUR, indicating a cautious outlook on the euro's strength relative to the dollar. While the report does not explicitly forecast EUR/USD levels, the overall theme of a mild USD depreciation and euro resilience suggests that EUR/USD could approach higher levels, potentially nearing or surpassing 1.24 in 2026 if these trends persist. However, the outlook emphasizes volatility and risk, so actual movements will depend on evolving geopolitical, economic, and monetary factors.
+BNP Paribas’s client research sets a 12‑month EUR/USD target of approximately 1.24 and explains the drivers (expectation of Fed easing, eurozone growth). This is directly relevant because it shows that large institutional desks see 1.24 as a plausible year‑ahead level; such published house‑views are likely already known to (and priced by) FX desks and professional traders, which weakens the argument that the market has simply “missed” this information. ([wealthmanagement.bnpparibas](https://wealthmanagement.bnpparibas/asia/en/insights/market-strategy/currencies-focus-january-2026.html?utm_source=openai))
 
-Title: EURUSD Price Today & 2026 Outlook | FCS API Analysis
-Author: FCS API
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://fcsapi.com/blog/euro-u-s-dollar-forecast-2026-the-1-1569-level-is-everything
-Summary: The analysis indicates that EUR/USD currently trades around 1.1857, with a bullish short-term trend supported by the EMA 200 at 1.1569, which acts as a strong long-term support level. Despite low-confidence signals and mixed oscillator indicators, the overall trend remains upward, with potential resistance near 1.1876. The six-month performance shows modest gains (~1.77%), and the currency is in a low-volatility phase, suggesting a possible upcoming significant move depending on whether resistance or support levels break. However, the current data and signals do not strongly support a rapid rise to 1.24 in 2026. The outlook suggests cautious optimism, with the long-term support being a key factor in future price movements.
+### [RBC Wealth Management/Capital Markets — Monthly note / forecast snippet (Nov 2025)](https://ca.rbcwealthmanagement.com/documents/4004458/4004557/CRC%2B-%2BNovember%2B2025.pdf)
+**Author:** RBC Capital Markets (Unknown individual author on PDF) | **Published:** 2025-11-17
 
-Title: EUR/USD: Gradual rise to 1.22 by year-end – Commerzbank
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.fxstreet.com/news/eur-usd-gradual-rise-to-122-by-year-end-commerzbank-202602130904
-Summary: Commerzbank forecasts a gradual appreciation of the EUR/USD pair, expecting it to reach approximately 1.22 by the end of 2026. The bank's outlook is based on a constructive view of the euro relative to the dollar, supported by a robust Eurozone economy and expectations of a US Federal Reserve rate cut to 2.75% by early 2026. While US GDP growth is projected at around 3%, the forecast suggests a moderate upward trajectory rather than a sharp rise. Given this outlook, reaching a high of 1.24 in 2026 appears unlikely within the bank's predicted range, which targets a maximum of about 1.22 by year-end.
+RBC’s published materials include a forecast profile showing a 2026 target around 1.24 and the bank’s argumentation (narrowing carry differential, rotation into Europe, and better European growth). This confirms that multiple large sell‑side institutions independently expect a non‑trivial chance that EUR/USD reaches the 1.20–1.24 band during 2026, which supports the notion that the level is a mainstream forecast rather than an outlier and that 1.24 is within dealer think‑space. ([ca.rbcwealthmanagement.com](https://ca.rbcwealthmanagement.com/documents/4004458/4004557/CRC%2B-%2BNovember%2B2025.pdf?utm_source=openai))
 
+### [IC Markets – Europe Fundamental Forecast (03 March 2026 / 09 March 2026)](https://www.icmarkets.com/blog/ic-markets-global-europe-fundamental-forecast-03-march-2026/)
+**Author:** IC Markets (Unknown) | **Published:** 2026-03-03 / 2026-03-09
 
+Broker‑desk FX commentary from early March 2026 describes the market reaction to the Middle East escalation: safe‑haven flows into the USD, oil spikes, and downward pressure on EUR/USD (EUR/USD testing ~1.16). This is relevant because it documents a recent, material shock that reduces the near‑term probability of the euro rally (and therefore of an intrahour 1.24 spike) and explains why market odds might be lower than some 12‑month point forecasts suggest. ([icmarkets.com](https://www.icmarkets.com/blog/ic-markets-global-europe-fundamental-forecast-03-march-2026/?utm_source=openai))
+
+### [VT Markets – Market update: Amid escalating Middle East conflict, EUR/USD slips near 1.1635 as safe‑haven demand lifts the US dollar](https://www.vtmarketsglobal.com/en/live-updates/29930/)
+**Author:** VT Markets (Unknown) | **Published:** Amid escalating Middle East conflict, EUR/USD slips near 1.1635 as safe‑haven demand lifts the US dollar
+
+A broker update describing how the early‑March 2026 Middle East escalation lifted USD safe‑haven demand and pushed EUR/USD below the 1.17 area. This contemporaneous market commentary corroborates other desk notes that geopolitical risk materially reduced odds of a near‑term euro rally — a factor market participants would include when pricing an event like an intrahour 1.24 high in 2026. ([vtmarketsglobal.com](https://www.vtmarketsglobal.com/en/live-updates/29930/?utm_source=openai))

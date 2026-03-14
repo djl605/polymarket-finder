@@ -1,0 +1,106 @@
+# Research: Weed rescheduled by December 31?
+
+**Market ID:** 0x5ca748e7d1e070a392c9aa3e4d62ad3c00c3a9fce0a1ea721ca7c8ed388b5e42
+**Researched At:** March 14, 2026 at 04:16:36 AM UTC
+**Search Query:** "Weed rescheduled by December 31?"
+
+---
+
+## AI Analysis
+
+**Confidence:** Medium
+**Expected Value:** 3.2¢
+
+### Summary
+
+The administrative record (HHS recommendation + DOJ NPRM) plus a Dec 18, 2025 Executive Order meaningfully raise the chance the DEA will reschedule marijuana in 2026, but procedural stays, an ALJ cancellation/retirement, and likely litigation create a substantial chance of delay past Dec 31, 2026. Given those balanced signals and the market’s very low volume, I find insufficient credible evidence of a large (>20¢) mispricing; expected informational edge is small (~3.2¢). ([govinfo.gov](https://w
+
+### Full Analysis
+
+1) CONTEXT ANALYSIS — what the market asks and resolution rule
+- Market question: "Weed rescheduled by December 31?" — i.e., will the Drug Enforcement Administration (DEA) reschedule marijuana out of Schedule I (to any lower schedule or unschedule) by 11:59 PM ET on December 31, 2026. For the market to resolve YES the DEA must complete whatever official administrative action the market uses as its resolution source (the market description names official US government information, or a consensus of credible reporting); for NO it must not have done so by that deadline. The relevant legal/administrative trigger is a final DEA/DOJ scheduling determination (a final rule or equivalent DEA action) that changes marijuana’s schedule; a presidential executive order by itself does not directly change the schedule. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+
+2) EVIDENCE EVALUATION — all relevant evidence, credibility, and implications
+
+Summary of the institutional facts and timeline (load-bearing facts)
+- HHS/FDA recommended rescheduling (HHS/FDA concluded marijuana has accepted medical uses) and the DOJ/DEA published a Notice of Proposed Rulemaking (NPRM) proposing to move marijuana to Schedule III in May 2024. That NPRM remains the foundational administrative record for rescheduling. This establishes that a formal rulemaking path is already in motion. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))  
+- On December 18, 2025 the White House (executive branch) issued an Executive Order directing the Attorney General to “take all necessary steps to complete the rulemaking process related to rescheduling marijuana to Schedule III … in the most expeditious manner.” The EO is a strong political signal but does not itself reschedule. ([whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/))  
+- The rescheduling hearings and procedural path have been disrupted by a rare interlocutory appeal and judicial-administrative actions (DEA administrative law judge John Mulrooney cancelled/stayed the January 2025 hearing and transmitted matters up to DEA leadership). The ALJ later retired; the proceedings have been “pending” and periodic status updates were ordered. Those procedural complications can slow or change the timetable and invite litigation. ([cannabisbusinesstimes.com](https://www.cannabisbusinesstimes.com/cannabis-rescheduling/news/15712039/dea-judge-grants-interlocutory-appeal-cancels-cannabis-rescheduling-hearing))  
+- As of late January 2026 the DOJ told reporters it had “no comment or updates” more than a month after the Executive Order; industry and legal commentators note that the EO creates options (finish existing rulemaking, issue a different DOJ/DEA rule, or pursue alternative administrative paths) but that a defensible final rule remains necessary and is exposure to litigation. Many legal analyses from law firms expect a final rule could appear in 2026 but emphasize uncertainty and likely legal challenges. ([marijuanamoment.net](https://www.marijuanamoment.net/doj-has-no-comment-or-updates-on-marijuana-rescheduling-more-than-a-month-after-trumps-executive-order/))
+
+Evidence that suggests the market price (37%) might be incorrect (bullish for YES / reasons market underestimates probability)
+- Strong administrative groundwork already exists: HHS/FDA recommendation (Aug 2023) and DOJ/DEA NPRM (May 21, 2024) provide a substantial evidentiary basis for rescheduling; these are not new or speculative steps — they materially lower the barrier to final action versus a situation with no prior official finding. Traders who weight administrative inertia and prior agency findings could reasonably assign high probability. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+- The December 18, 2025 Executive Order is a clear presidential-level directive to move the process forward and instructs the Attorney General to expedite the rulemaking; that raises the odds that a final rule will be completed within 2026 relative to scenarios without such a directive. Several reputable legal/industry write-ups (Sheppard, law firms) interpreted the EO as materially raising the chance of an accelerated final rule. If the administration prioritizes a final rule and the DEA/DOJ choose a route that minimizes additional delay (for example, finishing the already-pending record or issuing a final rule without restarting), the deadline (Dec 31, 2026) is reachable. ([whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/))
+
+Evidence that supports the current price as reasonable (bearish / reasons market overestimates probability)
+- Procedural and legal friction is substantial: an interlocutory appeal, the ALJ’s cancellation/stay of hearings, the ALJ’s retirement, and the transfer of control to DEA leadership mean the rulemaking could be delayed, restructured, or restarted — each outcome increases chances of slipping past the market’s deadline. The DEA has repeatedly said the matter remains pending and status updates show the process can sit idle for months. Past officials and legal commentary emphasize that administrative rulemaking and interagency review (and likely litigation) commonly stretch many months to years. ([cannabisbusinesstimes.com](https://www.cannabisbusinesstimes.com/cannabis-rescheduling/news/15712039/dea-judge-grants-interlocutory-appeal-cancels-cannabis-rescheduling-hearing))
+- The Executive Order does not create immediate legal effect: EO language instructs and accelerates, but it does not substitute for the required final agency action. Media and legal reporting repeatedly stress that even with the EO a defensible final rule (and likely litigation) is required before rescheduling becomes final — so the EO raises probability but does not guarantee a 2026 outcome. ([whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/))
+- DOJ/DEA public silence or equivocal statements after the EO (DOJ’s “no comment” more than a month after the EO) and industry reporting that the process “remains pending” indicate the administration had not yet publicly committed to a specific timeline as of late Jan 2026. That supports a materially less-than-certain near-term completion. ([marijuanamoment.net](https://www.marijuanamoment.net/doj-has-no-comment-or-updates-on-marijuana-rescheduling-more-than-a-month-after-trumps-executive-order/))
+
+Credibility and recency
+- Primary official sources (Federal Register NPRM; White House presidential action; DEA internal orders) are authoritative for the legal status and administrative posture and are recent (NPRM: May 21, 2024; White House EO: Dec 18, 2025; DEA orders: 2024–2025). Reuters/AP and established legal firms/law blogs provide high-to-medium credibility contemporaneous analysis. Industry outlets (Cannabis Business Times, Marijuana Moment) are specialist and timely; they accurately report filings and procedural orders but are not substitutes for primary agency documents. I relied on official items (govinfo Federal Register, White House, DEA PDFs) for the core factual claims and used reputable media and law firm commentary for timeline interpretation and litigation risk. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+
+Skeptical check: why hasn’t the market fully priced in this if the EO makes rescheduling almost certain?
+- If rescheduling were nearly certain for 2026, we would expect final-rule publication before year-end or clear public DOJ/DEA timelines; instead the administrative record shows procedural stays and active sources noting the process remains pending and subject to litigation. That residual procedural risk is likely the main reason the market isn’t at, say, 80–90%. The EO is a strong signal but does not remove the legal and administrative friction that has so far delayed finalization.
+
+3) MARKET EFFICIENCY ANALYSIS — how to interpret the 37% price given low volume
+- Plausible charitable interpretation of 37%: traders are splitting the difference between (a) a strong, existing administrative record plus a Dec 2025 EO that materially increases the chance of an outcome in 2026, and (b) substantive procedural obstacles (interlocutory appeal, ALJ retirement, potential litigation) that create a nontrivial chance the schedule-change final rule is delayed past Dec 31, 2026. 37% maps to a view that rescheduling is plausible but not the majority probability. This is consistent with the publicly visible facts. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+- Could the price reflect a single overconfident trader? Yes — the market’s total volume is only $729 and age is 34 days, so the posted price could be set or heavily influenced by one or a few traders. The narrow spread (6¢) on low volume suggests a market maker or a small number of participants rather than broad liquidity. That raises the risk the price is not a fully diversified-information aggregation. (Market metrics provided by the user.)  
+- Is low volume because outcome is obvious (so traders don’t need to trade)? Not here — the outcome is not obvious: there are clear arguments both for and against 2026 finalization. Low volume is more plausibly explained by the topic being specialized, the calendar horizon being relatively long, and limited arbitrage capital focused on this specific contract (plus many traders will prefer to wait for clearer signals such as formal DOJ filings or Federal Register notices).
+
+4) MISPRICING ASSESSMENT — weighing evidence and critical checks
+- Does the available public evidence indicate a clear, large mispricing (≥20 cents)? No. The public record provides competing countervailing signals: a firm administrative foundation and a presidential EO that raises probability vs. ongoing procedural delays and litigation risk that could push finalization past Dec 31, 2026. That ambiguity makes a 37% price within the plausible range for informed traders (some will be conservative because of procedural risk; others will be optimistic because of the EO). ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+- Critical check: could I be missing the exact resolution criteria or a discrete fact that makes the market outcome near-certain? The market resolution requires DEA action (final rule) by Dec 31, 2026; I confirmed (a) the EO does not itself reschedule; (b) a final rule is still required and (c) the administrative stay/procedural posture remains unresolved. Because these are the very items that determine outcome timing, I am not missing an obvious technicality that would make 37% clearly wrong. ([whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/))
+
+5) EXPECTED VALUE CALCULATION (estimate the value of investigating/trading based on mispricing)
+- Strength of evidence that there is a real mispricing (i.e., that public evidence not yet priced in): I rate this moderate — about 45%. Rationale: the EO and prior NPRM raise the probability materially relative to a baseline of zero, but documented procedural friction and DOJ/DEA silence lower confidence that rescheduling will complete within the calendar year. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+- Magnitude of plausible mispricing (if any): small — I estimate on the order of ~5–10 cents (i.e., the market might be off by only a few percentage points to a single-digit cent move). Large mispricings (20¢+) are not supported by public evidence.  
+- Expected value = Strength × Magnitude = 45% × 7¢ ≈ 3.15¢ → round to EXPECTED_VALUE: 3.2 (cents)
+
+6) CONCLUSION & RECOMMENDATION
+- Bottom line: There is credible, recent evidence that rescheduling is actively being pursued (HHS recommendation + DOJ NPRM + Dec 2025 Executive Order), but there is equally credible, recent evidence that the formal administrative path remains stalled/pending and is exposed to litigation and procedural delay. Those countervailing forces make a timely DEA final rule by Dec 31, 2026 uncertain but plausibly likely in some scenarios. Given the low trading volume and specialized procedural risks, I do not see strong, specific evidence of a large mispricing in this market. If you are considering trading, expect only modest informational edge — the likely expected payoff of additional research/trading is small (a few cents per contract) and the risk of being surprised by internal agency timing or litigation is substantial. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+
+EXPECTED_VALUE: 3.2
+SUMMARY: The administrative record (HHS recommendation + DOJ NPRM) plus a Dec 18, 2025 Executive Order meaningfully raise the chance the DEA will reschedule marijuana in 2026, but procedural stays, an ALJ cancellation/retirement, and likely litigation create a substantial chance of delay past Dec 31, 2026. Given those balanced signals and the market’s very low volume, I find insufficient credible evidence of a large (>20¢) mispricing; expected informational edge is small (~3.2¢). ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+CONFIDENCE: medium
+
+---
+
+## Research Context
+
+*The following sources were found via web search and used in the analysis:*
+
+### [INCREASING MEDICAL MARIJUANA AND CANNABIDIOL RESEARCH](https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/)
+**Author:** The White House | **Published:** 2025-12-18
+
+Official Executive Order (Dec 18, 2025) directing the Attorney General to “take all necessary steps” to complete the rulemaking to reschedule marijuana to Schedule III and directing related agency actions to expand research and CBD policy. This is directly relevant because it is the highest-level political instruction pushing an accelerated timetable; it increases the chance the DEA will seek to finalize a rule in 2026 but (per the order text) does not itself reschedule marijuana. The EO thus supports a higher probability than would exist without it, but it leaves the final legal step to DOJ/DEA and so does not guarantee 2026 finalization. ([whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/12/increasing-medical-marijuana-and-cannabidiol-research/))
+
+### [Federal Register — Proposed Rules (Schedules of Controlled Substances: Rescheduling of Marijuana), 89 Fed. Reg. 44597 (May 21, 2024) (PDF)](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf)
+**Author:** Department of Justice (Attorney General / DEA Notice published in Federal Register) | **Published:** 2024-05-21
+
+The official Notice of Proposed Rulemaking proposing to reschedule marijuana to Schedule III (May 21, 2024). The NPRM contains the DOJ/Attorney General’s analysis and solicited public comments — it is the substantive administrative foundation for any final rule. This source shows that a formal agency process with a public record and tens of thousands of comments already exists, which materially increases the plausibility of eventual rescheduling, but it also explains the legal requirements and procedural steps that must be satisfied before finalization. ([govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2024-05-21/pdf/FR-2024-05-21.pdf))
+
+### [In the Matter of Schedules of Controlled Substances: Proposed Rescheduling of Marijuana — ORDER REGARDING STANDING, SCOPE, AND PREHEARING PROCEDURES (DEA / DOJ PDF)](https://www.dea.gov/sites/default/files/2024-11/Marijuana%20Rescheduling_Order%20re%20Int%20Parties.pdf)
+**Author:** Drug Enforcement Administration / United States Department of Justice | **Published:** 2024-11-XX (document published November 2024; PDF metadata shows 2024-11)
+
+Formal DEA order in the ongoing administrative rulemaking docket (hearing docket No. 24-44) describing hearing procedures, designated participants, and the agency posture; it documents that DEA initiated rulemaking proceedings and fixed hearing dates (then later procedural activity). This primary document demonstrates the administrative record and the specific procedural mechanisms (ALJ hearings, DP designations) that are central to timing and litigation risk. It supports the view that rescheduling requires formal agency procedural work and is not automatic. ([dea.gov](https://www.dea.gov/sites/default/files/2024-11/Marijuana%20Rescheduling_Order%20re%20Int%20Parties.pdf))
+
+### [DEA Judge Grants Interlocutory Appeal, Cancels Cannabis Rescheduling Hearing](https://www.cannabisbusinesstimes.com/cannabis-rescheduling/news/15712039/dea-judge-grants-interlocutory-appeal-cancels-cannabis-rescheduling-hearing)
+**Author:** Unknown | **Published:** 2025-01-13
+
+Industry reporting on ALJ John Mulrooney’s Jan. 13, 2025 order granting an interlocutory appeal and canceling/staying the scheduled rescheduling hearing — explaining the factual allegations, procedural posture, the stay, and that the matter was transmitted to DEA leadership. This source documents procedural delays and the concrete reasons the rescheduling timetable was disrupted, supporting the argument that timing is uncertain even when a proposal and record exist. ([cannabisbusinesstimes.com](https://www.cannabisbusinesstimes.com/cannabis-rescheduling/news/15712039/dea-judge-grants-interlocutory-appeal-cancels-cannabis-rescheduling-hearing))
+
+### [DOJ Has No ‘Comment Or Updates’ on Marijuana Rescheduling—More Than A Month After Trump’s Executive Order](https://www.marijuanamoment.net/doj-has-no-comment-or-updates-on-marijuana-rescheduling-more-than-a-month-after-trumps-executive-order/)
+**Author:** Kyle Jaeger | **Published:** 2026-01-29
+
+Reporting (Jan 29, 2026) that DOJ had no public updates more than 40 days after the Dec 18, 2025 Executive Order; it quotes DOJ spokespeople and legal experts warning of likely litigation and procedural constraints. This supports the inference that the EO did not immediately produce a final rule and that agency silence and potential litigation keep the outcome uncertain for 2026. ([marijuanamoment.net](https://www.marijuanamoment.net/doj-has-no-comment-or-updates-on-marijuana-rescheduling-more-than-a-month-after-trumps-executive-order/))
+
+### [Cannabis in 2026 – Part I: Marijuana Rescheduling—What’s Moving, What Won’t, and Why It Matters](https://www.sheppard.com/insights/blogs/cannabis-in-2026-part-i-marijuana-rescheduling-whats-moving-what-wont-and-why-it-matters)
+**Author:** Unknown (Sheppard Mullin insights) | **Published:** 2026-01-27
+
+Law-firm analysis (Jan 27, 2026) explaining that (a) the Executive Order accelerates political priority but (b) the rescheduling still requires a defensible final agency action; it outlines legal paths DOJ/DEA might take and highlights trade-offs between speed and vulnerability to litigation. This is useful for timeline interpretation — it explains realistic administrative routes and the reasons a 2026 final rule is plausible but not certain. ([sheppard.com](https://www.sheppard.com/insights/blogs/cannabis-in-2026-part-i-marijuana-rescheduling-whats-moving-what-wont-and-why-it-matters))
+
+### [Trump moves to ease cannabis restrictions — what does it mean for consumers? (Reuters)](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-moves-ease-cannabis-restrictions-what-does-it-mean-consumers-2025-12-18/)
+**Author:** Reuters | **Published:** 2025-12-18
+
+News coverage (Dec 18, 2025) of the Executive Order and its practical implications (EO directs DOJ/AG to expedite rescheduling but does not itself change the schedule). Reuters summarizes expert views and notes likely legal and implementation complexities. This source provides neutral press confirmation of the EO and its limits — supporting the assessment that the EO is important but not determinative by itself. ([archive.ph](https://archive.ph/2025.12.19-102354/https%3A/www.reuters.com/business/healthcare-pharmaceuticals/trump-moves-ease-cannabis-restrictions-what-does-it-mean-consumers-2025-12-18/?link_source=ta_first_comment&taid=694526e24225010001b9ca5c&utm_source=openai))

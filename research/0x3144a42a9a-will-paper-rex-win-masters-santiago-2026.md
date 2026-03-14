@@ -1,88 +1,124 @@
 # Research: Will Paper Rex win Masters Santiago 2026?
 
 **Market ID:** 0x3144a42a9a9d0ca52b464f954f1ea9657f55052cd0537d932c2e132fdc7c3025
-**Researched At:** March 4, 2026 at 02:48:10 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Paper Rex win Masters Santiago 2026?"
+**Researched At:** March 14, 2026 at 04:16:46 AM UTC
+**Search Query:** "Will Paper Rex win Masters Santiago 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Paper Rex’s strong early showing justifies a healthy championship probability, but the tournament’s format and depth of field validate a ~25% price. No clear mispricing of more than a few cents is evident.
+Paper Rex is alive but in the lower bracket after a loss to NRG; they have momentum from several high-quality wins, but must win extra elimination series versus strong opposition (NRG, Nongshim). Given the bracket structure and reliable match reporting, the market price (~26.5%) is plausible; I find no clear, credible evidence of a large mispricing. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: بطولة Masters Santiago: كل ما تحتاج لمعرفة (Masters Santiago: Everything you need to know) — PlayValorant (V
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Paper Rex will be crowned champion of the VALORANT Masters Santiago 2026 (Feb 28–Mar 15). For a YES resolution, Paper Rex must win the final. For NO, any other team must win, or the event must be canceled/postponed beyond March 31.
+1) CONTEXT ANALYSIS
+- What the market asks: "Will Paper Rex win Masters Santiago 2026?" — the market resolves YES if Paper Rex is declared the tournament winner (Riot Games official declaration or a consensus of credible reporting such as Liquipedia), and NO otherwise. The tournament is scheduled Feb 28 – Mar 15, 2026; if the event is postponed past Mar 31, 2026 23:59 ET, canceled, or no winner declared within that window, market resolves to "Other". (Market description provided by you; Riot's event page lists the Feb 28–Mar 15 schedule and teams.) ([playvalorant.com](https://playvalorant.com/ar-ae/news/masters-santiago-everything-you-need-to-know?utm_source=openai))
 
-2. EVIDENCE EVALUATION  
-Bullish evidence (suggesting price might be too low):  
-• Paper Rex has looked strong in the Swiss Stage, sweeping G2 and beating NRG (a heavy favorite) 2–1. Their pre-match odds vs NRG (~1.73–1.76) imply ~57–58% win probability in that match.  
-• Their star player invy earned an MVP award, indicating top-tier form and cohesion heading into playoffs.
+- What must happen to resolve YES vs NO:
+  - YES: Paper Rex must win the Grand Final and be officially named Masters Santiago 2026 champions by Riot (or be listed first alphabetically in the rare tie condition described).
+  - NO: Any other team is declared champion, or the event resolves to "Other" as per the cancellation/postponement clause.
 
-Bearish evidence (supporting or implying price might be too high):  
-• Masters Santiago features 12 elite teams in a Swiss + double-elimination bracket—winning requires besting multiple top-seed squads such as NRG, LOUD, Fnatic, etc.  
-• No source quantifies championship odds above ~20–30%; most previews list them among several favorites without singling them out as overwhelming.  
-• The tournament is ongoing; playoff draws and bracket paths remain uncertain, so a wide distribution of champion probabilities is reasonable.
+2) EVIDENCE EVALUATION (all items recent, March 2026)
+- Tournament status / bracket position (context for probability):
+  - NRG defeated Paper Rex 2–0 in the Upper Bracket Semifinal (PRX dropped to the lower bracket). Nongshim RedForce and NRG were set to meet in the upper-final; Paper Rex was fighting through the lower bracket. These bracket results mean PRX must win more elimination series than the remaining upper-bracket team(s) to lift the trophy. ([insider-gaming.com](https://insider-gaming.com/nongshim-and-nrg-upper-final-at-valorant-masters/))
+- Evidence that could suggest the market price (26.5%) is too low (i.e., supports upward revision):
+  - Paper Rex has shown strong form at this event: wins over G2 in Swiss, a reverse-sweep win over FURIA in Playoffs, and subsequent lower-bracket victories (All Gamers, G2 rematch) indicate momentum and the ability to string together multiple elimination wins — traits of successful lower-bracket runs. If PRX is currently deep in the lower bracket with recent convincing map-level performance, their true probability of an upset run could be higher than naïve seed-based numbers imply. Sources documenting PRX wins and strong map stats: VLR match pages and media writeups. ([vlr.gg](https://www.vlr.gg/post/6325833/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf?utm_source=openai))
+- Evidence that supports the market price (i.e., PRX is correctly discounted):
+  - PRX lost to NRG in the upper semis (2–0), and NRG (as 2025/early-2026 world-class contenders) plus Nongshim RedForce (strong Pacific #1) appear to be among the tournament favorites. PRX being in the lower bracket means they face a longer path (more series to win) and more elimination risk. Coverage from Insider Gaming and multiple esports outlets frames NRG and Nongshim as the teams with the simpler path to the final; that structural disadvantage supports a sub‑1/3 chance for PRX. ([insider-gaming.com](https://insider-gaming.com/nongshim-and-nrg-upper-final-at-valorant-masters/))
+- Credibility & recency of sources:
+  - Riot/PlayValorant (official VALORANT Esports): authoritative for schedule, format, official rules. Published Feb 20, 2026. ([playvalorant.com](https://playvalorant.com/ar-ae/news/masters-santiago-everything-you-need-to-know?utm_source=openai))
+  - VLR.gg: tournament match pages with map-level stats/VOD links; timely, high credibility for match results. Pages for PRX vs NRG and PRX vs G2 show March timestamps. ([vlr.gg](https://www.vlr.gg/post/6325833/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf))
+  - Insider Gaming, EsportsInsider, TheSpike, ABS-CBN, Philstar, bo3.gg: reputable esports reporting outlets covering results and narratives; all are recent (March 2026) and consistent on the key match outcomes. ([insider-gaming.com](https://insider-gaming.com/nongshim-and-nrg-upper-final-at-valorant-masters/))
+  - Community sources (Reddit threads) provide color but are lower credibility; I referenced them only for sentiment/collective interpretation, not as primary evidence.
+- Bullish (PRX win) case distilled:
+  - PRX has already beaten top teams at this event (G2, FURIA, All Gamers, G2 again), showing map control and clutch performances from core players. Lower‑bracket momentum and demonstrated resilience (reverse sweep vs FURIA) are common predictors of deep runs in double-elim events. If the remaining favorites have tougher matchups or are off-form, PRX’s path becomes more plausible. ([vlr.gg](https://www.vlr.gg/post/6338140/paper-rex-vs-g2-esports-valorant-masters-santiago-2026-lr3?utm_source=openai))
+- Bearish (PRX not win) case distilled:
+  - PRX lost cleanly to NRG in the upper semis; NRG and Nongshim RedForce remain strong and, sitting in the upper bracket or with easier paths, have fewer series to win. PRX must win multiple consecutive elimination series (higher variance). Structural disadvantage + elite opposition reduces PRX’s implied win probability. ([vlr.gg](https://www.vlr.gg/post/6325833/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf))
+- Skepticism about “obvious” evidence:
+  - The fact PRX beat some favorites in earlier matches doesn't by itself imply they will win the tournament — double-elim brackets and best-of-3/5 series introduce matchup and variance effects. If PRX's wins relied on favorable map picks or opponent mistakes, that could already be priced by traders; conversely, if PRX's form is genuinely superior, informed traders should already have moved the price upward. The market’s low volume raises the possibility that recent match wins have not fully propagated into price, but one must not assume large unpriced edges without clearer misalignment between match outcomes and market price.
 
-Source credibility & recency:  
-• VLR.gg and Philstar provide match reports dated March 3–4, 2026—highly relevant and reliable for current form.  
-• The viewer’s guide (TheSpike.gg) and preview (Freetips) are credible but offer no concrete champion odds.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify a 26–27% price:
+  - If the tournament currently has ~3 strong contenders (NRG, Nongshim, PRX) and PRX is in the lower bracket, a market price in the mid‑20s is plausible: e.g., a 3‑team scenario with the lower‑bracket team somewhat disadvantaged could justify PRX ≈ 20–35%. Market price sits inside that range.
+  - Traders may be discounting PRX for having already lost to NRG and needing to win more matches, while giving credit for PRX’s wins vs top opposition — that tradeoff yields a mid‑20s probability.
+- Could the price reflect one or few traders?
+  - Total volume ($2,487) and the market age (22 days, tight 3¢ spread) indicate low liquidity. Low volume markets are frequently set by a small number of active participants; therefore the price may reflect concentrated opinions rather than broad information aggregation. The price’s proximity to plausible values (see previous point) suggests it may nevertheless have absorbed the most salient public info (match outcomes).
+- Why low volume might exist here:
+  - Possible reasons: (a) many informed traders use specialized betting or betting exchanges, not this market; (b) the outcome is time‑sensitive so many traders prefer to wait until bracket clarity; (c) the market’s liquidity is small because esports markets attract fewer participants than mainstream sports markets. None of these necessarily implies mispricing; they just increase the chance that a persistent, uncorrected misprice could exist.
 
-Too-obvious signals (strong Swiss performance) have not produced larger moves in price, suggesting the market has already internalized their momentum.
+4) MISPRICING ASSESSMENT (do we have credible evidence of mispricing?)
+- Bottom line: I do not find specific, credible evidence that the market is grossly mispriced (i.e., > 20¢) in favor of either YES or NO. The available match results and bracket structure (NRG beating PRX, PRX’s lower‑bracket wins, Nongshim/NRG strength) provide a coherent narrative that supports a mid‑20s probability for PRX. The market price (26.5%) is within a reasonable range implied by (a) PRX’s resilience and wins and (b) their lower‑bracket position versus still‑strong upper‑bracket teams.
+- What would be needed to conclude mispricing:
+  - A clear, objective signal that materially changes PRX’s chances that has not been priced in — e.g., a credible report that a star opponent is injured/suspended (reducing competition) or that PRX has internal issues causing collapse (increasing downside), or a bracket/format technicality the market is misunderstanding. I did not find any such signal in credible news sources. Coverage to date documents normal competitive outcomes, not extraordinary disqualifying or hidden information. ([insider-gaming.com](https://insider-gaming.com/nongshim-and-nrg-upper-final-at-valorant-masters/))
+- Critical check (have I missed a resolution technicality?): The market’s resolution criteria are straightforward (Riot or consensus reporting). I verified Riot’s official event page for dates and format; there are no hidden special-conditions in the market text that would make a declared tournament winner invalid. The tournament is still scheduled to finish Mar 15, 2026; no cancellation notices or postponements were found. ([playvalorant.com](https://playvalorant.com/ar-ae/news/masters-santiago-everything-you-need-to-know?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 25% chance can reflect a consensus that Paper Rex is one of the top three contenders in a 12-team field, roughly consistent with standard bookmaker odds.  
-• Low volume may simply indicate that the prevailing view is widely accepted and offers no easy edge, rather than that only one trader set the price.  
+5) EXPECTED VALUE CALCULATION (value of investigating / trading)
+- Strength of evidence (how confident we are that specific evidence meaningfully changes price): I rate the strength at ~40%. The match results and bracket positions are reliable, but they are already public and plausibly already reflected in price; low liquidity is the only flag that some information might be unpriced.
+- Plausible magnitude of mispricing if one exists: small — probably on the order of 3–8 cents (PRX might be mispriced by a few cents if traders under-reacted to recent wins or slightly over-discounted the lower‑bracket path). I choose a conservative midpoint of 5 cents.
+- Expected value = Strength × Magnitude = 0.40 × 5 cents = 2.0 cents.
+  - EXPECTED_VALUE: 2.0
 
-4. MISPRICING ASSESSMENT  
-No specific, high-confidence evidence suggests the market is mispricing Paper Rex by more than a few cents. Their strong form supports a sizable chance, but bracket uncertainty and multiple contenders justify a sub-30% price.
+6) CONFIDENCE
+- My confidence in this overall assessment: medium.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: ~20% (limited actionable gap)  
-• Magnitude of mispricing if any: ~5¢  
-• Expected value = 0.20 × 5¢ = 1.0¢
+Short justificatory recap:
+- Market price (26.5%) sits in the plausible range given PRX’s demonstrated event form but disadvantaged bracket placement and strong opponents remaining (NRG, Nongshim). Recent match wins for PRX make a larger probability credible; their loss to NRG and the higher elimination risk make a lower probability credible. No specific public evidence (injury, disqualification, rule quirk) was found that would justify declaring a significant mispricing.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Paper Rex’s strong early showing justifies a healthy championship probability, but the tournament’s format and depth of field validate a ~25% price. No clear mispricing of more than a few cents is evident.  
-CONFIDENCE: medium
+EXPECTED_VALUE: 2.0
+SUMMARY: Paper Rex is alive but in the lower bracket after a loss to NRG; they have momentum from several high-quality wins, but must win extra elimination series versus strong opposition (NRG, Nongshim). Given the bracket structure and reliable match reporting, the market price (~26.5%) is plausible; I find no clear, credible evidence of a large mispricing. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Paper Rex vs. NRG | Valorant Masters Santiago 2026
-URL: https://www.vlr.gg/626529/paper-rex-vs-nrg-valorant-masters-santiago-2026-r2-1-0
-Summary: Paper Rex is competing in the Valorant Masters Santiago 2026 Swiss Stage, with recent matches showing strong performance. They recently defeated NRG 2-1 in Round 2, with strategic map bans and picks, including banning Abyss and Corrode, and selecting Split and Pearl. Betting odds favored Paper Rex pre-match at approximately 1.73-1.76, indicating a favorable expectation of their success. Their current form and strategic map choices suggest they are strong contenders, but the outcome depends on their performance in upcoming matches against other top teams.
+### [بطولة Masters Santiago: كل ما تحتاج لمعرفة (Masters Santiago: Everything you need to know) — PlayValorant (VALORANT Esports)](https://playvalorant.com/ar-ae/news/masters-santiago-everything-you-need-to-know)
+**Author:** Valorant Esports Staff | **Published:** 2026-02-20
 
-Title: Masters Santiago: Paper Rex And M8 Punch Playoff Tickets
-Author: 
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.hotspawn.com/valorant/news/prx-m8-reach-masters-santiago-playoffs
-Summary: The webpage provides information about upcoming major esports tournaments, including the ESL Pro League, BLAST Open Spring 2026, and other significant Counter-Strike events scheduled from February to May 2026. However, it does not include specific details about Paper Rex's current form, roster, recent performance, or head-to-head matchups at Masters Santiago 2026. Therefore, predicting whether Paper Rex will win Masters Santiago 2026 based solely on this page is not possible. Additional insights into Paper Rex's recent results, team dynamics, and tournament history would be necessary for an informed prediction.
+Riot’s official Masters Santiago overview (published Feb 20, 2026). It lists tournament dates (Feb 28–Mar 15, 2026), format (Swiss then double-elim Playoffs), participating teams (including Paper Rex), and streaming/pick’em details. This is authoritative for tournament schedule, resolution sources (Riot as the official organizer), and the conditions that must be met for the market to resolve — directly relevant to the market’s resolution criteria and timeline. It supports the claim that the tournament is ongoing and that Riot reporting is the resolution authority. ([playvalorant.com](https://playvalorant.com/ar-ae/news/masters-santiago-everything-you-need-to-know?utm_source=openai))
 
-Title: VALORANT Masters Santiago: Ultimate viewer's guide
-URL: https://www.thespike.gg/valorant/news/valorant-masters-santiago-viewers-guide/7677
-Summary: The VALORANT Masters Santiago 2026 features 12 top international teams competing over 16 days in Santiago, Chile, with a format including a Swiss Stage and double-elimination Playoffs. Paper Rex, representing the Pacific region, is one of the qualified teams, but the event's outcome depends on their performance in the Swiss Stage and subsequent playoffs. As of now, there are no definitive indicators predicting whether Paper Rex will win, as success hinges on their form, matchups, and performance against other elite teams during the tournament.
+### [Paper Rex vs. NRG | Valorant Masters Santiago 2026 | Playoffs — VLR.gg match page](https://www.vlr.gg/626542/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf/)
+**Author:** VLR.gg (match page) | **Published:** 2026-03-09
 
-Title: Paper Rex advances to Valorant Masters Santiago playoffs - Philstar.com
-Author: 
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://qa.philstar.com/sports/2026/03/03/2511730/paper-rex-advances-valorant-masters-santiago-playoffs/amp/
-Summary: Paper Rex has demonstrated strong performance at the Valorant Masters Santiago 2026, securing an early playoff spot by winning their Swiss Stage matches, including a decisive sweep against G2 Esports and a hard-fought series against NRG. Their standout player, Adrian "invy" Reyes, was named series MVP, highlighting their skill and team cohesion. While their success indicates they are a top contender, the outcome of the tournament depends on subsequent playoff matches and competition from other teams. Their current form and momentum suggest they are well-positioned to contend for the title, but a definitive prediction requires observing their performance in the knockout stages.
+VLR’s match page for the Upper Semifinal where NRG defeated Paper Rex 2–0 (Pearl, Bind, Split map sequence and per‑map stats). The page includes timestamps, map scores, player-level ACS/KDA and links to VODs. This is primary evidence of the key bracket result that put PRX into the lower bracket — a major input to any probability estimate. It supports the bearish case (PRX must take a longer path) and is high‑credibility match data. ([vlr.gg](https://www.vlr.gg/post/6325833/paper-rex-vs-nrg-valorant-masters-santiago-2026-ubsf))
 
-Title: VALORANT Masters Santiago 2026 Tournament Preview & Guide – Paper Rex Can Deliver in Chile
-Author: Tit Krajnik 
-             24 Feb 2026
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.freetips.com/esports/valorant-masters-santiago-2026-tournament-preview-guide-20260224-0024/
-Summary: The VALORANT Masters Santiago 2026, taking place from February 28 to March 15, features 12 top-tier teams competing for a $1 million prize and crucial Championship Points. Among the favorites are VCT Americas powerhouse NRG and VCT Pacific team Paper Rex, both leading betting markets. While Paper Rex has shown strong performance and is considered a potential contender, the tournament's format—a Swiss Stage followed by double-elimination playoffs—means outcomes are uncertain. Their ability to deliver in Chile depends on their form during the event, but current betting trends suggest they are well-positioned to contend for the title.
+### [Paper Rex vs. G2 Esports | Valorant Masters Santiago 2026 | Playoffs — VLR.gg match page](https://www.vlr.gg/626549/paper-rex-vs-g2-esports-valorant-masters-santiago-2026-lr3/)
+**Author:** VLR.gg (match page) | **Published:** 2026-03-13
 
+VLR match page for a lower‑bracket match in which Paper Rex defeated G2 (map and player stats). It documents PRX’s ability to rebound and win elimination matches against high-caliber opposition. This supports the bullish case (PRX has momentum and can string wins) and shows why PRX’s win probability should not be treated as negligible. ([vlr.gg](https://www.vlr.gg/post/6338140/paper-rex-vs-g2-esports-valorant-masters-santiago-2026-lr3))
 
+### [Nongshim RedForce and NRG Clinch Upper Final Berths at Valorant Masters Santiago](https://insider-gaming.com/nongshim-and-nrg-upper-final-at-valorant-masters/)
+**Author:** Darragh Harbinson | **Published:** 2026-03-10
+
+Coverage of Upper Semifinal outcomes: Nongshim RedForce defeating G2 and NRG beating Paper Rex, setting Nongshim vs NRG in the upper final. The article explicitly notes PRX falling to the lower bracket and that PRX would face All Gamers in the lower bracket — useful for bracket context and assessing relative path difficulty. This supports the assessment that PRX faces a longer, higher‑variance path than upper‑bracket teams. ([insider-gaming.com](https://insider-gaming.com/nongshim-and-nrg-upper-final-at-valorant-masters/))
+
+### [Paper Rex and Nongshim RedForce win Masters Santiago Playoffs matches](https://esportsinsider.com/2026/03/valorant-masters-santiago-paper-rex-nongshim-redforce-playoffs-wins)
+**Author:** Unknown | **Published:** 2026-03-07
+
+EsportsInsider coverage (March 7, 2026) of early Playoffs matches, noting Paper Rex’s reverse-sweep vs FURIA and Nongshim’s wins. The piece highlights PRX’s strong in‑event form and key individual performances (e.g., d4v41’s play), supporting the case that PRX has demonstrated the ability to overcome deficits and win elimination-style series — an argument for a non-trivial tournament win probability. ([esportsinsider.com](https://esportsinsider.com/2026/03/valorant-masters-santiago-paper-rex-nongshim-redforce-playoffs-wins?utm_source=openai))
+
+### [Paper Rex completes reverse sweep of FURIA in VALORANT Masters Santiago Playoffs opener — ABS-CBN Sports](https://www.abs-cbn.com/sports/esports/2026/3/7/paper-rex-completes-reverse-sweep-of-furia-in-valorant-masters-santiago-playoffs-opener-1323)
+**Author:** Unknown | **Published:** 2026-03-07
+
+ABS-CBN Sports report (Mar 7, 2026) describing PRX’s reverse-sweep vs FURIA in the playoffs opener, with player highlights and quotes. This is another independent confirmation of PRX’s resilience and high-impact performances at the event — evidence that PRX’s lower‑bracket status is partly offset by measurable momentum. It supports a modest upward adjustment to PRX’s chances relative to a naive seed-based ranking. ([abs-cbn.com](https://www.abs-cbn.com/sports/esports/2026/3/7/paper-rex-completes-reverse-sweep-of-furia-in-valorant-masters-santiago-playoffs-opener-1323?utm_source=openai))
+
+### [Paper Rex earns the last slot at the Masters Santiago 2026 — bo3.gg](https://bo3.gg/valorant/news/paper-rex-earns-the-last-slot-at-the-masters-santiago-2026)
+**Author:** Unknown | **Published:** 2026-02-16
+
+Pre-tournament coverage documenting how Paper Rex qualified for Masters Santiago via the Pacific Kickoff lower‑bracket run. Useful background confirming PRX’s route into the event and historical resilience; shows that PRX’s pedigree includes lower‑bracket runs which can inform predictive priors about tournament behavior. This supports the notion that PRX is a team capable of stringing together multiple wins (context for assessing upset probability). ([bo3.gg](https://bo3.gg/valorant/news/paper-rex-earns-the-last-slot-at-the-masters-santiago-2026?utm_source=openai))
+
+### [Paper Rex advances to Valorant Masters Santiago playoffs — The Philippine Star (Philstar)](https://www.philstar.com/sports/2026/03/03/2511730/paper-rex-advances-valorant-masters-santiago-playoffs/amp/)
+**Author:** Unknown | **Published:** 2026-03-03
+
+Short news piece (Mar 3, 2026) on PRX advancing to the Playoffs at Masters Santiago and featuring photos/commentary. It corroborates the event timeline and PRX’s placement in Playoffs and provides another mainstream-news verification of match outcomes and PRX’s presence in the bracket. This supports the basic event facts used in assessing market odds. ([philstar.com](https://www.philstar.com/sports/2026/03/03/2511730/paper-rex-advances-valorant-masters-santiago-playoffs/amp/?utm_source=openai))

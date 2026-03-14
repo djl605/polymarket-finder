@@ -1,88 +1,105 @@
 # Research: Will any OpenAI GPT model score at least 70% on the FrontierMath Exam?
 
 **Market ID:** 0x83d04b8c361197688102eaad1d1baa49cd25ea02565000baa2607c4d5988ff28
-**Researched At:** March 6, 2026 at 02:49:11 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will any OpenAI GPT model score at least 70% on the FrontierMath Exam?"
+**Researched At:** March 14, 2026 at 04:15:42 AM UTC
+**Search Query:** "Will any OpenAI GPT model score at least 70% on the FrontierMath Exam?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.0¢
+**Expected Value:** 1.4¢
 
 ### Summary
 
-Epoch AI data show GPT-5.4 at only 52% on FrontierMath Tiers 1–3 and no roadmap for a 70% result by June, making the market’s 22% seem too high. Bullish benchmarks are from different tests or speculative models not on the official leaderboard.
+Epoch (the contract’s resolver) reports GPT‑5.4 Pro at 50% on FrontierMath Tiers 1–3 (Mar 2026); reaching 70% by Jun 30 remains possible but challenging. Given Epoch’s methodology and pass@ analysis, a modest chance (~25%) of hitting 70% is plausible; the market price 21.5% is therefore close to a reasonable assessment and shows only a small probable mispricing. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: FrontierMath Tier 4
+URL: https://epoch.ai/benchmarks/frontiermath-tier-4
+Author: Epoch AI
+Date:
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether by June 30, 2026 any OpenAI GPT model will score ≥70% on the FrontierMath Exam (Tiers 1–3) as recorded on Epoch AI’s leaderboard. A “Yes” requires at least one model formally evaluated and published on the leaderboard achieving that threshold by the deadline; anything below 70% or only anecdotal/unpublished claims resolves “No.”
+CONTEXT ANALYSIS
+- What the market is asking: will any OpenAI GPT model achieve a score ≥70% on Epoch AI’s FrontierMath Tiers 1–3 by 11:59 PM ET on June 30, 2026. Resolution is explicitly tied to Epoch AI’s FrontierMath leaderboard (Tier 1–3 private set) as the primary source; other reporting can be used only by consensus of credible outlets.
+- YES resolves if Epoch’s leaderboard shows a qualifying OpenAI GPT model run with accuracy ≥70% on FrontierMath Tiers 1–3 before the deadline. NO resolves otherwise (including if OpenAI publishes an internal result that Epoch does not list).
 
-2. EVIDENCE EVALUATION  
-Bearish evidence (suggesting 22% is too high):  
-• Epoch AI (Mar 5, 2026): GPT-5.4 Pro scored 52% on Tiers 1–3—well below 70%, with no near-term follow-ons on the leaderboard.  
-• O3 production models publicly score ≈10% on FrontierMath (per O3 analysis), making dramatic jumps unlikely in 3½ months.  
-• AIME performance (96.7% by O3) doesn’t directly translate to FrontierMath, which targets unsolved, adversarial Tier 3 problems.  
+EVIDENCE EVALUATION (all sources checked are recent and directly relevant)
+Evidence that suggests the market price might be too low (i.e., a non‑negligible chance of YES):
+- Epoch’s public benchmarking dashboard (Mar 5–9, 2026 updates) reports that GPT‑5.4 Pro (OpenAI) set a new FrontierMath record on Tiers 1–3 with 50% accuracy. That shows very fast recent upward capability movement from earlier reported SOTA and demonstrates that OpenAI can push scores substantially in short intervals. (Epoch update). ([epoch.ai](https://epoch.ai/data/ai-benchmarking-dashboard))
+- Epoch’s own earlier analysis argued that 70% for Tiers 1–3 is plausible within the “first half of next year” if gains chiefly improve reliability on problems already solved at least once (their “pass@the-kitchen-sink” analysis). This is an explicit, expert projection that supports non-zero probability of reaching 70% within the coming months. (Epoch Gradient Updates, Oct 17, 2025). ([epoch.ai](https://epoch.ai/gradient-updates/less-than-70-percent-of-frontiermath-is-within-reach-for-todays-models))
+- Historical company claims: OpenAI earlier reported high FrontierMath results for internal runs (GPT‑5.2 Thinking ~40.3% per OpenAI’s December 2025 post). That shows companies may use more powerful internal scaffolds and iterate quickly, which could produce further rapid improvements if Epoch can evaluate those runs. (OpenAI claim). ([openai.com](https://openai.com/te-IN/index/gpt-5-2-for-science-and-math/))
 
-Bullish evidence (supporting some nonzero chance):  
-• OpenAI’s GDPval performance (83%) indicates strong reasoning improvement; traders might extrapolate progress to FrontierMath.  
-• RLHF breakthroughs could yield sudden gains (EA Forum’s GPT-o1 achieving ~70% is speculative but signals a research direction).  
+Evidence that supports the market price as reasonable (i.e., a substantial chance NO remains):
+- Epoch is the official resolution source and has a conservative, transparent scaffold and private problem set. Epoch’s long-run data show that many problems are still unsolved and that pass@N for the best models exhibits diminishing returns — their empirical pass@N curves suggest a cap well below 100% and they estimated a practical ceiling near or below 70% for the current set of models/runs. That makes a jump from 50% → 70% within ~3.5 months non‑trivial. ([epoch.ai](https://epoch.ai/gradient-updates/less-than-70-percent-of-frontiermath-is-within-reach-for-todays-models))
+- The benchmark’s methodology (models must submit a Python answer() and have limited runtime; Epoch’s scaffold and token budget are strict) reduces the chance that a vendor-internal evaluation (using different scaffolds or more test-time compute) will transfer to the Epoch leaderboard unless Epoch runs the model under their settings. Epoch explicitly notes OpenAI had exclusive access to some parts of the dataset and that company-run evaluations may differ from Epoch’s results. In practice, only Epoch’s scores count for resolution. That reduces the probability mass assigned to open-ended vendor claims that don’t appear on Epoch’s leaderboard. ([epoch.ai](https://epoch.ai/benchmarks/frontiermath))
+- Practical pace: recent step changes (e.g., from ~40% → 50%) are large but still short of 70%; historically, further gains have required more compute, improved scaffolding (tooling, web search), or models solving problems previously never solved. Epoch’s analysis shows much of the remaining unsolved set may be genuinely hard and not trivially reachable with more tuning. ([epoch.ai](https://epoch.ai/gradient-updates/less-than-70-percent-of-frontiermath-is-within-reach-for-todays-models))
 
-Source credibility & recency:  
-Epoch AI’s benchmark data (Mar 5) is authoritative and current; OpenAI’s GDPval data (Mar 5) is official but on a different benchmark; O3 production analysis is secondary but consistent; EA Forum is reputable but its specific numbers are unaudited.
+Source credibility and recency
+- Epoch AI (benchmark owner/operator) is the authoritative source for this market’s resolution. Their pages and updates (methodology, changelog, dashboard) are primary and recent (Mar 2026 updates). Highly credible for the market’s terms. ([epoch.ai](https://epoch.ai/benchmarks/frontiermath))
+- OpenAI is the developer of relevant models and a primary source for company-run evaluations (OpenAI’s GPT‑5.2 claim). Company claims are important, but Epoch warns company-run evaluations may differ from Epoch’s scaffold; Epoch is the contractually relevant arbiter. ([openai.com](https://openai.com/te-IN/index/gpt-5-2-for-science-and-math/))
+- Community analyses (e.g., technical posts, LessWrong threads) largely echo Epoch/OpenAI facts and provide interpretation. Useful for context but lower weight than Epoch’s official numbers. ([lesswrong.com](https://www.lesswrong.com/posts/sKCYLEN5EYLuokDft/gpt-5-4-is-a-substantial-upgrade?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 22% price could represent:  
-• A minority “hail-Mary” view that GPT-6 or major RLHF advances arrive before June.  
-• Low-volume inertia—traders haven’t fully incorporated the March 5 GPT-5.4 results.  
-• Genuine consensus that incremental advances yield a modest (~1-in-5) chance of a breakthrough.  
+MARKET EFFICIENCY ANALYSIS
+- Current market snapshot (today, Mar 14, 2026): Price 21.5% (21.5¢), zero total volume, 3¢ spread, market age 43 days. Low volume + tight spread suggests a few traders set price but with consensus or minimal liquidity provision.
+- Charitable interpretations that justify 21.5%:
+  - The market correctly prices the nontrivial but unlikely chance that an OpenAI model will reach ≥70% on Epoch’s official leaderboard by June 30. Given Epoch’s 50% measurement for GPT‑5.4 Pro (Mar 5) and Epoch’s pass@ analysis, a ~15–30% probability is plausible; 21.5% falls inside that reasonable band.
+  - Low volume could reflect that knowledgeable traders view this as a difficult binary with modest upside and are either uncertain or strategically inactive; tight spread may be an artifact of the platform’s quoting rules rather than deep liquidity.
+- Alternative (inefficient) interpretations:
+  - The market price could reflect a single contrarian trader’s view (over- or under-confidence) because total volume is zero — small markets are more easily moved by individual beliefs.
+  - Market participants may have underweighted Epoch’s recent GPT‑5.4 evaluation (50%) and Epoch’s own projection that 70% could arrive in the first half of 2026, or conversely they may be skeptical of vendor/bench claims and underweight the chance.
 
-Given the tight spread yet $320 volume, it’s plausible one or two traders set this price without broad engagement.
+MISPRICING ASSESSMENT (weighing evidence objectively)
+- Key facts (contractual/resolution-relevant):
+  - Epoch’s public dashboard (Mar 5, 2026) reports GPT‑5.4 Pro scored 50% on FrontierMath Tiers 1–3 — the SOTA on the authoritative leaderboard as of early March. This is the most important datapoint. ([epoch.ai](https://epoch.ai/data/ai-benchmarking-dashboard))
+  - The market needs a model to reach 70% on the Epoch leaderboard by Jun 30; current SOTA 50% leaves a 20-point gap to close in ≈3.5 months.
+- Probability assessment (plausible numeric reasoning):
+  - Upside case (how YES could happen): OpenAI (or another org with an OpenAI GPT-labeled run) releases another large model update (or an Epoch-evaluated scaffold run with more test-time compute or better tool integration) that improves FrontierMath performance rapidly, concentrating gains on problems already seen solved at least once (improving reliability). Epoch’s own projection indicated 70% “could” arrive in the first half of the year under optimistic assumptions. ([epoch.ai](https://epoch.ai/gradient-updates/less-than-70-percent-of-frontiermath-is-within-reach-for-todays-models))
+  - Downside case (why NO is likeliest): Epoch’s scaffold and pass@ analysis show diminishing returns and that roughly 20% of the problems may be out of reach for current approaches; bridging 20 points in a few months is a large, but not impossible, jump.
+- Conclusion about mispricing: there is no clear, credible evidence that the market is massively mispriced. The market price (21.5%) is in the same order of magnitude as a reasoned estimate for the chance of a 20-point improvement in ~3.5 months. Given Epoch’s authoritative role and the remaining technical uncertainty, I see only a small possible edge (market slightly low) — not a decisive arbitrage.
 
-4. MISPRICING ASSESSMENT  
-Weighing both sides, current models are at ~52% with no clear roadmap to 70% by June. The bullish extrapolations rely on different benchmarks or speculative prototypes not on the official leaderboard. Thus 22% likely overstates the chance; a more realistic probability might be closer to 10%. No overlooked technicalities in the resolution wording appear to invalidate this. 
+EXPECTED VALUE CALCULATION
+- My qualitative assessment: fair probability that Epoch will report an OpenAI GPT model ≥70% by June 30, 2026 ≈ 25% (point estimate), versus market 21.5% → implied mispricing magnitude ≈ 3.5 percentage points (3.5¢).
+- Strength of evidence (how confident I am that the specific missing info would change the price): moderate = 40%. Rationale: Epoch’s March 2026 SOTA (50%) increases the chance relative to earlier months, and Epoch’s own projection leaves an explicit nonzero path to 70% in H1 2026; but the technical difficulty and short timeline leave high uncertainty.
+- Expected value = Strength × Magnitude = 40% × 3.5¢ = 1.4¢
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is too high: ~50%  
-Magnitude of mispricing (22% vs ~10% fair): ~12¢  
-Expected value = 0.50 × 12¢ = 6¢  
+CRITICAL CHECK (self‑challenge)
+- I confirmed the exact resolution criteria: Epoch AI FrontierMath Tiers 1–3 leaderboard is primary and required for resolution. Company-internal claims only count if published on the Epoch leaderboard or otherwise accepted by a consensus of credible reporting (market description). The Epoch dashboard is current and authoritative. Given the required Epoch-run result, internal OpenAI runs that are not on Epoch’s leaderboard do not resolve the market. I therefore do not see a major overlooked technicality that would make the current price obviously wrong.
+- The potential for a >20¢ mispricing is implausible here and I find no evidence supporting such a large mispricing.
 
-EXPECTED_VALUE: 6  
-SUMMARY: Epoch AI data show GPT-5.4 at only 52% on FrontierMath Tiers 1–3 and no roadmap for a 70% result by June, making the market’s 22% seem too high. Bullish benchmarks are from different tests or speculative models not on the official leaderboard.  
-CONFIDENCE: medium
+FINAL ASSESSMENT & RECOMMENDATION
+- The market price (21.5%) is broadly reasonable given (a) Epoch’s authoritative score of 50% for GPT‑5.4 Pro on Tiers 1–3 (Mar 5, 2026), (b) Epoch’s analysis showing a capped pass@ curve and nontrivial hard remainder, and (c) the short time till Jun 30, 2026. There may be a small undervaluation (~3–4¢) because rapid vendor iterations have historically produced jump improvements and Epoch itself suggested 70% could be reached in H1 2026 under optimistic assumptions, but the evidence is not strong enough to justify a large discrepancy.
+- In practical terms: this looks like a low‑EV, low‑confidence trade unless you have additional private information (e.g., knowledge of an imminent Epoch-evaluated OpenAI run or an announced model release that Epoch will evaluate before June 30). For public-information trading, expected value is small (~1.4¢) and risk is substantial.
+
+EXPECTED_VALUE: 1.4
+SUMMARY: Epoch (the contract’s resolver) reports GPT‑5.4 Pro at 50% on FrontierMath Tiers 1–3 (Mar 2026); reaching 70% by Jun 30 remains possible but challenging. Given Epoch’s methodology and pass@ analysis, a modest chance (~25%) of hitting 70% is plausible; the market price 21.5% is therefore close to a reasonable assessment and shows only a small probable mispricing. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: GPT-5.4 set a new record on FrontierMath - Epoch AI
-Author: Epoch AI
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://epochai.substack.com/p/gpt-54-set-a-new-record-on-frontiermath
-Summary: The recent evaluation of GPT-5.4 Pro on the FrontierMath benchmark, which tests extremely challenging math problems, shows that the model achieved a 52% success rate on Tiers 1–3 and a 25% success rate on Tier 4 (non-held-out problems). Notably, GPT-5.4 Pro solved one previously unsolved Tier 4 problem, indicating significant progress but still falling short of a 70% success threshold. Given these results, current GPT models have not yet demonstrated the capability to reliably score at least 70% on the FrontierMath Exam.
+### [FrontierMath Tier 4](https://epoch.ai/benchmarks/frontiermath-tier-4)
+**Author:** Epoch AI | **Published:** 2026-01-23
 
-Title: Introducing GPT-5.4 - OpenAI
-Published Date: 2026-03-05T20:48:51.331Z
-URL: https://openai.com/index/introducing-gpt-5-4/
-Summary: OpenAI's GPT-5.4, released on March 5, 2026, is their most advanced professional-grade model, excelling in reasoning, coding, and complex workflows. It demonstrates significant improvements in accuracy and efficiency across various tasks, including knowledge work and tool integration. Notably, GPT-5.4 achieves an 83.0% success rate on the GDPval benchmark, which assesses performance across 44 occupations involving real-world deliverables like spreadsheets, presentations, and diagrams. Given its high performance—surpassing previous models and industry standards—it is highly likely that GPT-5.4 could score at least 70% on the FrontierMath Exam, reflecting its strong reasoning and problem-solving capabilities.
+Epoch’s FrontierMath page documents the dataset (350 problems split into Tiers 1–3 and Tier 4), the evaluation methodology (models submit a Python answer() and may run Python; token/run limits), and key changelog notes about regrading and fixes. It explicitly states that FrontierMath was developed with OpenAI funding and that company-run evaluations may use different scaffolds; Epoch also explains that their public/private splits and scaffold differ from some vendor internal runs. This is directly relevant because the market resolves to Epoch’s leaderboard and the page explains exactly how Epoch scores runs, what data are private, and how differences in scaffold can change measured accuracy — all central to assessing whether reported vendor scores would count for this market. ([epoch.ai](https://epoch.ai/benchmarks/frontiermath))
 
-Title: Why OpenAI Released a Weaker O3 (The Real Reason)
-URL: https://aibusinessweekly.net/p/openai-o3-production-vs-preview-differences
-Summary: OpenAI has developed multiple versions of its O3 model with varying performance levels and costs. The initial demo version (O3-Preview) demonstrated exceptional capabilities, achieving over 25% on FrontierMath and 87.5% on ARC-AGI, but it was extremely expensive—costing around $34,400 per task. The publicly available production version of O3, released in April 2025, performs significantly worse, scoring approximately 10% on FrontierMath and around 41-53% on ARC-AGI, with much lower costs. A premium version, O3-Pro, launched later, offers better performance than the standard production model but still does not reach the benchmark levels of the demo, with performance below the initial 87.5%. Given this, the current publicly accessible models are unlikely to score at least 70% on FrontierMath, as even the most advanced publicly available versions fall well short of the demo's high performance.
+### [Data on AI Capabilities and Benchmarking (Benchmarking updates; FrontierMath SOTA)](https://epoch.ai/data/ai-benchmarking-dashboard)
+**Author:** Epoch AI | **Published:** 2026-03-09
 
-Title: Teaching AI to reason: this year's most important story — EA Forum
-Published Date: 2025-02-13T00:00:00.000Z
-URL: https://forum.effectivealtruism.org/posts/ZuWcG3W3rEBxLceWj/teaching-ai-to-reason-this-year-s-most-important-story
-Summary: The article highlights recent breakthroughs in AI reasoning capabilities driven by reinforcement learning, particularly "reinforcement learning from human feedback" (RLHF). This approach enables models like GPT-4 to improve their step-by-step reasoning, allowing them to solve complex scientific and mathematical problems at levels comparable to PhDs. Notably, a new model, GPT-o1, built with reinforcement learning, achieved around 70% accuracy on challenging scientific questions, such as the FrontierMath Exam. Given this rapid progress and the effectiveness of reinforcement learning in enhancing reasoning, it is plausible that future GPT models could reach or surpass a 70% score on the FrontierMath Exam, especially as these techniques continue to evolve and scale.
+Epoch’s benchmarking dashboard (updated Mar 5–9, 2026) records recent leaderboard changes and explicitly reports that GPT‑5.4 Pro set a new FrontierMath record: 50% on Tiers 1–3 (and 38% on Tier 4). This is the authoritative, contract-relevant report that establishes the current SOTA for OpenAI models on the Epoch leaderboard; because the market resolves to Epoch’s leaderboard, this update is the most important datapoint for judging the gap between current performance (50%) and the 70% threshold. ([epoch.ai](https://epoch.ai/data/ai-benchmarking-dashboard))
 
-Title: O3 Scores 96.7% on Math Olympiad Problems Most Humans Fail
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://aibusinessweekly.net/p/openai-o3-aime-math-performance
-Summary: The article highlights OpenAI's O3 model achieving a 96.7% accuracy on the AIME math competition, solving nearly all problems correctly and outperforming most human competitors. This demonstrates the model's advanced mathematical reasoning capabilities, particularly in solving complex, multi-step high school math problems under strict conditions. However, performance varies depending on the specific exam version, with better results on earlier tests, indicating potential influences from training data. While O3's success suggests that future GPT models could potentially score well on challenging math assessments, predicting a specific score like 70% on the FrontierMath Exam would depend on factors such as the model's training, familiarity with exam content, and reasoning abilities. Given O3's high performance, it is plausible that a sufficiently advanced GPT model could achieve at least 70% on similar rigorous math exams.
+### [Advancing science and math with GPT‑5.2](https://openai.com/index/gpt-5-2-for-science-and-math/)
+**Author:** OpenAI | **Published:** 2025-12-11
 
+OpenAI’s research/announcement page describes GPT‑5.2 and reports internal evaluation results, including a claim that GPT‑5.2 Thinking solved 40.3% of FrontierMath (Tiers 1–3) under OpenAI’s evaluation settings. This matters because it shows vendor-reported performance can be higher than third-party runs (Epoch warns about scaffold/subset differences), so company claims alone do not guarantee resolution under Epoch’s rules. It also demonstrates the rapid vendor-side improvements that make non-zero probabilities of further SOTA progress plausible. ([openai.com](https://openai.com/te-IN/index/gpt-5-2-for-science-and-math/))
 
+### [Less than 70% of FrontierMath is within reach for today’s models](https://epoch.ai/gradient-updates/less-than-70-percent-of-frontiermath-is-within-reach-for-todays-models)
+**Author:** Greg Burnham / Epoch AI (Gradient Updates) | **Published:** 2025-10-17
+
+Epoch’s analysis aggregates many runs (32 GPT‑5 runs, 16 ChatGPT Agent runs, and many others) and computes pass@N and a “pass@the-kitchen-sink” metric (how many problems any model has solved at least once). They report 57% of problems solved at least once and show diminishing returns to repeated runs; they conclude a practical cap at or below ~70% under current methods while noting that if improvements mainly increase reliability on already-solved problems, 70% could plausibly arrive in the near term. The piece provides the technical context and probabilistic reasoning (pass@N behavior, solved/unseen problem split) that is most relevant to estimating how likely a jump from 50% → 70% is before June 30. ([epoch.ai](https://epoch.ai/gradient-updates/less-than-70-percent-of-frontiermath-is-within-reach-for-todays-models))

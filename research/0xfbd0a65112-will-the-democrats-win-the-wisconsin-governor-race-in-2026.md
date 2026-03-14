@@ -1,90 +1,120 @@
 # Research: Will the Democrats win the Wisconsin governor race in 2026?
 
 **Market ID:** 0xfbd0a65112e26d9a2a68dc47f8a95c6c14d22650cb4837c5429b546726661b71
-**Researched At:** March 9, 2026 at 04:25:10 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Democrats win the Wisconsin governor race in 2026?"
+**Researched At:** March 14, 2026 at 04:12:18 AM UTC
+**Search Query:** "Will the Democrats win the Wisconsin governor race in 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 16.0¢
 
 ### Summary
 
-Current research shows very high early-stage uncertainty in both parties’ primaries and no general-election polling, balanced by a slight Democratic incumbency edge. There’s insufficient credible evidence of a large mispricing, so only a small expected correction (~10 cents) is plausible.
+Current public evidence (expert handicappers, polling, and the post-2024 statewide context) treats Wisconsin’s 2026 governor race as competitive/toss-up; a 79% Democratic probability looks high relative to that evidence, and the zero trading volume suggests the price may not reflect an aggregated informed consensus. I estimate a plausible mispricing of roughly 29 cents with a 55% confidence that that mispricing reflects missing public information, giving an expected value ≈ 16.0 cents.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the Democratic nominee wins the November 2026 Wisconsin governor’s race, resolving YES if the Democratic nominee is called the winner (or certified) and NO otherwise.
+I searched recent news, polling, and expert commentary on the 2026 Wisconsin governor race and evaluated whether the market price (79% Democrats win; $0 total traded volume) shows credible mispricing. Below are my findings and quantitative assessment.
 
-2. EVIDENCE EVALUATION  
-Bearish (against 80.5%)  
-• All polls (Marquette, Urban Milwaukee, WKOW, JSOnline) show very high undecided rates (~65%) in both primaries and low name recognition, indicating we’re still six months from the general and fundamentals could shift.  
-• 2026 is a midterm under a Democratic president—historical midterm headwinds often favor Republicans in gubernatorial contests.  
-Bullish (for 80.5%)  
-• Wisconsin has elected a Democratic governor twice in recent cycles (Evers in 2018 and 2022), suggesting a slight structural Democratic tilt at the state executive level.  
-• Gambit Forecaster labels the state environment “stable partisan” with no model-driven shift against Democrats yet.  
-Source credibility/recency  
-• All polls and the Gambit model are from late Feb–early Mar 2026 and professionally conducted. None directly model the general election, so they carry limited predictive value at this stage.
+1) CONTEXT ANALYSIS
+- Market question: Will the Democrats win the Wisconsin governor race in 2026? It resolves to YES if the Democratic nominee wins the November 3, 2026 general election (market uses Associated Press, Fox News, and NBC calls as primary resolution sources; if those three never agree the market falls back to official certification).
+- For YES: a Democratic nominee must win a plurality of votes in the 2026 Wisconsin gubernatorial general election and be called the winner by the three named outlets (or be the official certified winner). For NO: a Republican or other (non-Democratic) nominee must win (and be called/certified).
+- Key practical points that matter for pricing now: (a) the race is an open-seat contest (incumbent Tony Evers announced he will not run), (b) the Democratic and Republican primaries are contested but candidates are low-recognition statewide so far, (c) statewide partisanship after 2024 is mixed (Trump won Wisconsin in 2024 but Democrats have recently won statewide offices).
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A price of 80.5% could reflect a consensus that, despite early uncertainty, Democrats have a modest structural edge plus incumbency carryover from Evers’s two terms.  
-• Low volume (under $10 k) means just a few traders could have set the price, but the tight spread suggests at least some liquidity.  
-• The early‐stage nature and mixed signals (high undecided vs. stable fundamentals) could deter further informed trading until after primaries.
+2) EVIDENCE EVALUATION (what I found and how it bears on the market price)
+Evidence that the market price might be too high for Democrats (i.e., argues the 79% price overstates Dem chances)
+- Expert handicappers and aggregators are treating Wisconsin as competitive/toss-up rather than a likely Democratic hold. (See Cook/Inside Elections references and Newsweek summary of competitive governors.) This implies an implied probability much closer to ~50% than 79%. (Sources: Cook/Inside Elections summaries; Newsweek.) Evidence weight: medium-high.
+- Recent statewide context: President Trump narrowly won Wisconsin in 2024, and that indicates a strong Republican tailwind in a presidential-year electorate; coupled with the state’s history of split-ticket outcomes, this argues the general could be close and not a near-certain Democratic win. (Source: AP / election reporting on 2024 WI result.) Evidence weight: medium.
+- Polling and public awareness are still early and show most voters are undecided or unfamiliar with the field (Marquette Law School poll, Oct 29, 2025: large majorities “haven’t heard enough” about candidate names; primaries largely undecided). If voters are undecided now, an early 79% price implies the market is assuming a large amount of future information will favor Democrats — an assumption that’s not currently supported by broad polling. Evidence weight: medium.
+- Market internals: this market has $0 total traded volume (user-provided) and a tiny spread; low or zero volume and an unbacked mid-price frequently reflect single-user or artificial price-setting rather than a well-aggregated consensus. Evidence weight: high for caution.
 
-4. MISPRICING ASSESSMENT  
-• No clear, specific missing data: primary dynamics are too fluid and no general‐election polls exist yet.  
-• Historical midterm patterns and present high uncertainty argue for a lower probability than 80.5%, but the Democratic incumbency advantage pulls the other way.  
-• Overall, there’s insufficient evidence of a > 20 cent mispricing.
+Evidence that supports a relatively high Democratic probability (i.e., reasons 79% might be defensible)
+- Democrats currently have credible, higher-profile potential nominees: Lt. Gov. Sara Rodriguez and Milwaukee County Executive David Crowley have both launched bids (AP coverage). Some reports highlight that Democrats think they can hold the governor’s seat while also aiming for state legislative gains (AP). That candidate slate (and an active Democratic bench statewide) can plausibly produce a strong ticket. Evidence weight: medium.
+- State-level dynamics and recent Democratic statewide successes (e.g., a Democratic majority on the state Supreme Court in 2025) plus redrawn maps that experts say can be friendlier to Democrats could help down-ballot Democratic performance in 2026. If those structural advantages persist into 2026, a Democrat edge is plausible. Evidence weight: low-to-medium.
+- Republican field is unsettled: there are several lower-recognition GOP entrants so far and some signals (internal Republican commentary) that top-tier GOP hopefuls may delay or decline runs (e.g., commentary that Tim Michels may not enter again). If the GOP nominates a weaker candidate, Democrats’ chances rise. Evidence weight: low-to-medium.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence for mispricing: 20% (polls show huge early uncertainty but that may already be baked in).  
-• Magnitude of mispricing: 10 cents (a modest correction if midterm headwinds are underweighted).  
-• Expected value = 0.20 × 10 cents = 2 cents.
+Source credibility and recency
+- Associated Press and Marquette Law School Poll: high credibility, directly relevant, and recent. Cook Political Report and Inside Elections provide expert handicapping but often behind paywalls; they are authoritative and their publicly available headlines/archival notes indicate Wisconsin is viewed as competitive/toss-up as of late 2025/early 2026. RealClear and other polling aggregators show limited/upstream polling early in the cycle. Newsweek summarized expert consensus on competitive governor races. All sources cited are current (2024–2026) and directly relevant.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Current research shows very high early-stage uncertainty in both parties’ primaries and no general-election polling, balanced by a slight Democratic incumbency edge. There’s insufficient credible evidence of a large mispricing, so only a small expected correction (~10 cents) is plausible.  
-CONFIDENCE: low
+Skeptical check: if it were truly that obvious that Democrats should have ~80% now, why are expert handicappers calling Wisconsin competitive and polls showing voters are undecided and name recognition low? That mismatch suggests the 79% price is unlikely to be a widely shared, informed consensus.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that could justify 79%: traders might be pricing in inside information about candidate quality/fundraising, or expecting a strong Democratic national environment by Nov 2026, or anticipating a weak GOP nominee. Alternatively, someone might have anchored the mid-price at 79% after a specific event/latest internal memo, or the market creator set that as a starting price.
+- Could this be genuine consensus among informed traders? Given $0 total volume (no recorded trades) and the market’s age, that seems unlikely. A single participant or a small group could have set the price; low volume prevents aggregation of diverse views.
+- Is low volume because the outcome is obvious? No — available evidence (expert ratings, undecided polls, recent 2024 GOP statewide performance) points to a competitive race; low volume more plausibly reflects lack of engagement or that traders don’t accept the 79% starting price.
+
+4) MISPRICING ASSESSMENT
+- Experts and current polling environment point to a competitive/toss-up race, not a near-certain Democratic win. That pattern directly challenges the market’s 79% Democratic probability.
+- Possible counterarguments (candidate quality, local structural advantages, GOP weakness) are plausible but currently speculative; they are the sorts of things that active traders would typically require stronger evidence for before pricing a near-80% probability.
+- I therefore conclude the market likely overstates the Democrats’ chance now. However, because this is an early-stage, long-horizon event and future developments (candidate consolidation, national environment shifts, fundraising, scandals, etc.) can materially change probabilities, the mispricing is not proven beyond reasonable doubt — it is a credible inefficiency signal, not a certainty.
+
+CRITICAL CHECK (because implied mispricing is large)
+- Exact resolution criteria: market resolves to AP/Fox/NBC calls (or certification). I reviewed those resolution rules in the prompt and they appear understood — no hidden technicality that would make the 79% price correct by definition.
+- Could I be missing trader information not publicly available (big private polling, candidate commitments, major donors lined up)? Yes — that’s always possible and is the main reason a low-volume market can appear mispriced. That reduces my confidence somewhat.
+- Most charitable interpretation: the market setter could be anticipating one or more of (a) Democrats coalesce behind a single strong nominee, (b) GOP renominates a weak candidate or fractures its base, or (c) national environment favors Democrats by Nov 3, 2026 — any of which would justify a higher Democratic probability. These are plausible but speculative.
+
+5) EXPECTED VALUE CALCULATION (estimate of value from investigating/trading)
+- Strength of evidence that price is missing widely available, credible information: 55% (there is solid authoritative evidence that experts/polls view the race as competitive; this is not conclusive but meaningful).
+- Magnitude of mispricing (difference between market price 79% and a conservative expert-implied probability of ~50%): ~29 cents (79 - 50 = 29 cents).
+- Expected value = Strength × Magnitude = 0.55 × 29c = 15.95 cents ≈ 16.0 cents.
+
+6) CONFIDENCE
+- My confidence in this assessment: medium.
+
+EXPECTED_VALUE: 16.0
+SUMMARY: Current public evidence (expert handicappers, polling, and the post-2024 statewide context) treats Wisconsin’s 2026 governor race as competitive/toss-up; a 79% Democratic probability looks high relative to that evidence, and the zero trading volume suggests the price may not reflect an aggregated informed consensus. I estimate a plausible mispricing of roughly 29 cents with a 55% confidence that that mispricing reflects missing public information, giving an expected value ≈ 16.0 cents.
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Who’s leading in Wisconsin’s race for governor?
-Author: KIMBERLY WETHAL kwethal@madison.com
-Published Date: 2026-02-26T00:00:00.000Z
-URL: http://www.wiscnews.com/news/state-regional/government-politics/elections/article_1d2d8f68-861d-50f5-b137-780cc8901025.html
-Summary: The article reports that in the Wisconsin governor's race, current polling by Marquette Law School indicates that Democratic candidates, including former Lt. Gov. Mandela Barnes and Rep. Francesca Hong, are leading within their party ahead of the August primaries. Republican U.S. Rep. Tom Tiffany also leads among Republicans. While the poll provides insight into the current state of party support, it does not predict the final outcome of the general election in 2026. Factors such as campaign developments, voter turnout, and broader political trends will influence whether Democrats can secure victory in the governor's race.
+### [Democratic Gov. Tony Evers won’t seek third term in battleground Wisconsin](https://apnews.com/article/wisconsin-gov-tony-evers-reelection-78b32ffc51dff53512fd7499f21e9878)
+**Author:** Scott Bauer / The Associated Press | **Published:** Unknown
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The March 2026 Gambit Forecaster report indicates that gubernatorial races, including Wisconsin, are still largely influenced by fundamental factors such as institutional and candidate effects. While the overall model remains cautious, recent updates show that the Wisconsin governor race is within a stable partisan environment, with no significant shifts suggesting a high likelihood of a Democratic victory at this stage. The forecast emphasizes that the race's outcome will depend on candidate dynamics and campaign developments, as the cycle progresses and more polling and campaign data become available.
+AP reports Gov. Tony Evers announced he would not seek a third term, creating the open 2026 Wisconsin gubernatorial race and triggering competitive interest from both parties; the article notes Democrats hope to leverage redrawn maps and that multiple candidates from both parties are entering/considering runs. Relevance: establishes this is an open-seat race (no incumbent advantage) — a foundational fact that argues against treating the outcome as all-but-certain today and supports the view that the market’s 79% may be premature.
 
-Title: Hong, Barnes Lead Democratic Primary for Governor In New Poll  » Urban Milwaukee
-Author: Rich Kremer
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://urbanmilwaukee.com/2026/02/25/hong-barnes-lead-democratic-primary-for-governor-in-new-poll/
-Summary: The Marquette University Law School poll indicates that among Democratic primary voters in Wisconsin, there is no clear frontrunner, with former Lt. Gov. Mandela Barnes and Madison State Rep. Francesca Hong essentially tied in recognition and support, both receiving around 11-12% of votes. Barnes has higher overall name recognition due to previous statewide campaigns, but this has not yet translated into a decisive lead in voter preference. Other Democratic candidates, such as Lt. Gov. Sara Rodriguez and Milwaukee County Executive David Crowley, have minimal support. Given that a significant portion of voters remain undecided (65%), the primary race is still highly competitive. This suggests that the Democratic nomination—and potentially the general election—remains unpredictable at this stage, and the outcome will depend on future campaign developments and voter mobilization.
+### [Wisconsin's Lt. Gov. Sara Rodriguez enters governor's race](https://apnews.com/article/wisconsin-governor-rodriguez-evers-2026-cfc0c024c2d3ed23d195bd9aaae10b51)
+**Author:** The Associated Press (Scott Bauer) | **Published:** Unknown
 
-Title: About two-thirds of voters undecided in Democratic, Republican gubernatorial primaries | Race for Governor | wkow.com
-Author: Caroline Dade
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.wkow.com/news/governor-race/about-two-thirds-of-voters-undecided-in-democratic-republican-gubernatorial-primaries/article_7e170555-8db7-4fbe-85b9-910cae089d43.html
-Summary: The upcoming Wisconsin gubernatorial race in 2026 is still highly uncertain, with a significant majority of voters in both parties remaining undecided. A recent Marquette Law School poll indicates that 65% of Democratic primary voters have not yet chosen a candidate, and similar indecision exists among Republican voters, with 63% undecided. Among Democratic candidates, Rep. Francesca Hong leads in name recognition at 29%, but only 11% support her, and most voters have limited awareness of the other candidates. For the Republicans, U.S. Rep. Tom Tiffany is the most recognized candidate, but only 46% of voters know him, and he currently has a slightly negative net favorability rating. Given the high levels of voter indecision and low candidate recognition, it is too early to predict whether Democrats will win the 2026 governor race in Wisconsin.
+AP coverage of Lt. Gov. Sara Rodriguez announcing her run, quoting her launch messaging and noting other Democrats (e.g., David Crowley) are also in or considering bids. Relevance: shows Democrats have recognizable, high-profile candidates early — a factor that could improve Democratic general-election prospects, but does not by itself justify a near-80% implied probability.
 
-Title: Marquette poll finds Wisconsin voters undecided in governor's race
-Author: Molly Beck 
-, 
- Jessie Opoien
-Published Date: 2026-02-25T00:00:00.000Z
-URL: http://www.jsonline.com/story/news/politics/elections/2026/02/25/marquette-poll-finds-wisconsin-voters-undecided-in-governors-race/88827849007/
-Summary: The recent Marquette poll indicates that Wisconsin voters are largely undecided in the upcoming governor's race, with 65% of registered voters unsure of their preferred Democratic candidate and a similar percentage undecided among Republican voters. Key Democratic contenders, including Francesca Hong and Mandela Barnes, have low name recognition and high percentages of voters with no opinion. Barnes, despite being more well-known, has a nearly equal split of favorable and unfavorable views, suggesting limited voter support at this stage. On the Republican side, U.S. Rep. Tom Tiffany also faces low recognition, with over half of voters having no opinion. Given the high levels of voter indecision and low candidate familiarity six months before the election, it is difficult to predict whether Democrats will win in 2026.
+### [Democratic Milwaukee County leader David Crowley joins the race for Wisconsin governor](https://apnews.com/article/wisconsin-governor-crowley-evers-milwaukee-8710d7eb3ba1a50a004eaa935939333e)
+**Author:** Scott Bauer / The Associated Press | **Published:** Unknown
 
+AP reports David Crowley launched a Democratic bid and frames the race as an open contest with multiple Democratic contenders; it notes both parties have low name recognition among many voters at this stage. Relevance: confirms multiple viable Democratic entrants (supports plausibility of a strong Democratic nominee but also highlights current uncertainty).
 
+### [Republican county leader Josh Schoemann enters Wisconsin governor's race](https://apnews.com/article/wisconsin-governor-2026-election-josh-schoemann-cf8628d280f12daab68a1c93678a61fd)
+**Author:** The Associated Press (Scott Bauer) | **Published:** Unknown
+
+AP reports the first Republican to create a committee (Washington County Executive Josh Schoemann), notes he is low-recognition statewide, and that other GOP figures may still enter. Relevance: demonstrates the GOP field is also unsettled and currently lacks obvious consensus front-runner — a factor cutting both ways for early pricing.
+
+### [New Marquette Law School Poll finds large majority of Wisconsin voters not yet tuned in to who is running in major 2026 elections](https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/)
+**Author:** Charles Franklin (Marquette Law School Poll) | **Published:** 2025-10-29
+
+The poll finds large majorities of Wisconsin voters (70% of GOP primary voters, 81% of Democratic primary voters) undecided and low name recognition for most gubernatorial candidates; the release provides candidate name ID and favorability. Relevance: strong, recent empirical evidence that the race is low-information and undecided now — which undermines treating the result as near-certain and argues against a confident 79% price.
+
+### [Wisconsin Governor (Cook Political Report — race page and headlines)](https://www.cookpolitical.com/analysis/governors/wisconsin-governor)
+**Author:** The Cook Political Report (Amy Walter et al.) | **Published:** 2025-12-11 (example headline date shown on page)
+
+Cook’s Wisconsin race page and headlines (subscription content) show the race as competitive and host analysis pieces such as “Barnes Is Back, but He’s No Sure Bet.” While much of the detailed rating content is subscriber-only, the public summaries and headlines indicate expert handicappers view Wisconsin as a competitive race rather than a safe Democratic hold. Relevance: professional handicappers’ coverage is an important benchmark; their public signals contradict a market-implied 79% certainty for Democrats.
+
+### [2026 Wisconsin Governor (RealClearPolling state page)](https://www.realclearpolling.com/elections/governor/2026/wisconsin)
+**Author:** RealClearPolling / RealClearPolitics | **Published:** Unknown
+
+Aggregator page for 2026 Wisconsin governor polls and matchups; as of early 2026 there are only limited, early polls and many hypothetical matchups — RealClear’s page shows polling is thin and no settled consensus. Relevance: confirms that public polling evidence is sparse/early, so a large market edge for either party would have to come from non-public information or strong assumptions about future dynamics.
+
+### [AP Race Call: Donald Trump wins Wisconsin](https://apnews.com/article/race-call-trump-wins-wisconsin-president-1d2209e42fe44e61adb9e17deb416b47)
+**Author:** The Associated Press | **Published:** 2024-11-06
+
+AP called Wisconsin for Donald Trump in the 2024 presidential contest; the page and related reporting document the narrow margin and the state’s swing status. Relevance: Wisconsin’s 2024 presidential result shows a GOP tilt in the most recent presidential cycle; that context makes a Democratic 79% chance in 2026 less self-evident and supports classifying the race as competitive.
+
+### [Seven Governor Races Most Likely to Flip Parties in 2026 Elections](https://www.newsweek.com/seven-governor-races-most-likely-flip-parties-2026-elections-11300490)
+**Author:** Unknown | **Published:** 2026-01-?
+
+Newsweek summarizes expert handicappers and lists several governors’ races likely to flip/compete in 2026; its summary of expert ratings places Wisconsin among closely watched competitive states. Relevance: third-party media synthesis consistent with expert handicappers’ view that WI is competitive/toss-up — contrary to an 80%+ Democratic probability.

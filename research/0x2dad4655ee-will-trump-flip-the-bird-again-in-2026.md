@@ -1,90 +1,114 @@
 # Research: Will Trump flip the bird again in 2026?
 
 **Market ID:** 0x2dad4655ee64f1cc5546e5807055eea9d5d355a914e88386ad92b2b04a1a28e3
-**Researched At:** March 7, 2026 at 02:35:15 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump flip the bird again in 2026?"
+**Researched At:** March 14, 2026 at 04:14:38 AM UTC
+**Search Query:** "Will Trump flip the bird again in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 1.8¢
 
 ### Summary
 
-Recent high-profile appearances in 2026 show no new flips, and the current 20.5% price seems to already reflect both Trump’s confrontational style and the absence of further incidents. There’s no strong evidence of a sizable mispricing.
+Market price (21.5%) is plausible; evidence of mispricing is weak — expected edge is small (~1.8¢).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Donald Trump will be captured on photo or video giving the middle-finger “flip the bird” gesture directed at a person or group at any time through December 31, 2026. A “Yes” requires clear evidence of Trump raising his middle finger (with other fingers down) in a context reasonably suggesting it was meant as an insult. Absent such evidence by year’s end, it resolves “No.”
+1) CONTEXT ANALYSIS — what the market asks and exact resolution rule
+- Market question: "Will Trump flip the bird again in 2026?" It will resolve YES if, by 11:59 PM ET on December 31, 2026, there is photo or video evidence showing Donald Trump raising his middle finger with the other fingers down in a way that could reasonably indicate it was directed at a person or group. AI‑generated images/video and gestures that clearly are not directed at a person (purely incidental, no plausible directed meaning) do not count. (This resolution text is quoted in your MARKET DESCRIPTION; I treated it as authoritative for the analysis.)
 
-2. EVIDENCE EVALUATION  
-Bullish for YES:  
-• Trump’s current aggressive, confrontational campaign style (Al Jazeera) and his penchant for theatrical, provocative gestures (ABC News) imply a nonzero chance of repeating the gesture at rallies or events.  
-• He’s highly active in 2026 midterms, increasing exposure and opportunities for slip-ups.  
+What must happen to resolve YES vs NO
+- YES: a qualifying photograph or video appears before the deadline that shows the specific gesture (middle finger up, other fingers down) and the context makes it reasonably interpretable as directed at someone or a group.
+- NO: no such qualifying photo/video appears by the deadline (or only ambiguous/clearly non‑directed uses appear that fail the resolution criteria).
 
-Bearish for YES:  
-• No documented flips beyond January 13 at the Minnesota plant despite several major appearances (State of the Union on Feb 24, covered by Reuters, Florida Today, ABC).  
-• Extensive coverage of SOTU and midterm events makes an unnoticed occurrence unlikely.  
-• No reports of flips in multiple independent, credible sources since the original incident.  
+2) EVIDENCE EVALUATION (what I researched and how it bears on the market price)
+Key, recent factual anchor
+- On Jan 13, 2026, a widely circulated cellphone/TMZ video showed Trump making an apparent middle‑finger gesture while touring a Ford plant in Dearborn, Michigan; mainstream outlets reported and the White House did not deny the clip, calling the reaction “appropriate.” This proves that (a) Trump has made the explicit gesture very recently and (b) a short, circulated clip can qualify the event. ([washingtonpost.com](https://www.washingtonpost.com/politics/2026/01/13/trump-ford-factory-heckler-detroit/))
 
-All sources (Reuters, Al Jazeera, ABC News, local outlets) are recent and reputable. The lack of any new reports of flips suggests the market’s current 20.5% likely already incorporates both his style and the absence of new incidents.
+Evidence that increases the plausibility of another occurrence (bullish for YES)
+- Demonstrated precedent: beyond Jan 13, there have been previous video/photographic moments in which Trump’s middle finger was highlighted (clips/footage have circulated historically). That establishes he has used the gesture in public contexts before. Some of those prior clips have been discussed and debated in mainstream fact‑checking and news coverage (illustrating both precedent and ambiguity in interpretation). ([mediaite.com](https://www.mediaite.com/politics/trump-appears-to-flip-off-worker-at-ford-plant-in-video-published-by-tmz/))
+- Behavior/temperament: mainstream coverage of the Jan 13 incident frames it as an emotional, reactive response to provocation; that pattern (if repeated) makes repeat occurrences plausible in heated public settings. The White House framing (calling the response appropriate) also lowers the political cost a little, which could make similar gestures less inhibiting for him. ([washingtonpost.com](https://www.washingtonpost.com/politics/2026/01/13/trump-ford-factory-heckler-detroit/))
+- Ongoing public exposure: between Jan 13 and Dec 31, 2026 there are many days and many public interactions (rallies, visits, events, photo ops) where hecklers, protesters, or adversarial exchanges occur. Each such appearance is an opportunity for a similar gesture to be captured. (I searched for news coverage of recent public events and noted multiple public appearances in early 2026; multiple outlets report a busy event schedule for the office.) ([cbsnews.com](https://www.cbsnews.com/amp/news/white-house-confirmes-trump-flipped-off-heckler-f-you-ford-plant/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A ~20% probability aligns with a balance between Trump’s known provocativeness and the rarity of captured gestures in high-profile events.  
-• Low volume could reflect both the triviality of the question to traders and that informed participants see little edge.  
-• The tight spread suggests the few participants agree roughly on this estimate.
+Evidence that makes another qualifying instance less likely (bearish for YES)
+- Ambiguity and intent: some historical clips that were presented by social media as “flips” have been analyzed and found ambiguous (e.g., Snopes and other fact checks on astronaut/head‑scratching clips concluded the gesture could be incidental). The resolution standard here requires the gesture to be shown in context that “could reasonably indicate it is directed at a person or group.” Because some middle‑finger motions can be incidental or ambiguous (scratching, adjusting hair, etc.), not every clip showing the middle finger will clear the rule. That ambiguity reduces probability relative to a naive count of “every middle‑finger sighting.” ([snopes.com](https://www.snopes.com/fact-check/trump-finger-gesture-astronaut/?utm_source=openai))
+- Elevated security/PR controls: when a high‑profile official is on tightly stage‑managed events (White House ceremonies or controlled foreign/diplomatic settings), photographers and press are still present, but handlers and advance teams try to reduce surprises. Many events are controlled, lowering the unconditional frequency compared with street/unscripted settings — although not eliminating risk. Reporting that the White House defended the Jan 13 gesture suggests the administration is willing to tolerate some friction, but it does not mean all future events will permit such exchanges. ([cbsnews.com](https://www.cbsnews.com/amp/news/white-house-confirmes-trump-flipped-off-heckler-f-you-ford-plant/))
 
-4. MISPRICING ASSESSMENT  
-• No specific, credible evidence indicates a materially higher or lower chance than ~20%.  
-• The research uncovers nothing that market participants have missed regarding Trump’s public gestures.  
-• Timeline (10 months remaining) and his habitual scrutiny mean further flips would likely be widely reported and already considered.
+Source credibility and recency
+- Washington Post, CBS News and The New York Times (mainstream national outlets) reported the Jan 13 Dearborn incident and cited the video and White House comment; these are high‑credibility reports and were published immediately after the video circulated (Jan 13–14, 2026). The original video was published by TMZ and picked up by widely read outlets; Mediaite reproduced the TMZ clip. Snopes and other fact‑checks have historically evaluated ambiguous clips (astronaut example) and concluded intent was not clear in past cases; this is relevant to interpreting the resolution standard. ([washingtonpost.com](https://www.washingtonpost.com/politics/2026/01/13/trump-ford-factory-heckler-detroit/))
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 20% (evidence for mispricing is weak)  
-• Magnitude of mispricing: 5 cents (max plausible error)  
-• Expected value ≈ 0.20 × 5 cents = 1 cent
+Why obvious observations may already be priced
+- If the market’s price reflected only the fact that Trump used the gesture on Jan 13 and that he will continue to have public interactions, a market price in the 20–35% range would be plausible; informed traders who follow his behavior could quickly price that in. The only new information that would strongly move the probability is some changed constraint (e.g., a decision by his team to ban uncontrolled walkthroughs and off‑camera interactions, or clear evidence he will be sequestered from crowds), or an actual qualifying clip. Given the Jan 13 evidence was public and widely reported, any market that did not reflect it would be surprising — but the market price here does reflect some non‑trivial chance that it happens again.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Recent high-profile appearances in 2026 show no new flips, and the current 20.5% price seems to already reflect both Trump’s confrontational style and the absence of further incidents. There’s no strong evidence of a sizable mispricing.  
+3) MARKET EFFICIENCY ANALYSIS — is the market price reliable given the metrics you provided?
+- Market metrics you provided: Age 59 days; Total Vol: $0; Price: 21.5%; Spread: 3.0¢. Total Vol $0 indicates essentially no trading (or no recorded trades) after the market was created; a tight spread despite no volume typically means either (a) an automated quoting maker or (b) the market was seeded at that price and nobody has traded to move it. That raises a red flag about liquidity/aggregation: a 21.5% quote with $0 vol is not strong evidence of a consensus among diverse traders.
+- Reasonable interpretation that justifies the current price:
+  - The price could reflect a reasonable subjective judgement: given one confirmed Jan 13 instance, a person might assign ~20–30% chance of at least one more qualifying public clip in the remaining ~11.5 months (depending on the subject’s calendar). 21.5% is in that ballpark.
+  - Alternatively, the price could simply be a single trader’s view or an automated seed price. With $0 volume there is no sign of aggregation or active correction by other traders.
+- Could the price reflect consensus vs a single participant?
+  - With zero volume and narrow spread, it’s likelier to reflect one or a few staked positions/quotes rather than broad aggregation. If the order book had significant volume I’d interpret the price as consensus; with $0 vol I cannot assume broad information aggregation.
+- Why low volume might be present:
+  - The event is a quirky, low‑stakes novelty outcome — many informed traders ignore “will he flip the bird” markets because payoff is small and it’s not economically interesting.
+  - The market’s resolution standard is a little subjective (what “reasonably indicate it is directed at a person or group” means), which could deter traders who dislike ambiguous rules.
+  - Conversely, low volume could also mean the outcome is viewed as obvious and thus uninteresting to trade — but I don’t see strong evidence it’s obvious (21.5% suggests it isn’t obvious).
+
+4) MISPRICING ASSESSMENT — weighing evidence for/against mispricing
+- Summary of the reasonable probability range (intuition):
+  - Lower bound: if you treat controlled optics + ambiguity about intentionality as major constraints, you could put probability fairly low (single digits), because many middle‑finger uses are ambiguous and many events are tightly managed.
+  - Upper bound: if you treat the Jan 13 incident as strong evidence of a pattern and factor many public interactions, you could place probability in the 20–40% range.
+- Does the evidence show a clear mispricing relative to 21.5%?
+  - No clear, specific, credible evidence is missing from the market price that would justify a large (>20¢) correction. The Jan 13 demonstrated capacity and precedent for the gesture (supporting a non‑zero probability). There is no public evidence of a binding change that would sharply reduce the chance (e.g., a firm that the White House will prohibit unscripted tours or a legal sanction that would make future gestures impossible). Conversely, there's also no positive evidence that the chance should be substantially higher than ~30–40% (no new impulses, no statements about intentionally provoking the public that would dramatically increase risk).
+  - The biggest structural concern is liquidity: Total Vol $0 means the posted price is weak evidence of market consensus. If a trader were willing to move size at a different price, this market could move rapidly.
+- Critical check (if I thought >20¢ mispricing): I do not find evidence of a large (>20¢) mispricing. A price at 21.5% is within the plausible subjective range given the data. The most charitable interpretation of the price is that whoever set it thinks repeat behavior is plausible but not more likely than not; that lines up with published facts and no new disqualifying information.
+
+5) EXPECTED VALUE CALCULATION (my numeric assessment of whether it’s worth investigating/trading)
+- Strength of evidence that the market is missing important information: 35% — there is some chance the posted price simply reflects a seeded quote rather than an information‑aggregated consensus, but there is no single missing, credible news item that would move the probability by a large amount. (Scale: 0% = no credible missing info; 100% = strong missing evidence.)
+- Magnitude of plausible mispricing (how many cents might a correct trader be able to capture?): I estimate a modest possible mispricing if you can trade: 3–7 cents. Rationale: 21.5% is near my subjective midrange; even if the true probability were (say) 30% a rational trader could capture ~8.5 cents upside — but I judge that scenario (true 30% vs market 21.5%) not highly likely. A smaller gap (e.g., 3–5 cents) is more realistic.
+- Expected value = Strength × Magnitude. Using a central estimate:
+  - Strength = 0.35 × Magnitude = 5 cents → EV = 0.35×5 = 1.75 cents.
+- Rounded/expressed as required:
+EXPECTED_VALUE: 1.8
+
+6) CONFIDENCE IN ASSESSMENT
+- Overall confidence: medium.
+  - Why not high? Because the market shows zero volume (low liquidity) and the event is driven by social media/video evidence which could appear suddenly; I lack access to internal orderbook or trader intent and cannot rule out unobserved information. But mainstream reporting strongly supports the single prior instance and the plausibility of another, so medium confidence is warranted.
+
+BOTTOM-LINE SUMMARY (two short sentences)
+- The Jan 13, 2026 Dearborn clip establishes precedent and makes another qualifying middle‑finger clip during 2026 plausible; mainstream outlets documented the incident and the White House did not deny it. Given the low on‑market trading volume (your metric: Total Vol $0) the posted 21.5% price looks like a plausible, defensible subjective probability but is not strong evidence of broad market consensus; I find no specific, credible news item missing from the price that would justify concluding a large mispricing.
+
+SUMMARY: Market price (21.5%) is plausible; evidence of mispricing is weak — expected edge is small (~1.8¢).
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: ‘Like it’s 2024 again’: Trump takes centre stage in 2026 midterm elections | Donald Trump News | Al Jazeera
-Author: Joanna Insco
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://www.aljazeera.com/news/longform/2026/2/27/like-its-2024-again-trump-takes-centre-stage-in-2026-midterm-elections
-Summary: The article discusses Donald Trump's active and aggressive campaign strategy for the 2026 midterm elections, emphasizing his intention to campaign as if he were running for re-election in 2024. Trump is focusing heavily on rallying support, particularly in swing states, and positioning himself as the central figure in the midterms. His approach aims to counter the historical "midterm curse," which typically results in the sitting president's party losing seats in Congress. Despite acknowledging the challenging odds, Trump is leveraging his popularity and economic record to energize his base and potentially influence the election outcome. This context suggests that Trump intends to maintain a bold, confrontational style, which could include provocative gestures like flipping the bird, similar to past displays of defiance.
+### [Trump makes obscene gesture, mouths expletive at Detroit factory heckler](https://www.washingtonpost.com/politics/2026/01/13/trump-ford-factory-heckler-detroit/)
+**Author:** Natalie Allison and Dan Merica | **Published:** 2026-01-13 (updated 2026-01-14)
 
-Title: With midterm elections looming, an unpopular Trump seeks a State of the Union reset | Reuters
-Author: Katharine Jackson
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://reuters.com/world/us/trump-facing-headwinds-home-abroad-address-state-union-2026-02-24/
-Summary: The article reports on Donald Trump's 2026 State of the Union address, highlighting his efforts to project strength amid declining approval ratings and political challenges. During the speech, a Democratic representative was removed for making a racially charged gesture referencing a social media video involving Trump. Trump emphasized economic achievements, despite ongoing concerns over inflation and cost of living, and aimed to rally support for Republicans ahead of the 2026 midterms. The speech included dramatic moments and patriotic rhetoric, but also reflected the contentious political climate. There is no mention of Trump engaging in any specific gestures like flipping the bird during this event, making it unlikely that such an action occurred or will occur again in 2026 based on this report.
+This Washington Post article reports the Jan 13, 2026 video from a Ford plant showing President Trump mouthing an expletive and raising his middle finger toward a heckler; it quotes the White House response and reporting on the factory worker. This piece is the primary, credible news confirmation that the gesture did occur on Jan 13 — a core fact that makes the "will he do it again" market meaningful. It supports the view that the gesture is in Trump’s behavioral repertoire, which raises the baseline probability for a repeat.
 
-Title: What did Trump say at the 2026 State of the Union? 6 key moments
-Author: Karissa Waddick
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://eu.floridatoday.com/story/news/politics/2026/02/24/key-moments-2026-sotu/88852958007/
-Summary: The article covers key moments from Donald Trump's 2026 State of the Union address, highlighting its record length of 1 hour and 47 minutes and its fiery tone. Notable incidents include a controversial sign held by Rep. Al Green, referencing a racist social media post by Trump involving Barack and Michelle Obama, which drew widespread criticism. Trump also criticized the Supreme Court for overturning his tariffs, calling their decision "disappointing." The speech included provocative moments, such as insults toward Democrats and references to contentious political issues. There is no mention of Trump flipping the bird during this address, so based on the information provided, it is unlikely that he engaged in such an action during the 2026 State of the Union.
+### [Trump gives heckler middle finger during Ford factory tour; White House says he had "appropriate" reaction](https://www.cbsnews.com/amp/news/white-house-trump-flipped-off-heckler-f-you-ford-plant/)
+**Author:** Jennifer Jacobs and Joe Walsh | **Published:** 2026-01-14
 
-Title: Is Trump facing impeachment? 2026 midterm election predictions today
-Author: Maria Francis
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.app.com/story/news/2026/03/05/is-donald-trump-facing-impeachment-in-2026-again-what-midterm-election-predictions-odds-say-today/88998277007/
-Summary: The article discusses the political landscape surrounding Donald Trump in 2026, including ongoing impeachment efforts and midterm election predictions. Despite multiple calls for his impeachment related to his actions, such as the alleged unprovoked war with Iran, Trump has not been impeached again and faces significant political barriers due to the current Republican-controlled Congress. Betting odds suggest a low probability (around 4-13%) of Trump being impeached by mid-2026, with a higher chance (67%) by early 2028. The focus on impeachment and political tensions indicates ongoing controversy, but there is no specific information about Trump "flipping the bird" (making a rude gesture) in 2026.
+CBS News covers the same Dearborn incident, includes the TMZ/phone video as reported, and quotes the White House communications director defending the reaction. This corroboration from another major outlet confirms both the act and the administration’s public framing, which affects interpretation of political cost and how likely similar behavior might be tolerated in the future. It supports the plausibility side of the probability estimate.
 
-Title: To sit or stand: Trump's challenge to Democrats a key moment in State of the Union address - ABC News
-Author: ABC News
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://abcnews.com/US/wireStory/sit-stand-trumps-challenge-democrats-key-moment-state-130507304
-Summary: The article discusses a key moment from President Donald Trump's 2026 State of the Union address, where he challenged Democrats to stand or sit based on their beliefs about the government's primary duty—specifically, whether protecting Americans or prioritizing illegal immigrants. This theatrical gesture aimed to highlight partisan divisions and serve as a political statement, with most Democrats remaining seated while Republicans responded enthusiastically. The event exemplifies Trump's use of provocative, showman-like tactics to energize his base and influence public perception. While the article does not mention specific gestures like flipping the bird, it emphasizes Trump's penchant for dramatic, attention-grabbing actions during speeches, suggesting that such behavior could potentially recur in future political appearances.
+### [WATCH: Trump Flips Off Worker At Ford Plant In TMZ Video](https://www.mediaite.com/politics/trump-appears-to-flip-off-worker-at-ford-plant-in-video-published-by-tmz/)
+**Author:** Sean James | **Published:** 2026-01-13
 
+Mediaite reproduces the TMZ video and summarizes the exchange (worker reportedly shouted “pedophile protector,” Trump appears to mouth “f
 
+### [Did President Trump Flip Off an Astronaut Who Corrected Him? (Snopes fact‑check)](https://www.snopes.com/fact-check/trump-finger-gesture-astronaut/)
+**Author:** Dan MacGuill | **Published:** Unknown
+
+Snopes examined a viral clip historically presented as Trump flipping off astronauts and concluded the gesture was ambiguous/likely incidental (e.g., scratching/wiping) and not clear evidence of directed insult. This fact‑check is relevant because it shows many middle‑finger appearances are ambiguous and may fail the market’s resolution criterion; it therefore tempers the probability that every new middle‑finger photo/video would qualify as a deliberate flip directed at someone.
+
+### [WATCH LIVE: Trump participates in White House Black History Month celebration (PBS NewsHour page)](https://www.pbs.org/newshour/politics/watch-live-trump-participates-in-white-house-black-history-month-celebration)
+**Author:** Unknown | **Published:** 2026-02-20
+
+PBS and other outlets covered Trump’s White House Black History Month reception in February 2026 (the market description cites similar C‑SPAN clips as examples of prior middle‑finger footage). This source demonstrates that Trump continues to hold public, photo‑op events where gestures can be visible and captured; it supports the “opportunities exist” argument but also illustrates that many such events are highly managed (which reduces random opportunities).

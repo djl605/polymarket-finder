@@ -1,84 +1,128 @@
 # Research: Will Raymond McKay be the Republican nominee for Senate in Rhode Island?
 
 **Market ID:** 0x8d3fa7e5d7ec4d8e7e39c9406713aa76b2b1cc3006d5ee046cb1d66cad8e02d6
-**Researched At:** March 7, 2026 at 02:34:23 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Raymond McKay be the Republican nominee for Senate in Rhode Island?"
+**Researched At:** March 14, 2026 at 04:11:55 AM UTC
+**Search Query:** "Will Raymond McKay be the Republican nominee for Senate in Rhode Island?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 6.6¢
 
 ### Summary
 
-Public research yields no mention of Raymond McKay’s candidacy, leaving the 81% probability unsupported by known filings or polling. The price may reflect private insider knowledge or a stale quote; without concrete evidence of mispricing, the case to trade is weak.
+Raymond McKay has filed federal paperwork and is currently the only Republican publicly listed as running for the 2026 RI U.S. Senate Republican primary, which supports a high probability of nomination; however Rhode Island’s filing/nomination window remains open through late June/July 2026 and McKay lost the 2024 GOP primary, so credible challengers could still emerge. Given that, the market’s 81% looks plausible but may be mildly overstated; estimated expected value of further investigation/tr
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-The market asks whether Raymond McKay will emerge as the winner of the 2026 Rhode Island Republican Senate primary (“YES”) versus any other outcome—either another candidate wins, or no Republican primary occurs (“NO,” which also covers “Other”). A “YES” requires McKay to file, qualify for the ballot, and secure a plurality in the Republican primary election.
+1) CONTEXT ANALYSIS — what the market is asking
+- The market asks whether Raymond (Ray) McKay will be the Republican nominee in the Rhode Island Republican primary for U.S. Senate (the market resolves to the Republican primary winner; if no Republican primary occurs it resolves to “Other”). For the market to resolve YES, McKay must be the certified winner of the Rhode Island Republican primary for U.S. Senate in 2026 (or an “overwhelming consensus of credible reporting” must identify him as the winner if the state party announcement is not used). For it to resolve NO, any other Republican must be the nominee (including a different declared candidate who wins the primary), or the race resolves to “Other” under the contract’s contingency.
 
-2. EVIDENCE EVALUATION
-– No research document mentions McKay as a declared or leading candidate.  
-– GOP chair Allyn Meyers is focused on party-building but hasn’t publicly endorsed or discussed Senate contenders.  
-– High‐profile Rhode Island GOP activity centers on other races (governor); no Senate candidate coverage.  
-– Absence of reporting could mean McKay is a dark horse with insider support or simply not competitive.  
-– No polling, endorsements, campaign finance, or filing details on McKay’s candidacy are provided—critical data missing.  
-– No evidence directly contradicts an 81% probability, but equally there’s no support for it in public sources.  
+2) EVIDENCE EVALUATION — facts and how they move probability
+- McKay has active federal filings and a campaign committee: the FEC lists Raymond Tyler McKay (candidate ID S4RI00051) and the committee MCKAY FOR SENATE INC. This is direct evidence he intends to run and has been raising/spending early campaign money. ([fec.gov](https://www.fec.gov/data/candidate/S4RI00051/))
+  - Implication: being an active FEC filer makes him a credible declared candidate and raises the baseline probability he will be on the ballot and compete for the nomination.
 
-3. MARKET EFFICIENCY ANALYSIS
-– The 81% price likely stems from private knowledge—e.g., early filing data, party insider word, or a lone overconfident trader.  
-– $0 volume over 95 days suggests minimal engagement; a tight spread implies that the price setter(s) face no challenge.  
-– Could be consensus among a small circle with direct insight, or a stale quote that hasn’t been updated by informed traders.  
+- As of available public filings/news, McKay appears to be the only Republican with filed federal paperwork for the 2026 RI Senate race (public trackers and party pages list him as the solo Republican filer to date). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island))
+  - Implication: if he remains the only Republican on the ballot, his probability of being the nominee is high (often close to 100% if unopposed or little-organized opposition exists). That fact is the key driver behind a high market price.
 
-4. MISPRICING ASSESSMENT
-– No public evidence indicates whether McKay has filed or raised funds, so we can’t verify an 81% win chance.  
-– Given the lack of basic candidate information in major outlets, the market price may overstate confidence.  
-– But it’s equally plausible that insiders know McKay is unopposed or heavily favored.  
-– Absent candidate filing records or fundraising reports, there’s no specific, credible info demonstrating a >20¢ mispricing.  
+- Filing / nomination calendar: Rhode Island’s 2026 election calendar and state guidance show declarations/nomination paperwork deadlines in late June / mid-July 2026 (primary on Sept 8, 2026), so other candidates can still legally declare and qualify for the ballot before the deadline. ([vote.sos.ri.gov](https://vote.sos.ri.gov/Forms/Elections/Guides/2026_ElecCal.pdf))
+  - Implication: the race remains open to other entrants between now (March 14, 2026) and the state filing/nomination deadlines; thus a single-filer equilibrium is not guaranteed.
 
-5. EXPECTED VALUE CALCULATION
-– Strength of evidence (lack of any McKay data): ~10% chance that new public data would reveal a large mispricing.  
-– Potential magnitude if wrong: up to 20¢ (major surprise candidate filings), but that’s highly speculative.  
-– Expected value ≈ 10% × 20¢ = 2¢  
+- Past primary performance: official RI primary results show McKay previously lost the 2024 Republican U.S. Senate primary (he received 6,681 votes — ~35.6% — to Patricia Morgan’s ~64.4%). That historical result indicates he can mount a campaign but was not the favored Republican in 2024. ([elections.ri.gov](https://elections.ri.gov/sites/g/files/xkgbur756/files/2024-12/Prim24Summary.pdf))
+  - Implication: if a stronger or better-funded Republican enters (e.g., Patricia Morgan or another established GOP figure), McKay may be an underdog; conversely, if no well-known Republican enters, his prior name recognition and campaign infrastructure increase his chances.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Public research yields no mention of Raymond McKay’s candidacy, leaving the 81% probability unsupported by known filings or polling. The price may reflect private insider knowledge or a stale quote; without concrete evidence of mispricing, the case to trade is weak.  
-CONFIDENCE: low
+Bullish evidence for market price (i.e., supports 81%):
+- He is an active, declared federal candidate (FEC filings, committee), and currently listed by multiple trackers as the only Republican filer — that alone raises his current probability materially versus a field with multiple declared challengers. ([fec.gov](https://www.fec.gov/data/candidate/S4RI00051/))
+- Several prominent Rhode Island Republicans are either running for other offices (governor, etc.) or have not publicly declared Senate bids; local reporting does not show a currently active, better-known Republican Senate challenger. ([electrepublicans.org](https://electrepublicans.org/races/ri/senate/2026/))
+
+Bearish evidence (i.e., suggests current price might be too high):
+- The official RI candidate/nomination deadlines are still months away (late June/July deadlines), meaning credible entrants could still appear and displace McKay before the ballot is set. ([vote.sos.ri.gov](https://vote.sos.ri.gov/Forms/Elections/Guides/2026_ElecCal.pdf))
+- McKay lost the 2024 Republican primary by a sizable margin to Patricia Morgan; if Morgan or another prominent Republican decides to run again, McKay’s chances would drop substantially. ([elections.ri.gov](https://elections.ri.gov/sites/g/files/xkgbur756/files/2024-12/Prim24Summary.pdf))
+- The market has zero total volume (low liquidity) and a very tight spread — a classic sign that the posted price may reflect one/few traders’ beliefs rather than broad information aggregation.
+
+Source credibility and recency
+- FEC candidate and committee pages are primary, authoritative, and up-to-date for filings — high credibility for the fact he has filed. ([fec.gov](https://www.fec.gov/data/candidate/S4RI00051/))
+- Rhode Island Secretary of State election calendar (official state PDF) is authoritative on filing/nomination deadlines — high credibility and directly relevant. ([vote.sos.ri.gov](https://vote.sos.ri.gov/Forms/Elections/Guides/2026_ElecCal.pdf))
+- Official RI 2024 primary result PDF is the authoritative record of past results — high credibility for McKay’s 2024 performance. ([elections.ri.gov](https://elections.ri.gov/sites/g/files/xkgbur756/files/2024-12/Prim24Summary.pdf))
+- Aggregate trackers / party pages (ElectRepublicans, Wikipedia) are secondary sources. They are useful summaries but can lag or miss last-minute developments; they are credible for the snapshot that McKay is currently the only Republican filer, but should not substitute for official state filings nearer the state deadlines. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island))
+
+Skepticism about “obvious” evidence
+- It would be too easy to take “only filed Republican = nominee” at face value. History and the state calendar show multiple strong potential entrants can still emerge; the market may be pricing a low-competition scenario (which could be right) or the idiosyncratic view of a lone trader (which would not generalize).
+
+3) MARKET EFFICIENCY ANALYSIS — how to interpret the 81% price
+- Reasonable interpretations that justify 81%:
+  - Traders see McKay as the only realistic Republican challenger so far; unopposed or lightly opposed candidates often carry very high pre-ballot probabilities.
+  - Traders may consider logistical hurdles (signature collection, ballot-qualification) and judge McKay likely to be the only candidate who will complete those steps by the July certification deadlines.
+  - McKay’s active FEC filings and committee suggest organizational readiness that deters late entrants.
+
+- Reasons price might reflect a single/trivial-information trader rather than consensus:
+  - The market shows total volume $0 and is 101 days old; tight spread with no volume is consistent with an initial liquidity provider or a single user setting price and no one else trading to test it.
+  - If many informed local political operatives or bettors thought the probability much lower, they would see a low-cost opportunity to sell — but low volume suggests they haven’t engaged (either because they agree or because the market size/liquidity is too small).
+
+- Why low volume may exist here:
+  - The outcome is primarily determined by who files; many traders wait until the official filing/nomination window closes before active betting.
+  - Local, small-state races attract less national speculative interest; only local operatives would trade, and they may prefer to wait for ballot-certification.
+
+4) MISPRICING ASSESSMENT — weighing both sides
+- What the evidence implies:
+  - If no other credible Republican files by the nomination certification deadline, McKay’s probability of being the nominee is very high (approaching 90–100%). The market’s 81% then might be slightly conservative but not obviously wrong.
+  - If one or more stronger Republicans (e.g., a recent nominee like Patricia Morgan or a better-funded, better-known state official) enters, McKay’s win probability could fall materially from 81% toward a much lower number — the market would then be significantly mispriced.
+
+- Critical check (double-checking resolution criteria & pitfalls):
+  - Resolution depends on the certified winner of the Rhode Island Republican primary (state party first announcement is primary resolver; overwhelming credible reporting may suffice). There’s no apparent technicality (e.g., early-event already happened) that would make the contract moot at this time. The key remaining uncertainty is new filings/ballot qualification before the July certification deadlines. ([vote.sos.ri.gov](https://vote.sos.ri.gov/Forms/Elections/Guides/2026_ElecCal.pdf))
+  - Given that, a large (>20¢) mispricing would be surprising absent strong unreported information (e.g., an imminent filing by a Morgan-level candidate or an impending withdrawal by McKay). I do not find credible reporting of such developments at present.
+
+5) EXPECTED VALUE CALCULATION — estimate of value from investigating/trading
+- My judgmental “fair” probability for McKay today (March 14, 2026) given the evidence: about 70%. Rationale: he is the only declared Republican filer (raises baseline), but the filing/nomination window is still open and his 2024 primary loss indicates vulnerability if a stronger challenger emerges. ([fec.gov](https://www.fec.gov/data/candidate/S4RI00051/))
+- Market probability: 81% → implied overpricing = 11 percentage points (11 cents).
+- Strength of evidence that the market misses important facts: moderate — I estimate 60% that this evidence (single-filer status + open filing window + McKay’s recent primary loss) reflects a genuine mispricing rather than noise.
+- Expected value = Strength × Magnitude = 0.60 × 11 cents = 6.6 cents.
+
+6) CONFIDENCE
+- My confidence in this assessment: medium.
+
+Final judgement (short)
+- The market price (81%) is plausible given that McKay is currently the only Republican with federal filings and is listed by public trackers as the lone Republican entrant. However, important upstream uncertainty remains because Rhode Island’s official nomination/filing window and ballot-certification process extend into June/July 2026 and could bring stronger challengers onto the ballot. The available evidence does not prove a large mispricing; it suggests a modest possible over-price (≈11¢) with moderate confidence.
+
+EXPECTED_VALUE: 6.6
+SUMMARY: Raymond McKay has filed federal paperwork and is currently the only Republican publicly listed as running for the 2026 RI U.S. Senate Republican primary, which supports a high probability of nomination; however Rhode Island’s filing/nomination window remains open through late June/July 2026 and McKay lost the 2024 GOP primary, so credible challengers could still emerge. Given that, the market’s 81% looks plausible but may be mildly overstated; estimated expected value of further investigation/trading is ~6.6 cents. ([fec.gov](https://www.fec.gov/data/candidate/S4RI00051/))
+
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: RI's new GOP chair talks about selling voters on Republican candidates
-Author: Katherine Gregg
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.providencejournal.com/story/news/politics/2026/02/23/ris-new-gop-chair-talks-about-selling-voters-on-republican-candidates/88477942007/
-Summary: The article discusses Allyn Meyers, the newly elected chairman of the Rhode Island Republican Party, focusing on his efforts to build a professional, election-ready organization and increase Republican representation in a predominantly Democratic state. Meyers, a former union president and computer company owner inspired by Ronald Reagan, emphasizes personal engagement and strategic outreach. While the article highlights Meyers's background and approach, it does not mention Raymond McKay or provide any specific information about potential Senate nominees. Therefore, based on this source, there is no relevant information to predict whether Raymond McKay will be the Republican nominee for Senate in Rhode Island.
+### [MCKAY, RAYMOND TYLER MR - Candidate overview | FEC](https://www.fec.gov/data/candidate/S4RI00051/)
+**Author:** Federal Election Commission | **Published:** Unknown
 
-Title: Elaine Pelino running for RI governor ...
-URL: https://www.facebook.com/WPRI12/posts/elaine-pelino-a-former-actress-and-model-is-running-for-governor-of-rhode-island/1269049555253260/
-Summary: Elaine Pelino, a former actress and model, announced her candidacy for Rhode Island governor as a Republican in July 2025. She has garnered significant attention on social media, with over 5,000 reactions and thousands of comments and shares. There is no information indicating her involvement or potential influence on the Republican primary for the U.S. Senate seat in Rhode Island or her prospects of becoming the Republican nominee for Senate.
+The FEC candidate page lists Raymond Tyler McKay (candidate ID S4RI00051) as a Republican candidate for U.S. Senate from Rhode Island and provides his filing status and related campaign filings. This is primary evidence that McKay has formally launched a federal Senate campaign (FEC paperwork) and is organizing a committee; it therefore supports the proposition that he is a declared candidate and likely to attempt ballot qualification. This information increases the baseline probability he will be the Republican nominee unless a stronger challenger files and qualifies before the state deadlines. ([fec.gov](https://www.fec.gov/data/candidate/S4RI00051/))
 
-Title: McGowan: R.I. Governor McKee is still fighting to win over his own party, five years in
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.bostonglobe.com/2026/03/02/metro/dan-mckee-faces-primary-challenge-ri-mcgowan/?p1=Article_Feed_AuthorQuery
-Summary: The article focuses on Rhode Island Governor Dan McKee's ongoing struggles to secure support within his Democratic Party five years into his tenure. Despite winning statewide elections comfortably, McKee faces a primary challenge from Helena Foulkes, who polls suggest has a significant lead. McKee's approval ratings are low, with recent polls showing him at 18-30%, and prediction markets favor Foulkes to win the primary. His efforts to rally union support and secure party endorsement are ongoing, but he still has substantial work ahead as the primary approaches. This context indicates a challenging political environment for McKee's reelection prospects, highlighting the importance of party support and public approval in Rhode Island's gubernatorial race.  
-*Note:* The summary does not directly address Raymond McKay or the Republican Senate nomination, but provides insight into the Democratic primary landscape and political challenges in Rhode Island, which could influence or relate to broader statewide races.
+### [MCKAY FOR SENATE INC - committee overview | FEC](https://www.fec.gov/data/committee/C00827964/)
+**Author:** Federal Election Commission | **Published:** Unknown
 
-Title: Congressional Record
-URL: https://www.congress.gov/119/crec/2025/09/18/171/153/CREC-2025-09-18-senate.pdf
-Summary: The Congressional Record from September 18, 2025, primarily covers Senate proceedings, including a prayer, the Pledge of Allegiance, and discussions on national health issues. Notably, Senator Grassley highlighted September 19 as National Stillbirth Prevention and Awareness Day, emphasizing the importance of addressing stillbirth rates and maternal health initiatives, such as the Maternal and Child Health Stillbirth Prevention Act and the bipartisan Healthy Moms and Babies Act. There is no mention of Raymond McKay or any information related to Senate nominations or Rhode Island's Senate race. Therefore, this record does not provide relevant details to predict whether Raymond McKay will be the Republican nominee for Senate in Rhode Island.
+The FEC committee page for "MCKAY FOR SENATE INC" shows the candidate’s campaign committee, receipts, disbursements and filing activity. It confirms McKay has an active campaign organization and fundraising/reporting, which is evidence of campaign seriousness and organizational capacity. This supports a higher probability he will complete ballot-qualification and compete effectively in the primary absent a better-funded or better-known opponent. ([fec.gov](https://www.fec.gov/data/committee/C00827964/))
 
-Title: McKee and Foulkes gear up for primary rematch in R.I. governor's race
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.bostonglobe.com/2026/02/19/metro/mckee-foulkes-democratic-primary-ri-governors-race/?p1=Article_Feed_AuthorQuery
-Summary: The article focuses on the upcoming Democratic primary for Rhode Island governor between incumbent Dan McKee and challenger Helena Foulkes, set for September 8, with early voting beginning August 19. It discusses the campaign dynamics, including campaign strategies, key issues like the opioid crisis and the Washington Bridge fiasco, and the potential influence of other candidates. However, there is no information provided about Raymond McKay or the Republican Senate race in Rhode Island. Therefore, the webpage does not contain relevant details to predict whether Raymond McKay will be the Republican nominee for Senate in Rhode Island.
+### [Summary Results Report Primary Election 2024 (official)](https://elections.ri.gov/sites/g/files/xkgbur756/files/2024-12/Prim24Summary.pdf)
+**Author:** Rhode Island Board of Elections | **Published:** 2024-12-09
 
+The official Rhode Island summary of the September 10, 2024 primary shows Raymond T. McKay receiving 6,681 votes (≈35.56%) in the 2024 Republican U.S. Senate primary, while Patricia Morgan received a majority. This is authoritative evidence of McKay’s past electoral performance: he has name recognition and previously mounted a statewide campaign but was decisively beaten by a better-known Republican in 2024. That past result lowers his implied probability of defeating a well-known Republican should one enter the 2026 primary. ([elections.ri.gov](https://elections.ri.gov/sites/g/files/xkgbur756/files/2024-12/Prim24Summary.pdf))
 
+### [2026 United States Senate election in Rhode Island — Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island)
+**Author:** Unknown | **Published:** Unknown (page current as of March 2026)
+
+The Wikipedia page for the 2026 Rhode Island U.S. Senate race lists declared/filing-party candidates and (at present) identifies Raymond McKay as having filed paperwork for the Republican primary while noting Jack Reed is the incumbent Democrat running for re‑election. The page aggregates public filings and news reporting and is useful as a current snapshot showing McKay as the only listed Republican filer; however, Wikipedia is a secondary source and should be cross-checked against primary filings and state deadlines. This snapshot supports the market’s current high probability but does not preclude late entrants. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island))
+
+### [Rhode Island U.S. Senate — Republican Candidates / Rhode Island 2026 (ElectRepublicans.org)](https://electrepublicans.org/races/ri/senate/2026/)
+**Author:** ElectRepublicans (Unknown author) | **Published:** Unknown
+
+The ElectRepublicans page for the Rhode Island Senate race lists one Republican candidate (Raymond McKay) for 2026 and provides a short profile. It corroborates other trackers that McKay is currently the only Republican publicly listed/organized for the race. This supports a high near-term probability that McKay will be the nominee unless other candidates appear and successfully qualify for the ballot before the official nomination deadlines. ElectRepublicans is a partisan tracker and should be used as corroborative rather than definitive. ([electrepublicans.org](https://electrepublicans.org/races/ri/senate/2026/))
+
+### [Rhode Island Election Calendar Guide – 2026 (Secretary of State / Elections Division)](https://vote.sos.ri.gov/Forms/Elections/Guides/2026_ElecCal.pdf)
+**Author:** Rhode Island Department of State (Secretary of State Gregg M. Amore) | **Published:** Unknown (2026 Election Calendar)
+
+The official Rhode Island election calendar lists key dates for 2026 federal and state races: deadlines for declarations, nomination paper pickup and submission, objections, and certification; it also lists the primary date (September 8, 2026) and the relevant late-June/July windows for declarations and nominations. This is authoritative on when other candidates can still enter and qualify for the ballot — a core piece of evidence showing the race remains open to new entrants and that current single-filer status can change up until the state deadlines. ([vote.sos.ri.gov](https://vote.sos.ri.gov/Forms/Elections/Guides/2026_ElecCal.pdf))
