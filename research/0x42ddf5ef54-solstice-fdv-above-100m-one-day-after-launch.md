@@ -1,88 +1,134 @@
 # Research: Solstice FDV above $100M one day after launch?
 
 **Market ID:** 0x42ddf5ef540070c0c7a44011d7b66d252edb2162d68a72d9dd429d5b93c6736b
-**Researched At:** March 10, 2026 at 04:18:23 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Solstice FDV above $100M one day after launch?"
+**Researched At:** March 15, 2026 at 04:35:27 AM UTC
+**Search Query:** "Solstice FDV above $100M one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Given the absence of public tokenomics and the sharp drop in probabilities seen in similar one-day FDV markets, the 21.5% price for >$100 M seems plausible rather than clearly mispriced. No direct evidence supports a material arbitrage opportunity.
+Press and project documents indicate a Legion sale and a 1,000,000,000 SLX total supply, which would make FDV > $100M equivalent to a price > $0.10 per SLX; however, TGE timing, unlock mechanics, and shallow early liquidity create significant execution risk. I estimate a modest mispricing edge (expected value ≈ 4.0 cents) but with only medium confidence due to remaining uncertainty about the actual tradable market and which price source will be used at resolution.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Solstice’s governance token will have a fully-diluted valuation (FDV) above $100 million exactly one day after its public launch (4 PM ET the following calendar day). A “Yes” requires (a) an active, public token launch by 12/31/2026 and (b) a token supply × market price > $100 million at the 4 PM ET snapshot. Otherwise it settles “No.”
+Analysis
 
-2. EVIDENCE EVALUATION  
-Bullish/Potential Undervaluation:  
-• Paradex one-day FDV market shows a 22% chance of > $300 million, implying that lower thresholds (e.g. $100 million) usually attract material probability—perhaps 40–60%—so 21.5% may be too low.  
-• General token valuation frameworks (e.g. DFDV’s “Digital City” scarcity model) suggest that strong on-chain demand can drive short-term valuations well above traditional baselines if narrative and liquidity align.  
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- Market question: "Solstice FDV above $100M one day after launch?" That resolves YES if, one calendar day after the token's launch (defined by the market as 4:00 PM ET on the calendar day after launch), the Fully Diluted Valuation (FDV) calculated as (total token supply × token price) is strictly greater than $100,000,000. It resolves NO otherwise. The token must be actively, publicly transferable and tradable to count as a launch; if no token launch occurs by 2026-12-31 23:59 ET the market resolves NO.
+- To resolve YES you therefore need (a) the token to have a public tradable listing (a DEX or CEX tradeable market) and (b) the trading price at the resolution time such that price × total token supply > $100M. Key factual inputs for any forecast: the final total supply used in the FDV calculation and the price on the "most liquid price source available" at the resolution timestamp.
 
-Bearish/Potential Overvaluation:  
-• No direct data on Solstice token supply or release schedule; if supply is large or lock-ups delay trading float, > $100 million FDV could be structurally improbable.  
-• The AInvest article on Solstice Advanced Materials (a public chemical firm, not the token) underscores that markets often price in expansion catalysts ahead of actual performance, leaving little room for a sudden valuation jump.  
-• In Predict.fun’s launch market, the $50 million threshold has 91% probability and the $100 million mark is deeply out-of-favor—mirroring typical steep drop-offs between adjacent thresholds.
+2) EVIDENCE EVALUATION — what I found and how it bears on the question
+Summary of the most relevant, load-bearing findings (each item below cites the source I used):
 
-Source Credibility/Recency: All articles are from early 2026 and appear reputable. However, none directly report Solstice tokenomics or pre-launch interest metrics, leaving a key information gap.
+- Existence/timing of a public sale / launchpad event: multiple crypto press reports state Solstice (SLX) ran a public sale/presale on the Legion launchpad starting December 22, 2025 (reports describe a Legion sale window around Dec 22–29, 2025). This is consistent across several exchange/news outlets. ([kucoin.com](https://www.kucoin.com/news/flash/slx-to-launch-on-legion-on-december-22-solana-s-solstice-protocol-expands-with-325m-tvl?utm_source=openai))
+  - Implication: there was an organized token sale that could set an initial market price or supply schedule; but a launchpad sale does not automatically guarantee an immediately tradable token on a major public market at TGE — the sale can be followed quickly by listings or by separate DEX liquidity provisioning.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• The 21.5% price could reflect knowledgeable traders who’ve seen the tokenomics (e.g. total supply, vesting schedules) and believe > $100 million FDV is unlikely.  
-• Low volume and tight spread suggest either a single liquidity provider or quiet consensus; absence of significant arbitrage activity may simply reflect the opaque supply details rather than mispricing.  
-• Analogous markets (Predict.fun, Paradex) show that traders rapidly calibrate probabilities for one-day FDV thresholds; Solstice’s 21.5% may just mirror typical steep probability curves.
+- Tokenomics / total supply: multiple token-info pages and the project whitepaper references list SLX total supply = 1,000,000,000 (1 billion) SLX. (Sources repeat the 1B figure and distribution percentages). ([coincarp.com](https://www.coincarp.com/currencies/solstice-finance/project-info/?utm_source=openai))
+  - Implication: FDV > $100M requires price > $0.10 per SLX (because 1,000,000,000 × $0.10 = $100M). Any FDV claims must be interpreted against that 1B supply assumption.
 
-4. MISPRICING ASSESSMENT  
-No credible evidence of a > 20¢ mispricing emerges. All known token-launch markets display sharp declines in probability past the first valuation hurdle. The lack of public tokenomic details likely suppresses probabilities around $100 million. While Paradex data hint at somewhat higher odds for lower thresholds, without clarity on Solstice supply or community demand, traders’ 21.5% seems as defensible as any estimate in a low-volume, information-scarce market.
+- Reported FDV target / implied sale pricing: at least one launch/ICO listing page and media summaries indicate the Legion sale was aiming at an implied FDV in the low hundreds of millions (examples cite a ~$130M FDV target). If the presale/launchpad price targeted an implied FDV ≈ $130M, that corresponds to an initial per-token price ≈ $0.13 (1B supply). ([coinlaunch.space](https://coinlaunch.space/events-rounds/solstice-legion-ico-round/?utm_source=openai))
+  - Implication: if that pricing carried into a tradable market at TGE, the FDV would be comfortably above $100M.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off by >10 cents: ~20% (info gap, but no direct contradicting data)  
-Magnitude of plausible mispricing: ~10 cents  
-Expected value ≈ 20% × 10 c = 2 c
+- Protocol traction / demand-side evidence: reporting on Solstice’s USX stablecoin and YieldVault describes meaningful Total Value Locked (TVL) figures reported in public coverage, with numbers that multiple outlets report in the low-hundreds-of-millions range (examples: reported TVL figures like $160M → $325M range in coverage). The project is also cited as having institutional partners/backing in some write-ups. ([kucoin.com](https://www.kucoin.com/news/flash/slx-to-launch-on-legion-on-december-22-solana-s-solstice-protocol-expands-with-325m-tvl?utm_source=openai))
+  - Implication: high TVL and institutional integrations are bullish for a decent listing price and post-listing demand, which could support an FDV > $100M — but TVL is an imperfect and noisy proxy for token demand (and many protocols with high TVL still launch governance tokens that trade at low implied FDV initially).
 
-EXPECTED_VALUE: 2  
-SUMMARY: Given the absence of public tokenomics and the sharp drop in probabilities seen in similar one-day FDV markets, the 21.5% price for >$100 M seems plausible rather than clearly mispriced. No direct evidence supports a material arbitrage opportunity.  
-CONFIDENCE: low
+- Public-sale / TGE mechanics: some write-ups on the public-sale terms stated “100% unlock at TGE” for public-sale tokens and that the TGE was being targeted in Q1 2026 (i.e., the sale/presale timeline and the final token generation event and public tradability were still subject to project scheduling). ([t.signalplus.com](https://t.signalplus.com/crypto-news/detail/solstice-slx-public-sale-100pct-tge-14day-refund-q1-2026?utm_source=openai))
+  - Implication: a 100% unlock makes immediate listing/liquidity possible but also raises risk of selling pressure; a targeted-but-not-fixed TGE date increases timing uncertainty and therefore price uncertainty at the market’s resolution timestamp.
+
+- Evidence of low-liquidity / low-volume pricing appearing in token trackers (and scattered small DEX pools / community posts): public token-price listings and community posts show small trading pools and micro-prices for some SLX trading pairs (and/or confusion with other tokens named “Solstice”), and the overall trading volume visible in public trackers was small/fragmented where available. This indicates early trades (if any) were low-volume and price discovery remains incomplete. ([geckoterminal.com](https://www.geckoterminal.com/bsc/pools/0x7530be70caa60101ea88e1ef418ebfbaa58957cc?utm_source=openai))
+  - Implication: if the early tradable markets have shallow liquidity, the market price one day after launch could be heavily influenced by a few large orders or by whether market makers/CEXs step in — that favors conservatism in pricing.
+
+Credibility and recency
+- Primary/relatively higher-credibility items: KuCoin newsroom and established launchpad/event trackers reported the Legion sale and TVL figures (KuCoin/Phemex/CoinLaunch type pages). These are second‑hand reporting of project announcements but are standard industry coverage for a token presale and are recent (December 2025 → early 2026) relative to today (2026-03-15). ([kucoin.com](https://www.kucoin.com/news/flash/slx-to-launch-on-legion-on-december-22-solana-s-solstice-protocol-expands-with-325m-tvl?utm_source=openai))
+- Project materials / whitepaper: the project whitepaper / tokenomics (gitbook / project docs) provide the source numbers (total supply, allocation). Those are the most relevant primary documents for FDV calculation, but in some cases access was limited and different aggregator pages repeat those figures — I treated the whitepaper/official tokenomics as the authoritative source where available. ([109607783-files.gitbook.io](https://109607783-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F44900wRUr08Ym1oXIDzr%2Fuploads%2FIvSZSmTaX179coTYJRWP%2FSolstice%20SLX%20Whitepaper%201.0.pdf?alt=media&token=04fbc536-4543-46aa-8c67-acd81dfafe52&utm_source=openai))
+- Caution: much of the coverage is from crypto press and launchpad pages repeating project announcements; that is standard but not ironclad evidence of how the token will trade at TGE. Also there’s some fragmentation and mild confusion across trackers (different tickers, similarly-named tokens), so caution is required before assuming any on-chain price snapshot is the correct tradable market for FDV measurement. ([coinmarketcap.com](https://coinmarketcap.com/cmc-ai/slimex/price-analysis/?utm_source=openai))
+
+Where the evidence supports the market price (21%)
+- Uncertainty about the actual TGE timing and whether a liquid, reputable market will exist exactly at the one-day-post-launch timestamp. Several sources reported a targeted TGE/Q1-2026 window and/or the presale on Legion, but the actual CEX/DEX listings and liquidity provisioning remain uncertain. That timing uncertainty plausibly lowers the chance FDV > $100M by the market’s deadline — consistent with a sub-50% probability like 21%. ([t.signalplus.com](https://t.signalplus.com/crypto-news/detail/solstice-slx-public-sale-100pct-tge-14day-refund-q1-2026?utm_source=openai))
+- Supply / selling pressure risks: public-sale 100% unlock and sizeable allocations for ecosystem / team can create immediate selling pressure at TGE, lowering market price relative to a naive presale FDV target. Markets might discount for immediate and post-TGE selling. ([t.signalplus.com](https://t.signalplus.com/crypto-news/detail/solstice-slx-public-sale-100pct-tge-14day-refund-q1-2026?utm_source=openai))
+- Low observed trading volume and fragmented liquidity: publicly visible pools and trackers show shallow early liquidity, meaning price is fragile and could easily fall below levels needed for FDV > $100M, again supporting a cautious (lower) market probability. ([geckoterminal.com](https://www.geckoterminal.com/bsc/pools/0x7530be70caa60101ea88e1ef418ebfbaa58957cc?utm_source=openai))
+
+Where the evidence suggests the market price might be too low
+- Multiple sources reported a Legion sale that implied an FDV target in the ~$130M neighborhood (which would be above the $100M threshold) and the project’s 1B total-supply tokenomics would make the price threshold (>$0.10) reachable if that sale price carried to public markets. If the Legion sale price did in fact set a market that converts to a tradable listing at TGE, the chance of FDV > $100M would be materially higher than 21%. ([coinlaunch.space](https://coinlaunch.space/events-rounds/solstice-legion-ico-round/?utm_source=openai))
+- The protocol’s reported TVL and institutional integrations are substantial (low-hundreds-of-millions reported), which is supportive of demand and a narrative that the network could sustain a post-launch price consistent with FDV > $100M — market participants could be underweighting that potential. ([zoonop.com](https://zoonop.com/articles/solstice-finance-outlines-slx-token-distribution-ahead-of-december-launch-community-sale-planned?utm_source=openai))
+
+Skeptical thoughts (why the market might still be correct)
+- The key unknowns that materially change the probability: (a) the exact total supply used in the FDV calculation (whitepaper and aggregator pages say 1B, but if the resolution uses a different supply figure that changes the threshold), (b) whether the most liquid price source at resolution will be a thin DEX pool subject to whipsaw, or a deeper CEX market, and (c) how much vested/team/airdrop supply is sold into the market in the first 24–48 hours. Any of these unknowns could plausibly cause a lower FDV than implied by presale targets.
+- Press reports may reflect fundraising targets or presale marketing rather than the price at which a broad secondary market will value the token one day after launch. Markets often discount presale prices because presale buyers have different behavior than the broad public. That justifies a conservative market probability like 21%.
+
+3) MARKET EFFICIENCY ANALYSIS — can the current price be justified?
+Reasonable interpretations that justify 21%:
+- The market may be pricing significant execution/timing risk (will there be a sufficiently liquid, reputable market at the one‑day-after time?), the risk of heavy sell pressure from unlocks, and general market conditions for new token listings. Those factors can cut the chance of FDV > $100M materially even if the presale implied FDV target was higher.
+- Low visible trading volume and apparent fragmentation of SLX liquidity suggest that the observed price is based on little data and could reflect one or two traders. The market's tight spread despite effectively zero volume likely indicates only a small number of orders are setting the bid/ask; that increases the chance the market price is not a robust aggregate of diverse informed participants.
+- Conversely, if Legion sale pricing and project TVL make an FDV > $100M the most likely outcome conditional on a clean TGE and listings, then 21% could reflect the market’s judgment that “clean TGE + listing liquidity” is unlikely enough to justify that implied price.
+
+4) MISPRICING ASSESSMENT — do I find credible evidence of mispricing?
+- Bottom-line: there is plausible evidence on both sides. Press and project materials indicate the presale/launchpad pricing and 1B supply could imply an FDV comfortably above $100M if the price carries into a liquid listing. That would argue the market (21%) may be underweight the “happy path.” ([coinlaunch.space](https://coinlaunch.space/events-rounds/solstice-legion-ico-round/?utm_source=openai))
+- But there is also credible evidence of reasons to discount that happy path: TGE timing uncertainty (targets rather than fixed dates), risk of immediate selling because of 100% unlocked public-sale tokens, shallow or fragmented early liquidity, and lack of confirmed major exchange listings at TGE. Those are legitimate reasons for a conservative market probability. ([t.signalplus.com](https://t.signalplus.com/crypto-news/detail/solstice-slx-public-sale-100pct-tge-14day-refund-q1-2026?utm_source=openai))
+- Given this mix, I do not see conclusive, high‑confidence evidence that the market price is grossly wrong (say, off by >20 percentage points with high confidence). The largest single risk in declaring a large mispricing would be misunderstanding the exact FDV calculation/resolution source (the market resolution rule uses “total token supply × token price” and “most liquid price source available” — both are straightforward but in practice which exchange/pool counts as “most liquid” can matter a lot). Re-checking those resolution details shows that it is plausible the market is appropriately discounting practical listing/liquidity risk.
+
+5) EXPECTED VALUE CALCULATION — estimate of the value of acting on a perceived mispricing
+- My judgmental estimate:
+  - Strength of evidence (how likely the new/overlooked information would change the market price): ~40%. There are credible signals that could move the probability materially (presale implied FDV, TVL), but also substantial countervailing uncertainties and noisy reporting, so strength is modest-to-moderate.
+  - Magnitude of mispricing (if there is one): I estimate the market could be underpricing the "FDV>100M" probability by ~10 percentage points (i.e., the "true" probability might be ~31% vs market 21%) in a plausible scenario where the Legion sale price or initial listings hold. That is a 10-cent mispricing in contract price terms.
+  - Expected value = Strength × Magnitude = 0.40 × 10 cents = 4.0 cents.
+
+6) CONFIDENCE in this assessment
+- My overall confidence level in the assessment above: medium. There is meaningful public reporting and project documentation pointing in both directions, but the crucial items that determine resolution (exact token supply used for FDV, where the “most liquid price source” will be, actual TGE timing and immediate liquidity) remain uncertain and materially affect probabilities.
+
+CRITICAL CHECK (self-review)
+- I re‑checked the resolution criteria: the market uses total token supply × price (FDV) and the most liquid price source at 4:00 PM ET the day after launch. That means even if early circulating supply is small and price per circulating token is high, FDV uses total supply — so a high initial per-token price is required to cross $100M given a 1B supply. I verified multiple sources list 1B total supply. If total supply were smaller, the threshold price would fall; if the project or resolution uses a different supply figure, that could materially change the result. This is the core technicality that could explain large differences between a naive reading of presale FDV targets and the true resolution outcome. ([coincarp.com](https://www.coincarp.com/currencies/solstice-finance/project-info/?utm_source=openai))
+
+Conclusion (short)
+- There is plausible evidence both for and against FDV > $100M one day after launch. Press and tokenomics suggest the sale targeted an implied FDV above $100M, but real execution risks (timing, liquidity, selling pressure) and the sensitivity of FDV to total supply make this outcome uncertain. I judge modest potential that the market (21%) is slightly too pessimistic; I estimate an expected-value edge of roughly 4.0 cents (see calculation above), with medium confidence. I do not find high-confidence evidence of a large mispricing.
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Press and project documents indicate a Legion sale and a 1,000,000,000 SLX total supply, which would make FDV > $100M equivalent to a price > $0.10 per SLX; however, TGE timing, unlock mechanics, and shallow early liquidity create significant execution risk. I estimate a modest mispricing edge (expected value ≈ 4.0 cents) but with only medium confidence due to remaining uncertainty about the actual tradable market and which price source will be used at resolution.
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Solstice Advanced Materials: Assessing the Nuclear Expansion Thesis Against a Priced-In Run-Up
-Author: AInvest
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.ainvest.com/news/solstice-advanced-materials-assessing-nuclear-expansion-thesis-priced-run-2602/
-Summary: The article discusses Solstice Advanced Materials' recent stock surge, driven by expectations of nuclear expansion and increased production. Despite a 62.8% year-to-date rise and analyst price target hikes (up to $90), the company's conservative EBITDA guidance and high valuation ratios suggest the market has already priced in significant growth prospects. The core growth driver is a planned 20% capacity increase at the Metropolis Works facility, supported by over $2 billion in backlog. However, the current market sentiment and high expectations imply that for Solstice to achieve a fully diluted valuation (FDV) above $100 million shortly after launch, the company would need to surpass its conservative guidance and demonstrate robust execution on expansion plans. The high valuation and cautious outlook from analysts indicate that any substantial valuation jump would depend on actual performance exceeding expectations.
+### [SLX to Launch on Legion on December 22, Solana's Solstice Protocol Expands with $325M TVL](https://www.kucoin.com/news/flash/slx-to-launch-on-legion-on-december-22-solana-s-solstice-protocol-expands-with-325m-tvl)
+**Author:** Unknown | **Published:** 2025-12-16
 
-Title: DFDV's $10,000 SOL Target: A Tactical Distraction or Setup?
-Author: AInvest
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.ainvest.com/news/dfdv-10-000-sol-target-tactical-distraction-setup-2602/
-Summary: The article discusses DeFi Development Corp's (DFDV) bold $10,000 SOL price target, based on a new valuation model framing Solana as a "digital city." The market reacted negatively, with shares dropping 2.2% immediately after the announcement, viewing it as speculative noise rather than a fundamental shift. The company's true value lies in its treasury, which holds 2.2 million SOL tokens valued at $293 million, representing a significant asset base that is largely ignored by the current stock price of $3.72. The valuation model is considered an intellectual exercise, while the treasury reflects the company's actual asset value. Key upcoming catalysts include Q4 2025 earnings transparency, SOL's support level at $80, and regulatory clarity on digital asset accounting. This context suggests that while the narrative may be dismissed in the short term, the substantial treasury backing could influence future valuation, relevant to predicting Solstice FDV surpassing $100 million shortly after launch.
+KuCoin's newsroom summary reports that Solstice will launch its SLX token on the Legion platform beginning Dec 22, 2025 and cites reported TVL figures (in the low hundreds of millions). This article is relevant because it documents the Legion sale timeline and the project’s reported on‑chain traction (TVL), both of which materially affect the probability that a tradable listing will generate an FDV above $100M at TGE. It supports the possibility that presale pricing could imply FDV > $100M, but does not guarantee that a liquid secondary market at that price will exist 1 day after launch.
 
-Title: SOL & the Digital City: A New Way to Value Layer 1 Tokens
-Author: DeFi Dev Corp. (Nasdaq: DFDV)
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.globenewswire.com/Tracker?data=Mx_b9wZK74srSfg1GWSaxmsPMdTfYXgPVzx-QPsxVvWmRNa1-OaTNY2WA75Z1i60lmZ9Uy7_QiE5RHxCoPA6E5HT24s4QG_HdUAoVDiiYIcudBpMXqmE8bMGxjVXtKiZSvKhluwlNNouDRpi94sKlHQfMqYLd4dGqLVRi-JzPL6LxqhWlE11pclJq0NS_6kI
-Summary: The article introduces a novel valuation framework for Solana (SOL), viewing it as a scarce digital real estate within a rapidly expanding on-chain economy. Unlike traditional models that rely on network revenue or dividends, this Demand-Float Derived Valuation (DFDV) approach considers SOL as a digital city with limited free float—approximately 10% of total supply available for trading. The model assesses four key demand sources—such as staking, DeFi protocols, institutional holdings, and onchain activity—to determine the implied value of SOL. Under current assumptions, the framework projects a long-term price around $10,000 per SOL, suggesting significant growth potential. This perspective emphasizes SOL's scarcity and structural demand, which could be relevant when evaluating its future valuation, including scenarios like Solstice FDV surpassing $100 million shortly after launch.
+### [Solstice Finance ($SLX) ICO on Legion | All Info & Stats](https://coinlaunch.space/events-rounds/solstice-legion-ico-round/)
+**Author:** Unknown | **Published:** 2025-12-24
 
-Title: Predict.fun FDV above ___ one day after launch? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://predictioncircle.com/event/predictfun-fdv-above-one-day-after-launch
-Summary: The webpage provides insights into prediction market sentiment regarding the fully diluted valuation (FDV) of Predict.fun one day after launch. Currently, the market strongly favors an FDV of $50M, with a 91% probability, while the $100M outcome trails behind. The total trading volume is $1.3M, indicating significant market activity and interest. The "Crowd vs Money" analysis shows high participation but relatively low capital backing for the $100M outcome, suggesting that while many are watching, fewer are betting heavily on it. To predict whether Solstice's FDV will exceed $100M one day after launch, one should consider the current market confidence in lower thresholds, the level of trader engagement, and the distribution of bets, which currently favor the $50M mark over higher valuations.
+CoinLaunch (event listing) provides sale parameters and reports that Solstice’s Legion ICO aimed at raising funds at an implied FDV (the page states an FDV target around $130M). This directly bears on the FDV question because if the ICO/launchpad price carried through to public markets, the required FDV threshold (> $100M) would be exceeded. The page also lists tokenomics and dates for the sale, offering a concrete bullish datapoint — but it is a launchpad/aggregator summary and therefore not definitive evidence of public-market price discovery at TGE.
 
-Title: Paradex FDV above ___ one day after launch? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://predictioncircle.com/event/paradex-fdv-above-one-day-after-launch
-Summary: The webpage analyzes the market sentiment and betting odds regarding Paradex's Fully Diluted Valuation (FDV) exceeding certain thresholds one day after launch. Currently, the leading prediction is that Paradex's FDV will be above $300 million, with a 22% probability, followed by $500 million at 6%, and other higher thresholds with lower probabilities. The market has seen $727K in trading volume over approximately 305 days, indicating active engagement and shifting expectations. The "Crowd vs Money" analysis suggests that while there is notable participation, the depth of financial backing varies, with the $300M prediction having the most backing. The market resolution depends on official announcements confirming the token's launch and its tradability, with the key date being 1 day after launch, defined as 4:00 PM ET the following day. This analysis provides insight into market expectations and the level of confidence in Paradex's valuation post-launch.
+### [Solstice Finance(SLX) Tokenomics and ICO/IDO (Token Sale) info | CoinCarp](https://www.coincarp.com/currencies/solstice-finance/project-info/)
+**Author:** Unknown | **Published:** Unknown
 
+CoinCarp aggregates tokenomics and lists SLX total supply as 1,000,000,000 SLX with allocation breakdown. This is relevant because FDV in this market's resolution is total supply × price; with a 1B supply the price threshold for $100M FDV is $0.10. The page is an aggregator repeating the project’s published tokenomics, which are central to the FDV calculation.
 
+### [Solstice Finance Outlines SLX Token Distribution Ahead of December Launch, Community Sale Planned](https://zoonop.com/articles/solstice-finance-outlines-slx-token-distribution-ahead-of-december-launch-community-sale-planned)
+**Author:** Unknown | **Published:** Unknown
+
+This article summarizes the SLX distribution and the Flares rewards program, and reports TVL numbers and the protocol's early traction. It reinforces the tokenomics (supply and allocation) and the project’s ecosystem traction (TVL), both of which are relevant to whether market demand could support an FDV > $100M. The content supports a bullish scenario but is based on project disclosures.
+
+### [Solstice (SLX) Public Sale: 100% Unlock at TGE, 14‑Day Refund Window, TGE Targeted Q1 2026](https://t.signalplus.com/crypto-news/detail/solstice-slx-public-sale-100pct-tge-14day-refund-q1-2026)
+**Author:** Unknown | **Published:** Unknown
+
+This write-up reports the public-sale terms (notably that public-sale tokens are 100% unlocked at TGE) and that the TGE was targeted for Q1 2026. This is important because a full unlock at TGE increases immediate liquidity but also raises the risk of selling pressure that could depress price one day after launch. It also highlights that the exact TGE timing was still described as a target, leaving timing uncertainty that affects the market's resolution probability.
+
+### [Solana's Solstice Protocol to Launch SLX Token on Legion](https://phemex.com/news/article/solanas-solstice-protocol-to-launch-slx-token-on-legion-45363)
+**Author:** Unknown | **Published:** Unknown
+
+Phemex News republishes/echoes the Legion launch announcement and describes the sale window (Dec 22) and basic protocol stats (TVL). It corroborates other news outlets' reporting that the project executed a Legion sale in late December 2025. The corroboration from multiple outlets strengthens the case that a launch/launchpad sale occurred — a necessary but not sufficient condition for FDV > $100M at public tradability.
+
+### [Solstice (SLX): TGE (Mar 31, 2026) | CoinMarketCal](https://coinmarketcal.com/en/event/tge-314621)
+**Author:** Unknown | **Published:** Unknown
+
+CoinMarketCal lists a TGE event in Q1 2026 for SLX (one listing shows March 31, 2026 as a potential TGE date). This calendar entry highlights that some trackers had a planned/expected TGE date in late Q1 2026, showing there was not a single, universally confirmed TGE date at the time of my research — which increases timing uncertainty for the market's resolution and supports conservative pricing by market participants.

@@ -1,82 +1,124 @@
 # Research: Will Luke Bronin be the Democratic nominee for CT-01?
 
 **Market ID:** 0x14710adfa9ca2f0450c1710d0080b67d73d6779c0d62df497c6d40f2eba870dd
-**Researched At:** March 6, 2026 at 04:19:15 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Luke Bronin be the Democratic nominee for CT-01?"
+**Researched At:** March 15, 2026 at 04:39:18 AM UTC
+**Search Query:** "Will Luke Bronin be the Democratic nominee for CT-01?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 2.0¢
+**Confidence:** Medium
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Bronin’s fundraising lead and insurgent appeal are offset by Larson’s incumbent endorsements, and no direct polling exists. The 44% market probability reasonably balances these factors, with no strong evidence of a large mispricing.
+Public, recent reporting shows Bronin is a well-funded, credible challenger with some endorsements, while Larson retains incumbency, union and state-level backing and convention leverage. Given active coverage and no decisive public new facts (delegate math, failed qualification, or public internal polls), the market's 47.5% price is plausible; any mispricing is likely small.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether former Hartford mayor Luke Bronin will win the Democratic primary for Connecticut’s 1st Congressional District on August 11, 2026. A YES requires Bronin to defeat incumbent Rep. John Larson and any other challengers (e.g., Jillian Gilchrest) and be officially declared the nominee; NO encompasses any other outcome (Larson wins, Gilchrest wins, someone else, or no nominee by the cutoff).
+Context analysis
+- Market question: "Will Luke Bronin be the Democratic nominee for CT-01?" — the market resolves YES if Luke Bronin is the official Democratic nominee for Connecticut’s 1st Congressional District for the 2026 general election (the Democratic nominee after the nomination process; primary day is Aug 11, 2026). It resolves NO if someone else is the nominee (or if no nominee is announced by Nov 3, 2026 the market resolves to "Other"). ([portal.ct.gov](https://portal.ct.gov/-/media/sots/electionservices/calendars/2026-elections/2026-election-calendar-122325.pdf?hash=669ADE158A80C6644B4EC13A26636340&rev=ab3ac4c3e2544ff08a6b62d9b834824b&utm_source=openai))
 
-2. EVIDENCE EVALUATION  
-Bullish for Bronin:  
-• Fundraising lead: Bronin has raised ~$1.5 million vs. Larson’s $956 000, suggesting strong fundraising infrastructure.  
-• Grassroots endorsements: youth Democratic groups backing Bronin; campaign narrative of generational change.  
-Bearish for Bronin:  
-• Incumbent advantage: Larson enjoys key endorsements, including Hakeem Jeffries, CT delegation, unions—typical power brokers in primaries.  
-• Competitive field: Gilchrest’s challenge and anti‐incumbent sentiment splits the anti‐Larson vote.  
-• No direct polling: absence of Bronin‐specific polling means markets lack clear preference data.  
-Source credibility & recency: All articles are from February–March 2026 and derive from reputable local press and Ballotpedia; none directly contradict the other, but none deliver a clear frontrunner in voter preference.  
+- What must happen for YES: Bronin must either (a) secure the party’s nomination at the state convention and face no primary challenger that defeats him, or (b) qualify for and then win the August 11, 2026 Democratic primary (if one occurs). In Connecticut, a convention endorsement can be decisive, but other candidates who get the required convention delegate percentage (or gather signatures) can force a primary; qualifying rules and signature thresholds are an important practical constraint. ([ctmirror.org](https://ctmirror.org/2025/07/30/luke-bronin-john-larson-congress-election/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 44% probability is interpretable as a roughly even, but slightly underdog, chance for Bronin—consistent with a competitive primary where fundraising and insurgent energy offset incumbency. Low $1.4 K volume and tight spread suggest a single informed/savvy trader or two set the price; the market isn’t liquid enough to fully reflect institutional polling or deep‐dive insider intel, but also not so obvious that everyone agrees on >50%.  
+Evidence evaluation (all relevant, pro and con)
+What supports Bronin (evidence that would make a YES reasonable)
+- Fundraising advantage and cash-on-hand: CT Mirror and other local reporting show Bronin outraised Rep. John Larson in the late 2025 quarter and entered 2026 with a larger cash-on-hand (~$1.5M vs ~ $956k for Larson). Strong fundraising materially increases a challenger’s ability to run paid media and organize. ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
+- Endorsements and organizational support: Bronin has picked up at least one national group endorsement (VoteVets PAC announced endorsement Jan 29, 2026), which signals organizational backing and may bring volunteers/donors of its own. ([votevets.org](https://votevets.org/press-releases/votevets-pac-endorses-luke-bronin-for-congress-in-ct-01))
+- Official filings and active campaign infrastructure: Bronin has an FEC filing and is running an active campaign (reports and filing documents show receipts/disbursements), confirming this is an active, funded bid rather than exploratory activity. ([docquery.fec.gov](https://docquery.fec.gov/pdf/888/202602179834333888/202602179834333888.pdf))
+- Narrative tailwinds: Multiple outlets (AP, local papers) report a narrative of "generational change" and Bronin as the leading challenger, which can translate to volunteer energy and donor interest. ([apnews.com](https://apnews.com/article/9d56be522bea570f586037a6895ff82a))
 
-4. MISPRICING ASSESSMENT  
-There is no direct poll of the Bronin vs. Larson contest to suggest the true probability is far below or above 44%. The fundraising edge arguably boosts Bronin’s chances, while Larson’s endorsements and incumbent status cut in the other direction. Without stronger, Bronin‐specific polling or new insider developments, 44% sits comfortably between these competing factors. No clear 20+ cent arbitrage emerges.  
+What supports Larson / argues against Bronin (evidence that would make NO reasonable)
+- Incumbency and institutional endorsements: Larson is a 14-term incumbent with established relationships, union endorsements and at least one statewide Democrat endorsement (Attorney General William Tong) and multiple town committee endorsements noted on Larson’s campaign site. Incumbent organizational advantages are often decisive at conventions and in primaries. ([larsonforcongress.org](https://larsonforcongress.org/news/?utm_source=openai))
+- Health and age concerns are ambiguous: Larson experienced a medically explained episode in Feb 2025 (reported as a complex partial seizure); that has raised questions among some voters and activists, which benefits challengers, but his campaign and some party leaders continue to defend his fitness and he remains active. The medical episode is risk factor but not proof of inability to win the nomination. ([ctpublic.org](https://www.ctpublic.org/news/2025-02-12/john-larson-health-freeze-seizure))
+- Convention math & delegate advantage: Connecticut Democratic conventions and town committee delegations matter. Reporting indicates Larson still looks likely to prevail at a nominating convention absent large delegate shifts — and convention winners often win the primary. That structural advantage can blunt a challenger’s edge even with superior fundraising. ([ctmirror.org](https://ctmirror.org/2025/07/30/luke-bronin-john-larson-congress-election/))
+- Multiple challengers can split the anti-incumbent vote: With Jillian Gilchrest and other Democrats in the field, a split among voters seeking change could advantage Larson or at least make Bronin’s path harder unless Bronin consolidates anti-Larson support. Several local analyses note this vote-splitting risk. ([ctinsider.com](https://www.ctinsider.com/politics/article/larson-ct-1st-district-bronin-gilchrest-primary-20789230.php?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market is mispriced: low (~20%)  
-Magnitude of potential mispricing: small (<10 cents)  
-Expected value ≈ 20% × 10 cents = 2 cents  
+Source credibility and recency
+- Local outlets (CT Mirror, CT Insider, CT Public, CT Post/Hartford Courant) and the Associated Press are the primary, reputable sources used here; they have ongoing coverage and access to FEC filings and local political networks. Their reporting is recent (late 2025—early 2026) and directly relevant to nomination dynamics. ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
+- Campaign and PAC press releases (Larson campaign site, VoteVets) are primary sources for endorsements and campaign claims but naturally present political spin; they are still useful to confirm endorsements and public statements. ([larsonforcongress.org](https://larsonforcongress.org/news?utm_source=openai))
+- FEC filings (official federal filings) are authoritative for fundraising/cash-on-hand data. ([docquery.fec.gov](https://docquery.fec.gov/pdf/888/202602179834333888/202602179834333888.pdf))
 
-EXPECTED_VALUE: 2  
-SUMMARY: Bronin’s fundraising lead and insurgent appeal are offset by Larson’s incumbent endorsements, and no direct polling exists. The 44% market probability reasonably balances these factors, with no strong evidence of a large mispricing.  
-CONFIDENCE: low
+Skepticism on “too obvious” evidence
+- Fundraising advantage is important but not decisive. If it were obviously decisive, we would likely see stronger indicators (consolidation of endorsements, internal polls showing Bronin ahead, or candidates dropping out). The presence of large incumbency endorsements and convention structures suggests insiders still see this as contested, explaining why markets haven’t swung to a lopsided Bronin favorite despite his fundraising. ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
+
+Market-efficiency analysis (is the 47.5% price plausible?)
+- Reasonable interpretations that justify ~47.5% price:
+  - Balanced evidence: Bronin’s fundraising and endorsements make him a viable frontrunner, but Larson’s incumbency, institutional endorsements, and convention math justify an outcome that is still very much in doubt — a near 50/50 market price is a plausible aggregation of that uncertainty. ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
+  - Multiple pathways to victory for either side: Bronin can win by forcing and winning a primary or by getting convention support; Larson can fend Bronin off at the convention or survive a primary because of party organization. This symmetry yields a roughly even implied probability.
+- Could price reflect a tiny number of traders rather than consensus?
+  - Yes — the market has low total volume ($2,278) and a narrow spread (5¢), which is consistent with a small number of active traders setting the price. Low volume means the posted price could be idiosyncratic and change sharply with new information. The market might not yet have attracted hedge/insider bets or professional/political-arbitrage traders who would move price on convention delegate counts or internal polling. (Market metrics from the market description). 
+- Is low volume because outcome is obvious or because traders haven’t engaged?
+  - Here the outcome is NOT obvious: public reporting shows competitive dynamics and unresolved convention/primary uncertainty. Low volume is therefore more plausibly explained by low attention from prediction-market-focused traders or by the small size of this asset, rather than an uncontestable resolution. That increases the chance of inefficiency. ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
+
+Mispricing assessment (weighing both sides objectively)
+- Summary judgment: I find insufficient, specific evidence of a large mispricing. The public facts—Bronin’s fundraising edge and at least one PAC endorsement versus Larson’s incumbency, union and state-level endorsements, and convention mechanics—leave the contest plausibly even. A market price near 47.5% is therefore defensible.
+- Specific evidence that would show LARGE mispricing (NOT found):
+  - No public reporting that Bronin has already failed to qualify for a primary (e.g., unable to gather required signatures or to secure convention delegates). No reporting that Larson clinched the party’s endorsement at convention. If either of those were true and public, a large mispricing could be demonstrated. I found no such authoritative report. ([ctmirror.org](https://ctmirror.org/2025/07/30/luke-bronin-john-larson-congress-election/))
+  - No reliable public polling showing an overwhelming advantage for Bronin or Larson that contradicts the market price. Existing polls (if any) are limited, internal, or not publicly robust. ([ctcapitolreport.com](https://www.ctcapitolreport.com/mondays/9d2fc08f2a-somebodys-polling-a-larson-primary?utm_source=openai))
+- Could the market be modestly mispriced?
+  - Yes — because volume is low, a modest disconnect (a few cents) is plausible if private information exists (e.g., internal Larson delegate lock or a Bronin internal poll). But public sources do not provide strong evidence of such private information; the race is still actively contested and widely reported as competitive. ([apnews.com](https://apnews.com/article/9d56be522bea570f586037a6895ff82a))
+
+CRITICAL CHECK (if concluding large mispricing >20¢)
+- I do not conclude a large (>20¢) mispricing. Before concluding that, I would need concrete proof of: (a) Bronin already having effectively clinched the nomination (e.g., convention endorsement with no primary challenger), or (b) Bronin having failed to qualify (in which case price should be near zero). No authoritative sources indicate either. The most charitable interpretation of the market is that it expresses reasonable uncertainty between a well-funded credible challenger and a long-standing incumbent with institutional leverage. ([ctmirror.org](https://ctmirror.org/2025/07/30/luke-bronin-john-larson-congress-election/))
+
+Expected-value calculation for investigating/trading this market
+- Strength of evidence that the market is missing a meaningful piece of public information: 30% (public sources show a tight, contested race; low volume raises chance of missed info but reporting is active and recent). ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
+- Magnitude of plausible mispricing if one exists: likely small — I estimate at most ~10 cents (0.10$), because current public signals point to a close contest rather than a near-certain outcome for either side.
+- Expected value = Strength × Magnitude = 30% × 10¢ = 3.0¢ (three cents).
+- Rationale: given active reporting, FEC data, and visible endorsements, it’s unlikely a very large mispricing persists publicly; but low market volume opens a modest chance of a small inefficiency that an information edge could exploit.
+
+Final assessment and recommendation
+- Conclusion: No credible public evidence of a large mispricing. The 47.5% price looks broadly reasonable given visible fundraising, endorsements, incumbency advantages, convention mechanics, and remaining uncertainty. A small inefficiency (a few cents) is possible because of low trading volume, but the public evidence does not identify a clear arbitrage.
+- Actionable implication: If you have access to non-public, high-quality information (e.g., delegate counts from town committees, internal convention polling, or definitive signatures/qualifying info), that could justify trading. Absent such private information, expected value from public-information-driven trades is small (~a few cents) and risk of being wrong is material.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Public, recent reporting shows Bronin is a well-funded, credible challenger with some endorsements, while Larson retains incumbency, union and state-level backing and convention leverage. Given active coverage and no decisive public new facts (delegate math, failed qualification, or public internal polls), the market's 47.5% price is plausible; any mispricing is likely small.
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Amy Chai - Ballotpedia
-URL: https://ballotpedia.org/Amy_Chai
-Summary: Amy Chai is a Republican candidate running for the U.S. House of Representatives in Connecticut's 1st Congressional District, with her next election scheduled for November 3, 2026. She has a background as a medical doctor, with degrees from Johns Hopkins University, Indiana University School of Medicine, and the University of Michigan Medical School. Chai's career includes roles as a physician, author, lecturer, and volunteer, and she has affiliations with organizations such as ASAM, ABIM, ABPM, Connecticut Counseling Centers, the Presbyterian Church, and NAMI. There is no information indicating her involvement or prospects in the Democratic primary or her potential to be the Democratic nominee for CT-01.
+### [VoteVets PAC Endorses Luke Bronin for Congress in CT-01](https://votevets.org/press-releases/votevets-pac-endorses-luke-bronin-for-congress-in-ct-01)
+**Author:** Unknown (VoteVets press release) | **Published:** 2026-01-29
 
-Title: Poll: Fazio more favorable than Stewart; Lamont leads | News | bristolpress.com
-Author: Claudia S. Hilario @thebristolpress
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.bristolpress.com/news/poll-fazio-more-favorable-than-stewart-lamont-leads/article_f0f159fb-8808-4515-8491-cbfcba79228d.html
-Summary: The article reports on a recent poll indicating that Fazio is viewed more favorably than Stewart, with Lamont leading in the race. While it provides insights into current public opinion and candidate standings, it does not specifically address Luke Bronin or his prospects of becoming the Democratic nominee for CT-01. To assess Bronin's chances, additional information on his campaign status, support within the party, polling data specific to him, and the overall Democratic primary landscape would be necessary.
+VoteVets’ press release announces its PAC endorsement of Luke Bronin (Jan 29, 2026). It confirms a national pro-veteran PAC backing for Bronin, which is relevant because such endorsements can provide organizational support, signaling and fundraising lift — supporting the view that Bronin is an active, credible challenger. This supports a non-negligible probability that Bronin could secure the nomination, and therefore weakens any claim the market should be near 0% or 100% for Bronin. ([votevets.org](https://votevets.org/press-releases/votevets-pac-endorses-luke-bronin-for-congress-in-ct-01))
 
-Title: Democratic primary challengers begin their push for generational change – Hartford Courant
-Author: The New York Times News Service Syndicate  |  wordpress@medianewsgroup.com
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.courant.com/2026/03/04/democratic-primary-challengers-begin-their-push-for-generational-change-3/
-Summary: The article discusses a broader trend of Democratic incumbents facing primary challenges in 2026, driven by a desire for generational change and increased energy within the party. In Connecticut, specifically, Luke Bronin is leading in fundraising efforts for the CT-01 congressional race, indicating strong support. However, there is also mention of other candidates, such as Gilchrest, advocating for reducing money in politics. While Bronin's fundraising advantage suggests he is a prominent contender, the overall primary landscape is competitive, with challengers seeking to unseat established incumbents. Therefore, Bronin's current fundraising position makes him a leading candidate, but the primary remains competitive and could still be influenced by other factors.
+### [Luke Bronin outpaces U.S. Rep. John Larson in fundraising, again](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/)
+**Author:** Lisa Hagen | **Published:** 2026-02-02
 
-Title: Hakeem Jeffries stumps in district safe for Dems, if not for Larson
-Author: Mark Pazniokas
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://ctmirror.org/2026/02/12/hakeem-jeffries-john-larson/
-Summary: Hakeem Jeffries's recent campaign event in Hartford primarily supported incumbent Congressman John B. Larson, who faces a Democratic primary in August. Larson has a long-standing presence in Connecticut politics and is considered a strong candidate, with broad support from local officials and notable figures. While Luke Bronin, a former Hartford mayor, is actively campaigning and currently has more campaign funds ($1.5 million) than Larson ($956,000), there is no definitive information indicating he will secure the Democratic nomination for CT-01. The primary race remains competitive, but Larson's established connections and support suggest he is a leading contender.
+CT Mirror reports quarter-by-quarter fundraising and cash-on-hand figures: Bronin raised ≈$545k in Q4 2025 and had about $1.5M cash on hand entering 2026 versus Larson’s ≈$438k in Q4 and ~$956k cash on hand. This is strong, recent, verifiable evidence that Bronin has the financial resources to run a competitive primary campaign—supporting the market’s near-even pricing. It does not, however, supply a decisive indicator that Bronin will be the nominee because incumbency and organizational endorsements still matter. ([ctmirror.org](https://ctmirror.org/2026/02/02/luke-bronin-u-s-rep-john-larson-fundraising/))
 
-Title: House minority leader visits Connecticut to endorse Larson
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.wtnh.com/news/elections/house-minority-leader-visits-connecticut-to-endorse-larson/amp/
-Summary: House Minority Leader Hakeem Jeffries visited Connecticut to endorse incumbent Rep. John Larson in the CT-01 race. Despite Jeffries’ support for Larson, there are notable challenges from within the Democratic primary, particularly from former Hartford mayor Luke Bronin and State Rep. Jillian Gilchrest. Bronin, who has raised approximately $1.5 million—more than Larson—has garnered endorsements from youth Democratic groups and emphasizes a need for generational change. Gilchrest also advocates for younger leadership and criticizes the focus on long-serving incumbents. Larson, with strong endorsements from Connecticut’s congressional delegation and unions, benefits from his seniority and experience. The primary contest appears competitive, with Bronin’s significant campaign funding and support suggesting he could be a strong contender for the Democratic nomination.
+### [Bronin opens campaign against Larson: ‘We don't have time to wait’](https://ctmirror.org/2025/07/30/luke-bronin-john-larson-congress-election/)
+**Author:** Mark Pazniokas | **Published:** 2025-07-30
 
+CT Mirror’s coverage of Bronin’s campaign launch describes the field of challengers, the convention/primary mechanics (including the 15% delegate threshold or signature route to trigger a primary), and early groundwork. It establishes Bronin as a prominent challenger and explains structural features (convention vs. primary) that materially affect nomination probability — key to interpreting market prices. ([ctmirror.org](https://ctmirror.org/2025/07/30/luke-bronin-john-larson-congress-election/))
 
+### [Young Democrats target old guard to send new generation to Congress (Associated Press)](https://apnews.com/article/young-democrats-incumbents-veterans-election-midterms-9d56be522bea570f586037a6895ff82a)
+**Author:** Associated Press staff (multiple reporters credited) | **Published:** 2026-02-02
+
+AP’s national article places the CT-01 contest in a broader trend of younger Democrats challenging long-serving incumbents. It specifically notes Bronin as the leading challenger to Larson, reports cash-on-hand comparisons, and summarizes political dynamics (health/age questions for Larson). This national reporting reinforces local coverage: the race is competitive, not decided, which supports a near-even market price. ([apnews.com](https://apnews.com/article/9d56be522bea570f586037a6895ff82a))
+
+### [John Larson suffered ‘complex partial seizure’ that caused pause](https://www.ctpublic.org/news/2025-02-12/john-larson-health-freeze-seizure)
+**Author:** Lisa Hagen | **Published:** 2025-02-12
+
+Connecticut Public (CT Public) reports on Larson’s medical episode (described as a complex partial seizure) and the official statements about it. The episode is widely reported and has been a factor in challenger messaging about generational change; it raises risk for the incumbent but does not by itself show inability to be nominated. It therefore increases uncertainty rather than a one-sided mispricing signal. ([ctpublic.org](https://www.ctpublic.org/news/2025-02-12/john-larson-health-freeze-seizure))
+
+### [News — John B. Larson For Congress (campaign website: endorsements / news)](https://larsonforcongress.org/news/)
+**Author:** Unknown (Larson campaign) | **Published:** Various (page updated Jan–Feb 2026)
+
+The Larson campaign’s news/press page lists endorsements (Attorney General William Tong, labor unions, town committees) and campaign statements. This is a primary source showing Larson’s institutional support within the state Democratic ecosystem, and it supports the case that Larson retains organizational advantages that could defeat a challenger at a convention or in a primary — a reason the market might sensibly price Bronin under 50%. ([larsonforcongress.org](https://larsonforcongress.org/news?utm_source=openai))
+
+### [Connecticut 2026 election calendar (Connecticut Secretary of the State / official calendar PDF)](https://portal.ct.gov/-/media/sots/electionservices/calendars/2026-elections/2026-election-calendar-122325.pdf?hash=669ADE158A80C6644B4EC13A26636340&rev=ab3ac4c3e2544ff08a6b62d9b834824b)
+**Author:** Unknown (CT Secretary of the State) | **Published:** 2025-12-23 (calendar document)
+
+Official Connecticut election calendar confirming the State Primary date (August 11, 2026) and related deadlines. This verifies the market’s stated primary date and time bounds used to interpret how/when the nomination will be decided (convention vs. primary vs. signature path), which is essential to correct resolution interpretation of the market. ([portal.ct.gov](https://portal.ct.gov/-/media/sots/electionservices/calendars/2026-elections/2026-election-calendar-122325.pdf?hash=669ADE158A80C6644B4EC13A26636340&rev=ab3ac4c3e2544ff08a6b62d9b834824b&utm_source=openai))
+
+### [Luke Bronin for Congress — FEC filing (Form 3X / itemized receipts & report)](https://docquery.fec.gov/pdf/888/202602179834333888/202602179834333888.pdf)
+**Author:** Federal Election Commission (campaign filing) | **Published:** 2026-02-17 (filed / dated in FEC system)
+
+Official FEC filing for "LUKE BRONIN FOR CONGRESS" showing itemized receipts and transfers from PACs and other receipts/disbursements. This authoritative primary-source evidence corroborates fundraising numbers and shows an operational campaign infrastructure — relevant to the probability Bronin can mount a credible primary/convention challenge. ([docquery.fec.gov](https://docquery.fec.gov/pdf/888/202602179834333888/202602179834333888.pdf))
