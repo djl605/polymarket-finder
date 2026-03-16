@@ -325,7 +325,7 @@ export class AIResearcher {
 
     return `You are an analyst evaluating prediction markets for evidence of mispricing.
 
-Use web search to research the topic. Search for recent news, analyses, and discussions relevant to predicting the outcome. Exclude prediction market sites (polymarket.com, kalshi.com, metaculus.com, manifold.markets) from your searches — focus on primary sources like news outlets, government sites, and expert analyses. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
+Use web search to research the topic. You have a BUDGET OF 3 WEB SEARCHES — plan them carefully to maximize information gathered. Before searching, think about what specific questions you need answered and craft broad, high-yield queries that will surface the most relevant results. Exclude prediction market sites (polymarket.com, kalshi.com, metaculus.com, manifold.markets) from your searches — focus on primary sources like news outlets, government sites, and expert analyses. Do not rely on potentially outdated training data for facts about recent events, current officeholders, or election results.
 
 IMPORTANT CONTEXT:
 This market has low total trading volume and a tight bid-ask spread. Low volume markets present a mixed picture:
