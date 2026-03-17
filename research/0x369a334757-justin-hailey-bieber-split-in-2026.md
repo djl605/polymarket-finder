@@ -1,8 +1,8 @@
 # Research: Justin & Hailey Bieber split in 2026?
 
 **Market ID:** 0x369a334757b7a931fb8e76c57301c8e98d3563a96f34836eb165d66f5e24395c
-**Researched At:** March 2, 2026 at 04:23:26 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Justin & Hailey Bieber split in 2026?"
+**Researched At:** March 17, 2026 at 05:33:11 AM UTC
+**Search Query:** "Justin & Hailey Bieber split in 2026?"
 
 ---
 
@@ -13,76 +13,85 @@
 
 ### Summary
 
-Recent insider reports uniformly describe the Biebers as stable and supportive, with no credible sign of an imminent split. Super Bowl oddities and cryptic posts appear already priced as general celebrity‐divorce noise.
+Recent (Feb–Mar 2026) public appearances and insider denials make an immediate divorce/separation announcement seem unlikely, but documented tensions and the long time window to Dec 31, 2026 keep the chance non‑zero. Given $0 volume, the market price (17.5%) is fragile but not clearly missing major public information; expected edge is small (~1.5¢).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: Will Justin and Hailey Bieber announce an intention to legally separate or divorce by Dec 31, 2026? A “Yes” would require a public announcement or credible rep statement within that window; otherwise it resolves “No.”
+Plan & scope: I ran targeted news searches (3 queries) for authoritative reports, recent public appearances, and any official statements or court filings about Justin and Hailey Bieber as of today (March 17, 2026). I excluded prediction-market sites per your instruction and focused on mainstream outlets and reportage. Below I evaluate whether the market price (17.5% that they announce an intention to separate/divorce by 2026‑12‑31 11:59 PM ET) appears mispriced.
 
-2. EVIDENCE EVALUATION  
-• Bearish (split unlikely):  
-  – Multiple February 2026 reports from sources close to the couple (RealityTea, Swooon) describe them as “thriving,” celebrating their 10-year mark, supporting each other at the Grammys and through Justin’s album rollout.  
-  – Longstanding insiders (BuzzFeed, also early-2026) dismiss rumors as unfounded and attribute past social-media oddities (Instagram unfollows) to security or marketing tactics.  
-• Bullish (split possible):  
-  – Observers at Super Bowl 2026 noted “awkward” body language, feeding tabloid speculation.  
-  – Cryptic brooding posts by Justin and Hailey’s reply clips about infidelity have been interpreted by fans as hints.  
-• Source credibility/recency:  
-  – The closest insiders (Walia, Norwin) are recent (Feb 2026), cite first-hand contacts. Tabloid-style rumors (Super Bowl behavior, cryptic posts) are noisier and less predictive.  
-• Synthesis: The highest-credibility, most recent evidence uniformly portrays a stable marriage. Surface-level celebrity rumors appear already known to traders; if there’s no strong insider indication of trouble, it’s unlikely they’d leave a large mispricing uncorrected.
+1) CONTEXT ANALYSIS
+- What the market asks: Will Justin Bieber and/or Hailey Bieber announce their intention to legally separate or divorce between the market’s creation and December 31, 2026, 11:59 PM ET? The market resolves to YES if either Justin, Hailey, or their representative publicly announces an intention to separate/divorce within that window, or if a credible media consensus announces such an intention. Otherwise it resolves to NO.
+- For YES to occur: a public statement (by one of them or their rep) or credible media consensus explicitly saying they intend to legally separate or divorce within the stated timeframe. A private separation or a later filing outside the window would not by itself trigger YES unless an announcement of intention occurs within the window.
+- For NO to occur: no such announcement or credible consensus appears by 2026‑12‑31 23:59 ET.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 15% price reflects a modest residual chance for a celebrity divorce, even absent clear red flags.  
-• Low volume and tight spread suggest few participants but agreement that it’s unlikely.  
-• The outcome isn’t trivial (divorces happen unpredictably), so 15% might represent a consensus “noise floor” rather than deep pessimism.
+2) EVIDENCE EVALUATION (all items are time‑sensitive; citations follow)
+A. Evidence that weighs against (i.e., supports a low probability of an announcement)
+- Recent joint public appearances and social posts: in March 2026 the couple was photographed together on dates and Hailey reposted birthday content for Justin — public behavior consistent with an intact partnership. ([tmz.com](https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/))
+- Media reporting citing insiders (People syndicated via Yahoo) emphasize the couple is “in love” and “super focused” on their marriage, and sources have repeatedly pushed back on split narratives. Such insider denials reduce the near‑term likelihood of a formal separation announcement. ([yahoo.com](https://www.yahoo.com/entertainment/justin-hailey-bieber-love-super-211509001.html?utm_source=openai))
+- No credible mainstream outlet has published an announcement or authoritative claim that either party intends to announce a separation/divorce as of March 17, 2026. (I searched 2025–2026 reporting and found rumor-coverage and denials, but no declarative announcement or court filing.) ([tmz.com](https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/))
 
-4. MISPRICING ASSESSMENT  
-No specific, credible information is missing. All high-quality sources point toward ongoing marital stability. A nominal overpricing (say 5 cents) could exist, but there’s insufficient evidence to claim a >10 cent mispricing. The 15% probably already incorporates general celebrity risk plus rumor noise.
+B. Evidence that weighs for (i.e., increases the chance of an announcement)
+- Recurrent, longstanding rumor cycles and reporting of “difficult times”: multiple outlets and insiders over 2024–2025 reported tensions, public episodes by Justin (volatile social media posts, paparazzi confrontations) and commentary about mental‑health struggles and marital strain — all of which are factual background that raise the chance that a separation announcement could happen within a multi‑month horizon. ([btimesonline.com](https://www.btimesonline.com/articles/174820/20250626/justin-and-hailey-bieber-dont-talk-about-divorce-despite-difficult-time-says-source.htm))
+- The market’s resolution condition is an “announcement of intention” (not an actual filed divorce). That lowers the bar for YES relative to requiring a legal filing — any public statement even short of a filing would resolve it YES. This structural point increases the plausibility of a non‑zero probability over the months ahead.
+- Because the couple is high‑profile and under constant public scrutiny, private developments can leak quickly to tabloids or social media and lead to an announcement, so upside risk to YES is non‑negligible.
 
-5. EXPECTED VALUE CALCULATION  
-– Strength of evidence: ~30% (some uncertainty, but primary sources are strong)  
-– Magnitude of mispricing: ~5 cents  
-– Expected value ≈ 30% × 5 cents = 1.5 cents
+C. Source credibility and recency
+- TMZ and Marie Claire (March 2026) provide up‑to‑date photographic/sightings coverage: good evidence for recent joint public appearances but are tabloid/celebrity outlets (useful for sightings but lower evidentiary weight on private intentions). ([tmz.com](https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/))
+- People (syndicated on Yahoo) typically cites named anonymous insiders and is a widely used outlet for relationship-status reporting; its repeated denials of active divorce plans have medium credibility for short‑term probability. ([yahoo.com](https://www.yahoo.com/entertainment/justin-hailey-bieber-love-super-211509001.html?utm_source=openai))
+- BusinessTimes/Us Weekly‑type reporting documents tensions and Justin’s public behavior; it’s credible as evidence of background risk but it does not show an imminent announcement. ([btimesonline.com](https://www.btimesonline.com/articles/174820/20250626/justin-and-hailey-bieber-dont-talk-about-divorce-despite-difficult-time-says-source.htm))
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Recent insider reports uniformly describe the Biebers as stable and supportive, with no credible sign of an imminent split. Super Bowl oddities and cryptic posts appear already priced as general celebrity‐divorce noise.  
+Critical skepticism: much of the coverage is cyclical rumor/denial and public PDA. If the situation were truly decisive (an actual, imminent intention announced), multiple mainstream outlets would likely carry the announcement immediately — we do not see that. Conversely, the absence of an announcement does not rule out a later announcement, especially given the extended time horizon to Dec 31, 2026.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Plausible interpretations of the price (17.5%):
+  - Charitable / informed‑consensus interpretation: traders view an announcement before year‑end as possible but unlikely (roughly 1‑in‑6). This is consistent with repeated rumor cycles but no formal announcement to date, plus ongoing public joint appearances and denials.
+  - Single‑trader / illiquid interpretation: the market shows $0 total volume and a 5¢ spread, which strongly implies the quoted price may reflect either an initial creator price or the view of a tiny number of participants rather than aggregated, active liquidity. Low volume makes it more likely the price is fragile.
+- Why the market could be “correct”: the resolution condition (an announcement) is easier to trigger than a legal filing, and the couple’s past volatility and very public lives give non‑trivial chance of a public statement within ~9 months. 17.5% is not extreme and plausibly reflects a view that an announcement is possible but not likely.
+- Why the market could be “mispriced”: because total volume is $0, the price may not reflect any information beyond initial posting — if an informed trader believed the probability is, say, 5–8% (based on current patterns), the quoted 17.5% could be drifted high; alternatively, if someone with inside knowledge pushed it low/higher it could be off in either direction. Low volume makes the market fragile and sensitive to a single trader.
+
+4) MISPRICING ASSESSMENT
+- Do I find credible, specific evidence missing from the price that would justify concluding a sizeable (>20¢) mispricing? No.
+  - There is no authoritative public announcement or court filing suggesting the outcome is already certain; the most relevant public facts (recent PDA, joint outings, and insider denials) point toward a lower near‑term chance than an immediate split, supporting a low–to‑moderate probability.
+  - Conversely, the documented tensions and Justin’s public volatility are real and create an ongoing non‑zero chance that an announcement could be made before year‑end; the market’s 17.5% sits plausibly between “very unlikely” and “moderately possible.”
+- Therefore: I do not see specific, high‑quality, currently missing evidence that would justify declaring a large mispricing. The biggest risk to my conclusion is private information (or an imminent announcement) that traders might have — that would invalidate the above, but there’s no public sign of that as of March 17, 2026.
+
+5) EXPECTED VALUE CALCULATION (of investigating/trading this market)
+- Strength of evidence that the market is missing something (probability that my research uncovered reliable info not priced in): ~30%. Rationale: most public reporting shows joint appearances and denials; the only “missing” adjustment would be private information or a rapid deterioration — both possible but not documented publicly.
+- Magnitude of plausible mispricing if any: ~5 cents. Rationale: given the low absolute probability and the ease with which low‑volume markets move, it’s unlikely to be off by, say, 20+ cents without an obvious public signal; a 3–10 cent swing is plausible.
+- Expected value = 30% × 5 cents = 1.5 cents.
+
+6) CONFIDENCE: medium
+- There is relatively recent, consistent public reporting (appearance photos & insider denials) and no authoritative announcement or filing as of March 17, 2026. But much of the evidence is from entertainment press and rumor cycles; private information could change things quickly. That combination yields a medium confidence rating.
+
+Final assessment / bottom line
+- The market price (17.5%) is plausible and within the range I would expect given public evidence: there is ongoing background risk from reported marital tension and Justin’s public volatility, but multiple recent public appearances, social posts, and insider denials reduce the probability of an imminent announcement. Because total trading volume is $0 and spread is small, the quoted price is fragile and likely reflects little active information aggregation — so it’s not a confidently efficient price, but neither is there strong public evidence of a large mispricing. I do not conclude a credible mispricing large enough to act on aggressively; the expected value of exploiting a mispricing is small (~1.5 cents).
+
+EXPECTED_VALUE: 1.5
+SUMMARY: Recent (Feb–Mar 2026) public appearances and insider denials make an immediate divorce/separation announcement seem unlikely, but documented tensions and the long time window to Dec 31, 2026 keep the chance non‑zero. Given $0 volume, the market price (17.5%) is fragile but not clearly missing major public information; expected edge is small (~1.5¢).
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Where Hailey & Justin Bieber Stand After Divorce Rumors — Source
-Author: Mehak Walia
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://www.realitytea.com/2026/02/06/hailey-bieber-justin-bieber-relationship-divorce-rumors-2/?amp=
-Summary: Recent reports indicate that Justin and Hailey Bieber are currently in a positive place amid ongoing divorce rumors. Sources close to the couple reveal that they are focusing on their personal and professional lives, with Hailey supporting Justin through the release of his new album, "Swag." They are described as actively ignoring external speculation and prioritizing their family life, which includes their son, Jack. Both are reportedly committed to each other, with Justin feeling supported by Hailey during significant milestones in his career. Overall, the couple appears to be thriving together, making a split in 2026 seem unlikely based on their current dynamics.
+### [Justin Bieber Celebrates 32nd Birthday With Wife Hailey by His Side](https://www.tmz.com/2026/03/02/justin-bieber-turns-32-hailey-birthday-dinner-photos/)
+**Author:** TMZ Staff | **Published:** 2026-03-02
 
-Title: Are Justin and Hailey Bieber Still Together? Relationship Updates
-Author: Alyssa Norwin
-Published Date: 2026-02-02T00:00:00.000Z
-URL: https://www.swooon.com/1260441/justin-hailey-bieber-still-together-relationship-updates/
-Summary: Justin and Hailey Bieber are currently still together as of February 2026, despite ongoing speculation about their relationship status. They recently attended the Grammy Awards together, where Hailey publicly supported Justin, celebrating his nominations on social media. The couple marked the 10-year anniversary of their relationship on New Year’s Day, further affirming their commitment to each other. 
+Photographic coverage and a short write‑up showing Justin and Hailey together for Justin’s March 2, 2026 birthday, including Hailey reposting images on her Instagram Story. This is direct evidence of recent public joint appearances and social‑media gestures that argue against an immediate public announcement of separation or divorce. The article supports the “NO” side (no announcement yet) while being a tabloid‑style source useful for sightings rather than insider confirmation.
 
-Previous rumors of a split arose when Justin unfollowed Hailey on Instagram in early 2025, but he clarified that this was due to a security issue with his account, not a sign of trouble in their marriage. Overall, their recent public appearances and social media interactions suggest that they are maintaining a strong relationship.
+### [Hailey Bieber Takes Her Rare Chanel Bag to Dinner in a '90s Skirt Trend and Slingback Heels](https://www.marieclaire.com/fashion/celebrity-style/hailey-bieber-rare-chanel-bag-90s-skirt-trend-slingback-heels/)
+**Author:** Amy Mackelden | **Published:** 2026-03-08
 
-Title: Justin & Hailey Bieber Looked Like They Couldn't Stand Each Other At Super Bowl 2026
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.nickiswift.com/2096383/justin-hailey-bieber-awkward-behavior-super-bowl-2026-divorce-rumors/
-Summary: At the Super Bowl 2026, Justin and Hailey Bieber exhibited noticeably awkward behavior, leading to speculation about their relationship status. Observers noted a significant distance between the couple, with Hailey appearing animated and engaged while Justin maintained a more stoic demeanor. Their interactions suggested tension, particularly when they were seated with producer Zane Lowe between them during the game, which fans found suspicious. While some believe this could indicate trouble in paradise, others speculate it might be a marketing tactic or a playful front. Overall, the couple's behavior at the event has fueled ongoing rumors about a potential split in 2026.
+Fashion coverage that reports Hailey and Justin were photographed dining together March 7, 2026 in West Hollywood. The piece is relevant because it documents another pair appearance (recent, public) which lowers the immediate probability of an announced separation. As with TMZ, it’s useful corroboration of a public relationship presence but not evidence of private intentions.
 
-Title: Source Shares Justin And Hailey Bieber Marriage Update - BuzzFeed
-Author: Chelsea Stewart
-Published Date: 2025-03-23T00:00:00.000Z
-URL: https://www.buzzfeed.com/chelseastewart/justin-and-hailey-bieber-marriage-update-march-2025
-Summary: Recent reports regarding Justin and Hailey Bieber's marriage suggest that despite some concerning emotional posts from Justin on Instagram, their relationship remains strong. Justin's posts, which expressed feelings of unworthiness and distress, have raised concerns about their marriage, especially after he unfollowed Hailey on Instagram. However, insiders close to the couple insist that they are in love and focused on their marriage, dismissing split rumors as unfounded. Sources indicate that both are maturing in their relationship and enjoying parenthood, with Hailey working and Justin creating music. Overall, while there are worries stemming from Justin's posts, the couple appears to be committed to each other and their family, making a split in 2026 seem unlikely based on current information.
+### [Justin and Hailey Bieber Are 'in Love' and 'Super Focused' on Marriage Despite 'Constant' Split Rumors (People, syndicated on Yahoo)](https://www.yahoo.com/entertainment/justin-hailey-bieber-love-super-211509001.html)
+**Author:** Marina Watts (People, republished on Yahoo) | **Published:** 2025-01-23
 
-Title: Justin Bieber And Hailey Spark Divorce Rumors With Bizarre Posts
-Author: Binitha Jacob
-URL: https://www.aol.com/lifestyle/stuck-loveless-marriage-justin-bieber-103030531.html
-Summary: Recent social media activity from Justin and Hailey Bieber has sparked speculation about potential marital issues, leading fans to question whether they might split in 2026. The rumors began when Justin shared a brooding selfie with lyrics from a song suggesting a lack of commitment, followed by Hailey posting a clip from a song about infidelity. This exchange has led fans to interpret their posts as cryptic hints of trouble in their marriage. Additionally, some comments linked their posts to Selena Gomez's recent engagement, further fueling speculation about Justin's feelings regarding his past relationship. Overall, the couple's puzzling online interactions have raised concerns about their relationship status, making it a topic of interest for those predicting their future together.
+A People Magazine item (syndicated on Yahoo) citing insiders who say the couple is “in love” and “super focused” on their marriage despite recurring split rumors. This source carries medium credibility for relationship status reporting; its denials of an active intention to divorce reduce the short‑term probability for YES and are a key counterweight to rumor pieces.
 
+### [Justin and Hailey Bieber 'Don't Talk About' Divorce Despite 'Difficult Time,' Says Source](https://www.btimesonline.com/articles/174820/20250626/justin-and-hailey-bieber-dont-talk-about-divorce-despite-difficult-time-says-source.htm)
+**Author:** Kathy Clark | **Published:** 2026-02-02 (page lists update dates; article updated June 26, 2025)
 
+Coverage referencing insiders (and citing prior reporting) that documents tensions, Justin’s volatile posts and paparazzi confrontations, and notes the couple “don't talk about divorce” despite “difficult times.” This reporting is relevant because it documents the background risk factors (public volatility, mental‑health commentary, tension) that make a future announcement plausible — it increases the non‑zero tail risk that the market is pricing.

@@ -1,7 +1,7 @@
 # Research: Will Joe S. San Agustin win the 2026 Guam Governor Democratic primary election?
 
 **Market ID:** 0x1ee55986634de427650d59fe8f8beb86347a78d29f5e8a5a729c587cf3e878a0
-**Researched At:** March 12, 2026 at 06:18:23 PM UTC
+**Researched At:** March 17, 2026 at 05:26:58 AM UTC
 **Search Query:** "Will Joe S. San Agustin win the 2026 Guam Governor Democratic primary election?"
 
 ---
@@ -9,84 +9,78 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 2.8¢
 
 ### Summary
 
-San Agustin is a declared, credible challenger with legislative credentials, but public evidence (limited polling, Tenorio’s incumbency) supports him being a lower‑probability contender; Tenorio’s family indictment is a material but ambiguous liability. Given sparse polling/fundraising data and low market volume, I estimate only modest expected mispricing (expected value ≈ 4.0¢). ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
+Public records and local reporting show Joe S. San Agustin is a credible, declared Democratic gubernatorial candidate with an organized ticket, but Tenorio and several other Democrats are strong contenders and there is no public polling or major fundraising/endorsement evidence suggesting a decisive advantage. Given the crowded field and thin market liquidity, the 18.5% price is plausible; I find insufficient credible evidence of a large mispricing now. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: Ab
 
 ### Full Analysis
 
-Short answer (bottom line): I find no strong, specific evidence that the market price (18.5%) for "Will Joe S. San Agustin win the 2026 Guam Democratic primary for governor?" is massively wrong. The available, recent evidence supports the view that San Agustin is a plausible but not frontrunning candidate: he has declared and has legislative credibility, but the lieutenant governor (Josh Tenorio) retains structural advantages despite a high-profile family indictment that weakens Tenorio’s position. Given limited public polling and low market volume, the market price looks broadly reasonable; any true mispricing is likely modest. I explain the reasoning and show the evidence below.
+Planned approach and search budget
+- Questions to answer: Who is Joe S. San Agustin (credentials, recent campaign activity)? Who are the other major Democratic contenders for Guam governor in 2026 (relative strength, incumbency)? Are there polls, fundraising, endorsements, or credible reports that would suggest San Agustin is substantially under- or over-priced at 18.5%? What is the primary resolution rule and timeline? (I ran 3 targeted web searches to answer those questions.) ([guamlegislature.gov](https://guamlegislature.gov/about-jssa/?utm_source=openai))
 
-1) CONTEXT ANALYSIS — what the market asks and how it resolves
-- The market resolves YES if Joe S. San Agustin is the overall winner of the Democratic Primary for Governor of Guam held on August 1, 2026 (including any run-off/second round), and NO otherwise. The official resolution source will be the Guam Democratic Party’s first official announcement (or an overwhelming consensus of credible reporting). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election?utm_source=openai))
+1) CONTEXT ANALYSIS
+- What the market asks: Will Joe S. San Agustin win the 2026 Guam Governor Democratic primary (scheduled Aug 1, 2026)? The market resolves to the overall winner of the Democratic primary; if no primary occurs it resolves to “Other.” The stated resolution source is the Guam Democratic Party’s official announcement (or overwhelming consensus reporting). The primary date and runoff rules are standard for Guam’s 2026 cycle. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/GU?utm_source=openai))
+- What must happen for YES vs NO:
+  - YES: San Agustin (as a gubernatorial slate with his running mate) must receive the most votes in the Democratic primary (including any applicable runoff mechanics described by Guam election law) and be declared the winner by the Guam Democratic Party or by overwhelming credible reporting.
+  - NO: Any other Democratic slate (e.g., Josh Tenorio or another Dem ticket) wins the Democratic primary, or the Democratic Party does not hold a 2026 primary (in which case market resolves to “Other”).
 
-- Concretely, for the market to pay out YES: (a) San Agustin must be lawfully nominated as the Democratic nominee by being the plurality/majority winner under Guam’s primary rules on or after August 1, 2026, and (b) the Guam Democratic Party / credible reporting must confirm him as the winner. For NO: any other candidate becomes the Democratic nominee or the primary does not occur (the market rules say "Other" if no primary). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election?utm_source=openai))
+2) EVIDENCE EVALUATION (all relevant evidence found)
+Summary of candidate environment and key facts
+- Joe S. San Agustin background: He is a sitting/recent Guam senator with a public biography and recent legislative involvement; he has announced a gubernatorial run and has formed a ticket (running mate Dwayne San Nicolas). This gives him an organizational baseline and some name recognition within Guam politics. ([guamlegislature.gov](https://guamlegislature.gov/about-jssa/?utm_source=openai))
+- Major rival(s): Josh Tenorio (current Lieutenant Governor) has filed and is publicly running and is widely reported as a leading Democratic contender; other potential/declared Democrats include Tina Muña Barnes and Speaker Therese Terlaje (or other prominent Democrats), meaning the primary field has multiple plausible vote-getters. A recent local report shows many candidate packets picked up (a crowded field). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Josh_Tenorio?utm_source=openai))
+- No public polling or clear fundraising/endorsement advantage found for San Agustin in the material retrieved: I did not find any publicly reported island-wide primary polls showing San Agustin leading or any published large-scale fundraising reports that would point to a decisive advantage. Absence of such metrics weakens a claim that he should be priced much higher than current market odds. (No polling source located in the searches returned.) ([archive.vn](https://archive.vn/2025.12.21-232944/https%3A/www.guampdn.com/news/tenorio-mu-a-barnes-make-gubernatorial-bid-official/article_f8ee5a1e-a65c-426c-b292-ffb3621d6f49.html?utm_source=openai))
 
-2) EVIDENCE EVALUATION — what I found and how it bears on the probability
-Key, directly relevant facts
-- San Agustin is an active sitting Guam senator with a public campaign profile and legislative activity; he has a public candidate profile and has introduced bills and initiatives while in office. That establishes name recognition and governing experience as a running credential. ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
-
-- Multiple local outlets reported that San Agustin announced a gubernatorial challenge (campaign-launch reporting and campaign-tracking coverage appeared in July 2025). That supports that he is an active candidate rather than a speculative entry. ([kanditnews.com](https://kanditnews.com/breaking-news-san-agustin-running-for-governor/?utm_source=openai))
-
-- The leading Democratic structural alternative is Josh Tenorio (Lieutenant Governor), who announced a run earlier (he has the typical advantages of an incumbent executive officer and an established campaign organization). However, a major complicating factor is a June 25, 2025 federal grand jury indictment of multiple members of Tenorio’s immediate family in a large Pandemic Unemployment Assistance (PUA) fraud case; Tenorio himself has not been charged but the family indictment creates a continuing political liability and media focus. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections?utm_source=openai))
-
-- There is little high-quality, public polling on the Democratic primary (polls that appear in discussion are either sparse, privately commissioned, or partisan), so the quantitative battlefield is under-specified in public sources. That makes markets and local reporting more important, but also increases uncertainty. (I found references to a November/December 2025 poll mentioned in local summaries but the poll source and methodology were not independently verifiable from public archives.) ([polychances.com](https://polychances.com/polymarket-events/guam-governor-democratic-primary-winner/?utm_source=openai))
-
-What specifically suggests the market price might be incorrect (arguments for mispricing)
-- Pro-mispricing points:
-  - Tenorio’s family indictment is a politically salient development that could materially reduce Tenorio’s primary support over time if continued negative coverage, discovery, or legal developments further erode confidence. If Tenorio’s structural advantage collapses more than the market expects, San Agustin’s chances could materially increase. (Evidence: local court filings and detailed reporting of warrants/indictment). ([kanditnews.com](https://kanditnews.com/timeline-compilation-the-tenorio-corruption-case/?utm_source=openai))
-  - Low trading volume (market total vol $1,601 and age 91 days) + tight spread suggests a price set by a few traders; if a well-informed actor who believes San Agustin has better odds than 18.5% has not yet traded, a small inefficiency could persist. (Market metrics provided by you; low volume noted.) — this is a general market-structure risk rather than evidence about San Agustin’s underlying probability.
-
-What supports the market price as reasonable (arguments against mispricing)
-- Anti-mispricing points:
-  - Incumbent-position advantage: Tenorio’s role as lieutenant governor gives him name recognition, an existing campaign network, and (as of public reports) early organizing/fundraising advantages; those advantages usually translate into a substantial base of primary support that’s not trivial to overcome quickly. Multiple local analytic summaries and candidate lists show Tenorio as a natural frontrunner. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections?utm_source=openai))
-  - San Agustin is a credible challenger but (from public reporting) there’s limited evidence of large-scale fundraising, island-wide polling strength, or major party-wide endorsement momentum that would move him from longshot to favorite. His legislative record helps, but the step from senator to gubernatorial nominee—especially against an incumbent lieutenant governor—is large in Guam’s context. Public reporting and candidate profiles reflect that gap. ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
-  - Lack of reliable polls showing San Agustin leading: the only public poll references seen put him behind Tenorio and other hypothetical names; without stronger polling or an endorsement wave, a mid-teens/low-twenties implied probability is plausible. ([polychances.com](https://polychances.com/polymarket-events/guam-governor-democratic-primary-winner/?utm_source=openai))
+Specific evidence that could imply the market price is incorrect (i.e., undervalued or overvalued)
+- Evidence suggesting underpricing (case for higher true probability than 18.5%):
+  - San Agustin has an early, organised ticket (he announced a running mate) and legislative experience, which can matter in a crowded multi-candidate primary where vote-splitting can enable an organized minor front-runner to prevail. Early organization and a running mate can be especially valuable in low-information, low-turnout primaries. The KUAM article confirming his running mate is direct evidence he has an active campaign organization. ([kuam.com](https://www.kuam.com/story/53016716/san-agustin-names-san-nicolas-as-running-mate?utm_source=openai))
+  - Guam politics often reward local name recognition and legislative vote-getters; in a crowded Democratic primary, 18–25% can be sufficient to win plurality if votes are split. The mere plausibility that a well-organized slate could win a plurality supports the idea that a mid-teens market price is not implausible. (This is a structural electoral observation rather than new empirical evidence.) ([kuam.com](https://www.kuam.com/story/153437640/2026-guam-election-candidate-list-grows-to-55-potential-contenders?utm_source=openai))
+- Evidence suggesting the market price is reasonable or San Agustin is over-priced:
+  - Josh Tenorio, as sitting lieutenant governor and an early-filed candidate, is widely covered as a leading contender; incumbency or top-ticket recognition tends to confer large advantages in primaries. Reports explicitly list Tenorio as a declared candidate and a central figure. That reduces San Agustin’s win probability versus a head-to-head where Tenorio would likely be favored. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Josh_Tenorio?utm_source=openai))
+  - The candidate field appears crowded (many candidate packets picked up), which makes singular breakout victories harder unless there is clear polling or an accelerating narrative around one challenger. Crowding implies plurality winners will need to be in the mid-to-high teens to low twenties in probability models, and markets often price multiple viable candidates accordingly. ([kuam.com](https://www.kuam.com/story/153437640/2026-guam-election-candidate-list-grows-to-55-potential-contenders?utm_source=openai))
+  - I found no credible island-wide polling, major endorsements, or fundraising reporting showing San Agustin as a frontrunner; where those are absent, a market price near ~18% is defensible. ([archive.vn](https://archive.vn/2025.12.21-232944/https%3A/www.guampdn.com/news/tenorio-mu-a-barnes-make-gubernatorial-bid-official/article_f8ee5a1e-a65c-426c-b292-ffb3621d6f49.html?utm_source=openai))
 
 Source credibility and recency
-- KUAM (local broadcaster) reporting and candidate profiles are credible primary-local-news sources for Guam politics and provide reliable information about San Agustin’s background and bills (e.g., Bill 91, minimum wage measure). The content I relied on from KUAM is recent (2024–2025). ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
-- Kandit News Group has produced detailed investigative reporting on the Tenorio family indictment and on campaigns; it appears to publish local court-document details and timelines. Kandit is an active local outlet; I treated its court-level reporting as significant but cross-checked (where possible) against court-docket mentions referenced in Kandit reporting. Kandit’s coverage is recent (mid‑2025 onward) and drives much local political conversation. ([kanditnews.com](https://kanditnews.com/breaking-news-san-agustin-running-for-governor/?utm_source=openai))
-- Official Guam sources (Guam Election Commission schedule and official primary date) and general reference pages corroborate the primary date (Aug 1, 2026) and filing windows; these are authoritative for resolution mechanics. (See GEC / election calendar.) ([gec.guam.gov](https://gec.guam.gov/2026-important-dates/?utm_source=openai))
-- Public polling evidence is sparse and sometimes originates from partisan/commissioned polls mentioned in local analysis. That reduces confidence in point estimates from polls and increases the value of qualitative indicators (fundraising, endorsements, incumbency, scandals).
+- Local news outlets (KUAM, Pacific Daily News/Pacific Island Times) and official Guam government/legislature pages are the most relevant and credible sources for candidate announcements and local election mechanics; these are recent reporting items (campaign announcements and candidate packet counts within the last several months). ([kuam.com](https://www.kuam.com/story/53016716/san-agustin-names-san-nicolas-as-running-mate?utm_source=openai))
+- Wikipedia entries are useful for background but secondary; I used them only to corroborate candidate filing/mentions and background details. Where possible I relied on primary local reporting. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Joe_S._San_Agustin?utm_source=openai))
+- I found no high-quality polling or formal campaign finance disclosures during these searches — a notable absence that limits strong conclusions.
 
-Skepticism about “obvious” evidence
-- The Tenorio family indictment is plainly damaging, but Tenorio himself is not charged; party loyalty, the absence of direct charges, and the timing of legal proceedings (which may extend without a decisive conviction or direct linkage to the candidate) could blunt electoral damage. If the market is already pricing that risk into Tenorio’s chances, San Agustin’s 18.5% could be the correct residual probability for an active but not leading challenger.
+3) MARKET EFFICIENCY ANALYSIS
+- Plausible interpretations that justify 18.5%:
+  - A crowded Democratic primary with at least one high-profile declared candidate (Tenorio) and several other plausible challengers makes the field competitive; a mid-teens implied probability for a mid-tier challenger with an organized ticket is reasonable in a multi-candidate plurality contest.
+  - The market’s low total volume ($1,675) and narrow spread suggest price-setting could be due to a small number of active traders or a liquidity provider rather than broad consensus. That makes the price fragile to new information but not necessarily wrong. (Market metrics from prompt.)
+- Could the price reflect a single or few participants? Yes — low volume + small spread commonly indicates thin liquidity and possibly an automated or single liquidity-providing trader establishing a line. This increases the chance of inefficiency, but inefficiency does not guarantee a large, exploitable mispricing.
+- Is the low volume because the outcome is obvious? No — the outcome is not plain-certain. Local political dynamics, incumbency, and multiple declared candidates create uncertainty. The low volume is more plausibly explained by limited attention or liquidity rather than a clear consensus that San Agustin has low or high odds.
 
-3) MARKET EFFICIENCY ANALYSIS — interpreting the current price (18.5%)
-Possible charitable interpretations of 18.5%:
-- 18.5% = market is giving San Agustin a credible lower-tier chance in a multi-candidate Democratic primary where Tenorio (despite legal distractions) and possibly other candidates (or undeclared influential figures) are expected to split the vote. That’s consistent with a mid‑teens probability for a non-frontrunner senator. ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
-- Given low total trading volume ($1,601) and a narrow spread, price might reflect one or a few traders’ beliefs rather than a broad-information aggregation; the price may be stable because few counter‑trades have been placed, not because it is fully information-complete.
-Could it represent a genuine consensus?
-- Yes, it could: informed local operatives and party insiders may expect Tenorio to survive the scandal and remain the default nominee; 18.5% would then be San Agustin’s chance to consolidate anti-Tenorio sentiment. Evidence for that consensus is incomplete (lack of public polling, but local analytic write‑ups emphasize Tenorio’s structural advantage). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections?utm_source=openai))
-Is low volume because outcome is obvious or because traders haven’t engaged?
-- Both are possible. Low volume could mean the outcome is seen as unsurprising (Tenorio favored; San Agustin longshot), or simply that Guam contests get little national trading interest and only a few local/specialist traders participate. The latter raises the risk that price reflects sparse participants rather than the full-information equilibrium.
+4) MISPRICING ASSESSMENT (objective weighing)
+- Does credible evidence point to a clear mispricing (large enough to trade on)?
+  - No clear, specific, credible evidence found in the searches indicates San Agustin is grossly underpriced (e.g., no polling or fundraising data showing momentum that the market has ignored).
+  - The plausible path for San Agustin to win (organized ticket + plurality in a crowded field) is real, but that path is also true for several other candidates; that structural fact supports a mid-teens to low-twenties win probability rather than a large mispricing.
+- Timeline consideration: The primary is Aug 1, 2026 (several months away). With many months to go, the probability distribution can shift substantially with endorsements, polls, or campaign events. That future uncertainty argues against concluding a large, persistent mispricing now.
+- Conclusion on mispricing: Insufficient credible, specific evidence to claim a substantial mispricing from the current market price (18.5%). The market price is plausible given the crowded field and San Agustin’s relative profile; thin liquidity means price could move on new info, but there's no clear “smoking gun” missing from the market price right now.
 
-4) MISPRICING ASSESSMENT — weighing evidence for/against mispricing
-- I looked specifically for evidence that would clearly be “missing” from the market price (e.g., a new endorsement sweep, a major fundraising haul, or a polling lead for San Agustin). I did not find decisive new public evidence that San Agustin is closing to >40% or that Tenorio is collapsing to single digits. The most material new information is the Tenorio-family indictment, which creates ongoing downside risk for Tenorio but does not by itself prove Tenorio will lose. ([kanditnews.com](https://kanditnews.com/timeline-compilation-the-tenorio-corruption-case/?utm_source=openai))
+Critical-check (self-challenge)
+- Could I be missing a technicality (e.g., inexact resolution criteria)? The market resolution criteria in the prompt are clear (winner of Democratic primary, August 1, 2026); I matched that with Guam primary scheduling. I did not find evidence that the primary procedure would disqualify a plurality winner, and The Green Papers notes the primary date and runoff-related laws for the general; resolution mechanics appear straightforward. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/GU?utm_source=openai))
+- Could informed traders have information I lack? Possibly (internal polling, local endorsements, fundraising lists), but I found no public traces of such information in major local outlets in these searches. That lack of public evidence reduces—but does not eliminate—the chance of a large unseen mispricing.
 
-- Given the combination of (a) San Agustin’s credible candidacy, (b) Tenorio’s incumbency and organizational advantages, and (c) the legal cloud surrounding Tenorio’s family, a mid‑teens market probability for San Agustin (18.5%) is plausible. I do not see specific, verifiable, public facts that would force a conclusion that the market is off by a very large amount (e.g., >20 percentage points). Instead, the most charitable interpretation is that the market reflects San Agustin as a viable challenger but not the favorite. ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that traders are missing material public information: low–medium. I found reasonable public evidence of campaign activity for San Agustin but no indicators of an overlooked surge (polls/fundraising/major endorsements). Strength ≈ 40%.
+- Magnitude of plausible mispricing if there is one: small. Given the crowded field, a reasonable range for a correction might be ~5–10 cents (i.e., price could move from 18.5% to, say, 23–28% if new evidence emerges). I choose 7 cents as a midpoint plausible magnitude for mispricing. (This is not a claim that it will move that far—only an estimate of plausible upside if material missing evidence exists.)
+- Expected value = 40% × 7 cents = 2.8 cents.
 
-CRITICAL CHECK (what I might be missing)
-- Could San Agustin already have internal polling or large donors not publicly disclosed? Possibly — such private information could tilt probability materially but we have no public trace of it.
-- Could the market be misreading resolution details? The market resolves to the Democratic primary winner including runoffs; I verified GEC/Wikipedia primary date and resolution description; there’s no sign of a tricky technicality that would invalidate the market’s core assumption. ([gec.guam.gov](https://gec.guam.gov/2026-important-dates/?utm_source=openai))
+6) CONFIDENCE
+- I rate my confidence in this assessment as medium. I used credible local news and official sources, but absence of publicly-released polling or complete campaign finance data leaves room for non-public information to change the picture.
 
-5) EXPECTED VALUE CALCULATION (estimating the value of investigating/trading)
-- Strength of evidence (how strongly I believe public evidence shows a mispricing that is actionable): ~40%. Rationale: evidence (Tenorio family indictment, San Agustin announcement and profile) moves the picture but is ambiguous and already visible in local narrative. Some public reporting likely already incorporated those facts into the market price — so only partial surprise remains. ([kanditnews.com](https://kanditnews.com/timeline-compilation-the-tenorio-corruption-case/?utm_source=openai))
-- Plausible magnitude of mispricing if it exists: ~10 cents (0.10) — i.e., the market might underprice San Agustin by ~10 percentage points (true chance ~28.5% vs market 18.5%) in an optimistic scenario where Tenorio’s liability steadily erodes his support. This is an upper-bound, not my central estimate. Rationale: Tenorio’s incumbency still provides a meaningful floor to his support; a much larger gap would require clear polling or endorsement turnover which is not visible publicly. ([polychances.com](https://polychances.com/polymarket-events/guam-governor-democratic-primary-winner/?utm_source=openai))
-- Expected value = Strength × Magnitude = 40% × 10 cents = 4.0 cents.
+Final concise judgment
+- At present there is insufficient public evidence to conclude a significant mispricing of Joe S. San Agustin at 18.5%. The market price is plausible given a crowded field, Tenorio’s prominence, and no public polling/fundraising indicating San Agustin is a clear frontrunner. The market is thinly traded, so it is fragile and deserves monitoring for new endorsements, polls, or fundraising disclosures that could meaningfully change probabilities.
 
-6) CONFIDENCE in this assessment
-- My confidence level in the above assessment: medium.
-  - Why not high? Key public information (polls, endorsements, fundraising numbers) is sparse; local legal developments could shift rapidly; low market volume means price can change quickly once new info or a single informed trader acts.
-  - Why not low? There is credible, recent reporting on the Tenorio family indictment and on San Agustin’s active candidacy; those are substantial inputs to probability and they are public and documented. ([kanditnews.com](https://kanditnews.com/timeline-compilation-the-tenorio-corruption-case/?utm_source=openai))
-
-Final conclusion (short): The market price of 18.5% for Joe S. San Agustin is plausible given the publicly visible facts: San Agustin is a credible, declared challenger with legislative credentials, but he lacks publicly visible polling, endorsements, or fundraising that would make him the apparent favorite. Tenorio remains a structural favorite despite the political liability created by his family’s indictment. I see possible upside to San Agustin’s probability if Tenorio’s legal narrative worsens or if San Agustin captures endorsements/funds, but current public evidence does not prove a large (>20 cent) mispricing. Expected value of further investigation / trading = 4.0 cents (see calc above).
-
-EXPECTED_VALUE: 4.0
-SUMMARY: San Agustin is a declared, credible challenger with legislative credentials, but public evidence (limited polling, Tenorio’s incumbency) supports him being a lower‑probability contender; Tenorio’s family indictment is a material but ambiguous liability. Given sparse polling/fundraising data and low market volume, I estimate only modest expected mispricing (expected value ≈ 4.0¢). ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
-CONFIDENCE: medium
+EXPECTED_VALUE: 2.8
+SUMMARY: Public records and local reporting show Joe S. San Agustin is a credible, declared Democratic gubernatorial candidate with an organized ticket, but Tenorio and several other Democrats are strong contenders and there is no public polling or major fundraising/endorsement evidence suggesting a decisive advantage. Given the crowded field and thin market liquidity, the 18.5% price is plausible; I find insufficient credible evidence of a large mispricing now. CONFIDENCE: medium
 
 ---
 
@@ -94,32 +88,32 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Joe S. San Agustin](https://www.kuam.com/story/50898439/joe-s-san-agustin)
-**Author:** KUAM News (profile) | **Published:** 2024-06-13
+### [About – Senator Joe S. San Agustin » Guam Legislature](https://guamlegislature.gov/about-jssa/)
+**Author:** Unknown | **Published:** Unknown
 
-KUAM’s candidate/profile page gives a biographical summary of Senator Joe S. San Agustin (education, military background, legislative history and contact info). It shows he is an active incumbent senator and has been involved in appropriations, Guam National Guard and veterans’ issues — material for judging his credibility as a gubernatorial challenger. This supports the view that San Agustin is a plausible candidate with governing experience (supports probability > 0) and explains why he is on the radar of local political reporting (supports the market pricing him as a viable but not leading contender). ([kuam.com](https://www.kuam.com/story/50898439/joe-s-san-agustin?utm_source=openai))
+Official biographical/legislative page for Joe S. San Agustin. Describes his legislative service, roles, and public duties; confirms he is an active political figure in Guam with governmental experience. This supports the claim that San Agustin has baseline name recognition and organizational capacity relevant to a gubernatorial bid, which makes his presence in the primary plausible and explains why a mid-teens market probability is not unreasonable.
 
-### [Bill 91 aims to strengthen Guam ties in National Guard Command](https://www.kuam.com/story/52787730/bill-91-aims-to-strengthen-guam-ties-in-national-guard-command)
-**Author:** Nevaeh Anderson / KUAM | **Published:** 2025-05-20
+### [San Agustin names San Nicolas as running mate - KUAM News](https://www.kuam.com/story/53016716/san-agustin-names-san-nicolas-as-running-mate)
+**Author:** Unknown | **Published:** Unknown
 
-Local reporting on legislative activity authored by Senator Joe San Agustin (Bill No. 91) demonstrates San Agustin’s legislative focus (Guam National Guard residency requirement proposal) and ability to generate policy proposals and early support from colleagues. This evidences San Agustin’s active legislative role and island-wide policy profile, which is relevant when assessing his electability and the plausibility of his candidacy (supports why a non-trivial market probability for him is reasonable). ([kuam.com](https://www.kuam.com/story/52787730/bill-91-aims-to-strengthen-guam-ties-in-national-guard-command?utm_source=openai))
+Local news report announcing that Joe San Agustin officially announced Dwayne San Nicolas as his running mate in the 2026 gubernatorial race. It documents active campaign organization and is direct evidence that San Agustin is running a ticket (not a purely speculative candidacy). This supports the view that San Agustin has an organized path to a plurality in a crowded primary, which partly justifies a mid-teens market price.
 
-### [BREAKING NEWS: San Agustin Running for Governor](https://kanditnews.com/breaking-news-san-agustin-running-for-governor/)
-**Author:** Troy Torres | **Published:** 2025-07-18
+### [Josh Tenorio - Wikipedia](https://en.wikipedia.org/wiki/Josh_Tenorio)
+**Author:** Unknown | **Published:** Unknown
 
-Kandit News reports that Joe San Agustin announced a gubernatorial challenge (July 2025 reporting), including quotes, campaign context, and contemporaneous accounts that he is challenging Lieutenant Governor Josh Tenorio. This is direct evidence that San Agustin has declared and is running an active campaign; it supports the market’s premise that he is a legitimate candidate and justifies assigning him some probability in the August 1, 2026 Democratic primary. ([kanditnews.com](https://kanditnews.com/breaking-news-san-agustin-running-for-governor/?utm_source=openai))
+Background and recent activity for Josh Tenorio, the current Lieutenant Governor, including reporting that Tenorio filed his candidacy for the 2026 gubernatorial race. This is relevant because Tenorio’s prominence makes him a leading Democratic contender and reduces the implied probability for challengers like San Agustin; it supports the “market reasonable” side of the analysis.
 
-### [TIMELINE & COMPILATION: The Tenorio Corruption Case](https://kanditnews.com/timeline-compilation-the-tenorio-corruption-case/)
-**Author:** Troy Torres (compilation/reporting) | **Published:** 2025-07-XX (timeline compiled July 2025)
+### [2026 Guam election candidate list grows to 55 potential contenders - KUAM](https://www.kuam.com/story/153437640/2026-guam-election-candidate-list-grows-to-55-potential-contenders)
+**Author:** Unknown | **Published:** Unknown
 
-Kandit’s timeline compiles court filings, unsealed warrants, and reporting about the June 25, 2025 federal grand‑jury indictment against multiple members of Lieutenant Governor Josh Tenorio’s immediate family in a PUA fraud case. The page gives dates, charges, and the public fallout. This is highly relevant because it documents a significant political liability for Tenorio (family indictment and continuing court process) — a central piece of evidence that could change Democratic primary dynamics and thus directly affects San Agustin’s chances. The reporting appears to cite court filings and warrants, making it a material, if locally partisan, primary source for the legal facts. ([kanditnews.com](https://kanditnews.com/timeline-compilation-the-tenorio-corruption-case/?utm_source=openai))
+News coverage describing the number of candidate packets picked up for the 2026 elections (noting many contenders, including multiple governor/lt. gov. slates). This documents a crowded field for governor contests, which makes plurality outcomes and vote-splitting likely and helps explain why a mid-teens win probability for an organized challenger is plausible.
 
-### [2026 Guam gubernatorial election](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election)
-**Author:** Unknown (Wikipedia) | **Published:** Unknown (updated periodically)
+### [2026 Guam General Election (Primary: Saturday 1 August 2026) — The Green Papers](https://www.thegreenpapers.com/G26/GU)
+**Author:** Unknown | **Published:** Unknown
 
-The Wikipedia page summarizes the 2026 Guam gubernatorial election (date, primary/general election schedule), lists declared candidates and context for the race, and references local reporting for candidate declarations and timelines. It corroborates the primary date (August 1, 2026) and lists major declared or discussed candidates, which is useful to cross-check the field and to understand resolution mechanics for the prediction market. Because it aggregates reporting and official dates, it helps confirm what the market will treat as the resolution event. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election?utm_source=openai))
+Election calendar and legal notes for Guam’s 2026 cycle, including the primary date (August 1, 2026) and relevant rules about major elections. This source corroborates the primary date and confirms the timing and basic resolution mechanics cited by the market; it helped verify the event the market will resolve on.
 
-### [2026 IMPORTANT DATES – GUAM ELECTION COMMISSION](https://gec.guam.gov/2026-important-dates/)
-**Author:** Guam Election Commission | **Published:** Unknown
+### [Tenorio, Muña-Barnes make gubernatorial bid official | guampdn.com (archived)](https://archive.vn/2025.12.21-232944/https%3A/www.guampdn.com/news/tenorio-mu-a-barnes-make-gubernatorial-bid-official/article_f8ee5a1e-a65c-426c-b292-ffb3621d6f49.html)
+**Author:** Unknown | **Published:** Unknown
 
-The Guam Election Commission’s official calendar lists key dates for the 2026 primary and general elections (including candidate packet windows, filing/ratification steps, and the August 1, 2026 primary date). This is authoritative for resolution mechanics and verifies the election schedule the market uses to determine when and how the Democratic primary will be decided; hence it is central to interpreting how the market resolves the contract. ([gec.guam.gov](https://gec.guam.gov/2026-important-dates/?utm_source=openai))
+Local Pacific Daily News coverage of candidates (Tenorio and Muña-Barnes) making bids official; mentions other potential/declared candidates and campaign events. This supports the assessment that Tenorio is a prominent declared Democrat and that the Democratic primary field includes multiple credible challengers—both facts that reduce the likelihood San Agustin is a clear favorite and support the market price’s plausibility.

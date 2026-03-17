@@ -1,90 +1,126 @@
 # Research: Will Cindy Holscher win the 2026 Kansas Governor Democratic primary election?
 
 **Market ID:** 0x8bb083247bc0525ae99c364b72394f3cd8e8d15bd4ed7ce08bd71079bba2bda6
-**Researched At:** March 9, 2026 at 04:27:11 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Cindy Holscher win the 2026 Kansas Governor Democratic primary election?"
+**Researched At:** March 17, 2026 at 05:44:38 AM UTC
+**Search Query:** "Will Cindy Holscher win the 2026 Kansas Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.1¢
+**Confidence:** Medium
+**Expected Value:** 3.5¢
 
 ### Summary
 
-Research shows no specific polling or fundraising data on Cindy Holscher, making the 22.5% price a reasonable early‐stage estimate rather than a clear misprice. Market’s low volume reflects information scarcity more than obvious inefficiency.
+Cindy Holscher is a declared, credible candidate with some early name recognition and campaign polling showing her competitive among “informed” Democrats, but Ethan Corson has substantially stronger fundraising and high‑profile endorsements (including Gov. Laura Kelly). Given the public evidence and large undecided share, the market price of 23.5% for Holscher is plausible; there is no clear, large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Cindy Holscher will emerge as the winner of the Kansas Democratic gubernatorial primary on August 4, 2026. A YES resolution requires that she finish first in that contest (including any run-off), as officially announced by the Kansas Democratic Party (or via overwhelming credible reporting). A NO resolution covers any other winner or if the Democratic primary does not occur.
+Planned approach and search budget use
+- I used the allotted three web searches to (1) establish who Cindy Holscher is and whether she is an active candidate, (2) find early polling and reporting about the Democratic primary field, and (3) collect campaign finance and endorsement data for Holscher and her principal rival(s). I prioritized local/state reporting and official filings (Kansas PDC) and avoided prediction-market sites as requested.
 
-2. EVIDENCE EVALUATION  
-Bullish for Holscher  
-• Anna Kaminski (2025-11-25) describes Holscher as a grassroots campaigner with rural appeal and Johnson County base—traits that could help her consolidate a moderate Democratic electorate in Kansas.  
-Bearish or Neutral  
-• NPR (2026-03-02) reports no primary results or polls yet; no direct data on Holscher’s standing.  
-• Gambit Forecaster (2026-03-01) notes that candidate fields are unsettled and early polling is uneven, with no specific mention of Holscher.  
-• Two DNC-focused articles (2026-02-11 and 2026-02-12) provide no information on the gubernatorial primary or her competitors.  
-Source Credibility & Recency  
-• All sources are from late 2025 to early 2026, credible but lacking decisive polling or fundraising data.  
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Cindy Holscher win the 2026 Kansas Governor Democratic primary (Aug 4, 2026)?” The market resolves YES if Holscher is the overall winner of the Democratic primary as certified (Kansas Democratic Party official results or overwhelming credible reporting). It resolves NO if any other Democratic candidate wins or if no primary takes place (in which case it resolves to “Other”).
+- For YES to occur: Holscher must secure the plurality (or majority, depending on turnout and any run-off rules the market mentions) of votes in the August 4, 2026 Democratic primary and be officially announced by the Kansas Democratic Party (or covered by a consensus of credible outlets).
+- For NO: any other candidate (e.g., Ethan Corson or another declared Democrat) must win the primary.
 
-Nothing in the findings suggests a clear probability >30% nor below 15%. The absence of specific polling or matchup data renders the 22.5% figure plausible as an informed guess rather than an obvious misprice.
+2) EVIDENCE EVALUATION (all claims supported by cited sources below)
+Key facts about the race and actors
+- Holscher is a declared candidate and serving Kansas state senator who announced a run in mid‑2025 and has an active campaign website and events. (Supports that she is a real contender, not a paper candidate.)
+- Other declared Democrats include state Sen. Ethan Corson and Marty Tuley; Gov. Laura Kelly cannot run again (reporting indicates Kelly is leaving the field). Corson has received high‑profile endorsements (notably Gov. Laura Kelly) and substantial fundraising. (This is directly relevant because endorsements and cash matter in primaries.)
 
-3. MARKET EFFICIENCY ANALYSIS  
-• The 22.5% price could reflect consensus that Holscher has a nonzero but modest chance in a still-fluid field.  
-• $0 total volume and a tight 3¢ spread suggest price-setting by one or a few traders, but absence of trading interest might also indicate a genuinely unremarkable, information‐scarce market.  
-• Informed Kansas insiders may be awaiting primary polls or fundraising tallies before trading; hence low volume likely reflects genuine data scarcity rather than oversight.
+Evidence that suggests the current market price (23.5%) might be too high for Holscher
+- Fundraising disparity: Multiple news reports and campaign finance records show Ethan Corson raised substantially more in 2025 and began 2026 with materially more cash-on-hand than Holscher (Corson reported roughly ~$900k raised in 2025 with several hundred thousand COH vs Holscher roughly ~$397k raised and much less COH at year‑end). A sizable resource gap limits Holscher’s capacity for statewide advertising, staff and ground game—especially important in a geographically large state like Kansas. This argues Holscher is the underdog and that 23.5% may overstate her win probability if money and endorsements drive outcomes. (Sources: Kansas Reflector, local reporting, campaign finance filings.)
+- High‑value endorsements for Corson: Gov. Laura Kelly’s reported endorsement of Ethan Corson (Nov 2025) and other establishment/union backing favor Corson’s organizational strength; incumbents’ endorsements often shape primaries, particularly in low‑information races. This undercuts Holscher’s odds, especially given the early undecided electorate. (Sources: multiple local outlets.)
+- Expert/local analysis: Local reporters and political scientists quoted in coverage emphasize Corson’s organizational edge and Kelly’s endorsement as substantial advantages in turning early name recognition into votes. This supports a bearish view on Holscher’s chances.
 
-4. MISPRICING ASSESSMENT  
-• No high‐credibility evidence is missing that would dramatically raise or lower her win probability by >20 cents.  
-• Given the early stage and lack of competitor data, the current price neither leaps out as over‐ nor undervalued.  
-• A charitable interpretation is that traders have priced in Holscher’s grassroots strength balanced against typical uncertainties in a multi-candidate Democratic primary.
+Evidence that supports the market price (i.e., reasons Holscher could plausibly be near ~23.5%)
+- Early poll (Public Policy Polling, Jan 8–9, 2026) — reported in local outlets — found Holscher leading Corson among likely Democratic voters who had “sufficient information” (33% Holscher vs 9% Corson) but with ~58% undecided overall and very low name recognition measures. If that poll reflects a real early advantage in Johnson County and among activated primary voters, Holscher could convert name recognition into a win. But the poll was commissioned by Holscher’s campaign, and the very high undecided fraction makes the lead fragile.
+- Both principal Democrats are Johnson‑County legislators (both draw from the same populous KC‑area base), which could mean the Democratic primary is largely a localized contest where either candidate can win depending on turnout, endorsements, and ground game. That structural factor keeps Holscher plausibly competitive.
+- Low information electorate: multiple reports stress how many Democratic voters remain undecided and unfamiliar with either candidate; in such settings, early fieldwork, messaging, and single events can swing outcomes — leaving the market’s ~24% chance within a plausible range rather than obviously wrong.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence against mispricing: ~10% (sources are credible but nonspecific).  
-• Magnitude of potential mispricing: ~1 cent.  
-• Expected value = 10% × 1 cent = 0.1 cent.
+Source credibility and recency
+- Credible local/state outlets (Kansas Reflector, Topeka Capital‑Journal, Wichita Eagle, AP) reported the fundraising numbers, endorsements and the PPP poll. These are current (Jan–Mar 2026) and directly relevant. The Kansas Public Disclosure Commission filings provide primary financial filings (official records) and are the most trustworthy for money numbers.
+- Caveat: the PPP poll was reported as commissioned by Holscher’s campaign; commissioned polls can have methodological or sampling issues and the very high undecided fraction reduces its predictive power.
 
-EXPECTED_VALUE: 0.1  
-SUMMARY: Research shows no specific polling or fundraising data on Cindy Holscher, making the 22.5% price a reasonable early‐stage estimate rather than a clear misprice. Market’s low volume reflects information scarcity more than obvious inefficiency.  
-CONFIDENCE: low
+Skepticism about “obvious” evidence
+- The PPP poll showing Holscher leading may be noisy or biased (commissioned by Holscher campaign), and with 58% undecided it is a weak predictor. If Holscher’s lead were decisive and robust statewide, independent polls and larger fundraising would likely reflect that; instead the fundraising advantage goes to Corson, and Corson has key endorsements—suggesting the PPP finding is not yet decisive and could already be discounted by market participants.
+
+3) MARKET EFFICIENCY ANALYSIS
+Plausible interpretations of the current 23.5% price
+- Charitable interpretation (efficient): The price reflects the consensus that Holscher is a secondary contender — she’s a credible candidate with some early name recognition and a base, but she lacks Corson’s cash and endorsements; a ~20–25% chance is a reasonable market-implied underdog probability in such a three‑candidate primary with a large undecided electorate.
+- Alternative (inefficient): Low volume ($869 total) and a tight spread indicate one or a few traders set the price; informed traders may have stayed out for now (too little liquidity to move price). That makes the price vulnerable to single‑trader bias or stale trades anchored to early (Jan) poll headlines.
+Is the low volume because outcome is obvious or because informed traders aren’t engaged?
+- The evidence points to the latter: the race is still early (primary August 4, 2026), many voters undecided, and decisive events (more polling, endorsements, advertising) are forthcoming. That tends to depress trading volume even when meaningful ambiguity remains. So low volume likely indicates neglect more than consensus certainty.
+
+4) MISPRICING ASSESSMENT
+- Do we have credible, missing evidence that the market has overlooked? No clear “smoking gun” is visible. The principal negative signals for Holscher (Corson’s fundraising edge and Kelly endorsement) are widely reported and would likely be known to traders. The positive signal for Holscher (the PPP poll showing a lead among informed voters) is weaker and campaign‑commissioned; knowledgeable traders likely discount it.
+- Timeline consideration: the primary is several months away; the race is volatile. That increases uncertainty and makes confidently calling a large mispricing risky.
+- Bottom line: The available, credible evidence does not show a large, obvious mispricing. The market’s 23.5% seems within a plausible range for an underdog with some early name recognition but materially less cash and fewer establishment endorsements than its closest rival.
+
+5) EXPECTED VALUE CALCULATION (probabilistic thought experiment)
+- Strength of evidence that the market is missing a material fact (0–100%): I assess this as ~35%. There is some chance the market is understating Holscher’s path (Johnson County organization + early name recognition converting to turnout), but much of the informative evidence (endorsements, finance) points the other way and is already public.
+- Magnitude of mispricing if mistaken: If mispriced, I estimate the plausible size is modest — about 5–10 cents (0.05–0.10). Large mispricings (>20¢) are unlikely given the public fundraising/endorsement gap.
+- Expected value = Strength × Magnitude. Using midpoint magnitude 10¢ × 35% = 3.5¢.
+
+6) CRITICAL CHECK (challenging the reasoning)
+- Did I misunderstand resolution conditions? No — the market resolves on the certified Democratic primary winner; reporting/endorsement/fundraising do not change resolution rules.
+- Could I be missing crucial inside information (endorsement deals, polling not public)? Yes — inside deals or private polling could materially change odds; that’s always possible and argues for caution. That risk supports a conservative estimate of mispricing magnitude.
+- Most charitable explanation for traders: Traders likely priced Holscher as a lower‑probability but live underdog (23.5%) because they’ve factored in both the campaign‑pushed poll and Corson’s structural advantages. Given low volume, price probably reflects sparse but reasonably informed bets rather than broad consensus.
+
+FINAL ASSESSMENT / CONCLUSION
+- Is there credible evidence of mispricing? No strong evidence of a large mispricing. The market price (23.5%) is consistent with the mix of evidence: Holscher is a credible but underfunded contender with some early (campaign‑commissioned) polling strength; Corson’s fundraising and endorsements make him the organizational favorite. Given remaining uncertainty and low trading volume, a modest mispricing could exist, but I find no credible basis to assert a large (>20¢) mispricing.
+- Practical implication for a trader: This is a low‑liquidity, early-stage market. If you believe Holscher’s campaign will rapidly convert name recognition to turnout or expect impactful endorsements for Holscher, a small speculative buy could be defensible — but the public evidence favors Corson, and large bets are risky.
+
+EXPECTED_VALUE: 3.5
+
+SUMMARY: Cindy Holscher is a declared, credible candidate with some early name recognition and campaign polling showing her competitive among “informed” Democrats, but Ethan Corson has substantially stronger fundraising and high‑profile endorsements (including Gov. Laura Kelly). Given the public evidence and large undecided share, the market price of 23.5% for Holscher is plausible; there is no clear, large mispricing. 
+
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Kansas Primary Election Results 2026 : NPR
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://apps.npr.org/primary-election-results-2026/states/KS.html
-Summary: The webpage provides the 2026 Kansas primary election results, including contests for governor, U.S. Senate, and U.S. House, but currently, no results are available. Since Cindy Holscher is a Democratic candidate for governor, her chances in the Democratic primary cannot be assessed at this time due to the absence of recent or preliminary results. To predict her likelihood of winning, additional information such as polling data, campaign momentum, voter registration trends, and her support within the Democratic electorate would be necessary once results or relevant indicators become available.
+### [Millionaire candidates for Kansas governor burnish fundraising with personal loans](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)
+**Author:** Patrick E. McKernan / Kansas Reflector (page author block: Morgan Chilson & others; article syndicated) | **Published:** 2026-01-19
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The March 2026 Gambit Forecaster report primarily analyzes the broader landscape of Senate and gubernatorial races, emphasizing that the cycle is still in early calibration with many races remaining uncertain. While specific candidate outcomes, such as Cindy Holscher's potential victory in the Kansas Democratic gubernatorial primary, are not directly addressed, the report highlights that candidate fields are still settling, and early polling remains uneven. It notes that the race environment is influenced heavily by fundamental factors and candidate effects, with some Democratic pathways emerging in Senate contests. However, since the report focuses on overall trends and methodological updates rather than individual primaries, it suggests that predicting Holscher's primary success would require more specific, up-to-date polling data and candidate dynamics within Kansas.
+This Kansas Reflector piece summarizes year‑end campaign finance filings for 2025 and reports that Democrat Ethan Corson raised roughly $902k in 2025 and entered 2026 with about $526k cash‑on‑hand while Cindy Holscher raised roughly $397k with much less cash available. It also notes that neither leading Democrat made large personal loans (unlike several GOP candidates). Relevance: these official finance totals directly affect a candidate’s ability to advertise and organize statewide — a central bearish datapoint for Holscher and a key justification for viewing Corson as the organizational favorite (which argues that a >50¢ price for Holscher would be unlikely).
 
-Title: Kansas Democratic candidates for governor shaping 2026 ...
-Author: Anna Kaminski
-Published Date: 2025-11-25T00:00:00.000Z
-URL: https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/
-Summary: Cindy Holscher, a Kansas State Senator from Johnson County, is running for the Democratic nomination for governor in 2026. She emphasizes a grassroots campaign rooted in her rural upbringing, focusing on issues like lowering the cost of living and standing up to extremism. Holscher highlights her ability to connect with voters outside urban areas, particularly in rural Kansas, and positions herself as a fighter who can deliver results and win tough races. Her campaign strategy involves building support through community engagement and demonstrating her commitment to representing diverse Kansans, which could enhance her prospects in the Democratic primary.
+### [Democrats in governor’s race use debate stage to spotlight affordability, health care, rural Kansas](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)
+**Author:** Morgan Chilson | **Published:** 2026-03-08
 
-Title: DNC chair talks Roger Marshall, Sharice Davids, Senate race in Kansas
-Author: Jason Alatidd
-Published Date: 2026-02-11T00:00:00.000Z
-URL: http://www.hutchnews.com/story/news/politics/elections/congressional/2026/02/11/dnc-chair-talks-roger-marshall-sharice-davids-senate-race-in-kansas/88588913007/
-Summary: The article discusses the upcoming Kansas Senate race, highlighting that Democratic U.S. Rep. Sharice Davids has not ruled out a statewide run and is considered a strong potential candidate. The DNC chair, Ken Martin, views Republican Sen. Roger Marshall as vulnerable, emphasizing the historical difficulty Democrats face in Kansas securing Senate seats since 1932. While Davids has not officially announced a run for Senate and is currently focused on her congressional duties, her recent tour of Kansas and her statements suggest she is considering a statewide campaign. However, the article does not provide specific information about the Kansas Democratic primary for governor or any candidates like Cindy Holscher, so predictions about her chances in the 2026 Democratic primary for governor cannot be directly inferred from this content.
+Coverage of a March 8, 2026 Kansas Democratic Party event/debate where multiple declared Democratic gubernatorial candidates — including Cindy Holscher — discussed policy and campaign themes. The article highlights how candidates are positioning and notes continued low name recognition among many Democrats. Relevance: confirms Holscher is an active candidate and underscores the early, low‑information nature of the electorate — which supports a moderate probability for a credible underdog but argues against confident pricing in either direction.
 
-Title: DNC chair thinks Kansas Democrats will break GOP supermajority in 2026
-Author: Jason Alatidd
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://eu.cjonline.com/story/news/politics/elections/2026/02/12/dnc-chair-thinks-kansas-democrats-will-break-gop-supermajority-in-2026/88588918007/
-Summary: The article discusses the optimism of Democratic National Committee chair Ken Martin regarding the potential for Kansas Democrats to break the GOP supermajority in the Kansas House in 2026. While it highlights recent shifts in voter behavior—such as increased support from independents, Latinos, working-class, and young voters—and the Democrats' efforts to flip five House seats, it does not provide specific information about individual candidates like Cindy Holscher or details about the gubernatorial primary. Therefore, based on this content, there is no relevant information to predict whether Cindy Holscher will win the 2026 Kansas Democratic primary for governor.
+### [Early poll of Democratic primary race for Kansas governor reveals most voters undecided](https://kansasreflector.com/2026/01/15/early-poll-of-democratic-primary-race-for-kansas-governor-reveals-most-voters-undecided/)
+**Author:** Tim Carpenter | **Published:** 2026-01-15
 
+Reports on a Public Policy Polling (PPP) survey conducted Jan 8–9, 2026 (n≈699) that found Holscher at 33% and Corson at 9% among respondents who had sufficient information about candidates, but that 58% of likely Democratic voters remained undecided and both candidates had low favorability/name recognition. The article notes the poll was commissioned by the Holscher campaign. Relevance: this is the principal early polling suggesting Holscher’s early advantage among informed respondents — but the high undecided rate and campaign sponsorship reduce its predictive weight and explain why markets may discount it.
 
+### [Cindy Holscher says she plans to run for governor](https://www.kcnonline.com/wp/2025/06/12/holscher-says-she-plans-to-run-for-governor/)
+**Author:** Unknown (KCN Online staff) | **Published:** 2025-06-12
+
+Local coverage of Cindy Holscher’s campaign launch (June 12, 2025), describing her background (former state House, current state Senate), reasons for running, and that she became the first major Democrat to enter the 2026 gubernatorial field. Relevance: establishes Holscher’s declared candidacy and local political résumé, confirming the subject of the market is an active and realistic contender.
+
+### [Four Candidates Use $1M Loans on Campaigns](https://www.kcnonline.com/wp/2026/01/19/four-candidates-use-1m-loans-on-campaigns/)
+**Author:** Unknown (KCN Online staff) | **Published:** 2026-01-19
+
+Summarizes campaign finance snapshots across gubernatorial campaigns; repeats the Corson vs Holscher fundraise comparison (Corson raised ~$902k and had ~$526k on hand; Holscher raised ~$397k with ~$179k COH). Relevance: corroborates fundraising numbers reported elsewhere and confirms the resource gap that matters for campaign viability and chances in the primary.
+
+### [Gov. Laura Kelly endorses state senator to succeed her](https://apnews.com/article/c465aadcc7c53c6c274f790928fc6208)
+**Author:** Associated Press | **Published:** 2025-11-17
+
+AP reporting indicates Gov. Laura Kelly publicly endorsed state Senator Ethan Corson as the preferred Democratic candidate to succeed her. The article also states that Kelly cannot run again (reported as ineligible/term‑limited for 2026). Relevance: Kelly’s endorsement is a substantial credential that likely influences party insiders and Democratic primary voters; this endorsement is an important reason to treat Corson as the organization‑favored candidate and to view Holscher as underdog.
+
+### [Kansas Public Disclosure Commission — Cindy L Holscher campaign finance filing (PDF)](https://www.kansas.gov/ethics/CFAScanned/Senate/2024ElecCycle/202501/S08CH_amend2501.pdf)
+**Author:** Kansas Government/Public Disclosure Commission (filing) | **Published:** 2025-01- (reporting period cover: 10/25/2024–12/31/2024; posting 2025)
+
+This is an official scanned campaign finance filing for Cindy L. Holscher covering the stated reporting period. It provides line‑item receipts and expenditures and supports the fundraising totals reported by news outlets. Relevance: campaign finance filings are primary official sources for raised amounts and cash‑on‑hand, and they undergird the assessment that Corson holds a meaningful fundraising advantage over Holscher.
+
+### [Democrats Corson & Holscher face off in Kansas governor race (Wichita Eagle archive)](https://www.kansas.com/news/politics-government/article313440212.html)
+**Author:** Wichita Eagle staff | **Published:** 2025-12-08
+
+Local reporting profiles both Ethan Corson and Cindy Holscher as leading Democratic contenders, discusses their backgrounds and the importance of fundraising and endorsements in the primary, and places the race in the broader context of Kansas politics. Relevance: provides independent local confirmation of the race dynamics (fundraising importance, candidate bios), helping validate the inference that Corson’s financial and endorsement advantages matter materially in predicting the primary outcome.

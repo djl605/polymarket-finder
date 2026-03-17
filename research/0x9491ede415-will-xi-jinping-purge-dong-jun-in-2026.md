@@ -1,94 +1,119 @@
 # Research: Will Xi Jinping purge Dong Jun in 2026?
 
 **Market ID:** 0x9491ede41573b5c58be84b8ea4940616fe78566ea403f979bb455342700149f8
-**Researched At:** March 7, 2026 at 04:09:58 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Xi Jinping purge Dong Jun in 2026?"
+**Researched At:** March 17, 2026 at 05:42:25 AM UTC
+**Search Query:** "Will Xi Jinping purge Dong Jun in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.0¢
+**Expected Value:** 2.4¢
 
 ### Summary
 
-Specialist analyses from Jamestown indicate Dong Jun is a favored candidate for CMC promotion and has survived past purges, suggesting his risk of purge in 2026 is significantly below the current 21.5% price and that the market is likely overpriced by about 10 cents. Low trading volume and broad purge narratives may have prevented this specific information from being fully priced.
+FT and other outlets reported a corruption probe into Defense Minister Dong Jun in Nov 2024, and the PLA has undergone a sustained anti‑graft purge. However, Chinese authorities denied the probe and Dong remained publicly active through 2025–early 2026, and the market requires explicit reporting of a “purge” or CCP expulsion to resolve YES. On balance the market price (~17%) is plausible; if mispriced the edge looks modest. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-o
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: Will Xi Jinping purge (remove/resign with “purge”-style language or CCP-expel) Defense Minister Dong Jun by December 31, 2026?  
-– YES if Dong is publicly characterized as ousted/purged for corruption, lack of favor, etc., or expelled from the Party.  
-– NO if he leaves for routine reasons, is promoted or leaves with neutral language.
+Plan and scope
+- I used the allotted web-search budget to (a) confirm Dong Jun’s current post and public activity, (b) find any credible reports of an official investigation/expulsion or of a broader PLA “purge” that could make the market resolve YES, and (c) check whether state sources have denied/confirmed such reports. My searches prioritized major global news outlets and agency reporting (Bloomberg, AP, Al Jazeera, SCMP, Hong Kong Free Press) and a factual profile (Wikipedia) to establish baseline facts and timeline. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft?utm_source=openai))
 
-2. EVIDENCE EVALUATION  
-Bullish for PURGE (> downside to market price):  
-• Andrew Erickson (2026-02-17): Describes wide PLA Navy purges and notes it’s “plausible” Dong could be targeted given Xi’s anti-corruption drive. Source is expert but speculative regarding Dong specifically.  
-• Merics (2025-01-08): Outlines Xi’s broadening purge from corruption to loyalty, showing precedent for even favored officers being removed. Again, plausible but no direct rumor about Dong.  
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Xi Jinping purge Dong Jun in 2026?” Per the market’s resolution criteria, this resolves to YES by Dec 31, 2026 if either (A) Dong Jun is removed or resigns from his primary political post or from any position on the Chinese Politburo/its standing committee and credible reporting describes that removal as a “purge”, “ousting”, or attributes it to corruption/bribery/lack of favor; or (B) he is expelled from the Chinese Communist Party. A mere investigation or opaque internal discipline that is not described by consensus as a “purge” or does not include expulsion would not automatically meet the market’s YES criteria. (I used the market text you provided to state this precisely.)
+- What must happen for YES vs NO:
+  - YES: authoritative/credible outlets and/or Chinese government reporting must describe Dong Jun’s removal/expulsion in the specified language by 2026-12-31 23:59 ET (e.g., Xinhua/PLA announcement or consensus of major international outlets calling it a purge and tying it to corruption/political purging).
+  - NO: no such expulsion/removal with the required language or only routine/unspecified administrative changes, or Dong remains in post through the deadline.
 
-Bearish for PURGE (Supports current price as too high):  
-• Jamestown (2026-02-15 & 02-12): Two detailed pieces emphasizing Dong Jun is a leading contender for a CMC seat, enjoys strong “Fujian Clique” loyalty ties, survived prior purges unscathed, and is viewed as indispensable for Xi’s military restructuring. These are timely, focused analyses.  
-• India’s World (2026-02-20): Documents recent CMC dismissals but does not mention Dong Jun, implying he’s not on the chopping block. Offers strong pattern evidence but no direct link to Dong.  
+2) EVIDENCE EVALUATION (all relevant evidence found)
+Summary of the strongest, directly relevant facts
+- Financial Times reporting (cited by other outlets) and related coverage: in late November 2024 FT reported that U.S. officials believed Dong Jun had been placed under an internal corruption investigation. This was widely relayed in international media (Bloomberg, Newsweek, Hong Kong Free Press, etc.). Those reports were based on unnamed current/former U.S. officials rather than on a CCP/Chinese government announcement. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft?utm_source=openai))
+  - How it affects the market: the FT-based reporting establishes a non-trivial, documented risk that Dong has been targeted by anti‑graft activity; that raises the ex ante probability of removal relative to a stable minister.
+- Official/state response and subsequent public activity: at the time FT’s report circulated, Chinese Ministry of Defense publicly denied that Dong was under investigation (the denial was reported in AP and other outlets), and Dong Jun has continued to appear publicly and lead delegations into 2025 — for example, he remained in the defence minister role through at least much of 2025 and appeared at meetings (reports of US lawmakers meeting Dong in Sept 2025; press reporting and later articles through early 2026 show him still speaking publicly). These facts indicate he had not been expelled or formally removed through those dates. ([apnews.com](https://apnews.com/article/1530a254b2e251b766ea1370f558b7fb?utm_source=openai))
+  - How it affects the market: surviving public appearances and official denials reduce the near-term likelihood of an immediate, documented “purge” and therefore push the market price lower than it would be if the FT report had been followed quickly by expulsion.
+- Broader pattern: there has been a sustained anti‑corruption campaign within the PLA and a sequence of high‑level removals/expulsions in 2023–2025 (including the prior two defense ministers and multiple generals). Reporting documents an active purge/anti‑graft environment that increases the vulnerability of senior officers generally. That pattern is what makes Dong Jun plausibly at risk even absent a confirmed expulsion. ([tbsnews.net](https://www.tbsnews.net/worldbiz/china/china-defence-minister-dong-jun-under-investigation-corruption-ft-reports-1003631?utm_source=openai))
 
-Credibility:  
-– Jamestown and Merics are specialized, recent, and focused on PLA politics—highly credible.  
-– Erickson’s bookshelf compilation is credible on trends but speculative on future individual targets.  
-– India’s World is less focused on Dong but credible re CMC patterns.
+Specific evidence that suggests the market price might be incorrect (i.e., that the true probability is meaningfully higher than 17%)
+- FT-based reporting of a formal investigation (late Nov 2024) plus the ongoing, documented wave of anti‑corruption actions in the PLA give a credible pathway to Dong’s removal or expulsion in 2026. If traders underweighted the implications of FT’s reporting or the documented pattern of CMC/PLA removals, that could make the market price too low. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft?utm_source=openai))
+- Structural weakness: Dong was appointed in Dec 2023 and (according to several analyses) was not elevated to the most powerful Party/military bodies (e.g., full CMC membership) — a relative lack of top-tier institutional power can make a minister more vulnerable to being sidelined/removed without the same protections as better‑connected figures. If the market overlooked how Dong’s institutional position increases his vulnerability this could mean underpriced risk. ([media.defense.gov](https://media.defense.gov/2024/Dec/18/2003615520/-1/-1/0/MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2024%20.PDF?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-– A 21.5% price implies traders see a meaningful minority risk. That could reflect “plausible purge” due to Xi’s unpredictability.  
-– Low volume suggests few traders; could be anchored to broader purge narrative rather than Dong-specific facts.  
-– Informed PLA watchers likely know of Dong’s favor with Xi and his CMC prospects, so if they engaged they’d lower the price. The lack of volume suggests they haven’t factored him in, implying inefficiency.
+Specific evidence that supports the current market price (i.e., that 17% is reasonable or even high)
+- Official denials and continued public-facing activity through 2025–early 2026: major outlets reported Chinese denials of the FT story, and Dong has remained publicly visible, including diplomatic/military meetings (for example, reports in 2025 of US House delegation meetings with Dong and recent coverage showing him speaking in March 2026). Continued incumbency and public-facing duties are evidence against imminent purge/expulsion and thus support a modest (but not negligible) probability like ~17%. ([apnews.com](https://apnews.com/article/1530a254b2e251b766ea1370f558b7fb?utm_source=openai))
+- Resolution standard is strict: the market requires not just an investigation but a credible reporting consensus that a removal was a “purge” or expulsion from the CCP. That higher bar reduces the implied probability relative to the chance that he merely faces an investigation or some opaque disciplinary step. Traders rationally discount a mere investigation relative to an expulsion. This alone can account for a relatively low market price even if risk is non‑zero.
 
-4. MISPRICING ASSESSMENT  
-– The core counter-purge evidence (Jamestown) seems strong and likely underweights in the market.  
-– The bullish evidence is generic: purges happen, but no sign Dong is vulnerable now.  
-– Reasoned probability might be closer to ~10% than ~21.5%.  
-– Possible mispricing magnitude: ~10–12 cents too high.  
-– Largest pitfall: Could Dong get caught up unexpectedly? Yes, but informed sources see him as safe.  
+Source credibility and recency
+- Financial Times reporting of the Nov 2024 investigation is high‑credibility reporting but relies on unnamed U.S. officials (secondary sourcing); credible but not definitive. Bloomberg/NPR/Newsweek/other outlets relayed FT’s findings. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft?utm_source=openai))
+- AP’s reporting of official denial is direct reporting with named Ministry spokespeople — credible for stating the denial. ([apnews.com](https://apnews.com/article/1530a254b2e251b766ea1370f558b7fb?utm_source=openai))
+- SCMP and other regional outlets reporting Dong’s ongoing statements in March 2026 are recent and credible for documenting public appearances. ([scmp.com](https://www.scmp.com/news/china/military/article/3346113/stability-comes-first-chinese-defence-chief-signals-beijings-strategic-caution?utm_source=openai))
+- Hong Kong Free Press is generally credible on Hong Kong/China reporting and relayed the FT story (corroborating that FT’s reporting became widely reported). ([hongkongfp.com](https://hongkongfp.com/2024/11/27/chinese-defence-minister-dong-jun-under-investigation-for-corruption-report/?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-– Strength of evidence: The Jamestown analyses are specific, recent, and credible—~60% that market overpriced.  
-– Magnitude of mispricing: ~10 cents.  
-– Expected value ≈ 0.6 × 10¢ = 6¢
+Skeptical points (why a straightforward reading might still be wrong)
+- If it were “obvious” Dong would be purged, we would likely have seen state announcements or definitive expulsions earlier because the PLA purge pattern has included public expulsions. The absence of such definitive action through early 2026 is a strong reason to doubt a near‑term guaranteed purge — and it’s probable the market correctly discounts mere allegations. The market’s required resolution language (consensus calling it a purge or explicit expulsion) is another reason the market might rationally remain low even when investigations are reported.
 
-EXPECTED_VALUE: 6  
-SUMMARY: Specialist analyses from Jamestown indicate Dong Jun is a favored candidate for CMC promotion and has survived past purges, suggesting his risk of purge in 2026 is significantly below the current 21.5% price and that the market is likely overpriced by about 10 cents. Low trading volume and broad purge narratives may have prevented this specific information from being fully priced.  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current price (≈17%):
+  - Traders are pricing in a real but moderate risk because: (a) FT reported an investigation in Nov 2024, and (b) the PLA purge pattern raises baseline risk — but (c) Dong remained in the post and state organs denied the probe and he stayed publicly active into 2025–early 2026. Taken together, that mixture justifies a non‑negligible chance but not a high probability, especially given the market’s strict resolution criterion that requires explicit reporting of a purge/expulsion. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft?utm_source=openai))
+- Could price reflect only a few traders? Yes — the market has low total volume ($6.75k) and a small spread, which often indicates one or a few liquidity providers dominate pricing. That raises the chance that the price is more a view of a small set of traders than a fully aggregated consensus. However, the price is also plausible given the documented risk factors, so it’s not an obvious outlier.
+- Why low volume might exist here:
+  - The event is political and partially opaque (internal CCP proceedings are often secret), making it unattractive for some traders who prefer clearer resolution events.
+  - The market’s resolution requires media consensus with specific language, which is a higher hurdle and reduces speculative interest because an investigation alone likely won’t settle the market.
+  - Conversely, low volume might also reflect that experienced traders believe the probability is modest and not worth heavy betting against — both explanations are consistent with a low-volume price.
+
+4) MISPRICING ASSESSMENT
+- Do I find credible evidence of mispricing sufficient to recommend trading? No — not strongly.
+  - Why not: although FT reported a possible investigation (elevating risk), Dong’s continued public appearances and the official denials, plus the strict wording required for the market to resolve YES (explicit purge/expulsion described by credible outlets or government), mean that a moderate probability like 17% is defensible. A narrow gap could exist (if traders underreacted to FT and to the broader purge environment), but I did not find concrete, authoritative evidence that an expulsion or public purge was imminent or that the market had missed something material.
+- Critical check (what could I be missing?): The most likely things I could be missing are (a) an internal CCP decision already made but not yet publicly announced (rare but possible), or (b) a technicality in the market’s resolution wording (e.g., whether a state media euphemism counts as “purge”). The market’s requirement for consensus language reduces risk of false positives, and traders likely factor in the possibility that China will obfuscate the true reason for any removal.
+- Overall judgment: the market price appears plausible and not clearly mispriced by a large margin. If there is mispricing, it is modest (single-digit to low‑teens cents), and the evidence is circumstantial rather than definitive.
+
+5) EXPECTED VALUE CALCULATION (estimate of whether trading to exploit mispricing has value)
+- Strength of evidence that the market missed a meaningful, specific, credible signal: I judge this at ~40%. Rationale: FT’s report is important but not definitive; public denials and continued activity reduce confidence that the market missed a decisive signal.
+- Magnitude of mispricing if present: I estimate the plausible error is ~6 cents (0.06), i.e., the true probability might be ~23% at the high end or lower by a few points; not a >20‑cent difference. This reflects the combination of genuine risk but also countervailing evidence and the high bar for market resolution.
+- Expected value = Strength × Magnitude = 40% × 6 cents = 2.4 cents.
+
+6) CONFIDENCE
+- My assigned confidence in this assessment: medium.
+  - Rationale: there is clear, credible reporting of an investigation in Nov 2024 and a clear pattern of purges in the PLA, but the absence of authoritative expulsion/removal announcements through early 2026 and the market’s strict resolution criteria leave substantial uncertainty. The available reporting is credible but incomplete, and I used a limited web‑search budget focused on high‑quality outlets.
+
+Concluding recommendation (brief)
+- The market price (17%) is plausible given the public record: documented investigation reports + broader PLA anti‑graft activity increase risk, but official denials and Dong’s continued public role through 2025–early 2026 reduce the chance of a near‑term, clearly reported purge/expulsion. The evidence does not justify concluding a large mispricing; there may be a modest edge (~2–3 cents EV) if you believe the FT‑reported probe will lead to a formal expulsion/purge that will be publicly framed as such by Dec 31, 2026. If you are risk‑averse or require higher conviction, do not treat this as a strong arbitrage.
+
+EXPECTED_VALUE: 2.4
+SUMMARY: FT and other outlets reported a corruption probe into Defense Minister Dong Jun in Nov 2024, and the PLA has undergone a sustained anti‑graft purge. However, Chinese authorities denied the probe and Dong remained publicly active through 2025–early 2026, and the market requires explicit reporting of a “purge” or CCP expulsion to resolve YES. On balance the market price (~17%) is plausible; if mispriced the edge looks modest. ([bloomberg.com](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft?utm_source=openai))
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: The China Navy Leadership: Corruption & Capabilities Bookshelf
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.andrewerickson.com/2026/02/the-china-navy-leadership-corruption-capabilities-bookshelf-2/
-Summary: The webpage discusses ongoing personnel purges within China's military and political leadership under Xi Jinping, highlighting extensive removals of senior officials across the Party, State, and Military sectors since 2012. Notably, high-ranking PLA Navy officers, including Rear Admirals and political commissars like Yuan Huazhi, have been dismissed or replaced, signaling Xi’s efforts to tighten Party control and combat corruption. While these purges indicate significant internal discipline, they do not necessarily impair the PLA Navy’s operational capabilities, which continue to advance. Given Xi’s intensified anti-corruption campaign and the strategic importance of naval leadership, it is plausible that key figures, including Dong Jun, could be targeted for removal in 2026 if deemed necessary by Xi’s political and military objectives.
+### [China launches corruption probe against Defence Minister Dong Jun: Report](https://www.aljazeera.com/news/2024/11/27/china-launches-corruption-probe-against-defence-minister-dong-jun-report)
+**Author:** Unknown | **Published:** 2024-11-27
 
-Title: Xi's second purge of China's military | Merics
-Published Date: 2025-01-08T00:00:00.000Z
-URL: https://merics.org/en/comment/xis-second-purge-chinas-military
-Summary: The article details Xi Jinping’s ongoing and expanding anti-corruption campaign within China's military, notably within the PLA. Over the past year, multiple high-ranking officers, including defense ministers and leaders of key military branches, have been removed or investigated for corruption and disloyalty. The recent suspension of Admiral Miao Hua, a close Xi appointee responsible for political loyalty and promotions within the PLA, indicates that the campaign is broadening beyond corruption to include political disloyalty. Given Xi’s history of targeted purges and the current trend of removing even Xi-favored officers, there is a significant likelihood that Xi may continue to pursue further purges, including potentially targeting Dong Jun in 2026, especially if corruption or disloyalty allegations emerge.
+Al Jazeera reported on late‑November 2024 reporting that China’s defence minister Dong Jun was said (by sources cited in the Financial Times) to be under investigation as part of a broader PLA anti‑corruption campaign. This article summarizes the FT claim and the context of other recent military discipline cases. Relevance: it supports the view that Dong was identified by outside officials as at risk of investigation, increasing the baseline risk of removal — but it is based on secondary/unnamed sources and does not constitute an official confirmation of expulsion or purge.
 
-Title: Defense Minister Dong Jun Leading Contender for CMC Seat
-Author: The Jamestown Foundation
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://jamestown.substack.com/p/defense-minister-dong-jun-leading
-Summary: The article indicates that Defense Minister Dong Jun is a prominent contender for a seat on the Central Military Commission (CMC) as Xi Jinping seeks to rebuild the body following recent purges. Dong Jun's extensive operational experience, loyalty ties to Xi through the "Fujian Clique," and prior training in Russia suggest he is viewed favorably by Xi. Although Xi has recently purged several high-ranking military officials, Dong remains an intact and trusted figure, making his purge less likely in 2026. However, given Xi's history of consolidating power through military purges, his future actions could still be unpredictable.
+### [China Defense Minister Dong Jun Investigated for Corruption: FT - Bloomberg](https://www.bloomberg.com/news/articles/2024-11-27/us-officials-think-china-defense-chief-faces-graft-probe-ft)
+**Author:** Unknown (Bloomberg News) | **Published:** 2024-11-27
 
-Title: Defense Minister Dong Jun Leading Contender for CMC Seat - Jamestown
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://jamestown.org/defense-minister-dong-jun-leading-contender-for-cmc-seat/
-Summary: The article highlights that Defense Minister Dong Jun is a prominent contender for a seat on China's Central Military Commission (CMC), with strong backing from Xi Jinping due to his loyalty, operational experience, and ties to Xi's "Fujian Clique." Despite recent military purges that have reduced the CMC's size and shaken elite ranks, Dong remains the only three-star officer to have survived investigations unscathed. Xi Jinping is actively working to rebuild the CMC with officers who possess combat command experience and loyalty, suggesting that Dong's current standing and connections position him favorably in this process. Given these factors, there is no immediate indication of an imminent purge of Dong Jun in 2026; rather, he appears to be a key figure in Xi's plans to restore the CMC's leadership.
+Bloomberg relays the Financial Times’ November 27, 2024 report that unnamed current and former U.S. officials believed Dong Jun was the subject of an internal corruption probe. Bloomberg emphasizes the pattern of high‑level probes in the PLA and notes that details were limited. Relevance: this is a high‑profile international outlet amplifying FT’s report — important because the FT reporting is the primary source of the investigation claim that underpins the perceived risk priced by markets.
 
-Title: Discipline and Power: Xi Jinping’s 2026 Military Purges | India's World
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://indiasworld.in/discipline-and-power-xi-jinpings-2026-military-purges/
-Summary: The article details a significant purge within China's military leadership in 2026, notably the investigation and removal of top generals Zhang Youxia and Liu Zhenli for serious disciplinary violations, marking a rare instance of serving military officials on the Central Military Commission (CMC) being dismissed while still in office. These actions are framed as part of Xi Jinping’s broader effort of “political rectification” and ideological consolidation within the PLA, moving beyond previous anti-corruption campaigns to emphasize disciplinary and ideological discipline. Historically, Xi’s anti-corruption drives since 2013 have targeted high-ranking officials, including former vice chairmen Guo Boxiong and Xu Caihou, who were expelled for graft. Given this context, the purge of Zhang and Liu signals a strategic move to tighten control over the military and reinforce Xi’s authority. While the article does not mention Dong Jun specifically, the pattern of high-profile purges suggests that Xi’s approach to consolidating power involves targeting senior military figures for disciplinary violations, making it plausible that any other high-ranking official, such as Dong Jun, could be subject to similar scrutiny or purges in 2026 if deemed necessary for Xi’s political objectives.
+### [China appoints a new defense minister after months of uncertainty following firing of predecessor](https://apnews.com/article/1530a254b2e251b766ea1370f558b7fb)
+**Author:** Unknown | **Published:** 2023-12-29
 
+AP reported Dong Jun’s appointment as defence minister on Dec 29, 2023, and also covered reporting and official denials around subsequent investigation claims. AP’s reporting included ministry denials of some probe stories. Relevance: establishes Dong Jun’s incumbency start date and documents official denials — both key facts for assessing whether reported probes have in practice led to a purge/expulsion.
 
+### [China’s defense minister Dong Jun reportedly under corruption investigation](https://hongkongfp.com/2024/11/27/chinese-defence-minister-dong-jun-under-investigation-for-corruption-report/)
+**Author:** Unknown | **Published:** 2024-11-27
+
+Hong Kong Free Press relayed the Financial Times’ report on the reported probe into Dong Jun and provided context on prior removals and the wider military anti‑corruption activity. Relevance: corroborates FT-reporting coverage in Asia‑focused independent media and underscores the broader pattern in the PLA that makes such a probe plausible.
+
+### [Stability comes first: Chinese defence chief signals Beijing’s strategic caution](https://www.scmp.com/news/china/military/article/3346113/stability-comes-first-chinese-defence-chief-signals-beijings-strategic-caution)
+**Author:** Unknown | **Published:** 2026-03-10
+
+SCMP coverage (March 10, 2026) shows Dong Jun publicly making policy remarks and signals his ongoing public role well into 2026. Relevance: documents that Dong remained in office and publicly active as of early March 2026, which lowers the immediate probability of an already‑completed expulsion/purge and supports the market’s discounting of mere investigation reports.
+
+### [Dong Jun (Wikipedia)](https://en.wikipedia.org/wiki/Dong_Jun)
+**Author:** Unknown | **Published:** Unknown (page current as of recent edits)
+
+Wikipedia provides a concise biographical timeline: Dong Jun’s PLA/Navy career and appointment as China’s Minister of National Defense on 29 December 2023. It also summarizes media reporting that he was the subject of investigation rumors in late 2024 and notes China’s denials. Relevance: useful for establishing baseline facts (appointment date, career background) and for confirming that media reporting of an investigation was prominent enough to be summarized in secondary references.

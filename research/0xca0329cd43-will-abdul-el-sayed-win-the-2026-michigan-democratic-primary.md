@@ -1,99 +1,118 @@
 # Research: Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?
 
 **Market ID:** 0xca0329cd4392d91e39df0702949229573d2415ae4a37b0103d0c6e9d03b8dd44
-**Researched At:** March 7, 2026 at 02:33:44 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?"
+**Researched At:** March 17, 2026 at 05:18:16 AM UTC
+**Search Query:** "Will Abdul El-Sayed win the 2026 Michigan Democratic Primary?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-There is no quantitative polling or fundraising evidence in the research to suggest the 16.5% probability is meaningfully off; qualitative factors (grassroots strength vs. establishment opposition in a three-way race) support this level. Additional information would be needed for any sizable mispricing claim.
+Public polling (Emerson) and recent reporting place El‑Sayed in the mid‑teens with a large undecided bloc; the market price (17.5%) closely tracks that evidence. There is plausible upside and downside (progressive organizing vs. issue backlash), but no clear, credible public information I found that would justify concluding the market is grossly mispriced.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether progressive candidate Abdul El-Sayed will win the open 2026 Michigan Democratic U.S. Senate primary. A “YES” resolution requires him to secure more votes than any other Democratic contender (not simply a plurality among those named), while “NO” covers either a loss to another candidate or an absent/failed primary (resolving to “Other”).
+Plan and limits
+- I focused on three high-yield information needs: (a) Has Abdul El‑Sayed declared and how active is his campaign? (b) Where does he stand in credible, recent polling and fundraising vs. other Democrats? (c) Are there qualitative factors (endorsements, coalitions, controversy, union/party positioning) that plausibly move his odds materially from the market price (17.5%)?
+- Key public sources reviewed: campaign site and press releases, major news reporting of his entry and endorsements, a recent statewide poll (Emerson College) and press coverage of issue/endorsement dynamics.
 
-2. EVIDENCE EVALUATION  
-Bullish signals  
-• Grassroots strength: El-Sayed has been highly active in forums (Indivisible, IBEW Local 58) and stresses Medicare for All, anti-money-in-politics, appealing to progressive and non-urban voters.  
-• Name recognition among progressives from 2018 gubernatorial run and Southpaw Michigan PAC gives him a ready base.  
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Abdul El‑Sayed win the 2026 Michigan Democratic Primary for U.S. Senate?” That resolves YES if the officially announced winner of the Michigan Democratic primary for U.S. Senate is Abdul El‑Sayed (per market description); NO otherwise. If no primary takes place the market resolves “Other.” The primary date and winner announcement are public events and the resolution rule is straightforward. Evidence about actual winner must come from official Michigan Democratic Party results or an overwhelming consensus of credible reporting. (Market description confirms this.)
 
-Bearish signals  
-• Three-way field: Established figures Haley Stevens (U.S. Rep.) and Mallory McMorrow (State Sen.) are well-funded, better known in Detroit suburbs, and may split centrist votes.  
-• Party leadership: Reports of establishment elites pushing Whitmer to back an alternative indicate institutional headwinds for a progressive outsider.  
+2) EVIDENCE EVALUATION — summary of the evidence I found
+- El‑Sayed’s candidacy and campaign activity (evidence he is a live contender):
+  - He formally entered the Michigan U.S. Senate race and is running an active campaign (announcement and campaign site with ongoing press releases, events, fundraising claims). ([apnews.com](https://apnews.com/article/fb8b90a59ae5df53f5c6b524968b205e))
+  - His campaign reports endorsements (including Bernie Sanders and several progressive groups) and posted fundraising totals in campaign releases. ([abdulforsenate.com](https://abdulforsenate.com/))
+  - Major outlets (Washington Post, CBS, AP) covered his launch and profile him as one of the principal Democratic contenders. ([washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/17/abdul-elsayed-democrat-senate-michigan/))
 
-Missing data  
-• No recent public polling or fundraising comparisons across the three. All articles note competitiveness but provide no quantitative forecasts.  
+- Quantitative standing (polls, money):
+  - A recent Emerson College statewide poll (Jan 29, 2026) of the Democratic primary showed McMorrow leading (≈22%), Stevens ≈17%, and El‑Sayed ≈16% with ≈38% undecided among likely Democratic primary voters. That places El‑Sayed near the low-to-mid teens in public polling. The poll also shows large undecided share and age-skewed strength (El‑Sayed strongest with under‑30 voters). ([emersoncollegepolling.com](https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/))
+  - Campaign filings/press reports indicate the Democratic contenders each have multi‑million fundraising totals and comparable cash on hand; Stevens and McMorrow are competitive on money, with Stevens often reported as stronger on large donors and McMorrow strong in small-dollar fundraising; El‑Sayed has posted multi‑million quarter totals but trails the largest-haul reports in some summaries. (Campaign press release and local reporting). ([abdulforsenate.com](https://abdulforsenate.com/))
 
-Source credibility/recency  
-• AP Morning Sun (2/22/26) is impartial but non-quantitative.  
-• Candidate site (2/27/26) is reliable on campaign activity but biased upward.  
-• Prospect.org (1/6/26) and Voices for Progress (2/20/26) provide background, not odds.  
-• Blog on establishment interference (2/13/26) may overstate internal dynamics.  
+- Qualitative factors that could move the race (positive/negative for El‑Sayed):
+  - Positive: Progressive base and national left‑wing endorsements (Sanders, other progressive groups, Peace Action) give El‑Sayed credibility with a mobilized small‑donor base and potentially with younger and Arab/Muslim voters in Michigan constituencies. His campaign emphasizes small-dollar organizing. ([apnews.com](https://apnews.com/article/fb8b90a59ae5df53f5c6b524968b205e))
+  - Negative: His vocal positions on Gaza and foreign policy (calling Israel’s actions “genocide” in some coverage) are salient in Michigan’s Democratic electorate and have drawn both energized supporters and organized opposition from pro‑Israel networks; this is pointed out in local coverage and is a likely cleavage vs. more centrist Democrats. That stance could both energize certain primary segments and alienate other Democratic primary voters, and it has already become a campaign issue. ([metrotimes.com](https://www.metrotimes.com/news/politics-elections/el-sayed-defies-democratic-partys-establishment-on-gaza-in-senate-race/))
+  - No evidence found of a decisive, consolidated party/unions endorsement that would short‑circuit a multi‑candidate primary in favor of one moderate; organized labor and pro‑establishment groups appear to be split or leaning to other candidates in some reporting. ([michiganadvance.com](https://michiganadvance.com/2026/01/05/rogers-stevens-lead-michigan-u-s-senate-fundraising-with-wealthy-and-corporate-donors/?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 16.5% chance implies the market views him as a clear underdog among three credible candidates (e.g., 50/30/17 split).  
-• Low volume suggests few participants—but 16.5% is in line with a plausible division of probabilities absent polls.  
-• If informed insiders had strong counter-evidence (e.g., internal polls showing him leading), they’d likely trade; lack of volume may reflect genuine uncertainty.
+- Credibility and recency:
+  - Emerson College poll is a recent, standard state polling firm release (Jan 29, 2026) and is directly relevant. Major outlets (AP, Washington Post, CBS Detroit, Metro Times) are credible and recent. Campaign site and press releases are primary‑source material for endorsements and fundraising claims (useful but self‑reported). ([emersoncollegepolling.com](https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/))
 
-4. MISPRICING ASSESSMENT  
-• No hard polling or fundraising data is missing from the market; traders appear to have priced qualitative factors appropriately.  
-• The only way to claim a >20¢ mispricing would be to assume unseen polls heavily favor or doom him—but no such data emerges in the research.  
-• Most charitable interpretation: the community sees a tight three-way fight and assigns El-Sayed a modest underdog probability.
+3) MARKET EFFICIENCY ANALYSIS
+- What price could represent: The market price (17.5%) is essentially in line with the recent Emerson poll showing El‑Sayed in the mid‑teens. Given a crowded primary and lots of undecided voters, a mid‑teens chance for a third/second‑tier primary contender is plausible.
+- Could this reflect a one/trader view? Possibly — the market has $0 total volume and a small spread, which often indicates no one has put real capital behind the quote; but the quoted price matches public polling, so it could simply be the automated market maker or an initial price set to reflect polls rather than active aggregation by many traders.
+- Why low volume might be okay: If the public info (polling and fundraising) implies mid‑teens support for El‑Sayed and the primary remains fragmented, informed traders may reasonably price his chance in the mid‑teens and choose not to trade a low‑liquidity market heavily. The large undecided share means the race is volatile; that both supports a nontrivial probability for a candidate like El‑Sayed and argues against concluding the market is grossly wrong.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence (no clear quantitative gap): ~20%  
-• Magnitude of likely mispricing (if any): ~5¢  
-• Expected value = 20% × 5¢ = 1¢
+4) MISPRICING ASSESSMENT (is there credible evidence price is wrong?)
+- Evidence suggesting the price might be too high:
+  - The Emerson poll lists El‑Sayed at ~16% (±3), so a 17.5% market price is already slightly above that; but difference is within poll MOE. If unions, establishment donors, or centrist voters consolidate behind Stevens or McMorrow late, El‑Sayed could fall below current public polling — there is active reporting that Stevens and McMorrow have substantive fundraising and establishment ties. Metro Times and other pieces highlight vulnerabilities stemming from foreign‑policy positions that could cap his ceiling. ([emersoncollegepolling.com](https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/))
+- Evidence suggesting the price might be too low:
+  - El‑Sayed’s national progressive endorsements (Sanders, Peace Action, other progressives) and demonstrated small‑donor organizing could produce an under‑appreciated turnout advantage in a low‑profile August primary, especially with his strength among younger voters and among Arab‑American communities in Michigan. With ~38% undecided in Emerson’s poll, a disciplined ground game could plausibly move him into the 20–25% range if he consolidates a progressive lane. ([emersoncollegepolling.com](https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/))
+- Primary technicalities / resolution: I found no technicality that would invalidate the market’s resolution criterion; the primary winner will be publicly announced and the market’s rule is straightforward. (No sign of a different mechanism or threshold.) ([apnews.com](https://apnews.com/article/fb8b90a59ae5df53f5c6b524968b205e))
+- Charity to current price: Given the most recent public poll and campaign facts, 17.5% is a reasonable market-implied probability for a candidate polling around 15–17% in a crowded field with substantial undecided voters. The market does not appear to be missing major, public, deterministic information.
 
-EXPECTED_VALUE: 1  
-SUMMARY: There is no quantitative polling or fundraising evidence in the research to suggest the 16.5% probability is meaningfully off; qualitative factors (grassroots strength vs. establishment opposition in a three-way race) support this level. Additional information would be needed for any sizable mispricing claim.  
+5) EXPECTED VALUE CALCULATION (estimate of mispricing)
+- Strength of evidence that the market is missing something material: I assess the strength as modest — the most important public facts (polling showing El‑Sayed ~15–17%, endorsements, fundraising) are in the open and appear priced in. However, uncertainty (large undecided share, issue‑driven volatility) implies there is nontrivial chance of movement not yet reflected. Strength = 40%.
+- Magnitude of plausible mispricing (cents): Given the alignment between Emerson poll (~16%) and market (17.5%), and absent new information, a realistic plausible error would be small — on the order of 3–8 cents. I’ll use 5 cents as a reasonable upper‑middle plausible mispricing magnitude.
+- Expected value = Strength × Magnitude = 0.40 × 5¢ = 2.0¢
+
+Therefore:
+EXPECTED_VALUE: 2.0
+
+6) CONFIDENCE
+- I rate my confidence in this overall assessment as medium — the conclusion (market roughly aligned with public polling; small expected mispricing) is supported by recent, credible polling and reporting, but the race is still early and undecided voters are numerous, so outcomes could change.
+
+Final concise judgments (direct answers to your checklist)
+- The market is asking whether El‑Sayed will win the Democratic primary; YES if he is the official winner, NO otherwise (no ambiguous technicalities were found). ([apnews.com](https://apnews.com/article/fb8b90a59ae5df53f5c6b524968b205e))
+- The best public evidence (Emerson poll) puts El‑Sayed in the mid‑teens and shows a very large undecided share, so a market price of 17.5% is broadly consistent with public data. That supports the current price as reasonable. ([emersoncollegepolling.com](https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/))
+- Evidence that could move the race (endorsements, small‑donor strength, issue coalitions on Gaza, and anti‑establishment appeal) could push his probability up — but the same issue positions have produced pushback and may limit his ceiling. Reporting shows both the energizing endorsements and the potential electoral liability. That argues the market is not obviously missing a decisive publicly available fact. ([abdulforsenate.com](https://abdulforsenate.com/2025/07/peace-action-backs-abdul-el-sayed-for-michigans-open-u-s-senate-seat/))
+- Because the market has $0 volume and low liquidity, it may not be a good vehicle to exploit small mispricings — even if a 3–8 cent mispricing exists, transaction costs and liquidity risk matter. There is no credible evidence found of a large (>20¢) mispricing.
+
+SUMMARY: Public polling (Emerson) and recent reporting place El‑Sayed in the mid‑teens with a large undecided bloc; the market price (17.5%) closely tracks that evidence. There is plausible upside and downside (progressive organizing vs. issue backlash), but no clear, credible public information I found that would justify concluding the market is grossly mispriced.
+
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: The Most Interesting Primary of 2026
-Author: Toby Jaffe
-URL: https://prospect.org/2026/01/06/michigan-primary-2026-democrats-senate-haley-stevens-mallory-mcmorrow-abdul-el-sayed/
-Summary: The article discusses the upcoming 2026 Michigan Democratic primary for the open U.S. Senate seat, highlighting a competitive three-way race between Haley Stevens, Mallory McMorrow, and Abdul El-Sayed. While it emphasizes the jockeying for power within the Democratic Party, it does not provide specific insights or predictions about the likelihood of Abdul El-Sayed winning the primary. Therefore, based on the available information, it remains uncertain whether El-Sayed will secure the nomination, as the race appears to be highly competitive with multiple strong contenders.
+### [Michigan 2026 Poll: Crowded Democratic Senate Primary Remains Wide Open](https://emersoncollegepolling.com/michigan-2026-poll-crowded-democratic-senate-primary-remains-wide-open/)
+**Author:** Emerson College Polling (Spencer Kimball quoted) | **Published:** 2026-01-29
 
-Title: ICYMI: Abdul El-Sayed Joins Indivisible Candidate Forum As Only U.S. Senate Candidate  | Abdul for U.S. Senate
-Author: vanessa
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://abdulforsenate.com/2026/02/icymi-abdul-el-sayed-joins-indivisible-candidate-forum-as-only-u-s-senate-candidate/
-Summary: Abdul El-Sayed is actively engaging with Michigan voters and grassroots organizations, emphasizing his commitment to community outreach. He has participated in multiple forums, including the Indivisible Candidate Forum and the IBEW Local 58 event, demonstrating his willingness to connect directly with diverse constituencies across Michigan, especially in the key Grand Rapids region. His platform focuses on issues like reducing the influence of money in politics, expanding healthcare through Medicare for All, and building broad grassroots support across rural, suburban, and urban areas. These efforts suggest a strong grassroots campaign aimed at mobilizing diverse voter bases, which could positively influence his chances in the 2026 Michigan Democratic Primary.
+Recent Emerson College/Nexstar statewide poll of likely Democratic primary voters shows Mallory McMorrow ~22%, Haley Stevens ~17%, Abdul El‑Sayed ~16% and ~38% undecided. It breaks out demographic strengths (El‑Sayed strongest among under‑30 voters) and tests general‑election matchups. This is a central quantitative data point for the market: it explains why El‑Sayed’s probability should plausibly be in the mid‑teens and shows large remaining volatility — supporting the market price as reasonable and implying only modest mispricing risk.
 
-Title: Setting The Record Straight: Michigan Democratic Establishment Moves to Sideline Abdul El-Sayed in Senate Primary
-Author: Posted by
- 
- 
- 
- Ronald Dwyer
-Published Date: 2026-02-13T00:00:00.000Z
-URL: http://settingrecordstraightbyronalddwyer.blogspot.com/2026/02/michigan-democratic-establishment-moves.html
-Summary: The article discusses internal conflicts within the Michigan Democratic Party regarding the upcoming U.S. Senate primary. Party leaders are reportedly pressuring Governor Gretchen Whitmer to endorse either Haley Stevens or Mallory McMorrow early in the race to consolidate support and sideline progressive candidate Abdul El-Sayed. This strategy aims to prevent a contested primary, which officials fear could weaken Democrats in the general election. However, grassroots voters and activists oppose this interference, advocating for a fair, open primary that allows voters to choose freely. The tension is rooted in past political rivalries and concerns about the party's tendency to favor establishment candidates over progressive challengers. The outcome of this primary may depend on whether party leadership continues to influence the race or if voters are trusted to decide, which could significantly impact El-Sayed’s chances of winning.
+### [Former Michigan health officer Abdul El‑Sayed enters Democratic US Senate race](https://apnews.com/article/michigan-senate-race-democrat-abdul-elsayed-fb8b90a59ae5df53f5c6b524968b205e)
+**Author:** Isabella Volmert | **Published:** 2025-04-17
 
-Title: In battleground Michigan, 3 Democrats test vision of affordability in the Senate primary – The Morning Sun
-Author: Associated Press
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.themorningsun.com/2026/02/22/in-battleground-michigan-3-democrats-test-vision-of-affordability-in-the-senate-primary-2/
-Summary: The article discusses the Michigan Democratic Senate primary, featuring three candidates: Rep. Haley Stevens, Michigan State Sen. Mallory McMorrow, and Abdul El-Sayed. While specific polling data or predictions about the primary outcome are not provided, the coverage highlights their campaigns and positions, particularly around issues of affordability. Abdul El-Sayed is one of the prominent contenders, but the article does not specify his current standing or likelihood of winning the primary. Therefore, predicting whether he will win remains uncertain based on this information alone.
+AP reported El‑Sayed’s formal entry into the Michigan U.S. Senate race and noted Bernie Sanders’ endorsement and other campaign context (field includes Mallory McMorrow; Gary Peters not seeking reelection). This establishes him as an active, nationally notable candidate and documents high‑quality endorsements that could shift primary dynamics. It supports the conclusion that El‑Sayed is a credible contender but not necessarily the frontrunner.
 
-Title: Abdul El-Sayed | Voices for Progress
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://v4pcandidates.org/senator-2024/abdul-el-sayed/
-Summary: Abdul El-Sayed is a prominent progressive candidate in Michigan's 2026 U.S. Senate race, with a background as a public health professor, former Detroit Health Department director, and civil servant. He has a history of political activism, including founding the Southpaw Michigan PAC and running in the 2018 Democratic gubernatorial primary. El-Sayed is known for his progressive stance and has been involved in health care policy discussions at the national level. The Michigan Democratic primary for the Senate seat is highly competitive, featuring other candidates like State Senator Mallory McMorrow and U.S. Rep. Haley Stevens. Given his profile and the competitive nature of the primary, El-Sayed's chances will depend on his ability to mobilize progressive voters and distinguish himself among other Democratic contenders.
+### [Abdul for U.S. Senate — Official campaign website](https://abdulforsenate.com/)
+**Author:** Abdul for U.S. Senate (campaign) | **Published:** Unknown (site updated regularly; content viewed March 2026)
 
+The campaign site lists policy priorities, events, endorsements and fundraising/campaign news. The site includes press releases claiming endorsements and quarter fundraising totals, and provides primary materials showing an active statewide campaign organization. As a primary source, it documents the campaign’s claimed strengths (endorsements, small‑donor activism) — useful for assessing organizational capacity but self‑reported so treated cautiously.
 
+### [El‑Sayed defies Democratic Party’s establishment on Gaza in Senate race](https://www.metrotimes.com/news/politics-elections/el-sayed-defies-democratic-partys-establishment-on-gaza-in-senate-race-32738530)
+**Author:** Steve Neavling | **Published:** 2026-02-27
+
+Local investigative/feature coverage explains how El‑Sayed’s positions on Gaza and foreign policy have become salient in the primary, energizing some constituencies while provoking organized opposition from pro‑Israel networks and moderates. The article documents both risk and upside of his positions (appeal to Arab/Muslim voters and younger progressives vs. possible alienation of moderate primary voters), which is a key qualitative input for whether public polling undervalues or overvalues him.
+
+### [Peace Action Backs Abdul El‑Sayed for Michigan’s Open U.S. Senate Seat](https://abdulforsenate.com/2025/07/peace-action-backs-abdul-el-sayed-for-michigans-open-u-s-senate-seat/)
+**Author:** Abdul for U.S. Senate (campaign press release) | **Published:** 2025-07-30
+
+Campaign press release announcing endorsement by Peace Action and enumerating national progressive endorsements (Sanders, Ro Khanna, etc.). This documents building progressive institutional support that could be decisive in a pluralistic primary, supporting the argument that El‑Sayed has a viable path via small‑donor and activist mobilization.
+
+### [Health official jumps into Michigan Senate race with Sanders’s support](https://www.washingtonpost.com/politics/2025/04/17/abdul-elsayed-democrat-senate-michigan/)
+**Author:** Hannah Knowles | **Published:** 2025-04-17
+
+Washington Post coverage of El‑Sayed’s entry, the national attention he draws (Sanders endorsement), and context on the competitive Democratic field for Gary Peters’s open seat. The Post frames both his progressive profile and potential electability concerns, reinforcing that public actors have already formed early impressions that are visible to voters and traders.
+
+### [Abdul El‑Sayed announces campaign for U.S. Senate seat from Michigan](https://www.cbsnews.com/detroit/news/el-sayed-senate-seat-from-michigan/)
+**Author:** Paula Wethington | **Published:** 2025-04-17
+
+Local CBS Detroit coverage of El‑Sayed’s announcement and background; confirms public filing and local reporting of his campaign activity. Useful as a locally credible corroboration of campaign launch and to show how the campaign is being covered in Michigan media.

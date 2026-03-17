@@ -1,91 +1,101 @@
 # Research: Will Crude Oil (CL) settle at $77-$84 in June?
 
 **Market ID:** 0x684c23649305e53fcfb6180b3187c055f412af4d2a4fa8a0fa1b442dbf3d06be
-**Researched At:** March 8, 2026 at 02:35:10 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Crude Oil (CL) settle at $77-$84 in June?"
+**Researched At:** March 17, 2026 at 05:20:29 AM UTC
+**Search Query:** "Will Crude Oil (CL) settle at $77-$84 in June?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 16.8¢
+**Confidence:** Low
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Several credible analyst forecasts (technical momentum, OPEC+ supply guidance, Goldman) converge on a June CL settlement in the $75–85 band, making a $77–$84 outcome more likely (~50%) than the market’s 22%. Low trading volume suggests inefficiency rather than consensus.
+Public evidence shows large near‑term geopolitical upside risk to oil (early March spikes) but official forecasts (EIA, some banks) and planned supply responses make a June outcome ambiguous. The prediction market’s 17% is defensible given the split scenarios and CME settlement technicalities; I find insufficient hard evidence of a large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether the CME “Active Month” CL futures settlement price on the final trading day of June 2026 will fall between $77 and $84 (inclusive, with any exact midpoint resolving to the higher bracket). A “YES” requires June’s official settlement price to land at or above $77 and at or below $84; a “NO” covers any settlement below $77 or above $84.
+Planned approach and search budget use
+- I used my allotted 3 web searches to retrieve (1) CME settlement methodology (how this market will resolve), (2) the EIA March 2026 Short‑Term Energy Outlook (official demand/supply baseline), and (3) recent news/analyst coverage around the March 2026 Middle East disruptions and Q2 forecasts (price drivers and alternative scenarios). Those sources are the most relevant for judging whether a June 2026 CME CL settlement in the $77–$84 band is plausibly under- or over‑priced. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
 
-2. EVIDENCE EVALUATION  
-Bullish/reasonable-YES evidence  
-• MarketPulse (2026-03-05): Technical breakout to near $78, momentum targeting $80.30 and $83.60–$84.55 if support holds. High credibility (OANDA).  
-• The Middle East Insider (2026-02-22): Analyst consensus for Brent $75–85 and WTI $72–78 in Q2 ’26, implying active-month CL likely near mid-range (~$77–$84). Moderate credibility.  
-• Goldman Sachs (2026-03-05): Short-term spike above $77 possible via supply‐shock; long‐term average $60 but “price ceiling” at $70–$80, implying June settlement could sit in $77–$84 if geopolitical premium persists. High credibility.  
+1) CONTEXT ANALYSIS — What the market asks and exact resolution
+- The market will resolve YES if the official CME settlement price for the Active Month of NYMEX WTI Crude Oil (CL) futures on the final trading day of June 2026 is between $77.00 and $84.00 inclusive of the higher bracket rule (if the reported value falls exactly between brackets, the higher bracket wins). The market uses CME’s published daily “Settlement” price for the Active Month on that day and explicitly excludes intraday indicatives; CME’s published settlement methodology (VWAP/volume thresholds and staff adjustments if liquidity is thin) determines the official value. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
+- For YES to occur: the official settlement price on the final trading day of June must be ≥ $77 and < (or = and then rounded up to) $84 per market rules (market description notes the tie rule). For NO: the settlement must be < $77 or > $84 on that CME-published settlement. (Technical settlement rules matter because CME’s staff process and VWAP windows can produce a settlement that differs from the last trade or front‑month quote.) ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
 
-Bearish/NO evidence  
-• Fortune India (2026-03-08): Brent at $90+, suggests possible upside >$84 if U.S.–Iran tensions intensify further. Credible, but doesn’t quantify probability.  
-• ACY (2026-03-05): Parabolic overbought warns of rapid reversion if war premium collapses—could push below $77. Lower credibility.  
+2) EVIDENCE EVALUATION — Relevant factual evidence and how it shifts probabilities
+Key recent facts and context (most load‑bearing evidence)
+- Geopolitical shock: In early March 2026 there were major Middle East hostilities / shipping disruptions (Strait of Hormuz issues) that pushed global oil prices sharply higher (reporting showed Brent and WTI moved well above typical 2025–early‑2026 levels; press reporting observed WTI/Brent spikes above $100 briefly in early March). This raises the risk that prices in Q2 (including June) stay elevated if disruptions persist or escalate. That factor argues for a materially higher chance that June settlement could be > $84. ([lemonde.fr](https://www.lemonde.fr/en/economy/article/2026/03/09/oil-passes-100-a-barrel-following-strait-of-hormuz-blockage-and-middle-east-war_6751232_19.html?utm_source=openai))
+- Official outlooks and analyst baseline: The U.S. EIA’s March 2026 Short‑Term Energy Outlook incorporated the conflict and updated forecasts; the EIA showed elevated near‑term prices and discussed scenarios where Brent stays high for a short period before falling toward the second half of 2026. Major banks (example: Goldman Sachs) issued Q2 forecasts that, in some updates, put Brent/Q2 levels in the mid‑$70s and WTI Q2 forecasts around low $70s — i.e., consistent with a scenario where June WTI could sit near or just below the $77–$84 range. Those institutional forecasts imply substantial model uncertainty and diverging plausible paths. ([eia.gov](https://www.eia.gov/pressroom/releases/press584.php?utm_source=openai))
+- Structural offsets: Other supply‑side drivers argue for downward pressure later in 2026 — OPEC+ planned unwind of some voluntary cuts, rising non‑OPEC production (U.S., Guyana, Brazil), and expectations of inventory builds in some forecasts — all of which make a lower June outcome plausible if the geopolitical premium fades. The EIA and other analyst notes flag inventory and supply expansion that could push prices back down by Q3. ([eia.gov](https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf?utm_source=openai))
 
-Overall most forecasts center on a mid‐$70s to low-$80s environment, consistent with the $77–$84 window. The overbought reversal risk is noted but treated as a secondary scenario.
+Evidence suggesting the market price (17%) might be incorrect (i.e., mispriced low)
+- If spot/front‑month prices in mid‑March are well above $84 and the futures curve still shows elevated values for June, a 17% chance of settling in $77–$84 would look low. The March geopolitical spike (if still priced into futures out to June) increases the probability mass above $84. Recent reporting described spot/near months trading sharply higher in early March (some outlets showing WTI/Brent >$90–$100 briefly), which would logically increase the odds of June being above $84 unless the curve discounts the shock quickly. This is evidence that could understate probability for the $77–$84 band if the futures curve and risk premia remain elevated. ([lemonde.fr](https://www.lemonde.fr/en/economy/article/2026/03/09/oil-passes-100-a-barrel-following-strait-of-hormuz-blockage-and-middle-east-war_6751232_19.html?utm_source=openai))
+- Settlement technicalities: CME settlement is not simply the last trade; the VWAP window and minimum volume thresholds mean a low‑liquidity settlement day can be influenced by sparse block trades or staff judgment — that can create one‑off moves away from daytime quotes. If traders expect June’s final trading day to be volatile or illiquid, the market may rightly price in additional tail risk that the official settlement ends outside $77–$84. This can justify a lower probability for that band. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 22% price implies traders see a low chance of settling within $77–$84, instead favoring either a run-up past $84 or a drop below $77 by June.  
-• Low volume (just over $1K) and tight spread suggest few participants—possibly one contrarian trader bidding up the NO side.  
-• Since multiple analysts independently forecast a Q2 CL range overlapping $77–$84, the low market price may reflect inefficiency rather than broad informed consensus.
+Evidence supporting the market price (i.e., 17% that settlement is $77–$84)
+- Institutional forecasts and baseline supply expectations (EIA, Goldman Sachs earlier Q2 forecasts) show a plausible scenario where WTI in Q2 sits in the low‑to‑mid $70s. If traders believe the geopolitical premium is transient and that OPEC+ / non‑OPEC supply growth and inventory builds reassert themselves by June, then the $77–$84 bracket may be relatively unlikely (or conversely, if front month is already below $84, it may be plausible). EIA’s scenario language explicitly shows quick moves up then gradual easing — which makes June outcomes ambiguous. ([eia.gov](https://www.eia.gov/pressroom/releases/press584.php?utm_source=openai))
+- Market microstructure: the prediction market has low total volume and a very tight spread (4¢), indicating few active counterparties. Low volume markets often reflect either consensus knowledge (few traders needed) or domination by one/few traders. If professional futures traders and hedgers are active in CME futures (liquid markets) rather than this prediction market, the prediction market price could simply reflect an outsider consensus that June is less likely to land in $77–$84 given current cues. That is a plausible charitable interpretation for a 17% price rather than evidence of obvious mispricing.
 
-4. MISPRICING ASSESSMENT  
-• Evidence from technical and fundamental forecasts (MarketPulse, ME Insider, Goldman) implies a >50% chance of June settling in $77–$84, vs. the market’s 22%.  
-• The bearish reversal scenario is plausible but arguably lower probability than the consensus view.  
-• No technicality in the resolution criteria appears misunderstood; June has ample trading days for settlement practice.  
-• The most charitable view of the 22% price is that a single bearish/contrarian trader has skewed this low‐volume market.
+Credibility and recency
+- EIA STEO (U.S. Energy Information Administration, March 10, 2026) — high credibility and directly relevant to supply/demand baseline and short‑term scenarios. ([eia.gov](https://www.eia.gov/pressroom/releases/press584.php?utm_source=openai))
+- CME settlement methodology documents (CME Group PDFs) — authoritative for resolution mechanics and settlement windows; critical when thinking about how official settlement can differ from intraday prices. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
+- News outlets (Reuters / Le Monde reporting on the early‑March price spike) — timely reportage of geopolitical events that materially shifted risk premia in early March 2026; credible for documenting the shock and the immediate market reaction. ([lemonde.fr](https://www.lemonde.fr/en/economy/article/2026/03/09/oil-passes-100-a-barrel-following-strait-of-hormuz-blockage-and-middle-east-war_6751232_19.html?utm_source=openai))
+- Analyst houses (Goldman Sachs via Reuters/Investing) — credible source for a large‑institution forecast; useful for mapping a mainstream baseline seen by many market participants. ([investing.com](https://www.investing.com/news/commodities-news/goldman-sachs-raises-q2-brent-oil-price-forecast-by-10-to-76-a-barrel-4539911?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 60% (multiple credible sources pointing to mid-range)  
-Magnitude of mispricing: ~28¢ (estimated true probability ~50% minus market 22%)  
-Expected value = 0.60 × 28¢ = 16.8¢
+Skeptical note (why obvious evidence might already be priced)
+- If the geopolitical premium is large and visible in spot and front‑month futures, professional futures traders will likely have already pushed the June futures and options curve to reflect the increased tail risk. The prediction market’s low volume means it may simply reflect retail or a small set of participants who are not adding new information. In other words, widely reported facts (conflict, bank forecasts) are almost certainly already incorporated in both CME futures and in trader expectations; the prediction market’s 17% could therefore be the result of private assessment about whether the elevation will persist to the June settlement. That reduces the chance that this is an obvious unexploited mispricing.
 
-EXPECTED_VALUE: 16.8  
-SUMMARY: Several credible analyst forecasts (technical momentum, OPEC+ supply guidance, Goldman) converge on a June CL settlement in the $75–85 band, making a $77–$84 outcome more likely (~50%) than the market’s 22%. Low trading volume suggests inefficiency rather than consensus.  
-CONFIDENCE: medium
+3) MARKET EFFICIENCY ANALYSIS — reliability of the prediction market price
+- Reasonable justification for current price: The 17% probability can be justified if front-month/futures curve (and options markets) implied significant probability mass above $84 (due to geopolitics) and also a sizable chance below $77 (because of inventory builds/OPEC+ output plans) — leaving a relatively small central band probability. Without seeing the current June futures price and option‑implied distribution I cannot definitively say the PM is wrong. The market could represent a consensus balancing of a high‑upside geopolitical tail against re‑balancing supply later. ([eia.gov](https://www.eia.gov/pressroom/releases/press584.php?utm_source=openai))
+- Could it reflect a single trader? Yes — the prediction market’s low total volume (~$5.9k) and narrow spread suggests prices could be set by a single or few participants. That increases the chance the price is noisy relative to professional futures liquidity. Because CME futures are much larger and more liquid than this prediction market, significant arbitrage would be possible only if the PM price implied easy profit after trading costs and position limits — but such arbitrage requires funding and political views about settlement rules and final trading day liquidity. The lack of visible arbitrage trades suggests either (a) no large mispricing exists vs. futures/option markets, or (b) frictions/limits prevent traders from arbitraging small mismatches between a small prediction market and CME settlement outcomes. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
+- Is low volume because outcome obvious or because traders haven’t engaged? Hard to tell: if most professional price discovery occurs in CME futures/options, this PM could be overlooked by pros (low engagement). Alternatively, the PM price could match consensus and thus see little trading.
+
+4) MISPRICING ASSESSMENT — weigh the evidence objectively
+- What the evidence supports: There is credible evidence both for elevated risk of June exceeding $84 (geopolitical shocks in early March that raised spot/futures temporarily) and for a scenario where prices fall back into or below the $77–$84 band by June (EIA and some bank forecasts expecting easing over mid‑/late‑2026 as supply responds). That split makes the June outcome genuinely uncertain.
+- Missing information that matters: the current June‑2026 WTI futures midpoint/settlement expectation and option‑implied volatility/skew for that specific June contract — without that forward curve data I cannot precisely map how the PM’s 17% compares to futures‑implied probabilities. I did not find the explicit June contract price or its option skew in the three searches (budget constraint). This is the single largest missing piece for a clean mispricing call.
+- Conclusion on mispricing: Given the credible, conflicting signals and the absence of the exact June futures/option market data in my searches, there is insufficient evidence to conclude a clear, large mispricing. The PM’s 17% could be a reasonable reflection of a market view that places most probability mass either below $77 (if geopolitical premium fades) or above $84 (if disruptions persist). The PM’s low volume makes it fragile — it could be adjusted quickly if professional traders find it profitable to trade — but I do not have specific, credible evidence that a >20‑cent (0.20) mispricing exists that would justify asserting a high‑confidence arbitrage opportunity.
+
+Critical check (did I understand resolution and possible hidden technicalities?)
+- I verified the market resolves to CME’s official settlement for the Active Month on the final trading day of June; CME’s settlement method uses VWAP/time‑window rules and staff fallback procedures that can produce settlements differing from visible intraday quotes — that nuance can materially affect edge calculations and justifies some discounting of simple spot/futures comparisons. Because of that, small differences between the PM price and a quoted June futures mid may not be exploitable without accounting for settlement mechanics. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
+
+5) EXPECTED VALUE CALCULATION (estimate of value of investigating/ betting vs this PM)
+- Strength of evidence that something important is missing from the market price: moderate — 40%. Reason: good, recent public information (geopolitics, EIA, bank forecasts) gives plausible scenarios on both sides, but the decisive data (current June futures midpoint and option‑implied distribution) was not retrieved here. If those data were materially divergent from 17% that would be strong evidence. ([eia.gov](https://www.eia.gov/pressroom/releases/press584.php?utm_source=openai))
+- Magnitude of reasonable mispricing (if mispriced): modest — I estimate up to ~10 cents (0.10) is plausible given the uncertainty and public signals. Large mispricings (>20¢) would be surprising given how visible these drivers are to futures/options markets.
+- Expected value = Strength × Magnitude = 40% × 10¢ = 4.0¢
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Public evidence shows large near‑term geopolitical upside risk to oil (early March spikes) but official forecasts (EIA, some banks) and planned supply responses make a June outcome ambiguous. The prediction market’s 17% is defensible given the split scenarios and CME settlement technicalities; I find insufficient hard evidence of a large mispricing.  
+CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: U.S.–Iran conflict: Is crude oil heading towards $95? What it means for Sensex, Nifty
-Author: Chitranjan Kumar
-Published Date: 2026-03-08T00:00:00.000Z
-URL: https://www.fortuneindia.com/markets/crude-oil-heading-to-95-what-it-means-for-sensex-and-nifty/131042
-Summary: The recent surge in Brent crude oil prices, driven by escalating U.S.–Iran tensions and concerns over supply disruptions through the Strait of Hormuz, has pushed prices past $90 per barrel, reaching levels not seen since April 2024. Market experts suggest that crude oil is regaining momentum and could potentially move toward the $90–$95 per barrel range. Given the geopolitical instability and supply risks, there is a possibility that oil prices may remain elevated or even climb further in the near term. However, the current trend indicates significant volatility, and whether prices will settle within the $77–$84 range in June depends on how geopolitical tensions evolve and supply-demand dynamics stabilize.
+### [March Short-Term Energy Outlook press release](https://www.eia.gov/pressroom/releases/press584.php)
+**Author:** Unknown | **Published:** 2026-03-10
 
-Title: Chart alert: WTI crude oil bullish breakout above $78.10/barrel in play | MarketPulse by OANDA Group
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.marketpulse.com/markets/chart-alert-wti-crude-oil-bullish-breakout-above-7810barrel-in-play/
-Summary: The recent bullish breakout in WTI crude oil, driven by geopolitical tensions and a surge of approximately 19% since late February, suggests a strong upward momentum. Prices have reached a 14-month high near $78, with technical analysis indicating potential to extend toward $80.30 and $83.60–$84.55, provided support levels hold. The rally is underpinned by increased fears of disruption in the Strait of Hormuz, a critical maritime chokepoint handling about 25% of global seaborne oil trade, with the probability of Iran closing the strait reaching an all-time high of over 86%. This geopolitical risk, combined with technical signals, supports the likelihood of crude oil settling within the $77–$84 range in June, especially if the bullish momentum persists and support levels remain intact.
+The U.S. Energy Information Administration's March 2026 Short‑Term Energy Outlook (STEO) describes updated near‑term price forecasts and scenarios incorporating recent Middle East disruptions. The STEO discusses a near‑term elevated price environment and projects price paths later in 2026 (including scenarios where prices ease toward the second half of the year). This source is high‑credibility for baseline supply/demand expectations and supports the view that June outcomes are uncertain (both higher and lower outcomes are plausible), so it weakens a simple claim that the prediction market is obviously mispriced. ([eia.gov](https://www.eia.gov/pressroom/releases/press584.php?utm_source=openai))
 
-Title: WTI Crude Price Forecast: $77 Oil Spike, Iran Conflict News, and Why the War Premium Might Collapse?
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://acy.com/en/market-news/market-analysis/wti-crude-price-forecast-77-oil-spike-iran-conflict-news-f-p-144312/
-Summary: The recent surge in WTI crude oil prices to around $77 has been driven by geopolitical tensions, notably the U.S. submarine incident with Iran and fears of supply disruptions. Technical analysis indicates that the market is in a parabolic, overbought phase, with support levels near $74 and potential for rapid reversion to lower averages if the war premium collapses. Fundamentally, while supply concerns remain high due to OPEC+ cuts and US inventory draws, conflicting signals from central banks and intelligence reports suggest that de-escalation talks with Iran may be underway, potentially easing supply fears. Given the current volatility, market sentiment could shift quickly, making the $77-$84 range in June plausible if geopolitical tensions persist or escalate, but the risk of a reversal remains significant if peace negotiations gain traction.
+### [NYMEX WTI Crude Oil, Natural Gas, Heating Oil, and RBOB — Final Settlement Procedure (PDF)](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Final_Settlement_Procedure.pdf)
+**Author:** CME Group | **Published:** Unknown
 
-Title: Oil Price Forecast March 2026: Brent, WTI, and What Drives Crude Markets This Month — The Middle East Insider
-Author: 
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://themiddleeastinsider.com/2026/02/22/oil-price-forecast-march-2026-brent-wti-and-what-drives-crude-markets-this-month/
-Summary: The webpage provides a comprehensive outlook on oil prices as of early 2026, highlighting that Brent crude is trading around $76-82 and WTI around $72-78, with analyst consensus expecting Brent to average $75-85 per barrel through Q1-Q2 2026. Supply dynamics are influenced by OPEC+’s cautious management of production, with gradual increases anticipated, and US shale production remaining relatively stable. Global oil demand is projected to grow modestly, led by Asia-Pacific economies, though Chinese demand growth is slowing. Given these factors, crude oil prices are expected to remain within a range of approximately $75-$85 in the near term, including June 2026, barring significant geopolitical or supply-demand disruptions.
+CME Group’s final settlement procedure for energy futures explains how final settlement prices are calculated (VWAP windows, minimum volume thresholds, and staff fallback procedures). For CL, the document explains the treatment of trading windows and how low liquidity or lack of bid/ask pairs can cause staff to use implied spread or earlier data. This directly affects how the prediction market will resolve (the market uses CME’s official settlement), and it highlights that official settlement can diverge from visible intraday quotes — a technicality that decreases the chance of a trivial arbitrage against the PM. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Final_Settlement_Procedure.pdf?utm_source=openai))
 
-Title: Goldman's Oil Forecast: A Supply Shock Bet Against a High-Dollar Cycle
-Author: AInvest
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.ainvest.com/news/goldman-oil-forecast-supply-shock-bet-high-dollar-cycle-2603/
-Summary: Goldman Sachs's recent forecast indicates a short-term potential for crude oil prices to spike above $77, driven by a supply shock scenario involving disruptions through the Strait of Hormuz, which could push prices toward $100. However, their long-term outlook remains bearish, with an annual average forecast of $60, due to expected global oil supply surpassing demand. The current macro environment, characterized by a strengthening dollar and a pause in Fed rate hikes, acts as a headwind to sustained price increases. The bank suggests that any geopolitical-driven price rallies are likely temporary, and the overall market fundamentals point toward a price ceiling around $70-$80 in the long term. Therefore, while short-term volatility could see crude oil settle within the $77-$84 range in June, sustained movement above this range is uncertain given the broader supply-demand dynamics and macroeconomic factors.
+### [NYMEX Crude Oil — Daily Settlement Methodology (CME Group)](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf)
+**Author:** CME Group | **Published:** Unknown
 
+This CME Group file specifies the daily settlement methodology for NYMEX WTI Crude Oil (CL), including the VWAP formula and the minimum volume thresholds for months 3–4 and 5–6 used in settlement calculations. It clarifies that the "settlement price" used by the prediction market is determined by these rules (not by last trade), so settlement outcomes may be influenced by the particular liquidity and trade flow on the final trading day of June. Knowing this reduces the confidence that a visible futures quote alone proves a PM mispricing. ([cmegroup.com](https://www.cmegroup.com/trading/energy/files/NYMEX_Energy_Futures_Daily_Settlement_Procedure.pdf?utm_source=openai))
 
+### [Oil passes $100 a barrel following Strait of Hormuz blockage and Middle East war](https://www.lemonde.fr/en/economy/article/2026/03/09/oil-passes-100-a-barrel-following-strait-of-hormuz-blockage-and-middle-east-war_6751232_19.html)
+**Author:** Unknown | **Published:** 2026-03-09
+
+Press reporting documenting a sharp early‑March 2026 spike in oil prices tied to Middle Eastern hostilities and Strait of Hormuz disruptions, including spot/benchmark moves above $100 in some sessions. This demonstrates a significant upward risk premium that could persist into Q2 depending on how the conflict/shipping disruption evolves — evidence that increases the chance June settlement could be above $84 (and therefore that the PM’s 17% could be conservative on downside). ([lemonde.fr](https://www.lemonde.fr/en/economy/article/2026/03/09/oil-passes-100-a-barrel-following-strait-of-hormuz-blockage-and-middle-east-war_6751232_19.html?utm_source=openai))
+
+### [Goldman Sachs raises Q2 Brent oil price forecast by $10 to $76 a barrel (Reuters via Investing.com)](https://www.investing.com/news/commodities-news/goldman-sachs-raises-q2-brent-oil-price-forecast-by-10-to-76-a-barrel-4539911)
+**Author:** Unknown (Reuters content) | **Published:** 2026-03-04
+
+Reporting on an institutional analyst update (Goldman Sachs) that raised its Q2 crude forecasts in light of ongoing disruptions; the piece reports Q2 Brent and WTI forecasts that place Q2 averages in the mid‑$70s to low $70s for WTI. This provides an expert baseline that implies June could plausibly be near or below the $77–$84 band if the geopolitical premium fades; it supports the interpretation that the PM’s 17% probability might be reasonable rather than a clear arbitrage. ([investing.com](https://www.investing.com/news/commodities-news/goldman-sachs-raises-q2-brent-oil-price-forecast-by-10-to-76-a-barrel-4539911?utm_source=openai))

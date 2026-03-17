@@ -1,84 +1,95 @@
 # Research: Will Russia enter Mykhailivka by April 30?
 
 **Market ID:** 0xe1686e717c6db099a40b2bd5a3a77952aa3fbd98f5a37acabc698cca4e02d080
-**Researched At:** March 6, 2026 at 04:19:01 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia enter Mykhailivka by April 30?"
+**Researched At:** March 17, 2026 at 05:31:17 AM UTC
+**Search Query:** "Will Russia enter Mykhailivka by April 30?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 3.0¢
+**Expected Value:** 2.4¢
 
 ### Summary
 
-Recent credible reports show no focused Russian push toward Mykhailivka and highlight slow, contested advances, supporting a low (≈25%) probability. There is no clear bullish evidence missing from market pricing, indicating any mispricing is small.
+There is active hostile activity in Sumy Oblast near Bilopillia and adjacent communities but I found no authoritative signal that ISW has or will imminently mark Mykhailivka as Russian-controlled. Given ISW is the contractual arbiter and the market shows zero trading volume, the 21.5% price is plausible; available public evidence does not provide strong, specific grounds to declare a large mispricing. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Russian forces will capture any part of Mykhailivka, Sumy Oblast, as shown by ISW map shading, by April 30, 2026. A “Yes” requires persistent ISW shading of assessed Russian control/infiltration or actual negotiated control over any Mykhailivka territory. A “No” if that never occurs before the deadline.
+Plan and limits
+- I used the ISW storymap (primary resolution source) and DeepStateMap (official backup) to check mapping/resolution mechanics and current public maps, and searched recent news for ground activity in Sumy Oblast near Mykhailivka. I had a 3-query web budget and used it to (1) open the ISW storymap, (2) search recent reporting on attacks/advances in Sumy/Bilopillia/Mykhailivka, and (3) open DeepStateMap as the alternative map source. The web sources I relied on are listed in SOURCES below. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 
-2. EVIDENCE EVALUATION  
-Bearish (suggesting lower than 24.5%):  
-• BattleSpace Updates (early Mar) reports no significant or large-scale Russian offensive toward Mykhailivka; only modest, localized advances elsewhere.  
-• CITE SitRep (up to Mar 2) notes Russia’s slowest monthly gains since Jul 2024, uneven multi-axis advances, and strong Ukrainian defenses; penetration of Mykhailivka by Apr 30 seems uncertain.  
-• ISW Mar 2 assessment highlights Russia’s focus on strategic/diplomatic efforts and sustaining existing operations rather than launching new major offensives in Ukraine, implying low near-term drive on Mykhailivka.
+1) CONTEXT ANALYSIS
+- What the market asks: whether Russia captures any territory of Mykhailivka, Sumy Oblast (50.797758° N, 35.315210° E) between market creation and 30 April 2026, as shown on the ISW map layers specified by the market. A “Yes” requires that ISW’s map shows any part of that specified territory shaded under one of the qualifying Russian-control/infiltration/gains layers, and that shading must persist through ISW’s next full daily update cycle. The ISW storymap is the primary resolution source; DeepStateMap is the backup if ISW is unavailable. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 
-Bullish (suggesting higher than 24.5%):  
-• ISW Feb 23 warns of Russia ramping up mobilization to sustain attritional tactics, which could translate into limited rolling advances anywhere along the front, including Mykhailivka.  
-• ISW Mar 4 notes elevated overall Russian-Ukrainian tensions and intensified operations, implying some risk of opportunistic pushes into peripheral areas like Mykhailivka.
+- What must happen to resolve YES vs NO: Russian forces must achieve actual local control (or assessed infiltration/gain as shown by ISW) of any part of the defined geographic area, and that change must appear on the ISW map and persist through the next ISW daily update. A public announcement alone does not qualify — the physical control must be reflected in the ISW map (or, if ISW is unavailable, DeepStateMap or a consensus of credible reporting per the market rules). ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 
-All sources are highly credible and recent (late Feb–early Mar 2026). None presents direct evidence of an imminent assault on Mykhailivka; the bullish signals are broad and unspecific.
+2) EVIDENCE EVALUATION
+Overview of available evidence (relevant to March 17, 2026)
+- What I could reliably verify:
+  - ISW is the stated resolution source; their interactive map is the governing reference for whether and when territory is assessed as Russian-controlled/infiltrated. The market’s resolution language cites that map. This means the market will resolve based on ISW’s assessed control, not on press releases alone. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
+  - Public reporting shows continued strikes and attacks in Sumy Oblast communities (including Bilopillia and nearby settlements) in recent weeks/months, indicating active hostilities in the general area. The reporting I found documents shelling, strikes, and evacuations in Sumy Raion communities but does not report a verified Russian capture of Mykhailivka as of the dates of those articles. That pattern supports the view that the area is contested/attacked but not yet clearly occupied. ([odessa-journal.com](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions?utm_source=openai))
+  - DeepStateMap is a recognized public map of control used as an alternative resolution source if ISW is unavailable; it can show fine-grained local control but is interactive and must be checked visually on the date of interest. My attempt to load it via the tool showed the site as the alternate map resource but could not extract dynamic map layers programmatically. That limits what I can assert from DeepStateMap without manual visual inspection. ([deepstatemap.live](https://deepstatemap.live/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 24.5% price plausibly reflects low but nonzero risk that Russia will opportunistically advance into this sector. Low volume may stem from the question’s niche focus and the absence of clear indicators rather than broad consensus or insider knowledge. Informed observers likely deem the chance under 25% given winter drag, diversion to other sectors, and Ukrainian defenses.
+- Evidence that would suggest the market price is incorrect (i.e., that 21.5% is too low or too high):
+  - Suggests higher probability (evidence the market is underpriced): credible open-source indicators of an ongoing, successful Russian ground push in the immediate vicinity (documented Russian advances into Bilopillia hromada or visible territorial gains that include or immediately border the coordinates) that ISW has not yet reflected. I found no such public, authoritative reporting showing that ISW has already or imminently shaded Mykhailivka as controlled. Absent that, there is no direct evidence to justify materially increasing the probability above the current price. ([odessa-journal.com](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions?utm_source=openai))
+  - Suggests lower probability (evidence the market is overpriced): if ISW and other mapping sources consistently show stable Ukrainian control in that cell and recent attacks are only long-range strikes (artillery/air), then a ~21.5% chance of territorial capture within ~6 weeks could be higher than warranted. The publicly available post-attack reports I found emphasize strikes and evacuations rather than confirmed Russian territorial gains in Mykhailivka specifically, which argues against a very high near-term capture probability. ([odessa-journal.com](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-No specific, credible evidence suggests the true probability deviates substantially from the current 24.5%. The bearish case aligns well with a low-probability outcome; the bullish case is too general to push the price materially higher. Thus, there’s insufficient reason to believe a >10 cent mispricing exists.
+- Source credibility and recency:
+  - ISW map (primary): high credibility for this market because the market explicitly uses ISW as the resolution source; it is updated daily by analysts. It is authoritative for the question of what shading will be used to resolve the market — but it is an analyst product and sometimes lags or adopts conservative language; its assessments are the contractual metric here. (source opened: ISW storymap). ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
+  - DeepStateMap: a commonly used crowdsourced/OSINT map; credible as a backup but interactive and can use different criteria than ISW. I could not extract a visual confirmation programmatically. ([deepstatemap.live](https://deepstatemap.live/))
+  - News reports (regional outlets): useful for event-level signals (shelling, evacuations), but when it comes to ground control of a specific small settlement, they are often not definitive unless they quote official local administrations or OSINT map updates. The reports I found document active attacks in Sumy Oblast communities but do not confirm the specific territorial capture required to resolve this market. ([odessa-journal.com](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is reasonable: ~60%  
-Estimated mispricing magnitude: ~5 cents  
-Expected value ≈ 0.60 × 5 cents = 3 cents
+- Bullish vs bearish perspective (specifics):
+  - Bullish for YES: Russia has operational incentives and has mounted probing attacks and strikes in Sumy Oblast; if Russian forces build momentum or prioritize a limited local push, small settlements close to the border can fall quickly, and ISW may mark gains as “assessed infiltration/control” once corroborated. Recent reporting of attacks in Bilopillia hromada indicates proximity of hostile activity. ([odessa-journal.com](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions?utm_source=openai))
+  - Bearish for YES: public sources I checked show strikes and evacuations rather than confirmed territorial capture of Mykhailivka. ISW tends to wait for corroboration before shading areas as Russian-controlled, and the evidence I found does not indicate that corroboration exists as of the searches. That reduces the chance that ISW will mark Mykhailivka as Russian-controlled before Apr 30. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 
-EXPECTED_VALUE: 3  
-SUMMARY: Recent credible reports show no focused Russian push toward Mykhailivka and highlight slow, contested advances, supporting a low (≈25%) probability. There is no clear bullish evidence missing from market pricing, indicating any mispricing is small.  
+- Skeptical check: if the market were mispriced by a large margin (>20 cents), we should be able to find clear, authoritative signals (e.g., ISW or another reputable OSINT map already shading the village, or multiple credible on-the-ground reports of occupation). I did not find such signals. Because the market resolves on ISW shading, the lack of an ISW-assessed change strongly limits evidence for large mispricing.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current price (~21.5%):
+  - Traders could be pricing a modest but non-negligible near-term chance of local Russian gains given active hostilities in the broader area (attacks on Bilopillia and nearby communities), while also recognizing ISW’s conservative mapping standards — that combination plausibly leads to a probability in the low-twenties.
+  - The market’s low total volume ($0) means the displayed price may simply be an initial/market-maker price rather than a consensus price based on many trades. The tight spread (5¢) is consistent with an automated market maker quoting a single mid-price, not necessarily reflecting aggregated diverse information.
+- Could the price reflect one or a few traders? Yes — zero volume implies no trading; the price is likely the initial quote. With low participation, the price could reflect an estimator’s prior rather than an information-aggregated market consensus.
+- Why low volume might be natural here: predicting capture of a specific small settlement in a peripheral oblast within ~6 weeks is a niche, low-liquidity proposition. Informed traders may prefer to trade on larger, more liquid markets or on clearer operational signals, leaving niche markets lightly traded. Alternatively, if the outcome were nearly certain either way, informed traders would have little incentive to trade; but available public evidence suggests uncertainty, not near certainty.
+
+4) MISPRICING ASSESSMENT
+- Do I have credible evidence the market is mispriced? No — not convincingly. I found no authoritative indication that ISW has or will imminently mark Mykhailivka as Russian-controlled, nor did I find evidence that would make a capture overwhelmingly likely well above 21.5% before April 30. Conversely, I did not find definitive evidence proving capture is unlikely enough to justify a much lower price.
+- Timeline consideration: the market resolves by Apr 30, 2026 — ~6 weeks from the analysis date (March 17). That is a short enough horizon for a local advance to occur, but it is also short for an analyst-driven map shading change without corroborating reporting.
+- Charitable interpretation of the 21.5% price: it encodes a modest near-term risk of a localized incursion that ISW could assess as infiltration/gain — consistent with active but not decisive operations in the area. Given ISW’s role as the arbiter, traders may rationally apply a discount to raw reports because mapping agencies require corroboration before shading.
+
+5) EXPECTED VALUE CALCULATION (assessing value of acting on belief in mispricing)
+- Strength of evidence that something important is missing from the price: low–moderate (I estimate ~30%). Rationale: the evidence base is dominated by reports of attacks (supporting a non-zero chance) but lacks clear OSINT or ISW signals of imminent capture; thus there is modest probability that traders have already priced the plausible near-term scenarios into ~21.5%.
+- Magnitude of mispricing if wrong (cents): small. Given the lack of direct evidence of imminent capture, a realistic maximum mispricing I can justify is on the order of 5–15 cents. I will estimate magnitude = 8 cents as a mid-point plausible mispricing if I am missing some on-the-ground intelligence.
+- Expected value = Strength × Magnitude = 30% × 8 cents = 2.4 cents.
+
+EXPECTED_VALUE: 2.4
+SUMMARY: There is active hostile activity in Sumy Oblast near Bilopillia and adjacent communities but I found no authoritative signal that ISW has or will imminently mark Mykhailivka as Russian-controlled. Given ISW is the contractual arbiter and the market shows zero trading volume, the 21.5% price is plausible; available public evidence does not provide strong, specific grounds to declare a large mispricing. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: NEWS IN BRIEF – UKRAINE CONFLICT - BATTLESPACE Updates
-URL: https://battle-updates.com/update/news-in-brief-ukraine-conflict-137/
-Summary: The recent military developments indicate ongoing Russian and Ukrainian combat activities, including Russian advances near Marfopil and efforts to maintain pressure on frontlines like Robotyne. Russia has launched limited ground attacks and small-scale advances in southern Ukraine, but there is no evidence of significant or large-scale Russian offensives toward Mykhailivka specifically. Given the current pattern of modest territorial movements and the absence of confirmed large-scale operations targeting Mykhailivka, it is unlikely that Russia will enter Mykhailivka by April 30. The situation remains dynamic, but current military actions suggest no imminent large-scale push into that area within the specified timeframe.
+### [Interactive Map: Russia's Invasion of Ukraine](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375)
+**Author:** Institute for the Study of War (ISW) / ArcGIS StoryMaps | **Published:** Unknown
 
-Title: Russian Offensive Campaign Assessment, Feb. 23, 2026 | ISW
-Author: Nadia Sleiman
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://isw.pub/UkrWar022326
-Summary: The February 23, 2026, Russian offensive assessment indicates that Kremlin officials, including President Vladimir Putin, are actively preparing for future military mobilization efforts, specifically limited, rolling involuntary reserve callups. Putin emphasized themes of patriotism, responsibility, and sacrifice to garner public support and mitigate domestic backlash, suggesting that Russia aims to sustain its military campaign in Ukraine despite potential societal costs. High-level figures like Dmitry Medvedev publicly acknowledged the social and financial burdens of ongoing conflict, implying that Russia is planning to continue its attritional, infantry-heavy tactics without significant tactical shifts. These developments suggest that Russia is consolidating conditions for prolonged military operations, which could influence the likelihood of advancing into specific Ukrainian territories such as Mykhailivka by April 30.
+ISW’s interactive storymap is the map product referenced by the market as the primary resolution source. It contains the analyst-assessed map layers (including assessed Russian infiltration, assessed control, assessed advances in past 24 hours) that the market uses to judge whether Mykhailivka has been captured. This source is directly relevant because the market’s contractual “Yes” condition depends on ISW shading; therefore whether ISW shades the village controls resolution. The map is updated regularly by ISW analysts and will be the first-place check to determine if and when the market resolves. ([storymaps.arcgis.com](https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375))
 
-Title: Sitrep for Feb. 23-March 2, 2026 (as of 11:00 a.m. UTC+3) — Teletype
-Author: Conflict Intelligence Team
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://notes.citeam.org/dispatch-feb-23-mar-2-2026
-Summary: Based on the recent frontline developments up to early March 2026, Russia's territorial advances have significantly slowed, with February marking its lowest monthly gains since July 2024. Russian forces are actively advancing toward Orikhiv from multiple directions, but their progress is inconsistent, and the plan to encircle the town appears uncertain, especially given Ukrainian counteroffensive capabilities. In the broader eastern and northern sectors, Russian efforts to reach key strategic points, such as Sloviansk and Kramatorsk, are progressing unevenly, with tasks spread across multiple axes and no indication of synchronized breakthroughs. The overall trend suggests a cautious Russian approach, likely influenced by winter conditions and Ukrainian resistance. Given these dynamics, it remains uncertain whether Russia will successfully penetrate Mykhailivka by April 30, as their advances are currently limited and contested, and Ukrainian defenses are actively countering Russian operations.
+### [DeepStateMAP | Мапа війни в Україні](https://deepstatemap.live/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Russian Offensive Campaign Assessment, March 2, 2026 | ISW
-Author: Nadia Sleiman
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-2-2026/
-Summary: The March 2, 2026, ISW assessment indicates that Russia is actively engaged in a complex geopolitical and military environment. Russia's President Putin is positioning himself as a mediator in Middle Eastern conflicts, attempting to balance relationships with Iran and Gulf States amid escalating tensions, including US-Israeli operations against Iran. Russia's economy remains sensitive to Middle Eastern conflicts, with oil prices spiking due to Iranian threats against vessels in the Strait of Hormuz, which could bolster Russian revenues despite ongoing declines in oil and gas income. Russia has considered increasing oil production to capitalize on higher prices, but its ability to sustain a blockade or exert significant military pressure in the Middle East remains uncertain. Given these dynamics, there is no direct indication of Russia's specific military plans regarding Mykhailivka, but the overall context suggests Russia is focused on strategic positioning, economic resilience, and diplomatic maneuvering rather than immediate large-scale offensive actions in Ukraine by April 30.
+DeepStateMap is an alternative OSINT/interactive mapping resource named in the market rules as the backup resolution source if ISW is unavailable. It presents an interactive control map and often reflects fine-grained local changes; however, it is visual/interactive and may use different criteria than ISW. My programmatic access could not render dynamic map tiles for detailed layer inspection, but the site is relevant because it is explicitly the backup mapping source the market allows. The site’s inability to be scraped programmatically here means manual visual checks by a human are necessary to confirm any shading shown there. ([deepstatemap.live](https://deepstatemap.live/))
 
-Title: Russian Offensive Campaign Assessment, March 4, 2026 | ISW
-Author: Fiona Noonan
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://isw.pub/UkrWar030426
-Summary: The recent assessments indicate ongoing intense military activity around Ukraine, including Ukrainian strikes damaging Russian naval assets and infrastructure, notably in Novorossiysk, and accusations of Ukrainian attacks on Russian vessels in the Mediterranean. Russia continues to blame Ukraine for escalation, including alleged drone strikes on ships like the Arctic Metagaz. Additionally, Russia is actively engaging in information campaigns to influence Western nuclear strategies and NATO perceptions. Given the heightened military operations, increased tensions, and Russia's focus on strategic and psychological campaigns, there is an elevated risk of Russian attempts to advance into Ukrainian territories such as Mykhailivka before April 30. However, no specific confirmation of an imminent offensive in Mykhailivka is provided, but the overall escalation suggests a possibility of increased Russian ground activity in the region.
+### [Russian attacks claim lives and injure civilians across Kherson, Donetsk, and Sumy regions](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions)
+**Author:** Unknown | **Published:** 2026-03-04
 
+Regional reporting that documents strikes and attacks across multiple oblasts, including Sumy Oblast and communities within Bilopillia and Yunakivka hromadas. The article reports shelling and strikes on settlements in the Sumy area and evacuations, which shows active hostilities near the market’s target settlement. Importantly, it reports attacks and civilian harm rather than confirmed Russian ground control of Mykhailivka; thus it supports a non-zero probability of local ground action but does not provide the corroborated occupation signal required for ISW to shade the area as Russian-controlled. ([odessa-journal.com](https://odessa-journal.com/public/russian-attacks-claim-lives-and-injure-civilians-across-kherson-donetsk-and-sumy-regions?utm_source=openai))
 
+### [Timeline of the Russo-Ukrainian war (1 January 2025 – 31 May 2025)](https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_(1_January_2025_%E2%80%93_31_May_2025))
+**Author:** Unknown | **Published:** Unknown
+
+This timeline aggregates reporting and references earlier ISW assessments (e.g., March 2025 assessments) and documents events in Sumy Oblast such as evacuations and reported Russian actions in nearby communities. It provides contextual historical background showing that Sumy oblast has experienced periodic attacks and some territorial contestation in the past year. It does not substitute for current ISW shading for this market but provides context that the area has been contested, supporting the plausibility (but not proof) of near-term localized advances. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Timeline_of_the_Russo-Ukrainian_war_%281_January_2025_%E2%80%93_31_May_2025%29?utm_source=openai))

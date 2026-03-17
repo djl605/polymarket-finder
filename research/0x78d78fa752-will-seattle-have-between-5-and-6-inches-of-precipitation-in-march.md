@@ -1,86 +1,118 @@
 # Research: Will Seattle have between 5 and 6 inches of precipitation in March?
 
 **Market ID:** 0x78d78fa752ec5ac78d5080c5606d5eeaf09a6484d463d5cd44158bb8a2c1d95a
-**Researched At:** March 9, 2026 at 04:26:22 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Seattle have between 5 and 6 inches of precipitation in March?"
+**Researched At:** March 17, 2026 at 05:32:44 AM UTC
+**Search Query:** "Will Seattle have between 5 and 6 inches of precipitation in March?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
+**Confidence:** Low
 **Expected Value:** 1.5¢
 
 ### Summary
 
-Forecasts point to typical light-to-moderate March rainfall in Seattle, making a 5–6″ total an outlier but not impossible; qualitative evidence doesn’t reveal a large mispricing. The 22.9% price aligns with climatological norms plus modest upside risk.
+The market price (26.9%) is broadly consistent with NOAA climatology (March mean ~4.17 in; median ~3.74 in; 75th pct ~4.76 in) plus mid‑March atmospheric‑river forecasts that increase upper‑tail chance. I found no clear public evidence of a large mispricing; any exploitable edge likely requires privileged/current month‑to‑date station totals. CONFIDENCE: low
+
+SOURCES:
+---
+Title: Climate (NWS Western Region Headquarters) — Seattle WFO portal (NOWData / climate tools)
+URL: https://www.weather.gov/
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Seattle’s total precipitation from March 1–31, 2026, will land in the 5.00–6.00 inch bracket (inclusive of 5.00, exclusive of 6.00 due to tie‐breaking rules). A YES means Seattle accumulates at least 5.00 inches but less than 6.00 inches during March; a NO covers totals below 5.00 or at/above 6.00 inches.
+Plan & constraints (brief)
+- I used NOAA/NWS and independent climate analysis sources (not prediction-market pages) to evaluate whether the market price (26.9% for “5–6 in.” for Seattle, March 1–31, 2026) looks reasonable or mispriced. The month is not finished (today = 2026-03-17) and NOAA’s finalized monthly figure will not be available until after March ends; this limits how definitive we can be. Key quantities to check: (a) the climatological distribution for March precipitation in the Seattle area, (b) precipitation already fallen in March 2026 (month-to-date), and (c) near-term/longer-term forecasts (atmospheric-river / CPC outlook) that could materially change the month total. I could not obtain a finalized March total (by definition), and some NOAA data feeds have partial coverage through early March in the public daily-summaries dataset; that increases uncertainty. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
 
-2. EVIDENCE EVALUATION  
-Bullish (higher precipitation) evidence:  
-- MyNorthwest (Mar 5) forecasts nearly two weeks of continuous rain starting Friday—potentially elevating monthly totals.  
-- Weathertab (Mar 1) shows many days with high rain probabilities (up to 79%), suggesting intermittent-but‐frequent rain that could add up.  
-Bearish evidence:  
-- FOX 13 Seattle (Mar 5) projects light, scattered showers and milder temperatures, deeming 5–6″ unlikely.  
-- Cliff Mass (Mar 6) sees mostly normal March patterns, minimal snow, and no model consensus for heavy precipitation.  
-Sources are current (Mar 1–6 2026) and credible (regional weather outlets; respected meteorologist); none give specific accumulation forecasts, only qualitative outlooks. No evidence is so definitive that it couldn’t already be priced in.
+1) CONTEXT ANALYSIS — what the market asks and resolution rule
+- The market asks whether the NOAA “Monthly summarized data” value for Precipitation for “Seattle City Area” for March 2026 will be between 5.00 and 5.99 inches inclusive (market says if the reported number falls exactly between brackets, the higher bracket is used). The official resolution source is the NWS/NOAA page selection described in the market rules; the market resolves to YES only if NOAA’s March 2026 precipitation number for Seattle City Area (as reported on that NWS climate tool) is ≥5.00 and <6.00 inches; otherwise NO. Because NOAA reports to hundredths, small rounding/precision rules are already specified in the market. This means two types of events lead to YES vs NO:
+  - YES: accumulated precipitation for the full March 1–31 period (as NOAA reports it for “Seattle City Area”) ends up in [5.00, 5.99].
+  - NO: the NOAA number ends up <5.00 or ≥6.00 (including small rounding differences outside the bracket). ([weather.gov](https://www.weather.gov/wrh/climate?wfo=sew))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 22.9% probability reflects a view that 5–6″ is above Seattle’s historical March norm (~3.8″) and would require a notably wet month. Low volume implies limited trading interest—possibly because the question is straightforward to anyone with Seattle climatology. The tight spread, despite low volume, hints that a few informed traders set the price.
+2) EVIDENCE EVALUATION — ALL relevant evidence (bull/bear, credibility, recency)
+- Climatology (baseline)
+  - NCEI (NOAA) 1991–2020 monthly normals for Seattle–Tacoma Intl (used by Seattle area composites) show March mean = 4.17 in; the 25th/50th/75th percentiles (probability levels in the normals product) are approximately 2.76, 3.74, and 4.76 inches respectively. That implies 5–6 inches is above the 75th percentile for the station normals but well within historical variability (i.e., not unprecedented). A March total of 5–6 in is uncommon but plausible in a wet March. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+  - Implication: a naive climatological probability of 5–6 in would be <25% (since 4.76 is the 75th percentile), so a market price near ~25–30% is broadly consistent with climatology alone. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
 
-4. MISPRICING ASSESSMENT  
-There is no clear, quantifiable signal suggesting a >20 ¢ mispricing. Qualitative forecasts conflict, and none provide detailed accumulation projections. The market’s price plausibly incorporates average climatology plus a tail probability for an unusually wet March. No strong indication that critical information is missing.
+- Recent/ongoing weather signals (why March 2026 could be wetter than normal)
+  - Forecasts and operational meteorology in early–mid March 2026 indicated atmospheric-river (AR) activity targeting the Pacific Northwest around mid-March (reports and AR outlooks around March 10–17 showing one to multiple AR pulses), which can deliver multiple inches of precipitation to coastal/near-coastal locations and significantly boost monthly totals. Independent reporting and AR outlooks published in early–mid March flagged higher-than-normal precipitation risk for parts of Washington. If the ARs affected the Seattle City Area substantially, they could push the month above the 75th percentile toward 5+ inches. ([watchers.news](https://watchers.news/2026/03/10/atmospheric-rivers-forecast-to-bring-heavy-rain-and-snow-to-the-pacific-northwest-through-mid-march/?utm_source=openai))
+  - Credibility: CW3E/NOAA/NWS forecasts and peer coverage (e.g., regional climate outlets / NWS discussions) are credible for short-term precipitation risk. These forecasts, however, are probabilistic and model-sensitive (small track/intensity shifts produce large local differences). AR forecasts are high-impact but also have forecast uncertainty about exact amounts in any single urban gauge. ([watchers.news](https://watchers.news/2026/03/10/atmospheric-rivers-forecast-to-bring-heavy-rain-and-snow-to-the-pacific-northwest-through-mid-march/?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is off: ~30% (qualitative, no precise accumulation model)  
-Magnitude of potential mispricing: ~5 ¢ (small, given consensus around normal precipitation)  
-Expected value = 30% × 5 ¢ = 1.5 ¢
+- Observations/data availability (what is known now)
+  - NOAA/NCEI station data in the public “daily summaries” interface showed recent updates through early March for the primary station (USW00024233, Seattle–Tacoma Intl) but publicly-accessible finalized daily-summaries downloads appeared to lag in some interfaces (the station detail page lists an “End Date” entry that, in the web view I accessed, reflected data through early March). The practical effect: high-confidence, fully-processed NOAA monthly figures for March will only be available after the month completes; provisional daily totals and NWS operational products can be used to estimate month-to-date accumulation but require pulling station daily totals (which may be available through other APIs or local NWS observations). I could not retrieve an authoritative NOAA monthly-final number for March 2026 (of course) and, at the time of analysis (Mar 17), the month was still in progress. ([ncdc.noaa.gov](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00024233/detail))
+  - Implication: absent a clear, reliable month-to-date total at the official station used by the NWS composite, you must rely on (a) station-to-date reports, (b) NWS forecasted additional precipitation for the remainder of the month, and (c) climatology to estimate the posterior probability.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Forecasts point to typical light-to-moderate March rainfall in Seattle, making a 5–6″ total an outlier but not impossible; qualitative evidence doesn’t reveal a large mispricing. The 22.9% price aligns with climatological norms plus modest upside risk.  
-CONFIDENCE: medium
+- What evidence would argue the market price is incorrect (i.e., mispricing)?
+  - Evidence suggesting price is too low (i.e., 5–6” more likely than market implies):
+    - Strong observational evidence that March 1–16 total is already near 4.5–5.0 inches at the Seattle City Area reporting location (so only a small additional rainfall would be needed to land in 5–6”). If station-to-date totals (NOAA provisional daily totals or an official NWS CLI summary) showed March-to-date already ≥4.5 in, that would make 5–6 in substantially more likely and the market might be undervaluing YES. (I could not find an authoritative NOAA monthly-to-date figure for March beyond early-March in the public daily-summaries during my queries; so this evidence is not available to me now and therefore can’t be confirmed.) ([ncdc.noaa.gov](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00024233/detail))
+    - Robust multi-model operational forecasts (NWS, WPC, ECMWF/GEFS ensemble) showing a high probability of additional heavy AR pulses over the rest of March that are likely to add >1 in to downtown/airport gauges. If those forecasts were published and broadly agreed, they would support a higher-than-climatology chance for the 5–6 in bracket. (There were AR outlooks in mid-March, which raise the plausibility but also carry location/intensity uncertainty.) ([watchers.news](https://watchers.news/2026/03/10/atmospheric-rivers-forecast-to-bring-heavy-rain-and-snow-to-the-pacific-northwest-through-mid-march/?utm_source=openai))
+  - Evidence suggesting price is too high (i.e., 5–6” less likely than market implies):
+    - If month-to-date totals are modest (e.g., <3.5 in through Mar 16) and forecast ensemble medians do not show further heavy events, then reaching 5–6 in becomes relatively unlikely (would require several inches late in the month). I could not confirm such a conservative observation from NOAA’s official station product for the Seattle City Area at the time of writing. ([ncdc.noaa.gov](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00024233/detail))
+    - Climatology: median March ~3.74 in; hitting 5–6 in would be in the upper tail, so a price above ~30–35% would be surprising without strong short-range forecast evidence. The current price (26.9%) sits below that threshold and so is not obviously too high from climatology alone. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+
+- Source credibility & recency
+  - NCEI/NWS products (NOAA) are the authoritative resolution sources and their normals PDF is the primary climatological reference — high credibility and current (I accessed a 1991–2020 normals PDF generated 03/17/2026). Forecast/outlook pieces from CPC, UW climate pages, and AR outlooks (CW3E/Watchers summarizing CW3E) are current as of early–mid March 2026 and are credible for operational forecast context. Local reporting or derivative aggregators are lower credibility; I avoided relying on blogs or non-expert aggregators for load-bearing claims. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+
+3) MARKET EFFICIENCY ANALYSIS — reliability of the market price
+- Reasons the price (26.9%) could be justified:
+  - Climatology places March median at ~3.74 in and mean at ~4.17 in; 5–6 in is in the upper tail. A 25–30% chance for the 5–6 in bucket is consistent with being above the 75th percentile but within the plausible distribution of historical March totals. The market price aligns with that climatological intuition. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+  - Mid-March AR activity was forecast and would plausibly raise the chance of a wet month; forecasters flagged increased precipitation risk for the region in early–mid March 2026, which supports a price above a purely-median-based (e.g., <20%) probability. ([watchers.news](https://watchers.news/2026/03/10/atmospheric-rivers-forecast-to-bring-heavy-rain-and-snow-to-the-pacific-northwest-through-mid-march/?utm_source=openai))
+- Reasons to suspect inefficiency (why price might reflect few traders)
+  - Low total volume ($7,647) and very tight spread could indicate the market price has been set by one or a few active traders rather than many independent information sources. Low-volume markets are often noisy and can over/under-react to events. The exchange-level volume is modest versus larger markets, making it plausible that a single informed trader or liquidity provider set the price. (This is consistent with the user-supplied context about low-volume markets.) — this weakens the reliability of the quoted probability as a well-aggregated forecast.
+  - The market’s tight spread suggests a market maker or a dominant participant is maintaining liquidity; that can produce a stable-looking price even when information is not widely aggregated. Without on-chain trade data showing many independent funds/traders taking positions on the same side, it’s hard to infer broad consensus. (No primary-source evidence of broad institutional trading in this market was found; that’s expected at low volume.) ([polymarket.com](https://polymarket.com/event/precipitation-in-seattle-in-march/will-seattle-have-between-5-and-6-inches-of-precipitation-in-march?utm_source=openai))
+
+4) MISPRICING ASSESSMENT — weigh evidence and apply the critical check
+- Bottom-line qualitative assessment: There is no clear, specific piece of high-quality evidence that is obviously missing from the market price. Climatology makes 5–6 in a tail outcome (above the 75th percentile) and mid-March AR forecasts increase the plausibility of the bucket; the market price (~27%) sits in the range one would expect given those facts. Therefore I do not see credible, concrete evidence that the market is grossly mispriced.
+- Critical-check checklist:
+  - Could the resolution condition already be satisfied? No — March 31 hasn't passed; NOAA final monthly figure not yet available. So the market cannot be resolved early. ([weather.gov](https://www.weather.gov/wrh/climate?wfo=sew))
+  - Could I be missing a technicality about which station/aggregation NOAA will use? The market explicitly uses the NWS “Monthly summarized data” for “Seattle City Area” at the linked NWS climate tool; that is the same source the market cites. If traders had a different interpretation (e.g., SeaTac vs another gauge or a county composite), that would matter — but the market’s rules are explicit. Still, small station differences in Seattle (airport vs city-area composite) can produce small differences in totals; traders may implicitly account for that. ([weather.gov](https://www.weather.gov/wrh/climate?wfo=sew))
+  - Could traders be acting on private high-resolution station data or early QA’d OBS that I couldn’t fetch? Possibly — real-time station feeds or local cooperative observer messages can show month-to-date totals; if an informed trader saw a provisional March-to-date total of, e.g., 4.8 in, they could rationally price YES much higher. I could not retrieve such a provisional station figure from the NCEI web interface during this check, so I cannot rule out that traders have private/operational obs. That is a plausible reason the market might differ from naive climatology. ([ncdc.noaa.gov](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00024233/detail))
+
+5) EXPECTED VALUE CALCULATION (estimate of value in investigating / trading)
+- Strength of evidence that price is missing important public information: I estimate ~30%. Rationale: we have high-quality climatology and credible forecasts indicating enhanced rain risk; nothing I found demonstrates a clear, overlooked signal that would flip probability strongly. However, observation/operational data for month-to-date might exist and could materially change the posterior—so there is a nontrivial chance traders elsewhere already saw that. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+- Magnitude of plausible mispricing (if any): Small. Given climatology and contemporaneous AR forecasts, a rational market-implied probability for 5–6 in is plausibly in the 20–35% range. The market at 26.9% sits near the middle of that range. If a mispricing exists, it is likely small — I estimate at most ~5–10 cents (0.05–0.10) in one direction for a trader who can verify month-to-date observations; absent that extra observational advantage, the mispricing estimate is smaller. For calculating expected value, take a conservative midpoint: 5 cents (0.05 USD = 5¢) magnitude potential error.
+- Expected value = Strength × Magnitude = 30% × 5¢ = 1.5¢ (one and a half cents).
+  - Interpretation: investigating (or trading) based only on public climatology and forecasts yields a low expected edge; the only realistic way to gain a larger edge would be access to accurate, up-to-date provisional station/month-to-date totals that the broader market hasn’t priced. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+
+6) CONFIDENCE (single word)
+- I rate my confidence in the assessment as: low.
+  - Reason: the month is still in progress and the single most important missing data is the authoritative NOAA month-to-date total at the official “Seattle City Area” aggregation. That observational gap materially limits certainty. Also, low market volume raises ambiguity about how well-informed the current price is.
+
+FINAL QUICK CONCLUSIONS (concise)
+- The market price (26.9%) for “Seattle will have 5–6 in in March 2026” is broadly consistent with NOAA climatology (March mean ~4.17 in; median ~3.74 in; 75th percentile ~4.76 in) plus the mid-March AR signal that increases tail probability. I do not find clear, public evidence of a large mispricing.
+- The plausible mispricing (if present) is small (my working estimate ≲5–10¢), and the expected-value of exploiting public-information-only mispricing is low (~1.5¢). The only practical route to a bigger edge would be privileged access to accurate month-to-date observations (provisional station totals) or a convincing short-range forecast ensemble showing >1 in additional accumulation concentrated at the official measurement location — neither of which I could verify in the public NOAA interfaces at the time of analysis. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
+
+EXPECTED_VALUE: 1.5
+SUMMARY: The market price (26.9%) is broadly consistent with NOAA climatology (March mean ~4.17 in; median ~3.74 in; 75th pct ~4.76 in) plus mid‑March atmospheric‑river forecasts that increase upper‑tail chance. I found no clear public evidence of a large mispricing; any exploitable edge likely requires privileged/current month‑to‑date station totals. CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Seattle area braces for nearly two weeks of rain starting Friday - MyNorthwest.com
-Author: MyNorthwest Staff
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://mynorthwest.com/pacific-northwest-weather/seattle-area-rain/4212511
-Summary: Seattle is expected to experience nearly two weeks of continuous rain starting Friday, indicating a period of significant precipitation. While the article emphasizes ongoing and upcoming rainy weather, it does not specify total monthly rainfall amounts. Given the forecast of extended rainy days, there is a possibility that March could see substantial rainfall, potentially approaching or exceeding 5 inches. However, precise prediction of total March precipitation between 5 and 6 inches would require additional climate data and historical rainfall patterns for the region.
+### [Climate (NWS Western Region Headquarters) — Seattle WFO portal (NOWData / climate tools)](https://www.weather.gov/wrh/climate?wfo=sew)
+**Author:** National Weather Service (NWS) | **Published:** Unknown
 
-Title: Cliff Mass Weather Blog: Could it be True?  Lowland Snow in March?
-Author: Posted by
- 
- 
- 
- Cliff Mass Weather Blog
-Published Date: 2026-03-06T00:00:00.000Z
-URL: https://cliffmass.blogspot.com/2026/03/could-it-be-true-lowland-snow-in-march.html
-Summary: The blog discusses the unusual possibility of lowland snow in Seattle during mid-March, driven by some weather models predicting several inches of snow, though with significant uncertainty and disagreement among models. Historically, significant snow in Seattle diminishes after early March, making substantial late-season snow unlikely. Current temperature forecasts indicate only cool conditions, not cold enough for heavy lowland snow, with onshore Pacific flow further reducing the likelihood. Most models, including UW and European predictions, suggest minimal lowland snowfall, contrasting with some overestimations by the GFS model. Regarding March precipitation, while the blog emphasizes snow predictions, it does not specify total rainfall amounts. However, given typical March weather patterns and the models' indications, Seattle's total precipitation for March is likely to be within normal ranges, but specific amounts (such as between 5 and 6 inches) would require further detailed forecast data.
+This NWS Western‑Region climate portal is the public interface referenced by the market for selecting “Monthly summarized data” and the “Seattle City Area” precipitation variable (the market points traders to this exact tool for resolution). It lists the climate products (NOWData, Preliminary Monthly Climate Data CF6, Monthly Weather Summary CLM) and serves as the official NWS front-end that links to NOAA/NCEI climate data. Relevance: confirms the market’s stated resolution source and shows where final NOAA monthly figures will appear; explains that finalized monthly figures are NWS/NOAA products and are only available after month completion. This supports the conclusion that the month is not yet resolvable and that traders must rely on provisional/operational data and forecasts. ([weather.gov](https://www.weather.gov/wrh/climate?wfo=sew))
 
-Title: Showers in Seattle this week, followed by a cooldown | FOX 13 Seattle
-Author: Abby Acone
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.fox13seattle.com/weather/seattle-weather-showers-week-cooldown?taid=69aa2393404f690001cb0bae
-Summary: Seattle's weather forecast for March indicates predominantly light and scattered rainfall, with no mention of heavy or sustained precipitation totals approaching 5 to 6 inches. The upcoming week features intermittent showers, rising snow levels limiting mountain snow, and milder overnight lows in the 40s. Overall, rainfall is expected to be on the lighter side, making it unlikely that Seattle will receive between 5 and 6 inches of precipitation this month.
+### [Summary of Monthly Normals, 1991–2020 — SEATTLE TACOMA INTL AP (USW00024233) (PDF)](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233)
+**Author:** National Centers for Environmental Information (NCEI), NOAA | **Published:** 2026-03-17 (generated)
 
-Title: As global warming is heating up Seattle, WA in the years to come will the rainy weather change or just become a warmer rainy city? - Quora
-Author: 
-URL: https://www.quora.com/As-global-warming-is-heating-up-Seattle-WA-in-the-years-to-come-will-the-rainy-weather-change-or-just-become-a-warmer-rainy-city
-Summary: The webpage primarily offers tips on financial savings, insurance, online shopping, real estate investing, and debt management, with no direct information related to weather patterns or climate predictions. Therefore, it does not provide relevant data to predict whether Seattle will receive between 5 and 6 inches of precipitation in March.
+Official NCEI PDF of 1991–2020 monthly normals for Seattle–Tacoma Intl (the primary airport station and a key component of the Seattle City Area composites). It gives March mean precipitation = 4.17 in and lists probability/quantile levels (25th/50th/75th ≈ 2.76 / 3.74 / 4.76 in). Relevance: provides the authoritative climatological baseline showing March 5–6 in is above the 75th percentile but within historical variability; this is a central load-bearing fact for judging whether a ~27% market probability is reasonable. ([ncei.noaa.gov](https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&endDate=9996-12-31&format=pdf&startDate=0001-01-01&stations=USW00024233))
 
-Title: March 2026 Daily Weather Forecast for Seattle, Washington – Plan Ahead
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.weathertab.com/en/c/03/united-states/washington/seattle/
-Summary: The March 2026 weather forecast for Seattle indicates variable daily rainfall probabilities, with some days showing higher chances of precipitation (up to 79%) and others much lower (around 8%). While specific daily rainfall amounts are not provided, the forecast suggests a pattern of intermittent rain, typical for Seattle in spring. To estimate total monthly precipitation, consider the days with higher probabilities of rain and the overall climate trend. Based on historical data and the forecasted variability, it is plausible that Seattle could receive between 5 and 6 inches of precipitation in March, but precise accumulation would depend on the intensity and duration of rain on the days with higher rainfall probabilities.
+### [Daily Summaries Station Details: SEATTLE TACOMA AIRPORT, WA US (GHCND:USW00024233)](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00024233/detail)
+**Author:** National Centers for Environmental Information (NCEI), NOAA | **Published:** Unknown
 
+The station detail page for the Seattle–Tacoma Intl GHCND station (USW00024233) showing station metadata and data availability; in my view the page indicated data coverage and that public daily-summaries endpoint updates in some cases lag by several days (the station page showed an “End Date” entry reflecting early‑March coverage at the time I accessed it). Relevance: demonstrates how the official station product is the underlying data source for monthly summaries and explains why month‑to‑date totals and finalized monthly numbers may not be readily visible in a single, ready-made NOAA monthly file during the month — a key practical reason I could not definitively determine whether the market omitted a clear observational signal. ([ncdc.noaa.gov](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND%3AUSW00024233/detail))
 
+### [Late February Climate Outlook (March 2026 precipitation outlook mentioned) — University of Washington Climate Impacts Group](https://climate.uw.edu/2026/02/24/late-february-climate-outlook/)
+**Author:** Unknown (University of Washington Climate Impacts Group) | **Published:** 2026-02-24
+
+UW Climate summary discussing CPC monthly outlooks including a March 2026 precipitation outlook that showed elevated chances of above-normal precipitation in Washington State. Relevance: supports the claim that large‑scale climate/teleconnection outlooks at the start of March pointed toward increased precipitation risk for the region, which raises the prior probability of a wetter-than‑normal March and therefore increases the plausibility of the 5–6 in bucket versus a simple median‑based forecast. This evidence supports (but does not prove) a higher-than-median market probability. ([climate.uw.edu](https://climate.uw.edu/2026/02/24/late-february-climate-outlook/?utm_source=openai))
+
+### [Atmospheric rivers forecast to bring heavy rain and snow to the Pacific Northwest through mid‑March (The Watchers summarizing CW3E outlooks)](https://watchers.news/2026/03/10/atmospheric-rivers-forecast-to-bring-heavy-rain-and-snow-to-the-pacific-northwest-through-mid-march/)
+**Author:** Unknown (The Watchers; summarizes CW3E / AR outlooks) | **Published:** 2026-03-10
+
+Coverage summarizing CW3E atmospheric river outlooks and operational model guidance indicating two AR pulses targeting the Pacific Northwest beginning around March 10, with potential for heavy rainfall along the Washington coast and varying impacts inland including the Seattle area. Relevance: provides the operational meteorology context (AR pulses in mid‑March) that could materially increase month totals and thus rationally increase market-implied probability of the 5–6 in bin above pure climatology. It also highlights forecast uncertainty (track/intensity sensitivity), which tempers confidence in any single outcome. ([watchers.news](https://watchers.news/2026/03/10/atmospheric-rivers-forecast-to-bring-heavy-rain-and-snow-to-the-pacific-northwest-through-mid-march/?utm_source=openai))

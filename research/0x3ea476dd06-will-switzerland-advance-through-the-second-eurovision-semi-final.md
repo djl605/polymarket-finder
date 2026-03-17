@@ -1,85 +1,120 @@
 # Research: Will Switzerland advance through the second Eurovision Semi-Final?
 
 **Market ID:** 0x3ea476dd0635431970af63558e229118edecb5f696568e5e68700fe55ff1c4ac
-**Researched At:** March 11, 2026 at 04:20:32 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Switzerland advance through the second Eurovision Semi-Final?"
+**Researched At:** March 17, 2026 at 05:33:22 AM UTC
+**Search Query:** "Will Switzerland advance through the second Eurovision Semi-Final?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.5¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-There is no credible up-to-date rehearsal, running-order, or fan-poll data for Switzerland’s 2026 Semi-Final performance; the 55.5% price plausibly reflects her moderate profile and limited information. No clear mispricing stands out.
+Switzerland is officially in Semi‑Final 2 (May 14, 2026) with Veronica Fusaro’s song "Alice" (released March 11, 2026). Given credible artist/staging credentials but a crowded semi, the market’s 48% looks plausible; low volume means the displayed price may not reflect an informed consensus and could shift modestly after running‑order and rehearsal signals. I find no strong public evidence of a large (>20¢) mispricing today; a small mispricing (≈8¢) is plausible but uncertain (EV ≈ 3.2¢).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Switzerland’s entrant will finish in the top ten of the Second Semi-Final on May 14, 2026 (thus “advancing” to the Grand Final). A YES requires Switzerland to perform in Semi-Final 2 and rank among the ten highest-scoring entries. A NO occurs if they place 11th–last, withdraw, or the contest is canceled by June 30.
+Plan / search summary
+- I will use up to 3 web searches (as requested) to establish: (a) exact resolution rule and Switzerland’s semi assignment, (b) Switzerland’s selected artist/song and official broadcaster materials, and (c) market sentiment / bookmaker positioning and fan/press reactions that are relevant to whether Switzerland will qualify from Semi‑Final 2 on May 14, 2026.
+- Sources: eurovision.tv (official), SRF press kit (broadcaster), Swiss press (swissinfo), fan/press coverage (ESCXTRA, Eurovisionworld), and bookmaker/betting pages for market signals.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports >55.5%):  
-• Veronica Fusaro is an experienced recording artist with global concert experience and cross-genre appeal (pop/soul/rock), suggesting jury/audience strength.  
-• No indication of particularly strong field in Semi-2 yet.  
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Switzerland advance through the second Eurovision Semi‑Final?” (i.e., will Switzerland be one of the qualifying countries from Semi‑Final 2 on May 14, 2026).
+- How the market resolves YES vs NO: under the market’s resolution terms and the contest rules, Switzerland resolves to YES if its entry is among the top 10 qualifiers from Semi‑Final 2 (Eurovision’s standard rule — top 10 from each semi progress to the Grand Final). It resolves to NO if Switzerland is eliminated from that semi or if the competition does not take place / no contestants advance by the June 30, 2026 cutoff. The official Eurovision site is the primary resolution source. (Eurovision announced the Semi‑Final allocation and the top‑10-per‑semi rule. See sources.)
 
-Bearish (supports <55.5%):  
-• No performance/rehearsal reviews, running order, or early betting odds for 2026 Semi-2 exist; uncertain staging, televote or jury reception.  
-• Past reference articles and blog posts are about 2025 entries and thus not predictive of 2026 outcome.  
+2) EVIDENCE EVALUATION (all relevant evidence found)
 
-Credibility: only the Fusaro profile (03/07/26) is directly relevant and credible. Other sources are outdated (2025) or factually inconsistent (auto-qualification claim).
+Authoritative facts / context (high credibility, recent)
+- Switzerland is assigned to Semi‑Final 2 (first half) on Thursday, 14 May 2026 (official eurovision.tv semi‑final allocation draw). This matters because first‑half running order historically slightly reduces average televote visibility; the exact running order will be set by the end of March (so still an important unresolved variable). (eurovision.tv).  
+- Switzerland’s artist: Veronica Fusaro; official song: “Alice”, publicly released March 11, 2026; SRG SSR / SRF has published an official press kit describing the song, its theme, and the artist’s live credentials (press kit lists collaborators, lyrics, and the song’s theme). (eurovision.com story; SRF press kit; swissinfo).
 
-3. MARKET EFFICIENCY ANALYSIS  
-At 55.5%, the price likely reflects a modest edge for Switzerland based solely on artist profile and lack of contrary information. Low volume suggests few traders but also few obvious angles overlooked. No major rehearsal or fan-poll data has yet been released to move the price significantly.
+Evidence suggesting the market price (48%) might be incorrect (bearish for YES, i.e., evidence Switzerland might NOT qualify)
+- Semi composition is strong and crowded: Semi‑Final 2 includes multiple fan/bookmaker favorites (Armenia, Romania, Bulgaria, Czechia, Norway, Australia, Ukraine, others). With only 10 slots available, competition for televote/jury points is intense — that reduces the margin for borderline entries. (eurovision.tv semi list; coverage/polls).  
+- Early slot uncertainty: Switzerland is in the first half, and the running order is not yet finalized; items such as precise placement and staging can materially shift qualification chances. Early positions historically have slightly lower qualification probability, increasing uncertainty. (eurovision.tv line‑up note re running order).  
+- Fan reaction and early reviews are mixed-to‑polarized: fan forums and some reviews call the song more niche/indie and note lyrical/interpretive elements that may not be broad televote crowd‑pleasers; some fans express concern it could be borderline or an NQ. That suggests downside risk not trivially priced out. (ESCXTRA summarizing release; fan threads).  
+- Bookmaker outlook for outright win: aggregate odds show Switzerland is not among the top favorites to win the whole contest (longer odds on winning). While “to win” is different from “to qualify,” weak long‑odds can reflect market view that Switzerland is less likely to be broadly supported across Europe. (bookmaker aggregators / betting pages).
 
-4. MISPRICING ASSESSMENT  
-No strong evidence that the odds should be substantially higher or lower. There is as yet no performance feedback or insider info missing from the market. A large mispricing (>20¢) is highly unlikely.
+Evidence supporting the current market price as reasonable (bullish for YES)
+- Artist and staging credentials: Veronica Fusaro is an experienced live performer with festival history; SRF’s press kit highlights strong live creds, and eurovision.com notes the track is a produced “Eurovision version” and names experienced staging collaborators (Fredrik “Benke” Rydman is noted on fan sites as staging director for notable acts). Good staging and live performance often materially increases qualification chances. (SRF press kit; eurovision.com; Eurovisionworld).  
+- Switzerland’s recent qualification trend: Switzerland has had several recent qualifications (and hosted the 2025 contest), giving the broadcaster and delegation experience in selecting and staging competitive acts; this supports a middle‑probability baseline (i.e., not a clear underdog). (Eurovisionworld coverage and historical notes).  
+- Market uncertainty still legitimately high: running order, staging, rehearsals and live vocal quality (tickets/rehearsals will happen in early May) are unresolved and known to materially move probabilities. Bookmakers and professional bettors commonly wait for rehearsals. Given these known uncertainties, a near‑50% market price is consistent with genuine uncertainty rather than clear mispricing. (Betting pages note bettors wait for rehearsals and running order).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that something material is missing: 10%  
-Magnitude of mispricing (max guessable): 5¢  
-EV = 0.10 × 5¢ = 0.5¢
+Source credibility and recency
+- eurovision.tv (official EBU site): authoritative for allocation, rules, dates — posted 2026‑01‑12 (high credibility, primary).  
+- SRF press kit (official Swiss broadcaster document): primary source for artist/song/staging claims — dated early March 2026 in the press kit file (high credibility for details about the entry).  
+- swissinfo / ESCXTRA / Eurovisionworld: reputable news / fan‑press covering the announcement and reactions; useful for reception and fan sentiment but less authoritative than the broadcaster on technical details. (published 2026‑03‑11).  
+- Betting pages (Betsson / Betsafe / aggregator NicerOdds): credible for market sentiment and available markets; they show Switzerland is not a favorite to win outright — useful as a cross‑check for market consensus, not a direct predictor of semi qualification. (recent 2026 pages).
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: There is no credible up-to-date rehearsal, running-order, or fan-poll data for Switzerland’s 2026 Semi-Final performance; the 55.5% price plausibly reflects her moderate profile and limited information. No clear mispricing stands out.  
+Skepticism about “obvious” signals
+- If the song were clearly a guaranteed qualifier (or an obvious non‑qualifier), bookmakers, fan polls, or other betting markets would already show strong skew and liquidity. Instead, the data show mixed signals and several unresolved variables (running order, staging, rehearsals). That reduces confidence in any claim of glaring mispricing.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify a ~48% price:
+  - The market is pricing an even chance because: (a) the artist is credible and staging team experienced, (b) Switzerland sits in the first half but still among a set of countries that historically qualify, and (c) many key signals (running order, rehearsals, live vocal delivery) are unresolved. A near‑coin flip expresses meaningful upside and downside risk.
+  - Bookmakers and bettors typically wait for rehearsals to shift odds; the prediction market here has zero volume and a small spread — consistent with being unused/overlooked rather than actively price‑discovered by many traders.
+- Could the price reflect one or a few participants? Yes — the market has Total Vol = $0 and Age = 59d with a 6¢ spread and no trades; that strongly suggests the displayed price may simply be an initial posted probability or a quote, not aggregated from active trading. Low participation increases the chance that the price reflects a single opinion. That makes the price less reliable as a consensus forecast.
+- Why low volume? Likely because: (a) this specific contract is niche and small (novelty/event market), (b) other markets/bookmakers offer richer liquidity for Eurovision, and (c) many traders prefer to wait for rehearsals. The low volume does not necessarily indicate the price is wrong — it may just be untested/unpriced by active bettors.
+
+4) MISPRICING ASSESSMENT (weighing evidence)
+- Balanced view: I do not find clear, specific, and credible evidence that the current market price (48%) omits major publicly available information that would move the probability by a large amount (e.g., >20 percentage points). Key resolution‑relevant facts are known (semi assignment, artist/song release), while important variables (running order, staging and live rehearsals) remain unresolved and legitimately justify wide uncertainty. Bookmakers and fan polls show Switzerland is not a top favorite to win, but that is consistent with a mid‑range qualifier probability.  
+- Signs of possible mild mispricing: the market’s $0 volume and lack of engagement imply the displayed 48% may not reflect an informed consensus — it may just be a stale initial quote. Because of that, small inefficiencies are possible (a few cents to a dozen cents) if an informed actor acts on staging or running order information later. However, no current source shows a decisive, public piece of information that would confidently justify a large (>20¢) divergence from 48%.  
+- Critical check: I re‑confirmed the exact resolution criterion (top 10 from Semi‑Final 2) on the official eurovision site and the semi assignment for Switzerland; I checked SRF primary materials and multiple reputable outlets for song release and reaction. I do not see a technicality (e.g., Switzerland disqualified, or an earlier public vote making the outcome certain) that would invalidate the market or justify a large immediate trade against 48%.
+
+5) EXPECTED VALUE CALCULATION
+- My judgment of the evidence strength (how likely the missing/overlooked info would change price materially): ~40% (there are plausible pieces of information — running order or rehearsal staging — that could move the market, but absent those, public evidence is mixed).  
+- My estimate of realistic magnitude of mispricing if there is one: about 8 cents (i.e., the market could be off by ~8 percentage points either direction once rehearsals/placement/staging are revealed). I judge a larger mispricing unlikely from currently available public information.  
+- Expected value = Strength × Magnitude = 0.40 × 8¢ = 3.2¢.
+
+6) CONFIDENCE
+- Overall confidence in this assessment: medium. The main reason for medium (not high) is that key outcome drivers (running order and rehearsals) are still unresolved and will materially change probabilities; the reason not to choose low is that the evidence (official assignment, official press kit, bettors’ current orientation) provides a reasonably well‑grounded baseline.
+
+Conclusion (short)
+- The market price of 48% is plausible given currently available public information: Switzerland has an experienced performer and staging team, but the semi is crowded and Switzerland is in the first half; bookmakers/fan sentiment do not strongly favor Switzerland. The market’s zero trading volume and small spread indicate the price likely reflects little active aggregation — the contract is illiquid and could move after rehearsals or running‑order info. I do not find convincing, specific public evidence that the contract is mispriced by a large amount now; modest mispricing (a few to ~8¢) is possible but uncertain.
+
+EXPECTED_VALUE: 3.2
+SUMMARY: Switzerland is officially in Semi‑Final 2 (May 14, 2026) with Veronica Fusaro’s song "Alice" (released March 11, 2026). Given credible artist/staging credentials but a crowded semi, the market’s 48% looks plausible; low volume means the displayed price may not reflect an informed consensus and could shift modestly after running‑order and rehearsal signals. I find no strong public evidence of a large (>20¢) mispricing today; a small mispricing (≈8¢) is plausible but uncertain (EV ≈ 3.2¢).
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Switzerland's Nemo wins Eurovision Song Contest
-Author: AFP
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://timesofmalta.com/article/switzerland-nemo-wins-eurovision-song-contest.1092320
-Summary: Switzerland's Nemo won the Eurovision Song Contest with their song "The Code," receiving the highest scores from juries and public votes in the final held in Malmö, Sweden. Nemo's victory was notable as they are the first non-binary artist to win Eurovision. The event was marked by political controversy, particularly surrounding Israel's participation amid the Gaza war protests. While Nemo's win highlights their rising prominence, there is no specific information about Switzerland's prospects in the upcoming second semi-final, such as their previous semi-final performance or qualification status. Therefore, based on this summary, it is unclear whether Switzerland will advance through the second semi-final.
+### [Semi‑Finals Lineup Confirmed for 70th Eurovision Song Contest](https://www.eurovision.com/newsroom/release/vienna-2026-semi-final-lineups-drawn/)
+**Author:** Eurovision Song Contest / European Broadcasting Union (EBU) | **Published:** 2026-01-12
 
-Title: Swiss ESC hopeful: From pyjamas to the biggest performance of her life - that's Veronica Fusaro | blue News
-Author: 
-Published Date: 2026-03-07T00:00:00.000Z
-URL: http://bluewin.ch/en/entertainment/blue-music/from-pyjamas-to-the-biggest-performance-of-her-life-thats-veronica-fusaro-3131078.html
-Summary: Veronica Fusaro, a talented Swiss singer from Thun, will represent Switzerland at the Eurovision Song Contest 2026 in Vienna. She is set to perform her song for the first time on March 11 during the second semi-final on May 14, where she aims to qualify for the final. Fusaro has a strong musical background, having released two albums and performed over 500 concerts worldwide, with a style that blends pop, soul, and rock. Her performance is highly anticipated, and her success in advancing through the semi-final will depend on her appeal to the voting audience and jury.
+Official Eurovision newsroom release listing the Semi‑Final allocation draw for Vienna 2026. It shows Switzerland placed in Second Semi‑Final (14 May 2026), first half, and states the top‑10‑per‑semi qualification rule and that the precise running order will be determined later. This is the primary resolution‑rule source: qualification requires being among the top 10 of Semi‑Final 2 — data that directly defines what must happen for the market to resolve YES vs NO. It also explains running‑order timing, a key unresolved variable affecting probability.
 
-Title: Germany Participates in Second Eurovision Semi-Final Voting
-Author: The Eye Newspapers
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://themunicheye.com/germany-votes-eurovision-second-semi-final-8965
-Summary: Switzerland, the previous year's Eurovision winner, has secured a spot in the grand final and will not participate in the semi-final voting. The country automatically qualifies for the final, which takes place on May 15 in Basel. Therefore, Switzerland's advancement is already assured, and it will not be competing in the semi-final to qualify.
+### [Veronica Fusaro releases Switzerland's song for Vienna](https://www.eurovision.com/stories/veronica-fusaro-releases-alice-switzerland-vienna-2026/)
+**Author:** Eurovision Song Contest (newsroom) | **Published:** 2026-03-11
 
-Title: Escnation Blog: Semi 1 - Dress rehearsal 3 + Predictions
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://escnation-live.blogspot.com/2025/05/semi-1-dress-rehearsal-3-predictions.html
-Summary: The final dress rehearsal for Eurovision Semi 1 showcased varied performances, with Switzerland's act described as mesmerizingly beautiful in parts but inconsistent overall, suggesting some visual appeal but potential technical or staging limitations. Camerawork ranged from stunning to underwhelming, and the performance appeared to lack the polish of more confident acts. Given these observations, Switzerland may face challenges in standing out enough to secure advancement through the second semi-final.
+Eurovision’s official story announcing Veronica Fusaro’s song "Alice" (released 11 March 2026), with background on the artist, song theme, and the fact this is a revised version designed for Eurovision. This confirms the official song and release date, and provides context about the song’s style and the delegation’s framing — important inputs for assessing televote/jury appeal and why initial market uncertainty is reasonable.
 
-Title: Häppchen vom Eurovision Song Contest: Heute: 2. Halbfinale des Eurovision Song Contest 2025!
-Author: 
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://www.eurofire.me/2025/05/heute-2-halbfinale-des-eurovision-song.html
-Summary: Switzerland's entry, Abor & Tynna with "Baller," is competing in the second Eurovision Song Contest semi-final in Basel. The semi-final features 16 countries, including Switzerland, with voting solely by the audience via SMS, app, or online. The top ten countries with the most points will qualify for the final. Since the voting is based on audience preference and Switzerland's performance is part of this competitive process, whether Switzerland advances depends on its reception by viewers during the semi-final.
+### [Veronica Fusaro — SRF press kit (Veronica Fusaro: ALICE — press kit PDF)](https://medien.srf.ch/documents/20142/0/260310_SRF_Veronica_Fusaro_Presskit_ESC_2026_DEF_DE.pdf/80bafd02-aa25-9f07-f274-597d486b3c97?download=true&t=1773151995178)
+**Author:** SRF (Swiss Radio and Television) / Swiss broadcaster press office | **Published:** 2026-03-10
 
+The official Swiss broadcaster press kit for Veronica Fusaro’s Eurovision entry includes song theme and lyrics, production credits (co‑writer/producer Charlie McClean), artist biography and performance credentials (hundreds of live shows), and contact info for the Swiss delegation. This primary document supports the bullish case (strong live performer, professional production) and is a trustworthy source for what the broadcaster believes will play well at Eurovision.
 
+### [Veronica Fusaro to perform ‘Alice’ for Switzerland at Eurovision](https://www.swissinfo.ch/eng/various/veronica-fusaro-to-perform-alice-for-switzerland-at-eurovision-2026/91081900)
+**Author:** Keystone‑SDA / swissinfo.ch | **Published:** 2026-03-11
+
+Swiss national news coverage reporting the broadcaster’s announcement and summarizing the song’s themes, production background, and the fact Switzerland will perform in the second semi‑final on May 14. This independently confirms the broadcaster’s release and highlights domestic press reception; it's useful to gauge national media tone (largely factual / supportive) and to confirm semi assignment.
+
+### [Veronica Fusaro releases Eurovision 2026 entry ‘Alice’](https://escxtra.com/2026/03/11/veronica-fusaro-releases-eurovision-2026-entry-alice/)
+**Author:** Lisa Bird (ESCXTRA) | **Published:** 2026-03-11
+
+Fan‑press coverage of the song release with a short review and context (music video release, artist background). ESCXTRA is a well‑known fan media outlet that captures early fan reaction and provides an early read on whether the song is resonating with Eurovision fandom; the coverage shows mixed but engaged reaction, which matters because fan sentiment and early polls can influence late market moves even if they don’t decisively determine qualification.
+
+### [Eurovision Song Contest odds (aggregator / bookmaker listings)](https://m.nicerodds.co.uk/eurovision-song-contest-odds-2)
+**Author:** Nicer Odds (aggregator) | **Published:** 2026-03-03
+
+Aggregated bookmaker odds page showing outright winner odds and relative market positioning; as of early March 2026 it lists Switzerland well down the outright‑win market (long odds), indicating that while Switzerland can be a qualifier, markets are not treating it as a top favorite to win the contest. This helps interpret broader betting sentiment (not identical to “to qualify” odds, but informative about relative expectations and liquidity).
+
+### [Eurovision 2026 Odds and Pro Tips | Betsson (Eurovision betting markets & guidance)](https://www.betsson.com/en/sportsbook/music/international/eurovision-song-contest)
+**Author:** Betsson (sportsbook) | **Published:** 2026-03-XX (page updated March 2026)
+
+Bets/market page explaining the types of Eurovision markets available (including “To Qualify” markets) and noting that many professional bettors wait for running‑order and rehearsals because staging and live vocals shift odds. Usefully highlights that semi‑final betting behavior typically shifts during early May rehearsals; this supports the interpretation that current mid‑March uncertainty is legitimate and that prices can move materially after rehearsals.

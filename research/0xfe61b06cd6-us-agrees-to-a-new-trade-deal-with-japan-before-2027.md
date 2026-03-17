@@ -1,87 +1,110 @@
 # Research: U.S. agrees to a new trade deal with "Japan" before 2027?
 
 **Market ID:** 0xfe61b06cd6643f489a4781a327cdf06bfd639e95151d938c801758a4bea41b73
-**Researched At:** March 10, 2026 at 04:17:44 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: U.S. agrees to a new trade deal with "Japan" before 2027?"
+**Researched At:** March 17, 2026 at 05:34:47 AM UTC
+**Search Query:** "U.S. agrees to a new trade deal with "Japan" before 2027?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 2.1¢
 
 ### Summary
 
-Despite USTR intent, no formal Japan negotiations have begun and reporting shows only tariff‐maintenance talks under the 2022 deal, making an FTA by end-2026 unlikely. The market’s 18.5% likely overstates the probability by about 8 cents.
+Official U.S. sources (White House, Commerce) describe a high‑profile July 2025 U.S.–Japan framework and the administration implemented many provisions by executive order/proclamation; but CRS and legal analyses show those executive actions are not the same as Congress enacting implementing legislation or a treaty ratification. Given the market’s requirement that the agreement “becomes law” by Dec 31, 2026, the current 15.5% price appears reasonable and I find no strong evidence of large mispric
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the U.S. will have a new, legally binding free‐trade agreement with Japan enacted into U.S. law by Dec 31, 2026. A “Yes” requires that an agreement be negotiated, signed, and then either ratified by the Senate (as an FTA treaty) or passed as a Congressional‐Executive Agreement and signed by the President by the deadline. Otherwise it resolves “No.”
+Planned approach and result (budget used: 3 web searches). I searched primary sources (White House, Commerce, CRS) and reputable reporting/analysis to answer: has a U.S.–Japan free trade agreement been enacted into U.S. law (i.e., would this market resolve YES) by Dec 31, 2026? Below is a structured, evidence‑based assessment.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence (increasing probability):  
-• USTR statement (Mar 3 2026) of intent to pursue binding Agreements on Reciprocal Trade with Japan, reducing barriers and enforcing reciprocity.  
-• Strategic alignment on digital services, agriculture, critical minerals and energy projects (multi‐billion‐dollar initiatives) could accelerate negotiations.  
+1) CONTEXT ANALYSIS
+- What the market asks: “U.S. agrees to a new trade deal with 'Japan' before 2027?” The market’s own resolution rule: it resolves YES only if a free‑trade agreement with Japan “becomes law in the United States by December 31, 2026, 11:59 PM ET.” That means either (A) a treaty ratified by the U.S. Senate or (B) a Congressional‑Executive Agreement (implementing legislation passed by both Houses and signed by the President) must be enacted into U.S. law by that date.
+- What would need to happen for YES: Congress must enact implementing legislation or the Senate must provide two‑thirds advice & consent for a treaty (or Congress must pass and President sign a Congressional‑Executive Agreement). Executive Orders, memoranda, or proclamations alone do NOT meet the market’s “becomes law” criterion unless Congress has also enacted implementing legislation.
 
-Bearish evidence (decreasing probability):  
-• No negotiations with Japan have formally begun (USTR says “not yet underway”).  
-• Multiple news articles (Mar 7 2026 Japan Times, Reuters, Mainichi) describe Japan seeking to avoid unfavorable tariffs under existing 2022 deal, not negotiating a new FTA.  
-• The “historic trade deal” reported Feb 2025 appears to be an investment package, not an FTA requiring Senate/legislative approval under congressional rules.  
-• Typical FTA negotiation through ratification takes multiple years; domestic political resistance and tariff disputes further slow progress.  
+2) EVIDENCE EVALUATION (all sources searched are listed below)
+A. Evidence that might suggest the market price (15.5%) is too low
+- The White House and Commerce Department present the July 2025 U.S.–Japan framework/agreement as a major trade and investment deal with concrete commitments (tariff framework, $550B investment pledge) and the administration issued executive actions to “implement” parts of it. These official releases are strong signals the executive branch considers a deal in place and has taken legal steps (EOs/proclamations) to operationalize tariff changes and investments; a casual reader could reasonably conclude the U.S. and Japan “have a deal.” (This argument would push some traders to price a higher probability that the market resolves YES if they (incorrectly) interpret executive implementation as “becomes law”.)
+B. Evidence supporting the market price as reasonable (and possibly low)
+- Congressional Research Service (CRS) and other legal/analysis pieces: the July 2025 U.S.–Japan package has been implemented largely via executive authority (presidential proclamation / executive order under national‑security / IEEPA / Section 232 authorities) and is best characterized in official and CRS analyses as a framework or executive agreement rather than a full FTA enacted by Congress. CRS explicitly notes administration reliance on proclamation/EO authority and that many elements are being implemented without congressional implementing legislation. That means, under the market’s stated resolution criteria, the deal as implemented so far would not meet the “becomes law” test.  
+- Reporting and legal analysis show important limits and continuing open issues: (1) the agreement’s coverage is narrower than a typical modern FTA (largely tariffs and specific commitments), (2) key implementation steps (tariff changes, rules of origin, quota modifications) rely on executive authorities that are legally contested or limited, and (3) Congress has discussed oversight and potential legislation; none of the searched primary sources show Congress enacting implementing legislation into law for the U.S.–Japan agreement by early 2026. These facts support a low probability that the market should resolve YES by Dec 31, 2026.
+C. Credibility and recency
+- Primary executive branch sources (White House, Commerce Dept.) are authoritative about the administration’s position and actions (recent: July 2025 announcement; EO/regulations Sept 2025; Commerce fact sheet Feb 17, 2026).
+- CRS / Congress.gov are highly credible and nonpartisan analyses of legal and congressional implications (recent and directly relevant).
+- Independent reporting (AP, The Diplomat, Chambers practice guide, law‑firm analysis on JDSupra) corroborates the executive actions and highlights limits/uncertainties. These are recent (July 2025–Feb 2026) and directly relevant.
+D. Skeptical check (why the market may already price this in)
+- If the executive branch has already implemented most practical effects via EO/proclamation, that might appear to make the deal effectively “in force” for businesses — but the market’s resolution rule is legal (becomes law). Traders knowledgeable about U.S. constitutional procedure and CRS commentary would discount executive implementation as insufficient for the market’s criterion. That explains why traders might keep probability low even if the administration touts a “deal.”
 
-Source credibility and recency: All items are from credible outlets in Mar 2026. None report a formal negotiating mandate, draft text, or legislative push toward FTA status.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the ~15% price:
+  - The market is correctly pricing the low probability that Congress will pass implementing legislation (or the Senate will ratify a treaty) by Dec 31, 2026, given the administration’s choice to implement via executive authority, Congress’s skepticism/oversight, and legal uncertainty about using IEEPA/Section 232 to alter tariff regimes.
+  - Alternatively, the price could reflect a small chance of a late congressional push (e.g., an administration proposal to Congress or an ex‑post implementing bill) that succeeds in 2026.
+- Could the price reflect a single/few traders? Market metrics show low total volume ($4,025) and narrow spread (5¢). Low volume means the price could reflect the views of a few active participants rather than broad information aggregation; however, the narrow spread suggests some apparent confidence among the few participants. Given the public, high‑quality information (White House, CRS) that directly addresses the legal status, informed traders probably know the resolution hinge (law vs EO), so the low price plausibly reflects informed consensus rather than pure attention neglect.
+- Why low volume? Possible reasons: (a) the outcome is legal/technical (not a simple “will they sign?”) and many traders correctly see it as unlikely; (b) the market’s resolution standard (must be law) is granular and discourages trading; (c) the subject was already widely covered by official statements, leaving little informational edge for bettors.
 
-3. MARKET EFFICIENCY ANALYSIS  
-An 18.5% price could reflect a judgment that formal talks will commence this year and conclude rapidly, then clear Congress. But given zero trading volume, this price may simply reflect one or two optimistic traders. No broad traction among informed participants suggests the price could be set by overconfidence rather than genuine consensus.
+4) MISPRICING ASSESSMENT
+- Bottom line: I find no credible evidence that the market is substantially mispriced. The clearest evidence (White House/Commerce fact sheets) shows a high‑profile executive framework—but under the market’s rules that is not the same as a law enacted by Congress or a ratified treaty. CRS/legal analyses explicitly flag that the administration implemented the framework using executive authority rather than seeking Congress’s implementing bill.
+- What would be necessary to conclude meaningful mispricing (> ~10–20 cents): clear, credible evidence that Congress had in fact enacted implementing legislation (or the Senate had ratified a treaty) by Dec 31, 2026 — or very strong, near‑certain signals that Congress would pass an implementing bill in 2026. I did not find such evidence in the material I searched.
+- Minor caveat: Some traders may misread executive actions as “deal = law” (or expect ex‑post Congressional approval), which could produce a small underpricing (a few cents). But that is a modest effect and does not justify claiming a large mispricing.
 
-4. MISPRICING ASSESSMENT  
-Given the lack of any formal talks, no draft agreement, and the multi-year historical timeline for FTAs, a sub–10% probability seems more plausible. The market’s 18.5% probably overstates the chance by roughly 8 cents. There is no evidence of a near-term legislative push or negotiation endpoint.
+5) EXPECTED VALUE CALCULATION (EV of investigating/trading on this)
+- Strength of evidence that something material is missing from the market price: 35% (there is a plausible small chance that Congress will enact implementing legislation in 2026 or that traders have misread EOs as sufficient).
+- Magnitude of a plausible mispricing if I’m correct: ~6 cents (i.e., difference between market's 15.5% and an objective probability ~21.5%).
+- Expected value = 35% × 6 cents = 2.1 cents.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is too high: ~50% (moderate).  
-Estimated mispricing magnitude: ~8 cents.  
-Expected value = 0.50 × 8 cents = 4 cents.
+6) CONFIDENCE IN ASSESSMENT
+- I assign: medium confidence. Rationale: evidence is recent and from authoritative sources (CRS, White House, Commerce), but the legal/political process is dynamic and outcomes before Dec 31, 2026 could change if Congress acts late — that uncertainty prevents higher confidence.
 
-EXPECTED_VALUE: 4.0  
-SUMMARY: Despite USTR intent, no formal Japan negotiations have begun and reporting shows only tariff‐maintenance talks under the 2022 deal, making an FTA by end-2026 unlikely. The market’s 18.5% likely overstates the probability by about 8 cents.  
+CRITICAL CHECK (self‑challenge)
+- I checked the market’s exact resolution condition (requires becoming law). The executive actions and EOs visible in primary sources do not meet that criterion by themselves. There is no credible public record (in the material searched) of Congress enacting implementing legislation for a U.S.–Japan FTA by early 2026. Given that, the market’s low probability is defensible and I see no solid basis to assert a large mispricing. If you think the market is wildly wrong, the most likely overlooked possibility would be very recent private negotiations and an imminent implementing bill — but I found no reporting or congressional record indicating such a bill had passed or was certain.
+
+EXPECTED_VALUE: 2.1
+SUMMARY: Official U.S. sources (White House, Commerce) describe a high‑profile July 2025 U.S.–Japan framework and the administration implemented many provisions by executive order/proclamation; but CRS and legal analyses show those executive actions are not the same as Congress enacting implementing legislation or a treaty ratification. Given the market’s requirement that the agreement “becomes law” by Dec 31, 2026, the current 15.5% price appears reasonable and I find no strong evidence of large mispricing — only a small (few‑cent) possible edge if Congress unexpectedly passes implementing legislation.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: USTR Seeks Binding Trade Deals With Korea, Japan, EU - Seoul Economic Daily
-Author: Park Min-Ju
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://en.sedaily.com/international/2026/03/04/ustr-seeks-binding-trade-deals-with-korea-japan-eu
-Summary: The USTR is actively pursuing the upgrade of trade frameworks with key partners, including Japan, into legally binding Agreements on Reciprocal Trade (ARTs). While negotiations with Japan are not yet underway, the USTR has indicated a strong intent to negotiate such binding agreements with multiple countries, including Japan, to reduce tariffs and non-tariff barriers, and to address issues like digital services discrimination and agricultural trade barriers. The U.S. aims to enforce these agreements to ensure reciprocal market access and to bolster manufacturing and export sectors. Given the USTR's recent efforts and commitments, there is a possibility that a binding trade deal with Japan could be negotiated and finalized before 2027, especially if the U.S. continues to prioritize reducing trade deficits and expanding market access.
+### [Fact Sheet: President Donald J. Trump Secures Unprecedented U.S.–Japan Strategic Trade and Investment Agreement](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-secures-unprecedented-u-s-japan-strategic-trade-and-investment-agreement/)
+**Author:** Unknown (The White House) | **Published:** 2025-07-23
 
-Title: Japan asks U.S. not to treat it unfavorably under new tariffs - The Japan Times
-Author: Francis Tang
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://www.japantimes.co.jp/business/2026/03/07/economy/japan-us-trade-chiefs-talk/
-Summary: The article reports that Japan has requested the United States not to treat it unfavorably under new tariffs, highlighting ongoing trade negotiations and concerns over tariff policies. While specific details about a new trade deal are not provided, the emphasis on Japan's appeal suggests active diplomatic efforts to maintain favorable trade relations. This context indicates that Japan is seeking to prevent adverse tariff measures, which could be relevant when assessing the likelihood of a new trade agreement being reached with the U.S. before 2027.
+The White House fact sheet describes the July 2025 U.S.–Japan “strategic trade and investment agreement,” including a 15% reciprocal tariff framework, market‑access commitments (rice, aircraft, energy), and a $550 billion Japanese investment pledge. This source shows the administration’s public case that a major U.S.–Japan deal exists and that executive actions will implement it — relevant because traders might conflate executive implementation with “becomes law.” However, it does not show congressional enactment, and therefore does not by itself satisfy the market’s legal resolution criterion.
 
-Title: Historic Trade Deal With Japan
-Author: 
-Published Date: 2026-02-20T00:00:00.000Z
-URL: https://editorials.voa.gov/a/historic-trade-deal-with-japan/8115867.html
-Summary: The article reports that the U.S. has recently signed a historic trade deal with Japan, announced by President Trump on February 18, 2025. The agreement involves Japan committing $550 billion to U.S. investments, with initial projects totaling $36 billion in sectors like power generation, oil and gas, and advanced manufacturing. Key projects include building the largest natural gas power plant in Ohio, a deepwater crude oil export facility in the Gulf of America, and establishing domestic synthetic industrial diamond manufacturing. This deal aims to strengthen U.S.-Japan economic ties, enhance energy security, and promote mutual growth. Given the timing of the announcement and the scope of commitments, it is highly likely that the agreement was finalized before 2027.
+### [Implementing The United States–Japan Agreement (Presidential Action)](https://www.whitehouse.gov/presidential-actions/2025/09/implementing-the-united-states-japan-agreement/)
+**Author:** Unknown (The White House) | **Published:** 2025-09-05
 
-Title: Japan asked US not to disadvantage Tokyo under new tariff rules | Reuters
-Author: Makiko Yamazaki
-Published Date: 2026-03-07T00:00:00.000Z
-URL: http://reut.rs/3OWBJwW
-Summary: Japan has requested assurances from the U.S. that its goods will not be disadvantaged under recent tariff measures, specifically seeking to prevent a potential 15% tariff from being applied to Japanese imports. During a meeting in Washington, Japan's trade minister emphasized the importance of maintaining favorable treatment under the current trade agreement, which set a baseline 15% tariff on most Japanese imports, down from higher previous rates. Both countries reaffirmed their commitment to last year's trade deal, despite the U.S. imposing a new 10% blanket tariff that could rise to 15%, creating uncertainty about future trade relations. Discussions also covered Japan-U.S. cooperation on energy, critical minerals, and investment projects, including nuclear power initiatives and energy-related investments. These developments suggest ongoing negotiations and efforts to preserve favorable trade terms, but there is no explicit indication of a new comprehensive trade deal being agreed upon before 2027.
+This Presidential Action (executive order / implementing proclamation) explains how the administration used executive authority to put key tariff provisions and monitoring mechanisms into effect and describes processes the Commerce Secretary and other agencies will follow. It is directly relevant because it documents the executive branch’s implementation steps — supporting the conclusion that much of the “deal” has been executed by EO/proclamation rather than by congressional implementing legislation.
 
-Title: Japan asks US not to slap higher tariffs in weeks before Takaichi's visit - The Mainichi
-Author: 
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://mainichi.jp/english/article/20260307/p2g/00m/0na/002000c
-Summary: Japan's industry minister Ryosei Akazawa urged the U.S. not to impose higher tariffs than those agreed upon in their 2022 trade deal, amid ongoing negotiations and preparations for Prime Minister Sanae Takaichi's upcoming visit to the U.S. in March 2026. Despite the U.S. Supreme Court invalidating some of President Trump's tariffs, the U.S. plans to implement a new 10% global tariff, with considerations to raise it to 15%. Japan has expressed its expectation to be treated in line with the July 2022 bilateral agreement, which included commitments for significant U.S. investments and tariff reductions. The two countries are actively collaborating on joint projects, including energy and AI infrastructure, indicating ongoing efforts to strengthen economic ties. This context suggests that while there is cooperation and adherence to existing agreements, the potential for a new comprehensive trade deal before 2027 remains uncertain, especially given the current tariff disputes and diplomatic negotiations.
+### [Fact Sheet: U.S. — Japan Trade Deal](https://www.commerce.gov/news/fact-sheets/2026/02/fact-sheet-us-japan-trade-deal)
+**Author:** U.S. Department of Commerce (Office of Public Affairs) | **Published:** 2026-02-17
 
+The Commerce Department fact sheet (Feb 17, 2026) lists project and investment announcements the department links to the administration’s U.S.–Japan agreement and describes expected economic effects and investments. This source corroborates executive‑branch claims of concrete deliverables under the framework but does not report any enactment of implementing legislation by Congress, which is the market’s necessary condition for YES.
 
+### [Trump announces trade deal with Japan that lowers threatened tariff to 15% (AP News)](https://apnews.com/article/trump-tariffs-japan-indonesia-philippines-6e1829cb570d945d13c00f07059a41d4)
+**Author:** Josh Boak (AP) | **Published:** 2025-07-23
+
+AP reporting on the July 2025 announcement summarizes the tariff terms (15% baseline), Japan’s stated commitments (investments, purchases), and that many details remained unclear. AP’s independent reporting corroborates the existence and headline terms of the framework but notes uncertainty in detail and potential consequences — supporting the view that a publicized executive framework exists but is not identical to a law enacted by Congress.
+
+### [U.S. Tariffs and the 2025 U.S.-Japan Framework Agreement (Congress.gov / CRS product IN12608)](https://www.congress.gov/crs-product/IN12608)
+**Author:** Congressional Research Service (CRS) | **Published:** 2026-02-?? (CRS product; posted 2026)
+
+CRS explains the legal and statutory mechanics behind the July 2025 framework: the administration implemented many provisions using proclamation/EO authorities (IEEPA / Section 232 / Section 103(a) of TPA), it describes specific tariff treatments, Japan’s investment MOU, and flags open legal and congressional oversight questions. This is a central source because it directly addresses whether the administration’s actions constitute an agreement “becoming law” — CRS shows they do not equate to congressional enactment and that Congress has been debating oversight and potential legislative responses.
+
+### [Japan Avoids 25 Percent Tariffs With Investment Pledge in Landmark US Trade Deal (The Diplomat)](https://thediplomat.com/2025/07/japan-avoids-25-percent-tariffs-with-investment-pledge-in-landmark-us-trade-deal/)
+**Author:** Thisanka Siripala | **Published:** 2025-07-26
+
+The Diplomat analyzes the July 2025 agreement’s strategic and economic elements: the tariff cap at 15%, the $550B investment pledge, sectoral commitments (autos, rice), and enforcement/monitoring mechanisms. It emphasizes that Japan’s concessions may be conditional and that U.S. tariff authority allows reversion if commitments are not met. The article supports the view that the framework has substantive executive‑branch effects but also underscores the conditional/administrative nature of those effects (not automatic statutory law).
+
+### [Analysis of the US‑Japan Trade Agreement (JDSupra/White & Case LLP)](https://www.jdsupra.com/legalnews/analysis-of-the-us-japan-trade-agreement-75697/)
+**Author:** White & Case LLP (posted on JD Supra) | **Published:** 2019-10-31 (analysis of the USJTA text and legal context; still relevant for interpretation of implementation mechanics)
+
+This legal analysis explains the US‑Japan Trade Agreement text, the limited scope of the “stage one” tariff/digital agreements, and the statutory constraints on presidential proclamation authority (Section 103(a) and TPA limits). It is relevant for understanding that tariff changes can be proclaimed under certain delegated authorities but that broader tariff or quota reductions often require implementing legislation — reinforcing why executive implementation may not satisfy the market’s “becomes law” criterion.
+
+### [International Trade 2026 - Japan (Chambers Practice Guides)](https://practiceguides.chambers.com/practice-guides/international-trade-2026/japan)
+**Author:** Chambers and Partners / contributing authors (Anderson Mori & Tomotsune) | **Published:** 2026-01-XX (page updated Dec 2025 / 2026 practice guide)
+
+This practice guide summarizes key 2025–2026 developments (including the July 2025 U.S.–Japan tariff/investment agreement), notes that the U.S. implemented changes via presidential order, and explains that some details remain ill‑defined. As a legal/practice guide it confirms the administration’s approach and warns practitioners to watch follow‑up regulations and funding guidelines — which supports the conclusion that much has been done administratively but not via congressional implementing statute.

@@ -1,84 +1,116 @@
 # Research: Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers?
 
 **Market ID:** 0xab66bc7bd374546d9f4469539d382d6b89fab47185e18b7a95e496cb417abc14
-**Researched At:** March 7, 2026 at 04:08:30 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers?"
+**Researched At:** March 17, 2026 at 05:41:25 AM UTC
+**Search Query:** "Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 5.0¢
+**Expected Value:** 12.7¢
 
 ### Summary
 
-Real-time observations point to historically low winter maxima, undercutting the plausibility of hitting 14.2–14.4 m km², yet generic forecasts keep the market elevated; a fair probability may be nearer to 50–55% rather than 62%. Volume is low and price likely reflects a small group’s view rather than broad consensus.
+NSIDC‑quoted daily data reported a Northern Hemisphere extent of about 14.22 million km² on March 10, 2026 — inside the market’s 14.2–14.4 Mkm² band — which argues the YES outcome is likely. The market’s 52% price appears modestly low relative to that evidence, but legitimate risks (a late‑March rise above 14.4, small NSIDC revisions, and inter‑dataset differences) mean the mispricing is moderate, not overwhelming.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the peak Arctic sea ice extent between November 20, 2025 and April 1, 2026 will lie between 14.2 and 14.4 million km². A YES means the single highest daily extent in that window, as reported by NSIDC to the nearest 0.001 million km², falls ≥ 14.200 and ≤ 14.400. A NO means the maximum falls outside that band (i.e., < 14.200 or > 14.400).
+Planned approach and quick summary of what I searched for
+- I looked for (1) the authoritative NSIDC daily/analysis pages and any NSIDC statement about the 2025–26 winter maximum, (2) contemporary news reports quoting NSIDC daily values for March 2026 (to see whether an Arctic maximum inside the market’s band has already been reported), and (3) commentary and alternative datasets (e.g., Zack Labe, Sea Ice Portal) to show measurement differences and typical year-to-year variability. Those items are the basis for the assessment below.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports YES≈62%):  
-- Firenzemeteo (Feb 26 2026) notes the 1981–2010 average max ≈15.5 m km², the 10-yr average slightly below that, and says a 14.2–14.4 range “could plausibly” occur, aligning with recent fluctuations. This is a broad seasonal-forecast site; it provides a sanity check but no strong probabilistic tilt.
+1) CONTEXT ANALYSIS
+- What the market asks: Will the maximum Arctic sea ice extent (Northern Hemisphere daily sea-ice extent in the NSIDC “NH‑Daily‑Extent” series) for any day between Nov 20, 2025 and Apr 1, 2026 be between 14.2 million km² and 14.4 million km² (inclusive as implied by the numeric bounds and the NSIDC daily value resolution to the nearest thousand km²)?
+- YES resolves if NSIDC’s Sea Ice Index “NH‑Daily‑Extent” maximum for any day in that window is ≥ 14,200,000 km² and ≤ 14,400,000 km².
+- NO resolves if the NSIDC max in that window is < 14,200,000 km² or > 14,400,000 km².
+- Practical implications: because the market uses the daily maximum in NSIDC’s NH‑Daily‑Extent table, if NSIDC has already reported (and will not later revise before Apr 1) a daily value inside the band, the YES outcome is already determined unless a later day before Apr 1 exceeds 14.4 or earlier reported values are revised.
 
-Bearish (argues NO <38%):  
-- Rick Thoman (Feb 25 2026), a recognized Arctic climate expert, reports daily sea ice “among the lowest on record” since early November, suggesting the winter maximum is “unlikely” to reach even 14.2 million km². His update carries more weight for real-time sea ice conditions than the generic seasonal-forecast page.
+2) EVIDENCE EVALUATION (all evidence recent, from March 2026 and authoritative sources)
+- Key factual findings from the searches:
+  - NSIDC is the official resolution source and publishes daily extent data and a spreadsheet tool (Sea Ice Today / Sea Ice Index daily files). (NSIDC Sea Ice Today / data tools). This is the authoritative source for resolution. (NSIDC pages show daily data files and a “min/max rankings” spreadsheet; NSIDC also warns growth/maximum announcements are preliminary until their full analysis.) ([nsidc.org](https://nsidc.org/sea-ice-today/sea-ice-tools))
+  - Multiple news outlets (AFP via Yahoo/Phys.org and others) reported that NSIDC data showed the Arctic maximum reached about 14.22 million km² on March 10, 2026. Those reports cite NSIDC daily data (news dated ~2026‑03‑11). If NSIDC’s daily NH‑Daily‑Extent recorded ≈14.22 Mkm² on Mar 10, that value falls inside the market band. ([yahoo.com](https://www.yahoo.com/news/articles/arctic-sea-ice-among-lowest-160256093.html?utm_source=openai))
+  - Recent history and variability matter: NSIDC’s 2025 seasonal maximum was 14.33 Mkm² (record‑low for a maximum) and NSIDC explicitly said such numbers are preliminary and weather can change the annual maximum. Alternative datasets (Sea Ice Portal, MASIE, JAXA) sometimes produce extent estimates that differ by a few 10^4–10^5 km². This demonstrates both a recent trend toward low maxima and non-negligible inter-dataset / day‑to‑day variability. ([nsidc.org](https://nsidc.org/news-analyses/news-stories/arctic-sea-ice-hits-record-low-maximum-extent-year?utm_source=openai))
+  - Independent analysts/commentators (Zack Labe et al.) tracked 2026 daily extents and showed that 2026 was anomalously low relative to the 1981–2010 baseline through early March, supporting the news reports that this winter’s max would be among the lowest on record. That context makes the 14.2–14.4 band a plausible range for the seasonal maximum. ([zacklabe.com](https://zacklabe.com/arctic-sea-ice-extentconcentration/?utm_source=openai))
 
-Other sources (AccuWeather weather snapshot, glacier firn study, NASA historical data book) are either irrelevant to seasonal maximum extent or too long-term/historical.
+- Evidence that would suggest the market price (52%) is too low (i.e., YES underpriced):
+  - If NSIDC’s daily table already recorded ≈14.22 Mkm² (Mar 10, 2026), then the outcome is already inside the target band. The only way the market resolves NO is if a later day (between Mar 11 and Apr 1) produces a daily extent > 14.4 Mkm² (or if an earlier day is revised below 14.2 Mkm²). Historical behavior shows that sea‑ice extent in March can still climb for days or weeks, but large late‑season rebounds >0.18 Mkm² (the gap between 14.22 and 14.4) are not the overwhelmingly typical outcome once mid-March values are in the low‑14 Mkm² range. NSIDC and multiple outlets reporting ≈14.22 therefore point toward YES being the likely final result, which suggests the 52% price may understate the market’s true probability of YES. ([yahoo.com](https://www.yahoo.com/news/articles/arctic-sea-ice-among-lowest-160256093.html?utm_source=openai))
+- Evidence that would justify caution or support the market price (i.e., that YES is not certain):
+  - NSIDC explicitly treats maximum announcements as preliminary and weather / late‑March conditions can change the annual maximum; 2025’s maximum occurred late (Mar 22) and was the record-low maximum, showing late‑March moves matter. Thus a market participant who wants to avoid overconfidence will price in a nontrivial chance of a late increase above 14.4 (or small data revisions). ([nsidc.org](https://nsidc.org/news-analyses/news-stories/arctic-sea-ice-hits-record-low-maximum-extent-year?utm_source=openai))
+  - Inter‑dataset differences and measurement algorithm choices (NSIDC vs. MASIE vs. JAXA vs. Sea Ice Portal) can differ by a few 10^4–10^5 km²; traders might discount publicly reported preliminary values because small methodological differences or nominal revisions could move the NSIDC NH‑Daily‑Extent across the 14.2 or 14.4 thresholds. That increases uncertainty for a narrow band like 0.2 Mkm². ([meereisportal.de](https://www.meereisportal.de/en/news-overview/news-detail-view/lowest-arctic-winter-sea-ice-extent-in-46-years?utm_source=openai))
+  - The market has low total volume (~$9.3k) and a tight spread (4¢). Low volume + tight spread can occur when a few traders with conviction set the price or when participants think the outcome is essentially a coin flip; either way it reduces liquidity and information aggregation compared to a high‑volume market.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 62% price could reflect the baseline that winter maxima historically exceed 14.2 and that traders doubt unprecedented lows.  
-- Low $1.8k volume and a 4¢ spread imply few active participants; the price may hinge on one or two opinions rather than a broad consensus.  
-- If the outcome truly seemed obvious, more volume or external commentary would likely exist; the mixed signals here may explain why volume remains low.
+- Source credibility & recency:
+  - NSIDC (Sea Ice Today, Sea Ice Index files) — authoritative source for the contract’s resolution; extremely high credibility for the measured numbers and their exact definitions. (Recent pages show the tool/data links and their intended use.) ([nsidc.org](https://nsidc.org/sea-ice-today/sea-ice-tools))
+  - AFP/Phys.org/Yahoo (news items quoting NSIDC) — mainstream press quoting the authoritative NSIDC dataset; credible as reporters of the NSIDC number (they cite NSIDC). Dates are March 10–11, 2026 (very recent). ([yahoo.com](https://www.yahoo.com/news/articles/arctic-sea-ice-among-lowest-160256093.html?utm_source=openai))
+  - Zack Labe (climate researcher/analyst) — respected independent tracker, useful for time‑series context and anomalies; recent updates through early March 2026. ([zacklabe.com](https://zacklabe.com/arctic-sea-ice-extentconcentration/?utm_source=openai))
+  - Sea Ice Portal / other datasets — useful for showing measurement spread and that a single daily extent is not universally identical across indices. Credibility: mixed but useful to show methodological dispersion. ([meereisportal.de](https://www.meereisportal.de/en/news-overview/news-detail-view/lowest-arctic-winter-sea-ice-extent-in-46-years?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-- Rick Thoman’s real-time insight is credible and suggests downside risk that could drive the probability below 50%.  
-- Firenzemeteo’s plausible scenario is too generic to counteract observed record-low readings, so the bullish case is weaker.  
-- The market at 62% seems to underweight the current anomalous low trend. A more balanced forecast might be around 50–55%.  
-- However, the exact magnitude of mispricing is uncertain—likely on the order of 10–15¢ rather than a blockbuster >20¢ swing.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current 52% price:
+  - Traders may be pricing in a meaningful chance (roughly 40–50%) that the NSIDC daily maximum will exceed 14.4 Mkm² later in March (or be revised away from the ~14.22 value) — i.e., the market is treating the Mar 10, 14.22 observation as preliminary and vulnerable to late increases or small revisions.
+  - Traders may also be explicitly discounting measurement/algorithm uncertainty around the 14.2 threshold; with daily values reported to the thousand km², the exact placement of the lower bound (14.200 vs. 14.199) and potential small revisions matter to the outcome.
+  - Another charitable interpretation: a few traders with heterogeneous priors (some convinced YES, some convinced NO) and low liquidity can produce a mid‑50% price even when public data favors YES. Low volume markets often reflect the actions of a small set of players rather than broad information aggregation.
+- Could the price reflect consensus? Possibly: because NSIDC daily values are public, most informed traders who follow this contract would have had access to the same data; if they still trade near 52% that could reflect a genuine consensus that the chance of a rise above 14.4 before Apr 1 is substantial. But the low volume suggests the consensus could instead be weak (few participants acting).
+- Is low volume because the outcome is obvious, or because traders haven’t engaged? Mixed signals:
+  - If NSIDC’s daily extent was already 14.22 on Mar 10, the outcome might be considered nearly decided by many — which would push price well above 52% — but the market’s 52% suggests traders are not certain (or are accounting for late uncertainty).  
+  - The low volume more plausibly reflects limited opportunities (narrow band, short time window) and that many traders prefer to wait until late March when the outcome becomes clearer. That increases the chance the current price is dominated by a small number of traders rather than a broad informed consensus.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (moderate confidence in Thoman’s bearish signal overruling the generic bullish scenario)  
-Magnitude of mispricing: 10¢ (market seems ~10 points too high)  
-Expected value = 50% × 10¢ = 5¢
+4) MISPRICING ASSESSMENT (weighing evidence)
+- Bottom line evidence synthesis:
+  - Strong, recent, authoritative evidence (NSIDC daily values quoted by multiple news outlets) indicates a daily value ≈14.22 Mkm² on March 10, 2026 — squarely inside the market’s target band. If that NSIDC daily value is recorded in the official NH‑Daily‑Extent table and is not subsequently exceeded by >14.4 before Apr 1, the market should resolve YES.
+  - The principal reasons the market might justifiably not be much higher than 52% are (a) legitimate chance of a late March increase >14.4 Mkm² (historically possible), (b) dataset and algorithm differences and possible minor revisions before April 1, and (c) the market’s low liquidity which can produce a mid‑price that doesn’t fully reflect the public data.
+- Critical check (if claiming a large mispricing): I examined resolution rules and the NSIDC as the stated source — the contract resolves to the NSIDC NH‑Daily‑Extent maximum in the stated window. That is exactly the public dataset reporters were quoting when they reported 14.22 Mkm² on Mar 10. The only ways I could be missing something are (1) NSIDC’s daily table was preliminary and NSIDC may later (before Apr 1) publish a higher daily value >14.4, (2) the market’s interpretation of inclusive/exclusive bounds or of rounding differs from my reading, or (3) traders are correctly pricing in a material revision risk or late rise. Those are real possibilities and reduce my confidence in declaring a very large (>20¢) mispricing without additional on‑the‑ground trades or a look at the NSIDC daily series directly (the contract’s exact resolution spreadsheet).
+- My assessment: the public evidence (NSIDC‑reported daily value ≈14.22 Mkm²) points to YES being the more likely outcome than NO. The market price at 52% seems low relative to that evidence if one treats the Mar 10 value as a near‑final maximum — but the legitimate (and non‑negligible) chance of a late rise or small revision means a non‑trivial NO probability remains reasonable. Overall I estimate the market underprices YES by a moderate amount (order of a couple of tenths), but this is not an overwhelming/definitive mispricing given the legitimate sources of late uncertainty.
 
-EXPECTED_VALUE: 5.0  
-SUMMARY: Real-time observations point to historically low winter maxima, undercutting the plausibility of hitting 14.2–14.4 m km², yet generic forecasts keep the market elevated; a fair probability may be nearer to 50–55% rather than 62%. Volume is low and price likely reflects a small group’s view rather than broad consensus.  
+5) EXPECTED VALUE CALCULATION (numeric)
+- My working estimated “true” probability of YES (given the evidence and acknowledging late‑March variability & measurement uncertainty): ~75%.
+  - Rationale: NSIDC‑quoted daily value ≈14.22 on Mar 10 (inside band) strongly favors YES; plausible chance (~20–30%) of a later day exceeding 14.4 or of other small technical revisions pushes true probability down from near‑certainty to ≈75%.
+- Market price: 52% (so implied mispricing magnitude ≈ 23 percentage points = 23 cents).
+- Strength of evidence (confidence that my estimate captures a meaningful piece of missing information the market hasn’t priced): ~55% (I am moderately confident NSIDC’s reported 14.22 should push the true probability well above 52, but I must respect legitimate revision and late variability risks).
+- Expected value = Strength × Magnitude = 0.55 × 23 cents ≈ 12.65 cents.
+- I will report this rounded to one decimal place as: 12.7 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- Confidence rating: medium.
+  - Reason: The assessment leans on authoritative, recent NSIDC‑based reports showing a daily value already inside the band, but there is real, non‑negligible uncertainty from late‑March variability and from inter‑dataset and small revision effects — and the market’s low liquidity raises the possibility that its mid‑price reflects idiosyncratic trader views rather than a failure to incorporate public data.
+
+EXPECTED_VALUE: 12.7
+SUMMARY: NSIDC‑quoted daily data reported a Northern Hemisphere extent of about 14.22 million km² on March 10, 2026 — inside the market’s 14.2–14.4 Mkm² band — which argues the YES outcome is likely. The market’s 52% price appears modestly low relative to that evidence, but legitimate risks (a late‑March rise above 14.4, small NSIDC revisions, and inter‑dataset differences) mean the mispricing is moderate, not overwhelming.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Arctic ice, update extent conditions and long range forecasts
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.firenzemeteo.it/en/seasonal-forecast/arctic-sea-ice-analysis-and-long-range-forecast.php
-Summary: The webpage provides an overview of Arctic sea ice extent, highlighting its seasonal fluctuations and recent trends. The Arctic sea ice reaches its maximum around March, with the 1981-2010 average maximum approximately 15.5 million km². In 2022, the maximum was about 14.88 million km², slightly below the historical average. The current ice extent is compared to both the 1981-2010 and recent 10-year averages, indicating ongoing variability. Given these patterns, the maximum extent for this winter could plausibly fall within the 14.2 to 14.4 million km² range, aligning with recent fluctuations and current conditions.
+### [Sea Ice Today — Data Tools (Sea Ice Index daily files and min/max spreadsheets)](https://nsidc.org/sea-ice-today/sea-ice-tools)
+**Author:** Unknown (National Snow and Ice Data Center) | **Published:** 2026-01-31 (page content shows last updated Oct 31, 2024 and ©2026 site year; dataset maintained continuously)
 
-Title: February 2026: Arctic Snow and Ice Update - by Rick Thoman
-Author: Rick Thoman
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://alaskaclimate.substack.com/p/february-2026-arctic-snow-and-ice
-Summary: As of late February 2026, Arctic sea ice extent is among the lowest on record, with multiple sources indicating it is at or near historic lows since 1978-79. Daily sea ice extent has remained close to record lows since early November. Snowpack across the Arctic shows variability, with some regions below median water equivalent and others above median, but these variations are less directly indicative of sea ice extent. Given the persistent low sea ice extent observed this winter, it is unlikely that the maximum Arctic sea ice extent will be within the 14.2 to 14.4 million square kilometers range, as current data suggest a significantly lower overall extent.
+NSIDC’s Sea Ice Today “Data Tools” page points to the official Sea Ice Index daily extent spreadsheet (Sea_Ice_Index_Daily_Extent_G02135_v4.0.xlsx) and the Min/Max Rankings workbook that the market specifies as its resolution source. It documents that NSIDC provides daily NH‑Daily‑Extent values (with thousand‑km² precision) and that NSIDC treats announcements of seasonal maxima as preliminary until full analyses are complete. Relevance: this is the authoritative dataset the contract uses to resolve; it shows where to find the official daily numbers and the fact that NSIDC can (and sometimes does) refine or characterize maxima after the season. ([nsidc.org](https://nsidc.org/sea-ice-today/sea-ice-tools))
 
-Title: Arctic, United States - AccuWeather
-Published Date: 2026-03-07T04:08:17.986Z
-URL: https://www.accuweather.com/en/us/arctic/weather-forecast/2146547?city=arctic&origin=exa
-Summary: The webpage provides current weather conditions for Arctic, United States, including overcast skies, temperatures ranging from 46°F to 55°F, and a high probability (83%) of 4.3mm precipitation on March 7, 2026. While these details offer insight into short-term weather patterns, they do not directly inform predictions about Arctic sea ice extent. However, consistent overcast conditions and precipitation could influence short-term ice conditions, but long-term sea ice extent forecasts depend more on broader climate trends, temperature anomalies, and seasonal patterns rather than daily weather. Therefore, this specific weather snapshot offers limited predictive value regarding whether the maximum Arctic sea ice extent this winter will fall between 14.2 million and 14.4 million square kilometers.
+### [Sea Ice Today (main Sea Ice Today page, general notice about services reduction)](https://nsidc.org/sea-ice-today)
+**Author:** Unknown (National Snow and Ice Data Center) | **Published:** 2026-01-31 (site shows updates; page content current as of 2026)
 
-Title: Evolution of the firn pack of Kaskawulsh Glacier, Yukon - TC
-URL: https://tc.copernicus.org/articles/15/2021/2021/
-Summary: The article examines the evolution of the firn (compacted snow) on Kaskawulsh Glacier in Yukon, focusing on meltwater effects, densification processes, and the development of a perennial firn aquifer. While it provides detailed insights into glacier and firn dynamics, it does not directly address Arctic sea ice extent or seasonal predictions. Therefore, it offers limited information relevant to predicting whether the maximum Arctic sea ice extent this winter will fall between 14.2 million and 14.4 million square kilometers.
+NSIDC’s Sea Ice Today landing page explains how daily sea ice data are updated, that the annual maximum typically occurs in March, and that various tools (Charctic, data spreadsheets) are available. The page also notes that Sea Ice Today services were reduced in Oct 2025; it highlights that daily extent data are updated with a one‑day lag and that preliminary maximum announcements may be updated. Relevance: confirms the data source, update cadence, and that preliminary maxima are reported and can be subject to small changes — all directly relevant to contract resolution uncertainty. ([nsidc.org](https://nsidc.org/arcticseaicenews/))
 
-Title: [PDF] NASA Historical Data Book Volume 8 (Tables)
-Author: L Jirousek
-URL: https://www.nasa.gov/wp-content/uploads/2023/04/sp-4012v8-tables.pdf
-Summary: The provided document details NASA's Earth science and space application missions from 1989 to 1998, including atmospheric, oceanographic, and environmental research missions such as TOPEX/Poseidon, RADARSAT-1, and SeaStar, which contributed to understanding Earth's climate systems. While it highlights NASA's focus on atmospheric and ocean surface studies, the data primarily pertains to satellite launches and mission objectives rather than specific climate or sea ice extent predictions. Therefore, this information alone does not directly inform whether the Arctic sea ice maximum will fall between 14.2 million and 14.4 million square kilometers this winter.
+### [Arctic sea ice among lowest on record: AFP review of US data (Yahoo syndicated AFP story)](https://www.yahoo.com/news/articles/arctic-sea-ice-among-lowest-160256093.html)
+**Author:** Unknown (AFP via Yahoo) | **Published:** 2026-03-11
 
+This news item (AFP) reports that NSIDC data showed the Arctic maximum reached nearly 14.22 million km² on March 10, 2026, and places that observation in the context of recent low maxima. Relevance: corroborates that NSIDC daily values (as reported publicly) showed a value of ≈14.22 Mkm² during the contract’s window — a central factual input for assessing whether the market should favor YES. The article supports the view that the winter maximum to date was inside the market’s target band. ([yahoo.com](https://www.yahoo.com/news/articles/arctic-sea-ice-among-lowest-160256093.html?utm_source=openai))
 
+### [Arctic sea ice is headed for one of its smallest winter peaks on record (Phys.org, AFP review)](https://phys.org/news/2026-03-arctic-winter-sea-ice-year.html)
+**Author:** Phys.org / AFP | **Published:** 2026-03-11
+
+Phys.org (reporting AFP) states that NSIDC figures show the Arctic’s maximum extent reached nearly 14.22 million km² on March 10, 2026, and compares that value to 2025’s record‑low maximum (~14.31–14.33 Mkm² depending on datasets). Relevance: provides another independent press corroboration of the NSIDC daily value (≈14.22 Mkm²) and situates the number relative to the prior year’s record‑low maximum, strengthening the argument that the observed value is plausible and noteworthy. ([phys.org](https://phys.org/news/2026-03-arctic-winter-sea-ice-year.html?utm_source=openai))
+
+### [Arctic sea ice decline (Zack Labe — data/plots and commentary)](https://zacklabe.com/arctic-sea-ice-extentconcentration/)
+**Author:** Zachary Labe | **Published:** 2026-03-09
+
+Zachary Labe provides timely charts and datasets (NSIDC and JAXA comparisons) showing daily Arctic sea ice extent and anomalies through early March 2026, with commentary on how 2026 compares to climatology and recent years. Relevance: independent time‑series context confirming that March 2026 extents were anomalously low compared to the 1981–2010 baseline and that multiple indices (NSIDC, JAXA, AMSR2) show low values; this supports the plausibility of a ~14.2 Mkm² seasonal maximum and illustrates inter‑index differences and variability magnitude. ([zacklabe.com](https://zacklabe.com/arctic-sea-ice-extentconcentration/?utm_source=openai))
+
+### [Lowest Arctic winter sea-ice extent in 46 years (Sea Ice Portal / related dataset commentary)](https://www.meereisportal.de/en/news-overview/news-detail-view/lowest-arctic-winter-sea-ice-extent-in-46-years)
+**Author:** Unknown | **Published:** Unknown
+
+This Sea Ice Portal writeup reports alternative estimates and notes differences between dataset maxima (for example, reporting slightly different absolute maxima and dates than NSIDC in past years). Relevance: highlights how different satellite products and analysis centers can produce differing values for peak extents (differences on the order of 10^4–10^5 km²), which matters for a market defined by a narrow 0.2 Mkm² band and contributes to traders’ legitimate uncertainty about which daily value will be reported in NSIDC’s table. ([meereisportal.de](https://www.meereisportal.de/en/news-overview/news-detail-view/lowest-arctic-winter-sea-ice-extent-in-46-years?utm_source=openai))

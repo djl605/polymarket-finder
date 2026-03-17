@@ -1,88 +1,118 @@
 # Research: Will Nirav Shah win the 2026 Maine Governor Democratic primary election?
 
 **Market ID:** 0x906842f0acae58e8633c17e933010e1662ca6616fbb3de89f61ff7a3718f5cc7
-**Researched At:** March 9, 2026 at 04:27:13 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Nirav Shah win the 2026 Maine Governor Democratic primary election?"
+**Researched At:** March 17, 2026 at 05:26:33 AM UTC
+**Search Query:** "Will Nirav Shah win the 2026 Maine Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 2.0¢
 
 ### Summary
 
-A recent UNH poll shows Shah leading at 25% with strong favorability, hinting win odds slightly above 20.5%, but large undecideds and Maine’s RCV rules justify the market’s cautious pricing. With limited data and low volume, any mispricing is small and uncertain.
+Recent, credible polling (UNH) shows Nirav Shah leading the crowded Maine Democratic primary at roughly mid-20s with a large undecided block; local reporting confirms active campaign, early fundraising, and some endorsements. The market price (26%) aligns with public polls and therefore shows no clear, high-confidence mispricing; a small mispricing (a few cents) is possible but I found no evidence of a large arbitrage.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Nirav Shah win the June 9, 2026 Maine Democratic gubernatorial primary (including any RCV rounds)?” A YES resolution requires Shah to secure a majority via first-round votes or through ranked-choice elimination. NO covers any other candidate or a run-off not featuring him, or if no primary occurs.
+Planned approach and search budget: I used the allotted three web searches to (1) confirm that Nirav Shah is an active candidate and gather campaign signals (announcement, endorsements, fundraising), (2) find recent, credible polling on the Maine Democratic gubernatorial primary, and (3) collect context about the rest of the Democratic field and poll uncertainty. Below are my findings and the requested analyses.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence  
-• 2026-02-24 UNH poll: Shah leads with 25% first-choice support vs Bellows 19% and Jackson 16%; 60% net favorability; 23% undecided. A lead in a three-way race often translates into win odds above raw share, especially with his strong favorability.  
-Bearish/neutral evidence  
-• Large undecided bloc (23%) could swing to rivals.  
-• No other polls to confirm momentum.  
-• Maine’s RCV can advantage compromise candidates in later rounds—Shah’s plurality lead doesn’t guarantee ultimate victory.  
-Source credibility and recency  
-• UNH poll is recent (late Feb ’26) and from a credible academic outfit. The campaign plan articles (all dated early Mar ’26) offer policy detail but no electoral metrics.
+1) CONTEXT ANALYSIS — What the market is asking, and resolution conditions
+- Market question: “Will Nirav Shah win the 2026 Maine Governor Democratic primary election?” — YES resolves if Nirav Shah is the overall winner of the Maine Democratic primary for governor (the market description says resolution is based on the Maine Democratic Party’s first official announcement or an overwhelming consensus of credible reporting). NO resolves if any other candidate wins or if the party declares no primary (which would resolve to “Other”). (Market description provided by you.)
+- Practically, for the market to resolve YES: Nirav Shah must receive a plurality (or outright win according to the Party’s official result) of votes in the June 9, 2026 Democratic primary (the market explicitly includes any run-off/second round in its resolution rules). For NO: any other candidate wins, or the primary does not take place and “Other” applies.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• 20.5% might reflect a cautious conversion of a 25% share into win probability under RCV and high undecided rates.  
-• Very low volume suggests only a few traders have set price; but given the poll is public, any small edge is likely already baked in.  
-• The limited trading could stem from uncertainty about RCV dynamics or general lack of focus on a long-dated primary.
+2) EVIDENCE EVALUATION — Relevant facts and what they imply
+Key, load-bearing factual findings
+- Recent polling (University of New Hampshire Survey Center / Ocean State Poll) shows Nirav Shah leading the Democratic primary field at roughly 25% with a large undecided share (~23%) and the rest of the field splitting most of the remainder; margin of error is several points. This implies Shah is a plurality leader in at least one reputable, recent poll but not dominant. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/930/?utm_source=openai))
+- Shah formally announced and is actively campaigning in the Democratic field (campaign website and local reporting). Local outlets report Shah joined a crowded field including established state-level Democrats (Shenna Bellows, Hannah Pingree, Troy Jackson, Angus King III, etc.). That crowded field and candidate name recognition imbalance are central to the race dynamics. ([bangordailynews.com](https://www.bangordailynews.com/2025/10/20/politics/elections/maine-election-2026-nirav-shah-governor-campaign-announcement/?utm_source=openai))
+- Campaign signals: Shah’s campaign has reported early fundraising haul(s) (initial-week figure widely reported and later first-filing totals cited in campaign/ethnic press), and Shah has received some organizational and health-sector endorsements—both positive signals of viability but primarily campaign-sourced or smaller outlets. These signals point to plausibility of continued competitiveness but are not definitive proof of likely victory. ([newindiaabroad.com](https://www.newindiaabroad.com/news/nirav-shah-raises-275k-in-first-week-of-maine-gubernatorial-campaign?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-• The poll’s 25% share suggests Shah’s win odds might modestly exceed 20.5%, but large undecideds and RCV reduce confidence in a straight share-to-odds translation.  
-• No glaring research gap—key public poll is already priced in.  
-• No reason to believe a >20¢ mispricing exists; at most a 3–5¢ underpricing if traders were overly conservative.
+What evidence suggests the market price (26%) might be incorrect?
+- Polls show Shah around mid-20% with a large undecided block (~20–25% in the cited UNH poll). With such a large undecided share, the plurality leader can swing up or down materially as the field consolidates or if other candidates gain momentum. If Shah’s campaign were underpriced relative to credible momentum (e.g., consistent polling leads, strong, verifiable fundraising, or major establishment endorsements), the market could understate his probability. The public polls I found do not yet show a decisive advantage, so there is no clear, high-confidence signal of a large underpricing. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/930/?utm_source=openai))
+- Low total market volume ($4.2K) means a small number of traders could be setting price; if one informed actor is bullish but others haven’t engaged, the market could be mispriced. (This is a structural risk of low-volume markets; your market metrics indicate low volume and a tight spread.)
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 40% (single poll with uncertain translation into win odds)  
-Magnitude of mispricing: 5¢ (upper bound)  
-Expected value = 0.40 × 5¢ = 2.0¢
+What evidence supports the current market price as reasonable?
+- The market price (26%) is close to the best publicly available polling point estimate (UNH ~25%). That alignment suggests the market is roughly pricing the publicly available polling snapshot into probability. The poll’s margin of error and the high undecided share imply substantial uncertainty remains; a ~25–30% market price is consistent with being a plurality leader in a crowded primary but not a clear favorite. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/930/?utm_source=openai))
+- The rest of the field contains candidates with stronger political name recognition in Maine (Secretary of State Shenna Bellows, former legislative leaders, and Angus King III), meaning consolidation dynamics could plausibly erode an early Shah lead—supporting a cautious market price.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: A recent UNH poll shows Shah leading at 25% with strong favorability, hinting win odds slightly above 20.5%, but large undecideds and Maine’s RCV rules justify the market’s cautious pricing. With limited data and low volume, any mispricing is small and uncertain.  
-CONFIDENCE: low
+Source credibility and recency
+- UNH Survey Center / Ocean State Poll: high credibility for state polling; recent (February 12–16, 2026) and directly relevant. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/930/?utm_source=openai))
+- Local reporters (WMTW, Bangor Daily News, Maine Public): generally reliable for campaign announcements and local reporting; useful for confirmation of candidacy, campaign events, and endorsements. ([wmtw.com](https://www.wmtw.com/article/races-tightening-new-poll-key-races-senate-governor-cd2-maine/70607703?utm_source=openai))
+- Campaign press releases and some ethnic/interest outlets reporting fundraising: these provide useful signals but are campaign-sourced or lower-tier outlets; treat reported fundraising totals as evidence of momentum but cross-check with official FEC/state filings if you need a definitive figure. ([southasianherald.com](https://southasianherald.com/nirav-shah-raises-510000-in-early-maine-governors-race-cites-statewide-grassroots-momentum/?utm_source=openai))
+
+Bullish vs. bearish perspectives
+- Bullish (arguing price should be higher): public polls show Shah leading the field; early fundraising and endorsements indicate campaign momentum; Shah’s public profile from pandemic-era public health leadership may translate into broad name recognition and cross-demographic appeal. If Shah can convert undecideds and capture establishment endorsements, his chances could rise above the current market-implied 26%.
+  - Support: UNH poll ~25% leader, campaign fundraising announcements. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/930/?utm_source=openai))
+- Bearish (arguing price should be lower): the field is crowded with experienced state politicians who can consolidate Democratic primary voters; Shah’s lead in polls is within MOE and undecideds are large; possible local skepticism about an outsider/relatively recent in-state arrival could limit appeal in a state attentive to “true Mainer” narratives. Low market volume also raises the possibility the price is set by a few traders rather than broad information aggregation. ([mainemorningstar.com](https://mainemorningstar.com/2025/08/06/here-are-the-republicans-vying-to-replace-gov-janet-mills-next-november/?utm_source=openai))
+
+Skepticism about “obvious” evidence: if a lead were truly decisive, polls would show larger, consistent leads and fundraising/endorsement reporting would be corroborated by neutral filings and major institution endorsements. I did not find such definitive, multi-source confirmation.
+
+3) MARKET EFFICIENCY ANALYSIS — how reliable is the market price?
+- Reasonable interpretations that justify the price:
+  - The market appears to be reflecting current public polling: leader at ~25% in a multi-candidate field with large undecideds → 26% is a reasonable translation of that snapshot into a posterior probability for eventual victory (not a forecast of eventual vote share).
+  - The crowded field and plurality-decides mechanic produce meaningful path dependence: small moves in late-deciding voters or endorsements can produce large changes in who wins; markets often price that uncertainty as lower single-digit-to-low double-digit probabilities for plurality leaders.
+- Could the market reflect only one/few participants? Yes — $4.2K total volume is small; a single trader could set price and a tight spread can persist if other traders don’t step in. That reduces price reliability relative to higher-volume markets.
+- Why low volume might be rational (not just inattentiveness): primary isn’t until June 9, 2026 (several months away), a lot can change, and many sophisticated traders wait for more information (polls, debates, endorsements, formal filings). So low volume can reflect rational waiting, not necessarily inefficiency.
+
+4) MISPRICING ASSESSMENT — weighing the evidence
+- The available, credible public evidence (notably a recent UNH poll) places Shah roughly where the market price is (~25% polling vs market 26%). That argues against a large mispricing.
+- There is plausible upside risk to Shah (momentum, fundraising, endorsements) and plausible downside (field consolidation, undecided voters, MOE), but none appear to be unambiguously omitted by the market price.
+- Critical check (if I were to claim a large mispricing >20 cents): I find no convincing, high-quality evidence that traders are missing (no repeated poll series showing Shah at 40–50%, no confirmed massive, rapid fundraising advantage supported by independent filings, and no major institutional endorsements that would almost certainly swing undecideds). So I would not conclude a large (>20¢) mispricing exists. The most charitable interpretation of the price: it’s a poll-aligned probability for a plurality leader in a crowded primary, with substantial undecided voters and therefore meaningful uncertainty.
+- Conclusion: No clear, credible evidence of a large mispricing. Small mispricing in either direction remains plausible (a few cents), but not a demonstrable, high-confidence arbitrage.
+
+5) EXPECTED VALUE CALCULATION — numeric estimate of possible mispricing
+- Strength of evidence that the market is missing something material: moderate-low. Public polling and campaign signals are available and appear to have been incorporated by the market; the strongest missing items would be verified, large fundraising totals or a major endorsement that hasn’t yet been priced — I did not find authoritative filings or a headline endorsement that would move probability dramatically. I estimate Strength = 40%.
+- Magnitude of plausible mispricing if one exists: small — I estimate the market could be mispriced by about 5 cents (0.05) rather than the tens of cents that would indicate a clear arbitrage.
+- Expected value = Strength × Magnitude = 0.40 × 5 cents = 2.0 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- I rate my confidence in this assessment as: medium.
+
+Final concise answer lines (as required)
+
+EXPECTED_VALUE: 2.0
+SUMMARY: Recent, credible polling (UNH) shows Nirav Shah leading the crowded Maine Democratic primary at roughly mid-20s with a large undecided block; local reporting confirms active campaign, early fundraising, and some endorsements. The market price (26%) aligns with public polls and therefore shows no clear, high-confidence mispricing; a small mispricing (a few cents) is possible but I found no evidence of a large arbitrage.
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Nirav Shah leads Maine Gov Democratic primary UNH poll
-Author: 
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.newindiaabroad.com/english/news/nirav-shah-leads-maine-gov-democratic-primary-unh-poll
-Summary: Nirav Shah, an Indian American Democrat and Maine gubernatorial candidate, is currently leading the Democratic primary race according to a recent UNH poll, with 25% support among likely voters. He surpasses his rivals, including Maine Secretary of State Shenna Bellows (19%) and former Maine Senate President Troy Jackson (16%). The poll also indicates strong favorability ratings for Shah, with 60% viewing him positively and a net favorability of +53. His campaign, which emphasizes his background in public health and leadership roles, has gained momentum through grassroots support and campaign events. While nearly 23% of voters remain undecided, Shah's current lead and growing support suggest favorable prospects for his chances in the upcoming primary.
+### [In Maine Senate Race, Platner Leads Mills in Primary and Collins in General Election Matchup (UNH Survey Center poll page / Ocean State Poll)](https://scholars.unh.edu/survey_center_polls/930/)
+**Author:** University of New Hampshire Survey Center (UNH Survey Center) | **Published:** 2026-02-24
 
-Title: Maine’s Affordable Future: A Bold Plan to Lower Costs and Strengthen Maine Families - Nirav Shah For Maine Governor
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://shahformaine.com/maines-affordable-future-a-bold-plan-to-lower-costs-and-strengthen-maine-families/
-Summary: The webpage outlines Nirav Shah’s comprehensive plan to address Maine’s affordability crisis, focusing on lowering costs and strengthening families through initiatives like property tax relief, expanded access to affordable education and child care, housing supply increases, energy modernization, and economic investments. While it details his policy proposals and commitment to tackling rising living costs, it does not provide information about his current political standing, campaign momentum, or factors that would influence his chances in the 2026 Democratic primary election. Therefore, based solely on this webpage, there is no predictive information regarding whether Nirav Shah will win the 2026 Maine Democratic gubernatorial primary.
+UNH’s Ocean State Poll (February 12–16, 2026) reports a multi-candidate Democratic primary for Maine governor in which Nirav Shah leads at roughly 25% while many likely primary voters are undecided (~23%). The poll includes sample sizes and margins of error; it is the clearest, high-quality public snapshot showing Shah as a plurality leader but not a decisive favorite. This supports the market price being close to current polling and highlights high remaining uncertainty (large undecided share), so it argues against a large mispricing by the market.
 
-Title: Maine gubernatorial candidate Dr. Nirav Shah  reveals 'affordable future' plan
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://wgme.com/news/local/maine-gubernatorial-candidate-dr-nirav-shah-reveals-affordable-future-plan-housing-energy-child-care-education-property-taxes
-Summary: Dr. Nirav Shah, a candidate for Maine governor, has proposed an "affordable future" plan centered on five key pillars: housing, energy, child care, education, and property taxes. His initiatives include expanding housing through workforce training and support for first-time homebuyers, holding utilities accountable to stabilize energy costs, making community college free, and implementing targeted property tax relief, including a tax on millionaires. Shah emphasizes outcomes focused on affordability and predictability for Maine families, aiming to build public-private partnerships to achieve these goals. While his platform addresses critical issues relevant to voters, there is no information in the provided material about his current polling status or primary election prospects, so predicting his likelihood of winning the Democratic primary remains uncertain.
+### [New poll breaks down key political races in Maine in 2026](https://www.wmtw.com/article/races-tightening-new-poll-key-races-senate-governor-cd2-maine/70607703)
+**Author:** WMTW (local news staff) | **Published:** Unknown
 
-Title: Nirav Shah proposes plan for 'Maine’s Affordable Future' to combat affordability crisis | newscentermaine.com
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.newscentermaine.com/article/news/politics/maine-politics/nirav-shah-proposes-plan-for-maines-affordable-future-to-combat-affordability-crisis-portland-maine/97-bb9a013a-ede7-47c5-babb-ab00a395c1bb
-Summary: Nirav Shah has proposed a comprehensive plan called "Maine’s Affordable Future" aimed at addressing Maine’s affordability crisis. His proposals focus on reducing costs related to housing, energy, childcare, student loan debt, and property taxes. Key initiatives include streamlining housing permits, expanding workforce training, supporting first-time homebuyers through down payment assistance, and encouraging state co-signing of home loans. He also plans to improve energy efficiency via weatherization, heat pumps, and upgrading the electric grid, alongside reforming utility oversight and promoting offshore wind development. While these policy positions demonstrate his commitment to tackling affordability issues, there is no information indicating his current standing or likelihood of winning the 2026 Democratic primary.
+WMTW summarizes recent polling (including UNH) showing Nirav Shah and Angus King III with early edges in the Democratic primary and reiterates that many voters are undecided. This local reporting corroborates the UNH poll results and frames them for a Maine audience, reinforcing that a mid-20s polling lead exists but is far from decisive—consistent with the market’s ~26% price.
 
-Title: Maine gubernatorial candidate Dr. Nirav Shah  reveals 'affordable future' plan
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://fox23maine.com/news/local/maine-gubernatorial-candidate-dr-nirav-shah-reveals-affordable-future-plan-housing-energy-child-care-education-property-taxes
-Summary: Dr. Nirav Shah, a candidate in the 2026 Maine gubernatorial race, has unveiled a comprehensive "affordable future" plan focusing on five key areas: housing, energy, child care, education, and property taxes. His proposals include expanding housing through workforce training and support for first-time homebuyers, holding utilities accountable to stabilize energy costs, making community college free, and increasing support for child care and education affordability. Shah also advocates for targeted tax measures, such as a tax on millionaires to provide property tax relief and lower taxes for long-term Maine residents. His emphasis on outcomes-driven policies aimed at improving affordability and stability for Maine families suggests a platform designed to appeal to voters concerned with cost-of-living issues. While the plan demonstrates his commitment to addressing key economic challenges, it does not provide specific insights into his electoral prospects or likelihood of winning the Democratic primary.
+### [Former Maine CDC director, Dr. Nirav Shah, joins Democratic race for governor | Maine Public](https://www.mainepublic.org/politics/2025-10-20/former-maine-cdc-director-dr-nirav-shah-joins-democratic-race-for-governor)
+**Author:** Maine Public staff | **Published:** 2025-10-20
 
+Maine Public reports Shah’s campaign launch and background (former Maine CDC director), and places him in a crowded Democratic field with other established state figures. This confirms Shah is an official candidate and contextualizes the race dynamics—explaining why a plurality leader might have a modest market probability rather than being a presumptive nominee.
 
+### [Former Maine CDC chief Nirav Shah is running for governor (Bangor Daily News)](https://www.bangordailynews.com/2025/10/20/politics/elections/maine-election-2026-nirav-shah-governor-campaign-announcement/)
+**Author:** Bangor Daily News staff | **Published:** 2025-10-20
+
+Bangor Daily News provides local reporting on Shah’s announcement, background, and initial campaign positioning. It’s useful to confirm the timeline of Shah’s entry and that local coverage and event activity are ongoing—useful context when assessing whether campaign momentum is likely priced into markets and polls.
+
+### [2026 Maine Governor - Democratic Primary (RealClearPolitics poll aggregation)](https://www.realclearpolitics.com/epolls/2026/governor/me/2026_maine_governor_democratic_primary-8932.html)
+**Author:** RealClearPolitics (aggregator) | **Published:** Unknown
+
+RealClearPolitics aggregates available public polls for the Maine Democratic primary and shows Shah generally in the mid-20s across recent polls, with other candidates splitting the remainder. The aggregation confirms that multiple public snapshots place Shah near the market price and that there is not a consistent, large polling advantage that the market is ignoring.
+
+### [Nirav Shah For Maine (campaign site)](https://shahformaine.com/)
+**Author:** Shah for Maine campaign | **Published:** Unknown
+
+Shah’s campaign website gives the candidate’s platform, events, and campaign messaging. The site (and linked event postings) demonstrate active campaign operations and public-facing outreach; fundraising claims and endorsements cited on the site are signals of viability but require independent verification (official filings) for precise fundraising tallies.
+
+### [Nirav Shah Raises $510,000 in Early Maine Governor’s Race, Cites Statewide Grassroots Momentum - South Asian Herald](https://southasianherald.com/nirav-shah-raises-510000-in-early-maine-governors-race-cites-statewide-grassroots-momentum/)
+**Author:** Unknown | **Published:** Unknown
+
+Reports a campaign-period fundraising figure that suggests early financial traction (campaign-reported $510k in an early filing). This kind of campaign-reported number is evidence of fundraising momentum that could raise Shah’s chances, but because it’s not an official state filing linked in this source, I treat it as suggestive rather than conclusive; if confirmed with official filings it would strengthen a case for upward revision of Shah’s probability.

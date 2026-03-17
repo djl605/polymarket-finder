@@ -1,104 +1,111 @@
 # Research: Unit FDV above $600M one day after launch?
 
 **Market ID:** 0xc8bf61693542486a6d63b8b2ae3a808cfbfdb0f2f0f4d95d011009d096882b91
-**Researched At:** March 11, 2026 at 04:17:08 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Unit FDV above $600M one day after launch?"
+**Researched At:** March 17, 2026 at 05:33:33 AM UTC
+**Search Query:** "Unit FDV above $600M one day after launch?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-By comparing Unit’s unknown fundamentals to a wide range of other token launches, a 32% chance of surpassing $600 M FDV is a plausible midpoint of conservative and optimistic precedents. No compelling missing data or extreme analogue suggests a >20¢ mispricing.
+Unit (HyperUnit) has product traction and a reserved $UNIT ticker (signal of a likely token), but I found no official tokenomics or launch date; because FDV depends directly on total supply, the market’s 34% price is a defensible mid‑range estimate rather than clearly mispriced. The highest‑value information to resolve this market is an authoritative TGE/tokenomics disclosure.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Unit’s governance token will have a fully diluted valuation (FDV) above $600 million at 4 PM ET on the day after its public transfer/trading launch. For a “Yes” resolution, Unit must:  
-- Conduct a token launch by December 31, 2027.  
-- Have its token actively transferable and tradable.  
-- Command a price such that (total supply × token price) exceeds $600 million exactly one day post-launch.
+Plan and constraints
+- I have a 3-query web budget and focused searches on primary coverage and reputable analysis about Unit / HyperUnit (not prediction markets). I searched for (1) official/project pages and integration announcements, (2) reporting and analyses about a potential $UNIT token / ticker reservation, and (3) ecosystem context (Hyperliquid adoption / on‑chain volume). Results show active speculation about a future token but no authoritative public tokenomics (total supply) or launch date that would let us compute FDV deterministically. Key load‑bearing findings are cited below. ([hyperunit.xyz](https://hyperunit.xyz/))
 
-2. EVIDENCE EVALUATION  
-Bullish analogies:  
-- Backpack’s FDV reached $644 M shortly after launch and had ~55% odds to exceed $500 M, implying large launches can clear $600 M.  
-- edgeX fundamentals (>$2 B daily TVL equivalent, strong revenue) supported ~40% odds to exceed $2 B, showing top‐tier projects can overshoot large thresholds.  
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- Market question: “Unit FDV above $600M one day after launch?” It resolves Yes if (total token supply) × (most‑liquid market price at 4:00 PM ET on calendar day after launch) > $600,000,000 and the token is actively publicly tradable; otherwise No. If no token is launched by 2027‑12‑31 23:59 ET, market resolves No.
+- What must happen for Yes vs No:
+  - Yes: Unit must launch a transferable token; on the calendar day after launch at 16:00 ET the publicly observable price × total supply must exceed $600M. (So both a launch and sufficient immediate price discovery are required.)
+  - No: either no token launch by the deadline, or the token launches but the FDV (supply × price from chosen liquid source) ≤ $600M at the specified observation time.
 
-Bearish analogies:  
-- Paradex market assigns only ~6% chance to exceed $500 M and ~1% for $750 M, hinting that $600 M odds might be in single digits for mid‐tier launches.  
-- USD.AI’s detailed financial multiples point to a $270–320 M FDV one day post-launch, far from $600 M, suggesting many projects fall well short without exceptional growth drivers.  
+2) EVIDENCE EVALUATION — what I found and how it affects the price
+A. Evidence that matters and its relevance
+- Project role and traction: Unit/HyperUnit is a functioning asset‑tokenization layer tied to Hyperliquid and has integrations and real usage (spot tokenized assets, deposits/withdrawals) — this establishes that the project is real and has product traction, which makes a token launch plausible and could support early demand. ([blog.redstone.finance](https://blog.redstone.finance/2025/08/21/hyperliquid/?utm_source=openai))
+- Ticker reservation (signal of potential upcoming token): multiple community / reporting sources note that the project secured the $UNIT ticker via Hyperliquid’s ticker auction for roughly ~$350k in Jan 2025 — this is widely cited as an indicator the team might eventually issue a token. That’s a bullish signal for “there will be a token,” but it is not tokenomics or a launch date. ([airdrops.io](https://airdrops.io/unit/?utm_source=openai))
+- No authoritative public tokenomics or total supply found: across official posts and reporting there is speculation about an airdrop or token, but I did not find an official token sale announcement, a tokenomics whitepaper with total supply, or an announced launch date — which means FDV cannot be computed from on‑chain parameters today. This is the most important missing fact for evaluating the $600M threshold. ([hyperunit.us](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/?utm_source=openai))
+- Ecosystem network effects and comparables: Hyperliquid and its tooling have meaningful trading volume and integrations, which could support a relatively high implied token price if supply is constrained and demand strong. But comparables in DeFi show very wide variance in immediate FDV at launch (some governance tokens debuting with >$1B FDV and many with small FDVs), so comparables alone don’t let us judge this market precisely. ([blog.redstone.finance](https://blog.redstone.finance/2025/08/21/hyperliquid/?utm_source=openai))
 
-Limitations & credibility:  
-- None of the sources directly analyze Unit’s token model, TVL, partnerships or investor appetite.  
-- PredictionCircle, Phemex News, Whales.Market, and AInvest are credible for market‐wide FDV forecasts but don’t cover Unit specifically.  
-- Recency is high (February–March 2026), but extrapolation to Unit carries uncertainty.
+B. Specific items that would suggest the market price is incorrect
+- If there were an official tokenomics sheet or TGE announcement that specified a very small total supply (e.g., 100M or less) and a significant airdrop/launch demand, then FDV > $600M could be quite likely and a 34% market price might understate probability. I found no such official tokenomics public document. Lack of supply disclosure is the primary reason we cannot confidently say the market is mispriced. ([hyperunit.us](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/?utm_source=openai))
+- Conversely, if official tokenomics (when/if published) specified a very large total supply (e.g., 10B+) and/or large early circulating allocations that would depress immediate price, that would justify a low market probability; again, I found no authoritative tokenomics to support that scenario currently. (No source found for supply.) ([hyperunit.us](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 32% price could reflect a median of bullish (top‐tier) and bearish (mid‐tier) comparables.  
-- Low $0 volume suggests few participants—possibly only one or two—set the price, but the 6¢ spread indicates at least some counter‐interest.  
-- The outcome is not obvious; large variance across past launches means informed traders may be reluctant to back extreme odds without deep on‐chain or partnership data.
+C. Evidence that supports the current market price being reasonable
+- High uncertainty: the absence of official tokenomics and of a launch date makes the outcome inherently uncertain — the market’s ~34% probability reflects meaningful uncertainty about both whether and how the token would be launched and what supply/price dynamics would be at T+1 day. That is a defensible position when a single primary variable (total supply) is unknown. ([hyperunit.us](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/?utm_source=openai))
+- Low-volume, concentrated-information markets: this market has low trading volume ($6k total) and a tight spread — consistent with a market set by a few participants who are hedging or speculating on ticker‑reservation signals rather than a well‑informed consensus. The price being non‑extreme (not near 0% or 100%) is plausible given the information vacuum. (Market metrics from the prompt.)
 
-4. MISPRICING ASSESSMENT  
-- No direct Unit metrics are missing from the market price—traders likely know the same limited information we have.  
-- Comparables span a broad band: some projects achieve >$600 M FDV with ~40–55% odds; others sit near 1–6% odds for comparable thresholds.  
-- A 32% probability sits squarely in the middle of that band, suggesting the market is reflecting reasonable uncertainty rather than a clear mispricing.
+Source credibility and recency
+- Credible / primary sources found: LI.FI integration posts, ecosystem research (RedStone, GL C Research) and Hyperliquid’s Medium posts provide contemporaneous evidence of product integration and ecosystem activity; these are reasonably credible for factual claims about integrations and ecosystem events. ([li.fi](https://li.fi/knowledge-hub/unit-hyperunit-is-now-live-on-li-fi/?utm_source=openai))
+- Community/aggregator sources (Airdrops.io, coin guides) reliably capture community signals like ticker reservation but are secondary and speculative regarding airdrops/tokenomics; treat them as indicators not proof. ([airdrops.io](https://airdrops.io/unit/?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is off: ~30% (diverse analogies, but no Unit‐specific data).  
-- Magnitude of potential mispricing: ~5 cents (small given the market’s balance).  
-- Expected value ≈ 0.3 × 5 = 1.5 cents
+3) MARKET EFFICIENCY ANALYSIS — interpreting the current 34% price
+- Reasonable interpretation for 34%:
+  - The market is pricing a non‑trivial chance that (a) Unit actually issues a tradable governance token in the allowable window, and (b) either supply is modest or immediate demand pushes the one‑day FDV above $600M. The ticker reservation (~$350k) and active product usage support the “token likely sometime” part but not the supply/price part. ([airdrops.io](https://airdrops.io/unit/?utm_source=openai))
+- Could this reflect just a few traders? Yes. Low total volume ($6k) and a narrow spread indicate a thin market where a single well‑capitalized trader or a small group could set the mid price. That increases the risk that the price reflects idiosyncratic beliefs rather than broad information aggregation.
+- Is low volume because outcome is obvious or because informed traders haven't engaged? The outcome is not obvious (no tokenomics/launch date). Low volume likely reflects (a) uncertainty and (b) a speculative/skewed participant base rather than broad institutional participation. That suggests potential inefficiency (thin liquidity) but not necessarily large mispricing.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: By comparing Unit’s unknown fundamentals to a wide range of other token launches, a 32% chance of surpassing $600 M FDV is a plausible midpoint of conservative and optimistic precedents. No compelling missing data or extreme analogue suggests a >20¢ mispricing.  
+4) MISPRICING ASSESSMENT — weigh both sides and challenge the result
+- Missing critical data: the token’s total supply (and any initial circulating fraction) is essential to judge whether FDV > $600M is plausible. Without it, any definitive claim of mispricing would be speculative. I could not find a reliable, official tokenomics source in my searches. ([hyperunit.us](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/?utm_source=openai))
+- Charitable interpretation of 34%: traders are accounting for (i) plausible token issuance (ticker reserved + project traction), (ii) the chance the tokenomics are tight enough to push FDV past $600M at launch, and (iii) the possibility that the project never launches — a mixture of these probabilities reasonably yields a mid‑range probability like ~34%.
+- If you are considering an active trade: you would need one of the following to justify a large bet that the market is mispriced:
+  - An official tokenomics / TGE announcement that implies a small supply or highly favorable launch mechanics (missing),
+  - Public evidence of pre‑commitments or partner demand that would lift price immediately (none found),
+  - Or reason to believe the market is dominated by misinformed single participant(s) and you have different private information. None of these were found in primary official sources during my search. ([hyperliquid-exchange.medium.com](https://hyperliquid-exchange.medium.com/hyperliquid-airdrop-season-2-official-links-and-how-to-avoid-scams-a62ec05dc74a?utm_source=openai))
+
+5) EXPECTED VALUE CALCULATION (quantitative estimate of the payoff to investigating / trading)
+- Strength of evidence that market is missing a decisive piece of public information: low–medium (I assign 30%) — main uncertainty is lack of tokenomics; that’s a clear missing data point but not evidence that the market mispriced the probability. (Strength = 30%)
+- Magnitude of possible mispricing if there is an actionable missing fact: small to modest. Because the market is thin, a single discovery (e.g., small supply announced) could shift probability materially, but absent that, the likely error band is moderate. I estimate plausible magnitude ≈ 10¢ (0.10 USD) — i.e., the market could be off by about 10 percentage points (±10¢) if new tokenomics info appears. This is judgmental given the wide range of supply possibilities.
+- Expected value = Strength × Magnitude = 30% × 10 cents = 3.0 cents expected value.
+
+6) CONFIDENCE in this assessment
+- I rate my confidence as medium. The conclusion rests on a clear, verifiable gap (no public tokenomics), but I only ran three targeted searches and could not access an authoritative official tokenomics announcement; that gap constrains confidence.
+
+Final conclusions / recommendation (short)
+- There is credible evidence the project is real and that a token is plausible (ticker reservation, integrations), but I found no authoritative tokenomics (total supply) or firm launch date. Because the FDV threshold depends directly on supply, the market’s 34% price is reasonable as a market estimate of the joint event “token launches + FDV > $600M at T+1 day.” The principal actionable gap is the missing official tokenomics: if/when Unit publishes total supply and launch mechanics, the market will likely reprice substantially. Until such an announcement, there is insufficient public evidence to confidently call a >10–20¢ mispricing. ([airdrops.io](https://airdrops.io/unit/?utm_source=openai))
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Unit (HyperUnit) has product traction and a reserved $UNIT ticker (signal of a likely token), but I found no official tokenomics or launch date; because FDV depends directly on total supply, the market’s 34% price is a defensible mid‑range estimate rather than clearly mispriced. The highest‑value information to resolve this market is an authoritative TGE/tokenomics disclosure.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Predict.fun FDV above ___ one day after launch? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://predictioncircle.com/event/predictfun-fdv-above-one-day-after-launch
-Summary: The webpage provides insights into prediction markets for estimating the fully diluted valuation (FDV) of Predict.fun one day after launch. Currently, the market expects the FDV to be above $50 million with an 85% likelihood, and traders favor a $50M valuation at 91%. The market activity includes $1.1 million traded over a span of approximately 665 days, indicating significant interest and shifting sentiment. 
+### [Unit (https://hyperunit.xyz/)](https://hyperunit.xyz/)
+**Author:** Unknown | **Published:** Unknown
 
-Key factors influencing predictions include on-chain data, market momentum, and credible reporting. The market resolves to "Yes" if the FDV exceeds the specified threshold (e.g., $600M) based on the token's total supply and current price, verified through official sources. 
+The project landing page for Unit / HyperUnit. I could not reliably load detailed tokenomics from the official hyperunit.xyz page during the search session, but the site is the canonical project link referenced by markets and articles. The site’s stated purpose (asset tokenization for Hyperliquid) supports the claim that Unit is a functional protocol whose team could issue a governance token; however, no public total supply or TGE document was discovered on this domain in my queries. This absence is critical because FDV calculations require a published total supply to be definitive. ([hyperunit.xyz](https://hyperunit.xyz/))
 
-For predicting whether the FDV will be above $600M one day after launch, relevant considerations include:
-- The current market odds favoring lower thresholds (around $50M), suggesting that reaching $600M is less likely in the short term.
-- The substantial trading volume and active participation indicate market confidence but still favor conservative estimates.
-- The timeline and key updates, such as token launch details and market sentiment, are crucial for refining predictions.
+### [Potential Unit Airdrop » How to be eligible?](https://airdrops.io/unit/)
+**Author:** Unknown | **Published:** Unknown
 
-In summary, while the current market heavily favors an FDV above $50M, predicting an FDV above $600M one day after launch would require a significant positive shift in market conditions, token performance, and investor confidence.
+A community/aggregator page summarizing airdrop speculation and eligibility heuristics for a hypothetical $UNIT token. It repeatedly cites that Unit secured the $UNIT ticker via Hyperliquid’s ticker auction for roughly $350k in Jan 2025 — a widely reported signal that a token could be expected. This page is useful to show community expectations and the ticker‑reservation signal, but it is secondary and speculative (it does not provide official tokenomics or a launch date). That makes it relevant to explain why markets are placing non‑zero probability on a token launch but not decisive for FDV. ([airdrops.io](https://airdrops.io/unit/?utm_source=openai))
 
-Title: Paradex FDV above ___ one day after launch? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://predictioncircle.com/event/paradex-fdv-above-one-day-after-launch
-Summary: The webpage analyzes prediction markets regarding Paradex's Fully Diluted Valuation (FDV) one day after launch. Currently, the leading estimate is around $300 million, with a 22% probability, followed by $500 million at 6%, and a surprise candidate at $750 million with 1%. Heavy trading activity and shifting odds suggest market uncertainty. To predict whether the FDV will be above $600 million one day after launch, consider that the market's current highest probability for surpassing that threshold is low, and the odds are still unsettled. The market resolution depends on Paradex's actual token launch and its valuation, with official sources used for confirmation. Monitoring ongoing trading activity and market odds can provide insights into the likelihood of the FDV exceeding $600 million shortly after launch.
+### [Hyperliquid Airdrop Season 2: Official Links and How to Avoid Scams](https://hyperliquid-exchange.medium.com/hyperliquid-airdrop-season-2-official-links-and-how-to-avoid-scams-a62ec05dc74a)
+**Author:** hyperliquid (Medium) | **Published:** Unknown
 
-Title: Here's Why USD.AI FDV Could Be $270M–$320M One Day After Launch!
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://whales.market/blog/usd-ai-chip-fdv-prediction/
-Summary: The article analyzes USD.AI's valuation prospects, highlighting that its fully diluted valuation (FDV) could reach $270M–$320M shortly after launch based on multiple valuation methods, including TVL multiples, fee multiples, and fundraising comparables. Currently, the protocol's market cap and trading volume suggest a near-coin-flip 52% probability of reaching or exceeding certain valuation thresholds. Given the early-stage TVL (~$450M), revenue figures, and recent partnerships (e.g., with PayPal), the valuation appears to be growing but remains below $600M. To surpass a $600M FDV one day after launch, significant growth in TVL, revenue, or market sentiment would likely be necessary.
+An official Hyperliquid Medium post discussing ecosystem airdrops and ecosystem resources. It references HyperUnit as part of the Hyperliquid toolbox and notes the $UNIT ticker reservation in community coverage. This is an important source because Hyperliquid is the immediate ecosystem and its communications are authoritative on whether ecosystem mechanics (like ticker auctions and listing rules) could lead to token issuance; still, it doesn’t provide Unit’s tokenomics. This supports the view that token issuance is plausible but not yet specified. ([hyperliquid-exchange.medium.com](https://hyperliquid-exchange.medium.com/hyperliquid-airdrop-season-2-official-links-and-how-to-avoid-scams-a62ec05dc74a?utm_source=openai))
 
-Title: Backpack's FDV Hits $644M, Eyes $1B Potential | Phemex News
-Author: 
-Published Date: 2026-02-14T00:00:00.000Z
-URL: https://phemex.com/news/article/backpacks-fdv-reaches-644-million-potential-for-growth-60506
-Summary: Backpack's fully diluted valuation (FDV) has recently reached $644 million, indicating strong market interest shortly after launch. The project’s current valuation suggests a high potential for growth, especially if positive developments continue and Bitcoin recovers in the coming months. With a 55% probability of reaching a $500 million FDV on POLY and comparisons to other projects with similar or higher market caps, Backpack demonstrates promising momentum toward surpassing $600 million FDV. Continued positive market conditions and project advancements could feasibly push its FDV above $600 million within a short period post-launch.
+### [Unit (HyperUnit) Explained: Asset Tokenization on Hyperliquid](https://www.datawallet.com/crypto/hyperunit-explained)
+**Author:** Unknown | **Published:** Unknown
 
-Title: edgeX FDV above $2B one day after launch? The 40% Probability Play
-Author: AInvest
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.ainvest.com/news/edgex-fdv-2b-day-launch-40-probability-play-2602/
-Summary: The article suggests that despite market skepticism—reflected in only a 40% probability of edgeX's FDV exceeding $2 billion within 24 hours of launch—edgeX's strong operational fundamentals challenge this outlook. The platform processes $2.28 billion in daily trading volume, ranks fourth among perpetual DEXs, and generates revenue four times higher than its peer Lighter at similar valuation levels. Although the token generation event (TGE) has been delayed to March 31, 2026, to ensure stability, the existing performance indicates that a significant valuation (above $600 million FDV) is plausible shortly after launch. The market appears to undervalue edgeX's competitive advantages, suggesting that if the platform maintains its current momentum, a unit FDV above $600 million within one day post-launch is a reasonable expectation.
+Analytical/educational coverage explaining HyperUnit’s role as the asset tokenization layer for Hyperliquid. It documents functional integrations (uBTC, uETH markets), usage cases, and ecosystem context. This supports the argument that Unit has real product traction which could generate demand for a governance token at launch; however it does not include token supply details, so it supports plausibility but not a precise FDV calculation. ([datawallet.com](https://www.datawallet.com/crypto/hyperunit-explained?utm_source=openai))
 
+### [HyperUnit Token and Airdrop: What You Need to Know](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/)
+**Author:** Unknown | **Published:** Unknown
 
+A how‑to/FAQ style explainer (third‑party) that consolidates community signals: HyperUnit product description, claims of ticker reservation (~$350k), and speculation about a potential airdrop. It explicitly states that no official token details have been published. This is useful to show the community’s knowledge gap and why markets must price uncertainty. Because it is not an official tokenomics source, it confirms absence of decisive on‑chain supply information rather than providing it. ([hyperunit.us](https://www.hyperunit.us/hyperunit-token-and-airdrop-what-you-need-to-know/?utm_source=openai))
+
+### [Hyperliquid Report: HyperEVM, HIP-3, HyperCore and The Ultimate Ecosystem Overview](https://blog.redstone.finance/2025/08/21/hyperliquid/)
+**Author:** Unknown | **Published:** 2025-08-21
+
+Ecosystem analysis covering Hyperliquid’s architecture and related projects like HyperUnit. It documents technical and usage milestones (integrations, spot markets enabled by Unit) and provides context showing HyperUnit’s operational role in unlocking liquidity. This supports the position that Unit has real usage (a necessary but not sufficient condition for an expensive FDV at T+1). It does not include tokenomics or supply, so it neither proves nor disproves the market’s numerical probability. ([blog.redstone.finance](https://blog.redstone.finance/2025/08/21/hyperliquid/?utm_source=openai))

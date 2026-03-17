@@ -1,79 +1,119 @@
 # Research: Will Ukraine win on 2026-03-26?
 
 **Market ID:** 0xb4b297fe86c268225338ffcea29a5b479e09ca9bc4cce3efc6084a7b9286fc91
-**Researched At:** March 10, 2026 at 04:17:09 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Ukraine win on 2026-03-26?"
+**Researched At:** March 17, 2026 at 05:36:40 AM UTC
+**Search Query:** "Will Ukraine win on 2026-03-26?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 5.8¢
 
 ### Summary
 
-The provided research pertains to Ukraine’s military conflict, not a sports match on March 26, 2026, and contains no relevant data to justify adjusting the 35% probability. There is no credible evidence of mispricing.
+This market refers to the single‑leg UEFA World Cup play‑off semi‑final Ukraine v Sweden on 26 Mar 2026 (90'+stoppage decides). Credible reports show Sweden potentially missing top attackers while Ukraine fields a resilient, experienced squad and has recent competitive results; however the market shows $0 volume and may simply be an initial quote rather than a traded consensus. Given the evidence I estimate Ukraine’s win probability is likely higher than 32.5 (my central estimate ~44%), producin
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Ukraine win the game on 2026-03-26 (first 90 minutes plus stoppage time)?” A “Yes” requires Ukraine to finish regulation-time ahead; any draw or loss resolves “No.”
+Plan and searches
+- Questions I needed answered: (a) Exactly what the market references (match, format, venue, resolution rules); (b) which teams are playing and the match context (single-leg World Cup play‑off semi‑final on Mar 26, 2026); (c) current, credible team-level evidence that would move the probability (injuries, squad announcements, form, head‑to‑head, venue/neutrality); (d) whether there is any obvious reason informed traders would already have priced those facts in.
+- I used 3 web searches (UEFA/FIFA schedule and match pages; mainstream news on squad/injury status; major sports outlets and team news) and excluded prediction‑market sites as requested.
 
-2. EVIDENCE EVALUATION  
-All five research items discuss Ukraine’s war with Russia, military momentum, attrition curves, or geopolitical outlook—none address a sports fixture, rosters, form, injuries, head-to-head records, venues, or bookmaker odds.  
-• No evidence suggests the 35% price is too high or too low for a match outcome.  
-• There is no support for adjusting the price because the evidence is entirely unrelated.
+1) CONTEXT ANALYSIS
+- What the market is asking: “Will Ukraine win on 2026-03-26?” — that is the single match scheduled for March 26, 2026 (the UEFA World Cup qualifying play‑off semi‑final between Ukraine and Sweden). Per the market description it resolves YES only if Ukraine wins in the first 90 minutes plus stoppage; draws, Sweden wins, extra time/penalty outcomes after 90 minutes, postponement (keeps market open until match played), or cancellation (resolves NO) all affect resolution as stated.
+- What must happen for YES vs NO:
+  - YES: Ukraine must be leading at full time (90'+stoppage) when the match ends on March 26, 2026.
+  - NO: Any other outcome — Sweden leading at full time, a draw at full time (even if Ukraine later wins on penalties in a separate ruleset, note the market explicitly uses first 90 minutes + stoppage), cancellation with no makeup, or if the game is never played and the organizer rules No — will resolve the market to NO.
 
-3. MARKET EFFICIENCY ANALYSIS  
-With only $40 volume and 2¢ spread, the price likely reflects a few traders’ views on a sports event. The lack of trading could mean informed sports bettors haven’t engaged, not that the outcome is obvious. Without relevant data, we cannot infer inefficiency.
+2) EVIDENCE EVALUATION (sources summarized below)
+- Confirmed match context and format (single‑leg play‑off semi‑final at a neutral venue in Spain):
+  - UEFA/FIFA schedule pages and mainstream fixtures lists show Ukraine v Sweden is one of the March 26, 2026 single‑leg UEFA play‑off semi‑finals and will be played at a neutral stadium in Valencia/Manises (Estadi Ciutat de València / Manises). These are primary/authoritative sources on date, format and venue. (FIFA/UEFA/ESPN citations below.)
+  - Market resolution conditions in the market match this (first 90 minutes + stoppage) — important: extra time and penalties do not change a draw at full time to a YES.
+- Evidence that could suggest the current market price (32.5% = Ukraine ~33% chance) might be incorrect (i.e., Ukraine underpriced):
+  - Sweden’s leading attacking options have been reported injured or doubtful in multiple mainstream outlets. Several Swedish news outlets and Goal.com reported Alexander Isak and Dejan Kulusevski were long‑term absentees or doubtful in the months before March 26, 2026; the Sweden coach publicly described hope but acknowledged difficulty in recovery timelines. If Sweden is missing one or both of those prime attacking threats, their expected goal output drops materially, which increases Ukraine’s win probability in a single match. (Goal.com, Aftonbladet, other Swedish reports.)
+  - Ukraine’s squad contains established starters who are regulars in top European clubs (Zinchenko, Yarmolyuk, Tsyhankov, Mykolenko, etc.) and Ukraine have recent competitive results that show they can compete with strong European sides (sources reporting squad composition and recent qualifiers). Their recent head‑to‑head (Ukraine beat Sweden in a recent major international meeting) and their competitive form make a Ukraine win plausible.
+- Evidence supporting the market price (i.e., Ukraine is underdogs ~32.5% is reasonable):
+  - Neutral‑site single‑leg matches reduce any nominal “home” advantage Ukraine might have had; multiple news pieces note Ukraine will play its nominal “home” tie away from Ukraine (Spain/Poland concerns were reported), so crowd advantage is limited — that helps Sweden. Neutral venue and travel logistics level the field.
+  - Sweden historically has a strong, organized side and depth. Even without top stars, they often produce competitive results, and coaches can adapt tactical setups to blunt opponents; mainstream previews and betting lines in some outlets implied Sweden as favorites (various matches preview pages / bookmakers noted Sweden as favored in odds compilations).
+  - Uncertainty about injuries: Swedish outlets report hope that Isak/Kulusevski might return; the final availability could swing the match. Injury reports earlier than the match window are uncertain until final squad confirmations.
+- Source credibility and recency:
+  - UEFA and FIFA pages: authoritative and recent (confirm format/date/venue) — high credibility for scheduling and format.
+  - ESPN, SkySports, Sporting News: reputable mainstream sports reporting — high credibility for fixtures, basic previews and betting lines.
+  - Goal.com and Aftonbladet (Swedish national sports outlet): credible for interviews and injury updates; the coach’s quotes are direct reporting (moderate‑high credibility). Injury status is inherently time‑sensitive — pieces published in the months/weeks before Mar 26 are useful but not definitive for matchday availability.
+- Balanced take and skepticism:
+  - It is plausible informed bettors already know the injury situation and the neutral venue; these are widely reported facts. If the market remains at 32.5% despite that, the price may already incorporate some of this information.
+  - Conversely, the market volume is $0 and age 18 days with a tiny spread, suggesting the displayed price may be an initial listing or creator midprice rather than an actively traded market reflecting aggregated public information.
 
-4. MISPRICING ASSESSMENT  
-We find no substantive, sports-specific information missing from the market. The war-focused research is irrelevant to the resolution criteria. Thus, there is no credible evidence of mispricing.
+3) MARKET EFFICIENCY ANALYSIS
+- Interpretations that justify the current price (32.5%):
+  - Sweden likely entered the tie as the bookmaker/oddsmaker favorite on balance of squad depth, recent form, and international ranking/coefficients. A neutral‑venue single match favors the more stable or defensively superior team; if Sweden is perceived as superior even without one or two stars, markets could price Ukraine at ~30–35%.
+  - The market could reflect a consensus that Sweden’s structural advantages (tactical setup, physical readiness, defensive solidity) outweigh Sweden’s attacking absences.
+- Could the price reflect only one or a few traders?
+  - Total volume $0 and age 18d strongly indicate no trading — this price may be the initial mid or a quoted probability set by the market creator or an automated initial price. With zero dollars traded, the price is not a reliable aggregation of many bettors’ views. That increases the risk that the price does not reflect public/informed consensus.
+- Why low volume might exist:
+  - The event is single-match and relatively niche (not a league title), so some casual bettors avoid play‑offs.
+  - Or the market may be newly listed and traders have not engaged; or bettors prefer to use bookmakers for single-match wagers rather than prediction‑market platforms. The combination of zero vol and narrow spread is a red flag: tight spread suggests a passive quote but zero volume means no one has validated that price with real stakes.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 0% (no relevant data)  
-Magnitude of mispricing: 0¢ (no basis for adjustment)  
-Expected value = 0% × 0¢ = 0¢
+4) MISPRICING ASSESSMENT
+- Do we have specific, credible evidence that the market is mispriced?
+  - Evidence for mispricing: credible injury reports indicating Sweden could be significantly weakened (Isak/Kulusevski doubtful) plus Ukraine’s resilient roster and positive head‑to‑head make a Ukraine win substantially more likely than a 32.5% probability might imply. Those reports are from mainstream sports outlets and coach quotes and should be part of an informed trader’s model.
+  - Evidence against mispricing: UEFA/FIFA/ESPN scheduling, neutral venue, and Sweden’s depth/organization suggest Sweden could still be the clear favorite. Also, injury uncertainty persists up to squad close; if Sweden’s stars are fit at kickoff, the market’s lower price for Ukraine is more defensible.
+- Critical checks (what could I be missing?):
+  - Resolution quirks: I confirmed by the market text that only the result at the end of the first 90 minutes + stoppage matters; therefore, bettors should not be confused by extra time/penalties. I’ve accounted for that.
+  - Timing and final squad news matter a lot: reports I found are pre‑window and do not guarantee matchday availability. If Isak or Kulusevski were declared fit right before kickoff, the market should move — but this may not have happened yet.
+  - The market’s $0 volume is the biggest practical concern: any claim of mispricing rests on the assumption that the price is supposed to represent aggregated informed opinion. With no trades, that assumption fails.
+- Conclusion on mispricing:
+  - The available, credible evidence indicates there is a plausible case that the market underestimates Ukraine’s chances (i.e., Ukraine is somewhat undervalued), but the evidence is not conclusive and is time‑sensitive (final squads, last‑minute fitness news and starting XI matter most). Because the market shows zero trading volume and was likely seeded with an initial quote, I cannot confidently say the market has been priced by a broad set of informed traders. Therefore I assess the likelihood of a genuine mispricing as moderate but not large.
 
-EXPECTED_VALUE: 0  
-SUMMARY: The provided research pertains to Ukraine’s military conflict, not a sports match on March 26, 2026, and contains no relevant data to justify adjusting the 35% probability. There is no credible evidence of mispricing.  
+5) EXPECTED VALUE CALCULATION
+- My judgmental fair probability range (given information available now, before final squads): roughly 40–48% that Ukraine wins in 90' (central estimate ~44%). That is higher than the market 32.5% by ~11.5 cents.
+- Strength of evidence (how confident I am that key missing/underweighted facts exist): medium — there are credible injury reports and venue neutrality facts that traders likely know, but final availability was unresolved at the time of these reports. I assign 50% to the strength factor.
+- Magnitude of mispricing: ~11.5 cents (market 32.5% vs my 44% fair).
+- Expected value = Strength × Magnitude = 0.50 × 11.5c = 5.75 cents.
+- Rounded to the format requested: EXPECTED_VALUE: 5.75
+
+6) CONFIDENCE
+- I rate my overall confidence in this assessment as medium. The decisive uncertainties are last‑minute fitness/squad announcements and the market’s lack of trading history (which makes the posted price unreliable as an aggregation).
+
+Final short summary and required lines
+EXPECTED_VALUE: 5.75
+SUMMARY: This market refers to the single‑leg UEFA World Cup play‑off semi‑final Ukraine v Sweden on 26 Mar 2026 (90'+stoppage decides). Credible reports show Sweden potentially missing top attackers while Ukraine fields a resilient, experienced squad and has recent competitive results; however the market shows $0 volume and may simply be an initial quote rather than a traded consensus. Given the evidence I estimate Ukraine’s win probability is likely higher than 32.5 (my central estimate ~44%), producing an expected value ≈5.75 cents, but final squads and last‑minute fitness news could overturn this.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Ukraine’s Victory Trend in 2026. Ukraine is increasingly demonstrating… | by Caladan | Feb, 2026 | Medium
-Author: Caladan
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://building.theatlantic.com/ukraines-victory-trend-in-2026-ced0b9023d54
-Summary: The article indicates that in early 2026, Ukraine is demonstrating a strong upward trajectory toward victory in its conflict with Russia. Ukraine is actively innovating and launching strikes against Russian infrastructure, despite facing significant challenges such as manpower shortages and Russian attacks on energy infrastructure. Ukraine's resilience and technological advancements, including over 70 R&D projects and the development of advanced missile systems like the Flamingo cruise missile, suggest a strategic and technological edge. Conversely, Russia is experiencing severe economic decline, with indicators pointing toward an imminent financial collapse within 12–18 months, due to sanctions, declining reserves, and economic mismanagement. Overall, Ukraine's growing military resilience and economic stability, contrasted with Russia's deteriorating situation, imply a favorable outlook for Ukraine's prospects in the near future, including late March 2026.
+### [Ukraine | Matches | European Qualifiers | UEFA.com](https://www.uefa.com/european-qualifiers/teams/57166--ukraine/matches/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Opinion: Ukraine Senses a Turning Point
-Author: Pete Shmigel
-Published Date: 2026-03-09T00:00:00.000Z
-URL: https://www.kyivpost.com/opinion/71498
-Summary: The article suggests that Ukraine is approaching a potential turning point in its conflict with Russia, driven by recent military advances. Ukrainian forces have begun regaining territory, including nine population centers near Oleksandrivka in Zaporizhzhia, marking a shift since their earlier incursions into Russian territory. This momentum indicates that Ukraine may be moving toward a favorable position, and there is a possibility that a negotiated end to the war could be in sight if Russia recognizes it cannot continue its current strategy. While the situation remains dynamic, these recent developments imply that Ukraine's prospects for success are improving as of late 2024, which could influence outcomes into 2026.
+UEFA’s match pages list Ukraine’s European qualifying matches and the play‑off fixtures for March 2026; the page shows a Ukraine fixture on 26 March 2026 in the European qualifying play‑off window. This authoritative source confirms the match date and that Ukraine participates in the March 26 play‑off semi‑final; it establishes the basic event the market references and supports the market’s resolution context (single‑match scheduling).
 
-Title: Ukraine Is Losing the War
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://reader.foreignaffairs.com/2026/02/26/ukraine-is-losing-the-war/content.html
-Summary: As of February 2026, Ukraine is significantly weakened in the ongoing conflict with Russia. Despite Ukrainian resistance, Russia controls nearly 20% of Ukrainian territory within its 1991 borders, and its larger population and resources give it a strategic advantage for prolonged fighting. Ukraine’s recent military losses, while fewer in absolute numbers compared to Russia, represent a substantial proportion of its manpower—around 1-2% of its male population aged 25-54—indicating heavy strain. The battlefield dynamics suggest that Ukraine’s chances of regaining lost territory by March 26, 2026, are limited, and current circumstances are pushing Kyiv toward considering a compromise peace that may involve territorial concessions. The U.S. and Western allies are reportedly pressuring Ukraine to accept such terms, which could influence the outcome by that date.
+### [Match schedule for FIFA World Cup 2026™ Play-Off Tournament confirmed](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/fifa-play-off-tournament-schedule)
+**Author:** Unknown | **Published:** 2025-12-XX (published in play-off announcement window)
 
-Title: Estimating Trajectories in Attritional Warfare
-Author: Dr Warwick Powell
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://warwickpowell.substack.com/p/estimating-trajectories-in-attritional
-Summary: The analysis suggests that Ukraine's ability to sustain its defensive operations is deteriorating due to its faster depletion of manpower, equipment, and munitions compared to Russia, whose reserves and firepower remain relatively stable or are marginally increasing. Based on projections from late 2025 to early 2026, the window for Ukraine to maintain its current defensive capacity is estimated to be around 3-6 months, roughly between May and August 2026. After this period, a rapid collapse could occur, leading to accelerated territorial losses. Therefore, by March 26, 2026, Ukraine's prospects for a decisive victory appear limited, as the war is approaching a critical attritional tipping point that could significantly weaken Ukraine's defensive sustainability.
+FIFA’s announcement of the play‑off schedule confirms that UEFA play‑off semi‑finals are single‑leg matches held on 26 March 2026 with finals on 31 March 2026. This is an authoritative confirmation of format (single‑leg knockout) and why the market’s resolution rule (first 90 minutes + stoppage) is critical; it also explains the high stakes of a single match, which increases variance.
 
-Title: Ukraine's Race To Victory In 2026 - by Andrew Tanner
-Author: Andrew Tanner
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://roguesystemsrecon.substack.com/p/ukraines-race-to-victory-in-2026
-Summary: The article suggests that Ukraine's victory by the end of 2026 is plausible, contingent on material factors such as Ukraine’s buildup of talent, technology, and military resources. It emphasizes that Ukraine is actively working to roll back Russian occupation and potentially dismantle the Muscovite empire, which could lead to a significant geopolitical shift. The broader context highlights ongoing challenges within the US and global political systems, including misinformation and political instability, which influence the international support and strategic environment for Ukraine. Overall, Ukraine's prospects for victory depend on sustained military resilience and favorable geopolitical developments, but the possibility remains within reach based on current trends.
+### [Ukraine v Sweden — Match page (schedule & venue) — ESPN](https://www.espn.com/soccer/match/_/gameId/761384/sweden-ukraine)
+**Author:** Unknown | **Published:** Unknown
 
+ESPN’s match listing for March 26, 2026 shows Ukraine v Sweden as part of the FIFA/UEFA play‑off semi‑finals and specifies the neutral venue (Estadi Ciutat de València, Manises). This mainstream sports page corroborates venue and kickoff and includes basic pre‑match context (odds lines on some feeds); it supports the assessment that the match is a neutral, single‑leg tie where home advantage is limited.
 
+### [Sweden boss gives update on injured Alexander Isak and Dejan Kulusevski before crucial World Cup play‑offs — Goal.com](https://www.goal.com/en-us/lists/sweden-boss-gives-update-injured-alexander-isak-dejan-kulusevski-crucial-world-cup-play-offs/blt0e72845cef5c0cac)
+**Author:** Unknown | **Published:** 2026-02-XX (published February 2026)
+
+Goal.com reports coach comments and fitness updates for Alexander Isak and Dejan Kulusevski ahead of the March 2026 play‑offs, noting serious injuries and the coach’s cautious optimism about recoveries. This reporting is directly relevant because if Sweden’s two leading attackers are unavailable or doubtful, Sweden’s scoring threat drops substantially — a material factor that increases Ukraine’s chances in a single match.
+
+### [AVSLÖJAR: Dejan Kulusevski väntas missa Sveriges playoff‑semi — Aftonbladet](https://www.aftonbladet.se/sportbladet/fotboll/a/e7E1la/dejan-kulusevski-vantas-missa-sveriges-playoff-semi)
+**Author:** Unknown | **Published:** 2026-02-09
+
+Swedish outlet Aftonbladet reports that Kulusevski was expected to miss Sweden’s playoff semi according to reporting in February 2026, and notes other injury issues in the squad. Aftonbladet’s reporting (local, contemporary) supports the view that Sweden may enter March 26 weakened in attack; this is a credible, country‑level source for injury status though final matchday fitness remains to be confirmed.
+
+### [Ukraine vs France lineups and Ukraine squad notes — Sporting News (Ukraine lineup & Lunin update)](https://www.sportingnews.com/us/soccer/news/ukraine-france-lineups-starting-xi-rosters-world-cup-qualifying/0f7164416b84299b7ec530ca)
+**Author:** Unknown | **Published:** 2025-11-XX (lineups reported around qualifiers in late 2025)
+
+Sporting News reported on Ukraine’s squad selection for qualifying matches (including names such as Zinchenko, Mykolenko, Yarmolyuk) and noted goalkeeper Andriy Lunin being unavailable at one earlier window for injury. This source confirms the presence of several high‑level Ukraine internationals who materially affect Ukraine’s chance to win; it shows Ukraine fields experienced starters, supporting the case that Ukraine is competitive and not a long shot.
