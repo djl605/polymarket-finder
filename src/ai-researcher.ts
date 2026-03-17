@@ -334,7 +334,7 @@ This market has low total trading volume and a tight bid-ask spread. Low volume 
 - They may be overlooked by informed traders who could correct mispricings
 
 TASK:
-Research this topic thoroughly, then objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Keep researching until you have enough information to come to a conclusion or until you are satisfied that there is insufficient information available to come to a conclusion. Analyze the following:
+Research this topic thoroughly, then objectively evaluate whether there is credible evidence of mispricing, without initially assuming the market is correct or incorrect. Since this is a prediction market for a future event, you should not expect to find conclusive proof for one side or the other. Instead, you should look for information that is contextually relevant to predicting the outcome. Keep researching until you have enough information to come to a conclusion or until you are satisfied that there is insufficient information available to come to a conclusion or until your budget of web searches runs out. Analyze the following:
 
 1. CONTEXT ANALYSIS: What is this market asking about? What would need to happen for it to resolve as YES vs NO?
 
