@@ -1,89 +1,111 @@
 # Research: Will Silver (SI) settle over $75 on the final trading day of June 2026?
 
 **Market ID:** 0x7c7e938289a1af110fb56821d7e0839e549577e92f99a7a0ce8a3c5b698061ed
-**Researched At:** March 10, 2026 at 04:18:40 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Silver (SI) settle over $75 on the final trading day of June 2026?"
+**Researched At:** March 18, 2026 at 04:40:29 AM UTC
+**Search Query:** "Will Silver (SI) settle over $75 on the final trading day of June 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-The 69.5% market probability sensibly balances bullish structural‐deficit forecasts around $75–$80 with downside volatility risks. No clear, credible evidence suggests it’s mispriced by more than a few cents.
+Silver already traded and occasionally settled above $75 in late 2025/early 2026 and COMEX settlement mechanics allow such prints; physical tightness and macro drivers make a June >$75 settlement plausible. Given the market’s low volume and tight spread there is room for fragility, but I find no specific, high‑credibility public evidence proving a large mispricing — estimated expected mispricing ~4.0 cents.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the CME’s official June-2026 Active Month Silver (SI) futures settlement on the final trading day of June will exceed $75. “Yes” requires the published settlement price > $75; otherwise it resolves “No.”
+Plan and constraints
+- I had a 3‑search budget and focused on: (A) authoritative price-history and recent news about silver’s large rally and volatility; (B) COMEX/CME documentation on how SI settlement is determined; and (C) short-term macro / inventory signals that would make a >$75 June settlement plausible. Key load-bearing sources are cited below.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence  
-• AInvest (2026-02-17): Projects a ~67 Moz structural deficit in 2026, setting a price floor and expecting June settlement near $75. Risks (industrial‐demand erosion, speculative volatility) could pull prices below, but overall supports > $75.  
-• AhaSignals (2026-02-21): Analyst consensus is $80/oz for LBMA silver in 2026 (range $44–$125), implying > $75 is likely but with high dispersion.  
-• Kitco News post: Notes 2026 price floor rising to ~$81 average, though global‐demand volatility remains a wildcard.
+1) CONTEXT ANALYSIS — what the market asks and exact resolution condition
+- Market question: "Will Silver (SI) settle over $75 on the final trading day of June 2026?"
+- What must happen for a YES: the official CME Group daily “Settlement” price for the Active Month of COMEX Silver (SI) futures, as first published for the final trading day of June 2026, must be strictly greater than $75.00. The market description uses CME’s published settlement for the Active Month (per CME’s settlement procedures); intraday highs, indicative prices, or later corrections do not count. ([cmegroup.com](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf?utm_source=openai))
 
-Bearish evidence  
-• Yahoo/Aditya Raghunath (2026-01-30): Cites JPMorgan warning of a return to $50 in 2026, which, if correct, makes > $75 unlikely. However, this forecast doesn’t target the specific June settlement date.  
-• Volatility risks: Extreme price swings in 2025 suggest settlement could be pulled below $75 by a downturn.
+- What must happen for a NO: CME’s published settlement price for the Active Month on that day is ≤ $75.00, or no settlement is published and the fallback rules (if any) produce ≤ $75.00 per the market’s resolution text.
 
-Contradiction note  
-• AInvest references J.P. Morgan forecasting ~$75 in June 2026, while Yahoo cites J.P. Morgan expecting $50 by 2026—likely different time horizons or scenarios.
+2) EVIDENCE EVALUATION — summary of relevant findings
 
-Source credibility  
-• AInvest and AhaSignals are specialized commodity‐analysis outlets (recent, relevant).  
-• The Yahoo piece is mainstream financial reporting but less directly tied to the June settlement event.  
-• All research is within two months of today, so recency is high.
+A. Recent price history and volatility (supports possibility)
+- Silver experienced an outsized, multi‑month rally across late 2025 → early 2026, reaching and exceeding the $75 level (and in some reports spiking above $80–$100 during extreme moves). This demonstrates that $75+ is within the market’s near‑term realized range and therefore not a theoretical impossibility by June 2026. ([forbes.com](https://www.forbes.com/sites/conormurray/2026/01/09/price-of-silver-surges-friday-surpasses-80-following-weak-job-creation//?utm_source=openai))
+- Historical futures data show very large swings and past daily settlements well above $75 in 2025–early‑2026, consistent with episodes of extreme volatility in the COMEX SI contract. That history implies the market can (and recently did) print settlements > $75 within months. ([investing.com](https://www.investing.com/commodities/silver-historical-data?cid=1180491&utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 69.5% probability aligns with a moderately bullish consensus yet accounts for demand‐erosion and volatility risk. The low trading volume (≈$6.7 k) and tight spread (1 ¢) suggest few active participants but also that those who did trade were confident. It may reflect genuine consensus among a small set of informed traders rather than a widely aggregated view.
+B. Physical market / inventory signals (support tightness -> supports higher prices)
+- Multiple market commentaries and data points in early 2026 noted sharply reduced registered COMEX silver inventory and strong physical/registered demand (deliveries, withdrawals from vaults), which market participants often cite as a mechanism for squeezes and sharp rallies in futures/spot. If physical tightness persists into spring/summer 2026, upside risk to COMEX settlement is materially higher. ([cmegroup.com](https://www.cmegroup.com/newsletters/micro-gold-silver-and-copper-monthly-update/2026-03-micro-metals-products-update.html?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-There is no compelling, specific evidence that the market is mispriced by >20 c. Bullish structural deficits and consensus forecasts above $75 justify a probability well above 50%. Bearish scenarios (JPMorgan’s $50 call) carry lower direct relevance to the exact June settlement. The 69.5% price reasonably balances bullish fundamentals against volatility and demand‐risk.
+C. Settlement mechanics and exchange discretion (important resolution nuance)
+- CME’s published settlement methodology for COMEX Silver (SI) relies on a defined settlement window and has a waterfall of fallback rules and staff discretion in anomalous conditions. That means the official settlement can differ from last trade/spot and, in stress conditions, can be set by CME staff using alternative procedures — a relevant source of small, non‑obvious uncertainty about how a dramatic day would be reported for resolution. This is a key technical point for traders trying to arbitrage settlement outcomes. ([cmegroup.com](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 30% (moderately strong but balanced).  
-Magnitude of potential mispricing = 5 ¢ (small, given balanced views).  
-Expected value = 0.30 × 5 ¢ = 1.5 ¢ (round to 1.5 ¢).
+D. Contrarian / bearish evidence (supports NO or reversion)
+- Several news items and analyses warned of overshoot and sharp corrections after the late‑2025 rally; there were violent intraday selloffs in early 2026 that show silver can give back large gains in short periods. This highlights tail risk to the upside but also significant downside/mean‑reversion risk by June if momentum falters or margining/liquidity events occur. ([investing.com](https://www.investing.com/news/stock-market-news/speculative-frenzy-catapults-silver-above-100oz-4463542?utm_source=openai))
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The 69.5% market probability sensibly balances bullish structural‐deficit forecasts around $75–$80 with downside volatility risks. No clear, credible evidence suggests it’s mispriced by more than a few cents.  
+E. Credibility and recency
+- The most credible pieces here are the CME documentation (official exchange source) for settlement mechanics, and contemporaneous market news pieces that document the late‑2025/early‑2026 large moves and inventory tightness. Investing.com/Forbes are reputable market/news outlets for price events; CME docs are primary source for resolution mechanics. Some bulletin/aggregator articles and retail forums were also indexed in searches but are lower credibility and I have not relied on them as primary evidence. ([cmegroup.com](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf?utm_source=openai))
+
+3) MARKET EFFICIENCY ANALYSIS — is the market price (54%) reasonable?
+- Plausible interpretation(s) that justify ~54%: silver recently traded above $75 and the near‑term physical tightness + dovish macro environment (weaker dollar / Fed easing expectations) could plausibly keep realized settlements above $75 in June; market participants who saw those tail events as still likely might price >50% probability. If futures curve and implied vol are elevated, a mid‑50% probability is not implausible for a ~3‑month horizon. ([investing.com](https://www.investing.com/news/stock-market-news/speculative-frenzy-catapults-silver-above-100oz-4463542?utm_source=openai))
+
+- Alternative interpretation(s): the probability could reflect a small number of active traders pushing price (low total volume, $6.9k), rather than broad consensus. The market’s small total volume and tight quoted spread mean the displayed price may be fragile — a single participant can move it and there may not be enough opposing liquidity to correct it. That raises the chance the market reflects idiosyncratic positioning rather than aggregated new information. (This is consistent with the “low‑volume, tight‑spread” condition the user specified; no single external source can prove which is the case.) ([cmegroup.com](https://www.cmegroup.com/newsletters/micro-gold-silver-and-copper-monthly-update/2026-03-micro-metals-products-update.html?utm_source=openai))
+
+- Is the low volume because the outcome is obvious? No — if the outcome were truly near‑certain (say >90% or <10%), we would expect extremely low spreads and little interest; but here the 54% mid‑probability plus low volume suggests either (a) genuine uncertainty but limited trading interest, or (b) a price set by a few participants. Because silver has shown rapid, large swings recently, I judge the market is reflecting genuine uncertainty (not consensus certainty) rather than obvious resolution. ([investing.com](https://www.investing.com/news/stock-market-news/speculative-frenzy-catapults-silver-above-100oz-4463542?utm_source=openai))
+
+4) MISPRICING ASSESSMENT — weigh both sides and apply the critical check
+- Evidence that would indicate mispricing (i.e., market missing a clear fact):
+  - If CME settlement methodology makes it extraordinarily unlikely to print >$75 (for example, if settlement uses an averaging or timing that historically suppresses peak prints), and traders ignored that, that could be a mispricing. But CME docs show settlement is taken from a short settlement window and staff can exercise judgment — not an averaging mechanism that would systematically prevent high prints. I found no authoritative rule that would categorically block >$75 settlements. ([cmegroup.com](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf?utm_source=openai))
+  - If physical markets were suddenly abundant (large inventory rebuild, big ETF outflows) and that information was public but ignored by the market price — that would indicate mispricing. I did not find credible widespread evidence of a durable inventory rebuild or large ETF liquidation; conversely, several reports noted withdrawals/tightness. ([cmegroup.com](https://www.cmegroup.com/newsletters/micro-gold-silver-and-copper-monthly-update/2026-03-micro-metals-products-update.html?utm_source=openai))
+
+- Evidence supporting the current price as reasonable:
+  - Recent realized settlements and reported intramonth spikes above $75 show the level is attainable and was recently attained; physical tightness and macro backdrop (soft dollar / risk demand) provide plausible rationale for >$75 in June. That weighs in favor of the market’s ~54% reading. ([forbes.com](https://www.forbes.com/sites/conormurray/2026/01/09/price-of-silver-surges-friday-surpasses-80-following-weak-job-creation//?utm_source=openai))
+
+- Critical check: do I understand the resolution criteria and have I missed something?
+  - I reviewed CME settlement procedures for SI (official settlement window, fallback rules, and staff discretion) — there is no automatic rule that would always keep settlement ≤ $75 if spot traded higher in the settlement window, though staff discretion in anomalous markets is a small ambiguous factor. The market’s wording in the question matches CME’s published settlement source. Thus, there is no obvious technical misinterpretation that would render the shown 54% nonsensical. ([cmegroup.com](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf?utm_source=openai))
+
+Bottom line on mispricing: Given (a) recent history showing real settlements above $75, (b) reported physical tightness and macro drivers that could keep upward pressure, (c) CME settlement mechanics that can record such prints, and (d) the market’s low volume (which raises the chance price is set by few actors), there is no clear, specific, high‑credibility piece of information that the market has omitted. The market’s 54% probability is defensible; I do not find robust evidence of a large (>20 cents) mispricing. The more charitable interpretation is that informed traders see roughly even odds given elevated volatility and inventory risk; the less charitable interpretation is that a few traders are moving a thin market. Both are plausible; available public evidence does not strongly favor one over the other.
+
+5) EXPECTED VALUE CALCULATION (value of investigating / trading on the alleged mispricing)
+- Strength of evidence that the market omits a material public factor: moderate → 40%. (There are clear public datapoints supporting >$75 but also credible counter‑forces; nothing decisive is missing.)
+- Magnitude of plausible mispricing if one exists: small — I estimate at most ~10 cents (0.10 USD) on the market price (i.e., market probability misestimation of ≈10 percentage points). Large mispricings (>20 cents) appear unlikely given recent realized prices and the availability of public information. (This is a subjective estimate based on the balance of evidence.)
+- Expected value = Strength × Magnitude = 40% × 10 cents = 4.0 cents.
+
+6) CONFIDENCE
+- I assess my confidence in this evaluation as: medium.
+
+Concise conclusion
+- There is credible public evidence both that a June 2026 settlement > $75 is plausible (silver already traded and settled above $75 in recent months; physical tightness noted) and that the market is uncertain (high volatility, risk of mean reversion and margin/liquidity events). Given the market’s low volume and tight spread, the displayed 54% probability could reflect either a reasonable, informed view or the influence of a few traders — public evidence does not decisively indicate a large mispricing. Overall, I judge only a small expected mispricing (EV ≈ 4.0 cents) and rate confidence as medium. ([forbes.com](https://www.forbes.com/sites/conormurray/2026/01/09/price-of-silver-surges-friday-surpasses-80-following-weak-job-creation//?utm_source=openai))
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Silver already traded and occasionally settled above $75 in late 2025/early 2026 and COMEX settlement mechanics allow such prints; physical tightness and macro drivers make a June >$75 settlement plausible. Given the market’s low volume and tight spread there is room for fragility, but I find no specific, high‑credibility public evidence proving a large mispricing — estimated expected mispricing ~4.0 cents. 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: What Silver's June 2026 Settlement Will Reflect: A Deficit Floor vs. Volatility
-Author: AInvest
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://www.ainvest.com/news/silver-june-2026-settlement-reflect-deficit-floor-volatility-2602/
-Summary: The analysis indicates that silver is expected to face a structural deficit of approximately 67 million ounces in 2026, establishing a fundamental price floor. Despite recent extreme volatility—with prices surging over 147% in 2025 and fluctuating significantly—this deficit suggests that silver prices are likely to remain supported above $75 per ounce. J.P. Morgan forecasts a settlement around $75 for June 2026, balancing the deficit-driven supply constraints against speculative flows and macroeconomic factors. However, risks such as potential erosion of industrial demand due to high prices and volatility in investment demand could influence the final settlement. Overall, the persistent physical shortage and investment demand trends point toward a likelihood of silver settling over $75 on the last trading day of June 2026.
+### [Price Of Silver Surges—Surpasses $80—Following Jobs Report](https://www.forbes.com/sites/conormurray/2026/01/09/price-of-silver-surges-friday-surpasses-80-following-weak-job-creation//)
+**Author:** Conor Murray | **Published:** 2026-01-09
 
-Title: Silver Price Forecast 2026: 26 Analyst Consensus $80/oz | AhaSignals
-Author: 
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://ahasignals.com/silver-forecast-tracker/
-Summary: The 2026 LBMA silver price forecast consensus is $80 per ounce, with a wide predicted range of $44 to $125, reflecting significant analyst disagreement. The forecast is driven by ongoing industrial demand from AI data centers and solar photovoltaic expansion, contributing to a structural deficit in silver supply. While bullish analysts anticipate prices exceeding $75 due to rising demand and declining inventories, cautious analysts highlight potential demand slowdowns and supply constraints. Given the high dispersion score (100/100) and the forecast range, there is considerable uncertainty. Therefore, whether silver will settle over $75 on the final trading day of June 2026 remains uncertain, but the consensus suggests a likelihood of prices being above that level.
+Reports on early‑January 2026 silver moves, noting silver surpassed $80 amid weak US jobs data and physical tightness; discusses drivers (safe‑haven demand, supply squeezes) and quotes market participants. This source demonstrates that silver has recently traded and spiked above the $75–$80 zone, supporting the proposition that a June settlement >$75 is within historical short‑run possibilities; it therefore supports the market’s non‑negligible probability for YES. ([forbes.com](https://www.forbes.com/sites/conormurray/2026/01/09/price-of-silver-surges-friday-surpasses-80-following-weak-job-creation//?utm_source=openai))
 
-Title: #Silver will average $81/oz this year – more than double 2025 average – as price floor rises ...
-URL: https://www.facebook.com/KitcoNews/posts/silver-will-average-81oz-this-year-more-than-double-2025-average-as-price-floor-/1468830824603482/
-Summary: The article forecasts that silver prices will average around $81 per ounce in 2023, more than doubling the expected 2025 average, with a rising price floor. While the higher floor suggests potential for silver to settle above $75 by the end of June 2026, the overall ceiling remains uncertain due to fluctuating global demand and market dynamics. Analysts at J.P. Morgan highlight that demand and geopolitical factors could create upside or downside risks, making precise predictions challenging. Therefore, while a settlement over $75 is plausible given current trends, significant market variables could influence the final outcome.
+### [Speculative frenzy catapults silver above $100/oz](https://www.investing.com/news/stock-market-news/speculative-frenzy-catapults-silver-above-100oz-4463542)
+**Author:** Unknown (Investing.com staff; article synthesizing Reuters reporting) | **Published:** 2026-01-23
 
-Title: Will Silver (SI) hit__ by end of June? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://predictioncircle.com/event/si-hit-jun-2026
-Summary: The prediction market indicates a high likelihood that Silver (SI) will settle above $110 by the end of June 2026, with a 99% probability. The current market activity shows significant interest, with $2.2 million traded over approximately 126 days, and the odds remain closely contested between the $110 and $100 price points. The market's resolution depends on the CME Silver futures settlement price; if it reaches or exceeds the specified level, the market will resolve as "Yes." Given the strong market confidence in prices exceeding $110, it is highly probable that Silver will settle over $75 on the final trading day of June 2026.
+Coverage (sourcing Reuters) of an extreme price episode in which silver moved above $100 in January 2026, with analysis of retail/momentum buying and warnings of overshoot and potential corrections. This documents the extreme volatility and shows both the upside realized tail and the sharp reversals that argue both for and against a persistent >$75 settlement probability by June. It supports the view that >$75 is plausible but also that downside shocks could quickly remove that possibility. ([investing.com](https://www.investing.com/news/stock-market-news/speculative-frenzy-catapults-silver-above-100oz-4463542?utm_source=openai))
 
-Title: Silver Price Predictions: Why JPMorgan Warns Silver Will Crash Back to $50 in 2026
-Author: Aditya Raghunath      January 30, 2026   4 min read
-URL: https://finance.yahoo.com/news/silver-price-predictions-why-jpmorgan-123001668.html
-Summary: The article discusses JPMorgan's forecast that silver prices are expected to decline back to $50 by 2026, suggesting a bearish outlook for silver over the coming years. While it highlights factors influencing silver's price, such as economic conditions, inflation, and investment trends, it does not specifically address the likelihood of silver (SI) reaching or settling over $75 on the final trading day of June 2026. Based on JPMorgan's prediction, a significant price increase to over $75 appears unlikely within that timeframe, barring extraordinary market developments.
+### [Silver Futures Historical Prices - Investing.com](https://www.investing.com/commodities/silver-historical-data?cid=1180491)
+**Author:** Unknown | **Published:** Unknown
 
+Historical futures/settlement data for COMEX silver futures, showing past daily settlements/highs/lows and volume. The historical series confirms that settlements in the relevant recent window reached and exceeded $75 (and even much higher at times), which is directly relevant to whether a June 2026 settlement above $75 is plausible based on recent precedent. This supports the market’s view that $75 is accessible within months. ([investing.com](https://www.investing.com/commodities/silver-historical-data?cid=1180491&utm_source=openai))
 
+### [Micro Gold, Silver and Copper Products Update – March 2026 - CME Group](https://www.cmegroup.com/newsletters/micro-gold-silver-and-copper-monthly-update/2026-03-micro-metals-products-update.html)
+**Author:** CME Group | **Published:** 2026-03- (March 2026)
+
+CME Group’s March 2026 products/update newsletter that discusses recent precious‑metals market conditions and micro‑contract performance. It documents the exchange’s view of recent price behavior and provides context for activity in silver markets; it is a primary/exchange source confirming market conditions and is relevant to interpreting low‑volume markets and exchange behavior. This supports the technical point that official settlement processes and active‑month mechanics are exchange‑governed. ([cmegroup.com](https://www.cmegroup.com/newsletters/micro-gold-silver-and-copper-monthly-update/2026-03-micro-metals-products-update.html?utm_source=openai))
+
+### [Special Executive Report (SER-7827) — London/COMEX Settlement Procedures (CME Group PDF)](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf)
+**Author:** CME Group | **Published:** 2016-12- (document date; CME advisory)
+
+CME advisory explaining the COMEX Silver (SI) settlement procedure (the short settlement window, waterfall of fallback methods, and staff discretion for anomalous conditions). This is the authoritative source for how the CME publishes its official “Settlement” price that the market uses for resolution; it establishes that official settlement is derived from a defined short window and that staff may use discretion in abnormal markets — a key technical factor when reasoning about the probability of a >$75 published settlement. ([cmegroup.com](https://www.cmegroup.com/notices/ser/2016/12/SER-7827.pdf?utm_source=openai))

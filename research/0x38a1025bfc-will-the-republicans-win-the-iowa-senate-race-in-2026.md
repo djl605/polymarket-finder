@@ -1,93 +1,112 @@
 # Research: Will the Republicans win the Iowa Senate race in 2026?
 
 **Market ID:** 0x38a1025bfc56539ed1ff8fdd468283d55cf9002412decd61aa8d6c578c7d01a2
-**Researched At:** March 6, 2026 at 04:19:28 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republicans win the Iowa Senate race in 2026?"
+**Researched At:** March 18, 2026 at 04:26:42 AM UTC
+**Search Query:** "Will the Republicans win the Iowa Senate race in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-The 66.5% probability matches respected “likely Republican” ratings and early modeling; while Democrats could surge if their nominee unites the party, there’s no clear >10¢ mispricing. Limited volume seems due to consensus rather than a clear arbitrage.
+Current reporting and ratings (Ernst retirement, Hinson entry, Cook’s GOP tilt, and early polls) support a modest Republican favorite; narrow public polls and active Democratic candidates keep the race competitive. Given zero market volume, the 57% price likely reflects limited liquidity (possibly one quote) but not a clear, large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the Republican nominee will win the open Iowa U.S. Senate seat in November 2026 (including any run-off). A “YES” requires the Republican nominee to receive a plurality of certified votes (or win a run-off if needed), and a “NO” resolves if any Democrat or independent wins.  
+Plan / scope
+- I used web search (3 queries) to assemble the most relevant, current primary sources and expert ratings about the 2026 Iowa U.S. Senate race: (1) contemporaneous reporting about the incumbent and declared candidates, (2) a major race rating (Cook), (3) a recent poll, and (4) recent statewide partisan results/trends to set the baseline. The five load-bearing sources are cited inline below.
 
-2. EVIDENCE EVALUATION  
-Bearish for Republicans (which would imply the market is overpricing GOP chances):  
-• Politico/Cook Political Report labels the seat only “likely Republican,” not safe, indicating plausible Democratic upside if momentum shifts.  
-• TIME (Feb 17) notes both GOP incumbent Ernst and Gov. Reynolds declined to run, suggesting weakened Republican incumbency advantage and possible voter fatigue with Trump-era GOP.  
-• Democratic primary remains fluid (Gruber-Miller/Pfannenstiel, 3/2), and national Democrats favor moderate Josh Turek, whom they see as more electable in a general election—if Turek secures the nomination, he could narrow the gap.  
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- Market question: "Will the Republicans win the Iowa Senate race in 2026?"
+- How it resolves YES: the Republican nominee (as defined by party nomination rules) wins the 2026 general election for the Iowa U.S. Senate seat and the market’s resolution criteria are met (the market specifically resolves when AP, Fox News, and NBC all call the race for the same candidate, or otherwise by official certification). ([apnews.com](https://apnews.com/article/5f1fcb82ed73f83a8342683efed847f0))
+- How it resolves NO: any non‑Republican candidate wins (Democrat, independent, or third-party) and the same resolution criteria are satisfied (the three outlets call the race or official certification). Note the market’s explicit rule that independents are not counted as Democrat/Republican — that matters only if an independent wins. (I reviewed the market description you provided; resolution depends on the three news outlets’ calls or certification.)
 
-Bullish for Republicans (supporting the 66.5% price):  
-• Cook’s “likely Republican” rating implies roughly a 65–70% chance (consistent with the market).  
-• Gambit Forecaster (3/1) models Iowa as competitive but leaning GOP given statewide polling and historical patterns.  
-• Iowa is historically a swing state that has trended slightly Republican in midterms; absent a major scandal or wave, Republicans retain an edge.  
+2) EVIDENCE EVALUATION — all relevant evidence (bull & bear)
+A. Evidence that supports the market price (Republican win likely)
+- Open Republican seat with a strong GOP candidate and national GOP tailwinds: Joni Ernst announced she will not seek reelection and Rep. Ashley Hinson (R‑IA) has entered the race; Hinson is a well-known statewide figure (three-term House member from a district Trump carried) and has strong fundraising/party backing. This lowers the bar for a GOP hold. ([apnews.com](https://apnews.com/article/5f1fcb82ed73f83a8342683efed847f0))
+- Credible race rating: The Cook Political Report lists the Iowa Senate 2026 contest as comfortably Republican in its public summary (race described as Solid/Likely R in the Cook writeup). A respected handicapping house rating the seat toward the GOP is a meaningful input for market pricing. ([cookpolitical.com](https://www.cookpolitical.com/senate/race/488566))
+- State partisan baseline: Iowa voted decisively Republican in 2024 (Donald Trump carried the state by a large margin), indicating a red structural environment for federal races in the near term. That baseline favors a Republican in a midterm absent large changes. ([apnews.com](https://apnews.com/article/5b830769a49a4e758985982b2607db5a))
 
-Source credibility and recency  
-• All sources are from Feb–Mar 2026, highly recent. Cook and Gambit Forecaster are reputable prognostic models; TIME and Des Moines Register offer on‐the‐ground reporting.  
+B. Evidence that challenges or narrows the GOP edge
+- Tight/variable polling in early general matchups: A recent publicly-reported Change Research poll (reported in Newsweek) shows narrow margins — e.g., Hinson ~48% vs. Zach Wahls 41% (and in other matchups ties or smaller leads). Polls are early and shifting, but they show competitiveness (single-digit margins). ([newsweek.com](https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588))
+- Competitive Democratic options and organization: Democrats have several declared candidates (Zach Wahls, Josh Turek, Jackie Norris, Nathan Sage, etc.) and reports indicate Wahls has strong fundraising and organization in some reports. An effective Democratic nominee plus a favorable national environment could flip the seat. ([iowapublicradio.org](https://www.iowapublicradio.org/political-news/2025-09-02/sen-joni-ernst-will-not-run-for-reelection-in-2026))
+- Open-seat uncertainty & national cycle risk: Without an incumbent, the seat is more volatile; national swings (presidential approval, economy, turnout patterns, or a strong local scandal) could shift the race before November 2026. This increases the chance the actual outcome differs from an early, narrow market price.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 66.5% price aligns with “likely Republican” assessments from respected forecasters—this is the charitable interpretation that informed traders have aggregated average model outputs.  
-• Low volume could reflect either consensus (no one sees an easy arbitrage) or lack of specialist interest; given the high liquidity in more active political markets, it likely signals the race is viewed as moderately settled rather than wildly mispriced.  
+C. Source credibility and recency
+- AP and Iowa Public Radio reporting on Ernst’s retirement and Hinson’s entry are direct, timely news sources and credible for who is running and when; both are recent (announcements in late 2025 by those outlets). ([apnews.com](https://apnews.com/article/5f1fcb82ed73f83a8342683efed847f0))
+- Cook Political Report is a leading race-rating authority; its public summary (updated mid‑2025) is strong evidence on structural expectations. ([cookpolitical.com](https://www.cookpolitical.com/senate/race/488566))
+- The Change Research poll (reported in Newsweek, Feb 2026) is one early poll among several; polls that are early and single-source should be treated as indicative, not definitive. ([newsweek.com](https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588))
+- The AP call / official 2024 election results are authoritative for baseline partisan tilt (Trump margin in 2024). ([apnews.com](https://apnews.com/article/5b830769a49a4e758985982b2607db5a))
 
-4. MISPRICING ASSESSMENT  
-• No single piece of credible information suggests >10 cents of mispricing. Democratic momentum is plausible but uncertain; GOP advantage is modest but real.  
-• The market’s midpoint corresponds well to mainstream forecasts, suggesting no glaring omission.  
-• Given the timeline (election ~8 months away), uncertainty remains, but the current price appears to incorporate known candidate dynamics and partisan lean.  
+D. Skeptical note (why the market might already reflect obvious facts)
+- If the seat is structurally Republican (Cook + 2024 baseline), a market price slightly favoring Republicans is unsurprising. If the price were very different (e.g., Democrats >70% or Republicans <30%), that would demand stronger contradictory evidence. The existence of narrow polls and active Democratic candidates explains why the market is not at near‑certainty for Republicans.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20% (small chance a late Democratic wave narrows the gap significantly)  
-Magnitude of mispricing: 10 cents (best‐case mispricing if one is extremely bullish on Democrats but unlikely)  
-Expected value = 20% × 10¢ = 2.0¢  
+3) MARKET EFFICIENCY ANALYSIS — is the market’s 57% price reliable?
+- Reasonable interpretation(s) that justify 57%:
+  - 57% is consistent with: (a) Iowa’s recent Republican tilt (2024 presidential result), (b) a credible GOP nominee (Hinson) and party support, and (c) race ratings that place the seat in the Republican column but not as completely safe (Cook’s "likely/Solid R" language in its summary). Together those justify a modest Republican favorite ~55–65%. ([apnews.com](https://apnews.com/article/5b830769a49a4e758985982b2607db5a))
+- Could price reflect a single trader vs consensus?
+  - Market volume = $0 and age ~155 days indicate virtually no trading. A 57% price with zero volume almost certainly reflects either an initial price posting or a single participant’s quote. That raises questions about liquidity and whether the price aggregates market information. (Low-volume = low-information aggregation.)
+- Why low volume might not imply incorrect price:
+  - If the race is seen by market participants as leaning Republican but not a slam dunk, casual bettors may not trade; professional traders may choose other, more liquid opportunities. The posted price could therefore be a reasonable consensus estimate left untested by market activity.
+- Why low volume could indicate inefficiency:
+  - With zero volume, the market provides little evidence of aggregation of diverse views. If an informed party had a contrary edge (e.g., inside knowledge about a strong Dem consolidation or a high-probability primary upset), they could move the market — but they haven’t, possibly because the expected payoff is small relative to campaign information costs.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: The 66.5% probability matches respected “likely Republican” ratings and early modeling; while Democrats could surge if their nominee unites the party, there’s no clear >10¢ mispricing. Limited volume seems due to consensus rather than a clear arbitrage.  
+4) MISPRICING ASSESSMENT — do we have credible evidence the market is mispriced?
+- Bottom line judgement: There is not currently strong, specific, and credible evidence that the market’s 57% Republican probability is substantially mispriced (i.e., error >20 points). The available, credible evidence (state partisan baseline, Cook rating, a leading GOP candidate, and early polls) supports a modest Republican favorite; early polling showing competitive margins provides the main counter-evidence but does not prove the market is wrong.
+- Specific missing evidence that would demonstrate mispricing:
+  - A robust, high‑quality polling pattern showing a sustained Democratic lead across multiple reputable pollsters; or
+  - A credible narrative of Republican collapse (major scandal, endorsement reversals, huge fundraising gap) that market participants overlooked.
+  - I did not find those stronger disconfirming signals in primary reporting and public polls — instead I found narrow GOP leads or ties and organizational/fundraising activity on both sides. ([newsweek.com](https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588))
+- Critical check (did I misunderstand resolution or existing facts?):
+  - Resolution criteria depend on AP/Fox/NBC calls or official certification; my conclusion does not assume any early resolution or technicality has occurred. I verified that the seat is open (Ernst retiring) and that the GOP has a strong declared candidate; nothing found indicates the market’s resolution rules have already been met. ([apnews.com](https://apnews.com/article/5f1fcb82ed73f83a8342683efed847f0))
+
+5) EXPECTED VALUE CALCULATION — estimate the value of investigating/trading on this market
+- Strength of evidence that the market is mispriced (i.e., the probability my contrary view is correct): I assess this as medium–low. There is plausible uncertainty (open seat, competitive early polls), but no high‑quality, consistent contrary signal. I assign Strength = 40%.
+- Magnitude of likely mispricing if wrong: because public data mostly points modestly Republican, any genuine mispricing is probably small (a few to ~15 percentage points). I estimate a plausible magnitude = 10 cents (0.10 probability) of upside if one side is mispriced.
+- Expected value = Strength × Magnitude = 0.40 × 10 cents = 4.0 cents.
+- Interpretation: investigating further (betting/trading) has small expected edge given current public information; returns would be small unless new, high‑quality information (repeatable polls, major rating shifts, or candidate shocks) appears.
+
+6) CONFIDENCE (overall)
+- I rate my confidence in this assessment as: medium.
+
+Final concise assessment (recommended takeaway)
+- The 57% Republican price is consistent with multiple, credible indicators: Iowa’s 2024 Republican tilt, Cook Political Report’s GOP leaning, and a credible GOP nominee (Ashley Hinson). Early public polls show competitiveness (single-digit margins) and Democrats have viable candidates and some fundraising strength, so the race is plausibly competitive but not clearly mispriced in the market. Given zero trading volume, the posted price may reflect a single participant’s quote rather than broad aggregation; that increases uncertainty but does not itself prove mispricing. Overall, I do not find specific, high‑confidence evidence of a large mispricing (>20 points); the plausible mispricing, if any, is modest (~10 pts) with moderate uncertainty, yielding an expected value ~4 cents.
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Current reporting and ratings (Ernst retirement, Hinson entry, Cook’s GOP tilt, and early polls) support a modest Republican favorite; narrow public polls and active Democratic candidates keep the race competitive. Given zero market volume, the 57% price likely reflects limited liquidity (possibly one quote) but not a clear, large mispricing.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Iowa Primary Election Results 2026 : NPR
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://apps.npr.org/primary-election-results-2026/states/IA.html
-Summary: The NPR page provides the upcoming Iowa primary election schedule for 2026, including contests for governor, U.S. Senate, and U.S. House seats, with results not yet available. Since the U.S. Senate race results are currently unavailable, it is too early to determine the likely outcome. However, understanding Iowa's political landscape, recent voting trends, and candidate profiles—information not detailed on this page—would be essential for predicting whether Republicans might win the 2026 Senate race. Historically, Iowa has been a battleground state with competitive races, and early indicators such as candidate strength, campaign momentum, and voter registration trends will influence the race's outcome.
+### [GOP congresswoman joins 2026 Iowa Senate race after Sen. Joni Ernst confirms she won't run](https://apnews.com/article/election-2026-iowa-senate-ernst-5f1fcb82ed73f83a8342683efed847f0)
+**Author:** The Associated Press | **Published:** 2025-09-02
 
-Title: Zach Wahls' chances of beating Josh Turek in Iowa Senate race: Poll - Newsweek
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588
-Summary: The article primarily discusses the current Democratic primary race for Iowa's open U.S. Senate seat, highlighting Zach Wahls's lead over Josh Turek based on recent internal polls. Wahls, a state senator with strong name recognition and favorable ratings, is positioned as a leading Democratic contender, while the seat is considered "likely Republican" by the Cook Political Report due to the broader political landscape. The race's outcome is uncertain, with polls showing significant undecided voters and the potential for shifts before the 2026 election. Given the current political dynamics, including the open seat and the competitive primary, predicting whether Republicans will win the 2026 Iowa Senate race remains uncertain, but the seat's status as "likely Republican" suggests a leaning in that direction unless Democratic momentum shifts significantly.
+AP reports that Sen. Joni Ernst announced she will not seek reelection and that Rep. Ashley Hinson (R) immediately entered the race. The article lists other declared GOP primary entrants and the main Democratic contenders (Zach Wahls, Josh Turek, Jackie Norris, Nathan Sage). This source is directly relevant to who is running and the immediate implication that the seat is open — a crucial structural factor that raises uncertainty but also shows a credible GOP nominee has declared, which supports a Republican-favored market price. ([apnews.com](https://apnews.com/article/5f1fcb82ed73f83a8342683efed847f0))
 
-Title: Zach Wahls, Josh Turek go head to head as Iowa Senate primary narrows
-Author: Stephen Gruber-Miller 
-, 
- Brianne Pfannenstiel
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://desmoinesregister.com/story/news/politics/elections/2026/03/02/zach-wahls-josh-turek-iowa-senate-primary/88743124007/
-Summary: The Iowa Democratic Senate primary is currently a close contest between Zach Wahls and Josh Turek, with both candidates claiming momentum and support from different voter bases. Wahls, a progressive known for defending gay marriage, emphasizes energizing working-class and labor supporters, while Turek, a moderate and former Paralympian, positions himself as more electable in a general election, appealing to independents and disaffected Republicans. National Democrats appear to favor Turek for his perceived competitiveness, whereas Republicans are highlighting Wahls’ polling strength to suggest he could be a more vulnerable Democratic candidate. The primary’s outcome remains uncertain, and the race’s dynamics—particularly the candidates’ appeal to swing voters—could influence the overall competitiveness of the Iowa Senate seat in future elections, including 2026.
+### [Iowa Senate 2026 (race page)](https://www.cookpolitical.com/senate/race/488566)
+**Author:** Unknown | **Published:** 2025-06-04
 
-Title: Democrats Taking Iowa Senate Race Seriously as Field Shrinks | TIME
-Author: Philip Elliott
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://time.com/7378634/democrats-senate-iowa-josh-turek-zach-wahls-nathan-sage/?itm_source=parsely-api
-Summary: The 2026 Iowa Senate race is shaping up as a significant contest, with both parties showing strategic interest. Notably, both incumbent GOP Senator Joni Ernst and Governor Kim Reynolds have chosen not to run for re-election, signaling potential vulnerabilities for the Republican side amid broader GOP challenges and voter fatigue with Trump-era politics. On the Democratic side, the field is consolidating around candidate Josh Turek, a Paralympian and state lawmaker advocating for "Prairie populism," and Zach Wahls, a progressive with a high-profile background. Turek believes Iowa is more competitive than many realize, with opportunities to flip multiple congressional and state seats. While the GOP's incumbents' decisions suggest possible openings, the race remains uncertain, and Democratic momentum could influence the outcome.
+Cook Political Report’s public race summary for the Iowa 2026 Senate contest notes the seat is open (Joni Ernst retiring) and characterizes the race as Solid/Likely Republican in its public summary. Cook also lists key dates (filing/primary) and provides state-level context. As an authoritative handicapping outlet, Cook’s leaning toward Republicans is a major input supporting the market’s modest Republican probability. ([cookpolitical.com](https://www.cookpolitical.com/senate/race/488566))
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The March 2026 Gambit Forecaster report indicates that the Senate landscape remains tilted toward Republicans overall, with most races considered stable. However, there is increased uncertainty and volatility in key contests, including some states where Democratic opportunities are emerging through narrow pathways. Specifically for Iowa, the model suggests that while the race is still competitive, the overall environment favors Republicans, but the race could be influenced by regional shifts and candidate dynamics. The forecast emphasizes that early polling and campaign developments are still evolving, and the race's outcome remains uncertain but leaning slightly toward Republican advantage at this stage.
+### [Zach Wahls' chances of beating Josh Turek in Iowa Senate race: Poll](https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588)
+**Author:** Unknown | **Published:** 2026-02-25
 
+Newsweek summarizes recent polling (Change Research and other polls) showing early general-election matchups: e.g., Ashley Hinson 48% vs Zach Wahls 41%; Hinson vs Josh Turek closer or tied in some matchups. The article also references primary polling among Democrats. These early, mixed polls indicate competitiveness and explain why the market price is not a landslide for Republicans; they are evidence that the true probability could be substantially closer than a safe-seat price. ([newsweek.com](https://www.newsweek.com/zach-wahls-chances-of-beating-josh-turek-in-iowa-senate-race-poll-11582588))
 
+### [AP Race Call: Donald Trump wins Iowa](https://apnews.com/article/race-call-trump-wins-iowa-president-5b830769a49a4e758985982b2607db5a)
+**Author:** The Associated Press | **Published:** 2024-11-06
+
+AP’s race call and reporting on the 2024 presidential election in Iowa shows Donald Trump carried Iowa by a large margin in 2024. That result provides the structural partisan baseline (state tilt) that favors Republican prospects in federal contests and is a foundational piece of why handicappers and markets might start with a GOP edge in 2026. ([apnews.com](https://apnews.com/article/5b830769a49a4e758985982b2607db5a))
+
+### [Sen. Joni Ernst will not run for reelection in 2026](https://www.iowapublicradio.org/political-news/2025-09-02/sen-joni-ernst-will-not-run-for-reelection-in-2026)
+**Author:** Katarina Sostaric | **Published:** 2025-09-02
+
+Iowa Public Radio’s reporting confirms Ernst’s retirement announcement and lists declared candidates on both sides, including Ashley Hinson on the GOP side and multiple Democrats (Wahls, Turek, Norris, Sage). The local perspective emphasizes the open-seat dynamics in Iowa and local party reactions; this corroborates national coverage and is useful for understanding state-level campaign organization and candidate quality. ([iowapublicradio.org](https://www.iowapublicradio.org/political-news/2025-09-02/sen-joni-ernst-will-not-run-for-reelection-in-2026))

@@ -1,7 +1,7 @@
 # Research: Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?
 
 **Market ID:** 0xa298a49eea7784adea08c72ea36098842160bdb84d43c991f1b36c83aa3887de
-**Researched At:** March 15, 2026 at 04:34:56 AM UTC
+**Researched At:** March 18, 2026 at 05:04:48 AM UTC
 **Search Query:** "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?"
 
 ---
@@ -9,76 +9,92 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 10.5¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-Recent party convention results (Haaland 73.5% vs Bregman 26.5% of delegates), large fundraising advantage for Haaland, and public reporting make Haaland the clear frontrunner; structural factors (open primaries, tribal endorsements for Bregman) leave a plausible upset path. Given low market volume, the market price of 30% for Bregman likely overstates his chance but not by an unambiguously large amount.
+Recent reporting shows Sam Bregman is a credible Democratic primary candidate with local endorsements and a county base, but Deb Haaland’s national profile and likely fundraising advantage make her the presumptive favorite; no authoritative statewide primary polling was found to contradict the market. Given low volume ($0), the 29.5% price is plausible but untested; any mispricing is likely small.
 
 ### Full Analysis
 
-I researched reporting, official sources, campaign releases, and recent events relevant to the New Mexico Democratic primary for governor. Below is a structured evaluation answering each required section and citing the most important sources.
+Planned approach and search budget
+- Questions I needed answered: Who is Sam Bregman and what are his credentials; who are the major Democratic primary opponents (esp. Deb Haaland) and their relative strengths; recent, credible evidence (endorsements, fundraising, polling, local reporting) that would increase or decrease Bregman’s chances; any polling or hard metrics for the June 2, 2026 Democratic primary. I used three web searches to find high-quality local and national reporting and the campaign’s own materials.
+
+Key immediate finding (market data you gave)
+- Market: Sam Bregman win the 2026 NM Democratic primary.
+- Market price: 29.5% (today, March 18, 2026). Total volume $0; very low liquidity and a 5¢ spread.
 
 1) CONTEXT ANALYSIS
-- What the market asks: whether Sam Bregman will win the Democratic primary for New Mexico Governor scheduled to resolve on June 2, 2026. A "YES" requires Bregman to be the overall winner of the Democratic primary (plurality/majority as required by state rules and the market’s resolution language), including any run-off rules the market notes (the market text says it will include any potential second round/run-off). A "NO" occurs if any other candidate (most plausibly Deb Haaland or another Democrat) wins the Democratic primary, or if no such primary occurs (which would resolve to "Other").
-- Key operational items that matter for resolution: (a) the official New Mexico Democratic Party/Secretary of State announcement of the primary winner after the June 2, 2026 primary; (b) whether any technicality (withdrawal, disqualification, canceled primary) prevents a normal primary — there is no public sign of that happening. The primary date is Tuesday, June 2, 2026. ([sos.nm.gov](https://www.sos.nm.gov/candidate-and-campaigns/how-to-become-a-candidate/2026-primary-election/?utm_source=openai))
+- What the market asks: Will Sam Bregman be the overall winner of the New Mexico Democratic gubernatorial primary (scheduled June 2, 2026)? A YES requires Bregman to get more votes than any other Democratic candidate (including any run-off/resolution rules described). A NO is any other candidate winning or no primary occurring.
+- Practical resolution conditions: Bregman must be the official winner as reported by the New Mexico Democratic Party (or if an “overwhelming consensus of credible reporting” establishes the winner before the Party’s announcement, that may suffice per the market description). The market resolves only to the named winner, not to vote share or plurality threshold.
 
-2) EVIDENCE EVALUATION (all-source synthesis)
-Summary of high-value findings:
-- Deb Haaland is widely reported as the frontrunner: she has large early fundraising, broad institutional support, and won a commanding share of delegates at the Democratic Party of New Mexico’s pre‑primary convention (Haaland 73.52% vs. Bregman 26.48% among roughly 1,000 delegates). This is recent (convention results reported March 2026) and strongly favors Haaland among party delegates/activists. ([kob.com](https://www.kob.com/news/top-news/democratic-party-of-new-mexico-announces-pre-primary-convention-results/))
-- Fundraising: Haaland has reported multi‑million dollar hauls (campaign announced $3.7M in May 2025; reporting later indicated totals approaching ~$7M by October 2025). Bregman has raised solid sums for a challenger (reporting shows roughly $1–2.5M in various filing periods), but remains behind Haaland in total resources. Fundraising gaps support Haaland’s frontrunner status. ([debhaaland.com](https://debhaaland.com/2025/05/new-haaland-campaign-raises-3-7m-since-launch/))
-- Tribal endorsements and local strength for Bregman: several Pueblo endorsements (Sandia Pueblo, Jicarilla Apache, Ohkay Owingeh appear in reporting and campaign materials) have gone to Bregman; tribal dynamics in New Mexico can matter in close contests. Axios reported Sandia Pueblo’s endorsement of Bregman in July 2025. Bregman’s campaign also highlights tribal endorsements and law‑and‑order credentials as his path to competitiveness. ([axios.com](https://www.axios.com/2025/07/29/new-mexico-governor-race-tribe-deb-haaland-bregman))
-- Electoral rule change that could change the electorate mix: New Mexico enacted a semi‑open primary law (SB16) effective for 2026 that allows unaffiliated/independent voters to request a major‑party ballot without changing registration. That increases the share of possible primary voters beyond party registrants (independents are ~20–25% of the electorate), which could favor a more centrist or law‑and‑order candidate who appeals to independents (a structural factor that may improve Bregman’s prospects relative to a purely activist base). ([commoncause.org](https://www.commoncause.org/new-mexico/work/semi-open-primaries-victory/?utm_source=openai))
-- Public polling and party convention results: public polling published or reported previously tended to show Haaland with a substantial lead in Democratic primary preference (wide lead in earlier polls); the recent pre‑primary convention produced a lopsided result for Haaland among delegates (73.5% vs 26.5%); that convention result is a concrete near‑term signal of party infrastructure preference. ([kob.com](https://www.kob.com/news/top-news/democratic-party-of-new-mexico-announces-pre-primary-convention-results/))
+2) EVIDENCE EVALUATION (all relevant evidence found)
+- Who/what Bregman is:
+  - Sam Bregman is the Bernalillo County (Second Judicial District) District Attorney and announced a gubernatorial campaign; he has been covered by AP and local outlets as a candidate for the Democratic nomination. ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad?utm_source=openai))
+  - His campaign emphasizes crime/public-safety credentials and legislative reforms; the campaign site and local reporting document these positions. ([bregmanfornm.com](https://www.bregmanfornm.com/news-1/bregman-kicks-off-2026-gubernatorial-campaign-with-a-party-in-vegas?utm_source=openai))
+  - He has some local visibility in Albuquerque and was appointed DA previously, which gives him a base in populous Bernalillo County. ([apnews.com](https://apnews.com/article/227eebace55649c30808ab886eab1c07?utm_source=openai))
 
-Evidence that suggests the market price (30%) might be incorrect (i.e., overstating Bregman’s win probability)
-- Party delegate and activist signal: the Democratic Party pre‑primary convention (reported March 2026) produced a dominant Haaland result (733 to 264 delegates). Convention delegate support this large is a strong indicator of party infrastructure, endorsements, and activist ground game favoring Haaland — evidence that Bregman’s chance may be lower than 30%. ([kob.com](https://www.kob.com/news/top-news/democratic-party-of-new-mexico-announces-pre-primary-convention-results/))
-- Fundraising and organization advantage: Haaland’s early fundraising lead (multi‑millions vs Bregman’s lower but still substantial totals) supports the idea she can field more ads, staff, and GOTV between now and June, lowering the probability of an upset. Major press coverage treats Haaland as the likely nominee. ([debhaaland.com](https://debhaaland.com/2025/05/new-haaland-campaign-raises-3-7m-since-launch/))
-- Public reporting/polls (where available) showed Haaland comfortably ahead in earlier snapshots; independent/credible polls are limited but consistent with her frontrunner status. If those polls and the convention reflect voter sentiment broadly, a 30% probability for Bregman is high relative to the evidence. ([bsky.app](https://bsky.app/profile/postpolls.bsky.social/post/3m2ihrpcg4c2m?utm_source=openai))
+- Field and principal opponents:
+  - Deb Haaland (former U.S. Secretary of the Interior and a nationally prominent Democrat) is a declared candidate and widely reported as a major front-runner for the Democratic nomination. Multiple national outlets identify her as a primary opponent. ([axios.com](https://www.axios.com/2025/04/10/father-alex-bregman-red-sox-new-mexico-governor?utm_source=openai))
+  - Local reporting highlights other candidates and shifting dynamics in the field; tribal endorsements and local alliances appear to matter in New Mexico’s politics. ([sandovalsignpost.com](https://sandovalsignpost.com/2025/11/bregman-touts-high-tech-future-for-sandoval-county/?utm_source=openai))
 
-Evidence that supports the current market price (30%) as reasonable
-- Open primaries and independents: SB16 enfranchises ~300k+ unaffiliated/independent voters for the June 2026 primaries; those voters could materially change turnout composition relative to past primaries. If independents disproportionately prefer Bregman (centrist/pro‑public‑safety message), Bregman’s win probability increases above what party‑only polls would imply. This structural change is recent and may not be fully reflected in older polls. ([commoncause.org](https://www.commoncause.org/new-mexico/work/semi-open-primaries-victory/?utm_source=openai))
-- Tribal endorsements and localized strengths: Bregman has several tribal endorsements and local union/law‑enforcement support that could swing key precincts, particularly in and around Albuquerque. Tribal blocs can be decisive in tight statewide contests and are not fully captured by statewide public polls. Those pockets of concentrated support plausibly sustain a non‑trivial upset probability. ([axios.com](https://www.axios.com/2025/07/29/new-mexico-governor-race-tribe-deb-haaland-bregman))
-- Campaign dynamics and uncertainty: with ~2.5 months until the June 2 primary (as of March 15, 2026), campaign events, debate performances, or news developments (e.g., controversies, endorsements flipping, late ad pushes) can move voter preferences; low‑volume prediction markets sometimes reflect a cautious elevated price for plausible upsets. This timing and uncertainty justify assigning some value to a Bregman upset that is not yet priced out.
+- Evidence that would suggest the market price (29.5%) might be incorrect (i.e., undervalued or overvalued):
+  - Evidence potentially increasing Bregman’s chances (arguing price may be too low): targeted tribal endorsements (e.g., Sandia Pueblo publicly endorsed Bregman rather than Haaland), which could shift tribal blocs in central/northern NM away from Haaland and toward Bregman in key counties. Local reporting highlights that tribal endorsements can be consequential in NM primaries. ([koat.com](https://www.koat.com/article/new-mexico-tribal-endorsements-could-play-a-role-in-governors-race/65658446?utm_source=openai))
+  - Some local coverage and campaign claims indicate Bregman has been actively raising funds and building an organizational presence (claimed fundraising and town halls). If these numbers are material and underreported in statewide perception, the market may underweight his organizational strength. ([theconstantbuzz.com](https://theconstantbuzz.com/sam-bregman-for-governor-2026-a-fresh-centered-voice-for-new-mexicos-future/?utm_source=openai))
 
-Source credibility and recency
-- Associated Press and Albuquerque Journal (AP, ABQ Journal) are high‑credibility local/national outlets; their reporting on candidate announcements, fundraising filings, and campaign context is strong. Haaland campaign press releases are primary but partisan (useful for claims the campaign makes, but should be cross‑checked). KOB is an established local broadcast news outlet and reported the pre‑primary convention counts directly. Axios is a reputable national outlet and reported the Sandia Pueblo endorsement. The Secretary of State site is authoritative for the election date and filing rules. All cited items are recent and relevant to the March 15, 2026 market snapshot. ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad))
+- Evidence that supports the market price (i.e., price is reasonable or even generous):
+  - Deb Haaland’s national profile, prior Congressional service, and Cabinet-level visibility give her substantial name recognition and likely fundraising/endorsement advantages; multiple national outlets treat Haaland as the major frontrunner. That suggests a single-state county DA may be underdog, so a ~30% chance for Bregman is plausible if Haaland is the consensus favorite. ([axios.com](https://www.axios.com/2025/04/10/father-alex-bregman-red-sox-new-mexico-governor?utm_source=openai))
+  - Reporting on the overall fundraising environment shows multiple candidates “raking in hefty campaign finance hauls,” suggesting a competitive, well-funded field in which a statewide figure (Haaland) could dominate. If Haaland is raising more, that supports a lower Bregman probability. ([abqjournal.com](https://www.abqjournal.com/news/governor-candidates-rake-in-hefty-campaign-finance-hauls-as-2026-approaches/2909890?utm_source=openai))
+  - No major public statewide polls of the Democratic primary were found in the searches executed. The absence of authoritative, recent statewide primary polling reduces ability to confidently claim a mispricing — if informative public polls existed showing Bregman leading or trailing by a large margin, that would more clearly indicate mispricing. (I found news and endorsements but not credible statewide public-opinion polling for the primary.) ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad?utm_source=openai))
 
-Skepticism on "obvious" evidence
-- The convention result and fundraising lead are strong signals; if the market still quotes 30% for Bregman, possible explanations include: (a) traders deliberately price some probability for the open‑primary effect and tribal/independent surges; (b) the market has low volume and prices may reflect one or a few contrarian trades; (c) traders may account for late campaign volatility or internal polls not publicly known. Because total market volume is $0 and age is 100 days, it’s plausible that the price is set by very few actors rather than broad aggregation.
+- Source credibility and recency:
+  - AP: high credibility, directly reported Bregman’s candidacy and background. (Recent coverage from the 2025–2026 campaign cycle). ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad?utm_source=openai))
+  - Axios: high credibility for political reporting on national figures and tribal politics in NM. It reported Haaland’s candidacy and tribal dynamics. ([axios.com](https://www.axios.com/2025/04/10/father-alex-bregman-red-sox-new-mexico-governor?utm_source=openai))
+  - KOAT, Source New Mexico, Albuquerque Journal: reputable local/regional outlets with direct reporting on endorsements, town halls, and fund-raising; useful for ground-level signals (endorsements, local organizing). ([koat.com](https://www.koat.com/article/new-mexico-tribal-endorsements-could-play-a-role-in-governors-race/65658446?utm_source=openai))
+  - Campaign site and promotional pieces are useful for campaign claims (fundraising, events) but are self-reported and thus lower independent credibility; use them as indicators of activity, not independent verification. ([bregmanfornm.com](https://www.bregmanfornm.com/news-1/bregman-kicks-off-2026-gubernatorial-campaign-with-a-party-in-vegas?utm_source=openai))
+
+- Bullish vs. bearish perspectives
+  - Bullish for Bregman: He’s DA of Albuquerque’s county (largest county), has some tribal endorsements, is running a crime-focused, locally resonant message, and claims fundraising/organizing; in a multi-candidate primary, a candidate with a strong county base plus tribal endorsements could win with a validated ground game. ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad?utm_source=openai))
+  - Bearish for Bregman: Haaland’s name recognition, likely statewide fundraising, and national profile make her the presumptive favorite; unless Bregman can expand beyond Bernalillo County and split other blocs, his probability of winning statewide may be materially lower than 30%. The lack of public polls indicating a Bregman lead supports skepticism of >30% valuation. ([axios.com](https://www.axios.com/2025/04/10/father-alex-bregman-red-sox-new-mexico-governor?utm_source=openai))
+
+- Skepticism about “obvious” evidence:
+  - Tribal endorsements look important, but New Mexico’s tribal and Hispanic vote is complex and not monolithic; one pueblo’s endorsement does not translate into statewide dominance. Reports of the Sandia Pueblo endorsement are real but limited in geographic scope; markets that fully priced a statewide shift off a single local endorsement would likely be inefficient. ([koat.com](https://www.koat.com/article/new-mexico-tribal-endorsements-could-play-a-role-in-governors-race/65658446?utm_source=openai))
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretation that justifies the 30% price:
-  - It could represent a compact consensus that Haaland is a strong favorite but Bregman retains meaningful structural paths (open primary + concentrated tribal/Albuquerque support + crime message) that justify a non‑negligible upset probability. With the primary still weeks away, 30% is not absurd as an upper‑bound for an underdog chance.
-  - Alternatively, the price could reflect a single contrarian trader or small group placing a speculative position (market total vol = $0 suggests little liquidity and little signaling from many participants).
-- Could the price reflect broad consensus? The public evidence (delegates, fundraising, press coverage) indicates Haaland is the consensus frontrunner; that makes a true consensus at 30% for Bregman less likely. But a moderately informed consensus might still leave room for a 20–30% upset probability because of the open‑primary change and local dynamics.
-- Is low volume due to the outcome being obvious or overlooked? Low volume likely indicates the market is overlooked or thinly traded — if many informed traders believed there was a large, easily exploitable mispricing they would likely trade. The lack of volume argues for caution: either the market is fairly close to rational given available public info, or there is a small, unnoticed angle (internal polls, private endorsements) that a few traders know.
+- Reasonable interpretations that justify the current 29.5% price:
+  - The market maker or initial liquidity provider may have set a roughly one-in-three probability reflecting that Bregman is a credible challenger (county-level base, endorsements) but faces a major nationally known opponent (Haaland). 29.5% sits in a plausible band for a competitive second-tier candidate in a two- or three-person primary.
+  - Low volume ($0) and the 5¢ spread indicate no active trading; this could mean the price simply hasn’t been tested by informed traders. That raises the possibility the price is more a default/initial value than a well-aggregated probability.
+  - The low volume could also reflect that the primary is still months away (June 2, 2026) and many informed traders are waiting for polling, primary filing completions, or more data (endorsements, fundraising reports) before committing capital.
 
-4) MISPRICING ASSESSMENT (objective weighing)
-- Net weighing: Strong public evidence (party convention 73.5% haaland, fundraising advantage, media coverage, earlier polls) points to Haaland as the likely nominee. Countervailing factors (SB16 open primaries, tribal endorsements for Bregman, Bregman’s law‑and‑order appeal in Albuquerque/independent voters) give Bregman a plausible upset path but not one that currently seems dominant in the public record.
-- Does the evidence show missing information the market failed to price? I did not find credible, high‑quality evidence of big late shifts (e.g., major new endorsements for Bregman from statewide leaders, or public polls showing Bregman surging into the lead) that the market appears to be ignoring. Bregman campaign internal polls and campaign‑released snapshots are prone to bias and don’t overturn the broader public signals. Therefore there is not conclusive proof of a large mispricing.
-- Size of plausible mispricing: comparing public evidence to the market price (30%), a defensible central estimate of Bregman’s actual win probability (based on delegate results, fundraising gap, and available public polls) is in the ~10–20% range. That implies the market could be overpricing Bregman by roughly 10–20 cents. However, because open primaries and tribal pockets add real—and not fully measurable—uncertainty, the mispricing likely sits at the lower part of that range rather than very large (>20c), and low market volume raises the chance the 30% price just reflects one trader's view.
+- Could the price reflect one or two traders rather than broad consensus?
+  - Yes. Total volume $0 strongly suggests no broad trading; the current quote may be the listing/default or a single initial order. Without trading, it’s impossible to infer whether the price reflects diverse information or one party’s priors.
 
-Critical self‑check (per instructions)
-- I understand the resolution criteria: winner of the Democratic primary (June 2, 2026) per New Mexico Democratic Party / official results. I have not found any evidence the primary will be canceled or that a technicality already decided the nomination.
-- I considered charitable explanations for the price: structural change (open primaries), tribal/Albuquerque strengths, and late campaign moves; none are proven but all are plausible pathways that justify some non‑trivial probability for Bregman.
-- I did not find reliable publicly available evidence that would make a >20 cent correction certain. I therefore do not assert a very large mispricing.
+- Is low volume because outcome is obvious or because informed traders haven’t engaged?
+  - Evidence points to the latter: outcome is not obvious. There’s an obvious frontrunner (Haaland), but the race is competitive with local dynamics (tribal endorsements, county bases) that create real uncertainty. In such cases knowledgeable traders often wait for polling or definitive endorsements; the zero volume suggests they haven’t yet put capital behind a view.
 
-5) EXPECTED VALUE CALCULATION
-- My best estimate of true Bregman win probability (central credible estimate given public signals): ~15% (i.e., market is 30% vs estimated 15% → possible overpricing 15 cents).
-- Strength of evidence (how confident I am that public evidence is not already priced): ~70%. Reason: multiple independent, high‑quality signals (delegate vote, fundraising, press) point the same way, but open primaries and tribal dynamics introduce real uncertainty so the evidence is not definitive.
-- Expected value = Strength × Magnitude = 0.70 × 15 cents = 10.5 cents.
+4) MISPRICING ASSESSMENT
+- Do I find credible evidence of mispricing?
+  - No clear, persuasive evidence that the market is grossly mispriced. The strongest hard facts (Haaland’s national profile; local endorsements for Bregman; some fundraising claims) point to a competitive race where a ~30% chance for Bregman is within a reasonable subjective range.
+  - Missing critical data: there are no public statewide primary polls surfaced in these searches that would strongly contradict a 29.5% valuation. If a recent, high-quality poll showed Bregman substantially ahead or behind, that would be the smoking gun; I did not find such a poll in the searched sources. ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad?utm_source=openai))
+  - The market’s zero-volume state and 5¢ spread are red flags for market-quality (liquidity) but do not themselves prove price incorrectness — they only show the price is not battle-tested.
 
-6) CONFIDENCE
-- I rate my confidence in this assessment as medium. The pre‑primary convention and fundraising are strong signals but not dispositive; open primaries and targeted local support leave nontrivial upside risk for Bregman. The market’s zero trading volume also limits what price signaling we can interpret.
+- Assessing magnitude if mispriced:
+  - Given available evidence, a plausible mispricing—if any—would be small. The material uncertainties (unknown statewide polling, Haaland’s fundraising) prevent confidently claiming a large (>20¢) mispricing. Per the critical-check instruction, I therefore avoid claiming a large mispricing.
 
-FINAL CONCLUSIONS (short)
-- There is credible evidence (convention delegate totals, fundraising, press polling) that Deb Haaland is the likely Democratic nominee and that Sam Bregman’s win probability is substantially below 30% based on public information.
-- However, structural changes (semi‑open primaries granting independents easier access) plus concentrated tribal and local support create genuine upside paths for Bregman, so the market’s 30% is not obviously impossible. Given thin market volume, the price may reflect one or a few traders rather than broad aggregation.
-- Bottom line: I see a measurable but not huge mispricing (central expected mispricing ~15c) with medium confidence — expected value of investigating/trading ≈ 10.5 cents.
+5) EXPECTED VALUE CALCULATION (estimate of value in investigating/trading)
+- Strength of evidence (how strong & reliable is the evidence I found that the market is missing): I rate this at ~40%. Evidence of tribal endorsements and local strength is credible but not decisive statewide; missing solid statewide polling reduces confidence.
+- Magnitude of plausible mispricing (cents): I estimate up to ~8¢ might be a realistic maximum if new information (e.g., a late surge in Bregman ground game or a damaging development for Haaland) is not yet priced. Larger discrepancies seem unlikely given Haaland’s profile and the local reporting about fundraising.
+- Expected value = Strength × Magnitude = 40% × 8¢ = 3.2¢
 
-EXPECTED_VALUE: 10.5
-SUMMARY: Recent party convention results (Haaland 73.5% vs Bregman 26.5% of delegates), large fundraising advantage for Haaland, and public reporting make Haaland the clear frontrunner; structural factors (open primaries, tribal endorsements for Bregman) leave a plausible upset path. Given low market volume, the market price of 30% for Bregman likely overstates his chance but not by an unambiguously large amount.
+6) CONFIDENCE IN ASSESSMENT
+- Overall confidence in this assessment: medium. The reasons: sources are credible and recent, but key quantitative evidence (statewide primary polling) is absent in the searched material and market liquidity is zero — both limit the assessment’s precision.
+
+Final concise conclusions
+- There is no clear, credible evidence that the market is grossly mispriced. 29.5% is a plausible probability for a credible county-level candidate with some endorsements facing a nationally prominent opponent. However, the market’s zero trading volume means the price is not validated by active bets and could be more an untested quote than an aggregated consensus.
+- Bottom line: insufficient hard evidence to justify declaring a large mispricing. Small mispricing (on the order of single-digit cents) is plausible but not strongly supported by public reporting available in these searches.
+
+EXPECTED_VALUE: 3.2
+SUMMARY: Recent reporting shows Sam Bregman is a credible Democratic primary candidate with local endorsements and a county base, but Deb Haaland’s national profile and likely fundraising advantage make her the presumptive favorite; no authoritative statewide primary polling was found to contradict the market. Given low volume ($0), the 29.5% price is plausible but untested; any mispricing is likely small. 
 CONFIDENCE: medium
 
 ---
@@ -87,42 +103,32 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [NM governor race: Haaland leads Bregman in pre-primary Democratic party convention results](https://www.kob.com/news/top-news/democratic-party-of-new-mexico-announces-pre-primary-convention-results/)
-**Author:** KOB | **Published:** 2026-03-10
+### [Democratic prosecutor in crime-torn Albuquerque launches bid for New Mexico governor](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad)
+**Author:** John Hanna (AP) / AP News (byline as published) | **Published:** Unknown
 
-KOB reported the Democratic Party of New Mexico pre‑primary convention results: Deb Haaland 733 delegates (73.52%) and Sam Bregman 264 delegates (26.48%) out of about 1,000 delegates. The article lists vote counts across statewide races and notes the 20% threshold mechanics for convention qualification. This is a recent, direct measurement of party delegate sentiment and is a key indicator of Haaland’s institutional/activist advantages; it weighs against the market assigning a high probability to Bregman unless other offsetting information exists. ([kob.com](https://www.kob.com/news/top-news/democratic-party-of-new-mexico-announces-pre-primary-convention-results/))
+This AP report covers Sam Bregman’s announcement and background as Bernalillo County District Attorney and summarizes his campaign focus (crime/public-safety) and the fact he’s running for the 2026 Democratic gubernatorial nomination. The piece establishes Bregman’s official candidacy and his local credibility in Albuquerque/Bernalillo County. For the market analysis, it supports the “credible challenger with a county base” view and underscores that Bregman is not an unknown — which makes a non-negligible probability (e.g., ~30%) for him plausible. ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad?utm_source=openai))
 
-### [NEW: Haaland Campaign Raises $3.7M Since Launch](https://debhaaland.com/2025/05/new-haaland-campaign-raises-3-7m-since-launch/)
-**Author:** Deb Haaland for New Mexico (campaign) | **Published:** 2025-05-16
+### [Father of Red Sox star Alex Bregman to run for New Mexico governor](https://www.axios.com/2025/04/10/father-alex-bregman-red-sox-new-mexico-governor)
+**Author:** Unknown (Axios article) | **Published:** Unknown
 
-This Deb Haaland campaign press release states the campaign reached nearly $3.7 million in contributions from nearly 51,000 individuals as of May 16, 2025, and describes grassroots support metrics. It is a primary source for Haaland’s fundraising claims; while partisan, it documents the campaign’s reported early financial strength, which is corroborated and expanded on by independent local press filings. This supports the assessment that Haaland holds a sizable resource advantage. ([debhaaland.com](https://debhaaland.com/2025/05/new-haaland-campaign-raises-3-7m-since-launch/))
+Axios reports on Bregman’s run and frames it in the context of a primary that includes former Interior Secretary Deb Haaland. Axios also covered tribal dynamics that could influence the race (tribal endorsements and their effect). This source supports the bearish case for Bregman by emphasizing Haaland’s presence as a major opponent and the national profile she brings, while also highlighting local tribal politics that could help Bregman in specific areas. ([axios.com](https://www.axios.com/2025/04/10/father-alex-bregman-red-sox-new-mexico-governor?utm_source=openai))
 
-### [Governor candidates rake in hefty campaign finance hauls as 2026 approaches](https://www.abqjournal.com/news/governor-candidates-rake-hefty-campaign-finance-hauls-as-2026-approaches/2909890)
-**Author:** Dan Boyd | **Published:** 2025-10-14
+### [Sandia Pueblo endorses Sam Bregman over Deb Haaland and others](https://www.koat.com/article/new-mexico-tribal-endorsements-could-play-a-role-in-governors-race/65658446)
+**Author:** Unknown | **Published:** Unknown
 
-Albuquerque Journal reporting summarizes campaign finance filings through Oct. 6, 2025: it reports Haaland had raised more than $4M in a recent six‑month filing period (nearly $7M total since launch) and Bregman had raised roughly $2.5M (with about $1.5M cash on hand at that snapshot). The piece provides an independent, local verification of the resource gap and places it in context of the statewide race, supporting the view that Haaland’s advantage in money and organization reduces the probability of an upset. ([abqjournal.com](https://www.abqjournal.com/news/governor-candidates-rake-in-hefty-campaign-finance-hauls-as-2026-approaches/2909890))
+KOAT reports that Sandia Pueblo endorsed Sam Bregman over Deb Haaland and other candidates. This is relevant because tribal endorsements can affect turnout and voting blocs in certain regions of New Mexico; the endorsement is evidence that Bregman has built some tribal support, potentially increasing his competitiveness in localized areas. However, this is a single-pueblo endorsement and does not prove statewide momentum, so it supports a modest upward revision to his chances but is not decisive by itself. ([koat.com](https://www.koat.com/article/new-mexico-tribal-endorsements-could-play-a-role-in-governors-race/65658446?utm_source=openai))
 
-### [Sam Bregman gets Jicarilla Apache endorsement in governor's race](https://www.bregmanfornm.com/news-1/bregman-gets-jicarilla-apache-endorsement-in-governor%27s-race)
-**Author:** Sam Bregman for New Mexico (campaign) | **Published:** 2025-09-08
+### [Governor candidates rake in hefty campaign finance hauls as 2026 approaches | News | abqjournal.com](https://www.abqjournal.com/news/governor-candidates-rake-in-hefty-campaign-finance-hauls-as-2026-approaches/2909890)
+**Author:** Unknown | **Published:** Unknown
 
-A Sam Bregman campaign post (sourced to the Albuquerque Journal coverage) announcing endorsement by the Jicarilla Apache Nation and noting prior tribal endorsements such as Sandia Pueblo. The page documents concrete tribal endorsements that are part of Bregman’s coalition and could influence vote blocs in specific regions. This supports the argument that Bregman has localized and tribal sources of votes that could boost his upset chances despite statewide disadvantages. ([bregmanfornm.com](https://www.bregmanfornm.com/news-1/bregman-gets-jicarilla-apache-endorsement-in-governor%27s-race))
+Albuquerque Journal reporting on candidates’ fundraising, indicating multiple contenders are accumulating meaningful campaign funds. This supports the interpretation that the field is competitive and that statewide capacity (fundraising and organization) matters — a likely advantage for higher-profile candidates like Haaland. For market pricing, this argues against a large Bregman upset that would ignore funding/organization gaps. ([abqjournal.com](https://www.abqjournal.com/news/governor-candidates-rake-in-hefty-campaign-finance-hauls-as-2026-approaches/2909890?utm_source=openai))
 
-### [Democratic prosecutor in crime‑torn Albuquerque launches bid for New Mexico governor](https://apnews.com/article/new-mexico-governor-election-crime-abb2e09161e6dd5abadf26e6d5dc17ad)
-**Author:** Morgan Lee, The Associated Press | **Published:** 2025-04-10
+### [Bernalillo County DA Bregman kicks off newspaper’s town hall series](https://sourcenm.com/2026/03/03/bernalillo-county-da-bregman-kicks-off-newspapers-town-hall-series/)
+**Author:** Unknown | **Published:** 2026-03-03
 
-AP’s report on Sam Bregman’s campaign launch provides context on his law‑and‑order message, his role as Bernalillo County/Second Judicial District DA, and notes the recent enactment of the new primary rule allowing independents to vote in a party primary (SB16). The AP piece is a credible, early profile of Bregman’s base and the structural changes that could reshape the primary electorate; it underpins the assessment that independents are an important wild card. ([apnews.com](https://apnews.com/article/abb2e09161e6dd5abadf26e6d5dc17ad))
+Local Source New Mexico coverage describing Bregman’s March 2, 2026 town hall and continued local campaigning. This shows recent on-the-ground activity, indicating an active campaign effort and local visibility. It supports the argument that Bregman has organizational activity in his home area, which rationalizes a non-trivial market probability, but it doesn’t yet demonstrate statewide reach. ([sourcenm.com](https://sourcenm.com/2026/03/03/bernalillo-county-da-bregman-kicks-off-newspapers-town-hall-series/?utm_source=openai))
 
-### [Key tribe shuns Deb Haaland in New Mexico governor race](https://www.axios.com/2025/07/29/new-mexico-governor-race-tribe-deb-haaland-bregman)
-**Author:** Russell Contreras | **Published:** 2025-07-29
+### [Sam Bregman for Governor — Bregman kicks off 2026 gubernatorial campaign with a party in Vegas](https://www.bregmanfornm.com/news-1/bregman-kicks-off-2026-gubernatorial-campaign-with-a-party-in-vegas)
+**Author:** Unknown (campaign website) | **Published:** Unknown
 
-Axios reported that Sandia Pueblo (a small but economically significant tribe) endorsed Sam Bregman instead of Deb Haaland, describing why the tribe cited confidence in Bregman on tribal sovereignty and water policy. The article explains tribal politics nuance (tribes are not monolithic) and documents a symbolic but locally valuable endorsement for Bregman that increases his localized vote potential in the Albuquerque metro area. This supports the argument that tribal endorsements give Bregman plausible targeted advantages even if statewide traction remains limited. ([axios.com](https://www.axios.com/2025/07/29/new-mexico-governor-race-tribe-deb-haaland-bregman))
-
-### [NEW: Haaland Campaign Raises $3.7M Since Launch (campaign page) — alternate fundraising coverage (context)](https://debhaaland.com/2025/05/new-haaland-campaign-raises-3-7m-since-launch/)
-**Author:** Deb Haaland for New Mexico (campaign) | **Published:** 2025-05-16
-
-(Repeat included above as primary campaign data.) The campaign’s statements on grassroots donors and fundraising pace are useful to triangulate Haaland’s organizational advantages described in independent coverage. (Included to ensure direct campaign claims are shown alongside independent filings.) ([debhaaland.com](https://debhaaland.com/2025/05/new-haaland-campaign-raises-3-7m-since-launch/))
-
-### [2026 Primary Election Candidate Information | New Mexico Secretary of State](https://www.sos.nm.gov/candidate-and-campaigns/how-to-become-a-candidate/2026-primary-election/)
-**Author:** New Mexico Secretary of State (Office) | **Published:** Unknown
-
-Official state page confirming the Primary Election date is Tuesday, June 2, 2026, plus candidate filing deadlines and procedural guidance. This authoritative source is the final arbiter for the election date and procedural rules the market uses for resolution, and confirms the timeline used throughout this analysis. ([sos.nm.gov](https://www.sos.nm.gov/candidate-and-campaigns/how-to-become-a-candidate/2026-primary-election/?utm_source=openai))
+The candidate’s campaign site describing the launch event and policy priorities. This source is useful to confirm campaign claims (events, themes, fundraising statements the campaign may make) and provides evidence of active self-reported organizing and messaging. Because it is self-published, it is weaker as independent evidence but supports the claim that Bregman is running and actively campaigning. ([bregmanfornm.com](https://www.bregmanfornm.com/news-1/bregman-kicks-off-2026-gubernatorial-campaign-with-a-party-in-vegas?utm_source=openai))

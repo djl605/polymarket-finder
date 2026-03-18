@@ -1,96 +1,104 @@
 # Research: Will Jannik Sinner be the 2026 Men’s Wimbledon winner?
 
 **Market ID:** 0x16b3e96fc29f37ff8a5309e82e1ebd11b6658b171dd788104d9a88c12cceebb6
-**Researched At:** March 11, 2026 at 04:20:05 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"
+**Researched At:** March 18, 2026 at 04:41:30 AM UTC
+**Search Query:** "Will Jannik Sinner be the 2026 Men’s Wimbledon winner?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.6¢
+**Expected Value:** 2.4¢
 
 ### Summary
 
-Bookmakers and top-player analyses converge on ~40% implied probability for Sinner’s 2026 Wimbledon win, closely matching the market’s 38%. No credible new information indicates a large mispricing, making any edge small (~2¢).
+Public, authoritative sources show Jannik Sinner is the reigning 2025 Wimbledon champion, remains a top‑2 player in early March 2026 and was in competitive form at Indian Wells — facts that make a 35% market probability for Wimbledon 2026 plausible. I found no clear, credible public evidence (injury, ineligibility, or other disqualifier) that would indicate a large, obvious mispricing; the low market volume does mean the price could reflect a few traders rather than broad consensus.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks: “Will Jannik Sinner win the 2026 Men’s Wimbledon Singles title?” It resolves YES if Sinner is officially declared the champion between June 29 and July 12, 2026. It resolves NO if he is definitively prevented from winning (e.g., retires, is banned, or loses before the final). If Wimbledon is cancelled or no winner by August 31, it resolves to Other.  
+Plan & queries used
+- I searched authoritative tennis reporting and governing bodies to check Sinner’s status, form and head‑to‑head context: AP (match report), ATP (rankings & match reports), The Guardian (match coverage) and ITF (Wimbledon match notes). (I used the allotted web searches to retrieve these sources.)
 
-2. EVIDENCE EVALUATION  
-Bullish evidence for >38% probability:  
-- Bookmakers (bet365 via JohnnyBet) list Sinner at 6/4 (implied ~40%), suggesting a consensus around that level. Two independent pages (2026-03-01) confirm early odds of ~40%.  
-- David Lenton (2026-03-03) notes Sinner’s world No. 1 status, recent Grand Slam win (Australian Open 2026), and deep Wimbledon runs (QF 2022, SF 2025), supporting his top-contender status.  
-- Defending-champion status (if we trust one JohnnyBet source that says he won Wimbledon 2025) would normally boost his probability further.  
+1) CONTEXT ANALYSIS
+- Market question: “Will Jannik Sinner be the 2026 Men’s Wimbledon winner?” — it resolves YES only if Sinner wins the Men’s Singles title at Wimbledon 2026 (tournament dates given in the market: June 29–July 12, 2026). It resolves NO only if, before the tournament, it becomes impossible for Sinner to win under tournament rules (e.g., permanent retirement, death, or explicit rule disqualification making him ineligible). If the tournament is cancelled or postponed past Aug 31, 2026 or no winner declared, this market resolves “Other” (per the market text you provided).
+- What must happen for YES: Sinner must enter the 2026 Wimbledon draw and win every match through the final (i.e., be the champion between June 29–July 12, 2026).
+- What must happen for NO: Sinner must become impossible to win before the tournament (withdrawal alone does not necessarily resolve the market to “No” unless the tournament rules make it impossible for him to win), or the market operator’s resolution rules as quoted are triggered.
 
-Bearish evidence for <38% probability:  
-- Tim Henman (2026-03-01) highlights that opponents like Alcaraz and Djokovic are discovering tactics to exploit Sinner’s patterns, implying vulnerabilities on grass if he fails to adapt.  
-- The competitive landscape remains fluid: Alcaraz (twice Wimbledon champion) and Djokovic are still threats, plus emerging younger players. Form and injuries between now and mid-2026 add uncertainty.  
+2) EVIDENCE EVALUATION (relevant, cited findings)
+Load‑bearing facts (with sources cited inline):
 
-Source credibility and recency:  
-- David Lenton is a tennis analyst, published March 3, 2026 – highly relevant and recent.  
-- JohnnyBet/bookmakers are widely used but odds include vig; two pages corroborate odds, though one misreports Sinner as 2025 Wimbledon champion instead of US Open.  
-- Tim Henman’s insights come from a former top player, published March 1, 2026 – credible but tactical advice may overstate the ease of exploiting Sinner.  
+- Sinner is the reigning Wimbledon champion (he won the 2025 Wimbledon final vs Carlos Alcaraz). This materially raises his baseline probability of winning in 2026 (defending champion effect). ([apnews.com](https://apnews.com/article/3366c0283890986775bd9dbe89567d2d))
+- Sinner remains a top player into early 2026: ATP commentary shows Sinner is competing at the top of the tour (No. 2 in the PIF ATP Live rankings in early March 2026, within striking range of Alcaraz). That supports continued elite status and a realistic repeat chance. ([atptour.com](https://www.atptour.com/en/news/alcaraz-sinner-pif-atp-rankings-projection-indian-wells-2026))
+- Recent form as of March 2026: Sinner was advancing in big hard‑court events (e.g., Indian Wells, March 2026), suggesting match fitness and no obvious long‑term layoff at that time. That supports the market treating him as a leading contender. ([atptour.com](https://www.atptour.com/en/news/sinner-shapovalov-indian-wells-2026-sunday))
+- Head‑to‑head / rivalry context: Sinner has beaten the very top opponents on the biggest stages (wins vs Alcaraz in Wimbledon 2025 final; strong showings vs Djokovic at slams). That history supports a comparatively high win probability in a given Grand Slam. ITF/Wimbledon match notes document the recent finals and rivalry context. ([itftennis.com](https://www.itftennis.com/media/14738/2025-wimbledon-mens-singles-final-match-notes.pdf))
 
-Nothing in the research offers a large, unpriced edge. If the true implied fair price is ~40% (bookmakers), the market’s 38% is within 2 cents.  
+Evidence that argues Sinner’s 35% price might be optimistic
+- Strong competition: Carlos Alcaraz (and other top players such as Novak Djokovic, Daniil Medvedev, etc.) remain elite. The ATP piece documents Alcaraz’s top ranking and the close No.1 race; having multiple top players in form reduces any single player’s repeat probability. (This is a general counterweight to a 35% single‑player win probability.) ([atptour.com](https://www.atptour.com/en/news/alcaraz-sinner-pif-atp-rankings-projection-indian-wells-2026))
+- Structural uncertainty: Grand Slams are single‑elimination events where variance, draw, matchups, and injuries across two weeks matter—these factors typically make single‑player win probabilities lower than season‑win probabilities. If traders are treating a defending champion’s win chance as much higher than historical Grand‑Slam repeat rates, that could be a source of overpricing.
+- No clear systemic flaw found in public sources (no announced long‑term injury, retirement, or suspension as of March 18, 2026). I did not find credible reporting that would make Sinner impossible to compete in 2026 Wimbledon.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 38% price aligns with early betting markets at ~40%, once you strip out vig.  
-- Low volume suggests limited trading but the tight 2¢ spread implies at least a couple of liquidity providers.  
-- The topic isn’t obscure (world No. 1 Grand Slam champion) but far-off horizon and tournament uncertainties may deter many traders.  
-- It’s plausible that the price reflects a genuine, if lightly traded, consensus among the few informed bettors who trade long-horizon tennis markets.  
+Evidence that supports 35% as reasonable
+- Defending champion premium: winning a Slam the prior year is a strong positive signal (match sharpness on grass, proven ability to win the tournament’s conditions), and Sinner’s 2025 victory was over the tour’s top rivals. That plausibly increases a repeat chance relative to an average top‑10 player. ([apnews.com](https://apnews.com/article/3366c0283890986775bd9dbe89567d2d))
+- Current ranking and form: Sinner’s top‑2 ranking and continued deep runs in big tournaments in early 2026 justify a market assigning him a materially higher probability than a mid‑field player. ([atptour.com](https://www.atptour.com/en/news/alcaraz-sinner-pif-atp-rankings-projection-indian-wells-2026))
+- No disqualifying information publicly visible as of March 18, 2026: absence of a clear disqualifier or long‑term injury reduces reasons to mark the market down to “No” or to a very low win probability.
 
-4. MISPRICING ASSESSMENT  
-- The market price is 38%; bookmakers imply ~40%. The ~2 cent gap could be vig or minor risk premium.  
-- No evidence suggests a >20 cent mispricing; all credible sources broadly align with the current price.  
-- Absent unexpected developments (major injury, drastic shift in form, or tournament structural change), the market seems reasonably efficient.  
+Source credibility and recency
+- AP, The Guardian, ATP Tour and ITF/Wimbledon match notes are high‑credibility, timely sources on matches, rankings and tournament facts (dates and results are recent and authoritative). I relied on March 2026 ATP reporting and July 2025 match reports—both directly relevant to projecting Wimbledon 2026 outcomes. ([apnews.com](https://apnews.com/article/3366c0283890986775bd9dbe89567d2d))
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price is wrong: ~30% (bookmakers hint at ~40%, but vig and tactical uncertainties moderate that edge).  
-- Magnitude of potential mispricing: ~2 cents.  
-- Expected value ≈ 0.30 × 2¢ = 0.6¢.  
+Skeptical note
+- If the market is at 35% with low total volume ($2,175) and a tight spread, the price could be set by a few confident traders combining the defending champion premium with short‑term optimism; alternatively, it could reflect a genuine consensus among knowledgeable fans/traders who expect Sinner to remain top‑class into June 2026. The public evidence (no major negative event) does not point strongly to a large, obvious missing factor that would make 35% clearly wrong.
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: Bookmakers and top-player analyses converge on ~40% implied probability for Sinner’s 2026 Wimbledon win, closely matching the market’s 38%. No credible new information indicates a large mispricing, making any edge small (~2¢).  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation of the current price: 35% can be justified as a mix of (a) defending‑champion premium, (b) top‑2 ranking and current match fitness, and (c) the field being somewhat concentrated at the top (Sinner, Alcaraz, Djokovic). That cluster of elite players raises the chance that one of them wins; within that cluster Sinner being priced at ~35% is aggressive but not implausible.
+- Could the price reflect one or a few traders? Yes — low total volume ($2,175) and market age (74 days) means a small number of active traders could move the price and maintain it, especially if informed desk traders or fans have a conviction. The tight spread indicates market‑maker liquidity but not broad participation.
+- Why low volume might be happening: either the outcome is perceived as relatively clear (defending champion + top ranking) and therefore not attractive for speculative value, or the market is simply overlooked by heavier liquidity providers. The available public evidence does not distinguish strongly between those two possibilities.
+
+4) MISPRICING ASSESSMENT (objective weighing)
+- Do I have specific, credible evidence that the market is missing material information? No. I find no authoritative reporting that Sinner will be unable to play Wimbledon 2026, nor a clear, objective change in form that would make his win probability collapse. Public rankings and results through March 2026 suggest Sinner remains a top contender.
+- Could the market nonetheless be inefficient? Yes — the low volume means the price could move materially if a few informed bettors act. But to call the current price a mispricing you need evidence of a missing risk (e.g., impending long‑term injury, suspension, retirement, or a strong surge by other players not being priced). I did not find such missing evidence in the sources I consulted.
+- Final assessment: Given the evidence (defending champion + elite ranking + active positive form into March 2026) versus the primary downside (strong rivals and the inherent variance of a Grand Slam), the market price of 35% does not appear to be an obvious, large mispricing. It is plausible, though somewhat aggressive relative to a naïve long‑term field probability; but I do not see a concrete, credible public signal that would justify calling this a large (>20¢) mispricing.
+
+CRITICAL CHECK (challenge the conclusion)
+- I re‑examined the resolution criteria and event timing: the market resolves to the named player if they win the tournament in the window June 29–July 12, 2026. There is no public evidence that Sinner is ineligible or that the tournament will be cancelled in that window. Therefore the most charitable interpretation (informed traders price Sinner high because he is defending champion and top‑ranked and is in-form) is reasonable.
+- Remaining possible missing information: late injuries or a change in Wimbledon entry/eligibility between March and June 2026 would change the picture — those are precisely the plausible unknowns that could create true mispricing later.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that the market is missing specific material information: I judge this as modest — there is not strong, specific evidence missing, but the market’s low liquidity leaves room for private info or concentrated bets. I quantify this as ~30% (0.30).
+- Magnitude of plausible mispricing if present: because Sinner is defending champion and top‑ranked, a plausible maximum correction (based on how bookmakers and markets typically reprice champions vs. the field) is moderate — I estimate an upper plausible error of ~8 cents (0.08). (This is not a claim the market is mispriced by 8¢, rather it is an estimate of plausible upside if private info is missing.)
+- Expected value = Strength × Magnitude = 0.30 × 8 cents = 2.4 cents
+
+EXPECTED_VALUE: 2.4
+SUMMARY: Public, authoritative sources show Jannik Sinner is the reigning 2025 Wimbledon champion, remains a top‑2 player in early March 2026 and was in competitive form at Indian Wells — facts that make a 35% market probability for Wimbledon 2026 plausible. I found no clear, credible public evidence (injury, ineligibility, or other disqualifier) that would indicate a large, obvious mispricing; the low market volume does mean the price could reflect a few traders rather than broad consensus.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Who Will Win the Singles Titles at Wimbledon?
-Author: David Lenton
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.cheekypunter.com/blog/who-will-win-the-singles-titles-at-wimbledon/
-Summary: Jannik Sinner, currently the top seed and world number one, has shown significant progress at Wimbledon, reaching the last eight in 2022 and the semi-finals last year. He has only lost three matches this year and has already won the Australian Open, indicating strong form and resilience. Although he faces tough competition, including Carlos Alcaraz and Novak Djokovic, his recent performance and ranking suggest he is a promising contender for future titles. However, predicting his victory in 2026 remains uncertain, as it depends on his continued development, fitness, and the evolving competitive landscape over the next few years.
+### [Jannik Sinner beats Carlos Alcaraz to win Wimbledon](https://apnews.com/article/wimbledon-final-alcaraz-sinner-3366c0283890986775bd9dbe89567d2d)
+**Author:** Unknown | **Published:** 2025-07-13
 
-Title: Wimbledon 2026 Betting Odds & Predictions | Early Favourites
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.johnnybet.com/wimbledon-predictions-2
-Summary: Early betting odds for Wimbledon 2026 favor Jannik Sinner, with bookmakers like bet365 listing him at 6/4 (2.50) to win the men's singles title. Sinner is considered a strong contender, especially after winning his first Grand Slam at the 2025 US Open. While Carlos Alcaraz is also a top favorite, having previously won Wimbledon twice, Sinner's recent performance and favorable odds suggest he could be a leading candidate to become the 2026 men's Wimbledon champion.
+AP’s match report documents Sinner’s four‑set victory over Carlos Alcaraz in the 2025 Wimbledon final and contains quotes and context about the final. This establishes Sinner as the reigning Wimbledon champion — a central fact when assessing his baseline chance to win in 2026. The article supports the view that Sinner has demonstrated the ability to beat the tour’s best on grass, which argues that a materially elevated probability (relative to an average top‑10 player) is defensible.
 
-Title: Wimbledon 2026 Betting Odds & Predictions | Early Favourites
-Author: 
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.johnnybet.com/wimbledon-betting-odds
-Summary: Early betting odds for Wimbledon 2026 favor Jannik Sinner, with bookmakers like bet365 offering him at 6/4 (2.50), making him a strong contender. Sinner is the defending champion, having won his first Grand Slam at Wimbledon in 2025, defeating Carlos Alcaraz. While Alcaraz is also highly favored at 6/5 (2.20), Sinner's recent victory and status as defending champion suggest he remains a top contender for the 2026 title. Other notable players include Carlos Alcaraz and Novak Djokovic, but current odds indicate Sinner's strong likelihood of winning again.
+### [Jannik Sinner wins first Wimbledon title with four‑set victory over Carlos Alcaraz – as it happened | Wimbledon 2025](https://www.theguardian.com/sport/live/2025/jul/13/wimbledon-mens-singles-final-jannik-sinner-carlos-alcaraz-live-tennis)
+**Author:** Daniel Harris | **Published:** 2025-07-13
 
-Title: Sportsbook Wire - Betting Odds, Picks, and Predictions
-Author: 
-Published Date: 2026-03-10T00:00:00.000Z
-URL: https://sportsbookwire.usatoday.com/article/wimbledon-preview-jannik-sinner-vs-daniel-elahi-galan-betting-odds-and-match-preview
-Summary: The webpage provides betting odds, predictions, and expert picks across various sports, including tennis. While it does not specifically mention Jannik Sinner or Wimbledon 2026, it offers insights into current betting trends and expert analyses that could inform predictions about future tennis outcomes. To assess whether Sinner might win Wimbledon 2026, consider examining current betting odds, recent performance, and expert predictions highlighted on the site, especially in the tennis section. However, since the webpage primarily covers current sports betting information and does not provide specific forecasts for Sinner or Wimbledon 2026, additional sources focusing on player form and tournament-specific analyses would be necessary for a more accurate prediction.
+The Guardian’s live coverage of the 2025 Wimbledon final provides play‑by‑play and confirms Sinner’s triumph over Alcaraz. It gives additional match detail and contemporaneous context on how Sinner achieved the victory. This corroborates the AP report and strengthens the case that Sinner’s grass‑court credentials and mental resilience at majors justify an elevated market probability for 2026.
 
-Title: Blueprint to beat Jannik Sinner revealed by former British No 1 Tim Henman
-Author: Kevin Palmer
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.tennis365.com/tennis-news/jannik-sinner-problems-tim-henman-how-to-beat
-Summary: Tim Henman suggests that defeating Jannik Sinner involves executing a game plan focused on serving aces and hitting winners, though he acknowledges this is easier said than done due to Sinner's high and consistent level of play. Recent losses, including against Novak Djokovic and Carlos Alcaraz, have led some to believe opponents are uncovering effective strategies against him. Henman highlights that Sinner's approach remains aggressive, but successful rivals like Alcaraz have adapted their tactics—using higher balls, slice backhands, and tactical variation—to turn matches in their favor. While Sinner is a top contender on hard courts, his ability to adapt tactically will be crucial in future tournaments. This analysis suggests that Sinner's success at Wimbledon or any major event will depend heavily on his tactical adjustments and consistency against top opponents.
+### [Carlos Alcaraz, Jannik Sinner & the evolving battle for World No. 1 | ATP Tour](https://www.atptour.com/en/news/alcaraz-sinner-pif-atp-rankings-projection-indian-wells-2026)
+**Author:** Jerome Coombe | **Published:** 2026-03-10
 
+This ATP Tour analysis (March 10, 2026) shows the No.1/No.2 ranking dynamics (Alcaraz ahead, Sinner close behind) and explains the ranking points context. It documents that Sinner remained at the very top of the tour into March 2026 and that he had the opportunity to close ranking gaps in the Sunshine Double. This supports the assessment that Sinner remained an elite, match‑fit contender leading into the 2026 season and therefore that a 35% market price is not implausible on sporting grounds.
 
+### [Sinner settles in, stymies Denis Shapovalov in Indian Wells](https://www.atptour.com/en/news/sinner-shapovalov-indian-wells-2026-sunday)
+**Author:** Jerome Coombe | **Published:** 2026-03-09
+
+ATP’s March 9, 2026 match report documents Sinner’s straight‑sets win over Denis Shapovalov at Indian Wells and notes his progress in the tournament. This is recent evidence (as of early March 2026) that Sinner was competing and winning at high‑level events, supporting the conclusion that there was no public, ongoing long‑term injury or form collapse at that time. It therefore reduces the plausibility that a large correction to the market price was already overdue based on publicly available information.
+
+### [2025 Wimbledon Championships – Men's singles final match notes (ITF)](https://www.itftennis.com/media/14738/2025-wimbledon-mens-singles-final-match-notes.pdf)
+**Author:** Unknown | **Published:** 2025-07-13
+
+The ITF/Wimbledon match notes PDF provides official match context, head‑to‑head history and tournament statistics for the 2025 final between Sinner and Alcaraz. It records the recent finals history and head‑to‑head dynamics which are useful in evaluating Sinner’s demonstrated ability to beat top rivals on grass. This official match documentation supports treating Sinner as a top candidate for the 2026 title absent new disqualifying information.

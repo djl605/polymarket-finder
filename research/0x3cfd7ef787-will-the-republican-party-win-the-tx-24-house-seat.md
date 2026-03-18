@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the TX-24 House seat?
 
 **Market ID:** 0x3cfd7ef787298e4814dc4218f590a8b306d7de21377e261c5cd779056818adca
-**Researched At:** March 12, 2026 at 06:21:04 PM UTC
+**Researched At:** March 18, 2026 at 04:47:35 AM UTC
 **Search Query:** "Will the Republican Party win the TX-24 House seat?"
 
 ---
@@ -9,79 +9,78 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Public evidence (expert ratings, redrawn CD‑24 partisan baseline, incumbent Van Duyne’s uncontested renomination, and a large GOP cash advantage) supports the market’s ~81% Republican probability; I found no single recent, credible fact that implies a large mispricing. Low market volume raises the possibility the price is donor‑driven rather than widely arbitraged, but expected mispricing appears modest.
+The market price (80% Republican) is broadly consistent with available evidence: Beth Van Duyne is the incumbent who won ~60% in 2024 and the district now leans Republican (PVI ~R+7/8), and redistricting retains most of Van Duyne’s constituents — all factors that justify a high Republican baseline. However, zero trading volume and time until November 4, 2026 mean the price may reflect a small number of traders rather than broad information aggregation; I found no specific, credible evidence of a
 
 ### Full Analysis
 
-CONTEXT ANALYSIS
-- What the market asks: whether the Republican Party will win Texas’s 24th U.S. House seat in the November 4, 2026 general election. The market resolves YES if the candidate who is reported by credible outlets (or, if ambiguous, the FEC official results) as winning TX‑24 is a Republican; it resolves NO if the winner is a non‑Republican (Democrat or independent who caucuses with Democrats) per the same resolution criteria. (See market rules: credible reporting → fallback to FEC official results.)
-- What must happen to resolve YES vs NO: a Republican must win the general election and be identified as Republican on the ballot or by caucus intention at the time all 2026 House elections are called; any post‑election party switching or ambiguity would be resolved by the market’s listed credible reporters / FEC data.
+Plan and constraints I used
+- Budget: 3 web searches (used). I focused on authoritative, recent reporting about (a) who holds TX-24 and 2024 margins, (b) how the district now leans (PVI / redistricting reporting), and (c) reporting about 2026 candidate status and fundraising/viability. I excluded prediction-market sites per your instructions.
 
-EVIDENCE EVALUATION
-Bottom line: Available public evidence (district lean, incumbent advantage, fundraising gap, expert ratings) points toward a Republican favorite; nothing I found establishes a clear, specific piece of credible information that the market is missing which would overturn that. That makes a large (>20¢) mispricing unlikely, though modest mispricing is possible because of low market volume.
+1) CONTEXT ANALYSIS
+- What the market is asking: "Will the Republican Party win the TX-24 House seat?" — i.e., at final adjudication of the 2026 U.S. House general election for Texas’s 24th congressional district, will the seat be won by the Republican candidate (as determined by credible reporting or, if ambiguous, the official results/FEC).
+- How it resolves YES vs NO:
+  - YES: A candidate officially reported as the winner in the 2026 general election for TX-24 who is ballot-listed (or otherwise clearly affiliated) with the Republican Party (or is judged to caucus with the Republicans) is the winner in the consensus of credible reporting (or per FEC if contested).
+  - NO: The election winner is a non-Republican (e.g., a Democrat or independent caucusing with Democrats) per the same sources.
+- Important resolution technicalities to keep in mind: party affiliation is based on ballot-listed affiliation or most-recent stated caucus intent; market resolves to official/consensus reporting; if the result is ambiguous the FEC official returns will control. Those details mean a candidate who is nominally independent but states they will caucus with Democrats could produce a NO.
 
-Evidence that supports the current ~81% Republican probability
-- Incumbent advantage and renominated: Rep. Beth Van Duyne (R) is the incumbent in TX‑24 and ran unopposed in the March 3, 2026 Republican primary, leaving her strongly positioned for the general. ([vanduyne.house.gov](https://vanduyne.house.gov/about?utm_source=openai))
-- Expert race ratings: The Cook Political Report lists TX‑24 as “Solid R” (most recent Cook update for the race visible on the Cook page, and Cook explicitly says the new map left the seat comfortably Republican). Expert outlets having a “Solid R” rating makes an 81% market price plausible. ([cookpolitical.com](https://www.cookpolitical.com/house/race/485336?utm_source=openai))
-- District partisanship after redistricting: multiple local analyses of the new map show the re‑drawn CD‑24 is still Republican‑leaning; one analysis reports Trump carried the new CD‑24 by roughly 57–41, indicating a clear GOP baseline. That partisan baseline strongly favors the Republican candidate in a midterm. ([ellisinsight.com](https://www.ellisinsight.com/house/decision-time-in-texas/?utm_source=openai))
-- Fundraising / campaign resources: FEC reporting and aggregator sites show Van Duyne holding multiple millions cash‑on‑hand and having raised substantially more than the Democratic field (Democratic candidates are much smaller and were fighting in a primary/runoff), which supports the GOP probability. Large cash advantages make vulnerability lower absent a national wave. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas?utm_source=openai))
-- Recent primary dynamics: Democrats in CD‑24 had a contested primary (leading to a runoff in late May 2026), while Van Duyne’s renomination was uncontested — this usually favors the incumbent in terms of readiness for the general. ([communityimpact.com](https://communityimpact.com/dallas-fort-worth/plano/election/2026/03/03/roundup-see-updated-results-for-us-house-races-affecting-dallas-fort-worth-cities/?utm_source=openai))
+2) EVIDENCE EVALUATION (findings from searches)
+Key facts from sources:
+- Incumbent and recent margin: Beth Van Duyne (R) is the incumbent for TX-24 and won re-election in 2024 by a large margin (≈60.3% to about 39.7% in 2024). (Sources: Cook Political and official-election-summary aggregations/Wikipedia referencing state results.) This is the strongest single piece of evidence supporting the GOP baseline probability. ([cookpolitical.com](https://www.cookpolitical.com/house/race/310606?utm_source=openai))
+- District partisan lean after redistricting: Multiple reporting/analysis sources describe the (re)drawn TX-24 as leaning Republican — PVI estimates in the R+7 to R+8 range are cited in reporting. Redistricting by the Texas legislature made the seat more Republican relative to 2020/2022 lines. That shift increases the structural baseline chance for a Republican win in 2026. ([cookpolitical.com](https://www.cookpolitical.com/house/race/310606?utm_source=openai))
+- Incumbency and constituent retention after redistricting: local analysis (Ellis Insight) reports that Van Duyne retains a very large share of her prior constituents under the new map (figure cited ~87% in one write-up), which strengthens incumbency advantage and name recognition in the new TX-24. That reduces the likelihood of an upset absent a major change. ([ellisinsight.com](https://www.ellisinsight.com/2025/08/?utm_source=openai))
+- Opponent landscape / challengers: local reporting indicates Democrats are fielding challengers and there is interest in contesting the seat (reports of several Democratic challengers exploring or filing), but no authoritative reporting uncovered a single dominant Democratic challenger with an obvious path to overcome the margin and PVI as of the searches. Some write-ups note Democrats may prioritize other districts. Fundraising snapshots in cycle-overview pages suggest Van Duyne has a substantial fundraising advantage. ([reference.org](https://reference.org/facts/2026_United_States_House_of_Representatives_elections_in_Texas/Esmy6nzo?utm_source=openai))
 
-Evidence that could challenge the current price (why the market might be overconfident)
-- National environment volatility: midterm outcomes depend heavily on the national political environment and presidential approval; if the national environment shifts strongly toward Democrats between now and November, even seats rated “Solid R” can become contestable. Expert ratings reflect current national expectations and can change. (This is a structural risk rather than immediate evidence the market failed to price.) ([cookpolitical.com](https://www.cookpolitical.com/house/race/485336?utm_source=openai))
-- Primary/runoff uncertainty on the Democratic side: Democratic primary/runoff dynamics could produce a stronger nominee or consolidate donor support after May; aggregated FEC totals through early 2026 show smaller Democratic war chests but that can change if national groups invest. If outside groups invest heavily, the race could tighten. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/TX?utm_source=openai))
-- Redistricting/legal uncertainty: Texas redistricting litigation and map changes in 2025–2026 created some uncertainty across several districts; if maps are later altered or legal challenges produce unusual effects, that could change the baseline lean. (I found commentary that map litigation was active; however I found no authoritative public record that TX‑24’s status was overturned.) ([ellisinsight.com](https://www.ellisinsight.com/category/texas/?utm_source=openai))
+Specific evidence that suggests the market price might be incorrect (i.e., reasons Republican win probability could be over-stated):
+- Possibility of a strong Democratic challenger or a different map/candidate configuration: if a high-quality Democratic recruit with strong funding and local name recognition (or an intra-GOP fracture) emerges, the outcome could tighten significantly. Some local pieces mention Democrats targeting North Texas and fielding candidates; that potential is a risk to an 80% price but, as of the search, no single candidate or poll indicated that such a scenario is baked in. ([ellisinsight.com](https://www.ellisinsight.com/2025/08/?utm_source=openai))
+- National environment risk: midterms can swing against the president’s party; if national conditions strongly favor Democrats in 2026 (or Republicans if the president is a Democrat), that could shift the district. I did not find specific 2026 polling for TX-24 to quantify that risk during these searches. ([wikiless.lunar.icu](https://wikiless.lunar.icu/wiki/2026_United_States_House_of_Representatives_elections?lang=en&utm_source=openai))
+
+Specific evidence that supports the market price:
+- Recent election performance (Van Duyne ~60.3% in 2024) and a district PVI showing a Republican lean (R+7/R+8) strongly support a substantially greater-than-50% baseline for a GOP hold absent big local changes. Incumbency retention of constituents (~87% reported) and reported fundraising advantages also support a higher probability than a pure national baseline. These are credible, recent, and highly relevant. ([cookpolitical.com](https://www.cookpolitical.com/house/race/310606?utm_source=openai))
 
 Source credibility and recency
-- Cook Political Report: high credibility for race ratings and PVI; page shows recent updates (Feb 2025/Feb 2026) and is an authoritative race evaluator. ([cookpolitical.com](https://www.cookpolitical.com/house/race/485336?utm_source=openai))
-- Representative’s official site (Van Duyne.house.gov): authoritative for incumbency and local statements but is a campaign/office source (partisan). Use for confirming incumbency and activities, not neutral analysis. ([vanduyne.house.gov](https://vanduyne.house.gov/about?utm_source=openai))
-- Local reporting (Community Impact, NBCDFW, Fox4): credible for primary results and local vote counts; these are timely (March 2026 primary reporting). ([communityimpact.com](https://communityimpact.com/dallas-fort-worth/plano/election/2026/03/03/roundup-see-updated-results-for-us-house-races-affecting-dallas-fort-worth-cities/?utm_source=openai))
-- The Green Papers / FEC data: authoritative on candidate filings and campaign finance numbers; good for cross‑checking cash on hand and who has filed. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/TX?utm_source=openai))
-- Ellis Insight and other redistricting commentators: useful for parsing map effects and local analyses; somewhat lower-tier than Cook/major news but still informative and consistent with Cook’s rating. ([ellisinsight.com](https://www.ellisinsight.com/house/decision-time-in-texas/?utm_source=openai))
+- Cook Political Report (turn0search0) — high credibility for race rating and PVI context, though their long-form pages are sometimes updated sporadically; useful for structural baseline. (Last-update metadata on that page shows earlier updates; nevertheless Cook is a standard reference.)
+- Official-state / FEC references (as aggregated on Wikipedia and cycle trackers) — these are generally reliable for vote totals; Wikipedia aggregates those official figures but should be double-checked if needing the raw FEC/Texas-SOS file. The pages we used reference the official 2024 results showing Van Duyne’s margin. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections?utm_source=openai))
+- Local political reporting (Ellis Insight, RightDataUSA) — useful context about who’s running, redistricting, and constituency retention; credibility is lower than national outlets but valuable for on-the-ground candidate-level detail and redistricting impacts. ([ellisinsight.com](https://www.ellisinsight.com/2025/08/?utm_source=openai))
 
-Be especially skeptical of “obvious” evidence
-- The combination of an incumbent in a Republican‑leaning district with large cash advantages and a contested Democratic primary makes a Republican favorite obvious. But the market’s 81% already reflects that. If that were all there was, the market being near ~80% is consistent, not a mispricing. The real question is whether there’s a specific, credible, recent data point (e.g., a court change to the map, a major scandal, a big investment by national Democrats, or an unexpected polling swing) missing from public view — I did not find such a definitive new datapoint.
+Skepticism / "too-obvious" signals
+- If the situation were truly obvious (e.g., Van Duyne won 80–90% of the vote in 2024 or PVI > R+15), the market pricing at 80% might be conservative. But the actual vote (≈60%), PVI ~R+7/8, and the presence of active opposing candidates make the outcome uncertain enough that 80% is within a plausible range for a favored incumbent in a midterm. Because the district is not an overwhelmingly safe seat (margin and PVI are comfortable but not landslide), it’s plausible informed traders would price in mid-to-high but not near-certain probability.
 
-MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretation that justifies the current 81% price:
-  - Incumbent Van Duyne is strongly positioned (uncontested primary), the re‑drawn district retains a GOP baseline (reported Trump >57% under the new map), and expert raters peg the seat Solid R — taken together these three inputs justify a high implied probability (well above 50%). ([cookpolitical.com](https://www.cookpolitical.com/house/race/485336?utm_source=openai))
-- Could the price reflect only one or a few traders? Yes — the market has low total volume ($4,334) and a tight spread (2¢). Low volume + narrow spread suggests the price could have been set and maintained by a small number of traders who are confident. That raises the risk the market is not deeply aggregated across many informed participants.
-- Why low volume might be explained defensibly:
-  - This is not a headline national toss‑up; many traders focus capital on high‑liquidity, high‑impact markets. A “Solid R” seat in Texas is a lower priority for active traders, so low volume is unsurprising even if the price is correct.
-- Why low volume could indicate inefficiency:
-  - If one or a few players with strong priors set the price and no one contests it, mispricing can persist — especially if there are hidden or local developments a better‑funded investor could exploit. I found no evidence of a new, credible development that would justify challenging the 81% price.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations justifying an 80% price:
+  - Incumbent advantage + recent 60%-margin + R+7/8 PVI + fundraising lead → combination yields a higher-than-70% baseline to hold, especially in a midterm where local incumbency and district leanes matter more than national polls.
+  - Redistricting and retention of most prior constituents (reported ~87%) reduces uncertainty versus a fully open-seat scenario.
+  - No discovered polling or major opponent with clear momentum as of searches — absence of contrary evidence is consistent with the market favoring the incumbent.
+- Could the price instead reflect a few traders setting the price? Yes — the market has zero total volume and a tight spread (2¢), which is classic of a market where a small number of traders posted the state. Low liquidity makes it plausible the current price is the view of one or a few traders rather than a broad aggregation. That reduces the reliability of the price as "consensus".
+- Why low volume might be present:
+  - The outcome may be viewed by many as unsurprising: a favored incumbent in a modestly Republican district is not a high-arbitrage opportunity.
+  - The market might be overlooked by informed traders (lack of attention) or the market is new/illiquid and not yet discovered.
+  - Alternatively, some traders may be waiting for candidate filing deadlines or primary results before engaging strongly.
 
-MISPRICING ASSESSMENT
-- Is there specific, credible evidence missing from the current price that would imply significant mispricing (>20¢)? No.
-  - I found no authoritative reporting that the redrawn map has been invalidated for CD‑24, no evidence of a sudden, large infusion of Democratic national spending into this seat, and no scandal or withdrawal affecting Van Duyne that would markedly change fundamentals.
-  - Expert ratings (Cook) and local results (primary dynamics) align with the market’s direction. ([cookpolitical.com](https://www.cookpolitical.com/house/race/485336?utm_source=openai))
-- Where modest mispricing could exist:
-  - The market might underweight tail scenarios (a large national Democratic wave, unexpected legal map changes, or a big late campaign spend on the Democratic side). Those are real risks but speculative; they argue for only a small adjustment to price expectation unless/until new evidence appears.
-- Charity test: The most charitable reading is that informed traders have already priced in incumbency, the new map’s partisan baseline, and the post‑primary resources gap — ergo an ~80% price is a reasonable consensus outcome probability right now.
+4) MISPRICING ASSESSMENT
+- Do we have credible evidence that the 80% is wrong by a large amount (>20 cents)? No. The core quantitative facts (2024 margin ~60% for Van Duyne, PVI ≈ R+7/8, redistricting favoring GOP) point toward a materially favored Republican outcome. That said, an 80% price implies a roughly 1-in-5 chance of a Democratic win — which is not inconsistent with the district’s profile (a decent-sized 20% upset probability is plausible because midterm dynamics, candidate quality, national swings, or unexpected local events can flip a district of this partisan lean).
+- Signs of efficiency: structural indicators (incumbent margin, PVI, fundraising) appear to be priced in.
+- Signs of inefficiency: zero trading volume and a tight spread strongly indicate that the displayed price may simply be the view of whoever created liquidity; it may not reflect broad market consensus. Also the market resolves in November 2026 — many unknowns remain (candidate quality, national environment), so price should be expected to change as events unfold.
+- After re-checking the resolution criteria and the facts, I do not find a technicality or mis-read that would imply the market resolution rules are being misinterpreted (they follow party on the ballot / stated caucus + credible reporting / FEC fallback). I found no evidence that the outcome has already happened or that the market’s resolution conditions already occurred.
 
-EXPECTED VALUE CALCULATION (estimate of value in searching / trading this market now)
-- Strength of evidence that the market is missing a credible, actionable item (0–100%): 30%
-  - Rationale: most top indicators align with a Republican win, but litigation, national environment, or late spending could change things; probability that such missing information exists now is non‑negligible but not high.
-- Plausible magnitude of mispricing if wrong: 5 cents (0.05 USD)
-  - Rationale: given alignment between incumbent, PVI, and expert ratings, any real mispricing is likely modest rather than extreme.
-- Expected value = 30% × 5¢ = 1.5¢
+Conclusion of mispricing assessment
+- Based on available evidence, there is NOT compelling, specific evidence of a large mispricing (>20 cents). The 80% figure is reasonably justified by incumbency, 2024 vote margin and partisan lean. However, because the market is illiquid and the race is not guaranteed, there remains non-trivial uncertainty; it’s plausible the correct probability could be lower or slightly higher, but I don’t find a clear, credible signal that the market is off by a large margin.
 
-MISPRICING CHECK (challenge my reasoning)
-- Could I be misunderstanding the resolution criteria? No — market resolves to the party of the winning candidate as reported by credible sources or FEC. I verified that. ([fec.gov](https://www.fec.gov/data/candidate/H0TX24209/?utm_source=openai))
-- Could I be missing a large funder, legal ruling, or candidate change? I searched for those items and found none that would justify a >20¢ correction. If such a development appears (major outside spending or a court order changing the map), it would materially change the assessment.
-- Most charitable interpretation for an 81% price: consensus among reliable sources (Cook, local reporting, FEC fundraising) plus incumbency and district baseline justify a high probability — consistent with the market price.
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that something important is missing from the market price: medium-low. The facts supporting a GOP hold appear to be already known and likely incorporated by whoever set the price. I rate the strength ~40% (because low volume means a contrarian information edge is possible, but I did not find specific missing facts).
+- Plausible magnitude of mispricing if one exists: small — I estimate at most ~5–15 cents in realistic scenarios. A very plausible magnitude to assume for expected-value calculation is ~10 cents.
+- Expected value = Strength × Magnitude = 40% × 10 cents = 4 cents.
 
-CONCLUSION AND RECOMMENDATION
-- Conclusion: There is credible evidence that the Republican candidate (incumbent Beth Van Duyne) is the clear favorite in TX‑24 (district partisan baseline, incumbent advantage, fundraising lead, and expert “Solid R” ratings). I did not find a specific, credible missing fact that would imply a large (≥20¢) mispricing. The market’s 81% probability is defensible. Because the market’s total volume is low, the price may reflect a small group of traders rather than a deep consensus — that implies some residual chance of modest mispricing, mostly from tail risks (national wave, map litigation outcome, or big late spending).
-- Practical implication: If you were looking to trade for value, the expected value of an informational edge now appears small (~1.5¢ per share by my estimate). The low volume and tight spread make it attractive only if you believe you have specific, reliable new information about the district, national environment, or campaign funding that the market hasn’t priced.
+Risk check (per your critical-check guidance): If I were to assert a >20-cent mispricing I would need demonstrably missing evidence (e.g., a credible poll, a major candidate announcement, or a technicality in resolution). I found none. The most charitable explanation for the 80% price is that the poster(s) incorporated the incumbent’s 2024 victory, district PVI, and redistricting retention — i.e., an informed prior that makes an 80% estimate reasonable.
 
-EXPECTED_VALUE: 1.5
-SUMMARY: Public evidence (expert ratings, redrawn CD‑24 partisan baseline, incumbent Van Duyne’s uncontested renomination, and a large GOP cash advantage) supports the market’s ~81% Republican probability; I found no single recent, credible fact that implies a large mispricing. Low market volume raises the possibility the price is donor‑driven rather than widely arbitraged, but expected mispricing appears modest. 
-CONFIDENCE: medium
+6) CONFIDENCE
+- My confidence in this assessment: medium.
+
+EXPECTED_VALUE: 4
+SUMMARY: The market price (80% Republican) is broadly consistent with available evidence: Beth Van Duyne is the incumbent who won ~60% in 2024 and the district now leans Republican (PVI ~R+7/8), and redistricting retains most of Van Duyne’s constituents — all factors that justify a high Republican baseline. However, zero trading volume and time until November 4, 2026 mean the price may reflect a small number of traders rather than broad information aggregation; I found no specific, credible evidence of a large (>20¢) mispricing. CONFIDENCE: medium
 
 ---
 
@@ -89,32 +88,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [TX-24 2026 | Cook Political Report](https://www.cookpolitical.com/house/race/485336)
-**Author:** The Cook Political Report (staff) | **Published:** 2026-02-13
+### [Texas TX-24 House : 2024 | Cook Political Report](https://www.cookpolitical.com/house/race/310606)
+**Author:** Unknown | **Published:** 2023-02-01
 
-Cook’s race page for Texas’s 24th district lists the race rating (Solid R) and provides contextual analysis, noting the incumbent (Beth Van Duyne) and that the new map left the seat comfortably Republican. This is a high‑quality, up‑to‑date expert assessment used to judge baseline partisanship; it supports the market price by showing mainstream forecasters view the seat as safe for Republicans. The Cook assessment reduces the plausibility of a large mispricing absent new evidence that would flip the rating.
+Cook’s race page for TX-24 summarizes incumbency (Beth Van Duyne), recent race ratings, and PVI context; the page notes Van Duyne as incumbent and shows the seat as solid/likely Republican in past cycles and documents that redistricting shifted the district toward Republicans. This is a high-quality source for structural partisan lean and incumbent advantage; its information supports a materially-favored Republican baseline and explains why an 80% price is plausible absent a major new development.
 
-### [About - United States Representative Beth Van Duyne](https://vanduyne.house.gov/about)
-**Author:** United States House (office of Rep. Beth Van Duyne) | **Published:** Unknown
+### [2024 United States House of Representatives elections (Wikipedia)](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections)
+**Author:** Unknown | **Published:** Unknown
 
-Official House page for Rep. Beth Van Duyne confirming incumbency and describing the district (Dallas/Fort Worth suburbs). This verifies that Van Duyne represents TX‑24 and is active in the district (evidence of incumbency advantage). As an office source it’s partisan but authoritative on who holds the seat and candidacy status; it supports the “incumbent running / renominated” facts used in the analysis.
+This page aggregates 2024 general election results across House races; the TX-24 line shows Beth Van Duyne (R) receiving about 60.3% of the general-election vote in 2024. The page cites official results (state/FEC) and thus provides the recent empirical margin that is the core input to assessing incumbency strength. It supports the view that Van Duyne entered the 2026 cycle with a comfortable recent margin.
 
-### [ROUNDUP: See updated results for US House races affecting Dallas‑Fort Worth cities (Community Impact)](https://communityimpact.com/dallas-fort-worth/plano/election/2026/03/03/roundup-see-updated-results-for-us-house-races-affecting-dallas-fort-worth-cities/)
-**Author:** Community Impact Staff | **Published:** 2026-03-03
+### [2026 United States House of Representatives elections in Texas - Reference.org](https://reference.org/facts/2026_United_States_House_of_Representatives_elections_in_Texas/Esmy6nzo)
+**Author:** Unknown | **Published:** Unknown
 
-Local reporting of March 3, 2026 primary tallies showing Democratic primary vote totals in CD‑24 (Kevin Burge leading the Democratic field) and noting Van Duyne ran unopposed on the Republican ballot. This source documents recent primary results and the fact that Democrats were in a contested primary while the incumbent Republican was renominated without a primary fight. That dynamic supports the GOP readiness advantage heading into the general, which the market likely priced.
+This cycle-summary page compiles candidate lists, incumbency notes, and fundraising snapshots for 2026 contested Texas seats (including TX-24). It lists Van Duyne as the incumbent and summarizes fundraising/endorsement notes that indicate a GOP incumbent advantage. This supports the evidence that incumbency and resources favor the Republican outcome and that no single dominant Democratic challenger had yet overturned the structural advantage as of these reports.
 
-### [These Texas primary races are heading to a runoff (FOX 4 Dallas‑Fort Worth)](https://www.fox4news.com/election/texas-primary-races-heading-runoff)
-**Author:** FOX 4 News staff | **Published:** 2026-03-04
+### [August 2025 – The ELLIS Insight (local political analysis)](https://www.ellisinsight.com/2025/08/)
+**Author:** Unknown | **Published:** 2025-08-01
 
-Fox4’s March 4, 2026 article lists primary races going to runoffs, confirming CD‑24’s Democratic primary advanced to a runoff and naming the leading Democratic candidate(s). This timely local reporting corroborates primary competitiveness on the Democratic side and the calendar (runoff May 26), reinforcing the inference that Democrats had not yet consolidated resources against the incumbent as of early March.
+Local analysis discussing the post-redistricting composition of North Texas districts, noting that Van Duyne retains a large share (~87%) of her prior constituents in the new TX-24 and describing that the new map carried Trump by a wide margin (cited 57-41 in the write-up). This granular constituency-retention reporting strengthens the incumbency case and explains why pundits view Van Duyne as well-positioned for 2026 — supporting a high Republican probability.
 
-### [Decision Time in Texas – The ELLIS Insight](https://www.ellisinsight.com/house/decision-time-in-texas/)
-**Author:** Jim Ellis | **Published:** 2025-08-27
+### [RightDataUSA (TX district results and PVI summaries)](https://rightdatausa.com/election_results?d=all&s=ID&t=L016A&y=2024)
+**Author:** Unknown | **Published:** Unknown
 
-Analysis of the 2025 mid‑decade Texas redistricting showing how the new map altered multiple Dallas‑area districts; Ellis reports that the new CD‑24 would have given Trump about a 57–41 margin, implying a comfortable Republican baseline under the redrawn lines. This local map analysis helps explain why expert outlets and the incumbent’s team view the district as likely Republican — it supports the market’s baseline probability that a Republican will win absent a large national swing or other shock.
-
-### [Texas 2026 General Election — The Green Papers (CD‑24 candidate listings and FEC totals)](https://www.thegreenpapers.com/G26/TX)
-**Author:** The Green Papers (David Leip / editors) | **Published:** Unknown
-
-The Green Papers aggregates official FEC filing IDs, candidate lists, and campaign finance totals for 2026; its CD‑24 page lists FEC IDs and summary finance figures for Beth Van Duyne and the Democratic contenders (Jon Buchwald, Kevin Burge, TJ Ware). These data support the fundraising/cash‑on‑hand comparison used in the analysis: Van Duyne’s war chest is substantially larger, while Democrats were splitting resources and had a primary/runoff to resolve — a point that favors the incumbent and underpins the market price.
+Aggregates election results and PVI-like district lean figures; list shows TX-24 as R+8 and Van Duyne as having 60.3% in 2024. While not a primary source, it aligns with other sources on margin and district lean and provides quick comparative context across TX districts. It supports the structural case that the district favors Republicans and that the incumbent’s 2024 margin was substantial.

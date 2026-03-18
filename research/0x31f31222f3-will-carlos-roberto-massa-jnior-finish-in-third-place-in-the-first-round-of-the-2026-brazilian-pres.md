@@ -1,89 +1,113 @@
 # Research: Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?
 
 **Market ID:** 0x31f31222f37f2583de6c44c4297cafdccfd21d443e785042af0180192897f8ed
-**Researched At:** March 4, 2026 at 02:48:02 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
+**Researched At:** March 18, 2026 at 04:36:29 AM UTC
+**Search Query:** "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 5.0¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Recent polls consistently show Ratinho Júnior outside the top three, suggesting his chance of finishing exactly third is nearer 10–12%. The market’s 21.5% price likely overstates his probability by about 10 cents, but the long election horizon tempers certainty.
+Recent national polls (Datafolha, Real Time/Big Data, Quaest) repeatedly place Ratinho Júnior as the leading “third‑tier” candidate in first‑round scenarios, but his absolute shares are single digits and PSD internal dynamics plus potential new entrants create substantial conditional uncertainty. Given that, the market price of 42.5% is plausible and not clearly or massively mispriced; expected value of further investigation/trading is modest (~4.0¢).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Ratinho Júnior (Carlos Roberto Massa Júnior) will finish exactly third in valid first-round votes on October 4, 2026. YES requires him to outpoll every candidate except the top two (almost certainly Lula and Flávio Bolsonaro); NO occurs if he places 4th or lower (or 1st/2nd, or the market resolves “Other”).
+Plan / scope
+- I used the 3-search budget to gather (1) the latest national poll results showing where Carlos Roberto Massa Júnior (Ratinho Júnior) stands in first‑round scenarios, (2) an additional poll showing his absolute vote share in a three‑way scenario, and (3) reporting on PSD internal dynamics and the TSE election/registration timetable that affect whether he ends up third on Oct 4, 2026. I focused on primary news outlets and major Brazilian pollsters (Datafolha, Real Time/Big Data, Quaest) and on the TSE public schedule.
 
-2. EVIDENCE EVALUATION  
-Bullish for YES:  
-• Early fragmented field and long time horizon could allow a regional governor like Ratinho Júnior to gain traction.  
-• AtlasIntel’s national poll (Feb 19–24) shows a competitive multi-candidate race, without ruling out a late surge.  
+1) CONTEXT ANALYSIS
+- What the market asks: Whether Carlos Roberto Massa Júnior (Ratinho Júnior) will finish third by valid‑vote ranking in the first round of Brazil’s presidential election on October 4, 2026. Resolution will be by credible reporting or, if ambiguous, by the TSE’s official results; if results are not known definitively by June 30, 2027 the market resolves “Other”.
+- For a YES resolution: on Oct 4, 2026, the official count (TSE or credible consensus reporting) must show Ratinho Júnior has the third‑highest number of valid votes (ties broken by alphabetical last name as described). For NO: he finishes 1st/2nd/4th/etc., or a tie resolved against him by the tiebreaker, or “Other” if no definitive result by the cutoff.
 
-Bearish for YES:  
-• Multiple polls (Pariflow 2/6; Reuters/AtlasIntel runoff poll 2/25; Brasil247/Quaest 2/11) consistently name Lula (~43–47%) and Flávio Bolsonaro (~30–40%) as clear first/second, with Tarcísio de Freitas and Romeu Zema polling around 8–15%, and no mention of Ratinho Júnior among the topline figures.  
-• Historical pattern: governors with strong regional base but low national profile rarely break into the top three at this stage.  
+2) EVIDENCE EVALUATION (all evidence tied to polls, party dynamics, and election rules)
 
-Source credibility/recency: All research is from reputable polling outfits or Reuters, within the last two weeks of February 2026.
+Key empirical evidence (most load‑bearing):
+- Datafolha (published 7 Mar 2026 via Folha/republishers) shows national first‑round simulations with Lula and Flávio Bolsonaro clearly ahead and Ratinho Júnior appearing in the third tier (examples: Ratinho ~7% in one principal scenario, and Ratinho appears between ~7–11% across scenario variants). This repeatedly places him as the leading “third‑place” option in many Datafolha scenarios. ([jornaldemocratico.com.br](https://jornaldemocratico.com.br/brasil/datafolha-lula-tem-46-e-flavio-bolsonaro-43-em-possivel-2o-turno-de-2026-e-lidera-o-1o-turno-mas-vantagem-diminui/))
+- Real Time / Big Data (Feb 2026) found a three‑way scenario (Lula, Flávio Bolsonaro, Ratinho Júnior) with Ratinho at ~10% (Lula ~39%, Flávio ~30%). That is a larger single‑poll datapoint showing Ratinho in the ~10% range in certain matchups. ([jornalafolha.com.br](https://www.jornalafolha.com.br/noticia/disposicao-de-votar-em-ratinho-chega-a-43-melhor-marca-entre-candidatos-moderados))
+- Quaest/Genial polls have also produced results that place Ratinho Júnior as a top candidate among the wider “third‑way” group (examples reported of Ratinho at ~10% in some Quaest scenarios). This reinforces that multiple independent pollsters have him in single digits but often as the best third‑place candidate. ([brasildefato.com.br](https://www.brasildefato.com.br/2025/10/09/lula-maintains-lead-in-all-scenarios-for-brazils-2026-presidential-race-says-poll/))
+- Party dynamics: PSD currently contains several governors and potential pre‑candidates (Ratinho Jr., Eduardo Leite, Ronaldo Caiado among others). Reporting notes that PSD leadership (Gilberto Kassab) has signaled conditional strategies (e.g., Ratinho may step aside if a stronger universal challenger like Tarcísio enters), and PSD internal choices and alliances will materially change Ratinho’s path. That makes his third‑place probability conditional on intra‑party consolidation or fragmentation. ([brasil247.com](https://www.brasil247.com/blog/a-confortavel-posicao-de-tarcisio-e-a-desconfortavel-situacao-da-centro-direita))
+- Election administration / schedule: the TSE timetable and the fact that candidate lists/official registrations and conventions occur in July–August mean candidate fields and ballot access will be settled in mid‑2026; until then substantial uncertainty remains. Official resolution depends on TSE results if media reporting is ambiguous. ([tse.jus.br](https://www.tse.jus.br/comunicacao/arquivos/dje-edicao-extra-30-2026/%40%40display-file/file/DJE%2520-%2520Edi%25C3%25A7%25C3%25A3o%2520extra%2520n%252030%2520-%25202026.pdf))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 21.5% chance could reflect informed traders pricing in the possibility of a late surge or a split among mid-tier candidates. Low volume suggests limited participation—either the outcome seems obvious to informed participants (so they don’t trade) or non-specialists have set the price.
+What suggests the market price might be incorrect
+- Evidence raising probability > market price (implying market undervalued YES):
+  - Repeated national polls from independent firms put Ratinho ahead of most other third‑tier names in many scenarios (Datafolha, Real Time), which indicates he is commonly the leading “third‑place” candidate in early 2026 polling. If those poll rankings are stable and other third‑tier names do not consolidate, his chance to finish third could plausibly exceed 42.5% (polls that consistently put him as the top of the next cluster suggest a non‑trivial chance of third). ([jornaldemocratico.com.br](https://jornaldemocratico.com.br/brasil/datafolha-lula-tem-46-e-flavio-bolsonaro-43-em-possivel-2o-turno-de-2026-e-lidera-o-1o-turno-mas-vantagem-diminui/))
+  - Some polls show Ratinho near or above ~10% in certain scenarios; with Lula and Flávio taking large shares, a 10% result commonly maps to a secure third place if the rest of the field is fragmented — which current polls show. ([jornalafolha.com.br](https://www.jornalafolha.com.br/noticia/disposicao-de-votar-em-ratinho-chega-a-43-melhor-marca-entre-candidatos-moderados))
 
-4. MISPRICING ASSESSMENT  
-Given consistent polls that do not feature Ratinho Júnior among the top four and historical dynamics, a fair estimate for his chance of finishing exactly third today is closer to 10–12% than 21.5%. The current price likely overstates his upside by about 10 cents. However, the long runway to election introduces considerable uncertainty, which traders appear to have partially priced in.
+What supports the market price as reasonable (or too high)
+- Evidence lowering probability (implying market overvalued YES):
+  - PSD internal competition and the presence or entry of other better‑known national figures (Tarcísio de Freitas, Eduardo Leite, Romeu Zema, Haddad in some PT scenarios, or a unifying PL/Republicanos move) could either (a) split the PSD/centrist vote (hurting Ratinho) or (b) push a different governor to take the “third place” slot — both reduce Ratinho’s chance to finish third. Reporting indicates PSD may pick different candidates or step aside in face of a stronger rival, which is a realistic path to displace Ratinho from the third slot. ([brasil247.com](https://www.brasil247.com/blog/a-confortavel-posicao-de-tarcisio-e-a-desconfortavel-situacao-da-centro-direita))
+  - Polls show large polarization at the top (Lula and Flávio) and volatile movement among other names; that volatility means current single‑digit poll numbers for Ratinho are fragile and can fall if the PSD doesn’t unify behind him or if a larger opposition consolidation happens. ([jornaldemocratico.com.br](https://jornaldemocratico.com.br/brasil/datafolha-lula-tem-46-e-flavio-bolsonaro-43-em-possivel-2o-turno-de-2026-e-lidera-o-1o-turno-mas-vantagem-diminui/))
+  - The TSE timetable allows many months for new entrants, withdrawals, alliances, or campaign shocks; early polling is informative but far from decisive for Oct 4. ([tse.jus.br](https://www.tse.jus.br/comunicacao/arquivos/dje-edicao-extra-30-2026/%40%40display-file/file/DJE%2520-%2520Edi%25C3%25A7%25C3%25A3o%2520extra%2520n%252030%2520-%25202026.pdf))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 50% (moderately strong, but recognizes future volatility)  
-Magnitude of mispricing: ~10 cents  
-Expected value = 0.5 × 10 = 5 cents
+Source credibility and recency
+- Datafolha, Real Time/Big Data, and Quaest are mainstream Brazilian pollsters that publish nationwide probability estimates; their March/Feb 2026 results are recent and relevant. Reporting outlets republishing Datafolha and other poll results are contemporaneous (Feb–Mar 2026). Credibility: Datafolha and Quaest rank high among Brazilian pollsters; Real Time/Big Data is used by some outlets (check sample size/method when available). PSD/party reporting is from mainstream news analysis pieces. TSE DJE is the authoritative administrative source for schedules and resolution procedure. ([jornaldemocratico.com.br](https://jornaldemocratico.com.br/brasil/datafolha-lula-tem-46-e-flavio-bolsonaro-43-em-possivel-2o-turno-de-2026-e-lidera-o-1o-turno-mas-vantagem-diminui/))
 
-EXPECTED_VALUE: 5  
-SUMMARY: Recent polls consistently show Ratinho Júnior outside the top three, suggesting his chance of finishing exactly third is nearer 10–12%. The market’s 21.5% price likely overstates his probability by about 10 cents, but the long election horizon tempers certainty.  
+Skepticism / “too obvious” checks
+- If the polls made it obvious Ratinho will surely be third, markets (and other traders) would likely already price that in — but the market price is only 42.5% and volume is low. This suggests either (a) traders reasonably see enough uncertainty (party decisions, potential stronger entrants, alliance shifts) to withhold conviction, or (b) a thin market where a few traders set price without broad information. The conditional nature of PSD’s nomination and the July–August convention window are concrete reasons for traders to remain cautious.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations of a 42.5% price:
+  - Charitable: the price reflects a balanced view — polls commonly place Ratinho as the leading third‑tier candidate but with single‑digit shares and many uncertainties ahead (party selection, possible entrants), so a ~40% probability for finishing third is consistent with “poll leader of the third tier but subject to disruption.”
+  - Alternative (thin‑market) interpretation: low total volume (~$1.9k) and a 5¢ spread mean the displayed price could reflect views of a few informed/uninformed traders rather than broad aggregation. That increases idiosyncratic risk of mispricing.
+- Is low volume because outcome is obvious or overlooked?
+  - Evidence points to overlooked/uncertain: the outcome is not obvious (major parties and conventions still to play out). Low volume likely reflects limited attention or that traders are waiting until candidate fields settle (after conventions/registrations) before committing capital.
+
+4) MISPRICING ASSESSMENT
+- Weighing both sides: multiple recent national polls place Ratinho Júnior consistently ahead of other third‑tier names in first‑round scenarios (supporting a nontrivial chance of third), but his absolute vote share in polls is single digits and intra‑party competition (PSD) plus the possibility of other entrants/coalitions materially reduce that chance. Given those facts, the market price of 42.5% does not look obviously or greatly mispriced in either direction.
+- Key conditional risks I might be missing (and why I stopped short of calling a large mispricing):
+  - I may be under‑estimating internal PSD discipline: if PSD unites early behind Ratinho, his share could jump, making 42.5% too low. Conversely, I may be under‑estimating a right‑wing consolidation (e.g., Tarcísio or PL moves) that pushes Ratinho out of the top three — making 42.5% too high. Because conventions and nomination choices (and any major campaign events) remain unresolved, large, certain mispricings are unlikely to be provable now.
+- Conclusion: No clear, specific, and credible piece of evidence is missing from the market’s pricing that would justify confidently claiming a large mispricing now. The market price looks plausible and cautious given current poll placements and the remaining institutional uncertainties.
+
+5) EXPECTED VALUE CALCULATION (assessment of whether a trading edge exists from the research)
+- Strength of evidence that current price misses an important fact (0–100%): 40%. Rationale: polls consistently show Ratinho as the leading third‑tier candidate (supporting higher YES chance), but the political conditionality (PSD competition, possible entrants) weakens the case; evidence is moderate, not strong.
+- Magnitude of plausible mispricing if it exists: 10 cents. Rationale: given poll clustering and conditional risks, a modest mispricing (order of 5–15¢) is plausible but large mispricings (>20¢) are unlikely without new information.
+- Expected value = 40% × 10 cents = 4.0 cents.
+
+6) CONFIDENCE
+- I assign medium confidence to this assessment: polls and institutional facts provide decent evidence, but the field is unstable until party conventions and campaign developments — that uncertainty prevents high confidence.
+
+Short practical takeaways for a trader
+- If you want an edge, watch two things closely and act only when they change probabilities materially:
+  1) PSD internal decisioning (whether PSD consolidates behind Ratinho or another candidate) — if PSD unites behind Ratinho early, update probability upward; if it fractures, move downward. ([brasil247.com](https://www.brasil247.com/blog/a-confortavel-posicao-de-tarcisio-e-a-desconfortavel-situacao-da-centro-direita))
+  2) New national polls after major conventions or after a significant campaign shock — those will be much more informative for final ranking. ([jornaldemocratico.com.br](https://jornaldemocratico.com.br/brasil/datafolha-lula-tem-46-e-flavio-bolsonaro-43-em-possivel-2o-turno-de-2026-e-lidera-o-1o-turno-mas-vantagem-diminui/))
+- Given current public information, a small positive EV exists for researching/trading (≈4.0¢) but the market does not show an obviously large arbitrageable mispricing.
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Recent national polls (Datafolha, Real Time/Big Data, Quaest) repeatedly place Ratinho Júnior as the leading “third‑tier” candidate in first‑round scenarios, but his absolute shares are single digits and PSD internal dynamics plus potential new entrants create substantial conditional uncertainty. Given that, the market price of 42.5% is plausible and not clearly or massively mispriced; expected value of further investigation/trading is modest (~4.0¢). 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Brazil: National | AtlasIntel
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://atlasintel.org/poll/brazil-national-2026-02-25
-Summary: Based on the latest national polls conducted by AtlasIntel from February 19-24, 2026, which surveyed nearly 5,000 respondents with a margin of error of ±1%, the current electoral landscape in Brazil shows multiple candidates competing for the presidency in the first round. While specific candidate rankings are not provided in the summary, the data indicates a competitive race with several contenders, including Carlos Roberto Massa Júnior (also known as "Ratinho Júnior"). To assess whether he is likely to finish in third place, one would need to examine his current polling numbers relative to other candidates. As of this poll, no definitive placement for Massa Júnior is available, but the overall competitive nature suggests he could be among the top contenders or potentially in third place, depending on his support level compared to others.
+### [Datafolha: Lula tem 46% e Flávio Bolsonaro 43% em possível 2º turno de 2026 e lidera o 1º turno, mas vantagem diminui](https://jornaldemocratico.com.br/brasil/datafolha-lula-tem-46-e-flavio-bolsonaro-43-em-possivel-2o-turno-de-2026-e-lidera-o-1o-turno-mas-vantagem-diminui/)
+**Author:** Vinicius Abrantes (site republishing Folha/FP content) / Jornal Democrático | **Published:** 2026-03-07
 
-Title: Brazil 2026 Presidential Election: Candidates, Polls, and Prediction Market Odds | Pariflow Blog | Pariflow Blog
-Author: 
-Published Date: 2026-02-06T00:00:00.000Z
-URL: https://pariflow.com/blog/brazil-2026-presidential-election
-Summary: Based on current polling data and candidate profiles for Brazil's 2026 presidential election, Carlos Roberto Massa Júnior (commonly known as "Ratinho Júnior") is not prominently featured among the leading contenders. The main candidates are Lula (36-39%), Flávio Bolsonaro (23-27%), and Tarcísio de Freitas (9-15%). 
+Summarizes the Datafolha national poll (fieldwork Mar 3–5, 2026) showing Lula and Flávio Bolsonaro dominating first‑round scenarios while Ratinho Júnior appears in the “third‑tier” in a number of tested scenarios (examples of Ratinho ~7% in a principal scenario; other scenario variants show Ratinho up to ~11%). This source is directly relevant because it demonstrates multiple mainstream poll scenarios where Ratinho is the top candidate of the next cluster — evidence that he is plausibly the most likely third‑place finisher absent party or coalition changes. It supports the view that Ratinho has a meaningful but not dominant chance to finish third.
 
-Given these figures, and considering that other potential candidates and minor contenders typically garner lower support, it is plausible that Ratinho Júnior, a prominent governor of Paraná, could be among the lower-ranked candidates. Historically, governors with regional influence but limited national appeal tend to finish in third or lower positions in the first round, especially if they are not among the top polling candidates.
+### [Disposição de votar em Ratinho chega a 43%, melhor marca entre candidatos moderados](https://www.jornalafolha.com.br/noticia/disposicao-de-votar-em-ratinho-chega-a-43-melhor-marca-entre-candidatos-moderados)
+**Author:** Unknown | **Published:** 2026-02-07
 
-Therefore, if Ratinho Júnior runs and maintains current support levels, it is reasonable to predict that he might finish in third place or lower in the first round of the 2026 election.
+Reports Real Time/Big Data polling (fieldwork Feb 6–7, 2026) in which a three‑way scenario (Lula, Flávio, Ratinho Júnior) had Ratinho at ~10% while Lula and Flávio were far ahead. This poll is relevant because it shows Ratinho polling at around 10% in a direct three‑way test — a level that, if persistent and with a fragmented remainder of the field, would typically be sufficient to secure third place. It supports the case that Ratinho is competitive for the third slot in multiple pollsters’ scenarios.
 
-Title: AtlasIntel poll shows Lula tied with Flávio Bolsonaro in runoff
-Author: 
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://valorinternational.globo.com/politics/news/2026/02/25/atlasintel-poll-shows-lula-tied-with-flavio-bolsonaro-in-runoff.ghtml
-Summary: The AtlasIntel poll indicates that in the 2026 Brazilian presidential race, Lula currently leads in first-round voting intentions with approximately 45%, while Flávio Bolsonaro trails behind with around 37.9%. Other candidates, including São Paulo Governor Tarcísio de Freitas and Minas Gerais Governor Romeu Zema, have significantly lower support, generally below 8%. Given these figures, it is unlikely that Carlos Roberto Massa Júnior (also known as "Ratinho Júnior") would finish in third place, as he is not prominently featured among the top contenders in the poll data. Therefore, based on current polling trends, it is improbable that Massa Júnior will secure third place in the first round of the 2026 election.
+### [Lula maintains lead in all scenarios for Brazil’s 2026 presidential race, says poll](https://www.brasildefato.com.br/2025/10/09/lula-maintains-lead-in-all-scenarios-for-brazils-2026-presidential-race-says-poll/)
+**Author:** Unknown | **Published:** 2025-10-09
 
-Title: Flávio is gaining ground, but Lula leads in all first-round scenarios, says Quaest | Brasil 247
-Author: Otávio Rosso
-Published Date: 2026-02-11T00:00:00.000Z
-URL: http://en.brasil247.com/brasil/flavio-cresce-mas-lula-lidera-todos-os-cenarios-de-1-turno-diz-quaest
-Summary: The latest Quaest poll indicates that in the 2026 Brazilian presidential race, President Lula maintains a strong lead in all first-round scenarios, with voting intentions between 35% and 39%. Flávio Bolsonaro is consistently in second place, with support ranging from 29% to 33%, showing a notable increase since December. Ratinho Júnior's support has declined in recent simulations. While Flávio's candidacy is strengthening, he faces a high rejection rate of 55%, comparable to Lula's 54%. Given these dynamics, Flávio Bolsonaro is likely to finish in second place, with Ratinho Júnior or other candidates potentially vying for third, but current data does not explicitly confirm Carlos Roberto Massa Júnior's (Ratinho Júnior) exact third-place position.
+Reports on Quaest polling that consistently placed Lula ahead and in which Ratinho Júnior appeared in the top set of other tested names (examples cited with Ratinho ~10% in some Quaest scenarios). This source is relevant because it provides an independent pollster’s historical snapshot showing Ratinho as one of the main “third‑way” options; that corroboration across pollsters increases the credibility that Ratinho is repeatedly seen by voters as a plausible third‑place candidate.
 
-Title: Lula, Flavio Bolsonaro tied in Brazil run-off, poll shows | MarketScreener
-Author: Reuters
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.marketscreener.com/news/lula-flavio-bolsonaro-tied-in-brazil-run-off-poll-shows-ce7e5cdbdf88f222
-Summary: The recent polls indicate that Luiz Inacio Lula da Silva currently leads in all first-round scenarios for the 2026 Brazilian presidential election, with Lula expected to secure between 43% and 47% of the vote. Flavio Bolsonaro, the right-wing challenger and son of former President Jair Bolsonaro, is polling between 33% and 40%, with his support increasing in recent surveys. Although Lula maintains a lead in first-round projections, his advantage over Flavio Bolsonaro has narrowed significantly; in January, Lula led by nearly 5 percentage points, but recent polls show the race tightening to a near tie in a potential run-off, with Lula at 46.2% and Flavio at 46.3%. This suggests a highly competitive race, with Flavio Bolsonaro potentially finishing in third place if he does not advance to the second round. The overall trend indicates a volatile electoral landscape, with the possibility of Flavio Bolsonaro finishing in third depending on voter shifts and campaign dynamics.
+### [A confortável posição de Tarcísio e a desconfortável situação da centro‑direita](https://www.brasil247.com/blog/a-confortavel-posicao-de-tarcisio-e-a-desconfortavel-situacao-da-centro-direita)
+**Author:** Unknown | **Published:** 2026-02-04
 
+Analytical reporting on the center‑right/PSD dynamics noting that PSD leadership (Gilberto Kassab) has indicated conditional strategies — specifically that Ratinho Jr. might step aside if a stronger candidate (e.g., Tarcísio) enters. This is relevant because PSD internal decisions and possible withdrawals or substitutions are a direct institutional factor that can raise or lower Ratinho’s probability of finishing third; it supports the “conditional uncertainty” side of the assessment.
 
+### [Diário da Justiça Eletrônico — DJE/TSE (extra edition n.30 — 2026)](https://www.tse.jus.br/comunicacao/arquivos/dje-edicao-extra-30-2026/%40%40display-file/file/DJE%2520-%2520Edi%25C3%25A7%25C3%25A3o%2520extra%2520n%252030%2520-%25202026.pdf)
+**Author:** Tribunal Superior Eleitoral (TSE) | **Published:** 2026-03-03
+
+Official TSE electronic diary (DJE) containing procedural calendars, deadlines, and operational guidance relevant to the 2026 election (including timelines for registrations, conventions, and operational dates). This is relevant because the market resolution depends on official TSE results if reporting is ambiguous, and because candidate registrations/conventions (July–August) set the definitive candidate slate — a structural factor that makes current poll‑based probabilities conditional and explains why traders might price in considerable uncertainty.

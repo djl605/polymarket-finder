@@ -1,91 +1,137 @@
 # Research: Will Viktor Orbán be the next leader out before 2027?
 
 **Market ID:** 0x3a39018720ae04cfa3ecf6945359192eec2198fb9847672b9879b29e17b2c592
-**Researched At:** March 10, 2026 at 04:17:33 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Viktor Orbán be the next leader out before 2027?"
+**Researched At:** March 18, 2026 at 04:29:48 AM UTC
+**Search Query:** "Will Viktor Orbán be the next leader out before 2027?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 7.2¢
+**Expected Value:** 4.2¢
 
 ### Summary
 
-Recent polls consistently show Viktor Orbán trailing by ~10 points, implying >50% risk of losing the April 2026 election and vacating office before 2027. Incumbency advantages temper this, so the market’s 33% may be slightly too low but unlikely off by more than ~12 cents.
+An April 12, 2026 parliamentary election is scheduled and several recent polls show the opposition (Tisza/Péter Magyar) leading, which raises the plausibility Orbán could be replaced before 2027. However, well-documented structural advantages for Fidesz (districting, media/state leverage) and the market’s low volume make the market’s conservative 35% price defensible; I estimate a small mispricing (~7¢) with moderate confidence.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will Viktor Orbán cease occupying the office of Hungary’s prime minister before December 31, 2026?” A YES requires his permanent removal—most plausibly via losing the scheduled April 12, 2026 general election (resignation or forced removal are far less likely). A NO means he wins re-election or stays in office through 2026.
+Plan and assumptions (brief)
+- I will treat the market question literally: the market resolves if Viktor Orbán permanently ceases to occupy the office of Prime Minister of Hungary before 2027 (caretaker/interim continuations do NOT count).
+- The most direct path for that to happen before Dec 31, 2026 is losing (or being removed from) the scheduled parliamentary election on April 12, 2026 and then being replaced (not remaining in a caretaker role past that point). Relevant facts therefore are (a) the election timetable, (b) up-to-date polling and seat projections, and (c) structural/incumbency factors (electoral rules, media/state advantages, legal or process quirks) that materially affect whether polls translate into an actual, enforceable change of government. I used public news, election authority and rights-monitoring sources to evaluate those items. (I constrained searches to mainstream news, official election site and rights/monitoring organizations as requested.)
 
-2. EVIDENCE EVALUATION  
-Bullish for YES (orbán out):  
-- Multiple polls (Medián and others in late February/early March) show opposition leader Péter Magyar leading by ~10 points and projecting a comfortable parliamentary majority.  
-- Orbán’s own statements now openly entertain the possibility of defeat—a departure from his historical bravado—suggesting real campaign vulnerability.  
-- Economic headwinds (stagnant GDP growth, high inflation, public services decline, corruption accusations) are eroding Fidesz’s core support.  
+1) CONTEXT ANALYSIS — what the market asks and resolution mechanics
+- Market question: "Will Viktor Orbán be the next leader out before 2027?" — i.e., will Orbán be the first person among the market’s listed leaders to permanently cease occupying their listed office before 11:59 PM ET on Dec 31, 2026.
+- For a YES resolution for Orbán: he must permanently cease to occupy the PM office before the market’s cutoff. The most plausible route is defeat in the scheduled parliamentary election (set for April 12, 2026) and subsequent formal transfer of power (not remaining as caretaker/interim). Other routes (announced resignation followed by permanent exit before the cutoff, forced removal, death) are possible but less plausibly signaled by current open-source information.
+- For a NO resolution: Orbán remains in office permanently (or only temporarily vacates as a caretaker/interim) through Dec 31, 2026, or some other listed leader leaves office before him.
 
-Bearish for YES (supports 33% or lower):  
-- Incumbency advantages (control of media, election administration, gerrymandered districts) historically boost Fidesz beyond raw poll support—research doesn’t quantify these but they’re widely documented.  
-- Poll leads may narrow in the final weeks, and large poll margins have, in the past, reversed under campaign pressure and vote-buying.  
+Key immediate facts:
+- Hungary’s parliamentary election has been set for April 12, 2026 (official timetable). ([apnews.com](https://apnews.com/article/71b54205f00252ca7c466eb5407a2aa1?utm_source=openai))
 
-Source credibility: All four articles are within the past week (Mar 3–6 2026) from known political analysis outlets (Foreign Policy, Substack, Vijesti, Daily News Hungary), lending high recency and reasonable reliability. No single source dominates; they converge on similar findings.  
+2) EVIDENCE EVALUATION — evidence that bears on whether Orbán will cease to occupy office before 2027
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 33% price could reflect:  
-- Discounting of polls to account for Fidesz’s structural advantages—traders may assign only ~30–40% chance that raw polling deficits translate into seat losses.  
-- Low total volume suggests limited trader engagement; the price may rest on a few contrarian bets rather than broad consensus.  
-- Alternatively, traders may view a defeat as plausible but still underdogs given Orban’s track record.  
+A. Evidence that raises the probability Orbán will be out (i.e., supports a YES)
+- Multiple recent, reputable polls (late Feb–Mar 2026) show the main opposition (the Tisza party, led by Péter Magyar) leading Fidesz by meaningful margins among decided/likely voters; some polls translate that into seat projections that would give the opposition a parliamentary majority at the April election. Reuters and other outlets report Tisza leading in several polls in February–March 2026. These polls are contemporaneous and were taken close to the election. ([wsau.com](https://wsau.com/2026/03/11/hungarys-opposition-tisza-party-maintains-lead-as-election-nears-poll-shows/?utm_source=openai))
+  - Why relevant: If the opposition converts voter support into seats and forms a government, Orbán would cease to occupy office (subject to formal transfer and non-caretaker status).
+- OSCE/ODIHR and election authorities: the election process is on the official timetable (April 12, 2026) and international observers are documenting the process; that means a change of government via a vote is operationally plausible before Dec 31. ([odihr.osce.org](https://odihr.osce.org/sites/default/files/documents/official_documents/2026/01/HUN%20parliamentary%202026_NAM%20report_21.01.2026.pdf?utm_source=openai))
+- Political momentum: reporting notes a credible opposition challenger (former insider Péter Magyar) and active campaign dynamics (rallies and mobilization) that increase the plausibility of a turnover. Recent reporting (AP, Reuters, bne IntelliNews summaries) describes this as Orbán’s toughest challenge in years. ([apnews.com](https://apnews.com/article/71b54205f00252ca7c466eb5407a2aa1?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-The consistent ~10-point poll deficit points to >50% chance of an opposition win absent large structural biases. Even if incumbency advantages halve that edge, the win probability might be ~30–40%. A midpoint estimate of 35–45% seems defensible—somewhat above the current 33%. Evidence for a larger shift (e.g., 60+%) is weaker without quantifying polling error or structural tilt. Conversely, if traders heavily discount polls to ~20%, the price might be too high.  
+B. Evidence that reduces the probability or argues for caution (i.e., supports a NO)
+- Structural/incumbency advantages: authoritative human-rights / election-rights analyses and international bodies have documented that Hungary’s post-2011 electoral law architecture, districting and state-media/control environment materially advantages Fidesz (malapportionment/gerrymandering, pervasive pro-government media, use of state resources). Past OSCE/HRW analyses and Council of Europe observations document these features and have raised fairness concerns in previous cycles. Those structural features make translating a national lead in polls into a guaranteed transfer of executive power more uncertain than in a neutral environment. ([hrw.org](https://www.hrw.org/report/2022/12/01/trapped-web/exploitation-personal-data-hungarys-2022-elections?utm_source=openai))
+  - Why relevant: even with a polling lead, seat mechanics plus state advantage can blunt or overturn an expected transfer of power; that increases downside for assuming a straightforward conversion from polls to Orbán leaving office.
+- Poll volatility and narrowing: recent polls show some tightening (the lead has in some polls narrowed as voting day approaches). Polls vary by methodology and “decided voters” vs. general electorate; the lead is not uniformly huge across all pollsters. Polls close to the date can swing. ([wsau.com](https://wsau.com/2026/03/11/hungarys-opposition-tisza-party-maintains-lead-as-election-nears-poll-shows/?utm_source=openai))
+- Political tactics and uncertainty: incumbents with deep control over state levers can use last-minute administrative, legal or campaign tools to blunt opposition momentum; these are difficult to measure in advance and may not be fully captured in polling. Independent analysts note that campaign conditions have been uneven. ([faf.ae](https://www.faf.ae/home/2026/1/17/the-end-of-orbns-era-hungarys-april-election-and-the-limits-of-illiberal-power?utm_source=openai))
 
-Given the balance, the market might be slightly undervaluing Orbán’s risk but not by a dramatic margin. There’s no obvious 20-cent or greater mispricing.  
+C. Source credibility and recency
+- Election date and schedule: official election authority (valasztas.hu) and major wire services/AP are authoritative and recent (Jan–Mar 2026). ([valasztas.hu](https://www.valasztas.hu/en/2026-parliamentary-elections?utm_source=openai))
+- Polling: Reuters, Medián/21 Research and reputable regional outlets summarized the polls (Feb–Mar 2026). Polls are recent and high-signal for near-term outcomes, but individual poll methodology and sample framing differ; poll-of-polls or consistent leads across multiple pollsters are stronger evidence than a single poll. ([wsau.com](https://wsau.com/2026/03/11/hungarys-opposition-tisza-party-maintains-lead-as-election-nears-poll-shows/?utm_source=openai))
+- Structural analysis: HRW, Council of Europe / Venice Commission commentary, academic analyses and ODIHR/OSCE monitoring are credible sources documenting systemic biases and past irregularities; they are less about day-to-day polling but crucial for assessing whether polls will lead to a real transfer of power. ([hrw.org](https://www.hrw.org/report/2022/12/01/trapped-web/exploitation-personal-data-hungarys-2022-elections?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is too low: ~60% (multiple, recent, credible polls but uncertainty around structural biases).  
-Magnitude of mispricing: ~12 cents (midpoint from 33% to a true 45% probability).  
-Expected value ≈ 60% × 12¢ = 7.2¢  
+3) MARKET EFFICIENCY ANALYSIS — could the current 35% price be reasonable?
+Reasonable interpretations that justify a 35% price:
+- The market price may be reflecting a balanced view: polls show the opposition leading but the structural advantages of Fidesz (districting, state media, incumbency) materially reduce the chance that a polling lead converts to a permanent ouster of Orbán. Traders who weight structural/institutional tilt heavily could reasonably price Orbán’s chance of being the next leader out at around one-third.
+- The price could reflect that other listed leaders in the market face higher short-term risk of leaving (we don’t know the full list). If other leaders have nearer-term removal risks, Orbán could win the election or remain in power but still not be the "next" out because someone else left earlier.
+- The market’s tight spread despite low volume suggests one or a few liquidity providers are setting the price; they may be conservative and embedding institutional risk-adjustment (gerrymander + caretaker rules) into the 35% rather than taking a bold contrarian stance.
 
-EXPECTED_VALUE: 7.2  
-SUMMARY: Recent polls consistently show Viktor Orbán trailing by ~10 points, implying >50% risk of losing the April 2026 election and vacating office before 2027. Incumbency advantages temper this, so the market’s 33% may be slightly too low but unlikely off by more than ~12 cents.  
+Could the price reflect only one/few traders?
+- Yes. Total volume is low ($8,999) and the spread is narrow (2¢), which is consistent with one or a few liquidity traders maintaining a price while others have not engaged. Low volume weakens confidence that the price aggregates wide information; it increases the chance the price reflects an idiosyncratic view or a cautious “status-quo” bias.
+
+Is the low volume because the outcome is obvious or because traders haven't engaged?
+- Mixed signal: the event is high-salience (national election) and not obscure — that tends to attract traders — yet volume is low. That suggests either (a) traders expect the result to be close/uncertain and are waiting for late information (so they don’t trade early), (b) it's dominated by a small set of traders, or (c) the market is overlooked. Given the proximity of April 12 (about one month out at the current date), many informed traders may prefer to wait for final polls and on-day results, leading to shallow early liquidity.
+
+4) MISPRICING ASSESSMENT — weigh evidence and check for missing facts
+- The evidence for a non-trivial chance (>= ~30–50%) that Orbán will permanently leave office before 2027 is real: a well-funded opposition, multiple polls showing a lead, and an actual election date in April 2026 are concrete signals pointing to a substantial probability of a turnover. ([intellinews.com](https://www.intellinews.com/latest-hungarian-poll-puts-tisza-party-20-points-ahead-of-fidesz-428295/?utm_source=openai))
+- Balancing that, structural factors (districting, media/state advantages, institutional tilt) materially lower the conversion rate from polling leads to guaranteed government change; these are well-documented and should reduce naive poll-implied probabilities. ([hrw.org](https://www.hrw.org/report/2022/12/01/trapped-web/exploitation-personal-data-hungarys-2022-elections?utm_source=openai))
+- Important technicality (CRITICAL CHECK): the market’s resolution rules exclude caretaker or interim roles as "ceased to occupy the office." In Hungary, after an election, an outgoing prime minister typically remains in a caretaker capacity until a new government is formed—however, if the opposition clearly wins and a new PM is sworn in within the short post-election period, that would be a permanent cessation and meet the market’s criteria. The typical post-election timeline in Hungary means a defeated PM would usually be replaced (not remain indefinitely as caretaker); thus, if the opposition wins convincingly and forms government, the market should resolve to YES. ODIHR and election authority notes indicate the election and government formation timeline is routine and would enable a post-election replacement before Dec 31 if a genuine defeat occurs. ([odihr.osce.org](https://odihr.osce.org/sites/default/files/documents/official_documents/2026/01/HUN%20parliamentary%202026_NAM%20report_21.01.2026.pdf?utm_source=openai))
+- Could I be missing something? Possible missing factors that could materially change the odds and justify the market price:
+  - Late-stage administrative/legal changes that alter seat allocation or candidacy rules (not visible in polls).
+  - Post-election obstruction or institutional blockage delaying or preventing a successor from replacing Orbán (while uncommon in EU member states, structural control of institutions leaves this a non-zero risk).
+  - Other market-listed leaders leaving office first (which would mean that even if Orbán loses, the market may resolve NO because someone else departed earlier).
+- Given those caveats, the market’s 35% price is not obviously absurd. It is plausible as a conservative, risk-adjusted price: it discounts poll leads because of electoral-system tilt and recognizes uncertainty over whether a poll lead translates to a permanent transfer of power.
+
+5) EXPECTED VALUE CALCULATION (my estimate)
+- My best-read of the evidence:
+  - Base-case probability that Orbán permanently leaves office before 2027 (given current polls + structural tilt + process risk): 40–45%. This incorporates recent poll leads that favor the opposition (which push probability upward) and institutional advantages that push probability downward. I’ll use a point estimate of ~42%.
+  - Market-implied probability: 35% (market price).
+  - Implied mispricing: ~7 percentage points = 7¢.
+- Strength of evidence (how confident I am that the factual information I found is both reliable and not already fully priced in): I rate the strength ~60%. Rationale: polling and official election timetable are recent and credible; structural/systemic risks are credible and often already considered by traders, but the convergence of multiple independent polls close to the election suggests some new information may not be fully reflected in a conservative price.
+- Expected value = Strength × Magnitude = 0.60 × 7¢ = 4.2¢ (rounded: 4.2 cents).
+  - I round to a single numeric value as requested below.
+
+6) CONCLUSION and actionable assessment
+- Is there credible evidence of mispricing? Modest evidence. Multiple recent polls and seat projections raise the probability Orbán could be removed by an April 12, 2026 election; balancing that, well-documented electoral advantages for Fidesz justify discounting poll-implied probabilities. The market price of 35% is defensible as a conservative risk-adjusted estimate; it may be slightly low versus my point estimate (~42%), implying a small mispricing (on the order of 5–10 cents). However, the strength of the evidence is moderate, the market is low-volume, and technicalities (caretaker rules; seat mechanics; possible other leaders exiting first) could easily close that gap. I therefore conclude: there is some evidence the market is mildly underpricing Orbán’s odds, but not strong evidence of a large mispricing.
+
+CRITICAL REMINDERS (self-check)
+- I considered the market’s resolution rules (caretaker/interim roles excluded) and the likely post-election timeline: a genuine electoral defeat that leads to a new sworn-in PM would meet the market’s criteria. ([valasztas.hu](https://www.valasztas.hu/en/2026-parliamentary-elections?utm_source=openai))
+- I did not find any authoritative reporting of a current resignation, incapacity, or other immediate cause that would make Orbán the near-certain next leader out before other listed names; nothing else I found justifies a >20¢ deviation from the market price.
+
+EXPECTED_VALUE: 4.2
+SUMMARY: An April 12, 2026 parliamentary election is scheduled and several recent polls show the opposition (Tisza/Péter Magyar) leading, which raises the plausibility Orbán could be replaced before 2027. However, well-documented structural advantages for Fidesz (districting, media/state leverage) and the market’s low volume make the market’s conservative 35% price defensible; I estimate a small mispricing (~7¢) with moderate confidence.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Viktor Orban Is Facing an Election Defeat Against Peter Magyar—and Is Fighting Dirty
-Author: John Kampfner
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://foreignpolicy.com/2026/03/05/hungary-orban-election-magyar-campaign/
-Summary: Viktor Orbán, Hungary’s long-serving prime minister, is facing a significant electoral challenge in the April 2026 general election, with polls indicating his main opponent, Peter Magyar, leading by about 10 points. Orbán, known for his populist and ultranationalist policies, has historically aligned with figures like Donald Trump, Vladimir Putin, and Xi Jinping, and has played a strategic role in geopolitics despite Hungary's small size. However, his popularity has waned due to economic stagnation, declining public services, and corruption. If he loses the upcoming election, it could mark the end of his 16-year tenure as prime minister, raising questions about his political future and the broader implications for Hungary’s direction and its role in regional and global affairs.
+### [Hungary sets April 12 election date as Orbán faces tough challenge](https://apnews.com/article/71b54205f00252ca7c466eb5407a2aa1)
+**Author:** Unknown | **Published:** 2026-01-13
 
-Title: Viktor Orbán now openly discusses the possibility of an election defeat
-Author: Dull Szabolcs
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://hungarianpolitics.substack.com/p/viktor-orban-now-openly-discusses-possibility-defeat-election-analyse
-Summary: Viktor Orbán has recently openly acknowledged the possibility of losing the upcoming election, a significant shift from his previous confident stance. Polls indicate a substantial lead for opposition candidate Tisza, and Orbán himself has expressed doubts about his own research results, suggesting increased uncertainty about his electoral prospects. He has also publicly discussed the potential for a change in leadership, including the possibility of stepping down if he loses, which is a notable departure from his usual rhetoric. These developments imply that Orbán's position is weakening, and his future as Hungary's leader beyond 2026 is uncertain, making his potential departure before 2027 a plausible scenario.
+News report (AP) announcing that the Hungarian President set the parliamentary election date for April 12, 2026, and describing the political stakes and that Orbán faces his toughest challenge in years. This establishes the actual election timetable (critical to whether Orbán could be ousted before Dec 31, 2026) and provides context about the competitive environment, supporting the possibility of an electoral route to Orbán’s removal. It supports the view that a scheduled, on-calendar route exists whereby a government change could produce a permanent cessation of Orbán’s tenure before 2027.
 
-Title: Can Orbán lose the elections?
-Author: Zselyke Csaky
-Published Date: 2026-03-06T00:00:00.000Z
-URL: https://en.vijesti.me/column/798745/Can-Orban-lose-the-election
-Summary: The upcoming Hungarian parliamentary elections on April 12, 2026, are pivotal for Viktor Orbán's political future amid declining economic growth, rising inflation, and international instability. Orbán’s long-standing rule faces a serious challenge from opposition leader Peter Magyar, who has gained momentum by highlighting government mismanagement and mobilizing voters through disciplined campaigning. Economic issues, particularly stagnating GDP growth and soaring consumer prices, threaten Fidesz’s traditional support base, especially among the working and middle classes. Additionally, international pressures and Hungary’s geopolitical stance add complexity to Orbán’s prospects. If Orbán’s party loses, it could mark the end of his leadership before 2027, signaling a significant political shift in Hungary and potentially impacting broader European populist trends.
+### [2026 Parliamentary Elections](https://www.valasztas.hu/en/2026-parliamentary-elections)
+**Author:** National Election Office (Hungary) | **Published:** Unknown
 
-Title: Could Viktor Orbán lose in April? - The Korea Times
-Author: 
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.koreatimes.co.kr/opinion/columns/guestcolumns/20260303/could-viktor-orban-lose-in-april
-Summary: The article discusses the upcoming Hungarian parliamentary election on April 12, 2026, focusing on Viktor Orbán's declining grip on power amid economic challenges, political opposition, and shifting international dynamics. Orbán, known as Europe's strongman, faces a significant challenge from opposition leader Péter Magyar, who has effectively highlighted Orbán’s governance issues and mobilized grassroots support. Economic factors, notably stagnating growth and rising living costs, are critical vulnerabilities for Orbán, especially as his support base includes working and middle-class voters affected by inflation and economic slowdown. Internationally, Europe’s strategic recalibration and alliances with far-right groups add complexity to Orbán’s political landscape. While Orbán’s charisma has historically bolstered his long tenure, these mounting pressures suggest his hold on power may weaken, raising the possibility that he could be ousted before 2027.
+Official Hungarian election authority page describing the 2026 parliamentary elections, timing rules and procedural framework. This authoritative source confirms the legal timetable and procedures for the April 2026 vote and is directly relevant to the market’s timeline and the mechanics of how/when a prime minister would be replaced after an election. It underpins the conclusion that a transfer of power (if it occurs) would plausibly happen before the market cutoff.
 
-Title: New poll: Orbán should brace for crushing defeat as Péter Magyar eyes constitutional rewrite
-Author: John Woods
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://dailynewshungary.com/peter-magyar-crushing-defeat-orban-april
-Summary: A recent Medián poll indicates that Péter Magyar’s Tisza Party is poised to win a substantial majority in Hungary’s upcoming elections, with projections suggesting a two-thirds or even four-fifths constitutional majority. The opposition’s lead is so significant that analysts believe the election outcome may be essentially decided in favor of Magyar’s party. Despite government efforts to sway voters through extensive handouts and social measures, these have had minimal impact, as the poll shows strong voter support for Magyar’s movement. Given the current political landscape and the apparent decline in Orbán’s popularity, these developments suggest a potential shift in power away from Viktor Orbán before 2027.
+### [Hungary's opposition Tisza party maintains lead as election nears, poll shows](https://www.reuters.com/world/europe/hungarys-opposition-tisza-party-maintains-lead-election-nears-poll-shows-2026-03-11/)
+**Author:** Thomson Reuters | **Published:** 2026-03-11
 
+Reuters reporting on a poll (21 Research Centre) showing the Tisza opposition leading Fidesz among decided voters (e.g., roughly 53% vs 39% in that poll) shortly before the April 12 election. This is a high-quality, recent poll report that materially increases the assessed chance of an electoral loss for Orbán — it is a primary piece of evidence that the market should consider, and it supports raising the probability of Orbán leaving office absent other offsets.
 
+### [Latest Hungarian poll puts Tisza Party 20 points ahead of Fidesz](https://www.intellinews.com/latest-hungarian-poll-puts-tisza-party-20-points-ahead-of-fidesz-428295/)
+**Author:** bne IntelliNews | **Published:** 2026-02-26
+
+Coverage of Medián (and other) polls showing a significant lead for the Tisza party in late Feb 2026; summarizes poll margins and seat projections and conveys momentum for the opposition. This provides corroborating polling evidence across pollsters that strengthens the case that the opposition was leading in the run-up to the April vote, supporting the argument that the market’s 35% could be slightly conservative.
+
+### [Parliamentary Elections, 12 April 2026 — NAM report (OSCE/ODIHR)](https://odihr.osce.org/sites/default/files/documents/official_documents/2026/01/HUN%20parliamentary%202026_NAM%20report_21.01.2026.pdf)
+**Author:** Office for Democratic Institutions and Human Rights (ODIHR/OSCE) | **Published:** 2026-01-21
+
+ODIHR mission/needs-assessment report on the 2026 parliamentary elections, including information on the election timetable and observations about election environment and legal framework. This confirms the election schedule and offers authoritative commentary on the election environment and procedural safeguards — material to assessing whether a poll-based change of government is operationally feasible and whether observers would consider a replacement legitimate for market resolution purposes.
+
+### [Trapped in a Web: The Exploitation of Personal Data in Hungary’s 2022 Elections](https://www.hrw.org/report/2022/12/01/trapped-web/exploitation-personal-data-hungarys-2022-elections)
+**Author:** Human Rights Watch | **Published:** 2022-12-01
+
+HRW’s analysis of the 2022 Hungarian elections documents government use of state-facing advantages, data exploitation, and other practices raising questions about fairness in past elections. Although focused on 2022, it documents systemic incumbency advantages (media environment, state resources, data tactics) that are relevant to assessing how a 2026 polling lead might be translated (or not) into a permanent change of government in 2026. This supports the cautionary argument against assuming polls map directly to an enforced transfer of power.
+
+### [PACE / Venice Commission commentary (Hungary electoral concerns)](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=34551&lang=en)
+**Author:** Parliamentary Assembly of the Council of Europe | **Published:** 2025-xx-xx (publication date listed on page)
+
+Council of Europe / Venice Commission material documenting concerns around electoral law changes, lack of transparency and the potential for redistricting/gerrymandering to advantage the ruling coalition. This authoritative institutional critique supports the argument that structural legal/institutional features can blunt poll-based changes and therefore justifiably reduce market-implied probabilities of a turnover.
+
+### [The End of Orbán’s Era? Hungary’s April Election and the Limits of Illiberal Power — Foreign Affairs Forum](https://www.faf.ae/home/2026/1/17/the-end-of-orbns-era-hungarys-april-election-and-the-limits-of-illiberal-power)
+**Author:** Unknown | **Published:** 2026-01-17
+
+Analytical piece discussing both the opposition’s polling momentum and the constraints posed by Fidesz’s institutional advantages; it summarizes why an election could plausibly remove Orbán but why it is not guaranteed. This synthesis supports the balanced view used in the analysis: polling pushes the probability up, institutional factors pull it down.

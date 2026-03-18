@@ -1,86 +1,110 @@
 # Research: OpenAI $1T+ valuation in 2026?
 
 **Market ID:** 0x3d597cce587930a248a0f0d06f7ad020b80cbdeb6067edb32048f99bbf981ecc
-**Researched At:** March 10, 2026 at 04:19:37 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: OpenAI $1T+ valuation in 2026?"
+**Researched At:** March 18, 2026 at 04:36:08 AM UTC
+**Search Query:** "OpenAI $1T+ valuation in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Recent $110 billion fundraising at ~$840 billion post-money and strategic IPO‐linked tranches make $1 trillion plausible, but execution/macro risks justify a sub-50% market probability; there is no strong, overlooked catalyst indicating a large mispricing.
+Recent, credible reporting shows a huge Feb 2026 private round that values OpenAI roughly $730B pre‑money (~$840B post), and company revenue growth has been reported in the tens of billions — both increase the plausibility of a $1T valuation but do not confirm it. Given the public facts and the low liquidity of this market, the current 36.5% price is defensible and I find no strong evidence of a large (>20¢) mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether OpenAI will hit a $1 trillion valuation by December 31, 2026, either via a public valuation or a private round explicitly confirmed by OpenAI or an overwhelming consensus of credible reporting. A “Yes” requires OpenAI to be valued at ≥ $1 trillion by then; anything less or unconfirmed resolves “No.”
+Plan and constraints
+- I used the allowed web-search budget (3 searches) to gather primary/major-news evidence about OpenAI’s most recent financing, reported valuation, and reported revenue/ARR trajectory — the items most relevant to whether a $1T+ valuation by Dec 31, 2026 is plausibly priced in today’s market.
+- I excluded prediction-market sites per your instruction and focused on major news outlets and a primary company investor press release.
 
-2. EVIDENCE EVALUATION  
-Bullish Evidence:  
-- Five independent reports (Feb 28–Mar 5, 2026) document a $110 billion round valuing OpenAI at $730–840 billion post-money with marquee investors (Amazon, Nvidia, SoftBank).  
-- Strategic commitments (e.g., Amazon’s contingent $35 billion tranche tied to an IPO) suggest a path to $1 trillion by late 2026.  
-- Projected revenues of $15–30 billion annually underpin extrapolations to a $1 trillion valuation if growth accelerates.  
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- Market question (paraphrase): Will OpenAI reach a valuation of >= $1 trillion (public market cap or private round valuation explicitly confirmed by OpenAI or an overwhelming consensus of credible reporting) between market creation and 2026-12-31 23:59 ET?
+- What must happen for a YES:
+  - OpenAI (or an overwhelming consensus of credible reporters) must explicitly report a private round valuing the company at >= $1T, or OpenAI must have a public market valuation (market cap) >= $1T by 2026-12-31 11:59 PM ET.
+  - The market’s resolution policy requires either an official OpenAI communication or an “overwhelming consensus of credible reporting.”
+- What must happen for a NO:
+  - By the deadline there is no confirmed private round or public market cap >= $1T and no overwhelming consensus of credible reporting to that effect.
 
-Bearish/Uncertain Factors:  
-- No coverage on macro headwinds or regulatory risks that could derail an IPO or down‐round.  
-- Some deals are contingent on milestones (AGI progress, IPO execution) which carry execution risk.  
+2) EVIDENCE EVALUATION — key facts and how they bear on the prediction
+A — Recent large funding and reported valuation (closest hard facts)
+- OpenAI announced/closed a massive $110 billion private financing in late February 2026, with reporting that the round used a $730B pre‑money figure and implied an $840B post‑money figure (i.e., still below $1T). Several major outlets and an investor press release documented the transactions and investor participation (Amazon, NVIDIA, SoftBank in the announced round). ([apnews.com](https://apnews.com/article/a0a915c32b85337d799fe2f9525a932a?utm_source=openai))
+- Why this matters: a post‑money near ~$840B (reported) is concrete evidence that the company is already at extremely high private-market value; but it is still materially short of $1T. This both raises the floor for a $1T outcome (it’s nearer) and shows there is not yet public, direct confirmation of a $1T valuation (so the market can only infer a further move to $1T).
 
-Source Credibility: All five sources are recent (late Feb/early Mar 2026) and cite official round sizes and investor identities. There is no direct bearish reporting in the materials.
+B — Reported revenue/scale trajectory
+- Multiple reports (and company CFO commentary reported in the press) indicate OpenAI’s ARR surged in 2024–2025 and has been reported in 2025 as being on the order of tens of billions (CFO statements and press writeups report 2025 ARR ~ $20B+). Rapid revenue growth makes higher valuations more plausible if the market or buyers apply high software/AI multiples. ([itpro.com](https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond?utm_source=openai))
+- Why this matters: valuations in the $800B–$1T range are easier to justify if revenue and growth projections are very large and investors expect high sustained margins. But reported ARR alone doesn’t prove a $1T valuation — investors also price in profitability, capex needs (huge GPU/datacenter spending), competitive risk, and regulatory/legal risk.
 
-3. MARKET EFFICIENCY ANALYSIS  
-At 34.5%, the market may reflect cautious optimism: bullish insiders price in the probability of meeting IPO‐linked milestones but discount execution and macro risk. Low volume suggests only a few participants have funded trades; however, the tight spread (1 cent) hints these participants share a common risk view rather than wild disagreement.
+C — Market / investor interest, and IPO timing rumors
+- Coverage indicates strong strategic investor interest (Amazon, NVIDIA, SoftBank, reports of Microsoft-related deals historically). There have been repeated IPO timing/rumor pieces suggesting an IPO or further fundraising could occur in 2026–2027; none of these sources constitute an explicit OpenAI confirmation of $1T. ([techcrunch.com](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/?utm_source=openai))
+- Why this matters: strategic investor commitments and IPO talk increase the plausible upside to $1T before year‑end 2026, but rumors alone are not sufficient under the market’s resolution rules.
 
-4. MISPRICING ASSESSMENT  
-The research is uniformly bullish but acknowledges execution risk and macro uncertainty—factors that informed traders likely bake into a ~35% probability. There is no clear, overlooked catalyst in the research that would imply a swing of > 20 points in probability. While the funding round makes $1 trillion plausible, it is not a done deal by any measure, and traders appear to correctly discount contingencies.
+D — Evidence that argues against near‑term $1T confirmation
+- The best direct counter-evidence is that the largest recent concrete valuation figures reported are in the $730B pre‑money / ~$840B post‑money range — not $1T — and that no primary OpenAI communication (via their own release) has confirmed a $1T valuation as of today. Major reporting corroborates the $730B/$840B figures. ([apnews.com](https://apnews.com/article/a0a915c32b85337d799fe2f9525a932a?utm_source=openai))
+- Additional downside/uncertainty factors: very large capex needs and operating losses have been repeatedly noted in coverage of the AI buildout; competition (Anthropic, Google, xAI, others), legal/regulatory risks (copyright/training-data litigation and data/privacy regulation), and macro market conditions could constrain a rapid leap to $1T. (The sources above note the spending and market‑skeptic commentary.) ([digidai.github.io](https://digidai.github.io/2026/03/06/openai-2024-2025-valuation-products-organization-full-review/?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 40% (balanced bullish data, but nothing decisive)  
-Magnitude of mispricing: 5 cents (if any)  
-Expected value = 0.40 × 5 cents = 2 cents
+Assessment of source credibility and recency
+- The largest/most load‑bearing claims (the $110B round, investor identities, $730B pre‑money / ~$840B post‑money) are reported by high‑quality, recent sources (AP, Reuters/major wire reports circulated via investing outlets, SoftBank’s investor press release, TechCrunch/Forbes). These are recent (late Feb–Mar 2026) and therefore directly relevant to the Dec‑31‑2026 deadline. ([apnews.com](https://apnews.com/article/a0a915c32b85337d799fe2f9525a932a?utm_source=openai))
+- The ARR/revenue numbers rest largely on company CFO statements as reported by trade press; those are plausible but in some outlets are secondarily reported (CFO blog or press interview); still, multiple articles converge on a multi‑billion ARR figure for 2025, increasing credibility but still subject to internal accounting/annualization caveats. ([itpro.com](https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond?utm_source=openai))
 
-EXPECTED_VALUE: 2  
-SUMMARY: Recent $110 billion fundraising at ~$840 billion post-money and strategic IPO‐linked tranches make $1 trillion plausible, but execution/macro risks justify a sub-50% market probability; there is no strong, overlooked catalyst indicating a large mispricing.  
+3) MARKET EFFICIENCY ANALYSIS — is the market price (36.5%) reasonable?
+- Plausible interpretation that justifies the current 36.5%:
+  - The market is reflecting the very large but sub-$1T reported valuation (~$840B post‑money) plus an appreciable chance (but not a majority probability) of either (a) a further private round or strategic transaction that explicitly values OpenAI at >= $1T before 2026‑12‑31, or (b) a public IPO priced at >= $1T. Because the gap from ~$840B to $1T is non‑trivial (~19%), the market assigns noticeably less than even odds. The 36.5% price is consistent with the view “plausible but not likely in the next ~9 months.” ([apnews.com](https://apnews.com/article/a0a915c32b85337d799fe2f9525a932a?utm_source=openai))
+- Could the price instead reflect a single trader or a tiny group?
+  - Yes — the market has very low total traded volume ($2,593) and a tight spread (3¢), which commonly indicates few active participants. Low volume + tight spread can happen when a few informed traders set prices and few others trade against them. So liquidity—the degree to which many independent participants are priced in—is low. That raises the chance the price reflects concentrated views rather than broad consensus.
+- Is low volume because the outcome is obvious?
+  - No. The outcome is not obvious: recent funding brought valuation close but below $1T; multiple paths could push it above $1T or prevent it. The low volume is more plausibly because most investors lack conviction or the market is obscure/illiquid rather than because the outcome is already settled.
+
+4) MISPRICING ASSESSMENT — does credible evidence of mispricing exist?
+- Short answer: No strong, specific evidence that the market is materially mispriced. The market price (36.5%) sits between “unlikely” and “plausible,” which matches the evidence: OpenAI is already extremely highly valued (~$730B pre-money / ~$840B post), has large and growing revenue, and has strong strategic investor interest — all factors pushing probability up — but there is no primary OpenAI confirmation of $1T and reaching $1T within the remainder of 2026 still requires material additional value creation or another large financing/market move. ([apnews.com](https://apnews.com/article/a0a915c32b85337d799fe2f9525a932a?utm_source=openai))
+- Could there be a >20‑cent mispricing (critical-check)?
+  - I see no credible, missing hard fact that would make a >20‑cent correction obvious. The major new fact (the $110B round) was reported publicly in late Feb 2026 and appears already reflected in the market (market sits below $1T but not far below). There is no sign of an ignored primary disclosure that would force a near‑certain $1T outcome. Therefore I would not conclude a large (>20¢) mispricing.
+- Possible small inefficiency:
+  - Given the market’s low liquidity, one can’t rule out that a sharp new public confirmation or another large private transaction could quickly move the price (so small mispricings could exist). But those are event risks, not proof the market is currently wrong.
+
+5) EXPECTED VALUE OF INVESTIGATING / TRADING this market (quantitative)
+- Strength of evidence that price misses key information: I assess this as moderate‑low because the largest, most relevant facts (recent mega‑round and reported ARR) are public and appear to be already priced in to some extent. Strength = 30% (i.e., 0.30).
+- Magnitude of plausible mispricing if one is present: small — maybe on the order of 5–15 cents. A reasonable central guess for magnitude = 10 cents.
+- Expected value = Strength × Magnitude = 0.30 × 10 cents = 3.0 cents.
+
+6) CONCLUSION and action guidance
+- Conclusion: There is credible evidence both for and against a $1T+ outcome before 2026‑12‑31. The most important concrete fact (a very large Feb 2026 private financing at ~$730B pre‑money / ~$840B post) makes a $1T outcome materially more plausible than prior to that round, but it is not conclusive. The market price of 36.5% is a defensible compromise between the sizable upside pathway and the remaining gap and uncertainty. I do not find specific, credible evidence that the market is materially mispriced today.
+- If you are considering trading: because volume is low, beware market‑impact and the risk that prices are controlled by a few participants. The decision to trade should hinge on whether you have non‑public information or a strong view on an imminent confirmation (e.g., you expect OpenAI to announce a $1T+ private round or an IPO price before 2026‑12‑31). Without that, the expected edge is small.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Recent, credible reporting shows a huge Feb 2026 private round that values OpenAI roughly $730B pre‑money (~$840B post), and company revenue growth has been reported in the tens of billions — both increase the plausibility of a $1T valuation but do not confirm it. Given the public facts and the low liquidity of this market, the current 36.5% price is defensible and I find no strong evidence of a large (>20¢) mispricing. 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: OpenAI Raises $110 Billion at a $300 Billion Valuation — What It Means for the AI Industry | Abhishek Gautam
-Author: Abhishek Gautam
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.abhs.in/blog/openai-110-billion-raise-300-billion-valuation-2026
-Summary: OpenAI's recent $110 billion funding round at a $300 billion valuation reflects strong investor confidence in its potential to dominate the AI industry. The significant investment from SoftBank, sovereign wealth funds, and strategic partners aims to fund large-scale compute infrastructure, AI research, and talent acquisition. The valuation is based on expectations that OpenAI will generate $15-30 billion annually, with investors betting on its ability to capture a substantial share of AI-driven value across industries. Given the current trajectory and the scale of investment, if OpenAI continues to grow its revenue and maintain its technological leadership, reaching a $1 trillion valuation by 2026 is plausible, especially if AI's economic impact accelerates as anticipated.
+### [ChatGPT maker OpenAI has received $110 billion in funding from Amazon, SoftBank and Nvidia, putting the technology company's pre-money valuation at $730 billion.](https://apnews.com/article/a0a915c32b85337d799fe2f9525a932a)
+**Author:** Unknown (AP News) | **Published:** 2026-02-27
 
-Title: OpenAI Raises $110B From Amazon, Nvidia, SoftBank; Valuation Nears $1T
-Author: John Ondercin
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://eand.co/openai-raises-110b-from-amazon-nvidia-softbank-valuation-nears-1t
-Summary: OpenAI has recently secured a $110 billion funding round from major investors including Amazon, Nvidia, and SoftBank, elevating its valuation to approximately $840 billion post-money—more than doubling its previous valuation of $500 billion. Amazon committed $50 billion, with additional tranches contingent on milestones like progress toward artificial general intelligence (AGI) or an IPO. Amazon also signed a strategic agreement to provide 2GW of AI compute capacity and become the exclusive cloud distributor for OpenAI’s ‘Frontier’ platform, expanding their cloud partnership by $100 billion over eight years. Nvidia invested $30 billion, reinforcing its long-standing relationship and providing significant compute capacity. SoftBank’s stake increased to around 13%. Given these substantial investments and strategic partnerships, along with OpenAI’s rapid user growth (over 900 million ChatGPT users), analysts suggest the company is positioned to reach or surpass a $1 trillion valuation by 2026.
+AP reported that OpenAI closed a $110 billion funding round and cited the company’s reported pre‑money valuation of $730 billion and the identities of major participants (Amazon, SoftBank, Nvidia). This piece is a primary news report on the financing and is key because it documents the largest recent valuation-related event; it supports the view that OpenAI’s private value is already very high (which makes a $1T outcome nearer but not yet achieved). It challenges the notion that the market has missed a known, public $1T confirmation.
 
-Title: OpenAI $110B Funding Round 2026: What the $730B Valuation Means for Builders
-Author: BuildMVPFast
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.buildmvpfast.com/blog/openai-110b-funding-round-730b-valuation-builders-2026
-Summary: OpenAI's recent $110 billion funding round in 2026, valuing the company at approximately $730 billion pre-money and $840 billion post-money, significantly boosts its valuation prospects. The deal involves major investments from Amazon ($50 billion), SoftBank ($30 billion), and NVIDIA ($30 billion), with strategic conditions such as Amazon's contingent $35 billion investment tied to an IPO planned for late 2026. Notably, OpenAI's filing for a public listing aims for a $1 trillion valuation by 2027, supported by its substantial funding, expanded infrastructure, and strategic partnerships. The deal's structure and the company's growth trajectory suggest that reaching or exceeding a $1 trillion valuation within the next year is plausible, especially considering the scale of investments and market positioning.
+### [Follow-on Investments in OpenAI | SoftBank Group Corp.](https://group.softbank/en/news/press/20260227)
+**Author:** SoftBank Group Corp. (press release) | **Published:** 2026-02-27
 
-Title: OpenAI $110 Billion Funding: Record $840B Valuation Explained
-Author: Editorial Team
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://entrepreneurloop.com/openai-110-billion-funding-840-billion-valuation/
-Summary: OpenAI recently secured a record $110 billion funding round, boosting its valuation to approximately $840 billion—significantly higher than previous valuations. Key investors include Amazon ($50 billion), Nvidia ($30 billion), and SoftBank ($30 billion), reflecting strong confidence in AI’s future dominance. The valuation is driven by rapid user growth, with over 900 million weekly active users and 50 million subscribers, alongside projected exponential revenue growth. Although OpenAI has yet to turn a profit, its strategic positioning—particularly its massive compute investments and partnerships with Amazon and Nvidia—indicates a focus on market dominance rather than immediate financial returns. Given these factors, and the substantial backing from major tech giants, there is a strong foundation to support predictions of OpenAI reaching a $1 trillion valuation by 2026.
+Official SoftBank press release announcing its participation in the announced OpenAI fundraising (reports a $30.0 billion investment by SoftBank and cites the pre‑money valuation figure used in the financing). This is a primary investor disclosure corroborating the funding size and investor composition; as a direct issuer statement it is high‑credibility evidence that the large round closed and that the $730B/$840B figures are anchored in investor communications. It supports the idea that a step to $1T would require further events, not simply private rumor.
 
-Title: OpenAI Secures $110 Billion Funding at $730 Billion Valuation, Eyes 2026 IPO
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.angelone.in/news/global-market/openai-secures-110-billion-funding-at-730-billion-valuation-eyes-2026-ipo
-Summary: OpenAI has recently secured up to $110 billion in funding at a valuation of approximately $730 billion, with strategic investments from Nvidia, SoftBank, and Amazon. The funding includes commitments that could potentially increase OpenAI's valuation further, especially with plans for a possible IPO as early as late 2026. Given the substantial capital infusion and strategic backing, there is a strong indication that OpenAI's valuation could surpass $1 trillion by 2026, contingent on its growth trajectory, achievement of artificial general intelligence milestones, and successful market listing.
+### [OpenAI clinches $840 billion valuation with mega funding from Amazon, Nvidia, SoftBank (Reuters via Investing.com)](https://www.investing.com/news/stock-market-news/openai-clinches-840-billion-valuation-with-mega-funding-from-amazon-nvidia-softbank-4533593)
+**Author:** Unknown (Investing.com news distribution of Reuters reporting) | **Published:** 2026-02-27
 
+This news item relays Reuters coverage that the recent round implied about an $840B post‑money valuation (reporting both pre‑money and post‑money framing). Reuters’ coverage contextualizes the round relative to market dynamics and highlights how close — but not yet at — $1T the company stands. This corroborates other reporting and is used to argue that the public facts lean toward a high but sub‑$1T valuation, hence explaining why the market should not be certain of a $1T resolution.
 
+### [OpenAI raises $110B in one of the largest private funding rounds in history](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)
+**Author:** Unknown (TechCrunch) | **Published:** 2026-02-27
+
+TechCrunch reported the composition of the $110B round (Amazon $50B, NVIDIA $30B, SoftBank $30B) and reiterated the pre‑money $730B figure. TechCrunch’s reporting adds color about the strategic nature of the round and the likely uses of capital (compute, distribution deals), which makes an eventual >$1T outcome more plausible but still contingent on execution and timing. It supports the “plausible but not certain” view.
+
+### [OpenAI CFO teases new money-making plans as AI giant targets 'practical adoption' gains in 2026 and beyond](https://www.itpro.com/business/business-strategy/openai-cfo-teases-new-money-making-plans-as-ai-giant-targets-practical-adoption-gains-in-2026-and-beyond)
+**Author:** Unknown (ITPro) | **Published:** 2026-01-20
+
+This article summarizes company CFO commentary (reported in January 2026) that OpenAI’s annualized revenue run‑rate rose sharply year‑over‑year and that 2025 ARR topped figures in the multi‑billion to tens‑of‑billions range (~$20B reported in multiple outlets). These revenue indications are important because they affect the plausibility of a $1T valuation — strong top-line growth makes a $1T valuation more defensible to buyers, while heavy capex and margin uncertainty mitigate it.

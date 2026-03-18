@@ -1,88 +1,130 @@
 # Research: GRVT FDV above $100M one day after launch?
 
 **Market ID:** 0x0e52820084d4e4eee6da2117e14bd3c9ed59df48b7562c5d0419b35f7778fcf4
-**Researched At:** March 6, 2026 at 04:19:11 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: GRVT FDV above $100M one day after launch?"
+**Researched At:** March 18, 2026 at 04:52:53 AM UTC
+**Search Query:** "GRVT FDV above $100M one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
+**Confidence:** Medium
 **Expected Value:** 2.0¢
 
 ### Summary
 
-There’s no direct GRVT data in the research—only analogies to other token launches—so the market’s 67.5% likely reflects both hype and dilution risks. Without GRVT-specific supply or listing details, there’s no strong evidence of significant mispricing.
+Official GRVT materials and reputable reporting indicate a total supply of ~1,000,000,000 GRVT (so FDV > $100M iff price > $0.10). Recent press shows the community reward window through June 30 and a TGE “soon after,” plus strong claimed platform activity; these facts make a >$100M FDV plausible, and I find no clear, high‑confidence evidence of a large mispricing. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: The Road to TGE: GRVT’s 20% Genesis Airdrop
+URL: https://grvt.io/blog/grvt-genesis-airdrop/
+A
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: Will GRVT’s fully diluted valuation exceed $100 million at 4 PM ET the day after its token launch? “Yes” requires that on-chain supply × trading price at that time > \$100 M, with the token freely tradable. Otherwise “No,” including if GRVT never launches by year-end 2027.
+Plan / searches used
+- Search 1: official GRVT site and blog for tokenomics, total supply, airdrop allocation and TGE timing. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+- Search 2: reputable crypto press for updated timing/allocation news (The Block) and corroborating industry writeups. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- Search 3: corroborating coverage of GRVT activity / usage metrics (Outposts article quoting GRVT). ([outposts.io](https://outposts.io/article/grvt-launches-first-licensed-dex-on-zk-chain-hits-dollar13b-a3dd9320-c444-4e7d-ae7f-bf24c007fb51))
 
-2. EVIDENCE EVALUATION  
-Bullish analogies:  
-• Fabric’s token launch market (ROBO) shows a 98% probability of >\$100 M FDV one day post-launch, driven by early hype, suggesting that well-backed DeFi tokens often clear this threshold.  
-• Backpack’s launch saw large token releases, high derivatives volume, and retail frenzy pushing FDV predictions upward.  
-• Sonic Labs’ 99.99% governance vote, \$150 M token issuance, and \$150 M TradFi commitments point to strong institutional backing for projects with similar profiles.  
+Below I analyze the market: “GRVT FDV above $100M one day after launch?” (market price 68.5%, age 21d, total vol $0, spread 3¢).
 
-Bearish risks:  
-• Abstract’s launch case highlights dilution and vesting-driven sell-pressure that can crash FDV despite strong communities.  
-• No direct data on GRVT’s supply, launch schedule, distribution, exchange listings, or investor demand; Crypto Differ updates offer zero specifics on GRVT.  
+1) CONTEXT ANALYSIS
+- What the market asks: Will GRVT’s Fully Diluted Valuation (FDV = total token supply × token price) be greater than $100,000,000 at 4:00 PM ET on the calendar day after the token launch? The token must be publicly transferable/tradable for a launch to count; if no token by Dec 31, 2027 the market resolves NO.
+- What needs to happen for YES vs NO:
+  - Need the project’s total token supply (fixed supply) × the observed token price at the selected resolution time to exceed $100M.  
+  - From official GRVT materials and reporting the project is using a fixed supply of 1,000,000,000 GRVT — so the price threshold is about $0.10 per token (i.e., FDV > $100M if price > $0.10). ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+  - If the unit price ≤ $0.10 (with total supply = 1B) one day after launch, the market resolves NO. (If the project’s official total supply differs at launch, that changes the math — so confirming the final supply at TGE is critical.) ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
 
-Credibility & recency:  
-All sources are from February/March 2026 and pertain to other tokens; none provide GRVT-specific supply or listing details. The analogies illustrate market patterns but may not translate to GRVT’s unique circumstances.
+2) EVIDENCE EVALUATION
+Summary of the most relevant facts I found:
+- Official project materials (GRVT blog) repeatedly describe a 1,000,000,000 total token supply and large community airdrop allocations (initially described as ~20% of supply; project communications have referenced reward seasons and distribution mechanics). The GRVT team’s public blog also stated a TGE target of Q1 2026 in multiple posts (older communications). ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+- More recent reporting (The Block, March 12, 2026) indicates the project pushed the main reward window (Season 2) through June 30 and says the TGE is expected to follow soon after Season 2 — i.e., a token launch after June (so not Q1). That same article reports the team increased the community allocation to 28% of a fixed 1B supply and that GRVT plans initial trading on its own spot market while pursuing listings on tier‑one CEXes. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- GRVT marketing/PR has been citing strong on-platform activity (example: GRVT reported $1.3B traded in 30 days after Mainnet Alpha), which supports material user demand and could push an initial price above low thresholds on listing if liquidity is sufficient and listings attract buyers. ([outposts.io](https://outposts.io/article/grvt-launches-first-licensed-dex-on-zk-chain-hits-dollar13b-a3dd9320-c444-4e7d-ae7f-bf24c007fb51))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 67.5% price could reflect:  
-• A general consensus that well-promoted tokens often exceed \$100 M FDV but with enough dilution risk to trim probability below 100%.  
-• One or two traders modeling Fabric/Backpack analogies and pricing in both hype and vesting sell-pressure.  
-Low volume suggests limited engagement; narrow spreads imply at least two active participants.
+Evidence that would suggest the market price (68.5% chance FDV > $100M) might be incorrect (i.e., market is overconfident):
+- Timing uncertainty and schedule changes: official blog posts advertised Q1 2026 TGE earlier, but more recent press reporting indicates the reward window runs to June 30 and TGE may follow after that, which makes the launch timing uncertain and could delay price discovery. If traders assumed an earlier launch, the actual later launch could reduce realized demand/price momentum at TGE. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+- Sell pressure from large community allocations: The Block reports community allocation rose to 28% of 1B (big share). If a substantial portion of tokens are distributed and immediately tradable or quickly sold by recipients, that can cap or depress the launch price even when on‑platform demand exists; FDV uses total supply, so the usual mismatch between circulating supply and FDV can make >$100M harder to achieve than headline demand suggests. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- Liquidity / price discovery risk at initial trading: The project plans initial trading on its own spot market; if initial order books are thin (even with internal liquidity partners) price setting can be volatile and may under-shoot the >$0.10 threshold, especially if many airdrop recipients sell. The prediction market shows $0 total volume (no trades) and a narrow spread — this suggests the market price may be set by a single actor or an automated maker rather than broad information aggregation.
+- Conflicting/low-quality sources: I found alternative, inconsistent token-supply figures on unrelated domains (likely different projects or low-quality mirrors). This highlights the danger of relying on any single non-official source; the most credible numbers are the official GRVT site and major press. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-There’s no GRVT-specific on-chain supply or launch schedule information missing from the price; traders likely priced in both bullish analogies and dilution risks. No concrete evidence that 67.5% omits a major factor. Large (>20¢) mispricing seems unlikely given parallels with other tokens and absence of GRVT data.
+Evidence that supports the market price (i.e., makes >$100M plausible and justifies the ~68.5%):
+- Large activity and product traction: GRVT claims strong on-chain trading activity (e.g., cited $1.3B in 30 days), and The Block reports rising monthly trading volumes and an active trader base (10k+ active traders reported). If real, this on‑platform activity can generate meaningful demand at TGE and supports an initial price comfortably above $0.10. ([outposts.io](https://outposts.io/article/grvt-launches-first-licensed-dex-on-zk-chain-hits-dollar13b-a3dd9320-c444-4e7d-ae7f-bf24c007fb51))
+- Proactive liquidity and listing plans: The Block says GRVT plans to have token initially trade on its own spot market and is pursuing tier‑one CEX listings and liquidity partnerships. If successful, those listings and committed liquidity could support price discovery above the $0.10 threshold. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- Large community allocation / gamified rewards can build a bidder base: a 22–28% community allocation (depending on communications and season splits) creates a large group with potential vested interest in a price >$0.10 if they expect upside, which can support higher opening prices if sell pressure is limited or buyers outnumber sellers. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (no direct data; analogies only): ~20%  
-Magnitude of potential mispricing: ~10¢  
-Expected value = 0.2 × 10¢ = 2¢
+Source credibility and recency assessment:
+- GRVT official blog (grvt.io) — primary source for tokenomics, allocation, and past TGE guidance; high credibility for project intent and stated supply/allocations but may be optimistic about outcomes. (dates: Feb–Nov 2025 posts). ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+- The Block — reputable crypto news outlet; recent March 12, 2026 reporting that cites updated timing and details (community allocation up to 28%, Season 2 until June 30). High credibility and recent. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- Outposts (article quoting GRVT tweets) — supports usage / volume claims (Feb 2025). Useful corroboration of claimed on‑platform volume but traces back to GRVT’s own announcements; treat as secondary confirmation. ([outposts.io](https://outposts.io/article/grvt-launches-first-licensed-dex-on-zk-chain-hits-dollar13b-a3dd9320-c444-4e7d-ae7f-bf24c007fb51))
+- Less-reputable or mismatched pages (random “GreenVault” docs) contradicted the 1B figure and appear to refer to different projects or low-quality mirrors; I discounted those. (Not used for core conclusions.)
 
-EXPECTED_VALUE: 2  
-SUMMARY: There’s no direct GRVT data in the research—only analogies to other token launches—so the market’s 67.5% likely reflects both hype and dilution risks. Without GRVT-specific supply or listing details, there’s no strong evidence of significant mispricing.  
-CONFIDENCE: low
+Skeptical note: the clearest bullish facts (high on‑chain volumes, big community) come from the project or friendly outlets and can be true while still leaving substantial short-term sell/liquidity risks that limit FDV at launch. If it were truly obvious the FDV would exceed $100M, we would expect active, higher-volume trading in this prediction market — the $0 volume here suggests limited engagement and that the current price may reflect one or a few traders’ priors rather than broad, informed consensus.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current ~68.5% price:
+  - With total supply = 1B, the price threshold is modest ($0.10). Given reported product traction and a large community allocation that will hold tokens and/or buy at launch, a >$0.10 listing price is plausible; an informed trader could reasonably assign >50% probability. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+  - The Block’s report that Season 2 runs to June 30 and TGE is planned “soon after” implies the launch could align with product maturity and listings planning, supporting bullish expectations. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- Reasons the market price might not be reliable:
+  - Zero trading volume and narrow spread: the market may be quoting a probability from a single maker or a tiny set of participants, not a broad consensus. That implies the quoted price could be idiosyncratic and not reflect aggregated predictive information.
+  - Large but potentially liquid airdrop allocations create asymmetric pressure: many recipients could sell immediately at TGE, capping price despite platform traction. Traders who understand the unlocked/circulating schedule might price that in, leading to a lower probability; if the prediction market maker is not accounting for that, the market could be mispriced.
+  - Uncertainty about exact circulating supply at TGE and which fraction of allocations are tradeable vs locked. FDV uses total supply, so even if only a small fraction is circulating, the total‑supply × price rule still applies — but many traders may focus on circulating sell pressure, producing divergence in opinions.
+
+4) MISPRICING ASSESSMENT (objective weighing)
+- I do not find specific, high‑confidence evidence that the market is grossly mispriced by >20¢ (the Decision Boundary cautions against declaring large mispricings without ironclad, missing info). The most load-bearing items — official supply = 1B and The Block’s March 12, 2026 reporting of Season 2 through June 30 and community allocation = 28% — imply the $0.10 threshold is not a high bar relative to the project’s claimed usage metrics; that supports the market’s bullish stance to an extent. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+- Key uncertainties that could move the true probability materially (in either direction):
+  - Exact launch date / whether TGE occurs soon or is delayed beyond the community reward window; delays reduce the near‑term probability of a >$100M FDV due to market conditions or distribution dynamics. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+  - The fraction of tokens immediately tradable at TGE and their vesting/lockups; large immediate supply increases downside risk. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+  - Quality of initial liquidity and the identity/commitment of liquidity partners and CEX listings — if tier‑one listings and institutional liquidity are secured at TGE, a $0.10+ price is more likely; absent that, thin order books or heavy selling could mean FDV ≤ $100M. ([theblock.co](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28?utm_source=openai))
+- Conclusion on mispricing: Given the mix of decent product traction claims, the not‑very‑high $0.10 threshold (for 1B supply), and credible recent reporting that the project is organizing a post‑June TGE with larger community allocation, there is not strong, specific evidence that the market’s 68.5% probability is a clear misprice. The market could be reasonably priced or modestly off in either direction; without on‑chain TGE parameters (exact circulating supply, lockups) and verified liquidity commitments at TGE, I cannot justify declaring a large mispricing.
+
+5) EXPECTED VALUE CALCULATION (how valuable is investigating / trading this difference)
+- Strength of evidence that something material is missing from the market price: I estimate ~40%. There are clear uncertainties (timing, circulating supply, liquidity) and a modest set of credible sources, but nothing that decisively points to a large error. (40% = moderate likelihood that further, concrete info would change the implied probability materially.)
+- Magnitude of plausible mispricing (if any): given the low $0.10 threshold and available evidence, a plausible mispricing is small — on the order of a few cents (I estimate 3–7¢). A larger gap seems unlikely without new, dramatic information (for example, confirmed major exchange listing commitments or confirmed immediate sell/lock schedules).
+- Calculation (midpoint): choose magnitude = 5¢ and strength = 40% → Expected value = 0.40 × 5¢ = 2.0¢.
+
+6) CONFIDENCE IN ASSESSMENT
+- I assign confidence = medium. The assessment relies on a small set of recent, credible reports plus the project’s own communications, but critical resolution details (exact circulating supply and lockups at TGE, confirmed listing partners and liquidity commitments, exact TGE date) are not yet public or are in flux; those could swing the probability materially.
+
+CRITICAL CHECK (self-challenge)
+- Could I be missing a technicality? Yes — the prediction market resolves on FDV calculated using total supply × price; I verified total supply = 1B from the project and reporting. If that changes at TGE (e.g., final supply different, burns, or re-denominations), the threshold changes; traders may already know and price that, but I could be missing late adjustments. ([grvt.io](https://grvt.io/blog/grvt-genesis-airdrop/?utm_source=openai))
+- Large (>20¢) mispricings would require clear, credible info that the token will either trade orders of magnitude above or well below $0.10 at TGE; I saw no such decisive evidence. Therefore I do not claim a large mispricing.
+
+Final actionable points for someone considering trading:
+- Key things to check before acting: GRVT’s official TGE announcement (date and time), final token supply and circulating/locked breakdown at TGE, explicit liquidity commitments or CEX listing commitments, and token trading pair(s) that will be used as the “most liquid price source” (the market’s resolution rule). If those are favorable (small immediate supply, strong liquidity/market‑maker and CEX listings), the 68.5% price is plausible; if many tokens are unlocked and tradable with little liquidity support, the probability should be lower.
+- Given the market’s $0 volume and narrow spread, treat current price as conditional on uncertainty and likely set by a small number of participants; investigate on‑chain and team announcements before relying on the market.
+
+EXPECTED_VALUE: 2.0
+SUMMARY: Official GRVT materials and reputable reporting indicate a total supply of ~1,000,000,000 GRVT (so FDV > $100M iff price > $0.10). Recent press shows the community reward window through June 30 and a TGE “soon after,” plus strong claimed platform activity; these facts make a >$100M FDV plausible, and I find no clear, high‑confidence evidence of a large mispricing. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: ⚡️ NEW: Sonic Labs passes governance proposal with ...
-URL: https://www.facebook.com/cointelegraph/posts/%EF%B8%8F-new-sonic-labs-passes-governance-proposal-with-9999-approval-for-us-expansion-/1091049369868557/
-Summary: Sonic Labs has recently passed a governance proposal with 99.99% approval, signaling strong institutional support for its US expansion and integration into traditional finance (TradFi). Key initiatives include a $50 million ETF allocation, a $100 million PIPE development on NASDAQ, and the issuance of 150 million $S tokens to establish Sonic USA. While the specific market capitalization (FDV) of Sonic Labs (GRVT) is not provided, the significant financial commitments and high approval rate suggest substantial growth potential. If GRVT's FDV surpasses $100 million shortly after launch, these developments indicate a favorable environment for rapid valuation increase driven by strategic expansion and investor confidence.
+### [The Road to TGE: GRVT’s 20% Genesis Airdrop](https://grvt.io/blog/grvt-genesis-airdrop/)
+**Author:** Unknown (GRVT marketing/blog) | **Published:** 2025-02-20
 
-Title: Backpack's Token Launch: Is the FDV Above $100M One Day After Launch?
-Author: AInvest
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.ainvest.com/news/backpack-token-launch-fdv-100m-day-launch-2602/
-Summary: The article discusses Backpack's recent token launch, which involved releasing 250 million tokens on day one, primarily allocated to existing users and NFT holders, with a total supply of 1 billion tokens. The launch generated significant market attention, driven by retail traders and airdrop hunters, especially after the Hyperliquid airdrop. The initial market capitalization (FDV) is expected to be high due to trading volume, particularly in derivatives like perpetual futures, which dominate activity. However, long-term sustainability depends on the platform's utility and ability to convert hype into lasting demand, as large portions of tokens remain locked or are held on the company's balance sheet for at least a year. Given this context, predicting whether GRVT's FDV will surpass $100 million one day after launch would require assessing similar factors: initial trading volume, community engagement, token distribution, and platform utility.
+Official GRVT blog post describing the Genesis airdrop allocation and token distribution approach; it states that 20% of total token supply is allocated to the Genesis airdrop and refers to a total token supply of 1 billion GRVT in the text. This is a primary source for tokenomics claims and supports the calculation that FDV > $100M corresponds to a price above ≈$0.10 per token (if total supply = 1,000,000,000). It also shows the project’s public targeting of TGE based on product milestones, which is relevant for launch timing risk (supports the argument that timing and distribution details matter for price).
 
-Title: Fabric ($ROBO) FDV above ___ one day after launch? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://predictioncircle.com/event/fabric-fdv-above-one-day-after-launch
-Summary: The webpage analyzes prediction market odds for Fabric ($ROBO) regarding its Fully Diluted Valuation (FDV) one day after launch. Currently, the market strongly favors an FDV above $50 million, with a 99% probability, and nearly as high for above $100 million at 98%. The total trading volume is $659K, with active participation indicating significant market interest. The "Crowd vs Money" signals show broad attention but relatively low capital backing for these outcomes, suggesting high participation but not necessarily deep conviction. The market resolution depends on whether Fabric's token, once actively tradable and publicly transferred, has an FDV exceeding the specified threshold based on on-chain data and credible sources. This context indicates that predicting whether GRVT (or any other token) will have an FDV above $100M one day after launch would similarly depend on initial token supply, price, market sentiment, and trading activity at launch. Heavy early trading and broad market attention could signal a higher likelihood of surpassing that valuation threshold.
+### [Grvt Launches GLP Vault: A Delta-Neutral Liquidity Strategy](https://grvt.io/blog/grvt-launches-glp-vault/)
+**Author:** Unknown (GRVT marketing/blog) | **Published:** 2025-11-11
 
-Title: Abstract's Token Launch: Will the FDV Moonshot or Crash?
-Author: AInvest
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.ainvest.com/news/abstract-token-launch-fdv-moonshot-crash-2602/
-Summary: The article discusses Abstract's upcoming token launch, highlighting a key market concern: whether the Fully Diluted Valuation (FDV) will surpass $100 million one day after launch, similar to the hypothetical scenario with GRVT. The market's sentiment is divided; the Pudgy Penguins community is highly optimistic, believing strong community engagement (150M+ transactions and 40% 30-day retention) will drive a significant rally. However, there are risks of dilution due to large token supply and vesting schedules, which could lead to a price crash if early investors sell off. The outcome hinges on the FDV-to-market cap ratio (currently 0.71) and liquidity conditions, with prediction markets set to resolve the fate by late 2027. Overall, the launch's success depends on whether the token's valuation can sustain or exceed the $100M threshold amid potential dilution pressures.
+GRVT’s official announcement of product features (GLP vault) and a restatement that the token generation event was scheduled for Q1 2026 in the project’s blog at that time. This page supports the project’s narrative of building product features and argues for on‑platform demand; it also documents earlier communications about TGE timing (useful to show schedule changes and evolving guidance).
 
-Title: Crypto Project Updates: Only Insightful Information
-URL: https://cryptodiffer.com/feed/project-updates
-Summary: The webpage provides recent updates on various crypto projects and market sentiment insights. Notably, there is no specific information about GRVT (Governance Realms Virtual Token) or its fully diluted valuation (FDV) in the recent updates. The highlighted projects include Oriole's real-time sentiment tracking, Tether's strategic investment in DreamCash for tokenized assets trading, a data breach incident involving Figure, and Truth Social's SEC ETF approval efforts. 
+### [Hybrid crypto exchange GRVT targets post-June token launch, raises community allocation to 28%](https://www.theblock.co/post/393389/hybrid-crypto-exchange-grvt-targets-post-june-token-launch-raises-community-allocation-to-28)
+**Author:** Unknown | **Published:** 2026-03-12
 
-Given the lack of direct data on GRVT's FDV or launch performance, predicting whether its FDV will surpass $100 million one day after launch cannot be reliably inferred from this webpage. For such a prediction, more specific details about GRVT's initial valuation, circulating supply, market conditions at launch, and investor interest are necessary.
+The Block article reports that GRVT extended its Season 2 reward window through June 30 and expects the TGE soon after, and that the team raised the community allocation to 28% of a fixed 1 billion token supply. It also reports plans for initial trading on GRVT’s own spot market and pursuit of tier‑one CEX listings and liquidity partnerships. This is a recent, credible source showing the project’s updated timing and increased community allocation — both key inputs to whether FDV will exceed $100M at TGE.
 
+### [Grvt will conduct TGE in Q1 2026, with the total community reward accounting for 20% of the total token supply.](https://www.panewslab.com/en/articles/776ed537-17ec-4761-8af1-c9f64c64c3c2)
+**Author:** PA一线 | **Published:** Unknown
 
+PANews summarized earlier GRVT communications indicating a targeted TGE in Q1 2026 and community reward allocations (20%). It corroborates the project’s earlier public schedule and allocation messaging; useful to show that GRVT’s timeline and allocation messaging has shifted over time (which affects trader expectations).
+
+### [GRVT Launches First Licensed DEX on ZK Chain, Hits $1.3B Volume in 30 Days](https://outposts.io/article/grvt-launches-first-licensed-dex-on-zk-chain-hits-dollar13b-a3dd9320-c444-4e7d-ae7f-bf24c007fb51)
+**Author:** zkSync | **Published:** 2025-02-03
+
+Outposts coverage (quoting GRVT tweets) reporting the project’s claim of $1.3B traded on the platform in the first 30 days after mainnet alpha. This supports the claim of substantial on‑platform trading activity that could generate demand at token launch; however, the article cites the project’s own announcements and therefore serves as a corroborating but not independent confirmation of platform traction. It makes the bullish case (demand exists) but must be balanced against token distribution and liquidity risks.

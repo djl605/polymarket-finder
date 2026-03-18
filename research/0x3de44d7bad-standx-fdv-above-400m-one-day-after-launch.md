@@ -1,110 +1,116 @@
 # Research: StandX FDV above $400M one day after launch?
 
 **Market ID:** 0x3de44d7bad27379abaebb57485589cbb2a309aba16219bcbe182124acdf70800
-**Researched At:** March 2, 2026 at 02:54:22 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: StandX FDV above $400M one day after launch?"
+**Researched At:** March 18, 2026 at 04:33:18 AM UTC
+**Search Query:** "StandX FDV above $400M one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.0¢
+**Confidence:** Low
+**Expected Value:** 1.3¢
 
 ### Summary
 
-With no tokenomics published and both bullish team credentials and broader valuation headwinds already priced in, the 46% probability appears reasonable. There’s no clear, credible evidence suggesting a large mispricing.
+Public sources show StandX has live product activity (DUSD) and token incentive programs (5M/month rewards) but no authoritative, public tokenomics or TGE details; without total supply and a TGE price the FDV > $400M outcome is highly uncertain, so the market’s 23.5% is reasonable. Low volume and $0 total traded volume mean the displayed price may be set by very few participants, but I found no concrete, credible evidence that the market is mispriced by a large margin.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether StandX’s token will trade with a fully diluted valuation (FDV) above $400 million at 4 PM ET on the calendar day after launch. For YES, StandX must launch a transferable token, set its initial supply and sale/pricing such that token price×total supply > $400 M, and see sufficient demand to support that price. Otherwise it resolves NO.
+Plan and constraints
+- I used public primary sources (StandX docs, exchange press/coverage, token-data aggregators, community trackers) and excluded prediction-market sites per your instruction.
+- I focused searches on: official StandX documentation/announcements; credible exchange/news coverage (KuCoin, Phemex) referencing token programs; tokenomics / supply reporting from recognized aggregators (CoinGecko, MEXC) and community trackers (DropsTab).
+- Key limit: StandX has detailed product docs (DUSD) and multiple program announcements (market-making rewards), but no clear, authoritative public tokenomics (total supply / TGE schedule) and no single canonical TGE announcement I can find that pins a launch date or full supply. That uncertainty is central to the evaluation.
 
-2. EVIDENCE EVALUATION  
-Bullish factors  
-• AInvest (2026-02-23): Market prices a ~50% chance, citing a strong team from Binance Futures and Goldman Sachs and StandX’s position as a Perps DEX on major chains—implying credible appetite.  
-• Crypto launch precedents: High demand for Perps DEX tokens post-launch can push FDVs above $400 M if well marketed.  
+1) CONTEXT ANALYSIS
+- What the market asks: Will StandX’s token have a Fully Diluted Valuation (FDV) > $400,000,000 at 4:00 PM ET on the calendar day after the token’s public transferable launch? If the token is not launched by 2026-12-31 23:59 ET the market resolves to No.
+- What resolves YES vs NO:
+  - YES: StandX launches a transferable token; at 4:00 PM ET on the calendar day after that launch, the chosen “most liquid price source” implies FDV > $400M. (FDV = token price × total max supply used by the resolution source.)
+  - NO: Either (a) the token is launched but the FDV (as reported by the resolution price source) is ≤ $400M at that time, or (b) no launch happens by 2026-12-31 23:59 ET.
 
-Bearish factors  
-• Data Driven VC (2026-02-22): Private‐market valuation multiples are down, suggesting investors may take a cautious stance on initial token FDVs, especially outside AI focus.  
-• No announced tokenomics details: Without published supply or sale structure, the market is guessing.  
+2) EVIDENCE EVALUATION (all relevant evidence I found)
+A. Evidence that argues the market price (23.5%) might be too high (i.e., supports NO)
+- Lack of public tokenomics / TGE details: StandX’s public documentation highlights DUSD (a yield-bearing stablecoin) and ecosystem features, but I could not find an authoritative StandX-published tokenomics/total-supply schedule for a governance token/TGE. Community trackers (DropsTab) and project pages repeatedly state tokenomics / total supply are not finalized or publicly confirmed. If total supply is not announced, FDV is highly uncertain and markets are rationally discounting the chance of a large FDV > $400M. (Supports the Yes-probability being low.) (Source: StandX docs; DropsTab.)
+- Current concrete supply/FDV signals are modest: token-aggregator pages that do list a StandX token (or DUSD) show FDVs well under $400M or report small supplies; numbers differ across aggregators (examples below), indicating no consistent public consensus of a >$400M FDV. This inconsistency supports skepticism that an immediate >$400M FDV is likely. (Sources: MEXC, CoinGecko, other aggregators.)
+- Project stage and rollout signals: StandX appears to be rolling out DUSD and liquidity programs (market maker incentives) before any publicized governance token TGE; the team’s communications and third‑party coverage portray the token as “coming” but not finalized—market participants reasonably discount large FDV outcomes until official tokenomics and a TGE price appear. (Sources: StandX docs; KuCoin/Phemex coverage.)
 
-Credibility & recency  
-Both are within two weeks; AInvest provides direct market‐pricing insight, while Data Driven VC offers broader VC/valuation context. The other research items (Standex International, Stand trading platform, VC thesis) are not directly relevant to StandX’s token economics.
+B. Evidence that argues the market price might be too low (i.e., supports YES)
+- Active incentive programs and token distributions: Multiple exchange-news/press posts (KuCoin, Phemex and others referencing StandX announcements) report a market-making / LP incentives program that distributes 5 million StandX tokens per month to market makers or LPs. If that program is already distributing tokens and if that number is part of a much larger total supply with high implied listing price, FDV > $400M could be plausible quickly after a TGE — but this relies on total supply and the listing price. These announcements indicate the project is actively preparing token liquidity and incentives, which makes an eventual token launch plausible before the Dec 31, 2026 deadline. (But the 5M/month figure alone does not imply a >$400M FDV.) (Sources: KuCoin, Phemex.)
+- Brand / team pedigree: Press coverage emphasizes that core team members are ex-Binance Futures and that StandX has live products (DUSD, mainnet components). A credible and capitalized team could coordinate a TGE and listings that achieve large FDV if tokenomics and listings are arranged favorably. This increases the tail risk that a >$400M FDV could occur rapidly—but it’s not an affirmative signal that it will, because it still depends on supply and listing price.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A tight 4 ¢ spread suggests active quotes, but total volume <$10 K implies few participants; price may reflect one informed player’s view or consensus that details are too vague to push it decisively one way.  
-• 46% plausibly balances bullish team credentials against broader valuation headwinds. No clear consensus of >400 M FDV without tokenomics.
+C. Source credibility and recency
+- StandX docs (docs.standx.com) — primary source for product/official communications; credible for product features and for the absence of a published TGE schedule. (Recent content; pages show product announcements and links to social channels.)
+- KuCoin & Phemex news pages — exchange-media posts that appear to be press/PR-based coverage (likely trustworthy for program announcements like a market-making incentive), but they do not substitute for a full tokenomics whitepaper. Dates are from late 2025 for the market-making program.
+- DropsTab and other community trackers — useful for summarizing community-observed token info; credible for noting that tokenomics are not publicly finalized, but less authoritative than official docs.
+- Aggregators (CoinGecko, MEXC) — commonly relied-upon for live token metrics. They show data on DUSD (the stablecoin) and sometimes list tokens with varying supply claims; when aggregators diverge, it signals data uncertainty rather than a clear >$400M FDV.
 
-4. MISPRICING ASSESSMENT  
-No specific evidence is missing: critical token-sale parameters (supply, price) are unknown to all traders, which rationally caps confidence. The 46% mid-market price seems to reflect genuine uncertainty. Large (>20 ¢) mispricing is unlikely given no overlooked data or definitional quirk.  
+D. Skeptical note (why it might be "too obvious")
+- If an FDV > $400M were nearly certain, there would almost certainly be a published total supply and a clear pre-announced TGE or exchange listing that implies that FDV; the absence of these public facts suggests either the FDV > $400M scenario is not obvious, or project info is being withheld/uncertain. Traders likely price in that uncertainty.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 20% (limited direct evidence)  
-Magnitude of mispricing = 5 ¢ (small likely error band)  
-Expected value = 20% × 5 ¢ = 1 ¢
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current price (~23.5%):
+  - No announced total supply / TGE date: Markets rationally assign a modest probability that tokenomics and a listing could combine to produce FDV > $400M before the cutoff; 23.5% reflects a non-zero chance (project could announce large supply at high listing price or small supply at high price), but the lack of confirmed supply reduces probability.
+  - Active program signals a credible chance of a token launch before 2026-12-31, so the market isn’t pricing 0%.
+- Could the price reflect one or a few traders? Yes — total volume is $0 and the market age is 46 days with a tight spread. A $0 total volume history means the displayed probability may have been set by a maker or an initial liquidity provider; it could be a single participant’s view with no market test. The tight spread is platform behavior and does not imply depth.
+- Why low volume? Two plausible explanations:
+  - The outcome is genuinely uncertain and small-ticket traders haven’t engaged; informed liquidity providers may not yet trust incomplete tokenomics to place large bets.
+  - Alternatively, the market is overlooked by informed traders because the resolution relies on project disclosures that are not yet available — hence the market remains thin and possibly driven by a few participants’ priors.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: With no tokenomics published and both bullish team credentials and broader valuation headwinds already priced in, the 46% probability appears reasonable. There’s no clear, credible evidence suggesting a large mispricing.  
-CONFIDENCE: medium
+4) MISPRICING ASSESSMENT
+- Is there credible evidence of mispricing? No strong evidence that the market is substantially mispriced in either direction.
+  - Missing information (total supply, TGE price, definitive launch date) is the dominant driver of uncertainty; that is information traders would rationally incorporate. Because that information is not public, the market’s moderate probability (~23.5%) for FDV > $400M is plausible.
+  - The only specific numbers public (e.g., 5M/month market-maker rewards) do not by themselves imply a >$400M FDV; they are compatible with either small FDV or large FDV depending on undisclosed total supply and allocation schedule.
+- Critical checks:
+  - Do I understand resolution criteria? Yes — market uses FDV at 4:00 PM ET the day after launch, where FDV = price × total supply used by the resolution source. That means you need both total supply and price from the "most liquid price source." Because total supply or TGE price are not yet authoritative, there is no clear contradiction between the observed market price and available information.
+  - Could there be hidden information traders have? Yes — insiders or market makers could have advance knowledge of tokenomics or listing plans; that would justify a price different from what public sources imply. With zero public volume, that is a plausible explanation for deviation from any naïve public estimate.
+
+Bottom line on mispricing: Based on public, credible information, there is insufficient evidence to conclude a clear >20‑cent mispricing in either direction. The current price (23.5%) is consistent with the available public facts (token is plausible but total supply and TGE price are unannounced); the market being thin raises the risk that the displayed price is a single participant’s view, but that is not proof of a large mispricing.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that a meaningful (>~20c) mispricing exists: low — public facts are sparse and ambiguous. Score: 25%.
+- Magnitude of mispricing if one assumes the market is off: small (I estimate at most ~5–15 cents plausible given the information vacuum). A conservative central estimate: 5 cents.
+- Expected value = Strength × Magnitude = 25% × 5 cents = 1.25 cents.
+- I will report expected value in cents as 1.25.
+
+6) CONFIDENCE
+- I rate my confidence in this assessment as low. Key reasons: (a) core data for resolving the question (total supply / TGE price and timing) are not publicly confirmed; (b) low-volume market behavior could reflect insider information not visible externally; (c) available public signals are recent and somewhat fragmented.
+
+EXPECTED_VALUE: 1.25
+SUMMARY: Public sources show StandX has live product activity (DUSD) and token incentive programs (5M/month rewards) but no authoritative, public tokenomics or TGE details; without total supply and a TGE price the FDV > $400M outcome is highly uncertain, so the market’s 23.5% is reasonable. Low volume and $0 total traded volume mean the displayed price may be set by very few participants, but I found no concrete, credible evidence that the market is mispriced by a large margin.
+CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: StandX FDV above ___ one day after launch | AIME by AInvest
-Author: AInvest
-Published Date: 2026-02-23T14:54:03.151Z
-URL: https://www.ainvest.com/aime/share/standx-fdv-day-launch-36cf72/
-Summary: The market currently estimates a coin-flip chance that StandX's token will launch above a $400M FDV. The article analyzes the probability of StandX's Fully Diluted Valuation (FDV) exceeding certain thresholds one day after launch. StandX is a decentralized perpetuals exchange (Perps DEX) operating on Solana and BNB Chain. The team has experience from Binance Futures and Goldman Sachs. The market is pricing the FDV based on probabilities, with a focus on how large StandX chooses to be on day one.
+### [Introducing StandX: Transforming Stablecoins with Natural Yielding](https://docs.standx.com/blog/articles/introducing-dusd-transforming-stablecoins-with-natural-yielding)
+**Author:** Unknown | **Published:** Unknown
 
+Official StandX documentation describing DUSD (StandX’s yield-bearing stablecoin), product features, and the project’s roadmap/partnership ambitions. This source is relevant because it is StandX’s primary public documentation: it shows the team’s active product rollout (DUSD) but does not publish a finalized governance-token tokenomics or TGE schedule. The absence of tokenomics in the project's official docs is a major reason the FDV outcome is uncertain and the market’s modest probability is reasonable.
 
-Title: 🔥 How Much Is Your Startup Worth These Days? Here's the State of the Market in February 2026
-Author: Data Driven VC
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.newsletter.datadrivenvc.io/p/how-much-is-your-startup-worth-these-days-here-s-the-state-of-the-market-in-february-2026
-Summary: The article discusses the current state of the startup market as of February 2026, focusing on valuation trends and market pressures. Key insights include:
+### [StandX Launches Market Making Program with 5M Monthly Token Rewards | KuCoin](https://www.kucoin.com/news/flash/standx-launches-market-making-program-with-5m-monthly-token-rewards)
+**Author:** Unknown | **Published:** 2025-10-29
 
-1. **Market Conditions**: The private market remains under pressure, with AI companies dominating the top 10 private market rankings. This suggests a strong interest and investment in AI startups, which could influence valuations.
+Exchange-news coverage reporting StandX’s launch of a market‑making program that distributes 5 million StandX tokens per month to market makers. This is relevant because it provides a specific public figure about token distributions (5M/month), demonstrating token-incentive activity ahead of or around any TGE. However, the article does not supply a total supply or TGE price, so the 5M/month figure alone cannot determine whether FDV > $400M— it only shows the project is preparing liquidity/incentives.
 
-2. **IPO Landscape**: A new list of the top 50 IPO candidates for 2026 is provided, indicating potential future public offerings that could impact market dynamics.
+### [StandX Introduces Market Making Program with 5M Monthly Token Rewards | Phemex News](https://phemex.com/news/article/standx-introduces-market-making-program-with-5m-monthly-token-rewards-30890)
+**Author:** Unknown | **Published:** 2025-10-29
 
-3. **M&A Activity**: The article highlights recent mergers and acquisitions, including notable transactions involving SpaceX and xAI, which may affect valuations and investor sentiment.
+Another exchange-news / press-style writeup mirroring the market-making/LP incentive announcement (5M tokens/month). It corroborates the KuCoin reporting that StandX is putting concrete token incentives into the ecosystem. Like KuCoin’s piece, it supports the view that a token issuance plan exists in some form but does not provide overall supply or a TGE/listing price—information necessary to compute FDV reliably.
 
-4. **Valuation Multiples**: There has been a significant decline in valuation multiples, which could suggest a more cautious approach from investors. This decline may impact the perceived value of new startups, including StandX.
+### [StandX Project Profile & Token Activities | DropsTab](https://dropstab.com/coins/standx)
+**Author:** Unknown | **Published:** Unknown
 
-Given these insights, predicting whether StandX's fully diluted valuation (FDV) will exceed $400 million shortly after launch will depend on its alignment with current market trends, particularly in AI, and the overall investor sentiment influenced by recent market pressures and valuation declines.
+Community/aggregator project profile summarizing StandX’s product, noting the currently available public facts and explicitly stating that “total supply, max supply, alocation … aren’t final” and that tokenomics remain incomplete pending TGE. This is relevant because it highlights the absence of authoritative tokenomics in the public record, which is the main reason for uncertainty about any immediate >$400M FDV.
 
-Title: Critical Review: Standex International (NYSE:SXI) versus 3Dx Industries (OTCMKTS:DDDX) - Daily Political
-Author: Jeff Wilder
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.dailypolitical.com/2026/02/12/critical-review-standex-international-nysesxi-versus-3dx-industries-otcmktsdddx.html
-Summary: The article compares Standex International (NYSE:SXI) and 3Dx Industries (OTCMKTS:DDDX) across various financial metrics to determine which company presents a better investment opportunity. Key points include:
+### [StandX DUSD (DUSD) Tokenomics: Market Insights, Token Supply, Distribution & Price Data | MEXC](https://www.mexc.co/en-IN/price/standx-dusd/tokenomics)
+**Author:** Unknown | **Published:** Unknown
 
-1. **Earnings and Valuation**: Standex International significantly outperforms 3Dx Industries in terms of revenue ($790.11 million vs. $260,000) and net income ($55.76 million vs. -$400,000). This suggests a stronger financial foundation for Standex.
+Token data page that lists token metrics for DUSD (a StandX product), including supply and FDV estimates as they appear on that exchange-aggregator. It shows that token metrics available in aggregators are inconsistent and focused on DUSD (the stablecoin), which complicates using aggregator FDV numbers to judge a separate governance token. This demonstrates that public aggregator data can vary and that no stable authoritative governance-token FDV figure is available publicly.
 
-2. **Profitability**: Standex has a positive net margin of 6.20% and solid returns on equity (14.29%) and assets (6.44%), while 3Dx shows negative net margins (-152.47%) and lacks data on returns.
+### [StandX DUSD (DUSD) Price: DUSD Live Price Chart, Market Cap & News Today | CoinGecko](https://www.coingecko.com/en/coins/standx-dusd)
+**Author:** Unknown | **Published:** Unknown
 
-3. **Risk and Volatility**: 3Dx Industries is more volatile (beta of 1.92) compared to Standex (beta of 1.13), indicating higher risk associated with 3Dx's stock.
-
-4. **Analyst Recommendations**: Standex has a favorable consensus rating with multiple buy recommendations and a price target suggesting a potential upside of 9.56%. In contrast, 3Dx has no buy ratings or positive outlook from analysts.
-
-5. **Ownership**: Standex has strong institutional ownership (90.4%), indicating confidence from large investors in its growth potential.
-
-Given these factors, Standex International appears to be a more stable and promising
-
-Title: “Traders Are Using Prediction Markets the Way They Use Other Markets,” Stand Founder Says After Kalshi Launch — TradingView News
-Author: 
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://www.tradingview.com/news/financemagnates:963f387ce094b:0-traders-are-using-prediction-markets-the-way-they-use-other-markets-stand-founder-says-after-kalshi-launch/
-Summary: Stand, a platform for prediction market trading, is approaching $200 million in annualized trading volume after integrating Kalshi. Stand targets "pro-tail" users, offering features like stop orders, pegged orders, and batch execution across markets. Stand allows users to deposit funds, enabling automations not possible with simple account connectors. The platform provides tools to monitor and trade multiple markets on a single screen. This information could be relevant to predicting Stand's future valuation.
-
-
-Title: [PDF] The Role of Venture Capital in Crypto: How Venture Firms Make ...
-URL: https://diposit.ub.edu/bitstreams/19968cbe-bba6-4b46-9bb5-44ce81881609/download
-Summary: This document, a Bachelor's thesis, explores the role of Venture Capital (VC) in the cryptocurrency and blockchain industry. It highlights that VC plays a dominant role in funding early-stage crypto innovation, despite the rise of alternative funding models. The study examines how VC firms make investment decisions, considering both traditional metrics and crypto-specific factors. It also touches upon token-based funding, new exit strategies, fund structures (including tokenized models), and the emergence of DAOs. The research analyzes how VCs manage challenges like legal uncertainty and market volatility, with case studies revealing patterns in team quality, token design, and investment timing. While the document provides insights into VC investment strategies and market dynamics, it does not contain information directly relevant to predicting a specific market capitalization (like StandX FDV) one day after launch.
-
-
-
+CoinGecko page for DUSD listing price and supply/market-cap data. CoinGecko’s listing documents DUSD metrics, but it does not present a clear, authoritative governance token total-supply that would allow calculation of a >$400M FDV for a separate StandX token. Use of aggregator pages like CoinGecko underscores the difference between the live DUSD product and an as-yet-unannounced governance TGE; the lack of a clear governance-token FDV on these pages supports the market’s discounted probability.

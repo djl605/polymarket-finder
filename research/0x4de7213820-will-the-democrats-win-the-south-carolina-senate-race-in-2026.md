@@ -1,7 +1,7 @@
 # Research: Will the Democrats win the South Carolina Senate race in 2026?
 
 **Market ID:** 0x4de72138204727d2821bff847d8158819ab5b591db1b5b263676126cbb3a0430
-**Researched At:** March 12, 2026 at 04:13:10 AM UTC
+**Researched At:** March 18, 2026 at 04:26:00 AM UTC
 **Search Query:** "Will the Democrats win the South Carolina Senate race in 2026?"
 
 ---
@@ -9,102 +9,68 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.2¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-The Democratic chances in South Carolina’s 2026 Senate race are constrained by historical Republican dominance and Lindsey Graham’s institutional strength. While some recent polling (PPP) and local Democratic victories suggest minor upside, there is insufficient evidence to justify sizable mispricing. The current 15.5% probability appears plausible with limited inefficiency, warranting a modest expected-value opportunity.
+Current public evidence (AP reporting of candidates, PPP & other early polls showing single-digit GOP leads, and Cook-style race ratings) implies a Democratic win probability in the low-to-mid tens of percent. The market price at 19% is broadly consistent with those signals; low volume reduces quote reliability but does not itself prove a large mispricing.
 
 ### Full Analysis
 
-Here is a thorough, objective analysis of the prediction market “Will the Democrats win the South Carolina Senate race in 2026?” with reference to primary sources and expert reporting. All findings are based on recent, external reporting and data.
+Plan & searches used
+- I used my 3-search budget to (1) find an Associated Press report on who’s running and campaign context, (2) find recent public polling from Public Policy Polling, and (3) find race ratings / summary material (Cook Political Report) and an aggregated summary of available polls and candidates (Wikipedia). Those sources give the most relevant, recent evidence for whether the Democratic side has a realistic path in South Carolina in 2026.
 
----
+1) CONTEXT ANALYSIS
+- What the market asks: “Will the Democrats win the South Carolina Senate race in 2026?” That resolves YES if the Democratic nominee (not an independent) is ultimately declared the winner of the 2026 South Carolina U.S. Senate election (including any run-offs) according to the listed resolution sources (the market’s resolution rule requires the Associated Press, Fox News, and NBC to call the race for the same candidate, or otherwise use official certification). For NO, any non-Democrat (Republican, independent, third-party) must be the final winner per that same resolution rule. (Market description provided by you; I used AP to confirm current declared candidates and context.) ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c))
 
-## 1. CONTEXT ANALYSIS  
-**What the market is asking:**  
-This market asks whether a Democrat will win the U.S. Senate election in South Carolina in November 2026 (including any run-offs), resolved via AP, Fox News, and NBC calls or official certification.
+- Key factual thresholds: Democrats must win a statewide plurality/majority in the general election on November 3, 2026 (or win in a runoff if applicable). Practically, that requires either (a) a strong Democratic statewide turnout coalition and swing among independents/white suburban voters, or (b) a notably poor Republican environment / candidate weakness or an unusually strong Democratic candidate (name recognition + fundraising) that can overcome SC’s Republican structural lean.
 
-**Resolution conditions:**  
-- **YES** would require the Democratic nominee to prevail over the Republican nominee (likely Lindsey Graham), including any run-off.  
-- **NO** means the Republican nominee wins—given South Carolina’s electoral history, a win by Lindsey Graham again is the most probable NO scenario.
+2) EVIDENCE EVALUATION (relevant findings)
+A. Who is running / incumbency and context
+- Incumbent: Sen. Lindsey Graham (R) is the incumbent and has announced a reelection campaign for 2026; he has high-profile GOP support (Gov. Henry McMaster and Sen. Tim Scott are reported as campaign chairs). This strongly favors the Republican side because incumbency brings fundraising, organization, and statewide name ID. ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c))
 
----
+- Democratic field: Multiple Democrats have declared interest; AP reports Dr. Annie Andrews (a 2022 congressional nominee) as a declared challenger. Other Democrats have exploratory or declared campaigns listed in public aggregations. No confirmation in the sources I searched that a higher-profile Democrat (e.g., Jaime Harrison) has launched a 2026 general-election campaign in this seat as of these reports. A lower-profile Democratic field reduces the probability Democrats win unless national environment or candidate recruitment changes. ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c))
 
-## 2. EVIDENCE EVALUATION  
+B. Polling / measurable signals
+- Public Policy Polling (PPP) December 2025: PPP found Lindsey Graham leading a named Democratic challenger roughly 42% to 36% (Graham +6) and a generic-D scenario around 41% to 39% (Graham +2 / essentially a coin-flip range depending on undecideds and turnout). PPP also reported unusually low approval for Graham in that PPP sample (28% approve / 54% disapprove). PPP’s result suggests a closer race than a typical South Carolina statewide contest but still with a Republican edge. PPP is a known pollster (their polls are partisan-leaning in clients at times); raw PPP results should be treated as informative but weighted with other polling and methodological context. ([publicpolicypolling.com](https://www.publicpolicypolling.com/polls/keep-an-eye-on-south-carolina/?utm_source=openai))
 
-### Evidence suggesting the current market price (~15.5%) might be incorrect (i.e., undervalues Democratic chances):
+- Additional polling citations collected in state race aggregates show mixed early results (one Impact Research poll in early 2026 listed Graham 47 / Andrews 42 in one early live-telephone sample), indicating single-digit Republican leads in some early polls. These polls are sparse and early; sample methodology, sponsorship, and margins matter. (Aggregate/poll list: Wikipedia poll table that cites Impact Research and PPP results.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina?utm_source=openai))
 
-- **Public Policy Polling signals possible vulnerability for Graham.** An analysis by Holy City Sinner cites a PPP poll labeling Graham "one of the most vulnerable incumbents in the nation," implying Democrats could have a path—if they nominate the right candidate. ([holycitysinner.com](https://holycitysinner.com/politics/brandon-brown-emerges-as-the-democrat-who-can-flip-south-car/?utm_source=openai))  
-  *Credibility & recency:* Holy City Sinner is a regional outlet; PPP is reputable. The report is recent (3 months ago), but lacks granular poll numbers—so it softens certainty.
+C. Institutional race ratings / structural partisanship
+- Nonpartisan race rating outlets (Cook Political Report and similar trackers) have historically rated South Carolina Senate contests as safe-to-lean Republican, though pockets of competitiveness have appeared in past cycles when a strong Democratic challenger ran (e.g., Harrison in 2020 tightened the race). Cook’s coverage of the 2026 cycle treats the seat as Republican-favored in current write-ups, while noting conditions (incumbent vulnerability, national environment) could tighten it. That institutional view implies a Republican baseline advantage that Democrats must overcome. ([cookpolitical.com](https://www.cookpolitical.com/custom_entity/488671?utm_source=openai))
 
-- **Democratic overperformance in lower-level races.** A 24-year-old Democrat, Keishan Scott, won a State House district in Graham’s backyard by ~41 points, suggesting potential local Democratic strength. ([thedailybeast.com](https://www.thedailybeast.com/young-dem-keishan-scott-clinches-landslide-election-win-in-lindsey-grahams-backyard/?utm_source=openai))  
-  *Interpretation:* Encouraging for localized Democratic mobilization, but State House results may not scale to Senate or statewide context.
+D. Other relevant facts
+- 2020 baseline: Graham beat Jaime Harrison by ~10 points in 2020 in a campaign that became one of the most expensive Senate races; that 2020 result establishes a recent Republican baseline in the state, though it also shows Democrats can invest heavily and make it competitive. If Democrats cannot recruit a comparable candidate or national environment shifts substantially, a Democratic win is uphill. ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c))
 
-### Evidence supporting the current market pricing:
+3) MARKET EFFICIENCY ANALYSIS (reliability of the 19% price)
+- What the 19% price could reasonably represent:
+  - Market-implied interpretation #1 (consensus): Traders have aggregated current polling, incumbency, state partisan lean, lack of a marquee Democratic recruit, and the fact midterms historically favor the president’s opposition party (but the national environment is uncertain). Under this view, Democrats have a small but non-zero chance (roughly 15–25%), so 19% is reasonable.
+  - Interpretation #2 (low liquidity / idiosyncratic quote): The market has $0 total volume and a tight 4¢ spread; that often means the displayed price may be a “corner” or posted quote by a single user (or automated algorithm) rather than a wide field of active traders. Low activity makes it more susceptible to being wrong if new information arrives.
+- Which is more likely? Given the poll evidence (PPP and other single-digit margins) and the structural factors, 19% is within a plausible range implied by current public information. It’s small enough to reflect an uphill race but large enough to reflect a non-negligible path if the national environment or candidate quality shifts. That alignment suggests the posted price could represent a reasonable consensus rather than a blatant outlier.
+- Could it be the view of one or a few traders? Yes — with zero volume the platform’s displayed price may simply be the last posted offer. That reduces reliability: a single liquidity provider could be setting the probability without much pushback. But the price itself is not wildly inconsistent with public polling and expert ratings.
 
-- **Strong historical baseline favoring Republicans.** South Carolina hasn’t elected a Democratic Senator since 1998. Lindsey Graham has won past elections by ~10 points, and Trump has won the state by 12 points in 2020 and 18 in 2024. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina?utm_source=openai))  
-  *Credibility & recency:* Wikipedia summary drawing from electoral records—generally reliable and up-to-date.
+4) MISPRICING ASSESSMENT
+- Evidence that the market price might be incorrect (Dem win underpriced):
+  - Polls show single-digit margins (PPP: Graham +6 vs Annie Andrews; generic-D 41–39). If PPP and other early polls systematically understate pro-D shifts (e.g., late-breaking suburban swings, a strong national wave for Democrats, or a high-quality recruit like Jaime Harrison or a major outside investment), the Democratic probability could be meaningfully higher than 19%. The key missing piece for the market to price in would be either (a) national environment materially favoring Democrats in November 2026, or (b) a high-profile Democratic recruit and large outside spending. PPP’s generic-D 41–39 implies a materially higher chance if national trends swing. ([publicpolicypolling.com](https://www.publicpolicypolling.com/polls/keep-an-eye-on-south-carolina/?utm_source=openai))
 
-- **Incumbent strength and infrastructure.** Graham has top-tier Republican support, including endorsements and campaign leadership from Sen. Tim Scott and Gov. McMaster. NRSC under Scott is committed to protecting incumbents. ([apnews.com](https://apnews.com/article/76d123202f5fc959e1891a3268fc0f8d?utm_source=openai))  
-  *Implication:* Graham enters the race with both institutional and fundraising advantages.
+- Evidence that the market price is reasonable or even optimistic for Democrats:
+  - Structural baseline: South Carolina leans Republican; Graham is incumbent with statewide name ID and organizational advantages; 2020 he won by ~10 points. Cook and other race-rating outlets treat the seat as Republican-favored. Those facts point to a lower base probability for Democrats than a national “toss-up.” ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c))
+  - Candidate quality / field: As of the sourced reporting, Democrats do not have a marquee statewide recruit who has declared (no confirmed Harrison candidacy). Without that, Democrats’ path is narrower and more dependent on national wave conditions. ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c))
 
-- **Weak Democratic bench and limited fundraising.** Multiple Democrats have declared but with uneven resources. Notably, Annie Andrews and Catherine Fleming Bruce are declared; fundraising as of late 2025 shows only Andrews with material funds (~$1.58M cash on hand), others far behind. ([apnews.com](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c?utm_source=openai))  
-  *Conclusion:* Democrats may struggle to run a sufficiently competitive statewide campaign.
+- Skepticism about “obvious” evidence: If it looked trivially clear that Democrats should be >40%/50% here (i.e., huge mispricing), we’d expect pollsters, Cook/FiveThirtyEight, and national committees to already be signaling that and to see larger market volume. The current absence of broad consensus or big-name recruit suggests traders have already considered the main public signals, so a large, persistent mispricing is less likely.
 
-- **Campaign dynamics: lack of polling or strong messaging.** Except for the PPP insight referenced above, there’s little polling publicly available showing a competitive general environment. Most expert classifications (e.g., Cook Political Report) continue to rate the race as safely Republican. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_elections?utm_source=openai))  
+Critical-check on large mispricing (>20¢): I do not find credible grounds to confidently claim Democrats are >20 percentage points underpriced. The public polling and institutional ratings point to a single-digit Republican advantage now; that implies a Democratic win probability in the low-to-mid tens of percent — consistent with the market’s 19%. Therefore the market’s price is not an obvious large mispricing.
 
----
+5) EXPECTED VALUE CALCULATION (value of investigating / trading)
+- Strength of evidence that something material is missing from the market price: moderate — the polling evidence is limited but suggests the race is closer than a typical SC statewide contest; however the campaign is early and candidate recruitment could change. Assign strength = 50%.
+- Magnitude of plausible mispricing: small. Given public signals, a reasonable true probability might plausibly range 12–30%. Relative to the market price of 19%, a plausible mispricing magnitude if present might be ~±6 cents (i.e., the market could be off by up to about 6¢ in either direction). I’ll use 6 cents as a plausible maximal mispricing magnitude for this assessment.
+- Expected value = Strength × Magnitude = 50% × 6¢ = 3.0¢.
 
-## 3. MARKET EFFICIENCY ANALYSIS  
+Conclusion / bottom line
+- The current market price (Democrats 19%) is consistent with the best publicly available evidence I found: incumbent Republican with statewide advantages, early polls showing small Republican leads but some weakness in approval, and no high-profile Democratic recruit reported yet. With the race several months away and polling sparse, uncertainty is meaningful — but I do not see credible evidence of a large mispricing. The market’s low volume does lower confidence in the quote’s stability (it could be a one/trader quote), but the level itself is not an outlier relative to polls and expert ratings.
 
-**Interpretations justifying the current price (~15.5%):**  
-- It reflects a low but non-zero baseline chance, acknowledging rare but not impossible upset potential in hostile territory.  
-- It may encapsulate uncertainty about Democratic primaries, candidate strength, fundraising capacity, and future shifts in national environment.
-
-**Possible inefficiency indicators:**  
-- The market has low trading volume (~$7K) and a tight spread, raising possibility that pricing reflects inputs from a few overconfident traders rather than broad consensus.  
-- If knowledgeable insiders foresaw a strong challenger emerging (e.g., high-profile funding or favorable polling), that might not yet appear in the price—so small inefficiencies could exist.
-
-**Likely cause of low trading volume:**  
-- The race appears noncompetitive thus far. In such contexts, informed traders may deprioritize entering, suppressing volume—even if small changes might occur down the line.
-
----
-
-## 4. MISPRICING ASSESSMENT  
-
-Is there credible evidence of mispricing?  
-
-**Arguments for potential undervaluation (YES side):**  
-- PPP polling suggests Graham may be more vulnerable than commonly recognized.  
-- Democratic state-level wins in Graham’s area indicate some momentum.
-
-**Arguments against:**  
-- Historical Republican dominance, large voting margins, Graham’s institutional support and fundraising, and weak Democratic field remain substantial barriers.
-
-**Critical self-check:**  
-Could I be underestimating entrenched voter alignment or overinterpreting localized data? Yes—South Carolina’s statewide elections have consistently favored Republicans despite isolated Democratic gains. The resolution question covers November 2026 statewide results; without a strong, funded Democratic nominee, an upset is unlikely.
-
-**Conclusion:**  
-No strong, specific evidence indicates a large mispricing. The 15.5% probability seems to reflect a realistic long-shot scenario consistent with underlying fundamentals.
-
----
-
-## 5. EXPECTED VALUE CALCULATION  
-
-- **Strength of evidence:** Moderate—PPP insights and local wins are suggestive but not definitive. On a 0–100% scale, I'd rate ~40%.  
-- **Magnitude of mispricing:** If mispriced, likely small. Perhaps 5–10 cents, not more.  
-- **Expected value calculation:** 40% × (let’s assume 8 cents) = 3.2 cents expected value.
-
----
-
-## 6. CONFIDENCE  
-medium
-
----
-
-EXPECTED_VALUE: 3.2  
-SUMMARY: The Democratic chances in South Carolina’s 2026 Senate race are constrained by historical Republican dominance and Lindsey Graham’s institutional strength. While some recent polling (PPP) and local Democratic victories suggest minor upside, there is insufficient evidence to justify sizable mispricing. The current 15.5% probability appears plausible with limited inefficiency, warranting a modest expected-value opportunity.  
+EXPECTED_VALUE: 3.0
+SUMMARY: Current public evidence (AP reporting of candidates, PPP & other early polls showing single-digit GOP leads, and Cook-style race ratings) implies a Democratic win probability in the low-to-mid tens of percent. The market price at 19% is broadly consistent with those signals; low volume reduces quote reliability but does not itself prove a large mispricing.
 CONFIDENCE: medium
 
 ---
@@ -113,37 +79,22 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [2026 United States Senate election in South Carolina](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina)
-**Author:** Unknown | **Published:** Unknown (page updated today)
+### [Lindsey Graham gets a 2026 challenge from Democrat Annie Andrews](https://apnews.com/article/lindsey-graham-south-carolina-annie-andrews-26ae12355e9e5d1a44047bcbb6cdc36c)
+**Author:** Meg Kinnard | **Published:** 2025-05-15
 
-Provides background on the 2026 SC Senate race, including historical voting patterns (no Democratic Senate win since 1998), Lindsey Graham’s incumbency and electoral margins, and the state’s GOP lean. This evidence supports the market’s low probability estimate.
+AP reports that incumbent Sen. Lindsey Graham announced his 2026 reelection campaign and that Democrat Dr. Annie Andrews declared a challenge. The article describes Graham’s endorsements (Gov. Henry McMaster and Sen. Tim Scott) and recalls Graham’s 2020 10-point win over Jaime Harrison, establishing incumbency and the recent baseline result. This source is primary for who has declared and for campaign-context facts; it supports the view that Republicans begin with an organizational and name-ID advantage (which challenges the idea Democrats should be priced much higher absent new information).
 
-### [Lindsey Graham gets a 2026 challenge from Democrat Annie Andrews…](https://apnews.com/article/26ae12355e9e5d1a44047bcbb6cdc36c)
-**Author:** Meg Kinnard (Associated Press) | **Published:** 2025-05-29
+### [Keep an Eye on…South Carolina? (Public Policy Polling)](https://www.publicpolicypolling.com/polls/keep-an-eye-on-south-carolina/)
+**Author:** PPP (p p padmin) | **Published:** 2025-12-17
 
-Announces Democrat Annie Andrews’ campaign phase; notes Democratic underperformance in statewide races historically. Highlights Graham’s institutional advantages, reinforcing that Democratic success remains unlikely absent shift.
+PPP’s December 2025 polling write-up reports Lindsey Graham approval metrics (low approval) and matchup numbers: Graham ~42% vs. Annie Andrews 36% and Graham ~41% vs. a generic Democrat 39%. These early, partisan-affiliated poll results show single-digit margins and a closer-than-usual environment for South Carolina, suggesting Democrats retain a non-trivial path. The PPP poll supports the argument that a Democratic win is plausible but not the baseline expectation; it is evidence that the market’s ~19% is plausible. PPP polls are informative but should be weighted for sponsorship/methodology.
 
-### [Sen. Tim Scott and South Carolina's governor will chair Lindsey Graham's reelection bid](https://apnews.com/article/76d123202f5fc959e1891a3268fc0f8d)
-**Author:** Unknown (AP) | **Published:** 2025-02-04
+### [SC Senate 2026 | Cook Political Report (race page / coverage)](https://www.cookpolitical.com/custom_entity/488671)
+**Author:** The Cook Political Report (staff) | **Published:** 2025-??-?? (site updated during 2025/2026 cycle)
 
-Details high-profile endorsements from Tim Scott and Governor McMaster for Graham, indicating strong Republican party backing and campaign infrastructure—supporting the reasonableness of low Democratic odds.
+Cook Political Report’s South Carolina Senate coverage provides the experienced-analyst perspective on how competitive the seat is in 2026, cataloging incumbency, challenger strength, and the race rating. Cook historically treats South Carolina as Republican-leaning and, for 2026, describes the seat as GOP-favored but watchable given polling and candidate factors. This source supports the structural case that South Carolina remains an uphill climb for Democrats and explains why a modest (~10–25%) Democratic probability is a defensible market price.
 
-### [Tim Scott commits to protect GOP Senate incumbents from 2026 primaries](https://www.axios.com/2025/03/26/nrsc-tim-scott-2026-elections-primaries-senators)
-**Author:** Unknown (Axios) | **Published:** 2025-03-26
+### [2026 United States Senate election in South Carolina (Wikipedia — polling/candidate aggregation)](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina)
+**Author:** Unknown (Wikipedia community) | **Published:** Unknown (page updated during 2025–2026)
 
-Confirms NRSC policy under Tim Scott to shield incumbents like Graham, suggesting Graham’s primary and general campaigns will face minimal intraparty threats—again bolstering the Republican advantage narrative.
-
-### [Brandon Brown Emerges as the Democrat Who Can Flip South Carolina’s U.S. Senate Seat](https://holycitysinner.com/politics/brandon-brown-emerges-as-the-democrat-who-can-flip-south-car/)
-**Author:** Unknown | **Published:** 2026-? (crawled 3 months ago)
-
-Cites recent PPP polling calling Graham “one of the most vulnerable incumbents,” implying Democratic prospects might be stronger than perceived—offering basis for modestly higher odds, though lacking detailed poll numbers.
-
-### [Young Dem Clinches Landslide Election Win in Lindsey Graham’s Backyard](https://www.thedailybeast.com/young-dem-keishan-scott-clinches-landslide-election-win-in-lindsey-grahams-backyard)
-**Author:** Unknown | **Published:** 2025-06-04
-
-Reports a Democrat’s 41-point win in a state House district located in Graham’s area, signaling pockets of Democratic strength which could inform general election potential, though translation statewide is uncertain.
-
-### [2026 United States Senate elections](https://en.wikipedia.org/wiki/2026_United_States_Senate_elections)
-**Author:** Unknown | **Published:** Unknown (updated today)
-
-Notes declared candidates and general race assessments for SC Senate in 2026; shows limited Democratic candidate pool and lack of mainstream forecasting challenge to the GOP—supporting the low probability.
+The Wikipedia page aggregates declared candidates, links to campaign websites, and collates polling results (including PPP and an Impact Research poll showing Graham 47 / Andrews 42 in a February–March 2026 live-telephone sample). It provides a quick summary of the candidate field and available polls. While not a primary source, the page collects polling and candidacy information that corroborates AP and PPP findings and is useful for understanding the overall field and early poll range; I used it to corroborate scarce, early polling data—but treated it cautiously because it is an aggregate secondary source.

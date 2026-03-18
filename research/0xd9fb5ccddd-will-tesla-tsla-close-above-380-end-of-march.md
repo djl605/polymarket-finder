@@ -1,92 +1,107 @@
 # Research: Will Tesla (TSLA) close above $380 end of March?
 
 **Market ID:** 0xd9fb5ccdddd8ae200e84c114145f614a2be0fb853f53708f5eaac74e32039f15
-**Researched At:** March 8, 2026 at 04:20:07 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Tesla (TSLA) close above $380 end of March?"
+**Researched At:** March 18, 2026 at 04:28:15 AM UTC
+**Search Query:** "Will Tesla (TSLA) close above $380 end of March?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-TSLA trades well above $380 and short-term markets put >99% odds of staying there, but the March 9 NHTSA FSD filing and macro risks cap upside certainty. With low volume and balanced catalysts, any mispricing is small (around 5 cents).
+TSLA is trading ~\$399 mid‑March and there are no scheduled earnings or splits before March 31, 2026; a ~74.5% probability the stock closes above \$380 is therefore plausible. The prediction market is thinly traded (zero reported volume), so while I see no clear evidence of a large mispricing, the market’s low liquidity means its price may reflect few participants rather than broad consensus.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether TSLA’s official closing price on the final trading day of March 2026 will exceed $380. For “Yes” to pay out, TSLA must finish above $380 on March 31, 2026; any close at $380 or below resolves as “No.”
+Planned approach and quick summary of what I searched
+- Goal: decide whether the market price (74.5% that TSLA closes > $380 on the final trading day of March 2026) is plausibly efficient or shows credible mispricing.
+- High‑yield information needed: (a) current TSLA price and intramonth trend, (b) any corporate actions or scheduled events that could change the March 31 close (earnings, splits, trading holidays, major catalysts), and (c) near‑term news / supply/demand drivers that would materially change the probability between today (Mar 18, 2026) and Mar 31, 2026.
+- I focused searches on mainstream market data and news (Google Finance / Nasdaq / Investing.com / Tesla IR / reputable market analysis). Results below support the conclusions.
 
-2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• Yahoo Finance’s March 6 prediction market shows >99% chance TSLA stays above $380 through that week, and TSLA closed near $403 on March 2 (IBTimes). That’s a 22+ point cushion today.  
-• Technical support around $390 has been tested multiple times (TradingView), suggesting a floor well above $380.  
-• Broader investor optimism tied to autonomy and AI focus likely keeps downward moves limited absent major shocks.  
+1) CONTEXT ANALYSIS — what the market asks and the exact resolution condition
+- The market asks: Will Tesla (TSLA) have an official closing price on the final trading day of March 2026 that is strictly greater than $380 (split‑adjusted) as reported on Yahoo Finance historical prices? To resolve YES, the official close on that final trading day in March must be > $380; otherwise it resolves NO. The market description also explicitly states split‑adjusted Yahoo Finance historical "Close" will be the resolution source, and that shortened/shortened sessions use the published close (or last valid on‑exchange trade if no official close). This means resolution depends only on the final trading‑day official close value (not intraday highs, not after‑hours). (See market description in prompt.)
+- Practical implication: the relevant variable is the NASDAQ official close on the last trading day of March (normally March 31, 2026). No other event (e.g., press releases outside trading hours) directly resolves the market — only the exchange close reported on Yahoo Finance matters.
 
-Bearish indicators:  
-• The March 9 NHTSA FSD submission is a catalyst that could swing sentiment; adverse findings or a regulatory slowdown could erode the price below $380.  
-• Mixed analyst targets—from $25 to $600 (Yahoo Finance, Feb 27)—highlight high idiosyncratic volatility.  
-• Geopolitical and macro risks (energy costs, market volatility) can trigger abrupt sell-offs.  
+2) EVIDENCE EVALUATION — what I found and how it affects the estimated probability
+A. Current market price and recent level (most load‑bearing)
+- TSLA is trading substantially above $380 today: Google Finance shows last traded/close price around $399.27 with a previous close about $395.56 (page displays real‑time quote and recent day range). This is ~5–6% above the $380 threshold, so a reversion below $380 would require a multi‑percent move between now and March 31. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+  - Relevance: a current price materially above $380 is the primary reason a >70% chance is plausible — the market is asking about a close in ~two weeks and TSLA is already above the strike.
 
-Source recency and credibility are strong (all published within the last week on reputable finance sites). However, the >99% weekly prediction may not extrapolate to end-of-month, and the FSD deadline is unique to this window.
+B. Scheduled corporate events / earnings / splits (near‑term catalysts)
+- Tesla’s next quarterly earnings date is not scheduled within March; calendar/consensus pages list the next earnings around late April 2026 (e.g., Apr 28, 2026 reported by market calendars), so there is no known earnings announcement before March 31 that would force a major information shock. ([investing.com](https://www.investing.com/equities/tesla-motors-earnings?utm_source=openai)).
+- Tesla’s investor relations materials show no public announcement of a stock split or reverse split taking effect before the end of March 2026 (IR calendar lists filings and press releases but nothing indicating an imminent split that would change split‑adjusted resolution). If a split were announced and effective within the month, the market description says split‑adjusted Yahoo prices would be used; as of the sources consulted there is no such announced action. ([ir.tesla.com](https://ir.tesla.com/?utm_source=openai)).
+  - Relevance: absence of scheduled earnings or corporate actions before March 31 reduces the chance of an unexpected scheduled event changing price; unscheduled news is still possible.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 61.5% “Yes” price could reflect:  
-• Genuine consensus that current momentum (390+ support) outweighs headwinds, but with nontrivial tail risk around the March 9 filing and macro volatility.  
-• A small number of traders factoring in that regulatory or market shocks between now and month-end could push TSLA below $380.  
-Low trading volume suggests limited attention rather than obvious inefficiency—if the outcome were near-certain, volume might be higher, so informed traders may simply not be heavily engaged.
+C. Recent fundamental and news context (supporting both bullish and bearish cases)
+- Bullish evidence: Recent headlines point to Tesla initiatives (e.g., reports of a joint project with xAI, “Terafab” AI chip facility plans) and coverage noting potential upside drivers from AI/hardware initiatives; these items have been cited in recent market coverage as bullish catalysts. Google Finance’s news feed shows recent favorable coverage and catalyst stories that have coincided with price strength. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+- Bearish evidence: Analysts and news outlets have flagged operational headwinds — e.g., year‑end 2025 delivery declines and commentary about slower deliveries and revenue compression (reporting sources summarized Tesla’s 2025 deliveries decline compared with 2024). Several analyst pieces and deep‑dive articles discuss both recovery scenarios and persistent headwinds, implying meaningful downside risk exists if execution disappoints further. ([fool.com](https://www.fool.com/investing/2026/01/02/tesla-deliveries-plummet-what-you-need-to-know//?utm_source=openai)).
+  - Relevance: both sets of facts matter. Absent an earnings print before March 31, idiosyncratic company news or macro shocks would be the most likely cause of a >5% move in either direction over the remaining ~10 trading days.
 
-4. MISPRICING ASSESSMENT  
-The preponderance of technical and fundamental evidence points toward a probability well above 61.5%, but the regulatory catalyst and macro uncertainties justify discounting certainty. There is no clear, large unpriced factor: bullish momentum and support levels largely offset potential negatives. Any mispricing likely small (<10 cents).
+D. Market microstructure and volatility context
+- TSLA is a heavily traded name with high average daily volume (~tens of millions shares shown on Google Finance), meaning the underlying stock market is liquid and large moves are observable and tradable. That tends to make short‑term pricing (and options markets) informative; however the prediction market in question has zero total trading volume and a 5¢ spread — suggesting it is thinly traded and could be influenced by few participants despite the underlying stock being liquid. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+  - Relevance: a liquid underlying stock reduces the chance of a persistent, large information asymmetry — informed traders could arbitrage an obvious price imbalance if it existed — but the prediction market itself may still be inefficient due to low volume.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 40% (momentum and support suggest a higher probability, but regulatory risk caps confidence)  
-Magnitude of mispricing: 5 cents (market likely undervalues slight bullish edge)  
-Expected value = 40% × 5 cents = 2 cents
+3) MARKET EFFICIENCY ANALYSIS — how to interpret the 74.5% price
+- A simple, literal interpretation: given TSLA is currently ~399 (mid‑Mar), the probability that it remains above 380 at month end is plausibly high. A >70% implied probability for a ~5% buffer over ~10 trading days is consistent with modest daily volatility assumptions; a ~3–4% daily realized move is not necessary to push through $380 in normal markets. The prediction market price is therefore compatible with the observable spot price and lack of scheduled binary shocks before resolution. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+- Could the 74.5% represent the view of only a few traders? Yes — the prediction market has zero total dollar volume, so the displayed price could reflect an initial maker or small group rather than a wide consensus. Low volume + tight spread is possible if the market operator seeded both sides (or a single user posted both sides) or if liquidity providers are algorithmic. The underlying stock’s liquidity, however, makes it relatively easy for other traders to replicate the payoff (buy/sell TSLA or options), so if a very large mispricing persisted traders could replicate and arbitrage it off the prediction market by trading the stock and hedging — but replication costs and platform friction reduce arbitrage incentive for small mispricings. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+- Is the low volume because it’s obvious or because traders haven’t engaged? Both are plausible. The market question (close > $380) is a near‑term, binary question tied to a widely‑quoted observable price; if traders judge it obvious based on current price and no imminent earnings, they may ignore the market. Conversely, sophisticated traders may avoid the prediction market due to platform trust, collateral limits, or inability to short as easily; so liquidity can remain low even with obvious outcomes.
 
-EXPECTED_VALUE: 2  
-SUMMARY: TSLA trades well above $380 and short-term markets put >99% odds of staying there, but the March 9 NHTSA FSD filing and macro risks cap upside certainty. With low volume and balanced catalysts, any mispricing is small (around 5 cents).  
+4) MISPRICING ASSESSMENT — do I see credible missing information that would make the market wrong?
+- Evidence that the market price might be incorrect (i.e., that YES is overpriced):
+  - If there were a scheduled corporate action or earnings release before March 31 that could reasonably produce a >5% down move, that would lower the true probability — I found no authoritative schedule showing such an event. ([investing.com](https://www.investing.com/equities/tesla-motors-earnings?utm_source=openai)).
+  - If there were a major, credible negative news leak (regulatory action, recall, executive change) already reported but not yet priced into the stock, that could make >380 unlikely. I did not find high‑quality reporting of an imminent such event in the sources reviewed.
+- Evidence supporting the prediction market price (i.e., that YES is reasonably priced):
+  - The underlying stock is trading ~399 now, well above $380. With no scheduled earnings or corporate actions before month‑end, the most likely path for resolution is continuation around current levels — that supports a high probability of closing >$380. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+  - Newsflow in mid‑March contains plausible bullish catalysts (AI/terafab/XAI project coverage) that could sustain or lift the price before March 31 (these are already reported and seem to have been at least partially priced in). ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+- Credibility and recency: Google Finance and Nasdaq are real‑time quoting/market data and are highly credible for current price and volume; market calendar pages (Investing.com / TipRanks / MarketBeat) are accepted for estimated earnings scheduling but can be updated — they consistently show the next Tesla earnings in late April (i.e., after March). Tesla IR is the primary source for corporate actions and did not show any announced split/effective corporate action within March when searched. News analysis pieces (Motley Fool, FinancialContent) are lower in authority than primary filings but help frame risks and were used only as color. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+
+Critical check (challenge to my reasoning)
+- Large (>20¢) mispricings would require either (a) the underlying stock to already be priced incorrectly in public markets, (b) a hidden resolution nuance I missed, or (c) a corporate action that changes split‑adjusted resolution before month‑end. I explicitly checked for scheduled corporate actions and earnings and found none. The resolution uses Yahoo Finance close (not an atypical hidden technicality). Given the underlying is liquid and above $380 today, a >20‑point discrepancy between a fair probability and the prediction market price would be surprising and would require strong unreported information — I did not find any such credible missing information. ([google.com](https://www.google.com/finance/quote/TSLA%3ANASDAQ)).
+
+5) EXPECTED VALUE CALCULATION (quantitative intuition)
+- Strength of evidence that something material is missing from the prediction market price: I judge this modest — there is clear, up‑to‑date market data showing TSLA materially above $380 and no scheduled negative catalysts before month‑end, but the prediction market has zero volume (weak liquidity). Strength = 30%.
+- Plausible magnitude of mispricing (if any): given the underlying is ~399, a realistic mispricing (if present) is small — traders could be slightly overstating the probability by a few to low‑teens of percentage points, but a very large mispricing (>20 cents) seems unlikely. I estimate plausible magnitude = ~10 cents (0.10 probability points) as an upper bound for a tangible mispricing that could persist in a thin prediction market.
+- Expected value = Strength × Magnitude = 30% × 10¢ = 3.0¢.
+
+6) CONCLUSION / FINAL ASSESSMENT
+- Short answer: I find no credible, specific evidence of a large mispricing. The market probability (74.5% that TSLA closes > $380) is broadly consistent with the observable facts: TSLA is trading near $399 as of mid‑March, there are no scheduled earnings or corporate actions before March 31 that would obviously push the stock below $380, and the stock is liquid in standard markets. The prediction market’s low liquidity means its quoted price could reflect only a few participants, but that alone does not prove the price is wrong — it merely raises caution about relying on the market as a deep information aggregate.
+- If you are considering taking a position against the market price, note the following risks: (a) unscheduled negative news (regulatory, operational) could push TSLA below $380 rapidly, (b) implied volatility and macro shocks could increase probability of large moves, and (c) platform‑specific liquidity/friction could make arbitrage expensive for small positions.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: TSLA is trading ~\$399 mid‑March and there are no scheduled earnings or splits before March 31, 2026; a ~74.5% probability the stock closes above \$380 is therefore plausible. The prediction market is thinly traded (zero reported volume), so while I see no clear evidence of a large mispricing, the market’s low liquidity means its price may reflect few participants rather than broad consensus.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Will Tesla (TSLA) finish week of March 2 above___? - Yahoo Finance
-Published Date: 2026-03-06T04:19:54.040Z
-URL: https://finance.yahoo.com/markets/prediction/event/tsla-above-on-march-6-2026/
-Summary: The prediction market indicates a high probability (>99%) that Tesla (TSLA) will close above $380 at the end of the week starting March 2. Given the current market prices and trader sentiment, there is strong confidence that TSLA will remain above this threshold through the week. If this trend continues, it suggests a favorable outlook for Tesla's stock performance in early March, making it likely that TSLA will close above $380 by the end of March as well. However, market conditions and external factors could influence the final outcome.
+### [Tesla Inc (TSLA) Stock Price & News - Google Finance](https://www.google.com/finance/quote/TSLA:NASDAQ)
+**Author:** Unknown | **Published:** 2026-03-17
 
-Title: Tesla’s 2026 May Hinge on a March 9 Outcome — TradingView News
-Author: 
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.tradingview.com/news/marketbeat:a08733e16094b:0-tesla-s-2026-may-hinge-on-a-march-9-outcome/
-Summary: Tesla's stock currently trades around $390, near a support level that has been tested multiple times. A key upcoming event is the March 9 deadline for Tesla to submit detailed data to the NHTSA regarding its Full Self-Driving (FSD) system, following regulatory investigations. The outcome of this submission could significantly influence Tesla's regulatory standing and investor confidence, especially since the company's valuation increasingly depends on its autonomous driving and AI ambitions rather than vehicle sales alone. Recent analyst ratings are mixed, with some bearish targets suggesting potential downside, and technical trends show the stock has been under pressure since December. The March 9 deadline is a critical moment that could impact Tesla's ability to maintain credibility and support a positive price trajectory into the end of March.
+This page provides the live/most‑recent quote for TSLA (shows $399.27 in the snapshot), previous close (~$395.56), intraday range, 52‑week range, market cap, and an aggregated news feed. Relevant items: current spot/close level (~$399) is the most important datapoint for evaluating whether the stock is likely to close above $380 by month‑end; the page also lists recent news items (Terafab / xAI project reports) that could be correlated with recent upward moves. This source strongly supports the view that the underlying market price is already comfortably above the $380 threshold, which makes the prediction market’s YES probability of 74.5% plausible.
 
-Title: Tesla – Mid Term Forecast = #TSLA #Tesla $TSLA – Investing Angles
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://investingangles.com/2026/03/02/tesla-mid-term-forecast-tsla-tesla-tsla-3/
-Summary: The article provides a technical analysis of Tesla (TSLA), focusing on mid-term signals that could influence its future price trajectory. It employs tools such as candlestick patterns, momentum indicators, trend dynamics, and Elliott Wave analysis to assess Tesla's current setup. While specific price targets like closing above $380 by the end of March are not explicitly addressed, the emphasis on technical signals suggests that a detailed evaluation of Tesla's momentum and trend patterns could help determine the likelihood of reaching that level. To gain a comprehensive understanding, reviewing the full analysis, which includes Japanese Candlesticks, Elliott Waves, and other technical tools, is recommended.
+### [Tesla, Inc. — Investor Relations](https://ir.tesla.com/)
+**Author:** Tesla, Inc. (Investor Relations) | **Published:** Unknown
 
-Title: Tesla Stock Closes Near $403 Amid Geopolitical Pressures and Autonomy Focus | IBTimes
-Author: Tony Jackson  
- 
- 
- Published  03/03/26 AT 4:55 PM EST
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://ibtimes.com/tesla-stock-closes-near-403-amid-geopolitical-pressures-autonomy-focus-3798267
-Summary: Tesla (TSLA) closed near $403 on March 2, 2026, showing resilience amid geopolitical tensions and market volatility. The stock has experienced fluctuations within a 52-week range of $214.25 to $498.83, with recent trading indicating potential for a lower open around $390-$394. Despite modest year-to-date gains, Tesla's focus on autonomy advancements, including expanding Full Self-Driving miles and robotaxi services, supports investor optimism. However, broader market risks, such as geopolitical tensions and energy costs, could influence short-term performance. Given current levels and recent trends, Tesla appears likely to close above $380 by the end of March, barring significant adverse market developments.
+Tesla’s official IR site lists press releases, SEC filings, and event calendars. I used it to check for any announced corporate actions (stock split, reverse split, special corporate events) or scheduled earnings/releases that would fall before the end of March 2026. The IR content checked did not indicate any announced split or earnings release prior to late April, which reduces the chance that an overlooked scheduled corporate action would change the resolution criteria. This supports the assessment that no scheduled technicality will alter resolution other than the market close itself.
 
-Title: Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?
-Author: Mohit Oberoi      February 27, 2026   4 min read
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://finance.yahoo.com/news/tesla-stock-forecast-tsla-headed-185144387.html
-Summary: The article highlights Tesla's highly polarized stock outlook, with analysts' target prices ranging from as low as ~$25 (GLJ Research) to as high as $600 (Wedbush), and even higher projections like ARK Invest's $2,600 in three years. Tesla has solidified its leadership in the U.S. EV market, increasing its market share to over 60%, despite past missed deadlines and overambitious forecasts. The company's current valuation heavily relies on its advancements in AI, including autonomous driving, robotaxis, and humanoid robots. Given the significant divergence in analyst predictions and Tesla's ongoing focus on AI innovations, predicting whether TSLA will close above $380 by the end of March involves considering both its volatile valuation and its strategic pivots.
+### [Tesla (TSLA) Earnings Date & Report - Investing.com](https://www.investing.com/equities/tesla-motors-earnings)
+**Author:** Investing.com | **Published:** 2026-03-12 (page updated regularly; accessed Mar 2026)
 
+Investing.com’s earnings calendar and company profile indicate the expected next earnings/report is in late April 2026 (listed estimate Apr 28, 2026). This confirms that a routine quarterly earnings announcement is not scheduled before the end of March, implying no scheduled earnings shock will resolve the prediction market prior to March 31. That reduces one common source of short‑term binary risk in the window.
 
+### [Tesla Deliveries Plummet: What You Need to Know (Motley Fool summary / industry reporting)](https://www.fool.com/investing/2026/01/02/tesla-deliveries-plummet-what-you-need-to-know//)
+**Author:** The Motley Fool (Unknown individual author) | **Published:** 2026-01-02
+
+This article summarizes Tesla’s reported delivery figures and the company’s 2025 delivery decline vs. 2024, and provides interpretation about production, demand issues, and management commentary. Relevant for this analysis: it documents material operational headwinds (delivery declines, revenue pressure) which are the primary substantive bearish factors that could cause the stock to fall below $380 absent scheduled earnings. The presence of these headwinds increases the plausible downside risk but they were public and thus likely already partly priced into the current stock level.
+
+### [Tesla at the Crossroads: Semi Success vs. European Headwinds (March 2026 Deep‑Dive) | FinancialContent](https://www.financialcontent.com/article/finterra-2026-3-6-tesla-at-the-crossroads-semi-success-vs-european-headwinds-march-2026-deep-dive)
+**Author:** FinancialContent (Finterra) | **Published:** 2026-03-06
+
+This analysis piece reviews Tesla’s operational performance into early 2026, including commentary on product rollouts (Semi, Megapack, Optimus/Autonomy) and regional execution headwinds in Europe. It frames both bullish catalysts (energy and AI initiatives) and execution risks. For the prediction market, this source provides a balanced view showing there are plausible bullish near‑term narratives (supporting a high probability of >$380) but also persistent execution risks (which justify non‑trivial downside probability).

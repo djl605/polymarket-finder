@@ -1,86 +1,97 @@
 # Research: Will MrBeast hit 116 billion views by March 31?
 
 **Market ID:** 0x100a74344509edcbdfd8e96c462a30d0d7342f4bfa1d2d989d97c3f2220ac29c
-**Researched At:** March 9, 2026 at 03:03:03 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will MrBeast hit 116 billion views by March 31?"
+**Researched At:** March 18, 2026 at 04:51:22 AM UTC
+**Search Query:** "Will MrBeast hit 116 billion views by March 31?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 1.0¢
+**Confidence:** Medium
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Available research confirms MrBeast’s strong subscriber and engagement growth but provides no baseline or monthly total-view figures needed to tilt the probability away from the current 26%. Without concrete view-count data, there’s no convincing sign of significant mispricing.
+Public channel statistics show MrBeast at ≈114.62B views on Mar 18, 2026 and he needs ≈1.38B more views (≈106.2M/day for 13 days) to hit 116B by Mar 31; recent 30‑day averages (~105.3M/day) are almost exactly the required pace, so a ~54.5% market price is reasonable. I found no authoritative scheduled release or platform action that would create a large, obvious mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether MrBeast’s YouTube channel will accumulate at least 116 billion total views by 11:59 PM ET on March 31, 2026. “Yes” requires that the channel’s lifetime view count, as reported by YouTube at resolution time, meets or exceeds 116 billion. “No” applies otherwise.
+Plan and scope
+- Questions I need answered: (a) What is MrBeast’s current total view count (authoritative timestamp)? (b) What are his recent daily/30‑day view rates and variability? (c) Are there credible signals (scheduled big uploads, platform actions, controversies) between now (Mar 18, 2026) and Mar 31, 2026 that would strongly change the trajectory?
+- High‑yield sources to answer those: channel-level trackers that pull YouTube API data (Social Blade, vidIQ) and mainstream reporting if there were major controversies or platform actions. I excluded prediction‑market sites as requested.
 
-2. EVIDENCE EVALUATION  
-Bullish indicators:  
-• Two independent articles (Quasa and Times of India) document explosive subscriber growth in 2025—117 million new subs—and viral engagement strategies (Google Ads, Shorts, psychological hooks) that drive very high per-video view counts (100 million+).  
-• A Scribd deep-dive confirms consistently rapid growth trajectories via collaborations and philanthropy‐driven content.
+1) CONTEXT ANALYSIS
+- Market question (exact resolution): Will the MrBeast YouTube channel hit 116,000,000,000 total views by 2026-03-31 11:59 PM ET? The official resolution source is the MrBeast YouTube channel About/total‑views metric.
+- What must happen for YES vs NO:
+  - YES: the About/total‑views reported on MrBeast’s official YouTube channel must be ≥ 116,000,000,000 at/before the resolution timestamp.
+  - NO: the reported total must be < 116,000,000,000 at that time.
+- Baseline arithmetic (data timestamped to Mar 18, 2026): Social Blade shows total views = 114,619,473,037 on Mar 18, 2026 (end of day). That leaves a gap of 1,380,526,963 additional views required between Mar 19 and Mar 31 (13 days). ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
 
-Bearish/neutral indicators:  
-• None of the sources supply concrete channel-wide view totals or monthly aggregate view-rate data. Without a baseline total as of early March or a reliable monthly view accrual figure, it’s impossible to project whether 116 billion is within reach in the final three weeks of March.  
-• The Prediction Circle market on single-video week-one views (99% < 60 million) suggests public expectations for individual videos are high but not astronomical enough, by itself, to bridge multi-billion view gaps without knowing the existing view total.
+2) EVIDENCE EVALUATION (all relevant evidence)
+- Data on recent rates and volatility:
+  - Social Blade’s daily table (Mar 5–Mar 18) totals 1,320,876,172 views over 14 days → 14‑day average ≈ 94.35M views/day, with large day‑to‑day swings (days as low as ~54M, high ~136M). Using that 14‑day mean the channel would add ≈ 1.226B in the 13 days, reaching ≈ 115.85B (still ~154M short). ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
+  - vidIQ reports total views ≈ 114.53B (data updated Mar 17, 2026) and “MrBeast got 3.16B views in the last 30 days” → 30‑day average ≈ 105.3M/day. At that 30‑day pace, 13 days → ≈ 1.37B, which is very close to the required 1.3805B gap. That implies a near‑50/50 expectation based purely on recent 30‑day trend. ([vidiq.com](https://vidiq.com/youtube-stats/channel/UCX6OQ3DkcsbYNE6H8uQQuVA/))
+- Evidence that would push probability up (supporting YES):
+  - MrBeast’s channel regularly produces occasional high‑spike days (examples in Feb–Mar: single‑day gains of 100–150M). The existence of such spikes means the distribution of daily views has a heavy tail — one or two big uploads between now and Mar 31 could easily bridge the remaining ~1.38B. Social Blade and vidIQ daily tables show multiple >100M days in recent weeks. ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
+  - vidIQ lists recent high‑view uploads in 2026 (e.g., early‑March and January videos with tens to hundreds of millions of views), showing MrBeast still produces videos with large reach. That supports the plausibility of another big video before Mar 31. ([vidiq.com](https://vidiq.com/youtube-stats/channel/UCX6OQ3DkcsbYNE6H8uQQuVA/))
+- Evidence that would push probability down (supporting NO):
+  - Shorter recent periods (14‑day window) show a lower mean (~94.4M/day) than required (~106.2M/day), and several recent days were well below the required daily rate — if the lower short‑term rate persists, the channel will fall short. Social Blade’s 14‑day series includes days as low as ~54M and several <90M. ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
+  - I found no high‑quality mainstream reporting or platform announcements (strikes, demonetization, or a scheduled multi‑week hiatus) that would clearly force a big downward or upward shift in views during Mar 19–31. (I searched for news/controversy and did not find authoritative news items that change the outlook — see sources.) ([vidiq.com](https://vidiq.com/youtube-stats/channel/UCX6OQ3DkcsbYNE6H8uQQuVA/))
+- Source credibility and recency:
+  - Social Blade and vidIQ both track YouTube channel statistics and show dated daily logs (Social Blade page shows per‑day numbers through Mar 18; vidIQ page shows per‑day numbers through Mar 17). These are standard, accepted aggregators that draw from the YouTube API; they are up‑to‑date and the most practical authoritative sources short of calling YouTube’s internal API directly. Credibility: medium‑high for the numeric history; they can differ slightly due to snapshot timing. ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
+- Sceptical note: If it were overwhelmingly obvious (either YES or NO), the market would likely be near 0% or 100%; instead the market sits at ~54.5%, consistent with the data showing the required daily pace is near recent averages but not assured.
 
-Source credibility & recency: all documents are from March 2026 and appear reputable. Yet none address total view count explicitly.
+3) MARKET EFFICIENCY ANALYSIS
+- Plausible interpretations that justify the price (~54.5%):
+  - Traders likely observe that the 30‑day average (≈105.3M/day) is almost exactly the needed ~106.2M/day, and that MrBeast has frequent spikes >100M. That makes a slight edge to YES reasonable, but not overwhelmingly certain → market price slightly above 50% is defensible. ([vidiq.com](https://vidiq.com/youtube-stats/channel/UCX6OQ3DkcsbYNE6H8uQQuVA/))
+  - Low total trading volume ($6,313) and narrow spread (5¢) indicate few participants but reasonably competitive pricing; a single informed trader could move price, but the bid/ask tightness suggests at least some liquidity. The low volume could mean either (a) traders see this as a near‑coinflip outcome and aren’t moving large capital, or (b) the market is thin and dominated by one/few traders — both are plausible.
+- Could the price reflect one/few players rather than consensus? Yes — the small total volume and market age (22d) mean a handful of trades could set price. That said, the underlying data (published daily view counts) are public and straightforward, so a rational aggregator would likely converge near the implied probability based on recent averages and volatility.
+- Is low volume because consensus is obvious? Not exactly — the consensus is not obvious (the required daily rate sits right around the observed 30‑day mean), so the low volume probably reflects either trader indifference (small edge) or low expected edge opportunities, not clear correctness.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 26% probability could reflect traders’ best guess about how many total views MrBeast’s channel has already and how many views his forthcoming content will add before March 31. Low volume suggests limited participation, but the narrow spread indicates that at least two-sided interest sets a consensus price. The market may simply mirror the wide uncertainty given the absence of public view-count updates.
+4) MISPRICING ASSESSMENT (weighing both sides)
+- Restatement of gap: Need ~1.38B views in 13 days → ≈106.2M/day required.
+- Probabilistic assessment:
+  - If you use the recent 30‑day mean (≈105.3M/day) with observed variability and the channel’s history of spikes, the chance of hitting the target by Mar 31 is close to 50% — slightly under or over depending on assumptions. If daily views are roughly IID with mean 105.3M and a modest SD, the chance is around 40–60%; if more weight is given to the heavy‑tail possibility of another viral release, probability moves upward.
+  - The market price (54.5%) sits squarely within that reasonable range and is not an extreme outlier.
+- Do we have specific, credible missing information that would indicate a significant mispricing (>20¢)? No:
+  - I did not find any authoritative announcement (from MrBeast, his social accounts, or credible news outlets) of a scheduled major release or of platform penalties that would make the outcome almost certain either way.
+  - The publicly available rate data (Social Blade, vidIQ) appear to have been considered implicitly by traders; there’s no obvious large, public data point missing from the market price.
+- Therefore: I find no credible evidence that the market is significantly mispriced. The price plausibly reflects public data + uncertainty about whether one or more viral uploads will occur in the remaining window.
 
-4. MISPRICING ASSESSMENT  
-There is no specific, missing piece of information—like a recent official view tally or a disclosed monthly view average—that would decisively push the probability materially above or below 26%. All known growth strategies are likely already factored into traders’ mental models, hence no credible evidence of a > 20 cent mispricing.
+Critical self‑check (per instructions)
+- Have I misunderstood the resolution criteria? No — the market resolves to the total views reported on MrBeast’s channel by 2026‑03‑31 23:59 ET.
+- Could there be hidden info traders have? Possibly (insider knowledge of a scheduled video or ad placement), but there’s no public sign of that. That is a legitimate reason the market might slightly favor YES, and it’s consistent with a price modestly above 50%.
+- Given the low trade volume, large (>20¢) mispricings would be surprising without very new public information; I found none.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (i.e., missing view data): 20%  
-Estimated mispricing magnitude: 5 cents  
-Expected value = 20% × 5 ¢ = 1 ¢
+5) EXPECTED VALUE CALCULATION (estimate of whether there’s a trade edge)
+- Strength of evidence that the market has a genuine, exploitable mispricing: I judge this as modest — public stats are already available and clearly bound the probability close to 50%. Strength = 30% (i.e., low–medium chance that I’ve found a real edge).
+- Magnitude of plausible mispricing (if any): small — because the market price is close to the simple projection from public averages, a reasonable maximum plausible misprice would be on the order of ~5–15 cents. Given the lack of any clear missing data, I peg a plausible magnitude ≈ 5 cents.
+- Expected value = Strength × Magnitude = 0.30 × 5¢ = 1.5¢ → round to 1.5 cents.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Available research confirms MrBeast’s strong subscriber and engagement growth but provides no baseline or monthly total-view figures needed to tilt the probability away from the current 26%. Without concrete view-count data, there’s no convincing sign of significant mispricing.  
-CONFIDENCE: low
+6) CONFIDENCE
+- Overall judgment confidence: medium (the numeric projections are driven by public time‑series data and reasonable assumptions, but they depend on short‑term viral dynamics which are inherently noisy).
+
+Final concise conclusions
+- Market appears plausibly priced. The required daily pace (≈106.2M/day) is very near the 30‑day observed average (≈105.3M/day) and slightly above the 14‑day average (≈94.4M/day). The channel’s history of occasional large‑spike days makes the event plausible, and there is no clear public evidence of a strong overlooked factor that would produce a large mispricing.
+- Therefore: I find insufficient credible evidence to conclude a significant mispricing. The expected exploitable edge is small (≈1.5¢ EV).
+
+EXPECTED_VALUE: 1.5
+SUMMARY: Public channel statistics show MrBeast at ≈114.62B views on Mar 18, 2026 and he needs ≈1.38B more views (≈106.2M/day for 13 days) to hit 116B by Mar 31; recent 30‑day averages (~105.3M/day) are almost exactly the required pace, so a ~54.5% market price is reasonable. I found no authoritative scheduled release or platform action that would create a large, obvious mispricing. 
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: How MrBeast's Team Skyrocketed to +117 Million Subscribers in 2025: The Power of Aggressive Google Ads
-Author: 
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://quasa.io/media/how-mrbeast-s-team-skyrocketed-to-117-million-subscribers-in-2025-the-power-of-aggressive-google-ads
-Summary: The webpage details how MrBeast's YouTube channel experienced explosive growth in 2025, primarily driven by an aggressive Google Ads strategy. In that year, the channel launched 428 targeted advertising campaigns, with peak activity in July and October. The ads focused heavily on emerging markets like India, Indonesia, and Vietnam, with India alone contributing 47 million new subscribers—over 10% of the total subscriber base. A significant portion of growth stemmed from promoted Shorts featuring direct calls to action, such as giveaways and charity incentives, which effectively converted viewers into subscribers. This advertising approach also benefited related channels like MrBeast Gaming, boosting their subscriber counts substantially. Given this rapid growth and high engagement through targeted advertising and Shorts, it suggests a strong momentum toward increasing overall views, making it plausible that MrBeast could approach or surpass 116 billion views by March 31, especially if similar strategies continue.
+### [MrBeast's YouTube Statistics - Social Blade](https://socialblade.com/youtube/handle/mrbeast)
+**Author:** Social Blade | **Published:** Unknown (page contains dated rows up to 2026-03-18)
 
-Title: Inside MrBeast’s YouTube Ad Campaign That Helped Him Gain 117M Subscribers In 2025
-Author: Nii A. Ahene
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.netinfluencer.com/inside-mrbeast-youtube-ad-campaign-that-helped-him-gain-117m-subscribers-in-2025/
-Summary: The article details MrBeast’s highly successful YouTube ad campaign that significantly contributed to his rapid growth, helping him gain 117 million subscribers in 2025. While it emphasizes his strategic marketing efforts and innovative content approach, it does not provide specific data on total views or projections related to reaching 116 billion views by March 31. Therefore, based on the information available, predicting whether MrBeast will hit 116 billion views by that date cannot be accurately determined from this source.
+Social Blade’s channel page for MrBeast shows total views = 114,619,473,037 on 2026-03-18 and provides a day‑by‑day table (Mar 5–Mar 18) of daily view gains (examples: Mar 15 +136,178,479; Mar 18 +54,460,979). These per‑day figures were used to compute a 14‑day average (~94.35M/day) and to illustrate recent volatility (several >100M days and several much lower days). This source supports the view that the needed rate (~106.2M/day) is attainable but not guaranteed; it challenges any claim that the market should be near 0% or 100% and instead supports a mid‑range probability. ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
 
-Title: MrBeast, An Unfiltered Creator Breakdown | PDF - Scribd
-Author: 
-URL: https://www.scribd.com/document/810905202/MrBeast-An-Unfiltered-Creator-Breakdown
-Summary: The document titled "MrBeast, An Unfiltered Creator Breakdown" offers an in-depth analysis of MrBeast's content creation, growth strategies, and audience engagement. While it does not explicitly provide specific view count projections, it highlights MrBeast's rapid and consistent growth trajectory, driven by high-impact, viral videos, strategic collaborations, and innovative philanthropy efforts. Given his historical growth patterns and content strategies, if these trends continue, it is plausible that MrBeast could approach or surpass significant view milestones—potentially including 116 billion views—by March 31. However, precise predictions would require detailed data on his current view counts, growth rate, and upcoming content plans.
+### [MrBeast Subscribers, Earnings & Stats (vidIQ)](https://vidiq.com/youtube-stats/channel/UCX6OQ3DkcsbYNE6H8uQQuVA/)
+**Author:** vidIQ | **Published:** 2026-03-17
 
-Title: # of views of next MrBeast video on week 1? - Prediction Market Odds & Analysis
-Author: Prediction Circle
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://predictioncircle.com/event/of-views-of-next-mrbeast-video-on-week-1-177
-Summary: The webpage details a prediction market focused on estimating the number of views for MrBeast's next YouTube video within its first week. Currently, the market strongly predicts that the video will garner fewer than 60 million views, with a 99% probability, based on $590K traded and active participation. The market's resolution depends on the official view count reported by MrBeast's YouTube channel after the first 7 days of the video's posting, with a deadline of May 31, 2026. 
-
-While this data provides insights into MrBeast's viewership trends and public expectations, it does not directly address whether MrBeast will reach 116 billion total views by March 31. Given the current market sentiment and the typical viewership scale, reaching 116 billion views in a single video or within a specific timeframe appears highly unlikely based on past performance and current predictions.
-
-Title: MrBeast reveals the surprising strategy he uses to get 100 million views on social media videos - The Times of India
-Author: 
-Published Date: 2026-03-06T00:00:00.000Z
-URL: https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-reveals-the-surprising-strategy-he-uses-to-get-100-million-views-on-social-media-videos/amp_articleshow/129143029.cms
-Summary: The article reveals that MrBeast's success in achieving over 100 million views per video is driven by a psychological strategy rather than just high production quality or flashy thumbnails. While it does not specify exact metrics or growth rates, understanding his approach—centered on engaging content that appeals to viewers' psychology—can provide insights into his potential to reach higher view counts. Given his proven ability to generate massive engagement, if he continues employing these strategies and maintains content relevance, he could plausibly approach or surpass the target of 116 billion views by March 31.
-
-
+vidIQ’s MrBeast profile lists total video views ≈ 114.53B (data updated Mar 17, 2026) and reports “MrBeast got 3.16B views in the last 30 days,” implying a 30‑day average ≈105.3M/day. vidIQ also lists recent high‑view uploads (e.g., Mar 7 video with tens of millions of views and January uploads >100M). These items establish the 30‑day baseline close to the pace required to reach 116B by Mar 31 and provide evidence that occasional big uploads can produce spike days that materially change the probability. This supports the market’s ~54.5% price as reasonable. ([vidiq.com](https://vidiq.com/youtube-stats/channel/UCX6OQ3DkcsbYNE6H8uQQuVA/))

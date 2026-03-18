@@ -1,7 +1,7 @@
 # Research: Will Slovakia qualify for the 2026 FIFA World Cup?
 
 **Market ID:** 0x939bffc79d51cc380bd8507a6de7fcc528a4c13c923762fb4115c949045c7ccd
-**Researched At:** March 13, 2026 at 04:14:30 AM UTC
+**Researched At:** March 18, 2026 at 04:47:47 AM UTC
 **Search Query:** "Will Slovakia qualify for the 2026 FIFA World Cup?"
 
 ---
@@ -9,62 +9,71 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.8¢
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Slovakia was drawn into UEFA Play‑off Path C (home v Kosovo, semi 26 Mar 2026; final 31 Mar 2026 vs Turkey/Romania winner). Public reporting and bookmaker previews show the semi is competitive (Kosovo in good form; Slovakia has home advantage), so a ~33.5% market probability is plausible; I found no clear, credible factual omission that would imply a large mispricing.
+UEFA’s official materials show Slovakia finished second in Group A and must win two single-leg play-off matches (26 & 31 March 2026) — semi v Kosovo and then the Path C final v Türkiye/Romania — to qualify. A 32% market price is plausible given the two-match requirement and uncertainty; I find no authoritative evidence of a large (>20¢) mispricing, though small inefficiencies (a few cents) are possible due to low volume.
 
 ### Full Analysis
 
-I researched the current qualification picture and recent reporting, then evaluated whether Slovakia’s market price (33.5%) for “Will Slovakia qualify for the 2026 FIFA World Cup?” looks plausibly priced or shows credible mispricing. Below I go through (1) context, (2) evidence for and against the market price, (3) market-efficiency considerations, (4) a reasoned mispricing assessment, (5) a simple expected‑value computation, and (6) my confidence.
+Planned approach and searches used
+- Questions I needed answered: (a) Exactly what the market resolves on (resolution rules are in the market data); (b) Slovakia’s current position in UEFA qualifying and what they must still do to reach the 2026 World Cup; (c) the UEFA play-off draw (opponents, format, dates) and any match-level evidence about relative team strength that affects win probabilities.
+- Web search budget used (3 searches): I focused on authoritative UEFA pages that (1) summarize group standings and which teams finished where, (2) explain the play-off draw and the single-leg knockout format, and (3) list play-off paths (showing Slovakia’s opponents and the play-off schedule). Those pages supply the most load-bearing facts for predicting whether Slovakia will qualify.
 
-1) CONTEXT ANALYSIS — what the market is asking and how it resolves
-- The market resolves to YES if Slovakia ends up a qualified team for the 2026 FIFA World Cup (per FIFA). It resolves to NO if the team cannot qualify under FIFA rules or if qualifying is not completed by the market’s cutoff. The market’s resolution source is FIFA. ([fifa.com](https://www.fifa.com/en/articles/fifa-headquarters-to-host-play-off-tournament-and-european-play-off-draws))
-- Current practical situation (as of March 13, 2026): Slovakia finished the group stage as a runner‑up and was placed in the UEFA play‑offs (the European play‑offs decide the last four UEFA berths). The play‑offs were drawn on 20 Nov 2025; Slovakia was drawn into Play‑off Path C and will play Kosovo in a single‑leg semi‑final at home on 26 March 2026, with the Path C final (winner of Turkey v Romania vs Slovakia/Kosovo winner) on 31 March 2026. If Slovakia wins that path final they qualify. ([uefa.com](https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/))
+1) CONTEXT ANALYSIS
+- What the market asks: "Will Slovakia qualify for the 2026 FIFA World Cup?"
+- How the market resolves YES vs NO: Per the market description and UEFA/FIFA rules, Slovakia qualifies (YES) if they are one of the 16 UEFA teams to take a slot at the 2026 finals as certified by FIFA. Because Slovakia finished as a European Qualifiers group runner-up (see sources), their path to qualification is the March 2026 UEFA play-offs (single-leg semi‑final on 26 March 2026 and single‑leg final on 31 March 2026). Therefore, for the market to resolve YES Slovakia must win their play-off semi (vs Kosovo) and then win the.Path C final (winner of Türkiye vs Romania) — two single-leg wins in that international window. If they lose either match, the market resolves NO (or if the World Cup/qualifying is canceled or not completed by the contract cutoff).
 
-2) EVIDENCE EVALUATION — facts and signals bearing on probability
-Key, load‑bearing facts
-- Format / schedule and Slovakia’s draw: UEFA and FIFA documentation and reporting confirm UEFA’s qualifying format (12 group winners qualify directly; 12 group runners‑up + 4 Nations‑League teams enter a 16‑team, four‑path play‑off on 26/31 March 2026) and that Slovakia was drawn vs Kosovo (home) in Path C. This is the single most important fact: Slovakia’s only remaining route is winning two single‑leg matches (semi + final) in late March 2026. ([uefa.com](https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/))
-Bullish evidence for Slovakia (supports a non‑negligible market probability)
-- Home semi‑final: Slovakia hosts the semi in Bratislava (Tehelné pole). In single‑leg matches home advantage matters and bookmakers’ preview / odds pages show Slovakia as at least a modest favorite at home in the semi. Bookmakers’ aggregated previews and odds pages (betting preview sites) generally give Slovakia the stronger single‑match baseline probability for the home semi. That supports a material chance (well above zero). ([nostrabet.com](https://nostrabet.com/en/tips/slovakia-kosovo/))
-- Slovak squad / pedigree: Slovakia is a mid‑ranked UEFA side (FIFA ranking ~ mid‑40s in late 2025) with experienced professionals; they have some capacity to win high‑pressure single matches at home. (Ranking and squad references are summarized in news coverage.) ([africa.espn.com](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden))
-Bearish evidence (suggesting lower chance than naïve “home favorite times favorite”)
-- Kosovo form and quality: multiple respected analyses flagged Kosovo as a dangerous outsider — good recent results in qualifying (including wins over Sweden and tight results with Switzerland) and strong momentum — and ESPN’s write‑up explicitly judged Kosovo a significant threat and in some forecasts favored Kosovo over Slovakia. Kosovo’s squad plays across Europe and their home atmosphere was noted as a force; that suggests the semi could be tougher than a raw ranking implies. ([africa.espn.com](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden))
-- Final opponent likely to be Turkey (or Romania): Path‑C pairs the Slovakia/Kosovo semi with Turkey vs Romania. Turkey is generally stronger on paper (top players, attacking depth), so even if Slovakia gets through the semi they face a hard final (lower probability of winning the final). ESPN and FIFA reporting make that bracket clear. ([africa.espn.com](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden))
-Credibility and recency of sources
-- UEFA and FIFA are authoritative on format, schedule, draw results and venues (high credibility; November 2025 draw and March 2026 match dates are factual and recent relative to the March 13, 2026 market date). ([uefa.com](https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/))
-- ESPN is a high‑quality analyst outlet; its prediction pieces are opinionated but grounded in recent match results and squad information (useful for qualitative assessment). Betting preview/odds sites are lower‑authority individually but directly reflect market‑odds sentiment from bookmakers and therefore are useful for estimating the semi’s odds. ([africa.espn.com](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden))
-Skeptical note (why the market might already reflect the obvious)
-- If Slovakia were a clear favorite to qualify (say >60–70%), bookmakers and mainstream outlets would likely show large consensus and betting markets would be more active; the low volume and the mid‑30s price suggest bettors view the question as unsettled. The presence of credible pundit picks for Kosovo (ESPN) and bookmakers giving only modest home‑favorite odds indicate the situation is genuinely competitive — so a 33.5% market price is not obviously missing a large, simple fact.
+2) EVIDENCE EVALUATION (all relevant evidence found)
+Key factual findings from authoritative sources (UEFA):
+- Slovakia finished second in their European Qualifying group (Group A) behind Germany; Germany qualified directly and Slovakia advanced to the play-offs as a group runner‑up. (UEFA summary of qualifiers / group A standings). ([uefa.com](https://www.uefa.com/european-qualifiers/news/029e-1f013217866b-d8219a391b00-1000--world-cup-2026-who-has-qualified-from-europe-who-is-in-the-p/?utm_source=openai))
+- The UEFA play-off draw (held in November 2025) placed Slovakia in Play-off Path C. Semi-final SF6 for Path C is Slovakia vs Kosovo on 26 March 2026; the path final (31 March 2026) would be Slovakia/Kosovo vs the winner of Türkiye vs Romania. The play-offs are single-leg semis and finals in that March international window. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029f-1f3f7e79688e-94b56302816c-1000/?utm_source=openai))
 
-3) MARKET EFFICIENCY ANALYSIS — is 33.5% reasonable?
-- What could justify 33.5%? Interpretations: a plausible decomposition is p(qualify) = p(win semi at home vs Kosovo) × p(win final vs winner of Turkey/Romania). Reasonable calibrated inputs based on public reporting/odds: semi win probability in the 40–60% range (bookmakers and preview pages cluster there once draws are removed), and final win probability conditional on getting there likely lower (vs Turkey perhaps 20–35%; vs Romania maybe 45–55%). Multiplying plausible pairs produces wide outcomes; for example:
-  - conservative: 45% (semi) × 30% (final vs Turkey/Romania mix) ≈ 13.5%
-  - median: 55% × 60% (if final likely Romania or favorable conditions) ≈ 33%
-  - optimistic: 60% × 60% ≈ 36%
-  So 33.5% sits inside a plausible range depending on how one treats the final opponent and home/away factors. ([nostrabet.com](https://nostrabet.com/en/tips/slovakia-kosovo/))
-- Could the price reflect only one or a few traders? Yes — the market has only $433 total volume and a very tight spread; that often indicates little liquidity and possibly one or a handful of liquidity‑providers. Tight spreads do not prove many informed traders participated; a single trader can set a narrow spread if willing. That increases the chance the market is not fully information‑aggregated. (User already noted the low‑volume caveat.) — this argues for caution about treating the price as a full consensus. (Market data provided by user.) 
-- Is low volume explained by “obvious outcome”? No: the sporting prediction here is not obvious — mainstream outlets give mixed predictions and the actual match(es) are imminent (late March). Low volume more plausibly reflects an overlooked/small market rather than obviousness.
+Evidence that suggests the market price (32%) might be incorrect (bearish or bullish mispricing signals)
+- Factors that could make 32% too low:
+  - Single-match knockout variance is high but if Slovakia is clearly stronger than Kosovo and likely to beat them at the semi, their implied chance of qualifying could be materially higher than 32% if they are also competitive vs Türkiye/Romania. Slovakia has shown they can beat high-quality opposition (e.g., a home win vs Germany during qualifying was noted in UEFA match reports), which supports a non-trivial upset potential and might make a 32% overall qualification probability conservative if Slovakia is a clear favorite in the semi. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029f-1f3425fd251d-41d9a632ace2-1000--european-qualifiers-for-the-2026-world-cup-croatia-through/?utm_source=openai))
+- Factors that could make 32% too high:
+  - The play-off path requires winning two single‑leg ties, one immediately against Kosovo and then a likely tougher final against Türkiye or Romania. Single-leg matches favor the home side and involve high variance; if Slovakia is not the stronger team in one or both ties (or not hosting the match), a 32% implied probability could be optimistic. UEFA’s structure of seeded/unseeded pots and the presence of Turkey and Romania in the same path increases the difficulty. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029f-1f3b80561189-baf8ec42c5d1-1000/?utm_source=openai))
 
-4) MISPRICING ASSESSMENT — do we have credible evidence of a missing factor that would change the price materially?
-- Missing‑evidence test: for me to declare a strong mispricing (>20 cents) I would need a clear, credible factual omission (e.g., Slovakia already disqualified, the match cancelled, a major injury to Slovakia’s key players, or a rules technicality). I found no such missing factual item; FIFA/UEFA confirm Slovakia’s path and dates and there’s no sign the tie has been played or a result already recorded. ([fifa.com](https://www.fifa.com/en/articles/fifa-headquarters-to-host-play-off-tournament-and-european-play-off-draws))
-- Relative strengths: reporting and bookmaker previews imply the semi is competitive and the final likely difficult — these are the principal drivers of a sub‑50% chance. That aligns with a market price in the ~30% range. ESPN’s view that Kosovo is strong pushes the probability down relative to a naïve home‑favorite calculation, while bookmaker odds that favor Slovakia at home push it up. Those offsetting credible signals explain why the market sits around one third rather than (say) 10% or 60%. ([africa.espn.com](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden))
-Conclusion on mispricing: Insufficient evidence to assert a large, specific mispricing. The available authoritative facts (play‑off draw and dates) plus reputable analysis/betting previews indicate the event is genuinely uncertain and that a one‑third market probability is broadly plausible. Because the market is low‑volume it could be set by few traders and therefore vulnerable to correction if many informed bettors engage — but I did not find a concrete, credible piece of information that is clearly missing from the market and would justify changing the price by a large margin (>20 percentage points).
+Evidence supporting that the current market price is reasonable
+- The market price (~32%) is consistent with the rough arithmetic of a two-match knockout where Slovakia is not a dominant favorite in both matches. If Slovakia is roughly even-favored or a slight favorite vs Kosovo (say ~55–60% in the semi) but a sizable underdog vs Türkiye (say ~40% or less), the compound probability of two wins falls into the 20–40% range; 32% sits inside that plausible band.
+- UEFA’s reporting shows Slovakia finished behind Germany but ahead of Northern Ireland — that indicates a capable, competitive team but not an automatic qualifier. The play-off route is inherently uncertain and single-leg, which justifies a mid-range probability rather than extreme values. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029e-1f013217866b-d8219a391b00-1000--world-cup-2026-who-has-qualified-from-europe-who-is-in-the-p/?utm_source=openai))
 
-5) EXPECTED VALUE CALCULATION (simple assessment of whether investigating/trading is likely to be profitable)
-- Strength of evidence that the market misses a specific, credible piece of information: 40% (moderate). There is some chance the market reflects only a few traders and could be nudged, but no concrete missing fact was found.
-- Plausible magnitude of mispricing if it exists: 7 cents (i.e., I think a realistic upside from discovering an error would be small—single‑digit cents—because public info and bookmaker odds are already aligned with a mid‑20s to mid‑30s probability).
-- Expected value = 0.40 × 7 cents = 2.8 cents.
+Source credibility and recency
+- Sources used are UEFA’s official pages describing the European qualifying competition, group standings, and the play-off draw/schedule. UEFA is the primary authoritative source for the structure, results, and the play-off draw; publication dates are in Nov–Dec 2025 and are the official records for the qualifying phase and play-off draw. Those pages are the most credible sources for the decisive facts (who finished where, the play-off bracket, and the match dates). ([uefa.com](https://www.uefa.com/european-qualifiers/news/029e-1f013217866b-d8219a391b00-1000--world-cup-2026-who-has-qualified-from-europe-who-is-in-the-p/?utm_source=openai))
 
-6) CRITICAL CHECK (did I miss anything?)
-- I verified the resolution criteria (market resolves to FIFA result; play‑offs are scheduled within the market’s resolution window) and the draw/semifinal fixture. I looked for contrary facts (e.g., match already played, team ineligible, tournament cancelled) and found none. The most charitable interpretation of the traders who set 33.5% is that they combined (a) the modest home advantage for Slovakia, (b) Kosovo’s strong form and (c) the higher difficulty of the path final (likely Turkey) to reach ~1/3. That is consistent with public sources.
+Skeptical notes (why things that look obvious may already be priced)
+- If Slovakia were an overwhelming favorite to qualify, bettors/traders would likely have bid the price higher; the market’s tight spread (4¢) combined with low volume suggests few participants have traded but they agree on a mid-range probability. Low volume + tight spread often means price set by a small number of participants who see the situation as neither obvious nor arbitrageable given the two-match knockout risk.
+- Obvious-match outcomes (e.g., direct qualification already secured) would have caused immediate resolution; since the play-offs have not yet been played the market must incorporate both teams’ match probabilities and home/seeded advantages — information that many informed traders will have already accounted for.
 
-Bottom‑line judgment
-- The market price (33.5%) is reasonable given: Slovakia must win two single‑leg matches (home semi vs Kosovo, then final vs Turkey/Romania winner); Kosovo is a live threat; Turkey is a difficult potential final opponent. I find no specific, high‑credibility piece of information that the market has missed which would justify calling this a large mispricing. Because volume is low, small inefficiencies could exist (few cents), but I cannot justify a large (>20¢) mispricing from the evidence I found.
+3) MARKET EFFICIENCY ANALYSIS
+- Interpretations that justify the current price:
+  - The market price (32%) reasonably reflects the compound probability of winning two single-leg knockout matches (semi + final). If traders estimate Slovakia’s semi win chance modestly above 50% and a lower chance in a final versus Türkiye/Romania, the combined probability naturally falls near the low‑30% range.
+  - Single-leg knockouts are high variance; markets often shrink implied probabilities to reflect upset risk. Traders may also be using available FIFA rankings, form, injuries, home/away assignments and coaching information to set a conservative probability.
+- Could the price reflect only a few participants? Yes — the market’s low total volume ($478) implies it could be dominated by a handful of traders. That raises the risk the price reflects concentrated beliefs rather than a broad information aggregation. However, the price’s proximity to a plausible structural estimate (two single-leg wins required) argues it is not wildly out of line with basic probabilistic reasoning.
+- Why low volume might exist:
+  - The outcome requires two matches two weeks before the tournament; many recreational traders avoid low-liquidity play-off markets.
+  - The event is relatively niche compared with major teams’ automatic qualifiers; fewer traders may have a strong informational edge here.
 
-EXPECTED_VALUE: 2.8
-SUMMARY: Slovakia was drawn into UEFA Play‑off Path C (home v Kosovo, semi 26 Mar 2026; final 31 Mar 2026 vs Turkey/Romania winner). Public reporting and bookmaker previews show the semi is competitive (Kosovo in good form; Slovakia has home advantage), so a ~33.5% market probability is plausible; I found no clear, credible factual omission that would imply a large mispricing. 
+4) MISPRICING ASSESSMENT
+- Do we have specific, credible evidence that the market price is missing material information? No — the authoritative facts (Slovakia finished 2nd; play-off path is Slovakia vs Kosovo on 26 March 2026, final vs Türkiye/Romania on 31 March 2026; single-leg ties; UEFA draw rules) are public and consistent with a mid‑30% probability. I did not find any credible public evidence (from UEFA or major news outlets) of a decisive factor the market is missing (e.g., Slovakia already being awarded a place, a match being forfeited, or a late injury suspension announced and confirmed by a reliable source) that would change the probability materially now. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029e-1f013217866b-d8219a391b00-1000--world-cup-2026-who-has-qualified-from-europe-who-is-in-the-p/?utm_source=openai))
+- Most charitable explanation for 32%: traders are pricing the two‑match requirement and likely opponents correctly — Slovakia is good enough to be favored or competitive in the semi but faces a non-trivial challenge in the final vs Türkiye/Romania. The combination yields a mid‑range chance.
+- Conclusion on mispricing: There is no strong, specific evidence of a large (>20¢) mispricing. The available authoritative facts and the structure of the play-offs make the 32% price plausible. Given the limited trading volume, small inefficiencies could exist, but I did not find credible missing information that would justify a confident claim of significant mispricing.
+
+5) EXPECTED VALUE CALCULATION (estimate of value in investigating this market)
+- Strength of evidence that price is missing material information: 40% — we have authoritative confirmation of path/dates and nothing obvious is omitted, but low market volume leaves a moderate chance of small inefficiencies.
+- Magnitude of plausible mispricing if one exists: about 5 cents. (Rationale: the market sits in a reasonable band; large errors are unlikely. A modest deviation of a few cents is plausible if traders slightly mis-estimated home advantage or relative team strengths.)
+- Expected value = 40% × 5 cents = 2.0 cents.
+
+6) CONFIDENCE
+- My overall confidence in this assessment: medium.
+
+Final concise conclusion
+- The market asks whether Slovakia will end up among the UEFA teams at the 2026 World Cup. UEFA’s official materials show Slovakia finished second in their qualifying group and were drawn into Play-off Path C, needing to beat Kosovo on 26 March 2026 and then the Path C final winner (Türkiye or Romania) on 31 March 2026 to qualify. The current market price of 32% is consistent with the compound probability of winning two single‑leg knockout matches and I did not find authoritative public evidence that the market is missing a decisive fact that would indicate a large mispricing. Because volume is low, small inefficiencies remain possible, but I find no strong case for a large arbitrage opportunity.
+
+EXPECTED_VALUE: 2.0
+SUMMARY: UEFA’s official materials show Slovakia finished second in Group A and must win two single-leg play-off matches (26 & 31 March 2026) — semi v Kosovo and then the Path C final v Türkiye/Romania — to qualify. A 32% market price is plausible given the two-match requirement and uncertainty; I find no authoritative evidence of a large (>20¢) mispricing, though small inefficiencies (a few cents) are possible due to low volume.
 CONFIDENCE: medium
 
 ---
@@ -73,27 +82,17 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [FIFA headquarters to host Play-Off Tournament and European Play-Off draws](https://www.fifa.com/en/articles/fifa-headquarters-to-host-play-off-tournament-and-european-play-off-draws)
-**Author:** Unknown | **Published:** 2025-11-07
+### [World Cup 2026: Which European teams have qualified?](https://www.uefa.com/european-qualifiers/news/029e-1f318027c4dd-8e9bab478b48-1000--world-cup-2026-which-european-teams-have-qualified/)
+**Author:** Unknown | **Published:** 2025-11-18
 
-FIFA announced the draws for the World Cup 2026 Play‑Off Tournament and European Play‑Offs to be held at FIFA headquarters on 20 November 2025 and described the play‑off structure and timing (semi‑finals 26 March, finals 31 March 2026). This source is important because it confirms the official draw procedure and schedule that determine how Slovakia can still qualify (i.e., by winning two single‑leg play‑off matches). It supports the market’s resolution criteria and timeline (and therefore justifies treating the March play‑offs as the determinative events). ([fifa.com](https://www.fifa.com/en/articles/fifa-headquarters-to-host-play-off-tournament-and-european-play-off-draws))
+UEFA’s summary lists final group standings for the European Qualifiers and explains which teams qualified directly (group winners) and which teams advance to the play-offs (group runners‑up). The Group A entry shows Germany top with Slovakia second, and the article notes Slovakia advances to the play‑offs rather than qualifying directly. This is directly relevant because it establishes that Slovakia’s route to the World Cup is the March 2026 single‑leg play-off path rather than automatic qualification — a key determinant of the market probability and why multiple wins are required for the market to resolve YES. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029e-1f013217866b-d8219a391b00-1000--world-cup-2026-who-has-qualified-from-europe-who-is-in-the-p/?utm_source=openai))
 
-### [European Qualifiers for the 2026 FIFA World Cup: All you need to know](https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/)
-**Author:** Unknown | **Published:** 2025-11-15
-
-UEFA’s explainer lays out the qualifying groups, confirms that 12 group winners qualify directly and that 16 teams enter the European play‑offs in March 2026 (12 runners‑up + 4 Nations League winners). It also lists group compositions (Group A: Germany, Slovakia, Northern Ireland, Luxembourg) and gives the key play‑off dates. This authoritative UEFA material is central for understanding Slovakia’s path (runner‑up → play‑offs) and confirms the structure the market depends on. ([uefa.com](https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/))
-
-### [FIFA World Cup 2026™ play‑off draw reactions: “A huge responsibility”](https://inside.fifa.com/organisation/news/world-cup-play-off-draws-reactions-gattuso-potter-shevchenko)
+### [World Cup 2026: European play-off draw](https://www.uefa.com/european-qualifiers/news/029f-1f3f7e79688e-94b56302816c-1000/)
 **Author:** Unknown | **Published:** 2025-11-20
 
-Inside FIFA’s reaction article to the 20 Nov 2025 draw recaps the four European play‑off paths and explicitly states that Türkiye meet Romania in one semi and Slovakia face Kosovo in the other (Path C), with semis on 26 March and finals on 31 March 2026. This corroborates the draw outcome and the precise opponent/venue information (Slovakia v Kosovo, Bratislava) used in the market evaluation. It is authoritative and recent. ([inside.fifa.com](https://inside.fifa.com/news/world-cup-play-off-draws-reactions-gattuso-potter-shevchenko))
+UEFA’s page reporting the play-off draw shows the eight semi-final ties and the four potential finals (paths A–D). It explicitly places Slovakia in Play-off Path C and lists the semi-final SF6 as Slovakia vs Kosovo (26 March 2026) and the Path C final as Slovakia/Kosovo vs Türkiye/Romania (31 March 2026). This is the authoritative source for the exact opponents and dates that define what Slovakia must do to qualify; it directly constrains the probability calculation (two single‑leg wins required) and supports the conclusion that a mid‑range probability like ~32% is plausible. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029f-1f3f7e79688e-94b56302816c-1000/?utm_source=openai))
 
-### [2026 World Cup playoff draws: Reactions, predictions, more](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden)
-**Author:** Mark Ogden | **Published:** 2025-11-20
+### [European Qualifiers for the 2026 World Cup: All you need to know](https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/)
+**Author:** Unknown | **Published:** 2025-08-XX (UEFA explanatory page; last updated Nov–Dec 2025)
 
-ESPN’s piece (Mark Ogden and colleagues) summarizes the play‑off draw and provides path‑by‑path predictions and commentary; it highlights Kosovo’s recent strong qualifying form and calls Kosovo “the most dangerous outsiders” in the playoffs, and explicitly compares Slovakia and Kosovo (noting Slovakia’s ranking advantage but Kosovo’s momentum). This is a high‑quality analyst view that weighs on the semi probability and therefore challenges any overly optimistic assessment of Slovakia’s chance. ([africa.espn.com](https://africa.espn.com/football/story/_/id/47034946/2026-world-cup-playoff-draw-reaction-predictions-analysis-info-mark-ogden))
-
-### [Slovakia vs Kosovo — Match preview, odds, tips (Nostrabet / betting preview)](https://nostrabet.com/en/tips/slovakia-kosovo/)
-**Author:** Unknown | **Published:** Unknown (preview updated dynamically ahead of 26‑Mar‑2026 fixture)
-
-Betting‑preview pages compile recent form, head‑to‑head (none), statistical summaries and bookmaker odds/market implied probabilities; these pages show Slovakia as modest home favorite in the one‑leg semi but also underline Kosovo’s very good recent form (wins over Sweden, competitive with Switzerland). These aggregated previews are valuable for estimating match‑level win probabilities (the principal input to the market’s overall probability). They support the conclusion that the semi is competitive and that the overall qualification chance should not be near‑zero or near‑certain. ([nostrabet.com](https://nostrabet.com/en/tips/slovakia-kosovo/))
+This UEFA explainer describes the qualifying format (12 group winners qualifying directly; 12 runners‑up plus 4 Nations League teams entering a 16‑team play‑off in March 2026), the single-leg semi/final structure, and the play-off dates (26 & 31 March 2026). It provides the rules context (how many UEFA slots, how play-off participants are chosen and seeded) and therefore explains why Slovakia’s route is two single-leg matches and why upset risk and seeding/home assignments matter for probability — all central inputs to assessing whether the market price is reasonable. ([uefa.com](https://www.uefa.com/european-qualifiers/news/029f-1f3b80561189-baf8ec42c5d1-1000/?utm_source=openai))
