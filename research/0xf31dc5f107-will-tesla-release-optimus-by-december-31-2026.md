@@ -1,84 +1,112 @@
 # Research: Will Tesla release Optimus by December 31, 2026?
 
 **Market ID:** 0xf31dc5f107bb556840fffa2bd0a503f891d82e61b0b7764e60cd92faec52a919
-**Researched At:** March 11, 2026 at 04:17:03 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Tesla release Optimus by December 31, 2026?"
+**Researched At:** March 19, 2026 at 04:50:50 AM UTC
+**Search Query:** "Will Tesla release Optimus by December 31, 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 2.3¢
 
 ### Summary
 
-Tesla’s 2026 Optimus ambitions are balanced by credible reports of technical delays and no consumer checkout so far, making the 20% probability reasonable and not clearly mispriced.
+Public reporting and Tesla’s own statements point to industrial pilot production in 2025–2026 and a planned public sale in 2027; I found no evidence of a Tesla consumer checkout or paid preorder for Optimus that would definitively resolve the market to Yes by 2026-12-31. Given sparse market liquidity, a small mispricing (a few cents) is possible, but I see no credible evidence of a large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Tesla will “release” a humanoid, bipedal robot (Optimus or similar) on a consumer‐available basis (live checkout or paid preorder) by December 31, 2026. A YES resolution requires Tesla to list Optimus for purchase or paid deposit on tesla.com (or equivalent official channel) before the deadline. Demos, unveilings, factory pilots, or interest forms without payment do not qualify.
+Plan and scope
+- I need to decide whether the market "Will Tesla release Optimus by December 31, 2026?" looks mispriced at the current market probability (23%) given the resolution rules (must be a humanoid bipedal robot newly introduced and available for purchase by the general public via an official Tesla consumer channel with live checkout or paid preorder/deposit by 2026-12-31 23:59 ET). I used my web-search budget to collect high-yield primary reporting and Tesla materials to evaluate Tesla’s public timelines, production status, and whether Tesla has any public purchase/preorder channel for Optimus.
 
-2. EVIDENCE EVALUATION  
-Bearish evidence (arguing price may be too high):  
-• The Eye Newspapers (2026-03-02) reports Tesla cut its 2025 delivery target from 5,000 to 2,000 units due to unresolved design issues (hands, leadership churn) and ongoing technical challenges—raising doubts about meeting a consumer launch timeline.  
-• No source cites any live checkout or paid consumer preorder yet; all coverage focuses on prototyping, internal pilots, or planned production.
+1) CONTEXT ANALYSIS
+- What the market is asking: Will Tesla have a consumer-available humanoid, bipedal robot (Optimus or equivalent) listed via an official Tesla consumer channel with live checkout or an accepted paid preorder/deposit by 2026-12-31 11:59 PM ET?
+- What must happen for a "Yes" resolution: Tesla must post a purchasable product page (or paid preorder/deposit) on an official Tesla consumer channel (for example tesla.com) for a newly introduced humanoid bipedal consumer robot, and the public must be able to complete a paid preorder/checkout or pay a deposit within the timeframe. Announcements, demos, factory-only deployments, registration-of-interest pages, or unpaid waitlists do NOT qualify under the stated rules.
 
-Bullish evidence (arguing price may be too low):  
-• Tesla Owners Silicon Valley (2026-03-04) and TechColdWar (2026-02-23) both describe a Gen 3 prototype unveiling in Q1 2026, advanced hands with 25 actuators, factory pilot lines at Fremont, and a plan to repurpose vehicle output lines—suggesting Tesla is committed to 2026 commercialization.  
-• Elon Musk’s statements (Facebook post) and Simply Wall St coverage note Tesla’s aggressive mass‐production ambitions (up to 1 M units/year at <$20k) and claims of leveraging AGI to accelerate development, which could speed consumer release.
+2) EVIDENCE EVALUATION (evidence relevant to whether that qualifying product will be available for purchase by 2026-12-31)
 
-Source credibility/recency: All items are from early March 2026. The Eye Newspapers may sensationalize delays, while Tesla Owners Silicon Valley and TechColdWar appear more closely tied to Tesla’s own timeline claims. Musk’s comments and third‐party financial analysis lend additional, though not definitive, support.
+Evidence that reduces the probability of a Yes (argues market price might be too high)
+- Elon Musk and Tesla have publicly said the company expects to sell Optimus to the public in 2027 (not 2026). Multiple reputable outlets report Musk saying Tesla plans to make Optimus available for public sale by the end of 2027, which directly reduces the chance of a purchasable consumer preorder appearing in 2026. ([foxbusiness.com](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year?utm_source=openai))
+- Reports of production shortfalls and delays: independent reporting (TechCrunch and others) indicates Tesla fell behind internal production targets for 2025 (hundreds produced vs. thousands targeted), and supplier/supply-chain reporting has cast doubt on optimistic early targets. That history makes a sudden public preorder/checkout in 2026 less likely. ([techcrunch.com](https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/?utm_source=openai))
+- Public-facing Tesla materials and reporting indicate initial Optimus builds are being deployed internally/in factories and that Tesla’s immediate production focus in 2025–2026 centers on factory use and pilot production lines rather than consumer sales. Tesla’s own Q4/FY2025 communications and summaries speak to builds on a Fremont pilot line in 2025 and “wider deployment” in factories (industrial use) rather than consumer availability. That fits the market-resolving condition’s exclusion of factory-only deployments. ([electrek.co](https://electrek.co/wp-content/uploads/sites/3/2026/01/TSLA-Q4-2025-Update.pdf?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-The 20% price can be defended:  
-• It reflects substantial uncertainty—strong public plans offset by serious unresolved technical and production risks.  
-• Low $3.2 k volume and narrow spread suggest a few traders set the price, but it aligns with headline risks and ambitions. Informed traders likely see a coin‐flip or worse, not an obvious arb.
+Evidence that increases the probability of a Yes (argues market price might be too low)
+- Tesla publicly signaled (in investor calls / company statements and CEO comments) production of Optimus on pilot lines in 2025 and expressed plans to start production before the end of 2026, and Musk has repeatedly set aggressive timelines in the past. If Tesla does ramp production and decides to open paid preorders (a lower bar than full shipping), that could meet the market’s “released” criteria even if large-scale shipping only happens later. Some analyst pieces and financial outlets note Tesla expects production activity in 2026 and have described a path where limited customer preorders could appear ahead of full consumer shipping. ([electrek.co](https://electrek.co/wp-content/uploads/sites/3/2026/01/TSLA-Q4-2025-Update.pdf?utm_source=openai))
+- Tesla’s public rhetoric and company strategy shifts (including statements about converting factories, and Musk’s high confidence in Optimus’ commercial value) leave open the possibility Tesla could announce paid preorders or deposits on tesla.com in late 2026 as part of a commercialization push. (This is plausible but speculative — contingent on internal ramp speed and a business decision to open paid preorders.) ([cnbc.com](https://www.cnbc.com/2025/09/02/musk-tesla-value-optimus-robot.html?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-No glaring omission stands out. All major bullish/bearish points appear priced in: Tesla’s aggressive production goals versus understandable delays. There’s no evidence of an already‐met resolution criterion (no live checkout exists). Large (>20 ¢) mispricings seem unlikely.
+Source credibility and recency
+- I prioritized mainstream business and tech outlets and Tesla’s own corporate materials. Reporting is recent (Jan–Mar 2026 and late-2025 reporting) and from reputable outlets (Fox Business / Axios coverage of Musk’s public statement, TechCrunch for on-the-ground reporting about production counts, Electrek’s published Tesla Q4 update PDF summarizing company guidance). These sources are appropriate for short-term operational timelines. ([foxbusiness.com](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year?utm_source=openai))
+- Caveats: Elon Musk’s own public statements are optimistic and have a history of date slippage; reporting of internal production counts often relies on supply-chain sources and anonymous sourcing and should be treated as indicative rather than definitive.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: 30%  
-Magnitude of mispricing: 5 ¢  
-Expected value = 0.30 × 5 ¢ = 1.5 ¢
+Why the evidence is not decisive either way
+- The market’s resolution hinges on a precise contractual condition (paid preorder/checkout on an official Tesla consumer channel by 2026-12-31). Public statements that production will start in 2026 and that public sale will happen in 2027 point away from a 2026 consumer preorder; but they leave a non-trivial tail risk that Tesla could open paid preorders in late 2026 (for example to capture deposit revenue) even if full sales start in 2027. News and filings document internal production pilot activity (supporting a non-zero chance of a 2026 preorder) but do not show any live consumer checkout or paid preorder on tesla.com as of the available reporting. ([electrek.co](https://electrek.co/wp-content/uploads/sites/3/2026/01/TSLA-Q4-2025-Update.pdf?utm_source=openai))
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Tesla’s 2026 Optimus ambitions are balanced by credible reports of technical delays and no consumer checkout so far, making the 20% probability reasonable and not clearly mispriced.  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations justifying the current 23% price:
+  - Traders may be pricing the public signal risk: Tesla has pilot production and strong public statements about 2026 production, so there's a plausible ~20–30% chance Tesla could open paid preorders by year-end 2026 even if volume shipping is 2027. The market could be reflecting that limited, execution-dependent tail.
+  - Alternatively, traders may interpret Musk’s 2027 “public sale” comment as authoritative and price <25% chance for a 2026 consumer preorder — consistent with the current 23% price.
+- Could the price reflect only a few traders? Yes — low total volume ($3.5k) and an unusually tight spread indicate sparse liquidity; a single informed (or misinformed) trader could anchor the price. Low volume + tight spread is often a sign that price discovery is thin and that the market may not reflect a broad aggregation of independent information.
+- Why low volume might be rational here:
+  - The event is narrow and hingeing on a specific technicality (paid preorder on tesla.com by 2026-12-31). Most retail traders may not engage because they view the market as non-actionable or too close to Musk’s publicly stated 2027 target. Informed traders may also avoid low-liquidity bets unless they have strong conviction or capacity to post the necessary size.
+- Why low volume might instead indicate inefficiency:
+  - If an informed participant has found a genuine, verifiable proof (e.g., an internal Tesla page that accepts deposits) that’s not widely publicized, they could drive the price away from fair consensus while remaining alone. I found no evidence of such a publicly accessible preorder page, which argues that if mispricing exists, it’s not due to hidden on-site checkout being overlooked by me.
+
+4) MISPRICING ASSESSMENT (do I find credible evidence that the market is mispriced?)
+- Key check against overstating mispricing: I must not claim a large mispricing (>20 cents) without strong, verifiable evidence (for example, a live Tesla checkout page with deposit acceptance before 2027). I found no public Tesla consumer channel that accepts money for Optimus as of the cited reporting; instead, company statements point to public sale in 2027 and internal pilot/factory deployments in 2025–2026. That directly undercuts any claim that the market is massively under-pricing a near-certain 2026 release.
+- Net assessment: The balance of evidence points toward NO being the more likely outcome, but not overwhelmingly so. Tesla’s public statements (sale in 2027) and reporting of production shortfalls make a 2026 consumer preorder unlikely; however, the company’s pilot production activity and aggressive internal timelines leave some non-trivial chance that Tesla could open paid preorders in late 2026. Given the specific resolution rules, I do not see credible evidence that the market is mispriced by a large margin. A modest mispricing (a few cents) in either direction remains possible because of thin liquidity and the difficulty of precisely forecasting a company’s commercial decision on preorders.
+- Most charitable interpretation of the current price (23%): the market is pricing a low but meaningful tail (roughly 1-in-5) that Tesla will open paid preorders / deposit-based checkout before 2027 despite Musk’s stated 2027 target. That is a plausible price given the information set and Tesla’s history of shifting timelines.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that the market misses material information: I rate this as moderate/low — many reliable sources point toward sale in 2027 and internal deployment in 2026, so there is not a glaring piece of public evidence that traders have missed. Strength = 45% (0.45).
+- Magnitude of possible mispricing if one believes the market is wrong: plausibly small — given the tail nature and the public statements, any genuine mispricing is likely to be on the order of a few cents (not multiple dimes). I estimate magnitude ≈ 5 cents.
+- Expected value = 0.45 × 5 cents = 2.25 cents.
+
+6) CONFIRMATION CHECK (challenge reasoning)
+- Do I fully understand the resolution criteria? Yes — it requires public purchase/preorder/deposit available via Tesla consumer channel by 2026-12-31; factory-only deployments or unpaid interest registrations don’t qualify.
+- Could I be missing an internal Tesla page taking deposits? I searched for tesla.com product pages and found no public evidence in reporting of a purchasable Optimus listing; if such a page exists and is reachable, it would be decisive. Given the lack of evidence and Tesla’s public 2027 statements, large mispricing is unlikely.
+- Charitable interpretation for informed traders: Given Musk’s public 2027 target plus 2026 pilot production, a 23% price seems to reflect an appropriately modest tail probability for a 2026 paid preorder. Sparse liquidity means the price is fragile, but not obviously wrong.
+
+Final assessment
+- Is there credible evidence of large mispricing? No. There is no clear, verifiable public evidence (e.g., an official Tesla purchase page accepting deposits) that would imply the market should resolve to Yes with high probability. Instead, the public record (CEO statements and company guidance) points to public sale in 2027 and internal/factory deployments in 2025–2026, which support the market’s sub-50% probability.
+- The market could be modestly mispriced by a few cents (expected value ≈ 2.25 cents) because low liquidity makes the price fragile and because of a real but small chance Tesla opens paid preorders in late 2026. But I do not find evidence supporting a large (>20¢) mispricing.
+
+EXPECTED_VALUE: 2.25
+SUMMARY: Public reporting and Tesla’s own statements point to industrial pilot production in 2025–2026 and a planned public sale in 2027; I found no evidence of a Tesla consumer checkout or paid preorder for Optimus that would definitively resolve the market to Yes by 2026-12-31. Given sparse market liquidity, a small mispricing (a few cents) is possible, but I see no credible evidence of a large mispricing.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Tesla Adjusts Production Targets for Optimus Robots Amid Technical Challenges
-Author: The Eye Newspapers
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://themunicheye.com/tesla-optimus-robot-production-delays-27646
-Summary: Tesla has significantly revised its production goals for the Optimus humanoid robots due to ongoing technical challenges, particularly with complex components like the robot's hands. Originally aiming to produce 5,000 units in 2025, the company now expects to deliver around 2,000, though even this may be uncertain given unresolved design issues and delays caused by leadership changes and engineering hurdles. Currently, Optimus robots are limited to simple factory tasks, with further development and training methods still in progress. Given these ongoing challenges and the lack of a clear, accelerated timeline, it is uncertain whether Tesla will successfully release Optimus by December 31, 2026.
+### [Elon Musk says 80% of Tesla's value will eventually come from Optimus](https://www.cnbc.com/2025/09/02/musk-tesla-value-optimus-robot.html)
+**Author:** Rebecca Elliott (or CNBC staff; page lists) | **Published:** 2025-09-02
 
-Title: Tesla Optimus: Advancing Humanoid Robotics Toward Mass Adoption in 2026
-Author: Tesla Owners Silicon Valley
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://tosv.substack.com/p/tesla-optimus-advancing-humanoid
-Summary: Tesla is actively progressing with its Optimus humanoid robot, with a key prototype (Gen 3) set to be unveiled in early 2026. This version features significant upgrades, including advanced hand dexterity with 25 actuators per hand, and is built on Tesla’s neural network technology refined through extensive autonomous driving data. Internal factory deployments for tasks like battery sorting are already underway, with full pilot production lines planned at Tesla’s Fremont facility before the end of 2026. Tesla’s long-term goal is to produce up to one million units annually at a consumer-friendly price of $20,000–$30,000, indicating a strong commitment to mass adoption within that timeframe. While the timeline is ambitious, the company’s manufacturing expertise and recent progress suggest that releasing Optimus by December 31, 2026, is a plausible target.
+CNBC reports on Elon Musk’s statements that Optimus could represent a very large portion of Tesla’s valuation, and recounts Tesla’s slide that Optimus builds on a Fremont pilot line were targeted for 2025 with wider factory deployment thereafter. This is relevant because it documents Tesla’s public operational plan (pilot builds and internal deployment) and Musk’s optimistic long-term vision — evidence that Tesla is actively developing Optimus but not necessarily making it available for consumer purchase in 2026. It supports skepticism that the market should put a very high probability on a 2026 consumer preorder/checkout.
 
-Title: Tesla Optimus V3: Release Date, Price, and the Robot Pivot
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.techcoldwar.com/tesla-optimus-v3-humanoid-robot-release-date-2026/
-Summary: Tesla plans to unveil the third-generation Optimus humanoid robot in the first quarter of 2026, with mass production designed to begin shortly thereafter. The company aims to produce over one million units annually, with a projected cost below $20,000 per robot. Given these timelines and Tesla's strategic shift—discontinuing flagship vehicle models in Q2 2026 to repurpose manufacturing facilities for robot production—it is plausible that Tesla could release Optimus by the end of 2026. However, as of the latest information, an exact release date beyond the first quarter of 2026 has not been confirmed.
+### [Tesla is reportedly behind on its pledge to build 5,000 Optimus bots this year](https://techcrunch.com/2025/07/25/tesla-is-reportedly-behind-on-its-pledge-to-build-5000-optimus-bots-this-year/)
+**Author:** Frederic Lardinois (TechCrunch) | **Published:** 2025-07-25
 
-Title: Elon says Tesla's Optimus humanoid robot could become the first physical system to ... - Facebook
-URL: https://www.facebook.com/teslainsiderfb/posts/elon-says-teslas-optimus-humanoid-robot-could-become-the-first-physical-system-t/122156475866664960/
-Summary: Tesla's CEO Elon Musk has indicated that the company aims to unveil a third-generation version of its Optimus humanoid robot in the first quarter of 2026, with potential scaling to production of up to one million units annually at the Fremont factory. The robot has already demonstrated basic capabilities such as walking, object sorting, and clothes folding. Musk suggests that Optimus could become the first physical system to embody artificial general intelligence (AGI), leveraging Tesla's extensive real-world data from vehicle miles and factory training environments. While a specific release date is not confirmed, the company's timeline points toward a significant advancement and possible release within 2026.
+TechCrunch reports (citing sources) that Tesla fell short of its 2025 Optimus build targets — only hundreds produced vs. thousands targeted — and that internal ramp plans were delayed. This is directly relevant to the market because ramp shortfalls reduce the plausibility Tesla would open a public paid preorder/checkout by year-end 2026. It supports the view that a consumer release by 2026 was always ambitious and remains uncertain.
 
-Title: Tesla Optimus Robot Push Reshapes Growth Story Beyond Electric Vehicles
-Author: Simply Wall St      Sat, March 7, 2026 at 7:17 PM EST   3 min read
-URL: https://finance.yahoo.com/news/tesla-optimus-robot-push-reshapes-001718649.html
-Summary: Tesla is actively developing its Optimus humanoid robot, with plans for large-scale production aiming for up to 1 million units annually and a Gen 3 robot reveal soon. The company is shifting part of its Fremont factory to produce Optimus, signaling a significant focus on robotics and artificial general intelligence (AGI). Elon Musk has indicated that Tesla could be the first to achieve embodied AGI, positioning Optimus as a central element of its long-term vision. While specific release dates are not confirmed, Tesla's ongoing investments in R&D, manufacturing milestones, and upcoming robot unveilings suggest progress toward commercialization. However, given the current overvaluation concerns and execution risks in AGI development, predicting an exact release date by December 31, 2026, remains uncertain.
+### [Elon Musk says Tesla Optimus robots for public sale by end of 2027](https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year)
+**Author:** Unknown / Fox Business staff | **Published:** 2026-01-22
 
+Fox Business reports Musk’s comments at the World Economic Forum and other public remarks in January 2026 that Tesla expects to make Optimus available for sale to the public by the end of 2027. This is a directly relevant public statement from the CEO about when the company expects consumer availability and weighs against a 2026 consumer preorder occurring. It therefore lowers the market-implied probability of a 2026 “released” outcome.
 
+### [Q4 and FY 2025 Update (TSLA Q4 2025 Update PDF)](https://electrek.co/wp-content/uploads/sites/3/2026/01/TSLA-Q4-2025-Update.pdf)
+**Author:** Electrek (hosting Tesla’s Q4 update material) | **Published:** 2026-01 (published with Q4 results)
+
+The Q4 2025 company update referenced in reporting (hosted here) notes builds of Optimus on Tesla’s Fremont pilot production line in 2025 and mentions wider deployment of bots doing useful work across factories. That supports the factual point that Tesla’s immediate Optimus deployments are industrial/factory-focused and that public consumer availability was described separately (and later) by company leaders. This helps distinguish internal production activity from qualifying consumer “release” per the market’s resolution rules.
+
+### [Elon Musk: Tesla will sell humanoid robots by end of 2027](https://www.axios.com/2026/01/22/elon-musk-tesla-optimus-robots)
+**Author:** Ina Fried / Axios (or Axios tech desk) | **Published:** 2026-01-22
+
+Axios summarizes Musk’s Davos comments and his expectation of public sales in 2027. Axios’s reporting reiterates the company timeline and makes clear that Musk himself publicly framed 2027 as the sales target year — a key data point that argues a 2026 public preorder is not the most likely path.
+
+### [Tesla discontinues Model X and S vehicles as Elon Musk pivots to robotics | The Guardian](https://www.theguardian.com/technology/2026/jan/28/tesla-q4-earnings-estimates-elon-musk)
+**Author:** Alex Hern / The Guardian (or Guardian technology desk) | **Published:** 2026-01-28
+
+The Guardian covers Tesla’s Q4 earnings/earnings call, including Musk’s announcement to discontinue Model S and Model X production to refocus manufacturing toward Optimus and other projects; it also notes company guidance that production activity for Optimus is expected before the end of 2026 while public sale is slated for later. This is relevant because it documents company-level manufacturing shifts and timing signals (internal production ramp in 2026, but public sale later) that inform the probability assessment for a 2026 consumer preorder/checkout.

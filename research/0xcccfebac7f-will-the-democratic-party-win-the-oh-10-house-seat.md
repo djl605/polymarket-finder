@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the OH-10 House seat?
 
 **Market ID:** 0xcccfebac7f864e5336935b6ed4069ccebffc66a8e714151f13408e67f461d329
-**Researched At:** March 11, 2026 at 04:57:00 AM UTC
+**Researched At:** March 19, 2026 at 04:51:51 AM UTC
 **Search Query:** "Will the Democratic Party win the OH-10 House seat?"
 
 ---
@@ -9,109 +9,80 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.6¢
+**Expected Value:** 3.5¢
 
 ### Summary
 
-Recent evidence does not show a strong mispricing in Democrats’ favor in OH-10. The district leans Republican, Mike Turner has filed for reelection after winning by 18 points in 2024, and no strong Democratic challenger is yet evident; if anything, 26.5% looks roughly fair to slightly high for Democrats.
+Public, authoritative data (certified 2024 results and mainstream race ratings) indicate OH-10 is Republican-leaning and Mike Turner won comfortably in 2024; with zero trading volume, the market’s 21.5% Democratic probability is not a reliable aggregated signal and appears modestly optimistic for Democrats but not clearly a large mispricing. Further monitoring for a Turner retirement, a strong Democratic recruit, or major national-wave indicators is warranted before placing money.
 
 ### Full Analysis
 
-Below is an objective mispricing review of **“Will the Democratic Party win the OH-10 House seat?”** using recent web research and excluding prediction-market sites.
+Plan and search summary
+- I ran focused web searches for authoritative, recent information on Ohio’s 10th Congressional District: official results (Ohio SOS), major news coverage of the 2024 race (AP), seat/incumbent information (Congress.gov), vote totals/percentages (election result aggregator), and a mainstream race-rating (Cook Political Report). I used my full search budget (3 searches) and excluded prediction-market sites per your instruction.
 
-## 1. Context analysis
+1) CONTEXT ANALYSIS
+- What the market is asking: Will the Democratic Party win the OH-10 U.S. House seat on Election Day, November 4, 2026? The market resolves YES if the Democratic-affiliated candidate is reported the winner by credible reporting or, if ambiguous, by official federal results (FEC) as described in the market text.
+- What must happen for YES vs NO:
+  - YES: a Democratic candidate (ballot-listed as a Democrat or shown to caucus as a Democrat by the time results are called) must receive more votes than any other candidate and be declared the winner by credible outlets (or by official results if ambiguity exists).
+  - NO: a Republican (or other who caucuses with Republicans) must win the plurality and be declared the winner.
 
-This market is about the **winner of Ohio’s 10th Congressional District in the November 3, 2026 U.S. House election**. It resolves **YES** if the winning candidate is a Democrat and **NO** if the winner is not a Democrat under the market’s caucus/affiliation rules.
+2) EVIDENCE EVALUATION (all-sides, source credibility & recency)
+Key, load-bearing facts (sources cited inline):
+- Incumbency and recent margin: Republican Rep. Mike Turner is the incumbent and was re-elected in 2024; official tallies show Turner ~57.6% vs Democrat Amy Cox ~39.2% in 2024. ([rightdatausa.com](https://www.rightdatausa.com/election_results?d=all&pr=N&r=N&s=OH&t=H&y=2024&utm_source=openai))
+- Official certification: Ohio’s Secretary of State certified the 2024 results; county canvasses and the State canvass completed certification in late 2024. ([ohiosos.gov](https://www.ohiosos.gov/media-center/press-releases/2024/2024-12-02/?utm_source=openai))
+- Race rating / baseline partisan lean: mainstream race-trackers / analysts place OH-10 as a Republican-leaning seat under the current lines (Cook lists the seat as Republican-leaning / Solid R or similar characterization in its House ratings pages and shows an R-leaning PVI for the district). ([cookpolitical.com](https://www.cookpolitical.com/races?check_logged_in=1&page=15&utm_source=openai))
 
-So the practical question is: **how likely is a Democratic pickup in OH-10 in 2026?** That depends mainly on:
-- the partisan baseline of the district,
-- whether incumbent Republican **Mike Turner** runs,
-- candidate quality on the Democratic side,
-- national midterm environment,
-- and whether any redistricting changes materially alter the seat before the election. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826?utm_source=openai))
+Bullish evidence for Democrats (factors that argue the market price could be too low for a Dem win)
+- Open-seat risk / retirement possibility: A long-serving incumbent (Turner) can retire or be primaried; an open seat would be far more competitive than a defended incumbent seat. I did not find authoritative reporting of a Turner retirement or a top-tier Democratic recruit for 2026 in the sources reviewed; absent strong evidence of retirement or a major recruit, this remains a hypothetical pathway to a Democratic pickup.
+- National environment volatility: Midterms can swing substantially from presidential-year baselines. A strong national wave favoring Democrats in 2026 (driven by economic or political events) could materially improve Democratic odds even in modestly Republican districts. (This is structural reasoning rather than a new, district-specific source.)
 
-## 2. Evidence evaluation
+Bearish evidence (factors that argue the market price might be too high)
+- Strong 2024 performance and incumbency: Turner’s 2024 victory by an 18+ point margin (57.6% to 39.2% in most official tallies) and his long tenure imply a significant incumbency/fundraising/name-recognition advantage that Democrats would need to overcome. ([rightdatausa.com](https://www.rightdatausa.com/election_results?d=all&pr=N&r=N&s=OH&t=H&y=2024&utm_source=openai))
+- District lean: Analyst ratings and PVI indicate the district leans Republican under current lines (Cook shows an R lean and classifies the seat as in the Republican column), which makes a Democratic pickup an uphill task absent large, specific changes (strong recruit, scandal, major wave). ([cookpolitical.com](https://www.cookpolitical.com/races?check_logged_in=1&page=15&utm_source=openai))
 
-### Evidence suggesting 26.5% may be too low
+Source credibility and recency
+- Ohio Secretary of State press release and official county canvass PDFs are primary, authoritative sources for election results and certification (high credibility; Dec 2024 certification). ([ohiosos.gov](https://www.ohiosos.gov/media-center/press-releases/2024/2024-12-02/?utm_source=openai))
+- AP News is a well-established, contemporaneous news source for race calls (high credibility; Nov 2024). ([apnews.com](https://apnews.com/article/4f6eec98f10a4e82bff0630cdb2aa0bc?utm_source=openai))
+- Cook Political Report is a mainstream analyst used by professionals; it summarizes PVI and race ratings (high credibility for partisan baseline). ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826?utm_source=openai))
+- Aggregators (election results sites) reflect the official numbers but are secondary; I used them to corroborate vote shares (moderate credibility when cross-checked against official canvass). ([rightdatausa.com](https://www.rightdatausa.com/election_results?d=all&pr=N&r=N&s=OH&t=H&y=2024&utm_source=openai))
 
-**1) OH-10 is not a deep-red seat; it is at least theoretically competitive in the right environment.**  
-Cook describes OH-10 as Democrats’ **best pickup opportunity in Ohio on paper**, and says that under the newer lines, **Trump would have carried it by about 8 points in 2024**. That is clearly Republican-leaning, but not remotely unwinnable in a wave year if the GOP incumbent retires or weakens. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826?utm_source=openai))
+Skeptical notes
+- If the market price were accurately reflecting an imminent retirement, a strong Democratic recruit, or a credible scandal against the incumbent, that would be high-impact, verifiable information that should appear in mainstream outlets. My searches did not surface such district-level news in the sources I checked.
+- Low-volume markets are often set by single actors or initial listings; if something seems “obviously” mispriced, check whether there’s missing resolution nuance (this market’s resolution criteria are clear) or private information—neither of which was found in the public sources I searched.
 
-**2) Democrats are publicly targeting the seat.**  
-The DCCC placed **Mike Turner/OH-10** on its 2026 target list, which at minimum signals the national party sees some plausible path here rather than treating it as unwinnable. Roll Call also noted House Democrats included seats like this in their initial target set, though such lists are often expansive and partly strategic messaging. ([dccc.org](https://dccc.org/dccc-targets-ohios-most-vulnerable-republicans-for-2026-inbox/?utm_source=openai))
+3) MARKET EFFICIENCY ANALYSIS (given the market metrics in the prompt)
+- Market metrics: Age 49 days, Total Volume $0, Price 21.5%, Spread 1.0¢. Total Vol $0 = no trading — the posted price is not the result of an active information-aggregation process; it is likely an initial listing or a single placed order.
+- Reasonable interpretations of the 21.5% price:
+  - It could be an implied “longshot” prior placed by whoever created or initialized the market (no confirmation trades).
+  - It could represent an outside-view baseline (e.g., someone assigning a moderate ~1-in-5 chance to a possible upset), not an actively aggregated market estimate.
+- Could it reflect consensus among informed traders? With zero trading volume, no. It’s more likely the view of one or a few users or just a constructor’s initial price. That makes the quoted price unreliable as an information-aggregation signal.
+- Why might volume be low? Two plausible reasons:
+  - The outcome is currently seen as a low-probability, uninteresting event (i.e., not worth trading), which would produce low volume.
+  - The market simply hasn’t attracted attention; informed traders may not have engaged yet (especially for a midterm race more than seven months away from the filing/primary season and nearly eight months from Nov 2026 when this analysis is done).
 
-**3) Turner has some visible local political friction.**  
-Recent Dayton-area reporting shows protests over public town halls, pressure over Medicaid/social services, VA jobs, and localized backlash to federal funding issues. None of this proves vulnerability, but it does show **some anti-incumbent energy** that could matter in a midterm if the national environment turns sharply against Republicans. ([daytondailynews.com](https://www.daytondailynews.com/business/turner-speaks-as-fairborn-rally-urges-him-to-commit-to-public-town-hall-meetings/WGD67GT52JHCLF6ECHVQOYXSNQ/?utm_source=openai))
+4) MISPRICING ASSESSMENT
+- Baseline: Given Turner’s 2024 margin (~57.6% to 39.2%), incumbency, and district Republican lean (Cook’s R-lean/PVI and mainstream characterization), a reasonable baseline probability for a Democratic flip in 2026 (absent new information) is low-to-modest — certainly lower than a coinflip. A very rough, simple heuristic view (combining incumbency and baseline partisanship) would typically suggest single-digit to low-teen percentage odds for the challenger in a non-wave midterm.
+- The market’s 21.5% price could therefore be modestly optimistic for Democrats relative to that baseline — but with no evidence of an imminent Turner retirement, a top-tier Democratic recruit, or a unique local scandal, I do not see credible, public evidence that a ~20+ percentage-point absolute error (i.e., >20 cents mispricing) exists.
+- Specific missing information that could justify a much higher Dem probability (but which I did not find): credible reports of Turner's retirement/health problems; a high-profile Democratic recruit announcing; major local scandals tied to the incumbent; a new court-ordered redistricting that makes the district bluer. I found no reliable public reporting of any of these possibilities in the sources I checked.
+- Therefore: the market price (21.5%) appears higher than a simple public-information baseline would suggest, but because the market has zero volume (no trading), it is not a reliable consensus signal. The evidence supports the idea that the posted price is likely not an accurate aggregation of informed belief — but there is not enough specific, high-quality public evidence to declare a large mispricing (e.g., >20 cents) with high confidence.
 
-**4) Incumbency risk is the central upside case, and even analysts acknowledge it.**  
-Cook’s analysis says Democrats would **probably only make a serious effort at flipping this seat if Turner retired**. That statement cuts both ways, but it also implies a meaningful jump in Democratic odds in a retirement/open-seat scenario. If a trader thought there was a nontrivial chance Turner ultimately steps aside despite currently running, a price in the 20s could be rationally bullish. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826?utm_source=openai))
+5) EXPECTED VALUE CALCULATION (quantitative estimate)
+- Strength of evidence that the market is mispriced (i.e., public, verifiable evidence showing the true probability is meaningfully lower than 21.5%): I estimate this at 50%. Rationale: solid public data (Turner’s 2024 margin, district lean) indicate Democrats are underdogs, but uncertainty about 2026 dynamics (national environment, candidate recruitment, retirement) prevents higher certainty.
+- Magnitude of mispricing (how many cents the market price likely deviates from a reasonable public-information estimate): I estimate a modest mispricing of ~7 cents (i.e., market at 21.5% vs my rough public baseline estimate of ~14.5% chance for a Dem win absent new information). Rationale: incumbency + 2024 margin argue for lower than ~21%, but not for near-zero.
+- Expected value = Strength × Magnitude = 50% × 7 cents = 3.5 cents.
 
-### Evidence supporting 26.5% as reasonable, or possibly too high
+6) CONFIDENCE
+- I rate my confidence in this assessment as: medium.
 
-**1) The district’s baseline still favors Republicans.**  
-Cook’s writeup says Trump would have won the district by **8 points** under the relevant lines, and 2024 presidential results by district also show **Trump carrying OH-10 by roughly 52.4% to 46.6%**. That is a meaningful GOP lean. A Democrat can win such a seat, but 26.5% does not look obviously cheap against that backdrop. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826?utm_source=openai))
+CRITICAL CHECK (self-challenge)
+- Could I be missing resolution technicalities? The market’s resolution criteria are clear (party of the candidate who wins the seat on Nov 4, 2026; use credible reporting or FEC if ambiguous). I verified the district baseline and 2024 result in authoritative sources; I found no reported retirement or major local change that would clearly justify the market price.
+- Charitable interpretation of the current 21.5% price: it is likely a conservative single-user estimate of a longshot Democratic path (e.g., Turner retires or a wave), rather than a traded consensus. Given zero volume, the most charitable reading is that the initial price reflects a non-aggregated prior rather than an actionable market signal.
 
-**2) Turner substantially outperformed the district in the most recent House race.**  
-Ohio’s 2024 official results show Turner won reelection with **57.6%** to **39.2%**, an **18-point margin**. Cook similarly notes he won by 18 in a district Trump carried by 6 in 2024. That suggests Turner has durable crossover strength or at least a very favorable local position, which is strongly bearish for a Democratic win as long as he remains the nominee. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Ohio?utm_source=openai))
+FINAL JUDGMENT (concise)
+- The public, authoritative evidence (2024 certified results; vote shares; Cook’s race/partisan baseline) supports the view that OH-10 is a Republican-leaning seat with a substantial incumbency advantage for Mike Turner. The market’s posted Democratic probability of 21.5% is higher than a simple public-information baseline would suggest, but because the market shows zero trading volume and there is no public evidence of a high-impact change (retirement, recruit, scandal, etc.), I cannot conclude a large, actionable mispricing. There appears to be modest overpricing relative to a baseline, but expected mispricing is small (estimated ~7 cents) and the confidence is only medium.
 
-**3) Turner is running again.**  
-As of January 2026, local reporting says Turner **filed to seek reelection** and has said he fully intends to run in 2026. That directly weakens the strongest Democratic upside thesis, which is a retirement/open-seat race. ([daytondailynews.com](https://www.daytondailynews.com/local/turner-files-to-run-again-as-gop-expects-to-face-political-headwinds/QBVBCA7VR5BD3GEQCHPFFSWC74/?utm_source=openai))
-
-**4) The Democratic field currently looks weak and fragmented.**  
-By the February 2026 filing deadline, Dayton Daily News listed **six Democratic primary candidates** in OH-10, but no obvious top-tier, widely known, or well-funded challenger emerged in the reporting. A crowded but low-profile field is not what a strong pickup effort usually looks like this early. ([daytondailynews.com](https://www.daytondailynews.com/local/election-2026-heres-who-filed-to-run-in-may-primary-to-represent-you-in-congress/D5SJQLT4HVCHXEPDZAKYHMXPV4/?utm_source=openai))
-
-**5) Turner has a meaningful fundraising advantage.**  
-FEC mid-2025 campaign finance tables show Turner with about **$530,542 cash on hand** as of June 30, 2025. I did not find comparable evidence of a serious Democratic challenger with notable federal fundraising in OH-10 from the sources reviewed, which is another reason to doubt a large Democratic win probability right now. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2026/tables/congressional/ConCand7_2025_6m.pdf?utm_source=openai))
-
-**6) Redistricting does not obviously create a hidden Democratic edge.**  
-Ohio adopted new congressional districts on **October 31, 2025**, and the Ohio Secretary of State statement described them as a **“12-3”** map, contrasting it with the current **“10-5”** map. That suggests the new map is, if anything, **more Republican-favorable statewide**, not less. I did not find evidence in the sourced material that the new lines make OH-10 substantially easier for Democrats than the market likely assumes. ([ohiosos.gov](https://www.ohiosos.gov/media-center/press-releases/2025/2025-10-31/?utm_source=openai))
-
-## 3. Market efficiency analysis
-
-### A reasonable interpretation of the current 26.5% price
-
-A plausible charitable reading of **26.5%** is:
-
-- **Base case:** Turner runs and is favored comfortably in a Republican-leaning seat.
-- **Upside for Democrats:** national anti-GOP environment, incumbent fatigue, local backlash, or an unexpectedly strong Democratic nominee.
-- **Tail risk / hidden optionality:** some chance of retirement, scandal, health issue, or a materially different race dynamic by late 2026.
-
-That kind of setup can justify a price in the **low-to-mid 20s** even if the incumbent is clearly favored.
-
-### How reliable is the price?
-
-This market has **$0 volume** and a quoted spread, so the displayed number may reflect **very little true information aggregation**. With essentially no trading history, it is hard to call 26.5% a robust consensus. Low volume increases the chance of inefficiency, but it also means we should be cautious about claiming a major edge because the price may simply be a placeholder or one trader’s rough estimate rather than a well-arbitraged probability.
-
-### Is the low volume because the outcome is obvious?
-
-Partly, maybe. OH-10 is not among the very top national battlegrounds at this point, and absent a retirement or major shock, the race looks **Republican-favored but not impossible for Democrats**. That profile often produces low engagement early in the cycle. So low volume here does **not** automatically imply mispricing; it may just reflect a seat that is neither safely settled nor especially urgent for traders.
-
-## 4. Mispricing assessment
-
-I **do not see strong credible evidence of a major mispricing** at 26.5%.
-
-The strongest argument that the market is **too low** is that OH-10 is the sort of seat Democrats could win in a good midterm, especially if Turner exits or the environment worsens for Republicans. The district is Republican-leaning, but not overwhelmingly so, and Democrats are at least signaling interest. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826?utm_source=openai))
-
-But the evidence **against** a Democratic win is more concrete right now:
-- Turner **already filed** for reelection,
-- he has a long incumbency and recent **18-point win**,
-- the district voted for **Trump by about 6 to 8 points** depending on line assumptions,
-- and there is no clear sign yet of a top-tier Democratic challenger or fundraising machine. ([daytondailynews.com](https://www.daytondailynews.com/local/turner-files-to-run-again-as-gop-expects-to-face-political-headwinds/QBVBCA7VR5BD3GEQCHPFFSWC74/?utm_source=openai))
-
-So if I had to lean, I would say the current number is **roughly plausible to slightly generous for Democrats**, rather than obviously too low. In other words, if there is a mispricing, the better case is probably that **26.5% is a bit high**, not that it is sharply low. But that conclusion is still modest because we are far from Election Day and open-seat/quality-candidate dynamics can change fast.
-
-## 5. Expected value calculation
-
-- **Strength of evidence:** 60%  
-  The evidence is decent and recent on district lean, Turner’s candidacy, recent results, and lack of obvious Democratic strength. But it is still early in the cycle, and low-volume prices are noisy.
-
-- **Magnitude of mispricing:** 6 cents  
-  My best estimate is that a fair price is perhaps around **20% to 23%**, implying the current **26.5%** may be a little high, but not dramatically so.
-
-- **Expected value:** 0.60 × 6 = **3.6 cents**
-
-EXPECTED_VALUE: 3.6
-SUMMARY: Recent evidence does not show a strong mispricing in Democrats’ favor in OH-10. The district leans Republican, Mike Turner has filed for reelection after winning by 18 points in 2024, and no strong Democratic challenger is yet evident; if anything, 26.5% looks roughly fair to slightly high for Democrats.  
+EXPECTED_VALUE: 3.5
+SUMMARY: Public, authoritative data (certified 2024 results and mainstream race ratings) indicate OH-10 is Republican-leaning and Mike Turner won comfortably in 2024; with zero trading volume, the market’s 21.5% Democratic probability is not a reliable aggregated signal and appears modestly optimistic for Democrats but not clearly a large mispricing. Further monitoring for a Turner retirement, a strong Democratic recruit, or major national-wave indicators is warranted before placing money. 
 CONFIDENCE: medium
 
 ---
@@ -120,77 +91,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [OH-10 2026 | Cook Political Report](https://www.cookpolitical.com/house/race/483826)
-**Author:** Unknown | **Published:** 2025-11-02
+### [AP Race Call: Republican Mike Turner wins reelection to U.S. House in Ohio's 10th Congressional District](https://apnews.com/article/4f6eec98f10a4e82bff0630cdb2aa0bc)
+**Author:** Unknown | **Published:** 2024-11-06
 
-Cook rates and analyzes the 2026 OH-10 race, noting that on paper it is Democrats’ best pickup opportunity in Ohio but that the district would have gone for Trump by about 8 points in 2024. The page also says Mike Turner won by 18 points in 2024 and that Democrats likely only make a serious run if Turner retires. This is one of the most important sources because it captures both the district’s underlying competitiveness and the incumbent-strength caveat. Overall, it supports the idea that Democrats have a nontrivial chance, but not that 26.5% is obviously too low.
+AP reported and called the 2024 race for Ohio’s 10th District in favor of Republican Mike Turner on Nov. 6, 2024. This article is relevant because it confirms the media determination of the 2024 winner (used in the market’s resolution criteria) and situates the district’s incumbency status. It supports the assessment that the incumbent Republican retained the seat and that the Democratic share in 2024 was substantially lower than the market’s current 21.5% win probability implies.
 
-### [Rep. Mike Turner files to seek reelection to Congress](https://www.daytondailynews.com/local/turner-files-to-run-again-as-gop-expects-to-face-political-headwinds/QBVBCA7VR5BD3GEQCHPFFSWC74/)
-**Author:** Unknown | **Published:** 2026-01-12
+### [Secretary LaRose Certifies Official 2024 General Election Results](https://www.ohiosos.gov/media-center/press-releases/2024/2024-12-02/)
+**Author:** Ohio Secretary of State (Office) | **Published:** 2024-12-02
 
-This local report says Mike Turner filed to run again in 2026 and includes commentary that he is a “really tough target.” It also notes Democrats intend to go on offense in OH-10, showing the seat is on their radar. The filing is highly relevant because Turner retirement would materially improve Democratic odds; his decision to run reduces that possibility. This source therefore leans against the idea that Democrats should be much higher than 26.5%.
+Ohio’s Secretary of State announced the formal certification of the 2024 statewide canvass and county submissions in December 2024. This is a primary, authoritative source confirming the official status and certification of 2024 results, which underpins the factual baseline (who won OH-10 and by what margin) used to evaluate likely 2026 competitiveness. It supports the conclusion that the 2024 result and incumbency are established facts.
 
-### [Election 2026: Here’s who filed to run in May primary to represent you in Congress](https://www.daytondailynews.com/local/election-2026-heres-who-filed-to-run-in-may-primary-to-represent-you-in-congress/D5SJQLT4HVCHXEPDZAKYHMXPV4/)
-**Author:** Josh Sweigart | **Published:** 2026-02-05
-
-This article lists the filed candidates in OH-10 for 2026, including six Democrats, one Libertarian, and incumbent Republican Mike Turner. The relevance is that it gives a current picture of the candidate field and suggests there is not yet an obvious top-tier Democratic challenger consolidating support. A fragmented and relatively low-profile field generally weakens the case for a large Democratic pickup probability. It supports the view that the market is not missing a clear pro-Democratic catalyst.
-
-### [2024 United States House of Representatives elections in Ohio](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Ohio)
+### [2024 United States House of Representatives elections in Ohio (Wikipedia — consolidated 2024 results)](https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Ohio)
 **Author:** Unknown | **Published:** Unknown
 
-This page reports that in OH-10 Mike Turner won 57.6% to 39.2% in 2024. While Wikipedia is not a primary source, the figures are consistent with other reporting and useful for quick district-level context. The key takeaway is the size of Turner’s most recent margin, which indicates personal/incumbent strength beyond the district’s partisan baseline. That evidence argues against a claim that Democrats should already be near even money.
+This page aggregates district-level results for Ohio’s 2024 U.S. House elections and records vote shares and winners. It lists Mike Turner as the winner in OH-10 with the vote shares used elsewhere (57.6% vs 39.2). While secondary, it provides a convenient cross-check of vote totals reported by official sources and news outlets and corroborates the scale of the 2024 margin that makes a 2026 flip more difficult absent new information.
 
-### [2024 United States presidential election in Ohio](https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Ohio)
+### [2024 Election Results for Ohio -- RightDataUSA.com (District 10 results)](https://www.rightdatausa.com/election_results?d=all&pr=N&r=N&s=OH&t=H&y=2024)
+**Author:** Unknown | **Published:** 2024-11-05
+
+This aggregator shows the district-level vote totals and percentages for the Nov 5, 2024 general election, listing Mike Turner (R) 213,695 (57.6%) and Amy Cox (D) 145,420 (39.2%) in OH-10. These numbers are consistent with official canvass documents and help quantify the magnitude of the Democratic deficit that would need to be overcome in 2026. That quantitative gap is central to judging whether a 21.5% market probability is plausible.
+
+### [OH-10 2026 | Cook Political Report (race summary / PVI and rating info)](https://www.cookpolitical.com/house/race/483826)
 **Author:** Unknown | **Published:** Unknown
 
-This source provides district-level presidential results and shows Trump winning OH-10 by roughly 52.37% to 46.64%. That suggests the seat retains a meaningful Republican lean at the top of the ticket. For market analysis, this matters because House upsets are easier when the district is near 50-50, and harder when the presidential baseline is several points red. This supports the reasonableness of a Democratic probability in the 20s rather than indicating obvious undervaluation.
-
-### [DCCC Targets Ohio’s Most Vulnerable Republicans for 2026 Inbox](https://dccc.org/dccc-targets-ohios-most-vulnerable-republicans-for-2026-inbox/)
-**Author:** Unknown | **Published:** 2025-04-08
-
-The DCCC announced Mike Turner and OH-10 as part of its 2026 “Districts in Play” target list. This is relevant because it shows national Democrats believe the seat is at least contestable and worth monitoring. However, party target lists are often broad and partly strategic, so this should not be over-weighted as proof of true competitiveness. It modestly supports the Democratic case, but not enough on its own to show a strong mispricing.
-
-### [House Democrats unveil 35 Republican targets for 2026 midterms](https://rollcall.com/2025/04/08/house-democrats-targets-2026-midterm-elections/)
-**Author:** Unknown | **Published:** 2025-04-08
-
-Roll Call reports on the DCCC’s broad initial target map for 2026 and notes that some included seats are not top-tier battlegrounds. This is useful context because it tempers the significance of OH-10 appearing on Democrats’ list. Inclusion signals possibility, but not necessarily high probability. As a result, the source mildly challenges an overly bullish Democratic interpretation of the target-list evidence.
-
-### [This table was generated on 9/4/25.](https://www.fec.gov/resources/campaign-finance-statistics/2026/tables/congressional/ConCand7_2025_6m.pdf)
-**Author:** Unknown | **Published:** 2025-09-04
-
-This FEC table shows Mike Turner with about $367,800 in receipts and roughly $530,542 cash on hand as of June 30, 2025. Fundraising is highly relevant because incumbents with solid cash reserves are harder to unseat, especially in districts that already lean their party’s way. I did not find similarly strong sourced evidence for a Democratic challenger in OH-10. This therefore supports the view that Democrats are not obviously underpriced at 26.5%.
-
-### [Secretary LaRose Releases Statement on Bipartisan Approval of New Congressional Districts - Ohio Secretary of State](https://www.ohiosos.gov/media-center/press-releases/2025/2025-10-31/)
-**Author:** Unknown | **Published:** 2025-10-31
-
-This Ohio Secretary of State statement says the Ohio Redistricting Commission unanimously approved new congressional districts and contrasts the new “12-3” map with the current “10-5” map. That is relevant because redistricting could have been a hidden source of market mispricing if it made OH-10 significantly more Democratic. Instead, the broader statewide framing suggests a more Republican-favorable map overall. This source weakens the idea that the market is missing a structural advantage for Democrats.
-
-### [OHIO REDISTRICTING](https://www.ohiosos.gov/globalassets/publications/maps/2026-2032/uscongressionaldistricts_2026-2032_adopted_2025_10_31_legaldescription.pdf)
-**Author:** Unknown | **Published:** 2025-10-31
-
-This official Ohio document is the legal description of the congressional map adopted for 2026-2032. It confirms that a new map exists and is the relevant legal framework for the 2026 election cycle. Although it does not by itself provide partisan performance, it is important for verifying that map changes are real and not speculative. In the absence of evidence that the new lines materially help Democrats in OH-10, it does not support a strong mispricing claim.
-
-### [How Dayton’s Rep. Turner is navigating Trump’s D.C.](https://www.daytondailynews.com/local/how-daytons-rep-turner-is-navigating-trumps-dc/RXWFI7WSEBGA7EBVLT25MVLOEM/)
-**Author:** Unknown | **Published:** 2025-01-15
-
-This local report says Turner intended to run again in 2026 and describes his position after being removed as chair of the House Intelligence Committee. The article matters because it provides current local context on Turner’s political standing and confirms he was not signaling retirement at that time. While loss of a chairmanship could be seen as a vulnerability, the source does not suggest an imminent electoral collapse. It modestly supports the idea that the race remains Republican-favored unless conditions worsen.
-
-### [Protesters urge Congressman Mike Turner to host public town halls.](https://www.daytondailynews.com/business/turner-speaks-as-fairborn-rally-urges-him-to-commit-to-public-town-hall-meetings/WGD67GT52JHCLF6ECHVQOYXSNQ/)
-**Author:** Unknown | **Published:** 2025-08-07
-
-This article covers local protests urging Turner to hold public town halls, indicating some activist dissatisfaction and anti-incumbent energy in the district. Such grassroots agitation can matter in wave elections, especially if it reflects broader constituent frustration. Still, these episodes are common and do not necessarily translate into vote share changes large enough to flip a district. It offers some bullish evidence for Democrats, but only weak-to-moderate evidence.
-
-### [Union protests outside U.S. Rep. Mike Turner’s office to urge support for Medicaid, social services](https://www.daytondailynews.com/local/union-protests-outside-us-rep-mike-turners-office-to-urge-support-for-medicaid-social-services/7SCKRZDN2VESHK7FCTBHDIDRUQ/)
-**Author:** Unknown | **Published:** 2025-03-20
-
-This source documents organized local pressure on Turner over Medicaid and social service cuts. It is relevant because House midterms can become referenda on national policy, and healthcare-related backlash has historically hurt incumbents in some swing districts. However, the article does not demonstrate broad district-wide opinion or polling, only activist mobilization. It therefore slightly supports the Democratic upside case without proving mispricing.
-
-### [Protesters urge Rep. Mike Turner to protect VA jobs](https://www.daytondailynews.com/local/nurses-allies-rally-friday-to-protect-va-jobs/2VBMIDXA6FHOVDTQV7HLXZUYNE/)
-**Author:** Unknown | **Published:** 2025-09-12
-
-This local report covers protests concerning VA jobs and pressure on Turner. The relevance is similar to other protest coverage: it suggests pockets of discontent that could matter in a hostile midterm environment. But it is anecdotal rather than comprehensive and does not show that Turner’s electoral coalition is collapsing. This source is mildly favorable to the Democratic case, though not strongly enough to imply a clear market error.
-
-### [Federal funding review suspends $2 million study on U.S. 35](https://www.daytondailynews.com/local/federal-funding-review-suspends-2-million-study-on-us-35/SOXGYHECVBG5BJRPFFABBQ2DAQ/)
-**Author:** Josh Sweigart and Cornelius Frolik | **Published:** 2025-02-07
-
-This article discusses suspension of a federal project affecting Dayton neighborhoods and includes Turner’s role in announcing the funding. It is relevant because local infrastructure and federal spending disputes can affect constituent perceptions of effectiveness. Still, the piece is more about policy consequences than electoral forecasting, so its predictive value is limited. It provides only weak evidence that Turner could face a tougher reelection environment.
+Cook Political Report’s race page for OH-10 summarizes analyst views and the district’s partisan baseline (PVI/rating). Cook’s characterization of the district as Republican-leaning (and its inclusion in the Republican column in 2026 house ratings) provides an expert-analyst baseline that supports the conclusion that OH-10 is not among the most competitive Democratic pickup opportunities under the current lines. This supports the assessment that, absent new, high-impact information, Democratic odds are low-to-modest.

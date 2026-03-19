@@ -1,86 +1,108 @@
 # Research: Will a team from LPL (China) win MSI 2026?
 
 **Market ID:** 0x9f61a4c01f2c8414b54fae93f7bad383593edea835ccd5c1990fa43422be1634
-**Researched At:** March 11, 2026 at 04:18:47 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will a team from LPL (China) win MSI 2026?"
+**Researched At:** March 19, 2026 at 04:29:27 AM UTC
+**Search Query:** "Will a team from LPL (China) win MSI 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Low
-**Expected Value:** 1.0¢
+**Expected Value:** 1.8¢
 
 ### Summary
 
-Current research highlights LPL spring strength (BLG’s win, strong MVP performance), but offers no comparative insight into other regions or MSI odds. The 21.5% price seems reasonable as a placeholder.
+I find no clear public evidence that the market at 15.5% is massively mispriced. LPL has depth and plausible paths to an MSI title, but recent analyst rankings and MSI context (tournament in Korea, strong LCK contenders) make a mid‑teens probability reasonable; with very low volume the price may simply reflect limited participation.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether the MSI 2026 champion will be from the LPL (China). A “YES” resolves if any Chinese LPL team (e.g., BLG, JDG, IG, Weibo) wins first place at MSI 2026; “NO” if the winner comes from another region (LCK, LEC, etc.) or is undetermined by July 31.
+Planned approach and searches used
+- I used web searches to (a) confirm MSI 2026 dates/format and major context, (b) gather authoritative recent information about LPL teams and the 2026 LPL split that will determine China’s MSI representative(s), and (c) collect expert/power‑ranking commentary about relative regional strength coming into MSI 2026. (I did not consult prediction-market sites per your instruction.) Sources are cited inline and listed at the end.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports >21.5%):  
-- Bilibili Gaming (BLG) just won LPL Split 1 2026 with Bin as Finals MVP, suggesting strong international prospects.  
-- BLG qualified first for First Stand 2026, beating JDG and showing innovative strategies.  
-- Betting previews heavily favor BLG over JDG (odds ~-303) and likewise favor Chinese teams in LPL playoffs (Weibo, IG).  
-Bearish (supports ≤21.5%):  
-- All evidence pertains to spring split form; MSI will feature spring winners and evolve after summer splits and meta shifts.  
-- No data on LCK/LEC strength; historically those regions often dominate international events—information LPL bears potential headwinds.  
-- Low-volume market with narrow spread suggests little informed trading; possibility that the price reflects one or two traders’ rough estimate rather than aggregated consensus.  
+1) CONTEXT ANALYSIS
+- Market question: “Will a team from LPL (China) win MSI 2026?” The market resolves YES if the team that finishes 1st at MSI 2026 is a team officially from the LPL region; NO if the winner is from any other listed region or “Other” if no winner determined by the July 31, 2026 cutoff. The official resolution source is LoLEsports (and a consensus of credible reporting such as Liquipedia is allowed in practice). ([lolesports.com](https://lolesports.com/news/announcing-the-msi-2025-venue?utm_source=openai))
+- What must happen: an LPL team must win the MSI 2026 tournament finals (i.e., be declared the champion by Riot/LoLEsports or credible consensus reporting). The identity of the LPL representative(s) will be set by LPL Spring / First Stand outcomes; those teams’ current form, roster changes, and the international meta will influence their probability of winning.
 
-3. MARKET EFFICIENCY  
-A 21.5% chance could reflect a cautious view that China is a contender but not the top favorite, given strong LCK and LEC competition. The low volume (≈\$764) and tight spread (3¢) may indicate limited liquidity rather than genuine consensus. Informed bettors may be waiting for LPL Split 2 outcomes or other regions’ spring champions, leaving this market under-informed.
+2) EVIDENCE EVALUATION (all relevant evidence pulled from web searches)
+Summary of the most relevant evidence found
+- Official/authoritative scheduling and tournament context: multiple reporting sources place MSI 2026 June 26–July 12, 2026 (host region reported as South Korea / Daejeon) — confirms the tournament timeline and that region-based winners are how the market resolves. This matters because timing (June/July) creates a gap between domestic spring conclusions and MSI, allowing roster moves or meta changes. ([sheepesports.com](https://www.sheepesports.com/articles/lol-msi-2026-expected-to-take-place-from-june-26-to-july-12/en?utm_source=openai))
+- LPL 2026 Split 1 (domestic spring) — Liquipedia has current Split 1 pages, rosters, match results and playoff structure for the LPL 2026 Split 1 (Split 1 ended in early March 2026). That split determines the LPL teams that will attend the mid‑season international events (First Stand/MSI pathway). The Liquipedia pages show the main LPL contenders (BLG, JDG, TES, WBG, AL, etc.) and match results for early 2026. However Liquipedia extracts do not by themselves predict international outcomes; they mainly document which Chinese teams are in form or qualified domestically. ([liquipedia.net](https://liquipedia.net/leagueoflegends/LPL/2026/Split_1?utm_source=openai))
+- Comparative power rankings and recent international outcomes: analyst power rankings around MSI 2025 put LCK (Gen.G, T1, etc.) at or near the top while several LPL teams appear among the highest‑ranked teams overall — i.e., LPL has several individually-strong teams but LCK also had top contenders in recent international events. Reporting of MSI/Worlds 2024–2025 suggests LCK teams have been strong internationally (Gen.G & others), while LPL remains competitive but not automatically dominant. This implies contests between regions are close and that a ~15% market price for LPL is not obviously absurd. ([esports.gg](https://esports.gg/news/league-of-legends/msi-2025-global-power-rankings/?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-There is no specific, credible information missing from the market price. All research speaks to spring form, which is likely already priced in given the timing. Without comparative data on other regions or spring MSI favorites, we lack a basis to assert >3¢ mispricing. The 21.5% probability is a plausible “placeholder” until further form and bracket results emerge.
+What SPECIFIC evidence suggests the market price (15.5%) might be incorrect (i.e., undervalued or overvalued)?
+- Arguments that would push the true probability higher (market undervalues LPL):
+  - LPL depth: there are multiple world‑class LPL teams (BLG, JDG, TES, AL, WBG, RNG historically) who have won international titles in recent years or placed highly; if one of those teams is in top form at MSI, the odds of at least one LPL champion should be materially higher than single‑team estimates. Liquipedia documents multiple strong LPL contenders in 2026 Split 1, suggesting depth. ([liquipedia.net](https://liquipedia.net/leagueoflegends/LPL/2026/Split_1?utm_source=openai))
+  - LPL historically wins MSI/Worlds with some frequency; if recent domestic Spring results show an LPL champion in excellent form (not fully established in the sources we found), then 15.5% could be low.
+- Arguments that would push the true probability lower (market overvalues LPL):
+  - LCK strength & home advantage: reporting and power rankings leading into recent internationals often favor LCK teams; MSI 2026 being in Korea could modestly benefit LCK teams given crowd/meta familiarity, reducing LPL’s win probability. ([esports.gg](https://esports.gg/news/league-of-legends/msi-2025-global-power-rankings/?utm_source=openai))
+  - Tournament variability and format: MSI single elimination / best‑of‑series variance plus patch/meta differences between domestic and international play (and the time gap after domestic splits) introduces uncertainty; a spread of strong teams across many regions (LCK, LEC, LPL, LCS, LCP) dilutes any single region’s win probability, making ~15% plausible.
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 20% (small, since we lack cross-region comparisons)  
-- Magnitude of mispricing: ~5¢ (unlikely large mispricing)  
-- Expected value = 0.20 × 5¢ = 1.0¢
+Source credibility & recency
+- Liquipedia is a widely used primary reference for rosters and match results; it is timely for domestic splits but is community‑maintained (high utility for rosters/results, moderate editorial authority). ([liquipedia.net](https://liquipedia.net/leagueoflegends/LPL/2026/Split_1?utm_source=openai))
+- Esports.gg and GG Esports are recognized esports news sites that publish analyst power rankings and tournament analysis (useful for qualitative strength estimates); these are secondary analyses and should be weighted as expert commentary rather than raw data. ([esports.gg](https://esports.gg/news/league-of-legends/msi-2025-global-power-rankings/?utm_source=openai))
+- SheepEsports / EsCharts provide calendar/timeline confirmation (useful for event timing); they are lower-tier reporting but consistent with Riot’s public scheduling. ([sheepesports.com](https://www.sheepesports.com/articles/lol-msi-2026-expected-to-take-place-from-june-26-to-july-12/en?utm_source=openai))
+- I did not find a single authoritative article that unambiguously shows LPL’s true MSI win probability should be far above or far below 15.5% (e.g., there was no definitive “LPL team absolutely dominant and inevitable winner” story). That reduces confidence in declaring a large mispricing.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Current research highlights LPL spring strength (BLG’s win, strong MVP performance), but offers no comparative insight into other regions or MSI odds. The 21.5% price seems reasonable as a placeholder.  
+Skeptical note: if evidence seemed to point to a very large mispricing (>20¢), I would expect clear, contemporaneous indicators such as one LPL team dominating the world meta and head‑to‑head international scrims, or mass roster stability while rival regions had turmoil. I did not find such strong, unambiguous signals in the sources reviewed.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify ~15.5%:
+  - Consensus across multiple strong regions (LCK, LPL, LEC, LCP, LCS) implies win probabilities are spread; if LCK and LEC collectively occupy large shares and the remainder is split among LPL/LCS/LCP/others, a mid‑teens probability for LPL is plausible.
+  - MSI being in Korea and recent LCK successes can compress market belief in LPL chances.
+  - Low trading volume with tiny spread means one or a few traders could have set the price; the market may reflect an informed trader’s cautious estimate rather than broad consensus.
+- Could the price reflect only a single/few participants? Yes — total volume listed is $0 and age 15 days, which is consistent with very little liquidity; the posted price may simply be an initial quote from a market creator or a lone early trader rather than an equilibrium of many informed actors.
+- Why low volume may occur here:
+  - Outcome is far in the future (June–July 2026) and many informed traders may want to wait for final LPL Spring results, roster locks, or pre‑MSI scrim reports before committing capital.
+  - Alternatively, it may be overlooked because the market stakes are low or traders prefer to trade team‑level markets rather than region‑level markets.
+
+4) MISPRICING ASSESSMENT (weighing evidence)
+- Bottom line: I do not find specific, credible evidence that the market is clearly mispriced by a large amount (>20 cents). The evidence instead points to a plausible mid‑teens chance for LPL: LPL has multiple contenders (supporting higher odds), but other regions (notably LCK) have strong recent international results and MSI 2026 being in Korea is a nontrivial factor (supporting lower odds). The available reporting and power rankings do not demonstrate a decisive directional signal that traders have missed.
+- Possible small mispricing: a modest error (a few to several cents) is plausible either way depending on last‑mile information that traders may not yet have priced (final spring champion form, roster lock injuries/transfers, pre‑MSI scrim results, patch changes favoring LPL playstyle). But such information was not found in the sources I checked.
+- Critical check: before concluding a large mispricing, I re‑examined the market wording and resolution rules (region of the champion, LoLEsports/Liquipedia sources) and found no obvious resolution technicality that would justify a big discrepancy. The tournament has not yet occurred, and the region winner is properly defined — so a large, persistent mispricing would require hidden info (private scrim results, undisclosed roster issues) that is, by definition, not publicly observable. That weakens the case for declaring a large exploitable mispricing.
+
+5) EXPECTED VALUE CALCULATION (estimating EV of investigating/trading)
+- Strength of evidence (how confidently we think the public evidence is missing from the price): I assess this as low-to-moderate — assign 30% (0.30). Rationale: public sources show mixed signals; nothing strongly contradictory to 15.5% was found.
+- Magnitude of mispricing if one exists: conservatively estimate ~6 cents (0.06 USD) maximum plausible error given currently available public evidence — i.e., the market might be off by a few cents rather than tens of cents.
+- Expected value = 0.30 × 6 cents = 1.8 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- Overall confidence in this assessment: low. Reasons: limited public signals about final roster/patch/meta and low trading volume mean public evidence is unlikely to definitively reveal a >20¢ mispricing; with more pre‑MSI scrim information or final split results the assessment could change materially.
+
+Conclusion (short)
+- There is no clear, public evidence of a large mispricing in the LPL‑wins‑MSI‑2026 market at the current quoted probability (15.5%). The price is plausible given (a) multiple strong LPL teams but (b) strong LCK competition and tournament location in Korea; the low traded volume suggests the price may reflect limited participation and thus carries execution/liquidity risk. Small mispricings of a few cents are possible, but I did not find credible evidence supporting a large (>20¢) mispricing.
+
+EXPECTED_VALUE: 1.8
+SUMMARY: I find no clear public evidence that the market at 15.5% is massively mispriced. LPL has depth and plausible paths to an MSI title, but recent analyst rankings and MSI context (tournament in Korea, strong LCK contenders) make a mid‑teens probability reasonable; with very low volume the price may simply reflect limited participation. 
 CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: First Stand 2026: LPL Teams Preview – Can BLG And JDG Restore China’s International Success? - Hotspawn
-Author: 
-Published Date: 2026-03-09T00:00:00.000Z
-URL: https://www.hotspawn.com/league-of-legends/news/first-stand-lpl-teams-preview
-Summary: The webpage provides an overview of upcoming esports tournaments across various titles, including Counter-Strike and League of Legends, with detailed schedules for 2026. While it highlights the prominence of Chinese teams in regional and international competitions, particularly in Counter-Strike events like the ESL Pro League and Intel Extreme Masters, it does not specifically mention League of Legends or MSI 2026. 
+### [LPL 2026 Split 1 - Liquipedia League of Legends Wiki](https://liquipedia.net/leagueoflegends/LPL/2026/Split_1)
+**Author:** Unknown | **Published:** Unknown
 
-Given the focus on Chinese teams such as BLG and JDG in the LPL (League of Legends Pro League), their historical performance and regional dominance suggest they could be strong contenders at MSI 2026. The article's emphasis on China's active participation and success in international tournaments indicates that Chinese teams are likely to be competitive and potentially capable of winning MSI 2026. However, without specific details on their current form or recent results, a definitive prediction cannot be made solely based on this webpage.
+Liquipedia’s Split 1 page lists participating LPL teams, schedule (start Jan 14 — end Mar 8, 2026), match results, and playoff/knockout details for the LPL Spring/Split 1 season. This is relevant because the LPL spring split determines which LPL teams will represent China at international mid‑season events and shows which organizations (BLG, JDG, TES, WBG, etc.) were the main contenders heading into MSI 2026. The page documents team form and match outcomes that inform whether any LPL team enters MSI as a clear favorite (it shows multiple competitive LPL teams rather than a single dominant favorite), which supports the interpretation that a mid‑teens region probability is plausible rather than obviously wrong. ([liquipedia.net](https://liquipedia.net/leagueoflegends/LPL/2026/Split_1?utm_source=openai))
 
-Title: Bilibili Gaming win the LPL Split 1 2026 trophy off a monstrous performance by Bin
-Author: 
-Published Date: 2026-03-08T00:00:00.000Z
-URL: https://www.strafe.com/news/read/bilibili-gaming-win-the-lpl-split-1-2026/
-Summary: Bilibili Gaming (BLG), an LPL (China) team, recently secured the LPL Split 1 2026 championship with a dominant performance led by top laner Bin, who was named Finals MVP. Their strong showing, especially Bin’s impactful play, positions them as a top contender heading into the international stage at First Stand 2026, where they will compete against other top teams like Gen.G. Given BLG’s recent form and Bin’s resurgence, they are well-positioned to challenge for the MSI 2026 title, making them a team to watch for potential success in the tournament.
+### [MSI 2026 Expected to Take Place from June 26 to July 12](https://www.sheepesports.com/articles/lol-msi-2026-expected-to-take-place-from-june-26-to-july-12/en)
+**Author:** Unknown | **Published:** Unknown
 
-Title: BLG become the first LPL team to qualify for First Stand 2026
-Author: 
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://www.strafe.com/news/read/blg-become-the-first-lpl-team-to-qualify-for-first-stand-2026/
-Summary: Bilibili Gaming (BLG), the first LPL (China) team to qualify for First Stand 2026, demonstrated strong performance in the LPL Split 1 Playoffs by defeating JD Gaming in the Upper Bracket Finals. Despite a challenging start to 2026, BLG showed resilience and strategic depth, notably winning a critical series with innovative picks like ON's support champion. Their recent success suggests they are a competitive contender in the region. However, whether they or any LPL team will win MSI 2026 remains uncertain, as MSI typically features top teams from multiple regions, and the outcome depends on their form and competition from other regions.
+Sheep Esports reported MSI 2026’s expected dates (June 26–July 12, 2026) and mentions the tournament’s host region (South Korea/Daejeon reported in related coverage). This confirms the timing and location context for MSI 2026 — relevant because timing determines when domestic splits finish and how much time teams have to change rosters or adapt to the international meta. The location in Korea is also relevant because a local or regional advantage may slightly favor LCK teams and reduce LPL win probability, supporting a conservative mid‑teens estimate for LPL rather than a very high number. ([sheepesports.com](https://www.sheepesports.com/articles/lol-msi-2026-expected-to-take-place-from-june-26-to-july-12/en?utm_source=openai))
 
-Title: Jd Gaming Vs Bilibili Gaming Lpl Split 1 2026 Betting Preview
-Author: Jur Dava
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://esportbet.com/jd-gaming-vs-bilibili-gaming-betting-predictions-lpl-2026-split-1-ub-final/
-Summary: The webpage provides a detailed preview of the upcoming LPL 2026 Split 1 upper bracket final between JD Gaming and Bilibili Gaming, scheduled for March 4, 2026. Bilibili Gaming is favored to win this match, with odds of -303.03, indicating strong confidence in their victory. Despite JD Gaming's potential and previous successes, they have shown signs of inconsistency and have struggled against top-tier teams recently. Bilibili Gaming has demonstrated improved form, including decisive playoff victories and effective map control, suggesting they are in better shape to succeed in this matchup. While this preview focuses on the LPL match, the analysis implies that Bilibili Gaming's current form and strength could position them as strong contenders to represent China and potentially win MSI 2026, especially if they maintain their momentum.
+### [League of Legends 2026 Tournament Calendar: Worlds, MSI, Regional Leagues & Tier‑2 Events | Escharts](https://escharts.com/news/league-legends-esports-2026-full-tournament-calendar-and-season-breakdown)
+**Author:** Unknown | **Published:** Unknown
 
-Title: LPL 2026 Playoffs Picks Feb 25: Weibo Vs IG, Bilibili Vs NiP
-Author: Jur Dava
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://esportbet.com/lpl-2026-split-1-knockout-stage-betting-predictions-wednesday-february-25/
-Summary: The webpage provides detailed betting predictions and recent performance insights for the LPL 2026 Playoffs, specifically focusing on the upcoming matches on February 25. Invictus Gaming (IG) and Weibo Gaming are set to face off, with Weibo favored based on recent form and betting odds, though their volatility is noted. The analysis highlights IG's recent strong macro play and improvement, suggesting they could challenge expectations. The other match features Bilibili Gaming versus Ninjas in Pyjamas, with Bilibili favored. While the webpage centers on LPL playoff predictions, it underscores the competitive strength of Chinese teams, which could be relevant when considering China's potential to win MSI 2026, as these teams are among the top contenders in the region.
+Escharts provides a consolidated 2026 LoL esports calendar including MSI 2026 dates (June 26–July 12) and context on how MSI fits into the international season. This helps confirm that MSI 2026 is scheduled in late June/early July and contextualizes the tournament’s importance — relevant because the tournament’s format and place in the season affect how teams prioritize preparation and how much public information (roster locks, scrims) will be available before trading opportunities close. The calendar supports the timeline assumptions used when evaluating whether current public evidence should already be priced into the market. ([escharts.com](https://escharts.com/news/league-legends-esports-2026-full-tournament-calendar-and-season-breakdown?utm_source=openai))
 
+### [MSI 2025 Global Power Rankings » Esports | Esports.gg](https://esports.gg/news/league-of-legends/msi-2025-global-power-rankings/)
+**Author:** Unknown | **Published:** Unknown
 
+Esports.gg compiled global power rankings heading into MSI 2025 showing top teams and regional strength assessments — LCK teams such as Gen.G and T1 featured at the top while several LPL teams also ranked highly. This is useful as an analyst view of relative regional strength going into MSI‑type events: it shows that while LPL has multiple high‑quality teams, LCK has recently fielded extremely strong contenders. That mixed picture is consistent with a mid‑teens probability for LPL overall (rather than LPL being an overwhelming favorite) and supports skepticism that 15.5% is obviously wrong. ([esports.gg](https://esports.gg/news/league-of-legends/msi-2025-global-power-rankings/?utm_source=openai))
+
+### [LPL Secures Fourth Slot for Worlds 2025 (coverage) — GG Esports](https://www.ggesports.com/en-US/lol/News/Detail/26566)
+**Author:** Unknown | **Published:** Unknown
+
+GG Esports reported that LPL performance at MSI/related events led to an additional Worlds slot in 2025, indicating strong recent international results for LPL teams in the 2024–2025 cycle. This demonstrates that the LPL is competitively deep and can produce teams that perform well at major international tournaments — an argument that supports a non‑negligible chance of an LPL team winning MSI 2026 (which argues against treating a 15.5% price as obviously too low). However, it does not prove a large mispricing because rival regions also showed strength in the same timeframe. ([ggesports.com](https://www.ggesports.com/en-US/lol/News/Detail/26566?utm_source=openai))

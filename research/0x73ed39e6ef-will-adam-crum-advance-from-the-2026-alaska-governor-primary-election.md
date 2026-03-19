@@ -1,7 +1,7 @@
 # Research: Will Adam Crum advance from the 2026 Alaska Governor primary election?
 
 **Market ID:** 0x73ed39e6ef4b022710fcfa177b343e68d057045833ce53a322062de48291fe91
-**Researched At:** March 13, 2026 at 04:14:08 AM UTC
+**Researched At:** March 19, 2026 at 04:35:52 AM UTC
 **Search Query:** "Will Adam Crum advance from the 2026 Alaska Governor primary election?"
 
 ---
@@ -13,78 +13,61 @@
 
 ### Summary
 
-Adam Crum is a declared candidate with meaningful early fundraising but recent credible negative press (the WilmerHale review) and low single‑digit polling in a crowded top‑four primary; given that mixed evidence and the market’s zero reported volume, I find no clear, large mispricing but only modest potential mispricing (EV ≈ 3.2¢). ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
+Adam Crum is a recent entrant and former state Revenue Commissioner with some fundraising and visibility, but he sits in a crowded GOP field and has been the subject of controversy; public polling snapshots to date do not show him as a clear top‑four candidate. Given current public data and low market volume, the market’s 21% probability is plausible and I find no strong, specific evidence of a large mispricing — any mispricing is likely modest. ([aws.state.ak.us](https://aws.state.ak.us/ApocRep
 
 ### Full Analysis
 
-Analysis and conclusion
+Plan and searches used
+- I used 3 web searches (combined into one run) to find: (a) official candidate filings, (b) news about Adam Crum’s entry/fundraising/visibility and controversies, and (c) polling/analysis about the 2026 Alaska governor field and who is likely to be in the top four. Relevant sources are cited inline below.
 
-1) CONTEXT ANALYSIS — what this market asks and precise resolution conditions
-- The market asks whether Adam Crum will be one of the top four vote‑getters in the 2026 Alaska nonpartisan primary for governor (the primary is scheduled for August 18, 2026). If Crum finishes among the four highest‑placing candidates by votes in that primary (as reported by credible reporting or, if ambiguous, the State of Alaska Division of Elections), the market resolves “Yes”; otherwise it resolves “No.” If no 2026 Alaska gubernatorial primary occurs, the market resolves “No.” (Alaska Division of Elections: top‑four/nonpartisan primary / date). ([elections.alaska.gov](https://www.elections.alaska.gov/election-information/?utm_source=openai))
+1) CONTEXT ANALYSIS
+- What the market asks: Will Adam Crum advance from the August 18, 2026 Alaska gubernatorial primary to the general election? Under the market’s resolution rules, “Yes” if Crum finishes among the top four vote-getters in the non‑partisan primary (the state’s top‑four primary); “No” otherwise (including if no primary occurs). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai))
+- What must happen for a YES: On August 18, 2026 Crum must receive one of the four highest vote totals in the statewide primary for governor as officially reported by the Alaska Division of Elections (the market’s stated official source). A NO occurs if he finishes 5th or worse, withdraws before the election, or if the primary does not occur. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai))
 
-2) EVIDENCE EVALUATION — all relevant evidence I found
+2) EVIDENCE EVALUATION (all findings date from 2025–2026 reporting)
+Evidence that suggests the market price (21%) might be too HIGH (i.e., Crum less likely than 21%):
+- Crowded field and higher-profile opponents: Reporting in Aug–Oct 2025 shows a large GOP field including higher-name-recognition figures (Lt. Gov. Nancy Dahlstrom, former state senator Click Bishop, Edna DeVries, Treg Taylor, Shelley Hughes, Dave Bronson, etc.). Multiple local outlets and summaries list Crum as one entrant among many rather than a front-runner. That dynamic makes cracking the top four harder. ([adn.com](https://www.adn.com/politics/2025/08/11/former-alaska-revenue-commissioner-is-the-8th-republican-to-enter-governors-race/?utm_source=openai))
+- Polls/hypotheticals favor other candidates and possible Democrats: Published polling and hypothetical ballots (e.g., Data for Progress reporting summarized by outlets) show if a major Democrat such as Mary Peltola runs she would lead, and many polls’ hypothetical top‑four do not include Crum (they list Peltola, Dahlstrom, Wilson, Bishop in some snapshots). Those hypothetical polls imply Crum is behind the likely front‑ranked names. If a high‑profile Democrat enters, it compresses Republican chances for top‑four slots. ([yahoo.com](https://www.yahoo.com/news/articles/mary-peltola-strongest-likely-candidate-100000778.html?utm_source=openai))
+- Recent controversies and legislative scrutiny: Coverage documents controversy around Crum’s actions as Revenue Commissioner (e.g., committing a $50M investment and legislative concern), which could depress voter support and be used by opponents. Local reporting highlights that the Revenue Department drew legislative ire prior to his resignation. That is a possible headwind for statewide appeal. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2025-10-09/crum-defends-use-of-alaskas-savings-for-private-equity-investment-as-governor-orders-review?utm_source=openai))
 
-Summary of the factual picture
-- Candidate field and electoral rules: The 2026 Alaska governor race is a large, crowded field with both Republicans and Democrats running together in a nonpartisan top‑four primary; the general uses RCV. That increases the number of plausible paths for different candidates to reach the top four (splitting and consolidation dynamics matter). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election))
+Evidence that suggests the market price might be too LOW (i.e., Crum more likely than 21%):
+- Statewide executive experience and visibility: Crum served as Alaska’s Revenue Commissioner and previously led other state agencies, giving him statewide policy experience and name presence in government circles; that could translate to stronger performance than a pure unknown. Local reporting notes his visibility as one of the Dunleavy administration’s commissioners. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2025-10-09/crum-defends-use-of-alaskas-savings-for-private-equity-investment-as-governor-orders-review?utm_source=openai))
+- Fundraising and self-funding capacity: Fundraising reports place Crum among the larger early fundraisers in the crowded field (~third with ~$350k reported in one fundraising round), with personal/family contributions noted; that money can buy organizing/ad reach and improve primary performance in a fragmented race. In a top‑four system, a modest but concentrated base plus advertising can be enough to reach a 4th‑place finish. ([kyuk.org](https://www.kyuk.org/alaska-state-news/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
 
-- Crum’s status and campaign organization: Adam Crum is a declared candidate (he registered a campaign and filed APOC paperwork) and was formerly Alaska’s revenue commissioner (and earlier served as a health commissioner). He has an active campaign website and is fundraising; state campaign filings show a registered committee. ([aws.state.ak.us](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3715&ViewType=LOI&utm_source=openai))
+Source credibility and recency
+- Official filings: Alaska APOC candidate filing/financial disclosure records show Crum filed and is an active candidate (state site). These are primary sources for candidate status and fundraising. Highly credible and recent. ([aws.state.ak.us](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3715&ViewType=LOI&utm_source=openai))
+- Local news outlets (Anchorage Daily News, KTUU, KTOO, Alaska Public, KYUK): These are established Alaska news organizations covering admissions, filings, controversies and fundraising; they are directly relevant and generally reliable for who has filed, fundraising totals, and reporting of controversies. Most pieces cited are from Aug–Oct 2025 and a Feb 2026 fundraising summary — recent enough to matter for the 2026 primary. ([adn.com](https://www.adn.com/politics/2025/08/11/former-alaska-revenue-commissioner-is-the-8th-republican-to-enter-governors-race/?utm_source=openai))
+- Poll summaries (Data for Progress / aggregator reporting): Polls cited are hypothetical and subject to change; their credibility depends on methodology and timing. They are useful signals but not determinative months before the primary. ([yahoo.com](https://www.yahoo.com/news/articles/mary-peltola-strongest-likely-candidate-100000778.html?utm_source=openai))
 
-- Fundraising and cash-on-hand (early reports): The first wave of 2026 campaign finance reports (released Feb 2026) shows the crowded field collectively raised several million dollars; Adam Crum reported roughly $350K in contributions (a sizable early amount, much of it self/family), ranking him among the better‑funded early entrants but not dominant. That gives him capacity to advertise and compete, but other candidates also reported six‑figure hauls. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
+Skeptical note: Many articles are snapshot reporting (candidate entry, fundraising) and hypothetical polling; none provide definitive recent statewide polling placing Crum in the top four. If it were obvious he would advance, we would expect consistent polling or clear fundraising/endorsement momentum; the absence of that argues the current market price is not obviously wrong.
 
-- Polling and name recognition (available public polls): Public polls so far show a fragmented race with Tom Begich often leading, and a wide spread of single‑digit support across many Republicans. In the publicly available snapshots I found, Crum is generally in the low single digits (Data for Progress and other early/public polls and press coverage show him substantially behind the leading figures). That suggests baseline odds of finishing top‑four are below the leaders’ odds unless he later gains momentum. (Polling summaries / state polling coverage). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election))
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation of current price (21%): Given a crowded statewide field with several better-known figures, contested fundraising, and a mixed signal from polls, assigning ~1‑in‑5 probability to a mid‑tier entrant with some money and admin experience is defensible — it reflects non‑zero viability but not front‑runner status.
+- Could price reflect only a few traders? Yes — low total volume ($3,828) and tight spread (4¢) means a small set of traders could set price. That increases chance the market reflects individual beliefs rather than broad aggregation. But the price itself is plausible given publicly available info.
+- Why low volume? The market’s low volume likely comes from (a) a crowded, low‑salience primary race (not national), (b) many casual traders avoid low-liquidity markets, and (c) participants may be waiting for more polling or for which notable Democrats enter. It does not necessarily prove mispricing — it raises the probability that price is set by a small group and might move quickly with new information.
 
-- Negative press/controversy that could affect voters: An independent review commissioned by Gov. Dunleavy (WilmerHale) examined Crum’s decision as revenue commissioner to commit state money to a private equity/infrastructure fund (DigitalBridge). The review raised “significant concerns” about whether Crum followed required due‑diligence/protocols; reporting (AP, Anchorage Daily News and the WilmerHale report) has emphasized this finding and attendant political controversy. That is active, recent negative news that is likely to depress Crum’s standing with fiscal/conservative voters and give opponents attack lines. ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
+4) MISPRICING ASSESSMENT
+- Is there credible evidence the market is missing large, concrete information that would materially change probability? No. The major observable facts (Crump’s candidate filing and fundraising; controversies; crowded field; polling snapshots that do not show him as a top-four lock) are already public and appear to be priced into a modest probability. I did not find:
+  - Recent statewide polls showing Crum in top four.
+  - Major endorsements or surge fundraising that would justify a large upward reevaluation.
+  - Any administrative or legal technicality that would guarantee or preclude his advancement ahead of time.
+- Verdict: The available evidence does not show a clear, large (>20¢) mispricing. If there is mispricing, it is probably modest (single-digit to low‑teens of cents), and could be either direction depending on future campaign developments (endorsements, withdrawals, a strong ad buy, or a major scandal). The market price of 21% is plausible given current publicly available information; absence of poll strength and presence of controversies support that the market is not obviously too generous.
 
-What specific evidence suggests the current market price (20%) might be incorrect?
-- Evidence implying the market may be too optimistic for Crum:
-  - Public polling snapshots show Crum at low single digits. If polls are roughly accurate and stable, a candidate at ~4–6% in a crowded field has substantially less than a 20% chance of finishing in the top four (because multiple other candidates occupy a larger share). This is the main bearish datapoint vs the market price. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election))
-  - The WilmerHale review + press coverage represent a salient negative news story tied directly to his prior official conduct; that could reduce support among fiscal‑conservative voters and donors at a decisive time, making a top‑four finish less likely. ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
+Critical check
+- I re‑checked the resolution criterion (top four in primary) and confirmed that is the correct standard; I found no indication the market’s wording or the primary rules differ from public information. The primary date and top‑four structure are standard for Alaska’s 2026 cycle. There is no indication the primary already occurred or that the candidate is ineligible; APOC filings show he is an active candidate. Thus there is no hidden technicality that would make a large mispricing obvious. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election?utm_source=openai))
 
-- Evidence implying the market may be too pessimistic (i.e., 20% understates his chance):
-  - Crum’s fundraising ($350K reported in the first reports) is meaningful in Alaska’s small media market and ranks him among the better funded early candidates; with effective deployment that can translate into jumps in support between now and the August primary (name recognition can move quickly). ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
-  - The nonpartisan, top‑four primary dynamic: with many Republican candidates splitting the same voter pool, a candidate with mid‑single‑digit support who consolidates an intra‑party niche (or benefits from a late endorsement or field thinning) can jump into the top four. The structural electoral rule increases variance and makes late movement more plausible than in a two‑candidate primary. ([elections.alaska.gov](https://www.elections.alaska.gov/election-information/?utm_source=openai))
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence (how strong/reliable is the specific evidence found that the market price is missing important public information): 40%
+  - Rationale: We have credible, recent primary sources (APOC) and reputable local reporting about fundraising and controversies, but no definitive polling or endorsements either strongly for or against Crum’s top‑four chances. That leaves moderate uncertainty.
+- Magnitude of plausible mispricing: I estimate at most ~8 cents (0.08) of upside or downside that remains plausibly unpriced given current public info. Rationale: With a top‑four structure and many entrants, single-digit changes in market probability are plausible as new information arrives; a change larger than 8–15 cents would require clear new evidence (major endorsement, major poll surge, or major scandal).
+- Expected value = Strength × Magnitude = 40% × 8 cents = 3.2 cents.
 
-Evaluation of source credibility and recency
-- Division of Elections material, APOC filings, and the WilmerHale pdf published by the governor’s office are primary, authoritative documents and recent (2025–2026). They are high‑credibility for rules, filings, and the review’s findings. ([elections.alaska.gov](https://www.elections.alaska.gov/election-information/?utm_source=openai))
-- AP and Anchorage Daily News are established press outlets; their reporting on the WilmerHale review and on the candidate field is timely and credible for current political context and the controversy narrative. ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
-- Fundraising coverage (Alaska Public / AP reports of campaign finance) is a reliable data point for early money raised; APOC filings are the ground truth for registration. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
-- Public polling is limited: there are early polls showing a fragmented field, but the polling universe is thin and the race is volatile. Polls are dated (some mid/late 2025 and early 2026) and may not capture late dynamics; treat them as suggestive, not definitive. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election))
+6) CONFIDENCE
+- medium
 
-Synthesis — bullish and bearish perspectives
-- Bearish (why 20% is high): Crum’s public polling position is weak (low single digits), and the WilmerHale review created an explicit negative storyline tied to stewardship of public funds; both suggest a materially lower chance than 20% unless he can erase the controversy and produce clear growth. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election))
-- Bullish (why 20% might be reasonable): He has mid‑level early fundraising, an established public service resume, and the top‑four format plus a splintered Republican field make jumps plausible. In a crowded primary, the vote share threshold to reach fourth place can be relatively low; a disciplined, better‑funded effort or a late collapse/withdrawal by another candidate could lift him into the top four. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
-
-Why the market could plausibly be correct without showing mispricing
-- Low total volume and zero reported total trading suggest the posted price may simply be an initial/offered price (or set by a small number of users) rather than an actively aggregated market consensus. In such low‑liquidity markets, prices often reflect a prior estimate or a single user's view rather than a true information‑efficient aggregation.
-- But 20% is not implausible given the structural rules (top four in a fragmented field) and Crum’s early fundraising — it falls into a range one might reasonably assign given the available, somewhat contradictory evidence (bad press vs fundraising + structural variance). Thus the price could be a reasonable compromise estimate rather than an obvious misprice. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
-
-3) MARKET EFFICIENCY ANALYSIS — how reliable is the market price?
-- Reasonable interpretations that justify the 20% price:
-  - The price encodes moderate baseline skepticism (Crump’s low public support + controversy) but leaves room for late momentum or consolidation because the top‑four format raises variance. In other words, the market may be pricing his conditional chance of making a late move.
-- Could the price represent only a few traders? Yes — the market reports $0 total volume and is low age but with a tight spread; that is consistent with it being an initial posted quote or a single user’s view. That makes the price unreliable as an information‑aggregation signal.
-- Why low volume might exist here:
-  - Outcome is fairly specific (exactly top four) and the candidate is not among the widely publicized front‑runners; this makes the market less attractive to active traders.
-  - Conversely, low volume could reflect correct consensus that Crum is an underdog but not impossible — many informed traders may have bigger opportunities. Both interpretations are plausible.
-
-4) MISPRICING ASSESSMENT — conclusion on whether there’s credible evidence of mispricing
-- Balanced judgment: There is no credible, specific, and missing piece of evidence that clearly indicates the market is mispriced by a large amount (e.g., >20 cents). Public polls and negative press together suggest he is less likely than 20% to advance; fundraising and the top‑four mechanic make a >0 chance plausible. Given the field, a mid‑single‑digit poll position often implies an undistinguished chance, but the top‑four rule raises tail risk (i.e., moderate chance of finishing fourth if others split).
-- I do not find specific, credible evidence that a 20% market probability is drastically wrong. Instead, I find evidence that slightly reduces the plausibility of 20% (polling + controversy) and evidence that supports some non‑negligible upside (funds + structural rules). Given low market liquidity, the posted price is not a strong signal either way — it could be an agnostic midpoint or single‑player quote.
-- Therefore I conclude: insufficient evidence to assert a large mispricing. If a mispricing exists, it is more likely modest (single‑digit to low‑teens of a dollar), not a huge inefficiency.
-
-5) EXPECTED VALUE CALCULATION (investigating / trading on this market)
-- Strength of evidence that something material is missing from the price: 40% (there are recent, credible negative developments not simply noise, but polling is sparse and dynamics may change).
-- Estimated plausible magnitude of mispricing (if any): ~8 cents (i.e., market 20% might be ~8 points too high relative to a conservative polling/controversy‑adjusted estimate of ~12%).
-- Expected value = Strength × Magnitude = 0.40 × 8 = 3.2 cents.
-
-Critical check (why I did not call a large mispricing)
-- I specifically avoided concluding a >20¢ mispricing because (a) the resolution rule (top‑four) materially increases variance compared with a two‑slot primary, (b) Crum has nontrivial early funding and establishment experience that can shift support, and (c) low market volume means the posted price may simply be an arbitrary initial quote. Those factors make large mispricings less credible absent stronger evidence (e.g., new large poll showing him well into top four, or a campaign collapse). ([elections.alaska.gov](https://www.elections.alaska.gov/election-information/?utm_source=openai))
-
-6) FINAL ASSESSMENT, recommendation and next steps
-- Short verdict: No clear, credible evidence of a large mispricing. The market price (20%) is defensible as a subjective midpoint: public polls and the WilmerHale controversy argue for a lower chance; fundraising and top‑four mechanics argue against collapsing his probability to near zero. The market’s low liquidity means the posted price should be treated cautiously — it may reflect a single viewpoint rather than an information‑efficient consensus. ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
-- If you are considering trading: this is a small, high‑variance bet. Expected informational edge from publicly available sources appears limited (EV ≈ 3.2¢ by my estimate). Watch for (a) new public polls that include Crum, (b) further fallout or defense regarding the WilmerHale review, and (c) significant fundraising/endorsement moves or withdrawals by other candidates — any of those would materially change the probability and could create clearer mispricings.
-
+Final short answers required
 EXPECTED_VALUE: 3.2
-SUMMARY: Adam Crum is a declared candidate with meaningful early fundraising but recent credible negative press (the WilmerHale review) and low single‑digit polling in a crowded top‑four primary; given that mixed evidence and the market’s zero reported volume, I find no clear, large mispricing but only modest potential mispricing (EV ≈ 3.2¢). ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
+SUMMARY: Adam Crum is a recent entrant and former state Revenue Commissioner with some fundraising and visibility, but he sits in a crowded GOP field and has been the subject of controversy; public polling snapshots to date do not show him as a clear top‑four candidate. Given current public data and low market volume, the market’s 21% probability is plausible and I find no strong, specific evidence of a large mispricing — any mispricing is likely modest. ([aws.state.ak.us](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3715&ViewType=LOI&utm_source=openai))
 CONFIDENCE: medium
 
 ---
@@ -93,42 +76,42 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Election Information - Division of Elections](https://www.elections.alaska.gov/election-information/)
-**Author:** Unknown | **Published:** Unknown
+### [Disclosure Form View Amendment](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3715&ViewType=LOI)
+**Author:** Unknown | **Published:** 2025-08-11
 
-Official Alaska Division of Elections pages listing the 2026 election dates and explaining the nonpartisan top‑four primary system (the primary date is shown as August 18, 2026). This is primary authority on how this market resolves (top four advance, date, and that official state results are the resolution fallback). It directly establishes the precise resolution condition for the market (Yes if Crum finishes among top four in the August 18, 2026 primary) and explains why the top‑four format increases variance in who advances (a key structural factor supporting possible upside for lower‑polling candidates). ([elections.alaska.gov](https://www.elections.alaska.gov/election-information/?utm_source=openai))
+This is an Alaska Public Offices Commission (APOC) entry showing Adam F. Crum filed a letter of intent / disclosure as a candidate for Governor for the 2026 State Primary. It confirms Crum’s official candidate status, filing date, and contact info; this primary-source evidence establishes he is a legitimate, active candidate and anchors any probability assessment. This supports the market’s premise that Crum is an eligible contender and that the market should be evaluating his chance to finish in the top four.
 
-### [Former revenue commissioner deviated from state law when investing Alaska's savings, review finds](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a)
-**Author:** Unknown (AP) | **Published:** 2026-01-26
+### [Former Alaska revenue commissioner is the 8th Republican to enter governor’s race - Anchorage Daily News](https://www.adn.com/politics/2025/08/11/former-alaska-revenue-commissioner-is-the-8th-republican-to-enter-governors-race/)
+**Author:** Unknown | **Published:** 2025-08-11
 
-Associated Press coverage of the independent WilmerHale review finding “significant concerns” about Adam Crum’s process in committing state savings to a private equity fund (DigitalBridge), including insufficient due diligence. This piece is recent and high credibility; it documents the principal negative news item that could depress Crum’s electoral prospects by providing opponents with a tangible fiscal‑stewardship attack and by reducing trust among fiscal conservatives. The negative press is an important bearish factor relative to a 20% probability. ([apnews.com](https://apnews.com/article/f498d63ee888ad7f70beaffb95de056a?utm_source=openai))
+Local reporting on Adam Crum’s filing/entry into the governor’s race, summarizing his role as former Revenue Commissioner and placing him among a large Republican field. The article details context (other candidates) and notes controversies around his department’s actions. This supports the view that Crum is a mid‑field entrant facing stiffer competition and possible headwinds — evidence that weighs against a high probability of advancing.
 
-### [WilmerHale — Independent Review Findings and Recommendations (PDF)](https://gov.alaska.gov/wp-content/uploads/WilmerHale-Independent-Review-Findings-and-Recommendations_2026.01.14.pdf)
-**Author:** WilmerHale (published by Governor's Office) | **Published:** 2026-01-14
+### [Former revenue commissioner files bid for governor, expanding roster to 8 candidates (KTUU / Alaska's News Source)](https://www.alaskasnewssource.com/2025/08/11/former-revenue-commissioner-files-bid-governor-expanding-roster-8-candidates/)
+**Author:** Unknown | **Published:** 2025-08-11
 
-The WilmerHale independent review (commissioned by the governor’s office) is the primary source document summarizing the firm’s investigation and findings regarding the Department of Revenue’s investment commitments signed by then‑commissioner Adam Crum. It lays out the factual findings and “significant concerns” language cited by news outlets; because it is the source of the controversy, it is central to assessing how much the controversy should move voters and donors (and therefore how much it should be expected to affect Crum’s top‑four chances). ([gov.alaska.gov](https://gov.alaska.gov/wp-content/uploads/WilmerHale-Independent-Review-Findings-and-Recommendations_2026.01.14.pdf?utm_source=openai))
+KTUU coverage reports Crum’s filing and notes controversy around the oil and gas tax audit and questions about the Department of Revenue during his tenure. It provides contemporaneous reporting of his resignation and campaign entry, reinforcing that his candidacy is public knowledge and that controversies could affect voter support. This challenges an overly optimistic market price.
 
-### [10 candidates report six-figure hauls from early fundraising in Alaska governor’s race](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race)
+### [Former Alaska revenue commissioner Adam Crum joins 2026 race for governor (KTOO)](https://www.ktoo.org/2025/08/12/former-alaska-revenue-commissioner-adam-crum-joins-2026-race-for-governor/)
+**Author:** Unknown | **Published:** 2025-08-12
+
+KTOO local reporting on Crum’s entry provides background on his state service and frames him as one of multiple Republican candidates. It is useful for assessing his profile and likely standing relative to better‑known figures; it supports the conclusion that he is a viable candidate but not an established frontrunner.
+
+### [10 candidates report six-figure hauls from early fundraising in Alaska governor’s race (KYUK)](https://www.kyuk.org/alaska-state-news/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race)
 **Author:** Unknown | **Published:** 2026-02-18
 
-Alaska Public (APRN) reporting on the first wave of 2026 campaign finance reports. The article notes the total raised and lists Adam Crum as roughly $350,000 in contributions (much from self/family), placing him among the top early fundraisers. This is important because fundraising level in a small state like Alaska is predictive of a candidate’s ability to build name recognition and run ads — a bullish factor against a purely poll‑based dismissal. ([alaskapublic.org](https://alaskapublic.org/news/politics/alaska-legislature/2026-02-18/10-candidates-report-six-figure-hauls-from-early-fundraising-in-alaska-governors-race?utm_source=openai))
+This fundraising summary shows early-round reporting and places Adam Crum third among reported fundraisers with roughly $350,000 (much self/family-funded). It indicates Crum has campaign resources that could improve his odds in a fragmented primary, supporting a non-zero probability of advancing — evidence that could argue the market’s 21% is reasonable or modestly conservative.
 
-### [Former revenue commissioner is the 8th Republican to enter governor’s race](https://www.adn.com/politics/2025/08/11/former-alaska-revenue-commissioner-is-the-8th-republican-to-enter-governors-race/)
-**Author:** Unknown | **Published:** 2025-08-11
+### [Crum defends use of Alaska’s savings for private equity investment as governor orders review (Alaska Public Media)](https://alaskapublic.org/news/politics/alaska-legislature/2025-10-09/crum-defends-use-of-alaskas-savings-for-private-equity-investment-as-governor-orders-review)
+**Author:** Unknown | **Published:** 2025-10-09
 
-Anchorage Daily News reporting that Adam Crum entered the governor’s race (context on his resume and political background). The piece provides context on the crowded field and the fact that multiple Republicans have declared, framing the competitive landscape in which Crum operates. Useful for understanding baseline name recognition and the candidate pool he must beat to reach the top four. ([adn.com](https://www.adn.com/politics/2025/08/11/former-alaska-revenue-commissioner-is-the-8th-republican-to-enter-governors-race/?utm_source=openai))
+Reporting on the controversy where Crum, as Revenue Commissioner, committed state funds to an external investment firm and faced legislative review. This documents a reputational and political liability that could reduce statewide support and plausibly lower his chances of finishing in the top four; thus it weighs against an above‑market probability absent corrective campaign developments.
 
-### [2026 Alaska gubernatorial election (Wikipedia — polling and candidate summary)](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election)
-**Author:** Unknown | **Published:** Retrieved 2026-03-13 (page updated recently)
+### [2026 Alaska gubernatorial election (Wikipedia)](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election)
+**Author:** Unknown | **Published:** Unknown
 
-Consolidated summary of candidates, polling snapshots, and the top‑four primary description. The page aggregates several public polls showing a fragmented field (with Tom Begich often leading and many candidates in the single digits). It is a secondary source; polling entries cited there (and linked references) helped establish that public polls place Crum in low single digits in early samples, which is a key datapoint when judging whether a 20% market price is high. Use it as a polling summary with the caveat that original poll crosstabs and methodology should be consulted when making a trade. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election))
+The Wikipedia page summarizes the 2026 Alaska governor race, lists declared candidates (including Adam Crum), and notes the top‑four nonpartisan primary / ranked‑choice general framework and key dates. It provides a concise statement of the electoral system and the relevant nomination rules that determine market resolution (top four advance), which is central to interpreting the market’s question.
 
-### [Independent report released on former DOR commissioner’s dealings with state budget reserve investment](https://www.alaskasnewssource.com/2026/01/20/independent-report-released-former-dor-commissioners-dealings-with-state-budget-reserve-investment/)
-**Author:** Unknown | **Published:** 2026-01-20
+### [Mary Peltola would be the strongest likely candidate for Alaska governor, poll shows (Yahoo / Data for Progress summary)](https://www.yahoo.com/news/articles/mary-peltola-strongest-likely-candidate-100000778.html)
+**Author:** Unknown | **Published:** 2025-08-08
 
-Local TV/newssite coverage (KTUU/Alaska’s News Source) summarizing the WilmerHale report and noting the political context (Crum resigned and then launched a campaign). This local coverage helps confirm the timing and local political reaction to the review — relevant because local perception and press framing often matter more than national summaries in state races. It supports the view that the DigitalBridge episode is salient and potentially damaging in the Alaska electorate. ([alaskasnewssource.com](https://www.alaskasnewssource.com/2026/01/20/independent-report-released-former-dor-commissioners-dealings-with-state-budget-reserve-investment/?utm_source=openai))
-
-### [Disclosure Form View Amendment — Adam Crum (APOC)](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3715&ViewType=LOI)
-**Author:** Unknown | **Published:** 2025-08-11
-
-Alaska Public Offices Commission (APOC) filing showing Adam Crum’s campaign registration details for the 2026 governor’s race (filing date and contact information). This is authoritative evidence that he has an actual registered campaign committee and is an active entrant — useful to confirm the campaign’s formal status and ground truth for any campaign finance reports. ([aws.state.ak.us](https://aws.state.ak.us/ApocReports/Common/View.aspx?ID=3715&ViewType=LOI&utm_source=openai))
+This article summarizes polling (Data for Progress) showing hypothetical ballots where Mary Peltola would lead if she entered; poll results listed likely top‑four names in some scenarios and do not include Crum among those front‑runners. It shows how the entry of a major Democrat or particular frontrunners materially changes who is likely to advance, underscoring that public polling (if it remains similar) works against Crum and supports the market’s modest probability.

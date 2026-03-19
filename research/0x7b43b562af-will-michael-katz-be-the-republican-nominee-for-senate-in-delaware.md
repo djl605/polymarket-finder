@@ -1,7 +1,7 @@
 # Research: Will Michael Katz be the Republican nominee for Senate in Delaware?
 
 **Market ID:** 0x7b43b562afcc2ee7e35bc22234f1ab8a35d84996a8ddcdd57a2f4842f5114e27
-**Researched At:** March 12, 2026 at 06:21:59 PM UTC
+**Researched At:** March 19, 2026 at 04:41:39 AM UTC
 **Search Query:** "Will Michael Katz be the Republican nominee for Senate in Delaware?"
 
 ---
@@ -9,67 +9,75 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.8¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Katz is a declared Republican primary candidate (FEC filing Jan 17, 2026) but has weak prior statewide results (≈3.9% in 2024) and faces at least one Republican-aligned opponent (John Shulli). Public evidence modestly suggests the market (43.5%) may overstate Katz’s win probability, but lack of public polling, endorsements, and fundraising data means the mispricing is plausible but not certain.
+Michael Katz has formal FEC filings and an active campaign showing he is a live Republican entrant, but his recent party switching, modest prior vote totals, and competing GOP candidates — with no public polling or major endorsements found — make a large mispricing unlikely. Given $0 trading volume and a tight spread, the market price may reflect limited attention rather than a well-aggregated consensus; a modest (single‑digit cent) edge is possible but not strongly supported.
 
 ### Full Analysis
 
-Below I researched the 2026 Delaware Republican U.S. Senate primary and evaluated whether the current prediction-market price (43.5% for Michael Katz; market age 15 days, $0 total volume, 3¢ spread) shows credible evidence of mispricing. I focused on primary-source reporting, official filings, campaign materials, and local news (I excluded prediction-market sites per your instruction). Key load-bearing findings are cited inline.
+Plan and scope
+- I used the allowed web searches to confirm (a) whether Michael Katz is an active Republican entrant in the 2026 Delaware U.S. Senate Republican primary, (b) who his Republican primary opponents are, and (c) public/electoral evidence about Katz’s strength (past vote totals, filings, press coverage, endorsements or lack thereof). My web.run searches found official filings, local press, campaign materials, and party pages. Key uncertainty remains: no public polling or major endorsements for the 2026 Delaware GOP primary were found.
 
-1) CONTEXT ANALYSIS — what the market asks and resolution conditions
-- Market question: "Will Michael Katz be the Republican nominee for Senate in Delaware?" That resolves YES if Michael Katz wins the Delaware Republican primary for U.S. Senate (the first announcement of results from the Delaware Republican Party is the resolution source; overwhelming credible reporting may suffice). It resolves NO if any other candidate (including John Shulli or a future Republican entrant) wins the Republican primary, or if no Republican primary takes place (per market rules). (Primary date: Sept 15, 2026; market description confirms resolution by Republican primary winner). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware))
+1) CONTEXT ANALYSIS — what the market is asking and resolution conditions
+- Market question: “Will Michael Katz be the Republican nominee for Senate in Delaware?”
+- YES if: Michael Katz wins the Delaware Republican primary for U.S. Senate (the market’s resolution rule: winner of the Republican Primary; if no Republican primary occurs the market resolves to “Other”; the market will use the Delaware Republican party’s first announcement of results or overwhelming credible reporting).
+- NO if: any other candidate wins the Republican primary, the primary does not occur and “Other” is triggered, or Katz is disqualified/withdraws before a resolution and someone else wins. (Sources confirming resolution rule and filing context are cited below.) ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
 
-2) EVIDENCE EVALUATION — what facts are relevant and how they point for/against Katz winning
+2) EVIDENCE EVALUATION — all relevant facts and how they affect the probability
+a) Evidence that Katz is a credible Republican entrant
+- FEC filing: Michael S. Katz designated a principal campaign committee listed with the FEC for a Senate campaign and associated it with the Republican party on 2026-01-17. This is a formal, official signal he is running as a Republican in 2026. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
+- Katz campaign presence: Katz’s campaign website states he is running for U.S. Senate and positions himself for the 2026 effort. That shows an active campaign infrastructure/announcement. ([drmikekatz.com](https://www.drmikekatz.com/?utm_source=openai))
+- Local party/county pages and other candidate lists include Katz as a filed Republican candidate, indicating he is listed among Republicans for this contest. ([sussex.gop](https://www.sussex.gop/up-for-election?utm_source=openai))
 
-Facts established by primary sources
-- Katz has filed an FEC Statement of Candidacy for U.S. Senate as a Republican (filed Jan 17, 2026) and operates a campaign site (he previously ran statewide in 2024 as the Independent Party of Delaware candidate). This establishes he is an active, declared Republican primary candidate. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf))
-- John Shulli has also filed and is listed as a Republican candidate (FEC filing and Delaware Dept. of Elections candidate lists show Shulli as a Republican U.S. Senate filer). Local GOP events and club schedules list both Katz and Shulli as Republican primary candidates. So the Republican primary currently has at least two declared contenders. ([docquery.fec.gov](https://docquery.fec.gov/pdf/949/202601159794005949/202601159794005949.pdf?utm_source=openai))
-- Katz was on the 2024 statewide general-election ballot as the Independent Party of Delaware nominee and received only a small statewide vote share (~3.9% in 2024). That establishes prior statewide name recognition but weak general-election performance as a third-party candidate. ([bluedelaware.com](https://bluedelaware.com/2024/11/05/delaware-election-results-2/?utm_source=openai))
+Implication: Katz meets the formal conditions to be on the ballot/compete; this supports he is a live contender rather than a theoretical candidate.
 
-Evidence that suggests the market price might be too high for Katz (bearish for YES)
-- Primary electorate composition: Republican primary voters are a narrower, more conservative electorate than the general electorate. Katz, a former Democratic state senator who ran as an independent in 2024 and only received ~3.9% in the 2024 general, may not have the core Republican base support that GOP primary voters prefer; that makes him plausibly the underdog against a Republican-aligned candidate (John Shulli is described in sources as an Army Reserve colonel and War College instructor, credentials that often perform well with GOP primaries). The combination of Katz’s party-switch history and low 2024 vote share are specific facts that reduce a baseline prior for his primary win probability. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Michael_Katz_%28politician%29?utm_source=openai))
-- No evidence of major statewide Republican endorsements or strong fundraising advantage for Katz is visible in public filings/news so far (I located Katz’s Form 2 filing and campaign presence but not a strong fundraising/endorsement footprint). In low-information primaries, organizational strength, endorsements, and cash matter; absence of visible strength argues Katz is less likely to be favored. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf))
+b) Evidence that argues Katz may have limited probability to win the GOP nomination
+- Past electoral performance / party history: Katz ran in 2024 as an Independent after a history as a Democrat; 2024 vote totals show small vote share for Katz as a third‑party/independent in 2024. That history suggests he may have weaker support among core Republican primary voters compared with long-time GOP activists. ([delawarepublic.org](https://www.delawarepublic.org/politics-government/2024-01-28/former-state-sen-mike-katz-launches-bid-for-u-s-senate-with-independent-party-of-delaware?utm_source=openai))
+- Competing Republican entrants: John Shulli and at least one other Republican appear to be running (Shulli has a campaign presence and committee filings), so Katz faces intra-party competition. A multi-candidate GOP field lowers the chance that a recent party-switcher will consolidate primary voters. ([fec.gov](https://www.fec.gov/data/committee/C00933663/?utm_source=openai))
+- Lack of public polling, major statewide endorsements, or major fundraising signals (no public high-profile endorsements or large FEC receipts noted in the sources searched). Absence of those positive signals weakens a case that Katz is the frontrunner. (I found the FEC filing but not large fundraising or major endorsements.) ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
 
-Evidence that supports the market price (bullish for YES)
-- Katz has prior statewide candidacies (former state senator; 2024 statewide candidate) and ongoing campaign activity. Name recognition from prior office and a state-level campaign infrastructure could plausibly make him competitive in a low-turnout primary where a candidate with a statewide network and active campaigning can perform better than expected. Katz’s presence at Republican club events indicates he’s actively courting Republican voters. That plausibly pushes his probability materially above trivial single-digit levels. ([drmikekatz.com](https://www.drmikekatz.com/?utm_source=openai))
-- The Republican electorate in Delaware is small; with low-turnout primaries, outcomes sometimes hinge on organizational turnout and who shows up. In a two-person Republican primary where both candidates are relatively obscure statewide, a moderate candidate with broader name recognition can win if he persuades enough GOP voters (this is a structural argument, not direct evidence for Katz, but it keeps his probability non-negligible). No public polling so far makes the race information-poor and increases uncertainty.
+Implication: Katz is a real candidate but has features (recent party switching, weak prior third-party performance, competing Republican entrants, and no discovered high-profile endorsements/polling) that plausibly limit his nomination probability relative to a GOP incumbent-style favorite.
 
-Assessment of evidence quality and recency
-- FEC filings and the Delaware Dept. of Elections candidate list are authoritative and recent (January 2026 filings). Local reporting (Cape Gazette, Sussex GOP calendars) is current and relevant to candidate activity. The 2024 election returns and contemporary local reporting about Katz’s 2024 performance are reliable. There is no recent public statewide polling of the Republican primary; that is a material information gap. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf))
+c) Evidence that argues Katz could plausibly have a sizable chance (i.e., why the market’s ~43% is defensible)
+- Active campaign + formal filings: the combination of a campaign website and an FEC filing shows Katz can organize, fundraise and appear on ballots; in a low-profile primary a well-organized candidate can win if others are weak. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
+- Delaware GOP environment and turnout dynamics: Delaware is a small state where low-turnout primaries and local endorsements can swing nominations; in such contexts an enterprising candidate with cross-party appeal could do better than statewide general-election history suggests. (This is a contextual inference—no explicit poll or endorsement found to quantify this advantage.) ([sussex.gop](https://www.sussex.gop/up-for-election?utm_source=openai))
 
-Why the market might still be correct despite the bearish points
-- The market price (~43.5%) could reflect private information not publicly visible (late endorsements, internal organization, volunteers, local county-level strength) or traders’ prior that Katz’s prior statewide campaigns give him an edge in name recognition among likely primary voters. The market’s low volume ($0) suggests a single/very-small set of traders set the price — but a credible trader with local contacts could know things not in national reporting. Given the absence of public polling, it is plausible an informed trader assigns Katz a ~40%+ chance. (That is a charitable interpretation to explain the market price.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware))
+d) Source credibility and recency
+- FEC filing (official government record) is high-credibility and recent (Jan 17, 2026). ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
+- Local press (Delaware Public Media, local TV station coverage) are reputable for state election reporting and show Katz’s prior (2024) independent run and his political background. These are credible for background/context. ([delawarepublic.org](https://www.delawarepublic.org/politics-government/2024-01-28/former-state-sen-mike-katz-launches-bid-for-u-s-senate-with-independent-party-of-delaware?utm_source=openai))
+- Campaign website is primary-source for Katz’s stated intentions (self-published, useful for presence but not unbiased). ([drmikekatz.com](https://www.drmikekatz.com/?utm_source=openai))
+- Party or county GOP pages are useful to confirm a candidate is listed among those who’ve filed; their credibility for filings is moderate-high but they are not definitive ballot certification. ([sussex.gop](https://www.sussex.gop/up-for-election?utm_source=openai))
+- I did not find reputable statewide/national polling or large fundraising reports for this GOP primary; that lack lowers ability to detect mispricing.
 
-3) MARKET EFFICIENCY ANALYSIS — can the current price be trusted?
-- Interpretations that justify 43.5%: (a) genuine consensus among informed locals who attended club events and judged Katz competitive based on on-the-ground organizing; (b) a trader using Katz’s statewide name recognition to assign him near-even odds in a low-turnout two-way primary; or (c) mere initial price-setting by one or a few traders with no volume (the market metrics – $0 volume, 15d age – favor (c)).
-- Could it be a few participants? Yes. $0 total volume means no liquidity-driven aggregation has occurred; the price could be the opinion of one or two traders or even a market-maker’s initial inventory management. That makes the price fragile. The small spread (3¢) is a platform/market-making artifact and does not imply many traders agree. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware))
-- Is the low volume because outcome is obvious? No — the absence of public polling and the competitive field argue the outcome is not obvious. Low volume therefore more likely reflects limited attention from traders rather than broad consensus. That increases the chance of inefficiency.
+3) MARKET EFFICIENCY ANALYSIS — can the market price be justified?
+- Reasonable-charitable explanation for a 43% price:
+  - Traders may be splitting probability among a small field (e.g., Katz ~43%, Shulli ~50% in adjacent markets) based on filings and perceived name recognition. The FEC filing and active campaign make a ~30–50% prior plausible in a head-to-head or narrow-multicandidate primary when information is sparse. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
+  - The market maker or an early trader likely set a mid-range price because no clear frontrunner has dominant evidence (no polls, no major endorsements). With sparse information, a sub-50% but substantial number is a reasonable compromise.
+- Could price reflect a single trader’s view? Yes — total volume is $0 and the spread is tight (4¢). Tight spread despite $0 volume often indicates the market price was placed and not traded upon — the apparent precision may therefore be illusory. That raises the risk that the price reflects one or very few traders rather than broad aggregation.
+- Is low volume because outcome is obvious or because informed traders haven't engaged?
+  - The available evidence suggests the outcome is not obvious (competing candidates; party-switcher candidate). Low volume more likely indicates limited attention by informed traders rather than consensus certainty. The absence of public polling and endorsements supports that interpretation. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
 
-4) MISPRICING ASSESSMENT — weighing both sides and applying the critical check
-- My read: public, verifiable evidence (Katz’s 2024 vote share as an independent; his recent party switch; the presence of at least one Republican-aligned opponent, John Shulli, with military credentials; lack of visible major endorsements/fundraising advantage) suggests Katz is plausibly the underdog in a Republican primary. That tends to push his win probability below the market's ~43.5%.
-- Counterpoint: Katz’s state-level name recognition and active campaigning could make him competitive in a small-turnout primary, so a sizable underdog probability is sensible. Also, private or local endorsements/organizing not publicly reported could materially change his chances — a risk when inferring mispricing.
-- CRITICAL CHECK (per your instructions): Before concluding >20¢ mispricing, I re-checked (a) resolution criteria (winner of Republican primary) — I understand it correctly; (b) candidate status — Katz has an FEC Form 2 and is listed by the state as a filer; (c) timing — primary is Sept 15, 2026, so there is substantial time for dynamics to shift; (d) potential missing info — local endorsements, internal fundraising, or a late Shulli dropout could shift the probability. Given these, claiming a large (>20¢) mispricing would be risky without evidence of concrete, missing facts (e.g., a major endorsement, an organized GOP convention result, or decisive fundraising leads) that the market has not priced. I do not find such conclusive, missing information in public sources. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf))
+4) MISPRICING ASSESSMENT — do we have credible evidence that the market is mispriced?
+- Do I have high-confidence, specific evidence missing from the market price that would move it materially (>20¢)? No.
+  - Supporting this judgment: the most concrete evidence I found (FEC filing, campaign website, candidate listings) shows Katz is a live candidate but does not indicate a clear frontrunner or near-certainty. There are competing GOP entrants with their own filings. No polling, big fundraising numbers, or strong endorsements were found that would sharply increase or decrease Katz’s odds beyond the ~43% range.
+- Evidence that could move the price (but was not found in my searches): early primary polling, large FEC receipts or big endorsements for Katz or an opponent, state party endorsements or convention outcomes. Because those are missing, the market price is plausibly within a reasonable band of uncertainty.
+- Conclusion on mispricing: Insufficient convincing evidence to declare a large mispricing. The market could still be slightly inefficient (common with $0 volume markets), but I do not have solid, credible, publicly-available information that is obviously omitted from the market and would justify declaring a large mispricing (>20¢). A modest mispricing (single-digit to low-teens of cents) is possible but not proven.
 
-Conclusion for mispricing
-- There is suggestive evidence that the market may be somewhat optimistic about Katz (Katz looks disadvantaged vs. an actual Republican primary electorate), but no specific, concrete public information indicates the market is massively wrong. The biggest data gap is the absence of public polling and publicized endorsements/fundraising numbers; those could justify either direction. Because the market has $0 volume, the price is fragile and could be corrected cheaply by an informed trader — but that does not prove a misprice exists now.
+CRITICAL CHECK: What could I be missing?
+- Possibilities: behind-the-scenes state-level endorsements, internal party processes (convention/endorsement that strongly favors another candidate), or late withdrawals that would change the nomination dynamics. Also, the market’s resolution criteria rely on the Delaware Republican party’s announcement; if party processes produce unexpected outcomes, market could resolve unpredictably. I searched official filings and local press but did not find evidence of these items in the public record as of March 19, 2026. ([docquery.fec.gov](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf?utm_source=openai))
 
-5) EXPECTED-VALUE CALCULATION
-- My subjective point estimate for Katz winning the Republican primary, based on public evidence, is ~28.5% (market: 43.5%). This places an estimated magnitude of mispricing ≈ 15.0 cents (market overpriced Katz by 15.0¢).
-- Strength of evidence that this mispricing is actually present: I rate this at ~45% (moderate). Rationale: (i) concrete facts (Katz’s modest 2024 result, party-switch history, presence of Shulli) point him down vs. market; (ii) but absence of polling/endorsement/fundraising data and possible private info reduce confidence.
-- Expected value = Strength × Magnitude = 0.45 × 15.0¢ = 6.75¢.
-- I will report this rounded to one decimal place as EXPECTED_VALUE: 6.8 (cents).
+5) EXPECTED VALUE CALCULATION (my estimate)
+- Strength of evidence: 40%. Rationale: We have high-quality confirmation Katz is a Republican entrant (FEC) and campaign presence, but we lack polling/fundraising/endorsement data that would be the most load-bearing evidence. (40% reflects modest confidence that currently-unseen public signals would change the assessment.)
+- Magnitude of plausible mispricing: 10 cents. Rationale: Given visible facts, a moderate error is possible (market may under- or over-value Katz by a single-digit amount), but there’s no basis to claim a large (>20¢) error.
+- Expected value = 40% × 10¢ = 4.0¢
 
-6) CONFIDENCE IN ASSESSMENT
-- Overall confidence: medium. The evidence is current and comes from authoritative filings and local reporting, but the information gap on turnout, endorsements, and fundraising for the Republican primary leaves substantial uncertainty.
+Bottom-line judgement
+- The market price (43%) is plausible given the available public evidence: Katz is a real Republican candidate with an active campaign and FEC filing, but he faces competition and has limited indicators (polling/fundraising/endorsement) of being the clear favorite. The market’s tight spread with $0 volume suggests price precision is not supported by active trading and could reflect few traders’ views. I find no strong, specific public evidence that the market is mispriced by a large amount. A small mispricing of a few cents is plausible but not certain.
 
-Bottom-line recommendation for a trader/analyst
-- The market price (43.5%) is plausible but fragile. Public evidence modestly favors Katz being less than a coin-flip favorite; I estimate his true chance nearer to ~28–30%. Because the market has $0 volume and a narrow spread, an informed trader who can verify local organizing/endorsements or confirm a fundraising edge could exploit a mispricing of the size estimated above — but absent that confirmation, the expected-value is modest (~6.8¢), and risk of missing private information is material. If you are considering trading against this market, attempt to verify on-the-ground Republican organizing and any private endorsements/fundraising before placing large bets.
-
-EXPECTED_VALUE: 6.8
-SUMMARY: Katz is a declared Republican primary candidate (FEC filing Jan 17, 2026) but has weak prior statewide results (≈3.9% in 2024) and faces at least one Republican-aligned opponent (John Shulli). Public evidence modestly suggests the market (43.5%) may overstate Katz’s win probability, but lack of public polling, endorsements, and fundraising data means the mispricing is plausible but not certain.
+EXPECTED_VALUE: 4.0
+SUMMARY: Michael Katz has formal FEC filings and an active campaign showing he is a live Republican entrant, but his recent party switching, modest prior vote totals, and competing GOP candidates — with no public polling or major endorsements found — make a large mispricing unlikely. Given $0 trading volume and a tight spread, the market price may reflect limited attention rather than a well-aggregated consensus; a modest (single‑digit cent) edge is possible but not strongly supported.
 CONFIDENCE: medium
 
 ---
@@ -78,47 +86,32 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [FEC FORM 2 — STATEMENT OF CANDIDACY (Katz, Michael S., Dr.) (PDF)](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf)
-**Author:** Federal Election Commission (document) | **Published:** 2026-01-17
+### [FEC PDF: Statement of Organization / Committee designation (Katz, Michael)](https://docquery.fec.gov/pdf/519/202601179794029519/202601179794029519.pdf)
+**Author:** Unknown | **Published:** 2026-01-17
 
-This is the official FEC Form 2 (Statement of Candidacy) for Michael S. Katz for U.S. Senate, filed January 17, 2026. It confirms Katz has formally designated a principal campaign committee and registered his candidacy as a Republican for the 2026 Senate election. This is a primary source establishing Katz’s declared status and is central to the market resolving to YES if he wins the Republican primary; it supports the fact that Katz is actively running and should appear on ballot/filings. The filing does not, however, show fundraising totals or endorsements, so it confirms candidacy but not electoral strength.
+This FEC filing shows Michael S. Katz designated a principal campaign committee for a Senate campaign and lists party affiliation tied to a Republican Senate campaign (record dated January 17, 2026). This is primary, high‑credibility evidence Katz is formally running as a Republican in 2026; it supports the market’s premise that Katz is a legitimate entrant and therefore eligible to win the Republican primary (which is necessary for a YES resolution).
 
-### [FEC — SHULLI FOR SENATE (committee overview)](https://www.fec.gov/data/committee/C00933663/)
-**Author:** Federal Election Commission (site) | **Published:** 2026-01-08 (statement of organization date shown)
+### [Dr. Mike Katz For U.S. Senate](https://www.drmikekatz.com/)
+**Author:** Unknown (campaign website) | **Published:** Unknown
 
-The FEC committee page shows the principal campaign committee registration details for John Shulli (SHULLI FOR SENATE) including a statement-of-organization filing date (Jan 8, 2026). This is authoritative proof that Shulli is a filed Republican candidate and provides a factual basis for concluding Katz faces Republican opposition in the primary. It does not by itself show relative fundraising totals, but it establishes the two-person contested field that makes the primary outcome uncertain.
+Katz’s campaign website states his 2026 Senate campaign and lays out his campaign messaging. As a primary-source, it confirms public campaign activity (announcements, platform framing) and supports the conclusion Katz is an active candidate rather than a non-runner. This supports the market’s assumption that Katz can legitimately compete; it does not by itself indicate polling strength or likely nomination.
 
-### [2026 General Election Candidate List - Department of Elections - State of Delaware](https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.shtml)
-**Author:** State of Delaware — Department of Elections | **Published:** Unknown (page updated during 2026 filings; current as of March 2026)
+### ["Former State Sen. Mike Katz launches bid for U.S. Senate with Independent Party of Delaware" — Delaware Public Media](https://www.delawarepublic.org/politics-government/2024-01-28/former-state-sen-mike-katz-launches-bid-for-u-s-senate-with-independent-party-of-delaware)
+**Author:** Unknown (Delaware Public Media) | **Published:** 2024-01-28
 
-The Delaware Department of Elections candidate list shows the filed candidates for statewide offices in 2026 and lists John Shulli and Michael Katz as filed for the U.S. Senate (Republican). This is the official state source for candidate qualification and status, and it corroborates the FEC filings and the market’s resolution criteria that rely on official party/primary results. The state listing is essential to confirm both Katz’s and Shulli’s official status and is directly relevant to whether the market can resolve to Katz as the GOP nominee.
+Local public-media coverage describing Katz’s prior run as an Independent (2024) and his political background as a former state senator. The article provides useful context: Katz has previously run statewide as a non‑major‑party candidate and has history with other parties. That history is relevant because party-switching and prior low third‑party vote share affect his appeal in a Republican primary and therefore the plausibility of a >50% nomination chance.
 
-### ["Greg Fuller to address Eastern Sussex Republican Club Feb. 16" — Cape Gazette](https://www.capegazette.com/article/greg-fuller-address-eastern-sussex-republican-club-feb-16/264918)
-**Author:** Cape Gazette staff (Chris Flood / calendar / event listing) | **Published:** 2026-02-12
+### [Sussex GOP — "UP FOR ELECTION" page (candidate lists)](https://www.sussex.gop/up-for-election)
+**Author:** Unknown | **Published:** Unknown
 
-This local Cape Gazette event article lists an Eastern Sussex Republican Club meeting where local and state candidates (including Dr. Mike Katz and John Shulli) introduce themselves. The piece demonstrates on-the-ground campaign activity by Katz with Republican clubs and provides evidence Katz is actively courting GOP primary voters — supporting the proposition that Katz is participating and trying to build support. It does not quantify voter preferences or endorsements, but it shows Katz’s visibility in local GOP circles.
+Local GOP/county party page that lists offices up for election and includes Michael Katz among filed candidates for the Senate. This corroborates Katz’s presence on GOP lists at the county/party level and supports the understanding that Katz is publicly listed among Republican contenders — useful to confirm ballot/party-level recognition although not definitive ballot certification.
 
-### ["Delaware Public Media — Former State Sen. Mike Katz launches bid for U.S. Senate with Independent Party of Delaware"](https://www.delawarepublic.org/politics-government/2024-01-28/former-state-sen-mike-katz-launches-bid-for-u-s-senate-with-independent-party-of-delaware)
-**Author:** Unknown (Delaware Public Media staff) | **Published:** 2024-01-28
+### [BBC (US elections 2024 — Delaware county results)](https://news.files.bbci.co.uk/include/newsspec/39957-us-elections-2024-accessible-tables-senate/english/de-state)
+**Author:** Unknown | **Published:** 2024-11 (Nov 2024)
 
-This article reports Katz’s 2024 U.S. Senate run as the Independent Party of Delaware nominee and provides background on his prior service as a Delaware state senator and his decision to run outside the two major parties in 2024. The article explains Katz’s recent political trajectory and provides context for his party-switching history — a fact important for assessing his appeal to Republican primary voters. It supports the view that Katz has statewide name recognition but also shows he ran outside the GOP in 2024, which can be a handicap in a Republican primary.
+Official-style county-level results for the 2024 Delaware U.S. Senate race showing vote shares; these data show Katz’s modest vote share as an Independent in 2024. That past performance is relevant when assessing his base strength among Republican primary voters: low past statewide vote totals as a third‑party candidate weigh against being a clear favorite in a contested GOP primary.
 
-### [Delaware election results — Blue Delaware (2024 results page)](https://bluedelaware.com/2024/11/05/delaware-election-results-2/)
-**Author:** BlueDelaware staff (Ron Gunzburger / site) | **Published:** 2024-11-05
+### [FEC committee page — "SHULLI FOR SENATE" (John Shulli)](https://www.fec.gov/data/committee/C00933663/)
+**Author:** Federal Election Commission | **Published:** Unknown (committee page updated during 2025–2026)
 
-This local results summary documents the 2024 general-election vote totals for statewide races, showing "MIKE KATZ" (Independent Party of Delaware) received about 3.89% (~19,196 votes) in the 2024 U.S. Senate race. That concrete past performance is directly relevant to his baseline statewide support and informs a prior for how competitive he might be in a 2026 Republican primary; low general-election third-party performance suggests Katz’s independent base was small, although primary electorates differ.
-
-### [Dr. Mike Katz For U.S. Senate — campaign website](https://www.drmikekatz.com/)
-**Author:** Mike Katz / campaign | **Published:** Unknown (site maintained during 2026 cycle)
-
-Katz’s campaign website shows messaging, contact information, and campaign activity geared toward a statewide Senate bid. It confirms Katz is publicly campaigning for the U.S. Senate, lists issues/biography, and provides a visible platform for voter outreach. The campaign site supports the conclusion Katz is an active candidate and is attempting to reach voters (including Republicans), which keeps his win probability plausible even if public polling/endorsements are not yet visible.
-
-### [The Green Papers — Delaware 2026 election candidate listings (Senate)](https://www.thegreenpapers.com/G26/DE)
-**Author:** The Green Papers (David Leip / compiler) | **Published:** Unknown (site updated during 2025–2026 filings)
-
-The Green Papers aggregates federal filings and state candidate lists and shows FEC candidate IDs and filings for Delaware’s 2026 US Senate candidates (Michael Katz and John Shulli among them). This corroborates FEC/formal filing details and provides an independent aggregator confirming both Katz’s and Shulli’s candidacies (and their FEC committee identifiers). It’s useful for cross-checking filing dates and candidate lists when assessing who will appear on the Republican primary ballot.
-
-### [Sussex County Republican Committee — "UP FOR ELECTION" (candidate info)](https://www.sussex.gop/up-for-election)
-**Author:** Sussex County Republican Committee (site) | **Published:** Unknown (page updated during 2026 cycle)
-
-The local Republican committee’s candidate summary lists Michael Katz and John Shulli as filed Republican candidates for the U.S. Senate. This local-party-facing source shows Katz is being recognized by county GOP organizations (he is being listed alongside other Republican primary candidates), which indicates Katz is being treated as a legitimate GOP contender at the county level and helps explain why some local observers/traders might place nontrivial probability on him winning the Republican nomination. It does not, however, provide polling or fundraising metrics.
+FEC committee information for John Shulli’s Senate committee shows Shulli is an organized Republican entrant with a campaign committee record. This supports the evidence that Katz faces at least one other organized Republican opponent, which reduces probability that Katz is an uncontested favorite and supports the market’s sub‑50% price.

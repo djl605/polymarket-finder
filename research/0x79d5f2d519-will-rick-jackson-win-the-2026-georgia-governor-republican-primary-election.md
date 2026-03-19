@@ -1,7 +1,7 @@
 # Research: Will Rick Jackson win the 2026 Georgia Governor Republican primary election?
 
 **Market ID:** 0x79d5f2d519b21ebcb57ea1f926b5f37beecb2b8c41a3d44f06e206240f4e31dc
-**Researched At:** March 14, 2026 at 04:12:24 AM UTC
+**Researched At:** March 19, 2026 at 04:35:32 AM UTC
 **Search Query:** "Will Rick Jackson win the 2026 Georgia Governor Republican primary election?"
 
 ---
@@ -9,75 +9,62 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.4¢
+**Expected Value:** 3.5¢
 
 ### Summary
 
-Public reporting and recent polls show a fluid, competitive GOP primary in Georgia: Jackson brings huge self‑funding and early poll strength in some surveys, while Burt Jones has Trump’s endorsement and party resources; undecided voters remain large. Given the mixed but timely evidence, a 51% market price for Jackson is defensible — any mispricing is likely small (single‑digit cents), not a large (>20¢) gap.
+Recent reporting and a March 7–8 JMC likely‑voter poll show Rick Jackson a competitive, well‑funded challenger who currently leads some polls, but strong countervailing factors (Trump-backed Burt Jones, legal/attack dynamics, 25% undecided) keep the race uncertain. Given low market liquidity and the close, dynamic state of the race, the market’s ~50.5% price is plausible and any mispricing is likely modest.
 
 ### Full Analysis
 
+Planned approach and searches used
+- I used three focused web searches (AP/major outlets, state public media, a recent likely-voter poll) to gather the strongest, most relevant material on Rick Jackson’s entry, spending, polling, and the key rival (Burt Jones). Key sources: AP (entry and profile pieces), Georgia Public Broadcasting (company background), an independent JMC likely‑voter poll (March 7–8), AJC background reporting, and CBS Atlanta on the legal/finance clash. ([apnews.com](https://apnews.com/article/66a33ab0de0c92cdf5ccc50f26ef7418))
+
 1) CONTEXT ANALYSIS
-- What the market is asking: Will Rick Jackson be the overall winner of the Republican primary for Governor of Georgia (May 19, 2026), including any runoff (June 16, 2026 if needed)? The market resolves to YES if the Georgia Republican Party (or overwhelming credible reporting) declares Rick Jackson the nominee; it resolves to NO if any other Republican wins the primary (including via runoff) or if no Republican primary occurs (then “Other”).
-- Key resolution contingencies to keep in mind: (a) a May 19 outright win (majority) or a June 16 runoff victory; (b) official party results will be the resolution source, though credible media consensus may suffice; (c) legal/qualification changes (e.g., a law or ruling that makes a candidate ineligible) could remove a candidate from contention and affect plausibility.
+- What the market asks: Will Rick Jackson win the 2026 Georgia Republican primary for governor (May 19, 2026), resolved to the overall winner of the Republican primary including any runoff. For the market to resolve YES, Jackson must be the official winner of the Republican primary (either win outright on May 19 or win the subsequent runoff if no one gets a majority). If he does not become the nominee (another candidate wins), the market resolves NO. (The market’s resolution rules and timeline were supplied in your prompt.)
 
-2) EVIDENCE EVALUATION
-A — Evidence that suggests the current market price (51%) might be incorrect (i.e., Jackson less likely than the market implies)
-- Trump endorsement / establishment/party support for Burt Jones: multiple outlets report that former President Donald Trump has endorsed Lt. Gov. Burt Jones and that Georgia RNC actors signaled willingness to break neutrality to back Jones — this is a strong influence on GOP primary voters and could consolidate pro‑Trump primary voters behind Jones. (Supports a lower win probability for Jackson.)
-- Large undecided share and polling variance: high undecided fractions in reliable polls (Emerson reports 38% undecided among likely GOP primary voters) and meaningful disagreement across pollsters (Emerson shows Jones 21 / Jackson 20; Cygnal earlier showed Jones ahead; other firms show Jackson ahead). High undecideds make outcomes volatile and mean a narrow market favorite is still quite uncertain. (Suggests 51% may be over-precise.)
-- Potential legislative / legal exposure for Jackson: reporting shows Jackson Healthcare has large state contracts (AJC: > $1B in payments) and there are legislative proposals (HB 1362 reported) that could bar people with substantial state business from holding certain offices — a non-zero institutional risk that could complicate or disqualify his candidacy. (This is tail risk that would reduce Jackson’s probability.)
-- Litigation and counter-attacks could produce negative headlines for Jackson: opponent messaging and investigations into company/state contracting could shift undecideds. (This can lower Jackson chances.)
+2) EVIDENCE EVALUATION (summary of relevant, current evidence)
+Key facts and immediately relevant datapoints
+- Jackson’s entry and spending: Rick Jackson, founder/CEO of Jackson Healthcare, entered the GOP primary in early February and has pledged to self‑fund heavily (reported pledge up to $50M; AP and other outlets report he’s already dumped tens of millions on ads). This dramatically changed the dynamics after a previously settled field. ([apnews.com](https://apnews.com/article/66a33ab0de0c92cdf5ccc50f26ef7418))
+- Recent poll (likely GOP primary voters, March 7–8, 2026): JMC poll of 560 likely GOP primary voters shows Jackson at 37%, Burt Jones at 22%, Raffensperger 11%, with 25% undecided. Methodology: March 7–8 fielding, MOE ±4.1. This is a strong single poll showing Jackson with a substantive plurality among decided GOP voters at that date. ([winwithjmc.com](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf))
+- Campaign/legal dynamics: Jones has a high-profile Trump endorsement and built early advantages via a leadership committee (~$15.9M reported), but a federal judge temporarily blocked that committee’s fundraising/spending while Jackson challenged it — a development that helps Jackson’s narrative and finances dynamic. The race has already turned acrimonious, with defamation/ads disputes that can both help and hurt Jackson among conservative primary voters. ([cbsnews.com](https://www.cbsnews.com/atlanta/news/georgia-gop-governors-race-turns-messy-as-burt-jones-and-rick-jackson-clash-over-money-smears-and-campaign-tactics/?intcid=CNR-01-0623))
+- Company background/vulnerabilities: Jackson Healthcare has significant state contracting (report: ~ $1B in state contracts), which opponents are using to attack Jackson’s conservative bona fides. That is a plausible vulnerability among primary voters who prioritize culture/ideological issues. ([gpb.org](https://www.gpb.org/news/2026/03/04/health-care-executive-running-for-ga-governor-his-company-has-had-about-1b-in-state))
 
-B — Evidence that supports the current market price (i.e., Jackson’s chance ~51% is reasonable)
-- Jackson’s enormous self-funding and immediate ad buy: reporting (AP, AJC, Cook) that Jackson pledged to self-fund roughly $50M and put tens of millions into advertising (AP and AJC cite $40M–$50M pledges and heavy ad buying) — immediate cash and broad advertising can rapidly shift name recognition and support in a short primary window. (Supports a material probability that Jackson becomes the frontrunner or wins.)
-- Several polls show Jackson leading or competitive: JMC (likely GOP primary voters, March 7–8) found Jackson at 37% vs. Jones 22% among likely GOP primary voters; earlier private polls (Quantus, co/efficient) showed Jackson well ahead in some samples. Aggregated polling averages (multiple pollsters) tilt slightly toward Jackson in recent weeks. (Supports market being reasonable around a small favorite.)
-- Outside attacks on Jones (dark money) and lawsuits: “Georgians for Integrity” spending and Jackson’s legal actions against leadership-committee funding/defamation create political friction for Jones (AJC, AP, CBS), and a temporary court action reported in coverage has at times limited money flowing to Jones — these dynamics can blunt the usual incumbency/endorsement advantage. (Supports Jackson’s competitive odds.)
-- Credibility/recency: most of the relevant reporting and polls are from Feb–Mar 2026 (within weeks), which makes them timely for a May primary. Polls are from recognized pollsters (Emerson, Cygnal, JMC) with published methodology (Emerson and JMC full details available).
+What suggests the market price (50.5%) might be incorrect (i.e., undervaluing or overvaluing Jackson)
+- Evidence that could imply undervaluation of Jackson: The March 7–8 JMC likely‑voter poll gave Jackson a 15-point lead over Jones among likely GOP primary voters (37% vs 22%), with a substantial undecided pool — if Jackson consolidates even a fraction of undecideds, his probability of winning could be meaningfully >50%. His large self‑funding and early ad blitz (tens of millions reported) can move name recognition and turnout rapidly, making a >50% implied chance plausible in the near term. ([winwithjmc.com](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf))
+- Evidence that could imply overvaluation of Jackson: Trump’s endorsement of Burt Jones remains politically significant in Georgia GOP politics; Jones had built a large war chest via his committee and long-term name recognition as lieutenant governor. Attacks tying Jackson to state contracts and health-care work (and claims about recruiting/DEI/trans issues) specifically target primary voters’ sensitivities and could swing undecideds or suppress support. The legal and ad fights add volatility and risk that Jackson’s lead (if any) will compress. ([ajc.com](https://www.ajc.com/politics/2026/02/rick-jacksons-campaign-for-governor-resets-fight-for-maga-base-in-georgia//))
 
-C — Credibility and recency
-- High-quality, recent sources: Associated Press (Feb 3, 2026), Emerson College Polling (March 5, 2026), JMC Analytics poll (March 7–8, 2026 PDF), Atlanta Journal-Constitution (March 5, 2026), Cook Political Report (Feb 18, 2026), CBS Atlanta (Feb 11, 2026). These are current (Feb–Mar 2026) and relevant to a May 19, 2026 primary.
-- Poll limitations: sample-frame differences and high undecideds matter. JMC’s sample skew (very old median/large 65+ share) and private‑commissioned nature mean its results should be treated cautiously. Emerson is a larger, public poll with documented methodology and produces more conservative undecided rates.
+Source credibility and recency
+- AP News, Atlanta Journal-Constitution (AJC), CBS Atlanta and GPB are credible mainstream sources and are reporting fresh events (Feb–March 2026). The JMC poll is an independent regional poll with transparent methodology in the PDF (560 likely GOP voters, fielded Mar 7–8); it’s informative but is a single poll and subject to sampling/weighting limitations. All cited pieces are within the last 1–6 weeks—highly recent for this primary (May 19, 2026). ([apnews.com](https://apnews.com/article/66a33ab0de0c92cdf5ccc50f26ef7418))
 
-D — Bullish vs Bearish perspectives (summary)
-- Bullish for Jackson: he can spend heavily and quickly build awareness, has shown early polling strength in some surveys, and outside ads attacking Jones may depress Jones’ standing; he aggressively courts MAGA voters and media attention.
-- Bearish for Jackson: Trump’s endorsement and party machinery favor Jones; legal/legislative scrutiny of Jackson’s state contracts is a reputational/eligibility risk; polling disagreement and a large undecided electorate mean late swings are possible.
-
-E — Reason to be skeptical of “obvious” evidence
-- If Jackson’s ad spend alone guaranteed victory, aggregators and establishment actors would have already conceded. The mixed poll picture and the sizable undecided population indicate that the race is fluid; simple narratives (money = sure win) are too crude.
+Skeptical notes (why the market might already price this)
+- The JMC poll shows substantial undecided (25%). In primaries with this many undecideds, advertised spending and late tactical attacks can flip significant shares quickly. Market participants likely see both Jackson’s cash advantage and his vulnerabilities, so a roughly 50/50 market price is consistent with a view that Jackson is competitive but not securely winning. Low trading volume implies few traders have acted on this information, but the existing price could reflect informed traders’ hedged view that either candidate can win. ([winwithjmc.com](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf))
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations that justify the 51% price:
-  - The market is aggregating recent polling averages and the news that Jackson immediately spent tens of millions; aggregated polls tilt slightly toward Jackson (poll averages showed Jackson +4–6 points across some aggregators), so a ~51% probability is consistent with a small polling lead in a three- or four-way primary with high undecideds.
-  - The market price may also reflect the view that Jackson’s resources increase his chance of consolidating the anti‑establishment/MAGA lane, but that Trump’s endorsement of Jones prevents a sure-fire blowout — hence a nearly even probability.
-- Could the price reflect only a few traders? Yes — this market’s total volume is low ($3,934) with a tiny spread (2¢). That pattern is consistent with one or a few active traders setting the price; low volume limits the market’s ability to incorporate a wide set of bettors or large capital reallocations based on new information.
-- Why low volume might be happening:
-  - The primary is still weeks away, many casual bettors wait until final weeks; the market may be overlooked by larger bettors.
-  - The outcome is genuinely uncertain and the expected edge from extra information is small, so few want to risk capital.
-  - Alternatively, the market may be fairly priced and small bettors prefer to watch rather than trade.
+- Reasonable interpretations that justify 50.5%:
+  - The market is reflecting a close race: Jackson is a well‑funded newcomer with early polls showing a lead but with big vulnerabilities (attacks on company contracting, Trump’s backing of Jones, legal fights). That uncertainty is consistent with a coin‑flip (≈50%).
+  - The tight 1¢ spread with low total volume ($4,753) suggests price may be set by a small number of traders or a single liquidity provider; it therefore cannot be confidently interpreted as broad consensus. Low volume + tight spread often means low liquidity rather than broad agreement.
+- Could it be a single‑player price? Yes — $4.7k total volume is small relative to a statewide race; a single wealthy trader or small group could be setting the price. That makes the price fragile to new information. Conversely, the presence of recent, credible news (polls, ad spending, court rulings) means informed bettors might have already moved the market toward ~50% and simply not traded large sums because margin for profit is small.
+- Is low volume because the outcome is obvious? No — the race is not obvious. There is active campaigning, a large undecided share in polls, and competitive dynamics; low volume is plausibly due to limited attention/liquidity rather than consensus certainty.
 
-4) MISPRICING ASSESSMENT (apply the critical check)
-- Does the evidence point to clear mispricing? No — the evidence is mixed. Multiple, recent, credible polls and news items point both ways.
-- Specific credible missing information that could materially change the price (and whether it appears missing):
-  - Trump/RNC mobilization or a new major endorsement for Jackson — these would move probabilities quickly, but reporting already tracks endorsements and RNC coordination.
-  - Court rulings or legislative actions that materially change candidacy eligibility (e.g., a law that disqualifies Jackson or a ruling that disables Jones’ leadership committee) — these would be resolution‑critical and would be captured by mainstream reporting; there is active litigation and legislation that traders likely know about.
-  - Polls with better turnout models for the May GOP primary: many polls have different likely-voter screens; a new, high-quality poll released with different LV assumptions could shift things.
-- Most charitable interpretation of why informed traders might set 51%:
-  - They’ve priced in Jackson’s ad advantage and poll momentum but also reduced his probability due to Trump's endorsement of Jones and legal/legislative risk. 51% is essentially “slightly favored” — an entirely defensible market call given current data.
-- Conclusion of mispricing assessment:
-  - I do not find specific, credible evidence that an important, widely available fact is missing from the market price. The available, recent polling and news (both positive and negative for Jackson) suggest a near‑even race; 51% sits within plausible ranges. There is no clear arbitrage or definitive information that would justify concluding a large mispricing (>20¢). Small mispricings (single-digit cents) are possible given low volume and narrow margins, but nothing in publicly available, credible sources indicates a large error.
+4) MISPRICING ASSESSMENT (objective weighing)
+- Final qualitative judgment: There is credible evidence that Jackson is competitive and in some polls held a plurality (JMC). However, there is also credible evidence that Jones retains structural advantages (Trump endorsement, name recognition) and that Jackson has clear vulnerabilities that could shift the race. Given that, the market price of 50.5% for Jackson is within a reasonable range and does not appear to be a clear, large mispricing.
+- Magnitude judgement: If mispricing exists, it is likely modest (single-digit cents, not a very large >20¢ gap). The JMC poll could justify raising Jackson’s implied chance modestly above 50% among informed bettors; conversely, Trump/Jones advantages and attack potential justify equal weight on the other side.
+- Critical check (resolution and technicalities): I confirmed the market’s resolution rules (winner of Republican primary including runoff) and the primary date (May 19, 2026). Nothing in the reporting suggests the resolution criteria are already met or that a technicality would invalidate the market. Thus there is no obvious, game‑breaking misunderstanding that would make a large mispricing plausible. ([apnews.com](https://apnews.com/article/66a33ab0de0c92cdf5ccc50f26ef7418))
 
-5) EXPECTED VALUE CALCULATION (market EV of investigating/trading)
-- Strength of evidence that price is wrong: I assess this at ~40%. Reason: credible but mixed polls, significant undecideds, and active fast-moving campaign spending produce meaningful uncertainty but not a clear missed fact.
-- Magnitude of plausible mispricing if wrong: I estimate a modest mispricing on the order of ~6 cents (i.e., the market could be off by a few percentage points — not tens of points — given competing evidence).
-- Expected value = Strength × Magnitude = 0.40 × 6 cents = 2.4 cents.
-- Interpretation: the expected edge from acting on the hypothesis that the market is mispriced is small (~2–3¢). Given transaction costs, this is low-margin; only traders comfortable with small edges and execution risk should engage.
+5) EXPECTED VALUE CALCULATION (quantitative)
+- Strength of evidence that Jackson is undervalued (i.e., probability our research uncovers real missing info): ~50% — JMC poll and Jackson’s spending are strong signals, but they are single poll snapshots and the race is fluid.
+- Magnitude of likely mispricing if wrong: I estimate ~7¢ (0.07) — plausible upside if Jackson consolidates undecideds and spending converts polling lead into votes, but unlikely to be far larger given Trump/Jones factors and runoff uncertainty.
+- Expected value = Strength × Magnitude = 0.50 × 7¢ = 3.5¢
 
-6) CONFIDENCE CHECK & FINAL ASSESSMENT
-- Are we missing something big? Possible but unlikely: the largest single information shock would be a binding legal or legislative action that removes a candidate or a high‑profile endorsement shift; both are being actively reported and would be priced quickly. Because those are being tracked by major outlets and courts, large surprises are possible but not currently indicated.
-- Final judgment: The market price (51% for Jackson) is broadly consistent with current, credible public information (polls, Jackson’s self‑funding and ad spend, Trump’s endorsement of Jones, legal/legislative uncertainties). There is not strong, specific evidence of a large mispricing. A modest mispricing (few cents) is plausible, but I do not find grounds for concluding a large inefficiency.
+6) CONFIDENCE
+- final confidence in this assessment: medium
 
-EXPECTED_VALUE: 2.4
-SUMMARY: Public reporting and recent polls show a fluid, competitive GOP primary in Georgia: Jackson brings huge self‑funding and early poll strength in some surveys, while Burt Jones has Trump’s endorsement and party resources; undecided voters remain large. Given the mixed but timely evidence, a 51% market price for Jackson is defensible — any mispricing is likely small (single‑digit cents), not a large (>20¢) gap.
+Concise conclusion
+- The market price (~50.5%) is plausible given current evidence: Jackson is a well‑funded, competitive challenger and early polls (Mar 7–8 JMC) show him ahead among likely GOP primary voters, but there are strong countervailing factors (Trump endorsement of Jones, legal/attack dynamics, large undecided share). With low market volume and a tight spread, the price is fragile but not obviously wrong by a large margin. I estimate a modest expected value for a detectable mispricing (~3.5 cents) with medium confidence. ([winwithjmc.com](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf))
+
+EXPECTED_VALUE: 3.5
+SUMMARY: Recent reporting and a March 7–8 JMC likely‑voter poll show Rick Jackson a competitive, well‑funded challenger who currently leads some polls, but strong countervailing factors (Trump-backed Burt Jones, legal/attack dynamics, 25% undecided) keep the race uncertain. Given low market liquidity and the close, dynamic state of the race, the market’s ~50.5% price is plausible and any mispricing is likely modest. 
 CONFIDENCE: medium
 
 ---
@@ -89,39 +76,29 @@ CONFIDENCE: medium
 ### [Business owner Rick Jackson launches Republican bid for Georgia governor](https://apnews.com/article/rick-jackson-republican-governor-georgia-jones-trump-66a33ab0de0c92cdf5ccc50f26ef7418)
 **Author:** Jeff Amy | **Published:** 2026-02-03
 
-AP reported Rick Jackson’s Feb. 3, 2026 entry into the GOP gubernatorial primary, his pledge to self‑fund roughly $50 million, and the context of outside ad spending attacking Burt Jones. The piece documents Jackson’s immediate cash commitment and the outside spending landscape (Georgians for Integrity), both directly relevant to Jackson’s ability to gain rapid traction. This source supports the view that Jackson is a viable contender with substantial resources (supporting the market price) while also noting external attacks that complicate Jones’ standing (which helps Jackson).
+AP reports Jackson’s February announcement, his background as founder of Jackson Healthcare, and a pledge to self‑fund (up to $50M). The piece lists the primary competitors (Burt Jones, Brad Raffensperger, Chris Carr) and notes a large outside‑spending group already running attack ads. This supports the view that Jackson is a high‑cash, disruptive entrant—evidence supporting a meaningful probability he can win, but also showing exposure to attack ads and counter‑mobilization. ([apnews.com](https://apnews.com/article/66a33ab0de0c92cdf5ccc50f26ef7418))
 
-### [Georgia Statewide Poll Results (JMC Analytics & Polling) — Georgia Executive Summary (PDF)](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf)
-**Author:** JMC Analytics & Polling | **Published:** 2026-03-08
+### [Burt Jones was the inevitable Republican nominee for Georgia governor. Then Rick Jackson showed up](https://apnews.com/article/rick-jackson-georgia-governor-burt-jones-trump-4c1789c599857e220180068e26de9199)
+**Author:** Jeff Amy | **Published:** 2026-03-15
 
-JMC’s March 7–8, 2026 poll of likely GOP primary voters (n=560, MOE ±4.1%) shows Rick Jackson at 37% and Burt Jones at 22% with 25% undecided. The report includes cross-tabs showing Jackson strength with MAGA and evangelical subgroups and documents methodology. These results present strong evidence (in that sample) that Jackson is far ahead — supporting a market view that he is the favorite — but the poll’s sample composition (heavy 65+ share) and private-commissioned nature limit overconfidence.
+AP analyzes how Jackson’s late, well‑funded entry reshaped a race that seemed to favor Lt. Gov. Burt Jones (who has Trump’s endorsement). AP reports Jackson has already spent/directed tens of millions of dollars on advertising, and frames the contest as a serious challenge to Trump’s influence. This supports the conclusion that Jackson’s spending and rapid momentum are real factors that could materially affect the primary outcome. ([apnews.com](https://apnews.com/article/4c1789c599857e220180068e26de9199))
 
-### [Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field — Emerson College Polling](https://emersoncollegepolling.com/georgia-2026-poll-senator-ossoff-starts-re-election-near-50-and-outpaces-gop-field/)
-**Author:** Emerson College Polling (Spencer Kimball quoted) | **Published:** 2026-03-05
+### [Georgia Statewide Poll Results (Executive Summary) — JMC (PDF)](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf)
+**Author:** Unknown (JMC Analytics / Win With JMC) | **Published:** 2026-03-08
 
-Emerson’s Feb. 28–Mar. 2, 2026 Georgia survey (likely GOP primary voters n≈453, MOE ±4.6%) shows a near-tie in the Republican governor primary: Burt Jones 21%, Rick Jackson 20%, with 38% undecided. Emerson also reports how Trump’s endorsement affects voter lean and breaks out demographic support. This public, methodologically-documented poll provides a counterpoint to JMC and demonstrates substantial undecided voters — supporting the assessment that the race is fluid and that a small-market favorite is plausible but uncertain.
+Poll of likely GOP primary voters fielded March 7–8, 2026 (n=560, MOE ±4.1). Results show Rick Jackson 37%, Burt Jones 22%, Raffensperger 11%; undecided 25%. The document gives polling methodology and geographic/race breakdowns. This single but recent likely‑voter poll is the strongest piece of quantitative evidence that Jackson was leading at that snapshot in time — a key input for evaluating whether the market (50.5%) understates his chances. However, the large undecided share and single‑poll nature limit certainty. ([winwithjmc.com](https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf))
 
-### [Flush With Cash, Businessmen Try to Upend GOP Primaries for Governor in Georgia and Michigan — Cook Political Report](https://www.cookpolitical.com/analysis/governors/georgia-governor/flush-cash-businessmen-try-upend-gop-primaries-governor)
-**Author:** Jessica Taylor | **Published:** 2026-02-18
+### [A health care executive is running for Ga. governor. His company has had about $1B in state contracts](https://www.gpb.org/news/2026/03/04/health-care-executive-running-for-ga-governor-his-company-has-had-about-1b-in-state)
+**Author:** Unknown | **Published:** 2026-03-04
 
-Cook’s analysis (Feb. 18, 2026) highlights how wealthy business entrants (including Rick Jackson) quickly changed dynamics in the Georgia GOP primary via rapid ad spending — noting Jackson’s early $10M TV spend and resultant polling movement. Cook frames Jackson as a credible disruptor to Burt Jones and discusses the likelihood of a runoff. This analysis supports the view that Jackson’s spending materially raises his win probability and explains why markets and some polls reacted quickly.
+Georgia Public Broadcasting summarizes Jackson’s business background (Jackson Healthcare, subsidiaries, state contracts reported around $1B) and notes recent polls showing Jackson gaining on the earlier front‑runner. The company contracting detail is important because it is a line of attack used by opponents and can influence conservative primary voters — a risk that pushes back against an overly bullish view of Jackson. ([gpb.org](https://www.gpb.org/news/2026/03/04/health-care-executive-running-for-ga-governor-his-company-has-had-about-1b-in-state))
 
-### [Georgia GOP gubernatorial candidate Rick Jackson sues Lt. Gov. Burt Jones over campaign finance law](https://www.cbsnews.com/atlanta/news/georgia-gop-gubernatorial-candidate-rick-jackson-sues-lt-gov-burt-jones-over-campaign-finance-law/?intcid=CNR-01-0623)
-**Author:** Zachary Bynum (CBS Atlanta) | **Published:** 2026-02-11
+### [Rick Jackson’s campaign for governor resets fight for MAGA base in Georgia](https://www.ajc.com/politics/2026/02/rick-jacksons-campaign-for-governor-resets-fight-for-maga-base-in-georgia/)
+**Author:** Greg Bluestein, Tia Mitchell, Patricia Murphy, Adam Beam | **Published:** 2026-02-09
 
-CBS Atlanta reports Jackson’s federal lawsuit challenging Georgia’s “leadership committee” fundraising statute (filed Feb. 2026), seeking to block spending by Jones’ leadership committee that can raise unlimited funds. The story explains the legal theory, targeted defendants, and expedited relief sought. This litigation could materially affect Jones’ fundraising edge — a fact market actors would price — and therefore is relevant to assessing whether Jackson’s probability is under- or over-valued.
+AJC reporting on Jackson’s entry and early polling context; cites a Cygnal poll (immediately after Jackson’s entry) where Jones led and Jackson trailed but was close. AJC provides context on intra‑party dynamics (MAGA base, establishment lanes) and highlights that polls shifted after Jackson’s entry. This supports the interpretation that momentum is fluid and that single polls can show materially different pictures as the campaign unfolds. ([ajc.com](https://www.ajc.com/politics/2026/02/rick-jacksons-campaign-for-governor-resets-fight-for-maga-base-in-georgia//))
 
-### [Rick Jackson promises to ‘unwind’ his company’s state contracts if elected](https://www.ajc.com/politics/2026/03/rick-jackson-promises-to-unwind-his-companys-state-contracts-if-elected/)
-**Author:** Asia Simone Burns | **Published:** 2026-03-05
+### [Georgia GOP governor candidates Rick Jackson and Burt Jones clash over defamation lawsuit as the race heats up](https://www.cbsnews.com/atlanta/news/georgia-gop-governors-race-turns-messy-as-burt-jones-and-rick-jackson-clash-over-money-smears-and-campaign-tactics/?intcid=CNR-01-0623)
+**Author:** Zachary Bynum | **Published:** 2026-03-10
 
-The Atlanta Journal-Constitution details scrutiny of Jackson’s company’s state contracts (reporting > $1 billion in payments), Jackson’s pledge to stop bidding on state contracts if elected, the legislative proposal (House Bill 1362) that could bar officials with state business, and the campaign’s ad spending (reported $40M). This local, investigative reporting highlights non-poll political/legal risks to Jackson’s campaign that could reduce his chances, which supports skepticism about treating a single poll or spending narrative as decisive.
-
-### [Crowded field emerges — officially — in race to decide who will be Georgia’s next governor](https://www.gpb.org/news/2026/03/10/crowded-field-emerges-officially-in-race-decide-who-will-be-georgias-next-governor)
-**Author:** Georgia Public Broadcasting | **Published:** 2026-03-10
-
-GPB summarizes qualifying and notes Emerson polling showing Jones and Jackson effectively tied, and highlights that many voters remain undecided. It frames the primary as competitive and nationally watched, corroborating the picture from Emerson and local press. This supports the conclusion that the race is unsettled and that a near-50/50 market price is plausible.
-
-### [2026 Georgia gubernatorial election — Polling and race summary (aggregated)](https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election)
-**Author:** Unknown (Wikipedia editors) | **Published:** 2026-03-11
-
-The Wikipedia page aggregates multiple public polls (Cygnal, Quantus, co/efficient, JMC, Emerson) and shows a mixed polling picture with Jackson slightly ahead in some polls and Jones leading in others; it lists the May 19, 2026 primary and June 16 runoff as resolution dates. While an aggregator (and not a primary source), it is useful for quickly seeing cross‑poll variation and confirms that polling averages show a narrow Jackson edge but that undecideds are substantial. This supports the conclusion that the market being close to even is consistent with poll aggregates.
+CBS Atlanta reports on the intensifying feud: Jackson’s defamation suit against Jones, Jones’ attack ads, and a federal judge temporarily blocking Jones’ leadership committee (reporting roughly $15.9M in that committee). The article documents the legal and ad warfare shaping voter perceptions, underscoring both Jackson’s vulnerabilities and the constraints on Jones’ financial advantage — a mixed set of forces that make the race volatile and justify a near‑50% market price. ([cbsnews.com](https://www.cbsnews.com/atlanta/news/georgia-gop-governors-race-turns-messy-as-burt-jones-and-rick-jackson-clash-over-money-smears-and-campaign-tactics/?intcid=CNR-01-0623))

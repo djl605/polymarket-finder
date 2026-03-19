@@ -1,83 +1,113 @@
 # Research: Will Trump meet with Kim Jong Un in 2026?
 
 **Market ID:** 0xb5395470c9b87f5ae8ffc719c1376aa89b493adf083e01cb8064e683fbaa18fc
-**Researched At:** March 9, 2026 at 04:25:08 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Trump meet with Kim Jong Un in 2026?"
+**Researched At:** March 19, 2026 at 04:29:54 AM UTC
+**Search Query:** "Will Trump meet with Kim Jong Un in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-Current reporting shows both Trump and Kim express openness to talks but no concrete schedule, while deep strategic barriers remain. The 28% price reasonably balances these factors; there’s no clear miss.
+Public signals (Trump’s repeated offers; Kim’s conditional openness in late 2025) create a non‑zero chance of a 2026 meeting, but Pyongyang’s early‑2026 posture (party congress, missile tests) and the practical bargaining/logistics barriers make a meeting uncertain; 24% looks like a defensible midpoint, not a clearly large mispricing. No specific credible leak or omitted fact was found that would justify a large (>20¢) revision.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether former President Donald Trump and North Korean leader Kim Jong Un will meet in person at any point during 2026. “Yes” requires a face-to-face interaction (even a brief encounter) between Trump and Kim within Jan 1–Dec 31, 2026 (ET).
+Plan and searches used
+- I used the full 3-search budget to collect recent reporting and expert analysis on (1) public statements from Donald Trump offering to meet Kim Jong Un in late 2025/early 2026, (2) North Korean statements and behavior (party congress, missile tests) through March 2026, and (3) expert/agency assessments about the chances of renewed talks. Key high-yield results are cited inline below.
 
-2. EVIDENCE EVALUATION  
-Bullish signals (supporting a higher probability than 28%):  
-- Reuters (2026-03-02): Kim remains open to talks depending on U.S. posture; Trump could leverage his past rapport.  
-- Yonhap (2026-02-27): White House says Trump “remains open” to dialogue with Kim “without any preconditions.”  
-- Euronews (2026-02-26): Kim shuns Seoul but “leaves door open” to U.S. dialogue, implicitly including past interlocutors like Trump.  
+1) CONTEXT ANALYSIS
+- What the market asks: Will Donald Trump meet with Kim Jong Un in person at any time between Jan 1 and Dec 31, 2026 (meeting defined as both present and interacting in person)? For the market to resolve YES, credible reporting must show Trump and Kim were physically in the same place and interacted in 2026 (any in-person encounter). For NO, there must be no such credible reporting during the calendar year.
+- Important resolution details that matter for forecasting:
+  - The date window is the full 2026 calendar year.
+  - Resolution source is a consensus of credible reporting — informal social-media-only reports would likely not count without established media corroboration.
+  - No requirement that either be president; the market text only requires the two to meet in person.
 
-Bearish signals (supporting a lower probability):  
-- Chatham House (2026-01-07): Kim says he will refuse talks unless the U.S. abandons denuclearization demands—an unlikely policy shift under a Biden administration.  
-- Stalled nuclear negotiations since 2019; current U.S.–North Korea tensions (Iran/Israel strikes) may harden Kim’s stance.  
+2) EVIDENCE EVALUATION (what I found and how it bears on chances)
+A. Evidence that increases probability (bullish factors)
+- Trump has publicly and repeatedly signalled willingness to meet Kim. During his October 2025 Asia trip he said he "would love" to meet Kim and that he could extend his itinerary to do so; reporters and several outlets quoted him offering and expressing readiness to meet. This demonstrates active willingness on Trump's side. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20251027010652315?utm_source=openai))
+- Kim has, at times in 2025, signalled conditional openness to talks and even said he had “fond memories” of Trump; his remarks in September 2025 suggested Pyongyang would sit down with the U.S. if denuclearization demands were dropped (i.e., if the terms changed). That is an explicit opening — albeit conditional — which raises the baseline probability relative to a zero chance. ([forbes.com](https://www.forbes.com/sites/siladityaray/2025/09/22/kim-jong-un-says-he-has-fond-memories-of-trump-and-is-open-to-talks-with-us/?utm_source=openai))
+- South Korean and other intelligence reporting has noted signs Pyongyang was “carefully weighing” diplomatic options and that talks could be possible at some points — indicating the possibility that North Korea might be receptive at particular windows. (See intelligence/analyst reporting summarized below.) ([asianews.network](https://asianews.network/north-korean-leader-kim-jong-un-appears-open-to-talks-with-us-south-korea-spy-agency/?utm_source=openai))
 
-All sources are recent (Jan–Mar 2026) and credible (Reuters, Yonhap, Euronews, Chatham House). The bullish evidence is forward-looking statements of openness, but no concrete plans. The bearish view emphasizes strategic barriers and U.S. policy continuity. Neither side provides a calendar event or firm proposal.
+B. Evidence that decreases probability (bearish factors)
+- North Korea’s Feb–Mar 2026 activity (9th Party Congress, public rhetoric stressing military strength, and recent missile tests) shows Pyongyang has been publicly emphasizing military and domestic consolidation; state media rhetoric in early 2026 was hostile to Seoul and stressed rejection of ordinary inter-Korean diplomacy. That suggests Pyongyang is not prioritizing an expedited public summit with Washington during the opening months of 2026. ([apnews.com](https://apnews.com/article/13331f3c040c01f92cabc0cd14972765?utm_source=openai))
+- Practical/logistical and bargaining constraints remain large: Pyongyang’s stated condition (no enforced denuclearization requirement) is not a near-term concession the U.S. seems likely to grant; summits between Kim and U.S. leaders previously required heavy negotiations and were political gambits, not routine visits. Also, Kim rarely travels abroad and historically prefers tightly controlled, often bilateral, preparatory diplomacy before any face-to-face. These are general, durable constraints (documented by historical reporting on past summits). ([time.com](https://time.com/5305550/donald-trump-north-korea-kim-jong-un-singapore-summit-what-to-know/?utm_source=openai))
+- During Trump’s October 2025 Asia trip he publicly invited Kim, but there was no confirmation from Pyongyang and Trump left without a meeting; later reporting suggested the North did not accept or was not ready. That episode shows that public willingness on Trump’s side does not guarantee that Pyongyang will reciprocate or that talks will actually be scheduled. ([yahoo.com](https://www.yahoo.com/news/articles/trump-arrives-south-korea-says-101013717.html?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 28% price could reflect the market’s consensus: past Trump–Kim summits make a repeat not implausible, but structural hurdles (U.S. policy, Kim’s demands, Trump’s non-office status) cap upside. Low volume and tight spreads suggest a few savvy speculators rather than wide engagement, but the balance of open-door statements versus substantive impasse plausibly yields ~30%.
+C. Source credibility and recency
+- I prioritized major wire services, national outlets, and specialized analysts:
+  - Associated Press (AP) coverage of North Korean drills, party congress and missile tests (March–Feb 2026) — fresh, high-credibility reporting on Pyongyang actions. ([apnews.com](https://apnews.com/article/a091960cc5f438b2313aae5e243c9c13?utm_source=openai))
+  - Yonhap (South Korean wire) and Reuters/AFP coverage of Trump’s October 2025 Asia trip comments — good contemporaneous coverage of U.S. overtures. ([en.yna.co.kr](https://en.yna.co.kr/view/AEN20251027010652315?utm_source=openai))
+  - Forbes/Axios reporting on Kim’s September 2025 “fond memories” remark — useful for quoting Pyongyang’s conditional opening. ([forbes.com](https://www.forbes.com/sites/siladityaray/2025/09/22/kim-jong-un-says-he-has-fond-memories-of-trump-and-is-open-to-talks-with-us/?utm_source=openai))
+  - 38 North (specialist North Korea research) and South Korean intelligence summaries — useful expert assessment of Pyongyang’s posture and likely timing. ([38north.org](https://www.38north.org/wp-content/uploads/pdf/North-Korea-Briefing_2026-0115.pdf?utm_source=openai))
+- Most load-bearing items are within the last six months (Sept 2025–Mar 2026), so recency is good for assessing near-term 2026 possibilities.
 
-4. MISPRICING ASSESSMENT  
-No evidence of a scheduled meeting or imminent breakthrough; no signals of an imminent negotiating track that traders have missed. The key open question—U.S. policy flexibility on denuclearization—is widely reported. Any large (>20¢) mispricing claim would ignore these well-publicized constraints. The most charitable interpretation is that 28% fairly balances optimism about Trump’s personal diplomacy and pessimism about geopolitical realities.
+D. Balanced reading / skeptical caution
+- The most obvious bullish evidence is public statements of willingness (especially Trump’s public invitations and Kim’s favorable phrasing). But if those signals were decisive, markets and diplomatic channels would likely have already set up at least preparatory contacts — the absence of confirmation after Trump’s Oct 2025 trip suggests significant friction remains. That makes the situation ambiguous (signals exist, but they are conditional and contested), which is consistent with an intermediate market price rather than a trivial one.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: 20% (mixed signals, but no clear new info)  
-Magnitude of mispricing: ≈0 cents (no concrete directional edge)  
-Expected value ≈ 0 cents
+3) MARKET EFFICIENCY ANALYSIS
+- Current market price: 24% (tight spread, low total volume ~$8.7k).
+- Reasonable interpretations that justify ~24%:
+  - Charitable interpretation: Both principals have publicly signalled willingness (Trump repeatedly) and Kim’s comments in late 2025 opened a conditional door; so there is a non-negligible chance (low single-digit to low double-digit percentage) that diplomatic circumstances, a favorable window, or behind-the-scenes negotiations produce a meeting later in 2026. 24% is a middle-of-the-road estimate capturing that conditional possibility.
+  - Conservative interpretation: The price also reflects countervailing facts (North Korea’s focus on military posture, the conditional nature of Kim’s openness, Pyongyang’s limited travel, and the difficulty of negotiating a summit). Those push probabilities down.
+- Could the price reflect one or a few traders? Yes — the market shows low volume and a tight spread. Low volume implies price may be set by a small number of active participants. That raises the possibility of inefficiency (a single well-informed bettor or a few hobby traders could anchor price), but the relatively low price (24%) is not extreme either direction and is consistent with public evidence; that reduces the chance this is a blatant outlier price set by a single overconfident trader.
+- Is low volume because the outcome is obvious or because traders are uninterested? It likely reflects both: traders with expertise on DPRK–US diplomacy may be scarce, and the event is somewhat niche and conditional — so absent strong, new signals (invitations accepted, formal bilateral channels reopened), many informed traders may not engage, producing low volume.
 
-EXPECTED_VALUE: 0  
-SUMMARY: Current reporting shows both Trump and Kim express openness to talks but no concrete schedule, while deep strategic barriers remain. The 28% price reasonably balances these factors; there’s no clear miss.  
+4) MISPRICING ASSESSMENT (rigorous, skeptical)
+- Do I have specific, credible evidence that a material piece of information is missing from the market price?
+  - No single clear, missing fact stood out. The public signals (Trump’s readiness; Kim’s conditional openness) are widely reported; conversely, Pyongyang’s February 2026 domestic posture and missile testing is also public. The market price (~24%) seems to already incorporate the mixed-signal nature of those facts.
+- Could I be misunderstanding resolution criteria? No — the market text is straightforward: any in-person meeting between the two during 2026 resolves YES, based on credible reporting. No hidden technicality appears present.
+- Charitable explanations for the price:
+  - Traders may be pricing in a modest chance (~20–30%) for a meeting because of Trump’s public eagerness, Kim’s conditional openness, and the possibility of behind-the-scenes negotiations, but they are also discounting the numerous obstacles and recent hostile signaling from Pyongyang.
+- Potential ways this market could be materially mispriced (>20 cents wrong):
+  - If there were secret diplomatic contacts or firm scheduling already agreed behind closed doors (that had not yet leaked), the market could be underpricing the event. But there is no credible public evidence of scheduled meetings or confirmed preparations as of March 19, 2026.
+  - Conversely, if major negative events (e.g., a significant deterioration in relations or new sanctions that make a public Kim travel impossible) had occurred and not been priced in, the market could be overpricing. I found no such late-breaking exclusive that would justify a large downward adjustment.
+- Conclusion on mispricing: Given the publicly available evidence, there is no clear, credible missing fact that would justify declaring a large mispricing (e.g., >20 cents). The market’s 24% appears to be a defensible midpoint estimate reflecting both public overtures and substantive barriers.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that the market is materially mispriced: I judge moderate-to-low. Many of the most important data points are already public and likely seen by traders (Trump’s repeated openness; Kim’s Sept 2025 remarks; North Korea’s 2026 party congress and missile tests). I assign Strength = 40%.
+- Magnitude of likely mispricing if one exists: small-to-moderate. Given the mixed signals and lack of confirmed scheduling, any genuine mispricing is more likely in single-digit to low-double-digit cents. I estimate a plausible magnitude = 8 cents (0.08 USD).
+- Expected value = Strength × Magnitude = 40% × 8 cents = 3.2 cents.
+
+6) CONFIDENCE
+- Overall confidence in this assessment: medium.
+
+Final short outputs required
+EXPECTED_VALUE: 3.2
+SUMMARY: Public signals (Trump’s repeated offers; Kim’s conditional openness in late 2025) create a non‑zero chance of a 2026 meeting, but Pyongyang’s early‑2026 posture (party congress, missile tests) and the practical bargaining/logistics barriers make a meeting uncertain; 24% looks like a defensible midpoint, not a clearly large mispricing. No specific credible leak or omitted fact was found that would justify a large (>20¢) revision.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Iran strikes spotlight chances for North Korea to resume nuclear talks with Trump | Reuters
-Author: Heejin Kim
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://reuters.com/world/china/iran-strikes-spotlight-chances-north-korea-resume-nuclear-talks-with-trump-2026-03-02
-Summary: The article discusses recent U.S. and Israeli military strikes on Iran, which are believed to strengthen North Korea's nuclear ambitions under Kim Jong Un. Despite past summits between Kim and Trump in 2018 and 2019, negotiations on North Korea's nuclear arsenal have stalled, largely due to international sanctions and strategic tensions. Kim has recently emphasized building more nuclear weapons but remains open to talks depending on U.S. attitudes. The geopolitical climate, including U.S. actions against Iran and North Korea's response, suggests heightened tensions that could influence the likelihood of a future meeting between Trump and Kim in 2026. The article indicates that while Kim is open to dialogue, current U.S. policies and regional conflicts may impact the prospects of such a summit occurring.
+### [North Korean leader Kim watches cruise missile tests with his daughter](https://apnews.com/article/a091960cc5f438b2313aae5e243c9c13)
+**Author:** Unknown (AP) | **Published:** 2026-03-11
 
-Title: (LEAD) White House says Trump remains open to dialogue with Kim 'without any preconditions' | Yonhap News Agency
-Author: Song Sang-ho
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://en.yna.co.kr/view/AEN20260227000251315
-Summary: The White House has stated that former President Donald Trump remains open to engaging in dialogue with North Korean leader Kim Jong Un, emphasizing that such discussions would occur "without any preconditions." This indicates a willingness from Trump's side to consider direct talks with North Korea, potentially influencing the likelihood of a meeting in 2026. However, there are no specific details or confirmations about scheduled or planned meetings between Trump and Kim in the upcoming year. The statement reflects an openness to diplomacy, which could be relevant when assessing the possibility of a summit in 2026.
+AP reports that Kim Jong Un and his daughter observed strategic cruise missile tests in March 2026 as Pyongyang threatened responses to U.S.-South Korea drills. This is relevant because the tests and aggressive rhetoric indicate Pyongyang’s ongoing emphasis on military posture in early 2026, which weighs against a rapid re-opening of public summits with the U.S. and therefore argues for discounting immediate summit probabilities. It challenges bullish readings that emphasize only past pleasant rhetoric.
 
-Title: Kim Jong-un vows no ties with Seoul but leaves door open to US talks
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.euronews.com/2026/02/26/north-korea-shuns-relations-with-south-as-kim-jong-un-says-it-could-get-along-with-us
-Summary: Kim Jong-un has stated that North Korea will not establish ties with South Korea but remains open to engaging with the United States. While he has rejected dialogue with Seoul, Kim has indicated a willingness to potentially have discussions with U.S. officials, suggesting a possible avenue for diplomatic talks. This stance implies that, despite current tensions with South Korea, there remains a possibility for future negotiations between North Korea and the U.S., which could include meetings with leaders such as Donald Trump.
+### [Kim lauds North Korea's economy and regional standing as major party meeting opens](https://apnews.com/article/13331f3c040c01f92cabc0cd14972765)
+**Author:** Unknown (AP) | **Published:** 2026-02-20
 
-Title: North Korea in 2026: Will the US and South Korean push for talks ...
-Published Date: 2026-01-07T00:00:00.000Z
-URL: https://www.chathamhouse.org/2026/01/north-korea-2026-will-us-and-south-korea-push-talks-succeed
-Summary: The article indicates that prospects for a meeting between Donald Trump and Kim Jong Un in 2026 are unlikely. While US and South Korean leaders express interest in reviving dialogue with North Korea, Kim Jong Un has explicitly stated he would refuse talks unless the US abandons its focus on denuclearization. North Korea shows less interest in engaging with Seoul and is more inclined to negotiate with Washington, but the current diplomatic environment suggests that a direct meeting with Trump this year is improbable.
+AP coverage of the 9th Party Congress (Feb 2026) where Kim outlined domestic and foreign policy priorities, emphasizing consolidation and regional standing. The source is relevant because it shows Pyongyang’s early‑2026 priorities included domestic consolidation and military signaling, reducing the near‑term priority of a headline U.S.–DPRK summit and thereby tempering the likelihood of a 2026 meeting.
 
-Title: US-North Korea talks: What could happen now? - BBC
-Published Date: 2018-03-09T00:00:00.000Z
-URL: https://www.bbc.com/news/world-asia-43340272
-Summary: The article discusses the historic potential meeting between U.S. President Donald Trump and North Korean leader Kim Jong-un, scheduled for as early as May 2018. This would be the first face-to-face meeting between sitting leaders of the two nations, marking a significant diplomatic breakthrough. The exact location and details are still uncertain, with possibilities including Panmunjom or a neutral country like China. The primary agenda is denuclearization, though North Korea has not committed to fully abandoning its nuclear arsenal. Other issues include the return of Americans held in North Korea, recognition of North Korea as a nuclear state, and the possibility of a peace treaty, which might involve U.S. troop withdrawals from South Korea. Given the historical context and the ongoing nature of diplomatic negotiations, predicting whether Trump will meet Kim in 2026 remains uncertain, as it depends on the outcomes of ongoing talks and political developments over the coming years.
+### [Trump says he 'would love' to meet N. Korea's Kim during Asia trip (Yonhap)](https://en.yna.co.kr/view/AEN20251027010652315)
+**Author:** Yonhap News Agency | **Published:** 2025-10-27
 
+Yonhap reports Trump’s public statements in October 2025 that he “would love” to meet Kim while on an Asia trip and that he might extend his itinerary. This is a key bullish datapoint because it demonstrates active willingness on the U.S. side and creates credible pathways (e.g., summit on margins of multilateral events or a short-notice bilateral) that traders would rationally consider when estimating 2026 meeting probability.
 
+### [Kim Jong‑Un Says He’s Open To U.S. Talks—Recounts ‘Fond Memories’ Of Trump](https://www.forbes.com/sites/siladityaray/2025/09/22/kim-jong-un-says-hes-open-to-us-talks-recounts-fond-memories-of-trump/)
+**Author:** Siladitya Ray (Forbes) | **Published:** 2025-09-22
+
+Forbes summarizes Kim’s September 2025 comments that he had “fond memories” of Trump and would be open to talks if Washington dropped denuclearization demands. This is relevant because it provides direct evidence from Pyongyang’s messaging that conditional receptivity exists — increasing the baseline probability — while simultaneously clarifying the strong precondition (U.S. policy change) that limits the immediate plausibility of a summit.
+
+### [North Korea Briefing (38 North), January 2026 (PDF)](https://www.38north.org/wp-content/uploads/pdf/North-Korea-Briefing_2026-0115.pdf)
+**Author:** 38 North (U.S.-based Korea watchers; multiple contributors) | **Published:** 2026-01-15
+
+38 North’s analyst briefing reviews DPRK diplomatic posture and notes Pyongyang’s cautious weighing of diplomatic openings and reactions to regional signaling. This specialist analysis helps interpret the public signals (e.g., why Kim’s “fond memories” comment may be calculated and conditional) and supports the idea that behind-the-scenes calculus — not only public soundbites — determines whether a meeting will be scheduled. It therefore supports caution about large adjustments to market price absent firm diplomatic signs.

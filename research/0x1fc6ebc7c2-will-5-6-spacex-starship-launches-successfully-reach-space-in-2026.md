@@ -1,88 +1,121 @@
 # Research: Will 5-6 SpaceX Starship launches successfully reach Space in 2026?
 
 **Market ID:** 0x1fc6ebc7c289f983c41bbbabcb8f89c40dd6e1775c3fef1d4db27345900918c2
-**Researched At:** March 6, 2026 at 04:17:14 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will 5-6 SpaceX Starship launches successfully reach Space in 2026?"
+**Researched At:** March 19, 2026 at 04:37:12 AM UTC
+**Search Query:** "Will 5-6 SpaceX Starship launches successfully reach Space in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 7.4¢
 
 ### Summary
 
-The evidence shows balanced technical/regulatory risks against SpaceX’s rapid iteration, with no clear 20+ point edge. The 36.5% price plausibly reflects uncertainty, suggesting only a minor (<10 cents) mispricing.
+FAA approvals and rapid SpaceX build‑out materially increase the feasibility of multiple Starship flights in 2026, and because the market’s bar is only ≥62 miles (not full orbit) the YES case is plausibly higher than the market’s 38.5% price. However, development risk, schedule uncertainty, and the market’s narrow “exactly 5–6” resolution make the mispricing moderate rather than decisive.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether SpaceX will record exactly between five and six (i.e., 5 or 6) Starship launches reaching at least 62 miles altitude during 2026. A YES resolution requires five or six successful lift-offs that achieve that altitude; any other number (fewer than five or more than six) resolves NO.
+Planning and assumptions
+- I used the three allotted web searches to gather primary/regulatory sources and high-quality news analysis about Starship’s regulatory approvals, recent flight cadence, and SpaceX’s public plans. I focused on FAA documents and reputable outlets (CNBC, Space.com, NASASpaceflight, CNN).
+- I treat the market resolution rule literally: any Starship takeoff that reaches ≥62 miles (≈100 km) between 2026-01-01 and 2026-12-31 counts toward the 5–6 threshold even if a later anomaly occurs.
 
-2. EVIDENCE EVALUATION  
-Bearish indicators (suggest price too high):  
-• All 2026 launches hinge on the first orbital attempt in mid-March; delays and regulatory approvals remain pending.  
-• Extended pauses (five months without flights) and new V3 upgrades introduce technical risk; early failures would force schedule slips and undercut a five-launch cadence.  
-• Historic Starship test program saw low success rates and slow iteration, making six successes within one year ambitious.  
+1) CONTEXT ANALYSIS
+- What the market asks: Will 5–6 SpaceX Starship launches reach ≥62 miles altitude during calendar year 2026? YES = exactly 5 or 6 launches (the market wording: “Will 5-6 SpaceX Starship launches successfully reach Space in 2026?”) — note: the market’s description says it will resolve according to the number of launches reaching ≥62 miles between Jan 1 and Dec 31, 2026; otherwise it resolves to “No.” Practically, YES means the count of launches that meet the altitude condition is either 5 or 6.
+- What must happen for YES: At least five launches (and at most six) that each take off and reach ≥62 miles within the calendar year. If fewer than five or more than six launches reach that altitude, the market resolves NO.
+- Key resolution considerations: (a) altitude threshold is modest (62 miles ≈ Kármán line ≈ 100 km) — lower than orbital insertion; (b) a launch that reaches ≥62 miles and later explodes still counts per the market; (c) timing window is the full 2026 calendar year.
 
-Bullish indicators (supporting ~36.5%):  
-• SpaceX’s rapid iteration and Raptor 3 static-fire testing suggest they can recover from early setbacks.  
-• FAA licenses and EIS planning for multiple complex operations imply infrastructure and regulatory runway for several launches.  
-• Musk’s stated ambitions and production scale-up at both Texas and Florida pads point toward a mid-to-late-2026 ramp.  
+2) EVIDENCE EVALUATION (all evidence assessed for recency and credibility)
 
-All sources are from March 2026, reputable, but they reflect plans rather than demonstrated cadence. No single obvious data point (e.g., a missed launch window) remains unpriced, so neither side has a glaring informational edge.
+Evidence suggesting the market price (38.5%) might be too low (i.e., YES likelier than price implies)
+- FAA regulatory pathway and approvals: The FAA’s public Starship environmental review pages show active, recent Tiered Environmental Assessment work and license-modification activity permitting increased cadence at Boca Chica and trajectory/landing-profile updates (FAA pages updated March 2026). This demonstrates regulators are actively clearing the way for more Starship flights from U.S. sites. (FAA NEPA/Tiered EA documents). ([faa.gov](https://www.faa.gov/space/stakeholder_engagement/spacex_starship/environmental_review?utm_source=openai))
+  - Effect: Regulatory bottlenecks have been meaningfully relaxed compared with earlier years; that increases the feasible number of Starship flights in 2026, making ≥5 flights more plausible.
+- Public reporting of permission/increases and SpaceX’s infrastructure buildout: Credible business outlets reported FAA permission increases (e.g., permission to increase launches from 5 → 25/year at Starbase in 2025), and multiple reporting threads indicate SpaceX is building pad/production capacity (Florida/Cape facilities, SLC-37 studies that discuss high annual capacity). These are concrete enabling factors for multiple flights in 2026. ([cnbc.com](https://www.cnbc.com/2025/05/06/spacex-gets-faa-permission-for-fivefold-increase-in-launches-in-texas.html?utm_source=openai))
+  - Effect: If Starbase can do dozens per year and Florida pads are being prepared, logistically 5–6 flights in 2026 are within an achievable production/ops envelope.
+- Recent/test flight cadence and planned Block 3 (V3) flight: Space.com and other outlets reported an upgraded Block 3/V3 integrated flight targeted in early 2026 (Flight ~12) and that SpaceX is actively stacking boosters and vehicles. SpaceX has continued to iterate rapidly; public statements from Musk targeting higher cadence also exist. That shows active development and imminent capability steps. ([space.com](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-mid-march-for-1st-flight-of-bigger-more-powerful-starship-version-3-elon-musk-says?utm_source=openai))
+  - Effect: Multiple flights are scheduled/expected in early 2026; because the market counts altitude >62 miles (not full orbit), many test flights are likely to meet that bar.
 
-3. MARKET EFFICIENCY ANALYSIS  
-The 36.5% price could reflect a balanced view of technical/regulatory risk versus SpaceX’s execution capability. Low volume hints at few participants, but the tight spread suggests any active trader was content to post at 36.5%. It may be more a “fair consensus” from one or two participants than broad market wisdom, but there is no sign of a large consensus gap to exploit.
+Evidence suggesting the market price might be too high (i.e., YES less likely than price implies)
+- Program risk and past test failures: Reporting across outlets shows Starship experienced multiple failures during development; not all integrated tests reliably met all objectives. Some flights in 2024–2025 failed to achieve mission objectives; development risk remains. (press coverage of failed flights and FAA license remediations). ([amp.cnn.com](https://amp.cnn.com/cnn/2025/05/22/science/spacex-starship-launch-approval?utm_source=openai))
+  - Effect: High failure or schedule slips could reduce the number of launches that actually reach ≥62 miles in 2026.
+- Uncertainty about exact cadence and operational readiness: While permits and plans exist, building a steady multi-flight cadence (and achieving repeated flights that reach 62+ miles) requires stable supply chains, enough assembled vehicles and boosters, and predictable pad/airspace scheduling. Reporting indicates large ambitions (weekly or higher cadence statements), but these are aspirational and contingent on successful iterative testing. Several news pieces caution that plans to ramp to dozens/year are contingent and may slip. ([space.com](https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025?utm_source=openai))
+  - Effect: Ambitious public claims may already be discounted by traders; program risk and sequencing (e.g., pad readiness, environmental mitigations, FAA conditions such as inspectors) could suppress probabilities.
 
-4. MISPRICING ASSESSMENT  
-No missing, high-quality insight jumps out that would shift probability by 20+ points. Both upside (quick ramp) and downside (early failures) appear factored in. Given the horizon to December 2026, uncertainty is high but roughly balanced. The price seems plausible, with at most a small mispricing (<10 cents).
+Credibility and recency
+- FAA pages are primary, authoritative, and recently updated (FAA Tiered EA page updated March 10, 2026). These are the highest-credibility sources for permission/capacity. ([faa.gov](https://www.faa.gov/space/stakeholder_engagement/spacex_starship/environmental_review?utm_source=openai))
+- Major business/space outlets (CNBC, Space.com, NASASpaceflight, CNN) are reputable and recent (2025–Mar 2026 reporting) and provide reporting on progress, approval actions, and operational targets. They are appropriate for assessing feasibility but include some interpretation. ([cnbc.com](https://www.cnbc.com/2025/05/06/spacex-gets-faa-permission-for-fivefold-increase-in-launches-in-texas.html?utm_source=openai))
+- Caveat: Public statements by SpaceX/Elon Musk about cadence are aspirational and should be weighted with program risk; regulatory permissions do not guarantee realized flights.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 30%  
-Magnitude of mispricing: 5 cents  
-Expected value = 0.30 × 5 cents = 1.5 cents
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation(s) that justify the current price (~38.5%):
+  - Traders may be discounting program risk: although permits and infrastructure exist, successful repeated flights depend on iterative fixes and steady ops — a plausible reason to price <50%.
+  - The market’s zero-dollar volume and tiny spread indicate almost no liquidity; the quoted price is easily set by one or a few stakers and likely reflects subjective judgement rather than an information-aggregating crowd.
+  - Traders could be factoring in that the market resolves YES only for exactly 5–6 launches (not “≥5”), so a scenario with many more than six successful flights actually causes a NO — that peculiarity makes pricing non-monotonic to some observers and could lower the market probability relative to a simpler “≥5” question.
+- Could the price reflect genuine consensus? It could reflect a cautious consensus that the program will have several flights but not precisely land in the narrow 5–6 bucket; some informed traders might prefer not to risk the complexity and thus set the price conservatively.
+- Is low volume because outcome is obvious or because traders haven’t engaged? Evidence (zero total vol, age 97d) suggests lack of engagement. Given the topic’s technicality and that the market’s payoff hinges on a narrow numeric bucket (exactly 5–6), many informed participants may avoid a small-volume market with odd resolution rules — supporting the interpretation that the price is not a robust market-implied probability.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The evidence shows balanced technical/regulatory risks against SpaceX’s rapid iteration, with no clear 20+ point edge. The 36.5% price plausibly reflects uncertainty, suggesting only a minor (<10 cents) mispricing.  
+4) MISPRICING ASSESSMENT (objective weighing)
+- Is there specific, credible evidence missing from the current price? The strongest primary evidence for a higher chance of 5–6 successful reaches in 2026 is:
+  1) FAA approvals and recent Tiered EA activity showing permission and trajectory/landing profiles updated in early 2026 (regulatory barrier largely addressed). This materially increases feasibility. ([faa.gov](https://www.faa.gov/space/stakeholder_engagement/spacex_starship/environmental_review?utm_source=openai))
+  2) SpaceX’s rapid operational tempo across other vehicles (165 orbital flights company-wide in 2025 shows organizational ability to run many launches) plus press that SpaceX is actively stacking Starship boosters and targeting Block 3 flights in early 2026. Those operational signs support multiple test flights in 2026. ([space.com](https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025?utm_source=openai))
+- Evidence balancing against that: ongoing development failures, the conditional nature of “ambitious” cadence statements, and potential FAA/other mitigations or environmental/legal friction that can limit launches or slow cadence. ([amp.cnn.com](https://amp.cnn.com/cnn/2025/05/22/science/spacex-starship-launch-approval?utm_source=openai))
+- Important technical/resolution detail: Because the market counts any launch that reaches ≥62 miles, that lowers the bar compared with full orbital success — this is favorable to the YES outcome and could be underweighted by traders who think in terms of full orbital success or NASA-class milestones.
+- Conclusion on mispricing: There is credible evidence that achieving ≥5 launches that clear 62 miles in 2026 is reasonably plausible (FAA approvals, production/stacking activity, upcoming Block 3 test flights). The market price at 38.5% appears conservative but not implausible given remaining technical and schedule risk. I find some evidence of undervaluation, but not overwhelmingly strong or conclusive because uncertainties remain about operational cadence and reliability. Therefore I assess a moderate, not large, mispricing in favor of YES.
+
+CRITICAL CHECK
+- Did I misunderstand the resolution? No — the market counts launches that reach ≥62 miles in calendar 2026. That threshold is lower than orbital insertion and is explicitly clarified in the market description, so several test flights that suborbital or that later fail can still count. This makes YES easier than a full-orbit criterion; traders who price with “full orbit” in mind may underprice.
+- Could I be missing trader-only info? Possibly (private SpaceX scheduling/manifest, government contract restrictions, last-minute FAA constraints), but primary public regulatory sources (FAA EA and license modifications) are authoritative and recent; there is no public sign of a categorical prohibition on multiple flights in 2026.
+- Because the possible mispricing I identify is moderate (not a very large gap), I do not claim a >20-cent arbitrage without further private information or liquidity.
+
+5) EXPECTED VALUE CALCULATION
+- My judgment of the “true” probability that exactly 5–6 Starship launches will reach ≥62 miles in 2026: ~55% (this reflects the lower-bar altitude condition, the regulatory clearances, and SpaceX operational momentum, tempered by program risk and schedule uncertainty).
+- Market probability: 38.5% → implied underpricing ≈ 16.5 percentage points = 16.5 cents.
+- Strength of evidence that this underpricing is genuine (how much of the gap is supported by evidence and not an artifact): I rate the strength at ~45% (there is solid regulatory evidence and clear operational capability signs, but countervailing reliability/schedule risks and the narrow “exactly 5–6” resolution create substantial uncertainty).
+- Expected value = Strength × Magnitude = 0.45 × 16.5 cents ≈ 7.4 cents.
+
+(rounded and reported as cents below)
+
+6) CONFIDENCE
+- My overall confidence in this assessment: medium. There are strong primary sources (FAA, contemporaneous reporting) but meaningful uncertainty remains regarding launch cadence, reliability, and the unusual “exactly 5–6” clause.
+
+FINAL NUMBERS (required format)
+EXPECTED_VALUE: 7.4
+SUMMARY: FAA approvals and rapid SpaceX build‑out materially increase the feasibility of multiple Starship flights in 2026, and because the market’s bar is only ≥62 miles (not full orbit) the YES case is plausibly higher than the market’s 38.5% price. However, development risk, schedule uncertainty, and the market’s narrow “exactly 5–6” resolution make the mispricing moderate rather than decisive.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: SpaceX's Starship could make 2026 debut in March. Here's the latest
-Author: Eric Lagatta
-Published Date: 2026-03-02T00:00:00.000Z
-URL: http://vcstar.com/story/news/nation/2026/03/02/elon-musk-spacex-starship-launch-date/88901990007/
-Summary: SpaceX's Starship has not yet launched in 2026, with the latest update indicating a potential launch window in March 2026. The company has experienced extended periods without launches from its South Texas facility, possibly due to preparations for a significant upgrade or new version of the 400-foot megarocket. Given the current timeline and development status, while a launch is anticipated in early 2026, the success of 5-6 Starship missions reaching space within the year remains uncertain and depends on the outcome of upcoming tests and launches.
+### [Environmental Review](https://www.faa.gov/space/stakeholder_engagement/spacex_starship/environmental_review)
+**Author:** Federal Aviation Administration | **Published:** 2026-03-10
 
-Title: SpaceX Launch March 2026: Starship V3 Set for First Orbital Attempt — Everything You Need to Know | IBTimes UK
-Author: Jim Manzon  
- 
- 
- Published  02 March 2026, 9:44 AM GMT
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://ibtimes.co.uk/spacex-starship-v3-new-era-space-exploration-1782370
-Summary: SpaceX is preparing for its first orbital test of the upgraded Starship V3, targeted for mid-March 2026. The upcoming Flight 12 will feature the new V3 configuration, including the debut of Raptor 3 engines, which offer nearly double the thrust at reduced costs. Ship 39, the first V3 upper stage, has undergone prelaunch testing at SpaceX’s Starbase facility, including cryogenic pressure tests and possibly static fires. While the FAA has cleared flight safety, final regulatory approval is still pending. Given the progress and testing status, multiple Starship launches in 2026 could potentially reach space, but success depends on regulatory approvals and successful test outcomes.
+FAA’s Starship regulatory portal and Tiered Environmental Assessment pages (last updated March 10, 2026) document the agency’s ongoing environmental reviews and license-modification activities for Starship/Super Heavy operations at Boca Chica and other US sites. These pages are primary evidence that major regulatory hurdles have been actively addressed and that modifications to trajectories, landing profiles, and airspace closures have been processed — increasing the operational feasibility of multiple Starship flights in 2026. This supports a higher probability that several launches in 2026 could reach ≥62 miles, because regulatory permission is a key gating factor for cadence.
 
-Title: Starship could make 2026 debut in March as SpaceX preps for Florida
-Author: Eric Lagatta
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://floridatoday.com/story/news/2026/03/03/spacex-starship-flight-12-launch-date-florida/88945058007/
-Summary: SpaceX is preparing for the potential debut of its Starship rocket in March 2026, with significant activity focused on Florida. After a period of delays and months without launches from Starbase in Texas, the company appears to be advancing toward a pivotal version of the 400-foot megarocket. While the exact success rate of upcoming launches remains uncertain, the ongoing preparations and recent developments suggest that SpaceX is aiming for multiple launches in 2026. However, given the history of delays and technical challenges, achieving 5-6 successful Starship missions reaching space within the year will depend on the outcome of upcoming test flights and system readiness.
+### [SpaceX Starship-Super Heavy Project at the Boca Chica Launch Site](https://www.faa.gov/space/stakeholder_engagement/spacex_starship)
+**Author:** Federal Aviation Administration | **Published:** 2026-02- (site updated; page lists recent documents)
 
-Title: Starship could make 2026 debut in March as SpaceX preps for Florida
-Author: Eric Lagatta
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.mypalmbeachpost.com/story/news/2026/03/03/spacex-starship-flight-12-launch-date-florida/88945058007/
-Summary: SpaceX's Starship has experienced a significant delay in its launch schedule in early 2026, with no launches from Starbase in nearly five months. This pause is unusual given its recent consistent testing history. The delay is likely due to SpaceX preparing a new, upgraded version of Starship designed for upcoming missions to the Moon and potentially Mars. Elon Musk has indicated that the next launch, possibly in early March, will be Starship's 12th flight overall and the first of 2026. With plans to conduct multiple test flights and a maiden launch from Florida later this year, the likelihood of achieving 5-6 successful launches reaching space in 2026 depends on the progress of these final preparations and testing milestones.
+The FAA’s summary page for Starship/Super Heavy links to draft and final tiered EAs and notes license modification actions and launch-trajectory additions. It highlights that the FAA examined increased-cadence proposals (e.g., modifications beyond the original 5 launches/year) and released tiered assessments allowing route and landing-profile updates. This doc strengthens the view that regulatory approval exists in principle for an elevated number of flights from U.S. sites in 2026, which makes multiple ≥62-mile flights feasible; it therefore challenges the low market probability.
 
-Title: SpaceX Starship-Super Heavy Launch Vehicle at ...
-URL: https://www.faa.gov/space/stakeholder_engagement/spacex_starship_ksc/SpaceX-SSH-LC-39A-Final-EIS-Volume-I.pdf
-Summary: The FAA's Environmental Impact Statement (EIS) for SpaceX's Starship-Super Heavy launches at Kennedy Space Center's Launch Complex 39A assesses infrastructure development, licensing, and environmental considerations for upcoming operations. While the document details plans for testing, launches, landings, and associated airspace closures in 2026, it does not explicitly confirm launch success rates or timelines. However, the comprehensive planning and regulatory approvals underway suggest that SpaceX is progressing toward operational launches in 2026. Given the ongoing infrastructure enhancements and regulatory support, there is a reasonable expectation that 5-6 Starship launches could be achieved successfully in 2026, contingent on technical and safety milestones.
+### [SpaceX gets FAA permission for fivefold increase in launches in Texas](https://www.cnbc.com/2025/05/06/spacex-gets-faa-permission-for-fivefold-increase-in-launches-in-texas.html)
+**Author:** Unknown (CNBC reporting) | **Published:** 2025-05-06
 
+CNBC reported the FAA decision that cleared the way for a higher number of Starship launches from SpaceX’s Texas site (reporting permission to increase from ~5 to ~25 launches/year after environmental review). This article provides a mainstream-business corroboration of expanded launch permissions and includes context on the conditions and public comment process. The piece is relevant because it documents an explicit increase in permitted annual cadence — a material operational enabler that supports the plausibility of ≥5 launches in 2026.
 
+### [SpaceX targeting mid-March for 1st flight of bigger, more powerful Starship 'Version 3,' Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-targeting-mid-march-for-1st-flight-of-bigger-more-powerful-starship-version-3-elon-musk-says)
+**Author:** Tariq Malik (Space.com) | **Published:** 2026-01-28
+
+Space.com reported that SpaceX was targeting an early‑2026 flight for an upgraded Starship “V3”/Block‑3 vehicle (Flight ~12) and that SpaceX was stacking boosters and vehicles in advance. The report is recent and links program cadence to imminent test activity; this supports the plausibility that multiple Starship test flights could occur in 2026 and that several might reach the 62‑mile threshold (since test profiles often cross that altitude).
+
+### [From Delta to Starship, SpaceX's ambitious plan for SLC‑37's future](https://www.nasaspaceflight.com/2025/06/slc-37-starship-draft-eis/)
+**Author:** Mike (NASASpaceflight.com) | **Published:** 2025-06- (article date June 2025)
+
+NASASpaceflight’s reporting on SpaceX planning for Cape Canaveral (SLC‑37) and associated Draft EIS documents describes intentions and NEPA-studied maximum launch capacities for Florida pads (large numbers cited in EIS drafts). The article explains that Florida infrastructure could enable many Starship launches in future years and that 2026 was treated as the start of these planned operations in environmental documentation. This supports the operational-capacity side of the feasibility case — more pads and capacity reduce a schedule bottleneck risk — but the article also stresses the contingency/practical constraints, tempering confidence.
+
+### [SpaceX shatters its rocket launch record yet again — 165 orbital flights in 2025](https://www.space.com/space-exploration/private-spaceflight/spacex-shatters-its-rocket-launch-record-yet-again-167-orbital-flights-in-2025)
+**Author:** Elizabeth Howell (Space.com) | **Published:** 2026-01- (published ~two months ago)
+
+Space.com reported SpaceX’s extremely high operational cadence across the company in 2025 (~165 orbital flights), demonstrating organizational capability to conduct very frequent launches. While most of those flights used Falcon-class vehicles, the article is relevant because it shows SpaceX’s organizational ability to operate at scale and to support increased Starship ops (manufacturing, launch ops, range coordination). That operational strength makes multiple Starship flights in 2026 more plausible, though the article does not claim Starship will itself account for high numbers in 2026.

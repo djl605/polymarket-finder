@@ -1,7 +1,7 @@
 # Research: Will the Republican Party hold between 195 and 199 House seats after the 2026 midterm elections?
 
 **Market ID:** 0xa6af312109c285d70f39a4f8d8e3d4a2e7e12bcabe5ab03527396a3a1377925d
-**Researched At:** March 12, 2026 at 06:18:46 PM UTC
+**Researched At:** March 19, 2026 at 04:45:39 AM UTC
 **Search Query:** "Will the Republican Party hold between 195 and 199 House seats after the 2026 midterm elections?"
 
 ---
@@ -9,78 +9,67 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 5.0¢
+**Expected Value:** 4.5¢
 
 ### Summary
 
-Recent polling, expert seat ratings, special-election momentum, and a high number of GOP retirements raise the plausibility that Republicans could lose ~19–23 seats (the market’s 195–199 band), suggesting the market may be modestly underpriced. However incumbency, map geometry, GOP fundraising, and the narrowness of the seat band mean uncertainty remains large; I estimate a modest EV of ~5.0 cents with medium confidence.
+Public indicators (March 2026 polling and special-election signals) show a Democratic advantage in the national environment and a realistic path for Democrats to flip ~20+ House seats, making the market’s 15.5% probability for Republicans finishing with 195–199 seats plausible. Countervailing factors — redistricting battles that may net modest GOP gains, incumbency, and a small universe of competitive seats — reduce the chance of a clean 19–24 seat GOP loss; given mixed evidence and low trading 
 
 ### Full Analysis
 
-I researched current polling, expert ratings, fundraising, retirements/special-election trends, and redistricting litigation to evaluate whether the prediction-market price (17%) for “Republicans hold between 195 and 199 House seats after the 2026 midterms” shows credible mispricing. Below I summarize the market question, review all relevant evidence (bullish and bearish for Republicans landing in that 195–199 band), assess market efficiency given its low volume, carry out the critical mispricing checks you asked for, and give a numeric expected-value estimate for investigating/trading this market.
+Plan & searches used (budget 3): I searched (1) authoritative composition/CRS data for current House seat counts, (2) recent mainstream reporting on special elections, retirements and redistricting (AP, Axios), and (3) poll/forecast indicators (Silver Bulletin generic ballot, Cook Political Report open-seat/ratings pages). Those are the five load-bearing sources cited below.
 
-1) CONTEXT ANALYSIS — exactly what the market asks and how it resolves
-- The market resolves to YES if, once all U.S. House elections scheduled for November 2026 (as of Oct 31, 2026) are “conclusively called” by the resolution sources (Associated Press, Fox News, NBC) — including any runoffs called later — the number of seats held by the Republican Party is in the inclusive range 195–199. It uses the party label on ballots or other identifiable affiliation at the time the races are called; if the three media sources fail to agree, the market falls back to official certification.
-- Practically: today the Clerk shows Republicans with ~218 seats; for the market to resolve YES Republicans would have to lose roughly 19–23 net seats (218 → 199 down to 195). That is a sizable but historically-plausible midterm swing for the president’s party; it would represent a clear Democratic pickup and give Democrats a comfortable majority.
+1) CONTEXT ANALYSIS
+- What the market asks: “Will the Republican Party hold between 195 and 199 House seats after the 2026 midterm elections?” A YES requires the Republican seat total (counting party affiliation as determined per the market’s resolution rules) to be at least 195 and at most 199 once all November 2026 House races (and any required runoffs) are conclusively called by the market’s resolution sources (AP, Fox, NBC) or by official certification if those three do not agree. A NO occurs if Republicans end up with ≤194 seats or ≥200 seats.
+- What that implies in practice: Using authoritative recent counts, Republicans currently hold roughly ~219 seats (Congress Research Service baseline) and — after recent vacancies — about 218–219 in current reporting. For Republicans to finish in 195–199, they would need a net loss of roughly 19–24 seats in November 2026 (depending on the exact baseline used at resolution time). Those are the magnitudes we should evaluate vs. historical midterm swings, polling, redistricting, incumbency, and seat-level ratings.
 
-2) EVIDENCE EVALUATION — evidence that matters for predicting the band 195–199
+2) EVIDENCE EVALUATION (all claims below cite the sources listed at the end)
+- Evidence that suggests the market price (15.5%) might be too high (i.e., Republican outcome more likely than market implies):
+  - Structural map advantages and targeted redistricting activity: reporting shows mid‑decade redistricting fights in multiple states that, in net, appear to give Republicans a modest map edge (Axios documents GOP mid-decade map activity that could be a net +3 seats for Republicans in aggregate). If redistricting is net‑pro‑Republican, that materially reduces the expected seat losses vs. a uniform national swing calculation and makes a Republican outcome in the 195–199 band less likely to be an extreme tail event. (Axios)
+  - Incumbency and small universe of competitive seats: many analysts (Cook, inside-elections coverage) emphasize that the number of truly competitive House seats is historically small; even a material national swing often translates into a limited seat swing. That reduces the variance of seat outcomes and makes very large net losses less likely than a raw national-seat-share model might imply. (Cook Political Report)
+  - GOP fundraising/organization and defenses: coverage of NRCC/NRSC strategy (and early GOP optimism) suggests the party is preparing to defend many vulnerable seats; those resources can blunt expected losses. (Cook/party coverage; general reporting)
 
-Evidence that makes a Republican result in 195–199 (i.e., substantial GOP losses) more likely (evidence that suggests the market price might be too low):
-- National environment / generic ballot: multiple polling aggregates and trackers show Democrats leading the generic congressional ballot in early 2026 (typically a few points, e.g., Democratic +3 to +6 across trackers). A sustained D+4 national environment historically translates to midterm House seat swings large enough to put Democrats in position to flip multiple seats (raising probability Republicans fall into the 195–199 range). This is relevant because the national swing is a major driver of many House seats. (sources: Silver Bulletin / polling averages; FiftyPlusOne polling aggregator; Brookings analysis).
-- Historical midterm baseline: modern midterms typically punish the president’s party; Brookings and other analysts note the average midterm loss for the president’s party is large (on the order of ~20–30 seats), which by itself makes a 19–23-seat Republican loss plausible. (source: Brookings analysis).
-- Expert seat ratings: nonpartisan handicappers (Cook Political Report, Inside Elections, Sabato/Crystal Ball, etc.) show a compact but contested House battlefield with a number of toss-up or leaning seats Democrats can plausibly win. Cook’s published ratings include a sizable set of competitive/toss-up races with several moves favoring Democrats in recent updates — this supports a nontrivial probability of Republicans losing 19–23 seats. (sources: Cook Political Report, Inside Elections).
-- Special-election trend and retirements: Democrats won multiple competitive special elections through 2025–early 2026 (momentum indicator) and Republicans have an unusually large number of House retirements (dozens), which tends to make open GOP seats more contestable. High GOP retirements raise variance and vulnerability. (sources: aggregated reporting — Axios on retirements; special election coverage).
-- Redistricting dynamics: several mid-decade redistricting attempts by Republicans (notably Texas) have been legally challenged and in at least one case blocked by federal judges; that reduces some GOP upside from maps that were intended to net extra GOP seats. Blocking favorable maps reduces the GOP’s structural advantage in a few states. (source: AP on Texas map block).
+- Evidence that supports the market price (i.e., Republican outcome in 195–199 is plausible and market’s low probability is reasonable):
+  - National polling/generic ballot: Nate Silver’s Silver Bulletin generic ballot average (updated Mar 18, 2026) shows Democrats ahead roughly D+5.4. A sustained Democratic margin of that size historically maps to midterm gains that could reach or exceed the 19–24 seat loss range for the president’s party in some models. That polling is direct evidence of a national environment favorable to Democratic House gains. (Silver Bulletin)
+  - Presidential approval / environment: AP‑NORC polling and AP reporting indicate President Trump’s approval remains underwater (around ~40% approve), and the AP analysis flags economic and other issues creating vulnerability for the president’s party. Historically the president’s party tends to lose seats in midterms, and with approval weak the expected losses increase. (AP)
+  - Special election signals & retirements: AP and other reporting document Democratic wins in recent special elections and a higher-than-usual number of retirements (47 reported incumbents as of mid‑Jan 2026), producing many open and potentially flippable seats. Special-election Democratic overperformance in some Trump‑leaning districts is a warning sign for the GOP and implies higher downside risk for Republican seats. (AP)
+  - Expert ratings: Cook Political Report’s open-seat tracker and ratings indicate a non-trivial universe of competitive seats (dozens of competitive or open-seat races). Multiple respected handicappers currently show many seats in play — consistent with a realistic path to a 20‑seat GOP loss. (Cook)
 
-Evidence that supports the market price being reasonable or that reduces the odds Republicans land specifically in 195–199 (evidence that supports the market):
-- Fundraising and party resources: recent FEC filings and reporting show the national Republican congressional committees and some state-level Republican organizations are raising and holding substantial cash — in some recent reporting the RNC/House GOP committees out-raised Democrats for prior reporting periods — which improves GOP capacity to defend seats and reduces the likelihood of a large wave. (source: AP coverage of fundraising).
-- Incumbency and district structure: incumbency advantage, the geographic distribution of Democratic voters (concentration in safe districts), and existing Republican-friendly maps in several states mean national vote swings do not translate perfectly into seat swings; that structural protection reduces the probability of large seat swings and tilts outcomes back toward Republicans relative to naive national-swing calculations.
-- State-level redistricting wins for Republicans: while some proposed GOP mid-decade maps were blocked, other states produced maps favorable to Republicans (or remain favorable under existing lines) — so map changes are not unilaterally bad for the GOP in all places. (news reporting/ratings reflect mixed outcomes).
-- Uncertainty from foreign/fast-moving events: ongoing geopolitical events (e.g., developments that could boost president/party approval or rally the incumbent’s coalition) introduce upside tail risk for Republicans. In short, events can break the expected midterm pattern between now and November.
+- Credibility and recency:
+  - Congress.gov/CRS and AP are high‑quality, timely, and directly relevant to baseline seat counts and special election impacts. (high credibility)
+  - Silver Bulletin (Nate Silver’s Substack) is a well‑known poll aggregator; the March 18, 2026 update is recent and directly measures the key predictor (generic ballot). (high credibility for polling aggregate)
+  - Cook Political Report is authoritative for seat-level ratings, though much of their detailed content is subscriber-only. Public pages (open-seat tracker) and their commentary are still informative. (high credibility)
+  - Axios is a mainstream news analysis outlet; its redistricting analysis is data-driven and timely. (good credibility)
+- Balanced skepticism: If the polling and special election signals are truly this favorable to Democrats, then expert handicappers and markets should already reflect that — but they do to an extent (ratings show toss-ups and some Democratic advantage). Given the market’s low volume and tight spread, it’s plausible the market price (15.5%) reflects either a cautious, conservative estimate of the tail probability that Republicans will land exactly in 195–199 — not the chance Democrats take the House outright.
 
-Credibility and recency of sources
-- I prioritized primary/current sources and reputable analysts: the Office of the Clerk of the House (official seat tally), Cook Political Report, Inside Elections, Brookings, Associated Press, Axios, and the Federal Election Commission reports or AP summaries of filings. These are contemporary (early March 2026) and reputable. Poll-aggregator products (Silver Bulletin / FiveThirtyEight methodology) are methodologically transparent and recent; I treated them as supportive signal rather than deterministic truth.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation(s) that justify the current price (15.5%):
+  - The market may be pricing the probability that Republicans lose a mid-to-large number of seats but not so many that they fall below 195; 15.5% can represent the assessed chance of exactly that band (195–199) rather than the broader probability of a Democratic majority. Traders may see a larger chance of smaller losses (keeping Republicans ≥200) or larger losses (Democrats flip majority), compressing the probability mass outside 195–199.
+  - The market may reflect one or a few informed traders who prefer to express conviction about this specific band (a narrow range) rather than general control — narrow band bets are more niche and attract less liquidity, producing low volume with a tight spread if a few players set the price.
+- Could price reflect genuine consensus or idiosyncratic bets?
+  - Low total volume ($4.8k) and very small spread (1¢) suggest few traders set price — that pattern is consistent with either a consensus from well-informed participants or simply a market where a small liquidity provider sits at the midpoint. Given the niche nature of a 195–199 band, the latter is plausible.
+- Why low volume might be occurring:
+  - Outcome is narrow and specialized (a 5‑seat band), which many traders won’t bet on specifically; most focus on control (which party ≥218) or broader seat swing ranges. Thus, the market may be overlooked by larger liquidity-providing traders.
+  - Alternatively, some informed traders may believe available public information (polls/ratings) is already priced in, so there is little edge.
 
-Skepticism about “obvious” evidence
-- The generic-ballot lead and historical midterm expectation are widely known and likely already priced by professional forecasters and many market participants. If the market were a broad, high-volume venue, those signals would almost certainly be baked into prices. The remaining question is whether the market’s particular band (195–199) is being priced correctly given state-level maps, incumbency, retirements, fundraising, and special-election trends.
+4) MISPRICING ASSESSMENT
+- Does the evidence point to a clear mispricing? No definitive proof either way. Evidence is mixed:
+  - Bullish-for-Democrats case (supporting the market price being reasonable): Democratic generic‑ballot lead (D+~5) and underwater presidential approval, plus special election wins and many competitive/open seats, point to a realistic path for Democrats to flip ~20+ seats — i.e., the band 195–199 for Republicans is plausible. Many expert trackers indicate a competitive environment with room for Democratic gains.
+  - Bullish-for-Republicans case (supporting the market price being perhaps too low): redistricting battles and targeted GOP map engineering, incumbency value, and a historically small universe of competitive seats could limit net losses and make very large GOP losses less likely; that pushes probability mass away from the 195–199 band and toward either smaller losses or larger catastrophe scenarios.
+- Critical check (are we missing something?): The market’s resolution rules are standard and straightforward. The most charitable interpretation of the 15.5% price is that it reflects a low-to-moderate chance of a substantial but not catastrophic GOP loss (≈19–24 seats), consistent with a Democratic national environment but offset by map/ incumbency factors. Given the niche payoff (exact seat band), it’s reasonable that the market assigns a single-digit or low‑double-digit probability to that band.
+- Conclusion on mispricing: There is insufficient, specific, credible evidence that the market is substantially mispriced. Public indicators (polls, approval, special elections, expert ratings) point toward material Democratic upside, which makes a 15.5% probability for the Republicans finishing with 195–199 plausible. Conversely, map advantages and incumbency argue against assigning a much higher probability to that exact narrow band. Because the evidence points both ways and the market is low‑volume, I cannot confidently identify a specific information edge that the market is missing.
 
-3) MARKET EFFICIENCY ANALYSIS — can the 17% price be rational?
-- Interpretations consistent with 17%:
-  - Traders think Democrats are favored to flip the House outright (i.e., Republicans will end below 195 more often than not), so the probability mass for Republican totals is concentrated either above the band (i.e., Republicans hold >199, a smaller loss) or below the band (i.e., Republicans lose more than ~23 seats). If forecasters assign higher probability to a Democratic wave larger than 23 seats, the specific 195–199 band could be relatively unlikely — consistent with a 17% price.
-  - Traders may expect a narrower Democratic gain or a more modest Republican loss (e.g., Republicans end ~205–215) based on incumbency map advantages and fundraising; in that world the 195–199 band is a lower-probability outcome.
-  - The market’s low volume ($4,109 total) and an 84‑day age with a tiny spread (2¢) suggests the price may be driven by one or a handful of participants rather than a broad, liquid aggregation. That said, a tight spread indicates the controlling trader(s) are confident in their view — not necessarily that the market is widely informed.
-- Could the price reflect consensus among informed traders?
-  - Possibly — the band is narrow (just five seat outcomes) and many expert forecasts emphasize either a narrow Democratic pickup or the potential for a larger wave. If most experts think Democrats will either barely flip the House or flip it by more than ~25 seats, the 195–199 band could indeed be low-probability. Professional handicapper ratings are consistent with a relatively narrow battlefield, which would make precise bands harder to assign high probability.
-- Is low volume because outcome is obvious or because traders haven’t engaged?
-  - Mixed. The national-story signals (generic ballot, incumbency, retirements) are widely available, so low volume likely reflects lack of engagement in this specific instrument rather than true lack of public information. Also many professional bettors prefer “control” markets or models that give probability of a flip rather than an exact seat-band market, so fewer participants may be active here.
+5) EXPECTED VALUE CALCULATION (value of investigating / trading this market)
+- Strength of evidence that public information is meaningfully missing from the price: I assess this at ≈45%. The evidence (polling, AP polling, Cook ratings, Axios redistricting) is strong but mixed — there is plausible, public support for both outcomes, so confidence that a sizable mispricing exists is moderate at best.
+- Magnitude of mispricing (if genuinely present): Given the market price 15.5% and the public indicators, a plausible maximal mispricing (what a reasonably informed bettor might expect to be wrong) is on the order of 8–12 cents (0.08–0.12) — i.e., the market might be off by that much if one side’s evidence is substantially undervalued. I will use 10 cents as a representative magnitude.
+- Expected value = Strength × Magnitude = 0.45 × 10 cents = 4.5 cents.
+- Interpretation: Investigating/placing a trade that exploits a 10‑cent mispricing has a modest expected value (~4.5¢) given the current public evidence and the narrowness of the market’s resolution band.
 
-4) MISPRICING ASSESSMENT — weigh evidence and apply the Critical Check
-- Do we have specific, credible evidence missing from the market price?
-  - Evidence that could increase probability Republicans end in 195–199 (i.e., show market is underpricing YES): multiple recent polls showing sustained D+4 or similar; Brookings’ historical-swing analysis showing expected losses in the ~20–30 seat range; Cook/Inside Elections rating shifts favoring Democrats; special-election trends and a large number of GOP retirements. These all increase plausibility that Republicans could land in the 195–199 window rather than preserve a larger share.
-  - Evidence that could decrease that probability (i.e., market is fairly or even optimistic about YES): GOP fundraising edge, incumbency/district protections, and state-level map advantages in some states reduce the probability mass in that specific narrow band.
-- Critical checks (why this band might be tricky):
-  - Make sure not to confuse “Democrats take control” with the narrower “Republicans end 195–199.” Many forecasts focus on who controls the House (binary) rather than exact seat totals. It’s possible forecasters assign a high probability Democrats take the House but also a sizeable chance Democrats do so by a larger margin than is covered by the 195–199 band; that would make this band legitimately low-probability even when bettors think Republicans will lose the majority.
-  - Resolution technicalities: the market requires AP, Fox, and NBC to “conclusively call” all races, or else wait for official certification. In extremely close or contested races, media outlets may delay or disagree; that could occasionally add resolution uncertainty and reduce the chance of an exact seat count being produced quickly — but it’s unlikely to materially change the election outcome distribution.
-- Conclusion from weighing evidence:
-  - There is credible evidence both ways. The preponderance of expert ratings, national polling averages, special-election trends, and historical midterm patterns suggest Democrats are favored to make at least moderate gains — making a Republican total inside 195–199 plausible and perhaps more likely than 17% would imply. Conversely, structural protections (incumbency, map geometry), GOP fundraising advantages, and the possibility of either a smaller Republican loss or a larger Democratic wave (both plausible) mean the narrow 195–199 band legitimately has lower probability than the binary “Democrats take control” question.
-  - Because the market is low-volume, I cannot infer that the price reflects a fully liquid consensus. At the same time, it’s plausible that informed traders have already considered national polling, ratings, retirements, and redistricting uncertainty and judged the band unlikely enough to set price near 17%.
+6) CONFIDENCE
+- Overall confidence in this assessment: medium. (There is credible, timely polling and ratings evidence pointing toward Democratic gains, but counter‑forces — redistricting, incumbency, limited toss‑up universe — make outcomes uncertain; the market's low volume also weakens inference about consensus.)
 
-5) EXPECTED-VALUE CALCULATION (estimate of value in investigating/trading this market)
-- My judgment about mispricing magnitude:
-  - Best single estimate of the “true” probability that Republicans will finish in 195–199 (given current public evidence and expert ratings): roughly 25–30%. That corresponds to a potential mispricing of ~8–13 percentage points relative to the market’s 17% price. I will use a conservative mid figure: a 10-cent (10 percentage point) mispricing magnitude.
-- Strength of evidence (how confident I am that evidence is *missing* from the market and supports a different price): medium (I assess ~50%). There are real data points (polls, ratings, retirements, redistricting rulings) that could push the band probability materially, but the existence of countervailing structural protections and the narrowness of the band mean this is not high‑confidence.
-- Expected value = Strength × Magnitude = 50% × 10 cents = 5.0 cents.
-- So I estimate expected value ≈ 5.0 cents per $1 traded (i.e., investigating/trading has modest positive expected value if you agree with the mid-case mispricing).
-
-6) CONFIDENCE IN THIS ASSESSMENT
-- My overall confidence in this assessment: medium.
-  - Rationale: The evidence is recent and comes from credible sources, but outcome distributions for a 435-seat legislature are sensitive to state-level details, candidate quality, and future events (economic/foreign-policy developments) — all substantial sources of uncertainty. Also the market’s very low volume means it could be set by a small information advantage that I can’t observe.
-
-BOTTOM-LINE JUDGMENT (concise)
-- The market’s 17% probability that Republicans will hold 195–199 seats is defensible as a low-probability estimate for a narrow seat band, but there is credible, contemporaneous evidence (national polling advantage for Democrats, historical midterm loss patterns for the president’s party, toss-up ratings that have moved toward Democrats, high GOP retirements, and special-election trends) that suggests the market may be modestly underpricing the chance Republicans fall into that band. I estimate a plausible mispricing on the order of ~10 percentage points (expected-value ≈ 5.0 cents), but with only medium confidence because structural advantages (incumbency, map geometry, GOP fundraising) and uncertainty about the exact distribution of seat outcomes could explain the current low price.
-
-EXPECTED_VALUE: 5.0
-SUMMARY: Recent polling, expert seat ratings, special-election momentum, and a high number of GOP retirements raise the plausibility that Republicans could lose ~19–23 seats (the market’s 195–199 band), suggesting the market may be modestly underpriced. However incumbency, map geometry, GOP fundraising, and the narrowness of the seat band mean uncertainty remains large; I estimate a modest EV of ~5.0 cents with medium confidence.
+EXPECTED_VALUE: 4.5
+SUMMARY: Public indicators (March 2026 polling and special-election signals) show a Democratic advantage in the national environment and a realistic path for Democrats to flip ~20+ House seats, making the market’s 15.5% probability for Republicans finishing with 195–199 seats plausible. Countervailing factors — redistricting battles that may net modest GOP gains, incumbency, and a small universe of competitive seats — reduce the chance of a clean 19–24 seat GOP loss; given mixed evidence and low trading volume, I do not find clear, actionable mispricing. 
 CONFIDENCE: medium
 
 ---
@@ -89,47 +78,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Office of the Clerk, U.S. House of Representatives — Member Information (party divisions)](https://clerk.house.gov/)
-**Author:** Unknown | **Published:** Unknown
+### [Membership of the 119th Congress: A Profile | Congress.gov | Library of Congress](https://www.congress.gov/crs-product/R48535)
+**Author:** Congressional Research Service (CRS) / Library of Congress | **Published:** 2025-08-04
 
-The House Clerk’s site lists the current party division (Republicans 218, Democrats 214, Vacancies 3 as displayed on the site). This provides the baseline seat count (what Republicans hold today) from which any net change to 195–199 must occur. That baseline is required to translate seat-change scenarios and to calculate how many seats the GOP would need to lose (roughly 19–23) for the market’s YES condition to occur; it also confirms the small margin that makes many seats competitive.
+CRS’s profile of the 119th Congress provides the authoritative baseline party breakdown used to compute how many seats Republicans would need to lose to fall into the 195–199 range. The report lists the House composition (e.g., 219 Republicans and 212 Democrats as of the August 4, 2025 snapshot). This baseline lets us calculate the net seat loss (≈19–24 seats) required to resolve the market YES, and is central to converting forecasts/polls into seat-change requirements. It supports the conclusion that the market’s band represents a substantial midterm loss for the GOP if it occurs.
 
-### [2026 CPR House Race ratings | Cook Political Report](https://www.cookpolitical.com/ratings/house-race-ratings)
-**Author:** Cook Political Report (Amy Walter, Stu Rothenberg and team — site content) | **Published:** Unknown
+### [Rep. LaMalfa's death leaves open House seat. Here's what happens next](https://apnews.com/article/special-election-house-vacant-seat-lamalfa-california-29c6eb417e4c39402ad3c26cba6fd1df)
+**Author:** Trân Nguyễn / Associated Press | **Published:** Unknown
 
-Cook’s 2026 House ratings list the competitive/toss-up seats and note recent rating moves; Cook shows a contested battlefield with a number of toss-ups and several races that have shifted toward Democrats. This source matters because Cook’s seat-by-seat ratings are widely used by professional forecasters and campaign strategists; multiple Democratic-tilting moves in a compact battlefield raise the chance of GOP net losses in the 19–23 seat range, increasing the probability mass that would resolve this market YES.
+AP’s reporting on Rep. Doug LaMalfa’s death (March 2026 coverage) explains the immediate effect on the House majority (reducing the GOP margin by one seat to ~218) and notes the special-election timing and how new California district lines will apply in November. This is directly relevant to the market’s baseline seat count and highlights how vacancies and state map changes can alter the arithmetic ahead of November — factors markets must incorporate. It supports the idea that small seat swings (and special elections) are already moving the House balance and thus that a ~20‑seat swing in November is within the realm of possibility.
 
-### [House retirements tied for most this century](https://www.axios.com/2026/03/02/members-of-congress-retirements-record-high)
-**Author:** Unknown | **Published:** 2026-03-02
+### [2026 House Open Seat Tracker](https://www.cookpolitical.com/analysis/house/house-charts/2026-house-open-seat-tracker)
+**Author:** The Cook Political Report (Charlie Cook et al.) | **Published:** 2026-03-16
 
-Axios reports a very high number of retirements in the House, with more Republicans than Democrats choosing to retire or run for other offices. High retirements (especially concentrated in the majority party) increase the number of open seats and make them more contestable, which raises volatility on the map and helps explain why Democrats might be able to pick up the 19–23 seats necessary for the 195–199 band.
+Cook’s open-seat tracker and accompanying commentary identify the number and party of open/competitive seats and provide seat‑level context that underpins expert views of how many seats are realistically in play. Cook’s public pages show a substantial set of competitive and open seats and commentary that the environment is contested — evidence for a plausible Democratic gain scenario but also evidence of structural limits (incumbency, map advantages) that reduce the odds of enormous swings. This source supports the mixed‑evidence conclusion that both sides have plausible narratives.
 
-### [What history tells us about the 2026 midterm elections](https://www.brookings.edu/articles/what-history-tells-us-about-the-2026-midterm-elections/)
-**Author:** William A. Galston (Brookings analysis page) | **Published:** 2025-10-?? (Published in 2025; site updated)
+### [Who’s ahead on the generic congressional ballot? (Silver Bulletin)](https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls)
+**Author:** Nate Silver / Eli McKown‑Dawson (Silver Bulletin) | **Published:** 2026-03-18
 
-Brookings provides historical context on midterm patterns showing that the president's party typically loses seats — often enough to flip the House when the prior majority was narrow. The piece uses historical averages and models to estimate expected midterm seat swings; that historical prior supports a nontrivial probability the president’s party (Republicans) will lose on the order of the 19–23 seats necessary to resolve this market YES.
+Silver Bulletin’s March 18, 2026 generic‑ballot tracker shows Democrats holding a roughly D+5.4 lead in the national generic ballot average as of mid‑March — a material favorable environment for Democrats. Because national vote share is a primary predictor of aggregate House seat changes, this polling aggregate is a key piece of evidence that Democrats could plausibly flip the number of seats required to push Republicans down into the 195–199 band. It supports the view that the market’s 15.5% probability is not obviously too low given public polling.
 
-### [Fundraising hauls show RNC vastly outpacing Democrats ahead of midterm elections (AP)](https://apnews.com/article/387549d4d5e682cf8ce8205d96d07ca7)
-**Author:** Unknown | **Published:** 2026-02-?? (Published last month in source metadata)
+### [MAP: See where a blue wave would swipe the most GOP seats](https://www.axios.com/2026/02/06/congressional-map-redistricting-vote-share-2026)
+**Author:** Axios staff | **Published:** 2026-02-06
 
-AP summarizes recent FEC and committee filings showing significant fundraising and cash-on-hand held by Republican committees versus Democrats for certain reporting periods. Fundraising and cash-on-hand are important defenses for incumbents and challengers; stronger GOP fundraising reduces the likelihood of the largest seat swings and therefore lowers the chance of the specific 195–199 band, supporting the view that the market’s low probability could be reasonable.
-
-### [Federal judges block Texas from using its new US House map in the 2026 midterms (AP)](https://apnews.com/article/ab4dc519717c6661c63e116c9f26d899)
-**Author:** Unknown | **Published:** 2025-11-18
-
-AP reported a federal court blocked the Texas map that had been drawn to increase GOP seats before the 2026 cycle. Blocking that map reduces a potential structural gain for Republicans that might otherwise have made it easier for Republicans to retain more seats. This legal development reduces GOP upside and therefore raises the relative probability of Democratic gains — an argument that supports a higher true probability of the 195–199 Republican outcome than the market’s 17%.
-
-### [2026 House Ratings (Inside Elections)](https://insideelections.com/ratings/house/2026-house-ratings-november-6-2025)
-**Author:** Inside Elections (Nathan L. Gonzales and team) | **Published:** 2025-11-06
-
-Inside Elections’ ratings for 2026 show a compact, tradable battlefield with Democrats needing only a small net gain for control; the ratings list many competitive districts and indicate Democrats have paths to net multiple seats. Their analysis is widely used by campaign professionals and modelers; it supports the argument that the 195–199 band for Republicans is within plausible outcomes and could be more likely than the market’s 17% implies.
-
-### [Statistical summary of six-month campaign activity (FEC)](https://www.fec.gov/updates/statistical-summary-of-six-month-campaign-activity-of-the-2025-2026-election-cycle/)
-**Author:** Federal Election Commission | **Published:** 2025-10-?? (Published 2025; formal filing period covered Jan–Jun 2025)
-
-The FEC summary shows fundraising and spending totals for candidates, parties, and PACs — useful evidence on which party’s candidates currently have better resources to contest many districts. These data provide objective input into how well parties can defend or flip seats; large R-party or D-party resource gaps can materially affect the chance Republicans end up in the 195–199 band.
-
-### [Generic Ballot average / Silver Bulletin polling aggregator](https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls)
-**Author:** Nate Silver / Silver Bulletin | **Published:** 2026-03-02 (update noted)
-
-The Silver Bulletin’s generic-ballot polling averages aggregate national congressional polling and show a Democratic lead (roughly mid-single digits in early March 2026). A sustained Democratic advantage on the generic ballot is historically predictive of House-seat swings; this polling signal increases the plausibility that Republicans could lose the number of seats needed to fall into the 195–199 range and suggests the market’s 17% may be conservative.
+Axios analyzes how mid‑decade redistricting and district-level presidential margins affect the number of seats that would flip under various national swing scenarios; Axios estimates that recent redistricting fights could net Republicans a few seats in aggregate while California’s countermeasures could cost them seats, yielding a small net map effect (Axios cites about +3 seats for GOP under current maps). This source is important because it shows map engineering and state-level legal contests materially affect the seat‑change translation from national polls — a counterweight to pure national‑vote models and a reason the market may rationally give only modest probability to the narrow 195–199 band.

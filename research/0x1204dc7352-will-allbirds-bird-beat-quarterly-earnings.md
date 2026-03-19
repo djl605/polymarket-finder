@@ -1,7 +1,7 @@
 # Research: Will Allbirds (BIRD) beat quarterly earnings?
 
 **Market ID:** 0x1204dc7352df96e2ebd536331c3c0d99c860442344b6cb952652e1f5ab2d1e0a
-**Researched At:** March 13, 2026 at 04:16:50 AM UTC
+**Researched At:** March 19, 2026 at 04:41:49 AM UTC
 **Search Query:** "Will Allbirds (BIRD) beat quarterly earnings?"
 
 ---
@@ -9,74 +9,81 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.2¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Allbirds has scheduled Q4/FY2025 results for March 31, 2026; the company recently announced U.S. store closures that will generate both SG&A savings and likely one‑time charges. Those charges materially affect GAAP EPS for the quarter, making the April outcome uncertain. Given low market volume and thin analyst coverage, the market’s 84.5% probability looks plausibly optimistic but I do not find conclusive public evidence of a large (>20¢) mispricing.
+Public records show Allbirds’ prior GAAP EPS around -$2.49 and recent public announcements (Feb 2026) of closing nearly all U.S. stores, which cuts ongoing cost but likely creates one‑time GAAP charges. The net effect is ambiguous; there is not enough specific, public evidence (notably: no quantified restructuring charges found) to claim a clear mispricing >~7¢; expected value of further investigation is small (~2.5¢).
 
 ### Full Analysis
 
-I searched primary company filings and recent press coverage to evaluate whether the Allbirds (BIRD) quarter‑beat market (strike GAAP EPS = −$2.28; market price implying 84.5% chance of “Yes”) shows credible evidence of mispricing. Below are my findings and reasoned judgment.
+Plan and constraints
+- I used the allotted three web searches to verify: (1) whether Allbirds had already released the March‑2026 earnings that would resolve this market, (2) recent company developments that materially affect GAAP EPS (store closures, restructuring charges, guidance), and (3) recent historical GAAP EPS trends to judge whether beating a -$2.28 strike is plausible.
+- I excluded prediction‑market sites per your instruction and prioritized primary/major‑press sources and SEC filings.
 
 1) CONTEXT ANALYSIS
-- What the market asks: Will Allbirds (BIRD) report GAAP diluted EPS for the “relevant quarter” greater than −$2.28 in its next quarterly earnings release? Resolution uses the GAAP EPS figure in Allbirds’ official earnings documents (or SeekingAlpha if GAAP EPS not published). Figures are rounded to the nearest cent.
-- How it resolves YES vs NO:
-  - YES if reported GAAP diluted EPS > −$2.28 (i.e., a smaller loss or positive EPS).
-  - NO if reported GAAP diluted EPS ≤ −$2.28, or if no GAAP EPS figure appears in the official earnings within 96 hours as described by the market rules, or if the company fails to issue earnings within 45 days of the market’s estimated date (market creation used an estimated date of March 10, 2026 — note the company has since scheduled its release for March 31, 2026, which is within the 45‑day window).
+- What the market asks: Will Allbirds (BIRD) report GAAP diluted EPS strictly greater than -$2.28 in its next quarterly earnings release (the market’s estimate keyed to a March 10, 2026 release)? If the company publishes diluted GAAP EPS > -2.28, the market resolves YES; otherwise NO. The market uses the company’s official GAAP EPS in the earnings release (or SeekingAlpha if no GAAP EPS is published).
+- To resolve YES: the reported GAAP diluted EPS for the relevant quarter must be > -2.28 (for example, -2.27, -1.50, 0.00, etc.). To resolve NO: reported GAAP diluted EPS ≤ -2.28, or the company fails to release within 45 days of the estimated date (market rules), or no GAAP EPS is published and none is available on SeekingAlpha within 96 hours (in which case the market resolves NO).
 
-2) EVIDENCE EVALUATION (all items dated and sourced)
-Bullish evidence (supports “Yes” / beating −$2.28):
-- Recent pattern of conservative estimates and occasional beats: In the last several quarters Allbirds often beat analysts’ consensus (Q2 2025 GAAP EPS −1.92; Q3 2025 GAAP EPS −2.49 which beat a consensus of −2.64). That track record suggests analysts’ point estimates can be conservative and Allbirds has sometimes outperformed the Street. (See Q2/Q3 2025 results and analyst‑consensus pages.)
-- Management restructuring rhetoric and strategic actions aimed at profitability: Jan 28, 2026 company announcement (store closures) explicitly frames the program as “capital‑light” and meant to reduce SG&A and improve margins going forward — those actions could support improved EPS (but mostly forward‑looking; see below on timing). (Allbirds press release Jan 28, 2026.)
+2) EVIDENCE EVALUATION (what I found)
+Key findings from searches
+- Allbirds historical recent GAAP results: Allbirds reported GAAP EPS of -$2.49 in the quarter reported Nov 6, 2025 (the prior quarter), which beat the then‑consensus of -$2.64. That shows recent EPS around the -2.5 level. (SEC press release / earnings reports). This provides a reference point showing management has reported deeply negative GAAP EPS recently. (source: Allbirds Nov 6, 2025 earnings release / aggregated earnings pages).
+- Earnings timing / market window: Multiple earnings calendars / coverage list Allbirds’ next earnings estimate for March 10, 2026 (with a conference call around March 13 in some calendars). As of March 19, 2026 there is no authoritative indication in the sources I found that GAAP EPS for that March release has already been published; the market therefore remains plausibly unresolved. (source: market calendars / MarketBeat).
+- Corporate action likely to affect GAAP EPS: News (Forbes, trade outlets) reported Allbirds announced it would close all (or nearly all) U.S. full‑price stores by end of February 2026 and pivot to e‑commerce/wholesale. Press reports present this as a material operational restructuring intended to reduce ongoing SG&A but which could produce near‑term restructuring/closure charges that would be recognized in GAAP results for the quarter that includes the closing. (source: Forbes, footwear trade reporting). That makes Q4 GAAP EPS directionally ambiguous: closures reduce ongoing costs going forward (supporting improvement), but the closures themselves commonly cause one‑time GAAP charges (severance, lease termination, asset write‑downs) that worsen GAAP EPS in the quarter they are booked.
+- Revenue trend and losses: reporting and filings show revenue pressure and material cumulative losses in recent years; the business has been trying to stabilize via product and channel changes. These facts argue the company’s underlying operating earnings remain fragile; structural improvement sufficient to move GAAP EPS materially above -2.28 is not a foregone conclusion. (source: Allbirds SEC filings, prior earnings releases referenced above).
 
-Bearish evidence (supports “No” / failing to beat −$2.28):
-- Store closure / restructuring charges likely to hit GAAP in the near term: Allbirds announced it will close remaining full‑price U.S. stores (Jan 28, 2026) and said anticipated SG&A savings and related cash charges will be discussed on the Q4/FY2025 call. One‑time closure charges are GAAP items that can materially increase a quarter’s reported loss even if they improve run‑rate margins later — that cuts against beating a −$2.28 strike for the quarter that includes closure timing.
-- Recent revenue weakness and volatility: Q3 2025 revenue declined ~23% YoY and net losses remain large; top‑line weakness makes consistent EPS improvement fragile and any one‑time charges could swing the GAAP number substantially.
-- Low analyst coverage and sparse consensus: Allbirds has limited analyst coverage (few firm estimates visible). Low coverage increases model uncertainty and means the “Street consensus” number (market creation reference −2.28) may be based on very few inputs or older estimates; that ambiguity reduces confidence that the market already aggregates all relevant facts.
+Evidence that would suggest the current market price (59.5% yes) could be incorrect
+- Missing/under‑priced restructuring charges: if Allbirds recognized significant one‑time restructuring/closing charges in the quarter (severance, lease termination costs, inventory write-downs), GAAP EPS could be meaningfully worse than operational EBITDA would suggest. If those charges are larger than traders expect, the market’s near‑60% chance of beating -2.28 would be optimistic. I could not find a company press release quantifying Q4 restructuring charges in the searches; that absence increases uncertainty and is exactly the missing item a trader would want.
+- Weak revenue trends and continuing net losses: recent quarters show revenue declines and large net losses; if top line underperformance continued into the quarter, even cost actions might not lift GAAP EPS above the strike. This supports the possibility that the market is too optimistic.
 
-Source credibility & recency:
-- Company press releases and SEC 8‑K filings (Jan 28, 2026 store‑closure release; March 10, 2026 earnings‑call scheduling release) are primary, authoritative, and recent — high credibility for facts about timing, announced actions, and management commentary.
-- Earnings history and consensus pages (MarketBeat, MarketScreener, Reuters summaries) are recent and reputable for reporting past EPS and street estimates; credibility is medium‑high for the numeric history but analyst‑consensus snapshots can change and coverage is thin.
-- Overall the most important facts (store closures; scheduled earnings release date; recent GAAP EPS history) are documented in primary company releases and SEC filings.
+Evidence that supports the current market price (59.5% yes)
+- Prior quarter beat (smaller loss than expected): Allbirds’ prior reported GAAP EPS of -2.49 beat the consensus of -2.64, showing management had already lowered losses relative to expectations. The consensus for the March release (-2.28) implies analysts expect improvement vs the -2.49 prior print; market participants may be pricing that anticipated improvement from cost saves (including store closures) or operational levers. If closures materially reduce future SG&A and some cost reductions hit the reported quarter (or guidance/whispers indicate improvement), a 60% implied probability can be reasonable.
+- Store closure as intentional cost rationalization: Management’s public messaging framed the closures as a pivot to higher‑leverage channels (e‑commerce, wholesale, international), which could plausibly produce smaller losses going forward. Traders aware of this may rationally expect GAAP EPS to improve above the -2.28 strike (especially if some cost savings already occurred in the relevant quarter).
 
-Skeptical checks:
-- If the market’s 84.5% implied probability were correct, what is being priced-in? Either (a) Allbirds will report a materially smaller loss (i.e., beat by >$0.20 relative to Q3 -2.49 to clear −2.28), or (b) the consensus number (−2.28) is stale/optimistic and traders are pricing other info. Because closure charges are likely to increase reported GAAP loss in the immediate quarter, the high “Yes” price needs a plausible path: either strong seasonal revenue + favorable accounting timing (charges booked later) or management guidance that pushed estimates up. I did not find explicit company guidance saying Q4 GAAP would be materially better than −2.28; the company scheduled the call for March 31, 2026 and said it will discuss anticipated savings and charges then (i.e., uncertainty remains).
+Source credibility and recency
+- SEC filings / Allbirds investor releases (Q3 2025 earnings 8‑K / press release) are primary, high‑credibility sources for historical GAAP EPS numbers and accounting disclosures.
+- Forbes and footwear trade outlets reporting Feb 2026 store closure announcements are credible mainstream coverage for corporate actions; they cite a company press release/context and are recent (Feb 2026).
+- Market calendars (MarketBeat, etc.) are secondary but useful to confirm the expected March 10, 2026 reporting window. These are timely but are aggregators, so treat conservatively.
 
-3) MARKET EFFICIENCY ANALYSIS
-- Market microstructure: Very low total trading volume ($1,883) and a tight spread (5¢). Low volume increases the risk that the displayed probability is set or maintained by a very small number of traders rather than a broad information aggregate.
-- Reasonable interpretations consistent with current price:
-  - Charitable (efficient) view: Traders who follow Allbirds closely (insiders, small analyst shops, or event‑driven traders) have privately concluded the quarter will exclude large restructuring charges or that revenue/seasonality will produce an EPS above −2.28; they’ve pushed probability to ~85% accordingly.
-  - Charitable (inefficient) view: A single or a few traders with strong prior belief (or a misread of timing/resolution rules) are posting the price; low counterparty interest prevents price correction.
-- Is low volume because the outcome is obvious? Not clearly — the facts and the press releases indicate meaningful uncertainty (store closure charges vs. run‑rate savings, limited analyst coverage). The low volume therefore more likely reflects limited attention/coverage rather than broad, low‑information consensus.
+Skepticism / why the market might already have priced most of this
+- Traders likely know about the store‑closure announcement (widely reported in Feb 2026). That headline itself is public and would already be considered by anyone pricing the market — if the effect on the quarter was straightforward (large one‑time charges or clear, immediate savings), prices would have moved accordingly. The fact that the market sits ~0.595 suggests traders disagree on the net GAAP effect (one‑time charges vs recurring savings) or reflect uncertainty about timing/size of charges.
+- Low volume + tight spread suggests one or a few active traders could be setting price, but they would still be integrating the same public facts available in press & filings.
 
-4) MISPRICING ASSESSMENT (weighing evidence)
-- Evidence that price might be too high (i.e., market overstates probability of beat):
-  - Risk of one‑time closure charges being recorded in the quarter that will make GAAP EPS worse than the strike. Company explicitly said closure charges will be discussed on the Q4 call. That is concrete, recent, and relevant to GAAP EPS; it makes a beat less certain.
-  - Revenue trend weakness — Q3 saw significant YoY decline — increases sensitivity of GAAP EPS to one‑time items.
-  - Limited analyst coverage — consensus may be stale or based on few data points; a concentrated trader could be overconfident.
-- Evidence that price might be reasonable or even conservative:
-  - Allbirds has a history of beating conservative Street estimates in recent quarters; if management has already managed recognition timing or benefited from seasonal revenue improvements, a beat is plausible.
-  - Management’s stated strategic actions (cap‑light closures) are intended to reduce SG&A — while charges may occur, the underlying operating result might be better than the strike.
-- After weighing both sides: there is significant ambiguity. The existence of an explicit, recent company announcement about store closures (with management flagging both SG&A savings and closure‑related charges) is the single largest new piece of information that could move GAAP EPS either way depending on timing and magnitude. Because that information is public and material, any market that entirely ignores the possibility of closure charges would be mispriced; but the available public facts do not tell us which way the net GAAP impact will fall (charges could dominate, or accounting timing could push charges into other periods).
+3) MARKET EFFICIENCY ANALYSIS (is 59.5% reasonable?)
+- Charitable interpretations that justify the price:
+  - Traders expect modest improvement from -2.49 to above -2.28 because of cost reductions/operational actions already implemented or expected to be reflected in the quarter, and they think any one‑time charges will be small relative to recurring improvements.
+  - Market price may reflect a consensus among a small set of traders who follow Allbirds closely (analysts, retail‑sector desk traders) and who have a view that improvement is the most likely outcome.
+- Alternative interpretations (market may be unreliable):
+  - The market has low total volume ($2k) and a tiny spread; that pattern commonly indicates limited participant breadth and a few participants skewing the price. If the market’s bids and offers are set by one active trader with a directional view, the price could deviate from a wider consensus.
+  - The lack of a public, quantified estimate of restructuring costs for the quarter means the market could be under‑estimating downside risk from one‑time GAAP charges, especially if those charges are large.
+- Is low volume because the outcome is obvious, or because traders haven’t engaged?
+  - It appears low volume is more plausibly due to lack of engagement/interest for this small/illiquid security (and maybe Allbirds’ small float and low coverage), not because the outcome is trivial. The topic has public controversy (store closures, turn‑around), which should attract some attention; persistent low volume suggests many informed traders either lack conviction or don't find the trade worth the effort.
 
-Critical check (did I misunderstand resolution or miss a definitive data point?)
-- Resolution criteria are clear: GAAP diluted EPS reported in the official earnings release. The company has scheduled the release for March 31, 2026 (press release dated March 10, 2026). There is no sign the event already happened or that the market’s strike is based on a different period. Therefore no obvious technicality invalidates the market’s question.
-- Because the market resolves on GAAP EPS, one‑time GAAP items matter a lot — that is acknowledged in the company materials and in standard accounting practice; I have accounted for that risk.
+4) MISPRICING ASSESSMENT (weighing sides)
+- Bottom line: evidence is mixed. Public facts that argue for a YES (improvement to > -2.28) are: prior quarter beat vs consensus and management actions to cut costs (store closures) which could improve future EPS. Facts that argue for NO are: weak revenues, cumulative losses, and the likelihood that closing stores produced one‑time charges in the quarter that could push GAAP EPS below -2.28.
+- Important resolution criterion to re‑check before acting: the market resolves on GAAP diluted EPS as published in the earnings release (or SeekingAlpha fallback). Small technicalities (diluted vs basic EPS, IFRS/GAAP conversion for international companies) are specified in the market description — you must ensure you and any trading model use diluted GAAP EPS as the comparator, rounded to nearest cent.
+- Given the publicly available information (company filings to date and press coverage of store closures), there is not clear, specific, credible evidence that a large mispricing (> 20 cents) exists. The primary unknown that could produce a larger mispricing is the size/timing of any one‑time restructuring charges booked to the quarter; I could not find a quantified, authoritative estimate of those charges in the searches. That missing figure is the decisive piece — if it’s large, the market may be too optimistic; if it’s small or absent, the market’s ~60% is plausible.
 
-Conclusion about mispricing:
-- There is not strong, specific, public evidence proving a large mispricing in either direction. The most material new fact (Jan 28 store‑closure announcement) actually increases uncertainty rather than producing a clear, strong signal that the market should move dramatically away from 84.5%. Given low volume and sparse analyst coverage, that 84.5% could reflect a small group’s view; but I do not have direct evidence (e.g., a disclosed analyst revision, a leaked management update, or a regulatory/SEC filing that locks in large charges) that the market has missed and that the true probability differs by a large amount.
-- My read: the current price probably overstates the certainty of a beat by some margin (company is operationally fragile and GAAP is exposed to one‑time charges), but I lack high‑confidence, specific public data that would justify a large (>20¢) trade against the market. The evidence supports a modest possible overpricing (single‑digit to low‑teens cents), but not a large, confident arbitrage opportunity.
+5) EXPECTED VALUE CALCULATION (estimate of value from investigating further / trading)
+- Strength of evidence (how reliable/useful is the information I found to change the market price): 35%.
+  - Rationale: I rely on high‑quality sources for the facts that matter (SEC filings and mainstream press). But the single decisive data point (stated restructuring charges booked to the relevant quarter) was not found; that gap weakens the actionable evidence.
+- Magnitude of plausible mispricing if that missing information were material: 7 cents.
+  - Rationale: low‑volume corporate earnings expectations rarely misprice by huge amounts absent explicit accounting surprises. A plausible range where traders might be wrong is small single‑digit to low‑teens cents. I estimate an optimistic maximum plausible correction of ~7¢ if traders have materially misunderstood the charge timing/size.
+- Expected value = 35% × 7 cents = 2.45 cents. (rounding to one digit: 2.5 cents)
 
-5) EXPECTED VALUE CALCULATION
-- Strength of evidence that price is missing material negative risk (i.e., market overstates probability): I assess ~40% (evidence exists—store closures, one‑time charges, revenue weakness — but none of it definitively fixes the GAAP outcome). (Strength = 40%).
-- Magnitude of plausible mispricing if evidence is right: I estimate a plausible error in market price of ~8 cents (i.e., the market’s 84.5% should perhaps be closer to ~76.5% if closure charges push the chance down modestly). This is a conservative, small‑market estimate given sparse coverage and the stakes of one‑time GAAP items. (Magnitude = 8 cents.)
-- Expected value = 40% × 8 cents = 3.2 cents.
+6) CONFIDENCE (one of low/medium/high)
+- My assessment confidence: medium.
+  - Rationale: I used primary filings and recent press coverage but could not find an authoritative, published GAAP EPS number for the March 10, 2026 release in my searches (consistent with the market remaining open on March 19), nor could I find a quantified statement of restructuring charges tied to the quarter. Because the decisive accounting detail is missing from public reporting I accessed, my confidence is not high — but the direction and constraints of the evidence permit a medium confidence judgment.
 
-EXPECTED_VALUE: 3.2
+CRITICAL CHECK (self‑challenge)
+- Could I be missing a critical disclosure? Yes: a company 8‑K or earnings release that reports the GAAP EPS or the size/timing of restructuring or other one‑time charges would change everything. The market’s unresolved status as of March 19 suggests that either the release had not yet been posted or I did not locate it in three web searches; before trading aggressively I would re‑check Allbirds’ IR page and the SEC EDGAR feed for an 8‑K or earnings release and confirm the exact GAAP diluted EPS figure.
+- Do I fully understand the exact resolution criteria? Yes — market resolves on GAAP diluted EPS > -2.28 using the company’s official release (or SeekingAlpha fallback). That technical rule means one‑time GAAP items in the reported quarter are determinant.
 
-SUMMARY: Allbirds has scheduled Q4/FY2025 results for March 31, 2026; the company recently announced U.S. store closures that will generate both SG&A savings and likely one‑time charges. Those charges materially affect GAAP EPS for the quarter, making the April outcome uncertain. Given low market volume and thin analyst coverage, the market’s 84.5% probability looks plausibly optimistic but I do not find conclusive public evidence of a large (>20¢) mispricing.
+CONCLUSION (short)
+- There is mixed evidence and a clear missing data point (any quantified restructuring/closure charges recognized in the relevant quarter). Without that number, we cannot credibly conclude a substantial mispricing exists. The current price (~59.5% yes) is within a reasonable range given the facts: historical recent EPS around -2.5 and public cost‑cutting that could produce improvement, offset by likely one‑time charges and ongoing revenue pressure. Expected value from further investigation/trading is small (~2.5¢), because the missing accounting detail is the key unknown and markets with low volume are likely already pricing the headline uncertainty.
 
+EXPECTED_VALUE: 2.5
+SUMMARY: Public records show Allbirds’ prior GAAP EPS around -$2.49 and recent public announcements (Feb 2026) of closing nearly all U.S. stores, which cuts ongoing cost but likely creates one‑time GAAP charges. The net effect is ambiguous; there is not enough specific, public evidence (notably: no quantified restructuring charges found) to claim a clear mispricing >~7¢; expected value of further investigation is small (~2.5¢).
 CONFIDENCE: medium
 
 ---
@@ -85,32 +92,22 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Allbirds Streamlines Operations to Support Profitable Growth](https://www.globenewswire.com/news-release/2026/01/28/3227376/0/en/allbirds-streamlines-operations-to-support-profitable-growth.html)
-**Author:** GlobeNewswire (Allbirds, Inc. press release) | **Published:** 2026-01-28
+### [Allbirds, Inc. Reports Third Quarter 2025 Financial Results (Earnings Release on Form 8‑K)](https://www.sec.gov/Archives/edgar/data/1653909/000162828025050181/allbirdsq32025earningsrele.htm)
+**Author:** Allbirds, Inc. (filed with SEC) | **Published:** 2025-11-06
 
-Company press release announcing closure of remaining full‑price U.S. stores and management’s intent to prioritize e‑commerce and wholesale; statement that anticipated SG&A savings and related cash charges will be discussed on the Q4/FY2025 earnings call. This is directly relevant because the market resolves on GAAP EPS — the release flags both future savings (bullish for EPS in later periods) and immediate/near‑term charges (bearish for the GAAP EPS that will determine this market), increasing uncertainty about whether GAAP EPS will be above −$2.28.
+This is Allbirds’ SEC‑filed earnings press release for the quarter ended September 30, 2025. It includes the company’s GAAP results for that quarter (GAAP EPS and key financials) and reconciliations. The release shows GAAP EPS of approximately -$2.49 for that quarter (a small beat vs then‑consensus). This establishes the recent baseline for GAAP EPS and demonstrates the company’s losses are at deep negative levels; it is relevant because the market’s strike (-$2.28) requires a meaningful improvement over this baseline to resolve YES.
 
-### [Allbirds Announces Fourth Quarter and Full Year 2025 Earnings Conference Call](https://www.marketscreener.com/news/allbirds-announces-fourth-quarter-and-full-year-2025-earnings-conference-call-ce7e5fdfdc89f02d/)
-**Author:** Acquiremedia (posted by MarketScreener summarizing GlobeNewswire) | **Published:** 2026-03-10
+### [BIRD Q3 2025 Earnings Report on 11/6/2025 (MarketBeat earnings summary page for Allbirds)](https://www.marketbeat.com/earnings/reports/2025-11-6-allbirds-inc-stock/)
+**Author:** MarketBeat (aggregated earnings content) | **Published:** 2025-11-06
 
-Company notice (published Mar 10, 2026) that Allbirds will release Q4 and full‑year 2025 results after market close on March 31, 2026, with a conference call that day. This clarifies the official timing (the market’s original estimate of March 10 was earlier than the company’s scheduled release) and confirms the earnings event that will resolve the market. This matters because the market’s 45‑day rule uses an estimated date at creation — the company’s schedule is within 45 days so the market should resolve on the reported GAAP EPS on the announced date.
+MarketBeat’s earnings calendar/summary aggregates reported EPS and consensus numbers and lists upcoming estimated release dates. The page confirms Allbirds’ prior reported GAAP EPS (~-2.49) and shows an estimated next earnings date of March 10, 2026 (consistent with the market’s stated estimated date). This source is relevant because it corroborates the prior‑quarter EPS baseline and the expected reporting window for the market.
 
-### [Allbirds Reports Third Quarter 2025 Financial Results](https://www.marketscreener.com/news/allbirds-reports-third-quarter-2025-financial-results-50473733/)
-**Author:** Acquiremedia / Allbirds, Inc. (press release) | **Published:** 2025-11-06
+### [Allbirds Is Closing All U.S. Stores. Here’s What Went Wrong](https://www.forbes.com/sites/claraludmir/2026/02/05/allbirds-is-closing-all-us-stores-heres-what-went-wrong/)
+**Author:** Clara Ludmir | **Published:** 2026-02-05
 
-Q3 2025 press release (furnished via 8‑K) reporting third‑quarter net revenue of ~$33.0M and a GAAP net loss of $20.3M, or $2.49 per share (GAAP EPS −2.49). The release also discussed inventory reduction, SG&A, and guidance updates. Those recent GAAP EPS datapoints show the company’s losses have been in the −$2 to −$3 range, so the market’s strike of −$2.28 sits inside the historical band and small movements or one‑time items can flip a beat/miss decision.
+Forbes reports that Allbirds announced it would close its remaining full‑price U.S. stores by end‑February 2026 and pivot toward e‑commerce, wholesale, and international distributors. The article summarizes the strategic rationale and historical context (declining revenues, large cumulative losses). This is directly relevant: public confirmation of store closures is material to near‑term GAAP EPS because closures can reduce future SG&A but often create near‑term one‑time GAAP charges (severance, lease termination, asset write‑downs) that affect the quarter’s GAAP EPS.
 
-### [Allbirds Earnings Estimates, EPS & Revenue (Allbirds / MarketBeat)](https://www.marketbeat.com/stocks/NASDAQ/BIRD/earnings/)
-**Author:** Unknown | **Published:** 2026-03-13
+### [Allbirds To Close All Full Price U.S. Stores By February 2026](https://footwearmagazine.com/allbirds-to-close-all-full-price-u-s-stores-by-february-2026/)
+**Author:** Unknown (Footwear Magazine staff) | **Published:** 2026-02 (article published Feb 2026)
 
-Aggregated earnings history and analysts’ estimates page showing recent reported GAAP EPS (e.g., Q3 2025 −2.49) and listing an estimated next earnings date (often derived from historical cadence). This source provides a view of Street estimates history and frequency of consensus changes; it highlights limited visible analyst coverage and the variability of quarterly GAAP EPS for Allbirds — relevant to assessing whether the market strike (−$2.28) is well‑supported by broad Street consensus or is thinly based.
-
-### [Allbirds Q3 2025 coverage and summary (Reuters / MarketScreener)](https://www.marketscreener.com/news/allbirds-q3-revenue-misses-expectations-hurt-by-international-distributor-transitions-and-store-clo-ce7d5cd3dd8bf621/)
-**Author:** Reuters (republished on MarketScreener) | **Published:** 2025-11-06
-
-News article summarizing Q3 2025 results and noting revenue misses and contributing operational factors (distributor transitions, store closures). This independent reporting corroborates the GAAP EPS and revenue trends, and emphasizes operational headwinds that increase the chance of GAAP EPS volatility in subsequent quarters (including the quarter covered by the market).
-
-### [Allbirds EDGAR filings index (company filings)](https://www.sec.gov/Archives/edgar/data/1653909/000162828026003900/0001628280-26-003900-index.htm)
-**Author:** U.S. Securities and Exchange Commission (EDGAR) | **Published:** 2026-01-28
-
-SEC EDGAR index entry for Allbirds filings (includes the 8‑K filed Jan 28, 2026 referencing the press release about store closures). This official SEC filing confirms the company furnished the store‑closure press release as an exhibit to an 8‑K — i.e., the company’s public, regulatory disclosure of the action. That makes the closure announcement a material, primary data point relevant to GAAP EPS risk for the quarter that resolves this market.
+Trade coverage confirms the company’s store‑closure plan and frames it as a multi‑quarter turnaround step. The article notes the retained small outlet footprint and the company’s pivot to channels with lower operating leverage. This corroborates the Forbes reporting and underscores that closure costs and their accounting timing are a key unknown for the quarter’s GAAP EPS; it supports the view that the quarter’s GAAP result could swing either direction depending on charge timing/magnitude.

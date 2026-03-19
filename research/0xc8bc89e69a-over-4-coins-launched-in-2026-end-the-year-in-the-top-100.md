@@ -1,86 +1,88 @@
 # Research: Over 4 coins launched in 2026 end the year in the top 100?
 
 **Market ID:** 0xc8bc89e69ae5bb3d27053839ce727ddec0ecda38528a9b231cb5b5756beba474
-**Researched At:** March 14, 2026 at 04:14:55 AM UTC
+**Researched At:** March 19, 2026 at 04:48:27 AM UTC
 **Search Query:** "Over 4 coins launched in 2026 end the year in the top 100?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 7.5¢
+**Confidence:** Low
+**Expected Value:** 4.5¢
 
 ### Summary
 
-The YES outcome is plausible because memecoin/fast‑listing mechanics and a fairly low current #100 market‑cap threshold make multiple breakout launches feasible in 2026. However, very high project failure rates, exchange delistings and regulatory headwinds mean the market’s 83.5% looks optimistic; I estimate a modest mispricing (expected value ≈ 7.5¢).
+The market (83.5%) is plausible but not definitively supported by public evidence: CoinGecko shows many new listings that could allow multiple breakouts in 2026, but I could not find strong public evidence that five non-stablecoin projects launched in 2026 are already top‑100 or that historical turnover makes five new entrants near-certain. The market’s zero volume and narrow spread suggest price may reflect one or a few traders rather than broad aggregation.
 
 ### Full Analysis
 
-I researched public sources (news, CoinGecko pages, exchange coverage and reporting) and evaluated whether the market (“Over 4 coins launched in 2026 end the year in the top 100?”; current price 83.5%, zero trading volume, 3¢ spread) shows credible evidence of mispricing.
+Planned approach and constraints
+- I had a budget of 3 web searches and used them on CoinGecko pages (the resolution source) and CoinGecko content about recent/new tokens. I excluded prediction-market sites per your instruction. I attempted to discover (a) what the market is asking and exact resolution rules, (b) how many 2026-launched tokens are already plausibly in CoinGecko’s Top 100 as of today, and (c) whether market structure and available evidence suggest the 83.5% price is reasonable or likely mispriced.
 
-Short answer / conclusion
-- There is plausible, credible evidence both for and against the market’s 83.5% probability. Historical precedent (memecoin “supercycles”, many new tokens, and rapid listings) and a relatively modest current #100 market-cap threshold make the YES outcome plausible. At the same time, very high project failure rates, exchange delistings and regulatory friction are real bearish offsets. Because this market has zero recent trading volume and was likely set without active aggregation, the quoted 83.5% looks optimistic but not obviously impossible. I estimate a modest expected mispricing (my best single-number expected value for investigating this market: 7.5 cents). My confidence in that assessment: medium.
+Short answer (up front)
+- I find insufficient public, high-confidence evidence to declare a large mispricing. The market price (83.5%) is plausible given how many new tokens are created and how quickly a few can rise in market-cap during a bullish cycle, but the market shows signs of being thin/illiquid ($0 total vol, narrow spread) and may reflect one or a few traders’ views rather than broad information aggregation. Because of missing/hard-to-find historical turnover data and limited observable 2026-launched coins already in the Top‑100, my read is: inconclusive but leaning toward the market being at least somewhat optimistic. I assign a low overall confidence to that conclusion.
 
-1) CONTEXT ANALYSIS — what the market asks and resolution rules
-- Market question: “Over 4 coins launched in 2026 end the year in the top 100?” In plain terms the market resolves YES if at 11:59 PM ET on Dec 31, 2026 the count of coins that (a) were launched in calendar year 2026 and (b) appear among CoinGecko’s Top 100 (by market cap) is strictly greater than 4 (i.e., at least 5 such coins). The resolution source is CoinGecko’s Top 100 ranking; CoinGecko’s listing rules / preview-listing process are public and CoinGecko is the resolution authority. ([support.coingecko.com](https://support.coingecko.com/hc/en-us/articles/23960919544345-Support-Directory-CoinGecko-Request-Forms))
+1) CONTEXT ANALYSIS — What the market asks and how it resolves
+- The market question: “Over 4 coins launched in 2026 end the year in the top 100?”
+- Resolution rule (from the market description): At 11:59 PM ET on Dec 31, 2026, check CoinGecko’s Top 100 by market cap. Count coins whose official launch date (calendar year 2026) is in CoinGecko’s data and that are NOT stablecoins, LSTs, liquidity pool tokens, or synthetics. If that count is greater than 4 (i.e., 5 or more), the market resolves YES; otherwise NO.
+- Practical implications: To resolve YES there must be at least five distinct qualifying tokens whose official launch calendar date is in 2026 and that rank inside CoinGecko’s top-100 market-cap snapshot at the specified timestamp. Any stablecoins, LSTs, LP tokens, or synthetics are disqualified.
 
-2) EVIDENCE EVALUATION — relevant evidence I found (bull & bear)
-A. Evidence that supports a high probability (i.e., evidence that YES is likely)
-- Memecoin / rapid-viral-token precedent: CoinGecko’s analysis of the “memecoin supercycle” documents that memecoins can and have surged into the upper ranks quickly (several memecoins reached >$1B valuations and many new meme/retail tokens entered the top 100 in prior cycles). This demonstrates that retail-driven tokens can reach top-100 status rapidly within months. (CoinGecko analysis; author Sankrit K; updated Nov 28, 2024). ([coingecko.com](https://www.coingecko.com/learn/memecoin-supercycle-crypto))
-- Very large rate of token creation / supply of candidates: industry reporting shows enormous token creation in 2026 (hundreds of thousands created in early January 2026 alone). High supply of new tokens creates many “shots on goal” — more launches raises the chance that several will find enough traction to reach top‑100 by year‑end. (MEXC re-post citing CoinMarketCap numbers; Jan 13, 2026). ([mexc.co](https://www.mexc.co/en-PH/news/467702))
-- Current top-100 threshold is lower than many assume: as of my checks (Mar 14, 2026) CoinGecko’s #100 sits in the mid‑hundreds of millions of dollars of market cap (the page shows #100 with market cap roughly ~$472M). That level is reachable for projects that gain exchange listings and retail attention within months. Lower numeric threshold increases the plausibility that multiple 2026 launches could crack top 100. (CoinGecko top list snapshot / ranks). ([coingecko.com](https://www.coingecko.com/en))
-- Existing rapid risers: CoinGecko’s coin pages show examples of coins that rose quickly after listings (e.g., PI/other fast movers visible on CoinGecko), indicating the mechanics (listings + retail flows + meme/airdrop narratives) exist. This is direct evidence that rapid top‑100 entry is feasible. ([coingecko.com](https://www.coingecko.com/en/coins/pi-network-iou))
+2) EVIDENCE EVALUATION — What I found and what it implies
+Evidence collected (high-level)
+- CoinGecko is the canonical resolution source and shows current market-cap ranks (I used CoinGecko’s main Top 100 page and its “New Cryptocurrencies” listing to assess the pace of new listings and the platform used to track launch timing). (sources listed below)
+- CoinGecko’s “New Cryptocurrencies” stream shows many new tokens listed every day (dozens), which demonstrates that many new projects are available to capture market cap quickly if demand materializes. However, many of those are tiny and far from top‑100 cap today. (source: CoinGecko new-cryptocurrencies)
+- Several tokens were launched in early 2026 (CoinGecko token pages document launches such as project tokens and stablecoins introduced this year). Notable examples include tokens and stablecoins launched in 2026 — some of which are explicitly stablecoins and would be excluded from this market (e.g., JupUSD). (CoinGecko coin pages show launch descriptions.) (sources below)
+- I could not locate a convenient, authoritative public dataset summarizing “how many tokens launched in calendar-year X ended that same year in CoinGecko’s top-100” (turnover statistic). That is a key missing piece of evidence for a strong quantitative forecast.
 
-B. Evidence that argues the market price might be too high (bear case)
-- Extremely high attrition / failure rate for new tokens: a report summarized by exchanges shows millions of token failures (Unfolded / CoinGecko data summarized in KuCoin writeup), i.e., a very large majority of new tokens don’t survive or attract lasting value. That historical consolidation reduces the chance that many new tokens will sustainably reach the top 100. (KuCoin summary citing Unfolded/CoinGecko report; Jan 21, 2026). ([kucoin.com](https://www.kucoin.com/news/flash/11-6-million-cryptocurrencies-failed-in-2024-accounting-for-86-3-of-total-failures-since-2021))
-- Exchanges and marketplaces are more cautious / delistings happen: recent coverage documents exchange delistings and platforms tightening listing criteria; delistings can remove liquidity and crush token market caps quickly. That dynamic can prevent or reverse top‑100 moves for speculative launches. (Bybit delisting coverage; other coverage of tightened listings). ([btcc.com](https://www.btcc.com/en-US/square/CoingabbarEN/1306416))
-- Regulatory risk and market selection: regulators and intermediaries (especially in major jurisdictions and under MiCA-style regimes) have increased compliance work and listing oversight, which can limit the raw “list-and-pump” pathways that formerly allowed many tokens to shoot to the top quickly. Several sources discuss exchanges tightening listing rules and regulators increasing scrutiny. That reduces probability that many new tokens will make the top-100 and stay there. ([news.superex.com](https://news.superex.com/articles/5094.html?utm_source=openai))
+What SPECIFIC evidence suggests the market price might be incorrect (bear case)
+- Zero trading volume ($0 total vol) and the narrow spread suggest the price may be set by a single or a very few traders. Markets with no recent liquidity and tight spreads are prone to idiosyncratic pricing errors or reflect the view of the maker(s). That raises concern that the 83.5% price might not reflect broad information. (market metrics in your prompt)
+- The market excludes stablecoins and certain token categories. Several high-profile 2026 token launches so far have been stablecoins or similar (and would be ineligible) — if a trader priced the market while mentally including stablecoins, that could produce an over-stated probability. (CoinGecko pages for early-2026 tokens show some stablecoin launches.)
+- As of today (Mar 19, 2026) I did not identify clear examples of multiple non-stablecoin projects launched in 2026 that are already inside CoinGecko’s Top 100. If none are already in top‑100, then five such tokens would need to emerge and grow within ~9.5 months — possible but not guaranteed.
 
-C. Source credibility and recency
-- CoinGecko pages and CoinGecko research (memecoin article, top-100 snapshot, coin pages) are primary and authoritative for the resolution criteria and current ranks — high credibility for market-cap snapshots and memecoin analysis. Evidence drawn from CoinGecko is directly relevant because CoinGecko is the resolution authority. ([coingecko.com](https://www.coingecko.com/en))
-- Industry reports (MEXC, KuCoin) are secondary reporting that cite CoinMarketCap, Unfolded, CoinGecko. They are recent (Jan–Mar 2026) and useful for broad token-creation and failure-rate context, but treat them cautiously because aggregated counting of “tokens created” includes many tiny, zero‑value assets. ([mexc.co](https://www.mexc.co/en-PH/news/467702))
-- Exchange coverage (BTCC/BTCC repost of Bybit delist) documents concrete delisting events and market mechanics; credible for showing delistings materially affect market caps. ([btcc.com](https://www.btcc.com/en-US/square/CoingabbarEN/1306416))
+What evidence SUPPORTS the current market price (bull case)
+- High frequency of new listings: CoinGecko’s “new cryptocurrencies” stream shows dozens of new tokens being added daily. That large funnel of new assets gives many opportunities for a small number to achieve outsized growth and reach top-100 within a year in a strong market environment. Historically, in bull cycles a handful of new ecosystem tokens have climbed quickly. (CoinGecko new listings)
+- The crypto ecosystem in 2026 has multiple major platforms (new L1s, new gaming/AI-related token launches, experiments around LLM tokens, and large launchpads). If the market becomes enthusiastic, it’s plausible 5+ new projects could reach top‑100 by year-end.
+- The market’s creator/traders may have better, non-public information (e.g., known tokenomics, large locked liquidity, token allocations to buyers, upcoming exchange listings, or backers) that justify a high price. Low-volume markets often represent concentrated knowledge.
 
-3) MARKET EFFICIENCY ANALYSIS — reliability of the quoted 83.5%
-- Reasonable interpretation that justifies 83.5%: If market participants expect (based on memecoin momentum, numerous launches, and the relatively low #100 threshold) that retail-driven launches and airdrop/celebrity/PR-driven tokens will produce at least five breakout winners in 2026, an 80%+ probability could be a rational aggregate view. Historical precedents (multiple rapid entrants in earlier cycles) support that inference. ([coingecko.com](https://www.coingecko.com/learn/memecoin-supercycle-crypto))
-- Signs the market price may not reflect aggregated, informed trading:
-  - Total volume is $0 (the market metadata you gave) and age is only 67 days; a tight spread with no volume strongly suggests the price could be a posted default or the result of one or a few early traders rather than many independent actors. That lowers confidence that the price is a good information aggregation. (user-provided metrics).
-  - Markets with zero volume are more likely to be set by a market maker or a single participant; that doesn’t mean it’s wrong, but it reduces evidentiary weight that the quoted 83.5% is an efficient, crowd‑priced estimate.
-- Which interpretation is likeliest? The most charitable interpretation is that the poster believed the memecoin/launch dynamics + low threshold make >4 entrants likely and set the price accordingly. The less charitable (and plausible) interpretation is that the price is a “convenience” or a single-agent view and has not been stress‑tested by active traders.
+Source credibility and recency
+- CoinGecko pages are primary and authoritative for the specific resolution mechanism (CoinGecko is explicitly the resolution source). Their “Top 100” and “New cryptocurrencies” pages are current (dynamic) and therefore credible for the mechanics and for observing the current supply of new listings. I used only CoinGecko pages (and CoinGecko’s GeckoPulse) for web evidence because CoinGecko is the resolution authority and the user asked to focus on primary sources. CoinGecko content is recent (I viewed live pages on or near March 19, 2026).
+- Missing: independent analyses measuring historical calendar-year-to-end-of-year entries into top‑100 are not present in my 3 searches; that is an important gap for assessing probability quantitatively.
 
-4) MISPRICING ASSESSMENT — weighing both sides
-- Probability-space reasoning: Historical precedent shows that multiple (more than four) new tokens can and have entered top‑100 in strong meme / listing cycles. The supply/sourcing of candidates (hundreds of thousands of new tokens) increases the chance at least five breakouts happen by Dec 31. That supports some substantial probability of YES.
-- Offsetting risks (high failure rate, delistings, regulatory pressure, and the fact that many tokens are tiny ‘dust’ assets) materially reduce the odds. Those risks make an 83.5% certainty look optimistic.
-- Does the market miss major information? Not obviously. The market price may not incorporate fine-grained expected delisting risk or the survival rate for tokens that achieve quick listings; but those are visible public risks that any informed trader could include. Because there has been no trading, it’s plausible the posted price just hasn’t been arbitraged by traders who are more cautious about regulatory and delisting risk.
-- Final judgement: I do NOT see conclusive evidence that the market is wildly mispriced (e.g., off by >30 cents). I do think the market is probably somewhat overconfident — a modest mispricing exists (my estimate below). That conclusion follows from:
-  - Strong precedent and low numeric threshold (bullish),
-  - High failure/delist/regulatory risk and lack of market trading on this contract (bearish),
-  - The market’s zero volume (low information aggregation).
+Skepticism about “obvious” evidence
+- It’s “obvious” many tokens are launched each month — but that fact alone doesn’t imply that five will make top-100 by year-end because scaling a market-cap into top-100 usually requires sustained demand, exchange listings, or large token allocations. If it were that clear, traders would already price it in — the low volume suggests those who would arbitrage may either disagree or are not engaged.
 
-Critical check on reasoning (per your instructions)
-- I re‑checked the exact resolution mechanics: CoinGecko Top 100 by market cap at 11:59 PM ET Dec 31, 2026, with exclusions (stablecoins, LSTs, LP tokens, synthetics). Because CoinGecko is explicit about listings and the resolution source is public, there is no obvious resolution‑criteria trick I missed (e.g., “will X be announced vs will X exist”). CoinGecko’s listing and preview forms are public and recent. ([support.coingecko.com](https://support.coingecko.com/hc/en-us/articles/23960919544345-Support-Directory-CoinGecko-Request-Forms))
-- I considered whether the market could already be determined (i.e., launched coins already in top 100). As of Mar 14, 2026, several recent launches are in top ranks but many were launched in 2024–2025; the calendar-year condition (must be launched in 2026) still leaves almost the whole year for new launches. Thus the contract outcome is genuinely uncertain and not already settled.
+3) MARKET EFFICIENCY ANALYSIS — reliability of the price
+- Reasonable interpretations that justify 83.5%:
+  - The trader(s) pricing the market may have identified multiple high-probability launches (non-stablecoins) with strong backers/large token-sale allocations or planned large exchange listings; combined, these could plausibly put ≥5 new tokens into top‑100 by Dec 31, 2026.
+  - The market maker may have used an informed prior about typical annual turnover in top‑100 during expansion phases and concluded >4 is likely this year.
+- Reasons to suspect the price reflects a few participants:
+  - $0 total volume, narrow spread, and age (72 days) — suggests no broad market engagement; a single liquidity provider could set the price and there’s been no countervailing trades.
+  - The exclusions (stablecoins/LSTs/etc.) increase the chance of confusion or miscount by casual traders; if the market setter didn’t fully adjust for exclusions the price could be too high.
+- Is low volume because it’s obvious or because traders haven’t engaged?
+  - The combination of $0 total vol and a high implied probability suggests the price was set and left unchanged rather than battle-tested. If the event were trivial and widely accepted, I’d expect at least some trading/positioning. That pattern instead looks like lack of engagement.
 
-5) EXPECTED VALUE CALCULATION (my judgement)
-- Strength of the evidence (how much I trust the specific, *missing* pieces of evidence that would move the market): 50%
-  - Rationale: There is credible evidence both ways; the historical precedent is strong but countervailing failure/delist/regulatory risks are also strong and public. Because the market shows no volume, much of my confidence is about structural plausibility rather than demonstrated market consensus.
-- Magnitude of mispricing (cents): I estimate the market overstates the YES probability by ~15 cents (i.e., true prob ~68–70% vs market 83.5% → ~13.5–15.5 points). Rationale: historical patterns make YES more likely than coin‑flip but regulatory and survival dynamics reduce certainty; the market’s zero volume and short age support downward adjustment but not collapse of the YES case.
-- Expected value = Strength × Magnitude = 50% × 15 cents = 7.5 cents.
+4) MISPRICING ASSESSMENT — weigh the evidence
+- Key missing evidence needed to assert mispricing: a small inventory of qualifying 2026-launched tokens already in top‑100 today (would support YES), or a clear historical baseline showing that normally ≤1–2 calendar-year launches ever make top‑100 (would support NO). I could not find a clear, trustworthy public count during my searches.
+- Given the available evidence:
+  - Pro-mispricing points: market is illiquid ($0 vol), narrow spread suggests single-party pricing; exclusions (stablecoins, etc.) create room for counting mistakes; as of today I did not find multiple 2026 non-stablecoin tokens already in the top‑100, so most of the required 5 would need to happen in the coming 9+ months.
+  - Anti-mispricing points: large volume of new listings and the active launch ecosystem make it plausible multiple new projects could breakout in 2026; if one or two are backed by major players and secure exchange listings and demand, they can climb fast — several such breakouts in a bullish year is within the realm of plausibility.
+- Critical self-check: If I were to assert >20-cent mispricing (i.e., large mispricing), I would need stronger evidence that the required outcome is either almost certain or extremely unlikely. I do not have that evidence: I do not see that the resolution criteria are already satisfied (i.e., there’s no clear evidence that 5 qualifying coins already exist in top‑100), nor do I see authoritative evidence that it’s nearly impossible. Therefore I cannot confidently assert a large mispricing.
 
-(So: EXPECTED_VALUE ≈ 7.5 cents.)
+5) EXPECTED VALUE CALCULATION (my estimate)
+- Strength of evidence (how reliable/novel is the evidence I found that would be missing from the current price): low-to-moderate — I found signs the market is thin and that stablecoins/others could be excluded, but I lacked strong quantitative historical turnover data and I could not identify many already-qualified tokens in the top‑100. I set Strength = 30%.
+- Magnitude of mispricing (plausible error if the market is wrong): moderate — because the market is 83.5% I judge a realistic overpricing error, if present, is maybe ~10–20 cents (i.e., true probability might be ~65–75% rather than 83.5%). I pick magnitude = 15 cents as a plausible upper-magnitude error for a low-volume market where the maker could be optimistic but not wildly wrong.
+- Expected value = Strength × Magnitude = 0.30 × 15c = 4.5 cents.
 
-6) CONFIDENCE in this assessment
-- My overall confidence in the analysis (how sure I am about the expected-value estimate and mispricing judgment): medium.
-  - Reason: The topic is inherently uncertain (forward-looking market outcomes across a full year), but the public evidence is recent and relevant. The zero-volume market structure reduces confidence in the market price as an aggregator, but it also makes any single estimate fragile. That combination leads me to “medium” confidence.
+6) CONFIDENCE
+- I rate my confidence in this assessment as: low.
 
-Bottom-line practical guidance (brief)
-- If you are considering trading this market: the posted 83.5% price appears optimistic but not absurd; the expected value to exploit (my estimate) is modest (~7.5¢). Given low market liquidity and no on‑chain blocking issues, any trading position should be sized for the high chance of model error and execution risk (thin market).
-- If you want a higher-confidence edge, monitor two things: (1) how many 2026-launched coins appear in CoinGecko’s top 200 over the next months (early entrants are informative) and (2) any regulatory or major exchange‑listing policy announcements that would materially reduce memecoin listing velocity.
+Bottom-line recommendation to a trader/researcher
+- Because the market has $0 volume and a tight spread, treat the posted price as potentially idiosyncratic. Before trading on a claim of mispricing, either (a) try to discover the identities/announcements of specific high-probability 2026 launches (backers, large exchange listing commitments, tokenomics that create immediate high market cap), or (b) wait for more market activity / public announcements that would significantly narrow uncertainty. If you want a higher-confidence view, obtain (or compute) a historical turnover statistic: how many calendar-year-launched tokens ended the same year in CoinGecko top‑100, for past years and for bull vs bear years.
 
-EXPECTED_VALUE: 7.5
-SUMMARY: The YES outcome is plausible because memecoin/fast‑listing mechanics and a fairly low current #100 market‑cap threshold make multiple breakout launches feasible in 2026. However, very high project failure rates, exchange delistings and regulatory headwinds mean the market’s 83.5% looks optimistic; I estimate a modest mispricing (expected value ≈ 7.5¢). 
-CONFIDENCE: medium
+EXPECTED_VALUE: 4.5
+SUMMARY: The market (83.5%) is plausible but not definitively supported by public evidence: CoinGecko shows many new listings that could allow multiple breakouts in 2026, but I could not find strong public evidence that five non-stablecoin projects launched in 2026 are already top‑100 or that historical turnover makes five new entrants near-certain. The market’s zero volume and narrow spread suggest price may reflect one or a few traders rather than broad aggregation.
+CONFIDENCE: low
 
 ---
 
@@ -91,29 +93,24 @@ CONFIDENCE: medium
 ### [Cryptocurrency Prices, Charts, and Crypto Market Cap | CoinGecko](https://www.coingecko.com)
 **Author:** Unknown | **Published:** Unknown
 
-CoinGecko’s main site provides the live Top 100 rankings and market-cap figures used to determine resolution (CoinGecko is the official resolution source). The page snapshot I used shows current rank listings and the #100 market‑cap level (examples and market caps for ranks around #90–#100). This source is directly relevant because the contract resolves to CoinGecko’s Top 100; its data supports the observation that the numeric threshold for top‑100 entry (mid‑hundreds of millions as of Mar 14, 2026) is reachable by highly-hyped launches. ([coingecko.com](https://www.coingecko.com/en))
+CoinGecko’s main page displays the live Top 100 market-cap rankings and is the explicit resolution source named by the market. I used this page to confirm the correct resolution authority (CoinGecko) and to observe that the site is a live tracker of market caps and token pages; this matters because resolution will simply use CoinGecko’s Top 100 snapshot at the specified timestamp. The presence of dynamic, up-to-date rankings on CoinGecko supports its role as authoritative for adjudicating the market; however, the page alone does not list launch-year aggregation statistics, so it does not directly answer how many 2026-launched coins will reach top‑100.
 
-### [What Is the Memecoin Supercycle? The Explosive Growth of Memecoins](https://www.coingecko.com/learn/memecoin-supercycle-crypto)
-**Author:** Sankrit K (edited by Vera Lim) | **Published:** 2024-11-28
+### [New Cryptocurrencies Listed Recently | CoinGecko](https://www.coingecko.com/en/new-cryptocurrencies)
+**Author:** Unknown | **Published:** Unknown
 
-CoinGecko’s research/guide explains the memecoin “supercycle” thesis, documents examples where memecoins rapidly achieved very large market caps, and quantifies how memecoins repeatedly entered the top 100 in prior cycles. It explains the retail-and-listing mechanics that allow new tokens to jump into high ranks quickly. This supports the bull argument that several 2026 launches could reach top 100 by year‑end. ([coingecko.com](https://www.coingecko.com/learn/memecoin-supercycle-crypto))
+CoinGecko’s “New Cryptocurrencies” listing shows dozens of tokens added daily and provides recent listing timestamps, chains, and market-cap/volume snapshots. This demonstrates the large funnel of newly listed tokens (many of which could become contenders), supporting the plausibility that multiple 2026 launches could reach top‑100 within the year. It also highlights that most new entries are small today — which tempers confidence that a large number will reach top‑100 without significant demand or major backers.
 
-### [Over 600,000 new cryptocurrencies have been created in 2026](https://www.mexc.co/en-PH/news/467702)
-**Author:** BitcoinEthereumNews (reposted by MEXC) | **Published:** 2026-01-13
+### [JupUSD Price: JUPUSD Live Price Chart, Market Cap & News Today | CoinGecko](https://www.coingecko.com/en/coins/jupusd)
+**Author:** Unknown | **Published:** Unknown
 
-This article (reposting CoinMarketCap-sourced data) reports that hundreds of thousands of new tokens were created in early 2026, increasing the pool of potential breakout projects. It documents the raw supply-side environment: many launches increase ``shots on goal’’ for top‑100 entrants. This supports the idea that there are many candidate projects that could become top‑100 tokens within 2026. ([mexc.co](https://www.mexc.co/en-PH/news/467702))
+The JupUSD coin page documents that JupUSD is a Solana-native stablecoin launched in early 2026 (description and launch context on the CoinGecko coin page). I cite this as an example of a 2026 launch that would be ineligible under the market’s exclusion of stablecoins—demonstrating that not every high-profile 2026 launch counts toward the market outcome, which matters when assessing whether traders may have miscounted eligible projects.
 
-### [11.6 Million Cryptocurrencies Failed in 2024, Accounting for 86.3% of Total Failures Since 2021](https://www.kucoin.com/news/flash/11-6-million-cryptocurrencies-failed-in-2024-accounting-for-86-3-of-total-failures-since-2021)
-**Author:** BitcoinWorld (posted on KuCoin News) | **Published:** 2026-01-21
+### [Claude Price: MCP Live Price Chart, Market Cap & News Today | CoinGecko (example token page)](https://www.coingecko.com/en/coins/claude-3)
+**Author:** Unknown | **Published:** Unknown
 
-Summarizes an Unfolded / CoinGecko analysis showing massive project failure/attrition in 2024 and a high long-term failure rate overall. This is evidence that most new tokens do not survive or maintain liquidity/market cap; it is a counterargument to assuming many 2026 launches will reach (and remain) in the top 100. It supports the bearish case and argues for caution when assigning very high confidence to many new entrants. ([kucoin.com](https://www.kucoin.com/news/flash/11-6-million-cryptocurrencies-failed-in-2024-accounting-for-86-3-of-total-failures-since-2021))
+CoinGecko token pages include launch notes and historical data for individual tokens launched in 2026 (for example, coin pages describe launch timing/context and trading history). These pages show that some tokens were indeed launched in 2026, but most are small-cap as of March 2026. This supports the observation that while 2026 launches exist, there is not yet clear evidence of many having already reached top‑100 (and it underscores that eligibility must be checked per-token against the exclusion rules).
 
-### [Bybit Delists $BOMB Token: Bombie Price Plummets 40% - What’s Next for the Fallen Memecoin?](https://www.btcc.com/en-US/square/CoingabbarEN/1306416)
-**Author:** CoingabbarEN | **Published:** 2025-12-17
+### [GeckoPulse: Pudgy Penguins Releases Club Penguin-like Game! | CoinGecko Learn/GeckoPulse](https://www.coingecko.com/learn/geckopulse-pudgy-penguins-releases-club-penguin-like-game)
+**Author:** Loke Choon Khei; edited by Shaun Paul Lee | **Published:** 2026-03-11
 
-Coverage of a concrete exchange delisting event (Bybit delisting a memecoin) and the resulting rapid market-cap collapse. This demonstrates that exchange delistings are a real operational risk that can prevent or reverse a new token’s progress into higher rankings; such events materially reduce the survival probability of speculative launches. This supports the bearish argument that not all rapid listings translate into lasting top‑100 positions. ([btcc.com](https://www.btcc.com/en-US/square/CoingabbarEN/1306416))
-
-### [Support Directory - CoinGecko Request Forms](https://support.coingecko.com/hc/en-us/articles/23960919544345-Support-Directory-CoinGecko-Request-Forms)
-**Author:** CoinGecko Support (Unknown) | **Published:** 2026-03-04
-
-CoinGecko’s official support/documentation page showing token listing and preview listing procedures and dates for their support articles. This confirms CoinGecko’s public listing workflow and that CoinGecko actively handles preview listings. It’s relevant to resolution mechanics (how quickly tokens show on CoinGecko and the public listing process). This helps verify that CoinGecko is an appropriate and public resolution source for the market. ([support.coingecko.com](https://support.coingecko.com/hc/en-us/articles/23960919544345-Support-Directory-CoinGecko-Request-Forms))
+A CoinGecko “GeckoPulse” news piece (March 11, 2026) summarizing recent ecosystem developments; I used this to confirm the cadence of ecosystem news and product/token launches in 2026 and to illustrate that CoinGecko’s ecosystem reporting highlights many active launches and projects. This supports the plausibility side of the argument (there is active launch activity in 2026) but does not provide a quantified forecast for top‑100 entries.

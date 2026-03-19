@@ -1,77 +1,113 @@
 # Research: Will San Marino advance through the first Eurovision Semi-Final?
 
 **Market ID:** 0x0ca86b30dc11f32cb2e8869419d528e5a29cfc663c6c29bc25cddfd2d1891c0b
-**Researched At:** March 10, 2026 at 04:19:06 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will San Marino advance through the first Eurovision Semi-Final?"
+**Researched At:** March 19, 2026 at 04:49:49 AM UTC
+**Search Query:** "Will San Marino advance through the first Eurovision Semi-Final?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-San Marino’s semi-final qualification probability historically hovers around 20%, matching the 19% market price. No new quantitative data suggests a deviation, and low volume likely reflects low interest, not mispricing.
+San Marino’s entry for Eurovision 2026 (Senhit with “Superstar”) is confirmed and will compete in the First Semi-Final on May 12, 2026; historical patterns and bookmaker signals make a low qualification probability plausible, so the market price of 20% is not obviously mispriced. There is a modest possibility (single-digit cents) that the market slightly undervalues the entry due to artist profile, but I found no specific, missing fact that would support a large (>20¢) mispricing. CONFIDENCE: me
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether San Marino’s entry (Senhit with “Superstar”) will qualify from Eurovision 2026’s first semi­final on May 12. It resolves YES if San Marino is one of the top qualifiers advancing to the Grand Final; NO if it fails or if the semi­final is canceled by June 30.
+Planned approach and searches used
+- I used my 3-search budget to (1) confirm San Marino’s selected entry and the national-selection outcome, (2) check the official Eurovision allocation / which semi-final San Marino will perform in and the official resolution source, and (3) survey bookmaker / betting coverage that indicates how the professional betting market is treating San Marino’s qualification chances. The sources returned are from Eurovision / fan-news sites, a mainstream bookmaker page, and Wikipedia; I relied most heavily on official Eurovision coverage and reputable fan sites for factual items (dates, selection result).
 
-2. EVIDENCE EVALUATION  
-Bullish points: Senhit’s experience (three prior selections) and the high-profile Boy George co-write may boost staging and televote appeal. Bearish points: San Marino’s historical qualification rate is very low (roughly 3 successes out of ~15 attempts, ~20%); Fan- and jury-vote dynamics typically favor larger or regional‐bloc countries; no polls or bookmaker odds suggest a significant uptick. All sources (dated March 7, 2026) confirm selection but offer no data on comparative strength or public/broadcast previews. No clear signal that informed traders have overlooked material new information.
+1) CONTEXT ANALYSIS
+- Market question: Will San Marino advance through the First Eurovision Semi-Final? For this market to resolve YES, San Marino’s entry must be one of the qualifiers from the First Semi-Final on May 12, 2026 (as determined by official Eurovision reporting/live footage or a consensus of credible reporting). For it to resolve NO, San Marino must not be among the qualifiers, be eliminated earlier (e.g., disqualified), or the contest fails/doesn’t advance contestants by the June 30, 2026 cutoff per contract. The primary official resolution source is Eurovision (eurovision.tv). ([eurovision.tv](https://eurovision.tv/about/in-depth/semi-final-allocation-draw?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 19% probability aligns closely with San Marino’s historical ~20% semi-final qualification rate. Low volume probably reflects low interest rather than a coordinated mispricing. The price could well represent consensus among the handful of traders who care about niche Eurovision markets.
+2) EVIDENCE EVALUATION (all relevant evidence found)
 
-4. MISPRICING ASSESSMENT  
-Given the lack of any concrete polling, juror previews, or betting data showing San Marino significantly over- or under-performing historical norms, there is no credible evidence of a mispricing larger than a few cents. The baseline of ~20% is appropriately reflected at 19%.
+Key factual baseline
+- San Marino’s national selection concluded and the winning act that will represent San Marino at Eurovision 2026 is Senhit with the song “Superstar” (performance credited to Senhit, with a high-profile collaborator referenced in coverage). This is the entry that would compete in the First Semi-Final. The national-selection reporting is recent (March 2026). ([eurovision.com](https://www.eurovision.com/stories/san-marino-song-contest-2026-finalists-revealed/?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: 10% (weak – only historical rates)  
-Magnitude of mispricing: 0¢  
-Expected value = 10% × 0¢ = 0.0¢
+Evidence that could suggest the market price (20%) is too low (i.e., San Marino undervalued)
+- Artist experience and publicity: Senhit is a Eurovision veteran (previously represented San Marino) and the 2026 selection attracted notable press attention; the involvement of a notable collaborator (reported as Boy George in multiple write-ups) increases the profile of the entry and could improve televote / jury attention versus a lesser-known act. Higher profile / experienced acts sometimes outperform expectations in semis. These facts argue that there is a non-trivial upside relative to a “country = longshot” heuristic that some traders may be using. ([globaleventmagazine.com](https://www.globaleventmagazine.com/2026/03/07/san-marino-lights-up-europe-senhit-wins-the-song-contest-2026-with-superstar-feat-boy-george-san-marino-accende-leuropa-senhit-vince-il-song-contest-2026-con-s/?utm_source=openai))
 
-EXPECTED_VALUE: 0.0  
-SUMMARY: San Marino’s semi-final qualification probability historically hovers around 20%, matching the 19% market price. No new quantitative data suggests a deviation, and low volume likely reflects low interest, not mispricing.  
-CONFIDENCE: medium
+Evidence that supports the market price (i.e., low chance to qualify)
+- Historical performance and structural disadvantage: San Marino is a very small country with limited televote resources and a short history of qualifying for Grand Finals; historically San Marino has more often failed to qualify than to qualify, which is a strong prior for low qualification probability. This prior would justify a low market price. ([en.wikipedia.org](https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+- Bookmaker / betting signals: mainstream sportsbooks and Eurovision betting pages place many smaller delegations (including San Marino in past years) toward the longshot end for qualification markets; the bookmaker product pages and some odds boards show San Marino among lower-probability qualifiers for 2026, consistent with a market price in the low-tens of percent. (I found sportsbook coverage listing San Marino among lower-probability entries in their Eurovision markets.) That tends to corroborate the prediction-market price. ([betsafe.com](https://www.betsafe.com/en/sportsbook/music/international/eurovision-song-contest?utm_source=openai))
+
+Source credibility and recency
+- Eurovision (eurovision.tv) / eurovision.com and national-selection reporting are primary and authoritative for selection, allocation, and dates — these are the highest-credibility sources for resolution criteria and the entry. The selection reporting and national-final results are from March 2026 (recent). ([eurovision.com](https://www.eurovision.com/stories/san-marino-song-contest-2026-finalists-revealed/?utm_source=openai))
+- Bookmaker pages are credible for showing how professional bettors/bookmakers are pricing things, but they reflect commercial odds (which incorporate profit margin and exposures). Wikipedia and fan sites are useful secondary sources for history and color but are lower in authority than official broadcaster pages. ([en.wikipedia.org](https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+
+Bullish interpretation (why YES could be likelier than 20%)
+- Experienced performer + star collaborator → better staging, press attention, and possibly stronger jury/televote performance than a typical microstate entry. If the final staging and music-video/promo run generate strong streaming/viewing numbers or favorable jury reaction, that can push qualification probability materially above a baseline longshot. The national-final win and press coverage show at least some momentum. ([eurovision.com](https://www.eurovision.com/stories/san-marino-song-contest-2026-finalists-revealed/?utm_source=openai))
+
+Bearish interpretation (why NO at ~80% looks reasonable)
+- Small-country bias, historically low qualification rate, and crowded semi-final field with many countries competing (typical Eurovision semi-finals contain 15–20 countries for only 10 qualification slots) make many microstate entries longshots. Bookmakers currently treating San Marino as a lower-probability qualifier supports the market’s ~20% price. ([en.wikipedia.org](https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+
+Skepticism about “obvious” evidence
+- The fact that Senhit is experienced and a collaborator is involved is visible and already reported (March 2026). If that were decisive, the market and bookmakers would likely have moved more strongly already. The persistence of a low probability suggests the betting/public consensus currently discounts that advantage — either due to perceived song strength, running order, or the general inertia of historical priors.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation(s) that justify a 20% price:
+  - A risk-adjusted prior: traders may be starting from San Marino’s historical qualification frequency and applying a discount for limited televote reach; that prior alone makes a 20% qualification probability plausible.
+  - Bookmakers’ lines: if sportsbooks and odds boards also list San Marino as a longshot to qualify, professional money is already assigning low probability — parity between bookies and the prediction market supports the market price.
+- Could the price reflect only one or a few traders? Yes — total market volume is low ($4,577) and spread tight; small-volume markets can reflect one large liquidity provider or a small group. The tight spread suggests one or a few liquidity providers are comfortable quoting that price; the low traded volume means the price is not robustly tested. That increases the chance of idiosyncratic mispricing, but it does not prove it.
+- Why low volume? Both plausible reasons exist:
+  - Outcome is perceived as low-information / low-value (small country, historical tendency to fail) so informed traders may not bother.
+  - Or it’s overlooked by active traders, in which case a mispricing could persist if someone profitable noticed it.
+Given the available evidence, low volume + tight spread means the price could either be a reasonable consensus (bookmakers + traders) or the view of a small set of participants — ambiguity remains.
+
+4) MISPRICING ASSESSMENT (challenge your reasoning)
+- Do I understand the exact resolution criteria? Yes: market resolves YES if San Marino advances from the First Semi-Final on May 12, 2026; official Eurovision reporting (eurovision.tv) is primary. If San Marino is eliminated/disqualified earlier, the market can resolve immediately to NO. The national selection and dates are public and recent. ([eurovision.tv](https://eurovision.tv/about/in-depth/semi-final-allocation-draw?utm_source=openai))
+- What might I be missing? Important missing items that could materially change my view but I was unable to confirm within budget:
+  - Early professional reviews of the final staging / running order placement (running order can strongly affect qualification odds).
+  - Aggregated bookmaker odds specifically for the “qualify from Semi-Final 1” market (most sportsbooks list overall winner markets or not-to-qualify but not always per-semi qualifier lines).
+  - Any late campaign or broadcast/technical issue that could disqualify or materially change chances.
+- Most charitable interpretation of current price: It reflects a reasonable consensus that San Marino is a longshot to qualify, taking into account historical probabilities, initial critical reception, and how bookmakers pay attention to microstates. The market price (20%) is within a plausible range for a microstate with a recognized artist — neither extremely pessimistic nor obviously generous.
+
+Conclusion on mispricing
+- I do not find specific, credible evidence of a large (>20-cent) mispricing. There is some information (Senhit’s experience, notable collaborator) that could justify a somewhat higher probability than a raw historical prior, but that information is publicly known (March 2026) and likely already discounted by traders and bookmakers. The low volume creates an opportunity for mispricing, but I did not find an obvious, omitted fact (e.g., confirmed running-order advantage, broken competitor entry, or an official rule change) that would clearly push the probability far away from the market price.
+- Therefore the most defensible position is: the market price (20%) is plausibly reasonable given the evidence; there may be a small undervaluation (single-digit cents) but not a clear large mispricing.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that something important is missing from the market price: I assess this at ~30% — there is some signal (artist + collaborator publicity) but it’s publicly known and likely already incorporated. (30%)
+- Magnitude of plausible mispricing if any: I estimate a modest possible error of about 10 cents (i.e., true probability might be ~30% in an optimistic reading), but not larger given available information and bookmaker alignment. (10 cents)
+- Expected value = 30% × 10 cents = 3.0 cents
+
+6) CONFIDENCE
+- I rate my overall confidence in this assessment as medium: the primary facts (selection, semi-final, dates) are recent and clear, but limited direct bookmaker/odds detail and the low-volume nature of the prediction market leave uncertainty.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: San Marino’s entry for Eurovision 2026 (Senhit with “Superstar”) is confirmed and will compete in the First Semi-Final on May 12, 2026; historical patterns and bookmaker signals make a low qualification probability plausible, so the market price of 20% is not obviously mispriced. There is a modest possibility (single-digit cents) that the market slightly undervalues the entry due to artist profile, but I found no specific, missing fact that would support a large (>20¢) mispricing. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: San Marino: Senhit will go to Eurovision 2026 with "Superstar"
-Author: Justina Helgeson 7 March  2026
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://eurovisionworld.com/esc/san-marino-senhit-will-go-to-eurovision-2026-with-superstar
-Summary: San Marino's representative for Eurovision 2026 is Senhit, who will perform "Superstar," a song co-written by Boy George. Senhit has previously represented San Marino in 2021, 2020 (canceled), and 2011, with her best result being 22nd place in 2021. The country has a history of limited success, often not qualifying for the final. However, Senhit's experience and the notable collaboration with Boy George could enhance her chances. San Marino will perform in Semi-final 1 on May 12, 2026. Given their past performances and Senhit's established presence, there is a possibility of qualification, but historically, San Marino has faced challenges in advancing past the semi-finals.
+### [San Marino Song Contest 2026 finalists revealed](https://www.eurovision.com/stories/san-marino-song-contest-2026-finalists-revealed/)
+**Author:** Eurovision News Team (Eurovision.com) | **Published:** 2026-03-06
 
-Title: San Marino: Senhit & Boy George won the Dreaming San Marino Song Contest 2026! - Eurovision News | Music | Fun
-Author: Fotios Ntinos
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://eurovisionfun.com/en/2026/03/san-marino-senhit-boy-george-won-the-dreaming-san-marino-song-contest-2026/
-Summary: The recent San Marino national selection for Eurovision 2026, the Dreaming San Marino Song Contest, was won by Senhit & Boy George with their song "Superstar." The contest featured 21 finalists, including established artists and emerging talents, with the winner determined by a panel of judges and additional awards given by various panels. While the event showcased strong performances and notable artists, there is no specific information about San Marino's potential to advance through the Eurovision Semi-Final. Historically, San Marino has faced challenges in progressing past the semi-finals, but the victory of Senhit & Boy George suggests they may have a competitive entry for Eurovision 2026.
+Reports the outcome and finalists of San Marino’s national selection process for Eurovision 2026, including the winning artist and song that will represent San Marino. This is relevant because it confirms the identity and public profile of the entry that will compete in the First Semi-Final; if the selected artist is experienced or has notable collaborators, that can affect qualification chances. The article’s recency (March 2026) means this information is current and likely already visible to market participants; it supports the view that traders already know the entry’s profile.
 
-Title: 🇸🇲 San Marino: Senhit (feat. Boy George) to Eurovision 2026 - Eurovoix
-Author: Gerry Avelino
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://eurovoix.com/2026/03/07/san-marino-senhit-feat-boy-george-to-eurovision-2026/
-Summary: San Marino's representative for Eurovision 2026 is Senhit, performing the song “Superstar” featuring Boy George. She secured her spot by winning the San Marino Song Contest, which involved a national selection process with 21 acts, including both qualifiers from semifinals and automatic entries. Senhit has previously represented San Marino three times, indicating her experience and familiarity with Eurovision. The selection was judged by a five-member jury, with additional assessments from a separate Quality Jury and a Critics’ Jury, and featured guest performances. While her past participation demonstrates her resilience and familiarity with Eurovision, there is no specific information about her current song's competitiveness or how it might perform in the semi-final.
+### [San Marino Lights Up Europe: Senhit Wins The Song Contest 2026 With “Superstar” Feat. Boy George](https://www.globaleventmagazine.com/2026/03/07/san-marino-lights-up-europe-senhit-wins-the-song-contest-2026-with-superstar-feat-boy-george-san-marino-accende-leuropa-s/)
+**Author:** Unknown | **Published:** 2026-03-07
 
-Title: 🇸🇲 Senhit to represent San Marino at Eurovision 2026 with “Superstar” - That Eurovision Site
-Author: 
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://thateurovisionsite.com/2026/03/07/senhit-to-represent-san-marino-at-eurovision-2026-with-superstar/
-Summary: San Marino has a history of participating in Eurovision since 2008, with limited success in reaching the grand final—only three times. Their most recent entry in 2025, performed by DJ Gabry Ponte, qualified for the final but finished last. For Eurovision 2026, San Marino selected Senhit to represent the country with the song “Superstar,” featuring Boy George, which was chosen by a professional jury. Given their past performances and the competitive nature of the semi-finals, San Marino's advancement will depend on factors such as the song's appeal, staging, and voting dynamics, but historically, they have faced challenges in progressing beyond the semi-finals.
+Magazine-style coverage of Senhit’s win in San Marino’s national final, highlighting the participation of a high-profile collaborator (reported as Boy George) and discussing Senhit’s Eurovision veteran status. This supports the “potential upside” argument that the entry may perform better than a typical microstate pick due to name recognition and publicity; however, because it’s widely reported, it is likely already priced in.
 
-Title: Senhit vince il San Marino Song Contest 2026 e va all'Eurovision
-Author: Redazione di Rainews
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://www.rainews.it/maratona/2026/03/san-marino-song-contest-2026-finale-eurovision-2ea64ffe-5687-4981-91ad-f2cf5a33e727.html
-Summary: The article reports that Senhit, representing San Marino alongside Boy George with the song "Superstar," has won the San Marino Song Contest 2026 and will participate in the Eurovision Song Contest 2026 in Vienna. The victory was achieved through a jury panel that praised the project's quality, international sound, and stage presence. Senhit has a history of Eurovision participation, having previously represented San Marino in 2011 and 2020, with a notable 22nd place finish in 2021. The article emphasizes her experience and the strong collaboration with Boy George, aiming for a top placement. While the article highlights her confidence and the country's ambitions, it does not provide specific details about her chances in the semi-finals. However, her past experience and the support from San Marino suggest she is a seasoned contender, which could positively influence her prospects of advancing through the semi-final.
+### [San Marino in the Eurovision Song Contest 2026 (Wikipedia)](https://en.wikipedia.org/wiki/San_Marino_in_the_Eurovision_Song_Contest_2026)
+**Author:** Unknown (Wikipedia contributors) | **Published:** Unknown (page crawled Mar 2026)
 
+Aggregated information about San Marino’s Eurovision 2026 entry and San Marino’s historical participation and outcomes. Useful for establishing historical qualification patterns and context (San Marino’s typical performance and best results). As a secondary source it’s less authoritative than official Eurovision pages but good for quick historical priors that support a low baseline probability for qualification.
 
+### [Semi-Final Allocation Draw | Eurovision Song Contest](https://eurovision.tv/about/in-depth/semi-final-allocation-draw)
+**Author:** Eurovision.tv (EBU) | **Published:** Unknown (site content; allocation draw pages are the authoritative source)
+
+Official Eurovision material describing how semi-final allocation and draw processes work and serving as the authoritative source for which semi-final a country will perform in. This page underpins the resolution criteria (Eurovision is the primary resolution source) and confirms that official Eurovision reporting is the determinative source to settle the market; therefore it is the correct reference for YES/NO resolution on May 12, 2026.
+
+### [Eurovision 2026 Odds | Bet at Betsafe Sportsbook](https://www.betsafe.com/en/sportsbook/music/international/eurovision-song-contest)
+**Author:** Betsafe (Odds provider) | **Published:** 2026 (site updated for contest)
+
+Bookmaker sportsbook page for Eurovision betting markets; shows how bookmakers structure markets for Eurovision and lists longshot/qualifier markets. It demonstrates that commercial betting offerings treat many smaller delegations, including microstates, as lower-probability qualifiers; this corroborates the prediction-market price being in the low-tens of percent and indicates professional bettors/bookmakers do not overwhelmingly favor San Marino to qualify — a piece of evidence supporting the market’s 20% price.

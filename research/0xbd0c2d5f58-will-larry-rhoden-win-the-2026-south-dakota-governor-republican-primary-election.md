@@ -1,91 +1,115 @@
 # Research: Will Larry Rhoden win the 2026 South Dakota Governor Republican primary election?
 
 **Market ID:** 0xbd0c2d5f58650e031aba69b54529cf1e85f1f73622530b53b0d261063627c64d
-**Researched At:** March 6, 2026 at 04:17:05 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Larry Rhoden win the 2026 South Dakota Governor Republican primary election?"
+**Researched At:** March 19, 2026 at 04:36:00 AM UTC
+**Search Query:** "Will Larry Rhoden win the 2026 South Dakota Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 15.6¢
+**Confidence:** Medium
+**Expected Value:** 2.0¢
 
 ### Summary
 
-Race Lab simulations and incumbency factors suggest Rhoden’s win probability is likely above 50%, meaning the 17% market price is probably too low. Yet the lack of public polls and reliance on a single model leave substantial uncertainty.
+Public polling (Emerson, March 7–9, 2026) and campaign finance filings show Larry Rhoden is a mid‑teens contender (poll ~17%, market 15%) while Rep. Dusty Johnson leads and has a much larger war chest; South Dakota’s 35% runoff rule makes a runoff likely and changes dynamics. There is no clear public evidence of a large mispricing; any error is likely small (a few cents). ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rho
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Larry Rhoden will win the June 2, 2026 South Dakota Republican gubernatorial primary. It resolves to YES if Rhoden emerges as the overall primary winner (including any run-off), and NO if any other candidate wins or if no primary occurs.
+Plan and searches used
+- I used my 3-search budget to (1) find a recent, high-quality poll of the South Dakota GOP gubernatorial primary (Emerson College polling), (2) confirm Rhoden’s campaign announcement and background (AP and SDPB), and (3) check fundraising/finance filings and the state’s runoff rule (KOTA / SOS reporting and NCSL). Those sources address the largest, most load-bearing facts for pricing this market.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence:  
-• Race Lab Simulation (Northern Plains News, 2026-02-04) assigns Rhoden a 54–58% chance of winning the primary, citing his approval ratings, incumbency effect, and fundraising stability.  
-• Local reporting (The South Dakota Standard, 2026-02-13) notes Rhoden’s status as “Gov. Larry Rhoden,” his solid support base, and the GOP’s long-standing dominance in South Dakota, implying he is the leading contender barring major upsets.  
+1) CONTEXT ANALYSIS
+- What the market asks: Will Larry Rhoden win the Republican primary for Governor of South Dakota on June 2, 2026 (including any runoff)? The market resolves to YES if Rhoden is the overall winner of the Republican primary (first round or, if required, the runoff), NO otherwise. The market resolution source is the South Dakota Republican Party’s official results (or overwhelming credible reporting).
+- What must happen for YES vs NO:
+  - YES: Rhoden must receive either (a) the plurality/threshold necessary to be declared the nominee on June 2 (note: in SD a runoff is required if no candidate receives ≥35% in a race with 3+ candidates) and be certified the winner, or (b) if a runoff is held, Rhoden must win the subsequent runoff election. ([ncsl.org](https://www.ncsl.org/elections-and-campaigns/primary-runoffs))
+  - NO: Any other candidate (Dusty Johnson, Toby Doeden, Jon Hansen, etc.) wins either the June 2 primary outright (meeting resolution rules) or wins the runoff (if triggered).
 
-Bearish (or neutral) evidence:  
-• NPR (2026-03-05) and Gambit Forecaster (2026-03-01) report no available polling or detailed analysis specific to Rhoden, underscoring high uncertainty at this early stage.  
-• The primary field includes well-funded challengers like Dusty Johnson, and the race remains competitive, suggesting Rhoden’s lead is not insurmountable.  
+2) EVIDENCE EVALUATION (all high-impact/ recent items)
+- Polling snapshot (most load-bearing): An Emerson College / KELO poll (fielded March 7–9, 2026) shows Dusty Johnson at 28%, Toby Doeden 18%, Larry Rhoden 17%, Jon Hansen 14%, with 23% undecided. That places Rhoden roughly in the mid-to-high teens among GOP voters right now. The poll’s sample and methodology are published. This is the clearest market-relevant signal and it implies a Rhoden win probability near the market price (market = 15%). ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/))
+  - How it affects price: Poll implies Rhoden is a single-digit to low‑teens favorite-equivalent in a crowded field — consistent with a market price ~15%.
+- Fundraising / campaign resources: 2025 finance reports (filed Feb 2026) show Dusty Johnson raised ~ $1.6M (and spent ~$650k) while Rhoden reported about $491k raised and $70k spent. Johnson’s much larger war chest (and early spending) is material for outreach, ads, and turnout operations. That is bearish for Rhoden’s chances relative to Johnson. ([kotaradio.com](https://www.kotaradio.com/2026/02/02/2883/))
+- Incumbency and campaign activity: Rhoden succeeded to the governorship in January 2025 and announced he is running for a full term; he has been campaigning and signing bills as governor and has some governing record to run on. Incumbency brings some advantages (visibility, official events, patronage/endorsements), but Rhoden’s incumbency is relatively recent and he trails Johnson in polls/fundraising. ([apnews.com](https://apnews.com/article/9ae7c9443328c9c257d3f5da798a0ca5))
+- Runoff rules and strategic effects: South Dakota requires a runoff for gubernatorial primaries if no candidate receives at least 35% in a race with three or more candidates; the top two advance to the runoff (held ≈ eight weeks later). The Emerson poll shows no candidate near 35% today, so a runoff is plausible. A runoff changes dynamics: turnout typically falls, and endorsements/alliances matter — that creates a path for a trailing candidate to win even if they’re behind in the first round. ([ncsl.org](https://www.ncsl.org/elections-and-campaigns/primary-runoffs))
+- Other contextual items:
+  - Field: Multiple credible Republican contenders have declared/are running (Dusty Johnson, Jon Hansen, Toby Doeden, and Rhoden). A crowded field increases the likelihood of no one passing 35% and therefore a runoff. ([sdpb.org](https://www.sdpb.org/politics/2025-11-18/gov-larry-rhoden-officially-announces-reelection-campaign))
+  - Timing: Primary is June 2, 2026 (about 2.5 months from March 19, 2026). Little time remains for major shifts, but undecided voters (Emerson shows ~23%) could move the race meaningfully in a short period.
+- Source credibility and recency:
+  - Emerson College Polling (March 11, 2026 polling release) — high relevance and transparency (published toplines and methodology). Primary load-bearing poll. ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/))
+  - Associated Press (AP) / SDPB coverage of Rhoden’s announcement and activities — reputable, local reporting on Rhoden’s campaign and incumbency. ([apnews.com](https://apnews.com/article/9ae7c9443328c9c257d3f5da798a0ca5))
+  - KOTA / local reporting of campaign finance filings — practical evidence (reports to state) and specific dollar amounts. Local outlets often summarize official filings; citation tracks back to filings. ([kotaradio.com](https://www.kotaradio.com/2026/02/02/2883/))
+  - NCSL summary of runoff rules — authoritative statement of the statutory procedure (references state statute). This is the best quick reference for the rule that materially affects paths to victory. ([ncsl.org](https://www.ncsl.org/elections-and-campaigns/primary-runoffs))
+- Bullish evidence for Rhoden (i.e., why market might underprice him):
+  - Incumbent governor (even short tenure) can consolidate establishment support and endorsements quickly; in a multi-candidate primary small shifts in undecided voters or an opponent stumble can move Rhoden from mid-teens to a plurality or to a runoff win.
+  - Runoff dynamics can favor an incumbent or the candidate who consolidates the anti‑front-runner coalition; lower runoff turnout can produce surprising outcomes if one campaign organizes better.
+- Bearish evidence for Rhoden (i.e., why market price might be high or correct):
+  - Recent, credible polling puts Rhoden at ~17% while Johnson leads at 28% — market 15% tracks that polling signal closely. ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/))
+  - Fundraising gap is large (Johnson ≈ $1.6M vs Rhoden ≈ $491k), implying Johnson can outspend/out-organize and build a statewide operation faster. ([kotaradio.com](https://www.kotaradio.com/2026/02/02/2883/))
+  - A crowded field and Johnson’s plurality suggests the most likely path to victory for Johnson (or another non‑Rhoden candidate) is either winning the June primary plurality or prevailing in a runoff.
+- Skepticism check: The poll’s undecided bloc (~23%) means shifts are possible, but large, sustained reversals within ~2.5 months are harder when the opponent has a sizable fundraising advantage and already leads in several polls. If one believed a >20‑cent mispricing existed, the conviction would require evidence that the poll or fundraising picture is wrong (for example, a major hidden ground game, an imminent endorsement wave, or an opponent scandal) — I did not find such disqualifying evidence in the available reporting.
 
-Source credibility and recency:  
-• Race Lab is a recent (Feb 2026) simulation but not a public poll; its model assumptions are not fully disclosed.  
-• The South Dakota Standard is local but offers qualitative rather than quantitative likelihoods.  
-• Absence of formal polling in NPR and Gambit underscores data scarcity, but informed models should factor in incumbency.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify price = 15%:
+  - The market price is broadly consistent with recent, credible polling (Rhoden ~17%) and with Rhoden’s weaker fundraising position; traders appear to be pricing Rhoden as an underdog in a crowded field. ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/))
+  - The 35% runoff rule and the Emerson topline (no one near 35%) make a runoff likely; markets may be pricing both first-round and runoff probabilities into Rhoden’s 15% — i.e., modest chance to finish top‑two and better chance in a two‑candidate runoff or an upset in the first round.
+- Could the price reflect one/few traders? Yes — total market volume is low ($4,082) and age 98d with a tight spread suggests limited liquidity. Low volume markets can be set by a small number of participants; the tight spread suggests someone was willing to provide liquidity at that level. That raises the possibility that the market reflects a few traders’ views rather than wide aggregation.
+- Why low volume might be sensible here:
+  - The race is state-level, low-interest nationally; traders focused on national races might ignore it.
+  - Polling and financing data provide a clear, if not decisive, picture — some traders may see limited arbitrage relative to other markets.
+- Why low volume could instead indicate mispricing:
+  - If informed local insiders (party operatives, donors) see a different on-the-ground picture (endorsements, turnout operations, internal polling) they may not be trading on public platforms — meaning the market could be missing localized, high‑value information. I found no public evidence of that.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• The 17% price closely aligns with a naïve equal-split among ~6 leading candidates (~16.7%), suggesting the market may be set by default rather than aggregated insight.  
-• Low trading volume (zero dollars) and a narrow spread point to minimal participation—likely one or few liquidity-providing traders.  
-• The lack of data may deter informed traders, so the market price could reflect apathy rather than consensus.
+4) MISPRICING ASSESSMENT (rigorous, balanced)
+- Does credible evidence show the market is materially mispriced (e.g., >20¢)?
+  - No. The clearest public inputs (Emerson March 7–9 poll and campaign finance filings) point to Rhoden in the mid-teens — consistent with the market’s 15% price. ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/))
+  - There is plausible upside for Rhoden (incumbency, runoff math), but nothing I found that sharply contradicts the public poll/fundraising picture or that would produce a large (>20¢) mispricing in his favor.
+- Key corner cases to double-check (critical checks from the prompt):
+  - Do I understand resolution? Yes — resolves to the winner of the Republican primary (including runoff). A late technicality (e.g., primary canceled) would change resolution to “Other,” but there is no evidence or legal reason to expect cancellation.
+  - Could I be missing private/internal polls or endorsements? Possibly; low-volume markets are often susceptible to insider info. I found no press reporting of a major Rhoden surge, nor filings or endorsements indicating an imminent wholesale shift.
+- Conclusion on mispricing: The market price (15%) looks broadly reasonable relative to public polls and fundraising. There is no specific, credible public evidence that a large mispricing exists. Small mispricing (a few cents) is possible — the market could underweight Rhoden’s incumbency/runoff advantage or over-weight Johnson’s lead — but the public evidence suggests only modest error.
 
-4. MISPRICING ASSESSMENT  
-• The Race Lab simulation and incumbency advantages indicate Rhoden’s win probability is likely above 50%, contradicting the market’s 17%.  
-• No major technicalities or resolution-criteria misinterpretations appear to justify such a low price.  
-• However, with only one simulation and no public polling, the evidence is suggestive but not conclusive.  
-• The market’s default equal-share heuristic probably underprices Rhoden’s realistic edge.
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that price misses critical info: I assess this as moderate — many load-bearing facts (polls, finance, runoff rule) are public and published; there is room for private information but no public signal of it. Strength = 50%.
+- Magnitude of plausible mispricing: Given poll parity (Rhoden ~17%), fundraising deficit, and runoff dynamics, a realistic maximum mispricing (if market under- or over-estimates Rhoden) is small — on the order of 3–5 cents. I adopt 4 cents as a mid estimate.
+- Expected value = Strength × Magnitude = 50% × 4¢ = 2.0¢ (two cents).
+  - Interpretation: If you were to trade, the public evidence implies an expected edge ≈ 2 cents per share, not large.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence: 40% (moderate confidence in one simulation and qualitative reports)  
-• Magnitude of mispricing: 39 cents (54% midpoint vs 17%)  
-• Expected value = 0.40 × 39 c = 15.6 c  
+6) CONFIDENCE
+- I rate my confidence in this assessment as: medium.
 
-EXPECTED_VALUE: 15.6  
-SUMMARY: Race Lab simulations and incumbency factors suggest Rhoden’s win probability is likely above 50%, meaning the 17% market price is probably too low. Yet the lack of public polls and reliance on a single model leave substantial uncertainty.  
-CONFIDENCE: low
+FINAL SHORT SUMMARY LINES (required)
+EXPECTED_VALUE: 2.0
+SUMMARY: Public polling (Emerson, March 7–9, 2026) and campaign finance filings show Larry Rhoden is a mid‑teens contender (poll ~17%, market 15%) while Rep. Dusty Johnson leads and has a much larger war chest; South Dakota’s 35% runoff rule makes a runoff likely and changes dynamics. There is no clear public evidence of a large mispricing; any error is likely small (a few cents). ([emersoncollegepolling.com](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/))
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: South Dakota Primary Election Results 2026 : NPR
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://apps.npr.org/primary-election-results-2026/states/SD.html
-Summary: As of now, there are no available results or detailed polling data for the 2026 South Dakota Republican primary election for governor, including any information about Larry Rhoden's current standing. The webpage indicates that no results have been reported yet for the primary contests, and voter registration deadlines are provided but no specific candidate performance data is available. Therefore, it is currently unclear whether Larry Rhoden is favored to win the Republican primary for governor in 2026.
+### [South Dakota 2026 Poll: Dusty Johnson Leads Incumbent Larry Rhoden in Governor Election](https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/)
+**Author:** Emerson College Polling (sponsored by KELO-TV / Nexstar Media) | **Published:** 2026-03-11
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The March 2026 Gambit Forecaster report primarily assesses the overall landscape of Senate and gubernatorial races, emphasizing that most contests remain within stable partisan bounds, with limited immediate volatility. While the model indicates some emerging Democratic opportunities in Senate races, it notes that candidate fields and polling are still settling, and no definitive predictions are made about specific primaries. Regarding South Dakota’s 2026 Republican gubernatorial primary, the report does not provide specific insights or predictions about Larry Rhoden’s chances. However, it highlights that gubernatorial races are still heavily influenced by institutional and candidate effects, and the primary season is just beginning, suggesting that outcomes remain uncertain at this stage.
+Emerson’s release reports a March 7–9, 2026 poll of likely South Dakota voters (n=1,000). Topline GOP primary support: Dusty Johnson 28%, Toby Doeden 18%, Larry Rhoden 17%, Jon Hansen 14%, 23% undecided; methodology and full results are published. This is the most directly relevant public measure of current voting preferences and supports the market’s pricing of Rhoden in the mid-teens (market = 15%). It also shows a large undecided bloc and no one near the 35% threshold required to avoid a runoff, which makes a runoff plausible and materially affects win probabilities.
 
-Title: 2026 Gubernatorial Race Overview
-URL: https://www.bhfs.com/wp-content/uploads/2025/09/2026-Gubernatorial-Race-Overview_Draft_091225.pdf
-Summary: The provided webpage does not contain any information about Larry Rhoden or the South Dakota gubernatorial race, including details about primary candidates, polling, or election predictions. It primarily covers the 2026 New Jersey and Virginia gubernatorial races, focusing on candidate backgrounds, campaign dynamics, and current polling data. Therefore, there is no relevant information available on whether Larry Rhoden will win the 2026 South Dakota Republican primary.
+### [South Dakota governor announces he will run for a full term next year](https://apnews.com/article/south-dakota-governor-larry-rhoden-9ae7c9443328c9c257d3f5da798a0ca5)
+**Author:** Charles S. (AP staff; article on AP) | **Published:** 2025-11-18
 
-Title: New simulations show South Dakota GOP governor race narrowing to two candidates: Race Lab Simulation
-Author: Northern Plains News, LLC
-Published Date: 2026-02-04T00:00:00.000Z
-URL: https://northernplainsnews.substack.com/p/new-simulations-show-south-dakota
-Summary: Recent simulations of the 2026 South Dakota Republican gubernatorial race suggest that Larry Rhoden has a roughly 54–58% chance of winning the primary, making him a leading contender. The race has narrowed, primarily due to campaign dynamics, governing decisions, and financial resources. Rhoden maintains solid approval ratings and a stable financial position, though his governing choices—such as holding education and Medicaid funding flat—introduce some exposure. While Dusty Johnson remains a significant challenger with greater campaign funds, Rhoden's current standing indicates a strong likelihood of victory, though the race remains competitive.
+AP reports that Gov. Larry Rhoden formally announced he is joining the crowded Republican race for governor, providing context about his succession to the office (after Kristi Noem’s federal appointment) and his stated priorities. This source verifies Rhoden’s incumbency and campaign launch — important for assessing incumbency advantage and campaign timeline — and supports the view that Rhoden is an active candidate but not necessarily the frontrunner.
 
-Title: Ahlers steps forward to run for governor as the SDDP seeks to slay the Republican Dragon that dominates state politics  — The South Dakota Standard
-Author: Tom Lawrence
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.sdstandardnow.com/home/ahlers-steps-forward-as-the-sddp-seeks-to-slay-the-republican-dragon-that-dominates-state-politics
-Summary: Dan Ahlers has announced his candidacy for South Dakota governor as the Democratic nominee, aiming to challenge the long-standing Republican dominance in the state. With a political career spanning two decades, including legislative roles and a previous statewide run, Ahlers is positioning himself as a serious contender in a heavily Republican-leaning political landscape. The Republican primary features prominent candidates such as Gov. Larry Rhoden, Congressman Dusty Johnson, State House Speaker Jon Hansen, and businessman Toby Doeden, all with significant support and visibility. Given Rhoden's established position and the competitive nature of the primary, predicting Rhoden's chances to win the 2026 Republican primary involves considering his current political standing, support base, and the strength of his opponents. However, the dominance of Republican candidates in South Dakota suggests Rhoden has a strong likelihood of securing the nomination, barring unforeseen challenges or shifts in voter sentiment.
+### [South Dakota Governor Hopefuls File 2025 Finance Reports](https://www.kotaradio.com/2026/02/02/2883/)
+**Author:** Unknown (KOTA Radio staff) | **Published:** 2026-02-02
 
+KOTA summarizes 2025 campaign finance filings (filed by deadline), reporting Dusty Johnson’s previously posted filing (~$1.6M raised, ~$650k spent) and Governor Larry Rhoden’s reported ~$491k raised and ~$70k spent. These fundraising differentials are material: Johnson’s larger war chest supports more advertising and organization, which weighs against Rhoden and helps explain why markets/polls favor Johnson over Rhoden.
 
+### [Runoffs in Primary and General Elections (NCSL)](https://www.ncsl.org/elections-and-campaigns/primary-runoffs)
+**Author:** National Conference of State Legislatures (NCSL) | **Published:** 2025-01-22
+
+NCSL’s state-by-state summary states that South Dakota requires a runoff in federal and gubernatorial primaries with three or more candidates if no candidate wins at least 35% of the vote, and it describes the statutory timing and mechanics. This legal/procedural rule is critical because it makes a multi-stage path plausible (first-round plurality ≠ guarantee), changes strategic considerations, and increases the chance that a trailing candidate could win via a runoff.
+
+### [Gov. Larry Rhoden officially announces election campaign](https://www.sdpb.org/politics/2025-11-18/gov-larry-rhoden-officially-announces-election-campaign)
+**Author:** C.J. Keene (SDPB) | **Published:** 2025-11-18
+
+SDPB’s local reporting describes Rhoden’s campaign kickoff, themes, and the roster of Republican challengers (Dusty Johnson, Jon Hansen, Toby Doeden). It adds detail on Rhoden’s policy focus and campaign strategy and notes the competitive field. This supports the assessment that Rhoden is actively campaigning but faces credible challengers, corroborating the poll and fundraising evidence that place him behind the primary frontrunner(s).

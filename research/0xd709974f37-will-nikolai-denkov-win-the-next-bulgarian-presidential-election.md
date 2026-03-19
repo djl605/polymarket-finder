@@ -1,72 +1,83 @@
 # Research: Will Nikolai Denkov win the next Bulgarian presidential election?
 
 **Market ID:** 0xd709974f378ab79c7dcb31940606ad9b2dba361eba53344911f0fedc722e15dd
-**Researched At:** March 13, 2026 at 04:15:54 AM UTC
+**Researched At:** March 19, 2026 at 04:50:02 AM UTC
 **Search Query:** "Will Nikolai Denkov win the next Bulgarian presidential election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.5¢
+**Confidence:** Low
+**Expected Value:** 3.0¢
 
 ### Summary
 
-I find no clear public evidence of a large mispricing for Nikolai Denkov winning the 2026 Bulgarian presidency; the 15.5% price is plausible given his national profile and a fragmented field, and no authoritative polls or announcements indicate he is a clear frontrunner. Because the market is low‑volume, a small inefficiency is possible, but large mispricings are not supported by public sources.
+Denkov is a plausible presidential contender if CC–DB nominates him, but I found no authoritative public declaration he is running; the market price (17.5%) could reflect nomination uncertainty × conditional win chances. Given low volume and political fluidity, I judge only a modest expected mispricing (EV ≈ 3¢); decisive information (a nomination or a public refusal) would change that quickly.
 
 ### Full Analysis
 
-I searched recent news and expert commentary (government, reputable news outlets, regional analysts) to evaluate whether the market price (15.5%) for the question "Will Nikolai Denkov win the next Bulgarian presidential election?" shows credible evidence of mispricing. Below are the results of that research and my assessment.
+Planned searches and scope
+- I used web searches (three queries) to establish (a) who Nikolai Denkov is and his current political role and public statements, (b) whether Denkov is a declared or likely candidate for the 2026 Bulgarian presidency, and (c) the broader competitive and political environment (other likely candidates, polls, and election timing/rules). My sources were mainstream news and official/observer documents (BTA, AP, Al Jazeera, ODIHR, local Bulgarian press). Key high-level finding: Denkov is a well-known senior politician (former PM and leader in the pro‑European CC–DB grouping) but has not clearly declared a presidential bid; his coalition has discussed a single joint “democratic” candidate and Denkov’s name has been floated and denied in media. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Nikolai_Denkov?utm_source=openai))
 
-1) CONTEXT ANALYSIS — what the market is asking
-- The market asks whether Nikolai Denkov will be the listed candidate who wins the next Bulgarian presidential election (resolution rule: result determined by credible reporting or, if ambiguous, official Central Election Commission (CEC) results). The market includes any second round; if the election result is not known by Dec 31, 2027 11:59 PM ET it resolves to "Other."
-- For YES to resolve: (a) Denkov must be an on‑ballot candidate in the next presidential election and (b) he must be declared the winner according to the official/consensus reporting (this includes prevailing in a run‑off if one occurs). For NO: either he does not run, runs but does not win, or the election never produces a Denkov win (or the market resolves to Other).
-- Timing: elections are scheduled no later than Fall 2026 (Bulgarian presidential term and recent events mean the next presidential vote is expected by then). The market’s resolution conditions require attention to official CEC results and credible reporting.
+1) CONTEXT ANALYSIS — What the market asks and resolution conditions
+- Market question: “Will Nikolai Denkov win the next Bulgarian presidential election?” The market will resolve YES if Denkov is officially declared the winner of the next Bulgarian presidential election (including after any second round), as determined by credible reporting or, if ambiguous, by the official Central Election Commission (CEC) results. The market includes the full presidential contest and a potential runoff; if the election result is not known by Dec 31, 2027 (ET), the market resolves to “Other.” Understanding hinges on two things: (a) Denkov must be the winning candidate in the official count, and (b) he must be on the ballot (i.e., be a declared/eligible candidate). (Source: market description + CEC referenced in market rules.) ([solflare.com](https://www.solflare.com/prediction/politics/event/KXBULGARIAPRES-26NOV15/?utm_source=openai))
 
-2) EVIDENCE EVALUATION — relevant facts and how they affect Denkov’s chances
+2) EVIDENCE EVALUATION — All relevant evidence found (bull/bear)
+Summary of the most relevant facts from searches
+- Denkov’s profile: Nikolai (Nikolay) Denkov is a prominent Bulgarian politician, former prime minister (2023–2024) and a leading figure in the “Continue the Change – Democratic Bulgaria” (CC–DB) bloc; he is plausibly a credible presidential contender if nominated. This establishes him as an electorally meaningful name (relevance → upward pressure on probability if nominated). ([en.wikipedia.org](https://en.wikipedia.org/wiki/Nikolai_Denkov?utm_source=openai))
+- CC–DB and “democratic community” activity: CC–DB and allied groups have publicly discussed nominating a single joint “pro‑European/democratic” candidate for 2026 and at times have signed agreements about backing a common candidate. That makes a Denkov nomination plausible because of his prominence in CC–DB. But the coalition has not universally locked in a nominee. ([bta.bg](https://www.bta.bg/en/news/1019254-cc-db-forum-for-democratic-action-sign-agreement-on-joint-presidential-candidat?utm_source=openai))
+- Denkov’s public posture: Local reporting shows Denkov publicly surprised that his name is circulating as a presidential hopeful and has at times said his coalition could back Rumen Radev (or another unity candidate) depending on conditions (e.g., anti‑corruption stance). That suggests he has not firmly committed to running and may be being positioned as part of internal coalition negotiation rather than as an announced candidate. This reduces the near‑term probability that he is the actual candidate and thus the winner. ([fakti.bg](https://fakti.bg/en/bulgaria/962790-denkov-iznenadan-che-imeto-mu-e-nameseno-v-sluhove-za-prezidentskite-izbori-prez-2026-g?utm_source=openai))
+- Political context / other contenders: The political environment in Bulgaria is highly fragmented and unstable (multiple snap parliamentary elections lately; Rumen Radev resigned in Jan 2026 and remains a central figure, potentially fielding his own forces or influencing the race). Analysts also flag GERB (and allied oligarch‑aligned groupings) and nationalist/pro‑Russian parties (Revival / DPS influences) as strong actors in 2026 contests; these actors could produce strong presidential contenders. The fragmentation and volatility make the race uncertain and suggest many paths where Denkov could either be a front-runner (if CC–DB unites behind him) or a marginal player (if he declines or another figure is chosen). ([apnews.com](https://apnews.com/article/e62fa9421bcd9a07e5a88bd6508a8714?utm_source=openai))
+- Election rules and timing: Presidential elections must be held by autumn 2026; two‑round system applies (runoff if no >50% first-round majority). That structure favors candidates who can consolidate a base and then attract broad second‑round support; party/coalition backing matters. Delays or political shuffles (snap parliamentary elections, resignations) could change the timing or the candidate field, adding uncertainty. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Bulgarian_presidential_election?utm_source=openai))
 
-Evidence that would argue Denkov might be undervalued (i.e., price too low)
-- Name recognition and executive experience: Denkov is a recent prime minister and a national political leader (We Continue the Change – Democratic Bulgaria coalition). Former PMs often have national profiles that can be converted to presidential bids; that profile supports a non‑negligible baseline chance of running and doing well. (government press releases; Balkan Insight). This supports why a double‑digit probability (e.g., ~15%) is plausible as a prior.
-- Political fragmentation and voter volatility: Bulgaria’s politics have been unstable (multiple elections since 2021, government resignations, mass protests). In highly fragmented fields a well‑known centrist/technocratic figure can sometimes consolidate enough first‑round votes or appeal in a second round. That structural uncertainty can justify non‑negligible probabilities for multiple plausible establishment figures, including Denkov. (Balkan Insight, AP, Novinite)
+What suggests the market price might be incorrect (arguments for mispricing)
+- No clear public declaration: I found no authoritative, recent source showing Denkov has declared a presidential campaign. If he is not a candidate, probability of winning should be (near) zero; a 17.5% market price would be too high. Local coverage explicitly notes Denkov’s surprise at rumors and CC–DB’s internal selection processes, which implies the market may be pricing in an assumed nomination that is not yet real. This is the strongest single piece of evidence calling the price into question. ([fakti.bg](https://fakti.bg/en/bulgaria/962790-denkov-iznenadan-che-imeto-mu-e-nameseno-v-sluhove-za-prezidentskite-izbori-prez-2026-g?utm_source=openai))
+- Crowded competitive field: Multiple credible rivals (GERB, potential Radev‑aligned lists, Revival/DPS) and political instability make a Denkov victory less likely unless he becomes the unified democratic candidate. The market’s 17.5% would be high if Denkov’s nomination is uncertain and other better‑funded/popular candidates run. ([novinite.com](https://www.novinite.com/articles/233761/Bulgarian%2BAnalysts%2BSee%2BGrowing%2BChances%2Bof%2BGERB-Peevski%2BAxis%2BDominating%2B2026%2BPresidential%2BRunoff?utm_source=openai))
 
-Evidence that argues the market price may be reasonable or too high
-- No public, authoritative evidence Denkov has declared a presidential bid or is leading in presidential polls: I could not find recent polls or major outlets showing Denkov as a declared candidate or a frontrunner in presidential preference polling for 2026. Absence of announced candidacy or polling traction is an important bearish datapoint for a 15%+ implied chance of winning. (searches of regional press, national outlets, and pollster summaries; radio and English‑language Bulgarian outlets show Denkov active in parliamentary/caretaker politics but not running.)
-- Incumbency/acting president advantage: after President Rumen Radev’s January 2026 resignation the vice‑president Iliana Iotova assumed presidential duties; acting incumbents or candidates with direct association to the presidency can be advantaged in a presidential race. If Iotova or another high‑profile candidate runs, Denkov must compete against that incumbency effect. (Sofia Globe, Xinhua/Reuters coverage of Radev resignation)
-- Political headwinds for Denkov’s camp: recent mass protests (over the draft 2026 budget) and government instability have reshuffled political standings; being associated with a party that has been in government or with contested policies can cut both ways (raise profile but also expose to protest backlash). Several recent articles show protesters’ anger and government resignations — this context introduces risk for any establishment candidate. (AP, Balkan Insight, Novinite)
-- Structural limits on major actors: Rumen Radev already served two terms (elected 2016 & 2021) and sources note he is not eligible for re‑election in the conventional sense; his resignation and moves into party politics complicate the field but do not make Denkov the obvious favorite. (Kofi Annan Foundation note; subsequent reporting on Radev’s resignation and political moves).
+What supports the current market price as reasonable (arguments against mispricing)
+- Denkov’s electability if nominated: As a former PM and prominent figure in the main pro‑European democratic bloc, Denkov would plausibly be one of the few centrist/pro‑EU figures who could consolidate the “democratic community” vote. If CC–DB actually nominates him (or he accepts a unity nomination), a 15–25% win probability is not implausible in a fragmented multi‑candidate race where a runoff determines the final winner. The market price could be reflecting the chance of nomination × chance of winning conditional on nomination, not just outright victory. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Nikolai_Denkov?utm_source=openai))
+- Political fluidity prices uncertainty: Markets often price in uncertainty and the possibility of reputational or campaign momentum; 17.5% may reflect credible tail scenarios (Denov nominated and unites anti‑establishment voters or benefits from fragmentation among opponents). Given the two‑round system, even a candidate who places second in round one can win the runoff — a scenario markets may be reflecting. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Bulgarian_presidential_election?utm_source=openai))
 
 Source credibility and recency
-- I prioritized mainstream international and Bulgarian outlets (AP, Reuters, Xinhua reporting carried widely, BTA, The Sofia Globe, Balkan Insight, government press releases and major regional think‑tanks). These are contemporary (Jan–Feb 2026 and earlier) and directly relevant to election timing, the acting president, government resignations and Denkov’s role. Polling data from major Bulgarian pollsters (Alpha Research, Gallup Bulgaria) was not found indicating Denkov as a leading presidential choice — that absence (from reputable polling) is itself relevant evidence.
+- BTA (Bulgarian Telegraph Agency) — national news agency; credible and recent for internal party/coalition announcements. ([bta.bg](https://www.bta.bg/en/news/1019254-cc-db-forum-for-democratic-action-sign-agreement-on-joint-presidential-candidat?utm_source=openai))
+- AP and Al Jazeera — high‑quality international reporting on Radev’s resignation and political context (recent, March–Jan 2026). ([apnews.com](https://apnews.com/article/e62fa9421bcd9a07e5a88bd6508a8714?utm_source=openai))
+- ODIHR (OSCE Office for Democratic Institutions and Human Rights) election observation / NAM report — authoritative on election timing, vulnerabilities, and institutional conditions (March 2026). ([odihr.osce.org](https://odihr.osce.org/sites/default/files/documents/official_documents/2026/03/Bulgaria%202026%20early%20parliamentary_%20NAM%20report_03.03.2026.pdf?utm_source=openai))
+- Local outlets (Novinite, Fakti, Epicenter) — useful for local quotes and party dynamics; generally credible for reporting statements but need cross‑checking. ([novinite.com](https://www.novinite.com/articles/237034/Denkov%3A%2BWCC-DB%2BCould%2BSupport%2BRadev%2Bif%2BCorruption%2BIs%2BTackled%2BSeriously?utm_source=openai))
 
-3) MARKET EFFICIENCY ANALYSIS — is the 15.5% price defensible?
-- Plausible, charitable interpretation of the current price: 15.5% can be read as the market assigning Denkov a realistic but not leading chance — reflecting (a) his national recognition as a former PM, (b) political fragmentation that makes outcomes uncertain, and (c) absence of strong evidence he is the frontrunner. That combination credibly produces a mid‑teens probability in a low‑volume market.
-- Could it reflect just a few traders? Yes — the market’s total volume ($2,319) and market age (52 days) imply low participation. A tight spread (+/‑ 2.5¢ midpoint) with low total volume often means either (a) a small number of traders enforce a price or (b) traders broadly agree on a low expected chance. Low volume increases the risk that the price reflects concentrated wagers rather than broad aggregation.
-- Is low volume because the outcome is obvious or because traders haven’t engaged? Both possibilities exist. This is not an obviously foregone outcome (Denkov is not known to be sure to win), so low engagement more likely reflects low interest or lack of clear polling/announcements rather than consensus certainty.
+3) MARKET EFFICIENCY ANALYSIS — Could the current price be reasonable?
+- Charitable interpretation(s) that justify 17.5%:
+  - The price encodes P(nomination) × P(win | nominated). If Denkov is viewed by traders as one of the small set of plausible unified democratic candidates (say P(nomination) ~ 40–50%) and a moderate chance of winning if nominated (say P(win|nom) ~ 35–45%), the implied unconditional probability ≈ 14–22%, consistent with 17.5%. That is a reasonable market calculation in a fragmented multi‑candidate setting and with a two‑round system. ([bta.bg](https://www.bta.bg/en/news/1019254-cc-db-forum-for-democratic-action-sign-agreement-on-joint-presidential-candidat?utm_source=openai))
+  - Traders may be pricing in late developments (coalition deals, candidate withdrawals) that would boost Denkov’s chances closer to election time.
+- Reasons the price could reflect only a few traders:
+  - Total volume is reported as $0 and spread is tight — the market is illiquid. With little trading volume, the quoted price could be an initial or default price or the result of a small number of orders/stakes. That increases the chance the price reflects a single trader’s view rather than broad aggregation.
+- Why low volume might not imply inefficiency:
+  - If the community believes the contest is not likely to involve Denkov (or it's too early), few traders will take positions — price simply shows low interest/early-stage opinion, not a confident mispricing. Conversely, low volume also means the market is easy to move with small trades.
 
-4) MISPRICING ASSESSMENT — does credible missing evidence indicate mispricing?
-- I did not find strong, specific evidence that the market is missing which would justify labeling a large mispricing (>~10–20 cents). Concretely:
-  - No public polls or major announcements indicating Denkov is a declared front‑runner (if such polls or announcements existed and were missing from market pricing, that would be a clear sign of mispricing). I did not find that.
-  - No official endorsements, coalition pacts, or new events that would push his winning probability dramatically above the mid‑teens were found.
-  - Conversely, I also found no definitive reason to think Denkov's chance is essentially zero; as an ex‑PM and party leader, a two‑digit chance is plausible as a baseline.
-- Critical check (asked in your instructions): I re‑checked resolution criteria and event timing — the market resolves on the official election winner as certified by CEC. Nothing in the sources suggests the election will be canceled or moved outside the market’s resolution window. I found no technicality (e.g., the election already happened) that would invalidate the market.
-- Conclusion on mispricing: there is insufficient, specific evidence of a large mispricing. The mid‑teens price is defensible given Denkov’s profile plus lack of data showing he is a declared front‑runner.
+4) MISPRICING ASSESSMENT — weighing evidence objectively
+- Key constraint: There is no clear, authoritative public declaration that Denkov is the CC–DB presidential nominee or that he intends to run. That is crucial: if he does not run, the market’s YES probability should be effectively zero. The absence of a nomination is the strongest single check against the market being correct at 17.5%. ([fakti.bg](https://fakti.bg/en/bulgaria/962790-denkov-iznenadan-che-imeto-mu-e-nameseno-v-sluhove-za-prezidentskite-izbori-prez-2026-g?utm_source=openai))
+- Counterpoint: If traders are correctly pricing an expected future nomination (coalition agreement to nominate him, or a late decision to run), the 17.5% could be a rational interim price reflecting nomination probability × win probability. The election system (runoff) and Denkov’s stature make a mid‑teens unconditional win probability plausible conditional on nomination. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Nikolai_Denkov?utm_source=openai))
+- Bottom line: I do not find decisive, credible evidence that the market is massively mispriced. The most concrete missing fact (no public Denkov candidacy) suggests the market may be overstating his unconditional win probability if traders are implicitly assuming nomination. But the market price is small enough (17.5%) that it could simply reflect that nomination uncertainty multiplied by a moderate conditional win probability — a defensible view. Therefore I judge there is insufficient, concrete evidence to conclude a large mispricing (>20¢) exists.
 
-5) EXPECTED VALUE CALCULATION (per your formula)
-- Strength of evidence that something material is missing from the market price: I rate this as low‑to‑medium (≈30%). Rationale: absence of polls/announcements is meaningful but does not guarantee the market has fully processed all private information; there is some chance private coordination or internal polling (not public) could alter probabilities, but we cannot rely on that.
-- Magnitude of plausible mispricing if there is one: small. Given available public evidence, a plausible maximum adjustment I would personally place on the price is 5 cents (0.05 probability points) — i.e., the market might be off by a few percentage points in either direction, but large gaps (>20 cents) lack public support.
-- Expected value = Strength × Magnitude = 30% × 5 cents = 1.5 cents.
+Critical self-check (per instructions)
+- Have I misunderstood resolution criteria? No — market resolves to the named winning candidate based on official CEC results or consensus reporting. The key practical misinterpretation risk would be confusing “will be nominated” vs “will win”; I focused on “will win,” which requires an actual electoral victory.
+- What could I be missing? Private coalition negotiations or an internal CC–DB decision that already effectively selects Denkov (not public) could make the market reasonable; conversely, a public denial of candidacy would make the market too high. Given the low trading volume, any small private information advantage among a few traders could move the quoted price away from a broad consensus. I could be missing a recent campaign announcement after the latest public reporting; traders may have access to early signals.
 
-6) CONFIDENCE (overall)
-- I assign medium confidence to this assessment. Rationale: sources are recent and credible about the political context (Radev resignation, acting president, government instability), but there is limited public polling or explicit statements about Denkov’s candidacy — that missing public polling lowers my ability to be highly confident.
+5) EXPECTED VALUE CALCULATION (investigation EV)
+- Strength of evidence (how strong and reliable is the specific evidence that the market is mispriced): 30%
+  - Rationale: The strongest evidence for mispricing is the lack of any authoritative declaration that Denkov is the nominee and local reports noting Denkov’s surprise at rumors. These are credible but not definitive (they don’t prove he won’t run). Other evidence is circumstantial (coalition dynamics, fragmentation). Overall quality = low–moderate. ([fakti.bg](https://fakti.bg/en/bulgaria/962790-denkov-iznenadan-che-imeto-mu-e-nameseno-v-sluhove-za-prezidentskite-izbori-prez-2026-g?utm_source=openai))
+- Magnitude of plausible mispricing if wrong: I estimate ~10 cents (0.10) as a reasonable upper/mid plausible magnitude given current price of 17.5% — i.e., true unconditional probability might be closer to 5–12% if Denkov declines or is not nominated, producing a 5–12.5 cent overprice. A larger gap (>20 cents) looks unlikely without an unreported decisive event (e.g., he publicly declines). (This is judgmental given limited new polling data.) 
+- Expected value = Strength × Magnitude = 30% × 10 cents = 3.0 cents.
 
-Bottom-line judgments (short)
-- The current market price (15.5%) is plausible and defensible given Denkov’s profile and the fragmented, volatile Bulgarian political environment, and there is no clear, public evidence of a large mispricing.
-- The market is thin — low volume means it could be moved by a small number of traders if new information appears (candidate announcement, authoritative poll, coalition endorsement). If such news appears, the market should reprice quickly; until then, there’s insufficient public evidence to recommend trading on a belief in a large mispricing.
+6) CONFIDENCE
+- My confidence in this assessment: low — the situation is politically fluid, local reporting indicates negotiations and conflicting signals, and the market is illiquid. There is meaningful chance of later developments that change probabilities substantially.
 
-EXPECTED_VALUE: 1.5
-SUMMARY: I find no clear public evidence of a large mispricing for Nikolai Denkov winning the 2026 Bulgarian presidency; the 15.5% price is plausible given his national profile and a fragmented field, and no authoritative polls or announcements indicate he is a clear frontrunner. Because the market is low‑volume, a small inefficiency is possible, but large mispricings are not supported by public sources. 
-CONFIDENCE: medium
+Concise final assessment
+- There is credible reason to be skeptical of a 17.5% unconditional probability because Denkov has not clearly declared a presidential bid and CC–DB nomination remains unsettled; that missing fact is the strongest indicator the market may be overstating his outright win chance. However, the price is plausibly justifiable as the product of (probability he becomes the coalition’s candidate) × (probability he wins if nominated) in a fragmented two‑round race. Given low volume and no clear public declaration, I do not find strong, specific evidence of a large mispricing, only a plausible modest overvaluation that could be resolved by watching nomination announcements and early presidential polling.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Denkov is a plausible presidential contender if CC–DB nominates him, but I found no authoritative public declaration he is running; the market price (17.5%) could reflect nomination uncertainty × conditional win chances. Given low volume and political fluidity, I judge only a modest expected mispricing (EV ≈ 3¢); decisive information (a nomination or a public refusal) would change that quickly.
+CONFIDENCE: low
 
 ---
 
@@ -74,52 +85,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Bulgaria's prime minister resigns as planned, part of a power-sharing agreement](https://apnews.com/article/f35955cc1db235a0ae955697f3db5342)
-**Author:** Unknown (AP) | **Published:** 2024-03-06
+### [Nikolai Denkov](https://en.wikipedia.org/wiki/Nikolai_Denkov)
+**Author:** Unknown | **Published:** Unknown
 
-AP reported on Prime Minister Nikolay (Nikolai) Denkov’s March 6, 2024 resignation as part of a planned power‑sharing agreement. This source establishes Denkov’s recent role as prime minister and his national political profile — relevant because former prime ministers commonly have name recognition that could feed into presidential bids. The coverage is factual and dated, so it supports why the market would assign a non‑negligible baseline probability to Denkov despite later political turbulence.
+Wikipedia entry summarizing Denkov’s biography, political career (including service as prime minister 2023–2024) and roles within the CC–DB grouping. This provides background establishing Denkov as a prominent, electable politician—relevant because his stature makes him plausibly competitive if nominated for president. The entry supports the view that Denkov is a credible potential candidate, which pushes in favor of some non‑zero market probability.
 
-### [Prime Minister Acad. Nikolai Denkov in Davos: Bulgaria aims at accession to the Eurozone on 1 January 2025](https://government.bg/en/Press-center/News/Prime-Minister-Acad-Nikolai-Denkov-in-Davos-Bulgaria-aims-at-accession-to-the-Eurozone-on-1-January-2025)
-**Author:** Government of the Republic of Bulgaria (Press center) | **Published:** 2024-01-25
+### [CC–DB, Forum for Democratic Action Sign Agreement on Joint Presidential Candidate for 2026 Elections](https://www.bta.bg/en/news/1019254-cc-db-forum-for-democratic-action-sign-agreement-on-joint-presidential-candidat)
+**Author:** Unknown | **Published:** 2025-07-24
 
-Official government press release showing Denkov’s role as Prime Minister and his public stances on EU integration and the euro adoption plan. It documents his executive experience and public profile on major national issues (Eurozone accession), which is relevant to assessing his electability: executive experience and policy visibility can be assets in a presidential campaign. The source is primary and contemporaneous to Denkov’s term.
+Report from the Bulgarian Telegraph Agency (BTA) describing that Continue the Change–Democratic Bulgaria (CC–DB) and Forum for Democratic Action signed an agreement to nominate a single joint presidential candidate for 2026. This is directly relevant: it shows party-level coordination aimed at producing one “democratic community” candidate—information that makes a Denkov nomination plausible and supports the interpretation that markets might price some nontrivial chance of a Denkov candidacy and victory. It does not, however, state who the candidate will be.
 
-### [Bulgaria Moves Closer to Seventh General Election in Three Years](https://balkaninsight.com/2024/07/22/bulgaria-moves-closer-to-seventh-general-election-in-three-years/)
-**Author:** Svetoslav Todorov / BIRN | **Published:** 2024-07-22
+### [Denkov surprised that his name is involved in rumors about the 2026 presidential elections](https://fakti.bg/en/bulgaria/962790-denkov-iznenadan-che-imeto-mu-e-nameseno-v-sluhove-za-prezidentskite-izbori-prez-2026-g)
+**Author:** Unknown | **Published:** 2026-03-05
 
-Analysis of Bulgarian political fragmentation and the role of Denkov and his coalition in government formation attempts. Balkan Insight documents political instability and the multiplicity of actors — important context because fragmentation increases the chance for a high‑profile technocratic figure to be a competitive presidential candidate, but it also makes outcomes less predictable. The piece supports interpreting a nonzero market price as reasonable while also highlighting volatility that could cut both ways for Denkov.
+Local Bulgarian outlet Fakti reports Denkov saying he was surprised his name is circulating as a presidential hopeful. This specific, recent quote is important because it suggests Denkov has not declared and may not be actively seeking the office—this weakens the case that the market’s unconditional 17.5% probability is justified, unless traders are pricing in expected future nomination.
 
-### [Bulgaria Eyes Eighth Back-to-Back Election as Parliamentary Crisis Deepens](https://balkaninsight.com/2024/11/27/bulgaria-eyes-eighth-back-to-back-election-as-parliamentary-crisis-deepens/)
-**Author:** Balkan Insight staff | **Published:** 2024-11-27
+### [Bulgaria's left-leaning president Rumen Radev says he is stepping down](https://apnews.com/article/e62fa9421bcd9a07e5a88bd6508a8714)
+**Author:** Unknown (Associated Press) | **Published:** 2026-01-19
 
-Reporting on continued political stalemate in Bulgaria, including short‑lived Denkov governments and recurring elections. This demonstrates sustained instability through late 2024 and underlines why electoral outcomes (including presidential) are more uncertain than in stable systems — evidence that supports a modest mid‑teens market probability for various prominent figures, but no single‑candidate certainty.
+AP coverage of former president Rumen Radev’s January 2026 announcement he would step down and may participate in upcoming elections; it describes a turbulent political environment with snap parliamentary elections. This provides important context: the political arena is fluid and Radev remains a major actor, which complicates the presidential field and implies Denkov faces multiple potential strong rivals—information that argues against assigning a high unconditional win probability to Denkov absent a clear nomination.
 
-### [Bulgaria’s Constitutional Court approves Radev’s resignation as country’s president](https://sofiaglobe.com/2026/01/23/bulgarias-constitutional-court-approves-radevs-resignation-as-countrys-president/)
-**Author:** The Sofia Globe staff | **Published:** 2026-01-23
+### [Bulgaria 2026 early parliamentary — NAM report (ODIHR)](https://odihr.osce.org/sites/default/files/documents/official_documents/2026/03/Bulgaria%202026%20early%20parliamentary_%20NAM%20report_03.03.2026.pdf)
+**Author:** Office for Democratic Institutions and Human Rights (OSCE/ODIHR) | **Published:** 2026-03-03
 
-Reports the Constitutional Court’s January 23, 2026 approval of Rumen Radev’s resignation and notes Vice‑President Iliana Iotova assumes presidential duties. This is central context: it changes the presidential field (acting president in office through January 2027) and clarifies that Radev’s resignation has occurred — both factors materially affect candidate dynamics and who is likely to run/win in fall 2026. This supports the assessment that Denkov’s path is not a foregone conclusion.
-
-### [Bulgarian Constitutional Court approves President Radev's resignation](https://english.news.cn/europe/20260123/4a67f79d755f40fd8f7183390ae78a55/c.html)
-**Author:** Xinhua (via news.cn) | **Published:** 2026-01-23
-
-Xinhua summary confirming the Constitutional Court decision on Radev’s resignation and noting that Iliana Iotova assumes the office until the term expiry. It corroborates other reporting and underscores that the 2026 presidential calendar and incumbency dynamics have shifted — relevant because acting incumbents and the reconfiguration of the political scene affect Denkov’s relative likelihood.
-
-### [Bulgarian Parliament outlines parties’ priorities as pre-election tone builds (translation summary)](https://bnrnews.bg/en/post/413622/parties-outline-final-parliamentary-priorities-in-pre-election-tone)
-**Author:** Radio Bulgaria (BNR) | **Published:** 2026-01-14
-
-Radio Bulgaria coverage lists Nikolai Denkov among leaders negotiating pre‑election priorities and highlights his public positions on machine voting and judicial reform. It documents Denkov’s active role in parliamentary politics through early 2026 — useful for assessing his likely availability, profile and policy positioning if he were to run for president. It shows activity but does not show a declared presidential candidacy or leading poll numbers.
-
-### [Officially: Andrey Gyurov Presented the Caretaker Cabinet as Bulgaria Prepares for Early Vote in April](https://www.novinite.com/articles/237060/Officially%3A%2BAndrey%2BGyurov%2BPresented%2Bthe%2BCaretaker%2BCabinet%2Bas%2BBulgaria%2BPrepares%2Bfor%2BEarly%2BVote%2Bin%2BApril)
-**Author:** Novinite (Sofia News Agency) | **Published:** 2026-02-11
-
-Novinite describes the caretaker cabinet appointment and early parliamentary election scheduling; it cites Denkov in the context of party consultations. This highlights how Denkov remains a central parliamentary leader but also that immediate political focus through early 2026 was on parliamentary politics, caretaker arrangements, and electoral process reforms — not on an active presidential campaign launch, which weakens evidence for a high win probability priced into markets now.
-
-### [PISM Spotlight: Resignation of the Zhelyazkov government and implications (Polish Institute of International Affairs)](https://pism.pl/webroot/upload/files/Komentarz/PISM%20Spotlight%20no%2084-2025.pdf)
-**Author:** PISM commentary | **Published:** 2025-12-15
-
-PISM analyzes the December 2025 resignation of the Zhelyazkov government, the political fallout and implications for snap elections and presidential timing. This institutional analysis gives high‑quality context on the timing and uncertainty around elections (affecting candidate strategy). It supports the conclusion that the political environment is fluid; that fluidity supports the market assigning some chance to multiple plausible figures but does not provide direct, specific evidence Denkov will win.
-
-### [PRESEDENTIAL ELECTIONS: EXPECTED BY FALL 2026 (Electoral Vulnerability Index 2025–2026, Kofi Annan Foundation / allied doc)](https://www.kofiannanfoundation.org/wp-content/uploads/2025/06/Electoral-Vulnerability-Index-2025-2026_Bulgaria.pdf)
-**Author:** Unknown (Kofi Annan Foundation / research document) | **Published:** 2025-06-xx (report date 2025)
-
-Regional/NGO analysis showing that presidential elections are expected by Fall 2026 and noting that the sitting president is not eligible for re‑election under normal rules (two‑term limit). This source helps clarify election timing and candidate eligibility constraints; it supports the market’s timeline and confirms the vacancy/opportunity for new candidates (which is part of the rationale for any nonzero market probability for Denkov).
+Official ODIHR/OSCE report on the 19 April 2026 early parliamentary elections, outlining electoral procedures, the political environment, election vulnerabilities and timelines. It confirms the timing/structure of elections and the broader institutional context (two‑round presidential system, risk factors). This is relevant to the market because it clarifies the electoral mechanics (runoff, official CEC resolution) and highlights the unstable context that increases uncertainty about candidate emergence and electability.

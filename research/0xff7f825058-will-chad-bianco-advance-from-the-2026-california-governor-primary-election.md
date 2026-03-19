@@ -1,88 +1,112 @@
 # Research: Will Chad Bianco advance from the 2026 California Governor primary election?
 
 **Market ID:** 0xff7f825058ce2569c08ecf6847fca743b5e885bea614b2811f065bcab27ea6db
-**Researched At:** March 6, 2026 at 04:16:44 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Chad Bianco advance from the 2026 California Governor primary election?"
+**Researched At:** March 19, 2026 at 04:34:14 AM UTC
+**Search Query:** "Will Chad Bianco advance from the 2026 California Governor primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 3.5¢
 
 ### Summary
 
-Bianco’s strong GOP polling is counterbalanced by California’s Democratic tilt and the jungle‐primary dynamic; absent statewide primary polling, the 37% price appears justified and any mispricing is small.
+Chad Bianco is an active candidate with some poll-driven plausibility to break into a fractured primary’s top-two, but modest fundraising, limited statewide profile, and legal/PR risk weigh against him. The market’s 35.5% price is plausible and not clearly mispriced by a large margin; low trading volume suggests that the price may reflect little informed betting rather than a strong consensus.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Chad Bianco (R) will finish in the top two of California’s June 2, 2026 jungle primary for governor, thereby advancing to the general election. A “Yes” requires Bianco to outpoll all but at most one other candidate in the statewide vote; a “No” if he finishes third or lower or if the primary doesn’t occur.
+Planned approach and search budget use
+- I used my 3 allowed web searches to (1) confirm Chad Bianco’s candidacy and campaign activity, (2) check fundraising/ballot/organizational signals, and (3) survey recent independent reporting and polling that speaks to the competitiveness of the 2026 California governor primary. Key load-bearing findings are cited below.
 
-2. EVIDENCE EVALUATION  
-Bullish Evidence (supports >37%):  
-• ABC7 (2026-03-05) reports Bianco is polling “neck-and-neck” with fellow GOP frontrunner Steve Hilton, suggesting strong Republican support and momentum.  
-• Multiple local outlets (2026-02-07 to 02-09) show Bianco leading or narrowly trailing Hilton in the GOP field, indicating consolidation potential if Hilton’s attacks backfire.  
+1) CONTEXT ANALYSIS
+- What the market is asking: whether Chad Bianco will place among the top two vote-getters in the June 2, 2026 California gubernatorial primary and therefore advance to the November general election. Resolution will be based on official primary results reported by the California Secretary of State (and the market description’s time-backstop means if no primary occurs by Dec 31, 2026 it resolves “No”). ([apnews.com](https://apnews.com/article/9f251ca0f09a16344ae3902c7ffe009e?utm_source=openai))
+- What must happen for “Yes” vs “No”: “Yes” requires Bianco to receive one of the two highest vote totals statewide on June 2, 2026. “No” occurs if he finishes third or worse, the primary does not occur by Dec 31, 2026, or official results/credible reporting show he did not finish in the top two. (Top-two is irrespective of party.)
 
-Bearish Evidence (supports <37%):  
-• All cited polling is intra-GOP; none addresses the broader jungle primary where Democratic turnout and two strong Democrats could claim both top slots.  
-• California statewide offices have trended Democratic by double digits; absent evidence of Bianco polling competitively against Democrats, a sub-40% chance to be top-two is plausible.  
+2) EVIDENCE EVALUATION
+Summary of factual inputs found
+- Bianco’s candidacy and public campaign activity: Chad Bianco has publicly announced a run for governor and operates an active campaign website and registered committee. Reporting of his announcement and subsequent campaign events is available. ([apnews.com](https://apnews.com/article/9f251ca0f09a16344ae3902c7ffe009e?utm_source=openai))
+- Fundraising/operations signals: public campaign finance data entries appear for “Bianco for Governor 2026” (small-dollar totals reported on transparency aggregators). The campaign’s reported spending and receipts are modest compared with wealthy/large donors backing some other entrants. ([transparencyusa.org](https://www.transparencyusa.org/ca/candidate/chad-bianco/?utm_source=openai))
+- Polling and race dynamics: recent coverage and polling indicate the overall field is crowded, Democrats are numerous and fragmented, and several polls show Republicans performing relatively well in the top-of-field (in some polls Bianco and another Republican have occupied top-two positions). At the same time, well-funded Democratic entrants and self-funding candidates have strong resources. Multiple outlets describe the primary as unsettled and point to the possibility that top-two could include two Republicans if Democrats remain split. ([latimes.com](https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll?utm_source=openai))
+- Legal/operational risks: reporting notes litigation and controversy tied to Bianco’s campaign conduct (a lawsuit and a legal defense fund were reported), which could produce negative publicity or compliance costs. ([yahoo.com](https://www.yahoo.com/news/articles/riverside-county-sheriff-governor-candidate-183050113.html?utm_source=openai))
 
-Source Credibility and Recency: All sources are from reputable California outlets dated February–March 2026, thus timely and relevant. However they omit general-electorate numbers.
+Evidence that the market price (35.5%) might be incorrect (i.e., undervalued Bianco)
+- Poll evidence of Republican strength/top-two scenarios: reporting from major outlets describes polls in which Republicans (including Bianco in some instances) have placed among the top two, driven by a fragmented Democratic field. If those poll patterns hold and Democrats remain split, the probability of a Republican finishing top-two materially increases — this dynamic would support a higher probability for Bianco than a simple statewide partisan-registration-based prior would suggest. ([latimes.com](https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll?utm_source=openai))
+- Low-information pricing in low-volume markets: the market shows $0 total volume and a very tight spread despite being 104 days old; that suggests the quoted price may reflect little trading and could be an uninformed initial quote rather than aggregated informed bets. If independent polling or local organizing (e.g., focused GOTV in Inland Empire) is stronger than the market assumes, the market could be underpricing his chance.
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 37% price reasonably reflects:  
-• Bianco’s strong standing among Republicans (≈50% of GOP vote) but uncertain crossover appeal.  
-• Likely that two Democrats will split ≈55–60% of the vote, leaving ≈40–45% for all Republicans; Bianco’s share implies ~20% of total—close to a top-two threshold but far from certain.  
-Low volume may simply reflect that the outcome is widely perceived as lean-Democrat and not mispriced so far.
+Evidence that supports the current price (35.5%) as reasonable
+- Modest fundraising and limited statewide profile: campaign finance records and reporting show Bianco’s committee has small-dollar totals relative to wealthy/self-funded entrants and established statewide name recognition among likely primary voters is limited. Statewide name recognition and a strong war chest matter in large-state primaries; this supports a modest (but non-trivial) probability rather than a high one. ([transparencyusa.org](https://www.transparencyusa.org/ca/candidate/chad-bianco/?utm_source=openai))
+- Strong competitors and Democratic registration advantage: major outlets describe multiple well-funded Democrats (and at least one other Republican) in the field; several big-dollar entrants (self-funders and wealthy donors) can saturate media and outreach statewide, making it harder for a single, lower-funded candidate to break through. That supports a price in the low-to-mid tens of percentage points rather than a near-certain outcome. ([time.com](https://time.com/7335185/tom-steyer-california-governor-2026-billionaire-newsom/?utm_source=openai))
+- Legal/PR risks could reduce electability: litigation and the need for a legal defense fund may impose costs and negative media that reduce Bianco’s statewide appeal. ([yahoo.com](https://www.yahoo.com/news/articles/riverside-county-sheriff-governor-candidate-183050113.html?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-We see no specific, credible data—particularly statewide jungle-primary polling—that drastically shifts Bianco’s probability above or below 37%. The price plausibly incorporates Republican consolidation and Democratic dominance. No clear mispricing >10¢ emerges.
+Source credibility and recency
+- Reporting includes mainstream, high-credibility outlets (AP, Los Angeles Times, Time) and transparency/filing aggregators; where possible, I relied on recent coverage (Jan–Feb 2026 and late 2025 stories). These are credible primary sources for candidate announcements, polling synthesis, and fundraising snapshots. Polls are snapshots and may change; campaign finance summaries from TransparencyUSA are secondary aggregators of public filings (useful but should be cross-checked at FPPC/Cal SOS for definitive totals). ([apnews.com](https://apnews.com/article/9f251ca0f09a16344ae3902c7ffe009e?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence = 20% (limited to intraparty polls, missing broader data)  
-Magnitude of mispricing = 5¢ (if any; likely small)  
-Expected value = 0.2 × 5¢ = 1.0¢
+Skeptical points
+- If a poll shows Bianco high, why wouldn’t markets price that in? Possible answers: (a) polling volatility and small-sample/noise make traders skeptical, (b) markets require sustained signals (fundraising, endorsements, organizational rollout) rather than transient poll spikes, and (c) low trading volume suggests few informed participants have tried to exploit any perceived edge. These are plausible reasons the market might remain at ~35.5%.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Bianco’s strong GOP polling is counterbalanced by California’s Democratic tilt and the jungle‐primary dynamic; absent statewide primary polling, the 37% price appears justified and any mispricing is small.  
+3) MARKET EFFICIENCY ANALYSIS
+- Interpretations that justify the current price (35.5%):
+  - Charitable interpretation: 35.5% reflects a balanced view — Bianco is a plausible top-two contender (given the fractured Democratic field and some polls showing Republicans strong), but his modest fundraising, limited statewide name recognition, and legal/PR risks make him far from a lock; 35.5% therefore encodes a moderate upside tail but recognizes substantial downside risk. ([latimes.com](https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll?utm_source=openai))
+  - Less charitable interpretation: the quote could be an opening price placed by one or a few traders (or an automated pricing function) that hasn’t been stress-tested by real liquidity; $0 total volume supports this. If so, it may poorly reflect the consensus of informed bettors.
+- Could the price reflect consensus of informed traders? Possibly, but $0 volume and the age (104 days) strongly suggest minimal engagement. That weakens confidence that the price reflects broad information aggregation.
+- Is low volume because outcome is obvious or because informed traders haven’t engaged? Evidence points more to the latter: the race is not obvious (polls show an open field), and public reporting indicates debateable competitiveness — that should attract traders. The lack of volume thus leans toward low engagement rather than an obvious outcome.
+
+4) MISPRICING ASSESSMENT
+- Net judgment: There is not clear, specific, and credible evidence that the market is mispriced by a large amount. The available evidence supports a moderate chance that Bianco could reach the top two (the state’s nonpartisan primary + a fractured Democratic field can produce Republican advancement), but also supports considerable reasons why he might not (limited fundraising, legal distractions, multiple well-funded competitors, limited statewide profile).
+- Magnitude of possible mispricing: I see plausible small mispricing (a few to low-teens of percentage points) in either direction depending on whether recent poll clusters and targeted Republican organizing are stronger than the market assumes — but I did not find a clear, specific data point that would justify moving the market more than ~10–15 percentage points away from 35.5% with high confidence.
+- Critical check: I re-checked resolution criteria (must be top two based on official primary results). I found nothing indicating that the primary’s structure or resolution rule is misunderstood, and nothing showing the primary already occurred. Therefore large (>20¢) declared mispricings would be surprising and likely reflect missing context; I did not find such missing context.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that price is missing material information: I rate this moderate–low because available reporting is mixed (some polls favorable to Bianco; organizational/fundraising signals are weak). Strength = 35%.
+- Magnitude of plausible mispricing if one is present: I estimate a plausible mispricing of ~10 cents (0.10 probability) — i.e., market price could be off by around ten percentage points in either direction in a realistic scenario.
+- Expected value = Strength × Magnitude = 35% × 10 cents = 3.5 cents.
+- I will round to a simple presentation in cents per the user requirement.
+
+6) CONFIDENCE
+- My overall confidence in this assessment is medium: the topic is actively evolving, there are credible sources indicating both possibilities (Bianco as plausible dark-horse top-two vs significant constraints on his statewide viability), and the market shows essentially no traded volume. That combination yields moderate confidence, not high.
+
+Final concise conclusions
+- The market price (35.5%) is plausible given (a) the nonpartisan top-two structure and polls showing Republicans can finish top-two in this fragmented field, and (b) Bianco’s announced campaign and some favorable polling pockets — but there is also credible evidence (limited fundraising, legal/PR exposure, and strong, well-funded opponents) that supports a lower probability.
+- Because trading volume is effectively zero, the price may not represent a deep consensus and could be moved by new polling, fundraising announcements, endorsements, or organizational developments. I do not find clear, specific evidence that the market is mispriced by a very large amount (>20 cents); expected value of a new, correct informational edge looks small (~a few cents).
+
+EXPECTED_VALUE: 3.5
+SUMMARY: Chad Bianco is an active candidate with some poll-driven plausibility to break into a fractured primary’s top-two, but modest fundraising, limited statewide profile, and legal/PR risk weigh against him. The market’s 35.5% price is plausible and not clearly mispriced by a large margin; low trading volume suggests that the price may reflect little informed betting rather than a strong consensus.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Republican governor candidate Chad Bianco says he's the 'antithesis to California state government' - ABC7 Los Angeles
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.abc7.com/post/republican-governor-candidate-chad-bianco-says-hes-antithesis-california-state-government/18677627/
-Summary: Chad Bianco, Riverside County Sheriff and Republican candidate for California governor in 2026, positions himself as the "antithesis" of California's current government, criticizing decades of Democratic rule and emphasizing his outsider status. He claims his campaign is gaining momentum and polls show him neck-and-neck with former Fox News host Steve Hilton. Bianco attributes California’s affordability and homelessness crises to excessive regulation and ineffective nonprofit spending, promising significant reforms if elected. While he expresses confidence in his chances of winning the primary and general election, he also suggests that Democrats are actively trying to prevent his success. His strong anti-establishment stance and current polling position indicate a credible chance of advancing from the primary.
+### [Riverside County sheriff becomes the first major Republican to say he'll run for California governor](https://apnews.com/article/9f251ca0f09a16344ae3902c7ffe009e)
+**Author:** Unknown | **Published:** Unknown
 
-Title: In the race for governor, Steve Hilton has a new target: fellow Republican Chad Bianco – Orange County Register
-Author: Kaitlyn Schallhorn  |  kschallhorn@scng.com  | Orange County Register
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.ocregister.com/2026/02/07/in-the-race-for-governor-steve-hilton-has-a-new-target-fellow-republican-chad-bianco/
-Summary: Chad Bianco is currently leading in the California Republican primary for governor, polling 2 percentage points ahead of Steve Hilton. Both are considered top contenders, but the race is close. Notably, Hilton is actively attacking Bianco, calling him a “RINO” and criticizing his past actions, such as kneeling with protesters in 2020. Hilton’s strategy aims to consolidate the Republican vote to prevent a split that could allow two Democrats to advance to the general election. Given the tight polling margin and intra-party tensions, Bianco has a strong chance to advance from the primary, but the outcome remains uncertain and depends on voter support and campaign dynamics.
+AP reported Chad Bianco’s announcement of a 2026 gubernatorial campaign and described his campaign themes (public safety, immigration, homelessness). This establishes Bianco as an active candidate and provides context on his platform and initial media attention — relevant because announcement + messaging are prerequisites for any realistic primary bid. It supports the market’s premise that Bianco is a real entrant and therefore eligible to advance, but does not by itself imply high probability of advancing.
 
-Title: In the race for California governor, Steve Hilton has a new target: fellow Republican Chad Bianco – The Press Democrat
-Author: Kaitlyn Schallhorn  |  kschallhorn@scng.com
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.pressdemocrat.com/2026/02/09/in-the-race-for-governor-steve-hilton-has-a-new-target-fellow-republican-chad-bianco/
-Summary: In the 2026 California gubernatorial race, Chad Bianco is currently polling slightly ahead of fellow Republican Steve Hilton, with both leading among GOP candidates. However, intra-party dynamics are affecting their campaigns; Hilton has recently shifted strategy to attack Bianco, labeling him a “RINO” and criticizing his past actions, such as kneeling with protesters in 2020. Hilton emphasizes the importance of uniting the Republican vote to prevent two Democrats from advancing to the general election, highlighting concerns about vote splitting. Given Bianco's current polling position and the competitive nature of the primary, his chances of advancing depend on maintaining or increasing his support and whether the Republican base consolidates behind him.
+### [Chad Bianco - California Candidate - Transparency USA](https://www.transparencyusa.org/ca/candidate/chad-bianco/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: In the race for California governor, Steve Hilton has a new target: fellow Republican Chad Bianco
-Author: Kaitlyn Schallhorn  |  kschallhorn@scng.com
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.mercurynews.com/2026/02/09/in-the-race-for-governor-steve-hilton-has-a-new-target-fellow-republican-chad-bianco/
-Summary: Chad Bianco is currently leading in the polls for the 2026 California gubernatorial primary, trailing only slightly behind fellow Republican Steve Hilton. Both candidates are polling well, but the race is close, with Bianco holding a narrow lead in aggregate polling. Notably, Hilton has shifted his campaign strategy to attack Bianco, calling him a “RINO” and criticizing his past actions, such as kneeling with protesters in 2020. Hilton emphasizes the importance of uniting the Republican vote to prevent two Democrats from advancing to the general election, suggesting that vote splitting among Republicans could hinder Bianco’s chances. Overall, Bianco appears to be a strong contender to advance from the primary, but the race remains competitive and closely watched.
+TransparencyUSA aggregates public campaign finance filings for Bianco’s campaign committee, listing receipts and expenditures. The data indicate modest fundraising relative to self-funded or billionaire-backed opponents. This is relevant because fundraising and campaign infrastructure are major determinants of statewide viability; modest totals support skepticism that Bianco is a heavy favorite to advance.
 
-Title: In the race for governor, Steve Hilton has a new target: fellow Republican Chad Bianco – Press Enterprise
-Author: Kaitlyn Schallhorn  |  kschallhorn@scng.com  | Orange County Register
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://www.pressenterprise.com/2026/02/07/in-the-race-for-governor-steve-hilton-has-a-new-target-fellow-republican-chad-bianco/
-Summary: Chad Bianco is currently leading in the California Republican primary race for governor, trailing only slightly behind fellow Republican Steve Hilton in polls. Both candidates are prominent contenders, with Bianco gaining significant support. However, Steve Hilton has shifted his strategy to attack Bianco, labeling him a “RINO” and criticizing his past actions, such as kneeling with protesters in 2020. Hilton emphasizes the importance of uniting the Republican vote to prevent a split that could allow two Democrats to advance to the general election. Given Bianco’s current poll position and the competitive nature of the primary, his chances of advancing are strong but depend on maintaining or increasing his support amid intra-party challenges.
+### [Tight California governor's race between five leading candidates](https://www.latimes.com/california/story/2026-02-25/california-governors-race-wealth-tax-congress-ppic-poll)
+**Author:** Unknown | **Published:** 2026-02-25
 
+LA Times coverage synthesizes recent polling and notes a crowded, unsettled field; it highlights that, in multiple polls, Republicans (including Bianco and another GOP candidate referenced as “Hilton” in reporting) have placed in the top two due to a fractured Democratic field. This is directly relevant because it documents the core mechanism (Democratic fragmentation enabling Republican top-two finishes) that could make Bianco’s path plausible, supporting some upside to his market probability.
 
+### [Chad Bianco for California Governor (campaign site)](https://biancoforgovernor.com/)
+**Author:** Unknown | **Published:** Unknown
+
+The campaign website confirms an active campaign, provides the official committee FPPC identifier, lists events and messaging, and signals organizational activity. This source corroborates that Bianco is running, active in outreach, and has formal committee filings — baseline facts necessary for any assessment of his chances.
+
+### [Riverside County sheriff and governor candidate opens legal defense fund](https://www.yahoo.com/news/articles/riverside-county-sheriff-governor-candidate-183050113.html)
+**Author:** Unknown | **Published:** 2025-11-14
+
+Reporting describes a legal defense fund opened by Bianco and a lawsuit alleging improper campaigning in uniform, noting attendant political disputes. This is relevant because legal/PR issues can reduce a candidate’s appeal, divert resources, and create negative headlines that reduce the probability of advancing — evidence that weighs against raising the market price dramatically.
+
+### [Opinion | New poll names five with the best shot to be CA governor](https://calmatters.org/commentary/2026/02/governor-poll-five-leading-california/)
+**Author:** Dan Walters (CalMatters) | **Published:** 2026-02-26
+
+CalMatters discusses recent polls (e.g., PPIC and others), highlights a field without a clear frontrunner, and explains how timing and late entrants complicate poll interpretation. This is relevant because it shows the underlying polling environment is unsettled and contains significant undecided voters — supporting the view that forecasts are noisy and that market-implied probabilities should be viewed with caution.
