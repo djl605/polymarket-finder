@@ -1,89 +1,102 @@
 # Research: Will the Republican Party win the OH-10 House seat?
 
 **Market ID:** 0x3961473d4a336d8eded9cf3cca299ca72bd68c57a435d82b7c5289f276b7d0c9
-**Researched At:** March 11, 2026 at 04:17:31 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the Republican Party win the OH-10 House seat?"
+**Researched At:** March 20, 2026 at 04:22:47 AM UTC
+**Search Query:** "Will the Republican Party win the OH-10 House seat?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-While Ohio’s GOP‐driven redistricting implies a Republican advantage, there’s no district‐specific data on past margins or candidate quality for OH-10. The 67.5% price could simply reflect a cautious estimate of structural GOP lean without clear signs of a large mispricing.
+Incumbent Republican Mike Turner is running and won handily in 2024; Cook Political Report rates OH‑10 “Solid R,” and local reporting shows Democratic challengers but no game-changing recruit—so a 70% Republican price is broadly defensible. Low market volume ($1,922) means the price could reflect limited liquidity rather than broad consensus, but I found no specific, credible missing information that implies a large mispricing now.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will the Republican Party win Ohio’s 10th Congressional District seat in the U.S. House in November 2026?”  
-• YES resolves if the GOP nominee garners a plurality in the general election.  
-• NO resolves if a Democrat or other party’s candidate wins.
+Plan & scope
+- Questions to answer before concluding whether OH-10 is mispriced at a 70% Republican probability:
+  1) Who is the incumbent and are they running in 2026? 2) How did the district vote in 2024 (margin, turnout)? 3) What do reputable handicappers say about the district’s partisan lean and 2026 rating? 4) Are there credible, high-profile challengers or new information that would materially raise the chance of a Democratic pickup?
+- I focused searches on authoritative, recent sources (Cook Political Report, AP, local reporting, official county election results) to answer those questions.
 
-2. EVIDENCE EVALUATION  
-Bullish (for GOP >67.5%):  
-• Multiple sources (NOTUS, PoliticalWire, NRCC) document aggressive Republican‐led redistricting across Ohio, making formerly competitive or Democratic‐held districts more favorable to the GOP. Although those analyses focus on OH-9 and OH-1, they imply a statewide tilt that likely carries into OH-10.  
-• Ballotpedia notes a highly competitive field in OH-10 primaries, but no incumbent advantage on the Democratic side, suggesting Republicans have at least structural leverage.  
+1) CONTEXT ANALYSIS
+- What the market asks: “Will the Republican Party win the OH-10 House seat?” It resolves YES if the winner of the November 4, 2026 general election for Ohio’s 10th congressional district is a Republican (party as listed or based on caucus intent), and NO otherwise. The market uses a consensus of credible reporting, falling back to official government results (FEC or state/county boards) if ambiguous (market description).
+- What must happen for YES vs NO: YES requires the Republican nominee (or any candidate identified as Republican under the market’s resolution rules) to receive the most votes and be declared the winner in the Nov 4, 2026 general election; NO if a Democrat or non-Republican (or someone who will caucus with Democrats) wins.
 
-Bearish (for GOP <67.5%):  
-• None of the sources provide district‐specific Partisan Voting Index, past election margins, or candidate quality data for OH-10, leaving significant uncertainty about the general election dynamics.  
-• Competitive primaries mean the eventual GOP nominee’s strength is unknown; a weak nominee could underperform.  
-• Low trading volume indicates few information‐rich participants engaging—if the GOP’s path were so clear, higher volume or narrower spreads might emerge.
+2) EVIDENCE EVALUATION (all items supported by web sources below)
+A. Evidence that supports the market price (i.e., Republican favored at ~70%):
+- Incumbency and recent performance: Republican Rep. Mike Turner is the incumbent, has announced a 2026 re-election bid, and won re-election in 2024 by a large margin (Turner ~57.6% in 2024). These facts point to incumbency advantage and demonstrated electoral strength in the district. ([daytondailynews.com](https://www.daytondailynews.com/local/dems-eye-chance-to-unseat-turner-for-dayton-area-congressional-seat-but-can-they/SLAV6GYYLJAAPJQ5ZYFN2ZAXMQ/))
+- Handicappers’ rating and partisanship: Cook Political Report rates OH-10 “Solid R” for 2026 and explicitly notes that while the district is one of the more plausible pickup opportunities for Democrats in Ohio on paper, Turner’s consistent comfortable wins make the seat a tough target. Cook also reports the district would have favored Trump by multiple points on the new lines (i.e., district leans Republican). That professional-rating and the PVI/Presidential result context support a Republican probability materially above 50%. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826))
+- Lack of a nationally-known Democratic recruit so far: local reporting lists emerging Democratic challengers (e.g., Kristina Knickerbocker and Manuel Foggie) but no top-tier, well-funded recruit has been reported yet; DCCC interest is present but does not yet equal an all-out recruitment of a marquee challenger. This suggests Democrats are contesting the seat but haven’t produced a clear, game-changing candidate as of mid-Jan/Mar 2026. ([daytondailynews.com](https://www.daytondailynews.com/local/dems-eye-chance-to-unseat-turner-for-dayton-area-congressional-seat-but-can-they/SLAV6GYYLJAAPJQ5ZYFN2ZAXMQ/))
 
-Source Credibility & Recency:  
-All sources are from February–March 2026, reputable outlets or party committees. They credibly document a pro‐GOP redistricting trend but lack OH-10–specific polling or PVI data.
+B. Evidence that challenges the market price (i.e., reasons the Republican chance might be lower):
+- Cook and local reporting both note the district is “on the fringe” of possible Democratic pickups and that on paper it is one of Democrats’ better opportunities in Ohio. That means the district is not a deep-red lock and could flip under the right national environment or with a stronger Democratic candidate. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826))
+- DCCC attention and the emergence of multiple Democratic candidates indicate the Democrats view this as contestable; if the DCCC and national donors prioritize OH-10 and successfully recruit or resource a strong candidate, the win probability for Democrats could rise materially. 
+- Redistricting changes (the district includes all of Montgomery and Greene counties and parts of northeast Butler County under recent lines) mean demographics and turnout patterns could shift relative to older cycles; these line changes are a persistent source of uncertainty. ([daytondailynews.com](https://www.daytondailynews.com/local/dems-eye-chance-to-unseat-turner-for-dayton-area-congressional-seat-but-can-they/SLAV6GYYLJAAPJQ5ZYFN2ZAXMQ/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-Reasonable interpretation of 67.5%: traders may be pricing in a modest Republican lean from redistricting plus Ohio’s recent statewide GOP strength, but discounting uncertainty about the nominee and turnout. The tight spread (3¢) despite zero volume suggests one or two active traders. The low volume likely reflects both low visibility and genuine data gaps rather than overwhelming consensus.
+C. Source credibility and recency
+- Cook Political Report: high credibility for race ratings/analysis; page viewed with updates in 2025 and 2026-era content; used for rating and PVI context. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483826))
+- Associated Press: reliable confirmation of the 2024 result call. ([apnews.com](https://apnews.com/article/4f6eec98f10a4e82bff0630cdb2aa0bc))
+- Dayton Daily News (local paper): credible local reporting on candidate filings, DCCC statements, and district configuration (Jan 14, 2026 reporting). Useful for candidate-level updates and local context. ([daytondailynews.com](https://www.daytondailynews.com/local/dems-eye-chance-to-unseat-turner-for-dayton-area-congressional-seat-but-can-they/SLAV6GYYLJAAPJQ5ZYFN2ZAXMQ/))
+- Montgomery County BOE official results PDF: authoritative official vote reporting for the 2024 general election in the county portion of the district. ([boe.ohio.gov](https://www.boe.ohio.gov/montgomery/c/elecres/20241105precinct.pdf))
+- Overall: the most load-bearing claims (incumbency, 2024 margin, Cook rating, candidate filings) are supported by high-quality, recent sources.
 
-4. MISPRICING ASSESSMENT  
-There is no direct district‐level polling or PVI data missing from the price; rather, there is simply a dearth of detailed evidence publicly available. The market price plausibly reflects an informed trader’s synthesis of statewide redistricting effects and generic midterm GOP momentum. No specific, credible indicator suggests a >20¢ gap between 67.5% and the true probability.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation of the current 70% price: it reflects incumbency, a recent 18-point margin in 2024 in a district that still leans Republican on presidential-level calculations, and Cook’s “Solid R” rating. Those factors alone justify a materially >50% probability and are consistent with a mid/high-60s to low-70s estimate by many analysts.
+- Could the 70% be a few traders’ view? Yes — volume is low ($1,922 total), so the market could be shallow. Low volume + tight spread suggests one or a few participants provided liquidity at that price. That raises the chance the price reflects limited liquidity rather than broad information aggregation.
+- Why low volume might be legitimate: If the consensus among political handicappers and public data is that Turner is a comfortable favorite, many traders will not trade actively (outcome seen as close to predetermined), producing low volume. Conversely, if the district really were a live swing with likely money to be made, informed traders and hedgers (DCCC/NRCC-associated traders, local insiders) would likely engage and increase volume, narrowing mispricing—evidence so far points to the former (comfortable favorite) rather than the latter (overlooked mispricing).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that price is off): 20%  
-Magnitude of mispricing: 5 cents  
-Expected value = 0.20 × 5¢ = 1¢
+4) MISPRICING ASSESSMENT
+- Does credible, specific evidence appear missing from the price?
+  - Missing evidence that would lower the Republican probability substantially would be: (a) a high-quality Democratic recruit already in and shoring up early fundraising, (b) credible polling showing a tight race, (c) major local/unexpected scandal for Turner, or (d) an anticipated national wave strongly favoring Democrats. I could not find any of those items in the sources checked. Current reporting shows challengers but not a game-changing recruit or polling that contradicts the incumbent’s advantage. ([daytondailynews.com](https://www.daytondailynews.com/local/dems-eye-chance-to-unseat-turner-for-dayton-area-congressional-seat-but-can-they/SLAV6GYYLJAAPJQ5ZYFN2ZAXMQ/))
+  - Conversely, missing evidence that would raise the Republican probability materially would be a stronger-than-reported Republican bench, or local polling showing Turner surging; I did not find such items either.
+- Net assessment: The available, credible evidence makes the 70% Republican probability broadly reasonable. The market does not show a glaring omission of widely-known, credible information that would imply a large (>20¢) mispricing. The main vulnerability of the market price is structural (low volume, possible concentration of liquidity providers), not informational (no obvious left-out fact).
+- Timeline uncertainty: This market resolves Nov 4, 2026 — many things can change over ~7+ months (national environment, candidate quality, fundraising, scandals). That long horizon increases uncertainty and reduces confidence in any single-day price. Because of that, traders might rationally demand extra margin (i.e., price below a handicappers’ point estimate) to reflect event risk; 70% may be conservatively pricing that future uncertainty.
 
-EXPECTED_VALUE: 1  
-SUMMARY: While Ohio’s GOP‐driven redistricting implies a Republican advantage, there’s no district‐specific data on past margins or candidate quality for OH-10. The 67.5% price could simply reflect a cautious estimate of structural GOP lean without clear signs of a large mispricing.  
+Critical check (per instructions)
+- I do not identify a single clear technicality or already-resolved event that would make a big-arbitrage obvious. I reviewed the resolution criteria (party by ballot-listed affiliation or caucus intent; credible reporting or official FEC/state results) and the district’s incumbent and recent results. No sign that the market ignores an already-known disqualifying technicality.
+- Charitable interpretation: informed traders likely priced incumbency + Cook’s rating + district PVI and added a small discount for future uncertainty and the potential for an energized Democratic effort. Given the data, that is a defensible price.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence (how likely the evidence I found is both reliable and not already priced): 60%. (Reputable sources show Turner as a solid incumbent winner; missing evidence for large upsets; but future uncertainty remains.)
+- Estimated magnitude of possible mispricing (plausible error if market is off): ~5 cents. (Market at 70% vs what a conservative handicapping might place around 75% under current conditions; conversely it could be lower if a strong D candidate emerges — net plausible error small.)
+- Expected value = 60% × 5 cents = 3.0 cents.
+
+6) CONFIDENCE
+- I assign medium confidence to this assessment. The sources are recent and reputable, but the long time to resolution and low market liquidity keep certainty from being high.
+
+Final concise judgement
+- The market’s 70% Republican probability is broadly reasonable given incumbent Mike Turner’s strong 2024 win and Cook’s “Solid R” rating. There is no clear, credible evidence currently missing from the price that would justify a large (>20¢) arbitrage. The main caveat: low trading volume makes the market fragile to new information (a strong Democratic recruit, a national wave, or local scandal) which could change the price materially before the election.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Incumbent Republican Mike Turner is running and won handily in 2024; Cook Political Report rates OH‑10 “Solid R,” and local reporting shows Democratic challengers but no game-changing recruit—so a 70% Republican price is broadly defensible. Low market volume ($1,922) means the price could reflect limited liquidity rather than broad consensus, but I found no specific, credible missing information that implies a large mispricing now.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Marcy Kaptur Faces Her Toughest Race Yet After Ohio’s Republican Redistricting - NOTUS — News of the United States
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.notus.org/2026-election/ohio-marcy-kaptur-democratic-reelection-redistricting
-Summary: The article discusses the challenging electoral environment for Democratic Rep. Marcy Kaptur in Ohio's 9th Congressional District, which has been redrawn to favor Republicans and is now more conservative. President Trump won this district by 7 points in 2024, and the Republican Party is actively targeting it, with seven candidates vying for the nomination to unseat Kaptur. The Republican National Congressional Committee views the district as a prime opportunity to flip a Democratic seat, highlighting its strong Republican leanings. While the article focuses on OH-09, the context suggests a broader Republican strategy in Ohio to contest and potentially win seats held by Democrats, including the OH-10 district. Therefore, the Republican Party appears to have a significant opportunity to win the OH-10 House seat, especially given the state's redistricting and the competitive nature of these districts.
+### [OH-10 2026 | Cook Political Report](https://www.cookpolitical.com/house/race/483826)
+**Author:** Cook Political Report (staff/unknown) | **Published:** 2025-02-06
 
-Title: Marcy Kaptur Faces Her Toughest Race Yet
-Author: Taegan Goddard
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://politicalwire.com/2026/02/10/marcy-kaptur-faces-her-toughest-race-yet/
-Summary: The article discusses Rep. Marcy Kaptur's upcoming election campaign in Ohio, highlighting that she faces her most challenging race yet due to redistricting. The new district map has made Ohio’s 9th Congressional District more conservative, increasing the likelihood of a Republican victory. While Kaptur has a long history of winning competitive elections, the redistricting and shifting political landscape suggest that her re-election in this seat could be uncertain, which may impact predictions about the Republican Party's chances of winning the OH-10 House seat.
+Cook’s race page for Ohio’s 10th compiles race data and a narrative: it lists Mike Turner as incumbent, shows his last general-election result (~57.6%), and rates the 2026 race “Solid R” while noting the district would have favored Trump on the new lines and that Democrats view it as one of their better pickup opportunities in Ohio on paper. This source is high-quality, recent, and directly supports the judgment that incumbency plus district lean justify a materially >50% Republican chance, which aligns with the market price.
 
-Title: Marcy Kaptur Faces Her Toughest Race Yet - NRCC
-Author: Zach Bannon
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.nrcc.org/2026/02/10/marcy-kaptur-faces-her-toughest-race-yet/
-Summary: The webpage discusses the challenging political landscape for Democratic incumbent Marcy Kaptur in Ohio's 9th Congressional District, which has been redrawn to be more conservative following Republican-led redistricting. While the focus is on Kaptur's race, the context suggests a broader trend of Republican efforts to flip Democratic-held seats in Ohio, including the OH-10 district. Given the GOP's active pursuit of these seats and the redistricting that favors Republicans, there is an increased likelihood that the Republican Party could win the OH-10 House seat in the upcoming election.
+### [AP Race Call: Republican Mike Turner wins reelection to U.S. House in Ohio’s 10th Congressional District](https://apnews.com/article/race-call-turner-wins-ohio-u-s-house-district-4f6eec98f10a4e82bff0630cdb2aa0bc)
+**Author:** The Associated Press | **Published:** 2024-11-06
 
-Title: Analysis: Will GOP efforts to gerrymander Landsman out of Congress work? | WVXU
-Author: 
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.wvxu.org/politics/2026-02-16/analysis-ohio-gop-gerrymander-landsman-congress
-Summary: The article discusses recent GOP efforts to gerrymander Ohio's congressional districts, specifically targeting Democrat Greg Landsman in the 1st District by redrawing district boundaries to favor Republicans. This strategic redistricting has made Landsman's district significantly more Republican-leaning, potentially impacting his re-election prospects. The GOP's manipulation of district lines aims to diminish Democratic voter influence, especially in urban areas like Cincinnati. However, notable Republican candidates have not yet challenged Landsman, possibly indicating internal party considerations or strategic decisions. While the article focuses on Landsman's district, the broader context of aggressive gerrymandering in Ohio suggests that Republican candidates in other districts, such as OH-10, may also benefit from similar redistricting tactics, which could influence the likelihood of the GOP winning the OH-10 House seat.
+AP’s race call confirms the 2024 outcome (Turner the winner) and serves as an authoritative contemporaneous source for the incumbent’s recent electoral performance. That 2024 win is a key data point supporting the Republican baseline probability and helps validate handicappers’ use of incumbency in assigning a higher win probability to the GOP in 2026.
 
-Title: Seventy-eight candidates are running for Ohio’s 15 U.S. House districts — the second-most since 2014 - Ballotpedia News
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://news.ballotpedia.org/2026/03/02/seventy-eight-candidates-are-running-for-ohios-15-u-s-house-districts-the-second-most-since-2014/
-Summary: The 2026 Ohio U.S. House elections feature a high level of candidate competition, with 78 candidates across all districts—more than in recent cycles. Specifically, the Ohio-10 district has multiple candidates, including incumbents and challengers, with primaries scheduled for May 5, 2026. The district is contested, and no incumbents are running unopposed. Given the competitive nature of the primaries and the recent redistricting, predicting the outcome for the Ohio-10 seat involves considering factors such as candidate strength, primary results, and the district's partisan leanings. The district's current political dynamics and candidate profiles will be crucial in assessing whether the Republican Party is favored to win this seat.
+### [Dems eye chance to unseat Turner for Dayton-area congressional seat, but can they? (Dayton Daily News)](https://www.daytondailynews.com/local/dems-eye-chance-to-unseat-turner-for-dayton-area-congressional-seat-but-can-they/SLAV6GYYLJAAPJQ5ZYFN2ZAXMQ/)
+**Author:** Thomas Gnau | **Published:** 2026-01-14
 
+Local reporting describes Turner’s Jan. 12, 2026 filing/reelection announcement, lists declared Democratic challengers (e.g., Kristina Knickerbocker, Manuel Foggie), references DCCC interest, and discusses redistricting and the district’s competitiveness. This supports the conclusion that Democrats are contesting the seat but have not yet produced a top-tier, nationally-known recruit—and it documents the key local dynamics relevant to near-term pricing.
 
+### [11052024 General Election (Montgomery County Board of Elections — final precinct report, PDF)](https://www.boe.ohio.gov/montgomery/c/elecres/20241105precinct.pdf)
+**Author:** Montgomery County Board of Elections (Unknown) | **Published:** 2024-11-19
+
+Official Montgomery County precinct results for the Nov. 5, 2024 general election. The PDF contains the official vote tallies for the Representative to Congress (10th District) in Montgomery County, corroborating the quantitative performance of candidates in that county portion of the district and supporting the reported 2024 margins cited by national outlets and handicappers. This official record underpins the incumbency/margin facts used in probability assessment.

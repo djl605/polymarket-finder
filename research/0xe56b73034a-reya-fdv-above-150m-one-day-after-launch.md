@@ -1,7 +1,7 @@
 # Research: Reya FDV above $150M one day after launch?
 
 **Market ID:** 0xe56b73034a1a9f49ecfa624e9d9ca7e2a6e770e8b1881a0062725567c7ee7bff
-**Researched At:** March 12, 2026 at 06:16:38 PM UTC
+**Researched At:** March 20, 2026 at 04:15:59 AM UTC
 **Search Query:** "Reya FDV above $150M one day after launch?"
 
 ---
@@ -9,68 +9,77 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.8¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-CoinList’s Reya sale page lists the sale terms (token price $0.01875, allocated supply 160,000,000 REYA, total supply 8,000,000,000, 50% unlock at TGE) and states a Fully Diluted Value of $150,000,000. This is the primary, authoritative source for the presale price and the baseline FDV that matters for the market’s resolution; it shows the sale-implied valuation equals the market’s cutoff (so a listing would need to exceed the sale-implied price to resolve YES). This supports the market’s conser
+Official tokenomics and CoinList sale terms imply FDV = $150M at the sale price and a small public float with 50% unlock at TGE, which makes a day‑1 premium unlikely; low market volume suggests the quoted 18% may reflect few traders, but I found no strong public evidence of a large mispricing. Additional targeted price-history checks (CoinGecko/CoinMarketCap/exchange orderbooks) could further reduce uncertainty.
 
 ### Full Analysis
 
-1) CONTEXT ANALYSIS — what the market asks and resolution rules
-- Market question: "Reya FDV above $150M one day after launch?" — it resolves YES if the Fully Diluted Valuation (total token supply × token price) is strictly greater than $150,000,000 at 4:00 PM ET on the calendar day after the token's public launch. The token must be actively, publicly transferable and tradable to count. If Reya does not launch a token by 2026-12-31 23:59 ET the market resolves NO.
-- Critical technical detail: the CoinList community sale price ($0.01875) with total supply 8,000,000,000 implies an FDV of exactly $150,000,000 — that is equal to the threshold, not greater-than. So an on‑chain or exchange price equal to the sale price would resolve NO. Only a listing price strictly above the sale-implied price (or a change in supply/price assumptions at listing) produces a YES. ([coinlist.co](https://coinlist.co/reya))
+Plan and limits
+- I used the allowed web search budget to gather primary/project sources and timely reporting about Reya’s tokenomics and fundraising. My goal was to determine what would need to happen for this market (FDV > $150M one day after launch) to resolve YES and whether public evidence indicates that outcome is more or less likely than the current market price (18%). I relied primarily on Reya’s docs/CoinList listing and recent reporting about the token sale. Key load-bearing facts are cited below.
 
-2) EVIDENCE EVALUATION — all relevant evidence, credibility and direction
+1) CONTEXT ANALYSIS — what the market is asking
+- The market resolves YES if Reya’s token is publicly tradable (“launch” defined as actively, publicly transferable and tradable) and the Fully Diluted Valuation (FDV = total token supply × token price, using the most liquid price source) is strictly greater than $150,000,000 at 4:00 PM ET on the calendar day after the token’s launch. (Market text supplied by you.)
+- Concretely, for the market to resolve YES one of these must occur:
+  - The token must be tradable publicly, and the most liquid observable price at 4:00 PM ET on day+1 must imply FDV > $150M; OR
+  - If a primary sale price implies an FDV exactly equal to $150M, secondary market trading must push the effective market price above that sale price by day+1.
+- Conversely, NO occurs if Reya never becomes publicly tradable by Dec 31, 2026, 11:59 PM ET, or if it is tradable but the market-implied FDV at the referenced time is ≤ $150M.
 
-A. Authoritative primary facts
-- CoinList sale terms (primary source) show: token price $0.01875, total supply 8,000,000,000, FDV $150,000,000, and 50% unlock at TGE. This establishes the pre-sale baseline and the important equal-to-$150M boundary. This is the anchor for resolution logic. ([coinlist.co](https://coinlist.co/reya))
-- Reya’s official site and docs present tokenomics and ongoing activity (live product, trading app, docs, and token design pages). Reya has active blog/docs updates through March 2026 but I did not find an official, dated TGE/launch announcement on their blog or docs that says the token has already been minted and publicly listed. That leaves the TGE/listing timing uncertain from official channels. ([reya.xyz](https://reya.xyz/))
-- Market-data aggregator (CoinGecko) shows REYA as “not yet available for trading” / price not live on tracked exchanges, indicating no broad, public market price existed at the time of lookup. That implies the market’s 4:00 PM ET one‑day‑after price would likely come from a narrow or nascent source (thin DEX pool or single CEX), increasing volatility/manipulation risk. ([coingecko.com](https://www.coingecko.com/hr/coins/reya?utm_source=openai))
+2) EVIDENCE EVALUATION — what I found and how it bears on the question
 
-B. Reports that could move the probability materially (but require scrutiny)
-- Multiple crypto news/aggregation outlets reported Reya was targeting a Token Generation Event in the final week of March 2026 and, in some articles, quoted an FDV target or press messaging implying an FDV up to $300M at TGE. If true and if the listing price is set (or supported in pre-market) at an FDV materially above $150M, that would raise the YES probability substantially. However these reports appear in secondary crypto news aggregators and press-republishers (e.g., Bloomingbit/CoinNess/Bitget news pages) and I could not find a direct Reya primary-post (blog/docs/X pinned tweet with an explicit, dated $300M TGE price) on the official site or docs. That weakens the credibility of the $300M claim and suggests it could be speculative reporting or based on an unconfirmed target. ([en.bloomingbit.io](https://en.bloomingbit.io/feed/news/105805/?utm_source=openai))
+Key project facts (most load-bearing)
+- Reya’s official documentation and token pages report tokenomics and allocations; multiple sources report a total token supply of 8,000,000,000 REYA and that a token sale was offered at $0.01875 per REYA (which implies an FDV of $150M at that price). ([docs.reya.xyz](https://docs.reya.xyz/reya-token/allocation-and-release-schedule?utm_source=openai))
+- Reporting on the token sale (CoinList sale) states 160 million tokens (2% of supply) were offered on CoinList at $0.01875 (sale terms reported publicly). These accounts also report a TGE / unlock schedule where ~50% is unlocked at TGE and the remainder unlocks over months, which is material for short-term price pressure. ([egw.news](https://egw.news/crypto/news/30657/new-sale-on-coinlist-reya-network-launches-reya-to-CdSm_VngQ//?utm_source=openai))
+- Reya’s CoinList project page and official site present the project as a high-performance trading venue with investor/backer mentions in coverage (reporting lists Framework Ventures, Coinbase Ventures among backers), which is relevant to demand expectations. ([coinlist.co](https://coinlist.co/reya?utm_source=openai))
 
-C. Market-structure and tokenomics considerations that argue against a high listing FDV
-- Large unlock at TGE (50% of CoinList allocation unlocked at TGE plus community allocations and possible airdrops) typically produces sell pressure from initial sale participants and airdrop recipients, tending to pressure price down vs. presale/implied valuation unless there is heavy buy-side demand at listing. The CoinList page documents the 50% unlock that makes significant supply available at TGE. ([coinlist.co](https://coinlist.co/reya))
-- No confirmed major exchange listings or wide aggregator price as of March 2026 lookup (CoinGecko shows token not tradeable). Without broad liquidity, a single thin market can be volatile and is less likely to sustain a >$150M FDV immediately. ([coingecko.com](https://www.coingecko.com/hr/coins/reya?utm_source=openai))
+What supports the market price being reasonable (bearish for >$150M)
+- The primary sale price directly implies FDV = $150M. For the market outcome to be YES, the secondary/most-liquid price must be above that sale price on day+1; that requires either strong unmet demand or buying pressure immediately after TGE. The default/neutral expectation after a sale that fixes a price is that secondary markets trade at or below the sale price once immediate unlock/supply and selling pressure are accounted for (sale buyers and team unlocks can add sell pressure). The reported 50% unlock at TGE is a clear mechanism that can depress early secondary prices. ([egw.news](https://egw.news/crypto/news/30657/new-sale-on-coinlist-reya-network-launches-reya-to-CdSm_VngQ//?utm_source=openai))
+- Reya’s token allocation gives significant shares to community, team and investors; token release schedules (team/investor locks vs some immediate unlocks) create both factors for supportive demand (community allocations/airdrops) and for potential selling. The details matter for short-term price. (Source: Reya docs). ([docs.reya.xyz](https://docs.reya.xyz/reya-token/allocation-and-release-schedule?utm_source=openai))
 
-D. Source credibility and recency
-- CoinList (sale page) is the primary, authoritative record of the sale terms and FDV implied by that sale — high credibility. ([coinlist.co](https://coinlist.co/reya))
-- Reya official site/docs/blog are primary official channels (high credibility for product state and tokenomics), but I found no explicit dated TGE announcement/price on those pages as of the lookup. ([reya.xyz](https://reya.xyz/))
-- CoinGecko is a reliable exchange-aggregation indicator of whether a price is broadly available. It showed REYA as not tradable. ([coingecko.com](https://www.coingecko.com/hr/coins/reya?utm_source=openai))
-- Bloomingbit/CoinNess/other crypto outlets reporting a March‑end TGE at $300M are secondary sources; they may have sourced a press release or a company comment, but absent a direct Reya primary announcement I treat them as lower‑credibility signals that warrant verification. ([en.bloomingbit.io](https://en.bloomingbit.io/feed/news/105805/?utm_source=openai))
+What suggests upside (bullish for >$150M)
+- Project momentum claims (high on-chain trading volume, product traction, prominent backers mentioned in press) would support a scenario where secondary markets trade at a premium to sale price if demand greatly exceeds supply available to trade. Reya’s site and coverage present strong usage metrics and institutional backing that could plausibly generate buying pressure. ([reya.xyz](https://reya.xyz/?utm_source=openai))
+- A small public float offered in a sale (2% of supply) can lead to higher secondary-market prices if demand is concentrated among traders who value onchain product utility more highly than sale price—especially if community airdrops/utility drive immediate uptake. The small float is reported (160M / 8B = 2%). ([egw.news](https://egw.news/crypto/news/30657/new-sale-on-coinlist-reya-network-launches-reya-to-CdSm_VngQ//?utm_source=openai))
 
-E. Bullish vs bearish takeaways (balanced)
-- Bullish: oversubscription and institutional backers (Framework, Coinbase Ventures, Wintermute reported in coverage) plus active product and on‑chain trading could generate strong demand at listing and push FDV > $150M. Reports of a March‑end TGE and higher targeted valuation (if confirmed) would be a concrete bullish input. ([reya.xyz](https://reya.xyz/))
-- Bearish: sale price implies exactly $150M FDV and 50% unlocked at TGE — classical setup for initial downward pressure; no confirmed public listing or broad liquidity yet (CoinGecko shows no trading price); secondary news claims of $300M TGE lack a clear primary-source confirmation. That supports the market's low probability (18%) of being above $150M one day after launch. ([coinlist.co](https://coinlist.co/reya))
+Source credibility and recency
+- The Reya docs (docs.reya.xyz) and CoinList project page are primary/official sources for token supply, allocations, and sale structure — high credibility for tokenomics facts. ([docs.reya.xyz](https://docs.reya.xyz/reya-token/allocation-and-release-schedule?utm_source=openai))
+- News articles (WEEX, egw.news, bsc.news and similar) are secondary but report the official sale terms; they are timely (~Nov–Dec 2025 reporting) and consistent with the official docs. These are useful for summarizing sale timing and market commentary, but some are smaller crypto outlets so they are secondary to Reya’s docs/CoinList. ([weex.com](https://www.weex.com/news/detail/reya-has-revealed-the-tokenomics-and-will-conduct-a-token-sale-on-coinlist-234187?utm_source=openai))
 
-F. Skeptical question: if it's that clear that FDV will be >$150M, why hasn't the market priced it?
-- Because the baseline sale-implied FDV is $150M (equal to the threshold), a large unlocked supply, lack of confirmed listing details, and absence of visible pre-market pricing make a >$150M listing outcome uncertain. If insiders expected a clear >$150M listing, we should see public announcements, exchange listing confirmations, pre-market prices, or at least a direct Reya statement about a targeted listing price; those are not present (or not found on primary channels), which explains the low market probability.
+Skeptical notes (why “too obvious” evidence might already be priced)
+- The clearest single fact — sale price implies FDV = $150M — is public and would be obvious to any trader. If a market participant expected a >50% chance of a premium above sale price on day+1, they could and likely would have traded the market. The current market probability of 18% implies traders do not expect a significant premium by day+1; that is plausible given typical immediate sell pressure after token sales and the reported unlock schedule. In short: the dominant public facts (sale price, supply, unlock schedule) argue that >$150M is the non-default outcome and are likely well-known to anyone pricing this market.
 
-3) MARKET EFFICIENCY ANALYSIS — is the 18% price justified?
-- Reasonable interpretations that justify 18%:
-  - The CoinList sale set the baseline FDV = $150M; the market requires ">" not "≥", so the sale price alone does not produce YES. Given 50% unlock and likely selling pressure at TGE, a modest chance exists that market demand outstrips selling and pushes the FDV above $150M, but that chance is not large.
-  - No confirmed listing or price sources as of lookup. If the most liquid price source on the resolution day is a narrow DEX pool or a single small CEX, the probability of a sustained FDV > $150M is lower; the market is likely discounting this.
-- Could the price reflect only one or a few traders? Possibly: low total volume ($0 reported in the market metrics) and a tight spread (2¢) suggests an automated market maker or a liquidity provider is setting quotes; in thin pre-market events a single participant can anchor the price. But the quoted 18% is plausibly a consensus mid-point given the information set (sale terms, no confirmed listings, mixed press).
-- Is low volume because outcome is obvious? No — for this market, outcome is inherently uncertain until TGE and listing liquidity are known. Low volume likely reflects that few traders want to take a speculative view at this stage (or regulatory/US trading frictions), not that the outcome is obvious.
+3) MARKET EFFICIENCY ANALYSIS — interpreting the market price and liquidity
+- Market observed metrics: Age 113d, Total Vol $0, Price 18%, Spread 4¢. Total volume = $0 and a tight spread with a non-trivial age implies the quoted price is likely set by one or a very small number of traders and is not being actively challenged or arbitraged. That raises the possibility the displayed price is not a robust aggregation of many informed participants. (This is consistent with low-volume markets generally.)
+- Reasonable interpretations that justify the current 18% price:
+  - Traders expect secondary price to equal or be slightly below sale price due to significant immediate unlock/float and post-TGE selling — thus P(FDV > $150M) is low.
+  - Traders are uncertain about exact TGE timing or whether a public tradable market will exist at day+1 (if timing were ambiguous, markets discount the probability of a fast, higher-price listing).
+  - The price may reflect the view of a single liquidity provider assigning a conservative probability, not a diverse consensus — consistent with $0 volume.
+- Is low volume because the outcome is obvious? No — the outcome hinges on short-term secondary market dynamics (demand vs immediate unlocked supply) and on launch/timing specifics; that creates real uncertainty and suggests low trading volume is more likely due to investor inattention or small investor pool than because the outcome is trivial.
 
-4) MISPRICING ASSESSMENT — conclusion on whether credible mispricing exists
-- Bottom line: I do not find specific, credible, primary‑source evidence that the market is missing which would justify concluding a large (>20¢) mispricing. The authoritative sale terms and the equal-to‑threshold FDV, the substantial unlock at TGE, and the lack of confirmed public listing or market price all plausibly justify a low probability of FDV > $150M one day after launch. The secondary reporting (Bloomingbit/CoinNess) about a March‑end TGE and a $300M FDV target is noteworthy, but I could not locate a directly attributable Reya announcement (e.g., a dated blog post or pinned X post stating the $300M listing price). Until that primary confirmation appears, the market's low price looks defensible.
-- Critical check: I have re‑read the resolution criteria — because the sale price implies FDV exactly equal to $150M, the market needs >$150M at the quoted resolution time. That nuance is essential and likely already recognized by traders; it works in favor of the market's low YES probability. ([coinlist.co](https://coinlist.co/reya))
+4) MISPRICING ASSESSMENT — do we have credible evidence the market is mispriced?
+- Summary of the situation: official sale price implies FDV = $150M exactly; the market requires FDV > $150M to resolve YES. Therefore the question reduces to: will the most liquid secondary-market price one day after launch be above the sale price?
+- Evidence for a large positive mispricing (i.e., market understates chance of >$150M): requires credible signs of exceptional post-TGE demand or extremely constrained float at launch that would push secondary price above the sale price despite 50% unlock at TGE. I did not find primary-evidence of such extraordinary demand (for example, oversubscription numbers, exchange-queued buy walls, or explicit post-TGE market-making commitments guaranteeing above-sale pricing). The sources report typical sale parameters (small float, partial unlock) but do not report dramatic excess demand that would almost certainly have been visible in coverage. ([egw.news](https://egw.news/crypto/news/30657/new-sale-on-coinlist-reya-network-launches-reya-to-CdSm_VngQ//?utm_source=openai))
+- Evidence for the market being reasonably priced (i.e., no clear mispricing): the public facts — sale price = implied $150M FDV, 50% unlock at TGE, small public float — logically make it more likely that secondary markets will trade at or below sale price on day+1, not substantially above. Those facts are public and credible (official docs, CoinList listing). Thus the 18% market probability that a premium appears by day+1 is reasonable and not obviously too low or too high. ([docs.reya.xyz](https://docs.reya.xyz/reya-token/allocation-and-release-schedule?utm_source=openai))
+- Additional uncertainty: I could not find definitive public confirmation (in the sources I consulted) that the token was publicly tradable on a particular date and what the day+1 price actually was. Because that would immediately resolve the market, its absence suggests either the TGE/tradability event did not happen in a way that satisfies the market’s resolution criteria, or that it did but was not widely covered. This ambiguity is itself consistent with the market’s conservative pricing.
 
-5) EXPECTED VALUE CALCULATION (estimate of the value of further investigation / alpha)
-- Strength of evidence that the market is missing an obvious bullish fact (primary‑source TGE price or confirmed exchange listing that implies FDV > $150M): low-to-moderate — I assign 25% (there are multiple secondary articles claiming a March TGE and higher FDV, but no primary Reya confirmation found). ([en.bloomingbit.io](https://en.bloomingbit.io/feed/news/105805/?utm_source=openai))
-- Magnitude of potential mispricing if that bullish fact were true and the market currently prices 18%: suppose a fair probability should be 50% instead of 18% — that's a 32 percentage-point gap ⇒ 32 cents magnitude. This is a high-case scenario. A more conservative plausible upside (market underpricing by 10–15 percentage points) corresponds to 10–15 cents.
-- Expected value (strength × magnitude): using a conservative, realistic estimate: 25% × 7 cents (I treat 7 cents as a plausible modest mispricing magnitude given the uncertainty) = 1.75 cents.
-EXPECTED_VALUE: 1.8
+Critical-check / possible missing interpretations
+- If the token had already become publicly tradable and the FDV at the relevant time had been >$150M, this market should already have resolved; because the market remains open and low-volume, that suggests the token was either not tradable in a way that meets the resolution rules or that day+1 pricing was ≤ $150M. I did not find authoritative coverage showing a day+1 FDV > $150M. (If you want, I can run extra searches to directly locate day-of-listing price history on CoinGecko/CoinMarketCap or centralized exchange orderbooks to check this conclusively.)
+- It’s also possible that traders possess private information about buy-side commitments or market-making that could influence day+1 pricing; I found no public evidence of such guarantees.
+
+5) EXPECTED VALUE CALCULATION (estimate of investigating/acting on this market)
+- Strength of evidence that relevant information is missing from the current market price: I rate this medium–low. The key public facts (sale price => FDV $150M, supply 8B, 50% TGE unlock, small float) are public and likely already considered by traders. Score: ~40%.
+- Magnitude of plausible mispricing if market is wrong: because the sale price anchors FDV = $150M, any realistic mispricing is likely small (market is at 18% vs a reasonable “true” probability maybe 15–30%). A plausible upper bound for the absolute mispricing magnitude is ~10–20 cents (i.e., 0.10–0.20 USD on a 0–1 price scale) in extreme scenarios; a more realistic magnitude is smaller, ~5–10 cents. I’ll choose a conservative plausible magnitude = 10 cents.
+- Expected value = Strength × Magnitude = 0.40 × 10 cents = 4.0 cents.
 
 6) CONFIDENCE
-- I assign medium confidence. The reasoning relies on authoritative sale terms (CoinList) and official Reya docs/blogs (which don’t show a confirmed TGE listing price) plus aggregator indicators (CoinGecko). Secondary news items claiming a $300M target raise a credible possibility of upside, but lack direct primary-source confirmation; that leaves moderate uncertainty. ([coinlist.co](https://coinlist.co/reya))
+- Overall confidence in this assessment: medium. Primary official sources are available and consistent, but I could not definitively confirm (from the searched sources) whether a day+1 tradable market existed and what its price was — that residual uncertainty prevents high confidence. If you want I can run additional targeted searches (e.g., CoinGecko / CoinMarketCap / exchange price history for REYA) to close that gap.
 
-SHORT SUMMARY (for a notification)
-- The market’s 18% probability appears reasonable given the CoinList sale-implied FDV = $150M (which equals the threshold, not greater-than), a 50% TGE unlock (likely sell pressure), and no confirmed, primary‑source listing or market price as of the lookup. Secondary press that mentions a March‑end TGE and higher FDV exists but was not corroborated on Reya’s primary channels. I find insufficient primary-source evidence to conclude a clear mispricing large enough to exploit. ([coinlist.co](https://coinlist.co/reya))
+Bottom-line conclusion
+- There is NOT strong public evidence of a large mispricing. The most important facts (8B total supply, sale price $0.01875 → implied FDV $150M, 160M sold / 2% float, 50% unlock at TGE) are public and make the market’s conservative probability (18%) plausible. Low trading volume means the quoted probability may reflect a single trader’s view rather than a broad consensus, but I did not find credible public evidence that a materially higher probability of FDV > $150M on day+1 was being overlooked. So the prudent conclusion is: insufficient evidence of large mispricing; small chance of moderate mispricing exists, expected value ~4.0 cents.
 
+EXPECTED_VALUE: 4.0
+SUMMARY: Official tokenomics and CoinList sale terms imply FDV = $150M at the sale price and a small public float with 50% unlock at TGE, which makes a day‑1 premium unlikely; low market volume suggests the quoted 18% may reflect few traders, but I found no strong public evidence of a large mispricing. Additional targeted price-history checks (CoinGecko/CoinMarketCap/exchange orderbooks) could further reduce uncertainty.  
 CONFIDENCE: medium
 
 ---
@@ -79,27 +88,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Reya - CoinList](https://coinlist.co/reya)
+### [Reya – The First Based Rollup DEX on Ethereum](https://reya.xyz/)
 **Author:** Unknown | **Published:** Unknown
 
-CoinList’s Reya sale page lists the sale terms (token price $0.01875, allocated supply 160,000,000 REYA, total supply 8,000,000,000, 50% unlock at TGE) and states a Fully Diluted Value of $150,000,000. This is the primary, authoritative source for the presale price and the baseline FDV that matters for the market’s resolution; it shows the sale-implied valuation equals the market’s cutoff (so a listing would need to exceed the sale-implied price to resolve YES). This supports the market’s conservatively low probability because sale price = threshold and unlocked supply at TGE increases potential selling pressure. ([coinlist.co](https://coinlist.co/reya))
+Reya’s official website describes the protocol, product roadmap, and claims about volume and usage. It links to tokenomics information and describes the project’s positioning as a high-performance trading venue. This source is relevant because it documents the project’s public narrative and product traction, which are inputs to whether secondary-market demand might push token price above the sale price. It supports the view that the project has product claims and backer visibility that could create demand, but does not itself show day‑1 pricing outcomes. ([reya.xyz](https://reya.xyz/?utm_source=openai))
 
-### [Reya – The First Based Rollup DEX on Ethereum](https://reya.xyz/)
-**Author:** Reya (official) | **Published:** Unknown
+### [Reya has revealed the Tokenomics and will conduct a Token Sale on CoinList | WEEX Crypto News](https://www.weex.com/news/detail/reya-has-revealed-the-tokenomics-and-will-conduct-a-token-sale-on-coinlist-234187)
+**Author:** theblockbeats.news (via WEEX) | **Published:** 2025-11-20
 
-Reya’s official website describes the live product (perps DEX, trading app), partner/backer claims, and links to tokenomics and docs. The site is an official source showing ongoing product activity and pointing to tokenomics details, but it did not contain a clear, dated TGE/listing price statement at the time of lookup. That absence is important: while the project is active, I could not find an explicit primary announcement confirming a TGE price above $150M, which reduces confidence in secondary reports that claim a much higher FDV at TGE. ([reya.xyz](https://reya.xyz/))
+Reports Reya’s tokenomics: total supply 8 billion REYA; distribution breakdown; a CoinList sale of 160M tokens at $0.01875 each (implying FDV $150M); and an unlock schedule where 50% unlocks at TGE and remaining unlocks over months. This source summarizes the sale terms and unlock mechanics that are directly relevant to short-term price pressure and thus to whether FDV would exceed $150M one day after launch. It supports the conclusion that sale terms create downward price pressure risk and therefore that a >$150M FDV is not the default outcome. ([weex.com](https://www.weex.com/news/detail/reya-has-revealed-the-tokenomics-and-will-conduct-a-token-sale-on-coinlist-234187?utm_source=openai))
 
-### [What Is Reya — Docs](https://docs.reya.xyz/)
-**Author:** Reya (official) | **Published:** Unknown
+### [Reya Network $REYA Token Sale on CoinList: Launch Details, Pricing & Participation Guide](https://egw.news/crypto/news/30657/new-sale-on-coinlist-reya-network-launches-reya-to-CdSm_VngQ//)
+**Author:** Unknown | **Published:** 2025-11-20
 
-Reya’s documentation and token/design pages provide context about the protocol, the REYA token, and token design/allocations (linked in the docs). The docs confirm the token is defined in their official materials and show the project’s stated tokenomics; however, the docs did not present a confirmed, dated TGE listing price or final launch listing venue at the time of lookup. That makes it hard to verify press claims about a $300M listing target, and supports treating aggregator reports cautiously. ([docs.reya.xyz](https://docs.reya.xyz/))
+Reports the CoinList sale terms: token price $0.01875, total supply 8B, 160M tokens sold (2%), FDV $150M, TGE scheduled Q4 2025, and an unlock schedule (50% at TGE, 50% over 6 months). This corroborates the sale parameters reported elsewhere and is used to show the direct relationship between the sale price and the $150M FDV threshold the market cares about. It also highlights the small sale float, a key factor for potential day‑1 price moves. ([egw.news](https://egw.news/crypto/news/30657/new-sale-on-coinlist-reya-network-launches-reya-to-CdSm_VngQ//?utm_source=openai))
 
-### [Reya — CoinGecko (REYA page)](https://www.coingecko.com/hr/coins/reya)
-**Author:** CoinGecko (Unknown page author) | **Published:** Unknown
+### [Reya - CoinList](https://coinlist.co/reya)
+**Author:** CoinList (site) | **Published:** Unknown
 
-CoinGecko’s REYA page lists the token and explicitly indicates that REYA tokens were not yet available for trading on tracked exchanges at the time of the snapshot. This is a useful market-data check: the absence of an exchange-listed price implies that, as of the lookup, there was no broad, liquid price feed that would determine FDV one day after launch — increasing the chance that the resolution price would come from thin liquidity, which markets typically discount. ([coingecko.com](https://www.coingecko.com/hr/coins/reya?utm_source=openai))
+CoinList’s project page for Reya lists the project and sale terms (as the platform hosting the sale). As the sale host, CoinList is an authoritative source on listing/sale mechanics; this page is relevant for confirming that a formal sale was run and for the official token sale terms that anchor the $150M FDV claim. It provides primary confirmation of sale mechanics and is more authoritative than third‑party reporting. ([coinlist.co](https://coinlist.co/reya?utm_source=openai))
 
-### [Reya: "Building ultra-fast derivatives trading infrastructure ..." (Bloomingbit / press-like report)](https://en.bloomingbit.io/feed/news/105805/)
-**Author:** Bloomingbit Newsroom | **Published:** 2026-02-10
+### [Reya Token Allocation & Release Schedule (docs)](https://docs.reya.xyz/reya-token/allocation-and-release-schedule)
+**Author:** Reya (documentation) | **Published:** Unknown
 
-This crypto-news piece reports that Reya said it planned a Token Generation Event targeting the final week of March 2026 and describes an implied valuation (some outlets mentioned $300M FDV). The article also repeats claims about Reya’s high trading volumes and backers. Because it asserts a later/alternate FDV and a TGE timing, it is a potentially market-moving secondary source; however, without a directly attributable primary Reya announcement (blog or pinned social post with the specific price), the report is best treated as suggestive but not conclusive. Its existence is why continued monitoring of Reya’s primary channels is valuable. ([en.bloomingbit.io](https://en.bloomingbit.io/feed/news/105805/?utm_source=openai))
+Reya’s official docs describe token allocation, release schedule and design/utility of REYA. This primary document reports the total supply and allocations (community, investors, team, etc.) and the lock/unlock schedules that materially affect short-term circulating supply and selling pressure. It is a principal source for assessing whether immediate post‑TGE market price is more likely to be above or below the sale-implied FDV. ([docs.reya.xyz](https://docs.reya.xyz/reya-token/allocation-and-release-schedule?utm_source=openai))

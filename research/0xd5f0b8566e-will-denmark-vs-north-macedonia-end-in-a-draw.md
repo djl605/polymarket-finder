@@ -1,7 +1,7 @@
 # Research: Will Denmark vs. North Macedonia end in a draw?
 
 **Market ID:** 0xd5f0b8566e0cbffc05a3ae3b911f857c74e1d98ca4aee79ceaae2193fb2be301
-**Researched At:** March 12, 2026 at 06:22:17 PM UTC
+**Researched At:** March 20, 2026 at 04:24:48 AM UTC
 **Search Query:** "Will Denmark vs. North Macedonia end in a draw?"
 
 ---
@@ -9,66 +9,82 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.2¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Bookmakers and public data (UEFA, Transfermarkt, Goal, ESPN) imply a draw probability similar to this market’s 18%; injuries and the playoff single‑leg format slightly shift probabilities but do not create evidence of a large misprice. Low trading volume means the market could be corrected by a single informed trader, but right now the price appears broadly reasonable.
+The market’s 24.5% draw probability is modestly higher than bookmaker-aggregated draw odds (bookmakers imply the draw is in the high teens percent), suggesting a possible small mispricing (≈5–6 cents). Given the single-leg playoff tactical factors and very low market volume ($732), the gap could reflect one or a few traders or legitimate tactical uncertainty rather than a clear arbitrage.
 
 ### Full Analysis
 
-Context analysis
-- Market question: "Will Denmark vs. North Macedonia end in a draw?" — i.e., will the full‑time result (90 minutes + stoppage) be a draw on Thu Mar 26, 2026 at Parken, Copenhagen. The market will resolve YES only if the match finishes level (or if the match is canceled with no make‑up game per the market description). ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/))
+Plan & searches used
+- I ran targeted web searches to (a) confirm the fixture, competition and match details, (b) collect bookmaker-implied odds, and (c) gather reputable match previews / form context. (Search budget: 3 web.run calls; sources used are UEFA match page, Sky Sports match page, Oddschecker, Oddspedia and ESPN fixture listings.)
 
-1) CONTEXT ANALYSIS
-- What would make the market resolve YES: the final 90‑minute scoreline must be level (0‑0, 1‑1, 2‑2, etc.), or the match must be canceled entirely with no make‑up. Anything else (Denmark win, North Macedonia win, match played to completion with a winner) resolves NO. The governing organizer’s official match statistics (UEFA / competition organiser) is the primary resolution source. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/))
+1) CONTEXT ANALYSIS — What the market is asking and exact resolution conditions
+- Market question: "Will Denmark vs. North Macedonia end in a draw?" The market resolves to Yes if the 90+ stoppage-time score is a draw; No if one team is leading at the end of the 90+ stoppage time. The market also resolves to Yes if the match is canceled with no make-up; postponed means the market stays open until the completed match. (Match is a single-leg play-off semi-final on 26 March 2026; winner advances to Path D final.) ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/))
 
-2) EVIDENCE EVALUATION (relevant findings)
-A. Evidence that supports the market price being reasonable
-- Bookmakers’ pre‑match prices imply a draw probability very close to the market's 18% (examples: OddsChecker aggregated markets list the draw at around +425 / +430 in US market displays — implied probability ≈ 18–20%). That indicates professional sportsbooks see the draw chance in roughly the same range as this market. This is a strong contemporaneous market signal. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia))
-- Denmark are clear favorites at home: across betting markets Denmark is the strong moneyline favorite and bookmakers list Denmark as far more likely to win than a draw or North Macedonia win, consistent with Denmark’s higher squad market value and home advantage. Transfermarkt and other team pages show Denmark materially higher market value and depth, which supports a lower draw probability. ([transfermarkt.com](https://www.transfermarkt.com/spiel/index/spielbericht/4770093))
+What would need to happen for YES vs NO:
+- YES: the scoreboard shows the same goals for both teams when the referee ends the regulated 90 minutes plus stoppage time (including the cancellation-with-no-makeup condition the market explicitly lists).
+- NO: either Denmark or North Macedonia are leading at the final whistle of the 90+ time period.
 
-B. Evidence that could push the true draw probability higher than 18%
-- Injuries / absences: Transfermarkt flags missing Denmark players (Jonas Wind, Patrick Dorgu, Andreas Christensen) before the fixture; absences to forward(s) or center‑backs can alter win/draw dynamics and slightly raise the draw chance if Denmark’s offense or defense is weakened. Transfermarkt’s public listing of “missing players” is a direct indicator bettors and modelers use to adjust probabilities. ([transfermarkt.com](https://www.transfermarkt.com/spiel/index/spielbericht/4770093))
-- Playoff knockout structure may increase cautious tactics: single‑leg playoff semi‑finals can incentivize conservative play from either side (underdog defends deep; favourite reluctant to over‑commit), which can increase draw likelihood versus a routine league match. This is a qualitative factor — it raises prior probability of a low‑scoring/close game, though it doesn’t by itself quantify a big move.
+2) EVIDENCE EVALUATION — Relevant facts and how they bear on draw probability
 
-C. Evidence that could push the true draw probability lower than 18%
-- Denmark’s overall squad quality and home advantage make a Denmark win most likely; bookmakers’ moneyline implies Denmark win probability much higher than draw. Denmark’s superior market value and home environment are concrete reasons the draw probability should be smaller than the favorite’s loss probability. ([transfermarkt.com](https://www.transfermarkt.com/spiel/index/spielbericht/4770093))
-- North Macedonia’s form is mixed (some notable wins but also heavy defeats), and they are the underdog away — an underdog that concedes pressure is less likely to produce a draw if beaten. Goal.com notes the sides have met few times historically (three senior meetings with 1 draw), so H2H doesn’t imply an unusually high draw tendency. ([goal.com](https://www.goal.com/en/news/denmark-north-macedonia-tickets/blt25eeab34f49a6a95))
+Key factual anchors I found
+- Official fixture and competition context: This is a UEFA/FIFA World Cup qualification play-off semi-final on 26 March 2026 at Parken (Copenhagen). Stakes: single‑leg elimination; winner advances to the Path D final (31 Mar). ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/))
+- Bookmakers/odds aggregators show Denmark a clear favorite and imply a draw probability materially below the market price: OddsChecker lists Denmark around -300 / draw +430 (American) on its page for this fixture, which implies a draw probability roughly in the high-teens percent range (roughly 17–19% implied by the varied bookmaker quotes shown). Odds aggregators (Oddspedia / others) show similar favourite/underdog lines. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia?utm_source=openai))
+- Team form snapshots: Denmark’s listed recent results include mixed scorelines (wins and some draws/losses) while North Macedonia has a mix including a heavy 1–7 defeat to Wales and several 0–0 or 1–1 results; on paper Denmark is stronger but North Macedonia can be defensively stubborn at times. These previews and form lists appear in mainstream sports previews (Sky Sports / ESPN listings). ([skysports.com](https://www.skysports.com/football/denmark-vs-north-macedonia/550189))
 
-Source credibility & recency
-- UEFA match page (official competition/venue info) is primary and highly credible. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/))
-- Odds aggregation / bookmaker feeds (OddsChecker) are timely market signals and credible for pricing; they reflect actual moneyline and draw odds available to bettors. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia))
-- Transfermarkt is a widely used public data source for squad lists, market values and reported injuries (useful but not an official federation medical release — treat as secondary). ([transfermarkt.com](https://www.transfermarkt.com/spiel/index/spielbericht/4770093))
-- Goal.com and ESPN provide context (venue, tickets, schedule and narrative) and are reputable sports journalism sources for context and recent form. ([goal.com](https://www.goal.com/en/news/denmark-north-macedonia-tickets/blt25eeab34f49a6a95))
-- MacedonianFootball (national‑focus site) reported the North Macedonia coach appointment and is useful for team news; treat it as a credible local reporting source for management changes. ([macedonianfootball.com](https://macedonianfootball.com/ffm-chose-goce-sedloski-as-new-national-team-coach/))
+Evidence that suggests the market price (24.5%) might be too high (i.e., draw over-priced)
+- Bookmaker-implied probabilities are the clearest objective comparator: aggregated book prices show the draw priced (across major books) at roughly the high‑teens percentage range (OddsChecker shows draw as large underdog relative to Denmark), so the prediction-market probability of 24.5% is ~5–7+ percentage points above the bookmaker-implied draw probability. Bookmakers are relevant because they aggregate heavy liquidity and professional risk management; a meaningful gap versus them can indicate a mispriced market. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia?utm_source=openai))
+- On-paper strength differential: Denmark are the stronger team at home and bookmakers treat them as the clear favorite (home win probability implied ~70–75%); stronger-favorite matches tend to have lower draw probabilities than matches between evenly-matched sides, which argues the true draw probability may be below 24.5%. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia?utm_source=openai))
+
+Evidence that supports the current market price (24.5%) as reasonable
+- Knockout single-leg format & strategic incentives: this is a do-or-die semi; teams may adopt risk-averse/cautious tactics to avoid conceding a decisive goal in 90 minutes (especially underdogs who prefer to take their chance into extra time/penalties). Single-leg, high-stakes ties often raise the baseline chance of a draw at 90 minutes compared with ordinary group matches because both sides can settle into low‑risk gameplans. That dynamic would push draw probability higher than a simple strength-based model. (This is not directly quantified in the public resources I found, but it’s widely used logic in match previews and bookmaker markets and is likely already priced to some extent by bookmakers and informed bettors.) ([skysports.com](https://www.skysports.com/football/denmark-vs-north-macedonia/550189))
+- North Macedonia’s recent run includes several low-scoring draws and defensive resilience in some away fixtures — that profile increases the chance of a low‑scoring draw in a cautious away plan. Sky Sports form listing highlights several 0–0/1–1 results for North Macedonia. ([skysports.com](https://www.skysports.com/football/denmark-vs-north-macedonia/550189))
+
+Source credibility and recency
+- UEFA match page and Sky Sports / ESPN fixture pages are authoritative and recent match-level sources for scheduling, competition type, and form. OddsChecker and Oddspedia aggregate current bookmaker lines and are standard references for current betting prices. These sources are credible for the specific facts cited (fixture, bookmakers’ lines, recent form). ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/))
 
 Skepticism about “obvious” evidence
-- If the result were truly obvious (e.g., Denmark unbeatable), bookmakers and many large bettors would push draw prices even lower. The fact that large, liquid sportsbooks still quote a non‑trivial draw probability (~19–23% across books at time of checking) suggests the market consensus accounts for the tactical playoff nature and injury noise — i.e., the draw chance is not being ignored.
+- Bookmaker lines reflect both probability and the bookmakers’ desire to manage book exposure (and include vigorish), so direct comparison must consider overround and market-making incentives. However, the aggregated lines still provide a useful reference for the market consensus among professionally priced liquidity.
 
-3) MARKET EFFICIENCY ANALYSIS
-- The market’s current 18% price sits very close to aggregated bookmaker implied draw probabilities (OddsChecker shows draws in that band). That concordance is a strong signal that the prediction market price is consistent with professional betting markets and not an extreme outlier. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia))
-- Low total trading volume ($0) and a narrow spread (4¢) indicate either (a) an automated market maker seeded at a bookmaker‑like price and no traders yet engaged, or (b) a single liquidity provider created the market and set a plausible price. The lack of trading reduces confidence that a broad set of informed participants has actively endorsed the price — but it does not by itself show the price is wrong, because external markets (bookmakers) already reflect similar pricing.
-- It’s plausible the price reflects genuine consensus among modelers and bookmakers (home favorite + playoff incentives + a few Denmark injuries), rather than the idiosyncratic view of a single uninformed trader. The alignment with bookmakers argues the market is not wildly off.
+3) MARKET EFFICIENCY ANALYSIS — How to interpret the market price and liquidity
+- Market metrics: Age 20 days; total volume $732; current price 24.5%; spread 5¢. Low volume and a narrow spread suggests the price could be set by a small number of traders and may not reflect broad liquidity. Low volume increases the chance the market reflects a single informed (or misinformed) player's view rather than a consensus.
+- Reasonable interpretations that justify 24.5%:
+  - Traders may be pricing in conservative, knockout-match tactics (increasing 90‑minute draw probability relative to league matches).
+  - Some traders may be including the cancellation-or-other edge-case resolution rule (market states canceled-with-no-makeup resolves to Yes), though that event is very unlikely — this would only justify a tiny uplift.
+  - The market could be reacting to private or near‑private information (late injury news, lineup hints) not publicly visible yet; with only a few traders, such info could push the price away from bookmakers’ aggregated public odds.
+- Could the price reflect a single player? Yes — low total volume ($732) makes this plausible. The narrow spread suggests limited order depth rather than broad engagement.
+- Is low volume because outcome is obvious or because informed traders haven't engaged? Given there is still uncertainty (single-leg play-off, some plausible tactical conservatism) but bookmakers are offering lines and many bettors follow the fixture, the low volume more likely reflects market participants overlooking this particular prediction‑market contract (rather than the outcome being obvious). Bookmakers show active markets with significant liquidity, while this prediction market shows very low activity.
 
-4) MISPRICING ASSESSMENT
-- Is there concrete, credible evidence the market is mispriced? No clear, high‑confidence evidence of a large misprice. Bookmakers and public data sources support a draw probability in the same ballpark as 18%. Injuries to Denmark raise the draw probability slightly, but bookmaker prices already appear to incorporate similar information.
-- Potential missing information that could produce mispricing: a surprise late lineup omission or an official injury release that materially changes Denmark's attack or North Macedonia’s keeper availability. Those would be time‑sensitive and, if present, could justify >5‑10 cent price movement — but I found no authoritative public evidence of such a late shock as of my checks.
-- The market’s special resolution rule (market resolves YES if the match is canceled with no make‑up) slightly biases the “YES” payoff relative to pure draw probability — but the cancellation probability for a scheduled international fixture at Parken is negligible, so this mechanic adds only a tiny amount to the implied YES price and does not materially explain a large deviation. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/))
+4) MISPRICING ASSESSMENT — weighing the evidence
+- Numerical comparator: odds aggregators put draw odds at about +430 / decimal ~5.3 in several books (OddsChecker entry), implying draw probability roughly 17–19% (book-specific decimals vary). Market probability = 24.5%. Raw gap ≈ 5–7.5 percentage points (i.e., 5–7.5 cents). ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia?utm_source=openai))
+- Interpretation:
+  - If bookmakers’ aggregated lines are close to the market-implied true probability (after adjusting for vigorish and market-maker margins), the market price is meaningfully higher than book consensus — evidence of a modest mispricing.
+  - Offsetting factors limiting confidence in labeling it mispriced:
+    - The single‑leg knockout format plausibly raises the draw probability relative to standard-match priors; bookmakers should already account for that, but they may differently weight it. Some fraction of the gap (a few points) could be explained by tactical concerns, lineup uncertainty or late information that is not reflected in the bookmaker line snapshot.
+    - Bookmaker lines are themselves not truth—they reflect both probability and the market they face. Sharp books (Pinnacle etc.) are better probability references than retail books; I did not find a direct Pinnacle quote in the quick searches, so some uncertainty remains in which book is most "correct."
+- Critical self-check (per the instructions):
+  - Do I fully understand the exact resolution? Yes: draw in first 90+ stoppage time = YES. Market text and UEFA match details confirm that. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/))
+  - Could I be missing a technicality? The market includes the cancel/no-makeup => Yes clause. That clause would tend to slightly raise the Yes probability, but cancellation is extremely unlikely; it cannot plausibly explain a 5–7 point gap.
+  - Most charitable interpretation of bookies/traders: bookmakers aggregate heavy liquidity and likely have considered tactics/lineups and have set draw lower; so the market premium likely reflects either a small number of traders taking a different tactical view or private information / hedging behavior rather than a large, obvious mispricing.
 
-5) EXPECTED VALUE CALCULATION (investigation value)
-- Strength of evidence that a mispricing exists (i.e., evidence not already priced in by bookmakers/models): moderate — I estimate ~40%. Reason: bookmakers already price similarly, and public squad/injury news mostly marginally move probabilities; nothing found suggests a large unpriced edge.
-- Magnitude of plausible mispricing if present: small — I estimate up to ~3 cents (0.03 probability) at most. Bookmakers’ draw odds and public injury news suggest any gap is likely low single digits of percentage points (1–4 p.p.), not tens of points.
-- Expected value = Strength × Magnitude = 0.40 × 3 cents = 1.2 cents.
+Conclusion on mispricing
+- There is credible evidence the prediction market is somewhat overpricing a draw relative to the bookmaker consensus (gap ≈ 5–7.5 percentage points). However, the gap is modest and could be (a) partly explained by legitimate tactical reasons for this specific single-leg play-off, (b) due to bookmaker margin/overround differences, or (c) the product of low liquidity and one or a few traders’ views.
+- I therefore do not find overwhelming, conclusive evidence of a large mispricing. The evidence supports a modest mispricing possibility (on the order of a few to ~6 cents), but not a large or certain arbitrage.
 
-6) CONFIDENCE / CRITICAL CHECK
-- I double‑checked resolution criteria (90 minutes + stoppage; cancelled with no make‑up counts YES) and verified match date/venue and bookmaker pricing. There is no evidence that the match already occurred or that a technicality makes the market's resolution conditions different from the ordinary draw outcome. The most charitable explanation for the current price is that it reflects bookmaker consensus plus a small margin for cancellation/other edge cases; nothing credible indicates a large (>20¢) mispricing. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/))
+5) EXPECTED VALUE CALCULATION — numeric estimate
+- Magnitude of mispricing candidate: raw gap market minus odds-aggregator implied draw ≈ 24.5% − ~18.9% (OddsChecker book snapshot) ≈ 5.6 cents. Reasonable range ~5–7.5 cents depending on which bookmaker quote you use. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia?utm_source=openai))
+- Strength of evidence (how likely this gap reflects true mispricing vs explained by other factors): I assess ~45% confidence the market is genuinely mispriced by this entire gap (because bookmakers are credible but not perfect, tactical knockout effects could be partly priced in the market, and low-liquidity market makes one-sided orders likely).
+- Expected value (Strength × Magnitude) = 0.45 × 5.6 cents ≈ 2.5 cents expected value.
+- Rounded/expressed as cents for the REQUIRED single-line output below: 2.5
 
-Conclusion (short)
-- The market price (18%) is consistent with bookmaker consensus and with the public facts (home favorite Denmark, but some Denmark absences and tactical playoff incentives). Given the $0 traded volume, the market has low liquidity and may be vulnerable to correction if new information appears, but there is currently no strong, specific evidence of a material mispricing.
+6) CONFIDENCE
+- My confidence in this assessment: medium. The bookmaker consensus vs prediction-market gap is the main evidence; it’s credible but modest and could be explained by several plausible factors. I did not find public, verifiable late-breaking lineup or injury information that would decisively justify the market premium above bookmakers, but such private/late info could exist and would change the conclusion.
 
-EXPECTED_VALUE: 1.2
-SUMMARY: Bookmakers and public data (UEFA, Transfermarkt, Goal, ESPN) imply a draw probability similar to this market’s 18%; injuries and the playoff single‑leg format slightly shift probabilities but do not create evidence of a large misprice. Low trading volume means the market could be corrected by a single informed trader, but right now the price appears broadly reasonable.
+FINAL REQUIRED LINES (exact order and format)
+EXPECTED_VALUE: 2.5
+SUMMARY: The market’s 24.5% draw probability is modestly higher than bookmaker-aggregated draw odds (bookmakers imply the draw is in the high teens percent), suggesting a possible small mispricing (≈5–6 cents). Given the single-leg playoff tactical factors and very low market volume ($732), the gap could reflect one or a few traders or legitimate tactical uncertainty rather than a clear arbitrage.
 CONFIDENCE: medium
 
 ---
@@ -77,32 +93,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Denmark vs North Macedonia | Match info | European Qualifiers 2026 | UEFA.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/)
+### [Denmark-North Macedonia | European Qualifiers 2026 | UEFA.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/)
 **Author:** Unknown | **Published:** Unknown
 
-Official UEFA match page for Denmark v North Macedonia (Parken, Copenhagen) with match info, line‑ups and press kits. This is the authoritative schedule and venue source and directly ties to the market’s resolution (the market resolves based on official match statistics from the governing body). It confirms the fixture date and location, and that official competition statistics are the primary resolution source — important for understanding what counts as a draw for the market. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047080--denmark-vs-north-macedonia/matchinfo/))
+UEFA’s official match page for Denmark v North Macedonia confirms the fixture is a European Qualifiers (World Cup play-off) semi-final on 26 March 2026 and lists the match context, squad/line-up sections and match info. This is the authoritative source for the competition type, date, and the fact that the tie is single‑leg and advances the winner to the Path D final — information that defines the market’s resolution conditions and the strategic incentives that affect draw probability. It supports the context analysis and the “stakes/tactics” argument in the efficiency assessment.
 
-### [Denmark v North Macedonia Betting Odds | OddsChecker](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia)
+### [Denmark vs North Macedonia Score, H2H & Form – 26th March 2026 – Sky Sports](https://www.skysports.com/football/denmark-vs-north-macedonia/550189)
 **Author:** Unknown | **Published:** Unknown
 
-Odds aggregation showing moneyline and draw odds across multiple sportsbooks (draw listed in the mid‑+300s/+400s American range, implying ~18–23% draw probability). This is the principal market‑pricing evidence: bookmakers’ implied draw probability is the primary comparator to the prediction‑market price and supports the inference that an ~18% draw probability is plausible. It also shows Denmark as heavy favorite, supporting a low draw probability. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia))
+Sky Sports match centre lists match time, venue (Telia Parken), recent form entries for both teams and head‑to‑head context. The form table shows Denmark as favored by results and North Macedonia with multiple low‑scoring draws and a heavy defeat vs Wales, informing the assessment that Denmark is stronger on paper while North Macedonia can be defensively compact — both facts relevant to estimating draw likelihood. Sky Sports’ betting link and previews also show the pre-match narrative that supports cautious/defensive planning in a play-off.
 
-### [How to get Denmark vs North Macedonia World Cup Qualifier tickets: March 26 fixture, prices & more | Goal.com](https://www.goal.com/en/news/denmark-north-macedonia-tickets/blt25eeab34f49a6a95)
-**Author:** Rob Norcup | **Published:** 2026-02-25
-
-Ticketing and match preview article listing the fixture date/time, venue (Parken) and recent form notes (Denmark’s group campaign, North Macedonia’s recent heavy loss to Wales). It also summarizes the head‑to‑head history (three senior meetings) and notes context such as the playoff stakes. This provides journalistic context that informs tactical expectations and the plausibility of a low but non‑negligible draw probability. ([goal.com](https://www.goal.com/en/news/denmark-north-macedonia-tickets/blt25eeab34f49a6a95))
-
-### [Denmark - North Macedonia, 26/03/2026 - World Cup qualification Playoffs - Match sheet | Transfermarkt](https://www.transfermarkt.com/spiel/index/spielbericht/4770093)
+### [Denmark v North Macedonia Betting Odds | oddschecker](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/denmark-v-north-macedonia)
 **Author:** Unknown | **Published:** Unknown
 
-Transfermarkt match page with squad / market value comparisons, last meetings, and a "Missing players" section. It lists Denmark absences (Jonas Wind, Patrick Dorgu, Andreas Christensen) reported ahead of the match window. These reported absences are relevant because they can shift win/draw probabilities (injury to attacking or defensive starters can change expected goals and therefore draw chance). Transfermarkt is a widely referenced public data source for such roster/injury indicators. ([transfermarkt.com](https://www.transfermarkt.com/spiel/index/spielbericht/4770093))
+OddsChecker aggregates retail bookmaker lines for the fixture and (at time of lookup) lists Denmark as around -300 and the draw at +430 (American) or equivalent decimal odds in the mid‑5 range, implying a draw probability in the high‑teens percent (roughly ~17–19%). These aggregated bookmaker quotes are the primary objective comparator used to evaluate whether the prediction-market draw price (24.5%) is unusually high; the OddsChecker snapshot supports the conclusion that the prediction market is priced noticeably above mainstream bookmaker consensus.
 
-### [FFM chose Goce Sedloski as new national team coach | MacedonianFootball.com](https://macedonianfootball.com/ffm-chose-goce-sedloski-as-new-national-team-coach/)
-**Author:** Filip Zdraveski | **Published:** 2025-12-22
-
-Local reporting that Goce Sedloski was appointed North Macedonia head coach (December 22, 2025). Coaching changes can affect team tactics and short‑term preparedness; this source confirms the coaching situation and that Sedloski would lead North Macedonia for the March playoff (useful context when assessing tactical approach and possible team improvements). ([macedonianfootball.com](https://macedonianfootball.com/ffm-chose-goce-sedloski-as-new-national-team-coach/))
-
-### [Denmark 2026 FIFA World Cup Qualifying - UEFA Schedule - ESPN](https://www.espn.com/soccer/team/fixtures?id=479&league=FIFA.WORLDQ.UEFA)
+### [Denmark vs North Macedonia Betting Odds (comparison) | Oddspedia](https://oddspedia.com/football/denmark-north-macedonia-1632598)
 **Author:** Unknown | **Published:** Unknown
 
-ESPN fixtures page showing Denmark’s schedule including the Mar 26, 2026 match vs North Macedonia; useful as an independent sports media confirmation of date/time and competition context. It supports the timeline used in the market and that the match is a high‑stakes World Cup qualifying playoff tie (single‑leg semi‑final). ([espn.com](https://www.espn.com/soccer/team/fixtures?id=479&league=FIFA.WORLDQ.UEFA))
+Oddspedia provides bookmaker comparisons and shows similar lines (Denmark favored, draw significantly less likely than Denmark win) and lists the kick-off timing for March 26, 2026. It corroborates the odds-aggregation view that the draw is priced substantially below 24.5% by most bookmakers. This supports the magnitude estimate of the gap between the prediction market and book prices.
+
+### [Denmark 2026 FIFA World Cup Qualifying - Fixtures | ESPN](https://www.espn.com/soccer/team/fixtures?id=479&league=FIFA.WORLDQ.UEFA)
+**Author:** Unknown | **Published:** Unknown
+
+ESPN’s fixtures listing confirms the Denmark v North Macedonia fixture on 26 March 2026 as part of the FIFA World Cup Qualifying play-offs and provides a complementary scheduling/fixture reference. This corroborates the competition and timing and helps verify the short timeline (match in six days as of March 20, 2026), which is relevant to the assessment of how much late information could change the market price.

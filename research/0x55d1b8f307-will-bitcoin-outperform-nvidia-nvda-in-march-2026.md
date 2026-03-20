@@ -1,7 +1,7 @@
 # Research: Will Bitcoin outperform NVIDIA (NVDA) in March 2026?
 
 **Market ID:** 0x55d1b8f3078730b14213f48ec74b5153352d776dcee84bffe9a7c3a4910cdef4
-**Researched At:** March 12, 2026 at 04:15:16 AM UTC
+**Researched At:** March 20, 2026 at 04:19:32 AM UTC
 **Search Query:** "Will Bitcoin outperform NVIDIA (NVDA) in March 2026?"
 
 ---
@@ -9,101 +9,80 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.5¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-The evidence suggests both Bitcoin and Nvidia have credible near-term upside and risk, with no clear sign of large mispricing in the current prediction market’s 55% “Yes” price. The market appears reasonably balanced given recent data and catalysts.
+Public evidence (notably strong early‑March spot‑BTC ETF inflows and a BTC price surge) makes BTC outperformance in March 2026 plausible, while NVDA’s very strong late‑February earnings and GTC/AI momentum provide a credible counter. Given the market’s low volume, the 79.5% price could reflect a small number of traders rather than broad consensus; I find modest expected value (≈3.2¢) to trade on a view that BTC’s advantage is already priced too optimistically.
 
 ### Full Analysis
 
-Here is a structured, objective assessment of the prediction market asking:
+Plan and constraints
+- I used the allowed web searches to collect recent price-history and news relevant to Bitcoin and NVIDIA in March 2026, and to verify the exact resolution mechanics described by the market. I excluded prediction-market sites per your instruction and focused on primary/established financial and news sources.
+- Budget: 3 web.run queries were used to collect price-history and contemporaneous news (sources listed below).
 
-“Will Bitcoin outperform NVIDIA (NVDA) in March 2026?”
+1) CONTEXT ANALYSIS — what this market actually asks
+- Question paraphrase: Will Bitcoin outperform NVIDIA (NVDA) in percentage price change over March 2026?
+- Exact resolution mechanics the market uses (important technical points that change interpretation):
+  - Bitcoin (BTC) performance = percent change between the Binance BTC/USDT "Close" at the 1-minute candle for 12:00 AM ET on March 1, 2026 and the Binance BTC/USDT "Close" for the 1‑minute candle at the last day of March 2026 (ET timezone). Binance 1‑minute candles are the resolution source for BTC.
+  - NVIDIA (NVDA) performance = percent change between the WSJ-reported official NVDA Close for the last trading day before March 2026 (i.e., the last NYSE/Nasdaq trading day in February 2026) and the WSJ-reported Close for the last trading day of March 2026. (If market-close data are missing, the market uses the last regular-session trade price.)
+  - The market resolves to YES only if BTC's March percent change is strictly greater than NVDA's March percent change (exact ties resolve to NO).
+- What must happen for YES vs NO:
+  - YES: BTC’s percentage gain during March (Binance minute-close comparison) must exceed NVDA’s percentage gain for March (WSJ close-to-close comparison). Because BTC trades 24/7 and the times used are specific 1-minute candles, intra‑day moves around those exact minutes matter. NVDA uses market close days (regular US market trading days), so differences in time-of-day alignment and exchange liquidity matter.
+  - NO: NVDA’s March percent change is greater than or equal to BTC’s.
 
----
+2) EVIDENCE EVALUATION (items found and how they move the probability)
+Note: I focused on high-relevance, recent items (news, flows, and historical price snapshots) for March 2026.
 
-### 1. CONTEXT ANALYSIS
+A — Evidence that supports BTC outperforming NVDA (i.e., evidence supporting the market price = YES)
+- Strong ETF flows into spot Bitcoin ETFs in early March 2026 coincided with a price surge for BTC in early March. Multiple crypto-industry reports in March 2026 cite large daily and weekly inflows (hundreds of millions across U.S. spot BTC ETFs) that materially supported BTC upside in early March. (These inflows increase the probability that BTC will produce a strong positive March return, particularly early in the month when flows clustered.) Sources: crypto news coverage and ETF flow trackers in early March 2026. (See sources.)
+- BTC tends to display large, concentrated percentage moves in short windows (24/7 market) that can produce outsized monthly returns relative to an individual high-cap stock; when ETF flows are concentrated, BTC monthly returns can exceed big-cap equity moves on a percentage basis.
+- As of March 1, 2026, Bitcoin was materially higher than its February lows (CoinGecko / Investing.com historical snapshots show BTC in the mid‑$60k range on March 1), so a further continuation in March driven by ETF demand could produce a positive monthly return that outstrips NVDA’s return if NVDA is flat or down.
 
-- The market resolves **“Yes”** if Bitcoin's percentage price change for March 2026 exceeds Nvidia’s percentage change, measured as defined in the market description using Binance and WSJ data.
-- For **“Yes”** to happen: Bitcoin must gain more (or lose less) in percentage terms during March than Nvidia.
-- For **“No”**: Nvidia’s percentage return must exceed Bitcoin’s.
+B — Evidence that supports NVDA outperforming BTC (i.e., evidence that would argue the market price is wrong)
+- NVIDIA reported very strong fiscal results in late February 2026 (press release, AP, Axios coverage). That strong earnings print and positive guidance (and related commentary at GTC mid‑March) are typical catalysts for continued stock strength into the following month; NVDA often posts large percentage moves around earnings and product events. Positive earnings momentum and product/AI event coverage could produce continued outperformance in March. (See Axios/AP/NVIDIA press release.)
+- NVDA is a high‑liquidity, high‑volume equity with strong institutional involvement; an earnings/fundamentals-driven rally can produce a large month gain that would make BTC’s outperformance less likely.
+- The market uses WSJ official closes for NVDA: because NVDA's trading occurs only on market days and the reference days are specific, NVDA’s percent-change calculation may favor NVDA if close-to-close moves around month-end are positive (and traders may already price this).
 
----
+C — Additional nuanced evidence and caveats (time alignment, volatility, and low‑volume market issues)
+- Timing asymmetry: BTC’s comparison uses a Binance 1‑minute candle timestamp (00:00 ET on March 1 and last minute on March 31 ET). NVDA uses WSJ daily closes (end-of-day US market). This asymmetry can create resolution-sensitive edge cases (for example, BTC could spike during the specific 1‑minute candle that counts but otherwise be flat; similarly, NVDA can gap after-hours and the WSJ close rule / fallback matters). Traders who know this might trade around those specific minutes/days; that specific technicality is important and can be under-appreciated by casual bettors.
+- Low total market volume & tight spread: total volume $1,455 and 1¢ spread implies the stated price (79.5%) might be driven by few traders. Low volume increases the chance that the price reflects one or a small number of convictions rather than broad information aggregation.
+- Recency and source credibility: earnings coverage (Axios, AP, NVIDIA press release) are high credibility and recent (late Feb / mid-March 2026). ETF inflow reporting is from crypto news and flow aggregators (Cointelegraph and ETF flow trackers); these are timely but vary in rigor—flows are data-driven but interpretation of flow magnitude’s persistence is judgmental.
+- Skepticism of “obvious” signals: large ETF inflows and an early-month BTC spike are visible in public data; if the spike was that certain to outpace NVDA over the whole month, professional liquidity would likely have traded the mispricing down. The fact that the market still trades at ~79.5% suggests either traders believe BTC’s lead is durable or that few traders have engaged this specific low‑volume contract.
 
-### 2. EVIDENCE EVALUATION
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify a 79.5% price:
+  - Early‑March BTC inflows produced a fast, visible surge. If, by March 20, BTC has already produced a material month‑to‑date gain relative to NVDA, and only ~10 trading days remain, it can be rational to set a high probability that BTC will still finish the month ahead of NVDA — especially if NVDA’s move so far in March is small or negative and NVDA has limited known near-term catalysts left. Traders may be pricing the already-realized MTD advantage plus a view that NVDA won’t catch up in the remaining days.
+  - Investors aware of the timing asymmetry (Binance‑minute vs WSJ close) may think BTC has a path via specific late‑month minute moves (BTC 24/7 market) to secure a stronger month return than NVDA.
+- Could the price reflect one or a few participants? Yes — low total volume ($1,455) makes it plausible that a small number of confident traders set the price. That raises the possibility of a mispricing if larger, informed participants haven’t engaged.
+- Is low volume because outcome is obvious or overlooked? Mixed evidence:
+  - Obvious: If BTC already generated a large positive MTD percentage by March 20 and NVDA had little to no positive movement, the trade may be unsurprising and thus not attract heavy speculative volume (the probability is “obvious”).
+  - Overlooked: Alternatively, because the market’s resolution mechanics are fiddly (Binance 1‑minute timestamp vs WSJ close), many traders avoid small markets like this and let a few set the price.
 
-#### Evidence SUGGESTING possible mispricing (challenging the current ~55% "Yes" implied probability):
+4) MISPRICING ASSESSMENT — do we have credible evidence that the market is mispriced?
+- Summary judgment: There is credible, recent evidence that increases the likelihood BTC will produce a stronger March 2026 percentage return than NVDA (notably large ETF inflows and an early‑month BTC surge). There is also credible evidence that NVDA had strong late‑February earnings and AI‑product momentum that could result in a comparable or superior March return. Given both sides have plausible, publicly observable drivers, and because the market volume is low, there is no smoking‑gun, high‑confidence indication that the market is grossly mispriced.
+- Practical conclusion: The market price of 79.5% in favor of BTC is defensible if:
+  - BTC already has a material month‑to‑date lead (which public historical snapshots for March 1 vs current mid‑March suggest was possible), and traders believe NVDA has limited upside left in the remaining days; or
+  - Traders give extra weight to ETF flows and 24/7 BTC dynamics.
+  If neither of those holds (for example, if NVDA had strong positive MTD performance through mid‑March or there are late-month NVDA catalysts), then 79.5% would be optimistic for BTC and might indicate mispricing. Current public evidence supports a moderate but not conclusive edge favoring BTC.
+- Critical self-check: I did not find a definitive technicality or resolution condition that would automatically invalidate one side (e.g., the qualifying dates already having passed); the resolution criteria and relevant data sources (Binance and WSJ) are consistent with the market description. I therefore do not claim the market is obviously mis-specified.
 
-- **Bitcoin's bright seasonal outlook**: Analysts anticipate March as historically strong—average March return ~+11%, post-halving March ~+15%, and some forecasts targeting $105–$110K or even higher if resistance breaks ([vtrader.io](https://www.vtrader.io/news/bitcoin-price-prediction-march-2026/?utm_source=openai)).
-  This supports bullish Bitcoin momentum, making “Yes” plausible.
-  
-- **Decreasing volatility and institutionalization of Bitcoin**: Bitcoin recorded its **least volatile year on record in 2025** (2.24% daily volatility), steadying its profile versus Nvidia ([strive.com](https://strive.com/documents/FG/strive_bitcoin/news/651621_The_FIduciary_Focus_2026.01.06.pdf?utm_source=openai)). Broader adoption via ETFs continues to fuel a more stable environment ([cointelegraph.com](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise//?utm_source=openai)).
+5) EXPECTED VALUE CALCULATION (estimate of the value of trading on this perceived mispricing)
+- Strength of evidence that price is missing material public information: I assess ~40% (the evidence — large ETF flows helping BTC but NVDA earnings momentum — is real but also already public and likely considered by traders).
+- Magnitude of mispricing (how far price may be from a more objective probability): I estimate the market might be overstating BTC’s edge by ~8 cents (i.e., true probability perhaps ~71.5% vs 79.5%). Rationale: flows and momentum push BTC higher but NVDA’s strong earnings remain a countervailing force; large mispricing seems unlikely given public visibility.
+- Expected value = Strength × Magnitude = 0.40 × 8¢ = 3.2¢
 
-- **Nvidia's heavy bullish positioning**: Clients of Capital.com show extreme bullish skew (92% long) in NVDA CFDs as of early March, possibly indicating crowded optimism which may already be fully priced ([capital.com](https://capital.com/en-int/market-updates/nvidia-stock-forecast-10-03-2026?utm_source=openai)). If market already reflects optimism, further outperformance may be limited.
+6) CONFIDENCE
+- My assessment confidence in the above (given the available public evidence and the low-volume nature of the market): medium.
 
-#### Evidence SUPPORTING the current market price (suggesting “Yes” could be reasonable):
+Concise recommendations (practical)
+- If you are considering a trade against this market price:
+  - Check current month‑to‑date percentage returns for March 1 → today for both assets using the exact resolution sources (Binance 1‑minute candles for BTC/USDT at 00:00 ET on March 1 and WSJ historical closes for NVDA on Feb 27 and the last trading day in March) — small differences in minute/timestamp choice materially change resolution odds.
+  - Because of the low total volume, treat positions as higher execution risk — a few traders can move price back quickly when new information arrives.
+  - If you think BTC’s ETF-driven momentum is persistent and NVDA has little late‑month upside, a modest long‑YES position could have positive expected value per the estimate above; if you think NVDA still has upside (post‑earnings follow‑through or a late-month event), avoid or short YES.
 
-- **Nvidia's extraordinary Q4 earnings**: Record $68.1 billion revenue (up 73% YoY), 75% gross margins, and strong AI demand narrative (“agentic AI inflection”) suggest strong momentum through March ([thestreet.com](https://www.thestreet.com/crypto/markets/nvidia-earnings-sends-mining-stock-tumbling/?utm_source=openai)).
-
-- **Capital.com’s technicals**: NVDA at $182.56 (as of March 5), below SMAs, neutral RSI, reflecting short-term consolidation risks despite long-term strength ([capital.com](https://capital.com/en-int/market-updates/nvidia-stock-forecast-10-03-2026?utm_source=openai)).
-
-- **Concrete catalysts**: Upcoming Nvidia GTC 2026 conference (March 16–19) may deliver fresh product/partnership announcements, potentially boosting momentum—but also risk disappointment ([capital.com](https://capital.com/en-int/market-updates/nvidia-stock-forecast-10-03-2026?utm_source=openai)).
-
-#### Source credibility and recency:
-
-- All sources are from December 2025 to March 2026—highly recent and relevant.
-- Analysts (Bitwise, vTrader) and reputable outlets (Cointelegraph, Forbes, TheStreet, Capital.com) provide credible perspectives.
-
-#### Balanced view:
-
-- **Bullish on Bitcoin**: Seasonal strength, technical architecture, growing institutional flows.
-- **Bullish on Nvidia**: Strong fundamentals, upcoming catalysts, AI leadership.
-- The market could be reasonably pricing in both; low volume leaves room for uncertainty.
-
----
-
-### 3. MARKET EFFICIENCY ANALYSIS
-
-- **Reasonable interpretation of current (~55%) price**:
-  - Reflects modest edge to Bitcoin, perhaps balancing Bitcoin’s seasonal/technical strength versus Nvidia’s revenue and AI momentum.
-  
-- **Could it reflect consensus among informed traders?**
-  - Possibly—low volume suggests a small set of participants; but those active may be informed speculators targeting nuanced drivers rather than consensus crowd.
-
-- **Low volume due to obvious versus overlooked outcomes?**
-  - The contest isn’t obvious—Bitcoin still bears regulatory and volatility concerns, while Nvidia faces macro/China export risks. The modest edge implies a nuanced view, not consensus certainty.
-  - Low volume likely due to niche interest rather than full neglect.
-
----
-
-### 4. MISPRICING ASSESSMENT
-
-- **Evidence missing?**:
-  - No singular data point suggests egregious mispricing; both assets have credible near-term upside and risks.
-  - Bitcoin’s seasonality and technicals appear priced in by the modest over-50% probability.
-  - Nvidia’s fundamentals and upcoming events likely already factored into rational pricing.
-
-- **Timeline uncertainty**:
-  - March is short-term; Both assets still have volatility potential.
-  - Nvidia’s GTC may sway market markedly; Bitcoin could see ETF flows or tax season impacts.
-
-- **Signs of efficiency?** Yes—price indicates a balanced view capturing both sides’ near-term strengths and vulnerabilities.
-
-- **Conclusion**: No compelling evidence of large mispricing (>20 cents). The market price around 55% seems plausible given balanced available information.
-
----
-
-### 5. EXPECTED VALUE CALCULATION
-
-- **Strength of evidence**: High-quality, recent, credible, but do not reveal a clear mispricing—**strength at ~50%**.
-- **Magnitude of mispricing**: Likely small if any. Estimate **~5 cents** potential error (either direction).
-- **Expected value** = 50% × 5 cents = **2.5 cents**.
-
----
-
-EXPECTED_VALUE: 2.5  
-SUMMARY: The evidence suggests both Bitcoin and Nvidia have credible near-term upside and risk, with no clear sign of large mispricing in the current prediction market’s 55% “Yes” price. The market appears reasonably balanced given recent data and catalysts.  
+EXPECTED_VALUE: 3.2
+SUMMARY: Public evidence (notably strong early‑March spot‑BTC ETF inflows and a BTC price surge) makes BTC outperformance in March 2026 plausible, while NVDA’s very strong late‑February earnings and GTC/AI momentum provide a credible counter. Given the market’s low volume, the 79.5% price could reflect a small number of traders rather than broad consensus; I find modest expected value (≈3.2¢) to trade on a view that BTC’s advantage is already priced too optimistically.
 CONFIDENCE: medium
 
 ---
@@ -112,27 +91,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Bitcoin Price Prediction For March 2026 Spring Rally And Q1 Finale](https://www.vtrader.io/news/bitcoin-price-prediction-march-2026/)
-**Author:** Unknown | **Published:** 2026-02-? (last month)
+### [Bitcoin Price History: Download BTC Historical Data | CoinGecko](https://www.coingecko.com/en/coins/bitcoin/historical_data)
+**Author:** Unknown | **Published:** Unknown
 
-Analysts expect March to be seasonally strong for Bitcoin, with average returns of +11%, post-halving +15%, and forecasts clustering around $105K–$110K; resistance break could lead to higher. This supports possible Bitcoin outperformance and justifies bullish probability.
+CoinGecko’s historical-data page shows daily BTC price snapshots (open/high/low/close and volumes). The March 1, 2026 data point is useful for approximating the BTC reference price at the start of March; this supports the assessment that BTC was trading in the mid‑$60k range on March 1, 2026. That historical price informs whether BTC already had a material month‑start base and therefore whether early‑March ETF flows could produce an outsized March return. This source supports the thesis that publicly observable BTC momentum existed entering March (supports BTC-outperform view).
 
-### [Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise](https://cointelegraph.com/news/bitcoin-less-volatile-nvidia-in-2025-as-its-investor-base-diversified-bitwise//)
-**Author:** Martin Young | **Published:** 2025-12-18
+### [Bitcoin Historical Data - Investing.com](https://www.investing.com/crypto/bitcoin/historical-data)
+**Author:** Unknown | **Published:** Unknown
 
-Bitwise projects Bitcoin will remain less volatile than Nvidia into 2026, citing institutional adoption and market maturation—this reduces downside risk for Bitcoin, supporting reasonable pricing of "Yes".
+Investing.com provides daily historical OHLC data for Bitcoin; the March 1, 2026 row (Open ~65,763 / Close ~65,093 per the snapshot) is relevant to calculating month returns for BTC according to a daily perspective and to check whether BTC had an early-March surge. This corroborates CoinGecko/other historical snapshots and supports the observation that BTC had material movement in early March (supports BTC-outperform view).
 
-### [Bitcoin just closed its least volatile year on record]([PDF source])
-**Author:** Unknown | **Published:** 2026-01-06
+### [NVIDIA Stock Price History - Investing.com](https://www.investing.com/equities/nvidia-corp-historical-data)
+**Author:** Unknown | **Published:** Unknown
 
-Reports a record low daily volatility for Bitcoin in 2025 (2.24%), lower than Nvidia historically—reinforces growing stability of Bitcoin potentially pricing upside efficiently.
+Investing.com’s NVDA historical table shows daily closes for late February and March 2026 (for example, Feb 27, 2026 close ~176.38 on one snapshot). These data points let us approximate NVDA’s reference close immediately before March 2026 and NVDA’s MTD performance through mid‑March. The NVDA historicals are critical because the market uses WSJ-reported closes for the stock; together, they indicate that NVDA had large moves around earnings and provide the counterbalance to the BTC case (supports NVDA-outperform view).
 
-### [NVIDIA Stock Forecast | OpenAI $110bn Funding Alliance | Capital.com](https://capital.com/en-int/market-updates/nvidia-stock-forecast-10-03-2026)
-**Author:** Unknown | **Published:** 2026-03-10 (last week)
+### [NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 | NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026)
+**Author:** NVIDIA (press release) | **Published:** 2025-10-26
 
-NVDA trades at $182.56, below key moving averages, neutral RSI; heavy long skew (92%) among clients; upcoming GTC conference may swing sentiment—suggests both bullish and short-term consolidation potential priced in.
+NVIDIA’s own press release (latest corporate results page) documents company results and management commentary. While this press release is for a prior quarter (Q3 FY2026), it is part of the company’s recent reporting cadence; more important for March 2026 is the late‑February 2026 earnings release and related commentary that professional coverage summarized. The press release emphasizes NVIDIA’s revenue/earnings momentum, which is a principal bullish argument for NVDA performance in March (supports NVDA-outperform view).
 
-### [Nvidia earnings sends mining stock tumbling](https://www.thestreet.com/crypto/markets/nvidia-earnings-sends-mining-stock-tumbling/)
-**Author:** Pooja Rajkumari | **Published:** 2026-02-26
+### [Nvidia delivers another quarter of stellar growth amid growing concern over AI economy](https://apnews.com/article/855e9baff355da11f3a0420cca915ac7)
+**Author:** Unknown (AP News) | **Published:** 2026-02-25
 
-Nvidia delivered record Q4 revenue ($68.1B) and margins; strong AI demand narrative likely supports continued momentum—this underpins potential Nvidia outperformance risk to “Yes” outcome.
+Associated Press coverage (Feb 25, 2026) summarizes NVIDIA’s strong quarterly results and management commentary. This independent reporting confirms that NVDA had a strong earnings print in late February 2026 — a core piece of evidence that NVDA could show strong March performance and therefore challenge the high stated probability that BTC will outperform NVDA for March. The AP article is a high‑credibility source for the NVDA fundamental backdrop (supports NVDA-outperform view).
+
+### [Nvidia posts earnings record: Huang says AI's "inflection point has arrived"](https://www.axios.com/2026/02/25/nvda-earnings-nvidia-jensen-huang)
+**Author:** Unknown (Axios) | **Published:** 2026-02-25
+
+Axios summarizes the Feb 25, 2026 NVIDIA earnings release and CEO Jensen Huang’s commentary. This article is timely and reputable; it highlights the strength of NVDA’s results and the positive AI narrative that can support continued NVDA outperformance in March. That reduces the expected size of any BTC‑vs‑NVDA mispricing if traders already priced NVDA strength (supports NVDA-outperform view).
+
+### [Bitcoin ETFs pull in $462M as BTC briefly tops $73K - AssetMarketCap (story citing Cointelegraph)](https://news.assetmarketcap.com/2026/03/05/bitcoin-etfs-pull-in-462m-as-btc-briefly-tops-73k/)
+**Author:** Unknown | **Published:** 2026-03-05
+
+This article reports early-March 2026 large inflows into U.S. spot Bitcoin ETFs and an associated BTC price spike toward the low $70k’s. It cites the underlying Cointelegraph reporting on ETF flows. These reported inflows are the primary public rationale for a BTC March outperformance scenario: concentrated institutional buying via ETFs can push BTC monthly returns materially higher in a short period (supports BTC-outperform view).

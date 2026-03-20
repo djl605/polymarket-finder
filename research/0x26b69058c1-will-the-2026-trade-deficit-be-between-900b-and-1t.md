@@ -1,90 +1,103 @@
 # Research: Will the 2026 trade deficit be between 900B and 1T?
 
 **Market ID:** 0x26b69058c1c2c53a8e439504a8755ce75d469ba3a1c82bca934ea7a46f26529e
-**Researched At:** March 9, 2026 at 04:26:17 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will the 2026 trade deficit be between 900B and 1T?"
+**Researched At:** March 20, 2026 at 04:24:12 AM UTC
+**Search Query:** "Will the 2026 trade deficit be between 900B and 1T?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 17.9¢
 
 ### Summary
 
-All available research pins the 2025 deficit at ~$901 b, implying a strong baseline for 2026 to land within $900 b–$1 t, but forward‐looking uncertainties in policy and growth justify some skepticism. With no clear large forecast missing from the market price, there’s no strong evidence of a major mispricing.
+BEA’s 2025 annual goods & services deficit was $901.5B (already inside the $900B–$1T bracket) and January 2026 monthly data did not show a sustained large widening; these facts make a >50% chance of 2026 landing in $900B–$1T plausible. The current market price (27.5%) appears low versus that baseline, but policy, commodity, and BEA revision risks are legitimate reasons traders could price a low probability; net assessment: moderate evidence of mispricing with estimated EV ≈ 17.9 cents.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether the U.S. annual goods & services trade deficit for 2026, as reported by the BEA/USCB in early 2027, will lie in the bracket [$900 billion, $1 trillion]. A “YES” resolution requires the published figure ≥ $900 b and ≤ $1 t; otherwise it resolves “NO.”
+Plan & high-level approach
+- I used primary official statistics (BEA monthly and annual releases) plus IMF macro projections and a major-wire re-reporting of the BEA December/annual release to evaluate whether the market’s 27.5% price (that 2026’s goods & services deficit will be between $900B and $1T) is plausibly correct or mispriced.
+- I limited web queries to the three permitted searches and excluded prediction-market sites as requested. My analysis below follows your numbered checklist.
 
-2. EVIDENCE EVALUATION  
-Bullish for YES:  
-• All five sources (CNBC, Cryptopolitan, MSN, FinancialContent, dbbnwa) report the 2025 deficit at about $901–902 b, only marginally above $900 b, implying a structural baseline in that range.  
-• Minimal year-over-year change (0.2–0.3% shift from 2024) and continuing large deficits with major partners suggest 2026 could stay within $900 b–$1 t barring major disruptions.  
-Bearish for YES / Bullish for NO:  
-• The DBBNWA article highlights December 2025 import surges (policy–driven stockpiling, higher industrial and capital goods imports) and softer exports, warning that structural imbalances could push the deficit above $1 t in 2026.  
-• No source offers firm projections for 2026, and macro factors (recession risks, trade-policy shifts by the incoming administration, global supply chain shifts) introduce wide uncertainty.  
-Credibility & Recency:  
-• All articles date from Feb 19, 2026—over a year ahead of resolution—and derive from reputable outlets (CNBC, FinancialContent) or aggregators (MSN, Cryptopolitan). They rest on final 2025 data but do not model 2026.  
-• Because they rely solely on 2025 outcomes, they cannot capture 2026 shocks or policy changes.
+1) CONTEXT ANALYSIS — what the market asks and resolution condition
+- The market resolves to YES if the BEA/USCB “U.S. International Trade in Goods and Services” annual 2026 release (the December+Annual 2026 release, expected Feb 2027) reports the annual U.S. goods-and-services deficit strictly between $900,000,000,000 and $1,000,000,000,000 (with the market’s tie rule assigning exact-boundary cases to the higher bracket per the market text). It resolves NO otherwise.
+- Practically: to resolve YES, the BEA published 2026 annual deficit must lie in [$900b, $1,000b). (If the release shows exactly on a bracket boundary the market’s tie rule applies; read the official market text for that nuance.)
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 26.5% price implies traders see just one‐in-four odds that the 2026 deficit will land in the $900 b–$1 t window. This low volume (≈$300 total) suggests little information aggregation.  
-• Reasonable interpretation: informed participants may fear a swing below $900 b if exports rebound strongly, or above $1 t if import surges accelerate—hence they assign low probability to the mid-range outcome.  
-• Alternatively, the price could reflect a single or small consensus of traders betting on volatility rather than central‐tendency.
+2) EVIDENCE EVALUATION — what the data says (key findings)
+Key factual anchors (most load-bearing):
+- BEA annual 2025 result: the 2025 goods & services deficit = $901.5 billion (i.e., already inside the market’s bracket). This is the natural baseline for 2026 expectations. (BEA, Dec & Annual 2025 release). ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025))
+- BEA monthly January 2026: the trade deficit was $54.5 billion in January 2026 (down sharply from December 2025’s $70.3b), showing early-2026 monthly volatility and a lower starting month-of-year. BEA also flagged upcoming methodological revisions (June 2026 annual update) that will revise goods statistics back to 2021. ([bea.gov](https://www.bea.gov/index.php/news/2026/us-international-trade-goods-and-services-january-2026))
+- News coverage noted the December 2025 spike to $70.3b and the 2025 annual total (901.5b); much of December’s swing reflected nonmonetary gold and high‑tech capital goods moves, i.e., some volatility is commodity/product-specific rather than broad-based import demand. ([investing.com](https://www.investing.com/news/economic-indicators/us-trade-deficit-widens-sharply-in-december-goods-trade-gap-highest-on-record-in-2025-4514015?utm_source=openai))
+- IMF/macroeconomic context: IMF staff projections and commentary (2026 Article IV/WEO tables) show the U.S. current-account deficit remains sizable in 2026 but with nuanced movement—the IMF projects large current-account deficits in USD terms in recent vintages, and highlights that macro growth, tariff policy and productivity shifts will affect external balances. (Note: IMF “current account” ≠ BEA goods & services trade balance exactly; it also includes primary income and transfers.) ([imf.org](https://www.imf.org/-/media/Files/Publications/WEO/2025/April/English/tableA.ashx?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-• No specific, credible forward‐looking forecast for 2026 is missing from the price. All sources point to a baseline around $901 b for 2025, which, absent major shocks, suggests >50% chance of a similar 2026 result.  
-• But genuine uncertainty around policy, growth, and global shocks could justify a lower probability for remaining in that narrow band.  
-• We lack evidence of a large (>20¢) mispricing. The market’s low volume and broad uncertainties more likely explain the 26.5% than an unexploited arbitrage opportunity.
+Evidence suggesting the market price might be incorrect (i.e., that the true probability of YES is materially higher than 27.5%)
+- Very recent empirical anchor: 2025 annual was $901.5B (BEA). Because that is already inside the $900B–$1T band, persistence/mean-reversion arguments imply a relatively high prior probability that 2026 remains in the same band absent a major shock. That single-data-point baseline is strong evidence in favor of YES; it suggests the market’s 27.5% is low. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025))
+- January 2026 monthly deficit ($54.5b) was below the 2025 monthly average (~$75.1b), indicating early-2026 outturns could push the annual sum lower than 2025 if that lower pace persists. If traders under-weight the carry-forward of the 2025 annual and early-2026 positive signals, that would imply the market underestimates the chance of ending in the $900b–$1T interval. ([bea.gov](https://www.bea.gov/index.php/news/2026/us-international-trade-goods-and-services-january-2026))
+- The December 2025 spike included nonmonetary-gold volatility and a concentrated tech capital-goods import surge; such idiosyncratic swings increase the chance that annual totals stay near 2025’s number rather than moving strongly above $1T. Reversion from isolated monthly spikes is plausible. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that mispricing exists): 20% (the only forward‐looking insight is that 2025 baseline points to a higher YES probability, but this is weak).  
-Magnitude of mispricing if one‐sided (YES underpriced): 10¢ (worst case).  
-Expected value ≈ 20% × 10¢ = 2¢
+Evidence supporting the market price as reasonable (i.e., why YES might be unlikely / why price could be low)
+- Macroeconomic and policy uncertainty: tariff policy, legal developments, and macro growth dynamics can produce large swings in imports (and thus the goods deficit). News reports and IMF commentary emphasize policy-driven uncertainty in 2025–2026—these are legitimate reasons for traders to assign a lower probability to a narrow bracket. If traders expect strong growth or renewed import surges (or large BEA revisions), the annual deficit could move above $1T or below $900b. ([imf.org](https://www.imf.org/en/news/articles/2026/02/25/cs-02252026-united-states-of-america-staff-concluding-statement-of-the-2026-article-iv-mission?utm_source=openai))
+- BEA announced methodological revisions planned for mid‑2026 that will change historical series back to 2021; market participants may be cautious because such revisions can change the baseline and apparent trend and could make the published 2026 annual fall outside the band after reclassification (though the market’s resolution rules say only the published number in Feb 2027 matters). BEA flagged these revisions explicitly; traders may rationally discount a narrow bracket because of this upcoming uncertainty. ([bea.gov](https://www.bea.gov/index.php/news/2026/us-international-trade-goods-and-services-january-2026))
+- The IMF and other macro forecasters have recently shown sizeable current-account movements; some traders may be mapping those projections to a higher variance for the goods & services deficit (even if that mapping is imperfect). This could justify a lower probability for a narrow $100b band. ([imf.org](https://www.imf.org/-/media/Files/Publications/WEO/2025/April/English/tableA.ashx?utm_source=openai))
 
-EXPECTED_VALUE: 2  
-SUMMARY: All available research pins the 2025 deficit at ~$901 b, implying a strong baseline for 2026 to land within $900 b–$1 t, but forward‐looking uncertainties in policy and growth justify some skepticism. With no clear large forecast missing from the market price, there’s no strong evidence of a major mispricing.  
+Source credibility and recency
+- BEA monthly and annual releases are the primary resolution sources and the highest‑credibility, timely authorities for the statistic in question. These are directly relevant and current (2026 releases). ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025))
+- IMF WEO / Article IV materials are high‑quality macro forecasts that provide context on likely external-balance trajectories and risks; they are relevant for framing uncertainty but do not directly report the BEA goods & services annual figure. ([imf.org](https://www.imf.org/-/media/Files/Publications/WEO/2025/April/English/tableA.ashx?utm_source=openai))
+- Major-wire reporting (e.g., Reuters reprints) accurately summarizes BEA releases and highlights the drivers of monthly swings; useful for interpreting what drove large month-to-month moves (gold, capital goods, tariffs). ([investing.com](https://www.investing.com/news/economic-indicators/us-trade-deficit-widens-sharply-in-december-goods-trade-gap-highest-on-record-in-2025-4514015?utm_source=openai))
+
+3) MARKET EFFICIENCY ANALYSIS — is the ~27.5% price plausible?
+- Charitable interpretation that justifies a low price (27.5%):
+  - Traders may be placing significant weight on: (a) large upside risk that the goods deficit rises above $1T if imports re-accelerate (tariff/legal shifts and late-2025 cap‑goods/demand surges); (b) mid‑2026 BEA methodological revisions that increase measured deficits; or (c) substitution of goods vs services patterns that push the goods & services deficit out of the 900–1T band.
+  - Low volume + small spread implies one or a few informed/active participants may be setting the price—if a single counterparty expects large policy-driven widening (or a BEA revision upward), the market price can reflect that participant’s view rather than a broad consensus.
+- Could the price reflect genuine consensus? Yes: if multiple traders interpret macro outlooks (strong US growth, stronger imports) and upcoming methodology changes as likely to push the 2026 number outside the narrow $900–$1T window, the low price could be market-efficient.
+- Could the price reflect a few traders? Also plausible: total volume ~ $443 and a thin market suggests prices can be set by a small number of positions; the tight spread suggests low transaction costs but not necessarily many participants. Given the available BEA anchors, an efficient market would usually price continuity from 2025 into 2026 with a decent chance of remaining within the $900–$1T band; 27.5% looks low for a broad-consensus case.
+
+4) MISPRICING ASSESSMENT — weighing both sides
+- Baseline (no major shock) expectation: because 2025 = $901.5b, absent major shocks the most straightforward forecast for 2026 is a 2026 annual trade deficit near 2025’s level (i.e., a significant chance of falling in $900b–$1T).
+- Upside and downside risks that could move the annual figure outside the band: tariff/policy changes, commodity price swings (nonmonetary gold, energy), concentrated capital-goods import surges (semiconductors, computers), or a sharp acceleration in U.S. growth that lifts imports.
+- Are traders missing credible information? The strongest counterargument to “market is mispriced” would be that traders are already internalizing tariff-related import swings and BEA revision risk; without knowing traders’ priors it’s plausible they set a low price deliberately.
+- Critical self-check (if calling large mispricing): I verify that the resolution criterion is exactly the BEA annual goods & services deficit for 2026 (it is). I also verified the 2025 anchor and early-2026 monthly data directly from BEA. There is no obvious indexing/definition trick that makes the market’s YES event impossible or already decided — 2026 must be observed in Feb 2027 and could move either way.
+- Bottom line: There is credible evidence that the market underestimates the chance that 2026 will be in $900b–$1T (the single most important datapoint is that 2025 already equals $901.5b and early‑2026 monthly data were not uniformly wider). But there are also plausible reasons (policy and measurement/revision risk, macro import volatility) why traders might rationally assign a low probability. The evidence favors YES > NO, but not overwhelmingly.
+
+5) EXPECTED VALUE CALCULATION (estimate of value of exploiting a mispricing)
+- My subjective, evidence-based judgment of a “true” probability that 2026’s BEA goods & services deficit will fall in $900B–$1T: about 60%. Rationale: 2025 = $901.5b (strong anchor), January 2026 monthly deficit was lower (suggests reversion to lower monthly pace possible), while risks could push it outside the band but require substantial change from 2025. So my point estimate ~60% (0.60).
+- Market probability = 27.5% (0.275). Estimated mispricing magnitude = 0.60 − 0.275 = 0.325 → 32.5 cents of edge.
+- Strength of evidence (confidence that the information I uncovered is not already priced in): I assess ~55% (moderate). Justification: BEA primary data are public and obvious, but traders may still be pricing policy/revision risk; my read is moderately confident but not certain.
+- Expected value = Strength × Magnitude = 0.55 × 32.5c = 17.875 cents ≈ 17.9 cents.
+
+6) CONFIDENCE in the assessment
+- I rate my confidence as: medium.
+- Why medium: the BEA primary data are authoritative and recent (strong basis), but the market’s low volume and possible private information or differing risk assessments about tariffs and BEA revisions mean I cannot be highly confident that the market is mispriced.
+
+Final numerical outputs (required format)
+EXPECTED_VALUE: 17.9
+SUMMARY: BEA’s 2025 annual goods & services deficit was $901.5B (already inside the $900B–$1T bracket) and January 2026 monthly data did not show a sustained large widening; these facts make a >50% chance of 2026 landing in $900B–$1T plausible. The current market price (27.5%) appears low versus that baseline, but policy, commodity, and BEA revision risks are legitimate reasons traders could price a low probability; net assessment: moderate evidence of mispricing with estimated EV ≈ 17.9 cents. 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: U.S. trade deficit totaled $901 billion in 2025 despite Trump's tariffs
-Author: Jeff Cox
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html
-Summary: The U.S. trade deficit in 2025 was approximately $901.5 billion, only slightly below $900 billion, despite efforts by the Trump administration to reduce it through tariffs. Imports and exports both increased slightly from the previous year, with imports reaching $4.33 trillion and exports $3.43 trillion. The deficit remained high, with the largest trade gaps with the EU, China, and Mexico. Given the minimal change from 2024 and ongoing negotiations with trading partners, it is plausible that the 2026 trade deficit could remain within the range of $900 billion to $1 trillion.
+### [U.S. International Trade in Goods and Services, December and Annual 2025](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025)
+**Author:** Unknown | **Published:** 2026-02-19
 
-Title: US trade deficit hits $902 billion in December, above forecasts and one of the largest on record - Cryptopolitan
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.cryptopolitan.com/us-trade-deficit-hits-902-billion-december/
-Summary: The 2025 US trade deficit was approximately $901.5 billion, slightly below $1 trillion, with imports totaling $4.33 trillion and exports at $3.43 trillion. The deficit remained large, driven mainly by significant gaps with the European Union, China, and Mexico. In December 2025, the trade deficit widened to $70.3 billion, higher than forecasts, with increased imports of computer accessories and motor vehicles, and a decline in exports, notably gold shipments. Given the trend of a persistently high deficit and minimal annual change (only a 0.2% decrease from 2024), it is plausible that the 2026 trade deficit could remain within the range of $900 billion to $1 trillion.
+BEA’s Dec/Annual 2025 release provides the official annual figures and breakout for 2025. It reports the 2025 goods & services deficit at $901.5 billion (down $2.1 billion from 2024’s $903.5 billion), plus detailed exhibits showing exports/imports by category and country. This is the central anchor for the market question: because the 2025 annual value is already inside the $900B–$1T bracket, persistence or modest changes in 2026 make a 2026 annual inside that band a plausible baseline. The release also shows which categories (nonmonetary gold, capital goods, natural gas, etc.) caused large month-to-month moves in late 2025, which matters for assessing volatility and the chance of staying in the band. ([bea.gov](https://www.bea.gov/news/2026/us-international-trade-goods-and-services-december-and-annual-2025))
 
-Title: The US trade deficit in 2025 stands at $901B
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.msn.com/en-us/money/economy/the-us-trade-deficit-in-2025-stands-at-901b/ar-AA1WFKm3
-Summary: The article reports that the US trade deficit in 2025 is projected to be approximately $901 billion. This figure indicates a substantial trade gap, which could influence expectations for the 2026 trade deficit. Given the current level, if economic conditions, trade policies, and global market trends remain similar, it is plausible that the 2026 trade deficit might also fall within the range of $900 billion to $1 trillion. However, future fluctuations depend on various factors such as changes in trade policies, economic growth rates, and international trade dynamics.
+### [U.S. International Trade in Goods and Services, January 2026](https://www.bea.gov/index.php/news/2026/us-international-trade-goods-and-services-january-2026)
+**Author:** Unknown | **Published:** 2026-03-12
 
-Title: FinancialContent - US Trade Deficit Surges to $70.3 Billion in December, Defying Forecasts and Testing Economic Resilience
-Author: By:
-   MarketMinute
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://markets.financialcontent.com/stocks/article/marketminute-2026-2-19-us-trade-deficit-surges-to-703-billion-in-december-defying-forecasts-and-testing-economic-resilience
-Summary: The December 2025 U.S. trade deficit surged to $70.3 billion, contributing to a total annual deficit of approximately $901.5 billion for 2025. Despite a slight decrease from the previous year's $903.5 billion, the year-end figures indicate persistent structural imbalances and rising import costs. The deficit increase was driven by higher imports—particularly in industrial supplies and capital goods—and a decline in exports, especially non-monetary gold. Given these trends, the 2026 trade deficit is likely to remain within the range of $900 billion to $1 trillion, assuming current import and export patterns continue without significant policy changes.
+BEA’s January 2026 monthly release reports the January 2026 goods & services deficit at $54.5 billion (down from December’s $70.3b), monthly exports and imports, and announces upcoming methodological revisions (June 2026 annual update) that will revise goods statistics back to 2021. The January figure is relevant because it provides the earliest 2026 signal: a lower January deficit suggests the annual pace may not necessarily exceed 2025; the revision notice is also relevant because traders may be pricing revision risk into expectations for the published 2026 annual. ([bea.gov](https://www.bea.gov/index.php/news/2026/us-international-trade-goods-and-services-january-2026))
 
-Title: U.S. Trade Deficit Surge Sets 2026 Tone
-Author: 
-Published Date: 2026-02-19T00:00:00.000Z
-URL: https://www.dbbnwa.com/articles/u-s-trade-deficit-surge-sets-2026-tone/
-Summary: The December 2025 U.S. trade deficit widened sharply, with the overall annual figures for 2025 nearly matching those of 2024, indicating ongoing volatility driven by fluctuating import volumes and policy uncertainties. The surge was mainly due to increased goods imports, as companies preempted policy shifts and tariff changes, while exports remained softer. For 2026, this trend suggests continued unpredictability in trade flows, prompting businesses to focus on flexible supply chains, diversification, and real-time visibility. Given the recent data, the trade deficit is unlikely to fall within the $900 billion to $1 trillion range, as the trend points toward a deficit potentially exceeding that, influenced by ongoing import surges and policy impacts.
+### [US trade deficit widens sharply in December; goods trade gap highest on record in 2025 (Investing.com summary of BEA/Reuters reporting)](https://www.investing.com/news/economic-indicators/us-trade-deficit-widens-sharply-in-december-goods-trade-gap-highest-on-record-in-2025-4514015)
+**Author:** Unknown (Investing.com) | **Published:** 2026-02-19
 
+This news summary reports the BEA/Census December 2025 release: a jump to a $70.3 billion monthly deficit in December and annual 2025 total (901.5b). It highlights that much of December’s widening was driven by specific items (nonmonetary gold movements and tech capital-goods imports). This external reporting corroborates the BEA narrative that some of the large monthly swings may be idiosyncratic rather than structural—supporting the possibility of reversion and thus a higher prior probability the annual 2026 value stays near 2025’s number. ([investing.com](https://www.investing.com/news/economic-indicators/us-trade-deficit-widens-sharply-in-december-goods-trade-gap-highest-on-record-in-2025-4514015?utm_source=openai))
 
+### [IMF World Economic Outlook / Current Account tables (WEO data and staff commentary)](https://www.imf.org/-/media/Files/Publications/WEO/2025/April/English/tableA.ashx)
+**Author:** Unknown | **Published:** 2025-04-01
+
+IMF WEO data tables and related staff commentary provide multi-year projections for current-account balances (in USD and percent of GDP). The WEO and IMF Article IV commentary (staff statements in early 2026) indicate the U.S. current-account deficit remains substantial in 2026 and emphasize how growth, tariffs, and policy choices can materially affect external balances. These sources are relevant for assessing macro drivers and risks (e.g., if stronger growth pushes imports up, or policy changes alter trade flows), though IMF “current account” figures include income and transfers and are not identical to BEA’s goods & services trade deficit. The IMF projections therefore add context about plausible variance but are not a direct substitute for BEA’s trade statistic. ([imf.org](https://www.imf.org/-/media/Files/Publications/WEO/2025/April/English/tableA.ashx?utm_source=openai))

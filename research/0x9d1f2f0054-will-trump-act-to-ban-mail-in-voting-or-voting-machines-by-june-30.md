@@ -1,7 +1,7 @@
 # Research: Will Trump act to ban mail-in voting or voting machines by June 30?
 
 **Market ID:** 0x9d1f2f0054e31e702ab533a0f6ab859c7640523eb0ded5454c393938331fe054
-**Researched At:** March 15, 2026 at 04:37:42 AM UTC
+**Researched At:** March 20, 2026 at 04:26:46 AM UTC
 **Search Query:** "Will Trump act to ban mail-in voting or voting machines by June 30?"
 
 ---
@@ -9,75 +9,69 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 8.0¢
 
 ### Summary
 
-Public evidence shows the Trump White House is actively pursuing executive and legislative paths to restrict mail‑in voting and certain voting machines; courts have already blocked major parts of a previous elections executive order. Given the market’s rules (which count executive action even if later enjoined), the current price (~59.5%) is broadly reasonable and I find only a small, uncertain edge (~2 cents).
+President Trump signed a broad executive order (March 25) directing agencies to restrict mail‑in ballot practices and to change voting‑machine guidance; multiple courts have blocked large parts of that order and legal scholars say the president lacks unilateral authority. Because the market explicitly counts blocked actions and the EO exists, there is moderate evidence the market understates the chance of a qualifying executive action — but legal blocking and plausible alternative readings of th
 
 ### Full Analysis
 
+Plan and scope
+- Questions I need answered: (a) Has President Trump already taken any federal action (executive order or legislation) that would count under the market’s resolution language? (b) What did that action say/attempt to do (mail‑in ballots, machine rules)? (c) Have courts or agencies blocked or limited that action? (d) What do constitutional and expert analyses say about the president’s authority to ban or effectively prevent mail‑in voting or voting machines? Answers to these determine whether the market’s current probability (59.5%) is plausible or likely mispriced.
+
+Summary answer (short)
+- There is clear, contemporaneous evidence that President Trump issued a sweeping executive order on elections (March 25, 2025) that directed federal agencies and the Election Assistance Commission to adopt rules that would restrict mail‑in ballot practices (e.g., require ballots received by Election Day) and change guidance for voting machines. Federal judges have already blocked major parts of that order in multiple lawsuits, and legal experts and civil‑rights groups say the president lacks unilateral authority to force states to end mail voting or to ban machines. Under the market’s resolution text (which explicitly counts executive actions even if later blocked), the existence of the March 25 executive order is highly relevant and plausibly counts toward a “Yes” resolution — but the platform’s resolution language, legal blocking, and common trader uncertainty create real ambiguity that can justify a mid‑range market price. Overall I assess moderate evidence the market understates the probability that a qualifying executive action exists (but not strong, unambiguous proof of a large mispricing).
+
 1) CONTEXT ANALYSIS
-- What the market asks: whether President Donald J. Trump will sign any federal legislation or perform any executive action that inhibits mail‑in voting or voting machines for use in the 2026 midterm election by 11:59 PM ET on June 30, 2026. Per the market rules, either a federal statute or any executive action that “restricts, limits, or prohibits” mail voting or voting machines qualifies — and the market will resolve “Yes” even if the action is later delayed, suspended, or blocked by courts.
-- What must happen for a YES: by June 30, 2026 the administration must take a concrete federal step (signed law or an executive action / directive / EO / emergency declaration / agency rule / other presidential action) whose effect is to inhibit mail‑in voting or voting machines being used for the 2026 midterms. Because the market’s resolution rules count executive action even if later stayed or enjoined, a signed EO or public presidential declaration that imposes or directs restrictions likely meets the criteria, even if it is immediately litigated.
-- What must happen for a NO: no federal statute is signed and no qualifying executive action is taken by the president that would inhibit mail ballots or voting machines for the 2026 midterms by the June 30, 2026 deadline.
+- What the market is asking: “Will Donald Trump sign federal legislation or perform any executive action that inhibits mail‑in voting or voting machines from use for the 2026 midterm election by June 30, 2026, 11:59 PM ET?”
+- What must happen to resolve YES vs NO:
+  - YES: By 2026‑06‑30 the president must have either (A) signed federal legislation, or (B) performed an executive action that in some way restricts, limits, or prohibits mail‑in voting or voting machines for the 2026 midterms. Per the market description, such an executive action counts even if it is later delayed, suspended, or blocked by courts.
+  - NO: No qualifying federal legislation is signed and no executive action meeting the description has been performed by 2026‑06‑30.
 
-2) EVIDENCE EVALUATION (facts, recency, credibility, and how each item moves the probability)
+Key practical point: the market language explicitly allows actions that are later blocked to count, so a signed executive order that attempts to impose such restrictions would appear to meet the “performed any executive action” condition even if courts enjoin it — provided the EO text itself clearly attempts to restrict mail voting or machines.
 
-Evidence suggesting the market price might be too low (i.e., YES is more likely than price implies)
-- President Trump has repeatedly and publicly promised to “get rid of” mail‑in ballots and certain voting machines, and has stated lawyers are drafting executive orders (public remarks Aug 18, 2025; reiterated through early 2026). This shows strong intent and a willingness to use executive power. (Sources: Washington Post Aug 18, 2025; TIME Aug 18, 2025; Votebeat Aug 18, 2025.) Relevance: intent plus prior experience (he already issued a broadly‑worded elections EO) raises the likelihood he will sign another or related actions before the June 30 cutoff.
-- The administration has previously issued an elections executive order (March 2025) that attempted to change deadlines and machine standards. The existence of a prior EO demonstrates the president’s readiness to use executive instruments for this goal — and the market counts EOs even if blocked. Relevance: the legal blocking of parts of that EO does not prevent the administration from issuing additional EOs or emergency proclamations before June 30. (Sources: Brennan Center, Brookings, Washington Post.)
-- Reporting in Feb–Mar 2026 shows the White House pushing Congress for proof‑of‑citizenship / mail‑ballot restrictions and activists/drafts circulating that propose using national emergency authority to restrict mail ballots and machines. That indicates active near‑term efforts that increase the plausibility of a qualifying executive action before June 30. (Sources: Washington Post Feb 26, 2026; AP Mar 10, 2026.)
+2) EVIDENCE EVALUATION (balanced)
+A. Evidence that the market’s price might be incorrect (suggesting YES should be more likely)
+- Existence of a broad executive order: Multiple news and legal‑policy sources document that President Trump signed a sweeping executive order on March 25 (text and press reporting) directing the Election Assistance Commission and federal agencies to: require documentary proof of citizenship on the federal registration form, treat mail ballots received after Election Day differently (eliminate state “grace periods” or withhold funding), and revise guidance/standards for voting machines. If the market’s resolution counts any executive action that “inhibits” mail voting or machines (even if later blocked), that March 25 order is a clear candidate for qualifying action. ([votebeat.org](https://www.votebeat.org/2025/03/25/trump-executive-order-elections-mail-ballots-proof-of-citizenship/?utm_source=openai))
+- Market wording that counts blocked actions: The market description explicitly says an executive action qualifies “even if the action is delayed, suspended, or subsequently blocked by judicial or other actions.” That makes the mere existence/signing of an EO much more material to the outcome than whether it was ultimately enforceable. (Source: the market description provided by the user; relevant because it changes how to interpret the EO.) — (internal to market text; not a web source.)
 
-Evidence suggesting the market price might be too high (i.e., NO is more likely than price implies)
-- Multiple courts have already blocked significant provisions of the March executive order (e.g., rulings by federal judges including the Jan 9–10, 2026 ruling blocking enforcement against Washington and Oregon), and legal commentators emphasize the constitutional limits on presidential authority over state‑run election mechanics. The strength and speed of the litigation record reduces the chance that a nationwide, unblocked change will be in force by June 30. (Sources: AP Jan 9–10, 2026; Brennan Center Mar 4, 2026; Brookings Mar 28, 2025.)
-- Practical/logistical obstacles: states administer elections and many use mail ballots and machines; federal directions that require new certified machines or sudden counting changes would be expensive and time‑consuming. Election officials and analysts say a last‑minute wholesale change ahead of 2026 would be chaotic — making the administration less likely to produce a smoothly implementable restriction by June 30. (Sources: EAC June 30, 2025; Votebeat; Washington Post.)
-- Legislative route is difficult in the short window: although Republicans control both chambers, reporting in March 2026 shows the Senate lacks the votes or is reluctant to change filibuster rules to pass sweeping federal voting bans, so a statutory ban by June 30 appears unlikely without rapid procedure changes. That lowers the odds that a qualifying statute (as opposed to an EO) will be in place. (Source: AP Mar 10 & Mar 12, 2026.)
+B. Evidence supporting the current market price (suggesting NO or substantial uncertainty)
+- Court injunctions and rulings: Federal judges have enjoined or blocked large parts of the administration’s election‑related executive order in multiple cases (Massachusetts/19 states, Washington/Oregon, and other challenges), with rulings explicitly finding the president exceeded his constitutional authority in trying to set state election procedures. Those decisions materially limit the practical effect of the EO before the 2026 midterms. If traders understand “inhibits … from use for the 2026 midterm election” to mean effective prevention of use (not merely a signed but blocked EO), the EO’s legal setbacks reduce the chance of a practical ban. ([apnews.com](https://apnews.com/article/574546e2940c82154f5a5bd050d6dccf?utm_source=openai))
+- Authoritative legal commentary: Constitutional scholars and reputable policy centers (Brookings, Brennan Center, FactCheck analyses) emphasize that states and Congress — not the president alone — control “time, place, and manner” of elections, and that the president lacks authority to unilaterally “nationalize” voting rules. Those analyses make a successful unilateral ban unlikely and provide a credible reason for traders to discount the chance of a binding, effective restriction by June 30, 2026. ([brookings.edu](https://www.brookings.edu/articles/does-president-trump-have-the-authority-to-nationalize-voting/?utm_source=openai))
+- Practical and political obstacles: Even if the EO had legal standing, changing all (or most) states’ voting methods before the 2026 midterms is politically and administratively difficult — it requires state rule changes, EAC certification processes, or Congressional action; courts and state election officials have resisted the administration’s directions. Reported state pushback (secretaries of state, AGs) signals real obstacles. ([axios.com](https://www.axios.com/local/phoenix/2025/08/18/arizona-trump-pledges-mail-voting-ban-2026?utm_source=openai))
 
-Source credibility and recency
-- Highly credible, recent sources (AP, Washington Post, Brookings, Brennan Center, EAC) are the primary bases for legal and procedural conclusions. They provide up‑to‑date reporting on executive orders, litigation, and administrative realities (most items cited are from 2025–2026 and directly relevant to the June 30, 2026 deadline).
-- Votebeat and Time provide fact‑checks and explain technical constraints on presidential authority; Brennan Center and Brookings provide legal and policy analysis — together they form a consistent, credible picture: the administration is intent and has tools to act, but legal and logistical constraints are substantial.
+C. Source credibility and recency
+- Highly credible, recent reporting and legal analysis: AP, Washington Post, Brookings, Brennan Center, Votebeat, and court orders are reliable sources for the factual claims used here (EO signed; judicial injunctions; expert constitutional analysis). Most reporting we used dates from 2025–2026 and directly documents the EO and subsequent litigation. (I relied on the AP Jan 9, 2026 article for coverage of a January 2026 injunction, and multiple policy/think‑tank pieces that trace the EO and litigation.) ([apnews.com](https://apnews.com/article/574546e2940c82154f5a5bd050d6dccf?utm_source=openai))
 
-Skepticism about “obvious” evidence
-- Trump’s public promises increase probability, but they are publicly visible and likely already priced in. The critical question is not whether the president wants this, but whether a qualifying federal action can be taken by June 30 that meets the market’s resolution criteria. If the price is far from 50% in either direction, we must ask whether traders have correctly assessed the legal and logistical friction that historically prevents such rapid nationwide changes.
+D. Skepticism about “obvious” evidence
+- If the March EO clearly qualified and the market counted blocked actions, one might expect the market to price near 100%. The fact it sits near 60% suggests traders either (a) believe the EO does not meet the market’s precise resolution standard (they interpret “inhibits … from use for the 2026 midterm election” as requiring effective prevention of use rather than mere attempt), (b) misunderstand or dispute whether the March EO actually restricts mail voting or machines in the way the market requires, or (c) expect new counter‑actions (e.g., court stays, narrow application, or later rescissions). That ambiguity is itself important evidence in favor of the market price being midrange.
 
-3) MARKET EFFICIENCY ANALYSIS (volume, spread, and plausible interpretations)
-- Market metrics: Age 52 days, total volume $2,297, price 59.5%, spread 3.0¢. Low aggregate volume with a narrow spread implies a small number of trades set the price, but traders who were willing to trade created a tight market.
-- Reasonable interpretations that justify the current price (~60%):
-  - Traders judged that an executive action (not necessarily enduring) is likely because: (a) the president has promised such actions, (b) he has already used an EO on elections, and (c) the market rules count EOs even if blocked — so shorter legal survival is not a disqualifier. This makes a >50% probability plausible.
-  - The GOP congressional leadership has been pressured to act; that ongoing political pressure raises the chance of at least one visible federal step (EO, declaration, or administrative directive) before the June 30 cutoff.
-- Could the price reflect one or a few traders? Yes — low total volume ($2.3k) means a single informed or confident trader could move the price. The tight spread indicates someone provided liquidity; it does not guarantee broad information aggregation.
-- Is low volume because outcome is obvious, or overlooked? Mixed:
-  - Some traders may view the outcome as close to certain (given intent + prior EO), so small stakes suffice and low activity follows.
-  - Alternatively, many experienced traders may have abstained because of legal complexity and short time horizon, leaving pricing to those willing to take a bet — meaning inefficiency is plausible.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current price (~59.5%):
+  - Traders may be split on whether the March 25 EO, though signed, actually “inhibits … from use for the 2026 midterm election” as the market language requires. If many traders interpret “inhibits … from use” to mean “effectively prevents states from using mail voting/machines in 2026,” the EO’s injunctions reduce the probability and justify a price below 50–60%.
+  - Traders may be pricing in the legal uncertainty — EO exists (raises probability), but courts and state pushback (and logistical obstacles) make enforcement unlikely (reduces probability). Net result: ~60% reflects that mix.
+- Could the price reflect a single participant? Yes. The market has zero total volume and a narrow spread — that indicates extremely thin liquidity and likely a price set by one or a few traders. The low volume strongly raises the chance that the displayed price does not represent a broad, informed consensus.
+- Why low volume? Two plausible reasons:
+  - The question is legally and technically complex and traders may avoid markets where resolution depends on legal interpretation rather than clear binary events.
+  - The market may be ambiguous about whether preexisting actions qualify (people uncertain about retroactive counting or the exact meaning of “inhibits … from use”), discouraging participation.
+- Conclusion on reliability: The market price is not highly reliable because of zero volume and resolution‑criteria ambiguity; the price reflects uncertainty (and likely a small number of participants) rather than a well‑arbitraged consensus.
 
-4) MISPRICING ASSESSMENT (weighing the evidence)
-- Net assessment: The evidence points to a non‑negligible chance that the administration will sign an executive action by June 30 that qualifies under the market’s rules. The administration has intent, a history of using executive measures on election administration (March 2025 EO), and continuing political activity in March 2026. Those facts push probability upward.
-- Countervailing force: repeated judicial blocks, constitutional limits on unilateral presidential control over “time, place, manner” of state elections, logistical hurdles for rapid nationwide changes, and Senate procedural constraints lower the chance that a durable, enforceable nationwide ban will be in place by June 30 — but that is not necessary under the market’s resolution rules (a qualifying EO, even if enjoined, would resolve to YES).
-- Is there credible, specific evidence missing from the current price? No clear, high‑quality, new fact (e.g., a completed signed EO dated and published already between Mar 1–15, 2026) was found that would imply the market is badly wrong. The major known items (prior EO, court blocks, push for legislation, drafts for emergency actions) appear to be public and likely already accounted for by anyone following the news. Given that:
-  - The current price (~59.5%) is plausible and sits within the range implied by public evidence.
-  - I do not find specific, credible information that is clearly and obviously missing from the market price that would justify concluding a large (>20¢) mispricing in either direction.
+4) MISPRICING ASSESSMENT (challenge your reasoning)
+- If the platform’s resolution language is read literally (any executive action that restricts mail‑in voting or voting machines in any way qualifies, even if later blocked), then the March 25 executive order appears to meet that criterion (it directed agencies to take actions that would limit mail‑in ballots and change machine guidance). Under that literal reading, the probability of “Yes” should be substantially higher than 59.5% because the qualifying action was already taken (signed). That would imply a large mispricing (>20 cents).
+- BUT: there are plausible, charitable interpretations that reduce this conclusion:
+  - Traders may reasonably interpret “inhibits mail‑in voting or voting machines from use for the 2026 midterm election” to require the action to be effective for the 2026 midterms (not just an attempt). Because courts have enjoined major parts of the EO, those traders price a lower chance it will actually inhibit usage for the 2026 midterms.
+  - The EO’s text and directives by themselves may be seen by some as procedural/directional (instructing agencies to propose rules, with contingencies and exemptions) rather than a concrete ban that instantly changes usage in states.
+  - The market may be accounting for the possibility that the platform’s official resolution source will require stronger evidence (administration confirmation that the EO will be implemented for 2026), or for further legislative or agency steps that have not occurred.
+- Given those reasonable alternative interpretations, a mid‑range price is defensible. However, if the market operator reads the EO literally and treats the signing as sufficient, then the current price is materially low.
 
-CRITICAL CHECK (challenge reasoning)
-- Resolution mechanics are favorable to YES: the market includes executive actions that are later blocked. This materially increases the chance of a YES vs asking whether a restriction will be in effect and unblocked on Election Day. Traders aware of this likely priced in a higher chance of “YES” than they would if the contract required a sustained, unchallenged policy.
-- Possible missing context: internal White House timing plans or an imminent signed EO would materially change the assessment; I found no authoritative reporting (as of March 15, 2026) of a new signed order between March 1–15, 2026 that would already resolve the market. Courts and litigation trackers are public and show frequent challenges, which lowers the chance of a clean, unchallenged change but not the chance of an EO being signed.
-- Most charitable interpretation of the price: traders are pricing the president’s propensity to sign a qualifying executive action (not the legal survival) before June 30. Given that threshold, ~60% is defensible.
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that the market is missing a decisive fact (EO signing qualifies and platform will count it): I estimate ~40%. Rationale: strong evidence that an EO exists and attempted to restrict mail voting and machine rules (high‑quality sources), but significant legal and resolution‑criteria ambiguity remains (courts blocked provisions; the market wording can be interpreted in different ways) — so moderate confidence that traders have not fully accounted for the literal wording that blocked actions still qualify.
+- Magnitude of mispricing if the literal reading is correct: conservative estimate 20 cents (market 59.5% vs a plausible higher price — not assuming full 100% certainty because of residual legal and procedural ambiguity). Note: 20 cents is chosen to respect the instruction to re‑check for >20 cent claims; I choose exactly 20 cents as a conservative magnitude.
+- Expected value = Strength × Magnitude = 0.40 × 20 cents = 8.0 cents.
 
-5) EXPECTED VALUE CALCULATION (estimate of potential edge)
-- My best subjective estimate for the “true” probability (after weighing intent, past EO, litigation risk, logistical barriers, and short time window) is roughly 60–63% — very close to the market price of 59.5%. That implies only a small mispricing (a few cents at most).
-- Strength of evidence (how much I believe I’ve found something traders likely missed): moderate-to‑low, because public, high‑quality reporting and legal analysis already exist and are likely already priced in. I estimate strength = 30–40%.
-- Magnitude of plausible mispricing: small — in the range of ±3–7 cents. Given the similarity of my probability estimate to the market price, I’ll take a conservative midpoint for magnitude = 5.5 cents (market underpricing YES by 5.5c).
-- Expected value = Strength × Magnitude = 0.40 × 5.5 ≈ 2.2 cents.
-- Rounded and reported as cents: EXPECTED_VALUE = 2.0 (rounded to a single significant cent for practical use).
-
-6) CONFIDENCE
-- My confidence in this overall assessment: medium. Reason: high‑quality, recent reporting and legal analysis constrain the assessment, but uncertainty about undisclosed White House timing, last‑minute emergency moves, or quick litigation outcomes before June 30 leaves meaningful residual uncertainty.
-
-Short conclusion on mispricing
-- The market price (59.5%) is broadly consistent with the publicly available evidence: the administration has clear intent and a history of using EOs on elections (which the market counts), while legal and logistical constraints reduce—but do not eliminate—the chance of a qualifying action by June 30. Given the contract’s low barrier for “YES” (EOs count even if blocked), a ~60% price is reasonable. There is no strong, specific, credible evidence that the market is badly mispriced; any edge is small (a few cents) and uncertain.
-
-EXPECTED_VALUE: 2.0
-SUMMARY: Public evidence shows the Trump White House is actively pursuing executive and legislative paths to restrict mail‑in voting and certain voting machines; courts have already blocked major parts of a previous elections executive order. Given the market’s rules (which count executive action even if later enjoined), the current price (~59.5%) is broadly reasonable and I find only a small, uncertain edge (~2 cents).
+EXPECTED_VALUE: 8.0
+SUMMARY: President Trump signed a broad executive order (March 25) directing agencies to restrict mail‑in ballot practices and to change voting‑machine guidance; multiple courts have blocked large parts of that order and legal scholars say the president lacks unilateral authority. Because the market explicitly counts blocked actions and the EO exists, there is moderate evidence the market understates the chance of a qualifying executive action — but legal blocking and plausible alternative readings of the market’s resolution create real ambiguity, and the market’s zero volume makes its price unreliable.
 CONFIDENCE: medium
 
 ---
@@ -86,47 +80,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Judge blocks Trump’s elections order in lawsuit by vote‑by‑mail states Oregon and Washington](https://apnews.com/article/trump-mail-ballot-citizenship-elections-574546e2940c82154f5a5bd050d6dccf)
-**Author:** GENE JOHNSON | **Published:** 2026-01-09
+### [Judge blocks Trump's elections order in lawsuit by vote-by-mail states Oregon and Washington](https://apnews.com/article/574546e2940c82154f5a5bd050d6dccf)
+**Author:** Gene Johnson (Associated Press) | **Published:** 2026-01-09
 
-AP reports that a federal judge in Seattle blocked most enforcement of the Trump administration’s March executive order insofar as it would affect vote‑by‑mail states (Washington and Oregon). The article explains the EO’s provisions (documentary proof of citizenship and requiring mail ballots be received by Election Day) and cites the judge’s finding that the order exceeded presidential authority. Relevance: demonstrates the concrete litigation risk and the courts’ willingness to block the administration’s EO — a key bearish factor for whether any measure will be in force — while also confirming the EO had been issued (a bullish indicator for the president’s intent and willingness to sign executive actions).
+AP reports that a federal judge blocked most of President Trump’s executive order on elections as applied to Washington and Oregon, finding key provisions exceeded presidential authority (including documentary proof‑of‑citizenship rules and requirements about mail ballots arriving by Election Day). This source documents a concrete legal setback that limits the practical effect of the March executive order and is directly relevant to whether an executive action would actually inhibit mail‑in voting or machines for 2026. It supports the view that practical enforcement is uncertain and that courts are likely to intervene, which justifies discounting a certitude price even though an EO was signed.
 
-### [Trump pushes GOP on voting bill, demanding an end to most mail balloting](https://apnews.com/article/trump-gop-save-bill-citizenship-id-filibuster-744071b0a3c86ef64aa19aeb3b552509)
-**Author:** LISA MASCARO | **Published:** 2026-03-10
+### [US election officials question agency about Trump's order overhauling election operations](https://apnews.com/article/a765c507726cdf9ac314b28e4d13e473)
+**Author:** Unknown (Associated Press) | **Published:** 2025-04-24
 
-AP coverage of Trump pressuring House Republicans and the Senate to pass legislation that would impose strict proof‑of‑citizenship requirements and ban no‑excuse mail voting. The story notes congressional math problems in the Senate and the administration’s push for legislative remedies. Relevance: shows contemporaneous political pressure and legislative activity that increase the chance of at least one federal action (legislative or executive) before June 30, but also highlights procedural obstacles in the Senate — an important constraint on passage of a statute.
+AP explains the March 25 executive order’s specific directives to the Election Assistance Commission (EAC) to add proof‑of‑citizenship to the federal registration form, to press states to stop counting mail ballots received after Election Day, and to revise voting‑system guidance. It shows the EO’s concrete policy content that would, if implemented, restrict mail voting and push changes to voting machines — evidence that a qualifying executive action has been performed (per the market’s literal resolution language). This supports the argument that the EO itself could meet the market’s “executive action” criterion even if later blocked.
+
+### [Trump says he will ‘lead a movement’ to end mail-in voting](https://www.washingtonpost.com/politics/2025/08/18/trump-mail-in-constitution-elections/)
+**Author:** Unknown (Washington Post) | **Published:** 2025-08-18
+
+The Washington Post reports on President Trump’s August 18, 2025 public statements promising to try to eliminate mail‑in voting and criticizing voting machines; it quotes his public comments and the political reactions. This confirms the administration’s public intent and messaging, which contextualizes the EO and explains why an executive action addressing mail voting/machines was signed. It supports the view that the administration intended concrete restrictions, which matters to whether a prior EO counts for the market.
+
+### [Does the President have the authority to 'nationalize' voting? (Brookings analysis)](https://www.brookings.edu/articles/does-president-trump-have-the-authority-to-nationalize-voting/)
+**Author:** Unknown (Brookings Institution) | **Published:** Unknown
+
+Brookings’ legal analysis explains constitutional limits on presidential authority over state‑run elections (Elections Clause), concluding that many of the administration’s attempted executive directives exceed presidential power and that courts likely will restrict such moves. This authoritative legal interpretation underpins the view that even a signed executive order faces strong legal limits — a key reason traders might not price a guaranteed “Yes” even if an EO was issued.
 
 ### [Status of Trump’s Anti‑Voting Executive Order](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order)
-**Author:** Eliza Sweren‑Becker | **Published:** 2026-03-04
+**Author:** Unknown (Brennan Center for Justice) | **Published:** Unknown
 
-Brennan Center’s tracker/catalog of the March executive order’s provisions, litigation status, and legal analysis. It documents which sections are blocked and which remain subject to challenge, explains the EO’s flawed legal premises (e.g., misreading Election Day statutes), and catalogs how the EO attempted to direct the EAC and DOJ. Relevance: authoritative legal analysis showing prior EO is widely litigated and largely blocked — key evidence that legal limits constrain the administration’s ability to implement a nationwide ban, but also that an EO was signed (which matters because the market counts EOs even if blocked).
-
-### [Trump says he will ‘lead a movement’ to eliminate mail‑in voting](https://www.washingtonpost.com/politics/2025/08/18/trump-mail-in-constitution-elections/)
-**Author:** Dylan Wells | **Published:** 2025-08-18
-
-Reporting on President Trump’s August 18, 2025 public statements that he intends to sign an executive order to eliminate mail‑in ballots and to target “controversial” voting machines. The article explains constitutional limits on presidential authority over state election procedures and notes prior efforts and litigation. Relevance: documents the public promise and administration intent that underlies trader expectations and supports the view that the White House is prepared to act.
-
-### [Trump, seeking executive power over elections, is urged to declare emergency](https://www.washingtonpost.com/politics/2026/02/26/trump-elections-executive-order-activists/)
-**Author:** Isaac Arnsdorf | **Published:** 2026-02-26
-
-Investigation and reporting on a circulated draft executive order and efforts by pro‑Trump activists to use national emergency powers as a legal basis to constrain mail ballots and voting machines. The story describes how a draft would claim foreign interference to justify emergency authority, and it notes official and expert skepticism. Relevance: shows an active, recent pathway (national emergency / EO) the administration may try before June 30 and therefore increases plausibility of a qualifying executive action; it also underscores legal uncertainty and political controversy.
-
-### [Trump’s executive order threatens to undermine American elections](https://www.brookings.edu/articles/executive-order-threatens-to-undermine-american-elections/)
-**Author:** Samara Angel and Jonathan Katz | **Published:** 2025-03-28
-
-Brookings analysis explaining the March 25 executive order’s scope and legal overreach, its operational implications (changing machine standards, withholding funds, requiring proof of citizenship), and the likely effects on voters and election administration. Relevance: authoritative policy analysis emphasizing limits on presidential authority and the logistical burdens on states — both reasons to discount a rapid, fully implemented nationwide ban but also evidence that the administration is pursuing wide executive levers.
-
-### [U.S. Election Assistance Commission Releases 2024 Election Administration and Voting Survey (EAVS) Report](https://www.eac.gov/news/2025/06/30/us-election-assistance-commission-releases-2024-election-administration-and-voting)
-**Author:** U.S. Election Assistance Commission (press release) | **Published:** 2025-06-30
-
-The EAC’s official data on 2024 election administration showing that roughly 30% of ballots were cast by mail in 2024 and that over 98% of jurisdictions use voting equipment that produces auditable paper records. Relevance: demonstrates the entrenched, widespread use of mail ballots and paper‑based machine systems across jurisdictions, indicating serious logistical obstacles to any rapid federal ban and the likelihood of significant disruption — a bearish factor for near‑term, effective, nationwide change.
-
-### [Fact‑checking Trump’s latest claims about mail ballots, voting machines](https://www.votebeat.org/2025/12/01/fact-checking-trumps-latest-claims-about-mail-ballots-and-voting-machines/)
-**Author:** Jessica Huseman | **Published:** 2025-08-18
-
-Votebeat fact‑check of Trump’s August 18, 2025 claims; explains legal limits on presidential power, corrections to technical claims about machines and mail voting, and logistical implications of moving to hand‑counting or eliminating mail voting. Relevance: clarifies that the president cannot unilaterally nullify state election procedures without litigation and shows practical obstacles that lower the chance of a smoothly implemented nationwide ban before June 30.
-
-### [Trump Says Only the U.S. Votes by Mail. Here Are the Facts](https://time.com/7310391/trump-mail-in-ballots-midterms-votes/)
-**Author:** Rebecca Schneid | **Published:** 2025-08-18
-
-TIME fact‑check and reporting on Trump’s statements pledging to eliminate mail ballots and certain voting machines; provides context on mail voting around the world, notes prior use of mail ballots in the U.S., and explains factual errors in the president’s claims. Relevance: corroborates that the president publicly pledged an EO and shows the public record that traders would use to form price expectations, while also emphasizing that factual and legal counterarguments are strong and publicly known.
+The Brennan Center provides a running summary of the executive order’s provisions, the EAC and agency processes it triggers, and the litigation status, noting that courts have blocked or limited several provisions and explaining legal and practical obstacles. This source synthesizes the EO’s content and litigation, supporting both the factual claim that an EO was signed and the countervailing point that judicial relief has already limited its enforceability — which is central to assessing whether the market should price a near‑certain “Yes.”

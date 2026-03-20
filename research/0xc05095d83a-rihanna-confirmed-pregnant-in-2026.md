@@ -1,7 +1,7 @@
 # Research: Rihanna confirmed pregnant in 2026?
 
 **Market ID:** 0xc05095d83a028e5b92280325c0b739aad1ffbd9b9fba0f61fb0c119eea339200
-**Researched At:** March 12, 2026 at 06:20:07 PM UTC
+**Researched At:** March 20, 2026 at 04:26:27 AM UTC
 **Search Query:** "Rihanna confirmed pregnant in 2026?"
 
 ---
@@ -9,73 +9,64 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 15.2¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Public reporting through Mar 12, 2026 shows only a playful Instagram comment and Rihanna’s recent history of public pregnancy reveals — no credible 2026 pregnancy announcement or rep confirmation. Given that, a 68% market price appears likely too high; I estimate a public-information-based probability ≈30%, implying an expected-value edge ~15.2¢.
+I found no authoritative or representative pregnancy announcement for Rihanna after the market opened (market created ~Jan 21, 2026). Public hints (Jan 11 Instagram comment) raise the chance of a 2026 pregnancy but are ambiguous; mainstream outlets reported she was postpartum and had not announced another pregnancy as of late January–March 2026. The market price (~51%) is plausibly reasonable; if there is mispricing it is small (~5¢ magnitude), yielding low expected edge (~1.5¢).
 
 ### Full Analysis
 
-I researched recent reporting and public statements relevant to whether Rihanna will be publicly confirmed pregnant at any point in 2026 (market resolves “Yes” if Rihanna or her representative makes a credible pregnancy announcement between market creation and 2026-12-31). Below I objectively summarize the context, weigh evidence for and against the market price (68%), assess market reliability given the low volume, and calculate an expected-value estimate for pursuing this market.
+I will evaluate the market (created ~Jan 21, 2026; today Mar 20, 2026) asking: "Rihanna confirmed pregnant in 2026?" I researched credible reporting and social-media traces to assess whether the market price (51%) shows evidence of mispricing.
 
 1) CONTEXT ANALYSIS
-- What the market asks: Will Rihanna announce that she is pregnant between the market’s creation (≈Jan 2026) and 11:59 PM ET on Dec 31, 2026? Resolution requires a credible announcement from Rihanna or her representatives (or a definitive consensus of credible media). ([apnews.com](https://apnews.com/article/93f88c317edd053c6988bff1a2fa66d5))
-- How it resolves YES vs NO: YES requires a public, credible pregnancy confirmation (post, interview, rep statement, or widely verified media consensus) dated after the market’s creation and on or before 2026-12-31. NO if no such credible confirmation occurs in that window.
+- What the market asks: Will Rihanna (or her representative) announce she is pregnant between the market’s creation (~Jan 21, 2026) and Dec 31, 2026, 11:59 PM ET? Only credible announcements (Rihanna or rep; or definitive consensus of credible media) count.
+- YES resolves if Rihanna or an authorized representative makes a credible pregnancy announcement (or credible media consensus) during that window. A casual/joking comment would not qualify unless judged a credible announcement by the resolution rules.
+- NO resolves if no credible announcement occurs by 11:59 PM ET, Dec 31, 2026.
+- Timing note: market creation ≈ Jan 21, 2026 (market age 58 days on Mar 20, 2026). The resolution window runs through Dec 31, 2026.
 
-2) EVIDENCE EVALUATION
-Summary of the most relevant facts discovered
-- Rihanna recently revealed and completed an earlier pregnancy cycle (third child): she publicly revealed a pregnancy on the Met Gala red carpet in May 2025 and later announced the birth of her third child (Rocki Irish Mayers) in September 2025. That history shows both a pattern of public pregnancy reveals by Rihanna and that she gave birth only months before 2026. ([apnews.com](https://apnews.com/article/93f88c317edd053c6988bff1a2fa66d5))
-- In January 2026 Rihanna left a lighthearted Instagram comment under an influencer post (“Wait! So I’m not crazy then? Bet!”) that outlets interpreted as a playful hint she’s open to another pregnancy in 2026. This is explicitly a social-media comment, not an announcement or rep confirmation. ([elle.com](https://www.elle.com/rihanna-fourth-baby-pregnacy-joke-instagram-comment/))
-- On March 8–9, 2026 there were multiple news reports that shots were fired at Rihanna’s Los Angeles residence and a suspect was arrested; no injuries were reported. This is a recent safety/security incident that could plausibly affect privacy and family-planning decisions in the short term. ([abc7.com](https://abc7.com/post/rihannas-beverly-hills-mansion-shot-she-was-inside-sources-say/18693930/))
+2) EVIDENCE EVALUATION (all-caps indicate my judgement about the direction each item supports)
+Summary of key facts I found:
+- Rihanna publicly revealed a pregnancy at the Met Gala (May 2025) and gave birth to a daughter (Rocki) on Sept 13, 2025. (Supports neither 2026 pregnancy directly, but gives context on recency of last birth and tendency to make public announcements at events.)
+- On Jan 11, 2026 Rihanna left a playful comment on an Instagram Reel (“Wait! So I’m not crazy then? Bet!”) that many outlets characterized as a hint she might consider a fourth child in 2026. (EVIDENCE FOR YES — increases subjective probability, but is an informal, ambiguous signal rather than an announcement.)
+- In late January 2026 she was described in press coverage as “freshly postpartum” and there are reports that she clarified/indicated she is not currently pregnant (interpretations in press of a street interview; no formal rep statement that she is pregnant). (EVIDENCE FOR NO — suggests no confirmed pregnancy as of late Jan 2026.)
+- No authoritative report or representative statement (AP, Time, LA Times, etc.) indicates a pregnancy announcement after market creation (Jan 21 → Mar 20, 2026). (EVIDENCE FOR NO — absence of a qualifying announcement so far.)
 
-Evidence that would argue the market price (68%) might be too high
-- There has been no credible pregnancy announcement or representative confirmation in 2026 to date (as of Mar 12, 2026). All reporting about 2026 “pregnancy talk” is based on Rihanna’s Instagram comment and fan/press speculation — not an official pregnancy confirmation. That is the key negative datapoint against the 68% probability. ([elle.com](https://www.elle.com/rihanna-fourth-baby-pregnacy-joke-instagram-comment/))
-- Recent birth timing (Sept 13, 2025) means a short interpregnancy interval would be required to produce a pregnancy announced in 2026 — biologically possible but less common and often a deliberate personal choice; the fact she just had a newborn lowers base rates relative to a celebrity who hasn’t had a baby recently. ([pitchfork.com](https://pitchfork.com/news/rihanna-announces-birth-of-third-child-with-asap-rocky-rocki-irish-mayers))
-- The March 2026 shooting at her home introduces an immediate security/stress factor that could reasonably delay public announcements or decisions to try again soon. ([abc7.com](https://abc7.com/post/rihannas-beverly-hills-mansion-shot-she-was-inside-sources-say/18693930/))
-
-Evidence that supports a higher probability (that the market might be reasonable)
-- Rihanna has a recent track record of multiple pregnancies revealed publicly (2022, 2023, 2025) and has used high-profile public moments to reveal pregnancies (e.g., Met Gala 2025, Super Bowl 2023). That behavioral pattern raises the prior probability that, if pregnant in 2026, she would publicly reveal it rather than keep it secret. ([apnews.com](https://apnews.com/article/93f88c317edd053c6988bff1a2fa66d5))
-- Rihanna’s Instagram comment is a direct signal (albeit informal) that she might be open to another child in 2026; A$AP Rocky has in past interviews expressed interest in expanding the family (public statements from 2024/2025 referenced in reporting). These signals increase the plausibility of pregnancy attempts/announcements in 2026 relative to a random celebrity. ([elle.com](https://www.elle.com/rihanna-fourth-baby-pregnacy-joke-instagram-comment/))
-- Celebrities sometimes announce pregnancies quickly and unexpectedly; traders may be pricing in both Rihanna’s stated openness and the public-reveal pattern.
-
-Source credibility and recency
-- AP, Pitchfork, ABC7 and CBS Los Angeles are reputable and recent: AP and Pitchfork document the 2025 Met Gala reveal and the Sept 2025 birth; ABC7/CBS LA are local outlets reporting the March 2026 home shooting. Elle (Jan 2026) is a mainstream outlet reporting Rihanna’s Instagram comment. These are timely, mainstream primary/secondary news sources appropriate for judging public announcements and social-media signals. ([apnews.com](https://apnews.com/article/93f88c317edd053c6988bff1a2fa66d5))
-
-Skepticism about obvious-seeming evidence
-- The Instagram comment is weak — many celebrities joke or react in comments without it meaning an imminent pregnancy. If the market were correctly pricing a near-certainty based solely on that comment, that would be puzzling; informed traders would likely wait for stronger signals (rep statement, photo evidence, medical/legal filings) before moving probability that high.
+More detail and source evaluation:
+- Evidence that would raise the true probability above market (i.e., argue market under-prices YES):
+  - Rihanna’s Jan 11 social-media comment (Parade / Yahoo / Elle / E! / other outlets): shows she’s publicly open to considering another child in 2026; she’s publicly expressed desire for a large family in past interviews; she has had recent back-to-back births (2022, 2023, 2025), so another pregnancy within 2026 is biologically and behaviorally plausible. These are real signals and likely already known to the market. Source credibility: Parade/Elle/E! are entertainment outlets—useful for capturing public-comments but not authoritative confirmation.
+- Evidence that would lower the true probability (i.e., argue market over-prices YES):
+  - No credible announcement or rep confirmation has appeared through Mar 20, 2026. Major outlets (AP, Time, LA Times, Vogue, TMZ) reported the 2025 pregnancy and 2025 birth but have not reported a 2026 pregnancy. A Jan 28, 2026 piece (aggregated press coverage) characterizes Rihanna as postpartum and indicates she told interviewers she’s dealing with postpartum body issues — press interpreted that as “not pregnant” at that time. Source credibility: AP, Time, LA Times, Vogue are high-quality/primary reporting outlets; their silence on any 2026 announcement is significant.
+- Skepticism about obvious evidence:
+  - The Jan 11 Instagram comment is ambiguous: celebrity comments in social threads often are playful and do not indicate an imminent pregnancy. If this was sufficient evidence for a high market probability, informed traders would likely have pushed price higher already — the market’s ~51% reflects that the comment is ambiguous and not yet priced as a near-certainty.
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations of a 68% price:
-  - Traders may be using Rihanna’s history of public reveals (2022, 2023, 2025), her recent Instagram hint, and the pattern of celebrity family expansion to infer a high base rate for another pregnancy-announcement in 2026.
-  - Alternatively, given the market’s low total volume ($1,274), the price could reflect the convictions of one or a few traders rather than a broad information aggregation. The tight 4¢ spread does not guarantee broad participation; platforms sometimes show narrow spreads even at low volumes.
-- Could the price reflect genuine consensus? Possibly, if an informed trader(s) expects an imminent pregnancy (e.g., insider knowledge about family planning or timelines), but there is no publicly available confirmation or corroborating signals in mainstream press beyond a playful social-media comment. That lowers my prior on consensus-based correctness.
-- Why low volume? Low volume can mean either (a) the event is obvious (in which case many traders see it as near-certain) or (b) the market is overlooked and few informed traders have engaged. Given the absence of a formal 2026 announcement and the mixed signals, explanation (b) (overlooked / small set of bettors) is plausible.
+- Market metrics: Age 58 days, total volume $6,841, price 51.0%, spread 2¢. Low total volume suggests few active traders; a tight spread implies at least two liquidity providers or automated market-maker settings.
+- Reasonable interpretations of current price:
+  - Charitable / efficient interpretation: 51% reflects a roughly even probability because (a) Rihanna publicly hinted she might consider another child in 2026, (b) she has a documented pattern of multiple recent pregnancies, (c) but there is NO authoritative, credible pregnancy announcement as of Mar 20, 2026 — so the market splits the difference between plausibility and lack of confirmation.
+  - Inefficient interpretation: a single or small number of bettors could have set the price near 50% because they liked an even coinflip; low volume markets are more susceptible to that.
+- Is low volume because the outcome is obvious? No — it’s not obvious. Ambiguity (social-media hints vs. need for a formal announcement) explains low participation: the market requires a credible announcement only to resolve YES, so some traders will wait for definitive signals. That reduces trading volume.
+- Could price reflect a few traders? Yes — $6.8k total vol is small for a celebrity story; a handful of active accounts could have established price. But the narrow spread suggests the platform’s automated liquidity or multiple participants.
 
-4) MISPRICING ASSESSMENT (challenge the reasoning)
-- Exact resolution criteria are clear: a credible pregnancy announcement by Rihanna or her rep during the market window resolves YES. There is no evidence that the resolution window or qualification is misunderstood.
-- If I conclude the market is significantly mispriced (>20¢), the charitable interpretations are:
-  - Informed trader(s) may have private knowledge about family plans or medical/contraceptive status not available publicly.
-  - Traders may place substantial weight on Rihanna’s recent pattern of frequent pregnancies and a public-reveal habit, interpreting the Instagram hint as stronger than it appears to neutral observers.
-- I find those insider explanations possible but unproven. Absent private information, the public-evidence case for a ~68% chance is weak.
-
-My assessment: The market looks likely over-priced given public information. Reasoned estimate of the true probability (based on public signals only):
-- Plausible public probability range: ~20–40%. Central point estimate I assign: ~30% chance Rihanna will make a credible pregnancy announcement in 2026 (i.e., the market is overpricing by ~38 percentage points: 68% − 30% = 38¢).
-- Reasoning: only an informal Instagram comment in Jan 2026 (weak signal) and prior pattern of public reveals make pregnancy possible, but no rep confirmation or reliable evidence of active pregnancy attempts; recent childbirth Sept 2025 and the March 2026 shooting introduce reasons the couple might delay further pregnancies and/or public announcements.
+4) MISPRICING ASSESSMENT
+- Do I find credible evidence missing from the current price? No. The information that matters (Jan 11 social-media hint; Jan 28 postpartum/interview context; Sept 2025 birth; no rep confirmation after Jan 21 market creation) is public and already covered in mainstream outlets — these would almost certainly be considered by informed traders. I found no authoritative rep announcement or credible media consensus of a 2026 pregnancy that the market has ignored.
+- Could the market be meaningfully mispriced (>20¢)? Unlikely. The available evidence is ambiguous and incremental, not decisive. A large (>20-cent) mispricing would require a clear piece of information being ignored (e.g., a reliable insider report, a rep confirmation, or a leaked pregnancy announcement), none of which I found.
+- Most charitable interpretation for why traders set ~51%: they are pricing the combination of (a) Rihanna’s openness and pattern of recent pregnancies (increasing prior probability) and (b) the lack of a formal announcement to date (reducing immediate probability). Given these countervailing facts, ~50–55% is a reasonable midpoint for a probabilistic market that must wait for a firm announcement.
 
 5) EXPECTED VALUE CALCULATION
-- Strength of evidence that the public information is meaningfully missing in the market price: I rate this 40% — there’s a meaningful, but not strong, case that public information (only an Instagram comment + prior pattern) does not justify 68%. (40% reflects moderate reliability of the “overpricing” claim.)
-- Magnitude of mispricing (cents): estimated at 38 cents (68¢ market − 30¢ my estimate = 38¢).
-- Expected value = Strength × Magnitude = 0.40 × 38¢ = 15.2¢
+- Strength of evidence that the market is missing important info: 30% (many signals are ambiguous and likely already reflected; no authoritative new source found).
+- Reasonable magnitude of mispricing if it exists: ~5 cents (I judge a small bias maybe in either direction is possible but not large).
+- Expected value = 30% × 5 cents = 1.5 cents.
 
 6) CONFIDENCE
-- Overall I give this assessment: medium confidence. There is a real chance of private information or rapid developments that would change probabilities; the market’s low volume increases uncertainty about whether the price reflects wide consensus or a small set of bettors.
+- I rate my confidence in this assessment as medium. The topic is time-sensitive and hinges on future announcements; I used credible sources up to Mar 20, 2026. There is some noise in entertainment reporting and social-media interpretation, so medium confidence is appropriate.
 
-Bottom-line judgement
-- Is there credible evidence of mispricing? Yes — the publicly available evidence (Jan Instagram comment and family history) does not, in my view, justify a 68% probability for a confirmed pregnancy announcement in 2026. However, this is far from definitive: insider information, private plans, or a rapid change in circumstances could vindicate the market price. Given the low volume, the market may simply reflect one or a few confident bettors rather than a broad consensus.
+Final conclusions (short):
+- There is no credible authoritative announcement of a Rihanna pregnancy after market creation (Jan 21, 2026) through today (Mar 20, 2026). Public signals (a Jan 11 social-media comment) raise the subjective chance but are ambiguous; late-Jan coverage characterized her as postpartum and not pregnant at that time. Given that, the market price ~51% does not show clear evidence of large mispricing; it appears defensible as a midpoint between plausibility and lack of confirmation.
+- Expected value of investigating / trading based on currently available public information is small (≈1.5¢). If you think you have access to reliable private/insider information (rep confirmation, etc.), that changes the calculus; absent that, there is insufficient credible evidence to justify assuming large mispricing.
 
-EXPECTED_VALUE: 15.2
-SUMMARY: Public reporting through Mar 12, 2026 shows only a playful Instagram comment and Rihanna’s recent history of public pregnancy reveals — no credible 2026 pregnancy announcement or rep confirmation. Given that, a 68% market price appears likely too high; I estimate a public-information-based probability ≈30%, implying an expected-value edge ~15.2¢.  
+EXPECTED_VALUE: 1.5
+SUMMARY: I found no authoritative or representative pregnancy announcement for Rihanna after the market opened (market created ~Jan 21, 2026). Public hints (Jan 11 Instagram comment) raise the chance of a 2026 pregnancy but are ambiguous; mainstream outlets reported she was postpartum and had not announced another pregnancy as of late January–March 2026. The market price (~51%) is plausibly reasonable; if there is mispricing it is small (~5¢ magnitude), yielding low expected edge (~1.5¢).
 CONFIDENCE: medium
 
 ---
@@ -84,27 +75,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
+### [Rihanna and A$AP Rocky welcome baby girl](https://apnews.com/article/rihanna-asap-rocky-baby-girl-93217a14ee69fdfa5a2e1b904f823815)
+**Author:** Unknown | **Published:** 2025-09-24
+
+AP reports Rihanna announced the birth of her third child (daughter Rocki) via an Instagram post showing the baby and the date Sept. 13, 2025. The article also recounts that the couple announced that pregnancy publicly at the May 2025 Met Gala and notes Rihanna’s prior births in 2022 and 2023. Relevance: establishes the recency of her last birth (Sept 2025) and her pattern of high-profile public pregnancy announcements — both relevant to assessing plausibility of another pregnancy in 2026 and how the market might price announcement risk.
+
 ### [Rihanna is expecting baby No. 3 with A$AP Rocky, the rapper confirms at the 2025 Met Gala](https://apnews.com/article/rihanna-pregnant-aap-rocky-met-gala-2025-93f88c317edd053c6988bff1a2fa66d5)
-**Author:** Gary Gerard Hamilton (AP) | **Published:** 2025-05-06
+**Author:** Unknown | **Published:** 2025-05-06
 
-AP reports that Rihanna publicly revealed she was pregnant at the Met Gala in May 2025 and quotes A$AP Rocky confirming the news; the piece notes Rihanna’s prior public reveal at the 2023 Super Bowl. This establishes the recent pattern that Rihanna has revealed pregnancies in public settings and documents the timing of the 2025 pregnancy reveal — relevant because it shows she favors public reveals (supporting a higher prior that she would publicly announce future pregnancies), but it does not provide any 2026 announcement. This fact slightly supports the market’s rationale (public reveal habit) but does not by itself justify a 68% chance for 2026. ([apnews.com](https://apnews.com/article/93f88c317edd053c6988bff1a2fa66d5))
+AP reported A$AP Rocky confirming Rihanna’s pregnancy at the May 2025 Met Gala and described how Rihanna revealed a baby bump on the red carpet. Relevance: shows Rihanna’s tendency to make pregnancy news public at major events (pattern that affects probability of a credible announcement) and provides context for how earlier pregnancies were confirmed (rep/partner reporting vs. Instagram).
 
-### [Rihanna Announces Birth of Third Child With A$AP Rocky, Rocki Irish Mayers](https://pitchfork.com/news/rihanna-announces-birth-of-third-child-with-asap-rocky-rocki-irish-mayers/)
-**Author:** Matthew Strauss | **Published:** 2025-09-25
+### [Met Gala 2025: Rihanna Reveals Pregnancy | TIME](https://time.com/7282930/met-gala-2025-rihanna-pregnant/)
+**Author:** Unknown | **Published:** 2025-05-06
 
-Pitchfork reports Rihanna’s Instagram announcement that she gave birth to her third child (Rocki Irish Mayers) on Sept 13, 2025, and reiterates that she revealed that pregnancy publicly at the 2025 Met Gala. The September 2025 birth means any subsequent pregnancy announced in 2026 would require a relatively short interpregnancy interval; this reduces the baseline public probability for another pregnancy announcement in 2026 compared with someone who has not recently given birth. This source challenges the 68% price insofar as it documents how recently Rihanna was postpartum. ([pitchfork.com](https://pitchfork.com/news/rihanna-announces-birth-of-third-child-with-asap-rocky-rocki-irish-mayers))
+TIME covered Rihanna’s reveal of a pregnancy at the 2025 Met Gala and provided context about her family (two sons at the time) and how the news was confirmed. Relevance: corroborates AP reporting and reinforces that mainstream outlets cover Rihanna’s public pregnancy announcements promptly — the absence of a comparable announcement in 2026 is therefore informative.
 
-### [Rihanna Shares She’s Been Thinking About Getting Pregnant Again](https://www.elle.com/culture/celebrities/a69987087/rihanna-fourth-baby-pregnacy-joke-instagram-comment/)
-**Author:** Brea Cubit | **Published:** 2026-01-13
+### [Rihanna Says She’s Considering Having Another Baby in 2026 - Parade](https://parade.com/news/rihanna-says-shes-considering-having-another-baby-2026)
+**Author:** Grace Galante | **Published:** 2026-01-13
 
-Elle documents Rihanna’s January 12, 2026 Instagram comment under an influencer’s reel — her reply (“Wait! So I’m not crazy then? Bet!”) was widely reported as a playful hint she might be open to pregnancy in 2026. This is the principal positive public signal occurring in 2026 and is what traders appear to be pricing. However, this is an informal social-media reaction rather than a representative or formal announcement; it raises plausibility but is weak evidence for a confirmed pregnancy. ([elle.com](https://www.elle.com/rihanna-fourth-baby-pregnacy-joke-instagram-comment/))
+Parade reports Rihanna left a playful comment on an Instagram Reel on Jan 11, 2026 — “Wait! So I’m not crazy then? Bet!” — which many outlets interpreted as her hinting she might consider another child in 2026. Relevance: this is the principal item that increases subjective probability for a 2026 pregnancy; it is an ambiguous public signal (entertainment-press level) rather than a formal announcement, and thus likely already priced in by traders.
 
-### [Rihanna's Beverly Hills mansion shot at while she was inside, sources say](https://abc7.com/post/rihannas-beverly-hills-mansion-shot-she-was-inside-sources-say/18693930/)
-**Author:** Abigail Velez | **Published:** 2026-03-09
+### [Rihanna Gets Real About Her Postpartum Body After Fans Speculate She’s Pregnant Again](https://www.yahoo.com/entertainment/celebrity/articles/rihanna-gets-real-her-postpartum-174059549.html)
+**Author:** Sydni Ellis | **Published:** 2026-01-28
 
-ABC7 reports that shots were fired at Rihanna’s Los Angeles-area home on March 8, 2026; the article states Rihanna was at the residence and no one was hurt, and a suspect was arrested. This recent security incident could influence immediate family decisions and public-facing announcements (increasing privacy/security concerns), and therefore plausibly lowers the short-term probability of a public pregnancy confirmation in 2026. It is relevant negative/contextual information not reflected in the Instagram-hint stories. ([abc7.com](https://abc7.com/post/rihannas-beverly-hills-mansion-shot-she-was-inside-sources-say/18693930/))
+This piece (syndicated/aggregated entertainment coverage) reports Rihanna discussing postpartum body issues in late January 2026 and frames that content as a rebuttal to fan speculation that she’s pregnant again — the article states she is “freshly postpartum, and not in fact pregnant” in context. Relevance: indicates that by late Jan 2026 press interpretation was that she had not made a pregnancy announcement; absence of an authoritative rep confirmation here weakens case for an imminent 2026 announcement and likely has been considered by market participants.
 
-### [Suspect in Rihanna's Beverly Hills home shooting held on $10 million bail](https://www.cbsnews.com/losangeles/news/rihanna-home-shooting-suspect-identified-los-angeles/)
-**Author:** Chelsea Hylton | **Published:** 2026-03-10
+### [Rihanna, ASAP Rocky welcome their third baby, daughter Rocki - Los Angeles Times](https://www.latimes.com/entertainment-arts/story/2025-09-24/rihanna-asap-rocky-third-baby-rocki)
+**Author:** Unknown | **Published:** 2025-09-24
 
-CBS Los Angeles provides follow-up reporting on the March 8, 2026 shooting, names the suspect (Ivanna Ortiz) and describes the ongoing investigation and high bail amount; the piece notes multiple people were at the home and that no injuries were reported. This corroborates the ABC7 reporting and reinforces that a recent traumatic security event may affect public family-planning announcements or timing, which is a reason to be cautious about assigning high probability to a 2026 pregnancy announcement. ([cbsnews.com](https://www.cbsnews.com/losangeles/news/rihanna-home-shooting-suspect-identified-los-angeles/))
+The LA Times confirms the Sept. 13, 2025 birth of Rihanna’s third child and notes the couple’s earlier children (RZA, born 2022; Riot, born 2023). The article also quotes comments by A$AP Rocky confirming the 2025 pregnancy at the Met Gala. Relevance: corroborates the timeline and pattern of pregnancies; such mainstream confirmation underscores that a similarly credible 2026 announcement would likely be quickly reported — the lack of such reporting through Mar 20, 2026 is meaningful.
+
+### [Rihanna Gives Birth To Baby Number Three With A$AP Rocky (TMZ)](https://www.tmz.com/2025/09/24/rihanna-gives-birth/)
+**Author:** TMZ Staff | **Published:** 2025-09-24
+
+TMZ reported on Sept. 24, 2025 that Rihanna gave birth on Sept. 13 and shared details gleaned from sources and Rihanna’s Instagram reveal. Relevance: TMZ’s reporting complements mainstream outlets’ coverage of the 2025 birth and shows that entertainment press (which also covered Rihanna’s Jan 11 comment) is an active channel for early signals — but TMZ (and similar outlets) have not published a 2026 pregnancy announcement as of Mar 20, 2026.

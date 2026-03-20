@@ -1,90 +1,114 @@
 # Research: Will Malta advance through the second Eurovision Semi-Final?
 
 **Market ID:** 0xab84c310f12689853f80df84928fa0dbb872f406c01cb5e64609d74e65d18db5
-**Researched At:** March 6, 2026 at 04:18:11 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Malta advance through the second Eurovision Semi-Final?"
+**Researched At:** March 20, 2026 at 04:26:24 AM UTC
+**Search Query:** "Will Malta advance through the second Eurovision Semi-Final?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 15.0¢
+**Expected Value:** 1.3¢
 
 ### Summary
 
-Malta’s chances as per multiple bookmaker sources (11–21%) and one odds aggregator (55%) are all well below the market’s 79.5%, suggesting a ~25¢ overpricing and an expected value of about 15¢ to exploit this mispricing.
+Malta is officially in Eurovision 2026 Second Semi‑Final and selected AIDAN with “Bella”; fan and bookmaker commentary place Malta in an upper tier for qualifying, so a ~78.5% market price is plausible. However the market has zero on‑platform volume, so the posted price is fragile — there’s no clear, credible public evidence of a large mispricing. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS
-– The market asks whether Malta will finish in the top 10 of the Eurovision 2026 Second Semi-Final on May 14, 2026 (i.e. advance to the Grand Final). A “Yes” means they qualify, a “No” means they finish 11th–last or are otherwise disqualified.
+Plan and approach
+- Questions to answer before concluding: (a) Is Malta entered in Eurovision 2026 Second Semi‑Final (so the market can resolve YES)? (b) Who is Malta’s entrant and how strong is the entry by jury/televote and bookmaker/fan metrics? (c) Are there independent signals (bookmakers, fan polls, expert writeups, historical record) that suggest the market price (78.5%) is missing important information? (d) Does the market’s low volume ($0) and narrow spread (1¢) imply an unreliable price?
+- I used the full web budget (3 searches) to pull the official allocation info and recent reporting about Malta’s national final and the betting/polling sentiment around Malta’s entry. I excluded prediction-market sites per your instruction.
 
-2. EVIDENCE EVALUATION
-– Bearish Evidence (argues price too high):
-  • James Cummings (Times of Malta, 2026-02-16): Bookmakers put Malta’s odds at ~21%, ranking 15th of 16 acts—well below 50%.  
-  • Matthew Bonanno (Times of Malta, 2026-02-24) cites some outlets giving Malta just 1/9 (~11%) chance, noting strong competition and controversy-dent lyrics.
-  • Historically Malta struggles in semis (last final in 2021), and two separate bookmaker-based estimates (21% and 11%) both undercut even the 55% number below.
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Malta advance through the second Eurovision Semi‑Final?” Concretely, this resolves YES if Malta’s 2026 entry is one of the qualifiers reported for the Eurovision 2026 Second Semi‑Final (scheduled for Thursday, May 14, 2026) according to the official Eurovision results (or a consensus of credible reporting). ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
+- What must happen to resolve YES vs NO:
+  - YES: On May 14, 2026 (Second Semi‑Final night), Malta is announced among the advancing countries (top 10 qualifiers from that semi‑final under Eurovision rules) and the official Eurovision results list Malta as qualified.
+  - NO: Malta is not announced among the qualifiers on that night (or the contest/advancement does not occur by the fallback date in the market rules). The market description also says that if it becomes impossible for the listed candidate to advance (e.g., disqualification) the market could immediately resolve to “No.” (Market rules in prompt.)
 
-– Bullish Evidence (argues price reasonable):
-  • Giulia Magri (Times of Malta, 2026-02-15): Eurovisionworld aggregator gives Malta a ~55% chance, ranking 10th (on the borderline).
-  • Some positive critical reviews of the staging and vocal performance could boost televote/jury appeal not yet reflected in bookie odds.
+2) EVIDENCE EVALUATION (all relevant evidence found)
+- Confirmations / baseline facts
+  - Malta has a confirmed entry for Eurovision 2026: AIDAN with the song “Bella,” selected via Malta’s national final (MESC) on 17 January 2026. This is the official Maltese selection for Vienna 2026. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Malta_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+  - Malta was placed into the Second Semi‑Final (scheduled for May 14, 2026), in the second half of the show, by the EBU allocation draw on 12 January 2026. That places Malta squarely in the exact semi‑final referenced by the market. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
 
-– Credibility & Recency
-  • All sources are from mid-February 2026 and from reputable local outlets; bookmaker odds are typically high-signal. Eurovisionworld’s model is less transparent than major bookies.
+- Evidence that could argue the market price is TOO HIGH (i.e., downside / reasons Malta might not qualify)
+  - Uncertainty before rehearsals/jury previews: At this stage (March 20) the live staging, jury rehearsal showings and full running order details are not yet available; those items materially affect jury scoring and televote visibility. Without rehearsals, predictions rely on studio recordings and early promo reaction, which can diverge from live show outcomes. This argues caution about certainty. (Contextual observation; relevant to interpretation of any early high probability.)
+  - Historical variability: Malta’s results have fluctuated in recent years (they both qualify and sometimes fail), so past qualification is not a guarantee. (See country history summaries and national‑final reporting.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Malta_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+  - Small‑sample risk for low‑volume markets: the market shows Total Vol $0 and a tiny spread. That makes the posted price subject to being set by a single participant or a platform default — raising the chance the price reflects opinion rather than an informed consensus.
 
-3. MARKET EFFICIENCY ANALYSIS
-– The 79.5% price far exceeds both mainstream bookmaker estimates (21% and ~11%) and the aggregator’s 55%.  
-– $0 volume suggests few participants; tight 5¢ spread likely set by an automated market maker rather than consensus.  
-– The divergence implies traders with private bullish info or simple mispricing. Given no major new developments (song, performance) surfaced in late Feb., it seems unlikely insiders have reason to peg odds near 80%.
+- Evidence that supports the market price (i.e., reasons 78.5% is plausible)
+  - Entry quality and reception: Multiple fan/news outlets and betting commentary place Malta’s entry (AIDAN — “Bella”) in the upper tier among contenders and describe it as having strong jury appeal (a jazzy/orchestral ballad with cross‑market appeal). Fan outlets and betting roundups list Malta among countries likely to reach the Top‑10 or at least to be competitive. Those sources currently treat Malta as a reasonably strong qualifier. ([eurovisionfun.com](https://eurovisionfun.com/en/tag/aidan-en/?utm_source=openai))
+  - Allocation math: Each semi‑final in 2026 will likely send 10 qualifiers; with ~15–18 participants per semi and 10 qualifier slots, many reasonably strong entries have better‑than‑even odds relative to a naive uniform prior. Malta’s placement in the second half is usually considered slightly advantageous for visibility (producer running‑order benefits) but that effect is modest and uncertain. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
+  - Bookmaker/fan consensus: Betting‑odds roundups and several fan sites show Malta placed consistently in the “upper tier” for overall contest odds; that suggests bookmakers/fans currently consider Malta more likely than many others to outcompete semi‑final rivals — consistent with ~75–80% to qualify depending on the competitor field. ([whatodds.io](https://whatodds.io/blog/eurovision-2026-top-10-odds-best-value-picks?utm_source=openai))
 
-4. MISPRICING ASSESSMENT
-– The highest credible outside probability is 55% (Eurovisionworld). Using that as an upper bound, the market is ~24.5¢ too high.  
-– There is no sign of new performance leaks or judging-rule changes that would justify jumping to ~80%.  
-– Reasonable interpretation of 79.5% might be trader overconfidence or an uninformed automated rake.  
-– Critical check: Resolution criteria are straightforward (top 10 qualifies on May 14), and the semi hasn’t occurred—market hasn’t simply locked in.
+- Source credibility and recency
+  - Official allocation: Eurovision/EBU (via coverage) and major fan sites (EurovisionUniverse) reporting on the January 12 allocation draw are high‑credibility for the core fact that Malta is in Semi‑Final 2. (EurovisionUniverse directly reports the allocation draw results.) ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
+  - Malta selection (AIDAN / “Bella”): reporting on MESC 2026 from established Eurovision press and national outlets (ESCXTRA, EurovisionFun, local coverage) is timely and consistent; these are credible for reporting the winner of a national final. The Malta national broadcaster PBS is the primary source (reported via fan and news sites). ([escxtra.com](https://escxtra.com/2025/06/13/malta-confirm-eurovision-2026-participation-and-release-songwriting-camp-details/?utm_source=openai))
+  - Bookmakers and betting roundups (WhatOdds, EurovisionFun betting articles) give a snapshot of market sentiment; they are useful but are secondary and can change rapidly as songs, staging, and rehearsals are released. ([whatodds.io](https://whatodds.io/blog/eurovision-2026-top-10-odds-best-value-picks?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION
-– Strength of evidence: 60% (bookie consensus clearly undercuts market; sources are timely).  
-– Magnitude of mispricing: ~25¢ (79.5%–55%).  
-– Expected value ≈ 0.60 × 25¢ = 15¢.
+- Skeptical notes (why “obvious” evidence might already be priced in)
+  - If Malta’s studio recording and early fan/promo reaction strongly favored qualification, bookmakers and fans would already price that in — and the 78.5% market price sits comfortably in a range that those sources imply. So an “obvious” signal (e.g., Malta is top 3 favorite) would likely produce still higher bookmaker certainty or heavier betting volume; the absence of heavy market volume suggests either people already think the chance is mid‑to‑high (and don’t see value) or simply haven’t traded here.
 
-EXPECTED_VALUE: 15  
-SUMMARY: Malta’s chances as per multiple bookmaker sources (11–21%) and one odds aggregator (55%) are all well below the market’s 79.5%, suggesting a ~25¢ overpricing and an expected value of about 15¢ to exploit this mispricing.  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations of the current price (78.5%):
+  - Charitable interpretation 1 (consensus): The price reflects a genuine consensus among Eurovision bettors/fans that Malta’s song has high qualification odds, especially given favorable jury appeal and a semi‑final field where several rivals are seen as weaker. Bookmakers’ and fan polls’ upper‑tier placement for Malta supports this. ([whatodds.io](https://whatodds.io/blog/eurovision-2026-top-10-odds-best-value-picks?utm_source=openai))
+  - Charitable interpretation 2 (thin/liquidity driven): The price is set by a single or very few participants on a low‑volume market; price may not reflect aggregated market information but rather one trader’s view. The platform metrics (Total Vol $0) and small spread are consistent with a listing that has not attracted liquidity.
+- Which is more likely?
+  - Both are plausible. The available external signals (fan and bookie sentiment) make the ~78.5% number plausible as a crowd estimate; however the on‑platform liquidity metrics mean the posted price cannot be treated as robustly aggregated. Without on‑platform trading history or off‑platform bookmaker probabilities for the specific “to qualify from semi‑final” market, it’s impossible to say the platform price was produced by many independent informed agents.
+- Is the low volume because the outcome is obvious or because informed traders haven’t engaged?
+  - Mixed: The external commentary suggests Malta is considered a solid contender (which reduces incentive for value‑seeking trades), but the low on‑platform volume and lack of spread movement suggest many informed traders may simply be using bookmakers or other venues, leaving this market thin. Both factors can coexist.
+
+4) MISPRICING ASSESSMENT (objective weighing)
+- Do I have specific, credible evidence that the market is mispriced by a large margin (e.g., >20 percentage points)?
+  - No. The external evidence (national‑final selection, early fan/bookmaker sentiment, allocation draw placement) supports Malta being a favored qualifier but does not provide a precise probability that contradicts 78.5% by a large margin. There are still meaningful sources of uncertainty (live staging, jury reaction, televote dynamics, exact running order) that justify not assigning near‑certainty.
+- Could I be missing something? Critical checks:
+  - Resolution criteria: The market resolves on the official Eurovision result for Semi‑Final 2; Malta is indeed in that semi‑final (so the market is actionable). I verified allocation and the Maltese selection. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
+  - Other hidden info traders might have: rehearsals, insider staging plans, or national broadcaster issues could shift probabilities closer to contest time; these are not available publicly now. That could explain conservative pricing by informed traders.
+- Conclusion on mispricing:
+  - There is insufficient credible evidence to claim a large mispricing. The available evidence makes 78.5% a plausible point estimate for Malta’s chance to qualify from Semi‑Final 2 at this stage, though uncertainty remains and the platform price is fragile because of zero on‑platform volume. In short: no clear mispricing signal worth a large bet, but thin liquidity creates execution risk and the possibility of moderate small arbitrage if you have extra, better information.
+
+5) EXPECTED VALUE CALCULATION (numbers)
+- Strength of evidence that price is missing sizable, actionable information: I assess this as low→moderate because external bookmaker/fan sentiment supports a high chance but not near‑certainty. Strength = 25%.
+- Magnitude of likely mispricing if it exists: I judge any genuine mispricing is probably small (a few cents). A reasonable upper bound for a plausible error given current information: ~5¢ (0.05 USD) — i.e., market could be off by a few percentage points, not by 20+ points.
+- Expected value = Strength × Magnitude = 25% × 5¢ = 1.25¢
+  - Rounded and reported as: 1.25 cents expected value.
+
+6) FINAL ASSESSMENT and ACTIONABLE TAKEAWAYS
+- Best objective verdict: The posted probability (78.5%) is plausibly reasonable given public evidence (AIDAN selected, Malta in Semi‑Final 2, bookmaker/fan sentiment placing Malta in the upper tier). There is not enough credible, public evidence to assert a large (>20¢) mispricing. The market’s zero volume however makes the posted price fragile — it may change suddenly if a single trader acts.
+- Practical recommendation: If you seek value, you need either (a) additional private information (staging/jury reactions) that materially reduces Malta’s chance, or (b) see a divergence between robust bookmaker “to‑qualify” prices and this market. Absent that, this market’s current price is plausible but thinly supported on‑platform; trading here carries execution and liquidity risk even if the implied probability is accurate.
+
+EXPECTED_VALUE: 1.25
+SUMMARY: Malta is officially in Eurovision 2026 Second Semi‑Final and selected AIDAN with “Bella”; fan and bookmaker commentary place Malta in an upper tier for qualifying, so a ~78.5% market price is plausible. However the market has zero on‑platform volume, so the posted price is fragile — there’s no clear, credible public evidence of a large mispricing. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/?utm_source=openai))
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Eurovision odds: Malta on a knife-edge chance of qualifying for final
-Author: Giulia Magri
-Published Date: 2026-02-15T00:00:00.000Z
-URL: https://timesofmalta.com/article/eurovision-odds-malta-on-a-knife-edge-chance-of-qualifying-for-final.953917
-Summary: Malta's chances of qualifying for the Eurovision final are currently uncertain but appear to be on the borderline. According to odds aggregator Eurovisionworld, Malta's entry "I am what I am" performed by Emma Muscat has about a 55% chance of advancing from the second semi-final, with Malta ranked 10th out of 10 qualifying spots, just ahead of Azerbaijan. However, the ranking fluctuated, and Malta was previously 11th, indicating a tight race. While Malta's prospects are slim, they are still in contention to qualify. The outcome depends on the final semi-final performances and voting, but current odds suggest Malta's qualification is not guaranteed.
+### [This is the 2026 allocation draw](https://www.eurovisionuniverse.com/news/this-is-the-2026-allocation-draw/)
+**Author:** Martijn (Eurovision Universe) | **Published:** 2026-01-12
 
-Title: Malta's Eurovision song ranks very low among bookmakers
-Author: James Cummings
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://timesofmalta.com/article/malta-eurovision-song-ranks-low-among-bookmakers.1091512
-Summary: Malta's chances of advancing through the second Eurovision Semi-Final are currently estimated at around 21%, indicating a modest likelihood of qualification. Malta's entry, Sarah Bonnici, is competing in the semi-final on May 9, where she will open the show. As of mid-week, Malta ranked 15th out of 16 in the semi-final, narrowly avoiding last place. Historically, Malta has struggled to reach the finals, with the last appearance in the Eurovision final occurring in 2021. Overall, Malta faces significant challenges to qualify for the Eurovision final this year.
+Reports the EBU Semi‑Final Allocation Draw held 12 January 2026 and lists which countries are in each semi‑final and half of the show. The article places Malta in the Second Semi‑Final (14 May 2026), second half — a core factual input to this market because the market asks specifically about the Second Semi‑Final qualifiers. This supports the market’s basic eligibility (Malta is indeed in the referenced semi‑final) and frames which competitors Malta will face; that affects baseline qualification probability estimates.
 
-Title: Eurovision 2025: Everything you need to know about Malta’s participation
-Author: Matthew Bonanno
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://timesofmalta.com/article/eurovision-2025-everything-need-know-malta-participation.1109590
-Summary: Malta's entry, Miriana Conte with the song "Serving," is competing in the second Eurovision semi-final, scheduled for Thursday at 9pm. She is positioned ninth out of 16 acts, facing strong competition from countries like Israel, Finland, and Austria, which are considered top contenders. Bookmakers currently rate Malta as a 1/9 chance of qualifying, with some predicting a good chance of reaching the final based on betting odds and positive critical reviews. Critics praise Conte's vocal talent and stage presence, boosting Malta's prospects. However, the song's recent lyric change due to controversy may influence audience reception. Overall, Malta has a credible chance to advance, but qualification is not guaranteed.
+### [Malta confirm Eurovision 2026 participation and release songwriting camp details](https://escxtra.com/2025/06/13/malta-confirm-eurovision-2026-participation-and-release-songwriting-camp-details/)
+**Author:** Unknown | **Published:** 2025-06-13
 
-Title: My 2025 Pre-Contest Predictions (explanation in comments) - Reddit
-Author: SkyGinge
-URL: https://www.reddit.com/r/eurovision/comments/1jzxxkj/my_2025_precontest_predictions_explanation_in/
-Summary: The webpage discusses predictions for Eurovision 2025, focusing on various entries and their potential results. Key points include debates over Belgium's chances, with some believing it may struggle to reach the top 3 jury results due to its polarizing nature and lack of originality, while others think it could make the top 10 if performances are strong. The Netherlands is predicted to do well, possibly finishing in the top 5 overall, with some underestimating its televote appeal. Norway and Denmark are also mentioned as strong contenders, though their jury and televote prospects vary. Overall, the discussion highlights the importance of performance quality, originality, and diaspora support in advancing through semi-finals. While Malta is not directly discussed, the emphasis on performance and appeal suggests that Malta's chances depend heavily on its staging, originality, and audience reception in the semi-final.
+ESCXTRA reports PBS’s confirmation of Malta’s participation in Eurovision 2026 and details about the national selection process (MESC) including songwriting camp and selection timeline. This source establishes the official Maltese selection process and timeline — relevant because the market’s resolution depends on Malta fielding an entry and that entry being eligible to qualify; it also provides background on how Malta sourced songs and prepared their entry.
 
-Title: Eurovision 2025: Final lineup set after second semifinal
-Author: 
-URL: https://www.euronews.com/culture/2025/05/16/eurovision-2025-final-lineup-set-after-second-semifinal
-Summary: Malta's Miriana Conte successfully advanced to the Eurovision 2025 final with her campy, diva-style song "Serving." She was among the 16 countries competing in Thursday’s second semi-final, which resulted in six eliminations. Since Malta's entry qualified for the final, it indicates that Malta will not be eliminated in the semi-final and is likely to compete in the grand final on Saturday.
+### [AIDAN (tag page) — EurovisionFun (collection of Aidan articles)](https://eurovisionfun.com/en/tag/aidan-en/)
+**Author:** EurovisionFun staff (various; site lists contributors) | **Published:** 2026-03-10
 
+EurovisionFun’s coverage documents AIDAN’s win of MESC 2026 with the song “Bella”, links to the music video and summarizes early reactions and promotional appearances. This is directly relevant because it confirms the entrant and describes early assessments of the song’s style and perceived jury/televote appeal; those qualitative impressions help explain why bookmakers/fans place Malta in the upper tier for qualification.
 
+### [Eurovision 2026 Top 10 Odds: Best Value Picks Right Now | WhatOdds.io](https://whatodds.io/blog/eurovision-2026-top-10-odds-best-value-picks)
+**Author:** Unknown | **Published:** Unknown (March 2026)
+
+Betting‑odds commentary ranking entries and highlighting value plays, noting Malta/AIDAN as among the upper tier of contenders and discussing relative bookmaker odds. This source supplies evidence about market sentiment outside the prediction‑market platform (i.e., bookmakers and bettors), supporting the plausibility of a high qualification probability for Malta and informing whether the prediction market price diverges from broader betting sentiment.
+
+### [Malta Eurovision 2026 to look back in nostalgia‑themed edition](https://timesofmalta.com/article/malta-eurovision-2026-look-back-nostalgiathemed-edition.1121623)
+**Author:** Unknown | **Published:** Unknown
+
+Coverage of Malta’s MESC 2026 process and theme, confirming the national selection dates and the broadcaster’s plans. This local reporting corroborates the national final process and provides attendance/viewership context in Malta; it helps confirm that Malta is participating via a standard, timely national selection and that the selection produced the AIDAN entry now competing in Vienna — relevant to eligibility and public support signals.

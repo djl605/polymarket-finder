@@ -1,7 +1,7 @@
 # Research: Will Adriano Espaillat be the Democratic Nominee for NY-13?
 
 **Market ID:** 0xba8526e4bf87c26c043d7048d364508d066117c173a91f2c56a82128fdc9102c
-**Researched At:** March 13, 2026 at 04:13:50 AM UTC
+**Researched At:** March 20, 2026 at 04:20:49 AM UTC
 **Search Query:** "Will Adriano Espaillat be the Democratic Nominee for NY-13?"
 
 ---
@@ -9,77 +9,61 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.8¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-Public records (FEC), local reporting, and institutional endorsements (CHC/CBC PAC) favor incumbent Adriano Espaillat; an organized DSA‑backed challenger with nontrivial early funds creates credible upside risk for an upset. Given low market volume, the 59% price is defensible and any mispricing appears modest (estimated ~8¢), not large enough to conclude a clear arbitrage.
+Incumbent Adriano Espaillat is publicly running, holds institutional roles/endorsements and strong fundraising—factors that plausibly justify a >50% market price. A credible progressive challenger (Darializa Avila Chevalier), with activist backing, creates nontrivial upset risk, but I found no specific, high‑quality evidence indicating a large (>20¢) mispricing. The market’s 61% price appears reasonable; any mispricing is likely modest. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?ut
 
 ### Full Analysis
 
-I researched current reporting, filings, and local political coverage for NY‑13 and the Adriano Espaillat primary. Below is an evidence‑first, structured evaluation of whether the market price (59% for Espaillat, low $784 volume, 4¢ spread) shows credible mispricing.
+Plan and searches
+- Key questions: (a) Has Adriano Espaillat declared a 2026 re‑run and what institutional support/fundraising does he have? (b) Who are credible primary challengers and what is their strength (endorsements, fundraising, organization)? (c) Are there recent developments that materially change the probability of Espaillat winning the June 23, 2026 Democratic primary for NY‑13?
+- I used three web searches (campaign site / FEC / news sources) and prioritized primary sources and reputable outlets (FEC, AP, Cook, City & State, American Prospect, campaign sites).
 
 1) CONTEXT ANALYSIS
-- What the market asks: Will Adriano Espaillat be the Democratic nominee for NY‑13 in the June 23, 2026 Democratic primary (if no nominee announced by Nov 3, 2026 the market resolves to “Other”)? (Market description provided by you.)
-- How it resolves YES vs NO:
-  - YES = the official Democratic nominee for NY‑13 (as confirmed by the official Democratic sources / consensus described in the market rules, e.g., democrats.org) is Adriano Espaillat.
-  - NO = any other candidate is the nominee (including any other named candidate or an “Other” outcome if no nominee is declared by Nov 3, 2026).
-- Key operational points that matter to interpretation: this is a primary outcome (not general election), the resolver will use official Democratic sources, and the primary is on June 23, 2026 (so the event will normally resolve shortly after that date unless some procedural/technical issue prevents a nominee from being announced). (See campaign calendar and market description.) ([adrianoespaillat.com](https://www.adrianoespaillat.com/?utm_source=openai))
+- Market question: Will Adriano Espaillat be the Democratic nominee for New York’s 13th Congressional District (primary June 23, 2026; resolves to the official Democratic nominee per Democrats.org; if no nominee announced by Nov 3, 2026 it resolves to "Other"). For YES: Espaillat must be designated the Democratic nominee (normally by winning the June 23, 2026 primary or being the only certified nominee). For NO: some other candidate must be certified as the Democratic nominee (i.e., Espaillat loses the primary or is replaced before certification in a way that changes the official nominee). ([adrianoespaillat.com](https://www.adrianoespaillat.com/?utm_source=openai))
 
-2) EVIDENCE EVALUATION (all relevant evidence; credible sources and recency noted)
-A. Evidence that supports the current market price (i.e., supports Espaillat being favored)
-- Incumbency and seniority: Adriano Espaillat is the incumbent Representative for NY‑13 and is active in Congress, including serving as chair of the Congressional Hispanic Caucus—an institutional position that signals continued establishment support and national visibility. This favors his renomination. ([chc.house.gov](https://chc.house.gov/members?utm_source=openai))
-- Fundraising and campaign organization: Espaillat’s campaign shows a sizable, established federal committee and campaign infrastructure; FEC records and aggregated election trackers list Espaillat as the incumbent candidate with substantially more campaign receipts and resources than many challengers. Strong cash on hand and an active campaign site indicate he is running for reelection. These are durable advantages in a primary against lesser‑funded challengers. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
-- Establishment endorsements and institutional defense: local and national Democratic organizations (including a reported endorsement by the Congressional Black Caucus PAC and the institutional backing implied by CHC leadership) have publicly supported Espaillat in this cycle, which undercuts insurgent progressive momentum. Endorsements matter in low‑turnout primaries and can blunt a grassroots challenge. ([amsterdamnews.com](https://amsterdamnews.com/news/2026/01/22/adriano-espaillat-endorsed-by-congressional-black-caucus-pac/?utm_source=openai))
-- District partisanship and incumbent history: NY‑13 is a heavily Democratic Manhattan/Bronx district where the Democratic primary is typically decisive; historically incumbents in such districts have high renomination rates absent major scandals or retirement. Cook/other trackers identify NY‑13 as the incumbent’s seat for 2026. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483636?utm_source=openai))
+2) EVIDENCE EVALUATION (all statements below are supported by cited sources)
+Evidence that supports Espaillat likely winning (supports current ~61% price)
+- Incumbency and recent electoral strength: Espaillat is the incumbent congressman for NY‑13 and was re‑elected in 2024 by a large margin, indicating seat security and name recognition. This is a strong structural advantage in a Democratic primary. ([apnews.com](https://apnews.com/article/0bec9e91b5b84845a1b42fbefc8e67ca?utm_source=openai))
+- Institutional roles and endorsements: Espaillat serves as chair of the Congressional Hispanic Caucus and has received institutional backing (reporting shows the Congressional Black Caucus PAC endorsed his re‑election). Such endorsements bring money, outreach, and establishment organizing that historically help incumbents fend off primary challengers. ([espaillat.house.gov](https://espaillat.house.gov/media/press-releases/representative-adriano-espaillat-elected-chairman-congressional-hispanic?utm_source=openai))
+- Fundraising / resources: FEC reports show Espaillat’s campaign has significant receipts and cash on hand for a House primary (six‑figure receipts and large cash on hand), which supports the operational capacity to run a robust primary campaign. That financial advantage reduces upset risk. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
 
-B. Evidence that suggests the current market price might be too high (i.e., challenger has plausible path)
-- Organized progressive challenge and endorsements: Darializa Avila Chevalier is an active progressive challenger who has won endorsements from the NYC chapter of DSA and is being promoted by left‑wing groups; City & State and Axios reported DSA and progressive interest in targeting incumbents like Espaillat. In a low‑turnout, energized progressive primary base, DSA mobilization has occasionally produced upsets. ([muckrack.com](https://muckrack.com/petersterne?utm_source=openai))
-- Tangible challenger fundraising and presence: Avila Chevalier’s FEC filings show meaningful early receipts and cash on hand for a challenger (~$136k raised with ~$118k cash on hand as of the last report), which is nontrivial for a primary insurgent and allows paid organizing/advertising. That reduces the “paper‑candidate” risk and makes an upset more plausible than if she were unfunded. ([fec.gov](https://www.fec.gov/data/candidate/H6NY13279/?utm_source=openai))
-- Local political dynamics: recent New York local elections (e.g., the success of left‑wing candidates like Zohran Mamdani in 2025) and DSA organizing suggest the progressive energy in parts of Manhattan could translate into concentrated turnout that helps a well‑organized insurgent in a crowded primary. City & State coverage outlines DSA’s targeting strategy across multiple NYC seats. ([fliphtml5.com](https://fliphtml5.com/ldkst/csny01262026_webflats/?utm_source=openai))
+Evidence that challenges the current price (i.e., reasons Espaillat could lose)
+- Progressive challenger entry and organizational backing: Darializa Avila Chevalier has publicly launched a primary challenge to Espaillat and has backing/interest from progressive groups (NYC‑DSA/Justice Democrats and local progressive networks). In NYC recent progressive insurgencies have been consequential (the “Mamdani effect” is frequently cited by local reporting). A well‑organized progressive insurgent in a localized, low‑turnout primary could overcome even established incumbents under the right conditions. ([darializaforcongress.com](https://www.darializaforcongress.com/news?utm_source=openai))
+- Momentum and political environment: Local reports emphasize a generational/ideological energy among progressives in NYC after recent wins; that energy increases upset potential versus past cycles. In a crowded or low‑turnout primary electorate, mobilized activist bases can have outsized impact. ([yahoo.com](https://www.yahoo.com/news/articles/rift-over-generational-change-roils-150000050.html?utm_source=openai))
 
-C. Credibility, recency, and balance
-- Sources used are recent (late‑2025 through March 2026) and include primary sources (FEC filings), reputable local political outlets (City & State, Politico, Axios), official congressional/CHC press pages, and authoritative election trackers (Green Papers / Cook). These are appropriate for assessing campaign standing and likely voter behavior in 2026. ([fec.gov](https://www.fec.gov/data/candidate/H6NY13279/?utm_source=openai))
-- Caveat: much of the predictive inference (who will win in June) requires estimating turnout, ground game effectiveness, and endorsement influence, which are not fully captured by public filings. Therefore, any probability judgement should be treated as an informed estimate, not a certainty.
+Source credibility and recency
+- FEC and AP are high‑quality primary/press sources (fundraising and official election result reporting). Cook Political and City & State are reputable political analysis/local outlets. Campaign sites give campaign positions and announcements (primary source for candidacy). Yahoo aggregated reporting is secondary but summarizes specific CBC/PAC news; American Prospect and amNewYork provide useful local context on challengers. All cited items are from the 2024–2026 period and are recent enough to be relevant to a June 23, 2026 primary. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
 
-D. Why obvious evidence might not fully settle price
-- If the case for Espaillat were truly overwhelming, one would expect near‑certainty pricing (>80%) and/or much higher trading volume; the market sitting at 59% suggests traders see nontrivial risk (and/or the market lacks enough professional liquidity). Given incumbency + endorsements + funding, a 59% price implies either (a) traders are correctly incorporating organized progressive risk, or (b) the market is reflecting the views of a small number of traders who are conservative about incumbency strength. The presence of a funded challenger and DSA endorsement helps explain why price is not >80%. ([fec.gov](https://www.fec.gov/data/candidate/H6NY13279/?utm_source=openai))
+Skeptical notes (why evidence that seems obvious might already be priced)
+- Incumbency, endorsements, and cash are public and obvious inputs; they are very likely already reflected in the market price. Conversely, challenger energy (DSA/Justice Democrats) is public too — but the market may be discounting the ability of a challenger to translate activist support into enough primary votes in June. Given the market’s low volume, small numbers of informed traders or a single liquidity provider could set a price near the "establishment‑favored" view without full aggregation of activist signals.
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations that justify 59%:
-  - 59% is a compromise between an incumbent‑favorite baseline (say 65–80%) and insurgent upside from a DSA‑backed challenger with nontrivial early fundraising (pulling the weighted expectation down). Traders may have discounted Espaillat to ~60% to reflect late primary volatility, concentrated progressive turnout, and the crowded field (vote splitting among multiple challengers could either help or hurt the leading challenger).
-  - The market’s low total volume ($784) means the current price could reflect action by a small number of traders rather than broad aggregation. The tight spread (4¢) indicates the platform allows narrow pricing, but spread tightness alone does not prove deep, diverse liquidity.
-- Could this price represent consensus vs one/few traders?
-  - Given low volume and the market age (83 days), the price plausibly reflects only a few active traders. That increases the chance the market is “stale” or over‑/under‑reacting to individual pieces of news (e.g., a DSA endorsement or an early FEC filing) rather than fully aggregating professional trader views.
-- Why low volume might be low because the outcome is obvious vs overlooked:
-  - The outcome is not obvious (challenge exists, funding is nontrivial), so low volume likely reflects either limited attention or few traders willing to commit capital rather than genuine consensus. Active professional bettors often focus on open/competitive/closely hedgable opportunities; NY‑13 may be seen as lower‑value because the primary is local and harder to arbitrage.
+- Reasonable interpretations of a 61% price:
+  - Charitable: 61% reflects the incumbent advantage, institutional endorsements, and funding advantage, while leaving room (~39%) for a credible progressive upset driven by activist turnout and momentum. That is a defensible mid‑range probability for a contested incumbent primary in NYC where insurgent threats exist but incumbents usually prevail.
+  - Less charitable: With low total volume ($819) and a tight spread (2¢), the quoted price could largely reflect one or a few traders’ priors (or a liquidity provider’s inventory/hedge) rather than a deep market consensus. Low volume markets are commonly "sticky" and can stay off true consensus until larger traders engage.
+- Is low volume because outcome is clear or overlooked? Evidence suggests both: outcome is not a foregone conclusion (a credible challenger exists) but many traders may view incumbency + endorsements + cash as dominant and therefore not trade aggressively; that reduces volume and makes the observable price noisier.
 
-4) MISPRICING ASSESSMENT (weighing evidence; critical‑check)
-- Synthesis: incumbency, institutional power (CHC chair), establishment endorsements (CBC PAC), and larger campaign resources point to Espaillat being the favorite. The progressive challenger has meaningful endorsements (DSA) and early funds, which justify nonzero upset probability. The market price (59%) therefore seems plausible as it balances those forces.
-- Is there specific, credible evidence missing from the price that would indicate mispricing >20¢?
-  - I did not find any high‑credibility, recent evidence (e.g., a resignation, indictment, medical incapacity, mass endorsement switch, or catastrophic fundraising collapse) that would justify moving the probability by >20 percentage points away from the current price. Espaillat is active in Congress, has campaign infrastructure, and earned establishment endorsements; none of the sources indicate a likely imminent collapse of his campaign. ([chc.house.gov](https://chc.house.gov/media-center/press-releases/chc-chair-espaillat-leads-36-members-congress-demanding-answers?utm_source=openai))
-- Critical check: could I be misunderstanding resolution criteria?
-  - The market resolves to the official Democratic nominee by Democrats’ official sources; that is straightforward. The June 23, 2026 primary is the determinative event. No evidence indicates the primary date or resolution conditions are mis-specified. The market’s “Other” fallback only applies if no nominee is announced by Nov 3, 2026; that scenario looks unlikely given a scheduled primary. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/NY?utm_source=openai))
-- Most charitable interpretation of the 59% price: it encodes the incumbency advantage (majority probability) while leaving significant room for an energized insurgent with DSA backing and meaningful early fundraising. Given low trading volume, the price likely reflects a small group of traders reasonably acknowledging both sides.
+4) MISPRICING ASSESSMENT (apply critical check)
+- Do we understand resolution criteria? Yes: the market resolves to the official Democratic nominee as per Democrats.org (primary winner typically). The market description clarifies timeline and replacement rules; nothing in my research indicates a technicality that would change resolution. ([adrianoespaillat.com](https://www.adrianoespaillat.com/?utm_source=openai))
+- Is there specific, credible evidence missing from the market price that would justify concluding a large mispricing (>20¢)? No. All the major public facts that would materially favor one side (incumbent status, endorsements, fundraising; presence and backing of progressive challenger) are public and likely known to traders. I found no private polling or sudden scandal that would materially shift the race and that the market has not had time to price.
+- Therefore: the price (61%) is plausible. The evidence does not show a clear, large mispricing. A modest mispricing could exist (market may underweight progressive organizational momentum or over‑weight incumbency), but I found no compelling, specific dataset indicating a >20¢ error.
 
-Conclusion of assessment: There is not credible, specific evidence of a large mispricing (>20¢). The market price is defensible. If anything, the available public evidence suggests a modest tilt toward Espaillat beyond 59% (i.e., the market may be slightly underpricing the incumbent), but the gap appears small.
-
-5) EXPECTED VALUE CALCULATION (estimate of the value of acting on a belief this market is mispriced)
-- My judgment:
-  - Best estimate of true probability (after weighing evidence): ~66–68% chance Espaillat wins the Democratic primary. Rationale: incumbency, CHC leadership, CBC PAC endorsement and superior overall war chest make a likely outcome somewhat higher than 59%; however Avila’s DSA backing and ~$118k cash on hand reduce certainty.
-  - Implied mispricing magnitude = market 59% vs my estimate about 67% → ~8 cents (0.08 dollars).
-  - Strength of evidence = moderately strong but not ironclad; I assign ~60% confidence that the market underprices Espaillat by that magnitude (this reflects good public data but uncertainty about turnout and ground game). (Strength = 60%).
-  - Expected value = Strength × Magnitude = 60% × 8¢ = 4.8¢.
-- Rounded expected value (in cents) for reporting: 4.8
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that price is missing something meaningful: moderate — many public factors are already visible to traders, but some uncertainty remains about activist turnout and how DSA/Justice Democrats will translate endorsements into votes. I estimate strength ≈ 40%.
+- Magnitude of plausible mispricing (if any): small–moderate, say 8¢ (0.08 in probability) — reflecting possibility the market slightly overprices incumbency or underprices insurgent momentum, but not a large blowout.
+- Expected value = 40% × 8¢ = 3.2¢
 
 6) CONFIDENCE
-- My assessment confidence: medium (good public data but important uncertainty remains about turnout, ground game, and local dynamics).
+- I assign medium confidence: sources are credible and recent, but primary dynamics are fluid and low‑volume market structure makes inference uncertain.
 
-FINAL JUDGMENT (short)
-- The market at 59% for Adriano Espaillat is plausibly priced and defensible given the balance of evidence. There is no clear, credible public evidence of a large (>20¢) mispricing. I estimate a modest potential underpricing of roughly 8¢ in Espaillat’s favor, with moderate confidence.
+Final assessment (concise)
+- Evidence indicates Espaillat is the strong favorite to be the Democratic nominee (incumbent, CHC chair, institutional backing, healthy fundraising), and those public factors likely justify a price above 50%. At the same time, a credible progressive challenger (Darializa Avila Chevalier) backed by activist groups creates a non‑negligible upset risk. Given the information found, there is no clear, specific evidence of a large (>20¢) mispricing; if any mispricing exists it is likely modest (single‑digit cents). The market price of 61% is defensible as reflecting incumbency plus a meaningful but not decisive insurgent risk. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
 
-EXPECTED_VALUE: 4.8
-SUMMARY: Public records (FEC), local reporting, and institutional endorsements (CHC/CBC PAC) favor incumbent Adriano Espaillat; an organized DSA‑backed challenger with nontrivial early funds creates credible upside risk for an upset. Given low market volume, the 59% price is defensible and any mispricing appears modest (estimated ~8¢), not large enough to conclude a clear arbitrage.
+EXPECTED_VALUE: 3.2
+SUMMARY: Incumbent Adriano Espaillat is publicly running, holds institutional roles/endorsements and strong fundraising—factors that plausibly justify a >50% market price. A credible progressive challenger (Darializa Avila Chevalier), with activist backing, creates nontrivial upset risk, but I found no specific, high‑quality evidence indicating a large (>20¢) mispricing. The market’s 61% price appears reasonable; any mispricing is likely modest. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
 CONFIDENCE: medium
 
 ---
@@ -89,46 +73,41 @@ CONFIDENCE: medium
 *The following sources were found via web search and used in the analysis:*
 
 ### [Adriano Espaillat for Congress](https://www.adrianoespaillat.com/)
-**Author:** Unknown (campaign site) | **Published:** Unknown (site current; contains campaign announcements updated through 2026)
+**Author:** Unknown | **Published:** Unknown
 
-This is Espaillat’s official campaign site; it confirms he is running for reelection in 2026 and advertises campaign priorities and events (relevant to whether he will be the Democratic nominee). The site indicates an active campaign apparatus and public re‑election messaging, supporting the incumbent‑advantage case for the market price. ([adrianoespaillat.com](https://www.adrianoespaillat.com/?utm_source=openai))
-
-### [AVILA CHEVALIER, DARIALIZA - Candidate overview | FEC](https://www.fec.gov/data/candidate/H6NY13279/)
-**Author:** Federal Election Commission | **Published:** Unknown (FEC pages updated by filing; data coverage shown through 12/31/2025)
-
-Official FEC candidate page showing Avila Chevalier’s authorized committee (“DARIALIZA FOR CONGRESS”), receipts (~$136,806) and ending cash on hand (~$118,195) for the reporting period. This verifies that the progressive challenger has concrete fundraising and is not a purely symbolic challenger — evidence that supports nontrivial upset probability and explains why the market does not price Espaillat near certainty. ([fec.gov](https://www.fec.gov/data/candidate/H6NY13279/?utm_source=openai))
+Official campaign site. It lists campaign information and references primary day details and donation/contact infrastructure. This is a primary source confirming Espaillat’s active campaign presence and that his team expects to contest the June 23, 2026 primary; it supports the assessment that Espaillat is an active, resourced incumbent (supports the market price). ([adrianoespaillat.com](https://www.adrianoespaillat.com/?utm_source=openai))
 
 ### [ESPAILLAT, ADRIANO - Candidate overview | FEC](https://www.fec.gov/data/candidate/H2NY13096/)
-**Author:** Federal Election Commission | **Published:** Unknown (FEC pages updated by filing; accessed March 2026)
+**Author:** Federal Election Commission (FEC) | **Published:** Unknown
 
-Official FEC candidate page for Adriano Espaillat (incumbent) showing his federal campaign committee information and filings. These records (and linked filings) document that Espaillat has a long‑standing campaign committee and the financial infrastructure consistent with a well‑resourced incumbency — a core reason to treat him as the primary favorite. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
+FEC candidate page showing Espaillat’s campaign filings, receipts, and cash-on-hand figures (recent reporting period). This provides authoritative, quantitative evidence of fundraising and resources available to his campaign—an important structural advantage that supports the probability that he will win the Democratic nomination. ([fec.gov](https://www.fec.gov/data/candidate/H2NY13096/?utm_source=openai))
 
-### [DSA votes to endorse Espaillat challenger Darializa Avila Chevalier](https://archive.vn/2026.01.09-013256/https://www.cityandstateny.com/politics/2026/01/here-are-nyc-seats-dsa-eyeing-2026/410359/)
-**Author:** Peter Sterne / City & State NY | **Published:** 2026-01-09
+### [NY-13 2026 | Cook Political Report](https://www.cookpolitical.com/house/race/483636)
+**Author:** Unknown | **Published:** Unknown
 
-Local reporting explaining NYC‑DSA endorsement activity and naming Darializa Avila Chevalier as a DSA‑backed challenger to Espaillat. City & State describes DSA’s strategy and where they are focusing resources; this supports the argument that Avila Chevalier has organized progressive backing that could make the primary competitive and explains why a market might stop short of pricing the incumbent as nearly certain. ([archive.vn](https://archive.vn/2026.01.09-013256/https%3A/www.cityandstateny.com/politics/2026/01/here-are-nyc-seats-dsa-eyeing-2026/410359/?utm_source=openai))
-
-### [Congressional Black Caucus endorses former rival Rep. Adriano Espaillat over Black primary challenger](https://archive.ph/Elg4f)
-**Author:** Jason Beeferman / Politico | **Published:** 2026-01-15
-
-Politico coverage reporting that the Congressional Black Caucus political arm (CBC PAC) endorsed Adriano Espaillat in his primary. This is high‑value evidence of institutional/establishment support that strengthens the incumbent’s position and reduces the likelihood of an insurgent victory — directly relevant to assessing whether 59% under- or over‑values the incumbent. ([archive.ph](https://archive.ph/Elg4f?utm_source=openai))
-
-### [Hispanic Caucus chair becomes latest House Dem to draw a primary foe](https://www.axios.com/2025/11/20/adriano-espaillat-primary-challenge-darializa)
-**Author:** Unknown (Axios staff) | **Published:** 2025-11-20
-
-Axios reported that Adriano Espaillat (CHC chair) drew a progressive challenger (Darializa Avila Chevalier) and placed the local challenge in the broader context of progressive activism after recent left‑wing wins. This source highlights both the prominence of the challenger and the political context that makes a primary contest plausible, supporting the view that risk to the incumbent should be priced in. ([axios.com](https://www.axios.com/2025/11/20/adriano-espaillat-primary-challenge-darializa?utm_source=openai))
-
-### [New York's 13th congressional district (Wikipedia)](https://en.wikipedia.org/wiki/New_York%27s_13th_congressional_district)
-**Author:** Unknown (Wikipedia) | **Published:** Unknown (page updated; accessed March 2026)
-
-District description and demographics (Harlem, Washington Heights, Inwood, parts of the Bronx). The district is heavily Democratic, so the primary is the determinative contest; this structural fact explains why the Democratic primary odds are the critical market to watch and why incumbency carries strong weight. (Used as background on partisan composition and geography.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/New_York%27s_13th_congressional_district?utm_source=openai))
-
-### [NY-13 | Cook Political Report (race overview)](https://www.cookpolitical.com/house/race/483636)
-**Author:** Unknown (Cook Political Report) | **Published:** Unknown (page maintained 2024–2026)
-
-Cook’s district page confirms NY‑13’s primary schedule and incumbency details, and is used to corroborate that the seat is the incumbent’s district and the June 23, 2026 primary calendar. It supports the conclusion that the primary is the deciding contest and that incumbents in such seats typically enjoy strong advantages. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483636?utm_source=openai))
+Cook Political’s race page for New York’s 13th district lists the incumbent (Adriano Espaillat), notes the primary date, and provides analyst context on the race. As a respected race tracker, Cook’s classification of NY‑13 and background helps corroborate the district’s partisan lean and the incumbent’s standing—factors that make an incumbent‑favored price plausible. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483636?utm_source=openai))
 
 ### [AP Race Call: Democrat Adriano Espaillat wins reelection to U.S. House in New York's 13th Congressional District](https://apnews.com/article/0bec9e91b5b84845a1b42fbefc8e67ca)
-**Author:** AP (Associated Press) | **Published:** 2024-11-06
+**Author:** Associated Press | **Published:** 2024-11-06
 
-AP’s 2024 race call confirming Espaillat’s recent reelection and the incumbent’s standing as of the last general election. This underscores incumbency continuity into the 2026 cycle and provides a factual baseline for evaluating the 2026 primary dynamics. ([apnews.com](https://apnews.com/article/0bec9e91b5b84845a1b42fbefc8e67ca?utm_source=openai))
+AP’s official call on the 2024 general election shows Espaillat won re‑election comfortably. This recent electoral performance provides direct evidence of his standing with voters in NY‑13 and is relevant to assessing his odds in a 2026 Democratic primary (incumbency advantage and name recognition). ([apnews.com](https://apnews.com/article/0bec9e91b5b84845a1b42fbefc8e67ca?utm_source=openai))
+
+### [News — Darializa For Congress](https://www.darializaforcongress.com/news)
+**Author:** Unknown (campaign) | **Published:** Unknown
+
+Official campaign news page for Darializa Avila Chevalier, who has announced a primary challenge to Espaillat. The site confirms her candidacy, platform posture (progressive), and public events—direct evidence that a credible challenger is in the race and is organizing, which increases upset possibility relative to an uncontested incumbent. ([darializaforcongress.com](https://www.darializaforcongress.com/news?utm_source=openai))
+
+### [DSA will consider endorsing Espaillat challenger at candidate forum](https://www.cityandstateny.com/politics/2025/12/dsa-will-consider-endorsing-espaillat-challenger-candidate-forum/410148/)
+**Author:** Unknown | **Published:** 2025-12-12
+
+City & State reporting on NYC‑DSA’s process to consider endorsing Darializa Avila Chevalier in her primary challenge to Espaillat. This local reporting provides independent confirmation that progressive organizing groups are evaluating and (in some cases) supporting the challenger—evidence of organizational resources on the challenger side that could shift turnout patterns in a low‑turnout primary. ([cityandstateny.com](https://www.cityandstateny.com/politics/2025/12/dsa-will-consider-endorsing-espaillat-challenger-candidate-forum/410148/?utm_source=openai))
+
+### [Justice Dems Pick Longtime Organizer to Take Harlem](https://prospect.org/2025/11/20/darializa-avila-chevalier-harlem-new-york-city-congress-justice-dems/)
+**Author:** Whitney Curry Wimbish | **Published:** 2025-11-20
+
+The American Prospect profiles Darializa Avila Chevalier, her background, and Justice Democrats’ involvement. This analysis explains the challenger’s organizational backing and messaging strategy; it supports the view that the challenger is real and has credible progressive networks, which is the main factor that would move the market price downward if underestimated. ([prospect.org](https://prospect.org/2025/11/20/darializa-avila-chevalier-harlem-new-york-city-congress-justice-dems/?utm_source=openai))
+
+### [The rift over generational change roils the Congressional Black Caucus](https://www.yahoo.com/news/articles/rift-over-generational-change-roils-150000050.html)
+**Author:** Cheyanne M. Daniels | **Published:** 2026-01-25
+
+Coverage on intra‑party dynamics and notes the Congressional Black Caucus PAC endorsement of Adriano Espaillat over his progressive challenger. This is relevant because CBC/PAC backing is an institutional signal that likely bolsters Espaillat’s position among establishment donors/voters and explains part of the market’s premium for him. ([yahoo.com](https://www.yahoo.com/news/articles/rift-over-generational-change-roils-150000050.html?utm_source=openai))

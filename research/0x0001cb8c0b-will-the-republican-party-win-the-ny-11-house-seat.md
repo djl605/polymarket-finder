@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the NY-11 House seat?
 
 **Market ID:** 0x0001cb8c0b39aeb614ab9a43867595317f06ede9c011661513065c638fbbefda
-**Researched At:** March 15, 2026 at 04:37:42 AM UTC
+**Researched At:** March 20, 2026 at 04:22:09 AM UTC
 **Search Query:** "Will the Republican Party win the NY-11 House seat?"
 
 ---
@@ -9,68 +9,75 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-The market’s 84% Republican probability is consistent with the Supreme Court’s March 2026 stay that preserved NY‑11’s current (Republican‑leaning) map, large 2024 margins for the incumbent, and expert ratings (Cook/Inside Elections/270toWin) that list NY‑11 as solid R. Low on‑market volume means the displayed price may reflect few traders, but public evidence does not point to a large, actionable mispricing today.
+Incumbent Republican Nicole Malliotakis and the district’s recent large GOP margins (and Cook’s “Solid R” rating) provide credible support for the market’s 83% Republican price; a pending lawsuit to redraw the district and any strong Democratic recruit or national wave are material but uncertain risks that could reduce that probability. Given available high‑quality sources, there is no clear, specific evidence that the market is mispriced by a large amount today.
 
 ### Full Analysis
 
-I researched recent news, court actions, official results, and expert ratings for New York’s 11th Congressional District (NY‑11) and compared those facts to the market price (84% Republican). Below I present an evidence-based evaluation following your requested structure.
+Analysis and findings
 
 1) CONTEXT ANALYSIS
-- What the market asks: “Will the Republican Party win the NY‑11 House seat?” — it resolves YES if the candidate who wins the Nov 4, 2026 election is a Republican (party determined by ballot-listed affiliation or, if not listed, by caucus intent), and the market uses credible reporting or — if ambiguous — official results (e.g., FEC) as resolution sources. (This is the market’s stated resolution rule; the district’s outcome on Nov 4, 2026 is what matters.)
-- How it resolves YES vs NO: YES if the certified winner on or after Nov 4, 2026 is a Republican (or is shown by credible reporting to be a Republican under the market’s caucus rule); NO if the certified winner is a Democrat (or otherwise not the Republican party).
+- Market question: Will the Republican Party win New York’s 11th congressional district seat in the U.S. House of Representatives on Election Day, November 4, 2026? The market resolves YES if the winning candidate is identified as Republican (ballot-listed party or caucus intent as described in the market), NO otherwise. The market’s resolution sources are consensus credible reporting or, if ambiguous, official federal results (FEC). ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
 
-2) EVIDENCE EVALUATION (all items are recent — Jan–Mar 2026 unless noted)
-A. Evidence that would make the current market price too high for Republicans (arguments for mispricing)
-- State trial court ordered the district redrawn on statutory/constitutional racial‑vote‑dilution grounds (this would have made the seat substantially more competitive or Democratic if new lines were implemented). That ruling, if it had been implemented, was a credible path to improving Democratic flip chances. (Jan. 21, 2026). ([apnews.com](https://apnews.com/article/288fbfc9f27fe1c7abca0bb68a439585))
-- Democratic strategists and some commentators explicitly framed the judge’s order as a plausible route for high‑profile Democrats (e.g., Dan Goldman/others) to contest a redrawn seat, which could materially change the race dynamic. If lines had been redrawn to include lower Manhattan, the underlying partisan margin would shift significantly. ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
+- What must happen:
+  - YES: a Republican candidate (ballot-listed as Republican or shown to caucus with Republicans) wins the certified November 4, 2026 election result for NY-11 as determined by reputable reporting or official results.
+  - NO: a non-Republican (Democrat or other) candidate wins, or official certification/consensus reporting lists the winner as non‑Republican.
 
-B. Evidence that supports the current market price (arguments that price is reasonable)
-- The U.S. Supreme Court granted emergency relief (a stay) and halted implementation of the state trial court’s redrawing order for the 2026 cycle (March 2–3, 2026). That preserves the existing NY‑11 map for the 2026 midterms, meaning the incumbent seat largely keeps the current Staten Island + south Brooklyn composition. This materially reduces the redistricting risk that had been the main Democratic path to flipping the seat. ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
-- Recent expert handicappers rate NY‑11 as solid/strong Republican (Cook Political Report shows NY‑11 R+10 / “Solid R”; Inside Elections / 270toWin indicate a very high GOP probability ~84–85%). Those independent ratings (post‑2024/2025 data and after the court developments) line up closely with the market price. Expert ratings incorporate incumbency, baseline partisan lean, and likely candidate fields. ([cookpolitical.com](https://www.cookpolitical.com/races?check_logged_in=1&order=State&page=8&sort=desc))
-- Incumbent performance and past vote margins: Nicole Malliotakis (R), the incumbent, won re‑election in 2024 by a large margin (~64% to ~36%); the district voted heavily Republican in 2024 (Inside Elections / Roll Call estimates Trump +24 in the district). That baseline partisan cushion is substantial and directly supports a high GOP probability. ([results.elections.ny.gov](https://results.elections.ny.gov/contest/5609))
-- Fundraising / campaign resources: public filings / aggregators show Malliotakis with multiple‑hundreds‑of‑thousands in recent quarter receipts and multi‑million dollars cash‑on‑hand as of late‑2025 filings — a significant financial advantage versus currently declared Democratic challengers. That resource advantage makes an upset less likely in a structurally Republican district. ([quiverquant.com](https://www.quiverquant.com/news/Insider%2BStock%2BPurchases%253A%2BFebruary%2B27%252C%2B2026?utm_source=openai))
+2) EVIDENCE EVALUATION (relevant, sourced facts)
+- Incumbency and recent results (evidence supporting a Republican win):
+  - Incumbent Rep. Nicole Malliotakis (R) holds NY-11 and was re-elected by a large margin in 2024 (Cook reports her last general ~64.1% and lists the race as “Solid R” in its 2026 race page); NY State official results and major outlets called Malliotakis the 2024 winner. These are strong, recent indicators of a Republican baseline advantage in this district going into 2026. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
+  - Established pro‑police/blue-collar constituency and district composition (Staten Island + parts of southern Brooklyn) have trended rightward since 2020 in federal elections per district analyses (Cook’s district description). An incumbent advantage plus district lean plausibly justify a high baseline Republican probability. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
+  - Campaign reporting/filings show Malliotakis’ campaign activity and filings in 2025 (FEC schedule entries), consistent with an active incumbent campaign and typical fundraising reporting for an incumbent. This supports incumbency strength (docs show FEC activity in 2025). ([docquery.fec.gov](https://docquery.fec.gov/pdf/008/202508129789458008/202508129789458008.pdf?utm_source=openai))
 
-C. Source credibility and recency
-- High‑credibility, recent sources inform the key facts: AP (court stay and trial court ruling), Roll Call (detailed local analysis and partisan margin calculations), Cook Political Report (race rating / PVI), the New York State Board of Elections (official 2024 vote totals), and established forecasters/aggregators (270toWin/Inside Elections) — all are recent (Jan–Mar 2026) and directly relevant to the market outcome. The most material factual shift in the last 8 weeks was the Supreme Court stay (Mar 2–3), which materially reduced the probability of a Democratic flip via court‑ordered redistricting. ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
+- Evidence that could reduce Republican odds (evidence that might make the market price too high):
+  - Pending lawsuit challenging the district boundaries: AP reports a lawsuit filed seeking to redraw the only GOP-held NYC district on grounds of undercounting growing Black and Latino populations; plaintiffs ask for reconfiguration to include lower Manhattan (a more Democratic area). If successful and implemented before the 2026 election, a map change could materially reduce Republican advantage in NY-11. However, timing and success are uncertain (lawsuits often take months/years and may not change maps before an election). ([apnews.com](https://apnews.com/article/acf899320ba1a78737e499a8252f9195))
+  - Democratic challengers: there are publicly noted Democratic filings/announcements for 2026 (local reports and ActBlue/organizer listings show at least some Democratic candidates expressing intent to run, e.g., an announced campaign reported in local outlets). As of the searches, there is not yet a major Democratic star candidate with widespread name recognition or public polling showing parity; however, candidate fields can change before filing deadline (Cook shows filing deadline Apr 2, 2026). A strong national Democratic wave in 2026 could also compress margins. ([vosa.tv](https://www.vosa.tv/eng/archives/39420?utm_source=openai))
 
-D. Bullish (Republican) vs Bearish (Democratic flip) perspectives
-- Bullish Republican case: preserved map (SCOTUS stay), strong incumbent margin in 2024, favorable partisan composition (Staten Island + GOP neighborhoods in Brooklyn), incumbency fundraising advantage, and multiple independent handicappers rating the seat safe/solid for Republicans. All of these push toward a high GOP win probability now. ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
-- Bearish Democratic case: the seat became the object of a legitimate legal challenge that a trial judge found persuasive — that suggests there was a plausible structural pathway to flip via remap (had redrawing been implemented). Also, national midterm dynamics, an unexpectedly strong Democratic recruit, or a scandal against the incumbent could move the probability materially between now and November — these are plausible tail risks. However, post‑stay those pathways are substantially weaker absent further legal or political changes. ([apnews.com](https://apnews.com/article/288fbfc9f27fe1c7abca0bb68a439585))
+- Source credibility and recency:
+  - Cook Political Report: high credibility on race ratings and PVI; page explicitly lists Malliotakis as incumbent and rated the race Solid R (last updated Feb 6, 2025 and PVI update Nov 17, 2025). This is one of the more authoritative race-rating sources. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
+  - AP News and New York State Board of Elections: high credibility for factual reporting and official election results (AP called the 2024 race; NY State Board provides certified 2024 results). These show robust Republican performance in 2024. ([apnews.com](https://apnews.com/article/acf899320ba1a78737e499a8252f9195))
+  - FEC/docquery filings: primary-source campaign finance filings are credible evidence of campaign activity but require parsing to produce summarized cash-on-hand figures; schedule B entries were located in 2025 filings, indicating continued campaign activity. ([docquery.fec.gov](https://docquery.fec.gov/pdf/008/202508129789458008/202508129789458008.pdf?utm_source=openai))
+  - Local reports / smaller outlets about Democratic challengers (ActBlue/listings, VOSA) are lower to medium credibility and should be treated as signal of announced runs rather than proof of viability. ([vosa.tv](https://www.vosa.tv/eng/archives/39420?utm_source=openai))
 
-E. Skepticism about “obvious” evidence
-- If the seat really were an easy Democratic flip, we would already see (a) high‑profile Democratic recruits, (b) very strong Democratic fundraising in the district, or (c) multiple forecasters moving it to toss‑up. Instead, experts retain a solid R rating and resources/field strength remain tilted to the incumbent — that is evidence that the market is not ignoring obvious facts. ([cookpolitical.com](https://www.cookpolitical.com/races?check_logged_in=1&order=State&page=8&sort=desc))
+- Balance of bullish vs bearish arguments:
+  - Bullish (Republican likely): large incumbent margins (2024 ~64%), Cook’s “Solid R” rating, district composition (Staten Island base), incumbency/fundraising activity — these together reasonably support a high probability for a Republican win in a normal national environment. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
+  - Bearish (Republican vulnerability): legal challenge to district lines (could change the electorate if successful and timely), possibility of a strong Democratic recruit or national wave, and the fact that low-volume markets can reflect concentration of traders rather than broad information. However, none of these currently provide direct, high-confidence evidence that a Republican loss is likely before the filing/primary window closes. ([apnews.com](https://apnews.com/article/acf899320ba1a78737e499a8252f9195))
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations that justify the 84% price:
-  - Independent handicappers and election aggregators (Cook, Inside Elections, 270toWin) put the seat in the “solid/likely Republican” category; 84% is consistent with those publicly available estimates and with the empirical baseline (2024 margin, PVI). The Supreme Court stay removed the primary structural risk (mid‑decade redraw) that could have made the seat competitive, so an 84% probability is consistent with current public information. ([cookpolitical.com](https://www.cookpolitical.com/races?check_logged_in=1&order=State&page=8&sort=desc))
-- Could the price reflect only a few traders? Yes — the market shows $0 total trading volume and is only 45 days old with a tight spread; that strongly suggests initial liquidity was provided and few or no takers have adjusted it. Low volume increases the chance the displayed price reflects one or a handful of traders rather than broad aggregation. However, the price also happens to align with mainstream forecasters, which reduces the likelihood that it is wildly off. (Two possibilities can both be true.)
-- Why low volume? Likely because the race is currently uncontroversial given the preserved map and incumbent advantage; many informed traders avoid low‑liquidity contracts where position size is constrained. Also, small markets in U.S. House seats that are safely rated often attract little speculative volume.
+- Plausible interpretations that justify the current 83% price:
+  - The market implicitly aggregates sensible priors: incumbent with large 2024 margin, district leaning Republican, Cook’s Solid R rating → a high-probability Republican outcome absent a map change or major wave. An 83% price is consistent with those facts.
+  - Low total trading volume ($0) with a tight 2¢ spread indicates the price might have been placed by one or a few traders setting a fair subjective probability (not an actively arbitraged market). Given the objective facts above, a single informed trader could reasonably set a high price; that alone does not prove mispricing. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
 
-4) MISPRICING ASSESSMENT
-- Bottom line: I did not find credible evidence that the market is missing a major piece of information that would justify concluding a large mispricing (e.g., >20 percentage points). Multiple independent forecasters and official results support a high Republican probability; the main countervailing factual development (court‑ordered redraw) has been stayed by the U.S. Supreme Court for the 2026 cycle. ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
-- Remaining uncertainties that could still move the true probability:
-  - National political environment between now and November (goes both ways).
-  - Emergence of a well‑funded, high‑profile Democratic recruit who can run a competitive campaign even on the current lines (not yet observed).
-  - Any future judicial action reversing the stay or altering the map prior to final certification (the stay is the controlling fact as of Mar 2–3, 2026). ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
-- Charity test of the market: The most charitable interpretation is that informed participants have priced in the post‑SCOTUS map stability plus incumbency and fundraising advantages — i.e., 84% reflects a consensus that the district’s structural lean, incumbency, and resource gap make an upset unlikely. Given that alignment with expert ratings, the market shows signs of being informative rather than badly mispriced.
+- Could the price be a narrow/fragile consensus or a lone trader’s view?
+  - Yes — $0 volume strongly suggests little aggregate capital backing the price. If new, credible information (e.g., court-ordered map change or a well‑funded Democratic recruit) arrives, the market could move substantially because liquidity is low.
+  - Conversely, the lack of trading could be because informed traders already consider the odds clear and prefer not to deploy capital on a near-certain outcome.
 
-5) EXPECTED VALUE CALCULATION (for investigating / trading this market)
-- Strength of evidence that the market is missing material information: low–moderate. The main potential “miss” (court redraw) was a real concern but has been stayed; foreseeable shocks remain possible but not strongly signaled. I estimate strength = 20% (i.e., 20% chance there is material information the market hasn’t priced).
-- Magnitude of plausible mispricing if wrong: small — the market aligns with public forecasters and recent vote history, so any true edge is likely modest. I estimate a plausible error magnitude ≈ 5 cents (0.05 probability points) in either direction for an attentive trader taking a contrarian position today.
-- Expected value = Strength × Magnitude = 20% × 5 cents = 1.0 cent.
+4) MISPRICING ASSESSMENT (do we have credible evidence the 83% is wrong?)
+- I find no specific, high‑credibility evidence that is clearly missing from the market price and would overturn an 83% Republican probability today:
+  - Supporting evidence (incumbent strength, 2024 margin, Cook “Solid R”) are high-quality, recent, and directly relevant; they point in the same direction as the market price. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483626))
+  - Challenging evidence (maps lawsuit; announced Democratic challengers) is material but uncertain in timing and likely effect. The lawsuit could be dispositive if it produced immediate redrawing before ballots are finalized, but most redistricting litigation timelines make that outcome uncertain. There is no authoritative source indicating a successful, pre‑election map change for NY-11 as of March 20, 2026. ([apnews.com](https://apnews.com/article/acf899320ba1a78737e499a8252f9195))
 
-6) CRITICAL CHECK / SELF‑SCRUTINY
-- I re‑checked the legal/resolution facts and the market’s resolution rule: the trial judge’s January order could have changed the race if implemented, but the Supreme Court stay (March 2–3, 2026) is the controlling development for the 2026 election map; the market’s resolution depends on the Nov 4, 2026 winner as reported by credible sources or official results, so there is no immediate resolution ambiguity. Therefore a large mispricing would require either (a) the stay being lifted or reversed before November, (b) a big candidate or scandal change, or (c) major polling evidence not yet public. None of those appear to be strongly signaled now. ([apnews.com](https://apnews.com/article/2f5e96aea7c5b652b837ec6b80136281))
+- Critical check (what might I be missing?):
+  - Possible missing items that would justify large mispricing: (a) a binding court order changing the district before filing/ballots are finalized; (b) a major Democratic recruit/endorsement + money that meaningfully erodes the incumbent’s margin; (c) evidence that the market’s resolution interpretation differs from my reading (but the market text is explicit: party at time of call, and official reporting/FEC for ambiguity). I see no credible source that any of (a)–(b) has already occurred. ([apnews.com](https://apnews.com/article/acf899320ba1a78737e499a8252f9195))
 
-CONCLUSION (short)
-- The 84% market price is broadly consistent with high‑quality public information: incumbency, 2024 margin, partisan lean, expert ratings, and the recent U.S. Supreme Court stay that preserved the existing district lines for 2026. The market’s low trading volume raises the possibility the displayed price came from very few traders, but it coincidentally matches independent forecasters — reducing the chance of a large mispricing. I do not see compelling, specific evidence of a >20‑cent mispricing; any edge from further research appears small.
+- Conclusion on mispricing:
+  - Given the available, credible information, the market’s 83% Republican probability is plausible and not obviously mispriced. There is risk (legal challenge to lines and possible national wave), but these are uncertain and do not provide strong evidence that the market is off by a large margin today. If anything, the dominant credible signals (incumbent margin, Cook rating, official results) support a high Republican probability.
 
-EXPECTED_VALUE: 1.0
-SUMMARY: The market’s 84% Republican probability is consistent with the Supreme Court’s March 2026 stay that preserved NY‑11’s current (Republican‑leaning) map, large 2024 margins for the incumbent, and expert ratings (Cook/Inside Elections/270toWin) that list NY‑11 as solid R. Low on‑market volume means the displayed price may reflect few traders, but public evidence does not point to a large, actionable mispricing today.
+5) EXPECTED VALUE CALCULATION (value of investigating / trading on a perceived mispricing)
+- Strength of evidence that the market misses something important: I estimate ~35% — there is a non-trivial chance (lawsuit success, recruiting, national wave) that would alter the race, but no current high-confidence signal of an imminent flip. (35%)
+- Magnitude of plausible mispricing if market is wrong: given Cook + incumbency, a plausible worst-case (for the market) correction might be ~5–12 cents (i.e., the market could be overpricing Republican chances by that amount if a map change or wave emerges). I'll take a central magnitude of ~7 cents as a reasonable illustration.
+- Expected value = 35% × 7 cents ≈ 2.45 cents → round to 2.5 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- Medium. The judgment is grounded in high-quality sources about incumbency and past results, but there is meaningful uncertainty about litigation, candidate fields, and the national environment that could change probabilities before November 4, 2026.
+
+Final short outputs required by instructions
+
+EXPECTED_VALUE: 2.5
+SUMMARY: Incumbent Republican Nicole Malliotakis and the district’s recent large GOP margins (and Cook’s “Solid R” rating) provide credible support for the market’s 83% Republican price; a pending lawsuit to redraw the district and any strong Democratic recruit or national wave are material but uncertain risks that could reduce that probability. Given available high‑quality sources, there is no clear, specific evidence that the market is mispriced by a large amount today.  
 CONFIDENCE: medium
 
 ---
@@ -79,32 +86,32 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Supreme Court preserves only GOP-held congressional district in New York City for 2026 elections](https://apnews.com/article/supreme-court-redistricting-new-york-trump-2f5e96aea7c5b652b837ec6b80136281)
-**Author:** Associated Press | **Published:** 2026-03-02
+### [NY-11 2026 | Cook Political Report](https://www.cookpolitical.com/house/race/483626)
+**Author:** Cook Political Report (staff) | **Published:** 2025-02-06
 
-AP reports that the U.S. Supreme Court granted emergency relief that halted a New York state trial court’s order to redraw NY‑11 for the 2026 cycle; the piece summarizes the dispute (trial judge’s finding that the district diluted Black and Hispanic votes) and quotes reactions. This is directly relevant because the stay removed the primary structural mechanism by which Democrats could have made NY‑11 significantly more competitive for 2026, supporting a high GOP probability for the district.
+Cook’s NY-11 race page identifies Nicole Malliotakis as the incumbent, reports her last general-election share (~64.1%), describes the district (Staten Island + parts of southern Brooklyn), and lists the race rating as “Solid R” (last rating update Feb 6, 2025; PVI updated Nov 17, 2025). This is high-value evidence for a strong Republican baseline in 2026 and directly supports the market’s high Republican probability. The page also notes filing and primary dates (filing deadline Apr 2, 2026), which matters for candidate entry timing and how quickly challengers can appear; Cook’s assessment is a key piece of evidence arguing the market price is reasonable.
 
-### [Judge tosses lines of NYC’s only Republican House seat, as state enters redistricting wars](https://apnews.com/article/new-york-redistricting-lawsuit-house-congress-republicans-288fbfc9f27fe1c7abca0bb68a439585)
-**Author:** Associated Press | **Published:** 2026-01-21
+### [Lawsuit challenges the boundaries of the only GOP-held congressional district in New York City](https://apnews.com/article/new-york-redistricting-lawsuit-house-congress-acf899320ba1a78737e499a8252f9195)
+**Author:** Unknown (Associated Press) | **Published:** Unknown
 
-AP’s January coverage describes the state trial court decision ordering NY‑11 to be redrawn (finding of unlawful dilution of minority voting strength) and notes the immediate expectation of appeals. This article explains the redistricting threat that briefly made the seat appear more flippable — a key counterfactual to evaluate whether the market had missed a major change.
+AP reports on a lawsuit filed seeking to redraw NY-11 on equal‑representation grounds, arguing Staten Island’s growing Black and Latino population isn’t properly represented and asking for reconfiguration to include parts of lower Manhattan. This article is directly relevant because a successful, timely court order could materially change NY-11’s electorate before the 2026 election, reducing Republican odds. AP’s coverage establishes the existence and legal basis of the challenge but does not show that a map change will happen before November 2026, so the risk is possible but uncertain.
 
-### [Find a Race — Cook Political Report (NY‑11 listing: R+10, Solid R)](https://www.cookpolitical.com/races?check_logged_in=1&order=State&page=8&sort=desc)
-**Author:** Cook Political Report | **Published:** 2026-02-06 (rating page maintained; rating shown contemporaneously)
-
-Cook’s race listing shows NY‑11 with a Republican lean (R+10) and rates it “Solid R.” Cook is an authoritative handicapper; their PVI/rating summarizes partisan baseline, incumbency, and other fundamentals and therefore supports the market’s high Republican probability.
-
-### [2024 Nov 5 • General • Representative in Congress • Congressional District 11 — New York State Board of Elections](https://results.elections.ny.gov/contest/5609)
+### [2024 Nov 5 • General • Representative in Congress • Congressional District 11 | New York State Board of Elections](https://results.elections.ny.gov/contest/5609)
 **Author:** New York State Board of Elections | **Published:** 2024-11-05
 
-Official New York State election result page for the Nov. 5, 2024 contest in NY‑11 (showing Nicole Malliotakis as the winner and the vote totals from the 2024 general). These certified 2024 results provide the empirical baseline (large incumbent margin in 2024) that underpins public forecasters’ assessments and the market’s high GOP price.
+Official New York state election results for the 2024 general election for NY-11 showing Nicole Malliotakis listed (Republican/Conservative) and the certified results breakdown. This is primary-source evidence of the 2024 margin and the district’s most recent official vote counts; such official results are central to assessing baseline partisan lean and incumbency strength, directly supporting a high Republican probability absent intervening changes.
 
-### [New York judge orders new Staten Island congressional district](https://www.rollcall.com/2026/01/21/new-york-congressional-map-malliotakis-republican/)
-**Author:** Michael Macagnone (Roll Call) | **Published:** 2026-01-21
+### [New York 11th District election results 2024 live updates | The Washington Post](https://www.washingtonpost.com/elections/results/2024/11/05/new-york-house-district-11/)
+**Author:** Unknown (The Washington Post) | **Published:** 2024-11-05
 
-Roll Call’s analysis covers the January judge’s decision and quantifies the district’s partisan tilt (Roll Call cites Inside Elections calculations that district voters backed Trump by ~24 points in 2024 and that Malliotakis won by ~28 points), reinforcing the structural Republican advantage that justifies a high GOP probability absent a court‑ordered map change.
+The Washington Post’s 2024 race page reports the outcome and vote shares for NY-11 (Malliotakis winner) and provides context on vote totals and district geography. As a mainstream outlet that called the race in 2024, this corroborates the official state results and helps establish the magnitude of the incumbent’s recent victory — a strong supporting datapoint for the market’s price.
 
-### [2026 New York House Election Map — 270toWin (NY‑11 page)](https://www.270towin.com/2026-house-election/states/new-york)
-**Author:** 270toWin (aggregator) | **Published:** 2026-03-15 (site updated continuously; page accessed Mar 2026)
+### [FEC docquery: Schedule B / campaign filings (examples referencing Malliotakis campaign activity in 2025)](https://docquery.fec.gov/pdf/008/202508129789458008/202508129789458008.pdf)
+**Author:** Federal Election Commission / campaign filer | **Published:** 2025-08-12
 
-270toWin’s New York map lists NY‑11 with an ~84–85% GOP probability (matching the market price). 270toWin aggregates handicapper ratings and electoral data; its alignment with the market indicates the market price is consistent with public forecasts rather than being an obvious outlier.
+A Federal Election Commission document (Schedule B form) tied to campaign activity in 2025 referencing Malliotakis or related entries. Campaign filings are primary-source evidence of active campaign operations and receipts/expenditures; the presence of 2025 filings shows an active incumbent campaign and typical fundraising/reporting cadence. These filings support the conclusion that Malliotakis remains an active, resourced incumbent, which aligns with a high probability of reelection absent other shocks.
+
+### [Pakistani-American Umar Usman announces to run for Congress NY-11](https://www.vosa.tv/eng/archives/39420)
+**Author:** World News / VOSA | **Published:** 2026-01-24
+
+Local/online reporting that an announced Democratic candidate (Umar Usman) intends to run in NY-11 for 2026. This is useful for signaling that Democrats are recruiting/filing challengers, but the outlet is lower-tier and the article does not show major fundraising, endorsements, or polling. It indicates candidate emergence that could matter later, but on its own it does not overturn the incumbent’s advantage.
