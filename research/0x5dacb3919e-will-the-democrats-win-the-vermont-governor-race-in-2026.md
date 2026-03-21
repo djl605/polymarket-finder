@@ -1,7 +1,7 @@
 # Research: Will the Democrats win the Vermont governor race in 2026?
 
 **Market ID:** 0x5dacb3919e3eb6372770cba85c42e0f980ddf18b1a767751de700ee272269233
-**Researched At:** March 14, 2026 at 04:11:53 AM UTC
+**Researched At:** March 21, 2026 at 04:06:13 AM UTC
 **Search Query:** "Will the Democrats win the Vermont governor race in 2026?"
 
 ---
@@ -9,75 +9,73 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.8¢
+**Expected Value:** 2.1¢
 
 ### Summary
 
-Public reporting shows a popular Republican incumbent (Phil Scott), weak Democratic recruitment so far, and no clear sign of an imminent open-seat scenario; given that, the market’s ~19.5% Democratic probability is plausible. Low volume makes the market more fragile to single‑trader moves, but there is not yet concrete public evidence of a large (>20¢) mispricing.
+Phil Scott (R) is highly popular (Morning Consult ~74% approval) and won in a 2024 landslide; Democrats have not yet fielded a high-profile, well-known challenger as of March 2026. Given that, a 20% market price for a Democratic win is reasonable; a small expected mispricing (EV ≈ 2.1¢) exists only via conditional events (Scott retirement or a strong Dem entry).
 
 ### Full Analysis
 
-Analysis and conclusion
+Plan and scope
+- Questions I needed answered before concluding: (a) Who is the incumbent and how strong/popular are they? (b) Have major Democratic challengers declared or shown strong viability? (c) Are there recent polls or reporting that materially change the probability of a Democratic win versus the market price (20%)? (d) Is there any reason to think the market’s resolution criteria (AP, Fox, NBC consensus or official certification) will distort pricing?
+- I used my 3-search budget to collect: AP reporting on the 2024 result, Morning Consult / local reporting on Phil Scott’s approval in 2026, UNH Survey Center polling about Vermonters’ attitudes toward Scott and possible challengers, and recent Vermont reporting about who has declared (first Democratic candidate) and the state of the Democratic bench.
 
-1) CONTEXT ANALYSIS — what the market asks and resolution rules
-- Market question: "Will the Democrats win the Vermont governor race in 2026?" YES means a Democratic nominee is the certified/widely called winner of the November 3, 2026 Vermont gubernatorial election according to the market’s resolution rules (market resolves once AP, Fox News, and NBC all call the race for the same candidate; if those three haven’t called the same candidate, resolution uses official certification). ([apnews.com](https://apnews.com/article/1d02ab4fc5b12bcce0bc0826de61e391))
-- What must happen for YES vs NO:
-  - YES: A Democratic candidate must win the general election (and be the winner recognized under the market’s stated resolution sources or official certification).
-  - NO: A Republican (or an independent or third-party candidate that is not classified as the Democratic nominee for the market) wins the general election or the market’s resolution sources/official certification award the governorship to someone other than the Democratic nominee. (The market’s description also notes independents may be added later; in practice an independent win would resolve the market as NO because the question asks about a Democratic victory.) ([vermontpublic.org](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026))
+1) CONTEXT ANALYSIS
+- What the market asks: “Will the Democrats win the Vermont governor race in 2026?” A YES outcome requires the Democratic nominee to win the November 3, 2026 Vermont gubernatorial election as determined by the market’s resolution rules (the market resolves to the candidate that the Associated Press, Fox News, and NBC all call for the same candidate; if those three outlets don’t all call the race for the same candidate, the market uses official certification).
+- How the market resolves YES vs NO:
+  - YES: the Democratic nominee is the winner according to the market’s resolution standard (AP/Fox/NBC consensus or, failing that, official certification).
+  - NO: the Republican nominee (or another non-Democratic winner) is the winner per the same resolution standard.
+- Critical resolution nuance: the need for all three outlets to call the same candidate means the market could remain unresolved for a short period after election night in a very close or contested result; that affects timing but not the underlying substantive prediction.
 
-2) EVIDENCE EVALUATION — what the facts say (bullish and bearish evidence for Democrats)
-A. Key, load-bearing facts
-- Phil Scott (R) is the incumbent and won re-election handily in 2024; he remains a high-profile, popular figure in Vermont. This is material because his presence on the ballot strongly reduces the Democrats’ baseline chance of winning. ([apnews.com](https://apnews.com/article/1d02ab4fc5b12bcce0bc0826de61e391))
-- Multiple trackers/polls show Scott with very high approval ratings (Morning Consult tracking reported Scot­t’s approval ~74% in early 2026), indicating strong cross‑partisan popularity that makes him a difficult general-election opponent. High approval historically translates to a strong incumbent advantage. ([wcax.com](https://www.wcax.com/2026/02/06/poll-finds-scott-remains-americas-most-popular-governor/?utm_source=openai))
-- As of March 2026, there are few high-profile, declared Democratic challengers to Scott; local outlets report Democrats are struggling to recruit a marquee candidate, and many of the strongest possible Democratic prospects (e.g., Treasurer Mike Pieciak, Attorney General Charity Clark) have not committed to running and appear to be leaning toward re‑election to their current posts. Amanda Janoo (a low‑name national-policy activist) recently announced a Democratic campaign but is not a statewide-known front‑runner. These facts are central because an incumbent vs weak challenger is a strong predictor of a likely Republican hold. ([sevendaysvt.com](https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/))
+2) EVIDENCE EVALUATION (all sources are current to March 2026)
+Evidence that suggests the market price (Democrats = 20%) might be too high (i.e., Republican victory is less certain than price implies)
+- Possibility of an open-seat race: Phil Scott has not formally announced his 2026 plans and historically delays an announcement; if Scott retires or declines to run, an open seat in Vermont could substantially improve Democratic chances because Scott’s repeated personal landslides depend in part on his personal popularity rather than party advantage. (VTDigger reporting that Scott has not yet said whether he will run and that Democrats see opportunities.) ([vtdigger.org](https://vtdigger.org/2025/08/14/vermont-lt-gov-john-rodgers-secretary-of-state-sarah-copeland-hanzas-say-theyre-running-for-reelection/))
+- Democratic bench could coalesce around a stronger candidate later: Attorney General Charity Clark and Treasurer Mike Pieciak have been discussed as possible statewide candidates and have campaign resources; if either runs and is well-funded/known, the race would be more competitive than with a low-profile nominee. The UNH poll shows many voters are uncertain about Pieciak/Clark, meaning their entry could change dynamics. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/898/))
 
-B. Specific evidence that suggests the current market price (19.5% Democrats win) might be too low
-- The main scenario that would raise Democrats’ chances materially is Phil Scott not running (open seat). If Scott retires, the race becomes meaningfully more competitive and national/local dynamics could favor Democrats; the market price would then understate the Democratic chance. However, there is no strong, credible evidence today that Scott plans to retire—coverage and filings to date imply he is likely to run again or at least that Democrats presume he will. ([vermontpublic.org](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026))
-- A second path to a higher Democratic probability would be the emergence of a single, well-funded, high‑profile Democratic candidate (e.g., Pieciak or Charity Clark) who consolidates the primary and raises a strong general‑election war chest; current reporting shows neither has declared. If such a candidate were to enter, the market could rapidly reprice upward — but again, there is no concrete evidence that will happen yet. ([sevendaysvt.com](https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/))
+Evidence that supports the current market price (Democrats ~20%) as reasonable
+- Incumbent strength and recent performance: Phil Scott (R) is strongly popular in Vermont now — Morning Consult tracking shows him as the country’s most popular governor with roughly a 74% approval rating (Feb 2026). High incumbent popularity is historically strongly predictive of reelection. This argues that, if Scott runs, the Democratic win probability is low. ([pro.morningconsult.com](https://pro.morningconsult.com/trackers/governor-approval-ratings))
+- Recent election history: Scott won reelection in 2024 in a landslide (major statewide win). That recent land-slide victory is concrete evidence of his ability to win statewide even in a heavily Democratic-leaning state; it suggests a high baseline barrier for Democrats in 2026 if Scott is on the ballot. (AP race call for Scott in 2024.) ([apnews.com](https://apnews.com/article/0adf77d8a1ab463186fd59e87d34a7bb))
+- Current Democratic candidate environment: As of March 2026 the first Democrat to announce is Amanda Janoo (a progressive/activist with limited statewide name recognition); other higher-profile Democrats have either not declared or are “considering.” Early reporting describes the Democratic field as incomplete and, to date, not strong enough to credibly forecast an upset vs. Scott. That supports a low Democratic probability now. ([vermontpublic.org](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026))
 
-C. Specific evidence that supports the market price as reasonable
-- Incumbent advantage + Scott’s high approval: Scott’s landslide in 2024 and continued strong approval through early 2026 are consistent with a low baseline probability for a Democratic win if he runs (market at ~19.5% is in the plausible range for a popular incumbent). ([apnews.com](https://apnews.com/article/1d02ab4fc5b12bcce0bc0826de61e391))
-- Democratic recruitment problems: multiple Vermont outlets (Seven Days, VTDigger) document that prominent Democrats are hesitant to run and that the party’s top statewide figures appear likely to run for re‑election rather than challenge Scott — that lowers Democrats’ likelihood of defeating a popular incumbent. ([sevendaysvt.com](https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/))
-- Early candidate field: the first Democratic declaration (Amanda Janoo) is from an activist with limited statewide name recognition; early entrants of that profile historically have low base chances against a popular incumbent. The existence of low‑profile Democratic entrants but no marquee challenger supports a sub‑20% probability estimate today. ([vermontpublic.org](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026))
+Source credibility and recency
+- AP (Associated Press): high credibility for factual election results; relevant for past election outcomes (2024). (Date: 2024-11-06). ([apnews.com](https://apnews.com/article/0adf77d8a1ab463186fd59e87d34a7bb))
+- Morning Consult (reported by WCAX and Morning Consult’s own tracker): paid/industry polling firm with rolling governor approval tracking. Reporting is recent (Feb 2026) and shows strong incumbent approval — high credibility for measuring popularity (but proprietary methodology and margins of error apply). ([pro.morningconsult.com](https://pro.morningconsult.com/trackers/governor-approval-ratings))
+- University of New Hampshire (UNH) Survey Center: reputable academic poll (Oct 24, 2025) showing Vermonters’ attitudes and uncertainty about potential Democratic challengers — credible for measuring early name recognition and attitudes. ([scholars.unh.edu](https://scholars.unh.edu/survey_center_polls/898/))
+- Vermont Public / VTDigger / Seven Days: respected local reporting that provides campaign announcements and local political context (March 2026 and Aug 2025 reporting used here) — directly relevant and timely for candidate declarations and local dynamics. ([vermontpublic.org](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026))
 
-D. Source credibility and recency
-- Associated Press (AP) report on Scott’s 2024 landslide is high‑quality, authoritative for election outcomes and broadly relied on for resolution clauses. (AP is a direct resolution source for the market.) ([apnews.com](https://apnews.com/article/1d02ab4fc5b12bcce0bc0826de61e391))
-- Morning Consult (reported via WCAX/other local outlets) is a mainstream polling firm with ongoing governor approval tracking; local outlets’ reporting of its Feb 2026 numbers is recent and relevant to incumbent popularity. ([wcax.com](https://www.wcax.com/2026/02/06/poll-finds-scott-remains-americas-most-popular-governor/?utm_source=openai))
-- Seven Days and Vermont Public and VTDigger are established Vermont local outlets with regular, original coverage of state candidates and filings; they are the most reliable sources for candidate decisions and recruitment dynamics. Their reporting (Feb–Mar 2026) directly addresses the district-level candidate landscape. ([sevendaysvt.com](https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/))
+Skeptical notes (why simple/obvious evidence may already be priced)
+- Phil Scott’s very high approval and recent landslide win are widely reported and long-standing facts; those are almost certainly already priced into the market. If there is a simple, obvious reason Democrats should have materially higher odds (e.g., Scott publicly announcing he is not running), that would already be reflected in price or would have triggered trading; no such clear, public signal has appeared as of these sources.
+- Many of the scenarios that would raise Democratic chances (strong statewide Democratic candidate, Scott retirement, major scandal) are conditional and not realized yet; early-stage markets for future elections often price in the incumbent’s current advantage and the uncertainty about future candidacies.
 
-E. Skepticism about “obvious” evidence
-- The presence of a popular incumbent and weak opposition is obvious—and that is exactly why the market may be low: if Scott runs, many informed traders would already price Democrats as longshots. The critical question is whether the market has failed to price plausible future events (e.g., Scott retires or a strong Democrat emerges). At this point, no publicly available, credible evidence shows those events are likely enough to justify a large upward re‑pricing.
-
-3) MARKET EFFICIENCY ANALYSIS — how reliable is the quoted price (19.5%)?
-- Reasonable interpretations that justify ~20%:
-  - If Scott runs (probable), his incumbency and high approval make Dem victory relatively unlikely — a ~10–25% Democrat chance is a defensible, conservative estimate; the market’s ~19.5% sits in that range.
-  - The market may be reflecting traders’ expectation that Scott will run; it could also incorporate tail risks (retirement, scandal, national wave) by not collapsing to near‑zero.
-- Could this price reflect only a few traders? Yes — total volume is low (~$4.3k) and a narrow spread implies liquidity provided by few participants. Low-volume markets are noisier and more susceptible to single‑trader influence. That said, when the observable public evidence (popular incumbent, weak opposition) points the same way, even a price set by few traders can match the best available public forecast.
-- Is low volume because outcome is obvious or because informed traders haven’t engaged?
-  - Evidence points to both: the outcome is currently straightforward conditional on Scott running (makes it less attractive to trade), and many informed Vermont politicos are waiting to see whether Claire/Pieciak/etc. declare (reducing speculative trading). Both dynamics plausibly explain low liquidity and low information flow into the market. ([sevendaysvt.com](https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/))
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation(s) that justify the current 20% price:
+  - If Phil Scott runs again, his 74% approval and recent landslide make him a heavy favorite; a Democratic chance of ~15–30% is plausible and 20% sits squarely in that range.
+  - The market may be pricing in a modest probability that Scott either retires or loses popularity / some other shock occurs before November 2026; that residual uncertainty can explain a non-negligible Democrat probability (20%).
+- Could price reflect only a few traders? Yes — this market has low total volume ($4,575) and a tight spread (2¢). Low volume means a single informed trader or small group could set the price, so the market’s point estimate is less robust than a high-volume market. However the tight spread suggests at least minimal liquidity and that the quoted price reflects some convergent view among traders, not just a single stray offer.
+- Why low volume might be benign here: If the incumbent is broadly expected to win (and no big new information is available yet), fewer traders will engage; the low volume might reflect consensus (an “obvious” outcome) rather than neglect. Conversely, it might reflect lack of attention from traders who would exploit mispricing — we can’t distinguish these causes without more trading or private information.
 
 4) MISPRICING ASSESSMENT
-- Do I have specific, credible evidence that the market is mispriced by a large amount (>20 cents)? No.
-  - The market price (19.5%) is broadly consistent with publicly reported facts: Scott’s incumbency, 2024 landslide, very high approval in early 2026, and the absence of a single high‑profile Democratic challenger. Those facts support a Democratic win probability materially below 50%, and 19.5% is in a plausible band.
-  - The primary credible counterfactual that would make the market materially mispriced is Scott’s retirement or a surprise emergence of a well-funded, high‑name Democratic candidate — but current reporting does not provide strong evidence either event is likely. Because those are plausible but not evidenced, the market might under-react to those low‑probability but high‑impact events; however the magnitude of that potential mispricing today looks modest (single-digit to low‑teens cents), not >20 cents.
-- CRITICAL CHECK (questions I re‑verified):
-  - Resolution criteria: market uses AP/Fox/NBC call consensus or official certification — I used AP and local reporting as authoritative election reporting and to check incumbency/polls. There’s no hidden technicality that would cause a guaranteed misread. ([apnews.com](https://apnews.com/article/1d02ab4fc5b12bcce0bc0826de61e391))
-  - Could I be missing private info traders have? Yes — private polling, early internal commitments, or a pending Scott decision could change odds quickly. Those would be plausible causes of mispricing but there’s no public evidence they exist.
-- Conclusion on mispricing: At present, there is insufficient credible public evidence to conclude a large mispricing. The market price appears broadly reasonable given the available facts and the most likely scenario that Phil Scott runs and is favored to win. Low liquidity means an arbitrage opportunity could exist if one anticipated a near‑term, high‑probability change (e.g., Scott retiring), but that is a speculative bet on an unconfirmed event rather than an exploitation of a clear pricing error.
+- Do I have credible evidence that the market is mispriced? No — not at a large magnitude.
+  - The primary load-bearing facts (Scott’s popularity and recent landslide) strongly support a low Democratic probability if Scott runs. Those facts are public and almost certainly already priced in.
+  - The main ways the market could be meaningfully wrong are conditional events not yet realized: (A) Scott retires or declines to run (open seat increases Democratic win chance), or (B) a high-profile Democratic candidate (e.g., Charity Clark or Mike Pieciak) enters and consolidates support and fundraising. Neither (A) nor (B) has happened as of the sources I found; they are plausible but speculative.
+- If I were to identify a plausible mispricing scenario, it would be: the market is underestimating the chance of a Scott retirement / an open-seat contest (traders may be overconfident Scott will run). That scenario could shift the Democrat probability materially — but that is an event people are actively watching and would be quickly reacted to by traders if it occurred.
+- Critical check (self-challenge): I do not find firm, current evidence that the election’s outcome is already decided or that the market missed a realized event. I understand the exact resolution criteria (AP/Fox/NBC calls or certification) and see no technicality that would cause a major mispricing today.
 
-5) EXPECTED‑VALUE OF INVESTIGATION (numeric estimate)
-- Strength of evidence that something important is missing from the price (how strongly public evidence suggests a mispricing): I assess this as 40%. There is a plausible pathway (open seat or a strong Democratic entry) that would make Democrats substantially likelier, but current public evidence for either is weak-to-moderate.
-- Magnitude of mispricing if I’m right: I estimate a plausible upside if a missing event occurs would be roughly 7 cents (i.e., market might move from ~19.5% to mid‑20s–mid‑30s in a realistic scenario; a best-case surprise could move it more, but that’s lower probability).
-- Expected value = Strength × Magnitude = 40% × 7 cents = 2.8 cents.
+5) EXPECTED VALUE CALCULATION (value of investigating / trading on this market)
+- My judgment of the chance that current public information implies a material mispricing (i.e., that Democrats’ true chance is meaningfully >20% and that the market hasn’t priced it) = ~30%. (Rationale: Scott is likely to run but there is a non-trivial chance he opts out; Democratic bench could produce a stronger candidate. Still, those are conditional and not yet realized, so probability of a near-term material miss is modest.)
+- If mispriced, plausible magnitude (how many cents the mispricing could be): I estimate a plausible swing if a materially different scenario occurs is about 7¢ (i.e., market could move from 20¢ to ~27¢–30¢ in the event of clear evidence favoring Democrats; larger moves would require extreme events). This is a judgement call based on how much an open-seat or strong candidate entry could change win probabilities versus Scott incumbency.
+- Expected value = Strength × Magnitude = 30% × 7¢ = 2.1 cents.
+- Interpreting that: the expected edge from investigating/trading now is small (≈2.1¢) given the uncertainty and the market already pricing incumbent strength.
 
 6) CONFIDENCE
-- My overall confidence in this assessment: medium.
+- My confidence in this assessment: medium — the major facts (Scott’s popularity, his 2024 landslide, the early and low-profile Democratic field) are well-supported and current, but the situation is inherently conditional on candidate declarations and potential late developments (Scott’s announcement, stronger Dem entrants). Those unknowns limit higher confidence.
 
-Short takeaway (for notifications)
-- The market price (~19.5% for a Democratic win) matches publicly available evidence: a very popular incumbent (Phil Scott), no marquee Democratic challenger yet, and local reporting that top Democrats are reluctant to run. There is no clear public evidence of a large mispricing; low volume raises noise risk but does not by itself prove a systematic pricing error. If new, credible evidence appears (Scott retires or a high‑profile Democrat declares), the price should re‑price quickly and that would create a clearer arbitrage opportunity.
+Bottom-line conclusion
+- Given the currently published evidence (Phil Scott’s very high approval and his 2024 landslide, the lack of a high-profile Democratic challenger as of March 2026, and the UNH/Morning Consult polling), the market probability of Democrats winning at ~20% is reasonable. There is not yet credible, public evidence of a large mispricing. The most plausible path to substantive mispricing would be a late change in Scott’s plans (he retires) or the emergence of a strong Democratic nominee — both are possible but not yet realized.
 
-EXPECTED_VALUE: 2.8
-SUMMARY: Public reporting shows a popular Republican incumbent (Phil Scott), weak Democratic recruitment so far, and no clear sign of an imminent open-seat scenario; given that, the market’s ~19.5% Democratic probability is plausible. Low volume makes the market more fragile to single‑trader moves, but there is not yet concrete public evidence of a large (>20¢) mispricing.
+EXPECTED_VALUE: 2.1
+SUMMARY: Phil Scott (R) is highly popular (Morning Consult ~74% approval) and won in a 2024 landslide; Democrats have not yet fielded a high-profile, well-known challenger as of March 2026. Given that, a 20% market price for a Democratic win is reasonable; a small expected mispricing (EV ≈ 2.1¢) exists only via conditional events (Scott retirement or a strong Dem entry).
 CONFIDENCE: medium
 
 ---
@@ -86,32 +84,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Republican Gov. Phil Scott to see Democratic challenge in 2026](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026)
-**Author:** Peter Hirschfeld | **Published:** 2026-03-10
+### [AP Race Call: Republican Phil Scott wins reelection for governor in Vermont](https://apnews.com/article/race-call-scott-wins-vermont-governor-0adf77d8a1ab463186fd59e87d34a7bb)
+**Author:** The Associated Press | **Published:** 2024-11-06
 
-Vermont Public reports that Amanda Janoo announced a Democratic campaign for governor on March 10, 2026, and quotes that Democrats presume Gov. Phil Scott will be on the ballot again; it notes Aly Richards and Mike Pieciak are considering runs but that top Democrats (e.g., Charity Clark) seem likely to seek re‑election to their current offices. This is directly relevant to forecasting the 2026 gubernatorial outcome because it documents the early candidate field (a low‑profile declared Democrat plus a small set of possible, undecided challengers) and the local expectation that Scott will likely run — facts that support a relatively low Democratic win probability.
-
-### [Republican Gov. Phil Scott wins a fifth term in heavily Democratic Vermont](https://apnews.com/article/vermont-governor-election-phil-scott-esther-charlestin-1d02ab4fc5b12bcce0bc0826de61e391)
-**Author:** Lisa Rathke (Associated Press) | **Published:** 2024-11-02
-
-AP’s November 2024 election report documents Phil Scott’s 2024 landslide reelection (vast margins), the identity of his Democratic opponent (Esther Charlestin), and context about legislative control. This is a high‑quality, authoritative record of the last election outcome in Vermont and supports why a popular incumbent would be favored in 2026; the AP is also a market resolution source named by the market, so its reporting is directly relevant to how the market will resolve in November 2026.
+AP’s race call reports that Republican Phil Scott won reelection in 2024. This is direct factual evidence that Scott is the incumbent and that he won statewide in the most recent gubernatorial election — a foundation for assessing incumbency advantage and baseline partisanship. That past landslide supports the conclusion that a Democratic victory in 2026 is an uphill task if Scott runs, and it is likely already priced into the market.
 
 ### [Poll finds Scott remains America’s most popular governor](https://www.wcax.com/2026/02/06/poll-finds-scott-remains-americas-most-popular-governor/)
 **Author:** WCAX News Team | **Published:** 2026-02-06
 
-WCAX reports Morning Consult’s early‑2026 governor approval tracking showing Phil Scott with roughly a 74% approval rating and very low disapproval — a sustained, very high approval that makes him a strong incumbent. This polling/persistence of popularity is a load‑bearing input for estimating Democratic chances: a very popular incumbent significantly reduces the chance an underdog challenger will win.
+Local reporting summarizing Morning Consult’s February 2026 tracking showing Phil Scott around a 74% approval rating (most popular governor). This recent approval data is a high-relevance indicator of incumbent strength and reelectability; high approval materially lowers the probability of a Democratic upset if Scott runs, supporting the market’s low Democratic price.
 
-### [Democrats Struggle to Find Candidate to Take on Scott](https://www.sevendaysvt.com/news/politics/democrats-struggle-to-find-candidate-to-take-on-scott/)
-**Author:** Kevin McCallum | **Published:** 2026-02-11
+### [Republican Gov. Phil Scott to see Democratic challenge in 2026](https://www.vermontpublic.org/local-news/2026-03-10/republican-gov-phil-scott-democratic-challenge-2026)
+**Author:** Peter Hirschfeld | **Published:** 2026-03-10
 
-Seven Days (local political reporting) documents Democratic recruiting problems, quotes insiders saying the window to find a strong challenger is closing, and reports that Mike Pieciak is ambivalent toward a gubernatorial run. This article is relevant because it provides on‑the‑ground sourcing about who is (and is not) willing to run — information that materially affects the Democratic party’s odds against a popular incumbent.
+Reporting that Amanda Janoo became the first Democrat to announce a 2026 gubernatorial campaign (March 10, 2026), and that Scott had not yet announced whether he would run. The article explains Janoo’s platform and notes other Democrats are “considering” runs. This demonstrates that, as of early March 2026, the Democratic field is nascent and that Scott’s candidacy status is a key uncertainty — both reasons the market currently places Democrats at a modest probability.
 
-### [Vermont Treasurer Mike Pieciak hires top staffer from Rep. Becca Balint](https://vtdigger.org/2025/10/14/vermont-treasurer-mike-pieciak-hires-top-staffer-from-rep-becca-balint/)
-**Author:** Shaun Robinson | **Published:** 2025-10-14
+### [Majority in Vermont Want Scott to Run Again in 2026, Uncertain About Pieciak and Clark (UNH Survey Center)](https://scholars.unh.edu/survey_center_polls/898/)
+**Author:** UNH Survey Center | **Published:** 2025-10-24
 
-VTDigger reports that Treasurer Mike Pieciak (frequently discussed as a potential Democratic gubernatorial prospect) hired a top staffer with congressional campaign experience; the piece notes he is widely rumored to be mulling a run but has not decided. This source provides evidence about the plausibility of a high‑profile Democratic candidacy (Pieciak), but the reporting shows no firm commitment — that uncertainty is central to whether the market is missing a major, price‑moving fact.
+University of New Hampshire Survey Center polling (Oct 24, 2025) reporting that a majority of Vermonters wanted Scott to run again, that many approve of his performance, and that voters were uncertain about prominent Democratic figures (Pieciak, Charity Clark). This academic poll provides evidence about voter attitudes and name recognition — specifically that Democratic potential challengers are not yet well-known, which reduces the near-term likelihood of a Democratic upset and supports the market’s pricing.
 
-### [The Latest News on the 2026 Gubernatorial Race is… No News](https://thevpo.org/2025/07/02/the-latest-news-on-the-2026-gubernatorial-race-is-no-news/)
-**Author:** John S. Walters | **Published:** 2025-07-02
+### [Vermont Lt. Gov. John Rodgers, Secretary of State Sarah Copeland Hanzas say they’re running for reelection](https://vtdigger.org/2025/08/14/vermont-lt-gov-john-rodgers-secretary-of-state-sarah-copeland-hanzas-say-theyre-running-for-reelection/)
+**Author:** Shaun Robinson | **Published:** 2025-08-14
 
-The Vermont Political Observer (a local political blog) reviews campaign finance filings and notes a dearth of clear signals (small fundraising changes, little evidence of a big Democratic war chest) as of mid‑2025. The piece is useful for understanding why high-profile challengers have not publicly committed and supports the assessment that, absent new filings or announcements, Democrats face an uphill task versus a likely incumbent.
+VTDigger reporting on statewide officials’ plans for 2026 and noting that Attorney General Charity Clark and Treasurer Mike Pieciak had not made final decisions about running for governor. It also explains Phil Scott’s historical pattern of delaying a formal re-election announcement until the legislature adjourns. This local reporting supports the assessment that the Democratic field was unsettled and that the incumbent’s announcement decision is a key near-term variable affecting odds.

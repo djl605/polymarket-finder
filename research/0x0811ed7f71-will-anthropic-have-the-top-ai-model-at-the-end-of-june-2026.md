@@ -1,96 +1,118 @@
 # Research: Will Anthropic have the top AI model at the end of June 2026?
 
 **Market ID:** 0x0811ed7f71c2466d04f9ba801c0e21c9cfb016385cdff97b5c9984df0fa5801e
-**Researched At:** March 10, 2026 at 03:00:56 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Anthropic have the top AI model at the end of June 2026?"
+**Researched At:** March 21, 2026 at 04:06:06 AM UTC
+**Search Query:** "Will Anthropic have the top AI model at the end of June 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 15.0¢
+**Expected Value:** 3.6¢
 
 ### Summary
 
-Anthropic is widely seen (68% odds) as best by end‐March and poised to release Claude 5 by late June, which should cement their lead. The 30.5% price therefore appears materially too low given those bullish indicators and low‐volume inefficiency.
+Arena’s official leaderboard (the market’s resolution source) currently shows Anthropic models in the top positions and Anthropic has released recent upgrades (Sonnet 4.6 / Opus updates), so a ~56% market probability is plausible; however, peer-reviewed critiques of Arena’s governance and the proximity of other labs’ models introduce meaningful uncertainty. With zero trading volume the quoted probability is fragile but not obviously grossly mispriced. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: LLM 
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Anthropic will own the highest “Arena Score” on the Chatbot Arena LLM Leaderboard at 12:00 PM ET on June 30, 2026. A “YES” requires that at that specific snapshot Anthropic’s model outranks all competitors. A “NO” covers any case where another lab’s model has an equal or higher score (with ties broken alphabetically against Anthropic).
+Planned searches and sources used (budget = 3 web runs):
+- LM Arena / Chatbot Arena leaderboard (current snapshot & scores). ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- LM Arena background/methodology and critiques (The Leaderboard Illusion paper, LM Arena response). ([lmarena.ai](https://lmarena.ai/blog/arena/?utm_source=openai))
+- Anthropic official announcements (recent model releases / Sonnet 4.6 / Opus system cards). ([anthropic.com](https://www.anthropic.com/news/claude-sonnet-4-6?utm_source=openai))
 
-2. EVIDENCE EVALUATION  
-Bullish signals (suggest higher probability than 30.5%):  
- • PredictStreet reports a 68% market probability that Anthropic’s Claude 4.6 was best at the end of March 2026. Maintaining that lead through June is plausible absent major competitor leaps.  
- • Multiple sources predict a Claude 5 release by mid-May to late-June 2026 that would likely boost Arena performance.  
- • Claude 4.6 already dominates agentic and coding benchmarks; Anthropic’s cadence of major upgrades suggests increasing their lead.  
+Analysis
 
-Bearish signals (support current or lower probability):  
- • Michael Lanham’s March 8 analysis notes GPT-5.4 has a slight edge in some terminal-agent tasks, and Google’s Gemini 3.1 Pro remains competitive. Competitors could release new versions (e.g., GPT-5.5 or Gemini 4) before end of June.  
- • DeepSeek’s upcoming V4 aims at a >1 M token context window with newer knowledge, possibly overtaking Anthropic.  
- • Claude 5 timing uncertainty: leaks point to late-June at best, leaving little runway to displace well-entrenched rivals.
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Anthropic have the top AI model at the end of June 2026?” Resolution rule: whichever company owns the model with the highest Arena Score on the Chatbot Arena LLM Leaderboard (Leaderboard → Leaderboard tab → Arena Score, default style control on) at the check time June 30, 2026 12:00 PM ET. If tied, the tie-break is alphabetical by company name as recorded in the market group. The scoreboard page (Arena) is the resolution source; if unavailable the market waits for the first subsequent check or another source if permanently down.
+- To resolve YES: at the resolution moment, the single top Arena Score entry (or winning tie by alphabetical order) must be credited to an Anthropic model. To resolve NO: some non-Anthropic model must strictly outrank (higher Arena Score) Anthropic’s best model (or win any tie via alphabetical ordering if the tied non-Anthropic company comes earlier).
 
-Source credibility and recency:  
- • Michael Lanham (3/8/26) is timely but a single author; PredictStreet pieces (2/9/26) aggregate market data, including $3.6 M traded—high reliability for market sentiment. Humai blog (2/23/26) is independent and balanced on competitor risks. Claude 5 Team (2/8/26) provides informed internal timing but may be optimistic.
+2) EVIDENCE EVALUATION (all relevant findings)
 
-3. MARKET EFFICIENCY ANALYSIS  
- • The 30.5% price might reflect trader caution about Claude 5 delays or competitor surprise launches.  
- • Low $4.5K volume suggests few active participants; the price could be anchored to an underestimation by a small subset rather than a broad consensus.  
- • Yet if informed traders on Polymarket are at 68% for March, the drop to 30.5% by June implies strong bets against Anthropic’s sustained lead—unusual absent clear contrary signals.
+A. Current snapshot and model landscape (evidence supporting Anthropic)
+- The Arena leaderboard (text / default view) as of Mar 20, 2026 shows Anthropic models occupying multiple of the top ranks, including rank 1 (claude-opus-4-6-thinking, score 1502±6) and rank 2 (claude-opus-4-6, 1501±6), with the next non-Anthropic top models (Google Gemini 3.1 Pro preview, xAI Grok 4.20, OpenAI gpt-5.4-high) scoring noticeably lower (e.g., ~1493–1492–1485). This is an authoritative (resolution-source) snapshot of comparative Arena Scores and vote counts. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- Anthropic has been actively releasing model improvements in 2026 (e.g., Claude Sonnet 4.6 announced Feb 17, 2026 and system cards indicating Opus 4.6 updates), and Sonnet 4.6 was made default for Free/Pro users — activity that supports Anthropic maintaining or improving Arena performance through June. Frequent public releases and defaulting better-performing models to the user base tends to increase battle exposure and votes, which in Arena can sustain or improve rank. ([anthropic.com](https://www.anthropic.com/news/claude-sonnet-4-6?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
- • Other markets place end‐March odds at ~68%, and Claude 5’s near‐term launch should only raise Anthropic’s June prospects.  
- • Competitor upgrade risk is real but already factored into the March odds; no new evidence suggests a major reversal by June.  
- • The tight 5¢ spread with low volume hints at overconfident staking rather than aggregated insight.  
+B. Evidence that challenges the Arena-based baseline and therefore the current market price
+- Methodological and governance concerns: an academic study/paper “The Leaderboard Illusion” (Cohere + academic coauthors; Apr 2025) finds systematic issues in Chatbot Arena (private testing, selective disclosure, over-sampling of proprietary models, silent deprecations) that can bias Arena Scores and rankings and create incentives to optimize for leaderboard performance rather than general capability. If such mechanisms operate, Arena rankings can be more mutable or reflect lab strategy/access rather than pure model quality. LM Arena published a public response arguing some claims were incorrect and that they are engaging with authors; this shows the criticism is consequential and actively debated, not settled. These critiques reduce the reliability of Arena as a perfect oracle for “best model” and are evidence that the leaderboard could change for reasons orthogonal to underlying model quality. ([arxiv.org](https://arxiv.org/abs/2504.20879?utm_source=openai))
+- Competitive pressure: several other big labs are actively releasing and tuning models (Google Gemini family, OpenAI gpt-5.x updates, xAI Grok), and the leaderboard shows many of these models close in score (single-digit Elo differences and overlapping uncertainty intervals). Small changes in the distribution of votes, a new high-quality release, or sampling/gaming behavior before June 30 could flip the top position. The leaderboard’s reported ± uncertainties (e.g., ±6) imply differences at the top are within noise bounds. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- Practical limitations of the market: this prediction market shows zero total trading volume (Total Vol: $0) and a small spread (2¢) with price 56%. Low (or zero) volume strongly suggests the quoted probability may reflect one or a few traders or an initial listing rather than an actively arbitraged consensus — that lowers confidence that the price aggregates broad informed views.
 
-Conclusion: The 30.5% price appears significantly below the consensus from higher‐volume markets and technical upgrade timelines. I judge there is credible evidence of undervaluation here, on the order of ~30¢.
+C. Source credibility and recency
+- Arena leaderboard (arena.ai / lmarena.ai): primary source for resolution; authoritative for the scoreboard snapshot. Recency: page shows Mar 20, 2026 snapshot and vote counts — highly relevant and recent. Credibility: primary/resolution source (but not free from methodological critique).
+- Anthropic official press (anthropic.com/news): primary company source for release details (Sonnet 4.6) — credible for product release timing and defaults, but promotional in tone.
+- “The Leaderboard Illusion” (arXiv / conference drafts; authors affiliated with research labs/universities + Cohere): peer/research community critique with systematic analysis over a large dataset — credible as a methodological challenge, though contested. LM Arena’s public response is a direct counterpoint from the leaderboard operators; citing both helps balance views. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (markets + upgrade cadence): 50%  
-Estimated mispricing magnitude: 30¢  
-Expected value = 0.50 × 30¢ = 15¢
+D. Bullish vs Bearish synthesis
+- Bullish for Anthropic: currently top on official resolution leaderboard with multiple Anthropic variants at the top; Anthropic actively releasing improvements and defaulting better models to users (increases exposure and votes); tie-break alphabetical order actually favors Anthropic (company name “Anthropic” starts with A) so ties could help them.
+- Bearish for Anthropic: Arena may be gamed/biased, other vendors are near in score and could release superior models before June 30 or coordinate testing to boost Arena scores, reported uncertainties overlap making rank changes plausible; low market volume suggests the market price may not reflect informed arbitrage.
 
-EXPECTED_VALUE: 15  
-SUMMARY: Anthropic is widely seen (68% odds) as best by end‐March and poised to release Claude 5 by late June, which should cement their lead. The 30.5% price therefore appears materially too low given those bullish indicators and low‐volume inefficiency.  
-CONFIDENCE: medium
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current market price (~56%):
+  - The resolution source (Arena) currently lists Anthropic as #1 and #2; multiple top entries increase the chance that at least one Anthropic model remains top by June 30. Given Anthropic’s release cadence and product defaulting, a >50% probability is rational.
+  - Alphabetical tie-break further slightly boosts Anthropic’s effective odds if tight ties are likely.
+- Alternative interpretation pointing to inefficiency:
+  - Low volume ($0) implies price could reflect one or a few traders’ beliefs, not broad market consensus. That makes the price fragile and susceptible to being off-target if other informed traders enter.
+  - The Arena methodology and governance critique introduces a nontrivial chance the leaderboard could shift for non-performance reasons (private testing, selective disclosures, retractions), which traders may or may not have priced in.
+- Which is likelier: genuine consensus vs single-actor view?
+  - Given zero volume, it’s likely the posted price is not the result of active consensus trading; however, the value (56%) is plausible relative to the objective scoreboard snapshot and Anthropic’s recent activity, so it may be a reasonable anchor rather than a demonstrably wrong quote.
+
+4) MISPRICING ASSESSMENT
+- Do we have specific, credible evidence that the market is mispriced (and by how much)?
+  - No conclusive evidence that the market is mispriced by a large margin. The Arena scoreboard (primary resolution source) shows Anthropic leading now; combined with Anthropic’s recent releases, a ~56% probability is well within a plausible range given the remaining uncertainty to June 30.
+  - The strongest contrary evidence is methodological (The Leaderboard Illusion) and the closeness of competitor scores — both increase uncertainty but do not prove a large directional bias in either direction.
+- Practical check: would a >20¢ mispricing be credible? Probably not given:
+  - The resolution source currently favors Anthropic and Anthropic is actively improving models; many competitors are close but not clearly dominant. A >20¢ error would require either (a) a near-certain competitor release or a known mechanism that Arena will flip ranks by June 30, neither of which is strongly supported by the sources we reviewed.
+- Bottom-line: the market’s mid-50s price is defensible as a judgment that Anthropic is the single most likely winner, but there are legitimate and nontrivial risks that could flip the leaderboard by June 30 that keep the probability far from certainty. Given zero trading volume, the posted price is fragile — it could move significantly if informed traders act, but there is not enough evidence to conclude a definite mispricing now.
+
+5) EXPECTED VALUE CALCULATION (probabilistic estimate of edge from researching this market)
+- Strength of evidence that the market is missing a material piece of information: I estimate moderate strength — 45%. Rationale: Leaderboard snapshot and Anthropic releases are primary, but methodological critiques and close competitor scores leave meaningful unpriced uncertainty.
+- Magnitude of mispricing (if any): small-to-moderate — I estimate 8 cents (0.08 USD) as an upper plausible mispricing magnitude given the current data and zero trading volume (i.e., price could move several cents if arbitraged, but a very large gap is unlikely).
+- Expected value = Strength × Magnitude = 45% × 8 cents = 3.6 cents.
+
+6) CRITICAL CHECK (self-challenge)
+- Did I misunderstand resolution criteria? No — the market resolves to the company owning the top Arena Score on June 30, 2026 at 12:00 PM ET with Arena Score (default settings); ties decided alphabetically. I used the leaderboard’s default text leaderboard (the specified resolution view).
+- Could I be missing private or upcoming non-public events? Possibly — private testing or a surprise high-quality release from Google/OpenAI/xAI between Mar and June could flip the scoreboard. That risk is included qualitatively above and reduces confidence. There’s no concrete public evidence that a dominant competitor release is already scheduled before June 30, 2026 that would make Anthropic unlikely.
+- Most charitable interpretation for the market price: it’s a reasonable reflection of current primary-source standings plus plausible future maintenance of that lead; low volume simply indicates a thin market, not necessarily an incorrect one.
+
+Conclusion (short)
+- The posted price (56%) is consistent with the authoritative resolution source’s current leaderboard (Anthropic in first place and several Anthropic entries in the top ranks) and with Anthropic’s recent releases that increased exposure and quality. However, methodological critiques of the Arena (The Leaderboard Illusion) and the close scores of competitors leave meaningful uncertainty. Given zero market volume, the price is fragile and could move if informed traders act, but I do not find clear, specific evidence of a large (>20¢) mispricing.
+
+EXPECTED_VALUE: 3.6
+SUMMARY: Arena’s official leaderboard (the market’s resolution source) currently shows Anthropic models in the top positions and Anthropic has released recent upgrades (Sonnet 4.6 / Opus updates), so a ~56% market probability is plausible; however, peer-reviewed critiques of Arena’s governance and the proximity of other labs’ models introduce meaningful uncertainty. With zero trading volume the quoted probability is fragile but not obviously grossly mispriced. CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: The March 2026 AI Frontier: GPT-5.4, Gemini 3.1, and Claude 4.6
-Author: Micheal Lanham
-Published Date: 2026-03-08T00:00:00.000Z
-URL: https://micheallanham.substack.com/p/the-march-2026-ai-frontier-gpt-54
-Summary: As of March 2026, the AI landscape is highly competitive, with major players like OpenAI, Google DeepMind, and Anthropic releasing significant updates. Anthropic's latest model, Claude 4.6, released in early February 2026, is positioned as the most advanced upgrade, emphasizing improved coding, sustained agent runs, and enhanced computer use. However, OpenAI's GPT-5.4 and Google DeepMind's Gemini 3.1 Pro have also made substantial advancements, particularly in reasoning, tool-use, and agentic capabilities, with GPT-5.4 showing a slight edge in terminal-based agentic tasks. The competition is shifting from raw size to utility, long-horizon reasoning, and reliability, with all models now supporting a 1-million-token context window, though at varying costs and reliability levels. Given these developments, whether Anthropic will maintain or attain the top position by the end of June 2026 depends on further improvements in their model's reasoning, tool integration, and cost-efficiency relative to competitors.
+### [LLM Leaderboard - Best Text & Chat AI Models Compared](https://arena.ai/leaderboard/text)
+**Author:** Unknown | **Published:** 2026-03-20
 
-Title: The “Fennec” Factor: Why Prediction Markets Are Betting on a March Claude 5 Launch
-Author: By:
-   PredictStreet
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://markets.financialcontent.com/lightport.lightport3/article/predictstreet-2026-2-9-the-fennec-factor-why-prediction-markets-are-betting-on-a-march-claude-5-launch
-Summary: The article discusses the heightened market activity and speculation surrounding Anthropic's upcoming AI model release, particularly the anticipated Claude 5, with a predicted launch by the end of March 2026. Prediction markets like Polymarket currently assign a 56% probability to Anthropic releasing Claude 5 by March 31, 2026, driven by recent leaks, technical signals, and competitive pressures from OpenAI and Microsoft. The market's focus is on whether Anthropic can maintain its traditional release cadence amid rapid AI development. While the current predictions center on a March release, the intense interest and signals suggest that Anthropic aims to establish dominance in AI capabilities by mid-2026. This context indicates that if Anthropic successfully launches Claude 5 by the end of June 2026, it could position the company as having one of the top AI models at that time, especially given the competitive landscape and market expectations.
+This is the Chatbot Arena (LM Arena) leaderboard page (text / default view) and is the market’s stated resolution source. It includes the Arena Scores, uncertainties (±), vote counts, model names and company labels; the Mar 20, 2026 snapshot shows multiple Anthropic models occupying the top ranks (e.g., rank 1: claude-opus-4-6-thinking 1502±6, rank 2: claude-opus-4-6 1501±6) with Google, xAI, and OpenAI models close behind. This primary-source data supports the view that Anthropic is the current frontrunner (supporting the market price) but also shows narrow margins and uncertainties that make rank changes plausible (which challenges certainty).
 
-Title: Workboat Indexes | WorkBoat - Anthropic’s ‘Coup’: Claude 4.6 Dominates AI Prediction Markets with 68% Odds
-Author: By:
-   PredictStreet
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://markets.financialcontent.com/workboat/article/predictstreet-2026-2-9-anthropics-coup-claude-46-dominates-ai-prediction-markets-with-68-odds
-Summary: As of early 2026, prediction markets strongly favor Anthropic to hold the title of "Best AI Model" by the end of March 2026, with a 68% probability. This dominance follows recent high-profile product launches, notably Claude Opus 4.6, which significantly boosted Anthropic’s prospects. Market activity, including over $3.6 million in trading volume on platforms like Polymarket, reflects high confidence in Anthropic’s technical performance and leaderboard standings. Given this momentum and the current market sentiment, it is plausible that Anthropic could maintain or even strengthen its top position through June 2026, although market dynamics and future developments could influence outcomes.
+### [Introducing Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+**Author:** Anthropic (Unknown author) | **Published:** 2026-02-17
 
-Title: The February 2026 AI Model War Nobody Saw Coming: GPT-5, Claude, and DeepSeek Are All Moving at Once
-Author: 
-Published Date: 2026-02-23T00:00:00.000Z
-URL: https://www.humai.blog/the-february-2026-ai-model-war-nobody-saw-coming-gpt-5-claude-and-deepseek-are-all-moving-at-once/
-Summary: As of February 2026, the AI landscape is experiencing rapid, simultaneous advancements from major players—Anthropic, OpenAI, and DeepSeek—each releasing significant updates. Anthropic's Claude Opus 4.6 introduces agent teams for parallel task execution, boosting efficiency for complex workflows, followed by the release of Claude Sonnet 4.6, offering Opus-level capabilities at a mid-tier price. OpenAI continues to evolve its GPT-5 family, with GPT-5.3-Codex enhancing autonomous coding and operational capabilities. DeepSeek is preparing to launch V4, with a substantial increase in context window size (over 1 million tokens) and a knowledge cutoff extended to May 2025, indicating a focus on handling larger, more complex tasks. Given these rapid, parallel developments and the competitive focus on agentic, autonomous, and enterprise-ready features, it remains uncertain whether Anthropic will maintain the top position by June 2026, as other labs are also advancing quickly in capabilities that matter for real-world applications.
+Anthropic’s official announcement of Claude Sonnet 4.6 (Feb 17, 2026). The post describes Sonnet 4.6 as a substantive upgrade in coding, long-context reasoning and other skills, and states Sonnet 4.6 became the default for Free and Pro users. This is relevant because increasing default exposure and a high-quality mid-tier model can raise Arena battle counts and votes, reinforcing Anthropic’s leaderboard position; it supports the thesis that Anthropic is likely to remain competitive through June 2026.
 
-Title: Claude 5 Release Date Prediction: When to Expect Launch | 2026 | Claude 5
-Author: Claude 5 Team
-Published Date: 2026-02-08T00:00:00.000Z
-URL: https://claude5.ai/news/claude-5-release-date-prediction-analysis
-Summary: Based on recent patterns and industry signals, Anthropic is likely to release Claude 5 between mid-May and late June 2026, with a most probable launch window around May 15 to June 30, 2026. The company has demonstrated a consistent release cycle, with major updates approximately every 5-15 months, and recent activities—such as publishing significant research papers, investing heavily in compute infrastructure, and hiring specialized teams—support a mid-2026 launch. Additionally, competitive pressures from OpenAI, Google, and Meta, along with statements from Anthropic's CEO, suggest they aim to stay at the forefront of AI development. If successful, Claude 5 is expected to feature notable improvements in performance, speed, and multi-modal capabilities, positioning Anthropic to potentially have one of the top AI models by the end of June 2026.
+### [The Leaderboard Illusion (arXiv:2504.20879)](https://arxiv.org/abs/2504.20879)
+**Author:** Shivalika Singh, Yiyang Nan, Alex Wang, Daniel D'Souza, Sayash Kapoor, Ahmet Üstün, Sanmi Koyejo, Yuntian Deng, Shayne Longpre, Noah Smith, Beyza Ermis, Marzieh Fadaee, Sara Hooker | **Published:** 2025-04-29
 
+This research paper analyzes millions of Chatbot Arena battles and identifies systemic issues (private testing, selective disclosure, sampling biases and silent deprecations) that can distort Arena rankings and create incentives to optimize for leaderboard performance rather than general capability. This paper is directly relevant because it implies that Arena-based rankings may be vulnerable to strategic behavior and access asymmetries; as the market resolves against Arena, these governance issues increase the chance that the Arena ranking could shift for technical or strategic reasons not reflecting pure model quality (a bearish factor for assuming the current leaderboard equals long-run superiority).
 
+### [Our response to "The Leaderboard Illusion" writeup](https://arena.ai/blog/our-response/)
+**Author:** LM Arena / Arena (Unknown) | **Published:** Unknown (site post; 2025 timeframe)
+
+The Arena (lmarena/arena.ai) operators’ public response to the Leaderboard Illusion critique. The response disputes some claims, provides clarifications, and states they are working with the paper authors. This is relevant because it shows the critique is contested and that the leaderboard maintainers are engaging, which mitigates (but does not eliminate) the paper’s negative implications; it means Arena’s maintainers view the leaderboard as defensible and are taking steps that may preserve reliability.
+
+### [Study accuses LM Arena of helping top AI labs game its benchmark (TechCrunch)](https://techcrunch.com/2025/04/30/study-accuses-lm-arena-of-helping-top-ai-labs-game-its-benchmark/)
+**Author:** Unknown | **Published:** 2025-04-30
+
+TechCrunch coverage summarizing the “Leaderboard Illusion” findings and industry reaction; notes that the study found evidence that some providers could collect more Arena data and the potential for score inflation via private tests and retraction. This article provides a mainstream-press overview of the academic critique and underscores why leaderboard governance is a practical concern for anyone using Arena as a de‑facto ranking; it supports cautious interpretation of Arena-based market probabilities.

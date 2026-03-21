@@ -1,100 +1,118 @@
 # Research: Will Therese Terlaje win the 2026 Guam Governor Democratic primary election?
 
 **Market ID:** 0xa34f2fb5664f2cc079ba616597ab300bbbe6dd91e3d597f5bc45693c6ea20082
-**Researched At:** March 2, 2026 at 04:22:49 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Therese Terlaje win the 2026 Guam Governor Democratic primary election?"
+**Researched At:** March 21, 2026 at 04:14:29 AM UTC
+**Search Query:** "Will Therese Terlaje win the 2026 Guam Governor Democratic primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 1.5¢
+**Confidence:** Low
+**Expected Value:** 3.2¢
 
 ### Summary
 
-The market’s 28% chance closely reflects a 36% poll share discounted for her uncertain candidacy and crowded field; no fresh evidence suggests a gap larger than a few cents.
+Public evidence is mixed: Therese Terlaje has legislative prominence and prior island-wide vote totals but (in public reporting) has not launched a formal gubernatorial ticket, while a declared, organized Tenorio–Muña Barnes team has visible endorsements and campaign structure. No authoritative public polls or finance disclosures were found that decisively contradict or confirm the market’s 53% price; with low trading volume the price plausibly reflects either private local information or a smal
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Therese Terlaje will win the August 1, 2026 Democratic primary for Guam governor. A “YES” requires that she (1) formally enters the Democratic primary, (2) secures the plurality or majority in the primary (including any run‐off), and (3) is officially declared the winner by the Guam Democratic Party (or by overwhelming credible reporting). A “NO” arises if she does not run, runs but loses, or if no primary is held (in which case it resolves to “Other”).
+Plan and scope
+- Key questions to answer with limited searches: (a) Is Therese Terlaje a declared candidate for the Aug 1, 2026 Guam Democratic gubernatorial primary or only a potential candidate? (b) Who are the other/declared Democratic contenders and how organized/endorsed are they? (c) Are there public polls, fundraising, endorsements or organizational signals that materially change the probability she’ll win? (d) Are there technical resolution issues the market trader(s) might be missing?
+- I used three web searches (local press, Guam Election Commission pages, election results) and focused on primary sources (local newspapers, election commission, official results). Below I summarize findings, analyze evidence, and give a final mispricing assessment + expected-value estimate.
 
-2. EVIDENCE EVALUATION  
-Bullish  
-• December 2025 poll (36% support among likely Democratic voters) shows her with a commanding single‐candidate lead over her nearest rival at 21%.  
-• She is the most popularly elected official in Guam over the past six years and enjoys high name recognition.  
-• Her critical stance on corruption resonates with the public’s desire for change.  
+1) CONTEXT ANALYSIS
+- What the market is asking: “Will Therese Terlaje win the 2026 Guam Governor Democratic primary election?” The market resolves YES if Terlaje is the overall winner of the Democratic primary for Governor of Guam (including any run-off), based on the Guam Democratic Party’s official announcement or an overwhelming consensus of credible reporting. (Market description given in prompt.)
+- What must happen for YES vs NO:
+  - YES: Therese Terlaje must be declared the winner of the Democratic primary (outright or after any run-off) held Aug 1, 2026, per Guam Democratic Party or credible reporting.
+  - NO: Any other Democratic candidate wins the primary, or no Democratic primary occurs (the market would resolve “Other” if no primary is held).
 
-Bearish  
-• She had not formally declared her candidacy as of February 12, 2026—entry risk remains.  
-• The primary appears set to be crowded: dozens picking up candidate packets as of mid-February suggests significant competition that could split the vote.  
-• Poll is nearly three months old and unknown margin-of-error; nearly 43% of likely voters were undecided at the time.  
-• No fresh polling since December; her actual vote share could be lower if new challengers emerge or if her support softens.  
+2) EVIDENCE EVALUATION (facts, source credibility, relevance)
 
-Source Credibility & Recency  
-• GuamPDN and Pacific Daily News are established local outlets; the December poll comes from a Facebook‐hosted summary without detailed methodology, so treat its absolute figures cautiously.  
-• February articles confirm she’s still weighing a run, underscoring entry uncertainty.  
+a) Who is declared and who is only “weighing” a run
+- Josh (Joshua) Tenorio (Lieutenant Governor) and Tina Muña Barnes have publicly launched a joint gubernatorial ticket and held large announcement events; Tenorio’s campaign is active with endorsements (including the sitting governor) and visible organization. This shows a declared, organized Democratic ticket early in the cycle. ([mbjguam.com](https://www.mbjguam.com/tenorio-mu%C3%B1a-barnes-announce-2026-gubernatorial-bid?utm_source=openai))
+  - Source credibility: Marianas Business Journal and Pacific Daily News (local papers) — high relevance and recent local reporting on campaign events and endorsements.
+- Joe S. San Agustin is listed as a declared Democratic candidate. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election?utm_source=openai))
+  - Source credibility: Wikipedia aggregates local reporting; treat as secondary but useful for candidate list; corroborated by local outlets.
+- Therese Terlaje is reported in public sources as having “publicly expressed interest” or weighing a run for governor, not (as of the most recent local reporting I found) as a formally declared gubernatorial candidate. That distinction matters because it affects fundraising, organization, and the certainty that she will be on the August 1, 2026 ballot as a full candidate. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election?utm_source=openai))
+  - Source credibility: Wikipedia again summarizes local reporting (the underlying local coverage is sparse in my searches on a formal Terlaje campaign kickoff).
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 36% poll support × estimated ~80% chance she ultimately runs = ~29% implied win probability. The market’s 28% is essentially this discounted figure.  
-• Low $491 volume and 4¢ spread could mean few participants—but the price aligns with a reasonable back-of-envelope calculation.  
-• The lack of trading interest may reflect that this is a niche, long-dated, low-liquidity market, not necessarily a mispricing.  
+b) Terlaje’s strengths and public record
+- Terlaje is a sitting territorial legislator and former Speaker of the Guam Legislature; she has name recognition and prior primary vote totals at the legislative level (she was among top vote-getters in prior primaries), which are signals of grassroots support and island-wide recognition. Official 2024 primary vote listings show Terlaje with strong vote totals in legislative contests. ([bloximages.newyork1.vip.townnews.com](https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/e/e2/ee2546f0-5d07-11ef-9ed0-b722bc513f48/66c159c5dcfaf.pdf.pdf?utm_source=openai))
+  - Source credibility: Guam Election Commission official results / local news reporting — high-quality record of past votes (relevant as a proxy for name recognition and base support).
+- However, legislative popularity does not automatically convert to winning a multi-candidate gubernatorial primary without an organized ticket, fundraising, or a running mate.
 
-4. MISPRICING ASSESSMENT  
-• No fresh, high-quality data suggests her probability is very different from ~28–30%.  
-• The existing poll likely has already been factored in, and the discount for her uncertain entry and crowded field appears rational.  
-• No indication of a new poll or breaking news to shift probability more than a few cents.  
+c) No reliable public polling or transparent fundraising numbers found
+- My searches did not turn up a widely-reported, credible public poll that places Terlaje clearly ahead (I found secondary analyses and small outlets referencing hypothetical numbers, but no authoritative island-wide poll with methodology and sample size that would reliably shift market probabilities). That increases uncertainty. (No solid polling citation found in my three searches.)
+  - Source credibility: absence of high-quality polling is itself a relevant data point.
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that the market is mispriced: low–moderate (≈30%)  
-• Magnitude of potential mispricing: small (~5¢)  
-• Expected value ≈ 30% × 5¢ ≈ 1.5¢  
+d) Organizational and endorsement advantages favor declared contenders
+- Tenorio’s campaign events, endorsements (including the sitting governor’s public support reported in local press), and described campaign staff/structure indicate stronger early organization and visible momentum relative to someone who has only “expressed interest.” That tends to favor declared, organized candidates in primaries, all else equal. ([mbjguam.com](https://www.mbjguam.com/tenorio-mu%C3%B1a-barnes-announce-2026-gubernatorial-bid?utm_source=openai))
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: The market’s 28% chance closely reflects a 36% poll share discounted for her uncertain candidacy and crowded field; no fresh evidence suggests a gap larger than a few cents.  
-CONFIDENCE: medium
+e) Market specifics and resolution mechanics
+- Market resolves to Guam Democratic Party official announcement; the primary date and candidate filing window are public (the Guam Election Commission schedules the primary for Aug 1, 2026). If Terlaje fails to file or run, the market should resolve NO or “Other” per the rules — meaning traders must consider the risk she doesn’t run or runs without a strong structure. The Guam Election Commission pages note the election schedule and candidate packet processes. ([gec.guam.gov](https://gec.guam.gov/category/uncategorized/?utm_source=openai))
+
+Summary of evidence bearing on pricing
+- Evidence that would suggest the market price (53%) might be too generous to Terlaje:
+  - She has not (in the public reporting I found) formally declared a gubernatorial campaign with a ticket and formal launch; competing Democrats (Tenorio + Muña Barnes, Joe San Agustin) have declared and display campaign organization and endorsements. That reduces her probability relative to an already-declared and endorsed front-runner. ([mbjguam.com](https://www.mbjguam.com/tenorio-mu%C3%B1a-barnes-announce-2026-gubernatorial-bid?utm_source=openai))
+  - No authoritative public polls were found that strongly favor Terlaje (absence of large, transparent polling/data is evidence that a >50% implied probability may be optimistic). (No direct citation because searches did not return reliable polls.)
+- Evidence that supports the market price (i.e., that 53% could be reasonable):
+  - Terlaje’s legislative profile and prior top vote totals in legislative primaries indicate name recognition and an existing support base that could translate into a plurality in a multi-candidate primary if she organizes effectively. Official primary vote totals support her island-wide base of support. ([bloximages.newyork1.vip.townnews.com](https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/e/e2/ee2546f0-5d07-11ef-9ed0-b722bc513f48/66c159c5dcfaf.pdf.pdf?utm_source=openai))
+  - Local political dynamics on Guam can be driven strongly by relationships, endorsements, and village-level organizing; if Terlaje has private fundraising or endorsements not widely reported, traders with local knowledge could rationally price her near-even. (This is a plausible explanation for the market price — the market may reflect local, non-public signals.)
+
+3) MARKET EFFICIENCY ANALYSIS
+- Market metrics: Age 99 days, Total Vol $1,470, Price 53.0%, Spread 4¢. Low dollar volume and narrow spread suggest a few active traders are setting the price and quoting tight spreads — consistent with a market where a single informed or confident participant is providing liquidity.
+- Reasonable interpretations for the 53% price:
+  - Charitable view: 53% is a modest tilt and could represent a balanced view that Terlaje is the single most likely Democratic nominee but faces organized competition. It’s consistent with uncertainty around whether she will run formally and how quickly she can build a ticket and fundraising apparatus.
+  - Less charitable view: With low volume, the price may mainly reflect one trader’s private information/opinion (or a small group) rather than broad aggregation.
+- Is low volume because outcome is obvious or overlooked? Evidence points more toward “overlooked / early-stage / low liquidity” rather than the outcome being obvious:
+  - The primary is many months away (Aug 1, 2026) and several candidates have not finalized tickets; the field is still forming. That usually depresses trading interest and public polling. Traders who are local or have private fundraising/petition data might participate, but the market may not have drawn institutional attention yet. ([gec.guam.gov](https://gec.guam.gov/category/uncategorized/?utm_source=openai))
+
+4) MISPRICING ASSESSMENT (do we have credible evidence that the market is mispriced?)
+- The evidence is inconclusive. Key points:
+  - Against mispricing: Terlaje has legislative prominence and past election vote totals that plausibly justify a >50% chance in a divided field if she runs and assembles a ticket; local, private signals (endorsements, fundraising) could exist and be known to traders even if not public. That would justify the market price.
+  - For mispricing: Publicly visible organization and endorsements favor declared contenders (Tenorio + Muña Barnes); Terlaje’s lack of a formal declared ticket and the absence of authoritative polls suggest caution — 53% might be somewhat optimistic absent evidence of a formal campaign or superior organization. If she has not filed, the market should price the risk she doesn’t run (or runs but weakly).
+- Do I find specific, credible evidence missing from the market price? No. I did not find authoritative polling, nor did I find public campaign finance numbers or a formal Terlaje ticket launch that would decisively push the probability substantially above or below 53%. Given the available public data, claiming a large mispricing (e.g., >20 cents) would be unjustified. The most charitable explanation for the 53% price is that the market (or the trader) is incorporating local information not visible in national/online reporting (early endorsements, private polling, bazaar-level organizing).
+- Critical check: am I misunderstanding resolution conditions? The market resolves to the Democratic primary winner on Aug 1, 2026 per Guam Democratic Party official announcement; if Terlaje never files, she cannot win. That is straightforward and the market probably discounts non-entry risk already. ([gec.guam.gov](https://gec.guam.gov/category/uncategorized/?utm_source=openai))
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence (how confident I am that public evidence is missing from the price and that I detected a real mispricing): 40%. Rationale: public evidence is moderately informative (declared candidates + endorsements) but incomplete (no strong public polling; possible private info).
+- Magnitude of plausible mispricing if any: I estimate at most ~8 cents (0.08) — i.e., the market might be off by only a few cents given the uncertainty and competing signals. Larger errors (>20¢) would require either a clear failure to account for declaration/failure-to-file risk or a public poll strongly favoring one side — neither exists in the public record I found.
+- Expected value = 40% × 8 cents = 3.2 cents.
+
+EXPECTED_VALUE: 3.2
+
+SUMMARY: Public evidence is mixed: Therese Terlaje has legislative prominence and prior island-wide vote totals but (in public reporting) has not launched a formal gubernatorial ticket, while a declared, organized Tenorio–Muña Barnes team has visible endorsements and campaign structure. No authoritative public polls or finance disclosures were found that decisively contradict or confirm the market’s 53% price; with low trading volume the price plausibly reflects either private local information or a small number of traders’ views.
+
+CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Terlaje Takes Commanding Lead In Democratic Primary Poll for ...
-Author: 
-Published Date: 2025-12-24T00:00:00.000Z
-URL: https://www.facebook.com/kanditnews/posts/terlaje-takes-commanding-lead-in-democratic-primary-poll-for-guam-governor-by-tr/1330555332422560/
-Summary: Therese Terlaje currently holds a significant lead in a recent poll for the 2026 Democratic Primary Election for Guam Governor, garnering 36% of the vote among likely Democratic voters. This positions her ahead of Lieutenant Governor Joshua Tenorio, who received 21%, with a notable portion of voters remaining undecided. Terlaje, a senator and the most popularly elected official in Guam over the past six years, has not yet declared her candidacy, which adds an element of uncertainty to her potential candidacy.
+### [Tenorio, Muña-Barnes make gubernatorial bid official](https://archive.vn/2025.12.21-232944/https%3A/www.guampdn.com/news/tenorio-mu-a-barnes-make-gubernatorial-bid-official/article_f8ee5a1e-a65c-426c-b292-ffb3621d6f49.html)
+**Author:** Unknown (Pacific Daily News staff reporting credited in the story) | **Published:** 2025-12-19
 
-Political dynamics indicate that while Terlaje is popular, the Republican primary is also competitive, with a high percentage of undecided voters. The Republican candidate who emerges will face the Democratic primary winner in the November 2026 General Election. Notably, Terlaje has been critical of the current Democratic administration, which may resonate with voters concerned about corruption issues that have plagued the administration.
+Local reporting of the Dec. 19, 2025 campaign announcement for the Tenorio–Muña Barnes gubernatorial ticket; describes turnout at the event (~700 people), campaign priorities (housing, affordability, safety), and notes Governor Lourdes A. Leon Guerrero voiced support for Tenorio. This source is relevant because it documents that a declared, organizationally active Democratic ticket exists with endorsements and public events — information that argues against Terlaje being the presumptive, uncontested nominee and that traders should discount any “she’ll win by default” thesis. It supports the view that declared contenders may have organizational/fundraising advantages relative to a candidate who has only “expressed interest.”
 
-Given her current polling strength, popularity, and critical stance on the administration, Terlaje appears to be a strong contender for the Democratic nomination, but her eventual decision to enter the race will be crucial in determining her chances of winning the primary.
+### [Tenorio, Muña Barnes announce 2026 gubernatorial bid](https://www.mbjguam.com/tenorio-mu%C3%B1a-barnes-announce-2026-gubernatorial-bid)
+**Author:** Skyler Obispo | **Published:** 2025-12-22
 
-Title: A week before candidacy filing opens, dozens pick up candidate packets | News | guampdn.com
-Author: Haidee Eugenio Gilbert Pacific Daily News
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.guampdn.com/news/a-week-before-candidacy-filing-opens-dozens-pick-up-candidate-packets/article_e00c1c80-04ed-45e1-80da-d48f48556a6a.html
-Summary: A recent article from GuamPDN highlights the growing interest in the upcoming 2026 Guam Governor Democratic primary election, with numerous candidates picking up candidate packets just a week before the filing period opens. While the article does not specifically mention Therese Terlaje, it indicates a competitive political landscape as various individuals prepare to enter the race. Factors that could influence Terlaje's chances include her previous political experience, public support, campaign strategies, and the overall dynamics of the Democratic primary. Observers should consider these elements, along with any emerging candidates and their platforms, to better predict the outcome of the election. For more detailed insights, you can read the full article [here](https://www.guampdn.com/news/a-week-before-candidacy-filing-opens-dozens-pick-up-candidate-packets/article_e00c1c80-04ed-45e1-80da-d48f48556a6a.html).
+Marianas Business Journal coverage of the Tenorio–Muña Barnes announcement that repeats turnout figures and campaign platform themes, and names campaign staff and structure. It reports the sitting governor’s support for Tenorio and describes planned campaign operations. This is relevant because it documents visible campaign infrastructure and endorsements for a declared Democratic ticket, strengthening the argument that declared contenders have tangible advantages over someone who has not formally launched.
 
-Title: 'They want some change,' Sen. Therese Terlaje says as she weighs run for governor | News | guampdn.com
-Author: Joe Taitano II Pacific Daily News
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.guampdn.com/news/they-want-some-change-sen-therese-terlaje-says-as-she-weighs-run-for-governor/article_89038ef4-1d2a-402e-82f7-a79260833a9f.html
-Summary: Sen. Therese Terlaje is considering a run for governor of Guam, expressing that the public desires change in leadership. As she weighs her candidacy for the 2026 Democratic primary, her popularity and the political landscape will be crucial factors in predicting her chances of success. Terlaje's focus on addressing community needs and her current role as a senator may resonate with voters seeking new leadership. Observers should monitor her campaign strategies, public support, and any potential challengers within the Democratic Party as the election approaches.
+### [2026 Guam gubernatorial election (Wikipedia page)](https://en.wikipedia.org/wiki/2026_Guam_gubernatorial_election)
+**Author:** Unknown (Wikipedia) | **Published:** Unknown
 
-Title: Press Release and Executive Orders - Governor of Guam
-URL: https://governor.guam.gov/press-release-and-executive-orders/
-Summary: The webpage from the Governor of Guam provides a collection of recent press releases and executive orders, highlighting various political activities and statements relevant to the local government. Notably, it includes information about the Governor's office's interactions with Senator Therese Terlaje, such as a FOIA request regarding a proposed public-private partnership with Guam Memorial Hospital. 
+Aggregated, continually-updated page listing declared candidates, those publicly expressing interest, and key dates (including the Aug 1, 2026 Democratic primary). It lists Josh Tenorio and Joe San Agustin as declared Democrats and lists Therese Terlaje under “publicly expressed interest.” I used it as a synthesized inventory of candidates and their public status; because it cites local reporting, it is helpful as a cross-check of who is declared vs. who is only weighing a run — but its secondary nature means the underlying local press articles remain the primary evidence.
 
-While the page does not directly address the 2026 Democratic primary election or Therese Terlaje's candidacy, it reflects ongoing political dynamics and issues that may influence voter sentiment. Key factors to consider for predicting her chances in the primary could include public responses to her initiatives, her visibility in recent press releases, and her engagement with pressing local issues, such as homelessness and financial management, as indicated by the recent press releases. 
+### [Final unofficial primary election results: Cruz advances to general against incumbent (KUAM News)](https://www.kuam.com/story/51137442/final-unofficial-primary-election-results-cruz-advances-to-general-against-incumbent?clienttype=mobile)
+**Author:** Unknown (KUAM News staff) | **Published:** Unknown
 
-For a more informed prediction, one might analyze her past electoral performance, current public opinion, and the political landscape leading up to the election.
+KUAM’s reporting of prior primary results (2024 primary coverage) lists the top Democratic primary vote-getters for legislative contests, showing Therese Terlaje among the leading vote-getters. This is relevant because it demonstrates Terlaje’s existing vote base and name recognition in recent elections — a factor that argues she could plausibly be competitive in a gubernatorial primary if she mounts a full campaign. It supports the idea that she is not an unknown.
 
-Title: Candidates can begin submitting petitions | Local News | postguam.com
-Author: Nestor Licanto I The Guam Daily Post
-Published Date: 2026-02-22T00:00:00.000Z
-URL: https://www.postguam.com/news/local/candidates-can-begin-submitting-petitions/article_6fa0fd3f-144b-484e-8fd2-29311978bcb4.html
-Summary: The article from Post Guam announces that candidates can start submitting their petitions for the upcoming elections. While it does not specifically mention Therese Terlaje or her chances in the 2026 Guam Governor Democratic primary, understanding the election process and candidate petitioning is crucial for predicting outcomes. Factors that could influence Terlaje's chances include her previous political performance, public support, campaign strategy, and the political landscape leading up to the primary. Monitoring her campaign activities and public reception as candidates begin to file could provide further insights into her potential success. For more detailed information on her candidacy, you may want to follow local news updates and polls as the election date approaches.
+### [Uncategorized – GUAM ELECTION COMMISSION](https://gec.guam.gov/category/uncategorized/)
+**Author:** Unknown (Guam Election Commission) | **Published:** Unknown
 
-
+Guam Election Commission pages include notices about election schedules and candidate packet timelines and show the primary date (Aug 1, 2026) and candidate packet processes. This is relevant because the market resolution hinges on an official primary run and the candidate filing process: if Terlaje does not file or otherwise is not a candidate, the market should resolve accordingly. The GEC is the authoritative source for dates and filing rules that affect entry/failure-to-file risk included in the market price.

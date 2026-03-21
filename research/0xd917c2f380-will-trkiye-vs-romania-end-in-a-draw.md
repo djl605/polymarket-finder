@@ -1,7 +1,7 @@
 # Research: Will Türkiye vs. Romania end in a draw?
 
 **Market ID:** 0xd917c2f380f7ff6765c1d9c7583b0cf435efafc7f0d205c344b6a4227fc79302
-**Researched At:** March 15, 2026 at 04:39:15 AM UTC
+**Researched At:** March 21, 2026 at 04:23:28 AM UTC
 **Search Query:** "Will Türkiye vs. Romania end in a draw?"
 
 ---
@@ -9,64 +9,81 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 0.6¢
 
 ### Summary
 
-The market's 21% draw probability is close to bookmaker-implied draw odds and to public expert commentary; with zero trading volume there is fragility but no clear large mispricing. Any exploitable edge appears small (a few cents) unless private/new information arrives before kickoff.
+The market's 20.5% draw probability aligns with bookmaker implied draw odds (~22%) and authoritative match information (UEFA, national FA, major sports outlets). Low liquidity means the posted price is fragile, but I found no specific, credible evidence of a large (>~2¢) mispricing.
 
 ### Full Analysis
 
-I searched recent primary sources (national federations, UEFA, mainstream sports press, and bookmaker aggregators) and evaluated whether the market (Price = 21.0% for "Draw") shows credible evidence of mispricing.
+Plan and searches (budget 3): I used searches to (1) confirm the exact fixture, competition, date and venue from authoritative sources (UEFA, national federation), (2) collect mainstream reporting and head‑to‑head / form context (Goal, Sky Sports), and (3) check bookmaker prices to compare implied draw probability (Oddschecker). I excluded prediction market sites per your instructions.
 
 1) CONTEXT ANALYSIS
-- What the market asks: Will Türkiye vs Romania (single-leg UEFA Path C World Cup play-off semi‑final, scheduled 26 March 2026, at Beşiktaş Park in Istanbul) end in a draw after 90 minutes plus stoppage? The market resolves YES if the official 90‑minute result is a draw (or if the match is cancelled with no make-up game); it resolves NO if one side wins in 90 minutes.
-- To resolve YES: the match must finish level on goals after regular time (e.g., 0–0, 1–1, 2–2), or the match must be cancelled outright with no make-up fixture. To resolve NO: Turkey or Romania must lead on goals at the final whistle of normal time.
+- What the market asks: "Will Türkiye vs. Romania end in a draw?" — the market resolves YES if the match on March 26, 2026 ends as a draw after 90 minutes plus stoppage time (the market description explicitly limits resolution to the first 90 minutes + stoppage). It also resolves YES if the game is canceled entirely with no make‑up game; if postponed it remains open until completed. The primary resolution source is official match statistics from the governing body or event organizers, or credible media consensus if official stats aren’t published within 2 hours.
+- What must happen for YES vs NO:
+  - YES: Full‑time result (90'+stoppage) is a tie (e.g., 0–0, 1–1, etc.), OR the match is canceled with no make‑up game.
+  - NO: One team leads after 90'+stoppage (home or away win). (Note: extra time / penalties do not change this — resolution is strictly the 90‑minute result.)
 
-2) EVIDENCE EVALUATION (relevant, recent, credible sources)
-- Evidence that argues the market price might be too low (i.e., draw more likely than 21%):
-  - Bookmaker aggregate / market-implied draw odds: major odds aggregator Oddschecker displays a draw price around +340 (decimal ~4.4), which implies ~22–23% raw probability (and many sportsbooks cluster draw odds in the low‑20s to mid‑20s percent range). That places the market's 21% very close to bookmakers. This suggests the market is not far below professional betting prices; if anything there’s only a small gap. (Oddschecker). ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/turkey-v-romania))
-  - Tactical incentives: this is a one‑leg knockout played in Istanbul. Underdog Romania is likely to play conservatively away from home (defensive approach raises draw frequency in many away-underdog cases). Recent press reporting and preliminary squad announcements show Romania preparing defensively and naming experienced, defensively capable players — an argument that a cautious, low‑scoring draw is plausible (FRF ticket page; Romanian press quoting coach Lucescu; UEFA squad lists). ([bilete.frf.ro](https://bilete.frf.ro/bilete/nationala/2026-world-cup-qualifying-uefa-playoff-semifinals-turcia-vs-romania-26-mar-2026/?utm_source=openai))
+2) EVIDENCE EVALUATION (all evidence and source credibility)
+Key factual sources used:
+- UEFA match page (official competition page) confirms this is the single‑leg UEFA play‑off semifinal on March 26, 2026 (authoritative primary source). (UEFA is the official governing body for this European qualifying play‑off.)
+- Romanian FA ticket page confirms date, kickoff time and stadium (national federation source; primary). This also documents home venue is Besiktas Park (Istanbul) and confirms away ticket allocation — evidence of a strong home crowd.
+- Major outlets (Goal, Sky Sports, Fox/other sports pages) describe the match as a decisive World Cup play‑off single‑leg in Istanbul on March 26 and list recent form/head‑to‑head; these are reputable sports journalists who summarize form and context.
+- Odds aggregator (Oddschecker) shows bookmakers’ market (example moneyline and draw odds). Bookmakers are the best available market benchmark for short‑term event probabilities.
 
-- Evidence that argues the market price might be too high (i.e., draw less likely than 21%):
-  - Home advantage and Turkey’s form / personnel: Turkey are the home team in a single‑leg tie and are priced as favorites by sportsbooks (moneyline heavily favors Turkey). Home teams in one‑leg knockouts very often push for a result; bookmakers’ moneyline suggests markets expect Turkey to win outright, which tends to reduce draw probability compared with two‑leg or neutral‑venue matchups. The UEFA lineups / squad lists show Turkey fields several attacking options (Arda Güler, Kenan Yıldız, etc.), increasing their chance to win rather than draw. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/turkey-v-romania))
-  - Some predictive models / tip pages give lower draw percentages: at least one match‑prediction site produced a draw chance notably below 21% (e.g., WinComparator’s model near ~16%), indicating model disagreement and that 21% is within the model spread rather than an outlier. ([wincomparator.com](https://www.wincomparator.com/predictions/turkey-romania-7927446/?utm_source=openai))
+Specific evidence that the market price might be incorrect (bearish on current market price being fair):
+- Low trading volume ($0 total vol) means the market price may be a posted initial price not yet stress‑tested by traders; with zero real money flow the quoted 20.5% could reflect the creator’s view rather than broad aggregation. Low volume markets are more likely to contain isolated mispricings than high‑liquidity markets.
+- Single‑leg knockout matches can encourage conservative, defensive tactics (especially from the away team): that tendency in some high‑stakes, neutral/hostile atmosphere matches can raise draw likelihood relative to a typical home/away league match. If traders under‑weighted this tactical factor, the market draw probability could be understated — but we need concrete evidence this tactical effect is large for these teams (see counterpoints below).
 
-- Credibility and recency:
-  - UEFA (match/squad lists) and national federation ticket pages (FRF, TFF reporting) are primary, authoritative, and current sources for the match date, location, squads and resolution criteria — high credibility. Bookmaker aggregator Oddschecker is reliable for current market pricing. Goal.com and national outlets (Romania Journal, Turkey Today/haberler) are mainstream sports press: useful for context (venue, crowd, coach comments). Predictive aggregator/model sites (WinComparator, tips.gg, etc.) vary in methodology and should be treated as lower‑credibility model outputs unless they publish methodology. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047078--turkiye-vs-romania/lineups/))
+Specific evidence supporting the current market price as reasonable (bullish that market is reasonably priced):
+- Bookmaker aggregate: Oddschecker shows draw priced around +350 (decimal ~4.50), which implies ~22.2% raw probability for a draw (1/4.5). The prediction market price is 20.5% — within ~1.7 percentage points of the major-book implied draw probability. That alignment suggests the market price is in the same range as professional betting markets and not an extreme outlier.
+- Team/form/venue context from mainstream reporting (Goal, Sky Sports): Turkey is the home team (Istanbul) and has had some strong results recently (big wins vs Bulgaria and Georgia), while Romania’s away form in 2025 included poor results; mainstream previews list Turkey as favorite. Home advantage and the quality gap (Turkey favored in moneyline markets) reduce expected draw probability vs an evenly matched neutral fixture.
+- Official sources confirm the game is a high‑stakes, single‑leg play‑off: bookmakers explicitly price for that context; so the bookies’ draw odds (and the market price) likely already incorporate the tactical and incentive structure of a knockout semi.
+- The market description includes a small technicality that favors YES (if game canceled and not replayed it resolves YES). That tiny extra YES probability (for cancellation) would make the market price slightly higher than pure draw probability; however cancellations are rare and this effect is negligible in practice.
 
-- Skepticism check:
-  - If the draw probability were obviously wrong (e.g., 5% vs. market 21%), bookmakers and mainstream previews would likely show a large divergence and sharp odds. In this case, bookmaker implied draw probabilities and the market’s 21% are very close; the low trading volume suggests the quoted market price may simply be the initial/creator price rather than an actively aggregated consensus.
+Credibility and recency:
+- UEFA and national FA ticket pages are authoritative primary sources and current (match is on March 26, 2026). Sky Sports and Goal are high‑quality sports journalism outlets with timely previews (February–March 2026). Oddschecker aggregates current bookmaker odds and is a high‑quality benchmark for market probabilities. All cited sources are recent (Feb–Mar 2026) and directly relevant.
+
+Bullish vs bearish perspectives (balanced):
+- Bullish for YES (draw): defensive away strategy in knockout, pressure on favored home team causing conservative tactics, small chance of cancellation resolving YES, and low market liquidity allowing a mispriced value.
+- Bearish for YES (supports NO): Turkey is home favorite, bookmakers imply similar or slightly higher draw probability (~22%), head‑to‑head and recent results show Turkey winning more, and bookies’ pricing suggests draw ≈ 20–23% which is basically the market price — so no large, obvious arbitrage.
+
+Skepticism check: If the draw probability were obviously wrong, bookmakers and mainstream outlets would likely show a different number. Here bookies and the market are aligned; that reduces the likelihood of a large (>20¢) mispricing.
 
 3) MARKET EFFICIENCY ANALYSIS
-- Possible charitable interpretations of the current price (21%):
-  - It is roughly in line with sportsbook-implied draw probabilities (bookmakers cluster in the low‑20% range), so 21% could be a reasonable estimate of draw probability after accounting for bookmaker margin.
-  - The tight spread (4¢) could be the market-creator setting a price informed by odds/data rather than an actively traded consensus; the lack of volume ($0 total vol) means no independent traders have validated or moved that price.
-- Could this represent consensus or a few traders? With total volume $0 and the market age only 15 days, the price almost certainly reflects a posted/initial price (one actor or the creator) rather than an aggregation of many independent informed traders. That makes the price fragile to new information (injuries, suspensions, weather) that informed bettors would trade on.
-- Why low volume? Two plausible reasons:
-  - The outcome window is near (match in 11 days), so many bettors are waiting for final squads/injury news before trading.
-  - Or the market is simply not well‑known or capitalized (small / niche market), so informed liquidity is absent. Either case means the price may not reflect fully aggregated information.
+- Reasonable interpretations that justify the ~20–22% draw price:
+  - Bookmakers (with extensive liquidity and professional risk models) put draw ≈22% — the prediction market’s 20.5% is essentially the same within normal dispersion, so it can reflect consensus between professional betters and whoever seeded this market.
+  - Home advantage + Turkey being favored suggests a lower draw probability than two evenly matched teams; bookmakers’ odds reflect that.
+  - The single‑leg knockout creates asymmetric incentives (home team pushes for a win; away team may defend) — the net effect on the draw probability is ambiguous and is likely already priced by bookmakers.
+- Could the price reflect only one or a few traders? Yes — the total volume is $0, so the market price appears to be the initial posted price with no executed trades; that makes it vulnerable to mispricing if a single creator misjudged draw odds. But since independent bookies show similar draw pricing, that reduces concern that the posted price is wildly wrong.
+- Why low volume? Possible reasons:
+  - The outcome is short‑dated (match on March 26) and many traders prefer to bet in bookmakers rather than prediction markets for soccer; prediction markets may be less used for soccer playoffs, so liquidity is thin.
+  - The market creator could have seeded a reasonable bookie‑aligned price and nobody has traded it yet.
+  - Players who would correct mispricing (professional bettors) prefer bookmakers for liquidity and therefore don't interact with the prediction market.
 
 4) MISPRICING ASSESSMENT
-- Do I find credible evidence that the market is substantially mispriced (i.e., off by >20 percentage points or >20 cents)? No.
-  - Bookmaker implied draw probability (Oddschecker) is ~22–23%, very close to the market's 21.0%. Other tip models vary (some lower, some higher), but none provide robust, consistent evidence that draw probability should be dramatically higher or lower than ~20–30%.
-  - The single‑leg knockout, home advantage, and lineups tilt the contest toward a home win (which reduces draw probability) but Romania’s away‑dog defensive incentive tilts toward draws. These factors pull in opposite directions and largely cancel rather than indicate a large mispricing.
-- Possible small mispricing: given the small differences between bookmakers and the market, if there is a mispricing it is modest (a few cents, e.g., 0–5¢). Because total volume is $0, that small gap could be exploitable only if you trust bookmaker prices precisely and are confident in the bookmaker market edge compared with this prediction market’s settlement rules and fees.
-- CRITICAL CHECK: I reviewed the resolution terms carefully (market resolves YES on cancellation with no makeup, YES on draw after 90 min), and I see no hidden technicality that would make the outcome certain. Cancellation-as-Yes slightly increases Yes probability relative to bookmaker draw-only markets, but the practical effect is tiny for a scheduled, highly anticipated play-off at a major stadium.
+- Given the available evidence, there is no strong, specific, credible piece of information missing from the market price that would indicate a large mispricing. Bookmakers imply draw ≈22%, and the market price is 20.5% (difference ≈1.7 percentage points, i.e., 1.7 cents on the dollar).
+- Possible small mispricing channels:
+  - The market’s YES includes cancellation → a tiny upward bias of a few tenths of a percentage point versus pure draw probability; if the market maker did not net this out, the pure draw probability implied by the price is slightly lower than 20.5%, but the effect is negligible.
+  - If there is late, material squad/injury news (e.g., star striker injured) that bookmakers have not yet priced but the prediction market also didn't update, that could shift draw probability by a few points; I did not find recent squad injury reports that change the picture.
+- Critical check (if claiming a large mispricing): I do not claim large mispricing. My analysis finds that the most charitable interpretation is that the posted market price is roughly consistent with professional bookmakers and mainstream reporting. The low trade volume increases uncertainty (the market is fragile), but it does not, by itself, prove a mispricing large enough to exploit.
 
-5) EXPECTED VALUE CALCULATION (estimate)
-- Strength of evidence that the market is mispriced: low-to-moderate. Bookmakers and primary sources are aligned and close to the market price; so the evidence that something material is missing from the market is weak. Assigned strength = 30%.
-- Magnitude of plausible mispricing if present: small — I estimate at most ~5 cents of real mispricing (i.e., market could be off by ~0.05 in probability points given the closeness to sportsbook implied probabilities and the low‑volume nature). Magnitude = 5 cents.
-- Expected value = Strength × Magnitude = 30% × 5¢ = 1.5¢
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that a meaningful mispricing exists: low–moderate. Bookmakers align with the market price; authoritative competition/venue sources confirm home advantage and knockout status are already known and priced. I estimate the strength at ~30% (there’s some chance the prediction market is a little off because it’s untraded).
+- Magnitude of potential mispricing: small. Difference between market (20.5%) and bookmaker implied draw (≈22.2%) is ~1.7 percentage points (1.7 cents). Given uncertainty, a plausible maximum mispricing estimate is ~2 cents.
+- Expected value = Strength × Magnitude = 0.30 × 2 cents = 0.6 cents.
 
 6) CONFIDENCE
-- I rate my assessment confidence as medium. The sources are recent and authoritative about schedule, venue, squads and bookmaker odds, but the low‑volume market and remaining pre‑match uncertainty (injuries, tactical choices, final lineups) limit certainty. Also model/predictor disagreement and typical bookmaker margins mean only small actionable edges seem plausible.
+- I rate my confidence in this assessment as: medium.
+  - Reasoning: primary sources and bookmakers are recent and reputable; the core facts (date, venue, competition, teams, bookmaker odds) are well documented. The remaining uncertainty comes from low market liquidity and the usual unpredictability of one‑off football matches and last‑minute team news (squad changes/injuries). That yields a medium confidence level.
 
-FINAL JUDGMENT (brief)
-- The market price (21.0% for draw) is broadly consistent with mainstream bookmaker-implied probabilities (low‑20s percent). There is no clear, specific, high‑credibility evidence that the market is mispriced by a large amount. Because total trading volume is zero, the market is fragile — if you require a tradable edge you’d need either a larger, credible divergence from bookmakers or a piece of information not publicly priced (injury, suspension) before the match. As it stands, the most charitable interpretation is that the posted price reflects available public information (bookmakers and press) rather than an obvious inefficiency.
+Final concise conclusions
+- No credible evidence of a large mispricing. The market price (20.5%) is close to mainstream bookmaker implied draw probability (~22%), and authoritative sources confirm the match context that bookmakers and the market appear to have already priced in.
+- The market’s low volume makes it fragile: it could be moved easily by a single informed trade, and there remains a small chance (a few cents) that the posted price is stale or slightly off. But I found no specific, credible information that is clearly missing from the price that would justify concluding a significant mispricing.
 
-EXPECTED_VALUE: 1.5
-SUMMARY: The market's 21% draw probability is close to bookmaker-implied draw odds and to public expert commentary; with zero trading volume there is fragility but no clear large mispricing. Any exploitable edge appears small (a few cents) unless private/new information arrives before kickoff.
+EXPECTED_VALUE: 0.6
+SUMMARY: The market's 20.5% draw probability aligns with bookmaker implied draw odds (~22%) and authoritative match information (UEFA, national FA, major sports outlets). Low liquidity means the posted price is fragile, but I found no specific, credible evidence of a large (>~2¢) mispricing.
 CONFIDENCE: medium
 
 ---
@@ -75,37 +92,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Turkey v Romania Betting Odds | oddschecker](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/turkey-v-romania)
+### [Türki̇ye vs Romania | European Qualifiers 2026 | UEFA.com](https://www.uefa.com/european-qualifiers/match/2047078--turkiye-vs-romania/)
 **Author:** Unknown | **Published:** Unknown
 
-Aggregated sportsbook prices and markets for Turkey vs Romania (moneyline, draw, totals, special markets). The page shows the draw market (example: +340) and moneyline prices that imply Turkey is favored; the draw implied probability from listed odds is in the low‑20% range. This is directly relevant because it supplies the professional-betting market benchmark against which the prediction-market price (21%) should be judged; it supports the conclusion that the prediction-market price is close to mainstream betting markets. ([oddschecker.com](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/turkey-v-romania))
+This is the official UEFA match page for Türkiye vs Romania in the European Qualifiers / World Cup playoff path. It confirms the fixture as a single‑leg UEFA play‑off semi‑final on March 26, 2026, and identifies the competition and the match as a high‑stakes knockout. This authoritative confirmation of date/competition/format matters because the market resolves on the 90‑minute result and UEFA is the primary resolution authority; it shows the context (knockout, home advantage) that both bookmakers and the prediction market would price.
 
-### [2026 World Cup Qualifying - UEFA, Playoff Semifinals - Turcia vs Romania - 26 mar 2026 (Tickets) | Bilete FRF](https://bilete.frf.ro/en/tickets/national-team/2026-world-cup-qualifying-uefa-playoff-semifinals-turcia-vs-romania-26-mar-2026/)
+### [How to get Turkey vs Romania World Cup Qualifier tickets: March 26 fixture, prices & more](https://www.goal.com/en/news/turkey-romania-tickets/blt724693d7e1f87935)
+**Author:** Rob Norcup | **Published:** 2026-02-26
+
+Goal.com’s preview confirms the March 26, 2026 match in Istanbul (Besiktas Stadium / Vodafone Park) and summarizes recent form and head‑to‑head results. It notes Turkey’s home advantage, ticket allocations for Romanian fans, and recent results that make Turkey the favorite. This supports the interpretation that Turkey should be priced as favorite (reducing draw probability) and provides recent form/head‑to‑head context that bookmakers likely used.
+
+### [Turkey v Romania — Betting Odds (Oddschecker)](https://www.oddschecker.com/us/soccer/world-cup-european-qualifiers/turkey-v-romania)
 **Author:** Unknown | **Published:** Unknown
 
-Official FRF ticket page for Romania’s away play-off match in Istanbul on 26 March 2026. Confirms match date, single‑leg play‑off status and venue details. This is a primary source confirming the fixture and the resolution-relevant facts (date, venue) that the market is based on; it also supports the notion this is a high‑stakes single‑leg knockout where tactical incentives matter. ([bilete.frf.ro](https://bilete.frf.ro/bilete/nationala/2026-world-cup-qualifying-uefa-playoff-semifinals-turcia-vs-romania-26-mar-2026/?utm_source=openai))
+Oddschecker aggregates multiple bookmakers and displays the market odds for Turkey win, draw, and Romania win; for example the draw market is shown around +350 (decimal ≈4.50), implying a raw draw probability around 22.2%. This is the most directly comparable market benchmark to the prediction‑market price (20.5%); the close alignment suggests the prediction market is not a large outlier.
 
-### [The stadium for our national team's match against Romania has been determined.](https://en.haberler.com/the-stadium-for-our-national-team-s-match-against-2176936)
+### [Turkey vs Romania — FIFA World Cup European Qualifying Play-off Semi-finals (match page)](https://www.skysports.com/football/turkey-vs-romania/550193)
 **Author:** Unknown | **Published:** Unknown
 
-Report (Turkish press) that the Turkish Football Federation announced Besiktas Park (Istanbul) as the venue for the Turkey vs Romania play-off on 26 March 2026 and the kickoff time. Confirms home advantage for Türkiye and logistical details (stadium, kickoff), which are relevant because home advantage affects win/draw probabilities and the market may price that in. ([en.haberler.com](https://en.haberler.com/the-stadium-for-our-national-team-s-match-against-2176936?utm_source=openai))
+Sky Sports’ match page provides a pre‑match view listing kickoff time, venue (Vodafone Arena / Besiktas Park), recent form lines for both teams, and a live match framework. It shows Turkey’s recent positive results and Romania’s mixed form. Sky Sports is a mainstream sports news outlet; its form summary and identification of Turkey as the home favorite supports the market/bookmakers’ view that a Turkey win is likelier than a draw.
 
-### [How to get Turkey vs Romania World Cup Qualifier tickets: March 26 fixture, prices & more | Goal.com](https://www.goal.com/en/news/turkey-romania-tickets/blt724693d7e1f87935)
-**Author:** Unknown | **Published:** 2026-02-26
+### [2026 World Cup Qualifying - UEFA, Playoff Semifinals - Turcia vs Romania - 26 mar 2026 (Ticket page)](https://bilete.frf.ro/en/tickets/national-team/2026-world-cup-qualifying-uefa-playoff-semifinals-turcia-vs-romania-26-mar-2026/?setpagelang=en)
+**Author:** Unknown (Federatia Romana de Fotbal) | **Published:** Unknown
 
-Match preview / practical information about the March 26 tie, ticketing and the significance (winner advances in the play‑off). Notes the high stakes for qualification and that the tie is a one‑off single‑leg match, meaning teams cannot rely on aggregate or second-leg strategies. This supports the interpretation that tactical incentives are heightened (favoring either a cautious draw by the away side or an aggressive home push by Turkey), which moderates draw probability and explains why bookmakers place Turkey as favorite. ([goal.com](https://www.goal.com/en/news/turkey-romania-tickets/blt724693d7e1f87935?utm_source=openai))
-
-### [Turkey vs Romania tickets sold out in record 20 seconds - The Romania Journal](https://www.romaniajournal.ro/amp/sports/turkey-vs-romania-tickets-sold-out-in-record-20-seconds/)
-**Author:** Unknown | **Published:** 2026-02-06
-
-Reports rapid sellout of tickets for the Turkey vs Romania play‑off in Istanbul and emphasizes the match’s high importance for Romania’s World Cup hopes. This indicates a likely intense atmosphere in the stadium and confirms public interest; home crowd intensity is relevant because it increases home‑team winning incentives (which tends to reduce draw probability relative to a neutral match). ([romaniajournal.ro](https://www.romaniajournal.ro/amp/sports/turkey-vs-romania-tickets-sold-out-in-record-20-seconds/?utm_source=openai))
-
-### [Turkiye vs Romania prediction – Odds & stats – 26 March 2026 (WinComparator)](https://www.wincomparator.com/predictions/turkey-romania-7927446/)
-**Author:** Unknown | **Published:** Unknown
-
-Independent prediction/aggregation page that displays model outputs and predicted probabilities (one listed draw probability ~15.98% on this aggregator). The lower draw estimate contrasts with some bookmakers and shows model dispersion — useful to demonstrate there is not unanimous model agreement on draw probability and so no obvious, large mispricing. Because methodology varies, this is lower‑credibility evidence but still informative. ([wincomparator.com](https://www.wincomparator.com/predictions/turkey-romania-7927446/?utm_source=openai))
-
-### [Türki̇ye vs Romania | Squad lists | European Qualifiers 2026 | UEFA.com](https://www.uefa.com/european-qualifiers/match/2047078--turkiye-vs-romania/lineups/)
-**Author:** UEFA | **Published:** Unknown
-
-Official UEFA match page listing squad lists, player names, and coaching staff for both teams; lists Turkey’s attackers (Arda Güler, Kenan Yıldız, etc.) and Romania’s attacking and defensive options (Ianis Hagi, Dennis Man, Florin Tănase). This is an authoritative source on player availability and confirms both teams have quality attacking options and experienced coaches (Montella and Lucescu), which is directly relevant to estimating goal expectancy and hence draw probability. ([uefa.com](https://www.uefa.com/european-qualifiers/match/2047078--turkiye-vs-romania/lineups/))
+The Romanian FA ticketing page confirms the fixture date/time (March 26, 2026 at 8:00 PM local) and the stadium (Stadion Besiktas Park, Istanbul). It documents away‑fan ticket allocation and the practical reality of the match (venue, schedule). This primary source reinforces the venue/home advantage element that reduces the draw probability and helps validate that bookmakers and the market have accurate event details.

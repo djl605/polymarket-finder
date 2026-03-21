@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the FL-14 House seat?
 
 **Market ID:** 0xe3d41b3bb1f838d2dc30606cc70a1ae7eda2fc7ccf6ee2235586a6490950b8eb
-**Researched At:** March 13, 2026 at 04:16:43 AM UTC
+**Researched At:** March 21, 2026 at 04:19:36 AM UTC
 **Search Query:** "Will the Republican Party win the FL-14 House seat?"
 
 ---
@@ -9,68 +9,78 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 12.5¢
+**Expected Value:** 7.2¢
 
 ### Summary
 
-Public evidence (Kathy Castor’s comfortable 2024 margin, superior fundraising, and consensus forecasters) implies Republican chances in FL-14 under the current map are well below the market’s 48% price; the primary justification for a near‑50% Republican price is a mid‑decade redistricting effort that could change the electorate, but that effort is itself legally contested and not settled. Overall, the market looks plausibly overpriced for a Republican win under currently public information, but
+FL‑14 is a solidly Democratic district (Kathy Castor re‑elected ~56.9% in 2024) and Castor appears to be preparing for 2026; no major GOP recruit is publicly established. The market’s 42% Republican price looks modestly high relative to baseline partisanship, but the time until Nov 4, 2026 and the possibility of a GOP wave mean the mispricing is likely limited.
 
 ### Full Analysis
 
-Context analysis
-- What the market asks: "Will the Republican Party win the FL-14 House seat?" — it resolves YES if a Republican is the party of the candidate who wins the general election for Florida’s 14th U.S. House district in the 2026 midterms (Nov 4, 2026). Per the market’s resolution rules, the market will use a consensus of credible reporting, and if ambiguous, official results reported by the U.S. government (FEC).  
-- What must happen for resolution: a Republican nominee must receive the greatest number of votes in the November 4, 2026 general election in whatever geographic district is used for that election. If district lines are redrawn before the 2026 election, the result still resolves to whichever party the winning candidate is reported to belong to by credible sources or, if necessary, the FEC.
+Planned approach and searches used
+- I needed authoritative, recent facts about (a) who holds FL‑14 and 2024 margins, (b) the district’s baseline partisan lean, and (c) whether a major Republican challenger (or other structural change) is already in place for 2026. I used my 3-search budget to retrieve those items from news sources, the FEC and reputable race-rating / local outlets.
 
-Evidence evaluation (all sources are recent, mostly 2024–2026)
-Bullish evidence for Republican outcome (why 48% might be plausible)
-- Mid-decade redistricting risk: Governor DeSantis called a special session in January 2026 to redraw congressional districts, and litigation has already been filed challenging his authority to call that session. If the state passes new lines favorable to Republicans for the 2026 map, a seat that is now safely Democratic could become competitive or flip. (AP reporting Jan 7, 2026; AP reporting Feb 5, 2026). These developments materially increase uncertainty about the underlying electorate that will vote in FL-14 in 2026. ([apnews.com](https://apnews.com/article/b10b743019ba7f25a2f26d3ccdaf9a67?utm_source=openai))
-- National midterm environment and turnout effects: midterm national swings (which are impossible to predict this far out) can move even moderately safe districts; some forecasters include uncertainty about national environment and midcycle map changes in their models. 270toWin and similar aggregators currently list FL-14 as much safer for Democrats than a toss-up, but they explicitly note midcycle redistricting as a risk factor. ([270towin.com](https://www.270towin.com/2026-house-election/states/florida))
+Answer structure below follows your checklist (context, evidence, market-efficiency, mispricing assessment, expected-value, confidence), then the required short summary/EV/confidence lines and full source list.
 
-Bearish evidence — price may be too high for Republican chances
-- Incumbency and recent margins: Incumbent Democrat Kathy Castor won in 2024 by a large margin (roughly mid-teens percentage points) and the district (Tampa Bay area) has a recent history of voting substantially Democratic at the congressional/presidential level. The Associated Press and other local outlets reported Castor’s 2024 win; 270toWin shows a large recent margin and classifies the district as safely Democratic in current ratings. Those facts argue the baseline win probability for a Republican in the current map is low. ([apnews.com](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b?utm_source=openai))
-- Fundraising and campaign resources: Federal campaign finance data (FEC table) shows Castor materially out-raised and has far more cash on hand than the leading 2024 Republican (Robert “Rocky” Rochford). A well-funded incumbent in a D-leaning district reduces the likelihood of a 2026 Republican upset absent map change or a major scandal. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2026/tables/congressional/ConCand7_2025_6m.pdf))
-- Forecasters’ consensus: major non-market forecasters (Cook/270/Inside Elections archives and consensus aggregators) currently treat FL-14 as leaning/likely Democratic; that implies the market probability for a Republican win should be well below 50% unless new information (e.g., a successful redistricting that applies to 2026) is expected. ([cookpolitical.com](https://www.cookpolitical.com/cook-pvi/2025-partisan-voting-index/district-map-and-list))
+1) CONTEXT ANALYSIS — What the market is asking and resolution conditions
+- Market question: “Will the Republican Party win the FL‑14 House seat?” i.e., will the winner of the U.S. House election in Florida’s 14th Congressional District on Nov 4, 2026 be a Republican (YES) or not (NO).
+- For the market to resolve YES: a Republican candidate must be the winner as determined by the consensus of credible reporting (or, if ambiguous, official U.S. government results — FEC). For NO: the winner must be a non‑Republican (most likely the incumbent Democrat).
+- Practical resolution details to keep in mind (from the market description): party is determined by ballot-listed affiliation or caucus intent if not ballot-listed; resolution relies on credible reporting or, in ambiguity, official FEC results. (This means party-switch or late independent runs with caucus intent could matter for edge cases — but the basic read is straightforward: which party’s candidate wins the final, official result.)
+
+2) EVIDENCE EVALUATION — Relevant facts and how they move the probability
+
+Key empirical facts (most load-bearing)
+- Incumbent and recent result: Democrat Kathy Castor is the incumbent and was re‑elected in 2024 with roughly 56.9% of the vote. This establishes a recent Democratic advantage in the district. ([apnews.com](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b?utm_source=openai))
+- District baseline / ratings: professional race/rating sources list FL‑14 as solidly Democratic (Cook/other trackers/analyses show a substantial Democratic lean — e.g., reporting a D+ large margin / “Solid D” rating). That implies the underlying electorate favors Democrats by a significant margin in normal conditions. ([cookpolitical.com](https://www.cookpolitical.com/house/race/482581?utm_source=openai))
+- Incumbent activity / campaign: Castor has set up a 2026 principal campaign committee (FEC filing), and local reporting shows political activity/support consistent with an incumbent preparing to run. That reduces the chance the seat will be open or be an easier flip target. ([docquery.fec.gov](https://docquery.fec.gov/pdf/113/202501069740059113/202501069740059113.pdf?utm_source=openai))
+- Challenger presence: I did not find any high‑profile Republican challenger already widely reported as the clear nominee; FEC listings show some filings in the 2026 House cycle for various district 14 campaigns, but no major, well‑funded statewide-name Republican (as of the searches conducted). This suggests the GOP has not yet locked in a top-tier recruit. ([fec.gov](https://www.fec.gov/data/candidate/H6FL14161/?utm_source=openai))
+
+What this evidence suggests about the market price
+- Evidence supporting the market price as reasonable:
+  - The national political environment for 2026 is uncertain and could shift strongly toward Republicans (midterms historically favor the out‑of‑president party). Because the market must price in both the strong local Democratic baseline and the possibility of a large national swing, a nontrivial Republican probability is reasonable.
+  - Time to November 4, 2026 remains long enough for candidate entry, scandal, retirements, or a GOP wave, so markets often reflect contingency value (i.e., they price the chance of a large swing or an open seat).
+- Evidence suggesting the market price might be too high for a Republican win:
+  - The district’s recent result (Castor ~56.9% in 2024) and professional ratings (Cook/“Solid D”) indicate a substantial structural Democratic advantage that would typically make a flip unlikely absent a major wave or an unusually weak Democratic nominee. Those baseline factors make a near‑term “Republican = 42%” price look elevated relative to the district’s history and partisan lean. ([apnews.com](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b?utm_source=openai))
+  - Incumbency effect: Castor appears to be actively maintaining a 2026 committee and participating locally (lessens chance of an open-seat volatility). Open seats are easier to flip; incumbent runs reduce flip odds. ([docquery.fec.gov](https://docquery.fec.gov/pdf/113/202501069740059113/202501069740059113.pdf?utm_source=openai))
 
 Source credibility and recency
-- Associated Press (AP) reporting on the special session and earlier election results: high credibility, reporting in Jan–Feb 2026 and Nov 2024. ([apnews.com](https://apnews.com/article/b10b743019ba7f25a2f26d3ccdaf9a67?utm_source=openai))  
-- Federal Election Commission (official campaign-finance tables, Sept 2025 generation): authoritative on fundraising/cash-on-hand. Data for Castor vs. Rochford shown in 2025 FEC table. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2026/tables/congressional/ConCand7_2025_6m.pdf))  
-- 270toWin and Cook Political Report: widely used aggregators/analysts (Cook’s PVI/report is authoritative though some detailed content is subscriber-only); both show the district as Democratic-leaning as of 2024–2026 forecasting. These sources are credible for district baseline partisanship and ratings. ([cookpolitical.com](https://www.cookpolitical.com/cook-pvi/2025-partisan-voting-index/district-map-and-list))
+- AP (election calls) and major outlets (Washington Post / local Tampa outlets) are high‑credibility for election outcomes and candidate reporting; their 2024 and early‑2026 reporting is recent and directly relevant. FEC filings are primary source evidence for campaign activity. Cook/Inside Elections/race‑rating analyses are credible for structural lean/PVI even where paywalled; Elections Daily and similar writeups are useful secondary summaries. All sources used are from 2024–2026 timeframes (relevant and recent for a 2026 market).
 
-Skepticism about "obvious" evidence
-- If the district were hopelessly Democratic, the market should price Republican chance near zero; it does not. That suggests whoever set the 48% price may be (a) placing weight on a plausible mid-decade redistricting that could change the electorate, (b) placing weight on an assumed strong national GOP midterm wave in 2026, or (c) simply set an arbitrary initial price (especially likely since total traded volume is $0).
+Skeptical caveats (why the market might already contain this)
+- If traders expect a strong national GOP wave in 2026, or internal polling that we do not see publicly, pricing toward ~40% GOP could be a rational reflection of that risk.
+- Low volume + tight spread means a few traders could be setting the price; their private information (fundraising leaks, internal polls, or planned candidate announcements) could justify the price even if that information is not public.
 
-Market-efficiency analysis (given market metrics: age 43d, total vol $0, price 48.0%, spread 4.0¢)
-- Reasonable interpretations that justify 48%:
-  - The price is incorporating a non-trivial probability that the 2026 maps will be redrawn in a way that materially helps Republicans (special session + litigation makes this uncertain but plausible). Traders who think the special session will succeed and produce a more Republican FL-14 could reasonably assign a much higher Republican win probability than forecasters do under the status quo map. ([apnews.com](https://apnews.com/article/b10b743019ba7f25a2f26d3ccdaf9a67?utm_source=openai))
-  - The price could reflect an expectation of a large national GOP midterm swing that erodes incumbency advantage.
-- Could be consensus or one actor: with total volume $0 and a 4¢ spread, there’s no trading evidence of aggregated views — the price looks like a posted initial quote rather than the result of many trades. That raises the chance the displayed price reflects one or a few traders’ priors and not a crowdsourced estimate.
-- Why low volume could happen here:
-  - The outcome may be seen by most traders as obvious (Democratic hold under current map), so few trade.
-  - Or the market is overlooked by informed traders, and its quote was placed by someone speculating about redistricting or national environment.
+3) MARKET EFFICIENCY ANALYSIS — What the current price could mean
+- Charitable interpretations for Price = 42% Republican:
+  - Traders are pricing a non‑negligible GOP wave scenario plus the small chance of an open seat or a top GOP recruit entering later. The 42% can therefore be read as a blended view: low baseline GOP chance (say 15–25%) plus a modest probability of a large wave/unique event that pushes the race competitive.
+  - This price could reflect a few informed traders with a belief in near‑term GOP momentum or private polling showing a closer race than public data.
+- Alternative (inefficiency) interpretation:
+  - With only $2,339 total volume and 2¢ spread, the market likely has thin participation; price could be dominated by one or a handful of traders taking a position, which raises the risk it does not reflect broad information aggregation.
+- Why low volume might be natural here:
+  - The outcome looks uncontroversial to many (incumbent Democrat in a Democratic-leaning district), so most informed traders might avoid spending funds in a “longshot/low expected edge” market. That naturally yields low liquidity even when price is reasonable.
 
-Mispricing assessment (weighing both sides objectively)
-- Baseline under current lines (status quo): incumbent Democrat, recent margins ~+15 points, stronger fundraising and D-leaning PVI — Republican win probability under the current map is low (I would estimate well under 30% absent unusual shock). Evidence here (AP race call, FEC finance table, forecasts) strongly supports a low Republican baseline probability. ([apnews.com](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b?utm_source=openai))
-- Redistricting uncertainty: DeSantis’s January 2026 call for a special session and related litigation introduce a material probability that the 2026 map could be changed. If a new map shifts FL-14 significantly toward Republicans, the Republican win probability could rise substantially. But as of March 13, 2026 there is no definitive new map and litigation can block or alter any effort. The probability that redistricting happens and shifts FL-14 enough to make the race coin-flip is uncertain and likely substantially less than 50%. ([apnews.com](https://apnews.com/article/b10b743019ba7f25a2f26d3ccdaf9a67?utm_source=openai))
-- Considering both: the market price (48% Republican) appears to be materially higher than what the currently available, credible public evidence (incumbency, 2024 margin, fundraising advantage, forecasters’ consensus) implies under the current map. The only plausible publicly visible factor that would justify ~50% is a high subjective probability that redistricting will produce a substantially more Republican FL-14 — a contingency that is real but itself uncertain and contested in the courts.
+4) MISPRICING ASSESSMENT — weighing evidence and running the critical check
+- Candidate baseline: incumbent Kathy Castor (D) with ~56.9% in 2024 and district rated Solid D. That suggests a GOP win probability materially below 50% in normal conditions.
+- Countervailing factor: 2026 is a midterm with uncertain national environment (possible GOP wave), and the market has months for candidate lineup and environment to change; thus a non‑zero GOP probability is fully justified.
+- Do we have specific, credible evidence that the market is missing? Not strongly. The main public facts (recent results, PVI, incumbent running) argue that a GOP win is unlikely absent a wave or major change; those facts appear public and would likely already be priced by traders. I did not find evidence of a secret, high‑quality Republican recruit or major scandal making a flip likely but not yet visible.
+- Critical check (if we claim a >20¢ mispricing): I do not find iron‑clad evidence to justify concluding a very large mispricing (>20 points). Saying the true probability is e.g., 10% (a 32‑point gap to the market) would contradict both the possibility of a 2026 national swing and the apparent willingness of at least some traders to assign midline value to that chance. That large a gap would require either (a) hidden info (private polls) or (b) a misunderstanding of resolution conditions; I saw no sign of either in public records.
+- Reasoned conclusion: The public evidence indicates the Republican win probability is likely meaningfully below 50% and probably lower than the market’s 42% (i.e., the market looks slightly tilted toward overpricing the Republican chance). But because of the long timeline and plausible wave scenarios, this is not an obvious, large mispricing — it’s a modest potential overprice.
 
-CRITICAL CHECK (if concluding a >20¢ mispricing)
-- Do I fully understand the resolution criteria? Yes: the market resolves to the party of the winning candidate in the 2026 election as reported by credible outlets or the FEC. Redistricting changes who lives in the district but does not change the market’s resolution rules. No technicality hides a guaranteed Republican outcome. (Market description provided by you states this explicitly.)
-- What could I be missing? Possible missing info that would justify 48%: (a) non-public polling showing a huge Republican surge or that Castor intends not to run (I found filings that Castor filed FEC paperwork for 2026 as incumbent, so no sign she’s leaving), (b) an imminent and court-insulated map-change that is already effectively decided (no public evidence of that), or (c) organized outside spending commitments that will flood the race for Republicans (no credible public reporting of that magnitude for FL-14 as of today). I searched for such signals and did not find them. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2026/tables/congressional/ConCand7_2025_6m.pdf))
-- Charitable interpretation of 48%: the price could be a single trader’s hedge on the redistricting scenario plus a strong GOP midterm — a plausible viewpoint but not clearly the consensus of experienced forecasters or the fundraising/previous-vote evidence.
+5) EXPECTED VALUE CALCULATION (how big the mispricing might be)
+- My judgement (based on the data above):
+  - Strength of evidence that the market is overpricing Republicans: moderate (I estimate ~60%). Rationale: strong public evidence of D baseline + incumbent activity, but uncertainty about 2026 environment and possibility of private information reduce confidence.
+  - Estimated magnitude of mispricing if wrong: I estimate Republicans are probably over‑priced by about 10–15 cents (i.e., the “true” Republican chance might be ~27–32% vs market 42%). Reasoning: Castor’s ~57% 2024 result and D+ baseline suggest an under‑30% baseline GOP chance absent a large wave; allowing for wave risk moves that up, but not to 42% in my view.
+- Expected value = Strength × Magnitude ≈ 60% × 12 cents ≈ 7.2 cents.
 
-Expected-value calculation (quantitative judgment)
-- Strength of evidence that the Republican side is underpriced/overpriced (how likely the market is missing known public facts): I rate the strength as 60%. Rationale: high-quality public evidence (AP, FEC, consensus forecasters) points to a much lower Republican baseline; redistricting adds real but not dominant uncertainty, so there is moderate but not overwhelming confidence that the market is missing a key piece of information. ([apnews.com](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b?utm_source=openai))
-- Magnitude of mispricing (rough cents): Market price = 48% Republican. My best public-information-based estimate of Republican win probability (accounting for redistricting risk but without any non-public intel) is ~25–30%. That implies the market overstates Republican chance by roughly 18–23 percentage points (cents). I’ll use a midpoint magnitude of 20.8 cents (≈20.8 percentage points) for the calculation.
-- Expected value = Strength × Magnitude = 60% × 20.8¢ ≈ 12.5¢
+6) CONFIDENCE IN ASSESSMENT
+- My confidence in the overall assessment is: medium.
+  - Rationale: strong, recent public facts about incumbency and margins point one way, but the election is months away and national swings or private info could materially change probabilities.
 
-So my computed expected-value of investigating/taking the position that the market is mispriced is about 12.5 cents per share.
+Final concise assessment
+- Evidence points to a modest overpricing of the Republican chance in FL‑14: the district is a solid Democratic seat (Castor ~56.9% in 2024, Cook/ratings show a clear D lean), and Castor appears to be gearing for 2026. Given that, a 42% market probability for a Republican win looks elevated relative to public, structural indicators — but not decisively wrong because a 2026 GOP wave or a late open‑seat scenario could justify a meaningful Republican probability. I estimate a modest expected edge to the investigator of roughly 7.2 cents, with medium confidence.
 
-Final mispricing conclusion
-- There is credible, public evidence that the market price (48% Republican) is likely too high given the status-quo map, incumbency, recent vote margins, fundraising gap, and forecasters’ consensus. The main legitimate reason the market could justify a ~50% Republican probability is if one assigns a high chance that Florida’s special session will produce a new map that materially advantages Republicans for 2026 — a non-trivial contingency but currently contested and not certain.  
-- Given the zero trading volume (no demonstrated aggregation of opinion) and the absence of clear public evidence that redistricting is effectively guaranteed, I conclude there is credible evidence the market is likely overpriced for Republican chances by a non-trivial amount (~20¢), but with only moderate confidence because the redistricting story could change quickly and would materially alter the correct price.
-
-EXPECTED_VALUE: 12.5
-SUMMARY: Public evidence (Kathy Castor’s comfortable 2024 margin, superior fundraising, and consensus forecasters) implies Republican chances in FL-14 under the current map are well below the market’s 48% price; the primary justification for a near‑50% Republican price is a mid‑decade redistricting effort that could change the electorate, but that effort is itself legally contested and not settled. Overall, the market looks plausibly overpriced for a Republican win under currently public information, but redistricting uncertainty keeps my confidence at a medium level.
+EXPECTED_VALUE: 7.2
+SUMMARY: FL‑14 is a solidly Democratic district (Kathy Castor re‑elected ~56.9% in 2024) and Castor appears to be preparing for 2026; no major GOP recruit is publicly established. The market’s 42% Republican price looks modestly high relative to baseline partisanship, but the time until Nov 4, 2026 and the possibility of a GOP wave mean the mispricing is likely limited.
 CONFIDENCE: medium
 
 ---
@@ -79,32 +89,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Gov. Ron DeSantis calls for special session in April to redraw Florida's congressional districts](https://apnews.com/article/b10b743019ba7f25a2f26d3ccdaf9a67)
-**Author:** Mike Schneider and David Fischer (Associated Press) | **Published:** 2026-01-07
+### [AP Race Call: Democrat Kathy Castor wins reelection to U.S. House in Florida's 14th Congressional District](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b)
+**Author:** Unknown (AP) | **Published:** 2024-11-06
 
-AP reports that Gov. Ron DeSantis announced a planned April 2026 special session to redraw Florida’s congressional districts and framed the session as part of a mid-decade redistricting “arms race.” The piece explains the rationale DeSantis gave and notes that new lines could affect several districts. Relevance: this is the primary public signal that the 2026 map could change — a core reason to assign higher Republican upside to FL-14 than under the status‑quo map; the story increases uncertainty and is why some traders might price Republicans substantially higher than baseline forecasters.
+AP’s race call reports Kathy Castor (D) won reelection in FL‑14 in the 2024 general election. The article provides the official outcome used to establish the incumbent and the 2024 margin baseline. This supports the “Democratic incumbent and recent margin” evidence that weighs against a high baseline Republican probability for 2026; it challenges the view that FL‑14 is an easy flip absent a major change.
 
-### [Lawsuit challenges DeSantis' authority to call special session for redistricting](https://apnews.com/article/f0065b8a41d9457fa4750bcb33bfc10d)
-**Author:** Mike Schneider (Associated Press) | **Published:** 2026-02-05
+### [2024 Florida 14th Congressional District General Election Results](https://www.ballotwire.com/post/2024-florida-14th-congressional-district-general-election-results)
+**Author:** BallotWire Staff | **Published:** 2024-11-05
 
-AP reports a lawsuit (backed by the National Redistricting Foundation) asking the Florida Supreme Court to block DeSantis's proclamation that would call a special redistricting session, arguing the governor lacks authority. Relevance: this source documents that the redistricting path is contested in court; it establishes that map change is possible but not certain — key to assessing whether the market should already price in a large Republican probability.
+BallotWire reports the 2024 FL‑14 general election vote shares (Kathy Castor ~56.9%). This page provides a clear numerical reference for the recent Democratic margin in the district, which is a primary input for estimating structural win probabilities and assessing whether a 42% GOP market price is plausible.
 
-### [U.S. House District 14 results / AP race call (Kathy Castor wins reelection)](https://apnews.com/article/4878fd0c766e4ec4a5296b7716ab2d3b)
-**Author:** Associated Press | **Published:** 2024-11-06
+### [Florida FL‑14 House : 2026 (Cook Political Report race page)](https://www.cookpolitical.com/house/race/482581)
+**Author:** Cook Political Report (staff) | **Published:** Unknown (updated in 2024–2026 cycle; page used for district rating)
 
-AP declared Democrat Kathy Castor the winner of FL-14 in the 2024 general election. The report summarizes the district geography (Tampa Bay area) and notes that Castor is a long-serving incumbent. Relevance: confirms the incumbent, the district’s recent result, and provides a baseline that FL-14 was won comfortably by a Democrat in the prior election — central evidence that Republican win odds under the current map are low.
+Cook/its race page lists the partisan lean and professional race‑rating for FL‑14 (reported as a strong Democratic seat in public summaries). Cook’s rating provides the authoritative context on baseline district partisanship (used to judge how large a shock would be needed for a GOP flip). This supports the argument that a GOP flip is unlikely absent strong wave factors.
 
-### [2026 Florida House Election Map (FL-14 entry)](https://www.270towin.com/2026-house-election/states/florida)
-**Author:** 270toWin (site) | **Published:** 2026 (site updated continuously; page viewed Mar 2026)
+### [District Profiles: Florida's Congressional Districts (Elections Daily)](https://elections-daily.com/2023/04/13/district-profiles-floridas-congressional-districts/amp/)
+**Author:** Elections Daily staff | **Published:** 2023-04-13
 
-270toWin lists incumbents, recent margins, and an aggregated consensus/ratings for Florida’s House seats; its FL-14 entry shows a sizeable Democratic margin in the previous cycle and places the district on the Democratic side of ratings. Relevance: 270toWin’s aggregation supports the interpretation that FL-14 is currently a Democratic-leaning, non‑competitive seat absent map change; it also explicitly flags midcycle redistricting as a factor that could change competitiveness.
+This district profile aggregates past election results and computes district partisan metrics (e.g., the implied Democratic lean such as a D+ figure). It helps quantify the structural Democratic advantage for FL‑14 and supports the view that a Republican would face a substantial baseline deficit in a neutral environment.
 
-### [Congressional candidate finance table (FEC) — ConCand7_2025_6m.pdf](https://www.fec.gov/resources/campaign-finance-statistics/2026/tables/congressional/ConCand7_2025_6m.pdf)
-**Author:** Federal Election Commission (FEC) | **Published:** 2025-09-04 (table generation date)
+### [Kathy Castor designated principal campaign committee (FEC filing)](https://docquery.fec.gov/pdf/113/202501069740059113/202501069740059113.pdf)
+**Author:** Federal Election Commission (document) | **Published:** 2025-01-06
 
-Official FEC table (generated Sept 4, 2025) showing receipts and cash-on-hand for House campaigns; lines for Florida’s 14th show Kathy Castor with substantially more cash on hand (Castor: $398,114 COH in the table) than the prior Republican challenger (Rochford: $2,375 COH as of that snapshot). Relevance: authoritative evidence that Castor has a fundraising and cash advantage going into the 2026 cycle, reducing the baseline probability of a Republican upset under the existing map.
+This FEC document shows Kathy Castor designating a principal campaign committee for the 2026 cycle (a formal sign of campaign activity). It is primary evidence that the incumbent is preparing for 2026, reducing the likelihood of an open-seat scramble that might make the district far more likely to flip.
 
-### [2025 Cook PVI℠: District Map and List](https://www.cookpolitical.com/cook-pvi/2025-partisan-voting-index/district-map-and-list)
-**Author:** The Cook Political Report (David Wasserman et al.) | **Published:** 2025-04-03
+### [Aileen Rodriguez to kick off campaign with support from Kathy Castor](https://thetampabay100.com/politics/2026/01/22/aileen-rodriguez-to-kick-off-campaign-with-support-from-kathy-castor/33260/)
+**Author:** The Tampa Bay 100 (local news) | **Published:** 2026-01-22
 
-Cook Political Report’s district PVI product and writeup (members-only detail for district-level PVI). Cook’s PVI and race pages are standard references for a district’s partisan lean and are used by forecasters. Relevance: Cook’s PVI and reporting are the institutional baseline that FL-14 leans Democratic under current lines; forecasters using Cook data would generally assign a lower Republican chance than 48% absent a map change.
+Local reporting about community/political events showing incumbent engagement and local organizing. The item indicates local Democratic political activity and does not report a major GOP recruit challenging Castor; this local context supports the assessment that no major GOP challenger had overtaken the race publicly at the time of the searches.
+
+### [Fundraising in Florida's 14th Congressional District (Quiver Quantitative)](https://www.quiverquant.com/election-fundraising/house/FL/14)
+**Author:** Quiver Quantitative (data aggregator) | **Published:** Unknown / updated 2025–2026
+
+Aggregated fundraising tracking for FL‑14 candidates (shows incumbency fundraising patterns and allows comparison vs challengers). The data indicates the incumbent has the established fundraising footprint typical of sitting members and that no single Republican war‑chest was obvious in public federal filings at the time of searches; this bolsters the view that a major challenger had not yet emerged.

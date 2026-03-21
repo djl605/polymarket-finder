@@ -1,88 +1,99 @@
 # Research: Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?
 
 **Market ID:** 0xf561223517565f676701a566c17c4f460cfc5bf7d437dc4cc9ba194c4c099509
-**Researched At:** March 11, 2026 at 04:19:20 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?"
+**Researched At:** March 21, 2026 at 04:14:30 AM UTC
+**Search Query:** "Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.6¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-Current 15% odds mirror Mace’s ~17% polling support once you discount for her third-place standing and lack of establishment backing. No strong evidence of a >2¢ mispricing emerges.
+Nancy Mace is a credible candidate in a crowded 2026 South Carolina GOP primary with both a large small-dollar donor base and a recent House Ethics Committee review that cuts against her. Given the crowded field, runoff rules, mixed polling and her fundraising profile, a 22.5% market price is defensible; however the market’s zero trading volume makes the quoted price unreliable as an aggregated signal. Further value comes from watching endorsements, fundraising flows, and any developments in the
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether U.S. Rep. Nancy Mace will win the June 9, 2026 South Carolina Republican gubernatorial primary (including any runoff). A “YES” means she either finishes first outright (>50%) or comes top two and wins a subsequent runoff. A “NO” covers any other outcome (another candidate wins outright or in runoff) or failure of the primary.
+CONTENTS
 
-2. EVIDENCE EVALUATION  
-Bullish evidence for Mace  
-• Fundraising momentum: She raised $570K in Q1, largely grassroots (Carpentier 3/3). That shows organizational strength and potential to surge late.  
-• Occasional polls: Some independent surveys (not detailed) put her ahead, suggesting volatility.
+CONTEXT ANALYSIS:
+- Market question: Will Nancy Mace win the 2026 South Carolina Republican primary for governor (primary scheduled June 9, 2026; a runoff will be held if no candidate receives a majority)? For this market to resolve YES, Nancy Mace must be the overall winner of the Republican primary (either by winning an outright majority on June 9 or by advancing to and winning any subsequent runoff). For it to resolve NO, any other candidate must be the eventual Republican nominee (or the Republican primary does not occur and “Other” resolves). (SC election rules: South Carolina primaries require a majority to nominate; if no majority, the top two proceed to a runoff two weeks later). ([scvotes.gov](https://scvotes.gov/candidates/))
 
-Bearish evidence  
-• Latest poll (Folks 2/9): Mace at 17%, behind Wilson at 23% and presumably Evette. She has 41% favorability vs 48% unfavorable. Translating ~17% support into win probability in a fragmented field typically yields <17% chance, since she must overcome better-positioned rivals.  
-• Establishment snub: Gov. McMaster endorsed Evette (Reynolds 2/12), signaling institutional backing she lacks. Internal controversies and GOP leadership tensions (DNYUZ 2/12) may cap her ceiling.
+EVIDENCE EVALUATION (evidence that bears on Mace’s chance)
+- Who’s running / field shape: Mace is an active candidate in a crowded GOP primary that includes statewide figures—Lt. Gov. Pamela Evette, Attorney General Alan Wilson, Rep. Ralph Norman, and others. The race is an open-seat contest (term-limited Governor Henry McMaster). A crowded field makes an outright majority on June 9 unlikely and elevates the importance of finishing top-two and the dynamics of a runoff. ([apnews.com](https://apnews.com/article/0543ed431f732471195c98e0c1076bcc))
+- Fundraising / organization (supporting a non-negligible chance): Mace has a high-volume small-dollar donor base (reported ~42,000 individual contributions, many <$50) and has raised a competitive sum relative to the field (WRDW reporting shows Mace raised significant amounts and has ~$861k cash-on-hand as of the cited filing). That indicates name recognition and grassroots-breadth that could put her in contention for a top-two slot, especially if other statewide candidates split establishment votes. This evidence supports why a non-trivial market probability (~22.5%) could be reasonable. ([wrdw.com](https://www.wrdw.com/2026/01/12/candidates-sc-governor-raise-millions-dollars/))
+- Short-term negative developments (weakening her chances): A House Ethics Committee review was publicly reported (March 2, 2026) alleging improper reimbursement practices (alleged ~ $9.5k in excess payments); even if relatively small in dollar terms, an ethics inquiry can materially affect a statewide campaign’s viability, fundraising, endorsements, and media narrative. That recent negative news works against a high probability for Mace and increases downside risk. ([axios.com](https://www.axios.com/2026/03/02/nancy-mace-house-ethics-committee-investigation))
+- Voter/preference signals (uncertain / early): Early polling and news coverage characterize the primary as still undecided/competitive with several candidates competitive in various early polls and local coverage (some early polls show Evette with a lead in some samples). Given the early-stage polling noise and crowded field, the race is volatile and many voters may be undecided or influenced by endorsements (Trump’s endorsement is consequential but not guaranteed). Early polling and the presence of better-funded statewide officials suggest a plausible path where Mace does not make the top two. ([yahoo.com](https://www.yahoo.com/news/articles/early-poll-shows-south-carolina-151559255.html?utm_source=openai))
+- Source credibility & recency: AP, Washington Post, TIME, Axios, and local reporting (WRDW) are reputable mainstream outlets for campaign developments; Axios’ March 2, 2026 piece is recent and directly relevant (ethics review). SC Votes (state election commission) provides the official rules on primary/runoff—essential for understanding how the market resolves. These are trustworthy, recent sources for the load-bearing facts used here. ([apnews.com](https://apnews.com/article/0543ed431f732471195c98e0c1076bcc))
 
-Source credibility & recency  
-All articles are from reputable local/regional outlets between Feb–Mar 2026. Poll data and endorsements are fresh. Fundraising data is current.
+What evidence suggests the market price (22.5%) might be incorrect?
+- Against (evidence implying 22.5% may be too high): The ethics investigation is a tangible new risk that could depress Mace’s support and donor confidence; establishment candidates with statewide offices (Evette, Wilson) have stronger statewide infrastructure and larger war chests (reported leaders in cash-on-hand and long-term fundraising), which reduces the probability Mace finishes top-two or wins a runoff. Early polls and reporting naming Evette and Wilson as early frontrunners imply Mace is likely not the favorite. ([axios.com](https://www.axios.com/2026/03/02/nancy-mace-house-ethics-committee-investigation))
+- For (evidence implying 22.5% may be too low): Mace’s large small-dollar donor count and national profile mean she can mobilize turnout and online fundraising; she has name recognition beyond South Carolina’s coast (and a media profile that can translate into support). In a splintered field the vote can fracture widely and a disciplined small-dollar ground game plus a Trump endorsement (if obtained) could put her into the top two — giving a plausible path to exceed a 22.5% implied chance. ([wrdw.com](https://www.wrdw.com/2026/01/12/candidates-sc-governor-raise-millions-dollars/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 15% price is close to her 17% polling share but discounted for converting share to win‐probability in a multi-candidate race.  
-• Low volume suggests only a few traders; however, the price aligns with publicly known polls and endorsements, implying informed consensus rather than idiosyncratic bets.  
-• The gap between Mace’s poll share and win odds (≈2pp) is reasonable, given her third-place position and lack of establishment support.
+Skeptical note: if the market were heavily traded and still at 22.5% despite clear, recent polling or a large endorsement to someone else, that would be notable mispricing. Here we see no polling consensus and a mix of positive and negative signals—so a mid-range probability is not obviously wrong.
 
-4. MISPRICING ASSESSMENT  
-There’s no glaring evidence that the market is off by more than a few cents. Bullish fundraising signals could tip her odds toward 18–20%, but establishment dynamics and current polling counterbalance that. The market appears efficient within a ±3¢ band.
+MARKET EFFICIENCY ANALYSIS:
+- Interpretation(s) consistent with 22.5%: Given a crowded, early-stage primary and Mace’s strengths (name recognition, massive small-dollar donor base) plus her vulnerabilities (ethics review, intra-GOP controversies), a 20–25% chance is a defensible midline reflecting both upside (runoff path, Trump endorsement potential, base enthusiasm) and downside (statewide officeholders’ advantages, ethics inquiry). That is a plausible consensus-impression probability. ([wrdw.com](https://www.wrdw.com/2026/01/12/candidates-sc-governor-raise-millions-dollars/))
+- Liquidity signal: This market shows Age: 100d and Total Vol: $0 — zero trading volume. A $0 total volume and an apparently tight spread likely means the price was posted but not actively traded; the current quoted probability may reflect an initial maker/creator’s priors or a single trader’s view rather than aggregated active market betting. That undermines reliability: low-volume markets are especially susceptible to being anchored by a single opinion. (Market data provided by you; no external citation needed.)
+- Is low-volume because the outcome is obvious? No — the outcome is not obvious: the field is crowded and the race is early, so the low volume more likely reflects lack of attention by traders rather than consensus that the price is correct. That increases the chance the posted price could be arbitrary or stale.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (no major missing info): 30%  
-Magnitude of plausible mispricing: 2¢  
-Expected value = 30% × 2¢ = 0.6¢
+MISPRICING ASSESSMENT:
+- Do I have specific, credible evidence that the market is mispriced by a large amount (>20 points)? No. The publicly available evidence shows both non-trivial paths for Mace (grassroots fundraising, national profile, potential Trump influence) and clear headwinds (ethics inquiry, stronger statewide opponents). There is no smoking-gun signal (e.g., a major endorsement that would make her an overwhelming favorite, or conclusive polling showing she’s far behind) that is clearly missing from a 22.5% price.
+- Most charitable interpretation of price: It incorporates plausible upside (runoff and Trump leverage) while discounting ethics risk and statewide foes. Given that, 22.5% is within a defensible range for an early, crowded primary with a volatile electorate.
+- Conclusion on mispricing: Insufficient credible evidence to confidently claim a large mispricing. The stronger concern is market illiquidity: with $0 traded, the market price is not a reliable aggregated signal. That makes the market a weak vehicle for actionable arbitrage absent additional information (endorsement, poll shift, or major campaign event).
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: Current 15% odds mirror Mace’s ~17% polling support once you discount for her third-place standing and lack of establishment backing. No strong evidence of a >2¢ mispricing emerges.  
+EXPECTED VALUE CALCULATION (how valuable is investigating this market further?)
+- Strength of evidence that price is missing a material factor: 25% — there are notable, recent developments (ethics review) and credible counterfactuals (Trump endorsement dynamics, statewide officeholder advantages) but no decisive new information that is clearly being ignored by the market price. ([axios.com](https://www.axios.com/2026/03/02/nancy-mace-house-ethics-committee-investigation))
+- Plausible magnitude of mispricing if wrong: ~10 cents (i.e., price could be off by about 10 percentage points either direction if a major endorsement or major scandal arrives and the current stale/no-volume price hasn’t moved). This is a judgment: in early primaries, endorsements/polls can shift probabilities by several points; 10 points is a moderate case. (If an endorsement by Trump landed with full force favoring Mace, her probability could jump substantially; conversely, a damaging confirmation from the ethics review or falling fundraising could cut her chance materially.)
+- Expected value = Strength × Magnitude = 25% × 10¢ = 2.5¢ expected value.
+Note: Because the market has $0 activity and a tiny spread, the main barrier to capture any EV is informational timing and the chance that someone else will move first when material news arrives.
+
+CRITICAL CHECK (challenge the reasoning)
+- Do I fully understand resolution? Yes: the market resolves to the primary winner (including a runoff if necessary). That means Mace could win by finishing top-two and winning the two-week runoff even if she doesn’t get a majority June 9. SC’s majority/runoff rules are confirmed. ([scvotes.gov](https://scvotes.gov/candidates/))
+- Could I be missing private signals? Yes — party insiders’ private polling, internal donor churn, or promises of endorsements could materially change odds. Because the market has no volume, it may reflect absence of that private information rather than mispricing. That argues for caution in declaring mispricing.
+- Final charitable interpretation: 22.5% is a plausible early-stage probability for a competitive, crowded primary where Mace has both unusual strengths and new liabilities.
+
+EXPECTED_VALUE: 2.5
+
+SUMMARY: Nancy Mace is a credible candidate in a crowded 2026 South Carolina GOP primary with both a large small-dollar donor base and a recent House Ethics Committee review that cuts against her. Given the crowded field, runoff rules, mixed polling and her fundraising profile, a 22.5% market price is defensible; however the market’s zero trading volume makes the quoted price unreliable as an aggregated signal. Further value comes from watching endorsements, fundraising flows, and any developments in the ethics review. ([wrdw.com](https://www.wrdw.com/2026/01/12/candidates-sc-governor-raise-millions-dollars/))
+
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: See who leads campaign fundraising in race for SC governor
-Author: Bella Carpentier
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://www.goupstate.com/story/news/politics/2026/03/03/campaign-fundraising-sc-governor-race/88548108007
-Summary: Nancy Mace has raised over $570,000 in the latest quarter, primarily from small, individual donations across South Carolina and other states, indicating strong grassroots support. Her campaign emphasizes the momentum generated by these contributions, contrasting with opponents relying on larger donations from wealthy donors. While her fundraising success suggests significant support, it does not guarantee victory in the 2026 Republican primary for South Carolina governor.
+### [Rep. Nancy Mace kicks off South Carolina GOP gubernatorial bid. She says she's 'Trump in high heels'](https://apnews.com/article/nancy-mace-governor-south-carolina-donald-trump-0543ed431f732471195c98e0c1076bcc)
+**Author:** Meg Kinnard | **Published:** Unknown
 
-Title: New Poll Shows Alan Wilson Leading 'Fragmented' S.C. Governor's Race - FITSNews
-Author: Will Folks
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.fitsnews.com/2026/02/09/new-poll-shows-alan-wilson-leading-fragmented-s-c-governors-race/
-Summary: A recent campaign-based poll indicates that Nancy Mace currently holds 17% support among likely Republican primary voters in South Carolina, placing her behind Alan Wilson, who leads with 23%. Wilson is viewed favorably by 47% of voters, with a strong overall image and room for growth, whereas Mace has a 41% favorability rating but a high 48% unfavorable rating. Despite her high disapproval, some independent surveys have shown Mace leading in the race, and other polls suggest she is a significant contender. However, Wilson's current lead in the latest poll and his favorable image suggest he is in a strong position to win the Republican primary.
+AP reports Nancy Mace formally launched her 2026 gubernatorial campaign and places her in a crowded Republican primary that includes statewide figures (Lt. Gov. Pamela Evette, Attorney General Alan Wilson, Rep. Ralph Norman). The article highlights Mace’s pitch (policy priorities) and her intent to seek Trump’s support — both relevant to her chance of winning a statewide GOP primary. This supports the view that Mace is a viable contender with national-profile assets, which argues that a non-trivial market probability is reasonable. ([apnews.com](https://apnews.com/article/0543ed431f732471195c98e0c1076bcc))
 
-Title: Nancy Mace forced to respond after brutal GOP snub in governor’s race – DNYUZ
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://dnyuz.com/2026/02/12/nancy-mace-forced-to-respond-after-brutal-gop-snub-in-governors-race/
-Summary: Nancy Mace, a Republican U.S. Representative from South Carolina, is currently running for governor but faced a significant setback when outgoing Gov. Henry McMaster endorsed his lieutenant governor, Pamela Evette, instead of her. Mace publicly responded by emphasizing her record and commitment to results over endorsements, positioning herself as a strong, results-oriented candidate. Her campaign has been marked by internal conflicts, including previous accusations against Evette and allegations from former staff about her erratic behavior and personal issues. Despite her efforts to present herself as a resilient and dedicated leader, the lack of establishment support and internal controversies may impact her chances in the upcoming Republican primary.
+### [Rep. Nancy Mace, Trump critic turned ally, to run for South Carolina governor](https://www.washingtonpost.com/politics/2025/08/04/mace-governor-south-carolina-trump/)
+**Author:** Kadia Goba | **Published:** 2025-08-04
 
-Title: Nancy Mace forced to respond after brutal GOP snub in governor's race - Raw Story
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://rawstory.com/nancy-mace-2675261158
-Summary: Nancy Mace, a Republican U.S. Representative from South Carolina, is actively campaigning for the state's governor race in 2026. She publicly responded to her loss of an endorsement from outgoing Governor Henry McMaster, who endorsed his lieutenant governor, Pamela Evette. Mace emphasized her record of results and leadership over endorsements, asserting her commitment to her campaign promises and portraying herself as a resilient candidate. Her previous feud with Evette, including accusations of misleading endorsements, indicates ongoing intra-party tensions. The dynamics of endorsements, her strong stance on policy results, and her resilience in the race are key factors that could influence her chances in the upcoming Republican primary.
+Washington Post coverage describes Mace’s campaign launch, background, and the competitive field for a term-limited governor’s seat; it notes the importance of Trump’s endorsement in the state and lists the main Republican candidates. This source establishes the competitive field and shows why an endorsement or intra-party dynamics (Trump, McMaster, statewide officials) are key variables that could move market probabilities — supporting the conclusion that a mid-range probability like 22.5% is plausible absent decisive endorsements or polls. ([washingtonpost.com](https://www.washingtonpost.com/politics/2025/08/04/mace-governor-south-carolina-trump//))
 
-Title: McMaster endorses Evette in SC governor’s race, AP says
-Author: Nick Reynolds nreynolds@postandcourier.com
-Published Date: 2026-02-12T00:00:00.000Z
-URL: http://www.postandcourier.com/politics/mcmaster-endorses-evette-sc-governor-2026/article_50556c41-85c0-4dbb-b10a-130b4685910a.html
-Summary: The article reports that South Carolina Governor Henry McMaster has endorsed his Lieutenant Governor, Pamela Evette, in the upcoming Republican primary for governor. McMaster's endorsement signifies strong support within the state's Republican establishment, and Evette is described as a key partner in promoting the state's growth and conservative policies. The race is competitive, with other candidates like Attorney General Alan Wilson and Congresswoman Nancy Mace also vying for the nomination. Mace has publicly emphasized her leadership qualities and campaign plan, but the race remains closely contested, with many voters still undecided. Given the current political landscape, endorsements from prominent figures like McMaster and the support from law enforcement and established campaign networks could influence the primary outcome. However, predicting Mace's chances in the 2026 primary would require considering her current support base, campaign momentum, and the evolving political dynamics within South Carolina's Republican Party.
+### [Nancy Mace under House Ethics Committee investigation](https://www.axios.com/2026/03/02/nancy-mace-house-ethics-committee-investigation)
+**Author:** Andrew Solender | **Published:** 2026-03-02
 
+Axios reports the House Ethics Committee is reviewing an OCC report alleging Mace over-billed D.C. living expenses (alleged excess payments ~ $9,500). The article explains the committee’s review and potential political consequences. This is recent, concrete negative news that plausibly reduces Mace’s probability of statewide victory and is a material factor that traders should incorporate; it argues the market should discount her chances unless new favorable information offsets it. ([axios.com](https://www.axios.com/2026/03/02/nancy-mace-house-ethics-committee-investigation))
 
+### [Candidates for South Carolina governor raise millions of dollars](https://www.wrdw.com/2026/01/12/candidates-sc-governor-raise-millions-dollars/)
+**Author:** Nick Reagan | **Published:** 2026-01-12
+
+Local reporting on fourth-quarter 2025 campaign-finance filings: it documents that Mace had a large number of small-dollar contributions (~42,000, many <$50), and lists cash-on-hand and relative fundraising (Mace ~$861k COH; other statewide figures with larger war chests). This strongly supports that Mace has grassroots fundraising strength and national donor reach — a concrete reason she could plausibly make the top two in a fragmented field, which supports a non-zero market probability. ([wrdw.com](https://www.wrdw.com/2026/01/12/candidates-sc-governor-raise-millions-dollars/))
+
+### [Candidates - SC Votes (South Carolina Election Commission)](https://scvotes.gov/candidates/)
+**Author:** Unknown | **Published:** Unknown
+
+Official state guidance on candidate filing periods and primary rules: South Carolina primaries are held in June and require a majority to nominate; if no majority, a runoff between the top two is held two weeks later. This is the authoritative source for how this prediction market will resolve (including runoffs) and clarifies that a candidate can win the nomination either by a majority on June 9 or via a runoff — key to understanding Mace’s path to victory. ([scvotes.gov](https://scvotes.gov/candidates/))
+
+### [Who is Nancy Mace? What to Know About Her Political Career](https://time.com/7221379/nancy-mace-political-career-what-to-know/)
+**Author:** Nik Popli | **Published:** Unknown
+
+A background profile summarizing Mace’s political career, controversies (including her public House-floor allegations and how they have played in-state and nationally), and her ideological positioning. This provides context on Mace’s political brand (media-savvy, controversial, sometimes inconsistent positions), which helps explain both her ability to attract attention/donors and the political vulnerabilities that could limit her statewide appeal — information relevant to evaluating whether the market’s price should be higher or lower. ([time.com](https://time.com/7221379/nancy-mace-political-career-what-to-know/))

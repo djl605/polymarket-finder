@@ -1,83 +1,122 @@
 # Research: Will Mike Thompson advance from the CA-04 primary election?
 
 **Market ID:** 0x1972da460e8d3b6654e96ab3374003367af411c97244e25f981d1f67547c56e7
-**Researched At:** March 11, 2026 at 04:18:04 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Mike Thompson advance from the CA-04 primary election?"
+**Researched At:** March 21, 2026 at 04:22:48 AM UTC
+**Search Query:** "Will Mike Thompson advance from the CA-04 primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.6¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Incumbent Thompson’s long record and district lean justify a high probability, while challengers’ fundraising strength only marginally raises the risk of an upset. No credible evidence of large mispricing is found.
+Incumbent Mike Thompson has filed and remains the clear favorite to finish top-two in CA-04, but challenger Eric Jones has raised large sums and is a credible intraparty threat. Public evidence suggests at most a modest mispricing (≈10¢ possible error), yielding an expected value of about 4.0¢ given current information.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether incumbent Rep. Mike Thompson will finish in the top two vote-getters in California’s June 2, 2026, open primary for CA-04. A “YES” means he places first or second among all candidates; “NO” means he finishes third or worse, or if two others tie for the top two slots.  
+Plan and queries I used
+- I needed authoritative facts about who’s on the ballot, incumbency/filing status, fundraising and cash-on-hand, district lean/past margins, and credible local reporting about the primary challenge. I had a 3-search budget and used it to retrieve: (1) incumbent / campaign filings and statements, (2) official/aggregated fundraising numbers and candidate lists, and (3) local/national reporting about the strength of the primary challenge (fundraising, campaign activity). I cite those sources inline below.
 
-2. EVIDENCE EVALUATION  
-Bearish signals (suggesting 83.5% may be too high):  
-• Two progressive challengers, Eric Jones and Trevor Merrell, may split the anti-incumbent vote but combined represent energized grassroots donors.  
-• Jones outraised Thompson in 2025 ($2.6 M vs. Thompson’s traditionally PAC-heavy haul), indicating momentum and an outside-funded operation that could sway primary voters.  
+1) CONTEXT ANALYSIS — what the market asks and resolution rule
+- The market asks: “Will Mike Thompson advance from the CA-04 primary election?” Resolution: the market will resolve YES if Mike Thompson is one of the top-two vote-getters in the June 2, 2026 California primary (top-two regardless of party); NO if he is not a top-two finisher. The market uses official sources including the California Secretary of State for resolution. (Market description supplied by you; candidate filing deadlines and primary date are June 2, 2026 per the market.)
 
-Bullish signals (supporting the current price):  
-• Thompson’s lengthy incumbency since 1999, 66.5% vote share in 2024, and deep name recognition in a D-leaning district strongly favor his advancement.  
-• His established local and PAC networks remain intact; challengers must both consolidate progressive voters and overcome his entrenched standing—a high hurdle.  
+2) EVIDENCE EVALUATION — what I found and how it bears on the question
 
-All sources (NewsBreak, Press Democrat, Sonoma News, Record-Bee) are recent (Feb 2026) and reputable local outlets. None point to polling data showing Thompson trailing; without polling swings or new scandal, the incumbency edge is persistent.  
+Key factual findings (most load-bearing facts cited)
+- Mike Thompson is the incumbent U.S. Representative for California’s 4th District and has publicly filed/run for reelection in 2026. ([mikethompson.house.gov](https://mikethompson.house.gov/?utm_source=openai))
+- The 2026 candidate field in CA-04 includes challengers Eric Jones (Democrat) and Trevor Merrell (Democrat), plus at least one independent; local party/candidate lists and county candidate lists show Thompson, Jones, Merrell on the ballot. ([cadem.org](https://cadem.org/endorsements/2026-list-of-candidates-who-have-filed/?utm_source=openai))
+- Campaign finance / FEC aggregates indicate Eric Jones raised roughly $2.5–2.6M in 2025 and ended the year with roughly $1.8M cash on hand; Mike Thompson raised roughly $2.0M in the same reporting period and has similar cash on hand (numbers reported by FEC aggregators and news summaries). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California?utm_source=openai))
+- Reporting frames Jones as an unusually well-funded intraparty challenger; local coverage calls this a “rare” or “sophisticated” primary challenge to a longtime incumbent. ([rollcall.com](https://rollcall.com/2026/02/02/house-fundraising-fourth-quarter-midterm-elections/?utm_source=openai))
+- The district is generally Democratic-leaning and Thompson has large prior margins in general elections (historically large wins). This favors an incumbent’s baseline likelihood of advancing, but that fact alone doesn’t guarantee a top-two primary finish in a multi-Democrat field. ([cookpolitical.com](https://www.cookpolitical.com/house/race/481836?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-The zero volume but tight spread suggests minimal trading but consensus that outcome is straightforward. That low volume likely stems from the race’s perceived predictability rather than active mispricing. If one or two traders set 83.5%, they appear to reflect what local insiders already expect.  
+Evidence that supports the market price (i.e., supports the ~85% probability)
+- Incumbency and name recognition: Thompson is an established incumbent with long service, constituent networks, and past large general-election margins; incumbents usually perform well in primaries. ([mikethompson.house.gov](https://mikethompson.house.gov/?utm_source=openai))
+- Campaign infrastructure and endorsements: Thompson’s campaign and outside networks (local electeds, PACs, and industry donors) remain active and he has substantial cash on hand comparable to the challenger. These reduce the probability of an upset. ([mikethompsonforcongress.com](https://www.mikethompsonforcongress.com/news/rep-mike-thompson-files-reelection-represent-newly-drawn-fourth-congressional-district?utm_source=openai))
+- District lean: CA-04’s partisan composition (post-redistricting) and historical results make it plausible two Democrats could advance, but also make it unlikely for a weak Republican to beat an established Democrat — which increases the chance Thompson is among the top two. ([cookpolitical.com](https://www.cookpolitical.com/house/race/481836?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-The evidence of a well-funded challenger indicates some incremental risk to Thompson’s primary performance, but incumbents of his tenure rarely lose. Any systematic underpricing of that risk is likely small (a few percentage points). There is no high-quality polling or emergent issue unpriced here. A large (>20¢) mispricing lacks support.  
+Evidence that suggests the market price might be too high (i.e., arguments against 85%)
+- Fundraising parity / challenger strength: Eric Jones has raised and reported large sums (≈$2.5–2.6M) and had significant cash-on-hand entering 2026, and some reports say he outraised Thompson in parts of 2025 — that makes Jones a credible competitor for a top-two slot rather than a marginal challenger. If Jones consolidates an insurgent/progressive lane, Thompson could be at risk of finishing third in a Democratic-saturated field. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California?utm_source=openai))
+- Multi-candidate vote splits: Because the primary is top-two regardless of party, multiple Democratic candidates (Thompson, Jones, Merrell, maybe others) could split the Democratic vote while a small Republican vote consolidates around one GOP candidate; in an extreme split scenario Thompson could finish third. (This is a structural risk that markets need to price.) ([cadem.org](https://cadem.org/endorsements/2026-list-of-candidates-who-have-filed/?utm_source=openai))
+- Local reporting emphasizes that this is an unusually serious primary challenge; that increases downside probability compared with a routine incumbent primary. ([theava.com](https://theava.com/archives/280923?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20% (low-medium; fundraising edge but no polling).  
-Estimated magnitude of mispricing: 3¢ (Thompson might be ~80% likely rather than 83.5%).  
-Expected value = 20% × 3¢ ≈ 0.6¢.  
+Credibility and recency of sources
+- Official/primary documents and candidate lists (California Democratic Party candidate lists; county candidate lists) are current and directly relevant (high credibility for who’s on the ballot). ([cadem.org](https://cadem.org/endorsements/2026-list-of-candidates-who-have-filed/?utm_source=openai))
+- FEC aggregates and sites that compile FEC data (Green Papers, Quiver, ProPublica/FEC itemizers cited in aggregated pages) provide the most important quantitative evidence about fundraising and cash-on-hand (high credibility for finance numbers). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California?utm_source=openai))
+- Local press (Press Democrat, Sacramento Bee, regional outlets) and national reporting (Roll Call) are credible for qualitative context about the challenger’s seriousness; they are recent (late 2025–early 2026) and directly relevant. ([rollcall.com](https://rollcall.com/2026/02/02/house-fundraising-fourth-quarter-midterm-elections/?utm_source=openai))
 
-EXPECTED_VALUE: 0.6  
-SUMMARY: Incumbent Thompson’s long record and district lean justify a high probability, while challengers’ fundraising strength only marginally raises the risk of an upset. No credible evidence of large mispricing is found.  
+Skepticism about obvious-seeming evidence
+- The fact that Jones outraised Thompson in parts of 2025 is notable, but fundraising does not automatically translate to votes; incumbents convert name recognition and organizational advantages into votes even when outraised in short windows. Market participants likely already know the fundraising story; if the market still prices Thompson at 85% it may be because traders have weighed fundraising vs. incumbency and structural factors. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California?utm_source=openai))
+
+3) MARKET EFFICIENCY ANALYSIS — is the 85% price plausible?
+- Charitable interpretation that justifies 85%: combine (a) incumbency and strong name recognition, (b) sizable cash-on-hand/operational campaign, (c) district demographics that favor Democrats (reducing risk that a Republican will take one of the top-two slots), and (d) absence of public polling showing Jones leading. That collection of factors makes an 85% chance reasonable for an incumbent in a top-two primary. ([mikethompson.house.gov](https://mikethompson.house.gov/?utm_source=openai))
+- Alternative interpretation (why price could be too high): Jones’s fundraising parity and energetic campaign increase the probability of an upset — especially in a short campaign window where turnout and messaging could shift outcomes. If Jones continues to outraise and organizes strongly in turnout-heavy areas, Thompson’s chance could be materially lower than 85%. ([rollcall.com](https://rollcall.com/2026/02/02/house-fundraising-fourth-quarter-midterm-elections/?utm_source=openai))
+- Low volume / tight spread implications: Total volume ~$1,657 with 2¢ spread indicates few active traders are setting the price; that increases the chance the posted price reflects consensus among a small set of participants (or a single dominant trader) rather than a broad market. But the tight spread also suggests traders are comfortable with the price (or indifferent) — it’s not a thin illiquid market with a huge spread that would indicate almost no information. Given the low volume, large informational advantages (private polling, internal campaign data) could move the price when (if) they surface.
+
+4) MISPRICING ASSESSMENT — weigh both sides and check for mistakes
+- Do the facts imply a large mispricing (>20 cents)? No. The facts point toward a likely Thompson advancement but with a credible challenger. There is no specific, high-confidence evidence that the market is missing an outcome-significant fact (e.g., a resignation, a widely reported polling lead for Jones, or disqualifying event for Thompson). The most important potentially-missing information would be internal district polling or organizing dynamics that are not public; those could change probabilities but are by definition private and therefore not proof of mispricing.
+- Could I be missing resolution details/technicalities? The market resolves to “Other” only if no nominees are announced by Nov 3, 2026; that technicality doesn’t appear relevant here. The resolution is explicitly top-two by vote totals; I used that exact framing in evaluating risk of vote-splitting. (No sign of a hidden technicality that would make a high-confidence claim of mispricing plausible.)
+- Most charitable explanation for 85%: traders aggregated incumbency, district lean, and campaign resource parity and judged that Thompson’s organizational advantages plus historical vote share make him the strong favorite; the challenger’s fundraising reduces but does not negate that edge.
+
+5) EXPECTED VALUE CALCULATION (estimate of the value of acting on the hypothesis “market is mispriced”)
+- My judgment about strength of evidence that the market is missing something material: moderate — many public indicators (fundraising parity) increase uncertainty but do not prove the market is wrong. I estimate strength = 40% that new public information or a continuing trend will reveal a genuine mispricing.
+- Magnitude of mispricing (if mispriced): given the facts, a plausible mispricing (if present) is small-to-moderate — I estimate a realistic error in probability is about 10 cents (i.e., true probability maybe ~75% rather than 85%), not a huge swing. Larger errors (>20¢) would require polling or clear momentum for the challenger that I did not find. (This is a conservative assessment given the absence of public polls.) 
+- Expected value = Strength × Magnitude = 40% × 10¢ = 4.0¢
+
+6) CONFIDENCE in this assessment
+- I assign confidence = medium. There are credible, recent data points (fundraising, filings, local reporting) but no public polls and the market is for a short-resolve (June 2) event with active campaign dynamics; absence of internal polling or turnout signals leaves material uncertainty.
+
+Bottom-line recommendation and short practical takeaway
+- The posted price (85%) is plausible and not obviously wildly mispriced given incumbency, district lean, and campaign resources; however, the challenger Eric Jones is unusually well-funded and makes a non-trivial case for lowering Thompson’s chances below 85% in a realistic upset scenario. Given the market’s low volume, any trader considering a bet should treat this as a modest edge opportunity at best (expected mispricing value ≈ 4.0¢) and keep watching for polling or additional fundraising/endorsement news that would materially change the picture.
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Incumbent Mike Thompson has filed and remains the clear favorite to finish top-two in CA-04, but challenger Eric Jones has raised large sums and is a credible intraparty threat. Public evidence suggests at most a modest mispricing (≈10¢ possible error), yielding an expected value of about 4.0¢ given current information.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Who is running for California's 4th Congressional District? - NewsBreak
-Author: Stephen Hobbs
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://www.newsbreak.com/the-sacramento-bee-1592486/4491532116404-who-is-running-for-california-s-4th-congressional-district
-Summary: The article details the candidates running for California's 4th Congressional District, including incumbent Democrat Mike Thompson, who has served since 1999 and is seeking re-election. Thompson has a strong track record, having earned 66.5% of votes in the 2024 election, and emphasizes priorities like economic growth, job creation, and protecting Social Security and Medicare. He faces competition from fellow Democrats Eric Jones and Trevor Merrell, as well as Republican and independent challengers. Given Thompson's longstanding incumbency, substantial support, and the district's voting history, he is likely to advance from the primary election, though the presence of multiple challengers indicates a competitive race.
+### [Representative Mike Thompson](https://mikethompson.house.gov/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Corporate PACs vs Silicon Valley: Primary race for North Bay seat in Congress shows wildly different fundraising paths for rivals Thompson and Jones
-Author: Phil Barber  |  phil.barber@pressdemocrat.com  | The Press Democrat
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.pressdemocrat.com/2026/02/12/corporate-pacs-vs-silicon-valley-sharply-different-fundraising-paths-for-democratic-rivals-mike-thompson-eric-jones-in-4th-district-race-for-congress
-Summary: The primary race for California’s 4th Congressional District features incumbent Rep. Mike Thompson and challenger Eric Jones. Thompson, a seasoned politician with a strong fundraising advantage from traditional sources like PACs, industry groups, and local businesses, faces a significant challenge as Jones, a political newcomer, is outraising him with approximately $2.6 million in contributions largely from individual donors in finance sectors such as venture capital and tech. Despite Thompson’s established electoral record and solid support, his campaign is under financial pressure, with Jones’s more sophisticated and outside-funded campaign gaining momentum. The district’s demographic and political landscape, combined with the fundraising dynamics, suggest a competitive primary that could potentially threaten Thompson’s usual electoral dominance.
+Official House site for Rep. Mike Thompson. Confirms Thompson is the sitting U.S. Representative for California’s 4th Congressional District and includes recent statements and press items; relevant because incumbency, public-facing activity and official communications support the baseline expectation that Thompson is an active candidate seeking reelection. This source supports the assessment that Thompson is the incumbent and publicly active in the 2026 cycle, which favors an elevated probability of advancing from the primary.
 
-Title: Sonoma Valley Democrats hear from 4th Congressional District incumbent Thompson and his primary challengers
-Author: Ruchi Shahagadkar  |  rshahagadkar@sonomanews.com  | rshahagadkar@sonomanews.com
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://www.sonomanews.com/2026/02/10/democratic-candidates-for-district-4-speak-at-public-forum-ahead-of-primaries-in-june/
-Summary: The Sonoma Valley Democrats’ forum highlighted the upcoming primary race for California's 4th Congressional District, featuring incumbent Rep. Mike Thompson and his challengers, Eric Jones and Trevor Merrell. Thompson, a Democrat from St. Helena, has held the seat for multiple terms and is expected to leverage his experience and established support. His challengers, Jones and Merrell, are progressive newcomers with platforms focused on anti-corporate politics, healthcare reform, and addressing immigration issues. Given Thompson’s incumbency and political experience, he is favored to advance from the primary, but the challengers’ progressive platforms could influence voter dynamics.
+### [Rep. Mike Thompson Files for Reelection to Represent Newly Drawn Fourth Congressional District](https://www.mikethompsonforcongress.com/news/rep-mike-thompson-files-reelection-represent-newly-drawn-fourth-congressional-district)
+**Author:** Unknown (Mike Thompson campaign) | **Published:** Unknown
 
-Title: Corporate PACs vs. Silicon Valley: Sharply different fundraising paths for Democratic rivals Mike Thompson, Eric Jones in 4th District race for Congress – Lake County Record-Bee
-Author: Santa Rosa Press Democrat
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://www.record-bee.com/2026/02/12/corporate-pacs-vs-silicon-valley-sharply-different-fundraising-paths-for-democratic-rivals-mike-thompson-eric-jones-in-4th-district-race-for-congress/
-Summary: Mike Thompson, a veteran Democratic incumbent in California’s 4th Congressional District, faces a significant primary challenge from Eric Jones, a progressive newcomer. Despite Thompson’s longstanding political career and traditional fundraising approach, he was outraised in 2025 by Jones, who relies entirely on individual donations from venture capitalists, tech, private equity, and hedge fund professionals, avoiding PACs and corporate contributions. This fundraising dynamic indicates a competitive primary, with Jones’s sophisticated campaign and outside funding posing a substantial challenge to Thompson’s usual electoral dominance. Given Thompson’s strong electoral history but recent fundraising setbacks, his ability to advance from the primary may depend on voter response to the outsider-funded challenge and campaign dynamics.
+Campaign press release stating Thompson filed for reelection in the (newly numbered/drawn) 4th District. This confirms formal filing and that Thompson’s campaign infrastructure is operational; it supports the “incumbent advantage” side of the analysis and indicates campaign activity/endorsements that make a large upset less likely absent other evidence.
 
-Title: Rep. Mike Thompson picked as Democrats' designated survivor for ...
-URL: https://wach.com/news/nation-world/rep-mike-thompson-picked-as-democrats-designated-survivor-for-trumps-state-of-the-union-address-washington-dc-capitol-building
-Summary: The article reports that Rep. Mike Thompson (D-CA) has been selected as the Democratic designated survivor for President Trump’s State of the Union address, meaning he will watch the speech from a secure, undisclosed location while another representative attends in his place. Thompson is a prominent member of the House Democrats and has publicly criticized Trump’s leadership, citing issues like increased costs for families and threats to democracy. There is no information in the article regarding Thompson’s performance or prospects in the upcoming CA-04 primary election, so it does not provide relevant details to predict whether he will advance in that race.
+### [2026 List of Candidates Who Have Filed](https://cadem.org/endorsements/2026-list-of-candidates-who-have-filed/)
+**Author:** Unknown (California Democratic Party) | **Published:** Unknown
 
+California Democratic Party’s published list of candidates who have filed for its 2026 endorsement process; lists Mike Thompson, Eric Jones, and Trevor Merrell (among others) for the congressional districts including CD-4. This is a timely primary-candidate roster useful for confirming the active intraparty field and the structural risk of intra-D vote-splitting in a top-two primary.
 
+### [2026 United States House of Representatives elections in California (Wikipedia — fundraising & candidate list for CA-04)](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California)
+**Author:** Unknown | **Published:** Unknown
+
+Aggregated page that lists declared candidates for CA-04 and a summary table of campaign-finance totals (compiled from FEC filings). The page reports Eric Jones’s and Mike Thompson’s reported money raised and cash-on-hand figures as of Dec. 31, 2025 (Jones ≈ $2.59M raised, Thompson ≈ $2.04M raised; cash-on-hand figures similar). I used this for quick verification of relative fundraising strength; these figures are pulled from FEC filings and are directly relevant to assessing challenger viability.
+
+### [Fundraising in California's 4th Congressional District | Quiver Quantitative](https://www.quiverquant.com/election-fundraising/house/CA/4)
+**Author:** Unknown | **Published:** Unknown
+
+Aggregates FEC finance data and donor tracking for CA-04, with quarter-level totals and cash-on-hand. Confirms detailed fundraising and cash-on-hand numbers for Eric Jones and Mike Thompson and provides donor composition that helps evaluate whether fundraising is grassroots vs. PAC-driven. This supports the assessment that Jones is unusually well-funded for a primary challenger, increasing the probability of a competitive outcome.
+
+### [House money race dotted by challengers who outraised incumbents – Roll Call](https://rollcall.com/2026/02/02/house-fundraising-fourth-quarter-midterm-elections/)
+**Author:** Unknown | **Published:** 2026-02-02
+
+National reporting on fundraising across House races noting races where challengers have outraised incumbents; mentions the situation in CA-04 where Eric Jones posted strong fundraising totals relative to Mike Thompson in parts of 2025. Used as independent journalistic confirmation that Jones’s fundraising is unusually strong for a challenger and is being treated as noteworthy by political press; this supports the “credible threat” argument.
+
+### [Veteran Congressman Faces Rare Primary Challenge in California's 4th District](https://nationaltoday.com/us/ca/santa-rosa/news/2026/02/12/veteran-congressman-faces-rare-primary-challenge-in-californias-4th-district)
+**Author:** Unknown | **Published:** 2026-02-12
+
+Regional recap of the primary dynamics in CA-04 profiling Thompson, Eric Jones, and Trevor Merrell; highlights Jones’s fundraising advantage in 2025 and frames the race as a serious intraparty contest. This local reporting provides qualitative context for the challenger’s profile and campaign activity, which informs the upside risk to Thompson’s probability of advancing.
+
+### [California’s 4th congressional district](https://en.wikipedia.org/wiki/California%27s_4th_congressional_district)
+**Author:** Unknown | **Published:** Unknown
+
+District-level background describing geography, partisan lean, and recent election history. Used to justify the structural point that the district is Democratic-leaning and that incumbents in this area have tended to win by large margins — a reasoned input supporting why Thompson’s primary-advance probability should be high absent clear evidence of an upset.

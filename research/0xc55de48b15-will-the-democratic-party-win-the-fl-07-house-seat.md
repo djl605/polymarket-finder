@@ -1,7 +1,7 @@
 # Research: Will the Democratic Party win the FL-07 House seat?
 
 **Market ID:** 0xc55de48b150591d3047f4f097ee8c3196d8f5c5099559d8c34d35dc36694bbb9
-**Researched At:** March 15, 2026 at 04:38:25 AM UTC
+**Researched At:** March 21, 2026 at 04:19:21 AM UTC
 **Search Query:** "Will the Democratic Party win the FL-07 House seat?"
 
 ---
@@ -9,64 +9,71 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-FL‑07 is structurally Republican (R+≈5) with a GOP incumbent who won comfortably in 2024, but an active ethics matter, investigative reporting, and a well‑funded Democratic recruit make the seat more competitive than an ordinary R+5 district. Given the current evidence and low trading volume, a small potential mispricing exists (EV ≈ 2 cents) but no clear, specific information was found that would prove a large (>20¢) mispricing.
+The seat is held by Republican Cory Mills, who won by ~13 points in 2024 and represents a modestly Republican-leaning district; Democrats are targeting the seat, but I found no authoritative signal (retirement, major scandal, or confirmed large outside spending) that would justify concluding a large mispricing. Given the thin market (zero volume) there's some chance of inefficiency, but current public evidence supports the market's low (~20%) Democratic probability.
 
 ### Full Analysis
 
-I searched recent news, filings, and race ratings to evaluate whether the FL‑07 (Florida) House market (Democrat wins = 20%) shows credible evidence of mispricing. Short answer up front: given the district’s Republican lean (R+~5), a 2024 Republican incumbent re-elected by a double‑digit margin, but with a credible Democratic recruit and ongoing ethics/personal scandals for the incumbent, the market price (20%) looks broadly plausible. I estimate a small expected edge to investigating this market (EXPECTED_VALUE low single‑digit cents). Below I show the evidence, reasoning, and numeric EV calculation.
+I ran targeted research on Florida’s 7th Congressional District (FL‑07) and the 2026 landscape, focused on authoritative primary sources (FEC, AP, Cook, Washington Post) plus campaign/party statements. Below are my findings and an objective evaluation of whether the market (Democrats win FL‑07 = 20%) shows credible evidence of mispricing.
 
-1) CONTEXT ANALYSIS — what the market is asking
-- The contract resolves YES if the Democratic Party’s candidate is the party of the winner of the regular 2026 general election for U.S. House, FL‑07 (election date Nov 4, 2026). To resolve YES, a Democratic‑labeled candidate must be identified as the winner in credible reporting or official FEC results per the market rules; to resolve NO, a Republican (or other non‑Democrat who caucuses with Republicans) must be declared the winner. ([apnews.com](https://apnews.com/article/dabd13737d4445968692ee166b53cd30))
+1) CONTEXT ANALYSIS
+- What the market asks: Will the Democratic Party win the FL‑07 U.S. House seat in the November 4, 2026 general election (resolution per consensus credible reporting; fallback to official FEC results). The market resolves YES if a candidate identified as Democratic (ballot-listed party or caucus intent per the market’s resolution rules) is reported as the winner by credible sources or by the FEC in case of ambiguity.
+- What must happen for YES vs NO: A Democratic‑identified candidate must (a) be declared the winner in credible press consensus (or by the FEC if ambiguous) of the certified November 4, 2026 election; otherwise the market resolves NO (Republican or non‑Democrat/caucus outcome).
 
-2) EVIDENCE EVALUATION — all relevant evidence I found
+2) EVIDENCE EVALUATION (all-source evidence, with credibility and recency)
+Key factual baseline (load‑bearing facts)
+- Incumbent and 2024 result: Republican Rep. Cory Mills is the incumbent and won reelection in 2024 with ~56.5% to 43.5% (≈13‑point margin). This is confirmed by AP race call and Washington Post certified totals; FEC has the official 2024 House results for FL‑07. ([apnews.com](https://apnews.com/article/dabd13737d4445968692ee166b53cd30))
+- Partisan lean / district fundamentals: Cook lists FL‑07 as a modest Republican lean (Cook data and race summary show recent Cook PVI and a Republican rating based on the post‑redistricting configuration and 2024 results). That source shows recent metrics consistent with a Republican advantage in the district. ([cookpolitical.com](https://www.cookpolitical.com/house/race/307821))
+- Democratic targeting: The DCCC publicly listed Cory Mills (FL‑07) among Florida Republicans they plan to target for 2026, indicating Democrats perceive a viable path with resources and recruitment. This is an explicit DCCC statement (April 8, 2025). ([dccc.org](https://dccc.org/dccc-targets-floridas-most-vulnerable-republicans-for-2026/))
+- Candidate signals: The 2024 Democratic nominee Jennifer Adams maintains a campaign presence (campaign site) and was the 2024 challenger; the incumbent Mills maintains an active congressional site and press releases through 2026. Candidate filing resources (Florida Division of Elections / FEC candidate pages) show the 2026 filing infrastructure is in place and filings are being tracked for 2026. ([jenniferadamsforcongress.com](https://www.jenniferadamsforcongress.com/))
 
-A. Baseline: recent election results and district lean
-- Cory Mills (R) is the incumbent and won re‑election in 2024; official/press results show a comfortable margin (Mills ≈ 56.5%, Democrat ≈ 43.5% in 2024). That establishes a recent baseline Republican advantage (incumbency + recent vote). ([apnews.com](https://apnews.com/article/dabd13737d4445968692ee166b53cd30))
-- Independent partisan‑lean measures and handicappers list FL‑07 as leaning Republican (about R+5) and most major ratings services categorize it as Likely R / not a toss‑up at this stage. That makes a Democratic flip an uphill task under normal conditions. ([volunteerblue.org](https://volunteerblue.org/red-district-project/?utm_source=openai))
+Evidence suggesting the market price (20%) might be too low (i.e., Democratic chance understated)
+- DCCC targeting and resource commitment: When a national committee adds a seat to its “in play” list it usually means recruitment, early funding and coordinated messaging — factors that can materially improve a challenger’s odds relative to a baseline expectation. The DCCC’s explicit inclusion of FL‑07 implies Democrats see a path to narrow Mills’s 13‑point 2024 margin, especially if national conditions favor Democrats in 2026. ([dccc.org](https://dccc.org/dccc-targets-floridas-most-vulnerable-republicans-for-2026/))
+- Repeat nominee / organized Democratic presence: Jennifer Adams (2024 nominee) appears to remain an active candidate/organizer in the district; repeat challengers can improve name recognition and organization versus a first‑time nominee. Campaign presence is visible. ([jenniferadamsforcongress.com](https://www.jenniferadamsforcongress.com/))
 
-B. Evidence that would make a Democratic win likelier (arguments for mispricing)
-- Incumbent vulnerabilities: Office of Congressional Ethics (OCE) forwarded a matter about Rep. Mills to the House Committee on Ethics, and the Committee had not completed its review at the end of the 118th Congress; local reporting and investigative stories have amplified questions about Mills’ conduct and past claims about his military record. An incumbent under an open ethics matter and sustained negative press is meaningfully more vulnerable than a clean incumbent. ([congress.gov](https://www.congress.gov/committee-report/118th-congress/house-report/973?utm_source=openai))
-- Democratic recruitment and early fundraising: Democrats have recruited a strong challenger (Bale Dalton — former Navy aviator / high‑profile staffer) who has posted meaningful early fundraising and cash‑on‑hand numbers; multiple Democratic candidates have filed with the FEC, and some have nontrivial war chests for a House contest. A credible, funded challenger materially increases the probability of a competitive race. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/House.phtml?p=DEM&v=c&utm_source=openai))
-- Recent handicapper movement: Some Democratic groups/handicappers have publicly pointed to the incumbent’s vulnerabilities and cited rating changes or movement toward a more competitive line for FL‑07; the DCCC and allied activists are signaling this seat is a target. If national conditions in 2026 are Democratic‑friendly (a swing), these factors could combine to produce a flip. ([dccc.org](https://dccc.org/%F0%9F%9A%A8ratings-change%F0%9F%9A%A8-democrats-gaining-steam-as-cook-political-shifts-fl-07-predictions/?utm_source=openai))
+Evidence suggesting the market price is reasonable or too high (i.e., Democratic chance overstated)
+- Solid baseline Republican advantage and 2024 margin: Mills’s certified 13‑point win in 2024 and Cook’s recent assessment (Republican lean / R+5 range by some Cook data) indicate a non‑trivial Republican structural advantage; flipping a seat with this baseline typically requires a favorable national environment, a weak incumbent, or unusually strong challenger performance. ([washingtonpost.com](https://www.washingtonpost.com/elections/results/2024/11/05/florida-house-district-7/))
+- Incumbent activity and strengths: Mills is the seated incumbent, publicly active with district press releases in 2026 (shows ongoing constituency work and campaign posture). Incumbency advantage and prior margin make a flip an uphill task absent stronger signals (retirement, scandal, strong wave). ([mills.house.gov](https://mills.house.gov/))
+- No publicly available, definitive destabilizing factor (as of Mar 21, 2026): I did not find an authoritative, current development (certified indictment, announced retirement, or confirmed decision by the incumbent not to run) that would dramatically change the baseline outlook for Mills’s reelection. The sources reviewed show Mills active and Democrats targeting but do not show definitive events that would move win probability by multiple dozen percentage points. ([mills.house.gov](https://mills.house.gov/))
 
-C. Evidence that supports the current (low) Democratic price
-- Structural baseline: district partisanship (R+5), recent GOP statewide strength in Florida, and Mills’ incumbency/fundraising mean the seat is still more likely to remain Republican absent a large wave or decisive local collapse. Most independent handicappers still rate the seat as Republican‑leaning (Likely R or similar), which is consistent with a relatively low Democratic probability. ([volunteerblue.org](https://volunteerblue.org/red-district-project/?utm_source=openai))
-- The scandals are active but (so far) unresolved; investigations and allegations often do not translate into electoral defeat unless they culminate in indictments, sustained negative coverage that changes turnout/independent voter preferences, or significant loss of party support. The mere existence of allegations reduces incumbent probability but does not automatically create parity. ([congress.gov](https://www.congress.gov/committee-report/118th-congress/house-report/973?utm_source=openai))
+Source credibility and recency
+- FEC (official election results): highest credibility for certified results (no explicit publish date on the page view, but it's the authoritative data source). ([fec.gov](https://www.fec.gov/data/elections/house/FL/07/2024/))
+- AP and Washington Post (race call and certified totals): high credibility and timely reporting for 2024 results. AP race call dated Nov 2024; WaPo shows certified totals updated Nov 19, 2024. ([apnews.com](https://apnews.com/article/dabd13737d4445968692ee166b53cd30))
+- Cook Political Report: high credibility for district PVI and seat ratings, though some Cook metrics on the 2024 page are older (the site documents last‑updated timestamps), so interpret PVI/rating with awareness of update dates. ([cookpolitical.com](https://www.cookpolitical.com/house/race/307821))
+- DCCC (party committee): credible for signaling investment/priorities; it signals Democratic intent but not outcome. ([dccc.org](https://dccc.org/dccc-targets-floridas-most-vulnerable-republicans-for-2026/))
+- Candidate/house websites and state filing lists: primary sources for candidate activity/filings; credible for demonstrating who is organizing or has a campaign presence. ([mills.house.gov](https://mills.house.gov/))
 
-D. Source credibility and recency
-- High‑quality press (Associated Press) documents the 2024 result — high credibility for the baseline result. ([apnews.com](https://apnews.com/article/dabd13737d4445968692ee166b53cd30))
-- Local investigative reporting (Daytona Beach News‑Journal and other local outlets) has raised substantive questions about the incumbent’s biography/claims; local reporting is credible for documenting allegations and records requests, but those pieces are investigative and sometimes disputed by the subject — they increase uncertainty but are not final proof. ([yahoo.com](https://www.yahoo.com/news/congressman-cory-mills-facing-accusations-090232749.html?utm_source=openai))
-- Official/authoritative documents (Congress.gov summary of ethics activity / OCE transmittal record) confirm OCE involvement — very credible and directly relevant to incumbent risk. ([congress.gov](https://www.congress.gov/committee-report/118th-congress/house-report/973?utm_source=openai))
-- Party and independent handicappers (Cook Political Report, volunteer advocacy trackers) are credible for assessing partisan lean and the professional view of competitiveness; they currently place FL‑07 as Republican‑leaning (i.e., not an even coin flip). ([cookpolitical.com](https://www.cookpolitical.com/ratings/house-race-ratings?check_logged_in=1&utm_source=openai))
-- The Green Papers (FEC summaries) / candidate FEC filings are credible for showing who has filed and early-dollar figures; they indicate Democrats have at least one well‑funded challenger. ([thegreenpapers.com](https://www.thegreenpapers.com/G26/House.phtml?p=DEM&v=c&utm_source=openai))
+Synthesis (bull/bear)
+- Bullish (Democrat can win): DCCC targeting + repeat Democratic nominee/organizing + midterm national environment could narrow a 13‑point gap; investment and a favorable national swing (or an especially motivated Democratic electorate in Central Florida suburbs) could plausibly bring the probability closer to or above 20%.
+- Bearish (Republican likely to hold): 13‑point 2024 margin, Cook’s recent Republican lean metrics, and incumbency/ongoing activity for Mills point toward a clear Republican advantage; absent a clear local collapse or a big national wave, a Democratic flip is an uphill shot. The current market price of 20% is consistent with a non‑zero but modest chance.
 
-E. Balanced read
-- Bullish (Democratic flip) case: incumbent scandals + ethics referral + a credible, funded challenger + potential favorable national environment could combine to make a flip plausible; those are nontrivial inputs that markets should price. ([congress.gov](https://www.congress.gov/committee-report/118th-congress/house-report/973?utm_source=openai))
-- Bearish (Republican hold) case: district PVI and recent 2024 margin favor Republicans, incumbency/fundraising provide structural advantages, and ratings services still lean the seat Republican — these data points justify a still‑low Democratic probability. ([rightdatausa.com](https://www.rightdatausa.com/demographics?d=07&s=FL&utm_source=openai))
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current 20% price:
+  - The market price reflects the default structural baseline (incumbent R+5 / 13‑pt prior margin) but allows a meaningful slot for Democratic targeting and national swing risk — i.e., a modest chance (≈1 in 5) of a flip in a midterm with varied national outcomes.
+  - With zero dollars traded and a 2¢ spread, the displayed price likely comes from a lone market creator or early liquidity provider choosing a conservative number rather than active aggregation of many independent bettors. That makes the quoted price less reliable as an information aggregate.
+- Could it be a consensus among informed traders? Given volume $0, very unlikely — the quote probably reflects an initial posted probability rather than a market consensus. Low volume could reflect the seat being relatively low interest for traders or that information is already priced by a small set of participants.
+- Why low volume might not mean mispricing: If the outcome is widely seen as unlikely for Democrats (due to margin and PVI), informed traders may simply not think there’s an edge; alternatively, the seat may require local, granular information (candidate recruitment, spending plans) that few traders track, so the market can remain thin.
 
-3) MARKET EFFICIENCY ANALYSIS — reliability of the current 20% price
-- Charitable interpretation that justifies 20%: market participants may be treating FL‑07 as a likely Republican hold with a modest risk premium for the incumbent’s scandals and a funded Democratic recruit. A 20% price reflects “low‑single‑digit chance of a Democratic pick‑up in ordinary conditions, higher if 2026 brings a wave or the scandals escalate.” That is consistent with handicappers calling it Likely R but noting increased vulnerability. ([cookpolitical.com](https://www.cookpolitical.com/ratings/house-race-ratings?check_logged_in=1&utm_source=openai))
-- Could price reflect one or a few traders? Yes — the market has extremely low reported trading volume ($0 total) and a tight spread; low volume + tight spread is a red flag that the visible price could reflect only a few orders or even a posted price unchanged from initial listing. That reduces confidence that the price aggregates broad information. (User-supplied market metrics show Age 45d | Total Vol: $0 | Price 20% | Spread 2¢.) — this is exactly the “low volume” concern you gave. (Market metrics are from the prompt; they imply low liquidity.) 
-- Is low volume because outcome is obvious or overlooked? Evidence suggests it’s partly because the seat is normally a Republican‑leaning district (not an obvious Democratic pickup), while the recent scandal news has made it interesting; yet the lack of volume suggests many informed traders either accept the handicappers’ Likely R view or haven’t engaged (or the market is simply too small to attract scalpel‑sharp speculators). Given both sides, low liquidity raises the chance of idiosyncratic mispricing but is not proof of it.
+4) MISPRICING ASSESSMENT (challenge the reasoning)
+- Do we understand resolution criteria? Yes: winner reported by credible press consensus or FEC official results will resolve the market (market description provided by you covers this).
+- Are we missing information that could justify a larger flip probability? Potentially: large-scale outside spending commitments, a credible top‑tier Democratic recruit announcing after my searches, a sudden credible scandal/withdrawal by the incumbent, or a confirmed decision by the incumbent to run for another office (which would make the seat open) could materially change odds. I found no authoritative source (as of Mar 21, 2026) showing those events.
+- Most charitable interpretation of the 20% price: it is a conservative estimate that blends the incumbent’s on‑paper advantage with Democrat targeting and the typical unpredictability of midterms; it is plausible and defensible given public facts today.
+- Conclusion on mispricing: I do NOT find persuasive, specific, and credible evidence that the market is missing a large, obvious factor that would justify concluding a sizable mispricing (>20¢). The market is thin (zero volume), so it could be inefficient; but the fundamentals (certified 2024 margin, Cook metrics, incumbency) justify a low but non‑negligible Democratic probability. Therefore, absent new, concrete signals (open seat, major scandal, or large outside spending/endorsement shifts), there is insufficient evidence to assert a large mispricing.
 
-4) MISPRICING ASSESSMENT — is there credible missing information?
-- Do I have specific evidence that the market is missing? Not convincingly. The main alternative hypothesis (that Democrats will flip) depends on two things happening that are not yet certain: (1) a material escalation of incumbent scandals resulting in legal/party consequences or sustained negative coverage that changes voter behavior, or (2) a national Democratic wave in 2026 that swings many R+5 districts. Both are plausible but not established facts. The market’s 20% roughly prices a low‑probability but plausible combination of (1) or (2).
-- Challenge check: large mispricings (>20 cents) would require either (a) the race is already effectively decided for Democrats (not supported by results/ratings), or (b) the market missed a sure‑to‑happen event. I found no authoritative evidence that the resolution condition is already met or that Mills will be forced out before Nov 2026. The ethics/OCE referral is material but unresolved — precisely the kind of risk the 20% price can cover. ([congress.gov](https://www.congress.gov/committee-report/118th-congress/house-report/973?utm_source=openai))
-- Conclusion on mispricing: no clear, specific, credible information is missing from the market price that would justify concluding a large mispricing. The market appears defensible given current facts; low liquidity means the risk that the posted price does not reflect a well‑diversified information aggregation is real, but that is different from proven mispricing.
+5) EXPECTED VALUE CALCULATION (value of investigating / trading an edge)
+- Strength of evidence (that the market is mispriced): I assess roughly 30% — there is some reason to suspect inefficiency because the market is thin and Democrats are targeting the seat, but there is not strong, direct evidence that flips the baseline picture. (30% strength)
+- Magnitude of plausible mispricing: I estimate at most ~5 cents (0.05 probability) of practical mispricing relative to a well‑informed aggregate — i.e., the market could plausibly be off by a few cents either way but not by many tens of cents without a new development. (5¢ magnitude)
+- Expected value = 30% × 5¢ = 1.5¢
 
-5) EXPECTED VALUE CALCULATION (quantitative)
-- Strength of evidence that price is wrong (how much I believe there is a genuine mispricing): I assess this as moderate–low because the key facts (district lean, 2024 margin, ratings, and a still‑unresolved ethics matter) point toward a Republican advantage but with some extra vulnerability that could increase the Democratic chance. I put Strength = 40%.
-- Magnitude of mispricing (if present): I estimate any real mispricing is likely small — the market could be off by perhaps 3–7 cents (i.e., true Democratic probability might plausibly be 15–27% instead of 20%). I’ll use a midpoint magnitude = 5 cents.
-- Expected value = Strength × Magnitude = 0.40 × 5 cents = 2.0 cents.
+6) CONFIDENCE
+- I rate my confidence in this assessment as medium. I used authoritative sources for the baseline facts, but outcomes hinge on future developments (candidate recruitment, national environment, spending) that can materially change probabilities between now and November 4, 2026.
 
-EXPECTED_VALUE: 2.0
-
-SUMMARY: FL‑07 is structurally Republican (R+≈5) with a GOP incumbent who won comfortably in 2024, but an active ethics matter, investigative reporting, and a well‑funded Democratic recruit make the seat more competitive than an ordinary R+5 district. Given the current evidence and low trading volume, a small potential mispricing exists (EV ≈ 2 cents) but no clear, specific information was found that would prove a large (>20¢) mispricing.
-
+FINAL NUMBERS (required)
+EXPECTED_VALUE: 1.5
+SUMMARY: The seat is held by Republican Cory Mills, who won by ~13 points in 2024 and represents a modestly Republican-leaning district; Democrats are targeting the seat, but I found no authoritative signal (retirement, major scandal, or confirmed large outside spending) that would justify concluding a large mispricing. Given the thin market (zero volume) there's some chance of inefficiency, but current public evidence supports the market's low (~20%) Democratic probability. 
 CONFIDENCE: medium
 
 ---
@@ -75,37 +82,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
+### [Florida - House District 07 | 2024 | Federal Election Commission](https://www.fec.gov/data/elections/house/FL/07/2024/)
+**Author:** Unknown | **Published:** Unknown
+
+Official FEC page for the 2024 House election in Florida’s 7th district. This is the authoritative source for certified results and candidate filings for the 2024 cycle. I used this source to verify the official election listing and to confirm that the 2024 race and its results are recorded with the federal authority; it supports the baseline that the district returned a Republican representative in 2024 and is the official fallback resolution source per the market description.
+
 ### [AP Race Call: Republican Cory Mills wins reelection to U.S. House in Florida’s 7th Congressional District](https://apnews.com/article/race-call-mills-wins-florida-u-s-house-district-dabd13737d4445968692ee166b53cd30)
 **Author:** The Associated Press | **Published:** 2024-11-06
 
-AP’s race call and reporting records that Cory Mills (R) won FL‑07 in the 2024 general election. This is a load‑bearing fact establishing the incumbent and the most recent election baseline (vote shares and winner). That baseline directly informs how large a swing would be required for a Democratic flip and supports the market’s low Democratic probability unless additional events unfold.
+AP’s race call and reporting that Cory Mills won the FL‑07 2024 general election. AP’s coverage supplies near‑real‑time reporting and is used here to corroborate the certified vote totals and the fact that Mills is the incumbent. This supports the view that Republicans held the seat by a comfortable margin in the most recent general election, which weighs against a high Democratic probability absent intervening changes.
 
-### [With Congressman Cory Mills facing accusations of stolen valor, Army confirms medals](https://www.yahoo.com/news/congressman-cory-mills-facing-accusations-090232749.html)
-**Author:** Mark Harper (Daytona Beach News-Journal) / republished on Yahoo | **Published:** 2024-08-07
+### [Florida FL‑07 House 2024 | Cook Political Report](https://www.cookpolitical.com/house/race/307821)
+**Author:** Cook Political Report (staff) | **Published:** 2023-02-02 (race page last‑updated timestamp visible on page)
 
-Local investigative reporting documents disputed claims about Mills’ military record, cites Army review/confirmation memoranda and veterans who question his Bronze Star narrative, and describes documents and FOIA activity. This reporting is directly relevant because reputational and integrity issues can materially change incumbent vulnerability — it increases the probability that the seat becomes competitive and explains why handicappers and activists have targeted FL‑07.
+Cook’s district profile and race rating for FL‑07 showing recent PVI/rating context (Cook’s materials note the district’s partisan lean and past election performance, including a cited last general election percentage in the district). Cook is a widely used, expert reference for district lean and is relevant for judging the structural baseline (Republican advantage) and for interpreting how much of a swing would be required for a Democratic flip.
 
-### [H. Rept. 118-973 - SUMMARY OF ACTIVITIES ONE HUNDRED EIGHTEENTH CONGRESS (includes note on OCE transmittal re: Representative Cory Mills)](https://www.congress.gov/committee-report/118th-congress/house-report/973)
-**Author:** Unknown (Congressional committee print) | **Published:** Unknown
+### [Florida 7th District election results 2024 (live updates) | The Washington Post](https://www.washingtonpost.com/elections/results/2024/11/05/florida-house-district-7/)
+**Author:** The Washington Post | **Published:** 2024-11-19
 
-This committee report documents that the Office of Congressional Ethics forwarded a report and findings regarding Representative Cory Mills (transmitted Aug 29, 2024) and that the Committee had not completed its review by the end of the 118th Congress. This is authoritative documentation of an ethics referral — a material, verifiable source that increases incumbent risk and is therefore highly relevant to assessing the race’s competitiveness.
+WaPo’s certified totals page for FL‑07 showing vote counts and final percentages (Cory Mills 56.5%, Jennifer Adams 43.5% per the certified update). This corroborates the margin of victory used as a baseline for probability assessment and demonstrates the magnitude of the incumbent’s 2024 advantage.
 
-### [REDistrict Project – Volunteer Blue (FL‑07 listed as R+5 / Likely R)](https://volunteerblue.org/red-district-project/)
-**Author:** Unknown | **Published:** Unknown
+### [DCCC Targets Florida’s Most Vulnerable Republicans for 2026](https://dccc.org/dccc-targets-floridas-most-vulnerable-republicans-for-2026/)
+**Author:** DCCC (Democratic Congressional Campaign Committee) | **Published:** 2025-04-08
 
-Volunteer Blue’s targeted list shows FL‑07 with a ~R+5 partisan lean and a “Likely R” classification; it aggregates handicappers’ and organizers’ views about which GOP seats are vulnerable and identifies FL‑07 as a target. This supports the interpretation that handicappers see the seat as Republican‑leaning but vulnerable — consistent with an unexciting but non‑zero Democratic chance around the low tens of percent.
+Official DCCC announcement naming Cory Mills (FL‑07) among targeted Republican incumbents for 2026. This is a direct signal that Democrats plan to invest resources and recruit candidates in FL‑07; such targeting increases the practical chance of a competitive race and is a primary reason the Democratic flip probability should be non‑zero. However, the statement signals intent, not outcome.
 
-### [119th Congress (House seats, Green Papers) — FL‑07 candidate & FEC data (Bale Dalton, Jennifer Adams, Noah Widmann, Cory Mills)](https://m.thegreenpapers.com/G25/House.phtml?v=a)
-**Author:** Unknown (The Green Papers) | **Published:** Unknown (data includes FEC reports through 2025)
+### [Representative Mills (official site)](https://mills.house.gov/)
+**Author:** Office of Rep. Cory Mills | **Published:** 2026-02-09 (example press release date visible)
 
-The Green Papers lists candidates who have filed FEC committees for FL‑07 and reports early fundraising numbers and committee totals (e.g., Bale Dalton committee totals and cash on hand). The FEC‑summary data show Democrats have at least one well‑funded recruit, which raises the seat’s competitiveness. Fundraising and FEC filings are objective facts used to evaluate candidate quality and race viability.
+Official congressional website showing Mills’ press releases and district activity (example press releases in early 2026). This confirms the incumbent’s active status, constituency work and public-facing presence as of early 2026 — relevant because incumbency and continuing district engagement lower the chance of an unexpected GOP loss absent other shocks.
 
-### [2024 FL‑07 election results / district history (RightDataUSA demographics & election table)](https://www.rightdatausa.com/demographics?d=07&s=FL)
-**Author:** Unknown | **Published:** Unknown
+### [Jennifer Adams for Congress (campaign site)](https://www.jenniferadamsforcongress.com/)
+**Author:** Jennifer Adams campaign | **Published:** Unknown
 
-This compilation lists the 2024 vote totals and percentages for FL‑07 (Cory Mills ~56.5%, Democrat ~43.5) and prior results. It confirms the 2024 margin and the district’s partisan shift after redistricting, which are central to estimating how big a swing Democrats would need to flip the seat. This supports the conclusion that FL‑07 is not an easy pickup for Democrats without additional events or a wave.
-
-### [2026 CPR House Race ratings (Cook Political Report — FL‑07 listed among Likely R)](https://www.cookpolitical.com/ratings/house-race-ratings?check_logged_in=1)
-**Author:** Unknown (Cook Political Report) | **Published:** Unknown
-
-The Cook Political Report’s house ratings page (current cycle) lists FL‑07 among seats rated “Likely R” (Republican) in its published ratings. Cook is a leading, professional handicapping service; its rating is a critical load‑bearing datapoint supporting a below‑50% baseline for Democrats and helps justify a single‑digit to low‑teens Democratic chance rather than near‑even odds.
+The candidate’s campaign site showing Jennifer Adams (the 2024 Democratic nominee) maintaining a campaign presence and messaging. This supports the inference that a repeat Democratic challenger or organized Democratic campaign could be active in 2026; repeat nominees can help with name recognition and local organizing but do not guarantee a flip.

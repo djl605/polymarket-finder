@@ -1,7 +1,7 @@
 # Research: Ink FDV above $2B one day after launch?
 
 **Market ID:** 0xaa45535cb562715b92811f9563704ae852954a708511caf9435fd77acf141b57
-**Researched At:** March 15, 2026 at 04:35:04 AM UTC
+**Researched At:** March 21, 2026 at 04:14:50 AM UTC
 **Search Query:** "Ink FDV above $2B one day after launch?"
 
 ---
@@ -9,69 +9,80 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.5¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Ink has publicly announced a 1B capped INK token and Kraken/Ink intend to distribute via an Aave-linked airdrop, but mint date/contract and listing/vesting details remain unpublished. Given that FDV > $2B requires INK > $2 (1B supply), the market's 15.5% probability is a reasonable, cautious price given Kraken distribution upside plus strong historical airdrop sell-pressure risk.
+Public sources show INK will have a fixed supply of 1,000,000,000 and distribution via Kraken Drops / an Aave-powered airdrop; however, I found no published mint/contract address or evidence of a guaranteed exchange/market-making listing. Given the likely airdrop sell pressure and uncertainty about circulating supply at listing, the market’s 15% probability is reasonable and I find no clear, credible missing information that implies a large mispricing.
 
 ### Full Analysis
 
-Context analysis
-- Market question: "Ink FDV above $2B one day after launch?" That resolves YES if, at 4:00 PM ET on the calendar day after Ink's token launch (the token must be publicly transferable/tradable), the token's Fully Diluted Valuation (total supply × price as given by the most liquid price source) is > $2,000,000,000. If Ink does not launch a token by 2026-12-31 23:59 ET, the market resolves NO.
-- Operational implication: Ink has publicly stated a hard cap of 1,000,000,000 INK tokens; therefore the price that produces FDV > $2B is > $2.00 per INK (1,000,000,000 × $2 = $2B). Any analysis must focus on the plausibility that INK will trade above $2 on day+1 (not just circulating market cap or initial float).
+Planned research approach and constraints
+- Questions I needed answered: (a) Exactly what will resolve the market (supply and the FDV math), (b) whether Ink’s token has been minted/launched and what the publicly announced supply & distribution plan are, (c) whether there is credible evidence that the token would trade above $2 per token one day after launch (since announced supply = 1,000,000,000 → FDV > $2B ⇔ price > $2), and (d) signals that would materially change that likelihood (Kraken listing, large locked liquidity, distribution schedule/vesting, audit & contract address published).  
+- Web search budget: 3 queries used to fetch (1) official Kraken/in-konchain primary material, (2) official Ink docs (contract pages), and (3) press coverage summarizing supply / distribution plans and product integrations. I excluded prediction-market pages per instruction.
 
-Evidence evaluation (all relevant evidence, balanced)
+1) CONTEXT ANALYSIS
+- Market question restated: “Ink FDV above $2B one day after launch?” The market resolves YES if Fully Diluted Valuation (FDV) at 4:00 PM ET on the calendar day after token launch is > $2 billion. The market description clarifies the token must be publicly transferable/tradable to be considered launched; launch must occur by Dec 31, 2026 23:59 ET or the market resolves NO.
+- What must happen to resolve YES vs NO:
+  - YES: A token launch occurs, and the market’s chosen price source for the token implies a token price > $2 per token one day after launch (because published supply = 1,000,000,000 INK → 1,000,000,000 × $P > $2,000,000,000 ⇒ P > $2.00).
+  - NO: Either the token does not launch by Dec 31, 2026 (automatic NO) or it launches and the market price on the resolution source implies token price ≤ $2 one day after launch.
 
-What the project and reputable sources say (load-bearing facts)
-- The Ink Foundation / Ink team publicly announced plans for an INK token, capped at 1 billion tokens, to be distributed initially via an Aave-powered liquidity protocol / airdrop; the mint date and contract address were not published at announcement time (details to follow audits). This is reported by major crypto outlets citing the Foundation’s announcement. ([cryptobriefing.com](https://cryptobriefing.com/kraken-ink-token-launch/))
-- Kraken (which launched Ink L2) has said it plans integration for INK into Kraken products and that INK distribution will be part of Kraken Drops / Kraken user programs — implying easy access to a large user base if/when a token is issued. ([blog.kraken.com](https://blog.kraken.com/news/integrating-ink-token?utm_source=openai))
-- Ink is an Optimism Superchain L2 with measurable onchain activity and non-trivial DeFi footprint: DefiLlama lists Ink's chain-level TVL and fee/volume metrics, which indicate the chain hosts meaningful liquidity and activity (TVL in the hundreds of millions as of the DefiLlama snapshot). That underlying activity is a necessary, but not sufficient, condition for strong token demand. ([defillama.com](https://defillama.com/chain/Ink))
-- Protocol-level integrations (Aave deployment discussion / governance threads and third-party analyses) confirm the team intends to anchor token utility to DeFi primitives rather than governance of the rollup itself. That matters because token utility (and therefore demand) depends on those DeFi hooks. ([governance.aave.com](https://governance.aave.com/t/arfc-deploy-aave-v3-on-ink/21128?utm_source=openai))
+2) EVIDENCE EVALUATION (all relevant findings)
+Key load-bearing facts I found
+- Announced supply and distribution plan: Multiple press reports and Ink’s public messaging state INK will be capped at 1 billion tokens and initial distribution will include a targeted airdrop (Aave-powered liquidity pool + Kraken Drops/eligible users). This is the crucial supply input (1B) that defines the $2 threshold. (sources: CryptoBriefing, CryptoSlate, Coinomist; Kraken blog).
+- Official Ink developer/docs site shows mainnet & many system contract addresses, but I did NOT find a published INK token contract address or a clear “mint date / contract address” published on docs pages I inspected — press repeatedly said the mint/contract address and mint date would be published after audits. That implies that as of the dates in those sources the token contract/official listing was not yet public. (source: Ink docs page).
+- Kraken involvement and product integration: Kraken published a post describing plans to integrate INK and to run airdrops via Kraken Drops; press coverage says Ink is backed/incubated by Kraken, and Kraken integration is highlighted as a potential adoption vector. (source: Kraken blog).
+- First use-case design: Ink Foundation repeatedly described INK as a “utility” token, first use case around an Aave-powered liquidity pool; the Foundation stressed the token isn’t for chain governance. That shapes incentives and likely distribution/locking (some tokens might be allocated to liquidity programs). (source: press coverage & announcements).
 
-Evidence that argues the market price (15.5%) might be too low
-- Kraken-backed projects have distribution advantages: a token integrated into Kraken products and airdropped to Kraken users can produce significant early demand and rapid CEX listings—mechanically increasing probability of a high short-term price if claimants sell into exchanges or if the token is immediately paired with stable liquidity. Kraken has explicitly stated intent to integrate INK into Kraken offerings. That structural distribution advantage makes a >$2 T+1 FDV possible (especially if circulating supply at listing is small). ([blog.kraken.com](https://blog.kraken.com/news/integrating-ink-token?utm_source=openai))
-- Historical precedent shows some airdrop/TGE events reached multi-billion-dollar FDVs on listing day (e.g., BLAST debuted with an FDV reported near $2B at initial listing prices), so an aggressive listing price is not impossible. That implies non-zero probability well above near-zero. ([coin360.com](https://coin360.com/news/blast-token-launch-rollercoaster?utm_source=openai))
+What suggests the current market price (15%) might be incorrect (arguments that push price higher)
+- Kraken support and integration is a qualitatively meaningful demand signal: if Kraken lists or facilitates trading and airdrops on a large centralized exchange with millions of users, onboarding + retail demand could be large and create upward pressure on listing price. This is a plausible path to initial price > $2 if Kraken decides to open meaningful trading and if supply held by recipients is limited (e.g., meaningful tokens locked in liquidity incentives rather than immediately sold).
+- If the airdrop is targeted (many tokens reserved to be locked in Aave liquidity pools) and a non-trivial portion is bond/locked for incentives, the effective circulating supply at listing could be sharply smaller than 1B, making a >$2 FDV easier to reach even if nominal FDV (1B × list price) metric is used by market participants (some exchanges/price sources use circulating vs FDV differently — but note the market’s resolution rule explicitly uses FDV).
+- Comparable large L2 ecosystems (ARB, OP) have in the past achieved multi-billion FDV valuations when market conditions + exchange listings + tokenomics line up; referencing precedent can justify higher odds if traders expect similar adoption/rollout.
 
-Evidence that argues the market price might be too high (i.e., supports the market's low probability)
-- Many recent L2 / airdrop-driven token launches experienced heavy immediate sell pressure, rapid declines in price and TVL after snapshot/airdrop-driven activity, and ultimately substantially lower market caps than pre-listing FDV hopes. Analyses and post-mortems (and aggregated data on airdrops) show a strong tendency for airdropped tokens to lose value quickly as mercenary liquidity and "airdrop farming" unwind. This history pushes the probability down. ([yieldnetwork.io](https://www.yieldnetwork.io/blog/why-pre-deposits-will-replace-points?utm_source=openai))
-- Key uncertainties remain and are unresolved at time of review: precise mint date, airdrop allocation, circulating float at TGE, vesting schedules, exchange listing timing and whether major global CEXs will enable trading to US users at T+1. Because resolution uses FDV (total supply × price), even a small circulating float that trades at a high price can create a high FDV on paper — but major exchanges and market makers typically price with regard to likely selling pressure and future unlocks, which mutes purely speculative listing-time spikes. The lack of a published contract/address and audited TGE terms increases short-term uncertainty and dampens the probability of a tidy >$2 FDV. ([cryptobriefing.com](https://cryptobriefing.com/kraken-ink-token-launch/))
-- Regulatory and listing risk: INK is being released by an entity backed by a US exchange (Kraken) and may face extra scrutiny or listing constraints in certain jurisdictions; restricted US availability at launch could materially suppress T+1 price. (No definitive regulator action reported, but this is a common and non-trivial risk for exchange-backed tokens.) ([blog.kraken.com](https://blog.kraken.com/news/integrating-ink-token?utm_source=openai))
+What supports the current market price (arguments that push price lower)
+- Announced distribution via airdrop to many users implies considerable immediate sell pressure at listing: airdrops historically generate substantial short-term selling as recipients monetize small allocations, especially if eligibility is broad. If most or many recipients choose to sell, list price would be pressured below $2.
+- The Ink announcement (June 17–July 2025 press pieces) repeatedly said mint/contract date would follow audits; the absence of a publicly verified INK contract in the official docs suggests the token may not yet have been minted or widely tradable at the time of those pages. Uncertainty about launch timing and details reduces the chance of an immediate >$2 price because the market cannot price certainty into a far-future listing.
+- The token has been described as “utility, not governance.” Utility tokens without explicit governance/fee-sharing and with large initial supply require material usage or locked liquidity to justify >$2 per token. Press noted the first application is an Aave liquidity pool, which would need large TVL and incentives to create substantial buying demand quickly.
+- Macro / crypto market conditions and token distribution mechanics (how many tokens go to ecosystem, how many to community, vesting schedules) will dominate initial price; publicly available reporting so far emphasizes anti-farming measures and distribution fairness but does not claim major strategic seed sales or high pre-listing lockups that would support an immediate >$2 listing.
 
 Source credibility and recency
-- CoinDesk / CryptoBriefing / CoinCodex coverage of INK’s announcement are mainstream crypto press contemporaneous to the announcement (June 2025) and directly quote the Foundation—highly relevant for facts about supply, intended distribution method, and lack of announced mint date. These are reliable for reporting the announcement details. ([coindesk.com](https://www.coindesk.com/markets/2025/06/18/kraken-backed-ink-foundation-to-airdrop-ink-token-starting-with-aave-powered-liquidity-protocol/?utm_source=openai))
-- Kraken’s own blog is authoritative regarding exchange product plans and statements about integrating INK into Kraken products. ([blog.kraken.com](https://blog.kraken.com/news/integrating-ink-token?utm_source=openai))
-- DeFiLlama is the standard aggregator for onchain TVL/volume/fees and is credible for the ecosystem activity figures. ([defillama.com](https://defillama.com/chain/Ink))
-- Analyses of past L2/airdrop launches (e.g., BLAST post-mortems) are from market/analysis sites — they are useful for pattern recognition but not deterministic. Use them as contextual evidence. ([coin360.com](https://coin360.com/news/blast-token-launch-rollercoaster?utm_source=openai))
+- Official Ink docs (docs.inkonchain.com) and Kraken’s corporate blog are primary/authoritative for technical contract listings and product integration. Both are high credibility for statements about integration, contract lists, and the public position of Kraken/Ink. (Ink docs was current in my queries.)
+- Crypto press coverage (CryptoBriefing, CryptoSlate, Coinomist and similar) provides timely reporting summarizing the Ink Foundation announcement (June–July 2025). These are secondary but reliable for the announced supply and high-level token plans; they often quote Ink’s official X posts and the Foundation’s announcement.
+- Absence of a token contract/address on the official docs is meaningful primary evidence that the token had not (at least at the time of those document snapshots) been published and fully minted; that increases uncertainty about a specific launch date and therefore about one-day-after-listing prices.
 
-Market-efficiency analysis
-- Reasonable interpretations that justify the current 15.5% price:
-  - The market is pricing substantial uncertainty: no mint date/contract, unknown circulating float/vesting, and well-documented risk of immediate sell pressure on airdrops (so even Kraken backing may not guarantee a >$2 FDV). Traders may be assigning a modest chance that distribution mechanics + Kraken demand produce a >$2 price at T+1, hence ~15% seems plausible.
-  - Low total trading volume ($6.5k) and narrow spread (3¢) suggest current price may reflect a thin book set by one or a few players rather than broad aggregation — so the price could be noisy rather than efficient.
-- Could the 15.5% represent consensus among informed traders? Possibly, but the low volume argues caution: it may instead reflect a single contrarian trader or two. Conversely, it might reflect a rational view that, conditional on existing disclosures and historical airdrop patterns, achieving >$2 FDV on day+1 is unlikely but far from impossible.
-- Is low volume because the outcome is obvious, or because traders haven’t engaged? It’s probably the latter: the event is high-uncertainty and specialized (tokenomics and listing details still pending), so many professional liquidity providers may wait for contract/vesting/listing details before committing capital.
+Skeptical check: why would a simple, obvious fact (e.g., Kraken backing ⇒ >$2) not already be priced in?
+- If Kraken backing alone guaranteed >$2, traders would already act — but initial distribution mechanics (broad airdrop), vesting schedules, lack of contract/clear launch date, and uncertainty about exchange listing timing all create uncertainty and potential sell pressure not easily quantified. Traders rationally discount those uncertainties. The market’s 15% implies traders are skeptical that Kraken support + airdrop design will translate directly into a >$2 immediate price.
 
-Mispricing assessment and critical self-check
-- Do we understand resolution criteria exactly? Yes: FDV uses total supply × price from most liquid price source at 4:00 PM ET the calendar day after the launch event; the token must be publicly tradable. Given a 1B fixed supply, threshold is > $2.00 per INK. (This is a crucial technicality: circulating supply doesn’t matter for FDV.) ([cryptobriefing.com](https://cryptobriefing.com/kraken-ink-token-launch/))
-- Could the market be missing a major piece of information? Possibly: if the Foundation were to announce (i) a very small effective circulating supply at listing (e.g., tiny portion airdropped and tradable), (ii) guaranteed simultaneous listings on Kraken + other tier-1 CEXs, and (iii) strong buy programs/treasury buys at listing, that would substantially raise the chance of >$2 FDV on day+1. Those are plausible but not currently confirmed. Kraken’s public statements about contemplated integrations are supportive but fall short of a guaranteed listing/buy program. ([blog.kraken.com](https://blog.kraken.com/news/integrating-ink-token?utm_source=openai))
-- Conversely, if a large fraction of INK is unlocked and claimable immediately or the airdrop recipients are mostly retail and prone to immediate selling, the market’s conservative 15.5% is sensible. Historical patterns of airdrops producing transient TVL spikes and post-airdrop price declines give weight to the conservative view. ([yieldnetwork.io](https://www.yieldnetwork.io/blog/why-pre-deposits-will-replace-points?utm_source=openai))
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify the current 15% price:
+  - Traders are discounting immediate selling pressure from a broad airdrop and expect modest initial listing liquidity/demand — hence low chance (15%) the price will exceed $2 one day after launch.
+  - Traders may believe Kraken will airdrop widely and recipients will sell or that circulating supply at list will still be too large relative to early demand for a >$2 price.
+  - Traders may be uncertain about whether resolution source will use FDV correctly and whether the token contract provided will be the one markets trade (technicalities sometimes cause different sources to show different prices).
+- Could the price instead reflect one or few participants? Yes — low total volume ($7.2k) + tight spread (4¢) strongly suggests a small set of participants are setting price. The tight spread just means liquidity providers are quoting close; low volume implies limited new information being incorporated. That can create mispricing, but it can also simply reflect a conservative consensus among few participants.
+- Is low volume because the outcome is obvious or because informed traders haven’t engaged?
+  - Mixed: Some traders may see the outcome as low probability (and thus not worth trading); others may await contract address/audit/launch details before deploying capital. That combination reduces early volume even if the eventual outcome is uncertain.
 
-Net judgment about mispricing
-- There is not strong, specific, and credible evidence that a large chunk of information is missing from the market price; rather, the primary unknowns (mint date, contract address, circulating float, vesting, exchange listing specifics) are exactly the factors that would move probability materially and are intentionally unresolved by the Foundation. Given that, the market’s 15.5% looks like a defensible, cautious assessment that accounts for both Kraken distribution upside and the high probability of immediate selling/market pressure.
-- Small upward mispricing is plausible if traders have underweighted Kraken integration + tight airdrop eligibility that results in low immediate float; small downward mispricing is plausible if traders have underweighted regulatory/listing friction or common airdrop sell pressure. But I did not find specific, credible evidence that the market is mispriced by a very large margin (>20 cents). No authoritative, new announcement was discovered that would obviously force a re-evaluation upward (for example: published contract + confirmed major-exchange buyback/listing/single-vendor lockups) as of March 15, 2026.
+4) MISPRICING ASSESSMENT (apply critical check)
+- Do I have specific, credible evidence missing from the market price that argues for a materially higher probability (>~20 cents difference)? No. The primary facts — 1B supply, Kraken backing, airdrop + Aave integration — are public and have been reported repeatedly. The major drivers that would push an initial price above $2 (massive Kraken listing demand, tight circulating supply due to token locks, or pre-listing strategic allocations kept off-market) have not been demonstrated in primary sources I found.
+- Potential missing information the market may possess (and which would justify a higher price) could include: a firm Kraken listing commitment at launch with market-making support, an announced small circulating supply due to large immediate locks, or confirmed major exchange/market-making partners guaranteeing depth. I found no reliable public evidence of those items.
+- Therefore, concluding a large mispricing (≥20 cents difference from the market) would be premature. The most charitable reading of the market is that informed traders are pricing in the most likely near-term dynamics: broad airdrop → selling pressure, no published contract yet → uncertainty about listing timing and source, Kraken integration helpful but not sufficient to guarantee >$2 in one day.
 
-EXPECTED-VALUE calculation (numerical estimate)
-- Strength of evidence that price omits something actionable: 50% — there are clear structural arguments both ways (Kraken distribution vs. strong historical sell pressure) but no smoking-gun data (no mint/contract/listing details publicly available). (I rate the evidence moderate.)
-- Magnitude of plausible mispricing if one takes a contrarian view: ~5 cents (i.e., the market might be off by ~5¢ in probability points; e.g., true probability ~20.5% vs market 15.5%). This is conservative: the unknowns could swing price more, but absent a revealed contract or guaranteed CEX listing/lockups, a larger mispricing is speculative.
-- Expected value = Strength × Magnitude = 50% × 5¢ = 2.5¢.
+5) EXPECTED VALUE CALCULATION (of performing further investigation / trading on this insight)
+- Strength of evidence that price is missing a material bullish fact (i.e., that the market is significantly underestimating the chance of FDV > $2): I assess this at ~30% (there is some chance that Kraken will list and that large token locks + demand create >$2, but no public primary-source evidence supports that as more likely than not).
+- Magnitude of plausible mispricing if I were to bet against the market: given current market price 15%, a reasonable subjective fair probability might be ~20–30% (I do not find strong basis for a >50% fair probability). That implies a potential mispricing magnitude of about 5–15 cents relative to current price. I’ll be conservative and choose a plausible magnitude of 10 cents.
+- Expected value = Strength × Magnitude = 0.30 × 10 cents = 3.0 cents.
+- I report this as a modest EV — investigating/trading has small upside unless new, high-quality information appears (e.g., published contract + Kraken listing commitment + lockup details).
 
-Critical-check summary before finishing
-- I confirmed the market’s exact resolution rule (FDV using total supply) and the published total supply (1B) so the $2B barrier is equivalent to >$2 per token — that clarifies why even small circulating floats can create large FDV numbers and why some market participants may price conservatively. ([cryptobriefing.com](https://cryptobriefing.com/kraken-ink-token-launch/))
-- I did not find authoritative announcements (contract address, mint date, exchange listing guarantees, or buyback commitments) that would clearly justify increasing the market-implied probability by a very large amount. Therefore I do not conclude a large mispricing exists.
+6) CONFIDENCE IN ASSESSMENT
+- I rate my confidence as: medium.
+  - Why medium: I used primary sources (Ink docs, Kraken blog) and multiple press articles from mid-2025. The primary uncertainty is timing and the fact that news since those announcements (post-audit minting, contract address, exchange listing plans) could have occurred but was not found in the materials I sampled. Because launch details and contract publication are the single most important factual items for this market, absence of clear contract + mint evidence reduces certainty but the available public material is consistent and credible.
 
-Final numeric outputs required
-EXPECTED_VALUE: 2.5
-SUMMARY: Ink has publicly announced a 1B capped INK token and Kraken/Ink intend to distribute via an Aave-linked airdrop, but mint date/contract and listing/vesting details remain unpublished. Given that FDV > $2B requires INK > $2 (1B supply), the market's 15.5% probability is a reasonable, cautious price given Kraken distribution upside plus strong historical airdrop sell-pressure risk.
+Final concise conclusions
+- The market’s 15% probability is a defensible, conservative assessment given public information: supply = 1B (so price > $2 needed), distribution via airdrop (likely selling pressure), no published token contract / mint date in the official docs at the time of the sources I checked, and uncertain listing mechanics. Kraken backing and intended Kraken integration raise the upside but do not by themselves guarantee >$2 one day after launch.
+- I do not find strong, verifiable evidence missing from the market that would justify concluding a substantial mispricing. There is a modest chance (my estimate ~20–30%) that Kraken-led listing + locked liquidity could push a one-day-after price > $2, but that possibility appears already reflected incompletely in the market price; expected value of exploiting a mispricing is small (~3.0 cents by my calculation).
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Public sources show INK will have a fixed supply of 1,000,000,000 and distribution via Kraken Drops / an Aave-powered airdrop; however, I found no published mint/contract address or evidence of a guaranteed exchange/market-making listing. Given the likely airdrop sell pressure and uncertainty about circulating supply at listing, the market’s 15% probability is reasonable and I find no clear, credible missing information that implies a large mispricing.
 CONFIDENCE: medium
 
 ---
@@ -80,42 +91,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
+### [Coming soon: Integrating $INK Token and Ink Layer 2 protocols into our core products - Kraken Blog](https://blog.kraken.com/news/integrating-ink-token)
+**Author:** Unknown | **Published:** 2025-07-24
+
+Kraken’s official blog post describes plans to integrate the INK token and Ink Layer 2 into Kraken products and notes the token will be issued by an Ink Foundation subsidiary and distributed in part via Kraken Drops/airdrops. This is a high-credibility primary source for Kraken’s involvement and for the claim that Kraken intends to support INK distribution/listing; such integration increases potential demand and supports a bullish scenario but does not by itself prove an immediate >$2 listing or supply/lockup details. This supports why some upside is plausible but leaves open the selling-pressure/launch-timing risks that the market must price.
+
 ### [Kraken-backed layer 2 Ink to launch $INK token](https://cryptobriefing.com/kraken-ink-token-launch/)
-**Author:** Vivian Nguyen | **Published:** 2025-06-17
+**Author:** Unknown | **Published:** 2025-06-18
 
-Reports the Ink Foundation's announcement of an INK token, describing the token as capped at 1 billion supply, distributed via an Aave-powered liquidity protocol/airdrop, and that the mint date and detailed mechanics were not yet disclosed. This is a primary factual source for the supply and distribution plan; it supports the assessment that FDV threshold maps to >$2/token but that listing mechanics remain uncertain, which lowers short-term probability of >$2 FDV.
+CryptoBriefing reports the Ink Foundation announcement (June 17–18, 2025) that the INK supply will be capped at 1 billion and that the token will be distributed via a targeted airdrop (Aave-powered liquidity) with a promised permanent cap and no governance role. This press piece is a trusted secondary source corroborating the 1B supply figure and the Foundation’s high-level distribution plan — the 1B supply is the critical input that produces the $2 per-token threshold for FDV > $2B.
 
-### [Kraken-Backed Ink Foundation to Airdrop INK Token, Starting With Aave-Powered Liquidity Protocol](https://www.coindesk.com/markets/2025/06/18/kraken-backed-ink-foundation-to-airdrop-ink-token-starting-with-aave-powered-liquidity-protocol/)
-**Author:** Shaurya Malwa (edited) | **Published:** 2025-06-18
+### [Kraken’s L2 network rolls out native INK token to power protocol incentives, allocation](https://cryptoslate.com/krakens-l2-network-rolls-out-native-ink-token-to-power-protocol-incentives-allocation/)
+**Author:** Gino Matos (CryptoSlate) | **Published:** 2025-06-17
 
-CoinDesk reports the same core facts: INK token planned with a hard cap of 1 billion, distribution via an Aave-native DeFi protocol, and the Foundation's intent to prevent airdrop farming; Coindesk warns that newly launched tokens often face sell pressure. This bolsters the view that INK has distribution channels that could create demand but that historical airdrops often depress longer-term prices—supporting a cautious market probability.
+CryptoSlate covers the Foundation’s announcement describing a 1B token mint, that contract and mint date would be published after audits, and that holders won’t govern the rollup. Importantly this article notes that the mint date/contract address will be released after audits — that absence increases uncertainty about launch timing and makes a near-term >$2 listing less certain. This challenges a high immediate probability and supports a conservative market price.
 
-### [Coming soon: Integrating $INK Token and Ink Layer 2 protocols into our core products](https://blog.kraken.com/news/integrating-ink-token)
-**Author:** Kraken (Kraken Blog team / company post) | **Published:** 2025-07-24
+### [Kraken-Backed Ink Network to Launch INK Token with Aave-Powered Airdrop](https://coinomist.com/news/kraken-backed-ink-network-launches-ink-token-airdrop/)
+**Author:** Dmytro Psevdonimenko | **Published:** 2025-06-18
 
-Kraken's official blog post describing planned integration of INK into Kraken products, noting INK airdrop and Kraken Drops involvement. This is authoritative evidence that Kraken intends to make INK accessible to its user base—an explicit structural upside for early demand and a reason some traders will place non-trivial probability on a high listing price. However, the post does not guarantee exchange listing/trading terms at TGE.
+Coinomist summarizes the Ink Foundation’s plans: capped supply of 1 billion INK, an airdrop tied to an Aave-based liquidity program, and potential anti-farming measures. This article emphasizes that INK’s first use case centers on incentivized liquidity, which could either remove supply from immediate circulation (if locked) or create selling pressure (if recipients sell). The piece therefore highlights a main driver of initial post-launch price direction (liquidity incentive design), which is central to judging whether >$2 is plausible.
 
-### [Welcoming Ink to the Superchain](https://www.optimism.io/blog/welcoming-ink-to-the-superchain)
-**Author:** Optimism (blog post) | **Published:** 2024-10-24
+### [Ink Contract Addresses — Ink Docs (Official developer docs)](https://docs.inkonchain.com/useful-information/contracts)
+**Author:** Unknown (Ink Foundation / Ink docs) | **Published:** Unknown (docs show “Mainnet is LIVE!” and contract table; last crawled/updated dates vary)
 
-Optimism’s blog confirms Ink as an OP Stack / Superchain member, describes Ink’s technical design and integration plans, and notes mainnet timing. The post establishes Ink’s technical context and potential network-level support for onchain primitives (relevant because token utility is being tied to DeFi activity on Ink rather than rollup governance), which factors into demand expectations for INK.
-
-### [Ink - DeFi TVL, Fees, & Revenue - DefiLlama](https://defillama.com/chain/Ink)
-**Author:** Unknown (DefiLlama data page) | **Published:** Unknown (live data as crawled)
-
-DefiLlama’s chain page reports Ink’s TVL, fees, DEX volumes, and other metrics (hundreds of millions TVL as of the snapshot). This provides a quantitative view of onchain activity and liquidity available on Ink; higher TVL and active DeFi increase the plausibility of a valuable token, but the numbers here are modest relative to the $2B FDV threshold and therefore temper bullish expectations.
-
-### [[ARFC] Deploy Aave v3 on Ink - Llama Risk / Aave governance thread](https://research.llamarisk.com/research/2025-02-24T21%3A07%3A47.000Z)
-**Author:** Llama Risk (research post) / Aave governance thread (archived) | **Published:** 2025-02-24
-
-Llama Risk's research and Aave governance discussion note Ink's DeFi activity metrics (low TVL in early 2025), technical considerations, and the proposal context for Aave deployment on Ink. This supports the point that INK’s primary claimed utility is to bootstrap DeFi primitives (Aave), but also that protocol-level activity was modest early on—an argument for caution about immediate high token valuations.
-
-### [Why Pre-Deposits Will Replace Points as DeFi's Default GTM (post-mortem & data on airdrops)](https://www.yieldnetwork.io/blog/why-pre-deposits-will-replace-points)
-**Author:** Unknown / Yield Network Insights | **Published:** 2026-02 (article snapshot / date on site)
-
-Presents aggregated data and patterns showing that airdrop-driven token launches frequently experience rapid post-distribution declines in TVL and token value, and that a large share of airdrops lose most value within months. This empirical pattern is relevant to evaluating the likelihood that an airdropped INK will sustain a high listing price the day after launch, and therefore supports a conservative market probability.
-
-### [Blast Token Launch Sees 40% Surge Amid Market Challenges (background example of airdrop/FDV dynamics)](https://coin360.com/news/blast-token-launch-rollercoaster)
-**Author:** Van Thanh Le / Coin360 (news piece) | **Published:** 2024-06-27
-
-Describes BLAST’s initial FDV at listing (~$2B range) and subsequent volatility/sell pressure—an example showing both how a token can reach a multi-billion FDV at debut and how quickly airdrop-driven market dynamics can reverse. This comparative case illustrates why INK could hit >$2B FDV at listing under favorable distribution/listing conditions, but also why such scenarios are fragile.
+The official Ink docs list many Ink/mainnet system contracts and bridges, and are the authoritative source for published contract addresses. Crucially, the docs I inspected list preinstalls and core system contracts but do not present a verified INK token contract address or a public mint transaction (per the inspected page). That absence is meaningful: it supports the conclusion that the token’s mint/contract and precise launch timing were still pending or not widely published at the time of these snapshots, creating substantial uncertainty the market must price.

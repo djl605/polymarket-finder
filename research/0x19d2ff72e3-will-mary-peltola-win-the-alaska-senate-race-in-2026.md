@@ -1,86 +1,121 @@
 # Research: Will Mary Peltola win the Alaska Senate race in 2026?
 
 **Market ID:** 0x19d2ff72e389d190c183e6b114817301d29eba651d67d75a38ee201a05188fd9
-**Researched At:** March 8, 2026 at 04:19:20 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Mary Peltola win the Alaska Senate race in 2026?"
+**Researched At:** March 21, 2026 at 04:06:12 AM UTC
+**Search Query:** "Will Mary Peltola win the Alaska Senate race in 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.8¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Mixed but credible evidence on both sides supports the current ~48.5% probability. No clear, large mispricing (>5¢) is apparent given the state’s Republican lean and Peltola’s competitiveness.
+Public reporting and polling show the Alaska Senate race is a close, within‑margin contest: Peltola has early momentum and fundraising but faces a state Republican baseline and an incumbent with a sizable war chest. The market’s 52.5% price is plausible given the evidence, but zero trading volume means the probability is weakly validated by market activity and any mispricing, if present, is likely modest (single‑digit cents).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Democrat Mary Peltola will win the November 3, 2026 Alaska U.S. Senate election (including any run-offs) as called by AP, Fox, and NBC or, failing that, by official certification. YES means Peltola unseats incumbent Republican Dan Sullivan; NO means Sullivan (or another candidate) wins or results aren’t confirmed by July 31, 2027.
+Planned approach and searches
+- I used web searches to (a) confirm whether Mary Peltola is running for the 2026 Alaska U.S. Senate seat and who the incumbent is, (b) gather the best recent polling, fundraising and race-rating evidence, and (c) check Alaska’s election rules (top‑four primary / ranked‑choice voting) and any ballot threats to that system that could change dynamics. I had a 3‑search budget and combined multiple focused queries per search to maximize coverage.
 
-2. EVIDENCE EVALUATION  
-Bullish for Peltola (suggesting price might be too low):  
-• Axios (Feb 24, 2026): DSCC has plowed \$1M into grassroots, signaling Democratic belief in a path to victory via youth and Native turnout.  
-• Newsclip (Feb 12, 2026): Emerging Democratic momentum and demographic shifts in Alaska could tilt a close race in Peltola’s favor.  
-• Kondik (Jan 13, 2026): Peltola’s ranked-choice success in 2022 shows crossover appeal; a Leans-R seat could still flip under the right conditions.  
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Mary Peltola win the Alaska Senate race in 2026?” The market resolves to YES if Peltola is officially declared the winner of the November 3, 2026 Alaska U.S. Senate election (including any runoffs) according to the resolution rules (AP, Fox, NBC calls or official certification if those outlets don’t all call by July 31, 2027).
+- What needs to happen for YES vs NO:
+  - YES: Peltola must outpoll and be declared the statewide winner of the 2026 Alaska U.S. Senate election (or be certified by the state as winner if AP/Fox/NBC calls don’t align).
+  - NO: Any other candidate (e.g., incumbent Sen. Dan Sullivan or another candidate) is declared winner or certified instead.
+- Important resolution caveats for traders: the market resolves on public calls (AP/Fox/NBC) or official certification. If certification is delayed past July 31, 2027, the market resolves to “Other.” Those resolution rules mean late or contested results and certification timing can matter to final resolution.
 
-Bearish for Peltola (suggesting price might be too high):  
-• Reuters (Mar 2, 2026): Alaska’s Republican tilt and Sullivan’s incumbency give him a general edge.  
-• Gambit (Mar 1, 2026): Senate environment still favors Republicans overall; Alaska remains “stable” R-leaning, despite pockets of uncertainty.  
+2) EVIDENCE EVALUATION (key findings)
+Summary of the factual picture (short):
+- Mary Peltola formally announced a 2026 Senate campaign in January 2026 and is running against incumbent Republican Sen. Dan Sullivan. (Multiple major outlets reported the announcement.) ([apnews.com](https://apnews.com/article/3fd17afc556641652e83e9c11d700306))
+- Recent state polling shows a very narrow, within‑margin race (polls aggregate to a toss‑up / single‑digit swings). One Alaska Survey Research poll (Jan 8–11, 2026) showed Peltola about +1.6 points (48.0 vs 46.4) with 5.6% undecided — margin of error ±2.0. RealClearPolitics aggregation shows a series of close polls (mix of +1 leads for either side). ([thealaskacurrent.com](https://thealaskacurrent.com/2026/01/14/poll-peltola-opens-race-for-u-s-senate-with-slight-edge-on-sullivan/))
+- Fundraising: Peltola reported a strong immediate fundraising haul (≈$1.5M in the first 24 hours reported by media); Sullivan reported sizable cash on hand (several million). Recent reports show Sullivan raised $1.4M in Q4 and had roughly $5–6M cash available entering 2026. ([axios.com](https://www.axios.com/2026/01/28/alaska-senate-sullivan-peltola-fundraising/))
+- Institutional race ratings: Cook Political Report moved Alaska to “Lean Republican” after Peltola’s entry, noting her crossover appeal but also the state’s Republican baseline (Trump won Alaska by a large margin in 2024). ([cookpolitical.com](https://www.cookpolitical.com/analysis/senate/alaska-senate/peltola-announcement-alaska-senate-moves-lean-republican))
+- Election system context: Alaska currently uses a top‑four primary and ranked‑choice general election (Ballot Measure 2 implementation). A petition to repeal top‑four/RCV has qualified for the ballot and is expected to appear on the Nov 3, 2026 ballot unless the legislature acts — that creates an extra variable for how primaries/generals will be conducted going forward (though practical effect on the 2026 outcome is uncertain). ([elections.alaska.gov](https://www.elections.alaska.gov/election-information/?utm_source=openai))
 
-Source credibility and recency are strong (major outlets, all within the last six weeks). None of the bullish signals is so decisive that the market couldn’t already have priced them in, nor is the GOP lean so dominant that Peltola’s candidacy is a long shot.  
+Evidence that suggests the current market price (52.5% for Peltola) might be incorrect (bearish for the market’s current Peltola edge — i.e., reasons price >50% could be too high)
+- Alaska’s baseline partisan lean favors Republicans: Trump carried Alaska by double digits in 2024 and Cook still rates the race Lean GOP despite Peltola’s entry; that structural tilt makes a Democratic victory an uphill task and argues for a price below 50% absent strong, persistent polling advantage. ([cookpolitical.com](https://www.cookpolitical.com/analysis/senate/alaska-senate/peltola-announcement-alaska-senate-moves-lean-republican))
+- Incumbent advantage and cash: Sullivan has years of statewide exposure and a multi‑million dollar war chest that can blunt challengers’ early momentum; early fundraising parity (or Sullivan cash lead) suggests the race could favor the incumbent in turnout and TV markets. ([axios.com](https://www.axios.com/2026/01/28/alaska-senate-sullivan-peltola-fundraising/))
+- Vulnerabilities in Peltola’s record and recent loss: Peltola lost her at‑large House seat in 2024, and reporting has highlighted mixed views among some rural / Alaska Native voters — those dynamics add downside risk to assuming Peltola is favorite. ([apnews.com](https://apnews.com/article/3fd17afc556641652e83e9c11d700306))
+- Ballot measure uncertainty (repeal of RCV/top‑four): a successful repeal campaign on Nov 3, 2026 could change longer‑term dynamics for future cycles and might motivate different strategic spending/alliances; depending on timing/implementation, complexity could alter calculations. The uncertainty adds a risk premium that could justify a more conservative market price. ([alaskasnewssource.com](https://www.alaskasnewssource.com/2025/12/31/petition-repeal-alaskas-election-reform-law-will-go-front-voters/))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A ~48.5% price is consistent with a toss-up narrative: Republican lean plus Peltola’s viability yields near-even odds. The tight 1¢ spread implies at least two active participants, but \$0 volume suggests low liquidity—possibly a handful of traders rather than a broad consensus. The lack of heavy trading could mean informed traders haven’t found a clear edge or are waiting for early polling.
+Evidence that supports the current market price being reasonable (bullish for Peltola)
+- State polls show a close race with several polls giving Peltola a narrow lead or near parity; the Alaska Survey Research poll shows Peltola with a small edge and favorable net approval vs Sullivan in that poll. That polling evidence supports a price near 50/50. ([thealaskacurrent.com](https://thealaskacurrent.com/2026/01/14/poll-peltola-opens-race-for-u-s-senate-with-slight-edge-on-sullivan/))
+- Peltola’s demonstrated crossover appeal: she has previously won statewide contests in Alaska by attracting moderate and independent voters; multiple analysts and national Democrats view her as a uniquely strong recruit who can run competitively in a red-leaning state. Cook’s movement to Lean Republican (instead of Solid GOP) reflects respect for her competitiveness. ([cookpolitical.com](https://www.cookpolitical.com/analysis/senate/alaska-senate/peltola-announcement-alaska-senate-moves-lean-republican))
+- Early national interest and Democratic investment: Democratic groups (Senate Majority PAC, DSCC attention) and fundraising momentum indicate the national party sees this seat as winnable, which tends to compress prices closer to 50% when national resources flow in. ([apnews.com](https://apnews.com/article/3fd17afc556641652e83e9c11d700306))
 
-4. MISPRICING ASSESSMENT  
-Given balanced evidence—no blockbuster polling or fundraising gap unpriced—the 48.5% probability appears justifiable. Any mispricing is likely small (<5¢), reflecting normal near-term uncertainty rather than a clear overlooked factor.
+Source credibility and recency
+- AP, Cook Political Report, Axios, and state outlets (Alaska Current, KTUU) are reputable and timely; the key items (announcement, polling, fundraising, Cook rating) are from Jan–Mar 2026 and current for this market. RealClear aggregates primary polling data. The Alaska Division of Elections is the authoritative source on election rules. These are credible, recent sources for assessing competitiveness. ([apnews.com](https://apnews.com/article/3fd17afc556641652e83e9c11d700306))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence against large mispricing: ~35%  
-Estimated magnitude of genuine mispricing: ~5¢  
-Expected value ≈ 0.35 × 5¢ = 1.75¢
+Skeptical note about “obvious” signals
+- If the situation were truly obvious (e.g., consistent +8–10 point polling lead and clear organizational advantage), the market would probably already show a larger gap and would have attracted trades even in a low‑volume market. The available evidence is mixed and narrowly balanced; that plausibly explains a near‑50/50 price. The absence of trading volume (Total Vol $0 per market data you supplied) argues caution: this price may reflect a default/initial quote rather than aggregated informed bets.
 
-EXPECTED_VALUE: 1.8  
-SUMMARY: Mixed but credible evidence on both sides supports the current ~48.5% probability. No clear, large mispricing (>5¢) is apparent given the state’s Republican lean and Peltola’s competitiveness.  
+3) MARKET EFFICIENCY ANALYSIS
+- Market metrics: Age 158d, Total Vol $0, Price 52.5%, Spread 1.0¢. Zero volume strongly suggests there have been no trades — the current price may be the initial creator price or an automated initial midpoint, not an equilibrium set by many traders.
+- Reasonable interpretations that justify the price:
+  - Price ≈52.5% could simply encode an informed but cautious view that the race is essentially a toss‑up with a slight Peltola edge based on early polling and recruitment (Peltola’s unique strengths). National bettors or market creator may have set it in response to the news cycle in Jan 2026 and not updated since.
+  - Alternatively, the price could reflect a single creator’s judgment (or small group) rather than a market consensus — CRITICAL because Total Vol $0 means there’s no liquidity evidence the price is validated by other traders.
+- Could low volume reflect an “obvious” outcome? Not here. The race is competitive and uncertain; low volume more likely indicates traders haven’t engaged yet (Alaska is a small state market; traders may prefer larger, higher‑liquidity markets).
+- Conclusion on reliability: Given zero trading volume, the posted probability is not a strong signal of market consensus; it is plausible and defensible given the evidence, but not strongly reliable as a market aggregate.
+
+4) MISPRICING ASSESSMENT
+- Is there credible evidence that the market is mispriced by a large amount (>20 cents)? No. The professional reporting, polling and ratings show a close race; Cook still sees a Republican lean. That pattern supports treating the result as a near‑tossup—so a ~52.5% price is not an extreme outlier.
+- Could there be a modest mispricing (small number of cents)? Yes — because:
+  - Zero volume means the price could be an untested initial opinion; if professional bettors or party traders become active they could move the price several cents once they trade on more detailed internal polling, GOTV modeling, or early ground operations.
+  - Conversely, early polling that slightly favors Peltola might already be included in that 52.5% price, so the market may already have incorporated key public signals.
+- Critical re-check: Do I understand the exact resolution criteria? Yes — the market uses AP/Fox/NBC calls (or certification) and the election is scheduled for Nov 3, 2026. I have not found anything indicating the race has already been decided or that the market’s resolution terms differ from public reporting assumptions. The petition to repeal RCV/top‑four appears on the SAME Nov 3, 2026 ballot and is a complicating factor (but does not automatically change how the 2026 election will resolve on that day). ([alaskasnewssource.com](https://www.alaskasnewssource.com/2025/12/31/petition-repeal-alaskas-election-reform-law-will-go-front-voters/))
+
+Assessment outcome
+- There is insufficient credible evidence to conclude a large mispricing. The current price (52.5% for Peltola) is broadly consistent with public polls showing a very tight race and with a professional rating that still leans Republican (Cook). Because the market shows zero trading volume, that price is weakly supported as a market consensus — it may be an unchallenged initial quote rather than a well‑tested probability.
+- If you seek an exploitable inefficiency, the current public evidence suggests any real edge is likely small (single‑digit cents) and highly contingent on (a) additional internal polls, (b) ground organization/fundraising trends through the campaign, and (c) whether the RCV/top‑four repeal campaign changes incentives or turnout.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that the market is missing material information: ~40% — public polls & fundraising are mixed and close; there is plausible uncertainty but not a clear, missing fact that would flip the market by large margins.
+- Magnitude of plausible mispricing if the market were wrong: ~10 cents (0.10) — a modest error seems possible given zero volume, but a large (>20¢) error is unlikely given current close polls and professional ratings.
+- Expected value = 40% × 10 cents = 4.0 cents
+
+6) CONFIDENCE
+- My confidence in this assessment: medium
+
+FINAL LINES (required)
+EXPECTED_VALUE: 4.0
+SUMMARY: Public reporting and polling show the Alaska Senate race is a close, within‑margin contest: Peltola has early momentum and fundraising but faces a state Republican baseline and an incumbent with a sizable war chest. The market’s 52.5% price is plausible given the evidence, but zero trading volume means the probability is weakly validated by market activity and any mispricing, if present, is likely modest (single‑digit cents).
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Eight US Senate races to watch in the 2026 midterm elections | Reuters
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: http://reuters.com/world/us/eight-us-senate-races-watch-2026-midterm-elections-2026-03-02/
-Summary: The 2026 Alaska Senate race features incumbent Republican Dan Sullivan, who has held the seat since 2015 and is generally favored to win given Alaska's Republican-leaning voting history. However, Democratic former Representative Mary Peltola is actively seeking to unseat Sullivan, and the race could be competitive. While Sullivan's conservative profile aligns with Alaska's typical voting patterns, Peltola's challenge introduces uncertainty, especially considering Alaska's recent history of electing non-traditional candidates. Factors such as voter turnout, campaign dynamics, and statewide political trends will influence the outcome.
+### [Poll: Peltola opens race for U.S. Senate with slight edge on Sullivan](https://thealaskacurrent.com/2026/01/14/poll-peltola-opens-race-for-u-s-senate-with-slight-edge-on-sullivan/)
+**Author:** Alaska Current staff / Ivan Moore cited | **Published:** 2026-01-14
 
-Title: Dems place early bet on Alaska
-Author: Stephen Neukam,Hans Nichols
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.axios.com/2026/02/24/alaska-senate-democrats-schumer-dscc-peltola
-Summary: The Democratic Senatorial Campaign Committee is making a significant early investment in Alaska, allocating $1 million to build grassroots infrastructure and outreach efforts, particularly targeting youth and Native voters. This strategic move indicates that Democratic leaders, including Chuck Schumer, believe there is a viable path for Democrat Mary Peltola to win the 2026 Alaska Senate race against incumbent Republican Dan Sullivan. Peltola, the first Alaska Native in Congress, has previously won a surprising House seat in 2022 by focusing on local issues and community engagement. While Democrats have historically struggled to secure this seat, Schumer's efforts suggest confidence in her potential to flip the seat again, especially with targeted, hyper-local campaigning.
+This article summarizes an Alaska Survey Research statewide poll (survey dates Jan 8–11, 2026) showing Peltola ahead ~48.0% to 46.4% with 5.6% undecided and a ±2.0% MOE. It includes breakdowns of job approval and notes Sullivan’s slumping popularity in that poll. Relevance: provides direct, recent polling evidence that the race is very close and that Peltola has at least a small public polling edge — a primary data point used to judge whether a ~52.5% market price for Peltola is reasonable.
 
-Title: Alaska's Pivotal Role: Democrats' Roadmap to a Senate Majority in 2026 · Newsclip
-Author: 
-Published Date: 2026-02-12T00:00:00.000Z
-URL: https://newsclip.com/article/alaskas-pivotal-role-democrats-roadmap-to-a-senate-majority-in-2026
-Summary: The article highlights Alaska's emerging political shift, suggesting that Democrats, including potential candidates like Mary Peltola, may have a better chance in the 2026 Senate race than traditionally expected. Factors such as Democratic momentum following recent elections, changing voter sentiment, and Alaska's historical Republican dominance are influencing this outlook. Peltola's previous close race indicates she has a viable base, and the state's demographic changes could favor Democratic candidates. While challenges remain, including the need to flip other key Senate seats, the overall trend points to a potentially more competitive environment for Democrats in Alaska, increasing the likelihood of Peltola's success in 2026.
+### [Democrat Mary Peltola challenges GOP's Dan Sullivan in Alaska Senate race](https://apnews.com/article/alaska-senate-peltola-sullivan-3fd17afc556641652e83e9c11d700306)
+**Author:** Mary Clare Jalonick / AP (AP distributed) | **Published:** 2026-01-12
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The March 2026 Gambit Forecaster report indicates that the Senate landscape remains largely tilted toward Republicans, with most races showing stable partisan environments. However, there is emerging Democratic upside in some contests, including narrow but repeatable pathways for Democratic candidates. The Alaska Senate race, involving incumbent Mary Peltola, is not explicitly detailed in this summary, but the overall model suggests increased uncertainty and volatility in key races, especially in the Senate. Factors such as candidate fields, polling quality, and campaign dynamics are still settling, making predictions challenging. Given the model's emphasis on emerging Democratic pathways and the overall tilt, Peltola's chances may depend on regional dynamics, campaign developments, and how well Democrats can capitalize on these narrow opportunities.
+AP reported Peltola’s formal announcement that she will challenge incumbent Dan Sullivan and noted Sullivan’s campaign cash on hand (~$4.7M reported as of Q3/2025). The piece describes both candidates’ backgrounds, Peltola’s prior House loss (2024), and initial reactions from national groups. Relevance: authoritative confirmation of candidacy, baseline fundraising numbers, and context (Peltola’s past statewide wins/loss) that feed directly into likelihood assessments.
 
-Title: Alaska Senate Race Comes Onto the Competitive Board with ...
-Author: Kyle Kondik
-Published Date: 2026-01-13T00:00:00.000Z
-URL: https://centerforpolitics.org/crystalball/alaska-senate-race-comes-onto-the-competitive-board-with-peltolas-entry/
-Summary: The article discusses Mary Peltola’s entry into the Alaska Senate race, highlighting her previous electoral success in Alaska’s unique top-four primary system and ranked-choice voting, which helped her win a 2022 special election for Alaska’s at-large congressional seat. Although she lost a subsequent race in 2024, her crossover appeal and the anticipated favorable political environment in November suggest she could perform better in the upcoming Senate race. Currently rated as a Leans Republican seat, Alaska remains a Republican-leaning state, but Peltola’s recent electoral performance and the changing political landscape could influence her chances. While her prospects for 2026 are uncertain, her recent track record indicates she could be a competitive candidate, especially if the political environment remains favorable for Democrats.
+### [With Peltola Announcement, Alaska Senate Moves to Lean Republican](https://www.cookpolitical.com/analysis/senate/alaska-senate/peltola-announcement-alaska-senate-moves-lean-republican)
+**Author:** Jessica Taylor | **Published:** 2026-01-12
 
+The Cook Political Report analyzed the race after Peltola’s entry and shifted Alaska’s rating from Solid to Lean Republican — acknowledging Peltola’s crossover appeal while still favoring the GOP baseline (Cook cites Trump’s big 2024 advantage in Alaska). Relevance: a respected independent handicapper’s view that the race is competitive but still starts from a Republican advantage; this undercuts claims that Peltola should be a clear favorite and helps explain why a ~52.5% market price is not obviously extreme.
 
+### [Petition to repeal Alaska ranked-choice voting will go in front of voters](https://www.alaskasnewssource.com/2025/12/31/petition-repeal-alaskas-election-reform-law-will-go-front-voters/)
+**Author:** KTUU staff | **Published:** 2025-12-31
+
+KTUU reports the ballot initiative petition to repeal Alaska’s top‑four primary and ranked‑choice voting (Ballot Measure 2) qualified and will appear on the Nov 3, 2026 ballot unless the legislature acts. Relevance: confirms a potential structural change to Alaska’s election system that adds uncertainty to long‑term dynamics and could affect campaign strategy and turnout; it’s a complicating factor for projecting outcomes and could justify conservative pricing.
+
+### [Alaska Senate: Dan Sullivan raises $1.4 million in Q4](https://www.axios.com/2026/01/28/alaska-senate-sullivan-peltola-fundraising)
+**Author:** Hans Nichols / Axios | **Published:** 2026-01-28
+
+Axios reports Sullivan’s Q4 fundraising (~$1.4M) and notes Sullivan’s multi‑million cash on hand (~$5.8M reported entering 2026) while also noting Peltola’s $1.5M haul in her first 24 hours after launching. Relevance: fundraising figures are key indicators of campaign capacity; Peltola’s early surge shows viability while Sullivan’s cash advantage explains incumbent resilience — both facts reduce the likelihood of a very large mispricing in either direction.
+
+### [2026 Alaska Senate - Sullivan vs. Peltola (polling aggregation)](https://www.realclearpolitics.com/epolls/2026/senate/ak/2026_alaska_senate_sullivan_vs_peltola-8754.html)
+**Author:** RealClearPolitics (aggregation) | **Published:** Unknown
+
+RealClearPolitics provides an aggregation of available public polls for the hypothetical Sullivan vs. Peltola matchup, showing multiple close polls (spreads within ±1–2 points). Relevance: aggregated polling confirms the race is tightly contested and that public evidence supports treating this seat as near‑tossup; that undercuts any conclusion that the market price is wildly out of line with public data.

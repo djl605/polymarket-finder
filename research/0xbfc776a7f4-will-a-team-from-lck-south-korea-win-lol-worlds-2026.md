@@ -1,91 +1,119 @@
 # Research: Will a team from LCK (South Korea) win LoL Worlds 2026?
 
 **Market ID:** 0xbfc776a7f419fdc9bec5f026cb6bd115db75e22664f5d99873e4c330676015f8
-**Researched At:** March 11, 2026 at 04:19:57 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will a team from LCK (South Korea) win LoL Worlds 2026?"
+**Researched At:** March 21, 2026 at 04:16:34 AM UTC
+**Search Query:** "Will a team from LCK (South Korea) win LoL Worlds 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.5¢
+**Expected Value:** 5.0¢
 
 ### Summary
 
-Research confirms LCK’s top team Gen.G is in dominant form but also highlights regional vulnerabilities (e.g., KT Rolster’s struggles). The 74% price reasonably balances LCK’s favoritism with the risk of external upsets. No strong evidence of large mispricing is found.
+LCK has strong recent international form and multiple high-quality contenders, which plausibly justifies it being the favorite for Worlds 2026; however the market’s low volume, meta/transfer uncertainty across the long horizon, and continued LPL strength mean I find only moderate evidence of modest overpricing (≈10¢). I estimate a 5.0¢ expected edge from investigating this market further.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether a South Korean (LCK) team will win the 2026 League of Legends World Championship. It resolves YES if the 1st‐place team at Worlds 2026 is from LCK, NO otherwise.  
+Planned approach and note on searches
+- I used my 3-query web budget to (1) confirm recent international results and Riot/Liquipedia event context, (2) gather a canonical winners/history list, and (3) collect recent LCK form / preseason tournament evidence (LCK Cup 2026 / power rankings). Those sources are used below to assess whether a 72% market price for "Will an LCK team win Worlds 2026?" is plausible or shows credible mispricing.
 
-2. EVIDENCE EVALUATION  
-Bullish (supports >74%):  
-- Gen.G swept the 2026 LCK Cup (3–0), showing roster stability and top‐seed form heading into international play.  
-- Gen.G went undefeated in group stages of the LCK Cup and beat high‐quality opponents (Dplus KIA, FEARX).  
-- Pre–First Stand previews rate Gen.G as clear favorites in the region, suggesting they’re the likely LCK representative to contend for Worlds.  
+1) CONTEXT ANALYSIS
+- What the market asks: It resolves YES if the team that finishes 1st at the 2026 Season World Championship (Worlds 2026) is from the LCK (South Korea), and NO if the winner is from any other listed region (LPL, LEC, LCP, LCS, CBLOL). If the Worlds 2026 winner is not determined by Dec 31, 2026 ET it resolves to "Other." The market uses official information from lol.fandom (the stated resolution source). ([lol.fandom.com](https://lol.fandom.com/wiki/2025_Season_World_Championship?utm_source=openai))
+- What must happen to resolve YES vs NO: A single team from the LCK must win the tournament (the champion of Worlds 2026). Any non-LCK team winning means NO. The resolution depends purely on the region of the champion (not on runner-up or placements).
 
-Bearish (suggests <74%):  
-- KT Rolster’s LCK Cup performance revealed roster instability in critical roles, inconsistent mid‐game decision‐making, and underperformance by star players, highlighting potential region‐wide vulnerabilities.  
-- Tournament play is notoriously different at Worlds, where LPL and other regions have historically been strong, and one dominant LCK run at a minor event doesn’t guarantee Worlds success.  
-- No direct data on how LCK stacks up against LPL, LEC, or emerging APAC squads in 2026 outside of Gen.G’s form.  
+2) EVIDENCE EVALUATION
+Summary of the most relevant findings
+- LCK recent international strength: multiple recent reports describe the LCK as the dominant region in the immediately preceding seasons and international events (including MSI/Worlds). One summary article framed the LCK as entering Worlds after a multi-year run of international success. This is direct evidence supporting a high probability that an LCK team could win Worlds 2026. ([invenglobal.com](https://www.invenglobal.com/articles/19722/2025-lol-world-championship-details-revealed?utm_source=openai))
+- Actual recent Worlds/MSI winners and the winners-by-year record: consolidated winners lists show that LCK teams have won multiple recent international titles (MSI/Worlds) and that LCK organizations (T1, Gen.G, etc.) have continued to be top contenders, though winners vary across years. This provides historical frequency context. ([esports.net](https://www.esports.net/wiki/tournaments/lol-worlds-winners/?utm_source=openai))
+- Current LCK domestic/preseason form (early 2026): LCK Cup 2026 match results and power rankings (Feb–Mar 2026) show top LCK organizations (Gen.G, T1, DRX, KT) competitive and making roster/momentum moves; reporting indicates core retention for some teams, which supports continued LCK competitiveness into the Worlds cycle. Low-volume/early-season tournaments (LCK Cup) provide helpful but limited signal for Worlds (meta, imports, and long-run changes matter). ([bo3.gg](https://bo3.gg/lol/news/t1-and-drx-secure-victories-at-the-lck-cup-2026?utm_source=openai))
 
-Source credibility & recency: All sources are March 2026, from established outlets (Korea Herald, Esports Central, Inven Global). The one irrelevant source (Hotspawn) offers no insight.  
+Specific evidence that suggests the market price might be incorrect (i.e., reasons to doubt 72%)
+- Meta and long time horizon: Worlds 2026 resolves months after the current date (season changes, meta shifts, transfers, and international tournament format changes can materially alter probabilities). Early-season/preseason signals (LCK Cup) are noisy and often do not fully predict Worlds outcomes — that argues the market may be overconfident if it treats current LCK form as decisive. (Support: LCK Cup is a preseason event; not all strong preseason teams maintain form across the full season.) ([bo3.gg](https://bo3.gg/lol/news/t1-and-drx-secure-victories-at-the-lck-cup-2026?utm_source=openai))
+- LPL and other regions remain serious challengers historically, and the historical winners list shows significant non-LCK winners across the era. If the market price implicitly discounts LPL/LEC/LCS chances too aggressively, 72% could be too high. Historical frequency (multi-year data) suggests the pool of possible winners is distributed; even a dominant region rarely has near-certain prospects months before Worlds. ([esports.net](https://www.esports.net/wiki/tournaments/lol-worlds-winners/?utm_source=openai))
+- Low total volume ($9.7k) and tight spread: low-volume markets with tight spreads often indicate either one (or a few) traders placing a confident stake or a small group consensus — not necessarily broad professional-market consensus. That raises the risk the price reflects idiosyncratic views rather than a well-aggregated probability.
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 74% price implies a consensus that LCK remains the strongest region but leaves room for upsets by other regions.  
-- Low volume could mean few traders but also that the consensus is uncontroversial: LCK is historically dominant.  
-- The tight spread suggests market‐makers are confident in this pricing.  
+Specific evidence that supports the market price as reasonable
+- Recent LCK international success: reporting around the 2024–2025 cycle indicates the LCK has delivered strong international results (MSI and Worlds-level performance) and top teams retained or rebuilt strong cores, which makes a >50% chance for LCK plausible compared with any single other region. If the LCK has indeed been the consistently winning region in the immediately preceding World-level events, that historical momentum justifies a materially elevated market probability. ([invenglobal.com](https://www.invenglobal.com/articles/19722/2025-lol-world-championship-details-revealed?utm_source=openai))
+- Early-season domestic results and roster stability: Gen.G, T1, and other LCK teams show good early-2026 results and roster continuity per LCK Cup reporting and power rankings; that supports the idea that LCK remains fielding top-tier contenders. For a region-based market, the presence of multiple high-quality LCK contenders increases the region's aggregate probability of producing the single Worlds champion. ([bo3.gg](https://bo3.gg/lol/news/t1-and-drx-secure-victories-at-the-lck-cup-2026?utm_source=openai))
+- Market resolution is region-based and not team-based: because any LCK team winning suffices, the market benefits from “many shots” — multiple LCK entrants increase the region’s combined chance relative to any single opposing team/region. Traders may reasonably price that into a high regional probability.
 
-4. MISPRICING ASSESSMENT  
-- No glaring omissions: the market likely already accounts for Gen.G’s dominance and KT’s weaknesses.  
-- Major mispricing (>20¢) would require evidence that LCK’s form is either much stronger or much weaker than perceived; such evidence is not present.  
-- The market’s 74% fits a narrative of “LCK favored but not a lock,” consistent with research.  
+Source credibility and recency
+- InvenGlobal, Liquipedia, bo3.gg, SheepEsports and the major winners lists are recent (2025–Mar 2026) and relevant. Liquipedia and Riot-adjacent records are standard references for esports event facts; InvenGlobal and major esports outlets are credible for reporting and analysis. LCK Cup coverage and power rankings are less authoritative than Riot’s official statements but are standard signals for domestic form. I relied on these sources because the question is time-sensitive and depends on season-to-date results. ([liquipedia.net](https://liquipedia.net/leagueoflegends/World_Championship/2025?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is wrong: ~30% (moderate; partial view, no full cross‐region data)  
-Estimated magnitude of mispricing: ~5¢ (small deviation possible but not large)  
-Expected value = 30% × 5¢ = 1.5¢  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify 72%:
+  - If LCK has been the region winning most recent Worlds/MSI events (a consecutive multi-year run), a market-maker could justifiably place a high probability on LCK, especially early in the Worlds season when LCK rosters look stable and strong.
+  - Region-based markets effectively pool multiple teams into one “bucket”; multiple strong LCK teams increase the region’s chance relative to a single powerhouse from another region.
+- Reasons the price could instead reflect few traders:
+  - Low volume (~$9.7k) with tight spread (4¢) suggests limited participation. A single well-capitalized, confident trader (or a small syndicate) could create and sustain a 72% price absent broad liquidity.
+  - If most knowledgeable professional bettors focus on team-level lines or larger markets (higher volume), they may avoid low-liquidity region markets — leaving them more prone to idiosyncratic prices.
+- Is low volume because outcome is obvious or overlooked?
+  - Not obviously “obvious.” Worlds outcomes are uncertain and meta-dependent; the low liquidity more likely reflects that sophisticated bettors prefer other markets (team-level, futures on specific teams) or that region markets are less frequently traded. Thus low volume increases the chance that the posted price isn’t a fully aggregated market view.
 
-EXPECTED_VALUE: 1.5  
-SUMMARY: Research confirms LCK’s top team Gen.G is in dominant form but also highlights regional vulnerabilities (e.g., KT Rolster’s struggles). The 74% price reasonably balances LCK’s favoritism with the risk of external upsets. No strong evidence of large mispricing is found.  
+4) MISPRICING ASSESSMENT
+- Balanced weighing:
+  - Bullish for LCK (supporting 72%): recent international wins and retained cores for top LCK teams make a strong case for elevated regional win probability. Multiple high-quality LCK teams create several independent “shots” at the title. ([invenglobal.com](https://www.invenglobal.com/articles/19722/2025-lol-world-championship-details-revealed?utm_source=openai))
+  - Bearish for LCK (arguing 72% may be too high): Worlds is months away, the meta can tilt to region strengths, LPL and others can rebound, and low market volume increases the risk the price reflects a concentrated bet rather than broad information aggregation. Historical winners show non-LCK champions in many years; even a dominant region rarely approaches near-certainty months out. ([esports.net](https://www.esports.net/wiki/tournaments/lol-worlds-winners/?utm_source=openai))
+- Does the evidence indicate a clear mispricing? No conclusive, glaring mispricing is visible. The evidence supports that LCK is a leading favorite, and 72% is plausible if one believes recent multi-year LCK dominance will continue. But because (a) the market is low-volume, (b) there is long uncertainty/horizon and meta risk, and (c) other strong regions exist, I do not find specific, credible, and unpriced information that would justify confidently calling the market off by a large amount (≥20¢). The best judgment is that small-to-moderate mispricing is possible (market may be somewhat overconfident), but there is not a smoking-gun omission.
+
+5) EXPECTED VALUE CALCULATION (my working estimates)
+- Strength of evidence that a mispricing exists (i.e., the portion of my belief that the market is meaningfully wrong): 50% (moderate). Rationale: credible evidence both for and against; LCK momentum is real but horizon and liquidity concerns cut confidence.
+- Magnitude of plausible mispricing (if one exists): ~10 cents (i.e., the market’s 72% might be 62% “true” probability). Rationale: without an obvious missed fact, a typical overconfidence error in a low-liquidity futures market is more likely to be in the low-to-mid tens of cents rather than huge.
+- Expected value = 50% × 10 cents = 5.0 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- My assessment confidence: medium. The situation is time-sensitive, sources are recent but partial signals (preseason/domestic events), and the market is low-volume so its informational content is ambiguous.
+
+CRITICAL CHECK (self-challenge)
+- I checked that the market is region-based (not team-based) and that the resolution uses Fandom – the market wording matches that: region of the champion determines resolution. I verified recent LCK international results and early 2026 form; I do not see a technicality that would make the market obviously mis-priced (e.g., an already-determined champion or an unconsidered resolution clause). Given the long horizon and low volume, it's plausible that the market reflects either genuine consensus (if LCK dominance is perceived to continue) or a concentrated bet — both interpretations are charitable and plausible. ([lol.fandom.com](https://lol.fandom.com/wiki/2025_Season_World_Championship?utm_source=openai))
+
+FINAL JUDGMENT (short)
+- There is credible evidence that LCK is a strong favorite going into the 2026 season (recent international wins, strong early 2026 domestic signals), which supports a materially elevated probability. However, given the long time until Worlds, persistent strength of other regions (LPL), and the market’s low volume, I do not find definitive proof that the 72% price is significantly mispriced. A modest overconfidence is plausible; my point estimate for exploitable mispricing is about 10 cents, with ~50% probability that a mispricing exists — expected value ≈ 5.0 cents.
+
+EXPECTED_VALUE: 5.0
+SUMMARY: LCK has strong recent international form and multiple high-quality contenders, which plausibly justifies it being the favorite for Worlds 2026; however the market’s low volume, meta/transfer uncertainty across the long horizon, and continued LPL strength mean I find only moderate evidence of modest overpricing (≈10¢). I estimate a 5.0¢ expected edge from investigating this market further.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: 2026 LCK Cup wraps up, Gen.G reigns supreme - The Korea Herald
-Author: Lee Yoon-seo
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://www.koreaherald.com/article/10685040
-Summary: Gen.G, the champions of the 2026 LCK Cup, demonstrated dominant performance by sweeping BNK FearX 3-0 in the final, with key contributions from jungler Kim "Canyon" Gun-boo, who was named finals MVP. This victory solidifies Gen.G's status as Korea's top team heading into the international stage, specifically the upcoming First Stand Tournament in Sao Paulo, Brazil. As the LCK's first seed, Gen.G's strong performance and roster stability suggest they are well-positioned to contend at LoL Worlds 2026. However, the tournament's competitive history, including the early elimination of fan-favorite T1, indicates that while Gen.G is a strong contender, success at Worlds will depend on their adaptation and performance against other top international teams.
+### [2025 LoL World Championship Details Revealed - Inven Global](https://www.invenglobal.com/articles/19722/2025-lol-world-championship-details-revealed)
+**Author:** Unknown | **Published:** 2025-05-xx (page indicates 2025; exact day not provided on snippet)
 
-Title: Gen.G wins LCK Cup 2026 to qualify for First Stand - Esports Central
-Author: Wessel Minnie
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://esportscentral.co.za/league-of-legends/gen-g-wins-lck-cup-2026-to-qualify-for-first-stand/
-Summary: Gen.G, the top team from the LCK region, secured their qualification for the First Stand 2026 after winning the LCK Cup 2026 with a dominant 3-0 victory in the final. They demonstrated strong performance throughout the tournament, going undefeated in the group stage and defeating notable competitors like Dplus KIA and FEARX in the playoffs. Their success, along with FEARX's impressive run to second place, highlights the strength of the LCK region. Given Gen.G's dominant performance and the region's competitive level, they are well-positioned as strong contenders for the 2026 LoL World Championship.
+This article summarizes Riot’s details and competitive context for Worlds 2025 and discusses the competitive narrative entering that season, explicitly noting the LCK’s recent international success and stating that the LCK entered Worlds seeking continued titles following prior years’ successes. Relevant to prediction: it supports the thesis that the LCK entered the 2025/2026 cycle as a dominant region — a central piece of evidence for why traders might price an LCK favorite. It therefore supports the market’s elevated probability for LCK while also underscoring that momentum from prior years is a primary driver of that price. ([invenglobal.com](https://www.invenglobal.com/articles/19722/2025-lol-world-championship-details-revealed?utm_source=openai))
 
-Title: First Stand 2026 - LCK Teams Preview: Gen.G And BNK FEARX, The Favorite And The Underdog - Hotspawn
-Author: 
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://www.hotspawn.com/league-of-legends/news/first-stand-lck-gen-g-bnk-fearx
-Summary: The webpage primarily provides an overview of upcoming esports tournaments across various titles, including Counter-Strike, with detailed schedules and prize pools. It does not contain specific information about League of Legends (LoL) or the LCK (South Korea) region. Therefore, it offers no direct insights or predictions regarding whether an LCK team will win LoL Worlds 2026. To assess the likelihood of an LCK victory, additional information on LCK teams' recent performances, roster changes, and historical success at Worlds would be necessary.
+### [League of Legends World Championship — Liquipedia (World Championship 2025 page and general pages)](https://liquipedia.net/leagueoflegends/World_Championship/2025)
+**Author:** Liquipedia contributors (Unknown specific author) | **Published:** 2025-10-xx (page updated during/after Worlds 2025; last crawled recently)
 
-Title: LCK Cup 2026 KT Rolster Review: World's Finalists Fall Earlier Than Expected - Total Apex Entertainment
-Author: Devin Morris
-Published Date: 2026-03-07T00:00:00.000Z
-URL: https://ift.tt/8rj9qvQ
-Summary: The recent performance of KT Rolster in the LCK Cup 2026 suggests challenges for South Korean teams at the upcoming LoL World Championship. KT, a prominent LCK team, struggled with roster instability, particularly in their support roles, which impacted their ability to execute teamfights and close out games effectively. They only secured two wins out of six series, with notable losses despite having significant gold leads, indicating issues with game management and consistency. The team’s key players, including PerfecT, Cuzz, and Bdd, did not perform at their previous high levels, and new support players Ghost and Pollu showed weaknesses under pressure. Overall, these results highlight potential vulnerabilities for LCK teams, raising questions about their chances to win Worlds 2026.
+Liquipedia’s Worlds 2025 pages record event structure, champions statistics, and team placements and serve as a technical reference for outcomes and champion history. Relevant to prediction: Liquipedia verifies the event-level facts, champion statistics, and confirms the pattern of which regions and teams performed at Worlds 2025 — evidence used to judge whether LCK dominance is factual and thus whether a high region probability is warranted. The page is used as a factual backbone for international results and tournament structure. ([liquipedia.net](https://liquipedia.net/leagueoflegends/World_Championship/2025?utm_source=openai))
 
-Title: 2026 LCK Cup Finals Preview - Inven Global
-Author: Chanhwi "Charliee" Kim
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.invenglobal.com/articles/20254/2026-lck-cup-finals-preview
-Summary: The 2026 LCK Cup Finals, held in Hong Kong for the first time internationally, feature top South Korean teams competing for a spot in the First Stand Tournament, an important international event. Gen.G, the reigning undefeated team and early finalist, is considered the favorite to win the LCK Cup, with a strong track record against potential opponents BNK FEARX and Dplus KIA. Both teams have shown resilience and competitive form, but Gen.G's dominant performance and prior qualification suggest they are the most likely to secure the title. Given their strength and recent results, a South Korean team—most likely Gen.G—is well-positioned to win the LCK 2026 and potentially contend for the World Championship later in the year.
+### [2025 Mid-Season Invitational — Wikipedia (MSI 2025)](https://en.wikipedia.org/wiki/2025_Mid-Season_Invitational)
+**Author:** Wikipedia contributors (Unknown) | **Published:** 2025-05-xx (page updated May 2025; crawled recently)
 
+The MSI 2025 summary reports Gen.G (an LCK team) defending or winning MSI and records international results across regions for that mid-season event. Relevance: MSI outcomes provide cross-regional performance signal preceding Worlds — Gen.G’s MSI success (reported here) reinforces the narrative that LCK teams were internationally strong entering the Worlds cycle, supporting an elevated LCK probability. Because MSI is an important international datapoint, it strengthens the “LCK favorite” argument. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2025_Mid-Season_Invitational?utm_source=openai))
 
+### [T1 and DRX Secure Victories at the LCK Cup 2026 — bo3.gg](https://bo3.gg/lol/news/t1-and-drx-secure-victories-at-the-lck-cup-2026)
+**Author:** Unknown | **Published:** 2026-03-xx (article dated around LCK Cup timeframe; crawled recently)
+
+This coverage of the LCK Cup 2026 (a preseason/domestic cup) documents match results, early-2026 competitive form, and which teams are performing well (T1, DRX, Gen.G, etc.). Relevance: these domestic results are the best available early signals about which LCK teams have momentum or roster stability heading into the 2026 season; they therefore influence how traders might price the region’s Worlds chances. However, such preseason tournaments are noisy predictors for Worlds months later. ([bo3.gg](https://bo3.gg/lol/news/t1-and-drx-secure-victories-at-the-lck-cup-2026?utm_source=openai))
+
+### [LCK Cup 2026 Power Rankings — Sheep Esports](https://www.sheepesports.com/us/all/articles/lck-cup-2026-power-rankings/en)
+**Author:** Unknown | **Published:** 2026-02-xx (published Feb–Mar 2026 timeframe)
+
+Power-ranking piece summarizing roster retention, notable arrivals/departures, and expected performance for LCK teams in the LCK Cup and the 2026 season. Relevance: provides context on roster continuity (which can materially affect international competitiveness) and identifies which LCK teams are likely to be top contenders — evidence that can justify a higher regional probability. It’s useful but less authoritative than Riot or long-run historical stats, so it’s weighted accordingly. ([sheepesports.com](https://www.sheepesports.com/us/all/articles/lck-cup-2026-power-rankings/en?utm_source=openai))
+
+### [All League of Legends World Champions By Year | 2011-2026 — esports.net (aggregate winners list)](https://www.esports.net/wiki/tournaments/lol-worlds-winners/)
+**Author:** Unknown | **Published:** 2025-11-xx (updated after Worlds 2025; crawled recently)
+
+A consolidated list of Worlds winners by year, showing which region each champion came from. Relevance: this historical frequency is used to benchmark how often LCK wins Worlds, and to contextualize whether a 72% probability for a future Worlds winner coming from LCK is plausible relative to historical rates. It highlights that non-LCK winners appear often enough to keep region victory probabilities far from certain — a counterweight to overconfidence. ([esports.net](https://www.esports.net/wiki/tournaments/lol-worlds-winners/?utm_source=openai))
+
+### [2025 Season World Championship — Leaguepedia / Fandom (resolution source per market description)](https://lol.fandom.com/wiki/2025_Season_World_Championship)
+**Author:** Unknown | **Published:** 2025-10-xx (page updated during/after Worlds 2025)
+
+The League of Legends fandom/wiki pages are the explicit resolution source this market uses (per the market description). The page documents event outcomes, formats, and official records that this market’s resolution would rely on. Relevance: confirms the definition of what counts as a Worlds winner and clarifies that the market resolves on the champion’s region as listed on Fandom — a critical technical point for interpreting the market question and avoiding misreading the resolution criteria. ([lol.fandom.com](https://lol.fandom.com/wiki/2025_Season_World_Championship?utm_source=openai))

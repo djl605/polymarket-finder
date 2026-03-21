@@ -1,92 +1,128 @@
 # Research: Ostium FDV above $300M one day after launch?
 
 **Market ID:** 0x1295f32dd594927e3a46dcf6f041233d2e762b5e3eb6d900235ce0a5ebf2364c
-**Researched At:** March 10, 2026 at 03:03:00 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Ostium FDV above $300M one day after launch?"
+**Researched At:** March 21, 2026 at 04:16:39 AM UTC
+**Search Query:** "Ostium FDV above $300M one day after launch?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 2.0¢
+**Confidence:** Low
+**Expected Value:** 4.5¢
 
 ### Summary
 
-Bullish Delphi Digital valuation models point to a base-case FDV around \$500 M, but AInvest’s report of no announced launch timeline and Delphi’s \$250 M bear case cap the probability at roughly one-third. With mixed signals on both launch timing and post-launch demand, the 35% market price appears broadly in line with available evidence.
+Ostium has an active Points Program and institutional backing (reported Series A and ~\$250M valuation), making an FDV > \$300M plausible if tokenomics/TGE favor a modest supply and meaningful unlocked float. However, no official tokenomics or TGE schedule is published; that key unknown makes the market’s 23.5% price a reasonable, cautious estimate and I find insufficient public evidence to assert a clear mispricing. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market asks whether Ostium’s token will launch by 12/31/2026 and, one day after launch (4 PM ET next calendar day), trade at a price implying a fully diluted valuation (total supply × price) above \$300 million. A “Yes” requires both a token launch by the deadline and a post-launch FDV > \$300 M; otherwise it resolves “No.”  
+I searched authoritative and contemporaneous sources about Ostium’s token status, tokenomics, company funding/valuation, and the Points program. Below is my structured analysis addressing each requested item, with citations to the most relevant sources.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence:  
-- Delphi Digital’s napkin math (2026-02-13) shows Ostium has high trading volume (\$39.4 B) and fees (\$18.5 M), raised \$20 M at a \$250 M valuation, and a base-case FDV of \$500 M after launch, implying >50% chance to clear \$300 M if launch-day demand is normal.  
-- Analogous AI infrastructure launches (USD.AI article, 2026-03-05) have reached FDVs around \$270–\$320 M immediately post-launch, suggesting the crypto-AI sector can clear the \$300 M bar.  
+1) CONTEXT ANALYSIS — what the market asks and resolution conditions
+- Market question: Will Ostium’s token have a Fully Diluted Valuation (FDV) > $300M one day after launch (resolution at 4:00 PM ET on the calendar day after the token becomes actively, publicly transferable and tradable)? ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+- For the market to resolve YES:
+  - Ostium must launch a token that is actively, publicly transferable and tradable before the 2026-12-31 cutoff. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+  - The FDV calculated at the market’s resolution source (total token supply × token price at that quoted price) must exceed $300 million at 4:00 PM ET the day after launch. That requires either (a) a total supply and circulating/listing price that multiply to > $300M, or (b) a very small total supply but a high listing price producing > $300M.
+- For the market to resolve NO:
+  - Either Ostium does not launch a tradable token before the deadline, or the launched token’s FDV (as determined by the resolution price source) is ≤ $300M at the specified timestamp.
 
-Bearish evidence:  
-- AInvest (2026-02-16) reports no announced token launch by Q3 2026; lack of formal timeline raises risk of missing the 12/31/2026 launch deadline entirely (automatic “No”).  
-- Delphi’s bear case FDV is \$250 M, and only ~20 M of 56 M tokens will likely be distributed on Day 1, limiting immediate liquidity and price discovery.  
+2) EVIDENCE EVALUATION — what evidence I found and how it bears on the probability
+Key factual points from the research
+- Ostium launched an official “Ostium Points Program” on March 31, 2025. The program tracks user activity and awards points as engagement incentives; the program text explicitly disclaims that points have monetary value and says nothing in the announcement that guarantees a token or definitive tokenomics / TGE schedule. This is Ostium’s own announcement and a PR distribution of that announcement. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+  - Relevance: Points programs are commonly used as a pre-airdrop engagement mechanism, so this is consistent with the project preparing the community for a possible future token, but the announcement does not commit to a token generation event (TGE) nor give token supply/allocations. That missing information is central to computing FDV outcomes.
+- Multiple reputable outlets and aggregators report Ostium has raised institutional capital (Series A and prior rounds) and press coverage indicates a post-money company valuation in the neighborhood of ~$250M after the Series A. That investor participation (General Catalyst, Jump/Jump Crypto, SIG/Susquehanna and others) signals credible backers and makes a meaningful Day‑1 FDV plausible if tokenomics allocate a substantial fraction of total supply at non-trivial listing price. ([techmeme.com](https://www.techmeme.com/251202/p54?utm_source=openai))
+  - Relevance: A ~$250M pre-/post-money valuation is an anchor for what investors and markets might expect a token FDV to approach — but venture valuations and token FDV are different constructs and do not automatically imply a token FDV > $300M.
+- Secondary trackers and launch aggregators (CoinLaunch, project writeups) state that as of April 2025 there was no public token, and they reference the Points program as the current community mechanism. They repeat that tokenomics / total supply / TGE date remain unpublished. ([coinlaunch.space](https://coinlaunch.space/projects/ostium-labs/?utm_source=openai))
+  - Relevance: The absence of published tokenomics (total supply, allocation, unlocks, TGE unlock rate) is the single largest practical unknown for deciding whether FDV will exceed $300M on day one. Without supply details, FDV cannot be determined before launch.
+- Analyst/aggregator commentary (Polychances / prediction-analytics pieces) argue that given funding/traction and comparables in the sector, FDV > $300M is plausible — but those analyses rely on inferred tokenomics assumptions (e.g., percentage of supply unlocked at TGE and pricing multiples relative to venture valuation). Those are model-driven, not official facts. ([polychances.com](https://polychances.com/polymarket-events/ostium-fdv-above-one-day-after-launch/?utm_source=openai))
+  - Relevance: These analyses provide scenarios showing how FDV > $300M could happen (e.g., if tokenomics allocate enough supply to market at a price that multiples to > $300M), but they are not direct evidence.
 
-Source credibility and recency: All research is from Feb–Mar 2026 and from reputable industry analysts (Delphi Digital, AInvest, Whales.Market), so reasonably reliable.  
+What evidence suggests the market price might be incorrect (i.e., undervalues or overvalues the >$300M chance)?
+- Evidence that could push the probability higher:
+  - Strong institutional backing and reported ~$250M company valuation: typical crypto token launches backed by Tier‑1 investors and with active user bases often see elevated Day‑1 listing interest and market-maker support, which can push FDV above comparable firm valuations in the immediate aftermarket (short-term “launch premium”). If Ostium’s tokenomics allocate a modest portion of supply to circulating holders at TGE, even modest listing prices could create FDV > $300M. This supports the plausibility of YES. ([techmeme.com](https://www.techmeme.com/251202/p54?utm_source=openai))
+  - Ostium’s real-usage metrics (cited in secondary analyses) — cumulative trading volume and active users — would support demand at launch if token utility drives demand. These operational metrics make a token that captures some protocol value more credible. ([help.weex.com](https://help.weex.com/predictions/ostium-labs-demystified-key-facts-and-investment-considerations-for-april-2025/?utm_source=openai))
+- Evidence that could push the probability lower:
+  - No published tokenomics, total supply, or TGE schedule: FDV depends on total supply and early unlocked supply. Without that, a launch could easily be structured with an enormous total supply and heavy team/treasury allocations or large vesting that result in low early implied FDV or low immediate price; or the team may not launch a token at all by the deadline. These unknowns justify skepticism. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+  - The Points Program explicitly states points have no monetary value and does not promise conversion to tokens. That language legally and publicly allows the project to run a long-term engagement program without ever producing a token (or to produce a token with conservative initial distribution), which materially lowers the probability of a >$300M FDV. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+  - Market-making/listing support is not guaranteed — even with top-tier backers, some launches have conservative initial float and/or exchange listings that produce modest Day‑1 FDVs. Until tokenomics are public, scenarios with FDV ≤ $300M are equally plausible. ([polychances.com](https://polychances.com/polymarket-events/ostium-fdv-above-one-day-after-launch/?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-- The 35% price plausibly blends ~80% chance of a launch by 12/31/2026 (informed by AInvest’s silence on Q3 timing) with ~50% chance FDV > \$300 M conditional on launch, yielding ~40% implied.  
-- Low volume and tight spread indicate that a few well-informed traders have set the price, but it may nonetheless represent a genuine consensus view given the mix of bullish valuation and bearish timing uncertainty.  
+Source credibility and recency
+- Ostium’s own blog post and the PRNewswire release are primary, authoritative, and recent (Points program announced March 31, 2025 / PR in early April 2025). These are high credibility for the fact that Ostium has a Points Program and the specific program mechanics/legals. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+- Tech/crypto press aggregation (Techmeme, Fortune excerpts) reporting the $20M Series A and ~$250M valuation are secondary but cite direct reporting; they are reasonably reliable for the fact of institutional funding and reported valuation, although individual outlet details should be cross-checked before treating the valuation as a hard anchor. The fundraising detail is recent (reported in late 2025) and materially relevant to market expectations of token value. ([techmeme.com](https://www.techmeme.com/251202/p54?utm_source=openai))
+- Aggregator sites (CoinLaunch, Polychances) compile project metrics and scenario analysis; these are useful for scenario construction but are not primary confirmations of tokenomics. Treat them as background evidence. ([coinlaunch.space](https://coinlaunch.space/projects/ostium-labs/?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-- No strong, specific evidence appears entirely unreflected in the 35% price; both sides of the argument are factored into that figure.  
-- Large mispricings (>20 ¢) would require missing a major upcoming announcement or regulatory shift, for which we have no credible indication.  
+Synthesis — bullish vs bearish viewpoints (and why each might not be decisive)
+- Bullish view (supports YES):
+  - Institutional backers and reported ~$250M company valuation + real usage = plausible demand and Day‑1 premium; with favorable tokenomics (moderate total supply, enough unlocked tokens), FDV could exceed $300M. Market makers and exchange listing support can amplify early price. ([techmeme.com](https://www.techmeme.com/251202/p54?utm_source=openai))
+- Bearish view (supports NO):
+  - No official tokenomics and program language explicitly disclaims monetary value of Points; the team could design TGE supply/unlock/allocations to yield low early FDV, or delay/never launch a tradable token before the Dec 31, 2026 cutoff. Those unknowns materially reduce observable probability. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+- Why these views may both be underpowered:
+  - If tokenomics become public and show a typical community-heavy airdrop with a moderate total supply and meaningful immediate float, YES becomes much more likely; conversely, if tokenomics show a very large total supply or tiny unlock at TGE, NO becomes more likely. The current public record lacks these decisive details, so both perspectives are speculative and would likely already be considered by informed traders.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that the market misses something crucial: ~40%  
-Plausible mispricing magnitude: ~5 ¢  
-Expected value = 40% × 5 ¢ = 2.0 ¢  
+3) MARKET EFFICIENCY ANALYSIS — is the 23.5% price plausible?
+- Reasonable interpretations that justify ~23.5%:
+  - Market participants are pricing significant uncertainty about (a) whether a token will be launched before Dec 31, 2026, and (b) whether tokenomics will produce an FDV > $300M on Day 1. Given the Points Program wording and lack of tokenomics, 23.5% is a conservative estimate reflecting the plausible but not certain chance of a favorable TGE structure and market enthusiasm. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+  - The low total traded volume (~$4.98k) and narrow spread (1¢) indicate thin trading and probably one or a few active participants or an automated market maker maintaining a quote. A narrow spread does not on its own imply a well‑informed or liquid market — it can be a product of a single liquidity provider setting narrow quotes. That makes the observed probability fragile. (Market metrics from the market prompt.) 
+- Could price reflect consensus among informed traders or only a few?
+  - Given low volume and the still-unpublished tokenomics, it is more likely that the price reflects the beliefs of few traders or a risk-averse automated pricing model rather than broad, well-informed consensus. If institutional signals (funding + usage) were strongly translating to near-term tokenomics that implied >$300M FDV, we would expect more trading interest and wider engagement from professional airdrop speculators; the low volume argues that either (1) such information is not yet available or (2) professional traders are skeptical or waiting for tokenomics. ([techmeme.com](https://www.techmeme.com/251202/p54?utm_source=openai))
+- Is low volume because the outcome is obvious or because traders haven’t engaged?
+  - The evidence points to the latter: the outcome is not obvious (tokenomics and TGE schedule unknown), so informed traders are likely waiting for definitive token details before committing capital. That explains the low volume.
 
-EXPECTED_VALUE: 2.0  
-SUMMARY: Bullish Delphi Digital valuation models point to a base-case FDV around \$500 M, but AInvest’s report of no announced launch timeline and Delphi’s \$250 M bear case cap the probability at roughly one-third. With mixed signals on both launch timing and post-launch demand, the 35% market price appears broadly in line with available evidence.  
-CONFIDENCE: medium
+4) MISPRICING ASSESSMENT — weighing both sides
+- Do I have specific, credible evidence that the market is mispriced (i.e., the public price is missing decisive information)? No. The decisive input (total token supply and TGE unlock/float) is not public. Because FDV = total supply × price, small changes in supply assumptions completely change whether FDV > $300M. Without tokenomics, any firm assertion of mispricing is speculative.
+- Charitable interpretation of the market price:
+  - The market’s ~23.5% reflects legitimate uncertainty driven by (1) absence of tokenomics/TGE details, (2) the possibility the project may delay or not launch a token by the cutoff, and (3) realistic scenarios where token supply/unlocks yield FDV ≤ $300M even if the firm valuation is ~$250M. That is a reasonable, cautious stance.
+- Scenarios where the market would be materially mispriced:
+  - If Ostium publicly released tokenomics showing a relatively small total supply (or a large fraction unlocked and circulating at TGE) and large community allocations implying immediate market interest, yet the market remained at ~23.5%, that would be strong evidence of undervaluation. Conversely, if tokenomics showed huge total supply or tiny float, a higher market price would be mispricing. At present, neither trigger exists in public sources.
+
+5) EXPECTED VALUE CALCULATION — my estimate of the value of investigating/trading this market
+- Strength of evidence (how confident I am that relevant, missing facts would change the probability): 30% (the single biggest missing fact is tokenomics; if revealed in a bullish configuration, it materially moves the probability, but that is uncertain). (30% strength)
+- Estimated magnitude of possible mispricing (if the market is wrong) — plausible range:
+  - Reasonable bullish scenario: true probability might be ~40% (market 23.5% ⇒ ~16.5 cents mispricing).
+  - Reasonable bearish scenario: true probability might be lower than market (say 10%) ⇒ ~13.5 cents overpricing.
+  - Given symmetric uncertainty and a conservative stance, I estimate a plausible magnitude of mispricing around 15 cents.
+- Expected value = Strength × Magnitude = 0.30 × 15 cents = 4.5 cents.
+  - Therefore EXPECTED_VALUE ≈ 4.5 cents.
+
+(Critical self‑check: this is a modest expected edge. The calculation hinges on an uncertain tokenomics reveal; if tokenomics are revealed in a way strongly favoring YES or NO, the market will move quickly. Given the low volume and the narrow spread, an informed trader would likely wait for the tokenomics release or public TGE announcement before committing significant capital.)
+
+6) CONFIDENCE IN THIS ASSESSMENT
+- My overall confidence level in this assessment is: low.
+  - Rationale: the analysis is constrained by the single dominant missing fact — published tokenomics and TGE details — which would overwhelmingly determine the actual outcome. Because that data remains unpublished, any probability deviation from the market is speculative.
+
+FINAL LINES (as requested)
+EXPECTED_VALUE: 4.5
+SUMMARY: Ostium has an active Points Program and institutional backing (reported Series A and ~\$250M valuation), making an FDV > \$300M plausible if tokenomics/TGE favor a modest supply and meaningful unlocked float. However, no official tokenomics or TGE schedule is published; that key unknown makes the market’s 23.5% price a reasonable, cautious estimate and I find insufficient public evidence to assert a clear mispricing. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
+CONFIDENCE: low
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Polymarket Odds: Ventuals FDV above ___ one day after launch ...
-URL: https://polychances.com/polymarket-events/ventuals-fdv-above-one-day-after-launch/
-Summary: The webpage discusses a prediction market on Polymarket regarding Ventuals' Fully Diluted Valuation (FDV) one day after launch. The market's outcome depends on whether Ventuals' token FDV exceeds a specified threshold (not provided in the excerpt). Current AI consensus and market data suggest a low probability (~69-71%) that Ventuals' FDV will surpass high thresholds like $300 million within one day of launch. Factors influencing this prediction include market sentiment, expected launch timing (likely in late 2026), and the risk of no token launch before the deadline. Given these insights, the likelihood of Ventuals' FDV exceeding $300 million one day after launch appears relatively low, with the consensus favoring the outcome "None of the options" (i.e., FDV not above $300M).
+### [Introducing the Ostium Points Program | Ostium](https://www.ostium.com/blog/introducing-the-ostium-points-program)
+**Author:** Unknown (Ostium) | **Published:** 2025-03-31
 
-Title: Here's Why USD.AI FDV Could Be $270M–$320M One Day After Launch!
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://whales.market/blog/usd-ai-chip-fdv-prediction/
-Summary: The article analyzes USD.AI's valuation prospects, suggesting its fully diluted valuation (FDV) could reach $270M–$320M shortly after launch. Key indicators include a trading volume of $562,500 (44% of total), a near-50% probability in the market, and valuation methods based on TVL multiples, fee multiples, and fundraising comparables—all converging within this range. USD.AI is a permissionless AI infrastructure lending protocol with a dual-token system (sUSDai and USDai) and has raised $17.4M from notable investors. Its current TVL is approximately $450M, with modest revenue figures, indicating early-stage growth. These factors collectively support the possibility of USD.AI's FDV exceeding $300M immediately post-launch, contingent on market dynamics and protocol adoption.
+Official announcement of Ostium’s Points Program, describing mechanics (points awarded for trading, referrals, liquidity provision), start date (March 31, 2025), weekly point allocations, and the legal language that points have no monetary value and do not represent ownership or rights to future rewards. Relevant because it confirms Ostium’s public engagement/airdrop-style infrastructure (consistent with a future token but not a commitment), and crucially it contains the explicit disclaimer and lack of any published tokenomics/TGE schedule — the central missing fact for computing FDV on Day 1. This source supports caution about a Yes resolution absent further tokenomic details. ([ostium.com](https://www.ostium.com/blog/introducing-the-ostium-points-program?utm_source=openai))
 
-Title: Ostium Airdrop: Points Napkin Math | Delphi Digital
-Author: 
-Published Date: 2026-02-13T00:00:00.000Z
-URL: https://members.delphidigital.io/feed/ostium-airdrop-points-napkin-math
-Summary: The article discusses Ostium's recent trading activity, valuation, and potential token distribution, providing context for assessing its future valuation. Ostium has traded over $39.4 billion with over $18.5 million in fees, and its on-chain liquidity and execution quality are highly competitive, especially with its RFQ system. The project recently raised over $20 million at a $250 million valuation, with a total token supply of 56 million points planned across three seasons, with about 20 million points remaining to be distributed in Season 2. The upcoming airdrop is expected to distribute between 18% and 30% of the total supply, likely around 20%. 
+### [Ostium Launches Competitive Points Program for Trading Activity and Liquidity Provision (PR Newswire)](https://www.prnewswire.com/apac/news-releases/ostium-launches-competitive-points-program-for-trading-activity-and-liquidity-provision-302417687.html)
+**Author:** Ostium Labs Co (news release) | **Published:** 2025-04-02
 
-Using different valuation scenarios:
-- Bear case: $250 million FDV
-- Base case: $500 million FDV
-- Bull case: $1 billion FDV
+Official press release distributed via PR Newswire describing the Points Program (launch timing, retroactive points allocation, mechanics) and summarizing Ostium’s mission and investor supporters. This press release corroborates Ostium’s own blog post and provides a timestamped public record that Ostium is running a points/engagement program rather than announcing a token TGE or tokenomics; it therefore supports the conclusion that token issuance remains uncertain and uncertain token details drive the market’s risk discount. ([prnewswire.com](https://www.prnewswire.com/apac/news-releases/ostium-launches-competitive-points-program-for-trading-activity-and-liquidity-provision-302417687.html?utm_source=openai))
 
-Given the current trajectory, recent trading volume, and the anticipated size of the airdrop, if Ostium's valuation surpasses $300 million shortly after launch, it would likely be underpinned by strong growth, high liquidity, and positive market sentiment, especially if the project maintains or accelerates its growth rate and market expansion.
+### [Ostium crypto Complete Analysis | Review, Presale & Airdrop (CoinLaunch)](https://coinlaunch.space/projects/ostium-labs/)
+**Author:** Unknown | **Published:** Unknown (page updated 2025)
 
-Title: Will Ostium launch a token by Q3 2026?
-Author: AInvest
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.ainvest.com/news/ostium-launch-token-q3-2026-2602/
-Summary: Currently, Ostium has not announced plans to launch a token, and its primary focus is on scaling its existing platform for synthetic perpetual futures trading of real-world assets. The company has raised $27.8 million in funding, valuing it at approximately $250 million, with no indication of a forthcoming token launch by Q3 2026. Given its emphasis on platform expansion and market penetration rather than tokenomics, predicting a future fully diluted valuation (FDV) exceeding $300 million immediately after a potential token launch remains speculative. Factors such as successful scaling, market adoption, and regulatory environment would significantly influence such a valuation.
+Aggregator/project page summarizing Ostium’s product, the Points Program, and noting there was no public native token information as of April 2025. The page highlights the Points program as the project’s likely airdrop mechanism. This source is relevant as a secondary aggregator that confirms the absence of public tokenomics and is useful for comparing how third-party trackers treat Ostium (they treat token launch as possible but unannounced), which supports the market’s discount for uncertainty. ([coinlaunch.space](https://coinlaunch.space/projects/ostium-labs/?utm_source=openai))
 
-Title: Aztec Price Prediction: FDV Could  be $300M-$600M after launch?
-Author: 
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://whales.market/blog/aztec-price-prediction/
-Summary: Aztec's initial public sale resulted in an implied Fully Diluted Valuation (FDV) of approximately $400M to $410M, with a total token supply of 10.35 billion AZTEC tokens. The sale allocated about 15% of tokens (~1.55B AZTEC) at an average price of around $0.039–$0.04 per token, raising roughly $61M. The project's tokenomics are designed to minimize immediate sell pressure, with significant lock-up periods for investors and team allocations, and no retroactive airdrops. Given the relatively low initial FDV compared to other Layer 2 projects and the structured token distribution, the circulating supply at launch will be limited (~18%), potentially supporting a higher valuation shortly after TGE. These factors suggest that Aztec's FDV could surpass $300M one day after launch, especially if market conditions favor strong demand for privacy-focused Layer 2 solutions.
+### [Polymarket Odds: Ostium FDV above ___ one day after launch? (AI Predictions / scenario analysis)](https://polychances.com/polymarket-events/ostium-fdv-above-one-day-after-launch/)
+**Author:** Unknown | **Published:** 2025-04 (page updated)
 
+Scenario/analysis page that synthesizes reported funding, project traction metrics, and comparable launches to model possible FDV outcomes at TGE. The piece cites reported funding and suggests that a ~$250M company valuation plus sector comparables could make FDV > $300M plausible under certain tokenomics assumptions. This source is useful to show a reasoned bullish scenario, but it is model-driven rather than an official disclosure, so it cannot substitute for tokenomics. It supports the “plausible but uncertain” conclusion. ([polychances.com](https://polychances.com/polymarket-events/ostium-fdv-above-one-day-after-launch/?utm_source=openai))
 
+### [Techmeme aggregation referencing press coverage: "Decentralized exchange Ostium raised a $20M Series A ... at a ~$250M valuation"](https://www.techmeme.com/251202/p54)
+**Author:** Unknown (Techmeme aggregator) | **Published:** 2025-12 (aggregated item)
+
+Aggregated reporting snippets that collect contemporary coverage indicating Ostium raised institutional funding (reported Series A ~$20M) and reporting an implied post-money valuation near ~$250M. This item is relevant because institutional funding and a multi-hundred-million dollar venture valuation are material signals that can influence market expectations for a token’s potential FDV; however, venture valuation does not deterministically set token FDV. The reporting supports the plausibility of a higher FDV under favorable tokenomics but is not decisive without supply/unlock details. ([techmeme.com](https://www.techmeme.com/251202/p54?utm_source=openai))

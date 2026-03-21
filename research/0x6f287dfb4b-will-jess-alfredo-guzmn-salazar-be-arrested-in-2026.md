@@ -1,7 +1,7 @@
 # Research: Will Jesús Alfredo Guzmán Salazar be arrested in 2026?
 
 **Market ID:** 0x6f287dfb4b51e34f11a39addd7a5a712f3fd955e16bacedb67110cf0b32a3e05
-**Researched At:** March 12, 2026 at 06:20:45 PM UTC
+**Researched At:** March 21, 2026 at 04:21:54 AM UTC
 **Search Query:** "Will Jesús Alfredo Guzmán Salazar be arrested in 2026?"
 
 ---
@@ -9,59 +9,80 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.1¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Jesús Alfredo Guzmán Salazar remains a high‑value fugitive with U.S. rewards and active enforcement pressure, but he is still believed to be at large and sheltered by cartel networks; the public‑source evidence suggests at most a modest underpricing of this market rather than a large arbitrage. Given zero trading volume, the posted 19% appears unreliable as a consensus but not demonstrably far from a reasonable public‑information probability for arrest by Dec 31, 2026.
+U.S. indictments, a $10M reward and June 2025 OFAC sanctions materially raise the chance Jesús Alfredo could be captured, but he remains at large in Mexico and cartel protection/operational friction are substantial. Given public evidence, the market price (~19%) is plausible; I find no clear public signal that it is off by more than ~10 cents. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: Jesus Alfredo Guzman-Salazar
+URL: https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar
+Author: Unknown
+Date:
 
 ### Full Analysis
 
-CONTEXT ANALYSIS
-- Market question: Will Jesús Alfredo Guzmán Salazar be arrested/detained by law enforcement by 11:59 PM ET on December 31, 2026? The market resolves YES if he is taken into official custody (including temporary detention pending extradition, voluntary surrender, booking, house arrest/electronic monitoring, etc.) before that datetime; it resolves NO otherwise. (See market resolution rules in the prompt.)
+Planned note on method and limits
+- I searched authoritative primary sources (U.S. government press releases and wanted/fugitive pages, and major wire reporting) to assess whether there is credible evidence that Jesús Alfredo Guzmán Salazar (“Jesús Alfredo”, aka “Alfredillo”) will be arrested by Dec 31, 2026. My web research focused on indictments, reward/sanction actions, recent arrests of related figures, and statements about cooperation that affect capture probability.
 
-EVIDENCE EVALUATION
-A. Evidence that increases probability of arrest (suggests market price may be too low)
-- U.S. authorities have publicly elevated the Guzmán Salazar brothers as high‑priority fugitives and offered large rewards (up to $10 million) for information leading to arrest/conviction, which both increases resources devoted to finding them and raises the odds of informant tips. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
-- U.S. agencies and prosecutors have continued active operations, extraditions, and sanctions against Sinaloa‑linked figures in 2024–2026 (examples include the arrest/arraignment of Ismael “El Mayo” Zambada and the high level of coordination between U.S. and Mexican authorities), showing capacity and willingness to capture top leaders. That operational momentum and recent high‑profile arrests/extraditions make a capture in 2026 plausible. ([justice.gov](https://www.justice.gov/opa/pr/ismael-el-mayo-zambada-garcia-co-founder-sinaloa-cartel-arraigned-brooklyn-international?utm_source=openai))
-- Open‑source analyst rankings and reporting in 2025–early 2026 list Jesús Alfredo as among the higher‑priority capture targets, implying focused intelligence effort and likely surveillance pressure. If intelligence is working and pressure increases, the marginal probability of arrest within months can rise. ([cartelinsider.com](https://cartelinsider.com/the-capture-ranking-2026/?utm_source=openai))
+1) CONTEXT ANALYSIS — what the market asks and exact resolution conditions
+- The market asks: “Will Jesús Alfredo Guzmán Salazar be arrested or detained by law enforcement by 11:59 PM ET on Dec 31, 2026?” Resolution = YES if by that deadline he is taken into official custody (including temporary detention while a judge considers a detention warrant, voluntary surrender in response to an arrest warrant, formal booking/processing, house arrest/electronic monitoring, etc.). Resolution = NO if no qualifying detention occurs by that date. (This matches the market description provided; no additional qualifiers appear to limit jurisdiction — U.S., Mexican, or other official detentions qualify.) ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
 
-B. Evidence that decreases probability of arrest (supports the market price)
-- Multiple authoritative U.S. law‑enforcement pages (DEA, ICE) continue to list Jesús Alfredo as a fugitive and describe him as likely located in Mexico and “armed and dangerous,” indicating he remains at large and presumably protected by cartel networks and safe havens that complicate capture. Longstanding sanctuary in Mexico, local protection, and cartel countermeasures are classic reasons a capture can remain difficult even under intense pressure. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
-- History and recent patterns: capture of other leaders sometimes takes years, and arrests of some leaders have caused violent backlash and operational dispersion rather than immediate collapse of hideouts; cartel leaders have evaded capture repeatedly in the past. Recent arrests (El Mayo, others) demonstrate capability but also show arrests can be politically and operationally fraught; that reduces certitude that another high‑value target must fall within a fixed short horizon. ([justice.gov](https://www.justice.gov/opa/pr/ismael-el-mayo-zambada-garcia-co-founder-sinaloa-cartel-arraigned-brooklyn-international?utm_source=openai))
+2) EVIDENCE EVALUATION — what the evidence shows for and against an arrest in 2026
 
-C. Credibility and recency of sources
-- DEA and ICE wanted/fugitive pages are primary, authoritative government sources listing Jesús Alfredo as wanted and noting a State Dept. reward; these are high‑credibility and current. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
-- Major news outlets (AP, Axios) and DOJ releases document recent arrests, sanctions, rewards, and extraditions involving Sinaloa leaders, and are recent through Feb 2026 — credible support for ongoing enforcement pressure. ([apnews.com](https://apnews.com/article/5a72a61741379e826b1aefcb2296c624))
-- Open‑source analyst pieces and regional reporting are useful for context (infighting, capture rankings) but are lower formal authority; treat them as supplementary. ([cartelinsider.com](https://cartelinsider.com/the-capture-ranking-2026/?utm_source=openai))
+Key, high‑value facts (authoritative):
+- U.S. indictments and long‑standing arrest warrants exist for Jesús Alfredo (federal indictments in U.S. courts, warrants from 2023). The DEA/ICE listings identify him as a fugitive and list a State Dept./DOJ reward (up to $10M) for information leading to arrest/conviction. These U.S. actions indicate strong U.S. legal exposure and active priority to locate him. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
+- In June 2025 the U.S. Treasury (OFAC) publicly sanctioned “Los Chapitos” leaders and the U.S. State Department/FBI/DOJ increased rewards and pressure (the U.S. declared these individuals priorities for capture). These designations and reward increases materially raise resources and incentives to locate and arrest them. ([home.treasury.gov](https://home.treasury.gov/news/press-releases/sb0161?utm_source=openai))
+- The U.S. has demonstrated operational capability to take high‑value cartel figures into custody in recent years (examples include the July 2024 arrests of other Sinaloa leaders on U.S. soil and subsequent prosecutions/plea processes), showing that the U.S. can effect arrests even when suspects are believed to be in Mexico. That operational precedent increases plausibility that Jesús Alfredo could be apprehended before the end of 2026. ([washingtonpost.com](https://www.washingtonpost.com/world/2024/07/26/sinaloa-cartel-arrests-zambada-guzman/?utm_source=openai))
 
-MARKET EFFICIENCY ANALYSIS
-- Market microstructure: this market shows zero total volume and a tight posted spread (4¢). Zero volume indicates no active trading liquidity — the displayed price (19%) may simply reflect the initial offering/liquidity provider rather than an equilibrium reached by many independent informed traders.
-- Reasonable interpretations that justify 19%:
-  - Informed conservatism: Given cartel leaders’ historical ability to evade capture and the fact that Jesús Alfredo is believed to be in Mexico with protection, a sub‑20% short‑term arrest probability through December 31, 2026 is defensible.
-  - Risk of backfire and operational difficulty: arrests of other high‑value targets have at times required complex, politically sensitive operations; authorities may prioritize other targets or defer high‑risk operations, lowering near‑term arrest odds.
-- Reasons price could reflect few participants / mispricing:
-  - Zero volume strongly suggests the price is not an aggregation of many independent assessments; it may reflect the view of the market creator or a single liquidity provider.
-  - The tight spread without trades is an unreliable signal of consensus on informational grounds — more likely a product of platform defaults or a liquidity provider setting a price.
+Evidence that argues arrest within 2026 is plausible (bullish for Yes)
+- Large U.S. rewards and OFAC sanctions (June 2025) materially increase both financial incentives for informants and legal/operational pressure, possibly accelerating capture efforts. That change in U.S. posture is recent and relevant. ([home.treasury.gov](https://home.treasury.gov/news/press-releases/sb0161?utm_source=openai))
+- Prior arrests and extraditions of other “Los Chapitos” members (Ovidio in 2023, Joaquín Guzmán López and others in 2024–2025) show that U.S. authorities and cooperating partners have been able to detain high‑ranking individuals — precedent that raises conditional probability. ([washingtonpost.com](https://www.washingtonpost.com/world/2024/07/26/sinaloa-cartel-arrests-zambada-guzman/?utm_source=openai))
+- Public U.S. government wanted/fugitive listings (DEA, ICE, State) and DOJ press materials keep pressure visible and may encourage tips or increased bilateral operations. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
 
-MISPRICING ASSESSMENT
-- Balancing the evidence:
-  - Pro‑arrest evidence: large US rewards, active cross‑border operations, recent high‑profile arrests/extraditions, and a policy environment (renewed sanctions and pressure) all push the probability upward relative to a naive “he’ll never be caught” baseline. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
-  - Anti‑arrest evidence: continued fugitive status, likely sanctuary in Mexico, the cartel’s resources and countermeasures, and history of long evasion reduce near‑term arrest certainty. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
-- Conclusion on mispricing: I find no clear, specific, credible evidence showing a large (>~20 percentage points / 20¢) mispricing. The combination of strong enforcement signals and strong hiding/protection signals suggests the true probability of arrest by Dec 31, 2026 is plausibly in the same general band as the market (roughly mid‑teens to low‑thirties percent). Given the market’s zero trading volume, the posted 19% may not be a reliable market consensus — but that alone is not proof of a large directional error. Overall, the evidence points to at most a modest mispricing (single‑digit cents) rather than a major arbitrage opportunity.
+Evidence that argues arrest in 2026 is unlikely (bearish for Yes)
+- Jesús Alfredo is widely reported to be at large and believed to be in Mexico; Mexico is where capture is most difficult (cartel protection, local corruption, operational risk). Public listings still describe him as a fugitive months after high‑profile U.S. actions. That persistence suggests meaningful obstacles remain. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
+- Cartel protection, internal factionalism, and the use of clandestine safe havens in Mexico mean that even large U.S. rewards do not guarantee arrest within a short horizon. Arrests so far (e.g., the El Paso operation) have relied on specific operational opportunities and, in some cases, unusual circumstances (a private plane, lures or cooperation of insiders). Those specific conditions may not recur for Jesús Alfredo before Dec 31, 2026. ([washingtonpost.com](https://www.washingtonpost.com/world/2024/07/26/sinaloa-cartel-arrests-zambada-guzman/?utm_source=openai))
+- Media/analyst reports (and some regional reporting) include rumors and conflicting claims about his protection, transfers, or “political deals” that create uncertainty; several such reports lack independent confirmation and could be noise rather than reliable signals. This weakens confidence that the market is missing a simple, obvious path to capture. ([sdpnoticias.com](https://www.sdpnoticias.com/estados/jesus-alfredo-guzman-salazar-habria-sido-entregado-al-cjng-por-su-hermano-ivan-archivaldo-guzman-salazar/?utm_source=openai))
 
-CRITICAL CHECK (what could I be missing?)
-- Resolution criteria: market resolves on any official arrest/detention (including temporary detention pending extradition). I verified official U.S. law‑enforcement reward listings and recent arrests of other leaders; nothing found indicates Jesús Alfredo has already been arrested or otherwise qualifies. If I had mistaken the name/identity or a low‑profile detention had already occurred, that would invalidate this analysis — but current government wanted pages and news reporting still list him as at large. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
-- Hidden information caveat: intelligence or confidential cooperation between governments could produce an imminent arrest that is not yet public; such information is by nature inaccessible to this open‑source review and is exactly the sort of information professional enforcement agencies may act on. That is a plausible reason for any divergence between my public‑source estimate and traders who may have access to privileged information.
+Source credibility and recency
+- Primary U.S. government sources (DEA, ICE, DOJ, Treasury/OFAC, State Dept.) are high‑quality — they document indictments, warrants, rewards, and sanctions; those are directly relevant and recent (2023 indictments; June 9, 2025 OFAC action; DEA/ICE wanted pages updated in 2025). Wire services (AP, Reuters, Washington Post) provide corroboration on arrests and operational details; they are credible for factual reporting of recent arrests and U.S. posture. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
 
-EXPECTED VALUE CALCULATION
-- Strength of evidence that the market is mispriced (i.e., that the price is missing material public information): I assess this as 35%. (There is credible public evidence pushing probability upward, but also credible reasons to stay low; net signal is modest.)
-- Estimated magnitude of mispricing if one were to buy (market = 19%): I estimate a plausible true probability lies modestly above 19% (say 3–7 percentage points). I’ll use a central estimate of a 6¢ (0.06) mispricing (i.e., market underprices arrest by ~6 percentage points). This is small and conservative.
-- Expected value = Strength × Magnitude = 35% × 6 cents = 2.1 cents.
+Synthesis — reasoned balance
+- Pro‑arrest signals: high U.S. priority (indictment, warrants, $10M reward, OFAC sanctions) and recent successful operations against other senior Sinaloa figures make an arrest by end of 2026 plausible.
+- Anti‑arrest signals: Jesús Alfredo remains publicly at large in Mexico, cartel protection and operational difficulty are substantial, and arrests of other leaders required particular opportunities; nothing in the documentary record guarantees a successful capture within the market’s time window.
+- Given these countervailing factors, a market price of ~19% (19¢ implied probability) appears broadly defensible as reflecting a non‑negligible chance from increased U.S. pressure but also substantial friction from local protection and operational difficulty.
 
-EXPECTED_VALUE: 2.1
-SUMMARY: Jesús Alfredo Guzmán Salazar remains a high‑value fugitive with U.S. rewards and active enforcement pressure, but he is still believed to be at large and sheltered by cartel networks; the public‑source evidence suggests at most a modest underpricing of this market rather than a large arbitrage. Given zero trading volume, the posted 19% appears unreliable as a consensus but not demonstrably far from a reasonable public‑information probability for arrest by Dec 31, 2026.
-CONFIDENCE: medium
+3) MARKET EFFICIENCY ANALYSIS — is the price reliable?
+- Charitable interpretation justifying 19%: informed traders likely factor in (a) active U.S. effort and $10M reward (raises capture odds), (b) precedent arrests of related figures (operational possibility), and (c) the substantial residual difficulty of arresting a well‑protected cartel leader localized in Mexico. Those three ingredients combine to produce a mid‑low probability like ~15–30%, so the market price is consistent with a reasoned consensus. ([home.treasury.gov](https://home.treasury.gov/news/press-releases/sb0161?utm_source=openai))
+- Could the price reflect only a few traders? Yes — the stated market volume is $0 and age 25 days with tight spread; low volume raises the risk that one or a few actors posted the price and it has not been tested by informed liquidity. Low volume + tight spread often indicates lack of participation rather than true consensus. This makes the price less reliable than a high‑volume market.
+- Why low volume might be rational: either (a) the outcome is inherently binary but politically sensitive and operationally difficult, so few retail traders are motivated to trade; or (b) most informed actors are in law enforcement/sharing intelligence rather than market trading; either case can explain low volume even if price is reasonable.
+
+4) MISPRICING ASSESSMENT — does credible evidence suggest the market is mispriced?
+- I do not find one clear, credible fact or dataset that is evidently missing from the market price that would justify a large (>20¢) correction. U.S. government actions (indictment, sanctions, rewards) are public and strong — those are likely already baked in or would have been priced in by sophisticated traders who follow such sources. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
+- Conversely, I also do not find strong evidence that the market is underestimating the likelihood by a large margin: the main counterargument (that cartel infighting or insiders will quickly yield capture) is speculative and supported mainly by unconfirmed/rumored regional reporting. That kind of information is high noise and would likely already be used by any informed market participant who had it. ([sdpnoticias.com](https://www.sdpnoticias.com/estados/jesus-alfredo-guzman-salazar-habria-sido-entregado-al-cjng-por-su-hermano-ivan-archivaldo-guzman-salazar/?utm_source=openai))
+- Therefore: the available primary evidence does not support confidently declaring a large mispricing. The market price (19%) is plausible. If there is mispricing, it is likely small (single-digit to low‑teens cents) and the biggest uncertainty is not missing public data but low market liquidity and private intelligence that traders or authorities may possess.
+
+Critical check (challenge the reasoning)
+- Could the market be missing a simple resolution condition or past event? No — the resolution conditions are straightforward (actual detention by Dec 31, 2026), and all authoritative sources still list Jesús Alfredo as at large with active warrants and rewards; therefore the market hasn’t already missed a resolved YES. ([dea.gov](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar))
+- Could I be missing private intelligence or legal technicalities? Yes — national‑security operations and confidential informant tips are private and unavailable publicly. Those are plausible reasons for the market to be more accurate than public evidence alone suggests. That argues caution before declaring any large mispricing.
+- Most charitable explanation for 19%: it represents a view that U.S. pressure raises the chance meaningfully above zero but that cartel protections and operational risks keep the overall probability modest.
+
+5) EXPECTED VALUE CALCULATION (value of acting on a belief that the market is mispriced)
+- Strength of evidence that the market is missing public, obvious facts and is therefore mispriced: I assess 40% (this represents modest confidence that public‑facing material leaves room for small arbitrage but not large).
+- Magnitude of plausible mispricing if present: I estimate ~10 cents (0.10) maximum plausible error that public evidence could support (i.e., price should maybe be ~29% rather than 19%). A larger error (>20 cents) would require private intelligence or an obvious factual error, which I did not find.
+- Expected value = Strength × Magnitude = 0.40 × 10¢ = 4.0¢
+
+6) CONFIDENCE
+- Confidence in my assessment: medium — I used authoritative, recent government sources and major news outlets but recognize that private intelligence or rapid operational developments (which I cannot see) could change capture probability materially.
+
+Concise bottom-line judgment
+- The market price of 19% is broadly defensible given public evidence (U.S. indictments, $10M reward, OFAC sanctions increase capture resources vs. the substantial operational difficulty of arresting a protected cartel leader in Mexico). There is no clear, specific public fact I can point to that suggests a large (>20¢) mispricing. Low volume makes the quoted price fragile — it could move quickly if an informed trader acts — but that fragility is liquidity risk, not necessarily mispricing.
+
+EXPECTED_VALUE: 4.0
+SUMMARY: U.S. indictments, a $10M reward and June 2025 OFAC sanctions materially raise the chance Jesús Alfredo could be captured, but he remains at large in Mexico and cartel protection/operational friction are substantial. Given public evidence, the market price (~19%) is plausible; I find no clear public signal that it is off by more than ~10 cents. CONFIDENCE: medium
 
 ---
 
@@ -69,27 +90,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Jesus Alfredo Guzman‑Salazar](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar)
-**Author:** Unknown | **Published:** Unknown
+### [Jesus Alfredo Guzman-Salazar](https://www.dea.gov/fugitives/jesus-alfredo-guzman-salazar)
+**Author:** Unknown | **Published:** Unknown (page updated 2025)
 
-Official DEA fugitive page listing Jesús Alfredo Guzmán Salazar (alias “Alfredillo”), including a link to the reward and the federal charges (conspiracy to possess with intent to distribute; import/export). This page is primary evidence that U.S. law enforcement currently considers him a high‑value fugitive, that a reward is available (State Dept. reward link), and that he remains at large — all directly relevant to the market’s resolution (arrest/detention by authorities). The page supports the view that authorities have incentive and stated intent to pursue him, which increases but does not guarantee near‑term arrest probability.
+DEA’s fugitive listing for Jesús Alfredo Guzmán Salazar notes his aliases, indictments/warrants, that he is armed and dangerous, and references a reward of up to $10 million available via State Department/DOJ. This is primary evidence that U.S. law enforcement has active warrants and a high priority on capture — a central factor increasing the probability of an arrest before Dec 31, 2026. This supports the view that capture is plausible but not guaranteed; the public listing shows he remains at large and is a difficult target, which cuts against assigning a high (>50%) probability.
 
-### [US imposes sanctions on El Chapo's fugitive sons, offers $10 million reward for their capture](https://apnews.com/article/trump-treasury-sanctions-mexico-el-chapo-5a72a61741379e826b1aefcb2296c624)
-**Author:** Fatima Hussein and Megan Jaentsky | **Published:** Unknown
+### [Treasury Sanctions “El Chapo’s” Children and Los Chapitos, a Fentanyl‑Trafficking Faction of the Sinaloa Cartel](https://home.treasury.gov/news/press-releases/sb0161)
+**Author:** U.S. Department of the Treasury / OFAC | **Published:** 2025-06-09
 
-Associated Press reporting on U.S. Treasury sanctions against the fugitive sons of Joaquín “El Chapo” Guzmán and public reward offers for their capture. The article documents the U.S. government’s recent escalation of pressure (sanctions and rewards) on Jesus Alfredo and his brother, showing increased policy and resource focus that plausibly raises capture odds. It supports the argument that enforcement capacity and political will have increased, which works against a very low market probability.
+OFAC/Treasury press release (June 9, 2025) designating Los Chapitos and specifically naming Archivaldo Iván and Jesús Alfredo Guzmán Salazar, and noting State Dept. reward offers (up to $10M). This is high‑quality official documentation that the U.S. elevated pressure and sanctions against Jesús Alfredo in mid‑2025 — a material change in enforcement posture that plausibly raises capture odds (supports a higher probability than near‑zero), and therefore is likely already (or should be) considered by market participants.
 
-### [After El Mencho killing, U.S. still seeks these Mexican cartel leaders](https://www.axios.com/2026/02/25/mexico-cartel-leaders-el-mencho-us-drug-trafficking)
-**Author:** Rebecca Falconer | **Published:** 2026-02-25
+### [US imposes sanctions on El Chapo's fugitive sons, offers $10 million reward for their capture](https://apnews.com/article/5a72a61741379e826b1aefcb2296c624)
+**Author:** Unknown (Associated Press) | **Published:** 2025-06-09
 
-Recent (Feb 25, 2026) Axios overview that places Jesús Alfredo and Iván Archivaldo among the U.S.‑sought cartel leaders and documents ongoing U.S. actions (rewards, indictments, extraditions) in 2024–2026. The piece contextualizes how the U.S. and Mexico have continued to pursue high‑level cartel figures, and highlights that U.S. enforcement momentum persists after other major events (e.g., the El Mencho operation). This supports the assessment that enforcement pressure is real and ongoing, increasing the chance of captures in the near term.
+AP coverage of the June 9, 2025 Treasury/State actions; summarises that the U.S. imposed sanctions and announced rewards for Archivaldo Iván and Jesús Alfredo, and notes that they are believed to be in Mexico. This corroborates the OFAC/State actions and situates them in the public‑facing media narrative — relevant because public pressure and media attention can change incentives for informants and partners (supports modestly higher capture probability).
 
-### [Ismael "El Mayo" Zambada Garcia, Co‑Founder of the Sinaloa Cartel, Arraigned in Brooklyn on International Drug Trafficking Charges](https://www.justice.gov/usao-edny/pr/ismael-el-mayo-zambada-garcia-co-founder-sinaloa-cartel-arraigned-brooklyn)
-**Author:** United States Attorney’s Office, Eastern District of New York (Department of Justice) | **Published:** 2025-02-06
+### [Mexico wasn’t told of cartel arrests until kingpins were in U.S. custody](https://www.washingtonpost.com/world/2024/07/26/sinaloa-cartel-arrests-zambada-guzman/)
+**Author:** William Booth (Washington Post) | **Published:** 2024-07-26
 
-DOJ press release describing the arrest/arraignment of Ismael “El Mayo” Zambada and related prosecutions. This is a high‑credibility example of successful capture/extradition of a top Sinaloa figure, demonstrating capability and cross‑border coordination. It is relevant because successful operations against top cartel leaders are the operational precedent and mechanism by which Jesús Alfredo could also be arrested; the release corroborates that U.S. and Mexican authorities have both the will and occasional success necessary to change arrest probabilities.
+Investigative reporting on the July 2024 U.S. arrests of senior Sinaloa figures (including Joaquín Guzmán López) after arrival in the U.S. on a private plane; it outlines the operational methods and the unusual circumstances that enabled those arrests. This source shows U.S. operational capacity and creative methods to take high‑value targets into custody — a precedent that modestly increases plausibility of future arrests (supports the case that an arrest of Jesús Alfredo is possible) while also showing such operations often rely on particular opportune conditions.
 
-### [Jesus Alfredo Guzmán Salazar (ICE most wanted search result)](https://www.ice.gov/most-wanted/guzman-salazar-jesus)
-**Author:** Unknown | **Published:** Unknown
+### [Joaquin Guzman Lopez—Son of “El Chapo” and a Head of Sinaloa Cartel—Pleads Guilty to Federal Drug Charges in Chicago](https://www.justice.gov/usao-ndil/pr/joaquin-guzman-lopez-son-el-chapo-and-head-sinaloa-cartel-pleads-guilty-federal-drug)
+**Author:** U.S. Department of Justice, U.S. Attorney’s Office for the Northern District of Illinois | **Published:** 2025-12-02
 
-ICE most‑wanted posting (summary search result) describing Jesus Alfredo as wanted in connection with investigations into the Sinaloa Cartel, summarizing allegations and offering reporting channels. This corroborates the DEA/State Dept. posture from another U.S. enforcement agency, reinforcing the point that multiple U.S. agencies are publicly pursuing him. That cross‑agency designation increases resource allocation and the likelihood of international cooperation, which slightly elevates capture odds compared with lower‑profile fugitives.
+DOJ press release summarizing the guilty plea of Joaquín Guzmán López and explicitly stating that Iván Archivaldo and Jesús Alfredo Guzmán Salazar remain charged, not in custody, and that the State Department has offered rewards for their arrests/convictions. This confirms that prosecutions of related figures are ongoing and that Jesús Alfredo remained at large as of late 2025, reinforcing the view that arrest is plausible (due to active cases) but not yet realized (supporting the market’s modest probability).

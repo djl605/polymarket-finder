@@ -1,7 +1,7 @@
 # Research: Will Amy McGrath be the Democratic nominee for Senate in Kentucky?
 
 **Market ID:** 0xfe0fe39d95df3b654e9bf995024d2129ef5dafa50a4c492456ff9d50ae5d462d
-**Researched At:** March 15, 2026 at 04:33:39 AM UTC
+**Researched At:** March 21, 2026 at 04:11:37 AM UTC
 **Search Query:** "Will Amy McGrath be the Democratic nominee for Senate in Kentucky?"
 
 ---
@@ -9,71 +9,80 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.7¢
+**Expected Value:** 1.2¢
 
 ### Summary
 
-Public polling (Emerson, Feb 2026) puts Amy McGrath second in the Kentucky Democratic primary (≈19%) with Charles Booker leading (≈30%) and ~43% undecided; McGrath leads Democratic fundraising but is behind in early polling. A 15% market price is within a plausible range given current polls and uncertain undecided voters; I find no clear, specific evidence of a large mispricing. Small edge possible (expected value ≈2.7¢) but uncertainty remains. ([emersoncollegepolling.com](https://emersoncolleg
+Recent public polling (Emerson College, Jan 31–Feb 2, 2026) shows Amy McGrath trailing Charles Booker (≈19% vs 30%) with a very large undecided pool; McGrath’s campaign is active and has fundraising, but available evidence does not show a clear multi-decade mispricing. With low market volume and a mid-teens price (16.5%), the market plausibly reflects present public information; there is limited evidence of a meaningful mispricing worth a large trade.
+
+SOURCES:
+---
+Title: Kentucky 2026 Poll: GOP
 
 ### Full Analysis
 
-Analysis and conclusion
+Plan & searches used (budget: 3 web searches)
+- Search 1: announcements / filings for Amy McGrath (campaign launch stories, FEC filings, local coverage).
+- Search 2: field of Democratic candidates, fundraising snapshots and campaign filings (Booker, Stevenson, Romans, etc.).
+- Search 3: recent polling (Emerson College) and local reporting about the Democratic primary landscape and timing.
 
-1) CONTEXT ANALYSIS — what the market asks and how it resolves
-- Market question: “Will Amy McGrath be the Democratic nominee for Senate in Kentucky?” That resolves YES if Amy McGrath is the winner of the Kentucky Democratic primary for U.S. Senate (the market’s resolution rules say the winner of the Democratic primary as announced by the Kentucky Democratic Party, with credible reporting acceptable). It resolves NO if any other Democratic candidate wins the May 19, 2026 Democratic primary (or “Other” only if no Democratic primary occurs). The official Kentucky primary date is May 19, 2026; that is the relevant timeline for events and data to change the probability. ([elect.ky.gov](https://elect.ky.gov/?utm_source=openai))
+Key result I relied on (high-level): Emerson College poll (Jan 31–Feb 2, 2026) showing Charles Booker leading the Democratic field (~30%) vs Amy McGrath (~19%) with ~43% undecided; multiple news reports and FEC filings confirming McGrath’s candidacy and campaign finance activity.
 
-2) EVIDENCE EVALUATION — relevant facts, with balanced interpretation
-Key facts (most load-bearing)
-- The best public, recent polling (Emerson College Polling, released in early Feb. 2026) shows Charles Booker leading the Democratic primary at ~30% and Amy McGrath at ~19%, with ~43% of Democratic primary voters undecided. That poll’s Democratic subsample is n≈381 (credibility interval ≈ ±5%). A second set of local outlets republished the same poll. These numbers imply McGrath is a clear plausible contender but currently behind Booker in early voting-intention measures. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/))
-- Campaign finance filings and press reporting show McGrath has the largest fundraising among Democrats entering the race (reports: McGrath led the Democratic field with more than ~$1.3M raised in the relevant quarter and spent substantially), while Booker had a much smaller war chest at the moment of his late entry. McGrath’s donations include a substantial out-of-state component. Fundraising affects the ability to advertise and organize before May. ([yahoo.com](https://www.yahoo.com/news/articles/much-did-amy-mcgrath-charles-123511734.html?utm_source=openai))
-- Multiple Democrats have filed and are active (Booker, McGrath, Pamela Stevenson, Dale Romans and others); Booker and McGrath are widely reported as the two leading Democrats in public coverage and will be featured in at least one statewide Democratic debate (Spectrum News announced a Democratic debate including Booker and McGrath). That contest structure (several candidates, large undecided bloc) makes the primary outcome sensitive to late-campaign dynamics and turnout. ([spectrumnews1.com](https://spectrumnews1.com/ky/louisville/news/2026/03/04/spectrum-news-democratic-senate-debate?utm_source=openai))
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Amy McGrath be the Democratic nominee for Senate in Kentucky?”
+- Resolution logic: The market resolves YES if Amy McGrath wins the Kentucky Democratic primary for U.S. Senate in 2026 (per the market description). It resolves NO if another Democratic candidate wins or the primary does not produce a McGrath nomination (if no Democratic primary, market resolves to “Other”).
+- What must happen for YES: McGrath must obtain more votes than any other Democratic candidate in the 2026 Kentucky Democratic primary (including winning a runoff if Kentucky law requires one and that changes the outcome). For NO: any other Democratic candidate wins the party’s primary (or the party fails to hold the primary and "Other" rules apply).
 
-What supports the market price (15%)
-- Current public polling places McGrath behind Booker (≈19% vs ≈30%) and with a large undecided share; a plausible translation of those numbers into win probability gives a non-negligible but minority chance for McGrath — 10–25% is a reasonable range from these polls alone. The market price of 15% is within that range and thus consistent with public polling. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/))
-- McGrath’s strongest asset is name recognition from prior statewide campaigns (she was the 2020 Democratic nominee). Name recognition and cash can convert undecideds, but so can Booker’s endorsements and ground game; poll-to-outcome variance is high when many voters are undecided and the primary is months away. The market’s low price is defensible as a risk-adjusted estimate given current polls and the competitive field. ([yahoo.com](https://www.yahoo.com/news/articles/much-did-amy-mcgrath-charles-123511734.html?utm_source=openai))
+2) EVIDENCE EVALUATION (all evidence is presented neutrally)
 
-What suggests the market price might be too low
-- McGrath leads Democratic fundraising and has prior statewide campaign infrastructure; if she deploys that effectively (ads, GOTV, targeted outreach to older Democrats where she does relatively better), she could convert undecideds faster than Booker. Fundraising and organization advantages can materially change short-term probabilities, especially in low-turnout primaries. Reporting shows McGrath spent heavily early and still has resources. That could push a fair probability above 15% if traders underweight spending/advertising effects. ([yahoo.com](https://www.yahoo.com/news/articles/much-did-amy-mcgrath-charles-123511734.html?utm_source=openai))
+Evidence that suggests the market price (16.5%) might be too low for McGrath (i.e., supports a higher probability):
+- Name recognition and past statewide runs: McGrath is a known statewide figure (2020 Senate nominee, 2018 congressional nominee), which usually helps in multi-candidate primaries. Multiple outlets report she launched a 2026 campaign (AP, Washington Post, local TV). That recognition and national donor network are assets that could convert part of the large undecided pool in her favor. (Sources: AP, Washington Post, local coverage.)
+- Fundraising / campaign apparatus: FEC records show an active McGrath committee and filings in late 2025/Jan 2026, consistent with meaningful fundraising capacity and organization — money and organization can move undecided voters, especially late. (Source: FEC filings.)
 
-What suggests the market price might be too high
-- The Emerson poll puts Booker firmly ahead and shows a large undecided pool; his early lead plus endorsements (press/others cited on his campaign site and local coverage) and momentum could consolidate Democratic voters behind him. Booker earlier performed well in Democratic primaries and has recent statewide recognition; if his campaign accelerates, McGrath’s win probability could fall below 15%. The evidence pointing to Booker’s advantage makes a 15% valuation for McGrath plausible as conservative pricing. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/))
+Evidence that supports the current market price (16.5%) or suggests McGrath is an underdog:
+- Recent public polling: Emerson College Polling (Jan 31–Feb 2, 2026) shows Charles Booker leading the Democratic field with ~30% vs McGrath ~19%, with 43% undecided. In that poll Booker led across most groups; McGrath’s share (≈19%) is higher than the market price but not dominant. With a large undecided share, the market’s lower probability (16.5%) is within the plausible range of outcomes. (Source: Emerson/WKYT.)
+- Competitive field & credible challengers: Charles Booker (statewide profile from 2022 DOE run) is actively campaigning and has progressive infrastructure/endorsements in the state; other Democrats (Pamela Stevenson, Dale Romans, Logan Forsythe, etc.) are also in the field. A fragmented primary and a strong Booker campaign reduce McGrath’s odds of being the nominee. (Sources: candidate filings and local reporting.)
+- Fundraising snapshot relative to competition: reporting/aggregates indicate McGrath has raised meaningful sums, but (depending on which quarter you check) other candidates—especially Booker—have strong grassroots support that can outperform raw dollars in a primary. Polls and ground organization are important; fundraising does not guarantee primary victory.
 
 Source credibility and recency
-- Emerson College Polling (poll release, Jan 31–Feb 2, 2026) is a standard academic/polling group; methodology and margins-of-error are reported. Local news outlets (WKYT, Kentucky Lantern, LEX18) republished or analyzed that poll — credible for early-state snapshot. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/))
-- Fundraising reporting (regional outlets and aggregations such as Yahoo / local public radio WKMS) is based on campaign finance filings and contemporaneous reporting; those are credible measures of relative cash-on-hand. ([yahoo.com](https://www.yahoo.com/news/articles/much-did-amy-mcgrath-charles-123511734.html?utm_source=openai))
-- Campaign announcements, filings, and debate schedules (Spectrum News, county certification records) are primary or local official reporting on who’s on the ballot and on campaign events; they are credible for listing competitors and timing. ([spectrumnews1.com](https://spectrumnews1.com/ky/louisville/news/2026/03/04/spectrum-news-democratic-senate-debate?utm_source=openai))
+- Emerson College Polling (Jan 31–Feb 2, 2026) — credible polling vendor; recent and directly relevant to the Democratic primary. This is the load-bearing datapoint on voter preferences.
+- Associated Press, Washington Post, and local TV/newspapers (WKYT, WBKO, Spectrum) — reputable news outlets confirming filings, announcements, and on-the-ground reporting (campaign launches, official filings).
+- FEC filings (docquery PDFs) — primary-source data on committee filings and reporting; high credibility for campaign finance facts.
+- Wikipedia was consulted as a synthesis but I prioritized primary sources (Emerson, AP, FEC, local outlets) for factual claims.
 
-Skepticism about “obvious” evidence
-- If the race were truly “obvious,” we would expect unanimity across multiple independent polls, early endorsements consolidating a frontrunner, and low undecided shares. The Emerson poll shows the opposite: a plurality for Booker but a large undecided share (≈43%), which explains why the market is not pricing McGrath out completely. That also explains why traders who follow polling would not push the price to near-zero just because she’s behind in one poll.
+Bullish vs bearish reading
+- Bullish for McGrath: Recognizable statewide candidate, national donor network, and the fact that a large undecided pool means poll snapshots can change; money and organization can move the needle late.
+- Bearish for McGrath: Current polling puts Booker ahead (30% vs 19%) with a large undecided bloc that appears to favor Booker in many deciles; Booker’s appeals to Democratic primary voters and apparent momentum make McGrath the underdog in recent public polling.
 
-3) MARKET EFFICIENCY ANALYSIS — interpreting the current price and low-volume concerns
-- Interpretations that justify the 15% price:
-  - Traders are mapping the current poll (McGrath ~19% of Democratic primary voters; Booker ~30%; many undecided) into a modest win probability for McGrath while discounting late-campaign volatility. A translation from polling standings to win-probability typically discounts polling positions, especially when undecideds and turnout patterns matter. 15% is within the plausible transformation of a 2nd-place showing plus undecideds and lower cash-on-hand compared to potential competition.
-  - Market participants may be factoring in state-level dynamics (Kentucky Democrats’ historical difficulties in statewide federal races) and the fact that multiple Democrats dilute vote consolidation.
-- Could the 15% reflect only a few traders? Yes: total traded volume is low ($2,373) and spread is tight (2¢). That means a single informed trader could have set price and not been challenged. Low volume reduces the market’s informational breadth; however, the market price is consistent with public evidence (polling + fundraising). So low volume is a caution but not conclusive evidence of error.
-- Why low volume? Possible reasons:
-  - The question is niche (primary outcome months away) and many traders prefer higher-liquidity markets.
-  - Public data so far gives a clear frontrunner (Booker) and a credible second (McGrath), so traders may not expect a large arbitrage opportunity.
-  - Or the market may be simply overlooked by traders who follow national-level races more closely.
+Why the obviously favorable facts may already be priced in
+- If a fact is clear (e.g., McGrath is well-known and fundraising), the market likely has already priced that in. The Emerson poll explicitly shows a relatively high undecided share, and markets tend to reflect both a candidate’s baseline support and the uncertainty in the undecided voters. The market price (16.5%) is not far from public poll levels (≈19%), so any “obvious” McGrath advantages may already be included.
 
-4) MISPRICING ASSESSMENT (objective weighing)
-- Given current public evidence (a credible, recent poll placing McGrath second at ~19% with 43% undecided and McGrath’s fundraising lead), there is no strong, specific, credible information missing from the market that would justify a large (>20¢) mispricing in either direction.
-- If the “true” probability were estimated by an independent translator of the Emerson poll and campaign finance signals, a plausible point-estimate for McGrath’s chance today might be in the ~12–22% range (reflecting polling share, undecideds, turnout uncertainty, cash advantage, prior name recognition). The market’s 15% sits inside that range.
-- Critical check: I verified resolution criteria (winner of Democratic primary, May 19, 2026) and the public polling/fundraising that traders could reasonably use. I do not find a technical misinterpretation (e.g., the market resolving on a different event or having already resolved). The presence of recent polling and public campaign finance means traders have access to the same information I used.
-- Therefore the best conclusion is: no clear, specific evidence of a large mispricing. The market may be slightly pessimistic about McGrath (if one gives extra weight to her fundraising and prior statewide run), or it may be a fair/charitable pricing that simply embeds uncertainty. Because both views are reasonable, any edge is modest.
+3) MARKET EFFICIENCY ANALYSIS
+- Interpretations consistent with the current price (16.5%):
+  - The market is reflecting recent polling that shows McGrath trailing Booker (Emerson: ~19% vs 30%) and discounting how much of the undecided vote will break her way.
+  - Market makers may be setting prices based on a mix of public data and a view that Booker is the favorite; low trading volume means price moves slowly and likely reflects a cautious consensus rather than strong conviction.
+- Could price reflect only one or a few traders? Yes. Total volume is low ($4,065) and age is 109 days; narrow spread indicates the market maker is providing liquidity and the mid-price could simply be the automated quotation or the view of a small set of liquidity providers rather than broad-based aggregation.
+- Is low volume because the outcome is obvious or because traders haven’t engaged? Evidence suggests it’s the latter: the race is still unsettled (large undecideds), and public polling shows a clear frontrunner (Booker) but not a lock. Low volume more likely indicates limited trader attention or risk appetite rather than full consensus. If it were obvious, volume might still be low, but the price would converge closer to 0% or 100% — here the market sits at 16.5%, which is an intermediate belief consistent with polls showing McGrath below leaders.
 
-5) EXPECTED VALUE CALCULATION
-- Strength of evidence that the market misses a genuine edge: I assess this at about 45% (there’s some evidence McGrath’s fundraising and name recognition are underweighted, but polling and undecideds provide a countervailing signal).
-- Magnitude of plausible mispricing if the market is wrong: I estimate a likely magnitude of 6 cents (i.e., market 15% vs a fair price maybe ≈21% in a best-case for McGrath). This is a modest, not-large gap.
-- Expected value = Strength × Magnitude = 0.45 × 6 cents = 2.7 cents.
+4) MISPRICING ASSESSMENT
+- Does credible evidence show a clear mispricing relative to information available to the market?
+  - No strong evidence of a large mispricing. Public polling and campaign filings are consistent with McGrath being an underdog; the market price is slightly below recent poll share but within plausible sampling margins and well within the remaining undecided swing.
+  - If I were to assign a plausible “correct” probability from public data: poll snapshot ~19% (Emerson) adjusted down to account for Booker's momentum and possible undervaluation of Booker’s support might put McGrath’s fair probability roughly in the mid-teens to low-20s (i.e., centered near the current market price). That makes the 16.5% market price plausible.
+- Critical-check (if I thought >20¢ mispricing): I do NOT find evidence for >0.20 (20 percentage points) mispricing. The difference between market (16.5%) and the Emerson poll snapshot of McGrath (≈19%) is small (≈2.5 points); this is not a large mispricing and certainly not >20 points.
+- Charity to informed traders: informed traders may be discounting McGrath because (a) Booker’s organizing/appeals appear stronger in the early primary electorate, (b) there are multiple Democrats splitting votes, and (c) the undecided electorate may break toward Booker or a different candidate as the primary approaches. Any of those would justify the market’s conservative price.
 
-6) CONFIDENCE IN THIS ASSESSMENT
-- Reasoning: the conclusion rests on a recent independent poll (Emerson Jan 31–Feb 2, 2026), campaign finance filings and contemporaneous reporting about candidate filings and debate scheduling. The data are reasonably credible but early; uncertainty is material because the primary is ~2 months away and many voters remain undecided. Given that, my confidence is medium.
+5) EXPECTED VALUE CALCULATION (value of further investigating / trading on mispricing)
+- Strength of evidence that the market is mispriced: moderate–low. Public polling and finance data are available and show McGrath trailing; nothing obvious is missing from public record that would justify a big divergence. I estimate Strength = 40% (0.40).
+- Plausible magnitude of mispricing if one exists: small — market is 16.5% vs poll-based raw share ~19% and accounting for dynamics maybe fair value ~18–22% at best. That implies a plausible magnitude of mispricing ≈ 2–5 cents (0.02–0.05).
+- Expected value = Strength × Magnitude. Using midpoints: Strength 0.40 × Magnitude 3 cents = 1.2 cents.
+EXPECTED_VALUE: 1.2
 
-Final short conclusions
-EXPECTED_VALUE: 2.7
-SUMMARY: Public polling (Emerson, Feb 2026) puts Amy McGrath second in the Kentucky Democratic primary (≈19%) with Charles Booker leading (≈30%) and ~43% undecided; McGrath leads Democratic fundraising but is behind in early polling. A 15% market price is within a plausible range given current polls and uncertain undecided voters; I find no clear, specific evidence of a large mispricing. Small edge possible (expected value ≈2.7¢) but uncertainty remains. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/))
+6) CONFIDENCE
+- My confidence in this assessment: medium (there is recent polling and primary is months away so uncertainty remains and the situation can evolve).
 CONFIDENCE: medium
+
+Short final judgments (2–3 sentences)
+SUMMARY: Recent public polling (Emerson College, Jan 31–Feb 2, 2026) shows Amy McGrath trailing Charles Booker (≈19% vs 30%) with a very large undecided pool; McGrath’s campaign is active and has fundraising, but available evidence does not show a clear multi-decade mispricing. With low market volume and a mid-teens price (16.5%), the market plausibly reflects present public information; there is limited evidence of a meaningful mispricing worth a large trade.
 
 ---
 
@@ -81,42 +90,44 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Welcome to the State Board of Elections - State Board of Elections](https://elect.ky.gov/)
-**Author:** Unknown | **Published:** Unknown
-
-Official Kentucky State Board of Elections site with the 2026 election calendar and primary day information. It confirms the primary election date (Primary Election Day — May 19, 2026), filing deadlines and practical details that define the timeline and resolution window for the market. This matters for assessment because the market resolves on the May 19, 2026 Democratic primary winner and any short-term changes (polls, debates, filings) must be interpreted against that date. ([elect.ky.gov](https://elect.ky.gov/?utm_source=openai))
-
 ### [Kentucky 2026 Poll: GOP Voters Split in Three-Way Primary to Succeed McConnell - Emerson Polling](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/)
-**Author:** Emerson College Polling | **Published:** 2026-02-02 (polling dates Jan 31–Feb 2, 2026)
+**Author:** Emerson College Polling | **Published:** 2026-02-05
 
-Full release of Emerson College’s early February 2026 Kentucky poll. The release shows Charles Booker at ~30% and Amy McGrath at ~19% in the Democratic primary with ~43% undecided (Democratic subsample n≈381; credibility interval ≈±5%). The methodology and full results are published. This is the central empirical data point for estimating McGrath’s current chance: it supports a modest but not dominant probability for McGrath, and explains why a market price near the mid-teens is plausible. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/))
+Emerson College Polling reports results from a Jan 31–Feb 2, 2026 survey of likely Kentucky voters. The poll finds Charles Booker leading the Democratic primary with ~30% support and Amy McGrath at ~19%, with 43% of Democratic primary voters undecided. This is the most directly relevant public snapshot of the Democratic primary electorate and supports the view that McGrath is currently trailing but that a large undecided block leaves outcomes uncertain; the Emerson numbers are a primary datum used to judge whether the market's 16.5% price is plausible.
 
-### [Barr, Booker lead early polling in Kentucky Senate primaries to replace McConnell](https://www.wkyt.com/2026/02/05/barr-booker-lead-early-polling-kentucky-senate-primaries-replace-mcconnell/)
+### [Democrat Amy McGrath launches comeback bid in seeking the seat of retiring Sen. Mitch McConnell](https://apnews.com/article/3b13de4a3939a34c39935d0b6cb99261)
+**Author:** Unknown (Associated Press) | **Published:** 2025-10-06
+
+AP coverage of Amy McGrath’s October 6, 2025 campaign launch for the open Kentucky Senate seat. The article documents McGrath’s announcement, the framing of her candidacy, and situates her among other candidates; it confirms she is an active candidate (important to resolution) and provides context on her name recognition and prior statewide runs — factors that affect vote share and the market’s expectations.
+
+### [Amy McGrath to again run for Mitch McConnell's Senate seat](https://www.wbko.com/2026/01/07/mcgrath-cameron-officially-file-us-senate-candidacy/)
+**Author:** Unknown (WBKO News Staff) | **Published:** 2026-01-07
+
+Local reporting that Amy McGrath (and other candidates) officially filed to run for the U.S. Senate in Kentucky on Jan 7, 2026. This confirms her formal candidacy and timing of filings (relevant to resolution rules and to confirm campaign is active); it’s also useful to verify that the market should resolve to YES only if she wins the Democratic primary.
+
+### [Amy McGrath to again run for Mitch McConnell's Senate seat — Washington Post](https://www.washingtonpost.com/politics/2025/10/06/amy-mcgrath-kentucky-senate-campaign/8e2b71c6-a2c4-11f0-a79e-ccb5b1f59130_story.html?itid=agg_ticker)
+**Author:** Unknown (Washington Post) | **Published:** 2025-10-06
+
+National coverage of McGrath’s 2025 campaign announcement providing additional context about her history, prior fundraising/donor networks, and campaign messaging. This supports the assessment that McGrath is a recognizable candidate whose fundraising and network are factors the market would logically incorporate.
+
+### [Amy McGrath announces U.S. Senate candidacy (Spectrum News 1)](https://spectrumnews1.com/ky/louisville/news/2025/10/04/amy-mcgrath-senate-2026)
+**Author:** Unknown (Spectrum News 1) | **Published:** 2025-10-04
+
+Local TV reporting of McGrath’s announcement and campaign themes; confirms her launch and gives additional quotes/commitments from McGrath. Useful for confirming campaign activity and voter-facing messaging (which could matter to undecided voters).
+
+### [Charles Booker officially files for U.S. Senate (Spectrum News 1)](https://spectrumnews1.com/ky/louisville/news/2026/01/09/charles-booker-senate)
+**Author:** Unknown (Spectrum News 1) | **Published:** 2026-01-09
+
+Confirms Charles Booker’s entry and filing into the 2026 Kentucky Senate race; provides context on Booker’s prior statewide runs (2022) and organizational strengths. This establishes who McGrath’s main Democratic competition is and supports interpretation of polling dynamics (Booker as frontrunner).
+
+### [FEC filing (Amy McGrath for Senate) — docquery (PDF)](https://docquery.fec.gov/pdf/868/202601309794612868/202601309794612868.pdf)
+**Author:** Federal Election Commission (document) | **Published:** 2026-01-30
+
+Direct FEC filing associated with Amy McGrath’s campaign committee (forms filed in late 2025 / Jan 2026). This primary-source document confirms an active McGrath campaign, and FEC filings are the authoritative record for campaign committee existence and disclosures used to evaluate fundraising and formal campaign activity — an important datapoint for assessing organization and resources versus opponent campaigns.
+
+### [Barr, Booker lead early polling in Kentucky Senate primaries to replace McConnell (WKYT)](https://www.wkyt.com/2026/02/05/barr-booker-lead-early-polling-kentucky-senate-primaries-replace-mcconnell/)
 **Author:** WKYT News Staff | **Published:** 2026-02-05
 
-Local TV-news coverage summarizing the Emerson poll and its implications. WKYT highlights Booker’s lead among Democrats (≈30%) and McGrath’s second-place position (≈19%) plus the large undecided share. The article also summarizes approval ratings and demographic cross-tabs that indicate where McGrath and Booker have relative strengths. WKYT’s reporting corroborates and frames the poll for Kentucky voters — useful for judging how local media may shape undecided voters and campaign momentum. ([wkyt.com](https://www.wkyt.com/2026/02/05/barr-booker-lead-early-polling-kentucky-senate-primaries-replace-mcconnell/))
+Local outlet coverage summarizing the Emerson College poll results and quoting Emerson’s commentary; it reports Booker at ~30% and McGrath ~19% with 43% of Democrats undecided. Useful corroboration of the Emerson toplines and the geographic/age-group breakouts that show how McGrath’s support compares across subgroups.
 
-### [How much did Amy McGrath, Charles Booker & newcomer Dems raise for US Senate?](https://www.yahoo.com/news/articles/much-did-amy-mcgrath-charles-123511734.html)
-**Author:** Austin Horn | **Published:** 2026-02-04
-
-Reporting summarizing campaign finance filings for Democratic Senate candidates in Kentucky. It reports Amy McGrath led Democrats by raising more than ~$1.3M in the relevant quarter and that much of her high-dollar donor base for those filings was out-of-state; it contrasts McGrath’s cash advantage with Booker’s much smaller haul after his later entry. Fundraising is relevant because cash can be deployed to convert undecideds and fund advertising/GOTV before the May primary. This source supports an argument that McGrath may have organizational firepower that could raise her win probability above what a single snapshot poll shows. ([yahoo.com](https://www.yahoo.com/news/articles/much-did-amy-mcgrath-charles-123511734.html?utm_source=openai))
-
-### [Cameron leads polls in Kentucky’s GOP Senate primary, though billionaires back opponent](https://www.wkms.org/2026-02-02/cameron-leads-polls-in-kentuckys-gop-senate-primary-though-billionaires-back-opponent)
-**Author:** Unknown | **Published:** 2026-02-02
-
-Regional public-radio reporting that summarizes early polling and fundraising across both parties, and notes McGrath’s fundraising advantage among Democrats (reporting she raised >$1.3M since entering the race). It corroborates the Yahoo/press reporting on relative cash and provides local context about candidate profiles and early dynamics. That corroboration gives confidence that fundraising and polling signals are accurate and public. ([wkms.org](https://www.wkms.org/2026-02-02/cameron-leads-polls-in-kentuckys-gop-senate-primary-though-billionaires-back-opponent?utm_source=openai))
-
-### [Former Kentucky representative officially enters US Senate race (Charles Booker)](https://spectrumnews1.com/ky/louisville/news/2025/12/03/charles-booker-senate-2026)
-**Author:** Spectrum News 1 | **Published:** 2025-12-03
-
-Coverage of Charles Booker’s campaign launch and background; confirms Booker’s entry and provides campaign messaging and early endorsements. Booker’s entry and subsequent local endorsements/organizing help explain his early polling lead and why McGrath may be the underdog in early polls even though she has more cash. This affects the market analysis because Booker's presence and momentum are a direct reason McGrath’s win probability is not higher. ([spectrumnews1.com](https://spectrumnews1.com/ky/louisville/news/2025/12/03/charles-booker-senate-2026?utm_source=openai))
-
-### [Spectrum News announces Democratic debate for McConnell’s Senate seat](https://spectrumnews1.com/ky/louisville/news/2026/03/04/spectrum-news-democratic-senate-debate)
-**Author:** Spectrum News 1 staff | **Published:** 2026-03-04
-
-Announcement that Spectrum News will host a March 2026 Democratic primary debate including major Democratic candidates (Booker, McGrath, Dale Romans, Pamela Stevenson). Debate schedules and media events are relevant because they are moments that can move undecided voters; McGrath’s performance and advertising immediately after debates can materially change short-run win probabilities. The source supports the assessment that the race is active and that binary resolution is still influenced by near-term events. ([spectrumnews1.com](https://spectrumnews1.com/ky/louisville/news/2026/03/04/spectrum-news-democratic-senate-debate?utm_source=openai))
-
-### [First independent poll in Kentucky US Senate race shows many voters are still undecided](https://kentuckylantern.com/2026/02/05/first-independent-poll-in-kentucky-us-senate-race-shows-many-voters-are-still-undecided/)
-**Author:** Kentucky Lantern staff | **Published:** 2026-02-05
-
-Local news analysis of the Emerson poll emphasizing the large undecided share (≈43% in the Democratic primary subsample) and expert commentary that the poll suggests no firm frontrunner in the practical sense because undecideds leave the race open. The article underscores the remaining uncertainty and the danger of over-interpreting a single snapshot — a key reason why a market price in the mid-teens is reasonable. ([kentuckylantern.com](https://kentuckylantern.com/2026/02/05/first-independent-poll-in-kentucky-us-senate-race-shows-many-voters-are-still-undecided/?utm_source=openai))
+(Note: I focused on primary-source polling (Emerson), mainstream news (AP, Washington Post, local outlets), and the FEC filings as the most relevant and trustworthy evidence for judging whether the market’s 16.5% price shows credible mispricing. Public evidence shows McGrath is a legitimate candidate with fundraising capacity, but recent polls show her trailing the current frontrunner — the market price is plausibly consistent with that public information and the large undecided share.)

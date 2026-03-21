@@ -1,7 +1,7 @@
 # Research: Will Microsoft (MSFT) close above $375 end of March?
 
 **Market ID:** 0x58f7a61c84475606d39109d5e25f4743cef074d7915fd5938784516129bd6d17
-**Researched At:** March 12, 2026 at 06:22:32 PM UTC
+**Researched At:** March 21, 2026 at 04:24:38 AM UTC
 **Search Query:** "Will Microsoft (MSFT) close above $375 end of March?"
 
 ---
@@ -9,66 +9,89 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.5¢
+**Expected Value:** 2.8¢
 
 ### Summary
 
-The market’s 84.5% probability that MSFT closes above $375 on March 31, 2026 is broadly consistent with the current ~$405 spot and with near‑term option‑implied odds given realistic implied volatility; there is no clear public information that points to a large (>20¢) mispricing. However, the market’s zero trading volume makes the quote fragile — the posted probability may reflect a single participant and carries execution risk. CONFIDENCE: medium
-
-SOURCES:
----
-Title: Microsoft Fiscal Year 2026 
+Market price (70% for MSFT > $375 at end‑of‑March) is plausible given current spot (~$382 on Mar 20/21) and typical short‑term volatility assumptions; public news (strong quarter but very large AI capex, and a notable analyst downgrade) raises short‑term downside risk and volatility, which would push the "true" probability modestly lower (mid‑60s %). Low market volume ($935) means the quoted price may reflect one or a few traders rather than broad aggregation, so the market is not decisively eff
 
 ### Full Analysis
 
-I researched market and news sources and evaluated whether the MSFT > $375 end-of-March market (current market price = 84.5%, spread 5¢, total vol $0) looks mispriced. Short answer: there is no strong, specific evidence of a large mispricing; the current price is broadly consistent with spot, recent earnings/capex developments, and option-implied odds — but the market’s zero trading volume means the quoted probability is fragile and should be treated cautiously. Below I show the reasoning, evidence, and a numeric expected-value estimate for investigating this market.
+Plan & search summary
+- Questions I needed answered: (a) current MSFT price and recent trend; (b) material corporate events or mechanics that could change resolution (splits, dividends, trading halts) before March 31, 2026; (c) recent news/analyst moves that materially change near-term probability (earnings, large capex announcements, downgrades) and their timing.
+- I used my 3-search budget to fetch: an authoritative live quote (Google Finance), a major news earnings/capex story (AP), coverage of recent analyst downgrades and market reaction (Investing.com), and Microsoft’s investor page to check for corporate actions/events.
 
-1) CONTEXT ANALYSIS — what the market asks and exact resolution
-- The market resolves "Yes" if Yahoo Finance’s official NASDAQ closing price for MSFT on the final trading day of March 2026 (March 31, 2026) is strictly greater than $375; otherwise it resolves "No". The market description explicitly uses Yahoo Finance historical "Close" as the resolution source. ([finance.yahoo.com](https://finance.yahoo.com/quote/MSFT//?utm_source=openai))
-- Practically, for the market to resolve Yes MSFT must finish the March 31, 2026 close at $375.01 or higher (any split-adjustments would be handled per the market rules). Any trading halt or missing official close would push resolution to the last regular-session on-exchange trade price, per the description. ([finance.yahoo.com](https://finance.yahoo.com/quote/MSFT//?utm_source=openai))
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- The market asks: "Will Microsoft (MSFT) close above $375 end of March?" That resolves to YES if the official closing price on the final trading day of March 2026 (the market-specified resolution source: Yahoo Finance historical close for MSFT on the final trading day of March 2026) is strictly greater than $375; otherwise NO. (Final trading day of March 2026 = March 31, 2026.)
+- For YES: the official close on March 31, 2026 must be > $375 (split‑adjusted, per the market’s resolution rules).
+- For NO: the official close must be ≤ $375, or technical resolution rules require use of last valid trade if a close isn’t published.
 
-2) EVIDENCE EVALUATION — relevant facts and how they affect the probability
-Key market facts (most load-bearing):
-- Current spot: MSFT is trading around $404–$406 in mid‑March 2026 (recent closes ~$405; latest close used in pricing is ~$404.9). That is about $29–31 above the $375 threshold. A ~7–8% drop from spot would be required to take it below $375 before March 31. ([marketbeat.com](https://www.marketbeat.com/stocks/NASDAQ/MSFT/chart/?utm_source=openai))
-- Company fundamentals / recent news: Microsoft reported strong headline Q2 FY2026 results (revenue and EPS beats) but disclosed very large capital expenditures ($37.5B in the quarter, with a material share on short‑lived GPU/CPU assets) and a large RPO/backlog tied to AI/OpenAI. Investors focused on capex and the potential timing of returns from AI spending, which produced a post‑earnings selloff and elevated short-term risk sentiment. These company disclosures are public and widely reported. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2?utm_source=openai))
-- Option market (implied volatility): readily available reporting and options commentary for March expirations show MSFT short-term implied volatilities in the mid‑20%–30% annualized range for near‑term expiries; plugging those IVs into a lognormal probability estimate gives implied probabilities of finishing >$375 in the high 80s–low 90s percent range (i.e., consistent with the market’s 84.5% but not wildly inconsistent). A higher short-term IV (e.g., ~35–40%) would push implied probability down toward the market price; a lower IV (~22–25%) would imply a higher probability than 84.5%. (Option IV data and chain commentary are available from exchange and options-data websites and recent coverage of March options). ([nasdaq.com](https://www.nasdaq.com/articles/interesting-msft-put-and-call-options-march-2026?utm_source=openai))
-How each fact affects the market price
-- Bullish evidence supporting >$375: (a) Current spot is comfortably above $375 (~$405), so absent a large negative move MSFT will clear $375; (b) Microsoft’s business remains large and growing (Azure/MS Cloud growth continued and backlog/RPO is large) which supports higher spot levels over time; (c) option-implied probabilities using realistic IVs commonly imply a >80% chance of staying above $375 over the ~3-week horizon. These points support the market price being reasonable. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2?utm_source=openai))
-- Bearish evidence that could challenge the market price: (a) the very large recent capex and investor concern that AI spending will compress near-term free-cash-flow or margins — this drove outsized intraday volatility and an earlier post‑earnings down-leg; (b) geopolitical and macro risks (oil spikes, geopolitical events, Fed rate uncertainty) can and do produce >7% moves in large-cap tech in a few weeks; (c) the market’s zero trading volume indicates the posted probability may reflect a single actor rather than a broad pool of traders who have digested the above risks. These points argue caution and that the market quote could be fragile. ([sg.finance.yahoo.com](https://sg.finance.yahoo.com/news/microsoft-drops-amid-slowing-cloud-204708743.html?utm_source=openai))
-Source credibility and recency
-- Microsoft investor relations/earnings materials are primary and authoritative for the capex, revenue, and RPO numbers. Reporting from core financial outlets (Bloomberg/CNBC/Investing/S&P Global) is recent and corroborates investor reaction and volatility. Options-chain IV observations (Nasdaq/options data sites) are a direct market signal of near-term expected move. Those are the most credible and relevant sources. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2?utm_source=openai))
-Skepticism about “too-obvious” evidence
-- If the situation (e.g., capex fears) were so determinative that the probability should be near 0% or 100%, options and spot would already reflect that with much wider moves; instead we see the stock ~8% above the trigger and options implying mid‑80s–90s probabilities, which is consistent with a moderate but not trivial chance of a downside swing. That suggests the market has already incorporated the main public facts.
+Key point: the market uses Yahoo Finance historical "Close" value for the MSFT listing on the final trading day of March 2026 as the resolution source (this is stated in the market description you provided).
 
-3) MARKET EFFICIENCY ANALYSIS — is the quoted 84.5% reliable?
-- Reasonable interpretations that justify 84.5%:
-  - Using the observed spot (~$405) and typical short-term implied vol (mid‑20s–30% annualized), a Black‑Scholes/lognormal calculation produces probabilities in the high‑80s for finishing above $375 by end‑March — close to the market's 84.5%. That makes the market price defensible as an options‑consistent, risk‑adjusted probability. ([marketbeat.com](https://www.marketbeat.com/stocks/NASDAQ/MSFT/chart/?utm_source=openai))
-  - The market may be conservatively pricing in elevated short-term risk (higher IV) after the post‑earnings swing and macro uncertainty; a slightly elevated IV versus historical can explain why the marketed probability is a bit lower than a naive “spot gap” calculation.
-- Reasons to distrust the quote:
-  - Total volume = $0 (no trades) means the displayed probability could be the creator’s default or a single trader’s quote rather than an equilibrium price from many participants; with zero volume the market is not an active aggregator of beliefs.
-  - Low volume + narrow spread is consistent with a posted market by the platform or a liquidity provider; that makes the probability fragile and sensitive to new information or a single trade.
-- Is low volume because the event is obvious or because traders haven’t engaged?
-  - I judge it’s partly the latter. The event is near-term and relatively low-information (a single close), so many investors either manage risk with options or ignore a short, small-dollar speculative market; that can leave a posted quote unchallenged. Given option markets and mainstream coverage are active, I suspect most informed liquidity is expressed elsewhere (options/futures/OTC) rather than this particular prediction-market listing.
+2) EVIDENCE EVALUATION — what I found and how it affects the probability
 
-4) MISPRICING ASSESSMENT — weigh both sides and do the critical check
-- Does the evidence show a clear, actionable mispricing (especially >20 cents)? No.
-  - Numerical check: spot ≈ $405 vs strike $375 — a ~8% cushion. With plausible short-term IV (25–30%), standard lognormal calculations produce probabilities in the high‑80s to low‑90s that MSFT will finish >$375 by March 31. That aligns with the quoted 84.5% and implies only a modest potential mispricing (single-digit cents), not a large arbitrage. ([marketbeat.com](https://www.marketbeat.com/stocks/NASDAQ/MSFT/chart/?utm_source=openai))
-  - The market’s zero volume is a red flag that the quote could be fragile or not representative; this increases execution and information risk for acting on any supposed edge.
-- Critical checklist:
-  - Resolution criteria: exact (Yahoo Finance close on 2026-03-31) — I verified the market description uses Yahoo Finance historical close as the official source, and there’s no sign of corporate action or unusual calendar issues that would change that before March 31. ([finance.yahoo.com](https://finance.yahoo.com/quote/MSFT//?utm_source=openai))
-  - Could I be missing an information stream that professional traders have? Yes — large institutional hedges and OTC bets (options/futures) are not visible from a low-volume prediction market and could explain pricing differences. The options market and corporate disclosures (capex/backlog) are the most likely sources of private/market information; I used public options IV summaries and Microsoft’s own filings to calibrate.
-- Conclusion on mispricing: there is not specific, credible evidence of a large missing piece that would justify concluding >20¢ mispricing. The posted 84.5% probability is within the range implied by spot + plausible option IV and consistent with public news; therefore I judge any mispricing is small and uncertain. However, the zero traded volume means the quote is fragile — there is execution risk and a heightened chance the price could move materially if an informed participant acts.
+a) Current price and recent context
+- As of the most recent market data (Google Finance snapshot covering the close on Mar 20 / after‑hours), MSFT was trading roughly $381.85 (after‑hours $383.51) with previous close $389.02 and a 52‑week range roughly $344.79–$555.45. This places the current price a few dollars above the $375 threshold and within a few percent. ([google.com](https://www.google.com/finance/quote/MSFT%3ANASDAQ))
+  - Relevance: the current spot price is the single strongest short‑term predictor for the March‑31 close; being ~ $7–$14 above $375 makes YES the baseline more likely than NO absent a large drawdown.
 
-5) EXPECTED VALUE CALCULATION (estimate of the value of acting on the market)
-- Strength of evidence (how confident I am that something material is missing from the price): 50% (moderate). Rationale: public earnings/capex and options IV broadly match the price but absence of trading and the strong capex story leave room for a modest edge.
-- Estimated magnitude of mispricing if it exists: ~5 cents (i.e., the market could be off by a small amount, roughly 3–7¢). Rationale: Black‑Scholes / IV cross-checks suggest at most a single-digit-cent gap between option-implied probability and this market quote.
-- Expected value = Strength × Magnitude = 50% × 5 cents = 2.5 cents.
-EXPECTED_VALUE: 2.5
+b) Fundamental/news catalysts that could move the price before March 31
+- Microsoft reported strong revenue/earnings for a recent quarter (revenue and EPS beat), but announced very large capital expenditures related to AI infrastructure (reported $37.5B in one quarter in coverage of the January earnings release). That capex disclosure and investor concern about near‑term margins / spending drove volatility and analyst re‑rating in February. The AP summary of the results and coverage of large AI spending is relevant evidence of drivers that have increased downside risk and volatility. ([apnews.com](https://apnews.com/article/db920987a30c23ccc6b50e698897902a?utm_source=openai))
+  - Relevance: big, front‑loaded capex can increase investor worry about margins in the short term and raise the chance of price weakness before month‑end.
+
+- Several outlets reported a notable Stifel downgrade (to Hold, price target cut materially) citing Azure supply constraints and high AI spending; this downgrade contributed to further short‑term selling/volatility. Investing.com summarized the downgrade and market reaction. Analyst downgrades and visible negative headlines can increase downside risk and near‑term volatility. ([investing.com](https://www.investing.com/news/stock-market-news/stifel-issues-rare-microsoft-downgrade-on-cloud-and-ai-concerns-4487415?utm_source=openai))
+
+c) Corporate actions / mechanical resolution risks
+- Microsoft’s investor relations events page shows the normal IR calendar; I found no indication of an announced stock split or a corporate action between now and March 31 that would change the split‑adjusted close or the mechanics in the market description (absence of announced split or special trading halt in the IR events). That reduces the chance of an unexpected resolution technicality. (Investors should still monitor Microsoft SEC filings/8‑K in case of a surprise.) ([microsoft.com](https://www.microsoft.com/en-us/investor/events/default))
+
+d) Credibility and recency of sources
+- Google Finance is a mainstream market data provider and gives the near‑real‑time quote and relevant market statistics; it is appropriate to cite for current price. ([google.com](https://www.google.com/finance/quote/MSFT%3ANASDAQ))
+- AP News’ earnings coverage is reputable and timely (it reports the company’s announced quarterly figures and notes the capex disclosures) — strong credibility. ([apnews.com](https://apnews.com/article/db920987a30c23ccc6b50e698897902a?utm_source=openai))
+- Investing.com coverage of the Stifel downgrade cites Reuters/market reports and captures the market reaction; it is a mainstream aggregator frequently used for analyst‑move reporting. ([investing.com](https://www.investing.com/news/stock-market-news/stifel-issues-rare-microsoft-downgrade-on-cloud-and-ai-concerns-4487415?utm_source=openai))
+- Microsoft’s IR site is authoritative for company disclosures and event calendars. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/default))
+
+e) Bullish vs. bearish evidence (concise)
+- Bullish evidence supporting the market’s YES probability:
+  - Current spot is above $375 (baseline favors YES absent a large drawdown). ([google.com](https://www.google.com/finance/quote/MSFT%3ANASDAQ))
+  - The company continues to post strong revenue and earnings beats; many analysts remain constructive on longer-term fundamentals (supporting resilience in the share price). ([apnews.com](https://apnews.com/article/db920987a30c23ccc6b50e698897902a?utm_source=openai))
+- Bearish evidence that could make NO more likely:
+  - Elevated investor concern over very large AI capex (reported quarter with huge CapEx), which can pull the multiple down and add volatility near term. ([apnews.com](https://apnews.com/article/db920987a30c23ccc6b50e698897902a?utm_source=openai))
+  - Recent analyst downgrades/price‑target cuts (e.g., Stifel) produced short‑term selling and show differing near‑term views — raising downside risk into month‑end. ([investing.com](https://www.investing.com/news/stock-market-news/stifel-issues-rare-microsoft-downgrade-on-cloud-and-ai-concerns-4487415?utm_source=openai))
+
+f) Skepticism about “obvious” signals
+- If the market price (70% yes) were obviously wrong, we would expect heavy arbitrage or options activity pushing it toward correct probability. Instead the market has low total volume ($935) and a tight spread (6¢) — that pattern is consistent with a small group setting the price rather than broad information aggregation. That argues caution in assuming the market fully reflects public information.
+
+3) MARKET EFFICIENCY ANALYSIS — can the market price be explained?
+- A plausible interpretation justifying a 70% YES probability:
+  - Current spot (~$382) is modestly above the $375 threshold. With only about 8 trading days to March 31 (from Mar 21), and absent any major news, the distribution of likely closes is tightly centered, so a >60% probability of finishing above $375 is reasonable. A simple statistical (log‑normal) short‑term model with MSFT annual volatility in the ~20–30% range produces probabilities in the ballpark of mid‑60s percent to low‑70s percent for finishing >$375 given the current spot (see "Critical Check" below for a brief numerical illustration).
+- Could the price reflect only a few traders?
+  - Yes — the market’s low trading volume ($935 total) strongly suggests a small number of participants set the price. Tight spread + low volume often indicates a single liquidity provider or two‑sided quoting by a few traders rather than wide, diverse participation.
+- Is low volume because the outcome is obvious, or because informed traders haven’t engaged?
+  - Mixed: the outcome (close > $375) is not obviously certain — MSFT is only a few percent above the threshold and recent headlines increased volatility. The low volume therefore likely reflects low attention from traders (not obvious certainty). That increases the chance of mispricing relative to a deeply traded market.
+
+4) MISPRICING ASSESSMENT — weighing the evidence
+- Does the research reveal specific, credible information missing from the market price?
+  - No clear, single piece of material information was uncovered that was clearly missing from the market price. The public evidence (current price, recent earnings, capex disclosure, analyst downgrades) appears consistent with a probability in the 60–75% range for finishing above $375, depending on the volatility assumption.
+- Numerical sanity check (critical check):
+  - Rough short‑term probability estimate (back‑of‑envelope): S0 ≈ $382, K = $375, time ≈ 8 trading days (~0.032 year). If annual sigma = 0.25 (25%), sigma*sqrt(T) ≈ 0.25*sqrt(0.032) ≈ 0.0446. Using the log return gap ln(S0/K)≈ln(382/375)=0.0185. Z ≈ 0.0185 / 0.0446 ≈ 0.415 → implied P(S_T > K) ≈ N(0.415) ≈ 66%. If sigma = 30% → prob ≈ 64%. If sigma = 20% → prob ≈ 70–71%. So a 70% market probability is consistent with a lower short‑term volatility assumption (~20% annualized) and borderline if sigma is higher.
+  - Given the recent volatility spike after earnings and capex headlines, an assumption of 25–30% annualized realized/implied volatility is arguably more realistic for near term — that would imply a somewhat lower probability (mid‑60s %), so the market’s 70% is modestly optimistic but not an extreme outlier.
+- Most charitable interpretation for why traders priced 70%:
+  - Traders may be using an implied‑volatility or option‑implied view that short‑term volatility will be subdued and are anchoring to the current level above $375; or a single liquidity provider favoring the YES side is controlling quotes. Both explain a 70% price without implying a large arbitrage opportunity.
+
+Conclusion of mispricing assessment
+- There is no clear, high‑confidence evidence that the market is badly mispriced (i.e., a >20¢ error). The current public information and a simple probabilistic model place the true probability in the mid‑60s percent to low‑70s percent range depending on volatility assumptions. That means the market price of 70% could be reasonable; if anything, the biggest single source of uncertainty is short‑term volatility (and the low market volume which reduces confidence that the market aggregated diverse information).
+
+5) EXPECTED VALUE CALCULATION (estimate of benefit from investigating / trading this market)
+- Strength of evidence (how much of the relevant information appears unpriced): 40% — there are credible public risks (capex, downgrades) but no obvious hidden catalyst that would flip the outcome with near‑certainty, and current spot already reflects much visible information.
+- Magnitude of plausible mispricing if one is present: ~7 cents (i.e., the market might be off by <10¢ given the back‑of‑envelope probability gap between mid‑60s and 70%).
+- Expected value = Strength × Magnitude = 0.40 × 7 cents = 2.8 cents.
+EXPECTED_VALUE: 2.8
 
 6) CONFIDENCE
-- My confidence in this overall assessment: medium. I can trace the essential public facts to primary sources (Microsoft filings and mainstream reporting) and options-implied motion, but the low-volume nature of the specific prediction-market listing raises model risk; there may be private flows or liquidity-provider motives not observable to me.
+- My overall confidence in this assessment: medium. The conclusion rests on current observable prices, recent credible news (earnings and very large capex), and the stated market mechanics; the main uncertainty is the true short‑term volatility and who is providing liquidity in the prediction market.
 
-SUMMARY: The market’s 84.5% probability that MSFT closes above $375 on March 31, 2026 is broadly consistent with the current ~$405 spot and with near‑term option‑implied odds given realistic implied volatility; there is no clear public information that points to a large (>20¢) mispricing. However, the market’s zero trading volume makes the quote fragile — the posted probability may reflect a single participant and carries execution risk. CONFIDENCE: medium
+SUMMARY: Market price (70% for MSFT > $375 at end‑of‑March) is plausible given current spot (~$382 on Mar 20/21) and typical short‑term volatility assumptions; public news (strong quarter but very large AI capex, and a notable analyst downgrade) raises short‑term downside risk and volatility, which would push the "true" probability modestly lower (mid‑60s %). Low market volume ($935) means the quoted price may reflect one or a few traders rather than broad aggregation, so the market is not decisively efficient — expected edge from trading this market is small (≈2.8¢) and not high‑confidence.
+
+CONFIDENCE: medium
 
 ---
 
@@ -76,37 +99,22 @@ SUMMARY: The market’s 84.5% probability that MSFT closes above $375 on March 3
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Microsoft Fiscal Year 2026 Second Quarter Earnings Conference Call](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2)
-**Author:** Microsoft Investor Relations (Microsoft Corp.) | **Published:** 2026-01-28
-
-Microsoft’s investor-relations earnings page includes the Q2 FY2026 results, slide deck text, and transcript highlights. It reports revenue and EPS beats, Azure/MS Cloud metrics, the very large quarterly capital expenditures figure (reported as $37.5B for the quarter, with ~two-thirds on short-lived GPUs/CPUs), and commentary on remaining performance obligations (RPO) and capacity constraints. These primary company disclosures are central to understanding why investors have recently re‑priced MSFT risk (capex vs. cloud growth) and therefore directly inform the probability that the stock will trade above $375 at month-end; they support the interpretation that the post‑earnings volatility and elevated capex are already public information priced into markets. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q2?utm_source=openai))
-
-### [Microsoft Corporation (MSFT) Stock Chart & Price History — MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/MSFT/chart/)
-**Author:** MarketBeat Staff | **Published:** 2026-03-11
-
-MarketBeat’s MSFT page reports recent closing prices and historical daily data; the March 11, 2026 close is reported around $404.88–$405.76 depending on the vendor snapshot. This source provides a reliable cross-check of the current spot price and recent price action, which is the baseline for computing how far MSFT must move to resolve below $375 (roughly an ~7–8% move). The spot number is a primary input when comparing the market's 84.5% claim to option-implied probabilities. ([marketbeat.com](https://www.marketbeat.com/stocks/NASDAQ/MSFT/chart/?utm_source=openai))
-
-### [MSFT - Microsoft Corp Stock Quote — Barchart](https://www.barchart.com/quotes/MSFT)
-**Author:** Barchart | **Published:** 2026-03-11
-
-Barchart publishes live/closing quotes for MSFT (quoted close ~$404.88 on March 11, 2026) and short-term market summary metrics. This corroborates the MarketBeat spot price used in probability checks and illustrates that the stock is roughly $30 above the $375 threshold, which is central to estimating the likely probability of ending March above that level. The reliable quote supports the conclusion that the market’s probability is not wildly out of line with spot and options data. ([barchart.com](https://www.barchart.com/quotes/MSFT?utm_source=openai))
-
-### [Interesting MSFT Put And Call Options For March 2026 | Nasdaq](https://www.nasdaq.com/articles/interesting-msft-put-and-call-options-march-2026)
+### [Microsoft Corp (MSFT) Stock Price & News - Google Finance](https://www.google.com/finance/quote/MSFT:NASDAQ)
 **Author:** Unknown | **Published:** Unknown
 
-This options-focused article highlights active March 2026 MSFT option strikes and shows example implied volatilities in the mid‑20% range for March expirations (sample call/put IVs ~24–25% in the cited example). These IV figures are the direct market evidence of expected short-term movement; translating those IVs into end-of‑March probabilities yields values in the high‑80s to low‑90s for clearing $375, which aligns with the prediction-market quote and argues the quoted 84.5% is plausible, not obviously mispriced. ([nasdaq.com](https://www.nasdaq.com/articles/interesting-msft-put-and-call-options-march-2026?utm_source=openai))
+This Google Finance page provides the most recent market quote, previous close, day range, 52‑week range, market cap and other snapshot data for MSFT. It shows MSFT trading around $381.85 (after‑hours $383.51) with a previous close near $389 (snapshot captured Mar 20/21, 2026). This source is the primary evidence for the current spot price relative to the $375 threshold and for basic market context (volume, ranges), supporting the conclusion that the current price is near the strike and that a >50% chance of closing above $375 is plausible. ([google.com](https://www.google.com/finance/quote/MSFT%3ANASDAQ))
 
-### [Microsoft drops amid slowing cloud growth, record spending (Bloomberg via Yahoo)](https://sg.finance.yahoo.com/news/microsoft-drops-amid-slowing-cloud-204708743.html)
-**Author:** Matt Day & Brody Ford (Bloomberg) / published on Yahoo Finance | **Published:** 2026-01-28
+### [Microsoft beats Wall Street expectations with $81.3B revenue](https://apnews.com/article/db920987a30c23ccc6b50e698897902a)
+**Author:** Associated Press | **Published:** 2026-01-28
 
-Bloomberg coverage (reposted by Yahoo Finance) summarizes the January earnings reaction: Microsoft beat revenue/EPS estimates but disclosed record capex ($37.5B) and a slightly slower Azure growth rate, prompting a multi‑percent post‑earnings decline in the stock. This reporting documents the market reaction that increased near-term volatility and investor scrutiny of capex vs. revenue timing — a contextual factor explaining why short-term option IV rose and why a prediction market might price more conservatively. ([sg.finance.yahoo.com](https://sg.finance.yahoo.com/news/microsoft-drops-amid-slowing-cloud-204708743.html?utm_source=openai))
+AP summarizes Microsoft's recent quarterly results, including revenue beats and reported large capital expenditures related to AI infrastructure (coverage cites the company’s reported numbers). The article documents the combination of strong top‑line performance and very large CapEx that has driven investor concern and increased short‑term volatility. This supports the view that fundamentals are strong (bullish) but short‑term headline capex risk is real (bearish), which directly affects the probability of a month‑end close above $375. ([apnews.com](https://apnews.com/article/db920987a30c23ccc6b50e698897902a?utm_source=openai))
 
-### [Microsoft and Meta earnings preview: Capex growth looms amid AI investment | S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/01/microsoft-and-meta-earnings-review-and-outlook)
-**Author:** Unknown | **Published:** 2026-01- (Unknown exact date)
+### [Stifel issues rare Microsoft downgrade on cloud and AI concerns](https://www.investing.com/news/stock-market-news/stifel-issues-rare-microsoft-downgrade-on-cloud-and-ai-concerns-4487415)
+**Author:** Investing.com staff (aggregated market reporting) | **Published:** 2026-02-05
 
-S&P Global’s analysis previews and reviews the companies’ results and highlights the investor focus on AI-related capex, Azure AI services growth expectations, and backlog metrics. The piece helps frame analyst concerns about capex and the timing of returns on AI investments — issues that materially influence short-term volatility and the implied probability distribution for MSFT’s price through March. This supports the view that public corporate disclosures have already been (partly) incorporated into derivatives and equity markets. ([spglobal.com](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/01/microsoft-and-meta-earnings-preview1?utm_source=openai))
+This article reports Stifel’s downgrade of Microsoft to Hold and the large cut to its price target (and summarizes market reaction). The downgrade cited Azure supply constraints and heavy AI spending as reasons, which increased near‑term selling pressure and contributed to volatility. This is relevant because high‑visibility analyst downgrades can change short‑term downside risk and therefore influence probabilities for a near‑term close above a threshold. ([investing.com](https://www.investing.com/news/stock-market-news/stifel-issues-rare-microsoft-downgrade-on-cloud-and-ai-concerns-4487415?utm_source=openai))
 
-### [Microsoft Corporation (MSFT) Stock Page — Investing.com](https://www.investing.com/equities/microsoft-corp)
-**Author:** Investing.com | **Published:** 2026-03-12
+### [Microsoft Investor Relations — Events & Investor Information](https://www.microsoft.com/en-us/investor/events/default)
+**Author:** Microsoft Corporation (Investor Relations) | **Published:** Unknown
 
-Investing.com provides live pricing, historical close, and an earnings calendar (next earnings listed as Apr 28, 2026). The site lists the short‑term trading price (~$404.88 as of March 12, 2026) and indicates that the next formal earnings checkpoint is after the March resolution date, so no new scheduled company earnings event is expected before March 31 that would automatically change fundamentals. This confirms the short horizon and the types of news that could move the stock before the market resolves. ([investing.com](https://www.investing.com/equities/microsoft-corp?utm_source=openai))
+The MSFT Investor Relations events page lists earnings releases, annual meeting notices, SEC filings and other IR material. I used it to check for any announced stock splits, unusual corporate actions, or scheduled events that would directly affect the mechanics of the prediction‑market resolution before March 31, 2026; no split or special action was listed that would change the split‑adjusted closing price or create an unusual resolution technicality. This reduces the chance that the market’s resolution will be impacted by an undisclosed corporate action. ([microsoft.com](https://www.microsoft.com/en-us/investor/events/default))

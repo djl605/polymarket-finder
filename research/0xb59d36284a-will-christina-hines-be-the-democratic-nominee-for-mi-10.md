@@ -1,7 +1,7 @@
 # Research: Will Christina Hines be the Democratic Nominee for MI-10?
 
 **Market ID:** 0xb59d36284a3e05ca397761f1cbcbefcfee54fe0f3821d440140cbe5c3eb436f8
-**Researched At:** March 14, 2026 at 04:17:41 AM UTC
+**Researched At:** March 21, 2026 at 04:23:04 AM UTC
 **Search Query:** "Will Christina Hines be the Democratic Nominee for MI-10?"
 
 ---
@@ -9,72 +9,69 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.8¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Christina Hines is a credible, well‑funded mid‑pack candidate for the MI‑10 Democratic primary, but at least two rivals (Eric Chung and Tim Greimel) show stronger receipts/COH and national endorsements. With zero trading volume and multiple viable challengers, the market price (16.5%) may modestly overstate Hines’ win probability, but there’s insufficient evidence of a large mispricing.
+Christina Hines has credible institutional endorsements, meaningful fundraising (FEC-confirmed receipts/cash on hand), and a PPP memo showing her strength in general-election matchups — all consistent with a competitive primary bid. But MI‑10 is contested (multiple viable Democrats), polling is limited, and the market has zero volume, so there is only modest evidence that the market (17.5%) is substantially mispriced.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS — what the market asks and how it resolves
-- The market asks: "Will Christina Hines be the Democratic Nominee for MI-10?" — i.e., will Christina Hines be the official Democratic nominee to contest Michigan’s 10th Congressional District in the 2026 general election. The Democratic primary is scheduled for August 4, 2026; if no nominee is announced by November 3, 2026, the market resolves to "Other." (You provided the market's resolution rules.)
-- For YES to resolve: Christina Hines must be declared the Democratic nominee per the official Democratic sources/consensus (e.g., state/national Democratic Party or democrats.org) by the relevant cutoff. For NO to resolve: either another candidate wins the Democratic primary or no nominee is announced by the market’s November 3, 2026 cutoff (in which case it resolves to "Other").
+Planned approach and search summary
+- Questions I needed answered: Who is Christina Hines (background/viability)? Who are the other declared Democratic primary candidates in MI‑10 and how competitive are they? Is there public polling/fundraising/endorsement evidence that Hines is (or is not) the likely nominee? Are there time/resolution technicalities in the market description that could change interpretation?  
+- I used primary sources (FEC), local/national reporting, and campaign/organization announcements to assess candidate strength, polling, and endorsements. Key findings (polling, endorsements, FEC fundraising) are cited below.
 
-2. EVIDENCE EVALUATION — what the public record says about Hines’ chances (balanced)
-- Field, candidates, and fundraising (most load-bearing facts)
-  - Several credible Democrats are running in MI-10 (Eric Chung, Tim Greimel, Alex Hawkins, Christina Hines among others). Local outlets list a multi-candidate Democratic primary for the open MI-10 seat. ([michiganadvance.com](https://michiganadvance.com/2025/04/10/pontiac-mayor-to-seek-seat-in-mi-10-expanding-list-of-dems-seeking-james-open-seat/?utm_source=openai))
-  - Fundraising / cash-on-hand through coverage period (official FEC filings): Eric Chung: total receipts $1,129,629 and ending cash ~$715,939 (coverage 04/01/2025–12/31/2025). Tim Greimel: total receipts $807,916 and cash on hand ~$480,139. Christina Hines: total receipts $662,684 and cash on hand ~$258,418. These are direct FEC figures and show Chung ahead of Hines and Greimel in receipts and COH as of the year‑end filings. This materially affects primary odds because better-funded campaigns can buy outreach, staff, and early organizing. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10292/))
-  - National/local endorsements: Chung has multiple national endorsements from groups focused on AAPI and LGBTQ representation (e.g., LGBTQ+ Victory Fund, ASPIRE PAC, Equality PAC and FP Action support), indicating national party/interest-group investment in his campaign. Hines has endorsements from gun-safety and women-focused groups (e.g., Giffords, Elect Democratic Women / WomenCount and some local leaders), which are valuable but appear smaller-scale than some national machine-level endorsements Chung attracts. Endorsements affect volunteer networks, outside money, and perceived viability. ([victoryfund.org](https://victoryfund.org/news/endorsement-lgbtq-victory-fund-endorses-eric-chung-in-his-campaign-for-mi-10/?utm_source=openai))
-- Polling and polling context
-  - There is an internal Public Policy Polling (PPP) memo paid for / released by the Hines campaign that shows Hines as the only Democrat in PPP’s tests who led a particular Republican (Mike Bouchard Jr.) in a general-election matchup (Hines 44% to Bouchard 42%). The memo was reported in local outlets as an internal poll for Hines’ campaign. Internal campaign polling is useful but subject to bias in sample weighting, question wording, and release timing; it speaks to the campaign making the case that Hines would be the strongest general-election nominee, but it does not prove she will win the competitive Democratic primary. ([michiganadvance.com](https://michiganadvance.com/2026/01/30/your-weekly-michigan-political-brief-17/?utm_source=openai))
-- What suggests the market price (16.5%) might be too high for Hines
-  - Fundraising and endorsements imply at least two Democratic rivals (Chung, Greimel) have stronger financial resources and substantial endorsements; Chung in particular looks like a front-runner by receipts/COH and national endorsements, which would reduce Hines’ raw probability of winning the primary relative to being the front-runner. This is objective (FEC) evidence the market should consider. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10292/))
-  - The absence of publicly released, independent primary polling leaves substantial uncertainty; in a crowded primary with better-funded rivals, a 16.5% price could be optimistic if traders expect the largest-money/endorsement candidate to win. (This is an inference from the fundraising/endorsement data.)
-- What supports the market price as reasonable
-  - Hines has non-trivial fundraising ($662k receipts, ~$258k COH) and an active campaign organization; she ran a well-known Macomb County race in 2024 (name recognition in parts of MI-10) and has targeted endorsements (Giffords, Elect Democratic Women, local party endorsements) and an internal PPP memo arguing she is strongest in the general — factors that plausibly put her in the competitive mid-pack of a multi-candidate primary rather than as a sure third/long-shot. FEC filings confirm she is well-funded relative to some other announced candidates. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10276/))
-  - Crowded primaries often produce split vote outcomes where multiple plausible candidates each have mid‑teens to low‑twenties percent chances; 16.5% is consistent with a roughly five‑way open-field split in which no candidate yet has majority support and organizing/political dynamics (endorsements, ground game, vote geography) will decide the winner.
-- Source credibility and recency
-  - FEC candidate pages and filings (primary receipts, disbursements, cash-on-hand) are high quality and recent (coverage through 12/31/2025 in these pages). Use FEC numbers as reliable snapshots of campaign resources. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10292/))
-  - Local reporting (Michigan Advance, AP, CBS Detroit, etc.) is credible for campaign announcements, endorsements, and internal poll reporting; internal campaign polls (PPP memo) are credible as a pollster product but should be treated cautiously since they were paid for and released by Hines’ campaign. ([michiganadvance.com](https://michiganadvance.com/2026/01/30/your-weekly-michigan-political-brief-17/?utm_source=openai))
+1) CONTEXT ANALYSIS
+- What the market asks: Will Christina Hines be the Democratic nominee for Michigan’s 10th Congressional District (primary date per market: August 4, 2026)? YES resolves if she wins the Democratic primary and an official Democratic source recognizes that nominee; NO resolves if another named Democrat wins the nomination (or “Other” if no nominee is announced by Nov 3, 2026). The market’s resolver is official Democratic sources (e.g., Democrats.org) and the primary date is stated in the description — so resolution depends only on who is certified/announced as the nominee by Democrats, not on later replacements. (No technical ambiguity in the resolution language as provided.)
 
-3. MARKET EFFICIENCY ANALYSIS — is the 16.5% price a reliable signal?
-- Plausible interpretations that justify the current price
-  - 16.5% is consistent with an early-stage multi-candidate Democratic primary where several candidates (Chung, Greimel, Hines, Hawkins) are viable and no dominant frontrunner is locked in. In such a case, mid‑teens probabilities per candidate make sense.
-  - The market’s tight spread (3¢) may simply reflect the market creator’s chosen default liquidity parameters rather than many traders’ agreement; with zero actual trading volume (Total Vol $0), the displayed price likely reflects a maker’s initial quote, not active consensus.
-- Could the price reflect only a single participant?
-  - Yes — Total Vol $0 and market age 16 days strongly imply the price could be the initial listing price set by a single actor or liquidity provider. That raises a high risk that the price is not an information‑aggregating market signal and instead reflects one individual’s priors or a placeholder quote.
-- Is low volume because the outcome is obvious or because traders haven’t engaged?
-  - It is early (primary August 4, 2026) and the race is local and not yet widely polled publicly, so informed traders may be focusing on higher‑liquidity markets; that suggests low volume here is more likely due to lack of engagement rather than consensus that Hines' nomination is settled.
-- Bottom line on reliability: The price is plausibly reasonable as an early-stage mid‑pack estimate, but its informational reliability is low because there have been no trades and there are multiple credible rivals with demonstrably larger war chests and national endorsements. The market is therefore not a strong, independent signal that Hines is the favorite.
+2) EVIDENCE EVALUATION (all items cited)
+A — Evidence that suggests the market price (17.5%) might be too low for Hines
+- Polling: A Public Policy Polling memo (Jan 30, 2026) shows Christina Hines performing best among Democrats in head-to-head general-election tests against the leading Republican, and was the only Democrat in that poll to lead the named Republican by 2 points after voters were read backgrounds on the candidates. That suggests Hines has electability messaging strength that could help in the primary. ([michiganadvance.com](https://michiganadvance.com/wp-content/uploads/2026/01/PPP-Memo-MI-CD-10-Jan-2026.docx.pdf?utm_source=openai))
+- Endorsements/support: Hines has received several national and issue-group endorsements (Giffords PAC listed her among endorsed House candidates; Emily’s List / Mission Majority materials list her among targeted/frontline candidates; Elect Democratic Women and WomenCount show support). These national endorsements and target lists are evidence of institutional support that can translate into money, field resources, and late endorsements — all helpful in a primary. ([giffords.org](https://giffords.org/press-release/2025/11/giffords-pac-endorses-strong-gun-safety-house-candidates-in-key-battleground-districts/?utm_source=openai))
+- Fundraising traction: FEC records show Hines’ principal committee (“CHRISTINA FOR CONGRESS”) reported total receipts of $662,684 and cash on hand $258,418 for the 04/01/2025–12/31/2025 reporting period — a competitive war‑chest for a contested primary. Having both national endorsements and mid-six‑figure receipts supports the plausibility she could win the nomination. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10276/))
 
-4. MISPRICING ASSESSMENT — weigh evidence and check assumptions
-- Evidence pointing toward mispricing (price too high for Hines)
-  - Eric Chung’s and Tim Greimel’s stronger fundraising and broader national/local endorsement support make them more plausible primary winners than a pure resource comparison would give Hines; Chung’s larger receipts and COH are the clearest objective indicators that many informed actors might view him as the frontrunner. If traders fully accounted for fundraising + endorsements + organizational strength, Hines’ probability might reasonably be lower than 16.5%. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10292/))
-  - Hines’ best public “edge” in the record is an internal campaign PPP memo about general‑election matchups, which is persuasive for general election viability but does not directly translate into primary victory odds against better‑funded opponents; markets that price a candidate mainly on general‑election strength (from an internal poll) risk over‑weighting that information relative to primary organizing metrics.
-- Evidence pointing toward price being reasonable (price too low for Hines)
-  - Hines has substantial local appeal, a string of relevant endorsements (Giffords, Elect Democratic Women, local leaders), a nontrivial campaign war chest, and at least one internal poll showing she would perform strongly in the general — all of which make her plausible as a primary winner and justify a mid‑teens probability. Local endorsements and vote geography (Macomb County base) could produce a concentrated vote advantage in the August primary that national fundraising figures don’t fully capture. ([giffords.org](https://giffords.org/candidates/christina-hines/?utm_source=openai))
-- Critical-check (am I missing resolution or technicalities?)
-  - Resolution criteria are standard: official party nominee by the stated cutoff. There is no sign of a technicality (e.g., Hines already declared or the primary already decided). The primary is upcoming (Aug 4, 2026), and the market’s November cutoff protects against late non-choices. I don’t see a misinterpretation of the market wording.
-  - Given the early date, the multiple plausible candidates, and public FEC/endorsement data, I would not expect a very large (>20¢) mispricing to persist without clear, new public information (e.g., a major endorsement swing, a decisive independent poll of the primary, or a big fundraising surge). That matches the "CRITICAL CHECK" guidance: large mispricings are rare and should be treated skeptically.
-- Conclusion on mispricing
-  - There is credible evidence that informed observers could prefer other candidates (especially Eric Chung) over Hines based on objective fundraising and national-group endorsements. That suggests the market price may modestly overstate Hines’ chance, but there is also credible counter-evidence (Hines’ endorsements, internal PPP poll, local roots) supporting a nontrivial chance. Overall, the evidence indicates at most a modest mispricing (small number of cents), not a large inefficiency.
+B — Evidence that supports the market price (i.e., Hines’ chance might reasonably be ~17.5%)
+- Multiple credible Democratic contenders remain: reporting identifies other declared Democrats (Eric Chung, Tim Greimel, Alex Hawkins, etc.). The primary appears contested: at least two other candidates have stronger name ID or separate bases (e.g., Tim Greimel as a current mayor; Eric Chung with earlier federal agency background). A competitive multi-candidate primary reduces any single candidate’s probability. ([michiganadvance.com](https://michiganadvance.com/2025/04/10/pontiac-mayor-to-seek-seat-in-mi-10-expanding-list-of-dems-seeking-james-open-seat/?utm_source=openai))
+- Fundraising and organization parity: although Hines has mid-six‑figure receipts to date, other Democrats have comparable or larger funds and political experience; the race is not a foregone conclusion. (FEC and reporting show multiple candidates with meaningful receipts and operations.) That supports a modest market-implied probability for any one candidate. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10276/))
+- Polling caveats: the PPP memo is one poll (reported through MichiganAdvance hosting) with modest sample size (≈592 RV) and small margins; primary voters’ preferences can differ from general‑electorate head‑to‑head polling. One poll showing Hines best among Democrats is suggestive but not definitive. ([michiganadvance.com](https://michiganadvance.com/wp-content/uploads/2026/01/PPP-Memo-MI-CD-10-Jan-2026.docx.pdf?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION — estimate of how much the market could be off
-- Strength of evidence that price is missing material info (subjective estimate): 35%. Rationale: FEC/endorsement data are strong and public (so likely known to traders), but absence of public primary polling and local vote‑geography factors leave room for legitimate disagreement; the zero trading volume increases possibility the price reflects only a single actor. Combined, I estimate moderate (not high) probability the market is under/over-weighting Hines’ odds.
-- Magnitude of plausible mispricing if wrong: I estimate 8 cents (0.08 dollars) as a reasonable maximum likely magnitude given the factors above — i.e., the market might be off by ~5–10 cents rather than a large gap.
-- Expected value = Strength × Magnitude = 35% × 8 cents = 2.8 cents.
-- Rounded for reporting: EXPECTED_VALUE: 2.8 (cents)
+Source credibility and recency
+- FEC candidate data (official) is high‑credibility and recent for 2025 reporting (authoritative on receipts/cash). ([fec.gov](https://www.fec.gov/data/candidate/H6MI10276/))  
+- PPP memo hosted on MichiganAdvance is a standard political poll memo; PPP is a frequent pollster (useful but subject to usual poll uncertainty—sample size ±4% as reported). ([michiganadvance.com](https://michiganadvance.com/wp-content/uploads/2026/01/PPP-Memo-MI-CD-10-Jan-2026.docx.pdf?utm_source=openai))  
+- Endorsement lists and PAC press releases (Giffords, Emily’s List materials, Elect Democratic Women, WomenCount) are primary-source evidence of institutional support and are credible for the fact of endorsement; the electoral impact of each endorsement varies. ([giffords.org](https://giffords.org/press-release/2025/11/giffords-pac-endorses-strong-gun-safety-house-candidates-in-key-battleground-districts/?utm_source=openai))  
+- Local reporting (MichiganAdvance, Detroit-area outlets) documenting candidate declarations and local endorsements is contemporaneous and useful to establish the field. ([michiganadvance.com](https://michiganadvance.com/briefs/former-prosecutor-christina-hines-launches-congressional-race-in-mi-10/?utm_source=openai))
 
-6. CONFIDENCE
-- My overall confidence in this assessment: medium.
-  - Why medium: the FEC and endorsement evidence is reliable (raising confidence), but the lack of independent primary polling and the early timing (many months before the primary) mean outcomes are still highly contingent on future organizing, endorsements, and spending (reducing confidence).
+Bullish vs bearish perspectives (balanced)
+- Bullish: Hines has a prosecutorial background appealing in a district that values law-and-order, has attracted national pro‑candidate endorsements, raised meaningful funds, and shows strong general‑election matchups in at least one poll — these factors support a higher primary probability than a token number. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10276/))
+- Bearish: The primary is multi-candidate and includes locally rooted or better-known Democrats; one poll is not decisive and primary voters may weigh different traits (local connections, endorsements, or factional divides) than general-election voters; low market volume suggests limited trading and possibly underinformed pricing. ([michiganadvance.com](https://michiganadvance.com/2025/04/10/pontiac-mayor-to-seek-seat-in-mi-10-expanding-list-of-dems-seeking-james-open-seat/?utm_source=openai))
 
-FINAL JUDGMENT (short)
-- The market price (16.5%) is plausibly within the reasonable early-stage range for a multi-candidate Democratic primary where Hines is a credible mid‑pack contender. However, the zero trading volume and objective fundraising/endorsement evidence that other Democrats (especially Eric Chung) have stronger financial resources and national institutional support suggest a modest downside risk to Hines’ probability. There is insufficient credible evidence of a large (>20¢) mispricing; I estimate a modest expected mispricing with expected value ≈ 2.8¢ per share (see calculation above).
+Why this might be “obvious” yet still not priced in
+- If Hines were an uncontested clear frontrunner, we would expect more market volume, larger probability, and lower spreads; instead the market shows zero volume and a 17.5% price. That pattern suggests either traders haven’t engaged/noticed this market, or informed traders are hedging among multiple Democratic contenders (so no single candidate is being priced as likely). Given the evidence (poll + endorsements + fundraising) the market price feels low but not definitively wrong — the “obvious” case (that Hines is the near-certain nominee) is not strongly supported by the field-level evidence.
 
-EXPECTED_VALUE: 2.8
-SUMMARY: Christina Hines is a credible, well‑funded mid‑pack candidate for the MI‑10 Democratic primary, but at least two rivals (Eric Chung and Tim Greimel) show stronger receipts/COH and national endorsements. With zero trading volume and multiple viable challengers, the market price (16.5%) may modestly overstate Hines’ win probability, but there’s insufficient evidence of a large mispricing.  
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify 17.5%: a) primary is contested and endorsements/fundraising are spread across several candidates, so any single candidate’s baseline is in the teens; b) Hines’ support may be concentrated among general-election persuadable voters rather than the more activist primary electorate; c) national endorsements do not always translate into primary wins (they sometimes come late or after a nomination is likely). These interpretations justify a low-to-moderate single-candidate probability. ([michiganadvance.com](https://michiganadvance.com/wp-content/uploads/2026/01/PPP-Memo-MI-CD-10-Jan-2026.docx.pdf?utm_source=openai))
+- Could it be a few traders setting the price? Yes — the market has Total Vol $0 and a tight spread, which implies a liquidity provider listed a price but no one has taken the other side. That raises the risk the price reflects one or few opinions rather than a diverse aggregation. The 3¢ spread indicates liquidity provision but not active trading. (Market metrics given by the user.)
+- Why low volume might exist: the outcome isn’t obvious (contested primary), and national traders may prioritize higher-volume national races. Local bettors/traders might also be cautious until the primary field narrows or until more polling/fundraising data accumulates.
+
+4) MISPRICING ASSESSMENT (weighing both sides objectively)
+- Do we have specific, credible evidence omitted from the price? Evidence that would materially raise Hines’ probability above 17.5% would include: sustained polling leads among likely primary voters, a clear lead in grassroots/endorsement lists within the district, or a fundraising advantage that is large and growing relative to rivals. Current evidence shows a promising combination of national endorsements, a favorable PPP general‑election poll, and rising receipts — but it does not show dominant, indisputable control of the primary. ([michiganadvance.com](https://michiganadvance.com/wp-content/uploads/2026/01/PPP-Memo-MI-CD-10-Jan-2026.docx.pdf?utm_source=openai))
+- Challenge the >20¢ mispricing hypothesis: I cannot confidently assert Hines is underpriced by >0.20 (20 percentage points). The primary remains contested; other candidates have resources/visibility; a single PPP poll isn’t decisive for a primary months away. It’s plausible Hines is the leading candidate, but not overwhelmingly so. Therefore a claim of large (>20 percentage point) mispricing lacks strong support.
+- Most charitable interpretation of the current price: traders see an open, competitive primary with at least 3 viable Democrats and treat Hines as one of several plausible winners rather than the presumptive nominee. Given the market’s zero volume, it’s also likely the price is just an offered quote that hasn’t been tested.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence (how much of the candidate’s case appears NOT fully priced): I assess the strength at ~40%. The combination of endorsements, a PPP memo showing favorable head‑to‑head match-ups, and an authoritative FEC fundraising trajectory is meaningful but not decisive for a contested primary. (40% = moderate confidence that some missing information favors Hines beyond the market price.)
+- Magnitude of mispricing (plausible upside vs the market): I estimate any realistic mispricing is modest — roughly 5–15 cents. Reasoning: Hines’ evidence supports moving from 17.5% to perhaps ~25–30% (an increase of ~7.5–12.5 cents) in plausible scenarios, but not to a >50% level. I’ll use a midpoint magnitude estimate of 10 cents (0.10) as a reasonable single-number estimate of potential mispricing if one believes institutional support and polling are underweighted.
+- Expected value = Strength × Magnitude = 40% × 10 cents = 4.0 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- My overall confidence in this assessment: medium. There is credible, recent evidence supporting Hines’ competitiveness (FEC, endorsements, PPP polling), but the primary is contested and outcome uncertainty is high. Market liquidity is zero, so prices may not yet reflect informed trade.
+
+Conclusions (short)
+- The available, credible evidence (FEC fundraising, national endorsements, and at least one poll showing Hines favorably in general‑election matchups) makes it plausible Christina Hines is a leading contender for the MI‑10 Democratic nomination. ([fec.gov](https://www.fec.gov/data/candidate/H6MI10276/))  
+- However, competing Democrats with their own resources and local bases keep the primary genuinely competitive; current evidence does not prove a large mispricing. The market’s low volume further reduces confidence that the 17.5% price is a well‑tested aggregation of informed opinions. ([michiganadvance.com](https://michiganadvance.com/2025/04/10/pontiac-mayor-to-seek-seat-in-mi-10-expanding-list-of-dems-seeking-james-open-seat/?utm_source=openai))
+
+EXPECTED_VALUE: 4.0
+SUMMARY: Christina Hines has credible institutional endorsements, meaningful fundraising (FEC-confirmed receipts/cash on hand), and a PPP memo showing her strength in general-election matchups — all consistent with a competitive primary bid. But MI‑10 is contested (multiple viable Democrats), polling is limited, and the market has zero volume, so there is only modest evidence that the market (17.5%) is substantially mispriced.
 CONFIDENCE: medium
 
 ---
@@ -83,37 +80,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [CHUNG, ERIC - Candidate overview | FEC](https://www.fec.gov/data/candidate/H6MI10292/)
-**Author:** Unknown | **Published:** Unknown
-
-Official Federal Election Commission candidate profile and financial summary for Eric Chung (MI-10, 2026 coverage 04/01/2025–12/31/2025). The page reports total receipts $1,129,629.37, total disbursements $413,690.22, and ending cash on hand ~$715,939.15. This is a high‑quality primary source showing Chung’s fundraising lead and available resources — a key objective input when assessing his probability of winning the Democratic primary (and therefore Hines’ implied odds).
-
-### [GREIMEL, TIM - Candidate overview | FEC](https://www.fec.gov/data/candidate/H6MI10284/)
-**Author:** Unknown | **Published:** Unknown
-
-Official FEC candidate profile and financial summary for Tim Greimel covering 04/01/2025–12/31/2025. It lists total receipts $807,916.71, total disbursements $327,777.59, and cash on hand ~$480,139.12. This authoritative record shows Greimel’s substantial fundraising/COH, which is relevant evidence that he is a viable primary contender and reduces Hines’ expected share of the primary vote.
-
 ### [HINES, CHRISTINA - Candidate overview | FEC](https://www.fec.gov/data/candidate/H6MI10276/)
-**Author:** Unknown | **Published:** Unknown
+**Author:** Federal Election Commission (site content) | **Published:** Unknown
 
-Official FEC candidate profile for Christina Hines (coverage 04/01/2025–12/31/2025). It reports total receipts $662,684.67, disbursements $404,266.33, and ending cash on hand ~$258,418.34. These figures confirm Hines has a significant campaign operation but is behind Chung and Greimel on receipts and cash — an important objective datapoint when evaluating whether 16.5% fairly reflects her primary-winning chances.
+Official FEC candidate page for Christina Hines (candidate for U.S. House, Michigan 10). The financial summary shows receipts of $662,684.67 and ending cash on hand $258,418.34 for the 04/01/2025–12/31/2025 coverage period, and links to committee filings. This authoritative data establishes Hines’ fundraising capacity and campaign financial status — a core input for assessing her viability in the Democratic primary and whether fundraising is consistent with a credible nomination bid. The receipts and cash-on-hand figures support the view Hines is competitive, which argues against the market assigning a very low probability to her nomination.
 
-### [Your Weekly Michigan Political Brief (includes: "A new internal poll from Public Policy Polling for the campaign of Christina Hines ... shows her as the only Democrat who can beat Republican Mike Bouchard Jr. in a general election matchup, 44% to 42%."), Michigan Advance / Yahoo republishing](https://michiganadvance.com/2026/01/30/your-weekly-michigan-political-brief-17/)
-**Author:** Jon King | **Published:** 2026-01-30
+### [From: Jim Williams, Public Policy Polling — "Hines Only Democrat With General Election Lead in MI-10" (PPP memo)](https://michiganadvance.com/wp-content/uploads/2026/01/PPP-Memo-MI-CD-10-Jan-2026.docx.pdf)
+**Author:** Jim Williams / Public Policy Polling (memo) | **Published:** 2026-01-30
 
-Local reporting (Michigan Advance weekly brief) that references and links to a PPP memo (internal poll for the Hines campaign) showing Hines beating Mike Bouchard Jr. 44%–42% in a PPP general‑matchup test, and that Hines was the only Democrat in PPP’s battery who led that hypothetical Republican. This is relevant because the Hines campaign is using an internal PPP poll to argue general‑election strength; however, internal polling has limits and does not directly measure primary odds against better-funded rivals.
+Public Policy Polling memo (Jan 30, 2026) reporting a district poll where Christina Hines was the only Democrat to lead the named Republican (Mike Bouchard Jr.) in head-to-head tests (roughly 44%–42% in initial head-to-head and similar after voter information). The memo’s sample (~592 registered voters) and margins are reported; this one poll suggests Hines has a relative electability advantage among the Democratic field in general‑election matchups, a factor that can affect primary voters and donor/endorser decisions. As a single poll, it is useful but not definitive; it supports increasing Hines’ nomination probability but does not eliminate competition risk.
 
-### [Christina Hines | GIFFORDS (endorsement page)](https://giffords.org/candidates/christina-hines/)
-**Author:** Unknown | **Published:** Unknown
+### [GIFFORDS PAC endorses strong gun safety House candidates in key battleground districts | GIFFORDS](https://giffords.org/press-release/2025/11/giffords-pac-endorses-strong-gun-safety-house-candidates-in-key-battleground-districts/)
+**Author:** Unknown (Giffords press release) | **Published:** 2025-11-21
 
-Giffords’ candidate page announcing support for Christina Hines in MI‑10, describing her background as a former special victims prosecutor and her policy priorities (gun violence prevention, public-safety framing). This is relevant because Giffords’ endorsement is a visible national organizational signal of support that can aid fundraising, volunteers, and credibility; it contributes to the case that Hines is a credible, competitive candidate.
+Giffords PAC press release listing endorsed candidates for House races; the list includes Christina Hines (MI-10). This endorsement indicates national issue-group backing (gun safety) and likely brings targeting/communications/resources that can help name recognition and fundraising. Endorsements like this are credible primary-stage signals that improve a candidate’s odds, and their presence weakly challenges a very low market probability for Hines.
 
-### [ENDORSEMENT: LGBTQ+ Victory Fund Endorses Eric Chung in His Campaign for MI-10](https://victoryfund.org/news/endorsement-lgbtq-victory-fund-endorses-eric-chung-in-his-campaign-for-mi-10/)
-**Author:** Unknown | **Published:** 2025-12-03
+### [Former prosecutor Christina Hines launches congressional race in MI-10 • Michigan Advance](https://michiganadvance.com/briefs/former-prosecutor-christina-hines-launches-congressional-race-in-mi-10/)
+**Author:** Kyle Davidson | **Published:** 2025-04-07
 
-Press release from the LGBTQ+ Victory Fund announcing its endorsement of Eric Chung for MI‑10, describing the organization’s view of his electability and citing broad support from local and national leaders and claims about his fundraising. This demonstrates national-group backing for Chung (and therefore organizational resources and networks), which is a material factor that would reduce Hines’ relative probability in the primary.
+MichiganAdvance article announcing Christina Hines’ candidacy for MI‑10 and providing background (former special‑victims prosecutor; 2024 Macomb County prosecutor nominee). The article notes the seat is competitive and has been targeted by the DCCC, and places Hines within the emerging field. This local reporting confirms Hines’ candidacy, background, and that MI‑10 is a national target district — context that informs both fundraising and strategic support expectations.
 
 ### [Pontiac mayor to seek seat in MI-10, expanding list of Dems seeking James’ open seat • Michigan Advance](https://michiganadvance.com/2025/04/10/pontiac-mayor-to-seek-seat-in-mi-10-expanding-list-of-dems-seeking-james-open-seat/)
-**Author:** Michigan Advance staff (byline on page) | **Published:** 2025-04-10
+**Author:** Kyle Davidson | **Published:** 2025-04-10
 
-Reporting on the expanding Democratic field after John James announced his gubernatorial run; documents that multiple Democrats (including Christina Hines, Tim Greimel, Alex Hawkins) entered the MI-10 contest. This local reporting establishes the competitive multi‑candidate nature of the primary that underlies why mid‑teens probabilities for individual candidates (like 16.5%) are plausible.
+MichiganAdvance reporting on other declared Democratic contenders (e.g., Tim Greimel) joining the MI‑10 race. The article documents that the primary is multi-candidate and that multiple Democrats with local bases and political resumes are competing. This supports the assessment that the primary is contested — a key reason a single candidate probability could reasonably be in the teens until the field narrows.
+
+### [Mission Majority 2026 (Emily’s List / organizational materials)](https://emilyslist.org/wp-content/uploads/2026/02/EL_MissionMajority2026_final.pdf)
+**Author:** Emily’s List / Mission Majority (organizational publication) | **Published:** Unknown
+
+Program/targeting material listing front-line/target candidates for 2026; Christina Hines appears in materials as a target/frontline candidate for MI‑10. Inclusion in mission/target lists implies potential programmatic support (training/funding/referral) and signals to donors and volunteers that the candidate is part of a prioritized map. This tends to increase nomination and general-election probability over time relative to un‑endorsed candidates, and thus is relevant to whether the market should price Hines higher.
+
+### [Candidates - Elect Democratic Women (candidate list)](https://electdemocraticwomen.org/candidates/)
+**Author:** Elect Democratic Women (site content) | **Published:** Unknown
+
+Elect Democratic Women page listing Christina Hines among 2025–2026 front-line candidates. This endorsing/organizational support entry corroborates other institutional support and suggests Hines is receiving multiple national waves of backing that could be material in a crowded primary. Such endorsements are relevant evidence against a very low nomination probability, though they do not by themselves guarantee victory.

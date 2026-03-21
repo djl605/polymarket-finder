@@ -1,7 +1,7 @@
 # Research: Will Cinde Warmington win the 2026 New Hampshire Governor Democratic primary election?
 
 **Market ID:** 0x1b427a1cc93c7d7be6814173de740735e0d1c321a8bdfc9242bde26c19779bad
-**Researched At:** March 12, 2026 at 06:17:44 PM UTC
+**Researched At:** March 21, 2026 at 04:12:35 AM UTC
 **Search Query:** "Will Cinde Warmington win the 2026 New Hampshire Governor Democratic primary election?"
 
 ---
@@ -9,74 +9,72 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.0¢
+**Expected Value:** 5.0¢
 
 ### Summary
 
-Public reporting confirms Cinde Warmington declared for the 2026 NH Democratic gubernatorial primary and is an early, recognizable frontrunner, but public polling, fundraising, and endorsement data showing dominance are not yet available. The market’s 78% price is plausible but fragile: total-volume = $0 and limited visible evidence mean the price could reflect one or a few traders rather than broad information aggregation.
+Cinde Warmington has announced a 2026 Democratic primary run and has prior statewide primary infrastructure (she got ~42% in the 2024 Democratic primary), which supports a high early probability. However, she lost the last primary, has identifiable vulnerabilities, plausible potential challengers exist, and the market shows zero trading volume — overall I see no clear, missing fact that justifies declaring a large mispricing. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: Cinde Warmington launches seco
 
 ### Full Analysis
 
-I searched recent news, government filings, and local analyses to evaluate whether the market (78% for “Cinde Warmington wins the 2026 NH Democratic gubernatorial primary”) shows credible mispricing. Below I summarize the context, weigh the principal evidence both for and against the price, assess likely market-efficiency explanations, and give a mispricing judgment with an expected-value estimate.
+Plan and search summary
+- I had a budget of 3 web searches and used them to (1) confirm whether Cinde Warmington has announced a 2026 run and what her 2024 primary performance was, (2) identify declared or likely Democratic challengers and filing/endorsement status, and (3) review fundraising / press coverage and potential negatives (e.g., attacks over prior work). Key high-quality sources (local outlets, Secretary of State filings, state public radio, and the Boston Globe) cover these facts. ([bostonglobe.com](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte//?utm_source=openai))
 
-1) CONTEXT ANALYSIS
-- What the market asks: Will Cinde Warmington be the overall winner of the Democratic primary for New Hampshire governor (primary scheduled for September 8, 2026)? Resolution depends on who is officially certified by the New Hampshire Democratic Party as the primary winner; if no primary occurs it resolves to “Other.” (Market description provided by you; I verified campaign activity and the primary date in reporting cited below.) ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
-- What must happen for YES vs NO:
-  - YES: Warmington must be the certified winner of the Democratic primary (including any run-off or second round if the party’s rules produce one).
-  - NO: Any other Democrat (e.g., Jon/ Jonathan Kiper or a different declared nominee) must be the certified winner, or no Democratic primary takes place.
+1) CONTEXT ANALYSIS — What the market is asking, and resolution conditions
+- Market question: “Will Cinde Warmington win the 2026 New Hampshire Governor Democratic primary election?” — Resolves YES if Warmington is the overall winner of the Democratic primary for Governor of New Hampshire on Sept 8, 2026 (per market description). It resolves NO if any other listed Democrat wins, if no Democratic primary occurs and “Other” is triggered, or if resolution rules identify a different winner. (Market uses official NH Democratic Party announcement or overwhelming credible reporting for resolution.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election?utm_source=openai))
+- What must happen for YES: Warmington must be the Democratic nominee after the September 8, 2026 primary (including any run-off procedures called for by the party). For NO: any other Democrat must win the primary (e.g., Tom Sherman, Joyce Craig if she runs, Donovan Fenton, a late-entry, or “Other” if no primary occurs).
 
-2) EVIDENCE EVALUATION (facts, recency, credibility)
-Key, recent, reputable factual findings:
-- Warmington declared a 2026 campaign (announced Feb 18, 2026). She is a former NH Executive Councilor and was a major 2024 Democratic primary candidate. Local outlets reported her announcement and policy framing (affordability, opposing broad taxes). Sources: NHPR, Boston Globe, Concord Monitor. These are high-credibility local/regional outlets and the reporting is recent (Feb 2026). ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
-- At least one other Democratic candidate (Jonathan/Jon Kiper) has publicly entered the 2026 Democratic primary; Kiper ran in 2024 and has re-entered the Democratic field after a period as an independent. Several local outlets and campaign-coverage pieces confirm Kiper’s candidacy and activity in late 2025/early 2026. These are credible local sources (WMUR, Laconia Daily Sun, Citizens Count). ([wmur.com](https://www.wmur.com/article/kiper-democratic-party-campaign-governor-9225/65962688?utm_source=openai))
-- Warmington’s record includes prior campaign scrutiny (notably criticism for past lobbying work related to Purdue Pharma/OxyContin); the NH GOP and some commentators have already highlighted that record as a liability. This attack line is active immediately after her announcement (February–March 2026). Source: Concord Monitor, NH GOP release, state political reporting. Credibility: high for reporting of the attacks; the political impact is interpretive. ([concordmonitor.com](https://www.concordmonitor.com/2026/02/18/warmington-challenges-ayotte-campaign/?utm_source=openai))
-- Polling landscape: there are early/unofficial statewide polls (UNH Granite State Poll, other NH polls testing general environment and governor approval) that show Governor Ayotte’s approval and the general partisan environment; few reliable, public polls specifically measuring the 2026 Democratic primary preferences among voters (Warmington vs. Kiper vs. others) were available in public polling releases at the time of my search. That creates substantial information asymmetry for a primary that resolves Sept 8, 2026. Source: UNH Survey Center reporting / Granite State Poll writeups and local polling coverage. Credibility: high for the existence and scope of polls; low for directly measuring this primary. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/?utm_source=openai))
+2) EVIDENCE EVALUATION — All relevant evidence I found
 
-What suggests the market price might be incorrect (bearish for 78%):
-- Lack of a clear, competitive-strength advantage in public data: Warmington lost the 2024 Democratic primary (she was not the 2024 nominee), so historical primary defeat raises doubt that she should be a near-certain (78%) favorite without clear new evidence of stronger support or endorsements. Reporting after her 2026 announcement notes both her name recognition and continuing liabilities; several outlets note party uncertainty about the best Democratic nominee. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Cinde_Warmington?utm_source=openai))
-- Competing candidate presence: Jon Kiper has re-entered the Democratic fold and is active; other plausible Democrats (or better-funded/organized entrants) could still join. The current early-campaign field is small but not one-sided, so an 78% implied probability may be too high absent strong polling or fundraising evidence showing Warmington dominance. ([laconiadailysun.com](https://www.laconiadailysun.com/news/elections/with-lessons-learned-from-2024-bid-jon-kiper-mounts-2nd-run-for-governor/article_3903c347-e430-45fb-9437-a122322a8c1c.html?utm_source=openai))
-- Active negative messaging: immediate GOP ads and rapid Republican pushback on Warmington’s lobbying history could damp Democratic primary enthusiasm or make the race more contested; that risk can reduce an assumed near-certain primary win. ([yahoo.com](https://www.yahoo.com/news/articles/state-house-dome-ayotte-kept-045900973.html?utm_source=openai))
-- Lack of public polling or fundraising evidence showing Warmington consolidating the Democratic base: I found no public poll showing Warmington commanding a ~75%+ share of likely Democratic primary voters in 2026. Absence of corroborating data weakens a strong-confidence market price. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/?utm_source=openai))
+A. Evidence that supports a high probability for Warmington (i.e., supports the current ~79.5% price)
+- Warmington has formally announced a 2026 campaign and local outlets report she’s running again (repeat statewide candidacy builds name recognition and infrastructure). Multiple news outlets covered her Feb 18, 2026 announcement. This is the strongest immediate fact supporting her frontrunner status. ([bostonglobe.com](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte//?utm_source=openai))
+- She was the top Democratic vote-getter in the 2024 Democratic primary (Cinde Warmington received about ~42% vs. the 2024 Democratic nominee’s ~48%); that shows existing statewide primary infrastructure and prior near-win performance — useful baseline for a repeat run. That prior result makes her a natural early frontrunner if other major Democrats do not enter. ([newhampshirebulletin.com](https://newhampshirebulletin.com/2024/09/10/craig-tops-warmington-to-win-democratic-nomination-for-governor/?utm_source=openai))
+- Fundraising/campaign infrastructure history: reporting from state outlets shows Warmington raised seven-figure totals during the prior cycle and had significant prior campaign activity — evidence she has the organizational capacity to compete statewide again. That reduces the uncertainty that typically accompanies brand-new candidates. ([newhampshirebulletin.com](https://newhampshirebulletin.com/2024/05/08/in-new-hampshire-governors-race-some-finance-reports-are-clearer-than-others/?utm_source=openai))
+- As of the reporting I found, there are few declared Democratic challengers: Jonathan Kiper (ran in 2024) has moved toward an independent 2026 candidacy, and other potentially competitive Democrats (Tom Sherman, Deaglan McEachern) have only “considered” runs or declined; that thin early Democratic field makes Warmington the default favorite. Citizens Count and other trackers list Warmington among the likely/declared repeat entrants and show limited declared competition. ([citizenscount.org](https://www.citizenscount.org/elections/2026-nh-gubernatorial-primary?utm_source=openai))
 
-What supports the market price (bullish for 78%):
-- Name recognition and prior statewide profile: Warmington was a major 2024 primary contender and served statewide as Executive Councilor; that residual recognition often gives repeat candidates an advantage in low-information early contests. Local coverage describes her as a leading Democratic figure and reports she is widely regarded as the early frontrunner by some outlets. That plausibly justifies a material favorite probability. ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
-- Small declared field so far: as of March 2026 the publicly active Democratic field appears limited (Warmington and Kiper were the main, named Democrats in coverage). In a small field the name with more recognition and an organizational base can often be the presumptive favorite early on. This fact reduces uncertainty relative to a crowded, unpredictable primary. ([citizenscount.org](https://www.citizenscount.org/elections/2026-nh-gubernatorial-primary?utm_source=openai))
-- Party-level dynamics: some Democratic operatives and coverage indicate the state party believes 2026 is winnable (or that Republicans are vulnerable). If party cadres coalesce behind a single viable candidate early, that candidate’s win probability rises. (Evidence here is circumstantial and based on local reporting of party strategy memos and commentary — not a formal endorsement list.) ([nhjournal.com](https://nhjournal.com/monday-memo-warmington-will-she-wont-she-and-why-would-she/?utm_source=openai))
+B. Evidence that challenges a high ~80% probability (reasons the market might be overstating certainty)
+- Warmington lost the 2024 Democratic primary — she did not win the last time, which shows she is defeatable inside her party; prior defeat implies the primary is not a foregone conclusion. Close prior performance supports favoritism but not near-certainty. ([newhampshirebulletin.com](https://newhampshirebulletin.com/2024/09/10/craig-tops-warmington-to-win-democratic-nomination-for-governor/?utm_source=openai))
+- There are plausible additional Democratic entrants who could change the race: reporting indicates Tom Sherman (2022 nominee) and others have publicly “expressed interest” or are being discussed; their entry could materially change the dynamics. Early-stage races often change rapidly once better-funded or more universally-known Democrats enter. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections?utm_source=openai))
+- Political attacks and issue baggage: local reporting and opposition (e.g., Republican attack pieces and investigative items about prior health‑care client work and in‑kind contributions) show there are lines of attack that could reduce Warmington’s standing in a contested primary. Those vulnerabilities can matter in a low-turnout primary. ([nh.gop](https://nh.gop/uncategorized/opioid-lobbyist-warmingtons-failure-to-launch/?utm_source=openai))
+- Time and uncertainty: the primary is scheduled for Sept 8, 2026 (about 5.5 months from today). Candidate decisions, endorsements, and fundraising flows between now and the filing period (June 2026) could change probabilities substantially. Wikipedia/trackers and local reporting note that filing windows and party decisions still leave room for new entrants. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election?utm_source=openai))
 
-Source credibility and recency (short assessment)
-- High: NHPR (Feb 18, 2026), Boston Globe (Feb 18, 2026), Concord Monitor (Feb 18, 2026), WMUR (April 2024 coverage of prior campaign policy), UNH Survey Center/Granite State Poll reports (Sept 2025/2025 polling). These are mainstream, local/regional outlets and the UNH poll center. ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
-- Medium/variable: NH Journal, Granite State Report — useful for local analysis and perspective but ideologically slanted and interpretive; use their claims cautiously. Political party releases (NH GOP, NHDP) accurately reflect partisan messaging but are not neutral evidence of electability. ([nhjournal.com](https://nhjournal.com/former-sen-levesque-running-for-exec-council-warmington-still-sitting-out-gov-race/?utm_source=openai))
+C. Source credibility and recency
+- Highly credible, recent sources used: Boston Globe (state politics reporting, Feb 2026), New Hampshire Public Radio (NHPR, Feb 2026), NBC Boston (local TV outlet), New Hampshire Secretary of State filings (official), and Citizens Count (state election tracker). These are current (Feb–Mar 2026) and directly relevant. I also used local political outlets (New Hampshire Bulletin, NH Journal) for vote totals and fundraising reporting; those are familiar state political sources but carry partisan/observer biases, so I weighted them appropriately. ([bostonglobe.com](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte//?utm_source=openai))
 
-3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretation(s) that justify 78%:
-  - The market-maker (or early traders) may be pricing Warmington as the clear early frontrunner given name recognition and the apparent lack of a stronger declared Democratic alternative (Kiper is credible but less known statewide). Early favorite prices in low-volume markets often reflect perceived frontrunner status rather than final probability. ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
-  - Party insiders or a small number of better-informed local traders may be placing the initial price based on internal polling, early donor conversations, or endorsements not fully public. I found reporting that the state party circulated strategy memos and that operatives are talking about the race; that could be the hidden information justifying a high market price if true. ([nhjournal.com](https://nhjournal.com/monday-memo-warmington-will-she-wont-she-and-why-would-she/?utm_source=openai))
-- Reasons to suspect the price reflects one/few participants or incomplete aggregation:
-  - Market metrics show Age 98 days and Total Vol $0 (per the market data you supplied). Zero total volume with a set price implies the displayed price may have been placed by a single liquidity-provider or initial actor and not actively traded against. That raises the chance the price reflects one trader’s subjective belief rather than an information-aggregating market. (This is a direct market-data fact from your description.)
-  - Low public polling and lack of definitive endorsements or fundraising tallies mean there is little publicly visible evidence that should justify a 78% consensus; that increases the chance this is thin-market pricing. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/?utm_source=openai))
-- Is low volume because outcome is obvious or because traders haven’t engaged?
-  - It seems more likely low volume reflects trader non-engagement and thin-market mechanics rather than an “obvious” outcome. The primary is many months away (Sept 8, 2026), the candidate field is still forming, and public polling for the Democratic primary is scarce — these normally attract trader interest if information or arbitrage is apparent. The absence of that data suggests low engagement, not an already-certain outcome. ([citizenscount.org](https://www.citizenscount.org/elections/2026-nh-gubernatorial-primary?utm_source=openai))
+3) MARKET EFFICIENCY ANALYSIS — Is the current price plausible?
+- Reasonable interpretation that justifies ~79.5%:
+  - Warmington = declared candidate, prior strong statewide primary showing (~42% in 2024), campaign infrastructure/fundraising history, and limited declared Democratic competition as of reporting — these together justify a comfortably-favored probability in an early market, possibly in the 60–85% range depending on how much weight traders place on “probable entrants” vs. “declared field.” ([newhampshirebulletin.com](https://newhampshirebulletin.com/2024/09/10/craig-tops-warmington-to-win-democratic-nomination-for-governor/?utm_source=openai))
+- Reasons the market price might instead reflect a single trader or thin liquidity:
+  - This market shows Total Vol = $0 and spread = 1c, which means no recorded trading activity — the displayed price could simply be the initial or only offer from a single participant (or a stale price set by a creator), not a consensus. Low volume plus a high point estimate is consistent with an opinion posted rather than an aggregated, liquid market price.
+- Is low volume due to “obviousness” or “lack of engagement”? Likely the latter. The outcome is not obvious: Warmington lost the last primary and other Democrats could enter. Because the primary is still months away and more recognizable Democrats could enter, many informed traders may rationally wait for more information; that causes low volume. Conversely, early consensus could explain a high price, but the zero volume strongly suggests the displayed probability should be treated cautiously.
 
-4) MISPRICING ASSESSMENT
-- Weighing evidence:
-  - Pro-mispricing points: Warmington’s 2024 loss, ongoing GOP attacks, presence of Kiper and the possibility of other entrants, absence of public polling or fundraising that would justify a near-certain 78% probability; market shows zero trading volume (suggests thin liquidity or single-actor price). These weaken confidence in 78% as an accurate aggregate probability. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Cinde_Warmington?utm_source=openai))
-  - Anti-mispricing points: Warmington has clear name recognition and a recent statewide profile; at the time of this research the Dem field is small and party chatter suggests Democrats see a path in 2026 (which could produce early consolidation behind an experienced candidate). Those facts could plausibly justify a materially elevated win probability relative to a random candidate. ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
-- Conclusion on mispricing:
-  - There is insufficient, specific, publicly available evidence to conclude a large mispricing (e.g., >20 percentage points) in either direction. The combination of Warmington’s name recognition and a small field makes a moderately high probability plausible; conversely, the absence of public polling/fundraising/endorsement evidence and the market’s zero trading volume makes a single-actor price a credible alternative explanation. Given those offsetting factors, I cannot confidently say 78% is a clear misprice — but I also consider the market’s displayed price fragile (thin/liquidity-susceptible) and more likely to change as public polling, endorsements, or fundraising numbers appear.
-- Critical-check on reasoning:
-  - I verified the precise resolution criterion (winner of the Democratic primary, certified by NH Democratic Party or by overwhelming reporting) and confirmed the primary date (Sept 8, 2026). There is no evidence that the primary has already happened or that resolution conditions are met, so the market is forward-looking and not mechanically mis-specified. Public information that could justify 78% (private internal polls or pledged endorsements) is possible but I did not find public corroboration. This strongly reduces confidence that the market has fully aggregated broad, verifiable information. ([citizenscount.org](https://www.citizenscount.org/elections/2026-nh-gubernatorial-primary?utm_source=openai))
+4) MISPRICING ASSESSMENT — weigh evidence objectively
+- Given the evidence, I do not find conclusive, specific, and credible information that is clearly missing from the market price that would justify declaring a large mispricing (>20 cents).
+- Why not:
+  - Pro-mispricing arguments: Warmington’s prior loss, vulnerability to attacks, and uncertainty about late entries argue for more than trivial chance she does not win the primary; if a major Democratic figure enters, the market price could fall sharply. Those facts mean the 79.5% could be optimistic. ([newhampshirebulletin.com](https://newhampshirebulletin.com/2024/09/10/craig-tops-warmington-to-win-democratic-nomination-for-governor/?utm_source=openai))
+  - Anti-mispricing arguments: Warmington’s announcement, statewide name recognition, demonstrated fundraising capacity, and the current absence of a declared high-profile challenger make a high early favorite probability sensible. Traders who believe new high-profile entrants are unlikely may reasonably set a high probability now. ([bostonglobe.com](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte//?utm_source=openai))
+- Critical check (why I am not concluding a large mispricing):
+  - The market is early and illiquid (Total Vol = $0). A large difference between my subjective view and the displayed price is plausible but could also be explained by simple illiquidity (single trader posting) or divergent priors about future entrants. I would only call a large mispricing if I found a concrete piece of missing information (e.g., an imminent filing by a stronger Democrat, or an official disqualification) — which I did not find in the sources. ([citizenscount.org](https://www.citizenscount.org/elections/2026-nh-gubernatorial-primary?utm_source=openai))
 
-5) EXPECTED VALUE CALCULATION (estimate of value in trading on the mispricing)
-- Strength of evidence that the market omits important public information: I assess this as about 30% (i.e., there is a meaningful chance the market is simply the view of a single actor and that public polling/fundraising would move the price materially; but there is also a plausible case the price reflects a genuine frontrunner advantage). (30% = 30/100.)
-- Plausible magnitude of mispricing if wrong: I estimate a likely mispricing magnitude of roughly 10 cents (i.e., the market might be overstating Warmington’s chance by ~0.10 absolute probability), not the very large differences (20+ cents). Rationale: with a small declared field and Warmington’s profile she might indeed be favorite, but not near-certain; a move from 78% to around 65–70% seems plausible if public polling or a viable challenger emerges. (This is an estimate, not a precise forecast.)
-- Expected value = Strength × Magnitude = 0.30 × 10 cents = 3.0 cents.
+5) EXPECTED VALUE CALCULATION (estimate of value from investigating/trading)
+- Strength of evidence that the market is missing a material piece of information: I assess this around 50%. Rationale: There are credible reasons Warmington could lose (prior 2024 defeat, issue vulnerability, possible entrants), but there is no currently published, high-probability event (e.g., another major Democrat filing) that is being omitted by the market.
+- Magnitude of likely mispricing if wrong: I estimate a plausible mispricing magnitude of ~10 cents (0.10) in either direction — i.e., the true fair early probability might reasonably be in the 65–85% range depending on entrants, so a 79.5% price could be off by ~10c at most given current information and the runway for new entrants.
+- Expected value = Strength × Magnitude = 50% × 10c = 5.0 cents.
 
-6) CONFIDENCE (one word)
-- medium
+6) CONFIDENCE in this assessment
+- I rate my confidence as medium.
+  - Why medium: I used recent, credible local sources and official filings for the core facts, but the market is early and there remain plausible, unannounced candidate decisions and fundraising moves that could materially change likelihoods between now and filing/primary. The zero-volume market implies the posted price may not reflect a robust consensus.
 
-EXPECTED_VALUE: 3.0
-SUMMARY: Public reporting confirms Cinde Warmington declared for the 2026 NH Democratic gubernatorial primary and is an early, recognizable frontrunner, but public polling, fundraising, and endorsement data showing dominance are not yet available. The market’s 78% price is plausible but fragile: total-volume = $0 and limited visible evidence mean the price could reflect one or a few traders rather than broad information aggregation.
-CONFIDENCE: medium
+Final, brief recommendation and operational notes
+- The market price (79.5%) is defensible given Warmington’s announcement, prior statewide primary performance, and limited declared Democratic competition — but the zero trading volume makes that displayed probability unreliable as a consensus. If you consider trading, treat this as an early-stage, high-uncertainty market: small positions are sensible unless you have information about imminent filings or large endorsements that other traders don’t yet have.
+- If you seek an actionable edge, monitor (a) official filing window (June 2026) for declarations by higher-profile Democrats, (b) major endorsements or labor/party institutional endorsements, and (c) latest campaign finance filings — any of these would materially update the fair price.
+
+EXPECTED_VALUE: 5.0
+SUMMARY: Cinde Warmington has announced a 2026 Democratic primary run and has prior statewide primary infrastructure (she got ~42% in the 2024 Democratic primary), which supports a high early probability. However, she lost the last primary, has identifiable vulnerabilities, plausible potential challengers exist, and the market shows zero trading volume — overall I see no clear, missing fact that justifies declaring a large mispricing. CONFIDENCE: medium
 
 ---
 
@@ -84,42 +82,42 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Cinde Warmington launches second bid for New Hampshire governor](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026)
-**Author:** Kevin Landrigan / NHPR (article) | **Published:** 2026-02-18
+### [Cinde Warmington launches second bid for New Hampshire governor](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte/)
+**Author:** Cheryl Senter (Boston Globe) | **Published:** 2026-02-18
 
-Reports Warmington’s Feb. 18, 2026 campaign launch for governor, summarizes her background as a former Executive Councilor and key themes (affordability, opposition to sales/income tax, education policy). Notes she joins Jon Kiper in the Democratic primary and provides immediate local-reporter context. This supports the basic fact she is a declared Democratic candidate and an early, recognizable entrant — a core input to whether she should be priced as a favorite. ([nhpr.org](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026?utm_source=openai))
+Boston Globe coverage of Warmington’s Feb 18, 2026 campaign launch. The article summarizes Warmington’s decision to run again, references her 2024 primary performance and campaign themes, and quotes observers about the likely general-election match-up. This source supports the key fact that Warmington has officially announced a 2026 run and provides recent context about her status as an early frontrunner, which supports the market price being high.
 
-### [Cinde Warmington launches Democratic campaign for N.H. governor, hoping to take on Republican incumbent Kelly Ayotte](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte/)
-**Author:** Unknown (Boston Globe staff; online piece) | **Published:** 2026-02-18
+### [Cinde Warmington launches Democratic campaign for N.H. governor, hoping to take on Republican incumbent Kelly Ayotte](https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026)
+**Author:** (New Hampshire Public Radio staff) | **Published:** 2026-02-18
 
-Boston Globe coverage of Warmington’s Feb. 18, 2026 announcement, background on her 2024 primary run and her policy priorities for 2026. The Globe notes the political context and likely lines of attack she will face. This outlet is high-credibility and confirms both name-recognition and liabilities (important for estimating probability). ([bostonglobe.com](https://www.bostonglobe.com/2026/02/18/metro/cinde-warmington-launches-nh-governor-ayotte/?utm_source=openai))
+NHPR’s report on Warmington’s announcement, including quotes and notes about potential other Democratic prospects (e.g., those “weighing” runs) and the state political context. This corroborates Warmington’s declaration and highlights that other potential candidates are not yet fully committed, supporting the idea she is an early favorite.
 
-### [Cinde Warmington will run for governor again, mounting challenge against Ayotte](https://www.concordmonitor.com/2026/02/18/warmington-challenges-ayotte-campaign/)
-**Author:** Charlotte Matherly (Concord Monitor) | **Published:** 2026-02-18
+### [Cinde Warmington announces run for NH governor – NBC Boston](https://www.nbcboston.com/news/local/democrat-cinde-warmington-announces-run-for-new-hampshire-governor/3901255/)
+**Author:** (NBC Boston staff) | **Published:** 2026-02-18
 
-Concord Monitor’s report on Warmington’s announcement and on criticisms (including her past lobbying work related to opioids/Purdue Pharma). The article records immediate GOP messaging and local reaction. This source provides evidence of both Warmington’s political standing and a specific, ongoing vulnerability that could affect primary voters — which argues against treating a 78% price as a sure thing. ([concordmonitor.com](https://www.concordmonitor.com/2026/02/18/warmington-challenges-ayotte-campaign/?utm_source=openai))
+Local TV outlet coverage of the announcement. Confirms the timing of the launch and repeats campaign claims; useful as confirming, independent reporting of the announcement (reinforces credibility of Warmington’s declared status).
 
-### [Kiper rejoins Democratic Party to continue campaign for NH governor](https://www.wmur.com/article/kiper-democratic-party-campaign-governor-9225/65962688)
-**Author:** WMUR staff | **Published:** 2025-09-22
+### [2024 New Hampshire gubernatorial election — Democratic primary reporting (Craig tops Warmington)](https://newhampshirebulletin.com/2024/09/10/craig-tops-warmington-to-win-democratic-nomination-for-governor/)
+**Author:** Annmarie Timmins (New Hampshire Bulletin) | **Published:** 2024-09-10
 
-WMUR reported that Jon Kiper (who ran in 2024) reversed an independent campaign and rejoined the Democratic race in Sept. 2025; other local outlets confirm Kiper’s activity into early 2026. This establishes at least one other credible Democratic candidate and supports the argument that a contested primary is plausible rather than a foregone conclusion. ([wmur.com](https://www.wmur.com/article/kiper-democratic-party-campaign-governor-9225/65962688?utm_source=openai))
+Detailed reporting of the 2024 Democratic primary results showing Joyce Craig defeating Cinde Warmington (with Warmington ~41–42% statewide). This is the factual basis showing Warmington’s prior statewide primary performance (close but losing), which tempers claims of near-certainty for 2026.
 
-### [With lessons learned from 2024 bid, Jon Kiper mounts 2nd run for governor](https://www.laconiadailysun.com/news/elections/with-lessons-learned-from-2024-bid-jon-kiper-mounts-2nd-run-for-governor/article_3903c347-e430-45fb-9437-a122322a8c1c.html)
-**Author:** Unknown (Laconia Daily Sun staff) | **Published:** 2026-02-20
+### [2026 NH Gubernatorial Primary | Citizens Count](https://www.citizenscount.org/elections/2026-nh-gubernatorial-primary)
+**Author:** Unknown (Citizens Count editorial/tracker) | **Published:** Unknown (page updated 2026)
 
-Local reporting on Jon Kiper’s renewed campaign for governor (Feb. 2026), his policy themes, and his activity in early 2026. This reinforces that Kiper is an active challenger in the Democratic primary and that the nominee is not yet determined, which challenges the high certainty implied by 78%. ([laconiadailysun.com](https://www.laconiadailysun.com/news/elections/with-lessons-learned-from-2024-bid-jon-kiper-mounts-2nd-run-for-governor/article_3903c347-e430-45fb-9437-a122322a8c1c.html?utm_source=openai))
+State election tracker page summarizing declared candidates, filing windows, and campaign notes for the 2026 NH governor race. Citizens Count indicates Warmington has announced for 2026 and that as of recent reporting there are limited declared Democratic challengers; this supports the assessment that Warmington is an early favorite and shows the degree of declared competition.
 
-### [Warmington’s Back in the Game](https://www.granitestatereport.com/2026/03/06/death-threats-tax-revolt-and-a-failed-constitutional-ban-inside-the-week-that-blew-open-new-hampshires-most-forbidden-political-debate/)
-**Author:** Unknown (Granite State Report) | **Published:** 2026-03-06
+### [DEMOCRATIC DAILY FILING AS OF 06/12/2024 (NH Secretary of State)](https://sos.nh.gov/sites/g/files/ehbemt561/files/documents/2024-06/democratic-daily-filings-6.12.24.pdf)
+**Author:** New Hampshire Secretary of State (Office) | **Published:** 2024-06-12
 
-Recent analysis noting Warmington is “widely regarded as the leading Democratic candidate” in local political coverage, and describing party and political reaction to early 2026 developments. This provides contextual support for why traders might price Warmington as an early frontrunner, while also noting the partisan attacks she faces — reinforcing that public perceptions are mixed. ([granitestatereport.com](https://granitestatereport.com/2026/03/06/death-threats-tax-revolt-and-a-failed-constitutional-ban-inside-the-week-that-blew-open-new-hampshires-most-forbidden-political-debate/?utm_source=openai))
+Official filing document listing Democratic primary filers (historical evidence that Warmington filed previously). This official record supports claims about filing behaviors and is used to corroborate fundraising/filing facts and the formal candidate status of actors in the race.
 
-### [Analysis: Two New Polls, One Dismal Message for NH Dems](https://nhjournal.com/analysis-two-new-polls-one-dismal-message-for-nh-dems/)
-**Author:** Unknown (NH Journal) | **Published:** 2026-01-xx
+### [In New Hampshire governor’s race, some finance reports are clearer than others](https://newhampshirebulletin.com/2024/05/08/in-new-hampshire-governors-race-some-finance-reports-are-clearer-than-others/)
+**Author:** Ethan DeWitt (New Hampshire Bulletin) | **Published:** 2024-05-08
 
-NH Journal’s analysis of recent New Hampshire polling and party strategy; notes UNH/Granite State Polls and that the NHDP’s memo has created discussion about the party’s readiness. The piece is interpretive and partisan-leaning but is useful to show public-polling context and editorial skepticism about Warmington’s standing. This source supports the assessment that public polling establishing Warmington as a 78%-likely nominee was not publicly available at the time of research. ([nhjournal.com](https://nhjournal.com/analysis-two-new-polls-one-dismal-message-for-nh-dems/?utm_source=openai))
+Background reporting on campaign finance in the NH governor race; notes Warmington reported seven-figure fundraising during the prior cycle. This supports the evidence that Warmington has campaign infrastructure and fundraising capacity relevant to her early frontrunner status.
 
-### [UNH Survey Center / Granite State Poll (early look at 2026 races)](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/)
-**Author:** InDepthNH (republished UNH Survey Center summary) | **Published:** 2025-09-29
+### [Ayotte Posts $4.2M Fundraising Total; Morse Skips Filing in GOP Governor's Race](https://nhjournal.com/ayotte-posts-4-2m-fundraising-total-morse-skips-filing-in-gop-governors-race/)
+**Author:** Unknown (NH Journal) | **Published:** 2023-12-07
 
-Summary/republishing of UNH Survey Center’s Granite State Poll about the early 2026 landscape — governor approval and broader electorate environment — but this polling did not provide a definitive testing of the 2026 Democratic primary contestants (i.e., no public poll showing Warmington at ~75%+). This supports the claim that objective, public polling evidence for a 78% Warmington-probability was lacking. ([indepthnh.org](https://indepthnh.org/2025/09/29/unh-survey-center-early-look-at-2026-nh-races/?utm_source=openai))
+State political outlet reporting on fundraising totals across parties; includes comparative fundraising context showing Ayotte’s large haul and references Warmington’s fundraising figures. Useful for assessing campaign resource differences and Warmington’s ability to mount a statewide contest again.

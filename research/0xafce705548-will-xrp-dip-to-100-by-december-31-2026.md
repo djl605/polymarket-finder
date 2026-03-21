@@ -1,95 +1,121 @@
 # Research: Will XRP dip to $1.00 by December 31, 2026?
 
 **Market ID:** 0xafce7055487797b654c401e6645c8c56900540cc3b38ef50cacf61b942bf31d5
-**Researched At:** March 6, 2026 at 02:48:18 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will XRP dip to $1.00 by December 31, 2026?"
+**Researched At:** March 21, 2026 at 04:09:46 AM UTC
+**Search Query:** "Will XRP dip to $1.00 by December 31, 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 12.8¢
 
 ### Summary
 
-Research shows XRP’s future floor around end-2026 is highly uncertain—neither strong bearish nor bullish consensus emerges. Current 77.5% probability could reflect a few traders’ bearish bias rather than a clear market mispricing.
+The market’s 65.5% probability likely overstates the public‑evidence chance that Binance’s XRP/USDT 1‑minute Low will hit ≤ $1 before 2026‑12‑31. Flash‑crash precedent and exchange/whale flows make the event possible, but post‑settlement institutional liquidity and no recorded ≤ $1 Binance minute print since the contract start argue for a materially lower probability.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-This market pays out “Yes” if at any time between Nov 24, 2025 14:30 ET and Dec 31, 2026 23:59 ET the one-minute low of XRP/USDT on Binance is ≤ $1.00. If XRP never trades that low in any 1m candle during that window, it resolves “No.”  
+Planned approach and searches used
+- I planned three focused searches to gather (A) current XRP spot price / recent volatility, (B) evidence of Binance flash crashes / one-minute wick behavior and liquidity risk, and (C) regulatory and institutional-flow developments (Ripple/SEC settlement, ETF/inflow environment) that materially change tail risk. I excluded prediction-market sites as requested.
 
-2. EVIDENCE EVALUATION  
-• Bearish signals or reasons price might dip to $1 (supporting “Yes”):  
-  – XRP has recently fallen from a $3.65 peak in July 2025 to ~$1.40 in Feb/Mar 2026 (AInvest). A ~30% further decline is not unprecedented in crypto.  
-  – The AI-simulation article (AOL) explicitly calls future prices “highly uncertain” and emphasizes volatility.  
-  – Technical resistance at $1.55–$1.60 (AInvest, 24/7 Wall St.) suggests downside risk if those levels fail.  
+Answer — structured per your requested headings
 
-• Bullish signals or reasons price might stay above $1 (supporting “No”):  
-  – On-chain data show reduced exchange balances and $1.37 billion in ETF inflows since Nov 2025, indicating accumulation (AInvest).  
-  – Catalysts: likely Fed rate cuts; continued institutional ETF inflows ($300–500 m monthly) and adoption of XRP for on-demand liquidity could shore up support (24/7 Wall St.).  
-  – Analysts view the recent low as a Wave 2 correction with potential for a multi-year Wave 3 rally (AInvest).  
-  – None of the AI-model articles or technical commentators confidently forecast a drop to $1 by end of 2026—most call it speculative.  
+1) CONTEXT ANALYSIS
+- What the market asks: It will resolve YES if any Binance XRP/USDT 1-minute candle Low between 2025-11-24 14:30 ET and 2026-12-31 23:59 ET is ≤ $1.00; otherwise NO. The market cares only about Binance 1‑minute candle "Low" values (not other exchanges, not other pairs).
+- For a YES: at least one 1-minute candle on Binance in that time window must have an intra‑minute low ≤ $1.00. That could be a sustained drop across minutes, or an extremely brief wick (single minute) caused by a large market sell, liquidation cascade, API/engine event, or exchange outage/bug that produces a low-price print.
+- For a NO: no Binance 1‑minute candle within the window contains any low ≤ $1.00.
 
-All sources are from Feb/Mar 2026; credibility is moderate (established crypto publications and on-chain data). None provide a quantitative probability. The consensus is “uncertain,” with a tilt toward stabilization or rebound if positive catalysts materialize.  
+2) EVIDENCE EVALUATION (what I found and how it bears on the question)
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 77.5% market probability implies traders are quite bearish on XRP’s medium-term price floor. Possible justifications:  
-  • Traders focus on crypto’s historical drawdowns and geopolitical/regulatory uncertainty, assigning high odds to another sharp correction.  
-  • Low volume/spread suggests only a few participants; price may track one or two bearish big holders.  
-  • Alternatively, the outcome may look “obvious” to those few—if they believe the technical support at ~$1.60 won’t hold, they’ll drive up the “Yes” price.  
+Relevant facts and sources (short):
+- Current price and recent trading range: XRP has been trading in the low‑$1’s to mid‑$1’s in March 2026 (e.g., CoinMarketCap / market-feed snapshots show price ≈ $1.3–$1.45 range). This means the $1 threshold is ~25–30% below spot today — material but within crypto’s realized moves. (CoinMarketCap)
+- Historical flash crashes: XRP has experienced large intraday “flash crash” moves in 2025–2026 (October 2025 event with a >40% intraday drop that produced a very large single-session range, and further volatility / long-liquidation events in Jan 2026). These episodes were associated with heavy futures leverage, forced liquidations, and thin liquidity windows that produced deep single-session lows on major venues. Such dynamics make an ephemeral minute-low of $1 plausible in extreme stress. (CoinDesk; BraveNewCoin coverage)
+- Binance’s market share for XRP: data used in industry blended-price indices show Binance is the dominant liquidity provider for XRP/USDT (Binance often represents a very large share of spot volume for XRP pairs). Because the market specifically resolves to Binance minute data, Binance’s order book structure and any localized liquidity vacuum are decisive. (CCData blended-price methodology)
+- On‑chain / exchange flows: there have been large whale transfers into Binance (e.g., a large Kraken→Binance routing of XRP in Feb 2026) and notable exchange inflows in late‑2025 / early‑2026. Large inflows to Binance increase the chance of concentrated selling pressure on that venue and therefore increase the chance of a localized minute‑low. (Whale‑Alert / flow reporting)
+- Regulatory / institutional backdrop: Ripple’s long-running litigation with the SEC materially de‑risked in 2025 (settlement / dismissal/appeals activity reported in spring–summer 2025). Following legal closure, institutional flows and product developments pushed XRP to higher levels in August 2025 (rallies and ETF/spot-product flows were reported). Regulatory clarity and institutional buying reduce the baseline probability of sustained spot price collapse, and they increase overall liquidity over time — both factors that reduce the unconditional chance of a minute-low ≤ $1. (Investing.com / CoinDesk reporting on settlement and market reaction)
 
-Given the absence of a clear consensus in published analyses (most call it speculative, neither strongly bullish nor bearish), the market price may simply reflect a few traders’ risk-off view rather than broad information aggregation.  
+Arguments that the market price (65.5%) may be incorrect (bearish on market price — evidence that it is too high)
+- No clear, credible record of XRP hitting ≤ $1 on Binance inside the current resolution window (since 2025‑11‑24). The large Oct 2025 crash that produced very low prints happened before this resolution window. I did not find authoritative evidence of any Binance 1‑minute low ≤ $1 after the window began (i.e., since 2025‑11‑24). If no such print has already occurred, a 65.5% chance that it will before 2026‑12‑31 may overstate tail risk.
+- Post‑litigation institutional flows and product listings (August 2025 onward) increased liquidity and professional custody participation; greater institutional presence typically reduces the probability of extreme, single‑minute illiquidity wicks on a major venue like Binance. Market participants likely considered the regulatory outcome already; if so, that reduces an extreme downside tail for XRP.
+- Many published narratives since late‑2025 emphasize spot ETF and institutional inflows and structural adoption arguments; these reduce probability mass on deep sub‑$1 prints except during systemic crypto crashes. If the market’s 65.5% is driven mainly by the possibility of an idiosyncratic Binance minute spike, traders who factor in improved liquidity and institutional depth would price that chance lower.
 
-4. MISPRICING ASSESSMENT  
-• Evidence for mispricing is weak: no strong quantitative arguments that the chance of a dip is so high, nor any unpriced regulatory or macro shocks in the research.  
-• Evidence supporting the price: high volatility in crypto and significant past drawdowns logically lead to elevated probability of another drop.  
-• The research does not reveal any material on-chain or macro factor that traders have systematically missed.  
+Arguments that support the market price (evidence that a >50% chance could be reasonable)
+- Flash‑crash precedent: XRP has shown it can experience very large intraday drops (October 2025 and subsequent liquidation events). Those events were not impossible outliers — they were generated by concentrated selling + high leverage + temporary liquidity vacuums. Because the market resolution counts any 1‑minute candle low, not only sustained closes, one brief minute‑long vacuum can resolve the contract YES.
+- Binance‑specific risk and concentrated flows: Binance often takes a dominant share of XRP/USDT liquidity. Large on‑exchange inflows (whale deposits) can precede rapid desk selling; derivatives open interest and leverage still exist, meaning forced liquidations could cascade and create minute lows on Binance even if other venues remain higher.
+- Systemic macro or regulatory shocks could occur between now and year‑end (e.g., large Crypto/BTC crash, unexpected macro event, or an unforeseen Binance order‑engine issue). Traders can rationally price non‑negligible probability for minute‑wicks to $1 given that history.
+- Because the contract resolves to Binance minute data, localized exchange idiosyncrasies (engine error, feed glitch, or brokerage routing) could produce one-minute low prints that look like price but reflect technical anomalies — market participants may be pricing the risk of an exchange‑level anomaly, which is hard to predict from public data.
 
-Conclusion: There is no clear, credible evidence of a >20¢ mispricing. A modest overstatement of risk is possible (market leaning too bearish), but magnitude likely under ~5¢–10¢.  
+Source credibility and recency
+- CoinDesk, Reuters/Investing.com, and Whale‑Alert are reputable for market and regulatory news; CCData is a known market-data provider. Where I used smaller outlets or forum posts I discounted their weight. Most cited reporting is from 2025–2026 (relevant and recent to this market window).
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence for mispricing: 20%  
-Magnitude of mispricing: 5 cents  
-Expected value = 0.20 × 5 ¢ = 1 ¢  
+3) MARKET EFFICIENCY ANALYSIS (is 65.5% reasonable given the evidence?)
+- Reasonable interpretation that justifies 65.5%: a trader (or small group) who witnessed multiple sharp flash crashes in 2025 and expects persistent leverage + macro fragility could place sizeable probability on another idiosyncratic minute‑low on Binance. Because the contract resolves on any one-minute low, such a trader need only believe a single volatile minute will occur to rationally price the contract high.
+- Alternative interpretation (why price could be too high): If the market has become deeper and dominated by institutional liquidity since the SEC settlement, then the marginal probability of a minute‑low to $1 should be meaningfully lower than in 2024–2025 shock periods. Also, the market’s low trading volume ($4k total) suggests the market price may be controlled by one or a tiny number of participants, not by a broad information-aggregation process. In that case the quoted 65.5% could reflect a single trader’s subjective hedge or opinion rather than a consensus estimate.
+- Is low volume because outcome is obvious or because informed traders haven’t engaged? Given the scenario (low volume / tight spread), it’s more consistent with a market ignored by the crowd (few participants) and possibly set by a liquidity provider or single speculator rather than broad, informed aggregation. If this market were widely considered and there were a strong consensus, we would expect larger volume.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Research shows XRP’s future floor around end-2026 is highly uncertain—neither strong bearish nor bullish consensus emerges. Current 77.5% probability could reflect a few traders’ bearish bias rather than a clear market mispricing.  
+4) MISPRICING ASSESSMENT (weighing both sides)
+- Net reading: The key margin is between (A) flash‑crash / exchange‑idiosyncrasy risk that makes a single‑minute $1 wick plausible, and (B) improved structural liquidity & institutional flows plus no known sub‑$1 Binance minute print since 2025‑11‑24.
+- I conclude the market likely overstates the chance that Binance will print a one‑minute low ≤ $1 before 2026‑12‑31. I estimate the market’s 65.5% probability is too high by a non‑trivial amount because:
+  - There is credible evidence that single‑minute flash crashes can happen, but those events appear infrequent and many of the largest ones happened before this contract’s start date (Oct 2025 crash pre‑dates the resolution window). I found no authoritative record of a ≤ $1 Binance minute low inside the contract’s live window so far.
+  - Institutional liquidity and post‑settlement flows (reported in mid‑2025) argue for a lower unconditional chance of a deep minute wick on the dominant venue.
+- However, I cannot rule out a surprise (macro crash, forced liquidations, or Binance-specific event). Therefore the market is not certain to be mispriced — instead, it appears biased toward the “flash‑crash tail” more heavily than the public evidence supports.
+
+CRITICAL CHECK (have I misunderstood resolution criteria or missed a key public fact?)
+- I verified that resolution is based solely on Binance XRP/USDT 1‑minute Low within the given time window — so even a single one‑minute wick from exchange-level issues would resolve YES. That technicality explains why some traders might assign a materially elevated chance.
+- I found credible reporting that the Ripple/SEC litigation materially de‑risked in 2025 (settlement/appeal dismissal activity), which reduces regulatory‑overhang downside — so if a trader ignored that, they could overestimate downside risk.
+- Conclusion after the check: the only plausible reason for a 65.5% market price I can’t disprove is that a trader is pricing a high likelihood of yet another exchange-level flash crash or expects a systemic crypto drawdown. That’s a defensible subjective view, but it’s not strongly supported by public data as the most-likely outcome.
+
+5) EXPECTED VALUE CALCULATION (numerical)
+- My best estimate for the “true” probability (subjective) that Binance XRP/USDT will print a 1-minute Low ≤ $1 by 2026‑12‑31 is ≈ 40% (i.e., market is overstating by ≈ 25.5 percentage points).
+  - Rationale: starting spot ~ $1.35 and historical volatility + prior flash‑crash evidence pushes one’s tail‑probability higher than equities, but post‑settlement liquidity and the absence of a sub‑$1 print since the window began argue against >50% unconditional probability.
+- Magnitude of mispricing = market price (65.5%) − my estimate (40%) = 25.5 cents.
+- Strength of evidence (how confident I am that this specific evidence is missing from the current price): medium = 50% (there is balanced support on both sides; public reporting supports both the possibility of flash crashes and improved liquidity).
+- Expected value = Strength × Magnitude = 0.50 × 25.5 = 12.75 cents.
+
+6) CONFIDENCE
+- Confidence in this assessment: medium.
+
+Final decision / practical recommendation
+- There is credible evidence both ways. Because the contract is sensitive to a single Binance one‑minute candle, the plausible size of the tail means a non‑trivial chance exists. However, public evidence (no sub‑$1 Binance minute print since 2025‑11‑24; increased institutional liquidity after the 2025 settlement) suggests a lower probability than the market’s 65.5% figure. Given the market’s very low volume ($4k total) and tight spread, the posted price is likely not a well‑aggregated consensus and could be skewed by one or a few participants. If you can trade against it size‑efficiently (and you accept the exchange‑idiosyncrasy risk), there may be value in taking the other side — but treat position sizing conservatively because exchange‑level flash crashes are possible and hard to predict.
+
+EXPECTED_VALUE: 12.75
+SUMMARY: The market’s 65.5% probability likely overstates the public‑evidence chance that Binance’s XRP/USDT 1‑minute Low will hit ≤ $1 before 2026‑12‑31. Flash‑crash precedent and exchange/whale flows make the event possible, but post‑settlement institutional liquidity and no recorded ≤ $1 Binance minute print since the contract start argue for a materially lower probability.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Here's XRP's Most Likely Price on December 31, 2026 - AOL
-Author: AOL
-URL: https://www.aol.com/articles/ai-ran-10-000-simulations-185523889.html
-Summary: The webpage discusses an AI-driven simulation study that ran 10,000 scenarios to analyze XRP's future price movements. While it does not provide a specific prediction about XRP reaching $1.00 by December 31, 2026, the extensive simulations suggest that future cryptocurrency prices, including XRP, are highly uncertain and influenced by numerous factors such as market trends, technological developments, regulatory changes, and investor sentiment. Given the complexity and volatility of the crypto market, predicting a precise price point like $1.00 several years ahead remains speculative. Investors should consider these variables and the inherent unpredictability when evaluating XRP's potential to dip to $1.00 by the end of 2026.
+### [XRP price today, XRP to USD live price, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/xrp/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: XRP Price Prediction for March: Rally, Stuck, or Drop Below $1?
-Author: BeInCrypto
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://beincrypto.com/xrp-price-prediction-march-2026/
-Summary: The article analyzes XRP's price outlook for March, highlighting its recent volatility and potential future movements. While it does not provide a direct prediction for XRP's price by December 31, 2026, the discussion of current market trends, technical analysis, and XRP's historical performance can offer insights. XRP's price has experienced fluctuations influenced by broader crypto market conditions, regulatory developments, and investor sentiment. Given the current momentum and market factors, whether XRP will dip to $1.00 by the end of 2026 depends on long-term market trends, regulatory impacts, and macroeconomic factors. However, the article emphasizes that XRP's future price trajectory remains uncertain, with possibilities of rallies or declines depending on evolving market dynamics.
+Real‑time price, volume and historical daily snapshots for XRP; shows XRP trading in the low‑to‑mid $1 range in March 2026 and provides market‑cap and historical daily lows/highs. This is relevant because the current spot range (~$1.3–$1.45) establishes how far a $1 print would be below the market today (≈25–30%), which matters to assessing plausibility of the contract resolving YES. It supports the view that $1 is a material tail from current spot but within crypto’s realized volatility.
 
-Title: XRP at $1.40: What Needs to Happen for a 3x XRP Price Move by December 2026 - 24/7 Wall St.
-Author: Sam Daodu
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://247wallst.com/investing/2026/03/03/xrp-at-1-40-what-needs-to-happen-for-a-3x-xrp-price-move-by-december-2026/
-Summary: The article analyzes XRP's current price of $1.40 and outlines the key hurdles for a potential 3x increase by December 2026, reaching $4.20 and a market cap of $240 billion. To achieve this, XRP must break through five resistance levels: $1.55, $1.80, $2.30, $3.40, and $4.20. Critical factors influencing this growth include sustained monthly ETF inflows of $300-500 million, Federal Reserve rate cuts, and increased adoption of XRP's On-Demand Liquidity (ODL) by banks for settlements. Given these conditions, a dip to $1.00 by December 2026 appears unlikely if positive catalysts materialize; however, market volatility and macroeconomic factors could impact XRP's trajectory.
+### [XRP Price Analysis: Ripple Reverses 40% Losses After Its Worst Crash](https://www.coindesk.com/markets/2025/10/11/xrp-rebounds-sharply-after-41-flash-crash-reclaims-usd2-47-support)
+**Author:** Unknown (CoinDesk Markets staff) | **Published:** 2025-10-11
 
-Title: XRP Price Projections 2026: Will the Cryptocurrency Rebound or Face Further Declines?
-Author: AInvest
-Published Date: 2026-02-28T00:00:00.000Z
-URL: https://www.ainvest.com/news/xrp-price-projections-2026-cryptocurrency-rebound-face-declines-2602/
-Summary: The article indicates that XRP is currently trading near $1.40 in February 2026, having declined over 60% from its July 2025 peak of $3.65. On-chain data shows reduced exchange balances and steady ETF inflows of $1.37 billion since November 2025, suggesting some institutional confidence and potential accumulation. Technical analysis highlights $1.60 as a critical support level; if XRP holds above this, a reversal could be possible. Analysts applying Elliott Wave theory see XRP in a Wave 2 correction, with the possibility of a larger Wave 3 rally toward $15–$31 if bullish momentum confirms. However, structural challenges like competition from SWIFT and Bitcoin's macro influence remain. Given these factors, while a further decline toward $1.00 by December 2026 is possible if bearish pressures persist, the current signs of accumulation and potential positive regulatory developments (such as the expected passage of the Clarity Act by April 2026) suggest that XRP might stabilize or rebound before reaching that level.
+CoinDesk reports a >40% intraday crash in October 2025 with exceptionally wide intraday range for XRP, attributing it to macro deleveraging and heavy futures liquidations; derivatives data and large volumes are cited. This is directly relevant because it establishes a credible historical precedent that XRP can produce very deep, rapid drops and extremely large single‑session ranges—facts that increase the plausibility that a single Binance 1‑minute candle could print a very low wick. It supports the tail‑risk case (evidence for YES) but also shows such events are abnormal and tied to specific market stressors.
 
-Title: We Asked 4 AI Models What XRP Will Be Worth by December 31 ...
-Author: AOL
-URL: https://www.aol.com/articles/asked-4-ai-models-xrp-174859282.html
-Summary: The article explores predictions of XRP's future value by consulting four different AI models. While specific price forecasts vary, the models analyze factors such as market trends, technological developments, regulatory environment, and historical performance to estimate XRP's potential trajectory. The consensus among the AI models suggests that XRP's price could experience fluctuations over the coming years, influenced by broader cryptocurrency market dynamics and regulatory changes. However, there is no definitive prediction that XRP will dip to $1.00 by December 31, 2026. Investors should consider these AI-based forecasts as one of many tools, alongside market analysis and regulatory updates, when assessing XRP's future price movements.
+### [Ripple Labs says it settles with US SEC, will pay reduced $50 million fine](https://www.investing.com/news/stock-market-news/ripple-labs-says-it-settles-with-us-sec-will-pay-reduced-50-million-fine-3947775)
+**Author:** Investing.com (republishing Reuters content) | **Published:** 2025-03-25
 
+Reporting (based on Reuters coverage) that Ripple and the SEC reached a settlement agreement in 2025 (references to reduced penalty amounts and court filings). This is relevant because resolution of the SEC litigation reduces legal/regulatory tail risk for XRP, which in turn tends to increase institutional participation and liquidity — factors that lower the unconditional probability of an exchange‑specific minute wick to extremely low prices. It therefore challenges the idea that $1 is highly likely absent systemic market stress.
 
+### [CCData Custom XRP Blended Price Index (methodology PDF)](https://assets-global.website-files.com/63e3774c88285e5c6cbf3b9d/6499632511ce28b05165eab1_CCData_Custom_XRP_Blended_Price_Methodology_June.pdf)
+**Author:** CCData / CryptoCompare (data provider) | **Published:** Unknown
+
+A methodology/market-share document showing the contributions of individual exchanges to blended XRP pricing indices; Binance is shown as the dominant venue for XRP‑USDT liquidity in the index. This is relevant because the market’s resolution source is Binance minute data — the fact that Binance dominates spot liquidity means its order‑book structure and any local liquidity issues will determine the contract’s outcome. It supports caution about exchange‑specific idiosyncrasies being decisive.
+
+### [Kraken routes 116.66M XRP (~$166M) to Binance; XRP trades ~$1.39 ahead of Community Day as analysts warn BTC-linked risk could push XRP below $1 | Whale Alert](https://whale-alert.io/stories/8c8801183c99ff/Kraken-routes-11666M-XRP-166M-to-Binance-XRP-trades-139-ahead-of-Community-Day-as-analysts-say-2-needs-event-driven-breakout)
+**Author:** Whale‑Alert (news) | **Published:** 2026-02-11
+
+Whale‑Alert reports a large Kraken→Binance XRP transfer (~116.66M XRP) and discusses on‑exchange flows and near‑term price ranges, noting the prior October low near ~$0.997 as a technical reference. Large deposit activity into Binance is relevant because it can precede concentrated sell-side liquidity on that venue, increasing the risk of a minute‑scale low printed on Binance even if other venues remain higher. This supports the view that localized Binance risk matters.
+
+### [XRP Rallies Above $3.25 After Ripple‑SEC Settlement as Institutional Interest Surges](https://www.coindesk.com/markets/2025/08/11/xrp-rallies-above-usd3-25-after-ripple-sec-settlement-as-institutional-interest-surges)
+**Author:** CoinDesk Markets staff | **Published:** 2025-08-11
+
+CoinDesk documents the market reaction to the Ripple/SEC settlement in August 2025, noting a substantial price jump and a surge in institutional trading volume. This supports the argument that legal clarity boosted liquidity and institutional participation — a factor reducing the unconditional probability of an exchange-specific extreme minute low over time (i.e., arguing against a very-high chance of sub‑$1 prints absent system-wide stress).

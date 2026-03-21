@@ -1,7 +1,7 @@
 # Research: Will MrBeast hit 480 million subscribers by April 30?
 
 **Market ID:** 0x0550f7b1836191150fe075d553e60506421bb1c570b704897ad5e0f33eeb2d29
-**Researched At:** March 13, 2026 at 04:17:47 AM UTC
+**Researched At:** March 21, 2026 at 04:29:39 AM UTC
 **Search Query:** "Will MrBeast hit 480 million subscribers by April 30?"
 
 ---
@@ -9,74 +9,77 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.8¢
+**Expected Value:** 2.7¢
 
 ### Summary
 
-Public trackers show MrBeast ≈471M subscribers (Mar 13, 2026) with a recent baseline ≈+137k/day but several documented +1M spike days. To reach 480M by April 30 requires ~185–190k/day or one or more large spikes; the market price (19.5%) is consistent with that tail probability and is plausibly close to correct.
+SocialBlade shows ~472M subscribers on 2026-03-21 requiring ≈200k/day average to hit 480M by 2026-04-30; recent daily gains look below that baseline but occasional viral spikes could supply the needed growth. Public evidence does not reveal a clear, large mispricing; the market’s 24% probability is plausible. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: MrBeast's YouTube Statistics - Social Blade
+URL: https://socialblade.com/youtube/channel/UCX6OQ3DkcsbYNE6H8uQQuVA
+Author: Unknown
+Date: Unknown
+Summa
 
 ### Full Analysis
 
-1) CONTEXT ANALYSIS — what the market asks, and how it resolves
-- The market asks: "Will MrBeast hit 480 million subscribers by April 30, 2026, 11:59 PM ET?" It resolves YES if the MrBeast YouTube channel (https://www.youtube.com/@MrBeast) has a subscriber count ≥ 480,000,000 at or before that deadline, using the channel itself or a consensus of credible reporting as the resolution source. Otherwise it resolves NO. (Market description given.)
-- Practical requirement: as of my data-check (March 13, 2026), public trackers list MrBeast at roughly 471 million subscribers. To hit 480 million by April 30, 2026 he must gain ≈9 million more subscribers in the remaining time window (from March 14 through April 30 = 48 days). That implies an average net gain of roughly 9,000,000 / 48 ≈ 187,500 subscribers per day (if you use 48 full days). If you count 49 days (including Mar 13–Apr 30 inclusive) the needed rate is ~183,700/day. Any realistic path to YES must produce an average net daily gain near or above ~185–190k/day over the remainder of the window, or produce a sequence of large spikes that push the total past 480M even if the baseline daily rate is lower.
+Plan & searches used (budget 3): I (1) opened MrBeast's YouTube page (primary resolution source) and (2) pulled real-time subscriber statistics from SocialBlade to get current subscribers and recent daily gains, then (3) ran news searches for recent reporting on MrBeast's audience, recent video performance, and business projects to judge whether a viral spike or slowdown is likely. All internet-sourced factual claims below are cited.
 
-2) EVIDENCE EVALUATION — all relevant evidence I found (recency and credibility noted)
-A. Current baseline / trackers (most load-bearing)
-- SocialCounts (live sub tracker): shows MrBeast ≈ 471.12M subscribers on 2026-03-13 and reports a recent daily average ≈ +137k/day (last-29-days +4.00M, weekly average +965k including several 1M spike days). This source also documents many recent single-day +1M jumps on specific dates (e.g., Feb 17, Feb 25, Mar 6, Mar 11–12). These numbers indicate a baseline daily rate near ~137k but punctuated by occasional ~+1M spikes tied to big uploads or promotions. ([socialcounts.org](https://socialcounts.org/youtube-live-subscriber-count/UCX6OQ3DkcsbYNE6H8uQQuVA)).
-- SocialBlade: lists the channel at ~471M on 2026-03-13 and shows recent days with +1M spikes (e.g., Mar 6 and Mar 12 in their daily table) and otherwise large-view days. SocialBlade is a widely used public tracker for YouTube channel metrics and confirms the same picture: current count ~471M and growth occurring in bursts. ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast)).
+1) CONTEXT ANALYSIS
+- Market question (restated precisely): Will the MrBeast YouTube channel (https://www.youtube.com/@MrBeast) have at least 480,000,000 subscribers at or before 2026-04-30 23:59 ET? If the channel's official subscriber count (or credible reporting consensus) reaches ≥480,000,000 by that timestamp the market resolves to YES; otherwise NO. (Resolution source is the channel itself or consensus reporting — so the official YouTube subscriber display or credible reports will decide.)
+- Current position and math (exact dates used): SocialBlade shows MrBeast at ~472 million subscribers on 2026-03-21. To hit 480M by 2026-04-30 (inclusive) requires an increase of ~8 million subscribers over 40 days, i.e., roughly 200,000 net new subscribers per day on average. ([socialblade.com](https://socialblade.com/youtube/channel/UCX6OQ3DkcsbYNE6H8uQQuVA))
 
-Interpretation of the trackers:
-- The straightforward arithmetic (needs ~9M in ~48 days → ~187.5k/day) compared with SocialCounts’ recent daily average ~137k/day implies the baseline growth pace (without extra big spikes) is lower than required. If the baseline remained at ~137k/day, MrBeast would gain about 137k × 48 ≈ 6.6M → total ≈ 477.6M, short of 480M.
-- However, both trackers show that growth is bursty: when MrBeast posts a very high-visibility video or runs a major cross-promo, single-day jumps of ~+1M have happened several times over the last 6–8 weeks. A sequence of 2–3 such spikes (or one large multi-million spike) during the remainder of March/April could bridge the gap.
+2) EVIDENCE EVALUATION
+A. Evidence that suggests the market price (24%) might be too high
+- Slowing engagement / weaker recent video performance: multiple outlets and reporting threads note that some recent MrBeast videos have underperformed relative to his historical norms and that viewership has declined from previous peaks. If views decline, organic subscriber gains often slow as well — that would make sustained ~200k/day growth less likely. (reporting and commentary on “worst performing” video / reduced viewership). ([dexerto.com](https://www.dexerto.com/youtube/mrbeast-explains-why-hes-not-bothered-by-worst-performing-youtube-video-in-years-3323100/?utm_source=openai))
+- Recent daily gains on SocialBlade (recent two-week snapshot) show many days with <150k–130k net gain and occasional single-day spikes; the rolling average implied by the visible recent days (~+1–2M over ~10–14 days in places) suggests current typical daily growth is below the 200k/day needed to be on a steady path to 480M. That supports a lower probability (i.e., the market pricing could be fair or even slightly optimistic relative to steady-state trends). ([socialblade.com](https://socialblade.com/youtube/channel/UCX6OQ3DkcsbYNE6H8uQQuVA))
 
-B. Recent promotional drivers and news that could change the growth path
-- Beast Games Season 2 (Prime Video) and tied marketing (fortune-cookie campaign, cross-promotion) — Season 2 premiered in January 2026 and MrBeast ran a large physical/brand campaign (fortune cookies, etc.). These tie-ins are credible sources of extra audience reach and likely contributed to prior spikes in early 2026. Sources: Fortune, PR Newswire, Parade/Dexerto. Those campaigns could produce visibility boosts, but most coverage and the main campaign rollout occurred in January and February 2026, so their marginal impact in late March–April is uncertain/likely reduced compared with the immediate post-launch period. ([fortune.com](https://fortune.com/2026/01/28/mrbeast-fortune-cookies-campaign-beast-games-amazon-prime/?utm_source=openai)).
-- Beast Industries fundraising and business activity (January 2026 $200M investment reported) — these corporate moves increase promotional resources and may fuel cross-promotions (publicity, ad buys), but they are not direct guarantees of immediate subscriber spikes. They are contextually relevant but not conclusive evidence of a near-term subscriber surge. ([prnewswire.com](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-200-million-investment-in-beast-industries-302662082.html?utm_source=openai)).
+B. Evidence that supports the market price (i.e., 24% is reasonable / could be conservative)
+- Ability to generate spikes: MrBeast routinely posts very large-budget, viral videos and cross-platform projects (Beast Games on Prime Video, big celebrity-studded videos, large charity builds) which can produce large short-term subscriber spikes well above daily averages. Historical precedent exists for multi-hundred-thousand to million-plus single-day subscriber gains surrounding major uploads or viral events. That increases the chance of hitting 480M even if baseline daily growth is below 200k/day. ([time.com](https://time.com/6958163/mr-beast-amazon-prime-game-show/?utm_source=openai))
+- Ongoing projects and mainstream reach: reporting shows continued mainstream distribution (Prime Video show renewal/season production and large charity/partnership projects), which increases reach beyond YouTube and can catalyze subscriber inflows. These lend credibility to a non-trivial tail probability of a viral spike before April 30. ([apnews.com](https://apnews.com/article/de24a507f66d7cd62b900ad569c7bf7d?utm_source=openai))
 
-C. Evidence that would argue the market price is wrong (i.e., price under- or over-states chance)
-- Evidence suggesting market underprices YES (i.e., price too low):
-  - Historical precedent of large single-day gains (multiple ~+1M days in Feb–Mar 2026 and Jan 2026) shows crossing 480M via spikes is plausible even if baseline is below required rate. If MrBeast schedules 1–2 major videos or promotions before Apr 30 that produce +1M jumps, the market could be undervaluing that possibility. SocialCounts and SocialBlade both document recent +1M days. ([socialcounts.org](https://socialcounts.org/youtube-live-subscriber-count/UCX6OQ3DkcsbYNE6H8uQQuVA)).
-  - Large cross-platform promotional assets (Prime Video show, offline fortune-cookie campaign, brand deals) provide plausible mechanisms for intermittent big surges in subscribers. These are real levers to drive sudden subscriber increases. ([fortune.com](https://fortune.com/2026/01/28/mrbeast-fortune-cookies-campaign-beast-games-amazon-prime/?utm_source=openai)).
+C. Source credibility and recency
+- SocialBlade (real-time analytics) is a standard public tracker for subscriber counts and recent daily trends — appropriate for current subscriber levels and short-term trend estimation. It is recent (page content reflects data up to 2026-03-21). ([socialblade.com](https://socialblade.com/youtube/channel/UCX6OQ3DkcsbYNE6H8uQQuVA))
+- Coverage about recent performance comes from entertainment reporting sites (Dexerto, IBTimes, etc.) and news wires (AP, Time) about his projects. These vary in editorial rigor — Dexerto and fan sites are weaker than AP/Time but still useful for signals about viewer reaction or content performance. Use stronger weight for AP/Time for context (business/projects) and cautious weight for fan-site claims about “falling off.” ([dexerto.com](https://www.dexerto.com/youtube/mrbeast-explains-why-hes-not-bothered-by-worst-performing-youtube-video-in-years-3323100/?utm_source=openai))
 
-- Evidence suggesting market reasonably prices NO (i.e., price is sensible):
-  - Recent measured baseline growth in the last ~29 days is ~+137k/day per SocialCounts — below the required ~185–190k/day. If growth continues at this baseline, 480M is unlikely. The tracker’s last-29-days aggregate (+4.0M) implies the channel would fall short if no new spikes occur. ([socialcounts.org](https://socialcounts.org/youtube-live-subscriber-count/UCX6OQ3DkcsbYNE6H8uQQuVA)).
-  - Many promotional events that could have produced big gains already occurred in Jan–Feb 2026 (Beast Games S2 rollout, investment coverage). The remaining March→April period may carry less incremental boost than earlier in the year, so relying on repeated large spikes is not guaranteed. Coverage shows the major campaigns were concentrated earlier in the year. ([fortune.com](https://fortune.com/2026/01/28/mrbeast-fortune-cookies-campaign-beast-games-amazon-prime/?utm_source=openai)).
-  - Market metrics show low total trading volume (Age: 7d | Total Vol: $4,953) and a tight spread (5¢). Low volume means the price could reflect a small number of traders’ views rather than a broad market consensus; but it doesn’t by itself prove mispricing. The 19.5% price is consistent with the arithmetic: baseline growth suggests a low single-digit-to-low-double-digit percent chance, while burst scenarios give a non-zero tail probability. (Market data provided in prompt.)
+D. Bullish vs Bearish interpretations (short)
+- Bullish: MrBeast has repeatedly produced occasional viral posts that generate very large one- or multi-day subscriber jumps; cross-platform promotion (TV, mainstream press) and paid/promoted projects can cause large short-term growth that would push him past 480M.
+- Bearish: Recent reporting of lower-than-usual video performance and SocialBlade’s recent daily gains imply baseline organic growth may be below the needed ~200k/day, so absent a major viral event the channel is unlikely to reach the milestone by Apr 30.
 
-D. Source credibility and recency
-- SocialCounts and SocialBlade are near-real-time third‑party trackers that use the YouTube API or scraping and are widely used for subscriber monitoring; they are the best available public proxies for the channel’s subscriber count (both accessed 2026-03-13). These are high relevance and recent. ([socialcounts.org](https://socialcounts.org/youtube-live-subscriber-count/UCX6OQ3DkcsbYNE6H8uQQuVA)).
-- Fortune, PR Newswire, Parade/Dexerto and other reporting on Beast Games Season 2 and the investment are mainstream outlets or company press releases from January 2026 and are credible for describing promotional campaigns and corporate activity; useful to assess potential demand shocks but not definitive predictors of subscriber gains. ([fortune.com](https://fortune.com/2026/01/28/mrbeast-fortune-cookies-campaign-beast-games-amazon-prime/?utm_source=openai)).
+E. Skepticism about obvious signals
+- If recent viewership decline were obvious and decisive, markets and public trackers should already reflect it; but the existence of occasional 1M days in the SocialBlade log shows volatility — which is likely already known to traders. That reduces the chance of a large overlooked mispricing based solely on trends.
 
-3) MARKET EFFICIENCY ANALYSIS — reliability of the market price (19.5%)
-- Reasonable interpretation that justifies 19.5%:
-  - Baseline-growth view: SocialCounts’ recent average (~137k/day) implies MrBeast would reach only ~477–478M by Apr 30 absent further large spikes, so the chance of hitting 480M is limited. The market’s 19.5% can be interpreted as the probability that one or more additional high-visibility media events or unusually large upload(s) produce enough spikes to overcome the baseline shortfall. That tail probability of ~15–25% is plausible.
-- Could this represent consensus vs. single trader(s)?
-  - Low total volume (~$4.95k) and market age 7 days means a few active traders could set the price. The tight bid-ask indicates good quoting but not necessarily deep liquidity. Therefore the current price may reflect a small set of participants’ aggregated view rather than broad market discovery.
-- Is low volume because outcome obvious or overlooked?
-  - The outcome is not obvious (it requires sustained growth or discrete spikes). Low volume likely reflects that this is a niche/short-term milestone market that many informed traders don’t prioritize (limited upside), not that the result is trivial. In short: low volume increases the chance of inefficiency, but the available public evidence (growth averages and documented spikes) gives a plausible explanation for a low but non-negligible probability.
+3) MARKET EFFICIENCY ANALYSIS
+- Plausible interpretation(s) justifying 24% price:
+  - Traders may have modeled a baseline trend (current average growth ~120–170k/day) giving a low baseline chance, plus an explicit allowance for a nontrivial probability (tail) of a viral spike (e.g., 1–3 big uploads) that would produce the remaining subscribers. Combining those gives a mid-low probability consistent with ~24%.
+  - Low trading volume ($6.9k total) and tight spread (4¢) indicates few participants are providing liquidity, but those participants may be informed or simply the market-maker. With small volume a single well-informed trader could set the price; conversely, the price could simply be a consensus among a few opportunistic traders. Low volume therefore reduces price reliability.
+- Is low volume because the outcome is obvious or overlooked?
+  - The question is non-trivial and time-limited (40 days to hit 480M) — that encourages attention from speculators. Low volume therefore more likely reflects either limited interest in small-dollar wagers (or that informed traders don't expect a profitable edge), not consensus certainty. That increases the chance that the price is simply the market-maker's estimate rather than a widely arbitraged price.
 
-4) MISPRICING ASSESSMENT — do we have credible evidence that the 19.5% price is incorrect?
-- Summary judgment: There is no clear, specific, and credible piece of information that is obviously missing from the market price and would push the probability sharply (e.g., +20 percentage points). The public trackers point to a baseline daily growth rate lower than what is required to hit 480M without further large spikes, and they also document sporadic +1M days that create a nontrivial tail. Those two facts together imply a modest probability (not near-zero) that MrBeast will reach 480M by Apr 30 — which aligns with a market price around ~20%.
-- Critical check (challenge my reasoning):
-  - Do I understand the resolution criteria? Yes: primary resolution source is the MrBeast YouTube channel or credible reporting; benchmarks are absolute subscriber count and a firm deadline (Apr 30, 2026 11:59 PM ET). I used the trackers’ counts for March 13, 2026 and computed the required subscriber-per-day rate.
-  - Could traders have private info? Possibly (scheduled major video, ad buys, partnership timing) that would materially raise the chance. That would justify a higher price. But I found no credible public announcement of a large forthcoming campaign between now and Apr 30 that would guarantee a multi-million jump — the high-profile campaigns I found (Beast Games S2, fortune cookies, investment news) mostly rolled out in January/February 2026. If such a guaranteed large campaign existed but was not public, that could mean the market is underpricing; I found no evidence of that.
-  - Is it plausible that the market is substantially mispriced (>20c)? Unlikely given available evidence: the baseline average vs required rate and documented spike behavior make a ~20% implied probability reasonable. I therefore do not conclude a large mispricing exists.
+4) MISPRICING ASSESSMENT (apply the critical check)
+- Do we understand resolution criteria? Yes — this is the channel's subscriber count as of 2026-04-30 23:59 ET; no ambiguous wording. Market description confirms that the channel page or consensus reporting is primary. (User-provided). No technicality like “announcement vs actual count.” The apparent gap between SocialBlade current growth and required growth is the real substantive issue. (No hidden temporal qualifier found.)
+- Is there specific, credible evidence the market is missing?
+  - I did not find high-quality evidence (press release, insider statement, scheduled blockbuster upload) that strongly increases the probability of crossing 480M by Apr 30 beyond what public trackers and reporting already imply.
+  - Conversely, I did find reporting that can reasonably reduce expectations (weaker video performance), and SocialBlade shows baseline growth below the required sustained rate. Those facts are likely already visible to anyone checking public stats.
+- Conclusion on mispricing: There is not credible evidence of a large (>20¢) mispricing. The current price (24%) plausibly reflects a realistic combination of baseline growth + spike tail. If anything, small mispricing (market slightly under- or over-priced by a few cents) is possible, but nothing in public reporting indicates a large, actionable arbitrage.
 
-5) EXPECTED VALUE CALCULATION — should you investigate/trade this market?
-- Strength of evidence that the market price is missing important public information: I judge this moderate — many relevant datapoints are public (trackers, recent promotion timing, upload cadence), but some tail risk depends on the timing and impact of future videos/promotions that could be private. Strength = 55%.
-- Magnitude of plausible mispricing (if any): small — I estimate any true mispricing is likely in the single-digit cents range. A reasonable mispricing magnitude estimate: 5 cents (0.05 USD) — i.e., market might be off by ±5c if traders systematically under- or over-estimate spike probability.
-- Expected value = Strength × Magnitude = 55% × 5¢ = 2.75¢.
+5) EXPECTED VALUE CALCULATION (estimates)
+- Strength of evidence that the market missed a relevant, public, high-impact fact: ~45%. (We have solid, recent data about baseline growth but not about any near-term blockbuster that would move probability massively.)
+- Magnitude of plausible mispricing if there is one: ~6 cents (i.e., market 24c vs. a "true" fair price maybe ~30c) — small residual error reflecting tail-risk assessment differences among traders.
+- Expected value = 45% × 6 cents ≈ 2.7 cents.
 
-6) CONFIDENCE in this assessment
-- I rate my confidence as: medium.
+(If you prefer a conservative lower estimate: 40% × 5 cents = 2.0 cents.)
 
-FINAL CONCLUSIONS (concise)
-- The public evidence (SocialCounts and SocialBlade) shows MrBeast ≈ 471M subscribers on 2026-03-13 and a recent baseline of ≈+137k/day, which is below the ~185–190k/day required to reach 480M by Apr 30 without additional major spikes. However, documented recent +1M single-day spikes after big uploads or promotions mean the tail that could get to 480M exists. Given those facts and the low trading volume on the market, the current market price of 19.5% is plausible and not obviously mispriced by a large amount. There is modest room for a small mispricing (a few cents) if you believe a large scheduled promotion or video is more (or less) likely than currently priced, but I found no public, high‑credibility evidence that would justify declaring a large mispricing (>20¢).
+6) CONFIDENCE
+- I rate my confidence in this overall assessment as: medium.
 
-EXPECTED_VALUE: 2.75
-SUMMARY: Public trackers show MrBeast ≈471M subscribers (Mar 13, 2026) with a recent baseline ≈+137k/day but several documented +1M spike days. To reach 480M by April 30 requires ~185–190k/day or one or more large spikes; the market price (19.5%) is consistent with that tail probability and is plausibly close to correct.  
-CONFIDENCE: medium
+Final concise judgment
+- The market price (24%) appears broadly reasonable. Public subscriber data show baseline growth below the sustained rate needed to get to 480M by 2026-04-30, but MrBeast’s history of occasional very large viral spikes and mainstream cross-promotion creates a non-negligible tail probability that the milestone will be reached. There is no clear, new public information that the market has missed which would make a large arbitrage obvious.
+
+EXPECTED_VALUE: 2.7
+SUMMARY: SocialBlade shows ~472M subscribers on 2026-03-21 requiring ≈200k/day average to hit 480M by 2026-04-30; recent daily gains look below that baseline but occasional viral spikes could supply the needed growth. Public evidence does not reveal a clear, large mispricing; the market’s 24% probability is plausible. CONFIDENCE: medium
 
 ---
 
@@ -84,27 +87,22 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [MrBeast's YouTube Statistics - Social Blade](https://socialblade.com/youtube/handle/mrbeast)
-**Author:** Social Blade | **Published:** Unknown
+### [MrBeast's YouTube Statistics - Social Blade](https://socialblade.com/youtube/channel/UCX6OQ3DkcsbYNE6H8uQQuVA)
+**Author:** Unknown | **Published:** Unknown
 
-SocialBlade’s channel page for MrBeast shows the publicly tracked subscriber total (listed ~471M on 2026-03-13) and provides a daily table of recent days including noted single-day gains (SocialBlade lists +1M spikes for some dates). The page documents recent high-view and spike days (e.g., Mar 6 and Mar 12 showing +1M entries) and is used here to corroborate the current subscriber level and the existence of bursty growth. This supports the view that baseline growth can be lower than the “needs” rate but that occasional large jumps have happened recently, increasing the chance (tail probability) of hitting 480M by Apr 30. ([socialblade.com](https://socialblade.com/youtube/handle/mrbeast))
+SocialBlade provides a real-time tracked subscriber count (≈471–472M in mid-late March 2026), recent daily metrics and view totals for the MrBeast channel. The page shows the per-day view and subscriber snapshot for the previous two weeks and indicates occasional single-day spikes and multiple days with lower gains. This is the primary quantitative source used to calculate the required ≈8M net subscribers and the ≈200k/day needed to reach 480M by April 30 — supporting the view that steady baseline growth is likely below the necessary rate absent a viral spike. ([socialblade.com](https://socialblade.com/youtube/channel/UCX6OQ3DkcsbYNE6H8uQQuVA))
 
-### [MrBeast - YouTube Live Subscriber Count (analytics and historical daily table)](https://socialcounts.org/youtube-live-subscriber-count/UCX6OQ3DkcsbYNE6H8uQQuVA)
-**Author:** SocialCounts.org | **Published:** Unknown
+### [MrBeast explains why he’s not bothered by “worst performing” YouTube video in years](https://www.dexerto.com/youtube/mrbeast-explains-why-hes-not-bothered-by-worst-performing-youtube-video-in-years-3323100/)
+**Author:** Unknown | **Published:** Unknown
 
-SocialCounts provides a live subscriber count snapshot (≈471.12M on 2026-03-13), plus computed recent averages (daily sub ≈137k, monthly ≈4.13M) and a detailed day-by-day table showing multiple +1M single-day jumps in Feb–Mar 2026 and an aggregate last-29-days figure of +4.00M. This is directly relevant for estimating the baseline daily growth rate and for documenting the bursty pattern of subscriber gains; it supports the argument that without further spikes the channel will likely fall short of 480M, but the documented spikes create a plausible non-trivial probability of reaching 480M. ([socialcounts.org](https://socialcounts.org/youtube-live-subscriber-count/UCX6OQ3DkcsbYNE6H8uQQuVA))
+Entertainment reporting noting that at least one recent MrBeast upload performed substantially below his historical norms and includes MrBeast’s own reaction about content strategy. This evidence supports a bearish interpretation that baseline viewership—and hence organic subscriber growth—has softened recently, reducing the probability of a continued high daily subscriber rate that would be needed to hit 480M by April 30. ([dexerto.com](https://www.dexerto.com/youtube/mrbeast-explains-why-hes-not-bothered-by-worst-performing-youtube-video-in-years-3323100/?utm_source=openai))
 
-### [MrBeast is putting Beast Games season 2 inside millions of fortune cookies (press release)](https://www.prnewswire.com/news-releases/mrbeast-is-putting-beast-games-season-2-inside-millions-of-fortune-cookies-302659789.html)
-**Author:** PR Newswire | **Published:** 2026-01-13
+### [MrBeast aims to raise millions for his charity by offering a weekend experience to six-figure donors (AP)](https://apnews.com/article/de24a507f66d7cd62b900ad569c7bf7d)
+**Author:** Unknown | **Published:** Unknown
 
-PR Newswire describes a large-scale promotional campaign tied to Beast Games Season 2 (fortune-cookie distribution across restaurants beginning January 13, 2026). This demonstrates a concrete promotional mechanism that increased mainstream exposure for MrBeast around Jan–Feb 2026 and is relevant because such campaigns can drive spikes in subscriber counts. However, the campaign’s main rollout was in January, so its marginal effect in late March–April is uncertain. ([prnewswire.com](https://www.prnewswire.com/news-releases/mrbeast-is-putting-beast-games-season-2-inside-millions-of-fortune-cookies-302659789.html?utm_source=openai))
+AP reporting on MrBeast’s charitable and commercial activities and fundraising strategies for his projects. This demonstrates MrBeast’s ongoing mainstream profile and business activity (which can support cross-platform reach), a bullish factor because mainstream exposure and large fundraising/production projects can drive big subscriber spikes that the baseline trend alone might not predict. ([apnews.com](https://apnews.com/article/de24a507f66d7cd62b900ad569c7bf7d?utm_source=openai))
 
-### [MrBeast has figured out his next 'transformative media channel': 2.5 million fortune cookies | Fortune](https://fortune.com/2026/01/28/mrbeast-fortune-cookies-campaign-beast-games-amazon-prime/)
-**Author:** Unknown | **Published:** 2026-01-28
+### [MrBeast's New Game Show on Prime Video Promises a Historic $5 Million Cash Prize (Time)](https://time.com/6958163/mr-beast-amazon-prime-game-show/)
+**Author:** Unknown | **Published:** Unknown
 
-Fortune covers the fortune-cookie promotion and Beast Games Season 2 marketing, discussing the scale and intent of the campaign and its role in cross-platform audience building. The article provides context for why big promotional pushes were likely drivers of earlier spikes in subscriber growth; it supports the argument that major marketing events can create large day-level jumps in subscribers, but it also shows those events were front-loaded in January 2026. ([fortune.com](https://fortune.com/2026/01/28/mrbeast-fortune-cookies-campaign-beast-games-amazon-prime/?utm_source=openai))
-
-### [Beast Games season 2 coverage / how to watch (Parade / Dexerto coverage)](https://parade.com/tv/beast-games-season-2/)
-**Author:** Unknown | **Published:** 2026-01-07
-
-Parade (and entertainment outlets like Dexerto) reported Season 2’s Prime Video release schedule (first three episodes released Jan 7, 2026, with weekly episodes thereafter). That coverage documents the timing of a high-visibility content release tied to MrBeast’s brand and explains part of the spike-prone period of early 2026; relevant because video/streaming tie-ins can temporarily accelerate subscriber gains, but the main rollout occurred before the March→April window. ([parade.com](https://parade.com/tv/beast-games-season-2/?utm_source=openai))
+Background on MrBeast’s Prime Video projects and the mainstream distribution of his brand beyond YouTube. The existence and renewal of major TV-format projects increases the probability of exposure-driven subscriber surges, supporting the argument that a non-trivial tail probability for reaching 480M exists even if baseline YouTube growth is slowing. ([time.com](https://time.com/6958163/mr-beast-amazon-prime-game-show/?utm_source=openai))

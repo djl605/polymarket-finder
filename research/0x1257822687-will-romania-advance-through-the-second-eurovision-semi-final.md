@@ -1,91 +1,141 @@
 # Research: Will Romania advance through the second Eurovision Semi-Final?
 
 **Market ID:** 0x1257822687d9dfb189c8d93c7704d6efc1e4df5d3b74f1d2329741eca01d1f22
-**Researched At:** March 10, 2026 at 03:03:00 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Romania advance through the second Eurovision Semi-Final?"
+**Researched At:** March 21, 2026 at 04:19:02 AM UTC
+**Search Query:** "Will Romania advance through the second Eurovision Semi-Final?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 2.1¢
 
 ### Summary
 
-Romania’s 55.5% price aligns with a 10/18 baseline and balanced against historical qualification strength (78%) versus current song-specific weaknesses (jury pick, early draw, low win odds), producing no clear mispricing. CONFIDENCE: medium
+Romania has officially selected Alexandra Căpitănescu with “Choke Me” for Eurovision 2026; coverage and jury-backed national selection make a ~56.5% qualification price plausible, but key variables (running order, live staging, jury rehearsals) are unresolved. I find insufficient specific evidence of a large mispricing now; expected EV of investigating/trading is small (~2.1 cents).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- The market asks whether Romania will finish among the top 10 qualifiers in the Eurovision 2026 Second Semi-Final on May 14, 2026.  
-- YES if Romania’s entry “Choke Me” by Alexandra Căpitănescu ranks in the top 10 of Semi-Final 2; NO otherwise or if disqualified.
+Plan and scope
+- I used the allotted 3 web searches to confirm (a) that Romania is entered for Eurovision 2026 and who/what was selected, (b) how that entry is being received (press, controversy, betting-market signal), and (c) context about the national selection and Romania’s Eurovision history/qualification record. The goal is to assess whether a market price of 56.5% (for Romania to advance from the Second Semi-Final on May 14, 2026) shows credible evidence of mispricing.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence (supports >50%):  
-- Historically Romania has qualified 14/18 times since semi-finals began (~78%).  
-- Semi-Final 2 has 18 entries, so if all else equal a 55.6% “random” chance baseline exists.  
-- Alexandra has prior TV-show success and jury support in the national final.
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- The market question: “Will Romania advance through the second Eurovision Semi-Final?” That resolves YES if Romania is announced as one of the advancing countries from the Eurovision 2026 Second Semi-Final (May 14, 2026) per Eurovision’s official results or a consensus of credible reporting; it resolves NO if Romania does not advance or if the contest is not held / no contestants advance by June 30, 2026 11:59PM ET (per the market description). This is a binary outcome tied to the official semi-final results; for the market to resolve YES Romania must be among the qualifiers announced for the second semi-final on May 14, 2026. (Market description provided by you is the authoritative resolution rule.)
 
-Bearish evidence (supports <50%):  
-- Bookmakers give Romania just 1% to win overall and rank them low (19th), implying weak song favor among punters.  
-- Romania’s entry was jury-selected with no televote input; televoting accounts for 50% of semi-final results, potentially misaligned with public taste.  
-- Romania drew into the first half of the semi-final, which historically underperforms relative to later slots.  
-- Recent failure in 2023 (zero points) highlights volatility and risk.
+2) EVIDENCE EVALUATION — what I found and how it bears on the probability
+Summary of core factual findings (sources cited inline):
+- Romania is participating in Eurovision 2026 and has selected Alexandra Căpitănescu with the song “Choke Me” as its entry for 2026. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Romania_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+- Romania’s confirmation of return to the contest after a recent absence (broad reporting from Romanian outlets) is reported by the public broadcaster and national press; the Romanian national selection (Selecția Națională 2026) recently completed and chose the entry. ([tvrinfo.ro](https://tvrinfo.ro/in-aceasta-seara-aflam-cine-va-reprezenta-romania-la-eurovision-2026-in-direct-si-in-exclusivitate-la-tvr-1-tvr-moldova-tvr-international-pe-tvrplus-ro-de-la-ora-20-00/?utm_source=openai))
+- The Romanian national final this year used a jury to choose the winner (reported by fan/coverage sites and national reporting). That matters because the domestic selection process (jury vs televote) can indicate whether the entry was picked to appeal to professional juries rather than mass televoters. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/eurovision-2026/%F0%9F%87%B7%F0%9F%87%B4-national-romania-makes-a-choice/?utm_source=openai))
+- Betting / odds pages show Romania is not a frontrunner for the overall contest win (longshot odds for overall winner), which is consistent with modest expectations for Romania in the broader field. (Bookmaker pages list Romania with long odds for overall victory.) ([justbookies.com](https://www.justbookies.com/eurovision-odds/?utm_source=openai))
+- The song “Choke Me” and its lyrics/style have attracted attention in press coverage; that attention has included both promotion and critical reaction. (The song is documented and reported in entry pages and coverage.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Choke_Me?utm_source=openai))
 
-Source credibility: all sources are recent (early March 2026) and from reputable Eurovision media and bookmakers. None provide explicit semi-final advance odds.
+Now evaluate evidence that would move the market price away from ~56.5%:
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 55.5% price closely matches a uniform 10/18 (55.6%) baseline, adjusted modestly for Romania’s stronger-than-random historical qualification rate (~78%) but offset by weaker 2026 song reception indicators.  
-- Low volume suggests limited engagement but not necessarily a strong mispricing; the price reflects a plausible consensus between historical strength and current song’s perceived weaknesses.
+Evidence that could suggest the market price is too high (i.e., market overestimates Romania’s chance)
+- Controversy or negative press: reporting and discussion about the lyrical content / theme of the song could depress televote support in some countries (or in specific demographic voting blocs). Negative press can have two opposing effects — suppress votes or increase attention/streams — but the presence of sustained controversy can reduce cross-border televote goodwill in countries sensitive to the subject. The press coverage and debate around the song are recent and might not be fully priced in. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Choke_Me?utm_source=openai))
+- Romania is not being listed among top contenders to win the overall contest in bookmakers (long odds), which often correlates with weaker qualification profiles, particularly for entries that are niche or polarizing in style. Betting markets for overall winner are imperfect for semi-final qualification, but the long odds are a weak signal that many traders do not view Romania as a strong favorite. ([justbookies.com](https://www.justbookies.com/eurovision-odds/?utm_source=openai))
+- Reintroduction after absence: Romania returned after a multi-year absence; patterns of diaspora voting and historical televote allies can help qualification but lengthy absence may have reduced immediate fan momentum. (Reported by national press.) ([mediafax.ro](https://www.mediafax.ro/economic/oficial-cate-tari-vor-participa-la-eurovision-in-2026-romania-si-alte-doua-tari-revin-in-concurs-23658668?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-- There is no clear, high-confidence evidence pointing to a >10¢ mispricing. Historical qualification rates and baseline odds would argue for a somewhat higher price (~60–65%), but negative signals (jury selection, first-half draw, low win odds) offset that.  
-- No new quantitative data (e.g. polling or in-market semi-final odds) is missing that would shift the probability materially beyond the current ~55.5%.
+Evidence that supports the market price (i.e., price is reasonable or conservative)
+- Professional selection and jury backing: Romania’s entry was chosen through a national final with jury influence; jury-friendly songs (and those with strong production/industry support) can attract jury points in semi-finals, which often matter heavily in qualification. That could support a >50% chance to reach the final, particularly if juries favor the entry. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/eurovision-2026/%F0%9F%87%B7%F0%9F%87%B4-national-romania-makes-a-choice/?utm_source=openai))
+- Attention and streaming: media attention (even if mixed) raises awareness and streaming counts; that can translate into televote points or at least enough profile to clear a semi-final if the song connects with certain countries. Coverage and the fact the artist signed to a major label are signs of professional backing. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Alexandra_C%C4%83pit%C4%83nescu?utm_source=openai))
+- Historical baseline: Romania has qualified for many past finals in years it participated; a country with some prior qualification success (and diaspora/regional voting ties) often has a non-trivial baseline chance to qualify from a semi-final — i.e., >20–30% even for middling entries — so a mid-50s probability is not inherently implausible. (See participation/selection reporting and historical summaries.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Romania_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-- STRENGTH of evidence: 30% (mixed historic vs. current song signals).  
-- MAGNITUDE of mispricing: 0¢ (no credible error detected).
+Source credibility and recency
+- Official broadcaster reporting (TVR) and national press are primary and credible for participation and national selection facts. ([tvrinfo.ro](https://tvrinfo.ro/in-aceasta-seara-aflam-cine-va-reprezenta-romania-la-eurovision-2026-in-direct-si-in-exclusivitate-la-tvr-1-tvr-moldova-tvr-international-pe-tvrplus-ro-de-la-ora-20-00/?utm_source=openai))
+- Wikipedia pages for the 2026 entry and the track “Choke Me” are up-to-date and useful for consolidation of facts (selection, songwriters, title); they should be treated as secondary but timely summaries and cross-checked where possible. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Romania_in_the_Eurovision_Song_Contest_2026?utm_source=openai))
+- Fan and specialist Eurovision coverage (EurovisionUniverse, wiwibloggs) are expert niche outlets with fast reporting on selections, rules, and analysis; they are useful for procedural details (e.g., whether the national final used jury-only) but they are not primary sources. ([eurovisionuniverse.com](https://www.eurovisionuniverse.com/eurovision-2026/%F0%9F%87%B7%F0%9F%87%B4-national-romania-makes-a-choice/?utm_source=openai))
+- Betting/odds aggregator pages are live market signals but reflect bookmakers’ risk management as much as true probability; they are relevant but not authoritative about qualification probabilities. ([justbookies.com](https://www.justbookies.com/eurovision-odds/?utm_source=openai))
 
-Expected value = 30% × 0¢ = 0¢
+Skeptical notes
+- If the song’s controversy were decisive and universally damaging, we’d expect clearer, coordinated reporting from multiple large outlets and possibly early disavowals or broadcaster commentary; the current reporting mix (national press + specialist coverage + some critical pieces) suggests mixed effects, not a clear disqualifier.
+- There are important unresolved variables that materially affect qualification probabilities which are not yet observable from these sources: Romania’s semi-final allocation and running order within the second semi-final (which affect exposure), live staging / rehearsals / jury rehearsal reviews due in May, and the exact composition of the semi-final lineup (strength of other countries in Romania’s semi). Those unknowns are the main source of remaining uncertainty.
 
-EXPECTED_VALUE: 0  
-SUMMARY: Romania’s 55.5% price aligns with a 10/18 baseline and balanced against historical qualification strength (78%) versus current song-specific weaknesses (jury pick, early draw, low win odds), producing no clear mispricing. CONFIDENCE: medium
+3) MARKET EFFICIENCY ANALYSIS — could the price reflect a reasonable consensus vs thin liquidity?
+- Reasonable interpretations for the 56.5% price:
+  - Traders may be pricing in a split outcome: professional jury support (likely because the national selection used jury criteria) gives Romania a decent floor of jury points, while televote uncertainty keeps the chance from being much higher; combined this yields a slightly-favored (>50%) chance.
+  - Market makers may view Romania as an average-to-slightly-favored semi qualifier based on historical qualification patterns, song profile, and publicity — consistent with ~55–60%.
+- Reasons the price could be driven by a few participants / low volume issues:
+  - Total volume $4.5k is low, so a handful of traders could move price; the narrow spread (5¢) indicates liquidity providers are willing to quote, but total traded volume is small enough that a single informed position could push price.
+  - Low engagement could also mean that not all informed Eurovision bettors have assessed this market, particularly if they focus on favorites rather than per-country semi qualification markets.
+- Is low volume because the outcome is obvious or because traders haven’t engaged?
+  - It does not appear obvious: there are clear open variables (running order, rehearsals, semi-final rivals) that make qualification uncertain. So the low volume likely reflects limited attention rather than a consensus that the outcome is trivial.
+
+4) MISPRICING ASSESSMENT — weighing evidence
+- I find no specific, concrete, missing factual item that would definitively prove the market is mispriced by a large amount (>20¢). Key missing variables (running order, live staging, jury rehearsal reactions, final semi-final lineup) are still unknown and would justify market disagreement and movement.
+- The evidence that could move the price meaningfully both up or down exists, but it is ambiguous:
+  - Downside path: sustained negative reaction to lyrical content + poor live staging would reduce televote and jury scores and could drop qualification probability substantially.
+  - Upside path: strong staging, jury sympathy (because the entry was jury-selected), and attention-driven televote could increase the chance above the current price.
+- Because I do not find a single, high-credibility piece of information that appears to be omitted by market participants (e.g., an announced disqualification, a confirmed automatic spot in final, or a running-order assignment that makes qualification impossible), I cannot conclude there is clear, large mispricing. The current price sits within a plausible range given available information.
+
+CRITICAL CHECK
+- Did I misunderstand resolution criteria? No — the market resolves by the official semi-final advancing list; we used the market description as authoritative.
+- Could traders have private or early rehearsal information? Yes — rehearsals and staging (which occur after this research window) are the kind of information that informed traders may have in May; lacking that, traders are likely pricing with broader priors.
+- Most charitable interpretation of the price: traders see Romania as slightly favored to qualify (jury backing + some publicity), but not a lock — 56.5% is a modest edge, plausible in the absence of later rehearsal data.
+
+5) EXPECTED VALUE CALCULATION — estimated value of investigating/trading this market now
+- Strength of evidence that a meaningful mispricing exists (0–100%): 30%
+  - Rationale: I found timely, credible reports of selection and press reaction, but the effects of those items on qualification are ambiguous and many decisive variables remain unobserved.
+- Magnitude of potential mispricing if one is present: ~7 cents
+  - Rationale: Given low volume and uncertainty, a realistic exploitable error (if present) is modest; large (>20¢) mispricings are unlikely without a clear overlooked factual event.
+- Expected value = 30% × 7 cents = 2.1 cents
+
+6) CONFIDENCE
+- My confidence in this overall assessment: medium
+  - Rationale: core facts (entry selected, national selection method, some press coverage) are well-supported by current sources, but key future, high-impact information (running order, rehearsals, jury rehearsal reviews) is not yet available and could change the assessment materially.
+
+Final short conclusions
+- There is no clear, specific piece of missing information that would prove the market is substantially mispriced today. The current probability (56.5%) is plausible given jury-backed selection and mixed press attention, and the low trading volume means the quote could be moved by a small number of traders — but that fact alone is not evidence of actionable mispricing.
+- If you are considering trading, expect modest expected edge (≈2.1 cents EV by my estimate) and high sensitivity of the price to rehearsal/release/allocations news between now and May.
+
+EXPECTED_VALUE: 2.1
+SUMMARY: Romania has officially selected Alexandra Căpitănescu with “Choke Me” for Eurovision 2026; coverage and jury-backed national selection make a ~56.5% qualification price plausible, but key variables (running order, live staging, jury rehearsals) are unresolved. I find insufficient specific evidence of a large mispricing now; expected EV of investigating/trading is small (~2.1 cents). 
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Ce șanse are România să câștige Eurovision 2026. Casele de pariuri au publicat cotele
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://ziare.com/eurovision-2026/sanse-viena-finala-cote-case-pariuri-alexandra-capitanescu-1998426
-Summary: Romania, represented by Alexandra Căpitănescu with the song "Choke me!", has modest chances of winning Eurovision 2026, with bookmakers assigning a 1% probability of victory and placing Romania at 19th in overall odds. While specific odds for advancing through the second semi-final are not provided, Romania's relatively low ranking and odds suggest it may face challenges in progressing beyond the semi-final stage. The country's current standing indicates that advancing to the final is uncertain and likely depends on performance and competition dynamics during the semi-final.
+### [Romania in the Eurovision Song Contest 2026](https://en.wikipedia.org/wiki/Romania_in_the_Eurovision_Song_Contest_2026)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Eurovision Prediction 2026 – Round 8 – Poland, Portugal, Romania, Sweden - ESCXTRA.com
-Author: 
-Published Date: 2026-03-02T00:00:00.000Z
-URL: https://escxtra.com/2026/03/02/eurovision-prediction-2026-round-8-poland-portugal-romania-sweden/
-Summary: The webpage provides an overview of the Eurovision Prediction 2026 season, focusing on national finals in Poland, Portugal, Romania, and Sweden. It details how fans can participate in predicting the winners of these national selections, including Romania’s Selecția Națională 2026, with deadlines around early March. While it explains the prediction platform and rules, it does not specify the current status or likelihood of Romania's entry advancing through the second Eurovision Semi-Final. Therefore, for predicting Romania's advancement, one should consider Romania's national final results, the strength of their selected entry, and historical semi-final performance, but this specific webpage does not provide detailed insights into Romania's semi-final prospects.
+This page summarizes Romania’s 2026 Eurovision participation and identifies the selected artist and song (“Choke Me” by Alexandra Căpitănescu). It documents selection details (writers, song title) and provides quick context about the national selection result. This supports the factual baseline that Romania is entered with a named song/artist — essential for assessing qualification chances and whether the market’s YES outcome is even possible (it is).
 
-Title: 🇷🇴 TES Ranks: Selecția Națională 2026 - Final - That Eurovision Site
-Author: 
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://thateurovisionsite.com/2026/03/04/tes-ranks-selectia-nationala-2026-final/
-Summary: The article discusses Romania's national selection process for Eurovision 2026, highlighting the 12 finalists and ranking their songs. The top contenders include Yguana with "Happy Birthday," Olivia Addams with "Croco," Antonio Pican with "Humans," and WRS with "All the Way." The rankings suggest a competitive field, with "Happy Birthday" currently favored. Historically, Romania has participated in Eurovision since 1994, with their best results being two third-place finishes in 2005 and 2010. In recent years, Romania has struggled to qualify for the final, as seen in 2023 when Theodor Andrei's entry did not advance past semi-finals. Given Romania's past semi-final challenges and the current competitive landscape, predicting their advancement through the second semi-final remains uncertain, but their recent track record indicates they face significant hurdles.
+### [Alexandra Căpitănescu](https://en.wikipedia.org/wiki/Alexandra_C%C4%83pit%C4%83nescu)
+**Author:** Unknown | **Published:** Unknown
 
-Title: Romania: Alexandra Căpitănescu wins Selecția Națională 2026 – to Eurovision with "Choke Me"
-Author: Justina Helgeson 4 March  2026
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://eurovisionworld.com/esc/romania-alexandra-capitanescu-wins-selectia-nationala-2026-to-eurovision-with-choke-me
-Summary: Romania's representative for Eurovision 2026 is Alexandra Căpitănescu with the song "Choke Me," selected through Romania's national final, Selecția Națională 2026. The song, which explores themes of emotional overwhelm and self-criticism, was chosen solely by jury vote. Alexandra, in her early 20s, gained recognition after winning Vocea României at age 19 and has several popular singles. She will perform in Semi-final 2 on May 14 in Vienna, competing for a spot in the Grand Final. Historically, Romania has participated 23 times since 1994, with their best results being third place in 2005 and 2010, but they finished with zero points in 2023. Romania has qualified for the final 14 out of 18 times since semi-finals were introduced in 2004.
+The artist’s page records that Alexandra Căpitănescu is set to represent Romania in Eurovision 2026 with “Choke Me”, and notes her selection and recent career details (label signing, releases). This is relevant because artist profile, label backing, and professional support influence staging resources and jury/industry credibility — factors that affect qualification probability.
 
-Title: Alexandra Căpitănescu wins Selecția națională in Romania
-Author: 
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://escxtra.com/2026/03/04/alexandra-capitanescu-wins-selectia-nationala-in-romania/
-Summary: Alexandra Căpitănescu has been selected to represent Romania at Eurovision 2026 with her song “Choke me,” following Romania’s return to the contest after a two-year hiatus. The selection was made solely by a jury during Selecția națională, with a top 3 announced but no final order. Romania will perform in the first half of the second semi-final in Vienna on May 14. While the country’s previous entries and the quality of this year’s selection suggest potential, whether Romania will advance depends on the song’s reception, performance, and competition in the semi-final. The absence of televoting in the selection process indicates the entry was judged primarily on jury criteria, which may influence its chances of progressing.
+### [Choke Me](https://en.wikipedia.org/wiki/Choke_Me)
+**Author:** Unknown | **Published:** Unknown
 
+The page documents the song title, songwriter credits, and mentions public reporting and discussion about the song. It is relevant because the song’s theme/style and the public discourse around it (coverage, critical reaction) can affect televote and jury perceptions, creating upside or downside pressure on qualification probability.
 
+### [În această seară aflăm cine va reprezenta România la Eurovision 2026. În direct și în exclusivitate, la TVR 1... (TVR Info)](https://tvrinfo.ro/in-aceasta-seara-aflam-cine-va-reprezenta-romania-la-eurovision-2026-in-direct-si-in-exclusivitate-la-tvr-1-tvr-moldova-tvr-international-pe-tvrplus-ro-de-la-ora-20-00/)
+**Author:** Unknown | **Published:** Unknown
+
+A page from Romania’s public broadcaster about the national selection and broadcast details. This is a primary/local source confirming the national selection process and giving timing details — it underpins the factual claim that Romania officially chose its 2026 entry and that TVR is the organizing broadcaster, which influences staging resources and promotion.
+
+### [Oficial: Câte țări vor participa la Eurovision în 2026? România și alte două țări revin în concurs (Mediafax)](https://www.mediafax.ro/economic/oficial-cate-tari-vor-participa-la-eurovision-in-2026-romania-si-alte-doua-tari-revin-in-concurs-23658668)
+**Author:** Unknown | **Published:** Unknown
+
+Mediafax reports on the EBU list of participating countries for 2026 and notes Romania’s return after absence. This is relevant to context: Romania’s recent hiatus and return can affect fan momentum and baseline expectations; it confirms Romania’s participation from an independent national press source.
+
+### [🇷🇴 National: Romania makes a choice - Eurovision Universe](https://www.eurovisionuniverse.com/eurovision-2026/%F0%9F%87%B7%F0%9F%87%B4-national-romania-makes-a-choice/)
+**Author:** Unknown | **Published:** Unknown
+
+Specialist Eurovision coverage reporting on Romania’s national final outcome and noting that the selection was made by a jury. This is relevant because jury-selected entries can be more likely to earn jury points at Eurovision semi-finals — a factor supporting why the market might view Romania as modestly favored to qualify.
+
+### [ESC Odds 2026 | Eurovision Song Contest Betting Odds (JustBookies)](https://www.justbookies.com/eurovision-odds/)
+**Author:** Unknown | **Published:** Unknown
+
+An odds/aggregator page listing bookmaker odds for Eurovision 2026 outcomes; Romania is shown with long odds for overall victory. This is relevant as a market-based signal: bookmakers do not currently treat Romania as a top contender for the win, which is weak evidence that the entry is not among the strongest in the field — relevant to assessing whether a >50% qualification probability is supported.
+
+### [Iuliana Marciuc, detalii din spatele producției Eurovision România 2026: „Aproape 200 de oameni au lucrat la această simbioză” (Libertatea)](https://www.libertatea.ro/entertainment/iuliana-marciuc-detalii-din-spatele-productiei-eurovision-romania-2026-aproape-200-de-oameni-au-lucrat-la-aceasta-simbioza-5649641)
+**Author:** Unknown | **Published:** Unknown
+
+Coverage of the production of Romania’s national selection and remarks by production staff. This indicates professional production scale and institutional effort behind the national selection and may imply available staging/promotion resources for the selected act — a factor that can help qualification if staging is effective.
