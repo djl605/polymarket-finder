@@ -1,7 +1,7 @@
 # Research: Will Andy Barr be the Republican nominee for Senate in Kentucky?
 
 **Market ID:** 0xd6ae0f160bff700f4fbe88b2d58ef0d1491a1dc799419f3ad9b75f5d3184a969
-**Researched At:** March 17, 2026 at 05:42:12 AM UTC
+**Researched At:** March 22, 2026 at 04:27:54 AM UTC
 **Search Query:** "Will Andy Barr be the Republican nominee for Senate in Kentucky?"
 
 ---
@@ -9,81 +9,71 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.7¢
+**Expected Value:** 8.4¢
 
 ### Summary
 
-Andy Barr has a large, verifiable fundraising advantage (FEC shows ≈$6.47M cash on hand) and an early independent poll puts him narrowly ahead; polling is close and many voters are undecided, so the market’s 55.5% is plausible but not a slam-dunk. There is insufficient credible evidence of a large mispricing — any edge appears modest. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
+Andy Barr is an active, well-funded candidate with many endorsements, but multiple independent polls generally show Daniel Cameron leading; the market quote of 51% for Barr looks somewhat optimistic and may reflect an untraded initial price rather than aggregated money. Monitor late independent polls and any Trump endorsement for a clearer signal before treating this as a large (>20-point) mispricing.
 
 ### Full Analysis
 
-Plan & scope
-- I used web searches (3 calls) to collect primary/major-news evidence about the open Kentucky Senate race, Andy Barr’s campaign finance position, and independent polling of the Republican primary. I excluded prediction-market sites per your instruction and prioritized AP, Emerson College Polling, the FEC, and local/national news coverage.
+Planned approach and search summary
+- Questions to answer before judging mispricing: Has Andy Barr officially entered and filed for the 2026 KY Senate race? Who are the major Republican primary rivals and what do recent independent polls show? How do fundraising, endorsements, and endorsements/endorsement prospects (e.g., Trump) change Barr’s win probability? Are there near-term events (endorsements, ads, early voting rules, legal/qualifying technicalities) that materially change resolution risk?
+- I used three web searches to answer those items and relied on mainstream reporting and polling writeups (AP, Semafor, WKYT, Washington Examiner) and campaign filings/press releases to evaluate the fundamentals and recent polling.
 
-1) CONTEXT ANALYSIS
-- What the market is asking: “Will Andy Barr be the Republican nominee for Senate in Kentucky?” — i.e., will he win the Kentucky Republican primary for U.S. Senate (the market’s resolution rule says it resolves to the winner of the Republican primary as announced by the Kentucky Republican Party; if no primary occurs it resolves to “Other”). ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
-- What must happen for YES vs NO:
-  - YES: Andy Barr must receive more votes than any other Republican on the official Kentucky Republican primary result for the 2026 U.S. Senate race (the primary is scheduled in 2026 — independent polls reference the upcoming May primary). ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
-  - NO: Any other Republican (e.g., Daniel Cameron, Nate Morris, or a different candidate) wins the official Republican primary, or the primary does not occur (then “Other”). ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
+1) CONTEXT ANALYSIS — what the market asks and how it resolves
+- Market question: “Will Andy Barr be the Republican nominee for Senate in Kentucky?” It resolves to YES if Andy Barr wins the Republican primary for U.S. Senate in Kentucky (the primary is scheduled for May 19, 2026). It resolves to NO if any other Republican wins that primary or (per market rules) if no 2026 Kentucky Republican Senate Primary takes place (which is not expected). The resolution source is the Kentucky Republican Party’s first announcement of results, with credible reporting able to substitute where the party’s announcement is not decisive. ([wkyt.com](https://www.wkyt.com/2025/11/07/barr-officially-files-kentucky-us-senate-race/?utm_source=openai))
 
-2) EVIDENCE EVALUATION (all-source, balanced)
-Key, directly relevant facts found
-- Mitch McConnell’s seat is open (he will not run in 2026), creating a competitive Republican primary. This is the structural reason the primary matters. ([npr.org](https://www.npr.org/2025/02/20/nx-s1-5304207/mitch-mcconnell-retirement-senate-kentucky-2026?utm_source=openai))
-- Early independent polling (Emerson College Polling / Nexstar coverage) shows a three-way, undecided GOP primary with Andy Barr narrowly ahead in the first independent poll: Barr ~24%, Daniel Cameron ~21%, Nate Morris ~14% (Emerson field dates Jan 31–Feb 2, 2026; MOE ≈ ±3 points). Many voters remain undecided (poll indicates a fractured field). This suggests the race is competitive and unresolved. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
-- Federal Election Commission (FEC) filings show Andy Barr’s principal Senate committee reported very large cash-on-hand at the end of 2025 (about $6.47M), a large resource advantage over reported cash balances for Daniel Cameron in many news accounts (~$630k reported in campaign filings cited by local/national coverage). Barr’s war chest is therefore a material, verifiable advantage. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
+2) EVIDENCE EVALUATION — relevant facts and how they affect Barr’s probability
+Summary of the factual picture
+- Andy Barr has announced and filed for the open seat and is actively campaigning; he has advertised on TV and claims major GOP congressional endorsements. These are concrete campaign actions that materially improve name recognition and organizational readiness. ([apnews.com](https://apnews.com/article/d0b4f658bbe80a549b094361b077f8ce?utm_source=openai))
+- Several publicly reported polls show the Kentucky GOP primary competitive but with Daniel Cameron (former KY Attorney General) often leading. A Public Opinion Strategies poll published/broadcast in coverage showed Cameron ahead (e.g., 37% Cameron / 29% Barr in one widely-cited poll), while at least one other independent poll reported closer (e.g., late polls showing Barr ~28% and Cameron ~27%). Polls are mixed but many place Cameron as the frontrunner, with a significant undecided share. ([semafor.com](https://www.semafor.com/article/09/09/2025/new-poll-reveals-kentuckys-shifting-senate-race?utm_source=openai))
+- Fundraising and cash-on-hand materially favor Barr in recent filings: press reporting has Barr with several million in cash-on-hand (reporting cited roughly $6.4M) while Cameron has substantially less cash on hand in the available data, and Nate Morris has been spending heavily from his own resources. Large cash reserves + TV buys can shift late undecided voters and build ground infrastructure quickly. ([washingtonexaminer.com](https://www.washingtonexaminer.com/news/campaigns/congressional/4442966/andy-barr-cash-advantage-daniel-cameron-polls-kentucky-senate/?utm_source=openai))
+- Trump’s public endorsement had not been made (Trump acknowledged candidates and gave praise to multiple contenders but had not publicly anointed a single candidate as of March 2026). That leaves a pivotal endorsement uncertain and preserves significant upside/downside for frontrunners. ([wkyt.com](https://www.wkyt.com/2026/03/12/no-endorsement-trump-acknowledges-kentucky-senate-frontrunners-picks-no-favorite/?utm_source=openai))
 
-Evidence that suggests the market price might be incorrect (bearish on the market’s 55.5% that Barr wins)
-- Polling is early and close: the Emerson poll’s point estimates have Barr only a few points ahead of Cameron and well within the poll’s margin of error; multiple campaign-sponsored internals show different leaders (Cameron campaign PAC internals previously showed Cameron with a large lead). Early polling volatility implies Barr’s lead is fragile and could easily change before the primary. That argues the market probability should be closer to toss-up than a clear favorite. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
-- Name recognition and prior statewide performance: Daniel Cameron was statewide AG and the 2023 gubernatorial nominee, which earlier polling and campaign research suggest gives him higher name ID — a plausible path to consolidate GOP voters as the campaign continues (i.e., Barr’s current lead could narrow as undecideds break toward a better-known figure). That undercuts a durable >55% probability for Barr absent further confirming data. ([washingtonexaminer.com](https://www.washingtonexaminer.com/news/campaigns/congressional/3853543/daniel-cameron-leading-kentucky-senate-primary-polls/?utm_source=openai))
+Which evidence suggests the market price might be incorrect (i.e., Barr overvalued)?
+- Multiple independent polls reported by reputable outlets show Barr behind Daniel Cameron (several polls giving Cameron a multi-point lead and other internals showing Cameron with stronger name ID). If those polls are representative, Barr’s probability of winning is below 50% — sometimes substantially so (single-digit to mid-teens point gap in probability terms). That would make a 51% market price too high. ([semafor.com](https://www.semafor.com/article/09/09/2025/new-poll-reveals-kentuckys-shifting-senate-race?utm_source=openai))
+- The market shows zero total volume (no trades) and a narrow spread; when a market has zero volume its quoted price likely reflects an initial market-maker/launcher guess rather than aggregated money from diverse traders. That implies the 51% price may not reflect active information aggregation. (Market data provided by user.)
 
-Evidence that supports the current market price (bullish for Barr)
-- Fundraising advantage (hard data): Barr’s authorized committee shows multi-million cash-on-hand (~$6.47M at the end of 2025 on the FEC candidate page), far larger than the cash on hand publicly reported for Daniel Cameron and others — money to buy ads, GOTV, and to expand name ID statewide. This materially raises Barr’s probability of winning a three-way primary. (FEC raw numbers are strong objective evidence.) ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
-- Independent poll lead: Emerson’s first independent poll puts Barr narrowly ahead. Independent, non-campaign-sponsored polling confirming Barr’s viability supports a market that favors him slightly above 50%. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
-- No decisive Trump endorsement yet: in Kentucky GOP primaries, the presence/absence of a high-profile endorsement (e.g., former President Trump) can swing outcomes; at the time of these sources there was no decisive national endorsement that would instantly change odds — which favors a market that prices in Barr as one of several viable contenders rather than a foregone conclusion for anyone. The market’s 55.5% could reflect marginal expectation that Barr’s money + momentum will coalesce a plurality. ([washingtonexaminer.com](https://www.washingtonexaminer.com/news/campaigns/congressional/4447688/kentucky-senate-andy-barr-daniel-cameron-nate-morris/?utm_source=openai))
+Which evidence supports the market price as reasonable (i.e., Barr ≈50/50)
+- Barr’s fundraising advantage and campaign activity (TV buys, endorsements from many House Republicans, campaign infrastructure) are real advantages that plausibly translate into a higher win probability than raw polling shares might indicate. Substantial cash-on-hand can be decisive in the final weeks of a short primary campaign. ([washingtonexaminer.com](https://www.washingtonexaminer.com/news/campaigns/congressional/4442966/andy-barr-cash-advantage-daniel-cameron-polls-kentucky-senate/?utm_source=openai))
+- Polls are mixed: while some show Cameron leading by a meaningful margin, at least one independent poll put Barr narrowly ahead; there is a large undecided share in several surveys. That uncertainty supports a near-50/50 market price until late polling converges. ([realclearpolitics.com](https://www.realclearpolitics.com/epolls/2026/senate/ky/2026_kentucky_senate_republican_primary-8928.html?utm_source=openai))
+- Trump has not endorsed — this keeps the race fluid. Trump’s non-endorsement reduces the chance of a decisive structural advantage for Cameron (if Trump were to endorse Cameron, that could shift many voters quickly). ([wkyt.com](https://www.wkyt.com/2026/03/12/no-endorsement-trump-acknowledges-kentucky-senate-frontrunners-picks-no-favorite/?utm_source=openai))
 
 Source credibility and recency
-- FEC candidate page (Andy Barr) — primary-source, authoritative for campaign finance; highly credible and recent (summary coverage through 12/31/2025). It’s the single best source for the cash-on-hand claim. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
-- Emerson College Polling — independent pollster; credible methodology reported, recent (field late Jan–early Feb 2026). It’s a high-quality early snapshot but sample/margin limitations mean it can’t definitively settle the race. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
-- Associated Press / major local outlets (WKYT) — credible reporting that Barr entered the race and describes the open-seat dynamics; useful context for candidate announcements and timing. ([apnews.com](https://apnews.com/article/d0b4f658bbe80a549b094361b077f8ce?utm_source=openai))
-- Campaign press releases (e.g., Barr campaign) exist and claim favorable polls/fundraising — useful for claims but self-interested; I relied on FEC and independent polling instead of campaign-advertised numbers when possible. ([barrforsenate.com](https://barrforsenate.com/press-release/barr-posts-nearly-1-4-million-fundraising-quarter-enters-2026-with-dominant-cash-on-hand-advantage/?utm_source=openai))
+- Associated Press and Semafor reporting on candidate announcements and polls are high-credibility sources for event/poll facts and were published in 2025–2026; Washington Examiner and local outlets are credible for fundraising tallies and local political context but have different editorial slants — polling firms and independent aggregators (RealClearPolitics, Public Opinion Strategies, etc.) are the most load-bearing for numerical polling. I prioritized those mainstream reporting outlets and recent polling summaries in March 2026. ([apnews.com](https://apnews.com/article/d0b4f658bbe80a549b094361b077f8ce?utm_source=openai))
 
-Skepticism about “obvious” signals
-- The fundraising edge is strong and obvious, but if the race were truly decided that would likely be reflected in larger, consistent independent polls and/or early endorsements; the polling is not yet consistent. That argues against treating Barr’s cash advantage as conclusive evidence of final victory — expensive campaigns still lose primaries if name ID, endorsements, or controversies shift voter choice.
+Skepticism on both sides
+- If it’s “obvious” Barr is advantaged (fundraising, endorsements), why do many polls still show Cameron ahead? Either (a) polls are catching name-recognition advantages for Cameron not yet matched by Barr’s ad buys, or (b) polling samples or sponsorships may bias results; both possibilities reduce certainty. Conversely, if polls show Cameron ahead, why has Barr built a large cash reserve and gotten many endorsements? Because Barr’s fundraising and institutional endorsements may reflect in-party elites’ and donors’ assessments that are not fully reflected in voter-level polls yet.
 
-3) MARKET EFFICIENCY ANALYSIS
-- Possible charitable interpretations of the 55.5% price:
-  - The market is pricing Barr slightly above coin-flip because of his verified cash advantage and a small lead in the first independent poll; that is a plausible informed consensus for a near-term primary where money buys influence and late undecided voters matter.
-  - The 1¢ spread and low total volume ($7,021) indicate very thin liquidity: the price can be driven by a small number of bets. The market could therefore reflect either a genuine aggregation of a few informed traders who believe Barr’s advantages are decisive, or the view of one or two active players rather than broad information aggregation. Both are plausible. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
-- Why low volume might exist here:
-  - The race is early and uncertain (many undecideds), so informed traders may be waiting for more polls, endorsements, or advertising to move the price.
-  - Or the market is overlooked by sophisticated traders because other venues (endorsements, targeted PACs, large donors) are the primary arbitrage channels, leaving small prediction-market liquidity.
-- Is the price consistent with reasonable consensus? Yes — 55.5% is within the range you’d expect if traders weigh Barr’s large, verifiable financial advantage and the Emerson poll’s small lead against the early and close nature of field support.
+3) MARKET EFFICIENCY ANALYSIS — interpreting the market price given low volume
+- Reasonable interpretation that justifies ~51% for Barr: market maker or an early trader set a roughly even price because fundamentals (large cash on hand, endorsements, ad buys) offset polling that currently favors Cameron, and the undecided share plus the lack of a Trump endorsement leave outcomes open. A 51% price is therefore a fair “coin-flip” representation of this uncertainty.
+- Could 51% reflect only one or a few traders? Yes — total volume $0 strongly implies the price was not discovered via active trades and could simply be the initial liquidity-provision price. That weakens confidence that the market represents a consensus of informed bettors.
+- Is low volume because outcome is obvious or because informed traders haven’t engaged? Evidence suggests the outcome is not obvious (polls mixed and a large undecided share). The zero volume likely indicates a lack of informed trader engagement rather than obviousness. For this type of near-term primary with active campaigns, liquid markets typically attract traders — the absence of volume is a red flag for reliability.
 
-4) MISPRICING ASSESSMENT (do we have credible evidence of mispricing?)
-- Short answer: No compelling, specific evidence that the market is substantially mispriced. Why:
-  - Objective data (FEC) gives Barr a real operational advantage that justifies a better-than-50% chance in a three-way primary, especially if his campaign spends early to build statewide name ID. That supports a >50% market price. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
-  - Independent polling shows only a narrow lead inside the poll margin of error; that argues against treating Barr as a near-certainty and suggests the market should not be far above 50% either. The current price (55.5%) sits between “toss-up” and “clear favorite,” which is plausible given the mixed evidence. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
-- Potential missing information that would justify calling mispricing:
-  - New, consistent independent polling showing a wide lead or an authoritative statewide endorsement (e.g., Trump) could justify moving the price higher.
-  - Conversely, a surge in Cameron or Morris in independent polls, or a damaging news event for Barr, would justify a lower price.
-  - I did not find public, credible evidence of either kind that is missing from the market; available sources show a narrow dynamic where Barr’s financial edge is offset by poll volatility and undecided voters.
-- Therefore, I do not conclude a clear, actionable mispricing (especially not a large one). The market appears to reflect the best immediate combination of verifiable facts (Barr’s cash) and current polling (narrow, uncertain lead).
+4) MISPRICING ASSESSMENT — weighing both sides
+- Polling-first interpretation: multiple independent polls show Cameron leading (often by several points) and with higher name ID; if those polls are representative and winner-take-all dynamics apply in a three-way race with a large undecided pool, Barr’s true win probability is plausibly in the high-20s to mid-30s percentage range. That would make the market price (51%) an overstatement by perhaps ~15–25 percentage points.
+- Fundamentals-first interpretation: Barr’s cash-on-hand advantage, TV buys, and a long list of endorsements give him a real path to convert undecided voters late, raising his probability — plausibly to the high-30s or low-40s. That would make the market 51% modestly high but not extremely mispriced.
+- CRITICAL CHECK: Do I understand the resolution criteria? Yes — the winner of the Republican primary (May 19, 2026) determines resolution. There are no hidden technicalities in the market description. The existing evidence shows mixed signals, not a clear, already-resolved outcome; therefore it would be inappropriate to conclude extreme mispricing (>20c) without further, stronger polling or a major endorsement by Trump. ([wkyt.com](https://www.wkyt.com/2025/11/07/barr-officially-files-kentucky-us-senate-race/?utm_source=openai))
+
+Bottom-line mispricing judgment
+- The balance of evidence suggests the market price (51%) is somewhat optimistic for Barr relative to public polling, but not egregiously wrong given Barr’s clear fundraising and endorsement advantages and the unsettled nature of the primary. Because the market has had zero volume and was likely not priced by active bettors, the 51% quote should be treated as a weak signal.
+- If forced to pick a point estimate for a “fair” price today (March 22, 2026) combining polls and fundamentals, a reasonable range for Barr’s win probability is roughly 30–40%. That implies the market may overvalue Barr by ~11–21 percentage points. However, uncertainty around polls and late-campaign ad effects prevents high confidence that the full difference >20 points is real.
 
 5) EXPECTED VALUE CALCULATION
-- Strength of evidence (how strongly the evidence indicates a real mispricing that traders have missed): 45%
-  - Rationale: FEC and an independent poll are high-quality evidence, but the poll is early and margins are small; that produces moderate confidence that the market could be off by a modest amount.
-- Magnitude of mispricing (if mispriced): I estimate at most ~6 cents (0.06 probability) difference between the market price and what a simple, balanced reading of evidence would assign. Rationale: market at 55.5% vs my subjective “fair” probability in the ~49–52% range given the poll MOE and Barr’s cash advantage — pick midpoint ~51%. Difference ~4.5 cents; I round conservatively to 6 cents as an upper reasonable estimate.
-- Expected value = Strength × Magnitude = 45% × 6 cents = 2.7 cents
+- Strength of evidence that a mispricing exists: medium — many independent polls and mainstream reporting suggest Cameron is ahead, but fundraising and endorsements create plausible upside for Barr (I quantify this as ~60% strength).
+- Magnitude of likely mispricing if present: I estimate Barr is over-priced by ~14 percentage points (14 cents) relative to a central “fair” estimate (~37% fair vs 51% market).
+- Expected value = Strength × Magnitude = 0.60 × 14 = 8.4 cents.
 
 6) CONFIDENCE
-- My confidence in this assessment: medium
-  - Rationale: primary-source finance data and an independent poll provide a solid foundation, but the race is early, polls are close, and endorsements or new polls could change probabilities rapidly.
+- Confidence in this assessment: medium. The data set is recent and uses reputable sources, but polls are mixed and the campaign dynamics (TV buys, late endorsements) can change probabilities quickly in the ~8–9 weeks before the primary.
 
-Final judgment (concise)
-- The market price (55.5%) is plausible and not obviously mispriced given Barr’s large, verifiable cash advantage and an independent poll showing a narrow lead, but there is also credible evidence (tight poll margins, undecided voters, Cameron’s prior statewide profile) that the race remains competitive. There is insufficient credible evidence to assert a large mispricing; expected value of finding a true mispricing is small (~2.7 cents).
+Final short conclusions
+- Evidence of mispricing? Some, but not definitive. Polls favor Cameron overall in many samples while Barr has stronger fundraising and institutional backing; the market quote of 51% for Barr appears somewhat high given polling but is plausible given Barr’s advantages. The market’s zero volume strongly reduces its reliability as an information-aggregating price.
+- Recommendation for an analyst/trader: monitor late independent polls and any Trump endorsement or major ad/ground-game developments. If a consistent trend to Barr emerges in independent polls (not campaign-released internals), re-evaluate; if not, treat the 51% price as possibly overstating Barr’s chance by roughly mid-teens percentage points, but avoid assuming >20 point mispricing without further confirmation.
 
-EXPECTED_VALUE: 2.7
-SUMMARY: Andy Barr has a large, verifiable fundraising advantage (FEC shows ≈$6.47M cash on hand) and an early independent poll puts him narrowly ahead; polling is close and many voters are undecided, so the market’s 55.5% is plausible but not a slam-dunk. There is insufficient credible evidence of a large mispricing — any edge appears modest. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
+EXPECTED_VALUE: 8.4
+SUMMARY: Andy Barr is an active, well-funded candidate with many endorsements, but multiple independent polls generally show Daniel Cameron leading; the market quote of 51% for Barr looks somewhat optimistic and may reflect an untraded initial price rather than aggregated money. Monitor late independent polls and any Trump endorsement for a clearer signal before treating this as a large (>20-point) mispricing.
 CONFIDENCE: medium
 
 ---
@@ -93,26 +83,26 @@ CONFIDENCE: medium
 *The following sources were found via web search and used in the analysis:*
 
 ### [U.S. Rep. Barr enters competitive race to succeed Sen. McConnell in Kentucky](https://apnews.com/article/d0b4f658bbe80a549b094361b077f8ce)
-**Author:** Jonathan Mattise (AP) / Associated Press staff (AP Attribution depending on publish) | **Published:** 2025-04-22
+**Author:** Unknown (Associated Press) | **Published:** 2025-04-22
 
-AP’s report covers Andy Barr’s formal entry into the 2026 Kentucky Senate race after Mitch McConnell announced he would not seek re-election. It provides context that McConnell’s decision opened an open-seat contest and names principal Republican entrants (Barr, Daniel Cameron, Nate Morris). Relevant to the market: it establishes that this is an open-seat primary (the structural driver of the contest) and documents Barr’s candidacy and timing — necessary for understanding the resolution condition (Barr must win the Republican primary). ([apnews.com](https://apnews.com/article/d0b4f658bbe80a549b094361b077f8ce?utm_source=openai))
+AP reported on Andy Barr’s announcement entering the 2026 Kentucky U.S. Senate race and summarized his campaign message and positioning. This source confirms Barr’s candidacy and provides context on his rationale (aligning with Trump/KY conservatives); that fact is essential to the market’s resolution (Barr is an active candidate) and supports the view that Barr has an operational campaign capable of influencing polls. It supports the “Barr is a serious contender” side of the analysis.
 
-### [Kentucky 2026 poll: GOP voters split in three-way primary to succeed McConnell — Emerson College Polling](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/)
-**Author:** Emerson College Polling (site) | **Published:** 2026-02-05
+### [Barr officially files for Kentucky US Senate race](https://www.wkyt.com/2025/11/07/barr-officially-files-kentucky-us-senate-race/)
+**Author:** Unknown (WKYT staff) | **Published:** 2025-11-07
 
-Emerson’s independent poll (field Jan 31–Feb 2, 2026) reports a three-way GOP primary with Andy Barr at about 24%, Daniel Cameron ~21%, and Nate Morris ~14%, with notable undecided voters and a margin of error of roughly ±3 points. This is the first independent (non-campaign) snapshot showing Barr narrowly ahead; it is directly relevant to estimating probabilities and shows the race is still competitive and sensitive to small shifts. ([emersoncollegepolling.com](https://emersoncollegepolling.com/kentucky-2026-poll-gop-voters-split-in-three-way-primary-to-succeed-mcconnell/?utm_source=openai))
+Local reporting documents Andy Barr’s formal filing with the Kentucky Secretary of State and notes the primary date (May 19, 2026). This confirms the campaign’s formal status and the primary timing that determines resolution; it also underscores that the market resolves on an actual primary contest (not on speculative events), which matters for assessing timing risk and how late ad buys/fundraising can change outcomes.
 
-### [BARR, GARLAND ANDY - Candidate overview | FEC](https://www.fec.gov/data/candidate/S6KY00286/)
-**Author:** Federal Election Commission (FEC) | **Published:** 2025-12-31 (coverage dates shown on the page)
+### [New poll reveals Kentucky’s shifting Senate race](https://www.semafor.com/article/09/09/2025/new-poll-reveals-kentuckys-shifting-senate-race)
+**Author:** Unknown (Semafor staff) | **Published:** 2025-09-09
 
-Official FEC candidate page for Andy Barr’s Senate committee lists receipts, disbursements, and cash-on-hand. The page shows ending cash on hand of approximately $6.47M for coverage through 12/31/2025. This is authoritative primary-source evidence of Barr’s financial resources, which materially affect his capacity to build statewide name ID and buy advertising ahead of Kentucky’s 2026 primary. That large, verifiable cash advantage is a core reason the market could reasonably favor Barr above 50%. ([fec.gov](https://www.fec.gov/data/candidate/S6KY00286/?utm_source=openai))
+Semafor covered a Public Opinion Strategies poll showing Daniel Cameron with a lead over Andy Barr (the reporting cited results like Cameron 37% vs Barr 29% in the GOP primary). This is a load-bearing poll result used to estimate Barr’s true probability; it suggests Cameron has a structural advantage in name recognition and voter support that the market should incorporate.
 
-### [Barr leads competitive Kentucky Senate primary to succeed McConnell (WKYT)](https://www.wkyt.com/2026/02/05/barr-booker-lead-early-polling-kentucky-senate-primaries-replace-mcconnell/)
-**Author:** WKYT Staff | **Published:** 2026-02-05
+### [Daniel Cameron banking on his name ID to overcome lackluster fundraising in Kentucky Senate race](https://apnews.com/article/5d283992bc4623b5192502d15730195e)
+**Author:** Unknown (Associated Press) | **Published:** Unknown
 
-Local Kentucky coverage of the Emerson poll showing Barr leading the GOP primary and Charles Booker leading the Democratic side. WKYT summarizes the poll’s figures, notes the margin of error and undecided voters, and references the open-seat nature of the race. It corroborates Emerson’s findings and gives local context about name ID and the dynamics of the Kentucky electorate — supporting the conclusion that the race is early and competitive. ([wkyt.com](https://www.wkyt.com/2026/02/05/barr-booker-lead-early-polling-kentucky-senate-primaries-replace-mcconnell/?utm_source=openai))
+AP reporting notes that Daniel Cameron has consistently led in polling due to name recognition despite lagging fundraising and limited ad buys. This piece explains the apparent divergence between polls (Cameron leading) and fundraising (Barr raising more), which is central to evaluating whether polls or campaign finances should carry more weight in predicting the primary outcome.
 
-### [Barr takes new polling lead in Kentucky Senate primary with cash advantage (Washington Examiner)](https://www.washingtonexaminer.com/news/campaigns/congressional/4447688/kentucky-senate-andy-barr-daniel-cameron-nate-morris/)
-**Author:** Reporter (Washington Examiner), Taegan Goddard aggregation for PoliticalWire also covered | **Published:** 2026-02-XX (published early Feb 2026)
+### [Barr boasts cash advantage as Cameron leads in KY Senate polls](https://www.washingtonexaminer.com/news/campaigns/congressional/4442966/andy-barr-cash-advantage-daniel-cameron-polls-kentucky-senate/)
+**Author:** Unknown (Washington Examiner staff) | **Published:** Unknown
 
-Coverage notes Andy Barr’s new lead in recent independent polling, highlights his cash advantage, contrasts it with Daniel Cameron’s lower cash-on-hand in filings, and discusses how the three-way field and undecideds make the race competitive. This article is useful for combining polling and finance evidence and explains why Barr’s cash advantage plausibly increases his odds even though polls are tight. ([washingtonexaminer.com](https://www.washingtonexaminer.com/news/campaigns/congressional/4447688/kentucky-senate-andy-barr-daniel-cameron-nate-morris/?utm_source=openai))
+The Washington Examiner reports that Andy Barr led the field in cash-on-hand (roughly $6.4M reported) while Daniel Cameron trailed in fundraising, and it summarizes recent polling showing Cameron often ahead. This source is used to weigh the countervailing forces: a cash/advertising advantage for Barr that could change voter preferences quickly versus polling that currently favors Cameron. It supports the view that Barr’s organizational and financial resources present a credible path that mitigates but does not eliminate the polling deficit.

@@ -1,7 +1,7 @@
 # Research: Will Arsenal win the 2025-2026 FA Cup?
 
 **Market ID:** 0x42b15a130a3faf475c6c23a8e451b6a03c742b7934c5b1c66c503c85b1b5c267
-**Researched At:** March 15, 2026 at 04:37:15 AM UTC
+**Researched At:** March 22, 2026 at 04:35:42 AM UTC
 **Search Query:** "Will Arsenal win the 2025-2026 FA Cup?"
 
 ---
@@ -9,78 +9,79 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 5.0¢
 
 ### Summary
 
-Arsenal are quarter‑finalists (Arsenal beat Mansfield and drew Southampton away) and bookmakers put Arsenal as the favorite to win the FA Cup (implied ~29–33%). The market price (35%) is close to bookmaker consensus, so there is no clear, large mispricing; any edge is small (a few cents) and the low trading volume raises execution risk. ([theguardian.com](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live))
+Arsenal are alive (beat Mansfield on 7 Mar) and were drawn vs Southampton in the FA Cup quarter-finals (ties Apr 4), but mainstream bookmakers/aggregators generally imply a lower outright chance than this prediction market’s 35.5%. Given low prediction-market volume and dispersion in bookmaker odds, there is modest evidence the market is somewhat over-priced, but not strong, conclusive evidence of a large mispricing.
 
 ### Full Analysis
 
-Analysis and conclusion
+Plan / scope (used 3 web searches): I looked for (1) whether Arsenal are still in the 2025–26 FA Cup and what round/draw they face, (2) authoritative FA Cup schedule/round dates and quarter-final draw, and (3) market/bookmaker odds and commentary about Arsenal’s outright chances. Those items are the highest-yield facts for judging whether a 35.5% market price (current market) is plausibly high or low.
 
-1) CONTEXT ANALYSIS — what the market asks and how it resolves
-- The market asks: "Will Arsenal win the 2025-2026 FA Cup?" It will resolve YES if Arsenal are the team that win the final of the 2025–26 FA Cup (winner declared within the resolution window), NO if Arsenal are eliminated at any point (per the market rules), and "Other" only if the competition is cancelled/postponed after June 30, 2026 or no winner is declared. (User-supplied market rules.)
+1) CONTEXT ANALYSIS — what the market is asking and exact resolution conditions
+- The market asks: "Will Arsenal win the 2025–2026 FA Cup?" It resolves YES only if Arsenal are officially declared the winners of the 2025–26 FA Cup within the stated resolution window; it resolves NO if at any point Arsenal become impossible to win the Cup (i.e., they are eliminated) per tournament rules; if the Cup is cancelled or delayed past June 30, 2026 ET or no winner declared in that timeframe it resolves to "Other". The stated primary resolution source is the English FA (thefa.com). (I verified Arsenal are still in the tournament and the tournament schedule/draw; see sources.) ([espn.com](https://www.espn.com/soccer/report/_/gameId/401861587?utm_source=openai))
 
-2) SITUATION / TIMING (current state as of March 15, 2026)
-- Arsenal beat Mansfield Town 2–1 in the FA Cup fifth round on 7 March 2026 to reach the quarter-finals. ([theguardian.com](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live))
-- The FA Cup quarter‑final draw placed Arsenal away to Southampton; quarter‑final ties are scheduled across the weekend of April 4–5, 2026. ([southamptonfc.com](https://www.southamptonfc.com/en/news/article/saints-to-host-arsenal-in-the-fa-cup-quarter-final))
-- Arsenal are also competing in other major competitions this season (they reached the EFL/Carabao Cup final and are deep in the Champions League), which creates fixture congestion in March–April and can affect selection/rotation decisions. ([independent.co.uk](https://www.independent.co.uk/sport/football/arsenal-chelsea-tv-channel-live-stream-carabao-cup-b2912548.html?utm_source=openai))
+2) EVIDENCE EVALUATION — facts and how they push probability
+Key, recent facts
+- Arsenal beat Mansfield (FA Cup fifth round) on 7 March 2026 to reach the quarter-finals. This confirms Arsenal remain eligible to resolve to YES. ([espn.com](https://www.espn.com/soccer/report/_/gameId/401861587?utm_source=openai))
+- The FA quarter-final draw (ties to be played ~weekend of 4 April 2026) has Arsenal away to Southampton (a Championship side). That is a favorable next tie compared with drawing a top Premier League opponent. ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai))
+- The FA’s published round dates show the quarter-finals and later rounds schedule (semi-finals late April, final mid-May), meaning the path to the trophy still contains multiple knockout matches and remains uncertain. ([thefa.com](https://www.thefa.com/competitions/thefacup/round-dates?utm_source=openai))
+- Bookmakers/odds aggregators list Arsenal among the tournament favourites but generally imply a lower outright probability than 35.5% — typical bookmaker fractional prices shown in mid-Feb/Mar range from ~7/2 to 9/2 depending on bookmaker (implied probabilities roughly in the ~18–25% range for many firms; some give Arsenal nearer to ~22–28%). That suggests commercial betting markets value Arsenal less than this prediction market does. ([oddschecker.com](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament?utm_source=openai))
+- Arsenal are active deep in multiple competitions (they reached domestic League Cup final and are competing in Premier League / Champions League), which both raises their baseline quality (good squad) and raises the risk of rotation/fatigue/injury that can reduce knockout odds. Coverage of Arsenal’s cup runs and schedule (Carabao/League Cup final, Champions League progress) shows fixture congestion is a real factor. ([espn.com](https://www.espn.com/football/report/_/gameId/401842435?utm_source=openai))
 
-3) EVIDENCE EVALUATION — all relevant evidence gathered
-A. Evidence implying the market price might be too high for Arsenal (reasons why 35% could be optimistic)
-- Cup volatility and one‑off upsets: FA Cup ties are knockout football where lower‑league teams occasionally cause shocks. Mansfield tested Arsenal before Arsenal won; Port Vale and other lower‑league giant‑killers are still in the draw this year. That increases variance relative to a straight league projection. ([theguardian.com](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live))
-- Fixture congestion / rotation risk: Arsenal have other major matches in March–April (EFL Cup final in late March; Champions League rounds in April). Managers often rest key players in cup ties during heavy runes, which reduces single‑match win probability vs. a fully‑fit best XI. Media reporting notes Arsenal are juggling multiple competitions this spell. If Arteta rotates heavily for the away quarter at St Mary’s (hostile environment) the chance of an upset rises. ([independent.co.uk](https://www.independent.co.uk/sport/football/arsenal-chelsea-tv-channel-live-stream-carabao-cup-b2912548.html?utm_source=openai))
-- Stadion and opponent specifics: Southampton are a Championship side having a good season and are playing at home in the quarter‑final; home advantage in a single knockout game can materially lower the favourite’s probability relative to a neutral/ home tie. (Draw details and Southampton hosting confirmed.) ([southamptonfc.com](https://www.southamptonfc.com/en/news/article/saints-to-host-arsenal-in-the-fa-cup-quarter-final))
+What suggests the current market price (35.5%) might be incorrect (bearish points)
+- Bookmaker implied probabilities: Odds aggregators place Arsenal among favourites but typically imply a lower outright chance (commonly in the ~18–28% band); a 35.5% implied probability is meaningfully higher than many bookmakers’ favorites. This is specific, measurable evidence the prediction market price may be high. ([oddschecker.com](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament?utm_source=openai))
+- The FA Cup requires winning three-to-four more knockout ties (QF, SF, Final). Knockout variance is high: single-match upsets and rotation can swing outcomes, so most analytic models (and bookmakers) discount favourites more than a simple “team strength” metric because of single-game variance. The difference between implied bookmaker prices and the prediction market suggests the latter may not be fully discounting knockout variance.
+- Low-trading-volume markets are vulnerable to concentrated positions. With Total Vol ~$5.2k and Age ~58 days, a small number of bettors could set a persistent price above the broader market’s view.
 
-B. Evidence supporting the market price (reasons 35% is reasonable)
-- Bookmakers and odds aggregators list Arsenal as the outright favourite to win the FA Cup with implied probabilities ~29–33% (examples: BettingOdds shows Arsenal ~33% implied; BettingLounge aggregation shows Arsenal ~29–30% on some books). Those market prices reflect broad-money consensus and professional risk management. The prediction‑market price (35%) is close to those external odds. ([bettingodds.com](https://www.bettingodds.com/football/fa-cup))
-- Arsenal’s quality and favorable draw path to the semis: Arsenal have avoided other Premier League opponents in the quarter (they face Championship Southampton) and — if they advance — would likely avoid some of the top Premier League sides until later rounds (the draw pairs are such that Arsenal’s quarter looks easier compared to other ties). FA’s preview and Sky Sports detail the draw and note Arsenal’s relatively favourable path. That supports a materially better-than‑even chance to reach the semis and win further ties. ([thefa.com](https://www.thefa.com/news/2026/mar/04/emirates-fa-cup-fifth-round-proper-tie-by-tie-preview-20260403))
-- Recent cup performance and squad depth: Arsenal have been progressing in domestic cups this season (and won on the day at Mansfield despite a scare); they have a squad capable of winning knockout ties even with rotation. Betting/odds reflect that assessment. ([theguardian.com](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live))
+What supports the current market price (bullish points)
+- Arsenal are among the top Premier League teams this season (consistent high-quality squad, title challengers) and were drawn against a lower-league opponent (Southampton in the quarter), which increases the short-term path probability of advancing; bookmakers already list Arsenal among favourites. The combination of high team quality and a favorable quarter tie plausibly raises an informed-trader’s probability estimate above some average bookmaker lines. ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai))
+- Market price could be reflecting private information or forward-looking adjustments (e.g., superior squad health outlook, manager prioritization, or expectation of favorable draws for later rounds) that bookmakers and general betting markets either price differently or have lower margins for.
+- Some bookmakers and outlets actually show Arsenal as joint or outright favourite at times (different firms offer different lines; there is dispersion). The prediction market’s 35.5% is at the high end of available consensus but not logically impossible given dispersion across firms. ([oddschecker.com](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament?utm_source=openai))
 
-C. Source credibility and recency
-- The Guardian (match report for Mansfield 7 Mar 2026) — high‑quality national sports reporting, contemporaneous match detail. ([theguardian.com](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live))
-- Southampton FC official site (9 Mar 2026) — primary source for the club-side match scheduling and confirmation of the draw/venue. ([southamptonfc.com](https://www.southamptonfc.com/en/news/article/saints-to-host-arsenal-in-the-fa-cup-quarter-final))
-- Sky Sports (9 Mar 2026) — reputable sports news outlet summarizing the draw and dates; useful for bracket context. ([skysports.com](https://www.skysports.com/football/news/34651/13517171/fa-cup-quarter-final-draw-man-city-face-liverpool-chelsea-vs-port-vale-and-arsenal-take-on-southampton))
-- BettingOdds / BettingLounge (March 2026 snapshots) — these aggregate bookmaker lines and imply public/professional pricing; they are appropriate proxies for the market consensus on outright probabilities. ([bettingodds.com](https://www.bettingodds.com/football/fa-cup))
-- The Independent (Feb 2026) — reporting on Arsenal reaching the EFL Cup final; credible on fixture congestion context. ([independent.co.uk](https://www.independent.co.uk/sport/football/arsenal-chelsea-tv-channel-live-stream-carabao-cup-b2912548.html?utm_source=openai))
+Source credibility and recency
+- The FA (thefa.com) is the official competition source — authoritative for schedule/draws and the stated resolution source. Very high credibility; page is current for 2025–26 dates. ([thefa.com](https://www.thefa.com/competitions/thefacup/round-dates?utm_source=openai))
+- ESPN match report of Mansfield v Arsenal (7 Mar 2026) is a mainstream, timely match report confirming Arsenal progressed. High credibility and directly relevant. ([espn.com](https://www.espn.com/soccer/report/_/gameId/401861587?utm_source=openai))
+- Oddschecker is a reliable odds-aggregator and betting-industry commentator; its piece listing bookmaker leaderboards/odds (Leon Blackman, Feb 16, 2026) is a timely snapshot of book odds and best-prices (useful to infer implied probabilities). Good credibility for the bookmaker-implied benchmark. ([oddschecker.com](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament?utm_source=openai))
+- Sky Sports / mainstream UK press reporting of quarter draw and ties is credible corroboration of the pairings and schedule. ([skysports.com](https://www.skysports.com/football/news/11700/13517171/fa-cup-quarter-final-draw-man-city-face-liverpool-chelsea-vs-port-vale-and-arsenal-take-on-southampton?utm_source=openai))
+- All sources are recent (Feb–Mar 2026) and relevant to the Cup’s remaining rounds.
 
-D. Skeptical note: Why hasn't the market already priced the “obvious” points?
-- Bookmakers and mainstream outlets already price in Arsenal’s overall strength, draw, and fixture congestion; their odds are close to the prediction market’s 35% price. That similarity suggests the prediction market is not ignoring the widely‑available evidence. Because mainstream cash markets and bookmakers are actively pricing the same event and are close in implied probability, it’s less likely the prediction market is missing a major obvious factor.
+Skepticism about “obvious” evidence
+- If it were truly obvious Arsenal had a >35% chance (i.e., market aside), bookmakers and larger betting markets would likely coalesce near that price or traders would arbitrage the discrepancy. Because bookmakers show lower implied probabilities and the prediction market has low volume, the gap suggests either (a) a small number of prediction-market traders are overconfident (fan bias or concentrated positions), or (b) the prediction market is capturing some information (draws, injuries expected) not fully reflected in published bookmaker lines — both possibilities are plausible. The “obvious” case (Arsenal is a >35% favorite) is not supported strongly by broad betting markets.
 
-4) MARKET EFFICIENCY ANALYSIS — reliability of the market’s price
-- Reasonable interpretations that justify 35%:
-  - It aligns with bookmaker/implied market odds (bookmakers show Arsenal 29–33% across panels), so 35% is within the inter‑market spread for an outright market that still has two elimination rounds to play. ([bettingodds.com](https://www.bettingodds.com/football/fa-cup))
-  - Arsenal have a favorable bracket and the squad quality to win multiple knockout ties; that makes a favourite probability in the 25–40% range plausible at quarter stage.
-- Could price reflect one (or a few) traders rather than aggregation?
-  - Total traded volume is low ($3,820) and the market is only 51 days old with a narrow spread (4¢). Low volume increases the chance the price was nudged by a single aggressive trader or a market‑maker’s inventory management rather than broad participation.
-  - BUT the market price roughly matches bookmaker lines, which reduces the prior that it is purely one trader setting an outlying price. If the prediction market were far from book odds (e.g., 60% vs bookmakers 30%), that would be stronger evidence of idiosyncratic pricing.
-- Why the low volume?
-  - FA Cup outright markets are long‑term, lower‑turnover propositions until late knockout rounds; many bettors prefer to trade on matchlines or use bookmaker outrights. Low volume can therefore reflect the product type and betting preferences rather than clear inefficiency.
+3) MARKET EFFICIENCY ANALYSIS — reliability of the market price
+- Reasonable interpretations that justify 35.5%:
+  - Traders price in Arsenal’s high squad quality, favourable quarter draw vs Championship Southampton, and a belief they will prioritise the FA Cup (or that key opponents will be eliminated by other teams).
+  - A single informed trader with high conviction (and willingness to bear risk) could move a low-liquidity market to 35.5% and keep it there—tight spread (1¢) doesn’t imply many distinct participants; it may simply be a posted market maker spread.
+- Could it represent consensus or just one/few participants?
+  - Given Total Vol ~$5.2k and Age ~58d, the market likely reflects a small set of contributors; that volume is low for a season-long outright market for a top club. Low-volume + tight spread is consistent with price set by few actors rather than deep aggregation.
+- Why might volume be low?
+  - Many bettors prefer bookmakers for outright tournaments, or larger betting exchanges; prediction-market audiences are smaller. Also the outcome resolves in May — short time horizon reduces speculative value for some players. Conversely, it could be low because the outcome seems “obvious” to many (so few see value), but bookmaker pricing suggests it is not that obvious.
 
-5) MISPRICING ASSESSMENT — is there credible evidence of mispricing?
-- Summary of the balance:
-  - Evidence that market is roughly correct: multiple independent bookmaker/probability aggregates place Arsenal near 30–33% implied chance; mainstream outlets confirm Arsenal’s favorable draw and remaining fixtures; these are the same signals traders would use. ([bettingodds.com](https://www.bettingodds.com/football/fa-cup))
-  - Evidence that market might be overstating Arsenal (i.e., 35% a little high): cup variance, playing away at St Mary’s vs. a motivated Championship side, and rotation pressure from other competitions. Those factors increase the chance of an upset versus a baseline forecast that treats Arsenal as a league‑match favourite. ([southamptonfc.com](https://www.southamptonfc.com/en/news/article/saints-to-host-arsenal-in-the-fa-cup-quarter-final))
-- Magnitude and direction:
-  - The clearest quantitative anchor is bookmakers: they imply ~29–33%. The prediction market price 35% is a modest premium (≈2–6 percentage points, i.e., 2–6 cents). That difference is within typical market/odds spreads and could reflect small differences in risk premiums, or a single trader’s view — not a glaring, large mispricing.
-- Critical check (self‑challenge):
-  - Resolution criteria are straightforward (Arsenal must win the final). They have not yet been eliminated and the quarter‑final tie is scheduled in early April; I am not missing a technicality that would resolve the market now. The biggest risk I could be missing is non-public injury news or a sudden squad suspension/cancellation, but such material facts would be reported and are not visible in mainstream sources I checked. Given that, concluding a large mispricing (>20¢) would be unwarranted.
+4) MISPRICING ASSESSMENT (objective weighing)
+- The core measurable gap: prediction market = 35.5% vs bookmaker-implied median ~20–25% (bookmaker dispersion). That’s an absolute gap of about 10–15 percentage points (10–15¢). Is there specific, credible missing evidence that would justify that gap?
+  - I did not find any authoritative, public piece of information (e.g., an injury to a rival, confirmed rotation policy, or official managerial statement) that would obviously push Arsenal’s true probability from ~22–25% up to ~35.5% before the quarter tie is played. The publicly available bookmaker consensus and FA schedule are the main objective anchors, and they generally point to a lower implied probability.
+- Critical self-checks:
+  - Resolution criteria: correctly understood — market resolves YES only if Arsenal win the Cup; elimination resolves NO. I verified Arsenal is still active and quarter draw is Arsenal vs Southampton. ([espn.com](https://www.espn.com/soccer/report/_/gameId/401861587?utm_source=openai))
+  - Is a >20¢ mispricing plausible? No — large multi-decade bookmakers and futures markets generally prevent multi-decimal (20+ point) mispricings on obvious favourites; with low volume markets it’s possible to see larger gaps, but such large gaps should be treated with skepticism absent strong new information. The gap here, while material, is not extreme; it looks like moderate overpricing rather than an obvious, large arbitrage.
 - Conclusion on mispricing:
-  - There is NO strong, specific evidence of a large mispricing. The market price (35%) sits reasonably close to bookmaker-implied probabilities and mainstream reporting. The market might be slightly high relative to the median bookmaker price (by a few percentage points), but that gap is small and within plausible model/market noise. Low trading volume raises the risk that the price can move with little capital, but it does not by itself prove mispricing.
+  - There is credible evidence the prediction-market price (35.5%) is somewhat higher than broad bookmaker-implied consensus (~18–28%), and low market volume raises the plausibility that the price reflects concentrated positions rather than deep aggregation. However, the difference is not huge or obviously decisive: Arsenal are legitimately one of the tournament favourites, they have a favorable quarter draw, and some bookmakers at times price them closer to the mid-20s–30% range (dispersion exists). Therefore the best assessment is: modest evidence of overpricing (i.e., market > consensus), but insufficient to conclude a large, certain mispricing.
 
-6) EXPECTED VALUE CALCULATION (Is it worth investigating/trading this market?)
-- Strength of evidence the market is missing a specific credible factor: moderate‑low — much of the public, professional market information (bookmakers, major media) is already consistent with the prediction market price. Score: 30%–40%. (I set a conservative single figure: 40%.)
-- Magnitude of plausible mispricing if present: small — roughly 2–6 percentage points. I'll pick a representative magnitude of 5 cents (0.05) as an upper‑plausible error (market 35% vs bookmaker median ~30%). If the true magnitude were only 2–3 cents, EV scales down proportionally.
-- Expected value = Strength × Magnitude = 40% × 5 cents = 2.0 cents.
-  - (If you prefer the more conservative bookmaker anchor ~32%, the implied mispricing is ~3 cents and EV would be ~1.2 cents; my 2.0‑cent number is a central estimate.)
+5) EXPECTED VALUE CALCULATION
+- My judgement: there is moderate evidence that the market overstates Arsenal’s win probability by about 8–12 percentage points (i.e., 8–12 cents). Because that is uncertain, I assign Strength = 50% that the gap is real at that magnitude.
+- Choose a conservative midpoint: Magnitude estimate = 10 cents (i.e., market 35.5% vs true 25.5%). Strength = 50% (0.5).
+- Expected value = Strength × Magnitude = 0.5 × 10¢ = 5.0¢
 
-Final short answer / recommendation
-- The market shows no compelling, specific mispricing large enough to trade aggressively relative to bookmakers. The 35% price is broadly consistent with professional bookmaker odds and mainstream reporting; the market’s low volume raises execution/risk concerns (a small move in price could be caused by little capital), but does not by itself demonstrate an exploitable value greater than a few cents.
-- If you are looking for a clear edge: this market likely offers only small expected value (low single‑cent EV), and the main risk is that low liquidity and news (injury/selection) could move the price quickly. If you already hold the position, monitoring injury/team news and the quarter‑final team sheet is the highest‑value short‑term information.
+6) CONFIDENCE
+- I rate my confidence in this assessment as: medium.
+  - Reasoning: facts about Arsenal’s progression and the draw are clear (high confidence), bookmaker consensus and aggregator snapshots are clear (good confidence), but the size of any true mispricing depends on private trader info and small-sample market microstructure (low-liquidity prediction market), so I cannot be high confidence.
 
-EXPECTED_VALUE: 2.0
-SUMMARY: Arsenal are quarter‑finalists (Arsenal beat Mansfield and drew Southampton away) and bookmakers put Arsenal as the favorite to win the FA Cup (implied ~29–33%). The market price (35%) is close to bookmaker consensus, so there is no clear, large mispricing; any edge is small (a few cents) and the low trading volume raises execution risk. ([theguardian.com](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live))
+Final short assessments
+- Practical takeaway for a trader: 35.5% is plausibly above the consensus-implied probability and could be a small edge if you believe bookmaker consensus is the best benchmark — but given the low volume and plausible alternative interpretations (favourable draw, private info, or concentrated informed buyer), the edge is modest (~5¢ EV by my estimate) and uncertain.
+
+EXPECTED_VALUE: 5.0
+SUMMARY: Arsenal are alive (beat Mansfield on 7 Mar) and were drawn vs Southampton in the FA Cup quarter-finals (ties Apr 4), but mainstream bookmakers/aggregators generally imply a lower outright chance than this prediction market’s 35.5%. Given low prediction-market volume and dispersion in bookmaker odds, there is modest evidence the market is somewhat over-priced, but not strong, conclusive evidence of a large mispricing.
 CONFIDENCE: medium
 
 ---
@@ -89,32 +90,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Mansfield 1-2 Arsenal: FA Cup fifth round – as it happened](https://www.theguardian.com/football/live/2026/mar/07/mansfield-v-arsenal-fa-cup-fifth-round-live)
-**Author:** The Guardian | **Published:** 2026-03-07
+### [Mansfield 1-2 Arsenal (Mar 7, 2026) Game Analysis - ESPN](https://www.espn.com/soccer/report/_/gameId/401861587)
+**Author:** Unknown | **Published:** 2026-03-07
 
-Live match coverage and report of Mansfield Town 1–2 Arsenal on 7 March 2026. The piece documents the scoreline (Arsenal win 2–1), key events (Madueke, Evans, Eze goals) and explicitly states Arsenal progressed to the FA Cup quarter‑finals. This confirms Arsenal remain in the competition (necessary condition for a YES resolution). It supports the view that Arsenal reached the quarter stage and that a lower‑league side tested them — evidence that cup volatility exists and that Arsenal’s path is not guaranteed.
+Match report and recap of the FA Cup fifth-round tie in which Arsenal beat Mansfield Town to reach the FA Cup quarter-finals. The article confirms Arsenal remain eligible to win the 2025–26 FA Cup (i.e., have not been eliminated). This fact is load-bearing because the market can only resolve YES if Arsenal remain in and then win the Cup; it supports the premise that the market price is a forward-looking probability rather than a stale price after elimination.
 
-### [Saints to host Arsenal in the FA Cup quarter-final](https://www.southamptonfc.com/en/news/article/saints-to-host-arsenal-in-the-fa-cup-quarter-final)
-**Author:** SFC Media | **Published:** 2026-03-09
+### [Emirates FA Cup quarter-final draw has been made](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903)
+**Author:** Unknown | **Published:** 2026-03-09
 
-Official Southampton FC announcement (Mar 9, 2026) confirming Southampton were drawn at home to Arsenal in the Emirates FA Cup quarter‑final. The page lists scheduling window (ties around weekend of April 4) and notes venue changes and fixture rearrangements. This is a primary source confirming the immediate draw and venue (Arsenal away), which matters because an away tie vs a Championship side changes the match‑level upset probability and the interpretation of the prediction‑market price (home advantage increases upset risk).
+Official FA announcement of the FA Cup quarter-final draw and the schedule (quarter-finals weekend of April 4). It lists the pairings, including Arsenal being drawn away to Southampton. This is authoritative for the draw and dates (the FA is the primary resolution source per the market description). A favorable draw (vs a Championship side) is evidence that short-term path probability for Arsenal is improved, which partially supports a higher price, but it does not by itself justify a large >10-point gap versus bookmaker consensus.
 
-### [FA Cup quarter-final draw: Man City face Liverpool, Chelsea vs Port Vale and Arsenal take on Southampton](https://www.skysports.com/football/news/34651/13517171/fa-cup-quarter-final-draw-man-city-face-liverpool-chelsea-vs-port-vale-and-arsenal-take-on-southampton)
-**Author:** Sky Sports | **Published:** 2026-03-09
+### [Emirates FA Cup round dates for the 2025-26 season](https://www.thefa.com/competitions/thefacup/round-dates)
+**Author:** Unknown | **Published:** Unknown
 
-Sky Sports report of the FA Cup quarter‑final draw (Mar 9, 2026) listing the four quarter ties, key dates (quarter‑finals on weekend April 4/5; semi‑finals April 25; final May 16) and context that Arsenal can reach the semis without another Premier League opponent. This source provides bracket context and the calendar pressure that interacts with Arsenal’s Champions League and League Cup commitments, informing how rotation/fixture congestion might lower Arsenal’s single‑match win probabilities.
+Official FA page listing the 2025–26 FA Cup round dates (third round, fifth round, quarter-finals, semi-finals, final). It establishes the tournament timeline (quarter-finals early April, semis late April, final mid-May). This is relevant to timeline/uncertainty assessment — the tournament still requires multiple knockout wins and is therefore subject to high variance; that undercuts extreme certainty about any single outcome and helps explain why many bookmakers give lower implied probabilities than a 35.5% futures price would suggest.
 
-### [FA Cup 2025/26 Odds | BettingOdds.com](https://www.bettingodds.com/football/fa-cup)
-**Author:** Jack Kitson (BettingOdds.com) | **Published:** 2026-03-12
+### [Full FA Cup Fifth Round Draw & Latest Odds to Win Tournament — Oddschecker](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament)
+**Author:** Leon Blackman | **Published:** 2026-02-16
 
-Odds/aggregator page showing current bookmaker prices for the FA Cup outright (updated 12 March 2026). The page lists Arsenal among the favourites with implied probabilities in the low 30% range and compares other contenders. This is important because bookmaker odds represent a separate, professional money market; the similarity between bookmakers (~29–33%) and the prediction market price (35%) is central evidence that the prediction market is not far from public/professional consensus.
+Oddschecker’s roundup and odds table showing bookmaker best-prices and where Arsenal sit in the outright FA Cup market (Arsenal listed among the favourites with best odds noted; examples include Arsenal shown around 7/2 or similar best prices at the time). This aggregated bookmaker snapshot is the primary benchmark used to compare the prediction-market price; the book odds imply a generally lower outright probability than 35.5% (typical implied probabilities in the ~18–28% band depending on the book), which is the main evidence suggesting the prediction market might be modestly over-priced.
 
-### [FA Cup Winner Betting Odds 2025/26 (odds roundup)](https://bettinglounge.co.uk/odds/football/fa-cup/winner/)
-**Author:** Unknown | **Published:** 2026-03-12
+### [Arsenal 1-0 Chelsea (Feb 3, 2026) Game Analysis - ESPN (Carabao/League Cup semi/final context)](https://www.espn.com/football/report/_/gameId/401842435)
+**Author:** Unknown | **Published:** 2026-02-03
 
-BettingLounge aggregated listing of FA Cup outright prices (snapshot as of 12 March 2026) showing Arsenal as the favourite in some panels with an implied probability around ~29–30% on certain books. This corroborates the betting‑market anchor that places Arsenal close to the prediction market’s price; the small gap (a few percentage points) frames the plausible magnitude of mispricing.
-
-### [Arsenal vs Chelsea live: Result and reaction from Carabao Cup semi-final](https://www.independent.co.uk/sport/football/arsenal-chelsea-tv-channel-live-stream-carabao-cup-b2912548.html)
-**Author:** Chris Wilson | **Published:** 2026-02-04
-
-Report of Arsenal winning the Carabao (EFL) Cup semi and securing a place in the March League Cup final (Wembley date late March). This source shows Arsenal’s involvement in multiple cup competitions (EFL Cup final, Champions League) and therefore supports the argument that fixture congestion/rotation is a real, contemporaneous factor that can affect Arsenal’s FA Cup match‑to‑match win probability — something market participants should and do consider.
+Match report covering Arsenal’s domestic cup progression (context around League/Carabao Cup run). It shows Arsenal are competing deep in multiple competitions (domestic cups, Premier League title race, and European competition), which both supports them being favorites (strong squad) and raises the fixture-congestion risk that can increase upset probability in knockout matches. This contextual evidence helps explain why bookmakers apply a variance discount to outright futures relative to a simple “team-quality” estimate.

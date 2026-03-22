@@ -1,92 +1,137 @@
 # Research: Will John James win the 2026 Michigan Governor Republican primary election?
 
 **Market ID:** 0xbc63ab257269b6d88696a7c395c22a032dd8bcaec0f20b22083ac17dd8a9221c
-**Researched At:** March 10, 2026 at 04:18:24 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will John James win the 2026 Michigan Governor Republican primary election?"
+**Researched At:** March 22, 2026 at 04:30:18 AM UTC
+**Search Query:** "Will John James win the 2026 Michigan Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 9.6¢
 
 ### Summary
 
-Current research provides no direct GOP-primary polls and flags James’s vulnerabilities against well-funded rivals, suggesting his win probability is likely below 62.5%. Low volume implies this price may reflect a single trader’s “name recognition” thesis rather than a broad consensus.
+Public polling (Mitchell/MIRS, Nov 2025) shows John James a strong plurality in the GOP primary and his campaign plus allied super PACs have large resources (including reported DeVos family donations), which supports a high win probability. But 33% undecided in the poll, activist straw‑poll strength for rivals, and other well‑funded campaigns imply material upside risk for challengers; 76% looks somewhat optimistic though not implausible.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks: “Will John James win the August 4, 2026 Michigan Republican gubernatorial primary?” YES means James emerges as the plurality winner of that primary (including any run-off, if triggered). NO covers any other candidate winning or no primary occurring.
+Plan & scope
+- I used web research (3 bundled queries) to check the best publicly-available evidence bearing on whether U.S. Rep. John James is likely to win the 2026 Michigan Republican gubernatorial primary. I focused on: (a) recent polling, (b) fundraising and outside spending (esp. super PAC support), (c) other declared GOP candidates’ strength and organization, and (d) any campaign controversies that could move the race. I excluded prediction-market sites per your instruction and relied on local/state news and the primary poll PDF.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence (supporting ~62.5%):  
-• James is the early GOP frontrunner with name recognition, a national profile, and substantial fundraising. In a crowded primary, frontrunners often consolidate enough support to win a plurality.  
-• Low trading volume could reflect that insiders view James as the inevitable choice, so few participants felt compelled to trade.
+1) CONTEXT ANALYSIS
+- What the market asks: “Will John James win the 2026 Michigan Governor Republican primary?” The market resolves to YES if John James is the official overall winner of the Republican primary for governor (as announced by the Michigan Republican Party or by an overwhelming consensus of credible reporting). It resolves NO if any other named Republican wins, or “Other” if no such primary is held.
+- What must happen for YES vs NO: James must receive the most votes in the Republican primary (including any runoffs if the party’s official rules or the market’s resolution text treat them as part of the contest). If he fails to top the field on August 4, 2026 (or in any accepted subsequent run-off), the market resolves NO.
 
-Bearish evidence (undermining ~62.5%):  
-• No GOP-primary–specific polling in the research. All cited polls gauge a three-way race including Democrats/independents, so they don’t directly translate to primary voting.  
-• The Gambit model emphasizes high early-cycle uncertainty and makes no strong projection for James.  
-• Analysis (mlive, Kaffer) flags that James’s support among key Republican demographics (e.g., suburban women, metro Detroit Republicans) is untested or problematically low, and that better-funded rivals are mobilizing early.  
-• A 33.8% plurality in open-field polls suggests a win probability well below 62.5% once turnout and intra-party dynamics are considered.
+2) EVIDENCE EVALUATION (all relevant evidence found)
+Summary of the high-load evidence I located:
+- Polling (Mitchell Research / MIRS, Nov. 18–21, 2025): John James led GOP primary voters at 48% with Mike Cox at 11%, Tom Leonard 5%, Aric Nesbitt 2%, and 33% undecided (GOP subsample N=255, MOE ≈ 6.13%). This is the clearest public poll showing James as the frontrunner. (Mitchell Research poll PDF). This strongly supports James as the leading candidate at that snapshot in time, but the large undecided share implies considerable room for movement.
+- Fundraising and outside spending (Bridge Michigan / BridgeDetroit reporting): James’ campaign and allied super PACs have raised substantial funds; his campaign reported roughly $2.3M in the referenced filing period and Mission Michigan (a supporting super PAC) reported multi‑million-dollar inflows — Bridge reporting cites a combined $5M from Dan & Pam DeVos to a super PAC supporting James and Mission Michigan holding several million to spend. Large outside spending can help build and sustain a statewide lead. This supports a high probability for James if the spending is deployed effectively and early. (Bridge Michigan / BridgeDetroit).
+- Endorsements / visibility: High-profile endorsements (example: Kid Rock publicly endorsed James in Feb 2026) and James’ prior statewide name recognition from two U.S. Senate campaigns support his visibility advantage. (Fox News).
+- Competitors’ strengths: Other Republicans are active and have resources. Mike Cox has been raising and deploying meaningful funds and reportedly has significant cash on hand. Aric Nesbitt has organization among party activists (e.g., he led the Michigan GOP leadership conference straw poll). Some reporting shows James ranked fourth among that activist straw poll at Mackinac (which is a useful indicator of party-activist preferences). Those data points indicate nontrivial competition and possible weaknesses in James’ grassroots organization. (CBS Detroit; SBAM/MIRS straw-poll reporting).
+- Controversies: An ethics complaint alleging James used official resources for campaign purposes (backpack event) was filed Aug 2025 and is reported in local press. Such complaints can matter — either politically or via media cycles — but an allegation alone is not the same as enforcement or a sanction. (Michigan Independent).
 
-Source credibility and recency: All sources date from February/March 2026 and come from recognizable state-level analysts and polling/forecasting outfits. None claim direct GOP-primary polling, reducing their applicability.
+Detailed evaluation
+- Evidence that suggests the market price (76%) might be too high:
+  - The strongest public poll still places 33% of GOP primary voters as “not sure” (Nov 2025 MIRS). That is a large undecided bloc that could break toward well-funded competitors (Cox, Nesbitt, Leonard) as the campaigns spend on persuasion and ground game — especially with months to the August 2026 primary.
+  - Party-activist signals (Mackinac straw poll) showed Aric Nesbitt and Tom Leonard doing well relative to James among GOP activists; James was not dominant in activist spaces where primary turnout tends to be concentrated. If activists coalesce behind another candidate, that can swing a primary.
+  - Competitors’ cash and willingness to self-fund: Mike Cox has put significant personal funds in and reportedly has substantial cash-on-hand; a well-funded challenger with an aggressive ad/ground plan can close gaps, particularly into a high-uncertainty undecided pool.
+  - Low market volume ($3,061) + tight spread (4¢) suggests the price could be set by a small number of traders rather than by broad liquidity. That raises the possibility the market is overstating consensus (a few traders may be “pushing” a high price).
+  - Ethics complaint and media criticism (documented) create downside risk — not necessarily decisive but material if amplified.
 
-3. MARKET EFFICIENCY ANALYSIS  
-• 62.5% could represent a simple “frontrunner bonus” applied by one or two traders assuming name recognition easily converts to victory.  
-• The zero total volume suggests a thin market: price may reflect a single high-conviction participant’s view rather than broader consensus.  
-• Conversely, the lack of trading might mean insiders see no easy arbitrage, interpreting current information as a roughly 60–65% chance.
+- Evidence that supports the market price (76%):
+  - The Mitchell/MIRS poll (Nov 18–21, 2025) showed James with a substantial plurality (48%) — far ahead of the nearest named rival (Cox 11%) at that time. A near‑50% share of likely primary voters is a strong lead for this stage of a primary.
+  - Major outside funding (Mission Michigan super PAC with multimillion-dollar support including reported DeVos family donations) materially increases James’ ability to spend statewide, build organization, and define the narrative before opponents can catch up. Outsider mega-donors historically have large effects on primaries when concentrated early.
+  - Name recognition: James has statewide name recognition from prior senate bids and as a current Congressman; that often translates into a durable early primary lead and makes him more resilient to late surges.
+  - Local reporting (BridgeDetroit) specifically characterizes James as the frontrunner in fundraising and polling; if multiple local outlets and campaign filings point to James’ resource/visibility advantage, that plausibly justifies a high market-implied probability.
 
-4. MISPRICING ASSESSMENT  
-• The evidence lacks clear GOP-primary polling or modeling to justify a >60% win probability for James.  
-• Given a reported ~34% plurality in general electorate polls—likely lower among the more conservative primary electorate—James’s true winning odds may be closer to 30–45%.  
-• There’s no strong, GOP-primary–specific bullish data missing from the price; rather, bearish signals (fundraising, vote share fragility, competitive opponents) seem under-weighted by the market.  
-• A mispricing of ~15–20 cents seems plausible but uncertain given the early cycle. A conservative estimate is ~10 cents.
+- Source credibility and recency:
+  - Mitchell Research / MIRS poll PDF (Nov 18–21, 2025) — direct primary poll data, methodology included, credible but sample of GOP primary voters relatively small (N=255, MOE ≈ 6.13%). High credibility for polling snapshot but limited by sample size and time.
+  - Bridge Michigan / BridgeDetroit fundraising coverage — solid statewide reporting on campaign filings; credible for finance figures and reported super PAC donations.
+  - CBS Detroit / other local outlets — reputable local coverage for candidate announcements and campaign background.
+  - SBAM (reposting MIRS straw poll) — reports on activist straw poll with a specific audience (conference attendees) that is useful but not a statewide, representative sample.
+  - Michigan Independent — local investigative reporting on ethics complaint, credible for documenting the complaint and allegations (not a conclusion of wrongdoing).
 
-5. EXPECTED VALUE CALCULATION  
-• Strength of evidence that the market is too high: ~40% (moderately convincing but based on indirect polling).  
-• Estimated magnitude of mispricing: ~10 cents.  
-→ Expected value = 0.4 × 10c = 4 c.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations that justify 76%:
+  - Traders could be pricing in (a) the November poll as durable and (b) the expected heavy lift the super PAC will do during the decisive weeks/months, plus James’ superior name recognition. If traders believe outside spending + name ID will convert undecideds to James, a 0.76 probability can be defendable.
+  - A view that the main GOP base (including suburban voters and less-ideological primary voters) prefers a nominee with general‑election competitiveness (James is often framed that way) could lead informed traders to tilt heavy toward James.
+- Reasons the price could reflect only a few traders:
+  - Low total trading volume ($3,061) and relatively shallow market depth make it plausible that a single liquidity provider or small group set the price and other traders have not engaged to correct it.
+- Why volume might be low:
+  - The contract is moderately long-dated (primary Aug 2026) and is niche (state GOP primary) — many prediction-market traders prioritize higher-volume national contests. The combination of long time-horizon and a crowded race may deter active arbitrage.
+  - It’s not obvious/uncontroversial — the large undecided share and strong possible challengers mean many knowledgeable traders might watch rather than trade early.
 
-EXPECTED_VALUE: 4  
-SUMMARY: Current research provides no direct GOP-primary polls and flags James’s vulnerabilities against well-funded rivals, suggesting his win probability is likely below 62.5%. Low volume implies this price may reflect a single trader’s “name recognition” thesis rather than a broad consensus.  
+4) MISPRICING ASSESSMENT
+- Balance of the evidence:
+  - Public poll + large outside money = strong support for James and is the primary factual basis for a near-favored market price.
+  - However, the large undecided share (33%), the activist/straw-poll signals (Nesbitt doing well among activists), and muscle from other well-funded campaigns (Cox, Nesbitt transfers, etc.) mean substantial upside risk for challengers before the August primary.
+- Is there specific, credible evidence missing from the market price?
+  - Not obviously. The market price appears to reflect James’ frontrunner status (polling + big outside backing). What might be missing from a trader’s perspective are the structural signals that favor challengers in primaries (activist enthusiasm, organization, ability to close undecideds late) and the chance that super PAC money, while large, may be spent ineffectively or attract backlash.
+- Critical check (if concluding a large mispricing):
+  - I do not find evidence of a guaranteed resolution or an already-completed qualifying event that would make the 76% obviously wrong. The poll is public and the finance filings are public; the market seems to be pricing that public information rather than an unseen certainty. Large (>20¢) mispricings would require either an overlooked disqualifying factor or a clear campaign collapse not in the public record — I didn’t find such a deterministic event.
+- Conclusion on mispricing:
+  - The market price (76%) seems somewhat optimistic for James but not obviously fatally mispriced. A reasonable, defensible estimate of James’ win probability given available public evidence is lower than 76% but still substantially above 50% — I estimate a fair probability in the 55–65% range today. Therefore there is a modest overpricing, but not an extreme or clearly arbitrageable mispricing absent additional private information.
+
+5) EXPECTED VALUE CALCULATION (your requested numeric EV estimate)
+- My point estimate of the likely true probability: ~60% (i.e., market 76% minus a plausible overpricing ≈ 16 percentage points).
+- Magnitude of mispricing (cents): 16 cents.
+- Strength of evidence (how confident I am that evidence supports a mispricing): medium — I assign 60% strength (because the public poll + finance data are persuasive but imperfect, and there’s significant runway for volatility).
+- Expected value (Strength × Magnitude) = 0.60 × 16 cents = 9.6 cents.
+
+6) CONFIDENCE
+- My overall confidence in this assessment: medium.
+
+BOTTOMLINE RECOMMENDATION (concise)
+- There is credible public evidence (a late‑2025 MIRS poll, strong super PAC backing and campaign fundraising) that John James is the frontrunner in the Michigan Republican gubernatorial primary. That evidence justifies a materially above‑50% probability. However, the large undecided share in the poll, evidence of activist support for other Republicans (straw poll) and other candidates’ war chests make a 76% market price look somewhat optimistic. I estimate a smaller overpricing (≈16¢), giving an expected-value signal of about 9.6¢ to an investigator/trader with no additional private information. Given low market volume and the long time until the primary, the market could easily move; this is not a slam‑dunk arbitrage.
+
+EXPECTED_VALUE: 9.6
+SUMMARY: Public polling (Mitchell/MIRS, Nov 2025) shows John James a strong plurality in the GOP primary and his campaign plus allied super PACs have large resources (including reported DeVos family donations), which supports a high win probability. But 33% undecided in the poll, activist straw‑poll strength for rivals, and other well‑funded campaigns imply material upside risk for challengers; 76% looks somewhat optimistic though not implausible.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Gambit Forecaster: March 2026 Report on Senate and Governor Races - Gambit Forecaster
-Author: Sam Massey
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://gambitforecaster.com/2026/02/28/march-report/
-Summary: The March 2026 Gambit Forecaster report primarily analyzes Senate and gubernatorial races, emphasizing that the 2026 midterms are still in early calibration with primary elections beginning soon. Regarding Michigan, the report notes that gubernatorial races generally remain within stable partisan environments, with candidate fields and polling still evolving. While specific predictions for individual primaries like Michigan's Republican gubernatorial race are not detailed, the model indicates that early in the cycle, fundamental factors and candidate effects dominate, and uncertainty remains high. The recent methodological updates—such as improved polling data calibration and the inclusion of regional state blocs—aim to better capture potential shifts, but at this stage, no definitive prediction can be made about John James's chances in the Michigan Republican primary.
+### [Mitchell - MIRS - Michigan Poll (N=616 LV’s) (Mitchell Research & Communications, conducted Nov. 18–21, 2025)](https://mirs-polls.s3.us-east-2.amazonaws.com/c7ba70f28c3812c553cbf07db509f469.pdf)
+**Author:** Mitchell Research & Communications / MIRS (sponsored) | **Published:** 2025-11-18
 
-Title: Benson, James and Duggan locked in tight 2026 Michigan Governor race
-Author: 
-Published Date: 2026-02-27T00:00:00.000Z
-URL: https://arabamericannews.com/2026/02/27/benson-james-and-duggan-locked-in-tight-2026-michigan-gubernatorial-race/
-Summary: The 2026 Michigan gubernatorial race is highly competitive, with polls showing varying results among leading candidates. U.S. Rep. John James is currently considered the frontrunner among Republicans based on multiple polls, including one indicating he leads with approximately 33.8% support. However, internal and external polls show differing levels of support for James, Benson, and independent candidate Mike Duggan. The race remains unpredictable, with some polls suggesting Duggan's rising popularity and others favoring James. Ultimately, the outcome of the Republican primary will depend on voter turnout and campaign dynamics leading up to the August primaries.
+This 13‑page poll PDF reports the GOP primary snapshot (GOP subsample N=255): John James 48%, Mike Cox 11%, Tom Leonard 5%, Aric Nesbitt 2%, and 33% undecided (MOE ≈ 6.13% for GOP subsample). It also includes methodology and cross-tabs. This is the single most consequential piece of evidence for James’ frontrunner status; it supports a strong early lead but shows a very large undecided block that creates room for challengers, so it both supports and limits confidence in a very-high market price.
 
-Title: What new Mich. governor poll says about Duggan, Benson, James |Opinion
-Author: Nancy Kaffer
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://www.freep.com/story/opinion/columnists/nancy-kaffer/2026/02/26/duggan-benson-james-latest-michigan-governor-poll-analysis/88846971007/
-Summary: A recent Michigan gubernatorial poll indicates that U.S. Rep. John James currently has 0% support among Black voters in a three-way race with Democrat Jocelyn Benson and independent Mike Duggan. Duggan leads slightly overall, with a small margin over both candidates, though within the poll's margin of error. James is losing support among key demographics, including Black voters, independents, women, and metro Detroit residents. Duggan's campaign has gained momentum since leaving office, especially in Wayne, Oakland, and Macomb counties, and appears to be pulling votes from both parties, potentially impacting Benson more than James. While these results are preliminary, they suggest James faces significant challenges in securing broad support, particularly among Black voters and key swing demographics, which could influence his prospects in future statewide races, including the 2026 Republican primary.
+### [In Michigan first, independent Mike Duggan leads governor fundraising race](https://bridgemi.com/michigan-government/michigan-first-independent-mike-duggan-leads-governor-fundraising-race/)
+**Author:** Jonathan Oosting (Bridge Michigan) | **Published:** 2025-07-28 (article updated)
 
-Title: The Michigan governor’s race is a toss-up. These three things could decide the outcome.  - mlive.com
-Author: Matthew Miller | mmiller@mlive.com
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://www.mlive.com/politics/2026/02/the-michigan-governors-race-is-a-toss-up-these-three-things-could-decide-the-outcome.html
-Summary: The 2026 Michigan Republican primary for governor appears competitive, with U.S. Congressman John James leading in polls largely due to name recognition rather than demonstrated popularity. His early lead is considered "hollow" by political strategists, as he has not faced significant opposition until now and has limited campaign activity. Several of his Republican opponents—former Attorney General Mike Cox, Oakland County businessman Perry Johnson, and State Senate Minority Leader Aric Nesbitt—have substantial campaign funds and are actively campaigning, which could challenge James's lead. Historically, James's previous statewide campaigns suggest his support may not be as strong as polls indicate, raising questions about his ability to withstand a serious challenge in the primary.
+Bridge Michigan summarizes 2025 campaign finance filings. It reports James’ campaign committee figures (~$2.3M in the referenced period) and details that Mission Michigan (a super PAC supporting James) received a combined $5M from Dan and Pam DeVos (editor’s update). It explains the separation between candidate committee receipts and outside-super-PAC money — a critical nuance because super PAC spending can reshape a primary but cannot coordinate directly with the campaign. This source supports the interpretation that James has heavyweight outside backing and funding — a strong argument for a high win probability — while also showing that the money sits partly outside the campaign (with coordination limits).
 
-Title: The State of the Race: Michigan 2026 Election Master Rundown
-Author: 
-Published Date: 2026-02-26T00:00:00.000Z
-URL: https://michiganrepublicanprimary.com/mi-2026-elections-state-of-the-race/
-Summary: The webpage primarily discusses the 2026 Michigan election landscape, focusing on key races and political strategies. It highlights a competitive and volatile environment, especially in the gubernatorial race to succeed Gretchen Whitmer, with Detroit Mayor Mike Duggan emerging as a significant contender. Duggan's recent controversial statements—particularly his attack on Democratic lawmakers over school funding and transgender athlete legislation—are portrayed as part of a broader Republican effort to weaken Democratic frontrunners. The race is characterized by intense political maneuvering, with Republicans aiming to capitalize on Democratic vulnerabilities. While the summary emphasizes Duggan's role and strategies, it does not provide specific information about John James's prospects or whether he will win the Republican primary for governor.
+### [Benson, James, Duggan grow money momentum in Michigan governor race](https://www.bridgedetroit.com/benson-james-duggan-grow-money-momentum-in-michigan-governor-race/)
+**Author:** Jonathan Oosting / BridgeDetroit | **Published:** 2026-02-XX (published recent; site lists as "last month" when crawled)
 
+BridgeDetroit (same reporting group) gives further detail on donor counts, super PAC balances, and campaign cash-on-hand. It notes Mission Michigan’s balance and donors and that James had many small donors and higher in-state donor counts, further supporting James’ competitive fundraising profile. This corroborates Bridge Michigan’s reporting and bolsters the case for James’ resource advantage (supports the market price).
 
+### [SCOOP: Trump ally Kid Rock jumps into key governor's race with high-profile endorsement](https://www.foxnews.com/politics/scoop-trump-ally-kid-rock-jumps-key-governors-race-high-profile-endorsement/)
+**Author:** Paul Steinhauser | **Published:** 2026-02-08
+
+Fox News reports Kid Rock’s public endorsement of John James (Feb 8, 2026) and summarizes James’ status as the clear polling frontrunner at that time. This item is relevant because high-profile endorsements increase name recognition and media attention, supporting James’ frontrunner narrative and plausibly helping him hold/expand a polling lead in primary electorates.
+
+### [Ethics complaint alleges John James misused government resources in campaign for governor](https://michiganindependent.com/politics/ethics-complaint-john-james-campaign-governor-misuse-taxpayer-funds-house-representatives/)
+**Author:** Alyssa Burr | **Published:** 2025-08-29
+
+The Michigan Independent documents an ethics complaint filed Aug. 22, 2025, alleging James used congressional resources for campaign purposes (example: an event publicized on congressional letterhead where campaign-branded materials appeared). This is relevant because while an allegation alone is not determinative, it creates downside reputational risk and a possible media cycle that could erode support — hence a factor that argues against treating James’ lead as locked in.
+
+### [Nesbitt Leads The MI GOP’s Conference Straw Poll For ’26 Candidates For Governor (SBAM repost of MIRS)](https://www.sbam.org/nesbitt-leads-the-mi-gops-conference-straw-poll-for-26-candidates-for-governor/)
+**Author:** Article courtesy MIRS News (posted on SBAM) | **Published:** 2025-09-23
+
+This report on the Michigan Republican Leadership Conference (Mackinac) straw poll (492 attendees) shows Aric Nesbitt leading among conference attendees (29.2%) with John James at 13.8% in that straw‑poll. This is a measure of activist/insider sentiment and suggests James’ lead in public polling does not necessarily translate into activist enthusiasm; activist dynamics matter in primaries and provide a credible challenge pathway to James.
+
+### [Former Michigan Attorney General Mike Cox running for governor in 2026 race](https://www.cbsnews.com/detroit/news/mike-cox-running-for-michigan-governor-in-2026/)
+**Author:** Paula Wethington (CBS Detroit) | **Published:** 2025-04-15
+
+CBS Detroit reports Mike Cox’s candidacy and background and lists him among major declared GOP candidates. Other coverage (and Cox’s campaign filings) show Cox has raised and/have access to substantial funds and has self‑funding capacity. This is relevant because Cox is the primary named challenger with demonstrated statewide experience and resources capable of closing gaps in a primary, weakening a case for an extremely high probability for James.
+
+### [Meet the Republican Candidates for Michigan Governor (2026) — MichiganRepublicanPrimary.com (compilation)](https://michiganrepublicanprimary.com/meet-the-republican-candidates-for-michigan-governor-2026/)
+**Author:** Unknown (site page) | **Published:** 2026-01-26 (updated)
+
+Aggregated candidate list and summary that cites the Mitchell/MIRS poll (John James 48% GOP primary) and lists the field (including James, Mike Cox, Aric Nesbitt, Tom Leonard, Ralph Rebandt, others). This compilation is useful as a consolidated list of candidates and as a pointer to the MIRS poll result used above; it corroborates the field composition used in the analysis.

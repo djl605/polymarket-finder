@@ -1,90 +1,97 @@
 # Research: Will Perena launch a token by September 30, 2026?
 
 **Market ID:** 0x69a30a6c658daa22a8505595b0766c84b7d957138ca11268651e84e2f3c87c28
-**Researched At:** March 6, 2026 at 04:17:45 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Perena launch a token by September 30, 2026?"
+**Researched At:** March 22, 2026 at 04:30:48 AM UTC
+**Search Query:** "Will Perena launch a token by September 30, 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 0.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Research shows Perena’s active stablecoin integrations but no announcement or roadmap point for a governance token launch by September 2026. With no clear trigger dates and long uncertainty, the 57% market price appears reasonable and shows no obvious mispricing.
+Perena publicly runs a Petals points program but has not published a firm tokenomics/TGE date or a live tradable governance token; community trackers likewise show no live token. Given that, the market price (~54%) is plausible but weakly supported (low liquidity), and I find insufficient specific evidence to conclude a large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Perena will have an actively transferable, tradable governance token by 11:59 PM ET on September 30, 2026. A “Yes” requires Perena to announce, deploy, and list the token so that market participants can buy/sell it on a public venue by that deadline; otherwise it resolves “No.”
+Plan & search summary
+- Questions I needed answered: (a) Does Perena have an announced token-generation event (TGE) or published tokenomics with a timetable that would meet the market’s resolution (transferable/tradable governance token on or before 2026-09-30)? (b) What on-chain / third‑party evidence (listings, CoinGecko/CoinMarketCap, DeFi dashboards) shows a live token already exists? (c) What signals (points/airdrop programs, team/backers, roadmap) imply a likely TGE timing?
+- I used three web searches focused on Perena’s official site and reputable airdrop/project trackers to answer those questions.
 
-2. EVIDENCE EVALUATION  
-Bullish signals  
-• Perena is active on cross-chain work: its USD* stablecoin was integrated onto Monad (Wormhole, Feb 2026), demonstrating technical capacity and partnerships that could extend to a governance token.  
-• The broader Ethereum ecosystem remains vibrant, with ongoing DeFi and token launches suggesting a supportive environment for governance tokens.  
+1) CONTEXT ANALYSIS
+- Market question: “Will Perena launch a token by September 30, 2026?”
+- Resolution mechanics (from the market description): must be an official Perena launch of a governance token that is actively and publicly transferable and tradable by 11:59 PM ET on 2026‑09‑30. Announcements alone do not qualify; the token must in fact be transferable/tradable. Primary resolution source: Perena communications; secondary: consensus credible reporting.
+- For YES: Perena (or an official Perena channel) must execute a TGE and that token must be actually listed or otherwise publicly transferable/tradable (DEX/CE listing, CoinGecko/CoinMarketCap entries, or verifiable transferability on-chain) by the deadline. For NO: no such transferable/tradable governance token exists by the deadline (even if there are announcements or a planned timetable, announcements alone do not qualify).
 
-Bearish/neutral signals  
-• No press release, roadmap update, or CryptoRank listing explicitly schedules a Perena governance token TGE before September 2026.  
-• Related articles cover Perceptron’s PERC airdrop and Aster’s ASTER token—but these are distinct projects, not Perena.  
-• The Ethereum ecosystem milestones are positive but generic; none mention Perena’s governance token timeline.  
+2) EVIDENCE EVALUATION (all claims supported with sources)
+A. Evidence that argues the market’s ~54% probability might be too high (i.e., evidence favoring NO / delayed launch)
+- No official TGE or tokenomics with a launch date is published by Perena in public, official channels as of the latest communications I found. Perena’s site describes an ongoing rewards/points campaign (Petals) and a pre‑season boost, but does not announce a live governance token or a firm TGE date. ([perena.org](https://perena.org/articles/perena-pre-season-rewards-program?utm_source=openai))
+- Multiple airdrop trackers and aggregator writeups list Perena’s Petals program and explicitly state that Petals are a points/farming system (not yet a token) and that a TGE has not been confirmed; some trackers note Season 1 activity and that the program could be extended rather than followed immediately by a TGE. These sources report no evidence of a live, tradable governance token or post‑TGE listing. ([coinlaunch.space](https://coinlaunch.space/events-contests/perena-airdrop/?utm_source=openai))
+- The public-facing signals (Petals earning, badges, Season 1) are consistent with community-building and an “earn first, airdrop later” strategy; historically that pattern often stretches timelines (season extensions, additional snapshots) rather than delivering a fast TGE on an exact timetable. Aggregators explicitly note that Petals are not yet tokens and TGE timing is uncertain. That weakens a high‑confidence forecast of a token already being tradable by Sep 30, 2026. ([coinlaunch.space](https://coinlaunch.space/events-contests/perena-airdrop/?utm_source=openai))
 
-Source credibility/recency  
-• Wormhole integration (Feb 2026) is credible and recent but only covers a stablecoin.  
-• CryptoRank and LinkedIn posts are reliable industry sources but lack token-launch specifics for Perena.  
+B. Evidence that argues the market’s probability might be reasonable or even low (i.e., evidence favoring YES / earlier launch)
+- The Petals program is an explicit, public program run by Perena (Perena’s own writeup describes pre‑season rewards and Season 1 activity), which is typically the kind of preparatory campaign teams run prior to an eventual token/airdrop. That makes a future token plausible (but not certain) and supports the idea that a TGE could happen within the 2026 window if the team decides to convert Petals into a token/a distribution. ([perena.org](https://perena.org/articles/perena-pre-season-rewards-program?utm_source=openai))
+- Community and airdrop-hunter writeups expect Petals to be convertible into an airdrop / token in the future; that community expectation could be reflected in a market price above 50%. In other words, reasonably informed participants may price in a >50% chance that Perena will convert its long‑running points program into a token within the next ~6 months. ([airdropguild.com](https://airdropguild.com/perena-airdrop-how-to-farm-this-stablecoin-liquidity-layer-on-solana/?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-• A 57% price reflects moderate confidence, balancing Perena’s active development against no public token-launch schedule.  
-• Zero volume and a tight spread suggest price set by few participants or automated bots rather than broad liquidity.  
-• Low engagement could mean informed traders aren’t convinced there’s a clear timeline or opportunity to arbitrage.  
+C. Credibility & recency
+- The strongest source is Perena’s official site/app (official blog/article about the Petals pre‑season program). It’s primary and directly relevant for declarations about program status. ([perena.org](https://perena.org/articles/perena-pre-season-rewards-program?utm_source=openai))
+- Aggregator/tracker sites (CoinLaunch, DropsTab, AirdropGuild) are secondary, hobbyist/professional trackers that compile token/airdrop information; they are useful for showing the absence of any listing or TGE report and for community expectations, but they are not official project communications and sometimes lag or repeat community rumors. Use them to detect absence of evidence (no token listed anywhere), not as definitive proof. ([coinlaunch.space](https://coinlaunch.space/events-contests/perena-airdrop/?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-• No concrete evidence is missing from the current price; nothing in the research definitively moves probability far above or below ~50%.  
-• Given the long horizon (nearly seven months remaining), default uncertainty supports a mid-range probability.  
-• There are no signs of a large (>20¢) mispricing; traders likely agree there’s a plausible chance but lack headline commitments.  
+D. Balanced interpretation (bull/bear)
+- Bull case (supports YES): Perena runs an active, public points program (Petals) that appears designed to be convertible to future token distributions; team/backer signals and the common DeFi pattern of “farm points then airdrop” make a TGE within ~6–12 months plausible, so a >50% market probability is defensible as a market-implied consensus that Perena will execute. ([perena.org](https://perena.org/articles/perena-pre-season-rewards-program?utm_source=openai))
+- Bear case (supports NO): There is no official TGE date, no published tokenomics, and no live token or exchange listings visible in public trackers; the project has publicly emphasized product and community programs rather than tokenomics, and such projects commonly delay TGEs. That raises genuine doubt that a tradable governance token will exist by 2026‑09‑30. ([perena.org](https://perena.org/articles/perena-pre-season-rewards-program?utm_source=openai))
+- Important caution: if the market is treating Petals as a nearly‑certain precursor to an imminent TGE, that could be over‑confident—Petals programs are frequently extended or converted on different schedules. The absence of a formal TGE/treemetrics/tokenomics is the single strongest piece of evidence against an imminent tradable governance token.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence that price is mispriced: ~10% (scant specific directional info)  
-Magnitude of mispricing: ~0¢ (no actionable edge)  
-Expected value = 10% × 0¢ = 0¢  
+3) MARKET EFFICIENCY ANALYSIS
+- Plausible charitable interpretation of the 54% price: traders have priced in that Perena has a real roadmap to a governance token (Petals → token conversion) and that the team and community incentives make a TGE by Sept‑30‑2026 reasonably likely (>50%), but not certain — hence a mid‑50s price.
+- Alternative, more skeptical interpretation: with $0 total traded volume, this price may reflect one or a few participants setting a mid‑50s price (a default/optimistic view), rather than a consensus of many independent informed traders. Low volume + tight spread can occur when a market maker or single trader posts the spread but no one trades; it does not validate the price as strongly aggregated information.
+- Is the low volume because the outcome is obvious? No — the outcome is not obvious: Perena has an ongoing points program but no confirmed TGE. Low volume is more consistent with a niche event (token launch date for a single protocol) that many informed traders either don’t care about or haven’t researched, so the market may not have attracted liquidity from people who would correct mispricing.
+- Verdict on reliability: the current price is weak evidence of a true crowd consensus; it plausibly reflects an informed expectation that Petals will be converted in the medium term, but there is significant uncertainty around timing and the “transferable & tradable” resolution condition.
 
-EXPECTED_VALUE: 0  
-SUMMARY: Research shows Perena’s active stablecoin integrations but no announcement or roadmap point for a governance token launch by September 2026. With no clear trigger dates and long uncertainty, the 57% market price appears reasonable and shows no obvious mispricing.  
+4) MISPRICING ASSESSMENT
+- Is there credible, specific evidence missing from the market price such that the market is materially mispriced? No strong, specific missing evidence was found. The key facts (official Petals program; no TGE announcement; absence of token listings) are publicly visible and likely already known to any trader who would care.
+- The market’s mid‑50s price is therefore within a plausible range given the evidence: it reflects possible conversion of Petals to a token before Sept‑30‑2026, but also leaves substantial room for delay/no TGE. I did not find authoritative evidence (official TGE date, published tokenomics, exchange onboarding schedule, or on‑chain token transfers/listings) that would justify a confident claim the market is off by a large amount (>20¢).
+- Critical check: I verified the resolution criteria (token must be transferable/tradable and Perena communications are the primary source). Given no official TGE date, a conservative assessment is that the market is not clearly mispriced; the available public evidence mostly concerns a preparatory points program, not an executed token launch.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that price is missing something material: moderate-to-low. There is credible public evidence that supports both outcomes (points program makes a future token plausible; but absence of tokenomics means timing is uncertain). I estimate Strength = 30% (i.e., 30% confidence that there is missing material information that would change the market price meaningfully).
+- Magnitude of possible mispricing (how big an error would I expect if the market were wrong): small — the event is binary but timing uncertainty is medium; a realistic plausible error would be on the order of 5–15 cents, not huge. I estimate a plausible magnitude = 10 cents.
+- Expected value = Strength × Magnitude = 0.30 × 10 cents = 3.0 cents expected value.
+
+6) CONFIDENCE
+- My confidence in this assessment: medium. The official Perena channel confirms Petals and absence of a TGE announcement (primary evidence), but community trackers and the protocol space are noisy and project plans can change; more up‑to‑date official announcements between now and Sep 30, 2026 could change the picture.
+
+Final judgment (short): There is not enough specific, credible public evidence to conclude a clear mispricing. The market price (54%) is plausible given the public Petals program and community expectations, and the lack of any firm TGE announcement means a rational Bayesian would keep a non‑negligible probability on NO. Low trading volume means price should be treated with caution — it may reflect few participants rather than a broad consensus.
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Perena publicly runs a Petals points program but has not published a firm tokenomics/TGE date or a live tradable governance token; community trackers likewise show no live token. Given that, the market price (~54%) is plausible but weakly supported (low liquidity), and I find insufficient specific evidence to conclude a large mispricing.  
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Ethereum Ecosystem Achievements: Apps, Launches, and Records
-URL: https://www.linkedin.com/posts/ethereum_apps-product-launches-and-all-time-highs-activity-7369788563112001537-ioh7
-Summary: The Ethereum ecosystem has recently achieved significant milestones, including the launch of private on-chain voting via Aragon and Privacy Stewards, integration of Ronin as an Ethereum Layer 2 supporting major gaming ecosystems, and the introduction of new trading platforms like Pendle's Boros. Stablecoin supply on Ethereum hit a record $160 billion, with PayPal's PYUSD processing over $10.7 billion in quarterly transfers. DeFi platforms like Aave surpassed $60 billion in deposits, and institutional markets for real-world assets on Ethereum have gone live. Additionally, innovative projects such as Venice.ai, Glow.org, and RAILGUN DAO are advancing privacy, tokenization, and impact transparency. These developments indicate a robust and rapidly evolving ecosystem, suggesting continued growth and activity in the Ethereum space. While the summary highlights ongoing innovation and adoption, it does not directly address Perena or its plans to launch a token by September 30, 2026.
+### [Perena Pre-Season Rewards Program](https://app.perena.org/articles/perena-pre-season-rewards-program)
+**Author:** Perena | **Published:** 2025-03-19
 
-Title: Wormhole Brings Perena’s USD* to Monad – A Major Boost for Cross-Chain Liquidity
-Author: 
-Published Date: 2026-02-11T00:00:00.000Z
-URL: https://cryptonews.net/news/altcoins/32417501/
-Summary: The article reports that Wormhole has integrated Perena’s USD* stablecoin onto the Monad blockchain using its Native Token Transfers (NTT) protocol. This development enhances cross-chain liquidity and security by enabling seamless, trustless transfer of stablecoins like USD* across multiple blockchains without relying on centralized pools. While the announcement signifies strong technical and strategic progress for Perena and Monad, it does not specify a launch date for Perena’s token or USD*. Given the recent deployment and focus on establishing stable assets within the ecosystem, there is potential for Perena to have launched or plan to launch its token by September 30, 2026, but the article provides no explicit timeline.
+Official Perena article describing the “Pre‑Season” rewards program and reactivation of the Petals points campaign (Season 1). The page explains how users earn Petals via swaps, liquidity provision, referrals, and badges and frames Petals as a community/rewards program tied to product upgrades. This is primary evidence that Perena is running an “earn points” program rather than announcing a live governance token or tokenomics; it supports the interpretation that a future TGE is plausible but not yet official, which weakens arguments for a near‑certain Yes by the market deadline. ([perena.org](https://perena.org/articles/perena-pre-season-rewards-program?utm_source=openai))
 
-Title: Perennial Funding Rounds, Token Sale Review & Tokenomics Analysis | CryptoRank.io
-Author: 
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://cryptorank.io/ico/perennial
-Summary: The webpage provides an overview of Perennial's funding history, token sale activities, and tokenomics analysis within the broader crypto market context. While specific details about Perennial's upcoming token launch are not explicitly mentioned, the site highlights recent crypto fundraising rounds, ICO/IDO activities, and project performance analytics. Given the focus on recent funding rounds and active fundraising platforms, if Perennial has participated in recent or upcoming funding events or token sales listed on CryptoRank.io, it could indicate plans to launch a token in the near future. However, without explicit confirmation or scheduled launch dates, predicting a token launch by September 30, 2026, remains speculative. Monitoring Perennial's participation in upcoming ICOs, IDOs, or funding rounds on this platform could provide more concrete indicators of their token launch timeline.
+### [Perena Airdrop (Retrodrop): All Information, Data & Stats](https://coinlaunch.space/events-contests/perena-airdrop/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: $PERC Token Airdrop Tutorial: Complete Guide To Claiming Perceptron Network Rewards In 2026
-Author: MEXC Blog
-Published Date: 2026-02-24T00:00:00.000Z
-URL: https://blog.mexc.com/news/perc-token-airdrop-tutorial-complete-guide-to-claiming-perceptron-network-rewards-in-2026/
-Summary: The Perceptron Network has announced a significant airdrop campaign for its PERC token, with the final reward cycle (Epoch 3) active until March 11, 2026. The project plans a Token Generation Event (TGE) expected in late March or early April 2026, with the token likely to be listed on exchanges in Q2 2026 (April-June). Given this timeline, it is plausible that Perceptron will have launched its token by September 30, 2026. The project emphasizes ongoing development and community engagement leading up to the TGE, making a token launch within this period highly probable.
+CoinLaunch’s project page aggregates Perena’s airdrop/farming program details (Petals), lists program dates (December 2024 start, Season 1 details), and explicitly notes that Petals are not yet a token and that a Token Generation Event (TGE) has not been confirmed. It highlights community expectations that Petals could convert to an airdrop/TGE but records no public TGE execution or post‑TGE listings. This corroborates the absence of a tradable token and therefore argues against declaring the market clearly mispriced toward Yes. ([coinlaunch.space](https://coinlaunch.space/events-contests/perena-airdrop/?utm_source=openai))
 
-Title: Aster Testnet Launches for Perp-Focused Layer 1 Blockchain
-Author: 
-Published Date: 2026-02-07T00:00:00.000Z
-URL: https://cryptonews.net/en/news/defi/32399033/
-Summary: The article discusses the recent launch of Aster's testnet for its perp-focused Layer 1 blockchain, targeting perpetual futures trading. The $ASTER token is currently valued at around $0.50, with a market cap of approximately $1.23 billion, and is expected to reach mainnet in Q1 2026. The project aims to address congestion and latency issues faced by general-purpose blockchains during high-volume perp DEX trading, which surged significantly in 2025. The testnet allows developers and validators to test the network's stability and throughput ahead of the mainnet launch. While the article does not explicitly mention Perena or its token plans, the focus on infrastructure development, token utility, and community engagement suggests ongoing ecosystem expansion. Given the timeline and the project's emphasis on utility and infrastructure, it is plausible that Perena could consider launching a token by September 30, 2026, especially if aligned with broader blockchain developments and community needs.
+### [Profil Projektu Perena i Aktywność Tokenów | DropsTab](https://dropstab.com/pl/coins/perena)
+**Author:** Unknown | **Published:** Unknown
 
+DropsTab’s Perena project page describes Perena as a Solana‑based stablecoin infrastructure using the Numéraire AMM and explicitly states the project does not yet have a user or governance token; the primary asset is USD* (an LP token). DropsTab’s writeup and activity history show Petals farming activity and no evidence of a live token listing. This third‑party tracker supports the conclusion that no tradable governance token currently exists and that timeline remains uncertain. ([dropstab.com](https://dropstab.com/pl/coins/perena?utm_source=openai))
 
+### [Perena Airdrop – How to Farm This Stablecoin Liquidity Layer on Solana](https://airdropguild.com/perena-airdrop-how-to-farm-this-stablecoin-liquidity-layer-on-solana/)
+**Author:** Unknown | **Published:** Unknown
+
+AirdropGuild’s guide explains how users can farm Petals via swaps, liquidity provision and badges, notes TVL and community interest, and conveys prevailing community expectations that Petals could be used for a future token/airdrop. The guide underscores why traders might price some probability of a future token into a market, but it does not provide evidence of an announced TGE or a tradable token, so it supports a measured (>50% plausible but uncertain) market price rather than confirming a firm launch. ([airdropguild.com](https://airdropguild.com/perena-airdrop-how-to-farm-this-stablecoin-liquidity-layer-on-solana/?utm_source=openai))

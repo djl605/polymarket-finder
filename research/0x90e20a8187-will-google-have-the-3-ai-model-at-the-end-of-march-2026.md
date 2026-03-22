@@ -1,92 +1,106 @@
 # Research: Will Google have the #3 AI model at the end of March 2026?
 
 **Market ID:** 0x90e20a8187a934e96aa8b228e7caff6ac70bad3e6ad808ba51f06672d63528b4
-**Researched At:** March 10, 2026 at 04:18:05 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Google have the #3 AI model at the end of March 2026?"
+**Researched At:** March 22, 2026 at 04:28:25 AM UTC
+**Search Query:** "Will Google have the #3 AI model at the end of March 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.5¢
+**Expected Value:** 4.0¢
 
 ### Summary
 
-Multiple independent sources from Feb–Mar 2026 consistently rank Google’s Gemini as #3 and project stability through March end. Competitive dynamics introduce some risk, but no major March rival updates are evident, making a 66% market price appear reasonable.
+The Arena leaderboard snapshot (Mar 20) shows Google’s gemini-3.1-pro-preview currently in 3rd place with substantial vote counts and a favorable tie-break rule; this supports the market price (~60.5%). However, total market volume is $0 (no trades), so the quoted price is not market-validated, and competing releases (notably xAI/Grok rumors) create plausible short-term upside/downside risk. I estimate a modest expected edge from investigating/trading (~4.0 cents).
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-- The market asks whether Google (i.e., a Google‐owned model) will occupy the third‐highest spot on the Chatbot Arena LLM Leaderboard (Arena Score ranking) as of March 31, 2026, 12 pm ET.  
-- YES if, at that resolution time, Google’s top model is strictly third by Arena Score (ties broken alphabetically in Google’s favor). NO otherwise.
+Plan and limits
+- I used the 3 allotted web searches to (1) fetch the Chatbot Arena / LLM leaderboard (the market's resolution source) and record current ranks, scores and vote counts; (2) check Google’s recent Gemini 3.1 Pro preview release and coverage; (3) check credible reporting and rumors about competing model releases (notably xAI / Grok) that could plausibly change rankings before Mar 31, 2026. All internet-backed factual claims below are cited.
 
-2. EVIDENCE EVALUATION  
-Bullish evidence (supports YES):  
-- Awesome Agents (Feb 2026): Gemini 3 Pro is currently #3 overall, with strong multimodal and knowledge metrics.  
-- VERTU (Mar 9): Projects Google’s Gemini 3.1 will “maintain its position” at #3 through end of March.  
-- Digital Information World (Mar 5): Google Gemini has doubled usage share to 25% US/25% global, suggesting robust ongoing improvements.  
-- Awesome Agents (Mar Feb 21): Gemini 3.1 Pro leads key reasoning and scientific benchmarks, bolstering its competitive position.
+1) CONTEXT ANALYSIS — what the market asks and what resolves YES vs NO
+- Market question (paraphrase): On March 31, 2026 at 12:00 PM ET, when the Chatbot Arena LLM Leaderboard (Arena Score, text leaderboard, default style control) is checked, will the company that owns the model with the 3rd-highest Arena Score be “Google”? If Google’s model is the third-highest at that exact check time, market resolves YES; otherwise NO. If there is a tie for third, alphabetical tiebreaker in the market description applies (which would favor “Google” over many competitors). ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- Key resolution points to track before check-time: the Arena Score ordering on the text leaderboard (style control ON), any last-minute leaderboard updates or data outages, and whether a different company’s model surpasses Google’s model in Arena Score by the resolution time. The tie-break rule (alphabetical) slightly increases Google’s odds if scores tie. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
 
-Bearish evidence (supports NO or risk):  
-- OfficeChai (Mar 6): GPT-5.4 and Gemini 3.1 Pro tied at the top of a different index, highlighting volatility and the risk that OpenAI or Anthropic could leapfrog or fragment rankings.  
-- Market landscape remains dynamic: Anthropic Claude and Grok have shown rapid growth, and late‐March model updates from rivals could shift Arena Scores.
+2) EVIDENCE EVALUATION — findings and what they mean for the market price
+A. Current leaderboard position (most load-bearing evidence)
+- Snapshot (text leaderboard) around Mar 20, 2026 shows Google’s gemini-3.1-pro-preview listed 3rd with Arena Score ~1493 ±6 and ~14,677 votes; 4th place is xAI/grok variant at ~1492 ±7 with ~7,396 votes. (Small absolute point differences and overlapping uncertainties). This snapshot favors Google being currently in third place and indicates a non-trivial sample size of votes for the top models. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+  - How it affects probability: being already at #3 with thousands of votes supports the view that Google is legitimately competitive for the #3 spot and that 60.5% is plausibly in the right ballpark.
 
-Credibility & recency: All sources are dated February–March 2026, directly relevant. Awesome Agents and VERTU are specialized AI ranking trackers; Digital Info World and OfficeChai provide usage and index info. No source specifically cites Arena Scores, but performance benchmarks correlate strongly.
+B. Evidence that supports the current market price (i.e., Google likely to remain #3)
+- Google released Gemini 3.1 Pro (preview) in mid-February 2026 and that upgrade is widely reported to have improved reasoning/benchmarks; a model upgrade already in the field tends to stabilize or improve a model’s Arena Score (vs. a model that is only rumored). Coverage of the 3.1 Pro rollout supports the idea Google is not likely to slide quickly. ([techradar.com](https://www.techradar.com/ai-platforms-assistants/gemini/google-just-upgraded-gemini-again-and-3-1-pro-more-than-doubles-its-ai-reasoning-power-but-some-users-arent-impressed?utm_source=openai))
+- Tie-breaker rule in the market description favors Google if an exact tie for third occurs; this increases the effective probability for Google in close cases. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- The leaderboard snapshot shows Google’s third-place model has substantially more votes than the immediate #4 grok variant (~14.7k vs ~7.4k), which makes a rapid, large rank inversion less likely over a 10-day window unless a new high-quality model or heavy vote swing appears. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 66% price implies two‐to‐one odds in favor of Google holding #3. Given multiple independent trackers peg Google at #3 in February with no major March releases from rivals announced, this seems plausible.  
-- Low volume suggests either consensus that Google is a strong contender or simply low interest. Market makers maintain a narrow spread (2¢), indicating they see balanced risk.  
-- If one large trader were driving price, we might see a wider spread or price stuck at an obvious corner; instead, the spread is tight.
+C. Evidence that suggests the market price might be too high (i.e., risk Google loses #3)
+- The margin between #3 and #4 on Arena Score is small (a single- to low-double-digit point spread with overlapping uncertainties); Arena Scores can move as users vote and as new model releases or public betas appear. Small sample uncertainty means rank changes are plausible. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- There are credible reports and strong community rumor/coverage that xAI has been targeting a major Grok release (Grok 5 / flagship upgrades) around Q1 2026; if xAI ships a significantly stronger public/beta model or expands public exposure before Mar 31, that could plausibly overtake Google’s score. Reporting on schedule/risk for Grok 5 is mixed and in many cases still rumor or press-summary of Elon Musk/xAI hints; the sources are less authoritative than institutional announcements. ([nextbigfuture.com](https://www.nextbigfuture.com/2026/01/xai-grok-4-20-delayed-to-mid-february.html?utm_source=openai))
+- The overall competitive environment has rapid release cadence (Anthropic, OpenAI, xAI releasing versions through early 2026), which increases volatility of the leaderboard over short windows. Several outlets noted frequent releases in Feb–Mar 2026. Rapid cadence raises uncertainty about outcomes as-of Mar 31 even if Google is currently third. ([axios.com](https://www.axios.com/2026/02/26/the-race-to-catch-claude?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-- Strong, recent evidence points toward Google holding #3; downside risks from Anthropic or new OpenAI tweaks are acknowledged but not evidently imminent.  
-- No clear, specific piece of information missing from the market’s view; major March releases from competitors have not been reported.  
-- A 66% probability seems a reasonable consensus estimate, reflecting both Google’s current #3 position and the small chance of displacement in a dynamic field.
+D. Source credibility and recency
+- LLM Leaderboard (Arena) is the official resolution source and the single most important source for this market; it is contemporaneous and directly relevant (score, votes, uncertainties). Very high relevance/credibility for ranking facts. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+- Reporting on Gemini 3.1 Pro rollout comes from mainstream tech press (e.g., TechRadar, other press roundups) contemporaneous to Feb 2026 and is credible for the fact of rollout and that Google updated Gemini. These are high-quality indicators about model availability. ([techradar.com](https://www.techradar.com/ai-platforms-assistants/gemini/google-just-upgraded-gemini-again-and-3-1-pro-more-than-doubles-its-ai-reasoning-power-but-some-users-arent-impressed?utm_source=openai))
+- Reporting about xAI/Grok 5 timing is a mixture of rumor, company hints and blog/aggregator posts. these are informative (they show a plausible competitor event) but are lower-confidence than official release posts; treat timetable and capability claims as uncertain until xAI publishes a clear release note. ([nextbigfuture.com](https://www.nextbigfuture.com/2026/01/xai-grok-4-20-delayed-to-mid-february.html?utm_source=openai))
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence that price already reflects known factors: ~70%  
-- Suspected magnitude of mispricing: ~5 cents  
-- Expected value = 0.70 × 5 cents = 3.5 cents
+3) MARKET EFFICIENCY ANALYSIS — reliability of the current price
+- The market metrics you supplied show Total Volume: $0 and Price: 60.5% (spread 5¢). Total Vol $0 is critical: it means no executed trades have occurred, so the stated price is not the product of active aggregation of diverse traders’ capital — it may simply be the initial/creator price or a default. That strongly reduces the market price’s reliability as an informational signal (low market involvement). (This is user-supplied market data; not from the web). 
+- Charitable interpretation of 60.5%: it is a plausible subjective probability given (a) Google is currently #3 on the Arena snapshot, (b) Google’s Gemini 3.1 Pro preview is already live, (c) the narrow margin but larger vote count for Google vs #4, and (d) tie-breaker advantage. Traders who had to express a prior might pick ~60% under those considerations.
+- Alternative interpretation: because no volume exists, the price might reflect essentially no market consensus — one person’s opinion or a default number. Low-volume + small spread suggests the market infrastructure set an initial price but no liquidity has tested it.
+- Is the low volume because outcome is obvious? Not necessarily — outcome is somewhat contestable (close scores, active release environment). More likely low volume reflects that this is a niche market that few traders follow or care to trade, so informed traders may simply not have engaged. That implies higher chance of inefficiency than a liquid market.
 
-EXPECTED_VALUE: 3.5  
-SUMMARY: Multiple independent sources from Feb–Mar 2026 consistently rank Google’s Gemini as #3 and project stability through March end. Competitive dynamics introduce some risk, but no major March rival updates are evident, making a 66% market price appear reasonable.  
+4) MISPRICING ASSESSMENT — weigh both sides and check critical pitfalls
+- I do NOT see high-confidence, specific, credible evidence that the market is mispriced by a large amount (>20 percentage points). Key reasons:
+  - The Arena snapshot (Mar 20) directly supports Google in #3 and shows thousands of votes on Google’s model — consistent with roughly >50% probability that Google remains there 11 days later (especially with tie-breaker). ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+  - There is plausible but unconfirmed risk from xAI (Grok 5) or other last-minute releases that could change rankings. Those are real risks but currently supported mainly by rumor/press-summaries rather than firm, verifiable release announcements promising immediate public exposure before Mar 31. ([nextbigfuture.com](https://www.nextbigfuture.com/2026/01/xai-grok-4-20-delayed-to-mid-february.html?utm_source=openai))
+- Critical checks / potential misunderstandings considered:
+  - Resolution criteria: I verified the market resolves against the lmarena Arena Score text leaderboard (default style control) at the specified check time — so the only thing that matters is the actual Arena Score ordering at that timestamp. Tie-breaker favors Google alphabetically. ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+  - Could the leaderboard be down (causing delay)? Market’s description addresses that (it waits until the leaderboard returns). That reduces risk of a “technicality” that would flip the market unexpectedly. (This is in the provided market description.)
+  - Could I be missing private releases / enterprise-only models that will be added to Arena? The Arena leaderboard is vote-driven and lists models that Arena supports; a lab could push a new model into Arena quickly, but such an event would probably be publicized — I found no authoritative announcement (as of the searches) that a new public model with obviously superior Arena performance will land before Mar 31. ([nextbigfuture.com](https://www.nextbigfuture.com/2026/01/xai-grok-4-20-delayed-to-mid-february.html?utm_source=openai))
+
+5) EXPECTED VALUE CALCULATION — quantify value of investigating / trading
+- Strength of evidence that price is missing important public information: I judge ~40%. Rationale: the Arena snapshot strongly supports Google (highly relevant), but the competitive release environment and small score margins create real but not dominant risk. The asymmetric data quality (leaderboard high-quality; release-rumor info lower-quality) yields moderate overall strength.
+- Magnitude of plausible mispricing if one bets that the market is off: a realistic error magnitude is probably modest — on the order of ~5–15 percentage points (5–15 cents). Large errors (>20 pts) would require a near-certain imminent outperformance by another lab that I did not find strong, authoritative evidence for. I choose a central magnitude estimate of 10 cents as a plausible maximum-size mispricing given the facts.
+- Expected value = Strength × Magnitude = 0.40 × 10 cents = 4.0 cents.
+
+6) CONFIDENCE IN ASSESSMENT
+- My confidence in the assessment (given the available evidence and the fact that this depends on short-term events and low-volume market structure) = medium.
+
+Concise final verdict
+- The market price (60.5%) is plausible given the current Arena leaderboard snapshot (Google’s model is currently 3rd, has a sizable vote count, and tie-breaker favors Google). However, because the market shows zero trading volume, that price is not an aggregate of market capital and therefore should be treated as non-informative beyond being a reasonable single-person prior. There is credible but not decisive evidence (rumors and rapid release cadence from competitors) that the ranking could change by Mar 31; I do not find authoritative evidence that a >20-point mispricing exists. Overall: modest chance of mispricing (expected value ≈ 4.0 cents). ([lmarena.ai](https://lmarena.ai/leaderboard/text))
+
+EXPECTED_VALUE: 4.0
+SUMMARY: The Arena leaderboard snapshot (Mar 20) shows Google’s gemini-3.1-pro-preview currently in 3rd place with substantial vote counts and a favorable tie-break rule; this supports the market price (~60.5%). However, total market volume is $0 (no trades), so the quoted price is not market-validated, and competing releases (notably xAI/Grok rumors) create plausible short-term upside/downside risk. I estimate a modest expected edge from investigating/trading (~4.0 cents).
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Who’s Winning the AI Chatbot Race: OpenAI's ChatGPT, Google Gemini, or Anthropic Claude?
-Author: External Contributor
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://www.digitalinformationworld.com/2026/03/whos-winning-ai-chatbot-race-openais.html
-Summary: As of March 2026, Google Gemini has significantly increased its market share in the AI chatbot space, doubling its US DAU share from 13% to 25% and nearly tripling its global share from 9% to 25%, establishing it as the second-largest globally after ChatGPT. The market is becoming more fragmented, with no single app dominating over 50% of US daily usage. Other notable contenders include Anthropic's Claude, which experienced rapid growth in February, tripling its US DAU share and improving user retention, and Grok, tied to Elon Musk’s X ecosystem, which also gained ground. Given Google’s distribution advantage via Android and Search, and the ongoing shifts in user engagement, Google Gemini is well-positioned to potentially secure the #3 spot by the end of March 2026.
+### [LLM Leaderboard - Best Text & Chat AI Models Compared](https://lmarena.ai/leaderboard/text)
+**Author:** Unknown | **Published:** 2026-03-20
 
-Title: Top 10 AI Models 2026: Complete Ranking Guide - VERTU® Official Site
-Author: 
-Published Date: 2026-03-09T00:00:00.000Z
-URL: https://vertu.com/guides/top-10-ai-models-2026-complete-ranking/
-Summary: By the end of March 2026, Google is expected to maintain its position with Gemini 3.1, a multimodal AI model released in February 2026 that is noted for its cost-effectiveness and versatility across text, images, audio, and video applications. Additionally, Google’s earlier model, Gemini 2.5 Pro, released in 2025, remains competitive within the ecosystem. Given Google's active development and recent releases, it is plausible that Google will continue to hold the #3 spot with Gemini 3.1 at the end of March 2026.
+This is the Arena (Chatbot Arena) text leaderboard and is the resolution source for the market. The page lists ranks, Arena Scores, uncertainties and vote counts for each model; the Mar 20 snapshot shows gemini-3.1-pro-preview (Google) ranked #3 with score ~1493±6 and ~14,677 votes, and a grok variant (xAI) ranked #4 at ~1492±7 with ~7,396 votes. These concrete score and vote-count numbers are the single most important datapoint in predicting whether Google will be #3 on March 31: they support the plausibility of Google remaining #3 but also show the margin is small and within reported uncertainties, so a rank change is possible.
 
-Title: Overall LLM Rankings: February 2026 | Awesome Agents
-Author: James Kowalski
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://awesomeagents.ai/leaderboards/overall-llm-rankings-feb-2026/
-Summary: As of February 2026, Google DeepMind's Gemini 3 Pro ranks as the #3 overall AI model, distinguished by its exceptional knowledge breadth (89.8% on MMLU-Pro) and strong multimodal capabilities. It offers a competitive price point ($1.25 per million tokens for input and $5.00 for output), making it a significant player in the AI landscape. Given its high performance across reasoning, knowledge, and multimodal understanding, and considering Google's ongoing advancements, it is plausible that Gemini 3 Pro will maintain or improve its position by the end of March 2026.
+### [Google just upgraded Gemini again, and 3.1 Pro more than doubles its AI reasoning power — but some users aren’t impressed](https://www.techradar.com/ai-platforms-assistants/gemini/google-just-upgraded-gemini-again-and-3-1-pro-more-than-doubles-its-ai-reasoning-power)
+**Author:** Unknown | **Published:** 2026-02-20
 
-Title: GPT-5.4 Tied With Gemini 3.1 Pro On Artificial Analysis Intelligence Index, First Time A New OpenAI Model Hasn't Topped Index Outright
-Author: OfficeChai Team
-Published Date: 2026-03-06T00:00:00.000Z
-URL: https://officechai.com/ai/gpt-5-4-tied-with-gemini-3-1-pro-on-artificial-analysis-intelligence-index-first-time-a-new-openai-model-hasnt-topped-index-outright/
-Summary: As of early 2026, Google’s Gemini 3.1 Pro remains tied with OpenAI’s GPT-5.4 at the top of the Artificial Analysis Intelligence Index, both scoring 57. This marks the first time an OpenAI model has not surpassed the leading index position, highlighting increased competition among AI developers. Historically, OpenAI’s models, such as GPT-5 and GPT-5.2, have consistently led the index, but recent trends show Google’s Gemini models maintaining or reclaiming top spots, often at lower operational costs. The close scores among top models suggest a highly competitive landscape, making it uncertain whether Google will secure the #3 position by the end of March 2026, especially considering the rapid advancements and narrowing gaps among leading AI models.
+TechRadar reports on Google’s rollout of Gemini 3.1 Pro preview (Feb 19, 2026), describing improved reasoning and benchmark performance. This confirms Gemini 3.1 Pro is a real, deployed upgrade (not merely an internal rumor) and supports the idea Google’s model improvements are already reflected in public usage and thus in Arena votes — an argument in favor of Google holding or strengthening its current #3 position.
 
-Title: Google's Gemini 3.1 Pro Doubles Reasoning Performance and Retakes the AI Crown | Awesome Agents
-Author: Elena Marchetti
-Published Date: 2026-02-21T00:00:00.000Z
-URL: https://awesomeagents.ai/news/gemini-3-1-pro-doubles-reasoning/
-Summary: As of February 2026, Google's Gemini 3.1 Pro has demonstrated significant advancements in reasoning and scientific benchmarks, outperforming competitors like Anthropic's Opus 4.6 and OpenAI's GPT-5.2. It leads in key metrics such as ARC-AGI-2 (77.1%), GPQA Diamond (94.3%), and reasoning tasks, indicating a strong position in AI capabilities. The model's upgrade is rooted in the "Deep Think" reasoning technology, previously introduced in Gemini 3 Deep Think, now integrated into the Pro tier for broader application. Despite its superior intelligence scores, Gemini 3.1 Pro has a slower initial response time (~34 seconds to first token), which may impact real-time use cases. Developer feedback highlights improved token efficiency and reasoning performance. Given these developments, Google is positioning Gemini 3.1 Pro as a leading AI model, but the AI landscape remains dynamic, with benchmark leadership rotating among top models. Therefore, predicting whether Google will hold the #3 spot at the end of March 2026 depends on ongoing advancements and competition, but current trends suggest Google remains a strong contender.
+### [XAI Grok 4.20 Delayed to Mid-February](https://www.nextbigfuture.com/2026/01/xai-grok-4-20-delayed-to-mid-february.html)
+**Author:** Unknown | **Published:** Unknown
 
+This post summarizes xAI/Grok release schedule noise and mentions that Grok 5 had previously been discussed as a near-term target; it reports delays to Grok 4.20 and references expectations about Grok 5 timing. This kind of reporting illustrates that xAI has been signaling major upgrades during Q1 2026 — a plausible source of competitive upside risk to Google’s Arena ranking — but the post is not an official company release and therefore is lower-confidence evidence that a new Grok would overtake Google before Mar 31.
 
+### [Grok 5: Release Date, 6 Trillion Parameters, AGI Claims — Everything We Know (NxCode)](https://www.nxcode.io/no/resources/news/grok-5-release-date-6t-parameters-agi-xai-complete-guide-2026)
+**Author:** Unknown | **Published:** Unknown
+
+Aggregator / summary coverage repeating xAI/Grok 5 rumors and community expectations for a Q1 2026 flagship. This supports the plausible scenario that a major Grok release could change Arena rankings quickly; however, such articles are based on leaked/rumored timelines and should be treated as tentative until xAI publishes formal release notes and Arena-support details.
+
+### [The race to catch Claude](https://www.axios.com/2026/02/26/the-race-to-catch-claude)
+**Author:** Unknown | **Published:** 2026-02-26
+
+Axios coverage of the fast-moving multi-party competition among Anthropic, OpenAI, Google and other labs in early 2026. The piece documents heavy release cadence in Feb–Mar 2026 (Anthropic and OpenAI activity), which makes short-term leaderboard volatility more likely. This context supports caution: even though Google is currently #3, the environment is dynamic and leaderboard order can shift as models and public betas are released or get more exposure.

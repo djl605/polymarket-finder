@@ -1,7 +1,7 @@
 # Research: Will Gold (GC) hit (HIGH) $8,000 by end of December?
 
 **Market ID:** 0x90e5f1d7ef37eab2dc577c37770599c8588e797e378ab589d26afe2cffc79f4a
-**Researched At:** March 12, 2026 at 04:14:48 AM UTC
+**Researched At:** March 22, 2026 at 04:37:56 AM UTC
 **Search Query:** "Will Gold (GC) hit (HIGH) $8,000 by end of December?"
 
 ---
@@ -9,92 +9,68 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 8.4¢
+**Expected Value:** 5.3¢
 
 ### Summary
 
-Expert consensus forecasts for year‑end 2026 gold prices remain well under $8,000—even in bullish scenarios, they range mostly between $4,000 and $6,300 per ounce—which suggests the market’s 15.5% probability is likely overstated. However, given the possibility of extreme tail scenarios, some probability may be justifiable.
+The CME contract resolution rules require an official Active-Month settlement ≥ $8,000 on any qualifying trading day by Dec 2026; mainstream forecasts and available data (Jan–Mar 2026) expect prices far below $8,000 by that date, though demand and realized volatility are elevated. I estimate the market’s 15.5% price is likely optimistic; my best estimate of the true probability is ~5%, producing an expected mispricing value of ≈ 5.25¢. CONFIDENCE: medium
+
+SOURCES:
+---
+Title: Gold Futures and Opt
 
 ### Full Analysis
 
-Here is a thorough, objective evaluation under the requested framework, incorporating recent expert forecasts and market context from credible sources (excluding prediction-market platforms), dated near or within 2026 to ensure relevance.
+Planned approach and searches (budget: 3): I needed (A) the exact contract/settlement mechanics for CME GC (to be sure of resolution criteria), (B) current price / recent realized move & major central-bank/investor demand data (to measure the gap to $8,000), and (C) authoritative analyst scenarios that discuss extreme upside outcomes (to assess whether $8,000 is a mainstream tail or only a very-long-term / extreme scenario). I used three focused searches to get: CME product/specs & settlement rules, Reuters / major-media coverage of spot/futures levels and institutional forecasts (JPM, Goldman, others), and World Gold Council demand data plus an analysis piece that discusses longer-term $8k scenarios.
 
----
+Short answer (conclusion): There is no credible, specific evidence that the market price (15.5% probability) is obviously correct, but there also is not clear evidence that it is massively mispriced. Mainstream forecasts and market data in early 2026 put gold far below $8,000 by end-2026 (typical mid-single-thousands to $5k–$6k in some bank scenarios), so a true probability materially below 15.5% is plausible. However, (1) the metal’s recent record rally and record 2025 demand materially raise tail risk, and (2) institutions (JPMorgan and others) have sketched scenarios where much larger moves occur over multi-year horizons. Weighing the evidence I estimate a modest mispricing (market too high) — my best numeric assessment: expected-value ≈ 5.25 cents. Confidence: medium. Full reasoning and evidence below.
 
-## 1. CONTEXT ANALYSIS
+1) CONTEXT ANALYSIS — What exactly resolves YES vs NO
+- The market resolves to YES if, on any trading day on or before the final trading day of December 2026, the official CME settlement price for the Active Month (front month) of Gold (GC) futures is ≥ $8,000 per troy ounce. Otherwise it resolves NO. (This matches the market description and CME contract specs: GC quoted in USD/oz; contract months are Feb/Apr/Jun/Aug/Oct/Dec for the standard GC listing; settlement is exchange-determined and the Active Month definition is mechanical.) ([cmegroup.com](https://www.cmegroup.com/content/dam/cmegroup/market-regulation/files/gold-futures-and-options-fact-card.pdf))
+- Practically: a single exchange-determined daily settlement at or above $8,000 for the Active Month on any qualifying trading day before the final trading day in Dec 2026 is required. Intraday highs, indicative quotes, or later corrections do not count — only CME’s published settlement price on an active-trading day. That makes the instrument sensitive to price discovery around the 1:30 pm ET settlement window (and to any technical/operational events that affect how CME publishes settlements). ([cmegroup.com](https://www.cmegroup.com/content/dam/cmegroup/market-regulation/files/gold-futures-and-options-fact-card.pdf))
 
-**What the market asks:**  
-"Will Gold (GC) hit (HIGH) $8,000 by end of December 2026?" For a "Yes" resolution, the *CME settlement price* for the active month of GC futures must reach or exceed $8,000 on any trading day by the final trading day of December 2026. Otherwise, it resolves to "No." This applies only to official settlement prices, not intraday highs.
+2) EVIDENCE EVALUATION — What I found and how it affects the market price
+A. Current/base-case facts (what is priced in by mainstream markets today)
+- Spot / front-month gold has already moved sharply higher in 2025–early 2026 and reached fresh record highs (multiple Reuters pieces documenting record highs above $4k and later moves above $5k in early 2026). That reduces the gap between today’s price and an $8,000 level compared with pre-2024 history. Recent reporting shows spot prints in the ~$4.5k–$5.3k range in the Jan–Mar 2026 timeframe. This makes the $8,000 target a much larger absolute move than pre-2024 but a smaller relative multiple than the long-term historical comparison. (Evidence: Reuters coverage and market reporting of new record highs and spot prices). ([investing.com](https://www.investing.com/news/economy-news/gold-rushes-to-record-high-above-5000oz-4464124?utm_source=openai))
+- World Gold Council reported record-high global gold demand in 2025 (5,002 tonnes) — investment demand and central-bank buying were unusually strong, giving structural support to higher prices and increasing the probability of higher tails vs a “normal” year. Strong real demand is an important bullish fundamental. ([investing.com](https://www.investing.com/news/economy-news/global-gold-demand-hits-record-high-in-2025-wgc-says-4471886?utm_source=openai))
 
-**What needs to happen:**  
-The front-month CME Gold futures’ daily settlement price must reach at least $8,000 on at least one trading day before or on the final trading day of December 2026. Anything less results in "No".
+B. Institutional forecasts / scenario analysis
+- Major banks (Goldman Sachs, JPMorgan, UBS, etc.) raised medium-term forecasts in 2025/early 2026: typical 2026 forecasts clustered in the low-to-mid thousands per ounce, with some banks (Goldman, JPMorgan, UBS) publicly noting higher “extreme tail” outcomes. Goldman has discussed scenarios near ~$4,500 in extreme cases and base cases in the $3k–$5k range; JPMorgan published scenarios that could imply substantially higher valuations over a multi-year horizon and (in a multi-year allocation-shift scenario) even an $8,000 outcome by the end of the decade (i.e., by ~2030), not explicitly by Dec 2026. Those institutional notes raise the possibility of large upside, but their published numbers for end-2026 are typically far below $8,000. ([investing.com](https://www.investing.com/news/economic-indicators/jp-morgan-see-gold-prices-crossing-4000oz-by-q2-2026-3996696?utm_source=openai))
+- Important nuance: JPMorgan’s $8,000 discussion (as reported) is a multi-year allocation-shift scenario (private-sector allocation rising from ~3% to 4.6%); it’s not a near-term price target for end-2026. Using that as a short-term prediction would be a category error. ([mining.com](https://www.mining.com/jpmorgan-sees-8000-gold-by-decade-end/))
 
----
+C. What would it take for $8,000 by Dec 2026? (evidence about plausibility)
+- Quantitatively: in March 2026 the market was trading roughly in the $4k–$5.2k area (see citations above). Reaching $8,000 by December 2026 implies a roughly +50–100% move (depending on the reference price you pick) in ~9 months. That is a large move but not logically impossible — it would typically require either extreme macro events (USD collapse or hyperinflation scenario, or a very large and fast reallocation into gold by central banks and private investors), an extraordinary geopolitical shock, or sustained, record-sized physical demand that cannot be met by current supply and forward curves. Institutional analyses that forecast multi-year $8k scenarios rely on portfolio-allocation shifts and long-run structural shifts rather than a near-term shock. ([investing.com](https://www.investing.com/news/economy-news/gold-rushes-to-record-high-above-5000oz-4464124?utm_source=openai))
+- There is no credible reporting or market data showing near-term mechanisms (e.g., scheduled central-bank program or known private-sector reallocation of that magnitude and timing) that would make $8,000 likely in the nine months before Dec 31, 2026. Most mainstream forecasters expect high-but-not-$8k levels through 2026. That argues the market’s 15.5% probability is probably optimistic for the December-2026 deadline. ([investing.com](https://www.investing.com/news/economic-indicators/jp-morgan-see-gold-prices-crossing-4000oz-by-q2-2026-3996696?utm_source=openai))
 
-## 2. EVIDENCE EVALUATION
+D. Source credibility and recency
+- CME Group materials (contract spec / settlement description) — primary and authoritative for resolution mechanics and settlement definitions. Very high credibility and directly relevant. ([cmegroup.com](https://www.cmegroup.com/content/dam/cmegroup/market-regulation/files/gold-futures-and-options-fact-card.pdf))
+- Reuters-based reporting and major-market outlets (Investing.com republishing Reuters, Kitco coverage of bank notes) — high credibility for reported spot/record levels and bank research summaries. These are recent (Jan–Mar 2026) and directly relevant to price and demand context. ([investing.com](https://www.investing.com/news/economy-news/gold-rushes-to-record-high-above-5000oz-4464124?utm_source=openai))
+- World Gold Council (WGC) demand data — primary source for physical demand trends; high credibility and recent (2025 data, published Jan 2026) and supports an elevated floor for prices via record investment + central-bank demand. ([investing.com](https://www.investing.com/news/economy-news/global-gold-demand-hits-record-high-in-2025-wgc-says-4471886?utm_source=openai))
+- Mining.com and similar industry outlets summarizing JPM scenarios — useful for scenario context; credible but interpretive (they summarize bank research). JPM’s $8k-by-decade-end scenario is real as a long-horizon scenario but not a near-term (end-2026) forecast. ([mining.com](https://www.mining.com/jpmorgan-sees-8000-gold-by-decade-end/))
 
-### Evidence suggesting mispricing (i.e., that the market's current ~15.5% probability at ~$1,244… or, realistically, >$8,000 target may be too high):
+3) MARKET EFFICIENCY ANALYSIS — Is the market price (15.5%) reasonable?
+- Reasonable interpretation that justifies 15.5%:
+  - Recent extreme price moves (2024–early 2026) plus record 2025 demand materially fatten the tails relative to historical experience. When realized volatility is elevated and implied vol is higher (markets have priced-in larger moves), tail probabilities for very large moves increase. Traders may price some non-negligible chance of a “second leg” driven by geopolitical shock or an acceleration of central-bank and private demand before December 2026.
+  - Low trading volume and a tight spread suggest the market is not heavily trafficked by many distinct, informed participants; a small number of active traders could be willing to sell (or buy) a 15.5¢ contract. The price could therefore reflect either a genuine consensus among a handful of knowledgeable players who see a non-zero chance, or simply a unilateral position by one-sided liquidity providers. (User-supplied market metrics: Age 51 days, Total Vol $7,558, Price 15.5%, Spread 3¢.)
+- Reasons to suspect the price overstates the probability:
+  - Most public, mainstream bank forecasts for end-2026 (and quoted in early-2026 research notes) land in the low-to-mid thousands (Goldman/JPM base cases and extreme tails are well below $8k by Dec 2026). There is no public, credible plan (scheduled policy action or known reallocation) that would plausibly cause $8k before Dec 31, 2026. That suggests an objectively low chance of hitting $8,000 within the specified window. ([investing.com](https://www.investing.com/news/economic-indicators/jp-morgan-see-gold-prices-crossing-4000oz-by-q2-2026-3996696?utm_source=openai))
+  - CME settlement mechanics: the market must reach $8,000 at official settlement for an Active Month — not intraday prints or non-front-month quotes — which narrows ways the contract can “tick” YES. Exchanges’ settlement calculations and the Active Month switching can create technical paths that are non-intuitive; traders may price for intraday or near-settlement squeezes, but those are lower-probability events. ([cmegroup.com](https://www.cmegroup.com/content/dam/cmegroup/market-regulation/files/gold-futures-and-options-fact-card.pdf))
 
-- No major mainstream or institutional forecast approaches anywhere near $8,000 by end-2026.  
-- Consensus among reputable institutions centers around ~$4,000–$6,300: Goldman Sachs ~\$4,900, J.P. Morgan ~\$5,055, Société Générale rising to \$6,000, and Wells Fargo recently raising targets to \$6,100–\$6,300 ([goldmansachs.com](https://www.goldmansachs.com/insights/articles/gold-forecast-to-rise-by-the-middle-of-2026?utm_source=openai)).  
-- WisdomTree sees a Q2 2026 target of ~$3,850, rising conservatively to ~$5,355 under compromised dollar scenarios ([m.economictimes.com](https://m.economictimes.com/news/international/us/gold-price-forecast-2026-wisdomtree-these-5-looming-risks-could-send-gold-prices-soaring/amp_articleshow/123169639.cms?utm_source=openai)).  
-- EDC (Export Development Canada) expects average gold in 2026 around ~$4,096 ([edc.ca](https://www.edc.ca/content/dam/edc/en/non-premium/global-economic-outlook-winter-2026.pdf?utm_source=openai)).  
-- Across multiple sources, even in extreme bull cases, the upper bound stays well below $8,000.
+4) MISPRICING ASSESSMENT — weighing both sides
+- Evidence that market is probably overstating the short-term tail:
+  - Mainstream analyst consensus for end-2026 is well below $8,000; the extreme scenarios that reach multi-thousands are either labelled “tail” events or are framed as multi-year allocation shifts (not a nine-month outcome). No primary-source announcement (no central-bank program, no credible scheduled policy change) supports a high near-term probability of $8,000. ([investing.com](https://www.investing.com/news/economic-indicators/jp-morgan-see-gold-prices-crossing-4000oz-by-q2-2026-3996696?utm_source=openai))
+- Evidence that market’s 15.5% is not obviously wrong:
+  - Gold has already moved to all-time highs in 2025–early 2026 and demand fundamentals are unusually strong (WGC record demand). Markets have recently re-priced the possibility of large moves; in a highly uncertain geopolitical environment, the market may rationally attach a non-negligible tail probability to very large moves. Also, low-volume betting markets often trade at prices that reflect risk premia for extremely skewed outcomes; 15.5% is not so large as to be impossible from a trader’s private view of possible shocks. ([investing.com](https://www.investing.com/news/economy-news/gold-rushes-to-record-high-above-5000oz-4464124?utm_source=openai))
+- My assessment (charitable interpretation): informed traders likely see $8,000 by Dec 2026 as a low-probability but not astronomically impossible outcome — e.g., a rapid, disorderly dollar shock or an acute geopolitical shock plus a surge in safe-haven flows could deliver a +50%+ move. But publicly stated mainstream forecasts do not support a >10% near-term probability as a central estimate; they point to much lower near-term odds. On balance, the market price looks optimistic and likely above the “consensus public” probability for Dec 2026, but it’s not an obvious arbitrage — the level of mispricing appears moderate, not extreme.
 
-### Evidence supporting the current market price (~\$1,244 USD or probability ~15.5%):
+5) EXPECTED VALUE CALCULATION (my best numeric assessment)
+- Choose a plausible “true” probability range: based on mainstream public forecasts and the absence of a near-term mechanism for $8k, a reasonable central estimate for the true probability of $8k by Dec 31, 2026 is around 3–7%. I adopt 5% as a working best-estimate for the true probability (conservative but allowing for elevated volatility and record demand).
+- Market probability = 15.5% → implied overpricing = 15.5% − 5% = 10.5 percentage points = 10.5 cents.
+- Strength of evidence that this specific mispricing exists (i.e., that market price is too high): I rate this moderate — roughly 50%. Evidence: reputable bank forecasts and WGC data strongly argue against $8k by Dec 2026, but recent unusual volatility and record demand mean some non-zero tail is plausible. Strength = 50%.
+- Expected value (Strength × Magnitude) = 50% × 10.5 cents = 5.25 cents.
+EXPECTED_VALUE: 5.25
 
-- It's inherently plausible to assign a small probability to extreme outlier events like a near-quadrupling of gold prices within a nine-month horizon.  
-- Markets could be pricing in tail risks: hyperinflation, unprecedented monetary debasement, catastrophic geopolitical or systemic financial crises—scenarios outside mainstream models but not impossible.
-
-### Source credibility and recency:
-
-- Goldman Sachs, J.P. Morgan, Société Générale, Wells Fargo, and WisdomTree: high credibility, forecast dates range from late 2025 to early 2026.  
-- MoneyWeek summary of Deutsche Bank from early 2026 is credible ([moneyweek.com](https://moneyweek.com/investments/where-to-invest?utm_source=openai)).  
-- EDC report is a recent economic outlook document (early 2026) ([edc.ca](https://www.edc.ca/content/dam/edc/en/non-premium/global-economic-outlook-winter-2026.pdf?utm_source=openai)).
-
-### Skepticism check:
-
-- If hitting $8,000 is so extreme, no credible institution projects it; if they believed it possible, they'd forecast nearer to that. The absence of such forecasts suggests that the market price at 15.5% likely overestimates the probability relative to expert consensus.
-
----
-
-## 3. MARKET EFFICIENCY ANALYSIS
-
-- **Interpretation justifying current price:** The market price likely reflects a small but non-zero probability assigned to catastrophic tail events or structural monetary breakdown scenarios not captured in mainstream forecasts.
-- **Could represent consensus?** Given low trading volume ($5009 total volume, tight spread), the price may be driven by one or few participants with a contrarian or pessimistic macro view—not broad informed consensus.
-- **Low volume cause:** Probably because the $8,000 threshold is seen as extremely unlikely by most, so informed traders may not engage, making the market reflect niche sentiment rather than aggregated mainstream information.
-
----
-
-## 4. MISPRICING ASSESSMENT
-
-Given the expert consensus range (~$4,000 to ~$6,300) and absence of forecasts anywhere near $8,000 by end-2026, the current 15.5% probability seems high—it may indeed reflect inefficiency. However:
-
-- **Could be justified** if the trader(s) pricing this contract perceive or price highly extreme tail risk scenarios (e.g., hyperinflation or systemic collapse).  
-- It's plausible such views aren't widely shared, but they are not impossible.
-- **No technicality or misunderstanding**: the question asks for an extreme price; mainstream models don't reach it, so the market may overprice tail events.
-
-Conclusion: There's credible evidence of mispricing—but magnitude seems moderate (<20 cents). Price likely overstates probability given mainstream forecasts, but it reflects these outlier scenario beliefs.
-
----
-
-## 5. EXPECTED VALUE CALCULATION
-
-- **Strength of evidence**: The lack of any credible forecast near $8,000 by credible institutions is a strong counterargument that the current probability is too high. I'd rate this strength at ~80%.
-- **Magnitude of mispricing**: If fair probability is maybe 5%, but market is 15.5%, mispricing ~10.5 cents. (Conservative estimate.)
-- **Expected value** = 80% × 10.5 = 8.4 cents.
-
----
-
-## 6. CONFIDENCE
-
-Confidence: **medium**.
-
----  
-
-EXPECTED_VALUE: 8.4  
-SUMMARY: Expert consensus forecasts for year‑end 2026 gold prices remain well under $8,000—even in bullish scenarios, they range mostly between $4,000 and $6,300 per ounce—which suggests the market’s 15.5% probability is likely overstated. However, given the possibility of extreme tail scenarios, some probability may be justifiable.  
-CONFIDENCE: medium
+SUMMARY: The CME contract resolution rules require an official Active-Month settlement ≥ $8,000 on any qualifying trading day by Dec 2026; mainstream forecasts and available data (Jan–Mar 2026) expect prices far below $8,000 by that date, though demand and realized volatility are elevated. I estimate the market’s 15.5% price is likely optimistic; my best estimate of the true probability is ~5%, producing an expected mispricing value of ≈ 5.25¢. CONFIDENCE: medium
 
 ---
 
@@ -102,32 +78,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Gold Is Forecast to Rise 6% by the Middle of 2026 | Goldman Sachs](https://www.goldmansachs.com/insights/articles/gold-forecast-to-rise-by-the-middle-of-2026)
-**Author:** Lina Thomas / Goldman Sachs Research | **Published:** 2025-09-24
+### [Gold Futures and Options (fact card)](https://www.cmegroup.com/content/dam/cmegroup/market-regulation/files/gold-futures-and-options-fact-card.pdf)
+**Author:** CME Group | **Published:** Unknown
 
-Goldman Sachs forecasts gold to rise approximately to $4,000 by mid‑2026, driven by structural demand from central banks and Fed easing, with continued upside risks. This suggests year‑end 2026 gold prices are far below $8,000, challenging high probability pricing.
+Official CME fact card for COMEX Gold futures and options. It lists contract specifications (GC = 100 troy ounces, price quotation USD per troy ounce), trading hours, delivery/settlement type, and termination/expiration rules. This document is the authoritative source for what constitutes the GC contract and the mechanics that determine the “Active Month” and settlement type — directly relevant because the prediction market resolves on CME’s official settlement price for the Active Month. It supports the contextual requirement that only CME’s published settlement price (not intraday highs) counts. ([cmegroup.com](https://www.cmegroup.com/content/dam/cmegroup/market-regulation/files/gold-futures-and-options-fact-card.pdf))
 
-### [Gold Price Forecasts 2026 | Scottsdale Bullion & Coin](https://www.sbcgold.com/gold-price-forecasts/gold-price-forecast-2026/)
-**Author:** Unknown | **Published:** 2026-02 (approx.)
+### [Gold Overview - CME Group](https://www.cmegroup.com/markets/metals/precious/gold.html)
+**Author:** CME Group | **Published:** Unknown
 
-Summarizes multiple institutional forecasts for end‑2026 gold, including Société Générale ($6,000), RBC ($4,800), BofA ($5,000), TD Securities ($5,400), and Citi ($5,000). None approach $8,000, reinforcing consensus well below that threshold.
+CME Group’s product overview page for Gold futures. It explains market structure, liquidity comments, CME’s CVOL index availability, and links to settlement tools and contract details. This is relevant to confirm which months are active, that CME publishes the settlement used by the event, and to provide context on market liquidity and how exchange settlement processes matter for resolution. ([cmegroup.com](https://www.cmegroup.com/markets/metals/precious/gold.html))
 
-### [AhaSignals — Gold Price Forecast 2026: Wall Street Consensus vs. Fragility Risks](https://ahasignals.com/research/gold-market/gold-market-consensus-fragility-analysis-2026)
-**Author:** AhaSignals Research Unit | **Published:** 2026-02-04
+### [JP Morgan see gold prices crossing $4,000/oz by Q2 2026](https://www.investing.com/news/economic-indicators/jp-morgan-see-gold-prices-crossing-4000oz-by-q2-2026-3996696)
+**Author:** Reuters (via Investing.com) | **Published:** 2025-04-22
 
-Reports consensus among major banks targeting $5,000–$6,300 for end‑2026. Highlights that the consensus is bullish yet fragile; yet again no institution forecasts anywhere near $8,000.
+Reuters summary of JP Morgan research raising near-term gold forecasts: JP Morgan expected gold to average ~$3,675/oz by 4Q25 and to move toward/above $4,000 by Q2 2026, citing strong central-bank and investor demand. The piece is relevant because it shows major-bank cautious-but-bullish forecasts in 2025–2026: institutions see upside to multi-thousands, but their explicit numbers for end-2026 are far below $8,000, arguing the $8k outcome is an extreme tail rather than a consensus point. ([investing.com](https://www.investing.com/news/economic-indicators/jp-morgan-see-gold-prices-crossing-4000oz-by-q2-2026-3996696?utm_source=openai))
 
-### [Will gold prices break $5,000/oz in 2026? (J.P. Morgan)](https://www.jpmorgan.com/insights/global-research/commodities/gold-prices)
-**Author:** Natasha Kaneva / J.P. Morgan Global Commodities Strategy | **Published:** 2025-12-16
+### [“Gold remains our single favorite long commodity,” spot price to reach $4,900/oz in Q4 — Kitco News (Goldman Sachs coverage)](https://www.kitco.com/news/article/2025-12-26/gold-remains-our-single-favorite-long-commodity-spot-price-reach-4900oz-q4)
+**Author:** Kitco News (reporting Goldman Sachs research) | **Published:** 2025-12-26
 
-J.P. Morgan expects gold to push toward $5,000 by Q4 2026 (~$5,055 average), with $6,000 possible longer‑term. Reinforces moderate optimistic path but still far below $8,000.
+Kitco’s report summarizes Goldman Sachs research raising its gold forecasts (Goldman base cases in the low-to-mid thousands and commentary on “extreme tail scenarios” that could push gold higher). This is relevant because Goldman — a widely followed forecaster — explicitly frames very high outcomes as “tail” scenarios and gives mid‑range forecasts well below $8,000 for 2026, supporting the view that $8k by Dec 2026 is not a mainstream expected outcome. ([kitco.com](https://www.kitco.com/news/article/2025-12-26/gold-remains-our-single-favorite-long-commodity-spot-price-reach-4900oz-q4?utm_source=openai))
 
-### [WisdomTree: These 5 looming risks could send gold prices soaring into 2026](https://m.economictimes.com/news/international/us/gold-price-forecast-2026-wisdomtree-these-5-looming-risks-could-send-gold-prices-soaring/amp_articleshow/123169639.cms)
-**Author:** Unknown | **Published:** ~2025-08
+### [Gold blasts past $5,100 to record high on safe-haven rush](https://www.investing.com/news/economy-news/gold-rushes-to-record-high-above-5000oz-4464124)
+**Author:** Reuters (via Investing.com) | **Published:** 2026-01-25
 
-WisdomTree forecasts ~$3,850 by Q2 2026 and a conservative target of ~$5,355 by mid‑2026 in case of dollar depreciation—still far from $8,000. Undercuts extreme probability assumptions.
+Reuters report documenting spot gold pushing above $5,100 in January 2026, describing safe-haven flows and the macro drivers behind the rally. This source is relevant for establishing the contemporaneous price environment — it shows that in early 2026 spot/futures already traded at multi-thousand levels, reducing (but not eliminating) the distance to $8,000. It also illustrates the recent extreme realized moves that make the tail risk larger than in prior years. ([investing.com](https://www.investing.com/news/economy-news/gold-rushes-to-record-high-above-5000oz-4464124?utm_source=openai))
 
-### [Global Economic Outlook (EDC)](https://www.edc.ca/content/dam/edc/en/non-premium/global-economic-outlook-winter-2026.pdf)
-**Author:** Export Development Canada | **Published:** 2026-02 (approx.)
+### [Global gold demand hits record high in 2025, WGC says](https://www.investing.com/news/economy-news/global-gold-demand-hits-record-high-in-2025-wgc-says-4471886)
+**Author:** Reuters (via Investing.com) | **Published:** 2026-01-29
 
-Projects average gold in 2026 of ~$4,096, implying year‑end levels similarly distant from $8,000, supporting view that extreme outcome probability is overstated.
+Reuters coverage of the World Gold Council’s Gold Demand Trends 2025 report, documenting record total gold demand (~5,002 tonnes) driven by investment and central-bank purchases. This is directly relevant because persistent, record physical demand is a fundamental support for higher prices and increases the chance of large upside moves relative to years where demand is weak. However, the report does not identify a mechanism to push gold to $8k by December 2026. ([investing.com](https://www.investing.com/news/economy-news/global-gold-demand-hits-record-high-in-2025-wgc-says-4471886?utm_source=openai))
+
+### [JPMorgan sees $8,000 gold price by decade end](https://www.mining.com/jpmorgan-sees-8000-gold-by-decade-end/)
+**Author:** Staff Writer (Mining.com) | **Published:** 2026-01-29
+
+Industry coverage summarizing a JPMorgan research note that outlines a multi‑year scenario in which private-sector reallocation (rising allocations to gold from ~3% to ~4.6%) could take gold to about $8,000/oz by the end of the decade. The article is useful because it demonstrates that large-dollar outcomes have been modeled by major institutions — but it also clarifies that $8k is presented as a longer-term / allocation-shift scenario rather than a likely outcome within nine months. That distinction weakens any argument that a ~15% near-term probability is clearly correct. ([mining.com](https://www.mining.com/jpmorgan-sees-8000-gold-by-decade-end/))

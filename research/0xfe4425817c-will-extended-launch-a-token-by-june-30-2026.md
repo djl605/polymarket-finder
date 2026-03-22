@@ -1,83 +1,110 @@
 # Research: Will Extended launch a token by June 30 2026?
 
 **Market ID:** 0xfe4425817cc4ac71bf9f9da024a5341090fb6022da114061b1a1af53117213b0
-**Researched At:** March 10, 2026 at 03:01:47 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Extended launch a token by June 30 2026?"
+**Researched At:** March 22, 2026 at 04:26:52 AM UTC
+**Search Query:** "Will Extended launch a token by June 30 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Low
-**Expected Value:** 0.5¢
+**Confidence:** Medium
+**Expected Value:** 2.4¢
 
 ### Summary
 
-No direct evidence on Extended’s token launch exists in the research, making the current 45.5% price a reasonable reflection of true uncertainty. There is no credible signal suggesting a significant >5 cent mispricing.
+Extended runs an active points program and lists a future token/network as a roadmap ambition, but I found no official TGE date or deployed/tradable token. Given the uncertainty and precedents, the market’s 21% is plausible; I estimate a small possible mispricing (~6¢) with modest confidence, yielding ~2.4¢ expected value.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Extended will officially launch a publicly tradable governance token by 11:59 PM ET on June 30, 2026. For a “Yes” resolution, Extended must announce, issue, and enable active trading of its token before that deadline; mere announcements or plans do not qualify.
+Planned searches and approach
+- Questions I needed answered: (a) Has Extended officially committed to a token TGE (token generation event) or deployed a token contract that would satisfy the market’s resolution criteria (transferable/tradable by 11:59 PM ET on June 30, 2026)? (b) What on‑chain or company signals (points programs, airdrop mechanics, roadmap items, announcements) make a token launch by that date plausible or unlikely? (c) Are there close precedents (perp DEXes with points → token timelines) that inform probability? I prioritized primary sources (Extended docs and site) and reputable industry coverage for comparators/interpretation.
 
-2. EVIDENCE EVALUATION  
-– No research finding mentions Extended or plans for its token launch.  
-– Ostium is focusing on scaling operations and not token issuance (bearish analogue, but unrelated).  
-– MetaMask’s airdrop is on a different timeline (post-Q3 2026) and unrelated to Extended.  
-– The token-launch playbook outlines general best practices but gives no signal on Extended’s readiness or partnerships.  
-– edgeX’s token event shows a cautious market even when fundamentals are strong, illustrating that a sub-50% probability can be reasonable amid uncertainty.
+I used three web searches (docs + site + news) and reviewed Extended’s official docs/site and reputable industry reporting plus comparison material about other perp DEX airdrops.
 
-3. MARKET EFFICIENCY ANALYSIS  
-– A 45.5% price plausibly reflects genuine uncertainty due to lack of public roadmaps or firm commitments from Extended.  
-– Low volume suggests most informed traders may simply be waiting for an announcement rather than betting either side.  
-– The tight spread indicates even the few participants agree that there’s roughly even odds.
+1) CONTEXT ANALYSIS
+- Market question: “Will Extended launch a token by June 30 2026?” Per the market description, it resolves YES only if Extended (official channels) “officially launches a governance token by 11:59 PM ET on the date specified,” and the token must be actively and publicly transferable/tradable. Announcements alone do not qualify — the token must be live and tradable.
+- What needs to happen for YES: Extended must (a) publish/announce the token TGE and (b) a token contract or listing must exist such that the token is transferable/tradable publicly by 11:59 PM ET on June 30, 2026 (e.g., ERC‑20/SPL contract deployed and tokens transferrable and/or listed on a public venue). For NO: no tradable token exists by that deadline (even if there have been announcements or points programs).
 
-4. MISPRICING ASSESSMENT  
-– There is no specific, credible evidence indicating Extended’s path to launch is materially more or less likely than 45.5%.  
-– Given the absence of disconfirming or confirming information in the research, the market price appears neither obviously too high nor too low.  
-– Any large (>20 cents) mispricing claim would ignore the key fact that we have zero direct intel on Extended’s token plans.
+2) EVIDENCE EVALUATION (all relevant evidence)
+A. Evidence that argues the market price (21%) may be too high (i.e., evidence against a token by June 30, 2026)
+- No official TGE or token contract/public tradable token found in Extended’s public docs or main site. Extended’s official documentation and public site describe a points program and a longer-term vision of a network/token but do not publish a TGE date or token contract. This is the single most important datapoint: absence of a TGE announcement from the project itself. ([docs.extended.exchange](https://docs.extended.exchange/extended-resources/points))
+- Extended’s documentation frames a native token as part of a longer-term “Extended network” vision (an ambitious network-level, ERC‑20-accessible token) rather than a near-term immediate TGE — language implies tokenization is on the product roadmap but not immediate. That phrasing supports the view that a tradable governance token is not guaranteed within the next ~3 months. ([docs.extended.exchange](https://docs.extended.exchange/))
+- Practical timeline and operational friction: building, auditing, and listing a token that’s “actively and publicly transferable and tradable” (and that satisfies regulatory/compliance checks and exchange listing requirements) commonly takes multiple months after a TGE decision; teams often run points programs for months before announcing mechanics and TGE details. Examples in the perp‑DEX space show teams frequently wait until after multiple seasons or until product milestones are met. That pattern argues against a near-immediate token unless the team explicitly commits to a date. (Comparator evidence below). ([web3.bitget.com](https://web3.bitget.com/en/academy/lit-airdrop-guide-how-to-participate-and-claim-lit-token-rewards?utm_source=openai))
+- Regulatory and market‑risk tail: exchange-related tokens and token launches face regulatory scrutiny in some jurisdictions; projects with a compliance‑first business model (and Extended emphasizes risk-mitigation architecture) may deliberately delay token issuance until legal certainty is higher. No public legal announcement committing to a compliant TGE date was found.
 
-5. EXPECTED VALUE CALCULATION  
-– Strength of evidence: ~10% (we have no direct data).  
-– Magnitude of potential mispricing: ~5 cents (markets rarely misprice by more without better info).  
-– Expected value ≈ 10% × 5 cents = 0.5 cents.
+B. Evidence that supports the possibility the market price is reasonable or that a token could occur by June 30, 2026
+- Active points program (Season 1) with weekly distributions and large early participation allocations. Points programs are a commonly used mechanism to seed eligibility for a later airdrop/TGE; Extended launched Season 1 and distributed early participation points—this is an explicit preparatory signal for a potential future token or airdrop. Projects that intend to airdrop often run these programs months ahead of an eventual TGE. That makes a TGE by mid‑2026 plausible (not certain). ([docs.extended.exchange](https://docs.extended.exchange/extended-resources/points))
+- Industry coverage and community discussion: reputable crypto press (Blockworks) reports Extended “has no token” but confirms the points program and migration plans; many community/airdrop aggregators and guides treat Extended as a “points → potential airdrop” candidate. Those community signals can accelerate market expectations (and explain a non-zero probability like 21%). ([blockworks.co](https://blockworks.co/news/extended-hybrid-derivatives-exchange))
+- Precedent: Several comparable perp DEX projects have used point/season programs and announced TGEs within months of active points campaigns (examples: Lighter/HYPE/LIT and others), where community expectations and token mechanics materialized rapidly once teams were ready. That historical pattern supports a non‑trivial chance the team could convert points → token in a short window (though it is not a guarantee). ([web3.bitget.com](https://web3.bitget.com/en/academy/lit-airdrop-guide-how-to-participate-and-claim-lit-token-rewards?utm_source=openai))
 
-EXPECTED_VALUE: 0.5  
-SUMMARY: No direct evidence on Extended’s token launch exists in the research, making the current 45.5% price a reasonable reflection of true uncertainty. There is no credible signal suggesting a significant >5 cent mispricing.  
-CONFIDENCE: low
+C. Source credibility and recency
+- Primary sources: Extended’s official documentation (docs.extended.exchange) and official site (extended.exchange) are the highest‑credibility sources for company intentions and the authoritative documentation of the points program and roadmap. These pages show points program details and longer‑term token vision but do not announce TGE timing. ([docs.extended.exchange](https://docs.extended.exchange/extended-resources/points))
+- Reputable industry reporting: Blockworks (article Dec 11, 2024 by Macauley Peterson) is a credible industry outlet that explicitly reported Extended had no token at the time and described the points program; Blockworks is useful for independent confirmation. ([blockworks.co](https://blockworks.co/news/extended-hybrid-derivatives-exchange))
+- Aggregators, airdrop guides, and social posts: many smaller sites and Twitter threads speculate that points could convert to a token/airdrop. These are weaker evidence: useful to measure market/community sentiment but unreliable as proof of a scheduled TGE. I treat them as supportive but low‑quality evidence.
+
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretation(s) justifying the current 21% price:
+  - Traders see an active points program + clear roadmap language about a future network/token and treat those as credible signals that a token is possible within 3–15 months; 21% could be the market’s way to encode a modest but non‑dominant chance that Extended will convert points → token and execute a tradable TGE before June 30, 2026.
+  - The market could be pricing in a realistic conditional probability that the team (1) defines conversion mechanics and (2) performs a token distribution quickly — but with sizable risk of delay.
+- Could the price reflect one or a few traders? Yes. Low total volume ($8,837) and a small spread imply the market is thin; a small number of traders could set a price that doesn’t reflect broad consensus. That makes the price less reliable as a crowd forecast than a high‑volume market.
+- Why low volume? Possible reasons:
+  - Outcome is uncertain but not obviously profitable to trade (many retail traders prefer large-volume, higher-liquidity markets). Or
+  - The market is being set by a small set of airdrop-farming speculators who either already have a view (e.g., they farm points and want to hedge) or simply aren’t pushing a large position because the market is thin. Either case reduces reliability.
+
+4) MISPRICING ASSESSMENT (do we have credible evidence of mispricing?)
+- Summary judgment: I did not find specific, credible evidence that a tradable governance token will definitely be launched and tradable by June 30, 2026. I also did not find a definitive commitment or evidence that would make the YES outcome very likely. The strongest primary evidence is: (1) Extended runs an active points program (explicit) and (2) Extended’s documentation mentions a future token/network as a longer‑term ambition. Neither is a guarantee of a TGE by the target date. ([docs.extended.exchange](https://docs.extended.exchange/extended-resources/points))
+- Is the market price plainly wrong? No. The 21% price appears compatible with the information set: there is a plausible path to a TGE (points program + precedents among other perp DEXes), but the project has not publicly committed to a TGE date and operational/legal hurdles could delay or cancel a mid‑2026 launch. That ambiguity justifies a modest nonzero probability rather than a near‑zero or near‑one number.
+- If I were to flag mispricing >20¢: I would need evidence such as a dated TGE announcement, a deployed token contract, or a confirmed exchange listing schedule before June 30; I found none. Because I cannot find such decisive evidence, I do not conclude the market is mispriced by a large amount.
+
+CRITICAL CHECK (what could I be missing?)
+- Possible missing information: private investor communications, an imminent (but not yet public) exchange listing, or an internal timetable known to insiders could change probability materially. Given the primary and official docs contain no TGE date or contract, missing such insider information is possible but would be the kind of information not publicly available and not acceptable as proof of mispricing in a public market.
+- Most charitable interpretation of 21%: it prices a modest chance that Extended converts points → token with a quick timeline (comparable projects sometimes moved quickly) while acknowledging significant execution/regulatory risk. That is a defensible market reading.
+
+5) EXPECTED VALUE CALCULATION (estimate of the expected value of investigating/trading)
+- My subjective best‑estimate of the true probability of a tradable Extended governance token existing by 11:59 PM ET June 30, 2026: ~15% (I consider the presence of an active points program and precedence among perp DEXes that eventually tokenized, but I downgrade due to no official TGE date, legal/regulatory friction, and the project’s wording of a longer‑term token/network ambition).
+- Market price: 21% → implied overpricing relative to my 15% view = 6 percentage points (0.06), i.e., 6 cents of mispricing per dollar (6¢).
+- Strength of evidence that the market is missing (how confident I am in the 6¢ gap): moderate/uncertain — assign strength = 40% (0.40), because the main negative evidence is absence of an announcement which is persuasive but not definitive; comparables provide countervailing evidence.
+- Expected value = Strength × Magnitude = 0.40 × 6¢ = 2.4¢
+- Presenting it as cents per $1: EXPECTED_VALUE: 2.4
+
+6) CONFIDENCE
+- My confidence level in this assessment: medium. The official docs and site are clear about points + longer‑term token ambitions (high confidence on those facts), but whether a TGE occurs by the deadline is uncertain and could be affected by private decisions or last‑minute changes.
+
+Concise conclusion
+- There is no definitive public evidence that Extended will have a tradable governance token by 11:59 PM ET on June 30, 2026. The presence of an active Season‑1 points program and roadmap language about a future network/token makes a TGE possible, and comparators show fast TGEs have happened in this sector — but Extended has not published a TGE timetable or deployed a token contract that would meet the resolution criteria. Given that, the market price of 21% is a reasonable encoding of a modest chance of a near‑term TGE; I do not find clear, actionable evidence of a large mispricing, though a small mispricing (my best estimate ≈ 6¢ gap) is plausible. Trade/invest only if your risk appetite accounts for the thin market and possible insider/announcement risk.
+
+EXPECTED_VALUE: 2.4
+SUMMARY: Extended runs an active points program and lists a future token/network as a roadmap ambition, but I found no official TGE date or deployed/tradable token. Given the uncertainty and precedents, the market’s 21% is plausible; I estimate a small possible mispricing (~6¢) with modest confidence, yielding ~2.4¢ expected value.
+CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Will Ostium launch a token by Q3 2026?
-Author: AInvest
-Published Date: 2026-02-16T00:00:00.000Z
-URL: https://www.ainvest.com/news/ostium-launch-token-q3-2026-2602/
-Summary: The article indicates that Ostium, a platform focused on synthetic perpetual futures for real-world assets, is unlikely to launch a token by Q3 2026. The company's current priorities are scaling operations and expanding into new markets, supported by a recent $20 million Series A funding round aimed at growth rather than token development. Given this focus on infrastructure and market expansion, and no mention of plans for a token launch, it is reasonable to infer that Ostium's emphasis remains on platform growth rather than issuing a token in the near term. Therefore, if your question pertains to Ostium, it is unlikely they will launch a token by June 30, 2026.
+### [Vision and Roadmap | Extended Documentation](https://docs.extended.exchange/)
+**Author:** Unknown | **Published:** Unknown
 
-Title: MetaMask Airdrop: How to Qualify for $MASK Token in 2026 - Zipmex
-URL: https://zipmex.com/blog/metamask-airdrop/
-Summary: The webpage discusses the upcoming MetaMask $MASK token airdrop, expected in Q3-Q4 2026, with no official confirmation of a specific launch date. MetaMask, a leading self-custodial crypto wallet with over 143 million downloads, plans to distribute the $MASK token, which is linked to governance rights and platform decentralization. Participation in MetaMask’s Rewards program—by using the wallet, swapping tokens, trading perpetuals, bridging assets, and earning points—can increase eligibility for the airdrop. The timeline indicates that the token launch is anticipated after extensive community engagement and reward accumulation, but there is no mention of the Extended project or its potential token launch by June 30, 2026. Therefore, based on this information, there is no clear evidence to suggest that Extended will launch a token by that date.
+Official Extended documentation describing the product vision, roadmap, and longer‑term architecture. It explicitly describes that Extended is building toward a broader “Extended network” and states the long‑term ambition to expose native unified margin as an ERC‑20 token accessible to applications on the network. This source is the project’s own roadmap-level language: it supports the view that the team contemplates a token in the future but does not provide an explicit TGE date or indication that a tradable token will exist by June 30, 2026. It therefore tempers bullish interpretations and supports a cautious probability estimate (challenges a near‑certain YES).
 
-Title: Sherlock — How to Launch a Crypto Token in 2026: The Complete Playbook
-Author: 
-Published Date: 2026-03-05T00:00:00.000Z
-URL: https://sherlock.xyz/post/how-to-launch-a-crypto-token-in-2026-the-complete-playbook
-Summary: The webpage provides a comprehensive guide to launching a crypto token in 2026, emphasizing current trends and best practices. Key points include the importance of selecting the right blockchain—Solana for retail-facing tokens, Base for rapid growth and retail access, and Ethereum or its L2s for institutional liquidity and DeFi projects. It highlights dominant launchpad platforms like Pump.fun on Solana and structured options like Binance Launchpad, noting their differing costs and audiences. The rise of AI agents is a significant development, automating vulnerability detection, liquidity management, and community engagement, which streamlines the launch process and ongoing token management. While the guide does not specify a launch date, it suggests that successful token launches are increasingly reliant on multi-chain strategies, AI integration, and choosing the right launchpad, all of which are crucial considerations for predicting whether Extended can launch a token by June 30, 2026.
+### [Points | Extended Documentation](https://docs.extended.exchange/extended-resources/points)
+**Author:** Unknown | **Published:** Unknown (page indicates last updated ~8 months ago)
 
-Title: UXM Token Analysis 2026: Features, and Monthly Price Forecast
-Author: Orion Blockwell
-Published Date: 2026-02-18T00:00:00.000Z
-URL: https://cardence.io/news/uxmuniversal-x-money-crypto-price-prediction/
-Summary: The provided webpage does not mention Extended or any plans related to launching a new token by June 30, 2026. It focuses on Universal X Money (UXM), its features, market behavior, and price forecasts for 2026, but does not provide information about other projects or specific token launch timelines. Therefore, there is no relevant data on whether Extended will launch a token by that date.
+Official documentation for Extended’s Season 1 Points Program (launched April 29, 2025), describing weekly point distributions (up to 1.2M points/week), earning categories (trading, liquidity, referrals), and early participation point grants. This is the clearest public signal that Extended is operating a points‑based rewards program — the kind of mechanism that peers have used to allocate future airdrops/tokens. The doc is primary evidence that a points→airdrop path is plausible, but it contains no mechanics or TGE schedule, which is crucial for market resolution timing.
 
-Title: edgeX FDV above $2B one day after launch? The 40% Probability Play
-Author: AInvest
-Published Date: 2026-02-09T00:00:00.000Z
-URL: https://www.ainvest.com/news/edgex-fdv-2b-day-launch-40-probability-play-2602/
-Summary: The article discusses edgeX's upcoming token generation event (TGE), now scheduled for March 31, 2026, after a delay to prioritize stability amid volatile market conditions. Despite market skepticism—only a 40% probability that edgeX's fully-distributed valuation (FDV) will exceed $2 billion within 24 hours of launch—edgeX demonstrates strong operational fundamentals. It processes $2.28 billion in daily trading volume, ranks fourth among perpetual DEXs, and generates revenue four times higher than its peer Lighter at similar valuation levels. The market's cautious outlook appears to underestimate edgeX's actual performance and competitive advantages. Given these factors, if edgeX maintains its operational momentum, there is a plausible chance it could launch a token by June 30, 2026, especially if market conditions stabilize and investor confidence improves.
+### [Extended](https://extended.exchange/)
+**Author:** Unknown | **Published:** 2026 (site copyright shows 2026)
 
+Extended’s official marketing/product site. It highlights product features (high‑performance perp DEX, unified margin ambitions, integration with wallets, migration to Starknet), press links, and product positioning. The site is the authoritative public face of the project and confirms product traction and roadmap priorities. It does not show a live governance token or token contract; that absence (on the project’s main site) is meaningful for evaluating whether a token will be tradable by the June 30, 2026 deadline.
 
+### [A Binance-like experience with decentralized settlement](https://blockworks.com/news/extended-hybrid-derivatives-exchange)
+**Author:** Macauley Peterson | **Published:** 2024-12-11
+
+Blockworks reporting on Extended (formerly X10) describing its hybrid derivatives exchange, migration plans (Starknet), the points program, and the explicit statement that “Extended has no token” at the time of reporting. This credible industry article independently confirms the project operates a points program and had not launched a token when the article was written. It provides an authoritative third‑party check on the project’s status and supports the conclusion that no public TGE schedule had been announced (which weakens the case for a guaranteed June 30, 2026 TGE).
+
+### [Lit Airdrop Guide: How to Participate and Claim Lit Token Rewards](https://web3.bitget.com/en/academy/lit-airdrop-guide-how-to-participate-and-claim-lit-token-rewards)
+**Author:** Unknown | **Published:** Unknown
+
+Bitget’s guide on a comparable perp DEX (Lighter / LIT) that ran a points program and then moved toward a token/a i rdrop/TGE. I used this and similar comparator reporting to show that in this product vertical, points programs have in several cases preceded a TGE within a few months — establishing precedent that makes a near‑term TGE plausible in principle. However, this source also illustrates the variability of timelines and the need for explicit TGE announcements; comparators therefore support a non‑zero probability but do not prove immediacy for Extended.

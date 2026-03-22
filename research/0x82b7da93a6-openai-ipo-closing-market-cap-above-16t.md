@@ -1,7 +1,7 @@
 # Research: OpenAI IPO closing market cap above $1.6T?
 
 **Market ID:** 0x82b7da93a66790027b48e73cff250492ece87b6bfd48e680278f4fee75433737
-**Researched At:** March 14, 2026 at 04:16:34 AM UTC
+**Researched At:** March 22, 2026 at 04:37:19 AM UTC
 **Search Query:** "OpenAI IPO closing market cap above $1.6T?"
 
 ---
@@ -9,78 +9,72 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 12.1¢
+**Expected Value:** 2.1¢
 
 ### Summary
 
-Recent authoritative reporting places OpenAI’s private valuation mostly in the high‑hundreds of billions (commonly $500B–$850B) and notes large losses and heavy capex; getting to a $1.6T first‑day market cap would require an unusually large first‑day pop or a much larger pre‑IPO valuation. Given the credible evidence, the market’s 37% price looks optimistic; I estimate a modest mispricing with an expected edge of ~12.1 cents. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-
+Public reporting shows OpenAI is widely expected to consider an IPO in late‑2026/2027 and private valuations have been very large, but no S‑1 or official outstanding‑share count is publicly available — that leaves large structural uncertainty. Given that uncertainty and the market’s $0 volume, the current 22.5% probability for a >$1.6T first‑day cap appears plausible and I find insufficient public evidence to declare a significant mispricing now.
 
 ### Full Analysis
 
-1) CONTEXT ANALYSIS — what the market is asking
-- The market will pay out “Yes” only if (a) OpenAI completes an IPO before 11:59 PM ET on December 31, 2027, and (b) the official closing-market-cap on OpenAI’s first trading day is strictly greater than $1.6 trillion (outstanding shares × closing price). Otherwise it resolves “No” (including the explicit rule that “No IPO by 12/31/2027” = No).  
-- Operationally, to resolve Yes you therefore need: (i) an IPO to occur before the deadline and (ii) the first-day official closing price times the number of outstanding shares to exceed $1.6T. If the IPO is delayed past the deadline or the first trading-day close is ≤ $1.6T, the market pays No.
+Plan and approach (brief): I used web research to test how likely it is that OpenAI’s first-day public market capitalization would exceed $1.6 trillion. Key questions I needed answered were: (a) Has OpenAI filed an S-1 / is an IPO formally imminent? (b) What do recent private valuations, fundraising activity, and analyst reporting imply about a likely IPO pricing range? (c) Are there credible signs the company could price (or see a first‑day close) above $1.6T? I focused on mainstream business reporting, IPO calendars, and recent pre‑IPO deals and contracts that are commonly used to infer likely public valuations and timing. (I excluded prediction-market sites as requested.)
 
-2) EVIDENCE EVALUATION — facts and how they bear on the YES vs NO outcomes
-- Recent private-market and reporting evidence about OpenAI’s pre-IPO valuation and fundraising:
-  - Multiple mainstream reports over the past 12–18 months place OpenAI’s private valuation in a band roughly from ~$500B (employee secondary in Oct 2025) up through ~$730B–$850B in the latest pre-IPO fundraising discussions—notably Bloomberg/TechCrunch reporting on a round that could put pre-money near ~$730B and post-money into the mid‑$800B range. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-  - Reuters / widely‑syndicated reporting from late‑2025 described advisors laying groundwork for an IPO that could be valued up to ~$1T, and press accounts repeatedly place a likely public‑listing window in late‑2026 to 2027 (but emphasize plans are preliminary). This is the high end of current public reporting. ([investing.com](https://www.investing.com/news/stock-market-news/exclusiveopenai-lays-groundwork-for-juggernaut-ipo-at-up-to-1-trillion-valuation-4317754?utm_source=openai))
-  - OpenAI completed corporate restructuring in late‑Oct 2025 that gave Microsoft a sizeable (~27%) stake and cleared a governance path to raise large external capital—this makes large pre‑IPO raises and an eventual public listing operationally feasible. ([fortune.com](https://fortune.com/2025/10/28/openai-for-profit-restructuring-microsoft-stake/))
+1) CONTEXT ANALYSIS — what the market asks and resolution mechanics
+- The market resolves YES only if OpenAI’s “official closing price for OpenAI's market capitalization on its first trading day” is strictly above $1.6 trillion (market cap = outstanding shares × closing share price on day 1). If no IPO occurs by 2027‑12‑31 11:59 PM ET, it resolves NO. The two practical paths to YES are:
+  - OpenAI prices at IPO with a market cap > $1.6T on day‑one closing (either pricing itself above $1.6T or pricing below but seeing a large first‑day pop producing a >$1.6T close), OR
+  - OpenAI prices ≤ $1.6T but a first‑day trade(s) pushes the closing market cap above $1.6T (counting official close rules).
+- Key unknowns that determine resolution: whether an IPO happens by 2027‑12‑31 (market already states that failure to IPO by that date = NO) and the two numbers that determine cap: official number of outstanding shares (disclosed in S‑1) and the listed exchange’s official closing price on first trading day.
 
-- Evidence that argues YES (market cap > $1.6T is plausible):
-  - The company is attracting extremely large strategic investors (Microsoft, Nvidia, Amazon, SoftBank and sovereign wealth interest in reporting) and reportedly pursuing unusually large pre‑IPO funding; these can support a very high public valuation or create scarcity/low float that produces a first‑day price pop. Reports of $100B+ rounds and $110B strategic investments push implied private valuations into the high‑hundreds of billions, which reduces the gap to $1.6T. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-  - The AI narrative and capital‑intensive “infrastructure” story have produced very steep multiples in public markets for frontier AI assets; in a risk-on scenario a strong first‑day investor appetite could conceivably produce a very large IPO pop.
+2) EVIDENCE EVALUATION — what the public record shows (both bullish and bearish signals)
+Summary of the evidence I found (high‑level):
+- No public, authoritative S‑1 or exchange listing has been made public as of the research date; coverage reports IPO timing as “target late‑2026 / 2027” in many articles, but these are reporting/planning signals rather than filings. This keeps the share count and official pricing window unknown (a structural uncertainty that strongly limits definitive pricing predictions). ([forgeglobal.com](https://forgeglobal.com/tech-ipo-calendar-2026/?utm_source=openai))
+- Recent reporting and secondary/raise activity show very large private valuations and large private capital flows into OpenAI, but reported numbers vary widely (hundreds of billions; some outlets report figures in the $500B–$830B range while some speculation/estimates discuss $1T+ IPO valuations). These figures are useful as anchors but are not the same as an IPO pricing level because private round pricing, tender offers, and reported “valuation” can differ from public pricing and depend strongly on the share count basis, preference structure, and other terms. ([fool.com](https://www.fool.com/investing/2025/11/12/meet-the-supercharged-company-fueling-the-artifici/?utm_source=openai))
+- Operationally, some reporting suggests very large revenues or revenue run‑rate estimates (multi‑tens of billions) that could, depending on multiple possible multiples and float structure, support a $1T+ public valuation in optimistic scenarios — however public multiples demanded for a massively capital‑intensive business with opaque margins could be lower than private markets assume, increasing downside risk. ([fool.com](https://www.fool.com/investing/2025/11/12/meet-the-supercharged-company-fueling-the-artifici/?utm_source=openai))
+- There are credible reports (media, industry trackers) that OpenAI has been preparing for an eventual IPO (IR hires, pre‑IPO fundraising/tenders, infrastructure contracts like CoreWeave) — these support the view that an IPO within 2026–2027 is plausible, but none of these are determinative of a >$1.6T first‑day cap. ([cloudcomputing-news.net](https://www.cloudcomputing-news.net/news/coreweave-secures-usd-11-billion-openai-contract-as-ipo-nears/?utm_source=openai))
 
-- Evidence that argues NO (market cap ≤ $1.6T is more likely):
-  - The best contemporary reporting places OpenAI’s private valuation (after the latest fundraising discussions) substantially below $1.6T — commonly in the $500B–$850B band — which implies the company would need a >90%+ first‑day premium (or an even larger post‑money private valuation prior to listing) to clear $1.6T on day one. That magnitude of jump for a mega‑cap listing is historically uncommon and would require unusually strong demand or a very small free float. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-  - Analysts and reporting also call out very large operating losses and massive near‑term capex/compute commitments for OpenAI (large cash burn forecasts), which weigh on sustainable public multiples and argue against an automatic doubling of private valuation at IPO. Several coverage pieces flag that OpenAI is still burning cash and needs capital to scale, which typically limits the multiple public investors are willing to pay. ([finance.yahoo.com](https://finance.yahoo.com/news/openai-sees-compute-spend-around-223950561.html?utm_source=openai))
-  - The market’s “up to $1T” press coverage (Reuters et al.) is the high‑end scenario; independent corroboration often centers below $1T. That makes $1.6T markedly out of consensus among the best available published estimates. ([investing.com](https://www.investing.com/news/stock-market-news/exclusiveopenai-lays-groundwork-for-juggernaut-ipo-at-up-to-1-trillion-valuation-4317754?utm_source=openai))
+Specific evidence that would argue the market price (22.5%) might be incorrect (bearish → market underpricing, or bullish → market overpricing)
+- Evidence that could make YES materially more likely than the market currently prices (supporting the market being too low):
+  - If OpenAI were to price at a headline IPO valuation in excess of $1.0–$1.3T at base pricing in the IPO (many press reports have discussed $0.8–1.0T+ targets or rumored pricing), then even a modest first‑day pop could push closing cap above $1.6T. Several outlets have reported management/advisers discussing very large target valuations (up to ~$1T) and large pre‑IPO funding rounds; if those are accurate and based on pre‑IPO share counts that imply a high per‑share price, they would increase the probability of >$1.6T on day one. But those reports are heterogeneous and sometimes speculative. ([fool.com](https://www.fool.com/investing/2025/11/12/meet-the-supercharged-company-fueling-the-artifici/?utm_source=openai))
+- Evidence that suggests the market price is reasonable or even too high (supporting 22.5% as fair or optimistic):
+  - There is no public S‑1 and no published outstanding‑share count; absent that, pricing above $1.6T requires either a pricing that’s already well above current private valuations (many press values are under $1T) or an exceptionally large first‑day pop — both are uncertain. Several credible IPO‑calendar trackers and reporting note no filed registration as of the reporting dates, which keeps uncertainty high and makes a high probability (>50%) for >$1.6T unlikely today. ([forgeglobal.com](https://forgeglobal.com/tech-ipo-calendar-2026/?utm_source=openai))
+  - Private market “valuation” headlines are noisy and often rely on selective tender/secondary transactions that don’t reflect the entire cap table or liquidation preferences; a public pricing that yields >$1.6T would require either materially higher per‑share pricing or disclosure of a much larger share base than commonly assumed — neither is currently verifiable in public sources. ([en.wikipedia.org](https://en.wikipedia.org/wiki/OpenAI?utm_source=openai))
 
-- Source credibility and recency
-  - Bloomberg/TechCrunch (TechCrunch citing Bloomberg) and Fortune are established financial/tech reporters with named authors; their February 2026 / Oct 2025 pieces are recent and directly discuss the fundraising, valuation and restructuring that are the most relevant inputs to likely IPO pricing. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-  - Reuters (syndicated widely) is the primary source of the “up to $1T” coverage and the IPO‑window commentary; that is credible but explicitly hedged by the reporting sources. ([investing.com](https://www.investing.com/news/stock-market-news/exclusiveopenai-lays-groundwork-for-juggernaut-ipo-at-up-to-1-trillion-valuation-4317754?utm_source=openai))
-  - Several widely circulated aggregators and finance sites (Yahoo Finance aggregating Bloomberg/Reuters) summarize the same facts (fundraising size, compute commitments). Where possible I emphasized reporting that traces back to Bloomberg/Reuters/FT/Fortune.
+Source credibility and recency
+- Coverage comes mostly from mainstream business press and IPO trackers (Forbes, Yahoo/finance outlets, IPO calendars, tech business sites). These are reasonably credible for reporting “plans” and private‑market signals, but many articles rely on anonymous sources and market rumor for exact valuation targets and timing — that reduces reliability for precise numeric forecasting of a $1.6T threshold. Where possible I favored sources that explicitly noted “no S‑1 has been filed” or that reported primary documents/contracts (e.g., CoreWeave contract reporting) rather than purely speculative pieces. ([cloudcomputing-news.net](https://www.cloudcomputing-news.net/news/coreweave-secures-usd-11-billion-openai-contract-as-ipo-nears/?utm_source=openai))
 
-- Skepticism about “obvious” signals
-  - If the path to >$1.6T were obvious (for example if OpenAI had already disclosed a >$1T pre‑money round or public company comparables at similar revenue multiples), markets would likely have priced higher. Instead private rounds and published estimates cluster below $1T, which suggests the market’s 37% is pricing a material nontrivial chance (a plausible, but still relatively unlikely, upside scenario) rather than the obvious consensus.
+3) MARKET EFFICIENCY ANALYSIS — can the present price be justified?
+- Reasonable interpretations that justify the current 22.5% price:
+  - High uncertainty around shares outstanding and the absence of an S‑1 makes the probability mass wide; many plausible scenarios put OpenAI’s IPO valuation below $1.6T (e.g., private rounds implying sub‑$1T valuations, conservative multiples on revenue), so a low single‑digit to low‑twenties percent chance that first‑day cap exceeds $1.6T is a defensible consensus probability for risk‑averse, information‑seeking traders.
+  - Press speculation about $1T+ valuations does not directly imply a >$1.6T first‑day close — it requires either pricing above $1.6T or a very large first‑day pop. Traders who discount rumor and wait for S‑1/share‑count data would set modest probabilities.
+- Could the price reflect just one or a few traders?
+  - Yes. The market shows total volume $0 and a tight spread — that often means the displayed price was set by whoever created or seeded the market and has not been tested. With no trading volume, price likely reflects one opinion or a small set of orders rather than a diverse aggregation.
+- Is low volume because outcome is obvious or because informed traders haven’t engaged?
+  - Low volume here likely reflects uncertainty + lack of S‑1 rather than consensus; OpenAI is high‑profile, so if there were strong conviction that >$1.6T was likely, more (arbitrage/hedge) trades would likely have appeared. The absence of such engagement suggests informed traders are waiting for clearer disclosures (S‑1, share count, pricing range).
 
-3) MARKET EFFICIENCY ANALYSIS (how to interpret the market price)
-- Reasonable interpretations that justify the 37% price:
-  - Traders may be blending two probabilities: (A) the chance OpenAI actually lists by 12/31/2027 (high), and (B) conditional on listing, the (lower) chance the first‑day close exceeds $1.6T. A 37% implied probability could reflect (say) ~80–90% chance of IPO before the deadline × ~40–45% chance of a large valuation/first‑day pop that crosses $1.6T — plausible numerics for some traders.  
-  - The price could be incorporating the high‑end Reuters/Bloomberg scenarios (the “up to $1T” press plus large strategic investors and potential tiny float) as a realistic tail of outcomes.
-- Could the price reflect one or a few traders rather than a broad consensus?
-  - The market has zero reported trading volume and a tiny spread despite being only 42 days old — this pattern strongly suggests the posted price likely reflects a small number of participants (or one market-maker’s inventory/pricing) rather than a deep aggregation of diverse, high‑stakes capital. That raises the risk the price is noisy/fragile.
-- Why low volume might exist:
-  - This is a long‑dated, niche, high‑uncertainty binary with a complex resolution rule (first‑day market cap) — many institutional traders may avoid it until an S‑1 or a clear timetable emerges. That would leave prices controlled by fewer retail or hobbyist traders and a market maker, producing the exact “low volume, tight spread” signature you described.
+4) MISPRICING ASSESSMENT — is there credible evidence of mispricing?
+- Bottom line: there is insufficient, concrete public evidence to conclude a clear mispricing against the market price of 22.5%. Important reasons:
+  - The single most important inputs (official outstanding shares and S‑1 disclosure) are not publicly known. Without those, the mapping from reported private valuations to a first‑day public market cap has too many degrees of freedom. Any claim of a large mispricing would depend on assumptions about share count, treatment of option pools, and whether public pricing will match private round per‑share bases. ([forgeglobal.com](https://forgeglobal.com/tech-ipo-calendar-2026/?utm_source=openai))
+  - Press reports imply both scenarios — private rounds and management comments that could support $1T+ price points, and simultaneous conservative reporting that emphasizes lack of S‑1 and big uncertainties. That mixed evidence justifies a non‑zero but modest probability that day‑one cap exceeds $1.6T, consistent with ~22.5%.
+- Could the market be inefficient because it’s set by a single opinion? Yes — the $0 total volume suggests the displayed price may not have been stress‑tested. That creates opportunity if you have reliable private information (S‑1 draft, share counts, anchor pricing from underwriters) that differs materially from public speculation. No such public evidence was found in my research.
+- Critical check: do I understand the resolution criteria? Yes — market uses official exchange listing page and first trading day’s official closing price; it will resolve NO if no IPO by end of 2027. There is no public S‑1 or share count yet, so a confident assertion that the market is off by a large margin (>20¢) would require inside knowledge I do not have.
 
-4) MISPRICING ASSESSMENT — weighing the evidence
-- Summary of the balance:
-  - Against YES: the best contemporaneous reporting places private valuations below $1T (commonly $500B–$850B), OpenAI’s large cash burn and capex needs argue for conservative public multiples, and a >90% implied surge to reach $1.6T is historically unlikely for a mega‑cap float. These facts argue the market’s 37% chance for >$1.6T is optimistic. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-  - For YES: major strategic investors, very large pre‑IPO fundraising activity, and the unique strategic importance of OpenAI could produce a small but meaningful tail risk where IPO demand (and/or an extremely small free float) drives a very large first‑day market cap well above private valuations. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-- Critical check (I re‑checked the question/resolution terms):
-  - Resolution is explicitly based on “official closing price” × “total outstanding shares” on the first trading day; there is no alternative “announcement valuation” clause. So a post‑listing secondary trade surge that occurs after the official close would not help; this strictly requires the official close on day one. That makes the threshold harder to reach than casual “post‑IPO market cap” talk. (I verified the market description you supplied.)
-- Conclusion on mispricing
-  - There is credible, public evidence that a >$1.6T day‑one market cap is a low‑probability tail outcome but not impossible. Given current best public reporting (private valuations mostly sub‑$1T, large but not $1.6T pre‑money numbers), I judge the market’s 37% implied probability to be optimistic and to overstate the chance of >$1.6T on day one. However, the evidence does not prove a large, unambiguous mispricing: there are plausible but narrow scenarios (very small float, extreme retail/hype demand, or late-stage private valuation >> $850B) that would make the price reasonable. Overall: modest evidence for overpricing, not definitive proof.
+5) EXPECTED VALUE CALCULATION (estimate of value in trading on this mispricing)
+- Strength of evidence that something material is missing from the market price (i.e., that public information strongly points to a >$1.6T first‑day closing but market prices it ~22.5%): low-to‑moderate. I judge this at ~35% — we have credible rumors/pressure toward a very large valuation but not the decisive documents (S‑1, share count) that would move probability materially. (Strength = 35%).
+- Plausible magnitude of mispricing (if there were one): small. Given the wide uncertainty and how large a change in assumptions would be required to move from 22.5% to, say, >45% (a >22.5¢ change), I estimate a plausible magnitude on the order of 3–8 cents; central estimate ~6 cents.
+- Expected value = Strength × Magnitude = 0.35 × 6 cents ≈ 2.1 cents.
+  - Expected value (numeric, in cents): 2.1
 
-5) EXPECTED‑VALUE CALCULATION (estimate of the value of acting on this mispricing)
-- My best judgment (synthesis):
-  - Best‑estimate true probability that first‑day close > $1.6T: ~15% (central estimate based on private valuations currently clustered in the high‑hundreds of billions, required >90% first‑day jump to clear 1.6T, and the low but non‑zero tail risk from strategic investors / small float).  
-  - Market price = 37% → estimated mispricing (market − my estimate) = 22 percentage points = 22 cents.
-  - Strength of evidence (how confident I am that the market is missing this specific information) = 55%. Rationale: high‑quality reporting (Bloomberg/Reuters/Fortune) consistently puts valuations below $1T and flags big operating losses; but the situation is fast‑moving (fundraising still being reported) and the tail risk is real, so confidence is not high. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
-  - Expected value = Strength × Magnitude = 0.55 × 22 cents = 12.1 cents.
-- I therefore estimate an expected edge of ~12.1 cents per $1 (i.e., 12.1c) if you believe the market will converge to the more conservative probability I outlined and can trade at the current price.
+6) CONFIDENCE in this assessment
+- I rate my confidence as: medium.
+  - Reason: There is a volume of credible reporting that OpenAI is preparing for an IPO and that private valuations have been very large; however the absence of an S‑1 / no public share count and many speculative media stories reduce the ability to be highly confident. Also the market display shows no trading volume, which makes it easy for a single opinion to set the price. Taken together, the evaluation is necessarily probabilistic and uncertain, so “medium” confidence is appropriate.
 
-6) CONFIDENCE IN THIS ASSESSMENT
-- My quantitative confidence in the expected‑value calculation and the overall assessment: medium. (There is solid, recent reporting on valuations and governance that supports the “less than 1.6T” view, but the situation remains fast‑moving with large strategic fundraising and nontrivial tail scenarios.)
+Concise recommended next steps if you want to act on this market
+- Wait for S‑1 (or any credible underwriter announcements) to obtain outstanding shares and price range — that will materially reduce uncertainty and is the single most important data point.
+- If you have access to reliable private secondary prices that include share‑count basis (e.g., recent tender price, and the exact denominator used), incorporate that into a per‑share implied public valuation model before trading.
+- Given current low volume, avoid large position sizes unless you have confirmatory, primary‑document evidence.
 
-CRITICAL NOTES / RECOMMENDATIONS
-- If you are considering trading on this perceived edge, remember:
-  - This is a low‑volume market with likely concentration of liquidity; posted quotes can move far with a single counterparty. Execution risk and market impact are material.
-  - The key drivers to monitor that would materially change the probability: (A) an S‑1 filing or SEC registration statement (exact shares outstanding disclosed), (B) a confirmed pre‑IPO valuation above ~$1T (by a large, confirmed strategic allocation), (C) clear guidance on float size (very small float raises chance of big first‑day close), and (D) wider market conditions around the listing date. Any of these could change the true probability materially.
-- If you want, I can continue monitoring and produce a brief watchlist of trigger events (S‑1 filing, confirmed pre‑IPO allocations, lock‑up/float disclosures, regulatory headlines) and re‑estimate the EV as new facts arrive.
-
-EXPECTED_VALUE: 12.1
-SUMMARY: Recent authoritative reporting places OpenAI’s private valuation mostly in the high‑hundreds of billions (commonly $500B–$850B) and notes large losses and heavy capex; getting to a $1.6T first‑day market cap would require an unusually large first‑day pop or a much larger pre‑IPO valuation. Given the credible evidence, the market’s 37% price looks optimistic; I estimate a modest mispricing with an expected edge of ~12.1 cents. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
+EXPECTED_VALUE: 2.1
+SUMMARY: Public reporting shows OpenAI is widely expected to consider an IPO in late‑2026/2027 and private valuations have been very large, but no S‑1 or official outstanding‑share count is publicly available — that leaves large structural uncertainty. Given that uncertainty and the market’s $0 volume, the current 22.5% probability for a >$1.6T first‑day cap appears plausible and I find insufficient public evidence to declare a significant mispricing now.
 CONFIDENCE: medium
 
 ---
@@ -89,27 +83,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [OpenAI reportedly finalizing $100B deal at more than $850B valuation](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/)
-**Author:** Rebecca Bellan | **Published:** 2026-02-19
+### [Meet the Supercharged Company Fueling the Artificial Intelligence Revolution That One Day Could IPO at a Market Cap of $1 Trillion](https://www.fool.com/investing/2025/11/12/meet-the-supercharged-company-fueling-the-arti/)
+**Author:** Unknown (Motley Fool) | **Published:** 2025-11-12
 
-TechCrunch (citing Bloomberg) reports that OpenAI was near closing the first phase of a funding round that could exceed $100 billion, with a pre‑money figure reported around $730B and a post‑money valuation that could top ~$850B. The article is recent and directly bears on the company’s implied private valuation just before any IPO. This source supports the view that, while OpenAI’s valuation has risen markedly, it is still commonly reported below $1T — which makes a $1.6T first‑day close a substantial upside tail rather than the median outcome. ([techcrunch.com](https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/))
+This Motley Fool piece summarizes public commentary and analyst speculation that OpenAI could pursue a very large IPO (discussing $1T+ scenarios), cites reported revenue/run‑rate figures and private rounds used to support big valuations, and notes management comments about timing and reluctance to be a public‑company CEO. Relevant to the market: it provides one commonly cited bullish anchor (private valuations implying possibility of a $1T+ public pricing), but the article is speculative and does not replace an S‑1 or show the share count needed to calculate first‑day market cap. The article therefore supports the feasibility of a large IPO but is insufficient by itself to prove >$1.6T is likely.
 
-### [OpenAI completes for-profit restructuring and grants Microsoft a 27% stake in the company](https://fortune.com/2025/10/28/openai-for-profit-restructuring-microsoft-stake/)
-**Author:** Beatrice Nolan | **Published:** 2025-10-28
+### [Why The Next Wave Of AI Wealth Will Be In Secondary Markets, Not IPOs](https://www.forbes.com/sites/jaimecatmull/2025/11/06/why-the-next-wave-of-ai-wealth-will-be-in-secondary-markets-not-ipos/)
+**Author:** Jaime Catmull | **Published:** 2025-11-06
 
-Fortune reports on OpenAI’s October 28, 2025 restructuring into a public‑benefit corporate form, including the resulting ownership stakes (Microsoft ~27%, OpenAI Foundation ~26%) and the removal of certain fundraising constraints. This is relevant because the restructuring enabled the kind of large strategic capital raises and a formal IPO path; it also affects float and ownership concentration (which in turn affect how large a first‑day price pop could be). The article supports the view that an IPO is operationally feasible but that ownership concentration could materially influence day‑one pricing. ([fortune.com](https://fortune.com/2025/10/28/openai-for-profit-restructuring-microsoft-stake/))
+Forbes analyzes large private raises and the growing trend of secondary/private market liquidity for AI companies, and discusses OpenAI’s fundraising and valuation headlines (reporting varied private valuation figures and revenue run‑rate estimates). For the prediction‑market issue, this source highlights that private valuations are noisy and that headline private “valuations” don’t map simply to public IPO market caps — which argues for skepticism about treating private rounds as definitive evidence that OpenAI will price >$1.6T on day one.
 
-### [Exclusive‑OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation (Reuters, republished)](https://www.investing.com/news/stock-market-news/exclusiveopenai-lays-groundwork-for-juggernaut-ipo-at-up-to-1-trillion-valuation-4317754)
-**Author:** Unknown (Reuters piece republished by Investing.com) | **Published:** 2025-10-29
+### [Tech IPO calendar / OpenAI pre‑IPO profile (OpenAI IPO Profile)](https://techmarketbriefs.com/pre-ipo/openai/)
+**Author:** Unknown (TechMarketBriefs) | **Published:** Unknown (site content updated in 2026)
 
-This syndicated report (originally by Reuters) describes advisors and bankers laying groundwork for an IPO that advisers said could reach up to ~$1 trillion valuation and places a tentative timetable in late‑2026/2027 while noting the information is preliminary. It is load‑bearing because it documents the high‑end public narrative and the official timeline uncertainty that traders are pricing; it shows that $1T was widely reported as a plausible maximal scenario but that reporting did not assert a >$1.6T outcome. This source explains why some market participants might assign a non‑zero chance to very high public valuations, but it does not corroborate a $1.6T close as consensus. ([investing.com](https://www.investing.com/news/stock-market-news/exclusiveopenai-lays-groundwork-for-juggernaut-ipo-at-up-to-1-trillion-valuation-4317754?utm_source=openai))
+This pre‑IPO profile compiles reporting about OpenAI’s fundraising, preparatory hires, and timing targets (late‑2026 to 2027), and explicitly notes that no public S‑1 had been filed at the time of its update. Relevant: it confirms that media/industry trackers view an IPO as possible within the market’s resolution window but also that critical primary disclosures (S‑1, share counts) were absent — supporting the conclusion that large model uncertainty remains.
 
-### [OpenAI funding on track to top US$100 bil in latest round — Bloomberg (reported via Yahoo Finance)](https://sg.finance.yahoo.com/news/openai-funding-track-top-us-211426766.html)
-**Author:** Unknown (Bloomberg report republished) | **Published:** 2026-02-18
+### [Tech stocks today: Anthropic says Pentagon ban could cost it billions, Meta announces new AI chips (Yahoo Finance)](https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-says-pentagon-ban-could-cost-it-billions-meta-announces-new-ai-chips-134456659.html)
+**Author:** Unknown (Yahoo Finance live coverage) | **Published:** 2026-02-27
 
-Bloomberg (republished on Yahoo Finance) reported that OpenAI was finalizing the first phase of a funding round that could top $100B and could lift the company’s valuation into the ~$850B range. The piece also highlights compute and capex commitments and the strategic investor mix. This is relevant because it is the most recent, high‑quality reporting suggesting the company’s private valuation is high but still substantially under the $1.6T threshold, tightening the plausible band for a day‑one market cap. ([sg.finance.yahoo.com](https://sg.finance.yahoo.com/news/openai-funding-track-top-us-211426766.html?utm_source=openai))
+This news roundup references reporting that OpenAI’s recent fundraising rounds and partnership activity have led some outlets to cite valuations in the high hundreds of billions (e.g., reported ~$730B–$830B figures) and notes that OpenAI has been active in enterprise deals and infrastructure commitments. For the market evaluation, it shows public reporting of very large private valuations but also underlines variance across outlets — evidence that private numbers are inconsistent and should be treated cautiously when inferring an IPO cap above $1.6T.
 
-### [OpenAI sees compute spend of around $600 billion through 2030, source says](https://finance.yahoo.com/news/openai-sees-compute-spend-around-223950561.html)
-**Author:** Unknown (Reuters report republished on Yahoo Finance) | **Published:** 2026-02-20
+### [OpenAI (Wikipedia)](https://en.wikipedia.org/wiki/OpenAI)
+**Author:** Unknown | **Published:** 2026-03-22
 
-Reuters reporting (republished by Yahoo Finance) on OpenAI’s enormous projected compute and infrastructure spending and its high near‑term cash needs. This story is relevant because large projected spending and current reported losses argue for conservative public multiples and reduce the plausibility that public investors would immediately justify a $1.6T valuation on day one absent a correspondingly enormous revenue/profit story. It therefore weighs against a high probability that the market cap will exceed $1.6T on the first trading day. ([finance.yahoo.com](https://finance.yahoo.com/news/openai-sees-compute-spend-around-223950561.html?utm_source=openai))
+The Wikipedia entry aggregates company history, restructuring, major investments (including Microsoft stake), and reported private fundraising and valuation events. It is useful as a centralized summary of reported milestones (e.g., large private raises, restructuring to for‑profit structure) but is a secondary compiled source; it corroborates that OpenAI has had very large private fundings and structural changes that make an IPO technically possible, while also highlighting uncertainty and controversy around valuation and governance. This supports the view that public documentation is required for confident first‑day market‑cap estimates.
+
+### [CoreWeave secures $11.9 billion OpenAI contract as IPO nears](https://www.cloudcomputing-news.net/news/coreweave-secures-usd-11-billion-openai-contract-as-ipo-nears/)
+**Author:** Unknown | **Published:** 2025-03-13
+
+This article reports a large infrastructure contract between CoreWeave and OpenAI and frames it as part of OpenAI’s preparations for scale and a possible upcoming IPO. Relevant to pricing: large infrastructure commitments and supplier contracts are consistent with the company preparing for public markets (supporting plausibility of an IPO in the market’s timeframe), but the article does not disclose share counts or pricing and therefore cannot determine whether a >$1.6T first‑day cap is probable.
+
+### [Forge - Tech IPO Calendar for 2026](https://forgeglobal.com/tech-ipo-calendar-2026/)
+**Author:** Unknown (Forge Global) | **Published:** 2026 (site maintained/updated)
+
+Forge’s IPO calendar notes companies that have publicly filed S‑1s or confidential filings; their calendar entries and commentary (including mention of OpenAI planning but no public filing) corroborate that as of the reporting window OpenAI had not produced a public registration statement. This underscores the central analytic point: without a filing/shares disclosed, mapping rumors/secondary prices to a >$1.6T first‑day cap is speculative and uncertain.

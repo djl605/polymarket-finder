@@ -1,86 +1,100 @@
 # Research: Will Russia enter Havrylivka by April 30, 2026?
 
 **Market ID:** 0x6a1eb31777d0150b40a31aec603d1cb91632e00865333aa4d6975fcb5715a0a2
-**Researched At:** March 10, 2026 at 03:04:01 PM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Russia enter Havrylivka by April 30, 2026?"
+**Researched At:** March 22, 2026 at 04:32:20 AM UTC
+**Search Query:** "Will Russia enter Havrylivka by April 30, 2026?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 6.0¢
+**Expected Value:** 3.0¢
 
 ### Summary
 
-Multiple credible sources (ISW, The Guardian) show Russian advances are stalled and Ukrainian defenses strong, implying a <15% chance of capturing Havrylivka by April 30. The market’s 24.5% appears mildly overpriced by ~10 cents, though spring‐offensive uncertainty tempers confidence.
+Open-source evidence (ISW and Ukrainian local reports) shows active Russian pressure toward Havrylivka but no clear ISW-confirmed capture; the market’s 21% price is plausible given ISW’s conservative mapping rules and the slow, costly nature of advances. A small edge (a few cents) is possible but I found no strong evidence of a large mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether any part of Havrylivka (48.072788° N, 36.523524° E) will be shaded as Russian-controlled or advanced by April 30, 2026, per ISW (or fallback) maps, with shading lasting a full update cycle. “Yes” requires Russian forces to establish actual control—whether by combat or de facto settlement—and have it persist through a daily ISW update.
+Plan and sources used
+- I searched for authoritative recent assessments of operations in southern Dnipropetrovsk (ISW), local reporting of combat and shelling in Havrylivka, and the DeepStateMap fallback (to confirm mapping/resolution sources). Key load-bearing sources below are ISW’s operational assessments and multiple Ukrainian local reporting items that explicitly reference Havrylivka. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
 
-2. EVIDENCE EVALUATION  
-Bearish (probability too high):  
-- ISW 9 Mar 2026 (Grace): Russian advances in Zaporizhia are stalled; Ukrainian counterattacks are pushing back the 58th and 5th CAAs. A breakthrough toward Havrylivka appears unlikely without a significant shift.  
-- Guardian 3 Mar 2026: February saw Russia’s slowest gain since April 2024 (123 km² total), with no hotspot activity in Dnipropetrovsk Oblast or threats to Havrylivka.  
-- AFU repelled 40+ attacks (Online.ua, 4 Mar): Ukrainian defenses remain robust across multiple sectors; no indication of Russian pressure on Havrylivka.  
+1) CONTEXT ANALYSIS — what the market asks and resolution mechanics
+- Market question (paraphrased): Will Russia capture any territory of the small village of Havrylivka (48.072788°N, 36.523524°E) in Dnipropetrovsk Oblast by 11:59 PM ET on April 30, 2026, as shown by the ISW map (specific ISW shading layers count) and with shading that persists through ISW’s next finalized daily update cycle? The market resolves “Yes” if any ISW shading categorized as “Assessed Russian Infiltration Areas,” “Assessed Russian Control,” “Assessed Russian Advance,” or “Assessed Russian Gains in the Past 24 Hours” appears covering any part of that location and persists through the next ISW daily update; otherwise it resolves “No.” The market’s fallback resolution source is DeepStateMap if ISW is unavailable, and if both are unavailable then a consensus of credible reporting may be used. (This is from the market description the market uses for resolution; I treated the ISW shading + persistence rule as the critical resolution criteria — you only get a “Yes” when ISW (or fallback) shows the village shaded as an assessed Russian presence/advance/control and that shading persists into the next ISW update cycle.)
+- Operationally, for “Yes” a Russian force must take and hold (long enough for ISW to reflect it in their daily map layer and let it persist to the next ISW update) any portion of the coordinates or village area. A temporary shot of shading that is later removed before the next finalized ISW update would not qualify per the market’s rules. (This is the single most important resolution detail for forecasting: ISW’s published daily map and the requirement that shading persist through the next finalized map update.) ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
 
-Bullish (probability too low):  
-- Spring thaw will improve mobility, potentially enabling renewed offensives late March/April.  
-- Russia could divert reserves for a secondary push, though no open‐source intelligence currently flags a Havrylivka thrust.  
+2) EVIDENCE EVALUATION — relevant facts and how they affect the probability
+A. Evidence that suggests the market price (21%) might be too low (i.e., supports higher Yes probability)
+- ISW’s operational analysis (June 14, 2025 backgrounder) explicitly identified Russian advances and the development of salients that aim at pushing into southern Dnipropetrovsk, and stated Russian forces have concentrated advances westward toward Velykomykhailivka and Havrylivka; ISW assessed Russian command intentions to press into southern Dnipropetrovsk and said Russian forces had redeployed units into western Donetsk to support pushes that could reach this area. That indicates ISW itself recognizes a pathway and active pressure toward Havrylivka. Taken at face value, those assessments imply a non-trivial ongoing operational campaign in the direction of Havrylivka that could produce a local capture before April 30 if momentum and attrition dynamics favor Russia. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
+- Multiple Ukrainian local reporting and morning summaries recorded repeated strikes, airstrikes, and combat engagements in and near Havrylivka during late 2025 and early 2026 (examples: UNN morning map reports and Censor.NET / regional reporting listing Havrylivka among targeted settlements). Recurrent targeting and reported clashes indicate the sector is active and contested rather than quiet, which increases the plausible chance of limited territorial gains. Local reporting also mentions evacuations and hardship in frontline Havrylivka. If fighting is materially escalating immediately before the resolution date, that would raise the near-term capture probability. ([unn.ua](https://unn.ua/en/news/the-number-of-battles-on-the-front-line-increased-by-a-quarter-in-24-hours-general-staff-map--2?utm_source=openai))
 
-Source credibility: ISW and The Guardian are high; Online.ua and UNN moderate. All are recent (early March), directly address frontline trends—but none cite imminent action near Havrylivka.
+B. Evidence that supports the market price (i.e., supports a low-to-moderate chance of capture)
+- ISW’s assessments (same ISW reporting cited above) emphasize that while Russian forces have achieved incremental gains in 2024–2025 and are pursuing methodical, slow advances, the rate of advance is generally “foot pace” and costly — ISW repeatedly notes advances are slow, incremental, and met by Ukrainian counterattacks. ISW also pointed out that seizing larger settlements or deeper operational objectives (for example moving substantially into Dnipropetrovsk/Zaporizhia) would likely require multi-month to multi-year efforts and are hard to accomplish quickly. That makes short-term captures of a small village possible but not highly likely in the space of ~5–6 weeks unless Russia concentrates unusual resources in that precise spot. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
+- Local reporting shows frequent strikes and clashes but (in the pieces found) no independent, geolocated confirmation or major international reporting that Russia has captured or persistently occupied Havrylivka as of mid/late Jan–Dec 2025 or in the materials scanned; ISW remains the canonical daily mapping source used for resolution and ISW had not (in the June 2025 PDF) declared Havrylivka under assessed Russian control — rather ISW described it as a direction of advance. In other words, as of the latest ISW assessments I found, ISW described pressure toward Havrylivka but not confirmed capture. That supports a modest probability (not near-certain). ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 24.5% price could reflect a consensus view that spring conditions plus Russian operational reserves give at least a one-in-four chance of some localized advance by month’s end. Low volume suggests few participants; the spread (3 cents) implies makers aren’t widely contested, not necessarily that informed traders find it a straight, obvious outcome.
+C. Credibility and recency
+- ISW (Institute for the Study of War) is a high-profile open-source analytical organization relied on by analysts and media for map-based and event-level assessments; the specific document I used is ISW’s Russian Offensive Campaign Assessment (PDF, June 14, 2025) and explicitly mentions Havrylivka as a named direction. It is credible for assessing Russian intent and slow advances, but note ISW is a synthesizer of open-source reporting and geolocated material — its map layer is the market’s resolution source itself. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
+- Local Ukrainian outlets and morning-summaries (UNN, Censor.NET, Mezha) are contemporaneous frontline reporting sources; they are useful for detecting strikes, clashes, and likely contested status but vary in rigor and often report Ukrainian General Staff summaries. They typically precede or feed into ISW assessments (i.e., ISW may synthesize such reports). Local outlets can overstate or repeat claims in fog-of-war conditions, so I treat them as corroborating but not definitive unless independently geolocated or confirmed. ([unn.ua](https://unn.ua/en/news/the-number-of-battles-on-the-front-line-increased-by-a-quarter-in-24-hours-general-staff-map--2?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-On balance, publicly available intelligence points to a low likelihood (perhaps 5–15%) of Russian capture of Havrylivka by April 30. The market’s 24.5% seems materially above that range, indicating a mild overpricing of ~10–15 cents. However, absence of explicit forecasts for Havrylivka and spring-offensive uncertainty moderate the conviction.
+D. Skepticism about “obvious” evidence
+- The fact that ISW lists Havrylivka as a direction of Russian pressure does not mean ISW will necessarily mark the village as “Assessed Russian Control” within the limited time window. ISW’s map updates are conservative about switching shading to “assessed control” and typically require confirmatory evidence (geolocated footage, multiple corroborating sources). If capture were imminent and obvious, ISW would probably already be tracking and shading it; if ISW has not yet shaded it, that restraint could explain why the market price isn’t higher. This is precisely the kind of technicality (map shading persistence and ISW evidentiary standards) the market’s resolution rules emphasize and that can produce a gap between raw battlefield activity and a market “Yes” resolution. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence: ~60% (ISW reports are detailed and recent)  
-Estimated magnitude of mispricing: ~10 cents  
-Expected value = 0.6 × 10 = 6 cents
+3) MARKET EFFICIENCY ANALYSIS — is 21% a reasonable aggregation of available info?
+- Reasonable interpretation that justifies ~21%:
+  - ISW identifies Havrylivka as a direction of forward pressure but documents that advances are slow and costly and that Ukraine is conducting counterattacks. Combining that with continuing strikes (local reports) yields a non-negligible chance (e.g., low-to-moderate) that a small village could change hands within ~5 weeks, but it is not near-certain. A 20%–30% market price is a plausible aggregation of “active fighting but slow advance” plus the mapping/persistence rule (which raises the bar for a “Yes” because shading must persist into the next ISW update). ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
+- Could the price instead reflect a single overconfident trader(s)? Yes — the market has very low total volume ($710) and a tight spread; low-volume markets can be set by one or few participants. The tight spread could be due to one participant providing liquidity or a single trader’s belief. The market’s small-dollar volume means it’s fragile to single large bets. That argues for skepticism about interpreting the price as “broad consensus.” (This is a market microstructure observation rather than an evidence-of-battlefield-fact.) — no external citation needed; this follows from the provided market metrics.
+- Is low volume because outcome obvious or because traders haven’t engaged? Given the active but slow nature of the front and ISW’s evidentiary threshold for mapped control, the outcome is uncertain but specialized; many informed traders may avoid small village bets where ISW mapping technicalities dominate — that suggests low engagement (and therefore greater chance that the price reflects only a few participants rather than a market-wide consensus).
 
-EXPECTED_VALUE: 6  
-SUMMARY: Multiple credible sources (ISW, The Guardian) show Russian advances are stalled and Ukrainian defenses strong, implying a <15% chance of capturing Havrylivka by April 30. The market’s 24.5% appears mildly overpriced by ~10 cents, though spring‐offensive uncertainty tempers confidence.  
+4) MISPRICING ASSESSMENT — weighing evidence and the critical checklist
+- Net balance of evidence: ISW documents pressure toward Havrylivka and local reporting shows repeated strikes and engagements — that creates a credible baseline chance of localized captures. But ISW’s own language emphasizes slow, methodical, and costly advances and does not show Havrylivka as clearly assessed Russian control in the ISW material I examined. In addition, the market’s resolution hinges on ISW’s daily shading persistence, which raises the bar for “Yes” relative to merely “fighting occurred here.”
+- Do I have specific, credible missing evidence that would move probability by >20 percentage points? No. I did not find any geolocated confirmation or ISW shading indicating Russia has taken Havrylivka or that they are on the cusp of a confirmed seizure. The primary authoritative source for resolution (ISW) has indicated direction-of-advance activity but not confirmed capture of this village in the materials reviewed. Because of that, there isn’t a clear, specific piece of missing information that would justify concluding that the market is off by a very large amount. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
+- Most charitable interpretation for 21%: informed traders have internalized ISW’s assessment that the sector is active (raising the chance above near-zero) but also the slow pace and ISW’s evidentiary thresholds (keeping probability modest). Low volume suggests many informed traders have not engaged for small stakes, leaving the price set by a few participants who are roughly in the 15%–30% subjective-probability range.
+- Critical check: I re-examined the resolution criteria (ISW shading + persistence). That technical requirement materially reduces the short-term probability relative to raw battlefield activity. It is plausible informed traders priced that in; if someone argued the market is mispriced by >20c, I would look for an imminent ISW shading (geolocated footage + corroboration) or a public Russian operational statement of seized coordinates — I did not find such confirming reports. Therefore I do not find strong evidence for a large mispricing.
+
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence that price misses key information: I assess this as modest — there is credible evidence of fighting and directional pressure, but no clear geolocated proof of imminent capture that ISW would be likely to reflect in the next map update. Strength = 40%.
+- Magnitude of plausible mispricing if I were to be correct: small — given the facts, a plausible correction would be in the single-digit cents range (i.e., market at 21% might be off by ~5–10 cents). I pick a midpoint magnitude = 7 cents.
+- Expected value = Strength × Magnitude = 0.40 × 7 cents = 2.8 cents. Round to a single-digit cents value appropriate for reporting: 3.0 cents.
+- Interpretation: the expected edge from acting on conviction that the market is mispriced is small (a few cents), given available public evidence.
+
+6) CONFIDENCE IN ASSESSMENT
+- I rate my confidence as medium. Rationale: ISW and Ukrainian reporting provide reasonably reliable open-source signals, but the outcome depends on near-term tactical dynamics and ISW’s internal evidentiary decisions — both of which can change quickly and are partially opaque. The market is low-volume, which lowers the reliability of its price as a consensus indicator but also means small, private bets could move price—again reducing confidence in a strong conclusion about mispricing.
+
+Concise concluding judgement
+- Summary judgment: There is credible evidence of Russian pressure and repeated strikes in the Havrylivka direction (ISW notes Havrylivka as a target of Russian advances and local reporting documents active fighting), so a non-zero chance of capture before April 30 is justified. However, ISW emphasizes slow, costly, and methodical advances and (in the materials I reviewed) had not indicated assessed Russian control of Havrylivka; the market’s resolution rule that ISW shading must persist through the next ISW update raises the bar for a “Yes.” Given that, a market price near 21% is a reasonable aggregation of available public evidence; I did not find specific, credible evidence that would justify concluding a large (>20c) mispricing. A small mispricing (single-digit cents) is possible but not well supported by the open-source record I reviewed. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
+
+EXPECTED_VALUE: 3.0
+SUMMARY: Open-source evidence (ISW and Ukrainian local reports) shows active Russian pressure toward Havrylivka but no clear ISW-confirmed capture; the market’s 21% price is plausible given ISW’s conservative mapping rules and the slow, costly nature of advances. A small edge (a few cents) is possible but I found no strong evidence of a large mispricing.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Russian Offensive Campaign Assessment, March 9, 2026 | ISW
-Author: Adam Grace
-Published Date: 2026-03-10T00:00:00.000Z
-URL: https://isw.pub/UkrWar030926
-Summary: The assessment indicates that Ukrainian forces are actively counterattacking in multiple directions within Zaporizhia Oblast, successfully halting and pushing back Russian advances near Orikhiv and in surrounding areas. Russian forces, including the 58th Combined Arms Army and the 5th CAA, are experiencing setbacks and are primarily focused on repelling Ukrainian counterattacks rather than advancing. Ukrainian efforts are coordinated and have increased ground and drone activity, disrupting Russia’s planned offensive operations for spring-summer 2026. Given the current stalemate and Ukrainian resilience, it appears unlikely that Russian forces will achieve a breakthrough toward Havrylivka by April 30, 2026, without significant changes in operational dynamics.
+### [Russian Offensive Campaign Assessment, June 14, 2025](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf)
+**Author:** Institute for the Study of War (ISW) | **Published:** 2025-06-14
 
-Title: Russian Offensive Campaign Assessment, March 4, 2026 | ISW
-Author: Fiona Noonan
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://isw.pub/UkrWar030426
-Summary: The provided webpage offers a detailed assessment of recent military activities related to Russia and Ukraine as of March 4, 2026. Key points include Ukrainian drone strikes damaging Russian naval assets in Novorossiysk, including warships and electronic warfare systems, and an incident involving the sinking of the Russian LNG tanker Arctic Metagaz in the Mediterranean, attributed by Russia to Ukrainian unmanned surface vehicles. Russia continues to blame Ukraine for escalations, framing these actions as acts of terrorism, and is actively engaging in information campaigns to influence Western nuclear strategies. While these developments highlight ongoing hostilities and escalation tactics, there is no specific information regarding Russian military movements or plans targeting Havrylivka, nor any indication of imminent entry into that location by April 30, 2026.
+ISW’s operational assessment documents Russian offensive trends across multiple directions, notes that Russian forces have concentrated advances westward toward Velykomykhailivka and Havrylivka (both southwest of Novopavlivka), and stresses that advances have generally been slow and costly. ISW’s analysis is directly relevant because the market resolves on ISW map shading — ISW’s discussion of the Havrylivka direction supports a non-zero probability of capture but also provides context (slow “foot-pace” advances and Ukrainian counterattacks) that argues against a near-certain capture in the short term. This source therefore both supports the idea that capture is plausible and explains why the probability should remain modest unless additional confirming evidence appears. ([understandingwar.org](https://www.understandingwar.org/sites/default/files/Russian%20Offensive%20Campaign%20Assessment%2C%20June%2014%2C%202025%20%28PDF%29%20%282%29.pdf))
 
-Title: Ukraine war briefing: Russia’s army records slowest advance since 2024 amid Starlink cut, data shows | Russia | The Guardian
-Author: 
-Published Date: 2026-03-03T00:00:00.000Z
-URL: http://www.theguardian.com/world/2026/mar/03/ukraine-war-briefing-russia-army-records-slowest-advance-since-2024-amid-starlink-cut-data-shows
-Summary: The article reports that Russia's military advance in Ukraine slowed to its slowest pace since April 2024, with a total territorial gain of only 123 sq km in February 2026. Ukrainian forces achieved localized successes, especially along the southern front, while Russian troops continued advancing in the east toward key cities like Kramatorsk and Sloviansk. Recent events include a Ukrainian drone attack damaging Russia’s major oil terminal in Novorossiysk and ongoing military casualties on both sides. The situation indicates a stagnation or slowdown in Russian territorial gains, with no specific mention of imminent plans to enter Havrylivka by April 30, 2026. The current military dynamics suggest limited momentum for a rapid advance into new areas like Havrylivka within that timeframe.
+### [The number of battles on the front line increased by a quarter in 24 hours: General Staff map 29 December 2025 | UNN](https://unn.ua/en/news/the-number-of-battles-on-the-front-line-increased-by-a-quarter-in-24-hours-general-staff-map--2)
+**Author:** Unknown (UNN newsroom) | **Published:** 2025-12-29
 
-Title: Situation at the front — the AFU repelled more than 40 attacks by the Russian army
-Author: 
-Published Date: 2026-03-04T00:00:00.000Z
-URL: https://news.online.ua/en/situation-at-the-front-the-afu-repelled-more-than-40-attacks-by-the-russian-army-901981/
-Summary: The recent military updates indicate ongoing intense fighting along multiple frontlines in Ukraine, with Ukrainian forces successfully repelling over 40 attacks by Russian troops on March 4, 2026. Key areas such as Kupyansk, Oleksandrivka, and Hulyaipil have experienced repeated enemy assaults, with some advances reported in Kupyansk and Oleksandrivka directions. Ukrainian troops continue to hold their positions despite persistent offensives, airstrikes, and clashes across various sectors. Given the current intensity and the ongoing nature of hostilities, there is no specific indication that Russian forces are targeting Havrylivka for an assault by April 30, 2026. However, the overall situation remains highly volatile and subject to change based on ongoing military developments.
+A Ukrainian morning-summary-style report that lists frontline settlements that experienced strikes or engagements; Havrylivka in Dnipropetrovsk Oblast is specifically named among areas hit by strikes during the reporting period. This local reporting corroborates that Havrylivka is an active, contested location, which increases the base probability of localized Russian advances — but the piece is a combat-engagement summary rather than a geolocated confirmation of capture, so it supports uncertainty rather than definitive resolution. ([unn.ua](https://unn.ua/en/news/the-number-of-battles-on-the-front-line-increased-by-a-quarter-in-24-hours-general-staff-map--2?utm_source=openai))
 
-Title: Preparing for spring battles - how the situation on the front will change with the arrival of warm weather | УНН
-Author: https://www.facebook.com/UNNews
-Published Date: 2026-03-04T00:00:00.000Z
-URL: http://www.unn.com.ua/en/news/preparing-for-spring-battles-how-the-situation-on-the-front-will-change-with-the-arrival-of-warm-weather
-Summary: The webpage primarily discusses the current military and geopolitical situation in Ukraine, including preparations for spring battles, ongoing conflicts, and international diplomatic responses. It highlights Ukraine's strategic efforts, such as sending drone experts to protect US bases in Jordan and addressing threats like Iranian "Shaheds." The article also covers diplomatic tensions with Hungary over detained Ukrainian cash collectors and the broader context of Ukraine's defense and security challenges. While it provides insights into Ukraine's military readiness and regional security dynamics, it does not specifically address or provide information relevant to predicting Russia's potential entry into Havrylivka by April 30, 2026.
+### [Combat operations on 6 January 2026 221 clashes on the front line | Censor.NET](https://censor.net/en/news/3594185/combat-operations-on-6-january-2026-221-clashes-on-the-front-line)
+**Author:** Unknown (Censor.NET) | **Published:** 2026-01-06
 
+This article reports Ukrainian General Staff and local-situation summaries listing Havrylivka among settlements affected by air strikes and combat in early January 2026. It is relevant because repeated strikes and recorded engagements indicate the village is in an active zone and therefore eligible for a future ISW shading change, but the report does not provide geolocated evidence of a change in control that would directly resolve the market. ([censor.net](https://censor.net/en/news/3594185/combat-operations-on-6-january-2026-221-clashes-on-the-front-line?utm_source=openai))
 
+### [Evacuation and Hardship in Frontline Havrylivka Amid Russian Shelling | Mezha](https://mezha.net/eng/bukvy/evacuation-and-hardship-in-frontline-havrylivka-amid-russian-shelling/)
+**Author:** Unknown | **Published:** Unknown
+
+Local-feature reporting describing evacuation, hardship, and frontline conditions in Havrylivka, indicating it is a frontline settlement experiencing regular hostile activity. This supports the claim that the area is contested and vulnerable to ground advances, but it does not provide geolocated confirmation or ISW shading that would be needed for market resolution; hence it supports upward revisions to probability only if corroborated by mapping evidence. ([mezha.net](https://mezha.net/eng/bukvy/evacuation-and-hardship-in-frontline-havrylivka-amid-russian-shelling/?utm_source=openai))
+
+### [DeepStateMAP | Мапа війни в Україні](https://deepstatemap.live/)
+**Author:** Unknown | **Published:** Unknown
+
+DeepStateMap is listed in the market rules as the primary fallback mapping/resolution source if ISW becomes unavailable. I attempted to load the DeepStateMap view for the Havrylivka coordinates; DeepStateMap is an interactive mapping platform that provides an alternative contested-control layer. It matters for forecasting because if ISW is offline at resolution, DeepStateMap’s shading would be used — therefore analysts must consider whether DeepStateMap offers any corroborating evidence of capture if ISW is ambiguous. The site requires interactive JS to inspect specific coordinates; I could not extract geolocated shading programmatically here but flagged it as the stated fallback. ([deepstatemap.live](https://deepstatemap.live/))

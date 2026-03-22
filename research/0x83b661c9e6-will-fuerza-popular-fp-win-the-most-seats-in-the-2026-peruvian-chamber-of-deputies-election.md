@@ -1,94 +1,118 @@
 # Research: Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Chamber of Deputies election?
 
 **Market ID:** 0x83b661c9e68dde865ac656f20a57572e7168239445bdbde65ea6665b7a4100e4
-**Researched At:** March 11, 2026 at 04:19:39 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Chamber of Deputies election?"
+**Researched At:** March 22, 2026 at 04:30:32 AM UTC
+**Search Query:** "Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Chamber of Deputies election?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 5.0¢
 
 ### Summary
 
-Simulations show FP tied for top seats with Renovación Popular, but polls reveal weak presidential support and heavy voter rejection, balancing FP’s prospects around a ~37% chance. Conflicting, recent data and low trading volume imply no clear >5¢ mispricing.
+Official sources confirm a bicameral 2026 vote with 130 deputies; recent polls and expert commentary show a highly fragmented contest and no clear, consistent national polling lead for Fuerza Popular. Given FP’s organizational strengths but 2021 seat decline, district-seat mechanics, ongoing volatility, and low market volume, the current 40% price is a reasonable mid‑range estimate and I find no strong public evidence of a large (>20¢) mispricing.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether Fuerza Popular (FP) will win more seats than any other party in the April 12, 2026 Peruvian Chamber of Deputies election. A “YES” outcome requires FP to top the seat count; a “NO” covers any other party leading (including a tie broken against FP or the election failing to be decided by the cutoff).  
+Planned approach and constraints
+- I used available official sources and recent reputable reporting to answer whether Fuerza Popular (FP) is plausibly mispriced at 40% to win the most seats in the Chamber of Deputies (130-seat lower house) in Peru’s April 12, 2026 general election. I excluded prediction-market sites per your instruction.
+- Key things I needed to establish: (a) the exact electoral structure the market will resolve on (bicameral vs unicameral), (b) recent baseline seat counts and organizational strength for FP, and (c) recent polling and expert analysis about party-level vote share / fragmentation that would affect which party ends up with the largest single bloc of seats.
 
-2. EVIDENCE EVALUATION  
-Bullish for FP (suggesting the market underprices YES):  
-- Instituto Aklla Perú simulation (Mar 6) projects FP and Renovación Popular (RP) both at ~32 seats, tied as top contenders, with FP clearing the 5% barrier with >100% simulated probability—implying a nontrivial chance FP edges out RP.  
+1) CONTEXT ANALYSIS — what the market asks and resolution conditions
+- The market asks: “Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Chamber of Deputies election?” For the market to resolve YES, FP must win more deputies than any other single party or coalition in the April 12, 2026 legislative elections for the Chamber of Deputies (the 130-seat lower chamber to be elected in 2026). For it to resolve NO, any other party or coalition must win a strictly greater number of deputies (ties are resolved by votes, then alphabetical order per the market terms). ([eg2026.onpe.gob.pe](https://eg2026.onpe.gob.pe/bicameralidad/?utm_source=openai))
 
-Bearish for FP (suggesting the market overprices YES):  
-- Ipsos Feb 12 survey shows Keiko Fujimori’s presidential support at just 8% nationally (10% Lima/7% interior) amid a 27% blank/abstain rate—signaling weak momentum for FP heading into elections.  
-- La República Feb 10 poll finds FP approval at only 12.9% vs. an 82.1% rejection, indicating widespread voter dissatisfaction that could depress FP’s legislative vote share below other parties.  
+- Important procedural detail: Peru’s 2026 elections will select a bicameral legislature (60 senators and 130 deputies) after a constitutional reform; therefore this market’s “Chamber of Deputies” is the lower house in a bicameral Congress to be elected in 2026. The election will therefore use the seat distribution and district plan established by the JNE/ONPE. That matters because district-level allocations and open-list proportional rules affect seat translation (D’Hondt/multi-member districts rather than a single national list). ([eg2026.onpe.gob.pe](https://eg2026.onpe.gob.pe/bicameralidad/?utm_source=openai))
 
-Neutral or limited-value evidence:  
-- Lima-focused online poll (Mar 3) gives a snapshot of youth/internet users but is too narrow to prognosticate national seat totals.  
-- El Comercio overview (Mar 3) confirms FP’s active campaign but lacks data on vote or seat projections.  
+2) EVIDENCE EVALUATION — all relevant evidence (bullish and bearish)
+Summary of the evidence I reviewed (most load-bearing items cited inline):
+- Official electoral structure and schedule: JNE/ONPE materials confirm bicameral elections with 130 deputies to be elected on April 12, 2026 (distribution of seats by district; official voter information pages). This is authoritative for resolution mechanics. ([eg2026.onpe.gob.pe](https://eg2026.onpe.gob.pe/bicameralidad/?utm_source=openai))
+- Baseline (past result and organizational footprint): ONPE’s official materials for the 2021 election show Fuerza Popular was one of the larger parties in the previous Congress, finishing with 24 seats (Perú Libre led with 37 seats in 2021). That provides a recent historical baseline (FP is not a marginal party and has organizational capacity). ([onpe.gob.pe](https://www.onpe.gob.pe/modEducacion/Publicaciones/informativo-electoral-8.pdf))
+- Polling / race fragmentation: multiple recent trackers and polls show Peru’s 2026 contest is highly fragmented, with many presidential and party-level contenders and a very large undecided share — several polls show multiple right‑wing/populist contenders and no single party commanding a dominant national vote share. Aggregated trackers and reputable commentary note the field is fragmented and unstable; presidential polling leaders change but no single party consistently polls at a plurality large enough to guarantee the most seats. This fragmentation increases uncertainty about which party will emerge as the largest congressional bloc. ([as-coa.org](https://www.as-coa.org/articles/poll-tracker-perus-2026-presidential-election))
+- Expert analysis / risk context: analysts and crisis/region specialists highlight Peru’s extreme political instability and party volatility since 2016, meaning past seat distributions can change rapidly; parties also suffer defections and re‑alignments in Congress. That makes seat projections uncertain and vulnerable to campaign events, legal challenges, and last‑minute alliances. ([icg-prod.s3.amazonaws.com](https://icg-prod.s3.amazonaws.com/s3fs-public/2024-02/104-peru-plotting-a-route.pdf?utm_source=openai))
+- Recent candidate/party issues: reporting indicates ongoing legal/administrative scrutiny around FP and its leader in some instances (party investigations/activities cited in reporting), which can affect voter perception or campaign operation in some districts. At the same time, FP has concentrated strengths in specific regions (coast/Lima) which matter under the multi-district seat allocation. ([es.wikipedia.org](https://es.wikipedia.org/wiki/Fuerza_Popular?utm_source=openai))
 
-Sources are recent (Feb–Mar 2026) and from established Peruvian outlets, but projections are tempered by high indecision (43% in the Aklla simulation; 27% blank/abstain in Ipsos), making any single poll far from definitive.  
+What suggests the market price could be incorrect (evidence that would point away from 40%):
+- Fragmentation and multiple right‑wing competitors: polls show several right-leaning parties and candidates (e.g., Popular Renewal/RP, Renovación Popular, Alliance for Progress, Country for All, plus FP) splitting the right-of-center electorate. If other right-wing parties convert presidential or local momentum into legislative votes more effectively than FP, FP may not be the largest single party. Aggregated polling and analysis emphasize fragmentation and an undecided electorate; that makes the probability of any one party becoming largest fairly low unless that party has clear, consistent poll leads. ([as-coa.org](https://www.as-coa.org/articles/poll-tracker-perus-2026-presidential-election))
+- FP’s recent trajectory: FP’s large 2016 seat haul has not been replicated since; 2021 showed a much smaller seat share (24 seats). That indicates FP’s ceiling is uncertain and that prior dominance has weakened. Historical declines and legal controversies around party leaders could constrain their upside. ([onpe.gob.pe](https://www.onpe.gob.pe/modEducacion/Publicaciones/informativo-electoral-8.pdf))
+- District-seat mechanics: because deputies are elected in multiple multi-member districts (not a single national list), parties with better regional concentration or better ground campaigns can out-perform national polling. If FP’s strengths are geographically concentrated but not broad enough across many districts, its seat total could lag parties with more distributed support. This reduces the probability that FP will “win the most seats” unless it leads nationally. ([eg2026.onpe.gob.pe](https://eg2026.onpe.gob.pe/bicameralidad/?utm_source=openai))
 
-3. MARKET EFFICIENCY ANALYSIS  
-A 37% chance for FP to lead seats could reflect a rough midpoint between:  
-- Aklla’s simulation implying roughly a 50-60% split between FP and RP for top seats, dampened by high uncertainty.  
-- Polls showing FP trailing in voter intent and suffering heavy disapproval, pulling its true win probability below one-third.  
+What supports the current market price (evidence that 40% is reasonable):
+- FP’s organizational strength and name recognition: FP remains a major party with established party machinery and a candidate (Keiko Fujimori) who remains a well-known political figure; in a fragmented field, a recognizable party can plausibly end up as the largest single bloc even with single-digit national shares if rivals are more fragmented or fail to convert support into seats. Historical precedent: in fragmented contests the party tied to a major presidential figure has sometimes emerged largest in Congress. ONPE’s 2021 results and commentary show FP remains a durable actor. ([onpe.gob.pe](https://www.onpe.gob.pe/modEducacion/Publicaciones/informativo-electoral-8.pdf))
+- Poll noise and volatility: polls show leaders change and many undecided voters — in such an environment, tail outcomes (an established party consolidates enough support to be largest) are plausible. Market pricing at 40% could be reflecting a balanced view that FP is one of a small number of credible parties that could end up largest in a fragmented outcome. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election))
 
-Low volume ( \$0 total) suggests few active participants; the tight spread (4¢) may simply be residual liquidity quoting. The lack of trading may reflect traders’ uncertainty, not consensus, but also a view that no clear mispricing exists.  
+Source credibility and recency
+- ONPE (official electoral body) — highest credibility for institutional facts (seat counts, district allocation, electoral mechanics). Recent official pages addressing bicameral implementation are authoritative. ([onpe.gob.pe](https://www.onpe.gob.pe/modEducacion/Publicaciones/informativo-electoral-8.pdf))
+- JNE (electoral judiciary) and national press (Andina, Infobae, El País, Reuters etc.) — credible on legal/regulatory changes and reporting of developments; their coverage confirms bicameral reform and seat allocation. ([lpderecho.pe](https://lpderecho.pe/jne-distribucion-escanos-eleccion-candidatos-senadores-diputados-resolucion-0053-2025-jne/?utm_source=openai))
+- Poll aggregators and reputable region-focused think tanks (AS/COA, IEP, Datum/Ipsos citations aggregated on Wikipedia) — useful for current political dynamics, but individual poll variance and late swings reduce certainty; these are high-quality secondary sources for likely vote fragmentation. ([as-coa.org](https://www.as-coa.org/articles/poll-tracker-perus-2026-presidential-election))
+- Independent analysts/ICG and scholarly commentary — useful for contextualizing volatility and institutional risks that affect election outcomes; they emphasize uncertainty. ([icg-prod.s3.amazonaws.com](https://icg-prod.s3.amazonaws.com/s3fs-public/2024-02/104-peru-plotting-a-route.pdf?utm_source=openai))
 
-4. MISPRICING ASSESSMENT  
-• No single, strong, unpriced fact emerges. Aklla’s projection is credible but balanced by conflicting negative polling.  
-• The 37% price plausibly aggregates these cross-currents: FP is a co-leader in simulations but has weak current voter support.  
-• There is no indication of a >10¢ mispricing absent further structural or inside information.  
+Skepticism about “obvious” evidence
+- If an obvious case existed for FP being the clear favorite (e.g., consistent 25–30% polling advantage nationally), the market price would likely be higher and more volume would flow. The lack of a dominant, consistent polling lead for FP and the known instability in Peru’s politics argues the market is appropriately conservative. Polls that show FP with modest single-digit or low-double-digit support are not decisive evidence that FP will be the single largest party; seat translation and district effects matter and can cut both ways.
 
-5. EXPECTED VALUE CALCULATION  
-Strength of evidence (that price deviates materially): ~20% (mixed signals, no clear gap)  
-Magnitude of mispricing: ~5¢ (at most; small given countervailing data)  
-Expected value ≈ 20% × 5¢ = 1¢  
+3) MARKET EFFICIENCY ANALYSIS — how to interpret the 40% price
+- Reasonable interpretations that justify 40%:
+  - FP is one of a small set of established parties with sufficient organization and name recognition to plausibly become the largest party in a fragmented vote; 40% could be expressing a near-even chance among top contenders, not a high-confidence prediction.
+  - The market reflects asymmetric uncertainty: traders price in FP’s organizational strength and regional pockets of strength while also pricing fragmentation and potential legal/operational issues. The combination makes a mid-range probability sensible.
+- Could the price reflect one or few traders? Yes — low total trading volume ($465) means a small number of traders could move price materially; the tight 4¢ spread indicates the market creator or a few participants maintain liquidity near the same viewpoint. That raises the risk that the price reflects a concentrated opinion rather than broad aggregation.
+- Why low volume? It can reflect (a) the event is complex and requires detailed local knowledge so fewer traders participate, (b) traders prefer to wait for later polls/local district lists, or (c) informed traders believe the outcome is genuinely uncertain and don’t want to risk capital. Given Peru’s volatility and the seat-translation complexity, all are plausible.
 
-EXPECTED_VALUE: 1  
-SUMMARY: Simulations show FP tied for top seats with Renovación Popular, but polls reveal weak presidential support and heavy voter rejection, balancing FP’s prospects around a ~37% chance. Conflicting, recent data and low trading volume imply no clear >5¢ mispricing.  
+4) MISPRICING ASSESSMENT — weigh evidence and check reasoning
+- Net assessment from evidence: there is no clear, specific piece of credible evidence that FP is dramatically mispriced by >20 cents at the current market price of 40%. Polls and expert commentary show a fragmented contest; FP is a plausible contender but not a clear favorite. The combination of (i) FP’s organizational capacity (bullish) and (ii) fragmentation and competition on the right plus district-seat effects and legal scrutiny (bearish) yields a mid-range probability — close to the market price.
+- Critical checks:
+  - Resolution mechanics: market resolves on “most seats in Chamber of Deputies.” I confirmed the lower house is 130 deputies to be elected in April 2026 under bicameral reform; therefore seat-translation/district allocation matters — you cannot treat national presidential polls as decisive. That is likely why the market stays at ~40% rather than 60+%. ([eg2026.onpe.gob.pe](https://eg2026.onpe.gob.pe/bicameralidad/?utm_source=openai))
+  - Could I be missing a major piece of information traders know? Possible — granular district-level polling, candidate list placements, formal coalitions or last-minute endorsements can swing seat outcomes in multi-member districts. Those data are often local and not widely reported outside Peru, and may explain conservative pricing by traders who do have local info.
+  - Is there evidence that the market ignored? I find no clear, credible, consistent polling or legal/regulatory development showing FP is now extremely more or less likely than the market implies.
+
+Conclusion on mispricing
+- Given the available public evidence, a 40% market probability that FP will win the most seats is a reasonable, defensible mid-range estimate. The market could still be inefficient due to low volume (price may reflect a small number of traders), but I do not find strong, specific evidence that the market is badly mispriced (i.e., mispricing > 20 cents). The most charitable interpretation: traders are factoring in FP’s organizational strength but also Peru’s fragmentation, district-seat mechanics, and political volatility; that leads to a roughly even-but-not-favored probability.
+
+5) EXPECTED VALUE CALCULATION (value of investigating / trading on this mispricing)
+- Strength of evidence that the market is mispriced (i.e., that public information shows a different probability than 40%): medium — 50%. Reason: public polling and institutional facts support uncertainty rather than a clear mispricing, but local/district data could change that assessment.
+- Plausible magnitude of mispricing if one side is wrong: modest, likely in the single-digit to low-double-digit cents; I estimate about 10 cents as a realistic upper-bound magnitude that public evidence could justify (a large >20¢ swing would require a clear, sustained national lead for FP or a decisive collapse, which I do not find). 
+- Expected value = 50% × 10 cents = 5.0 cents.
+
+6) CONFIDENCE
+- My confidence in the assessment: medium.
+
+EXPECTED_VALUE: 5.0
+SUMMARY: Official sources confirm a bicameral 2026 vote with 130 deputies; recent polls and expert commentary show a highly fragmented contest and no clear, consistent national polling lead for Fuerza Popular. Given FP’s organizational strengths but 2021 seat decline, district-seat mechanics, ongoing volatility, and low market volume, the current 40% price is a reasonable mid‑range estimate and I find no strong public evidence of a large (>20¢) mispricing.
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: Elecciones 2026: Simulación proyecta a Fuerza Popular y Renovación Popular liderando la Cámara de Diputados - Infobae
-Author: Por  Analí Espinoza Seguir en
-Published Date: 2026-03-06T00:00:00.000Z
-URL: https://www.infobae.com/peru/2026/03/06/elecciones-2026-simulacion-proyecta-a-fuerza-popular-y-renovacion-popular-liderando-la-camara-de-diputados/
-Summary: A recent simulation by Instituto Aklla Perú, based on a February 2026 survey and 1,000 statistical scenarios, projects that Fuerza Popular (FP) and Renovación Popular (RP) are likely to be the leading parties in the 2026 Peruvian Chamber of Deputies, each potentially securing 32 seats. Both parties are expected to have a 100% probability of surpassing the electoral barrier (5% of votes), indicating a strong chance of winning the most seats. The simulation suggests a consolidated parliament dominated by six parties due to the electoral barrier, with FP positioned as one of the top contenders. However, the high level of electoral indecision (43%) among voters means these projections could change as the election approaches.
+### [Elecciones Generales 2026 (Bicameralidad) — ONPE (EG2026)](https://eg2026.onpe.gob.pe/bicameralidad/)
+**Author:** Oficina Nacional de Procesos Electorales (ONPE) | **Published:** Unknown
 
-Title: Encuesta Diputados APRA (Lima) - Marzo 2026 - Encuestas Perú
-Author: Encuestas
-Published Date: 2026-03-03T00:00:00.000Z
-URL: https://encuestas.com.pe/diputados-apra-lima-febrero-2026/
-Summary: The webpage presents a March 2026 online survey focused on political preferences in Lima, Peru, particularly among internet-using segments such as youth and university populations. It includes data on favored candidates for Congress from the APRA party, as well as preferences for senators and parties for the upcoming 2026 elections. Notably, the survey lists voter preferences for various parties, including Fuerza Popular (FP), among others like Alianza para el Progreso, Perú Libre, and Partido Morado. While the survey provides insights into current voter inclinations and candidate popularity, it is limited to internet users and reflects preferences at a specific point in time. Therefore, it offers some indication of party support levels but cannot definitively predict whether Fuerza Popular will win the most seats in the 2026 Chamber of Deputies election.
+Official ONPE voter-information page describing the implementation of bicameralism for the 2026 elections, explaining the election of 130 deputies and 60 senators, district composition, and the seat-distribution rules for the Chamber of Deputies. This is directly relevant to the market’s resolution mechanics (the market resolves on the Chamber of Deputies) and shows deputies will be elected in multi-member districts, which makes seat-translation effects (not just national vote share) material to whether FP can win the most seats. This supports the view that district-level factors and party organization matter a lot when assessing FP’s chances. ([eg2026.onpe.gob.pe](https://eg2026.onpe.gob.pe/bicameralidad/?utm_source=openai))
 
-Title: Elecciones presidenciales | ONPE | JNE | partidos políticos | votaciones | Keiko Fujimori | Rafael Lopez Aliaga | Fuerza Popular | Renovacion Popular  | EL COMERCIO PERÚ
-Author: Redacción El Comercio Perú
-Published Date: 2026-03-03T00:00:00.000Z
-URL: http://elcomercio.com.pe/ecdata/elecciones-presidenciales-onpe-jne-partidos-politicos-votaciones-keiko-fujimori-rafael-lopez-aliaga-fuerza-popular-renovacion-popular-noticia/
-Summary: The webpage provides an overview of the upcoming 2026 Peruvian elections, including details about political parties such as Fuerza Popular (FP) and Renovación Popular. It highlights ongoing electoral activities, such as the JNE's (National Jury of Elections) procedures, candidate debates, and the electoral schedule. While specific polling data or seat projections are not included, the emphasis on electoral organization and party participation suggests that Fuerza Popular is actively involved in the electoral process. To predict whether FP will secure the most seats, one would need to consider current political trends, historical performance, and recent polling data, which are not detailed here. However, the webpage indicates that FP remains a significant player in the electoral landscape, making its future success a key point of interest in the 2026 legislative elections.
+### [Informativo Electoral 8 — Elecciones Generales 2021 (ONPE PDF)](https://www.onpe.gob.pe/modEducacion/Publicaciones/informativo-electoral-8.pdf)
+**Author:** Oficina Nacional de Procesos Electorales (ONPE) | **Published:** 2021-07-01
 
-Title: Cuatro candidatos empatados en el tercer lugar: Encuesta de Ipsos a solo dos meses de las Elecciones 2026 - Infobae
-Author: Por  Carlos Espinoza Seguir en
-Published Date: 2026-02-12T00:00:00.000Z
-URL: http://www.infobae.com/peru/2026/02/12/asi-van-las-encuestas-a-solo-dos-meses-de-las-elecciones-2026-cuatro-candidatos-empatados-en-el-tercer-lugar/
-Summary: The recent Ipsos Perú survey indicates a highly fragmented political landscape two months before the 2026 Peruvian elections. Keiko Fujimori’s Fuerza Popular (FP) holds the second-highest presidential support at 8%, with her support concentrated mainly in Lima (10%) and less in the interior (7%). However, the overall voter intention is dispersed among multiple candidates, with four candidates tied for third place at 4% each and a significant 27% of voters indicating they will vote blank, void, or abstain. The high percentage of undecided and non-committal voters, along with widespread fragmentation and regional variations, suggests a competitive and unpredictable electoral environment. While Fuerza Popular has a notable presidential support level, the fragmented vote and high indecision imply that its success in securing the most seats in the Chamber of Deputies will depend on its ability to mobilize its base and capitalize on regional support, amidst a landscape where no single party or candidate currently dominates.
+ONPE’s official post-election informational bulletin for 2021, which records the 2021 national congressional results and seat distribution (Perú Libre 37 seats; Fuerza Popular 24 seats, etc.) and discusses regional vote patterns. This provides the recent baseline for FP’s congressional standing and regional strengths/weaknesses, establishing that FP is a major party but had significantly fewer seats in 2021 than in 2016; that historical context tempers expectations that FP will automatically be the largest party in 2026. ([onpe.gob.pe](https://www.onpe.gob.pe/modEducacion/Publicaciones/informativo-electoral-8.pdf))
 
-Title: José Jerí hunde a Fujimori y Acuña: Fuerza Popular y APP entre las bancadas con mayor desaprobación ciudadana | Política | La República
-Author: Eva Palomino
-Published Date: 2026-02-10T00:00:00.000Z
-URL: https://www.larepublica.pe/politica/2026/02/07/app-y-somos-peru-son-las-bancadas-con-mayor-desaprobacion-ciudadana-segun-imasen-hnews-157269
-Summary: The recent survey indicates that Fuerza Popular (FP) and other key political groups, including Alianza para el Progreso (APP) and Somos Perú, face significant public disapproval, with FP's approval at only 12.9% and its rejection at 82.1%. APP has an even higher rejection rate of 94.2%, and Somos Perú's rejection stands at 87%. These figures reflect widespread citizen dissatisfaction with these parties, which currently support President José Jerí. Despite their low approval ratings, these parties maintain influence in Congress, but their poor public perception suggests challenges in securing electoral support in the 2026 elections.
+### [Poll Tracker: Peru's 2026 Presidential Election](https://www.as-coa.org/articles/poll-tracker-perus-2026-presidential-election)
+**Author:** Khalea Robertson (Americas Society/Council of the Americas) | **Published:** 2026-03-20
 
+A recent tracker and explainer summarizing the crowded 2026 presidential field and the fragmented nature of voting intention polls (including reference to major right-wing contenders such as Rafael López Aliaga and Keiko Fujimori). The article emphasizes volatility, a large undecided share, and that multiple right-of-center candidates are competing — evidence that national-level fragmentation is substantial and that no single party is a runaway favorite. This supports caution about giving FP a high single-party probability to win the most seats. ([as-coa.org](https://www.as-coa.org/articles/poll-tracker-perus-2026-presidential-election))
 
+### [Opinion polling for the 2026 Peruvian general election — Wikipedia (poll aggregation with citations to Datum, Ipsos, IEP, etc.)](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election)
+**Author:** Unknown | **Published:** Unknown
+
+Aggregated list of recent poll results (multiple national pollsters such as Datum, Ipsos, IEP) for the 2026 contest; tables show many small percentages across many parties and frequent changes between polls. While Wikipedia is secondary, it aggregates multiple primary poll citations which jointly show a fragmented electorate and that no party is consistently dominant in the months leading up to the vote. This supports the assessment that the largest-party outcome is uncertain. (I used the aggregated polls cited here to understand national-level fragmentation and to corroborate pollster patterns reported by primary outlets.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Peruvian_general_election))
+
+### [Unrest on Repeat: Plotting a Route to Stability in Peru — International Crisis Group (ICG)](https://icg-prod.s3.amazonaws.com/s3fs-public/2024-02/104-peru-plotting-a-route.pdf)
+**Author:** International Crisis Group (ICG) | **Published:** 2025-11-01
+
+Analytical report describing Peru’s chronic political instability, party volatility, defections, and the institutional context that has produced rapid shifts in congressional majorities since 2016. ICG’s analysis is relevant because it highlights why seat outcomes are hard to predict from early polls (party switching, defections, and last‑minute dynamics are common) — a structural reason why a mid‑range market probability like 40% for FP is plausible and why traders might price conservatively. ([icg-prod.s3.amazonaws.com](https://icg-prod.s3.amazonaws.com/s3fs-public/2024-02/104-peru-plotting-a-route.pdf?utm_source=openai))
+
+### [JNE establece distribución de escaños para la elección de candidatos a senadores y diputados (Resolución 0053-2025-JNE)](https://lpderecho.pe/jne-distribucion-escanos-eleccion-candidatos-senadores-diputados-resolucion-0053-2025-jne/)
+**Author:** Unknown | **Published:** 2025-02-07
+
+Coverage and text summary of the JNE resolution that officially allocates the number of senators and deputies per district for the 2026 bicameral elections, citing Law No. 31988 (restoring bicamerality). This confirms the legal/administrative framework for the 2026 lower-house contest, which is necessary to interpret how party vote shares translate into seats and underscores the importance of district-level strength for FP’s prospects. ([lpderecho.pe](https://lpderecho.pe/jne-distribucion-escanos-eleccion-candidatos-senadores-diputados-resolucion-0053-2025-jne/?utm_source=openai))

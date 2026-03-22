@@ -1,7 +1,7 @@
 # Research: Will the Republican Party win the NC-07 House seat?
 
 **Market ID:** 0x571379f2aca2e69b3cf4304d78d20d07adfdf74d53c566dc9841ffd3b9006a6b
-**Researched At:** March 17, 2026 at 05:19:03 AM UTC
+**Researched At:** March 22, 2026 at 04:36:29 AM UTC
 **Search Query:** "Will the Republican Party win the NC-07 House seat?"
 
 ---
@@ -9,76 +9,75 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 3.2¢
+**Expected Value:** 3.5¢
 
 ### Summary
 
-Incumbent Republican David Rouzer holds a strong baseline advantage (large 2024 margin, district lean, and he won the 2026 GOP primary), so an 83% Republican price is plausible. The market’s zero trading volume is a red flag for liquidity/consensus, but I found no specific, credible evidence that the public fundamentals were being ignored in the current price.
+Incumbent Republican David Rouzer represents a comfortably Republican district (Cook PVI R+7) with strong past margins and large cash-on-hand; expert ratings call NC-07 "Solid R," so the market price (~83% GOP) is broadly consistent with public evidence. Low market volume raises liquidity concerns but I found no concrete, credible public information implying a large (>20¢) mispricing now.
 
 ### Full Analysis
 
-I searched primary news and election-reporting sources (3 web searches) and evaluated whether the NC-07 midterm prediction market (price: 83% Republican, $0 total volume, 2¢ spread) shows credible mispricing. Below I walk through the context, evidence, market-efficiency considerations, a mispricing assessment, expected-value estimate for investigating/trading, and my confidence.
+Plan and constraints
+- I have up to three web searches and I used them to gather high-yield, authoritative information about (a) incumbency and recent results, (b) partisan lean and expert ratings, (c) fundraising/organizational capacity and candidate status. I focused on AP, Cook Political Report, FEC data, district profiles, local reporting and election-results reporting. I did not use polymarket/kalshi/metaculus/manifold.
 
-1) CONTEXT ANALYSIS
-- What the market asks: “Will the Republican Party win the NC-07 House seat?” The market resolves YES if the winner of the November 4, 2026 general election for North Carolina’s 7th congressional district is a Republican (ballot-listed party or the party with which the winner has most recently expressed intent to caucus), determined by credible reporting or official FEC results if ambiguity exists.
-- What must happen for YES vs NO:
-  - YES: The candidate who is officially reported/certified as the district winner on or after Nov 4, 2026 is a Republican (ballot affiliation or caucus intent as specified by the market resolution rules).
-  - NO: The certified winner is a Democrat (or a non-affiliated candidate who caucuses with Democrats) or the official reporting/consensus identifies the winner as non-Republican.
+1) CONTEXT ANALYSIS — What the market asks and how it resolves
+- The market question: "Will the Republican Party win the NC-07 House seat?" That resolves YES if the candidate identified as Republican (ballot-listed party or the party they most recently said they'd caucus with) is the winner of the November 4, 2026 general election, as determined by consensus credible reporting or, if ambiguous, the official FEC results. The market therefore depends on which party's candidate wins the plurality in the general election; a third-party winner would be assigned to the party they announce they will caucus with (per the market description). (Market resolution rules are in the market description supplied in your prompt.)
 
-2) EVIDENCE EVALUATION (all evidence from recent reporting / official sources)
-Summary of key factual points (sources cited below):
-- Incumbency and 2024 margin: David Rouzer (R) is the incumbent for NC-07 and won re‑election in 2024 by a large margin (Rouzer ≈ 58–59% to ~41–42%). Official state canvass and major outlets report Rouzer’s comfortable 2024 win. (supports Republican probability)
-- District partisan lean and redistricting: Recent reporting and analysts rate the new/2024-era NC‑07 as Republican-leaning (Cook/other analysts have shown single-digit Republican PVI/lean; state-level redistricting by the Republican legislature aimed to create more Republican-favorable districts). (supports Republican)
-- Candidate status for 2026: Rouzer won the Republican nomination (primary) on March 3, 2026 (AP reporting). Democrats have an announced challenger (Kimberly Hardy announced in 2025), but there is no public evidence yet that she has overtaken Rouzer in fundraising, polling, incumbency advantage, or that national environment has fully shifted the district. (supports Republican short-term)
-- National environment caveat: Midterm dynamics matter — with a Republican president in office (per 2024 results), historical patterns often favor the opposition party in midterms, which could benefit Democrats in 2026 nationally. Local effects, candidate quality, fundraising and turnout will determine district-level outcome. (challenges Republican probability)
+2) EVIDENCE EVALUATION — Relevant facts and how they affect the price
+Key factual findings (sources cited inline):
 
-Specific evidence that suggests the current market price might be incorrect (bearish to the market’s 83% Republican):
-- Presidential-midterm effect: With a Republican president in office, the midterm electorate often swings against the president’s party — this is a plausible path to making a reasonably Republican-leaning seat more competitive in 2026 (this is a contextual, probabilistic argument; it’s not a direct local data point).
-- Uncertainty about 2026 campaign resources, turnout and national shocks: If Democrats invest heavily, or if local demographic/turnout shifts occur, the district could tighten. There is no evidence that the market has priced in large Democratic investment or a strong wave that would flip a solidly Republican-leaning seat — so the market could underweight plausible downside scenarios.
+- Incumbent & recent margin: Republican David Rouzer is the incumbent and was re-elected in 2024 with ~58.6% of the vote. This is recent direct evidence of electoral strength in the district. ([en.wikipedia.org](https://en.wikipedia.org/wiki/North_Carolina%27s_7th_congressional_district))
+- District partisan lean and expert rating: Cook Political Report lists NC-07 as R+7 (Cook PVI) and currently rates the race "Solid R." That is an authoritative baseline indicating the district leans comfortably Republican and that analysts consider it a safe GOP seat for 2026. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483736))
+- Fundraising/organization: FEC campaign-finance tables show Rouzer with large receipts and very substantial cash-on-hand (on the order of seven-figure cash on hand in the 2024 cycle snapshot). That strongly supports incumbent advantage and the ability to run a well-funded re-election campaign. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand7_2024_21m.pdf))
+- Candidate status for 2026: Local reporting and county/primary reporting show Rouzer filed and ran in the 2026 Republican primary (he defeated a primary challenger), and reporting identifies a Democratic general-election candidate (Kimberly / Kim Hardy) and a Libertarian on the November ballot. That indicates the general-election match-up exists but that Democrats did not nominate an obviously nationally prominent recruit (based on available reporting). ([cityviewnc.com](https://www.cityviewnc.com/stories/kim-hardy-of-cumberland-county-announces-campaign-for-7th-congressional-district/?utm_source=openai))
+- Historical results and stability: The district has consistently returned Rouzer with comfortable margins in successive cycles (56–61% range across recent elections), suggesting stable GOP advantage under the current map. ([en.wikipedia.org](https://en.wikipedia.org/wiki/North_Carolina%27s_7th_congressional_district))
 
-Specific evidence that supports the current market price (bullish to the market’s 83% Republican):
-- Incumbent advantage + recent margin: Rouzer’s 2024 win by a large margin (≈58–59%) and incumbency lower the baseline probability of a flip absent a major change. This is a strong, concrete local datapoint favoring Republicans.
-- District lean and redistricting: Analysts and local reporting describe NC‑07 as Republican-leaning after redistricting; the legislature’s mapmaking intent and prior election results support this. That makes an ~80%+ Republican probability plausible.
-- Primary resolved: The Republican primary is decided (Rouzer won on Mar 3, 2026), removing nominee uncertainty and reducing downside variance for the Republican side.
+What suggests the market price (83% Republican) might be incorrect (bearish evidence for the price):
+- National environment risk: Midterms can swing against the president’s party; a strong Democratic national environment (or exceptionally weak GOP turnout) could compress margins. This is general risk but not direct evidence that NC-07 itself will flip.
+- Upset scenarios exist (scandals, unexpected strong challenger, wave turnout), and these are not captured by static PVI/fundraising numbers — however, I found no current evidence (scandal, elite-level Democratic recruit, or major organizing surge in the district) that such an upset is likely.
+- Low market liquidity caveat: The market has zero total trading volume and a tight spread; low-volume quotes can reflect one-sided pricing by few participants rather than a fully diversified information aggregation. (This is a market microstructure concern rather than political evidence.)
 
-Source credibility and recency:
-- Official state canvass documents and AP/local outlets — high credibility and current (2024 official results and March 2026 reporting). Cook Political Report / credible election analysts — reputable for district lean assessments. Local outlets reporting candidate announcements are credible for candidate status/timelines. All key sources are within the last 18 months and include the March 3, 2026 primary result.
+What supports the market price (bullish evidence for the price):
+- Incumbency advantage: Rouzer is a multi-term incumbent with a track record of winning the district by comfortable margins. ([en.wikipedia.org](https://en.wikipedia.org/wiki/North_Carolina%27s_7th_congressional_district))
+- Partisan lean & expert rating: Cook Political Report's "Solid R" + PVI R+7 is consistent with an ~80%+ probability implied price in many betting markets (regional incumbents in R+7 districts with recent 58% wins are typically considered safe). ([cookpolitical.com](https://www.cookpolitical.com/house/race/483736))
+- Fundraising and structure: Strong cash-on-hand (FEC) gives the incumbent ability to dominate messaging and GOTV in the district; lack of evidence of a well-funded challenger suggests the Democrats are likely to be under-resourced relative to the incumbent. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand7_2024_21m.pdf))
+- No authoritative forecasting source (Cook/others) lists NC-07 as vulnerable; the consensus of the readily available expert sources is that the seat is safe for Republicans. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483736))
 
-Skepticism of “obvious” evidence:
-- The incumbency + 2024 margin are clear and likely already priced by informed traders. If the market were wildly underpricing Democratic chances, one would expect arbitrage by professional traders; the market’s low volume suggests either (a) the price already reflects the best-available public information (incumbency, recent margins, district lean), or (b) there are few traders paying attention, so a single trader could set price despite obvious data.
+Source credibility and recency
+- Cook Political Report (professional race ratings): high credibility for short-to-medium-term race ratings; page shows "Solid R" and PVI R+7 (last updated Feb 6, 2025 on the page). This is authoritative for partisan baseline. ([cookpolitical.com](https://www.cookpolitical.com/house/race/483736))
+- FEC campaign-finance tables: primary official source for receipts and cash-on-hand (dated snapshot 2025-01-03 in the FEC PDF). Highly credible for fundraising evidence. ([fec.gov](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand7_2024_21m.pdf))
+- AP/Wikipedia/local reporting on 2024 and 2026 results/filings: AP is highly credible for race calls; local outlets and aggregated reporting (e.g., Yahoo/local press) are useful for candidate-level details but vary in depth. I used these for candidate and primary status. ([apnews.com](https://apnews.com/article/c69416c634754863a547cd4105b9e09d))
 
-3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretation for current price: An 83% Republican probability is consistent with combining (a) Rouzer’s incumbency and large 2024 margin, (b) district partisan lean and recent redistricting favoring Republicans, and (c) the primary outcome (Rouzer confirmed) reducing uncertainty. That combination could plausibly justify a high Republican probability in the 70–90% range.
-- Could this reflect consensus vs a single trader? The market shows $0 total volume in 47 days — that implies no executed trades and the price is likely the initial or a single bidder/market-maker quote. Because spread is tight (2¢) but volume is zero, the price is not market-cleared by many participants and therefore could reflect one actor’s view rather than a robust consensus.
-- Why low volume? Two plausible reasons:
-  - The outcome looks relatively straightforward to many (incumbent in a Republican-leaning district), so few traders see value in betting; or
-  - Informed traders may have not engaged or lack interest; the market is overlooked and hence thin — meaning price may not reflect aggregated information.
-- Which is more likely? Given recent 2024 result and the district’s apparent lean, many traders may consider this low-hanging and not worth trading; but the zero volume strongly suggests the present price is not the product of many active bets.
+Skepticism about "obvious" evidence
+- The facts (PVI, incumbent margins, fundraising) are straightforward and would likely already be priced by any informed trader. That reduces the chance that the 83% quote reflects a big, correctable pricing error based on these factors alone.
 
-4) MISPRICING ASSESSMENT (weighing both sides objectively)
-- Is there credible evidence of mispricing? No clear, specific missing fact supports concluding a large mispricing. The public, high-quality evidence (official 2024 results, district lean, primary outcome) all point toward a Republican-favored seat and are plausibly consistent with an ~80%+ chance for Republicans.
-- Potential omissions the market might be missing:
-  - Any late-breaking indicators favoring Democrats (large fundraising numbers, strong polling, major local scandal, or a national wave) — I found no evidence of those in my searches.
-  - Voter-turnout or demographic shifts that would flip a district of this lean — no concrete data found indicating such a shift.
-- Critical-check: the market’s zero trade volume is a red flag that the price may reflect a single actor rather than aggregated information. But that alone is not proof of mispricing; it’s a liquidity/attention signal. Because the core facts (incumbent with large recent margin, district lean, resolved primary) are public and favor Republicans, the market’s 83% is within a reasonable range given those facts.
-- Conclusion on mispricing: The available public evidence does not show a clear, credible mispricing of more than a small percentage (single-digit cents). The most charitable interpretation is that an informed trader or market maker set a price consistent with public fundamentals and that other traders simply have not engaged.
+3) MARKET EFFICIENCY ANALYSIS — Is the quoted 83% reasonable?
+- Charitable interpretations that justify 83%:
+  - The combination of "Solid R" expert rating, R+7 PVI, consistent mid-to-high 50s Republican vote share in 2020–2024, and very strong incumbent fundraising makes an ~80–90% implied probability for the incumbent party plausible to many analysts. Expert ratings and PVI are the sort of information market traders incorporate heavily; with no strong counter-evidence (scandal or high-quality challenger), the 83% price is interpretable as a genuine consensus view.
+- Alternative interpretation (market noise/illiquidity):
+  - The market's zero volume and tight 2¢ spread suggests the price could have been set by a single liquidity provider or a few traders and not stress-tested by others. If so, the price might be fragile — a few informed bets could move it meaningfully. This makes the quote less robust as an aggregated consensus compared with a high-volume market.
+- Why low volume might be low-signal rather than low-uncertainty:
+  - NC-07 appears to be a low-risk, low-interest market for speculators (a comfortable incumbent seat rarely attracts active contrarian trading), which can produce low volume despite being correctly priced. Conversely, the low volume could simply reflect lack of attention by traders who would exploit mispricings — there’s no way to determine which is true purely from market stats.
 
-5) EXPECTED VALUE CALCULATION
-- Strength of evidence that something crucial is missing from current price: moderate — 40% (most high-quality local facts are public and aligned with an R advantage; there is plausible uncertainty from national midterm effects but no concrete signals of a strong Democratic path).
-- Magnitude of mispricing if one exists: small — I estimate at most ~8 cents (0.08) of mispricing potential in either direction given the district lean, incumbency, and current absence of evidence for a Democratic surge. (This is conservative — large flips would require new, strong evidence.)
-- Expected value = Strength × Magnitude = 40% × 8 cents = 3.2 cents.
-- I therefore estimate the expected informational value (EV) of investigating or trading on this market is about 3.2 cents.
+4) MISPRICING ASSESSMENT — weighing evidence
+- On balance, the observable, credible, and recent evidence (incumbent 58.6% in 2024, R+7 PVI, Cook "Solid R", large cash-on-hand) all point to meaningful Republican advantage. I do not find a specific, credible piece of public information that is obviously missing from traders' consideration and that would imply a much lower Republican probability today.
+- Large mispricing (>20 percentage points) would require either: (a) the presence of a credible, well-funded Democratic surge or recruit; (b) evidence of incumbent vulnerability (scandal, health issues, withdrawal); (c) a map or legal change that materially alters the partisan composition of the district. I found no evidence of any of those.
+- The remaining legitimate sources of uncertainty are typical midterm risks (national swing, turnout dynamics). Those increase uncertainty but do not supply concrete evidence that the market is mispricing by a large amount.
+- Critical check: resolution criteria and timing — the market resolves to the party of whoever wins the seat in the Nov 4, 2026 general election per credible reporting or FEC. There is time for unexpected shocks between now and election day; given that, some probability mass for an upset is appropriate. But currently available public information does not justify concluding a large mispricing is present.
 
-6) CONFIDENCE
-- My confidence in this assessment: medium.
+5) EXPECTED VALUE CALCULATION — estimate of potential mispricing
+- Strength of evidence that the market is missing important information: 70%. (The fundamentals are clear and credible; the only plausible missing pieces would be unexpected future shocks or late recruitment, both possible but not currently evident.)
+- Plausible magnitude of mispricing if present: ~5 cents (0.05). I judge that if the market is mispriced it is more likely by a small amount (a few cents) than by a large block (20+ cents).
+- Expected value = 70% × 5 cents = 3.5 cents (reported in cents below).
 
-Final concise takeaways:
-- The market question (Republican win in NC-07, Nov 4, 2026) is well-defined; current evidence (2024 results, district lean, resolved GOP primary) supports a strong Republican probability, so the 83% price is plausible.
-- The biggest concern is liquidity: $0 total volume means the price is not battle-tested. That raises caution but not strong evidence of large mispricing absent new local or national developments.
-- Expected-value of trying to exploit the market now is small (~3.2¢), because public fundamentals appear already consistent with a high Republican probability. If new evidence (polling, fundraising, candidate changes, national wave) emerges, the opportunity could change.
+6) CONFIDENCE (qualitative)
+- My overall confidence in this assessment: medium — the public evidence is strong that NC-07 is a safe Republican seat today, but elections months away always carry nontrivial uncertainty and the market's zero trading volume weakens the inference about how well-informed the price is.
 
-EXPECTED_VALUE: 3.2
-SUMMARY: Incumbent Republican David Rouzer holds a strong baseline advantage (large 2024 margin, district lean, and he won the 2026 GOP primary), so an 83% Republican price is plausible. The market’s zero trading volume is a red flag for liquidity/consensus, but I found no specific, credible evidence that the public fundamentals were being ignored in the current price.
+Final bottom-line recommendation
+- There is credible, authoritative evidence (incumbency, PVI, expert rating, fundraising, recent margins) that supports the market price of ~83% Republican. There is no specific, credible public information I found that strongly suggests a large mispricing. However, because the market shows zero trading volume and the usual midterm uncertainties remain, a modest residual chance of mispricing exists (I estimate a small mispricing on the order of a few cents, Expected Value ≈ 3.5¢). If you seek to trade on this market, recognize that low volume makes execution risk and liquidity risk meaningful; you should also monitor for late-breaking candidate recruitment, fundraising reports, or scandals which would materially change the assessment.
+
+EXPECTED_VALUE: 3.5
+SUMMARY: Incumbent Republican David Rouzer represents a comfortably Republican district (Cook PVI R+7) with strong past margins and large cash-on-hand; expert ratings call NC-07 "Solid R," so the market price (~83% GOP) is broadly consistent with public evidence. Low market volume raises liquidity concerns but I found no concrete, credible public information implying a large (>20¢) mispricing now.
 CONFIDENCE: medium
 
 ---
@@ -87,27 +86,32 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [David Rouzer wins Republican nomination for U.S. House in North Carolina’s 7th Congressional District](https://www.wect.com/2026/03/04/david-rouzer-wins-republican-nomination-us-house-north-carolinas-7th-congressional-district/)
-**Author:** The Associated Press / WECT staff | **Published:** 2026-03-04
+### [NC-07 2026 | Cook Political Report](https://www.cookpolitical.com/house/race/483736)
+**Author:** Cook Political Report (staff) | **Published:** 2025-02-06
 
-Short AP item reporting that David Rouzer won the Republican nomination for NC‑07 on March 3, 2026. This is directly relevant because a resolved Republican primary reduces uncertainty about the GOP nominee and thus supports a higher Republican win probability in the general election. The article’s recency (Mar 2026) is crucial to explain why market uncertainty on the nominee has declined.
+Cook's race page lists NC-07 with a "Race Rating" of "Solid R" and reports the Cook PVI for the district as R+7. The page also notes incumbent David Rouzer and shows his last general-election percentage (58.6%). This is high-quality, recent expert analysis establishing the district’s partisan baseline and directly supports the conclusion that a Republican win in 2026 is the expected outcome absent major shocks; it therefore supports the market's ~83% Republican probability.
 
-### [Composite Statewide Abstract Report (official November 5, 2024 General Election results)](https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2024-11-26/Canvass/Composite_Statewide_Abstract_Report.pdf)
-**Author:** North Carolina State Board of Elections | **Published:** 2024-11-05
+### [AP Race Call: Republican David Rouzer wins reelection to U.S. House in North Carolina’s 7th Congressional District](https://apnews.com/article/race-call-rouzer-wins-north-carolina-u-s-house-district-c69416c634754863a547cd4105b9e09d)
+**Author:** The Associated Press | **Published:** 2024-11-06
 
-Official state canvass material (composite abstract) that includes 2024 district-level results showing vote totals for NC‑07. The official results document the margin by which the Republican incumbent won in 2024 (~58–59% vs ~41–42%), a key datapoint that substantially increases baseline probability of a Republican hold absent major changes. This supports the market’s relatively high Republican price.
+AP’s race call for the 2024 general election confirms David Rouzer (R) won NC-07 in 2024. This authoritative reporting validates the recent margin and incumbency facts used to evaluate the 2026 market (i.e., incumbency/past performance that strongly inform probability estimates).
 
-### [North Carolina NC-07 House : 2024 | Cook Political Report](https://www.cookpolitical.com/house/race/309766)
-**Author:** Cook Political Report (David Wasserman et al.) | **Published:** Unknown (page maintained 2024–2026)
+### [ConCand7_2024_21m.pdf (FEC congressional candidate finance table)](https://www.fec.gov/resources/campaign-finance-statistics/2024/tables/congressional/ConCand7_2024_21m.pdf)
+**Author:** Federal Election Commission | **Published:** 2025-01-03
 
-Cook’s race/district page provides partisanship context and historical data; analysts rate NC‑07 as Republican-leaning (e.g., single-digit R advantage in post-redistricting assessments). This source is relevant because it gives professional electoral-analyst context for expected competitiveness; its assessment supports a high probability for Republicans and explains why an ~80%+ price is within a plausible analytical range.
+The FEC campaign-finance table shows receipts and cash-on-hand for 2024 congressional candidates; David Rouzer is listed with large receipts and seven-figure cash-on-hand as of the table generation date. This official financial data substantiates the incumbent’s fundraising advantage, an important predictor of reelection probability and a reason the market might price the seat strongly toward the incumbent party.
 
-### [Kimberly Hardy announces run against Rouzer for district 7 U.S. House seat](https://portcitydaily.com/latest-news/2025/07/10/kimberly-hardy-announces-run-against-rouzer-for-district-7-u-s-house-seat/)
-**Author:** Port City Daily staff | **Published:** 2025-07-10
+### [North Carolina's 7th congressional district — Wikipedia](https://en.wikipedia.org/wiki/North_Carolina%27s_7th_congressional_district)
+**Author:** Unknown (Wikipedia contributors) | **Published:** Unknown
 
-Local reporting that Democrat Kimberly Hardy (2nd vice chair of the N.C. Democratic Party) announced a 2026 run against David Rouzer. This identifies the Democratic challenger and timing; knowing the opponent is important for assessing candidate quality, early name recognition, and whether there is an organized campaign that might close the gap. The article shows a challenger exists but does not provide evidence the challenger has overtaken the incumbent in polls or fundraising.
+The district page compiles election results (including the 2024 result showing Rouzer ~58.6%), demographic composition, and cites Cook PVI R+7 for the district. While encyclopedic and not an original source, this article aggregates official results and PVI information that illustrate the district’s consistent Republican performance and demographic profile, which support the assessment that GOP advantage is structural rather than ephemeral.
 
-### [North Carolina GOP advances congressional map to secure another House seat for Trump (AP)](https://apnews.com/article/55512714a072fcecad912ee5c6817f84)
-**Author:** Unknown (AP) | **Published:** 2025-11-06
+### [Kim Hardy of Cumberland County announces campaign for 7th Congressional District](https://www.cityviewnc.com/stories/kim-hardy-of-cumberland-county-announces-campaign-for-7th-congressional-district/)
+**Author:** Unknown (CityView staff) | **Published:** Unknown
 
-Associated Press reporting on state legislative redistricting and the GOP’s goal to create more Republican-leaning congressional seats. The article documents the political context and redistricting actions that made several districts, including NC‑07 in its post-2022/2024 form, more favorable to Republicans. This supports a baseline higher Republican probability in district outcomes absent exceptional campaign dynamics.
+Local reporting on the Democratic candidate (Kim Hardy) announcing a run for NC-07 provides candidate-level context for the 2026 general election field. The coverage indicates Democrats have a local/party-active candidate but does not show a high-profile, well-funded recruit — supporting the view that Democrats currently lack a challenger who would make the seat highly competitive.
+
+### [Here's who won all 2026 primary races on Cumberland County ballots (Yahoo News)](https://www.yahoo.com/news/articles/heres-won-2026-primary-races-173552644.html)
+**Author:** Unknown (Yahoo aggregation) | **Published:** 2026-03-04
+
+This article reports March 3–4, 2026 primary outcomes: Rouzer won the Republican primary handily and reporting lists Kimberly Hardy as the Democratic general-election candidate and a Libertarian on the ballot. The primary result confirms the incumbent's continued candidacy and that no undercutting primary upset occurred; it therefore supports the market’s Republican-favored price.

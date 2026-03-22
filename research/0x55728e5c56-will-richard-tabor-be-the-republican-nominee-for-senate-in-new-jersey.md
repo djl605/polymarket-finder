@@ -1,75 +1,96 @@
 # Research: Will Richard Tabor be the Republican nominee for Senate in New Jersey?
 
 **Market ID:** 0x55728e5c560c8cdccb726ccb501494097ef1b48b86d951cc4f01e4fd827eaf57
-**Researched At:** March 17, 2026 at 05:37:22 AM UTC
+**Researched At:** March 22, 2026 at 04:34:32 AM UTC
 **Search Query:** "Will Richard Tabor be the Republican nominee for Senate in New Jersey?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 2.8¢
+**Confidence:** Low
+**Expected Value:** 3.0¢
 
 ### Summary
 
-County-level endorsements give Richard Tabor a tangible path to the GOP nomination, but a 2023 wrongful-death lawsuit (settled) and an ongoing State Police internal investigation plus prior ballot fights and limited statewide fundraising/polling create significant downside risk. Given the mixed evidence and low market volume, the market price (40.5%) is plausible; I find no clear, specific evidence of a large (>20-point) mispricing now.
+Local reporting shows Richard Tabor has accumulated multiple county GOP endorsements and is a leading candidate, but endorsements are split statewide, other candidates have pockets of support, and there are reported controversies and prior ballot-challenge history. There is insufficient high-quality statewide polling or fundraising data to justify declaring the market materially mispriced; estimated expected value from further investigation is small (~3.0 cents).
 
 ### Full Analysis
 
-Plan / scope
-- I used web searches (local reporting, candidate materials, and an election overview) to gather the highest-yield, primary-source and reputable local coverage about Richard Tabor and the New Jersey 2026 GOP Senate primary. My goal was to collect evidence both for and against Tabor’s chances (endorsements, controversies, fundraising/polling signals, and competitor traction) and then decide whether the market price (40.5%) looks credibly wrong. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
+I followed your instructions and used web searches (3 queries) to gather primary-source and local reporting about Richard Tabor’s bid for the 2026 Republican nomination for U.S. Senate in New Jersey. Below is a structured, objective evaluation addressing each requested analysis item.
 
-1) CONTEXT ANALYSIS — what the market is asking and exact resolution conditions
-- Market question: “Will Richard Tabor be the Republican nominee for Senate in New Jersey?” This resolves YES if Tabor is the official winner of the Republican primary for U.S. Senate in New Jersey for 2026; it resolves NO if any other candidate wins or the race resolves to “Other” (per the market description). The state’s primary date is scheduled for June 2, 2026, and the market will use the New Jersey GOP’s first announcement of results (or an overwhelming consensus of credible reporting). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
-- Practical implication: to resolve YES, Tabor must (a) survive ballot-qualification and any legal challenges, (b) win enough votes statewide on June 2, 2026 to be the plurality Republican primary winner, and (c) avoid disqualification or a post-primary reversal. Anything short of winning the certified primary returns will resolve the market to NO.
+1) CONTEXT ANALYSIS
+- What the market asks: “Will Richard Tabor be the Republican nominee for Senate in New Jersey?” Resolution will be determined by the winner of the Republican primary for U.S. Senate in New Jersey (or “Other” if no primary occurs). The market thus maps to a single event: whether Tabor wins the GOP primary for the 2026 NJ U.S. Senate seat.
+- What must happen for YES vs NO:
+  - YES: Tabor must win the statewide Republican primary (i.e., receive the most votes among Republican primary voters or be declared the party’s nominee per the state’s process and the market’s resolution rules).
+  - NO: Any other Republican candidate wins the primary (including if no primary is held and “Other” resolves), or technical disqualification prevents Tabor from appearing/being eligible and someone else becomes nominee.
 
-2) EVIDENCE EVALUATION — all relevant evidence found (bullish and bearish), with credibility and recency
-A. Evidence that supports Tabor being the likely nominee (bullish)
-- Multiple county GOP organizations have endorsed Tabor (listed endorsements include Ocean — the largest GOP county — plus Atlantic, Hudson, Hunterdon, Middlesex, Ocean, Somerset, Union in reporting). County-convention wins and county committee endorsements are visible and recent (March 2026), which matter in low-turnout primaries because county organizations influence local activists, volunteers, and “marching orders” to committeepersons and local voters. ([newjerseyglobe.com](https://newjerseyglobe.com/local/tabor-wins-ocean-county-republican-endorsement/))
-- Local reporting documents Tabor beating a competitor at county conventions (e.g., Tabor defeated Alex Zdan at some county conventions and won big at others), which indicates organizational traction among GOP activists. These are contemporaneous (February–March 2026) county-level developments — high relevance to nomination chances. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
-- Biographical positives: Tabor is a New Jersey state trooper, U.S. Marine veteran, and has run for office locally before — attributes that can play well in a GOP primary (security/service credentials). His campaign site summarizes those themes. These are candidate-provided facts (self-published). ([taborforsenate.com](https://www.taborforsenate.com/?utm_source=openai))
+2) EVIDENCE EVALUATION (all relevant evidence found)
+Sources used are listed at the end (local reporting, the candidate site, NJ state docs, FEC page). Key findings:
 
-B. Evidence that suggests the market price might be too optimistic for Tabor (bearish)
-- Serious controversy: reporting shows Tabor was named in a 2023 wrongful-death lawsuit tied to a 2022 Garden State Parkway crash; that suit was settled and dismissed in late 2025, and New Jersey State Police have an internal investigation (Tabor is reported to be on paid administrative absence). These are recent, specific allegations and an ongoing administrative probe — items that could materially depress support from party leaders, donors, and persuadable primary voters. The New Jersey Globe reported these facts in March 2026. ([newjerseyglobe.com](https://newjerseyglobe.com/judiciary/trooper-running-for-senate-named-in-2023-wrongful-death-lawsuit-is-under-internal-investigation/?utm_source=openai))
-- Ballot/eligibility history: reporting indicates Tabor was kicked off local ballots in 2024–2025 over domicile eligibility issues (he contested those removals). Past ballot-qualification fights signal organizational fragility and could threaten statewide ballot access or create legal distractions. ([newjerseyglobe.com](https://newjerseyglobe.com/judiciary/trooper-running-for-senate-named-in-2023-wrongful-death-lawsuit-is-under-internal-investigation/?utm_source=openai))
-- Competing candidates and elite signals: other Republicans (Alex Zdan, Justin Murphy, Robert Lebovics, Natalie Rivera) have county and local endorsements too; Zdan has notable backing from state GOP figures (e.g., Doug Steinhardt) and pockets of county support. That suggests the race is multi-player and endorsements are split — county wins do not automatically convert to a statewide plurality. The broader GOP in NJ has struggled to recruit a single clear top-tier candidate, which means intra-party dynamics are fluid. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
-- No sign of major statewide polling or large public fundraising numbers for Tabor in mainstream outlets (most reporting emphasizes county endorsements, not large-scale fundraising or polls). A lack of visible large-dollar fundraising or statewide polling is a hold-back on an “inevitable” narrative. (I checked local reporting and campaign pages; I did not find prominent FEC totals or statewide polls reporting Tabor as a runaway frontrunner in the sources consulted.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
+Evidence that suggests the market price might be incorrect (i.e., that 39.5% is too high or too low)
+- Pro-Tabor evidence (arguing price may be too low):
+  - Multiple county GOP organizations have formally endorsed Tabor (Atlantic, Hudson, Hunterdon, Ocean, Union, Somerset and others by reporting). County endorsements are accumulating for Tabor across parts of the state — a sign of organization-level strength that can help get out the vote in a low-turnout primary. (New Jersey Globe county convention reports). These endorsements suggest a plausible path to plurality in a multi-candidate race, supporting a non-trivial win probability.
+- Anti-Tabor evidence (arguing price may be too high):
+  - Endorsements are split: other counties have endorsed Alex Zdan and Justin Murphy, and county-level support is fractured across candidates (Bergen, Burlington, Monmouth, Passaic, etc.). The primary appears competitive; county endorsements are not unified statewide. This undercuts the idea that Tabor already has a statewide lock.
+  - Local reporting indicates controversies that could harm Tabor: an article flags that a state trooper (named as a leading Republican candidate) was named in a 2023 wrongful-death lawsuit and was under an internal investigation — this type of negative story could depress his support or invite primary challenges. (New Jersey Globe tag and article reference.)
+  - Prior administrative ballot-challenge history: public electoral-challenge documents show a “Richard Tabor” involved in residency/signature challenges in 2025 that resulted in being off a ballot in that cycle. That suggests potential vulnerability to ballot challenges or organizational/administrative issues that might derail a statewide run if similar issues arise. (NJ Division of Elections list-of-challenges PDF.)
+  - No evidence of decisive statewide advantages: I found no statewide polls placing Tabor clearly ahead, no major statewide endorsements (e.g., from state GOP leadership or prominent statewide figures) and limited accessible evidence of large fundraising advantages (FEC page lists that candidate financial totals exist but I could not retrieve clear, recent single-candidate totals via the static view). Without clear statewide polling or fundraising dominance, 39.5% could be optimistic if other candidates consolidate support or can outspend him.
 
-C. Source credibility and recency
-- Most load-bearing reporting comes from the New Jersey Globe (detailed, local-state political reporting; articles dated March 2026) and the candidate’s official campaign page (self-published). The Wikipedia election page provides a compiled overview and is current to March 2026; it aggregates those local reports and FEC links. New Jersey Globe is a specialized New Jersey political outlet — high relevance and recent. Campaign material is useful for claimed strengths but is self-interested. Wikipedia is useful for a snapshot but derivative. ([newjerseyglobe.com](https://newjerseyglobe.com/local/tabor-wins-ocean-county-republican-endorsement/))
+Source credibility and recency
+- New Jersey Globe (local political news covering county conventions and candidate controversies) — recent, frequently cited for county convention endorsements and candidate reporting; credible for local convention vote counts and reporting of controversies, though it is a local outlet with a particular beat.
+- Candidate’s campaign site — primary source for his platform and endorsement claims; useful for understanding claims and local endorsements but not an independent verification of electability or fundraising.
+- New Jersey Division of Elections / NJ.gov documents — authoritative for filing/ballot procedures and candidate petition forms; credible.
+- FEC (federal) election page — authoritative for campaign finance filings and candidate registration; the site lists candidate financial totals for the election but dynamic content limited extraction in this session. Authoritative but the specific per-candidate numbers were not available in the static snapshot I captured.
 
-D. Skeptical notes (why a “too obvious” story might not be fully priced)
-- County endorsements and convention wins are meaningful but not determinative in a statewide primary; the electorate includes many unaffiliated primary voters and less-active Republicans. If the evidence were overwhelmingly clear (e.g., statewide polls with large leads or big fundraising advantage), the market would likely price Tabor closer to 60–80%. Instead the market sits at 40.5%, which plausibly reflects uncertainty from split endorsements, controversies, and absent statewide polling. That suggests traders are (charitably) incorporating both the county-strength signal and the risks. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
+Bullish perspective (favors Tabor winning)
+- Tabor has won a string of county GOP organization endorsements across multiple counties; in a low-turnout primary that is often enough to win plurality if those county organizations deliver voters.
+- He is a state trooper and veteran with a base in several counties and is running an organized campaign (registered site, claimed voter registration drives). Where county endorsements are concentrated, they can translate into delegates/votes.
 
-3) MARKET EFFICIENCY ANALYSIS — is the price reliable?
-- Reasonable interpretation that justifies the current 40.5% price:
-  - Tabor has tangible organizational momentum (multiple county endorsements including Ocean County, heavy county-level wins at conventions) that could translate into a plurality in a fractured field; that makes a 30–50% chance plausible. ([newjerseyglobe.com](https://newjerseyglobe.com/local/tabor-wins-ocean-county-republican-endorsement/))
-  - Countervailing risks (lawsuit/administrative investigation, past ballot fights, split county endorsements, lack of statewide fundraising/polling) justify a substantial discount from a “safe frontrunner” price; those reduce the posterior probability that endorsements convert to a statewide plurality. ([newjerseyglobe.com](https://newjerseyglobe.com/judiciary/trooper-running-for-senate-named-in-2023-wrongful-death-lawsuit-is-under-internal-investigation/?utm_source=openai))
-- Could price reflect only a few traders? Yes — the market’s total volume is small ($705) and spread is tight. Low-dollar trading + tight spread often means one or few informed/conviction traders set the price and others have not engaged. In such markets the quoted probability can move abruptly if a single actor changes position or if new public information appears.
-- Is low volume because the outcome is obvious or overlooked? Evidence suggests it’s more the latter: the race is active with recent conventions and controversies (so it’s not obvious), but the field is low-profile statewide and lacks major national attention. Informed traders with local knowledge could profit if they act, but many traders may be indifferent because New Jersey’s general election is expected to favor the Democrat and primary polling/fundraising data is thin. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
+Bearish perspective (favors Tabor losing)
+- Endorsements are split across the state; other candidates (Alex Zdan, Justin Murphy, Natalie Rivera, Robert Lebovics reported) have pockets of organizational support. The primary thus looks contested and could be decided by turnout differences, fundraising, or late consolidation behind a different candidate.
+- Negative reporting (lawsuit/internal investigation) and prior ballot-challenge history could reduce his viability or mobilize opposition within the party.
+- No evidence of statewide polling or clear fundraising advantage; without those, county endorsements alone are an uncertain indicator of winning a statewide primary.
 
-4) MISPRICING ASSESSMENT — weigh both sides, account for timeline, and apply the critical-check
-- Balanced take: The market price (40.5%) looks within a plausible range given the evidence:
-  - Pro: multiple county endorsements (including the largest GOP county) and convention wins give Tabor a real path to the nomination in a fractured field, supporting a non-trivial probability. ([newjerseyglobe.com](https://newjerseyglobe.com/local/tabor-wins-ocean-county-republican-endorsement/))
-  - Con: the wrongful-death lawsuit and an active State Police internal investigation, plus prior ballot-eligibility fights and the absence of public statewide fundraising/polling signals, are material negatives that could flip moderate/establishment support away from him and could depress turnout for him in a broader primary electorate. ([newjerseyglobe.com](https://newjerseyglobe.com/judiciary/trooper-running-for-senate-named-in-2023-wrongful-death-lawsuit-is-under-internal-investigation/?utm_source=openai))
-- Critical check: I am not asserting a large mispricing (>20 percentage points). The information I found (county endorsements vs. legal/administrative risk) is the kind of context that traders plausibly are incorporating already; given the split endorsements and controversies, 40.5% is defensible. If one believed the market was off by >20 percentage points, you’d expect either large statewide polling or major fundraising/party endorsements that I did not find; those are absent. Therefore I do not find strong, specific, and credible evidence that the market is mispriced by a large amount.
-- Timeline note: the primary is scheduled for June 2, 2026 — decisions and more decisive signals (statewide polling, FEC reporting, any formal action from the State Police) could appear in the next 2–3 months and materially change the price.
+Skepticism check (if it seems “obvious” that Tabor should win)
+- If Tabor’s county endorsements were truly decisive, one would expect consolidated statewide endorsements or heavy fundraising/polling evidence — which I did not find. County endorsement wins are necessary but not sufficient signals of statewide primary victory. The split convention outcomes suggest a competitive, uncertain primary — consistent with a market probability well under certainty.
 
-5) EXPECTED VALUE CALCULATION — quantify strength of evidence, magnitude of potential mispricing, expected value
-- Strength of evidence that current price omits material, credible information (0–100%): 40%. Rationale: there is clear evidence both ways (endorsements vs investigation) but no decisive statewide polling or big fundraising numbers to overturn the market’s current implicit judgement.
-- Estimated plausible magnitude of mispricing if one is wrong: ~7 cents (i.e., market could be off by roughly 5–10 percentage points in either direction, but a >20-point misprice is unlikely given available evidence).
-- Expected value = Strength × Magnitude = 40% × 7 cents = 2.8 cents expected value.
+3) MARKET EFFICIENCY ANALYSIS
+- Reasonable interpretations for the current price (39.5%):
+  - The market is pricing a strong but not dominant chance: Tabor appears to be one of the leading candidates (several county endorsements), but the race is fragmented and contains risk factors; 39.5% reflects a plausible plurality probability in a multi-candidate contest where he is a top contender but not guaranteed to consolidate the rest of the field.
+  - The price could reflect informed traders who see county endorsements as meaningful but recognize statewide uncertainty (no polls, split endorsements, possible scandal risks).
+- Could the price reflect just a few traders? Yes — the market volume is zero and spread is tight; that combination strongly suggests price is set by a small number of orders or an initial liquidity provider rather than broad aggregation. With $0 total volume, the posted price may reflect an opening quote, not traded consensus.
+- Why low volume? Two plausible reasons:
+  - The outcome is genuinely uncertain but low-salience: general-election stakes and national attention are higher for Democrats' incumbency; many informed traders focus elsewhere, leaving this low-volume micro-market relatively uncorrected.
+  - Alternatively, the market is early and traders have not engaged; county conventions and local reporting have only recently unfolded, so many informed participants may not yet have incorporated the latest county-level results into their positions.
+
+4) MISPRICING ASSESSMENT (objective weighing)
+- Evidence for mispricing (market price clearly wrong):
+  - I did not find high-quality, state-level evidence (polls, large fundraising lead, statewide endorsements) that would imply Tabor should be priced near certainty (>60%). Nor did I find clear evidence that he is a longshot (<20%). Local convention wins support a leading-but-not-dominant view.
+  - The presence of split county endorsements, other active candidates, and a negative reporting item suggests the market's ~40% could be a reasonable central estimate rather than a large mispricing.
+- Critical-check: Could I be missing something that would justify a >20-cent mispricing claim?
+  - Yes — large mispricings usually come from missing legal/eligibility facts, or decisive polling/fundraising that I did not find. I checked NJ Division of Elections filings and county convention reports; I found no evidence that the primary is already decided or that Tabor is ineligible. I also found prior ballot-challenge history that could hamper Tabor, not evidence that he’s already won or been eliminated.
+  - Without statewide polling or authoritative fundraising/dominant endorsements, claiming a >20-cent mispricing would be unsupported.
+- Most charitable interpretation of the current price:
+  - It reflects a plausible, informed-impression midpoint: Tabor is one of the frontrunners (county endorsements consolidated in parts of the state) but faces substantive competition and some negatives; a ~40% probability for a leading contender in a multi-candidate primary is reasonable and conservative.
+
+Conclusion on mispricing
+- There is insufficient credible evidence to assert a substantial mispricing (i.e., an error of >20 cents) in either direction. The market’s 39.5% is compatible with local, recent evidence (county endorsements and contested convention outcomes) and with the absence of strong statewide indicators that would justify a much higher or lower probability. However, the market’s zero trading volume means the posted price has low informational weight; it could change quickly as traders incorporate more data (fundraising reports, statewide endorsements, polls) or if controversies develop.
+
+5) EXPECTED VALUE CALCULATION (investigating/opportunity value)
+- Strength of evidence (how much the specific evidence I found is strong and likely not already priced in): 30%. Reasoning: local reporting on county endorsements and the negative story are credible but are likely known to local insiders; absence of statewide polling/fundraising leaves a lot of uncertainty and suggests lower incremental informational value from these facts.
+- Estimated magnitude of mispricing (if one exists): I estimate at most ~10 cents of potential mispricing (i.e., market could be off by ~0.10 probability) because the evidence points to a contested race rather than near-certainty. This is a modest magnitude consistent with split county endorsements and no clear statewide advantage.
+- Expected value = Strength × Magnitude = 30% × 10 cents = 3.0 cents.
 
 6) CONFIDENCE
-- My assessment confidence in this judgment: medium. Rationale: local reporting is recent and credible, but the race is fluid, low-information at statewide level, and I had limited direct FEC/polling data for the GOP primary race in the sources searched.
+- Overall confidence in this assessment: low. Rationale: the race is early, I could not retrieve clear, up-to-date statewide fundraising metrics or polling from authoritative polling firms, and the market shows zero traded volume. These factors make any conclusion tentative.
 
-CONCLUSION (short)
-- There is credible evidence both for and against Tabor’s chances. County-level endorsements and convention wins provide a plausible path to the nomination; however, a settled wrongful-death suit, an active State Police internal investigation, prior ballot-eligibility fights, and absence of clear statewide polling/fundraising data are material negatives. Given the mixed evidence and low trading volume, the market price of 40.5% is within a reasonable range and I do not see convincing proof of large mispricing. Continued monitoring of (1) official State Police findings or disciplinary action, (2) statewide polling and FEC reports, and (3) any party defections/major endorsements will be necessary to detect a genuine mispricing event.
+FINAL JUDGMENT (short)
+- The market price (~39.5%) is plausible given the available evidence: Tabor is a leading candidate with multiple county GOP endorsements but faces substantial competition, split endorsements, and potential liabilities. There is no clear, credible evidence that the market is mispricing the probability by a large margin (>20 cents). Given low volume, the posted price has limited informational weight and can move quickly as new, statewide-level information becomes available.
 
-EXPECTED_VALUE: 2.8
-SUMMARY: County-level endorsements give Richard Tabor a tangible path to the GOP nomination, but a 2023 wrongful-death lawsuit (settled) and an ongoing State Police internal investigation plus prior ballot fights and limited statewide fundraising/polling create significant downside risk. Given the mixed evidence and low market volume, the market price (40.5%) is plausible; I find no clear, specific evidence of a large (>20-point) mispricing now.
-CONFIDENCE: medium
+EXPECTED_VALUE: 3.0
+SUMMARY: Local reporting shows Richard Tabor has accumulated multiple county GOP endorsements and is a leading candidate, but endorsements are split statewide, other candidates have pockets of support, and there are reported controversies and prior ballot-challenge history. There is insufficient high-quality statewide polling or fundraising data to justify declaring the market materially mispriced; estimated expected value from further investigation is small (~3.0 cents).
+CONFIDENCE: low
 
 ---
 
@@ -77,27 +98,47 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Tabor wins Ocean County Republican endorsement](https://newjerseyglobe.com/local/tabor-wins-ocean-county-republican-endorsement/)
+### [Tabor beats Zdan for Hunterdon GOP U.S. Senate endorsement](https://newjerseyglobe.com/congress/158350/)
+**Author:** David Wildstein | **Published:** 2026-02-26
+
+Reports that Richard Tabor narrowly defeated Alex Zdan at Hunterdon County’s GOP convention (57-43) and notes Tabor’s background as a New Jersey state trooper and veteran, plus mentions other county endorsements (Atlantic, Union, Hudson). This is relevant because county conventions and organization endorsements are tangible indicators of local party support that can matter in low-turnout primaries; it supports the view that Tabor is a leading contender but does not show statewide control.
+
+### [Richard Tabor For U.S. Senate (campaign site)](https://www.taborforsenate.com/)
+**Author:** Unknown (campaign) | **Published:** Unknown
+
+Candidate campaign site lists Tabor’s platform, claims about registering voters ("Registered over 2,000 Republicans in urban areas"), and shows claimed county endorsements (Atlantic, Hudson, Hunterdon, Union). Useful as a primary source for the candidate’s stated organization and claims; supports the argument that Tabor has an organized campaign, but does not independently verify electability, statewide support, or fundraising.
+
+### [In race to take on Booker, Tabor beats Zdan at Somerset GOP convention](https://newjerseyglobe.com/congress/in-race-to-take-on-booker-tabor-beats-zdan-at-somerset-gop-convention/)
+**Author:** David Wildstein | **Published:** 2026-03-10
+
+Reports that Tabor won the Somerset County GOP endorsement 65-38 over Alex Zdan, and notes distribution of other county endorsements (Tabor: Atlantic, Hudson, Hunterdon, Ocean, Union; Zdan: Cumberland, Cape May, Essex, Passaic, Salem; Murphy: Camden, Gloucester, Mercer). This underscores that endorsement support is divided geographically — supporting the assessment that Tabor is a major contender but the race is fragmented.
+
+### [Pino defeats Burress at Bergen GOP convention; Zdan endorsed for U.S. Senate](https://newjerseyglobe.com/local/pino-defeats-burress-at-bergen-gop-convention-zdan-endorsed-for-u-s-senate/)
 **Author:** David Wildstein | **Published:** 2026-03-09
 
-Local reporting that Ocean County Republicans endorsed Richard Tabor (he won 88% of the county convention vote), and that Tabor has secured party backing in several other counties (Atlantic, Hudson, Hunterdon, Middlesex, Ocean, Somerset, Union). The article notes Ocean County is the largest GOP county in the state and reports both Tabor’s organizational strength and that party leaders have questions about his role in a wrongful-death lawsuit and a State Police investigation. Relevance: supports the bullish case (organizational traction and multiple county endorsements) while flagging a specific reputational/legal risk that could undercut that traction; directly informs whether local endorsement momentum is sufficient to justify a high market price. ([newjerseyglobe.com](https://newjerseyglobe.com/local/tabor-wins-ocean-county-republican-endorsement/))
+Reports Bergen County Republicans overwhelmingly endorsed Alex Zdan for U.S. Senate, and notes that Richard Tabor did not participate in Bergen. Demonstrates that county-level endorsements are split and that Zdan has strong organizational support in some populous counties — relevant because it makes a statewide Tabor lock less likely and explains why a ~40% market probability could be reasonable.
 
-### [Trooper running for Senate was named in 2023 wrongful death lawsuit, is under internal investigation](https://newjerseyglobe.com/judiciary/trooper-running-for-senate-named-in-2023-wrongful-death-lawsuit-is-under-internal-investigation/)
-**Author:** Joey Fox and David Wildstein | **Published:** 2026-03-05
+### [Richard Tabor (tag and related articles)](https://newjerseyglobe.com/tag/richard-tabor/)
+**Author:** New Jersey Globe (various articles by David Wildstein) | **Published:** 2026-03-05 (and other dates for linked pieces)
 
-Detailed coverage of the wrongful-death suit filed in 2023 related to a 2022 Garden State Parkway crash that named or implicated Tabor; reporting indicates a settlement was reached and the suit dismissed in late 2025, and that State Police have an ongoing internal administrative investigation (Tabor reportedly on paid administrative absence). The article also recounts Tabor’s prior ballot-removal issues and ongoing denials. Relevance: this is the principal bearish evidence — it is a recent, specific, potentially vote-moving legal/administrative issue that traders should account for when pricing his nomination chances. ([newjerseyglobe.com](https://newjerseyglobe.com/judiciary/trooper-running-for-senate-named-in-2023-wrongful-death-lawsuit-is-under-internal-investigation/?utm_source=openai))
+Tag page collects multiple items including a report that a trooper (identified as a leading Republican candidate) was named in a 2023 wrongful-death lawsuit and was under internal investigation (March 5, 2026). This negative reporting is relevant because legal/disciplinary issues can materially affect primary viability and could reduce Tabor’s probability of winning; it lowers confidence that county endorsements alone secure a win.
 
-### [2026 United States Senate election in New Jersey — Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey)
-**Author:** Unknown | **Published:** Unknown
+### [2026 Election United States Senate - New Jersey | FEC](https://www.fec.gov/data/elections/senate/NJ/2026/)
+**Author:** Federal Election Commission | **Published:** Unknown
 
-Aggregated overview of the 2026 NJ Senate race (incumbent, primary date June 2, 2026), lists declared Republican candidates (Richard Tabor, Alex Zdan, Justin Murphy, Robert Lebovics, Natalie Rivera), and summarizes county-level endorsements and other references. It compiles FEC links for major fundraisers and cites local reporting (New Jersey Globe) on conventions and endorsements. Relevance: useful consolidated snapshot for the candidate field, primary calendar, and the endorsement landscape; supports contextual conclusions about how county endorsements are distributed and the fractured nature of the GOP primary. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey))
+Official FEC page for New Jersey 2026 Senate election finance/filing data. It lists that candidate financial totals and filings exist for the election; I could not extract candidate-level totals from the static snapshot, but the page is the authoritative source to check campaign receipts/disbursements and whether committees have filed. Lack of easily extractable dominant fundraising data for Tabor limits evidence that he has a commanding financial advantage — a key missing piece preventing a confident claim of mispricing.
 
-### [Richard Tabor for Senate (official campaign site)](https://www.taborforsenate.com/)
-**Author:** Unknown | **Published:** Unknown
+### [2026 New Jersey General Election (New Jersey) - The Green Papers](https://www.thegreenpapers.com/G26/NJ)
+**Author:** The Green Papers | **Published:** Unknown
 
-Candidate’s official campaign site asserting his background (state trooper, veteran) and campaign themes and contact/fundraising avenues. Relevance: primary source for candidate biographical claims and for checking the tone/claims the campaign emphasizes (service record, outsider biography). As a self-published source it supports candidate strengths but must be weighed against independent reporting. ([taborforsenate.com](https://www.taborforsenate.com/?utm_source=openai))
+Election calendar and seat listing for New Jersey’s 2026 federal contests (shows seat up and timing). Useful to confirm election timing and that the 2026 Senate seat is on the ballot; helps to anchor timeline for the primary (states’ primaries in 2026 are early summer for NJ). Relevant because timing affects how much time remains for campaigns to consolidate support or for new information to affect market prices.
 
-### [Candidate list (Union County Clerk) — official county candidate list (PDF)](https://unioncountyvotes.com/wp-content/uploads/2025/03/CANDIDATE-LIST.pdf)
-**Author:** Unknown | **Published:** 2025-03- (document posted March 2025)
+### [2026 GENERAL ELECTION – U.S. SENATE (candidate petition PDF) | NJ.gov](https://www.nj.gov/state/elections/assets/pdf/candidate/2026-general-election-petition-us-senate.pdf)
+**Author:** New Jersey Division of Elections | **Published:** Unknown
 
-Official county-level candidate listing that includes Richard Tabor’s candidacy details and contact. Relevance: corroborates that Tabor has been active in local candidacies and had prior ballot eligibility issues in local filings; useful to confirm local filing history and that his political activity is concentrated in particular counties (relevant to county endorsement strengths). ([unioncountyvotes.com](https://unioncountyvotes.com/wp-content/uploads/2025/03/CANDIDATE-LIST.pdf?utm_source=openai))
+Official candidate petition PDF for the 2026 U.S. Senate general election — authoritative document showing filing format and state requirements for Senate candidates. Relevant because state filing rules and deadlines can produce ballot challenges or disqualifications (and we saw historical challenges referenced elsewhere), which are material to whether a candidate can appear on the primary ballot and thus to market resolution.
+
+### [2025 Primary Election — List of challenges (NJ Division of Elections)](https://www.nj.gov/state/elections/assets/pdf/election-results/2025/2025-list-of-challenges-primary.pdf)
+**Author:** New Jersey Division of Elections | **Published:** Unknown
+
+Official list showing challenges to candidate eligibility in 2025; a "Richard Tabor" name appears associated with a residency challenge that led to being off the 2025 ballot. This is relevant because it documents past administrative/ballot vulnerability for a candidate of that name; such history increases the possibility of future procedural risk (ballot challenges) that could affect his ability to compete statewide and so should be factored into any pricing of win probability.

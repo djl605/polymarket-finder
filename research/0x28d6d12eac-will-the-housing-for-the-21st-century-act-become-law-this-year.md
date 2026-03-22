@@ -1,7 +1,7 @@
 # Research: Will the Housing for the 21st Century Act become law this year?
 
 **Market ID:** 0x28d6d12eac68223138afb976332da144b44a3ebcf71960b8a0efe4f21f4521c2
-**Researched At:** March 12, 2026 at 06:21:23 PM UTC
+**Researched At:** March 22, 2026 at 04:32:28 AM UTC
 **Search Query:** "Will the Housing for the 21st Century Act become law this year?"
 
 ---
@@ -9,90 +9,74 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 2.5¢
 
 ### Summary
 
-The House already passed H.R.6644 (390–9) and the Senate invoked cloture (89–9–1) on a merged "21st Century ROAD to Housing" substitute—strong procedural momentum. Remaining credible risks (House/Senate text differences and President Trump’s March 8–9 statement that he “will not sign other bills” until a voting bill passes) introduce uncertainty but do not provide clear evidence the current 70.5% price is off by a large amount. CONFIDENCE: medium
-
-SOURCES:
----
-Title: H.R.6644 - 119th Congress (2
+Both chambers have moved bipartisan housing packages forward (House passage of H.R.6644 and Senate passage of a closely related ROAD package), so enactment in 2026 is plausible; the main remaining risks are presidential signaling that he won’t sign other bills until a voting bill passes and possible House procedural objections. Given public evidence, the market price (~68.5%) is reasonable and I find no credible evidence of a large mispricing — only a small expected mispricing (~5¢) with moderat
 
 ### Full Analysis
 
-I researched primary sources and recent reporting (Congress.gov, Senate roll calls and press releases, legal analyses, trade groups, and mainstream media) through March 12, 2026. Below is an evidence-based evaluation of whether the market price (70.5%) for "Will the Housing for the 21st Century Act become law this year?" shows credible mispricing.
+Planned search strategy and scope
+- Questions I needed answered: (a) What exactly the market will resolve on (resolution criteria) and whether qualifying legislation exists (H.R.6644 text/status); (b) current legislative status in each chamber and votes; (c) whether a Senate companion or combined package exists and whether the President has signaled intent to sign — plus credible risks to enactment before Dec 31, 2026.  
+- I used three web searches focused on primary/authoritative sources (Congress.gov, Senate sources, CRS) and high-quality reporting for political context and the President’s stated position.
 
 1) CONTEXT ANALYSIS
-- What the market asks: Will qualifying legislation (including H.R. 6644 as described) be passed by both chambers of the 119th Congress and become law (signed by the President, become law without signature, or via veto override) by 11:59 PM ET on December 31, 2026?
-- YES resolves if: (a) a legislative vehicle that meets the market's qualifying criteria (explicitly including H.R. 6644) is enacted through the constitutional process before the stated deadline and (b) official sources (Congress.gov/LOC or a consensus of credible reporting) confirm enactment.
-- NO resolves if: either it fails to pass both chambers in a qualifying form, the President does not sign and Congress does not enact it otherwise (or a pocket veto applies), or no qualifying text is enacted by the deadline.
+- What the market is asking: Will legislation that revises federal housing programs as described (including H.R.6644) be passed by both chambers of the U.S. Congress and become law (signed by the President, become law without signature while Congress remains in session, or become law via veto override) by 11:59 PM ET on December 31, 2026?  
+- For “Yes” to resolve: Congress must pass identical (or otherwise qualifying) text through both chambers (either by the House agreeing to a Senate-passed bill, the Senate agreeing to House-passed H.R.6644 with no material disqualifying differences, or a conference/joint resolution that both chambers pass) and the bill must become law by one of the permitted means before Dec 31, 2026. For “No”: if neither an eligible bill (including H.R.6644 or another qualifying joint resolution) becomes law by that deadline, it resolves “No.” The market description also explicitly disqualifies presidential pocket vetoes that expire (those would resolve to No).
 
-2) EVIDENCE EVALUATION (what the research found)
-Key facts (most relevant, recent, authoritative)
-- House action: H.R. 6644 (Housing for the 21st Century Act) passed the House by suspension (390–9) on February 9, 2026. (Congress.gov; committee one-pagers and House press releases). This is a high-confidence factual base. ([congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644))
-- Senate procedural progress: The Senate invoked cloture on a Scott/Warren substitute (the "21st Century ROAD to Housing" substitute/amendment to H.R. 6644) with a very large bipartisan vote (e.g., 89–9–1 on March 10, 2026), and the Senate leadership scheduled floor consideration and post-cloture votes. Senate roll-call records and Senate leadership materials document cloture and the post-cloture schedule. These are firm indicators of strong Senate momentum. ([senate.gov](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00050.htm?utm_source=openai))
-- Senate & House convergence: Senate managers put forward a single "21st Century ROAD to Housing Act" that merges Senate S.2651 and many House provisions; several housing, municipal, and trade groups have urged Congress to finish the process quickly. Legal/industry firms and trade groups report the Senate advanced the package and that reconciling House/Senate differences is the next step. ([lw.com](https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act?utm_source=openai))
-- Presidential/White House uncertainty: President Trump publicly stated (March 8–9, 2026) that he "will not sign other Bills until" passage of the SAVE America (voting) Act, creating ambiguity about whether he would sign unrelated legislation promptly. Press reporting and local outlets quote the President’s post and White House reactions; this is a material political risk to the signature step. This is recent and credible reporting. ([aljazeera.com](https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes?utm_source=openai))
+2) EVIDENCE EVALUATION (what I found and how it bears on the market)
+Key factual findings (authoritative / high-yield):
+- Congress.gov shows H.R.6644, the “Housing for the 21st Century Act,” exists as a House-passed bill (text and actions tracked). (Congress.gov). This is explicitly named in the market description as qualifying legislation. This is direct, high-authority evidence that a qualifying bill is already on the path. (Supports Yes.)
+- The Senate Banking Committee / Senate floor activity: the Senate advanced and then passed a related bipartisan package branded the “21st Century ROAD to Housing Act” with strong bipartisan margins in March 2026 (reported Senate passage votes ~89–10). The Senate package is described as combining much of the House package with additional Senate provisions. (Senate Banking press releases, Senate press statements). That demonstrates both chambers have placed strongly overlapping packages on record. (Supports Yes.)
+- Reporting and policy groups (Axios, National League of Cities, NACo, several advocacy groups) report bipartisan momentum: House passage was by a large bipartisan margin (a 390–9 vote was reported for the House passage) and the Senate’s package passed with large bipartisan support; numerous housing organizations have endorsed the legislation. (Supports Yes — broad support reduces political risk.)  
+- CRS summary exists describing the bill’s provisions and implications (Congressional Research Service brief). That indicates the provision set is substantive and that analysts have prepared official summaries — a signal the legislation is being treated seriously by policymaking institutions. (Supports Yes.)
 
-Evidence that supports the market price (i.e., that passage this year is likely)
-- Overwhelming House vote (390–9) indicates very broad House support for the House text. That reduces the chance that the House will flatly refuse to accept reconciled compromises in principle.
-- Strong bipartisan backing and a very large cloture vote in the Senate (89–9–1) show Senate floor support to proceed. These procedural votes usually precede passage and indicate the Senate majority is willing to move the package.
-- Multiple influential stakeholders (builders, municipal governments, housing coalitions, community bank groups) publicly support passage and urged action; pressure from stakeholders and bipartisan leaders increases the odds of a final agreement.
-- The calendar and Senate floor scheduling showed imminent post-cloture consideration (March 11–12), meaning the legislative process is in an active phase rather than idle.
+Evidence pointing to risks / reasons the market might be over-confident:
+- Presidential timing/priority and signaling: multiple outlets report that President Trump wrote publicly (March 2026) that he would not sign other bills until the SAVE (voting-related) Act was passed. If the President keeps to that stance, signature could be delayed or withheld. A withheld signature (or an expressed refusal to sign) significantly reduces the chance of the bill becoming law unless Congress can override a veto (unlikely for a large, complex package) or the bill becomes law without signature while Congress remains in session. (Argues for lower probability than a certainty.) (Risk to Yes.)
+- House dynamics and procedural hurdles: although the House previously passed H.R.6644 by a large margin, the Senate’s package is not identical; the House must either adopt the Senate-amended language or go to conference. Some House conservatives (including hardline factions) have demanded unrelated concessions on other policy items in recent comparable negotiations; law-firm briefs and advocacy analysis note those demands could create friction if the House is asked to accept the Senate package. If the House refuses to agree to Senate amendments, further negotiation is required and could delay or derail enactment. (Risk to Yes.)
+- Timing and other legislative priorities: the bill must be signed into law by Dec 31, 2026. The congressional calendar (elections in November 2026, possible pre-election priorities, and political brinksmanship) can compress or complicate the final months. (Adds uncertainty.)
 
-Evidence that suggests the current market price might be too high (risks not fully priced)
-- Text differences: The Senate substitute includes Title IX provisions (a substantial institutional-investor restriction on single-family acquisitions) that were not in the House-passed H.R. 6644. If the Senate passes a substitute that materially changes policy (adds new, controversial provisions), the bill would have to return to the House for agreement; the House might reject or demand changes, increasing failure risk. Legal analysis highlights how Title IX is a potential point of friction. ([lw.com](https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act?utm_source=openai))
-- Presidential uncertainty: The President’s statement (he would not sign other bills until the SAVE Act passes) introduces a nontrivial risk to final enactment even after bicameral passage. The President's public ultimatum is recent and widely reported; it creates plausible downside risk to the "signed into law" step. ([aljazeera.com](https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes?utm_source=openai))
-- Reconciliation frictions: Reports identify other sticking points (community bank provisions, CBDC/other policy riders) and indicate House Republicans may press for community bank deregulatory items — negotiations could delay, strip key provisions, or produce a package that fails to get both chambers' majorities.
-- Timing and politics: Even with a post-cloture floor vote and Senate passage, a return-to-House and additional votes (and potential last-minute amendments) create failure modes. Because the market resolves only on final enactment and signature by Dec 31, 2026, these intermediate steps matter.
+Credibility and recency of sources
+- Congress.gov and Senate committee/press releases are primary, authoritative, and up-to-date sources for status and votes — high credibility and directly relevant. CRS is an authoritative analytic source. Axios and major Senate press releases are timely reporting and widely relied-on political coverage — high credibility for political context. Law firm client memos (Latham & Watkins) summarizing Senate action are credible for procedure and legal consequences. USA TODAY/Yahoo reporting on the President’s public statements is credible for his stated intent (the fact of the statement is credible; actual future behavior may differ).
 
-Source credibility and recency
-- Congress.gov (Library of Congress) — authoritative for bill text, House status, and formal actions (Feb 9 House passage; received in Senate Feb 11). Recent (Feb 2026) and primary. ([congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644))
-- U.S. Senate roll-call pages and Senate leadership / Democratic Caucus daily wrap — primary official records for cloture votes and floor schedule (March 10 cloture 89–9–1; post-cloture schedule). Very high credibility and current. ([senate.gov](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00050.htm?utm_source=openai))
-- Latham & Watkins legal analysis and Senate Banking press materials — reputable legal/committee commentary that explains content of the Senate substitute (Title IX investor rules) and political context. Useful for assessing how Senate changes affect reconciliation risk. Recent (March 2026). ([lw.com](https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act?utm_source=openai))
-- National League of Cities / trade & advocacy groups — credible stakeholders describing how the combined package is moving and the policy details; relevant to political pressure. Recent. ([nlc.org](https://www.nlc.org/article/2026/03/06/senate-moves-historic-housing-legislation-forward-with-21st-century-road-to-housing-act/?utm_source=openai))
-- Major-media coverage of the President's March 8–9 public statement about not signing other bills — multiple reputable outlets reported the statement; this is a real, recent political-development risk that affects the signature step. ([aljazeera.com](https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes?utm_source=openai))
+Bullish vs Bearish perspectives — short summary
+- Bullish (favoring “Yes”): Both chambers have moved strongly similar legislation forward; House already passed H.R.6644; Senate passed a bipartisan package with a large margin; numerous municipal and housing organizations support the bills; there is institutional momentum and bipartisan convergence on supply-focused fixes. These facts substantially increase the chance the package — or a substantially similar combined bill — becomes law in 2026.  
+- Bearish (favoring “No”): The President signaled he will prioritize the SAVE Act and may refuse to sign other bills until it passes; House procedural or political obstacles could block acceptance of the Senate text (differences in the bills and unrelated demands by hardline members); even with bipartisan floor votes, final conference and signature remain nontrivial and could fail or be delayed past the market deadline. These are realistic hurdles that reduce the probability below certainty.
 
-Skepticism checks (why the market may already price these facts)
-- Traders can see House passage, public Senate cloture votes, the Senate schedule, and the President’s post — all are public and recent. A reasonably informed trader could already incorporate the Senate post-cloture probability and presidential uncertainty into the 70.5% price.
-- The Senate’s very strong cloture vote implies a high likelihood of at least Senate passage of some housing package; the market may reflect that bicameral passage + reconciliation + signature is still somewhat uncertain but tilted toward enactment.
-- Low trading volume ($1,813 total) means the price could be dominated by one or a few informed traders who are comfortable with their own assessment — or it could reflect a cautious consensus: momentum plus a residual signature/House-agreement risk.
+Why this is not a slam-dunk “sure” outcome (and why markets may already price that)
+- The path from both chambers’ floor votes to a signed law requires additional procedural steps (conference/House concurrence or Senate concurrence) and the President’s cooperation (signature or inaction). That last step is the critical choke point. Given the President’s public statement prioritizing a different bill (the SAVE Act), the risk that the bill will be delayed or not signed before Dec 31, 2026 is real — but not overwhelming, because Congress could still pass language that becomes law without the President’s explicit signature while Congress remains in session, or political incentives could lead to the President signing despite statements. Markets that track the situation will likely have already incorporated the Senate and House votes and the President’s public posture.
 
-3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations justifying 70.5%:
-  - House overwhelming support + Senate cloture 89–9 suggests a combined-bill passage is more likely than not; market traders may discount the remaining reconciliation/signature steps modestly (e.g., treating Senate passage as likely ~85–90%, but reducing the final signed-into-law chance to ~65–75% because of reconciliation and presidential willingness).
-  - The timeline (end of 2026) gives Congress many months to reconcile and send a final bill; traders may assign higher probability because the deadline is not imminent.
-- Could the price reflect a single trader? Yes — low total volume and narrow spread mean a few active traders can anchor the price. But the price is also consistent with public evidence; there's no immediate sign that the market price is wildly out of sync with accessible information.
-- Why low volume might exist:
-  - Many traders view the outcome as politically plausible and either have positions elsewhere or are reluctant to bet on policy risk; others may assume market already reflects well-known developments and see little edge.
-  - Alternatively, some sophisticated traders may be engaged off-platform (lobbying, OTC) or simply not participate in small-volume markets.
+3) MARKET EFFICIENCY ANALYSIS (is the price plausible given evidence?)
+- The market price today: 68.5% (68.5¢). Given the observed facts — House passage by 390–9 and Senate passage of a similar bipartisan package with votes near 89–10 — a probability materially above 50% is reasonable. The two-chamber movement and broad endorsements make enactment plausible.  
+- Reasonable interpretation justifying current price: It looks like a consensus view that passage and enactment are likely but not guaranteed. 68.5% incorporates strong bipartisan floor support but also acknowledges the President’s statements and remaining procedural steps. That is an internally consistent price.  
+- Could the price reflect only one or a few traders? Yes — low total trading volume and $0 of total volume reported means the price may be set by few traders. However, the tight 3¢ spread indicates the market maker (or a small set of traders) is confident in pricing; the price also aligns with public legislative developments, which suggests it’s not wildly out of line. The lack of volume is an ambiguous signal: it could mean the outcome is seen as straightforward (few traders need to trade) or that few informed traders are engaging (which raises the possibility of inefficiency).
+- Is low volume because outcome obvious or because traders have not engaged? Given the bipartisan votes and Senate progress, some informed traders might view enactment as likely and therefore not worth trading aggressively; others might be waiting on final House action. So low volume could reflect both a degree of consensus and a lack of active trading interest.
 
 4) MISPRICING ASSESSMENT
-- Do I see credible missing information that would make the market materially mispriced (>20 cents)? No.
-  - Public record shows strong bipartisan support and Senate procedural advancement; that supports a probability substantially above coin flip.
-  - The main hard-to-quantify risks (Senate-House textual friction over Title IX, need for reconciliation, and presidential uncertainty re: signing) are publicly observed and plausibly already priced by traders.
-  - I see no clear, credible new fact (e.g., a definitive House or Senate rejection, or an explicit White House veto threat tied specifically to this bill) missing from the market that would justify a >20-cent correction in either direction.
-- Likely magnitude of any remaining mispricing:
-  - If traders underweight the President’s March 9 public ultimatum or the need for House concurrence after Senate substitution, the real enactment probability might be modestly lower (single-digit to low-teens percentage points) than 70.5.
-  - Conversely, if traders overweight presidential rhetoric (and he ultimately signs), the true probability could be modestly higher.
-- Most charitable interpretation for why traders set 70.5%:
-  - They see the strong bipartisan votes and Senate cloture as tilting the final outcome toward enactment, but they discount known reconciliation/signature risk — a balanced, evidence-based midpoint.
+- Is there credible evidence the market is significantly mispriced (especially > 20¢)? No — I did not find any specific, credible new information that makes passage certain or extremely unlikely. The principal uncertainties (President’s signing posture and potential House procedural objections) are public and plausibly already incorporated in the 68.5% price. The legislative facts (House passage of H.R.6644 and Senate passage of the related ROAD package) argue that the market is broadly informed.  
+- Could the market be modestly mispriced? Possibly in either direction by a few cents. For instance:
+  - If the President’s “won’t sign other bills until SAVE Act” posture is a strong and binding constraint, the chance of signature this year could be meaningfully lower than 68.5% (maybe subtract 10–20 points). But that posture could also be bargaining rhetoric that does not ultimately prevent a signature — and Congress could adopt procedural workarounds.  
+  - Conversely, if the House is likely to accept the Senate package quickly (because it overwhelmingly supported H.R.6644 earlier), the probability could be higher than 68.5% by a few points.
+- I do not see specific, credible evidence of a large (>20¢) mispricing. Large mispricings would require evidence such as a binding Presidential veto threat combined with House refusal to override and clear House opposition to accept Senate changes — I did not find such decisive, documentary evidence. Instead, the public evidence points to significant momentum but not certainty.
 
-5) EXPECTED VALUE CALCULATION (for investigating / trading)
-- Strength of evidence that price is missing a material, tradable fact: I estimate ~40%. Rationale: the public record strongly supports a >50% base chance but the remaining failure modes (textual reconciliation, President’s public position) are uncertain and likely already partially priced. The "missing piece" probability is moderate but not high.
-- Magnitude of mispricing if one is present: I estimate a plausible error of ~5 cents (0.05 on a 0–1 scale). Rationale: publicly visible events (House + Senate cloture) argue against very large errors; remaining risks plausibly shift probability by a few to low-teens points, but not 20+ points given the strong bipartisan floor-level support.
-- Expected value = Strength × Magnitude = 40% × 5 cents = 2.0 cents.
+Critical check (what might I be missing?)
+- The exact resolution criteria matter: the market allows qualifying legislation to include H.R.6644, but resolution depends on precisely which text is enacted (the market accepts H.R.6644 or “qualifying legislation” that revises federal housing programs per the description). Because the Senate passed a package that “combines” House and Senate provisions, it seems likely a qualifying enactment would be recognized — but confirmatory tracking of the final enrolled bill at Congress.gov is needed before concluding a market is definitively wrong. I flagged the President’s public statement and House procedural dynamics as the most plausible missing context; if the President’s position hardens, that could materially change the probability. Those are already public and (I judge) already priced to some degree. Given this, large mispricings are unlikely without new private information.
+
+5) EXPECTED VALUE CALCULATION (my estimate of potential mispricing and the value of trading)
+- Strength of evidence that important information is missing from the market price: moderate — I’d rate ~50%. There is clear public momentum and public countervailing signals (President’s statement); neither side contains secret, decisive proof that enactment is inevitable or impossible. Many of the main facts appear public and likely already accounted for in the price. (Strength = 50%.)  
+- Magnitude of plausible mispricing (if any): small — I estimate a plausible error in the market price of about 5 cents (0.05) in either direction rather than a large swing. That is because the major public events (House vote, Senate passage) are already known and would likely have been priced; only political negotiation and the President’s play remain as margin. (Magnitude = 5¢.)  
+- Expected value = Strength × Magnitude = 50% × 5¢ = 2.5¢.
 
 6) CONFIDENCE IN ASSESSMENT
-- I rate my confidence as: medium.
-  - Why medium? The underlying congressional actions are well-documented and recent (high confidence), but the politically contingent signature step and possible reconciling amendments are inherently uncertain and could materially change the chance. Low market volume adds uncertainty about whether the quoted price reflects broad information or a thin market.
+- My confidence in this overall assessment: medium. The legislative facts are public and well-documented (high confidence), but political behavior (Presidential sign/no-sign, intra-House bargaining) is harder to predict and could change the calculus quickly (reducing confidence).
 
-Bottom-line judgement
-- The market price (70.5%) is broadly reasonable given the evidence: House passage, large Senate cloture margin, and active floor scheduling make passage and enactment plausible, but important, public political risks remain (Senate-House text differences and the President’s March 8–9 public statement). I do not find credible evidence of a large, unpriced mispricing (>20¢). There is a modest chance (expected value ≈ 2.0 cents) that the market underweights some combination of reconciliation difficulty and presidential reluctance, but this is not a strong arbitrage opportunity given current information.
+CONCLUSION (concise):
+- The public, primary-source evidence shows strong bipartisan floor-level momentum: H.R.6644 passed the House decisively and the Senate passed a similar bipartisan package (the “21st Century ROAD to Housing Act”) with large margins. That makes passage and enactment in 2026 plausibly likely but not certain. The principal remaining risks are presidential prioritization (public statements indicating he will not sign other bills until the SAVE Act passes) and any House objections to the Senate package that would force extended negotiation. Given those facts, the market price of 68.5% appears reasonable and I find no credible evidence of a large (>20¢) mispricing. There could be a modest mispricing on the order of a few cents; my expected-value estimate for exploiting a mispricing is about 2.5¢.
 
-EXPECTED_VALUE: 2.0
-SUMMARY: The House already passed H.R.6644 (390–9) and the Senate invoked cloture (89–9–1) on a merged "21st Century ROAD to Housing" substitute—strong procedural momentum. Remaining credible risks (House/Senate text differences and President Trump’s March 8–9 statement that he “will not sign other bills” until a voting bill passes) introduce uncertainty but do not provide clear evidence the current 70.5% price is off by a large amount. CONFIDENCE: medium
+EXPECTED_VALUE: 2.5
+SUMMARY: Both chambers have moved bipartisan housing packages forward (House passage of H.R.6644 and Senate passage of a closely related ROAD package), so enactment in 2026 is plausible; the main remaining risks are presidential signaling that he won’t sign other bills until a voting bill passes and possible House procedural objections. Given public evidence, the market price (~68.5%) is reasonable and I find no credible evidence of a large mispricing — only a small expected mispricing (~5¢) with moderate confidence.
+CONFIDENCE: medium
 
 ---
 
@@ -100,32 +84,37 @@ SUMMARY: The House already passed H.R.6644 (390–9) and the Senate invoked clot
 
 *The following sources were found via web search and used in the analysis:*
 
-### [H.R.6644 - 119th Congress (2025-2026): Housing for the 21st Century Act | Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/6644)
-**Author:** Unknown | **Published:** 2026-02-11 (Latest action received in Senate; House passage 2026-02-09)
+### [H.R.6644 - 119th Congress (2025-2026): Housing for the 21st Century Act | Congress.gov | Library of Congress](https://www.congress.gov/bill/119th-congress/house-bill/6644)
+**Author:** Unknown | **Published:** Unknown
 
-Official Congress.gov bill page and summary. Documents bill text, committee reports, and the House roll-call (passed under suspension 390–9 on Feb 9, 2026). It records that H.R.6644 was received in the Senate (Feb 11, 2026). This is the primary source for the House passage, bill language, and procedural status; it supports the bullish argument (bipartisan House vote) and establishes the baseline that the bill is in the Senate for consideration (relevant to market likelihood).
+The Congress.gov bill page contains the official text, actions, titles, and procedural history for H.R.6644 (Housing for the 21st Century Act). It documents the bill’s provisions and the House’s passage actions and therefore directly establishes that H.R.6644 exists and has passed the House (a qualifying bill per the market). This is the authoritative source that H.R.6644 is a live piece of qualifying legislation — evidence that supports a “Yes” outcome if the Senate and President complete enactment steps.
 
-### [Senate Advances 21st Century ROAD to Housing Act](https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act)
-**Author:** Latham & Watkins LLP (Roman Martinez et al.) | **Published:** 2026-03-11
+### [U.S. Senate Passes Chairman Scott’s Historic Housing Affordability Legislation (press release) | U.S. Senate Committee on Banking, Housing, and Urban Affairs](https://www.banking.senate.gov/newsroom/majority/us-senate-passes-chairman-scotts-historic-housing-affordability-legislation)
+**Author:** Unknown (Senate Banking Committee press release) | **Published:** 2026-03-12
 
-Legal-firm analysis describing the Senate’s substitute (Scott/Warren) that combines S.2651 and House provisions and summarizing Title IX institutional-investor restrictions and enforcement mechanisms. Documents that on March 10, 2026 the Senate cleared a procedural hurdle (cloture) by a large bipartisan margin and analyzes sticking points for reconciliation (investor ban, CBDC ban, community bank provisions). This source explains why Senate passage may not be the end of the story and supports the case that reconciliation issues could reduce final enactment probability.
+The Senate Banking Committee / Majority pressroom summarizes Senate floor action advancing and passing the “21st Century ROAD to Housing Act” with strong bipartisan margins (~89-10 reported). It describes the bill’s provisions and its relationship to the House bill (combining many provisions) and lists endorsements. This is primary evidence that the Senate passed a closely related package, which materially increases the likelihood that some qualifying legislation could be enacted this year; it supports the market’s relatively high probability.
 
-### [Roll Call Vote 119th Congress - Vote 50 (On the Cloture Motion Re: Amdt. No. 4308 to H.R.6644) — U.S. Senate](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00050.htm)
-**Author:** United States Senate — Senate LIS / Bill Clerk | **Published:** 2026-03-10
+### [Congress zeroes in on housing supply | Axios](https://www.axios.com/2026/02/10/real-estate-congress-housing-act)
+**Author:** Unknown | **Published:** 2026-02-10
 
-Official Senate roll-call record for the cloture vote on the Scott/Warren substitute to H.R. 6644: Motion to invoke cloture agreed to YEAs 89, NAYs 9, Present 1 on March 10, 2026. This primary record confirms the large bipartisan willingness to proceed in the Senate and is a key piece of evidence for the market's bullish case.
+Axios summarizes both chambers’ activity on housing legislation (House passage of H.R.6644 and Senate committee action on a related package) and frames the bills as bipartisan efforts to boost supply. Axios notes that no single provision is likely to radically change markets but that the package has momentum. This reporting gives readable context for why traders may be pricing a high but non-certain chance of enactment, and it highlights that the bills are being treated as serious bipartisan policy work rather than purely partisan theater.
 
-### [Scott, Warren Release 21st Century ROAD to Housing Act Legislative Package to Boost Housing Supply and Bring Down Costs | U.S. Senate Committee on Banking, Housing, and Urban Affairs](https://www.banking.senate.gov/newsroom/minority/scott-warren-release-21st-century-road-to-housing-act)
-**Author:** U.S. Senate Committee on Banking, Housing, and Urban Affairs (Office of Senators Scott & Warren) | **Published:** 2026-03-06
+### [Senate Advances 21st Century ROAD to Housing Act (client alert) | Latham & Watkins (law firm)](https://www.lw.com/en/insights/senate-advances-21st-century-road-to-housing-act)
+**Author:** Unknown | **Published:** 2026-03-11
 
-Committee press material describing the Senate package and announcing floor plans; it explains the package’s intent, contents (combining Senate ROAD to Housing and House provisions), and leaders’ statements about advancing the bill to the President. It is authoritative about Senate managers’ intentions and supports the interpretation that the Senate is actively trying to deliver a comprehensive housing package—evidence supporting a higher probability of enactment absent other obstacles.
+A legal/transactional brief summarizing Senate floor activity, procedural votes, and possible sticking points. It notes procedural hurdles, possible House concessions, and the President’s related public positioning. As a legal-market memo, it highlights the realistic procedural complexity after Senate passage and underscores why final enactment is probable but not guaranteed — relevant to assessing remaining tail risks.
 
-### [Senate Moves Historic Housing Legislation Forward with 21st Century ROAD to Housing Act — National League of Cities](https://www.nlc.org/article/2026/03/06/senate-moves-historic-housing-legislation-forward-with-21st-century-road-to-housing-act/)
-**Author:** National League of Cities (NLC) | **Published:** 2026-03-06
+### [Trump says he 'will not sign other bills' until the SAVE Act is passed | USA TODAY (also syndicated via Yahoo)](https://www.yahoo.com/news/articles/trump-says-not-sign-other-160219582.html)
+**Author:** Kate Perez (USA TODAY) | **Published:** 2026-03-09
 
-Advocacy/municipal government group overview describing the Senate’s advancement of a combined housing compromise and urging quick resolution; provides practical perspective on local government priorities and stakeholder pressure to pass the bill. This source shows stakeholder enthusiasm and the political push to finish a bill—evidence that legislative momentum could be an important positive input to market odds.
+Reports that President Trump publicly stated (via Truth Social and other remarks) he would not sign other bills until the SAVE America Act (a voting-related bill he prioritizes) is passed. This statement is critical political evidence because it directly affects the presidential signature step required for enactment. It increases the plausible chance of delay and is a key reason why the market should not place near-100% probability on enactment despite strong congressional movement.
 
-### [Trump pledges to block legislation until US voter ID law passes — Al Jazeera](https://www.aljazeera.com/news/2026/3/8/trump-pledges-to-block-legislation-until-us-voter-id-law-passes)
-**Author:** Unknown | **Published:** 2026-03-08
+### [Counties Celebrate House Passage of Housing for the 21st Century Act | National Association of Counties (NACo)](https://www.naco.org/news/counties-celebrate-house-passage-housing-21st-century-act)
+**Author:** Unknown | **Published:** Unknown
 
-Reports on President Trump’s public statement that he "will not sign other Bills" until the SAVE America (voting) Act is passed, quoting his social-media post and reactions. This is a recent political development that increases uncertainty about whether the President will sign unrelated legislation quickly; it is relevant to the market because the market requires the President's signature (or other enactment path) for a YES resolution.
+NACo’s press release celebrates the House passage and explains specific grant programs and local-government flexibilities included in H.R.6644. This source shows municipal-level stakeholder support and why local governments favor the bill — an important political constituency that increases the bill’s momentum and makes final enactment more likely.
+
+### [The Housing for the 21st Century Act — CRS Report (PDF)](https://www.congress.gov/crs_external_products/R/PDF/R48849/R48849.2.pdf)
+**Author:** Congressional Research Service (CRS) | **Published:** Unknown
+
+CRS provides an analytic summary of the bill’s provisions and context for federal housing policy. CRS analysis is an authoritative background source used by Members and staff; its existence indicates both that congressional staff take the bill seriously and that reliable summaries are available for negotiators. The CRS review helps explain why the underlying policy and budgetary tradeoffs are being debated and how informed Congress is likely to be as they finalize text.

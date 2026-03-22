@@ -1,70 +1,82 @@
 # Research: Will Dan Cox win the 2026 Maryland Governor Republican primary election?
 
 **Market ID:** 0x3d6221450862c69f69e9b278a9119fc3e11f1c794650f7cddf283d4adefeee20
-**Researched At:** March 15, 2026 at 04:35:14 AM UTC
+**Researched At:** March 22, 2026 at 04:28:53 AM UTC
 **Search Query:** "Will Dan Cox win the 2026 Maryland Governor Republican primary election?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 4.0¢
+**Confidence:** Low
+**Expected Value:** 2.4¢
 
 ### Summary
 
-The 51% quote is plausible as a near‑even assessment: Cox has prior primary victory and base recognition, but a crowded GOP field and no clear repeat of the 2022 external dynamics create real uncertainty. The market’s zero trading volume makes the quoted 51% weakly informative; I find insufficient public evidence to call a large mispricing, though a small error (single-digit cents) is plausible.
+Official Maryland filings confirm Dan Cox is an active Republican candidate for governor and the ballot is crowded but lacks an obvious heavyweight challenger; Cox’s 2022 nomination gives him name-recognition that plausibly explains a modest favorite price. There are no public GOP-primary polls or clear fundraising dominance for any single challenger, so current market odds (51.5%) are plausible and I find insufficient credible evidence of a large mispricing.
 
 ### Full Analysis
 
+Plan & constraints (done before searching)
+- Key questions I needed answered: who has officially filed for the 2026 Maryland Republican gubernatorial primary, what is Dan Cox’s current profile (name recognition, prior nomination, ideological positioning), what competitors exist and whether any have clear fundraising/polling advantages, and whether there are recent polls or other objective signals that would make Cox clearly more or less likely to win.
+- I had a budget of 3 web searches and used them to (1) verify official candidate filings, (2) confirm Dan Cox’s political background and prior nomination, and (3) survey local reporting about fundraising / field strength for the 2026 race.
+
 1) CONTEXT ANALYSIS
-- What the market asks: “Will Dan Cox win the 2026 Maryland Governor Republican primary election?” The market resolves to YES if Dan Cox is the overall winner of the Republican primary for Maryland Governor (primary date: June 23, 2026) per the Maryland Republican Party’s first official announcement (or overwhelming consensus reporting).
-- Resolution mechanics that matter: a plurality win in the Republican primary (the market text explicitly includes any second round/run-off if such were to occur). Practically, YES means Cox is the top vote-getter and declared winner of the June 23, 2026 Republican primary.
+- What the market is asking: The contract resolves YES if Dan Cox is the overall winner of the Republican primary for Maryland governor (the primary is scheduled for June 23, 2026). For YES to occur, Cox must be the plurality (or winner after any runoff/second round if the party’s rules require it) of the Republican primary vote as officially announced by the Maryland Republican Party (or an overwhelming consensus of credible reporting).
+- What would need to happen for NO to occur: Any other Republican listed on the official primary ballot (or an “Other” if no primary occurs) must finish ahead of Cox when the Maryland Republican Party (or official state count) declares the result.
 
-2) EVIDENCE EVALUATION (all sources are primary reporting, official pages, and known local/national news/poll reports)
+2) EVIDENCE EVALUATION (all-sides, cited)
+Key, directly relevant findings from authoritative sources:
+- Official candidate filings: The Maryland State Board of Elections (SBOE) shows Dan Cox filed a governor ticket (Dan Cox / Rob Krop) on 2026-01-30, and it lists multiple other active Republican gubernatorial filers for 2026 (Carl Brunner Jr., Ed Hale, John Myrick, Douglas Larcomb, Michael Oakes, etc.). This is the definitive primary ballot roster and confirms Cox is an active, official candidate but that the field is crowded. (SBOE). ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html))
+- Dan Cox background & prior nomination: Public reporting summarized in Dan Cox’s biography (e.g., media coverage captured on his Wikipedia page) documents that he was the GOP nominee in 2022, is a well-known figure on Maryland’s right flank (Trump-endorsed in 2022 and often described as an election-denier/far-right figure). That history explains his existing name recognition among Maryland GOP voters and why he could be a front-runner in a low-information Republican primary. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Dan_Cox?utm_source=openai))
+- Fundraising/field strength reporting: Local political coverage (Maryland Bay News) shows the 2026 Republican field is fragmented and that GOP fundraising remains weak relative to the Democratic incumbents; reporting also notes specific Republican filers but emphasizes that no single Republican has built a dominant statewide operation yet and that some lesser-known Republicans (e.g., Kurt Wedekind in some writeups) posted stronger early fundraising among GOP filers. That suggests Cox’s advantage may be primarily name recognition rather than a commanding fundraising/political infrastructure edge. ([mdbaynews.com](https://mdbaynews.com/2026/02/26/maryland-governor-race-2026-candidate-breakdown/?utm_source=openai))
 
-Evidence that suggests the market price (51%) might be too high (evidence against Cox >51%):
-- Competitive field / new entrants: The Maryland State Board of Elections official candidate list shows multiple active Republican filings (John A. Myrick, Carl Brunner Jr., Ed Hale, others) in the 2026 GOP governor primary. A multi-candidate field increases uncertainty and makes a single-name >50% implied probability less certain. (MD SBE filings). ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/gen_cand_lists_2026_1.html))
-- New/alternative candidates with local resources: Local reporting documents additional GOP entrants (Ed Hale switching parties to run, John Myrick and others building campaigns earlier), any of which could split or consolidate anti-Cox votes. That weakens the argument that Cox is a clear >50% favorite in the primary. ([wmar2news.com](https://www.wmar2news.com/local/ed-hale-switches-from-democrat-to-republican-to-run-for-maryland-governor-in-2026))
-- No obvious national re-endorsement or big outside cash (so far): Cox benefited in 2022 from a high-profile dynamic (Trump endorsement + outside spending that helped his primary path). I did not find a clear 2026 Trump re-endorsement or evidence of a major new outside spending wave in his favor as of the searches; absence of the 2022-style external signal reduces confidence that he will repeat a primary-winning surge. (news searches & campaign sites; Washington Post coverage shows the 2022 dynamic but not a 2026 repeat). ([washingtonpost.com](https://www.washingtonpost.com/dc-md-va/2026/01/31/dan-cox-maryland-governor-bid-wes-moore//))
-
-Evidence that supports the market price (evidence for Cox ~51% being reasonable):
-- Prior primary winner and name recognition inside GOP base: Dan Cox won the 2022 Republican gubernatorial primary and is a known, statewide figure within Maryland GOP circles; that history gives him a durable base advantage inside a closed primary electorate (Maryland GOP primary voters are a relatively small, more conservative pool). Historical reporting of Cox’s 2022 primary win is strong evidence he is a plausible frontrunner in 2026 among GOP voters. ([washingtonpost.com](https://www.washingtonpost.com/dc-md-va/2022/07/19/maryland-primary-elections-voting-governor/))
-- Active campaign / official filing: Cox filed for governor for 2026 (Maryland SBE filing and active campaign site) and he has a running mate listed (Rob Krop) — indicating an active campaign apparatus that can compete for the party base. That supports a non-trivial probability he wins the nomination. ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/gen_cand_lists_2026_1.html))
-- Party composition and primary dynamics: Polling of the general electorate (Gonzales Research January 2026 statewide poll) shows Democrats dominate statewide registration and that Republicans are a smaller slice of the electorate; closed primary dynamics can favor a candidate who is strong with the concentrated Republican base even if they are weak statewide. Cox’s prior success with the GOP base is consistent with a near-fifty percent chance in a contested field. ([dehayf5mhw1h7.cloudfront.net](https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2026/01/14172858/gonzales-poll-report-c4-bryan-show-january-2026.pdf))
+What suggests the market price could be incorrect (evidence that would argue the price is too high or too low)
+- Evidence that would challenge a Cox favorite (i.e., indicate price is too high):
+  - Crowded field and absence of a commanding alternative: The SBOE list shows several active Republican candidates. If one of them consolidates establishment support or raises significantly more money or gains late polling momentum, Cox’s 2022-edge could evaporate — and there is no public sign yet that Cox has locked up a durable fundraising or institutional advantage. (SBOE; MDBayNews reporting). ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html))
+  - No recent, public Republican-primary polling: I did not find any public, reliable statewide polling that measures head-to-head support among GOP primary voters in 2026. The absence of structured polling means market prices may be driven more by bettors’ priors (e.g., “Cox was the 2022 nominee so he’s the favorite”) than by up-to-date voter preference data — increasing uncertainty that the market price fully reflects likely turnout and intra-party dynamics. (survey of sources; lack of polls in coverage). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election?utm_source=openai))
+- Evidence that supports the current market price (i.e., price reasonable):
+  - Name recognition and prior statewide primary win: Cox’s prior nomination in 2022 and continued public profile among the Maryland GOP base are credible predictors of primary performance in a low-information primary environment. For many primaries, prior nominees or candidates who have run statewide retain a durable lead with base voters. That makes a slight favorite price (~51.5%) plausible. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Dan_Cox?utm_source=openai))
+  - No obvious heavyweight challenger filed (so far): The SBOE list does not show Kelly Schulz (a known 2022 GOP runner-up) or other major statewide Republicans with established statewide organizations on the ballot; if the most plausible alternative to Cox (e.g., Schulz or an establishment-backed figure) is not in the race, the path for Cox to win the plurality is easier. The SBOE roster’s composition supports the interpretation that the race is a fragmented GOP contest rather than a clear head-to-head replacement for Cox. ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html))
 
 Source credibility and recency
-- Maryland State Board of Elections candidate list: authoritative, last-updated Feb 13, 2026 (official filing record). Highly credible for who’s on the ballot. ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/gen_cand_lists_2026_1.html))
-- Washington Post (Jan 31, 2026 piece on Cox filing): high-quality national reporting summarizing Cox’s filing and political background — credible and recent. ([washingtonpost.com](https://www.washingtonpost.com/dc-md-va/2026/01/31/dan-cox-maryland-governor-bid-wes-moore//))
-- Gonzales Research January 2026 poll (pdf): a recent Maryland statewide poll (Dec 21, 2025–Jan 6, 2026 field period) that speaks to statewide general-election dynamics and electorate composition; credible for general context but it measures general voters, not Republican primary voters specifically. ([dehayf5mhw1h7.cloudfront.net](https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2026/01/14172858/gonzales-poll-report-c4-bryan-show-january-2026.pdf))
-- WMAR / local press on other GOP entrants (Ed Hale switching parties): local reporting documenting a wider field (useful to evaluate primary competition). Credible for announcements and filings. ([wmar2news.com](https://www.wmar2news.com/local/ed-hale-switches-from-democrat-to-republican-to-run-for-maryland-governor-in-2026))
+- Maryland State Board of Elections (SBOE) — primary source for filings and ballot status. Highly credible and current (page last updated 2026-03-17 in the version I consulted). Directly relevant and authoritative for who is on the ballot. ([elections.maryland.gov](https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html))
+- Dan Cox / 2022 coverage (encyclopedic summary) — Wikipedia is secondary but pulls together mainstream coverage (NYT, Baltimore Sun, etc.) documenting Cox’s 2022 nomination and ideological positioning. It’s useful for background but less authoritative than primary news reports; nevertheless it accurately summarizes widely reported facts about his profile. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Dan_Cox?utm_source=openai))
+- Maryland Bay News (local political reporting) — a local political news outlet that has recent pieces on 2026 fundraising and candidate dynamics. Useful for up-to-date, localized fundraising and field-analysis; not a national pollster but relevant for qualitative signals and early fundraising snapshots. ([mdbaynews.com](https://mdbaynews.com/2026/01/22/maryland-campaign-finance-2026-top-fundraisers/?utm_source=openai))
 
-Skepticism notes
-- If the market’s 51% price were produced by real trading volume and many participants, that would be more informative. But the market has $0 total volume and a 2¢ spread; that strongly suggests the quote is not validated by active market trades. A single liquidity provider or initial automated price could be responsible. That alone argues the quoted 51% should be treated as weak signals unless volume and open interest grow.
-- Many datapoints here are about general dynamics and filings rather than Republican-primary-specific polling. The absence of primary polling is itself informative: there is genuine uncertainty and no consensus polling signal to decisively push probability far above or below 50%.
+Skepticism notes (why the “obvious” interpretation may be wrong)
+- If the market’s ~51.5% price reflects only “Cox = prior nominee, therefore favorite” that may be overconfident because (a) small-dollar local campaigns and turnout dynamics in primary electorates can flip if one alternative consolidates, and (b) without public polling there’s a high chance bettors are overweighting name recognition. Conversely, if institutional donors or party actors are quietly preparing to back a different candidate, that would not yet show up in public reporting but could decisively change the race.
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations that justify the 51% price:
-  - It’s plausible this is a “coin-flip” fair price reflecting the balance between (a) Cox’s known name recognition and prior primary win (supporting him) and (b) a wider field and uncertainty about whether another candidate will consolidate anti-Cox primary support (cutting into him).
-  - The price could reflect a neutral prior / market-maker default (the platform or initial liquidity provider setting a midpoint) rather than informed aggregation — consistent with $0 trading volume.
-- Could the price be consensus among informed traders? Unlikely given zero volume; more likely an administrative or single-party quote. If the market remains low-volume, it risks reflecting one or a few participants’ views rather than a true crowd forecast.
-- Why low volume? Two plausible reasons: (1) the outcome is genuinely uncertain and not yet actively bet on (traders waiting for clearer signals like endorsements, fundraising, or primary polling), or (2) the market is obscure/illiquid and overlooked by traders who focus on higher-volume markets. The evidence (active filings but no polls and $0 traded) points toward the latter interpretation: informed traders have not yet engaged at scale.
+- Reasonable interpretations that justify the current ~51.5% price:
+  - Name-recognition advantage: Cox ran statewide in 2022 and was the GOP nominee, so in a fragmented Republican primary with no heavyweight challenger on the ballot (per SBOE) he plausibly enters as the plurality favorite.
+  - Low-information / low-engagement primary: When a primary is low-salience and lacks recent polls, bettors tend to default to prior nominees or most-recognized names — rationally producing a modest favorite price.
+- Reasons the price might reflect few participants / thin information:
+  - Market metrics show low turnover (Total Vol $801) and a tight spread; with little money in the market, a small number of informed or overconfident bettors could set the mid-price. A tight spread with very low volume does not guarantee that a consensus of many traders supports the price — it could be just one or two people trading.
+  - No public statewide GOP-primary polls and no dominant fundraising lead in public filings (local reporting shows fragmentation) means informed external traders (campaign operatives, pollsters) may not have engaged — or they may be keeping information private, which raises uncertainty.
+- Which explanation is more likely?
+  - Both are plausible. The SBOE and the lack of heavyweight challengers make Cox’s favoritism plausible; the low liquidity and missing public polling/fundraising dominance make it plausible that current price reflects limited bettor information rather than a broad market consensus.
 
-4) MISPRICING ASSESSMENT
-- Verdict: Insufficient credible evidence to conclude there is a large, specific mispricing. The available public, high-quality evidence (official filings, national/local reporting, and statewide general polling) supports the idea that Cox is a plausible frontrunner but does not imply a near-certainty or a clear edge large enough (e.g., >20 percentage points) to label the 51% price materially wrong.
-- Why not conclude large mispricing:
-  - The market’s price of 51% is close to an even-money assessment and that is consistent with the combination of Cox’s base-level advantages (prior primary winner, name recognition) and the meaningful uncertainty introduced by multiple active GOP candidates and lack of a 2026 Trump endorsement or big outside spending so far.
-  - Because trading volume is zero, the price likely does not reflect a robust information aggregation process; but that alone is not proof of mispricing — it is an explanation for why the quoted price is not very informative. Either the market is conservatively guessing 50/50, or a single liquidity provider chose the 51% midpoint; both are plausible and neither is strong evidence of a missing (public) informational factor that would dramatically move the probability.
-- The “critical check”: I cannot find evidence that the resolution condition has already been met or that a technicality would cause an immediate re-resolution. The main items that could dramatically change the probability (endorsements from Trump or another prominent Republican, large outside spending, a major polling release of Republican primary voters, or a prominent candidate consolidation/withdrawal) are not present in public reporting at this time. If any of those emerges, re-assess.
+4) MISPRICING ASSESSMENT (weighing evidence)
+- Balance of evidence: The strongest objective facts are that Cox is an official candidate with a prior statewide GOP nomination (which gives him baseline support among the party base) and that the official field does not include an obvious, better-funded establishment replacement. Those facts support treating Cox as a modest favorite. However, there is no current public evidence (polls or clear fundraising advantage) demonstrating Cox will definitely win the 2026 GOP primary; the field is fragmented and public reporting indicates GOP fundraising/organization remains weak.
+- Missing information that would change the assessment materially:
+  - A recent GOP-primary poll of likely Republican primary voters in Maryland showing Cox substantially ahead or behind.
+  - Campaign finance reports showing one GOP challenger outraising Cox and building a statewide program.
+  - A major endorsement (e.g., from statewide party leadership, Hogan if he chose to back someone, or a national conservative group) consolidating the field.
+- Conclusion on mispricing: Given available public information, there is insufficient specific, credible evidence that the market price (51.5%) is materially mispriced. The price is plausible given Cox’s name recognition and the absence of a clear heavyweight challenger on the SBOE ballot, but the lack of polling and limited public fundraising signals means uncertainty is high. I therefore do NOT conclude there is a clear, large mispricing to exploit. The market could be slightly off (by a few cents) if public signals change (endorsement/fundraising/poll), but current public evidence does not identify a specific, credible piece of missing information that would justify a large (>20¢) adjustment.
 
-5) EXPECTED VALUE CALCULATION (value of acting on the hypothesis there is a mispricing)
-- Strength of evidence the market is missing a material public item (0–100%): I estimate 40%. Rationale: there is moderate, credible evidence that Cox is a viable frontrunner, and also credible evidence of meaningful uncertainty; I do not see a clear, specific, credible public fact that the market is missing which would flip probabilities by a large margin.
-- Magnitude of likely mispricing (cents): if there is mispricing, it’s probably small. I estimate a plausible mispricing magnitude ≈ 10 cents (i.e., the market could be off by roughly ±10¢ rather than a large swing).
-- Expected value = Strength × Magnitude = 40% × 10¢ = 4.0¢
+CRITICAL CHECK (applied)
+- I verified the exact resolution criteria (market resolves to the declared winner of the Republican primary on June 23, 2026; the SBOE candidate list confirms Cox is on the ballot). I do not see a technicality (e.g., Cox already disqualified or similar) that would invalidate the market.
+- I considered the charitable interpretation: bettors are pricing Cox as a modest favorite because prior nominee + no heavyweight challenger = highest likelihood of a plurality in a crowded GOP field. That is a reasonable and charitable reading of the available public facts.
 
-EXPECTED_VALUE: 4.0
-SUMMARY: The 51% quote is plausible as a near‑even assessment: Cox has prior primary victory and base recognition, but a crowded GOP field and no clear repeat of the 2022 external dynamics create real uncertainty. The market’s zero trading volume makes the quoted 51% weakly informative; I find insufficient public evidence to call a large mispricing, though a small error (single-digit cents) is plausible.
-CONFIDENCE: medium
+5) EXPECTED VALUE CALCULATION
+- Strength of evidence (how likely the information I found is new/unpriced by the market, 0–100%): 30% — public SBOE filings and the fact Cox is 2022 nominee are almost certainly already priced in; the main “new” points are the lack of a heavyweight challenger filing (which is visible on SBOE) and fragmented fundraising signals — these are moderate, not strong, new evidence relative to the market.
+- Magnitude of plausible mispricing (if mispriced): 8 cents. Rationale: given the limited public signals, any real mispricing is likely small — a handful of cents rather than a large swing. A reasonable upper-bound guess for a single informationally thin mid-priced candidate in a low-volume primary market might be ~5–15 cents; I take 8¢ as a central estimate.
+- Expected value = Strength × Magnitude = 0.30 × 8¢ = 2.4¢ (rounded to one decimal = 2.4 cents).
+
+EXPECTED_VALUE: 2.4
+SUMMARY: Official Maryland filings confirm Dan Cox is an active Republican candidate for governor and the ballot is crowded but lacks an obvious heavyweight challenger; Cox’s 2022 nomination gives him name-recognition that plausibly explains a modest favorite price. There are no public GOP-primary polls or clear fundraising dominance for any single challenger, so current market odds (51.5%) are plausible and I find insufficient credible evidence of a large mispricing. 
+CONFIDENCE: low
 
 ---
 
@@ -72,27 +84,22 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [2026 Gubernatorial Primary Election State Candidates List](https://elections.maryland.gov/elections/2026/Primary_candidates/gen_cand_lists_2026_1.html)
-**Author:** Maryland State Board of Elections (unknown individual author) | **Published:** 2026-02-13
+### [2026 Gubernatorial Primary Election State Candidates List](https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html)
+**Author:** Maryland State Board of Elections | **Published:** 2026-03-17
 
-Official candidate filing list for the 2026 Maryland gubernatorial primary (last-updated timestamp shown on the page: 02/13/2026). The page lists Dan Cox (filed 01/30/2026) among multiple active Republican filings (John A. Myrick, Carl A. Brunner Jr., Ed Hale, Michael Oakes, Kurt Wedekind, and others). This is authoritative evidence that a multi-candidate Republican field exists in 2026; that fact increases uncertainty about a single frontrunner and challenges any confident >50-point claim absent further polling or endorsements. It supports the assessment that the primary is contested and that a 51% market quote is at best a draft/crowdsourcing baseline rather than a confirmed consensus.
+This is the official Maryland State Board of Elections candidate list for the 2026 gubernatorial primary. It shows Dan Cox filed a governor ticket (Dan Cox / Rob Krop) on 2026-01-30 and lists multiple other active Republican filers (e.g., Carl Brunner Jr., Ed Hale, John Myrick, Douglas Larcomb, Michael Oakes). This source is the authoritative record of who will appear on the Republican primary ballot; its contents show the field is fragmented and that Cox is an official entrant (which supports the market resolving YES only if Cox wins the primary).
 
-### [Dan Cox files to run for Md. governor, eyeing possible rematch with Moore](https://www.washingtonpost.com/dc-md-va/2026/01/31/dan-cox-maryland-governor-bid-wes-moore//)
-**Author:** Olivia George and Katie Shepherd | **Published:** 2026-01-31
+### [Dan Cox](https://en.wikipedia.org/wiki/Dan_Cox)
+**Author:** Unknown (Wikipedia) | **Published:** Unknown
 
-Washington Post coverage of Dan Cox’s official 2026 filing and political background. The article recounts Cox’s 2022 primary win, his prior Trump endorsement, his political style (appeal to the conservative base), and notes other Republicans who are considering or entering the race. This source is recent and credible; it supports the claim that Cox is an active, recognizable candidate with a pre-existing base (supportive of a substantial probability) while also noting competing Republicans and political headwinds (which argue against treating Cox as a lock).
+The Dan Cox page summarizes his political background, including that he was the Republican nominee for Maryland governor in 2022 and has been described in mainstream reporting as aligned with the far-right of the GOP and as a Trump-endorsed candidate. This background explains Cox’s existing name recognition and plausibly persistent base support in GOP primaries; it supports the view that Cox can reasonably be priced as a modest favorite in a fragmented Republican primary, though the page is a secondary source and should be read alongside primary reporting.
 
-### [Maryland Statewide Survey, January 2026 (Gonzales Polls, Inc.) [PDF]](https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2100/2026/01/14172858/gonzales-poll-report-c4-bryan-show-january-2026.pdf)
-**Author:** Gonzales Research & Media Services / Patrick E. Gonzales | **Published:** 2026-01 (fielded Dec 21, 2025–Jan 6, 2026)
+### [Maryland’s 2026 Governor’s Race Is Set — And Wes Moore Is Running on a Record Voters Should Scrutinize](https://mdbaynews.com/2026/02/26/maryland-governor-race-2026-candidate-breakdown/)
+**Author:** Unknown | **Published:** 2026-02-26
 
-A January 2026 statewide poll (808 registered voters) that reports on general-election dynamics and voter perceptions in Maryland (including Wes Moore’s standing and party composition). It shows Democrats are the dominant registration bloc and Republicans compose a smaller share of the statewide sample — contextually important because primary voters are a subset (and usually more conservative) of that electorate. The poll is credible for general context (not for GOP-primary-specific shares), and it underlines why a candidate like Cox (with strong base recognition) could do well in a closed Republican primary even while being uncompetitive statewide.
+Local analysis of the 2026 Maryland governor field that lists candidates, discusses early fundraising and name-recognition dynamics, and notes that some Republican filers have posted early fundraising while the field remains fragmented. The article highlights that no single Republican has yet consolidated a dominant statewide operation; this supports the assessment that Cox’s main advantage may be name recognition rather than a clear organizational or financial edge, which limits confidence that the market is badly mispriced.
 
-### [Ed Hale switches from Democrat to Republican to run for MD governor](https://www.wmar2news.com/local/ed-hale-switches-from-democrat-to-republican-to-run-for-maryland-governor-in-2026)
-**Author:** WMAR Staff | **Published:** Unknown
+### [Maryland’s Political Money Machine: Who’s Raising the Most Heading Into 2026—and Why It Matters (and companion fundraising piece)](https://mdbaynews.com/2026/01/22/maryland-campaign-finance-2026-top-fundraisers/)
+**Author:** Unknown | **Published:** 2026-01-22
 
-Local reporting on Ed Hale’s party switch and announcement to run for governor as a Republican. The article documents that Hale and other names are entering the GOP primary field and summarizes Hale’s platform and rationale. This is relevant because additional entrants (especially those with business resources or local name recognition) increase the chance that the GOP primary will be contested and that Cox could face vote-splitting or an anti-Cox consolidation — both important to assessing whether the market’s 51% is justified.
-
-### [Trump-backed Cox projected to win Maryland’s GOP gubernatorial primary](https://www.washingtonpost.com/dc-md-va/2022/07/19/maryland-primary-elections-voting-governor/)
-**Author:** Erin Cox, Ovetta Wiggins, Antonio Olivo | **Published:** 2022-07-19
-
-Washington Post reporting of the 2022 Maryland GOP primary in which Dan Cox secured the Republican nomination. The article documents the dynamics that aided Cox in 2022 (Trump endorsement; outside spending dynamics) and confirms Cox’s prior success in a statewide GOP primary. This historical fact is central to the argument that Cox has a plausible baseline chance again in 2026, because prior primary winners often retain disproportionate name recognition and base support in later cycles — a reason why a ~50% market price is not implausible on its face.
+Local coverage focused on early campaign finance filings for the 2026 cycle, documenting how Democratic incumbents (notably Gov. Moore) have a fundraising advantage and that Republican fundraising is scattered. The piece is useful to show that, at least publicly, no Republican has posted a dominant, high-profile fundraising lead that would clearly displace Cox; this undercuts an argument for a large mispricing against Cox but also underscores the uncertainty that arises from weak GOP fundraising signals.

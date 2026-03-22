@@ -1,79 +1,95 @@
 # Research: Will Pacifica launch a token by December 31 2026?
 
 **Market ID:** 0xead60faf2caee5be3f9ea46131cea93339c4d5802eda85226d0296e0d7231f8a
-**Researched At:** March 14, 2026 at 04:11:35 AM UTC
+**Researched At:** March 22, 2026 at 04:26:52 AM UTC
 **Search Query:** "Will Pacifica launch a token by December 31 2026?"
 
 ---
 
 ## AI Analysis
 
-**Confidence:** Medium
-**Expected Value:** 3.2¢
+**Confidence:** Low
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Pacifica runs a public points program and has strong product traction — that makes a token launch plausible — but Pacifica’s official docs and major token trackers show no tradable governance token or contract yet. Given the competing evidence and low market volume, the current 57% price is plausible; I see only a small expected mispricing (~3.2 cents EV) with medium confidence.
+Pacifica has a live, large weekly “points” program and measurable platform traction (tracked by analytics) which make a token issuance plausible, but Pacifica’s official docs and app do not commit to any TGE and there’s no clear, tradable PACIFICA token visible on aggregators or major listings. Given those facts, the market price at 59% is defensible and I find insufficient credible evidence of a large (>20¢) mispricing.
 
 ### Full Analysis
 
-I searched recent primary and news sources about Pacifica’s points/airdrop activity, product traction, and any on‑chain token or token‑generation announcements. Below is a concise, evidence‑weighted analysis addressing the five required areas and the final expected value, summary, confidence, and full source list.
+Plan and scope
+- Questions to answer: (a) Exactly what will make the market resolve YES vs NO; (b) Has Pacifica publicly launched a tradable governance token or taken steps that make such a launch highly likely by Dec 31, 2026; (c) What concrete, credible evidence for/against a token launch exists that the market plausibly may have missed; (d) Given the evidence, is the current 59% price plausibly fair or is there credible mispricing and how large might it be?
+- I searched primary sources (official docs/site/app) and reputable crypto coverage about Pacifica, plus community/airdrop trackers and on‑chain explorers to look for a live/tradable token or an authoritative token roadmap.
 
-1) CONTEXT ANALYSIS
-- What the market asks: Whether Pacifica (X: @pacifica_fi) will officially launch a governance token that is actively and publicly transferable and tradable by 11:59 PM ET on December 31, 2026.
-- YES resolves if: Pacifica publishes (or there is a credible consensus of reporting showing) a token contract or token listing and the token is publicly transferable/tradable on‑chain or on exchanges before the deadline. Announcements only are insufficient — the token must be actually transferable/tradable.
-- NO resolves if: No publicly transferable/tradable governance token exists by the deadline, or Pacifica explicitly states there will be no tradable governance token and that is reflected in credible reporting or on‑chain absence.
+1) CONTEXT ANALYSIS — what the market is asking
+- The market resolves YES if Pacifica (X: @pacifica_fi) “officially launches a governance token” by 11:59 PM ET, Dec 31, 2026, and that token is actively and publicly transferable and tradable (announcements alone don’t qualify; the token must exist on-chain and be tradable). (Market description provided by you.)
+- Therefore, to resolve YES one of these must happen before that deadline: (a) Pacifica (or a clearly identified Pacifica smart-contract or token program) issues a token on a public chain and the token is transferable; and (b) that token is available to trade publicly (DEX/CEX or on-chain liquidity) such that it is “actively and publicly transferable and tradable.” If Pacifica merely announces plans or issues non-transferable “points” or an off‑chain promise without a tradable on‑chain token, the market would resolve NO.
 
-2) EVIDENCE EVALUATION — key facts and how they affect likelihood
+2) EVIDENCE EVALUATION — what the sources say and how they affect probability
 
-Evidence suggesting the market price (57% Yes) might be too high
-- Official docs are silent on a tradable governance token: Pacifica’s public docs list a “Points Program” (official docs) but do not publish tokenomics, a token contract, or a TGE schedule. That is direct primary evidence that Pacifica has not committed publicly to a tradable governance token at the time of the docs snapshot. (Pacifica docs). This weakens certainty that a token will be live by Dec 31, 2026.
-- No major token listing / no obvious on‑chain contract: searches of major aggregators and token indexes do not show a Pacifica governance token on CoinGecko/CoinMarketCap listings as a token (CoinGecko shows Pacifica as an exchange). The absence of a token on major trackers and no visible verified contract is strong negative evidence that a tradable governance token does not yet exist. If the token were already live and traded meaningfully, standard aggregators would likely index it. (CoinGecko / CoinMarketCap pages).
-- Project messaging and product philosophy reported in coverage: multiple sources describe Pacifica as self‑funded and intentionally operating a points/rewards program rather than immediately issuing a governance token; several writeups highlight the team’s deliberate, product-first posture. That increases the plausibility the project could delay or never do a tradable governance TGE. (various press coverage; project docs show emphasis on product).
+Key primary/official evidence
+- Pacifica’s official documentation and app emphasize a weekly “Points Program” (10,000,000 points/week, snapshots and distributions) and explicitly avoid describing a live token or tokenomics on the docs pages. The Points Program doc is explicit about weekly point distributions and states the program is dynamic and opaque; it also discourages trading points. This is an official, high‑credibility source that confirms points exist but does not commit to a tradable governance token. ([pacifica.gitbook.io](https://pacifica.gitbook.io/docs/programs/points-program))
+  - How this affects the market: the points program is consistent with projects that later run an airdrop/TGE mapping points to tokens, which raises the ex‑ante probability of a token at some point — but crucially the doc does not promise or schedule a Token Generation Event or tokenomics. Absence of an official TGE announcement is important.
 
-Evidence supporting the market price (why Yes is plausible)
-- Points program and community distribution activity: Pacifica runs a public points program (weekly distributions; community coverage describes a multi-week/22‑week schedule). Points programs are commonly used as a lead into an eventual token or airdrop conversion in DeFi. If Pacifica converts points into a token and enables claims/transfers, that would satisfy the market’s resolution criteria. (Pacifica docs; multiple news reports summarizing the points program).
-- Rapid product traction and high volumes reported in multiple outlets: several news/aggregator pieces (and trackers like DeFiLlama coverage quoted in the press) document high trading volumes, active user counts, and fast product shipping. A project with real product traction commonly proceeds to tokenization to capture value—this operational capability makes a token launch before year‑end plausible. (coverage from industry outlets).
-- Multiple secondary reports cite an airdrop-like distribution and even give community/press estimates for supply and distribution timing (some outlets report token supply numbers or a planned TGE). Those reports, if accurate or if they reflect leaked/planned timelines, would increase probability of a tradable token by Dec 31, 2026.
+Platform traction and external coverage
+- Multiple crypto-news / analytics pages show Pacifica as a high‑volume, active perp DEX (DefiLlama/aggregators listing Pacifica and marketplace writeups), and trading‑volume and user metrics have been widely reported in crypto press and aggregator pages. This indicates a real product with active users — a typical precondition making projects more likely to eventually launch a governance token or airdrop. ([explore.ag](https://explore.ag/projects/pacifica?utm_source=openai))
+  - How this affects the market: strong user metrics increase the chance Pacifica will consider a token (community pressure, token-design utility), but metrics do not guarantee a token or timing.
 
-Source credibility and recency
-- Primary source: Pacifica docs (official GitBook) and pacifica.fi are highest‑credibility for official commitments; they currently show a points program but no published token/tge details. (High credibility; recent).
-- Aggregators (CoinGecko/CoinMarketCap) are credible for whether a token is indexed/listed; both show Pacifica only as an exchange and not as a tradable governance token. (High credibility; recent).
-- Crypto news sites and exchange blogs (KuCoin, Phemex, CoinEx, industry blogs) reported on points, reported community numbers, and in a few cases repeated claims of token supply — these are secondary and sometimes republished/aggregated items that may mix community rumor with facts; treat them as lower credibility than primary docs and on‑chain data. (Medium to low credibility; various dates in late‑2025 to early‑2026).
-- Overall: strongest evidence is absence of primary confirmation (docs and indexers). Press speculation and points activity increase plausibility but do not prove tradable launch.
+On-chain / listing evidence
+- I could not find an authoritative, obviously tradable PACIFICA governance token listed on major trackers (CoinGecko/CoinMarketCap) or a clearly visible, well-documented token contract with active liquidity. Solana explorer pages show references / token pages that do not indicate a clear, widely-traded PACIFICA token contract (no evidence of a mainstream token listing). This is consistent with “no tradable token yet.” ([solscan.io](https://solscan.io/token/J54iqKPLGKVNACJycM2C84e1vkBiCPcQSnFYeemPCdth))
+  - How this affects the market: the lack of a clearly tradable token as of the most recent sources is strong evidence the market cannot already be settled to YES.
 
-Skeptical note (why some apparently obvious evidence may not be definitive)
-- Community/press references to “airdrops” or “token supplies” may conflate points allocations with an actual on‑chain tradable token; projects often speak of "airdrop allocations" or "points convertible to tokens" before any contract or claim portal exists. The market resolver requires tradability — that extra step is the critical difference often missing from speculative coverage.
+Community signals / airdrop speculation
+- Community/airdrop sites and crypto blogs have widely speculated that points are a precursor to an airdrop (some analyses estimated distribution schedules or a point→token mapping), and community members report OTC trading of “points” in unofficial channels. These are low‑to‑medium quality sources: they indicate market expectations but are not authoritative project commitments. ([airdrops.io](https://airdrops.io/project/pacifica/?utm_source=openai))
+  - How this affects the market: community OTC activity and speculation can raise the ex‑ante probability traders assign to a future token, but OTC trading of points is unofficial and may violate the project’s rules; it doesn’t guarantee a token or its schedule.
 
-3) MARKET EFFICIENCY ANALYSIS (reliability of the market price)
-- Market metrics (from your prompt): Age 115 days, Total Vol $9,939 (small), Price 57%, Spread 4¢.
-- Reasonable interpretations of current price:
-  - Charitable interpretation: Traders are pricing a modest‑to‑high chance (57%) that Pacifica will convert points and run a TGE / enable tradability by year‑end, because points programs plus rapid product traction make tokenization plausible even if not yet announced. That’s a defensible consensus estimate when balancing product momentum vs. lack of official commitment.
-  - Alternative (thin‑book) interpretation: Low total volume suggests the mid‑price could be set by a small number of active traders rather than broad aggregation of informed views — plausibly a single liquidity provider or market‑maker with a directional view. Tight spread isn't conclusive about broad participation: some market makers maintain narrow spreads on low‑volume markets to attract pocket liquidity.
-- Is low volume because the outcome is obvious? No — evidence shows both plausible reasons to expect a token and strong reasons for delay/avoidance. The outcome is genuinely uncertain, not obvious; low volume more likely implies limited attention/trading interest or that traders who watch token launches are focusing on larger, higher‑liquidity markets.
-- Could the price reflect consensus among informed traders? Possibly, but given that the most decisive information (an actual token contract or exchange listing) would be publicly observable and is currently absent, I judge the current price is more likely a consensus of opinionated participants than a settled fact.
+Evaluation of evidence for “market is wrong” vs “market is reasonable”
+- Evidence that would argue the market (59%) is over‑confident (i.e., price too high):
+  - Official Pacifica docs and app do not announce any token, tokenomics, or TGE date; they explicitly describe points and discourage trading them. That is direct, high‑credibility evidence reducing the chance of an imminent tradable token. ([pacifica.gitbook.io](https://pacifica.gitbook.io/docs/programs/points-program))
+  - No major market listings or CoinGecko/CoinMarketCap entries for a PACIFICA governance token (no strong on‑chain or CEX evidence of a tradable governance token at present). ([solscan.io](https://solscan.io/token/J54iqKPLGKVNACJycM2C84e1vkBiCPcQSnFYeemPCdth))
+- Evidence that would argue the market price is reasonable or too low (i.e., 59% is conservative or fair):
+  - Pacifica shows high product traction and has been added to DeFi trackers; many comparable perp DEXes have converted points/XP to tokens, and community/press articles treat Pacifica as a plausible airdrop candidate — those facts raise the probability of a future token before Dec 31, 2026. ([explore.ag](https://explore.ag/projects/pacifica?utm_source=openai))
+  - The existence of a mature, ongoing points distribution (large weekly allocations, multi‑week program) is the canonical precursor mechanism teams use to seed future token allocations; that supports a non-trivial probability of a token being issued before the end of 2026. ([pacifica.gitbook.io](https://pacifica.gitbook.io/docs/programs/points-program))
+- Credibility and recency:
+  - Official docs/app pages are highest credibility for project intent (recently updated). Coverage from DefiLlama/aggregators and established exchange blogs (Phemex/Bitget/KuCoin news pages) is medium credibility for product traction and metrics. Community/airdrop blogs and reddit are lowest credibility (useful signal of expectations and OTC flows but unreliable as commitments).
+- Skepticism of “too obvious” evidence:
+  - If it were certain a token would be launched by a specific date, Pacifica’s docs or official channel would likely state it (and/or CoinGecko/CoinMarketCap and main exchanges would have listings/announcements). The absence of that makes a high confidence >80% prediction suspect.
 
-4) MISPRICING ASSESSMENT
-- Balanced conclusion: The evidence does not show a clear, large mispricing. The market price (57% Yes) is within a plausible posterior range given the competing facts: (a) strong product traction and an active points program which commonly precedes tokenization, and (b) no official token contract/claim flow and absence from major token indexes as of the latest public records.
-- Specific caveats that reduce the chance of a large mispricing:
-  - If a tradable token were already live or imminently live (and I missed it), that would imply a big underpricing — but searches of trackers and primary docs found no such live tradable token evidence.
-  - If Pacifica internally decided not to tokenise, that would imply the market is too high; the official docs and some public statements lean toward product-first and tokenless options, which is meaningful counter‑evidence.
-- Bottom line: There is no credible evidence of a large (>20 percentage points) mispricing. A small residual edge (single‑digit to low‑teens cents) in either direction is plausible, but confidence is limited.
+3) MARKET EFFICIENCY ANALYSIS — is 59% plausible?
+- Reasonable interpretations that justify 59%:
+  - Traders may be pricing in a >50% chance that Pacifica, given strong product traction and a long points program, eventually converts to a tradable governance token before Dec 31, 2026 — especially given how similar perp DEXes have run points → token flows in 2024–2026.
+  - Community OTC trading of points and widespread airdrop speculation can create private price discovery that leaks into the market (informal price signals), supporting a >50% consensus among those who pay attention.
+- Reasons the price could reflect only a few traders / low liquidity:
+  - The market has zero total trading volume and a tight spread; with low volume it’s easy for one or two traders to set the mid price. The market could therefore reflect the view of a small group rather than a broad information aggregation.
+- Why low volume may be benign here:
+  - If the consensus view among informed DeFi traders is indeed that Pacifica is likely to run a token (based on pattern of competitor projects + points program), few will trade against a mid‑price near that consensus — low volume doesn’t necessarily imply mispricing if the underlying consensus is correct.
 
-5) EXPECTED VALUE CALCULATION
-- Strength of evidence (that something material is missing from the market price): 45% — there is moderate, ambiguous evidence (official points program increases plausibility of a token, but no contract/listing yet; reporting is mixed and often speculative).
-- Magnitude of plausible mispricing if there is one: I estimate ~7 cents (0.07) — small because the binary outcome is plausible both ways and public, verifiable signals would quickly correct prices when they appear.
-- Expected value = Strength × Magnitude = 0.45 × 7 cents = 3.15 cents → round to 3.2 cents.
+4) MISPRICING ASSESSMENT — weighing the evidence
+- Summary of balance:
+  - For YES: product traction + points distribution program + community expectation → non‑trivial chance of a token before Dec 31, 2026.
+  - Against YES: no official TGE announcement, documentation explicitly describes points while avoiding token commitments, absence of a clearly tradable PACIFICA token or major aggregator listing as of the latest sources.
+- Does evidence justify concluding a mispricing (e.g., >20¢ difference)? No. There is plausible, project‑proximate evidence pushing probability both directions; nothing authoritative indicates the market has overlooked a decisive fact that would move probability by >20 percentage points in either direction.
+  - If you thought a large mispricing existed, the critical checks show you would be missing either: (a) an official token contract / exchange listing (which I did not find), or (b) a public TGE announcement (which I did not find). Both are absent in primary sources — this weakens an argument for a large mispricing.
+- Most charitable interpretation of the 59% price:
+  - Traders are pricing a plausible-but-not-certain token issuance, reflecting product traction plus points program but appropriately discounting the absence of an official TGE. That is consistent logic and not prima facie incorrect.
 
-6) CONFIDENCE
-- My confidence in this assessment: medium.
+5) EXPECTED VALUE CALCULATION (value of investigating this market further)
+- Strength of evidence (i.e., probability that there is credible, project‑level information currently missing from the market that would shift probability materially): I estimate ~25%. Rationale: official docs are silent (low chance of surprise TGE already committed), but pattern of similar projects and community OTC signals leave some chance traders have underweighted likely tokenization.
+- Magnitude of mispricing (if mispriced): I estimate modest — likely a few cents, not tens of cents. Reason: market at 59% already embeds plausible conversion odds; absent an authoritative TGE, it's unlikely the true probability is, say, 85% or 20% — a plausible error range might be 5–15 percentage points (5–15 cents).
+- Conservative numeric estimate used: Strength 25% × Magnitude 6 cents = Expected value 1.5 cents.
+- Expected value (numeric, in cents): 1.5
 
-CRITICAL CHECK (I re‑checked the resolution criteria and sources)
-- Resolution requires a publicly transferable/tradable token; that is the tight criterion that makes press speculation insufficient. I verified (via CoinGecko/CoinMarketCap and primary docs) that no indexed token or token contract was publicly visible in the sources I searched. Therefore, the market’s current 57% is plausible but not clearly wrong — absent a public TGE or contract, a firm "Yes" is not yet provable. Because the deadline is Dec 31, 2026 (many months away), there is time for events that will move the market; current lack of an on‑chain token means a sudden news event could rapidly swing price.
+6) CONFIDENCE in this assessment
+- I assign confidence = low. Rationale: (a) the situation depends on future product and governance decisions that are not publicly committed; (b) much of the forward information is community speculation and press summarization of metrics; (c) low market liquidity means the market price could change sharply on a single announcement. These increase epistemic uncertainty.
 
-EXPECTED_VALUE: 3.2
-SUMMARY: Pacifica runs a public points program and has strong product traction — that makes a token launch plausible — but Pacifica’s official docs and major token trackers show no tradable governance token or contract yet. Given the competing evidence and low market volume, the current 57% price is plausible; I see only a small expected mispricing (~3.2 cents EV) with medium confidence.
-CONFIDENCE: medium
+Bottom-line recommendation (practical)
+- There is no clear, authoritative, public evidence that a tradable governance token has already been launched — that would resolve the market right now to YES, and I found no such evidence. ([pacifica.gitbook.io](https://pacifica.gitbook.io/docs/programs/points-program))
+- The presence of a substantial points program + platform traction raises the probability Pacifica issues a token before Dec 31, 2026, but that is not a certainty; the available evidence argues the current market price is plausible, not clearly mispriced by a large margin.
+- If you are evaluating whether to trade this prediction market, the expected informational edge from additional research now appears small (EV ~1.5¢ in my estimate) and confidence is low — the highest‑value action would be to monitor official Pacifica channels (docs/app/X) for an explicit TGE announcement or an on‑chain token contract with liquidity, which would materially change the probability.
+
+EXPECTED_VALUE: 1.5
+SUMMARY: Pacifica has a live, large weekly “points” program and measurable platform traction (tracked by analytics) which make a token issuance plausible, but Pacifica’s official docs and app do not commit to any TGE and there’s no clear, tradable PACIFICA token visible on aggregators or major listings. Given those facts, the market price at 59% is defensible and I find insufficient credible evidence of a large (>20¢) mispricing.
+CONFIDENCE: low
 
 ---
 
@@ -81,27 +97,32 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Pacifica - Next-Gen Hybrid Exchange](https://www.pacifica.fi/)
+### [Points Program | Pacifica](https://pacifica.gitbook.io/docs/programs/points-program)
 **Author:** Unknown | **Published:** Unknown
 
-Pacifica’s official website (landing) links to its documentation and app and presents the project’s public face and product. It is relevant because the market resolver will prioritize Pacifica’s official communications; the site confirms the project exists and points to the documentation and app but does not itself show a tradable governance token. This supports skepticism that a token is already publicly tradable, and strengthens the view that an official token contract/claim portal would be the decisive resolution evidence.
+This is Pacifica’s official documentation page describing the Points Program: launch date (Sep 4), weekly snapshots and distributions, a 10,000,000 points weekly allocation, and FAQ language noting the formula is “dynamic and opaque,” that only points are distributed to community members, and that Pacifica discourages secondary trading of points. Relevant to the market because it is the project’s primary public description of the incentive mechanism many community members interpret as a precursor to an eventual token/airdrop. It supports a non‑trivial probability of a future token but does not provide any commitment, timetable, or tokenomics that would definitively force a YES resolution.
 
-### [About Us | Pacifica](https://docs.pacifica.fi/)
-**Author:** Unknown | **Published:** Unknown (GitBook; "Last updated" shown in the page metadata)
-
-The official Pacifica documentation (GitBook) lists a "Points Program" among its programs and provides a product roadmap and project philosophy (self‑funded, product-first). The docs include no published tokenomics, token contract, or TGE schedule in the visible sections. This is high‑relevance primary evidence: Pacifica acknowledges the points program but does not commit to a tradable governance token in the public docs, which weighs against assuming an imminent tradable launch is already certain.
-
-### [Pacifica Active Users Surpass 30,000, Token Supply Reaches 123 Million | KuCoin News](https://www.kucoin.com/news/flash/pacifica-active-users-surpass-30-000-token-supply-reaches-123-million)
-**Author:** Unknown | **Published:** 2025-11-11
-
-KuCoin’s newsflash (reposting BlockBeats/aggregated reporting) reports large user/volume metrics for Pacifica and asserts that token supply reached 123 million following a significant airdrop increase. This secondary source exemplifies the press narrative that an airdrop/points program exists and that community talk expects a token. It supports the “Yes” side by documenting broad community/press speculation and reported distribution numbers, but it is not primary confirmation of a tradable token (and seems to republish other outlets), so its claims should be treated cautiously.
-
-### [Beta stage perps DEX Pacifica posts near-record volumes, passing Jupiter and Drift Protocol](https://cryptorank.io/news/feed/ee03e-pacifica-passes-jupiter-drift-in-beta-stage)
+### [Points Program | Pacifica (app)](https://app.pacifica.fi/points)
 **Author:** Unknown | **Published:** Unknown
 
-Industry coverage that highlights Pacifica’s rapid volume growth and product traction on Solana, and that the team has hinted at launching a token. This type of reporting supports the idea that the project has both the capability and community pressure to issue a token, which makes a launch within 2026 plausible. However, the article is secondary and cites project tweets and community metrics rather than publishing a token contract or an official TGE announcement — so it increases plausibility but is not conclusive.
+The live app points page (Pacifica dashboard) reiterates weekly point snapshots and links to docs and announcements. As an official product page with recent activity, it confirms the points program is active and operational. This confirms product-level incentives that market participants use to infer token likelihood, but the page itself contains no token/TGE announcement and explicitly links to docs for “More Info,” supporting the conclusion that a tradable token has not been announced yet.
 
-### [DefiLlama Now Tracking Pacifica: What This Means for Solana Meme Token Traders](https://meme-insider.com/en/article/defillama-tracks-pacifica-solana-perp-exchange-meme-token-impact/)
+### [Pacifica — Explore.ag / DefiLlama (project listing summary)](https://explore.ag/projects/pacifica)
+**Author:** Unknown | **Published:** 2026-02-16
+
+Aggregator entry (sourced to DefiLlama data) listing Pacifica as a Solana perpetual DEX with TVL and volume metrics and a date when it was added. It shows recent milestones and X announcements and summarizes public metrics (TVL, reported user counts). This is medium‑credibility evidence of product traction: it supports the view that Pacifica is an active protocol, which increases the plausibility a governance token could be launched, but it is not an authoritative token/TGE source.
+
+### [Perp DEX Trading Volumes Decline, Pacifica Dips Below $600M | Phemex News](https://phemex.com/news/article/perp-dex-trading-volumes-decline-pacifica-dips-below-600m-40068)
 **Author:** Unknown | **Published:** Unknown
 
-Coverage noting that DeFi data/tracking services (e.g., DefiLlama) added Pacifica to their perps/volume dashboards, which corroborates reports of significant on‑chain trading activity. This is relevant because it establishes that Pacifica has on‑chain volume and users — a precondition for meaningful airdrops and potential token value. It supports the argument that Pacifica has the operational scale to run a token launch, but it does not prove a governance token has been launched or is tradable.
+Crypto-exchange blog summarizing DeFi metrics reporting significant trading volumes for Pacifica (article reports DefiLlama-derived figures). Useful as independent corroboration of reported on‑platform activity and community interest, which traders may view as a driver for an eventual token. It supports the “product traction” side of the ledger but does not announce any token.
+
+### [Potential Pacifica Airdrop » How to be eligible? (Airdrops.io summary)](https://airdrops.io/project/pacifica/)
+**Author:** Unknown | **Published:** Unknown
+
+Community/airdrop-aggregator page summarizing the points program and community expectation that points could map to an airdrop. It lists how users can earn points and cautions that a token is not officially guaranteed. This is low‑to‑medium credibility but important because it captures the community-sourced logic many airdrop farmers use — it explains why market participants might price a non‑negligible chance of a token despite official silence.
+
+### [Pacifica Perps (Pacifica) | Solscan](https://solscan.io/token/J54iqKPLGKVNACJycM2C84e1vkBiCPcQSnFYeemPCdth)
+**Author:** Unknown | **Published:** Unknown
+
+A Solana explorer token page that appears to reference a token ID label but contains no clear evidence of a widely tradable, well‑liquid governance token tied to the Pacifica project (no prominent listings or major liquidity shown). This is relevant because an on‑chain tradable token would typically show token distribution, transfers and liquidity pools; the absence of a clear, active token contract supports the conclusion that no publicly tradable governance token has been launched as of the latest available data.

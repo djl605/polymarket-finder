@@ -1,7 +1,7 @@
 # Research: Will CDU win the most seats in the 2026 Berlin state elections?
 
 **Market ID:** 0x71a21eab87c301a53f2f33fad4dca7a1e7da8911b847c82ca37ed49d859a17a0
-**Researched At:** March 12, 2026 at 06:18:06 PM UTC
+**Researched At:** March 22, 2026 at 04:27:53 AM UTC
 **Search Query:** "Will CDU win the most seats in the 2026 Berlin state elections?"
 
 ---
@@ -9,68 +9,76 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 3.2¢
 
 ### Summary
 
-Current public evidence (official Berlin calendar and logistics; CDU’s competitive baseline in 2023; recent state-level setbacks for CDU such as Baden‑Württemberg) implies the market price of 53% is plausible but thinly supported by Berlin-specific polling. With $0 volume and no clear Berlin polls in March 2026, any mispricing is likely modest; I estimate an expected value ~4 cents per contract rather than a large arbitrage.
+Public polls in early 2026 show CDU as the plurality party in Berlin but only by modest margins, and Berlin’s mixed-member system plus threshold/overhang effects make the seat-leader uncertain; the market price (54.5%) is plausible and I find no clear, publicly available evidence of a large mispricing. Low market volume suggests informational thinness, so only a small expected edge (~3.2 cents) exists.
 
 ### Full Analysis
 
-Analysis and conclusion
+Plan and scope
+- I used the allowed web searches to answer: (a) what the market’s question exactly requires to resolve YES vs NO, (b) what the best-available polling and institutional information says about whether CDU is likely to finish with the most seats on Sept 20, 2026, and (c) whether there is credible evidence the market price (54.5%) is materially mispriced.
+- I prioritized: official/primary sources on Berlin voting rules, the most recent reputable poll releases/aggregates for Berlin in early 2026, and a factual baseline (the last election result) to translate vote shares into likely seat-leader outcomes.
 
-1) CONTEXT ANALYSIS — what the market asks and exact resolution conditions
-- The market asks: "Will CDU win the most seats in the 2026 Berlin Abgeordnetenhaus election (scheduled for September 20, 2026)?" It resolves YES if the CDU (or a CDU-led coalition listed as the named party/coalition) wins strictly the greatest number of seats; in the event of a tie the market’s alphabetical tiebreaker applies; if the election does not occur by Dec 31, 2026 it resolves to "Other". The market documentation says resolution will follow a consensus of credible reporting or, if ambiguous, the official result from the Election Office of Berlin (Landeswahlleiter Berlin).
-- Practical implication: for YES to occur, CDU must finish ahead of every other single party (SPD, Greens, Left, AfD, FDP, etc.) in seat-count on the official Abgeordnetenhaus result for the Sept 20, 2026 election.
+1) CONTEXT ANALYSIS — what would make this market resolve YES vs NO
+- The market asks: “Will CDU win the most seats in the 2026 Berlin Abgeordnetenhaus election?” Resolution depends solely on which party wins the greatest number of seats in the Abgeordnetenhaus after the election (the market’s description). If CDU finishes with more seats than any other single party or coalition listed, the market resolves YES for CDU; if some other single party wins the most seats, or if voting does not occur by Dec 31, 2026, the market resolves NO (or “Other” if no vote occurs). The market also specifies tie-breaking (alphabetical by abbreviation) and uses official results (Landeswahlleiter Berlin) if reporting is ambiguous. This means you must compare final seat counts (not vote percentages) and account for Berlin’s mixed-member proportional system (district/constituency seats + list seats + leveling seats). Relevant rule citations: Berlin’s rules on seat allocation and the exemption for constituency winners under 5% are in Berlin’s election/constitution pages. ([berlin.de](https://www.berlin.de/rbmskzl/en/the-governing-mayor/the-constitution-of-berlin/artikel.16543.en.php?utm_source=openai))
 
-2) EVIDENCE EVALUATION — what I found and how it bears on the price (53%)
-A. Baseline / historical context (useful priors)
-- In the most recent Abgeordnetenhaus election cycle (repeat vote 2023), SPD, Greens and CDU were the main parties and the CDU held a large single-party share but was not the largest party: the SPD was the largest party and CDU was competitive (Wikipedia summary of 2023 results). This gives a baseline: CDU is a large player in Berlin but the city historically leans center-left and the SPD/Greens are strong. (See source: Wikipedia 2023 Abgeordnetenhaus election page.)
+2) EVIDENCE EVALUATION — what the data says (bull/bear)
+Main empirical facts from recent authoritative polling and past results
+- Polls in early 2026 show CDU leading among parties in Berlin but with modest plurality-level vote shares (roughly low‑20s percent in several polls); other parties (Die Linke, AfD, Greens, SPD) are clustered not far behind and poll results have varied across firms and dates. This is visible in the January 2026 Infratest dimap “BerlinTrend” (CDU ≈ 22%) and in multi-poll aggregates that show CDU in the low‑20s with competing second places. ([infratest-dimap.de](https://www.infratest-dimap.de/umfragen-analysen/bundeslaender/berlin/laendertrend/2026/januar/?utm_source=openai))
+- A recent INSA poll showed AfD rising to (approximately) the second place in at least one release (AfD ~17%, CDU ~22% in that poll), indicating volatility in the mid-field that could change relative ordering before September. ([bild.de](https://www.bild.de/politik/inland/insa-sonntagstrend-union-startet-mit-umfrage-plus-ins-neue-jahr-6957e986392c7b91b7cd2a19?utm_source=openai))
+- Baseline: in the 2023 (repeat) Berlin election the CDU became the largest party with ~28% and won the largest number of seats — a recent precedent that shows CDU can plausibly be the top party in Berlin under current dynamics. That 2023 result is the most recent seat-level baseline for extrapolation. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2023_Berlin_state_election?utm_source=openai))
 
-B. Evidence that would tend to reduce the probability that CDU will top the seat table (bearish for CDU)
-- Recent state-level results and momentum: The March 8–9, 2026 Baden-Württemberg state election produced a narrow Green victory over the CDU, and news coverage (AP) framed the result as a setback for the national CDU leadership and a sign that the CDU’s previous advantage is fragile. That suggests the CDU may face headwinds going into multiple 2026 state contests (including Berlin). This is recent, credible, and directly relevant because state elections often shift narratives and voter mood that can affect later state votes. (AP, Mar 9, 2026.)
-- Berlin-specific structural factors that can hurt CDU: Berlin is a city-state with a younger, more progressive electorate; Berlin.de (Landeswahlleiter briefings) notes that 16–17 year‑olds will be able to vote in 2026 and turnout/participation mechanics have changed since 2023 (new combined ballot paper; more polling locations). Younger voters and organizational changes historically favor Greens/SPD over CDU in many German states — a structural reason to discount a 50-50 implied prior. (Berlin.de, Feb 2026.)
-- Lack of strong, recent Berlin-specific polling (as of March 12, 2026): I found robust coverage and polling for national and other state races, but not a consistent, credible set of Berlin 2026 polls in March 2026 that clearly show CDU leading. Absence of up-to-date local polling increases uncertainty and argues against overconfidence in a >50% market estimate.
+What supports the current market price (~54.5% chance for CDU)
+- Polls consistently place CDU ahead of any single rival in many of the published snapshots (Infratest dimap and other series show CDU as the frontrunner in January–early 2026). If the CDU keeps a plurality on second votes (the decisive list vote for proportional seats) they are the natural favorite to finish with the most seats. Multiple independent polling releases and aggregated trend sites show CDU leading, which supports a probability >50% for CDU to be top. ([infratest-dimap.de](https://www.infratest-dimap.de/umfragen-analysen/bundeslaender/berlin/laendertrend/2026/januar/?utm_source=openai))
+- Structural advantage: mixed-member proportional systems with many small parties and the presence/absence of smaller parties crossing 5% can concentrate the largest party into the leading seat total, even at modest vote shares — i.e., a 22–28% plurality can translate to being the largest seat-winner. The Abgeordnetenhaus system (78 single-member constituencies plus list/leveling seats, plus the 5% threshold and the constituency-winner exemption) increases the chance the current leading party becomes the seat leader. ([berlin.de](https://www.berlin.de/rbmskzl/en/the-governing-mayor/the-constitution-of-berlin/artikel.16543.en.php?utm_source=openai))
 
-C. Evidence that would tend to increase the probability that CDU will be the largest party (bullish for CDU)
-- CDU’s strong 2023 performance in Berlin (CDU was one of the top parties and had large seat share in 2023). That historical competitiveness is a real baseline advantage relative to smaller parties; the CDU is plausibly in contention to win the single largest party position again in 2026 if national/regional momentum swings in its favor. (Wikipedia 2023 results.)
-- National polling signals: some recent national polls/aggregates show CDU/CSU with a lead nationally (e.g., GMS/aggregated poll snapshots in March 2026). If national trends re‑favor CDU into summer/autumn and the CDU runs an effective Berlin campaign, that could translate into a plurality in Berlin. Polling aggregators show a non-negligible national CDU position around March 2026, which is supportive — but it’s an imperfect indicator for Berlin specifically. (PolitPro / GMS snapshot, Mar 2, 2026.)
+What suggests the market price might be too high (evidence that would support a lower probability)
+- Poll clustering: although CDU leads multiple polls, their lead is narrow (CDU ~22–25% in many polls) and other parties (Die Linke, AfD, Greens, SPD) are concentrated close behind. Several polls show the Left (Die Linke) surging or AfD rising to second place in some samples; this creates realistic paths for CDU to be overtaken in seat counts by another single party if trends continue. Recent INSA results showing increased AfD support illustrate plausible volatility. ([bild.de](https://www.bild.de/politik/inland/insa-sonntagstrend-union-startet-mit-umfrage-plus-ins-neue-jahr-6957e986392c7b91b7cd2a19?utm_source=openai))
+- Multi-party uncertainty and threshold effects: small shifts in whether the FDP or BSW (or similar small lists) clear 5% will reallocate seats and possibly change which party ends up largest. Polling that places multiple parties around the 10–20% band implies small swings can flip the seat-leader. Aggregates show this multi-party clustering. ([politpro.eu](https://politpro.eu/en/berlin/opinion-polls/2026?utm_source=openai))
+- Low-volume market specifics: the market has low liquidity and a tiny spread. That raises two plausible explanations: either (A) informed traders already agree CDU ~54% and see that as fair, or (B) the price is being set by a small number of traders and may not reflect the full information set (news, local polling variation, candidate developments). Because trading volume is small, an informationally thin price is possible and increases the chance the market deviates from a fully-informed consensus.
 
-D. Source credibility and recency
-- AP (Mar 9, 2026): high credibility, recent; its reporting on Baden-Württemberg is directly relevant as an indicator of political momentum and voter mood across state contests.
-- Berlin.de (Landeswahlleiter pages, Feb 2026): official, authoritative source for election logistics, date and conditions — essential for resolution criteria and structural details (who votes, new ballot format, youth voting).
-- Wikipedia (Wahl zum Abgeordnetenhaus 2023 page): useful high‑level summary and polling history for 2023; good for baseline but secondary and must be cross-checked (it cites primary data).
-- PolitPro / GMS poll page (Mar 2, 2026): a polling snapshot / aggregator; useful for national trend signals but lower signal for Berlin-specific outcome. Polls are recent but not direct measures of Berlin support.
+Source credibility and recency
+- Infratest dimap / RBB (“BerlinTrend”) is a major German polling authority and public-broadcaster commissioned poll; it is high credibility for current Berlin sentiment. (source: infratest-dimap BerlinTrend Jan 2026). ([infratest-dimap.de](https://www.infratest-dimap.de/umfragen-analysen/bundeslaender/berlin/laendertrend/2026/januar/?utm_source=openai))
+- INSA polls (reported in outlets like BILD / HNA) are less publicly transparent in methodology detail but are widely used in German media; they are credible as short-term snapshots but can differ from other houses. Recent INSA results showing AfD gains are noteworthy but should be weighed against other houses. ([bild.de](https://www.bild.de/politik/inland/insa-sonntagstrend-union-startet-mit-umfrage-plus-ins-neue-jahr-6957e986392c7b91b7cd2a19?utm_source=openai))
+- Aggregators (e.g., PolitPro, poll trackers) are useful to see cross-firm patterns but depend on the underlying polls; they confirm the basic pattern (CDU leading low‑20s across multiple firms) rather than a dominant large lead. ([politpro.eu](https://politpro.eu/en/berlin/opinion-polls/2026?utm_source=openai))
+- Historical result (2023 repeat election) provides a tangible seat-level baseline; it is authoritative for past seat conversion but does not determine 2026 dynamics. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2023_Berlin_state_election?utm_source=openai))
 
-E. Skepticism and the "why hasn’t the market priced it already?" check
-- If the indicated market price (53%) reflected a large arbitrage, we’d expect some trading interest — but total volume is $0. The tight spread (2¢) with zero volume suggests the price may have been placed by one or a few traders (or set as an initial/baseline quote) rather than thoroughly arbitraged. Given the absence of clear Berlin-specific, contemporaneous polling or a decisive event that strongly favors CDU, that supports skepticism that the 53% price is a robust consensus of informed liquidity providers. At the same time, 53% is only a mild tilt — not a dramatic mispricing — which reduces the chance this is a glaringly wrong market.
+3) MARKET EFFICIENCY ANALYSIS — is the quoted 54.5% plausible as an information aggregation?
+- Reasonable interpretations that justify 54.5%:
+  - Poll-consensus interpretation: multiple recent polls put CDU as the frontrunner (low‑20s) and the electoral system favors the largest party over the rest in seat totals; therefore a little better-than-even chance (~55%) for CDU to remain largest by seats is plausible.
+  - Uncertainty premium: the market’s probability reflects both polls and the nontrivial volatility among second‑to‑fifth place parties plus threshold/overhang seat uncertainty — hence 54.5% is a modestly conservative estimate (not a huge overconfidence).
+- Reasons the price might be unreliable:
+  - Low volume ($6,995 total) and narrow spread suggest a small set of traders could move price; with few active participants, the price can reflect private beliefs rather than a broad consensus.
+  - If some traders are not tracking diverse polls or have a single model that overweighted CDU incumbency advantages, the price could be biased.
+- Whether low volume reflects “obvious outcome” vs “ignored by informed traders”:
+  - It likely reflects the latter: the outcome is not obvious (polls show a competitive multi‑party field). If the outcome were obvious, informed traders would likely trade/increase volume to capitalize on mispricing. The combination of close polls and low market volume suggests the market may be informationally thin, not that the price is a settled consensus.
 
-3) MARKET EFFICIENCY ANALYSIS — how to interpret a 53% price on a low-volume market
-- Reasonable justifications for 53%:
-  - Traders may be combining the baseline (CDU’s competitiveness in Berlin from 2023) with current national poll leads for CDU and conclude CDU is a slight favorite to be the single largest party in 2026. That mapping (Berlin slightly favoring CDU) is a defensible subjective prior.
-  - 53% could also reflect a simple rounding/anchor from 50% to slightly above because someone had a small informational edge or risk preference; it is not an aggressive estimate.
-- Reasons to suspect the price is fragile / low-information:
-  - Zero total volume and a small spread suggests little or no market participation. That is usually a sign the quoted price is not strongly supported by a diversity of traders and may reflect one actor’s view or an untested default.
-  - No tranche of independent, modern Berlin polls (as of March 12, 2026) supporting a clear CDU lead — so the market may be pricing on national-level signals or on priors rather than Berlin-specific data.
-- Is the low volume because the outcome is obvious? No — the outcome is not obvious. Berlin is historically competitive for center-left parties. Low engagement is more consistent with a market that is unremarked/overlooked rather than one where broad informed consensus has emerged.
+4) MISPRICING ASSESSMENT — do we have credible evidence missing from the price?
+- I do NOT find convincing, specific evidence that the market is grossly mispriced (i.e., mispricing >20 cents). The available high-quality public data (Infratest dimap, multiple poll snapshots, 2023 baseline) indicate CDU is the most-likely single-party winner but the lead is modest and the inter-party race is tight; that is consistent with a 54.5% market price.
+- Specific signs that argue against large mispricing:
+  - Polls point to a modest CDU advantage rather than a dominant position; this should map to a probability near 50–65% for being top by seats, not near-certain.
+  - There is plausible risk to CDU (Linke/AfD gains, threshold changes) that reduces confidence in a TTC (true top candidate). Markets at ~54.5% already reflect that risk.
+- What would have supported calling a mispricing:
+  - A robust, consistent polling lead of the CDU well above other parties (e.g., CDU repeatedly polling >30% while second party <20%) or structural evidence (e.g., district-level maps showing CDU winning a large majority of constituencies) not reflected in the market price would point to underpricing. I did not find that signal; polls show a tight multi-party field in the low‑20s for the leader.
+- Critical check / pitfalls:
+  - I re-checked the market’s resolution language: it resolves on seat counts (not merely vote share) and uses official Landewahlleiter results if ambiguity arises — so any seat-conversion nuance (overhang seats, threshold exemptions) could change resolution. That complexity increases uncertainty and argues against declaring a large mispricing without district-level modeling or better data. ([berlin.de](https://www.berlin.de/rbmskzl/en/the-governing-mayor/the-constitution-of-berlin/artikel.16543.en.php?utm_source=openai))
 
-4) MISPRICING ASSESSMENT — given evidence, is the market credibly mispriced?
-- Overall judgment: There is insufficient credible, Berlin-specific evidence (polls, local trend data) that the market price is starkly wrong. The 53% price is a mild edge for CDU; that could be justified by (a) CDU’s baseline strength in Berlin and (b) some national-level CDU momentum. Countervailing evidence (recent Greens success in Baden‑Württemberg; structural features favoring SPD/Greens; no clear Berlin polling showing CDU ahead) argues against a confident, large (>20 cent) mispricing claim.
-- Practical conclusion: No clear, specific piece of missing information indicates the market is grossly mispriced. The more charitable interpretation is that the market is thin and under‑informed: it’s plausible there is a modest mispricing (CDU chance overstated or understated by a single-digit amount of probability), but I do not find credible evidence for a large mispricing (>20¢). The market appears informationally thin — a small inefficiency is likely but not certain.
+5) EXPECTED VALUE CALCULATION — estimate of potential mispricing and evidence strength
+- Strength of evidence that price is missing important, credibly actionable information: 40%. Rationale: polls and institutional facts are available publicly and converge on a modest CDU lead; the market price aligns with that, but low liquidity leaves room for hidden private information—so moderate confidence only.
+- Magnitude of mispricing if one is present: I estimate plausibly 8 cents (0.08) — i.e., the market could be off by a small-to-moderate amount, but a >20 cent miss seems unlikely given public polling and seat-translation uncertainty.
+- Expected value = Strength × Magnitude = 40% × 8 cents = 3.2 cents.
+- So my numeric expected value estimate: 3.2 cents.
 
-5) EXPECTED-VALUE CALCULATION (estimate of value from investigating/trading)
-- Strength of evidence that the market misses an actionable fact: ~40%. Rationale: there are plausible missing local data and the market shows $0 volume (suggesting low information aggregation), but there is also reasonable counter-evidence and no smoking‑gun.
-- Magnitude of mispricing if wrong: I estimate a plausible error of ~10 cents (i.e., the true probability might be about 43%–63% when the market is at 53%). Rationale: without Berlin polls, large swings are possible, but given CDU’s competitiveness and the mildness of the quote, a double-digit-cent edge is the upper plausible bound; larger gaps would require clear contradictory evidence.
-- Expected value = Strength × Magnitude = 0.40 × 10 cents = 4.0 cents.
+6) CONFIDENCE in this assessment
+- medium
 
-6) CRITICAL CHECK / WHAT I COULD BE MISSING
-- I verified the election date and the official resolution agent (Landeswahlleiter Berlin) via Berlin.de. I checked recent state election results (AP) and national polling snapshots (PolitPro). The main gap that could change this assessment is the emergence — before mid‑summer 2026 — of multiple, high‑quality Berlin polls showing a clear CDU lead (or the opposite). If such polls already exist and I missed them, that would materially change the conclusion. Given the available sources (official Berlin site, major news reporting, polling snapshots) I do not think I am missing a decisive, public Berlin poll as of March 12, 2026.
+Final concise judgment and recommendation
+- The current market price (54.5%) is broadly consistent with available, recent polling and with the electoral rules that can convert a modest plurality into being the largest seat-holder. I find no specific, credible fact in public sources that is clearly missing from the market such that the market is obviously mispriced by a large margin. That said, the market’s low trading volume and Berlin’s multi‑party, threshold-sensitive system leave room for modest inefficiency; a small expected edge exists (my calculated expected value ≈ 3.2 cents), but it is not large and confidence is only medium. If you plan to trade, consider whether you have access to higher-frequency local polling, district-level polling, or inside information about candidate/campaign developments (none of which I found as public, decisive signals) before taking a significant position.
 
-Bottom-line recommendation
-- The market price (53%) is plausible but weakly supported by Berlin-specific public data as of March 12, 2026. Because the market has zero volume and a narrow spread, this is a low-liquidity quote likely driven by few participants. There is not enough credible evidence to declare a large mispricing; the highest-probability scenario is a small inefficiency (single-digit cents). If you seek to trade, treat this as a low-confidence, small-edge opportunity (expected value ≈ 4 cents per contract, by my estimate), and be mindful of liquidity risk.
-
-EXPECTED_VALUE: 4.0
-SUMMARY: Current public evidence (official Berlin calendar and logistics; CDU’s competitive baseline in 2023; recent state-level setbacks for CDU such as Baden‑Württemberg) implies the market price of 53% is plausible but thinly supported by Berlin-specific polling. With $0 volume and no clear Berlin polls in March 2026, any mispricing is likely modest; I estimate an expected value ~4 cents per contract rather than a large arbitrage.
+EXPECTED_VALUE: 3.2
+SUMMARY: Public polls in early 2026 show CDU as the plurality party in Berlin but only by modest margins, and Berlin’s mixed-member system plus threshold/overhang effects make the seat-leader uncertain; the market price (54.5%) is plausible and I find no clear, publicly available evidence of a large mispricing. Low market volume suggests informational thinness, so only a small expected edge (~3.2 cents) exists. 
 CONFIDENCE: medium
 
 ---
@@ -79,27 +87,27 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [Merz’s party stumbles into a year of German state elections with a narrow defeat](https://apnews.com/article/germany-state-election-merz-greens-afd-e859c4752715f0c7fdc5d51fbbd30ba6)
-**Author:** Geir Moulson | **Published:** 2026-03-09
+### [Januar ‹ 2026 ‹ LänderTREND ‹ Berlin ‹ Umfragen & Analysen ‹ Infratest dimap](https://www.infratest-dimap.de/umfragen-analysen/bundeslaender/berlin/laendertrend/2026/januar/)
+**Author:** Infratest dimap | **Published:** 2026-01-14
 
-Associated Press report on the March 8–9, 2026 Baden‑Württemberg state election where the Greens edged the CDU. The article explains the result, gives vote shares (Greens 30.2%, CDU 29.7% in that state), and frames the outcome as a setback for the national CDU and a test of momentum ahead of other 2026 state votes including Berlin. Relevance: this recent state result is the clearest, high‑quality evidence of electoral momentum that could make a CDU plurality in Berlin harder; it supports a more cautious view on assigning a >50% probability to CDU in Berlin absent local polls.
+This is the Infratest dimap “BerlinTrend” poll release for January 2026 (commissioned by RBB), showing CDU roughly ~22% in a Sonntagsfrage with other parties (Linke, AfD, Greens, SPD) in the high-teens/low‑20s. It is a high-credibility, public-broadcaster–commissioned poll and supports the view that CDU is the polling frontrunner but with only a modest plurality — evidence that a slightly greater-than-even market probability for CDU is reasonable, while also implying meaningful upside risk for challengers.
 
-### [Mehr Wahllokale bei Wahl zum Abgeordnetenhaus](https://www.berlin.de/aktuelles/10215607-958090-mehr-wahllokale-bei-wahl-zum-abgeordnete.html)
-**Author:** dpa (article on Berlin.de) | **Published:** 2026-02-19
+### [INSA-Sonntagstrend: Union startet mit Umfrage-Plus ins neue Jahr | BILD.de](https://www.bild.de/politik/inland/insa-sonntagstrend-union-startet-mit-umfrage-plus-ins-neue-jahr-6957e986392c7b91b7cd2a19)
+**Author:** Unknown | **Published:** 2026-01-03
 
-Official/municipal coverage summarizing Landeswahlleiter commentary and logistics for the Sept 20, 2026 Abgeordnetenhaus election: confirms the date, notes about 2.5M eligible voters, inclusion of 16–17-year-olds, and changes in ballot logistics (combined first/second vote paper). Relevance: this is the authoritative source for the election date and mechanics used in market resolution, and it highlights structural changes (youth voting and ballot format) that could affect turnout and party strengths in Berlin — a factor that increases uncertainty and argues for caution about a simple national‑to‑Berlin mapping.
+BILD reports INSA poll snapshots (INSA Sunday trend) showing the CDU polling ahead (mid‑20s in some snapshots) and INSA releases in early 2026 also include later items where AfD rises toward second place in some polls (~17%), indicating volatility. This source demonstrates a credible short-run polling snapshot that supports a narrow CDU lead — useful to explain why a market might price CDU >50% but not overwhelmingly so. The INSA polls are media-cited and must be weighed against other houses because inter-firm differences exist.
 
-### [Wahl zum Abgeordnetenhaus von Berlin 2023 – Wikipedia (article: 2023 Berlin state election)](https://de.wikipedia.org/wiki/Wahl_zum_Abgeordnetenhaus_von_Berlin_2023)
-**Author:** Unknown | **Published:** 2023-02-12 (page updated multiple times; accessed 2026-03)
+### [Berlin: Election Polls & Voting Intentions 2026 (PolitPro poll archive)](https://politpro.eu/en/berlin/opinion-polls/2026)
+**Author:** PolitPro | **Published:** Unknown
 
-Detailed summary of the 2023 Abgeordnetenhaus repeat election, including seat distribution and party vote shares and polling in the run-up to 2023. It shows SPD as largest party and CDU as competitive with ~30 seats in the Abgeordnetenhaus. Relevance: provides the immediate historical baseline for party strengths in Berlin — demonstrating CDU is a major contender but not the natural dominant party — which informs priors about the probability CDU will be the single largest party in 2026.
+Poll aggregation and archive that compiles multiple polling firms’ results for the 2026 Berlin contest (Infratest dimap, INSA, Civey, etc.). The aggregate view shows CDU consistently in the low‑20s across firms with several challengers (Linke, AfD, Greens, SPD) close behind. This aggregation is useful to see cross-firm convergence (CDU front-runner but not dominant) and to highlight that small inter-party swings could change who finishes with the most seats.
 
-### [Germany Election Poll: Latest Survey by GMS (March 2, 2026)](https://politpro.eu/en/germany/opinion-polls/gms-2026-03-02-1/parliamentary-election)
-**Author:** Unknown (PolitPro page; GMS poll data) | **Published:** 2026-03-02
+### [Section III: Representation of the People - Berlin.de (Berlin constitution / election rule excerpt)](https://www.berlin.de/rbmskzl/en/the-governing-mayor/the-constitution-of-berlin/artikel.16543.en.php)
+**Author:** Unknown (official Berlin government site) | **Published:** Unknown
 
-Polling snapshot/aggregator showing a national-level poll (GMS) with CDU/CSU at ~26% nationally (early March 2026). The page also lists poll methodology and PolitPro quality indicators. Relevance: national polling snapshots provide context about broader CDU momentum (or lack thereof). They are imperfect for predicting a city-state like Berlin but are part of the information set traders might use to set a probability for CDU winning the most seats.
+Official Berlin site text describing the Abgeordnetenhaus electoral rules: two votes, 78 constituency seats plus compensatory/list seats, minimum house size, and 5% threshold with the constituency-winner exception. This is directly relevant because the market resolves on seat counts, so electoral mechanics (constituency winners, threshold effects, overhang/leveling seats) materially affect whether a plurality in polls becomes the most-seat party.
 
-### [Baden-Württemberg vote opens Germany’s 2026 electoral cycle](https://eutoday.net/baden-wurttemberg-vote/)
-**Author:** EUToday Correspondents | **Published:** 2026-03-08
+### [2023 Berlin repeat state election (Wikipedia)](https://en.wikipedia.org/wiki/2023_Berlin_repeat_state_election)
+**Author:** Unknown | **Published:** 2023-02-12
 
-Analytical piece discussing why the Baden‑Württemberg vote (March 8, 2026) matters nationally and how it may presage voter mood for other state elections in 2026 (including Berlin). The article highlights that the Greens and CDU target similar centrist electoral pools and notes institutional changes (e.g., younger voters) that may affect results. Relevance: provides analytical context connecting recent state-level results to the political environment that will shape Berlin’s race; supports the view that single early state results can shift perceptions and make a simple mapping from national polls to Berlin uncertain.
+Wikipedia entry summarizing the 2023 repeat election in Berlin, where CDU won ~28% and emerged as the largest party, with seat totals that made it the largest single party in the Abgeordnetenhaus. This historical baseline shows CDU can and recently did convert a high‑20s vote share into being the top seat-winner — supporting the plausibility that CDU, polling in the low‑20s in 2026, is still the likeliest single-party winner absent major shifts.

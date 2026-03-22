@@ -1,7 +1,7 @@
 # Research: Will Jeremy Moss be the Democratic nominee for MI-11?
 
 **Market ID:** 0x105b2ca798a000f8f618239bb63cd71b1bc77550409e0c4cd19ef76daad5943f
-**Researched At:** March 14, 2026 at 04:11:55 AM UTC
+**Researched At:** March 22, 2026 at 04:27:34 AM UTC
 **Search Query:** "Will Jeremy Moss be the Democratic nominee for MI-11?"
 
 ---
@@ -9,77 +9,75 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 4.0¢
+**Expected Value:** 2.4¢
 
 ### Summary
 
-Jeremy Moss is the clear early front‑runner for the MI‑11 Democratic nomination — strong FEC fundraising and national/local endorsements back that up — so a high probability is reasonable. However, the market’s Total Vol = $0 and the months until the Aug 4, 2026 primary mean residual uncertainty remains; any mispricing is likely modest rather than large.
+Public evidence (FEC filings, sizable cash on hand, and high‑profile endorsements such as Governor Whitmer) supports Jeremy Moss as the Democratic frontrunner in MI‑11, making the market’s 78.5% probability credible. I found no strong public evidence of a large mispricing; a small mispricing (a few cents) is possible but uncertain.
 
 ### Full Analysis
 
-I searched recent news, official filings, and local reporting about Jeremy Moss and the open MI-11 Democratic primary, evaluated the strength of evidence for him being the likely nominee, and checked for credible alternative candidates or technical resolution issues. Below are my findings and the requested structured assessment.
+Plan & scope
+- I used web sources to answer: (1) Has Jeremy Moss declared and filed for MI‑11? (2) Who else is in the Democratic primary and how do their resources/endorsements compare? (3) Are there credible reasons to think the market price (78.5%) is missing information?
+- I focused on primary reporting, FEC filings, and local political coverage (excluded prediction‑market sites per your instruction).
 
 1) CONTEXT ANALYSIS
-- What the market asks: Will Jeremy Moss be the Democratic nominee for Michigan’s 11th Congressional District (MI-11) for the 2026 U.S. House election (Democratic primary scheduled Aug 4, 2026)? The market resolves YES if the consensus of official Democratic sources (e.g., Democrats.org and other official Democrat sources named by the market) identifies Moss as the nominee; otherwise NO (or "Other" if no nominee announced by Nov 3, 2026). (Market description provided by you.)
-- What must happen for YES vs NO:
-  - YES: Jeremy Moss wins the Democratic nomination at the primary (or is otherwise officially named by the party as nominee before the market’s cutoff), and Democrats’ official sources list him as the nominee. Any later replacement after nomination does not change resolution (per market rules).
-  - NO: Another person wins the Democratic nomination (or no nominee is announced by Nov 3, 2026), or Democrats’ official sources list someone else as the nominee.
+- What the market asks: “Will Jeremy Moss be the Democratic nominee for MI‑11?” The market will resolve YES if an official Democratic source (per the market rules) recognizes Jeremy Moss as the Democratic nominee for Michigan’s 11th Congressional District (i.e., he wins the Democratic primary on August 4, 2026, or otherwise becomes the official nominee before the November 3, 2026 deadline). It resolves NO if another candidate is the nominee or if no nominee is announced by November 3, 2026 (in which case it resolves “Other”).
+- For YES to occur: Moss must win the Democratic nomination in the Aug 4, 2026 primary (or be declared the nominee by official Democratic sources before Nov 3, 2026). For NO: any other Democratic candidate must win the primary or the party must fail to announce a nominee by Nov 3, 2026.
 
-2) EVIDENCE EVALUATION (all evidence is recent)
-Key load-bearing facts
-- Announcement and campaign status: Jeremy Moss publicly announced a run for MI-11 in May 2025 and has been covered repeatedly in local outlets. This establishes he is an active candidate. ([cbsnews.com](https://www.cbsnews.com/detroit/news/jeremy-moss-democrat-2026-michigan-congressional-race/))
-- FEC filings / fundraising: Moss’s FEC candidate page shows a formal Statement of Candidacy filed May 8, 2025 and campaign finance through Dec 31, 2025 of ~$780,835 raised and ~$510,263 cash on hand — a substantial early war chest for a House primary. That strongly supports front-runner status. ([fec.gov](https://www.fec.gov/data/candidate/H6MI11191/))
-- Endorsements / establishment backing: DMFI PAC (pro–Israel Democratic PAC) included Jeremy Moss in its Feb 19, 2026 endorsement slate for non-incumbent Democrats; local reporting also documents establishment support (state-level endorsements have been reported in local press). Endorsements like these materially increase a candidate’s odds in a Democratic primary. ([dmfipac.org](https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/))
-- Opponent field: local reporting and weekly political briefs list some other Democrats who either briefly ran or were mentioned (examples: waterford trustee John Paul Torres, Aisha Farooqi, Don Ufford, and reporting that some prospective candidates have dropped out). I did not find evidence of a currently declared opponent with comparable fundraising, statewide profile, or major party establishment backing. That makes a Moss victory plausible but not certain. ([michiganadvance.com](https://michiganadvance.com/2025/11/07/your-weekly-michigan-political-brief-6/?utm_source=openai))
+2) EVIDENCE EVALUATION (all items include citations)
+A — Evidence that Moss is the likely frontrunner (supports the market price)
+- Campaign formation and FEC filings: Moss has an active principal campaign committee filed with the FEC (Jeremy Moss for Congress; Form 2 / campaign committee documents exist). This establishes a formal campaign and shows he is an active candidate. ([fec.gov](https://www.fec.gov/data/committee/C00904581/?utm_source=openai))
+- Fundraising advantage / cash on hand (load‑bearing): FEC reporting and campaign reports show Moss with a sizable war chest relative to many opponents (Moss reported large receipts and a substantial cash‑on‑hand at the end of reporting periods cited in local reports). That financial advantage supports the view he is the strongest early contender. ([fec.gov](https://www.fec.gov/data/committee/C00904581/?utm_source=openai))
+- Establishment endorsements: Michigan Governor Gretchen Whitmer publicly endorsed Jeremy Moss; national/local interest groups have also signaled support (e.g., DMFI PAC listed Moss in its 2026 slate). High‑profile endorsements increase the probability an establishment candidate wins the primary and can deter late, serious entrants. ([michiganadvance.com](https://michiganadvance.com/briefs/whitmer-backs-jeremy-moss-in-campaign-for-michigans-11th-congressional-district/?utm_source=openai))
+- Local press and candidate positioning: Multiple Michigan outlets reported Moss’s announcement and identified him as a leading candidate to replace Haley Stevens (who is running for Senate). Local press describes Moss as a state legislative leader (president pro tempore) with local name recognition. That institutional profile is consistent with being the default favorite. ([michiganadvance.com](https://michiganadvance.com/2025/05/08/jeremy-moss-announces-candidacy-for-congress-says-democrats-need-a-bold-voice-in-trump-era/?utm_source=openai))
 
-Arguments that the market price might be too high (evidence for mispricing)
-- Low-volume market: The market shows Total Vol = $0 (per the market metrics you supplied), meaning price may be set by initial liquidity provider(s) without much trading-based validation. Low trade volume increases the chance the posted price does not reflect a broad information aggregation and instead reflects one or a few traders’ priors. (Market data supplied by you.)
-- Time / entry risk: Primary is months away (Aug 4, 2026). Other credible challengers could still enter, or political conditions (scandals, shifts in endorsements, fundraising swings) could change. That uncertainty argues the market should not be extremely confident. Local news shows other names have been in the conversation, and some participants may still organizationally build. ([michiganadvance.com](https://michiganadvance.com/2025/11/07/your-weekly-michigan-political-brief-6/?utm_source=openai))
-- Local dynamics and intra-party primaries: Even establishment-backed candidates can be upset if a well-funded, well-known outsider (or a challenger with strong localized support) enters, or if intra-party issues (e.g., ideological splits, hot local issues) mobilize other voters. I found no polling for the MI‑11 Democratic primary; absence of public polling is a limit on confidence. ([michiganadvance.com](https://michiganadvance.com/2025/11/07/your-weekly-michigan-political-brief-6/?utm_source=openai))
+B — Evidence that the market price could be overstating Moss’s odds (challenges the market price)
+- Multiple declared Democratic challengers exist: reporting identifies Aisha Farooqi (attorney), Don Ufford (former Ford engineer / businessman), and John Paul Torres (Waterford school board) as declared primary candidates — some have nontrivial fundraising and local organizational support. A crowded primary can produce surprises (vote splits, insurgent mobilization). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan?utm_source=openai))
+- Meaningful challengers’ resources: public reporting (summaries of FEC reports) shows other candidates have raised meaningful sums (some hundreds of thousands by late 2025 per aggregated reporting); that reduces the informational gap and makes an upset less improbable than a single large gap would imply. (Exact FEC numbers vary by reporting period; local outlets aggregate those figures.) ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan?utm_source=openai))
+- Primary dynamics and uncertainty: primaries are sensitive to endorsements, turnout efforts, late endorsements, and intra‑party factionalism (e.g., different wings of the party may coalesce around different candidates). No public polling of the MI‑11 Democratic primary was found in the sources reviewed, so market participants may be pricing in political judgement rather than hard polling. ([michiganadvance.com](https://michiganadvance.com/2025/11/25/stevens-senate-run-criticisms-of-thanedar-make-way-for-competitive-dem-primaries-in-metro-detroit/?utm_source=openai))
 
-Arguments supporting the current market price (evidence price is reasonable)
-- Fundraising and organization: Moss’s FEC numbers show a robust early fundraising advantage and significant cash on hand for a House primary; that typically translates into an organizational advantage and higher win probability. ([fec.gov](https://www.fec.gov/data/candidate/H6MI11191/))
-- Establishment endorsements: Being included in DMFI PAC’s early endorsement slate (and local reports of state-level endorsements) is a strong signal of party resources and donor network support; governors’ or prominent state leaders’ backing (reported in local outlets) raises odds meaningfully. ([dmfipac.org](https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/))
-- District lean: MI‑11 is a heavily Democratic, Oakland County-based seat; the chain of reporting and district partisanship implies the Democratic primary is the decisive contest. If the district practically guarantees a Democratic nominee will fall through to the general, top-tier Democratic aspirants are incentivized to enter the primary and party actors often coalesce early around a perceived front-runner — which favors Moss if he is the perceived front-runner. (Multiple local reports and district profiles document the seat’s partisan lean.) ([cbsnews.com](https://www.cbsnews.com/detroit/news/jeremy-moss-democrat-2026-michigan-congressional-race/))
-
-Source credibility and recency
-- FEC candidate page: official government data, high credibility, current filings through Dec 31, 2025 used. (High credibility.) ([fec.gov](https://www.fec.gov/data/candidate/H6MI11191/))
-- Local and regional outlets (CBS Detroit, Deadline Detroit, Michigan Advance, The Downballot): reputable local reporting and political newsletters; useful for announcements, endorsements, and candidate lists. These are timely and credible for state-level campaigns, though local reporting may not capture internal organizer movements. ([cbsnews.com](https://www.cbsnews.com/detroit/news/jeremy-moss-democrat-2026-michigan-congressional-race/))
-- DMFI PAC press release: direct endorsement publication from the PAC, authoritative for that endorsement and relevant for donor/IE resource implications. ([dmfipac.org](https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/))
-
-Skepticism about “obvious” evidence
-- Moss’s finance and endorsements are clear signals; if the market had already been widely traded, those signals would probably be reflected. But because the market shows virtually no trading volume, that suggests the posted price (79%) may reflect a single maker’s rounding of publicly available signals rather than broad consensus. The “obviousness” of Moss as front-runner does not guarantee a near-80% chance of victory — primaries are still subject to entry, shock events, and late surges.
+C — Source credibility and recency
+- FEC pages and filings (fec.gov; docquery.fec.gov) are primary, authoritative sources for committee formation and finance filings — high credibility and current. ([fec.gov](https://www.fec.gov/data/committee/C00904581/?utm_source=openai))
+- Michigan Advance, CBS Detroit, Deadline Detroit and other local outlets are well‑established local reporters on Michigan politics (good credibility for candidate announcements, endorsements, and local fundraising summaries). These pieces are recent (2025–2026 reporting) and relevant. ([michiganadvance.com](https://michiganadvance.com/2025/05/08/jeremy-moss-announces-candidacy-for-congress-says-democrats-need-a-bold-voice-in-trump-era/?utm_source=openai))
+- Aggregators like Wikipedia are useful for quick snapshots but rely on underlying primary sources (I relied on direct FEC and local reporting where possible and used aggregated pages only for quick cross‑checks). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan?utm_source=openai))
 
 3) MARKET EFFICIENCY ANALYSIS
-- Reasonable interpretations that justify 79%:
-  - Leading front-runner interpretation: Given Moss’s formal FEC entry, fundraising lead, and establishment endorsements, a market maker may treat these as strong, durable advantages in a primary for a heavily Democratic district and set a high probability (≈75–85%).
-  - Party consolidation expectation: If local Democratic leaders have already signaled for Moss and no equivalent challenger exists, an early consolidate-around-front-runner dynamic could justify a near-80% price.
-- Alternative interpretation: Because Total Vol = $0, the 79% price may simply be the initial betting-liquidity provider’s subjective probability (not market-clearing through many trades). That opens the possibility the price is not a robust aggregation of diverse information.
-- Is low volume because outcome is obvious or because traders haven’t engaged?
-  - Evidence points to both: Moss’s early organization makes him the most plausible favorite (which makes the outcome appear “obvious” to some), but the absence of public polls and the lack of trading suggests many information-motivated traders either don’t see value in this market or haven’t engaged. Both are plausible; the total‑volume = $0 data strongly suggests the latter (lack of engagement) is a major factor.
+- Reasonable interpretation that justifies a ~78.5% price:
+  - Moss appears to be the establishment/leading candidate: formal FEC committee, substantial early fundraising, and major endorsements (e.g., the governor) are exactly the signals experienced political traders use to assign a high probability to a frontrunner in an open, blue district. If party elites coalesce early, the chance of an upset falls and a 70–80% market probability is plausible.
+- Alternative (why price could be inflated):
+  - Low total volume ($0) and tight spread (3¢) suggests the displayed price may be set by a single liquidity provider or a tiny set of traders rather than broad market participation. That raises the possibility the market reflects one actor’s estimate or a market‑maker’s inventory management rather than aggregated wisdom of many participants.
+  - No public primary polling was found; absent poll data, the market is relying on non‑public information (endorsements, fundraising), which can be informative but not definitive.
+- Is low volume because the outcome is obvious or because informed traders haven’t engaged?
+  - Evidence points to a partly obvious outcome (MI‑11 leans Democratic and the establishment candidate is leading), which reduces the urgency for traders to arbitrage small mispricings. At the same time, the zero trading volume suggests few traders have taken a strong contrary view, so some inefficiency remains plausible.
 
-4) MISPRICING ASSESSMENT (weighing both sides)
-- Given the evidence, there is credible support that Moss is the front-runner (FEC filings, endorsements). That supports a high probability, but not certainty.
-- What would have to be missing for a large mispricing (>20 cents)? Examples: (a) a major rival already has committed with comparable fundraising and establishment backing (I found no evidence of that), (b) a technicality in resolution language that would rule Moss out (market resolution rules look straightforward: nomination by primary or official party sources), or (c) a credible imminent event (scandal, withdrawal) unknown to me — I found no signs of such events in recent reporting.
-- My charitable interpretation of the 79% price: it reflects Moss’s early organizational/endorsement advantage and the market-runner’s judgement that other challengers are unlikely to mount comparable campaigns before the primary. Given that, a price in the 65–85% band is defensible. However, because the market shows no trading volume, treat the posted price as provisional: it’s likely a reasonable single-sourced estimate, not a consensus-implied probability.
-- Conclusion on mispricing: I do not see specific, credible evidence that the market is grossly mispriced (i.e., off by >20 points). The available evidence points to Moss being the strong favorite; but the absence of trading, public primary polling, and the remaining months until the primary imply meaningful residual uncertainty that could reasonably reduce the price from 79% by several points. So the most defensible conclusion is: the market is plausibly reasonable but likely somewhat overconfident; any mispricing is probably modest (single-digit to low‑teens cents), not dramatic.
+4) MISPRICING ASSESSMENT
+- Weighing evidence:
+  - For Moss: formal committee, leading fundraising, major endorsements (Whitmer, other local officials), local press consensus that he is the leading candidate — all support a high win probability.
+  - Against Moss: multiple declared Democrats with nontrivial resources; primary unpredictability (turnout, endorsements, late entrants); lack of public polling keeps uncertainty material.
+- Is there credible evidence of a large mispricing (>20 percentage points)? No. I found no strong, credible evidence that a large piece of information (e.g., disqualification, major scandal, or an announced megadonor/endorsement for another candidate) is missing from the market. The available primary evidence tends to support Moss’s frontrunner status and therefore the market’s high price.
+- Most charitable interpretation of the market: the market is pricing an establishment frontrunner with large resources in a safely‑blue district; a ~78.5% probability is consistent with that interpretation and with the public evidence (endorsements + FEC filings).
+- Possible missing private information: the market could still be missing private polling or late‑breaking organizational moves (e.g., large union endorsement for another candidate), but I found no publicly reported sign of those.
 
-CRITICAL CHECK (what might I be missing?)
-- I verified the resolution criteria (market resolves to the person who wins the Democratic nomination or “Other” if no nominee by Nov 3, 2026) and checked for technical disqualifiers — none found in publicly reported market description.
-- I checked for other declared high-profile Democratic challengers with similar funds/endorsements; I found none.
-- The main remaining uncertainty is future candidate entry or new political events — standard for any primary so not a sign of a technical misread.
+Critical check (cross‑examination)
+- Do I understand resolution criteria? Yes: the market resolves to the official Democratic nominee or “Other” if no nominee is announced by Nov 3, 2026; the primary is Aug 4, 2026. No evidence suggests that the market’s resolution conditions have already been met or that a technicality applies.
+- Could a large mispricing be explained by something I missed? Possibly, but I found no public indicators (FEC or local reporting) of such a decisive piece of information. The more likely explanations for any residual mispricing are (a) market low liquidity and single‑actor pricing, or (b) traders reasonably pricing institutional advantages (endorsements, cash) rather than ignoring them.
 
-5) EXPECTED VALUE CALCULATION
-- Strength of evidence (how strong and reliable is the evidence that the market is mispriced): I rate this as 50%. Rationale: strong official signals (FEC, endorsements) support Moss, but low market volume and remaining months introduce material uncertainty. (50% is a midpoint reflecting both.)
-- Magnitude of likely mispricing (if any): I estimate 8 cents. Rationale: evidence suggests market may be modestly overconfident (e.g., true probability plausibly in the 65–75% range rather than 79%), so a realistic mispricing is small-to-moderate (I pick 8¢ as a conservative mid-point estimate).
-- Expected value = Strength × Magnitude = 0.50 × 8¢ = 4.0¢
+5) EXPECTED VALUE CALCULATION (quantified)
+- Strength of evidence that Moss’s win probability is mispriced (i.e., evidence that price should be meaningfully different from 78.5%): I judge this as moderate‑low. There is good public evidence supporting Moss’s frontrunner status; there is some evidence challengers have resources. I assign Strength = 40%.
+- Magnitude of mispricing if present: large mispricings (>20¢) are unlikely given endorsements and FEC filings; a plausible maximum error (difference between market and “fair” probability) in this situation is small — I estimate at most ~5–10 cents. To be conservative, pick Magnitude = 6 cents.
+- Expected value = Strength × Magnitude = 40% × 6 cents = 2.4 cents.
+- Rounded/reportable expected value: 2.4 cents.
 
-6) CONFIDENCE
-- My confidence in the overall assessment: medium.
+6) CONFIDENCE IN ASSESSMENT
+- Overall confidence in this assessment: medium.
+  - Rationale: primary evidence (FEC/endorsements/local reporting) is recent and credible and supports the market’s implication that Moss is the frontrunner, but absence of public primary polling and the potential for late primary dynamics (endorsements, turnout, late entrants) leave meaningful residual uncertainty.
 
-FINAL QUICK FINDINGS (for notification)
-EXPECTED_VALUE: 4.0
-SUMMARY: Jeremy Moss is the clear early front‑runner for the MI‑11 Democratic nomination — strong FEC fundraising and national/local endorsements back that up — so a high probability is reasonable. However, the market’s Total Vol = $0 and the months until the Aug 4, 2026 primary mean residual uncertainty remains; any mispricing is likely modest rather than large.
+Bottom-line recommendation (practical)
+- The market price (78.5%) is defensible given Moss’s formal campaign, fundraising lead and establishment endorsements. There is not strong, public evidence of a large mispricing. The expected exploitable edge (if any) appears small (~a few cents) and comes with only moderate confidence. Given the market’s zero trading volume and narrow spread, any attempt to trade should consider liquidity risk and the possibility that a single actor set the price.
+
+EXPECTED_VALUE: 2.4
+SUMMARY: Public evidence (FEC filings, sizable cash on hand, and high‑profile endorsements such as Governor Whitmer) supports Jeremy Moss as the Democratic frontrunner in MI‑11, making the market’s 78.5% probability credible. I found no strong public evidence of a large mispricing; a small mispricing (a few cents) is possible but uncertain. 
 CONFIDENCE: medium
 
 ---
@@ -88,27 +86,37 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [State Sen. Jeremy Moss announces candidacy for Michigan's 11th Congressional seat](https://www.cbsnews.com/detroit/news/jeremy-moss-democrat-2026-michigan-congressional-race/)
-**Author:** Paula Wethington | **Published:** 2025-05-08
+### [JEREMY MOSS FOR CONGRESS - committee overview | FEC](https://www.fec.gov/data/committee/C00904581/)
+**Author:** Unknown | **Published:** Unknown
 
-Local CBS Detroit reported Jeremy Moss’s May 2025 announcement that he is running for Michigan’s 11th Congressional District seat being vacated by Rep. Haley Stevens. The article also summarizes the district geography and Moss’s legislative background. This source establishes Moss’s public candidacy and gives a contemporaneous, credible statement of his campaign launch — evidence supporting his front‑runner status in the primary.
+The FEC committee page shows Jeremy Moss’s principal campaign committee and links to his filings (Forms 1/2/3 as applicable). This is primary documentation that Moss has formally organized a congressional campaign and filed with federal election authorities. Campaign committee formation and FEC filings are key evidence that Moss is an active, serious candidate and allow examination of receipts/disbursements and reported cash‑on‑hand; that financial/filing evidence supports a higher win probability and therefore supports the market price.
 
-### [MOSS, JEREMY - Candidate overview | FEC](https://www.fec.gov/data/candidate/H6MI11191/)
-**Author:** Federal Election Commission (FEC) (official page) | **Published:** 2025-05-08 (Statement of Candidacy filed)
+### [Jeremy Moss announces candidacy for U.S. House (Michigan Advance)](https://michiganadvance.com/2025/05/08/jeremy-moss-announces-candidacy-for-congress-says-democrats-need-a-bold-voice-in-trump-era/)
+**Author:** Unknown (Michigan Advance staff) | **Published:** 2025-05-08
 
-Official FEC candidate page for Jeremy Moss (H6MI11191) showing Statement of Candidacy date (May 8, 2025) and campaign finance totals through Dec 31, 2025 (total receipts ~$780,835; ending cash ~$510,263). This government record is high‑credibility and directly relevant: it quantifies Moss’s fundraising/organizational strength — a key predictor of primary success — which supports a high probability that he will win the nomination absent a major challenger.
+Local coverage of Moss’s campaign launch and background (state senator, local base in Oakland County). The article summarizes Moss’s platform and quotes him on motivations; it provides context about district geography and the open seat created by Haley Stevens running for Senate. This supports the interpretation that Moss was an early/visible entrant and has local recognition — factors consistent with a strong primary showing and a market price above 50%.
 
-### [DMFI PAC Announces 2026 Majority Project; Endorses First Slate of Non-Incumbent Candidates for the 2026 Cycle](https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/)
-**Author:** DMFI PAC (press release) | **Published:** 2026-02-19
+### [Whitmer backs Jeremy Moss in campaign for Michigan’s 11th Congressional District (Michigan Advance)](https://michiganadvance.com/briefs/whitmer-backs-jeremy-moss-in-campaign-for-michigans-11th-congressional-district/)
+**Author:** Kyle Davidson (Michigan Advance) | **Published:** 2025-11-24
 
-DMFI PAC’s Feb 19, 2026 press release lists Jeremy Moss as one of its endorsed non‑incumbent candidates for 2026 (MI‑11). The endorsement indicates organizational/IE support (and donor signaling) that can materially shift primary dynamics in favor of an endorsed candidate. This supports the market’s placement of Moss as a strong favorite.
+Reports Governor Gretchen Whitmer’s public endorsement of Jeremy Moss. This is a high‑value political signal: a governor endorsement can shape donor and local leader behavior and reduce the odds of serious establishment opposition. The endorsement is evidence supporting a high market probability for Moss.
 
-### [Democratic State Senator Jeremy Moss Running for Haley Stevens' Congressional Seat](https://www.deadlinedetroit.com/articles/33161/democratic_state_senator_jeremy_moss_running_for_haley_stevens_congressional_seat)
-**Author:** Unknown (Deadline Detroit article page) | **Published:** 2025-05-08
+### [DMFI PAC Announces 2026 Majority Project; Endorses First Slate of Non-Incumbent Candidates for the 2026 Cycle (DMFI PAC press release)](https://dmfipac.org/news-updates/press-release/dmfi-pac-announces-2026-majority-project-endorses-first-slate-of-non-incumbent-candidates-for-the-2026-cycle/)
+**Author:** Unknown (DMFI PAC) | **Published:** Unknown (2026 press release timeframe)
 
-Deadline Detroit covered Moss’s announcement and contextualized the race as Haley Stevens vacates MI‑11 to run for U.S. Senate. The piece corroborates Moss’s entry and local political context, and is useful for assessing competitive dynamics (open seat, district lean) that make the Democratic primary the decisive contest. This supports the plausibility of Moss being the eventual nominee.
+The DMFI PAC slate includes Jeremy Moss for MI‑11. This endorsement from an interest group focused on congressional outcomes signals some national interest/financial backing tendencies; such outside organization support increases the stability of an establishment candidate’s frontrunner position and therefore supports the market price.
 
-### [Your Weekly Michigan Political Brief (Michigan Advance)](https://michiganadvance.com/2025/11/07/your-weekly-michigan-political-brief-6/)
-**Author:** Michigan Advance staff | **Published:** 2025-11-07
+### [State Sen. Jeremy Moss announces candidacy for Michigan's 11th Congressional seat (CBS Detroit)](https://www.cbsnews.com/detroit/news/jeremy-moss-democrat-2026-michigan-congressional-race/)
+**Author:** CBS Detroit staff | **Published:** 2025-05-08
 
-A Michigan Advance weekly brief listing the Democratic field in MI‑11 as including Jeremy Moss plus other local names (John Paul Torres, Aisha Farooqi, Don Ufford) and noting candidate movement. It provides evidence there are other declared or discussed Democratic hopefuls, but no indication any have Moss‑level fundraising or statewide establishment backing. This supports the view that Moss is the early front‑runner but leaves open the possibility of future challengers.
+National affiliate coverage of Moss’s announcement and profile of his political career (state senator, policies). This mainstream reporting confirms Moss’s candidacy to broad audiences and documents his public positioning — useful for assessing name recognition and baseline viability in the primary.
+
+### [Stevens’ Senate run, criticisms of Thanedar make way for competitive Dem primaries in metro Detroit (Michigan Advance)](https://michiganadvance.com/2025/11/25/stevens-senate-run-criticisms-of-thanedar-make-way-for-competitive-dem-primaries-in-metro-detroit/)
+**Author:** Unknown (Michigan Advance staff) | **Published:** 2025-11-25
+
+Surveys several metro Detroit Democratic primaries including MI‑11; lists declared MI‑11 Democratic candidates (Aisha Farooqi, Jeremy Moss, John Paul Torres, Don Ufford), and reports cash on hand and fundraising summaries for those candidates as compiled from FEC reports. This article is important for assessing the competitive field (other declared candidates and their resources), which is the main counterargument to a near‑certainty price for Moss and therefore central to evaluating mispricing risk.
+
+### [2026 United States House of Representatives elections in Michigan (Wikipedia)](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan)
+**Author:** Unknown | **Published:** Unknown (page updated periodically)
+
+Aggregates declared candidates, fundraising summaries (sourced to FEC) and general status of Michigan House races, including MI‑11. Used here as a cross‑check on candidate lists and reported fundraising figures; it provides a consolidated snapshot though the underlying primary documents (FEC/local reporting) are the authoritative sources used in the analysis.

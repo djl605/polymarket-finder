@@ -1,95 +1,108 @@
 # Research: MagicBlock FDV above $20M one day after launch?
 
 **Market ID:** 0x8ebc34636c7d3c3b4799c19ce18c25c664a85558512c0ddb15ab4b93dcde2e4d
-**Researched At:** March 11, 2026 at 04:17:41 AM UTC
-**Search Query:** "Provide information that could be relevant to predicting the following question: MagicBlock FDV above $20M one day after launch?"
+**Researched At:** March 22, 2026 at 04:38:07 AM UTC
+**Search Query:** "MagicBlock FDV above $20M one day after launch?"
 
 ---
 
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 1.0¢
+**Expected Value:** 8.0¢
 
 ### Summary
 
-Fundraising and tech credentials support a >$20 M FDV, but absence of any tokenomics or pricing details leaves significant uncertainty, which appears priced into the 58% quote. No strong mispricing signal emerges.
+MagicBlock’s own presale documentation and multiple independent write-ups report a 10B total supply and a fixed‑price presale option implying $0.01/token (100M FDV), which — if reflected in a normal listing — makes FDV > $20M very likely. However, no public TGE/listing price was found and day‑one liquidity/market‑microstructure risk is real, so the current 49% market probability could reasonably incorporate those execution risks.
 
 ### Full Analysis
 
-1. CONTEXT ANALYSIS  
-The market asks whether MagicBlock’s governance‐token Fully Diluted Valuation (total supply × price) will exceed $20 million exactly at 4 PM ET the day after the token’s public launch. A “Yes” outcome requires (a) the token to be freely tradable, (b) a total supply × spot price > $20 M at the one‐day mark. Anything below or no token launch by 12/31/2026 resolves “No.”  
+Plan and constraints
+- I used the allotted web-search budget to check (1) MagicBlock’s official presale/TGE announcement, (2) independent reporting of tokenomics/presale details (supply, presale price/size), and (3) exchange/aggregator reporting to see whether a TGE/listing already occurred. Those sources together give the most load-bearing facts for judging whether FDV > $20M one day after launch. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
 
-2. EVIDENCE EVALUATION  
-Bullish evidence:  
-- Feb 17, 2026 fundraising: $7.5 M led by Lightspeed Faction, with top-tier VCs Delphi Digital, Maven11, Anatoly Yakovenko backing.  
-- Proprietary Ephemeral Rollups tech on Solana, positioning MagicBlock for high‐performance DeFi/gaming apps.  
-- Analysts (neuron.expert) argue that with strong investor backing and strategic Solana partnerships, an initial FDV > $20 M is “plausible.”  
+1) CONTEXT ANALYSIS — what the market actually asks
+- The market: “MagicBlock FDV above $20M one day after launch?” resolves YES if, one calendar day after the token “launch” (the token must be publicly, actively tradable), the FDV (total token supply × token price — per market description) is > $20,000,000; otherwise it resolves NO. If there is no token launch by Dec 31, 2026 23:59 ET the market resolves NO. (Market description provided by user.)
+- Concretely: with the publicly stated total supply of 10,000,000,000 tokens, FDV > $20M implies a per-token price > $0.002 (20,000,000 / 10,000,000,000 = $0.002). So a listing/trading price above two-tenths of a cent would put FDV above $20M, given the reported total supply. ([phemex.com](https://phemex.com/news/article/magicblock-unveils-block-tokenomics-with-35-community-allocation-57755))
 
-Bearish/neutral evidence:  
-- No disclosed tokenomics: we lack public info on total supply, price range, listing venue, or expected float.  
-- No independent price targets or sell-side estimates.  
-- No research into potential lockups, vesting schedules, or trader appetite that could depress initial price.  
+2) EVIDENCE EVALUATION — facts and how they affect probability
+Key public facts (most load-bearing)
+- MagicBlock officially announced a presale for a network/governance token called $BLOCK; the announcement describes two presale options (a bonding-curve FCFS option unlocked at TGE, and a fixed-price Request-for-Allocation priced at a 100M FDV with a 1-year lock). The announcement states a target TGE timeframe of late Q1 / early Q2 2026. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+- Multiple industry outlets report the tokenomics: total supply = 10,000,000,000 (10B). That figure is repeated across the company blog/press coverage and aggregator pages. Using 10B total supply is the basis for FDV calculation in this market. ([phemex.com](https://phemex.com/news/article/magicblock-unveils-block-tokenomics-with-35-community-allocation-57755))
+- Presale pricing / allocation reporting: presale coverage and ICO aggregator entries show a presale price/option implying $0.01 per token (the fixed-price Request-for-Allocation option is explicitly given as a 100M FDV price; ICOdrops records a presale price entry of $0.01 and 150M tokens allocated to the presale round). $0.01 × 10B = $100M FDV if that price were used. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
 
-Source credibility & recency:  
-- All MagicBlock info comes from a single outlet (neuron.expert) on 2026-02-17. Well‐informed on the funding but not on token launch mechanics.  
-- No conflicting data; absence of supply/price details is a material gap.  
+Evidence that suggests the market price might be incorrect (i.e., that YES is more likely)
+- If the presale fixed-price option remains the reference price or the listing price is close to the presale price, FDV would be well above $20M. The fixed-price presale option explicitly sets a 100M FDV price (i.e., $0.01 per token) and the presale documentation & aggregator pages record presale pricing consistent with that. That makes FDV > $20M a low threshold relative to the project’s own presale pricing. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+- The publicly-stated total supply (10B) magnifies any small per-token price above $0.002 into an FDV > $20M; because the presale communicates $0.01/100M-FDV as an offered fixed price, the market’s 49% estimate appears conservative if the project actually performs a conventional listing close to presale terms. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
 
-3. MARKET EFFICIENCY ANALYSIS  
-- A 58% probability may reflect: (a) broad consensus that visionary tech + heavy VC support tends to drive >$20 M FDVs at launch; (b) recognition that uncertainty around supply/pricing injects risk.  
-- Low volume ($450) and tight spread (2¢) suggest one or two engaged speculators set price; few others have capitalized, likely due to lack of concrete token metrics.  
-- The outcome is not “obvious” enough to deter all arbitrage; it simply lacks detailed public data, so most informed traders may be on the sidelines.  
+Evidence that supports the market price as reasonable (why probability ~49% could be justified)
+- TGE not (publicly) completed as of the latest company updates: the MagicBlock official posts and community updates (blog/news pages) document the presale and target TGE window but, through mid-March 2026 material, I find no public announcement that a TGE or an exchange listing has already occurred (the presale ran in February 2026; TGE was still only targeted for late Q1/early Q2). That creates real timing and execution risk that traders may be discounting. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+- Listing / liquidity risk: even if the project’s presale price implies FDV >> $20M, the market resolution is determined by the most liquid trading-price source one day after launch. If the token launches onto a very low-liquidity venue or experiences heavy immediate sell pressure (especially if an unlocked tranche is significant), the observable price could be pushed below $0.002 at the resolution snapshot. Traders may be pricing that execution/liquidity risk in. (This is a structural risk that’s not eliminated by the presale price.)
+- Possible source noise and promotional framing: press and exchange “news” items and aggregators often recycle company materials; while multiple outlets report the same supply/presale numbers, these items are sometimes derived from the company’s release rather than independent verification (so they’re informative but not ironclad proof that initial market pricing will reflect the presale fixed price). ([phemex.com](https://phemex.com/news/article/magicblock-unveils-block-tokenomics-with-35-community-allocation-57755))
 
-4. MISPRICING ASSESSMENT  
-- No solid evidence of large mispricing. We lack tokenomics; this gap is likely already reflected in market’s discount from 50/50.  
-- Bullish case is generic (“could exceed”), bearish case is “unknown,” so 58% seems a reasonable midpoint tilt toward “Yes.”  
-- No red‐flag technicalities or overlooked developments.  
+Credibility and recency of sources
+- Primary: MagicBlock’s own presale announcement (company blog, Jan 15, 2026) — primary source for presale mechanics and the fixed-price 100M-FDV option. High relevance for expected listing price and unlock/lock structure. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+- Aggregators / industry outlets: ICOdrops (detailed presale/round summary) and exchange news items (Phemex/Bitget reposts) — quickly summarize tokenomics and presale price/supply; useful cross-checks but partly derivative of the company announcement. Recent (Feb–Mar 2026). ([icodrops.com](https://icodrops.com/magicblock/))
+- What I did not find: any independent evidence that a TGE or public tradable token exists already (no authoritative exchange listing + live market-price feed that would show the FDV at the relevant snapshot). Absence of a TGE announcement in the company’s March updates supports continued uncertainty about the exact launch timing. ([magicblock.gg](https://www.magicblock.gg/))
 
-5. EXPECTED VALUE CALCULATION  
-- Strength of evidence: 20% (information gap on supply & price is material but already priced in).  
-- Magnitude of mispricing: 5 cents (max plausible deviation given generic bullish case).  
-- Expected value = 20% × 5¢ = 1¢.  
+3) MARKET EFFICIENCY ANALYSIS — is the market price reasonable?
+- Charitable interpretation for 49%:
+  - Traders may be splitting the probability between (A) project successfully launches and listing price is near or above presale-implied values (which would almost certainly produce FDV > $20M), and (B) execution/market-liquidity risks (delay, tiny initial market price because of poor execution, or very low-liquidity venue) or regulatory/technical issues that could produce NO or prevent launch before Dec 31, 2026. The 49% midline can reflect roughly-even weighting of those risks.
+- Could the price reflect a few players rather than consensus?
+  - Yes — the market has zero total volume on the record and a 6¢ spread, which indicates very low engagement. With such low volume it is plausible that 1–3 participants are setting the quotes (the market’s midpoint then reflects their beliefs or willingness to take risk rather than a broad information-aggregation). That makes the market less reliable as a consensus estimator. (User-provided market metrics.)
+- Is low volume because outcome is obvious or because traders haven’t engaged?
+  - Here it’s more likely low engagement: the resolution depends on a corporate TGE and immediate post-launch market pricing — event-driven, technical and relatively niche. In addition, traders may be waiting until a TGE date is firm or until listings appear. The event is not “obvious” — it combines a corporate execution step and market microstructure on day‑one — so low volume plausibly reflects lack of engagement rather than consensus certainty.
 
-EXPECTED_VALUE: 1.0  
-SUMMARY: Fundraising and tech credentials support a >$20 M FDV, but absence of any tokenomics or pricing details leaves significant uncertainty, which appears priced into the 58% quote. No strong mispricing signal emerges.  
+4) MISPRICING ASSESSMENT — weighing the evidence
+- The strongest public evidence points toward YES:
+  - Company-prescribed fixed-price presale option = 100M FDV (i.e., $0.01 per token) and the reported total supply = 10B imply a straightforward pathway to FDV well above $20M if listing price is near presale price. That’s a direct piece of evidence that, absent a catastrophic execution event, FDV > $20M is likely at typical listing prices or even modest prices well below the presale level. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+- Offsetting factors that justify trader caution:
+  - No public TGE/listing confirmation as of the most recent company updates (so the event may slip or be postponed). ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+  - Early unlocked supply for FCFS buyers + tiny initial liquidity could allow aggressive sellers to depress the observable price on the inaugural day (the market resolves off “the most liquid price source available” which could be unfavorable under a low-liquidity listing). This is an actual execution risk traders rationally price.
+  - Some reporting is derived from the company and may be promotional; until a token contract, explorer entry, or exchange orderbook is observable, the expected listing price is uncertain. ([phemex.com](https://phemex.com/news/article/magicblock-unveils-block-tokenomics-with-35-community-allocation-57755))
+- Conclusion on mispricing:
+  - There is credible, public evidence (company presale and independent aggregator reporting) that would rationally push the probability of FDV > $20M well above 49% if one assumes the token lists near presale terms. However, that evidence is already public and likely known to market participants; the market’s 49% likely incorporates execution/liquidity/delay risk and the chance of unfavorable listing microstructure.
+  - Given the public presale pricing (100M FDV fixed option / $0.01) vs. the very low threshold for FDV > $20M ($0.002), the market’s 49% probability appears a bit conservative. But because the resolution depends critically on the day‑one observed trading price (and no TGE/listing price evidence exists yet), I cannot confidently assert a large (>20¢) mispricing without seeing the actual launch liquidity and listing venue.
+
+CRITICAL CHECK — did I miss something?
+- I verified the key resolution variables: the market uses total supply × price for FDV; MagicBlock publicly reports a 10B supply and presale options including a fixed 100M FDV price; there’s no authoritative evidence a TGE or listing already occurred. Therefore the main pathway to FDV > $20M is straightforward and publicly documented, and the remaining uncertainty is execution/liquidity risk that traders would rationally discount. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+
+5) EXPECTED-VALUE CALCULATION (estimate of the value of investigating / trading on this)
+- Strength of evidence that the market is missing material public information: 40%. Rationale: company-presale and independent aggregator data strongly favor YES, but traders are likely already aware of those public facts; what’s uncertain (liquidity, TGE timing, actual listing price) is not obviously missing. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
+- Magnitude of possible mispricing (cents): 20¢. Rationale: market sits at ~49%. If public presale pricing and a normal listing were fully believed, a fair price could plausibly be much higher (e.g., 70–90+%), but large gaps are less likely because these facts are public; I estimate a plausible actionable mispricing magnitude in the O(10–30)¢ range rather than multiples of dollars. (This is a judgment call based on the small FDV threshold and presale price.)
+- Expected value = Strength × Magnitude = 0.40 × $0.20 = $0.08 = 8 cents.
+
+6) CONFIDENCE in the assessment
+- medium — the conclusion depends on (A) the company’s public presale terms (well-documented) and (B) execution/liquidity risk (hard to quantify without a live listing). The facts about supply/presale are high-confidence; the market microstructure risk is the main source of uncertainty.
+
+Final short judgement
+- Public presale terms (including a fixed-price option implying $0.01 per token and a 10B total supply) strongly suggest that FDV > $20M at a reasonable listing price, so the expectation is that YES is the likely outcome if the token lists in a typical way. However, absence of a public TGE/listing announcement and real execution/liquidity risk justify the market’s discount; because those execution risks are real and not easily measured, I do not conclude a large, certain mispricing. Overall there is modest evidence of undervaluation but not decisive proof.
+
+EXPECTED_VALUE: 8
+SUMMARY: MagicBlock’s own presale documentation and multiple independent write-ups report a 10B total supply and a fixed‑price presale option implying $0.01/token (100M FDV), which — if reflected in a normal listing — makes FDV > $20M very likely. However, no public TGE/listing price was found and day‑one liquidity/market‑microstructure risk is real, so the current 49% market probability could reasonably incorporate those execution risks. 
 CONFIDENCE: medium
 
 ---
 
 ## Research Context
 
-*The following context was generated by Exa AI and provided to the analysis model:*
+*The following sources were found via web search and used in the analysis:*
 
-Title: MagicBlock henter inn 7,5 millioner dollar til sanntids, app-spesifikke utvidelser for Solana-blokkjeden
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://neuron.expert/news/magicblock-raises-75m-for-real-time-app-specific-extensions-for-solana-blockchain/12491/no/
-Summary: MagicBlock, a platform enabling real-time, app-specific extensions on the Solana blockchain, recently raised $7.5 million in a funding round led by Lightspeed Faction, with participation from notable investors including Maven11, Delphi Digital, and Anatoly Yakovenko. The company utilizes proprietary Ephemeral Rollups technology to deliver ultra-low latency and full on-chain real-time applications, enhancing Solana’s scalability and interoperability for sectors like DeFi and gaming. With strategic partnerships and a focus on building a high-performance, fully on-chain ecosystem, MagicBlock aims to become a leading execution layer. Given its innovative technology, strong investor backing, and expanding ecosystem, it has the potential to achieve a valuation exceeding $20 million in the future, especially if it continues to grow its user base and partnerships post-launch.
+### [Introducing the MagicBlock Presale](https://www.magicblock.xyz/blog/magicblock-presale)
+**Author:** MagicBlock | **Published:** 2026-01-15
 
-Title: MagicBlock safnar 7,5 milljónum dala fyrir rauntíma, app-sértækar viðbætur fyrir Solana blokkakeðjuna
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://neuron.expert/news/magicblock-raises-75m-for-real-time-app-specific-extensions-for-solana-blockchain/12491/is/
-Summary: MagicBlock, a platform enabling real-time, app-specific integrations on the Solana blockchain, recently raised $7.5 million in funding led by Lightspeed Faction, with participation from Maven11, Delphi Digital, and prominent angel investors. Building on a prior $3 million investment from a16z CSX, the company aims to enhance its Ephemeral Rollups technology, which allows developers to create fully on-chain, low-latency applications—particularly in DeFi and gaming—without relying on Layer 2 solutions. MagicBlock's innovative approach offers high performance, seamless interoperability, and full access to Solana's liquidity, positioning it as a significant player in the blockchain infrastructure space. Given its strong backing, technological edge, and strategic partnerships with key Solana projects, it is plausible that MagicBlock's Fully Diluted Valuation (FDV) could exceed $20 million shortly after launch, especially if it successfully demonstrates widespread adoption and integration within the Solana ecosystem.
+Official MagicBlock announcement of the $BLOCK presale. Describes two presale options: (1) FCFS bonding-curve with tokens unlocked at TGE and (2) a Request-for-Allocation fixed-price option at 100M FDV with a 1‑year lock. States the Token Generation Event is targeted for late Q1 / early Q2 2026 and that the presale goes live Feb 5, 2026. This is the primary source for presale mechanics and the fixed-price 100M-FDV reference price; it directly informs the FDV calculation and the most optimistic pathway to FDV > $20M. ([magicblock.xyz](https://www.magicblock.xyz/blog/magicblock-presale))
 
-Title: МагикБлок нь Solana блокчейнд зориулсан бодит цагийн, апп-специфик өргөтгөлүүдэд 7.5 сая доллар хөрөнгө босгов
-Author: 
-Published Date: 2026-02-17T00:00:00.000Z
-URL: https://neuron.expert/news/magicblock-raises-75m-for-real-time-app-specific-extensions-for-solana-blockchain/12491/mn/
-Summary: MagicBlock, a platform built on the Solana blockchain, has successfully raised $7.5 million in initial funding from prominent investors, including Lightspeed Faction, Maven11, and Delphi Digital. Founded by Andrew Fortugno and Gabriele Picco, the company develops real-time, app-specific extensions and employs Ephemeral Rollups technology to enable low-cost, high-performance decentralized applications, particularly in gaming and DeFi sectors. The platform enhances Solana’s compatibility and scalability, supporting high-speed, fully on-chain applications without traditional compromises. Given its significant funding, technological advancements, and strategic partnerships with leading Solana projects, MagicBlock is positioned to accelerate development and adoption, which could support a valuation exceeding $20 million FDV shortly after launch.
+### [MagicBlock Reveals $BLOCK Tokenomics with 35% Community Allocation](https://phemex.com/news/article/magicblock-unveils-block-tokenomics-with-35-community-allocation-57755)
+**Author:** Phemex News | **Published:** 2026-02-03
 
-Title: MAGIC (MAGIC) Self Reported Market Cap Tops $19.88 Million - Daily Political
-Author: Stacy Sanders
-Published Date: 2026-03-01T00:00:00.000Z
-URL: https://www.dailypolitical.com/2026/03/01/magic-magic-self-reported-market-cap-tops-19-88-million.html
-Summary: The article reports that MAGIC (MAGIC), a cryptocurrency associated with Treasure's metaverse ecosystem, has a self-reported market cap of approximately $19.88 million as of March 1, 2026. The token's price is around $0.061, with recent trading activity showing a slight increase over the past day but a 9.1% decline over the past week. MAGIC's total supply is about 347.7 million tokens, with roughly 326 million circulating. Given its current market cap just below $20 million, a significant increase in trading volume or market valuation—such as surpassing $20 million FDV—could be influenced by factors like new ecosystem developments, increased adoption, or strategic partnerships. Monitoring its trading activity, ecosystem growth, and broader market trends could help predict whether MAGIC's FDV might exceed $20 million shortly after launch.
+Exchange news article summarizing MagicBlock’s tokenomics (total supply = 10 billion; allocation percentages) and presale/TGE expectations. Repeats the presale timeline and the company’s reported supply figure; useful as an independent press-style corroboration of the company’s tokenomics that underlie FDV calculations. The article supports the claim that total supply = 10B and that the project publicly signaled a TGE window, which makes FDV math straightforward. ([phemex.com](https://phemex.com/news/article/magicblock-unveils-block-tokenomics-with-35-community-allocation-57755))
 
-Title: MAGIC (MAGIC) Hits Self Reported Market Capitalization of $20.95 Million - Daily Political
-Author: Trevor Kearing
-Published Date: 2026-02-25T00:00:00.000Z
-URL: https://www.dailypolitical.com/2026/02/25/magic-magic-hits-self-reported-market-capitalization-of-20-95-million.html
-Summary: The article reports that MAGIC (MAGIC), a decentralized ERC-20 token operating on the Ethereum blockchain, has a self-reported market capitalization of approximately $20.95 million. Since MAGIC was first traded on August 31, 2021, and has a circulating supply of about 325.5 million tokens, its current trading price is around $0.0644 per token. The token's recent performance shows a 2.3% increase over the past 24 hours but a 14.1% decline over the past week. Given its market cap and trading activity, MAGIC demonstrates significant liquidity and investor interest. 
+### [Magicblock (BLOCK) - All information about Magicblock ICO (Token Sale) - ICO Drops](https://icodrops.com/magicblock/)
+**Author:** ICOdrops (aggregator) | **Published:** 2026-02-02
 
-For predicting whether MagicBlock's Fully Diluted Valuation (FDV) could surpass $20 million shortly after launch, consider the current market cap, trading volume, token supply, and recent price trends. The existing market cap suggests that if MagicBlock maintains or increases its token price and circulating supply, reaching or exceeding a $20 million FDV within a day is plausible, especially if the project garners strong community engagement and positive market sentiment.
+ICO aggregator page listing presale details and pricing: records a presale price of $0.01 and 150M tokens for the presale round (150M ≈ 1.5% of a 10B total supply); lists investor/round history and presale end date (Feb 8, 2026). This gives a presale-price datapoint consistent with the company’s fixed-price option and provides presale quantity context (how much immediate unlocked presale supply might exist), which affects day‑one liquidity considerations. ([icodrops.com](https://icodrops.com/magicblock/))
 
+### [MagicBlock (homepage)](https://www.magicblock.xyz/)
+**Author:** MagicBlock | **Published:** Unknown (site content updated March 2026 — news posts listed March 5 and March 20, 2026)
 
+Official MagicBlock website and news feed; shows ongoing company updates (e.g., Monthly updates through March 2026) but does not show a completed TGE/listing as of those updates. This confirms the project is active and communicating publicly while supporting the observation that there was no public announcement of a completed TGE as of mid‑March 2026 — a material reason traders could rationally discount the immediate probability. ([magicblock.gg](https://www.magicblock.gg/))

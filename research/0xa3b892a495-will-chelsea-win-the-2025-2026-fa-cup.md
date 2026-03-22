@@ -1,7 +1,7 @@
 # Research: Will Chelsea win the 2025-2026 FA Cup?
 
 **Market ID:** 0xa3b892a495703e26c87f8226817c9d884a62692b6f98d20c42b5353e854cdcdd
-**Researched At:** March 12, 2026 at 06:20:24 PM UTC
+**Researched At:** March 22, 2026 at 04:35:40 AM UTC
 **Search Query:** "Will Chelsea win the 2025-2026 FA Cup?"
 
 ---
@@ -9,69 +9,98 @@
 ## AI Analysis
 
 **Confidence:** Medium
-**Expected Value:** 2.0¢
+**Expected Value:** 1.5¢
 
 ### Summary
 
-Chelsea are still alive in the 2025–26 FA Cup (QF vs Port Vale) and the prediction-market price (22.5%) is modestly higher than bookmaker-implied odds (~5/1 → ~16.7%). Given zero market volume, the price likely reflects a seed/initial posting or a small set of traders; evidence indicates a small possible overpricing of a few cents, but uncertainty is moderate.
+Chelsea remain alive in the 2025–26 FA Cup (drawn at home to Port Vale in the quarter-finals), and bookmakers generally price Chelsea lower than this market but in a nearby range; the market’s zero trading volume is a reliability concern. Overall, there is modest evidence the market is a few percentage points rich versus bookmaker consensus, but not enough to call a clear, large mispricing.
 
 ### Full Analysis
 
-CONTEXT ANALYSIS
-- Market question: "Will Chelsea win the 2025-2026 FA Cup?" It resolves YES if Chelsea are the team that lift the 2025–26 FA Cup (per the market’s resolution rules). It resolves NO if Chelsea are eliminated at any stage (they can no longer win), and “Other” only if the competition is cancelled/postponed after June 30, 2026 ET or there is no winner by that date.
-- As of today (March 12, 2026) Chelsea are still alive: they beat Wrexham in the FA Cup fifth round (extra time) and were drawn at home to Port Vale in the quarter-finals (weekend of April 4, 2026). To resolve YES Chelsea must (a) beat Port Vale in the quarter-final, (b) beat whatever opponent they meet in the semi (Wembley, weekend April 25, 2026), and (c) win the final at Wembley.
+Plan and constraints
+- I will treat the market as a question about whether Chelsea will be the team that lifts the 2025–26 FA Cup (market resolves YES if Chelsea are winners, NO if they are eliminated at any point). Because this is a recent-season sporting event, I used web searches (3 calls) to confirm Chelsea’s status in the competition, the draw/path they face, recent form/managerial context, and bookmaker-implied probabilities to compare to the market price (20.5%). Below are my findings and analysis.
 
-EVIDENCE EVALUATION (all items cited below)
-Evidence that suggests the market price (22.5%) might be too high
-- Bookmakers’ FA Cup outright markets (aggregated by Oddschecker) list Chelsea considerably behind the favourites (Arsenal / Man City / Liverpool) with Chelsea typically around 5/1 (≈16.7% implied). That implies the prediction-market price (22.5%) is meaningfully higher than widely available bookmakers’ prices. Bookmaker prices are not perfect but they reflect aggregated risk-adjusted estimates and commercial exposure. (Oddschecker)
-- Chelsea’s recent Champions League performance shows vulnerability: Chelsea lost 5–2 away to Paris Saint‑Germain in the UCL Round of 16 first leg on March 11, 2026 — a heavy defeat that suggests defensive frailties and possible morale/fatigue issues ahead of domestic cup ties. A deep European run or a difficult two‑leg tie can distract or deplete squad resources. (NBC Sports / multiple match reports)
-- Recent FA Cup matches show Chelsea can be physically and mentally stretched in cup ties: they required extra time to beat Wrexham (a Championship side) on March 7, 2026 and were levelled twice in that tie; the game featured VAR decisions and a red card that changed the game flow. The narrowness of that win suggests vulnerability to an upset in later rounds (complacency/rotation risk vs smaller teams is historically a FA Cup risk). (Chelsea official report; Sky Sports)
+1) CONTEXT ANALYSIS — what the market is asking, and how it resolves
+- Market question: “Will Chelsea win the 2025–2026 FA Cup?”
+- Resolution mechanics (from the market description / FA rules):
+  - YES if Chelsea are the declared FA Cup winners for the 2025–26 edition (i.e., they win the final and are confirmed by The FA or credible reporting).
+  - NO if Chelsea are eliminated at any point before the winner is decided.
+  - “Other” only if the competition is cancelled or postponed after June 30, 2026, or no winner is declared in that timeframe.
+- Immediate practical implication: as of March 22, 2026, the key binary event that would flip this market to NO is any elimination (e.g., loss or exit on Apr 4 quarter-final or later). The market currently trades at 20.5% for Chelsea to win.
 
-Evidence that supports the market price (i.e., 22.5% is plausible)
-- Chelsea remain a top Premier League/European-level club with high-quality attacking players in form (João Pedro, Alejandro Garnacho, Pedro Neto shown impacting recent matches). Cup competitions historically favour strong top-flight sides — Chelsea’s quarter-final tie is against Port Vale (a League One club), which is a favourable single-match draw at Stamford Bridge. That concrete favorable draw increases Chelsea’s path probability relative to a random-draw baseline. (Chelsea official match report; The FA draw)
-- Chelsea have recent positive indicators under new head coach Liam Rosenior (appointed early January 2026) — evidence of a managerial uplift was discussed in multiple reports and the team has produced important cup/league wins since the appointment. Managerial change + strong attacking form can justify higher-than‑bookmaker probability if traders expect Rosenior to prioritize or perform well in knockout matches. (news coverage of Rosenior appointment and subsequent results)
-- Bookmakers include vig and balance liability; an uncrowded prediction market might rationally trade above the best bookmaker price if a trader believes bookmakers overpriced/underserved or if market participants expect more aggressive cup focus from the club.
+2) EVIDENCE EVALUATION — what I found and how it bears on the price
+Key factual points I confirmed
+- Chelsea remain in the 2025–26 FA Cup as of March 2026 and were drawn at home in the quarter-finals. The FA’s quarter-final draw (9 Mar 2026) shows Chelsea drawn to host Port Vale in the quarter-finals. (Official FA draw). This means Chelsea are still alive and have at least one relatively favorable domestic-cup opponent before the semis. (supports possibility of run) ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai)).
+- Round dates: FA’s published 2025–26 FA Cup round dates confirm quarter-finals scheduled around the weekend of Apr 4 and semi-finals on Apr 25, with the competition progressing quickly in April–May. (important for timeline / fixture congestion) ([thefa.com](https://www.thefa.com/competitions/thefacup/round-dates?utm_source=openai)).
+- Reporting from mainstream sports outlets indicates Chelsea reached the latter rounds (news summaries list Chelsea among teams in the last eight). These outlets explicitly mention Chelsea booking a quarter-final spot and the Port Vale tie. (supports FA listing) ([nbcsports.com](https://www.nbcsports.com/soccer/news/fa-cup-schedule-watch-live-scores-highlights?utm_source=openai)).
+- Bookmaker prices around the time of these rounds: major bookmakers/aggregators (bet365, Oddschecker coverage) listed Chelsea with outright FA Cup odds commonly in the 5/1 – 8/1 range depending on book and time (implied probabilities in the ~12–17% range). Different sources show variation (some show Chelsea ~5/1 ~16.7%, some 7/1–8/1). This places bookmaker-implied probabilities below the market’s 20.5% price. (suggests market is somewhat more bullish than many bookmakers). ([bet365.com](https://www.bet365.com/hub/en-gb/football/football-competitions/football/football-competitions/fa-cup?utm_source=openai)).
+- Club form / context: recent reporting (Mar 20, 2026) flagged a poor run of results and pressure around Chelsea’s manager (article notes form: three wins in last nine, two of which were in the FA Cup). That suggests domestic form and managerial instability could reduce Chelsea’s chances of an extended cup run. Fixture congestion (European competition and league matches) also matters, since it affects rotation and player availability. (argues against a high outright probability). ([fourfourtwo.com](https://www.fourfourtwo.com/person/coaches-managers/chelsea-ownership-reach-decision-on-liam-roseniors-future-following-poor-form-report?utm_source=openai)).
+- Cup upsets are active in this edition (reports of Port Vale and other lower-league upsets exist), meaning lower-league opponents are not guaranteed losses; cup competition is noisy. This works both ways: Chelsea’s favorable draw to face a lower-league team in the quarter could boost their chances, but the history of mid-season upsets suggests no result is certain. ([supersport.com](https://supersport.com/football/news/2b45e55a-7ef1-4512-9d84-3b5eb72529f1/ice-cool-southampton-shock-fulham-to-reach-fa-cup-quarters?utm_source=openai)).
+
+Which evidence argues the market price might be incorrect (overpriced for Chelsea)
+- Bookmakers’ implied probabilities are generally lower than 20.5% for Chelsea to win outright (many showed Chelsea odds implying ~12–17%). If the market price were substantially above bookmaker consensus, that suggests either (a) the market is offering value relative to consensus bookmakers, or (b) the market is being set by a small number of participants (or an automated maker) not reflecting broader pricing. The difference here is modest (a few percentage points) but measurable. ([bet365.com](https://www.bet365.com/hub/en-gb/football/football-competitions/football/football-competitions/fa-cup?utm_source=openai)).
+- Chelsea’s recent poor form and managerial pressure (reported Mar 20, 2026) reduce the plausibility of a long trophy run; this is evidence pointing toward lower win probability than the market’s 20.5%. Fixture congestion with European commitments also reduces the odds of prioritizing all cup matches with strongest XI. ([fourfourtwo.com](https://www.fourfourtwo.com/person/coaches-managers/chelsea-ownership-reach-decision-on-liam-roseniors-future-following-poor-form-report?utm_source=openai)).
+- The market shows zero total trading volume and a 5¢ spread; the zero-dollar volume strongly suggests no active, diverse capital backing the price — increases the chance that this price is not the result of many independent, informed bettors. (structural evidence of possible inefficiency).
+
+Which evidence supports the market price being reasonable (not necessarily mispriced)
+- Chelsea is a top club with squad depth and history of winning domestic cup competitions; they have a favorable quarter-final opponent at home (Port Vale) which materially increases their chance to reach the semis compared with being drawn against another top club. That single favorable draw can justify a somewhat elevated outright chance compared to an “average” remaining team. (supports a non-trivial outright probability). ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai)).
+- Bookmakers’ prices vary across firms and over time; some books (or aggregated markets) put Chelsea closer to the market’s level depending on how the books balance liabilities and how they incorporate team news or form. The market price (20.5%) is not an extreme outlier relative to bookmaker ranges observed (it’s somewhat higher than many, but within plausible model disagreement). ([bet365.com](https://www.bet365.com/hub/en-gb/football/football-competitions/football/football-competitions/fa-cup?utm_source=openai)).
+- Cup competitions are volatile and subject to path-dependent probabilities: a lower-league quarter opponent + home tie + potential favourable semi/final draws can pump Chelsea’s post-draw win probability meaningfully. Traders who model the bracket path specifically may rationally assign Chelsea ~20%+ chance even if raw book odds were lower pre-draw. (supports that the market can rationally price higher).
 
 Source credibility and recency
-- The most load-bearing facts (Chelsea still in the FA Cup; quarter-final draw; Wrexham win on March 7; PSG 5-2 win on March 11; bookmaker odds snapshot in mid-February) are all from current, mainstream sports news outlets and the FA/Chelsea official site (FA site, Chelsea FC, Sky Sports, Oddschecker, NBC Sports/VAVEL). Dates are March 7–11, 2026 (very recent). These outlets are credible for match results, draws and posted betting markets. Bookmaker-derived odds are market prices and should be treated as an alternate market estimate rather than a ground-truth probability.
+- The FA (thefa.com) is the competition’s official governing site — authoritative for draws, dates, and official fixtures (high credibility; recent March 2026). ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai)).
+- Major sports outlets (NBC Sports, TNT Sports) and Supersport provide match reports and round summaries — generally reliable for results/draw reporting (medium-high credibility; recent March 2026). ([nbcsports.com](https://www.nbcsports.com/soccer/news/fa-cup-schedule-watch-live-scores-highlights?utm_source=openai)).
+- Bookmaker pages (bet365, Oddschecker) show actual betting odds and implied probabilities used by widespread cash markets (useful benchmark for market-implied probability; medium-high credibility for odds but include bookmaker margin/vig). ([bet365.com](https://www.bet365.com/hub/en-gb/football/football-competitions/football/football-competitions/fa-cup?utm_source=openai)).
+- FourFourTwo reporting on Chelsea’s managerial situation is a mainstream football news source (medium credibility for analysis of form; recent Mar 20, 2026). Such coverage is relevant for assessing form/incentives but not definitive. ([fourfourtwo.com](https://www.fourfourtwo.com/person/coaches-managers/chelsea-ownership-reach-decision-on-liam-roseniors-future-following-poor-form-report?utm_source=openai)).
 
-Skeptical note
-- If the market’s 22.5% were far from all public estimates (>20 percentage points different) that would strongly indicate an error; here the difference vs bookmaker-implied probabilities is modest (a few percentage points after adjusting for vig), so it’s plausible market and bookmakers are close and the discrepancy is explained by differences in vig, timing, or traders’ private views.
+Skeptical notes (why obvious claims may be wrong)
+- If the market were far from bookmaker consensus by a large margin (e.g., >20 points), that would be a red flag. Here the difference is modest (a few percentage points). Bookmakers include vig and also move to balance liability, so small differences between a thin prediction market and bookmakers are normal.
+- The market’s zero trading volume is a real flag: a lack of volume means the quoted price may be a default or stale automated quotation rather than an actively bet-on market. It also means any single informed trader could move the price if they chose to trade.
 
-MARKET EFFICIENCY ANALYSIS
-- Market mechanics and volume: the user-provided market metrics show Age 49 days, Total Vol $0 and Price 22.5% with a tight spread (3¢). Zero volume means no executed trades — the visible price could be an initial seed/posted price from a market maker or the platform, not a price discovered through trading. Tight spread but zero volume is a red flag for price reliability: tight spread usually implies market making, but without trade flow, one cannot infer consensus among active traders.
-- Reasonable interpretations for the posted 22.5%:
-  - It could be the platform’s default/seed price (not yet battle-tested by traders).
-  - It could represent one or a few bettors’ initial positions (the platform shows that as the current price).
-  - Alternatively, it could reflect an informed view that Chelsea’s favorable quarter-final draw and recent attacking form make them a stronger FA Cup favourite than bookmakers imply.
-- Could it be genuine consensus among informed traders? Unlikely given $0 total volume. A genuine consensus would typically come with nontrivial trading volume as both professional bettors and bookmakers adjust exposure. Hence the price is likely not the result of broad, liquid information aggregation.
-- Why low volume? Possibilities:
-  - The market is new/overlooked and niche — many traders focus on higher‑liquidity football markets (match odds, top scorer).
-  - The resolution horizon is medium-term (final ~May 2026) and traders may prefer to wait for clearer information (post-quarterfinal and Champions League result).
-  - The platform audience may be small or this listing poorly promoted.
+3) MARKET EFFICIENCY ANALYSIS — could the 20.5% price be rational?
+- Reasonable justifications for 20.5%:
+  - Post-draw adjustment: After Chelsea were drawn at home vs a lower-league Port Vale, informed traders modeling bracket paths could mark Chelsea’s win probability up because the path to the final is relatively easier than for a team drawn to face multiple top clubs. That path-specific modeling can justify a ~20% probability even if pre-draw book odds were lower.
+  - Market-maker or single-participant setting the price: with $0 volume, a market-maker may have set a price reflecting a prior or a risk-based estimate rather than aggregated bets — this can produce a price a few points different to bookmaker consensus.
+- Could it reflect consensus among informed traders?
+  - Unclear: zero volume suggests not. The small spread (5¢) could be an automated spread set by platform logic rather than a competitive two-sided market with many participants.
+- Low volume driver: Is it low because outcome is obvious or because informed traders have not engaged?
+  - Likely the latter: the FA Cup winner market has many participants in mainstream betting exchanges and bookmakers; lack of activity on this particular prediction-market listing seems due to the platform’s low traction or users not using that market, rather than the event being obvious. The FA Cup remains uncertain until late stages.
 
-MISPRICING ASSESSMENT
-- Comparison baseline: bookmakers’ consensus (Oddschecker, mid-February snapshot and subsequent updates) priced Chelsea around 5/1 (≈16.7%). After removing typical vig, Chelsea’s no-vig implied probability might be somewhat higher (perhaps ~18–19%); still lower than 22.5% but within a plausible range.
-- Positive factors that traders might already have priced in (and which reduce the chance of mispricing): favorable quarter-final draw (Port Vale at Stamford Bridge), the presence of in-form attacking players (João Pedro), and a managerial boost under Rosenior.
-- Negative factors that appear under-weighted if the market truly implied 22.5%: Chelsea’s heavy 5–2 Champions League defeat to PSG (March 11) and the fact they were taken to extra time by Wrexham (March 7) indicate vulnerabilities; combined with a potentially congested fixture list and injury concerns, these point to less than “favourite” status.
-- Bottom line: There is modest evidence that the market price is somewhat optimistic relative to bookmaker-implied probabilities. But the discrepancy is not large — it appears to be roughly a few percentage points (my estimate: market 22.5% vs bookmaker-adjusted ~17–19%), i.e., a possible overpricing in the range of roughly 3–6 percentage points (3–6 cents on the 0–100¢ scale). Given the market has $0 volume (no real money has tested that price), that apparent gap may reflect an unchallenged seed price rather than a clear arbitrage opportunity.
+4) MISPRICING ASSESSMENT — is there credible evidence of mispricing?
+- Quantitative comparison:
+  - Market price: 20.5% (given).
+  - Bookmaker-implied range observed across sources: roughly 12–17% (bookmakers differ; some show 5/1 = 16.7%; some show 7/1 or 8/1). Using a mid-book implied probability around 15–17% suggests the market is ~3.5–5.5 percentage points higher than many bookmakers.
+- Is that difference large enough to call it mispricing?
+  - No strong, conclusive evidence of a large mispricing. The difference is modest (a few percentage points). Given:
+    - bookmakers include vig (which reduces implied probability), and
+    - some bookmakers’ odds and any path-specific modeling can vary,
+    - and Chelsea’s favorable draw (Port Vale at home) plausibly raises their post-draw win probability,
+  the market’s 20.5% is within a plausible range of disagreement rather than a clear arbitrage.
+- Missing or overlooked information? The critical checks:
+  - Resolution criteria: Chelsea are still in the competition (not eliminated) and quarter-final tie not yet played as of Mar 22, 2026 — I confirmed this via The FA. So the market hasn’t missed a disqualifying event. ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai)).
+  - Could I be missing a key piece that justifies bookies’ lower odds (e.g., a late injury)? Possibly — but I found reporting of form/managerial pressure that biases against Chelsea, which would lower probability, not raise it. No authoritative source indicated Chelsea had been eliminated or that a resolution condition was already met.
+- Conclusion on mispricing:
+  - There is not strong, specific evidence that the market is grossly mispriced. The market is modestly more optimistic about Chelsea than many bookmaker prices, but the difference is within plausible model disagreement given the favorable quarter-final draw and variance in bookmaker pricing. The zero-dollar volume is a concern about reliability (the quote may not reflect active consensus), but it is not proof of a large exploitable mispricing.
 
-CRITICAL CHECK (asked-for sanity checks)
-- Resolution rules are straightforward: Chelsea must win the final. The market description is clear and there is no known technicality that would make Chelsea ineligible.
-- Large mispricings (>20¢) would be implausible here; the observed difference is small. I re-checked the draw, Chelsea’s status in the competition, and bookmaker odds to make sure I was not misreading the question or missing an elimination — Chelsea are alive and scheduled to play Port Vale in the quarter-final.
-- Most charitable interpretation of the 22.5% price: it is either (a) a seed price reflecting a trader’s slightly bullish view based on Chelsea’s squad and favourable draw, or (b) a platform default that has not attracted liquidity.
+5) EXPECTED VALUE CALCULATION — my estimate
+- Strength of evidence that market is mispriced (i.e., specific, credible evidence that price is missing material information): I assess this as moderate–low. Bookmakers mostly give lower implied probabilities, but differences are modest and bookmakers have vig; the main structural concern is zero volume. I assign Strength = 40%.
+- Magnitude of mispricing (difference between market and plausible benchmark): Market 20.5% vs benchmark ~16.7% (bookmaker mid-range) ≈ 3.8 percentage points = 3.8 cents.
+- Expected value = Strength × Magnitude = 0.40 × 3.8 cents = 1.52 cents.
+- Rounded numeric: 1.5 cents.
 
-EXPECTED VALUE CALCULATION
-- Strength of evidence that a genuine mispricing exists (0–100%): 50%. Rationale: bookmakers consistently price Chelsea lower than 22.5% (≈16.7% listed), and recent poor results (PSG 5–2) provide a plausible reason to be skeptical of a 22.5% price — but bookmakers include vig and there are legitimate bullish factors (favourable quarter-final draw, good attacking form). The zero-trading-volume signal reduces confidence that the displayed price is a market consensus rather than an arbitrary seed.
-- Magnitude of mispricing (cents): I estimate 3–6 cents; best single-point estimate = 5.8 cents (22.5% minus ~16.7% bookmaker-implied), but after adjusting for likely bookmaker vig/no‑vig correction a conservative magnitude is ~4 cents.
-- Expected value = Strength × Magnitude = 50% × 4¢ ≈ 2¢ (I will report the more precise computed number below).
+6) CONFIDENCE
+- I rate my confidence in the assessment as medium. The FA-draw and bookmaker evidence are recent and credible, but the conclusion depends on interpretation of bookmaker ranges, vig, and the significance of a single favorable draw; plus the platform’s zero volume is a structural red flag but not definitive evidence of mispricing.
 
-CONCLUSION and RECOMMENDATION
-- There is limited but credible evidence the market price (22.5%) is modestly optimistic relative to mainstream bookmaker prices and to some recent negative performance signals (Champions League collapse, a narrow cup win vs Wrexham). However, the gap is small (a few percentage points) and the platform market shows zero traded volume (Age 49d, Total Vol $0), so the posted price is not yet validated by trading.
-- Practically: this looks like a low-liquidity listing whose price may reflect a seed/baseline or one trader’s view. It may be worth monitoring until (a) Chelsea actually plays Port Vale (April 4) and (b) the Champions League tie is concluded (return leg), or waiting for actual trade volume before committing capital. If you prefer to act now, expect only small edges (a few cents) and substantial risk that public bookmakers or other traders will move the price quickly as events resolve.
+Short critical checklist I applied
+- Resolution criteria checked: Chelsea still alive per The FA (not eliminated). ([thefa.com](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903?utm_source=openai))
+- Timeline confirmed: quarter-finals early April; semis late April; final in May — competition resolves within the market’s stated timeframe. ([thefa.com](https://www.thefa.com/competitions/thefacup/round-dates?utm_source=openai))
+- I considered bookmaker odds, club form/managerial context, and cup volatility.
 
-EXPECTED_VALUE: 2.0
-SUMMARY: Chelsea are still alive in the 2025–26 FA Cup (QF vs Port Vale) and the prediction-market price (22.5%) is modestly higher than bookmaker-implied odds (~5/1 → ~16.7%). Given zero market volume, the price likely reflects a seed/initial posting or a small set of traders; evidence indicates a small possible overpricing of a few cents, but uncertainty is moderate. 
+Final judgment (concise)
+- The market’s 20.5% for Chelsea to win the 2025–26 FA Cup is somewhat higher than many bookmaker-implied probabilities (which cluster ~12–17%), but the gap is modest and can be justified by path-specific factors (home quarter vs lower-league Port Vale) and model disagreement. The lack of trading volume is a reliability concern — the quote may not reflect an informed consensus — but I do not see specific, high-confidence evidence of a large (>20 cent) mispricing. My estimate of expected value from investigating/trading this market is small (~1.5 cents).
+
+EXPECTED_VALUE: 1.5
+SUMMARY: Chelsea remain alive in the 2025–26 FA Cup (drawn at home to Port Vale in the quarter-finals), and bookmakers generally price Chelsea lower than this market but in a nearby range; the market’s zero trading volume is a reliability concern. Overall, there is modest evidence the market is a few percentage points rich versus bookmaker consensus, but not enough to call a clear, large mispricing.
 CONFIDENCE: medium
 
 ---
@@ -80,32 +109,42 @@ CONFIDENCE: medium
 
 *The following sources were found via web search and used in the analysis:*
 
-### [The Emirates FA Cup quarter-final draw has been made](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260309)
+### [The Emirates FA Cup quarter-final draw for 2025-26 has been made](https://www.thefa.com/news/2026/mar/09/emirates-fa-cup-quarter-final-draw-has-been-made-20260903)
 **Author:** The FA | **Published:** 2026-03-09
 
-Official FA report of the FA Cup quarter‑final draw (made on 9 March 2026). The page lists the Chelsea v Port Vale quarter‑final tie and the scheduled quarter‑final weekend (around 4 April 2026). This is a primary source confirming Chelsea remain in the competition and showing they have a favourable quarter‑final draw — a key datum for assessing Chelsea’s path probability (supports why some traders might price Chelsea higher).
+Official FA announcement of the quarter-final draw (made 9 March 2026). It lists the last eight and specifically shows Chelsea drawn to host Port Vale at Stamford Bridge in the quarter-finals. This is the primary authoritative confirmation that Chelsea remain in the competition and identifies a relatively favorable path (home tie vs a lower-league opponent), which increases Chelsea’s conditional chance of reaching the semis and therefore affects their outright win probability. This supports the view that a post-draw outright probability above pre-draw bookmaker odds is plausible, but does not by itself prove the market price is correct.
 
-### [Match report: Wrexham 2-4 Chelsea AET](https://www.chelseafc.com/en/news/article/match-report-wrexham-2-4-chelsea-aet)
-**Author:** Chelsea F.C. (official) | **Published:** 2026-03-07
+### [Emirates FA Cup round dates for the 2025-26 season](https://www.thefa.com/competitions/thefacup/round-dates)
+**Author:** The FA | **Published:** Unknown (page updated 2026)
 
-Official Chelsea match report for the FA Cup fifth-round tie at Wrexham (7 March 2026). It describes how Chelsea came from behind twice and won 4–2 after extra time (Garnacho, João Pedro). This confirms Chelsea’s progression to the quarter-finals and documents the match context (needed extra time, VAR incidents), which informs the risk assessment of Chelsea’s cup form (both supportive — they progressed — and cautionary — they were taken to extra time).
+Official FA page listing competition round dates (fifth round, quarter-final weekend, semi-final date, etc.). Confirms the timetable (quarter-finals early April, semis 25 April, etc.) and shows the competition will resolve well before the June 30, 2026 resolution cutoff. This matters for timeline/fixture congestion considerations and confirms there is still time for result uncertainty — meaning the market should still be forward-looking and can be priced on remaining matchups.
 
-### [Wrexham 2-4 Chelsea: Liam Rosenior's side book place in FA Cup quarter-finals after six-goal thriller at Racecourse Ground](https://www.skysports.com/football/news/11095/13515554/wrexham-2-4-chelsea-liam-roseniors-side-book-place-in-fa-cup-quarter-finals-after-six-goal-thriller-at-racecourse-ground)
-**Author:** Sky Sports | **Published:** 2026-03-07
+### [2025-26 FA Cup: Quarterfinal draw, Fifth round results, how to watch live, results, scores, video highlights - NBC Sports](https://www.nbcsports.com/soccer/news/fa-cup-schedule-watch-live-scores-highlights)
+**Author:** NBC Sports | **Published:** 2026-03 (updated)
 
-Independent match report summarising the Wrexham v Chelsea FA Cup tie (7 March 2026), noting key events (two leads for Wrexham, VAR decisions, extra-time goals from Garnacho and João Pedro). Sky’s piece corroborates the official report and highlights that Chelsea’s win was unconvincing, which weakens the case for treating Chelsea as a heavy favourite in later rounds.
+NBC Sports’ FA Cup coverage provides a running summary of results and the quarter-finalists; it lists Chelsea among the teams that booked quarter-final places. This mainstream reporting corroborates the FA’s draw and confirms Chelsea’s progression to the last eight. It’s useful as an independent media confirmation that Chelsea remain in the tournament and that the quarter-final draw occurred as reported.
 
-### [Full FA Cup Fifth Round draw & latest odds to win tournament](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament)
-**Author:** Leon Blackman / Oddschecker | **Published:** 2026-02-16
+### [FA Cup quarter-final draw recap: Latest news as Manchester City handed Liverpool clash, Chelsea host Port Vale and Arsenal visit Southampton - TNT Sports](https://www.tntsports.co.uk/football/the-emirates-fa-cup/2025-2026/quarter-final-draw-live-arsenal-liverpool-man-city-chelsea-port-vale_sto23279244/story.shtml)
+**Author:** TNT Sports | **Published:** 2026-03-09
 
-Oddschecker’s mid‑February summary of FA Cup fifth-round draw and listed outright winner odds (Man City, Arsenal, Liverpool ahead; Chelsea quoted around ~13/2 or 5/1 in many books). This source supplies bookmaker market consensus that I used to compare against the prediction-market price (22.5%) — bookmakers imply a lower Chelsea probability than the market price, which is the central numeric evidence for a modest overpricing claim.
+TNT Sports’ recap of the quarter-final draw highlights Chelsea being drawn at home to Port Vale and discusses the other ties. The article notes Wrexham and other underdogs’ strong performances in the earlier rounds, implying volatility and upset risk in this FA Cup edition. This source reinforces that Chelsea’s draw is comparatively favourable but also that the cup has produced surprise results — a factor that reduces certainty even when a top club draws a lower-league opponent.
 
-### [PSG 5-2 Chelsea: Blues blown away late in Champions League 1st leg](https://www.nbcsports.com/soccer/news/psg-5-2-chelsea-champions-league-video-highlights-analysis-recap)
-**Author:** NBC Sports | **Published:** 2026-03-11
+### [FA CUP: Port Vale stun Sunderland, Southampton beat Fulham](https://supersport.com/football/news/2b45e55a-7ef1-4512-9d84-3b5eb72529f1/ice-cool-southampton-shock-fulham-to-reach-fa-cup-quarters)
+**Author:** SuperSport | **Published:** 2026-03-08
 
-Match report and analysis of the UEFA Champions League Round of 16 first-leg fixture on March 11, 2026 where Paris Saint‑Germain defeated Chelsea 5–2. This is recent, concrete evidence of Chelsea conceding multiple goals against top continental opposition — it is relevant because heavy European defeats affect team form, squad fatigue, and injury/selection choices, all of which influence Chelsea’s realistic FA Cup chances.
+Match report summarizing fifth-round upsets and ties that advanced to the quarter-finals (e.g., Port Vale progress). It notes that several lower-league sides had notable cup runs, demonstrating that the current FA Cup edition has real upset potential—this increases tournament variance and is relevant to assessing Chelsea’s true probability of winning despite a favourable draw.
 
-### [Match report: Hull City 0-4 Chelsea](https://www.chelseafc.com/en/news/article/match-report-hull-city-0-4-chelsea)
-**Author:** Chelsea F.C. (official) | **Published:** 2026-02-13
+### [FA Cup Winner odds & Full coverage (bet365 hub page, FA Cup)](https://www.bet365.com/hub/en-gb/football/football-competitions/football/football-competitions/fa-cup)
+**Author:** bet365 | **Published:** Unknown (updated dynamically; cited March 2026)
 
-Chelsea’s official report of their FA Cup fourth-round win over Hull City (13 February 2026), showing convincing performance (Pedro Neto hat‑trick) that took them into the fifth round. This demonstrates Chelsea’s capacity to dispatch lower‑league opposition comfortably in the earlier rounds — a factor that argues the club should be rated as a live contender relative to non‑top‑flight sides.
+Bet365’s FA Cup outright pages list odds for teams to win the tournament; during March 2026 Chelsea’s odds were presented in the 5/1–8/1 range across different snapshots. These odds imply probabilities typically lower than the market’s 20.5% (book-implied probabilities ~12–17%), providing a commercial benchmark for market comparison. Bookmaker odds are useful but include vig and book balancing considerations, so differences from the prediction-market price are not definitive proof of mispricing.
+
+### [Full FA Cup Fifth Round Draw & Latest Odds to Win Tournament | Oddschecker](https://www.oddschecker.com/insight/football/20260216-full-fa-cup-fifth-round-draw-latest-odds-to-win-tournament)
+**Author:** Oddschecker | **Published:** 2026-02-16
+
+Aggregated odds and commentary around the time of the fifth round, showing favorites (Man City, Arsenal, Liverpool) and listing Chelsea’s outright odds in the bookmaker range (implied probabilities lower than 20.5%). Oddschecker aggregates many books so it gives a useful market consensus benchmark; it shows reasonable divergence among books and confirms Chelsea was not the market favorite, supporting the assessment that the prediction-market price is somewhat more bullish than bookmaker consensus.
+
+### [Chelsea ownership reach decision on Liam Rosenior's future, following poor form: report](https://www.fourfourtwo.com/person/coaches-managers/chelsea-ownership-reach-decision-on-liam-roseniors-future-following-poor-form-report)
+**Author:** Unknown | **Published:** 2026-03-20
+
+Reporting on Chelsea’s poor run of results and reported ownership/managerial decisions (noting three wins in the last nine matches and pressure on the manager). This evidence is relevant to Chelsea’s form and squad stability entering the quarter-final and could reduce their chance of an extended cup run—contrary to any very optimistic outright probability. It therefore weighs against interpreting the market’s 20.5% as obviously correct.
